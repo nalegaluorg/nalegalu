@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
 
 | Pole | Wartość |
 |---|---|

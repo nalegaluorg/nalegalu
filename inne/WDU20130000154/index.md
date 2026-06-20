@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o wspieraniu rodziny i systemie pieczy zastępczej
+# Ustawa z dnia 14 grudnia 2012 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o wspieraniu rodziny i systemie pieczy zastępczej
 
 *USTAWA z dnia 14 grudnia 2012 r.*
 

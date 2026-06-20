@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości
+# Ustawa z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

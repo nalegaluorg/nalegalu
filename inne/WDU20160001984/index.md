@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2017
+# Ustawa z dnia 2 grudnia 2016 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2017
 
 *USTAWA z dnia 2 grudnia 2016 r.*
 

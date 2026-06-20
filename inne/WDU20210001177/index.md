@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
+# Ustawa z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym
 
 *USTAWA z dnia 20 maja 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-06-30 |
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1177/text.pdf) |
-
-Art. 64–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -777,7 +775,7 @@ Art. 64–75. (pominięte)
     - **f)** rodzaj posiadanego przez dewelopera środka ochrony wpłat nabywców i nazwa banku lub kasy prowadzących mieszkaniowy rachunek powierniczy, <g) planowany termin rozpoczęcia robót budowlanych,
     - **h)** planowany termin zakończenia robót budowlanych,
     - **i)** liczba lokali mieszkalnych planowanych w ramach przedsięwzięcia deweloperskiego lub zadania inwestycyjnego,
-    - **j)** nazwa, pod którą jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, o ile została nadana;>
+    - **j)** nazwa, pod którą jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, o ile została nadana;
 
 - **5)** umowach, o których mowa w art. 2 ust. 1 i 2:
     - **a)** data zawarcia, zmiany i rozwiązania umowy,
@@ -793,7 +791,7 @@ Art. 64–75. (pominięte)
     - **l)** liczba pokoi w lokalu mieszkalnym albo domu jednorodzinnym objętym umową,
     - **m)** kondygnacja nadziemna budynku, na której znajduje się lokal mieszkalny objęty umową,
     - **n)** liczba kondygnacji nadziemnych i liczba kondygnacji podziemnych budynku, w którym znajduje się lokal mieszkalny objęty umową,
-    - **o)** dane o akcie notarialnym zawierającym przeniesienie na nabywcę własności nieruchomości, której dotyczy umowa, o której mowa w art. 2 ust. 1: – numer, pod którym akt został wpisany do repertorium A, – data aktu, – imię i nazwisko notariusza, który sporządził akt, a w przypadku gdy akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – również imię i nazwisko tej osoby;>
+    - **o)** dane o akcie notarialnym zawierającym przeniesienie na nabywcę własności nieruchomości, której dotyczy umowa, o której mowa w art. 2 ust. 1: – numer, pod którym akt został wpisany do repertorium A, – data aktu, – imię i nazwisko notariusza, który sporządził akt, a w przypadku gdy akt sporządziła osoba wyznaczona do zastępstwa notariusza lub upoważniona do dokonywania czynności notarialnych – również imię i nazwisko tej osoby;
 
 - **6)** mieszkaniowych rachunkach powierniczych:
     - **a)** rodzaj rachunku,
@@ -836,7 +834,11 @@ Art. 64–75. (pominięte)
 
 5. Ubezpieczeniowy Fundusz Gwarancyjny oraz osoby w nim zatrudnione, którym zgodnie z ust. 1 pkt 1 udzielono informacji objętych tajemnicą bankową lub tajemnicą zawodową lub je ujawniono, mogą wykorzystać te informacje wyłącznie w celu realizacji zadań określonych w ustawie.
 
-6. Jeżeli deweloper nie wykona w terminie obowiązku przekazania do Ewidencji danych i informacji, o których mowa w ust. 1 pkt 3, Ubezpieczeniowy Fundusz Gwarancyjny informuje o tym bank lub kasę, które wstrzymują wypłatę środków z mieszkaniowego rachunku powierniczego do czasu przekazania danych do Ewidencji. [Art. 52. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje zawarte w Ewidencji w celu weryfikacji prawidłowości wysokości odprowadzanych składek, o których mowa w art. 49, prowadzenia analiz, oceny ryzyka i adekwatności posiadanych środków oraz realizacji obowiązku sprawozdawczego, o którym mowa w art. 56.] <Art. 52. 1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje zawarte w Ewidencji w celu:
+6. Jeżeli deweloper nie wykona w terminie obowiązku przekazania do Ewidencji danych i informacji, o których mowa w ust. 1 pkt 3, Ubezpieczeniowy Fundusz Gwarancyjny informuje o tym bank lub kasę, które wstrzymują wypłatę środków z mieszkaniowego rachunku powierniczego do czasu przekazania danych do Ewidencji.
+
+**Art. 52.**
+
+1. Ubezpieczeniowy Fundusz Gwarancyjny gromadzi i przetwarza dane i informacje zawarte w Ewidencji w celu:
 
 - **1)** weryfikacji prawidłowości wysokości odprowadzanych składek, o których mowa w art. 49, prowadzenia analiz, oceny ryzyka i adekwatności posiadanych środków oraz realizacji obowiązku sprawozdawczego, o którym mowa w art. 56;
 - **2)** opracowywania analiz statystycznych w postaci uniemożliwiającej identyfikację podmiotów, o których mowa w art. 50 ust. 2 pkt 1–3, oraz udostępniania tych analiz podmiotom, o których mowa w art. 51 ust. 1 pkt 1 i 3 oraz art. 56e ust. 1;
@@ -844,7 +846,7 @@ Art. 64–75. (pominięte)
 
 2. Ubezpieczeniowy Fundusz Gwarancyjny udostępnia analizy statystyczne, o których mowa w ust. 1 pkt 2, podmiotom, o których mowa w art. 56e ust. 1, w celu realizacji ustawowych zadań tych podmiotów, przyczyniających się do prowadzenia polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli.
 
-3. Do analiz statystycznych, o których mowa w ust. 1 pkt 2, przepisy art. 56e ust. 3–5 stosuje się odpowiednio.>
+3. Do analiz statystycznych, o których mowa w ust. 1 pkt 2, przepisy art. 56e ust. 3–5 stosuje się odpowiednio.
 
 **Art. 53.** Dane i informacje zgromadzone w Ewidencji mogą być udostępniane przez Ubezpieczeniowy Fundusz Gwarancyjny za pośrednictwem systemu teleinformatycznego obsługującego Ewidencję:
 
@@ -1022,7 +1024,7 @@ Art. 64–75. (pominięte)
 - **1)** liczba lokali mieszkalnych albo domów jednorodzinnych jest nie niższa niż sześć;
 - **2)** liczba różnych nabywców jest nie niższa niż sześć.
 
-5. Upublicznianie informacji statystycznych zgodnie z ust. 1 następuje w sposób, który uniemożliwia identyfikację nabywców i nieruchomości.>
+5. Upublicznianie informacji statystycznych zgodnie z ust. 1 następuje w sposób, który uniemożliwia identyfikację nabywców i nieruchomości.
 
 #### Rozdział 9 Przepisy karne
 
@@ -1032,11 +1034,19 @@ Art. 64–75. (pominięte)
 
 **Art. 59.** Kto, będąc odpowiedzialnym za informacje i dane zawarte w prospekcie informacyjnym, podaje nieprawdziwe lub zataja prawdziwe informacje lub dane, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
-**Art. 60.** Kto, będąc obowiązanym do posiadania w chwili rozpoczęcia sprzedaży zgody wierzyciela hipotecznego lub zobowiązania do jej udzielenia, o których mowa w art. 25 ust. 1 pkt 1 lub 2, nie spełnia tego obowiązku, podlega grzywnie. <Art. 60a. Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje niezgodne ze stanem faktycznym, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+**Art. 60.** Kto, będąc obowiązanym do posiadania w chwili rozpoczęcia sprzedaży zgody wierzyciela hipotecznego lub zobowiązania do jej udzielenia, o których mowa w art. 25 ust. 1 pkt 1 lub 2, nie spełnia tego obowiązku, podlega grzywnie.
+
+**Art. 60a.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje niezgodne ze stanem faktycznym, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 **Art. 60b.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, nie spełnia tego obowiązku, podlega grzywnie.
 
-**Art. 60c.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje po upływie terminu, o którym mowa w art. 56c pkt 2, podlega karze grzywny.> [Art. 61. Jeżeli deweloperem jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 57–60 ponosi osoba fizyczna działająca w imieniu lub w interesie dewelopera w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.] <Art. 61. 1. Jeżeli deweloperem jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 57–60c ponosi osoba fizyczna działająca w imieniu lub w interesie dewelopera w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji. 2. Jeżeli przedsiębiorcą innym niż deweloper jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 60a–60c ponosi osoba fizyczna działająca w imieniu lub w interesie przedsiębiorcy innego niż deweloper w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.>
+**Art. 60c.** Kto, będąc obowiązanym do przekazania do Portalu DOM danych i informacji o umowach, o których mowa w art. 3 pkt 1 lub art. 4 pkt 1, przekazuje dane lub informacje po upływie terminu, o którym mowa w art. 56c pkt 2, podlega karze grzywny.
+
+**Art. 61.**
+
+1. Jeżeli deweloperem jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 57–60c ponosi osoba fizyczna działająca w imieniu lub w interesie dewelopera w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.
+
+2. Jeżeli przedsiębiorcą innym niż deweloper jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w art. 60a–60c ponosi osoba fizyczna działająca w imieniu lub w interesie przedsiębiorcy innego niż deweloper w ramach uprawnienia lub obowiązku do jego reprezentowania lub podejmowania w jego imieniu decyzji.
 
 **Art. 62.** Kto wypłaca deweloperowi środki zgromadzone na:
 
@@ -1048,6 +1058,8 @@ Art. 64–75. (pominięte)
 **Art. 63.** Orzekanie w sprawach o czyny, o których mowa w art. 58 < i art. 60c>, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 64–75.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

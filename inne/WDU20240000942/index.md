@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa
 
 | Pole | Wartość |
 |---|---|

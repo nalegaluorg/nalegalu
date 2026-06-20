@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Rządowym Funduszu Rozwoju Dróg
+# Ustawa z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg
 
 *USTAWA z dnia 23 października 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-11-19 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002161) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2161/text.pdf) |
-
-Art. 40–42. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1172,10 +1170,11 @@ Art. 40–42. (pominięte)
 7. Umowa, o której mowa w ust. 4:
 
 - **1)** podlega ochronie zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222);
-- **2)** nie stanowi informacji publicznej w rozumieniu art. 1 ust. 1 ustawy z dnia 6 września 2011 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz.
-- **902)** .
+- **2)** nie stanowi informacji publicznej w rozumieniu art. 1 ust. 1 ustawy z dnia 6 września 2011 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
 #### Rozdział 4 Przepisy zmieniające, epizodyczne, dostosowujące, przejściowe i końcowe
+
+**Art. 40–42.** (pominięte)
 
 **Art. 42a.** W roku 2020 w planie finansowym Funduszu mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 9–12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 

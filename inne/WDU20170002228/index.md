@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2017”
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2017"
 
 *USTAWA z dnia 12 października 2017 r.*
 

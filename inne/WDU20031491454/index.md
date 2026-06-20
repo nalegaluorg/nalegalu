@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o regionalnych izbach obrachunkowych, ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 24 lipca 2003 r. o zmianie ustawy o regionalnych izbach obrachunkowych, ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 24 lipca 2003 r.*
 

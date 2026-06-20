@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
+# Ustawa z dnia 19 lipca 2016 r. o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
 
 *USTAWA z dnia 19 lipca 2016 r.*
 

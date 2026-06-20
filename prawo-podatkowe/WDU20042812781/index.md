@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o systemie oświaty oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 16 grudnia 2004 r.*
 

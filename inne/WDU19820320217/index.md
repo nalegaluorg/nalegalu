@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o społeczno-zawodowych organizacjach rolników Mając na uwadze, że Rzeczpospolita Polska gwarantuje własność, całkowitą ochronę i prawo dziedziczenia indywidualnych gospodarstw rolnych oraz że gospodarstwa te stanowią trwały i równoprawny element społeczno-gospodarczego ustroju Rzeczypospolitej Polskiej; uznając równoprawny z innymi zawodami status społeczno-zawodowy rolników indywidualnych oraz potrzebę zapewnienia należytej reprezentacji ich zawodowych i społecznych interesów wobec organów państwowych oraz państwowych i społecznych jednostek organizacyjnych działających na rzecz wsi i rolnictwa, jak też udziału w decydowaniu o sprawach związanych z rozwojem indywidualnych gospodarstw rolnych i postępem społecznym na wsi; kierując się troską o wyżywienie Narodu oraz dobrem Rzeczypospolitej Polskiej stanowi się, co następuje:
+# Ustawa z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników.
 
 *USTAWA z dnia 8 października 1982 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nawozach i nawożeniu
+# Ustawa z dnia 29 września 2022 r. o zmianie ustawy o nawozach i nawożeniu
 
 *USTAWA z dnia 29 września 2022 r.*
 

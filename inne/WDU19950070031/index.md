@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 17 listopada 1994 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
 *USTAWA z dnia 17 listopada 1994 r.*
 

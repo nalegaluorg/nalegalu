@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz niektórych innych ustaw
+# Ustawa z dnia 27 sierpnia 2003 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz innych ustaw
 
 *USTAWA z dnia 27 sierpnia 2003 r.*
 

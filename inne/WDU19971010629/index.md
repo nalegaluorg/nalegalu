@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo przewozowe
+# Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy - Prawo przewozowe.
 
 *USTAWA z dnia 26 czerwca 1997 r.*
 

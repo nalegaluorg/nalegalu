@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji finansowej górnictwa siarki
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji finansowej górnictwa siarki
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie informacji oświatowej oraz ustawy o systemie oświaty
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o systemie informacji oświatowej oraz ustawy o systemie oświaty
 
 *USTAWA z dnia 26 stycznia 2007 r.*
 

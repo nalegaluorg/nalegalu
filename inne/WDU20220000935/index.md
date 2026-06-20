@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Karta Nauczyciela
+# Ustawa z dnia 24 marca 2022 r. o zmianie ustawy - Karta Nauczyciela
 
 *USTAWA z dnia 24 marca 2022 r.*
 

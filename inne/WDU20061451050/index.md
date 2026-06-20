@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawy o podpisie elektronicznym
+# Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawy o podpisie elektronicznym
 
 *USTAWA z dnia 21 lipca 2006 r.*
 

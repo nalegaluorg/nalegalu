@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 czerwca 2007 r.*
 

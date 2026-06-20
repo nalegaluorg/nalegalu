@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o publicznym obrocie papierami wartościowymi, ustawy o rachunkowości oraz ustawy o listach zastawnych i bankach hipotecznych
+# Ustawa z dnia 23 lipca 1998 r. o zmianie ustawy - Prawo o publicznym obrocie papierami wartościowymi, ustawy o rachunkowości oraz ustawy o listach zastawnych i bankach hipotecznych.
 
 *USTAWA z dnia 23 lipca 1998 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
+# Ustawa z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
 
 *USTAWA z dnia 7 października 2022 r.*
 
@@ -452,7 +452,9 @@ source: pdf
 
 3. Po przeprowadzeniu kontroli, o której mowa w ust. 1, upoważnieni pracownicy Instytutu mogą formułować wnioski i zalecenia pokontrolne.
 
-4. Instytut może odstąpić od umowy o wsparcie w przypadku wykorzystania wsparcia niezgodnie z przeznaczeniem lub nieterminowego bądź nienależytego wykonywania umowy o wsparcie, w tym zmniejszenia zakresu przedsięwzięcia objętego wsparciem stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych. Art. 27–29. (pominięte)
+4. Instytut może odstąpić od umowy o wsparcie w przypadku wykorzystania wsparcia niezgodnie z przeznaczeniem lub nieterminowego bądź nienależytego wykonywania umowy o wsparcie, w tym zmniejszenia zakresu przedsięwzięcia objętego wsparciem stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych.
+
+**Art. 27–29.** (pominięte)
 
 **Art. 30.** Tworzy się Instytut.
 

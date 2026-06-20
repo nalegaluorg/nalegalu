@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bateriach i akumulatorach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bateriach i akumulatorach
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 24 kwietnia 2009 r.
 o bateriach i akumulatorach
-Art. 104–114. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -275,7 +274,9 @@ Art. 104–114. (pominięte)
 
 1. Przedsiębiorca przed rozpoczęciem działalności w zakresie wprowadzania do obrotu baterii lub akumulatorów na terytorium kraju lub przetwarzania zużytych baterii lub zużytych akumulatorów, przed dokonaniem pierwszego wprowadzenia do obrotu baterii lub akumulatorów na terytorium kraju lub pierwszego przetwarzania zużytych baterii lub zużytych akumulatorów, jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
 
-2. Podmiot pośredniczący przed rozpoczęciem działalności jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach. Art. 19–26. (uchylone)
+2. Podmiot pośredniczący przed rozpoczęciem działalności jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+**Art. 19–26.** (uchylone)
 
 #### Rozdział 5 Obowiązki wprowadzających baterie lub akumulatory
 
@@ -894,6 +895,8 @@ Art. 104–114. (pominięte)
 4. W sprawach dotyczących kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
 
 #### Rozdział 14 Zmiany w przepisach obowiązujących
+
+**Art. 104–114.** (pominięte)
 
 #### Rozdział 15 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

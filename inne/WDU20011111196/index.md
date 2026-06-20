@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji hutnictwa żelaza i stali
+# Ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali.
 
 *USTAWA z dnia 24 sierpnia 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2001-10-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011111196) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1196/text.pdf) |
-
-Art. 14–19. (utraciły moc)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -220,6 +218,8 @@ Art. 14–19. (utraciły moc)
 11. W przypadku gdy PHS S.A. nie zostanie powołana bądź też gdy spółka ta będzie posiadała jedynie większościowe pakiety akcji hut wymienionych w art. 22 ust. 1, Agencja może wyemitować obligacje, z których uzyskane środki pieniężne przeznaczone będą na restrukturyzację finansową tych hut poprzez wykup zobowiązań, o których mowa w ust. 2.
 
 #### Rozdział 3 Aktywizacja zawodowa pracowników na rynku pracy
+
+**Art. 14–19.** (utraciły moc)
 
 **Art. 20.** Pracownicy hut, o których mowa w art. 22 ust. 1, zachowują uprawnienia określone w niniejszym rozdziale po połączeniu tych hut w PHS S.A.
 

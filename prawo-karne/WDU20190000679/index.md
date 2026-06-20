@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy oraz ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy - Kodeks karny wykonawczy oraz ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 21 lutego 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

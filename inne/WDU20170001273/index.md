@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rybołówstwie morskim
+# Ustawa z dnia 25 maja 2017 r. o zmianie ustawy o rybołówstwie morskim
 
 *USTAWA z dnia 25 maja 2017 r.*
 

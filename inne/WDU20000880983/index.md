@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
+# Ustawa z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw.
 
 *USTAWA z dnia 15 września 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2000-10-20 |
 | Ostatnia zmiana | 2025-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/983/text.pdf) |
-
-Art. 25–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -87,7 +85,9 @@ Art. 25–28. (pominięte)
 - **5)** określi, obowiązujące członków grupy wskazanych w pkt 1, zasady produkcji produktów lub grup produktów, w tym dotyczące ich jakości i ilości, oraz sposoby przygotowania ich do sprzedaży;
 - **6)** każdy z członków grupy wskazanych w pkt 1 w każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
 - **7)** każdy z członków grupy wskazanych w pkt 1 przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
-- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona. Art. 3aa. W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
+- **8)** żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+**Art. 3aa.** W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią – nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią – 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
 
 **Art. 3b.** Warunku, o którym mowa w art. 3 ust. 1 pkt 6 oraz art. 3a pkt 6, nie stosuje się w przypadku, gdy brak produkcji jest spowodowany działaniem siły wyższej lub wystąpieniem nadzwyczajnych okoliczności, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, z późn. zm. ).
 
@@ -381,6 +381,8 @@ Art. 25–28. (pominięte)
 **Art. 24.** (uchylony)
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+
+**Art. 25–28.** (pominięte)
 
 **Art. 29.** Ustawa wchodzi w życie po upływie jednego miesiąca od dnia ogłoszenia .
 

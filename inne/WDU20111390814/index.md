@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie informacji oświatowej
+# Ustawa z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 
@@ -614,11 +614,13 @@ source: pdf
 
 3. Z dniem otrzymania przez bazę danych SIO informacji, o której mowa w ust. 2, dane szkoły lub placówki oświatowej zostają wpisane do RSPO.
 
-4. W przypadku szkoły, której dane identyfikacyjne zostały wpisane do RSPO, w bazie danych SIO w zbiorze danych jednostek w zakresie właściwej okręgowej komisji egzaminacyjnej jest generowany komunikat o wpisaniu do RSPO tych danych. <Art. 35a. Minister właściwy do spraw informatyzacji, w związku z wydaniem mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, przekazuje do bazy danych SIO dane obejmujące:
+4. W przypadku szkoły, której dane identyfikacyjne zostały wpisane do RSPO, w bazie danych SIO w zbiorze danych jednostek w zakresie właściwej okręgowej komisji egzaminacyjnej jest generowany komunikat o wpisaniu do RSPO tych danych.
+
+**Art. 35a.** Minister właściwy do spraw informatyzacji, w związku z wydaniem mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, przekazuje do bazy danych SIO dane obejmujące:
 
 - **1)** kod QR służący do wydania mLegitymacji szkolnej;
 - **2)** kod aktywacyjny mLegitymacji szkolnej;
-- **3)** numer edycji mLegitymacji szkolnej.>
+- **3)** numer edycji mLegitymacji szkolnej.
 
 **Art. 36.**
 
@@ -920,7 +922,11 @@ source: pdf
 
 2. Pozyskanie danych, o których mowa w art. 58 ust. 1 pkt 2 i art. 59 pkt 2, odbywa się po przekazaniu do bazy danych SIO przez kierownika podmiotu uprawnionego do ich pozyskania oświadczenia o wyrażeniu przez nauczyciela zgody, o której mowa w ust. 1, a w przypadku pozyskania danych, o których mowa w art. 59 pkt 2 – również danych identyfikacyjnych nauczyciela.
 
-**Art. 60a.** Dane ucznia oraz dane nauczyciela, o których mowa odpowiednio w art. 44a ust. 7 pkt 1 lit. a i b oraz pkt 2 lit. a–c ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych narzędzia informatycznego, o którym mowa w art. 44a ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej. Art. 60aa. (uchylony) Art. 60ab. Dane ucznia i dane nauczyciela, o których mowa w art. 44e ust. 9 pkt 2 lit. a i b oraz pkt 5 lit. a i b ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej, a dane ucznia, o których mowa w art. 44e ust. 9 pkt 2 lit. d–j ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu wspierania realizacji przez szkoły i placówki oświatowe zadań związanych z rozpoznawaniem potrzeb rozwojowych i edukacyjnych uczniów, planowaniem i realizacją działań mających na celu realizację tych potrzeb oraz oceną efektywności tych działań.
+**Art. 60a.** Dane ucznia oraz dane nauczyciela, o których mowa odpowiednio w art. 44a ust. 7 pkt 1 lit. a i b oraz pkt 2 lit. a–c ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych narzędzia informatycznego, o którym mowa w art. 44a ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej.
+
+**Art. 60aa.** (uchylony)
+
+**Art. 60ab.** Dane ucznia i dane nauczyciela, o których mowa w art. 44e ust. 9 pkt 2 lit. a i b oraz pkt 5 lit. a i b ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej, a dane ucznia, o których mowa w art. 44e ust. 9 pkt 2 lit. d–j ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu wspierania realizacji przez szkoły i placówki oświatowe zadań związanych z rozpoznawaniem potrzeb rozwojowych i edukacyjnych uczniów, planowaniem i realizacją działań mających na celu realizację tych potrzeb oraz oceną efektywności tych działań.
 
 **Art. 60b.** Dane absolwenta, o których mowa w art. 26b ust. 7 ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO przez ministra właściwego do spraw oświaty i wychowania w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
 

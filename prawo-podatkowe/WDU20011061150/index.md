@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw: o podatku dochodowym od osób fizycznych, o podatku dochodowym od osób prawnych oraz o podatku od towarów i usług oraz o podatku akcyzowym
+# Ustawa z dnia 6 września 2001 r. o zmianie ustaw: o podatku dochodowym od osób fizycznych, o podatku dochodowym od osób prawnych oraz o podatku od towarów i usług oraz o podatku akcyzowym.
 
 *USTAWA z dnia 6 września 2001 r.*
 

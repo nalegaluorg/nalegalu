@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu inicjatywy ustawodawczej przez obywateli
+# Ustawa z dnia 24 czerwca 1999 r. o wykonywaniu inicjatywy ustawodawczej przez obywateli.
 
 *USTAWA z dnia 24 czerwca 1999 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odtworzeniu dyplomów i świadectw z ukończenia nauki Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) – Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:
+# Dekret z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki.
 
 | Pole | Wartość |
 |---|---|

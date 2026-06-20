@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o administrowaniu obrotem usługowym z zagranicą
+# Ustawa z dnia 10 maja 2006 r. o administrowaniu obrotem usługowym z zagranicą
 
 *USTAWA z dnia 10 marca 2006 r.*
 

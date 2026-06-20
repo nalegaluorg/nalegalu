@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz niektórych innych ustaw
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 

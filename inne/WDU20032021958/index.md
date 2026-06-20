@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz ustawy - Przepisy wprowadzające ustawę o działalności pożytku publicznego i o wolontariacie
+# Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz ustawy - Przepisy wprowadzające ustawę o działalności pożytku publicznego i o wolontariacie
 
 *USTAWA z dnia 12 listopada 2003 r.*
 

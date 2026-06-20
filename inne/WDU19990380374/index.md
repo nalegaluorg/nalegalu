@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie rejestru kościołów i innych związków wyznaniowych.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 1999 r. w sprawie rejestru kościołów i innych związków wyznaniowych.
 
 | Pole | Wartość |
 |---|---|

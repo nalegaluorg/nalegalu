@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin
+# Ustawa z dnia 27 kwietnia 2006 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do o
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 19 czerwca 2020 r.
 o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
-Art. 26–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -312,6 +311,8 @@ Art. 26–80. (pominięte)
 2. Przez dzień złożenia wniosku o ogłoszenie upadłości i przez zakończenie postępowania restrukturyzacyjnego, o których mowa w art. 131a ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, rozumie się także, odpowiednio, dzień dokonania obwieszczenia, o którym mowa w art. 15 ust. 1, oraz dzień umorzenia postępowania, o którym mowa w art. 20.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 26–80.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

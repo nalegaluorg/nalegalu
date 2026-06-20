@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wejściu w życie ustawy o samorządzie powiatowym, ustawy o samorządzie województwa oraz ustawy o administracji rządowej w województwie
+# Ustawa z dnia 24 lipca 1998 r. o wejściu w życie ustawy o samorządzie powiatowym, ustawy o samorządzie województwa oraz ustawy o administracji rządowej w województwie.
 
 *USTAWA z dnia 24 lipca 1998 r.*
 

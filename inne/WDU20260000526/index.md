@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
 
 | Pole | Wartość |
 |---|---|
@@ -484,7 +484,13 @@ Przez pył drobny (PM ) rozumie się cząstki o średnicy aerodynamicznej wynosz
 
 6. Minister właściwy do spraw klimatu po zaakceptowaniu informacji przygotowanych przez Krajowy ośrodek na podstawie ust. 5 poleca Krajowemu ośrodkowi wprowadzenie ich do narzędzia sprawozdawczego udostępnionego przez Komisję Europejską, o którym mowa w art. 1 decyzji Komisji (UE) 2018/1135, w terminach wskazanych w art. 2 tej decyzji.
 
-**Art. 11a.** (uchylony) Art. 11aa. 27) 1. Główny Inspektor Ochrony Środowiska przekazuje Krajowemu ośrodkowi dane potrzebne do przygotowania i udostępnienia Europejskiej Agencji Środowiska, o której mowa w art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13, z późn. zm. ), informacji określonych w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14). 2. Krajowy ośrodek, na podstawie danych zawartych w Krajowej bazie oraz danych przekazanych mu zgodnie z ust. 1, przygotowuje, w uzgodnieniu z Głównym Inspektorem Ochrony Środowiska, informacje określone w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE, oraz wprowadza je do elektronicznej bazy danych, o której mowa w art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1), udostępnionej przez Europejską Agencję Środowiska.
+**Art. 11a.** (uchylony)
+
+**Art. 11aa.**
+
+- **27)** 1. Główny Inspektor Ochrony Środowiska przekazuje Krajowemu ośrodkowi dane potrzebne do przygotowania i udostępnienia Europejskiej Agencji Środowiska, o której mowa w art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 401/2009 z dnia 23 kwietnia 2009 r. w sprawie Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji Środowiska (Dz. Urz. UE L 126 z 21.05.2009, str. 13, z późn. zm. ), informacji określonych w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14).
+
+2. Krajowy ośrodek, na podstawie danych zawartych w Krajowej bazie oraz danych przekazanych mu zgodnie z ust. 1, przygotowuje, w uzgodnieniu z Głównym Inspektorem Ochrony Środowiska, informacje określone w załączniku do decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE, oraz wprowadza je do elektronicznej bazy danych, o której mowa w art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE z dnia 4 lipca 2012 r. w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi, zmieniającej, a następnie uchylającej dyrektywę Rady 96/82/WE (Dz. Urz. UE L 197 z 24.07.2012, str. 1), udostępnionej przez Europejską Agencję Środowiska.
 
 **Art. 11b.**
 

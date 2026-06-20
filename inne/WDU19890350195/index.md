@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach gospodarczych
+# Ustawa z dnia 30 maja 1989 r. o izbach gospodarczych.
 
 *USTAWA z dnia 30 maja 1989 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o odwróconym kredycie hipotecznym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odwróconym kredycie hipotecznym
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 października 2014 r.
 o odwróconym kredycie hipotecznym
-Art. 34–37. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -296,6 +295,8 @@ Art. 34–37. (pominięte)
 **Art. 33.** Niezwłocznie po ogłoszeniu upadłości banku syndyk masy upadłości składa do właściwego sądu rejonowego wniosek o zmniejszenie sumy hipotecznej do kwoty odpowiadającej całkowitej kwocie do zapłaty, z zastrzeżeniem że odsetki nalicza się do dnia ogłoszenia upadłości banku.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 34–37.** (pominięte)
 
 #### Rozdział 7 Przepis końcowy
 

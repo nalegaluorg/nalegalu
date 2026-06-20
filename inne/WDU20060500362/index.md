@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
+# Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
 
 *USTAWA z dnia 24 lutego 2006 r.*
 

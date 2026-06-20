@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Trybunale Stanu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Trybunale Stanu
 
 *USTAWA z dnia 26 marca 1982 r.*
 

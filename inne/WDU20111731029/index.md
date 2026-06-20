@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Ośrodku Studiów Wschodnich im. Marka Karpia
+# Ustawa z dnia 15 lipca 2011 r. o Ośrodku Studiów Wschodnich im. Marka Karpia
 
 *USTAWA z dnia 15 lipca 2011 r.*
 

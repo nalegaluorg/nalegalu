@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu obniżenia składek na ubezpieczenia społeczne osób fizycznych wykonujących działalność gospodarczą na mniejszą skalę
+# Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu obniżenia składek na ubezpieczenia społeczne osób fizycznych wykonujących działalność gospodarczą na mniejszą skalę
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

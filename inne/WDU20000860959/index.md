@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od czynności cywilnoprawnych
+# Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych.
 
 *USTAWA z dnia 9 września 2000 r.*
 

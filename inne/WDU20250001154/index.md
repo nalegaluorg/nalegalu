@@ -29,7 +29,6 @@ USTAWA poz. 1154,
 1847.
 z dnia 16 listopada 2006 r.
 o opłacie skarbowej
-Art. 13–18. (pominięte)
 
 #### Rozdział 1 Przedmiot opłaty skarbowej
 
@@ -195,6 +194,8 @@ Art. 13–18. (pominięte)
     - **b)** Prezydent miasta stołecznego Warszawy, jeżeli mocodawca albo żaden z mocodawców ustanawiających pełnomocnictwo lub prokurę w jednym dokumencie nie ma miejsca zamieszkania albo siedziby na terytorium Rzeczypospolitej Polskiej.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 13–18.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 
@@ -693,8 +694,7 @@ Art. 13–18. (pominięte)
 - **12)** zezwolenie na działania związane z ochroną przyrody, wydawane osobom fizycznym działającym na rzecz ochrony przyrody w zakresie czynnej ochrony gatunkowej
 - **13)** zezwolenie wydawane osobom fizycznym na działania związane z płoszeniem i miejscowym ograniczaniem populacji gatunków zwierząt wyrządzających szkody w gospodarstwie rolnym, leśnym lub rybackim nieobjętych odszkodowaniem Skarbu Państwa
 - **14)** (uchylony)
-- **15)** zezwolenie, o którym mowa w art. 24ba ust. 1 ustawy z dnia 11 marca 2004 r. o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym (Dz. U. z 2023 r. poz. 1075 oraz z 2025 r. poz.
-- **1795)**
+- **15)** zezwolenie, o którym mowa w art. 24ba ust. 1 ustawy z dnia 11 marca 2004 r. o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym (Dz. U. z 2023 r. poz. 1075 oraz z 2025 r. poz. 1795)
 - **16)** zezwolenie, o którym mowa w art. 24bb ust. 1 ustawy z dnia 11 marca 2004 r. wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym
 
 45. W przypadku wydania zezwolenia 100 % stawki (pozwolenia, koncesji) na kilka rodzajów określonej działalności w jednej decyzji – za każdy rodzaj od zezwolenia działalności (pozwolenia, koncesji)

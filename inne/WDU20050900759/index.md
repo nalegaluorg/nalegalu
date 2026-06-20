@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
+# Ustawa z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej
 
 *USTAWA z dnia 6 maja 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy otoczenia prawnego przedsiębiorców
+# Ustawa z dnia 16 grudnia 2016 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego przedsiębiorców
 
 *USTAWA z dnia 16 grudnia 2016 r.*
 
@@ -536,7 +536,7 @@ source: pdf
 - **3)** układ wykazu;
 - **4)** wymagane techniki przedkładania wykazu.
 
-8. Krajowy ośrodek bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w terminie do dnia 30 czerwca roku następnego przekazuje wojewódzkiemu inspektorowi ochrony środowiska informacje o rodzajach substancji wprowadzonych do powietrza, wielkości emisji oraz wysokości opłat za wprowadzanie gazów i pyłów do powietrza uiszczonych za poprzedni rok kalendarzowy sporządzone na podstawie raportów, o których mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, niezbędne do prowadzenia wojewódzkiej bazy informacji o korzystaniu ze środowiska.”;”,>
+8. Krajowy ośrodek bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, w terminie do dnia 30 czerwca roku następnego przekazuje wojewódzkiemu inspektorowi ochrony środowiska informacje o rodzajach substancji wprowadzonych do powietrza, wielkości emisji oraz wysokości opłat za wprowadzanie gazów i pyłów do powietrza uiszczonych za poprzedni rok kalendarzowy sporządzone na podstawie raportów, o których mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, niezbędne do prowadzenia wojewódzkiej bazy informacji o korzystaniu ze środowiska.”;”,
 
 - **c)** po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) w art. 289 w ust. 1 zdanie drugie otrzymuje brzmienie: „W przypadku gdy roczna wysokość opłaty z tytułu każdego z rodzajów korzystania ze środowiska spośród wymienionych w art. 273 ust. 1 nie przekracza 100 zł nie przedkłada się także wykazów i informacji, o których mowa w art. 286 ust. 1, 2 i 5.”;”;
 - **2)** w art. 60a uchyla się ust. 2;

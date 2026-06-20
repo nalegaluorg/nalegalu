@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 22 grudnia 2015 r.
 o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
-Art. 59–85. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -892,6 +891,8 @@ Art. 59–85. (pominięte)
 - **3)** dokument przyznaje te same prawa do wykonywania zawodu na terytorium państwa członkowskiego, w którym został wydany.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 59–85.** (pominięte)
 
 **Art. 86.** Do postępowań w sprawie uznania kwalifikacji wszczętych zgodnie z przepisami ustaw, o których mowa w art. 61 , art. 62 , art. 64 , art. 69 , art. 83 i art. 88, i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

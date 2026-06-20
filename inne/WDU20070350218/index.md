@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej
 
 *USTAWA z dnia 26 stycznia 2007 r.*
 

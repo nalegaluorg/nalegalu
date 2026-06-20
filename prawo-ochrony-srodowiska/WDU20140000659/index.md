@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 kwietnia 2014 r.*
 

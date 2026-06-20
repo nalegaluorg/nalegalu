@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rodzicielskim świadczeniu uzupełniającym
+# Ustawa z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym
 
 *USTAWA z dnia 31 stycznia 2019 r.*
 
@@ -228,7 +228,9 @@ source: pdf
 
 **Art. 12.** Organ, o którym mowa w art. 5 ust. 1 i 2, lub organ rentowy są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania i ustania prawa do świadczenia, ustalania wysokości i wypłacania świadczenia.
 
-**Art. 13.** Rada Ministrów składa co 4 lata Sejmowi i Senatowi, w terminie do dnia 30 czerwca, sprawozdanie z realizacji ustawy za 4 lata poprzedzające rok złożenia sprawozdania. Art. 14–24. (pominięte)
+**Art. 13.** Rada Ministrów składa co 4 lata Sejmowi i Senatowi, w terminie do dnia 30 czerwca, sprawozdanie z realizacji ustawy za 4 lata poprzedzające rok złożenia sprawozdania.
+
+**Art. 14–24.** (pominięte)
 
 **Art. 25.** Przepis art. 21 ust. 1 pkt 95a dodany ustawą zmienianą w art. 16 ma zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2019 r.
 

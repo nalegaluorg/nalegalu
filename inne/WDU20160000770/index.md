@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# Ustawa z dnia 13 maja 2016 r. o zmianie ustawy o drogach publicznych oraz ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 
 *USTAWA z dnia 13 maja 2016 r.*
 
@@ -355,7 +355,11 @@ source: pdf
 
 2. Komisja jest powoływana na wniosek, o którym mowa w ust. 1, oddzielnie do rozstrzygnięcia każdego sporu. Wniosek składa się do ministra właściwego do spraw transportu.
 
-3. We wniosku, o którym mowa w ust. 1, określa się zakres i istotę sporu. Do wniosku załącza się dokumenty dotyczące istoty sporu. Art. 16za. 1. Komisja składa się z trzech członków:
+3. We wniosku, o którym mowa w ust. 1, określa się zakres i istotę sporu. Do wniosku załącza się dokumenty dotyczące istoty sporu.
+
+**Art. 16za.**
+
+1. Komisja składa się z trzech członków:
 
 - **1)** osoby wskazanej przez dostawcę EETS;
 - **2)** osoby wskazanej przez podmiot pobierający opłaty, o którym mowa w art. 13i ust. 2;
@@ -393,13 +397,21 @@ source: pdf
 
 10. W przypadku gdy przed wydaniem uchwały kończącej postępowanie ustało członkostwo w Komisji przewodniczącego Komisji, wyboru nowego przewodniczącego Komisji dokonuje się spośród pozostałych kandydatów na przewodniczącego Komisji, wskazanych zgodnie z ust. 4. Przepisy ust. 6 i 7 stosuje się odpowiednio.
 
-11. W przypadku ustania członkostwa w Komisji pozostałych członków Komisji, minister właściwy do spraw transportu niezwłocznie powołuje na członka Komisji zastępczego członka Komisji, wskazanego przez stronę zgodnie z ust. 4. Przepis ust. 7 stosuje się odpowiednio. Art. 16zb. 1. Przewodniczący Komisji kieruje pracą Komisji oraz czuwa nad sprawnym przebiegiem postępowania i w tym celu może wydawać zarządzenia. Przewodniczący Komisji reprezentuje Komisję na zewnątrz.
+11. W przypadku ustania członkostwa w Komisji pozostałych członków Komisji, minister właściwy do spraw transportu niezwłocznie powołuje na członka Komisji zastępczego członka Komisji, wskazanego przez stronę zgodnie z ust. 4. Przepis ust. 7 stosuje się odpowiednio.
+
+**Art. 16zb.**
+
+1. Przewodniczący Komisji kieruje pracą Komisji oraz czuwa nad sprawnym przebiegiem postępowania i w tym celu może wydawać zarządzenia. Przewodniczący Komisji reprezentuje Komisję na zewnątrz.
 
 2. Tryb pracy Komisji określa regulamin ustalany przez Komisję.
 
 3. Komisja, w terminie 30 dni od dnia powołania, może wezwać podmiot pobierający opłaty, o którym mowa w art. 13i ust. 2, lub dostawcę EETS do uzupełnienia złożonych dokumentów.
 
-4. Podmiot pobierający opłaty, o którym mowa w art. 13i ust. 2, dostawca EETS oraz osoby trzecie zaangażowane w świadczenie usług EETS mają obowiązek udzielania na żądanie Komisji informacji związanych z istotą sporu, o którym mowa w art. 16z ust. 1. Art. 16zc. 1. Komisja kończy postępowanie, wydając opinię w formie uchwały, odnoszącą się do zakresu i istoty sporu, wskazanych we wniosku, o którym mowa w art. 16z ust. 1, najpóźniej w terminie 6 miesięcy od dnia powołania Komisji.
+4. Podmiot pobierający opłaty, o którym mowa w art. 13i ust. 2, dostawca EETS oraz osoby trzecie zaangażowane w świadczenie usług EETS mają obowiązek udzielania na żądanie Komisji informacji związanych z istotą sporu, o którym mowa w art. 16z ust. 1.
+
+**Art. 16zc.**
+
+1. Komisja kończy postępowanie, wydając opinię w formie uchwały, odnoszącą się do zakresu i istoty sporu, wskazanych we wniosku, o którym mowa w art. 16z ust. 1, najpóźniej w terminie 6 miesięcy od dnia powołania Komisji.
 
 2. Do terminu określonego w ust. 1 nie wlicza się okresu, w którym Komisja nie mogła prowadzić postępowania z powodu dokonania zmian w składzie Komisji na podstawie art. 16za ust. 10 i 11.
 
@@ -411,7 +423,11 @@ source: pdf
 
 6. Na zgodny wniosek stron o zakończenie postępowania, złożony przed wydaniem opinii, o której mowa w ust. 1, Komisja niezwłocznie wydaje uchwałę kończącą postępowanie, nie rozstrzygając istoty sporu. Przepis ust. 5 stosuje się odpowiednio.
 
-7. Do postępowania przed Komisją stosuje się przepisy art. 183 i art. 183 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ). Art. 16zd. 1. Postępowanie przed Komisją jest prowadzone na koszt stron postępowania.
+7. Do postępowania przed Komisją stosuje się przepisy art. 183 i art. 183 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ).
+
+**Art. 16zd.**
+
+1. Postępowanie przed Komisją jest prowadzone na koszt stron postępowania.
 
 2. Koszty postępowania, o których mowa w ust. 1, obejmują w szczególności:
 
@@ -435,9 +451,19 @@ source: pdf
 
 9. W przypadku częściowego uznania przez Komisję stanowiska strony co do istoty sporu Komisja może stosunkowo rozdzielić koszty postępowania. Komisja może jednak nałożyć na jedną ze stron obowiązek poniesienia całości kosztów postępowania, jeżeli Komisja w znacznej części uznała za zasadne stanowisko drugiej strony.
 
-10. Niezależnie od wyniku sprawy Komisja może włożyć na stronę postępowania obowiązek zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem. Dotyczy to zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów. Art. 16ze. Uchwała Komisji, o której mowa w art. 16zc ust. 1, w przedmiocie kosztów postępowania, podlega wykonaniu w drodze egzekucji sądowej po nadaniu jej klauzuli wykonalności. Przepisy działu II tytułu I części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu o nadanie klauzuli wykonalności stosuje się odpowiednio. Art. 16zf. 1. Dokumentację pracy Komisji, w tym uchwały Komisji, przewodniczący Komisji przekazuje ministrowi właściwemu do spraw transportu niezwłocznie po zakończeniu postępowania.
+10. Niezależnie od wyniku sprawy Komisja może włożyć na stronę postępowania obowiązek zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem. Dotyczy to zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów.
 
-2. Uchwały Komisji, o których mowa w art. 16zc ust. 1 i 6, podlegają ogłoszeniu w formie komunikatu w dzienniku urzędowym ministra właściwego do spraw transportu. Art. 16zg. 1. Obsługę organizacyjno-biurową Komisji, w tym odpowiednie pomieszczenia i wyposażenie, zapewnia urząd obsługujący ministra właściwego do spraw transportu.
+**Art. 16ze.** Uchwała Komisji, o której mowa w art. 16zc ust. 1, w przedmiocie kosztów postępowania, podlega wykonaniu w drodze egzekucji sądowej po nadaniu jej klauzuli wykonalności. Przepisy działu II tytułu I części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu o nadanie klauzuli wykonalności stosuje się odpowiednio.
+
+**Art. 16zf.**
+
+1. Dokumentację pracy Komisji, w tym uchwały Komisji, przewodniczący Komisji przekazuje ministrowi właściwemu do spraw transportu niezwłocznie po zakończeniu postępowania.
+
+2. Uchwały Komisji, o których mowa w art. 16zc ust. 1 i 6, podlegają ogłoszeniu w formie komunikatu w dzienniku urzędowym ministra właściwego do spraw transportu.
+
+**Art. 16zg.**
+
+1. Obsługę organizacyjno-biurową Komisji, w tym odpowiednie pomieszczenia i wyposażenie, zapewnia urząd obsługujący ministra właściwego do spraw transportu.
 
 2. Urząd obsługujący ministra właściwego do spraw transportu wymienia informacje z odpowiednimi podmiotami powołanymi w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, na podstawie art. 10 decyzji 2009/750/WE.”.
 

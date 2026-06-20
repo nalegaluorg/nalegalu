@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie osób i mienia
+# Ustawa z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
 
 *USTAWA z dnia 22 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-09-26 |
 | Ostatnia zmiana | 2025-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971140740) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/740/text.pdf) |
-
-Art. 51–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -638,8 +636,7 @@ Art. 51–53. (pominięte)
 
 - **1)** pracownik ochrony fizycznej został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa umyślnego lub wszczęto w stosunku do niego postępowanie karne o takie przestępstwo;
 - **2)** nie spełnia warunków określonych w art. 26 ust. 3 pkt 1 i 4–8, w art. 30 albo w art. 38b;
-- **3)** wykonując zadania pracownika ochrony fizycznej dopuścił się czynu zabronionego określonego w art. 70 § 2 lub art. 87 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119 oraz z 2024 r. poz.
-- **1907)** .
+- **3)** wykonując zadania pracownika ochrony fizycznej dopuścił się czynu zabronionego określonego w art. 70 § 2 lub art. 87 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119 oraz z 2024 r. poz. 1907).
 
 7. Pracownika ochrony skreśla się z listy kwalifikowanych pracowników zabezpieczenia technicznego, w przypadku gdy:
 
@@ -987,6 +984,8 @@ Art. 51–53. (pominięte)
 **Art. 50b.** Kto osobie upoważnionej do przeprowadzania kontroli działalności gospodarczej wykonywanej w zakresie usług ochrony osób i mienia udaremnia lub utrudnia wykonanie czynności służbowej, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 51–53.** (pominięte)
 
 **Art. 54.** (uchylony)
 

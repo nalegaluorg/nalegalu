@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 grudnia 2005 r. zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

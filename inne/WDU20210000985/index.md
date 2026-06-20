@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku tonażowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku tonażowym
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 24 sierpnia 2006 r.
 o podatku tonażowym
-Art. 14–18. (pominięte)
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
 
@@ -199,6 +198,8 @@ Art. 14–18. (pominięte)
 **Art. 13a.** Wyboru opodatkowania podatkiem tonażowym można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności podatku tonażowego z rynkiem wewnętrznym.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 14–18.** (pominięte)
 
 **Art. 19.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

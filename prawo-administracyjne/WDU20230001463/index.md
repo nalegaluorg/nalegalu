@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 maja 2023 r.*
 

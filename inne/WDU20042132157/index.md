@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 27 sierpnia 2004 r.*
 

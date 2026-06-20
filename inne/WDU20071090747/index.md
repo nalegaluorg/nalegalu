@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o podatku rolnym
+# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o podatku rolnym
 
 *USTAWA z dnia 24 maja 2007 r.*
 

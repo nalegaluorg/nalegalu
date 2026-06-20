@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad ewidencjonowania majątku Skarbu Państwa.
+# Rozporządzenie Rady Ministrów z dnia 14 września 1999 r. w sprawie szczegółowych zasad ewidencjonowania majątku Skarbu Państwa.
 
 | Pole | Wartość |
 |---|---|

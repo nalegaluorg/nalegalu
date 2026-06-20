@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu infrastruktury transportu lądowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu infrastruktury transportu lądowego
 
 | Pole | Wartość |
 |---|---|

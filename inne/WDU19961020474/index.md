@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o urzędzie Ministra Obrony Narodowej
+# Ustawa z dnia 27 czerwca 1996 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej.
 
 *USTAWA z dnia 27 czerwca 1996 r.*
 

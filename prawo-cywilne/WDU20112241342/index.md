@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 31 sierpnia 2011 r.*
 

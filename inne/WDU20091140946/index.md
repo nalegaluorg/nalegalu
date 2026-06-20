@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie Konstytucji Rzeczypospolitej Polskiej
+# Ustawa z dnia 7 maja 2009 r. o zmianie Konstytucji Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 7 maja 2009 r.*
 

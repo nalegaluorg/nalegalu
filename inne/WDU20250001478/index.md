@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komercjalizacji i niektórych uprawnieniach pracowników
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji i niektórych uprawnieniach pracowników
 
 *USTAWA z dnia 30 sierpnia 1996 r.*
 

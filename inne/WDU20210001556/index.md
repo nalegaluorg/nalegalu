@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 23 lipca 2021 r.*
 
@@ -116,7 +116,11 @@ source: pdf
 
 15. Prezes UTK rozpatruje odwołanie, o którym mowa w ust. 12, w terminie 30 dni od dnia jego otrzymania.
 
-16. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 12, Prezes UTK przeprowadza ponowny egzamin na licencję maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na licencję maszynisty stosuje się przepisy ust. 6–11. Art. 22bb. 1. Prezes UTK, na wniosek przewoźnika kolejowego lub zarządcy zatrudniającego kandydata na maszynistę, przeprowadza egzamin na świadectwo maszynisty.
+16. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 12, Prezes UTK przeprowadza ponowny egzamin na licencję maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na licencję maszynisty stosuje się przepisy ust. 6–11.
+
+**Art. 22bb.**
+
+1. Prezes UTK, na wniosek przewoźnika kolejowego lub zarządcy zatrudniającego kandydata na maszynistę, przeprowadza egzamin na świadectwo maszynisty.
 
 2. Wniosek składa się w postaci elektronicznej za pośrednictwem systemu teleinformatycznego obsługującego rejestr, o którym mowa w art. 25x ust. 1, i podpisuje przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego przez osobę upoważnioną przez wnioskodawcę.
 
@@ -151,7 +155,11 @@ source: pdf
 
 14. Kandydat na maszynistę może złożyć do Prezesa UTK odwołanie od negatywnego wyniku egzaminu na świadectwo maszynisty. Przepisy art. 22ba ust. 13–15 stosuje się odpowiednio.
 
-15. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 14, Prezes UTK przeprowadza ponowny egzamin na świadectwo maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na świadectwo maszynisty stosuje się przepisy ust. 3 i 5–13 oraz odpowiednio art. 22ba ust. 8. Art. 22bc. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+15. W przypadku stwierdzenia zasadności odwołania, o którym mowa w ust. 14, Prezes UTK przeprowadza ponowny egzamin na świadectwo maszynisty, za który nie pobiera się opłaty. Do ponownego egzaminu na świadectwo maszynisty stosuje się przepisy ust. 3 i 5–13 oraz odpowiednio art. 22ba ust. 8.
+
+**Art. 22bc.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres podstawowej wiedzy zawodowej objętej egzaminem na licencję maszynisty;
 - **2)** sposób, formę i tryb przygotowania oraz przeprowadzania egzaminu na licencję maszynisty oraz ponownego egzaminu na licencję maszynisty;
@@ -163,7 +171,12 @@ source: pdf
 - **1)** zakres wiedzy i umiejętności niezbędny do bezpiecznego prowadzenia pojazdów kolejowych;
 - **2)** konieczność zagwarantowania właściwej organizacji egzaminów na licencję maszynisty oraz ponownych egzaminów na licencję maszynisty;
 - **3)** konieczność zapewnienia odpowiedniego poziomu merytorycznego egzaminów na świadectwo maszynisty;
-- **4)** konieczność zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego przeprowadzenia teoretycznej i praktycznej części egzaminu na świadectwo maszynisty oraz ponownego egzaminu na świadectwo maszynisty. Art. 22bd. 1. Egzaminatorem może być osoba, która:
+- **4)** konieczność zagwarantowania właściwej organizacji i odpowiedniego poziomu merytorycznego przeprowadzenia teoretycznej i praktycznej części egzaminu na świadectwo maszynisty oraz ponownego egzaminu na świadectwo maszynisty.
+
+**Art. 22bd.**
+
+1. Egzaminatorem może być osoba, która:
+
 - **1)** posiada co najmniej 4-letnie doświadczenie zawodowe w zakresie związanym z prowadzeniem i bezpieczeństwem ruchu kolejowego, nabyte w okresie 5 lat poprzedzających datę złożenia wniosku o wpis do rejestru egzaminatorów, o którym mowa w art. 22be ust. 1;
 - **2)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
 - **3)** posiada ważną licencję maszynisty i świadectwo maszynisty, obejmujące zakres umiejętności będących przedmiotem egzaminu lub dotyczące podobnego typu linii kolejowej lub taboru kolejowego – w przypadku egzaminatorów przeprowadzających część praktyczną egzaminu na świadectwo maszynisty z prowadzenia pojazdu kolejowego;
@@ -175,7 +188,11 @@ source: pdf
 
 2. Egzaminatorzy są obowiązani do ustawicznego doskonalenia i aktualizowania kompetencji zawodowych przez udział w co najmniej jednym, w ciągu 3 lat, szkoleniu doskonalącym w zakresie wiedzy i metodyki egzaminowania kandydatów na maszynistów organizowanym przez Prezesa UTK.
 
-3. Prezes UTK organizuje szkolenia, o których mowa w ust. 2, nie rzadziej niż raz na trzy lata. Art. 22be. 1. Prezes UTK prowadzi w systemie teleinformatycznym rejestr egzaminatorów w celu realizacji zadania, o którym mowa w art. 13 ust. 1a pkt 7b. Rejestr egzaminatorów jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego z wyłączeniem danych, o których mowa w ust. 2 pkt 2–7.
+3. Prezes UTK organizuje szkolenia, o których mowa w ust. 2, nie rzadziej niż raz na trzy lata.
+
+**Art. 22be.**
+
+1. Prezes UTK prowadzi w systemie teleinformatycznym rejestr egzaminatorów w celu realizacji zadania, o którym mowa w art. 13 ust. 1a pkt 7b. Rejestr egzaminatorów jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Transportu Kolejowego z wyłączeniem danych, o których mowa w ust. 2 pkt 2–7.
 
 2. W rejestrze egzaminatorów gromadzi się następujące dane egzaminatorów:
 

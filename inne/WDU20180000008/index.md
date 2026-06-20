@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności ubezpieczeniowej i reasekuracyjnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o działalności ubezpieczeniowej i reasekuracyjnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 grudnia 2017 r.*
 

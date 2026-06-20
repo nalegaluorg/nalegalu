@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-04-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/978/text.pdf) |
 
-Art. 401–447. (pominięte)
-
 ## TYTUŁ I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
 
 ### DZIAŁ I Przepisy ogólne
@@ -3499,6 +3497,8 @@ Art. 401–447. (pominięte)
 ## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 401–447.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe
 

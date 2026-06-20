@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw
+# Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulatorach oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 sierpnia 2014 r.*
 

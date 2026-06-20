@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
+# Ustawa z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 10 grudnia 2003 r.*
 

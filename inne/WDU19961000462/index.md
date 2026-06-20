@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie nazw niektórych wyższych szkół artystycznych
+# Ustawa z dnia 4 lipca 1996 r. o zmianie nazw niektórych wyższych szkół artystycznych.
 
 *USTAWA z dnia 4 lipca 1996 r.*
 

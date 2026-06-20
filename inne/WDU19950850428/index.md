@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od spadków i darowizn
+# Ustawa z dnia 29 czerwca 1995 r. o zmianie ustawy o podatku od spadków i darowizn.
 
 | Pole | Wartość |
 |---|---|

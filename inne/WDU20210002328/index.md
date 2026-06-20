@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 
@@ -255,7 +255,7 @@ source: pdf
 
 6e. Liczba punktów odjętych z tytułu odbytego szkolenia nie może być większa od liczby punktów otrzymanych za naruszenie przepisów ruchu drogowego przed jego odbyciem.
 
-6f. Odbycie szkolenia nie powoduje zmniejszenia liczby punktów otrzymanych za naruszenia przepisów ruchu drogowego wobec osoby, która przed jego rozpoczęciem dopuściła się naruszeń, za które suma punktów przekroczyła 24.>
+6f. Odbycie szkolenia nie powoduje zmniejszenia liczby punktów otrzymanych za naruszenia przepisów ruchu drogowego wobec osoby, która przed jego rozpoczęciem dopuściła się naruszeń, za które suma punktów przekroczyła 24.
 
 7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu oraz Ministrem Sprawiedliwości, mając na uwadze dyscyplinowanie i wdrażanie kierujących pojazdami silnikowymi oraz motorowerami do przestrzegania przepisów ustawy oraz zapobieganie wielokrotnemu naruszaniu przepisów ruchu drogowego, określi, w drodze rozporządzenia:
 

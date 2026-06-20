@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 5 marca 2009 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 5 marca 2009 r.*
 

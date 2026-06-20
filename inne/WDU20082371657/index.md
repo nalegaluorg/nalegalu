@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie gruntów rolnych i leśnych
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o ochronie gruntów rolnych i leśnych
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 

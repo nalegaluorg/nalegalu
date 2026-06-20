@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o notariacie
+# Ustawa z dnia 6 marca 2025 r. o zmianie ustawy - Prawo o notariacie
 
 *USTAWA z dnia 6 marca 2025 r.*
 

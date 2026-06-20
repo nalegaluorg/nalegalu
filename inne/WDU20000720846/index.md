@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad współpracy Zakładu Ubezpieczeń Społecznych z ubezpieczonymi i płatnikami składek w zakresie ustalania kapitału początkowego.
+# Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 17 sierpnia 2000 r. w sprawie szczegółowych zasad współpracy Zakładu Ubezpieczeń Społecznych z ubezpieczonymi i płatnikami składek w zakresie ustalania kapitału początkowego.
 
 *ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SOCJALNEJ z dnia 17 sierpnia 2000 r.*
 

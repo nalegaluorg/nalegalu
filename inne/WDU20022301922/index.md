@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej
+# Ustawa z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej.
 
 *USTAWA z dnia 5 grudnia 2002 r.*
 

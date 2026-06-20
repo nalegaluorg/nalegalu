@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów.
+# Rozporządzenie Ministra Finansów z dnia 23 września 1999 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów.
 
 | Pole | Wartość |
 |---|---|

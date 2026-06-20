@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych
+# Ustawa z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych
 
 *USTAWA z dnia 17 grudnia 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-02-03 |
 | Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/234/text.pdf) |
-
-Art. 92–103. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1409,6 +1407,8 @@ Art. 92–103. (pominięte)
 **Art. 91.** Prezes URE, w terminie do dnia 31 marca każdego roku, przekazuje ministrowi właściwemu do spraw klimatu sprawozdanie zawierające informacje o liczbie i wysokościach wymierzonych kar pieniężnych w roku poprzednim.
 
 #### Rozdział 12 Przepisy zmieniające
+
+**Art. 92–103.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

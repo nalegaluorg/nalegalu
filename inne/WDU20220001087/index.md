@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
 
 *USTAWA z dnia 12 maja 2022 r.*
 

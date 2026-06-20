@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ o zmianie ustawy o działach administracji rządowej oraz niektórych innych ust
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 30 sierpnia 2002 r.
 o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
-Art. 26–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -340,6 +339,8 @@ Art. 26–28. (pominięte)
 2. Prawo do skorzystania z premii podatkowej wygasa w terminie złożenia rocznego zeznania podatkowego za rok podatkowy rozpoczynający się w 2002 r.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 26–28.** (pominięte)
 
 **Art. 29.**
 

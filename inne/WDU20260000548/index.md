@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zarządzaniu danymi
+# Ustawa z dnia 27 marca 2026 r. o zarządzaniu danymi
 
 *USTAWA z dnia 27 marca 2026 r.*
 

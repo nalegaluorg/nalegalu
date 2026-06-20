@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw
+# Ustawa z dnia 30 grudnia 2015 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 grudnia 2015 r.*
 

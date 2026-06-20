@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług
+# Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy o podatku od towarów i usług
 
 *USTAWA z dnia 13 stycznia 2022 r.*
 
@@ -35,10 +35,15 @@ source: pdf
 - **4)** ziemi ogrodniczej wymienionej w poz. 12 załącznika nr 3 do ustawy,
 - **5)** gazu ziemnego (CN 2711 11 00 albo 2711 21 00) – stawka podatku wynosi 0%.
 
-2. Przepisów ust. 1 pkt 1–4 nie stosuje się do importu towarów, o którym mowa w art. 138i ust. 1. Art. 146db. W okresie od dnia 1 lutego 2022 r. do dnia 31 lipca 2022 r. dla:
+2. Przepisów ust. 1 pkt 1–4 nie stosuje się do importu towarów, o którym mowa w art. 138i ust. 1.
+
+**Art. 146db.** W okresie od dnia 1 lutego 2022 r. do dnia 31 lipca 2022 r. dla:
 
 - **1)** energii elektrycznej (CN 2716 00 00),
-- **2)** energii cieplnej – stawka podatku wynosi 5%. Art. 146dc. W okresie od dnia 1 lutego 2022 r. do dnia 31 lipca 2022 r. dla:
+- **2)** energii cieplnej – stawka podatku wynosi 5%.
+
+**Art. 146dc.** W okresie od dnia 1 lutego 2022 r. do dnia 31 lipca 2022 r. dla:
+
 - **1)** benzyn silnikowych (CN 2710 12 45 lub 2710 12 49) oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach,
 - **2)** olejów napędowych (CN 2710 19 43 i 2710 20 11) oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach,
 - **3)** biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych – bez względu na kod CN,

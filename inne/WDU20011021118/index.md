@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa
+# Ustawa z dnia 23 sierpnia 2001 r. o zmianie ustawy o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa.
 
 *USTAWA z dnia 23 sierpnia 2001 r.*
 

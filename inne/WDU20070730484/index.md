@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 marca 2007 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 marca 2007 r.*
 
@@ -95,11 +95,7 @@ source: pdf
 
 5. Prokuratorzy Prokuratury Krajowej oraz prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którzy w dniu wejścia w życie ustawy zajmowali stanowisko po ukończeniu 65 roku życia na podstawie przepisów dotychczasowych, w terminie sześciu miesięcy od dnia wejścia w życie ustawy mogą złożyć wniosek o wyrażenie zgody na dalsze zajmowanie stanowiska oraz zaświadczenie, o których mowa w art. 62a ust. 2 ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą albo z upływem tego terminu przechodzą w stan spoczynku. Przepis art. 69 § 3 zdanie drugie ustawy, o której mowa w art. 2 niniejszej ustawy, stosuje się.
 
-6. Prokuratorzy Prokuratury Krajowej oraz prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którzy ukończą 65 lat nie później niż w ciągu sześciu miesięcy od dnia wejścia w życie ustawy, składają wniosek o wyrażenie zgody na dalsze zajmowanie stanowiska, o którym mowa w art. 62a ust. 2 ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą, w terminie trzech miesięcy od dnia ukończenia 65 lat albo najpóźniej z upływem tego terminu przechodzą w stan spoczynku. Przepis art. 69 § 3 ustawy, o której mowa w art. 2 niniejszej ustawy, stosuje się. [Art. 5.
-
-1. W terminie miesiąca od dnia wejścia w życie ustawy wybrany członek Krajowej Rady Sądownictwa będący sędzią, pełniący funkcję prezesa albo wiceprezesa sądu może zrzec się mandatu członka Krajowej Rady Sądownictwa; w takim przypadku mandat wygasa z upływem trzech miesięcy od dnia wejścia w życie ustawy.
-
-2. Jeżeli wybrany członek Krajowej Rady Sądownictwa będący sędzią i pełniący funkcję prezesa albo wiceprezesa sądu nie zrzeknie się mandatu, w terminie o którym mowa w ust. 1, powołanie do pełnienia funkcji prezesa albo wiceprezesa sądu wygasa z upływem trzech miesięcy od dnia wejścia w życie ustawy.]
+6. Prokuratorzy Prokuratury Krajowej oraz prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którzy ukończą 65 lat nie później niż w ciągu sześciu miesięcy od dnia wejścia w życie ustawy, składają wniosek o wyrażenie zgody na dalsze zajmowanie stanowiska, o którym mowa w art. 62a ust. 2 ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą, w terminie trzech miesięcy od dnia ukończenia 65 lat albo najpóźniej z upływem tego terminu przechodzą w stan spoczynku. Przepis art. 69 § 3 ustawy, o której mowa w art. 2 niniejszej ustawy, stosuje się.
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

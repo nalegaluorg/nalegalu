@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie prawnej odmian roślin i ustawy o nasiennictwie
+# Ustawa z dnia 9 czerwca 2006 r. o zmianie ustawy o ochronie prawnej odmian roślin i ustawy o nasiennictwie
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 

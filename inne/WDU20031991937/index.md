@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce komunalnej
+# Ustawa z dnia 17 października 2003 r. o zmianie ustawy o gospodarce komunalnej
 
 *USTAWA z dnia 17 października 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o wyrobach stosowanych w medycynie weterynaryjnej oraz o zmianie innych ustaw
+# Ustawa z dnia 9 kwietnia 2010 r. o uchyleniu ustawy o wyrobach stosowanych w medycynie weterynaryjnej oraz o zmianie innych ustaw
 
 *USTAWA z dnia 9 kwietnia 2010 r.*
 

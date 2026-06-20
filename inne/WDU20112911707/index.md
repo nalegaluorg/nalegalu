@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej
+# Ustawa z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej
 
 *USTAWA z dnia 22 grudnia 2011 r.*
 

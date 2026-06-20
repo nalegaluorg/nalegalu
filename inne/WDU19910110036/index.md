@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej.
+# Ustawa z dnia 5 stycznia 1991 r. o zmianie ustawy o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej.
 
 *USTAWA z dnia 5 stycznia 1991 r.*
 

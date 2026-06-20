@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu rozwoju kompetencji cyfrowych nauczycieli
+# Ustawa z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych nauczycieli
 
 *USTAWA z dnia 7 lipca 2023 r.*
 
@@ -251,7 +251,9 @@ source: pdf
 
 6. Zakres uprawnień osoby, o której mowa w ust. 5, minister właściwy do spraw informatyzacji określa w upoważnieniu.
 
-7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli. Art. 27–29. (pominięte)
+7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli.
+
+**Art. 27–29.** (pominięte)
 
 **Art. 30.**
 

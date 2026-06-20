@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o delegowaniu pracowników w ramach świadczenia usług
+# Ustawa z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług
 
 *USTAWA z dnia 10 czerwca 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-06-17 |
 | Ostatnia zmiana | 2025-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000868) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/868/text.pdf) |
-
-Art. 30–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -465,6 +463,8 @@ Art. 30–38. (pominięte)
 **Art. 29.** Orzekanie w sprawach o czyny, o których mowa w art. 27–28b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 30–38.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze
 
 | Pole | Wartość |
 |---|---|
@@ -204,7 +204,9 @@ o zmianie ustawy o wyrobie napojów spirytusowych oraz o rejestracji i ochronie 
 
 **Art. 21.** Zakład udostępnia stronom postępowania, na ich wniosek, oraz organom uprawnionym dokumentację zgromadzoną w sprawie jednorazowego świadczenia w formie wydruków z systemu teleinformatycznego Zakładu lub w formie elektronicznej określonej przez Zakład, o ile strona postępowania lub inny organ ma techniczne możliwości odczytania tej dokumentacji. Tak udostępniona dokumentacja nie wymaga uwierzytelnienia.
 
-**Art. 22.** Wydruki dokumentów z systemu teleinformatycznego Zakładu, w szczególności decyzje, wnioski oraz wezwania, mają moc równoważną z dokumentami elektronicznymi zgromadzonymi w systemie teleinformatycznym Zakładu i nie wymagają uwierzytelnienia w postępowaniach administracyjnych oraz w postępowaniach sądowych. Art. 23–26. (pominięte)
+**Art. 22.** Wydruki dokumentów z systemu teleinformatycznego Zakładu, w szczególności decyzje, wnioski oraz wezwania, mają moc równoważną z dokumentami elektronicznymi zgromadzonymi w systemie teleinformatycznym Zakładu i nie wymagają uwierzytelnienia w postępowaniach administracyjnych oraz w postępowaniach sądowych.
+
+**Art. 23–26.** (pominięte)
 
 **Art. 27.** Pomoc udzielana na podstawie niniejszej ustawy stanowi pomoc de minimis i może być udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.
 

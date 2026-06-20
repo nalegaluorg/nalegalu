@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Sztuki w Szczecinie
+# Ustawa z dnia 29 kwietnia 2010 r. o utworzeniu Akademii Sztuki w Szczecinie
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

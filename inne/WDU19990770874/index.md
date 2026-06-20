@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej art. 228 § 3 ustawy - Prawo spółdzielcze.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 20 września 1999 r. o utracie mocy obowiązującej art. 228 par. 3 ustawy - Prawo spółdzielcze.
 
 | Pole | Wartość |
 |---|---|

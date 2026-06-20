@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 25 lipca 2014 r.*
 

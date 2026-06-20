@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Krzyża Wschodniego
+# Ustawa z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego
 
 *USTAWA z dnia 15 grudnia 2016 r.*
 

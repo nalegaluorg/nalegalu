@@ -909,6 +909,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001601](WDU20240001601/index.md) | Rozporządzenie Ministra Finansów z dnia 28 października 2024 r. w sprawie u | Rozporządzenie | obowiązujący |  |
 | [WDU20240001600](WDU20240001600/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 października 2024 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001599](WDU20240001599/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 23 październi | Obwieszczenie | obowiązujący |  |
+| [WDU20240001598](WDU20240001598/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 październ | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001597](WDU20240001597/index.md) | Ustawa z dnia 18 października 2024 r. o zmianie ustawy o udostępnianiu info | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240001596](WDU20240001596/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2024 | Rozporządzenie | obowiązujący |  |
 | [WDU20240001595](WDU20240001595/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 październ | Obwieszczenie | obowiązujący |  |
@@ -1039,7 +1040,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001414](WDU20240001414/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 11 września 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001413](WDU20240001413/index.md) | Rozporządzenie Ministra Nauki z dnia 24 września 2024 r. w sprawie wysokośc | Rozporządzenie | obowiązujący |  |
 | [WDU20240001411](WDU20240001411/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września  | Obwieszczenie | obowiązujący |  |
-| [WDU20240001409](WDU20240001409/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września  | Obwieszczenie | obowiązujący |  |
+| [WDU20240001409](WDU20240001409/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001407](WDU20240001407/index.md) | Obwieszczenie Ministra Nauki z dnia 11 września 2024 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20240001406](WDU20240001406/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 8 września 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001403](WDU20240001403/index.md) | Rozporządzenie Ministra Nauki z dnia 12 września 2024 r. w sprawie danych p | Rozporządzenie | obowiązujący |  |
@@ -1601,7 +1602,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000663](WDU20240000663/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 29 kwietnia 2024 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000662](WDU20240000662/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 kwietnia 2024 r. w sprawie progra | Rozporządzenie | obowiązujący |  |
 | [WDU20240000657](WDU20240000657/index.md) | Rozporządzenie Rady Ministrów z dnia 25 kwietnia 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
-| [WDU20240000656](WDU20240000656/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 23 kwietnia  | Obwieszczenie | akt posiada tekst jednolity |  |
 | [WDU20240000655](WDU20240000655/index.md) | Rozporządzenie Ministra Zdrowia z dnia 26 kwietnia 2024 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000651](WDU20240000651/index.md) | Ustawa z dnia 12 kwietnia 2024 r. o ratyfikacji Protokołu między Rzecząposp | Ustawa | obowiązujący |  |
 | [WDU20240000650](WDU20240000650/index.md) | Rozporządzenie Ministra Zdrowia z dnia 16 kwietnia 2024 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -1676,7 +1676,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000538](WDU20240000538/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 kwietnia 2024 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000537](WDU20240000537/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 13 marca 2024 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
 | [WDU20240000536](WDU20240000536/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 kwietnia 2024 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240000534](WDU20240000534/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | obowiązujący |  |
+| [WDU20240000534](WDU20240000534/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240000533](WDU20240000533/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 kwietnia 2024 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20240000529](WDU20240000529/index.md) | Obwieszczenie Ministra Zdrowia z dnia 19 marca 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20240000528](WDU20240000528/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 marca 2 | Obwieszczenie | obowiązujący |  |
@@ -3360,7 +3360,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000672](WDU20230000672/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 27 marca 2023 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20230000669](WDU20230000669/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 27 marca 2023 r. w sprawie wy | Rozporządzenie | obowiązujący |  |
 | [WDU20230000668](WDU20230000668/index.md) | Obwieszczenie Ministra Zdrowia z dnia 13 marca 2023 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
-| [WDU20230000666](WDU20230000666/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 28 marca 2023 r. w sprawie  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20230000664](WDU20230000664/index.md) | Rozporządzenie Ministra Finansów z dnia 4 kwietnia 2023 r. w sprawie współp | Rozporządzenie | obowiązujący |  |
 | [WDU20230000663](WDU20230000663/index.md) | Obwieszczenie Ministra Zdrowia z dnia 13 marca 2023 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20230000662](WDU20230000662/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 marca 2 | Obwieszczenie | obowiązujący |  |
@@ -6748,7 +6747,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001548](WDU20200001548/index.md) | Rozporządzenie Ministra Zdrowia z dnia 4 września 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001547](WDU20200001547/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 4 września 2020 r. zmieniające | Rozporządzenie | obowiązujący |  |
 | [WDU20200001544](WDU20200001544/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 20 sierpnia 2020 r. w sprawie | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20200001543](WDU20200001543/index.md) | Rozporządzenie Rady Ministrów z dnia 28 sierpnia 2020 r. w sprawie sposobu  | Rozporządzenie | obowiązujący |  |
 | [WDU20200001542](WDU20200001542/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 4 września 2020 r. zmieniające | Rozporządzenie | obowiązujący |  |
 | [WDU20200001540](WDU20200001540/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 2 września 2020 r. w sprawie  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20200001538](WDU20200001538/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 4 września 2020 r. zmieni | Rozporządzenie | obowiązujący |  |
@@ -17886,6 +17884,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19971110725](WDU19971110725/index.md) | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o ochronie przeciwpożaro | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19971110725/orzecznictwo.md) |
 | [WDU19971110724](WDU19971110724/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt. | Ustawa | akt posiada tekst jednolity | [tak](WDU19971110724/orzecznictwo.md) |
 | [WDU19971110723](WDU19971110723/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustawy o najmie lokali mieszkal | Ustawa | obowiązujący | [tak](WDU19971110723/orzecznictwo.md) |
+| [WDU19971100715](WDU19971100715/index.md) | Ustawa z dnia 27 sierpnia 1997 r. o zmianie ustawy - Prawo łowieckie. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19971070692](WDU19971070692/index.md) | Ustawa z dnia 29 sierpnia 1997 r. o zmianie ustawy o stosowaniu szczególnyc | Ustawa | obowiązujący |  |
 | [WDU19971070691](WDU19971070691/index.md) | Ustawa z dnia 28 sierpnia 1997 r. o zmianie ustawy o zrekompensowaniu okres | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19971070691/orzecznictwo.md) |
 | [WDU19971070690](WDU19971070690/index.md) | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o dopłatach do oprocento | Ustawa | akt objęty tekstem jednolitym |  |
@@ -18048,6 +18047,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19950780396](WDU19950780396/index.md) | Uchwała Trybunału Konstytucyjnego z dnia 14 czerwca 1995 r. w sprawie ustal | Uchwała | nieobowiązujący - uchylona podstawa prawna |  |
 | [WDU19950660334](WDU19950660334/index.md) | Ustawa z dnia 30 marca 1995 r. o zmianie ustawy o planowaniu rodziny, ochro | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19950600310](WDU19950600310/index.md) | Ustawa z dnia 12 maja 1995 r. o zmianie ustawy o łączności oraz niektórych  | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU19950500261](WDU19950500261/index.md) | Ustawa z dnia 21 kwietnia 1995 r. o zmianie ustawy o uprawnieniach do bezpł | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19950470243](WDU19950470243/index.md) | Ustawa z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez  | Ustawa | akt posiada tekst jednolity | [tak](WDU19950470243/orzecznictwo.md) |
 | [WDU19950390198](WDU19950390198/index.md) | Uchwała Trybunału Konstytucyjnego z dnia 7 marca 1995 r. w sprawie ustaleni | Uchwała | nieobowiązujący - uchylona podstawa prawna |  |
 | [WDU19950300155](WDU19950300155/index.md) | Obwieszczenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 17 lutego | Obwieszczenie | nieobowiązujący - uchylona podstawa prawna |  |

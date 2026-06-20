@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
+# Ustawa z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 
 *USTAWA z dnia 12 lutego 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej, ustawy o referendum ogólnokrajowym oraz ustawy - Ordynacja wyborcza do Parlamentu Europejskiego
+# Ustawa z dnia 12 lutego 2009 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej, ustawy o referendum ogólnokrajowym oraz ustawy - Ordynacja wyborcza do Parlamentu Europejskiego
 
 *USTAWA z dnia 12 lutego 2009 r.*
 

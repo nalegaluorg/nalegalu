@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie akcji przeciwlodowej na wodach morskich.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 21 czerwca 1999 r. w sprawie akcji przeciwlodowej na wodach morskich.
 
 | Pole | Wartość |
 |---|---|

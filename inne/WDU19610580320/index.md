@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach morskich
+# Ustawa z dnia 1 grudnia 1961 r. o izbach morskich.
 
 *USTAWA z dnia 1 grudnia 1961 r.*
 

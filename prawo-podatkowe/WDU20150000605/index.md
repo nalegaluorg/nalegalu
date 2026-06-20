@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo zamówień publicznych
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Prawo zamówień publicznych
 
 *USTAWA z dnia 9 kwietnia 2015 r.*
 

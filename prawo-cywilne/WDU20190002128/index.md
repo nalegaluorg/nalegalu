@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 16 października 2019 r.*
 

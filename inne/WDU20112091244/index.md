@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz niektórych innych ustaw
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz niektórych innych ustaw
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

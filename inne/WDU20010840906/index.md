@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu
+# Ustawa z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu
 
 *USTAWA z dnia 11 sierpnia 2001 r.*
 
@@ -311,14 +311,20 @@ source: pdf
 
 17. Uchwała rady gminy w sprawie uchwalenia miejscowego planu odbudowy obowiązuje od dnia wejścia w życie w niej określonego, jednak nie wcześniej niż po upływie 14 dni od dnia ogłoszenia w dzienniku urzędowym województwa.
 
-18. (uchylony) Art. 13da. 1. W związku z przetwarzaniem przez wójta, burmistrza, prezydenta miasta albo wojewodę danych osobowych uzyskanych w toku prowadzenia postępowań w przedmiocie uchwalania miejscowych planów odbudowy prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia 2016/679, przysługuje, o ile nie wpływa na ochronę praw i wolności osoby, od której dane pozyskano.
+18. (uchylony)
+
+**Art. 13da.**
+
+1. W związku z przetwarzaniem przez wójta, burmistrza, prezydenta miasta albo wojewodę danych osobowych uzyskanych w toku prowadzenia postępowań w przedmiocie uchwalania miejscowych planów odbudowy prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia 2016/679, przysługuje, o ile nie wpływa na ochronę praw i wolności osoby, od której dane pozyskano.
 
 2. W przypadku gdy okres przechowywania danych osobowych, o których mowa w ust. 1, nie wynika z przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), organy, o których mowa w ust. 1, przechowują dane przez okres ustalony zgodnie z przepisami wydanymi na podstawie art. 6 ust. 2 i 2b ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
 3. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności. Art. 13db. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg i wynik postępowań w przedmiocie uchwalania miejscowych planów odbudowy.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
+
+**Art. 13db.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na przebieg i wynik postępowań w przedmiocie uchwalania miejscowych planów odbudowy.
 
 **Art. 13e.** Wydzielanie gruntów w celu realizacji miejscowego planu odbudowy stanowi cel publiczny w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
@@ -342,7 +348,9 @@ source: pdf
 
 9. Do wywłaszczenia, ustalenia i wypłaty odszkodowania w zakresie nieuregulowanym przepisami ustawy stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-10. Najem, dzierżawa lub użyczenie oraz trwały zarząd nieruchomości wygasają z upływem miesiąca, licząc od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna. Art. 13fa. Do miejscowego planu odbudowy w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy rozdziałów 1a, 5 oraz 5a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym dotyczące aktów planowania przestrzennego.
+10. Najem, dzierżawa lub użyczenie oraz trwały zarząd nieruchomości wygasają z upływem miesiąca, licząc od dnia, w którym decyzja o wywłaszczeniu stała się ostateczna.
+
+**Art. 13fa.** Do miejscowego planu odbudowy w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy rozdziałów 1a, 5 oraz 5a ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym dotyczące aktów planowania przestrzennego.
 
 **Art. 13g.**
 
@@ -354,9 +362,7 @@ source: pdf
 
 4. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy zbycia nieruchomości, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają nabywcę nieruchomości.
 
-5. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy nabycia nieruchomości, o której mowa w ust. 1, wynosi nie więcej niż 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz.
-
-- **1773)** .
+5. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy nabycia nieruchomości, o której mowa w ust. 1, wynosi nie więcej niż 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
 **Art. 13h.**
 
@@ -376,7 +382,9 @@ source: pdf
 
 1. Z dniem wejścia w życie aktu prawa miejscowego, o którym mowa w art. 13a, 13c lub 13d, na obszarach w nim wyznaczonych nie stosuje się ustaleń miejscowego planu zagospodarowania przestrzennego w zakresie sprzecznym z tym aktem.
 
-2. Akty prawa miejscowego, o których mowa w art. 13a, 13c i 13d, obowiązują do dnia wejścia w życie miejscowego planu zagospodarowania przestrzennego lub jego zmiany, na obszarze objętym tym aktem. Art. 13ia. Do decyzji o warunkach zabudowy i zagospodarowania terenu, o której mowa w art. 1 pkt 3, stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z tym że:
+2. Akty prawa miejscowego, o których mowa w art. 13a, 13c i 13d, obowiązują do dnia wejścia w życie miejscowego planu zagospodarowania przestrzennego lub jego zmiany, na obszarze objętym tym aktem.
+
+**Art. 13ia.** Do decyzji o warunkach zabudowy i zagospodarowania terenu, o której mowa w art. 1 pkt 3, stosuje się przepisy ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z tym że:
 
 - **1)** terminy, o których mowa w art. 51 ust. 2 oraz 64 ust. 1 pkt 1 we wprowadzeniu do wyliczenia tej ustawy, wynoszą 45 dni;
 - **2)** przepisy art. 64 ust. 1 pkt 1 lit. a, pkt 2 i 3 oraz art. 64a tej ustawy stosuje się do decyzji o warunkach zabudowy dotyczącej obiektu budowlanego, o którym mowa w art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, o powierzchni zabudowy do 140 m .

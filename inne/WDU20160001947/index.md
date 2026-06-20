@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Administracji Skarbowej Uznając doniosłość konstytucyjnego obowiązku ponoszenia ciężarów i świadczeń publicznych, w szczególności podatków i należności celnych, troszcząc się o bezpieczeństwo finansowe Rzeczypospolitej Polskiej oraz chroniąc bezpieczeństwo obszaru celnego Unii Europejskiej, w celu zapewnienia nowoczesnego i przyjaznego wykonywania obowiązków podatkowych i celnych, a także efektywnego poboru danin publicznych, uchwala się, co następuje:
+# Ustawa z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 16 listopada 2016 r.*
 
@@ -26,34 +26,6 @@ source: pdf
 | Data wydania | 2016-12-02 |
 | Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001947) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1947/text.pdf) |
-
-Art. 94ze. Wszczęcie kontroli ex post następuje z chwilą doręczenia unijnemu importerowi w rozumieniu art. 2 lit. l rozporządzenia 2017/821, zwanemu dalej „unijnym importerem”, upoważnienia do przeprowadzenia kontroli ex post udzielonego kontrolującemu przez Szefa Krajowej Administracji Skarbowej oraz wezwania do przedłożenia, w terminie 30 dni od dnia doręczenia unijnemu importerowi tego wezwania, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821.
-Art. 94zf. 1. W przypadku stwierdzenia w toku kontroli ex post naruszenia przepisów art. 4–7 rozporządzenia 2017/821 Szef Krajowej Administracji Skarbowej wzywa unijnego importera do:
-1) przedstawienia, w terminie 30 dni od dnia doręczenia tego wezwania, planu wdrożenia działań naprawczych;
-2) wdrożenia działań naprawczych w terminie 90 dni od dnia przedstawienia planu ich wdrożenia.
-2. Po upływie terminu, o którym mowa w ust. 1 pkt 2, Szef Krajowej Administracji Skarbowej wzywa unijnego importera do przedstawienia, w terminie 15 dni od dnia doręczenia tego wezwania, dokumentów potwierdzających wdrożenie działań naprawczych.
-Art. 94zg. 1. W przypadku gdy w toku kontroli ex post:
-1) unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
-2) unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
-3) Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie wdrożył działań naprawczych w terminie, o którym mowa w art. 94zf ust. 1 pkt 2 – Szef Krajowej Administracji Skarbowej sporządza protokół kontroli ex post, który kończy tę kontrolę.
-2. W przypadku gdy w toku kontroli ex post Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie naruszył przepisów art. 4– 7 rozporządzenia 2017/821 albo wdrożył działania naprawcze w terminie, o którym mowa w art. 94zf ust. 1 pkt 2, informuje pisemnie unijnego importera o zakończeniu tej kontroli.
-Art. 94zh. Zakończenie kontroli ex post następuje niezwłocznie, nie później niż w terminie 60 dni, licząc od dnia upływu terminu, o którym mowa w art. 94zf ust. 1 pkt 2.
-Art. 94zi. 1. Kto, będąc unijnym importerem:
-1) nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
-2) nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
-3) nie wdroży działań naprawczych w terminie, o którym mowa w art. 94zf ust. 1 pkt 2 – podlega karze pieniężnej.
-2. Karę pieniężną, o której mowa w ust. 1, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji administracyjnej, w wysokości od 1000 zł do 500 000 zł.
-3. Od decyzji, o której mowa w ust. 2, przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
-Art. 94zj. 1. Nakładając karę pieniężną, o której mowa w art. 94zi ust. 1, uwzględnia się rodzaj, zakres i skutki naruszenia, o którym mowa w art. 94zi ust. 1, wielkość obrotów i przychodu unijnego importera w zakresie importu cyny, tantalu i wolframu, ich rud oraz złota pochodzących z obszarów dotkniętych konfliktami lub obszarów wysokiego ryzyka oraz jego dotychczasową działalność w tym zakresie.
-2. Jeżeli okoliczności sprawy i dowody wskazują, że do naruszenia, o którym mowa w art. 94zi ust. 1, doszło na skutek zdarzeń lub okoliczności, którym unijny importer nie mógł zapobiec, odstępuje się od nałożenia kary pieniężnej, o której mowa w art. 94zi ust. 1, i umarza się postępowanie.
-3. Nie nakłada się kary pieniężnej, o której mowa w art. 94zi ust. 1, jeżeli od dnia sporządzenia protokołu kontroli, o którym mowa w art. 94zg ust. 1, upłynęły 3 lata.
-Art. 94zk. 1. Karę pieniężną, o której mowa w art. 94zi ust. 1, uiszcza się w terminie 7 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
-2. Kara pieniężna, o której mowa w art. 94zi ust. 1, stanowi dochód budżetu państwa.
-Art. 94zl. 1. W zakresie nieuregulowanym w niniejszym rozdziale do kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
-2. Do egzekucji kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
-Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post stosuje się odpowiednio:
-1) przepisy art. 62 ust. 2a–3b i 8, art. 64 ust. 1 pkt 1, 2 i 17 oraz ust. 3 i 4, art. 72, art. 75, art. 79, art. 84 ust. 2 i 4, art. 86 ust. 1 i 2 i art. 93;
-2) przepisy art. 12, art. 102 § 2 i 3, art. 135, art. 140 § 2, art. 283 § 4 i 5, art. 286a § 1 i 2, art. 290 § 4–6 i art. 291d oraz działu IV rozdziałów 1, 2, 3a, 5, 6, 10 i 11, z wyjątkiem art. 182–185, art. 190 § 1, art. 198 i art. 200, oraz działu VII Ordynacji podatkowej.
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1020,9 +992,7 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 - **1)** informacje dostarczane tym organom, w tym na podstawie przepisów odrębnych;
 - **2)** dane zgromadzone w bazach, rejestrach, ewidencjach, zbiorach i systemach informatycznych udostępnionych organom KAS w celu realizacji ustawowych zadań.
 
-5. Uprawnienie, o którym mowa w ust. 1, dotyczy w szczególności danych dotyczących podróżnych w rozumieniu art. 1 pkt 40 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1), osób dokonujących przemieszczania towarów, o którym mowa w art. 5 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2024 r. poz. 1373), oraz danych zawartych w rejestrach publicznych, o których mowa w art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w tym również danych na piśmie utrwalonym w postaci elektronicznej. Dane na piśmie utrwalonym w postaci elektronicznej przekazuje się na informatycznym nośniku danych lub przy użyciu systemów teleinformatycznych, o których mowa w art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz.
-
-- **1513)** .
+5. Uprawnienie, o którym mowa w ust. 1, dotyczy w szczególności danych dotyczących podróżnych w rozumieniu art. 1 pkt 40 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1), osób dokonujących przemieszczania towarów, o którym mowa w art. 5 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2024 r. poz. 1373), oraz danych zawartych w rejestrach publicznych, o których mowa w art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w tym również danych na piśmie utrwalonym w postaci elektronicznej. Dane na piśmie utrwalonym w postaci elektronicznej przekazuje się na informatycznym nośniku danych lub przy użyciu systemów teleinformatycznych, o których mowa w art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
 
 6. W przypadkach, o których mowa w ust. 1 i 4, organy władzy publicznej oraz podmioty prowadzące rejestry, o których mowa w ust. 5, mogą wyrazić zgodę na udostępnianie za pomocą środków komunikacji elektronicznej informacji zgromadzonych w tych rejestrach organom KAS, bez konieczności składania sporządzonych na piśmie wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań albo prowadzonej działalności oraz jeżeli organy KAS posiadają:
 
@@ -1129,7 +1099,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
     - **f)** datę ustanowienia pełnomocnika do rachunku posiadacza tego rachunku bankowego i reprezentanta posiadacza rachunku bankowego,
     - **g)** zakres umocowania pełnomocnika do rachunku posiadacza rachunku bankowego.
 
-2. Przepisy art. 48 ust. 7, 9 i 10 stosuje się odpowiednio. Art. 49aa. 1. Jeżeli naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego w związku z prowadzonymi czynnościami analitycznymi posiada uprawdopodobnione informacje o możliwości naruszenia przepisów prawa, których przestrzeganie podlega kontroli celno-skarbowej, może żądać przekazania przez agenta rozliczeniowego w rozumieniu art. 2 pkt 1a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611), zwanego dalej „agentem rozliczeniowym”, informacji o transakcjach płatniczych akceptanta w rozumieniu art. 2 pkt 1b tej ustawy, zwanego dalej „akceptantem”, wykonywanych przy użyciu terminala płatniczego, oprogramowania lub systemu teleinformatycznego, wskazując akceptanta i okres, którego ma dotyczyć ta informacja.
+2. Przepisy art. 48 ust. 7, 9 i 10 stosuje się odpowiednio.
+
+**Art. 49aa.**
+
+1. Jeżeli naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego w związku z prowadzonymi czynnościami analitycznymi posiada uprawdopodobnione informacje o możliwości naruszenia przepisów prawa, których przestrzeganie podlega kontroli celno-skarbowej, może żądać przekazania przez agenta rozliczeniowego w rozumieniu art. 2 pkt 1a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611), zwanego dalej „agentem rozliczeniowym”, informacji o transakcjach płatniczych akceptanta w rozumieniu art. 2 pkt 1b tej ustawy, zwanego dalej „akceptantem”, wykonywanych przy użyciu terminala płatniczego, oprogramowania lub systemu teleinformatycznego, wskazując akceptanta i okres, którego ma dotyczyć ta informacja.
 
 2. Informacja, o której mowa w ust. 1, zawiera:
 
@@ -1151,7 +1125,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 5. (uchylony)
 
-6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 49aaa. 1. W ramach prowadzenia działalności analitycznej Szef Krajowej Administracji Skarbowej wykorzystuje informacje o transakcjach płatniczych akceptanta wykonywanych przy użyciu terminala płatniczego, oprogramowania lub systemu teleinformatycznego.
+6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
+
+**Art. 49aaa.**
+
+1. W ramach prowadzenia działalności analitycznej Szef Krajowej Administracji Skarbowej wykorzystuje informacje o transakcjach płatniczych akceptanta wykonywanych przy użyciu terminala płatniczego, oprogramowania lub systemu teleinformatycznego.
 
 2. Do przekazywania Szefowi Krajowej Administracji Skarbowej informacji, o których mowa w ust. 1, jest obowiązany agent rozliczeniowy.
 
@@ -1183,16 +1161,26 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 5. Informacja, o której mowa w ust. 1, jest przekazywana w postaci elektronicznej odpowiadającej strukturze logicznej udostępnionej przez ministra właściwego do spraw finansów publicznych w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Informacja jest przesyłana za pomocą środków komunikacji elektronicznej w sposób określony w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej i zgodnie z wymaganiami określonymi w tych przepisach.
 
-6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 49aab. 1. Wypełnianie obowiązków określonych w art. 49aaa ust. 2– 5 podlega kontroli Szefa Krajowej Administracji Skarbowej.
+6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
+
+**Art. 49aab.**
+
+1. Wypełnianie obowiązków określonych w art. 49aaa ust. 2– 5 podlega kontroli Szefa Krajowej Administracji Skarbowej.
 
 2. Kontrolę, o której mowa w ust. 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej funkcjonariusze lub osoby zatrudnione w jednostkach organizacyjnych KAS posiadający poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
 
-3. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17, ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97a ust. 6. Art. 49ab. 1. Dane zawarte w informacjach, o których mowa:
+3. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17, ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97a ust. 6.
+
+**Art. 49ab.**
+
+1. Dane zawarte w informacjach, o których mowa:
 
 - **1)** w art. 49aa ust. 1, są przechowywane przez agentów rozliczeniowych, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych,
 - **2)** w art. 49aaa ust. 1, są przechowywane przez agentów rozliczeniowych i Szefa Krajowej Administracji Skarbowej – przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dane zostały przekazane do naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego albo Szefa Krajowej Administracji Skarbowej.
 
-2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego albo Szefa Krajowej Administracji Skarbowej po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia. Art. 49ac. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1 oraz art. 49aaa ust. 1, są udostępniane wyłącznie:
+2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego albo Szefa Krajowej Administracji Skarbowej po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia.
+
+**Art. 49ac.** Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1 oraz art. 49aaa ust. 1, są udostępniane wyłącznie:
 
 - **1)** organom KAS – w celu realizacji ich ustawowych zadań;
 - **2)** innym niż określone w pkt 1 organom wymienionym w art. 297 Ordynacji podatkowej – na zasadach określonych w tych przepisach.
@@ -1292,7 +1280,11 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 1. Przetwarzanie danych osobowych przez organy KAS w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, odbywa się na zasadach określonych w tej ustawie.
 
-2. Danych osobowych, o których mowa w art. 14 ust. 1 ustawy, o której mowa w ust. 1, nie gromadzi się, w przypadku gdy nie mają one przydatności wykrywczej lub dowodowej. Art. 52aa. 1. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o zmianie formy opodatkowania lub kwoty rocznego przychodu lub rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+2. Danych osobowych, o których mowa w art. 14 ust. 1 ustawy, o której mowa w ust. 1, nie gromadzi się, w przypadku gdy nie mają one przydatności wykrywczej lub dowodowej.
+
+**Art. 52aa.**
+
+1. Szef Krajowej Administracji Skarbowej informuje Zakład Ubezpieczeń Społecznych o zmianie formy opodatkowania lub kwoty rocznego przychodu lub rocznego dochodu uzyskanego przez podatnika będącego ubezpieczonym, o którym mowa w art. 18c ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. Zakład Ubezpieczeń Społecznych może wystąpić z wnioskiem do Szefa Krajowej Administracji Skarbowej o informację o kwocie rocznego przychodu z pozarolniczej działalności gospodarczej uzyskanego przez płatnika składek, o którym mowa w art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Wymiana informacji odbywa się w formie elektronicznej.
 
@@ -1428,7 +1420,7 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 4. W zakresie kontroli, o której mowa w art. 54 ust. 1 pkt 1, kontrolowanemu przysługuje uprawnienie do złożenia deklaracji lub korekty deklaracji w zakresie objętym tą kontrolą w terminie 14 dni od dnia doręczenia upoważnienia do przeprowadzenia kontroli celno-skarbowej. Deklaracja i korekta deklaracji złożone po upływie tego terminu, a przed zakończeniem kontroli celno-skarbowej nie wywołują skutków prawnych.
 
-4a. Naczelnik urzędu skarbowego właściwy dla kontrolowanego niezwłocznie informuje naczelnika urzędu celno-skarbowego prowadzącego kontrolę celnoskarbową o złożonej deklaracji lub korekcie deklaracji.> 4b. W przypadku gdy naczelnik urzędu celno-skarbowego uwzględnił złożoną przez kontrolowanego dekla-rację lub korektę deklaracji, kontrolowanemu doręcza się zawiadomienie o uwzględnieniu deklaracji lub korekty deklaracji. Zawiadomienie o uwzględnieniu deklaracji lub korekty deklaracji przesyła się do właściwego dla kontrolowanego naczelnika urzędu skarbowego.
+4a. Naczelnik urzędu skarbowego właściwy dla kontrolowanego niezwłocznie informuje naczelnika urzędu celno-skarbowego prowadzącego kontrolę celnoskarbową o złożonej deklaracji lub korekcie deklaracji. Zawiadomienie o uwzględnieniu deklaracji lub korekty deklaracji przesyła się do właściwego dla kontrolowanego naczelnika urzędu skarbowego.
 
 4c. Doręczenie kontrolowanemu zawiadomienia o uwzględnieniu deklaracji lub korekty deklaracji kończy kontrolę celno-skarbową. W tym przypadku przepisów art. 82 ust. 1–5 nie stosuje się.
 
@@ -2321,11 +2313,17 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 1. Tymczasowe zajęcie ruchomości polega na czasowym pozbawieniu zobowiązanego prawa do rozporządzania zajętą ruchomością.
 
-2. Tymczasowe zajęcie ruchomości nie może trwać dłużej niż 96 godzin od chwili podpisania protokołu tymczasowego zajęcia ruchomości przez funkcjonariusza dokonującego tego zajęcia. Art. 94za. Funkcjonariusz nie dokonuje tymczasowego zajęcia ruchomości w przypadku:
+2. Tymczasowe zajęcie ruchomości nie może trwać dłużej niż 96 godzin od chwili podpisania protokołu tymczasowego zajęcia ruchomości przez funkcjonariusza dokonującego tego zajęcia.
+
+**Art. 94za.** Funkcjonariusz nie dokonuje tymczasowego zajęcia ruchomości w przypadku:
 
 - **1)** gdy zobowiązany okazał funkcjonariuszowi dowody stwierdzające wykonanie, umorzenie, wygaśnięcie albo nieistnienie obowiązku, odroczenie terminu wykonania obowiązku albo rozłożenie na raty spłaty należności pieniężnych;
 - **2)** gdy ruchomości podlegają wyłączeniu lub zwolnieniu z egzekucji administracyjnej, w przypadkach, o których mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji;
-- **3)** zwierząt oraz ruchomości ulegających łatwemu zepsuciu. Art. 94zb. 1. Funkcjonariusz wpisuje tymczasowo zajętą ruchomość do protokołu tymczasowego zajęcia ruchomości.
+- **3)** zwierząt oraz ruchomości ulegających łatwemu zepsuciu.
+
+**Art. 94zb.**
+
+1. Funkcjonariusz wpisuje tymczasowo zajętą ruchomość do protokołu tymczasowego zajęcia ruchomości.
 
 2. Protokół tymczasowego zajęcia ruchomości zawiera:
 
@@ -2344,9 +2342,73 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 3. Przepisy art. 51 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio.
 
-4. Protokół tymczasowego zajęcia ruchomości jest doręczany zobowiązanemu i dozorcy. Art. 94zc. Do dozoru nad tymczasowo zajętymi ruchomościami stosuje się odpowiednio przepisy art. 100–103 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z tym że w przypadku gdy zajęta ruchomość nie może być pozostawiona w miejscu zajęcia, a nie ma innej osoby, której można by było oddać zajętą ruchomość pod dozór, zostaje ona wzięta pod dozór naczelnika urzędu celno-skarbowego, z upoważnienia którego funkcjonariusz dokonuje kontroli celno-skarbowej. Art. 94zd. Niezwłocznie po dokonaniu tymczasowego zajęcia ruchomości funkcjonariusz dokonujący tymczasowego zajęcia ruchomości przekazuje za pomocą środków komunikacji elektronicznej do organu egzekucyjnego, o którym mowa w art. 94y ust. 1, odwzorowanie cyfrowe protokołu tymczasowego zajęcia ruchomości, informacje dotyczące miejsca przechowywania tej ruchomości, imienia i nazwiska lub nazwy dozorcy oraz kosztów faktycznie poniesionych związanych z tymczasowym zajęciem ruchomości.
+4. Protokół tymczasowego zajęcia ruchomości jest doręczany zobowiązanemu i dozorcy.
+
+**Art. 94zc.** Do dozoru nad tymczasowo zajętymi ruchomościami stosuje się odpowiednio przepisy art. 100–103 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z tym że w przypadku gdy zajęta ruchomość nie może być pozostawiona w miejscu zajęcia, a nie ma innej osoby, której można by było oddać zajętą ruchomość pod dozór, zostaje ona wzięta pod dozór naczelnika urzędu celno-skarbowego, z upoważnienia którego funkcjonariusz dokonuje kontroli celno-skarbowej.
+
+**Art. 94zd.** Niezwłocznie po dokonaniu tymczasowego zajęcia ruchomości funkcjonariusz dokonujący tymczasowego zajęcia ruchomości przekazuje za pomocą środków komunikacji elektronicznej do organu egzekucyjnego, o którym mowa w art. 94y ust. 1, odwzorowanie cyfrowe protokołu tymczasowego zajęcia ruchomości, informacje dotyczące miejsca przechowywania tej ruchomości, imienia i nazwiska lub nazwy dozorcy oraz kosztów faktycznie poniesionych związanych z tymczasowym zajęciem ruchomości.
 
 #### Rozdział 1d Kontrola ex post
+
+**Art. 94ze.** Wszczęcie kontroli ex post następuje z chwilą doręczenia unijnemu importerowi w rozumieniu art. 2 lit. l rozporządzenia 2017/821, zwanemu dalej „unijnym importerem”, upoważnienia do przeprowadzenia kontroli ex post udzielonego kontrolującemu przez Szefa Krajowej Administracji Skarbowej oraz wezwania do przedłożenia, w terminie 30 dni od dnia doręczenia unijnemu importerowi tego wezwania, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821.
+
+**Art. 94zf.**
+
+1. W przypadku stwierdzenia w toku kontroli ex post naruszenia przepisów art. 4–7 rozporządzenia 2017/821 Szef Krajowej Administracji Skarbowej wzywa unijnego importera do:
+
+- **1)** przedstawienia, w terminie 30 dni od dnia doręczenia tego wezwania, planu wdrożenia działań naprawczych;
+- **2)** wdrożenia działań naprawczych w terminie 90 dni od dnia przedstawienia planu ich wdrożenia.
+
+2. Po upływie terminu, o którym mowa w ust. 1 pkt 2, Szef Krajowej Administracji Skarbowej wzywa unijnego importera do przedstawienia, w terminie 15 dni od dnia doręczenia tego wezwania, dokumentów potwierdzających wdrożenie działań naprawczych.
+
+**Art. 94zg.**
+
+1. W przypadku gdy w toku kontroli ex post:
+
+- **1)** unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
+- **2)** unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
+- **3)** Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie wdrożył działań naprawczych w terminie, o którym mowa w art. 94zf ust. 1 pkt 2 – Szef Krajowej Administracji Skarbowej sporządza protokół kontroli ex post, który kończy tę kontrolę.
+
+2. W przypadku gdy w toku kontroli ex post Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie naruszył przepisów art. 4– 7 rozporządzenia 2017/821 albo wdrożył działania naprawcze w terminie, o którym mowa w art. 94zf ust. 1 pkt 2, informuje pisemnie unijnego importera o zakończeniu tej kontroli.
+
+**Art. 94zh.** Zakończenie kontroli ex post następuje niezwłocznie, nie później niż w terminie 60 dni, licząc od dnia upływu terminu, o którym mowa w art. 94zf ust. 1 pkt 2.
+
+**Art. 94zi.**
+
+1. Kto, będąc unijnym importerem:
+
+- **1)** nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
+- **2)** nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
+- **3)** nie wdroży działań naprawczych w terminie, o którym mowa w art. 94zf ust. 1 pkt 2 – podlega karze pieniężnej.
+
+2. Karę pieniężną, o której mowa w ust. 1, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji administracyjnej, w wysokości od 1000 zł do 500 000 zł.
+
+3. Od decyzji, o której mowa w ust. 2, przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
+
+**Art. 94zj.**
+
+1. Nakładając karę pieniężną, o której mowa w art. 94zi ust. 1, uwzględnia się rodzaj, zakres i skutki naruszenia, o którym mowa w art. 94zi ust. 1, wielkość obrotów i przychodu unijnego importera w zakresie importu cyny, tantalu i wolframu, ich rud oraz złota pochodzących z obszarów dotkniętych konfliktami lub obszarów wysokiego ryzyka oraz jego dotychczasową działalność w tym zakresie.
+
+2. Jeżeli okoliczności sprawy i dowody wskazują, że do naruszenia, o którym mowa w art. 94zi ust. 1, doszło na skutek zdarzeń lub okoliczności, którym unijny importer nie mógł zapobiec, odstępuje się od nałożenia kary pieniężnej, o której mowa w art. 94zi ust. 1, i umarza się postępowanie.
+
+3. Nie nakłada się kary pieniężnej, o której mowa w art. 94zi ust. 1, jeżeli od dnia sporządzenia protokołu kontroli, o którym mowa w art. 94zg ust. 1, upłynęły 3 lata.
+
+**Art. 94zk.**
+
+1. Karę pieniężną, o której mowa w art. 94zi ust. 1, uiszcza się w terminie 7 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
+
+2. Kara pieniężna, o której mowa w art. 94zi ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 94zl.**
+
+1. W zakresie nieuregulowanym w niniejszym rozdziale do kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+
+2. Do egzekucji kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+**Art. 94zm.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post stosuje się odpowiednio:
+
+- **1)** przepisy art. 62 ust. 2a–3b i 8, art. 64 ust. 1 pkt 1, 2 i 17 oraz ust. 3 i 4, art. 72, art. 75, art. 79, art. 84 ust. 2 i 4, art. 86 ust. 1 i 2 i art. 93;
+- **2)** przepisy art. 12, art. 102 § 2 i 3, art. 135, art. 140 § 2, art. 283 § 4 i 5, art. 286a § 1 i 2, art. 290 § 4–6 i art. 291d oraz działu IV rozdziałów 1, 2, 3a, 5, 6, 10 i 11, z wyjątkiem art. 182–185, art. 190 § 1, art. 198 i art. 200, oraz działu VII Ordynacji podatkowej.
 
 #### Rozdział 2 Audyt
 
@@ -4302,9 +4364,7 @@ Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post
 
 **Art. 207.**
 
-1. O zdolności fizycznej i psychicznej kandydata do służby w Służbie Celno-Skarbowej oraz funkcjonariusza, do pełnienia służby, orzekają komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych, o których mowa w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2024 r. poz.
-
-- **310)** .
+1. O zdolności fizycznej i psychicznej kandydata do służby w Służbie Celno-Skarbowej oraz funkcjonariusza, do pełnienia służby, orzekają komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych, o których mowa w ustawie z dnia 28 listopada 2014 r. o komisjach lekarskich podległych ministrowi właściwemu do spraw wewnętrznych (Dz. U. z 2024 r. poz. 310).
 
 2. Funkcjonariusz może być skierowany do komisji lekarskiej, o której mowa w ust. 1:
 

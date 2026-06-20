@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zwolnień od pracy lub nauki osób należących do kościołów i innych związków wyznaniowych w celu obchodzenia świąt religijnych nie będących dniami ustawowo wolnymi od pracy.
+# Rozporządzenie Ministrów Pracy i Polityki Socjalnej oraz Edukacji Narodowej z dnia 11 marca 1999 r. w sprawie zwolnień od pracy lub nauki osób należących do kościołów i innych związków wyznaniowych w celu obchodzenia świąt religijnych nie będących dniami ustawowo wolnymi od pracy.
 
 | Pole | Wartość |
 |---|---|

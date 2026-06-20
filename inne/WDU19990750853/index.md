@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utracie mocy obowiązującej art. 4 ust. 3 ustawy o radcach prawnych, art. 30 ust. 2 ustawy o Sądzie Najwyższym, art. 15 ustawy o prokuraturze, art. 53 § 2 i art. 61 § 2 pkt 3 ustawy - Prawo o ustroju sądów powszechnych, art. 12a ustawy o Naczelnym Sądzie Administracyjnym, art. 12 ustawy o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw oraz w części: art. 4b ust.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 6 września 1999 r. o utracie mocy obowiązującej art. 4 ust. 3 ustawy o radcach prawnych, art. 30 ust. 2 ustawy o Sądzie Najwyższym, art. 15 ustawy o prokuraturze, art. 53 par. 2 i art. 61 par. 2 pkt 3 ustawy - Prawo o ustroju sądów powszechnych, art. 12a ustawy o Naczelnym Sądzie Administracyjnym, art. 12 ustawy o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz niektórych innych ustaw oraz w części: art. 4b ust. 1 pkt 2 i ust. 2 ustawy - Prawo o adwokaturze, art. 122(1) par. 4 ustawy - Prawo o ustroju sądów powszechnych i art. 70 par. 1 ustawy - Prawo o ustroju sądów wojskowych.
 
 | Pole | Wartość |
 |---|---|

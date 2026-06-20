@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” oraz ustawy o transporcie kolejowym
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o komercjalizacji, prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe" oraz ustawy o transporcie kolejowym
 
 *USTAWA z dnia 24 października 2008 r.*
 

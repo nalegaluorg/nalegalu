@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu nieuczciwym praktykom rynkowym
+# Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym
 
 *USTAWA z dnia 23 sierpnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-09-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071711206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1206/text.pdf) |
-
-Art. 18–20. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -233,6 +231,8 @@ Art. 18–20. (pominięte)
 3. Z żądaniem ścigania wykroczenia określonego w art. 15 mogą wystąpić także podmioty, o których mowa w art. 12 ust. 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
+
+**Art. 18–20.** (pominięte)
 
 **Art. 21.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

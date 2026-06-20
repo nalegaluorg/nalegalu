@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o minimalnym wynagrodzeniu za pracę
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o minimalnym wynagrodzeniu za pracę
 
 | Pole | Wartość |
 |---|---|
@@ -196,7 +196,9 @@ source: pdf
 
 **Art. 8e.** Kto, będąc przedsiębiorcą albo działając w imieniu przedsiębiorcy albo innej jednostki organizacyjnej, wypłaca przyjmującemu zlecenie lub świadczącemu usługi wynagrodzenie za każdą godzinę wykonania zlecenia lub świadczenia usług w wysokości niższej niż obowiązująca wysokość minimalnej stawki godzinowej, podlega karze grzywny od 1000 zł do 30 000 zł.
 
-**Art. 8f.** Orzekanie w sprawach o czyny, o których mowa w art. 8e, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544). Art. 9–24. (pominięte)
+**Art. 8f.** Orzekanie w sprawach o czyny, o których mowa w art. 8e, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
+
+**Art. 9–24.** (pominięte)
 
 **Art. 25.** Ilekroć w przepisach prawa jest mowa o „najniższym wynagrodzeniu za pracę pracowników” przez odwołanie się do odrębnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy i Polityki Socjalnej, Ministra Pracy i Polityki Społecznej lub ministra właściwego do spraw pracy jako zobowiązanego do ustalania takiego wynagrodzenia na podstawie odrębnych przepisów lub Kodeksu pracy, oznacza to kwotę 760 zł.
 

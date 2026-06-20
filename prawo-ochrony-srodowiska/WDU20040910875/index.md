@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo energetyczne oraz ustawy - Prawo ochrony środowiska
+# Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy - Prawo energetyczne oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 2 kwietnia 2004 r.*
 

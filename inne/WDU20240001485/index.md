@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dochodzeniu roszczeń w postępowaniu grupowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dochodzeniu roszczeń w postępowaniu grupowym
 
 | Pole | Wartość |
 |---|---|
@@ -225,7 +225,13 @@ o dochodzeniu roszczeń w postępowaniu grupowym
 
 5. W przypadku ustalenia, że wytoczone przez podmiot upoważniony powództwo pozostaje poza zakresem jego zadań statutowych lub nie dotyczy sektora objętego zakresem działania tego podmiotu upoważnionego zgodnie z przepisami prawa Unii Europejskiej, o których mowa w załączniku I do dyrektywy 2020/1828, oraz przepisami je wdrażającymi lub służącymi ich stosowaniu, sąd odrzuca pozew.
 
-**Art. 10a.** Po uprawomocnieniu się postanowienia o rozpoznaniu sprawy w postępowaniu grupowym, dopuszczalność prowadzenia postępowania grupowego nie podlega ponownemu badaniu w dalszym toku postępowania. Art. 10aa. 17) 1. W postępowaniu grupowym w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów sąd, na każdym etapie postępowania – w przypadku powzięcia uzasadnionych wątpliwości co do zgodności finansowania podmiotu upoważnionego z warunkami określonymi w art. 46h pkt 5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów – ustala, czy finansowanie przez inny podmiot, w tym przedsiębiorcę lub organizację przedsiębiorców, podmiotu upoważnionego pozostaje bez wpływu na właściwe zapewnienie ochrony interesów konsumentów. 2. Dokonując ustalenia, o którym mowa w ust. 1, sąd bada w szczególności, czy:
+**Art. 10a.** Po uprawomocnieniu się postanowienia o rozpoznaniu sprawy w postępowaniu grupowym, dopuszczalność prowadzenia postępowania grupowego nie podlega ponownemu badaniu w dalszym toku postępowania.
+
+**Art. 10aa.**
+
+- **17)** 1. W postępowaniu grupowym w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów sąd, na każdym etapie postępowania – w przypadku powzięcia uzasadnionych wątpliwości co do zgodności finansowania podmiotu upoważnionego z warunkami określonymi w art. 46h pkt 5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów – ustala, czy finansowanie przez inny podmiot, w tym przedsiębiorcę lub organizację przedsiębiorców, podmiotu upoważnionego pozostaje bez wpływu na właściwe zapewnienie ochrony interesów konsumentów.
+
+2. Dokonując ustalenia, o którym mowa w ust. 1, sąd bada w szczególności, czy:
 
 - **1)** inny podmiot:
     - **a)** finansuje wytoczone powództwo,
@@ -247,7 +253,11 @@ o dochodzeniu roszczeń w postępowaniu grupowym
 7. Sąd przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów odpis:
 
 - **1)** zarządzenia, o którym mowa w ust. 5;
-- **2)** postanowienia o odrzuceniu pozwu na podstawie ust. 6 wraz z uzasadnieniem. Art. 10ab. 17) 1. W przypadku wykreślenia podmiotu upoważnionego z rejestru, o którym mowa w art. 4 pkt 13a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, albo wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828, sąd zawiesza postępowanie w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, w którym bierze udział wykreślony podmiot upoważniony, wyznaczając termin na zmianę podmiotu upoważnionego przez członków grupy nie krótszy niż 6 miesięcy.
+- **2)** postanowienia o odrzuceniu pozwu na podstawie ust. 6 wraz z uzasadnieniem.
+
+**Art. 10ab.**
+
+- **17)** 1. W przypadku wykreślenia podmiotu upoważnionego z rejestru, o którym mowa w art. 4 pkt 13a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, albo wykazu podmiotów upoważnionych prowadzonego przez Komisję Europejską na podstawie art. 5 ust. 1 dyrektywy 2020/1828, sąd zawiesza postępowanie w sprawach o roszczenia związane ze stosowaniem praktyk naruszających ogólne interesy konsumentów, w którym bierze udział wykreślony podmiot upoważniony, wyznaczając termin na zmianę podmiotu upoważnionego przez członków grupy nie krótszy niż 6 miesięcy.
 
 2. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, sąd odrzuca pozew.
 

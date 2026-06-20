@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 marca 2019 r.*
 

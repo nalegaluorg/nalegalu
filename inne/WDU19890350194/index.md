@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie zawodowym niektórych przedsiębiorców
+# Ustawa z dnia 30 maja 1989 r. o samorządzie zawodowym niektórych podmiotów gospodarczych.
 
 *USTAWA z dnia 30 maja 1989 r.*
 

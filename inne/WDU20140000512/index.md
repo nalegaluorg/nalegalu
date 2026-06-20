@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 marca 2014 r.*
 
@@ -95,17 +95,41 @@ source: pdf
 - **1)** nieuwzględnienia zastrzeżenia od pozostawienia zgłoszenia bez rozpatrzenia albo
 - **2)** umorzenia postępowania, albo
 - **3)** nieprzedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczypospolitej Polskiej, albo
-- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczy-pospolitej Polskiej. Art. 57ab. § 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego zgłasza się prezesowi właściwego sądu okręgowego, zaś na wolne stanowisko sędziego sądu okręgowego oraz na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+- **4)** przedstawienia wniosku o powołanie do pełnienia urzędu na stanowisku sędziowskim Prezydentowi Rzeczy-pospolitej Polskiej.
 
-§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego. Art. 57ac. § 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1−7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
+**Art. 57ab.**
+
+§ 1. Kandydaturę na wolne stanowisko sędziego sądu rejonowego zgłasza się prezesowi właściwego sądu okręgowego, zaś na wolne stanowisko sędziego sądu okręgowego oraz na wolne stanowisko sędziego sądu apelacyjnego – prezesowi sądu apelacyjnego.
+
+§ 2. Czynności w stosunku do kandydata w toku postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim prezes właściwego sądu dokonuje za pośrednictwem systemu teleinformatycznego.
+
+**Art. 57ac.**
+
+§ 1. Jeżeli zgłoszenie na wolne stanowisko sędziowskie nie spełnia wymogów formalnych, o których mowa w art. 57 § 6 i 7 oraz art. 57a § 1−7, prezes właściwego sądu wzywa kandydata do jego uzupełnienia w terminie siedmiu dni.
 
 § 2. Jeżeli swoją kandydaturę zgłosiła osoba, która nie spełnia warunków do objęcia stanowiska sędziego sądu powszechnego, o których mowa w art. 61 § 1 pkt 1 oraz 3−7 lub § 2−5 albo w art. 63 i art. 64 ustawy oraz art. 65 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2012 r. poz. 1230), albo zgłoszenie nastąpiło po upływie terminu, o którym mowa w art. 57 § 1, lub zgłoszenie nie zostało uzupełnione w wyznaczonym terminie albo wobec zgłaszającego kandydaturę toczy się inne postępowanie w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, właściwy prezes sądu zawiadamia zgłaszającego o pozostawieniu zgłoszenia bez rozpatrzenia, za pośrednictwem systemu teleinformatycznego, podając przyczynę pozostawienia zgłoszenia bez rozpatrzenia.
 
-§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa. Art. 57ad. § 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
+§ 3. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia może w terminie siedmiu dni od zawiadomienia, o którym mowa w § 2, złożyć zastrzeżenie za pośrednictwem systemu teleinformatycznego. W razie nieuwzględnienia zastrzeżenia prezes właściwego sądu niezwłocznie przekazuje je za pośrednictwem systemu teleinformatycznego wraz ze zgłoszeniem Krajowej Radzie Sądownictwa. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Sądownictwa.
 
-§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym. Art. 57ae. § 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+**Art. 57ad.**
 
-§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądach okręgowych danej apelacji i w sądzie apelacyjnym. Art. 57af. Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016). Art. 57ag. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów. Art. 57ah. § 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
+§ 1. W razie cofnięcia zgłoszenia na wolne stanowisko sędziowskie prezes właściwego sądu niezwłocznie przekazuje oświadczenie o cofnięciu zgłoszenia za pośrednictwem systemu teleinformatycznego do Krajowej Rady Sądownictwa. Nie wstrzymuje to podejmowania dalszych czynności w stosunku do kandydatów, którzy zgłosili się na to samo wolne stanowisko sędziowskie.
+
+§ 2. Doręczenia uznaje się za skuteczne z chwilą zalogowania się kandydata do systemu teleinformatycznego lub po upływie czternastu dni od dnia umieszczenia pisma w systemie teleinformatycznym.
+
+**Art. 57ae.**
+
+§ 1. O zgłoszeniu każdego kandydata na wolne stanowisko sędziowskie prezes właściwego sądu zawiadamia Ministra Sprawiedliwości przez udostępnienie karty zgłoszenia kandydata w systemie teleinformatycznym.
+
+§ 2. Prezes sądu okręgowego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądach rejonowych danego okręgu. Prezes sądu apelacyjnego ma dostęp do zgromadzonych w systemie teleinformatycznym dokumentów dotyczących wszystkich postępowań w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim w sądach okręgowych danej apelacji i w sądzie apelacyjnym.
+
+**Art. 57af.** Dokumenty dotyczące postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim, zgromadzone w systemie teleinformatycznym są przechowywane przez okres dwunastu miesięcy. Okres przechowywania dokumentów, które mogą być wykorzystane w innych postępowaniach w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim dotyczących danego kandydata, wynosi siedem lat. Po upływie okresu przechowywania dokumenty podlegają brakowaniu w sposób określony w przepisach ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016).
+
+**Art. 57ag.** Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania konta w systemie teleinformatycznym, sposób dostępu do konta, sposób korzystania z systemu teleinformatycznego oraz podejmowania w nim czynności związanych z wnoszeniem karty zgłoszenia i dołączonych dokumentów, szczegółowy tryb doręczeń i zawiadomień elektronicznych, jak również sposób przechowywania, udostępniania i usuwania – po zakończeniu postępowania w sprawie powołania do pełnienia urzędu na stanowisku sędziowskim – zamieszczonych w systemie dokumentów, mając na względzie potrzebę zapewnienia sprawności postępowania dotyczącego objęcia stanowiska sędziowskiego, dostępność drogi elektronicznej dla uczestników postępowania oraz potrzebę zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych kandydatów.
+
+**Art. 57ah.**
+
+§ 1. Prezes sądu, któremu złożono kartę zgłoszenia, po stwierdzeniu spełniania przez kandydata warunków oraz wymogów formalnych zgłoszenia, zarządza, w terminie nie dłuższym niż siedem dni od dnia zgłoszenia, dokonanie oceny kwalifikacji kandydata przez wyznaczonego sędziego.
 
 § 2. W razie potrzeby prezes sądu może zlecić dokonanie oceny kwalifikacji więcej niż jednemu sędziemu.
 

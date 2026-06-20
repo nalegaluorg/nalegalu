@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrację publiczną
+# Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o Policji, ustawy o działalności ubezpieczeniowej, ustawy - Prawo bankowe, ustawy o samorządzie powiatowym oraz ustawy - Przepisy wprowadzające ustawy reformujące administrację publiczną.
 
 *USTAWA z dnia 27 lipca 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 *USTAWA z dnia 27 sierpnia 1997 r.*
 
@@ -223,13 +223,21 @@ source: pdf
 - **6)** korzystania z systemu środowiskowego wsparcia w samodzielnej egzystencji, przez co rozumie się korzystanie z usług socjalnych, opiekuńczych, terapeutycznych i rehabilitacyjnych świadczonych przez sieć instytucji pomocy społecznej, organizacje pozarządowe oraz inne placówki;
 - **7)** konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji;
 - **8)** konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji;
-- **9)** spełniania przez osobę niepełnosprawną przesłanek określonych w art. 8 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), przy czym w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności spełnienie tych przesłanek może zostać stwierdzone jedynie w przypadku ustalenia przyczyny niepełnosprawności oznaczonej symbolem 04-O (choroby narządu wzroku), 05-R (upośledzenie narządu ruchu), 10-N (choroba neurologiczna) lub 07-S (choroby układu oddechowego i krążenia). Art. 6ba. 1. Osoba niepełnosprawna posiadająca orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności wydane na czas określony może wystąpić do powiatowego zespołu z wnioskiem o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności nie wcześniej niż 2 miesiące przed upływem terminu ważności posiadanego orzeczenia.
+- **9)** spełniania przez osobę niepełnosprawną przesłanek określonych w art. 8 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), przy czym w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności spełnienie tych przesłanek może zostać stwierdzone jedynie w przypadku ustalenia przyczyny niepełnosprawności oznaczonej symbolem 04-O (choroby narządu wzroku), 05-R (upośledzenie narządu ruchu), 10-N (choroba neurologiczna) lub 07-S (choroby układu oddechowego i krążenia).
+
+**Art. 6ba.**
+
+1. Osoba niepełnosprawna posiadająca orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności wydane na czas określony może wystąpić do powiatowego zespołu z wnioskiem o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności nie wcześniej niż 2 miesiące przed upływem terminu ważności posiadanego orzeczenia.
 
 2. Osoba niepełnosprawna posiadająca orzeczenie o niepełnosprawności może wystąpić do powiatowego zespołu z wnioskiem o wydanie orzeczenia o stopniu niepełnosprawności nie wcześniej niż 3 miesiące przed upływem terminu ważności orzeczenia o niepełnosprawności.
 
 3. W przypadku zmiany stanu zdrowia osoba niepełnosprawna posiadająca orzeczenie o niepełnosprawności albo o stopniu niepełnosprawności może w okresie ważności tego orzeczenia wystąpić do powiatowego zespołu z wnioskiem o wydanie orzeczenia uwzględniającego zmianę stanu zdrowia.
 
-4. Wnioski, o których mowa w ust. 1–3, mogą składać również przedstawiciele ustawowi, ośrodki pomocy społecznej albo centra usług społecznych, o których mowa w art. 6b ust. 1. Art. 6bb. 1. Jeżeli wniosek o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności został złożony w okresie ważności odpowiednio orzeczenia ustalającego niepełnosprawność albo orzeczenia ustalającego stopień niepełnosprawności, to zachowuje ono ważność do dnia wydania kolejnego ostatecznego orzeczenia, nie dłużej jednak niż do ostatniego dnia szóstego miesiąca następującego po dacie określającej tę ważność.
+4. Wnioski, o których mowa w ust. 1–3, mogą składać również przedstawiciele ustawowi, ośrodki pomocy społecznej albo centra usług społecznych, o których mowa w art. 6b ust. 1.
+
+**Art. 6bb.**
+
+1. Jeżeli wniosek o wydanie kolejnego orzeczenia o niepełnosprawności albo o stopniu niepełnosprawności został złożony w okresie ważności odpowiednio orzeczenia ustalającego niepełnosprawność albo orzeczenia ustalającego stopień niepełnosprawności, to zachowuje ono ważność do dnia wydania kolejnego ostatecznego orzeczenia, nie dłużej jednak niż do ostatniego dnia szóstego miesiąca następującego po dacie określającej tę ważność.
 
 2. (uchylony)
 
@@ -479,28 +487,11 @@ source: pdf
 - **4)** tryb przeprowadzania szkoleń i minima programowe szkoleń dla specjalistów powoływanych do zespołów orzekających oraz sposób wyboru ośrodków szkoleniowych upoważnionych do prowadzenia szkoleń, kierując się koniecznością zapewnienia właściwego poziomu kształcenia, w tym odpowiedniego poziomu wiedzy specjalistycznej;
 - **5)** standardy w zakresie kwalifikowania oraz postępowania dotyczącego orzekania o niepełnosprawności i o stopniu niepełnosprawności, uwzględniając schorzenia naruszające sprawność organizmu i przewidywany okres trwania naruszenia tej sprawności, powodujące zaliczenie do odpowiedniego stopnia niepełnosprawności, a także oznaczenie symboli przyczyn niepełnosprawności;
 - **6)** wzory i terminy składania informacji, o których mowa w ust. 7 i art. 6a ust. 1, uwzględniając elementy informacji o realizacji zadań, przyjętych wnioskach, wydanych orzeczeniach i wydanych legitymacjach, wydatkach oraz elementy zestawień zbiorczych;
-- **7)** wzory legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności oraz organy uprawnione do ich wystawiania, mając na względzie zachowanie jednolitości dokumentu potwierdzającego podstawę do korzystania z ulg i uprawnień. [Art. 6ca. 1. Powiatowy zespół, na wniosek osoby niepełnosprawnej lub jej przedstawiciela ustawowego, wystawia legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności. Osoba niepełnosprawna, składając wniosek, przedstawia do wglądu prawomocne orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
+- **7)** wzory legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności oraz organy uprawnione do ich wystawiania, mając na względzie zachowanie jednolitości dokumentu potwierdzającego podstawę do korzystania z ulg i uprawnień.
 
-1a. Wniosek o wystawienie legitymacji lub jej duplikatu zawiera dane osobowe osoby ubiegającej się o wydanie legitymacji lub jej duplikatu lub dane przedstawiciela ustawowego tej osoby obejmujące:
+**Art. 6ca.**
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** płeć;
-- **4)** numer PESEL;
-- **5)** adres miejsca zamieszkania, jeżeli jest inny niż adres miejsca zameldowania;
-- **6)** dane kontaktowe;
-- **7)** dane o dokumencie tożsamości.
-
-2. Legitymacje wystawia się na okres ważności orzeczenia o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
-
-3. Okres ważności legitymacji nie może być dłuższy niż:
-
-- **1)** 5 lat – w przypadku legitymacji dokumentujących niepełnosprawność;
-- **2)** 10 lat – w przypadku legitymacji dokumentujących stopień niepełnosprawności wystawionych osobom, które nie ukończyły 60. roku życia.
-
-4. W przypadku gdy osoba niepełnosprawna posiada więcej niż jedno orzeczenie o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień, legitymację dokumentującą niepełnosprawność albo legitymację dokumentującą stopień niepełnosprawności wystawia się na podstawie ostatniego orzeczenia.
-
-5. Minister właściwy do spraw zabezpieczenia społecznego może określić wzór wniosku o wydanie legitymacji dokumentującej niepełnosprawność albo stopień niepełnosprawności lub ich duplikatu i udostępnić te wzory w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.] <Art. 6ca. 1. Powiatowy zespół wydaje legitymację dokumentującą niepełnosprawność albo dokumentującą stopień niepełnosprawności na podstawie prawomocnego orzeczenia o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
+1. Powiatowy zespół wydaje legitymację dokumentującą niepełnosprawność albo dokumentującą stopień niepełnosprawności na podstawie prawomocnego orzeczenia o niepełnosprawności, o stopniu niepełnosprawności lub o wskazaniach do ulg i uprawnień.
 
 2. Legitymacja dokumentująca niepełnosprawność albo stopień niepełnosprawności:
 
@@ -540,7 +531,11 @@ source: pdf
 
 10. Minister właściwy do spraw zabezpieczenia społecznego może określić wzory wniosków o wydanie legitymacji tradycyjnej i udostępnić je w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
 
-11. Do mLegitymacji ON przepisy ust. 6, 7 i 9 stosuje się.> Art. 6cb. 1. Minister właściwy do spraw zabezpieczenia społecznego zapewnia:
+11. Do mLegitymacji ON przepisy ust. 6, 7 i 9 stosuje się.
+
+**Art. 6cb.**
+
+1. Minister właściwy do spraw zabezpieczenia społecznego zapewnia:
 
 - **1)** produkcję blankietów legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności oraz ich personalizację i dystrybucję;
 - **2)** system teleinformatyczny, za pomocą którego są wykonywane czynności związane z wystawianiem legitymacji dokumentujących niepełnosprawność lub stopień niepełnosprawności.
@@ -549,7 +544,11 @@ source: pdf
 
 3. Minister właściwy do spraw zabezpieczenia społecznego może dokonać wyboru podmiotu odpowiedzialnego za wykonanie zadania, o którym mowa w ust. 1 pkt 2.
 
-4. Wydatki związane z wystawianiem legitymacji, produkcją blankietów, ich personalizacją i dystrybucją pokrywane są z budżetu państwa. [Art. 6cc. Za wydanie duplikatu legitymacji, o której mowa w art. 6ca, pobiera się opłatę w wysokości 15 zł. Opłata stanowi dochód budżetu państwa.] <Art. 6cc. 1. Osoba, której wydano legitymację tradycyjną, może wystąpić o wydanie duplikatu legitymacji tradycyjnej w przypadku:
+4. Wydatki związane z wystawianiem legitymacji, produkcją blankietów, ich personalizacją i dystrybucją pokrywane są z budżetu państwa.
+
+**Art. 6cc.**
+
+1. Osoba, której wydano legitymację tradycyjną, może wystąpić o wydanie duplikatu legitymacji tradycyjnej w przypadku:
 
 - **1)** utraty legitymacji tradycyjnej;
 - **2)** zniszczenia legitymacji tradycyjnej, w tym jej uszkodzenia lub złego stanu.
@@ -570,7 +569,7 @@ source: pdf
 
 6. Zwracana legitymacja tradycyjna jest anulowana przez jej uszkodzenie.
 
-7. Anulowaną legitymację tradycyjną zwraca się osobie niepełnosprawnej.>
+7. Anulowaną legitymację tradycyjną zwraca się osobie niepełnosprawnej.
 
 **Art. 6d.**
 
@@ -742,7 +741,11 @@ source: pdf
     - **b)** okresowy brak możliwości podjęcia zatrudnienia,
     - **c)** okresowy brak możliwości skierowania osoby niepełnosprawnej do ośrodka wsparcia, o którym mowa w pkt 2.
 
-6. Rada programowa dokonuje pierwszej kompleksowej oceny realizacji indywidualnego programu rehabilitacji uczestnika warsztatu i zajmuje stanowisko w zakresie, o którym mowa w ust. 5, nie wcześniej niż przed upływem 3 miesięcy i nie później niż po upływie 6 miesięcy od dnia rozpoczęcia terapii w warsztacie. Art. 10aa. 1. W warsztacie może działać rada społeczna, w skład której wchodzą przedstawiciele:
+6. Rada programowa dokonuje pierwszej kompleksowej oceny realizacji indywidualnego programu rehabilitacji uczestnika warsztatu i zajmuje stanowisko w zakresie, o którym mowa w ust. 5, nie wcześniej niż przed upływem 3 miesięcy i nie później niż po upływie 6 miesięcy od dnia rozpoczęcia terapii w warsztacie.
+
+**Art. 10aa.**
+
+1. W warsztacie może działać rada społeczna, w skład której wchodzą przedstawiciele:
 
 - **1)** samorządu powiatowego;
 - **2)** pracodawców;

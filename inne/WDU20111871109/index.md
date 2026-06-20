@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
+# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
 
 *USTAWA z dnia 28 lipca 2011 r.*
 

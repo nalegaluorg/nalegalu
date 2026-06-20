@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przeciwpożarowej
+# Ustawa z dnia 27 lutego 2003 r. o zmianie ustawy o ochronie przeciwpożarowej
 
 *USTAWA z dnia 27 lutego 2003 r.*
 

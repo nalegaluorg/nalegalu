@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary.
 
 *USTAWA z dnia 28 października 2002 r.*
 
@@ -300,7 +300,9 @@ source: pdf
 
 **Art. 42.** Do wykonania orzeczonej kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące wykonania grzywny, przepadku, zakazów oraz podania wyroku do publicznej wiadomości, przy czym kara pieniężna jest płatna z przychodu podmiotu zbiorowego.
 
-**Art. 43.** Zatarcie orzeczenia stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary następuje z mocy prawa z upływem 10 lat od wykonania lub darowania albo przedawnienia wykonania kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości. Art. 44–46. (pominięte)
+**Art. 43.** Zatarcie orzeczenia stwierdzającego odpowiedzialność podmiotu zbiorowego za czyn zabroniony pod groźbą kary następuje z mocy prawa z upływem 10 lat od wykonania lub darowania albo przedawnienia wykonania kary pieniężnej, przepadku, zakazów oraz podania wyroku do publicznej wiadomości.
+
+**Art. 44–46.** (pominięte)
 
 **Art. 47.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne.
 

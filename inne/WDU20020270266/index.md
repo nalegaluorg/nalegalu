@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora.
 
 *USTAWA z dnia 15 lutego 2002 r.*
 

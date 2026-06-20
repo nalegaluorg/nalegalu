@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawy o dochodach jednostek samorządu terytorialnego
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawy o dochodach jednostek samorządu terytorialnego
 
 *USTAWA z dnia 14 października 2021 r.*
 

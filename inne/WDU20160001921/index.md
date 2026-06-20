@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 6 października 2016 r. o zmianie ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 6 października 2016 r.*
 

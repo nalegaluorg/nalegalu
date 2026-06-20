@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie napojów spirytusowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobie napojów spirytusowych
 
 | Pole | Wartość |
 |---|---|

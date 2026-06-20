@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
+# Ustawa z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
 
 *USTAWA z dnia 24 sierpnia 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-09-14 |
 | Ostatnia zmiana | 2024-11-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071651170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.pdf) |
-
-Art. 38–42. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -65,7 +63,7 @@ Art. 38–42. (pominięte)
 - **26)** użytkowniku końcowym – rozumie się przez to osobę fizyczną upoważnioną do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) za pośrednictwem systemu teleinformatycznego użytkownika instytucjonalnego;
 - **27)** aplikacji WWW SIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych SIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI;
 - **28)** aplikacji WWW VIS – rozumie się przez to graficzny interfejs użytkownika Krajowego Systemu Informatycznego (KSI), stanowiący informatyczne narzędzie dostępowe do danych VIS udostępnione użytkownikowi indywidualnemu przez centralny organ techniczny KSI; <29) danych EES – rozumie się przez to dane, o których mowa w art. 3 ust. 1 pkt 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/2226”;
-- **30)** systemie EES – rozumie się przez to System Wjazdu/Wyjazdu (EES), o którym mowa w art. 7 rozporządzenia 2017/2226.>
+- **30)** systemie EES – rozumie się przez to System Wjazdu/Wyjazdu (EES), o którym mowa w art. 7 rozporządzenia 2017/2226.
 
 #### Rozdział 2 Organy i służby uprawnione do przetwarzania danych
 
@@ -249,9 +247,12 @@ Art. 38–42. (pominięte)
 - **6)** zidentyfikowania osoby, która nie spełnia lub przestała spełniać warunki wjazdu lub pobytu na terytorium państw członkowskich, przysługuje Straży Granicznej, Policji, Służbie Celno-Skarbowej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
 - **7)** określania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej zgodnie z art. 12 i art. 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 604/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013) przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
 - **8)** rozpatrzenia wniosku o udzielenie ochrony międzynarodowej przysługuje Szefowi Urzędu do Spraw Cudzoziemców lub Radzie do Spraw Uchodźców;
-- **9)** realizacji obowiązku, o którym mowa w art. 25 ust. 2 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS), przysługuje konsulowi lub wojewodzie. <Art. 6a. W związku z ustanowieniem interoperacyjności między systemem EES i Wizowym Systemem Informacyjnym, o której mowa w art. 8 rozporządzenia 2017/2226 oraz w art. 17a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS):
+- **9)** realizacji obowiązku, o którym mowa w art. 25 ust. 2 rozporządzenia (WE) nr 767/2008 Parlamentu Europejskiego i Rady z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany danych pomiędzy państwami członkowskimi na temat wiz krótkoterminowych (rozporządzenie w sprawie VIS), przysługuje konsulowi lub wojewodzie.
+
+**Art. 6a.** W związku z ustanowieniem interoperacyjności między systemem EES i Wizowym Systemem Informacyjnym, o której mowa w art. 8 rozporządzenia 2017/2226 oraz w art. 17a rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS):
+
 - **1)** organy, o których mowa w art. 5 ust. 1, mogą dokonać wglądu do danych EES z poziomu VIS w celach, o których mowa w art. 17a ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS);
-- **2)** Straż Graniczna może dokonać wglądu do danych VIS z poziomu EES w celach, o których mowa w art. 17a ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS).>
+- **2)** Straż Graniczna może dokonać wglądu do danych VIS z poziomu EES w celach, o których mowa w art. 17a ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008 z dnia 9 lipca 2008 r. w sprawie Wizowego Systemu Informacyjnego (VIS) oraz wymiany informacji pomiędzy państwami członkowskimi na temat wiz krótkoterminowych, wiz długoterminowych i dokumentów pobytowych (rozporządzenie w sprawie VIS).
 
 **Art. 7.**
 
@@ -489,6 +490,8 @@ Art. 38–42. (pominięte)
 2. Obowiązek, o którym mowa w ust. 1, dotyczy w szczególności bezzwłocznego przekazywania do biura SIRENE, w związku z dokonaniem poprzez Krajowy System Informatyczny (KSI) wpisu danych SIS, kopii decyzji będących podstawą wpisu danych SIS do celów odmowy wjazdu dotyczących cudzoziemców będących członkami rodzin obywateli UE w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547), a także przekazywania odpowiednio wszystkich istotnych informacji w odniesieniu do wpisów dokonywanych zgodnie z art. 3 ust. 1 od momentu utworzenia wpisu zgodnie z zakresem określonym w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4 rozporządzenia 2018/1862.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 38–42.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

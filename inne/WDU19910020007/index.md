@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego
+# Ustawa z dnia 20 grudnia 1990 r. o uchyleniu ustawy o jednostkach innowacyjno-wdrożeniowych.
 
 *USTAWA z dnia 25 października 1990 r.*
 

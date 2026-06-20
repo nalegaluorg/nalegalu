@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie województwa
+# Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa.
 
 *USTAWA z dnia 5 czerwca 1998 r.*
 
@@ -232,7 +232,9 @@ source: pdf
 
 13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym mowa w ust. 11.
 
-14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski. <Art. 10d. Województwo planuje, koordynuje, monitoruje i ewaluuje działania na rzecz rozwoju umiejętności mieszkańców województwa i promowania idei uczenia się przez całe życie, w tym kształcenia i szkolenia zawodowego. Realizacja tych zadań jest wspierana przez wojewódzki zespół koordynacji do spraw polityki umiejętności, o którym mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).>
+14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski.
+
+**Art. 10d.** Województwo planuje, koordynuje, monitoruje i ewaluuje działania na rzecz rozwoju umiejętności mieszkańców województwa i promowania idei uczenia się przez całe życie, w tym kształcenia i szkolenia zawodowego. Realizacja tych zadań jest wspierana przez wojewódzki zespół koordynacji do spraw polityki umiejętności, o którym mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).
 
 #### Rozdział 2 Zakres działalności
 

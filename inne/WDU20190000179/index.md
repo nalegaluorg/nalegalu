@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Czerwonym Krzyżu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 stycznia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Czerwonym Krzyżu
 
 | Pole | Wartość |
 |---|---|

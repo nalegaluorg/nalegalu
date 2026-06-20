@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
+# Ustawa z dnia 10 stycznia 2014 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 stycznia 2014 r.*
 
@@ -157,8 +157,7 @@ source: pdf
 - **6)** izby gospodarcze reprezentujące przedsiębiorców wykonujących działalność gospodarczą w zakresie gospodarki elektronicznej, komunikacji, mediów, wytwarzania sprzętu informatycznego, oprogramowania lub świadczenia usług informatycznych;
 - **7)** stowarzyszenia wpisane do Krajowego Rejestru Sądowego, których celem statutowym jest reprezentowanie środowiska informatycznego lub wspieranie zastosowań informatyki, gospodarki elektronicznej, komunikacji lub mediów.”;
 - **11)** w art. 19a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw informatyzacji zamieszcza na ePUAP informację o adresach elektronicznych skrzynek podawczych udostępnionych przez podmioty publiczne.”;
-- **12)** w art. 19b ust. 2 i 3 otrzymują brzmienie: „2. W centralnym repozytorium umieszcza się, przechowuje i udostępnia wzory dokumentów, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz.
-- **1016)** .
+- **12)** w art. 19b ust. 2 i 3 otrzymują brzmienie: „2. W centralnym repozytorium umieszcza się, przechowuje i udostępnia wzory dokumentów, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2011 r. Nr 123, poz. 698 i Nr 171, poz. 1016).
 
 3. Organy administracji publicznej przekazują do centralnego repozytorium oraz udostępniają w Biuletynie Informacji Publicznej wzory dokumentów elektronicznych. Przy sporządzaniu wzorów dokumentów elektronicznych stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, z uwzględnieniem konieczności podpisywania ich bezpiecznym podpisem elektronicznym.”;
 

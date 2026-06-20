@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji rynku rybnego
+# Ustawa z dnia 5 grudnia 2008 r. o organizacji rynku rybnego
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-02-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110340168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/168/text.pdf) |
-
-Art. 46–47a. (uchylone)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -548,6 +546,8 @@ Art. 46–47a. (uchylone)
 
 #### Rozdział 7 Pomoc finansowa na rynku rybnym
 
+**Art. 46–47a.** (uchylone)
+
 **Art. 48.**
 
 1. Minister właściwy do spraw rybołówstwa przekazuje Prezesowi Agencji Modernizacji i Restrukturyzacji Rolnictwa informacje o:
@@ -559,13 +559,17 @@ Art. 46–47a. (uchylone)
 - **5)** każdej zmianie planu produkcji i obrotu, o której mowa w art. 29 pkt 3, wraz z kopią ostatecznej decyzji o zatwierdzeniu zmian planu produkcji i obrotu oraz kopią zmienionego planu produkcji i obrotu – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna;
 - **6)** wydaniu decyzji w sprawie zatwierdzenia sprawozdania rocznego wraz z kopią ostatecznej decyzji o zatwierdzeniu oraz kopią tego sprawozdania – w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna.
 
-2. (uchylony) Art. 49–55. (uchylone)
+2. (uchylony)
+
+**Art. 49–55.** (uchylone)
 
 **Art. 55a.**
 
 1. W terminie do dnia 15 grudnia każdego roku organizacje producentów sektora rybołówstwa mogą składać do ministra właściwego do spraw rybołówstwa propozycje cen progowych dla mechanizmu składowania, o których mowa w art. 31 ust. 1 rozporządzenia nr 1379/2013.
 
-2. Minister właściwy do spraw rybołówstwa określa ceny progowe dla mechanizmu składowania zgodnie z art. 31 ust. 2 i 3 rozporządzenia nr 1379/2013 i podaje je do publicznej wiadomości, w formie określonej w załączniku IV do rozporządzenia nr 1419/2013, na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa. Art. 56–59. (uchylone)
+2. Minister właściwy do spraw rybołówstwa określa ceny progowe dla mechanizmu składowania zgodnie z art. 31 ust. 2 i 3 rozporządzenia nr 1379/2013 i podaje je do publicznej wiadomości, w formie określonej w załączniku IV do rozporządzenia nr 1419/2013, na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa.
+
+**Art. 56–59.** (uchylone)
 
 #### Rozdział 8 Nadzór, kontrola i monitorowanie obrotu niektórymi gatunkami ryb
 

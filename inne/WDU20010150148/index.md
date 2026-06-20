@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o listach zastawnych i bankach hipotecznych
+# Ustawa z dnia 18 stycznia 2001 r. o zmianie ustawy o listach zastawnych i bankach hipotecznych.
 
 *USTAWA z dnia 18 stycznia 2001 r.*
 

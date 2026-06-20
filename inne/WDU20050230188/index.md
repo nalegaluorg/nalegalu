@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 7 stycznia 2005 r.*
 

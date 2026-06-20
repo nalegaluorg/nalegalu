@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centralnym Porcie Komunikacyjnym
+# Ustawa z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -26,114 +26,6 @@ source: pdf
 | Data wydania | 2018-06-06 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1089/text.pdf) |
-
-Art. 120ze. 1. W przypadku gdy z planu generalnego lotniska wynika etapowy charakter budowy Inwestycji, w odniesieniu do zakresu Inwestycji, który nie został objęty wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach lub wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji CPK, wojewoda, na wniosek Pełnomocnika, przyjmuje w drodze zarządzenia plan miejscowy Centralnego Portu Komunikacyjnego, zwany dalej „planem miejscowym CPK”.
-2. Do planu miejscowego CPK przepisy odrębne o miejscowych planach zagospodarowania przestrzennego stosuje się odpowiednio, o ile przepisy niniejszego działu nie stanowią inaczej.
-3. Ilekroć w przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego albo planie zagospodarowania przestrzennego, należy przez to rozumieć także plan miejscowy CPK.
-4. Plan miejscowy CPK przyjmuje się zgodnie z ustaleniami planu generalnego lotniska oraz można przyjąć niezależnie od ustaleń planu zagospodarowania przestrzennego województwa, planu ogólnego gminy oraz innych miejscowych planów zagospodarowania przestrzennego. Spółka Celowa obowiązana jest do poniesienia kosztów zmiany planu zagospodarowania przestrzennego województwa oraz planu ogólnego gminy w celu uzyskania spójności z ustaleniami planu miejscowego CPK.
-5. Uzgodnienia i zgody, o których mowa w art. 17 pkt 6 lit. b i c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zastępuje się opiniami.
-6. Od dnia wydania zarządzenia wojewody o przystąpieniu do sporządzania planu miejscowego CPK do obszaru nim objętego przepis art. 62 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio.
-7. Plan miejscowy CPK może określać sposób i okres tymczasowego zagospodarowania terenu do czasu realizacji inwestycji lotniskowej, zawierając w tym zakresie ustalenia dotyczące przeznaczenia i sposobu zagospodarowania terenu.
-8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym CPK. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–37 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego CPK.
-9. W okresie objęcia nieruchomości ustaleniami planu miejscowego CPK przepisu art. 137 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Roszczenie, o którym mowa w art. 136 ust. 3 tej ustawy, powstaje z dniem utraty mocy obowiązującej planu miejscowego CPK w odniesieniu do nieruchomości.
-10. Wojewoda co 5 lat dokonuje analizy aktualności planu miejscowego CPK, w szczególności z ustaleniami planu generalnego lotniska, stwierdzając, w drodze zarządzenia, aktualność albo wszczynając postępowanie w przedmiocie zmiany bądź uchylenia planu miejscowego CPK.
-Art. 120zf. 1. Przepisy niniejszego działu stosuje się do zarządzania rozwojem obszaru otoczenia CPK.
-2. Obszar otoczenia CPK stanowi obszar funkcjonalny oraz obszar strategicznej interwencji w rozumieniu art. 5 pkt 6a i 6b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-3. Minister właściwy do spraw transportu wyznacza, w drodze rozporządzenia, obszar otoczenia CPK, uwzględniając:
-1) potrzebę zapewnienia sprawnej realizacji Przedsięwzięć w otoczeniu CPK i zapewnienia ich sprawnego funkcjonowania;
-2) konieczność wyznaczenia obszaru w sposób zwarty i ograniczony do obszaru występowania obecnych lub prognozowanych powiązań funkcjonalnych Przedsięwzięcia.
-4. Przed wydaniem rozporządzenia minister właściwy do spraw transportu występuje do organów wykonawczych jednostek samorządu terytorialnego znajdujących się w przewidywanych granicach obszaru otoczenia CPK o wydanie opinii w zakresie projektu rozporządzenia.
-5. Opinię, o której mowa w ust. 4, organy wykonawcze jednostek samorządu terytorialnego wydają w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do projektu rozporządzenia.
-Art. 120zg. Rozwój obszaru otoczenia CPK kształtuje się w sposób zapewniający:
-1) zrównoważony rozwój i ład przestrzenny;
-2) optymalne funkcjonowanie Inwestycji oraz Inwestycji Towarzyszących;
-3) powstawanie i rozwój zwartych struktur przestrzennych ograniczających transportochłonność i energochłonność, w tym przez przeciwdziałanie niekontrolowanemu rozlewaniu się zabudowy i optymalizację stanu wyposażenia zabudowy w infrastrukturę techniczną;
-4) zapewnienie warunków do powstawania wysokiej jakości struktur przestrzennych, w tym osadniczych, w szczególności nowych miast albo części miast;
-5) spójność przestrzenną, w tym przez ograniczanie negatywnych skutków izolacji przestrzennej obszarów, powstałej w wyniku realizacji inwestycji liniowych;
-6) ochronę środowiska, w tym form ochrony przyrody, wód oraz krajobrazu, poprawę lub co najmniej niepogorszenie parametrów środowiska, w tym różnorodności biologicznej, korytarzy ekologicznych, ciągów przewietrzających, wartości krajobrazowych oraz błękitno-zielonej infrastruktury;
-7) mitygację i adaptację do zmian klimatu, w tym negatywnych zjawisk klimatycznych, w szczególności suszy oraz powodzi;
-8) ochronę krajobrazów kulturowych, zabytków i dóbr kultury współczesnej;
-9) ograniczenie niekorzystnych oddziaływań Inwestycji, Inwestycji Towarzyszących oraz obszarów prowadzenia intensywnej działalności gospodarczej;
-10) potrzeby obronności i bezpieczeństwa państwa;
-11) poszanowanie uzasadnionych interesów właścicieli nieruchomości, wynikających z przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego lub z ostatecznego rozstrzygnięcia organu administracji publicznej zezwalającego na wykonywanie robót budowlanych.
-Art. 120zh. 1. Organy administracji rządowej i samorządowej, państwowe i samorządowe osoby prawne oraz Pełnomocnik współpracują w celu zapewnienia optymalnych warunków trwałego i zrównoważonego rozwoju oraz spójności społeczno-gospodarczej, regionalnej i przestrzennej obszaru otoczenia CPK.
-2. Na potrzeby współpracy, o której mowa w ust. 1, minister właściwy do spraw rozwoju regionalnego, Pełnomocnik oraz jednostki samorządu terytorialnego z obszaru otoczenia CPK zawierają porozumienie terytorialne, o którym mowa w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. Porozumienie terytorialne określa przedsięwzięcia priorytetowe dla rozwoju obszaru zgodne z celami wynikającymi z krajowej strategii rozwoju regionalnego, w tym przewidywane źródła ich finansowania.
-3. Do porozumienia, o którym mowa w ust. 2, mogą przystąpić również związki, porozumienia oraz stowarzyszenia jednostek samorządu terytorialnego.
-Art. 120zi. 1. Dla obszaru otoczenia CPK, w celu realizacji zasad określonych w art. 120zg, przyjmuje się strategię rozwoju, zwaną dalej „strategią”.
-2. Strategia określa w szczególności:
-1) cele strategiczne rozwoju w wymiarze społecznym, gospodarczym i przestrzennym;
-2) kierunki działań podejmowanych dla osiągnięcia celów strategicznych;
-3) oczekiwane rezultaty planowanych działań, w tym w wymiarze przestrzennym, oraz wskaźniki ich osiągnięcia;
-4) ustalenia w wymiarze przestrzennym, w tym model struktury funkcjonalnoprzestrzennej obszaru, zasady kształtowania i prowadzenia polityki przestrzennej oraz obszary o istotnym znaczeniu dla realizacji ustaleń strategii;
-5) charakterystykę i lokalizację przedsięwzięć priorytetowych;
-6) system realizacji strategii, w tym wytyczne do sporządzania dokumentów wykonawczych;
-7) ramy finansowe i źródła finansowania, wraz ze wskazaniem perspektywy czasowej, której dotyczą, nie krótszej niż 10 lat, oraz kosztami realizacji i utrzymania inwestycji o charakterze budowlanym, nasadzeń i zalesień;
-8) zakres ustaleń podlegających uwzględnieniu w dokumentach strategicznych i planistycznych jednostek samorządu terytorialnego.
-3. Ustalenia w wymiarze przestrzennym sporządza się w formie opracowania planistycznego, stanowiącego integralną część strategii, składającego się z części tekstowej i graficznej. Część graficzną sporządza się w szczególności w formie kartograficznej, w skali zapewniającej czytelność przyjętych rozwiązań, a dla obszarów o istotnym znaczeniu dla realizacji ustaleń strategii – w skali nie mniejszej niż 1:25 000.
-Art. 120zj. Strategia jest spójna ze średniookresową strategią rozwoju oraz krajową strategią rozwoju regionalnego.
-Art. 120zk. 1. Strategię przyjmuje Rada Ministrów w drodze uchwały.
-2. Projekt strategii opracowuje Pełnomocnik we współpracy z jednostkami samorządu terytorialnego. Jednostki samorządu terytorialnego przedstawiają opinię wobec projektu strategii skierowanego do rozpatrzenia przez Radę Ministrów, w terminie 60 dni od dnia przekazania projektu strategii przez Pełnomocnika.
-3. Projekt strategii podlega konsultacjom, w szczególności z sąsiednimi gminami i ich związkami, partnerami społecznymi i gospodarczymi, Komisją Wspólną Rządu i Samorządu Terytorialnego oraz właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
-4. Pełnomocnik ogłasza na stronie internetowej ministra właściwego do spraw transportu, stronie internetowej Spółki Celowej oraz może ogłaszać w prasie odpowiednio o zasięgu regionalnym lub lokalnym informację o konsultacjach, terminie i sposobie przekazywania uwag do projektu strategii oraz terminie i miejscu spotkań konsultacyjnych. Ogłoszenie w prasie zawiera dodatkowo informację o adresie strony internetowej, na której zamieszczono projekt strategii.
-5. Opinię o projekcie strategii przekazuje się Pełnomocnikowi w sposób określony w ogłoszeniu, w terminie określonym przez ten podmiot, nie krótszym niż 35 dni od dnia ogłoszenia na stronie internetowej informacji, o której mowa w ust. 4.
-Nieprzekazanie opinii w terminie oznacza rezygnację z jej przedstawienia.
-6. Pełnomocnik przygotowuje sprawozdanie z przebiegu i wyników konsultacji, zawierające w szczególności ustosunkowanie się do zgłoszonych uwag wraz z uzasadnieniem, i zamieszcza je na swojej stronie internetowej.
-7. Do projektu strategii stosuje się przepisy działu IV ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-8. Uchwalenie strategii może być poprzedzone przyjęciem przez Radę Ministrów jej założeń.
-9. Strategia podlega publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-Art. 120zl. 1. Z dniem uchwalenia strategii:
-1) strategia rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy, niezgodne z ustaleniami strategii, w celu zachowania spójności tej zgodności, podlegają obowiązkowi aktualizacji zgodnie z ustaleniami strategii, w terminie 24 miesięcy od dnia jej uchwalenia;
-2) strategię rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy oraz miejscowy plan zagospodarowania przestrzennego uchwala się zgodnie z ustaleniami strategii;
-3) zgodnie z ustaleniami strategii wydaje się decyzje zezwalające na lokalizację lub realizację inwestycji na podstawie:
-a) ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
-b) ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej,
-c) ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
-d) ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
-e) ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
-f) ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
-g) ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
-h) ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, [i) ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,]
-j) ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
-k) ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
-4) w odniesieniu do obszarów o istotnym znaczeniu dla realizacji ustaleń strategii określenie, w drodze decyzji, warunków zabudowy i zagospodarowania terenu następuje po uzgodnieniu ze Spółką Celową, na zasadach określonych w przepisach o planowaniu i zagospodarowaniu przestrzennym, pod względem zgodności zamierzenia inwestycyjnego ze strategią; Spółka Celowa, uzgadniając projekt decyzji, uwzględnia wpływ zmiany sposobu zagospodarowania terenu objętego projektem decyzji na realizację zasad rozwoju obszaru otoczenia CPK, wskazanych w art. 120zg i określonych w strategii obszaru otoczenia CPK.
-2. Przepis ust. 1 pkt 4 stosuje się odpowiednio do uchwały w przedmiocie ustalenia lokalizacji inwestycji mieszkaniowej oraz decyzji w sprawie pozwolenia na budowę. W takim przypadku termin uzgodnienia projektu uchwały albo decyzji wynosi 30 dni od dnia jej przedłożenia przez właściwy organ.
-Art. 120zm. Pełnomocnik koordynuje monitoring oraz ewaluację realizacji strategii.
-Art. 120zn. 1. W zakresie nieuregulowanym niniejszym działem do zarządzania rozwojem obszaru otoczenia CPK stosuje się przepisy ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
-2. Do zmiany strategii stosuje się odpowiednio przepisy niniejszego działu.
-Art. 120zo. 1. Przepisy niniejszego działu stosuje się do realizacji projektów zorganizowanej relokacji miejscowości albo ich części w związku z nabywaniem nieruchomości na cele realizacji zadań określonych w ustawie, zwanych dalej „projektami relokacji”.
-2. Ilekroć w niniejszym dziale jest mowa o planie miejscowym projektu relokacji, należy przez to rozumieć miejscowy plan zagospodarowania przestrzennego dla projektu relokacji.
-3. Do planu miejscowego projektu relokacji, w zakresie nieuregulowanym w niniejszym dziale, stosuje się przepisy dotyczące miejscowych planów zagospodarowania przestrzennego.
-Art. 120zp. 1. Spółka Celowa jest obowiązana do prowadzenia dialogu z właścicielami nieruchomości oraz jednostkami samorządu terytorialnego w celu identyfikacji zasadności oraz warunków realizacji projektów relokacji.
-2. Projekt relokacji obejmuje w szczególności działania w zakresie:
-1) identyfikacji potrzeb właścicieli nieruchomości oraz innych osób, dla których nabycie nieruchomości skutkuje koniecznością zmiany miejsca zamieszkania lub prowadzenia działalności gospodarczej, w tym gospodarstwa rolnego;
-2) identyfikacji potrzeb jednostek samorządu terytorialnego związanych z koniecznością odtworzenia składników majątkowych służących realizacji zadań publicznych;
-3) sporządzenia i konsultacji dokumentów planistycznych, w szczególności koncepcji urbanistycznych oraz projektów miejscowych planów zagospodarowania przestrzennego;
-4) nabywania i zamiany nieruchomości;
-5) tworzenia korzystnej struktury gruntowej terenu, w szczególności przez podział nieruchomości, scalenie i podział nieruchomości lub scalenie i wymianę gruntów;
-6) w razie potrzeby – budowy lub przebudowy obiektów budowlanych;
-7) utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli i dzierżawców nieruchomości rolnych, w szczególności przez programowanie prac urządzeniowo-rolnych, celem ich realizacji w trybie przepisów o scalaniu i wymianie gruntów.
-Art. 120zq. 1. Spółka Celowa może zawierać z jednostkami samorządu terytorialnego porozumienia określające warunki i tryb prowadzenia projektów relokacji.
-2. Porozumienie może obejmować w szczególności:
-1) zasady i tryb odtworzenia składników majątkowych służących realizacji zadań publicznych, w tym dofinansowania realizacji zadań własnych jednostki samorządu terytorialnego;
-2) zasady udziału Spółki Celowej w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji, w tym sporządzenia projektu tego planu wraz z prognozą oddziaływania na środowisko lub innymi opracowaniami oraz wykonywania czynności w postępowaniu, w szczególności prowadzenia konsultacji społecznych;
-3) zasady pokrywania kosztów postępowania w przedmiocie uchwalenia planu miejscowego projektu relokacji lub uchwalenia albo zmiany planu ogólnego gminy.
-3. Organy wymienione w art. 120zv ust. 1 są obowiązane do współpracy z gminą oraz Spółką Celową w prowadzeniu procesu relokacji. Współpraca obejmuje w szczególności przedstawianie opinii oraz przekazywanie informacji niezbędnych do określenia warunków relokacji, w tym sporządzenia projektu planu miejscowego projektu relokacji.
-Art. 120zr. W przypadku gdy w ramach projektu relokacji utworzone zostają lokale wchodzące w skład mieszkaniowego zasobu gminy, porozumienie, o którym mowa w art. 120zq ust. 1, może określać zasady wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu. Przepisów uchwały wydanej na podstawie art. 21 ust. 1 pkt 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) w zakresie kryteriów wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu na czas nieoznaczony i umowy najmu socjalnego lokalu, nie stosuje się.
-Art. 120zs. [1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, oraz do zapewnienia inwestycji towarzyszącej, o której mowa w ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, a także obszarów przestrzeni publicznej i cmentarzy, związanych z projektem relokacji.] <1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz obszary zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, a także obszary przestrzeni publicznej i cmentarzy, związane z projektem relokacji.>
-2. Plan miejscowy projektu relokacji uchwala się na wniosek Spółki Celowej zawierający projekt planu miejscowego projektu relokacji, zgodnie z ustaleniami strategii rozwoju obszaru otoczenia CPK, jeżeli została przyjęta, oraz można uchwalić niezależnie od ustaleń planu ogólnego gminy.
-3. (uchylony)
-4. (uchylony)
-5. (uchylony)
-Art. 120zt. Plan miejscowy projektu relokacji sporządza i uchwala się z zastosowaniem postępowania uproszczonego, o którym mowa w art. 27b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
-Art. 120zu. (uchylony)
-Art. 120zv. 1. Wójt występuje o wydanie opinii przez organy i podmioty, o których mowa w art. 17 pkt 6 lit. a i b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, oraz przez:
-1) ministra właściwego do spraw rolnictwa – w zakresie gruntów rolnych przeznaczanych na cele nierolnicze;
-2) ministra właściwego do spraw środowiska – w zakresie gruntów leśnych przeznaczanych na cele nieleśne.
-2. Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia doręczenia wniosku o wydanie opinii traktuje się jako brak zastrzeżeń do wniosku.
-3. Do wniosku o wydanie opinii, o których mowa w ust. 1, załącza się projekt planu miejscowego projektu relokacji wraz z prognozą oddziaływania na środowisko.
-4. Opinie wydawane w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji zastępują wymagane przepisami prawa rozstrzygnięcia, w szczególności uzgodnienia i decyzje administracyjne.
-Art. 120zw. Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach.
-Art. 121–128. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -475,7 +367,7 @@ Art. 121–128. (pominięte)
 
 4. Rozporządzenie, o którym mowa w ust. 1, obejmuje całe działki ewidencyjne.
 
-5. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się ustalenia rządowych dokumentów strategicznych, Programu oraz Strategicznego Studium Lokalizacyjnego, jeżeli zostały przyjęte, wyznaczając obszar niezbędny do zapewnienia prawidłowego przygotowania Inwestycji oraz zapewnienia optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK w sposób możliwie zwarty. [6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, odpowiednio decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, lub uchwały lokalizacyjne, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195), wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.] <6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.> [7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.] <7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.>
+5. Wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia się ustalenia rządowych dokumentów strategicznych, Programu oraz Strategicznego Studium Lokalizacyjnego, jeżeli zostały przyjęte, wyznaczając obszar niezbędny do zapewnienia prawidłowego przygotowania Inwestycji oraz zapewnienia optymalnych warunków rozwoju społeczno-gospodarczego oraz przestrzennego na obszarze otoczenia CPK w sposób możliwie zwarty. [6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4 lub 10, odpowiednio decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, lub uchwały lokalizacyjne, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195), wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych.] <6. W przypadku gdy rozporządzenie, o którym mowa w ust. 1, wprowadza zakaz, o którym mowa w art. 29 ust. 1 pkt 4, decyzje wydane na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, dotyczące nieruchomości lub ich części znajdujących się na obszarze objętym rozporządzeniem, o którym mowa w ust. 1, wygasają z dniem wejścia w życie tego rozporządzenia lub jego zmiany, z wyjątkiem decyzji dotyczących rozbudowy, przebudowy, odbudowy istniejących obiektów liniowych. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz uchwał lokalizacyjnych, o których mowa w art. 7 ust. 1 i art. 20 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.] <7. Przepisu ust. 6 nie stosuje się do decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, na podstawie których przed dniem wejścia w życie przepisów wykonawczych wydanych na podstawie ust. 1 wydano decyzje o pozwoleniu na budowę albo dokonano zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, do których właściwy organ nie wniósł sprzeciwu.>
 
 8. Do stwierdzenia wygaśnięcia decyzji wydanych na podstawie art. 50 i art. 59 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym przepisu art. 162 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
@@ -2451,7 +2343,11 @@ Art. 121–128. (pominięte)
     - **f)** zapewnienia telekomunikacji,
 
 - **5)** odbudowie,
-- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5 %. Art. 120za. 1. Właścicielowi nieruchomości, która w całości lub w części znajduje się w granicach określonego w planie rezerwacji obszaru lokalizacji Inwestycji Towarzyszącej, przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
+- **6)** budowie mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – niezmieniającą kolorystyki obiektu budowlanego oraz – w przypadku budynków – niezwiększającą powierzchni zabudowy o więcej niż 5 %.
+
+**Art. 120za.**
+
+1. Właścicielowi nieruchomości, która w całości lub w części znajduje się w granicach określonego w planie rezerwacji obszaru lokalizacji Inwestycji Towarzyszącej, przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
 
 2. Właścicielowi nieruchomości, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, nie przysługuje roszczenie do wnioskodawcy wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, o wykupienie takiej nieruchomości lub jej części.
 
@@ -2460,19 +2356,214 @@ Art. 121–128. (pominięte)
 - **1)** dotychczasowego przeznaczenia wynikającego z miejscowego planu zagospodarowania przestrzennego – w sytuacji gdy plan rezerwacji dotyczy nieruchomości objętych obowiązującym miejscowym planem zagospodarowania przestrzennego, który na podstawie art. 120m ust. 8 pkt 1 nie może stanowić podstawy do zmiany sposobu zagospodarowania terenu, uzyskania pozwolenia na budowę, dokonania skutecznego zgłoszenia budowlanego, podziału nieruchomości, wydzielania samodzielnych lokali mieszkalnych w budynkach;
 - **2)** wyłącznie faktycznego użytkowania terenu i gruntu oraz dostępu do istniejących w dniu wejścia w życie planu rezerwacji dróg publicznych, sieci wodociągowych, kanalizacyjnych, elektroenergetycznych, gazowych, ciepłowniczych oraz telekomunikacyjnych – w sytuacji gdy dana nieruchomość nie była objęta miejscowym planem zagospodarowania przestrzennego obowiązującym w przeddzień wejścia w życie planu rezerwacji.
 
-4. W odniesieniu do zasad określania wartości nieruchomości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile niniejszy przepis nie stanowi inaczej. Art. 120zb. W przypadku gdy w wyniku wniesienia odwołania od decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, organ wyższego stopnia wyda decyzję, w której uchyli zaskarżoną decyzję w całości albo w części i w tym zakresie orzeknie co do istoty sprawy, przepisy art. 120n–120za dotyczące decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, stosuje się do decyzji wydanej przez organ wyższego stopnia. Art. 120zc. 1. W przypadku realizacji inwestycji innej niż Inwestycja Towarzysząca, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, zapewnienie ochrony przed hałasem związanym z użytkowaniem inwestycji, której dotyczy plan rezerwacji, należy do inwestora tego przedsięwzięcia.
+4. W odniesieniu do zasad określania wartości nieruchomości stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, o ile niniejszy przepis nie stanowi inaczej.
+
+**Art. 120zb.** W przypadku gdy w wyniku wniesienia odwołania od decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, organ wyższego stopnia wyda decyzję, w której uchyli zaskarżoną decyzję w całości albo w części i w tym zakresie orzeknie co do istoty sprawy, przepisy art. 120n–120za dotyczące decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 120m ust. 1, stosuje się do decyzji wydanej przez organ wyższego stopnia.
+
+**Art. 120zc.**
+
+1. W przypadku realizacji inwestycji innej niż Inwestycja Towarzysząca, która w całości lub w części znajduje się w obszarze oddziaływania akustycznego określonego w planie rezerwacji, zapewnienie ochrony przed hałasem związanym z użytkowaniem inwestycji, której dotyczy plan rezerwacji, należy do inwestora tego przedsięwzięcia.
 
 2. Przepis ust. 1 stosuje się również w sytuacji, gdy zapewnienie ochrony przed hałasem wymaga budowy ekranów akustycznych lub realizacji innych robót budowlanych w obrębie pasa drogowego lub linii kolejowej.
 
-3. Szczegółowe warunki prowadzenia robót budowlanych, o których mowa w ust. 2, określa umowa między Inwestorem Inwestycji Towarzyszącej a inwestorem inwestycji niebędącej Inwestycją Towarzyszącą. Art. 120zd. Przepisy art. 120n–120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości.
+3. Szczegółowe warunki prowadzenia robót budowlanych, o których mowa w ust. 2, określa umowa między Inwestorem Inwestycji Towarzyszącej a inwestorem inwestycji niebędącej Inwestycją Towarzyszącą.
+
+**Art. 120zd.** Przepisy art. 120n–120zb dotyczące właściciela nieruchomości stosuje się także do użytkownika wieczystego nieruchomości.
 
 ### DZIAŁ IVA Planowanie przestrzenne obszaru lokalizacji Inwestycji
 
+**Art. 120ze.**
+
+1. W przypadku gdy z planu generalnego lotniska wynika etapowy charakter budowy Inwestycji, w odniesieniu do zakresu Inwestycji, który nie został objęty wnioskiem o wydanie decyzji o środowiskowych uwarunkowaniach lub wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji CPK, wojewoda, na wniosek Pełnomocnika, przyjmuje w drodze zarządzenia plan miejscowy Centralnego Portu Komunikacyjnego, zwany dalej „planem miejscowym CPK”.
+
+2. Do planu miejscowego CPK przepisy odrębne o miejscowych planach zagospodarowania przestrzennego stosuje się odpowiednio, o ile przepisy niniejszego działu nie stanowią inaczej.
+
+3. Ilekroć w przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego albo planie zagospodarowania przestrzennego, należy przez to rozumieć także plan miejscowy CPK.
+
+4. Plan miejscowy CPK przyjmuje się zgodnie z ustaleniami planu generalnego lotniska oraz można przyjąć niezależnie od ustaleń planu zagospodarowania przestrzennego województwa, planu ogólnego gminy oraz innych miejscowych planów zagospodarowania przestrzennego. Spółka Celowa obowiązana jest do poniesienia kosztów zmiany planu zagospodarowania przestrzennego województwa oraz planu ogólnego gminy w celu uzyskania spójności z ustaleniami planu miejscowego CPK.
+
+5. Uzgodnienia i zgody, o których mowa w art. 17 pkt 6 lit. b i c ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, zastępuje się opiniami.
+
+6. Od dnia wydania zarządzenia wojewody o przystąpieniu do sporządzania planu miejscowego CPK do obszaru nim objętego przepis art. 62 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio.
+
+7. Plan miejscowy CPK może określać sposób i okres tymczasowego zagospodarowania terenu do czasu realizacji inwestycji lotniskowej, zawierając w tym zakresie ustalenia dotyczące przeznaczenia i sposobu zagospodarowania terenu.
+
+8. Właścicielowi albo użytkownikowi wieczystemu nieruchomości przysługuje wyłącznie roszczenie do Spółki Celowej o wykupienie nieruchomości lub jej części objętej planem miejscowym CPK. Przepis art. 36 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym stosuje się odpowiednio. W pozostałym zakresie przepisów art. 36–37 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym nie stosuje się. Gmina nie pokrywa kosztów i roszczeń związanych z wejściem w życie tego planu miejscowego CPK.
+
+9. W okresie objęcia nieruchomości ustaleniami planu miejscowego CPK przepisu art. 137 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się. Roszczenie, o którym mowa w art. 136 ust. 3 tej ustawy, powstaje z dniem utraty mocy obowiązującej planu miejscowego CPK w odniesieniu do nieruchomości.
+
+10. Wojewoda co 5 lat dokonuje analizy aktualności planu miejscowego CPK, w szczególności z ustaleniami planu generalnego lotniska, stwierdzając, w drodze zarządzenia, aktualność albo wszczynając postępowanie w przedmiocie zmiany bądź uchylenia planu miejscowego CPK.
+
 ### DZIAŁ IVB Zarządzanie rozwojem obszaru otoczenia Centralnego Portu Komunikacyjnego
+
+**Art. 120zf.**
+
+1. Przepisy niniejszego działu stosuje się do zarządzania rozwojem obszaru otoczenia CPK.
+
+2. Obszar otoczenia CPK stanowi obszar funkcjonalny oraz obszar strategicznej interwencji w rozumieniu art. 5 pkt 6a i 6b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+
+3. Minister właściwy do spraw transportu wyznacza, w drodze rozporządzenia, obszar otoczenia CPK, uwzględniając:
+
+- **1)** potrzebę zapewnienia sprawnej realizacji Przedsięwzięć w otoczeniu CPK i zapewnienia ich sprawnego funkcjonowania;
+- **2)** konieczność wyznaczenia obszaru w sposób zwarty i ograniczony do obszaru występowania obecnych lub prognozowanych powiązań funkcjonalnych Przedsięwzięcia.
+
+4. Przed wydaniem rozporządzenia minister właściwy do spraw transportu występuje do organów wykonawczych jednostek samorządu terytorialnego znajdujących się w przewidywanych granicach obszaru otoczenia CPK o wydanie opinii w zakresie projektu rozporządzenia.
+
+5. Opinię, o której mowa w ust. 4, organy wykonawcze jednostek samorządu terytorialnego wydają w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do projektu rozporządzenia.
+
+**Art. 120zg.** Rozwój obszaru otoczenia CPK kształtuje się w sposób zapewniający:
+
+- **1)** zrównoważony rozwój i ład przestrzenny;
+- **2)** optymalne funkcjonowanie Inwestycji oraz Inwestycji Towarzyszących;
+- **3)** powstawanie i rozwój zwartych struktur przestrzennych ograniczających transportochłonność i energochłonność, w tym przez przeciwdziałanie niekontrolowanemu rozlewaniu się zabudowy i optymalizację stanu wyposażenia zabudowy w infrastrukturę techniczną;
+- **4)** zapewnienie warunków do powstawania wysokiej jakości struktur przestrzennych, w tym osadniczych, w szczególności nowych miast albo części miast;
+- **5)** spójność przestrzenną, w tym przez ograniczanie negatywnych skutków izolacji przestrzennej obszarów, powstałej w wyniku realizacji inwestycji liniowych;
+- **6)** ochronę środowiska, w tym form ochrony przyrody, wód oraz krajobrazu, poprawę lub co najmniej niepogorszenie parametrów środowiska, w tym różnorodności biologicznej, korytarzy ekologicznych, ciągów przewietrzających, wartości krajobrazowych oraz błękitno-zielonej infrastruktury;
+- **7)** mitygację i adaptację do zmian klimatu, w tym negatywnych zjawisk klimatycznych, w szczególności suszy oraz powodzi;
+- **8)** ochronę krajobrazów kulturowych, zabytków i dóbr kultury współczesnej;
+- **9)** ograniczenie niekorzystnych oddziaływań Inwestycji, Inwestycji Towarzyszących oraz obszarów prowadzenia intensywnej działalności gospodarczej;
+- **10)** potrzeby obronności i bezpieczeństwa państwa;
+- **11)** poszanowanie uzasadnionych interesów właścicieli nieruchomości, wynikających z przeznaczenia nieruchomości określonego w miejscowym planie zagospodarowania przestrzennego lub z ostatecznego rozstrzygnięcia organu administracji publicznej zezwalającego na wykonywanie robót budowlanych.
+
+**Art. 120zh.**
+
+1. Organy administracji rządowej i samorządowej, państwowe i samorządowe osoby prawne oraz Pełnomocnik współpracują w celu zapewnienia optymalnych warunków trwałego i zrównoważonego rozwoju oraz spójności społeczno-gospodarczej, regionalnej i przestrzennej obszaru otoczenia CPK.
+
+2. Na potrzeby współpracy, o której mowa w ust. 1, minister właściwy do spraw rozwoju regionalnego, Pełnomocnik oraz jednostki samorządu terytorialnego z obszaru otoczenia CPK zawierają porozumienie terytorialne, o którym mowa w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju. Porozumienie terytorialne określa przedsięwzięcia priorytetowe dla rozwoju obszaru zgodne z celami wynikającymi z krajowej strategii rozwoju regionalnego, w tym przewidywane źródła ich finansowania.
+
+3. Do porozumienia, o którym mowa w ust. 2, mogą przystąpić również związki, porozumienia oraz stowarzyszenia jednostek samorządu terytorialnego.
+
+**Art. 120zi.**
+
+1. Dla obszaru otoczenia CPK, w celu realizacji zasad określonych w art. 120zg, przyjmuje się strategię rozwoju, zwaną dalej „strategią”.
+
+2. Strategia określa w szczególności:
+
+- **1)** cele strategiczne rozwoju w wymiarze społecznym, gospodarczym i przestrzennym;
+- **2)** kierunki działań podejmowanych dla osiągnięcia celów strategicznych;
+- **3)** oczekiwane rezultaty planowanych działań, w tym w wymiarze przestrzennym, oraz wskaźniki ich osiągnięcia;
+- **4)** ustalenia w wymiarze przestrzennym, w tym model struktury funkcjonalnoprzestrzennej obszaru, zasady kształtowania i prowadzenia polityki przestrzennej oraz obszary o istotnym znaczeniu dla realizacji ustaleń strategii;
+- **5)** charakterystykę i lokalizację przedsięwzięć priorytetowych;
+- **6)** system realizacji strategii, w tym wytyczne do sporządzania dokumentów wykonawczych;
+- **7)** ramy finansowe i źródła finansowania, wraz ze wskazaniem perspektywy czasowej, której dotyczą, nie krótszej niż 10 lat, oraz kosztami realizacji i utrzymania inwestycji o charakterze budowlanym, nasadzeń i zalesień;
+- **8)** zakres ustaleń podlegających uwzględnieniu w dokumentach strategicznych i planistycznych jednostek samorządu terytorialnego.
+
+3. Ustalenia w wymiarze przestrzennym sporządza się w formie opracowania planistycznego, stanowiącego integralną część strategii, składającego się z części tekstowej i graficznej. Część graficzną sporządza się w szczególności w formie kartograficznej, w skali zapewniającej czytelność przyjętych rozwiązań, a dla obszarów o istotnym znaczeniu dla realizacji ustaleń strategii – w skali nie mniejszej niż 1:25 000.
+
+**Art. 120zj.** Strategia jest spójna ze średniookresową strategią rozwoju oraz krajową strategią rozwoju regionalnego.
+
+**Art. 120zk.**
+
+1. Strategię przyjmuje Rada Ministrów w drodze uchwały.
+
+2. Projekt strategii opracowuje Pełnomocnik we współpracy z jednostkami samorządu terytorialnego. Jednostki samorządu terytorialnego przedstawiają opinię wobec projektu strategii skierowanego do rozpatrzenia przez Radę Ministrów, w terminie 60 dni od dnia przekazania projektu strategii przez Pełnomocnika.
+
+3. Projekt strategii podlega konsultacjom, w szczególności z sąsiednimi gminami i ich związkami, partnerami społecznymi i gospodarczymi, Komisją Wspólną Rządu i Samorządu Terytorialnego oraz właściwym dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+
+4. Pełnomocnik ogłasza na stronie internetowej ministra właściwego do spraw transportu, stronie internetowej Spółki Celowej oraz może ogłaszać w prasie odpowiednio o zasięgu regionalnym lub lokalnym informację o konsultacjach, terminie i sposobie przekazywania uwag do projektu strategii oraz terminie i miejscu spotkań konsultacyjnych. Ogłoszenie w prasie zawiera dodatkowo informację o adresie strony internetowej, na której zamieszczono projekt strategii.
+
+5. Opinię o projekcie strategii przekazuje się Pełnomocnikowi w sposób określony w ogłoszeniu, w terminie określonym przez ten podmiot, nie krótszym niż 35 dni od dnia ogłoszenia na stronie internetowej informacji, o której mowa w ust. 4. Nieprzekazanie opinii w terminie oznacza rezygnację z jej przedstawienia.
+
+6. Pełnomocnik przygotowuje sprawozdanie z przebiegu i wyników konsultacji, zawierające w szczególności ustosunkowanie się do zgłoszonych uwag wraz z uzasadnieniem, i zamieszcza je na swojej stronie internetowej.
+
+7. Do projektu strategii stosuje się przepisy działu IV ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+8. Uchwalenie strategii może być poprzedzone przyjęciem przez Radę Ministrów jej założeń.
+
+9. Strategia podlega publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+**Art. 120zl.**
+
+1. Z dniem uchwalenia strategii:
+
+- **1)** strategia rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy, niezgodne z ustaleniami strategii, w celu zachowania spójności tej zgodności, podlegają obowiązkowi aktualizacji zgodnie z ustaleniami strategii, w terminie 24 miesięcy od dnia jej uchwalenia;
+- **2)** strategię rozwoju województwa, powiatu oraz gminy, plan zagospodarowania przestrzennego województwa, plan ogólny gminy oraz miejscowy plan zagospodarowania przestrzennego uchwala się zgodnie z ustaleniami strategii;
+- **3)** zgodnie z ustaleniami strategii wydaje się decyzje zezwalające na lokalizację lub realizację inwestycji na podstawie:
+    - **a)** ustawy z dnia 28 marca 2003 r. o transporcie kolejowym i dotyczących lokalizacji linii kolejowej,
+    - **b)** ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych i dotyczących zezwolenia na realizację inwestycji drogowej,
+    - **c)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego,
+    - **d)** ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej,
+    - **e)** ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych i dotyczących lokalizacji regionalnej sieci szerokopasmowej,
+    - **f)** ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych i dotyczących pozwolenia na realizację takich inwestycji,
+    - **g)** ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących i dotyczących lokalizacji inwestycji w zakresie budowy obiektu energetyki jądrowej oraz inwestycji towarzyszącej,
+    - **h)** ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych i dotyczących lokalizacji lub realizacji inwestycji w zakresie strategicznych inwestycji w zakresie sieci przesyłowych, [i) ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,]
+    - **j)** ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym,
+    - **k)** ustawy z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących;
+
+- **4)** w odniesieniu do obszarów o istotnym znaczeniu dla realizacji ustaleń strategii określenie, w drodze decyzji, warunków zabudowy i zagospodarowania terenu następuje po uzgodnieniu ze Spółką Celową, na zasadach określonych w przepisach o planowaniu i zagospodarowaniu przestrzennym, pod względem zgodności zamierzenia inwestycyjnego ze strategią; Spółka Celowa, uzgadniając projekt decyzji, uwzględnia wpływ zmiany sposobu zagospodarowania terenu objętego projektem decyzji na realizację zasad rozwoju obszaru otoczenia CPK, wskazanych w art. 120zg i określonych w strategii obszaru otoczenia CPK.
+
+2. Przepis ust. 1 pkt 4 stosuje się odpowiednio do uchwały w przedmiocie ustalenia lokalizacji inwestycji mieszkaniowej oraz decyzji w sprawie pozwolenia na budowę. W takim przypadku termin uzgodnienia projektu uchwały albo decyzji wynosi 30 dni od dnia jej przedłożenia przez właściwy organ.
+
+**Art. 120zm.** Pełnomocnik koordynuje monitoring oraz ewaluację realizacji strategii.
+
+**Art. 120zn.**
+
+1. W zakresie nieuregulowanym niniejszym działem do zarządzania rozwojem obszaru otoczenia CPK stosuje się przepisy ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+
+2. Do zmiany strategii stosuje się odpowiednio przepisy niniejszego działu.
 
 ### DZIAŁ IVC Zorganizowana relokacja
 
+**Art. 120zo.**
+
+1. Przepisy niniejszego działu stosuje się do realizacji projektów zorganizowanej relokacji miejscowości albo ich części w związku z nabywaniem nieruchomości na cele realizacji zadań określonych w ustawie, zwanych dalej „projektami relokacji”.
+
+2. Ilekroć w niniejszym dziale jest mowa o planie miejscowym projektu relokacji, należy przez to rozumieć miejscowy plan zagospodarowania przestrzennego dla projektu relokacji.
+
+3. Do planu miejscowego projektu relokacji, w zakresie nieuregulowanym w niniejszym dziale, stosuje się przepisy dotyczące miejscowych planów zagospodarowania przestrzennego.
+
+**Art. 120zp.**
+
+1. Spółka Celowa jest obowiązana do prowadzenia dialogu z właścicielami nieruchomości oraz jednostkami samorządu terytorialnego w celu identyfikacji zasadności oraz warunków realizacji projektów relokacji.
+
+2. Projekt relokacji obejmuje w szczególności działania w zakresie:
+
+- **1)** identyfikacji potrzeb właścicieli nieruchomości oraz innych osób, dla których nabycie nieruchomości skutkuje koniecznością zmiany miejsca zamieszkania lub prowadzenia działalności gospodarczej, w tym gospodarstwa rolnego;
+- **2)** identyfikacji potrzeb jednostek samorządu terytorialnego związanych z koniecznością odtworzenia składników majątkowych służących realizacji zadań publicznych;
+- **3)** sporządzenia i konsultacji dokumentów planistycznych, w szczególności koncepcji urbanistycznych oraz projektów miejscowych planów zagospodarowania przestrzennego;
+- **4)** nabywania i zamiany nieruchomości;
+- **5)** tworzenia korzystnej struktury gruntowej terenu, w szczególności przez podział nieruchomości, scalenie i podział nieruchomości lub scalenie i wymianę gruntów;
+- **6)** w razie potrzeby – budowy lub przebudowy obiektów budowlanych;
+- **7)** utrzymania prowadzenia produkcji rolnej lub leśnej przez właścicieli i dzierżawców nieruchomości rolnych, w szczególności przez programowanie prac urządzeniowo-rolnych, celem ich realizacji w trybie przepisów o scalaniu i wymianie gruntów.
+
+**Art. 120zq.**
+
+1. Spółka Celowa może zawierać z jednostkami samorządu terytorialnego porozumienia określające warunki i tryb prowadzenia projektów relokacji.
+
+2. Porozumienie może obejmować w szczególności:
+
+- **1)** zasady i tryb odtworzenia składników majątkowych służących realizacji zadań publicznych, w tym dofinansowania realizacji zadań własnych jednostki samorządu terytorialnego;
+- **2)** zasady udziału Spółki Celowej w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji, w tym sporządzenia projektu tego planu wraz z prognozą oddziaływania na środowisko lub innymi opracowaniami oraz wykonywania czynności w postępowaniu, w szczególności prowadzenia konsultacji społecznych;
+- **3)** zasady pokrywania kosztów postępowania w przedmiocie uchwalenia planu miejscowego projektu relokacji lub uchwalenia albo zmiany planu ogólnego gminy.
+
+3. Organy wymienione w art. 120zv ust. 1 są obowiązane do współpracy z gminą oraz Spółką Celową w prowadzeniu procesu relokacji. Współpraca obejmuje w szczególności przedstawianie opinii oraz przekazywanie informacji niezbędnych do określenia warunków relokacji, w tym sporządzenia projektu planu miejscowego projektu relokacji.
+
+**Art. 120zr.** W przypadku gdy w ramach projektu relokacji utworzone zostają lokale wchodzące w skład mieszkaniowego zasobu gminy, porozumienie, o którym mowa w art. 120zq ust. 1, może określać zasady wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu. Przepisów uchwały wydanej na podstawie art. 21 ust. 1 pkt 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725) w zakresie kryteriów wyboru osób, którym przysługuje pierwszeństwo zawarcia umowy najmu lokalu na czas nieoznaczony i umowy najmu socjalnego lokalu, nie stosuje się.
+
+**Art. 120zs.** [1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz tereny zieleni publicznej – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, oraz do zapewnienia inwestycji towarzyszącej, o której mowa w ustawie z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, a także obszarów przestrzeni publicznej i cmentarzy, związanych z projektem relokacji.] <1. Plan miejscowy projektu relokacji może obejmować również obszary niezbędne do zapewnienia infrastruktury technicznej i społecznej, rozumianej jako obiekty budowlane służące realizacji celów publicznych w zakresie pomocy społecznej, edukacji i wychowania, kultury, zdrowia i sportu oraz obszary zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – wraz z terenami, obiektami i urządzeniami niezbędnymi do ich funkcjonowania, a także obszary przestrzeni publicznej i cmentarzy, związane z projektem relokacji.> 2. Plan miejscowy projektu relokacji uchwala się na wniosek Spółki Celowej zawierający projekt planu miejscowego projektu relokacji, zgodnie z ustaleniami strategii rozwoju obszaru otoczenia CPK, jeżeli została przyjęta, oraz można uchwalić niezależnie od ustaleń planu ogólnego gminy. 3. (uchylony) 4. (uchylony) 5. (uchylony)
+
+**Art. 120zt.** Plan miejscowy projektu relokacji sporządza i uchwala się z zastosowaniem postępowania uproszczonego, o którym mowa w art. 27b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
+
+**Art. 120zu.** (uchylony)
+
+**Art. 120zv.**
+
+1. Wójt występuje o wydanie opinii przez organy i podmioty, o których mowa w art. 17 pkt 6 lit. a i b ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, oraz przez:
+
+- **1)** ministra właściwego do spraw rolnictwa – w zakresie gruntów rolnych przeznaczanych na cele nierolnicze;
+- **2)** ministra właściwego do spraw środowiska – w zakresie gruntów leśnych przeznaczanych na cele nieleśne.
+
+2. Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia doręczenia wniosku o wydanie opinii traktuje się jako brak zastrzeżeń do wniosku.
+
+3. Do wniosku o wydanie opinii, o których mowa w ust. 1, załącza się projekt planu miejscowego projektu relokacji wraz z prognozą oddziaływania na środowisko.
+
+4. Opinie wydawane w postępowaniu w przedmiocie uchwalenia planu miejscowego projektu relokacji zastępują wymagane przepisami prawa rozstrzygnięcia, w szczególności uzgodnienia i decyzje administracyjne.
+
+**Art. 120zw.** Do uchwalania planu miejscowego projektu relokacji oraz do gruntów rolnych i leśnych objętych tym planem nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych oraz ustawy z dnia 28 września 1991 r. o lasach.
+
 ### DZIAŁ V Zmiany w przepisach obowiązujących oraz przepisy przejściowe, dostosowujące i końcowe
+
+**Art. 121–128.** (pominięte)
 
 **Art. 128a.**
 

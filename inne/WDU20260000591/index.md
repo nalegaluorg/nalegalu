@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie identyfikacji i rejestracji zwierząt
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie identyfikacji i rejestracji zwierząt
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 4 listopada 2022 r.
 o systemie identyfikacji i rejestracji zwierząt
-Art. 57–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -877,6 +876,8 @@ Art. 57–63. (pominięte)
 3. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 57–63.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 

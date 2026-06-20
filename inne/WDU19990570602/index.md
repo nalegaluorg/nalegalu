@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie okresów przechowywania i warunków niszczenia akt spraw sądowych lub przekazywania ich archiwom państwowym.
+# Rozporządzenie Ministra Sprawiedliwości z dnia 11 czerwca 1999 r. zmieniające rozporządzenie w sprawie okresów przechowywania i warunków niszczenia akt spraw sądowych lub przekazywania ich archiwom państwowym.
 
 | Pole | Wartość |
 |---|---|

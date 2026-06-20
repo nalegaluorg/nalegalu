@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o języku polskim oraz ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o języku polskim oraz ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 

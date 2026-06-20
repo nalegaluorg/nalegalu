@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 26 stycznia 2006 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 26 stycznia 2006 r.*
 

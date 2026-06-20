@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności ubezpieczeniowej oraz ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
+# Ustawa z dnia 18 czerwca 2009 r. o zmianie ustawy o działalności ubezpieczeniowej oraz ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
 
 *USTAWA z dnia 18 czerwca 2009 r.*
 

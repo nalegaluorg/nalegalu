@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 24 września 2010 r. o zmianie ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 24 września 2010 r.*
 

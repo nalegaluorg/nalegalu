@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 
@@ -26,11 +26,6 @@ source: pdf
 | Data wydania | 2008-12-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341571) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1571/text.pdf) |
-
-Europejskie postępowanie nakazowe
-Europejskie postępowanie w sprawie drobnych roszczeń
-Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
-Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanych w europejskim postępowaniu w sprawie drobnych roszczeń
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -59,7 +54,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 - **11)** w art. 479 § 3 otrzymuje brzmienie: „§ 3. W razie niezłożenia odpisu wezwania do dobrowolnego spełnienia żądania lub reklamacji wraz z dowodem doręczenia albo wysłania go pozwanemu przesyłką poleconą, stosuje się przepis art. 130.”;
 - **12)** w części pierwszej w księdze pierwszej w tytule VII dodaje się dział VII w brzmieniu: „Dział VII Europejskie postępowania w sprawach transgranicznych
 
-#### Rozdział 1.
+#### Rozdział 1. Europejskie postępowanie nakazowe
 
 **Art. 505¹⁵.**
 
@@ -103,7 +98,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia europejskiego nakazu zapłaty przysługuje zażalenie.
 
-#### Rozdział 2.
+#### Rozdział 2. Europejskie postępowanie w sprawie drobnych roszczeń
 
 **Art. 505²¹.**
 
@@ -151,7 +146,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 795⁷.** Na postanowienie w przedmiocie stwierdzenia wykonalności przysługuje zażalenie.
 
-### Dział IIc.
+### Dział IIc. Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
 
 **Art. 795⁸.**
 
@@ -624,7 +619,7 @@ Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanyc
 
 **Art. 1153⁶.** Przepisów art. 1150–1152 nie stosuje się.
 
-## Tytuł V.
+## Tytuł V. Wykonalność orzeczeń sądów państw członkowskich Unii Europejskiej wydanych w europejskim postępowaniu w sprawie drobnych roszczeń
 
 **Art. 1153⁷.** Orzeczenia sądów państw członkowskich Unii Europejskiej wydane w europejskim postępowaniu w sprawie drobnych roszczeń, opatrzone w tych państwach zaświadczeniem na podstawie przepisów odrębnych, są tytułami egzekucyjnymi i podlegają wykonaniu w Rzeczypospolitej Polskiej po nadaniu klauzuli wykonalności.
 

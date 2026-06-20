@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o rachunkowości
+# Ustawa z dnia 21 listopada 2008 r. zmieniająca ustawę o zmianie ustawy o rachunkowości
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

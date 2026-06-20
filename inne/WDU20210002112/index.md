@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo łowieckie
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy - Prawo łowieckie
 
 *USTAWA z dnia 14 października 2021 r.*
 

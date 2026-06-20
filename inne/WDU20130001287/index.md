@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z przystąpieniem Republiki Chorwacji do Unii Europejskiej
+# Ustawa z dnia 23 października 2013 r. o zmianie niektórych ustaw w związku z przystąpieniem Republiki Chorwacji do Unii Europejskiej
 
 *USTAWA z dnia 23 października 2013 r.*
 

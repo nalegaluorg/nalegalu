@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu sądowym bez nieuzasadnionej zwłoki
+# Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu sądowym bez nieuzasadnionej zwłoki
 
 *USTAWA z dnia 20 lutego 2009 r.*
 

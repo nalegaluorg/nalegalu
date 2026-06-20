@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy - Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA z dnia 22 grudnia 2004 r.*
 

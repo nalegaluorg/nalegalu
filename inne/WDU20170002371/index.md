@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2018
+# Ustawa z dnia 8 grudnia 2017 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2018
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 

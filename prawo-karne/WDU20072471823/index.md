@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania karnego
+# Ustawa z dnia 19 grudnia 2007 r. o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania karnego
 
 *USTAWA z dnia 19 grudnia 2007 r.*
 

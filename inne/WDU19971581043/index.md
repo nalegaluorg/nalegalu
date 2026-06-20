@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach turystycznych
+# Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy o usługach turystycznych.
 
 *USTAWA z dnia 4 grudnia 1997 r.*
 

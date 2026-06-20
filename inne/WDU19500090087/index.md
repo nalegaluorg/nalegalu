@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 6 września 1944 r.
+# Ustawa z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego.
 
 *USTAWA z dnia 20 marca 1950 r.*
 

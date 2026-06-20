@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie wysokości opłat kancelaryjnych w sprawach cywilnych.
+# Rozporządzenie Ministra Sprawiedliwości z dnia 30 września 1999 r. zmieniające rozporządzenie w sprawie wysokości opłat kancelaryjnych w sprawach cywilnych.
 
 | Pole | Wartość |
 |---|---|

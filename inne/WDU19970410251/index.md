@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej
+# Ustawa z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 20 lutego 1997 r.*
 

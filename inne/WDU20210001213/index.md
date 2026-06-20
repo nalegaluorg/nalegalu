@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach budowlanych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 czerwca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach budowlanych
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 16 kwietnia 2004 r.
 o wyrobach budowlanych
-Art. 37–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -749,6 +748,8 @@ Art. 37–39. (pominięte)
 7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 7 Przepisy zmieniające, przepisy przejściowe i końcowe
+
+**Art. 37–39.** (pominięte)
 
 **Art. 40.** Wyroby budowlane dopuszczone do obrotu i powszechnego stosowania w budownictwie na podstawie przepisów dotychczasowych i na zasadach w tych przepisach określonych nadają się do stosowania, w rozumieniu niniejszej ustawy, przy wykonywaniu robót budowlanych.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw
+# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 kwietnia 2018 r.*
 

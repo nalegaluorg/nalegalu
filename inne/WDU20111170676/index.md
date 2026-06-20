@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz niektórych innych ustaw
+# Ustawa z dnia 4 marca 2011 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 marca 2011 r.*
 

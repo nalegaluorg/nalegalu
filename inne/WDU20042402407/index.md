@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 8 października 2004 r. o zmianie ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 8 października 2004 r.*
 

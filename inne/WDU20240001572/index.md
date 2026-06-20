@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dochodach jednostek samorządu terytorialnego
+# Ustawa z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego
 
 *USTAWA z dnia 1 października 2024 r.*
 

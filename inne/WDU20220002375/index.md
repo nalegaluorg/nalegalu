@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centralnym Azylu dla Zwierząt
+# Ustawa z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt
 
 *USTAWA z dnia 4 listopada 2022 r.*
 

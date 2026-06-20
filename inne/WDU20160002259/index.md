@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach zarządzania mieniem państwowym
+# Ustawa z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym
 
 *USTAWA z dnia 16 grudnia 2016 r.*
 

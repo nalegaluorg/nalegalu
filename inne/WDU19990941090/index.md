@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Krośnie.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 10 listopada 1999 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Krośnie.
 
 | Pole | Wartość |
 |---|---|

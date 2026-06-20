@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o czasie pracy na statkach żeglugi śródlądowej
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

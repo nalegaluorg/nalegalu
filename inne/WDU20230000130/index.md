@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kinematografii
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 30 czerwca 2005 r.
 o kinematografii
-Art. 31–33. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -470,6 +469,8 @@ Art. 31–33. (pominięte)
 **Art. 30.** Producent filmu przekazuje nieodpłatnie państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii jeden egzemplarz nieeksploatowanej kopii każdego wyprodukowanego filmu oraz materiały dokumentacyjne związane z produkcją filmu, w szczególności scenariusz, listę montażową i dialogową, fotosy, plakaty, listę napisów i materiały reklamowe – w terminie 30 dni po zakończeniu produkcji, nie później jednak niż w dniu rozpoczęcia dystrybucji filmu.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 31–33.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i dostosowujące
 

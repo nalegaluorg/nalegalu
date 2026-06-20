@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy o zwalczaniu nieuczciwej konkurencji, ustawy o zamówieniach publicznych oraz ustawy - Prawo bankowe
+# Ustawa z dnia 9 września 2000 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy o zwalczaniu nieuczciwej konkurencji, ustawy o zamówieniach publicznych oraz ustawy - Prawo bankowe.
 
 *USTAWA z dnia 9 września 2000 r.*
 

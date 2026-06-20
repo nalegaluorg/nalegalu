@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Sztuki Wojennej Mając na uwadze istotną rolę, jaką Akademia Sztuki Wojennej odgrywać będzie w systemie przygotowania i doskonalenia zawodowego kadr dowódczych, sztabowych i logistycznych Sił Zbrojnych Rzeczypospolitej Polskiej wszystkich poziomów dowodzenia: taktycznego, operacyjnego i strategicznego, uchwala się niniejszą ustawę przygotowującą Akademię Sztuki Wojennej do realizacji nowych zadań i wyzwań wynikających z potrzeb, wymagań i oczekiwań Wojska Polskiego, uwzględniających osiągnięcia polskiej i światowej sztuki wojennej.
+# Ustawa z dnia 20 maja 2016 r. o utworzeniu Akademii Sztuki Wojennej
 
 *USTAWA z dnia 20 maja 2016 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
+# Ustawa z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
 
 *USTAWA z dnia 28 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-01 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1399/text.pdf) |
-
-Art. 52–58. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -661,6 +659,8 @@ Art. 52–58. (pominięte)
 **Art. 51.** Orzekanie w sprawach, o których mowa w art. 50, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 52–58.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

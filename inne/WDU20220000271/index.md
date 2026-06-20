@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przetwarzaniu danych dotyczących przelotu pasażera
+# Ustawa z dnia 27 stycznia 2022 r. o zmianie ustawy o przetwarzaniu danych dotyczących przelotu pasażera
 
 *USTAWA z dnia 27 stycznia 2022 r.*
 

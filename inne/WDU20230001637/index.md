@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o partnerstwie publiczno-prywatnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o partnerstwie publiczno-prywatnym
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-18 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1637/text.pdf) |
-
-Art. 19–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -333,6 +331,8 @@ Art. 19–35. (pominięte)
 2. Minister właściwy do spraw rozwoju regionalnego w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego może określić, w drodze rozporządzenia, zakres poszczególnych rodzajów ryzyka oraz czynniki uwzględniane przy ich ocenie, mając na względzie zapewnienie przejrzystości poszczególnych rodzajów ryzyka.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 19–35.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 

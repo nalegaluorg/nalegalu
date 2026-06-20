@@ -247,7 +247,6 @@ Składki na ubezpieczenie społeczne niektórych innych osób $5la.
 4. Osoby, o których mowa w ust.1l, opłacają składki na ubezpieczenie społeczne bez uprzedniego wezwania w terminie do 10 dnia każdego miesiąca za miesiąc ubiegły. Niepłacenie składek na ubezpieczenie przez 3 kolejne miesiące uważa się za rezygnację z ubezpieczenia od miesiąca, w którym zaprzestano opłacania składek. Ponowne objęcie ubezpieczeniem następuje po złożeniu wniosku.
 5. Możliwość opłacania składek na ubezpieczenie społeczne przez osoby, o których mowa w ust. 1 pkt l, ustaje z upływem 3 miesięcy po miesiącu, w którym nastąpiło odwołanie małżonka do kraju.
 6. Przepis $ 17 stosuje się odpowiednio.
-1. Składka, o której mowa w $ 4, na ubezpieczenie pracowników zatrudnionych U bezpośrednio w produkcji rolnej, określonej odrębnymi przepisami, opłacana jest przez zakład pracy w części wynoszącej:
 1) 36% podstawy jej wymiaru - w roku 1997,
 2) 38% podstawy jej wymiaru - w roku 1998,
 3) 40% podstawy jej wymiaru - w roku 1999,
@@ -286,5 +285,5 @@ I, przyjmuje się nagrody z zakładowego funduszu nagród przysługujące za 199
 
 #### Rozdział 8 Składki z tytułu wykonywania pracy przez skazanych $ 51.
 
-#### Rozdział 9
+#### Rozdział 9 1. Składka, o której mowa w $ 4, na ubezpieczenie pracowników zatrudnionych U bezpośrednio w produkcji rolnej, określonej odrębnymi przepisami, opłacana jest przez zakład pracy w części wynoszącej:
 

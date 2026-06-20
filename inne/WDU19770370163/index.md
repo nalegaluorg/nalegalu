@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o polskiej strefie rybołówstwa morskiego W celu wzmożenia ochrony żywych zasobów wód przyległych do brzegu morskiego Rzeczypospolitej Polskiej i zapewnienia ich racjonalnego wykorzystania, stanowi się, co następuje:
+# Ustawa z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego.
 
 *USTAWA z dnia 17 grudnia 1977 r.*
 
@@ -37,7 +37,9 @@ source: pdf
 
 3. Zewnętrzną granicę polskiej strefy rybołówstwa morskiego stanowi linia łącząca skrajne punkty na liniach będących bocznymi granicami polskiej strefy rybołówstwa morskiego. Szczegółowy przebieg zewnętrznej granicy polskiej strefy rybołówstwa morskiego określają umowy międzynarodowe.
 
-4. W razie braku umów międzynarodowych, o których mowa w ust. 2 i 3, Rada Ministrów może w drodze rozporządzenia określić granice polskiej strefy rybołówstwa morskiego. Art. 3–9. (uchylone)
+4. W razie braku umów międzynarodowych, o których mowa w ust. 2 i 3, Rada Ministrów może w drodze rozporządzenia określić granice polskiej strefy rybołówstwa morskiego.
+
+**Art. 3–9.** (uchylone)
 
 **Art. 10.** Traci moc ustawa z dnia 12 lutego 1970 r. o ustanowieniu polskiej strefy rybołówstwa morskiego (Dz. U. poz. 14).
 

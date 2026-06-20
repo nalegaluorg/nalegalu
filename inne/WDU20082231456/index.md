@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych
+# Ustawa z dnia 17 października 2008 r. o zmianie ustawy o świadczeniach rodzinnych
 
 *USTAWA z dnia 17 października 2008 r.*
 

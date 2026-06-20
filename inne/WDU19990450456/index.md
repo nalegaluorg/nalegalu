@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowego trybu postępowania Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 maja 1999 r. w sprawie szczegółowego trybu postępowania Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego.
 
 | Pole | Wartość |
 |---|---|

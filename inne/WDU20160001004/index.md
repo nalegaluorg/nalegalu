@@ -32,7 +32,6 @@ Minister Zdrowia: K. Radziwiłł WYKAZ OŚRODKÓW TOKSYKOLOGICZNYCH ODPOWIEDZIAL
 1) Pomorskie Centrum Toksykologii ul. Kartuska 4/6, 80-104 Gdańsk – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa pomorskiego, zachodniopomorskiego, warmińsko-mazurskiego oraz kujawsko-pomorskiego
 2) Pracownia Informacji Toksykologicznej i Analiz Laboratoryjnych Uniwersytet Jagielloński Collegium Medicum ul. Kopernika 15, 31-501 Kraków – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa małopolskiego, podkarpackiego, śląskiego oraz świętokrzyskiego
 3) Ośrodek Informacji Toksykologicznej
+Oddział Toksykologii im. dr Wandy Błeńskiej Szpital Miejski im. Franciszka Raszei ul. Mickiewicza 2, 60-834 Poznań – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa wielkopolskiego, dolnośląskiego, lubuskiego oraz opolskiego
 4) Ośrodek Kontroli Zatruć – Warszawa ul. Piłsudskiego 33, 05-074 Halinów – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa mazowieckiego, łódzkiego, podlaskiego oraz lubelskiego
-
-##### Oddział Toksykologii im. dr Wandy Błeńskiej Szpital Miejski im. Franciszka Raszei ul. Mickiewicza 2, 60-834 Poznań – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa wielkopolskiego, dolnośląskiego, lubuskiego oraz opolskiego
 

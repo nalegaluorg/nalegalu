@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach przedemerytalnych
+# Ustawa z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych
 
 *USTAWA z dnia 30 kwietnia 2004 r.*
 
@@ -197,7 +197,9 @@ source: pdf
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą 1,2 % kwoty przeznaczonej na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych.
 
-3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych. Art. 13–22. (pominięte)
+3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych.
+
+**Art. 13–22.** (pominięte)
 
 **Art. 23.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach oraz ustawy o ochronie przyrody
+# Ustawa z dnia 17 grudnia 2010 r. o zmianie ustawy o lasach oraz ustawy o ochronie przyrody
 
 *USTAWA z dnia 17 grudnia 2010 r.*
 

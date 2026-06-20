@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz ustawy o kontroli skarbowej
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy - Ordynacja podatkowa oraz ustawy o kontroli skarbowej
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 
@@ -97,7 +97,9 @@ source: pdf
 § 3. Jeżeli w aktach sprawy zawarte są informacje, których dotyczy wniosek obcej władzy, przedstawiciele obcej władzy, w ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.”;
 
 - **11)** art. 305m otrzymuje brzmienie: „Art. 305m. Informacje otrzymane od obcej władzy można przekazać innej obcej władzy po uprzednim zawiadomieniu obcej władzy, od której pochodzą te informacje, o zamiarze ich przekazania i niewniesieniu przez tę władzę sprzeciwu w terminie 10 dni roboczych od dnia zawiadomienia.”;
-- **12)** po art. 305m dodaje się art. 305ma i art. 305mb w brzmieniu: „Art. 305ma. Organ, który otrzymał informacje od obcej władzy, przesyła informację zwrotną na temat wykorzystania otrzymanego materiału, jeżeli obca władza zwróciła się o taką informację. Informację zwrotną przesyła się niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia otrzymania przez organ wiadomości o sposobie wykorzystania otrzymanych informacji. Art. 305mb. Wymiana informacji następuje za pomocą środków komunikacji elektronicznej, przy użyciu standardowych formularzy, według wzorów określonych w rozporządzeniu Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającym szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania. W przypadku braku możliwości wymiany informacji za pomocą środków komunikacji elektronicznej, wymiany dokonuje się w formie pisemnej.”.
+- **12)** po art. 305m dodaje się art. 305ma i art. 305mb w brzmieniu: „Art. 305ma. Organ, który otrzymał informacje od obcej władzy, przesyła informację zwrotną na temat wykorzystania otrzymanego materiału, jeżeli obca władza zwróciła się o taką informację. Informację zwrotną przesyła się niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia otrzymania przez organ wiadomości o sposobie wykorzystania otrzymanych informacji.
+
+**Art. 305mb.** Wymiana informacji następuje za pomocą środków komunikacji elektronicznej, przy użyciu standardowych formularzy, według wzorów określonych w rozporządzeniu Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającym szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania. W przypadku braku możliwości wymiany informacji za pomocą środków komunikacji elektronicznej, wymiany dokonuje się w formie pisemnej.”.
 
 **Art. 2.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2011 r. Nr 41, poz. 214, z późn. zm. ) wprowadza się następujące zmiany:
 

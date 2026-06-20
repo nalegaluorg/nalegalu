@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową
+# Ustawa z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową
 
 *USTAWA z dnia 8 czerwca 2022 r.*
 
@@ -351,9 +351,15 @@ source: pdf
 
 5. Złożenie informacji, o której mowa w ust. 1, jest potwierdzane elektronicznie.
 
-6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 49ab. 1. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są przechowywane przez agentów rozliczeniowych, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dane zostały przekazane do naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego.
+6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
 
-2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia. Art. 49ac. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są udostępniane wyłącznie:
+**Art. 49ab.**
+
+1. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są przechowywane przez agentów rozliczeniowych, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dane zostały przekazane do naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego.
+
+2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia.
+
+**Art. 49ac.** Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są udostępniane wyłącznie:
 
 - **1)** organom KAS – w celu realizacji ich ustawowych zadań;
 - **2)** innym niż określone w pkt 1 organom wymienionym w art. 297 Ordynacji podatkowej – na zasadach określonych w tych przepisach.”;

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przewozie drogowym towarów niebezpiecznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o przewozie drogowym towarów niebezpiecznych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 1 lipca 2005 r.*
 

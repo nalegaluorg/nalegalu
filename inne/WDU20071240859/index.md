@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o międzynarodowym przemieszczaniu odpadów
+# Ustawa z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

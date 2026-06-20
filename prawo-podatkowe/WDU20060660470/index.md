@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kontroli skarbowej oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o kontroli skarbowej oraz ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 24 lutego 2006 r.*
 

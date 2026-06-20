@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa
+# Ustawa z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa
 
 *USTAWA z dnia 29 listopada 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2000-12-28 |
 | Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001191250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1250/text.pdf) |
-
-Art. 43–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -843,6 +841,8 @@ Art. 43–46. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 43–46.** (pominięte)
+
 #### Rozdział 8 Przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 46a.** Do dnia 31 grudnia 2022 r. do:
@@ -879,7 +879,9 @@ Art. 43–46. (pominięte)
 
 - **1)** oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania;
 - **2)** określenie produktu i jego ilości;
-- **3)** oznaczenie końcowego użytkownika. Art. 47–50. (pominięte)
+- **3)** oznaczenie końcowego użytkownika.
+
+**Art. 47–50.** (pominięte)
 
 **Art. 51.** Traci moc ustawa z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi (Dz. U. poz. 598, z 1996 r. poz. 496, z 1997 r. poz. 554 i 1026 oraz z 1999 r. poz. 775 i 931).
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 

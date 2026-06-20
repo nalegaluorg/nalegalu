@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacjach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o fundacjach
 
 *USTAWA z dnia 6 kwietnia 1984 r.*
 

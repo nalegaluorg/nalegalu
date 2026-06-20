@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 listopada 2021 r.*
 

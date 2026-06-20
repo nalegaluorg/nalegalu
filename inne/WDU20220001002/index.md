@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z rozwojem publicznych systemów teleinformatycznych
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie niektórych ustaw w związku z rozwojem publicznych systemów teleinformatycznych
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 

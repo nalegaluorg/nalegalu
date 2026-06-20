@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych
+# Ustawa z dnia 7 kwietnia 2006 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych
 
 *USTAWA z dnia 7 kwietnia 2006 r.*
 

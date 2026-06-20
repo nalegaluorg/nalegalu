@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o mikroorganizmach i organizmach genetycznie zmodyfikowanych
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 117), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 22 czerwca 2001 r.
 o mikroorganizmach i organizmach genetycznie zmodyfikowanych
-Art. 66–74. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1437,6 +1436,8 @@ Art. 66–74. (pominięte)
 **Art. 65g.** W sprawach o czyny, o których mowa w art. 65–65f, orzekanie następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005, 1595 i 2328).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 66–74.** (pominięte)
 
 **Art. 75.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o efektywności energetycznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o efektywności energetycznej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 20 maja 2016 r.
 o efektywności energetycznej
-Art. 43–48. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -789,6 +788,8 @@ Art. 43–48. (pominięte)
 3. Do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622). Kara pieniężna podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 43–48.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe
 

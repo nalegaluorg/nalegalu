@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym oraz ustawy o drogach publicznych
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o samorządzie gminnym oraz o drogach publicznych
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

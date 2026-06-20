@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem towarowym z zagranicą
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o administrowaniu obrotem towarowym z zagranicą
 
 | Pole | Wartość |
 |---|---|

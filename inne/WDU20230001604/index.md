@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o specjalnych strefach ekonomicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o specjalnych strefach ekonomicznych
 
 *USTAWA z dnia 20 października 1994 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-14 |
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1604/text.pdf) |
-
-Art. 21–23. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -304,6 +302,8 @@ Art. 21–23. (pominięte)
 4. Minister właściwy do spraw gospodarki jest upoważniony do kontroli zarządzającego w zakresie realizacji zadań powierzonych na podstawie rozporządzenia, o którym mowa w ust. 1, oraz zadań, o których mowa w art. 8, na zasadach określonych w rozdziale 4 ustawy z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+
+**Art. 21–23.** (pominięte)
 
 **Art. 24.**
 

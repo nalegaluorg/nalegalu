@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych
+# Ustawa z dnia 22 listopada 2013 r. zmieniająca ustawę o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych
 
 *USTAWA z dnia 22 listopada 2013 r.*
 

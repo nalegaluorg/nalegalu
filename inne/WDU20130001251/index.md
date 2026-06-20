@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji Funduszu Rozwoju Inwestycji Komunalnych
+# Ustawa z dnia 30 sierpnia 2013 r. o likwidacji Funduszu Rozwoju Inwestycji Komunalnych
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 
@@ -61,9 +61,7 @@ source: pdf
 
 2. Bank Gospodarstwa Krajowego składa ministrowi właściwemu do spraw finansów publicznych oraz ministrowi właściwemu do spraw rozwoju regionalnego, w terminie do końca pierwszego kwartału, roczne sprawozdania dotyczące kredytów spłaconych, kredytów pozostałych do spłaty oraz kosztów obsługi według stanu na dzień 31 grudnia roku poprzedniego. Ostatnie sprawozdanie składane jest za rok, w którym dokonano ostatniej spłaty lub egzekucji roszczeń wynikających z udzielonego kredytu.
 
-**Art. 6.** Traci moc ustawa z dnia 12 grudnia 2003 r. o Funduszu Rozwoju Inwestycji Komunalnych (Dz. U. Nr 223, poz. 2218 oraz z 2010 r. Nr 169, poz.
-
-- **1135)** .
+**Art. 6.** Traci moc ustawa z dnia 12 grudnia 2003 r. o Funduszu Rozwoju Inwestycji Komunalnych (Dz. U. Nr 223, poz. 2218 oraz z 2010 r. Nr 169, poz. 1135).
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 31 dni od dnia ogłoszenia, z wyjątkiem art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

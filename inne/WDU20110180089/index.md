@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
+# Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 16 grudnia 2010 r.*
 

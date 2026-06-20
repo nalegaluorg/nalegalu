@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zniesieniu Głównego Inspektora Inspekcji Handlowej, o zmianie ustawy o Inspekcji Handlowej oraz niektórych innych ustaw
+# Ustawa z dnia 10 lipca 2008 r. o zniesieniu Głównego Inspektora Inspekcji Handlowej, o zmianie ustawy o Inspekcji Handlowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 lipca 2008 r.*
 

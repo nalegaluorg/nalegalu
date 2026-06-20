@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych, ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działach administracji rządowej oraz ustawy o służbie cywilnej
+# Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o finansach publicznych, ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działaniach administracji rządowej oraz ustawy o służbie cywilnej.
 
 *USTAWA z dnia 27 lipca 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o broni i amunicji
+# Ustawa z dnia 21 maja 1999 r. o broni i amunicji.
 
 *USTAWA z dnia 21 maja 1999 r.*
 
@@ -42,8 +42,7 @@ source: pdf
 - **1802)** ;
 - **2c)** broni i amunicji lub ich istotnych części gromadzonych przez Rządową Agencję Rezerw Strategicznych w celu tworzenia, utrzymywania lub udostępnienia rezerw strategicznych lub których zakup, magazynowanie, dystrybucja, wydawanie lub inne zadania zostały powierzone tej Agencji zgodnie z art. 29 lub art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294);
 - **3)** obrotu z zagranicą bronią i amunicją, technologiami i usługami mającymi znaczenie dla obronności, bezpieczeństwa lub ważnych interesów Państwa oraz wytwarzania, przewozu przez terytorium Rzeczypospolitej Polskiej, przywozu z zagranicy i wywozu za granicę broni i amunicji w celach przemysłowych lub handlowych, a także obrotu nimi na podstawie odrębnych przepisów;
-- **4)** przemieszczania amunicji przez przedsiębiorców oraz przedsiębiorców zagranicznych, w rozumieniu ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz.
-- **2378)** .
+- **4)** przemieszczania amunicji przez przedsiębiorców oraz przedsiębiorców zagranicznych, w rozumieniu ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378).
 
 **Art. 4.**
 

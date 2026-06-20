@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach przystępowania jednostek samorządu terytorialnego do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych
+# Ustawa z dnia 15 września 2000 r. o zasadach przystępowania jednostek samorządu terytorialnego do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych.
 
 *USTAWA z dnia 15 września 2000 r.*
 

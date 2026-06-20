@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 17 listopada 2006 r. o zmianie ustawy o transporcie drogowym oraz o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 17 listopada 2006 r.*
 

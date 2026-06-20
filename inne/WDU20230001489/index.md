@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2023 r.*
 
@@ -119,7 +119,11 @@ source: pdf
 
 - **4)** po art. 18b dodaje się art. 18ba–18bm w brzmieniu: „Art. 18ba. 1. Jeżeli obcy wojskowy statek powietrzny atakuje statek przechwytujący, decyzję o jego zniszczeniu podejmuje dowódca statku przechwytującego.
 
-2. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej, jeżeli obcy wojskowy statek powietrzny wykonuje czynności wchodzące w zakres zdarzeń, o których mowa w art. 18b ust. 3 pkt 2, lub manewruje na pozycję dogodną do ataku przeciwko statkowi przechwytującemu, decyzję o zniszczeniu obcego wojskowego statku powietrznego podejmuje dowódca statku przechwytującego. Art. 18bb. 1. Obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
+2. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej, jeżeli obcy wojskowy statek powietrzny wykonuje czynności wchodzące w zakres zdarzeń, o których mowa w art. 18b ust. 3 pkt 2, lub manewruje na pozycję dogodną do ataku przeciwko statkowi przechwytującemu, decyzję o zniszczeniu obcego wojskowego statku powietrznego podejmuje dowódca statku przechwytującego.
+
+**Art. 18bb.**
+
+1. Obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
 
 - **1)** opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **2)** odpowiedniej zmiany kierunku lub wysokości lotu;
@@ -153,26 +157,52 @@ source: pdf
     - **a)** przechwycony i rozpoznany obcy cywilny statek powietrzny nie wykonuje poleceń dowódcy statku przechwytującego, państwowego organu zarządzania ruchem lotniczym oraz Dyżurnego Dowódcy Obrony Powietrznej,
     - **b)** posiadane informacje potwierdzają bez żadnych wątpliwości, że obcy cywilny statek powietrzny ma być użyty jako środek ataku o charakterze terrorystycznym.
 
-4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ). Art. 18bc. 1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ).
 
-2. Uprawniony do podjęcia decyzji dotyczącej przechwycenia obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Podejrzany RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18bd. 1. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, można podjąć decyzję o oddaniu strzałów ostrzegawczych w kierunku tego statku powietrznego.
+**Art. 18bc.**
 
-2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18be. W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej. Art. 18bf. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki:
+1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+
+2. Uprawniony do podjęcia decyzji dotyczącej przechwycenia obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Podejrzany RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych.
+
+**Art. 18bd.**
+
+1. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, można podjąć decyzję o oddaniu strzałów ostrzegawczych w kierunku tego statku powietrznego.
+
+2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych.
+
+**Art. 18be.** W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej.
+
+**Art. 18bf.** W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki:
 
 - **1)** z okoliczności zdarzenia wynika, że obcy cywilny statek powietrzny zostanie wykorzystany jako środek ataku o charakterze terrorystycznym;
 - **2)** atakowi temu nie można zapobiec za pomocą innych dostępnych środków;
-- **3)** obcy cywilny statek powietrzny nie posiada żadnych osób na pokładzie lub na jego pokładzie znajdują się wyłącznie osoby zamierzające użyć tego statku jako środka ataku o charakterze terrorystycznym. Art. 18bg. 1. Decyzję o zastosowaniu środków, o których mowa w art. 18bc–18bf, Dowódca Operacyjny Rodzajów Sił Zbrojnych podejmuje w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku o charakterze terrorystycznym, z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego cywilnego statku powietrznego jako środek ostateczny.
+- **3)** obcy cywilny statek powietrzny nie posiada żadnych osób na pokładzie lub na jego pokładzie znajdują się wyłącznie osoby zamierzające użyć tego statku jako środka ataku o charakterze terrorystycznym.
 
-2. W rozkazie, o którym mowa w ust. 1, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. Art. 18bh. 1. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku międzynarodowym, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
+**Art. 18bg.**
 
-2. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje Policji, powiadamiając o tym zdarzeniu organ Straży Granicznej. Art. 18bi. Dyżurny Dowódca Obrony Powietrznej współdziała z Polską Agencją Żeglugi Powietrznej przez prowadzenie ciągłej bieżącej wymiany informacji w zakresie:
+1. Decyzję o zastosowaniu środków, o których mowa w art. 18bc–18bf, Dowódca Operacyjny Rodzajów Sił Zbrojnych podejmuje w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku o charakterze terrorystycznym, z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego cywilnego statku powietrznego jako środek ostateczny.
+
+2. W rozkazie, o którym mowa w ust. 1, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
+
+**Art. 18bh.**
+
+1. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku międzynarodowym, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
+
+2. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje Policji, powiadamiając o tym zdarzeniu organ Straży Granicznej.
+
+**Art. 18bi.** Dyżurny Dowódca Obrony Powietrznej współdziała z Polską Agencją Żeglugi Powietrznej przez prowadzenie ciągłej bieżącej wymiany informacji w zakresie:
 
 - **1)** zapewnienia bezpieczeństwa lotów statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **2)** wymiany informacji o sytuacji powietrznej oraz planowanych i wykonywanych lotach obcych wojskowych statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **3)** przestrzegania ustalonych procedur koordynacji i identyfikacji oraz przekazywania odpowiedzialności nad lotem statków przechwytujących w przestrzeni powietrznej Rzeczypospolitej Polskiej;
-- **4)** wykorzystania przestrzeni powietrznej Rzeczypospolitej Polskiej przez dyżurne siły i środki systemu obrony powietrznej w celu: Art. 18bj. 1. Jeżeli umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, decyzję o opuszczeniu przestrzeni powietrznej Rzeczypospolitej Polskiej przez polskie statki przechwytujące oraz o przekroczeniu granicy państwowej i locie w przestrzeni powietrznej Rzeczypospolitej Polskiej przez wojskowe statki przechwytujące państwa Organizacji Traktatu Północnoatlantyckiego realizujące zadania w ramach Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego w celu przeciwdziałania wojskowym i cywilnym statkom powietrznym podejmuje Dyżurny Dowódca Obrony Powietrznej.
+- **4)** wykorzystania przestrzeni powietrznej Rzeczypospolitej Polskiej przez dyżurne siły i środki systemu obrony powietrznej w celu:
     - **a)** priorytetowego udostępnienia przestrzeni powietrznej Rzeczypospolitej Polskiej oraz zapewnienia bezpieczeństwa statkom przechwytującym realizującym zadania wojskowego nadzoru przestrzeni powietrznej Rzeczypospolitej Polskiej,
     - **b)** zastosowania naziemnych środków systemu obrony powietrznej wobec statków powietrznych nieprzestrzegających przepisów wykonywania lotów obowiązujących w przestrzeni powietrznej Rzeczypospolitej Polskiej.
+
+**Art. 18bj.**
+
+1. Jeżeli umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, decyzję o opuszczeniu przestrzeni powietrznej Rzeczypospolitej Polskiej przez polskie statki przechwytujące oraz o przekroczeniu granicy państwowej i locie w przestrzeni powietrznej Rzeczypospolitej Polskiej przez wojskowe statki przechwytujące państwa Organizacji Traktatu Północnoatlantyckiego realizujące zadania w ramach Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego w celu przeciwdziałania wojskowym i cywilnym statkom powietrznym podejmuje Dyżurny Dowódca Obrony Powietrznej.
 
 2. Dyżurny Dowódca Obrony Powietrznej decyduje o wyborze lotniska, na które sprowadza się obce cywilne statki powietrzne i obce wojskowe statki powietrzne zmuszone do lądowania przez statki przechwytujące.
 
@@ -190,15 +220,25 @@ source: pdf
 
 9. W przypadku wykrycia obcego wojskowego statku powietrznego naruszającego przestrzeń powietrzną Rzeczypospolitej Polskiej właściwy organ dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego, w uzgodnieniu z Dyżurnym Dowódcą Obrony Powietrznej, może zdecydować o użyciu sił i środków wydzielonych do Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego tylko do działań określonych w art. 18b ust. 2.
 
-10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego. Art. 18bk. 1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony powietrznej, w tym przeciwlotniczej i przeciwrakietowej, wydzielone z Sił Zbrojnych Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
+10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Zintegrowanego Systemu Obrony Powietrznej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego.
 
-2. Decyzję o zniszczeniu pocisku rakietowego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku. Art. 18bl. 1. Bezzałogowy statek powietrzny, który przekroczył granicę państwową i wykonuje lot w przestrzeni powietrznej Rzeczypospolitej Polskiej niezgodnie z obowiązującymi przepisami, może zostać zniszczony, unieruchomiony albo nad jego lotem może zostać przejęta kontrola.
+**Art. 18bk.**
+
+1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony powietrznej, w tym przeciwlotniczej i przeciwrakietowej, wydzielone z Sił Zbrojnych Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
+
+2. Decyzję o zniszczeniu pocisku rakietowego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku.
+
+**Art. 18bl.**
+
+1. Bezzałogowy statek powietrzny, który przekroczył granicę państwową i wykonuje lot w przestrzeni powietrznej Rzeczypospolitej Polskiej niezgodnie z obowiązującymi przepisami, może zostać zniszczony, unieruchomiony albo nad jego lotem może zostać przejęta kontrola.
 
 2. Decyzję o zastosowaniu środków, o których mowa w ust. 1, w sposób adekwatny do zagrożenia oraz w granicach zasad określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych wydaje w formie rozkazu Dowódca Operacyjny Rodzajów Sił Zbrojnych po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia oraz z uwzględnieniem nadrzędności ochrony życia osób postronnych. Uprawnienie to może być delegowane na dowódców podległych Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych.
 
 3. W rozkazie, o którym mowa w ust. 2, wskazuje się uzbrojenie lub inny środek właściwy do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
 
-4. Do zniszczenia lub unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej. Art. 18bm. Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i art. 18bl ust. 2, oraz ich skutkach.”.
+4. Do zniszczenia lub unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+**Art. 18bm.** Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i art. 18bl ust. 2, oraz ich skutkach.”.
 
 **Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) wprowadza się następujące zmiany:
 

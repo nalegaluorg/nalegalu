@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz ustawy o funduszach inwestycyjnych
+# Ustawa z dnia 19 kwietnia 2013 r. o zmianie ustawy - Prawo bankowe oraz ustawy o funduszach inwestycyjnych
 
 *USTAWA z dnia 19 kwietnia 2013 r.*
 

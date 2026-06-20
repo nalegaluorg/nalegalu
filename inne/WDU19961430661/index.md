@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego
+# Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 23 października 1996 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego.
 
 *USTAWA z dnia 25 października 1990 r.*
 

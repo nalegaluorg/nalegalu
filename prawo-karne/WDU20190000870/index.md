@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz ustawy – Kodeks karny
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy - Kodeks karny
 
 *USTAWA z dnia 15 marca 2019 r.*
 

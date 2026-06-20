@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Świętokrzyskiej im. Jana Kochanowskiego w Kielcach
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu nowej nazwy Akademii Świętokrzyskiej im. Jana Kochanowskiego w Kielcach
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

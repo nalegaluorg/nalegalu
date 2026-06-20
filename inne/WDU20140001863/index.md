@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Karcie Dużej Rodziny
+# Ustawa z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny
 
 *USTAWA z dnia 5 grudnia 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-12-23 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1863/text.pdf) |
-
-Art. 31–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -447,6 +445,8 @@ Art. 31–35. (pominięte)
 4. Pierwszą waloryzację przeprowadza się 1 marca 2016 r.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 31–35.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

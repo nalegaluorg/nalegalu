@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 7 października 1999 r.*
 

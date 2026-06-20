@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020
+# Ustawa z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020
 
 *USTAWA z dnia 11 lipca 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1146/text.pdf) |
-
-Art. 73–95. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1279,6 +1277,8 @@ Art. 73–95. (pominięte)
 **Art. 72.** W zakresie nieuregulowanym w art. 69 i art. 70 w odniesieniu do minimalnych wymagań dla systemów teleinformatycznych, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej, wymiany informacji drogą elektroniczną, w tym dokumentów elektronicznych, pomiędzy podmiotami publicznymi a podmiotami niebędącymi podmiotami publicznymi stosuje się przepisy ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 17 Zmiany w przepisach obowiązujących
+
+**Art. 73–95.** (pominięte)
 
 #### Rozdział 18 Przepisy przejściowe i końcowy
 

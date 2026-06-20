@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od czynności cywilnoprawnych
+# Ustawa z dnia 19 grudnia 2003 r. o zmianie ustawy o podatku od czynności cywilnoprawnych
 
 *USTAWA z dnia 19 grudnia 2003 r.*
 

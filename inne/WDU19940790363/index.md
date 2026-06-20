@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej
+# Ustawa z dnia 10 czerwca 1994 r. o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej.
 
 *USTAWA z dnia 10 czerwca 1994 r.*
 

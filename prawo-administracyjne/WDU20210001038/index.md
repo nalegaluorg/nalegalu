@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym, ustawy o samorządzie województwa oraz ustawy o działalności pożytku publicznego i o wolontariacie
+# Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym, ustawy o samorządzie województwa oraz ustawy o działalności pożytku publicznego i o wolontariacie
 
 *USTAWA z dnia 20 kwietnia 2021 r.*
 

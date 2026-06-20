@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz ustawy o Krajowym Rejestrze Karnym
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o systemie oświaty oraz ustawy o Krajowym Rejestrze Karnym
 
 *USTAWA z dnia 11 września 2015 r.*
 

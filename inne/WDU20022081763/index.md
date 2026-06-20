@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej
+# Ustawa z dnia 30 października 2002 r. zmieniająca ustawę o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej.
 
 *USTAWA z dnia 30 października 2002 r.*
 

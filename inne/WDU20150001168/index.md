@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o własności lokali
+# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o własności lokali
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 

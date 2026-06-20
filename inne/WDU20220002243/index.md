@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025
+# Ustawa z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023-2025
 
 *USTAWA z dnia 27 października 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-11-03 |
 | Ostatnia zmiana | 2026-01-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2243/text.pdf) |
-
-Art. 32–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1180,6 +1178,8 @@ Art. 32–38. (pominięte)
 - **2)** orzeczenie sądu stało się prawomocne.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 32–38.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustaleniu i wypłacie emerytur, do których prawo uległo zawieszeniu w okresie od dnia 1 października 2011 r.
+# Ustawa z dnia 13 grudnia 2013 r. o ustaleniu i wypłacie emerytur, do których prawo uległo zawieszeniu w okresie od dnia 1 października 2011 r. do dnia 21 listopada 2012 r.
 
 *USTAWA z dnia 13 grudnia 2013 r.*
 

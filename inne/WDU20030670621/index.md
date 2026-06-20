@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich”
+# Ustawa z dnia 28 marca 2003 r. o ustanowieniu programu wieloletniego "Program ochrony brzegów morskich"
 
 *USTAWA z dnia 28 marca 2003 r.*
 

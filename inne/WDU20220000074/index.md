@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Krzyża Wschodniego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu Krzyża Wschodniego
 
 | Pole | Wartość |
 |---|---|

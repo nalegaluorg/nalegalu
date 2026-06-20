@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 
@@ -221,7 +221,11 @@ source: pdf
 
 4. Wnioski, o których mowa w ust. 1, nierozpatrzone do dnia 30 czerwca 2021 r. mogą być rozpatrzone, a kwota wsparcia może być wypłacona w terminie do dnia 31 marca 2022 r.”;
 
-- **17)** po art. 31zzs dodaje się art. 31zzt–31zzw w brzmieniu: „Art. 31zzt. Kto uporczywie nie uiszcza rat, o których mowa w art. 15kb ust. 7, na Fundusz Zwrotów lub rat, o których mowa w art. 15kc ust. 17, na Fundusz Pomocowy, podlega grzywnie. Art. 31zzu. Kto zaniża wysokość składki, o której mowa w art. 15kc ust. 4 pkt 5, należnej na Fundusz Pomocowy, podlega grzywnie. Art. 31zzw. Za czyny, o których mowa w art. 31zzt i art. 31zzu, odpowiada również podmiot zbiorowy, o ile czyn popełniła osoba fizyczna, o której mowa w art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2020 r. poz. 358 oraz z 2021 r. poz. 1177).”.
+- **17)** po art. 31zzs dodaje się art. 31zzt–31zzw w brzmieniu: „Art. 31zzt. Kto uporczywie nie uiszcza rat, o których mowa w art. 15kb ust. 7, na Fundusz Zwrotów lub rat, o których mowa w art. 15kc ust. 17, na Fundusz Pomocowy, podlega grzywnie.
+
+**Art. 31zzu.** Kto zaniża wysokość składki, o której mowa w art. 15kc ust. 4 pkt 5, należnej na Fundusz Pomocowy, podlega grzywnie.
+
+**Art. 31zzw.** Za czyny, o których mowa w art. 31zzt i art. 31zzu, odpowiada również podmiot zbiorowy, o ile czyn popełniła osoba fizyczna, o której mowa w art. 3 ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2020 r. poz. 358 oraz z 2021 r. poz. 1177).”.
 
 **Art. 2.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2021 r. poz. 1100, 1162, 1621 i 2270) wprowadza się następujące zmiany:
 

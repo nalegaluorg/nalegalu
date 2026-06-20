@@ -874,7 +874,13 @@ source: pdf
 
 § 9. W razie skazania z zastosowaniem art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego po ogłoszeniu lub przy doręczeniu wyroku należy pouczyć oskarżonego o treści art. 434 § 4 oraz art. 443.
 
-§ 10. Podmiot lub stronę, która bierze udział w posiedzeniu przy użyciu urządzeń technicznych umożliwiających udział w posiedzeniu na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, na którym wydano postanowienie albo zarządzenie, uznaje się za „obecną przy ogłoszeniu” postanowienia albo zarządzenia w rozumieniu § 4 lub 6. <Art. 100a. Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.> <Art. 100b. § 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.
+§ 10. Podmiot lub stronę, która bierze udział w posiedzeniu przy użyciu urządzeń technicznych umożliwiających udział w posiedzeniu na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, na którym wydano postanowienie albo zarządzenie, uznaje się za „obecną przy ogłoszeniu” postanowienia albo zarządzenia w rozumieniu § 4 lub 6.
+
+**Art. 100a.** Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.
+
+**Art. 100b.**
+
+§ 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.
 
 § 2. W systemie teleinformatycznym, o którym mowa w art. 100a, gromadzi się kopie:
 
@@ -885,7 +891,9 @@ source: pdf
 
 § 4. Administratorem systemu teleinformatycznego, o którym mowa w art. 100a, jest Minister Sprawiedliwości.
 
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.> Art. 101–104. (uchylone)
+§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.
+
+**Art. 101–104.** (uchylone)
 
 **Art. 105.**
 
@@ -963,7 +971,7 @@ source: pdf
 
 § 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
-§ 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.>
+§ 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.
 
 **Art. 116a.**
 
@@ -1007,7 +1015,7 @@ source: pdf
 
 - **1)** oznaczenie organu, do którego jest skierowane, oraz sprawy, której dotyczy; [2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;] <2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie:
     - **a)** oświadczenie wnoszącego pismo będącego podmiotem niepublicznym, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych, wraz ze wskazaniem tego adresu albo braku takiej zgody, chyba że takie oświadczenie już zostało przez niego w tym postępowaniu złożone,
-    - **b)** numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;> 2a) numer wpisu na właściwą listę adwokatów lub radców prawnych – w przypadku obrońcy lub pełnomocnika będącego adwokatem lub radcą prawnym;
+    - **b)** numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;
 
 - **3)** treść wniosku lub oświadczenia, w miarę potrzeby z uzasadnieniem;
 - **4)** datę i podpis składającego pismo.
@@ -1046,11 +1054,13 @@ source: pdf
 
 § 2. Jeżeli termin jest oznaczony w tygodniach, miesiącach lub latach, koniec terminu przypada na ten dzień tygodnia lub miesiąca, który odpowiada początkowi terminu; jeżeli w danym miesiącu nie ma takiego dnia, koniec terminu przypada na ostatni dzień tego miesiąca.
 
-§ 3. Jeżeli koniec terminu przypada na dzień uznany przez ustawę za dzień wolny od pracy lub na sobotę, czynność można wykonać następnego dnia, który nie jest dniem wolnym od pracy ani sobotą. [Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.] <Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało:
+§ 3. Jeżeli koniec terminu przypada na dzień uznany przez ustawę za dzień wolny od pracy lub na sobotę, czynność można wykonać następnego dnia, który nie jest dniem wolnym od pracy ani sobotą.
+
+**Art. 124.** Termin jest zachowany, jeżeli przed jego upływem pismo zostało:
 
 - **1)** nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo w polskim urzędzie konsularnym;
 - **2)** złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku;
-- **3)** wysłane na adres do doręczeń elektronicznych.>
+- **3)** wysłane na adres do doręczeń elektronicznych.
 
 **Art. 124a.** Jeżeli pismo zostanie wniesione przez umieszczenie jego treści w portalu informacyjnym, uznaje się je za wniesione w chwili wskazanej w elektronicznym potwierdzeniu wniesienia pisma.
 
@@ -1080,7 +1090,7 @@ source: pdf
 
 **Art. 128.** [§ 1. Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.] <§ 1. Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.> <§ 1a. Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.
 
-§ 1b. Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>
+§ 1b. Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
 
 § 2. Wszelkie pisma przeznaczone dla uczestników postępowania doręcza się w taki sposób, by treść ich nie była udostępniona osobom niepowołanym.
 
@@ -1107,11 +1117,13 @@ source: pdf
 - **1)** przez operatora wyznaczonego w ramach publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;
 - **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
 - **3)** przez pracownika organu wysyłającego;
-- **4)** przez Policję – tylko w razie niezbędnej konieczności.>
+- **4)** przez Policję – tylko w razie niezbędnej konieczności.
 
 § 2. Jeżeli w sprawie ustalono tylu pokrzywdzonych, że ich indywidualne zawiadomienie o przysługujących im uprawnieniach spowodowałoby poważne utrudnienie w prowadzeniu postępowania, zawiadamia się ich poprzez ogłoszenie w prasie, radiu, telewizji lub na stronie internetowej sądu albo prokuratury.
 
-§ 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci. <Art. 131a. Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.>
+§ 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci.
+
+**Art. 131a.** Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.
 
 **Art. 132.** [§ 1. Pismo doręcza się adresatowi osobiście.] <§ 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.>
 
@@ -1175,7 +1187,11 @@ source: pdf
 
 § 2. (uchylony)
 
-§ 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego. [Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.] <Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.> [Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.] <Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.>
+§ 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego.
+
+**Art. 140.** Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.
+
+**Art. 141.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.
 
 **Art. 142.** Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za dokonane, jeżeli osoba, dla której pismo było przeznaczone, oświadczy, że pismo to otrzymała.
 
@@ -1272,7 +1288,7 @@ source: pdf
 - **3)** z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.] <§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
 - **1)** jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka są oskarżonemu znane;
 - **2)** w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;
-- **3)** z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka z uwagi na charakter sprawy.>
+- **3)** z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka z uwagi na charakter sprawy.
 
 § 5. Sąd lub organ prowadzący postępowanie przygotowawcze może ujawnić w niezbędnym zakresie dane, o których mowa w § 1, lub oryginały dokumentów, o których mowa w § 3, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy.
 
@@ -2765,7 +2781,9 @@ source: pdf
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych:
 
 - **1)** pouczeń, o których mowa w § 1–3, w tym odrębne dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;
-- **2)** wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby. <Art. 300a. Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>
+- **2)** wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby.
+
+**Art. 300a.** Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.
 
 **Art. 301.** Na żądanie podejrzanego należy przesłuchać go z udziałem ustanowionego obrońcy. Niestawiennictwo obrońcy nie tamuje przesłuchania.
 
@@ -2775,7 +2793,9 @@ source: pdf
 
 § 2. Stronom oraz osobom niebędącym stronami służy zażalenie na czynności inne niż postanowienia i zarządzenia naruszające ich prawa.
 
-§ 3. Zażalenie na postanowienia i zarządzenia oraz na inne czynności prokuratora w postępowaniu przygotowawczym, o których mowa odpowiednio w § 1 i 2, rozpoznaje prokurator bezpośrednio przełożony. <Art. 302a. Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>
+§ 3. Zażalenie na postanowienia i zarządzenia oraz na inne czynności prokuratora w postępowaniu przygotowawczym, o których mowa odpowiednio w § 1 i 2, rozpoznaje prokurator bezpośrednio przełożony.
+
+**Art. 302a.** Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.
 
 #### Rozdział 34 Wszczęcie śledztwa
 

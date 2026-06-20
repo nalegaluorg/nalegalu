@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działach administracji rządowej
+# Ustawa z dnia 4 września 1997 r. o działach administracji rządowej.
 
 *USTAWA z dnia 4 września 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-11-24 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971410943) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.pdf) |
-
-Art. 39–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -781,6 +779,8 @@ Art. 39–75. (pominięte)
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
 
+**Art. 39–75.** (pominięte)
+
 #### Rozdział 5 Przepisy szczególne, przejściowe i dostosowujące
 
 **Art. 76.** (uchylony)
@@ -790,7 +790,9 @@ Art. 39–75. (pominięte)
 **Art. 78.** Minister właściwy do spraw finansów publicznych ustala:
 
 - **1)** zasady ewidencji należności i zobowiązań Skarbu Państwa;
-- **2)** warunki prowadzenia rozliczeń środków zgromadzonych na rachunkach likwidacyjnych, w tym zasady stosowania kursów walut dla jednostek rozliczeniowych. Art. 79–89. (pominięte)
+- **2)** warunki prowadzenia rozliczeń środków zgromadzonych na rachunkach likwidacyjnych, w tym zasady stosowania kursów walut dla jednostek rozliczeniowych.
+
+**Art. 79–89.** (pominięte)
 
 **Art. 90.** Ilekroć w przepisach obowiązujących jest mowa o ministerstwie, należy przez to rozumieć urząd obsługujący ministra właściwego do danych spraw w rozumieniu ustawy.
 

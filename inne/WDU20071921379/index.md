@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o funkcjonowaniu górnictwa węgla kamiennego
+# Ustawa z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego
 
 *USTAWA z dnia 7 września 2007 r.*
 
@@ -199,7 +199,11 @@ source: pdf
 
 3. Likwidacja kopalni, zakładu górniczego lub jego oznaczonej części, a także działania wykonywane po zakończeniu ich likwidacji przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, finansowane są z dotacji budżetowej oraz innych źródeł finansowania.
 
-4. Przedsiębiorstwo, o którym mowa w art. 8 ust. 1, może zbyć zakład górniczy lub jego oznaczoną część nabyte w trybie określonym w ust. 1 i 1a lub zbyć aktywa należące do zakładu górniczego lub jego oznaczonej części nabyte w trybie określonym w ust. 1 i 1a. Art. 8aa. 1. Przedsiębiorstwo górnicze może zbyć nieodpłatnie na rzecz innego przedsiębiorstwa górniczego kopalnię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, w celu przeprowadzenia ich restrukturyzacji lub likwidacji.
+4. Przedsiębiorstwo, o którym mowa w art. 8 ust. 1, może zbyć zakład górniczy lub jego oznaczoną część nabyte w trybie określonym w ust. 1 i 1a lub zbyć aktywa należące do zakładu górniczego lub jego oznaczonej części nabyte w trybie określonym w ust. 1 i 1a.
+
+**Art. 8aa.**
+
+1. Przedsiębiorstwo górnicze może zbyć nieodpłatnie na rzecz innego przedsiębiorstwa górniczego kopalnię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, w celu przeprowadzenia ich restrukturyzacji lub likwidacji.
 
 2. Przedsiębiorstwo górnicze może zbyć kopalnię, zakład górniczy lub jego oznaczoną część nabyte w trybie określonym w ust. 1 lub zbyć aktywa należące do kopalni, zakładu górniczego lub jego oznaczonej części nabyte w trybie określonym w ust. 1.
 
@@ -209,7 +213,11 @@ source: pdf
 
 2. Dla przedsiębiorstwa górniczego, o którym mowa w art. 8a ust. 1, które przed dniem 1 stycznia 2019 r. zbyło nieodpłatnie na rzecz przedsiębiorstwa, o którym mowa w art. 8 ust. 1, kopalnię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, kosztem uzyskania przychodów w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych jest również wartość początkowa środków trwałych w części niepokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1 tej ustawy, wchodzących w skład takiej kopalni, zakładu górniczego lub jego oznaczonej części.
 
-3. Przedsiębiorstwo górnicze może pomniejszyć kapitał zapasowy lub rezerwowy o wartość księgową netto zbywanego mienia, o którym mowa w art. 8a ust. 1 i 1a. W tym zakresie przepisu art. 32 ust. 4 ustawy z dnia 29 września 1994 r. o rachunkowości, w części dotyczącej sposobu ujęcia księgowego odpisu aktualizującego z tytułu utraty wartości środków trwałych, nie stosuje się. Art. 8ba. 1. Przychody z tytułu nabycia przez przedsiębiorstwo górnicze w trybie określonym w art. 8aa ust. 1 kopalni, zakładu górniczego lub jego oznaczonej części, nie stanowią przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+3. Przedsiębiorstwo górnicze może pomniejszyć kapitał zapasowy lub rezerwowy o wartość księgową netto zbywanego mienia, o którym mowa w art. 8a ust. 1 i 1a. W tym zakresie przepisu art. 32 ust. 4 ustawy z dnia 29 września 1994 r. o rachunkowości, w części dotyczącej sposobu ujęcia księgowego odpisu aktualizującego z tytułu utraty wartości środków trwałych, nie stosuje się.
+
+**Art. 8ba.**
+
+1. Przychody z tytułu nabycia przez przedsiębiorstwo górnicze w trybie określonym w art. 8aa ust. 1 kopalni, zakładu górniczego lub jego oznaczonej części, nie stanowią przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
 2. Dla przedsiębiorstwa górniczego, które zbyło nieodpłatnie w trybie określonym w art. 8aa ust. 1 kopalnię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, kosztem uzyskania przychodów w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych jest również wartość początkowa środków trwałych w części niepokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1 tej ustawy, wchodzących w skład takiej kopalni, zakładu górniczego lub jego oznaczonej części.
 
@@ -219,13 +227,19 @@ source: pdf
 
 1. Z dniem nabycia, o którym mowa w art. 8a ust. 1 i 1a, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, wstępuje we wszystkie prawa i obowiązki nabytej kopalni, zakładu górniczego lub jego oznaczonej części wynikające z ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz innych ustaw w takim zakresie, w jakim jest to niezbędne do prowadzenia zakładu górniczego, w szczególności staje się stroną umowy o ustanowienie użytkowania górniczego dotyczącego złoża nabytej kopalni, zakładu górniczego lub jego oznaczonej części oraz wstępuje w prawa i obowiązki wynikające z koncesji oraz innych decyzji wydanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio. Do nabycia, o którym mowa w art. 8a ust. 1 i 1a, przepisu art. 36 ust. 11 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze nie stosuje się.
 
-2. Z dniem nabycia mienia, o którym mowa w art. 8a ust. 1 i 1a, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, przejmuje zobowiązania z tytułu szkód spowodowanych ruchem zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów. Środki na finansowanie tych zobowiązań pochodzą z dotacji budżetowej. Art. 8ca. 1. Z dniem nabycia, o którym mowa w art. 8aa ust. 1, przedsiębiorstwo górnicze wstępuje we wszystkie prawa i obowiązki nabytej kopalni, zakładu górniczego lub jego oznaczonej części wynikające z ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz innych ustaw w takim zakresie, w jakim jest to niezbędne do prowadzenia zakładu górniczego, w szczególności staje się stroną umowy o ustanowienie użytkowania górniczego dotyczącego złoża nabytej kopalni, zakładu górniczego lub jego oznaczonej części oraz wstępuje w prawa i obowiązki wynikające z koncesji oraz innych decyzji wydanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio.
+2. Z dniem nabycia mienia, o którym mowa w art. 8a ust. 1 i 1a, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, przejmuje zobowiązania z tytułu szkód spowodowanych ruchem zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów. Środki na finansowanie tych zobowiązań pochodzą z dotacji budżetowej.
+
+**Art. 8ca.**
+
+1. Z dniem nabycia, o którym mowa w art. 8aa ust. 1, przedsiębiorstwo górnicze wstępuje we wszystkie prawa i obowiązki nabytej kopalni, zakładu górniczego lub jego oznaczonej części wynikające z ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz innych ustaw w takim zakresie, w jakim jest to niezbędne do prowadzenia zakładu górniczego, w szczególności staje się stroną umowy o ustanowienie użytkowania górniczego dotyczącego złoża nabytej kopalni, zakładu górniczego lub jego oznaczonej części oraz wstępuje w prawa i obowiązki wynikające z koncesji oraz innych decyzji wydanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio.
 
 2. Do nabycia, o którym mowa w ust. 1, w trybie określonym w art. 8aa ust. 1 przepisu art. 36 ust. 11 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze nie stosuje się.
 
 3. Z dniem nabycia mienia w trybie określonym w art. 8aa ust. 1 przedsiębiorstwo górnicze przejmuje zobowiązania z tytułu szkód spowodowanych ruchem zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów. Przejęcie, o którym mowa w zdaniu pierwszym, obejmuje również zobowiązania z tytułu zapobiegania szkodom spowodowanym ruchem zakładu górniczego.
 
-**Art. 8d.** Z dniem nabycia, o którym mowa w art. 8a ust. 1 i 1a, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, staje się stroną w dotychczasowych stosunkach pracy zgodnie z art. 23 Kodeksu pracy. Art. 8da. Z dniem nabycia, o którym mowa w art. 8aa ust. 1, przedsiębiorstwo górnicze staje się stroną w dotychczasowych stosunkach pracy zgodnie z art. 23 Kodeksu pracy.
+**Art. 8d.** Z dniem nabycia, o którym mowa w art. 8a ust. 1 i 1a, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, staje się stroną w dotychczasowych stosunkach pracy zgodnie z art. 23 Kodeksu pracy.
+
+**Art. 8da.** Z dniem nabycia, o którym mowa w art. 8aa ust. 1, przedsiębiorstwo górnicze staje się stroną w dotychczasowych stosunkach pracy zgodnie z art. 23 Kodeksu pracy.
 
 **Art. 8e.**
 
@@ -272,7 +286,11 @@ source: pdf
 - **1)** podjęła zatrudnienie na podstawie stosunku pracy lub umowy cywilnoprawnej na powierzchni w przedsiębiorstwie górniczym albo pod ziemią;
 - **2)** nabyła uprawnienia emerytalne.
 
-5. Uprawnienia, o których mowa w ust. 1, nie ograniczają uprawnień określonych ustawą z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2025 r. poz. 570 i 1661). Art. 11aa. 1. Pracownikom przedsiębiorstwa górniczego objętego systemem wsparcia, nieposiadającym uprawnień emerytalnych, przysługuje:
+5. Uprawnienia, o których mowa w ust. 1, nie ograniczają uprawnień określonych ustawą z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2025 r. poz. 570 i 1661).
+
+**Art. 11aa.**
+
+1. Pracownikom przedsiębiorstwa górniczego objętego systemem wsparcia, nieposiadającym uprawnień emerytalnych, przysługuje:
 
 - **1)** urlop górniczy albo
 - **2)** urlop dla pracowników zakładu przeróbki mechanicznej węgla, albo
@@ -315,7 +333,11 @@ source: pdf
 
 8. Skorzystanie z urlopu górniczego oraz urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, jest dobrowolne.
 
-9. Urlop górniczy oraz urlop dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, mogą być przyznane pod warunkiem rozwiązania z pracownikiem z jego inicjatywy umowy o pracę za porozumieniem stron z dniem zakończenia urlopu. Uzgodnienie trybu rozwiązania umowy o pracę następuje przed przyznaniem urlopu. Art. 11ba. 1. Urlop górniczy, o którym mowa w art. 11aa ust. 1 pkt 1, przysługuje pracownikowi zatrudnionemu pod ziemią, któremu ze względu na wiek i łączny staż pracy, w tym staż pracy w okresie pełnienia z wyboru funkcji w organach związku zawodowego zrzeszającego pracowników przedsiębiorstwa górniczego objętego systemem wsparcia, lub staż pracy pod ziemią wykonywanej stale i w pełnym wymiarze czasu pracy brakuje niewięcej niż pięć lat do nabycia prawa do emerytury – w wymiarze do pięciu lat.
+9. Urlop górniczy oraz urlop dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, mogą być przyznane pod warunkiem rozwiązania z pracownikiem z jego inicjatywy umowy o pracę za porozumieniem stron z dniem zakończenia urlopu. Uzgodnienie trybu rozwiązania umowy o pracę następuje przed przyznaniem urlopu.
+
+**Art. 11ba.**
+
+1. Urlop górniczy, o którym mowa w art. 11aa ust. 1 pkt 1, przysługuje pracownikowi zatrudnionemu pod ziemią, któremu ze względu na wiek i łączny staż pracy, w tym staż pracy w okresie pełnienia z wyboru funkcji w organach związku zawodowego zrzeszającego pracowników przedsiębiorstwa górniczego objętego systemem wsparcia, lub staż pracy pod ziemią wykonywanej stale i w pełnym wymiarze czasu pracy brakuje niewięcej niż pięć lat do nabycia prawa do emerytury – w wymiarze do pięciu lat.
 
 2. Urlop dla pracowników zakładu przeróbki mechanicznej węgla, o którym mowa w art. 11aa ust. 1 pkt 2, przysługuje pracownikowi zatrudnionemu w zakładzie przeróbki mechanicznej węgla, któremu ze względu na wiek, łączny staż pracy lub staż pracy wykonywanej stale i w pełnym wymiarze czasu pracy brakuje niewięcej niż cztery lata do nabycia prawa do emerytury – w wymiarze do czterech lat.
 
@@ -398,7 +420,11 @@ source: pdf
 - **1)** szczegółowe warunki i tryb przyznawania oraz sposób wykorzystania dotacji budżetowej przeznaczonej na finansowanie świadczenia, o którym mowa w ust. 1,
 - **2)** (uchylony)
 - **3)** tryb rozliczania dotacji budżetowej,
-- **4)** warunki powodujące czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej – biorąc pod uwagę rodzaj oraz zapewnienie sprawności wypłacania świadczenia, o którym mowa w ust. 1, na finansowanie którego będzie przyznana dotacja. Art. 11ca. 1. W okresie korzystania z urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11aa ust. 1 pkt 1 i 2, pracownik jest zwolniony z obowiązku świadczenia pracy i otrzymuje świadczenie socjalne w wysokości 80 % miesięcznego wynagrodzenia obliczanego jak wynagrodzenie za urlop wypoczynkowy.
+- **4)** warunki powodujące czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej – biorąc pod uwagę rodzaj oraz zapewnienie sprawności wypłacania świadczenia, o którym mowa w ust. 1, na finansowanie którego będzie przyznana dotacja.
+
+**Art. 11ca.**
+
+1. W okresie korzystania z urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11aa ust. 1 pkt 1 i 2, pracownik jest zwolniony z obowiązku świadczenia pracy i otrzymuje świadczenie socjalne w wysokości 80 % miesięcznego wynagrodzenia obliczanego jak wynagrodzenie za urlop wypoczynkowy.
 
 2. Do podstawy obliczania wynagrodzenia za urlop wypoczynkowy, o którym mowa w ust. 1, wlicza się:
 
@@ -448,7 +474,11 @@ source: pdf
 
 4c. Kwota jednorazowej odprawy pieniężnej, o której mowa w ust. 4b, nie stanowi podstawy wymiaru składek na ubezpieczenie zdrowotne.
 
-5. Jednorazowa odprawa pieniężna może być przyznana niepóźniej niż 12 miesięcy przed dniem uzyskania przez pracownika uprawnień emerytalnych. Art. 11da. 1. Jednorazowa odprawa pieniężna, o której mowa w art. 11aa ust. 1 pkt 3, przysługuje pracownikom nieposiadającym uprawnienia do urlopu górniczego albo uprawnienia do urlopu dla pracowników zakładu przeróbki mechanicznej węgla, posiadającym co najmniej 3-letni staż pracy w przedsiębiorstwie górniczym, z którymi umowa o pracę zostanie rozwiązana za porozumieniem stron.
+5. Jednorazowa odprawa pieniężna może być przyznana niepóźniej niż 12 miesięcy przed dniem uzyskania przez pracownika uprawnień emerytalnych.
+
+**Art. 11da.**
+
+1. Jednorazowa odprawa pieniężna, o której mowa w art. 11aa ust. 1 pkt 3, przysługuje pracownikom nieposiadającym uprawnienia do urlopu górniczego albo uprawnienia do urlopu dla pracowników zakładu przeróbki mechanicznej węgla, posiadającym co najmniej 3-letni staż pracy w przedsiębiorstwie górniczym, z którymi umowa o pracę zostanie rozwiązana za porozumieniem stron.
 
 2. Pracownikom, o których mowa w ust. 1, przysługuje jednorazowa odprawa pieniężna, o której mowa w art. 11aa ust. 1 pkt 3, w wysokości 170 000 zł.
 
@@ -476,7 +506,9 @@ source: pdf
 
 8. Podstawą przyznania środków przeznaczonych na wypłatę jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, oraz środków na pokrycie bieżących strat produkcyjnych przedsiębiorstwa, o którym mowa w art. 8 ust. 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki surowcami energetycznymi a tym przedsiębiorstwem.
 
-9. Środki przyznane na podstawie umowy, o której mowa w ust. 8, wykorzystane niezgodnie z przeznaczeniem lub niewykorzystane podlegają zwrotowi na rachunek wskazany przez ministra właściwego do spraw gospodarki surowcami energetycznymi. Art. 11fa. Restrukturyzacja zatrudnienia w przedsiębiorstwie górniczym objętym systemem wsparcia jest finansowana przez to przedsiębiorstwo z dotacji budżetowej lub ze środków pochodzących z podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi przez Skarb Państwa.
+9. Środki przyznane na podstawie umowy, o której mowa w ust. 8, wykorzystane niezgodnie z przeznaczeniem lub niewykorzystane podlegają zwrotowi na rachunek wskazany przez ministra właściwego do spraw gospodarki surowcami energetycznymi.
+
+**Art. 11fa.** Restrukturyzacja zatrudnienia w przedsiębiorstwie górniczym objętym systemem wsparcia jest finansowana przez to przedsiębiorstwo z dotacji budżetowej lub ze środków pochodzących z podwyższenia kapitału zakładowego przedsiębiorstwa górniczego skarbowymi papierami wartościowymi przez Skarb Państwa.
 
 **Art. 11g.**
 
@@ -764,7 +796,9 @@ source: pdf
 
 11. Maksymalna, nominalna dzienna wartość sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, wynosi 50 000 000 zł.
 
-12. Dokonanie przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, o wartości wyższej niż określona w ust. 11, wymaga zgody ministra właściwego do spraw finansów publicznych. Art. 26aa. W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu, o którym mowa w art. 8 ust. 1, na podwyższenie kapitału zakładowego tego przedsiębiorstwa, jeżeli jest to niezbędne do realizacji jego zadań określonych w ustawie, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r. (Dz. U. z 2022 r. poz. 270), z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 800 000 tys. zł. Przepisy art. 26a ust. 2–7 stosuje się odpowiednio.
+12. Dokonanie przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, o wartości wyższej niż określona w ust. 11, wymaga zgody ministra właściwego do spraw finansów publicznych.
+
+**Art. 26aa.** W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu, o którym mowa w art. 8 ust. 1, na podwyższenie kapitału zakładowego tego przedsiębiorstwa, jeżeli jest to niezbędne do realizacji jego zadań określonych w ustawie, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r. (Dz. U. z 2022 r. poz. 270), z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 800 000 tys. zł. Przepisy art. 26a ust. 2–7 stosuje się odpowiednio.
 
 **Art. 26b.** (uchylony)
 
@@ -806,7 +840,13 @@ source: pdf
 
 11. Maksymalna, nominalna dzienna wartość sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, przez przedsiębiorstwo, o którym mowa w ust. 1a, wynosi 50 000 000 zł.
 
-12. Dokonanie przez przedsiębiorstwo, o którym mowa w ust. 1a, sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, o wartości wyższej niż określona w ust. 11, wymaga zgody ministra właściwego do spraw finansów publicznych. Art. 26ca. W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu górniczemu objętemu systemem wsparcia na podwyższenie kapitału zakładowego tego przedsiębiorstwa w celu finansowania dopłat, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r., z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 5 200 000 tys. zł. Przepisy art. 26c ust. 2–7 stosuje się odpowiednio. Art. 26cb. Minister właściwy do spraw gospodarki surowcami energetycznymi może zlecić na podstawie umowy Bankowi Gospodarstwa Krajowego otwarcie i prowadzenie rachunku papierów wartościowych dla skarbowych papierów wartościowych, o których mowa w art. 26aa i art. 26ca, lub świadczenie innych usług związanych z tymi papierami wartościowymi. Art. 26cc. W przypadku nieprzekazania w roku 2022 przez ministra właściwego do spraw gospodarki surowcami energetycznymi skarbowych papierów wartościowych zgodnie z art. 26aa i art. 26ca, podlegają one zwrotowi na rachunek wskazany przez ministra właściwego do spraw finansów publicznych.
+12. Dokonanie przez przedsiębiorstwo, o którym mowa w ust. 1a, sprzedaży skarbowych papierów wartościowych, o których mowa w ust. 1a, o wartości wyższej niż określona w ust. 11, wymaga zgody ministra właściwego do spraw finansów publicznych.
+
+**Art. 26ca.** W roku 2022 minister właściwy do spraw finansów publicznych może przekazać ministrowi właściwemu do spraw gospodarki surowcami energetycznymi, na jego wniosek, skarbowe papiery wartościowe celem ich przekazania przedsiębiorstwu górniczemu objętemu systemem wsparcia na podwyższenie kapitału zakładowego tego przedsiębiorstwa w celu finansowania dopłat, w ramach limitu określonego w art. 5 ust. 3 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r., z tym że wartość nominalna nowo wyemitowanych skarbowych papierów wartościowych na ten cel nie może przekroczyć kwoty 5 200 000 tys. zł. Przepisy art. 26c ust. 2–7 stosuje się odpowiednio.
+
+**Art. 26cb.** Minister właściwy do spraw gospodarki surowcami energetycznymi może zlecić na podstawie umowy Bankowi Gospodarstwa Krajowego otwarcie i prowadzenie rachunku papierów wartościowych dla skarbowych papierów wartościowych, o których mowa w art. 26aa i art. 26ca, lub świadczenie innych usług związanych z tymi papierami wartościowymi.
+
+**Art. 26cc.** W przypadku nieprzekazania w roku 2022 przez ministra właściwego do spraw gospodarki surowcami energetycznymi skarbowych papierów wartościowych zgodnie z art. 26aa i art. 26ca, podlegają one zwrotowi na rachunek wskazany przez ministra właściwego do spraw finansów publicznych.
 
 **Art. 26d.** Do nabywania przez Skarb Państwa akcji lub udziałów przedsiębiorstwa górniczego objętego systemem wsparcia przepisu art. 9a ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym nie stosuje się.
 

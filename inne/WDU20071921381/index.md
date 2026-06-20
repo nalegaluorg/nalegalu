@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 19 września 2007 r. o zmianie ustawy o transporcie drogowym oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 19 września 2007 r.*
 

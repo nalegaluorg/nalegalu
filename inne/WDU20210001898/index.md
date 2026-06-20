@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze oraz ustawy o Straży Granicznej
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy - Prawo lotnicze oraz ustawy o Straży Granicznej
 
 *USTAWA z dnia 17 września 2021 r.*
 
@@ -279,7 +279,11 @@ source: pdf
 - **1)** nie realizują obowiązku określonego w art. 189f ust. 5 zdanie pierwsze,
 - **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał – podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
-2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli. Art. 209xb. 1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
+2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli.
+
+**Art. 209xb.**
+
+1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
 
 - **1)** nie realizuje obowiązku określonego w art. 189f ust. 5 zdanie drugie,
 - **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał – podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.

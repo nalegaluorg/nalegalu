@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o repatriacji W poczuciu głębokiej więzi z Polakami – potomkami dawnej Rzeczypospolitej, ofiarami komunistycznego terroru, przemocą zmuszonymi do opuszczenia ziemi przodków, osiedlonymi wbrew własnej woli na najtrudniejszych do zamieszkania obszarach byłego Związku Socjalistycznych Republik Radzieckich; pozbawionymi możliwości powrotu do Polski, prześladowanymi z powodu swojego pochodzenia oraz przywiązania do wiary, tradycji i umiłowania wolności, skazanymi na pracę w nieludzkich warunkach, głód, choroby i częstokroć na fizyczne wyniszczenie; którzy, mimo wszelkich przeciwności, nigdy nie wyrzekli się Polski, jej tradycji i kultury, a miłość i przywiązanie do Ojczyzny przekazali swoim potomkom – pragnąc zadośćuczynić za doznawane przez zesłańców krzywdy, uznając, że powinnością Państwa Polskiego jest umożliwienie repatriacji rodakom, którzy pozostali na Wschodzie, postanawia się, co następuje:
+# Ustawa z dnia 9 listopada 2000 r. o repatriacji.
 
 *USTAWA z dnia 9 listopada 2000 r.*
 
@@ -405,13 +405,13 @@ source: pdf
 - **6)** informację o zobowiązaniach podatkowych wnioskodawcy wobec Skarbu Państwa;
 - **7)** oświadczenie o prawdziwości danych zawartych we wniosku.
 
-3b. Oświadczenie, o którym mowa w ust. 3a pkt 7, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.>
+3b. Oświadczenie, o którym mowa w ust. 3a pkt 7, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
 4. Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, udziela lub odmawia udzielenia zezwolenia na pobyt stały osobom, o których mowa w ust. 1 i 2.
 
 5. Organem właściwym do wydania lub wymiany karty pobytu osobom, o których mowa w ust. 1 i 2, jest wojewoda właściwy ze względu na miejsce pobytu cudzoziemca. [6. Do udzielania zezwolenia na pobyt stały oraz do kart pobytu stosuje się przepisy działu VI oraz VII ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794).] <6. Do udzielania zezwolenia na pobyt stały oraz do kart pobytu stosuje się odpowiednio przepisy działu VI oraz VII ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.> <7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku o udzielenie małżonkowi, o którym mowa w ust. 1, oraz małoletniemu dziecku, o którym mowa w ust. 2, zezwolenia na pobyt stały.
 
-8. W rozporządzeniu, o którym mowa w ust. 7, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania w sprawie udzielenia małżonkowi, o którym mowa w ust. 1, oraz małoletniemu dziecku, o którym mowa w ust. 2, zezwolenia na pobyt stały oraz konieczność zapewnienia czytelności formularza.>
+8. W rozporządzeniu, o którym mowa w ust. 7, minister właściwy do spraw wewnętrznych uwzględni potrzebę zapewnienia sprawności postępowania w sprawie udzielenia małżonkowi, o którym mowa w ust. 1, oraz małoletniemu dziecku, o którym mowa w ust. 2, zezwolenia na pobyt stały oraz konieczność zapewnienia czytelności formularza.
 
 **Art. 13.** (uchylony)
 
@@ -594,7 +594,11 @@ source: pdf
 
 5. Kwotę stanowiącą równowartość pomocy, o której mowa w art. 17 ust. 2, starosta wypłaca w terminie 90 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku. Art. 17aa. 1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.
+6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 2, mając na uwadze potrzebę zapewnienia sprawności postępowania o przyznanie pomocy oraz kompletności danych przedstawianych we wniosku.
+
+**Art. 17aa.**
+
+1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.
 
 2. Wniosek, o którym mowa w art. 17 ust. 1, obejmuje również przebywających w Rzeczypospolitej Polskiej członków najbliższej rodziny repatrianta.
 

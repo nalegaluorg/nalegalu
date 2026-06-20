@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
+# Ustawa z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
 *USTAWA z dnia 16 maja 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-06-17 |
 | Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.pdf) |
-
-Art. 31–43. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -344,9 +342,7 @@ Art. 31–43. (pominięte)
 
 3. Na wniosek dysponenta Funduszu wojewoda zarządza przeprowadzenie kontroli nieprzewidzianej w okresowym planie kontroli.
 
-4. Kontrola jest przeprowadzana w trybie określonym w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz.
-
-- **224)** .
+4. Kontrola jest przeprowadzana w trybie określonym w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
 
 **Art. 18a.** Wojewoda jest uprawniony do żądania dokumentów związanych z wykorzystaniem środków Funduszu bez wszczynania kontroli, o której mowa w art. 18.
 
@@ -489,6 +485,8 @@ Art. 31–43. (pominięte)
 2. Kwotę dopłaty, o której mowa w ust. 1, stosuje się do dnia 31 grudnia 2024 r.
 
 ### DZIAŁ V Przepisy zmieniające
+
+**Art. 31–43.** (pominięte)
 
 ### DZIAŁ VI Przepisy przejściowe, dostosowujące i końcowe
 

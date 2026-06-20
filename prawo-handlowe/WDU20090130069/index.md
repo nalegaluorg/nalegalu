@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks spółek handlowych oraz ustawy o obrocie instrumentami finansowymi
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Kodeks spółek handlowych oraz ustawy o obrocie instrumentami finansowymi
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 

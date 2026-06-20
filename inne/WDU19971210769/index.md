@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
 *USTAWA z dnia 20 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-10-07 |
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.pdf) |
-
-Art. 61–85. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -517,7 +515,9 @@ Art. 61–85. (pominięte)
 
 2. Przepisu ust. 1 nie stosuje się do przedmiotu działalności pożytku publicznego.
 
-3. Wniosek o wykreślenie przedmiotu działalności według dotychczasowej Polskiej Klasyfikacji Działalności (PKD) i wpisanie przedmiotu działalności według nowej albo zmienianej Polskiej Klasyfikacji Działalności (PKD) złożony w okresie, o którym mowa w ust. 1, nie podlega opłacie sądowej. <Art. 20f. W przypadku zmiany nazwy województwa, powiatu, gminy, miejscowości lub ulicy w rejestrze TERYT w rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, jeżeli te zmiany mają charakter jednoznaczny, dane te są aktualizowane przez automatyczne dokonanie w Rejestrze wpisu danych udostępnionych za pośrednictwem usług sieciowych.>
+3. Wniosek o wykreślenie przedmiotu działalności według dotychczasowej Polskiej Klasyfikacji Działalności (PKD) i wpisanie przedmiotu działalności według nowej albo zmienianej Polskiej Klasyfikacji Działalności (PKD) złożony w okresie, o którym mowa w ust. 1, nie podlega opłacie sądowej.
+
+**Art. 20f.** W przypadku zmiany nazwy województwa, powiatu, gminy, miejscowości lub ulicy w rejestrze TERYT w rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, jeżeli te zmiany mają charakter jednoznaczny, dane te są aktualizowane przez automatyczne dokonanie w Rejestrze wpisu danych udostępnionych za pośrednictwem usług sieciowych.
 
 **Art. 21.**
 
@@ -649,11 +649,15 @@ Art. 61–85. (pominięte)
 
 4. Sąd rejestrowy ogłasza o rozwiązaniu bez przeprowadzania postępowania likwidacyjnego i wykreśleniu podmiotu wpisanego wyłącznie do rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej w Monitorze Sądowym i Gospodarczym.
 
-5. Ogłoszenie w Monitorze Sądowym i Gospodarczym o rozwiązaniu podmiotu wpisanego do Krajowego Rejestru Sądowego bez przeprowadzania postępowania likwidacyjnego i jego wykreśleniu z Rejestru, nie podlega opłacie. <Art. 25da. 1. Po wydaniu postanowienia o rozwiązaniu bez przeprowadzania postępowania likwidacyjnego spółki komandytowo-akcyjnej, prostej spółki akcyjnej, spółki akcyjnej albo spółki europejskiej sąd rejestrowy wzywa podmiot prowadzący rejestr akcjonariuszy rozwiązanej spółki, a jeżeli akcje spółki są zarejestrowane w depozycie papierów wartościowych ‒ podmiot prowadzący rachunek papierów wartościowych za pośrednictwem Krajowego Depozytu Papierów Wartościowych S.A., do przekazania wykazu akcjonariuszy spółki zawierającego informacje o ich imionach i nazwiskach albo firmach (nazwach), miejscach zamieszkania albo siedzibach oraz adresach albo innych adresach do doręczeń albo adresach do doręczeń elektronicznych oraz o liczbie, seriach i numerach albo odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), posiadanych przez nich akcji. Sąd rejestrowy wskazuje dzień, według stanu na który wykaz ten ma zostać sporządzony.
+5. Ogłoszenie w Monitorze Sądowym i Gospodarczym o rozwiązaniu podmiotu wpisanego do Krajowego Rejestru Sądowego bez przeprowadzania postępowania likwidacyjnego i jego wykreśleniu z Rejestru, nie podlega opłacie.
+
+**Art. 25da.**
+
+1. Po wydaniu postanowienia o rozwiązaniu bez przeprowadzania postępowania likwidacyjnego spółki komandytowo-akcyjnej, prostej spółki akcyjnej, spółki akcyjnej albo spółki europejskiej sąd rejestrowy wzywa podmiot prowadzący rejestr akcjonariuszy rozwiązanej spółki, a jeżeli akcje spółki są zarejestrowane w depozycie papierów wartościowych ‒ podmiot prowadzący rachunek papierów wartościowych za pośrednictwem Krajowego Depozytu Papierów Wartościowych S.A., do przekazania wykazu akcjonariuszy spółki zawierającego informacje o ich imionach i nazwiskach albo firmach (nazwach), miejscach zamieszkania albo siedzibach oraz adresach albo innych adresach do doręczeń albo adresach do doręczeń elektronicznych oraz o liczbie, seriach i numerach albo odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), posiadanych przez nich akcji. Sąd rejestrowy wskazuje dzień, według stanu na który wykaz ten ma zostać sporządzony.
 
 2. Wezwany podmiot w terminie 14 dni od dnia otrzymania wezwania, o którym mowa w ust. 1, sporządza i przekazuje sądowi rejestrowemu wykaz akcjonariuszy rozwiązanej spółki. Jeżeli akcje, których dotyczy wezwanie, są zapisane na rachunku zbiorczym, a podmiot prowadzący ten rachunek nie posiada informacji, o których mowa w ust. 1, dotyczących osób uprawnionych z tych akcji, w wykazie akcjonariuszy rozwiązanej spółki zamieszcza się informacje o ogólnej liczbie oraz odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, akcji zapisanych na tym rachunku.
 
-3. W zakresie, w jakim akcje, których dotyczy wezwanie sądu rejestrowego, są zapisane na rachunku papierów wartościowych lub rachunku zbiorczym prowadzonym przez Krajowy Depozyt Papierów Wartościowych S.A., wykaz akcjonariuszy uprawnionych z tych akcji sporządza i przekazuje sądowi rejestrowemu Krajowy Depozyt Papierów Wartościowych S.A. Przepis ust. 2 zdanie drugie stosuje się.>
+3. W zakresie, w jakim akcje, których dotyczy wezwanie sądu rejestrowego, są zapisane na rachunku papierów wartościowych lub rachunku zbiorczym prowadzonym przez Krajowy Depozyt Papierów Wartościowych S.A., wykaz akcjonariuszy uprawnionych z tych akcji sporządza i przekazuje sądowi rejestrowemu Krajowy Depozyt Papierów Wartościowych S.A. Przepis ust. 2 zdanie drugie stosuje się.
 
 **Art. 25e.**
 
@@ -1064,6 +1068,8 @@ Art. 61–85. (pominięte)
 **Art. 60a.** Kto bez uprawnienia uzyskuje z Rejestru informację za pośrednictwem usług sieciowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 61–85.** (pominięte)
 
 **Art. 86.** Ilekroć w przepisach ustaw innych niż wymienione w niniejszym rozdziale jest mowa o rejestrach: handlowym, przedsiębiorstw państwowych, stowarzyszeń, fundacji, rozumie się przez to Krajowy Rejestr Sądowy.
 

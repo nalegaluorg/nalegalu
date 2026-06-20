@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych ze specjalnym przeznaczeniem gruntów leśnych
+# Ustawa z dnia 23 lipca 2021 r. o szczególnych rozwiązaniach związanych ze specjalnym przeznaczeniem gruntów leśnych
 
 *USTAWA z dnia 23 lipca 2021 r.*
 

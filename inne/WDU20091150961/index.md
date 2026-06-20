@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa
+# Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa
 
 *USTAWA z dnia 21 maja 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny
+# Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy - Kodeks cywilny
 
 *USTAWA z dnia 2 kwietnia 2009 r.*
 

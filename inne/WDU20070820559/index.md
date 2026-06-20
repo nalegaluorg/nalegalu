@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 13 kwietnia 2007 r.*
 

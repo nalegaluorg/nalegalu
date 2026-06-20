@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o ustanowieniu programu wieloletniego „Program dla Odry – 2006”
+# Ustawa z dnia 28 listopada 2014 r. o uchyleniu ustawy o ustanowieniu programu wieloletniego "Program dla Odry - 2006"
 
 *USTAWA z dnia 28 listopada 2014 r.*
 
@@ -37,7 +37,9 @@ source: pdf
 
 2. Łączne nakłady na realizację zadań w 2015 r. nie mogą przekroczyć 1 205 456 711 zł, według cen towarów i usług obowiązujących w 2014 r., z tego z budżetu państwa – kwoty określonej w ustawie budżetowej na rok 2015.
 
-3. Wykaz zadań planowanych do realizacji w 2015 r. wraz z nakładami finansowymi określa załącznik do ustawy. [Art. 4. Zadania, o których mowa w art. 3, będą koordynowane przez Prezesa Krajowego Zarządu Gospodarki Wodnej.] <Art. 4. Zadania, o których mowa w art. 3, będą koordynowane przez Prezesa Państwowego Gospodarstwa Wodnego Wody Polskie.>
+3. Wykaz zadań planowanych do realizacji w 2015 r. wraz z nakładami finansowymi określa załącznik do ustawy.
+
+**Art. 4.** Zadania, o których mowa w art. 3, będą koordynowane przez Prezesa Państwowego Gospodarstwa Wodnego Wody Polskie.
 
 **Art. 5.** Rada Ministrów przedstawi Sejmowi, nie później niż do dnia 30 czerwca roku następnego, informację o realizacji zadań wynikających z Programu w 2014 r. i w 2015 r.
 

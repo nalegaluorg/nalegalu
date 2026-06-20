@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy
+# Ustawa z dnia 6 lutego 2015 r. o zmianie ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 6 lutego 2015 r.*
 

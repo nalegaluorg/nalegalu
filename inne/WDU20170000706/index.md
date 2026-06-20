@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich oraz ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich oraz ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
 
 *USTAWA z dnia 23 marca 2017 r.*
 

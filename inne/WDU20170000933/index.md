@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia dochodzenia wierzytelności
+# Ustawa z dnia 7 kwietnia 2017 r. o zmianie niektórych ustaw w celu ułatwienia dochodzenia wierzytelności
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

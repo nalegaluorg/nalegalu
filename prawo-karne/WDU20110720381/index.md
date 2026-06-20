@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy - Kodeks karny
 
 *USTAWA z dnia 25 lutego 2011 r.*
 

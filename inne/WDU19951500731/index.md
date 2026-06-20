@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 9 listopada 1995 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|

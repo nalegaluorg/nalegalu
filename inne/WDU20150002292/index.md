@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Zachodnim im. Zygmunta Wojciechowskiego
+# Ustawa z dnia 17 grudnia 2015 r. o Instytucie Zachodnim im. Zygmunta Wojciechowskiego
 
 *USTAWA z dnia 17 grudnia 2015 r.*
 

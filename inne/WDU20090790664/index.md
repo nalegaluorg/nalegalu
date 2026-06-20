@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
+# Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego"
 
 *USTAWA z dnia 3 kwietnia 2009 r.*
 

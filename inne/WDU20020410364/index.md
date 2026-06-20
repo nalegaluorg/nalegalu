@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej
+# Ustawa z dnia 20 marca 2002 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej.
 
 *USTAWA z dnia 20 marca 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dostępie do informacji publicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dostępie do informacji publicznej
 
 *USTAWA z dnia 6 września 2001 r.*
 
@@ -206,7 +206,7 @@ source: pdf
 
 - **1)** Biuletynie Informacji Publicznej,
 - **2)** portalu danych,
-- **3)** Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych – jest udostępniana na wniosek.>
+- **3)** Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych – jest udostępniana na wniosek.
 
 2. Informacja publiczna, która może być niezwłocznie udostępniona, jest udostępniana w formie ustnej lub pisemnej bez pisemnego wniosku.
 

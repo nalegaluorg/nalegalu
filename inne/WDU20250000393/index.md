@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa
+# Ustawa z dnia 20 lutego 2025 r. o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa
 
 *USTAWA z dnia 20 lutego 2025 r.*
 

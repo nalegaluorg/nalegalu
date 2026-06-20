@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 czerwca 2023 r.*
 
@@ -102,7 +102,11 @@ source: pdf
 
 3. W przypadku, o którym mowa w ust. 2, wystawia się faktury elektroniczne lub faktury w postaci papierowej.
 
-4. W przypadku, o którym mowa w ust. 2 pkt 1, 2 i 4, podatnicy mogą wystawiać faktury ustrukturyzowane. Art. 106gb. 1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+4. W przypadku, o którym mowa w ust. 2 pkt 1, 2 i 4, podatnicy mogą wystawiać faktury ustrukturyzowane.
+
+**Art. 106gb.**
+
+1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
@@ -128,7 +132,11 @@ source: pdf
 
 7. Ustrukturyzowaną fakturę elektroniczną, o której mowa w ustawie z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 1666), przesłaną przy użyciu platformy w rozumieniu art. 1 pkt 1 tej ustawy lub systemu teleinformatycznego obsługiwanego przez OpenPEPPOL w rozumieniu art. 2 pkt 2 tej ustawy, spełniającą wymagania określone w normie europejskiej, o której mowa w art. 9 ust. 1 tej ustawy, po przesłaniu do Krajowego Systemu e-Faktur i przydzieleniu numeru identyfikującego fakturę w Krajowym Systemie e-Faktur, uznaje się za fakturę ustrukturyzowaną.
 
-8. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej. Art. 106gba. 1. W przypadku gdy faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, dotyczą czynności o złożonej liczbie danych w zakresie jednostek miary i ilości (liczby) dostarczanych towarów lub wykonywanych usług lub cen jednostkowych netto, podatnik może wystawiać i przesyłać do Krajowego Systemu e-Faktur faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, z załącznikiem będącym integralną częścią faktury, zawierającym wyłącznie dane, o których mowa w art. 106e ust. 1, lub dane ściśle powiązane z tymi danymi, zwane dalej „fakturami z załącznikiem”.
+8. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej.
+
+**Art. 106gba.**
+
+1. W przypadku gdy faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, dotyczą czynności o złożonej liczbie danych w zakresie jednostek miary i ilości (liczby) dostarczanych towarów lub wykonywanych usług lub cen jednostkowych netto, podatnik może wystawiać i przesyłać do Krajowego Systemu e-Faktur faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, z załącznikiem będącym integralną częścią faktury, zawierającym wyłącznie dane, o których mowa w art. 106e ust. 1, lub dane ściśle powiązane z tymi danymi, zwane dalej „fakturami z załącznikiem”.
 
 2. Podatnik składa do Szefa Krajowej Administracji Skarbowej zgłoszenie o zamiarze:
 
@@ -158,7 +166,11 @@ source: pdf
 - **1)** po otrzymaniu przez podatnika powiadomienia od Szefa Krajowej Administracji Skarbowej o odebraniu możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem – w przypadku złożenia zgłoszenia o zamiarze zaprzestania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem albo
 - **2)** w sposób automatyczny – w przypadku zidentyfikowania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem, które zawierają dane inne niż określone w ust. 1 lub są wystawiane i przesyłane niezgodnie z warunkami, o których mowa w ust. 1.
 
-9. Potwierdzenie możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem oraz powiadomienie o odebraniu tej możliwości jest dokonywane w drodze czynności materialno-technicznej przez Szefa Krajowej Administracji Skarbowej. Art. 106gc. 1. W przypadku faktur elektronicznych podatnik dokonujący sprzedaży lub upoważniona przez niego do wystawiania faktur osoba trzecia przesyła je lub udostępnia nabywcy w sposób z nim uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
+9. Potwierdzenie możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem oraz powiadomienie o odebraniu tej możliwości jest dokonywane w drodze czynności materialno-technicznej przez Szefa Krajowej Administracji Skarbowej.
+
+**Art. 106gc.**
+
+1. W przypadku faktur elektronicznych podatnik dokonujący sprzedaży lub upoważniona przez niego do wystawiania faktur osoba trzecia przesyła je lub udostępnia nabywcy w sposób z nim uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
 
 2. W przypadku faktur elektronicznych nabywca, o którym mowa w art. 106d ust. 1, przesyła je lub udostępnia podatnikowi, który upoważnił go do wystawiania faktur, z uwzględnieniem zasad wynikających z procedury zatwierdzania faktur przez podatnika dokonującego sprzedaży, w sposób z nim uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
 
@@ -168,7 +180,11 @@ source: pdf
 
 5. Faktury w postaci papierowej wystawia się co najmniej w dwóch egzemplarzach, z których jeden otrzymuje nabywca, a drugi zachowuje w swojej dokumentacji podatnik dokonujący sprzedaży.
 
-6. W przypadku, o którym mowa w art. 106c, faktury w postaci papierowej wystawia się w trzech egzemplarzach, z których jeden jest wydawany nabywcy, drugi – podmiot wystawiający fakturę pozostawia w swojej dokumentacji, a trzeci – przekazuje dłużnikowi. Art. 106gd. 1. W przypadku wewnątrzwspólnotowej dostawy nowych środków transportu na rzecz nabywcy, o którym mowa w art. 13 ust. 2 pkt 4, podatnik, w terminie 14 dni od dnia dokonania dostawy, przesyła egzemplarz wystawionej faktury lub dane na niej zawarte do wyznaczonej jednostki, o której mowa w art. 97 ust. 17.
+6. W przypadku, o którym mowa w art. 106c, faktury w postaci papierowej wystawia się w trzech egzemplarzach, z których jeden jest wydawany nabywcy, drugi – podmiot wystawiający fakturę pozostawia w swojej dokumentacji, a trzeci – przekazuje dłużnikowi.
+
+**Art. 106gd.**
+
+1. W przypadku wewnątrzwspólnotowej dostawy nowych środków transportu na rzecz nabywcy, o którym mowa w art. 13 ust. 2 pkt 4, podatnik, w terminie 14 dni od dnia dokonania dostawy, przesyła egzemplarz wystawionej faktury lub dane na niej zawarte do wyznaczonej jednostki, o której mowa w art. 97 ust. 17.
 
 2. Przepisu ust. 1 nie stosuje się do faktur ustrukturyzowanych oraz faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, przesłanych do Krajowego Systemu e-Faktur przed upływem terminu 14 dni od dnia dokonania wewnątrzwspólnotowej dostawy nowych środków transportu.”;
 
@@ -294,7 +310,13 @@ source: pdf
 - **1)** na wniosek nabywcy udostępnia ponownie tę fakturę, jeżeli ponowne udostępnienie faktury następuje przed jej przesłaniem do Krajowego Systemu e-Faktur, albo
 - **2)** wystawia ponownie fakturę zgodnie z danymi zawartymi na fakturze będącej w posiadaniu nabywcy, przy czym faktura wystawiona ponownie może zawierać datę wystawienia i wyraz „DUPLIKAT”.
 
-14. Do faktur, o których mowa w ust. 13, przepis ust. 3 stosuje się odpowiednio. Art. 106ng. W przypadku, o którym mowa w art. 106ne ust. 3, podatnik w okresie trwania awarii wystawia faktury w postaci papierowej lub faktury elektroniczne. Art. 106nh. 1. W okresie trwania niedostępności Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 4, podatnik wystawia faktury w postaci elektronicznej zgodnie ze wzorem udostępnionym na podstawie art. 106gb ust. 8.
+14. Do faktur, o których mowa w ust. 13, przepis ust. 3 stosuje się odpowiednio.
+
+**Art. 106ng.** W przypadku, o którym mowa w art. 106ne ust. 3, podatnik w okresie trwania awarii wystawia faktury w postaci papierowej lub faktury elektroniczne.
+
+**Art. 106nh.**
+
+1. W okresie trwania niedostępności Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 4, podatnik wystawia faktury w postaci elektronicznej zgodnie ze wzorem udostępnionym na podstawie art. 106gb ust. 8.
 
 2. Podatnik jest obowiązany przesłać faktury, o których mowa w ust. 1, do Krajowego Systemu e-Faktur w celu przydzielenia numeru identyfikującego te faktury w Krajowym Systemie e-Faktur nie później niż w następnym dniu roboczym po dniu zakończenia okresu trwania niedostępności Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 4.
 
@@ -303,10 +325,17 @@ source: pdf
 - **1)** art. 106ne ust. 1 – przepisy art. 106nf ust. 4 i 5 stosuje się odpowiednio;
 - **2)** art. 106ne ust. 3 – przepisu ust. 2 nie stosuje się.
 
-4. Do faktur, o których mowa w ust. 1, przepisy art. 106nda ust. 4– 15 stosuje się odpowiednio. Art. 106nha. W przypadku gdy po wystawieniu faktury, o której mowa w art. 106nda ust. 1, a przed jej przesłaniem do Krajowego Systemu e-Faktur, został zamieszczony komunikat o wystąpieniu awarii Krajowego Systemu e-Faktur, o którym mowa w:
+4. Do faktur, o których mowa w ust. 1, przepisy art. 106nda ust. 4– 15 stosuje się odpowiednio.
+
+**Art. 106nha.** W przypadku gdy po wystawieniu faktury, o której mowa w art. 106nda ust. 1, a przed jej przesłaniem do Krajowego Systemu e-Faktur, został zamieszczony komunikat o wystąpieniu awarii Krajowego Systemu e-Faktur, o którym mowa w:
 
 - **1)** art. 106ne ust. 1 – przepisy art. 106nf ust. 4, 5, 7–11 i 13 stosuje się odpowiednio;
-- **2)** art. 106ne ust. 3 – podatnik nie przesyła tej faktury do Krajowego Systemu e-Faktur. Art. 106ni. 1. Jeżeli podatnik wbrew obowiązkowi:
+- **2)** art. 106ne ust. 3 – podatnik nie przesyła tej faktury do Krajowego Systemu e-Faktur.
+
+**Art. 106ni.**
+
+1. Jeżeli podatnik wbrew obowiązkowi:
+
 - **1)** nie wystawił faktury ustrukturyzowanej przy użyciu Krajowego Systemu e-Faktur,
 - **2)** w okresie trwania awarii, o której mowa w art. 106ne ust. 1 lub 3, albo niedostępności, o której mowa w art. 106ne ust. 4, albo w przypadku, o którym mowa w art. 106nda ust. 1, wystawił fakturę niezgodnie z udostępnionym wzorem,
 - **3)** nie przesłał w wymaganym terminie do Krajowego Systemu e-Faktur faktury, o której mowa w art. 106nda ust. 1, art. 106nf ust. 1 lub art. 106nh ust. 1 – naczelnik urzędu skarbowego nakłada, w drodze decyzji, na podatnika karę pieniężną w wysokości do 100% kwoty podatku wykazanego na tej fakturze wystawionej poza Krajowym Systemem e-Faktur, a w przypadku faktury bez wykazanego podatku – karę pieniężną w wysokości do 18,7% kwoty należności ogółem wykazanej na tej fakturze wystawionej poza Krajowym Systemem e-Faktur.

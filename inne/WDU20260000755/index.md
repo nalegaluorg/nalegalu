@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Rejestrze Oznakowanych Psów i Kotów
+# Ustawa z dnia 15 maja 2026 r. o Krajowym Rejestrze Oznakowanych Psów i Kotów
 
 *USTAWA z dnia 15 maja 2026 r.*
 

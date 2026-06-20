@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe.
+# Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 21 maja 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe.
 
 | Pole | Wartość |
 |---|---|

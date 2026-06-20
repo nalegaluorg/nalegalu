@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw W poczuciu odpowiedzialności za wymiar sprawiedliwości w Rzeczypospolitej Polskiej, podkreślając znaczenie, iż Rzeczpospolita Polska jest dobrem wspólnym wszystkich obywateli i to do Narodu, należy władza zwierzchnia;
+# Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 grudnia 2019 r.*
 

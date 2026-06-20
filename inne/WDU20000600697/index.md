@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Pedagogicznej w Słupsku nazwy „Pomorska Akademia Pedagogiczna w Słupsku”
+# Ustawa z dnia 7 czerwca 2000 r. o nadaniu Wyższej Szkole Pedagogicznej w Słupsku nazwy "Pomorska Akademia Pedagogiczna w Słupsku".
 
 *USTAWA z dnia 7 czerwca 2000 r.*
 

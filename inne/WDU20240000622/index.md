@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Sądzie Najwyższym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Sądzie Najwyższym
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-04-23 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/622/text.pdf) |
-
-Art. 104–110. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -587,7 +585,7 @@ Art. 104–110. (pominięte)
 
 § 5. Sędzia Sądu Najwyższego będący kobietą może przejść w stan spoczynku z dniem ukończenia 60. roku życia, składając oświadczenie Pierwszemu Prezesowi Sądu Najwyższego, który przekazuje je niezwłocznie Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego składa oświadczenie bezpośrednio Prezydentowi Rzeczypospolitej Polskiej.
 
-**Art. 38.** [§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego.] <§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+**Art. 38.** [§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego.] <§ 1. Sędziego Sądu Najwyższego przenosi się w stan spoczynku na jego wniosek albo na wniosek Kolegium Sądu Najwyższego, jeżeli z powodu choroby lub utraty sił został uznany przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków sędziego. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).
 
 § 2. Z wnioskiem o zbadanie zdolności do pełnienia obowiązków może wystąpić zainteresowany sędzia oraz Kolegium Sądu Najwyższego.
 
@@ -1228,6 +1226,8 @@ Art. 104–110. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach
 
+**Art. 104–110.** (pominięte)
+
 #### Rozdział 11 Przepisy przejściowe i dostosowujące
 
 **Art. 111.**
@@ -1377,12 +1377,7 @@ Art. 104–110. (pominięte)
 
 #### Rozdział 12 Przepisy końcowe
 
-**Art. 135.** Traci moc ustawa z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2016 r. poz. 1254, 2103 i 2261, z 2017 r. poz. 38 i 1452 oraz z 2018 r. poz.
+**Art. 135.** Traci moc ustawa z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. z 2016 r. poz. 1254, 2103 i 2261, z 2017 r. poz. 38 i 1452 oraz z 2018 r. poz. 3).
 
-- **3)** .
-
-**Art. 136.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 8 grudnia 2017 r. (Dz. U. z 2024 r. poz.
-
-- **622)**
-
+**Art. 136.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 8 grudnia 2017 r. (Dz. U. z 2024 r. poz. 622)
 

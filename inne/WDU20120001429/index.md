@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 9 listopada 2012 r. o zmianie ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 9 listopada 2012 r.*
 

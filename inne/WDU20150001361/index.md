@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw
+# Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw
 
 *USTAWA z dnia 24 lipca 2015 r.*
 

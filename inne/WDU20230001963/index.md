@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rewitalizacji rzeki Odry
+# Ustawa z dnia 13 lipca 2023 r. o rewitalizacji rzeki Odry
 
 *USTAWA z dnia 13 lipca 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent
+# Obwieszczenie Ministra Skarbu Państwa z dnia 14 marca 2000 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent.
 
 *USTAWA z dnia 6 marca 1997 r.*
 
@@ -25,8 +25,6 @@ source: pdf
 | Data ogłoszenia | 2000-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000230294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/294/text.pdf) |
-
-Art. 26-30. (pominięte).
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -87,7 +85,9 @@ Art. 26-30. (pominięte).
 
 1. Łączną kwotę przeznaczoną na wypłatę rekompensat w danym roku ustala ustawa budżetowa.
 
-2. Minister właściwy do spraw Skarbu Państwa zapewni, w okresie wskazanym w art. 10, wpływy z prywatyzacji przeznaczone na finansowanie wypłat, o których mowa w ust. 1. Art. 12-16. (skreślone).
+2. Minister właściwy do spraw Skarbu Państwa zapewni, w okresie wskazanym w art. 10, wpływy z prywatyzacji przeznaczone na finansowanie wypłat, o których mowa w ust. 1.
+
+**Art. 12-16.** (skreślone).
 
 **Art. 17.**
 
@@ -178,6 +178,8 @@ Art. 26-30. (pominięte).
 **Art. 25.** (pominięty).
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 26-30.** (pominięte).
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Małych i Średnich Przedsiębiorców
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Rzeczniku Małych i Średnich Przedsiębiorców
 
 | Pole | Wartość |
 |---|---|

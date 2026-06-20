@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2016 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 stycznia 2016 r.*
 
@@ -110,7 +110,11 @@ source: pdf
 
 4. Sąd okręgowy informuje organ Policji o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
-5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 20cb ust. 1. Art. 20cb. 1. W celu zapobiegania lub wykrywania przestępstw albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Policja może uzyskiwać dane:
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 20cb ust. 1.
+
+**Art. 20cb.**
+
+1. W celu zapobiegania lub wykrywania przestępstw albo w celu ratowania życia lub zdrowia ludzkiego bądź wsparcia działań poszukiwawczych lub ratowniczych, Policja może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
@@ -198,7 +202,11 @@ source: pdf
 
 4. Sąd okręgowy informuje organ Straży Granicznej o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
-5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 10bb ust. 1. Art. 10bb. 1. W celu zapobiegania lub wykrywania przestępstw Straż Graniczna może uzyskiwać dane:
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 10bb ust. 1.
+
+**Art. 10bb.**
+
+1. W celu zapobiegania lub wykrywania przestępstw Straż Graniczna może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
@@ -233,7 +241,11 @@ source: pdf
 
 4. Sąd informuje Generalnego Inspektora Kontroli Skarbowej o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
-5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 36bb ust. 1. Art. 36bb. 1. W celu zapobiegania lub wykrywania przestępstw skarbowych lub przestępstw, o których mowa w art. 2 ust. 1 pkt 14b i art. 36c ust. 1 pkt 3, wywiad skarbowy może uzyskiwać dane:
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 36bb ust. 1.
+
+**Art. 36bb.**
+
+1. W celu zapobiegania lub wykrywania przestępstw skarbowych lub przestępstw, o których mowa w art. 2 ust. 1 pkt 14b i art. 36c ust. 1 pkt 3, wywiad skarbowy może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
@@ -659,7 +671,11 @@ source: pdf
 
 4. Sąd, o którym mowa w ust. 1, informuje Szefa Służby Celnej o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
-5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 75db ust. 1. Art. 75db. 1. W celu zapobiegania lub wykrywania przestępstw skarbowych, o których mowa w rozdziale 9 Kodeksu karnego skarbowego, Służba Celna może uzyskiwać dane:
+5. Kontroli, o której mowa w ust. 1, nie podlega uzyskiwanie danych na podstawie art. 75db ust. 1.
+
+**Art. 75db.**
+
+1. W celu zapobiegania lub wykrywania przestępstw skarbowych, o których mowa w rozdziale 9 Kodeksu karnego skarbowego, Służba Celna może uzyskiwać dane:
 
 - **1)** z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,
 - **2)** o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne,

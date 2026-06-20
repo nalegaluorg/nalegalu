@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie innych ustaw
+# Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie innych ustaw
 
 *USTAWA z dnia 4 marca 2004 r.*
 

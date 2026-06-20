@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Pomoc państwa w zakresie dożywiania”
+# Ustawa z dnia 29 grudnia 2005 r. o ustanowieniu programu wieloletniego "Pomoc państwa w zakresie dożywiania"
 
 *USTAWA z dnia 29 grudnia 2005 r.*
 

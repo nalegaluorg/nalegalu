@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
+# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
 
 *USTAWA z dnia 9 listopada 2017 r.*
 

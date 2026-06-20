@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks rodzinny i opiekuńczy
+# Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy
 
 *USTAWA z dnia 24 czerwca 2025 r.*
 

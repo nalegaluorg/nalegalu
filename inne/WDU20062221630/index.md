@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o świadczeniach rodzinnych
 
 *USTAWA z dnia 16 listopada 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Sztuk Pięknych w Katowicach
+# Ustawa z dnia 15 lutego 2001 r. o utworzeniu Akademii Sztuk Pięknych w Katowicach.
 
 *USTAWA z dnia 15 lutego 2001 r.*
 

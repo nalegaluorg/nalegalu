@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu termomodernizacji i remontów
+# Ustawa z dnia 5 marca 2010 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów
 
 *USTAWA z dnia 5 marca 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odpowiedzialności dyscyplinarnej sędziów, którzy w latach 1944-1989 sprzeniewierzyli się niezawisłości sędziowskiej
+# Ustawa z dnia 3 grudnia 1998 r. o odpowiedzialności dyscyplinarnej sędziów, którzy w latach 1944-1989 sprzeniewierzyli się niezawisłości sędziowskiej.
 
 *USTAWA z dnia 3 grudnia 1998 r.*
 

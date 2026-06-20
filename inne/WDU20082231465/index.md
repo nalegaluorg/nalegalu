@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

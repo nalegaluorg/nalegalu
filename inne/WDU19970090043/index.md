@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gospodarce komunalnej
+# Ustawa z dnia 20 grudnia 1996 r. o gospodarce komunalnej.
 
 *USTAWA z dnia 20 grudnia 1996 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-02-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970090043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/43/text.pdf) |
-
-Art. 24–27. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -234,6 +232,8 @@ Art. 24–27. (pominięte)
 3. Spółka powstała w wyniku przekształcenia wstępuje we wszystkie prawa i obowiązki związane z działalnością samorządowego zakładu budżetowego.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących oraz przepisy końcowe
+
+**Art. 24–27.** (pominięte)
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z tym że przepis art. 11 wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

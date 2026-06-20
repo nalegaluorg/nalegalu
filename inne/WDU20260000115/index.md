@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach przedemerytalnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach przedemerytalnych
 
 | Pole | Wartość |
 |---|---|
@@ -203,7 +203,9 @@ o świadczeniach przedemerytalnych
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą 1,2 % kwoty przeznaczonej na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych.
 
-3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych. Art. 13–22. (pominięte)
+3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych.
+
+**Art. 13–22.** (pominięte)
 
 **Art. 23.**
 

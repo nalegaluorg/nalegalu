@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rybactwie śródlądowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rybactwie śródlądowym
 
 *USTAWA z dnia 18 kwietnia 1985 r.*
 

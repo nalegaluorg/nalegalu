@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uprawnieniach do mienia Funduszu Wczasów Pracowniczych
+# Ustawa z dnia 11 września 2015 r. o uprawnieniach do mienia Funduszu Wczasów Pracowniczych
 
 *USTAWA z dnia 11 września 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty, ustawy - Karta Nauczyciela oraz ustawy o postępowaniu w sprawach nieletnich
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o systemie oświaty, ustawy - Karta Nauczyciela oraz ustawy o postępowaniu w sprawach nieletnich
 
 *USTAWA z dnia 25 lipca 2008 r.*
 

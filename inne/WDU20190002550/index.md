@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 12 grudnia 2019 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 12 grudnia 2019 r.*
 

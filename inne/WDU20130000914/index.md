@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców
+# Ustawa z dnia 11 lipca 2013 r. zmieniająca ustawę o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców
 
 *USTAWA z dnia 11 lipca 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o scalaniu i wymianie gruntów
+# Ustawa z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów.
 
 *USTAWA z dnia 26 marca 1982 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym i ustawy o ochronie gruntów rolnych i leśnych
+# Ustawa z dnia 25 października 1991 r. o zmianie ustawy o podatku rolnym i ustawy o ochronie gruntów rolnych i leśnych.
 
 | Pole | Wartość |
 |---|---|

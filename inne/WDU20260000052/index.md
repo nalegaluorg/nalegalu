@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu
 
 | Pole | Wartość |
 |---|---|
@@ -372,7 +372,9 @@ o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych 
 
 2. Karę pieniężną, o której mowa w ust. 1, wymierza Dyrektor Generalny KOWR w drodze decyzji administracyjnej.
 
-3. Do kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 175 i art. 176 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. Art. 9–17. (pominięte)
+3. Do kary pieniężnej, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 175 i art. 176 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+
+**Art. 9–17.** (pominięte)
 
 **Art. 18.** W okresie do dnia 30 czerwca 2026 r., w przypadku gdy biogazownia rolnicza ma być lokalizowana na tym samym obszarze co inwestycje, o których mowa w:
 

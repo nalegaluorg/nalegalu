@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o umowach międzynarodowych
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o umowach międzynarodowych
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 

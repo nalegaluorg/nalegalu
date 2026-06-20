@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii
+# Ustawa z dnia 24 marca 2022 r. o zmianie ustawy o przeciwdziałaniu narkomanii
 
 *USTAWA z dnia 24 marca 2022 r.*
 

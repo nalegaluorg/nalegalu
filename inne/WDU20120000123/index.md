@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o składkach na ubezpieczenie zdrowotne rolników za lata 2012–2016
+# Ustawa z dnia 13 stycznia 2012 r. o składkach na ubezpieczenie zdrowotne rolników za lata 2012-2016
 
 *USTAWA z dnia 13 stycznia 2012 r.*
 

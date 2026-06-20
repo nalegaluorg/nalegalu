@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
 
 | Pole | Wartość |
 |---|---|
@@ -37,7 +37,6 @@ z 2024 r. poz. 405), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maj
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 22 lutego 2019 r.
 o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
-Art. 41–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -680,6 +679,8 @@ Art. 41–46. (pominięte)
 **Art. 40.** Wojewoda jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1, art. 18 ust. 1, art. 22 ust. 1, art. 31 ust. 3 i art. 32 ust. 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 41–46.** (pominięte)
 
 **Art. 47.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie granicy państwowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie granicy państwowej
 
 *USTAWA z dnia 12 października 1990 r.*
 
@@ -330,17 +330,29 @@ source: pdf
 
 - **1)** odcinki granicy państwowej, na której kontrola graniczna osób zostaje przywrócona tymczasowo, przedłużona lub zniesiona;
 - **2)** przejścia graniczne, rodzaj ruchu dozwolonego przez te przejścia i czas ich otwarcia oraz zasięg terytorialny przejść granicznych;
-- **3)** okres, na który kontrola graniczna osób zostaje przywrócona tymczasowo lub przedłużona. Rozporządzenie powinno uwzględniać dostosowanie zakresu kontroli do przyczyn uzasadniających jej wprowadzenie oraz możliwość stosowania kontroli na niektórych odcinkach drogowych lub kolejowych przecinających granicę państwową, a także w niektórych portach i przystaniach oraz portach lotniczych i lotniskach. Art. 17aa. 1. W celu przygotowania i utrzymania warunków do tymczasowego przywrócenia kontroli granicznej na drogach, liniach kolejowych, lotniskach, w portach, obiektach portowych lub na przystaniach, na których w przypadku tymczasowego przywrócenia kontroli granicznej możliwe będzie utworzenie drogowych, kolejowych, lotniczych, rzecznych i morskich przejść granicznych w celu realizowania kontroli granicznej, Komendant Główny Straży Granicznej prowadzi wykaz przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej.
+- **3)** okres, na który kontrola graniczna osób zostaje przywrócona tymczasowo lub przedłużona. Rozporządzenie powinno uwzględniać dostosowanie zakresu kontroli do przyczyn uzasadniających jej wprowadzenie oraz możliwość stosowania kontroli na niektórych odcinkach drogowych lub kolejowych przecinających granicę państwową, a także w niektórych portach i przystaniach oraz portach lotniczych i lotniskach.
+
+**Art. 17aa.**
+
+1. W celu przygotowania i utrzymania warunków do tymczasowego przywrócenia kontroli granicznej na drogach, liniach kolejowych, lotniskach, w portach, obiektach portowych lub na przystaniach, na których w przypadku tymczasowego przywrócenia kontroli granicznej możliwe będzie utworzenie drogowych, kolejowych, lotniczych, rzecznych i morskich przejść granicznych w celu realizowania kontroli granicznej, Komendant Główny Straży Granicznej prowadzi wykaz przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej.
 
 2. Komendant Główny Straży Granicznej powiadamia zarządcę drogi, zarządzającego infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią o ujęciu w wykazie przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej zarządzanej przez nich drogi, linii kolejowej, lotniska, portu, obiektu portowego lub przystani.
 
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór wykazu przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej, uwzględniając potrzebę zamieszczenia w wykazie informacji istotnych dla zarządcy drogi, zarządzającego infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią, przy planowaniu rozwiązań organizacyjnych umożliwiających taką kontrolę. Art. 17ab. 1. Zarządca drogi publicznej ujętej w wykazie przejść granicznych do tymczasowego przywrócenia kontroli granicznej zobowiązany jest do:
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór wykazu przejść granicznych planowanych do tymczasowego przywrócenia kontroli granicznej, uwzględniając potrzebę zamieszczenia w wykazie informacji istotnych dla zarządcy drogi, zarządzającego infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią, przy planowaniu rozwiązań organizacyjnych umożliwiających taką kontrolę.
+
+**Art. 17ab.**
+
+1. Zarządca drogi publicznej ujętej w wykazie przejść granicznych do tymczasowego przywrócenia kontroli granicznej zobowiązany jest do:
 
 - **1)** przygotowania projektów zmiany organizacji ruchu oraz przygotowania odpowiedniego oznakowania drogi zapewniającego bezpieczeństwo ruchu drogowego;
 - **2)** uwzględnienia przy budowie lub przebudowie drogi przecinającej granicę państwową warunków umożliwiających prowadzenie kontroli granicznej w przypadku tymczasowego przywrócenia kontroli granicznej;
 - **3)** wprowadzenia na przejściach granicznych, z dniem tymczasowego przywrócenia kontroli granicznej, organizacji ruchu zgodnej z projektami, o których mowa w pkt 1, zatwierdzonymi przez właściwy organ zarządzający ruchem na drodze, na wniosek właściwego komendanta oddziału Straży Granicznej.
 
-2. Skierowanie wniosku, o którym mowa w ust. 1 pkt 3, powinno nastąpić nie później niż z chwilą tymczasowego przywrócenia kontroli granicznej. Art. 17ac. 1. Zarządzający infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią oraz przewoźnicy kolejowi, w przypadku tymczasowego przywrócenia kontroli granicznej, udzielają Straży Granicznej pomocy w zakresie organizacji kontroli granicznej niezbędnej do sprawnego jej przeprowadzania oraz są zobowiązani do uzgodnienia z właściwym komendantem placówki Straży Granicznej miejsca przeprowadzania kontroli granicznej osób przekraczających granicę wewnętrzną w rozumieniu kodeksu granicznego Schengen. Straż Graniczna powinna uwzględniać inne zadania własne właściwych zarządców infrastruktury.
+2. Skierowanie wniosku, o którym mowa w ust. 1 pkt 3, powinno nastąpić nie później niż z chwilą tymczasowego przywrócenia kontroli granicznej.
+
+**Art. 17ac.**
+
+1. Zarządzający infrastrukturą kolejową, lotniskiem, portem, obiektem portowym lub przystanią oraz przewoźnicy kolejowi, w przypadku tymczasowego przywrócenia kontroli granicznej, udzielają Straży Granicznej pomocy w zakresie organizacji kontroli granicznej niezbędnej do sprawnego jej przeprowadzania oraz są zobowiązani do uzgodnienia z właściwym komendantem placówki Straży Granicznej miejsca przeprowadzania kontroli granicznej osób przekraczających granicę wewnętrzną w rozumieniu kodeksu granicznego Schengen. Straż Graniczna powinna uwzględniać inne zadania własne właściwych zarządców infrastruktury.
 
 2. Do finansowania zadań, o których mowa w ust. 1, stosuje się odpowiednio art. 17 ust. 2a.
 
@@ -408,9 +420,17 @@ source: pdf
 
 4. Decyzję o zastosowaniu środków, o których mowa w ust. 2 i 3, podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego wojskowego statku powietrznego jako środek ostateczny.
 
-5. W rozkazie, o którym mowa w ust. 4, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. Art. 18ba. 1. Jeżeli obcy wojskowy statek powietrzny atakuje statek przechwytujący, decyzję o jego zniszczeniu podejmuje dowódca statku przechwytującego.
+5. W rozkazie, o którym mowa w ust. 4, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
 
-2. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej, jeżeli obcy wojskowy statek powietrzny wykonuje czynności wchodzące w zakres zdarzeń, o których mowa w art. 18b ust. 3 pkt 2, lub manewruje na pozycję dogodną do ataku przeciwko statkowi przechwytującemu, decyzję o zniszczeniu obcego wojskowego statku powietrznego podejmuje dowódca statku przechwytującego. Art. 18bb. 1. Obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
+**Art. 18ba.**
+
+1. Jeżeli obcy wojskowy statek powietrzny atakuje statek przechwytujący, decyzję o jego zniszczeniu podejmuje dowódca statku przechwytującego.
+
+2. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej, jeżeli obcy wojskowy statek powietrzny wykonuje czynności wchodzące w zakres zdarzeń, o których mowa w art. 18b ust. 3 pkt 2, lub manewruje na pozycję dogodną do ataku przeciwko statkowi przechwytującemu, decyzję o zniszczeniu obcego wojskowego statku powietrznego podejmuje dowódca statku przechwytującego.
+
+**Art. 18bb.**
+
+1. Obcy cywilny statek powietrzny, który przekroczył granicę państwową niezgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze lub umowami międzynarodowymi, którymi Rzeczpospolita Polska jest związana, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
 
 - **1)** opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **2)** odpowiedniej zmiany kierunku lub wysokości lotu;
@@ -444,26 +464,52 @@ source: pdf
     - **a)** przechwycony i rozpoznany obcy cywilny statek powietrzny nie wykonuje poleceń dowódcy statku przechwytującego, państwowego organu zarządzania ruchem lotniczym oraz Dyżurnego Dowódcy Obrony Powietrznej,
     - **b)** posiadane informacje potwierdzają bez żadnych wątpliwości, że obcy cywilny statek powietrzny ma być użyty jako środek ataku o charakterze terrorystycznym.
 
-4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965). Art. 18bc. 1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+4. Atakiem o charakterze terrorystycznym jest czyn zabroniony, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965).
 
-2. Uprawniony do podjęcia decyzji dotyczącej przechwycenia obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Podejrzany RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18bd. 1. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, można podjąć decyzję o oddaniu strzałów ostrzegawczych w kierunku tego statku powietrznego.
+**Art. 18bc.**
 
-2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych. Art. 18be. W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej. Art. 18bf. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki:
+1. Obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Podejrzany RENEGADE” może być przechwycony przez statek przechwytujący. Przechwycenie polega na identyfikacji obcego cywilnego statku powietrznego, nawiązaniu z nim łączności radiowej i kontaktu wzrokowego oraz naprowadzeniu go na właściwy kierunek lub wysokość lotu albo wymuszeniu lądowania na wskazanym lotnisku.
+
+2. Uprawniony do podjęcia decyzji dotyczącej przechwycenia obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Podejrzany RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych.
+
+**Art. 18bd.**
+
+1. W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, można podjąć decyzję o oddaniu strzałów ostrzegawczych w kierunku tego statku powietrznego.
+
+2. Uprawniony do podjęcia decyzji o oddaniu strzałów ostrzegawczych w kierunku obcego cywilnego statku powietrznego zakwalifikowanego co najmniej do kategorii „Prawdopodobny RENEGADE” jest Dowódca Operacyjny Rodzajów Sił Zbrojnych.
+
+**Art. 18be.** W przypadku dalszego niezastosowania się przez obcy cywilny statek powietrzny z pasażerami na pokładzie zakwalifikowany co najmniej do kategorii „Prawdopodobny RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, lub po oddaniu strzałów ostrzegawczych statek przechwytujący eskortuje ten statek powietrzny do czasu jego lądowania na lotnisku lub opuszczenia przestrzeni powietrznej Rzeczypospolitej Polskiej.
+
+**Art. 18bf.** W przypadku niezastosowania się przez obcy cywilny statek powietrzny zakwalifikowany do kategorii „Potwierdzony RENEGADE” do wezwań i poleceń oraz czynności, o których mowa w art. 18bc ust. 1, a także po oddaniu strzałów ostrzegawczych Dowódca Operacyjny Rodzajów Sił Zbrojnych może podjąć decyzję o zniszczeniu obcego cywilnego statku powietrznego, jeżeli są spełnione łącznie następujące przesłanki:
 
 - **1)** z okoliczności zdarzenia wynika, że obcy cywilny statek powietrzny zostanie wykorzystany jako środek ataku o charakterze terrorystycznym;
 - **2)** atakowi temu nie można zapobiec za pomocą innych dostępnych środków;
-- **3)** obcy cywilny statek powietrzny nie posiada żadnych osób na pokładzie lub na jego pokładzie znajdują się wyłącznie osoby zamierzające użyć tego statku jako środka ataku o charakterze terrorystycznym. Art. 18bg. 1. Decyzję o zastosowaniu środków, o których mowa w art. 18bc– 18bf, Dowódca Operacyjny Rodzajów Sił Zbrojnych podejmuje w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku o charakterze terrorystycznym, z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego cywilnego statku powietrznego jako środek ostateczny.
+- **3)** obcy cywilny statek powietrzny nie posiada żadnych osób na pokładzie lub na jego pokładzie znajdują się wyłącznie osoby zamierzające użyć tego statku jako środka ataku o charakterze terrorystycznym.
 
-2. W rozkazie, o którym mowa w ust. 1, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód. Art. 18bh. 1. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku międzynarodowym, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
+**Art. 18bg.**
 
-2. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje Policji, powiadamiając o tym zdarzeniu organ Straży Granicznej. Art. 18bi. Dyżurny Dowódca Obrony Powietrznej współdziała z Polską Agencją Żeglugi Powietrznej przez prowadzenie ciągłej bieżącej wymiany informacji w zakresie:
+1. Decyzję o zastosowaniu środków, o których mowa w art. 18bc– 18bf, Dowódca Operacyjny Rodzajów Sił Zbrojnych podejmuje w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku o charakterze terrorystycznym, z uwzględnieniem nadrzędności ochrony życia osób postronnych, traktując możliwość zniszczenia obcego cywilnego statku powietrznego jako środek ostateczny.
+
+2. W rozkazie, o którym mowa w ust. 1, wskazuje się uzbrojenie właściwe do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
+
+**Art. 18bh.**
+
+1. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku międzynarodowym, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem przekazuje Straży Granicznej.
+
+2. Obcy cywilny statek powietrzny zmuszony do lądowania na lotnisku innym niż lotnisko międzynarodowe lub na lądowisku, jego załogę i ładunek oraz pasażerów i ich bagaże podmiot zarządzający lotniskiem lub użytkownik lądowiska przekazuje Policji, powiadamiając o tym zdarzeniu organ Straży Granicznej.
+
+**Art. 18bi.** Dyżurny Dowódca Obrony Powietrznej współdziała z Polską Agencją Żeglugi Powietrznej przez prowadzenie ciągłej bieżącej wymiany informacji w zakresie:
 
 - **1)** zapewnienia bezpieczeństwa lotów statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **2)** wymiany informacji o sytuacji powietrznej oraz planowanych i wykonywanych lotach obcych wojskowych statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej;
 - **3)** przestrzegania ustalonych procedur koordynacji i identyfikacji oraz przekazywania odpowiedzialności nad lotem statków przechwytujących w przestrzeni powietrznej Rzeczypospolitej Polskiej;
-- **4)** wykorzystania przestrzeni powietrznej Rzeczypospolitej Polskiej przez dyżurne siły i środki systemu obrony powietrznej w celu: Art. 18bj. 1. Jeżeli umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, decyzję o opuszczeniu przestrzeni powietrznej Rzeczypospolitej Polskiej przez polskie statki przechwytujące oraz o przekroczeniu granicy państwowej i locie w przestrzeni powietrznej Rzeczypospolitej Polskiej przez wojskowe statki przechwytujące państwa Organizacji Traktatu Północnoatlantyckiego realizujące zadania w ramach Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego w celu przeciwdziałania wojskowym i cywilnym statkom powietrznym podejmuje Dyżurny Dowódca Obrony Powietrznej.
+- **4)** wykorzystania przestrzeni powietrznej Rzeczypospolitej Polskiej przez dyżurne siły i środki systemu obrony powietrznej w celu:
     - **a)** priorytetowego udostępnienia przestrzeni powietrznej Rzeczypospolitej Polskiej oraz zapewnienia bezpieczeństwa statkom przechwytującym realizującym zadania wojskowego nadzoru przestrzeni powietrznej Rzeczypospolitej Polskiej,
     - **b)** zastosowania naziemnych środków systemu obrony powietrznej wobec statków powietrznych nieprzestrzegających przepisów wykonywania lotów obowiązujących w przestrzeni powietrznej Rzeczypospolitej Polskiej.
+
+**Art. 18bj.**
+
+1. Jeżeli umowy międzynarodowe, których Rzeczpospolita Polska jest stroną, nie stanowią inaczej, decyzję o opuszczeniu przestrzeni powietrznej Rzeczypospolitej Polskiej przez polskie statki przechwytujące oraz o przekroczeniu granicy państwowej i locie w przestrzeni powietrznej Rzeczypospolitej Polskiej przez wojskowe statki przechwytujące państwa Organizacji Traktatu Północnoatlantyckiego realizujące zadania w ramach Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego w celu przeciwdziałania wojskowym i cywilnym statkom powietrznym podejmuje Dyżurny Dowódca Obrony Powietrznej.
 
 2. Dyżurny Dowódca Obrony Powietrznej decyduje o wyborze lotniska, na które sprowadza się obce cywilne statki powietrzne i obce wojskowe statki powietrzne zmuszone do lądowania przez statki przechwytujące.
 
@@ -481,19 +527,33 @@ source: pdf
 
 9. W przypadku wykrycia obcego wojskowego statku powietrznego naruszającego przestrzeń powietrzną Rzeczypospolitej Polskiej właściwy organ dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego, w uzgodnieniu z Dyżurnym Dowódcą Obrony Powietrznej, może zdecydować o użyciu sił i środków wydzielonych do Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego tylko do działań określonych w art. 18b ust. 2.
 
-10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego. Art. 18bk. 1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony powietrznej, w tym przeciwlotniczej i przeciwrakietowej, wydzielone z Sił Zbrojnych Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
+10. Decyzję o zastosowaniu środków, o których mowa w art. 18b ust. 3, przez dyżurne siły i środki wydzielone do systemu obrony powietrznej Rzeczypospolitej Polskiej i Systemu Zintegrowanej Obrony Powietrznej i Przeciwrakietowej Organizacji Traktatu Północnoatlantyckiego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych. Decyzję tę Dyżurny Dowódca Obrony Powietrznej natychmiast przekazuje podległym dyżurnym siłom wydzielonym do systemu obrony powietrznej oraz właściwemu organowi dowodzenia obroną powietrzną Organizacji Traktatu Północnoatlantyckiego.
+
+**Art. 18bk.**
+
+1. Pociski rakietowe wystrzelone w kierunku terytorium Rzeczypospolitej Polskiej mogą być zniszczone przez wojskowe środki obrony powietrznej, w tym przeciwlotniczej i przeciwrakietowej, wydzielone z Sił Zbrojnych Rzeczypospolitej Polskiej lub sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego, które wykonują zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej.
 
 2. Decyzję o zniszczeniu pocisku rakietowego podejmuje Dowódca Operacyjny Rodzajów Sił Zbrojnych w formie rozkazu. Rozkaz wydaje się adekwatnie do zagrożenia, w granicach określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych, po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia i wynikającego z niego realnego i poważnego zagrożenia dla życia osób postronnych, w tym możliwych ofiar ataku.
 
 3. W przypadku utraty łączności z Dyżurnym Dowódcą Obrony Powietrznej lub w przypadku, gdy sytuacja nie pozwala na wydanie rozkazu, o którym mowa w ust. 2, decyzję o zniszczeniu pocisku rakietowego podejmuje dowódca wojskowych środków obrony powietrznej, o których mowa w ust. 1.
 
-4. W przypadku wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej przez wojskowe środki obrony powietrznej, o których mowa w ust. 1, które pracują w trybie automatycznego startu rakiet przechwytujących, Dowódca Operacyjny Rodzajów Sił Zbrojnych określi w rozkazie sposób niszczenia przez te środki pocisków rakietowych wystrzelonych w kierunku terytorium Rzeczypospolitej Polskiej. Art. 18bl. 1. Bezzałogowy statek powietrzny, który przekroczył granicę państwową i wykonuje lot w przestrzeni powietrznej Rzeczypospolitej Polskiej niezgodnie z obowiązującymi przepisami, może zostać zniszczony, unieruchomiony albo nad jego lotem może zostać przejęta kontrola.
+4. W przypadku wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej przez wojskowe środki obrony powietrznej, o których mowa w ust. 1, które pracują w trybie automatycznego startu rakiet przechwytujących, Dowódca Operacyjny Rodzajów Sił Zbrojnych określi w rozkazie sposób niszczenia przez te środki pocisków rakietowych wystrzelonych w kierunku terytorium Rzeczypospolitej Polskiej.
+
+**Art. 18bl.**
+
+1. Bezzałogowy statek powietrzny, który przekroczył granicę państwową i wykonuje lot w przestrzeni powietrznej Rzeczypospolitej Polskiej niezgodnie z obowiązującymi przepisami, może zostać zniszczony, unieruchomiony albo nad jego lotem może zostać przejęta kontrola.
 
 2. Decyzję o zastosowaniu środków, o których mowa w ust. 1, w sposób adekwatny do zagrożenia oraz w granicach zasad określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych wydaje w formie rozkazu Dowódca Operacyjny Rodzajów Sił Zbrojnych po rozpatrzeniu całokształtu okoliczności konkretnego zdarzenia oraz z uwzględnieniem nadrzędności ochrony życia osób postronnych. Uprawnienie to może być delegowane na dowódców podległych Dowódcy Operacyjnemu Rodzajów Sił Zbrojnych.
 
 3. W rozkazie, o którym mowa w ust. 2, wskazuje się uzbrojenie lub inny środek właściwy do wykonania zadania, którego użycie pozwoli zminimalizować ryzyko wystąpienia niepożądanych szkód.
 
-4. Do zniszczenia lub unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej. Art. 18bm. Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i 3 i art. 18bl ust. 2, oraz ich skutkach. Art. 18bn. Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770). Art. 18bo. Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.
+4. Do zniszczenia lub unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem można wykorzystywać środki niebędące na wyposażeniu Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+**Art. 18bm.** Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i 3 i art. 18bl ust. 2, oraz ich skutkach.
+
+**Art. 18bn.** Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770).
+
+**Art. 18bo.** Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.
 
 #### Rozdział 3a Przepisy karne
 

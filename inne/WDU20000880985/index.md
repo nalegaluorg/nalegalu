@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o referendum lokalnym
+# Ustawa z dnia 15 września 2000 r. o referendum lokalnym.
 
 *USTAWA z dnia 15 września 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2000-10-20 |
 | Ostatnia zmiana | 2025-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/985/text.pdf) |
-
-Art. 75–78. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -608,6 +606,8 @@ Art. 75–78. (pominięte)
 **Art. 74.** Do postępowania w sprawach, o których mowa w art. 69 i art. 72, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 10 Przepisy zmieniające i końcowe
+
+**Art. 75–78.** (pominięte)
 
 **Art. 79.** Traci moc ustawa z dnia 11 października 1991 r. o referendum gminnym (Dz. U. z 1996 r. poz. 386).
 

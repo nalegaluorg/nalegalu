@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 | Pole | Wartość |
 |---|---|
@@ -38,7 +38,6 @@ poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 24 sierpnia 2001 r.
 o Żandarmerii Wojskowej i wojskowych organach porządkowych
-Art. 54–68. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -518,11 +517,23 @@ Art. 54–68. (pominięte)
 
 5. Żołnierz Żandarmerii Wojskowej w nakazie i zakazie wskazuje obszar lub odległość od wspólnie zajmowanego mieszkania, którą osoba stosująca przemoc domową jest obowiązana zachować.
 
-6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych. Art. 18aa. 1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
+6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych.
 
-2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę. Art. 18ab. 1. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc domową stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, policjant ma prawo wydać nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wobec żołnierza pełniącego czynną służbę wojskową. Przepisy art. 15aa ust. 1 i art. 15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji stosuje się odpowiednio.
+**Art. 18aa.**
 
-2. W przypadku, o którym mowa w ust. 1, Policja wykonuje czynności wskazane w art. 15ab ust. 4, 9 i 11, art. 15ad ust. 1 i 1a, art. 15ae ust. 1 i 7 oraz art. 15ag ustawy z dnia 6 kwietnia 1990 r. o Policji. Art. 18ac. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
+
+2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
+
+**Art. 18ab.**
+
+1. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc domową stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, policjant ma prawo wydać nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wobec żołnierza pełniącego czynną służbę wojskową. Przepisy art. 15aa ust. 1 i art. 15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji stosuje się odpowiednio.
+
+2. W przypadku, o którym mowa w ust. 1, Policja wykonuje czynności wskazane w art. 15ab ust. 4, 9 i 11, art. 15ad ust. 1 i 1a, art. 15ae ust. 1 i 7 oraz art. 15ag ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+**Art. 18ac.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
 
 2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
 
@@ -1222,6 +1233,8 @@ Art. 54–68. (pominięte)
 2. Do żołnierzy wojskowych organów porządkowych, o których mowa w art. 45 ust. 2 i 3, stosuje się odpowiednio przepisy art. 51.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 54–68.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

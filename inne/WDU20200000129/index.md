@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o usługach detektywistycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach detektywistycznych
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 6 lipca 2001 r.
 o usługach detektywistycznych
-Art. 47–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -491,6 +490,8 @@ Art. 47–49. (pominięte)
 2. Tej samej karze podlega osoba wykonująca czynności detektywa w ramach prowadzonej działalności gospodarczej bez wymaganej licencji.
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 47–49.** (pominięte)
 
 **Art. 50.** (uchylony)
 

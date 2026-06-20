@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przetwarzaniu informacji kryminalnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przetwarzaniu informacji kryminalnych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 6 lipca 2001 r.
 o przetwarzaniu informacji kryminalnych
-Art. 45–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -348,6 +347,8 @@ Art. 45–75. (pominięte)
 **Art. 44.** Kto, wbrew przepisom ustawy, nie zarządza usunięcia bądź nie usuwa informacji kryminalnej z bazy danych Centrum, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 45–75.** (pominięte)
 
 **Art. 76.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
 

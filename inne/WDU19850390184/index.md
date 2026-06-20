@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowego trybu postępowania przed Trybunałem Konstytucyjnym Na podstawie art. 32 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz.U. Nr 22, poz. 98) Sejm Polskiej Rzeczypospolitej Ludowej uchwala, co następuje:
+# Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 31 lipca 1985 r. w sprawie szczegółowego trybu postępowania przed Trybunałem Konstytucyjnym.
 
 *UCHWAŁA Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 31 lipca 1985 r.*
 

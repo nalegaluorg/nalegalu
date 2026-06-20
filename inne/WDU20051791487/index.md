@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz ustawy - Karta Nauczyciela
+# Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o pomocy społecznej oraz ustawy - Karta Nauczyciela
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

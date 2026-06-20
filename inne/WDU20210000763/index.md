@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o przetwarzaniu informacji kryminalnych
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o przetwarzaniu informacji kryminalnych
 
 *USTAWA z dnia 12 maja 2022 r.*
 

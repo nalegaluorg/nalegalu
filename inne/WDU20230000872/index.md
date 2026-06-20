@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o produktach pochodzenia zwierzęcego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o produktach pochodzenia zwierzęcego
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 
@@ -251,7 +251,7 @@ source: pdf
 - **2)** substancji farmakologicznie czynnych dopuszczonych jako weterynaryjne produkty lecznicze lub jako dodatki paszowe do stosowania u zwierząt, z których lub od których pozyskuje się żywność;
 - **3)** substancji zanieczyszczających wymienionych w załączniku I do rozporządzenia Komisji (UE) 2023/915 z dnia 25 kwietnia 2023 r. w sprawie najwyższych dopuszczalnych poziomów niektórych zanieczyszczeń w żywności oraz uchylającego rozporządzenie (WE) nr 1881/2006 (Dz. Urz. UE L 119 z 05.05.2023, str. 103, z późn. zm. ) i w załączniku do rozporządzenia Komisji (WE) nr 124/2009 z dnia 10 lutego 2009 r. ustalającego maksymalne zawartości w żywności kokcydiostatyków i histomonostatyków pochodzących z nieuniknionego zanieczyszczenia krzyżowego tymi substancjami pasz, dla których nie są one przeznaczone (Dz. Urz. UE L 40 z 11.02.2009, str. 7, z późn. zm. );
 - **4)** pestycydów;
-- **5)** skażeń promieniotwórczych.>
+- **5)** skażeń promieniotwórczych.
 
 4. Za zwierzęta poddane ubojowi w rzeźni, w których tkankach lub narządach stwierdzono obecność substancji określonych w ust. 3 lub pozostałości produktów leczniczych w ilościach przekraczających dopuszczalne poziomy, określone na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 470/2009 z dnia 6 maja 2009 r. ustanawiającego wspólnotowe procedury określania maksymalnych limitów pozostałości substancji farmakologicznie czynnych w środkach spożywczych pochodzenia zwierzęcego oraz uchylającego rozporządzenie Rady (EWG) nr 2377/90 oraz zmieniającego dyrektywę 2001/82/WE Parlamentu Europejskiego i Rady i rozporządzenie (WE) nr 726/2004 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 152 z 16.06.2009, str. 11), nie przysługuje odszkodowanie.
 
@@ -690,7 +690,9 @@ source: pdf
 
 **Art. 29.** Egzekucja wymierzonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii. Art. 31–35. (pominięte)
+**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii.
+
+**Art. 31–35.** (pominięte)
 
 **Art. 36.** Ilekroć w przepisach w zakresie weterynarii wdrażających lub wykonujących przepisy Unii Europejskiej lub w ustawach dotyczących zdrowia zwierząt, wymagań weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz stosowania substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym, a także dotyczących zdrowia lub życia człowieka jest mowa o:
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
 
 | Pole | Wartość |
 |---|---|
@@ -451,7 +451,9 @@ o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
 
 3. Po przeprowadzeniu kontroli, o której mowa w ust. 1, upoważnieni pracownicy Instytutu mogą formułować wnioski i zalecenia pokontrolne.
 
-4. Instytut może odstąpić od umowy o wsparcie w przypadku wykorzystania wsparcia niezgodnie z przeznaczeniem lub nieterminowego bądź nienależytego wykonywania umowy o wsparcie, w tym zmniejszenia zakresu przedsięwzięcia objętego wsparciem stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych. Art. 27–29. (pominięte)
+4. Instytut może odstąpić od umowy o wsparcie w przypadku wykorzystania wsparcia niezgodnie z przeznaczeniem lub nieterminowego bądź nienależytego wykonywania umowy o wsparcie, w tym zmniejszenia zakresu przedsięwzięcia objętego wsparciem stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych.
+
+**Art. 27–29.** (pominięte)
 
 **Art. 30.** Tworzy się Instytut.
 

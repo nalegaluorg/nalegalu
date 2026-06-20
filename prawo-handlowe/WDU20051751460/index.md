@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach oraz ustawy o swobodzie działalności gospodarczej
+# Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o lasach oraz ustawy o swobodzie działalności gospodarczej
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

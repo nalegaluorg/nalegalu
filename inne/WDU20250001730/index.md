@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zawodach medycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zawodach medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 2) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 86–96 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), które stanowią: „Art. 86. W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850) uchyla się art. 78.
-Art. 86–96. (pominięte)
 
 **Art. 87.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123) w art. 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2–4 w brzmieniu: „2. Psychoterapia to celowe i planowane oddziaływania psychologiczne, zmierzające do złagodzenia lub usunięcia objawów zaburzenia oraz do poprawy funkcjonowania psychicznego i społecznego, wspierające dążenia jednostki lub rodziny do zdrowia i rozwoju, kierowane do osób z zaburzeniami psychicznymi. 3. Psychoterapię w ramach opieki, o której mowa w ust. 1, prowadzi:
 
@@ -139,7 +138,13 @@ Art. 86–96. (pominięte)
 
 5. CMKP redaguje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw zdrowia opracowany przez zespół ekspertów program kursu doskonalącego.
 
-6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie publikacji oraz informacji na swojej stronie internetowej. Art. 21ab. Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414). Art. 21ac. 1. Kurs doskonalący mogą prowadzić podmioty, które:
+6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie publikacji oraz informacji na swojej stronie internetowej.
+
+**Art. 21ab.** Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+
+**Art. 21ac.**
+
+1. Kurs doskonalący mogą prowadzić podmioty, które:
 
 - **1)** realizują program kursu doskonalącego, o którym mowa w art. 21aa;
 - **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje zgodne ze standardami, o których mowa w art. 21aa ust. 2 pkt 6;
@@ -222,7 +227,11 @@ Art. 86–96. (pominięte)
 
 22. Podmiot wpisany na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego jest obowiązany zgłaszać właściwemu wojewodzie termin i miejsce prowadzenia danego kursu, w terminie co najmniej 60 dni przed jego rozpoczęciem. Dyrektor CMKP zamieszcza informacje o terminie kursu doskonalącego na liście, o której mowa w ust. 21.
 
-23. Wojewoda niezwłocznie przesyła informacje, o których mowa w ust. 22, do CMKP. Art. 21ad. 1. Przebieg doskonalenia zawodowego dyspozytora medycznego dokumentuje się w karcie doskonalenia zawodowego.
+23. Wojewoda niezwłocznie przesyła informacje, o których mowa w ust. 22, do CMKP.
+
+**Art. 21ad.**
+
+1. Przebieg doskonalenia zawodowego dyspozytora medycznego dokumentuje się w karcie doskonalenia zawodowego.
 
 2. Kartę doskonalenia zawodowego na wniosek dyspozytora medycznego wydaje wojewoda właściwy ze względu na miejsce zamieszkania dyspozytora medycznego, a w przypadku gdy nie jest możliwe ustalenie właściwego wojewody – Wojewoda Mazowiecki.
 
@@ -245,7 +254,13 @@ Art. 86–96. (pominięte)
 - **6)** datę rozpoczęcia okresu edukacyjnego;
 - **7)** informację o terminach i miejscach odbycia doskonalenia zawodowego;
 - **8)** nazwę i adres podmiotu przeprowadzającego kurs doskonalący;
-- **9)** informację o dopełnieniu obowiązku doskonalenia zawodowego. Art. 21ae. Koszty doskonalenia zawodowego ponosi dyspozytor medyczny lub podmiot, u którego dyspozytor medyczny wykonuje zawód, lub jednostka prowadząca szkolenie. Art. 21af. Podmiot, u którego dyspozytor medyczny wykonuje zawód, jest obowiązany ułatwić dyspozytorowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego. Art. 21ag. Dyspozytor medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 21aa ust. 1.”.
+- **9)** informację o dopełnieniu obowiązku doskonalenia zawodowego.
+
+**Art. 21ae.** Koszty doskonalenia zawodowego ponosi dyspozytor medyczny lub podmiot, u którego dyspozytor medyczny wykonuje zawód, lub jednostka prowadząca szkolenie.
+
+**Art. 21af.** Podmiot, u którego dyspozytor medyczny wykonuje zawód, jest obowiązany ułatwić dyspozytorowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego.
+
+**Art. 21ag.** Dyspozytor medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 21aa ust. 1.”.
 
 **Art. 94.** W ustawie z dnia 13 września 2018 r. o Centrum Medycznym Kształcenia Podyplomowego (Dz. U. z 2021 r. poz. 77) w art. 3 ust. 4 otrzymuje brzmienie: „4. CMKP samodzielnie organizuje i realizuje elementy kształcenia podyplomowego lekarzy, lekarzy dentystów, farmaceutów, fizjoterapeutów, diagnostów laboratoryjnych, ratowników medycznych, innych osób legitymujących się dyplomem ukończenia studiów, które wykonują zawody mające zastosowanie w ochronie zdrowia, oraz osób wykonujących zawody medyczne, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), z wyłączeniem kształcenia podyplomowego pielęgniarek i położnych oraz praktyki technika farmaceutycznego w aptece odbytej zgodnie z przepisami wydanymi na podstawie art. 91 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938).”.
 
@@ -1408,6 +1423,8 @@ Art. 86–96. (pominięte)
 **Art. 85.** Orzekanie w sprawach o czyny, o których mowa w art. 84, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 86–96.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące, przejściowe i końcowe
 

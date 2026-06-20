@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ewidencji ludności
+# Ustawa z dnia 24 września 2010 r. o ewidencji ludności
 
 *USTAWA z dnia 24 września 2010 r.*
 
@@ -600,8 +600,7 @@ source: pdf
 1. Obywatel polski dokonuje zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci:
 
 - **1)** papierowej – na formularzu opatrzonym własnoręcznym podpisem, w organie gminy właściwym ze względu na położenie nieruchomości, w której zamieszkuje, przedstawiając do wglądu dowód osobisty lub paszport, albo
-- **2)** elektronicznej – na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz.
-- **3)** .
+- **2)** elektronicznej – na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3).
 
 2. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci papierowej przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu na formularzu zgłoszenia pobytu stałego lub formularzu zgłoszenia pobytu czasowego, oraz – do wglądu – dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu.
 
@@ -1201,9 +1200,13 @@ source: pdf
 
 2b. Podmiotom, o których mowa w art. 46 ust. 2 pkt 4 i 5, udostępnia się, w sposób i na warunkach określonych w ust. 1, dane obejmujące numer PESEL, datę urodzenia, miejsce urodzenia, płeć, imię (imiona), nazwisko, nazwisko rodowe.
 
-3. Udostępnianie danych w drodze weryfikacji, o której mowa w ust. 1, polega na porównaniu przekazanych danych z danymi zawartymi w rejestrze PESEL. Wynikiem udostępniania danych w tym trybie jest potwierdzenie zgodności przekazanych danych albo raport niezgodności danych. <Art. 49a. 1. Podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, spółdzielczym kasom oszczędnościowo-kredytowym, Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, firmom inwestycyjnym, o których mowa w art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), lub towarzystwom funduszy inwestycyjnych, o których mowa w art. 2 pkt 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), udostępnia się odpłatnie z rejestru PESEL dane o seriach, numerach i datach ważności ważnych dowodów osobistych ich klientów, wydanych na skutek zmiany dowodu osobistego, odpowiednio na warunkach określonych w art. 48 ust. 1 pkt 1 i 2, w celu weryfikacji aktualności i aktualizacji tych danych.
+3. Udostępnianie danych w drodze weryfikacji, o której mowa w ust. 1, polega na porównaniu przekazanych danych z danymi zawartymi w rejestrze PESEL. Wynikiem udostępniania danych w tym trybie jest potwierdzenie zgodności przekazanych danych albo raport niezgodności danych.
 
-2. Podmiotom, o których mowa w ust. 1, dane mogą być udostępniane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.>
+**Art. 49a.**
+
+1. Podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, spółdzielczym kasom oszczędnościowo-kredytowym, Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, firmom inwestycyjnym, o których mowa w art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), lub towarzystwom funduszy inwestycyjnych, o których mowa w art. 2 pkt 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), udostępnia się odpłatnie z rejestru PESEL dane o seriach, numerach i datach ważności ważnych dowodów osobistych ich klientów, wydanych na skutek zmiany dowodu osobistego, odpowiednio na warunkach określonych w art. 48 ust. 1 pkt 1 i 2, w celu weryfikacji aktualności i aktualizacji tych danych.
+
+2. Podmiotom, o których mowa w ust. 1, dane mogą być udostępniane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 **Art. 50.**
 
@@ -1328,7 +1331,9 @@ source: pdf
 
 2. Ilekroć w dotychczasowych przepisach jest mowa o gminnych zbiorach meldunkowych, zbiorach meldunkowych, zbiorach danych stałych mieszkańców, należy przez to rozumieć rejestry mieszkańców.
 
-**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r. Art. 74–79. (uchylone)
+**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r.
+
+**Art. 74–79.** (uchylone)
 
 **Art. 80.** Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem art. 62, który wchodzi w życie z dniem 1 stycznia 2013 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przydziału, ewidencjonowania i przechowywania pałek oraz ręcznych miotaczy gazowych w Na podstawie art. 51 ust. 2 pkt 1 ustawy z dnia 27 czerwca 1997 (Dz.U. Nr 96, poz. 591 i z 1998 r. Nr 106, poz. 668) zarządza
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 28 grudnia 1998 r. w sprawie przydziału, ewidencjonowania i przechowywania broni, amunicji, kajdanek, pałek oraz ręcznych miotaczy gazowych w zarządzie kolei.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kierujących pojazdami oraz ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 13 stycznia 2012 r. o zmianie ustawy o kierujących pojazdami oraz ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 13 stycznia 2012 r.*
 

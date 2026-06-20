@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+# Ustawa z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 *USTAWA z dnia 21 listopada 2001 r.*
 
@@ -254,15 +254,7 @@ source: pdf
 - **1)** została rozwiązana przed upływem okresu, na który została zawarta, bez względu na przyczynę tego rozwiązania,
 - **2)** przewiduje możliwość wypłaty całości lub części kapitału, w tym z tytułu skapitalizowanych odsetek, zgromadzonego przez podatnika w trakcie trwania umowy, a podatnik z tej możliwości skorzystał.
 
-6. W przypadku, o którym mowa w ust. 5, podmiot uprawniony na podstawie odrębnych przepisów do prowadzenia rachunku podatnika albo do gromadzenia środków pieniężnych podatnika w innych formach oszczędzania, przechowywania lub inwestowania, pobiera podatek, o którym mowa w art. 30 ust. 1 pkt 1b, w dniu rozwiązania umowy albo wypłaty całości lub części kapitału, o którym mowa w ust. 5 pkt 2. Przepis ust. 3 i art. 42 stosuje się odpowiednio, z tym że podatek pobiera się od sumy dochodów (przychodów) uzyskanych począwszy od dnia 1 marca 2002 r. [Art. 52b. 1. W okresie od dnia 1 stycznia 2002 r. do dnia 31 grudnia 2003 r. podlegają opodatkowaniu kwoty stanowiące obrót kapitałowy w rozumieniu przepisów prawa dewizowego, przekazywane za granicę przez osoby fizyczne.
-
-2. Zryczałtowany podatek jest pobierany w dniu przekazywania za granicę kwoty, o której mowa w ust. 1 i wynosi 2% tej kwoty.
-
-3. Do poboru zryczałtowanego podatku w wysokości określonej w ust. 2 są obowiązane instytucje finansowe działające zgodnie z przepisami prawa dewizowego, przekazujące kwoty, o których mowa w ust. 1. W razie braku możliwości pobrania podatku stosuje się odpowiednio przepis art. 41 ust. 7.
-
-4. Jeżeli kwoty, o których mowa w ust. 1, są przekazywane za granicę bez pośrednictwa instytucji wymienionych w ust. 3, do obliczenia i wpłaty podatku, zgodnie z ust. 1 i 2, jest obowiązany podatnik przekazujący te kwoty.
-
-5. W zakresie wpłat zryczałtowanego podatku dochodowego stosuje się przepisy art. 42 ust. 1 pkt 2 i ust. 2 pkt 2.] ”. Ad. art. 52b wyrok TK - Dz.U. z 2002 r. Nr 78, poz. 715 - niezgodny z Konstytucją.
+6. W przypadku, o którym mowa w ust. 5, podmiot uprawniony na podstawie odrębnych przepisów do prowadzenia rachunku podatnika albo do gromadzenia środków pieniężnych podatnika w innych formach oszczędzania, przechowywania lub inwestowania, pobiera podatek, o którym mowa w art. 30 ust. 1 pkt 1b, w dniu rozwiązania umowy albo wypłaty całości lub części kapitału, o którym mowa w ust. 5 pkt 2. Przepis ust. 3 i art. 42 stosuje się odpowiednio, z tym że podatek pobiera się od sumy dochodów (przychodów) uzyskanych począwszy od dnia 1 marca 2002 r. Ad. art. 52b wyrok TK - Dz.U. z 2002 r. Nr 78, poz. 715 - niezgodny z Konstytucją.
 
 **Art. 2.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz.U. Nr 144, poz. 930, z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324 oraz z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961 i Nr 125, poz. 1363 i 1369) wprowadza się następujące zmiany:
 
@@ -349,7 +341,9 @@ source: pdf
 
 2. W zakresie ustalenia skali podatku dochodowego na 2002 r. nie ma zastosowania art. 27 ust. 4 ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2002 r.
 
-**Art. 12.** Minister właściwy do spraw finansów publicznych ogłasza, do dnia 31 grudnia roku poprzedzającego rok podatkowy 2002, 2003 i 2004, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r., oraz wysokość kwoty, o której mowa w art. 27a ust. 2 ustawy wymienionej w art. 1, w brzmieniu obowiązującym w latach 1997-2001 <, z zastrzeżeniem art. 12a>. <Art. 12a. W latach 2003-2004 wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 27a ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2001 nie może ulec zmniejszeniu. W tym celu dla ustalenia wysokości kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 27a ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2001 przyjmuje się najwyższy w okresie obowiązywania ustawy wskaźnik przeliczeniowy 1 m powierzchni użytkowej budynku mieszkalnego, ustalonego do celów obliczania premii gwarancyjnej od wkładów na oszczędnościowych książeczkach mieszkaniowych za III kwartał.>
+**Art. 12.** Minister właściwy do spraw finansów publicznych ogłasza, do dnia 31 grudnia roku poprzedzającego rok podatkowy 2002, 2003 i 2004, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r., oraz wysokość kwoty, o której mowa w art. 27a ust. 2 ustawy wymienionej w art. 1, w brzmieniu obowiązującym w latach 1997-2001 <, z zastrzeżeniem art. 12a>.
+
+**Art. 12a.** W latach 2003-2004 wysokość kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 27a ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2001 nie może ulec zmniejszeniu. W tym celu dla ustalenia wysokości kwoty, o której mowa w art. 26 ust. 3 ustawy wymienionej w art. 1 w brzmieniu obowiązującym przed dniem 1 stycznia 1997 r. oraz w art. 27a ust. 2 ustawy wymienionej w art. 1 w brzmieniu obowiązującym w latach 1997-2001 przyjmuje się najwyższy w okresie obowiązywania ustawy wskaźnik przeliczeniowy 1 m powierzchni użytkowej budynku mieszkalnego, ustalonego do celów obliczania premii gwarancyjnej od wkładów na oszczędnościowych książeczkach mieszkaniowych za III kwartał.
 
 **Art. 13.** Dotychczasowe akty wykonawcze zachowują moc do czasu wydania aktów wykonawczych na podstawie upoważnień ustawowych zmienianych niniejszą ustawą.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach aptekarskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach aptekarskich
 
 | Pole | Wartość |
 |---|---|
@@ -778,7 +778,9 @@ o izbach aptekarskich
 
 **Art. 69.** Uprawnienia ministra właściwego do spraw zdrowia, o których mowa w art. 13 ust. 1 i 2 niniejszej ustawy i art. 24 ust. 3 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, przysługują odpowiednio Ministrowi Obrony Narodowej.
 
-**Art. 70.** Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”. Art. 71–77. (pominięte)
+**Art. 70.** Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”.
+
+**Art. 71–77.** (pominięte)
 
 **Art. 78.** (uchylony)
 

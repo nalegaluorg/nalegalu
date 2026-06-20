@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 listopada 2018 r.*
 
@@ -793,7 +793,11 @@ source: pdf
 
 - **1)** w art. 19 w § 3 wyrazy „pkt 2 i 4” zastępuje się wyrazami „pkt 2, 4 i 4a”;
 - **2)** w art. 119l po wyrazach „art. 49” dodaje się wyrazy „ , art. 49b”;
-- **3)** po art. 284a dodaje się art. 284aa i art. 284ab w brzmieniu: „Art. 284aa. W przypadku gdy kontrolowana spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki. Art. 284ab. § 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
+- **3)** po art. 284a dodaje się art. 284aa i art. 284ab w brzmieniu: „Art. 284aa. W przypadku gdy kontrolowana spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki.
+
+**Art. 284ab.**
+
+§ 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
 
 § 2. W przypadku gdy podatkowa grupa kapitałowa utraciła status podatnika, prowadzi się jedną kontrolę podatkową wobec spółek wchodzących w skład tej grupy. Upoważnienie do kontroli podatkowej doręcza się spółkom wchodzącym w skład podatkowej grupy kapitałowej przed utratą statusu podatnika.
 

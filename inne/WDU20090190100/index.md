@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o partnerstwie publiczno-prywatnym
+# Ustawa z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-02-05 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090190100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.pdf) |
-
-Art. 19–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -333,6 +331,8 @@ Art. 19–35. (pominięte)
 2. Minister właściwy do spraw rozwoju regionalnego w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego może określić, w drodze rozporządzenia, zakres poszczególnych rodzajów ryzyka oraz czynniki uwzględniane przy ich ocenie, mając na względzie zapewnienie przejrzystości poszczególnych rodzajów ryzyka.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 19–35.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Ośrodku Wsparcia Rolnictwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowym Ośrodku Wsparcia Rolnictwa
 
 | Pole | Wartość |
 |---|---|

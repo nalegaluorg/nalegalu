@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
+# Ustawa z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
 
 *USTAWA z dnia 28 listopada 2003 r.*
 
@@ -144,7 +144,9 @@ source: pdf
 
 2. Zadania, o których mowa w ust. 1, mogą być również realizowane przez podmioty inne niż wskazane w ust. 1.
 
-3. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki, sposób i tryb prowadzenia szkoleń dla podmiotów, których dotyczą działania objęte planem, oraz doradzania w zakresie sporządzania dokumentacji niezbędnej do uzyskania pomocy, mając na względzie zapewnienie prawidłowej realizacji planu. Art. 10–13. (pominięte)
+3. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki, sposób i tryb prowadzenia szkoleń dla podmiotów, których dotyczą działania objęte planem, oraz doradzania w zakresie sporządzania dokumentacji niezbędnej do uzyskania pomocy, mając na względzie zapewnienie prawidłowej realizacji planu.
+
+**Art. 10–13.** (pominięte)
 
 **Art. 14.**
 

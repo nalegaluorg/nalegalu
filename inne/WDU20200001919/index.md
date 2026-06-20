@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy budżetowej na rok 2020
+# Ustawa z dnia 28 października 2020 r. o zmianie ustawy budżetowej na rok 2020
 
 *USTAWA z dnia 28 października 2020 r.*
 

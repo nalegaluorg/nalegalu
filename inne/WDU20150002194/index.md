@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
+# Ustawa z dnia 16 grudnia 2015 r. zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
 
 *USTAWA z dnia 16 grudnia 2015 r.*
 

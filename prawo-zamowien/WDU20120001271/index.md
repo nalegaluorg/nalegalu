@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o koncesji na roboty budowlane lub usługi
+# Ustawa z dnia 12 października 2012 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o koncesji na roboty budowlane lub usługi
 
 *USTAWA z dnia 12 października 2012 r.*
 

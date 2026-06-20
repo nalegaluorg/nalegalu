@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+# Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
 
 *USTAWA z dnia 19 grudnia 2008 r.*
 

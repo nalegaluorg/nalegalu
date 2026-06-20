@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis
+# Ustawa z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis
 
 *USTAWA z dnia 18 października 2024 r.*
 

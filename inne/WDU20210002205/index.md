@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców
 
 | Pole | Wartość |
 |---|---|

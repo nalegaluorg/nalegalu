@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze
+# Ustawa z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze
 
 *USTAWA z dnia 26 kwietnia 2024 r.*
 

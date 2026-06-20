@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
+# Ustawa z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
 
 *USTAWA z dnia 29 października 2021 r.*
 

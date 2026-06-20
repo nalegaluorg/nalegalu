@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawa z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym
 
 *USTAWA z dnia 23 listopada 2012 r.*
 
@@ -26,147 +26,6 @@ source: pdf
 | Data wydania | 2013-01-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/70/text.pdf) |
-
-Art. 208zc. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie, z wyłączeniem art. 208t ust. 4.
-2. Zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, w odniesieniu do krajowego funduszu przejmowanego są udzielane odpowiednio na:
-1) połączenie transgraniczne przez przejęcie funduszu krajowego albo
-2) połączenie transgraniczne przez utworzenie funduszu zagranicznego.
-3. Połączenie transgraniczne przez utworzenie funduszu zagranicznego dochodzi do skutku pod warunkiem wyrażenia przez właściwe organy nadzoru państwa członkowskiego zgody na utworzenie funduszu zagranicznego, który ma być funduszem przejmującym, chyba że w przypadku zagranicznego subfunduszu przejmującego, zgoda taka nie jest wymagana.
-Art. 208zd. 1. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych tytułów uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
-3) w przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego – statut, prospekt informacyjny oraz kluczowe informacje dla inwestorów funduszu przejmującego, a jeżeli przewiduje to prawo państwa macierzystego funduszu przejmującego – także wskazanie wartości początkowej tytułu uczestnictwa tego funduszu.
-2. W przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego plan połączenia sporządzają i podpisują fundusze przejmowane i podmiot uprawniony do reprezentowania funduszu przejmującego zgodnie z prawem państwa macierzystego tego funduszu.
-Art. 208ze. 1. Do wniosku o udzielenie zgody:
-1) na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego załącza się dodatkowo statut, prospekt informacyjny, kluczowe informacje dla inwestorów funduszu przejmującego oraz zmiany tych dokumentów;
-2) na połączenie transgraniczne przez utworzenie funduszu zagranicznego załącza się dodatkowo dokument informacyjny funduszu przejmującego, jeżeli jego sporządzenie przewiduje prawo państwa macierzystego tego funduszu.
-2. Dokument informacyjny funduszu przejmowanego powinien zawierać dodatkowo wskazanie różnic w zakresie zasad sprawozdawczości okresowej tego funduszu i funduszu przejmującego, informację o spodziewanym wpływie połączenia na sposób opodatkowania dochodów z inwestycji w fundusz, a także informację o dopłacie w środkach pieniężnych, jeżeli dokonanie takiej dopłaty przez fundusz przejmujący będzie konieczne. Dopłata nie może przewyższać 10% wartości aktywów netto funduszu przejmowanego przypadających na jednostki uczestnictwa danego uczestnika.
-3. Do wniosku, o którym mowa w ust. 1, dołącza się także jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów na język urzędowy albo jeden z języków urzędowych państwa macierzystego funduszu przejmującego.
-4. Niezwłocznie po otrzymaniu wniosku, Komisja przekazuje jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów do właściwego organu państwa macierzystego funduszu przejmującego.
-5. Komisja może, w terminie 10 dni roboczych od otrzymania wniosku, zażądać:
-1) uzupełnienia dokumentów, które zgodnie z ust. 1 i 3 załącza się do wniosku;
-2) przekazania dodatkowych informacji lub dokumentów pozwalających na dokonanie oceny zgodności łączenia funduszy z przepisami prawa lub interesem uczestników łączących się funduszy;
-3) rozszerzenia lub zmiany informacji zawartych w dokumencie informacyjnym funduszu przejmowanego, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmowanego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
-6. Komisja rozpoznaje wniosek i informuje o swojej decyzji towarzystwo będące organem funduszu przejmowanego w terminie 20 dni roboczych od dnia jego złożenia. W przypadku, o którym mowa w ust. 5, bieg tego terminu rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję informacji lub dokumentów, zgodnie z żądaniem Komisji.
-7. W przypadku gdy właściwy organ państwa macierzystego funduszu przejmującego zażądał od funduszu przejmującego dokonania zmian w dokumencie informacyjnym tego funduszu, od dnia poinformowania Komisji o tym przez ten organ, bieg terminu, o którym mowa w ust. 6, ulega zawieszeniu do czasu uzyskania przez Komisję od tego organu informacji, czy zgłasza on zastrzeżenia do dokumentu informacyjnego funduszu przejmującego po dokonaniu przez ten fundusz zmian w tym dokumencie.
-8. Komisja odmawia zgody na połączenie transgraniczne przez przejęcie funduszu krajowego albo na połączenie transgraniczne przez utworzenie funduszu zagranicznego, w przypadku gdy:
-1) załączone do wniosku dokumenty nie są zgodne pod względem treści lub formy z przepisami prawa;
-2) wnioskodawca nie uzupełnił lub nie przekazał informacji lub dokumentów zgodnie z żądaniem, o którym mowa w ust. 5;
-3) właściwy organ państwa macierzystego funduszu przejmującego zgłosił zastrzeżenia do dokumentu informacyjnego funduszu przejmującego;
-4) planowane połączenie jest sprzeczne z przepisami prawa lub statutem funduszu przejmowanego;
-5) fundusz przejmujący nie posiada uprawnienia do zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej lub na terytorium państw członkowskich, na terytorium których fundusz przejmowany zbywa jednostki uczestnictwa.
-9. Zgoda Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego nie zawiera rozstrzygnięcia w przedmiocie zatwierdzenia dokumentu informacyjnego funduszu przejmującego.
-10. O wydaniu decyzji w sprawie wniosku, o którym mowa w ust. 1, Komisja informuje właściwy organ państwa macierzystego funduszu przejmującego.
-Art. 208zf. 1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego. Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
-2. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego tytułów uczestnictwa funduszu przejmującego podmiot uprawniony do badania sprawozdań finansowych funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz ustalenia wartości aktywów netto łączących się funduszy oraz
-2) obliczenia stosunku wymiany oraz wysokości dopłat dla uczestników funduszu przejmowanego.
-3. Fundusz przejmowany niezwłocznie publikuje opinię, o której mowa w ust. 2, na stronach internetowych wskazanych w statucie funduszu, udostępnia ją bezpłatnie uczestnikom tego funduszu oraz przekazuje Komisji.
-Art. 208zg. 1. Do ustalenia dnia połączenia stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
-2. Z dniem połączenia fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
-1) uczestnicy funduszu przejmowanego stają się uczestnikami funduszu przejmującego;
-2) aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego.
-3. Z dniem połączenia uczestnicy funduszu przejmującego nabywają uprawnienie do dopłaty wynikającej ze stosunku wymiany, jeżeli jest ona przewidziana w dokumencie informacyjnym zgodnie z art. 208ze ust. 2.
-4. W okresie od dnia przydziału, o którym mowa w art. 208zf ust. 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
-Art. 208zh. Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72 niezwłocznie po dniu połączenia, chyba że przepisy prawa państwa macierzystego funduszu przejmującego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zi. 1. Towarzystwo będące organem funduszu przejmowanego składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych niezwłocznie po dniu połączenia.
-2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
-1) zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego albo przez utworzenie funduszu zagranicznego;
-2) opinię, o której mowa w art. 208zf ust. 2.
-3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
-Art. 208zj. 1. Towarzystwo będące organem funduszu przejmowanego niezwłocznie zawiadamia fundusz przejmujący o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
-2. Towarzystwo będące organem funduszu przejmowanego zamieszcza na stronach internetowych wskazanych w statucie funduszu informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje Komisję o dokonanym połączeniu.
-Art. 208zk. 1. Jeżeli połączenie transgraniczne przez przejęcie funduszu krajowego ma nastąpić przez przeniesienie na fundusz przejmujący wyłącznie aktywów netto funduszu przejmowanego, fundusz przejmowany:
-1) na podstawie wyceny aktywów funduszu dokonanej w dniu poprzedzającym dzień obliczenia stosunku wymiany ustala wartość aktywów netto oraz
-2) przenosi na fundusz przejmujący aktywa netto, w terminie i w sposób określony przepisami prawa państwa macierzystego funduszu przejmującego.
-2. Po przeniesieniu, o którym mowa w ust. 1 pkt 2, w funduszu przejmowanym mogą pozostać wyłącznie środki pieniężne na rachunkach bankowych lub instrumenty rynku pieniężnego, o których mowa w art. 93.
-3. W dniu przeniesienia, o którym mowa w ust. 1 pkt 2, uczestnikom funduszu przejmowanego w zamian za jednostki uczestnictwa funduszu przejmowanego fundusz przejmujący przydziela tytuły uczestnictwa funduszu przejmującego, zgodnie ze stosunkiem wymiany ustalonym na podstawie wyceny aktywów funduszu przejmowanego i funduszu przejmującego z dnia poprzedzającego dzień przydziału.
-Art. 208zl. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie.
-2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-Art. 208zm. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego.
-Art. 208zn. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie.
-2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany – również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-Art. 208zo. Niezwłocznie po podpisaniu planu połączenia krajowy fundusz przejmujący informuje Komisję o zamiarze połączenia, przedstawiając dokument informacyjny tego funduszu i plan połączenia.
-Art. 208zp. 1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego wymaga zatwierdzenia przez Komisję dokumentu informacyjnego krajowego funduszu przejmującego. Zatwierdzenie dokumentu następuje w postępowaniu określonym w ust. 2–7 albo w postępowaniu w sprawie wydania zgody Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
-2. Postępowanie w sprawie zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego jest wszczynane w dniu otrzymania przez Komisję od właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego, przetłumaczonych na język polski:
-1) wniosku zagranicznego funduszu przejmowanego o udzielenie przez właściwe organy państwa macierzystego zgody na połączenie z krajowym funduszem przejmującym;
-2) dokumentu informacyjnego zagranicznego funduszu przejmowanego i dokumentu informacyjnego krajowego funduszu przejmującego;
-3) planu połączenia;
-4) oświadczeń złożonych przez depozytariusza krajowego funduszu przejmującego i depozytariusza zagranicznego funduszu przejmowanego, że po zweryfikowaniu przez każdego z nich warunków połączenia, depozytariusz stwierdza, że planowane połączenie funduszy jest zgodne z przepisami prawa i statutem funduszu, dla którego pełni on funkcję depozytariusza.
-3. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, Komisja może zażądać od funduszu przejmującego zmiany lub rozszerzenia informacji zawartych w dokumencie informacyjnym, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmującego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
-4. Komisja w terminie 20 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, w drodze decyzji:
-1) zatwierdza dokument informacyjny funduszu przejmującego albo
-2) odmawia jego zatwierdzenia – i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
-5. W przypadku, o którym mowa w ust. 3, bieg terminu, o którym mowa w ust. 4, rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję żądanych informacji.
-6. Komisja może odmówić zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego w przypadku nieudzielenia przez ten fundusz odpowiedzi zgodnie z żądaniem, o którym mowa w ust. 3, lub gdy poprawiony dokument informacyjny nie spełnia wymogów określonych w ustawie.
-7. Komisja informuje niezwłocznie właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego o przesłaniu do funduszu krajowego żądania, o którym mowa w ust. 3.
-8. Jeżeli w połączeniu bierze udział więcej niż jeden zagraniczny fundusz przejmowany, Komisja informuje właściwe organy państwa macierzystego funduszu zagranicznego, po otrzymaniu od tych organów dokumentów, o których mowa w ust. 2, obejmujących dokument informacyjny funduszu przejmującego o tej samej treści co dokument będący przedmiotem decyzji, o której mowa w ust. 4, o zatwierdzeniu albo odmowie zatwierdzenia tego dokumentu.
-Art. 208zr. Niezwłocznie po powzięciu informacji o uzyskaniu pierwszej ze zgód właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie, o planowanym połączeniu zawiadamia się uczestników krajowego funduszu przejmującego, wysyłając zawiadomienie, o którym mowa w art. 208o ust. 2.
-Art. 208zs. 1. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, w którym zgodnie z planem połączenia bierze udział więcej niż jeden fundusz przejmowany, dzień obliczenia stosunku wymiany dla kolejnego funduszu przejmowanego nie może przypadać przed dniem wydania opinii przez podmiot uprawniony do badania sprawozdań finansowych, o której mowa w art. 208zt ust. 1.
-2. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, gdy subfundusz przejmujący jest nowo tworzony, dla każdego funduszu przejmowanego obowiązuje ten sam dzień obliczenia stosunku wymiany.
-Art. 208zt. 1. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego podmiot uprawniony do badania sprawozdań finansowych funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz
-2) obliczenia stosunku wymiany.
-2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom. Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
-Art. 208zu. 1. Dniem połączenia jest pierwszy dzień roboczy następujący po dniu przydziału. Z tym dniem krajowy fundusz przejmujący, z zastrzeżeniem art. 205 ust. 2, wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
-1) aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego;
-2) wpis uczestników funduszu przejmowanego do rejestru uczestników funduszu przejmującego wywołuje skutek prawny.
-2. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zw. 1. Niezwłocznie po dniu połączenia towarzystwo będące organem funduszu przejmowanego składa do sądu rejestrowego wniosek o wykreślenie tego funduszu z rejestru funduszy inwestycyjnych.
-2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
-1) zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego;
-2) opinię, o której mowa w art. 208zt ust. 1.
-3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
-Art. 208zy. Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
-Art. 208zz. 1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez utworzenie funduszu krajowego stosuje się odpowiednio przepisy o połączeniu krajowym przez utworzenie funduszu krajowego oraz przepisy o utworzeniu funduszu inwestycyjnego otwartego.
-2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu, zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez utworzenie funduszu krajowego.
-3. Połączenie transgraniczne przez utworzenie funduszu krajowego wymaga uzyskania zezwolenia Komisji na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, zgodnie z przepisami art. 22 i art. 23. Jeżeli w połączeniu transgranicznym przez utworzenie funduszu krajowego bierze udział krajowy fundusz przejmowany, zezwolenie to powinno być uzyskane przed uzyskaniem przez ten fundusz zgody Komisji zgodnie z ust. 2. Plan połączenia sporządza się niezwłocznie po uzyskaniu zezwolenia.
-Art. 208zza. 1. W statucie funduszu inwestycyjnego, który ma być funduszem przejmującym, załączanym do wniosku o wydanie zezwolenia na utworzenie funduszu inwestycyjnego, wskazuje się, że fundusz powstanie na skutek połączenia transgranicznego przez utworzenie funduszu krajowego.
-2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30. Wpłaty do funduszu przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
-3. Towarzystwo informuje fundusz przejmowany o uzyskaniu zezwolenia na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie po jego doręczeniu.
-Art. 208zzb. 1. Zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, wygasa, jeżeli w terminie 6 miesięcy od dnia jego doręczenia, towarzystwo nie złoży wniosku o wpisanie tego funduszu do rejestru funduszy inwestycyjnych w związku z połączeniem.
-2. Zezwolenie nie wygasa zgodnie z ust. 1, jeżeli w terminie 3 miesięcy od dnia powzięcia przez towarzystwo informacji o:
-1) odmowie udzielenia zagranicznemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody na połączenie przez właściwe organy jego państwa macierzystego,
-2) odmowie udzielenia krajowemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego,
-3) braku zgody właściwego organu zagranicznego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie to nie dojdzie do skutku, jeżeli zgoda taka jest wymagana przez prawo jego państwa macierzystego,
-4) podjęciu przez zgromadzenie uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
-5) nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2 i 3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
-Art. 208zzc. Plan połączenia zawiera dodatkowo:
-1) wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
-2) wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
-3) statut, prospekt informacyjny oraz kluczowe informacje dla inwestorów funduszu przejmującego.
-Art. 208zzd. 1. Połączenie transgraniczne przez utworzenie funduszu krajowego dochodzi do skutku pod warunkiem uzyskania przez co najmniej:
-1) dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu – zgody właściwych organów tego funduszu na połączenie albo
-2) jeden:
-a) zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie oraz
-b) krajowy fundusz przejmowany zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez utworzenie funduszu krajowego.
-2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1 pkt 1, przez więcej niż dwa fundusze zagraniczne lub zgód, o których mowa w ust. 1 pkt 2, przez więcej niż jeden fundusz zagraniczny lub więcej niż jeden krajowy fundusz przejmowany.
-Art. 208zze. 1. Fundusz przejmowany jest obowiązany niezwłocznie poinformować towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o tym, że:
-1) właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona – w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
-2) nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody – w przypadku funduszu przejmowanego będącego funduszem krajowym.
-2. Komisja informuje towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o udzieleniu zagranicznemu funduszowi przejmowanemu przez właściwe organy jego państwa macierzystego zgody na połączenie albo o odmowie jej udzielenia oraz o udzieleniu krajowemu funduszowi przejmowanemu zgody na połączenie transgraniczne przez utworzenie funduszu krajowego albo odmowie jej udzielenia.
-Art. 208zzf. 1. Niezwłocznie po dokonaniu przydziału podmiot uprawniony do badania sprawozdań finansowych funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
-1) ostatecznej wyceny aktywów oraz
-2) obliczenia stosunku wymiany.
-2. Towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statutach funduszu. Fundusz przejmowany bezpłatnie udostępnia opinię swoim uczestnikom, a towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie przekazuje ją Komisji.
-Art. 208zzg. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
-Art. 208zzh. Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.”;
-57) w art. 219 ust. 1 otrzymuje brzmienie: „1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mają obowiązek publikowania prospektów informacyjnych oraz kluczowych informacji dla inwestorów, a także rocznych i półrocznych sprawozdań finansowych, w tym połączonych sprawozdań funduszy z wydzielonymi subfunduszami oraz sprawozdań jednostkowych subfunduszy, na stronach internetowych wskazanych w statucie funduszu.”;
-58) po art. 220 dodaje się art. 220a i art. 220b w brzmieniu: „Art. 220a. 1. Kluczowe informacje dla inwestorów powinny zawierać następujące informacje o podstawowych cechach funduszu inwestycyjnego:
-1) dane pozwalające na identyfikację funduszu;
-2) opis jego polityki inwestycyjnej i celów inwestycyjnych;
-3) przedstawienie dotychczasowych wyników lub symulacje tych wyników;
-4) wysokość opłat manipulacyjnych pobieranych w związku z nabyciem lub umorzeniem jednostek uczestnictwa oraz wysokość innych opłat i kosztów ponoszonych przez uczestników funduszu inwestycyjnego;
-5) określenie profilu ryzyka funduszu inwestycyjnego, w tym określenie wskaźnika zysku do ryzyka funduszu wraz z wyjaśnieniem dotyczącym ryzyka związanego z inwestycjami w funduszu oraz odpowiednimi ostrzeżeniami.
-2. Kluczowe informacje dla inwestorów powinny wyraźnie wskazywać, gdzie i w jaki sposób można uzyskać dodatkowe informacje na temat funduszu inwestycyjnego, w tym gdzie i w jaki sposób można, na wniosek, bezpłatnie otrzymać prospekt informacyjny, a także, w jakim języku takie informacje są dostępne dla inwestorów.
-3. Informacje zawarte w kluczowych informacjach dla inwestorów powinny być przedstawione w sposób umożliwiający zrozumienie charakteru oraz ryzyka związanego z jednostkami uczestnictwa funduszu, a tym samym podjęcie świadomej decyzji inwestycyjnej, a także w formie zrozumiałej bez konieczności odwoływania się do innych dokumentów.
-4. Informacje zawarte w kluczowych informacjach dla inwestorów powinny być spójne z odpowiednimi częściami prospektu informacyjnego.
-5. Kluczowe informacje dla inwestorów powinny być sporządzone w jednolitym formacie umożliwiającym dokonywanie porównań kluczowych informacji dla inwestorów dla różnych funduszy inwestycyjnych.
-6. Zakres informacji wykazywanych w kluczowych informacjach dla inwestorów oraz formę i sposób ich przedstawienia inwestorom określa rozporządzenie Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz.
-UE L 176 z 10.07.2010, str. 1).
-7. Specjalistyczny fundusz inwestycyjny otwarty sporządza i udostępnia kluczowe informacje dla inwestorów na zasadach określonych dla funduszu inwestycyjnego otwartego, w tym zgodnie z przepisami, o których mowa w ust. 6.
 
 **Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -1379,7 +1238,11 @@ UE L 176 z 10.07.2010, str. 1).
 - **1)** fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, z zastrzeżeniem art. 205 ust. 2;
 - **2)** wpis do rejestru, o którym mowa w art. 208t ust. 4, wywołuje skutek prawny.
 
-3. W okresie od dnia przydziału, o którym mowa w art. 208t ust. 1 pkt 1 oraz art. 208t ust. 1 pkt 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5. Art. 208za. 1. Niezwłocznie po dniu połączenia:
+3. W okresie od dnia przydziału, o którym mowa w art. 208t ust. 1 pkt 1 oraz art. 208t ust. 1 pkt 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
+
+**Art. 208za.**
+
+1. Niezwłocznie po dniu połączenia:
 
 - **1)** depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72;
 - **2)** fundusz przejmujący zamieszcza na stronach internetowych wskazanych w statucie informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje o połączeniu Komisję;
@@ -1387,15 +1250,298 @@ UE L 176 z 10.07.2010, str. 1).
 
 2. Do dnia otrzymania powiadomienia, o którym mowa w art. 261a ust. 5, fundusz przejmujący nie może zbywać jednostek uczestnictwa na terytorium danego państwa członkowskiego.
 
-3. W przypadku połączenia krajowego przez utworzenie funduszu depozytariusz funduszu przejmowanego zawiadamia towarzystwo będące organem funduszu przejmującego o zakończeniu czynności, o których mowa w ust. 1 pkt 1. Art. 208zb. W przypadku połączenia krajowego przez przejęcie fundusz przejmujący, w terminie 6 miesięcy od dnia połączenia, dostosowuje stan swoich aktywów do wymagań określonych w ustawie i statucie.
+3. W przypadku połączenia krajowego przez utworzenie funduszu depozytariusz funduszu przejmowanego zawiadamia towarzystwo będące organem funduszu przejmującego o zakończeniu czynności, o których mowa w ust. 1 pkt 1.
+
+**Art. 208zb.** W przypadku połączenia krajowego przez przejęcie fundusz przejmujący, w terminie 6 miesięcy od dnia połączenia, dostosowuje stan swoich aktywów do wymagań określonych w ustawie i statucie.
 
 #### Rozdział 4 Połączenie transgraniczne
 
 ##### Oddział 1 Połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego
 
+**Art. 208zc.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie, z wyłączeniem art. 208t ust. 4.
+
+2. Zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, w odniesieniu do krajowego funduszu przejmowanego są udzielane odpowiednio na:
+
+- **1)** połączenie transgraniczne przez przejęcie funduszu krajowego albo
+- **2)** połączenie transgraniczne przez utworzenie funduszu zagranicznego.
+
+3. Połączenie transgraniczne przez utworzenie funduszu zagranicznego dochodzi do skutku pod warunkiem wyrażenia przez właściwe organy nadzoru państwa członkowskiego zgody na utworzenie funduszu zagranicznego, który ma być funduszem przejmującym, chyba że w przypadku zagranicznego subfunduszu przejmującego, zgoda taka nie jest wymagana.
+
+**Art. 208zd.**
+
+1. Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych tytułów uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
+- **3)** w przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego – statut, prospekt informacyjny oraz kluczowe informacje dla inwestorów funduszu przejmującego, a jeżeli przewiduje to prawo państwa macierzystego funduszu przejmującego – także wskazanie wartości początkowej tytułu uczestnictwa tego funduszu.
+
+2. W przypadku połączenia transgranicznego przez utworzenie funduszu zagranicznego plan połączenia sporządzają i podpisują fundusze przejmowane i podmiot uprawniony do reprezentowania funduszu przejmującego zgodnie z prawem państwa macierzystego tego funduszu.
+
+**Art. 208ze.**
+
+1. Do wniosku o udzielenie zgody:
+
+- **1)** na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego załącza się dodatkowo statut, prospekt informacyjny, kluczowe informacje dla inwestorów funduszu przejmującego oraz zmiany tych dokumentów;
+- **2)** na połączenie transgraniczne przez utworzenie funduszu zagranicznego załącza się dodatkowo dokument informacyjny funduszu przejmującego, jeżeli jego sporządzenie przewiduje prawo państwa macierzystego tego funduszu.
+
+2. Dokument informacyjny funduszu przejmowanego powinien zawierać dodatkowo wskazanie różnic w zakresie zasad sprawozdawczości okresowej tego funduszu i funduszu przejmującego, informację o spodziewanym wpływie połączenia na sposób opodatkowania dochodów z inwestycji w fundusz, a także informację o dopłacie w środkach pieniężnych, jeżeli dokonanie takiej dopłaty przez fundusz przejmujący będzie konieczne. Dopłata nie może przewyższać 10% wartości aktywów netto funduszu przejmowanego przypadających na jednostki uczestnictwa danego uczestnika.
+
+3. Do wniosku, o którym mowa w ust. 1, dołącza się także jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów na język urzędowy albo jeden z języków urzędowych państwa macierzystego funduszu przejmującego.
+
+4. Niezwłocznie po otrzymaniu wniosku, Komisja przekazuje jego tłumaczenie oraz tłumaczenie załączonych do niego dokumentów do właściwego organu państwa macierzystego funduszu przejmującego.
+
+5. Komisja może, w terminie 10 dni roboczych od otrzymania wniosku, zażądać:
+
+- **1)** uzupełnienia dokumentów, które zgodnie z ust. 1 i 3 załącza się do wniosku;
+- **2)** przekazania dodatkowych informacji lub dokumentów pozwalających na dokonanie oceny zgodności łączenia funduszy z przepisami prawa lub interesem uczestników łączących się funduszy;
+- **3)** rozszerzenia lub zmiany informacji zawartych w dokumencie informacyjnym funduszu przejmowanego, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmowanego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
+
+6. Komisja rozpoznaje wniosek i informuje o swojej decyzji towarzystwo będące organem funduszu przejmowanego w terminie 20 dni roboczych od dnia jego złożenia. W przypadku, o którym mowa w ust. 5, bieg tego terminu rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję informacji lub dokumentów, zgodnie z żądaniem Komisji.
+
+7. W przypadku gdy właściwy organ państwa macierzystego funduszu przejmującego zażądał od funduszu przejmującego dokonania zmian w dokumencie informacyjnym tego funduszu, od dnia poinformowania Komisji o tym przez ten organ, bieg terminu, o którym mowa w ust. 6, ulega zawieszeniu do czasu uzyskania przez Komisję od tego organu informacji, czy zgłasza on zastrzeżenia do dokumentu informacyjnego funduszu przejmującego po dokonaniu przez ten fundusz zmian w tym dokumencie.
+
+8. Komisja odmawia zgody na połączenie transgraniczne przez przejęcie funduszu krajowego albo na połączenie transgraniczne przez utworzenie funduszu zagranicznego, w przypadku gdy:
+
+- **1)** załączone do wniosku dokumenty nie są zgodne pod względem treści lub formy z przepisami prawa;
+- **2)** wnioskodawca nie uzupełnił lub nie przekazał informacji lub dokumentów zgodnie z żądaniem, o którym mowa w ust. 5;
+- **3)** właściwy organ państwa macierzystego funduszu przejmującego zgłosił zastrzeżenia do dokumentu informacyjnego funduszu przejmującego;
+- **4)** planowane połączenie jest sprzeczne z przepisami prawa lub statutem funduszu przejmowanego;
+- **5)** fundusz przejmujący nie posiada uprawnienia do zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej lub na terytorium państw członkowskich, na terytorium których fundusz przejmowany zbywa jednostki uczestnictwa.
+
+9. Zgoda Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego oraz przez utworzenie funduszu zagranicznego nie zawiera rozstrzygnięcia w przedmiocie zatwierdzenia dokumentu informacyjnego funduszu przejmującego.
+
+10. O wydaniu decyzji w sprawie wniosku, o którym mowa w ust. 1, Komisja informuje właściwy organ państwa macierzystego funduszu przejmującego.
+
+**Art. 208zf.**
+
+1. Do ustalenia dnia obliczenia stosunku wymiany łączących się funduszy stosuje się przepisy prawa państwa macierzystego funduszu przejmującego. Obliczenie stosunku wymiany następuje w sposób określony w planie połączenia.
+
+2. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego tytułów uczestnictwa funduszu przejmującego podmiot uprawniony do badania sprawozdań finansowych funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz ustalenia wartości aktywów netto łączących się funduszy oraz
+- **2)** obliczenia stosunku wymiany oraz wysokości dopłat dla uczestników funduszu przejmowanego.
+
+3. Fundusz przejmowany niezwłocznie publikuje opinię, o której mowa w ust. 2, na stronach internetowych wskazanych w statucie funduszu, udostępnia ją bezpłatnie uczestnikom tego funduszu oraz przekazuje Komisji.
+
+**Art. 208zg.**
+
+1. Do ustalenia dnia połączenia stosuje się przepisy prawa państwa macierzystego funduszu przejmującego.
+
+2. Z dniem połączenia fundusz przejmujący wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
+
+- **1)** uczestnicy funduszu przejmowanego stają się uczestnikami funduszu przejmującego;
+- **2)** aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego.
+
+3. Z dniem połączenia uczestnicy funduszu przejmującego nabywają uprawnienie do dopłaty wynikającej ze stosunku wymiany, jeżeli jest ona przewidziana w dokumencie informacyjnym zgodnie z art. 208ze ust. 2.
+
+4. W okresie od dnia przydziału, o którym mowa w art. 208zf ust. 2, do dnia połączenia, o którym mowa w ust. 1, fundusz przejmowany nie może zawierać nowych umów, o których mowa w art. 103 lub dokonać lokat lub zawrzeć umowy na podstawie art. 107 ust. 5.
+
+**Art. 208zh.** Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72 niezwłocznie po dniu połączenia, chyba że przepisy prawa państwa macierzystego funduszu przejmującego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zi.**
+
+1. Towarzystwo będące organem funduszu przejmowanego składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych niezwłocznie po dniu połączenia.
+
+2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
+
+- **1)** zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu krajowego albo przez utworzenie funduszu zagranicznego;
+- **2)** opinię, o której mowa w art. 208zf ust. 2.
+
+3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
+
+**Art. 208zj.**
+
+1. Towarzystwo będące organem funduszu przejmowanego niezwłocznie zawiadamia fundusz przejmujący o wykreśleniu funduszu przejmowanego z rejestru funduszy inwestycyjnych.
+
+2. Towarzystwo będące organem funduszu przejmowanego zamieszcza na stronach internetowych wskazanych w statucie funduszu informację o dokonanym połączeniu, ze wskazaniem dnia połączenia, oraz informuje Komisję o dokonanym połączeniu.
+
+**Art. 208zk.**
+
+1. Jeżeli połączenie transgraniczne przez przejęcie funduszu krajowego ma nastąpić przez przeniesienie na fundusz przejmujący wyłącznie aktywów netto funduszu przejmowanego, fundusz przejmowany:
+
+- **1)** na podstawie wyceny aktywów funduszu dokonanej w dniu poprzedzającym dzień obliczenia stosunku wymiany ustala wartość aktywów netto oraz
+- **2)** przenosi na fundusz przejmujący aktywa netto, w terminie i w sposób określony przepisami prawa państwa macierzystego funduszu przejmującego.
+
+2. Po przeniesieniu, o którym mowa w ust. 1 pkt 2, w funduszu przejmowanym mogą pozostać wyłącznie środki pieniężne na rachunkach bankowych lub instrumenty rynku pieniężnego, o których mowa w art. 93.
+
+3. W dniu przeniesienia, o którym mowa w ust. 1 pkt 2, uczestnikom funduszu przejmowanego w zamian za jednostki uczestnictwa funduszu przejmowanego fundusz przejmujący przydziela tytuły uczestnictwa funduszu przejmującego, zgodnie ze stosunkiem wymiany ustalonym na podstawie wyceny aktywów funduszu przejmowanego i funduszu przejmującego z dnia poprzedzającego dzień przydziału.
+
 ##### Oddział 2 Połączenie transgraniczne przez przejęcie funduszu zagranicznego
 
+**Art. 208zl.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez przejęcie funduszu zagranicznego stosuje się odpowiednio przepisy o połączeniu krajowym przez przejęcie.
+
+2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+**Art. 208zm.** Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego.
+
+**Art. 208zn.**
+
+1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego dochodzi do skutku pod warunkiem uzyskania przez co najmniej jeden zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego tego funduszu na połączenie oraz jeżeli jest to wymagane przepisami prawa jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie.
+
+2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1, przez więcej niż jeden fundusz zagraniczny lub jeżeli w połączeniu bierze udział krajowy fundusz przejmowany – również uzyskanie przez ten fundusz zgody Komisji oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+**Art. 208zo.** Niezwłocznie po podpisaniu planu połączenia krajowy fundusz przejmujący informuje Komisję o zamiarze połączenia, przedstawiając dokument informacyjny tego funduszu i plan połączenia.
+
+**Art. 208zp.**
+
+1. Połączenie transgraniczne przez przejęcie funduszu zagranicznego wymaga zatwierdzenia przez Komisję dokumentu informacyjnego krajowego funduszu przejmującego. Zatwierdzenie dokumentu następuje w postępowaniu określonym w ust. 2–7 albo w postępowaniu w sprawie wydania zgody Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego.
+
+2. Postępowanie w sprawie zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego jest wszczynane w dniu otrzymania przez Komisję od właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego, przetłumaczonych na język polski:
+
+- **1)** wniosku zagranicznego funduszu przejmowanego o udzielenie przez właściwe organy państwa macierzystego zgody na połączenie z krajowym funduszem przejmującym;
+- **2)** dokumentu informacyjnego zagranicznego funduszu przejmowanego i dokumentu informacyjnego krajowego funduszu przejmującego;
+- **3)** planu połączenia;
+- **4)** oświadczeń złożonych przez depozytariusza krajowego funduszu przejmującego i depozytariusza zagranicznego funduszu przejmowanego, że po zweryfikowaniu przez każdego z nich warunków połączenia, depozytariusz stwierdza, że planowane połączenie funduszy jest zgodne z przepisami prawa i statutem funduszu, dla którego pełni on funkcję depozytariusza.
+
+3. W terminie 15 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, Komisja może zażądać od funduszu przejmującego zmiany lub rozszerzenia informacji zawartych w dokumencie informacyjnym, mając na celu zapewnienie należytej ochrony interesów uczestników krajowego funduszu przejmującego, w tym w szczególności zapewnienie im dostępu do informacji pozwalających należycie ocenić skutki planowanego połączenia.
+
+4. Komisja w terminie 20 dni roboczych od dnia otrzymania wszystkich dokumentów, o których mowa w ust. 2, w drodze decyzji:
+
+- **1)** zatwierdza dokument informacyjny funduszu przejmującego albo
+- **2)** odmawia jego zatwierdzenia – i informuje o swojej decyzji właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego.
+
+5. W przypadku, o którym mowa w ust. 3, bieg terminu, o którym mowa w ust. 4, rozpoczyna się w dniu następującym po dniu otrzymania przez Komisję żądanych informacji.
+
+6. Komisja może odmówić zatwierdzenia dokumentu informacyjnego krajowego funduszu przejmującego w przypadku nieudzielenia przez ten fundusz odpowiedzi zgodnie z żądaniem, o którym mowa w ust. 3, lub gdy poprawiony dokument informacyjny nie spełnia wymogów określonych w ustawie.
+
+7. Komisja informuje niezwłocznie właściwe organy państwa macierzystego zagranicznego funduszu przejmowanego o przesłaniu do funduszu krajowego żądania, o którym mowa w ust. 3.
+
+8. Jeżeli w połączeniu bierze udział więcej niż jeden zagraniczny fundusz przejmowany, Komisja informuje właściwe organy państwa macierzystego funduszu zagranicznego, po otrzymaniu od tych organów dokumentów, o których mowa w ust. 2, obejmujących dokument informacyjny funduszu przejmującego o tej samej treści co dokument będący przedmiotem decyzji, o której mowa w ust. 4, o zatwierdzeniu albo odmowie zatwierdzenia tego dokumentu.
+
+**Art. 208zr.** Niezwłocznie po powzięciu informacji o uzyskaniu pierwszej ze zgód właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie, o planowanym połączeniu zawiadamia się uczestników krajowego funduszu przejmującego, wysyłając zawiadomienie, o którym mowa w art. 208o ust. 2.
+
+**Art. 208zs.**
+
+1. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, w którym zgodnie z planem połączenia bierze udział więcej niż jeden fundusz przejmowany, dzień obliczenia stosunku wymiany dla kolejnego funduszu przejmowanego nie może przypadać przed dniem wydania opinii przez podmiot uprawniony do badania sprawozdań finansowych, o której mowa w art. 208zt ust. 1.
+
+2. W przypadku połączenia transgranicznego przez przejęcie funduszu zagranicznego, gdy subfundusz przejmujący jest nowo tworzony, dla każdego funduszu przejmowanego obowiązuje ten sam dzień obliczenia stosunku wymiany.
+
+**Art. 208zt.**
+
+1. Niezwłocznie po przydzieleniu uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego podmiot uprawniony do badania sprawozdań finansowych funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz
+- **2)** obliczenia stosunku wymiany.
+
+2. Fundusz przejmujący oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statucie funduszu oraz udostępniają ją bezpłatnie swoim uczestnikom. Fundusz przejmujący niezwłocznie przekazuje opinię Komisji.
+
+**Art. 208zu.**
+
+1. Dniem połączenia jest pierwszy dzień roboczy następujący po dniu przydziału. Z tym dniem krajowy fundusz przejmujący, z zastrzeżeniem art. 205 ust. 2, wstępuje w prawa i obowiązki funduszu przejmowanego, w szczególności:
+
+- **1)** aktywa i zobowiązania funduszu przejmowanego stają się aktywami i zobowiązaniami funduszu przejmującego;
+- **2)** wpis uczestników funduszu przejmowanego do rejestru uczestników funduszu przejmującego wywołuje skutek prawny.
+
+2. Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zw.**
+
+1. Niezwłocznie po dniu połączenia towarzystwo będące organem funduszu przejmowanego składa do sądu rejestrowego wniosek o wykreślenie tego funduszu z rejestru funduszy inwestycyjnych.
+
+2. Do wniosku, o którym mowa w ust. 1, towarzystwo załącza:
+
+- **1)** zgodę Komisji na połączenie transgraniczne przez przejęcie funduszu zagranicznego;
+- **2)** opinię, o której mowa w art. 208zt ust. 1.
+
+3. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
+
+**Art. 208zy.** Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.
+
 ##### Oddział 3 Połączenie transgraniczne przez utworzenie funduszu krajowego
+
+**Art. 208zz.**
+
+1. O ile nic innego nie wynika z przepisów niniejszego oddziału, do połączenia transgranicznego przez utworzenie funduszu krajowego stosuje się odpowiednio przepisy o połączeniu krajowym przez utworzenie funduszu krajowego oraz przepisy o utworzeniu funduszu inwestycyjnego otwartego.
+
+2. W odniesieniu do krajowego funduszu przejmowanego biorącego udział w połączeniu, zgoda Komisji na połączenie funduszy, o której mowa w art. 208i ust. 1 pkt 2, oraz zgoda zgromadzenia uczestników, o której mowa w art. 208i ust. 1 pkt 4, są udzielane na połączenie transgraniczne przez utworzenie funduszu krajowego.
+
+3. Połączenie transgraniczne przez utworzenie funduszu krajowego wymaga uzyskania zezwolenia Komisji na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, zgodnie z przepisami art. 22 i art. 23. Jeżeli w połączeniu transgranicznym przez utworzenie funduszu krajowego bierze udział krajowy fundusz przejmowany, zezwolenie to powinno być uzyskane przed uzyskaniem przez ten fundusz zgody Komisji zgodnie z ust. 2. Plan połączenia sporządza się niezwłocznie po uzyskaniu zezwolenia.
+
+**Art. 208zza.**
+
+1. W statucie funduszu inwestycyjnego, który ma być funduszem przejmującym, załączanym do wniosku o wydanie zezwolenia na utworzenie funduszu inwestycyjnego, wskazuje się, że fundusz powstanie na skutek połączenia transgranicznego przez utworzenie funduszu krajowego.
+
+2. Do funduszu przejmującego nie stosuje się przepisów art. 15 ust. 3 oraz art. 26–30. Wpłaty do funduszu przejmującego są zbierane w drodze wniesienia aktywów funduszy przejmowanych.
+
+3. Towarzystwo informuje fundusz przejmowany o uzyskaniu zezwolenia na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie po jego doręczeniu.
+
+**Art. 208zzb.**
+
+1. Zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, wygasa, jeżeli w terminie 6 miesięcy od dnia jego doręczenia, towarzystwo nie złoży wniosku o wpisanie tego funduszu do rejestru funduszy inwestycyjnych w związku z połączeniem.
+
+2. Zezwolenie nie wygasa zgodnie z ust. 1, jeżeli w terminie 3 miesięcy od dnia powzięcia przez towarzystwo informacji o:
+
+- **1)** odmowie udzielenia zagranicznemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody na połączenie przez właściwe organy jego państwa macierzystego,
+- **2)** odmowie udzielenia krajowemu funduszowi przejmowanemu, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego,
+- **3)** braku zgody właściwego organu zagranicznego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie to nie dojdzie do skutku, jeżeli zgoda taka jest wymagana przez prawo jego państwa macierzystego,
+- **4)** podjęciu przez zgromadzenie uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, uchwały o niewyrażeniu zgody na połączenie,
+- **5)** nieodbyciu się ważnego zgromadzenia uczestników krajowego funduszu przejmowanego, bez którego zgodnie z planem połączenia połączenie nie dojdzie do skutku, chyba że w terminie określonym w ust. 1 jest możliwe zwołanie kolejnego zgromadzenia uczestników tego funduszu przejmowanego – towarzystwo zmieni statut funduszu w zakresie, o którym mowa w art. 208zza ust. 1, dokona w prospekcie informacyjnym funduszu zmian niezbędnych do przeprowadzenia zapisów na jednostki uczestnictwa funduszu, przeprowadzi zapisy na jednostki uczestnictwa, dokona ich przydziału oraz złoży wniosek o wpisanie funduszu do rejestru funduszy inwestycyjnych. W takim przypadku art. 26 ust. 2 i 3, art. 27–29 i art. 30 ust. 1 i 3 stosuje się odpowiednio.
+
+**Art. 208zzc.** Plan połączenia zawiera dodatkowo:
+
+- **1)** wskazanie przepisów regulujących nabycie przez uczestników funduszy przejmowanych jednostek uczestnictwa funduszu przejmującego;
+- **2)** wskazanie zasad przenoszenia aktywów funduszu przejmowanego do funduszu przejmującego;
+- **3)** statut, prospekt informacyjny oraz kluczowe informacje dla inwestorów funduszu przejmującego.
+
+**Art. 208zzd.**
+
+1. Połączenie transgraniczne przez utworzenie funduszu krajowego dochodzi do skutku pod warunkiem uzyskania przez co najmniej:
+
+- **1)** dwa zagraniczne fundusze przejmowane zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo państwa macierzystego danego funduszu – zgody właściwych organów tego funduszu na połączenie albo
+- **2)** jeden:
+    - **a)** zagraniczny fundusz przejmowany zgody właściwych organów państwa macierzystego zagranicznego funduszu przejmowanego na połączenie oraz, jeżeli jest to wymagane przez prawo jego państwa macierzystego – zgody właściwych organów tego funduszu na połączenie oraz
+    - **b)** krajowy fundusz przejmowany zgody Komisji na połączenie transgraniczne przez utworzenie funduszu krajowego oraz zgody zgromadzenia uczestników na połączenie transgraniczne przez utworzenie funduszu krajowego.
+
+2. Plan połączenia może przewidywać, że do skuteczności połączenia wymagane jest uzyskanie zgód, o których mowa w ust. 1 pkt 1, przez więcej niż dwa fundusze zagraniczne lub zgód, o których mowa w ust. 1 pkt 2, przez więcej niż jeden fundusz zagraniczny lub więcej niż jeden krajowy fundusz przejmowany.
+
+**Art. 208zze.**
+
+1. Fundusz przejmowany jest obowiązany niezwłocznie poinformować towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o tym, że:
+
+- **1)** właściwe organy funduszu przejmowanego wyraziły zgodę na połączenie albo zgoda taka nie została udzielona – w przypadku zagranicznego funduszu przejmowanego, jeżeli zgoda taka jest wymagana przez prawo państwa macierzystego tego funduszu;
+- **2)** nie odbyło się ważne zgromadzenie uczestników funduszu przejmowanego albo zgromadzenie to podjęło uchwałę o wyrażeniu zgody na połączenie albo o niewyrażeniu takiej zgody – w przypadku funduszu przejmowanego będącego funduszem krajowym.
+
+2. Komisja informuje towarzystwo, które uzyskało zezwolenie na utworzenie funduszu, który ma być funduszem przejmującym, o udzieleniu zagranicznemu funduszowi przejmowanemu przez właściwe organy jego państwa macierzystego zgody na połączenie albo o odmowie jej udzielenia oraz o udzieleniu krajowemu funduszowi przejmowanemu zgody na połączenie transgraniczne przez utworzenie funduszu krajowego albo odmowie jej udzielenia.
+
+**Art. 208zzf.**
+
+1. Niezwłocznie po dokonaniu przydziału podmiot uprawniony do badania sprawozdań finansowych funduszu przejmującego albo funduszu przejmowanego dokonuje badania i wydaje opinię w przedmiocie prawidłowości:
+
+- **1)** ostatecznej wyceny aktywów oraz
+- **2)** obliczenia stosunku wymiany.
+
+2. Towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, oraz fundusz przejmowany będący funduszem krajowym niezwłocznie publikują opinię, o której mowa w ust. 1, na stronach internetowych wskazanych w statutach funduszu. Fundusz przejmowany bezpłatnie udostępnia opinię swoim uczestnikom, a towarzystwo, które uzyskało zezwolenie na utworzenie funduszu inwestycyjnego, który ma być funduszem przejmującym, niezwłocznie przekazuje ją Komisji.
+
+**Art. 208zzg.** Niezwłocznie po dniu połączenia depozytariusz każdego funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków depozytariusza, chyba że przepisy prawa państwa macierzystego funduszu przejmowanego stanowią inaczej, i informują o tym towarzystwo.
+
+**Art. 208zzh.** Sprawozdanie finansowe krajowego funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału. Sprawozdanie publikowane jest niezwłocznie na stronach internetowych wskazanych w statucie tego funduszu i przekazywane Komisji.”;
+
+- **57)** w art. 219 ust. 1 otrzymuje brzmienie: „1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mają obowiązek publikowania prospektów informacyjnych oraz kluczowych informacji dla inwestorów, a także rocznych i półrocznych sprawozdań finansowych, w tym połączonych sprawozdań funduszy z wydzielonymi subfunduszami oraz sprawozdań jednostkowych subfunduszy, na stronach internetowych wskazanych w statucie funduszu.”;
+- **58)** po art. 220 dodaje się art. 220a i art. 220b w brzmieniu: „Art. 220a. 1. Kluczowe informacje dla inwestorów powinny zawierać następujące informacje o podstawowych cechach funduszu inwestycyjnego:
+- **1)** dane pozwalające na identyfikację funduszu;
+- **2)** opis jego polityki inwestycyjnej i celów inwestycyjnych;
+- **3)** przedstawienie dotychczasowych wyników lub symulacje tych wyników;
+- **4)** wysokość opłat manipulacyjnych pobieranych w związku z nabyciem lub umorzeniem jednostek uczestnictwa oraz wysokość innych opłat i kosztów ponoszonych przez uczestników funduszu inwestycyjnego;
+- **5)** określenie profilu ryzyka funduszu inwestycyjnego, w tym określenie wskaźnika zysku do ryzyka funduszu wraz z wyjaśnieniem dotyczącym ryzyka związanego z inwestycjami w funduszu oraz odpowiednimi ostrzeżeniami.
+
+2. Kluczowe informacje dla inwestorów powinny wyraźnie wskazywać, gdzie i w jaki sposób można uzyskać dodatkowe informacje na temat funduszu inwestycyjnego, w tym gdzie i w jaki sposób można, na wniosek, bezpłatnie otrzymać prospekt informacyjny, a także, w jakim języku takie informacje są dostępne dla inwestorów.
+
+3. Informacje zawarte w kluczowych informacjach dla inwestorów powinny być przedstawione w sposób umożliwiający zrozumienie charakteru oraz ryzyka związanego z jednostkami uczestnictwa funduszu, a tym samym podjęcie świadomej decyzji inwestycyjnej, a także w formie zrozumiałej bez konieczności odwoływania się do innych dokumentów.
+
+4. Informacje zawarte w kluczowych informacjach dla inwestorów powinny być spójne z odpowiednimi częściami prospektu informacyjnego.
+
+5. Kluczowe informacje dla inwestorów powinny być sporządzone w jednolitym formacie umożliwiającym dokonywanie porównań kluczowych informacji dla inwestorów dla różnych funduszy inwestycyjnych.
+
+6. Zakres informacji wykazywanych w kluczowych informacjach dla inwestorów oraz formę i sposób ich przedstawienia inwestorom określa rozporządzenie Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1).
+
+7. Specjalistyczny fundusz inwestycyjny otwarty sporządza i udostępnia kluczowe informacje dla inwestorów na zasadach określonych dla funduszu inwestycyjnego otwartego, w tym zgodnie z przepisami, o których mowa w ust. 6.
 
 **Art. 220b.** Informacje zawarte w kluczowych informacjach dla inwestorów, w tym przetłumaczone na język inny niż ten, w którym zostały sporządzone, nie mogą być wyłączną podstawą odpowiedzialności cywilnej, chyba że wprowadzają one w błąd, są nieprawdziwe lub niezgodne z informacjami zawartymi w prospekcie informacyjnym funduszu. Kluczowe informacje dla inwestorów powinny zawierać w tym zakresie wyraźne ostrzeżenie skierowane do inwestorów.”;
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o środkach ochrony roślin
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o środkach ochrony roślin
 
 *USTAWA z dnia 28 listopada 2014 r.*
 

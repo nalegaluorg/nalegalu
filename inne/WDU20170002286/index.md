@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy o ewidencji ludności
 
 *USTAWA z dnia 27 października 2017 r.*
 

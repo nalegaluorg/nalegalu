@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działach administracji rządowej
+# Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o działach administracji rządowej.
 
 *USTAWA z dnia 18 grudnia 1998 r.*
 

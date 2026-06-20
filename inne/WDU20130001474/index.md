@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dostępie do informacji publicznej
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o dostępie do informacji publicznej
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

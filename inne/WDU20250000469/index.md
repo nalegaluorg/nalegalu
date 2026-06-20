@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu nowych inwestycji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu nowych inwestycji
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 maja 2018 r.
 o wspieraniu nowych inwestycji
-Art. 35–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -447,6 +446,8 @@ Art. 35–38. (pominięte)
 **Art. 34.** Zarządzający obszarami przekazują dane do ewidencji bez zbędnej zwłoki, za pomocą systemu teleinformatycznego.
 
 #### Rozdział 6 Zmiany w przepisach, przepisy przejściowe i końcowe
+
+**Art. 35–38.** (pominięte)
 
 **Art. 39.** Tworzy się Ewidencję Wsparcia Nowej Inwestycji.
 

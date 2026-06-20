@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza oraz ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw
+# Ustawa z dnia 10 kwietnia 2003 r. o zmianie ustawy o zawodzie lekarza oraz ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw
 
 *USTAWA z dnia 10 kwietnia 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o delegowaniu pracowników w ramach świadczenia usług oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 2020 r. o zmianie ustawy o delegowaniu pracowników w ramach świadczenia usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 lipca 2020 r.*
 

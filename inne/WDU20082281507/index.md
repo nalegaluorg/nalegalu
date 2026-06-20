@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o emeryturach kapitałowych
+# Ustawa z dnia 21 listopada 2008 r. o emeryturach kapitałowych
 
 *USTAWA z dnia 21 listopada 2008 r.*
 
@@ -216,9 +216,13 @@ source: pdf
 
 **Art. 32.** (pominięty)
 
-**Art. 33.** (pominięty) Art. 34–36. (pominięte)
+**Art. 33.** (pominięty)
 
-**Art. 37.** (pominięty) Art. 38–41. (pominięte)
+**Art. 34–36.** (pominięte)
+
+**Art. 37.** (pominięty)
+
+**Art. 38–41.** (pominięte)
 
 **Art. 42.**
 

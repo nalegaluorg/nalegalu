@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 26 lipca 2002 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 26 lipca 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 grudnia 2015 r.*
 

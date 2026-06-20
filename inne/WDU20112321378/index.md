@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o redukcji niektórych obowiązków obywateli i przedsiębiorców
+# Ustawa z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców
 
 *USTAWA z dnia 16 września 2011 r.*
 

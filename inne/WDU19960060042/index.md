@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wydawaniu Monitora Sądowego i Gospodarczego
+# Ustawa z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego.
 
 *USTAWA z dnia 22 grudnia 1995 r.*
 

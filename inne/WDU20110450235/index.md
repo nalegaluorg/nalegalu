@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opiece nad dziećmi w wieku do lat 3
+# Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3
 
 *USTAWA z dnia 4 lutego 2011 r.*
 
@@ -1021,7 +1021,9 @@ source: pdf
 
 1. Gmina jest zobowiązana do przekazywania podlegających ujawnieniu danych z rejestru oraz z wykazu wojewodzie i ministrowi właściwemu do spraw rodziny za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 62a.
 
-2. Minister właściwy do spraw rodziny publikuje dane, o których mowa w ust. 1, na stronach internetowych ministerstwa. Art. 64aa. Informacje zawarte w rejestrze oraz wykazie udostępnia się, w zakresie niezbędnym do realizacji zadań ustawowych, Zakładowi Ubezpieczeń Społecznych – w celu udzielenia świadczeń „aktywnie w żłobku” oraz „aktywni rodzice w pracy”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, realizacji prawa do tych świadczeń, a także monitorowania realizacji tych praw.
+2. Minister właściwy do spraw rodziny publikuje dane, o których mowa w ust. 1, na stronach internetowych ministerstwa.
+
+**Art. 64aa.** Informacje zawarte w rejestrze oraz wykazie udostępnia się, w zakresie niezbędnym do realizacji zadań ustawowych, Zakładowi Ubezpieczeń Społecznych – w celu udzielenia świadczeń „aktywnie w żłobku” oraz „aktywni rodzice w pracy”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, realizacji prawa do tych świadczeń, a także monitorowania realizacji tych praw.
 
 **Art. 64b.**
 

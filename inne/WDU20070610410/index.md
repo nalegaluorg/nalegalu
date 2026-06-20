@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo dewizowe oraz innych ustaw
+# Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy - Prawo dewizowe oraz innych ustaw
 
 *USTAWA z dnia 26 stycznia 2007 r.*
 

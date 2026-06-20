@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dozorze technicznym
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dozorze technicznym
 
 *USTAWA z dnia 9 marca 2023 r.*
 

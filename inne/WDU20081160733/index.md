@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego
+# Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego
 
 *USTAWA z dnia 30 maja 2008 r.*
 

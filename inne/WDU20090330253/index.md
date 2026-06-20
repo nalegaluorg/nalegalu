@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o upoważnieniu Prezydenta Rzeczypospolitej Polskiej do złożenia oświadczenia o uznaniu właściwości Trybunału Sprawiedliwości Wspólnot Europejskich na podstawie art. 35 ust. 2 Traktatu o Unii Europejskiej
+# Ustawa z dnia 10 lipca 2008 r. o upoważnieniu Prezydenta Rzeczypospolitej Polskiej do złożenia oświadczenia o uznaniu właściwości Trybunału Sprawiedliwości Wspólnot Europejskich na podstawie art. 35 ust. 2 Traktatu o Unii Europejskiej
 
 *USTAWA z dnia 10 lipca 2008 r.*
 

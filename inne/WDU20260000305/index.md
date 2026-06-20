@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027
 
 *USTAWA z dnia 13 lutego 2026 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z realizacją zadań przez Policję
+# Ustawa z dnia 2 grudnia 2009 r. o zmianie niektórych ustaw związanych z realizacją zadań przez Policję
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 

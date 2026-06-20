@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Gorzowskiej Wyższej Szkole Zawodowej w Gorzowie Wielkopolskim.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 20 maja 1999 r. w sprawie przekształceń w Gorzowskiej Wyższej Szkole Zawodowej w Gorzowie Wielkopolskim.
 
 | Pole | Wartość |
 |---|---|

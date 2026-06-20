@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 lipca 2019 r.*
 

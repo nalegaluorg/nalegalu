@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemach oceny zgodności i nadzoru rynku
+# Ustawa z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku
 
 *USTAWA z dnia 13 kwietnia 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-04-19 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000542) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/542/text.pdf) |
-
-Art. 99–121. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1344,6 +1342,8 @@ Art. 99–121. (pominięte)
 7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 99–121.** (pominięte)
 
 #### Rozdział 10 Przepisy dostosowujące, przejściowe i końcowe
 

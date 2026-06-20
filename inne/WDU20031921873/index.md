@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji
+# Ustawa z dnia 29 października 2003 r. o zmianie ustawy o Policji
 
 *USTAWA z dnia 29 października 2003 r.*
 

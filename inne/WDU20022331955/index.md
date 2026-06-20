@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela
+# Ustawa z dnia 22 listopada 2002 r. o wyrównywaniu strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela.
 
 *USTAWA z dnia 22 listopada 2002 r.*
 

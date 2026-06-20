@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rzecznikach patentowych
+# Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych
 
 *USTAWA z dnia 9 marca 2017 r.*
 

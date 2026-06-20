@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw, ustawy o Państwowym Ratownictwie Medycznym, ustawy - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych oraz o zmianie ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw, ustawy o Państwowym Ratownictwie medycznym, ustawy - przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o zmianie ustawy o zmianie ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw.
 
 *USTAWA z dnia 21 grudnia 2001 r.*
 

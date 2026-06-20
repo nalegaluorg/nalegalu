@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie instytucji rozwoju
+# Ustawa z dnia 31 marca 2020 r. o zmianie ustawy o systemie instytucji rozwoju
 
 *USTAWA z dnia 31 marca 2020 r.*
 

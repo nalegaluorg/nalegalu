@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy – Prawo budowlane oraz ustawy o transporcie kolejowym
+# Ustawa z dnia 9 maja 2023 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy - Prawo budowlane oraz ustawy o transporcie kolejowym
 
 *USTAWA z dnia 9 maja 2023 r.*
 

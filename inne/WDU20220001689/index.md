@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 22 listopada 2013 r.
 o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
-Art. 49–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -490,6 +489,8 @@ Art. 49–53. (pominięte)
 **Art. 48.** Postanowienie o wypisaniu z Ośrodka jest wykonywane z dniem jego uprawomocnienia.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 49–53.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

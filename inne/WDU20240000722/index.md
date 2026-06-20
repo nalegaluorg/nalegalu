@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obrocie instrumentami finansowymi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obrocie instrumentami finansowymi
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -27,315 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/722/text.pdf) |
 
-Art. 110zc. 1. W przypadku wystąpienia sytuacji zagrażającej stabilności finansowej lub powstania niebezpieczeństwa niewypłacalności lub utraty płynności domu maklerskiego na poziomie jednostkowym lub skonsolidowanym dom maklerski niezwłocznie zawiadamia o tym Komisję oraz przedstawia jej program postępowania naprawczego.
-2. Za realizację programu postępowania naprawczego przez dom maklerski odpowiada zarząd domu maklerskiego.
-3. Program postępowania naprawczego uwzględnia wielkość domu maklerskiego, a także skalę i stopień złożoności jego działalności.
-4. Program postępowania naprawczego obejmuje w szczególności:
-1) wskazanie sposobu przywrócenia stabilności finansowej, wypłacalności lub płynności;
-2) założenia do programu i wskazanie istotnych etapów jego realizacji;
-3) wskazanie zagrożeń dla realizacji programu i sposobu ich eliminacji.
-5. Komisja może wyznaczyć domowi maklerskiemu termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zalecić jego uzupełnienie lub ponowne opracowanie.
-6. W razie zaniechania działań określonych w ust. 1 lub 5 Komisja może, w drodze decyzji, nakazać domowi maklerskiemu wszczęcie postępowania naprawczego.
-7. W okresie realizacji przez dom maklerski programu postępowania naprawczego zysk osiągany przez dom maklerski jest przeznaczany w pierwszej kolejności na pokrycie strat, a następnie na zwiększenie funduszy własnych.
-Art. 110zd. 1. Jeżeli program postępowania naprawczego nie jest wystarczający lub jego realizacja nie jest należyta, Komisja może:
-1) wystąpić do zarządu domu maklerskiego z żądaniem zwołania nadzwyczajnego walnego zgromadzenia albo zgromadzenia wspólników w celu rozpatrzenia sytuacji domu maklerskiego, powzięcia decyzji o pokryciu straty bilansowej oraz podjęcia innych uchwał, w tym zwiększenia, w okresie nie dłuższym niż 6 miesięcy, funduszy własnych;
-2) nakazać obniżenie lub wstrzymanie wypłaty niektórych zmiennych składników wynagrodzeń osób zajmujących stanowiska kierownicze w domu maklerskim, w tym przypadających za czas zajmowania stanowiska kierowniczego w domu maklerskim, nie dłużej niż za ostatnie 3 lata.
-2. Zarząd domu maklerskiego powinien zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników w ciągu 14 dni od dnia doręczenia decyzji Komisji w przedmiocie żądania, o którym mowa w ust. 1 pkt 1. Komisja może zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników, jeżeli zarząd domu maklerskiego nie zwołał tego zgromadzenia w tym terminie. Koszty zwołania i odbycia walnego zgromadzenia albo zgromadzenia wspólników obciążają dom maklerski.
-3. Przerwy w walnym zgromadzeniu albo w zgromadzeniu wspólników nie mogą trwać łącznie dłużej niż 14 dni.
-Art. 110ze. 1. Komisja może wydać decyzję o ustanowieniu kuratora nadzorującego wykonanie programu postępowania naprawczego przez dom maklerski, jeżeli jest to niezbędne do zapewnienia prawidłowego przebiegu postępowania naprawczego.
-2. Kuratorowi przysługuje prawo uczestniczenia w posiedzeniach organów domu maklerskiego oraz prawo żądania informacji niezbędnych do wykonywania jego funkcji. Organy z odpowiednim wyprzedzeniem informują kuratora o posiedzeniach organów.
-3. Organy domu maklerskiego niezwłocznie informują kuratora o powziętych uchwałach i decyzjach.
-4. Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu, rady nadzorczej lub komisji rewizyjnej domu maklerskiego. Oświadczenie o zamiarze wniesienia sprzeciwu zgłoszone na posiedzeniu rady nadzorczej, komisji rewizyjnej lub zarządu wstrzymuje wykonanie uchwały lub decyzji.
-5. Sprzeciw, o którym mowa w ust. 4, kurator wnosi do sądu właściwego w sprawach gospodarczych w terminie 14 dni od daty powzięcia uchwały lub decyzji zarządu, rady nadzorczej lub komisji rewizyjnej.
-6. W przypadku braku wniesienia sprzeciwu do sądu w terminie, o którym mowa w ust. 5, lub w przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o której mowa w ust. 4, podlega wykonaniu.
-7. Kurator może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
-8. Od decyzji o ustanowieniu kuratora dom maklerski może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
-9. Funkcję kuratora może pełnić osoba posiadająca kwalifikacje i doświadczenie zawodowe w zakresie organizacji i zasad działalności domu maklerskiego. Kuratorem może być również osoba prawna.
-10. Komisja może żądać od kuratora wyjaśnień i informacji związanych z pełnieniem funkcji.
-11. Kurator niezwłocznie zawiadamia Komisję o wszelkich zagrożeniach prawidłowej i terminowej realizacji programu postępowania naprawczego.
-12. Kurator składa Komisji kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez zarząd domu maklerskiego programu postępowania naprawczego.
-13. Wynagrodzenie kuratora ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie prezesa domu maklerskiego, w którym ustanowiono kuratora.
-W przypadku domu maklerskiego działającego w formie spółki osobowej wynagrodzenie kuratora nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty związane z pełnieniem funkcji kuratora obciążają dom maklerski.
-14. Komisja może odwołać kuratora nadzorującego wykonywanie programu postępowania naprawczego przez dom maklerski w przypadku jego rezygnacji, niewłaściwego pełnienia funkcji lub innych względów uniemożliwiających mu należyte pełnienie tej funkcji.
-15. Osobie fizycznej pełniącej funkcję kuratora przysługuje prawo do urlopu wypoczynkowego w wysokości 26 dni na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) w terminach uzgodnionych z Komisją.
-16. Okres pełnienia funkcji kuratora jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze. Do osób tych mają zastosowanie przepisy o ubezpieczeniach społecznych i ubezpieczeniu zdrowotnym, o ile osoby te nie są objęte tymi ubezpieczeniami z innych tytułów.
-Art. 110zf. 1. Jeżeli dom maklerski nie przekaże programu postępowania naprawczego zgodnie z art. 110zc ust. 1 albo gdy realizacja tego programu okaże się nieskuteczna, Komisja może podjąć decyzję o ustanowieniu zarządu komisarycznego na czas realizacji programu postępowania naprawczego. W decyzji o ustanowieniu zarządu komisarycznego Komisja określa jego zadania.
-2. Ustanowienie zarządu komisarycznego nie wpływa na organizację i sposób działania domu maklerskiego.
-3. Na zarząd komisaryczny przechodzi prawo prowadzenia spraw spółki i jej reprezentowania, w szczególności zarząd komisaryczny może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych. Z dniem ustanowienia zarządu komisarycznego rada nadzorcza lub komisja rewizyjna zostają zawieszone, mandaty członków zarządu domu maklerskiego, a także prokury i pełnomocnictwa wygasają. Na czas trwania zarządu komisarycznego kompetencje innych organów domu maklerskiego zostają zawieszone.
-4. Zarząd komisaryczny może dokonać zamknięcia ksiąg rachunkowych domu maklerskiego i sporządzić sprawozdanie finansowe domu maklerskiego na dzień wyznaczony przez Komisję oraz podjąć uchwałę o pokryciu straty za okres kończący się w tym dniu oraz straty za lata ubiegłe.
-5. Zarząd komisaryczny wykonuje również zadania określone w decyzji o jego ustanowieniu.
-6. Od decyzji, o której mowa w ust. 1, rada nadzorcza, komisja rewizyjna albo wspólnik mający prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji.
-Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
-7. Zarząd komisaryczny opracowuje i uzgadnia z Komisją program postępowania naprawczego, kieruje jego realizacją oraz nie rzadziej niż co 3 miesiące informuje Komisję, radę nadzorczą lub komisję rewizyjną o wynikach realizacji programu.
-8. Ustanowienie zarządu komisarycznego podlega zgłoszeniu do rejestru właściwego dla domu maklerskiego.
-9. Wniosek o wpis do rejestru zarządu komisarycznego, wykreślenia członków zarządu i prokurentów oraz zawieszenia rady nadzorczej lub komisji rewizyjnej składa zarząd komisaryczny w terminie 7 dni od dnia wydania decyzji o jego ustanowieniu.
-Do uiszczenia opłaty sądowej od wniosku jest obowiązany dom maklerski.
-10. Komisja może żądać od zarządu komisarycznego wyjaśnień i informacji związanych z wykonywaniem jego zadań.
-Art. 110zg. 1. Członkowi zarządu komisarycznego, w przypadku złożenia wniosku zgodnie z art. 174 § 1 Kodeksu pracy, udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
-2. Okres urlopu bezpłatnego, o którym mowa w ust. 1, jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
-3. Wynagrodzenie członków zarządu komisarycznego ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie członków dotychczasowego zarządu.
-W przypadku domu maklerskiego działającego w formie spółki osobowej wynagrodzenie członków zarządu komisarycznego nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty działalności zarządu komisarycznego obciążają dom maklerski.
-Art. 110zh. W przypadku domu maklerskiego działającego w formie spółki osobowej przepisy niniejszego oddziału dotyczące organów mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania, zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
-Art. 110zha. Przepisów niniejszego oddziału nie stosuje się do domów maklerskich, o których mowa w art. 110zi ust. 1 pkt 4, oraz domów maklerskich stosujących rozporządzenie 575/2013, z zastrzeżeniem art. 110zza ust. 4 i 5.
-Art. 110zi. 1. Ilekroć w niniejszym oddziale jest mowa o:
-1) (uchylony)
-2) (uchylony)
-3) (uchylony)
-4) domu maklerskim – rozumie się przez to dom maklerski, o którym mowa w art. 98 ust. 3, który nie jest domem maklerskim stosującym rozporządzenie 575/2013;
-5) (uchylony)
-6) finansowej spółce holdingowej o działalności mieszanej – rozumie się przez to finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033;
-7) funkcji krytycznej – rozumie się przez to funkcję krytyczną, o której mowa w art. 2 pkt 17 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
-8) głównej linii biznesowej – rozumie się przez to linię biznesową wraz z powiązanymi usługami, która stanowi dla domu maklerskiego lub grupy firm inwestycyjnych, w której skład wchodzi dom maklerski, istotne źródło przychodów lub zysku;
-9) (uchylony) 9a) grupie firm inwestycyjnych – rozumie się przez to grupę firm inwestycyjnych, o której mowa w art. 110a ust. 1 pkt 6aa;
-10) holdingu mieszanym – rozumie się przez to holding mieszany, o którym mowa w art. 110a ust. 1 pkt 6c;
-11) instytucji – rozumie się przez to dom maklerski lub firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, z siedzibą w innym państwie członkowskim, która jest objęta wymogiem dotyczącym kapitału założycielskiego w wysokości 750 000 euro;
-12) instytucji finansowej – rozumie się przez to instytucję finansową, o której mowa w art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033;
-13) instytucji kredytowej – rozumie się przez to instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 8 rozporządzenia 2019/2033;
-13a) inwestycyjnej spółce holdingowej – rozumie się przez to inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033;
-14) (uchylony) 14a) nadzorze na zasadzie skonsolidowanej – rozumie się przez to nadzór nad grupą firm inwestycyjnych na zasadzie skonsolidowanej, o którym mowa w art. 110g;
-15) nadzwyczajnym publicznym wsparciu finansowym – rozumie się przez to pomoc państwa w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub inne publiczne wsparcie finansowe na poziomie ponadnarodowym, które, jeżeli jest udzielane na poziomie krajowym, stanowi pomoc państwa udzielaną w celu utrzymania lub przywrócenia rentowności, płynności bądź wypłacalności domu maklerskiego lub grupy firm inwestycyjnych, której częścią jest dom maklerski, w tym działania, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej;
-16) podmiocie dominującym – rozumie się przez to podmiot dominujący, o którym mowa w art. 110a ust. 1 pkt 10;
-17) podmiocie powiązanym – rozumie się przez to podmiot wchodzący w skład grupy firm inwestycyjnych;
-18) podmiocie zależnym – rozumie się przez to jednostkę zależną, o której mowa w art. 4 ust. 1 pkt 51 rozporządzenia 2019/2033;
-19) standardowym postępowaniu upadłościowym – rozumie się przez to postępowanie upadłościowe prowadzone na podstawie przepisów ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe lub zagraniczne postępowanie upadłościowe, o którym mowa w art. 379 pkt 1 tej ustawy;
-20) (uchylony)
-21) (uchylony)
-22) unijnej dominującej finansowej spółce holdingowej o działalności mieszanej – rozumie się przez to unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033;
-22a) unijnej dominującej firmie inwestycyjnej – rozumie się przez to unijną dominującą firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 56 rozporządzenia 2019/2033;
-22b) unijnej dominującej inwestycyjnej spółce holdingowej – rozumie się przez to unijną dominującą inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033;
-23) (uchylony)
-24) unijnej jednostce dominującej – rozumie się przez to unijną dominującą firmę inwestycyjną, unijną dominującą inwestycyjną spółkę holdingową lub unijną dominującą finansową spółkę holdingową o działalności mieszanej.
-2. (uchylony)
-Art. 110zj. 1. Dom maklerski, który nie jest objęty grupowym planem naprawy na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe albo na podstawie przepisów prawa innego państwa członkowskiego, w tym przepisów wskazujących Europejski Bank Centralny jako właściwy w zakresie grupowych planów naprawy dla instytucji kredytowych, zgodnie z rozporządzeniem Rady (UE) nr 1024/2013 z dnia 15 października 2013 r. powierzającym Europejskiemu Bankowi Centralnemu szczególne zadania w odniesieniu do polityki związanej z nadzorem ostrożnościowym nad instytucjami kredytowymi (Dz. Urz.
-UE L 287 z 29.10.2013, str. 63), oraz dom maklerski, który nie ma obowiązku posiadania grupowego planu naprawy, są obowiązane posiadać plan naprawy. Plan naprawy stanowi element systemu zarządzania, o którym mowa w art. 110c ust. 1.
-Dom maklerski uwzględnia w planie naprawy podmioty działające w tej samej grupie firm inwestycyjnych.
-2. Komisja, w przypadku gdy jest to niezbędne do zapewnienia stabilności rynku finansowego, może, w drodze decyzji, nakazać sporządzenie planu naprawy domowi maklerskiemu, który zgodnie z ust. 1 nie ma takiego obowiązku. W decyzji Komisja określa termin przedstawienia planu naprawy przez dom maklerski. Do postępowania w sprawie zatwierdzenia planu naprawy stosuje się przepisy art. 110zk ust. 2, 3 i 5–
-11.
-3. Plan naprawy obejmuje:
-1) streszczenie głównych elementów planu naprawy;
-2) opis istotnych zmian w domu maklerskim, które nastąpiły od dnia przedstawienia planu naprawy albo ostatniej aktualizacji planu naprawy;
-3) opis polityki informacyjnej domu maklerskiego w związku z potencjalnymi negatywnymi reakcjami rynku finansowego na pogarszającą się sytuację domu maklerskiego;
-4) działania dotyczące kapitału i płynności domu maklerskiego konieczne w celu poprawy jego sytuacji finansowej;
-5) prognozowany harmonogram działań podejmowanych w celu realizacji istotnych elementów planu naprawy;
-6) szczegółowy opis okoliczności zagrażających skutecznej i terminowej realizacji planu naprawy, obejmujący analizę wpływu działań przewidzianych w planie naprawy na podmioty prowadzące działalność w tej samej grupie firm inwestycyjnych co dom maklerski oraz na klientów i inne strony umów zawartych z domem maklerskim;
-7) funkcje krytyczne występujące w domu maklerskim;
-8) procedury ustalenia wartości i oceny zbywalności głównych linii biznesowych i aktywów domu maklerskiego;
-9) powiązania procesu przygotowania planu naprawy z systemem zarządzania domem maklerskim oraz zasad zatwierdzania planu naprawy i ustalania osób odpowiedzialnych za jego przygotowanie i wdrożenie;
-10) czynności, które należy podjąć w celu utrzymania odpowiedniego poziomu funduszy własnych domu maklerskiego lub przywrócenia poziomu funduszy własnych do wysokości wymaganej zgodnie z art. 110e lub art. 110y ust. 3 oraz zgodnie z przepisami rozporządzenia 2019/2033;
-11) działania służące zapewnieniu możliwości kontynuowania działalności i terminowego wywiązywania się z wymagalnych zobowiązań, ukierunkowane zwłaszcza na zapewnienie dostępu do rezerwowych źródeł finansowania, w tym do potencjalnych źródeł płynności, a także oceny dostępnych zabezpieczeń oraz oceny możliwości udzielenia wsparcia finansowego pomiędzy podmiotami powiązanymi i przenoszenia płynności pomiędzy liniami biznesowymi;
-12) (uchylony)
-13) środki dotyczące restrukturyzacji zobowiązań domu maklerskiego;
-14) środki dotyczące restrukturyzacji linii biznesowych domu maklerskiego;
-15) porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości dostępu domu maklerskiego do infrastruktury rynków finansowych;
-16) porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości działania domu maklerskiego, w tym sieci i systemów informatycznych ustanowionych i zarządzanych zgodnie z przepisami rozporządzenia 2022/2554;
-17) opis działań przygotowawczych mających na celu umożliwienie zbycia przez dom maklerski aktywów lub linii biznesowych w terminie zapewniającym przywrócenie stabilności finansowej domu maklerskiego;
-18) inne działania lub strategie zarządcze służące przywróceniu stabilności finansowej domu maklerskiego oraz prognozowane skutki finansowe takich działań lub strategii;
-19) działania, jakie dom maklerski podjął lub planuje podjąć w celu umożliwienia wdrożenia planu naprawy, w tym niezbędne do terminowego dokapitalizowania domu maklerskiego;
-20) poziomy wskaźników, o których mowa w art. 110zo ust. 1, po osiągnięciu których mogą być podjęte działania określone w planie naprawy;
-21) działania, jakie może podjąć dom maklerski, jeżeli zostaną spełnione przesłanki wczesnej interwencji, o których mowa w art. 110zz.
-4. Plan naprawy spełnia następujące warunki:
-1) przewidziane planem naprawy działania przyczynią się do przywrócenia lub utrzymania dobrej kondycji finansowej i rentowności domu maklerskiego lub grupy firm inwestycyjnych;
-2) przewidziane planem naprawy działania mogą być efektywnie i szybko wdrożone bez negatywnych skutków dla systemu finansowego, w szczególności bez spowodowania konieczności wdrażania planów naprawy przez inne instytucje lub instytucje kredytowe w tym samym czasie;
-3) struktura kapitałowa i struktura finansowania domu maklerskiego wskazane w planie naprawy są dostosowane do poziomu złożoności struktury organizacyjnej i profilu ryzyka domu maklerskiego.
-5. Plan naprawy nie może zakładać uzyskania nadzwyczajnego publicznego wsparcia finansowego.
-6. Plan naprawy podlega zatwierdzeniu przez zarząd domu maklerskiego.
-7. Dom maklerski aktualizuje plan naprawy co najmniej raz w roku oraz po istotnej zmianie struktury organizacyjnej lub prawnej, sytuacji finansowej lub po wystąpieniu innego zdarzenia wpływającego na przyjęte w planie założenia i wykonanie planu naprawy. Komisja może zalecić domowi maklerskiemu częstszą aktualizację planu naprawy.
-Art. 110zk. 1. Dom maklerski przedstawia Komisji plan naprawy w terminie 6 miesięcy od dnia rozpoczęcia działalności.
-2. Komisja zatwierdza plan naprawy w drodze decyzji w terminie 6 miesięcy od dnia jego otrzymania.
-3. Aktualizacja planu naprawy, o której mowa w art. 110zj ust. 7, wymaga zatwierdzenia przez Komisję. Przepisy ust. 2 i 5–10 stosuje się odpowiednio.
-4. (uchylony)
-5. Komisja przekazuje plan naprawy Bankowemu Funduszowi Gwarancyjnemu, który w przypadku zidentyfikowania w planie naprawy działań, które mogą mieć negatywny wpływ na skuteczność restrukturyzacji i likwidacji domu maklerskiego, niezwłocznie informację o tym przekazuje Komisji.
-6. Jeżeli plan naprawy nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja wzywa dom maklerski do uzupełnienia lub zmiany planu, w terminie 2 miesięcy od dnia doręczenia wezwania. Terminu tego nie wlicza się do terminu, o którym mowa w ust. 2. Na wniosek domu maklerskiego Komisja może przedłużyć ten termin o miesiąc.
-7. W przypadku gdy zmieniony lub uzupełniony plan naprawy nadal nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja, w drodze decyzji, odmawia zatwierdzenia planu naprawy, oraz wzywa dom maklerski do przedstawienia nowego planu naprawy.
-8. W decyzji, o której mowa w ust. 7, Komisja może wskazać termin, do którego dom maklerski powinien przedstawić nowy plan naprawy, oraz obszary działalności domu maklerskiego, które w ocenie Komisji wymagają uwzględnienia w planie naprawy.
-9. Komisja zatwierdza nowy plan naprawy, o którym mowa w ust. 7, w terminie 6 miesięcy od dnia jego otrzymania.
-10. W przypadku gdy nowy plan naprawy, o którym mowa w ust. 7, nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja zaleca domowi maklerskiemu wskazanie zmian w działalności domu maklerskiego niezbędnych w celu spełnienia wymagań, o których mowa w art. 110zj, lub w celu usunięcia innych istotnych okoliczności zagrażających wdrożeniu planu naprawy, wyznaczając odpowiedni termin na przedstawienie tych zmian. Jeżeli nowy plan naprawy nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, a dom maklerski nie wskaże zmian w działalności lub Komisja uzna je za niewystarczające, Komisja, w drodze decyzji, odmawia zatwierdzenia nowego planu naprawy oraz nakazuje wprowadzenie niezbędnych zmian w działalności domu maklerskiego.
-11. W decyzji, o której mowa w ust. 10, Komisja może określić termin wprowadzenia zmian w działalności domu maklerskiego oraz w szczególności nakazać domowi maklerskiemu:
-1) zmianę profilu ryzyka, w tym ryzyka utraty płynności;
-2) podjęcie działań w celu zapewnienia możliwości terminowego dokapitalizowania domu maklerskiego;
-3) dokonanie przeglądu strategii i struktury organizacyjnej domu maklerskiego;
-4) wprowadzenie zmian w strategii finansowania, które obniżą poziom ryzyka związany z działalnością domu maklerskiego w zakresie głównych linii biznesowych i funkcji krytycznych;
-5) wprowadzenie zmian w systemie zarządzania ryzykiem w domu maklerskim, o którym mowa w art. 110b ust. 1.
-12. Zatwierdzony plan naprawy Komisja przekazuje Bankowemu Funduszowi Gwarancyjnemu w terminie 7 dni od dnia podjęcia decyzji, o której mowa w ust. 2.
-Art. 110zl. 1. Dom maklerski będący unijną dominującą firmą inwestycyjną albo unijna dominująca inwestycyjna spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, nad którymi Komisja sprawuje nadzór na zasadzie skonsolidowanej, są obowiązane posiadać grupowe plany naprawy. Grupowy plan naprawy może określać działania, które powinny zostać podjęte przez ten dom maklerski, tę unijną dominującą inwestycyjną spółkę holdingową oraz tę unijną dominującą finansową spółkę holdingową o działalności mieszanej, jak również poszczególne podmioty zależne.
-2. Celem grupowego planu naprawy jest poprawa sytuacji finansowej grupy firm inwestycyjnych lub podmiotów powiązanych będących instytucjami, z jednoczesnym uwzględnieniem sytuacji finansowej innych podmiotów powiązanych. Grupowy plan naprawy zapewnia koordynację działań w odniesieniu do unijnej jednostki dominującej i podmiotów zależnych.
-3. Do grupowego planu naprawy przepisy art. 110zj ust. 3–6 i art. 110zk ust. 5 i 12 stosuje się odpowiednio. Grupowy plan naprawy może uwzględniać umowy, o których mowa w art. 110zr ust. 1. Grupowy plan naprawy określa informacje, o których mowa w art. 110zj ust. 3, w odniesieniu do grupy firm inwestycyjnych, domu maklerskiego oraz poszczególnych podmiotów zależnych.
-4. Grupowy plan naprawy podlega zatwierdzeniu przez organ zarządzający podmiotu obowiązanego do jego sporządzenia.
-Art. 110zm. 1. Dom maklerski będący unijną dominującą firmą inwestycyjną albo unijna dominująca inwestycyjna spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, o których mowa w art. 110zl ust. 1, są obowiązane przedstawić grupowy plan naprawy w terminie 6 miesięcy od dnia, w którym uzyskały status odpowiednio domu maklerskiego będącego unijną dominującą firmą inwestycyjną, unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej. Do grupowego planu naprawy przepisy art. 110zk stosuje się odpowiednio.
-2. Grupowy plan naprawy Komisja przekazuje:
-1) właściwym organom nadzoru dla podmiotów zależnych w grupie firm inwestycyjnych;
-2) (uchylony)
-3) Bankowemu Funduszowi Gwarancyjnemu;
-4) organom do spraw przymusowej restrukturyzacji właściwym dla podmiotów zależnych.
-3. Komisja dąży do osiągnięcia porozumienia z właściwymi organami nadzoru dla podmiotów zależnych wchodzących w skład grupy firm inwestycyjnych w zakresie:
-1) stwierdzenia, czy grupowy plan naprawy spełnia wymogi określone w art. 110zl oraz w zakresie wpływu działań przewidzianych w grupowym planie naprawy na stabilność finansową we wszystkich państwach członkowskich, w których prowadzą działalność podmioty powiązane;
-2) konieczności sporządzenia i przekazania planów naprawy przez niektóre lub wszystkie instytucje zależne;
-3) zasadności podjęcia działań, o których mowa w art. 110zk ust. 6–11 w odniesieniu do grupowego planu naprawy.
-4. W przypadku gdy porozumienie w zakresie ust. 3 pkt 1 i 3 nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może podjąć działania, o których mowa w art. 110zk ust. 6–11 w odniesieniu do unijnej jednostki dominującej, uwzględniając stanowiska przekazane dotychczas przez właściwe organy nadzoru. Komisja informuje właściwe organy nadzoru o ostatecznej treści grupowego planu naprawy.
-5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 4, Komisja lub inny zainteresowany właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja może podejmować działania określone w ust. 3 pkt 3 w odniesieniu do unijnej jednostki dominującej, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, podejmując działania, o których mowa w art. 110zk ust. 5– 8, w odniesieniu do unijnej jednostki dominującej, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy, o którym mowa w ust. 4, uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia.
-6. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 wyłącznie w zakresie, o którym mowa w ust. 3 pkt 1, oraz w odniesieniu do unijnej jednostki dominującej w sprawach, o których mowa w art. 110zk ust. 11 pkt 1, 2 i 4.
-7. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 4, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie w zakresie, o którym mowa w ust. 3 pkt 1 lub 3, w sprawie grupowego planu naprawy w zakresie obejmującym podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, w tym dom maklerski.
-8. W przypadku gdy porozumienie, o którym mowa w ust. 3 pkt 2, w zakresie konieczności sporządzenia i przekazania planu naprawy przez instytucję zależną nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może przekazać właściwemu organowi nadzoru dla instytucji zależnej stanowisko.
-9. W przypadku gdy w skład grupy firm inwestycyjnych wchodzi dom maklerski będący podmiotem zależnym, a porozumienie, o którym mowa w ust. 3 pkt 2, w zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może nakazać domowi maklerskiemu w drodze decyzji sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
-10. W przypadku gdy zostało osiągnięte porozumienie w sprawie sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja w drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
-Art. 110zn. 1. W przypadku domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej, nad którą nadzór na zasadzie skonsolidowanej sprawuje właściwy organ nadzoru z innego państwa członkowskiego, Komisja dąży do osiągnięcia porozumienia z tym właściwym organem nadzoru oraz z innymi właściwymi organami nadzoru, w terminie 4 miesięcy od dnia przekazania Komisji grupowego planu naprawy przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej, w zakresie spraw, o których mowa w art. 110zm ust. 3, w tym może przekazać temu organowi stanowisko w zakresie, o którym mowa w art. 110zm ust. 3 pkt 1 lub 3, w odniesieniu do unijnej jednostki dominującej.
-2. W przypadku gdy w terminie 4 miesięcy, o którym mowa w ust. 1, nie zostanie osiągnięte porozumienie w zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski, Komisja może wydać w odniesieniu do tego domu maklerskiego decyzję w sprawie sporządzenia i przekazania planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
-3. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 1, Komisja lub właściwy organ nadzoru z innego państwa członkowskiego zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 w zakresie odnoszącym się do domu maklerskiego, Komisja może wydać decyzję, o której mowa w ust. 2, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, o której mowa w ust. 2, uwzględnia decyzję wydaną przez Europejski Urząd Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia.
-4. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 wyłącznie w zakresie, o którym mowa w art. 110zm ust. 3 pkt 1, oraz w odniesieniu do unijnej jednostki dominującej w sprawach, o których mowa w art. 110zk ust. 11 pkt 1, 2 i 4.
-5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 1, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie w zakresie spraw, o których mowa w art. 110zm ust. 3 pkt 1 lub 3, w zakresie grupowego planu naprawy obejmującego podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, w tym dom maklerski.
-6. W przypadku gdy zgodnie z ust. 1 albo 5 zostało osiągnięte porozumienie w zakresie konieczności sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja w drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
-7. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–6 stosuje się odpowiednio.
-Art. 110zo. 1. Plan naprawy oraz grupowy plan naprawy określają poziomy wskaźników, po osiągnięciu których dom maklerski podejmuje działania określone w planie. Wskaźniki te odnoszą się do sytuacji finansowej domu maklerskiego, mogą mieć charakter ilościowy lub jakościowy. Wskaźniki powinny umożliwiać łatwe i systematyczne monitorowanie ich poziomu. Wskaźniki oraz sposób monitorowania ich poziomu dom maklerski przedstawia Komisji łącznie z planem naprawy.
-1a. W przypadku osiągnięcia przez wskaźniki poziomów określonych w planie naprawy lub w grupowym planie naprawy, o których mowa w ust. 1, dom maklerski przystępuje do wdrażania planu naprawy lub grupowego planu naprawy.
-2. W uzasadnionym przypadku dom maklerski może podjąć działania wskazane w planie naprawy pomimo nieosiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego w planie naprawy.
-3. W uzasadnionym przypadku dom maklerski może, ze względu na okoliczności, odstąpić od podjęcia działania wskazanego w planie naprawy pomimo osiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego w planie naprawy.
-4. W przypadkach, o których mowa w ust. 1a, 2 i 3, zarząd domu maklerskiego podejmuje uchwałę odpowiednio o przystąpieniu do wdrażania planu naprawy lub grupowego planu naprawy, podjęciu działań albo odstąpieniu od podejmowania działań określonych w planie naprawy lub grupowym planie naprawy. Dom maklerski niezwłocznie informuje Komisję o podjętej uchwale i przekazuje Komisji jej kopię oraz wskazuje przyczyny przystąpienia do wdrażania planu naprawy zgodnie z ust. 1a, przyczyny podjęcia działań zgodnie z ust. 2 lub przyczyny odstąpienia od podjęcia działań zgodnie z ust. 3.
-Art. 110zp. 1. Komisja może, w drodze decyzji, ograniczyć zakres informacji, o których mowa w art. 110zj ust. 3, wymaganych w planie naprawy albo w grupowym planie naprawy lub zmienić częstotliwość aktualizowania planu naprawy albo grupowego planu naprawy.
-2. Wydając decyzję, o której mowa w ust. 1, Komisja bierze pod uwagę:
-1) wpływ zaprzestania prowadzenia działalności przez dom maklerski na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
-2) wpływ upadłości domu maklerskiego przeprowadzonej w formie standardowego postępowania upadłościowego na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
-3) charakter działalności domu maklerskiego, jej zakres i stopień złożoności, strukturę własnościową domu, formę prawną, profil ryzyka, wielkość lub powiązania z podmiotami;
-4) (uchylony)
-5) zakres działalności, o której mowa w art. 69 ust. 2 i 4, wykonywanej przez dom maklerski.
-3. Komisja może zasięgnąć opinii Komitetu Stabilności Finansowej w zakresie, o którym mowa w ust. 2.
-4. Komisja może zmienić lub uchylić decyzję, o której mowa w ust. 1.
-5. Wydanie decyzji, o której mowa w ust. 1, nie ogranicza uprawnień Komisji i Bankowego Funduszu Gwarancyjnego określonych w niniejszym oddziale.
-6. Komisja nie może wydać decyzji, o której mowa w ust. 1, wobec domu maklerskiego, w przypadku gdy:
-1) całkowita wartość jego aktywów przekracza 30 000 000 000 euro lub
-2) stosunek wartości jego aktywów do produktu krajowego brutto Rzeczypospolitej Polskiej przekracza 20 %, chyba że wartość jego aktywów jest niższa niż 5 000 000 000 euro.
-7. Do obliczania w złotych wartości wyrażonych w euro przyjmuje się kurs średni euro ogłoszony przez Narodowy Bank Polski z ostatniego dnia roboczego roku poprzedzającego.
-8. Komisja informuje Europejski Urząd Nadzoru Bankowego o wydaniu decyzji, o której mowa w ust. 1.
-Art. 110zq. (uchylony)
-Art. 110zr. 1. Objęty nadzorem na zasadzie skonsolidowanej dom maklerski i objęta wspólnie z nim nadzorem na zasadzie skonsolidowanej unijna jednostka dominująca, holding mieszany oraz ich podmioty zależne w państwach członkowskich lub w państwach niebędących państwami członkowskimi będące instytucjami lub instytucjami finansowymi mogą zawierać umowy dotyczące udzielenia wsparcia finansowego dowolnej stronie tej umowy na wypadek zaistnienia w odniesieniu do tej strony przesłanek zastosowania środków wczesnej interwencji określonych w art. 110zz, jeżeli są spełnione warunki określone w art. 110zs–110zy.
-2. Podmioty powiązane mogą zawierać inne umowy i porozumienia niespełniające warunków, o których mowa w przepisach art. 110zs–110zy. Umowy takie nie mogą być wykonywane, jeżeli dom maklerski albo inna strona umowy spełnia warunki do zastosowania środków wczesnej interwencji.
-Art. 110zs. 1. Umowa, o której mowa w art. 110zr ust. 1, może obejmować jeden lub większą liczbę podmiotów zależnych w grupie firm inwestycyjnych i przewidywać w szczególności wsparcie finansowe ze strony podmiotu dominującego na rzecz podmiotów zależnych, ze strony podmiotów zależnych na rzecz podmiotu dominującego lub między podmiotami zależnymi w grupie firm inwestycyjnych.
-2. Umowa, o której mowa w art. 110zr ust. 1, może przewidywać wsparcie finansowe w szczególności w formie pożyczki, udzielenia gwarancji lub udostępnienia aktywów do wykorzystania jako zabezpieczenie, w tym między otrzymującym wsparcie a podmiotem niebędącym podmiotem powiązanym.
-3. Jeżeli zgodnie z umową, o której mowa w art. 110zr ust. 1, jeden z podmiotów powiązanych w ramach grupy firm inwestycyjnych zgadza się udzielić wsparcia innemu podmiotowi powiązanemu, umowa może przewidywać udzielenie wsparcia na zasadzie wzajemności przez podmiot powiązany otrzymujący wsparcie na rzecz podmiotu powiązanego udzielającego wsparcia.
-4. Umowa, o której mowa w art. 110zr ust. 1, określa zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu każdej transakcji wykonanej w ramach tej umowy w momencie udzielania wsparcia finansowego.
-5. Umowa, o której mowa w art. 110zr ust. 1, spełnia następujące warunki:
-1) przy zawieraniu umowy i ustalaniu opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego strona jest obowiązana działać w swoim najlepszym interesie, który może uwzględniać wszelkie bezpośrednie lub pośrednie korzyści, jakie dana strona może odnieść w wyniku udzielenia wsparcia finansowego;
-2) strona udzielająca wsparcia finansowego – przed ustaleniem opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego i przed podjęciem jakiejkolwiek decyzji o udzieleniu wsparcia finansowego – jest obowiązana uzyskać od strony otrzymującej takie wsparcie pełne informacje istotne w danej sytuacji;
-3) strona udzielająca wsparcia finansowego, rozważając udzielenie wsparcia finansowego, może uwzględniać niedostępne dla rynku informacje posiadane w związku z przynależnością do tej samej grupy firm inwestycyjnych co strona otrzymująca wsparcie finansowe;
-4) zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego mogą nie uwzględniać ewentualnego przewidywanego, tymczasowego wpływu na ceny rynkowe wynikającego ze zdarzeń mających miejsce poza grupą firm inwestycyjnych.
-6. Działania wynikające z umowy, o której mowa w art. 110zr ust. 1, dotyczące udzielenia wsparcia finansowego mogą być podejmowane wyłącznie przez strony umowy w ramach grupy firm inwestycyjnych, z wyłączeniem spełniania ich przez osoby trzecie.
-7. Dom maklerski lub inne objęte nadzorem na zasadzie skonsolidowanej podmioty, o których mowa w art. 110zr ust. 1, mogą udzielić wsparcia finansowego również w przypadku, gdy nie zawarły umowy, jeżeli udzielenie wsparcia nie stanowi zagrożenia dla grupy firm inwestycyjnych. Zawarcie umowy nie może stanowić warunku prowadzenia przez podmiot powiązany niebędący domem maklerskim działalności na terytorium Rzeczypospolitej Polskiej albo przez dom maklerski na terytorium innego państwa członkowskiego.
-8. Umowa, o której mowa w art. 110zr ust. 1, może zostać zawarta jedynie w przypadku, gdy w momencie zawierania umowy żadna ze stron nie spełnia warunków do zastosowania środków wczesnej interwencji.
-Art. 110zt. Wsparcie finansowe, o którym mowa w art. 110zr ust. 1, może być udzielone, jeżeli:
-1) udzielenie wsparcia finansowego w znaczący sposób poprawi sytuację finansową podmiotu powiązanego otrzymującego wsparcie;
-2) udzielenie wsparcia finansowego pomoże utrzymać lub przywrócić stabilność finansową podmiotom działającym w grupie firm inwestycyjnych i leży w interesie podmiotu powiązanego udzielającego wsparcia finansowego;
-3) są spełnione wymagania, o których mowa w art. 110zr ust. 1 i art. 110zs;
-4) w momencie podejmowania decyzji przez podmiot powiązany udzielający wsparcia o udzieleniu tego wsparcia istnieje uzasadnione prawdopodobieństwo, że podmiot powiązany otrzymujący wsparcie finansowe wypłaci opłaty, prowizje lub wynagrodzenie z tytułu wsparcia finansowego, a jeżeli wsparcie to ma postać pożyczki – zwróci pożyczkę; jeżeli wsparcie finansowe przyjmuje postać gwarancji lub dowolnej formy zabezpieczenia, ten sam warunek ma zastosowanie do zobowiązania powstającego dla uprawnionego z tego zabezpieczenia, gdy gwarancja lub zabezpieczenie zostaną wykonane;
-5) udzielenie wsparcia finansowego nie zagraża płynności ani wypłacalności podmiotu powiązanego udzielającego wsparcia;
-6) udzielenie wsparcia finansowego nie stwarza zagrożenia dla stabilności finansowej systemu finansowego państwa członkowskiego siedziby podmiotu powiązanego udzielającego wsparcia;
-7) w momencie udzielania wsparcia finansowego dom maklerski udzielający wsparcia finansowego spełnia wymagania określone w oddziale 2a, przepisach wykonawczych wydanych na podstawie art. 110x oraz nałożone na dom maklerski dodatkowe wymogi, o których mowa w art. 110y ust. 1 pkt 9 i art. 110yb, a udzielenie wsparcia finansowego nie spowoduje naruszenia tych wymagań przez dom maklerski, chyba że zgody na to udzieli Komisja;
-8) (uchylony)
-9) udzielenie wsparcia finansowego nie zagraża przeprowadzeniu skutecznej przymusowej restrukturyzacji podmiotu powiązanego udzielającego wsparcia.
-Art. 110zu. 1. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim będącym unijną dominującą firma inwestycyjną, zawarcie przez dom maklerski umowy, o której mowa w art. 110zr ust. 1, wymaga zgody Komisji wydanej na wniosek domu maklerskiego o zatwierdzenie umowy. Dom maklerski dołącza do wniosku projekt tej umowy, informacje pozwalające na identyfikację podmiotów zamierzających zawrzeć umowę oraz zgodę walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego na zawarcie umowy, o której mowa w art. 110zv.
-2. Komisja niezwłocznie przekazuje wniosek właściwym organom nadzoru sprawującym nadzór nad poszczególnymi jednostkami zależnymi, które będą stronami umowy.
-3. Komisja, w trybie określonym w ust. 5–8, w drodze decyzji, odmawia udzielenia zgody na zawarcie umowy, jeżeli umowa nie spełnia warunków określonych w art. 110zt lub którakolwiek ze stron umowy spełnia warunki zastosowania środków wczesnej interwencji.
-4. Zmiany w umowie wymagają zgody Komisji.
-5. Komisja, wydając decyzję, dąży do osiągnięcia z właściwymi organami nadzoru sprawującymi nadzór nad podmiotami zależnymi porozumienia w sprawie oceny, czy warunki proponowanej umowy są zgodne z warunkami wsparcia finansowego określonymi w art. 110zt, uwzględniając jednocześnie potencjalny wpływ wykonania umowy, w tym konsekwencje budżetowe w tych państwach członkowskich, w których grupa firm inwestycyjnych prowadzi działalność.
-6. W przypadku osiągnięcia porozumienia, o którym mowa w ust. 5, Komisja wydaje decyzję w terminie 4 miesięcy od dnia otrzymania wniosku.
-7. W przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5, w terminie, o którym mowa w ust. 6, Komisja wydaje decyzję w sprawie wniosku, uwzględniając przekazane dotychczas stanowiska właściwych organów nadzoru z innych państw członkowskich. Komisja informuje o treści decyzji pozostałe właściwe organy nadzoru z innych państw członkowskich.
-8. Jeżeli w terminie, o którym mowa w ust. 6, którykolwiek z właściwych organów nadzoru, o których mowa w ust. 2, skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010, Komisja może wydać decyzję, o której mowa w ust. 7, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja wydaje decyzję zgodną z decyzją Europejskiego Urzędu Nadzoru Bankowego. Jeżeli Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji, Komisja niezwłocznie wydaje decyzję. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu rozporządzenia 1093/2010.
-9. Komisja, sprawując nadzór nad domem maklerskim będącym podmiotem zależnym od unijnej dominującej firmy inwestycyjnej, mającym stać się stroną umowy, o której mowa w art. 110zr ust. 1, dąży do osiągnięcia porozumienia w zakresie, o którym mowa w ust. 5, w terminie 4 miesięcy od dnia przekazania przez unijną dominującą firmę inwestycyjną wniosku o zatwierdzenie umowy właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną. Przed upływem terminu 4 miesięcy Komisja może przekazać właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną stanowisko lub zwrócić się do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010.
-10. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–9 stosuje się odpowiednio.
-Art. 110zv. 1. Zawarcie umowy, o której mowa w art. 110zr ust. 1, której stroną miałby się stać dom maklerski, wymaga zgody walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego.
-2. Zarząd domu maklerskiego co roku składa walnemu zgromadzeniu albo zgromadzeniu wspólników, wraz ze sprawozdaniem z działalności, sprawozdanie z wykonania umowy, o której mowa w art. 110zr ust. 1.
-Art. 110zw. Po udzieleniu zgody, o której mowa w art. 110zu, Komisja przekazuje kopię umowy, o której mowa w art. 110zr ust. 1, a także kopie zmian tej umowy Bankowemu Funduszowi Gwarancyjnemu oraz organom do spraw przymusowej restrukturyzacji w innych państwach członkowskich właściwym dla podmiotów zależnych, które są stronami umowy.
-Art. 110zx. 1. W przypadku gdy dom maklerski zamierza udzielić wsparcia finansowego na podstawie umowy, o której mowa w art. 110zr ust. 1, składa niezwłocznie wniosek o wyrażenie zgody przez Komisję. Jednocześnie dom maklerski zawiadamia o zamiarze udzielenia wsparcia finansowego na podstawie umowy, o której mowa w art. 110zr ust. 1:
-1) właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej;
-2) właściwy organ nadzoru sprawujący nadzór nad podmiotem powiązanym otrzymującym wsparcie finansowe;
-3) Europejski Urząd Nadzoru Bankowego.
-2. Do wniosku i zawiadomienia, o których mowa w ust. 1, dom maklerski załącza kopię umowy, o której mowa w art. 110zr ust. 1, oraz uzasadnienie proponowanych działań, określając w szczególności cel wsparcia finansowego i wskazując sposób spełnienia warunków określonych w art. 110zt, a także szczegółowe informacje na temat proponowanego wsparcia finansowego.
-3. Komisja udziela zgody, o której mowa w ust. 1, w terminie 5 dni roboczych od dnia otrzymania wniosku oraz dokumentów, o których mowa w ust. 2.
-4. W przypadku stwierdzenia braków we wniosku lub dołączonych do niego dokumentach, Komisja wzywa dom maklerski do uzupełnienia braków w wyznaczonym terminie.
-5. Komisja może ograniczyć zakres wsparcia finansowego. Zgoda może być udzielona pod warunkiem lub z zastrzeżeniem terminu.
-6. W przypadku gdy warunki określone w art. 110zt nie zostały spełnione, Komisja odmawia udzielenia zgody.
-7. Jeżeli Komisja nie wyda decyzji w terminie, o którym mowa w ust. 3, dom maklerski może udzielić wsparcia finansowego na warunkach określonych we wniosku i załączonych do niego dokumentach.
-8. Termin 5 dni roboczych, o którym mowa w ust. 3, uważa się za zachowany, jeżeli przed jego upływem decyzja została nadana w polskiej placówce pocztowej operatora pocztowego albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
-9. Informację o wydanej decyzji Komisja niezwłocznie przekazuje:
-1) właściwemu organowi nadzoru dla podmiotu powiązanego otrzymującego wsparcie finansowe;
-2) właściwemu organowi nadzoru sprawującemu nadzór na zasadzie skonsolidowanej – w przypadku gdy Komisja nie sprawuje nadzoru na zasadzie skonsolidowanej nad domem maklerskim;
-3) Europejskiemu Urzędowi Nadzoru Bankowego;
-4) pozostałym członkom kolegium i członkom kolegium ds. przymusowej restrukturyzacji – w przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim, a kolegia zostały powołane;
-5) Bankowemu Funduszowi Gwarancyjnemu.
-10. W przypadku gdy właściwy organ nadzoru w innym państwie członkowskim zakazał udzielenia albo ograniczył udzielenie wsparcia finansowego domowi maklerskiemu albo innemu podmiotowi powiązanemu, Komisja jako organ sprawujący nadzór na zasadzie skonsolidowanej albo sprawując nadzór nad domem maklerskim będącym podmiotem zależnym, może, w razie powzięcia wątpliwości co do tej decyzji, w terminie 2 dni roboczych od dnia jej otrzymania, złożyć wniosek do Europejskiego Urzędu Nadzoru Bankowego o udzielenie wsparcia w osiągnięciu porozumienia zgodnie z art. 31 lit. c rozporządzenia 1093/2010.
-11. Dom maklerski przekazuje informację o udzieleniu wsparcia finansowego Komisji oraz podmiotom, o których mowa w ust. 1 pkt 1–3.
-12. Komisja, sprawując nadzór na zasadzie skonsolidowanej nad domem maklerskim, informuje o udzieleniu wsparcia finansowego przez dom maklerski, pozostałych członków kolegium, Bankowy Fundusz Gwarancyjny i członków kolegium do spraw przymusowej restrukturyzacji, jeżeli kolegia te zostały powołane.
-13. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane w grupowym planie naprawy, Komisja może zwrócić się do właściwego organu nadzoru, który sprawuje nadzór na zasadzie skonsolidowanej, o ponowną weryfikację grupowego planu naprawy, zgodnie z art. 110zn. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej, podejmuje działania w sprawie weryfikacji grupowego planu naprawy zgodnie z art. 110zm.
-14. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane w planie naprawy domu maklerskiego, Komisja zaleca domowi maklerskiemu zmianę planu naprawy, zgodnie z art. 110zk.
-15. Jeżeli Komisja zgłosiła sprzeciw wobec planowego udzielenia wsparcia finansowego albo ograniczyła udzielenie wsparcia finansowego przez dom maklerski podmiotowi powiązanemu albo właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego podmiotowi powiązanemu, a wsparcie finansowe było przewidziane w grupowym planie naprawy i Komisja sprawuje nadzór na zasadzie skonsolidowanej, na wniosek właściwego organu nadzoru z innego państwa członkowskiego dla podmiotu powiązanego, któremu odmówiono wsparcia finansowego lub ograniczono wsparcie finansowe, Komisja zaleca domowi maklerskiemu albo jego podmiotowi dominującemu będącemu unijną jednostką dominującą zmianę grupowego planu naprawy.
-Art. 110zy. Dom maklerski podaje do publicznej wiadomości, zgodnie z art. 46 rozporządzenia 2019/2033, informację, czy jest stroną umowy, o której mowa w art. 110zr ust. 1.
-Art. 110zz. 1. Jeżeli ze względu na szybko pogarszającą się sytuację finansową domu maklerskiego, w tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez dom maklerski lub koncentrację ekspozycji, dom maklerski narusza albo z dużym prawdopodobieństwem naruszy przepisy art. 98, oddziału 2a, przepisy rozporządzenia 2019/2033, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych przewidzianych w art. 110y, Komisja, w drodze decyzji, może zastosować wobec domu maklerskiego następujące środki wczesnej interwencji:
-1) nakazać wdrożenie planu naprawy, w tym podjęcie określonych działań przewidzianych w planie naprawy;
-2) nakazać aktualizację planu naprawy zgodnie z art. 110zj ust. 7 przez uwzględnienie w planie naprawy okoliczności, które doprowadziły do wystąpienia sytuacji stanowiącej przesłankę zastosowania środków wczesnej interwencji, a nie zostały przewidziane w tym planie naprawy;
-3) nakazać w sytuacji, o której mowa w pkt 2, wdrożenie określonych działań przewidzianych w zaktualizowanym planie naprawy;
-4) nakazać domowi maklerskiemu zbadanie przyczyn zaistniałej sytuacji, określenie środków pozwalających rozwiązać stwierdzone problemy oraz sporządzenie programu działania w celu rozwiązania tych problemów i harmonogramu jego wdrażania;
-5) nakazać domowi maklerskiemu zwołanie nadzwyczajnego walnego zgromadzenia albo nadzwyczajnego zgromadzenia wspólników w celu rozpatrzenia sytuacji domu maklerskiego lub umieszczenia spraw wskazanych przez Komisję w porządku obrad walnego zgromadzenia; w przypadku niewykonania któregokolwiek z żądań, do żądania Komisji stosuje się odpowiednio przepisy art. 237 § 1 i 3 albo art. 400 § 3 i 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
-6) nakazać sporządzenie i uzgodnienie planu restrukturyzacji wierzytelności lub innych długów z wierzycielami domu maklerskiego, zgodnie z planem naprawy;
-7) nakazać wprowadzenie zmian w strategii domu maklerskiego;
-8) nakazać wprowadzenie zmian w statucie albo umowie spółki domu maklerskiego lub jego strukturze zarządzania, w tym w strukturze organizacyjnej;
-9) nakazać odwołanie członka zarządu, którego działania lub zaniechania doprowadziły do zaistnienia przesłanek zastosowania środków wczesnej interwencji, a zastosowane inne środki wczesnej interwencji okazały się nieskuteczne lub niewystarczające;
-10) nakazać zawieszenie członka zarządu w czynnościach do czasu podjęcia uchwały w sprawie wniosku o odwołanie członka zarządu, o którym mowa w pkt 9.
-1a. Środki, o których mowa w ust. 1 pkt 9, Komisja może zastosować także wobec domu maklerskiego stosującego rozporządzenie 575/2013, jeżeli ze względu na szybko pogarszającą się sytuację finansową tego domu maklerskiego, w tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez ten dom maklerski lub koncentrację ekspozycji, narusza on albo z dużym prawdopodobieństwem naruszy przepisy art. 98, przepisy prawa bankowego stosowane przez niektóre domy maklerskie, przepisy rozporządzenia 575/2013, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych podejmowanych zgodnie z art. 138 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
-2. Przy ocenie sytuacji finansowej domu maklerskiego Komisja może brać pod uwagę w szczególności zachowanie przez dom maklerski wymogów funduszy własnych określonych w art. 9 ust. 1 rozporządzenia 2019/2033, powiększonych o 19 punktów procentowych.
-3. W przypadku, o którym mowa w ust. 1 pkt 5, koszty zwołania i odbycia zgromadzenia ponosi dom maklerski. Przerwy w zgromadzeniu nie mogą trwać łącznie dłużej niż 14 dni.
-4. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o wszczęciu postępowania w sprawie zastosowaniu środka wczesnej interwencji, o którym mowa w ust. 1.
-5. W decyzji, o której mowa w ust. 1 i 1a, Komisja może określić termin jej wykonania.
-6. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania domu maklerskiego lub wchodzące w skład jego statutowych organów albo pozostające z domem maklerskim w stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tego domu maklerskiego, wszystkich informacji celem aktualizacji planu przymusowej restrukturyzacji, a także innych informacji, które w ocenie Komisji mogą mieć wpływ na przygotowanie lub realizację przymusowej restrukturyzacji, w tym na oszacowanie wartości aktywów i zobowiązań domu maklerskiego.
-7. Podjęcia przez Komisję czynności, o których mowa w ust. 1 i art. 110zk ust. 10, oraz ustanowienia kuratora albo zarządu komisarycznego, o których mowa w art. 110zza, a także skutków wystąpienia tych zdarzeń w odniesieniu do umów zawartych przez dom maklerski nie uznaje się za podstawę realizacji zabezpieczenia w rozumieniu art. 3 pkt 4 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych ani za ogłoszenie upadłości w rozumieniu art. 1 pkt 14 ustawy o ostateczności rozrachunku, jeżeli nadal są wypełniane istotne zobowiązania domu maklerskiego wynikające z umowy, w tym zobowiązania do płatności i dostawy, a także zobowiązania do zapewnienia zabezpieczenia. Przepisy art. 156 ust. 2–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji stosuje się odpowiednio.
-Art. 110zza. 1. Jeżeli w ocenie Komisji zastosowanie środków, o których mowa w art. 110zz ust. 1 pkt 9, w celu poprawy sytuacji domu maklerskiego lub domu maklerskiego stosującego rozporządzenie 575/2013 jest niewystarczające, Komisja może wydać decyzję o ustanowieniu kuratora albo zarządu komisarycznego.
-W decyzji Komisja określa zadania kuratora albo zarządu komisarycznego.
-2. Komisja może zmienić decyzję, o której mowa w ust. 1.
-3. Kurator albo zarząd komisaryczny jest powoływany na okres nie dłuższy niż rok. W uzasadnionych przypadkach okres ten może zostać przedłużony, jeżeli w ocenie Komisji nie ustały przesłanki jego powołania. Komisja publikuje na stronie internetowej informację o przedłużeniu okresu, na który został ustanowiony zarząd komisaryczny albo kurator.
-4. Do kuratora stosuje się odpowiednio przepisy art. 110ze ust. 2–10 i 12–16.
-5. Do zarządu komisarycznego stosuje się odpowiednio przepisy art. 110zf ust. 3–8 i art. 110zg.
-6. W decyzji o ustanowieniu zarządu komisarycznego Komisja może uzależnić dokonywanie określonych czynności przez zarząd komisaryczny od uzyskania zgody Komisji.
-7. Zarząd komisaryczny może zwołać walne zgromadzenie albo zgromadzenie wspólników za zgodą Komisji.
-Art. 110zzb. 1. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego unijną dominującą firmą inwestycyjną albo w odniesieniu do unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, Komisja, w przypadku gdy sprawuje nadzór na zasadzie skonsolidowanej, powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz zainteresowane właściwe organy nadzoru wchodzące w skład kolegium.
-2. Wydając decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza, Komisja uwzględnia stanowiska wyrażone przez zainteresowane właściwe organy nadzoru, w tym także wpływ decyzji na podmioty powiązane. Komisja przekazuje informację o wydaniu decyzji zainteresowanym właściwym organom nadzoru wchodzącym w skład kolegium oraz Europejskiemu Urzędowi Nadzoru Bankowego.
-3. W przypadku gdy właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą powiadomi Komisję sprawującą nadzór nad domem maklerskim będącym podmiotem zależnym od tej unijnej jednostki dominującej o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza w odniesieniu do unijnej jednostki dominującej, Komisja może przekazać stanowisko w zakresie zastosowania tych środków.
-4. W przypadku gdy Komisja zostanie powiadomiona przez właściwy organ nadzoru z innego państwa członkowskiego o planowanym zastosowaniu środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza wobec instytucji będącej podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez Komisję, Komisja może przekazać temu właściwemu organowi nadzoru stanowisko w zakresie wpływu planowanych środków na grupę firm inwestycyjnych oraz na podmioty powiązane w terminie 3 dni roboczych od dnia otrzymania powiadomienia.
-5. W przypadku gdy powiadomienie, o którym mowa w ust. 4, zostało skierowane przez więcej niż jeden właściwy organ nadzoru, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru w zakresie zastosowania środków, o których mowa w art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych w art. 110zza dla wszystkich odnośnych instytucji albo w zakresie skoordynowania stosowania środków, o których mowa w art. 110zz, albo środków równoważnych do środków przewidzianych w art. 110zz, do więcej niż jednej instytucji. Porozumienie powinno zostać osiągnięte w ciągu 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień. Komisja informuje o porozumieniu unijną jednostkę dominującą, nad którą sprawuje nadzór na zasadzie skonsolidowanej.
-6. Przepis ust. 5 ma również zastosowanie, w przypadku gdy Komisja, jako organ sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą, jest jednym z właściwych organów nadzoru zamierzających podjąć wymienione w tym przepisie działania w odniesieniu do podmiotu zależnego, którym jest dom maklerski. W takim wypadku w przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5, w terminie 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień, Komisja może wydać decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza. W decyzji Komisja uwzględnia stanowiska innych właściwych organów nadzoru.
-7. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego, Komisja powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz ten właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej.
-Wydając decyzję, Komisja uwzględnia stanowisko właściwego organu nadzoru sprawującego nadzór na zasadzie skonsolidowanej z innego państwa członkowskiego, jeżeli została ona wyrażona w terminie 3 dni roboczych od dnia otrzymania przez ten właściwy organ nadzoru powiadomienia od Komisji. Komisja powiadamia o wydaniu decyzji organ sprawujący nadzór na zasadzie skonsolidowanej, pozostałe właściwe organy nadzoru w ramach kolegium oraz Europejski Urząd Nadzoru Bankowego.
-8. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego i jednocześnie co najmniej jeden inny właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór nad inną instytucją będącą podmiotem zależnym od tej samej unijnej jednostki dominującej planuje zastosowanie środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza wobec nadzorowanej przez siebie instytucji, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru w zakresie zastosowania środków, o których mowa w art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych w art. 110zza dla wszystkich odnośnych instytucji albo w zakresie skoordynowania stosowania dowolnych środków, o których mowa w art. 110zz, albo środków równoważnych do środków przewidzianych w art. 110zz.
-9. W przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 8, w terminie 5 dni roboczych od dnia otrzymania przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej wobec unijnej jednostki dominującej ostatniego z zawiadomień, Komisja może wydać decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza, wobec domu maklerskiego będącego podmiotem zależnym.
-10. Jeżeli Komisja nie zgadza się z decyzją wydaną po otrzymaniu powiadomienia o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza zgodnie z ust. 3 lub 4 lub w przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5 i 8, Komisja może skierować sprawę do Europejskiego Urzędu Nadzoru Bankowego.
-11. Europejski Urząd Nadzoru Bankowego na wniosek któregokolwiek właściwego organu nadzoru może udzielić wsparcia właściwym organom nadzoru, które zamierzają zastosować co najmniej jeden ze środków określonych w art. 110zz ust. 1:
-1) pkt 1 – w odniesieniu do działań przewidzianych w planie naprawy zgodnie z art. 110zj ust. 3 pkt 4, 10, 11 i 19,
-2) pkt 6,
-3) pkt 8 – w osiągnięciu porozumienia zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010.
-12. Wydając decyzje, o których mowa w ust. 2, 6, 7 lub 9, Komisja uwzględnia potencjalny wpływ tych decyzji na stabilność finansową w zainteresowanych państwach członkowskich.
-13. Jeżeli przed końcem okresu konsultacji, o którym mowa w ust. 1 i 7, lub w terminie 5 dni roboczych, o którym mowa w ust. 6 i 9, którykolwiek z zainteresowanych właściwych organów skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010, Komisja może wydać decyzję niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin konsultacji, o których mowa w ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa w ust. 6 i 9, uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia. Sprawy nie kieruje się do Europejskiego Urzędu Nadzoru Bankowego, jeżeli termin konsultacji, o których mowa w ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa w ust. 6 i 9, upłynął lub jeżeli wspólna decyzja została podjęta.
-14. W przypadku niewydania decyzji przez Europejski Urząd Nadzoru Bankowego w terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego zastosowanie mają indywidualne decyzje wydane zgodnie z ust. 2, 6, 7 lub 9.
-15. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o decyzjach o zastosowaniu środka wczesnej interwencji, o którym mowa w ust. 2 i 6–
-9.
-16. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–15 stosuje się odpowiednio.
-Art. 110zzc. (uchylony)
-Art. 110zzd. W postępowaniach prowadzonych w sprawach, o których mowa w art. 110zze i art. 110zzf, Komisja może odstąpić od stosowania art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego także w przypadkach, gdy zastosowanie tego przepisu mogłoby uniemożliwić lub znacznie utrudnić osiągnięcie celów wczesnej interwencji.
-Art. 110zze. 1. Decyzje wydawane przez Komisję na podstawie przepisów niniejszego oddziału podlegają natychmiastowemu wykonaniu.
-2. Uzasadnienie decyzji, o której mowa w ust. 1, może zostać doręczone w terminie 14 dni od dnia doręczenia decyzji.
-3. W przypadku gdy uzasadnienie doręczane jest po doręczeniu decyzji, termin na złożenie wniosku o ponowne rozpoznanie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
-Art. 110zzf. Do postępowań przed Komisją, prowadzonych na podstawie przepisów niniejszego oddziału, nie stosuje się przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-Art. 110zzg. 1. Doręczanie przez Komisję pism w postępowaniach administracyjnych prowadzonych na podstawie przepisów niniejszego oddziału następuje na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, domu maklerskiego wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
-2. W przypadku ustanowienia pełnomocnika pełnomocnictwo powinno określać adres do doręczeń elektronicznych pełnomocnika wpisany do bazy adresów elektronicznych. W przypadku braku podania adresu do doręczeń elektronicznych w pełnomocnictwie doręczenie pisma na adres do doręczeń elektronicznych domu maklerskiego wpisany do bazy adresów elektronicznych, który ustanowił pełnomocnika, ma skutek prawny.
-3. W przypadku nieodebrania pisma doręczanego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych doręczenie uważa się za dokonane po upływie 2 dni roboczych, licząc od dnia wystawienia dowodu wysłania, o którym mowa w art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
-Art. 110zzh. 1. Jeżeli dom maklerski jest zagrożony upadłością, Komisja informuje o tym niezwłocznie Bankowy Fundusz Gwarancyjny, wskazując przesłanki takiej oceny.
-2. Dom maklerski jest zagrożony upadłością, jeżeli spełniona jest przynajmniej jedna przesłanka, o której mowa w art. 101 ust. 3 ustawy z dnia 10 czerwca 2016 r.
-o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
-3. Zarząd domu maklerskiego, zarząd komisaryczny albo likwidator niezwłocznie zawiadamia Komisję o spełnieniu przesłanek, o których mowa w ust. 1.
-<Art. 110zzi. 1. Komisja udostępnia informacje o podjęciu w ramach wczesnej interwencji decyzji o ustanowieniu kuratora albo zarządu komisarycznego w domach maklerskich, o których mowa w art. 110zza ust. 1, w europejskim pojedynczym punkcie dostępu.
-2. Informacje, o których mowa w ust. 1, są udostępniane przez Komisję w formacie umożliwiającym ekstrakcję danych.
-3. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
-1) nazwą (firmą) domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje;
-2) identyfikatorem podmiotu prawnego domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
-3) rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-4) wskazaniem, czy informacje zawierają dane osobowe.>
 System rekompensat
-Art. 185–213. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -423,7 +115,7 @@ Art. 185–213. (pominięte)
 - **4v)** (uchylony) 4w) rozporządzeniu 2017/1946 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/1946 z dnia 11 lipca 2017 r. w sprawie uzupełnienia dyrektyw 2004/39/WE i 2014/65/UE Parlamentu Europejskiego i Rady w odniesieniu do regulacyjnych standardów technicznych dotyczących wyczerpującego wykazu informacji, które potencjalni nabywcy muszą umieścić w powiadomieniu o planowanym nabyciu znacznego pakietu akcji w firmie inwestycyjnej (Dz. Urz. UE L 276 z 26.10.2017, str. 32);
 - **4x)** rozporządzeniu 2016/679 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
 - **4y)** rozporządzeniu 2017/1129 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
-- **4z)** rozporządzeniu 2018/1212 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2018/1212 z dnia 3 września 2018 r. ustanawiające minimalne wymogi w celu wykonania przepisów dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady w odniesieniu do identyfikacji akcjonariuszy, przekazywania informacji i ułatwiania wykonywania praw akcjonariuszy (Dz. Urz. UE L 223 z 04.09.2018, str. 1); 4za) rozporządzeniu 2017/2402 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35, z późn. zm. ); 4zb) rozporządzeniu 2017/587 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/587 z dnia 14 lipca 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 w sprawie rynków instrumentów finansowych w odniesieniu do regulacyjnych standardów technicznych dotyczących wymogów w zakresie przejrzystości dla systemów obrotu i firm inwestycyjnych w odniesieniu do akcji, kwitów depozytowych, funduszy inwestycyjnych typu ETF, certyfikatów i innych podobnych instrumentów finansowych oraz dotyczących obowiązku realizowania transakcji na określonych akcjach w systemie obrotu lub za pośrednictwem podmiotu systematycznie internalizującego transakcje (Dz. Urz. UE L 87 z 31.03.2017, str. 387, z późn. zm. ); 4zc) rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ); 4zd) rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1); 4ze) rozporządzeniu 2021/23 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/23 z dnia 16 grudnia 2020 r. w sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do kontrahentów centralnych oraz zmieniające rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1); 4zf) rozporządzeniu 2022/858 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1); 4zg) rozporządzeniu 2022/2554 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ); <4zh) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **4z)** rozporządzeniu 2018/1212 – rozumie się przez to rozporządzenie wykonawcze Komisji (UE) 2018/1212 z dnia 3 września 2018 r. ustanawiające minimalne wymogi w celu wykonania przepisów dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady w odniesieniu do identyfikacji akcjonariuszy, przekazywania informacji i ułatwiania wykonywania praw akcjonariuszy (Dz. Urz. UE L 223 z 04.09.2018, str. 1); 4za) rozporządzeniu 2017/2402 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2402 z dnia 12 grudnia 2017 r. w sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35, z późn. zm. ); 4zb) rozporządzeniu 2017/587 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2017/587 z dnia 14 lipca 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 w sprawie rynków instrumentów finansowych w odniesieniu do regulacyjnych standardów technicznych dotyczących wymogów w zakresie przejrzystości dla systemów obrotu i firm inwestycyjnych w odniesieniu do akcji, kwitów depozytowych, funduszy inwestycyjnych typu ETF, certyfikatów i innych podobnych instrumentów finansowych oraz dotyczących obowiązku realizowania transakcji na określonych akcjach w systemie obrotu lub za pośrednictwem podmiotu systematycznie internalizującego transakcje (Dz. Urz. UE L 87 z 31.03.2017, str. 387, z późn. zm. ); 4zc) rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. ); 4zd) rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1); 4ze) rozporządzeniu 2021/23 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/23 z dnia 16 grudnia 2020 r. w sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do kontrahentów centralnych oraz zmieniające rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1); 4zf) rozporządzeniu 2022/858 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1); 4zg) rozporządzeniu 2022/2554 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ); <4zh) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **5)** ofercie publicznej – rozumie się przez to ofertę publiczną papierów wartościowych w rozumieniu art. 2 lit. d rozporządzenia 2017/1129;
 - **6)** obrocie pierwotnym – rozumie się przez to obrót pierwotny w rozumieniu przepisów ustawy o ofercie publicznej;
 - **7)** obrocie wtórnym – rozumie się przez to:
@@ -552,7 +244,7 @@ Art. 185–213. (pominięte)
 - **64)** dyrektywie 2014/65/UE – rozumie się przez to dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającą dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, z późn. zm. ); <65) europejskim pojedynczym punkcie dostępu – rozumie się przez to europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **66)** formacie umożliwiającym ekstrakcję danych – rozumie się przez to format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
 - **67)** formacie nadającym się do odczytu maszynowego – rozumie się przez to format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego;
-- **68)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.>
+- **68)** metadanych – rozumie się przez to metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859.
 
 **Art. 3a.**
 
@@ -739,7 +431,11 @@ Art. 185–213. (pominięte)
 
 9. Od chwili zarejestrowania w depozycie papierów wartościowych obligacji, listów zastawnych lub certyfikatów inwestycyjnych, o których mowa w ust. 1, zapisy w ewidencji osób uprawnionych z tych papierów wartościowych prowadzonej przez agenta emisji wywołują skutki prawne związane z zapisem na rachunkach papierów wartościowych.
 
-10. Emitent obligacji, listów zastawnych lub certyfikatów inwestycyjnych innych niż określone w ust. 1 może zawrzeć z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską, bankiem, o którym mowa w art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę o wykonywanie funkcji agenta emisji tych papierów wartościowych. Przepisy ust. 2–9 stosuje się odpowiednio. Art. 7aa. 1. Emitent obligacji kapitałowych, o których mowa w art. 27g ustawy z dnia 15 stycznia 2015 r. o obligacjach, przed rozpoczęciem proponowania ich nabycia, zawiera z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską albo bankiem, o którym mowa w art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę, której przedmiotem jest przechowywanie dokumentów obligacji kapitałowych oraz prowadzenie rejestru osób uprawnionych z obligacji kapitałowych.
+10. Emitent obligacji, listów zastawnych lub certyfikatów inwestycyjnych innych niż określone w ust. 1 może zawrzeć z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską, bankiem, o którym mowa w art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę o wykonywanie funkcji agenta emisji tych papierów wartościowych. Przepisy ust. 2–9 stosuje się odpowiednio.
+
+**Art. 7aa.**
+
+1. Emitent obligacji kapitałowych, o których mowa w art. 27g ustawy z dnia 15 stycznia 2015 r. o obligacjach, przed rozpoczęciem proponowania ich nabycia, zawiera z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską albo bankiem, o którym mowa w art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę, której przedmiotem jest przechowywanie dokumentów obligacji kapitałowych oraz prowadzenie rejestru osób uprawnionych z obligacji kapitałowych.
 
 2. Na podstawie umowy, o której mowa w ust. 1, firma inwestycyjna, bank państwowy prowadzący działalność maklerską, bank, o którym mowa w art. 70 ust. 2, i bank powierniczy:
 
@@ -3261,7 +2957,9 @@ Art. 185–213. (pominięte)
 
 1. Przy dokonywaniu zgłoszeń w imieniu firmy inwestycyjnej na podstawie art. 26 rozporządzenia 600/2014 podmiot prowadzący system obrotu instrumentami finansowymi stosuje mechanizmy zapewniające zabezpieczenie i uwierzytelnienie środków przesyłu informacji, minimalizujące ryzyko zniekształcenia danych i nieupoważnionego dostępu oraz zapobiegające wyciekowi informacji.
 
-2. Podmiot prowadzący system obrotu instrumentami finansowymi posiada systemy zapasowe zapewniające możliwość oferowania swoich usług i ich utrzymanie w każdym czasie. Art. 78ha. W przypadku, o którym mowa w art. 26 ust. 5 rozporządzenia 600/2014, firma inwestycyjna prowadząca ASO lub OTF może przekazywać Komisji informacje wymagane na podstawie art. 26 ust. 1–3 rozporządzenia 600/2014 za pośrednictwem zatwierdzonego mechanizmu sprawozdawczego.
+2. Podmiot prowadzący system obrotu instrumentami finansowymi posiada systemy zapasowe zapewniające możliwość oferowania swoich usług i ich utrzymanie w każdym czasie.
+
+**Art. 78ha.** W przypadku, o którym mowa w art. 26 ust. 5 rozporządzenia 600/2014, firma inwestycyjna prowadząca ASO lub OTF może przekazywać Komisji informacje wymagane na podstawie art. 26 ust. 1–3 rozporządzenia 600/2014 za pośrednictwem zatwierdzonego mechanizmu sprawozdawczego.
 
 **Art. 78i.**
 
@@ -3784,7 +3482,11 @@ Art. 185–213. (pominięte)
 
 7. Przepisy ust. 1–6 stosuje się odpowiednio do usług maklerskich świadczonych na rzecz klienta profesjonalnego, na żądanie takiego klienta. Klient profesjonalny może zgłosić takie żądanie na piśmie lub w postaci elektronicznej spełniającej wymogi, o których mowa w art. 13 ust. 2 i 3.
 
-8. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane w związku z żądaniami klientów profesjonalnych, o których mowa w ust. 7. Art. 83ja. 1. W przypadku gdy firma inwestycyjna uprawniona do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1–3, zawiera transakcje lub pośredniczy w zawieraniu transakcji z uprawnionym kontrahentem, przepisów art. 73 ust. 6a, art. 73a ust. 1–3, art. 73b, art. 73d ust. 2 i 3, art. 83b ust. 8–17, art. 83c ust. 2– 4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h ust. 1–4 oraz art. 83j ust. 1, 2 i 4 nie stosuje się do tych transakcji ani do związanych z nimi usług, o których mowa w art. 69 ust. 4.
+8. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane w związku z żądaniami klientów profesjonalnych, o których mowa w ust. 7.
+
+**Art. 83ja.**
+
+1. W przypadku gdy firma inwestycyjna uprawniona do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1–3, zawiera transakcje lub pośredniczy w zawieraniu transakcji z uprawnionym kontrahentem, przepisów art. 73 ust. 6a, art. 73a ust. 1–3, art. 73b, art. 73d ust. 2 i 3, art. 83b ust. 8–17, art. 83c ust. 2– 4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h ust. 1–4 oraz art. 83j ust. 1, 2 i 4 nie stosuje się do tych transakcji ani do związanych z nimi usług, o których mowa w art. 69 ust. 4.
 
 2. Firma inwestycyjna pośrednicząca w zawieraniu transakcji z uprawnionym kontrahentem lub zawierająca takie transakcje jest obowiązana działać w sposób rzetelny i profesjonalny. Informacje przekazywane w związku z transakcją muszą być rzetelne, nie mogą budzić wątpliwości ani wprowadzać w błąd oraz muszą uwzględniać charakter uprawnionego kontrahenta i jego działalności.
 
@@ -4530,11 +4232,19 @@ Art. 185–213. (pominięte)
 - **17)** zagranicznej firmie inwestycyjnej – rozumie się przez to firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, z siedzibą w innym państwie członkowskim;
 - **18)** zgodności z grupowym testem kapitałowym – rozumie się przez to zachowanie przez podmiot dominujący w grupie firm inwestycyjnych zgodności z wymogami, o których mowa w art. 8 rozporządzenia 2019/2033.
 
-2. Komisja może, w drodze decyzji, uznać za podmiot dominujący wobec domu maklerskiego lub małego domu maklerskiego osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, jeżeli wywiera ona znaczący wpływ na ten dom maklerski lub mały dom maklerski zgodnie z art. 96 ust. 3. Art. 110aa. 1. Przepisy art. 110ab, art. 110ad–110c, art. 110d, art. 110f–110ga, art. 110i–110m, art. 110o–110q, art. 110v, art. 110va, art. 110w ust. 1, 3–5 i 7, art. 110y ust. 1 i art. 110z stosuje się także do małego domu maklerskiego. Przepisów art. 110v nie stosuje się do małego domu maklerskiego w zakresie dotyczącym zmiennych składników wynagrodzenia.
+2. Komisja może, w drodze decyzji, uznać za podmiot dominujący wobec domu maklerskiego lub małego domu maklerskiego osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, jeżeli wywiera ona znaczący wpływ na ten dom maklerski lub mały dom maklerski zgodnie z art. 96 ust. 3.
+
+**Art. 110aa.**
+
+1. Przepisy art. 110ab, art. 110ad–110c, art. 110d, art. 110f–110ga, art. 110i–110m, art. 110o–110q, art. 110v, art. 110va, art. 110w ust. 1, 3–5 i 7, art. 110y ust. 1 i art. 110z stosuje się także do małego domu maklerskiego. Przepisów art. 110v nie stosuje się do małego domu maklerskiego w zakresie dotyczącym zmiennych składników wynagrodzenia.
 
 2. Jeżeli mały dom maklerski przestanie spełniać warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033, niezwłocznie powiadamia o tym Komisję. W takim przypadku, w terminie 12 miesięcy od dnia, w którym przestał spełniać te warunki, zapewnia zgodność prowadzonej działalności także z dotyczącymi domów maklerskich przepisami niniejszego oddziału niewymienionymi w ust. 1 zdanie pierwsze oraz z dotyczącymi domów maklerskich przepisami wykonawczymi wydanymi na podstawie art. 110x i z przepisami wykonawczymi wydanymi na podstawie art. 110zaa, z tym że przepisy art. 110v, w zakresie dotyczącym zmiennych składników wynagrodzenia, stosuje do wynagrodzenia przyznanego za rok obrotowy następujący po roku obrotowym, w którym przestał spełniać warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033.
 
-3. W przypadku gdy dom maklerski spełni warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033 i powiadomi Komisję o ich spełnieniu, przepisy niniejszego oddziału dotyczące domów maklerskich, z wyjątkiem przepisów, o których mowa w ust. 1 zdanie pierwsze, oraz dotyczące domów maklerskich przepisy wykonawcze wydane na podstawie art. 110x i przepisy wykonawcze wydane na podstawie art. 110zaa przestaje się do niego stosować po upływie 6 miesięcy od dnia, w którym spełnił te warunki, o ile warunki te były spełnione nieprzerwanie przez cały ten okres 6 miesięcy. Art. 110ab. 1. Przepisy niniejszego oddziału stosuje się do domu maklerskiego na poziomie jednostkowym.
+3. W przypadku gdy dom maklerski spełni warunki określone w art. 12 ust. 1 rozporządzenia 2019/2033 i powiadomi Komisję o ich spełnieniu, przepisy niniejszego oddziału dotyczące domów maklerskich, z wyjątkiem przepisów, o których mowa w ust. 1 zdanie pierwsze, oraz dotyczące domów maklerskich przepisy wykonawcze wydane na podstawie art. 110x i przepisy wykonawcze wydane na podstawie art. 110zaa przestaje się do niego stosować po upływie 6 miesięcy od dnia, w którym spełnił te warunki, o ile warunki te były spełnione nieprzerwanie przez cały ten okres 6 miesięcy.
+
+**Art. 110ab.**
+
+1. Przepisy niniejszego oddziału stosuje się do domu maklerskiego na poziomie jednostkowym.
 
 2. W przypadku udzielenia przez Komisję zezwolenia, o którym mowa w art. 8 ust. 1 lub 4 rozporządzenia 2019/2033, do domu maklerskiego objętego grupowym testem kapitałowym stosuje się przepisy niniejszego oddziału na poziomie jednostkowym.
 
@@ -4542,7 +4252,11 @@ Art. 185–213. (pominięte)
 
 4. W przypadku gdy podmiot dominujący mający siedzibę w państwie członkowskim przedłoży Komisji opinię prawną, że stosowanie przepisów niniejszego oddziału do podmiotu mającego siedzibę w państwie niebędącym państwem członkowskim, będącego podmiotem zależnym od tego podmiotu dominującego, byłoby niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, do domu maklerskiego nie stosuje się przepisów niniejszego oddziału na zasadzie skonsolidowanej w zakresie tego podmiotu zależnego.
 
-5. W przypadku gdy stosowanie przepisów niniejszego oddziału do podmiotu zależnego, o którym mowa w ust. 4, przestanie być niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, przepisy niniejszego oddziału stosuje się na zasadzie skonsolidowanej do domu maklerskiego w zakresie tego podmiotu zależnego. O ustaniu takiej niezgodności podmiot dominujący, o którym mowa w ust. 4, niezwłocznie informuje Komisję. Art. 110ac. 1. W przypadku gdy:
+5. W przypadku gdy stosowanie przepisów niniejszego oddziału do podmiotu zależnego, o którym mowa w ust. 4, przestanie być niezgodne z prawem państwa, w którym ten podmiot zależny ma siedzibę, przepisy niniejszego oddziału stosuje się na zasadzie skonsolidowanej do domu maklerskiego w zakresie tego podmiotu zależnego. O ustaniu takiej niezgodności podmiot dominujący, o którym mowa w ust. 4, niezwłocznie informuje Komisję.
+
+**Art. 110ac.**
+
+1. W przypadku gdy:
 
 - **1)** dom maklerski w ramach prowadzonej działalności maklerskiej wykonuje czynności, o których mowa w art. 69 ust. 2 pkt 3 lub 7, oraz
 - **2)** całkowita wartość skonsolidowanych aktywów domu maklerskiego obliczona jako średnia z ostatnich 12 miesięcy jest równa równowartości w złotych kwoty 5 000 000 000 euro lub przekracza tę wartość, oraz
@@ -4557,7 +4271,9 @@ Art. 185–213. (pominięte)
 
 4. Komisja niezwłocznie informuje Europejski Urząd Nadzoru Bankowego o wydaniu i uchyleniu decyzji, o której mowa w ust. 1.
 
-5. Równowartość w złotych kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy. Art. 110ad. W przypadku gdy stosuje się przepisy art. 8 rozporządzenia 2019/2033, Komisja obejmuje nadzorem nad zgodnością z grupowym testem kapitałowym także inwestycyjną spółkę holdingową i finansową spółkę holdingową o działalności mieszanej, wchodzące w skład grupy firm inwestycyjnych, do której należy dom maklerski.
+5. Równowartość w złotych kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy.
+
+**Art. 110ad.** W przypadku gdy stosuje się przepisy art. 8 rozporządzenia 2019/2033, Komisja obejmuje nadzorem nad zgodnością z grupowym testem kapitałowym także inwestycyjną spółkę holdingową i finansową spółkę holdingową o działalności mieszanej, wchodzące w skład grupy firm inwestycyjnych, do której należy dom maklerski.
 
 **Art. 110b.**
 
@@ -4590,7 +4306,11 @@ Art. 185–213. (pominięte)
 
 3. Rada nadzorcza domu maklerskiego sprawuje nadzór nad wypełnianiem przez zarząd obowiązków, o których mowa w ust. 1 i 2, oraz ocenia adekwatność i skuteczność przyjętych rozwiązań, w tym zatwierdza akceptowalny ogólny poziom ryzyka domu maklerskiego.
 
-4. Rada nadzorcza domu maklerskiego oraz komitet do spraw ryzyka, jeżeli został powołany, mają prawo dostępu do informacji dotyczących ryzyka związanego z działalnością domu maklerskiego, w szczególności mogą żądać informacji od osób wykonujących w domu maklerskim funkcje w zakresie zarządzania ryzykiem oraz wyjaśnień od ekspertów zewnętrznych świadczących usługi w zakresie zarządzania ryzykiem na rzecz domu maklerskiego. Art. 110ca. (uchylony) Art. 110cb. (uchylony)
+4. Rada nadzorcza domu maklerskiego oraz komitet do spraw ryzyka, jeżeli został powołany, mają prawo dostępu do informacji dotyczących ryzyka związanego z działalnością domu maklerskiego, w szczególności mogą żądać informacji od osób wykonujących w domu maklerskim funkcje w zakresie zarządzania ryzykiem oraz wyjaśnień od ekspertów zewnętrznych świadczących usługi w zakresie zarządzania ryzykiem na rzecz domu maklerskiego.
+
+**Art. 110ca.** (uchylony)
+
+**Art. 110cb.** (uchylony)
 
 **Art. 110d.** Na potrzeby stosowania:
 
@@ -4614,13 +4334,25 @@ Art. 185–213. (pominięte)
 
 5. (uchylony)
 
-6. Komisja może, w drodze decyzji, objąć obowiązkami, o których mowa w ust. 1–2, mały dom maklerski, w zakresie, w jakim uzna to za uzasadnione ze względu na poziom ryzyka wynikającego z modelu biznesowego małego domu maklerskiego. Art. 110ea. 1. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty dodatkowe w Tier I, zgodnie z art. 52 rozporządzenia 575/2013, po uzyskaniu zgody Komisji.
+6. Komisja może, w drodze decyzji, objąć obowiązkami, o których mowa w ust. 1–2, mały dom maklerski, w zakresie, w jakim uzna to za uzasadnione ze względu na poziom ryzyka wynikającego z modelu biznesowego małego domu maklerskiego.
+
+**Art. 110ea.**
+
+1. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty dodatkowe w Tier I, zgodnie z art. 52 rozporządzenia 575/2013, po uzyskaniu zgody Komisji.
 
 2. Komisja udziela zgody, o której mowa w ust. 1, jeżeli są spełnione warunki, o których mowa w art. 52 rozporządzenia 575/2013.
 
-3. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty w Tier II, zgodnie z art. 63 rozporządzenia 575/2013, po zawiadomieniu Komisji. Art. 110eb. 1. Zaciągnięcie pożyczki podporządkowanej kwalifikowanej do funduszy własnych jako instrumenty dodatkowe w Tier I, o których mowa w art. 52 rozporządzenia 575/2013, wymaga uchwały zarządu domu maklerskiego albo małego domu maklerskiego oraz zgody rady nadzorczej odpowiednio domu maklerskiego albo małego domu maklerskiego.
+3. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty w Tier II, zgodnie z art. 63 rozporządzenia 575/2013, po zawiadomieniu Komisji.
 
-2. Przedmiotem pożyczki podporządkowanej, o której mowa w ust. 1, mogą być środki pieniężne w wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały, o której mowa w ust. 1. Art. 110ec. 1. Umowa pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, może być zawarta wyłącznie z podmiotami wymienionymi w art. 3 pkt 39b lit. a–m w formie pisemnej pod rygorem nieważności.
+**Art. 110eb.**
+
+1. Zaciągnięcie pożyczki podporządkowanej kwalifikowanej do funduszy własnych jako instrumenty dodatkowe w Tier I, o których mowa w art. 52 rozporządzenia 575/2013, wymaga uchwały zarządu domu maklerskiego albo małego domu maklerskiego oraz zgody rady nadzorczej odpowiednio domu maklerskiego albo małego domu maklerskiego.
+
+2. Przedmiotem pożyczki podporządkowanej, o której mowa w ust. 1, mogą być środki pieniężne w wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały, o której mowa w ust. 1.
+
+**Art. 110ec.**
+
+1. Umowa pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, może być zawarta wyłącznie z podmiotami wymienionymi w art. 3 pkt 39b lit. a–m w formie pisemnej pod rygorem nieważności.
 
 2. W umowie pożyczki podporządkowanej określa się ryzyko związane z możliwością wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, oraz ryzyko dokonania umorzenia, w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części kwotę tej pożyczki, a także ryzyko umorzenia odsetek albo części odsetek z tytułu tej pożyczki.
 
@@ -4628,7 +4360,11 @@ Art. 185–213. (pominięte)
 
 4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
-5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m. Art. 110ed. 1. Pożyczka podporządkowana, o której mowa w art. 110eb ust. 1, podlega spłacie, w przypadku gdy:
+5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m.
+
+**Art. 110ed.**
+
+1. Pożyczka podporządkowana, o której mowa w art. 110eb ust. 1, podlega spłacie, w przypadku gdy:
 
 - **1)** umowa pożyczki podporządkowanej przewiduje jej spłatę oraz
 - **2)** dom maklerski albo mały dom maklerski uzyskał zezwolenie Komisji na spłatę pożyczki podporządkowanej, oraz
@@ -4636,15 +4372,25 @@ Art. 185–213. (pominięte)
 
 2. Pożyczka podporządkowana może podlegać spłacie przez dom maklerski albo mały dom maklerski również w przypadku odmowy wydania zezwolenia przez Komisję na jej zakwalifikowanie do funduszy własnych jako instrumentu dodatkowego w Tier I, o którym mowa w art. 52 rozporządzenia 575/213, jeżeli w umowie pożyczki podporządkowanej zostało zawarte uprawnienie domu maklerskiego albo małego domu maklerskiego do spłaty pożyczki podporządkowanej w takim przypadku.
 
-3. Wymogu uzyskania zezwolenia na spłatę pożyczki podporządkowanej, o którym mowa w ust. 1 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia 2019/2033. Art. 110ee. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego może, w drodze uchwały, umorzyć odsetki albo część odsetek z tytułu umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego niezwłocznie informuje o tym umorzeniu udzielającego pożyczkę podporządkowaną.
+3. Wymogu uzyskania zezwolenia na spłatę pożyczki podporządkowanej, o którym mowa w ust. 1 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia 2019/2033.
 
-2. W przypadku, o którym mowa w ust. 1, umorzenie odsetek nie stanowi niewykonania lub nienależytego wykonania zobowiązania lub zwłoki w wykonaniu zobowiązania przez dom maklerski albo mały dom maklerski. Art. 110ef. 1. W przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, określonego w umowie pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, dom maklerski i mały dom maklerski dokonuje umorzenia tej pożyczki w formie odpisu trwałego albo odpisu tymczasowego obniżających w całości albo w części kwotę tej pożyczki.
+**Art. 110ee.**
+
+1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego może, w drodze uchwały, umorzyć odsetki albo część odsetek z tytułu umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego niezwłocznie informuje o tym umorzeniu udzielającego pożyczkę podporządkowaną.
+
+2. W przypadku, o którym mowa w ust. 1, umorzenie odsetek nie stanowi niewykonania lub nienależytego wykonania zobowiązania lub zwłoki w wykonaniu zobowiązania przez dom maklerski albo mały dom maklerski.
+
+**Art. 110ef.**
+
+1. W przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, określonego w umowie pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, dom maklerski i mały dom maklerski dokonuje umorzenia tej pożyczki w formie odpisu trwałego albo odpisu tymczasowego obniżających w całości albo w części kwotę tej pożyczki.
 
 2. Wysokość odpisu, o którym mowa w ust. 1, określa uchwała zarządu domu maklerskiego albo zarządu małego domu maklerskiego.
 
 3. Umowa pożyczki podporządkowanej może przewidywać kryteria, po których spełnieniu dom maklerski albo mały domu maklerski będzie uprawniony do podwyższenia kwoty tej pożyczki, w przypadku gdy została ona umorzona w formie odpisu tymczasowego obniżającego w części kwotę tej pożyczki w wyniku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013.
 
-4. W przypadku, o którym mowa w ust. 3, kwota pożyczki podporządkowanej nie może być wyższa niż kwota z dnia jej zaciągnięcia. Art. 110eg. Roszczenie o spłatę pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, staje się wymagalne z chwilą ogłoszenia upadłości albo likwidacji domu maklerskiego albo małego domu maklerskiego.
+4. W przypadku, o którym mowa w ust. 3, kwota pożyczki podporządkowanej nie może być wyższa niż kwota z dnia jej zaciągnięcia.
+
+**Art. 110eg.** Roszczenie o spłatę pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, staje się wymagalne z chwilą ogłoszenia upadłości albo likwidacji domu maklerskiego albo małego domu maklerskiego.
 
 **Art. 110f.**
 
@@ -4672,7 +4418,11 @@ Art. 185–213. (pominięte)
 
 9. Dla oceny spełnienia warunku, o którym mowa w art. 23 ust. 1 akapit pierwszy lit. c rozporządzenia 2019/2033, Komisja może zwrócić się do właściwego organu w innym państwie członkowskim, w którym członek rozliczający w rozumieniu art. 2 pkt 14 rozporządzenia 648/2012 ma siedzibę, o przekazanie informacji dotyczących modelu i parametrów dotyczących depozytu zabezpieczającego, wykorzystywanych do obliczania wymogu dotyczącego tego depozytu dla domu maklerskiego.
 
-10. Na żądanie właściwego organu państwa członkowskiego pochodzenia i w zakresie niezbędnym dla oceny spełnienia warunku, o którym mowa w art. 23 ust. 1 akapit pierwszy lit. c rozporządzenia 2019/2033, Komisja przekazuje temu organowi informacje dotyczące modelu i parametrów dotyczących depozytu zabezpieczającego, wymaganego przez członka rozliczającego w rozumieniu art. 2 pkt 14 rozporządzenia 648/2012, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykorzystywanych do obliczania wymogu dotyczącego tego depozytu dla zagranicznej firmy inwestycyjnej. Art. 110fa. 1. Do grupy z państwa trzeciego, do której należą:
+10. Na żądanie właściwego organu państwa członkowskiego pochodzenia i w zakresie niezbędnym dla oceny spełnienia warunku, o którym mowa w art. 23 ust. 1 akapit pierwszy lit. c rozporządzenia 2019/2033, Komisja przekazuje temu organowi informacje dotyczące modelu i parametrów dotyczących depozytu zabezpieczającego, wymaganego przez członka rozliczającego w rozumieniu art. 2 pkt 14 rozporządzenia 648/2012, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykorzystywanych do obliczania wymogu dotyczącego tego depozytu dla zagranicznej firmy inwestycyjnej.
+
+**Art. 110fa.**
+
+1. Do grupy z państwa trzeciego, do której należą:
 
 - **1)** co najmniej dwa podmioty będące domem maklerskim albo finansową spółką holdingową, której działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo finansową spółką holdingową o działalności mieszanej, której działalność została zatwierdzona zgodnie z art. 48q ust. 3 tej ustawy, albo
 - **2)** zagraniczna firma inwestycyjna i jeden z podmiotów, o których mowa w pkt 1, albo
@@ -4691,7 +4441,11 @@ Art. 185–213. (pominięte)
 - **1)** przynależenie do grupy z państwa trzeciego, o której mowa w ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą byłoby niezgodne z przepisami obowiązującymi w państwie trzecim, w którym znajduje się siedziba podmiotu dominującego na najwyższym poziomie konsolidacji grupy z państwa trzeciego, z których wynika obowiązek rozdzielenia działalności, lub z decyzjami właściwego organu nadzoru tego państwa, z których wynika obowiązek takiego rozdzielenia, lub
 - **2)** organ właściwy dla pośredniej unijnej jednostki dominującej w sprawach przymusowej restrukturyzacji wyda opinię, zgodnie z którą przynależenie do grupy z państwa trzeciego, o której mowa w ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą zmniejszyłoby możliwość przeprowadzenia przymusowej restrukturyzacji takiej pośredniej unijnej jednostki dominującej.
 
-6. W przypadku, o którym mowa w ust. 5 pkt 1, gdy obowiązek rozdzielenia działalności, o którym mowa w tym przepisie, związany jest z działalnością o charakterze inwestycyjnym, jednym z podmiotów będących pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna w rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013. Art. 110fb. 1. W przypadku gdy dom maklerski, finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, których działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, należą do grupy z państwa trzeciego, której łączna wartość aktywów na terytorium państw członkowskich jest niższa niż równowartość w złotych 40 000 000 000 euro, przepisu art. 110fa nie stosuje się.
+6. W przypadku, o którym mowa w ust. 5 pkt 1, gdy obowiązek rozdzielenia działalności, o którym mowa w tym przepisie, związany jest z działalnością o charakterze inwestycyjnym, jednym z podmiotów będących pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna w rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013.
+
+**Art. 110fb.**
+
+1. W przypadku gdy dom maklerski, finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, których działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, należą do grupy z państwa trzeciego, której łączna wartość aktywów na terytorium państw członkowskich jest niższa niż równowartość w złotych 40 000 000 000 euro, przepisu art. 110fa nie stosuje się.
 
 2. Łączna wartość aktywów, o której mowa w ust. 1, stanowi sumę:
 
@@ -4725,7 +4479,11 @@ Art. 185–213. (pominięte)
 
 6. Komisja i właściwy organ nadzoru nad zagraniczną firmą inwestycyjną mogą uzgodnić, w drodze porozumienia, odstąpienie od kryteriów określonych w ust. 3–5, jeżeli ich zastosowanie jest niewłaściwe ze względu na specyfikę domu maklerskiego lub zagranicznej firmy inwestycyjnej i istotność ich działalności w poszczególnych państwach członkowskich, oraz ustalić, że Komisja albo właściwy organ nadzoru nad zagraniczną firmą inwestycyjną będzie sprawować nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym. W takim przypadku Komisja, przed zawarciem porozumienia, umożliwia wyrażenie opinii przez odpowiednią unijną dominującą inwestycyjną spółkę holdingową, unijną dominującą finansową spółkę holdingową o działalności mieszanej lub dom maklerski albo zagraniczną firmę inwestycyjną o największej sumie bilansowej ze wszystkich podmiotów wchodzących w skład grupy firm inwestycyjnych będących domami maklerskimi lub zagranicznymi firmami inwestycyjnymi, chyba że taka opinia została wyrażona wobec właściwego organu nadzoru z innego państwa członkowskiego.
 
-7. Komisja powiadamia Komisję Europejską i Europejski Urząd Nadzoru Bankowego o zawarciu porozumienia, o którym mowa w ust. 6. Art. 110ga. 1. Komisja sprawuje nadzór skonsolidowany zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, w przypadku gdy:
+7. Komisja powiadamia Komisję Europejską i Europejski Urząd Nadzoru Bankowego o zawarciu porozumienia, o którym mowa w ust. 6.
+
+**Art. 110ga.**
+
+1. Komisja sprawuje nadzór skonsolidowany zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, w przypadku gdy:
 
 - **1)** dom maklerski stosujący rozporządzenie 575/2013 jest dominującą firmą inwestycyjną z państwa członkowskiego w rozumieniu art. 4 ust. 1 pkt 29a rozporządzenia 575/2013 lub unijną dominującą firmą inwestycyjną w rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013 i żaden z jego podmiotów zależnych nie jest instytucją kredytową;
 - **2)** podmiotem dominującym domu maklerskiego stosującego rozporządzenie 575/2013 jest dominująca finansowa spółka holdingowa z państwa członkowskiego w rozumieniu art. 4 ust. 1 pkt 30 rozporządzenia 575/2013, dominująca finansowa spółka holdingowa o działalności mieszanej z państwa członkowskiego w rozumieniu art. 4 ust. 1 pkt 32 rozporządzenia 575/2013, unijna dominująca finansowa spółka holdingowa w rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia 575/2013 lub unijna dominująca finansowa spółka holdingowa o działalności mieszanej w rozumieniu art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, i żaden z podmiotów zależnych od tych spółek nie jest instytucją kredytową;
@@ -4940,7 +4698,9 @@ Art. 185–213. (pominięte)
 
 9. (uchylony)
 
-10. (uchylony) Art. 110va. Dom maklerski, który korzysta z finansowego wsparcia pochodzącego ze środków publicznych, w szczególności na podstawie ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) lub ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2022 r. poz. 396 oraz z 2023 r. poz. 825):
+10. (uchylony)
+
+**Art. 110va.** Dom maklerski, który korzysta z finansowego wsparcia pochodzącego ze środków publicznych, w szczególności na podstawie ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) lub ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2022 r. poz. 396 oraz z 2023 r. poz. 825):
 
 - **1)** nie wypłaca członkom zarządu i rady nadzorczej zmiennych składników wynagrodzenia;
 - **2)** w przypadku zagrożenia spełniania wymogów w zakresie funduszy własnych, określonych w przepisach prawa oraz wynikających z indywidualnych decyzji dotyczących domu maklerskiego oraz terminowego wycofania się ze wsparcia pochodzącego ze środków publicznych, ogranicza zmienne składniki wynagrodzenia osób niebędących członkami zarządu lub rady nadzorczej do odsetka zysku netto.
@@ -4976,7 +4736,9 @@ Art. 185–213. (pominięte)
 - **1)** szczegółowe warunki i sposób szacowania przez dom maklerski oraz mały dom maklerski objęty obowiązkami, o których mowa w art. 110e ust. 1–2, kapitału wewnętrznego i aktywów płynnych oraz dokonywania przeglądów procesu szacowania i utrzymywania tego kapitału i tych aktywów,
 - **2)** szczegółowe warunki i sposób funkcjonowania systemu zarządzania ryzykiem w domu maklerskim i małym domu maklerskim, w tym skład, szczegółowe zadania i sposób funkcjonowania komitetu do spraw ryzyka,
 - **3)** sposób przeprowadzania oraz szczegółowy zakres badania i oceny nadzorczej,
-- **4)** szczegółowy zakres polityki wynagrodzeń, w tym kategorie osób, dla których sporządza się i do których stosuje się politykę wynagrodzeń, a także sposób jej ustalania i dokonywania jej przeglądów oraz ocen – mając na względzie potrzebę zapewnienia skutecznego funkcjonowania organów domu maklerskiego i małego domu maklerskiego, należytego podejścia do podejmowanego ryzyka w zakresie prowadzonej działalności, właściwego funkcjonowania systemu zarządzania ryzykiem, szacowania kapitału wewnętrznego i aktywów płynnych, realizacji celów badania i oceny nadzorczej, a także sprawnego ich przebiegu, jak również zapewnienia właściwego funkcjonowania w domu maklerskim i małym domu maklerskim polityki wynagrodzeń, w tym wyeliminowania negatywnego wpływu systemów wynagrodzeń na należyte zarządzanie ryzykiem, oraz uwzględniając rozwiązania umożliwiające Komisji monitorowanie prawidłowości stosowanych w domach maklerskich i małych domach maklerskich wewnętrznych rozwiązań w zakresie zarządzania. Art. 110xa. (uchylony)
+- **4)** szczegółowy zakres polityki wynagrodzeń, w tym kategorie osób, dla których sporządza się i do których stosuje się politykę wynagrodzeń, a także sposób jej ustalania i dokonywania jej przeglądów oraz ocen – mając na względzie potrzebę zapewnienia skutecznego funkcjonowania organów domu maklerskiego i małego domu maklerskiego, należytego podejścia do podejmowanego ryzyka w zakresie prowadzonej działalności, właściwego funkcjonowania systemu zarządzania ryzykiem, szacowania kapitału wewnętrznego i aktywów płynnych, realizacji celów badania i oceny nadzorczej, a także sprawnego ich przebiegu, jak również zapewnienia właściwego funkcjonowania w domu maklerskim i małym domu maklerskim polityki wynagrodzeń, w tym wyeliminowania negatywnego wpływu systemów wynagrodzeń na należyte zarządzanie ryzykiem, oraz uwzględniając rozwiązania umożliwiające Komisji monitorowanie prawidłowości stosowanych w domach maklerskich i małych domach maklerskich wewnętrznych rozwiązań w zakresie zarządzania.
+
+**Art. 110xa.** (uchylony)
 
 **Art. 110y.**
 
@@ -5023,13 +4785,21 @@ Art. 185–213. (pominięte)
 
 9. Komisja, na podstawie oceny indywidualnych przypadków, jeżeli uzna to za uzasadnione, może, w drodze decyzji, nałożyć wymóg w zakresie dodatkowych funduszy własnych zgodnie z ust. 3 i 6–8 na mały dom maklerski.
 
-10. Komisja informuje Bankowy Fundusz Gwarancyjny o nałożeniu wymogów w zakresie dodatkowych funduszy własnych zgodnie z ust. 3 na dom maklerski, o którym mowa w art. 98 ust. 3. Art. 110ya. 1. Komisja może zalecić domowi maklerskiemu utrzymywanie funduszy własnych na poziomie, który Komisja uznaje za adekwatny dla kapitału wewnętrznego domu maklerskiego, o którym mowa w art. 110e. Ustalona w ten sposób wysokość funduszy własnych może przewyższać wymogi określone w części trzeciej rozporządzenia 2019/2033 oraz wymogi w zakresie dodatkowych funduszy własnych nałożone zgodnie z art. 110y ust. 3. W zaleceniu Komisja określa termin zwiększenia funduszy własnych domu maklerskiego.
+10. Komisja informuje Bankowy Fundusz Gwarancyjny o nałożeniu wymogów w zakresie dodatkowych funduszy własnych zgodnie z ust. 3 na dom maklerski, o którym mowa w art. 98 ust. 3.
+
+**Art. 110ya.**
+
+1. Komisja może zalecić domowi maklerskiemu utrzymywanie funduszy własnych na poziomie, który Komisja uznaje za adekwatny dla kapitału wewnętrznego domu maklerskiego, o którym mowa w art. 110e. Ustalona w ten sposób wysokość funduszy własnych może przewyższać wymogi określone w części trzeciej rozporządzenia 2019/2033 oraz wymogi w zakresie dodatkowych funduszy własnych nałożone zgodnie z art. 110y ust. 3. W zaleceniu Komisja określa termin zwiększenia funduszy własnych domu maklerskiego.
 
 2. Komisja, wydając zalecenie, o którym mowa w ust. 1, uwzględnia zasady proporcjonalności oraz wielkość, znaczenie systemowe, charakter, skalę i złożoność działalności domu maklerskiego oraz bierze pod uwagę konieczność zapewnienia, aby cykliczne wahania koniunktury gospodarczej nie prowadziły do naruszenia przez dom maklerski wymogów w zakresie funduszy własnych, w tym dodatkowych funduszy własnych, o których mowa w art. 110y ust. 3, lub nie zagrażały zdolności domu maklerskiego do likwidacji i zaprzestania działalności w uporządkowany sposób.
 
 3. W przypadku gdy z badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, wynika że wysokość funduszy własnych zalecona przez Komisję zgodnie z ust. 1 nie jest wystarczająca, Komisja może zalecić domowi maklerskiemu utrzymywanie innego poziomu funduszy własnych, wskazując termin na dostosowanie ich wysokości przez dom maklerski.
 
-4. Komisja informuje Bankowy Fundusz Gwarancyjny o wydaniu domowi maklerskiemu, o którym mowa w art. 98 ust. 3, zaleceń określonych w ust. 1 i 3. Art. 110yb. 1. Komisja może nałożyć wymogi, o których mowa w art. 110y ust. 1 pkt 9, jeżeli na podstawie badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, stwierdzi, że dom maklerski albo mały dom maklerski, nieposiadający zwolnienia, o którym mowa w art. 43 ust. 1 akapit drugi rozporządzenia 2019/2033:
+4. Komisja informuje Bankowy Fundusz Gwarancyjny o wydaniu domowi maklerskiemu, o którym mowa w art. 98 ust. 3, zaleceń określonych w ust. 1 i 3.
+
+**Art. 110yb.**
+
+1. Komisja może nałożyć wymogi, o których mowa w art. 110y ust. 1 pkt 9, jeżeli na podstawie badania i oceny nadzorczej lub weryfikacji, o której mowa w art. 110u, stwierdzi, że dom maklerski albo mały dom maklerski, nieposiadający zwolnienia, o którym mowa w art. 43 ust. 1 akapit drugi rozporządzenia 2019/2033:
 
 - **1)** jest narażony na istotne ryzyko płynności niepokryte w całości lub pokryte w niewystarczającym stopniu wymogiem płynności określonym w części piątej rozporządzenia 2019/2033 lub
 - **2)** nie spełnia wymogów określonych w art. 110b, art. 110c lub art. 110e, a zastosowanie innych środków nadzorczych może nie zapewnić we właściwym stopniu i czasie przestrzegania wymogów płynności, o których mowa w przepisach niniejszego oddziału i rozporządzenia 2019/2033.
@@ -5052,7 +4822,17 @@ Art. 185–213. (pominięte)
 3. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania domu maklerskiego lub wchodzące w skład jego organów albo pozostające z domem maklerskim w stosunku pracy sporządzają i przekazują, na koszt domu maklerskiego:
 
 - **1)** dodatkowe informacje sprawozdawcze, niezwłocznie lub okresowo, w tym w zakresie sprawozdawczości dotyczącej sytuacji kapitałowej lub poziomu płynności;
-- **2)** inne informacje niezbędne do wykonywania nadzoru w zakresie określonym w przepisach niniejszego oddziału lub rozporządzenia 2019/2033. Art. 110za. (uchylony) Art. 110zaa. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, w drodze rozporządzenia, ekspozycje podlegające wyłączeniu z zakresu stosowania przepisów art. 37 rozporządzenia 2019/2033, mając na uwadze spełnienie warunków określonych w art. 41 ust. 2 tego rozporządzenia. Art. 110zab. W przypadku domu maklerskiego, który świadczy usługę prowadzenia rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, wartości akcji zarejestrowanych w rejestrze akcjonariuszy nie wlicza się do wartości aktywów zabezpieczonych i objętych administrowaniem, o których mowa w art. 4 ust. 1 pkt 29 rozporządzenia 2019/2033. Art. 110zb. 1. Wartość procentowa, o której mowa w art. 478 ust. 1 rozporządzenia 575/2013, dla domu maklerskiego wynosi 100 %.
+- **2)** inne informacje niezbędne do wykonywania nadzoru w zakresie określonym w przepisach niniejszego oddziału lub rozporządzenia 2019/2033.
+
+**Art. 110za.** (uchylony)
+
+**Art. 110zaa.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, w drodze rozporządzenia, ekspozycje podlegające wyłączeniu z zakresu stosowania przepisów art. 37 rozporządzenia 2019/2033, mając na uwadze spełnienie warunków określonych w art. 41 ust. 2 tego rozporządzenia.
+
+**Art. 110zab.** W przypadku domu maklerskiego, który świadczy usługę prowadzenia rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, wartości akcji zarejestrowanych w rejestrze akcjonariuszy nie wlicza się do wartości aktywów zabezpieczonych i objętych administrowaniem, o których mowa w art. 4 ust. 1 pkt 29 rozporządzenia 2019/2033.
+
+**Art. 110zb.**
+
+1. Wartość procentowa, o której mowa w art. 478 ust. 1 rozporządzenia 575/2013, dla domu maklerskiego wynosi 100 %.
 
 2. Wartość procentowa, o której mowa w art. 479 ust. 3 rozporządzenia 575/2013, dla domu maklerskiego wynosi 0 %.
 
@@ -5066,7 +4846,557 @@ Art. 185–213. (pominięte)
 
 ##### Oddział 2b Postępowanie naprawcze
 
+**Art. 110zc.**
+
+1. W przypadku wystąpienia sytuacji zagrażającej stabilności finansowej lub powstania niebezpieczeństwa niewypłacalności lub utraty płynności domu maklerskiego na poziomie jednostkowym lub skonsolidowanym dom maklerski niezwłocznie zawiadamia o tym Komisję oraz przedstawia jej program postępowania naprawczego.
+
+2. Za realizację programu postępowania naprawczego przez dom maklerski odpowiada zarząd domu maklerskiego.
+
+3. Program postępowania naprawczego uwzględnia wielkość domu maklerskiego, a także skalę i stopień złożoności jego działalności.
+
+4. Program postępowania naprawczego obejmuje w szczególności:
+
+- **1)** wskazanie sposobu przywrócenia stabilności finansowej, wypłacalności lub płynności;
+- **2)** założenia do programu i wskazanie istotnych etapów jego realizacji;
+- **3)** wskazanie zagrożeń dla realizacji programu i sposobu ich eliminacji.
+
+5. Komisja może wyznaczyć domowi maklerskiemu termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zalecić jego uzupełnienie lub ponowne opracowanie.
+
+6. W razie zaniechania działań określonych w ust. 1 lub 5 Komisja może, w drodze decyzji, nakazać domowi maklerskiemu wszczęcie postępowania naprawczego.
+
+7. W okresie realizacji przez dom maklerski programu postępowania naprawczego zysk osiągany przez dom maklerski jest przeznaczany w pierwszej kolejności na pokrycie strat, a następnie na zwiększenie funduszy własnych.
+
+**Art. 110zd.**
+
+1. Jeżeli program postępowania naprawczego nie jest wystarczający lub jego realizacja nie jest należyta, Komisja może:
+
+- **1)** wystąpić do zarządu domu maklerskiego z żądaniem zwołania nadzwyczajnego walnego zgromadzenia albo zgromadzenia wspólników w celu rozpatrzenia sytuacji domu maklerskiego, powzięcia decyzji o pokryciu straty bilansowej oraz podjęcia innych uchwał, w tym zwiększenia, w okresie nie dłuższym niż 6 miesięcy, funduszy własnych;
+- **2)** nakazać obniżenie lub wstrzymanie wypłaty niektórych zmiennych składników wynagrodzeń osób zajmujących stanowiska kierownicze w domu maklerskim, w tym przypadających za czas zajmowania stanowiska kierowniczego w domu maklerskim, nie dłużej niż za ostatnie 3 lata.
+
+2. Zarząd domu maklerskiego powinien zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników w ciągu 14 dni od dnia doręczenia decyzji Komisji w przedmiocie żądania, o którym mowa w ust. 1 pkt 1. Komisja może zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników, jeżeli zarząd domu maklerskiego nie zwołał tego zgromadzenia w tym terminie. Koszty zwołania i odbycia walnego zgromadzenia albo zgromadzenia wspólników obciążają dom maklerski.
+
+3. Przerwy w walnym zgromadzeniu albo w zgromadzeniu wspólników nie mogą trwać łącznie dłużej niż 14 dni.
+
+**Art. 110ze.**
+
+1. Komisja może wydać decyzję o ustanowieniu kuratora nadzorującego wykonanie programu postępowania naprawczego przez dom maklerski, jeżeli jest to niezbędne do zapewnienia prawidłowego przebiegu postępowania naprawczego.
+
+2. Kuratorowi przysługuje prawo uczestniczenia w posiedzeniach organów domu maklerskiego oraz prawo żądania informacji niezbędnych do wykonywania jego funkcji. Organy z odpowiednim wyprzedzeniem informują kuratora o posiedzeniach organów.
+
+3. Organy domu maklerskiego niezwłocznie informują kuratora o powziętych uchwałach i decyzjach.
+
+4. Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu, rady nadzorczej lub komisji rewizyjnej domu maklerskiego. Oświadczenie o zamiarze wniesienia sprzeciwu zgłoszone na posiedzeniu rady nadzorczej, komisji rewizyjnej lub zarządu wstrzymuje wykonanie uchwały lub decyzji.
+
+5. Sprzeciw, o którym mowa w ust. 4, kurator wnosi do sądu właściwego w sprawach gospodarczych w terminie 14 dni od daty powzięcia uchwały lub decyzji zarządu, rady nadzorczej lub komisji rewizyjnej.
+
+6. W przypadku braku wniesienia sprzeciwu do sądu w terminie, o którym mowa w ust. 5, lub w przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o której mowa w ust. 4, podlega wykonaniu.
+
+7. Kurator może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+
+8. Od decyzji o ustanowieniu kuratora dom maklerski może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
+
+9. Funkcję kuratora może pełnić osoba posiadająca kwalifikacje i doświadczenie zawodowe w zakresie organizacji i zasad działalności domu maklerskiego. Kuratorem może być również osoba prawna.
+
+10. Komisja może żądać od kuratora wyjaśnień i informacji związanych z pełnieniem funkcji.
+
+11. Kurator niezwłocznie zawiadamia Komisję o wszelkich zagrożeniach prawidłowej i terminowej realizacji programu postępowania naprawczego.
+
+12. Kurator składa Komisji kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez zarząd domu maklerskiego programu postępowania naprawczego.
+
+13. Wynagrodzenie kuratora ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie prezesa domu maklerskiego, w którym ustanowiono kuratora. W przypadku domu maklerskiego działającego w formie spółki osobowej wynagrodzenie kuratora nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty związane z pełnieniem funkcji kuratora obciążają dom maklerski.
+
+14. Komisja może odwołać kuratora nadzorującego wykonywanie programu postępowania naprawczego przez dom maklerski w przypadku jego rezygnacji, niewłaściwego pełnienia funkcji lub innych względów uniemożliwiających mu należyte pełnienie tej funkcji.
+
+15. Osobie fizycznej pełniącej funkcję kuratora przysługuje prawo do urlopu wypoczynkowego w wysokości 26 dni na zasadach określonych w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) w terminach uzgodnionych z Komisją.
+
+16. Okres pełnienia funkcji kuratora jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze. Do osób tych mają zastosowanie przepisy o ubezpieczeniach społecznych i ubezpieczeniu zdrowotnym, o ile osoby te nie są objęte tymi ubezpieczeniami z innych tytułów.
+
+**Art. 110zf.**
+
+1. Jeżeli dom maklerski nie przekaże programu postępowania naprawczego zgodnie z art. 110zc ust. 1 albo gdy realizacja tego programu okaże się nieskuteczna, Komisja może podjąć decyzję o ustanowieniu zarządu komisarycznego na czas realizacji programu postępowania naprawczego. W decyzji o ustanowieniu zarządu komisarycznego Komisja określa jego zadania.
+
+2. Ustanowienie zarządu komisarycznego nie wpływa na organizację i sposób działania domu maklerskiego.
+
+3. Na zarząd komisaryczny przechodzi prawo prowadzenia spraw spółki i jej reprezentowania, w szczególności zarząd komisaryczny może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych. Z dniem ustanowienia zarządu komisarycznego rada nadzorcza lub komisja rewizyjna zostają zawieszone, mandaty członków zarządu domu maklerskiego, a także prokury i pełnomocnictwa wygasają. Na czas trwania zarządu komisarycznego kompetencje innych organów domu maklerskiego zostają zawieszone.
+
+4. Zarząd komisaryczny może dokonać zamknięcia ksiąg rachunkowych domu maklerskiego i sporządzić sprawozdanie finansowe domu maklerskiego na dzień wyznaczony przez Komisję oraz podjąć uchwałę o pokryciu straty za okres kończący się w tym dniu oraz straty za lata ubiegłe.
+
+5. Zarząd komisaryczny wykonuje również zadania określone w decyzji o jego ustanowieniu.
+
+6. Od decyzji, o której mowa w ust. 1, rada nadzorcza, komisja rewizyjna albo wspólnik mający prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+
+7. Zarząd komisaryczny opracowuje i uzgadnia z Komisją program postępowania naprawczego, kieruje jego realizacją oraz nie rzadziej niż co 3 miesiące informuje Komisję, radę nadzorczą lub komisję rewizyjną o wynikach realizacji programu.
+
+8. Ustanowienie zarządu komisarycznego podlega zgłoszeniu do rejestru właściwego dla domu maklerskiego.
+
+9. Wniosek o wpis do rejestru zarządu komisarycznego, wykreślenia członków zarządu i prokurentów oraz zawieszenia rady nadzorczej lub komisji rewizyjnej składa zarząd komisaryczny w terminie 7 dni od dnia wydania decyzji o jego ustanowieniu. Do uiszczenia opłaty sądowej od wniosku jest obowiązany dom maklerski.
+
+10. Komisja może żądać od zarządu komisarycznego wyjaśnień i informacji związanych z wykonywaniem jego zadań.
+
+**Art. 110zg.**
+
+1. Członkowi zarządu komisarycznego, w przypadku złożenia wniosku zgodnie z art. 174 § 1 Kodeksu pracy, udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
+
+2. Okres urlopu bezpłatnego, o którym mowa w ust. 1, jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+3. Wynagrodzenie członków zarządu komisarycznego ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie członków dotychczasowego zarządu. W przypadku domu maklerskiego działającego w formie spółki osobowej wynagrodzenie członków zarządu komisarycznego nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty działalności zarządu komisarycznego obciążają dom maklerski.
+
+**Art. 110zh.** W przypadku domu maklerskiego działającego w formie spółki osobowej przepisy niniejszego oddziału dotyczące organów mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania, zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+
+**Art. 110zha.** Przepisów niniejszego oddziału nie stosuje się do domów maklerskich, o których mowa w art. 110zi ust. 1 pkt 4, oraz domów maklerskich stosujących rozporządzenie 575/2013, z zastrzeżeniem art. 110zza ust. 4 i 5.
+
 ##### Oddział 2c Plany naprawy i zasady wczesnej interwencji dla niektórych domów maklerskich
+
+**Art. 110zi.**
+
+1. Ilekroć w niniejszym oddziale jest mowa o:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** domu maklerskim – rozumie się przez to dom maklerski, o którym mowa w art. 98 ust. 3, który nie jest domem maklerskim stosującym rozporządzenie 575/2013;
+- **5)** (uchylony)
+- **6)** finansowej spółce holdingowej o działalności mieszanej – rozumie się przez to finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033;
+- **7)** funkcji krytycznej – rozumie się przez to funkcję krytyczną, o której mowa w art. 2 pkt 17 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **8)** głównej linii biznesowej – rozumie się przez to linię biznesową wraz z powiązanymi usługami, która stanowi dla domu maklerskiego lub grupy firm inwestycyjnych, w której skład wchodzi dom maklerski, istotne źródło przychodów lub zysku;
+- **9)** (uchylony) 9a) grupie firm inwestycyjnych – rozumie się przez to grupę firm inwestycyjnych, o której mowa w art. 110a ust. 1 pkt 6aa;
+- **10)** holdingu mieszanym – rozumie się przez to holding mieszany, o którym mowa w art. 110a ust. 1 pkt 6c;
+- **11)** instytucji – rozumie się przez to dom maklerski lub firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, z siedzibą w innym państwie członkowskim, która jest objęta wymogiem dotyczącym kapitału założycielskiego w wysokości 750 000 euro;
+- **12)** instytucji finansowej – rozumie się przez to instytucję finansową, o której mowa w art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033;
+- **13)** instytucji kredytowej – rozumie się przez to instytucję kredytową, o której mowa w art. 4 ust. 1 pkt 8 rozporządzenia 2019/2033;
+- **13a)** inwestycyjnej spółce holdingowej – rozumie się przez to inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033;
+- **14)** (uchylony) 14a) nadzorze na zasadzie skonsolidowanej – rozumie się przez to nadzór nad grupą firm inwestycyjnych na zasadzie skonsolidowanej, o którym mowa w art. 110g;
+- **15)** nadzwyczajnym publicznym wsparciu finansowym – rozumie się przez to pomoc państwa w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub inne publiczne wsparcie finansowe na poziomie ponadnarodowym, które, jeżeli jest udzielane na poziomie krajowym, stanowi pomoc państwa udzielaną w celu utrzymania lub przywrócenia rentowności, płynności bądź wypłacalności domu maklerskiego lub grupy firm inwestycyjnych, której częścią jest dom maklerski, w tym działania, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej;
+- **16)** podmiocie dominującym – rozumie się przez to podmiot dominujący, o którym mowa w art. 110a ust. 1 pkt 10;
+- **17)** podmiocie powiązanym – rozumie się przez to podmiot wchodzący w skład grupy firm inwestycyjnych;
+- **18)** podmiocie zależnym – rozumie się przez to jednostkę zależną, o której mowa w art. 4 ust. 1 pkt 51 rozporządzenia 2019/2033;
+- **19)** standardowym postępowaniu upadłościowym – rozumie się przez to postępowanie upadłościowe prowadzone na podstawie przepisów ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe lub zagraniczne postępowanie upadłościowe, o którym mowa w art. 379 pkt 1 tej ustawy;
+- **20)** (uchylony)
+- **21)** (uchylony)
+- **22)** unijnej dominującej finansowej spółce holdingowej o działalności mieszanej – rozumie się przez to unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033;
+- **22a)** unijnej dominującej firmie inwestycyjnej – rozumie się przez to unijną dominującą firmę inwestycyjną, o której mowa w art. 4 ust. 1 pkt 56 rozporządzenia 2019/2033;
+- **22b)** unijnej dominującej inwestycyjnej spółce holdingowej – rozumie się przez to unijną dominującą inwestycyjną spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033;
+- **23)** (uchylony)
+- **24)** unijnej jednostce dominującej – rozumie się przez to unijną dominującą firmę inwestycyjną, unijną dominującą inwestycyjną spółkę holdingową lub unijną dominującą finansową spółkę holdingową o działalności mieszanej.
+
+2. (uchylony)
+
+**Art. 110zj.**
+
+1. Dom maklerski, który nie jest objęty grupowym planem naprawy na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe albo na podstawie przepisów prawa innego państwa członkowskiego, w tym przepisów wskazujących Europejski Bank Centralny jako właściwy w zakresie grupowych planów naprawy dla instytucji kredytowych, zgodnie z rozporządzeniem Rady (UE) nr 1024/2013 z dnia 15 października 2013 r. powierzającym Europejskiemu Bankowi Centralnemu szczególne zadania w odniesieniu do polityki związanej z nadzorem ostrożnościowym nad instytucjami kredytowymi (Dz. Urz. UE L 287 z 29.10.2013, str. 63), oraz dom maklerski, który nie ma obowiązku posiadania grupowego planu naprawy, są obowiązane posiadać plan naprawy. Plan naprawy stanowi element systemu zarządzania, o którym mowa w art. 110c ust. 1. Dom maklerski uwzględnia w planie naprawy podmioty działające w tej samej grupie firm inwestycyjnych.
+
+2. Komisja, w przypadku gdy jest to niezbędne do zapewnienia stabilności rynku finansowego, może, w drodze decyzji, nakazać sporządzenie planu naprawy domowi maklerskiemu, który zgodnie z ust. 1 nie ma takiego obowiązku. W decyzji Komisja określa termin przedstawienia planu naprawy przez dom maklerski. Do postępowania w sprawie zatwierdzenia planu naprawy stosuje się przepisy art. 110zk ust. 2, 3 i 5–
+
+11.
+
+3. Plan naprawy obejmuje:
+
+- **1)** streszczenie głównych elementów planu naprawy;
+- **2)** opis istotnych zmian w domu maklerskim, które nastąpiły od dnia przedstawienia planu naprawy albo ostatniej aktualizacji planu naprawy;
+- **3)** opis polityki informacyjnej domu maklerskiego w związku z potencjalnymi negatywnymi reakcjami rynku finansowego na pogarszającą się sytuację domu maklerskiego;
+- **4)** działania dotyczące kapitału i płynności domu maklerskiego konieczne w celu poprawy jego sytuacji finansowej;
+- **5)** prognozowany harmonogram działań podejmowanych w celu realizacji istotnych elementów planu naprawy;
+- **6)** szczegółowy opis okoliczności zagrażających skutecznej i terminowej realizacji planu naprawy, obejmujący analizę wpływu działań przewidzianych w planie naprawy na podmioty prowadzące działalność w tej samej grupie firm inwestycyjnych co dom maklerski oraz na klientów i inne strony umów zawartych z domem maklerskim;
+- **7)** funkcje krytyczne występujące w domu maklerskim;
+- **8)** procedury ustalenia wartości i oceny zbywalności głównych linii biznesowych i aktywów domu maklerskiego;
+- **9)** powiązania procesu przygotowania planu naprawy z systemem zarządzania domem maklerskim oraz zasad zatwierdzania planu naprawy i ustalania osób odpowiedzialnych za jego przygotowanie i wdrożenie;
+- **10)** czynności, które należy podjąć w celu utrzymania odpowiedniego poziomu funduszy własnych domu maklerskiego lub przywrócenia poziomu funduszy własnych do wysokości wymaganej zgodnie z art. 110e lub art. 110y ust. 3 oraz zgodnie z przepisami rozporządzenia 2019/2033;
+- **11)** działania służące zapewnieniu możliwości kontynuowania działalności i terminowego wywiązywania się z wymagalnych zobowiązań, ukierunkowane zwłaszcza na zapewnienie dostępu do rezerwowych źródeł finansowania, w tym do potencjalnych źródeł płynności, a także oceny dostępnych zabezpieczeń oraz oceny możliwości udzielenia wsparcia finansowego pomiędzy podmiotami powiązanymi i przenoszenia płynności pomiędzy liniami biznesowymi;
+- **12)** (uchylony)
+- **13)** środki dotyczące restrukturyzacji zobowiązań domu maklerskiego;
+- **14)** środki dotyczące restrukturyzacji linii biznesowych domu maklerskiego;
+- **15)** porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości dostępu domu maklerskiego do infrastruktury rynków finansowych;
+- **16)** porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości działania domu maklerskiego, w tym sieci i systemów informatycznych ustanowionych i zarządzanych zgodnie z przepisami rozporządzenia 2022/2554;
+- **17)** opis działań przygotowawczych mających na celu umożliwienie zbycia przez dom maklerski aktywów lub linii biznesowych w terminie zapewniającym przywrócenie stabilności finansowej domu maklerskiego;
+- **18)** inne działania lub strategie zarządcze służące przywróceniu stabilności finansowej domu maklerskiego oraz prognozowane skutki finansowe takich działań lub strategii;
+- **19)** działania, jakie dom maklerski podjął lub planuje podjąć w celu umożliwienia wdrożenia planu naprawy, w tym niezbędne do terminowego dokapitalizowania domu maklerskiego;
+- **20)** poziomy wskaźników, o których mowa w art. 110zo ust. 1, po osiągnięciu których mogą być podjęte działania określone w planie naprawy;
+- **21)** działania, jakie może podjąć dom maklerski, jeżeli zostaną spełnione przesłanki wczesnej interwencji, o których mowa w art. 110zz.
+
+4. Plan naprawy spełnia następujące warunki:
+
+- **1)** przewidziane planem naprawy działania przyczynią się do przywrócenia lub utrzymania dobrej kondycji finansowej i rentowności domu maklerskiego lub grupy firm inwestycyjnych;
+- **2)** przewidziane planem naprawy działania mogą być efektywnie i szybko wdrożone bez negatywnych skutków dla systemu finansowego, w szczególności bez spowodowania konieczności wdrażania planów naprawy przez inne instytucje lub instytucje kredytowe w tym samym czasie;
+- **3)** struktura kapitałowa i struktura finansowania domu maklerskiego wskazane w planie naprawy są dostosowane do poziomu złożoności struktury organizacyjnej i profilu ryzyka domu maklerskiego.
+
+5. Plan naprawy nie może zakładać uzyskania nadzwyczajnego publicznego wsparcia finansowego.
+
+6. Plan naprawy podlega zatwierdzeniu przez zarząd domu maklerskiego.
+
+7. Dom maklerski aktualizuje plan naprawy co najmniej raz w roku oraz po istotnej zmianie struktury organizacyjnej lub prawnej, sytuacji finansowej lub po wystąpieniu innego zdarzenia wpływającego na przyjęte w planie założenia i wykonanie planu naprawy. Komisja może zalecić domowi maklerskiemu częstszą aktualizację planu naprawy.
+
+**Art. 110zk.**
+
+1. Dom maklerski przedstawia Komisji plan naprawy w terminie 6 miesięcy od dnia rozpoczęcia działalności.
+
+2. Komisja zatwierdza plan naprawy w drodze decyzji w terminie 6 miesięcy od dnia jego otrzymania.
+
+3. Aktualizacja planu naprawy, o której mowa w art. 110zj ust. 7, wymaga zatwierdzenia przez Komisję. Przepisy ust. 2 i 5–10 stosuje się odpowiednio.
+
+4. (uchylony)
+
+5. Komisja przekazuje plan naprawy Bankowemu Funduszowi Gwarancyjnemu, który w przypadku zidentyfikowania w planie naprawy działań, które mogą mieć negatywny wpływ na skuteczność restrukturyzacji i likwidacji domu maklerskiego, niezwłocznie informację o tym przekazuje Komisji.
+
+6. Jeżeli plan naprawy nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja wzywa dom maklerski do uzupełnienia lub zmiany planu, w terminie 2 miesięcy od dnia doręczenia wezwania. Terminu tego nie wlicza się do terminu, o którym mowa w ust. 2. Na wniosek domu maklerskiego Komisja może przedłużyć ten termin o miesiąc.
+
+7. W przypadku gdy zmieniony lub uzupełniony plan naprawy nadal nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja, w drodze decyzji, odmawia zatwierdzenia planu naprawy, oraz wzywa dom maklerski do przedstawienia nowego planu naprawy.
+
+8. W decyzji, o której mowa w ust. 7, Komisja może wskazać termin, do którego dom maklerski powinien przedstawić nowy plan naprawy, oraz obszary działalności domu maklerskiego, które w ocenie Komisji wymagają uwzględnienia w planie naprawy.
+
+9. Komisja zatwierdza nowy plan naprawy, o którym mowa w ust. 7, w terminie 6 miesięcy od dnia jego otrzymania.
+
+10. W przypadku gdy nowy plan naprawy, o którym mowa w ust. 7, nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja zaleca domowi maklerskiemu wskazanie zmian w działalności domu maklerskiego niezbędnych w celu spełnienia wymagań, o których mowa w art. 110zj, lub w celu usunięcia innych istotnych okoliczności zagrażających wdrożeniu planu naprawy, wyznaczając odpowiedni termin na przedstawienie tych zmian. Jeżeli nowy plan naprawy nie spełnia wymagań określonych w art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, a dom maklerski nie wskaże zmian w działalności lub Komisja uzna je za niewystarczające, Komisja, w drodze decyzji, odmawia zatwierdzenia nowego planu naprawy oraz nakazuje wprowadzenie niezbędnych zmian w działalności domu maklerskiego.
+
+11. W decyzji, o której mowa w ust. 10, Komisja może określić termin wprowadzenia zmian w działalności domu maklerskiego oraz w szczególności nakazać domowi maklerskiemu:
+
+- **1)** zmianę profilu ryzyka, w tym ryzyka utraty płynności;
+- **2)** podjęcie działań w celu zapewnienia możliwości terminowego dokapitalizowania domu maklerskiego;
+- **3)** dokonanie przeglądu strategii i struktury organizacyjnej domu maklerskiego;
+- **4)** wprowadzenie zmian w strategii finansowania, które obniżą poziom ryzyka związany z działalnością domu maklerskiego w zakresie głównych linii biznesowych i funkcji krytycznych;
+- **5)** wprowadzenie zmian w systemie zarządzania ryzykiem w domu maklerskim, o którym mowa w art. 110b ust. 1.
+
+12. Zatwierdzony plan naprawy Komisja przekazuje Bankowemu Funduszowi Gwarancyjnemu w terminie 7 dni od dnia podjęcia decyzji, o której mowa w ust. 2.
+
+**Art. 110zl.**
+
+1. Dom maklerski będący unijną dominującą firmą inwestycyjną albo unijna dominująca inwestycyjna spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, nad którymi Komisja sprawuje nadzór na zasadzie skonsolidowanej, są obowiązane posiadać grupowe plany naprawy. Grupowy plan naprawy może określać działania, które powinny zostać podjęte przez ten dom maklerski, tę unijną dominującą inwestycyjną spółkę holdingową oraz tę unijną dominującą finansową spółkę holdingową o działalności mieszanej, jak również poszczególne podmioty zależne.
+
+2. Celem grupowego planu naprawy jest poprawa sytuacji finansowej grupy firm inwestycyjnych lub podmiotów powiązanych będących instytucjami, z jednoczesnym uwzględnieniem sytuacji finansowej innych podmiotów powiązanych. Grupowy plan naprawy zapewnia koordynację działań w odniesieniu do unijnej jednostki dominującej i podmiotów zależnych.
+
+3. Do grupowego planu naprawy przepisy art. 110zj ust. 3–6 i art. 110zk ust. 5 i 12 stosuje się odpowiednio. Grupowy plan naprawy może uwzględniać umowy, o których mowa w art. 110zr ust. 1. Grupowy plan naprawy określa informacje, o których mowa w art. 110zj ust. 3, w odniesieniu do grupy firm inwestycyjnych, domu maklerskiego oraz poszczególnych podmiotów zależnych.
+
+4. Grupowy plan naprawy podlega zatwierdzeniu przez organ zarządzający podmiotu obowiązanego do jego sporządzenia.
+
+**Art. 110zm.**
+
+1. Dom maklerski będący unijną dominującą firmą inwestycyjną albo unijna dominująca inwestycyjna spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, o których mowa w art. 110zl ust. 1, są obowiązane przedstawić grupowy plan naprawy w terminie 6 miesięcy od dnia, w którym uzyskały status odpowiednio domu maklerskiego będącego unijną dominującą firmą inwestycyjną, unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej. Do grupowego planu naprawy przepisy art. 110zk stosuje się odpowiednio.
+
+2. Grupowy plan naprawy Komisja przekazuje:
+
+- **1)** właściwym organom nadzoru dla podmiotów zależnych w grupie firm inwestycyjnych;
+- **2)** (uchylony)
+- **3)** Bankowemu Funduszowi Gwarancyjnemu;
+- **4)** organom do spraw przymusowej restrukturyzacji właściwym dla podmiotów zależnych.
+
+3. Komisja dąży do osiągnięcia porozumienia z właściwymi organami nadzoru dla podmiotów zależnych wchodzących w skład grupy firm inwestycyjnych w zakresie:
+
+- **1)** stwierdzenia, czy grupowy plan naprawy spełnia wymogi określone w art. 110zl oraz w zakresie wpływu działań przewidzianych w grupowym planie naprawy na stabilność finansową we wszystkich państwach członkowskich, w których prowadzą działalność podmioty powiązane;
+- **2)** konieczności sporządzenia i przekazania planów naprawy przez niektóre lub wszystkie instytucje zależne;
+- **3)** zasadności podjęcia działań, o których mowa w art. 110zk ust. 6–11 w odniesieniu do grupowego planu naprawy.
+
+4. W przypadku gdy porozumienie w zakresie ust. 3 pkt 1 i 3 nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może podjąć działania, o których mowa w art. 110zk ust. 6–11 w odniesieniu do unijnej jednostki dominującej, uwzględniając stanowiska przekazane dotychczas przez właściwe organy nadzoru. Komisja informuje właściwe organy nadzoru o ostatecznej treści grupowego planu naprawy.
+
+5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 4, Komisja lub inny zainteresowany właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja może podejmować działania określone w ust. 3 pkt 3 w odniesieniu do unijnej jednostki dominującej, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, podejmując działania, o których mowa w art. 110zk ust. 5– 8, w odniesieniu do unijnej jednostki dominującej, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy, o którym mowa w ust. 4, uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia.
+
+6. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 wyłącznie w zakresie, o którym mowa w ust. 3 pkt 1, oraz w odniesieniu do unijnej jednostki dominującej w sprawach, o których mowa w art. 110zk ust. 11 pkt 1, 2 i 4.
+
+7. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 4, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie w zakresie, o którym mowa w ust. 3 pkt 1 lub 3, w sprawie grupowego planu naprawy w zakresie obejmującym podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, w tym dom maklerski.
+
+8. W przypadku gdy porozumienie, o którym mowa w ust. 3 pkt 2, w zakresie konieczności sporządzenia i przekazania planu naprawy przez instytucję zależną nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może przekazać właściwemu organowi nadzoru dla instytucji zależnej stanowisko.
+
+9. W przypadku gdy w skład grupy firm inwestycyjnych wchodzi dom maklerski będący podmiotem zależnym, a porozumienie, o którym mowa w ust. 3 pkt 2, w zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski nie zostanie osiągnięte w terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa w ust. 2, Komisja może nakazać domowi maklerskiemu w drodze decyzji sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+
+10. W przypadku gdy zostało osiągnięte porozumienie w sprawie sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja w drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+
+**Art. 110zn.**
+
+1. W przypadku domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej, nad którą nadzór na zasadzie skonsolidowanej sprawuje właściwy organ nadzoru z innego państwa członkowskiego, Komisja dąży do osiągnięcia porozumienia z tym właściwym organem nadzoru oraz z innymi właściwymi organami nadzoru, w terminie 4 miesięcy od dnia przekazania Komisji grupowego planu naprawy przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej, w zakresie spraw, o których mowa w art. 110zm ust. 3, w tym może przekazać temu organowi stanowisko w zakresie, o którym mowa w art. 110zm ust. 3 pkt 1 lub 3, w odniesieniu do unijnej jednostki dominującej.
+
+2. W przypadku gdy w terminie 4 miesięcy, o którym mowa w ust. 1, nie zostanie osiągnięte porozumienie w zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski, Komisja może wydać w odniesieniu do tego domu maklerskiego decyzję w sprawie sporządzenia i przekazania planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+
+3. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 1, Komisja lub właściwy organ nadzoru z innego państwa członkowskiego zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 w zakresie odnoszącym się do domu maklerskiego, Komisja może wydać decyzję, o której mowa w ust. 2, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, o której mowa w ust. 2, uwzględnia decyzję wydaną przez Europejski Urząd Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia.
+
+4. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010 wyłącznie w zakresie, o którym mowa w art. 110zm ust. 3 pkt 1, oraz w odniesieniu do unijnej jednostki dominującej w sprawach, o których mowa w art. 110zk ust. 11 pkt 1, 2 i 4.
+
+5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa w ust. 1, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego w trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie w zakresie spraw, o których mowa w art. 110zm ust. 3 pkt 1 lub 3, w zakresie grupowego planu naprawy obejmującego podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, w tym dom maklerski.
+
+6. W przypadku gdy zgodnie z ust. 1 albo 5 zostało osiągnięte porozumienie w zakresie konieczności sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja w drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+
+7. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–6 stosuje się odpowiednio.
+
+**Art. 110zo.**
+
+1. Plan naprawy oraz grupowy plan naprawy określają poziomy wskaźników, po osiągnięciu których dom maklerski podejmuje działania określone w planie. Wskaźniki te odnoszą się do sytuacji finansowej domu maklerskiego, mogą mieć charakter ilościowy lub jakościowy. Wskaźniki powinny umożliwiać łatwe i systematyczne monitorowanie ich poziomu. Wskaźniki oraz sposób monitorowania ich poziomu dom maklerski przedstawia Komisji łącznie z planem naprawy.
+
+1a. W przypadku osiągnięcia przez wskaźniki poziomów określonych w planie naprawy lub w grupowym planie naprawy, o których mowa w ust. 1, dom maklerski przystępuje do wdrażania planu naprawy lub grupowego planu naprawy.
+
+2. W uzasadnionym przypadku dom maklerski może podjąć działania wskazane w planie naprawy pomimo nieosiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego w planie naprawy.
+
+3. W uzasadnionym przypadku dom maklerski może, ze względu na okoliczności, odstąpić od podjęcia działania wskazanego w planie naprawy pomimo osiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego w planie naprawy.
+
+4. W przypadkach, o których mowa w ust. 1a, 2 i 3, zarząd domu maklerskiego podejmuje uchwałę odpowiednio o przystąpieniu do wdrażania planu naprawy lub grupowego planu naprawy, podjęciu działań albo odstąpieniu od podejmowania działań określonych w planie naprawy lub grupowym planie naprawy. Dom maklerski niezwłocznie informuje Komisję o podjętej uchwale i przekazuje Komisji jej kopię oraz wskazuje przyczyny przystąpienia do wdrażania planu naprawy zgodnie z ust. 1a, przyczyny podjęcia działań zgodnie z ust. 2 lub przyczyny odstąpienia od podjęcia działań zgodnie z ust. 3.
+
+**Art. 110zp.**
+
+1. Komisja może, w drodze decyzji, ograniczyć zakres informacji, o których mowa w art. 110zj ust. 3, wymaganych w planie naprawy albo w grupowym planie naprawy lub zmienić częstotliwość aktualizowania planu naprawy albo grupowego planu naprawy.
+
+2. Wydając decyzję, o której mowa w ust. 1, Komisja bierze pod uwagę:
+
+- **1)** wpływ zaprzestania prowadzenia działalności przez dom maklerski na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
+- **2)** wpływ upadłości domu maklerskiego przeprowadzonej w formie standardowego postępowania upadłościowego na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
+- **3)** charakter działalności domu maklerskiego, jej zakres i stopień złożoności, strukturę własnościową domu, formę prawną, profil ryzyka, wielkość lub powiązania z podmiotami;
+- **4)** (uchylony)
+- **5)** zakres działalności, o której mowa w art. 69 ust. 2 i 4, wykonywanej przez dom maklerski.
+
+3. Komisja może zasięgnąć opinii Komitetu Stabilności Finansowej w zakresie, o którym mowa w ust. 2.
+
+4. Komisja może zmienić lub uchylić decyzję, o której mowa w ust. 1.
+
+5. Wydanie decyzji, o której mowa w ust. 1, nie ogranicza uprawnień Komisji i Bankowego Funduszu Gwarancyjnego określonych w niniejszym oddziale.
+
+6. Komisja nie może wydać decyzji, o której mowa w ust. 1, wobec domu maklerskiego, w przypadku gdy:
+
+- **1)** całkowita wartość jego aktywów przekracza 30 000 000 000 euro lub
+- **2)** stosunek wartości jego aktywów do produktu krajowego brutto Rzeczypospolitej Polskiej przekracza 20 %, chyba że wartość jego aktywów jest niższa niż 5 000 000 000 euro.
+
+7. Do obliczania w złotych wartości wyrażonych w euro przyjmuje się kurs średni euro ogłoszony przez Narodowy Bank Polski z ostatniego dnia roboczego roku poprzedzającego.
+
+8. Komisja informuje Europejski Urząd Nadzoru Bankowego o wydaniu decyzji, o której mowa w ust. 1.
+
+**Art. 110zq.** (uchylony)
+
+**Art. 110zr.**
+
+1. Objęty nadzorem na zasadzie skonsolidowanej dom maklerski i objęta wspólnie z nim nadzorem na zasadzie skonsolidowanej unijna jednostka dominująca, holding mieszany oraz ich podmioty zależne w państwach członkowskich lub w państwach niebędących państwami członkowskimi będące instytucjami lub instytucjami finansowymi mogą zawierać umowy dotyczące udzielenia wsparcia finansowego dowolnej stronie tej umowy na wypadek zaistnienia w odniesieniu do tej strony przesłanek zastosowania środków wczesnej interwencji określonych w art. 110zz, jeżeli są spełnione warunki określone w art. 110zs–110zy.
+
+2. Podmioty powiązane mogą zawierać inne umowy i porozumienia niespełniające warunków, o których mowa w przepisach art. 110zs–110zy. Umowy takie nie mogą być wykonywane, jeżeli dom maklerski albo inna strona umowy spełnia warunki do zastosowania środków wczesnej interwencji.
+
+**Art. 110zs.**
+
+1. Umowa, o której mowa w art. 110zr ust. 1, może obejmować jeden lub większą liczbę podmiotów zależnych w grupie firm inwestycyjnych i przewidywać w szczególności wsparcie finansowe ze strony podmiotu dominującego na rzecz podmiotów zależnych, ze strony podmiotów zależnych na rzecz podmiotu dominującego lub między podmiotami zależnymi w grupie firm inwestycyjnych.
+
+2. Umowa, o której mowa w art. 110zr ust. 1, może przewidywać wsparcie finansowe w szczególności w formie pożyczki, udzielenia gwarancji lub udostępnienia aktywów do wykorzystania jako zabezpieczenie, w tym między otrzymującym wsparcie a podmiotem niebędącym podmiotem powiązanym.
+
+3. Jeżeli zgodnie z umową, o której mowa w art. 110zr ust. 1, jeden z podmiotów powiązanych w ramach grupy firm inwestycyjnych zgadza się udzielić wsparcia innemu podmiotowi powiązanemu, umowa może przewidywać udzielenie wsparcia na zasadzie wzajemności przez podmiot powiązany otrzymujący wsparcie na rzecz podmiotu powiązanego udzielającego wsparcia.
+
+4. Umowa, o której mowa w art. 110zr ust. 1, określa zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu każdej transakcji wykonanej w ramach tej umowy w momencie udzielania wsparcia finansowego.
+
+5. Umowa, o której mowa w art. 110zr ust. 1, spełnia następujące warunki:
+
+- **1)** przy zawieraniu umowy i ustalaniu opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego strona jest obowiązana działać w swoim najlepszym interesie, który może uwzględniać wszelkie bezpośrednie lub pośrednie korzyści, jakie dana strona może odnieść w wyniku udzielenia wsparcia finansowego;
+- **2)** strona udzielająca wsparcia finansowego – przed ustaleniem opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego i przed podjęciem jakiejkolwiek decyzji o udzieleniu wsparcia finansowego – jest obowiązana uzyskać od strony otrzymującej takie wsparcie pełne informacje istotne w danej sytuacji;
+- **3)** strona udzielająca wsparcia finansowego, rozważając udzielenie wsparcia finansowego, może uwzględniać niedostępne dla rynku informacje posiadane w związku z przynależnością do tej samej grupy firm inwestycyjnych co strona otrzymująca wsparcie finansowe;
+- **4)** zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego mogą nie uwzględniać ewentualnego przewidywanego, tymczasowego wpływu na ceny rynkowe wynikającego ze zdarzeń mających miejsce poza grupą firm inwestycyjnych.
+
+6. Działania wynikające z umowy, o której mowa w art. 110zr ust. 1, dotyczące udzielenia wsparcia finansowego mogą być podejmowane wyłącznie przez strony umowy w ramach grupy firm inwestycyjnych, z wyłączeniem spełniania ich przez osoby trzecie.
+
+7. Dom maklerski lub inne objęte nadzorem na zasadzie skonsolidowanej podmioty, o których mowa w art. 110zr ust. 1, mogą udzielić wsparcia finansowego również w przypadku, gdy nie zawarły umowy, jeżeli udzielenie wsparcia nie stanowi zagrożenia dla grupy firm inwestycyjnych. Zawarcie umowy nie może stanowić warunku prowadzenia przez podmiot powiązany niebędący domem maklerskim działalności na terytorium Rzeczypospolitej Polskiej albo przez dom maklerski na terytorium innego państwa członkowskiego.
+
+8. Umowa, o której mowa w art. 110zr ust. 1, może zostać zawarta jedynie w przypadku, gdy w momencie zawierania umowy żadna ze stron nie spełnia warunków do zastosowania środków wczesnej interwencji.
+
+**Art. 110zt.** Wsparcie finansowe, o którym mowa w art. 110zr ust. 1, może być udzielone, jeżeli:
+
+- **1)** udzielenie wsparcia finansowego w znaczący sposób poprawi sytuację finansową podmiotu powiązanego otrzymującego wsparcie;
+- **2)** udzielenie wsparcia finansowego pomoże utrzymać lub przywrócić stabilność finansową podmiotom działającym w grupie firm inwestycyjnych i leży w interesie podmiotu powiązanego udzielającego wsparcia finansowego;
+- **3)** są spełnione wymagania, o których mowa w art. 110zr ust. 1 i art. 110zs;
+- **4)** w momencie podejmowania decyzji przez podmiot powiązany udzielający wsparcia o udzieleniu tego wsparcia istnieje uzasadnione prawdopodobieństwo, że podmiot powiązany otrzymujący wsparcie finansowe wypłaci opłaty, prowizje lub wynagrodzenie z tytułu wsparcia finansowego, a jeżeli wsparcie to ma postać pożyczki – zwróci pożyczkę; jeżeli wsparcie finansowe przyjmuje postać gwarancji lub dowolnej formy zabezpieczenia, ten sam warunek ma zastosowanie do zobowiązania powstającego dla uprawnionego z tego zabezpieczenia, gdy gwarancja lub zabezpieczenie zostaną wykonane;
+- **5)** udzielenie wsparcia finansowego nie zagraża płynności ani wypłacalności podmiotu powiązanego udzielającego wsparcia;
+- **6)** udzielenie wsparcia finansowego nie stwarza zagrożenia dla stabilności finansowej systemu finansowego państwa członkowskiego siedziby podmiotu powiązanego udzielającego wsparcia;
+- **7)** w momencie udzielania wsparcia finansowego dom maklerski udzielający wsparcia finansowego spełnia wymagania określone w oddziale 2a, przepisach wykonawczych wydanych na podstawie art. 110x oraz nałożone na dom maklerski dodatkowe wymogi, o których mowa w art. 110y ust. 1 pkt 9 i art. 110yb, a udzielenie wsparcia finansowego nie spowoduje naruszenia tych wymagań przez dom maklerski, chyba że zgody na to udzieli Komisja;
+- **8)** (uchylony)
+- **9)** udzielenie wsparcia finansowego nie zagraża przeprowadzeniu skutecznej przymusowej restrukturyzacji podmiotu powiązanego udzielającego wsparcia.
+
+**Art. 110zu.**
+
+1. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim będącym unijną dominującą firma inwestycyjną, zawarcie przez dom maklerski umowy, o której mowa w art. 110zr ust. 1, wymaga zgody Komisji wydanej na wniosek domu maklerskiego o zatwierdzenie umowy. Dom maklerski dołącza do wniosku projekt tej umowy, informacje pozwalające na identyfikację podmiotów zamierzających zawrzeć umowę oraz zgodę walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego na zawarcie umowy, o której mowa w art. 110zv.
+
+2. Komisja niezwłocznie przekazuje wniosek właściwym organom nadzoru sprawującym nadzór nad poszczególnymi jednostkami zależnymi, które będą stronami umowy.
+
+3. Komisja, w trybie określonym w ust. 5–8, w drodze decyzji, odmawia udzielenia zgody na zawarcie umowy, jeżeli umowa nie spełnia warunków określonych w art. 110zt lub którakolwiek ze stron umowy spełnia warunki zastosowania środków wczesnej interwencji.
+
+4. Zmiany w umowie wymagają zgody Komisji.
+
+5. Komisja, wydając decyzję, dąży do osiągnięcia z właściwymi organami nadzoru sprawującymi nadzór nad podmiotami zależnymi porozumienia w sprawie oceny, czy warunki proponowanej umowy są zgodne z warunkami wsparcia finansowego określonymi w art. 110zt, uwzględniając jednocześnie potencjalny wpływ wykonania umowy, w tym konsekwencje budżetowe w tych państwach członkowskich, w których grupa firm inwestycyjnych prowadzi działalność.
+
+6. W przypadku osiągnięcia porozumienia, o którym mowa w ust. 5, Komisja wydaje decyzję w terminie 4 miesięcy od dnia otrzymania wniosku.
+
+7. W przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5, w terminie, o którym mowa w ust. 6, Komisja wydaje decyzję w sprawie wniosku, uwzględniając przekazane dotychczas stanowiska właściwych organów nadzoru z innych państw członkowskich. Komisja informuje o treści decyzji pozostałe właściwe organy nadzoru z innych państw członkowskich.
+
+8. Jeżeli w terminie, o którym mowa w ust. 6, którykolwiek z właściwych organów nadzoru, o których mowa w ust. 2, skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010, Komisja może wydać decyzję, o której mowa w ust. 7, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja wydaje decyzję zgodną z decyzją Europejskiego Urzędu Nadzoru Bankowego. Jeżeli Europejski Urząd Nadzoru Bankowego w terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji, Komisja niezwłocznie wydaje decyzję. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu rozporządzenia 1093/2010.
+
+9. Komisja, sprawując nadzór nad domem maklerskim będącym podmiotem zależnym od unijnej dominującej firmy inwestycyjnej, mającym stać się stroną umowy, o której mowa w art. 110zr ust. 1, dąży do osiągnięcia porozumienia w zakresie, o którym mowa w ust. 5, w terminie 4 miesięcy od dnia przekazania przez unijną dominującą firmę inwestycyjną wniosku o zatwierdzenie umowy właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną. Przed upływem terminu 4 miesięcy Komisja może przekazać właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną stanowisko lub zwrócić się do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010.
+
+10. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–9 stosuje się odpowiednio.
+
+**Art. 110zv.**
+
+1. Zawarcie umowy, o której mowa w art. 110zr ust. 1, której stroną miałby się stać dom maklerski, wymaga zgody walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego.
+
+2. Zarząd domu maklerskiego co roku składa walnemu zgromadzeniu albo zgromadzeniu wspólników, wraz ze sprawozdaniem z działalności, sprawozdanie z wykonania umowy, o której mowa w art. 110zr ust. 1.
+
+**Art. 110zw.** Po udzieleniu zgody, o której mowa w art. 110zu, Komisja przekazuje kopię umowy, o której mowa w art. 110zr ust. 1, a także kopie zmian tej umowy Bankowemu Funduszowi Gwarancyjnemu oraz organom do spraw przymusowej restrukturyzacji w innych państwach członkowskich właściwym dla podmiotów zależnych, które są stronami umowy.
+
+**Art. 110zx.**
+
+1. W przypadku gdy dom maklerski zamierza udzielić wsparcia finansowego na podstawie umowy, o której mowa w art. 110zr ust. 1, składa niezwłocznie wniosek o wyrażenie zgody przez Komisję. Jednocześnie dom maklerski zawiadamia o zamiarze udzielenia wsparcia finansowego na podstawie umowy, o której mowa w art. 110zr ust. 1:
+
+- **1)** właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej;
+- **2)** właściwy organ nadzoru sprawujący nadzór nad podmiotem powiązanym otrzymującym wsparcie finansowe;
+- **3)** Europejski Urząd Nadzoru Bankowego.
+
+2. Do wniosku i zawiadomienia, o których mowa w ust. 1, dom maklerski załącza kopię umowy, o której mowa w art. 110zr ust. 1, oraz uzasadnienie proponowanych działań, określając w szczególności cel wsparcia finansowego i wskazując sposób spełnienia warunków określonych w art. 110zt, a także szczegółowe informacje na temat proponowanego wsparcia finansowego.
+
+3. Komisja udziela zgody, o której mowa w ust. 1, w terminie 5 dni roboczych od dnia otrzymania wniosku oraz dokumentów, o których mowa w ust. 2.
+
+4. W przypadku stwierdzenia braków we wniosku lub dołączonych do niego dokumentach, Komisja wzywa dom maklerski do uzupełnienia braków w wyznaczonym terminie.
+
+5. Komisja może ograniczyć zakres wsparcia finansowego. Zgoda może być udzielona pod warunkiem lub z zastrzeżeniem terminu.
+
+6. W przypadku gdy warunki określone w art. 110zt nie zostały spełnione, Komisja odmawia udzielenia zgody.
+
+7. Jeżeli Komisja nie wyda decyzji w terminie, o którym mowa w ust. 3, dom maklerski może udzielić wsparcia finansowego na warunkach określonych we wniosku i załączonych do niego dokumentach.
+
+8. Termin 5 dni roboczych, o którym mowa w ust. 3, uważa się za zachowany, jeżeli przed jego upływem decyzja została nadana w polskiej placówce pocztowej operatora pocztowego albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
+
+9. Informację o wydanej decyzji Komisja niezwłocznie przekazuje:
+
+- **1)** właściwemu organowi nadzoru dla podmiotu powiązanego otrzymującego wsparcie finansowe;
+- **2)** właściwemu organowi nadzoru sprawującemu nadzór na zasadzie skonsolidowanej – w przypadku gdy Komisja nie sprawuje nadzoru na zasadzie skonsolidowanej nad domem maklerskim;
+- **3)** Europejskiemu Urzędowi Nadzoru Bankowego;
+- **4)** pozostałym członkom kolegium i członkom kolegium ds. przymusowej restrukturyzacji – w przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim, a kolegia zostały powołane;
+- **5)** Bankowemu Funduszowi Gwarancyjnemu.
+
+10. W przypadku gdy właściwy organ nadzoru w innym państwie członkowskim zakazał udzielenia albo ograniczył udzielenie wsparcia finansowego domowi maklerskiemu albo innemu podmiotowi powiązanemu, Komisja jako organ sprawujący nadzór na zasadzie skonsolidowanej albo sprawując nadzór nad domem maklerskim będącym podmiotem zależnym, może, w razie powzięcia wątpliwości co do tej decyzji, w terminie 2 dni roboczych od dnia jej otrzymania, złożyć wniosek do Europejskiego Urzędu Nadzoru Bankowego o udzielenie wsparcia w osiągnięciu porozumienia zgodnie z art. 31 lit. c rozporządzenia 1093/2010.
+
+11. Dom maklerski przekazuje informację o udzieleniu wsparcia finansowego Komisji oraz podmiotom, o których mowa w ust. 1 pkt 1–3.
+
+12. Komisja, sprawując nadzór na zasadzie skonsolidowanej nad domem maklerskim, informuje o udzieleniu wsparcia finansowego przez dom maklerski, pozostałych członków kolegium, Bankowy Fundusz Gwarancyjny i członków kolegium do spraw przymusowej restrukturyzacji, jeżeli kolegia te zostały powołane.
+
+13. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane w grupowym planie naprawy, Komisja może zwrócić się do właściwego organu nadzoru, który sprawuje nadzór na zasadzie skonsolidowanej, o ponowną weryfikację grupowego planu naprawy, zgodnie z art. 110zn. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej, podejmuje działania w sprawie weryfikacji grupowego planu naprawy zgodnie z art. 110zm.
+
+14. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane w planie naprawy domu maklerskiego, Komisja zaleca domowi maklerskiemu zmianę planu naprawy, zgodnie z art. 110zk.
+
+15. Jeżeli Komisja zgłosiła sprzeciw wobec planowego udzielenia wsparcia finansowego albo ograniczyła udzielenie wsparcia finansowego przez dom maklerski podmiotowi powiązanemu albo właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego podmiotowi powiązanemu, a wsparcie finansowe było przewidziane w grupowym planie naprawy i Komisja sprawuje nadzór na zasadzie skonsolidowanej, na wniosek właściwego organu nadzoru z innego państwa członkowskiego dla podmiotu powiązanego, któremu odmówiono wsparcia finansowego lub ograniczono wsparcie finansowe, Komisja zaleca domowi maklerskiemu albo jego podmiotowi dominującemu będącemu unijną jednostką dominującą zmianę grupowego planu naprawy.
+
+**Art. 110zy.** Dom maklerski podaje do publicznej wiadomości, zgodnie z art. 46 rozporządzenia 2019/2033, informację, czy jest stroną umowy, o której mowa w art. 110zr ust. 1.
+
+**Art. 110zz.**
+
+1. Jeżeli ze względu na szybko pogarszającą się sytuację finansową domu maklerskiego, w tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez dom maklerski lub koncentrację ekspozycji, dom maklerski narusza albo z dużym prawdopodobieństwem naruszy przepisy art. 98, oddziału 2a, przepisy rozporządzenia 2019/2033, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych przewidzianych w art. 110y, Komisja, w drodze decyzji, może zastosować wobec domu maklerskiego następujące środki wczesnej interwencji:
+
+- **1)** nakazać wdrożenie planu naprawy, w tym podjęcie określonych działań przewidzianych w planie naprawy;
+- **2)** nakazać aktualizację planu naprawy zgodnie z art. 110zj ust. 7 przez uwzględnienie w planie naprawy okoliczności, które doprowadziły do wystąpienia sytuacji stanowiącej przesłankę zastosowania środków wczesnej interwencji, a nie zostały przewidziane w tym planie naprawy;
+- **3)** nakazać w sytuacji, o której mowa w pkt 2, wdrożenie określonych działań przewidzianych w zaktualizowanym planie naprawy;
+- **4)** nakazać domowi maklerskiemu zbadanie przyczyn zaistniałej sytuacji, określenie środków pozwalających rozwiązać stwierdzone problemy oraz sporządzenie programu działania w celu rozwiązania tych problemów i harmonogramu jego wdrażania;
+- **5)** nakazać domowi maklerskiemu zwołanie nadzwyczajnego walnego zgromadzenia albo nadzwyczajnego zgromadzenia wspólników w celu rozpatrzenia sytuacji domu maklerskiego lub umieszczenia spraw wskazanych przez Komisję w porządku obrad walnego zgromadzenia; w przypadku niewykonania któregokolwiek z żądań, do żądania Komisji stosuje się odpowiednio przepisy art. 237 § 1 i 3 albo art. 400 § 3 i 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;
+- **6)** nakazać sporządzenie i uzgodnienie planu restrukturyzacji wierzytelności lub innych długów z wierzycielami domu maklerskiego, zgodnie z planem naprawy;
+- **7)** nakazać wprowadzenie zmian w strategii domu maklerskiego;
+- **8)** nakazać wprowadzenie zmian w statucie albo umowie spółki domu maklerskiego lub jego strukturze zarządzania, w tym w strukturze organizacyjnej;
+- **9)** nakazać odwołanie członka zarządu, którego działania lub zaniechania doprowadziły do zaistnienia przesłanek zastosowania środków wczesnej interwencji, a zastosowane inne środki wczesnej interwencji okazały się nieskuteczne lub niewystarczające;
+- **10)** nakazać zawieszenie członka zarządu w czynnościach do czasu podjęcia uchwały w sprawie wniosku o odwołanie członka zarządu, o którym mowa w pkt 9.
+
+1a. Środki, o których mowa w ust. 1 pkt 9, Komisja może zastosować także wobec domu maklerskiego stosującego rozporządzenie 575/2013, jeżeli ze względu na szybko pogarszającą się sytuację finansową tego domu maklerskiego, w tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez ten dom maklerski lub koncentrację ekspozycji, narusza on albo z dużym prawdopodobieństwem naruszy przepisy art. 98, przepisy prawa bankowego stosowane przez niektóre domy maklerskie, przepisy rozporządzenia 575/2013, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych podejmowanych zgodnie z art. 138 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+
+2. Przy ocenie sytuacji finansowej domu maklerskiego Komisja może brać pod uwagę w szczególności zachowanie przez dom maklerski wymogów funduszy własnych określonych w art. 9 ust. 1 rozporządzenia 2019/2033, powiększonych o 19 punktów procentowych.
+
+3. W przypadku, o którym mowa w ust. 1 pkt 5, koszty zwołania i odbycia zgromadzenia ponosi dom maklerski. Przerwy w zgromadzeniu nie mogą trwać łącznie dłużej niż 14 dni.
+
+4. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o wszczęciu postępowania w sprawie zastosowaniu środka wczesnej interwencji, o którym mowa w ust. 1.
+
+5. W decyzji, o której mowa w ust. 1 i 1a, Komisja może określić termin jej wykonania.
+
+6. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania domu maklerskiego lub wchodzące w skład jego statutowych organów albo pozostające z domem maklerskim w stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tego domu maklerskiego, wszystkich informacji celem aktualizacji planu przymusowej restrukturyzacji, a także innych informacji, które w ocenie Komisji mogą mieć wpływ na przygotowanie lub realizację przymusowej restrukturyzacji, w tym na oszacowanie wartości aktywów i zobowiązań domu maklerskiego.
+
+7. Podjęcia przez Komisję czynności, o których mowa w ust. 1 i art. 110zk ust. 10, oraz ustanowienia kuratora albo zarządu komisarycznego, o których mowa w art. 110zza, a także skutków wystąpienia tych zdarzeń w odniesieniu do umów zawartych przez dom maklerski nie uznaje się za podstawę realizacji zabezpieczenia w rozumieniu art. 3 pkt 4 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych ani za ogłoszenie upadłości w rozumieniu art. 1 pkt 14 ustawy o ostateczności rozrachunku, jeżeli nadal są wypełniane istotne zobowiązania domu maklerskiego wynikające z umowy, w tym zobowiązania do płatności i dostawy, a także zobowiązania do zapewnienia zabezpieczenia. Przepisy art. 156 ust. 2–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji stosuje się odpowiednio.
+
+**Art. 110zza.**
+
+1. Jeżeli w ocenie Komisji zastosowanie środków, o których mowa w art. 110zz ust. 1 pkt 9, w celu poprawy sytuacji domu maklerskiego lub domu maklerskiego stosującego rozporządzenie 575/2013 jest niewystarczające, Komisja może wydać decyzję o ustanowieniu kuratora albo zarządu komisarycznego. W decyzji Komisja określa zadania kuratora albo zarządu komisarycznego.
+
+2. Komisja może zmienić decyzję, o której mowa w ust. 1.
+
+3. Kurator albo zarząd komisaryczny jest powoływany na okres nie dłuższy niż rok. W uzasadnionych przypadkach okres ten może zostać przedłużony, jeżeli w ocenie Komisji nie ustały przesłanki jego powołania. Komisja publikuje na stronie internetowej informację o przedłużeniu okresu, na który został ustanowiony zarząd komisaryczny albo kurator.
+
+4. Do kuratora stosuje się odpowiednio przepisy art. 110ze ust. 2–10 i 12–16.
+
+5. Do zarządu komisarycznego stosuje się odpowiednio przepisy art. 110zf ust. 3–8 i art. 110zg.
+
+6. W decyzji o ustanowieniu zarządu komisarycznego Komisja może uzależnić dokonywanie określonych czynności przez zarząd komisaryczny od uzyskania zgody Komisji.
+
+7. Zarząd komisaryczny może zwołać walne zgromadzenie albo zgromadzenie wspólników za zgodą Komisji.
+
+**Art. 110zzb.**
+
+1. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego unijną dominującą firmą inwestycyjną albo w odniesieniu do unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, Komisja, w przypadku gdy sprawuje nadzór na zasadzie skonsolidowanej, powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz zainteresowane właściwe organy nadzoru wchodzące w skład kolegium.
+
+2. Wydając decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza, Komisja uwzględnia stanowiska wyrażone przez zainteresowane właściwe organy nadzoru, w tym także wpływ decyzji na podmioty powiązane. Komisja przekazuje informację o wydaniu decyzji zainteresowanym właściwym organom nadzoru wchodzącym w skład kolegium oraz Europejskiemu Urzędowi Nadzoru Bankowego.
+
+3. W przypadku gdy właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą powiadomi Komisję sprawującą nadzór nad domem maklerskim będącym podmiotem zależnym od tej unijnej jednostki dominującej o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza w odniesieniu do unijnej jednostki dominującej, Komisja może przekazać stanowisko w zakresie zastosowania tych środków.
+
+4. W przypadku gdy Komisja zostanie powiadomiona przez właściwy organ nadzoru z innego państwa członkowskiego o planowanym zastosowaniu środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza wobec instytucji będącej podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez Komisję, Komisja może przekazać temu właściwemu organowi nadzoru stanowisko w zakresie wpływu planowanych środków na grupę firm inwestycyjnych oraz na podmioty powiązane w terminie 3 dni roboczych od dnia otrzymania powiadomienia.
+
+5. W przypadku gdy powiadomienie, o którym mowa w ust. 4, zostało skierowane przez więcej niż jeden właściwy organ nadzoru, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru w zakresie zastosowania środków, o których mowa w art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych w art. 110zza dla wszystkich odnośnych instytucji albo w zakresie skoordynowania stosowania środków, o których mowa w art. 110zz, albo środków równoważnych do środków przewidzianych w art. 110zz, do więcej niż jednej instytucji. Porozumienie powinno zostać osiągnięte w ciągu 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień. Komisja informuje o porozumieniu unijną jednostkę dominującą, nad którą sprawuje nadzór na zasadzie skonsolidowanej.
+
+6. Przepis ust. 5 ma również zastosowanie, w przypadku gdy Komisja, jako organ sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą, jest jednym z właściwych organów nadzoru zamierzających podjąć wymienione w tym przepisie działania w odniesieniu do podmiotu zależnego, którym jest dom maklerski. W takim wypadku w przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5, w terminie 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień, Komisja może wydać decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza. W decyzji Komisja uwzględnia stanowiska innych właściwych organów nadzoru.
+
+7. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego, Komisja powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz ten właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej. Wydając decyzję, Komisja uwzględnia stanowisko właściwego organu nadzoru sprawującego nadzór na zasadzie skonsolidowanej z innego państwa członkowskiego, jeżeli została ona wyrażona w terminie 3 dni roboczych od dnia otrzymania przez ten właściwy organ nadzoru powiadomienia od Komisji. Komisja powiadamia o wydaniu decyzji organ sprawujący nadzór na zasadzie skonsolidowanej, pozostałe właściwe organy nadzoru w ramach kolegium oraz Europejski Urząd Nadzoru Bankowego.
+
+8. Jeżeli przesłanki zastosowania środków, o których mowa w art. 110zz i art. 110zza, zostaną spełnione w odniesieniu do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego i jednocześnie co najmniej jeden inny właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór nad inną instytucją będącą podmiotem zależnym od tej samej unijnej jednostki dominującej planuje zastosowanie środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza wobec nadzorowanej przez siebie instytucji, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru w zakresie zastosowania środków, o których mowa w art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych w art. 110zza dla wszystkich odnośnych instytucji albo w zakresie skoordynowania stosowania dowolnych środków, o których mowa w art. 110zz, albo środków równoważnych do środków przewidzianych w art. 110zz.
+
+9. W przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 8, w terminie 5 dni roboczych od dnia otrzymania przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej wobec unijnej jednostki dominującej ostatniego z zawiadomień, Komisja może wydać decyzję w sprawie zastosowania środków, o których mowa w art. 110zz i art. 110zza, wobec domu maklerskiego będącego podmiotem zależnym.
+
+10. Jeżeli Komisja nie zgadza się z decyzją wydaną po otrzymaniu powiadomienia o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych w art. 110zz lub art. 110zza zgodnie z ust. 3 lub 4 lub w przypadku nieosiągnięcia porozumienia, o którym mowa w ust. 5 i 8, Komisja może skierować sprawę do Europejskiego Urzędu Nadzoru Bankowego.
+
+11. Europejski Urząd Nadzoru Bankowego na wniosek któregokolwiek właściwego organu nadzoru może udzielić wsparcia właściwym organom nadzoru, które zamierzają zastosować co najmniej jeden ze środków określonych w art. 110zz ust. 1:
+
+- **1)** pkt 1 – w odniesieniu do działań przewidzianych w planie naprawy zgodnie z art. 110zj ust. 3 pkt 4, 10, 11 i 19,
+- **2)** pkt 6,
+- **3)** pkt 8 – w osiągnięciu porozumienia zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010.
+
+12. Wydając decyzje, o których mowa w ust. 2, 6, 7 lub 9, Komisja uwzględnia potencjalny wpływ tych decyzji na stabilność finansową w zainteresowanych państwach członkowskich.
+
+13. Jeżeli przed końcem okresu konsultacji, o którym mowa w ust. 1 i 7, lub w terminie 5 dni roboczych, o którym mowa w ust. 6 i 9, którykolwiek z zainteresowanych właściwych organów skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010, Komisja może wydać decyzję niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego w terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin konsultacji, o których mowa w ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa w ust. 6 i 9, uznaje się za termin zakończenia postępowania pojednawczego w rozumieniu tego rozporządzenia. Sprawy nie kieruje się do Europejskiego Urzędu Nadzoru Bankowego, jeżeli termin konsultacji, o których mowa w ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa w ust. 6 i 9, upłynął lub jeżeli wspólna decyzja została podjęta.
+
+14. W przypadku niewydania decyzji przez Europejski Urząd Nadzoru Bankowego w terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego zastosowanie mają indywidualne decyzje wydane zgodnie z ust. 2, 6, 7 lub 9.
+
+15. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o decyzjach o zastosowaniu środka wczesnej interwencji, o którym mowa w ust. 2 i 6–
+
+9.
+
+16. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–15 stosuje się odpowiednio.
+
+**Art. 110zzc.** (uchylony)
+
+**Art. 110zzd.** W postępowaniach prowadzonych w sprawach, o których mowa w art. 110zze i art. 110zzf, Komisja może odstąpić od stosowania art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego także w przypadkach, gdy zastosowanie tego przepisu mogłoby uniemożliwić lub znacznie utrudnić osiągnięcie celów wczesnej interwencji.
+
+**Art. 110zze.**
+
+1. Decyzje wydawane przez Komisję na podstawie przepisów niniejszego oddziału podlegają natychmiastowemu wykonaniu.
+
+2. Uzasadnienie decyzji, o której mowa w ust. 1, może zostać doręczone w terminie 14 dni od dnia doręczenia decyzji.
+
+3. W przypadku gdy uzasadnienie doręczane jest po doręczeniu decyzji, termin na złożenie wniosku o ponowne rozpoznanie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
+
+**Art. 110zzf.** Do postępowań przed Komisją, prowadzonych na podstawie przepisów niniejszego oddziału, nie stosuje się przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+**Art. 110zzg.**
+
+1. Doręczanie przez Komisję pism w postępowaniach administracyjnych prowadzonych na podstawie przepisów niniejszego oddziału następuje na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, domu maklerskiego wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
+
+2. W przypadku ustanowienia pełnomocnika pełnomocnictwo powinno określać adres do doręczeń elektronicznych pełnomocnika wpisany do bazy adresów elektronicznych. W przypadku braku podania adresu do doręczeń elektronicznych w pełnomocnictwie doręczenie pisma na adres do doręczeń elektronicznych domu maklerskiego wpisany do bazy adresów elektronicznych, który ustanowił pełnomocnika, ma skutek prawny.
+
+3. W przypadku nieodebrania pisma doręczanego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych doręczenie uważa się za dokonane po upływie 2 dni roboczych, licząc od dnia wystawienia dowodu wysłania, o którym mowa w art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
+**Art. 110zzh.**
+
+1. Jeżeli dom maklerski jest zagrożony upadłością, Komisja informuje o tym niezwłocznie Bankowy Fundusz Gwarancyjny, wskazując przesłanki takiej oceny.
+
+2. Dom maklerski jest zagrożony upadłością, jeżeli spełniona jest przynajmniej jedna przesłanka, o której mowa w art. 101 ust. 3 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
+
+3. Zarząd domu maklerskiego, zarząd komisaryczny albo likwidator niezwłocznie zawiadamia Komisję o spełnieniu przesłanek, o których mowa w ust. 1.
+
+**Art. 110zzi.**
+
+1. Komisja udostępnia informacje o podjęciu w ramach wczesnej interwencji decyzji o ustanowieniu kuratora albo zarządu komisarycznego w domach maklerskich, o których mowa w art. 110zza ust. 1, w europejskim pojedynczym punkcie dostępu.
+
+2. Informacje, o których mowa w ust. 1, są udostępniane przez Komisję w formacie umożliwiającym ekstrakcję danych.
+
+3. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
+
+- **1)** nazwą (firmą) domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje;
+- **2)** identyfikatorem podmiotu prawnego domu maklerskiego, o którym mowa w art. 110zza ust. 1, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
+- **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 ##### Oddział 3 Banki prowadzące działalność maklerską
 
@@ -5685,7 +6015,9 @@ Art. 185–213. (pominięte)
 
 3. Informacja, o której mowa w ust. 1, może być również przekazywana wraz ze sprawozdaniem, o którym mowa w art. 83j.
 
-4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez firmę inwestycyjną. [Art. 131r. Za opracowanie i publikację dokumentów, o których mowa w art. 131o ust. 1, 3 i 4 oraz art. 131q ust. 1, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.] <Art. 131r. Za opracowanie, publikację i przekazanie Komisji dokumentów, o których mowa w art. 131o ust. 1, 3 i 4, oraz opracowanie i publikację dokumentów, o których mowa w art. 131q ust. 1, a także za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.>
+4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa w ust. 1, jest publicznie udostępniana przez firmę inwestycyjną.
+
+**Art. 131r.** Za opracowanie, publikację i przekazanie Komisji dokumentów, o których mowa w art. 131o ust. 1, 3 i 4, oraz opracowanie i publikację dokumentów, o których mowa w art. 131q ust. 1, a także za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a w przypadku firmy inwestycyjnej będącej spółką osobową – wspólnicy lub komplementariusze w tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 ### DZIAŁ IVA Uczestnictwo w systemie pilotażowym na potrzeby infrastruktury rynkowej opartej na technologii rozproszonego rejestru
 
@@ -5749,19 +6081,43 @@ Art. 185–213. (pominięte)
 
 3. W przypadku wtórnej rejestracji DLT podmiot prowadzący rejestr akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przekazuje spółce oraz SS opartemu na DLT albo TSS opartemu na DLT, wybranemu zgodnie z art. 131x ust. 1, dane osobowe akcjonariuszy, ze wskazaniem liczby akcji posiadanych przez każdego z nich, a także obciążeń ustanowionych na tych akcjach oraz danych osobowych osób, na których rzecz obciążenia te ustanowiono. Informacje te są sporządzane według stanu na dzień wyrejestrowania akcji z rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
-4. Z dniem wyrejestrowania akcji z rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, następuje ich rejestracja w SS opartym na DLT albo w TSS opartym na DLT, zapisy w tym rejestrze akcjonariuszy tracą moc, a moc obowiązującą uzyskują odpowiadające im zapisy na rachunkach DLT albo w ewidencji DLT, o której mowa w art. 131u ust. 1. Art. 131za. 1. Spółka prowadząca rynek regulowany może, na zasadach określonych w rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT.
+4. Z dniem wyrejestrowania akcji z rejestru akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, następuje ich rejestracja w SS opartym na DLT albo w TSS opartym na DLT, zapisy w tym rejestrze akcjonariuszy tracą moc, a moc obowiązującą uzyskują odpowiadające im zapisy na rachunkach DLT albo w ewidencji DLT, o której mowa w art. 131u ust. 1.
+
+**Art. 131za.**
+
+1. Spółka prowadząca rynek regulowany może, na zasadach określonych w rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT.
 
 2. Krajowy Depozyt lub centralny depozyt papierów wartościowych może prowadzić SS oparty na DLT albo TSS oparty na DLT na zasadach określonych w rozporządzeniu 2022/858.
 
-3. Firma inwestycyjna może, na zasadach określonych w rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT. Art. 131zb. 1. Podmiot, o którym mowa w art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858, występujący o specjalne zezwolenie, o którym mowa w tych przepisach, wraz z wnioskiem o jego udzielenie składa do Komisji wniosek o udzielenie zezwolenia na prowadzenie odpowiednio działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych w rozumieniu rozporządzenia 909/2014.
+3. Firma inwestycyjna może, na zasadach określonych w rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT.
 
-2. Komisja, odmawiając udzielenia zezwolenia na prowadzenie działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych w rozumieniu rozporządzenia 909/2014, odmawia udzielenia specjalnego zezwolenia, o którym mowa w art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858. Art. 131zc. 1. Podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT może wydawać pieniądz elektroniczny w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30) dla celów rozrachunku w środkach pieniężnych dokonywanego w związku z transakcjami zawieranymi na ASO opartym na DLT albo TSS opartym na DLT, w zakresie instrumentów finansowych obsługiwanych przez DLT, zarejestrowanych w prowadzonym przez ten podmiot SS opartym na DLT albo TSS opartym na DLT.
+**Art. 131zb.**
 
-2. Do podmiotów, o których mowa w ust. 1, stosuje się przepisy działu IIIa ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych. Art. 131zd. 1. W celu zapewnienia przestrzegania przez podmiot prowadzący ASO oparty na DLT, TSS oparty na DLT albo SS oparty na DLT przepisów rozporządzenia 2022/858 Komisja może zalecić zaprzestanie w wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania w przyszłości. Art. 131ze. 1. W przypadku gdy do wykonania strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja akcji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi w SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, w imieniu emitenta, umowy o rejestrację tych akcji w depozycie papierów wartościowych z Krajowym Depozytem albo innym centralnym depozytem papierów wartościowych wskazanym w strategii przejścia zgodnie z art. 7 ust. 9 rozporządzenia 2022/858 oraz wykonania, w imieniu emitenta, czynności związanych z tą rejestracją.
+1. Podmiot, o którym mowa w art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858, występujący o specjalne zezwolenie, o którym mowa w tych przepisach, wraz z wnioskiem o jego udzielenie składa do Komisji wniosek o udzielenie zezwolenia na prowadzenie odpowiednio działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych w rozumieniu rozporządzenia 909/2014.
+
+2. Komisja, odmawiając udzielenia zezwolenia na prowadzenie działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych w rozumieniu rozporządzenia 909/2014, odmawia udzielenia specjalnego zezwolenia, o którym mowa w art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858.
+
+**Art. 131zc.**
+
+1. Podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT może wydawać pieniądz elektroniczny w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30) dla celów rozrachunku w środkach pieniężnych dokonywanego w związku z transakcjami zawieranymi na ASO opartym na DLT albo TSS opartym na DLT, w zakresie instrumentów finansowych obsługiwanych przez DLT, zarejestrowanych w prowadzonym przez ten podmiot SS opartym na DLT albo TSS opartym na DLT.
+
+2. Do podmiotów, o których mowa w ust. 1, stosuje się przepisy działu IIIa ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
+
+**Art. 131zd.**
+
+1. W celu zapewnienia przestrzegania przez podmiot prowadzący ASO oparty na DLT, TSS oparty na DLT albo SS oparty na DLT przepisów rozporządzenia 2022/858 Komisja może zalecić zaprzestanie w wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania w przyszłości.
+
+**Art. 131ze.**
+
+1. W przypadku gdy do wykonania strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja akcji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi w SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, w imieniu emitenta, umowy o rejestrację tych akcji w depozycie papierów wartościowych z Krajowym Depozytem albo innym centralnym depozytem papierów wartościowych wskazanym w strategii przejścia zgodnie z art. 7 ust. 9 rozporządzenia 2022/858 oraz wykonania, w imieniu emitenta, czynności związanych z tą rejestracją.
 
 2. W przypadku gdy Krajowy Depozyt albo inny centralny depozyt papierów wartościowych wskazany w strategii przejścia odmówi zawarcia umowy o rejestrację akcji w depozycie papierów wartościowych, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, w imieniu emitenta, umowy o prowadzenie rejestru akcjonariuszy oraz wykonania w imieniu emitenta czynności związanych z tą rejestracją. Przepisu art. 328 § 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych nie stosuje się.
 
-3. W przypadku gdy do wykonania strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja obligacji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi w SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, w imieniu emitenta, umowy o wykonywanie funkcji agenta emisji, o której mowa w art. 7a ust. 1, w depozycie papierów wartościowych oraz do wykonania, w imieniu emitenta, czynności związanych z zawarciem tej umowy. Przepisu art. 7a ust. 2 nie stosuje się. Art. 131zf. 1. W przypadku gdy w wykonaniu strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, instrumenty finansowe obsługiwane przez DLT, wprowadzone do obrotu w ASO opartym na DLT, mają zostać wprowadzone do obrotu w ASO wskazanym w strategii przejścia, podmiot prowadzący ASO oparty na DLT albo TSS oparty na DLT jest uprawniony do złożenia w imieniu emitenta wniosku o wprowadzenie tych instrumentów do obrotu w ASO wskazanym w strategii przejścia oraz wykonywania w imieniu i na rzecz emitenta czynności dotyczących tego wniosku.
+3. W przypadku gdy do wykonania strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja obligacji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi w SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, w imieniu emitenta, umowy o wykonywanie funkcji agenta emisji, o której mowa w art. 7a ust. 1, w depozycie papierów wartościowych oraz do wykonania, w imieniu emitenta, czynności związanych z zawarciem tej umowy. Przepisu art. 7a ust. 2 nie stosuje się.
+
+**Art. 131zf.**
+
+1. W przypadku gdy w wykonaniu strategii przejścia, o której mowa w art. 7 ust. 7 rozporządzenia 2022/858, instrumenty finansowe obsługiwane przez DLT, wprowadzone do obrotu w ASO opartym na DLT, mają zostać wprowadzone do obrotu w ASO wskazanym w strategii przejścia, podmiot prowadzący ASO oparty na DLT albo TSS oparty na DLT jest uprawniony do złożenia w imieniu emitenta wniosku o wprowadzenie tych instrumentów do obrotu w ASO wskazanym w strategii przejścia oraz wykonywania w imieniu i na rzecz emitenta czynności dotyczących tego wniosku.
 
 2. W przypadku, o którym mowa w ust. 1, podmiot prowadzący ASO może zgłosić sprzeciw wobec wprowadzenia instrumentów finansowych do prowadzonego przez niego ASO, jeżeli uzna, że wprowadzenie instrumentów finansowych do obrotu zagrażałoby bezpieczeństwu obrotu lub interesowi jego uczestników, nie później niż w terminie 3 miesięcy od dnia złożenia wniosku o wprowadzenie instrumentów finansowych do obrotu w ASO.
 
@@ -6236,7 +6592,7 @@ Art. 185–213. (pominięte)
 
 3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, dom maklerski, o którym mowa w art. 110zi ust. 1 pkt 4, występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-4. Komisja udostępnia informację, o której mowa w art. 110zy, w europejskim pojedynczym punkcie dostępu.>
+4. Komisja udostępnia informację, o której mowa w art. 110zy, w europejskim pojedynczym punkcie dostępu.
 
 ### DZIAŁ VI Dostęp do informacji o szczególnym charakterze
 
@@ -6283,7 +6639,7 @@ Art. 185–213. (pominięte)
 1. Z zastrzeżeniem art. 150–153 oraz art. 20, art. 21, art. 23 i art. 25 ustawy o nadzorze, informacje stanowiące tajemnicę zawodową, będące w posiadaniu osób fizycznych wymienionych w art. 148 ust. 1, są ujawniane wyłącznie na żądanie:
 
 - **1)** sądu lub prokuratora w związku z toczącym się postępowaniem karnym lub postępowaniem w sprawie o przestępstwo skarbowe;
-- **2)** sądu lub prokuratora w związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą zawodową; [3) sądu w związku z toczącym się postępowaniem cywilnym w sprawie, w której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą – w zakresie informacji dotyczących tego podmiotu;] <3) sądu w związku z toczącym się postępowaniem cywilnym w sprawie, w której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą ‒ w zakresie informacji dotyczących tego podmiotu albo w związku z toczącym się postępowaniem, o którym mowa w art. 25a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119 i 176) ‒ w zakresie informacji, o których mowa w art. 25da tej ustawy.>
+- **2)** sądu lub prokuratora w związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą zawodową; [3) sądu w związku z toczącym się postępowaniem cywilnym w sprawie, w której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą – w zakresie informacji dotyczących tego podmiotu;] <3) sądu w związku z toczącym się postępowaniem cywilnym w sprawie, w której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą ‒ w zakresie informacji dotyczących tego podmiotu albo w związku z toczącym się postępowaniem, o którym mowa w art. 25a ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119 i 176) ‒ w zakresie informacji, o których mowa w art. 25da tej ustawy.
 - **4)** organu Krajowej Administracji Skarbowej:
     - **a)** w związku z toczącym się postępowaniem w sprawie o: – przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko osobie fizycznej będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby, – przestępstwo skarbowe popełnione przy wykonywaniu czynności związanych z działalnością osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową – w zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej;
     - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
@@ -6824,7 +7180,11 @@ Art. 185–213. (pominięte)
 
 3. (uchylony)
 
-4. (uchylony) Art. 167aa. 1. W przypadku gdy agent firmy inwestycyjnej, wykonując czynności, o których mowa w art. 79 ust. 2, narusza przepisy ustawy lub innych ustaw mających zastosowanie do działalności agenta firmy inwestycyjnej, przepisy wydane na ich podstawie lub przepisy rozporządzenia 2019/2033, rozporządzenia 575/2013, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 1031/2010, lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności agenta firmy inwestycyjnej, wykonuje czynności powierzone mu na podstawie umowy zawartej z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa w art. 70 ust. 2, niezgodnie z przepisami prawa, a także w przypadku gdy nie przestrzega zasad uczciwego obrotu lub narusza interesy zleceniodawcy firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską lub banku, o którym mowa w art. 70 ust. 2, których jest agentem, Komisja może:
+4. (uchylony)
+
+**Art. 167aa.**
+
+1. W przypadku gdy agent firmy inwestycyjnej, wykonując czynności, o których mowa w art. 79 ust. 2, narusza przepisy ustawy lub innych ustaw mających zastosowanie do działalności agenta firmy inwestycyjnej, przepisy wydane na ich podstawie lub przepisy rozporządzenia 2019/2033, rozporządzenia 575/2013, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 1031/2010, lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności agenta firmy inwestycyjnej, wykonuje czynności powierzone mu na podstawie umowy zawartej z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa w art. 70 ust. 2, niezgodnie z przepisami prawa, a także w przypadku gdy nie przestrzega zasad uczciwego obrotu lub narusza interesy zleceniodawcy firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską lub banku, o którym mowa w art. 70 ust. 2, których jest agentem, Komisja może:
 
 - **1)** w przypadku agenta firmy inwestycyjnej będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej – nałożyć karę pieniężną do wysokości 1 000 000 zł;
 - **2)** w przypadku agenta firmy inwestycyjnej będącego osobą fizyczną – nałożyć karę pieniężną do wysokości 500 000 zł;
@@ -6849,7 +7209,11 @@ Art. 185–213. (pominięte)
 
 5. Stroną postępowania w sprawie, o której mowa w ust. 1 pkt 5, jest agent firmy inwestycyjnej i firma inwestycyjna, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2, z którymi agent firmy inwestycyjnej pozostawał w stosunku umownym o wykonywanie czynności pośrednictwa w czasie gdy naruszył przepisy, o których mowa w ust. 1, wykonywał powierzone mu czynności wynikające z umowy zawartej z firmą inwestycyjną lub bankiem, o którym mowa w art. 70 ust. 2, niezgodnie z przepisami prawa, nie przestrzegał zasad uczciwego obrotu lub naruszył interesy zleceniodawcy firmy inwestycyjnej lub banku, o którym mowa w art. 70 ust. 2, których był agentem.
 
-**Art. 167b.** (uchylony) Art. 167ba. 1. W przypadku gdy zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, naruszają wymogi:
+**Art. 167b.** (uchylony)
+
+**Art. 167ba.**
+
+1. W przypadku gdy zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, naruszają wymogi:
 
 - **1)** określone w art. 27f ust. 1–3 rozporządzenia 600/2014 wobec organu zarządzającego odpowiednio zatwierdzonego podmiotu publikującego i zatwierdzonego mechanizmu sprawozdawczego,
 - **2)** organizacyjne, dotyczące zatwierdzonych podmiotów publikujących lub zatwierdzonych mechanizmów sprawozdawczych, określone odpowiednio w art. 27g ust. 1–5 i art. 27i ust. 1–4 rozporządzenia 600/2014 – Komisja może, w przypadku innym niż określony w art. 167c ust. 1, nakazać odpowiednio zatwierdzonemu podmiotowi publikującemu i zatwierdzonemu mechanizmowi sprawozdawczemu zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie takich działań w przyszłości lub nałożyć na zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, karę pieniężną w wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym, jeżeli przekracza ona 20 750 000 złotych.
@@ -6881,7 +7245,11 @@ Art. 185–213. (pominięte)
 
 4. (uchylony)
 
-5. Decyzja, o której mowa w ust. 1, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego. Art. 167ca. 1. W przypadku cofnięcia przez Komisję zatwierdzonemu podmiotowi publikującemu lub zatwierdzonemu mechanizmowi sprawozdawczemu posiadającym zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, zezwolenia na świadczenie usług na podstawie art. 27e ust. 1 lit. b–d rozporządzenia 600/2014 Komisja może jednocześnie nałożyć karę pieniężną w wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 złotych, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy.
+5. Decyzja, o której mowa w ust. 1, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+**Art. 167ca.**
+
+1. W przypadku cofnięcia przez Komisję zatwierdzonemu podmiotowi publikującemu lub zatwierdzonemu mechanizmowi sprawozdawczemu posiadającym zezwolenie Komisji, o którym mowa w art. 27c ust. 1 rozporządzenia 600/2014, zezwolenia na świadczenie usług na podstawie art. 27e ust. 1 lit. b–d rozporządzenia 600/2014 Komisja może jednocześnie nałożyć karę pieniężną w wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 złotych, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy.
 
 2. Komisja, ustalając wysokość kary pieniężnej, o której mowa w ust. 1, uwzględnia w szczególności okoliczności, o których mowa w art. 167ba ust. 2. Przepisy art. 167ba ust. 3–5 stosuje się odpowiednio.
 
@@ -7108,7 +7476,11 @@ Art. 185–213. (pominięte)
 
 1. Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o przypadkach zastosowania w poprzednim roku kalendarzowym sankcji, o których mowa w art. 165 ust. 1a i art. 169a ust. 1–1ba, oraz sankcji, o których mowa w art. 167 ust. 1–3, z wyłączeniem cofnięcia zezwolenia na prowadzenie działalności maklerskiej.
 
-2. Z zastrzeżeniem wymogów dotyczących ochrony tajemnicy zawodowej, o których mowa w art. 147, Komisja informuje Europejski Urząd Nadzoru Bankowego o sankcjach nałożonych w związku z naruszeniem przepisów działu IV rozdziału 1 oddziału 2a, przepisów prawa bankowego stosowanych przez niektóre domy maklerskie, przepisów rozporządzenia 2019/2033 lub rozporządzenia 575/2013, a także o wniesionych środkach odwoławczych oraz o sposobie ich rozpatrzenia. Art. 169ba. 1. W przypadku naruszenia art. 110ec ust. 1 przez osobę inną niż dom maklerski Komisja może, w drodze decyzji:
+2. Z zastrzeżeniem wymogów dotyczących ochrony tajemnicy zawodowej, o których mowa w art. 147, Komisja informuje Europejski Urząd Nadzoru Bankowego o sankcjach nałożonych w związku z naruszeniem przepisów działu IV rozdziału 1 oddziału 2a, przepisów prawa bankowego stosowanych przez niektóre domy maklerskie, przepisów rozporządzenia 2019/2033 lub rozporządzenia 575/2013, a także o wniesionych środkach odwoławczych oraz o sposobie ich rozpatrzenia.
+
+**Art. 169ba.**
+
+1. W przypadku naruszenia art. 110ec ust. 1 przez osobę inną niż dom maklerski Komisja może, w drodze decyzji:
 
 - **1)** nakazać osobie oferującej podmiotowi innemu niż podmioty wymienione w art. 3 pkt 39b lit. a–m zawarcie umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, zaprzestanie działań skutkujących naruszeniem art. 110ec ust. 1 lub powstrzymanie się od takich działań w przyszłości;
 - **2)** nałożyć na osobę oferującą podmiotowi innemu niż podmioty wymienione w art. 3 pkt 39b lit. a–m zawarcie umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, karę pieniężną do wysokości nieprzekraczającej:
@@ -7707,6 +8079,8 @@ Art. 185–213. (pominięte)
 3. Orzekanie w sprawach określonych w ust. 1 i 2 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
 
 ### DZIAŁ XI Zmiany w przepisach obowiązujących
+
+**Art. 185–213.** (pominięte)
 
 ### DZIAŁ XII Przepisy przejściowe i końcowe
 

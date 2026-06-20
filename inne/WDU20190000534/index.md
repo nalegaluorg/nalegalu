@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Sieci Badawczej Łukasiewicz
+# Ustawa z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz
 
 *USTAWA z dnia 21 lutego 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-03-21 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/534/text.pdf) |
-
-Art. 70–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -733,8 +731,7 @@ Art. 70–97. (pominięte)
     - **c)** instrumentów finansowych, o których mowa w art. 2 lit. p rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 966/2012 z dnia 25 października 2012 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylającego rozporządzenie Rady (WE, Euratom) nr 1605/2002 (Dz. Urz. UE L 298 z 26.10.2012, str. 1, z późn. zm. );
 
 - **2)** utworzyć spółki, obejmować lub nabywać udziały i akcje lub obejmować warranty subskrypcyjne uprawniające do zapisu lub objęcia akcji w spółkach mających siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą;
-- **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz.
-- **60)** .
+- **3)** obejmować lub nabywać certyfikaty inwestycyjne, o których mowa w art. 117 ust. 1 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60).
 
 2. Przepisy ust. 1 mogą być odpowiednio stosowane w przypadku wsparcia udzielanego ze środków innych niż pochodzące z budżetu Unii Europejskiej.
 
@@ -1273,6 +1270,8 @@ Art. 70–97. (pominięte)
 6. Prezes zamieszcza, na stronie podmiotowej Centrum Łukasiewicz w BIP, roczną informację o umorzeniach należności finansowych wynikających z rozliczenia dotacji, o których mowa w art. 63 ust. 2 pkt 3, zawierającą wykaz instytutów Sieci wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia, do końca miesiąca następującego po zakończeniu kwartału.
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 70–97.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i dostosowujące oraz przepis końcowy
 

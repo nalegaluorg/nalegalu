@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym W celu szczególnego wyróżnienia obrońców Ojczyzny i zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane w okresie powojennym represje i prześladowania oraz za cierpienia związane z przymusowym oddaleniem od Ojczyzny – Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
+# Ustawa z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym.
 
 *USTAWA z dnia 24 lipca 1999 r.*
 

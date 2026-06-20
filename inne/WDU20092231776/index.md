@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o obrocie instrumentami finansowymi
+# Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o obrocie instrumentami finansowymi
 
 *USTAWA z dnia 20 listopada 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o grobach i cmentarzach wojennych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o grobach i cmentarzach wojennych
 
 | Pole | Wartość |
 |---|---|

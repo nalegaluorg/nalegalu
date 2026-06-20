@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Legnicy.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 11 lipca 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Legnicy.
 
 *ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 11 lipca 2000 r.*
 

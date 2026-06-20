@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
+# Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne
 
 *USTAWA z dnia 13 czerwca 2008 r.*
 

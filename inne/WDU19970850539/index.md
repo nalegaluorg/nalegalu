@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bibliotekach
+# Ustawa z dnia 27 czerwca 1997 r. o bibliotekach.
 
 *USTAWA z dnia 27 czerwca 1997 r.*
 

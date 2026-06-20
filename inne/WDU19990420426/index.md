@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie nadania statutu Urzędowi Ochrony Państwa.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 12 maja 1999 r. zmieniające rozporządzenie w sprawie nadania statutu Urzędowi Ochrony Państwa.
 
 | Pole | Wartość |
 |---|---|

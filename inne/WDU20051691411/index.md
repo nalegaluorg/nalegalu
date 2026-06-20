@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+# Ustawa z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 *USTAWA z dnia 1 lipca 2005 r.*
 

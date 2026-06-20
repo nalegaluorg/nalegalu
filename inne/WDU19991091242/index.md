@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia podatników nie mających obowiązku składania zgłoszenia rejestracyjnego.
+# Rozporządzenie Ministra Finansów z dnia 16 grudnia 1999 r. w sprawie określenia podatników nie mających obowiązku składania zgłoszenia rejestracyjnego.
 
 | Pole | Wartość |
 |---|---|

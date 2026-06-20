@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach realizacji przedpłat na samochody osobowe
+# Ustawa z dnia 20 grudnia 1996 r. o zasadach realizacji przedpłat na samochody osobowe.
 
 | Pole | Wartość |
 |---|---|

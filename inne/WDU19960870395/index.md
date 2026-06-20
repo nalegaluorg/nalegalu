@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
+# Ustawa z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
 
 *USTAWA z dnia 31 maja 1996 r.*
 

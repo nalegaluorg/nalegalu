@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obligacjach
+# Ustawa z dnia 15 stycznia 2015 r. o obligacjach
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-02-20 |
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/238/text.pdf) |
-
-Art. 99–108. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -968,6 +966,8 @@ Art. 99–108. (pominięte)
 **Art. 98.** Kto, działając w imieniu banku-reprezentanta, nie dopełnia obowiązków, o których mowa w art. 84 ust. 1, podlega grzywnie do 5 000 000 zł.
 
 #### Rozdział 9 Przepisy zmieniające, przepis przejściowy i przepisy końcowe
+
+**Art. 99–108.** (pominięte)
 
 **Art. 109.** Do obligacji wyemitowanych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 

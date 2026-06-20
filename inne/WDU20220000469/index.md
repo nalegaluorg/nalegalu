@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych
+# Ustawa z dnia 9 lutego 2022 r. o zmianie ustawy o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 *USTAWA z dnia 9 lutego 2022 r.*
 

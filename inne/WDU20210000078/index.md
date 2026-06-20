@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
+# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej
 
 *USTAWA z dnia 19 listopada 2020 r.*
 

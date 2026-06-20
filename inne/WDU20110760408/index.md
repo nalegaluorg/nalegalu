@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centrum Dialogu im. Juliusza Mieroszewskiego
+# Ustawa z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego
 
 *USTAWA z dnia 25 marca 2011 r.*
 

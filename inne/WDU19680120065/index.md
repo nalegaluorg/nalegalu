@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych
+# Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych.
 
 *USTAWA z dnia 9 kwietnia 1968 r.*
 

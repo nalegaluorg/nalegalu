@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia powiatów (gmin) nie uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym, w których powiatowy urząd pracy może dokonać zwrotu części lub całości kosztów dojazdu do pracy i zakwaterowania osobom, które zostały skierowane i podjęły zatrudnieniu, staż lub szkolenie poza miejscem stałego zamieszkania .
+# Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 24 maja 2000 r. w sprawie określenia powiatów (gmin) nie uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym, w których powiatowy urząd pracy może dokonać zwrotu części lub całości kosztów dojazdu do pracy i zakwaterowania osobom, które zostały skierowane i podjęły zatrudnienie, staż lub szkolenie poza miejscem stałego zamieszkania.
 
 *ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 24 maja 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw
+# Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 września 2007 r.*
 

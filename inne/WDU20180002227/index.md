@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o produktach kosmetycznych
+# Ustawa z dnia 4 października 2018 r. o produktach kosmetycznych
 
 *USTAWA z dnia 4 października 2018 r.*
 

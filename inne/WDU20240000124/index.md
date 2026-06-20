@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce oraz ustawy – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 16 stycznia 2024 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce oraz ustawy - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 16 stycznia 2024 r.*
 

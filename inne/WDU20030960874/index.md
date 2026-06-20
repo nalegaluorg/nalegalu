@@ -99,8 +99,7 @@ source: pdf
 
 - **1)** wyemitowanych po dniu 1 stycznia 1989 r. obligacji Skarbu Państwa lub bonów skarbowych oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego po dniu 1 stycznia 1997 r.,
 - **2)** innych papierów wartościowych dopuszczonych do publicznego obrotu, o ile nabycie takie nastąpiło w ramach zarządzania cudzym pakietem papierów wartościowych na zlecenie, o którym mowa w art. 30 ust. 2 pkt 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi (Dz.U. z 2002 r. Nr 49, poz. 447 i Nr 240, poz. 2055 oraz z 2003 r. Nr 50, poz. 424 i Nr 84, poz. 774), pod warunkiem zdeponowania tych papierów wartościowych na odrębnym rachunku prowadzonym przez uprawniony podmiot w rozumieniu powołanej ustawy,
-- **3)** jednostek uczestnictwa w funduszach inwestycyjnych działających na podstawie ustawy z dnia 28 sierpnia 1997 r. o funduszach inwestycyjnych (Dz.U. z 2002 r. Nr 49, poz. 448 i Nr 141, poz.
-- **1178)** .
+- **3)** jednostek uczestnictwa w funduszach inwestycyjnych działających na podstawie ustawy z dnia 28 sierpnia 1997 r. o funduszach inwestycyjnych (Dz.U. z 2002 r. Nr 49, poz. 448 i Nr 141, poz. 1178).
 
 1f. Zwolnienie, o którym mowa w ust. 1e, ma zastosowanie, jeżeli dochód jest przeznaczany i wydatkowany, bez względu na termin, na cele określone w ust. 1.”;
 

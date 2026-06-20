@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji i ustawy o języku polskim
+# Ustawa z dnia 31 marca 2000 r. o zmianie ustawy o radiofonii i telewizji i ustawy o języku polskim.
 
 *USTAWA z dnia 31 marca 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym
+# Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 *USTAWA z dnia 9 lipca 2025 r.*
 

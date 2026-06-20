@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych
+# Ustawa z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych
 
 *USTAWA z dnia 29 września 2022 r.*
 

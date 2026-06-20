@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawa z dnia 13 lipca 2012 r. o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawy o Państwowej Inspekcji Sanitarnej
 
 *USTAWA z dnia 13 lipca 2012 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-04-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/897/text.pdf) |
-
-Art. 56–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -319,7 +317,9 @@ Art. 56–63. (pominięte)
 
 **Art. 54g.** (uchylony)
 
-**Art. 54h.** (uchylony) Art. 54ha. (uchylony)
+**Art. 54h.** (uchylony)
+
+**Art. 54ha.** (uchylony)
 
 **Art. 54i.** (uchylony)
 
@@ -331,11 +331,21 @@ Art. 56–63. (pominięte)
 
 **Art. 54m.** (uchylony)
 
-**Art. 54n.** (uchylony) Art. 54na. (uchylony) Art. 54nb. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
+**Art. 54n.** (uchylony)
+
+**Art. 54na.** (uchylony)
+
+**Art. 54nb.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
 
 - **1)** wyrażonej w kilogramach 0,1% ilości mleka lub przetworów mlecznych wytwarzanych rocznie przez uznaną organizację producentów lub uznane zrzeszenie organizacji producentów oraz
 - **2)** ceny skupu mleka ustalonej przez ministra właściwego do spraw rynków rolnych na podstawie danych rynkowych zbieranych zgodnie z ustawą z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. z 2015 r. poz.
-- **1160)** dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy. Art. 54nc. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł. Art. 54nd. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł. Art. 54ne. Kto nie przekazuje informacji określonych w art. 2a, podlega karze pieniężnej w wysokości od 2000 zł do 5000 zł.
+- **1160)** dla miesiąca poprzedzającego miesiąc, w którym upływa termin przekazania powiadomienia, i opublikowanej zgodnie z art. 5 ust. 2 pkt 2 tej ustawy.
+
+**Art. 54nc.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które utrudniają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 1000 zł do 2000 zł.
+
+**Art. 54nd.** Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa, które uniemożliwiają przeprowadzenie kontroli w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika, podlegają karze pieniężnej w wysokości od 2000 zł do 5000 zł.
+
+**Art. 54ne.** Kto nie przekazuje informacji określonych w art. 2a, podlega karze pieniężnej w wysokości od 2000 zł do 5000 zł.
 
 **Art. 54o.**
 
@@ -370,6 +380,8 @@ Art. 56–63. (pominięte)
 6. Do egzekucji kary pieniężnej wraz z odsetkami za zwłokę stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
+
+**Art. 56–63.** (pominięte)
 
 **Art. 64.** Traci moc ustawa z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853).
 

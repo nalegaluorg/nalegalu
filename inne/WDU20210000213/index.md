@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie prawnej odmian roślin
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie prawnej odmian roślin
 
 *USTAWA z dnia 26 czerwca 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Ogólnopolskiej Sieci Edukacyjnej
+# Ustawa z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej
 
 *USTAWA z dnia 27 października 2017 r.*
 

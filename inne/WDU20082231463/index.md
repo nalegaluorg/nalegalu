@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawy o podatkach i opłatach lokalnych oraz ustawy o bezpieczeństwie żywności i żywienia
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawy o podatkach i opłatach lokalnych oraz ustawy o bezpieczeństwie żywności i żywienia
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

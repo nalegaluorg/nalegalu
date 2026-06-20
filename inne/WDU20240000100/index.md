@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 – Oddziału Muzeum II Wojny Światowej w Gdańsku
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie budowy Muzeum Westerplatte i Wojny 1939 - Oddziału Muzeum II Wojny Światowej w Gdańsku
 
 | Pole | Wartość |
 |---|---|

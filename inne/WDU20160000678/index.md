@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego "Program ochrony brzegów morskich"
 
 | Pole | Wartość |
 |---|---|

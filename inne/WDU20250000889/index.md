@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o drogach publicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o drogach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -40,27 +40,6 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 21 marca 1985 r.
 o drogach publicznych
-Art. 24ga. 1. Przepisy niniejszego rozdziału stosuje się do:
-1) dróg lub ich odcinków w transeuropejskiej sieci drogowej;
-2) autostrad i dróg ekspresowych lub ich odcinków poza transeuropejską siecią drogową;
-3) dróg krajowych lub ich odcinków, które łącznie spełniają następujące przesłanki:
-a) przebiegają poza granicami administracyjnymi miast oraz
-b) są budowane lub przebudowywane albo zostały wybudowane lub przebudowane, z udziałem środków pochodzących z budżetu Unii Europejskiej;
-4) dróg wojewódzkich lub ich odcinków, które łącznie spełniają przesłanki, o których mowa w pkt 3, oraz nie zapewniają dostępu do nieruchomości przylegających do nich za pośrednictwem zjazdu.
-2. Przepisy art. 24ma–24mc stosuje się ponadto do dróg krajowych lub ich odcinków zarządzanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad, które:
-1) przebiegają w granicach administracyjnych miast lub
-2) zostały wybudowane lub przebudowane bez udziału środków pochodzących z budżetu Unii Europejskiej.
-3. Przepisy art. 24i, art. 24j oraz art. 24l Generalny Dyrektor Dróg Krajowych i Autostrad może także stosować do zarządzanych przez siebie dróg krajowych lub ich odcinków, które:
-1) przebiegają w granicach administracyjnych miast lub
-2) są budowane albo przebudowywane bez udziału środków pochodzących z budżetu Unii Europejskiej.
-4. W przypadku gdy dany odcinek drogi, o którym mowa w ust. 1 pkt 3 lub 4, przebiega w części w granicach administracyjnych miasta, przepisy niniejszego rozdziału stosuje się do całego odcinka budowanego lub przebudowywanego albo wybudowanego lub przebudowanego, z udziałem środków pochodzących z budżetu Unii Europejskiej.
-5. W przypadku dróg, o których mowa w ust. 3, Generalny Dyrektor Dróg Krajowych i Autostrad do:
-1) zgłoszenia przebudowy drogi albo
-2) wniosku o wydanie decyzji o pozwoleniu na budowę, albo
-3) wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, albo
-4) zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie – nie dołącza wyników audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1, i uzasadnienia, o którym mowa w art. 24l ust. 4.
-6. Przepisy niniejszego rozdziału stosuje się do przebudowy dróg obejmującej wykonywanie robót budowlanych, które bezpośrednio wpływają na natężenie ruchu drogowego, w szczególności przebudowę skrzyżowania lub wykonywanie robót budowlanych, w wyniku których powstają nowe części drogi przeznaczone do ruchu lub postoju pojazdów lub ruchu pieszych.
-Art. 48–50. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -426,7 +405,9 @@ Art. 48–50. (pominięte)
 11. Dane osobowe, o których mowa w ust. 10, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
 
 - **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy. Art. 13ba. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłaty, o której mowa w art. 13 ust. 1 pkt 1.
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
+
+**Art. 13ba.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłaty, o której mowa w art. 13 ust. 1 pkt 1.
 
 **Art. 13c.** (uchylony)
 
@@ -540,7 +521,15 @@ Art. 48–50. (pominięte)
 
 **Art. 13g.** (uchylony)
 
-**Art. 13h.** W przypadku zawarcia umowy o partnerstwie publiczno-prywatnym opłaty, o których mowa w art. 13 ust. 1 pkt 1, art. 13 ust. 2, oraz opłatę dodatkową, o której mowa w art. 13f ust. 1, może pobierać partner prywatny. Art. 13ha. 1. Opłata, o której mowa w art. 13 ust. 1 pkt 3, zwana dalej „opłatą elektroniczną”, jest pobierana za przejazd po drogach krajowych lub ich odcinkach, określonych w przepisach wydanych na podstawie ust. 6. 2. Opłatę elektroniczną ustala się jako iloczyn liczby kilometrów przejazdu i stawki tej opłaty za kilometr dla danej kategorii pojazdu. 3. Ustala się następujące kategorie pojazdów w celu określenia stawki opłaty elektronicznej:
+**Art. 13h.** W przypadku zawarcia umowy o partnerstwie publiczno-prywatnym opłaty, o których mowa w art. 13 ust. 1 pkt 1, art. 13 ust. 2, oraz opłatę dodatkową, o której mowa w art. 13f ust. 1, może pobierać partner prywatny.
+
+**Art. 13ha.**
+
+1. Opłata, o której mowa w art. 13 ust. 1 pkt 3, zwana dalej „opłatą elektroniczną”, jest pobierana za przejazd po drogach krajowych lub ich odcinkach, określonych w przepisach wydanych na podstawie ust. 6.
+
+2. Opłatę elektroniczną ustala się jako iloczyn liczby kilometrów przejazdu i stawki tej opłaty za kilometr dla danej kategorii pojazdu.
+
+3. Ustala się następujące kategorie pojazdów w celu określenia stawki opłaty elektronicznej:
 
 - **1)** kategoria 1 – pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
 - **2)** kategoria 2 – pojazdy samochodowe o dopuszczalnej masie całkowitej co najmniej 12 ton;
@@ -566,7 +555,11 @@ Art. 48–50. (pominięte)
 - **1)** zróżnicować stawki opłaty elektronicznej ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
 - **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników drogi krajowej w wysokości nie mniejszej niż 87 % stawki opłaty elektronicznej, z zachowaniem zasady przejrzystości i niedyskryminacji.
 
-8. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty elektronicznej obliczone zgodnie z ust. 4a i 4b, zaokrąglając je w górę do pełnych groszy. Art. 13haa. 1. Minister właściwy do spraw transportu realizuje politykę państwa w zakresie opłaty elektronicznej i opłaty za przejazd autostradą, o której mowa w art. 37a ust. 1a ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+8. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty elektronicznej obliczone zgodnie z ust. 4a i 4b, zaokrąglając je w górę do pełnych groszy.
+
+**Art. 13haa.**
+
+1. Minister właściwy do spraw transportu realizuje politykę państwa w zakresie opłaty elektronicznej i opłaty za przejazd autostradą, o której mowa w art. 37a ust. 1a ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
 
 2. W związku z wykonywaniem zadań, o których mowa w ust. 1, minister właściwy do spraw transportu:
 
@@ -581,7 +574,11 @@ Art. 48–50. (pominięte)
 - **6)** ma prawo wnioskować o uczestnictwo przedstawicieli podmiotu pobierającego opłaty elektroniczne w posiedzeniach komitetów, o których mowa w pkt 5, jeśli jest to uzasadnione przedmiotem posiedzenia;
 - **7)** przekazuje do Komisji Europejskiej informacje i dane dotyczące elektronicznego systemu poboru opłaty elektronicznej, zgodnie z art. 7h dyrektywy 1999/62/WE, oraz sprawozdania, o których mowa w art. 11 ust. 1 tej dyrektywy.
 
-3. Działania, o których mowa w ust. 2 pkt 4–6, są podejmowane w porozumieniu z ministrem właściwym do spraw finansów publicznych. Art. 13hb. 1. (uchylony) 1a. (uchylony) 1b. (uchylony) 1ba. Opłatę elektroniczną pobiera Szef Krajowej Administracji Skarbowej, zwany dalej „Szefem KAS”. 1bb. Opłata elektroniczna jest pobierana za pomocą systemu teleinformatycznego, zwanego dalej „Systemem Poboru Opłaty Elektronicznej KAS”. 1bc. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa KAS, o których mowa w ust. 1ba, określając szczegółowy zakres zadań, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.
+3. Działania, o których mowa w ust. 2 pkt 4–6, są podejmowane w porozumieniu z ministrem właściwym do spraw finansów publicznych.
+
+**Art. 13hb.**
+
+1. (uchylony) 1a. (uchylony) 1b. (uchylony) 1ba. Opłatę elektroniczną pobiera Szef Krajowej Administracji Skarbowej, zwany dalej „Szefem KAS”. 1bb. Opłata elektroniczna jest pobierana za pomocą systemu teleinformatycznego, zwanego dalej „Systemem Poboru Opłaty Elektronicznej KAS”. 1bc. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa KAS, o których mowa w ust. 1ba, określając szczegółowy zakres zadań, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.
 
 1c. (uchylony) 1d. (uchylony) 1e. (uchylony) 1f. (uchylony) 1g. (uchylony) 1h. (uchylony) 1i. (uchylony) 1j. (uchylony) 1ja. Zadania związane z projektowaniem, budową, rozwojem, wdrożeniem, utrzymaniem lub wsparciem urządzeń i elementów Systemu Poboru Opłaty Elektronicznej KAS mogą być wykonywane przez jednostkę podległą ministrowi właściwemu do spraw finansów publicznych lub przez niego nadzorowaną.
 
@@ -611,11 +608,27 @@ Art. 48–50. (pominięte)
 
 2. Opłata elektroniczna stanowi przychód Krajowego Funduszu Drogowego.
 
-3. (uchylony) Art. 13hba. 1. W związku z poborem opłaty elektronicznej podmiot pobierający tę opłatę wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłaty elektronicznej.
+3. (uchylony)
 
-2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłaty elektronicznej. Art. 13hc. 1. Uiszczenie opłaty elektronicznej następuje w systemie elektronicznego poboru opłat, zgodnie z art. 13i.
+**Art. 13hba.**
 
-2. Podmioty pobierające opłaty elektroniczne z wykorzystaniem systemów elektronicznego poboru opłat mogą umożliwić użytkownikom dróg krajowych uiszczanie tych opłat bez konieczności instalacji urządzenia, o którym mowa w art. 13i ust. 3. Art. 13hd. (uchylony) Art. 13he. Szef KAS może wykorzystywać System Poboru Opłaty Elektronicznej KAS w celu udostępniania danych osobowych w sposób określony w art. 51a ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej. Art. 13hf. 1. W związku z poborem opłaty elektronicznej Szef KAS gromadzi informacje i dane dotyczące elektronicznego systemu poboru opłaty elektronicznej w zakresie niezbędnym do wykonania przez ministra właściwego do spraw transportu obowiązku przekazania Komisji Europejskiej informacji i danych zgodnie z art. 7h dyrektywy 1999/62/WE.
+1. W związku z poborem opłaty elektronicznej podmiot pobierający tę opłatę wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłaty elektronicznej.
+
+2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłaty elektronicznej.
+
+**Art. 13hc.**
+
+1. Uiszczenie opłaty elektronicznej następuje w systemie elektronicznego poboru opłat, zgodnie z art. 13i.
+
+2. Podmioty pobierające opłaty elektroniczne z wykorzystaniem systemów elektronicznego poboru opłat mogą umożliwić użytkownikom dróg krajowych uiszczanie tych opłat bez konieczności instalacji urządzenia, o którym mowa w art. 13i ust. 3.
+
+**Art. 13hd.** (uchylony)
+
+**Art. 13he.** Szef KAS może wykorzystywać System Poboru Opłaty Elektronicznej KAS w celu udostępniania danych osobowych w sposób określony w art. 51a ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+**Art. 13hf.**
+
+1. W związku z poborem opłaty elektronicznej Szef KAS gromadzi informacje i dane dotyczące elektronicznego systemu poboru opłaty elektronicznej w zakresie niezbędnym do wykonania przez ministra właściwego do spraw transportu obowiązku przekazania Komisji Europejskiej informacji i danych zgodnie z art. 7h dyrektywy 1999/62/WE.
 
 2. Informacje i dane gromadzone przez Szefa KAS obejmują w szczególności liczbę kilometrów przejechanych przez pojazdy, o których mowa w art. 13 ust. 1 pkt 3, po drogach krajowych, określonych w przepisach wydanych na podstawie art. 13ha ust. 6, w podziale na poszczególne kategorie, o których mowa w art. 13ha ust. 3, i z uwzględnieniem różnicowania stawek opłaty elektronicznej ze względu na liczbę osi lub emisję spalin pojazdu samochodowego, w przypadku wprowadzenia takiego różnicowania zgodnie z art. 13ha ust. 7 pkt 1.
 
@@ -674,7 +687,11 @@ Art. 48–50. (pominięte)
 
 5. Urządzenia, o których mowa w ust. 3, mogą być również wykorzystywane do innych celów w transporcie drogowym, pod warunkiem że nie prowadzi to do dodatkowych obciążeń użytkowników lub stworzenia dyskryminacji między nimi. Urządzenia mogą być połączone z zainstalowanym w pojeździe samochodowym tachografem.
 
-6. (uchylony) Art. 13ia. 1. W celu uiszczania opłaty elektronicznej z wykorzystaniem Systemu Poboru Opłaty Elektronicznej KAS właściciel, posiadacz albo użytkownik pojazdu jest obowiązany dokonać rejestracji w rejestrze uiszczających opłatę elektroniczną. Rejestracji nie dokonuje się w przypadku uiszczania opłaty elektronicznej z wykorzystaniem usługi EETS.
+6. (uchylony)
+
+**Art. 13ia.**
+
+1. W celu uiszczania opłaty elektronicznej z wykorzystaniem Systemu Poboru Opłaty Elektronicznej KAS właściciel, posiadacz albo użytkownik pojazdu jest obowiązany dokonać rejestracji w rejestrze uiszczających opłatę elektroniczną. Rejestracji nie dokonuje się w przypadku uiszczania opłaty elektronicznej z wykorzystaniem usługi EETS.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera dane:
 
@@ -742,7 +759,11 @@ Art. 48–50. (pominięte)
 - **1)** ust. 1–18 stosuje się;
 - **2)** art. 13i stosuje się odpowiednio.
 
-20. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania korzystającego z dróg publicznych, uwzględniając potrzebę zapewnienia przekazywania prawidłowych danych do rejestru, o którym mowa w ust. 1. Art. 13ib. 1. Korzystający z dróg publicznych jest obowiązany przed rozpoczęciem przejazdu po drogach, o których mowa w art. 13ha ust. 1, uzupełnić rejestr, o którym mowa w art. 13ia ust. 1, o:
+20. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania korzystającego z dróg publicznych, uwzględniając potrzebę zapewnienia przekazywania prawidłowych danych do rejestru, o którym mowa w ust. 1.
+
+**Art. 13ib.**
+
+1. Korzystający z dróg publicznych jest obowiązany przed rozpoczęciem przejazdu po drogach, o których mowa w art. 13ha ust. 1, uzupełnić rejestr, o którym mowa w art. 13ia ust. 1, o:
 
 - **1)** kategorię pojazdu, o której mowa w art. 13ha ust. 3 lub liczbę osi pojazdu – w przypadku różnicowania, o którym mowa w art. 13ha ust. 7 pkt 1;
 - **2)** (uchylony)
@@ -752,7 +773,11 @@ Art. 48–50. (pominięte)
 
 3. Korzystający z dróg publicznych jest obowiązany, po uzupełnieniu rejestru, o którym mowa w art. 13ia ust. 1, przekazać numer referencyjny, o którym mowa w art. 13ia ust. 8, kierującemu pojazdem samochodowym.
 
-4. W przypadku nieotrzymania numeru referencyjnego, o którym mowa w art. 13ia ust. 8, kierujący pojazdem samochodowym odmawia przejazdu. Art. 13iba. 1. Przedsiębiorca, zwany dalej „dostawcą kart flotowych”, w imieniu właściciela, posiadacza albo użytkownika pojazdu, może:
+4. W przypadku nieotrzymania numeru referencyjnego, o którym mowa w art. 13ia ust. 8, kierujący pojazdem samochodowym odmawia przejazdu.
+
+**Art. 13iba.**
+
+1. Przedsiębiorca, zwany dalej „dostawcą kart flotowych”, w imieniu właściciela, posiadacza albo użytkownika pojazdu, może:
 
 - **1)** uiścić opłatę elektroniczną;
 - **2)** dokonać rejestracji lub aktualizacji danych zawartych w rejestrze, o którym mowa w art. 13ia ust. 1;
@@ -787,7 +812,11 @@ Art. 48–50. (pominięte)
 
 10. W przypadku, o którym mowa w ust. 9, przed rozpoczęciem przejazdu właściciel, posiadacz albo użytkownik pojazdu uzupełnia w rejestrze, o którym mowa w art. 13ia ust. 1, dane wskazane w art. 13ia ust. 5 pkt 4.
 
-11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość prowizji, o której mowa w ust. 8, mając na względzie przewidywane koszty ponoszone przez dostawców kart flotowych. Art. 13ibb. 1. Dostawca kart flotowych jest obowiązany ustanowić zabezpieczenie należności z tytułu opłaty elektronicznej.
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość prowizji, o której mowa w ust. 8, mając na względzie przewidywane koszty ponoszone przez dostawców kart flotowych.
+
+**Art. 13ibb.**
+
+1. Dostawca kart flotowych jest obowiązany ustanowić zabezpieczenie należności z tytułu opłaty elektronicznej.
 
 2. Zabezpieczenie ustanawia się tak, aby umożliwiało Szefowi KAS bezwarunkowe, natychmiastowe, pełne i nieodwołalne ściągnięcie należnej opłaty wraz z odsetkami.
 
@@ -800,7 +829,13 @@ Art. 48–50. (pominięte)
     - **a)** co najmniej BBB + albo Baa 1 przyznawanym przez agencje ratingowe określone w przepisach wydanych na podstawie art. 2c ust. 3 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291) albo
     - **b)** odpowiadającym co najmniej poziomowi BBB + albo Baa 1 przyznawanym przez agencje ratingowe o międzynarodowej renomie.
 
-4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, w wysokości określonej w umowie, o której mowa w art. 13iba ust. 5. Art. 13ibc. Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622 i 769) stosuje się odpowiednio. Art. 13ic. 1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa w art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
+4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, w wysokości określonej w umowie, o której mowa w art. 13iba ust. 5.
+
+**Art. 13ibc.** Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622 i 769) stosuje się odpowiednio.
+
+**Art. 13ic.**
+
+1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa w art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
 
 1a. Przepisu ust. 1 nie stosuje się w przypadku:
 
@@ -815,13 +850,21 @@ Art. 48–50. (pominięte)
 
 1c. W przypadku, o którym mowa w ust. 1a pkt 2 i 3, informacja o trasie przejazdu wraz z numerem rejestracyjnym pojazdu są przekazywane nie później niż w terminie 3 dni od dnia zakończenia przejazdu. W tym terminie jest uiszczana również opłata elektroniczna wnoszona w trybie przedpłaty.
 
-2. W przypadku niedostępności Systemu Poboru Opłaty Elektronicznej KAS przepisu ust. 1 nie stosuje się. Art. 13id. 1. Analizę danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS może prowadzić wyznaczona jednostka sektora finansów publicznych lub instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
+2. W przypadku niedostępności Systemu Poboru Opłaty Elektronicznej KAS przepisu ust. 1 nie stosuje się.
+
+**Art. 13id.**
+
+1. Analizę danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS może prowadzić wyznaczona jednostka sektora finansów publicznych lub instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534).
 
 2. Podmiot, o którym mowa w ust. 1, przekazuje Szefowi KAS na bieżąco wyniki analizy danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS.
 
 3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyznaczyć jednostkę sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych, do dokonywania analizy danych z Systemu Poboru Opłaty Elektronicznej KAS oraz wskazać zakres danych podlegających tej analizie, uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych.
 
-4. W przypadku gdy podmiot, o którym mowa w ust. 3, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 3, wydaje się w porozumieniu z właściwym ministrem. Art. 13ie. 1. Szef KAS udostępnia ministrowi właściwemu do spraw transportu w celu realizacji jego ustawowych zadań, w tym kształtowania polityki transportowej, sieci dróg płatnych oraz stawek opłaty elektronicznej dane zgromadzone w Systemie Poboru Opłaty Elektronicznej KAS.
+4. W przypadku gdy podmiot, o którym mowa w ust. 3, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 3, wydaje się w porozumieniu z właściwym ministrem.
+
+**Art. 13ie.**
+
+1. Szef KAS udostępnia ministrowi właściwemu do spraw transportu w celu realizacji jego ustawowych zadań, w tym kształtowania polityki transportowej, sieci dróg płatnych oraz stawek opłaty elektronicznej dane zgromadzone w Systemie Poboru Opłaty Elektronicznej KAS.
 
 2. Sposób udostępniania danych, o którym mowa w ust. 1, określa porozumienie zawarte pomiędzy ministrem właściwym do spraw transportu a Szefem KAS.
 
@@ -844,7 +887,11 @@ Art. 48–50. (pominięte)
 
 3. (uchylony)
 
-4. W celu zapewnienia komunikacji urządzeń, o których mowa w art. 13i ust. 3 i 3a oraz w art. 16l ust. 1, z podzespołami sprzętowymi i oprogramowaniem znajdującymi się w pojeździe jest dopuszczalne wykorzystywanie technologii innych niż wymienione w art. 13i ust. 1, pod warunkiem zapewnienia bezpieczeństwa użytkowania pojazdu i przetwarzania danych oraz odpowiedniej jakości usług świadczonych za pomocą tego urządzenia. Art. 13ja. 1. Podmiot świadczący usługę poboru opłat, w tym również podmiot pobierający opłaty, który świadczy usługę poboru opłat bezpośrednio, oraz główny dostawca:
+4. W celu zapewnienia komunikacji urządzeń, o których mowa w art. 13i ust. 3 i 3a oraz w art. 16l ust. 1, z podzespołami sprzętowymi i oprogramowaniem znajdującymi się w pojeździe jest dopuszczalne wykorzystywanie technologii innych niż wymienione w art. 13i ust. 1, pod warunkiem zapewnienia bezpieczeństwa użytkowania pojazdu i przetwarzania danych oraz odpowiedniej jakości usług świadczonych za pomocą tego urządzenia.
+
+**Art. 13ja.**
+
+1. Podmiot świadczący usługę poboru opłat, w tym również podmiot pobierający opłaty, który świadczy usługę poboru opłat bezpośrednio, oraz główny dostawca:
 
 - **1)** nie mogą pokrywać kosztów świadczenia usługi poboru opłat przychodami pochodzącymi z innego rodzaju prowadzonej działalności (subsydiowanie skrośne);
 - **2)** są obowiązani:
@@ -966,7 +1013,11 @@ Art. 48–50. (pominięte)
 
 9. Zwrot pojazdu z parkingu następuje po przekazaniu kaucji przez podmiot, o którym mowa w ust. 2, na zasadach określonych w ust. 3.
 
-10. Jeżeli kara pieniężna, o której mowa w art. 13k ust. 1–2f, nie zostanie uiszczona lub pojazd nie zostanie odebrany z parkingu w ciągu 30 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620) dotyczące egzekucji należności pieniężnych z ruchomości. Art. 13ma. 1. Krajowy Punkt Kontaktowy umożliwia wymianę informacji z właściwymi krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej oraz z krajowymi podmiotami uprawnionymi – w zakresie danych dotyczących:
+10. Jeżeli kara pieniężna, o której mowa w art. 13k ust. 1–2f, nie zostanie uiszczona lub pojazd nie zostanie odebrany z parkingu w ciągu 30 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620) dotyczące egzekucji należności pieniężnych z ruchomości.
+
+**Art. 13ma.**
+
+1. Krajowy Punkt Kontaktowy umożliwia wymianę informacji z właściwymi krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej oraz z krajowymi podmiotami uprawnionymi – w zakresie danych dotyczących:
 
 - **1)** właścicieli, posiadaczy albo użytkowników pojazdów, popełniających:
     - **a)** naruszenia obowiązków związanych z poborem opłaty elektronicznej, za które ustawa przewiduje kary pieniężne wymienione w art. 13k ust. 1, ust. 2 pkt 2 i ust. 2a–2f, zwane dalej „naruszeniami obowiązku uiszczenia opłaty elektronicznej”,
@@ -981,7 +1032,11 @@ Art. 48–50. (pominięte)
 
 4. Krajowy Punkt Kontaktowy realizuje transgraniczną wymianę informacji przez realizację zadań określonych w art. 80l ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz przy zastosowaniu urządzeń, oprogramowania i procedur określonych w tym przepisie.
 
-5. Budowa, wdrażanie i utrzymanie rozwiązań umożliwiających transgraniczną wymianę informacji za pośrednictwem Krajowego Punktu Kontaktowego są finansowane z Funduszu – Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Art. 13mb. 1. Krajowymi podmiotami uprawnionymi w zakresie transgranicznej wymiany informacji, zwanymi dalej „krajowymi podmiotami uprawnionymi”, są:
+5. Budowa, wdrażanie i utrzymanie rozwiązań umożliwiających transgraniczną wymianę informacji za pośrednictwem Krajowego Punktu Kontaktowego są finansowane z Funduszu – Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+
+**Art. 13mb.**
+
+1. Krajowymi podmiotami uprawnionymi w zakresie transgranicznej wymiany informacji, zwanymi dalej „krajowymi podmiotami uprawnionymi”, są:
 
 - **1)** Główny Inspektor Transportu Drogowego – w związku z popełnieniem naruszeń obowiązku uiszczenia opłaty elektronicznej.
 - **2)** (uchylony)
@@ -995,7 +1050,11 @@ Art. 48–50. (pominięte)
 
 - **3)** wykorzystują rozwiązania teleinformatyczne przystosowane do współpracy z Krajowym Punktem Kontaktowym.
 
-3. Krajowe podmioty uprawnione mogą upoważnić do składania zapytań krajowych osoby wymienione w ust. 2 pkt 2. Art. 13mc. 1. Krajowy Punkt Kontaktowy, na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej w celu transgranicznej wymiany informacji, udostępnia tym punktom informacje, o których mowa w art. 13ma ust. 1 pkt 1 lit. c i pkt 2, dotyczące:
+3. Krajowe podmioty uprawnione mogą upoważnić do składania zapytań krajowych osoby wymienione w ust. 2 pkt 2.
+
+**Art. 13mc.**
+
+1. Krajowy Punkt Kontaktowy, na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej w celu transgranicznej wymiany informacji, udostępnia tym punktom informacje, o których mowa w art. 13ma ust. 1 pkt 1 lit. c i pkt 2, dotyczące:
 
 - **1)** pojazdu:
     - **a)** numer rejestracyjny,
@@ -1018,7 +1077,12 @@ Art. 48–50. (pominięte)
 
 - **1)** państwo, na terytorium którego zostało popełnione naruszenie,
 - **2)** datę i godzinę popełnienia naruszenia,
-- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia – obowiązku uiszczenia opłaty elektronicznej. Art. 13md. 1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
+- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia – obowiązku uiszczenia opłaty elektronicznej.
+
+**Art. 13md.**
+
+1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
+
 - **1)** liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a oraz pkt 2,
 - **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego był uprawniony do wysłania tego zawiadomienia, z uwzględnieniem art. 13mf ust. 2 – zwane dalej „sprawozdaniem KPK”.
 
@@ -1029,7 +1093,11 @@ Art. 48–50. (pominięte)
 - **1)** w zakresie, o którym mowa w ust. 1 pkt 1 – w oparciu o informacje uzyskane z Krajowego Punktu Kontaktowego;
 - **2)** w zakresie, o którym mowa w ust. 1 pkt 2 – w oparciu o informacje uzyskane od krajowych podmiotów uprawnionych.
 
-4. Minister właściwy do spraw informatyzacji oraz krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw transportu informacje, o których mowa w ust. 1, co 3 lata, w terminie do dnia 19 marca danego roku, za okres 3 poprzednich lat. Art. 13me. 1. W ramach transgranicznej wymiany informacji oraz w celu:
+4. Minister właściwy do spraw informatyzacji oraz krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw transportu informacje, o których mowa w ust. 1, co 3 lata, w terminie do dnia 19 marca danego roku, za okres 3 poprzednich lat.
+
+**Art. 13me.**
+
+1. W ramach transgranicznej wymiany informacji oraz w celu:
 
 - **1)** sporządzenia i doręczenia zawiadomienia o wszczęciu postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej, zwanego dalej „zawiadomieniem KPK”, albo
 - **2)** (uchylony) – krajowe podmioty uprawnione nie przetwarzają danych osobowych innych niż wymienione w art. 13mc.
@@ -1054,7 +1122,11 @@ Art. 48–50. (pominięte)
 - **1)** Głównego Inspektora Transportu Drogowego do sporządzenia i doręczenia zawiadomienia KPK.
 - **2)** (uchylony)
 
-6. Do przetwarzania danych osobowych w ramach transgranicznej wymiany informacji stosuje się przepisy rozporządzenia 2016/679, odpowiednio przepisy art. 402–405 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637) oraz w zakresie ochrony danych osobowych przetwarzanych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, a także wykonywania kar – odpowiednio przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206). Art. 13mf. 1. W przypadku gdy Główny Inspektor Transportu Drogowego ustalił dane właściciela lub posiadacza pojazdu naruszającego obowiązek uiszczenia opłaty elektronicznej w wyniku transgranicznej wymiany informacji, karę pieniężną za to naruszenie nakłada się na:
+6. Do przetwarzania danych osobowych w ramach transgranicznej wymiany informacji stosuje się przepisy rozporządzenia 2016/679, odpowiednio przepisy art. 402–405 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637) oraz w zakresie ochrony danych osobowych przetwarzanych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, a także wykonywania kar – odpowiednio przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
+
+**Art. 13mf.**
+
+1. W przypadku gdy Główny Inspektor Transportu Drogowego ustalił dane właściciela lub posiadacza pojazdu naruszającego obowiązek uiszczenia opłaty elektronicznej w wyniku transgranicznej wymiany informacji, karę pieniężną za to naruszenie nakłada się na:
 
 - **1)** posiadacza pojazdu niebędącego jednocześnie właścicielem pojazdu – jeśli pojazd jest zarejestrowany na tego posiadacza, albo
 - **2)** właściciela pojazdu – w pozostałych przypadkach.
@@ -1082,7 +1154,11 @@ Art. 48–50. (pominięte)
 
 9. W zakresie nieuregulowanym w ust. 3–8 do postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-10. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór zawiadomienia KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy 2019/520. Art. 13mg. 1. Główny Inspektor Transportu Drogowego jest uprawniony do zatrzymania pojazdu, o którym mowa w art. 13ma ust. 1 pkt 2, jeśli skierował do jego właściciela albo posiadacza zawiadomienie KPK albo nałożył na ten podmiot karę pieniężną za naruszenie obowiązku uiszczenia opłaty elektronicznej, w celu pobrania:
+10. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór zawiadomienia KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy 2019/520.
+
+**Art. 13mg.**
+
+1. Główny Inspektor Transportu Drogowego jest uprawniony do zatrzymania pojazdu, o którym mowa w art. 13ma ust. 1 pkt 2, jeśli skierował do jego właściciela albo posiadacza zawiadomienie KPK albo nałożył na ten podmiot karę pieniężną za naruszenie obowiązku uiszczenia opłaty elektronicznej, w celu pobrania:
 
 - **1)** kaucji w wysokości odpowiadającej przewidywanej karze pieniężnej – w przypadku gdy decyzja w sprawie nałożenia kary:
     - **a)** nie została jeszcze wydana albo
@@ -1125,11 +1201,19 @@ Art. 48–50. (pominięte)
 
 1. Nie wszczyna się postępowania w sprawie nałożenia kar pieniężnych, o których mowa w art. 13k ust. 1–2f, jeżeli od dnia popełnienia naruszenia upłynęło 9 miesięcy.
 
-2. Wszczęcie postępowania w sprawie nałożenia kar pieniężnych, o których mowa w art. 13k ust. 1–2f, w okresie określonym w ust. 1, wstrzymuje bieg przedawnienia naruszenia, w sprawie którego wszczęto postępowanie. Art. 13na. 1. W przypadku stwierdzenia w trakcie kontroli niedopełnienia obowiązku, o którym mowa w art. 13i ust. 4aa, 4ab, art. 13ib ust. 4 albo w art. 13ic ust. 1 – kierujący pojazdem samochodowym podlega karze grzywny w wysokości 1500 zł.
+2. Wszczęcie postępowania w sprawie nałożenia kar pieniężnych, o których mowa w art. 13k ust. 1–2f, w okresie określonym w ust. 1, wstrzymuje bieg przedawnienia naruszenia, w sprawie którego wszczęto postępowanie.
+
+**Art. 13na.**
+
+1. W przypadku stwierdzenia w trakcie kontroli niedopełnienia obowiązku, o którym mowa w art. 13i ust. 4aa, 4ab, art. 13ib ust. 4 albo w art. 13ic ust. 1 – kierujący pojazdem samochodowym podlega karze grzywny w wysokości 1500 zł.
 
 2. Prawo do nakładania i pobierania kary grzywny w drodze mandatu karnego za czyn, o którym mowa w ust. 1, przysługuje inspektorom Inspekcji Transportu Drogowego i funkcjonariuszom Służby Celno-Skarbowej.
 
-3. Orzekanie w sprawie nałożenia kary grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621). Art. 13naa. 1. W przypadku stwierdzenia, w trakcie kontroli na drodze, za przejazd którą uiszcza się opłatę elektroniczną, że pojazd podlegający opłacie elektronicznej ma:
+3. Orzekanie w sprawie nałożenia kary grzywny, o której mowa w ust. 1, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621).
+
+**Art. 13naa.**
+
+1. W przypadku stwierdzenia, w trakcie kontroli na drodze, za przejazd którą uiszcza się opłatę elektroniczną, że pojazd podlegający opłacie elektronicznej ma:
 
 - **1)** tablice rejestracyjne zakryte lub ozdobione lub
 - **2)** z przodu lub z tyłu pojazdu znaki, napisy lub przedmioty, które ograniczają czytelność tych tablic, lub
@@ -1414,7 +1498,11 @@ Art. 48–50. (pominięte)
 
 9. Do przetwarzania danych osobowych w związku z prowadzeniem i przekazywaniem podmiotowi pobierającemu opłaty na obszarze EETS wykazu, o którym mowa w ust. 4, stosuje się przepisy rozporządzenia 2016/679, odpowiednio przepisy art. 401–405 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej oraz w zakresie ochrony danych osobowych przetwarzanych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, a także wykonywania kar – odpowiednio przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości.
 
-10. Urządzenie, o którym mowa w ust. 1, może być wykorzystywane przez dostawcę EETS do świadczenia innych usług niż usługa EETS, pod warunkiem że nie wpływa to na prawidłowość poboru opłat na obszarze EETS. W tym celu w urządzeniu mogą być wykorzystywane technologie inne niż wymienione w art. 13i ust. 1. Art. 16la. 1. Umowę dotyczącą świadczenia usługi EETS zawiera się na podstawie warunków określonych w informacji, o której mowa w art. 16i ust. 1 pkt 5 lit. c.
+10. Urządzenie, o którym mowa w ust. 1, może być wykorzystywane przez dostawcę EETS do świadczenia innych usług niż usługa EETS, pod warunkiem że nie wpływa to na prawidłowość poboru opłat na obszarze EETS. W tym celu w urządzeniu mogą być wykorzystywane technologie inne niż wymienione w art. 13i ust. 1.
+
+**Art. 16la.**
+
+1. Umowę dotyczącą świadczenia usługi EETS zawiera się na podstawie warunków określonych w informacji, o której mowa w art. 16i ust. 1 pkt 5 lit. c.
 
 2. Umowa dotycząca świadczenia usługi EETS określa w szczególności:
 
@@ -1431,7 +1519,11 @@ Art. 48–50. (pominięte)
 
 5. Określenie trybu wystawiania dokumentów księgowych EETS następuje z uwzględnieniem przepisów art. 16s ust. 4 i 5 oraz wymagań określonych w akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 5 ust. 11 dyrektywy 2019/520.
 
-6. W zakresie nieuregulowanym w ust. 1–5 do umów dotyczących świadczenia usługi EETS stosuje się przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796). Art. 16lb. 1. Użytkownik EETS jest obowiązany przekazać dostawcy EETS zgodne ze stanem faktycznym dane, w tym dane osobowe, niezbędne do prawidłowego zawarcia i realizacji umowy dotyczącej świadczenia usługi EETS.
+6. W zakresie nieuregulowanym w ust. 1–5 do umów dotyczących świadczenia usługi EETS stosuje się przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796).
+
+**Art. 16lb.**
+
+1. Użytkownik EETS jest obowiązany przekazać dostawcy EETS zgodne ze stanem faktycznym dane, w tym dane osobowe, niezbędne do prawidłowego zawarcia i realizacji umowy dotyczącej świadczenia usługi EETS.
 
 2. Dane przekazywane dostawcy EETS obejmują w szczególności dane pojazdu niezbędne dla ustalenia wysokości stawek opłaty należnej za przejazd tego pojazdu po obszarze EETS.
 
@@ -1591,7 +1683,11 @@ Art. 48–50. (pominięte)
 
 2. Rejestr, o którym mowa w ust. 1, jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu.
 
-3. Minister właściwy do spraw transportu do dnia 31 grudnia każdego roku drogą elektroniczną przekazuje Komisji Europejskiej oraz podmiotom prowadzącym odpowiednie rejestry w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej informacje zawarte w rejestrze, o którym mowa w ust. 1, oraz w rejestrze EETS. Art. 16va. 1. W przypadku gdy na terytorium Rzeczypospolitej Polskiej znajduje się więcej niż jeden obszar EETS, minister właściwy do spraw transportu pełni funkcję punktu kontaktowego dla dostawców EETS w odniesieniu do wszystkich obszarów EETS znajdujących się na terytorium Rzeczypospolitej Polskiej.
+3. Minister właściwy do spraw transportu do dnia 31 grudnia każdego roku drogą elektroniczną przekazuje Komisji Europejskiej oraz podmiotom prowadzącym odpowiednie rejestry w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej informacje zawarte w rejestrze, o którym mowa w ust. 1, oraz w rejestrze EETS.
+
+**Art. 16va.**
+
+1. W przypadku gdy na terytorium Rzeczypospolitej Polskiej znajduje się więcej niż jeden obszar EETS, minister właściwy do spraw transportu pełni funkcję punktu kontaktowego dla dostawców EETS w odniesieniu do wszystkich obszarów EETS znajdujących się na terytorium Rzeczypospolitej Polskiej.
 
 2. Zadaniem punktu kontaktowego jest koordynowanie, na wniosek dostawcy EETS, wstępnych kontaktów pomiędzy tym dostawcą EETS a podmiotami pobierającymi opłaty na obszarach EETS.
 
@@ -1642,7 +1738,11 @@ Art. 48–50. (pominięte)
 
 7. Domniemywa się, że składniki interoperacyjności EETS, na których umieszczono oznakowanie CE albo deklarację zgodności ze specyfikacjami lub deklarację przydatności do stosowania w EETS, są zgodne z wymaganiami określonymi w ust. 1 i 1a.
 
-8. Podmioty pobierające opłaty na obszarach EETS oraz organy nadzoru rynku, o których mowa w art. 58 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, nie zabraniają, nie ograniczają ani nie utrudniają wprowadzania do obrotu składników interoperacyjności EETS, na których umieszczono oznakowanie CE albo deklarację zgodności ze specyfikacjami lub deklarację przydatności do stosowania w EETS. Art. 16xa. 1. Procedura akredytacyjna jest przeprowadzana:
+8. Podmioty pobierające opłaty na obszarach EETS oraz organy nadzoru rynku, o których mowa w art. 58 ust. 1 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, nie zabraniają, nie ograniczają ani nie utrudniają wprowadzania do obrotu składników interoperacyjności EETS, na których umieszczono oznakowanie CE albo deklarację zgodności ze specyfikacjami lub deklarację przydatności do stosowania w EETS.
+
+**Art. 16xa.**
+
+1. Procedura akredytacyjna jest przeprowadzana:
 
 - **1)** przed zawarciem umowy dotyczącej obszaru EETS na warunkach określonych w odrębnej umowie zawieranej przez dostawcę EETS z podmiotem pobierającym opłaty na obszarze EETS albo
 - **2)** po zawarciu umowy dotyczącej obszaru EETS na warunkach określonych w tej umowie.
@@ -1672,7 +1772,11 @@ Art. 48–50. (pominięte)
 - **1)** informacji o planowanym terminie wdrożenia istotnej zmiany elektronicznego systemu poboru opłat;
 - **2)** szczegółowego harmonogramu przeprowadzenia procedury akredytacyjnej.
 
-10. W przypadku, o którym mowa w ust. 9, przepisy ust. 6–8 stosuje się odpowiednio. Art. 16xb. 1. Podmioty pobierające opłaty na obszarach EETS stosujące systemy elektronicznego poboru opłat, w których wykorzystuje się urządzenia na potrzeby poboru opłat w rozumieniu art. 13i ust. 3 , zapewniają, z zachowaniem zasady niedyskryminacji, środowisko testowe, w którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, w drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują w technologii stosowanej na obszarach EETS.
+10. W przypadku, o którym mowa w ust. 9, przepisy ust. 6–8 stosuje się odpowiednio.
+
+**Art. 16xb.**
+
+1. Podmioty pobierające opłaty na obszarach EETS stosujące systemy elektronicznego poboru opłat, w których wykorzystuje się urządzenia na potrzeby poboru opłat w rozumieniu art. 13i ust. 3 , zapewniają, z zachowaniem zasady niedyskryminacji, środowisko testowe, w którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, w drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują w technologii stosowanej na obszarach EETS.
 
 2. Podmiot pobierający opłaty na obszarze EETS udostępnia w informacji o obszarze EETS procedurę przeprowadzenia testów akceptacyjnych, w tym opis stosowanej metodyki i warunków przeprowadzania testów.
 
@@ -1745,7 +1849,11 @@ Art. 48–50. (pominięte)
 
 2. Komisja jest powoływana na wniosek, o którym mowa w ust. 1, oddzielnie do rozstrzygnięcia każdego sporu. Wniosek składa się do ministra właściwego do spraw transportu.
 
-3. We wniosku, o którym mowa w ust. 1, określa się zakres i istotę sporu. Do wniosku załącza się dokumenty dotyczące istoty sporu. Art. 16za. 1. Komisja składa się z trzech członków:
+3. We wniosku, o którym mowa w ust. 1, określa się zakres i istotę sporu. Do wniosku załącza się dokumenty dotyczące istoty sporu.
+
+**Art. 16za.**
+
+1. Komisja składa się z trzech członków:
 
 - **1)** osoby wskazanej przez dostawcę EETS;
 - **2)** osoby wskazanej przez podmiot pobierający opłaty na obszarze EETS;
@@ -1783,7 +1891,11 @@ Art. 48–50. (pominięte)
 
 10. W przypadku gdy przed wydaniem uchwały kończącej postępowanie ustało członkostwo w Komisji przewodniczącego Komisji, wyboru nowego przewodniczącego Komisji dokonuje się spośród pozostałych kandydatów na przewodniczącego Komisji, wskazanych zgodnie z ust. 4. Przepisy ust. 6 i 7 stosuje się odpowiednio.
 
-11. W przypadku ustania członkostwa w Komisji pozostałych członków Komisji, minister właściwy do spraw transportu niezwłocznie powołuje na członka Komisji zastępczego członka Komisji, wskazanego przez stronę zgodnie z ust. 4. Przepis ust. 7 stosuje się odpowiednio. Art. 16zb. 1. Przewodniczący Komisji kieruje pracą Komisji oraz czuwa nad sprawnym przebiegiem postępowania i w tym celu może wydawać zarządzenia. Przewodniczący Komisji reprezentuje Komisję na zewnątrz.
+11. W przypadku ustania członkostwa w Komisji pozostałych członków Komisji, minister właściwy do spraw transportu niezwłocznie powołuje na członka Komisji zastępczego członka Komisji, wskazanego przez stronę zgodnie z ust. 4. Przepis ust. 7 stosuje się odpowiednio.
+
+**Art. 16zb.**
+
+1. Przewodniczący Komisji kieruje pracą Komisji oraz czuwa nad sprawnym przebiegiem postępowania i w tym celu może wydawać zarządzenia. Przewodniczący Komisji reprezentuje Komisję na zewnątrz.
 
 2. Tryb pracy Komisji określa regulamin ustalany przez Komisję.
 
@@ -1795,7 +1907,11 @@ Art. 48–50. (pominięte)
 
 5. Informacje udzielone zgodnie z ust. 4, mogą być wykorzystane wyłącznie w celu rozstrzygnięcia sporu, o którym mowa w art. 16z ust. 1, przez Komisję.
 
-6. Podmiot pobierający opłaty na obszarze EETS oraz dostawca EETS udzielają, na żądanie Komisji, informacji o przychodach i kosztach związanych ze świadczeniem usługi poboru opłat, która spełnia warunki określone w art. 16t ust. 4. Art. 16zc. 1. Komisja kończy postępowanie, wydając opinię w formie uchwały, odnoszącą się do zakresu i istoty sporu, wskazanych we wniosku, o którym mowa w art. 16z ust. 1, najpóźniej w terminie 6 miesięcy od dnia powołania Komisji.
+6. Podmiot pobierający opłaty na obszarze EETS oraz dostawca EETS udzielają, na żądanie Komisji, informacji o przychodach i kosztach związanych ze świadczeniem usługi poboru opłat, która spełnia warunki określone w art. 16t ust. 4.
+
+**Art. 16zc.**
+
+1. Komisja kończy postępowanie, wydając opinię w formie uchwały, odnoszącą się do zakresu i istoty sporu, wskazanych we wniosku, o którym mowa w art. 16z ust. 1, najpóźniej w terminie 6 miesięcy od dnia powołania Komisji.
 
 2. Do terminu określonego w ust. 1 nie wlicza się okresu, w którym Komisja nie mogła prowadzić postępowania z powodu dokonania zmian w składzie Komisji na podstawie art. 16za ust. 10 i 11.
 
@@ -1807,7 +1923,11 @@ Art. 48–50. (pominięte)
 
 6. Na zgodny wniosek stron o zakończenie postępowania, złożony przed wydaniem opinii, o której mowa w ust. 1, Komisja niezwłocznie wydaje uchwałę kończącą postępowanie, nie rozstrzygając istoty sporu. Przepis ust. 5 stosuje się odpowiednio.
 
-7. Do postępowania przed Komisją stosuje się przepisy art. 183 i art. 183 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620). Art. 16zd. 1. Postępowanie przed Komisją jest prowadzone na koszt stron postępowania.
+7. Do postępowania przed Komisją stosuje się przepisy art. 183 i art. 183 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620).
+
+**Art. 16zd.**
+
+1. Postępowanie przed Komisją jest prowadzone na koszt stron postępowania.
 
 2. Koszty postępowania, o których mowa w ust. 1, obejmują w szczególności:
 
@@ -1831,16 +1951,32 @@ Art. 48–50. (pominięte)
 
 9. W przypadku częściowego uznania przez Komisję stanowiska strony co do istoty sporu Komisja może stosunkowo rozdzielić koszty postępowania. Komisja może jednak nałożyć na jedną ze stron obowiązek poniesienia całości kosztów postępowania, jeżeli Komisja w znacznej części uznała za zasadne stanowisko drugiej strony.
 
-10. Niezależnie od wyniku sprawy Komisja może włożyć na stronę postępowania obowiązek zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem. Dotyczy to zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów. Art. 16ze. Uchwała Komisji, o której mowa w art. 16zc ust. 1, w przedmiocie kosztów postępowania, podlega wykonaniu w drodze egzekucji sądowej po nadaniu jej klauzuli wykonalności. Przepisy działu II tytułu I części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu o nadanie klauzuli wykonalności stosuje się odpowiednio. Art. 16zf. 1. Dokumentację pracy Komisji, w tym uchwały Komisji, przewodniczący Komisji przekazuje ministrowi właściwemu do spraw transportu niezwłocznie po zakończeniu postępowania.
+10. Niezależnie od wyniku sprawy Komisja może włożyć na stronę postępowania obowiązek zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem. Dotyczy to zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów.
 
-2. Uchwały Komisji, o których mowa w art. 16zc ust. 1 i 6, podlegają ogłoszeniu w formie komunikatu w dzienniku urzędowym ministra właściwego do spraw transportu, z wyjątkiem informacji objętych tajemnicą przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo, lub stanowiących inną tajemnicę prawnie chronioną. Art. 16zg. 1. Obsługę organizacyjno-biurową Komisji, w tym odpowiednie pomieszczenia i wyposażenie, zapewnia urząd obsługujący ministra właściwego do spraw transportu.
+**Art. 16ze.** Uchwała Komisji, o której mowa w art. 16zc ust. 1, w przedmiocie kosztów postępowania, podlega wykonaniu w drodze egzekucji sądowej po nadaniu jej klauzuli wykonalności. Przepisy działu II tytułu I części trzeciej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o postępowaniu o nadanie klauzuli wykonalności stosuje się odpowiednio.
 
-2. Urząd obsługujący ministra właściwego do spraw transportu wymienia informacje dotyczące pracy Komisji oraz stosowanych przez nią praktyk i zasad postępowania z odpowiednimi podmiotami powołanymi w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej. Przepisu nie stosuje się do informacji stanowiących tajemnicę przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo, lub inną tajemnicę prawnie chronioną. Art. 16zh. 1. Członkowie Komisji oraz osoby reprezentujące podmiot pobierający opłaty na obszarze EETS i dostawcę EETS występujących w sporze przed Komisją oraz inne osoby uczestniczące w postępowaniu przed Komisją, a także pracownicy urzędu obsługującego ministra właściwego do spraw transportu zapewniający obsługę organizacyjno-biurową Komisji – są obowiązani do nieujawniania uzyskanych w związku z prowadzonym postępowaniem przed Komisją informacji stanowiących tajemnicę przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo. Przepisu nie stosuje się do informacji powszechnie dostępnych.
+**Art. 16zf.**
+
+1. Dokumentację pracy Komisji, w tym uchwały Komisji, przewodniczący Komisji przekazuje ministrowi właściwemu do spraw transportu niezwłocznie po zakończeniu postępowania.
+
+2. Uchwały Komisji, o których mowa w art. 16zc ust. 1 i 6, podlegają ogłoszeniu w formie komunikatu w dzienniku urzędowym ministra właściwego do spraw transportu, z wyjątkiem informacji objętych tajemnicą przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo, lub stanowiących inną tajemnicę prawnie chronioną.
+
+**Art. 16zg.**
+
+1. Obsługę organizacyjno-biurową Komisji, w tym odpowiednie pomieszczenia i wyposażenie, zapewnia urząd obsługujący ministra właściwego do spraw transportu.
+
+2. Urząd obsługujący ministra właściwego do spraw transportu wymienia informacje dotyczące pracy Komisji oraz stosowanych przez nią praktyk i zasad postępowania z odpowiednimi podmiotami powołanymi w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej. Przepisu nie stosuje się do informacji stanowiących tajemnicę przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo, lub inną tajemnicę prawnie chronioną.
+
+**Art. 16zh.**
+
+1. Członkowie Komisji oraz osoby reprezentujące podmiot pobierający opłaty na obszarze EETS i dostawcę EETS występujących w sporze przed Komisją oraz inne osoby uczestniczące w postępowaniu przed Komisją, a także pracownicy urzędu obsługującego ministra właściwego do spraw transportu zapewniający obsługę organizacyjno-biurową Komisji – są obowiązani do nieujawniania uzyskanych w związku z prowadzonym postępowaniem przed Komisją informacji stanowiących tajemnicę przedsiębiorstwa, które zostały zastrzeżone przez to przedsiębiorstwo. Przepisu nie stosuje się do informacji powszechnie dostępnych.
 
 2. Obowiązek, o którym mowa w ust. 1, trwa również po:
 
 - **1)** zaprzestaniu pełnienia funkcji członka Komisji;
-- **2)** ustaniu stosunku pracy nawiązanego albo wygaśnięciu umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze zawartych z osobami zatrudnionymi odpowiednio u dostawcy EETS, w podmiocie pobierającym opłaty na obszarze EETS albo w urzędzie obsługującym ministra właściwego do spraw transportu. Art. 16zi. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520.
+- **2)** ustaniu stosunku pracy nawiązanego albo wygaśnięciu umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze zawartych z osobami zatrudnionymi odpowiednio u dostawcy EETS, w podmiocie pobierającym opłaty na obszarze EETS albo w urzędzie obsługującym ministra właściwego do spraw transportu.
+
+**Art. 16zi.** Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520.
 
 #### Rozdział 2 Administracja drogowa
 
@@ -2028,9 +2164,17 @@ Art. 48–50. (pominięte)
 **Art. 20a.** Do zarządcy drogi, o którym mowa w art. 19 ust. 2 pkt 1 i 2, należy ponadto budowa, przebudowa, remont i utrzymanie:
 
 - **1)** parkingów przeznaczonych dla postoju pojazdów wykonujących przewozy drogowe, wynikającego z konieczności przestrzegania przepisów o czasie prowadzenia pojazdów oraz przepisów o ograniczeniach i zakazach ruchu drogowego;
-- **2)** miejsc wykonywania kontroli ruchu i transportu drogowego, przeznaczonych w szczególności do ważenia pojazdów. Art. 20aa. 1. Zarządca drogi może ponadto planować i wykonywać oświetlenie przejść dla pieszych lub przejazdów dla rowerów na drogach publicznych na terenie zabudowy.
+- **2)** miejsc wykonywania kontroli ruchu i transportu drogowego, przeznaczonych w szczególności do ważenia pojazdów.
 
-2. Zarządca drogi finansuje prace, o których mowa w ust. 1. Art. 20ab. 1. W ramach budowy drogi krajowej Generalny Dyrektor Dróg Krajowych i Autostrad, na zasadach określonych w ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311), może, w porozumieniu z właściwym miejscowo wojewodą, budować drogę do obsługi drogowego przejścia granicznego.
+**Art. 20aa.**
+
+1. Zarządca drogi może ponadto planować i wykonywać oświetlenie przejść dla pieszych lub przejazdów dla rowerów na drogach publicznych na terenie zabudowy.
+
+2. Zarządca drogi finansuje prace, o których mowa w ust. 1.
+
+**Art. 20ab.**
+
+1. W ramach budowy drogi krajowej Generalny Dyrektor Dróg Krajowych i Autostrad, na zasadach określonych w ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311), może, w porozumieniu z właściwym miejscowo wojewodą, budować drogę do obsługi drogowego przejścia granicznego.
 
 2. Budowa drogi do obsługi drogowego przejścia granicznego, o której mowa w ust. 1, jest finansowana przez właściwego miejscowo wojewodę.
 
@@ -2223,7 +2367,9 @@ Art. 48–50. (pominięte)
 - **5)** wspólna ze służbami ratowniczymi i Policją ocena ćwiczeń, o których mowa w art. 24e ust. 1 i 2, sporządzanie sprawozdania zawierającego wnioski z przeprowadzonych ćwiczeń oraz wnioski dotyczące oceny stanu bezpieczeństwa tunelu;
 - **6)** wydawanie opinii w sprawach oddawania tunelu do użytkowania, polegające w szczególności na opiniowaniu dokumentacji bezpieczeństwa;
 - **7)** kontrola prawidłowości utrzymania tuneli;
-- **8)** współdziałanie z właściwymi służbami w ocenie każdego wypadku, w którym są ranni lub zabici albo naruszona została konstrukcja tunelu, lub też katastrofy budowlanej tunelu. Art. 24ca. Kontrole, o których mowa w art. 20 pkt 10, na odcinku drogi przed i za tunelem, o którym mowa w art. 24a ust. 1, o długości uwzględniającej faktyczne lub potencjalne oddziaływanie tego tunelu na warunki ruchu pojazdów, przeprowadzają wspólnie zarządca drogi i urzędnik zabezpieczenia, o którym mowa w art. 24c ust. 1, co najmniej raz na 6 lat.
+- **8)** współdziałanie z właściwymi służbami w ocenie każdego wypadku, w którym są ranni lub zabici albo naruszona została konstrukcja tunelu, lub też katastrofy budowlanej tunelu.
+
+**Art. 24ca.** Kontrole, o których mowa w art. 20 pkt 10, na odcinku drogi przed i za tunelem, o którym mowa w art. 24a ust. 1, o długości uwzględniającej faktyczne lub potencjalne oddziaływanie tego tunelu na warunki ruchu pojazdów, przeprowadzają wspólnie zarządca drogi i urzędnik zabezpieczenia, o którym mowa w art. 24c ust. 1, co najmniej raz na 6 lat.
 
 **Art. 24d.**
 
@@ -2260,6 +2406,39 @@ Art. 48–50. (pominięte)
 3. Zbiorcza informacja, o której mowa w ust. 2, zawiera ocenę pożarów i wypadków w tunelach i informacje na temat rzeczywistej roli i skuteczności urządzeń i środków bezpieczeństwa.
 
 #### Rozdział 2b Zarządzanie bezpieczeństwem dróg
+
+**Art. 24ga.**
+
+1. Przepisy niniejszego rozdziału stosuje się do:
+
+- **1)** dróg lub ich odcinków w transeuropejskiej sieci drogowej;
+- **2)** autostrad i dróg ekspresowych lub ich odcinków poza transeuropejską siecią drogową;
+- **3)** dróg krajowych lub ich odcinków, które łącznie spełniają następujące przesłanki:
+    - **a)** przebiegają poza granicami administracyjnymi miast oraz
+    - **b)** są budowane lub przebudowywane albo zostały wybudowane lub przebudowane, z udziałem środków pochodzących z budżetu Unii Europejskiej;
+
+- **4)** dróg wojewódzkich lub ich odcinków, które łącznie spełniają przesłanki, o których mowa w pkt 3, oraz nie zapewniają dostępu do nieruchomości przylegających do nich za pośrednictwem zjazdu.
+
+2. Przepisy art. 24ma–24mc stosuje się ponadto do dróg krajowych lub ich odcinków zarządzanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad, które:
+
+- **1)** przebiegają w granicach administracyjnych miast lub
+- **2)** zostały wybudowane lub przebudowane bez udziału środków pochodzących z budżetu Unii Europejskiej.
+
+3. Przepisy art. 24i, art. 24j oraz art. 24l Generalny Dyrektor Dróg Krajowych i Autostrad może także stosować do zarządzanych przez siebie dróg krajowych lub ich odcinków, które:
+
+- **1)** przebiegają w granicach administracyjnych miast lub
+- **2)** są budowane albo przebudowywane bez udziału środków pochodzących z budżetu Unii Europejskiej.
+
+4. W przypadku gdy dany odcinek drogi, o którym mowa w ust. 1 pkt 3 lub 4, przebiega w części w granicach administracyjnych miasta, przepisy niniejszego rozdziału stosuje się do całego odcinka budowanego lub przebudowywanego albo wybudowanego lub przebudowanego, z udziałem środków pochodzących z budżetu Unii Europejskiej.
+
+5. W przypadku dróg, o których mowa w ust. 3, Generalny Dyrektor Dróg Krajowych i Autostrad do:
+
+- **1)** zgłoszenia przebudowy drogi albo
+- **2)** wniosku o wydanie decyzji o pozwoleniu na budowę, albo
+- **3)** wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, albo
+- **4)** zawiadomienia o zakończeniu budowy albo wniosku o udzielenie pozwolenia na użytkowanie – nie dołącza wyników audytu bezpieczeństwa ruchu drogowego, o którym mowa w art. 24j ust. 1, i uzasadnienia, o którym mowa w art. 24l ust. 4.
+
+6. Przepisy niniejszego rozdziału stosuje się do przebudowy dróg obejmującej wykonywanie robót budowlanych, które bezpośrednio wpływają na natężenie ruchu drogowego, w szczególności przebudowę skrzyżowania lub wykonywanie robót budowlanych, w wyniku których powstają nowe części drogi przeznaczone do ruchu lub postoju pojazdów lub ruchu pieszych.
 
 **Art. 24h.** Zarządzanie bezpieczeństwem dróg, o których mowa w art. 24ga, polega na:
 
@@ -2370,7 +2549,31 @@ Art. 48–50. (pominięte)
 
 4. W przypadku, o którym mowa w ust. 3, zarządca drogi jest obowiązany do opracowania uzasadnienia stanowiącego załącznik do wyniku audytu bezpieczeństwa ruchu drogowego.
 
-**Art. 24m.** (uchylony) Art. 24ma. 1. Zarządca drogi na drogach lub ich odcinkach, o których mowa w art. 24ga ust. 1 i 2, będących w użytkowaniu od co najmniej 3 lat, przeprowadza ocenę ryzyka, w ramach której ocenia parametry użytkowe i techniczne oraz stan techniczny dróg lub ich odcinków, a także ich wpływ na bezpieczeństwo ruchu drogowego. 2. Ocenę ryzyka przeprowadza się co 5 lat na podstawie wizji lokalnej w terenie lub na podstawie nagrania wizualnego. 3. Z oceny ryzyka zarządca drogi sporządza sprawozdanie, na które składają się w szczególności wyniki oceny ryzyka oraz syntetyczny opis przyjętych założeń do dokonanej oceny ryzyka wraz z ich uzasadnieniem. 4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa w ust. 3, do ministra właściwego do spraw transportu co 5 lat, w terminie do dnia 31 lipca danego roku kalendarzowego. Art. 24mb. 1. Na podstawie sprawozdań z ocen ryzyka, o których mowa w art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa w art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego. 2. Na podstawie oceny bezpieczeństwa minister właściwy do spraw transportu dokonuje klasyfikacji sieci dróg, o których mowa w art. 24ma ust. 1, zgodnie z poziomem bezpieczeństwa ruchu drogowego na tych drogach, przypisując poszczególne drogi lub ich odcinki do jednej z co najmniej trzech kategorii bezpieczeństwa ruchu drogowego. 3. Ocenę bezpieczeństwa przeprowadza się co 5 lat do dnia 31 grudnia danego roku kalendarzowego. 4. Minister właściwy do spraw transportu publikuje wyniki klasyfikacji, o której mowa w ust. 2, na swojej stronie podmiotowej Biuletynu Informacji Publicznej. 5. Minister właściwy do spraw transportu sporządza sprawozdanie dotyczące klasyfikacji, o której mowa w ust. 2, oraz przekazuje je do Komisji Europejskiej co 5 lat, w terminie do dnia 31 października danego roku kalendarzowego. 6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+**Art. 24m.** (uchylony)
+
+**Art. 24ma.**
+
+1. Zarządca drogi na drogach lub ich odcinkach, o których mowa w art. 24ga ust. 1 i 2, będących w użytkowaniu od co najmniej 3 lat, przeprowadza ocenę ryzyka, w ramach której ocenia parametry użytkowe i techniczne oraz stan techniczny dróg lub ich odcinków, a także ich wpływ na bezpieczeństwo ruchu drogowego.
+
+2. Ocenę ryzyka przeprowadza się co 5 lat na podstawie wizji lokalnej w terenie lub na podstawie nagrania wizualnego.
+
+3. Z oceny ryzyka zarządca drogi sporządza sprawozdanie, na które składają się w szczególności wyniki oceny ryzyka oraz syntetyczny opis przyjętych założeń do dokonanej oceny ryzyka wraz z ich uzasadnieniem.
+
+4. Zarządca drogi przekazuje sprawozdanie z oceny ryzyka, o którym mowa w ust. 3, do ministra właściwego do spraw transportu co 5 lat, w terminie do dnia 31 lipca danego roku kalendarzowego.
+
+**Art. 24mb.**
+
+1. Na podstawie sprawozdań z ocen ryzyka, o których mowa w art. 24ma ust. 3, minister właściwy do spraw transportu sporządza ocenę bezpieczeństwa, stanowiącą ocenę dróg, o których mowa w art. 24ma ust. 1, pod względem poziomu bezpieczeństwa ruchu drogowego.
+
+2. Na podstawie oceny bezpieczeństwa minister właściwy do spraw transportu dokonuje klasyfikacji sieci dróg, o których mowa w art. 24ma ust. 1, zgodnie z poziomem bezpieczeństwa ruchu drogowego na tych drogach, przypisując poszczególne drogi lub ich odcinki do jednej z co najmniej trzech kategorii bezpieczeństwa ruchu drogowego.
+
+3. Ocenę bezpieczeństwa przeprowadza się co 5 lat do dnia 31 grudnia danego roku kalendarzowego.
+
+4. Minister właściwy do spraw transportu publikuje wyniki klasyfikacji, o której mowa w ust. 2, na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
+
+5. Minister właściwy do spraw transportu sporządza sprawozdanie dotyczące klasyfikacji, o której mowa w ust. 2, oraz przekazuje je do Komisji Europejskiej co 5 lat, w terminie do dnia 31 października danego roku kalendarzowego.
+
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
 
 - **1)** metodę i sposób przeprowadzania oceny ryzyka, o której mowa w art. 24ma ust. 1;
 - **2)** sposób przekazywania sprawozdania z oceny ryzyka, o którym mowa w art. 24ma ust. 3, do ministra właściwego do spraw transportu;
@@ -2384,7 +2587,11 @@ Art. 48–50. (pominięte)
     - **b)** orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone w załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r. w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”,
     - **c)** potrzebę uspójnienia wyników oceny ryzyka;
 
-- **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską. Art. 24mc. 1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
+- **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską.
+
+**Art. 24mc.**
+
+1. Na podstawie wyników klasyfikacji bezpieczeństwa opublikowanych zgodnie z art. 24mb ust. 4 zarządcy dróg, którzy zarządzają poszczególnymi drogami lub ich odcinkami przypisanymi do kategorii o najniższym poziomie bezpieczeństwa oraz kategorii drugiej w kolejności o najniższym poziomie bezpieczeństwa, przeprowadzają na tych drogach lub odcinkach ukierunkowane kontrole bezpieczeństwa ruchu drogowego, z uwzględnieniem potrzeb szczególnie zagrożonych uczestników ruchu drogowego.
 
 2. Ukierunkowana kontrola bezpieczeństwa ruchu drogowego ma na celu analizę:
 
@@ -3094,6 +3301,8 @@ Art. 48–50. (pominięte)
 #### Rozdział 5 (uchylony)
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
+
+**Art. 48–50.** (pominięte)
 
 **Art. 50a.** W okresie do dnia 31 grudnia 2028 r. od opłat za przejazdy po drogach krajowych, o których mowa w art. 13 ust. 1 pkt 3, są zwolnione autobusy zeroemisyjne operatora publicznego transportu zbiorowego realizującego przewozy o charakterze użyteczności publicznej w rozumieniu art. 4 ust. 1 pkt 12 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285).
 

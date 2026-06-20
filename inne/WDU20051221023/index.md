@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sejmowej komisji śledczej
+# Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o sejmowej komisji śledczej
 
 *USTAWA z dnia 3 czerwca 2005 r.*
 

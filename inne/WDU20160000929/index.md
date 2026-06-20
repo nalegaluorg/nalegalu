@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Radzie Mediów Narodowych
+# Ustawa z dnia 22 czerwca 2016 r. o Radzie Mediów Narodowych
 
 *USTAWA z dnia 22 czerwca 2016 r.*
 
@@ -146,7 +146,9 @@ source: pdf
 
 1. Obsługę administracyjno-organizacyjną Rady zapewnia Kancelaria Sejmu.
 
-2. Koszty funkcjonowania Rady obejmujące wydatki na pokrycie świadczeń przysługujących członkom Rady na podstawie art. 14 oraz koszty związane z obsługą, o której mowa w ust. 1, są pokrywane z budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu. Art. 16–19. (pominięte)
+2. Koszty funkcjonowania Rady obejmujące wydatki na pokrycie świadczeń przysługujących członkom Rady na podstawie art. 14 oraz koszty związane z obsługą, o której mowa w ust. 1, są pokrywane z budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu.
+
+**Art. 16–19.** (pominięte)
 
 **Art. 20.** Tworzy się Radę.
 

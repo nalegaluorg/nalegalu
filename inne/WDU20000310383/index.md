@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych
+# Ustawa z dnia 29 marca 2000 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych.
 
 *USTAWA z dnia 29 marca 2000 r.*
 

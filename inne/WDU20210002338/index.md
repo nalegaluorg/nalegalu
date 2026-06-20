@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
 
 *USTAWA z dnia 17 listopada 2021 r.*
 

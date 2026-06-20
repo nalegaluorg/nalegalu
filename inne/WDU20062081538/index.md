@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach
+# Ustawa z dnia 18 października 2006 r. o nadaniu nowej nazwy Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach
 
 *USTAWA z dnia 18 października 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o prokuraturze, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 23 sierpnia 2007 r. zmieniająca ustawę o zmianie ustawy o prokuraturze, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 sierpnia 2007 r.*
 

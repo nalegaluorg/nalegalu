@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o sejmowej komisji śledczej
+# Ustawa z dnia 21 stycznia 1999 r. o sejmowej komisji śledczej.
 
 *USTAWA z dnia 21 stycznia 1999 r.*
 

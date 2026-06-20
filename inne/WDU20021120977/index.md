@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego
+# Ustawa z dnia 20 czerwca 2002 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego.
 
 *USTAWA z dnia 20 czerwca 2002 r.*
 

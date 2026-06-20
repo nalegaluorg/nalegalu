@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o osobach starszych
+# Ustawa z dnia 11 września 2015 r. o osobach starszych
 
 *USTAWA z dnia 11 września 2015 r.*
 

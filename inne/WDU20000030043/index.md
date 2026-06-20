@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie organizacji i szczegółowego zakresu działania specjalistycznych organów kolejowego dozoru technicznego.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 30 grudnia 1999 r. w sprawie organizacji i szczegółowego zakresu działania specjalistycznych organów kolejowego dozoru technicznego.
 
 | Pole | Wartość |
 |---|---|

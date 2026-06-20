@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o petycjach
+# Ustawa z dnia 11 lipca 2014 r. o petycjach
 
 | Pole | Wartość |
 |---|---|

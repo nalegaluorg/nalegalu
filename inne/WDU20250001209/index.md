@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie informacji niejawnych
 
 | Pole | Wartość |
 |---|---|
@@ -41,7 +41,6 @@ poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 5 sierpnia 2010 r.
 o ochronie informacji niejawnych
-Art. 74–180. (pominięte)
 1.
 TAK NIE TAK NIE – – TAK NIE strona 15/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE TAK NIE daty pobytu miejsce (kraj, miejscowość) imię i nazwisko (od – do) i adres pobytu powód pobytu strona 16/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO TAK NIE imię i nazwisko kraj pochodzenia daty obywatela innego obywatela innego utrzymywania powód i charakter imię i nazwisko państwa, z którym państwa, z którym kontaktu kontaktu utrzymywano kontakt utrzymywano kontakt (od – do) strona 17/26 ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
 1.
@@ -1412,6 +1411,8 @@ strona 26/26
 3. Dane z ewidencji, o których mowa w ust. 1, oraz wykazów, o których mowa w art. 15 ust. 1 pkt 8, są udostępniane na pisemne żądanie wyłącznie w przypadkach określonych w art. 72 ust. 1 pkt 1 i 3–5 oraz służbom i instytucjom uprawnionym do realizacji poszerzonych postępowań sprawdzających dla celów postępowania sprawdzającego oraz postępowania bezpieczeństwa przemysłowego.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 74–180.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

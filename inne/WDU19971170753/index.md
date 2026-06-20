@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2025-12-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/753/text.pdf) |
 
-Art. 65–69. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -711,7 +709,11 @@ Art. 65–69. (pominięte)
 
 § 3. Od wydanego w pierwszej instancji wyroku sądu dyscyplinarnego oraz postanowienia i zarządzenia zamykających drogę do wydania wyroku przysługuje odwołanie obwinionemu i Rzecznikowi Dyscyplinarnemu Sędziów Sądów Wojskowych, a także Krajowej Radzie Sądownictwa, Ministrowi Sprawiedliwości oraz Ministrowi Obrony Narodowej, którym doręcza się odpis orzeczenia.
 
-§ 4. Rozstrzygnięcia zapadające w toku postępowania dyscyplinarnego wymagają z urzędu uzasadnienia na piśmie i doręczenia ich stronom. Art. 41aa. § 1. Sąd dyscyplinarny, uznając na podstawie materiału zebranego przez Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych, że okoliczności czynu i wina obwinionego nie budzą wątpliwości, a wystarczające będzie wymierzenie kar określonych w art. 39 § 1 pkt 1–3, może wydać wyrok nakazowy.
+§ 4. Rozstrzygnięcia zapadające w toku postępowania dyscyplinarnego wymagają z urzędu uzasadnienia na piśmie i doręczenia ich stronom.
+
+**Art. 41aa.**
+
+§ 1. Sąd dyscyplinarny, uznając na podstawie materiału zebranego przez Rzecznika Dyscyplinarnego Sędziów Sądów Wojskowych, że okoliczności czynu i wina obwinionego nie budzą wątpliwości, a wystarczające będzie wymierzenie kar określonych w art. 39 § 1 pkt 1–3, może wydać wyrok nakazowy.
 
 § 2. Wyrok nakazowy wydaje sąd dyscyplinarny w składzie jednego sędziego.
 
@@ -836,6 +838,8 @@ Art. 65–69. (pominięte)
 § 2. Zasady zatrudniania urzędników i innych pracowników sądów wojskowych oraz ich obowiązki i prawa określają przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2025 r. poz. 1332).
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 65–69.** (pominięte)
 
 **Art. 70.**
 

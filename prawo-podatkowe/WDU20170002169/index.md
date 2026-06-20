@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 27 października 2017 r.*
 

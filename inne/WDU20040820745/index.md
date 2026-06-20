@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
+# Ustawa z dnia 19 marca 2004 r. o zmianie ustawy o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców
 
 *USTAWA z dnia 19 marca 2004 r.*
 

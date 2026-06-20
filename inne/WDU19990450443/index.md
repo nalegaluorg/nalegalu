@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przekazywania inwestycji centralnych samorządom województw i powiatom oraz wykazu inwestycji centralnych podlegających przekazaniu.
+# Rozporządzenie Rady Ministrów z dnia 17 maja 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przekazywania inwestycji centralnych samorządom województw i powiatom oraz wykazu inwestycji centralnych podlegających przekazaniu.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Karta Nauczyciela oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 18 lutego 2000 r.*
 

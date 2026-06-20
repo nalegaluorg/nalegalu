@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Kolejowym
+# Ustawa z dnia 16 grudnia 2005 r. o Funduszu Kolejowym
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

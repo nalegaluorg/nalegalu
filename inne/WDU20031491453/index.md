@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spłacie pożyczek udzielonych w 2000 r. kasom chorych z budżetu państwa
+# Ustawa z dnia 24 lipca 2003 r. o spłacie pożyczek udzielonych w 2000 r. kasom chorych z budżetu państwa
 
 *USTAWA z dnia 24 lipca 2003 r.*
 

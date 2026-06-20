@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji Rządowego Centrum Studiów Strategicznych
+# Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Strategicznych
 
 *USTAWA z dnia 17 lutego 2006 r.*
 

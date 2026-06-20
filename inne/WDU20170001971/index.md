@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla
+# Ustawa z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla
 
 *USTAWA z dnia 12 października 2017 r.*
 

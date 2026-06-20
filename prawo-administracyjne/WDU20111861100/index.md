@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 15 lipca 2011 r.*
 

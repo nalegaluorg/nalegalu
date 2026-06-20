@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działach administracji rządowej oraz ustawy o infrastrukturze informacji przestrzennej
+# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy o działach administracji rządowej oraz ustawy o infrastrukturze informacji przestrzennej
 
 *USTAWA z dnia 13 kwietnia 2018 r.*
 

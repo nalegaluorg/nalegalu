@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracowniczych programach emerytalnych oraz ustawy o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
+# Ustawa z dnia 7 kwietnia 2022 r. o zmianie ustawy o pracowniczych programach emerytalnych oraz ustawy o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
 
 *USTAWA z dnia 7 kwietnia 2022 r.*
 

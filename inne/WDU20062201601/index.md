@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 18 października 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym
+# Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy o transporcie drogowym
 
 *USTAWA z dnia 21 lutego 2019 r.*
 

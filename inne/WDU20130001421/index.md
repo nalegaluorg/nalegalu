@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz ustawy – Karta Nauczyciela
+# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego oraz ustawy - Karta Nauczyciela
 
 *USTAWA z dnia 11 października 2013 r.*
 

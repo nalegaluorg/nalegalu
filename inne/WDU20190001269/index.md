@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Uniwersytetu Zielonogórskiego w Zielonej Górze
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Uniwersytetu Zielonogórskiego w Zielonej Górze
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 4 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

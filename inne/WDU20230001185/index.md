@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 
 | Pole | Wartość |
 |---|---|

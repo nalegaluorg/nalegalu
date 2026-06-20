@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny oraz ustawy – Prawo o notariacie
+# Ustawa z dnia 23 lipca 2008 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo o notariacie
 
 *USTAWA z dnia 23 lipca 2008 r. Opracowano stawie: r.*
 

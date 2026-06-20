@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia organów oraz szczegółowych zasad i trybu przeprowadzania kontroli obrotu dewizowego związanego z celami specjalnymi w jednostkach podległych, podporządkowanych i nadzorowanych przez Ministra Obrony Narodowej.
+# Rozporządzenie Ministra Obrony Narodowej z dnia 9 listopada 1999 r. w sprawie określenia organów oraz szczegółowych zasad i trybu przeprowadzania kontroli obrotu dewizowego związanego z celami specjalnymi w jednostkach podległych, podporządkowanych i nadzorowanych przez Ministra Obrony Narodowej.
 
 | Pole | Wartość |
 |---|---|

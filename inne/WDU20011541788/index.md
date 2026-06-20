@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
+# Ustawa z dnia 14 grudnia 2001 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji i okresu powojennego, ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej, przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III rzeszę i Związek Socjalistycznych Republik Radzieckich.
 
 *USTAWA z dnia 14 grudnia 2001 r.*
 

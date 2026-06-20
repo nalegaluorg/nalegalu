@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie nadania statutu Agencji Na podstawie art. 8 ust. 1 ustawy z dnia 7 czerwca 1990 r. o utworzeniu Rolnego (Dz.U. z 1997 r. Nr 142, poz. 951) zarządza się, co następuje:
+# Rozporządzenie Prezesa Rady Ministrów z dnia 4 lutego 1999 r. zmieniające rozporządzenie w sprawie nadania statutu Agencji Rynku Rolnego.
 
 | Pole | Wartość |
 |---|---|

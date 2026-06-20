@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz ustawy o Policji
+# Ustawa z dnia 26 listopada 2010 r. o zmianie ustawy - Kodeks karny oraz ustawy o Policji
 
 *USTAWA z dnia 26 listopada 2010 r.*
 

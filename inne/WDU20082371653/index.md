@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowym Ratownictwie Medycznym
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 

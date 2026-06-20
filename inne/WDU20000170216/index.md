@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie Na podstawie art. 10 ust. 4 ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590 i z 1998 r. Nr 106, poz. 668) zarządza się, co następuje:
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 2 marca 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie.
 
 *ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 2 marca 2000 r.*
 

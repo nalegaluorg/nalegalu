@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
+# Ustawa z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej
 
 *USTAWA z dnia 22 września 2006 r.*
 

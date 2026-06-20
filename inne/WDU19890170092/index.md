@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rzemiośle
+# Ustawa z dnia 22 marca 1989 r. o rzemiośle.
 
 *USTAWA z dnia 22 marca 1989 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochotniczych strażach pożarnych
+# Ustawa z dnia 4 czerwca 2025 r. o zmianie ustawy o ochotniczych strażach pożarnych
 
 *USTAWA z dnia 4 czerwca 2025 r.*
 

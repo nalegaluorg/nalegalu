@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające Kodeks karny, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 12 grudnia 1997 r. o zmianie ustawy - Przepisy wprowadzające Kodeks karny, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 12 grudnia 1997 r.*
 

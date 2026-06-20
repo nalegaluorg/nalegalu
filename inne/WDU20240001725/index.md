@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o usługach zaufania oraz identyfikacji elektronicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o usługach zaufania oraz identyfikacji elektronicznej
 
 *USTAWA z dnia 5 września 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-25 |
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001725) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1725/text.pdf) |
-
-Art. 50–130. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -331,7 +329,11 @@ Art. 50–130. (pominięte)
 - **2)** polegających na zapłacie kar umownych,
 - **3)** powstałych wskutek siły wyższej – chyba że w umowie ubezpieczenia zakres ochrony ubezpieczeniowej zostanie rozszerzony również o szkody wynikające ze zdarzeń wskazanych w pkt 1–3.
 
-3. Ubezpieczenie, o którym mowa w art. 21b ust. 2, obejmuje wszystkie szkody w zakresie, o którym mowa w ust. 1 i 2, bez możliwości umownego ograniczenia odpowiedzialności przez zakład ubezpieczeń. Art. 21ca. 1. Podmiot odpowiedzialny za system identyfikacji elektronicznej ponosi odpowiedzialność cywilną za szkodę wynikającą z działania lub zaniechania, wyrządzoną w związku z wykorzystaniem środka identyfikacji elektronicznej, w celu uwierzytelnienia użytkowników systemów określonych w art. 21a ust. 1 pkt 2 lit. b, korzystających z usługi online świadczonej przez podmiot, o którym mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, spowodowaną przez awarię, przerwę lub błąd systemu lub przez zaciągnięcie zobowiązania w wyniku nieuprawnionego wykorzystania tego środka identyfikacji elektronicznej do wysokości 2 000 000 euro w odniesieniu do wszystkich zdarzeń w danym roku.
+3. Ubezpieczenie, o którym mowa w art. 21b ust. 2, obejmuje wszystkie szkody w zakresie, o którym mowa w ust. 1 i 2, bez możliwości umownego ograniczenia odpowiedzialności przez zakład ubezpieczeń.
+
+**Art. 21ca.**
+
+1. Podmiot odpowiedzialny za system identyfikacji elektronicznej ponosi odpowiedzialność cywilną za szkodę wynikającą z działania lub zaniechania, wyrządzoną w związku z wykorzystaniem środka identyfikacji elektronicznej, w celu uwierzytelnienia użytkowników systemów określonych w art. 21a ust. 1 pkt 2 lit. b, korzystających z usługi online świadczonej przez podmiot, o którym mowa w art. 2 i art. 19c ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, lub podmiot sektora publicznego, o którym mowa w art. 3 pkt 7 rozporządzenia 910/2014, spowodowaną przez awarię, przerwę lub błąd systemu lub przez zaciągnięcie zobowiązania w wyniku nieuprawnionego wykorzystania tego środka identyfikacji elektronicznej do wysokości 2 000 000 euro w odniesieniu do wszystkich zdarzeń w danym roku.
 
 2. Ograniczenia odpowiedzialności do wysokości wskazanej w ust. 1 nie stosuje się w przypadku transgranicznego uwierzytelniania osób, o którym mowa w przepisach wydanych na podstawie art. 12 ust. 8 rozporządzenia 910/2014.
 
@@ -839,6 +841,8 @@ Art. 50–130. (pominięte)
 **Art. 49.** Do kar pieniężnych stosuje się odpowiednio przepisy działu III i IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 50–130.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe
 

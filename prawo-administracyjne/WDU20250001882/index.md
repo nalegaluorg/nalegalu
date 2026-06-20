@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o doradztwie podatkowym oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

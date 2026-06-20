@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 8 października 2010 r. o zmianie ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 *USTAWA z dnia 8 października 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wykonywania nadzoru administracyjnego nad kolegiami do spraw wykroczeń.
+# Rozporządzenie Ministra Sprawiedliwości z dnia 14 lipca 1999 r. w sprawie wykonywania nadzoru administracyjnego nad kolegiami do spraw wykroczeń.
 
 | Pole | Wartość |
 |---|---|

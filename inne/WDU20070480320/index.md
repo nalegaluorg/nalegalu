@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 16 lutego 2007 o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 16 lutego 2007 r.*
 

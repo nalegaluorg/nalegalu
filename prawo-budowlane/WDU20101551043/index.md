@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 6 sierpnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowaniu wspólnej polityki rolnej
+# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o finansowaniu wspólnej polityki rolnej
 
 *USTAWA z dnia 29 kwietnia 2016 r.*
 

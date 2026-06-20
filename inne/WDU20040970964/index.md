@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadmiernych zapasach produktów rolnych i produktów cukrowych
+# Ustawa z dnia 16 kwietnia 2004 r. o nadmiernych zapasach produktów rolnych i produktów cukrowych
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 

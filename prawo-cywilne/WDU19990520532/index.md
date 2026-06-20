@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw Kodeks rodzinny i opiekuńczy, Kodeks cywilny, Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 21 maja 1999 r. o zmianie ustaw Kodeks rodzinny i opiekuńczy, Kodeks cywilny, Kodeks postępowania cywilnego oraz niektórych innych ustaw.
 
 *USTAWA z dnia 21 maja 1999 r.*
 

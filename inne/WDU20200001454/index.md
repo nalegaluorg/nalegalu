@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
+# Ustawa z dnia 14 sierpnia 2020 r. o wskazaniu organu prowadzącego punkt kontaktowy do spraw produktów oraz o odpowiedzialności za naruszenie przepisów rozporządzenia w sprawie wzajemnego uznawania towarów zgodnie z prawem wprowadzonych do obrotu w innym państwie członkowskim
 
 *USTAWA z dnia 14 sierpnia 2020 r.*
 

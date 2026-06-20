@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o delegowaniu kierowców w transporcie drogowym
+# Ustawa z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym
 
 *USTAWA z dnia 28 lipca 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-04 |
 | Ostatnia zmiana | 2025-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1523/text.pdf) |
-
-Art. 37–44. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -445,6 +443,8 @@ Art. 37–44. (pominięte)
 **Art. 36.** Wpływy z kar, o których mowa w art. 33 ust. 1, art. 34 ust. 1 i art. 35 ust. 1, nałożonych przez Państwową Inspekcję Pracy stanowią dochód budżetu państwa.
 
 #### Rozdział 8 Przepisy zmieniające
+
+**Art. 37–44.** (pominięte)
 
 #### Rozdział 9 Przepisy dostosowujące, przejściowe i końcowe
 

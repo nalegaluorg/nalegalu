@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017– 2020”
+# Ustawa z dnia 15 grudnia 2016 r. o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2017-2020"
 
 *USTAWA z dnia 15 grudnia 2016 r.*
 

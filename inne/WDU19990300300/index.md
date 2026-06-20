@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie kwalifikacji wymaganych od pracowników na poszczególnych stanowisk pracy w publicznych zakładach opieki zdrowotnej.
+# Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 29 marca 1999 r. w sprawie kwalifikacji wymaganych od pracowników na poszczególnych rodzajach stanowisk pracy w publicznych zakładach opieki zdrowotnej.
 
 | Pole | Wartość |
 |---|---|

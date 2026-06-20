@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o sporcie oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 23 lipca 2015 r.*
 

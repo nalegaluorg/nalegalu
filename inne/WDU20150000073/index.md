@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 grudnia 2014 r.*
 

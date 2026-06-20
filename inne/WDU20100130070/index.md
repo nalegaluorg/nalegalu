@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o opłatach abonamentowych
+# Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy o opłatach abonamentowych
 
 *USTAWA z dnia 13 czerwca 2008 r.*
 

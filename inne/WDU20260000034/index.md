@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowaniu zadań oświatowych oraz ustawy o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2025 r. o zmianie ustawy o finansowaniu zadań oświatowych oraz ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2025 r.*
 

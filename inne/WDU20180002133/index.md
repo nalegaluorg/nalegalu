@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
+# Ustawa z dnia 4 października 2018 r. o zmianie ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej "Poczta Polska"
 
 *USTAWA z dnia 4 października 2018 r.*
 

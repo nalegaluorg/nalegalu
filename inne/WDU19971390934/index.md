@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych.
 
 *USTAWA z dnia 28 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-11-20 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971390934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.pdf) |
-
-Art. 223–228. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -105,7 +103,7 @@ Art. 223–228. (pominięte)
 - **24)** europejski pojedynczy punkt dostępu – oznacza europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **25)** metadane – oznaczają metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
 - **26)** format umożliwiający ekstrakcję danych – oznacza format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
-- **27)** format nadający się do odczytu maszynowego – oznacza format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.>
+- **27)** format nadający się do odczytu maszynowego – oznacza format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 **Art. 8a.** Jeżeli w ustawie jest mowa o ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556), należy przez to również rozumieć odpowiednie przepisy prawa ubezpieczeń społecznych i prawa pracy dotyczące organizacji programów emerytalnych, właściwe dla państwa będącego siedzibą pracodawcy zagranicznego.
 
@@ -753,7 +751,11 @@ Art. 223–228. (pominięte)
 - **5)** pracownicze towarzystwo ustanawia ogólne zasady polityki wynagrodzeń, jest odpowiedzialne za jej wdrażanie oraz dokonuje przeglądu i aktualizacji tej polityki przynajmniej co 3 lata;
 - **6)** zarządzanie w zakresie wynagrodzeń i nadzoru nad nimi jest prowadzone w sposób zrozumiały, przejrzysty i skuteczny.
 
-4. Politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo stosuje także do innych pracowników pracowniczego towarzystwa, których działalność zawodowa może mieć wpływ na profil ryzyka pracowniczego towarzystwa. <Art. 47c. 1. Pracownicze towarzystwo równocześnie z podaniem do publicznej wiadomości informacji, o których mowa w art. 47b ust. 2, przekazuje te informacje organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
+4. Politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo stosuje także do innych pracowników pracowniczego towarzystwa, których działalność zawodowa może mieć wpływ na profil ryzyka pracowniczego towarzystwa.
+
+**Art. 47c.**
+
+1. Pracownicze towarzystwo równocześnie z podaniem do publicznej wiadomości informacji, o których mowa w art. 47b ust. 2, przekazuje te informacje organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 63a ust. 5 dyrektywy 2016/2341.
 
 2. Informacje, o których mowa w art. 47b ust. 2, są opatrywane następującymi metadanymi:
 
@@ -766,7 +768,7 @@ Art. 223–228. (pominięte)
 
 3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, pracownicze towarzystwo występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-4. Organ nadzoru udostępnia informacje, o których mowa w art. 47b ust. 2, w europejskim pojedynczym punkcie dostępu.>
+4. Organ nadzoru udostępnia informacje, o których mowa w art. 47b ust. 2, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 48.**
 
@@ -1756,7 +1758,14 @@ Art. 223–228. (pominięte)
 4. Kapitał gwarancyjny, o którym mowa w ust. 3 pkt 3, jest równy większej z wartości:
 
 - **1)** jednej trzeciej marginesu wypłacalności;
-- **2)** minimalnej wysokości kapitału gwarancyjnego. Art. 106ja. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy sposób wyliczenia wysokości marginesu wypłacalności dla działu I i grup ubezpieczeń działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz minimalną wysokość kapitału gwarancyjnego dla działu I załącznika do tej ustawy, uwzględniając konieczność zapewnienia wypłacalności zakładów ubezpieczeń na życie, do których pracowniczy fundusz przekazuje składki pracowników zagranicznych. Art. 106jb. 1. Środki własne zakładu ubezpieczeń na życie stanowią aktywa zakładu ubezpieczeń na życie, z wyłączeniem aktywów:
+- **2)** minimalnej wysokości kapitału gwarancyjnego.
+
+**Art. 106ja.** Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy sposób wyliczenia wysokości marginesu wypłacalności dla działu I i grup ubezpieczeń działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz minimalną wysokość kapitału gwarancyjnego dla działu I załącznika do tej ustawy, uwzględniając konieczność zapewnienia wypłacalności zakładów ubezpieczeń na życie, do których pracowniczy fundusz przekazuje składki pracowników zagranicznych.
+
+**Art. 106jb.**
+
+1. Środki własne zakładu ubezpieczeń na życie stanowią aktywa zakładu ubezpieczeń na życie, z wyłączeniem aktywów:
+
 - **1)** przeznaczonych na pokrycie wszelkich przewidywalnych zobowiązań;
 - **2)** wartości niematerialnych i prawnych;
 - **3)** akcji własnych i udziałów własnych będących w posiadaniu zakładu ubezpieczeń na życie;
@@ -1798,7 +1807,9 @@ Art. 223–228. (pominięte)
 
 6. W przypadku, o którym mowa w ust. 4 pkt 2 lit. e, dokonanie przedterminowej spłaty może nastąpić wyłącznie po uzyskaniu uprzedniej zgody organu nadzoru, na wniosek zakładu ubezpieczeń na życie, który zawiadamia organ nadzoru o planowanej spłacie co najmniej 6 miesięcy przed planowanym terminem spłaty i przedstawia dane o wartości środków własnych i dane o wartości środków własnych przed dokonaniem płatności i po jej dokonaniu płatności. Organ nadzoru może zezwolić na spłatę pożyczek, pod warunkiem że nie spowoduje to naruszenia art. 106j ust. 3 pkt 3.
 
-7. Wielkość, o której mowa w ust. 4 pkt 4, nie może przekroczyć 3,5 % sumy różnicy pomiędzy sumami kapitału i wysokości rezerwy w dziale ubezpieczeń na życie dla wszystkich umów ubezpieczenia, dla których stosowanie metody Zillmera jest dopuszczalne. Różnica zaliczana do środków własnych jest pomniejszana o nierozliczone koszty akwizycji, wykazane w bilansie dla celów rachunkowości jako aktywa. Art. 106jc. Środki własne na pokrycie kapitału gwarancyjnego stanowią aktywa, o których mowa w art. 106jb, z wyłączeniem aktywów, o których mowa w art. 106jb ust. 4 pkt 3.
+7. Wielkość, o której mowa w ust. 4 pkt 4, nie może przekroczyć 3,5 % sumy różnicy pomiędzy sumami kapitału i wysokości rezerwy w dziale ubezpieczeń na życie dla wszystkich umów ubezpieczenia, dla których stosowanie metody Zillmera jest dopuszczalne. Różnica zaliczana do środków własnych jest pomniejszana o nierozliczone koszty akwizycji, wykazane w bilansie dla celów rachunkowości jako aktywa.
+
+**Art. 106jc.** Środki własne na pokrycie kapitału gwarancyjnego stanowią aktywa, o których mowa w art. 106jb, z wyłączeniem aktywów, o których mowa w art. 106jb ust. 4 pkt 3.
 
 **Art. 106k.** Przy ustalaniu wartości aktywów netto pracowniczego funduszu nie uwzględnia się składek pracowników zagranicznych, o których mowa w art. 2 ust. 4.
 
@@ -2330,7 +2341,11 @@ Art. 223–228. (pominięte)
 
 4. Jeżeli ustalenia, o których mowa w ust. 2, nie obejmują co najmniej jednego z elementów, o których mowa w ust. 3, pracowniczy fundusz wyjaśnia i uzasadnia tego przyczyny.
 
-5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej pracowniczego funduszu oraz są uaktualniane co rok, a także w przypadku istotnej zmiany. <Art. 142ca. 1. Pracowniczy fundusz równocześnie z opublikowaniem dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, przekazuje te dokumenty organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
+5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej pracowniczego funduszu oraz są uaktualniane co rok, a także w przypadku istotnej zmiany.
+
+**Art. 142ca.**
+
+1. Pracowniczy fundusz równocześnie z opublikowaniem dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, przekazuje te dokumenty organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
 
 2. Dokumenty, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, są opatrywane następującymi metadanymi:
 
@@ -2343,7 +2358,7 @@ Art. 223–228. (pominięte)
 
 3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-4. Organ nadzoru udostępnia dokumenty, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, w europejskim pojedynczym punkcie dostępu. >
+4. Organ nadzoru udostępnia dokumenty, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 142d.** Za [opracowanie i publikację] <opracowanie, publikację i przekazanie organowi nadzoru> dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem, o którym mowa w art. 142a ust. 1.
 
@@ -2743,7 +2758,7 @@ Art. 223–228. (pominięte)
 
 3c. Na potrzeby przekazania metadanej, o której mowa w ust. 3b pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-3d. Organ nadzoru udostępnia sprawozdanie finansowe, o którym mowa w ust. 3a, w europejskim pojedynczym punkcie dostępu. >
+3d. Organ nadzoru udostępnia sprawozdanie finansowe, o którym mowa w ust. 3a, w europejskim pojedynczym punkcie dostępu.
 
 4. Dobrowolny fundusz będący funduszem zdefiniowanej daty udostępnia prospekt informacyjny podmiotom zatrudniającym w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, z którymi ten dobrowolny fundusz zawarł umowę o zarządzanie PPK, o której mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych. Przepisu ust. 1 nie stosuje się.
 
@@ -2820,7 +2835,7 @@ Art. 223–228. (pominięte)
 
 8. Na potrzeby przekazania metadanej, o której mowa w ust. 7 pkt 2, pracowniczy fundusz występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-9. Organ nadzoru udostępnia deklarację pracowniczego funduszu w europejskim pojedynczym punkcie dostępu. >
+9. Organ nadzoru udostępnia deklarację pracowniczego funduszu w europejskim pojedynczym punkcie dostępu.
 
 **Art. 194b.**
 
@@ -3137,13 +3152,15 @@ Art. 223–228. (pominięte)
 - **1)** imieniem i nazwiskiem osoby fizycznej lub firmą (nazwą) podmiotu, na które nałożono sankcję;
 - **2)** identyfikatorem podmiotu prawnego podmiotu, na który nałożono sankcję, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacja zawiera dane osobowe.>
+- **4)** wskazaniem, czy informacja zawiera dane osobowe.
 
 **Art. 208.** (uchylony)
 
 **Art. 209.** (uchylony)
 
-**Art. 210.** Do Przewodniczącego Komisji Nadzoru Finansowego, jego Zastępców, członków Komisji, pracowników Urzędu tej Komisji oraz osób zatrudnionych w Urzędzie tej Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze stosuje się odpowiednio przepisy art. 49. Art. 211–214. (uchylone)
+**Art. 210.** Do Przewodniczącego Komisji Nadzoru Finansowego, jego Zastępców, członków Komisji, pracowników Urzędu tej Komisji oraz osób zatrudnionych w Urzędzie tej Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze stosuje się odpowiednio przepisy art. 49.
+
+**Art. 211–214.** (uchylone)
 
 #### Rozdział 22 Przepisy karne
 
@@ -3184,6 +3201,8 @@ Art. 223–228. (pominięte)
 **Art. 222.** Odpowiedzialności karnej przewidzianej w przepisach art. 215– 220 podlega także ten, kto dopuszcza się czynów określonych w tych przepisach, działając w imieniu osoby prawnej.
 
 #### Rozdział 23 Zmiany w przepisach obowiązujących
+
+**Art. 223–228.** (pominięte)
 
 #### Rozdział 24 Przepisy przejściowe i końcowe
 

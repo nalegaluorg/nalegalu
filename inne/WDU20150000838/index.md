@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
+# Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 maja 2015 r.*
 

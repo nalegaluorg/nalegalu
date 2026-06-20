@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowych nazw niektórym akademiom rolniczym
+# Ustawa z dnia 7 lutego 2008 r. o nadaniu nowych nazw niektórym akademiom rolniczym
 
 *USTAWA z dnia 7 lutego 2008 r.*
 

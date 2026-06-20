@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 15 czerwca 2012 r.*
 
@@ -123,9 +123,11 @@ source: pdf
 **Art. 14a.** Minister właściwy do spraw pracy w uzgodnieniu z ministrem właściwym do spraw wewnętrznych:
 
 - **1)** określa – na podstawie oceny ryzyka powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej – sektory działalności na poziomie sekcji, zgodnie z Polską Klasyfikacją Działalności (PKD), o szczególnym natężeniu powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej;
-- **2)** przygotowuje – na podstawie informacji przekazanych przez Straż Graniczną i Państwową Inspekcję Pracy – i przekazuje Komisji Europejskiej: Art. 15–23. (pominięte)
+- **2)** przygotowuje – na podstawie informacji przekazanych przez Straż Graniczną i Państwową Inspekcję Pracy – i przekazuje Komisji Europejskiej:
     - **a)** co roku, do dnia 30 czerwca – informacje o liczbie przeprowadzonych w poprzednim roku kontroli w zakresie powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej oraz procentowym udziale podmiotów powierzających wykonywanie pracy tym cudzoziemcom w każdym sektorze, o którym mowa w pkt 1,
     - **b)** co trzy lata – sprawozdania z realizacji ustawy.
+
+**Art. 15–23.** (pominięte)
 
 **Art. 24.**
 

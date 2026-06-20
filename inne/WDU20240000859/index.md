@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
+# Ustawa z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
 
 *USTAWA z dnia 23 maja 2024 r.*
 
@@ -176,7 +176,9 @@ source: pdf
 
 1. Wójt, burmistrz lub prezydent miasta przedstawia wojewodzie informację o liczbie toczących się postępowań w sprawie przyznania bonu energetycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, w terminie do dnia 31 maja każdego roku w okresie od 2025 r. do 2034 r.
 
-2. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie przyznania bonu energetycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca każdego roku w okresie od 2025 r. do 2034 r. Art. 8–27. (pominięte)
+2. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie przyznania bonu energetycznego, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie bonu energetycznego, oraz o łącznej wysokości bonów energetycznych będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca każdego roku w okresie od 2025 r. do 2034 r.
+
+**Art. 8–27.** (pominięte)
 
 **Art. 28.**
 

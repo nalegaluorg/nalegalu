@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uregulowaniu niektórych praw majątkowych Polskiej Akademii Nauk
+# Ustawa z dnia 10 czerwca 1994 r. o uregulowaniu niektórych praw majątkowych Polskiej Akademii Nauk.
 
 *USTAWA z dnia 10 czerwca 1994 r.*
 

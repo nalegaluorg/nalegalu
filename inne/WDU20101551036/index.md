@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawy reformujące system nauki
+# Ustawa z dnia 8 lipca 2010 r. o zmianie ustawy - Przepisy wprowadzające ustawy reformujące system nauki
 
 *USTAWA z dnia 8 lipca 2010 r.*
 

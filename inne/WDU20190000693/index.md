@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kołach gospodyń wiejskich
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o kołach gospodyń wiejskich
 
 *USTAWA z dnia 15 marca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw
+# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 października 2013 r.*
 
@@ -526,13 +526,9 @@ source: pdf
 
 1. Żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką wydaje się karty i tabliczki tożsamości.
 
-2. Karty tożsamości wydawane żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką wyjeżdżającym w celach służbowych za granicę stanowią również dowód tożsamości, o którym mowa w art. III ust. 2 lit. a Umowy między Państwami – Stronami Traktatu Północnoatlantyckiego dotyczącej statusu ich sił zbrojnych, sporządzonej w Londynie dnia 19 czerwca 1951 r. (Dz. U. z 2000 r. Nr 21, poz. 257 oraz z 2008 r. Nr 170, poz.
+2. Karty tożsamości wydawane żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką wyjeżdżającym w celach służbowych za granicę stanowią również dowód tożsamości, o którym mowa w art. III ust. 2 lit. a Umowy między Państwami – Stronami Traktatu Północnoatlantyckiego dotyczącej statusu ich sił zbrojnych, sporządzonej w Londynie dnia 19 czerwca 1951 r. (Dz. U. z 2000 r. Nr 21, poz. 257 oraz z 2008 r. Nr 170, poz. 1052).
 
-- **1052)** .
-
-3. Zasady wydawania żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką tabliczek tożsamości określają przepisy Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz. U. z 1956 r. Nr 38, poz. 171, z 1992 r. Nr 41, poz. 175, z 2007 r. Nr 85, poz. 570 oraz z 2010 r. Nr 70, poz.
-
-- **447)** .
+3. Zasady wydawania żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką tabliczek tożsamości określają przepisy Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz. U. z 1956 r. Nr 38, poz. 171, z 1992 r. Nr 41, poz. 175, z 2007 r. Nr 85, poz. 570 oraz z 2010 r. Nr 70, poz. 447).
 
 4. Żołnierzom zawodowym i żołnierzom pełniącym służbę kandydacką wyjeżdżającym w celach służbowych za granicę wydaje się również indywidualny lub zbiorowy rozkaz wyjazdu.
 

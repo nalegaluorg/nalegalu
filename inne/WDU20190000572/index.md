@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o opłatach abonamentowych
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o opłatach abonamentowych
 
 *USTAWA z dnia 22 lutego 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach
 
 *USTAWA z dnia 30 października 2002 r.*
 
@@ -134,7 +134,9 @@ source: pdf
 - **5)** egzekucji, potrąceń ze świadczeń oraz zwrotu nienależnie pobranych rent;
 - **6)** zawieszania lub zmniejszania rent;
 - **7)** (uchylony)
-- **8)** podziału renty rodzinnej oraz przywrócenia prawa do renty rodzinnej, jeżeli prawo do tej renty uzależnione jest od stwierdzenia niezdolności do pracy. [Art. 10. Niezdolność do pracy oraz jej związek z wypadkiem w szczególnych okolicznościach, o których mowa w art. 2 ust. 1, lub chorobą zawodową, o której mowa w art. 2 ust. 2, związek śmierci z takim wypadkiem lub chorobą ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych lub komisja lekarska Zakładu Ubezpieczeń Społecznych. Lekarz orzecznik lub komisja lekarska Zakładu Ubezpieczeń Społecznych ustala również stały lub długotrwały uszczerbek na zdrowiu oraz jego związek z takim wypadkiem lub chorobą zawodową w trybie określonym w przepisach o emeryturach i rentach z FUS.] <Art. 10. Orzeczenie o niezdolności do pracy oraz jej związku z wypadkiem w szczególnych okolicznościach, o których mowa w art. 2 ust. 1, lub chorobą zawodową, o której mowa w art. 2 ust. 2, związku śmierci z takim wypadkiem lub chorobą wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Lekarz orzecznik Zakładu Ubezpieczeń Społecznych ustala również stały lub długotrwały uszczerbek na zdrowiu oraz jego związek z takim wypadkiem lub chorobą zawodową.>
+- **8)** podziału renty rodzinnej oraz przywrócenia prawa do renty rodzinnej, jeżeli prawo do tej renty uzależnione jest od stwierdzenia niezdolności do pracy.
+
+**Art. 10.** Orzeczenie o niezdolności do pracy oraz jej związku z wypadkiem w szczególnych okolicznościach, o których mowa w art. 2 ust. 1, lub chorobą zawodową, o której mowa w art. 2 ust. 2, związku śmierci z takim wypadkiem lub chorobą wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Lekarz orzecznik Zakładu Ubezpieczeń Społecznych ustala również stały lub długotrwały uszczerbek na zdrowiu oraz jego związek z takim wypadkiem lub chorobą zawodową.
 
 **Art. 11.**
 

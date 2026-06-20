@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centrum Medycznego Kształcenia Podyplomowego
+# Ustawa z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego
 
 *USTAWA z dnia 13 września 2018 r.*
 

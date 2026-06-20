@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie maksymalnej liczby etatowych członków samorządowych odwoławczych.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 8 września 1999 r. w sprawie maksymalnej liczby etatowych członków samorządowych kolegiów odwoławczych.
 
 | Pole | Wartość |
 |---|---|

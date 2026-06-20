@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o zmianie innych ustaw
+# Ustawa z dnia 8 września 2000 r. o zmianie ustawy o autostradach płatnych oraz o zmianie innych ustaw.
 
 *USTAWA z dnia 8 września 2000 r.*
 

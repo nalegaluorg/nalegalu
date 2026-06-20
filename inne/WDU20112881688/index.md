@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
+# Ustawa z dnia 15 grudnia 2011 r. zmieniająca ustawę o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 grudnia 2011 r.*
 

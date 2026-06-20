@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz niektórych innych ustaw
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 

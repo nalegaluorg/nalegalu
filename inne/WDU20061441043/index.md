@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin
+# Ustawa z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin
 
 *USTAWA z dnia 14 lipca 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-08-11 |
 | Ostatnia zmiana | 2026-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061441043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1043/text.pdf) |
-
-Art. 83–96. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -157,7 +155,9 @@ Art. 83–96. (pominięte)
 
 1. Odciski linii papilarnych pobiera się od obywatela UE lub członka rodziny niebędącego obywatelem UE za pomocą kart daktyloskopijnych lub urządzenia do elektronicznego pobierania odcisków.
 
-2. Odciski linii papilarnych w celu wydania karty pobytowej lub karty stałego pobytu pobiera się od osoby, która do dnia złożenia wniosku o wydanie tej karty ukończyła 6. rok życia. <Art. 8c. Wojewoda, który wydał, wymienił lub wydał nową kartę pobytową lub kartę stałego pobytu albo który wydał, wymienił lub wydał nowe zaświadczenie o zarejestrowaniu pobytu lub dokument potwierdzający prawo stałego pobytu obywatelowi Zjednoczonego Królestwa, usuwa w terminie 5 dni roboczych od dnia ich wydania dane ich posiadaczy zarejestrowane w Systemie Wjazdu/Wyjazdu, zwanym dalej „EES”, zgodnie z art. 35 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”.>
+2. Odciski linii papilarnych w celu wydania karty pobytowej lub karty stałego pobytu pobiera się od osoby, która do dnia złożenia wniosku o wydanie tej karty ukończyła 6. rok życia.
+
+**Art. 8c.** Wojewoda, który wydał, wymienił lub wydał nową kartę pobytową lub kartę stałego pobytu albo który wydał, wymienił lub wydał nowe zaświadczenie o zarejestrowaniu pobytu lub dokument potwierdzający prawo stałego pobytu obywatelowi Zjednoczonego Królestwa, usuwa w terminie 5 dni roboczych od dnia ich wydania dane ich posiadaczy zarejestrowane w Systemie Wjazdu/Wyjazdu, zwanym dalej „EES”, zgodnie z art. 35 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”.
 
 #### Rozdział 2 Wjazd na terytorium Rzeczypospolitej Polskiej i wyjazd z tego terytorium
 
@@ -1326,7 +1326,7 @@ Art. 83–96. (pominięte)
 
 3. Komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej odnotowuje wydanie decyzji o wydaleniu w dokumencie podróży obywatela UE lub członka rodziny niebędącego obywatelem UE oraz niezwłocznie informuje o tym organ, który wystąpił z wnioskiem o jej wydanie.
 
-4. W przypadku doręczenia decyzji o wydaleniu w formie, o której mowa w ust. 2, organ Straży Granicznej, który wykonuje tę decyzję, odnotowuje fakt jej wydania w dokumencie podróży cudzoziemca. <5. Organ, który wydał decyzję o wydaleniu członka rodziny niebędącego obywatelem UE, obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, dodaje dane, o których mowa w art. 19 ust. 1 i 4 rozporządzenia nr 2017/2226, do ostatniego wpisu dotyczącego wjazdu/wyjazdu tego cudzoziemca, zarejestrowanego w EES.>
+4. W przypadku doręczenia decyzji o wydaleniu w formie, o której mowa w ust. 2, organ Straży Granicznej, który wykonuje tę decyzję, odnotowuje fakt jej wydania w dokumencie podróży cudzoziemca. <5. Organ, który wydał decyzję o wydaleniu członka rodziny niebędącego obywatelem UE, obywatela Zjednoczonego Królestwa lub członka rodziny obywatela Zjednoczonego Królestwa, dodaje dane, o których mowa w art. 19 ust. 1 i 4 rozporządzenia nr 2017/2226, do ostatniego wpisu dotyczącego wjazdu/wyjazdu tego cudzoziemca, zarejestrowanego w EES.
 
 **Art. 73a.**
 
@@ -1371,7 +1371,13 @@ Art. 83–96. (pominięte)
 
 4. Koszty, o których mowa w ust. 1, ustala się, gdy decyzja o wydaleniu obywatela UE lub członka rodziny niebędącego obywatelem UE stała się ostateczna, a w przypadku wydania takiej decyzji przez organ wyższego stopnia – gdy decyzja ostateczna została doręczona, chyba że podlega ona natychmiastowemu wykonaniu.
 
-5. Należności z tytułu kosztów, o których mowa w ust. 1, przedawniają się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym decyzja o ustaleniu wysokości kosztów stała się ostateczna. Art. 74aa. Koszty, o których mowa w art. 74a ust. 1, ponosi odpowiednio obywatel UE lub członek rodziny niebędący obywatelem UE. Art. 74ab. 1. Organ Straży Granicznej, który wydał decyzję o ustaleniu wysokości kosztów, o których mowa w art. 74a ust. 1, może zmienić tę decyzję, jeżeli koszty te uległy zmianie po wydaniu decyzji. Decyzja podlega natychmiastowemu wykonaniu.
+5. Należności z tytułu kosztów, o których mowa w ust. 1, przedawniają się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym decyzja o ustaleniu wysokości kosztów stała się ostateczna.
+
+**Art. 74aa.** Koszty, o których mowa w art. 74a ust. 1, ponosi odpowiednio obywatel UE lub członek rodziny niebędący obywatelem UE.
+
+**Art. 74ab.**
+
+1. Organ Straży Granicznej, który wydał decyzję o ustaleniu wysokości kosztów, o których mowa w art. 74a ust. 1, może zmienić tę decyzję, jeżeli koszty te uległy zmianie po wydaniu decyzji. Decyzja podlega natychmiastowemu wykonaniu.
 
 2. Od decyzji, o której mowa w ust. 1, służy odwołanie do Komendanta Głównego Straży Granicznej.
 
@@ -1580,6 +1586,8 @@ Art. 83–96. (pominięte)
 **Art. 82.** Orzekanie w sprawach o czyny, o których mowa w art. 81, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 83–96.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

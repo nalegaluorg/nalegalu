@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego
+# Ustawa z dnia 16 grudnia 1992 r. o zmianie ustawy - Kodeks postępowania cywilnego.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 10 lipca 2008 r.*
 

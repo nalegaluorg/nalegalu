@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bibliotekach
+# Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o bibliotekach.
 
 *USTAWA z dnia 27 lipca 2001 r.*
 

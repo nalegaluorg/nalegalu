@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2017–2020”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 października 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2017-2020"
 
 | Pole | Wartość |
 |---|---|

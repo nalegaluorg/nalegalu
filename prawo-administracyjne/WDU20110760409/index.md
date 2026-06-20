@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o postępowaniu przed sądami administracyjnymi oraz ustawy o zmianie ustawy – Kodeks postępowania administracyjnego oraz ustawy – Prawo o postępowaniu przed sądami administracyjnymi
+# Ustawa z dnia 25 marca 2011 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi oraz ustawy o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA z dnia 25 marca 2011 r.*
 

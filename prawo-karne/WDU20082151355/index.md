@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo celne oraz ustawy - Kodeks karny skarbowy
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy - Prawo celne oraz ustawy - Kodeks karny skarbowy
 
 *USTAWA z dnia 7 listopada 2008 r.*
 

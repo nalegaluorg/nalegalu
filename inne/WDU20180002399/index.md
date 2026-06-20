@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 
@@ -239,7 +239,11 @@ source: pdf
 
 15. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne.
 
-16. Zażalenie, o którym mowa w ust. 13, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 11ab. 1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej polega na:
+16. Zażalenie, o którym mowa w ust. 13, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 11ab.**
+
+1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej polega na:
 
 - **1)** wzrokowej kontroli zawartości bagaży lub ładunków;
 - **2)** manualnym sprawdzeniu elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
@@ -277,7 +281,13 @@ source: pdf
 
 13. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora oraz kierownika jednostki organizacyjnej Straży Granicznej nadrzędnej nad jednostką, w której pełni służbę funkcjonariusz, który dokonał kontroli osobistej.
 
-14. Zażalenie, o którym mowa w ust. 12, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 11ac. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory protokołów, o których mowa w art. 11aa ust. 10 pkt 2 i art. 11ab ust. 10, uwzględniając konieczność zawarcia informacji dotyczących czasu, miejsca i przyczyny dokonania kontroli osobistej albo przeglądania zawartości bagaży lub sprawdzania ładunków, danych osobowych osoby, w stosunku do której zostały wykonane czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności. Art. 11ad. 1. Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+14. Zażalenie, o którym mowa w ust. 12, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 11ac.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory protokołów, o których mowa w art. 11aa ust. 10 pkt 2 i art. 11ab ust. 10, uwzględniając konieczność zawarcia informacji dotyczących czasu, miejsca i przyczyny dokonania kontroli osobistej albo przeglądania zawartości bagaży lub sprawdzania ładunków, danych osobowych osoby, w stosunku do której zostały wykonane czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+**Art. 11ad.**
+
+1. Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
 
 2. Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, może polegać również na:
 
@@ -680,7 +690,11 @@ source: pdf
 
 14. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa.
 
-15. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 14ab. 1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+15. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 14ab.**
+
+1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
 
 - **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
 - **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
@@ -707,7 +721,13 @@ source: pdf
 
 12. W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków, przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
 
-13. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 14ac. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 14aa ust. 10 i 13 oraz art. 14ab ust. 10 i 12, a także wzory protokołów, o których mowa w art. 14aa ust. 9 i art. 14ab ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności. Art. 14ad. 1. Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 30a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań CBA, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań CBA, jest obowiązany niezwłocznie powiadomić o tym Policję.
+13. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 14ac.** Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 14aa ust. 10 i 13 oraz art. 14ab ust. 10 i 12, a także wzory protokołów, o których mowa w art. 14aa ust. 9 i art. 14ab ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+**Art. 14ad.**
+
+1. Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 30a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań CBA, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań CBA, jest obowiązany niezwłocznie powiadomić o tym Policję.
 
 2. Od obowiązków, o których mowa w ust. 1, funkcjonariusz może odstąpić, w przypadku wykonywania czynności określonych w art. 19 ust. 1 ustawy.”;
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze ubezpieczeniowym i emerytalnym (oznaczenie rozdziału 1 i tytuł – uchylone)
+# Ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym
 
 *USTAWA z dnia 22 maja 2003 r.*
 
@@ -68,7 +68,9 @@ source: pdf
 - **2)** kontrola działalności i stanu majątkowego podmiotów nadzorowanych;
 - **3)** podejmowanie innych zadań określonych ustawami.
 
-2. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy. Art. 9–13. (uchylone)
+2. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.
+
+**Art. 9–13.** (uchylone)
 
 **Art. 14.**
 

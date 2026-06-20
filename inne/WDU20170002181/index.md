@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy o pracy na morzu oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 października 2017 r.*
 

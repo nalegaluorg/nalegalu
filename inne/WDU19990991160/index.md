@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie dozoru technicznego.
+# Rozporządzenie Rady Ministrów z dnia 7 grudnia 1999 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie dozoru technicznego.
 
 | Pole | Wartość |
 |---|---|

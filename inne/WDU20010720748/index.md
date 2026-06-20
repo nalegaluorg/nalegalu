@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz niektórych ustaw
+# Ustawa z dnia 8 czerwca 2001 r. o zmianie ustawy o pomocy społecznej oraz niektórych ustaw.
 
 *USTAWA z dnia 8 czerwca 2001 r.*
 

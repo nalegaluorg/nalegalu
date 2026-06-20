@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks wykroczeń
+# Ustawa z dnia 18 marca 2004 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks wykroczeń
 
 *USTAWA z dnia 18 marca 2004 r.*
 
@@ -325,9 +325,17 @@ source: pdf
 
 § 1. Jeżeli informacje przekazane przez państwo wydania nakazu europejskiego nie są wystarczające do podjęcia decyzji w przedmiocie przekazania osoby ściganej, sąd wzywa organ sądowy, który wydał nakaz europejski, do ich uzupełnienia we wskazanym terminie.
 
-§ 2. W wypadku niedotrzymania terminu, o którym mowa w § 1, nakaz europejski podlega rozpoznaniu w oparciu o informacje przekazane wcześniej. Art. 607za. § 1. Wniosek właściwego organu sądowego państwa wydania nakazu europejskiego o zgodę na ściganie lub wykonanie kar pozbawienia wolności albo środków polegających na pozbawieniu wolności za czyny popełnione przed przekazaniem albo o zgodę na dalsze przekazanie osoby ściganej rozpatruje sąd okręgowy, który orzekł o przekazaniu. Przepisy art. 607b, 607p, 607r, 607s § 1i 2 oraz art. 607z stosuje się odpowiednio.
+§ 2. W wypadku niedotrzymania terminu, o którym mowa w § 1, nakaz europejski podlega rozpoznaniu w oparciu o informacje przekazane wcześniej.
 
-§ 2. W przedmiocie wniosku, o którym mowa w § 1, sąd orzeka w terminie 30 dni od dnia otrzymania wniosku. Art. 607zb. § 1. Na wniosek państwa wykonania nakazu europejskiego Minister Sprawiedliwości udziela zezwolenia na przewóz osoby ściganej na podstawie nakazu europejskiego przez terytorium Rzeczypospolitej Polskiej.
+**Art. 607za.**
+
+§ 1. Wniosek właściwego organu sądowego państwa wydania nakazu europejskiego o zgodę na ściganie lub wykonanie kar pozbawienia wolności albo środków polegających na pozbawieniu wolności za czyny popełnione przed przekazaniem albo o zgodę na dalsze przekazanie osoby ściganej rozpatruje sąd okręgowy, który orzekł o przekazaniu. Przepisy art. 607b, 607p, 607r, 607s § 1i 2 oraz art. 607z stosuje się odpowiednio.
+
+§ 2. W przedmiocie wniosku, o którym mowa w § 1, sąd orzeka w terminie 30 dni od dnia otrzymania wniosku.
+
+**Art. 607zb.**
+
+§ 1. Na wniosek państwa wykonania nakazu europejskiego Minister Sprawiedliwości udziela zezwolenia na przewóz osoby ściganej na podstawie nakazu europejskiego przez terytorium Rzeczypospolitej Polskiej.
 
 § 2. Wniosek o zezwolenie na przewóz, o którym mowa w § 1, powinien zawierać:
 
@@ -339,7 +347,9 @@ source: pdf
 
 § 3. Jeżeli osoba ścigana jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu, zezwolenie, o którym mowa w § 1, można wydać pod warunkiem, że osoba ta po zakończeniu postępowania zostanie przekazana do wykonania kary pozbawienia wolności lub środka polegającego na pozbawieniu wolności na terytorium Rzeczypospolitej Polskiej.
 
-§ 4. W wypadku korzystania z drogi powietrznej bez planowanego lądowania, można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby ściganej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo wykonania nakazu europejskiego dostarcza niezwłocznie dane, o których mowa w § 2; przepis § 3 stosuje się odpowiednio. Art. 607zc. Jeżeli sąd, do którego został skierowany nakaz europejski, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu organowi sądowemu i powiadamia o tym organ sądowy, który go wydał.”.
+§ 4. W wypadku korzystania z drogi powietrznej bez planowanego lądowania, można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby ściganej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo wykonania nakazu europejskiego dostarcza niezwłocznie dane, o których mowa w § 2; przepis § 3 stosuje się odpowiednio.
+
+**Art. 607zc.** Jeżeli sąd, do którego został skierowany nakaz europejski, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu organowi sądowemu i powiadamia o tym organ sądowy, który go wydał.”.
 
 **Art. 3.** W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. Nr 12, poz. 114, z późn. zm. ) w art. 47 § 8 otrzymuje brzmienie: „§ 8. Dokumentem jest każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą w nim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.”.
 

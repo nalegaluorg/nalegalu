@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 14 czerwca 2007 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027
 
 *USTAWA z dnia 8 lutego 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-27 |
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1741/text.pdf) |
-
-Art. 118–147. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1624,6 +1622,8 @@ Art. 118–147. (pominięte)
 - **3)** skład i sposób powoływania komisji przeprowadzającej egzaminy, o których mowa w pkt 1 i 2, oraz sposób dokumentowania tych egzaminów – mając na względzie zapewnienie wysokiej jakości usług doradczych świadczonych przez doradców rolniczych i ekspertów przyrodniczych oraz jednolitych standardów świadczenia usług doradczych w tym zakresie.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 118–147.** (pominięte)
 
 #### Rozdział 11a Przepisy epizodyczne
 

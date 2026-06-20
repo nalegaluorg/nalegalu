@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie powiadamiania ratunkowego
+# Ustawa z dnia 19 grudnia 2014 r. o zmianie ustawy o systemie powiadamiania ratunkowego
 
 *USTAWA z dnia 19 grudnia 2014 r.*
 

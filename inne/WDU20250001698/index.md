@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zdrowiu publicznym
+# Ustawa z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym
 
 *USTAWA z dnia 17 października 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniach gwarantowanych przez Skarb Państwa
+# Ustawa z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa
 
 *USTAWA z dnia 7 lipca 1994 r.*
 
@@ -130,9 +130,7 @@ source: pdf
 
 1. Prowadzenie działalności w zakresie ubezpieczeń gwarantowanych, na warunkach określonych ustawą, powierza się Korporacji Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna, zwanej dalej „Korporacją”.
 
-1a. Korporacja należy do systemu instytucji rozwoju, o którym mowa w art. 2 ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2026 r. poz.
-
-- **9)** .
+1a. Korporacja należy do systemu instytucji rozwoju, o którym mowa w art. 2 ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2026 r. poz. 9).
 
 2. Korporacja prowadzi działalność, o której mowa w ust. 1, w imieniu własnym.
 

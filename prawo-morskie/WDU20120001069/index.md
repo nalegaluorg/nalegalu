@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks morski oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy - Kodeks morski oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
 
 *USTAWA z dnia 31 sierpnia 2012 r.*
 

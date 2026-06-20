@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 23 grudnia 1999 r.*
 
@@ -120,9 +120,13 @@ source: pdf
 - **2)** zwiększenie wynagrodzeń przeznaczonych na wypłaty wynagrodzeń dla osób odwołanych z kierowniczych stanowisk państwowych, a także nagród jubileuszowych, odpraw emerytalnych i odpraw w związku z przejściem na rentę z tytułu niezdolności do pracy oraz ekwiwalentów za niewykorzystany urlop wypoczynkowy dla osób zajmujących kierownicze stanowiska państwowe, dla pracowników jednostek organizacyjnych stanowiących wyodrębnioną część budżetową, w których średnioroczne zatrudnienie w roku poprzednim nie przekracza 50 osób;
 - **3)** podwyższenie wynagrodzeń nauczycieli zatrudnionych w szkołach i placówkach prowadzonych przez organy administracji rządowej.
 
-**Art. 10a.** Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne i pozostałe należności żołnierzy i funkcjonariuszy – między częściami i działami – odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
+**Art. 10a.** Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne i pozostałe należności żołnierzy i funkcjonariuszy – między częściami i działami – odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego.
 
-**Art. 29f.** (uchylony) Art. 29g–29n. (pominięte)
+**Art. 11–29e.** (pominięte)
+
+**Art. 29f.** (uchylony)
+
+**Art. 29g–29n.** (pominięte)
 
 **Art. 29o.** W 2020 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Służbie Ochrony Państwa
+# Ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-01-17 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000138) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.pdf) |
-
-Art. 251–346. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -142,9 +140,7 @@ Art. 251–346. (pominięte)
 
 2. Komendant SOP jest przełożonym funkcjonariuszy.
 
-3. W SOP mogą być zatrudniani pracownicy, do których nie stosuje się przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz.
-
-- **409)** .
+3. W SOP mogą być zatrudniani pracownicy, do których nie stosuje się przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).
 
 4. Do pracowników, o których mowa w ust. 3, stosuje się odpowiednio przepisy art. 72, art. 73, art. 131 oraz art. 159 ust. 1 pkt 5 i ust. 2.
 
@@ -3932,6 +3928,8 @@ Art. 251–346. (pominięte)
 #### Rozdział 10
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 251–346.** (pominięte)
 
 #### Rozdział 12 Przepisy dostosowujące i przejściowe
 

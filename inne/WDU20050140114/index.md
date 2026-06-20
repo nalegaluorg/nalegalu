@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odpowiedzialności za naruszenie dyscypliny finansów publicznych
+# Ustawa z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych
 
 *USTAWA z dnia 17 grudnia 2004 r.*
 

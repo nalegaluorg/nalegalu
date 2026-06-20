@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 25 lipca 2008 r.*
 

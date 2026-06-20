@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora
 
 *USTAWA z dnia 13 lutego 2026 r.*
 

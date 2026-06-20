@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych
 
 *USTAWA z dnia 16 listopada 2006 r.*
 
@@ -48,7 +48,7 @@ source: pdf
 
 - **1)** orzeczenie o uznaniu wnioskodawcy za inwalidę I lub II grupy w związku z utratą wzroku lub orzeczenie o całkowitej niezdolności do pracy w związku z utratą wzroku;
 - **2)** zaświadczenie o utracie przez wnioskodawcę wzroku z powodu urazu, wystawione przez lekarza okulistę;
-- **3)** dowody poświadczające okoliczności i skutki wypadku, który spowodował utratę wzroku, w tym dokumentację medyczną. [5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). >
+- **3)** dowody poświadczające okoliczności i skutki wypadku, który spowodował utratę wzroku, w tym dokumentację medyczną. [5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <5. W przypadku braku dokumentu, o którym mowa w ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).
 
 6. Organ rentowy lub emerytalny, będący płatnikiem emerytury lub renty osoby, o której mowa w ust. 3, jest zobowiązany do przekazania, na żądanie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, kopii dokumentów, określonych w art. 21 ust. 1 pkt 100 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, złożonych przez tę osobę.
 
@@ -197,7 +197,9 @@ source: pdf
 
 **Art. 12.** Świadczenia, ryczałt energetyczny, pomoc pieniężna, dodatki pielęgnacyjne i zasiłki pogrzebowe, o których mowa w niniejszej ustawie, koszty ich wypłat, koszty postępowania w sprawie wniosków o przyznanie świadczenia lub pomocy pieniężnej oraz koszty wydawania legitymacji, o których mowa w art. 11, finansowane są z budżetu państwa.
 
-**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Art. 14–16. (pominięte)
+**Art. 13.** W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+**Art. 14–16.** (pominięte)
 
 **Art. 17.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
 

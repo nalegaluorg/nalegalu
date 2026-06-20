@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw
+# Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 26 czerwca 1997 r.*
 

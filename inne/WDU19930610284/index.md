@@ -29,7 +29,6 @@ Zważywszy, że owa Deklaracja zmierza do zapewnienia powszechnego i efektywnego
 Zważywszy, że celem Rady Europy jest osiągnięcie większej jedności jej członków i że jednym ze sposobów osiągnięcia tego celu jest ochrona oraz rozwój praw człowieka i podstawowych wolności;
 Potwierdzając swoją głęboką wiarę w te podstawowe wolności, które są fundamentem sprawiedliwości i pokoju na świecie i których zachowanie opiera się głównie z jednej strony na rzeczywiście demokratycznym ustroju politycznym, z drugiej na jednolitym pojmowaniu i wspólnym poszanowaniu praw człowieka, do których się one odwołują;
 Zdecydowane, jako rządy Państw europejskich działających w tym samym duchu 1 posiadającym wspólne dziedzictwo ideałów i tradycji politycznych, poszanowania wolności i rządów prawa, podjąć pierwsze kroki w celu zbiorowego zagwarantowania niektórych praw wymienionych w Powszechnej Deklaracji, Uzgodniły, co następuje: Artykuł 1 Wysokie Układające się Strony zapewniają każdemu człowiekowi podlegającemu ich jurysdykcji prawa i wolności określone w Rozdziale I niniejszej Konwencji.
-1. Prawo każdego człowieka do życia jest chronione przez ustawę. Nikt nie może być umyślnie pozbawiony życia, wyjąwszy przypadki wykonania wyroku sądowego skazującego za przestępstwo, za które ustawa przewiduje taką karę.
 2. Pozbawienie życia nie będzie uznane za sprzeczne z tym artykułem, jeżeli nastąpi w wyniku bezwzględnie koniecznego użycia siły:
 a) w obronie jakiejkolwiek osoby przed bezprawną przemocą;
 b) w celu wykonania zgodnego z prawem zatrzymania lub uniemożliwienia ucieczki osobie pozbawionej wolności zgodnie z prawem;
@@ -326,5 +325,5 @@ d) każdy inny akt, notyfikację lub deklarację odnoszącą się do niniejszego
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
 Sporządzono w Rzymie, dnia 8 listopada 1990 roku w jednym egzemplarzu, w językach angielskim 1 francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu Państwu-Członkowi Rady Europy.
 
-#### Rozdział I
+#### Rozdział I 1. Prawo każdego człowieka do życia jest chronione przez ustawę. Nikt nie może być umyślnie pozbawiony życia, wyjąwszy przypadki wykonania wyroku sądowego skazującego za przestępstwo, za które ustawa przewiduje taką karę.
 

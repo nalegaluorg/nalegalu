@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności
+# Ustawa z dnia 4 kwietnia 2019 r. o zmianie ustawy o ewidencji ludności
 
 *USTAWA z dnia 4 kwietnia 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym
+# Ustawa z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym
 
 *USTAWA z dnia 14 lutego 2003 r.*
 

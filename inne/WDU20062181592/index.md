@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów Stwierdzamy, że praca albo służba w organach bezpieczeństwa państwa komunistycznego, lub pomoc udzielana tym organom przez osobowe źródło informacji, polegające na zwalczaniu opozycji demokratycznej, związków zawodowych, stowarzyszeń, kościołów i związków wyznaniowych, łamaniu prawa do wolności słowa i zgromadzeń, gwałceniu prawa do życia, wolności, własności i bezpieczeństwa obywateli, była trwale związana z łamaniem praw człowieka i obywatela na rzecz komunistycznego ustroju totalitarnego. Mając na względzie powyższe, a także konieczność zapewnienia obsady funkcji, stanowisk i zawodów wymagających zaufania publicznego przez osoby, które swoim dotychczasowym postępowaniem dają i dawały w przeszłości gwarancje uczciwości, szlachetności, poczucia odpowiedzialności za własne słowa i czyny, odwagi cywilnej i prawości, oraz ze względu na konstytucyjne gwarancje zapewniające obywatelom prawo do informacji o osobach pełniących takie funkcje, zajmujących takie stanowiska i wykonujących takie zawody, stanowi się, co następuje:
+# Ustawa z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów
 
 *USTAWA z dnia 18 października 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-11-30 |
 | Ostatnia zmiana | 2025-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062181592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1592/text.pdf) |
-
-Art. 30–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -620,6 +618,8 @@ Art. 30–55. (pominięte)
 2. Jeżeli dokumenty, o których mowa w ust. 1, zostały wytworzone przez sprawcę lub przy jego udziale w ramach czynności wykonywanych w związku z jego pracą lub służbą w organach bezpieczeństwa państwa, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 30–55.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

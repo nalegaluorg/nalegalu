@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wyznaczenia dróg celnych oraz określenia zasad poruszania się i przemieszczania towarów po tych drogach.
+# Rozporządzenie Ministra Finansów z dnia 14 września 1999 r. w sprawie wyznaczenia dróg celnych oraz określenia zasad poruszania się i przemieszczania towarów po tych drogach.
 
 | Pole | Wartość |
 |---|---|

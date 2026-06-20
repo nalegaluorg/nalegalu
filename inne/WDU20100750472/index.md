@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Trybunale Stanu
+# Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o Trybunale Stanu
 
 *USTAWA z dnia 18 marca 2010 r.*
 

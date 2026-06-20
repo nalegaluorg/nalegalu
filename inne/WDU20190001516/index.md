@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o okresie przejściowym, o którym mowa w Umowie o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej
+# Ustawa z dnia 19 lipca 2019 r. o okresie przejściowym, o którym mowa w Umowie o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych
+# Ustawa z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych
 
 *USTAWA z dnia 10 kwietnia 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2003-05-10 |
 | Ostatnia zmiana | 2024-03-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/721/text.pdf) |
-
-Art. 34–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -117,7 +115,13 @@ Art. 34–40. (pominięte)
 
 10. Czynność prawna dokonana z naruszeniem zakazu, o którym mowa w ust. 9, jest nieważna.
 
-**Art. 11e.** Nie można uzależniać zezwolenia na realizację inwestycji drogowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami. Art. 11ea. 1. W postępowaniu w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej przepisów art. 30 § 5, art. 34 i art. 97 § 1 pkt 1– 3 Kodeksu postępowania administracyjnego nie stosuje się. 2. W przypadkach określonych w art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu, jeżeli jest to konieczne do przeprowadzenia postępowania.
+**Art. 11e.** Nie można uzależniać zezwolenia na realizację inwestycji drogowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami.
+
+**Art. 11ea.**
+
+1. W postępowaniu w sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej przepisów art. 30 § 5, art. 34 i art. 97 § 1 pkt 1– 3 Kodeksu postępowania administracyjnego nie stosuje się.
+
+2. W przypadkach określonych w art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu, jeżeli jest to konieczne do przeprowadzenia postępowania.
 
 **Art. 11f.**
 
@@ -185,7 +189,9 @@ Art. 34–40. (pominięte)
 
 1. W sprawach dotyczących zezwolenia na realizację inwestycji drogowej nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyjątkiem art. 28 ust. 2.
 
-2. W sprawach dotyczących zezwolenia na realizację inwestycji drogowej nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2021 r. poz. 485 oraz z 2023 r. poz. 28 i 1688). Art. 11ia. Do postępowań w sprawach dotyczących zezwolenia na realizację inwestycji drogowej, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+2. W sprawach dotyczących zezwolenia na realizację inwestycji drogowej nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2021 r. poz. 485 oraz z 2023 r. poz. 28 i 1688).
+
+**Art. 11ia.** Do postępowań w sprawach dotyczących zezwolenia na realizację inwestycji drogowej, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 11j.** Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o zezwoleniu na realizację inwestycji drogowej nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073).
 
@@ -547,6 +553,8 @@ Art. 34–40. (pominięte)
 2. W przypadku, o którym mowa w ust. 1, można odstąpić od stosowania przepisów art. 53–55 i art. 216 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 34–40.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

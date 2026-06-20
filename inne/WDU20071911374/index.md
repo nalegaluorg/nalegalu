@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
+# Ustawa z dnia 19 września 2007 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 19 września 2007 r.*
 
@@ -177,18 +177,32 @@ source: pdf
 
 5. Jeżeli przejęcie nieruchomości, o których mowa w art. 9s ust. 3, dotyczy przejęcia terenu, na którym zlokalizowane są obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi ś rodków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie w części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, w trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
 
-**Art. 9z.** Stronie odwołującej się od decyzji ustalającej wysokość odszkodowania, na jej wniosek, wypłaca się kwotę określoną w tej decyzji. Wypłata tej kwoty nie ma wpływu na prowadzone postępowanie odwoławcze. Art. 9aa. Skarb Państwa reprezentowany przez ministra właściwego do spraw transportu wnosi, jako wkład niepieniężny, na podwyższenie kapitału zakładowego PLK S.A., po zakończeniu budowy lub przebudowy linii kolejowej, składniki aktywów trwałych składające się w szczególności na:
+**Art. 9z.** Stronie odwołującej się od decyzji ustalającej wysokość odszkodowania, na jej wniosek, wypłaca się kwotę określoną w tej decyzji. Wypłata tej kwoty nie ma wpływu na prowadzone postępowanie odwoławcze.
+
+**Art. 9aa.** Skarb Państwa reprezentowany przez ministra właściwego do spraw transportu wnosi, jako wkład niepieniężny, na podwyższenie kapitału zakładowego PLK S.A., po zakończeniu budowy lub przebudowy linii kolejowej, składniki aktywów trwałych składające się w szczególności na:
 
 - **1)** linię kolejową sfinansowaną z udziałem środków publicznych lub
-- **2)** nabyte przez Skarb Państwa nieruchomości w pasie gruntu pod linię kolejową oraz nakłady na budowę lub przebudowę linii kolejowej, sfinansowane ze środków publicznych. Art. 9ab. 1. Minister właściwy do spraw transportu może upoważnić Zarząd PLK S.A. do dokonywania, w jego imieniu, określonych czynności faktycznych i prawnych związanych z lokalizacją linii kolejowej i nabywaniem nieruchomości.
+- **2)** nabyte przez Skarb Państwa nieruchomości w pasie gruntu pod linię kolejową oraz nakłady na budowę lub przebudowę linii kolejowej, sfinansowane ze środków publicznych.
 
-2. Koszty czynności, o których mowa w ust. 1, ponosi PLK S.A. Art. 9ac. 1. Wojewoda wydaje pozwolenie na budowę linii kolejowej lub poszczególnych odcinków tej linii oraz wszystkich obiektów związanych z jej budową, przebudową i rozbudową, położonych w granicach województwa, na zasadach i w trybie przepisów Prawa budowlanego oraz doręcza je wnioskodawcy, a pozostałe strony zawiadamia o jego wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
+**Art. 9ab.**
+
+1. Minister właściwy do spraw transportu może upoważnić Zarząd PLK S.A. do dokonywania, w jego imieniu, określonych czynności faktycznych i prawnych związanych z lokalizacją linii kolejowej i nabywaniem nieruchomości.
+
+2. Koszty czynności, o których mowa w ust. 1, ponosi PLK S.A.
+
+**Art. 9ac.**
+
+1. Wojewoda wydaje pozwolenie na budowę linii kolejowej lub poszczególnych odcinków tej linii oraz wszystkich obiektów związanych z jej budową, przebudową i rozbudową, położonych w granicach województwa, na zasadach i w trybie przepisów Prawa budowlanego oraz doręcza je wnioskodawcy, a pozostałe strony zawiadamia o jego wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na przebieg linii kolejowej, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie lokalnej.
 
 2. Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na budowę linii kolejowej, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął budowę linii kolejowej. Art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
 3. W przypadku uwzględnienia skargi na decyzję o pozwoleniu na budowę linii kolejowej, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy linii kolejowej może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wyszczególnionych w art. 145 lub w art. 156 Kodeksu postępowania administracyjnego.
 
-4. Przepisy ust. 2 i 3 stosuje się odpowiednio do decyzji o ustaleniu lokalizacji linii kolejowej. Art. 9ad. 1. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+4. Przepisy ust. 2 i 3 stosuje się odpowiednio do decyzji o ustaleniu lokalizacji linii kolejowej.
+
+**Art. 9ad.**
+
+1. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 2. W sprawach dotyczących lokalizacji linii kolejowych przepisów o zagospodarowaniu przestrzennym nie stosuje się, z zastrzeżeniem art. 9o ust. 3 pkt 4 lit. g.”;
 

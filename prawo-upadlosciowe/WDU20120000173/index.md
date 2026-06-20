@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawy o niektórych zabezpieczeniach finansowych oraz ustawy – Prawo upadłościowe i naprawcze
+# Ustawa z dnia 27 stycznia 2012 r. o zmianie ustawy o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawy o niektórych zabezpieczeniach finansowych oraz ustawy - Prawo upadłościowe i naprawcze
 
 *USTAWA z dnia 27 stycznia 2012 r.*
 

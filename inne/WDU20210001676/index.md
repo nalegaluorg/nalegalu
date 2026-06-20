@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o kinematografii
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

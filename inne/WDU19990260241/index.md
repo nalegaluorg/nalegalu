@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie substancji chemicznych stwarzających zagrożenie dla zdrowia lub życia.
+# Rozporządzenie Minister Zdrowia i Opieki Społecznej z dnia 18 lutego 1999 r. zmieniające rozporządzenie w sprawie substancji chemicznych stwarzających zagrożenie dla zdrowia lub życia.
 
 | Pole | Wartość |
 |---|---|

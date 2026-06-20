@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o partiach politycznych
+# Ustawa z dnia 27 czerwca 1997 r. o partiach politycznych.
 
 *USTAWA z dnia 27 czerwca 1997 r.*
 
@@ -27,7 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980604) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.pdf) |
 
-Art. 50–59. (pominięte)
 Art. 60 i 61. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
@@ -616,6 +615,8 @@ Art. 60 i 61. (pominięte)
 **Art. 49h.** Do postępowania w sprawach, o których mowa w art. 49b oraz art. 49g, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 50–59.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

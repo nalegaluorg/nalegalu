@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności leczniczej
+# Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-01 |
 | Ostatnia zmiana | 2026-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111120654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.pdf) |
-
-Art. 123–189. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1556,19 +1554,7 @@ Art. 123–189. (pominięte)
 
 5. Do wynagrodzenia za pracę w ramach pełnienia dyżuru medycznego stosuje się odpowiednio przepisy art. 151 § 1–3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
-6. Zasad wynagradzania, o których mowa w przepisach art. 151 § 1–3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, nie stosuje się do lekarzy stażystów, których zasady wynagradzania określają odrębne przepisy. [Art. 96. 1. Pracownicy, o których mowa w art. 95 ust. 1 i 1a, mogą być, po wyrażeniu na to zgody na piśmie, zobowiązani do pracy w wymiarze przekraczającym przeciętnie 48 godzin na tydzień w przyjętym okresie rozliczeniowym. Przepisu art. 151 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy nie stosuje się.
-
-2. Okres rozliczeniowy, o którym mowa w ust. 1, nie może być dłuższy niż 4 miesiące.
-
-3. Pracodawca jest obowiązany prowadzić i przechowywać ewidencję czasu pracy pracowników, o których mowa w ust. 1, oraz udostępniać ją organom właściwym do sprawowania nadzoru i kontroli nad przestrzeganiem prawa pracy, które mogą, z powodów związanych z bezpieczeństwem lub zdrowiem pracowników, a także w celu zapewnienia właściwego poziomu udzielania świadczeń zdrowotnych, zakazać albo ograniczyć możliwość wydłużenia maksymalnego tygodniowego wymiaru czasu pracy.
-
-4. Pracodawca nie może podejmować działań dyskryminujących wobec pracowników, którzy nie wyrazili zgody, o której mowa w ust. 1.
-
-5. Pracodawca jest obowiązany dostarczać organom, o których mowa w ust. 3, na ich wniosek, informacje o przypadkach, w których pracownicy wyrazili zgodę w celu wykonywania pracy w wymiarze przekraczającym 48 godzin na tydzień w przyjętym okresie rozliczeniowym, o którym mowa w ust. 2.
-
-6. Pracownik może cofnąć zgodę na pracę w wymiarze przekraczającym 48 godzin na tydzień w przyjętym okresie rozliczeniowym, informując o tym pracodawcę na piśmie, z zachowaniem miesięcznego okresu wypowiedzenia.
-
-7. Do wynagrodzenia za pracę w wymiarze przekraczającym przeciętnie 48 godzin na tydzień w przyjętym okresie rozliczeniowym stosuje się odpowiednio art. 151 § 1–3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.]
+6. Zasad wynagradzania, o których mowa w przepisach art. 151 § 1–3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, nie stosuje się do lekarzy stażystów, których zasady wynagradzania określają odrębne przepisy.
 
 **Art. 97.**
 
@@ -2185,6 +2171,8 @@ Art. 123–189. (pominięte)
 7. Minister Obrony Narodowej, Minister Sprawiedliwości, minister właściwy do spraw wewnętrznych lub Szef Agencji Bezpieczeństwa Wewnętrznego, każdy w zakresie swojego działania, przeprowadzają kontrolę, o której mowa w art. 118 i art. 119, w sposób i w trybie określonych w rozporządzeniu wydanym na podstawie ust. 6.
 
 ### DZIAŁ VII Zmiany w przepisach obowiązujących
+
+**Art. 123–189.** (pominięte)
 
 ### DZIAŁ VIII Przepisy przejściowe, dostosowujące i końcowe
 

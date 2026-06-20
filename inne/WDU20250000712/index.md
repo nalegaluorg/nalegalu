@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Centralnym Biurze Antykorupcyjnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Biurze Antykorupcyjnym
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-02 |
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000712) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/712/text.pdf) |
-
-Art. 141–210. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -237,7 +235,11 @@ Art. 141–210. (pominięte)
 
 2. Funkcjonariusze CBA wykonujący zadania w zakresie przeprowadzania doprowadzenia lub konwoju, jeżeli jest to niezbędne do zapewnienia bezpieczeństwa tego doprowadzenia lub konwoju, mają prawo wydawania poleceń określonego zachowania się.
 
-3. Do wykonywania zadań w zakresie przeprowadzania doprowadzenia lub konwoju stosuje się przepisy art. 15. Art. 14aa. 1. Kontrola osobista polega na sprawdzeniu:
+3. Do wykonywania zadań w zakresie przeprowadzania doprowadzenia lub konwoju stosuje się przepisy art. 15.
+
+**Art. 14aa.**
+
+1. Kontrola osobista polega na sprawdzeniu:
 
 - **1)** zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
 - **2)** zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
@@ -289,7 +291,11 @@ Art. 141–210. (pominięte)
 
 14. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa.
 
-15. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 14ab. 1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+15. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 14ab.**
+
+1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
 
 - **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
 - **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
@@ -316,7 +322,13 @@ Art. 141–210. (pominięte)
 
 12. W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków, przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
 
-13. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego. Art. 14ac. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 14aa ust. 10 i 13 oraz art. 14ab ust. 10 i 12, a także wzory protokołów, o których mowa w art. 14aa ust. 9 i art. 14ab ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności. Art. 14ad. 1. Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 30a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań CBA, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań CBA, jest obowiązany niezwłocznie powiadomić o tym Policję.
+13. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+**Art. 14ac.** Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 14aa ust. 10 i 13 oraz art. 14ab ust. 10 i 12, a także wzory protokołów, o których mowa w art. 14aa ust. 9 i art. 14ab ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+**Art. 14ad.**
+
+1. Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 30a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań CBA, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań CBA, jest obowiązany niezwłocznie powiadomić o tym Policję.
 
 2. Od obowiązków, o których mowa w ust. 1, funkcjonariusz może odstąpić, w przypadku wykonywania czynności określonych w art. 19 ust. 1 ustawy.
 
@@ -2402,6 +2414,8 @@ Art. 141–210. (pominięte)
 **Art. 140.** Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy, w tym obieg dokumentów związanych z postępowaniem dyscyplinarnym, prostowanie błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 141–210.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Karta Nauczyciela
+# Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy - Karta Nauczyciela
 
 *USTAWA z dnia 23 sierpnia 2007 r.*
 

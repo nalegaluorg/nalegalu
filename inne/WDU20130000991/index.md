@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 26 lipca 2013 r.*
 

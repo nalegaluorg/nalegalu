@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-12-02 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1675/text.pdf) |
-
-Art. 55–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1467,7 +1465,11 @@ Art. 55–63. (pominięte)
 - **10)** nakaz lub zakaz przebywania w określonych miejscach i obiektach oraz na określonych obszarach;
 - **11)** zakaz opuszczania strefy zero przez osoby chore i podejrzane o zachorowanie;
 - **12)** nakaz określonego sposobu przemieszczania się;
-- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu. Art. 46ba. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta. Art. 46bb. Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
+- **13)** nakaz zakrywania ust i nosa, w określonych okolicznościach, miejscach i obiektach oraz na określonych obszarach, wraz ze sposobem realizacji tego nakazu.
+
+**Art. 46ba.** W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, uproszczone rodzaje i zakres dokumentacji medycznej, uproszczony sposób jej przetwarzania oraz skrócony okres przechowywania, obowiązujące od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii, uwzględniając konieczność szybkiego i skutecznego podejmowania działań zapobiegających szerzeniu się epidemii oraz ochrony danych i informacji dotyczących stanu zdrowia pacjenta.
+
+**Art. 46bb.** Nieprzestrzeganie obowiązku, o którym mowa w art. 46b pkt 13, stanowi uzasadnioną przyczynę odmowy sprzedaży, o której mowa w art. 135 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734).
 
 **Art. 46c.**
 
@@ -1564,7 +1566,7 @@ Art. 55–63. (pominięte)
 - **4)** inwalidzi i osoby z orzeczonymi chorobami przewlekłymi, na których przebieg ma wpływ zakażenie lub zachorowanie na chorobę zakaźną będącą przyczyną epidemii lub orzeczona choroba przewlekła ma wpływ na przebieg lub zachorowanie na chorobę zakaźną;
 - **5)** osoby, o których mowa w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624), oraz posłowie i senatorowie Rzeczypospolitej Polskiej.
 
-3a. W przypadku gdy dziecko w wieku do 18 lat jest wychowywane przez dwoje osób, którym przysługuje władza rodzicielska, do pracy przy zwalczaniu epidemii może zostać skierowana wyłącznie jedna z nich. [3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, wydaje lekarz, o którym mowa w art. 14 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).] <3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+3a. W przypadku gdy dziecko w wieku do 18 lat jest wychowywane przez dwoje osób, którym przysługuje władza rodzicielska, do pracy przy zwalczaniu epidemii może zostać skierowana wyłącznie jedna z nich. [3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, wydaje lekarz, o którym mowa w art. 14 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159).] <3b. Orzeczenie w sprawie choroby, o której mowa w ust. 3 pkt 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).
 
 4. Decyzję o skierowaniu do pracy przy zwalczaniu epidemii na terenie województwa, w którym osoba skierowana posiada miejsce pobytu lub jest zatrudniona, wydaje właściwy wojewoda, a w razie skierowania do pracy na obszarze innego województwa – minister właściwy do spraw zdrowia.
 
@@ -1765,6 +1767,8 @@ Art. 55–63. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
+**Art. 55–63.** (pominięte)
+
 **Art. 64.** Ilekroć w obowiązujących przepisach jest mowa o ustawie o chorobach zakaźnych i zakażeniach, należy przez to rozumieć niniejszą ustawę.
 
 **Art. 65.** Badania laboratoryjne osób, o których mowa w art. 6 ust. 1, mogą przeprowadzać laboratoria, o których mowa w art. 7 ust. 4, które nie uzyskały akredytacji na podstawie ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, jednak nie dłużej niż do dnia 31 grudnia 2009 r.
@@ -1781,9 +1785,8 @@ Art. 55–63. (pominięte)
 
 **Art. 69.** Traci moc ustawa z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. poz. 1384, z późn. zm. ).
 
-**Art. 70.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 9, który wchodzi w życie z dniem 1 stycznia 2010 r. Załącznik do ustawy z dnia 5 grudnia 2008 r. (Dz. U. z 2025 r. poz.
+**Art. 70.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 9, który wchodzi w życie z dniem 1 stycznia 2010 r. Załącznik do ustawy z dnia 5 grudnia 2008 r. (Dz. U. z 2025 r. poz. 1675)
 
-- **1675)**
 - **1)** (uchylony)
 - **2)** bąblowica i wągrzyca;
 - **3)** biegunki o etiologii infekcyjnej lub nieustalonej u dzieci do lat 2;

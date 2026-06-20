@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny wykonawczy
+# Ustawa z dnia 29 czerwca 2000 r. o zmianie ustawy - Kodeks karny wykonawczy.
 
 *USTAWA z dnia 29 czerwca 2000 r.*
 

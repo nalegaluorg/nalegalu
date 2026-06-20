@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o indywidualnych kontach emerytalnych oraz ustawy o pracowniczych programach emerytalnych
+# Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy o indywidualnych kontach emerytalnych oraz ustawy o pracowniczych programach emerytalnych
 
 *USTAWA z dnia 17 grudnia 2009 r.*
 

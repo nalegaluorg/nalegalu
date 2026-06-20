@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej
+# Ustawa z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej
 
 *USTAWA z dnia 10 marca 2006 r.*
 

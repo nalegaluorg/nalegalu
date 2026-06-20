@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług, ustawy o zasadach ewidencji i identyfikacji podatników i płatników oraz ustawy o transporcie drogowym
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o podatku od towarów i usług, ustawy o zasadach ewidencji i identyfikacji podatników i płatników oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 9 czerwca 2011 r.*
 

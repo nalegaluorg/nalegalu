@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Sanitarnej
+# Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej.
 
 *USTAWA z dnia 26 czerwca 1997 r.*
 

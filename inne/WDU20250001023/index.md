@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geologiczne i górnicze
+# Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy - Prawo geologiczne i górnicze
 
 *USTAWA z dnia 25 czerwca 2025 r.*
 

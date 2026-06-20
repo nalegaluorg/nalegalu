@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych, ustawy o Krajowej Radzie Sądownictwa oraz ustawy o Sądzie Najwyższym
+# Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Krajowej Radzie Sądownictwa oraz ustawy o Sądzie Najwyższym
 
 *USTAWA z dnia 12 kwietnia 2018 r.*
 

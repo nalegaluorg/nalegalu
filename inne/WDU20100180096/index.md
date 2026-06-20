@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
+# Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
 
 *USTAWA z dnia 19 listopada 2009 r.*
 

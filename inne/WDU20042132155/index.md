@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rachunkowości oraz o zmianie ustawy o biegłych rewidentach i ich samorządzie
+# Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o rachunkowości oraz o zmianie ustawy o biegłych rewidentach i ich samorządzie
 
 *USTAWA z dnia 27 sierpnia 2004 r.*
 

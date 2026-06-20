@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej
+# Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 28 lipca 2005 r.*
 

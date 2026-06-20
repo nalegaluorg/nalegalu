@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
+# Ustawa z dnia 11 września 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 września 2019 r.*
 
@@ -872,7 +872,11 @@ source: pdf
 - **94)** po art. 168e dodaje się art. 168ea i art. 168eb w brzmieniu: „Art. 168ea. W przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej karę pieniężną, o której mowa w art. 168d i art. 168e, nakłada się na pracownika bezpośrednio odpowiedzialnego za odpowiednio udzielenie informacji lub wyjaśnień albo realizację zajęcia, a w przypadku braku takiego pracownika na:
 - **1)** kierownika,
 - **2)** członka zarządu w spółce prawa handlowego,
-- **3)** wspólnika w spółce cywilnej – bezpośrednio odpowiedzialnego za wykonanie obowiązku, o którym mowa w art. 168d i art. 168e. Art. 168eb. § 1. Postanowienie w sprawie nałożenia kary pieniężnej, o której mowa w art. 168d i art. 168e, wydaje organ egzekucyjny.
+- **3)** wspólnika w spółce cywilnej – bezpośrednio odpowiedzialnego za wykonanie obowiązku, o którym mowa w art. 168d i art. 168e.
+
+**Art. 168eb.**
+
+§ 1. Postanowienie w sprawie nałożenia kary pieniężnej, o której mowa w art. 168d i art. 168e, wydaje organ egzekucyjny.
 
 § 2. Na postanowienie o nałożeniu kary pieniężnej przysługuje zażalenie.”.
 

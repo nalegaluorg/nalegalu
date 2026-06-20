@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz ustawy o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz o zmianie ustawy o związkach zawodowych
+# Ustawa z dnia 3 grudnia 1998 r. o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz ustawy o zmianie ustawy o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego oraz o zmianie ustawy o związkach zawodowych.
 
 *USTAWA z dnia 3 grudnia 1998 r.*
 

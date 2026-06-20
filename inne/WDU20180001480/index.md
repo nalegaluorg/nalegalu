@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o tachografach
+# Ustawa z dnia 5 lipca 2018 r. o tachografach
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-08-03 |
 | Ostatnia zmiana | 2026-01-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001480) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1480/text.pdf) |
-
-Art. 58–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1026,6 +1024,8 @@ Art. 58–62. (pominięte)
 **Art. 57a.** Grzywny, o których mowa w art. 57, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 58–62.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

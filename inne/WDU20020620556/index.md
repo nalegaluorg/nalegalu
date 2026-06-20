@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o europejskich radach zakładowych
+# Ustawa z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych.
 
 *USTAWA z dnia 5 kwietnia 2002 r.*
 

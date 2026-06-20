@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

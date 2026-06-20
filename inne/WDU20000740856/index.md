@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restrukturyzacji finansowej górnictwa siarki
+# Ustawa z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki.
 
 *USTAWA z dnia 14 lipca 2000 r.*
 

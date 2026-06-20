@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
 
 *USTAWA z dnia 25 kwietnia 2008 r.*
 
@@ -110,9 +110,7 @@ source: pdf
 
 7. W przypadku zbywania udziałów w kapitale zakładowym PKP PR wspólnikom tej spółki przysługuje prawo pierwokupu. W razie niezrealizowania prawa pierwokupu przez wspólników prawo pierwokupu przysługuje Skarbowi Państwa. Szczegółowe zasady oraz terminy wykonywania prawa pierwokupu przez wspólników i Skarb Państwa określi umowa spółki.”.
 
-**Art. 2.** Dotacja, o której mowa w art. 33m ustawy wymienionej w art. 1, wypłacana jest ze środków, o których mowa w art. 5 ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251 oraz z 2007 r. Nr 23, poz.
-
-- **136)** .
+**Art. 2.** Dotacja, o której mowa w art. 33m ustawy wymienionej w art. 1, wypłacana jest ze środków, o których mowa w art. 5 ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251 oraz z 2007 r. Nr 23, poz. 136).
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

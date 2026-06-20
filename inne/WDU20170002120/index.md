@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
+# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
 
 *USTAWA z dnia 29 września 2017 r.*
 

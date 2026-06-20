@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach detektywistycznych
+# Ustawa z dnia 26 listopada 2010 r. o zmianie ustawy o usługach detektywistycznych
 
 *USTAWA z dnia 26 listopada 2010 r.*
 

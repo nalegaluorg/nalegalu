@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2021 r.*
 
@@ -50,10 +50,14 @@ source: pdf
 - **7)** po art. 7h dodaje się art. 7ha i art. 7hb w brzmieniu: „Art. 7ha. Organ podatkowy, który wydał WIA, może, w drodze decyzji, z urzędu lub na wniosek podmiotu, na rzecz którego WIA została wydana, zmienić WIA, jeżeli stwierdzi, że nie jest zgodna z przepisami prawa w wyniku:
 - **1)** zmiany przepisów wstępnych, uwag lub uwag dodatkowych do sekcji lub działów w Nomenklaturze Scalonej (CN);
 - **2)** przyjęcia przez Komisję Europejską środków w celu określenia klasyfikacji taryfowej towarów;
-- **3)** utraty zgodności z interpretacją Nomenklatury Scalonej (CN) wynikającą z: w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej, z 1978 r. poz. 43). Art. 7hb. 1. Organ podatkowy, na wniosek podmiotu, na rzecz którego WIA została wydana, złożony nie później niż 3 miesiące przed upływem okresu jej ważności, o którym mowa w art. 7d ust. 4, może, w drodze decyzji, przedłużyć okres ważności WIA na kolejne okresy, nie dłuższe niż 5 lat.
+- **3)** utraty zgodności z interpretacją Nomenklatury Scalonej (CN) wynikającą z: w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej, z 1978 r. poz. 43).
     - **a)** not wyjaśniających, o których mowa w art. 9 ust. 1 lit. a tiret drugie rozporządzenia Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r.
     - **b)** orzecznictwa sądów lub wyroku Trybunału Sprawiedliwości Unii Europejskiej,
     - **c)** decyzji klasyfikacyjnych, opinii klasyfikacyjnych lub zmian not wyjaśniających do Nomenklatury Zharmonizowanego Systemu Oznaczania i Kodowania Towarów, przyjętej przez organizację ustanowioną na mocy Konwencji o utworzeniu Rady Współpracy Celnej, sporządzonej w Brukseli dnia 15 grudnia 1950 r. (Dz. U.
+
+**Art. 7hb.**
+
+1. Organ podatkowy, na wniosek podmiotu, na rzecz którego WIA została wydana, złożony nie później niż 3 miesiące przed upływem okresu jej ważności, o którym mowa w art. 7d ust. 4, może, w drodze decyzji, przedłużyć okres ważności WIA na kolejne okresy, nie dłuższe niż 5 lat.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 

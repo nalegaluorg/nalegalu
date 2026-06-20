@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach pielęgniarki i położnej
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o zawodach pielęgniarki i położnej
 
 *USTAWA z dnia 26 lipca 2013 r.*
 

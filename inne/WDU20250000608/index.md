@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie farmaceuty
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie farmaceuty
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 styczn
 Marszałek Sejmu: wz. P. Zgorzelski
 USTAWA z dnia 10 grudnia 2020 r.
 o zawodzie farmaceuty
-Art. 82–86. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1648,6 +1647,8 @@ Art. 82–86. (pominięte)
 2. Jeżeli sprawca działa nieumyślnie, podlega grzywnie.
 
 #### Rozdział 7 Przepisy zmieniające
+
+**Art. 82–86.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

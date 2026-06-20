@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
+# Ustawa z dnia 6 lipca 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 lipca 2007 r.*
 

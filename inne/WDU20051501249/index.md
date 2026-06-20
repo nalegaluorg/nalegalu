@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
+# Ustawa z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
 
 *USTAWA z dnia 7 lipca 2005 r.*
 

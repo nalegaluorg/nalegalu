@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy o bezpieczeństwie morskim
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz ustawy o bezpieczeństwie morskim
 
 *USTAWA z dnia 16 października 2019 r.*
 

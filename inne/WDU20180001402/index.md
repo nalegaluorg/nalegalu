@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
+# Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
 
 *USTAWA z dnia 6 czerwca 2018 r.*
 

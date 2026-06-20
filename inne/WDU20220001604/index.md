@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie morskim oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o bezpieczeństwie morskim oraz ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
 
 *USTAWA z dnia 7 lipca 2022 r.*
 

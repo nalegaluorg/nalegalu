@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r.
+# Ustawa z dnia 5 marca 2010 r. o zmianie zakresu obowiązywania Europejskiej Karty Społecznej sporządzonej w Turynie dnia 18 października 1961 r.
 
 *USTAWA z dnia 5 marca 2010 r.*
 

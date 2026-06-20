@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 24 kwietnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym oraz ustawy o samorządzie województwa
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o samorządzie powiatowym oraz ustawy o samorządzie województwa
 
 *USTAWA z dnia 9 marca 2023 r.*
 

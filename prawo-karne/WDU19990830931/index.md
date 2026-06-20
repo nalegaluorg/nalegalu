@@ -165,7 +165,7 @@ source: pdf
 
 § 2. Do czasu wydania przepisów wykonawczych przewidzianych w Kodeksie karnym skarbowym, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie Kodeksu karnego skarbowego, pozostają w mocy dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, o której mowa w art. 2, w zakresie, w jakim nie są one sprzeczne z przepisami Kodeksu karnego skarbowego.
 
-**Art. 15.** W razie wątpliwości, czy stosować przepisy Kodeksu karnego skarbowego, czy przepisy dotychczasowe, stosuje się przepisy Kodeksu karnego skarbowego. [Art. 15a. Do czynów zabronionych określonych w art. 85-96 § 1 Kodeksu karnego skarbowego, popełnionych przed dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, stosuje się przepisy dotychczasowe.]
+**Art. 15.** W razie wątpliwości, czy stosować przepisy Kodeksu karnego skarbowego, czy przepisy dotychczasowe, stosuje się przepisy Kodeksu karnego skarbowego.
 
 **Art. 16.** W zakresie przedsięwzięć wdrożeniowych związanych z organizowaniem nowych jednostek organizacyjnych sądów powszechnych właściwych w sprawach karnych skarbowych nie stosuje się w 1999 r. ograniczeń dotyczących przeniesień wydatków określonych w art. 96 ust. 2 i 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014 oraz z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485 i Nr 70, poz. 778).
 

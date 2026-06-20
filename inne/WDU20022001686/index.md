@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o giełdach towarowych
+# Ustawa z dnia 30 października 2002 r. o zmianie ustawy o giełdach towarowych.
 
 *USTAWA z dnia 30 października 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centrum Badań i Certyfikacji.
+# Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 15 kwietnia 1999 r. zmieniające rozporządzenie w sprawie zasad wynagrodzenia pracowników Polskiego Centrum Badań i Certyfikacji.
 
 | Pole | Wartość |
 |---|---|

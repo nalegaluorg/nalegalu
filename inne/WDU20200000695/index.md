@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
+# Ustawa z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
 
 *USTAWA z dnia 16 kwietnia 2020 r.*
 
@@ -157,7 +157,9 @@ source: pdf
 
 - **1)** przedsiębiorców, którym udzielono w danym kwartale wsparcia, wraz z informacją o wysokości udzielonego wsparcia;
 - **2)** przedsiębiorców, którym odmówiono w danym kwartale udzielenia wsparcia z przyczyn formalnych lub merytorycznych i odrzucono wniosek;
-- **3)** realizacji w danym kwartale umów wsparcia przez beneficjentów. Art. 13–75. (pominięte)
+- **3)** realizacji w danym kwartale umów wsparcia przez beneficjentów.
+
+**Art. 13–75.** (pominięte)
 
 **Art. 76.**
 

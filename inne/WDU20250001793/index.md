@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy - Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece
 
 *USTAWA z dnia 21 listopada 2025 r.*
 

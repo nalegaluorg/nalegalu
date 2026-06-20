@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
 
 | Pole | Wartość |
 |---|---|

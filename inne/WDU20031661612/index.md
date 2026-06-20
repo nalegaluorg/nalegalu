@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o urzędowych nazwach miejscowości i obiektów fizjograficznych
+# Ustawa z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
 
 *USTAWA z dnia 29 sierpnia 2003 r.*
 

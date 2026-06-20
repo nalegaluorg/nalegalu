@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

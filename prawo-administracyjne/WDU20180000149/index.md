@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Kodeks postępowania administracyjnego oraz ustawy o zmianie niektórych ustaw w celu ułatwienia dochodzenia wierzytelności
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Kodeks postępowania administracyjnego oraz ustawy o zmianie niektórych ustaw w celu ułatwienia dochodzenia wierzytelności
 
 *USTAWA z dnia 10 stycznia 2018 r.*
 

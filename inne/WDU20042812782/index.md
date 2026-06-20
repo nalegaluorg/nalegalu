@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o portach i przystaniach morskich oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o portach i przystaniach morskich oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 grudnia 2004 r.*
 

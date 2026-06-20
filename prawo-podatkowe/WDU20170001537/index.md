@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa, ustawy o finansach publicznych oraz ustawy – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy - Ordynacja podatkowa, ustawy o finansach publicznych oraz ustawy - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 20 lipca 2017 r.*
 

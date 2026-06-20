@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
+# Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-09-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112081241) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1241/text.pdf) |
-
-Art. 47–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -581,6 +579,8 @@ Art. 47–51. (pominięte)
 **Art. 46.** Postępowanie w sprawach określonych w art. 45 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Przepisy zmieniające, przejściowe i końcowe
+
+**Art. 47–51.** (pominięte)
 
 **Art. 52.** W okresie roku od dnia wejścia w życie niniejszej ustawy ratownictwo narciarskie może wykonywać ratownik, ratownik medyczny, lekarz systemu, pielęgniarka systemu w rozumieniu przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym lub osoba posiadająca ważne zaświadczenie o ukończeniu kursu w zakresie kwalifikowanej pierwszej pomocy.
 

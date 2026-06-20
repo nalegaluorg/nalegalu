@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o cmentarzach i chowaniu zmarłych.
+# Ustawa z dnia 14 czerwca 1991 r. o zmianie ustawy o cmentarzach i chowaniu zmarłych.
 
 | Pole | Wartość |
 |---|---|

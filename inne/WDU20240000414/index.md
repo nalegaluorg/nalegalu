@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Sieci Onkologicznej
+# Ustawa z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologicznej
 
 *USTAWA z dnia 22 lutego 2024 r.*
 

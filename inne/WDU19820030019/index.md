@@ -395,7 +395,13 @@ source: pdf
 - **3)** w stosunku do organu sprawującego nadzór pedagogiczny – właściwy minister;
 - **4)** w stosunku do kuratora oświaty – minister właściwy do spraw oświaty i wychowania.
 
-**Art. 9c.** (uchylony) Art. 9ca. 1. Nauczyciel, o którym mowa w art. 9a ust. 2, odbywa przygotowanie do zawodu nauczyciela w wymiarze 3 lat i 9 miesięcy. 2. Nauczyciel, o którym mowa w art. 9a ust. 2, który:
+**Art. 9c.** (uchylony)
+
+**Art. 9ca.**
+
+1. Nauczyciel, o którym mowa w art. 9a ust. 2, odbywa przygotowanie do zawodu nauczyciela w wymiarze 3 lat i 9 miesięcy.
+
+2. Nauczyciel, o którym mowa w art. 9a ust. 2, który:
 
 - **1)** posiada stopień naukowy lub
 - **2)** przed nawiązaniem stosunku pracy w szkole w Rzeczypospolitej Polskiej prowadził zajęcia w szkole za granicą – może odbyć przygotowanie do zawodu nauczyciela w wymiarze 2 lat i 9 miesięcy.
@@ -460,7 +466,11 @@ source: pdf
 
 **Art. 9e.** (uchylony)
 
-**Art. 9f.** (uchylony) Art. 9fa. 1. Przed dokonaniem oceny pracy, o której mowa w art. 6a ust. 1da pkt 1, nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze co najmniej 1 godziny, w obecności:
+**Art. 9f.** (uchylony)
+
+**Art. 9fa.**
+
+1. Przed dokonaniem oceny pracy, o której mowa w art. 6a ust. 1da pkt 1, nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze co najmniej 1 godziny, w obecności:
 
 - **1)** dyrektora szkoły;
 - **2)** mentora, o którym mowa w art. 9ca ust. 11;
@@ -472,9 +482,7 @@ source: pdf
 
 4. Po przeprowadzeniu zajęć, o których mowa w ust. 1, osoby obecne podczas przeprowadzania zajęć omawiają je z nauczycielem.
 
-5. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel, który w tym okresie uzyskał co najmniej dobrą ocenę pracy, jest obowiązany przeprowadzić zajęcia, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. <5a. W przypadku nauczyciela psychologa realizującego przygotowanie do zawodu nauczyciela zajęcia, o których mowa w ust. 1 i 5, nie mogą być zajęciami realizowanymi indywidualnie z uczniami, jeżeli w ramach tych zajęć może być naruszona tajemnica, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz.
-
-- **187)** .>
+5. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel, który w tym okresie uzyskał co najmniej dobrą ocenę pracy, jest obowiązany przeprowadzić zajęcia, w wymiarze 1 godziny, w obecności komisji powołanej przez dyrektora szkoły. <5a. W przypadku nauczyciela psychologa realizującego przygotowanie do zawodu nauczyciela zajęcia, o których mowa w ust. 1 i 5, nie mogą być zajęciami realizowanymi indywidualnie z uczniami, jeżeli w ramach tych zajęć może być naruszona tajemnica, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).
 
 6. W skład komisji, o której mowa w ust. 5, wchodzą:
 
@@ -878,7 +886,11 @@ source: pdf
 
 6b. Jeżeli nauczyciel szkoły w Rzeczypospolitej Polskiej, szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkoły lub zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, lub szkoły europejskiej posiadający stopień nauczyciela mianowanego rozpocznie prowadzenie zajęć w szkole za granicą, do okresu, o którym mowa w art. 9m ust. 4 i 5, wlicza się okres zatrudnienia w szkole w Rzeczypospolitej Polskiej od dnia nadania stopnia nauczyciela mianowanego, w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, zgodnie z wymaganymi kwalifikacjami, z wyjątkiem okresów nieobecności nauczyciela w pracy trwającej nieprzerwanie dłużej niż 30 dni.
 
-7. Nauczyciel szkoły za granicą może przerwać przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela na swój wniosek w każdym czasie. W przypadku przerwy trwającej nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela ulega przedłużeniu o czas przerwy. W przypadku przerwy trwającej nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela albo dodatkowego przygotowania do zawodu nauczyciela w pełnym wymiarze. Art. 9pa. 1. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze 2 godzin, w obecności komisji powołanej przez ministra właściwego do spraw oświaty i wychowania.
+7. Nauczyciel szkoły za granicą może przerwać przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela na swój wniosek w każdym czasie. W przypadku przerwy trwającej nieprzerwanie dłużej niż miesiąc przygotowanie do zawodu nauczyciela albo dodatkowe przygotowanie do zawodu nauczyciela ulega przedłużeniu o czas przerwy. W przypadku przerwy trwającej nieprzerwanie dłużej niż rok nauczyciel jest obowiązany do ponownego odbycia przygotowania do zawodu nauczyciela albo dodatkowego przygotowania do zawodu nauczyciela w pełnym wymiarze.
+
+**Art. 9pa.**
+
+1. W ostatnim roku odbywania przygotowania do zawodu nauczyciela nauczyciel jest obowiązany przeprowadzić zajęcia, w wymiarze 2 godzin, w obecności komisji powołanej przez ministra właściwego do spraw oświaty i wychowania.
 
 2. W skład komisji, o której mowa w ust. 1, wchodzą:
 
@@ -1108,7 +1120,7 @@ source: pdf
 - **4)** został prawomocnie ukarany karą ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w okresie, w którym obowiązuje to ograniczenie, jeżeli zakres czynności, które objęto ograniczeniem, należałby do zadań nauczyciela psychologa;
 - **5)** został prawomocnie ukarany karą zawieszenia prawa wykonywania zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 5 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w okresie, w którym obowiązuje zawieszenie prawa wykonywania zawodu psychologa.
 
-8d. W celu potwierdzenia spełniania warunków, o których mowa w ust. 8c, nauczyciel psycholog, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły zaświadczenie z rejestru, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, z wyjątkiem przypadku gdy z nauczycielem jest nawiązywany kolejny stosunek pracy w tej samej szkole w ciągu 3 miesięcy od dnia rozwiązania albo wygaśnięcia na podstawie art. 20 ust. 5c poprzedniego stosunku pracy.>
+8d. W celu potwierdzenia spełniania warunków, o których mowa w ust. 8c, nauczyciel psycholog, przed nawiązaniem stosunku pracy, jest obowiązany przedstawić dyrektorowi szkoły zaświadczenie z rejestru, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, z wyjątkiem przypadku gdy z nauczycielem jest nawiązywany kolejny stosunek pracy w tej samej szkole w ciągu 3 miesięcy od dnia rozwiązania albo wygaśnięcia na podstawie art. 20 ust. 5c poprzedniego stosunku pracy.
 
 9. W przypadku, o którym mowa w ust. 7, jeżeli nie ma możliwości zatrudnienia osoby posiadającej wymagane kwalifikacje, można za zgodą organu sprawującego nadzór pedagogiczny zatrudnić nauczyciela, który nie spełnia warunku wymienionego w ust. 5 pkt 5.
 
@@ -1387,7 +1399,7 @@ source: pdf
 - **4)** upływu trzymiesięcznego okresu odbywania kary pozbawienia wolności;
 - **5)** stwierdzenia, że nawiązanie stosunku pracy nastąpiło na podstawie fałszywych lub nieważnych dokumentów albo zostało dokonane z naruszeniem warunków określonych w art. 10 ust. 5 pkt 1–5, z zastrzeżeniem art. 10 ust. 9; <6) stwierdzenia, że nawiązanie stosunku pracy z nauczycielem psychologiem nastąpiło z naruszeniem warunków, o których mowa w art. 10 ust. 8c;
 - **7)** skreślenia nauczyciela psychologa z rejestru, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, w przypadkach, o których mowa w art. 14 ust. 1 pkt 2–6, 8 i 9 tej ustawy;
-- **8)** prawomocnego orzeczenia wobec nauczyciela psychologa kary wymienionej w art. 94 ust. 1 pkt 5 albo 6 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.>
+- **8)** prawomocnego orzeczenia wobec nauczyciela psychologa kary wymienionej w art. 94 ust. 1 pkt 5 albo 6 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów.
 
 2. Wygaśnięcie stosunku pracy w przypadkach określonych w ust. 1 stwierdza dyrektor szkoły, a w stosunku do dyrektora szkoły – organ prowadzący szkołę.
 
@@ -1424,9 +1436,11 @@ source: pdf
 
 - **1)** w przypadku uzyskania przez nauczyciela prawa do renty z tytułu całkowitej niezdolności do pracy;
 - **2)** w przypadkach, o których mowa w art. 20 ust. 1 pkt 1 i art. 23 ust. 1 pkt 5;
-- **3)** w przypadkach, o których mowa w art. 20 ust. 1 pkt 2, jeżeli nie jest możliwe: <Art. 28c. Stosunek pracy z nauczycielem psychologiem ulega rozwiązaniu, bez wypowiedzenia, w razie prawomocnego orzeczenia kary ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli zakres czynności, które objęto ograniczeniem, należy do zadań nauczyciela psychologa.>
+- **3)** w przypadkach, o których mowa w art. 20 ust. 1 pkt 2, jeżeli nie jest możliwe:
     - **a)** ograniczenie zatrudnienia nauczyciela zatrudnionego na podstawie mianowania w trybie określonym w art. 22 ust. 2 albo nauczyciel nie wyraził na nie zgody,
     - **b)** dalsze zatrudnienie nauczyciela na podstawie umowy o pracę na czas nieokreślony w niższym niż dotychczas wymiarze zajęć albo nauczyciel nie wyraził zgody na zmniejszenie wymiaru zatrudnienia.
+
+**Art. 28c.** Stosunek pracy z nauczycielem psychologiem ulega rozwiązaniu, bez wypowiedzenia, w razie prawomocnego orzeczenia kary ograniczenia zakresu czynności w wykonywaniu zawodu psychologa, o której mowa w art. 94 ust. 1 pkt 4 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli zakres czynności, które objęto ograniczeniem, należy do zadań nauczyciela psychologa.
 
 #### Rozdział 5 Warunki pracy i wynagrodzenie
 
@@ -1615,7 +1629,9 @@ source: pdf
 
 3. Wynagrodzenie wypłacane jest nauczycielowi miesięcznie z góry w pierwszym dniu miesiąca. Jeżeli pierwszy dzień miesiąca jest dniem ustawowo wolnym od pracy, wynagrodzenie wypłacane jest w dniu następnym.
 
-4. Składniki wynagrodzenia, których wysokość może być ustalona jedynie na podstawie już wykonanych prac, wypłaca się miesięcznie lub jednorazowo z dołu do piątego dnia roboczego miesiąca następującego po miesiącu, za który przysługuje to wynagrodzenie. <Art. 39a. Do wynagrodzenia nauczyciela psychologa oraz nauczyciela psychologa pełniącego funkcję dyrektora szkoły w okresie tymczasowego zawieszenia prawa wykonywania zawodu psychologa albo ograniczenia zakresu czynności w wykonywaniu zawodu psychologa na podstawie art. 87 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli w wyniku tego ograniczenia nauczyciel psycholog albo nauczyciel psycholog pełniący funkcję dyrektora szkoły nie świadczy pracy, stosuje się odpowiednio art. 85u.>
+4. Składniki wynagrodzenia, których wysokość może być ustalona jedynie na podstawie już wykonanych prac, wypłaca się miesięcznie lub jednorazowo z dołu do piątego dnia roboczego miesiąca następującego po miesiącu, za który przysługuje to wynagrodzenie.
+
+**Art. 39a.** Do wynagrodzenia nauczyciela psychologa oraz nauczyciela psychologa pełniącego funkcję dyrektora szkoły w okresie tymczasowego zawieszenia prawa wykonywania zawodu psychologa albo ograniczenia zakresu czynności w wykonywaniu zawodu psychologa na podstawie art. 87 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów, jeżeli w wyniku tego ograniczenia nauczyciel psycholog albo nauczyciel psycholog pełniący funkcję dyrektora szkoły nie świadczy pracy, stosuje się odpowiednio art. 85u.
 
 **Art. 40.** (uchylony)
 

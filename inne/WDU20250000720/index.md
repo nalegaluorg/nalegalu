@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +39,6 @@ poz. 146), który stanowi: „Art. 76. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 marca 2017 r.
 o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
-Art. 79–83. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1092,6 +1091,8 @@ Art. 79–83. (pominięte)
 **Art. 78.** Kto, wbrew przepisom art. 7 ust. 6, art. 9 ust. 1–3, 5 i 6, art. 10 ust. 1 pkt 13 i ust. 2 oraz art. 18 pkt 3 i 5, prowadzi działalność polegającą na świadczeniu usług dodatkowych, podlega grzywnie do 50 000 zł albo karze pozbawienia wolności do lat 2.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 79–83.** (pominięte)
 
 #### Rozdział 13 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

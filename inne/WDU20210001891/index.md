@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni
 
 *USTAWA z dnia 14 października 2021 r.*
 

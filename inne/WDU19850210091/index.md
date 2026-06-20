@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rybactwie śródlądowym
+# Ustawa z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym.
 
 *USTAWA z dnia 18 kwietnia 1985 r.*
 

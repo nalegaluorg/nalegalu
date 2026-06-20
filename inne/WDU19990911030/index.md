@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1999 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej.
 
 | Pole | Wartość |
 |---|---|

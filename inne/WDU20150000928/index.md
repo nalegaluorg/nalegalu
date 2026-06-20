@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Więziennej
+# Ustawa z dnia 27 maja 2015 r. o zmianie ustawy o Służbie Więziennej
 
 *USTAWA z dnia 27 maja 2015 r.*
 

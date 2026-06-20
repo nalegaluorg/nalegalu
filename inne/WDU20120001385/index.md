@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
+# Ustawa z dnia 24 października 2012 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 października 2012 r.*
 

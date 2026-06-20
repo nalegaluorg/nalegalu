@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt oraz ustawy o Inspekcji Weterynaryjnej
+# Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o systemie identyfikacji i rejestracji zwierząt oraz ustawy o Inspekcji Weterynaryjnej
 
 *USTAWA z dnia 16 lutego 2007 r.*
 

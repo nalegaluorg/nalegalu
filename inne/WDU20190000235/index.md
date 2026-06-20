@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 
@@ -324,7 +324,14 @@ source: pdf
 10. Zarządzający lotniskiem dokonuje wpłaty zaliczki do budżetu koordynatora w łącznej wysokości 30% budżetu koordynatora na podstawie otrzymanej faktury lub innego równoważnego dokumentu.”;
 
 - **41)** w art. 67e ust. 3 otrzymuje brzmienie: „3. Do organizatora rozkładów lotów stosuje się odpowiednio przepisy art. 67b ust. 2 i 4–11, art. 67c oraz art. 67d ust. 1, 2, 5–7, 9 i 10, z zastrzeżeniem że w zakresie art. 67d ust. 2 pkt 1 opłaty są wnoszone przez przewoźników lotniczych za każdą operację wykonaną w czasie obowiązywania organizacji rozkładów lotów.”;
-- **42)** po art. 67fa dodaje się art. 67fb–67fd w brzmieniu: „Art. 67fb. Zarządzający lotniskiem w porozumieniu z koordynatorem lub organizatorem rozkładów lotów przed każdym sezonem rozkładowym wyznacza parametry koordynacyjne, z uwzględnieniem przepisów rozporządzenia nr 95/93/WE, i przekazuje je koordynatorowi lub organizatorowi rozkładów lotów. Art. 67fc. Prezes Urzędu może zarezerwować czasy na start lub lądowanie w przypadkach, o których mowa w art. 9 rozporządzenia nr 95/93/WE. Art. 67fd. 1. Dotychczasowy koordynator albo organizator rozkładów lotów jest obowiązany, w ciągu 30 dni od dnia powołania nowego koordynatora albo organizatora rozkładów lotów, przekazać nieodpłatnie odpowiednio koordynatorowi albo organizatorowi rozkładów lotów posiadane przez siebie dane, w tym co najmniej odpowiednio:
+- **42)** po art. 67fa dodaje się art. 67fb–67fd w brzmieniu: „Art. 67fb. Zarządzający lotniskiem w porozumieniu z koordynatorem lub organizatorem rozkładów lotów przed każdym sezonem rozkładowym wyznacza parametry koordynacyjne, z uwzględnieniem przepisów rozporządzenia nr 95/93/WE, i przekazuje je koordynatorowi lub organizatorowi rozkładów lotów.
+
+**Art. 67fc.** Prezes Urzędu może zarezerwować czasy na start lub lądowanie w przypadkach, o których mowa w art. 9 rozporządzenia nr 95/93/WE.
+
+**Art. 67fd.**
+
+1. Dotychczasowy koordynator albo organizator rozkładów lotów jest obowiązany, w ciągu 30 dni od dnia powołania nowego koordynatora albo organizatora rozkładów lotów, przekazać nieodpłatnie odpowiednio koordynatorowi albo organizatorowi rozkładów lotów posiadane przez siebie dane, w tym co najmniej odpowiednio:
+
 - **1)** koordynator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z czasami na start lub lądowanie przydzielonymi dla tych operacji, a w przypadku toczącego się procesu koordynacji rozkładów lotów na kolejne sezony – także dane dotyczące otrzymanych zapytań o czasy na start lub lądowanie, przedstawionych przez koordynatora ofert oraz przyznanych czasów na start lub lądowanie,
 - **2)** organizator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z zaleconymi rozkładami lotów oraz dane wspomagające ustalenie przydzielonych i wykorzystanych czasów na start lub lądowanie w przeszłości, pozwalające na sprawdzenie spełnienia warunków, o których mowa w art. 8 ust. 2 rozporządzenia nr 95/93/WE – oraz dokumenty niezbędne nowemu koordynatorowi albo organizatorowi rozkładów lotów w celu skutecznej koordynacji albo organizacji rozkładów lotów. Forma przekazania i format danych oraz dokumentów powinny uwzględniać możliwość przetwarzania i dalszego udostępniania tych danych oraz dokumentów przez nowego koordynatora albo organizatora rozkładów lotów.
 
@@ -1362,7 +1369,11 @@ source: pdf
 
 - **114)** po art. 171b dodaje się art. 171ba–171bc w brzmieniu: „Art. 171ba. 1. W przypadku nieprzedłożenia na żądanie Prezesa Urzędu dokumentów, informacji lub oświadczeń potwierdzających spełnianie warunków wymaganych do uzyskania koncesji, Prezes Urzędu wzywa przewoźnika lotniczego do ich przedłożenia we wskazanym przez siebie terminie, a w przypadku ich nieprzedłożenia – zawiesza koncesję do czasu przedstawienia żądanych dokumentów, informacji lub oświadczeń, jednak nie dłużej niż na okres 3 miesięcy.
 
-2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1. Art. 171bb. Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 171bc. Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.”;
+2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1.
+
+**Art. 171bb.** Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 171bc.** Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.”;
 
 - **115)** art. 172 otrzymuje brzmienie: „Art. 172. Minister właściwy do spraw transportu, w drodze rozporządzenia, określi:
 - **1)** wykaz dokumentów, informacji i oświadczeń potwierdzających spełnianie warunków, o których mowa w rozporządzeniu nr 1008/2008/WE, jakie jest obowiązany przedłożyć:
@@ -1930,9 +1941,31 @@ source: pdf
 
 2. Karę pieniężną, o której mowa w ust. 1, Prezes Urzędu wymierza po uzyskaniu od koordynatora zawiadomienia o naruszeniu, o którym mowa w ust. 1.
 
-3. Do zawiadomienia koordynator dołącza dokumenty potwierdzające naruszenie wraz z opisem naruszenia, o którym mowa w ust. 1. Wymierzając karę pieniężną, o której mowa w ust. 1, Prezes Urzędu bierze pod uwagę stopień szkodliwości naruszenia w stosunku do operacji wykonywanych przez innych użytkowników lotniska oraz liczbę naruszeń, których dopuścił się użytkownik statku powietrznego. Art. 209ue. Członek personelu lotniczego będący posiadaczem licencji wydanej zgodnie z wymaganiami rozporządzenia nr 1178/2011/UE, który wbrew obowiązkowi, o którym mowa w FCL.070 lit. b załącznika I Część FCL do rozporządzenia nr 1178/2011/UE, nie zwrócił Prezesowi Urzędu zawieszonej albo cofniętej licencji, podlega karze pieniężnej w wysokości 750 zł. Art. 209uf. Podmiot inny niż wskazany w art. 28 ust. 5a i 5b, który nie usunął stwierdzonych nieprawidłowości w terminie określonym w protokole kontroli, podlega karze pieniężnej w wysokości od 1000 do 10 000 zł. Art. 209ug. Użytkownik statku powietrznego użytkujący go na podstawie umowy, o której mowa w art. 41 ust. 1, bez zatwierdzenia, o którym mowa w art. 41, podlega karze pieniężnej w wysokości 10 000 zł. Art. 209uh. Podmiot posiadający certyfikat, podmiot, o którym mowa w art. 163c, albo podmiot, o którym mowa w art. 163d, w razie bezskutecznego upływu terminu do przywrócenia stanu zgodnego z przepisami prawa, o którym mowa w art. 161 ust. 5, podlega karze pieniężnej w wysokości 10 000 zł. Art. 209ui. Podmiot prowadzący działalność w zakresie lotnictwa cywilnego, który wbrew przepisom art. 135e ust. 1 pociągnął swojego pracownika do odpowiedzialności z tytułu naruszenia, niewykonania lub nienależytego wykonania obowiązków pracowniczych, o których mowa w przepisach Kodeksu pracy, albo wbrew przepisom art. 135e ust. 2 pociągnął osobę wykonującą dla niego czynności na podstawie umowy cywilnoprawnej do odpowiedzialności z tytułu niewykonania albo nienależytego wykonania zobowiązania z tytułu umowy wzajemnej, w związku ze zgłoszeniem zdarzenia w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w rozporządzeniu nr 376/2014/UE, podlega karze pieniężnej w wysokości 25 000 zł. Art. 209uj. Członek załogi statku powietrznego, który podejmując się wykonywania czynności dla więcej niż jednego podmiotu, narusza obowiązki wynikające z przepisów CAT.GEN.MPA.100 lit. b pkt 4 i 5 załącznika IV, lub NCC.GEN.105 lit. f załącznika VI lub SPO.GEN.105 lit. f załącznika VIII do rozporządzenia nr 965/2012/UE, podlega karze pieniężnej w wysokości do 10 000 zł za każde stwierdzone naruszenie w zależności od liczby godzin przekroczenia limitów czasu pracy. Art. 209uk. 1. Zarządzający lotniskiem, który narusza obowiązki wynikające z rozporządzenia nr 139/2014/UE, podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+3. Do zawiadomienia koordynator dołącza dokumenty potwierdzające naruszenie wraz z opisem naruszenia, o którym mowa w ust. 1. Wymierzając karę pieniężną, o której mowa w ust. 1, Prezes Urzędu bierze pod uwagę stopień szkodliwości naruszenia w stosunku do operacji wykonywanych przez innych użytkowników lotniska oraz liczbę naruszeń, których dopuścił się użytkownik statku powietrznego.
 
-2. Wykaz obowiązków i warunków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5a do ustawy. Art. 209ul. Podmiot, który nie usunął niezgodności stwierdzonych w ramach kontroli, o której mowa w art. 29b ust. 7, dotyczących wykonania obowiązków określonych w art. 188e ust. 1, podlega karze pieniężnej w wysokości do 5000 zł. Art. 209um. 1. Przewoźnik lotniczy, który narusza obowiązki lub warunki wynikające z przepisów art. 23 rozporządzenia nr 1008/2008/WE, podlega karze pieniężnej w wysokości do 20 000 zł.
+**Art. 209ue.** Członek personelu lotniczego będący posiadaczem licencji wydanej zgodnie z wymaganiami rozporządzenia nr 1178/2011/UE, który wbrew obowiązkowi, o którym mowa w FCL.070 lit. b załącznika I Część FCL do rozporządzenia nr 1178/2011/UE, nie zwrócił Prezesowi Urzędu zawieszonej albo cofniętej licencji, podlega karze pieniężnej w wysokości 750 zł.
+
+**Art. 209uf.** Podmiot inny niż wskazany w art. 28 ust. 5a i 5b, który nie usunął stwierdzonych nieprawidłowości w terminie określonym w protokole kontroli, podlega karze pieniężnej w wysokości od 1000 do 10 000 zł.
+
+**Art. 209ug.** Użytkownik statku powietrznego użytkujący go na podstawie umowy, o której mowa w art. 41 ust. 1, bez zatwierdzenia, o którym mowa w art. 41, podlega karze pieniężnej w wysokości 10 000 zł.
+
+**Art. 209uh.** Podmiot posiadający certyfikat, podmiot, o którym mowa w art. 163c, albo podmiot, o którym mowa w art. 163d, w razie bezskutecznego upływu terminu do przywrócenia stanu zgodnego z przepisami prawa, o którym mowa w art. 161 ust. 5, podlega karze pieniężnej w wysokości 10 000 zł.
+
+**Art. 209ui.** Podmiot prowadzący działalność w zakresie lotnictwa cywilnego, który wbrew przepisom art. 135e ust. 1 pociągnął swojego pracownika do odpowiedzialności z tytułu naruszenia, niewykonania lub nienależytego wykonania obowiązków pracowniczych, o których mowa w przepisach Kodeksu pracy, albo wbrew przepisom art. 135e ust. 2 pociągnął osobę wykonującą dla niego czynności na podstawie umowy cywilnoprawnej do odpowiedzialności z tytułu niewykonania albo nienależytego wykonania zobowiązania z tytułu umowy wzajemnej, w związku ze zgłoszeniem zdarzenia w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w rozporządzeniu nr 376/2014/UE, podlega karze pieniężnej w wysokości 25 000 zł.
+
+**Art. 209uj.** Członek załogi statku powietrznego, który podejmując się wykonywania czynności dla więcej niż jednego podmiotu, narusza obowiązki wynikające z przepisów CAT.GEN.MPA.100 lit. b pkt 4 i 5 załącznika IV, lub NCC.GEN.105 lit. f załącznika VI lub SPO.GEN.105 lit. f załącznika VIII do rozporządzenia nr 965/2012/UE, podlega karze pieniężnej w wysokości do 10 000 zł za każde stwierdzone naruszenie w zależności od liczby godzin przekroczenia limitów czasu pracy.
+
+**Art. 209uk.**
+
+1. Zarządzający lotniskiem, który narusza obowiązki wynikające z rozporządzenia nr 139/2014/UE, podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+
+2. Wykaz obowiązków i warunków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5a do ustawy.
+
+**Art. 209ul.** Podmiot, który nie usunął niezgodności stwierdzonych w ramach kontroli, o której mowa w art. 29b ust. 7, dotyczących wykonania obowiązków określonych w art. 188e ust. 1, podlega karze pieniężnej w wysokości do 5000 zł.
+
+**Art. 209um.**
+
+1. Przewoźnik lotniczy, który narusza obowiązki lub warunki wynikające z przepisów art. 23 rozporządzenia nr 1008/2008/WE, podlega karze pieniężnej w wysokości do 20 000 zł.
 
 2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5b do ustawy.”;
 

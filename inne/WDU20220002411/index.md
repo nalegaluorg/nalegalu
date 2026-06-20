@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz ustawy o systemie monitorowania i kontrolowania jakości paliw
+# Ustawa z dnia 27 października 2022 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz ustawy o systemie monitorowania i kontrolowania jakości paliw
 
 *USTAWA z dnia 27 października 2022 r.*
 

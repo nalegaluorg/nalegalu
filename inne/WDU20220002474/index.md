@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych formach wspierania działalności innowacyjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 października 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych formach wspierania działalności innowacyjnej
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +39,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 30 maja 2008 r.
 o niektórych formach wspierania działalności innowacyjnej
-Art. 22–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -422,6 +421,8 @@ Art. 22–28. (pominięte)
 **Art. 21i.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa w art. 21b, uwzględniając efektywne i skuteczne jej wykorzystanie oraz zapewnienie przejrzystości jej udzielania, a także cele programów ustanowionych zgodnie z art. 21a.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 22–28.** (pominięte)
 
 **Art. 29.** Środki pieniężne zgromadzone na rachunku bankowym Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy z dnia 29 lipca 2005 r. o niektórych formach wspierania działalności innowacyjnej stanowią środki pieniężne Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 

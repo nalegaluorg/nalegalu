@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
+# Ustawa z dnia 18 października 2006 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne "Tarnowskie Góry" w Tarnowskich Górach w likwidacji
 
 *USTAWA z dnia 18 października 2006 r.*
 

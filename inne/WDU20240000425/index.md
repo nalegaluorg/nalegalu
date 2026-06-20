@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Ochrony Środowiska
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Ochrony Środowiska
 
 *USTAWA z dnia 20 lipca 1991 r.*
 

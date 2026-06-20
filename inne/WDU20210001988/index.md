@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zmianie imienia i nazwiska
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zmianie imienia i nazwiska
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 17 maja 1990 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1990-05-26 |
 | Ostatnia zmiana | 2025-01-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900340198) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.pdf) |
-
-Art. 5-7. (skreślone).
 
 #### Rozdział 1 Zadania i kompetencje organów gminy
 
@@ -421,6 +419,8 @@ Art. 5-7. (skreślone).
     - **b)** możliwość uznania za park wiejski terenów, na których znajduje się starodrzew (art. 47 ust. 2 pkt 2).
 
 #### Rozdział 2 Zadania i kompetencje organów administracji rządowej
+
+**Art. 5-7.** (skreślone).
 
 #### Rozdział 3 Przepisy szczególne
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o systemie oświaty
+# Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o systemie oświaty
 
 *USTAWA z dnia 20 grudnia 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz ustawy – Kodeks wyborczy
+# Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz ustawy - Kodeks wyborczy
 
 *USTAWA z dnia 1 kwietnia 2011 r.*
 

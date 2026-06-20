@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym
+# Ustawa z dnia 3 lipca 1998 r. o zmianie ustawy o podatku rolnym.
 
 *USTAWA z dnia 3 lipca 1998 r.*
 

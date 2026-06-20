@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw
+# Ustawa z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 lutego 2025 r.*
 
@@ -118,9 +118,17 @@ source: pdf
 
 4. W przypadku produkcji, o której mowa w ust. 1, niezgodnej z art. 47, stawka akcyzy na urządzenia do waporyzacji wynosi dwukrotność stawki, o której mowa w ust. 3.
 
-5. W przypadku nabycia lub posiadania urządzenia do waporyzacji znajdującego się poza procedurą zawieszenia poboru akcyzy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, kontroli celno-skarbowej albo postępowania podatkowego nie ustalono, że akcyza została zapłacona, stosuje się stawkę w wysokości określonej w ust. 4. Art. 99cb. 1. Podstawą opodatkowania zestawów części do urządzeń do waporyzacji jest liczba sztuk tych zestawów.
+5. W przypadku nabycia lub posiadania urządzenia do waporyzacji znajdującego się poza procedurą zawieszenia poboru akcyzy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, kontroli celno-skarbowej albo postępowania podatkowego nie ustalono, że akcyza została zapłacona, stosuje się stawkę w wysokości określonej w ust. 4.
 
-2. Stawka akcyzy na zestawy części do urządzeń do waporyzacji wynosi 40,00 zł za sztukę. Art. 99cc. 1. Produkcją saszetek nikotynowych w rozumieniu ustawy jest ich wytwarzanie, przetwarzanie, a także pakowanie.
+**Art. 99cb.**
+
+1. Podstawą opodatkowania zestawów części do urządzeń do waporyzacji jest liczba sztuk tych zestawów.
+
+2. Stawka akcyzy na zestawy części do urządzeń do waporyzacji wynosi 40,00 zł za sztukę.
+
+**Art. 99cc.**
+
+1. Produkcją saszetek nikotynowych w rozumieniu ustawy jest ich wytwarzanie, przetwarzanie, a także pakowanie.
 
 2. Za produkcję saszetek nikotynowych nie uznaje się ich wytwarzania przez konsumenta ręcznie domowym sposobem w gospodarstwie domowym na własne potrzeby.
 
@@ -135,7 +143,11 @@ source: pdf
 7. W przypadku:
 
 - **1)** importu lub nabycia wewnątrzwspólnotowego saszetek nikotynowych znajdujących się poza procedurą zawieszenia poboru akcyzy, w opakowaniach jednostkowych nieoznaczonych w sposób określony w ust. 6,
-- **2)** nabycia lub posiadania saszetek nikotynowych znajdujących się poza procedurą zawieszenia poboru akcyzy, jeżeli nie została od nich zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, kontroli celno-skarbowej albo postępowania podatkowego nie ustalono, że akcyza została zapłacona – stosuje się stawkę w wysokości określonej w ust. 5. Art. 99cd. 1. Produkcją innych wyrobów nikotynowych w rozumieniu ustawy jest ich wytwarzanie, przetwarzanie, rozlew, a także pakowanie.
+- **2)** nabycia lub posiadania saszetek nikotynowych znajdujących się poza procedurą zawieszenia poboru akcyzy, jeżeli nie została od nich zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, kontroli celno-skarbowej albo postępowania podatkowego nie ustalono, że akcyza została zapłacona – stosuje się stawkę w wysokości określonej w ust. 5.
+
+**Art. 99cd.**
+
+1. Produkcją innych wyrobów nikotynowych w rozumieniu ustawy jest ich wytwarzanie, przetwarzanie, rozlew, a także pakowanie.
 
 2. Za produkcję innych wyrobów nikotynowych nie uznaje się ich wytwarzania przez konsumenta ręcznie domowym sposobem w gospodarstwie domowym na własne potrzeby.
 

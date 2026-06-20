@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od sprzedaży detalicznej
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy o podatku od sprzedaży detalicznej
 
 *USTAWA z dnia 12 października 2017 r.*
 

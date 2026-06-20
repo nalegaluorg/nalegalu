@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie imprez masowych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 20 marca 2009 r.
 o bezpieczeństwie imprez masowych
-Art. 69–77. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -927,6 +926,8 @@ Art. 69–77. (pominięte)
 #### Rozdział 9a (utracił moc)
 
 #### Rozdział 10 Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
+
+**Art. 69–77.** (pominięte)
 
 **Art. 77a.** (utracił moc)
 

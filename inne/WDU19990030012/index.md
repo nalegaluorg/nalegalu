@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie rodzaju dokumentów oraz zakresu informacji wymaganych przy składaniu wniosku o udzielenie koncesji na bezcłowy przywóz z zagranicy części do montażu przemysłowego ciągników rolniczych oraz zasad udzielania koncesji na taki przywóz.
+# Rozporządzenie Ministra Gospodarki z dnia 31 grudnia 1998 r. w sprawie rodzaju dokumentów oraz zakresu informacji wymaganych przy składaniu wniosku o udzielenie koncesji na bezcłowy przywóz z zagranicy części do montażu przemysłowego ciągników rolniczych oraz zasad udzielania koncesji na taki przywóz.
 
 | Pole | Wartość |
 |---|---|

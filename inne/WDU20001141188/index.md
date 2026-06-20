@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o sposobie obliczania wartości rocznego produktu krajowego brutto
+# Ustawa z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto.
 
 *USTAWA z dnia 26 października 2000 r.*
 

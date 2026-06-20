@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
+# Ustawa z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych
 
 *USTAWA z dnia 8 czerwca 2017 r.*
 
@@ -109,8 +109,5 @@ source: pdf
 
 **Art. 8.** W 2017 r. porozumienie, o którym mowa w art. 3 ust. 1 pkt 3, zawiera się w terminie miesiąca od dnia wejścia w życie ustawy.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 8 czerwca 2017 r. (Dz. U. z 2022 r. poz.
-
-- **2139)**
-
+**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 8 czerwca 2017 r. (Dz. U. z 2022 r. poz. 2139)
 

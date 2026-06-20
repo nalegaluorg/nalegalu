@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad sprawowania nadzoru specjalistycznego nad Społeczną Strażą Rybacką oraz ramowego regulaminu tej straży.
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 17 maja 1999 r. w sprawie zasad sprawowania nadzoru specjalistycznego nad Społeczną Strażą Rybacką oraz ramowego regulaminu tej straży.
 
 | Pole | Wartość |
 |---|---|

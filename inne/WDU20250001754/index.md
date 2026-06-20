@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
 
 | Pole | Wartość |
 |---|---|
@@ -38,7 +38,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 5 lipca 2018 r.
 o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
-Art. 42–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -532,6 +531,8 @@ Art. 42–52. (pominięte)
 **Art. 41.** Organem wyższego stopnia w sprawach określonych w niniejszym rozdziale jest wojewoda.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 42–52.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

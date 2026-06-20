@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących
+# Ustawa z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-06-15 |
 | Ostatnia zmiana | 2025-03-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1113/text.pdf) |
-
-Art. 37–41. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -581,6 +579,8 @@ Art. 37–41. (pominięte)
 **Art. 36.** Przepisów niniejszego rozdziału nie stosuje się do decyzji, o której mowa w art. 17 ust. 1, decyzji, o której mowa w art. 25 ust. 2, oraz decyzji, o której mowa w art. 26 ust. 3.
 
 #### Rozdział 5 Przepisy zmieniające, przepis epizodyczny, przepisy przejściowe i przepis końcowy
+
+**Art. 37–41.** (pominięte)
 
 **Art. 42.** Do dnia 30 czerwca 2024 r. działania polegające na planowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowej z dopływem naturalnym w górnym zbiorniku lub współpracującej z zabudowaną na zbiorniku dolnym elektrownią wodną będącą instalacją odnawialnego źródła energii w rozumieniu ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378, 1383, 2370 i 2687) albo innej elektrowni szczytowo-pompowej spełniającej wymagania określone w rozporządzeniu Rady (UE) 2022/2577 z dnia 22 grudnia 2022 r. ustanawiającym ramy służące przyspieszeniu wdrażania rozwiązań w zakresie energii odnawialnej (Dz. Urz. UE L 335 z 29.12.2022, str. 36) lub ich inwestycji towarzyszących stanowią realizację nadrzędnego celu publicznego oraz są uznawane za służące zdrowiu i bezpieczeństwu publicznemu, o których mowa w art. 3 ust. 1 tego rozporządzenia.
 
