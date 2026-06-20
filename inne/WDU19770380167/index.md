@@ -28,6 +28,7 @@ source: pdf
 1. Wszystkie narody mają prawo do samostanowienia. Z mocy tego prawa swobodnie określają one swój status polityczny i swobodnie zapewniają swój rozwój gospodarczy, społeczny i kulturalny.
 2. Wszystkie narody mogą swobodnie rozporządzać dla swoich celów swymi bogactwami i zasobami naturalnymi bez uszczerbku dla jakichkolwiek zobowiązań wynikających z międzynarodowej współpracy gospodarczej, opartej na zasadzie wzajemnych korzyści, oraz z prawa międzynarodowego. W żadnym przypadku nie można pozbawiać narodu jego własnych środków egzystencji.
 3. Państwa Strony niniejszego Paktu, włącznie z Państwami odpowiedzialnymi za administrację terytoriów niesamodzielnych i terytoriów powierniczych, będą popierały realizację prawa do samostanowienia i będą szanowały to prawo zgodnie z postanowieniami Karty Narodów Zjednoczonych.
+1. Każde z Państw Stron niniejszego Paktu zobowiązuje się przestrzegać i zapewnić wszystkim osobom, które znajdują się na jego terytorium i podlegają jego jurysdykcji, prawa uznane w niniejszym Pakcie, bez względu na jakiekolwiek różnice, takie jak: rasa, kolor skóry, płeć, język, religia, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuacja majątkowa, urodzenie lub jakiekolwiek inne okoliczności.
 2. Państwa Strony niniejszego Paktu zobowiązują się podjąć, zgodnie z własnym trybem konstytucyjnym 1 postanowieniami niniejszego Paktu, odpowiednie kroki mające na celu przyjęcie tego rodzaju środków ustawodawczych lub innych, jakie okażą się konieczne w celu realizacji praw uznanych w niniejszym Pakcie, jeżeli nie jest to już przewidziane w obowiązujących przepisach prawnych lub w inny sposób.
 3. Każde z Państw Stron niniejszego Paktu zobowiązuje się:
 a) zapewnić każdej osobie, której prawa lub wolności uznane w niniejszym Pakcie zostały naruszone, skuteczny środek ochrony prawnej, nawet gdy naruszenie to zostało dokonane przez osoby działające w charakterze urzędowym;
@@ -39,6 +40,7 @@ Państwa Strony niniejszego Paktu zobowiązują się zapewnić mężczyznom i ko
 3. Każde z Państw Stron niniejszego Paktu, korzystające z prawa do zawieszenia stosowania zobowiązań, poinformuje natychmiast pozostałe Państwa Strony niniejszego Paktu, za pośrednictwem Sekretarza Generalnego Organizacji Narodów Zjednoczonych, jakie postanowienia Paktu zostały zawieszone oraz jakie były tego powody. Następnie Państwo to zawiadomi tą samą drogą o terminie, w którym zawieszenie przestaje obowiązywać.
 1. Żadne postanowienie niniejszego Paktu nie może być interpretowane jako przyznanie jakiemukolwiek Państwu, grupie lub osobie jakiegokolwiek prawa do podjęcia czynności lub dokonania aktu mającego na celu zniweczenie praw lub wolności uznanych w niniejszym Pakcie albo ich ograniczenie w szerszym stopniu, niż przewiduje to niniejszy Pakt.
 2. Żadne z podstawowych praw człowieka uznanych lub istniejących w którymkolwiek z Państw Stron niniejszego Paktu na podstawie ustaw, konwencji, zarządzeń lub zwyczaju nie może być ograniczone ani zawieszone pod pretekstem, że niniejszy Pakt nie uznaje takich praw lub że uznaje je w węższym zakresie.
+1. Każda istota ludzka ma przyrodzone prawo do życia. Prawo to powinno być chronione przez ustawę. Nikt nie może być samowolnie pozbawiony życia.
 2. W krajach, w których kara Śmierci nie została zniesiona, wyrok śmierci może być wydany jedynie za najcięższe zbrodnie, zgodnie z ustawą, która obowiązywała w chwili popełnienia zbrodni 1 nie narusza postanowień niniejszego Paktu i Konwencji o zapobieganiu i karaniu zbrodni ludobójstwa. Kara ta może być wykonana tylko na podstawie prawomocnego wyroku wydanego przez właściwy sąd.
 3. W przypadku gdy pozbawienie życia stanowi zbrodnię ludobójstwa, jest oczywiste, że żadne postanowienie niniejszego artykułu nie upoważnia żadnego Państwa Strony niniejszego Paktu do uchylenia się w jakikolwiek sposób od zobowiązań przyjętych przez nie na podstawie postanowień Konwencji o zapobieganiu i karaniu zbrodni ludobójstwa.
 4. Każdy skazany na śmierć ma prawo ubiegać się o ułaskawienie lub zmianę kary.
@@ -115,6 +117,7 @@ b) korzystania z czynnego 1 biernego prawa wyborczego w rzetelnych wyborach, prz
 c) dostępu do służby publicznej w swoim kraju na ogólnych zasadach równości.
 Wszyscy są równi wobec prawa i są uprawnieni bez żadnej dyskryminacji do jednakowej ochrony prawnej. Jakakolwiek dyskryminacja w tym zakresie powinna być ustawowo zakazana oraz powinna być zagwarantowana przez ustawę równa dla wszystkich 1 skuteczna ochrona przed dyskryminacją z takich względów, jak: rasa, kolor skóry, płeć, język, religia, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuacja majątkowa, urodzenie lub jakiekolwiek inne okoliczności.
 Artykuł 27 W Państwach, w których istnieją mniejszości etniczne, religijne lub językowe, osoby należące do tych mniejszości nie mogą być pozbawione prawa do własnego życia kulturalnego, wyznawania i praktykowania własnej religii oraz posługiwania się własnym językiem wraz z innymi członkami danej grupy.
+1. Powołuje się Komitet Praw Człowieka (zwany dalej w niniejszym Pakcie "Komitetem"). Składa się on z osiemnastu członków i sprawuje funkcje wymienione poniżej .
 2. Komitet składa się z obywateli Państw Stron niniejszego Paktu, którzy powinni być ludźmi o wysokim poziomie moralnym i uznanej kompetencji w dziedzinie praw człowieka, przy czym należy uwzględnić celowość udziału pewnej liczby osób o doświadczeniu prawniczym.
 3. Członkowie Komitetu są wybierani i pełnią swe funkcje we własnym imieniu.
 1. Członkowie Komitetu są wybierani w tajnym głosowaniu z listy osób odpowiadających wymogom określonym w artykule 28, które zostaną w tym celu zgłoszone przez Państwa Strony niniejszego Paktu.
@@ -204,11 +207,11 @@ Nadowódczegoniżejpo dp isani , należyciewtymceluupoważnieniprzezswoje Rządy
 
 ## CZĘŚĆ I Artykuł 1
 
-## CZĘŚĆ II 1. Każde z Państw Stron niniejszego Paktu zobowiązuje się przestrzegać i zapewnić wszystkim osobom, które znajdują się na jego terytorium i podlegają jego jurysdykcji, prawa uznane w niniejszym Pakcie, bez względu na jakiekolwiek różnice, takie jak: rasa, kolor skóry, płeć, język, religia, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuacja majątkowa, urodzenie lub jakiekolwiek inne okoliczności.
+## CZĘŚĆ II
 
-## CZĘŚĆ III 1. Każda istota ludzka ma przyrodzone prawo do życia. Prawo to powinno być chronione przez ustawę. Nikt nie może być samowolnie pozbawiony życia.
+## CZĘŚĆ III
 
-## CZĘŚĆ IV 1. Powołuje się Komitet Praw Człowieka (zwany dalej w niniejszym Pakcie "Komitetem"). Składa się on z osiemnastu członków i sprawuje funkcje wymienione poniżej .
+## CZĘŚĆ IV
 
 ## CZĘŚĆ VI Artykuł 48
 
