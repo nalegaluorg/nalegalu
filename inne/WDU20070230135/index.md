@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nazwy „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”
+# Ustawa z dnia 14 grudnia 2006 r. o nadaniu Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nazwy "Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu"
 
 *USTAWA z dnia 14 grudnia 2006 r.*
 

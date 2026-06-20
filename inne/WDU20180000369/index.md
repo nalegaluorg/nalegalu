@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawy o grobach i cmentarzach wojennych, ustawy o muzeach oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
+# Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawy o grobach i cmentarzach wojennych, ustawy o muzeach oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 

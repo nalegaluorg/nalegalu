@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obligacjach
+# Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy o obligacjach
 
 *USTAWA z dnia 8 czerwca 2017 r.*
 

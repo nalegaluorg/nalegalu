@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto
 
 | Pole | Wartość |
 |---|---|

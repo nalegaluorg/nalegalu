@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie niektórych ustaw
+# Ustawa z dnia 21 lutego 1997 r. o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 21 lutego 1997 r.*
 

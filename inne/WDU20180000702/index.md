@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz ustawy o komercjalizacji i niektórych uprawnieniach pracowników
+# Ustawa z dnia 1 marca 2018 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz ustawy o komercjalizacji i niektórych uprawnieniach pracowników
 
 *USTAWA z dnia 1 marca 2018 r.*
 

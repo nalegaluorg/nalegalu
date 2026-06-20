@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odnawialnych źródłach energii
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odnawialnych źródłach energii
 
 *USTAWA z dnia 20 lutego 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2026-01-22 |
 | Ostatnia zmiana | 2026-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/68/text.pdf) |
-
-Art. 178–184. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -241,7 +239,7 @@ Art. 178–184. (pominięte)
 - **3)** prosumenta wirtualnego energii odnawialnej, którego miejsce przyłączenia instalacji odnawialnego źródła energii oraz miejsce dostarczania energii elektrycznej znajdują się na obszarze działania tego samego operatora systemu dystrybucyjnego elektroenergetycznego, przed sumarycznym bilansowaniem i po sumarycznym bilansowaniu ilości energii elektrycznej wprowadzonej, zarejestrowanej uprzednio przez liczniki zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne, po uprzednim ustaleniu tej ilości energii, w systemie operatora systemu dystrybucyjnego elektroenergetycznego, odpowiednio do udziału prosumenta wirtualnego energii odnawialnej w wytwarzaniu energii odnawialnej w tej instalacji, określonego w umowie, o której mowa w art. 4a ust. 1, i pobranej z sieci dystrybucyjnej elektroenergetycznej na wszystkich fazach instalacji elektrycznej.] <2a. Operator informacji rynku energii udostępnia sprzedawcy, o którym mowa w art. 40 ust. 1a, dane pomiarowe obejmujące godzinowe ilości energii elektrycznej:
 - **1)** wprowadzonej do sieci i pobranej z sieci dystrybucyjnej elektroenergetycznej przez prosumenta energii odnawialnej, rejestrowane przez liczniki zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne, przed sumarycznym bilansowaniem i po sumarycznym bilansowaniu ilości energii elektrycznej wprowadzonej i pobranej z sieci dystrybucyjnej elektroenergetycznej na wszystkich fazach instalacji elektrycznej;
 - **2)** wprowadzonej do sieci i pobranej z sieci dystrybucyjnej elektroenergetycznej przez prosumenta zbiorowego energii odnawialnej przed sumarycznym bilansowaniem i po sumarycznym bilansowaniu ilości energii elektrycznej wytworzonej, rejestrowanej przez liczniki zdalnego odczytu w rozumieniu przepisów art. 3 pkt 64 ustawy – Prawo energetyczne, i pobranej z sieci dystrybucyjnej elektroenergetycznej na wszystkich fazach instalacji elektrycznej;
-- **3)** wprowadzonej do sieci i pobranej z sieci dystrybucyjnej elektroenergetycznej przez prosumenta wirtualnego energii odnawialnej przed sumarycznym bilansowaniem i po sumarycznym bilansowaniu ilości energii elektrycznej wprowadzonej, zarejestrowanej uprzednio przez liczniki zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne, i pobranej z sieci dystrybucyjnej elektroenergetycznej na wszystkich fazach instalacji elektrycznej.> 2b. Rozliczenia pomiędzy sprzedawcą, o którym mowa w art. 40 ust. 1a, a prosumentem energii odnawialnej, prosumentem zbiorowym energii odnawialnej lub prosumentem wirtualnym energii odnawialnej są prowadzone na podstawie ilości energii sumarycznie zbilansowanej w każdej godzinie. Sumarycznie zbilansowana ilość energii elektrycznej, wprowadzona do i pobrana z sieci dystrybucyjnej elektroenergetycznej, przez prosumenta energii odnawialnej, prosumenta zbiorowego energii odnawialnej lub prosumenta wirtualnego energii odnawialnej, jest wyznaczana dla danej godziny metodą wektorową według następującego wzoru: 𝐸𝑏 = 𝐸𝑝 − 𝐸𝑤 , gdzie poszczególne symbole oznaczają: Eb(t) – ilość energii sumarycznie zbilansowanej w godzinie (t), wyrażoną w kWh, podlegającą rozliczeniu w danym okresie rozliczeniowym; wartość dodatnia oznacza ilość energii elektrycznej pobranej w danej godzinie (t) z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej w danej godzinie (t) do tej sieci, Ep(t) – sumę ze wszystkich faz ilości energii elektrycznej pobranej w godzinie (t) z sieci dystrybucyjnej elektroenergetycznej, wyrażoną w kWh, Ew(t) – sumę ze wszystkich faz ilości energii elektrycznej wprowadzonej w godzinie (t) do sieci dystrybucyjnej elektroenergetycznej, wyrażoną w kWh, przy czym dla prosumenta wirtualnego energii odnawialnej jako ilość energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej przyjmuje się ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii wyznaczoną zgodnie z ust. 2 pkt 3 lit. b.
+- **3)** wprowadzonej do sieci i pobranej z sieci dystrybucyjnej elektroenergetycznej przez prosumenta wirtualnego energii odnawialnej przed sumarycznym bilansowaniem i po sumarycznym bilansowaniu ilości energii elektrycznej wprowadzonej, zarejestrowanej uprzednio przez liczniki zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne, i pobranej z sieci dystrybucyjnej elektroenergetycznej na wszystkich fazach instalacji elektrycznej. wartość dodatnia oznacza ilość energii elektrycznej pobranej w danej godzinie (t) z sieci dystrybucyjnej elektroenergetycznej, a wartość ujemna oznacza ilość energii elektrycznej wprowadzonej w danej godzinie (t) do tej sieci, Ep(t) – sumę ze wszystkich faz ilości energii elektrycznej pobranej w godzinie (t) z sieci dystrybucyjnej elektroenergetycznej, wyrażoną w kWh, Ew(t) – sumę ze wszystkich faz ilości energii elektrycznej wprowadzonej w godzinie (t) do sieci dystrybucyjnej elektroenergetycznej, wyrażoną w kWh, przy czym dla prosumenta wirtualnego energii odnawialnej jako ilość energii elektrycznej wprowadzonej do sieci dystrybucyjnej elektroenergetycznej przyjmuje się ilość energii elektrycznej wytworzonej w instalacji odnawialnego źródła energii wyznaczoną zgodnie z ust. 2 pkt 3 lit. b.
 
 2c. W zakresie rozliczania, o którym mowa w ust. 2b, w przypadku gdy:
 
@@ -1048,7 +1046,11 @@ Art. 178–184. (pominięte)
 
 4. (uchylony)
 
-5. (uchylony) Art. 38aa. 1. Porozumienie klastra energii zawiera się w formie pisemnej pod rygorem nieważności.
+5. (uchylony)
+
+**Art. 38aa.**
+
+1. Porozumienie klastra energii zawiera się w formie pisemnej pod rygorem nieważności.
 
 2. Porozumienie, o którym mowa w ust. 1, zawiera w szczególności postanowienia określające:
 
@@ -1060,12 +1062,20 @@ Art. 178–184. (pominięte)
 - **6)** upoważnienie koordynatora klastra energii do dostępu do informacji rynku energii i danych pomiarowych dotyczących każdego członka klastra energii;
 - **7)** zasady przystępowania do tego porozumienia nowych członków klastra energii zapewniające równy i otwarty dostęp do członkostwa w klastrze.
 
-3. Członków klastra energii reprezentuje koordynator klastra energii. Art. 38ab. 1. Obszar działalności klastra energii ustala się na podstawie punktów poboru energii, przy czym:
+3. Członków klastra energii reprezentuje koordynator klastra energii.
+
+**Art. 38ab.**
+
+1. Obszar działalności klastra energii ustala się na podstawie punktów poboru energii, przy czym:
 
 - **1)** obszar ten nie może przekraczać obszaru powiatu w rozumieniu przepisów ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907) lub 5 sąsiadujących ze sobą gmin w rozumieniu przepisów ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436) oraz
 - **2)** członkowie klastra energii są przyłączeni do sieci dystrybucyjnej tego samego operatora systemu dystrybucyjnego elektroenergetycznego o napięciu znamionowym niższym niż 110 kV.
 
-2. Działalność w ramach klastra energii nie może obejmować połączeń z sąsiednimi krajami. Art. 38ac. 1. Prezes URE prowadzi rejestr klastrów energii.
+2. Działalność w ramach klastra energii nie może obejmować połączeń z sąsiednimi krajami.
+
+**Art. 38ac.**
+
+1. Prezes URE prowadzi rejestr klastrów energii.
 
 2. Rejestr klastrów energii prowadzi się w postaci elektronicznej i umieszcza w Biuletynie Informacji Publicznej URE.
 
@@ -1112,7 +1122,11 @@ Art. 178–184. (pominięte)
 
 15. Do decyzji, o której mowa w ust. 12, przepisy art. 16 stosuje się odpowiednio.
 
-16. Określone przez Prezesa URE koszty budowy, utrzymania, rozbudowy i modyfikacji rejestru klastrów energii pokrywa operator rozliczeń energii odnawialnej, o którym mowa w art. 106, ze środków opłaty OZE, o której mowa w art. 95 ust. 1, na podstawie dyspozycji Prezesa URE. Art. 38ad. 1. Koordynator klastra energii wpisanego do rejestru klastrów energii, sporządza roczne sprawozdanie zawierające:
+16. Określone przez Prezesa URE koszty budowy, utrzymania, rozbudowy i modyfikacji rejestru klastrów energii pokrywa operator rozliczeń energii odnawialnej, o którym mowa w art. 106, ze środków opłaty OZE, o której mowa w art. 95 ust. 1, na podstawie dyspozycji Prezesa URE.
+
+**Art. 38ad.**
+
+1. Koordynator klastra energii wpisanego do rejestru klastrów energii, sporządza roczne sprawozdanie zawierające:
 
 - **1)** ilość energii:
     - **a)** wytworzonej łącznie przez członków klastra energii, w tym ilość energii wytworzonej z odnawialnych źródeł energii,
@@ -1124,7 +1138,11 @@ Art. 178–184. (pominięte)
 
 2. Koordynator klastra energii przekazuje Prezesowi URE sprawozdanie, o którym mowa w ust. 1, w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy to sprawozdanie.
 
-3. W przypadku gdy koordynator klastra energii nie przekazał sprawozdania, o którym mowa w ust. 1, w terminie określonym w ust. 2 albo przekazał sprawozdanie niepełne, Prezes URE wzywa koordynatora klastra energii odpowiednio do jego złożenia albo uzupełnienia w terminie 14 dni od dnia otrzymania wezwania, przy czym w przypadku wezwania do uzupełnienia wskazuje braki podlegające uzupełnieniu. Art. 38ae. 1. Operator systemu dystrybucyjnego elektroenergetycznego, na wniosek koordynatora klastra energii wpisanego do rejestru klastrów energii, nie później niż w terminie 90 dni od dnia złożenia tego wniosku:
+3. W przypadku gdy koordynator klastra energii nie przekazał sprawozdania, o którym mowa w ust. 1, w terminie określonym w ust. 2 albo przekazał sprawozdanie niepełne, Prezes URE wzywa koordynatora klastra energii odpowiednio do jego złożenia albo uzupełnienia w terminie 14 dni od dnia otrzymania wezwania, przy czym w przypadku wezwania do uzupełnienia wskazuje braki podlegające uzupełnieniu.
+
+**Art. 38ae.**
+
+1. Operator systemu dystrybucyjnego elektroenergetycznego, na wniosek koordynatora klastra energii wpisanego do rejestru klastrów energii, nie później niż w terminie 90 dni od dnia złożenia tego wniosku:
 
 - **1)** zawiera nowe albo zmienia dotychczasowe umowy o świadczenie usług dystrybucji ze wszystkimi członkami klastra energii, w celu uwzględnienia w tych umowach postanowień określających zasady:
     - **a)** rozliczeń świadczonych usług dystrybucji,
@@ -1136,10 +1154,16 @@ Art. 178–184. (pominięte)
 
 3. W przypadku gdy obowiązek, o którym mowa w ust. 1 pkt 2, nie może być zrealizowany zgodnie z ust. 2, do daty zainstalowania licznika zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne operator systemu dystrybucyjnego elektroenergetycznego instaluje układ pomiarowo-rozliczeniowy w rozumieniu art. 3 pkt 63 ustawy – Prawo energetyczne, który umożliwia rozliczenie, o którym mowa w art. 184k ust. 1.
 
-4. Koszty zakupu, instalacji i uruchomienia licznika zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne oraz infrastruktury niezbędnej do jego prawidłowego działania, instalowanych zgodnie z ust. 1 pkt 2, ponosi operator systemu dystrybucyjnego elektroenergetycznego i w zakresie, w jakim nie zostały one pokryte ze środków z Funduszu Modernizacyjnego, o którym mowa w art. 50a ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2024 r. poz. 1505 oraz z 2025 r. poz. 303), lub z innych źródeł dofinansowania ze środków Unii Europejskiej albo budżetu państwa, stanowią one uzasadnione koszty jego działalności. Art. 38af. Sprzedawca, o którym mowa w art. 40 ust. 1, lub inny sprzedawca, na wniosek koordynatora klastra energii wpisanego do rejestru klastrów energii, nie później niż w terminie 90 dni od dnia złożenia tego wniosku, zawiera nowe albo zmienia dotychczasowe umowy kompleksowe ze wszystkimi członkami klastra energii w celu uwzględnienia w tych umowach postanowień określających zasady:
+4. Koszty zakupu, instalacji i uruchomienia licznika zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne oraz infrastruktury niezbędnej do jego prawidłowego działania, instalowanych zgodnie z ust. 1 pkt 2, ponosi operator systemu dystrybucyjnego elektroenergetycznego i w zakresie, w jakim nie zostały one pokryte ze środków z Funduszu Modernizacyjnego, o którym mowa w art. 50a ust. 1 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2024 r. poz. 1505 oraz z 2025 r. poz. 303), lub z innych źródeł dofinansowania ze środków Unii Europejskiej albo budżetu państwa, stanowią one uzasadnione koszty jego działalności.
+
+**Art. 38af.** Sprzedawca, o którym mowa w art. 40 ust. 1, lub inny sprzedawca, na wniosek koordynatora klastra energii wpisanego do rejestru klastrów energii, nie później niż w terminie 90 dni od dnia złożenia tego wniosku, zawiera nowe albo zmienia dotychczasowe umowy kompleksowe ze wszystkimi członkami klastra energii w celu uwzględnienia w tych umowach postanowień określających zasady:
 
 - **1)** rozliczeń świadczonych usług dystrybucji,
-- **2)** świadczenia usług dystrybucji – w przypadku ustania członkostwa w klastrze energii – przy zachowaniu dotychczasowych warunków cenowych, chyba że strony postanowią inaczej. Art. 38ag. 1. Członek klastra energii, o którym mowa w art. 2 pkt 15a lit. a–c, uczestniczący w klastrze wpisanym do rejestru klastrów energii, zwany dalej „nabywcą”, może, z zastosowaniem ust. 2–9, zawrzeć umowę sprzedaży, o której mowa w art. 5 ust. 1 ustawy – Prawo energetyczne, której przedmiotem będzie dostawa, na własny użytek tego członka klastra, przez innego członka tego klastra energii wytworzonych przez niego energii elektrycznej, ciepła lub paliw, wytworzonych z odnawialnych źródeł energii w instalacjach odnawialnego źródła energii wskazanych we wniosku, o którym mowa w art. 38ac ust. 4.
+- **2)** świadczenia usług dystrybucji – w przypadku ustania członkostwa w klastrze energii – przy zachowaniu dotychczasowych warunków cenowych, chyba że strony postanowią inaczej.
+
+**Art. 38ag.**
+
+1. Członek klastra energii, o którym mowa w art. 2 pkt 15a lit. a–c, uczestniczący w klastrze wpisanym do rejestru klastrów energii, zwany dalej „nabywcą”, może, z zastosowaniem ust. 2–9, zawrzeć umowę sprzedaży, o której mowa w art. 5 ust. 1 ustawy – Prawo energetyczne, której przedmiotem będzie dostawa, na własny użytek tego członka klastra, przez innego członka tego klastra energii wytworzonych przez niego energii elektrycznej, ciepła lub paliw, wytworzonych z odnawialnych źródeł energii w instalacjach odnawialnego źródła energii wskazanych we wniosku, o którym mowa w art. 38ac ust. 4.
 
 2. Nabywca informuje:
 
@@ -1242,7 +1266,11 @@ Art. 178–184. (pominięte)
 
 - **4)** szczegółowy podmiotowy zakres spółdzielni energetycznej – mając na uwadze potrzebę ujednolicenia sposobu dokonywania rozliczeń oraz ochronę ich interesów, a także bezpieczeństwo i niezawodne funkcjonowanie systemu elektroenergetycznego.
 
-**Art. 38d.** (uchylony) Art. 38da. 1. Operator systemu dystrybucyjnego elektroenergetycznego, na którego obszarze spółdzielnia energetyczna ma zamiar rozpocząć działanie w zakresie wytwarzania energii elektrycznej ze źródeł odnawialnych, jest obowiązany do:
+**Art. 38d.** (uchylony)
+
+**Art. 38da.**
+
+1. Operator systemu dystrybucyjnego elektroenergetycznego, na którego obszarze spółdzielnia energetyczna ma zamiar rozpocząć działanie w zakresie wytwarzania energii elektrycznej ze źródeł odnawialnych, jest obowiązany do:
 
 - **1)** zawarcia ze sprzedawcą, o którym mowa w art. 40 ust. 1a, umowy o świadczenie usług dystrybucji albo do dokonania zmiany zawartej umowy o świadczenie usług dystrybucji w celu umożliwienia dokonywania przez tego sprzedawcę rozliczenia, o którym mowa w art. 38c ust. 3, w terminie 21 dni od dnia złożenia przez spółdzielnię energetyczną wniosku o zawarcie albo zmianę takiej umowy przez tego sprzedawcę;
 - **2)** zainstalowania każdemu z członków spółdzielni energetycznej licznika zdalnego odczytu w rozumieniu art. 3 pkt 64 ustawy – Prawo energetyczne, w terminie 4 miesięcy od dnia wystąpienia przez spółdzielnię energetyczną z wnioskiem o zainstalowanie takiego licznika.
@@ -1379,7 +1407,11 @@ Art. 178–184. (pominięte)
 
 4. Spółdzielnia energetyczna, którą wykreślono z Wykazu spółdzielni energetycznych Dyrektora KOWR, z powodów, o których mowa w ust. 1 pkt 1–3, na danym obszarze może ubiegać się o ponowne zamieszczenie w tym wykazie nie wcześniej niż po upływie 3 lat od dnia wykreślenia.
 
-5. Dyrektor Generalny KOWR przekazuje informację o wydaniu decyzji o której mowa w ust. 1, właściwemu dla danej spółdzielni energetycznej sprzedawcy energii. Art. 38la. 1. Prezes URE, w drodze decyzji, wykreśla dane spółdzielni energetycznej z Wykazu spółdzielni energetycznych Prezesa URE, w przypadku gdy spółdzielnia energetyczna:
+5. Dyrektor Generalny KOWR przekazuje informację o wydaniu decyzji o której mowa w ust. 1, właściwemu dla danej spółdzielni energetycznej sprzedawcy energii.
+
+**Art. 38la.**
+
+1. Prezes URE, w drodze decyzji, wykreśla dane spółdzielni energetycznej z Wykazu spółdzielni energetycznych Prezesa URE, w przypadku gdy spółdzielnia energetyczna:
 
 - **1)** przestała spełniać warunek, o którym mowa w art. 38e ust. 1 pkt 1;
 - **2)** nie usunęła naruszenia któregokolwiek z warunków, o których mowa w art. 38e ust. 1 pkt 3, w terminie wyznaczonym przez Prezesa URE;
@@ -1397,9 +1429,12 @@ Art. 178–184. (pominięte)
 **Art. 38m.** Spółdzielnia energetyczna od dnia zamieszczenia jej danych w wykazie spółdzielni energetycznych Dyrektora KOWR albo w Wykazie spółdzielni energetycznych Prezesa URE jest obowiązana do:
 
 - **1)** prowadzenia dokumentacji dotyczącej ilości energii elektrycznej lub biogazu, lub biogazu rolniczego, lub biometanu, lub ciepła wytworzonych oraz zużytych przez spółdzielnię energetyczną i jej członków;
-- **2)** przekazywania odpowiednio Dyrektorowi Generalnemu KOWR albo Prezesowi URE sprawozdań rocznych, zawierających informacje, o których mowa w pkt 1, w ujęciu miesięcznym, w terminie 60 dni od zakończenia roku kalendarzowego. <Art. 38ma. Operator informacji rynku energii udostępnia za pośrednictwem centralnego systemu informacji rynku energii zagregowane dane pomiarowe:
+- **2)** przekazywania odpowiednio Dyrektorowi Generalnemu KOWR albo Prezesowi URE sprawozdań rocznych, zawierających informacje, o których mowa w pkt 1, w ujęciu miesięcznym, w terminie 60 dni od zakończenia roku kalendarzowego.
+
+**Art. 38ma.** Operator informacji rynku energii udostępnia za pośrednictwem centralnego systemu informacji rynku energii zagregowane dane pomiarowe:
+
 - **1)** spółdzielni energetycznej wpisanej do Wykazu spółdzielni energetycznych Dyrektora KOWR – Dyrektorowi Generalnemu KOWR,
-- **2)** spółdzielni energetycznej wpisanej do Wykazu spółdzielni energetycznych Prezesa URE – Prezesowi URE – dotyczące wytworzonej i wprowadzonej do sieci, a następnie pobranej energii elektrycznej przez wszystkich wytwórców i odbiorców, będących członkami spółdzielni energetycznej, w zakresie niezbędnym do prowadzenia danego wykazu spółdzielni energetycznych oraz kontroli spełniania warunków, o których mowa w art. 38e.>
+- **2)** spółdzielni energetycznej wpisanej do Wykazu spółdzielni energetycznych Prezesa URE – Prezesowi URE – dotyczące wytworzonej i wprowadzonej do sieci, a następnie pobranej energii elektrycznej przez wszystkich wytwórców i odbiorców, będących członkami spółdzielni energetycznej, w zakresie niezbędnym do prowadzenia danego wykazu spółdzielni energetycznych oraz kontroli spełniania warunków, o których mowa w art. 38e.
 
 **Art. 38n.**
 
@@ -2115,9 +2150,10 @@ Art. 178–184. (pominięte)
 **Art. 69a.** Energia elektryczna wytworzona w danej instalacji odnawialnego źródła energii może korzystać z:
 
 - **1)** systemu wsparcia świadectw pochodzenia albo
-- **2)** (uchylony)
-- **3)** systemu wsparcia, o którym mowa w art. 70a–70f, albo <3a) systemu wsparcia, o którym mowa w art. 70g–70j, albo>
-- **4)** aukcyjnego systemu wsparcia, albo <4a) aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1, albo> 4b) systemu wsparcia, o którym mowa w art. 83l–83s, albo
+- **2)** (uchylony) 3) systemu wsparcia, o którym mowa w art. 70a–70f, albo
+- **3a)** systemu wsparcia, o którym mowa w art. 70g–70j, albo 4) aukcyjnego systemu wsparcia, albo
+- **4a)** aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1, albo
+- **4b)** systemu wsparcia, o którym mowa w art. 83l–83s, albo
 - **5)** rozliczeń, o których mowa w art. 4 ust. 1 albo ust. 1a pkt 2, albo
 - **6)** rozliczenia, o którym mowa w art. 38c ust. 3.
 
@@ -2288,7 +2324,11 @@ Art. 178–184. (pominięte)
 
 17. W przypadku, o którym mowa w ust. 16, przepisy ust. 9, 11a, 12a–14 oraz art. 70c stosuje się odpowiednio.
 
-18. (uchylony) Art. 70ba. 1. W przypadku wystąpienia okoliczności, o których mowa w art. 83 ust. 3ba, Prezes URE jednorazowo na wniosek wytwórcy, wydaje postanowienie o przedłużeniu terminu spełnienia zobowiązania, o którym mowa w art. 70b ust. 4 pkt 1 lit. d, oraz okresu, o którym mowa w art. 70b ust. 4 pkt 1 lit. c, o dodatkowy okres określony we wniosku wytwórcy, jednak nie dłuższy niż 18 miesięcy licząc od dnia upływu terminu tego zobowiązania.
+18. (uchylony)
+
+**Art. 70ba.**
+
+1. W przypadku wystąpienia okoliczności, o których mowa w art. 83 ust. 3ba, Prezes URE jednorazowo na wniosek wytwórcy, wydaje postanowienie o przedłużeniu terminu spełnienia zobowiązania, o którym mowa w art. 70b ust. 4 pkt 1 lit. d, oraz okresu, o którym mowa w art. 70b ust. 4 pkt 1 lit. c, o dodatkowy okres określony we wniosku wytwórcy, jednak nie dłuższy niż 18 miesięcy licząc od dnia upływu terminu tego zobowiązania.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -2382,7 +2422,11 @@ Art. 178–184. (pominięte)
     - **b)** 6 lat – w przypadku poniesienia nakładów inwestycyjnych modernizacji większych niż 33 %, ale nie większych niż 40 % kosztów kwalifikowanych wybudowania nowej referencyjnej instalacji odnawialnego źródła energii,
     - **c)** 7 lat – w przypadku poniesienia nakładów inwestycyjnych modernizacji większych niż 40 %, ale nie większych niż 50 % kosztów kwalifikowanych wybudowania nowej referencyjnej instalacji odnawialnego źródła energii;
 
-- **2)** lit. b – trwa maksymalnie przez kolejnych 15 lat. Art. 70fa. 1. Prezes URE, na podstawie wydanych zaświadczeń, o których mowa w art. 70b ust. 8, z uwzględnieniem art. 39a, monitoruje wysokość wsparcia przyznanego wytwórcom, o których mowa w art. 70a ust. 1 i 2, biorąc pod uwagę limit środków przeznaczonych na dany system wsparcia zgłoszony Komisji Europejskiej przez Rzeczpospolitą Polską na podstawie art. 42 oraz art. 43 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu, z uwzględnieniem progów pomocy, o których mowa w art. 4 ust. 1 lit. v tego rozporządzenia.
+- **2)** lit. b – trwa maksymalnie przez kolejnych 15 lat.
+
+**Art. 70fa.**
+
+1. Prezes URE, na podstawie wydanych zaświadczeń, o których mowa w art. 70b ust. 8, z uwzględnieniem art. 39a, monitoruje wysokość wsparcia przyznanego wytwórcom, o których mowa w art. 70a ust. 1 i 2, biorąc pod uwagę limit środków przeznaczonych na dany system wsparcia zgłoszony Komisji Europejskiej przez Rzeczpospolitą Polską na podstawie art. 42 oraz art. 43 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu, z uwzględnieniem progów pomocy, o których mowa w art. 4 ust. 1 lit. v tego rozporządzenia.
 
 2. Monitorując wysokość przyznanego wsparcia, o którym mowa w ust. 1, Prezes URE określa szacowaną wartość przyznanego wsparcia zgodnie z następującym wzorem: 1 W = ∑[E∗(C−E )∗ (1+CPI) ∗ ] (1+r ) gdzie poszczególne symbole oznaczają: 𝑊 – szacowaną wartość przyznanego wsparcia, określoną na dzień jego udzielenia, 𝐸 – łączną ilość niewykorzystanej energii elektrycznej, o której mowa w art. 70b ust. 3 pkt 2, przypadającą proporcjonalnie na poszczególne lata w całym okresie, o którym mowa w art. 70b ust. 3 pkt 3, 𝐶 – cenę, o której mowa odpowiednio w art. 70e ust. 1 pkt 1 oraz 2, z uwzględnieniem ceny skorygowanej, o której mowa w oświadczeniu, o którym mowa w art. 70b ust. 3 pkt 6 lit. b, albo w oświadczeniu, o którym mowa w art. 39a ust. 7, oraz waloryzacji, o której mowa w art. 70e ust. 3, dokonywanej na dzień wydania zaświadczenia, o którym mowa w art. 70b ust. 8, 𝐶𝑃𝐼 – wskaźnik inflacji stanowiący średnią wartość inflacji dla całego okresu od dnia wydania zaświadczenia, o którym mowa w art. 70b ust. 8, do planowanej daty zakończenia sprzedaży niewykorzystanej energii elektrycznej, o której mowa w art. 70b ust. 3 pkt 3, obliczony z wykorzystaniem krótkoterminowej projekcji inflacji oraz celu inflacyjnego publikowanych przez Narodowy Bank Polski na dzień złożenia deklaracji, o której mowa w art. 70b ust. 1, 𝐸 – średnią cenę energii elektrycznej w okresie 60 miesięcy poprzedzających miesiąc złożenia deklaracji, o której mowa w art. 70b ust. 1, z wyłączeniem lat 2021–2023, stanowiącą średnią arytmetyczną z 60 wartości miesięcznych będących średnimi arytmetycznymi cenami energii elektrycznej obliczanymi na podstawie średnich ważonych wolumenem obrotu cen dla poszczególnych 24 godzin dostawy energii elektrycznej w danym miesiącu, obliczanych na podstawie transakcji na instrumentach godzinowych Rynku Dnia Następnego, 𝑛 – kolejne lata kalendarzowe w okresie od dnia wydania zaświadczenia, o którym mowa w art. 70b ust. 8, do planowanej daty zakończenia sprzedaży niewykorzystanej energii elektrycznej, o której mowa w art. 70b ust. 3 pkt 3, 𝑁 – liczbę lat liczoną od dnia wydania zaświadczenia, o którym mowa w art. 70b ust. 8, do planowanej daty zakończenia sprzedaży niewykorzystanej energii elektrycznej, o której mowa w art. 70b ust. 3 pkt 3, 𝑟 – stopę dyskontową wyrażoną w ułamku dziesiętnym obowiązującą w dniu udzielenia wsparcia, publikowaną przez Komisję Europejską na podstawie art. 10 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. w sprawie wykonania rozporządzenia Rady (UE) 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. ).
 
@@ -2390,7 +2434,11 @@ Art. 178–184. (pominięte)
 
 4. Na postanowienie, o którym mowa w ust. 3, przysługuje zażalenie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów, w terminie 7 dni od dnia doręczenia postanowienia. Postępowanie w sprawie zażalenia na postanowienie Prezesa URE toczy się według przepisów ustawy – Kodeks postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji energetyki.
 
-5. Wysokość wsparcia, o której mowa w ust. 1, wyrażoną w złotych przelicza się na euro według kursu średniego euro ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień wydania albo odmowy wydania zaświadczenia, o którym mowa w art. 70b ust. 8. <Art. 70g. 1. Wytwórca energii elektrycznej z odnawialnych źródeł energii w instalacji o łącznej mocy zainstalowanej elektrycznej nie większej niż 1 MW, posiadającej wyodrębniony zespół urządzeń służących do wyprowadzania mocy wyłącznie z tej instalacji do sieci elektroenergetycznej dystrybucyjnej, będący przedsiębiorstwem energetycznym lub wytwórcą, o którym mowa w art. 19 ust. 1, wykorzystujący do wytworzenia energii elektrycznej wyłącznie:
+5. Wysokość wsparcia, o której mowa w ust. 1, wyrażoną w złotych przelicza się na euro według kursu średniego euro ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień wydania albo odmowy wydania zaświadczenia, o którym mowa w art. 70b ust. 8.
+
+**Art. 70g.**
+
+1. Wytwórca energii elektrycznej z odnawialnych źródeł energii w instalacji o łącznej mocy zainstalowanej elektrycznej nie większej niż 1 MW, posiadającej wyodrębniony zespół urządzeń służących do wyprowadzania mocy wyłącznie z tej instalacji do sieci elektroenergetycznej dystrybucyjnej, będący przedsiębiorstwem energetycznym lub wytwórcą, o którym mowa w art. 19 ust. 1, wykorzystujący do wytworzenia energii elektrycznej wyłącznie:
 
 - **1)** biogaz rolniczy albo
 - **2)** biogaz pozyskany ze składowisk odpadów, albo
@@ -2482,7 +2530,7 @@ Art. 178–184. (pominięte)
 
 3. Prawo do pokrycia ujemnego salda, o którym mowa w art. 93 ust. 2 pkt 3, powstaje od pierwszego dnia sprzedaży energii elektrycznej objętej systemem wsparcia przeznaczonym dla wytwórcy, o którym mowa w art. 70g ust. 1, i trwa przez okres kolejnych 10 lat, nie dłużej niż do dnia 31 grudnia 2034 r.
 
-4. Stała cena zakupu podlega aktualizacji w przypadku zmiany referencyjnej ceny operacyjnej określonej w przepisach wydanych na podstawie art. 83g ust. 1 i jest stosowana począwszy od kolejnego roku kalendarzowego.>
+4. Stała cena zakupu podlega aktualizacji w przypadku zmiany referencyjnej ceny operacyjnej określonej w przepisach wydanych na podstawie art. 83g ust. 1 i jest stosowana począwszy od kolejnego roku kalendarzowego.
 
 **Art. 71.**
 
@@ -3971,7 +4019,7 @@ Art. 178–184. (pominięte)
 
 1a. W przypadku gdy ciepło zostanie wytworzone w instalacji odnawialnego źródła energii wykorzystującej pompę ciepła, obowiązek zakupu dotyczy jedynie ciepła stanowiącego energię ze źródeł odnawialnych, za którą uznaje się energię aerotermalną, geotermalną, hydrotermalną lub otoczenia, wychwycone przez pompy ciepła, w ilości obliczonej według wzoru: E = Qusable * (1 – 1/SPF), gdzie poszczególne symbole oznaczają: E – ilość energii aerotermalnej, geotermalnej, hydrotermalnej lub otoczenia, wychwyconych przez pompy ciepła, która stanowi energię ze źródeł odnawialnych, Qusable – szacunkowe całkowite ciepło użytkowe wytworzone z pomp ciepła, dla których ustala się ilość energii aerotermalnej, geotermalnej, hydrotermalnej lub otoczenia, która stanowi energię ze źródeł odnawialnych, SPF – szacunkowy przeciętny współczynnik wydajności sezonowej dla pomp ciepła, dla których ustala się ilość energii aerotermalnej, geotermalnej, hydrotermalnej lub otoczenia, która stanowi energię ze źródeł odnawialnych.
 
-1b. Do obliczenia ilości energii ze źródeł odnawialnych w przypadku, o którym mowa w ust. 1a, bierze się pod uwagę wyłącznie energię aerotermalną, geotermalną, hydrotermalną lub otoczenia, wychwycone przez pompy ciepła spełniające kryterium szacunkowego przeciętnego współczynnika wydajności sezonowej, obliczonego według wzoru: SPF > 1,15 * 1/η, gdzie poszczególne symbole oznaczają: SPF – szacunkowy przeciętny współczynnik wydajności sezonowej dla pomp ciepła, dla których ustala się ilość energii aerotermalnej, geotermalnej, hydrotermalnej lub otoczenia, która stanowi energię ze źródeł odnawialnych, η – stosunek między całkowitą produkcją energii elektrycznej brutto i pierwotnym zużyciem energii dla produkcji energii elektrycznej, obliczany jako średnia dla całej Unii Europejskiej oparta na danych organu statystycznego Unii Europejskiej – Eurostatu.
+1b. Do obliczenia ilości energii ze źródeł odnawialnych w przypadku, o którym mowa w ust. 1a, bierze się pod uwagę wyłącznie energię aerotermalną, geotermalną, hydrotermalną lub otoczenia, wychwycone przez pompy ciepła spełniające kryterium szacunkowego przeciętnego współczynnika wydajności sezonowej, obliczonego według wzoru: SPF
 
 2. Przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją ciepła na obszarze danego systemu ciepłowniczego jest obowiązane do wyrażenia zgody na przyłączenie instalacji, o której mowa w ust. 1, do sieci ciepłowniczej lub na zmianę warunków przyłączenia w celu przyłączenia takiej instalacji. Przyłączenie jest realizowane zgodnie z przepisami ustawy – Prawo energetyczne.
 
@@ -5256,6 +5304,8 @@ Art. 178–184. (pominięte)
 **Art. 177.** Prezes URE niezwłocznie powiadamia Komisję Europejską o zmianach przepisów w zakresie kar pieniężnych i o działaniach podejmowanych w przypadku naruszeń przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 714/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003 (Dz. Urz. UE L 211 z 14.08.2009, str. 15, z późn. zm.).
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 178–184.** (pominięte)
 
 #### Rozdział 10a Przepisy epizodyczne
 

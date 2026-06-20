@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o paszach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o paszach
 
 | Pole | Wartość |
 |---|---|
@@ -371,7 +371,9 @@ o paszach
 
 8. Główny Lekarz Weterynarii umieszcza, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii, listę podmiotów, którym można przekazać niezużyte lub przeterminowane pasze lecznicze oraz produkty pośrednie.
 
-9. Lista, o której mowa w ust. 8, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1. Art. 23–27. (uchylone)
+9. Lista, o której mowa w ust. 8, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1.
+
+**Art. 23–27.** (uchylone)
 
 **Art. 28.**
 
@@ -685,7 +687,9 @@ o paszach
 
 **Art. 53e.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy właściwego powiatowego inspektoratu weterynarii, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
 
-**Art. 53f.** W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111). Art. 54–58. (pominięte)
+**Art. 53f.** W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111).
+
+**Art. 54–58.** (pominięte)
 
 **Art. 59.** Zezwolenia na wytwarzanie pasz leczniczych, wydane na podstawie przepisów dotychczasowych, uważa się za zatwierdzenia zakładów do wytwarzania pasz leczniczych przeznaczonych do obrotu w rozumieniu ustawy.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
+# Ustawa z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 

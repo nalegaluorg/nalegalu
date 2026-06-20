@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zatrudnianiu osób pozbawionych wolności
+# Ustawa z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności.
 
 *USTAWA z dnia 28 sierpnia 1997 r.*
 
@@ -153,7 +153,9 @@ source: pdf
 
 **Art. 10.** (uchylony)
 
-**Art. 11.** Istniejące w dniu wejścia w życie ustawy przedsiębiorstwa państwowe podległe Ministrowi Sprawiedliwości działające przy zakładach karnych, spółki prawa handlowego powstałe z przekształcenia tych przedsiębiorstw lub utworzone przez te przedsiębiorstwa oraz gospodarstwa pomocnicze przy zakładach karnych stają się przywięziennymi zakładami pracy w rozumieniu art. 3 ust. 2 niniejszej ustawy. Art. 12–15. (pominięte)
+**Art. 11.** Istniejące w dniu wejścia w życie ustawy przedsiębiorstwa państwowe podległe Ministrowi Sprawiedliwości działające przy zakładach karnych, spółki prawa handlowego powstałe z przekształcenia tych przedsiębiorstw lub utworzone przez te przedsiębiorstwa oraz gospodarstwa pomocnicze przy zakładach karnych stają się przywięziennymi zakładami pracy w rozumieniu art. 3 ust. 2 niniejszej ustawy.
+
+**Art. 12–15.** (pominięte)
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
 

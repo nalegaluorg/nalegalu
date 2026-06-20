@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2006 r. zmieniająca ustawę o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2006 r.*
 

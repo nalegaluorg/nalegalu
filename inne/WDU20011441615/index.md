@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Karta Nauczyciela, ustawy o systemie oświaty oraz ustawy - Przepisy wprowadzające reformę ustroju szkolnego
+# Ustawa z dnia 21 listopada 2001 r. o zmianie ustawy - Karta Nauczyciela, ustawy o systemie oświaty oraz ustawy - Przepisy wprowadzające reformę ustroju szkolnego.
 
 *USTAWA z dnia 21 listopada 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
+# Ustawa z dnia 27 stycznia 2022 r. o zmianie ustawy o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
 
 *USTAWA z dnia 27 stycznia 2022 r.*
 

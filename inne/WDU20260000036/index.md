@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów
+# Ustawa z dnia 18 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów
 
 *USTAWA z dnia 18 grudnia 2025 r.*
 

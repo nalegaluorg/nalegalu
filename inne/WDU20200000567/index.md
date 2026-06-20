@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19
+# Ustawa z dnia 31 marca 2020 r. o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19
 
 *USTAWA z dnia 31 marca 2020 r.*
 

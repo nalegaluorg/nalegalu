@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o publicznej służbie krwi
+# Ustawa z dnia 24 lipca 2024 r. o zmianie ustawy o publicznej służbie krwi
 
 *USTAWA z dnia 24 lipca 2024 r.*
 

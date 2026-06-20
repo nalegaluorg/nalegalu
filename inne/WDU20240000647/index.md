@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
+# Ustawa z dnia 12 kwietnia 2024 r. zmieniająca ustawę o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
 
 *USTAWA z dnia 12 kwietnia 2024 r.*
 

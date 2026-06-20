@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 lipca 2006 r.*
 

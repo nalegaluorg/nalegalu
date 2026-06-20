@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o paszach
+# Ustawa z dnia 26 czerwca 2008 r. o zmianie ustawy o paszach
 
 *USTAWA z dnia 26 czerwca 2008 r.*
 

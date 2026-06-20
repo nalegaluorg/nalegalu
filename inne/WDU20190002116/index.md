@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o podatku akcyzowym
 
 *USTAWA z dnia 16 października 2019 r.*
 

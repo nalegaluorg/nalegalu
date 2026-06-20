@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 16 października 2019 r.*
 

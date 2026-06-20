@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadku koronnym
+# Ustawa z dnia 25 czerwca 1997 r. o świadku koronnym.
 
 *USTAWA z dnia 25 czerwca 1997 r.*
 

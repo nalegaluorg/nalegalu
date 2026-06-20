@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie rejestru głównych oddziałów zagranicznych zakładów ubezpieczeń.
+# Rozporządzenie Ministra Sprawiedliwości z dnia 3 listopada 1999 r. w sprawie rejestru głównych oddziałów zagranicznych zakładów ubezpieczeń.
 
 | Pole | Wartość |
 |---|---|

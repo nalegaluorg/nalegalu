@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o specjalnym podatku węglowodorowym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 11 września 2019 r. o uchyleniu ustawy o specjalnym podatku węglowodorowym oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 11 września 2019 r.*
 

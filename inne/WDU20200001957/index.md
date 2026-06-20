@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Agencji Kosmicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Agencji Kosmicznej
 
 *USTAWA z dnia 26 września 2014 r.*
 

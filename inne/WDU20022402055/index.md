@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz niektórych innych ustaw
+# Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 5 grudnia 2002 r.*
 

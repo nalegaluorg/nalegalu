@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Zespole Pomocy Humanitarno-Medycznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Zespole Pomocy Humanitarno-Medycznej
 
 *USTAWA z dnia 12 maja 2022 r.*
 

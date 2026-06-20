@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 listopada 2008 r.*
 
@@ -61,13 +61,25 @@ source: pdf
 7. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 6, może:
 
 - **1)** zróżnicować stawki opłaty elektronicznej ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
-- **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników drogi krajowej w wysokości nie mniejszej niż 87 % stawki opłaty elektronicznej, z zachowaniem zasady przejrzystości i niedyskryminacji. Art. 13hb. 1. Opłatę elektroniczną pobiera Generalny Dyrektor Dróg Krajowych i Autostrad.
+- **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników drogi krajowej w wysokości nie mniejszej niż 87 % stawki opłaty elektronicznej, z zachowaniem zasady przejrzystości i niedyskryminacji.
+
+**Art. 13hb.**
+
+1. Opłatę elektroniczną pobiera Generalny Dyrektor Dróg Krajowych i Autostrad.
 
 2. Opłata elektroniczna stanowi przychód Krajowego Funduszu Drogowego.
 
-3. Minister właściwy do spraw transportu, za zgodą Rady Ministrów, może powierzyć przygotowanie, wdrożenie, budowę lub eksploatację systemu elektronicznego poboru opłat elektronicznych, w tym pobór opłaty elektronicznej, drogowej spółce specjalnego przeznaczenia, utworzonej w trybie ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, z zastrzeżeniem art. 13hd ust. 3. Art. 13hc. 1. Uiszczenie opłaty elektronicznej następuje w systemie elektronicznego poboru opłat, zgodnie z art. 13i.
+3. Minister właściwy do spraw transportu, za zgodą Rady Ministrów, może powierzyć przygotowanie, wdrożenie, budowę lub eksploatację systemu elektronicznego poboru opłat elektronicznych, w tym pobór opłaty elektronicznej, drogowej spółce specjalnego przeznaczenia, utworzonej w trybie ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, z zastrzeżeniem art. 13hd ust. 3.
 
-2. Podmioty pobierające opłaty elektroniczne z wykorzystaniem systemów elektronicznego poboru opłat mogą umożliwić użytkownikom dróg krajowych uiszczanie tych opłat bez konieczności instalacji urządzenia, o którym mowa w art. 13i ust. 3. Art. 13hd. 1. Generalny Dyrektor Dróg Krajowych i Autostrad albo drogowa spółka specjalnego przeznaczenia, o której mowa w art. 13hb ust. 3, za zgodą ministra właściwego do spraw transportu i po uzgodnieniu z ministrem właściwym do spraw finansów publicznych, może w drodze umowy powierzyć budowę lub eksploatację systemu elektronicznego poboru opłat elektronicznych innemu podmiotowi, zwanemu dalej „operatorem”.
+**Art. 13hc.**
+
+1. Uiszczenie opłaty elektronicznej następuje w systemie elektronicznego poboru opłat, zgodnie z art. 13i.
+
+2. Podmioty pobierające opłaty elektroniczne z wykorzystaniem systemów elektronicznego poboru opłat mogą umożliwić użytkownikom dróg krajowych uiszczanie tych opłat bez konieczności instalacji urządzenia, o którym mowa w art. 13i ust. 3.
+
+**Art. 13hd.**
+
+1. Generalny Dyrektor Dróg Krajowych i Autostrad albo drogowa spółka specjalnego przeznaczenia, o której mowa w art. 13hb ust. 3, za zgodą ministra właściwego do spraw transportu i po uzgodnieniu z ministrem właściwym do spraw finansów publicznych, może w drodze umowy powierzyć budowę lub eksploatację systemu elektronicznego poboru opłat elektronicznych innemu podmiotowi, zwanemu dalej „operatorem”.
 
 2. Wybór operatora następuje zgodnie z ustawą z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655 oraz z 2008 r. Nr 171, poz. 1058).
 
@@ -181,7 +193,10 @@ source: pdf
 - **1)** zróżnicować stawki opłat za przejazd autostradą ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
 - **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników autostrady w wysokości nie mniejszej niż 87% stawki opłaty za przejazd autostradą, z zachowaniem zasady przejrzystości i niedyskryminacji.”;
 - **4)** uchyla się art. 37f;
-- **5)** art. 37g i 37ga otrzymują brzmienie: „Art. 37g. Od opłat za przejazd autostradą są zwolnione pojazdy uprzywilejowane wykonujące zadania określone w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ). Art. 37ga. Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych.”;
+- **5)** art. 37g i 37ga otrzymują brzmienie: „Art. 37g. Od opłat za przejazd autostradą są zwolnione pojazdy uprzywilejowane wykonujące zadania określone w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ).
+
+**Art. 37ga.** Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych.”;
+
 - **6)** w art. 39b w ust. 1:
     - **a)** pkt 5 i 5a otrzymują brzmienie: „5) środków pochodzących z opłat za przejazdy autostradą, pobieranych przez Generalnego Dyrektora Dróg Krajowych i Autostrad;
 

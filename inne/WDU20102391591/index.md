@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
+# Ustawa z dnia 25 listopada 2010 r. o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
 
 | Pole | Wartość |
 |---|---|

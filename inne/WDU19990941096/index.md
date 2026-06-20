@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.
+# Rozporządzenie Ministra Środowiska z dnia 18 listopada 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych.
 
 | Pole | Wartość |
 |---|---|

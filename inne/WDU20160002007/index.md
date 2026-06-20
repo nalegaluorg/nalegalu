@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych
+# Ustawa z dnia 4 listopada 2016 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych
 
 *USTAWA z dnia 4 listopada 2016 r.*
 

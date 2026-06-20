@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz ustawy – Prawo wodne
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw oraz ustawy - Prawo wodne
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

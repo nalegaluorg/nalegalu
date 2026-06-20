@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o paszach oraz ustawy o odpadach
+# Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy o paszach oraz ustawy o odpadach
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 

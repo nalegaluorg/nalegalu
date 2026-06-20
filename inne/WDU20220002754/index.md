@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie teleinformatycznym do obsługi niektórych umów
+# Ustawa z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów
 
 *USTAWA z dnia 16 listopada 2022 r.*
 
@@ -59,8 +59,7 @@ source: pdf
 3. Uwierzytelnienie następuje:
 
 - **1)** zgodnie z metodami wymienionymi w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) albo
-- **2)** z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz.
-- **1275)** .
+- **2)** z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275).
 
 **Art. 3.**
 
@@ -251,7 +250,9 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1, dokumenty wchodzące w skład dokumentacji pracowniczej albo dokumentacji umowy będą przechowywane w Systemie do czasu zniszczenia tej dokumentacji zgodnie z art. 13.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób. Art. 15–19. (pominięte)
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób.
+
+**Art. 15–19.** (pominięte)
 
 **Art. 20.**
 

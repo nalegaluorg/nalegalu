@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniu usług drogą elektroniczną
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o świadczeniu usług drogą elektroniczną
 
 *USTAWA z dnia 7 listopada 2008 r.*
 

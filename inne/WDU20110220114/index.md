@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wojewodzie i administracji rządowej w województwie oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o wojewodzie i administracji rządowej w województwie oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

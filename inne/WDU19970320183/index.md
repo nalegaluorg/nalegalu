@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości
+# Ustawa z dnia 6 lutego 1997 r. o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości.
 
 *USTAWA z dnia 6 lutego 1997 r.*
 

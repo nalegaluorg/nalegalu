@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnej opiece geriatrycznej
+# Ustawa z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej
 
 *USTAWA z dnia 17 sierpnia 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-09-08 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1831/text.pdf) |
-
-Art. 47–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -464,6 +462,8 @@ Art. 47–49. (pominięte)
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 #### Rozdział 10 Zmiany w przepisach, przepisy dostosowujące i przepis końcowy
+
+**Art. 47–49.** (pominięte)
 
 **Art. 50.**
 

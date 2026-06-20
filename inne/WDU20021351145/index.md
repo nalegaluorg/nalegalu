@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw
+# Ustawa z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw.
 
 *USTAWA z dnia 24 lipca 2002 r.*
 

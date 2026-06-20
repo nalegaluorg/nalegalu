@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
+# Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
 
 *USTAWA z dnia 22 maja 2009 r.*
 

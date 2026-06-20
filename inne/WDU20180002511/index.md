@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne
+# Ustawa z dnia 14 grudnia 2018 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 

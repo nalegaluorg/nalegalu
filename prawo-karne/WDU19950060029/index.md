@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l) wart. 82 w$l:
+# Ustawa z dnia 2 grudnia 1994 r. o zmianie ustawy - Kodeks wykroczeń.
 
 *USTAWA W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. Nr 12, poz. 114, z poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100, z 1986 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz. 504, z 1991 r. Nr 75, poz. 3321Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101 oraz z 1994 r. Nr 123, poz. 600) wprowadza się następujące zmiany:*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działach administracji rządowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działach administracji rządowej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 21 grudnia 2001 r.*
 

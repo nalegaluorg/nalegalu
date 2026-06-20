@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz niektórych innych ustaw
+# Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 maja 2005 r.*
 

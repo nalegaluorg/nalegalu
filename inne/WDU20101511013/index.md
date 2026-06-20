@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 lipca 2010 r.*
 

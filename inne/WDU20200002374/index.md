@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
+# Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
 
 *USTAWA z dnia 27 listopada 2020 r.*
 

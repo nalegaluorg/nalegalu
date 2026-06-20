@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
+# Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2005 r. zmieniająca ustawę o zmianie ustawy o gospodarce nieruchomościami oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2005 r.*
 

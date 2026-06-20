@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-01-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021411178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1178/text.pdf) |
 
-Art. 43–54. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa obrót dewizowy z zagranicą oraz obrót wartościami dewizowymi w kraju, a także działalność gospodarczą w zakresie kupna i sprzedaży wartości dewizowych oraz pośrednictwa w ich kupnie i sprzedaży.
@@ -261,13 +259,23 @@ Art. 43–54. (pominięte)
 
 1. Wpisowi do rejestru podlegają dane określone w art. 17 ust. 1 pkt 1– 5, z wyjątkiem adresu zamieszkania, jeżeli jest inny niż adres siedziby.
 
-2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu. Art. 17aa. 1. Prezes Narodowego Banku Polskiego prostuje z urzędu wpis do rejestru zawierający oczywiste błędy, omyłki lub niezgodności ze stanem faktycznym.
+2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
+
+**Art. 17aa.**
+
+1. Prezes Narodowego Banku Polskiego prostuje z urzędu wpis do rejestru zawierający oczywiste błędy, omyłki lub niezgodności ze stanem faktycznym.
 
 2. W przypadku zmiany danych wpisanych do rejestru, z wyjątkiem art. 17c ust. 2, przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia zajścia zdarzenia, które spowodowało zmianę tych danych.
 
 3. Prezes Narodowego Banku Polskiego wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru.
 
-**Art. 17b.** Przedsiębiorca jest obowiązany zawiadomić pisemnie Prezesa Narodowego Banku Polskiego o podjęciu działalności kantorowej, a w razie zaprzestania jej wykonywania, złożyć wniosek o wykreślenie z rejestru, w terminie 7 dni, licząc odpowiednio od dnia podjęcia działalności kantorowej lub zaprzestania jej wykonywania. Art. 17ba. 1. Prezes Narodowego Banku Polskiego jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności kantorowej. 2. Jeżeli Prezes Narodowego Banku Polskiego nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Prezes Narodowego Banku Polskiego wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+**Art. 17b.** Przedsiębiorca jest obowiązany zawiadomić pisemnie Prezesa Narodowego Banku Polskiego o podjęciu działalności kantorowej, a w razie zaprzestania jej wykonywania, złożyć wniosek o wykreślenie z rejestru, w terminie 7 dni, licząc odpowiednio od dnia podjęcia działalności kantorowej lub zaprzestania jej wykonywania.
+
+**Art. 17ba.**
+
+1. Prezes Narodowego Banku Polskiego jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności kantorowej.
+
+2. Jeżeli Prezes Narodowego Banku Polskiego nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Prezes Narodowego Banku Polskiego wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
 **Art. 17c.**
 
@@ -280,7 +288,12 @@ Art. 43–54. (pominięte)
 4. W przypadku niewznowienia przez przedsiębiorcę wykonywania działalności kantorowej lub niewznowienia jej wykonywania w poszczególnych jednostkach, organ prowadzący rejestr, po upływie okresu zawieszenia, odpowiednio z urzędu:
 
 - **1)** wykreśla, w drodze decyzji, przedsiębiorcę z rejestru albo
-- **2)** dokonuje zmiany wpisu w zakresie określenia jednostek, w których jest wykonywana działalność kantorowa. Art. 17ca. 1. Prezes Narodowego Banku Polskiego wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności kantorowej, w przypadku gdy:
+- **2)** dokonuje zmiany wpisu w zakresie określenia jednostek, w których jest wykonywana działalność kantorowa.
+
+**Art. 17ca.**
+
+1. Prezes Narodowego Banku Polskiego wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności kantorowej, w przypadku gdy:
+
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 17 ust. 2, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności kantorowej w wyznaczonym przez Prezesa Narodowego Banku Polskiego terminie;
 - **3)** stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania działalności kantorowej przez przedsiębiorcę.
@@ -291,9 +304,15 @@ Art. 43–54. (pominięte)
 
 4. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
 
-5. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Narodowego Banku Polskiego z urzędu wykreśla przedsiębiorcę z rejestru. Art. 17cb. 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 17ca ust. 1.
+5. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Narodowego Banku Polskiego z urzędu wykreśla przedsiębiorcę z rejestru.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność kantorową bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 17ba ust. 2. Art. 17cc. Prezes Narodowego Banku Polskiego wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+**Art. 17cb.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 17ca ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność kantorową bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 17ba ust. 2.
+
+**Art. 17cc.** Prezes Narodowego Banku Polskiego wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 17d.** Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia, niezbędne wyposażenie lokalu przeznaczonego do wykonywania działalności kantorowej, a także sposób prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych, mając na uwadze zapewnienie bezpieczeństwa obrotu gospodarczego w zakresie wykonywania tej działalności.
 
@@ -458,6 +477,8 @@ Art. 43–54. (pominięte)
 **Art. 42.** (uchylony)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 43–54.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

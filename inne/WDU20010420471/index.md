@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rolniczych badaniach rynkowych
+# Ustawa z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych.
 
 *USTAWA z dnia 30 marca 2001 r.*
 

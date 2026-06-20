@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Sanitarnej, ustawy o utworzeniu Agencji Rynku Rolnego, ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawy - Kodeks celny, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej i ustawy o administrowaniu obrotem z zagranicą towarami i usługami
+# Ustawa z dnia 16 lutego 2001 r. o zmianie ustawy o Inspekcji Sanitarnej, ustawy o utworzeniu Agencji Rynku Rolnego, ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawy - Kodeks celny, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej i ustawy o administrowaniu obrotem z zagranicą towarami i usługami.
 
 *USTAWA z dnia 16 lutego 2001 r.*
 

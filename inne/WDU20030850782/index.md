@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o referendum ogólnokrajowym
+# Ustawa z dnia 10 maja 2003 r. o zmianie ustawy o referendum ogólnokrajowym
 
 *USTAWA z dnia 10 maja 2003 r.*
 

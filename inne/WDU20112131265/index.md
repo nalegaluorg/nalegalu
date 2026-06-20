@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o europejskich radach zakładowych
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy o europejskich radach zakładowych
 
 *USTAWA z dnia 31 sierpnia 2011 r.*
 

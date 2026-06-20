@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o broni i amunicji oraz o zmianie ustawy o Biurze Ochrony Rządu
+# Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o broni i amunicji oraz o zmianie ustawy o Biurze Ochrony Rządu
 
 *USTAWA z dnia 14 lutego 2003 r.*
 

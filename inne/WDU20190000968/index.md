@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od wydobycia niektórych kopalin
+# Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin
 
 *USTAWA z dnia 12 kwietnia 2019 r.*
 

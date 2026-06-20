@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła
+# Ustawa z dnia 18 grudnia 2025 r. o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła
 
 *USTAWA z dnia 18 grudnia 2025 r.*
 

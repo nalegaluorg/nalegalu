@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym
+# Ustawa z dnia 11 maja 2012 r. o zmianie ustawy o transporcie drogowym
 
 *USTAWA z dnia 11 maja 2012 r.*
 

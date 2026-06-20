@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+# Ustawa z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 *USTAWA z dnia 26 czerwca 2014 r.*
 

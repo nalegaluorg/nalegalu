@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 listopada 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw
+# Ustawa z dnia 17 kwietnia 2026 r. o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 kwietnia 2026 r.*
 

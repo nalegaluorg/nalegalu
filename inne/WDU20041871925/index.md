@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej
+# Ustawa z dnia 30 lipca 2004 r. o uposażeniu posłów do Parlamentu Europejskiego wybranych w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 30 lipca 2004 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych
+# Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

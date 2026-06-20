@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu programu wieloletniego "Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego"
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
+# Ustawa z dnia 18 grudnia 1997 r. o zmianie ustawy o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
 
 *USTAWA z dnia 18 grudnia 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
+# Ustawa z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
 
 *USTAWA z dnia 16 lutego 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-03-23 |
 | Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/343/text.pdf) |
-
-Art. 68-70. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1941,6 +1939,8 @@ Art. 68-70. (pominięte)
 **Art. 67.** Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 68-70.** (pominięte)
 
 #### Rozdział 8a Przepisy epizodyczne
 

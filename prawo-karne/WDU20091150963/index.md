@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy
+# Ustawa z dnia 18 czerwca 2009 r. o zmianie ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 18 czerwca 2009 r.*
 

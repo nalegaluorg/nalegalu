@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o Inspekcji Weterynaryjnej oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 19 lutego 2010 r.*
 

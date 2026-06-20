@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego
+# Ustawa z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego.
 
 *USTAWA z dnia 4 lipca 1991 r.*
 

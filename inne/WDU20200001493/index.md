@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu
+# Ustawa z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu
 
 *USTAWA z dnia 14 sierpnia 2020 r.*
 
@@ -107,7 +107,11 @@ source: pdf
 - **d)** uchyla się ust. 7,
 - **e)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Do produktów, o których mowa w ust. 1, 8 i 9, stosuje się art. 66.”,
 - **f)** w ust. 9 we wprowadzeniu do wyliczenia wyrazy „w ust. 2, 3 i 5” zastępuje się wyrazami „w ust. 2 i 3”;
-- **2)** po art. 4a dodaje się art. 4aa–4ad w brzmieniu: „Art. 4aa. Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702 i 1493), zwanego dalej „SOID”. Art. 4ab. 1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID.
+- **2)** po art. 4a dodaje się art. 4aa–4ad w brzmieniu: „Art. 4aa. Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r. poz. 702 i 1493), zwanego dalej „SOID”.
+
+**Art. 4ab.**
+
+1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID.
 
 2. Za założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej pobiera się opłatę w wysokości 500 zł wnoszoną na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia. Opłata stanowi dochód budżetu państwa.
 
@@ -135,7 +139,11 @@ source: pdf
 
 5. Wniosek o założenie konta w SOID składa się w postaci elektronicznej oraz opatruje się go kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
 
-6. Po pozytywnym rozpatrzeniu wniosku o założenie konta w SOID, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto, które służy do administrowania udostępnioną wnioskodawcy częścią SOID. Informacja o założeniu konta w SOID lub o odrzuceniu wniosku jest przesyłana na adres poczty elektronicznej wskazany we wniosku. Odrzucenie wniosku o założenie konta w SOID stanowi czynność materialno-techniczną oraz wymaga uzasadnienia. Art. 4ac. 1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, podpisują odpowiednio:
+6. Po pozytywnym rozpatrzeniu wniosku o założenie konta w SOID, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto, które służy do administrowania udostępnioną wnioskodawcy częścią SOID. Informacja o założeniu konta w SOID lub o odrzuceniu wniosku jest przesyłana na adres poczty elektronicznej wskazany we wniosku. Odrzucenie wniosku o założenie konta w SOID stanowi czynność materialno-techniczną oraz wymaga uzasadnienia.
+
+**Art. 4ac.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, podpisują odpowiednio:
 
 - **1)** lekarz wystawiający zapotrzebowanie, osoba upoważniona do reprezentacji podmiotu wykonującego działalność leczniczą oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany w podmiocie wykonującym działalność leczniczą,
 - **2)** lekarz wystawiający zapotrzebowanie oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany poza podmiotem wykonującym działalność leczniczą,
@@ -246,7 +254,11 @@ source: pdf
     - **g)** uzasadnienie konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego,
     - **h)** dane dotyczące serii: numer, datę ważności, ilość produktu leczniczego.
 
-6. Do zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, załącza się dokument potwierdzający uprawnienie osoby podpisującej wniosek do reprezentowania podmiotu składającego zgłoszenie. Art. 4ad. 1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, jest przesyłane, za pośrednictwem SOID, do konsultanta krajowego lub konsultanta wojewódzkiego w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny pacjenta, w celu potwierdzenia zasadności jego wystawienia. Konsultant potwierdza zasadność wystawienia zapotrzebowania lub odmawia takiego potwierdzenia w terminie 7 dni od dnia otrzymania zapotrzebowania. W przypadku braku potwierdzenia we wskazanym wyżej terminie, SOID zwraca zapotrzebowanie do lekarza wystawiającego zapotrzebowanie.
+6. Do zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, załącza się dokument potwierdzający uprawnienie osoby podpisującej wniosek do reprezentowania podmiotu składającego zgłoszenie.
+
+**Art. 4ad.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, jest przesyłane, za pośrednictwem SOID, do konsultanta krajowego lub konsultanta wojewódzkiego w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny pacjenta, w celu potwierdzenia zasadności jego wystawienia. Konsultant potwierdza zasadność wystawienia zapotrzebowania lub odmawia takiego potwierdzenia w terminie 7 dni od dnia otrzymania zapotrzebowania. W przypadku braku potwierdzenia we wskazanym wyżej terminie, SOID zwraca zapotrzebowanie do lekarza wystawiającego zapotrzebowanie.
 
 2. W przypadku potwierdzenia zasadności wystawienia zapotrzebowania, o którym mowa w art. 4 ust. 2, konsultant przesyła w SOID potwierdzone zapotrzebowanie do ministra właściwego do spraw zdrowia. W przypadku odmowy potwierdzenia zasadności wystawienia zapotrzebowania, konsultant zwraca zapotrzebowanie w SOID do lekarza wystawiającego zapotrzebowanie wraz z uzasadnieniem odmowy.
 

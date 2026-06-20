@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw
+# Ustawa z dnia 25 lutego 2021 r. zmieniająca ustawę o zmianie ustawy - Prawo łowieckie oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 lutego 2021 r.*
 

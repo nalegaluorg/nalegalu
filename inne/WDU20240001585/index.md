@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy
+# Ustawa z dnia 1 października 2024 r. o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy
 
 *USTAWA z dnia 1 października 2024 r.*
 

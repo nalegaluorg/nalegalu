@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od niektórych instytucji finansowych
+# Ustawa z dnia 15 stycznia 2016 r. o podatku od niektórych instytucji finansowych
 
 *USTAWA z dnia 15 stycznia 2016 r.*
 
@@ -84,10 +84,12 @@ source: pdf
 - **1)** nabytych przez podatnika obligacji emitowanych przez Bankowy Fundusz Gwarancyjny lub podmiot zarządzający aktywami, o którym mowa w art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253);
 - **2)** kredytów lub pożyczek udzielonych przez podatnika Bankowemu Funduszowi Gwarancyjnemu lub podmiotowi zarządzającemu aktywami, o którym mowa w art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
-**Art. 6.** Jeżeli dla określenia podstawy opodatkowania stosowane są kwoty wyrażone w walucie obcej, przeliczenia na złote kwot wyrażonych w walucie obcej dokonuje się według kursu średniego danej waluty obcej ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień, na który ustalana jest podstawa opodatkowania. [Art. 7. Podatek wynosi 0,0366% podstawy opodatkowania miesięcznie.] <Art. 7. Podatek wynosi:
+**Art. 6.** Jeżeli dla określenia podstawy opodatkowania stosowane są kwoty wyrażone w walucie obcej, przeliczenia na złote kwot wyrażonych w walucie obcej dokonuje się według kursu średniego danej waluty obcej ogłoszonego przez Narodowy Bank Polski na ostatni dzień roboczy poprzedzający dzień, na który ustalana jest podstawa opodatkowania.
+
+**Art. 7.** Podatek wynosi:
 
 - **1)** 0,0366 % podstawy opodatkowania miesięcznie;
-- **2)** 0,0293 % podstawy opodatkowania miesięcznie – w przypadku podatników, o których mowa w art. 4 pkt 1–4.>
+- **2)** 0,0293 % podstawy opodatkowania miesięcznie – w przypadku podatników, o których mowa w art. 4 pkt 1–4.
 
 #### Rozdział 4 Pobór podatku
 
@@ -129,7 +131,9 @@ source: pdf
 
 #### Rozdział 7 [Zmiana w przepisach obowiązujących, przepisy przejściowe i przepis końcowy] < Zmiana w przepisach, przepisy epizodyczne i przejściowe oraz przepis końcowy >
 
-**Art. 12.** (pominięty) <Art. 12a. W 2027 r. stawka podatku, o której mowa w art. 7 pkt 2, wynosi 0,0329 %. >
+**Art. 12.** (pominięty)
+
+**Art. 12a.** W 2027 r. stawka podatku, o której mowa w art. 7 pkt 2, wynosi 0,0329 %.
 
 **Art. 13.** Pierwszym okresem rozliczeniowym, za który podatnicy dokonują obliczenia i wpłaty podatku oraz składają deklarację podatkową, o której mowa w art. 8 ust. 1 pkt 1, jest luty 2016 r.
 

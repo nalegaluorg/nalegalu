@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przenoszeniu praw emerytalnych urzędników Wspólnot Europejskich
+# Ustawa z dnia 23 stycznia 2008 r. o przenoszeniu praw emerytalnych urzędników Wspólnot Europejskich
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

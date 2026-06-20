@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo łowieckie oraz niektórych innych ustaw
+# Ustawa z dnia 22 marca 2018 r. o zmianie ustawy - Prawo łowieckie oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 marca 2018 r.*
 
@@ -449,7 +449,11 @@ source: pdf
 - **14)** zakładania narzędzi lub urządzeń przeznaczonych do łowienia, chwytania lub zabijania zwierzyny, z wyjątkiem odłowów, o których mowa w art. 44 ust. 3, art. 44a albo art. 45, odłowów prowadzonych zgodnie z zatwierdzonym rocznym planem łowieckim albo odłowów prowadzonych na podstawie ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
 - **15)** wykonywania polowania w obecności lub przy udziale dzieci do
 
-18. roku życia. Art. 42ab. 1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje – co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego – wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
+18. roku życia.
+
+**Art. 42ab.**
+
+1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje – co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego – wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
 
 2. Termin rozpoczęcia i zakończenia oraz miejsce polowania zbiorowego są podawane do publicznej wiadomości przez wójta (burmistrza, prezydenta miasta), nie później niż w terminie 5 dni od dnia otrzymania informacji, o której mowa w ust. 1, w sposób zwyczajowo przyjęty w danej gminie oraz przez obwieszczenie i na stronie internetowej urzędu gminy.
 

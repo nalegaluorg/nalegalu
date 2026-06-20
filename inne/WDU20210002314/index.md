@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki
+# Ustawa z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki
 
 *USTAWA z dnia 29 października 2021 r.*
 

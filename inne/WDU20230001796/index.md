@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o portach i przystaniach morskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o portach i przystaniach morskich
 
 *USTAWA z dnia 20 grudnia 1996 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-09-05 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001796) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1796/text.pdf) |
-
-Art. 26–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -539,6 +537,8 @@ Art. 26–29. (pominięte)
 5. Gmina, w przypadku, o którym mowa w ust. 1, albo dyrektor urzędu morskiego, w przypadku, o którym mowa w ust. 2, mogą powierzyć zadania i uprawnienia podmiotu zarządzającego na zasadach określonych w ustawie z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi lub ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, z tym że w przypadku powierzenia zadań i uprawnień podmiotu zarządzającego koncesjonariuszowi lub partnerowi prywatnemu uprawnienia, o których mowa w art. 4 ust. 1 oraz art. 4a, przysługują odpowiednio gminie lub Skarbowi Państwa. Przepisu art. 3a ust. 1 pkt 1 lit. a nie stosuje się.
 
 #### Rozdział 6 Zmiany w obowiązujących przepisach
+
+**Art. 26–29.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie dodatków mieszkaniowych.
+# Rozporządzenie Rady Ministrów z dnia 27 września 1999 r. zmieniające rozporządzenie w sprawie dodatków mieszkaniowych.
 
 | Pole | Wartość |
 |---|---|

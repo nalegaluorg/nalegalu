@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o czasie pracy kierowców oraz ustawy o transporcie drogowym
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o czasie pracy kierowców oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 15 lipca 2011 r.*
 

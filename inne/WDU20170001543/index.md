@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 lipca 2017 r.*
 
@@ -372,7 +372,11 @@ source: pdf
 
 15. Domniemywa się, że cudzoziemiec, którego dotyczy oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi wpisane do ewidencji oświadczeń, zakończył wykonywanie pracy w dniu określonym w oświadczeniu, chyba że z okoliczności wynika, że cudzoziemiec zakończył pracę na podstawie oświadczenia w innym terminie.
 
-16. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń lub cudzoziemiec wykonujący pracę na podstawie takiego oświadczenia mogą powiadomić właściwy powiatowy urząd pracy o zakończeniu tej pracy. Art. 88za. 1. Jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, który zatrudniał cudzoziemca przez okres nie krótszy niż 3 miesiące w związku z oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, złożył przed upływem daty zakończenia pracy wskazanej w oświadczeniu wniosek o wydanie zezwolenia na pracę dla tego cudzoziemca na tym samym stanowisku na podstawie umowy o pracę, a wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na warunkach nie gorszych niż określone w oświadczeniu wpisanym do ewidencji oświadczeń uważa się za legalną od dnia upływu ważności tego oświadczenia do dnia wydania zezwolenia na pracę lub doręczenia decyzji odmownej w tej sprawie.
+16. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie oświadczenia o powierzeniu wykonywania pracy cudzoziemcowi wpisanego do ewidencji oświadczeń lub cudzoziemiec wykonujący pracę na podstawie takiego oświadczenia mogą powiadomić właściwy powiatowy urząd pracy o zakończeniu tej pracy.
+
+**Art. 88za.**
+
+1. Jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, który zatrudniał cudzoziemca przez okres nie krótszy niż 3 miesiące w związku z oświadczeniem o powierzeniu wykonywania pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, złożył przed upływem daty zakończenia pracy wskazanej w oświadczeniu wniosek o wydanie zezwolenia na pracę dla tego cudzoziemca na tym samym stanowisku na podstawie umowy o pracę, a wniosek nie zawiera braków formalnych lub braki formalne zostały uzupełnione w terminie, pracę cudzoziemca na warunkach nie gorszych niż określone w oświadczeniu wpisanym do ewidencji oświadczeń uważa się za legalną od dnia upływu ważności tego oświadczenia do dnia wydania zezwolenia na pracę lub doręczenia decyzji odmownej w tej sprawie.
 
 2. Przepisu ust. 1 nie stosuje się w przypadku zawieszenia postępowania na wniosek strony.
 

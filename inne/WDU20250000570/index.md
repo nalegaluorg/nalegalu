@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników
 
 *USTAWA z dnia 13 marca 2003 r.*
 
@@ -153,7 +153,9 @@ source: pdf
 
 **Art. 11.** Przepisów ustawy nie stosuje się do pracowników zatrudnionych na podstawie mianowania.
 
-**Art. 12.** Przy rozwiązywaniu stosunków pracy z przyczyn niedotyczących pracowników, w zakresie nieuregulowanym w niniejszej ustawie, a także przy rozpatrywaniu sporów związanych z naruszeniem przepisów niniejszej ustawy stosuje się przepisy Kodeksu pracy. Art. 13–27. (pominięte)
+**Art. 12.** Przy rozwiązywaniu stosunków pracy z przyczyn niedotyczących pracowników, w zakresie nieuregulowanym w niniejszej ustawie, a także przy rozpatrywaniu sporów związanych z naruszeniem przepisów niniejszej ustawy stosuje się przepisy Kodeksu pracy.
+
+**Art. 13–27.** (pominięte)
 
 **Art. 28.**
 

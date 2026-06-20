@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks cywilny
+# Ustawa z dnia 26 lipca 2000 r. o zmianie ustawy - Kodeks cywilny.
 
 *USTAWA z dnia 26 lipca 2000 r.*
 

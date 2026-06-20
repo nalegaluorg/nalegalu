@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 lipca 2023 r.*
 
@@ -26,96 +26,6 @@ source: pdf
 | Data wydania | 2023-08-23 |
 | Ostatnia zmiana | 2025-08-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1681/text.pdf) |
-
-Art. 11zp. Odbiorca aktywny może działać samodzielnie albo za pośrednictwem agregatora.
-Art. 11zq. 1. Odbiorca aktywny ma prawo do powierzenia innemu podmiotowi zarządzania instalacją tego odbiorcy.
-2. Zarządzanie instalacją przez inny podmiot, o którym mowa w ust. 1, obejmuje instalowanie, eksploatację, utrzymanie instalacji lub obsługę danych pomiarowych.
-3. Inny podmiot, o którym mowa w ust. 1, nie jest odbiorcą aktywnym.
-Art. 11zr. Odbiorca aktywny nie może zostać obciążony dyskryminacyjnymi wymaganiami technicznymi, procedurami oraz dodatkowymi opłatami, w tym opłatami sieciowymi nieodzwierciedlającymi kosztów związanych z dostępem do sieci.”;
-42) w art. 15b:
-a) w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) wnioski z monitorowania bezpieczeństwa dostaw paliw gazowych.”,
-b) w ust. 5 w pkt 1 wyrazy „(WE) nr 714/2009 Parlamentu Europejskiego i Rady z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylające rozporządzenie (WE) nr 1228/2003” zastępuje się wyrazami „2019/943”,
-c) uchyla się ust. 8;
-43) uchyla się art. 15c;
-44) w art. 15g wyrazy „nr 347/2013 z dnia 17 kwietnia 2013 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, uchylającego decyzję nr 1364/2006/WE oraz zmieniającego rozporządzenia (WE) nr 713/2009, (WE) nr 714/2009 i (WE) nr 715/2009 (Dz. Urz. UE L 115 z 25.04.2013, str. 39, z późn. zm. )” zastępuje się wyrazami „2022/869 z dnia 30 maja 2022 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, zmiany rozporządzeń (WE) nr 715/2009, (UE) 2019/942 i (UE) 2019/943 oraz dyrektyw 2009/73/WE i (UE) 2019/944 oraz uchylenia rozporządzenia (UE) nr 347/2013 (Dz. Urz. UE L 152 z 03.06.2022, str. 45)”;
-45) po art. 15h dodaje się art. 15i w brzmieniu: „Art. 15i. 1. Operator systemu przesyłowego elektroenergetycznego opracowuje ocenę wystarczalności zasobów na poziomie krajowym, o której mowa w art. 24 rozporządzenia 2019/943, i dokonuje jej aktualizacji na podstawie metody oceny wystarczalności zasobów na poziomie europejskim, o której mowa w art. 23 ust. 5 rozporządzenia 2019/943, stosując ją odpowiednio w takim zakresie, w jakim została zastosowana przez ENTSO energii elektrycznej w danym okresie oceny wystarczalności zasobów na poziomie europejskim, oraz w zakresie właściwym dla wykonywania oceny wystarczalności zasobów na poziomie krajowym:
-1) jeżeli okoliczności uzasadniają opracowanie tej oceny;
-2) na wniosek ministra właściwego do spraw energii.
-2. Operator systemu przesyłowego elektroenergetycznego zamieszcza na swojej stronie internetowej aktualną ocenę wystarczalności zasobów na poziomie krajowym.
-3. W przypadku stwierdzenia w ocenie wystarczalności zasobów na poziomie krajowym występowania problemu z wystarczalnością zasobów, który nie został stwierdzony w ocenie wystarczalności zasobów na poziomie europejskim, operator systemu przesyłowego elektroenergetycznego powiadamia o tym ministra właściwego do spraw energii oraz Prezesa Urzędu Regulacji Energetyki, przekazując uzasadnienie stwierdzonej rozbieżności.”;
-46) w art. 16:
-a) w ust. 1: – pkt 4 otrzymuje brzmienie: „4) dziesięcioletni plan rozwoju sieci o zasięgu unijnym, o którym mowa w art. 30 ust. 1 lit. b rozporządzenia 2019/943 lub w art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem energii elektrycznej lub paliw gazowych;”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) krajowy plan w dziedzinie energii i klimatu, o którym mowa w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (UE) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 321 z 21.12.2018, str. 1) – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem energii elektrycznej.”,
-b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W planie, o którym mowa w ust. 1, przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej może uwzględnić wytyczne Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych.”,
-c) w ust. 2 zdanie drugie otrzymuje brzmienie: „Plan ten podlega aktualizacji co 2 lata.”,
-d) ust. 4 i 5 otrzymują brzmienie: „4. Operator systemu dystrybucyjnego:
-1) gazowego sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe na okres nie krótszy niż 5 lat,
-2) elektroenergetycznego sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię elektryczną na okres nie krótszy niż 6 lat – i aktualizuje ten plan co 2 lata.
-5. Plan, o którym mowa w ust. 1, sporządzany przez operatora systemu przesyłowego elektroenergetycznego i operatora systemu dystrybucyjnego elektroenergetycznego obejmuje dodatkowo prognozę dotyczącą stanu bezpieczeństwa dostarczania energii elektrycznej, sporządzaną na okres nie krótszy niż:
-1) 15 lat – w przypadku operatora systemu przesyłowego;
-2) 10 lat – w przypadku operatora systemu dystrybucyjnego.”,
-e) w ust. 7: – pkt 5–7 otrzymują brzmienie: „5) przewidywany sposób finasowania inwestycji, w tym wyodrębnioną część dotyczącą zakresu i sposobu wykorzystania środków finasowania innych niż taryfa;
-6) przewidywane przychody niezbędne do realizacji planów, w tym wyodrębnioną część dotyczącą przyznanych subwencji, dotacji, pożyczek bezzwrotnych lub wsparcia w innej formie, pozyskanego lub możliwego do pozyskania z krajowych, unijnych i międzynarodowych funduszy lub programów;
-7) planowany harmonogram inwestycji wraz z wyodrębnioną częścią obejmującą kierunki rozwoju sieci i realizacji inwestycji priorytetowych, o których mowa w ust. 1a;”, – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) cele oraz przewidywane efekty przedsięwzięć, o których mowa w pkt 2–4.”,
-f) po ust. 8a dodaje się ust. 8b i 8c w brzmieniu: „8b. W planie, o którym mowa w ust. 1, operator systemu dystrybucyjnego elektroenergetycznego uwzględnia także inwestycje niezbędne do przyłączania punktów ładowania pojazdów elektrycznych zlokalizowanych w ogólnodostępnych stacjach ładowania zgodnie z planem, o którym mowa w art. 32 ust. 1 ustawy z dnia 11 stycznia 2018 r.
-o elektromobilności i paliwach alternatywnych, oraz punktów ładowania pojazdów elektrycznych stanowiących element infrastruktury ładowania drogowego transportu publicznego.
-8c. Plan, o którym mowa w ust. 1, opracowywany przez operatora systemu dystrybucyjnego elektroenergetycznego:
-1) zapewnia przejrzystość w odniesieniu do zapotrzebowania tego operatora na usługi elastyczności w okresie wskazanym w ust. 4 pkt 2;
-2) obejmuje wykorzystanie odpowiedzi odbioru, efektywności energetycznej, magazynowania energii lub innych zasobów, które operator ten uwzględnia jako rozwiązanie alternatywne wobec rozbudowy sieci dystrybucyjnej.”,
-g) w ust. 13: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Projekt planu, o którym mowa w ust. 1, podlega uzgodnieniu z Prezesem Urzędu Regulacji Energetyki działającym w porozumieniu z ministrem właściwym do spraw energii, z wyłączeniem planów rozwoju przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją:”, – pkt 2 otrzymuje brzmienie: „2) energii elektrycznej, dla mniej niż 300 odbiorców, którym przedsiębiorstwo to dostarcza rocznie łącznie mniej niż 150 GWh tej energii;”,
-h) uchyla się ust. 14,
-i) w ust. 14a wyrazy „ust. 2, 4 i 14” zastępuje się wyrazami „ust. 2 i 4”,
-j) ust. 15 otrzymuje brzmienie: „15. Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego, operator systemu dystrybucyjnego gazowego oraz operator systemu dystrybucyjnego elektroenergetycznego konsultują projekt planu, o którym mowa w ust. 2 i ust. 4 pkt 2, z wyłączeniem informacji, o których mowa w ust. 7 pkt 5 i 6, oraz z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych, z zainteresowanymi stronami, zamieszczając projekt ten na swojej stronie internetowej i wyznaczając termin na zgłaszanie uwag, nie krótszy niż 21 dni. Operator systemu dystrybucyjnego elektroenergetycznego zamieszcza wyniki konsultacji na swojej stronie internetowej.”,
-k) po ust. 15a dodaje się ust. 15b w brzmieniu: „15b. Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego, operator systemu dystrybucyjnego gazowego oraz operator systemu dystrybucyjnego elektroenergetycznego przedkładają Prezesowi Urzędu Regulacji Energetyki do uzgodnienia projekt planu, o którym mowa w ust. 2 i 4, oraz jego aktualizację, w terminie do dnia 30 kwietnia danego roku. W przypadku projektu planu sporządzonego przez operatora systemu przesyłowego lub operatora systemu dystrybucyjnego elektroenergetycznego, operator ten przedkłada projekt planu, o którym mowa w ust. 2 lub w ust. 4 pkt 2, oraz jego aktualizację, po przeprowadzeniu konsultacji, o których mowa w ust. 15, wraz z wynikami tych konsultacji.”,
-l) po ust. 18 dodaje się ust. 18a–18e w brzmieniu: „18a. Przedsiębiorstwo energetyczne obowiązane do uzgadniania projektu planu, o którym mowa w ust. 1, z Prezesem Urzędu Regulacji Energetyki, które stosuje się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz korzysta ze środków ustalonych w sposób, o którym mowa w art. 23 ust. 2 pkt 3 lit. g lub h, wraz ze sprawozdaniem, o którym mowa w ust. 18, przedkłada:
-1) informacje o zakresie zrealizowania harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a;
-2) w przypadku zakończenia w danym roku inwestycji priorytetowych, o których mowa w ust. 1a – oświadczenie o ukończeniu tych inwestycji i spełnieniu wymagań dla tych inwestycji określonych w planie, o którym mowa w ust. 1, oddzielnie dla każdej ukończonej inwestycji;
-3) dokumenty potwierdzające realizację inwestycji priorytetowych, o których mowa w ust. 1a, w tym zakres faktycznie poniesionych nakładów, oryginał lub poświadczoną kopię umów na realizację przedsięwzięcia i innych wiążących zobowiązań oraz sprawozdanie finansowe za dany rok obrotowy, sporządzone na zasadach i w trybie określonym w ustawie z dnia 29 września 1994 r. o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015), zbadane przez biegłego rewidenta, zawierające w ramach ujawnień w informacji dodatkowej tego sprawozdania przedstawienie odpowiednich pozycji bilansu oraz rachunku zysków i strat potwierdzających prawidłowość przedłożonych informacji oraz ilości środków, o których mowa w art. 23 ust. 2 pkt 3 lit. h.
-18b. Oświadczenie, o którym mowa w ust. 18a pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.
-Składający to oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że inwestycja ujęta w planie rozwoju w ramach stosowania się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych, o których mowa w art. 16 ust. 1a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, została ukończona i spełnia wymagania określone w planie rozwoju.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-18c. Oświadczenie, o którym mowa w ust. 18a pkt 2, zawiera podpis osoby uprawnionej do reprezentacji przedsiębiorstwa energetycznego, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
-18d. Rozliczenie wykonania harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a, następuje po zakończeniu każdego pełnego roku od dnia uzgodnienia planu, o którym mowa w ust. 1, oraz po zakończeniu inwestycji priorytetowych, przy czym stan wykonania, w każdym okresie sprawozdawczym, nie może być mniejszy niż 85% wykonania tego planu oddzielnie dla każdej inwestycji priorytetowej.
-18e. W szczególnie uzasadnionych przypadkach, wynikających z przyczyn niezależnych od przedsiębiorstwa energetycznego, Prezes Urzędu Regulacji Energetyki na uzasadniony wniosek przedsiębiorstwa energetycznego może przedłużyć termin na wykonanie harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a, na oznaczony okres, pod warunkiem przekazania Prezesowi Urzędu Regulacji Energetyki informacji o przyczynach przewidywanego niewykonania tego harmonogramu w zakresie, o którym mowa w ust. 18d, w terminie 30 dni od ich wystąpienia, wraz z proponowanym okresem przedłużenia jego wykonania.”,
-m) dodaje się ust. 23 w brzmieniu: „23. Operator zamkniętego systemu dystrybucyjnego elektroenergetycznego, posiadacz magazynu energii, właściciel jednostki odbiorczej świadczący lub planujący świadczyć usługi elastyczności przekazują właściwemu operatorowi systemu elektroenergetycznego informacje o strukturze i wielkościach zdolności regulacji zapotrzebowania energii elektrycznej przyjętych w planach, o których mowa w ust. 4 pkt 2, lub prognozach, o których mowa w ust. 5, stosownie do postanowień instrukcji opracowanej przez operatora systemu dystrybucyjnego elektroenergetycznego.”;
-47) w art. 23:
-a) w ust. 2: – w pkt 3 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g oraz h w brzmieniu: „g) uzasadnionej stopy zwrotu z kapitału zaangażowanego w realizację zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych,
-h) uzasadnionej stopy zwrotu z wkładu własnego niezbędnego do pozyskania finansowania zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych przyznanego subwencją, dotacją, pożyczką bezzwrotną lub wsparciem w innej formie z krajowych, unijnych lub międzynarodowych funduszy lub programów;”, – pkt 3a otrzymuje brzmienie: „3a) opracowywanie i zamieszczanie, nie później niż 9 miesięcy przed terminem określonym w art. 16 ust. 15b, w Biuletynie Urzędu Regulacji Energetyki wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz wytycznych i zaleceń zapewniających jednolitą formę planów, o których mowa w art. 16 ust. 1;”, – po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) kontrolowanie wykonania realizacji planu w zakresie, o którym mowa w art. 16 ust. 18a–18d;”, – pkt 11 otrzymuje brzmienie: „11) kontrolowanie realizacji przez operatora systemu przesyłowego elektroenergetycznego, operatora systemu połączonego elektroenergetycznego, operatora systemu dystrybucyjnego elektroenergetycznego oraz innych uczestników rynku energii elektrycznej obowiązków wynikających z przepisów rozporządzenia 2019/943, a także wykonywanie innych obowiązków organu regulacyjnego wynikających z tego rozporządzenia oraz obowiązków wynikających z aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz innych przepisów prawa Unii Europejskiej;”, – pkt 11b otrzymuje brzmienie: „11b) zatwierdzanie metod alokacji zdolności przesyłowych i zarządzania ograniczeniami, opracowanych zgodnie z przepisami rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowej gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz aktów prawnych wydanych na podstawie art. 6 ust. 11 akapit drugi i art. 23 ust. 2 akapit drugi rozporządzenia 715/2009;”, – po pkt 11e dodaje się pkt 11f–11h w brzmieniu: „11f) wykonywanie decyzji Komisji Europejskiej i Agencji;
-11g) opracowywanie wytycznych i zaleceń dla operatorów systemów dystrybucyjnych elektroenergetycznych w zakresie udzielania zamówień na usługi elastyczności, w tym na potrzeby zarządzania ograniczeniami systemowymi na obszarze ich działalności;
-11h) ocena rynku usług elastyczności, w tym efektywności zamawiania tych usług;”, – pkt 14b otrzymuje brzmienie: „14b) współpraca z organami regulacyjnymi państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz z Agencją, w szczególności w zakresie sporządzania i stosowania kodeksów sieci oraz zatwierdzania metod zarządzania ograniczeniami opracowanymi zgodnie z przepisami rozporządzenia 2019/943 oraz rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005, a także w zakresie integracji krajowych sektorów energetycznych na poziomie regionalnym;”, – po pkt 14b dodaje się pkt 14ba w brzmieniu: „14ba) zapewnienie, przy współpracy z organami regulacyjnymi państw członkowskich, wykonywania przez ENTSO energii elektrycznej oraz Organizację Operatorów Systemów Dystrybucyjnych, zwaną dalej „organizacją OSD UE”, ich obowiązków, wynikających z rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz z innych przepisów prawa Unii Europejskiej, w tym w odniesieniu do kwestii transgranicznych, wykonywania decyzji Agencji oraz wspólne wskazywanie przypadków niewykonywania przez ENTSO energii elektrycznej i organizację OSD UE ich odpowiednich obowiązków;”, – pkt 14d otrzymuje brzmienie: „14d) zwracanie się do Agencji w sprawie zgodności decyzji wydanych przez inne organy regulacyjne, o których mowa w pkt 14b, z wytycznymi i kodeksami, o których mowa w rozporządzeniu 2019/943, lub z wytycznymi, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającym rozporządzenie (WE) nr 1775/2005, oraz informowanie Komisji Europejskiej o niezgodności decyzji z tymi aktami;”, – po pkt 18a dodaje się pkt 18b w brzmieniu: „18b) monitorowanie:
-a) poziomu i skuteczności otwarcia rynku i konkurencji na poziomie hurtowym i detalicznym, w tym na giełdach energii elektrycznej,
-b) cen dla odbiorców energii elektrycznej w gospodarstwach domowych, w tym przedpłatowej formy rozliczeń realizowanych za pomocą liczników zdalnego odczytu skomunikowanych z systemem pomiarowym,
-c) zawierania i stosowania umów z cenami dynamicznymi energii elektrycznej, ofert sprzedawców energii elektrycznej, wpływu tych umów i ofert na ceny i stawki opłat dla odbiorców w gospodarstwach domowych, a także szacowanie ryzyk związanych z tymi umowami oraz publikowanie, w terminie do dnia 30 maja każdego roku, raportu z tego monitorowania,
-d) opłat za usługi w zakresie utrzymania systemu elektroenergetycznego i wykonania tych usług,
-e) stosunku cen stosowanych przez sprzedawców energii elektrycznej dla odbiorców energii elektrycznej w gospodarstwach domowych do cen hurtowych energii elektrycznej,
-f) kształtowania się taryf i opłat za świadczenie usług dystrybucyjnych,
-g) skarg zgłaszanych przez odbiorców energii elektrycznej w gospodarstwach domowych,
-h) zakłóceń lub ograniczeń konkurencji, w tym przez dostarczanie stosownych informacji oraz przekazywanie Prezesowi Urzędu Ochrony Konkurencji i Konsumentów istotnych przypadków tych zakłóceń lub ograniczeń,
-i) występowania restrykcyjnych praktyk umownych, w tym klauzul wyłączności, które mogą uniemożliwiać odbiorcom jednoczesne zawieranie umów z więcej niż jednym sprzedawcą lub ograniczać ich wybór w tym zakresie, a w przypadku gdy uzna to za konieczne, powiadamianie o takich praktykach Prezesa Urzędu Ochrony Konkurencji i Konsumentów,
-j) usuwania nieuzasadnionych przeszkód i ograniczeń w rozwijaniu zużycia wytworzonej we własnym zakresie energii elektrycznej i rozwoju obywatelskich społeczności energetycznych,
-k) realizacji projektów, o których mowa w art. 24d ust. 1,
-l) funkcjonowania partnerskiego handlu energią z odnawialnych źródeł energii, w tym w zakresie prawnych i organizacyjnych barier jego rozwoju;”, – uchyla się pkt 19a, – w pkt 21c w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h–j w brzmieniu: „h) wykazu agregatorów,
-i) wykazu linii bezpośrednich,
-j) wykazu obywatelskich społeczności energetycznych;”,
-b) w ust. 5 wyrazy „(WE) nr 714/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003” zastępuje się wyrazami „2019/943”,
-c) dodaje się ust. 8 i 9 w brzmieniu: „8. Prezes URE, co najmniej raz w roku, zamieszcza w Biuletynie Urzędu Regulacji Energetyki zalecenia dotyczące zapewnienia zgodności cen sprzedaży energii elektrycznej z wymogami konkurencyjnego rynku energii i przekazuje te zalecenia, w przypadku gdy uzna to za konieczne, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
-9. W przypadku gdy Prezes URE nie osiągnie porozumienia z organami regulacyjnymi w celu wspólnego wskazywania przypadków niewykonywania przez ENTSO energii elektrycznej i organizację OSD UE ich obowiązków wynikających z rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz w innych przepisach prawa Unii Europejskiej w terminie 4 miesięcy od dnia rozpoczęcia konsultacji, sprawę przekazuje się do decyzji Agencji zgodnie z art. 6 ust. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/942 z dnia 5 czerwca 2019 r. ustanawiającego Agencję Unii Europejskiej ds. Współpracy Organów Regulacji Energetyki (Dz. Urz.
-UE L 158 z 14.06.2019, str. 22).”;
-48) po art. 23w dodaje się art. 23x w brzmieniu: „Art. 23x. 1. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi regionu pracy systemu jest organem właściwym do:
-1) zatwierdzania wniosku o utworzenie regionalnego centrum koordynacyjnego, zgodnie z art. 35 ust. 1 rozporządzenia 2019/943;
-2) zatwierdzania kosztów związanych z działalnością regionalnego centrum koordynacyjnego, zapewniających pokrycie kosztów uzasadnionych operatora systemu przesyłowego;
-3) zatwierdzania wspólnego procesu decyzyjnego;
-4) podejmowania działań mających na celu zapewnienie regionalnym centrom koordynacyjnym pracowników, zasobów technicznych i środków finansowych niezbędnych do niezależnego i bezstronnego wykonywania powierzonych im zadań;
-5) przedstawiania wniosków w zakresie przydzielenia regionalnym centrom koordynacyjnym dodatkowych zadań i uprawnień przez państwa członkowskie tego regionu pracy systemu;
-6) wykonywania zadań mających na celu realizację obowiązków określonych w przepisach prawa Unii Europejskiej, w szczególności w odniesieniu do kwestii transgranicznych oraz wspólnego wskazywania przypadków niewykonywania przez regionalne centra koordynacyjne ich obowiązków, a jeżeli organy regulacyjne nie osiągną porozumienia w terminie czterech miesięcy od dnia rozpoczęcia konsultacji, w celu wspólnego wskazania przypadków niewykonywania obowiązków przez regionalne centra koordynacyjne, przekazania sprawy do decyzji Agencji zgodnie z art. 6 ust. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/942 z dnia 5 czerwca 2019 r. ustanawiającego Agencję Unii Europejskiej ds. Współpracy Organów Regulacji Energetyki;
-7) monitorowania działania koordynacji systemu.
-2. Prezes URE w koordynacji z organami regulacyjnymi regionu pracy systemu jest organem właściwym do zatwierdzania wniosku o utworzenie regionalnego centrum koordynacyjnego, zgodnie z art. 35 ust. 1 rozporządzenia 2019/943, także w przypadku, gdy siedziba regionalnego centrum koordynacyjnego znajduje się poza terytorium Rzeczypospolitej Polskiej.
-3. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi z danego regionu pracy systemu jest obowiązany do corocznego przedkładania Agencji sprawozdania z monitorowania działania koordynacji systemu zgodnie z art. 46 rozporządzenia 2019/943.
-4. Koszty ponoszone przez operatora systemu przesyłowego elektroenergetycznego związane z działalnością regionalnego centrum koordynacyjnego stanowią koszty uzasadnione działalności, o których mowa w art. 45 ust. 1 pkt 2.
-5. Prezes URE we współpracy z organami regulacyjnymi danego regionu pracy systemu, gdzie siedzibę ma regionalne centrum koordynacyjne, realizuje uprawnienia, o których mowa w ust. 1 i 2, również w przypadku, gdy siedziba tego regionalnego centrum koordynacyjnego zostanie ustanowiona na terytorium innego państwa członkowskiego Unii Europejskiej z danego regionu pracy systemu.
-6. Realizując uprawnienia, o których mowa w ust. 1–5, Prezes URE może:
-1) żądać od regionalnych centrów koordynacyjnych informacji związanych z wykonywaniem tych uprawnień;
-2) prowadzić kontrole, w tym niezapowiedziane, w obiektach regionalnych centrów koordynacyjnych;
-3) wydawać decyzje, w uzgodnieniu z organami regulacyjnymi z danego regionu pracy systemu, w sprawach regionalnych centrów koordynacyjnych.”;
-49) po art. 24b dodaje się art. 24c i art. 24d w brzmieniu: „Art. 24c. Prezes URE składa Komisji Europejskiej i Agencji, w terminie do dnia 31 lipca każdego roku, sprawozdanie ze swojej działalności stosownie do zakresu działania w zakresie energii elektrycznej, określonego w art. 23 ust. 2, w tym z zastosowanych przez siebie środków oraz uzyskanych na skutek ich zastosowania wyników.
 
 **Art. 1.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -342,7 +252,11 @@ UE L 158 z 14.06.2019, str. 22).”;
 
 11. Przepisów ust. 1–10 nie stosuje się do odbiorców, o których mowa w art. 6a ust. 3 i art. 6b.
 
-12. W przypadku gdy umowa, o której mowa w ust. 7, przestała obowiązywać lub uległa rozwiązaniu, a operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego nie otrzymali informacji o zawarciu przez odbiorcę końcowego przyłączonego do ich sieci umowy sprzedaży paliw gazowych lub umowy kompleksowej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego zaprzestają dostarczania paliw gazowych odbiorcy końcowemu. Art. 5ab. 1. W przypadku gdy dotychczasowy sprzedawca zaprzestał sprzedaży paliw gazowych odbiorcy końcowemu, a:
+12. W przypadku gdy umowa, o której mowa w ust. 7, przestała obowiązywać lub uległa rozwiązaniu, a operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego nie otrzymali informacji o zawarciu przez odbiorcę końcowego przyłączonego do ich sieci umowy sprzedaży paliw gazowych lub umowy kompleksowej z innym sprzedawcą w ramach procedury zmiany sprzedawcy, operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego zaprzestają dostarczania paliw gazowych odbiorcy końcowemu.
+
+**Art. 5ab.**
+
+1. W przypadku gdy dotychczasowy sprzedawca zaprzestał sprzedaży paliw gazowych odbiorcy końcowemu, a:
 
 - **1)** w umowie o świadczenie usług dystrybucji lub usług przesyłania paliw gazowych lub umowie kompleksowej zawartej przez tego odbiorcę końcowego nie został wskazany sprzedawca rezerwowy paliw gazowych lub umowa ta nie zawiera upoważnienia operatora systemu dystrybucyjnego lub operatora systemu przesyłowego gazowego do zawarcia w imieniu i na rzecz odbiorcy końcowego umowy sprzedaży rezerwowej paliw gazowych lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej paliw gazowych albo
 - **2)** sprzedawca rezerwowy paliw gazowych wskazany przez tego odbiorcę końcowego nie może podjąć, nie podjął lub zaprzestał sprzedaży rezerwowej paliw gazowych – operator systemu dystrybucyjnego gazowego lub operator systemu przesyłowego gazowego, działając w imieniu i na rzecz tego odbiorcy końcowego, zawierają ze sprzedawcą z urzędu umowę kompleksową.
@@ -384,7 +298,11 @@ UE L 158 z 14.06.2019, str. 22).”;
 
 8. Cena energii elektrycznej sprzedawanej w ramach sprzedaży rezerwowej energii elektrycznej wynosi nie więcej niż trzykrotność średniej ceny energii elektrycznej, o której mowa w art. 23 ust. 2 pkt 18a, za poprzedni kwartał.
 
-9. Z chwilą uruchomienia sprzedaży rezerwowej energii elektrycznej, z przyczyn leżących po stronie dotychczasowego sprzedawcy, dotychczas obowiązująca umowa sprzedaży energii elektrycznej albo umowa kompleksowa ulega rozwiązaniu z mocy prawa, bez konieczności ponoszenia przez odbiorcę końcowego dodatkowych kosztów lub opłat. Art. 5ad. 1. Sprzedawca rezerwowy energii elektrycznej informuje odbiorcę końcowego w terminie 5 dni od dnia udostępnienia przez operatora informacji rynku energii informacji, o której mowa w art. 5ac ust. 1, o:
+9. Z chwilą uruchomienia sprzedaży rezerwowej energii elektrycznej, z przyczyn leżących po stronie dotychczasowego sprzedawcy, dotychczas obowiązująca umowa sprzedaży energii elektrycznej albo umowa kompleksowa ulega rozwiązaniu z mocy prawa, bez konieczności ponoszenia przez odbiorcę końcowego dodatkowych kosztów lub opłat.
+
+**Art. 5ad.**
+
+1. Sprzedawca rezerwowy energii elektrycznej informuje odbiorcę końcowego w terminie 5 dni od dnia udostępnienia przez operatora informacji rynku energii informacji, o której mowa w art. 5ac ust. 1, o:
 
 - **1)** zawarciu umowy sprzedaży rezerwowej energii elektrycznej lub umowy kompleksowej zawierającej postanowienia umowy sprzedaży rezerwowej energii elektrycznej, podstawie prawnej jej zawarcia oraz o dacie rozpoczęcia sprzedaży rezerwowej energii elektrycznej;
 - **2)** warunkach świadczenia sprzedaży rezerwowej energii elektrycznej, w tym o stosowanym cenniku i terminie jego obowiązywania oraz o okresie rozliczeniowym;
@@ -422,16 +340,27 @@ UE L 158 z 14.06.2019, str. 22).”;
 9. Sprzedawca energii elektrycznej dostarcza odbiorcy końcowemu umowę sprzedaży rezerwowej energii elektrycznej lub umowę kompleksową zawierającą postanowienia umowy sprzedaży rezerwowej energii elektrycznej:
 
 - **1)** w terminie 14 dni od dnia otrzymania przez sprzedawcę rezerwowego energii elektrycznej informacji od operatora informacji rynku energii o wystąpieniu przesłanek uruchomienia sprzedaży rezerwowej energii elektrycznej – odbiorcy energii elektrycznej w gospodarstwie domowym;
-- **2)** w terminie 30 dni od dnia otrzymania przez sprzedawcę rezerwowego energii elektrycznej informacji od operatora informacji rynku energii o wystąpieniu przesłanek uruchomienia sprzedaży rezerwowej energii elektrycznej – innemu odbiorcy. Art. 5ae. 1. Sprzedaż rezerwowa energii elektrycznej ustaje na skutek:
+- **2)** w terminie 30 dni od dnia otrzymania przez sprzedawcę rezerwowego energii elektrycznej informacji od operatora informacji rynku energii o wystąpieniu przesłanek uruchomienia sprzedaży rezerwowej energii elektrycznej – innemu odbiorcy.
+
+**Art. 5ae.**
+
+1. Sprzedaż rezerwowa energii elektrycznej ustaje na skutek:
+
 - **1)** rozpoczęcia realizacji sprzedaży energii elektrycznej na podstawie umowy sprzedaży energii elektrycznej lub umowy kompleksowej z nowym sprzedawcą dla danego punktu poboru energii – z chwilą rozpoczęcia realizacji odpowiednio umowy sprzedaży energii elektrycznej lub umowy kompleksowej;
 - **2)** wygaśnięcia lub rozwiązania umowy sprzedaży rezerwowej energii elektrycznej dla danego punktu poboru energii – z chwilą wygaśnięcia lub rozwiązania tej umowy;
 - **3)** wygaśnięcia lub rozwiązania umowy o świadczenie usług dystrybucji energii elektrycznej dla danego punktu poboru energii – z chwilą wygaśnięcia lub rozwiązania tej umowy.
 
 2. W przypadkach, o których mowa w ust. 1 pkt 1 i 3, umowa sprzedaży rezerwowej energii elektrycznej lub umowa kompleksowa zawierająca postanowienia umowy sprzedaży rezerwowej energii elektrycznej wygasa z mocy prawa.
 
-3. W przypadku zmiany sprzedawcy rezerwowego energii elektrycznej dotychczasowy sprzedawca rezerwowy energii elektrycznej jest obowiązany dokonać rozliczeń z odbiorcą końcowym nie później niż w terminie, o którym mowa w art. 4j ust. 7, liczonym od dnia dokonania tej zmiany. Art. 5af. 1. Odbiorca końcowy może wypowiedzieć umowę sprzedaży rezerwowej energii elektrycznej lub umowę kompleksową zawierającą postanowienia umowy sprzedaży rezerwowej energii elektrycznej z zachowaniem 7-dniowego okresu wypowiedzenia.
+3. W przypadku zmiany sprzedawcy rezerwowego energii elektrycznej dotychczasowy sprzedawca rezerwowy energii elektrycznej jest obowiązany dokonać rozliczeń z odbiorcą końcowym nie później niż w terminie, o którym mowa w art. 4j ust. 7, liczonym od dnia dokonania tej zmiany.
 
-2. Umowa sprzedaży rezerwowej energii elektrycznej lub umowa kompleksowa zawierająca postanowienia umowy sprzedaży rezerwowej energii elektrycznej ulega rozwiązaniu z upływem 7 dni od dnia doręczenia sprzedawcy z urzędu oświadczenia odbiorcy końcowego o wypowiedzeniu umowy. Odbiorca może wskazać późniejszy termin rozwiązania umowy, o której mowa w zdaniu pierwszym. Art. 5ag. Przepisy art. 3 pkt 6c i 29b, art. 5 ust. 14 oraz art. 5ac–5af stosuje się do przedsiębiorstwa zintegrowanego pionowo, o którym mowa w art. 9d ust. 7 pkt 1 i 2, a także do wytwórcy, który jest zaopatrywany w energię elektryczną na podstawie umowy sprzedaży energii elektrycznej albo umowy kompleksowej.”;
+**Art. 5af.**
+
+1. Odbiorca końcowy może wypowiedzieć umowę sprzedaży rezerwowej energii elektrycznej lub umowę kompleksową zawierającą postanowienia umowy sprzedaży rezerwowej energii elektrycznej z zachowaniem 7-dniowego okresu wypowiedzenia.
+
+2. Umowa sprzedaży rezerwowej energii elektrycznej lub umowa kompleksowa zawierająca postanowienia umowy sprzedaży rezerwowej energii elektrycznej ulega rozwiązaniu z upływem 7 dni od dnia doręczenia sprzedawcy z urzędu oświadczenia odbiorcy końcowego o wypowiedzeniu umowy. Odbiorca może wskazać późniejszy termin rozwiązania umowy, o której mowa w zdaniu pierwszym.
+
+**Art. 5ag.** Przepisy art. 3 pkt 6c i 29b, art. 5 ust. 14 oraz art. 5ac–5af stosuje się do przedsiębiorstwa zintegrowanego pionowo, o którym mowa w art. 9d ust. 7 pkt 1 i 2, a także do wytwórcy, który jest zaopatrywany w energię elektryczną na podstawie umowy sprzedaży energii elektrycznej albo umowy kompleksowej.”;
 
 - **11)** w art. 5b :
     - **a)** w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Odbiorca w terminie 30 dni od dnia otrzymania informacji, o której mowa w ust. 5, może wypowiedzieć umowę, o której mowa w ust. 1, bez ponoszenia kosztów lub uiszczania odszkodowań, składając oświadczenie do przedsiębiorstwa energetycznego zajmującego się obrotem paliwami gazowymi, do którego wniesiono wkład niepieniężny, o którym mowa w ust. 1.”,
@@ -916,7 +845,12 @@ UE L 158 z 14.06.2019, str. 22).”;
 - **7)** postanowienia dotyczące ochrony danych osobowych;
 - **8)** warunki i terminy wypowiedzenia umowy.”;
 - **40)** w art. 11zh w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) zakres informacji rynku energii udostępnianych odbiorcy końcowemu za pośrednictwem centralnego systemu informacji rynku energii.”;
-- **41)** po rozdziale 2d dodaje się rozdziały 2e i 2f w brzmieniu: „Rozdział 2e Obywatelskie społeczności energetyczne Art. 11zi. 1. Obywatelska społeczność energetyczna może wykonywać działalność w formie:
+- **41)** po rozdziale 2d dodaje się rozdziały 2e i 2f w brzmieniu: „Rozdział 2e Obywatelskie społeczności energetyczne
+
+**Art. 11zi.**
+
+1. Obywatelska społeczność energetyczna może wykonywać działalność w formie:
+
 - **1)** spółdzielni w rozumieniu art. 1 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648 oraz z 2023 r. poz. 1450) oraz spółdzielni mieszkaniowej, o której mowa w ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2023 r. poz. 438 i
 - **1463)** ;
 - **2)** wspólnoty mieszkaniowej, o której mowa w art. 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048);
@@ -929,16 +863,30 @@ UE L 158 z 14.06.2019, str. 22).”;
 3. W przypadku, o którym mowa w ust. 2, uprawnienia decyzyjne i kontrolne przysługują:
 
 - **1)** średnim przedsiębiorcom w rozumieniu art. 7 ust. 1 pkt 3 ustawy – Prawo przedsiębiorców;
-- **2)** podmiotom, o którym mowa w art. 7 ust. 1 pkt 1, 2, 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234 i 1672). Art. 11zj. Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej zachowuje prawa i obowiązki wynikające z jego statusu jako odbiorcy końcowego lub odbiorcy aktywnego, w tym odbiorcy energii elektrycznej w gospodarstwie domowym, wynikające z przepisów ustawy. Art. 11zk. 1. Obywatelska społeczność energetyczna prowadzi działalność na obszarze działania jednego operatora systemu dystrybucyjnego elektroenergetycznego, do którego sieci są przyłączone instalacje należące do członków, udziałowców lub wspólników tej społeczności.
+- **2)** podmiotom, o którym mowa w art. 7 ust. 1 pkt 1, 2, 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234 i 1672).
+
+**Art. 11zj.** Członek, udziałowiec lub wspólnik obywatelskiej społeczności energetycznej zachowuje prawa i obowiązki wynikające z jego statusu jako odbiorcy końcowego lub odbiorcy aktywnego, w tym odbiorcy energii elektrycznej w gospodarstwie domowym, wynikające z przepisów ustawy.
+
+**Art. 11zk.**
+
+1. Obywatelska społeczność energetyczna prowadzi działalność na obszarze działania jednego operatora systemu dystrybucyjnego elektroenergetycznego, do którego sieci są przyłączone instalacje należące do członków, udziałowców lub wspólników tej społeczności.
 
 2. Obszar działania obywatelskiej społeczności energetycznej ustala się na podstawie miejsc przyłączenia instalacji należących do członków, udziałowców lub wspólników tej społeczności do sieci dystrybucyjnej elektroenergetycznej o napięciu znamionowym nie wyższym niż 110 kV.
 
-3. Działalność obywatelskiej społeczności energetycznej nie może obejmować połączeń z innymi państwami. Art. 11zl. 1. Statut lub umowa obywatelskiej społeczności energetycznej określa sposób prowadzenia rozliczeń oraz podział energii elektrycznej, która jest wytwarzana przez będące własnością tej społeczności jednostki wytwórcze w ramach obywatelskiej społeczności energetycznej.
+3. Działalność obywatelskiej społeczności energetycznej nie może obejmować połączeń z innymi państwami.
+
+**Art. 11zl.**
+
+1. Statut lub umowa obywatelskiej społeczności energetycznej określa sposób prowadzenia rozliczeń oraz podział energii elektrycznej, która jest wytwarzana przez będące własnością tej społeczności jednostki wytwórcze w ramach obywatelskiej społeczności energetycznej.
 
 2. Podział energii elektrycznej, o którym mowa w ust. 1:
 
 - **1)** odbywa się przy zachowaniu praw i obowiązków przysługujących członkom, udziałowcom lub wspólnikom obywatelskiej społeczności energetycznej jako odbiorcom końcowym, wynikających z przepisów ustawy;
-- **2)** nie ma wpływu na obowiązujące opłaty sieciowe i taryfy. Art. 11zm. 1. Obywatelska społeczność energetyczna może podjąć działalność po uzyskaniu wpisu do wykazu obywatelskich społeczności energetycznych prowadzonego przez Prezesa Urzędu Regulacji Energetyki.
+- **2)** nie ma wpływu na obowiązujące opłaty sieciowe i taryfy.
+
+**Art. 11zm.**
+
+1. Obywatelska społeczność energetyczna może podjąć działalność po uzyskaniu wpisu do wykazu obywatelskich społeczności energetycznych prowadzonego przez Prezesa Urzędu Regulacji Energetyki.
 
 2. Wykaz obywatelskich społeczności energetycznych zawiera:
 
@@ -949,7 +897,11 @@ UE L 158 z 14.06.2019, str. 22).”;
 
 3. Wykaz obywatelskich społeczności energetycznych jest jawny, prowadzony w postaci elektronicznej i zamieszczany na stronie podmiotowej urzędu obsługującego Prezesa Urzędu Regulacji Energetyki.
 
-4. Uzyskanie wpisu do wykazu obywatelskich społeczności energetycznych nie zwalnia z obowiązków uzyskania koncesji lub wpisu do rejestru działalności regulowanej, w przypadku podjęcia przez obywatelską społeczność energetyczną działalności podlegającej obowiązkowi uzyskania koncesji lub wpisu do rejestru działalności regulowanej. Art. 11zn. 1. Prezes Urzędu Regulacji Energetyki wpisuje obywatelską społeczność energetyczną do wykazu obywatelskich społeczności energetycznych, na jej wniosek.
+4. Uzyskanie wpisu do wykazu obywatelskich społeczności energetycznych nie zwalnia z obowiązków uzyskania koncesji lub wpisu do rejestru działalności regulowanej, w przypadku podjęcia przez obywatelską społeczność energetyczną działalności podlegającej obowiązkowi uzyskania koncesji lub wpisu do rejestru działalności regulowanej.
+
+**Art. 11zn.**
+
+1. Prezes Urzędu Regulacji Energetyki wpisuje obywatelską społeczność energetyczną do wykazu obywatelskich społeczności energetycznych, na jej wniosek.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -1000,7 +952,11 @@ UE L 158 z 14.06.2019, str. 22).”;
 - **2)** uzyskania informacji o wykreśleniu podmiotu, o którym mowa w art. 11zi ust. 1, z Krajowego Rejestru Sądowego;
 - **3)** uzyskania informacji o wydaniu wobec podmiotu, o którym mowa w art. 11zi ust. 1, prawomocnego orzeczenia zakazującego wykonywania działalności objętej wpisem do wykazu.
 
-13. Wykreślenie z wykazu obywatelskich społeczności energetycznych z przyczyn, o których mowa w ust. 11 pkt 2 i 3, następuje z urzędu. Art. 11zo. 1. Obywatelska społeczność energetyczna informuje Prezesa Urzędu Regulacji Energetyki o:
+13. Wykreślenie z wykazu obywatelskich społeczności energetycznych z przyczyn, o których mowa w ust. 11 pkt 2 i 3, następuje z urzędu.
+
+**Art. 11zo.**
+
+1. Obywatelska społeczność energetyczna informuje Prezesa Urzędu Regulacji Energetyki o:
 
 - **1)** zmianie danych, o których mowa w art. 11zn ust. 2 pkt 1, 2 i pkt 4 lit. a, c i d,
 - **2)** zakończeniu lub zawieszeniu wykonywania działalności gospodarczej,
@@ -1010,6 +966,125 @@ UE L 158 z 14.06.2019, str. 22).”;
 2. Na podstawie informacji, o której mowa w ust. 1, Prezes Urzędu Regulacji Energetyki dokonuje zmiany wpisu do wykazu obywatelskich społeczności energetycznych albo wykreślenia obywatelskiej społeczności energetycznej z tego wykazu w terminie 14 dni od dnia otrzymania tej informacji.
 
 #### Rozdział 2f Odbiorca aktywny
+
+**Art. 11zp.** Odbiorca aktywny może działać samodzielnie albo za pośrednictwem agregatora.
+
+**Art. 11zq.**
+
+1. Odbiorca aktywny ma prawo do powierzenia innemu podmiotowi zarządzania instalacją tego odbiorcy.
+
+2. Zarządzanie instalacją przez inny podmiot, o którym mowa w ust. 1, obejmuje instalowanie, eksploatację, utrzymanie instalacji lub obsługę danych pomiarowych.
+
+3. Inny podmiot, o którym mowa w ust. 1, nie jest odbiorcą aktywnym.
+
+**Art. 11zr.** Odbiorca aktywny nie może zostać obciążony dyskryminacyjnymi wymaganiami technicznymi, procedurami oraz dodatkowymi opłatami, w tym opłatami sieciowymi nieodzwierciedlającymi kosztów związanych z dostępem do sieci.”;
+
+- **42)** w art. 15b:
+    - **a)** w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) wnioski z monitorowania bezpieczeństwa dostaw paliw gazowych.”,
+    - **b)** w ust. 5 w pkt 1 wyrazy „(WE) nr 714/2009 Parlamentu Europejskiego i Rady z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylające rozporządzenie (WE) nr 1228/2003” zastępuje się wyrazami „2019/943”,
+    - **c)** uchyla się ust. 8;
+
+- **43)** uchyla się art. 15c;
+- **44)** w art. 15g wyrazy „nr 347/2013 z dnia 17 kwietnia 2013 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, uchylającego decyzję nr 1364/2006/WE oraz zmieniającego rozporządzenia (WE) nr 713/2009, (WE) nr 714/2009 i (WE) nr 715/2009 (Dz. Urz. UE L 115 z 25.04.2013, str. 39, z późn. zm. )” zastępuje się wyrazami „2022/869 z dnia 30 maja 2022 r. w sprawie wytycznych dotyczących transeuropejskiej infrastruktury energetycznej, zmiany rozporządzeń (WE) nr 715/2009, (UE) 2019/942 i (UE) 2019/943 oraz dyrektyw 2009/73/WE i (UE) 2019/944 oraz uchylenia rozporządzenia (UE) nr 347/2013 (Dz. Urz. UE L 152 z 03.06.2022, str. 45)”;
+- **45)** po art. 15h dodaje się art. 15i w brzmieniu: „Art. 15i. 1. Operator systemu przesyłowego elektroenergetycznego opracowuje ocenę wystarczalności zasobów na poziomie krajowym, o której mowa w art. 24 rozporządzenia 2019/943, i dokonuje jej aktualizacji na podstawie metody oceny wystarczalności zasobów na poziomie europejskim, o której mowa w art. 23 ust. 5 rozporządzenia 2019/943, stosując ją odpowiednio w takim zakresie, w jakim została zastosowana przez ENTSO energii elektrycznej w danym okresie oceny wystarczalności zasobów na poziomie europejskim, oraz w zakresie właściwym dla wykonywania oceny wystarczalności zasobów na poziomie krajowym:
+- **1)** jeżeli okoliczności uzasadniają opracowanie tej oceny;
+- **2)** na wniosek ministra właściwego do spraw energii.
+
+2. Operator systemu przesyłowego elektroenergetycznego zamieszcza na swojej stronie internetowej aktualną ocenę wystarczalności zasobów na poziomie krajowym.
+
+3. W przypadku stwierdzenia w ocenie wystarczalności zasobów na poziomie krajowym występowania problemu z wystarczalnością zasobów, który nie został stwierdzony w ocenie wystarczalności zasobów na poziomie europejskim, operator systemu przesyłowego elektroenergetycznego powiadamia o tym ministra właściwego do spraw energii oraz Prezesa Urzędu Regulacji Energetyki, przekazując uzasadnienie stwierdzonej rozbieżności.”;
+
+- **46)** w art. 16:
+    - **a)** w ust. 1: – pkt 4 otrzymuje brzmienie: „4) dziesięcioletni plan rozwoju sieci o zasięgu unijnym, o którym mowa w art. 30 ust. 1 lit. b rozporządzenia 2019/943 lub w art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem energii elektrycznej lub paliw gazowych;”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) krajowy plan w dziedzinie energii i klimatu, o którym mowa w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (UE) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 321 z 21.12.2018, str. 1) – w przypadku przedsiębiorstwa energetycznego zajmującego się przesyłaniem energii elektrycznej.”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W planie, o którym mowa w ust. 1, przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją paliw gazowych lub energii elektrycznej może uwzględnić wytyczne Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych.”,
+    - **c)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Plan ten podlega aktualizacji co 2 lata.”,
+    - **d)** ust. 4 i 5 otrzymują brzmienie: „4. Operator systemu dystrybucyjnego:
+
+- **1)** gazowego sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na paliwa gazowe na okres nie krótszy niż 5 lat,
+- **2)** elektroenergetycznego sporządza plan rozwoju w zakresie zaspokojenia obecnego i przyszłego zapotrzebowania na energię elektryczną na okres nie krótszy niż 6 lat – i aktualizuje ten plan co 2 lata.
+
+5. Plan, o którym mowa w ust. 1, sporządzany przez operatora systemu przesyłowego elektroenergetycznego i operatora systemu dystrybucyjnego elektroenergetycznego obejmuje dodatkowo prognozę dotyczącą stanu bezpieczeństwa dostarczania energii elektrycznej, sporządzaną na okres nie krótszy niż:
+
+- **1)** 15 lat – w przypadku operatora systemu przesyłowego;
+- **2)** 10 lat – w przypadku operatora systemu dystrybucyjnego.”,
+    - **e)** w ust. 7: – pkt 5–7 otrzymują brzmienie: „5) przewidywany sposób finasowania inwestycji, w tym wyodrębnioną część dotyczącą zakresu i sposobu wykorzystania środków finasowania innych niż taryfa;
+
+- **6)** przewidywane przychody niezbędne do realizacji planów, w tym wyodrębnioną część dotyczącą przyznanych subwencji, dotacji, pożyczek bezzwrotnych lub wsparcia w innej formie, pozyskanego lub możliwego do pozyskania z krajowych, unijnych i międzynarodowych funduszy lub programów;
+- **7)** planowany harmonogram inwestycji wraz z wyodrębnioną częścią obejmującą kierunki rozwoju sieci i realizacji inwestycji priorytetowych, o których mowa w ust. 1a;”, – w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) cele oraz przewidywane efekty przedsięwzięć, o których mowa w pkt 2–4.”, o elektromobilności i paliwach alternatywnych, oraz punktów ładowania pojazdów elektrycznych stanowiących element infrastruktury ładowania drogowego transportu publicznego.
+    - **f)** po ust. 8a dodaje się ust. 8b i 8c w brzmieniu: „8b. W planie, o którym mowa w ust. 1, operator systemu dystrybucyjnego elektroenergetycznego uwzględnia także inwestycje niezbędne do przyłączania punktów ładowania pojazdów elektrycznych zlokalizowanych w ogólnodostępnych stacjach ładowania zgodnie z planem, o którym mowa w art. 32 ust. 1 ustawy z dnia 11 stycznia 2018 r.
+
+8c. Plan, o którym mowa w ust. 1, opracowywany przez operatora systemu dystrybucyjnego elektroenergetycznego:
+
+- **1)** zapewnia przejrzystość w odniesieniu do zapotrzebowania tego operatora na usługi elastyczności w okresie wskazanym w ust. 4 pkt 2;
+- **2)** obejmuje wykorzystanie odpowiedzi odbioru, efektywności energetycznej, magazynowania energii lub innych zasobów, które operator ten uwzględnia jako rozwiązanie alternatywne wobec rozbudowy sieci dystrybucyjnej.”,
+    - **g)** w ust. 13: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Projekt planu, o którym mowa w ust. 1, podlega uzgodnieniu z Prezesem Urzędu Regulacji Energetyki działającym w porozumieniu z ministrem właściwym do spraw energii, z wyłączeniem planów rozwoju przedsiębiorstw energetycznych zajmujących się przesyłaniem lub dystrybucją:”, – pkt 2 otrzymuje brzmienie: „2) energii elektrycznej, dla mniej niż 300 odbiorców, którym przedsiębiorstwo to dostarcza rocznie łącznie mniej niż 150 GWh tej energii;”,
+    - **h)** uchyla się ust. 14,
+    - **i)** w ust. 14a wyrazy „ust. 2, 4 i 14” zastępuje się wyrazami „ust. 2 i 4”,
+    - **j)** ust. 15 otrzymuje brzmienie: „15. Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego, operator systemu dystrybucyjnego gazowego oraz operator systemu dystrybucyjnego elektroenergetycznego konsultują projekt planu, o którym mowa w ust. 2 i ust. 4 pkt 2, z wyłączeniem informacji, o których mowa w ust. 7 pkt 5 i 6, oraz z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych, z zainteresowanymi stronami, zamieszczając projekt ten na swojej stronie internetowej i wyznaczając termin na zgłaszanie uwag, nie krótszy niż 21 dni. Operator systemu dystrybucyjnego elektroenergetycznego zamieszcza wyniki konsultacji na swojej stronie internetowej.”,
+    - **k)** po ust. 15a dodaje się ust. 15b w brzmieniu: „15b. Operator systemu przesyłowego gazowego, operator systemu przesyłowego elektroenergetycznego, operator systemu dystrybucyjnego gazowego oraz operator systemu dystrybucyjnego elektroenergetycznego przedkładają Prezesowi Urzędu Regulacji Energetyki do uzgodnienia projekt planu, o którym mowa w ust. 2 i 4, oraz jego aktualizację, w terminie do dnia 30 kwietnia danego roku. W przypadku projektu planu sporządzonego przez operatora systemu przesyłowego lub operatora systemu dystrybucyjnego elektroenergetycznego, operator ten przedkłada projekt planu, o którym mowa w ust. 2 lub w ust. 4 pkt 2, oraz jego aktualizację, po przeprowadzeniu konsultacji, o których mowa w ust. 15, wraz z wynikami tych konsultacji.”,
+    - **l)** po ust. 18 dodaje się ust. 18a–18e w brzmieniu: „18a. Przedsiębiorstwo energetyczne obowiązane do uzgadniania projektu planu, o którym mowa w ust. 1, z Prezesem Urzędu Regulacji Energetyki, które stosuje się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz korzysta ze środków ustalonych w sposób, o którym mowa w art. 23 ust. 2 pkt 3 lit. g lub h, wraz ze sprawozdaniem, o którym mowa w ust. 18, przedkłada:
+
+- **1)** informacje o zakresie zrealizowania harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a;
+- **2)** w przypadku zakończenia w danym roku inwestycji priorytetowych, o których mowa w ust. 1a – oświadczenie o ukończeniu tych inwestycji i spełnieniu wymagań dla tych inwestycji określonych w planie, o którym mowa w ust. 1, oddzielnie dla każdej ukończonej inwestycji;
+- **3)** dokumenty potwierdzające realizację inwestycji priorytetowych, o których mowa w ust. 1a, w tym zakres faktycznie poniesionych nakładów, oryginał lub poświadczoną kopię umów na realizację przedsięwzięcia i innych wiążących zobowiązań oraz sprawozdanie finansowe za dany rok obrotowy, sporządzone na zasadach i w trybie określonym w ustawie z dnia 29 września 1994 r. o rachunkowości i ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015), zbadane przez biegłego rewidenta, zawierające w ramach ujawnień w informacji dodatkowej tego sprawozdania przedstawienie odpowiednich pozycji bilansu oraz rachunku zysków i strat potwierdzających prawidłowość przedłożonych informacji oraz ilości środków, o których mowa w art. 23 ust. 2 pkt 3 lit. h.
+
+18b. Oświadczenie, o którym mowa w ust. 18a pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający to oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że inwestycja ujęta w planie rozwoju w ramach stosowania się do wytycznych Prezesa Urzędu Regulacji Energetyki co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych, o których mowa w art. 16 ust. 1a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, została ukończona i spełnia wymagania określone w planie rozwoju.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+18c. Oświadczenie, o którym mowa w ust. 18a pkt 2, zawiera podpis osoby uprawnionej do reprezentacji przedsiębiorstwa energetycznego, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+
+18d. Rozliczenie wykonania harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a, następuje po zakończeniu każdego pełnego roku od dnia uzgodnienia planu, o którym mowa w ust. 1, oraz po zakończeniu inwestycji priorytetowych, przy czym stan wykonania, w każdym okresie sprawozdawczym, nie może być mniejszy niż 85% wykonania tego planu oddzielnie dla każdej inwestycji priorytetowej.
+
+18e. W szczególnie uzasadnionych przypadkach, wynikających z przyczyn niezależnych od przedsiębiorstwa energetycznego, Prezes Urzędu Regulacji Energetyki na uzasadniony wniosek przedsiębiorstwa energetycznego może przedłużyć termin na wykonanie harmonogramu inwestycji priorytetowych, o których mowa w ust. 1a, na oznaczony okres, pod warunkiem przekazania Prezesowi Urzędu Regulacji Energetyki informacji o przyczynach przewidywanego niewykonania tego harmonogramu w zakresie, o którym mowa w ust. 18d, w terminie 30 dni od ich wystąpienia, wraz z proponowanym okresem przedłużenia jego wykonania.”,
+
+- **m)** dodaje się ust. 23 w brzmieniu: „23. Operator zamkniętego systemu dystrybucyjnego elektroenergetycznego, posiadacz magazynu energii, właściciel jednostki odbiorczej świadczący lub planujący świadczyć usługi elastyczności przekazują właściwemu operatorowi systemu elektroenergetycznego informacje o strukturze i wielkościach zdolności regulacji zapotrzebowania energii elektrycznej przyjętych w planach, o których mowa w ust. 4 pkt 2, lub prognozach, o których mowa w ust. 5, stosownie do postanowień instrukcji opracowanej przez operatora systemu dystrybucyjnego elektroenergetycznego.”;
+- **47)** w art. 23:
+    - **a)** w ust. 2: – w pkt 3 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g oraz h w brzmieniu: „g) uzasadnionej stopy zwrotu z kapitału zaangażowanego w realizację zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych,
+    - **h)** uzasadnionej stopy zwrotu z wkładu własnego niezbędnego do pozyskania finansowania zadań określonych w wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych przyznanego subwencją, dotacją, pożyczką bezzwrotną lub wsparciem w innej formie z krajowych, unijnych lub międzynarodowych funduszy lub programów;”, – pkt 3a otrzymuje brzmienie: „3a) opracowywanie i zamieszczanie, nie później niż 9 miesięcy przed terminem określonym w art. 16 ust. 15b, w Biuletynie Urzędu Regulacji Energetyki wytycznych co do kierunku rozwoju sieci i realizacji inwestycji priorytetowych oraz wytycznych i zaleceń zapewniających jednolitą formę planów, o których mowa w art. 16 ust. 1;”, – po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) kontrolowanie wykonania realizacji planu w zakresie, o którym mowa w art. 16 ust. 18a–18d;”, – pkt 11 otrzymuje brzmienie: „11) kontrolowanie realizacji przez operatora systemu przesyłowego elektroenergetycznego, operatora systemu połączonego elektroenergetycznego, operatora systemu dystrybucyjnego elektroenergetycznego oraz innych uczestników rynku energii elektrycznej obowiązków wynikających z przepisów rozporządzenia 2019/943, a także wykonywanie innych obowiązków organu regulacyjnego wynikających z tego rozporządzenia oraz obowiązków wynikających z aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz innych przepisów prawa Unii Europejskiej;”, – pkt 11b otrzymuje brzmienie: „11b) zatwierdzanie metod alokacji zdolności przesyłowych i zarządzania ograniczeniami, opracowanych zgodnie z przepisami rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowej gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005 oraz aktów prawnych wydanych na podstawie art. 6 ust. 11 akapit drugi i art. 23 ust. 2 akapit drugi rozporządzenia 715/2009;”, – po pkt 11e dodaje się pkt 11f–11h w brzmieniu: „11f) wykonywanie decyzji Komisji Europejskiej i Agencji;
+
+- **11g)** opracowywanie wytycznych i zaleceń dla operatorów systemów dystrybucyjnych elektroenergetycznych w zakresie udzielania zamówień na usługi elastyczności, w tym na potrzeby zarządzania ograniczeniami systemowymi na obszarze ich działalności;
+- **11h)** ocena rynku usług elastyczności, w tym efektywności zamawiania tych usług;”, – pkt 14b otrzymuje brzmienie: „14b) współpraca z organami regulacyjnymi państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz z Agencją, w szczególności w zakresie sporządzania i stosowania kodeksów sieci oraz zatwierdzania metod zarządzania ograniczeniami opracowanymi zgodnie z przepisami rozporządzenia 2019/943 oraz rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającego rozporządzenie (WE) nr 1775/2005, a także w zakresie integracji krajowych sektorów energetycznych na poziomie regionalnym;”, – po pkt 14b dodaje się pkt 14ba w brzmieniu: „14ba) zapewnienie, przy współpracy z organami regulacyjnymi państw członkowskich, wykonywania przez ENTSO energii elektrycznej oraz Organizację Operatorów Systemów Dystrybucyjnych, zwaną dalej „organizacją OSD UE”, ich obowiązków, wynikających z rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz z innych przepisów prawa Unii Europejskiej, w tym w odniesieniu do kwestii transgranicznych, wykonywania decyzji Agencji oraz wspólne wskazywanie przypadków niewykonywania przez ENTSO energii elektrycznej i organizację OSD UE ich odpowiednich obowiązków;”, – pkt 14d otrzymuje brzmienie: „14d) zwracanie się do Agencji w sprawie zgodności decyzji wydanych przez inne organy regulacyjne, o których mowa w pkt 14b, z wytycznymi i kodeksami, o których mowa w rozporządzeniu 2019/943, lub z wytycznymi, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 715/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci przesyłowych gazu ziemnego i uchylającym rozporządzenie (WE) nr 1775/2005, oraz informowanie Komisji Europejskiej o niezgodności decyzji z tymi aktami;”, – po pkt 18a dodaje się pkt 18b w brzmieniu: „18b) monitorowanie:
+    - **a)** poziomu i skuteczności otwarcia rynku i konkurencji na poziomie hurtowym i detalicznym, w tym na giełdach energii elektrycznej,
+    - **b)** cen dla odbiorców energii elektrycznej w gospodarstwach domowych, w tym przedpłatowej formy rozliczeń realizowanych za pomocą liczników zdalnego odczytu skomunikowanych z systemem pomiarowym,
+    - **c)** zawierania i stosowania umów z cenami dynamicznymi energii elektrycznej, ofert sprzedawców energii elektrycznej, wpływu tych umów i ofert na ceny i stawki opłat dla odbiorców w gospodarstwach domowych, a także szacowanie ryzyk związanych z tymi umowami oraz publikowanie, w terminie do dnia 30 maja każdego roku, raportu z tego monitorowania,
+    - **d)** opłat za usługi w zakresie utrzymania systemu elektroenergetycznego i wykonania tych usług,
+    - **e)** stosunku cen stosowanych przez sprzedawców energii elektrycznej dla odbiorców energii elektrycznej w gospodarstwach domowych do cen hurtowych energii elektrycznej,
+    - **f)** kształtowania się taryf i opłat za świadczenie usług dystrybucyjnych,
+    - **g)** skarg zgłaszanych przez odbiorców energii elektrycznej w gospodarstwach domowych,
+    - **h)** zakłóceń lub ograniczeń konkurencji, w tym przez dostarczanie stosownych informacji oraz przekazywanie Prezesowi Urzędu Ochrony Konkurencji i Konsumentów istotnych przypadków tych zakłóceń lub ograniczeń,
+    - **i)** występowania restrykcyjnych praktyk umownych, w tym klauzul wyłączności, które mogą uniemożliwiać odbiorcom jednoczesne zawieranie umów z więcej niż jednym sprzedawcą lub ograniczać ich wybór w tym zakresie, a w przypadku gdy uzna to za konieczne, powiadamianie o takich praktykach Prezesa Urzędu Ochrony Konkurencji i Konsumentów,
+    - **j)** usuwania nieuzasadnionych przeszkód i ograniczeń w rozwijaniu zużycia wytworzonej we własnym zakresie energii elektrycznej i rozwoju obywatelskich społeczności energetycznych,
+    - **k)** realizacji projektów, o których mowa w art. 24d ust. 1,
+    - **l)** funkcjonowania partnerskiego handlu energią z odnawialnych źródeł energii, w tym w zakresie prawnych i organizacyjnych barier jego rozwoju;”, – uchyla się pkt 19a, – w pkt 21c w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h–j w brzmieniu: „h) wykazu agregatorów,
+    - **i)** wykazu linii bezpośrednich,
+    - **j)** wykazu obywatelskich społeczności energetycznych;”,
+    - **b)** w ust. 5 wyrazy „(WE) nr 714/2009 z dnia 13 lipca 2009 r. w sprawie warunków dostępu do sieci w odniesieniu do transgranicznej wymiany energii elektrycznej i uchylającego rozporządzenie (WE) nr 1228/2003” zastępuje się wyrazami „2019/943”,
+    - **c)** dodaje się ust. 8 i 9 w brzmieniu: „8. Prezes URE, co najmniej raz w roku, zamieszcza w Biuletynie Urzędu Regulacji Energetyki zalecenia dotyczące zapewnienia zgodności cen sprzedaży energii elektrycznej z wymogami konkurencyjnego rynku energii i przekazuje te zalecenia, w przypadku gdy uzna to za konieczne, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
+
+9. W przypadku gdy Prezes URE nie osiągnie porozumienia z organami regulacyjnymi w celu wspólnego wskazywania przypadków niewykonywania przez ENTSO energii elektrycznej i organizację OSD UE ich obowiązków wynikających z rozporządzenia 2019/943 oraz aktów prawnych wydanych na podstawie art. 59–61 tego rozporządzenia oraz w innych przepisach prawa Unii Europejskiej w terminie 4 miesięcy od dnia rozpoczęcia konsultacji, sprawę przekazuje się do decyzji Agencji zgodnie z art. 6 ust. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/942 z dnia 5 czerwca 2019 r. ustanawiającego Agencję Unii Europejskiej ds. Współpracy Organów Regulacji Energetyki (Dz. Urz. UE L 158 z 14.06.2019, str. 22).”;
+
+- **48)** po art. 23w dodaje się art. 23x w brzmieniu: „Art. 23x. 1. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi regionu pracy systemu jest organem właściwym do:
+- **1)** zatwierdzania wniosku o utworzenie regionalnego centrum koordynacyjnego, zgodnie z art. 35 ust. 1 rozporządzenia 2019/943;
+- **2)** zatwierdzania kosztów związanych z działalnością regionalnego centrum koordynacyjnego, zapewniających pokrycie kosztów uzasadnionych operatora systemu przesyłowego;
+- **3)** zatwierdzania wspólnego procesu decyzyjnego;
+- **4)** podejmowania działań mających na celu zapewnienie regionalnym centrom koordynacyjnym pracowników, zasobów technicznych i środków finansowych niezbędnych do niezależnego i bezstronnego wykonywania powierzonych im zadań;
+- **5)** przedstawiania wniosków w zakresie przydzielenia regionalnym centrom koordynacyjnym dodatkowych zadań i uprawnień przez państwa członkowskie tego regionu pracy systemu;
+- **6)** wykonywania zadań mających na celu realizację obowiązków określonych w przepisach prawa Unii Europejskiej, w szczególności w odniesieniu do kwestii transgranicznych oraz wspólnego wskazywania przypadków niewykonywania przez regionalne centra koordynacyjne ich obowiązków, a jeżeli organy regulacyjne nie osiągną porozumienia w terminie czterech miesięcy od dnia rozpoczęcia konsultacji, w celu wspólnego wskazania przypadków niewykonywania obowiązków przez regionalne centra koordynacyjne, przekazania sprawy do decyzji Agencji zgodnie z art. 6 ust. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/942 z dnia 5 czerwca 2019 r. ustanawiającego Agencję Unii Europejskiej ds. Współpracy Organów Regulacji Energetyki;
+- **7)** monitorowania działania koordynacji systemu.
+
+2. Prezes URE w koordynacji z organami regulacyjnymi regionu pracy systemu jest organem właściwym do zatwierdzania wniosku o utworzenie regionalnego centrum koordynacyjnego, zgodnie z art. 35 ust. 1 rozporządzenia 2019/943, także w przypadku, gdy siedziba regionalnego centrum koordynacyjnego znajduje się poza terytorium Rzeczypospolitej Polskiej.
+
+3. W przypadku gdy na terytorium Rzeczypospolitej Polskiej zostanie utworzona siedziba regionalnego centrum koordynacyjnego, Prezes URE we współpracy z organami regulacyjnymi z danego regionu pracy systemu jest obowiązany do corocznego przedkładania Agencji sprawozdania z monitorowania działania koordynacji systemu zgodnie z art. 46 rozporządzenia 2019/943.
+
+4. Koszty ponoszone przez operatora systemu przesyłowego elektroenergetycznego związane z działalnością regionalnego centrum koordynacyjnego stanowią koszty uzasadnione działalności, o których mowa w art. 45 ust. 1 pkt 2.
+
+5. Prezes URE we współpracy z organami regulacyjnymi danego regionu pracy systemu, gdzie siedzibę ma regionalne centrum koordynacyjne, realizuje uprawnienia, o których mowa w ust. 1 i 2, również w przypadku, gdy siedziba tego regionalnego centrum koordynacyjnego zostanie ustanowiona na terytorium innego państwa członkowskiego Unii Europejskiej z danego regionu pracy systemu.
+
+6. Realizując uprawnienia, o których mowa w ust. 1–5, Prezes URE może:
+
+- **1)** żądać od regionalnych centrów koordynacyjnych informacji związanych z wykonywaniem tych uprawnień;
+- **2)** prowadzić kontrole, w tym niezapowiedziane, w obiektach regionalnych centrów koordynacyjnych;
+- **3)** wydawać decyzje, w uzgodnieniu z organami regulacyjnymi z danego regionu pracy systemu, w sprawach regionalnych centrów koordynacyjnych.”;
+- **49)** po art. 24b dodaje się art. 24c i art. 24d w brzmieniu: „Art. 24c. Prezes URE składa Komisji Europejskiej i Agencji, w terminie do dnia 31 lipca każdego roku, sprawozdanie ze swojej działalności stosownie do zakresu działania w zakresie energii elektrycznej, określonego w art. 23 ust. 2, w tym z zastosowanych przez siebie środków oraz uzyskanych na skutek ich zastosowania wyników.
 
 **Art. 24d.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach medycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach medycznych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 2) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 października 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 105–136 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), które stanowią: „Art. 105. W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2021 r. poz. 742) w art. 4 w ust. 1 wyrazy „wyroby medyczne, wyroby medyczne do diagnostyki in vitro, wyposażenie wyrobów medycznych, wyposażenie wyrobów medycznych do diagnostyki in vitro, w rozumieniu przepisów ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2020 r. poz. 186 i 1493 oraz z 2021 r. poz. 255)” zastępuje się wyrazami „wyroby medyczne, wyposażenie wyrobów medycznych, systemy i zestawy zabiegowe, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), oraz wyroby do samokontroli i pojemniki na próbki, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. )”.
-Art. 105–136. (pominięte)
 
 **Art. 106.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) w art. 829:
 
@@ -1454,6 +1453,8 @@ Art. 105–136. (pominięte)
 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja stała się ostateczna.
 
 #### Rozdział 17 Zmiany w przepisach
+
+**Art. 105–136.** (pominięte)
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 

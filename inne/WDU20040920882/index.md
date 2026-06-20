@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo farmaceutyczne, ustawy o zawodzie lekarza oraz ustawy - Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+# Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy - Prawo farmaceutyczne, ustawy o zawodzie lekarza oraz ustawy - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 
@@ -398,7 +398,11 @@ source: pdf
 
 4. W przypadku zgłoszenia zgonu uczestnika badania badacz, na wniosek sponsora lub komisji bioetycznej, przedstawia wszelkie dostępne informacje nieujęte w sprawozdaniu, o którym mowa w ust. 2.
 
-5. Sponsor przechowuje dokumentację , o której mowa w ust. 2-4, zgodnie z zasadami Dobrej Praktyki Klinicznej i udostępnia ją na wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, na których terytorium przeprowadzane jest dane badanie kliniczne, z zastrzeżeniem art. 37aa. Art. 37aa. 1. Jeżeli zachodzi podejrzenie, że niepożądane zdarzenie, o którym mowa w art. 37z ust. 1 pkt 3, stanowi niespodziewane ciężkie niepożądane działanie produktu leczniczego, które doprowadziło do zgonu albo zagroziło życiu lub zdrowiu uczestnika badania klinicznego, sponsor niezwłocznie, nie później jednak niż w ciągu 7 dni od dnia otrzymania informacji, przekazuje ją właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne i komisji bioetycznej, która wydała opinię o tym badaniu klinicznym.
+5. Sponsor przechowuje dokumentację , o której mowa w ust. 2-4, zgodnie z zasadami Dobrej Praktyki Klinicznej i udostępnia ją na wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, na których terytorium przeprowadzane jest dane badanie kliniczne, z zastrzeżeniem art. 37aa.
+
+**Art. 37aa.**
+
+1. Jeżeli zachodzi podejrzenie, że niepożądane zdarzenie, o którym mowa w art. 37z ust. 1 pkt 3, stanowi niespodziewane ciężkie niepożądane działanie produktu leczniczego, które doprowadziło do zgonu albo zagroziło życiu lub zdrowiu uczestnika badania klinicznego, sponsor niezwłocznie, nie później jednak niż w ciągu 7 dni od dnia otrzymania informacji, przekazuje ją właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne i komisji bioetycznej, która wydała opinię o tym badaniu klinicznym.
 
 2. Informacje, zawierające opis dotyczący niespodziewanego ciężkiego niepożądanego działania produktu leczniczego, sponsor przekazuje komisji bioetycznej, która wydała opinię o tym badaniu klinicznym, w terminie 8 dni od dnia przesłania informacji, o której mowa w ust. 1.
 
@@ -410,7 +414,11 @@ source: pdf
 
 6. Prezes Urzędu gromadzi informacje dotyczące niespodziewanych ciężkich niepożądanych działań produktu leczniczego, które wystąpiły w związku z prowadzeniem na terytorium Rzeczypospolitej Polskiej badań klinicznych oraz przekazuje je do europejskiej bazy danych dotyczącej badań klinicznych.
 
-7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb zgłaszania niespodziewanego ciężkiego niepożądanego działania produktu leczniczego, dane objęte dokumentacją, o której mowa w art. 37z ust. 5, oraz wzory formularzy zgłoszeniowych niespodziewanego ciężkiego niepożądanego działania, uwzględniając w szczególności sposób zbierania, weryfikacji i przedstawiania informacji dotyczących niespodziewanego ciężkiego niepożądanego działania produktu leczniczego i niespodziewanego zdarzenia. Art. 37ab. 1. O zakończeniu badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej, sponsor informuje komisję bioetyczną, która wydała opinię o badaniu oraz ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu, w terminie 90 dni od dnia zakończenia badania klinicznego.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb zgłaszania niespodziewanego ciężkiego niepożądanego działania produktu leczniczego, dane objęte dokumentacją, o której mowa w art. 37z ust. 5, oraz wzory formularzy zgłoszeniowych niespodziewanego ciężkiego niepożądanego działania, uwzględniając w szczególności sposób zbierania, weryfikacji i przedstawiania informacji dotyczących niespodziewanego ciężkiego niepożądanego działania produktu leczniczego i niespodziewanego zdarzenia.
+
+**Art. 37ab.**
+
+1. O zakończeniu badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej, sponsor informuje komisję bioetyczną, która wydała opinię o badaniu oraz ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu, w terminie 90 dni od dnia zakończenia badania klinicznego.
 
 2. W przypadku zakończenia badania klinicznego przed upływem zadeklarowanego terminu, sponsor informuje komisję bioetyczną, która wydała opinię o tym badaniu klinicznym, oraz ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu, w terminie 15 dni od dnia zakończenia tego badania i podaje przyczyny wcześniejszego zakończenia badania klinicznego. Art. 37 ac. 1. Jeżeli istnieje uzasadnione podejrzenie, że warunki określone w pozwoleniu na prowadzenie badania klinicznego przestały być spełniane lub uzyskane informacje poddają w wątpliwość bezpieczeństwo lub naukową zasadność prowadzonego badania klinicznego minister właściwy do spraw zdrowia może:
 
@@ -420,7 +428,11 @@ source: pdf
 
 2. Jeżeli nie występuje bezpośrednie zagrożenie bezpieczeństwa uczestników badania klinicznego, przed wydaniem decyzji, o których mowa w ust. 1, minister właściwy do spraw zdrowia zwraca się do sponsora i badacza o zajęcie w terminie 7 dni stanowiska.
 
-3. O podjęciu decyzji, o których mowa w ust. 1, minister właściwy do spraw zdrowia powiadamia sponsora, państwa uczestniczące w badaniu klinicznym, komisję bioetyczną, która wydała opinię o tym badaniu klinicznym, Europejską Agencję Oceny Produktów Leczniczych oraz Komisję Europejską. Art. 37ad. 1. Prezes Urzędu wprowadza informacje dotyczące badania klinicznego do europejskiej bazy danych dotyczącej badań klinicznych.
+3. O podjęciu decyzji, o których mowa w ust. 1, minister właściwy do spraw zdrowia powiadamia sponsora, państwa uczestniczące w badaniu klinicznym, komisję bioetyczną, która wydała opinię o tym badaniu klinicznym, Europejską Agencję Oceny Produktów Leczniczych oraz Komisję Europejską.
+
+**Art. 37ad.**
+
+1. Prezes Urzędu wprowadza informacje dotyczące badania klinicznego do europejskiej bazy danych dotyczącej badań klinicznych.
 
 2. Informacje, o których mowa w ust. 1, obejmują w szczególności:
 
@@ -430,7 +442,11 @@ source: pdf
 - **4)** oświadczenie o zakończeniu badania klinicznego,
 - **5)** informacje dotyczące kontroli badania klinicznego przeprowadzonego zgodnie z zasadami Dobrej Praktyki Klinicznej.
 
-3. Na uzasadniony wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Oceny Produktów Leczniczych lub Komisji Europejskiej, Prezes Urzędu, dostarcza dodatkowych informacji dotyczących danego badania klinicznego innych niż już dostępne w europejskiej bazie danych. Art. 37ae. 1. Kontrolę badań klinicznych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej przeprowadza Inspekcja Badań Klinicznych.
+3. Na uzasadniony wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Oceny Produktów Leczniczych lub Komisji Europejskiej, Prezes Urzędu, dostarcza dodatkowych informacji dotyczących danego badania klinicznego innych niż już dostępne w europejskiej bazie danych.
+
+**Art. 37ae.**
+
+1. Kontrolę badań klinicznych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej przeprowadza Inspekcja Badań Klinicznych.
 
 2. Kontroli, o której mowa w ust. 1, dokonuje osoba upoważniona przez Prezesa Urzędu, zwana dalej „przeprowadzającym kontrolę”.
 
@@ -446,7 +462,15 @@ source: pdf
 
 6. Wyniki kontroli badań klinicznych przeprowadzonej na terytorium innego państwa członkowskiego Unii Europejskiej są uznawane przez Prezesa Urzędu.
 
-7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb i zakres prowadzenia kontroli badań klinicznych, uwzględniając w szczególności charakter prowadzonych badań kierując się wymaganiami Dobrej Praktyki Klinicznej. Art. 37af. Minister właściwy do spraw zdrowia współpracuje z Komisją Europejską, Europejską Agencją Oceny Produktów Leczniczych oraz właściwymi organami państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym w zakresie przeprowadzenia kontroli badań klinicznych; minister właściwy do spraw zdrowia na wniosek, Prezesa Urzędu może wystąpić do Komisji Europejskiej z wnioskiem o przeprowadzenie kontroli w państwie spoza obszaru państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym. Art. 37ag. Do badań klinicznych badanego produktu leczniczego w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy o eksperymencie medycznym, o którym mowa w rozdziale IV ustawy o zawodzie lekarza. Art. 37ah. 1. Sponsor albo badacz występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb i zakres prowadzenia kontroli badań klinicznych, uwzględniając w szczególności charakter prowadzonych badań kierując się wymaganiami Dobrej Praktyki Klinicznej.
+
+**Art. 37af.** Minister właściwy do spraw zdrowia współpracuje z Komisją Europejską, Europejską Agencją Oceny Produktów Leczniczych oraz właściwymi organami państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym w zakresie przeprowadzenia kontroli badań klinicznych; minister właściwy do spraw zdrowia na wniosek, Prezesa Urzędu może wystąpić do Komisji Europejskiej z wnioskiem o przeprowadzenie kontroli w państwie spoza obszaru państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym.
+
+**Art. 37ag.** Do badań klinicznych badanego produktu leczniczego w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy o eksperymencie medycznym, o którym mowa w rozdziale IV ustawy o zawodzie lekarza.
+
+**Art. 37ah.**
+
+1. Sponsor albo badacz występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu.
 
 2. Przepis ust. 1 stosuje się także do badań klinicznych weterynaryjnych dotyczących pozostałości badanego produktu leczniczego weterynaryjnego w tkankach i innych badań klinicznych weterynaryjnych dotyczących zwierząt, których tkanki lub produkty są przeznaczone do spożycia.
 
@@ -456,7 +480,11 @@ source: pdf
 
 5. Prezes Urzędu dokonuje wpisu do Centralnej Ewidencji Badań Klinicznych badania klinicznego weterynaryjnego, które uzyskało pozwolenie ministra właściwego do spraw zdrowia albo jego odmowę.
 
-6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania. Art. 37ai. 1. Kontrolę badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
+6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania.
+
+**Art. 37ai.**
+
+1. Kontrolę badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
 
 2. Przeprowadzający kontrolę, upoważniony przez Prezesa Urzędu może w szczególności:
 
@@ -464,13 +492,20 @@ source: pdf
 - **2)** żądać przedstawienia dokumentacji związanej z prowadzonym badaniem klinicznym weterynaryjnym,
 - **3)** żądać wyjaśnień dotyczących przeprowadzonego badania klinicznego weterynaryjnego oraz złożonej dokumentacji.
 
-3. Jeżeli badanie kliniczne badanego produktu leczniczego weterynaryjnego zagraża życiu lub zdrowiu zwierząt poddanych badaniu klinicznemu weterynaryjnemu lub jest prowadzone niezgodnie z protokołem badań klinicznych weterynaryjnych, lub posiada znikomą wartość naukową, minister właściwy do spraw zdrowia na wniosek Prezesa Urzędu, w drodze decyzji, nakazuje wstrzymanie lub przerwanie badania klinicznego weterynaryjnego; Prezes Urzędu występuje z wnioskiem po przeprowadzeniu kontroli badań klinicznych weterynaryjnych. Art. 37aj. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+3. Jeżeli badanie kliniczne badanego produktu leczniczego weterynaryjnego zagraża życiu lub zdrowiu zwierząt poddanych badaniu klinicznemu weterynaryjnemu lub jest prowadzone niezgodnie z protokołem badań klinicznych weterynaryjnych, lub posiada znikomą wartość naukową, minister właściwy do spraw zdrowia na wniosek Prezesa Urzędu, w drodze decyzji, nakazuje wstrzymanie lub przerwanie badania klinicznego weterynaryjnego; Prezes Urzędu występuje z wnioskiem po przeprowadzeniu kontroli badań klinicznych weterynaryjnych.
+
+**Art. 37aj.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku, o którym mowa w art. 37ah ust. 1,
 - **2)** sposób i zakres prowadzenia kontroli badań klinicznych weterynaryjnych w zakresie zgodności tych badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając rodzaj badanego produktu leczniczego weterynaryjnego oraz jego przeznaczenie, a także zakres prowadzonych badań klinicznych weterynaryjnych,
 - **3)** sposób i tryb prowadzenia Centralnej Ewidencji Badań Klinicznych w zakresie badanego produktu leczniczego weterynaryjnego, uwzględniając w szczególności dane objęte ewidencją,
 - **4)** wysokość opłat, o których mowa w art. 37ah ust. 3, oraz sposób ich uiszczania, uwzględniając nakład pracy związany z daną czynnością,
-- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badań klinicznych weterynaryjnych oraz obowiązki podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych. Art. 37ak. W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 27 sierpnia 1997 r. o ochronie zwierząt (Dz.U. z 2003 r. Nr 106, poz. 1002). Art. 37al. Przepisów niniejszego rozdziału nie stosuje się do nieinterwencyjnych badań, w których:
+- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badań klinicznych weterynaryjnych oraz obowiązki podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych.
+
+**Art. 37ak.** W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 27 sierpnia 1997 r. o ochronie zwierząt (Dz.U. z 2003 r. Nr 106, poz. 1002).
+
+**Art. 37al.** Przepisów niniejszego rozdziału nie stosuje się do nieinterwencyjnych badań, w których:
+
 - **1)** produkty lecznicze są stosowane w sposób określony w pozwoleniu na dopuszczenie do obrotu,
 - **2)** przydzielenie chorego do grupy, w której stosowana jest określona metoda leczenia, nie następuje na podstawie protokołu badania, ale zależy od aktualnej praktyki, a decyzja o podaniu leku jest jednoznacznie oddzielona od decyzji o włączeniu pacjenta do badania,
 - **3)** u pacjentów nie wykonuje się żadnych dodatkowych procedur diagnostycznych ani monitorowania, a do analizy zebranych danych stosuje się metody epidemiologiczne.”;

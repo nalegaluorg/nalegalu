@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw
+# Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 stycznia 2025 r.*
 
@@ -26,95 +26,6 @@ source: pdf
 | Data wydania | 2025-02-12 |
 | Ostatnia zmiana | 2025-02-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/179/text.pdf) |
-
-Art. 156zd. 1. Osoba użytkująca system bezzałogowego statku powietrznego może zostać poddana sprawdzeniu, czy operacja jest wykonywana zgodnie z przepisami prawa, przez:
-1) funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorów Biura Nadzoru Wewnętrznego, żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo w Służbie Wywiadu Wojskowego, żołnierzy Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej, strażników straży gminnych (miejskich) oraz osoby upoważnione przez Prezesa Urzędu,
-2) strażników leśnych – na terenach lasów,
-3) funkcjonariuszy Straży Parku – na terenach parków narodowych,
-4) funkcjonariuszy Państwowej Straży Pożarnej – w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe – w związku z realizacją zadań ustawowych.
-2. Osoba użytkująca system bezzałogowego statku powietrznego jest obowiązana wykonywać polecenia wydawane przez osobę dokonującą sprawdzenia, o którym mowa w ust. 1.
-Art. 156ze. 1. Bezzałogowy statek powietrzny może zostać zniszczony albo unieruchomiony albo nad jego lotem może zostać przejęta kontrola, w przypadku gdy:
-1) przebieg operacji lub działanie bezzałogowego statku powietrznego:
-a) zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
-b) stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
-c) zakłóca lub może zakłócić przebieg imprezy masowej albo zagraża bezpieczeństwu jej uczestników,
-d) stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
-e) stwarza lub może stworzyć zagrożenie bezpieczeństwa ruchu lotniczego, statku powietrznego lub życia lub zdrowia załogi lub pasażerów znajdujących się na jego pokładzie,
-f) utrudnia lub może utrudnić ruch lotniczy lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
-2) bezzałogowy statek powietrzny wbrew zakazowi wykonuje operację w strefie geograficznej ustanowionej nad:
-a) chronionymi obiektami Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-b) obiektami, urządzeniami lub obszarami istotnymi dla bezpieczeństwa lub obronności państwa, bezpieczeństwa publicznego lub nienaruszalności granicy państwowej.
-2. Do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w związku z realizacją zadań ustawowych, w przypadkach, o których mowa w:
-1) ust. 1 pkt 1 lit. a, b oraz d–f – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-2) ust. 1 pkt 1 lit. c – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-3) ust. 1 pkt 2 lit. a – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
-4) ust. 1 pkt 2 lit. b – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej – na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
-3. Podmioty, o których mowa w ust. 2, w przypadkach wskazanych w ust. 1, są uprawnione do sprawdzenia spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 209 ust. 1 i 1a.
-4. Za szkody powstałe w wyniku zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w przypadkach, o których mowa w ust. 1, odpowiada pilot bezzałogowego statku powietrznego lub operator systemu bezzałogowego statku powietrznego zniszczonego albo unieruchomionego albo nad którego lotem przejęto kontrolę.”;
-24) w art. 160 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wykonywanie operacji z użyciem systemu bezzałogowego statku powietrznego w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE.”;
-25) w art. 209:
-a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Użytkownicy będący operatorami systemów bezzałogowych statków powietrznych użytkujący bezzałogowe statki powietrzne o masie startowej od 0,25 kg do 20 kg są obowiązani do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w związku z wykonywanymi operacjami.”,
-b) dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1a, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę operacji wykonywanych przez operatorów systemów bezzałogowych statków powietrznych.”;
-26) w art. 209o dodaje się ust. 3 w brzmieniu: „3. Podmiot, który nie zawarł umowy ubezpieczenia odpowiedzialności cywilnej, o której mowa w art. 209 ust. 1a, podlega karze pieniężnej w wysokości 4000 zł.”;
-27) po art. 209um dodaje się art. 209un w brzmieniu: „Art. 209un. 1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
-2. Operator systemu bezzałogowego statku powietrznego, który nie zarejestrował się w rejestrze operatorów, w przypadkach określonych w art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-3. Operator systemu bezzałogowego statku powietrznego, który nie poinformuje w terminie o zmianie danych zawartych w rejestrze operatorów dotyczących tego operatora, podlega karze pieniężnej w wysokości 500 zł.
-4. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, z naruszeniem warunków wykonywania takiej operacji określonych w art. 4 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 4000 zł za każde naruszenie.
-5. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, bezzałogowym statkiem powietrznym niezgodnym z art. 40 ust. 5 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-6. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego niespełniającego warunków określonych w art. 40 ust. 3 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-7. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego, nie posiadając ważnego na dzień wykonywania operacji zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-8. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 4000 zł za każde naruszenie.
-9. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, naruszając warunki certyfikatu LUC, podlega karze pieniężnej w wysokości 12 000 zł.
-10. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków wykonywania operacji określonych w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 3000 zł.
-11. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków wykonywania operacji określonych w krajowym scenariuszu standardowym, podlega karze pieniężnej w wysokości 4000 zł.
-12. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem wymogów, o których mowa w art. 8 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 500 zł.
-13. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego niezgodnie z zezwoleniem na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 250 zł.
-14. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE, z naruszeniem art. 7 ust. 3 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
-15. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z naruszeniem art. 13 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-16. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z przekroczeniem zaleceń i ograniczeń określonych przez producenta systemów bezzałogowych statków powietrznych w rozumieniu art. 3 pkt 13 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 1000 zł.
-17. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
-18. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 7 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
-19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł.”;
-28) w art. 209w ust. 1 otrzymuje brzmienie: „1. Kary pieniężne, o których mowa w art. 209a–209un, nakłada Prezes Urzędu w drodze decyzji administracyjnej.”;
-29) w załączniku nr 6 do ustawy:
-a) w „Objaśnieniach terminów użytych w załączniku”: – po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) certyfikacie LUC – należy przez to rozumieć certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE;”, – po pkt 28b dodaje się pkt 28c w brzmieniu: „28c) rozporządzeniu nr 2019/947/UE – należy przez to rozumieć rozporządzenie wykonawcze Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych;”,
-b) w tabeli nr 1: – w części I w podczęści 1.2 dodaje się ust. 11–21 w brzmieniu:
-11. Rozpatrzenie wniosku o uznanie certyfikatu kompe- 1000 tencji pilota bezzałogowego statku powietrznego lub certyfikatu operatora systemu bezzałogowego statku powietrznego zgodnie z rozporządzeniem nr 2019/947/UE lub równoważnego dokumentu do celów operacji międzynarodowych z użyciem systemu bezzałogowego statku powietrznego przez operatora systemu bezzałogowego statku powietrznego z państwa trzeciego oraz jego uznanie
-12. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 1500 potwierdzenia, o którym mowa w art. 13 ust. 2 rozporządzenia nr 2019/947/UE
-13. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 500 zezwolenia, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywaną z użyciem jednego systemu bezzałogowego statku powietrznego
-14. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 1000 zezwolenia, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywane rojem bezzałogowych statków powietrznych
-15. Wydanie potwierdzenia odbioru i kompletności oświad- 50 czenia, o którym mowa w art. 156d ust. 4 ustawy, za każdy krajowy scenariusz standardowy
-16. Wydanie potwierdzenia odbioru i kompletności oświad- 50 czenia, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, za każdy scenariusz standardowy, o którym mowa w dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE
-17. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 50 zezwolenia na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
-18. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 500 zmiany, o której mowa w art. 156c ust. 4, zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
-19. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 250 przedłużenia ważności zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
-20. Rozpatrzenie wniosku o pojedynczą zmianę w potwier- 10 dzeniu wskazanym w ust. 15 i 16
-21. Rozpatrzenie wniosku o pojedynczą zmianę w zezwole- 15 niu wskazanym w ust. 17 – w części II w podczęści 2.2 w ust. 6 w pkt 1 oraz w ust. 7 w pkt 1 skreśla się wyrazy „ , operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe”, – w części III: – – po podczęści 3.2 dodaje się podczęść 3.2a w brzmieniu:
-3.2a. Rejestracja operatorów systemów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
-1. Wydanie zaświadczenia o wykreśleniu operatora sys- 25 temu bezzałogowego statku powietrznego z rejestru operatorów systemów bezzałogowych statków powietrznych – – w podczęści 3.3 w ust. 6 uchyla się pkt 4, – – w podczęści 3.4 w ust. 1 w pkt 2 skreśla się wyrazy „i bezpilotowych”, – – w podczęści 3.13 dodaje się ust. 44–50 w brzmieniu:
-44. Rozpatrzenie wniosku oraz wydanie decyzji admini- Opłata podstawowa stracyjnej w przedmiocie certyfikatu LUC 5000 zwiększona o opłatę za poszczególny wskazany poziom ryzyka:
-1. SAIL I 2500
-2. SAIL II 2500
-3. SAIL III 3000
-4. SAIL IV 3000
-5. SAIL V 3500
-6. SAIL VI 3500
-45. Rozpatrzenie wniosku o pojedynczą zmianę do 1000 certyfikatu LUC, o której mowa w UAS.LUC.070 części C rozporządzenia nr 2019/947/UE, oraz jego wydanie
-46. Rozpatrzenie wniosku o zamiarze przeprowadzania 600 egzaminu z wiedzy teoretycznej do wykonywania operacji w podkategorii A2 kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
-47. Rozpatrzenie wniosku o zamiarze przeprowadzania 1000 egzaminu z wiedzy teoretycznej do wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
-48. Rozpatrzenie, złożonego przez operatora systemu 400 bezzałogowego statku powietrznego ubiegającego się o przyznanie uprawnienia do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, oświadczenia, o którym mowa w dodatku 4 do załącznika do rozporządzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz
-49. Rozpatrzenie wniosku o zamiarze prowadzenia szkole- 400 nia praktycznego i oceny umiejętności praktycznych w ramach zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
-50. Rozpatrzenie, złożonego przez podmiot ubiegający się 400 o uznanie, oświadczenia, o którym mowa w dodatku 6 do załącznika do rozporządzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz
-c) w tabeli nr 2 w części I w podczęści 1.2 w ust. 4 uchyla się pkt 5 i 7,
-d) w tabeli nr 3 dodaje się część VII w brzmieniu: Część VII Sprawowanie bieżącego nadzoru nad operatorami systemów bezzałogowych statków powietrznych oraz podmiotami prowadzącymi szkolenia praktyczne i ocenę umiejętności praktycznych pilotów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość stawki w zł 1 2
-1. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 0 statku powietrznego, który złożył oświadczenie o wykonywaniu operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, zgodnie z krajowym scenariuszem standardowym lub scenariuszem standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE
-2. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 1000 statku powietrznego, który posiada zezwolenie, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
-3. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 0 statku powietrznego, który posiada zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
-4. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 5000 statku powietrznego, który posiada certyfikat LUC
-5. Sprawowanie bieżącego nadzoru nad wyznaczonym podmiotem, o którym 500 mowa w art. 156n ust. 1
-6. Sprawowanie bieżącego nadzoru nad uznanym podmiotem, o którym 400 mowa w art. 156o ust. 1 pkt 1
-7. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 400 statku powietrznego posiadającym uprawnienie, o którym mowa w art. 156o ust. 1 pkt 2
-30) dodaje się załącznik nr 7 do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
 
 **Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31) wprowadza się następujące zmiany:
 
@@ -798,9 +709,17 @@ d) w tabeli nr 3 dodaje się część VII w brzmieniu: Część VII Sprawowanie 
 
 4. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu przedłuża ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP.
 
-5. W przypadku przedłużenia ważności certyfikatu wiedzy teoretycznej okres ważności certyfikatu jest liczony od dnia upływu poprzedniego okresu ważności certyfikatu. Art. 156za. 1. W celu wznowienia ważności certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, wyznaczony podmiot, na wniosek pilota bezzałogowego statku powietrznego, na zasadach określonych w UAS.STS-01.020 pkt 4 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, sprawdza wiedzę pilota bezzałogowego statku powietrznego przez przeprowadzenie egzaminu z wiedzy teoretycznej, o którym mowa w UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym. Przepisy art. 156y ust. 3 i 4 i art. 156z ust. 3 zdanie pierwsze stosuje się.
+5. W przypadku przedłużenia ważności certyfikatu wiedzy teoretycznej okres ważności certyfikatu jest liczony od dnia upływu poprzedniego okresu ważności certyfikatu.
 
-2. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu wznawia ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP. Art. 156zb. 1. Minimalny wiek pilota bezzałogowego statku powietrznego wykonującego operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wynosi 14 lat.
+**Art. 156za.**
+
+1. W celu wznowienia ważności certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, wyznaczony podmiot, na wniosek pilota bezzałogowego statku powietrznego, na zasadach określonych w UAS.STS-01.020 pkt 4 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, sprawdza wiedzę pilota bezzałogowego statku powietrznego przez przeprowadzenie egzaminu z wiedzy teoretycznej, o którym mowa w UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym. Przepisy art. 156y ust. 3 i 4 i art. 156z ust. 3 zdanie pierwsze stosuje się.
+
+2. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu wznawia ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP.
+
+**Art. 156zb.**
+
+1. Minimalny wiek pilota bezzałogowego statku powietrznego wykonującego operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wynosi 14 lat.
 
 2. Osoba niepełnoletnia ubiegająca się o wydanie potwierdzenia zaliczenia szkolenia i zdania egzaminu online, o którym mowa w art. 156p ust. 1 pkt 1, zalicza szkolenie teoretyczne i zdaje egzamin online za zgodą jednego z rodziców albo opiekuna prawnego.
 
@@ -808,7 +727,11 @@ d) w tabeli nr 3 dodaje się część VII w brzmieniu: Część VII Sprawowanie 
 
 4. Szkolenia oraz egzaminy, o których mowa w ust. 2 i 3, mogą być zaliczane i zdawane pod warunkiem bezpośredniego nadzoru jednego z rodziców albo opiekuna prawnego osoby niepełnoletniej.
 
-5. Osoba niepełnoletnia ubiegająca się o wydanie certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, przystępuje do szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego oraz egzaminu z wiedzy teoretycznej za zgodą jednego z rodziców albo opiekuna prawnego. Art. 156zc. 1. Prezes Urzędu cofa dokument, o którym mowa w art. 156p ust. 1, w przypadku stwierdzenia, że pilot bezzałogowego statku powietrznego:
+5. Osoba niepełnoletnia ubiegająca się o wydanie certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, przystępuje do szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego oraz egzaminu z wiedzy teoretycznej za zgodą jednego z rodziców albo opiekuna prawnego.
+
+**Art. 156zc.**
+
+1. Prezes Urzędu cofa dokument, o którym mowa w art. 156p ust. 1, w przypadku stwierdzenia, że pilot bezzałogowego statku powietrznego:
 
 - **1)** przestał spełniać wymagania konieczne do otrzymania dokumentu zgodnie z załącznikiem do rozporządzenia nr 2019/947/UE lub
 - **2)** uzyskał dokument w oparciu o sfałszowane dokumenty, sfałszował zapisy w dokumencie lub poświadczył nieprawdę, lub
@@ -836,6 +759,164 @@ d) w tabeli nr 3 dodaje się część VII w brzmieniu: Część VII Sprawowanie 
 6. Prezes Urzędu zawiesza albo cofa dokument, o którym mowa w art. 156p ust. 1, w drodze decyzji administracyjnej, która może być wydana przy użyciu systemu teleinformatycznego BSP. Decyzja administracyjna podlega natychmiastowemu wykonaniu.
 
 #### Rozdział 6 Zapobieganie bezprawnemu wykonywaniu operacji z użyciem systemu bezzałogowego statku powietrznego
+
+**Art. 156zd.**
+
+1. Osoba użytkująca system bezzałogowego statku powietrznego może zostać poddana sprawdzeniu, czy operacja jest wykonywana zgodnie z przepisami prawa, przez:
+
+- **1)** funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorów Biura Nadzoru Wewnętrznego, żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo w Służbie Wywiadu Wojskowego, żołnierzy Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej, strażników straży gminnych (miejskich) oraz osoby upoważnione przez Prezesa Urzędu,
+- **2)** strażników leśnych – na terenach lasów,
+- **3)** funkcjonariuszy Straży Parku – na terenach parków narodowych,
+- **4)** funkcjonariuszy Państwowej Straży Pożarnej – w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe – w związku z realizacją zadań ustawowych.
+
+2. Osoba użytkująca system bezzałogowego statku powietrznego jest obowiązana wykonywać polecenia wydawane przez osobę dokonującą sprawdzenia, o którym mowa w ust. 1.
+
+**Art. 156ze.**
+
+1. Bezzałogowy statek powietrzny może zostać zniszczony albo unieruchomiony albo nad jego lotem może zostać przejęta kontrola, w przypadku gdy:
+
+- **1)** przebieg operacji lub działanie bezzałogowego statku powietrznego:
+    - **a)** zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
+    - **b)** stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
+    - **c)** zakłóca lub może zakłócić przebieg imprezy masowej albo zagraża bezpieczeństwu jej uczestników,
+    - **d)** stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
+    - **e)** stwarza lub może stworzyć zagrożenie bezpieczeństwa ruchu lotniczego, statku powietrznego lub życia lub zdrowia załogi lub pasażerów znajdujących się na jego pokładzie,
+    - **f)** utrudnia lub może utrudnić ruch lotniczy lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
+
+- **2)** bezzałogowy statek powietrzny wbrew zakazowi wykonuje operację w strefie geograficznej ustanowionej nad:
+    - **a)** chronionymi obiektami Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+    - **b)** obiektami, urządzeniami lub obszarami istotnymi dla bezpieczeństwa lub obronności państwa, bezpieczeństwa publicznego lub nienaruszalności granicy państwowej.
+
+2. Do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w związku z realizacją zadań ustawowych, w przypadkach, o których mowa w:
+
+- **1)** ust. 1 pkt 1 lit. a, b oraz d–f – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+- **2)** ust. 1 pkt 1 lit. c – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+- **3)** ust. 1 pkt 2 lit. a – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
+- **4)** ust. 1 pkt 2 lit. b – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej – na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+3. Podmioty, o których mowa w ust. 2, w przypadkach wskazanych w ust. 1, są uprawnione do sprawdzenia spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 209 ust. 1 i 1a.
+
+4. Za szkody powstałe w wyniku zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w przypadkach, o których mowa w ust. 1, odpowiada pilot bezzałogowego statku powietrznego lub operator systemu bezzałogowego statku powietrznego zniszczonego albo unieruchomionego albo nad którego lotem przejęto kontrolę.”;
+
+- **24)** w art. 160 w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) wykonywanie operacji z użyciem systemu bezzałogowego statku powietrznego w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE.”;
+- **25)** w art. 209:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Użytkownicy będący operatorami systemów bezzałogowych statków powietrznych użytkujący bezzałogowe statki powietrzne o masie startowej od 0,25 kg do 20 kg są obowiązani do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody powstałe w związku z wykonywanymi operacjami.”,
+    - **b)** dodaje się ust. 8 w brzmieniu: „8. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1a, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę specyfikę operacji wykonywanych przez operatorów systemów bezzałogowych statków powietrznych.”;
+
+- **26)** w art. 209o dodaje się ust. 3 w brzmieniu: „3. Podmiot, który nie zawarł umowy ubezpieczenia odpowiedzialności cywilnej, o której mowa w art. 209 ust. 1a, podlega karze pieniężnej w wysokości 4000 zł.”;
+- **27)** po art. 209um dodaje się art. 209un w brzmieniu: „Art. 209un. 1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
+
+2. Operator systemu bezzałogowego statku powietrznego, który nie zarejestrował się w rejestrze operatorów, w przypadkach określonych w art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+3. Operator systemu bezzałogowego statku powietrznego, który nie poinformuje w terminie o zmianie danych zawartych w rejestrze operatorów dotyczących tego operatora, podlega karze pieniężnej w wysokości 500 zł.
+
+4. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, z naruszeniem warunków wykonywania takiej operacji określonych w art. 4 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 4000 zł za każde naruszenie.
+
+5. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, bezzałogowym statkiem powietrznym niezgodnym z art. 40 ust. 5 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+6. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego niespełniającego warunków określonych w art. 40 ust. 3 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+7. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego, nie posiadając ważnego na dzień wykonywania operacji zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+8. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków scenariusza standardowego, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 4000 zł za każde naruszenie.
+
+9. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, naruszając warunki certyfikatu LUC, podlega karze pieniężnej w wysokości 12 000 zł.
+
+10. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków wykonywania operacji określonych w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 3000 zł.
+
+11. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem warunków wykonywania operacji określonych w krajowym scenariuszu standardowym, podlega karze pieniężnej w wysokości 4000 zł.
+
+12. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem wymogów, o których mowa w art. 8 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 500 zł.
+
+13. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego niezgodnie z zezwoleniem na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 250 zł.
+
+14. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „certyfikowanej”, o której mowa w art. 6 rozporządzenia nr 2019/947/UE, z naruszeniem art. 7 ust. 3 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
+
+15. Operator systemu bezzałogowego statku powietrznego, który wykonuje z użyciem systemu bezzałogowego statku powietrznego operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, z naruszeniem art. 13 ust. 1 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+16. Pilot bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z przekroczeniem zaleceń i ograniczeń określonych przez producenta systemów bezzałogowych statków powietrznych w rozumieniu art. 3 pkt 13 rozporządzenia nr 2019/945/UE, podlega karze pieniężnej w wysokości 1000 zł.
+
+17. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
+
+18. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 7 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
+
+19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł.”;
+
+- **28)** w art. 209w ust. 1 otrzymuje brzmienie: „1. Kary pieniężne, o których mowa w art. 209a–209un, nakłada Prezes Urzędu w drodze decyzji administracyjnej.”;
+- **29)** w załączniku nr 6 do ustawy:
+    - **a)** w „Objaśnieniach terminów użytych w załączniku”: – po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) certyfikacie LUC – należy przez to rozumieć certyfikat operatora lekkich systemów bezzałogowych statków powietrznych w rozumieniu art. 2 pkt 9 rozporządzenia nr 2019/947/UE;”, – po pkt 28b dodaje się pkt 28c w brzmieniu: „28c) rozporządzeniu nr 2019/947/UE – należy przez to rozumieć rozporządzenie wykonawcze Komisji (UE) 2019/947 z dnia 24 maja 2019 r. w sprawie przepisów i procedur dotyczących eksploatacji bezzałogowych statków powietrznych;”,
+    - **b)** w tabeli nr 1: – w części I w podczęści 1.2 dodaje się ust. 11–21 w brzmieniu:
+
+11. Rozpatrzenie wniosku o uznanie certyfikatu kompe- 1000 tencji pilota bezzałogowego statku powietrznego lub certyfikatu operatora systemu bezzałogowego statku powietrznego zgodnie z rozporządzeniem nr 2019/947/UE lub równoważnego dokumentu do celów operacji międzynarodowych z użyciem systemu bezzałogowego statku powietrznego przez operatora systemu bezzałogowego statku powietrznego z państwa trzeciego oraz jego uznanie
+
+12. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 1500 potwierdzenia, o którym mowa w art. 13 ust. 2 rozporządzenia nr 2019/947/UE
+
+13. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 500 zezwolenia, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywaną z użyciem jednego systemu bezzałogowego statku powietrznego
+
+14. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 1000 zezwolenia, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, na operację w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wykonywane rojem bezzałogowych statków powietrznych
+
+15. Wydanie potwierdzenia odbioru i kompletności oświad- 50 czenia, o którym mowa w art. 156d ust. 4 ustawy, za każdy krajowy scenariusz standardowy
+
+16. Wydanie potwierdzenia odbioru i kompletności oświad- 50 czenia, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, za każdy scenariusz standardowy, o którym mowa w dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE
+
+17. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 50 zezwolenia na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
+
+18. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 500 zmiany, o której mowa w art. 156c ust. 4, zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
+
+19. Rozpatrzenie wniosku i wydanie decyzji w przedmiocie 250 przedłużenia ważności zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE, wskazanego w ust. 13 i 14
+
+20. Rozpatrzenie wniosku o pojedynczą zmianę w potwier- 10 dzeniu wskazanym w ust. 15 i 16
+
+21. Rozpatrzenie wniosku o pojedynczą zmianę w zezwole- 15 niu wskazanym w ust. 17 – w części II w podczęści 2.2 w ust. 6 w pkt 1 oraz w ust. 7 w pkt 1 skreśla się wyrazy „ , operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe”, – w części III: – – po podczęści 3.2 dodaje się podczęść 3.2a w brzmieniu:
+
+3. 2a. Rejestracja operatorów systemów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2
+
+1. Wydanie zaświadczenia o wykreśleniu operatora sys- 25 temu bezzałogowego statku powietrznego z rejestru operatorów systemów bezzałogowych statków powietrznych – – w podczęści 3.3 w ust. 6 uchyla się pkt 4, – – w podczęści 3.4 w ust. 1 w pkt 2 skreśla się wyrazy „i bezpilotowych”, – – w podczęści 3.13 dodaje się ust. 44–50 w brzmieniu:
+
+44. Rozpatrzenie wniosku oraz wydanie decyzji admini- Opłata podstawowa stracyjnej w przedmiocie certyfikatu LUC 5000 zwiększona o opłatę za poszczególny wskazany poziom ryzyka:
+
+1. SAIL I 2500
+
+2. SAIL II 2500
+
+3. SAIL III 3000
+
+4. SAIL IV 3000
+
+5. SAIL V 3500
+
+6. SAIL VI 3500
+
+45. Rozpatrzenie wniosku o pojedynczą zmianę do 1000 certyfikatu LUC, o której mowa w UAS.LUC.070 części C rozporządzenia nr 2019/947/UE, oraz jego wydanie
+
+46. Rozpatrzenie wniosku o zamiarze przeprowadzania 600 egzaminu z wiedzy teoretycznej do wykonywania operacji w podkategorii A2 kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
+
+47. Rozpatrzenie wniosku o zamiarze przeprowadzania 1000 egzaminu z wiedzy teoretycznej do wykonywania operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, oraz wyznaczenie podmiotu
+
+48. Rozpatrzenie, złożonego przez operatora systemu 400 bezzałogowego statku powietrznego ubiegającego się o przyznanie uprawnienia do prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych, oświadczenia, o którym mowa w dodatku 4 do załącznika do rozporządzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz
+
+49. Rozpatrzenie wniosku o zamiarze prowadzenia szkole- 400 nia praktycznego i oceny umiejętności praktycznych w ramach zezwolenia na operację, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
+
+50. Rozpatrzenie, złożonego przez podmiot ubiegający się 400 o uznanie, oświadczenia, o którym mowa w dodatku 6 do załącznika do rozporządzenia nr 2019/947/UE, lub oświadczenia o zamiarze prowadzenia szkolenia praktycznego i oceny umiejętności praktycznych zgodnie z krajowym scenariuszem standardowym – za każdy scenariusz
+
+- **c)** w tabeli nr 2 w części I w podczęści 1.2 w ust. 4 uchyla się pkt 5 i 7,
+- **d)** w tabeli nr 3 dodaje się część VII w brzmieniu: Część VII Sprawowanie bieżącego nadzoru nad operatorami systemów bezzałogowych statków powietrznych oraz podmiotami prowadzącymi szkolenia praktyczne i ocenę umiejętności praktycznych pilotów bezzałogowych statków powietrznych Rodzaj czynności urzędowej Wysokość stawki w zł 1 2
+
+1. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 0 statku powietrznego, który złożył oświadczenie o wykonywaniu operacji w kategorii „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, zgodnie z krajowym scenariuszem standardowym lub scenariuszem standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE
+
+2. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 1000 statku powietrznego, który posiada zezwolenie, o którym mowa w art. 12 ust. 2 rozporządzenia nr 2019/947/UE
+
+3. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 0 statku powietrznego, który posiada zezwolenie na operację, o którym mowa w art. 16 ust. 1 rozporządzenia nr 2019/947/UE
+
+4. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 5000 statku powietrznego, który posiada certyfikat LUC
+
+5. Sprawowanie bieżącego nadzoru nad wyznaczonym podmiotem, o którym 500 mowa w art. 156n ust. 1
+
+6. Sprawowanie bieżącego nadzoru nad uznanym podmiotem, o którym 400 mowa w art. 156o ust. 1 pkt 1
+
+7. Sprawowanie bieżącego nadzoru nad operatorem systemu bezzałogowego 400 statku powietrznego posiadającym uprawnienie, o którym mowa w art. 156o ust. 1 pkt 2
+
+- **30)** dodaje się załącznik nr 7 do ustawy w brzmieniu określonym w załączniku do niniejszej ustawy.
 
 **Art. 2.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ) w art. 16 ust. 1 otrzymuje brzmienie: „1. W przypadkach, o których mowa w art. 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), policjanci mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–13 i 17–21 tej ustawy, lub wykorzystać te środki.”.
 

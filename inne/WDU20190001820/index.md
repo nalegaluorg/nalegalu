@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 Kierując się dobrem osób, które jako dzieci cierpiały na skutek czynności skierowanych przeciwko wolności seksualnej i obyczajności, mając na względzie ich ból, poczucie osamotnienia oraz traumatyczne przeżycia, które oddziałują również w ich dorosłym życiu, uwzględniając powinność uczynienia zadość społecznemu poczuciu sprawiedliwości, jako wyraz przekonania, że żadne działania skierowane przeciwko wolności seksualnej i obyczajności dzieci mimo upływu lat nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – dla ochrony czci, praw i godności osób poszkodowanych stanowi się, co następuje:
+# Ustawa z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-09-25 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001820) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1820/text.pdf) |
-
-Art. 45–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -83,7 +81,8 @@ Art. 45–47. (pominięte)
 - **3)** pielęgniarki i położnej, o której mowa w art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234);
 - **4)** członków samorządu zawodu farmaceuty, o której mowa w art. 21 pkt 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972);
 - **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz.
-- **1972)** , o której mowa w art. 50 ust. 1 tej ustawy; [6) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);] <6) psychologa, o której mowa w art. 27 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);>
+- **1972)** , o której mowa w art. 50 ust. 1 tej ustawy; [6) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);]
+- **6)** psychologa, o której mowa w art. 27 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);
 - **7)** pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i
 - **2760)** .
 
@@ -700,6 +699,8 @@ Art. 45–47. (pominięte)
 ##### Oddział 2 (uchylony)
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 45–47.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 

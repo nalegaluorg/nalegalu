@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
+# Ustawa z dnia 17 lipca 1997 r. o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.
 
 *USTAWA z dnia 17 lipca 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
+# Ustawa z dnia 23 maja 2001 r. o ustanowieniu programu wieloletniego "Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego".
 
 *USTAWA z dnia 23 maja 2001 r.*
 

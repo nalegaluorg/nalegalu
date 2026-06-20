@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawę –Prawo o szkolnictwie wyższym
+# Ustawa z dnia 5 marca 2010 r. zmieniająca ustawę o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawę - Prawo o szkolnictwie wyższym
 
 *USTAWA z dnia 5 marca 2010 r.*
 

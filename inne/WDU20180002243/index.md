@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku
+# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku
 
 *USTAWA z dnia 9 listopada 2018 r.*
 
@@ -334,7 +334,9 @@ source: pdf
 
 2. Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Centralnego Biura Antykorupcyjnego, Szef Krajowej Administracji Skarbowej, Komendant Główny Policji oraz Prezes Urzędu Ochrony Konkurencji i Konsumentów przekazują Przewodniczącemu Komisji dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do realizacji ustawowych zadań Komisji.
 
-3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, zawierane są odpowiednie porozumienia. Art. 17cb. Przewodniczący Komisji przekazuje Prezesowi Prokuratorii Generalnej Rzeczypospolitej Polskiej niezbędne informacje i dokumenty w celu realizacji zastępstwa, o którym mowa w ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261 oraz z 2018 r. poz. 723, 1544 i 1669).”;
+3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, zawierane są odpowiednie porozumienia.
+
+**Art. 17cb.** Przewodniczący Komisji przekazuje Prezesowi Prokuratorii Generalnej Rzeczypospolitej Polskiej niezbędne informacje i dokumenty w celu realizacji zastępstwa, o którym mowa w ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261 oraz z 2018 r. poz. 723, 1544 i 1669).”;
 
 - **14)** w art. 17d ust. 1 otrzymuje brzmienie: „1. Komisja współpracuje z Komisją Europejską, Europejskim Bankiem Centralnym, Europejskim Urzędem Nadzoru Bankowego, Europejskim Urzędem Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych, Europejską Radą ds. Ryzyka Systemowego oraz Europejskim Systemem Banków Centralnych i udziela tym organom wszelkich informacji niezbędnych do wypełniania ich obowiązków.”;
 - **15)** w art. 18h dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadku gdy zachodzi uzasadnione podejrzenie popełnienia przestępstwa skarbowego, Przewodniczący Komisji udostępnia Szefowi Krajowej Administracji Skarbowej właściwe w tej sprawie dokumenty i informacje.

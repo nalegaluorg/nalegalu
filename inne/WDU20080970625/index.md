@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo lotnicze
+# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy - Prawo lotnicze
 
 *USTAWA z dnia 25 kwietnia 2008 r.*
 

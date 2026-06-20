@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 listopada 2008 r.*
 
@@ -49,9 +49,7 @@ source: pdf
 
 § 4. Jeżeli wniosek o zabezpieczenie w formie określonej w § 2 złożono po ustanowieniu zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, zakres zabezpieczenia ustanowionego w trybie przepisów o postępowaniu egzekucyjnym w administracji uchyla się lub zmienia, w zakresie przyjętego zabezpieczenia.
 
-**Art. 33e.** Gwarantem lub poręczycielem może być osoba wpisana do wykazu gwarantów, o którym mowa w art. 52 ustawy z dnia 19 marca 2004 r. - Prawo celne (Dz.U. Nr 68, poz. 622 i Nr 273, poz.
-
-- **2703)** .
+**Art. 33e.** Gwarantem lub poręczycielem może być osoba wpisana do wykazu gwarantów, o którym mowa w art. 52 ustawy z dnia 19 marca 2004 r. - Prawo celne (Dz.U. Nr 68, poz. 622 i Nr 273, poz. 2703).
 
 **Art. 33f.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawy reformujące administrację publiczną oraz ustawy – Przepisy wprowadzające reformę ustroju szkolnego
+# Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy - Przepisy wprowadzające ustawy reformujące administrację publiczną oraz ustawy - Przepisy wprowadzające reformę ustroju szkolnego.
 
 *USTAWA z dnia 8 grudnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz niektórych innych ustaw
+# Ustawa z dnia 30 października 2003 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 października 2003 r.*
 

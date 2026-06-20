@@ -458,7 +458,11 @@ source: pdf
 
 - **1)** publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego,
 - **2)** publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej,
-- **3)** publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny. Art. 52aa. § 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
+- **3)** publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne – podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 52aa.**
+
+§ 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
 
 § 2. Kto umyślnie uczestniczy w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, podlega karze grzywny.
 
@@ -830,7 +834,11 @@ source: pdf
 
 **Art. 88.** Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia, podlega karze grzywny.
 
-**Art. 89.** Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do przebywania małoletniego na drodze publicznej lub na torach pojazdu szynowego, podlega karze grzywny albo karze nagany. <Art. 89a. § 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym, podlega karze grzywny do 100 złotych.
+**Art. 89.** Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do przebywania małoletniego na drodze publicznej lub na torach pojazdu szynowego, podlega karze grzywny albo karze nagany.
+
+**Art. 89a.**
+
+§ 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym, podlega karze grzywny do 100 złotych.
 
 § 2. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka w wieku do lat 7 na rowerze albo na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.2)), jeżeli wbrew obowiązkowi przewozi to dziecko:
 
@@ -844,7 +852,7 @@ source: pdf
 
 - **1)** bez kasku ochronnego odpowiadającego właściwym warunkom technicznym, lub
 - **2)** niezgodnie ze sposobem, o którym mowa w art. 63 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, lub
-- **3)** w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.>
+- **3)** w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 **Art. 90.**
 

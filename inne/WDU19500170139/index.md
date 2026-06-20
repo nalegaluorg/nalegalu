@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Centralnego Instytutu Ochrony Pracy.
+# Ustawa z dnia 4 kwietnia 1950 r. o utworzeniu Centralnego Instytutu Ochrony Pracy.
 
 *USTAWA z dnia 4 kwietnia 1950 r.*
 

@@ -27,16 +27,8 @@ source: pdf
 o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i byłego Wolnego Miasta Gdańska Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) - Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:
 Zapas ziemi.
 Zasady ustroju rolnego i osadnictwa.
-Wydzielenie nieruchomości na cele publiczne.
-Obszar gospodarstw rolnych i działek.
-Nabywcy.
-Cena gospodarstw (działek) i jej spłata.
-Akt nadania i przeniesienie prawa własności nadanych gospodarstw (działek).
-Właściwość władz powołanych do orzekania w trybie niniejszego dekretu.
 Przepisy karne
-Art. 38-40. (uchylony)
 Przepisy przejściowe i końcowe.
-Art. 41-43. (utraciły moc).
 
 ### DZIAŁ I.
 
@@ -66,7 +58,7 @@ Art. 41-43. (utraciły moc).
 
 ### DZIAŁ II.
 
-#### Rozdział I.
+#### Rozdział I. Wydzielenie nieruchomości na cele publiczne.
 
 **Art. 7.**
 
@@ -86,7 +78,7 @@ Art. 41-43. (utraciły moc).
 
 - **162)** z tą zmianą, że mogą te resztówki być oddane do bezpłatnego użytkowania spółdzielniom parcelacyjno-osadniczym, które współdziałały z właściwymi władzami w parcelacji danych nieruchomości. W tym przypadku przepis art. 2 ust.2 wymienionego dekretu nie ma zastosowania.
 
-#### Rozdział II.
+#### Rozdział II. Obszar gospodarstw rolnych i działek.
 
 **Art. 9.** Obszar użytków rolnych w gospodarstwach rolnych, nadawanych w trybie niniejszego dekretu, w zależności od warunków glebowych, terenowych, klimatycznych i ekonomicznych wynosić winien od 7-15 hektarów. Jednakże obszar użytków rolnych w gospodarstwach o charakterze hodowlanym może wynosić do 20 hektarów, istniejące zaś gospodarstwa rolne o obszarze użytków rolnych poniżej 7 hektarów mogą być nadawane w dotychczasowym rozmiarze.
 
@@ -102,7 +94,7 @@ Art. 41-43. (utraciły moc).
 
 **Art. 13.** Gospodarstwa rolne nieżywotne mogą być uzupełnione w ramach norm przewidzianych w czterech artykułach poprzedzających.
 
-#### Rozdział III.
+#### Rozdział III. Nabywcy.
 
 **Art. 14.**
 
@@ -139,7 +131,7 @@ Art. 41-43. (utraciły moc).
 
 **Art. 20.** Ministrowie: Ziem Odzyskanych, Rolnictwa i Reform Rolnych, Żeglugi i Handlu Zagranicznego oraz Odbudowy ustalą obszary nadmorskie, na których zapas ziemi winien być przeznaczony w całości lub częściowo na tworzenie osad rybackich.
 
-#### Rozdział IV.
+#### Rozdział IV. Cena gospodarstw (działek) i jej spłata.
 
 **Art. 21.**
 
@@ -165,7 +157,7 @@ Art. 41-43. (utraciły moc).
 
 3. Należności, przewidziane w niniejszym artykule, podlegają ściągnięciu w trybie przewidzianym dla realizacji należności publiczno-prawnych.
 
-#### Rozdział V.
+#### Rozdział V. Akt nadania i przeniesienie prawa własności nadanych gospodarstw (działek).
 
 **Art. 25.**
 
@@ -211,7 +203,7 @@ Art. 41-43. (utraciły moc).
 
 **Art. 32.** (utracił moc).
 
-#### Rozdział VI.
+#### Rozdział VI. Właściwość władz powołanych do orzekania w trybie niniejszego dekretu.
 
 **Art. 33.** Władzami właściwymi w rozumieniu niniejszego dekretu są starostowie.
 
@@ -234,7 +226,11 @@ Art. 41-43. (utraciły moc).
 
 ### DZIAŁ III.
 
+**Art. 38-40.** (uchylony)
+
 ### DZIAŁ IV.
+
+**Art. 41-43.** (utraciły moc).
 
 **Art. 44.** Rozporządzenie Ministrów Rolnictwa i Reform Rolnych oraz Ziem Odzyskanych, wydane w porozumieniu z Ministrem Skarbu, ustali władze powołane do orzekania o przejęciu na własność Państwa nieruchomości ziemskich, wymienionych w art. 41 i 42, oraz do orzekania o przyznaniu przewidzianego w art. 43 odszkodowania w naturze, tudzież tryb postępowania przed tymi władzami i sposób wymiaru odszkodowania.
 

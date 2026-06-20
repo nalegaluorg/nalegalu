@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 

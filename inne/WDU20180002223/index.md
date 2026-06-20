@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu
 
 *USTAWA z dnia 10 stycznia 2018 r.*
 

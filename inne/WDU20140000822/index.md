@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze standaryzacją niektórych wzorów pism w procedurach administracyjnych
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie niektórych ustaw w związku ze standaryzacją niektórych wzorów pism w procedurach administracyjnych
 
 *USTAWA z dnia 24 kwietnia 2014 r.*
 

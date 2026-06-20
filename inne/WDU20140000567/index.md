@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustaleniu i wypłacie zasiłków dla opiekunów
+# Ustawa z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów
 
 *USTAWA z dnia 4 kwietnia 2014 r.*
 
@@ -118,7 +118,9 @@ source: pdf
 
 2. Wysokość zasiłku dla opiekuna podlega weryfikacji, o której mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, na zasadach określonych w rozdziale 4 tej ustawy.
 
-3. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w art. 19 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych wysokości zasiłku dla opiekuna, Rada Ministrów ustala jego wysokość w drodze rozporządzenia. Art. 11–22. (pominięte)
+3. W przypadku gdy Rada Dialogu Społecznego nie uzgodni w terminie, o którym mowa w art. 19 ust. 2 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych wysokości zasiłku dla opiekuna, Rada Ministrów ustala jego wysokość w drodze rozporządzenia.
+
+**Art. 11–22.** (pominięte)
 
 **Art. 23.** Osoba pobierająca zasiłek dla opiekuna podlega obowiązkowi ubezpieczenia zdrowotnego na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146), nie wcześniej jednak niż od dnia wejścia w życie ustawy.
 

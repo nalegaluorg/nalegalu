@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Straży Pożarnej
+# Ustawa z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
 
 *USTAWA z dnia 24 sierpnia 1991 r.*
 
@@ -1861,7 +1861,11 @@ source: pdf
 
 7. Prawo do kolejnych dodatkowych urlopów wypoczynkowych strażak nabywa w każdym następnym roku kalendarzowym, z tym że w przypadku, o którym mowa w ust. 6 pkt 1, musi być to rok, w którym służba jest pełniona w warunkach szkodliwych dla zdrowia lub uciążliwych.
 
-8. Strażakowi, który posiada uprawnienia do dodatkowego urlopu wypoczynkowego z tytułu osiągnięcia określonego wieku lub stażu służby, podejmującemu służbę w ciągu roku kalendarzowego, przysługuje w tym roku kalendarzowym dodatkowy urlop wypoczynkowy w wymiarze proporcjonalnym do okresu służby w tym roku. Art. 71aa. 1. Strażakowi posiadającemu status weterana poszkodowanego przysługuje prawo do corocznego płatnego dodatkowego urlopu wypoczynkowego w wymiarze 5 dni.
+8. Strażakowi, który posiada uprawnienia do dodatkowego urlopu wypoczynkowego z tytułu osiągnięcia określonego wieku lub stażu służby, podejmującemu służbę w ciągu roku kalendarzowego, przysługuje w tym roku kalendarzowym dodatkowy urlop wypoczynkowy w wymiarze proporcjonalnym do okresu służby w tym roku.
+
+**Art. 71aa.**
+
+1. Strażakowi posiadającemu status weterana poszkodowanego przysługuje prawo do corocznego płatnego dodatkowego urlopu wypoczynkowego w wymiarze 5 dni.
 
 2. Prawo do urlopu, o którym mowa w ust. 1, nie przysługuje strażakowi posiadającemu status weterana poszkodowanego uprawnionemu do urlopu wypoczynkowego i dodatkowych urlopów wypoczynkowych, z wyłączeniem dodatkowego urlopu wypoczynkowego z tytułu pełnienia służby w warunkach szkodliwych dla zdrowia lub uciążliwych, w wymiarze przekraczającym 26 dni.
 

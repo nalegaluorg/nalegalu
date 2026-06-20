@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie rozciągnięcia przepisów ustawy o pracownikach urzędów państwowych na pracowników komend, inspektoratów i innych jednostek organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich oraz kierowników powiatowych służb, inspekcji i straży.
+# Rozporządzenie Rady Ministrów z dnia 18 marca 1999 r. w sprawie rozciągnięcia przepisów ustawy o pracownikach urzędów państwowych na pracowników komend, inspektoratów i innych jednostek organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich oraz kierowników powiatowych służb, inspekcji i straży.
 
 | Pole | Wartość |
 |---|---|

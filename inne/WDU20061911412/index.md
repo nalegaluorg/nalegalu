@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o podatku rolnym
 
 *USTAWA z dnia 22 września 2006 r.*
 

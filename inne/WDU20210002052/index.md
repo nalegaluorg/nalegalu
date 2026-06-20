@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
+# Ustawa z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego
 
 *USTAWA z dnia 1 października 2021 r.*
 

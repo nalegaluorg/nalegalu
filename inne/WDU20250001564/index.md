@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o języku polskim
+# Ustawa z dnia 26 września 2025 r. o zmianie ustawy o języku polskim
 
 *USTAWA z dnia 26 września 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatku węglowym
+# Ustawa z dnia 5 sierpnia 2022 r. o dodatku węglowym
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999 i 2000 oraz niektórych innych ustaw
+# Ustawa z dnia 13 października 2000 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999 i 2000 oraz niektórych innych ustaw.
 
 *USTAWA z dnia 13 października 2000 r.*
 

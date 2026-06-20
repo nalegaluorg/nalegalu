@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie oceny zgodności
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie oceny zgodności
 
 *USTAWA z dnia 30 sierpnia 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-02-01 |
 | Ostatnia zmiana | 2025-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/215/text.pdf) |
-
-Art. 49–57. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -595,6 +593,8 @@ Art. 49–57. (pominięte)
 **Art. 48.** (uchylony)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 49–57.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

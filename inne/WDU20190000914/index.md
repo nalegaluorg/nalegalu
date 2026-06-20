@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy – Prawo o ustroju sądów administracyjnych
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy - Prawo o ustroju sądów administracyjnych
 
 *USTAWA z dnia 26 kwietnia 2019 r.*
 

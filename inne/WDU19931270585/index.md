@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 3 grudnia 1993 r. o zmianie ustawy o systemie oświaty.
 
 | Pole | Wartość |
 |---|---|

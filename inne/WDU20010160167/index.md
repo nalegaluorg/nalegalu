@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego i ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
+# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego i ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
 
 *USTAWA z dnia 3 lutego 2001 r.*
 

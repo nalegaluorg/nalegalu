@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie zagranicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie zagranicznej
 
 *USTAWA z dnia 21 stycznia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-20 |
 | Ostatnia zmiana | 2024-12-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001691) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1691/text.pdf) |
-
-Art. 61–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -962,6 +960,8 @@ Art. 61–73. (pominięte)
 #### Rozdział 7 (uchylony)
 
 #### Rozdział 8 Przepisy zmieniające
+
+**Art. 61–73.** (pominięte)
 
 #### Rozdział 9 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

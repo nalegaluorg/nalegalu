@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych
+# Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych
 
 *USTAWA z dnia 4 stycznia 2013 r.*
 

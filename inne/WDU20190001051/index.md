@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo pocztowe
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy - Prawo pocztowe
 
 *USTAWA z dnia 16 maja 2019 r.*
 

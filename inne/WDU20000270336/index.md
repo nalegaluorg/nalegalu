@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników tralnego Inspektoratu Standaryzacji.
+# Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 31 marca 2000 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Inspektoratu Standaryzacji.
 
 *ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 31 marca 2000 r.*
 

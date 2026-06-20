@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów oraz o zmianie ustawy – Przepisy wprowadzające Kodeks karny
+# Ustawa z dnia 17 lipca 2009 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów oraz o zmianie ustawy - Przepisy wprowadzające Kodeks karny
 
 *USTAWA z dnia 17 lipca 2009 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o skutkach wprowadzenia w niektórych państwach członkowskich Unii Europejskiej wspólnej waluty euro
+# Ustawa z dnia 25 maja 2001 r. o skutkach wprowadzania w niektórych państwach członkowskich Unii Europejskiej wspólnej waluty euro.
 
 *USTAWA z dnia 25 maja 2001 r.*
 

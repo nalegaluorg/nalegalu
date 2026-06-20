@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie ustanowienia norm ilościowych lub wartościowych towarów, których przywóz z zagranicy jest wolny od cła, oraz ograniczenia uprawnień do korzystania ze zwolnień od cła na niektóre towary przywożone przez osoby przekraczające wielokrotnie granicę państwową.
+# Rozporządzenie Ministra Finansów z dnia 18 maja 2000 r. zmieniające rozporządzenie w sprawie ustanowienia norm ilościowych lub wartościowych towarów, których przywóz z zagranicy jest wolny od cła, oraz ograniczenia uprawnień do korzystania ze zwolnień od cła na niektóre towary przywożone przez osoby przekraczające wielokrotnie granicę państwową.
 
 *ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 maja 2000 r.*
 

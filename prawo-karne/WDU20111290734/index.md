@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l
+# Ustawa z dnia 15 kwietnia 2011 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny, ustawy - Kodeks karny wykonawczy oraz ustawy - Prawo ochrony środowiska
 
 | Pole | Wartość |
 |---|---|

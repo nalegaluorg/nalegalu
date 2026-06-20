@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Wyższej Szkole w Koninie.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 31 stycznia 2000 r. w sprawie przekształceń w Wyższej Szkole Zawodowej w Koninie.
 
 *ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 31 stycznia 2000 r.*
 

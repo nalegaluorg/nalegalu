@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw
+# Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw.
 
 *USTAWA z dnia 1 marca 1996 r.*
 
@@ -497,7 +497,7 @@ source: pdf
 
 **Art. 8.** W ustawie z dnia 16 września 1982 r. - Prawo spółdzielcze (Dz.U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32 i Nr 24, poz. 110) w art. 10 w § 1 pkt 1 otrzymuje brzmienie: "1) nazwę spółdzielni, jej siedzibę i adres,".
 
-**Art. 9.** W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz.U. Nr 35, poz. 195 i z 1992 r. Nr 75, poz. 368) w art. 10 w ust. 1 pkt 1 otrzymuje brzmienie: "1) nazwę, siedzibę i adres izby gospodarczej oraz zakres terytorialny jej działalności,"; [Art. 10. Rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego oraz organów pozasądowych, przewidziane w ustawach szczególnych, rozpoznaje Sąd Najwyższy stosując odpowiednio przepisy o postępowaniu kasacyjnym. Termin do wniesienia rewizji nadzwyczajnej wynosi sześć miesięcy od dnia doręczenia prawomocnego orzeczenia.]
+**Art. 9.** W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych (Dz.U. Nr 35, poz. 195 i z 1992 r. Nr 75, poz. 368) w art. 10 w ust. 1 pkt 1 otrzymuje brzmienie: "1) nazwę, siedzibę i adres izby gospodarczej oraz zakres terytorialny jej działalności,";
 
 **Art. 11.**
 

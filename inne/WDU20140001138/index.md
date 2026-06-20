@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 22 lipca 2014 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 lipca 2014 r.*
 
@@ -140,7 +140,11 @@ source: pdf
 2. Świadczeniodawca, o którym mowa w art. 20, przekazuje dane zawarte na listach oczekujących na udzielenie świadczenia do systemu informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.”;
 
 - **15)** w art. 31a dodaje się ust. 3 w brzmieniu: „3. Wydając rozporządzenie, o którym mowa w ust. 2, minister właściwy do spraw zdrowia uwzględni także dane zawarte w mapach potrzeb zdrowotnych, o których mowa w art. 95a ust. 1 i 6, oraz wyniki monitorowania ich aktualności.”;
-- **16)** w dziale II po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Taryfikacja świadczeń opieki zdrowotnej Art. 31la. 1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
+- **16)** w dziale II po rozdziale 1a dodaje się rozdział 1aa w brzmieniu: „Rozdział 1aa Taryfikacja świadczeń opieki zdrowotnej
+
+**Art. 31la.**
+
+1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
 
 2. Prezes Agencji sporządza projekt planu taryfikacji Agencji i przedstawia go do zaopiniowania Prezesowi Funduszu oraz Radzie do spraw Taryfikacji, o której mowa w art. 31sa, w terminie do dnia 1 czerwca roku poprzedzającego rok, którego dotyczy ten plan. Prezes Funduszu oraz Rada do spraw Taryfikacji przedstawiają opinie w terminie 14 dni od dnia otrzymania planu. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
 
@@ -150,11 +154,19 @@ source: pdf
 
 5. Minister właściwy do spraw zdrowia może w terminie, o którym mowa w ust. 4, zalecić wprowadzenie zmian w planie taryfikacji Agencji, określając termin ich wprowadzenia nie dłuższy niż 7 dni.
 
-6. W przypadku nieprzedstawienia planu taryfikacji w terminie, o którym mowa w ust. 3, niewprowadzenia w nim przez Agencję zmian określonych w ust. 5 albo niezatwierdzenia planu, minister właściwy do spraw zdrowia sporządza plan taryfikacji Agencji. Art. 31lb. 1. Prezes Agencji określa taryfę świadczeń, w danym zakresie lub rodzaju, w formie obwieszczenia publikowanego w Biuletynie Informacji Publicznej Agencji i na stronie internetowej Agencji.
+6. W przypadku nieprzedstawienia planu taryfikacji w terminie, o którym mowa w ust. 3, niewprowadzenia w nim przez Agencję zmian określonych w ust. 5 albo niezatwierdzenia planu, minister właściwy do spraw zdrowia sporządza plan taryfikacji Agencji.
+
+**Art. 31lb.**
+
+1. Prezes Agencji określa taryfę świadczeń, w danym zakresie lub rodzaju, w formie obwieszczenia publikowanego w Biuletynie Informacji Publicznej Agencji i na stronie internetowej Agencji.
 
 2. Przed określeniem taryfy świadczeń w danym zakresie lub rodzaju Prezes Agencji zasięga opinii Rady do spraw Taryfikacji, o której mowa w art. 31sa.
 
-3. Rada do spraw Taryfikacji, o której mowa w art. 31sa, wydaje opinię w terminie 30 dni od dnia otrzymania taryfy świadczeń w danym zakresie. Art. 31lc. 1. Agencja jest uprawniona do gromadzenia i przetwarzania danych niezbędnych do określenia taryfy świadczeń.
+3. Rada do spraw Taryfikacji, o której mowa w art. 31sa, wydaje opinię w terminie 30 dni od dnia otrzymania taryfy świadczeń w danym zakresie.
+
+**Art. 31lc.**
+
+1. Agencja jest uprawniona do gromadzenia i przetwarzania danych niezbędnych do określenia taryfy świadczeń.
 
 2. W celu określenia taryfy świadczeń Agencja ma prawo do przetwarzania następujących danych świadczeniobiorców:
 
@@ -260,7 +272,11 @@ source: pdf
 - **1)** wynagrodzenie nieprzekraczające 3500 zł za udział w każdym posiedzeniu tej Rady, jednak nie więcej niż 10 500 zł miesięcznie;
 - **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
-18. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków i przewodniczącego Rady do spraw Taryfikacji, uwzględniając zakres jej zadań. Art. 31sb. 1. Za reprezentatywną organizację świadczeniodawców uważa się taką organizację, która zrzesza świadczeniodawców, u których liczba osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej wynosi łącznie co najmniej 10 000. Osoba uprawniona do reprezentowania tej organizacji złoży ministrowi właściwemu do spraw zdrowia, nie później niż do dnia 30 kwietnia, oświadczenie potwierdzające liczbę osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+18. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków i przewodniczącego Rady do spraw Taryfikacji, uwzględniając zakres jej zadań.
+
+**Art. 31sb.**
+
+1. Za reprezentatywną organizację świadczeniodawców uważa się taką organizację, która zrzesza świadczeniodawców, u których liczba osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej wynosi łącznie co najmniej 10 000. Osoba uprawniona do reprezentowania tej organizacji złoży ministrowi właściwemu do spraw zdrowia, nie później niż do dnia 30 kwietnia, oświadczenie potwierdzające liczbę osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 2. Minister właściwy do spraw zdrowia prowadzi wykaz reprezentatywnych organizacji świadczeniodawców.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+# Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
 
 *USTAWA z dnia 22 lipca 2016 r.*
 
@@ -266,7 +266,11 @@ source: pdf
 
 9. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, wykaz instytutów badawczych, o których mowa w ust. 7.
 
-10. Przepisów ust. 1–9 nie stosuje się do małych i średnich przedsiębiorstw w rozumieniu przepisów o swobodzie działalności gospodarczej, jeżeli sprawozdanie sporządził inny producent lub importer. Art. 8ab. 1. Informacje uzyskane przez Inspektora na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
+10. Przepisów ust. 1–9 nie stosuje się do małych i średnich przedsiębiorstw w rozumieniu przepisów o swobodzie działalności gospodarczej, jeżeli sprawozdanie sporządził inny producent lub importer.
+
+**Art. 8ab.**
+
+1. Informacje uzyskane przez Inspektora na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
 
 2. Inspektor zapewnia dostęp do informacji uzyskanych na podstawie art. 8a i art. 8aa, z uwzględnieniem ochrony tajemnicy handlowej, Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej właściwym do uzyskiwania tych informacji.
 

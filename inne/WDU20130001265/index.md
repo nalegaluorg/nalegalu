@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz ustawy o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o systemie oświaty oraz ustawy o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

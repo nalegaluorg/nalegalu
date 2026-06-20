@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy o świadczeniach pieniężnych przysługujących osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
 
 *USTAWA z dnia 25 lutego 2011 r.*
 

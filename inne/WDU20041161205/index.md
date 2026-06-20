@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
+# Ustawa z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 

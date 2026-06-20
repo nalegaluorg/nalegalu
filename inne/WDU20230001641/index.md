@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 lipca 2023 r.*
 

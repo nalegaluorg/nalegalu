@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach turystycznych
+# Ustawa z dnia 28 kwietnia 2000 r. o zmianie ustawy o usługach turystycznych.
 
 *USTAWA z dnia 28 kwietnia 2000 r.*
 

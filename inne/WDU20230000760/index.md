@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 
@@ -146,7 +146,11 @@ source: pdf
 
 4. Krajowy Punkt Kontaktowy realizuje transgraniczną wymianę informacji przez realizację zadań określonych w art. 80l ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz przy zastosowaniu urządzeń, oprogramowania i procedur określonych w tym przepisie.
 
-5. Budowa, wdrażanie i utrzymanie rozwiązań umożliwiających transgraniczną wymianę informacji za pośrednictwem Krajowego Punktu Kontaktowego są finansowane z Funduszu – Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. Art. 13mb. 1. Krajowymi podmiotami uprawnionymi w zakresie transgranicznej wymiany informacji, zwanymi dalej „krajowymi podmiotami uprawnionymi”, są:
+5. Budowa, wdrażanie i utrzymanie rozwiązań umożliwiających transgraniczną wymianę informacji za pośrednictwem Krajowego Punktu Kontaktowego są finansowane z Funduszu – Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+
+**Art. 13mb.**
+
+1. Krajowymi podmiotami uprawnionymi w zakresie transgranicznej wymiany informacji, zwanymi dalej „krajowymi podmiotami uprawnionymi”, są:
 
 - **1)** Główny Inspektor Transportu Drogowego – w związku z popełnieniem naruszeń obowiązku uiszczenia opłaty elektronicznej;
 - **2)** Szef KAS – w związku z popełnieniem naruszeń obowiązku wniesienia elektronicznej opłaty autostradowej.
@@ -160,7 +164,11 @@ source: pdf
 
 - **3)** wykorzystują rozwiązania teleinformatyczne przystosowane do współpracy z Krajowym Punktem Kontaktowym.
 
-3. Krajowe podmioty uprawnione mogą upoważnić do składania zapytań krajowych osoby wymienione w ust. 2 pkt 2. Art. 13mc. 1. Krajowy Punkt Kontaktowy, na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej w celu transgranicznej wymiany informacji, udostępnia tym punktom informacje, o których mowa w art. 13ma ust. 1 pkt 1 lit. c i pkt 2, dotyczące:
+3. Krajowe podmioty uprawnione mogą upoważnić do składania zapytań krajowych osoby wymienione w ust. 2 pkt 2.
+
+**Art. 13mc.**
+
+1. Krajowy Punkt Kontaktowy, na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej w celu transgranicznej wymiany informacji, udostępnia tym punktom informacje, o których mowa w art. 13ma ust. 1 pkt 1 lit. c i pkt 2, dotyczące:
 
 - **1)** pojazdu:
     - **a)** numer rejestracyjny,
@@ -183,7 +191,12 @@ source: pdf
 
 - **1)** państwo, na terytorium którego zostało popełnione naruszenie,
 - **2)** datę i godzinę popełnienia naruszenia,
-- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia – obowiązku uiszczenia opłaty elektronicznej albo obowiązku wniesienia elektronicznej opłaty autostradowej. Art. 13md. 1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
+- **3)** powód wystąpienia o udzielenie informacji wynikający z popełnienia naruszenia – obowiązku uiszczenia opłaty elektronicznej albo obowiązku wniesienia elektronicznej opłaty autostradowej.
+
+**Art. 13md.**
+
+1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
+
 - **1)** liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej oraz naruszeń obowiązku wniesienia elektronicznej opłaty autostradowej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a i b oraz pkt 2,
 - **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej oraz z naruszeniami obowiązku wniesienia elektronicznej opłaty autostradowej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, albo wezwanie do wniesienia autostradowej opłaty dodatkowej, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego oraz Szef KAS byli uprawnieni do wysłania tego zawiadomienia albo wystawienia tego wezwania, z uwzględnieniem art. 13mf ust. 2 niniejszej ustawy i art. 37gea ust. 7 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym – zwane dalej „sprawozdaniem KPK”.
 
@@ -194,7 +207,11 @@ source: pdf
 - **1)** w zakresie, o którym mowa w ust. 1 pkt 1 – w oparciu o informacje uzyskane z Krajowego Punktu Kontaktowego;
 - **2)** w zakresie, o którym mowa w ust. 1 pkt 2 – w oparciu o informacje uzyskane od krajowych podmiotów uprawnionych.
 
-4. Minister właściwy do spraw informatyzacji oraz krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw transportu informacje, o których mowa w ust. 1, co 3 lata, w terminie do dnia 19 marca danego roku, za okres 3 poprzednich lat. Art. 13me. 1. W ramach transgranicznej wymiany informacji oraz w celu:
+4. Minister właściwy do spraw informatyzacji oraz krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw transportu informacje, o których mowa w ust. 1, co 3 lata, w terminie do dnia 19 marca danego roku, za okres 3 poprzednich lat.
+
+**Art. 13me.**
+
+1. W ramach transgranicznej wymiany informacji oraz w celu:
 
 - **1)** sporządzenia i doręczenia zawiadomienia o wszczęciu postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej, zwanego dalej „zawiadomieniem KPK”, albo
 - **2)** wystawienia i doręczenia wezwania do wniesienia autostradowej opłaty dodatkowej – krajowe podmioty uprawnione nie przetwarzają danych osobowych innych niż wymienione w art. 13mc.
@@ -219,7 +236,11 @@ source: pdf
 - **1)** Głównego Inspektora Transportu Drogowego do sporządzenia i doręczenia zawiadomienia KPK;
 - **2)** Szefa KAS do wystawienia i doręczenia wezwania do wniesienia autostradowej opłaty dodatkowej.
 
-6. Do przetwarzania danych osobowych w ramach transgranicznej wymiany informacji stosuje się przepisy rozporządzenia 2016/679, odpowiednio przepisy art. 174a–174d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581) oraz w zakresie ochrony danych osobowych przetwarzanych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, a także wykonywania kar – odpowiednio przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125 oraz z 2022 r. poz. 1700). Art. 13mf. 1. W przypadku gdy Główny Inspektor Transportu Drogowego ustalił dane właściciela lub posiadacza pojazdu naruszającego obowiązek uiszczenia opłaty elektronicznej w wyniku transgranicznej wymiany informacji, karę pieniężną za to naruszenie nakłada się na:
+6. Do przetwarzania danych osobowych w ramach transgranicznej wymiany informacji stosuje się przepisy rozporządzenia 2016/679, odpowiednio przepisy art. 174a–174d ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581) oraz w zakresie ochrony danych osobowych przetwarzanych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, a także wykonywania kar – odpowiednio przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125 oraz z 2022 r. poz. 1700).
+
+**Art. 13mf.**
+
+1. W przypadku gdy Główny Inspektor Transportu Drogowego ustalił dane właściciela lub posiadacza pojazdu naruszającego obowiązek uiszczenia opłaty elektronicznej w wyniku transgranicznej wymiany informacji, karę pieniężną za to naruszenie nakłada się na:
 
 - **1)** posiadacza pojazdu niebędącego jednocześnie właścicielem pojazdu – jeśli pojazd jest zarejestrowany na tego posiadacza, albo
 - **2)** właściciela pojazdu – w pozostałych przypadkach.
@@ -247,7 +268,11 @@ source: pdf
 
 9. W zakresie nieuregulowanym w ust. 3–8 do postępowania w sprawie nałożenia kary pieniężnej za naruszenie obowiązku uiszczenia opłaty elektronicznej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-10. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór zawiadomienia KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy 2019/520. Art. 13mg. 1. Główny Inspektor Transportu Drogowego jest uprawniony do zatrzymania pojazdu, o którym mowa w art. 13ma ust. 1 pkt 2, jeśli skierował do jego właściciela albo posiadacza zawiadomienie KPK albo nałożył na ten podmiot karę pieniężną za naruszenie obowiązku uiszczenia opłaty elektronicznej, w celu pobrania:
+10. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór zawiadomienia KPK, mając na względzie wzór formularza określony w załączniku II do dyrektywy 2019/520.
+
+**Art. 13mg.**
+
+1. Główny Inspektor Transportu Drogowego jest uprawniony do zatrzymania pojazdu, o którym mowa w art. 13ma ust. 1 pkt 2, jeśli skierował do jego właściciela albo posiadacza zawiadomienie KPK albo nałożył na ten podmiot karę pieniężną za naruszenie obowiązku uiszczenia opłaty elektronicznej, w celu pobrania:
 
 - **1)** kaucji w wysokości odpowiadającej przewidywanej karze pieniężnej – w przypadku gdy decyzja w sprawie nałożenia kary:
     - **a)** nie została jeszcze wydana albo
@@ -418,7 +443,11 @@ source: pdf
 
 5. Określenie trybu wystawiania dokumentów księgowych EETS następuje z uwzględnieniem przepisów art. 16s ust. 4 i 5 oraz wymagań określonych w akcie wykonawczym wydanym przez Komisję Europejską na podstawie art. 5 ust. 11 dyrektywy 2019/520.
 
-6. W zakresie nieuregulowanym w ust. 1–5 do umów dotyczących świadczenia usługi EETS stosuje się przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581). Art. 16lb. 1. Użytkownik EETS jest obowiązany przekazać dostawcy EETS zgodne ze stanem faktycznym dane, w tym dane osobowe, niezbędne do prawidłowego zawarcia i realizacji umowy dotyczącej świadczenia usługi EETS.
+6. W zakresie nieuregulowanym w ust. 1–5 do umów dotyczących świadczenia usługi EETS stosuje się przepisy ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2020 r. poz. 287, z 2021 r. poz. 2105 oraz z 2022 r. poz. 2337 i 2581).
+
+**Art. 16lb.**
+
+1. Użytkownik EETS jest obowiązany przekazać dostawcy EETS zgodne ze stanem faktycznym dane, w tym dane osobowe, niezbędne do prawidłowego zawarcia i realizacji umowy dotyczącej świadczenia usługi EETS.
 
 2. Dane przekazywane dostawcy EETS obejmują w szczególności dane pojazdu niezbędne dla ustalenia wysokości stawek opłaty należnej za przejazd tego pojazdu po obszarze EETS.
 
@@ -603,7 +632,11 @@ source: pdf
 - **1)** informacji o planowanym terminie wdrożenia istotnej zmiany elektronicznego systemu poboru opłat;
 - **2)** szczegółowego harmonogramu przeprowadzenia procedury akredytacyjnej.
 
-10. W przypadku, o którym mowa w ust. 9, przepisy ust. 6–8 stosuje się odpowiednio. Art. 16xb. 1. Podmioty pobierające opłaty na obszarach EETS stosujące systemy elektronicznego poboru opłat, w których wykorzystuje się urządzenia na potrzeby poboru opłat w rozumieniu art. 13i ust. 3 , zapewniają, z zachowaniem zasady niedyskryminacji, środowisko testowe, w którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, w drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują w technologii stosowanej na obszarach EETS.
+10. W przypadku, o którym mowa w ust. 9, przepisy ust. 6–8 stosuje się odpowiednio.
+
+**Art. 16xb.**
+
+1. Podmioty pobierające opłaty na obszarach EETS stosujące systemy elektronicznego poboru opłat, w których wykorzystuje się urządzenia na potrzeby poboru opłat w rozumieniu art. 13i ust. 3 , zapewniają, z zachowaniem zasady niedyskryminacji, środowisko testowe, w którym dostawcy EETS mogą przeprowadzić testy akceptacyjne umożliwiające weryfikację, czy dane urządzenie może być wykorzystywane do świadczenia usługi EETS na obszarze EETS. Podmioty pobierające opłaty na obszarach EETS mogą, w drodze umowy, ustanowić środowisko testowe dla więcej niż jednego obszaru EETS. Środowisko testowe testuje jedynie te urządzenia, które pracują w technologii stosowanej na obszarach EETS.
 
 2. Podmiot pobierający opłaty na obszarze EETS udostępnia w informacji o obszarze EETS procedurę przeprowadzenia testów akceptacyjnych, w tym opis stosowanej metodyki i warunków przeprowadzania testów.
 
@@ -684,7 +717,10 @@ source: pdf
 2. Obowiązek, o którym mowa w ust. 1, trwa również po:
 
 - **1)** zaprzestaniu pełnienia funkcji członka Komisji;
-- **2)** ustaniu stosunku pracy nawiązanego albo wygaśnięciu umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze zawartych z osobami zatrudnionymi odpowiednio u dostawcy EETS, w podmiocie pobierającym opłaty na obszarze EETS albo w urzędzie obsługującym ministra właściwego do spraw transportu. Art. 16zi. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520.”;
+- **2)** ustaniu stosunku pracy nawiązanego albo wygaśnięciu umowy o dzieło, umowy zlecenia albo innej umowy o podobnym charakterze zawartych z osobami zatrudnionymi odpowiednio u dostawcy EETS, w podmiocie pobierającym opłaty na obszarze EETS albo w urzędzie obsługującym ministra właściwego do spraw transportu.
+
+**Art. 16zi.** Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz aktów wykonawczych wydanych przez Komisję Europejską na podstawie dyrektywy 2019/520.”;
+
 - **39)** w art. 39 ust. 1a skreśla się wyrazy „(Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501)”;
 - **40)** w art. 40a w ust. 1c wyrazy „art. 13k ust. 1–2d” zastępuje się wyrazami „art. 13k ust. 1–2f”;
 - **41)** w art. 40d wyrazy „art. 13k ust. 1–2d” zastępuje się wyrazami „art. 13k ust. 1–2f”.

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
+# Ustawa z dnia 7 czerwca 2018 r. o zmianie ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego
 
 *USTAWA z dnia 7 czerwca 2018 r.*
 

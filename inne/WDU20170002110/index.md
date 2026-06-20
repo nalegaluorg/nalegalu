@@ -145,7 +145,11 @@ o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków p
 
 10. Od dnia udostępnienia w Biuletynie Informacji Publicznej Agencji rekomendacji, o której mowa w ust. 5 lub 6, minister oraz jednostka samorządu terytorialnego uwzględniają zawarte w niej zalecenia w planowanych programach polityki zdrowotnej.
 
-11. Podmiot, który opracował projekt programu polityki zdrowotnej uwzględniający rekomendację, o której mowa w ust. 5 lub 6, przed rozpoczęciem wdrożenia, realizacji i finansowania programu polityki zdrowotnej, przesyła do Agencji oświadczenie o zgodności projektu programu polityki zdrowotnej z tą rekomendacją. Art. 48ab. 1. W przypadku braku możliwości finansowania lub ograniczenia środków finansowych na realizację programu polityki zdrowotnej podmiot, który go opracował, wdrożył, realizuje i finansuje, może zawiesić, w całości lub w części, realizację i finansowanie tego programu, jednak nie dłużej niż na okres 2 lat. Realizację i finansowanie programu polityki zdrowotnej wznawia się po ustaniu przyczyny zawieszenia jego realizacji.
+11. Podmiot, który opracował projekt programu polityki zdrowotnej uwzględniający rekomendację, o której mowa w ust. 5 lub 6, przed rozpoczęciem wdrożenia, realizacji i finansowania programu polityki zdrowotnej, przesyła do Agencji oświadczenie o zgodności projektu programu polityki zdrowotnej z tą rekomendacją.
+
+**Art. 48ab.**
+
+1. W przypadku braku możliwości finansowania lub ograniczenia środków finansowych na realizację programu polityki zdrowotnej podmiot, który go opracował, wdrożył, realizuje i finansuje, może zawiesić, w całości lub w części, realizację i finansowanie tego programu, jednak nie dłużej niż na okres 2 lat. Realizację i finansowanie programu polityki zdrowotnej wznawia się po ustaniu przyczyny zawieszenia jego realizacji.
 
 2. W przypadku wznowienia realizacji programu polityki zdrowotnej w niezmienionej formie nie podlega on przekazaniu do Agencji w celu wydania opinii przez Prezesa Agencji, o której mowa w art. 48a ust. 4.
 

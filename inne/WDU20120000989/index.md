@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach mieszkaniowych
+# Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o spółdzielniach mieszkaniowych
 
 *USTAWA z dnia 27 lipca 2012 r.*
 

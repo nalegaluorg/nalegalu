@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
+# Ustawa z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
 
 *USTAWA z dnia 21 czerwca 1996 r.*
 
@@ -215,7 +215,9 @@ source: pdf
 
 **Art. 11h.** W Biurze mogą zostać zatrudnieni pracownicy, których wiedza i doświadczenie mogą przyczynić się do realizacji zadań Biura.
 
-**Art. 11i.** W okresie oddelegowania do Biura inspektorzy Biura oraz eksperci Biura podlegają Inspektorowi Nadzoru Wewnętrznego. Art. 11ia. Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
+**Art. 11i.** W okresie oddelegowania do Biura inspektorzy Biura oraz eksperci Biura podlegają Inspektorowi Nadzoru Wewnętrznego.
+
+**Art. 11ia.** Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
 
 - **1)** w sprawach osobowych inspektorów Biura i ekspertów Biura oraz pracowników zatrudnionych w Biurze;
 - **2)** w sprawach osobowych byłych inspektorów Biura i ekspertów Biura oraz byłych pracowników Biura;
@@ -599,15 +601,41 @@ source: pdf
 
 6. Minister właściwy do spraw wewnętrznych, z zachowaniem przepisów o ochronie informacji niejawnych, określi, w drodze zarządzenia, sposób tworzenia i gospodarowania funduszem operacyjnym, mając na uwadze zapewnienie efektywnego i celowego wydatkowania środków z tego funduszu.
 
-7. Jeżeli w czasie korzystania i w związku z korzystaniem przez Biuro z pomocy osób, o których mowa w ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu albo szkodę w mieniu, odszkodowanie przysługuje w sposób i w trybie określonych w przepisach wykonawczych wydanych na podstawie art. 22 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji. Art. 11za. Inspektor Biura i ekspert Biura podczas lub w związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych. Art. 11zb. Inspektor Biura i ekspert Biura nie mogą podejmować dodatkowego zajęcia zarobkowego. Art. 11zc. Inspektor Biura i ekspert Biura składają oświadczenie o swoim stanie majątkowym Inspektorowi Nadzoru Wewnętrznego na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840). Art. 11zd. Inspektor Biura i ekspert Biura są obowiązani poinformować Inspektora Nadzoru Wewnętrznego o podjęciu przez małżonka lub osoby pozostające z nim we wspólnym gospodarstwie domowym zatrudnienia lub innych czynności zarobkowych w podmiotach świadczących usługi detektywistyczne lub ochrony osób i mienia oraz o objęciu w nich akcji lub udziałów, a także o fakcie bycia wykonawcą w rozumieniu ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) na rzecz organów i jednostek organizacyjnych nadzorowanych i podległych ministrowi właściwemu do spraw wewnętrznych, w terminie 14 dni od dnia powzięcia informacji o tym zdarzeniu. Art. 11ze. Przynależność inspektora Biura i eksperta Biura do organizacji lub stowarzyszeń krajowych, zagranicznych albo międzynarodowych wymaga pisemnej zgody Inspektora Nadzoru Wewnętrznego. Art. 11zf. Inspektor Biura i ekspert Biura są obowiązani powiadomić Inspektora Nadzoru Wewnętrznego o planowanym wyjeździe zagranicznym poza obszar Unii Europejskiej. Art. 11zg. 1. Inspektor Biura i ekspert Biura podlegają odpowiedzialności dyscyplinarnej na zasadach określonych dla funkcjonariusza służby, z której inspektor Biura lub ekspert Biura został oddelegowany do Biura, z tym że przełożonym dyscyplinarnym jest Inspektor Nadzoru Wewnętrznego. Przełożonym dyscyplinarnym Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego jest minister właściwy do spraw wewnętrznych.
+7. Jeżeli w czasie korzystania i w związku z korzystaniem przez Biuro z pomocy osób, o których mowa w ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu albo szkodę w mieniu, odszkodowanie przysługuje w sposób i w trybie określonych w przepisach wykonawczych wydanych na podstawie art. 22 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+**Art. 11za.** Inspektor Biura i ekspert Biura podczas lub w związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
+
+**Art. 11zb.** Inspektor Biura i ekspert Biura nie mogą podejmować dodatkowego zajęcia zarobkowego.
+
+**Art. 11zc.** Inspektor Biura i ekspert Biura składają oświadczenie o swoim stanie majątkowym Inspektorowi Nadzoru Wewnętrznego na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840).
+
+**Art. 11zd.** Inspektor Biura i ekspert Biura są obowiązani poinformować Inspektora Nadzoru Wewnętrznego o podjęciu przez małżonka lub osoby pozostające z nim we wspólnym gospodarstwie domowym zatrudnienia lub innych czynności zarobkowych w podmiotach świadczących usługi detektywistyczne lub ochrony osób i mienia oraz o objęciu w nich akcji lub udziałów, a także o fakcie bycia wykonawcą w rozumieniu ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) na rzecz organów i jednostek organizacyjnych nadzorowanych i podległych ministrowi właściwemu do spraw wewnętrznych, w terminie 14 dni od dnia powzięcia informacji o tym zdarzeniu.
+
+**Art. 11ze.** Przynależność inspektora Biura i eksperta Biura do organizacji lub stowarzyszeń krajowych, zagranicznych albo międzynarodowych wymaga pisemnej zgody Inspektora Nadzoru Wewnętrznego.
+
+**Art. 11zf.** Inspektor Biura i ekspert Biura są obowiązani powiadomić Inspektora Nadzoru Wewnętrznego o planowanym wyjeździe zagranicznym poza obszar Unii Europejskiej.
+
+**Art. 11zg.**
+
+1. Inspektor Biura i ekspert Biura podlegają odpowiedzialności dyscyplinarnej na zasadach określonych dla funkcjonariusza służby, z której inspektor Biura lub ekspert Biura został oddelegowany do Biura, z tym że przełożonym dyscyplinarnym jest Inspektor Nadzoru Wewnętrznego. Przełożonym dyscyplinarnym Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego jest minister właściwy do spraw wewnętrznych.
 
 2. Od orzeczenia dyscyplinarnego wydanego w pierwszej instancji odwołanie przysługuje do ministra właściwego do spraw wewnętrznych, a od orzeczeń wydanych w pierwszej instancji przez tego ministra służy wniosek o ponowne rozpatrzenie sprawy.
 
-3. Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne przysługuje prawo wniesienia skargi do sądu administracyjnego. Art. 11zh. Minister właściwy do spraw wewnętrznych wyznacza rzecznika dyscyplinarnego w stosunku do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego. Inspektor Nadzoru Wewnętrznego wyznacza rzecznika dyscyplinarnego w stosunku do oddelegowanych do Biura funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz komisję dyscyplinarną w stosunku do oddelegowanych do Biura strażaków Państwowej Straży Pożarnej spośród inspektorów Biura i ekspertów Biura. Art. 11zi. 1. Uprawnienia i obowiązki inspektorów Biura i ekspertów Biura określone w art. 11za–11zg stosuje się odpowiednio do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego.
+3. Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne przysługuje prawo wniesienia skargi do sądu administracyjnego.
+
+**Art. 11zh.** Minister właściwy do spraw wewnętrznych wyznacza rzecznika dyscyplinarnego w stosunku do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego. Inspektor Nadzoru Wewnętrznego wyznacza rzecznika dyscyplinarnego w stosunku do oddelegowanych do Biura funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz komisję dyscyplinarną w stosunku do oddelegowanych do Biura strażaków Państwowej Straży Pożarnej spośród inspektorów Biura i ekspertów Biura.
+
+**Art. 11zi.**
+
+1. Uprawnienia i obowiązki inspektorów Biura i ekspertów Biura określone w art. 11za–11zg stosuje się odpowiednio do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego.
 
 2. W zakresie rozpatrywania spraw dotyczących uprawnień i obowiązków Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego, o których mowa w ust. 1, decyzje podejmuje minister właściwy do spraw wewnętrznych.
 
-3. Oświadczenie o stanie majątkowym, o którym mowa w art. 11zc, Inspektor Nadzoru Wewnętrznego i zastępca Inspektora Nadzoru Wewnętrznego składają ministrowi właściwemu do spraw wewnętrznych. Art. 11zj. W sprawach wynikających ze stosunku służbowego Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego, jeżeli są oddelegowanymi funkcjonariuszami, uprawnienia przełożonego właściwego w sprawach osobowych wynikające z odrębnych przepisów przysługują ministrowi właściwemu do spraw wewnętrznych. Art. 11zk. W zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 6 kwietnia 1990 r. o Policji, ustawy z dnia 12 października 1990 r. o Straży Granicznej, ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej i ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
+3. Oświadczenie o stanie majątkowym, o którym mowa w art. 11zc, Inspektor Nadzoru Wewnętrznego i zastępca Inspektora Nadzoru Wewnętrznego składają ministrowi właściwemu do spraw wewnętrznych.
+
+**Art. 11zj.** W sprawach wynikających ze stosunku służbowego Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego, jeżeli są oddelegowanymi funkcjonariuszami, uprawnienia przełożonego właściwego w sprawach osobowych wynikające z odrębnych przepisów przysługują ministrowi właściwemu do spraw wewnętrznych.
+
+**Art. 11zk.** W zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 6 kwietnia 1990 r. o Policji, ustawy z dnia 12 października 1990 r. o Straży Granicznej, ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej i ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
 
 **Art. 12.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie – Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej.
 

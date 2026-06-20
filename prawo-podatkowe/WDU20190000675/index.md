@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo o miarach
+# Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Prawo o miarach
 
 *USTAWA z dnia 15 marca 2019 r.*
 

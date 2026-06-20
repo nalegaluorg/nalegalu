@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-18T10:15:01Z",
+  "generated_at": "2026-06-20T12:45:02Z",
   "acts": {
     "published": 19261,
     "rejected": 415,
     "total_in_db": 19455
   },
   "content": {
-    "total_body_chars": 587474999,
-    "total_articles": 208233,
-    "avg_body_chars": 30500,
-    "avg_articles": 10.8
+    "total_body_chars": 587723466,
+    "total_articles": 214266,
+    "avg_body_chars": 30513,
+    "avg_articles": 11.1
   },
   "sources": {
-    "pdf": 18986,
-    "eli-html": 246,
+    "pdf": 18989,
+    "eli-html": 243,
     "unknown": 29
   },
   "act_types": {
-    "Rozporządzenie": 10328,
-    "Ustawa": 4839,
+    "Rozporządzenie": 10326,
+    "Ustawa": 4841,
     "Obwieszczenie": 2324,
     "Orzeczenie": 1373,
     "Umowa międzynarodowa": 329,
@@ -34,10 +34,11 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11795,
-    "akt objęty tekstem jednolitym": 5062,
-    "akt posiada tekst jednolity": 1890,
-    "nieobowiązujący - uchylona podstawa prawna": 514
+    "obowiązujący": 11792,
+    "akt objęty tekstem jednolitym": 5064,
+    "akt posiada tekst jednolity": 1888,
+    "nieobowiązujący - uchylona podstawa prawna": 514,
+    "wygaśnięcie aktu": 3
   },
   "domains": {
     "inne": 18375,
@@ -59,11 +60,11 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 1292,
+    "quality_gate_blocked": 706,
     "original_pdf_for_unified_skipped": 4943,
-    "consolidated_article_coverage_checked": 636,
-    "consolidated_article_coverage_with_gaps": 448,
-    "consolidated_article_coverage_unexplained_gaps": 14526,
+    "consolidated_article_coverage_checked": 620,
+    "consolidated_article_coverage_with_gaps": 431,
+    "consolidated_article_coverage_unexplained_gaps": 14072,
     "rejected_scans": 1,
     "rejected_other": 414
   }

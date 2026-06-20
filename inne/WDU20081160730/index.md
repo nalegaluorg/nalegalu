@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o niektórych formach wspierania działalności innowacyjnej
+# Ustawa z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej
 
 *USTAWA z dnia 30 maja 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-07-02 |
 | Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/730/text.pdf) |
-
-Art. 22–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -80,8 +78,7 @@ Art. 22–28. (pominięte)
 - **2)** (uchylony)
 - **3)** (uchylony)
 - **4)** (uchylony)
-- **5)** beneficjentowi pomocy publicznej w przypadku, o którym mowa w art. 25 ust. 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz.
-- **807)** .
+- **5)** beneficjentowi pomocy publicznej w przypadku, o którym mowa w art. 25 ust. 3 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807).
 
 4. Kredyt technologiczny nie może być udzielany na zakup, leasing lub wynajem środka trwałego, w którym została wdrożona nowa technologia będąca przedmiotem inwestycji technologicznej finansowanej za pomocą kredytu technologicznego.
 
@@ -412,6 +409,8 @@ Art. 22–28. (pominięte)
 **Art. 21i.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe przeznaczenie oraz szczegółowe warunki udzielania pomocy finansowej, o której mowa w art. 21b, uwzględniając efektywne i skuteczne jej wykorzystanie oraz zapewnienie przejrzystości jej udzielania, a także cele programów ustanowionych zgodnie z art. 21a.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 22–28.** (pominięte)
 
 **Art. 29.** Środki pieniężne zgromadzone na rachunku bankowym Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy z dnia 29 lipca 2005 r. o niektórych formach wspierania działalności innowacyjnej stanowią środki pieniężne Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 

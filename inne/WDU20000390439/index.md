@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o adwokaturze
+# Ustawa z dnia 16 marca 2000 r. o zmianie ustawy - Prawo o adwokaturze.
 
 *USTAWA z dnia 16 marca 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacjach
+# Ustawa z dnia 6 kwietnia 1984 r. o fundacjach.
 
 *USTAWA z dnia 6 kwietnia 1984 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce komunalnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gospodarce komunalnej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 2) ustawą z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 marca 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 89, art. 90, art. 92–94 i art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
-Art. 24–27. (pominięte)
 
 **Art. 90.**
 
@@ -270,6 +269,8 @@ Art. 24–27. (pominięte)
 3. Spółka powstała w wyniku przekształcenia wstępuje we wszystkie prawa i obowiązki związane z działalnością samorządowego zakładu budżetowego.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących oraz przepisy końcowe
+
+**Art. 24–27.** (pominięte)
 
 **Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z tym że przepis art. 11 wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

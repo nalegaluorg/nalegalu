@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 4 grudnia 1997 r. zmieniająca ustawę o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 4 grudnia 1997 r.*
 

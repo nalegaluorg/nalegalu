@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawy o Funduszu Kolejowym oraz ustawy o podatku akcyzowym
+# Ustawa z dnia 23 października 2014 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawy o Funduszu Kolejowym oraz ustawy o podatku akcyzowym
 
 *USTAWA z dnia 23 października 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 maja 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach
 
 | Pole | Wartość |
 |---|---|

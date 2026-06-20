@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+# Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 czerwca 2004 r.*
 
@@ -100,9 +100,7 @@ source: pdf
 
 **Art. 46.** W sprawach nieunormowanych w artykułach poprzedzających od chwili ustania wspólności ustawowej do majątku, który był nią objęty, jak również do podziału tego majątku, stosuje się odpowiednio przepisy o wspólności majątku spadkowego i o dziale spadku.”;
 
-- **15)** w tytule I w dziale III rozdział II i III otrzymują brzmienie: „Rozdział II. Umowne ustroje majątkowe.
-
-##### Oddział 1. Przepisy ogólne.
+- **15)** w tytule I w dziale III rozdział II i III otrzymują brzmienie: „Rozdział II. Umowne ustroje majątkowe. Oddział 1. Przepisy ogólne.
 
 **Art. 47.**
 
@@ -110,9 +108,7 @@ source: pdf
 
 § 2. Umowa majątkowa małżeńska może być zmieniona albo rozwiązana. W razie jej rozwiązania w czasie trwania małżeństwa, powstaje między małżonkami wspólność ustawowa, chyba że strony postanowiły inaczej.
 
-**Art. 47¹.** Małżonek może powoływać się względem innych osób na umowę majątkową małżeńską, gdy jej zawarcie oraz rodzaj były tym osobom wiadome.
-
-##### Oddział 2. Wspólność majątkowa.
+**Art. 47¹.** Małżonek może powoływać się względem innych osób na umowę majątkową małżeńską, gdy jej zawarcie oraz rodzaj były tym osobom wiadome. Oddział 2. Wspólność majątkowa.
 
 **Art. 48.** Do ustanowionej umową wspólności majątkowej stosuje się odpowiednio przepisy o wspólności ustawowej, z zachowaniem przepisów niniejszego oddziału.
 
@@ -130,15 +126,11 @@ source: pdf
 
 **Art. 50.** Jeżeli wierzytelność powstała przed rozszerzeniem wspólności, wierzyciel, którego dłużnikiem jest tylko jeden małżonek, może żądać zaspokojenia także z tych przedmiotów majątkowych, które należałyby do majątku osobistego dłużnika, gdyby wspólność majątkowa nie została rozszerzona.
 
-**Art. 50¹.** W razie ustania wspólności, udziały małżonków są równe, chyba że umowa majątkowa małżeńska stanowi inaczej. Przepis ten nie wyłącza zastosowania art. 43 § 2 i 3.
-
-##### Oddział 3. Rozdzielność majątkowa.
+**Art. 50¹.** W razie ustania wspólności, udziały małżonków są równe, chyba że umowa majątkowa małżeńska stanowi inaczej. Przepis ten nie wyłącza zastosowania art. 43 § 2 i 3. Oddział 3. Rozdzielność majątkowa.
 
 **Art. 51.** W razie umownego ustanowienia rozdzielności majątkowej, każdy z małżonków zachowuje zarówno majątek nabyty przed zawarciem umowy, jak i majątek nabyty później.
 
-**Art. 51¹.** Każdy z małżonków zarządza samodzielnie swoim majątkiem.
-
-##### Oddział 4. Rozdzielność majątkowa z wyrównaniem dorobków.
+**Art. 51¹.** Każdy z małżonków zarządza samodzielnie swoim majątkiem. Oddział 4. Rozdzielność majątkowa z wyrównaniem dorobków.
 
 **Art. 51².** Do rozdzielności majątkowej z wyrównaniem dorobków stosuje się przepisy o rozdzielności majątkowej, z zachowaniem przepisów niniejszego oddziału.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę
+# Ustawa z dnia 13 marca 2026 r. o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę
 
 *USTAWA z dnia 13 marca 2026 r.*
 

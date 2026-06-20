@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rencie socjalnej
+# Ustawa z dnia 9 maja 2018 r. o zmianie ustawy o rencie socjalnej
 
 *USTAWA z dnia 9 maja 2018 r.*
 

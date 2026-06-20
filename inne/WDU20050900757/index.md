@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
+# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 kwietnia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
 
 *USTAWA z dnia 10 czerwca 2014 r.*
 

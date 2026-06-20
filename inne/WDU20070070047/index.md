@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Agencji Prasowej
+# Ustawa z dnia 6 grudnia 2006 r. o zmianie ustawy o Polskiej Agencji Prasowej
 
 *USTAWA z dnia 6 grudnia 2006 r.*
 

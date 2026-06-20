@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o związkach zawodowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 9 maja 1997 r. o zmianie ustawy o związkach zawodowych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 9 maja 1997 r.*
 

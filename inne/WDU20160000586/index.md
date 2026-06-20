@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach
+# Ustawa z dnia 13 kwietnia 2016 r. o zmianie ustawy o lasach
 
 *USTAWA z dnia 13 kwietnia 2016 r.*
 

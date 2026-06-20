@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o zmianie ustawy o zawodach lekarza i lekarza dentysty
+# Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o zmianie ustawy o zawodach lekarza i lekarza dentysty
 
 *USTAWA z dnia 20 lutego 2009 r.*
 

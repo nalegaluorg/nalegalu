@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o recyklingu pojazdów wycofanych z eksploatacji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o recyklingu pojazdów wycofanych z eksploatacji
 
 *USTAWA z dnia 20 stycznia 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1610/text.pdf) |
-
-Art. 54–59. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -152,7 +150,9 @@ Art. 54–59. (pominięte)
 
 3. Wprowadzający pojazd jest obowiązany do nieodpłatnego przekazania przedsiębiorcy prowadzącemu stację demontażu informacji, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia przez tego przedsiębiorcę wniosku o udzielenie informacji.
 
-4. Producenci oraz dokonujący wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów są obowiązani do nieodpłatnego udostępnienia wprowadzającemu pojazd oraz przedsiębiorcy prowadzącemu stację demontażu informacji dotyczącej sposobu demontażu, magazynowania i testowania przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia, w terminie 30 dni od dnia złożenia przez wprowadzającego pojazd lub przedsiębiorcę prowadzącego stację demontażu wniosku o udzielenie informacji. [Art. 10. Przepisy art. 6–9 dotyczą wprowadzających pojazdy wydających kartę pojazdu, o której mowa w art. 77 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.] <Art. 10. Przepisy art. 6–9 dotyczą nowych pojazdów.>
+4. Producenci oraz dokonujący wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów są obowiązani do nieodpłatnego udostępnienia wprowadzającemu pojazd oraz przedsiębiorcy prowadzącemu stację demontażu informacji dotyczącej sposobu demontażu, magazynowania i testowania przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia, w terminie 30 dni od dnia złożenia przez wprowadzającego pojazd lub przedsiębiorcę prowadzącego stację demontażu wniosku o udzielenie informacji.
+
+**Art. 10.** Przepisy art. 6–9 dotyczą nowych pojazdów.
 
 **Art. 11.**
 
@@ -231,7 +231,7 @@ Art. 54–59. (pominięte)
 
 - **1)** dowód osobisty lub inny dokument potwierdzający tożsamość;
 - **2)** dowód rejestracyjny pojazdu [oraz kartę pojazdu, jeżeli była wydana], lub inny dokument potwierdzający dane zawarte w dowodzie rejestracyjnym;
-- **3)** dokument potwierdzający własność w przypadku właściciela pojazdu innego niż wpisany w dowodzie rejestracyjnym. [Art. 20. Właściciel pojazdu wycofanego z eksploatacji jest obowiązany w terminie 30 dni od dnia otrzymania zaświadczenia o demontażu pojazdu lub zaświadczenia o przyjęciu niekompletnego pojazdu złożyć wniosek o wyrejestrowanie pojazdu.]
+- **3)** dokument potwierdzający własność w przypadku właściciela pojazdu innego niż wpisany w dowodzie rejestracyjnym.
 
 #### Rozdział 4 Obowiązki przedsiębiorców prowadzących stacje demontażu
 
@@ -276,10 +276,9 @@ Art. 54–59. (pominięte)
 
 2. Przedsiębiorca prowadzący stację demontażu za przyjęcie będących odpadami części samochodów osobowych usuniętych w trakcie naprawy może pobrać opłatę.
 
-**Art. 24.**
+**Art. 24.** 1. Przedsiębiorca prowadzący stację demontażu, przyjmując pojazd wycofany z eksploatacji, który posiada wszystkie istotne elementy określone w przepisach wydanych na podstawie art. 23 ust. 9, jest obowiązany do: [1) unieważnienia dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych;]
 
-1. Przedsiębiorca prowadzący stację demontażu, przyjmując pojazd wycofany z eksploatacji, który posiada wszystkie istotne elementy określone w przepisach wydanych na podstawie art. 23 ust. 9, jest obowiązany do: [1) unieważnienia dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych;] <1) unieważnienia dowodu rejestracyjnego i zwrotu unieważnionego dowodu rejestracyjnego właścicielowi pojazdu;>
-
+- **1)** unieważnienia dowodu rejestracyjnego i zwrotu unieważnionego dowodu rejestracyjnego właścicielowi pojazdu;
 - **2)** wydania zaświadczenia o demontażu pojazdu.
 
 1a. Obowiązek, o którym mowa w [ust. 1, w zakresie tablic rejestracyjnych] <ust. 1b>, nie dotyczy pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. <1b. Przedsiębiorca prowadzący stację demontażu dokonuje zniszczenia tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowuje je zgodnie z przepisami o odpadach.> [2. Zaświadczenie o demontażu pojazdu powinno zawierać oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych.] <2. Zaświadczenie o demontażu pojazdu zawiera oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego oraz o zniszczeniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowaniu ich zgodnie z przepisami o odpadach.> [3. Zaświadczenie o demontażu pojazdu jest sporządzane w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi jest przekazywany przez przedsiębiorcę prowadzącego stację demontażu w terminie 7 dni organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu, z zastrzeżeniem ust. 5.] <3. Przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w dwóch egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, a drugi pozostaje u przedsiębiorcy prowadzącego stację demontażu. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu.> [4. Przedsiębiorca prowadzący stację demontażu, który otrzymuje zaświadczenia o demontażu pojazdu od przedsiębiorcy prowadzącego punkt zbierania pojazdów, o którym mowa w art. 33 ust. 3, przekazuje jeden egzemplarz zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a drugi pozostawia u siebie.
@@ -380,7 +379,7 @@ Art. 54–59. (pominięte)
 
 2. Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23–25, z zastrzeżeniem [ust. 3] <ust. 3–5>. [3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi i trzeci są przekazywane w terminie 7 dni do przedsiębiorcy prowadzącego stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.] <3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a trzeci pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, dwa przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.> <4. Przedsiębiorca prowadzący punkt zbierania pojazdów przekazuje przedsiębiorcy prowadzącemu stację demontażu wraz z zaświadczeniami, o których mowa w ust. 3, tablice rejestracyjne przyjętego pojazdu wycofanego z eksploatacji.
 
-5. Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.>
+5. Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.
 
 **Art. 34.** Przedsiębiorca prowadzący punkt zbierania pojazdów może wydawać zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu, wyłącznie w imieniu przedsiębiorcy prowadzącego stację demontażu, jeżeli spełnia łącznie następujące warunki:
 
@@ -572,6 +571,8 @@ Art. 54–59. (pominięte)
 5. W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 54–59.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

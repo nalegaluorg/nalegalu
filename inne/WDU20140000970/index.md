@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kierujących pojazdami
+# Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy o kierujących pojazdami
 
 *USTAWA z dnia 26 czerwca 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie zagranicznej oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o służbie zagranicznej oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 

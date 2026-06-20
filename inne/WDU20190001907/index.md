@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2019, ustawy o zakładowym funduszu świadczeń socjalnych oraz ustawy o Karcie Dużej Rodziny
+# Ustawa z dnia 11 września 2019 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2019, ustawy o zakładowym funduszu świadczeń socjalnych oraz ustawy o Karcie Dużej Rodziny
 
 *USTAWA z dnia 11 września 2019 r.*
 

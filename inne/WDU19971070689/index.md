@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatkach i opłatach lokalnych
+# Ustawa z dnia 1 sierpnia 1997 r. o zmianie ustawy o podatkach i opłatach lokalnych.
 
 *USTAWA z dnia 1 sierpnia 1997 r.*
 

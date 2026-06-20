@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego
+# Ustawa z dnia 12 marca 1958 r. o sprzedaży państwowych nieruchomości rolnych oraz uporządkowaniu niektórych spraw, związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego.
 
 *USTAWA z dnia 12 marca 1958 r.*
 

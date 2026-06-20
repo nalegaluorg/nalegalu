@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zagospodarowaniu wspólnot gruntowych
+# Ustawa z dnia 29 czerwca 1963 r. o zagospodarowaniu wspólnot gruntowych.
 
 *USTAWA z dnia 29 czerwca 1963 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
 
 *USTAWA z dnia 15 stycznia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-03-10 |
 | Ostatnia zmiana | 2026-03-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000465) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/465/text.pdf) |
-
-Art. 73–76. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1117,6 +1115,8 @@ Art. 73–76. (pominięte)
 **Art. 72.** Nie można nałożyć kary pieniężnej, jeżeli od dnia popełnienia czynu, o którym mowa w art. 69 ust. 1 i 4, upłynęło 5 lat.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
+
+**Art. 73–76.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

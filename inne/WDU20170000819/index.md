@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
+# Ustawa z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
 
 *USTAWA z dnia 23 marca 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-04-21 |
 | Ostatnia zmiana | 2025-06-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/819/text.pdf) |
-
-Art. 79–83. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1084,6 +1082,8 @@ Art. 79–83. (pominięte)
 **Art. 78.** Kto, wbrew przepisom art. 7 ust. 6, art. 9 ust. 1–3, 5 i 6, art. 10 ust. 1 pkt 13 i ust. 2 oraz art. 18 pkt 3 i 5, prowadzi działalność polegającą na świadczeniu usług dodatkowych, podlega grzywnie do 50 000 zł albo karze pozbawienia wolności do lat 2.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 79–83.** (pominięte)
 
 #### Rozdział 13 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

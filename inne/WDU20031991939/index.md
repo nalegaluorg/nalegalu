@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Biurze Ochrony Rządu i niektórych innych ustaw
+# Ustawa z dnia 17 października 2003 r. o zmianie ustawy o Biurze Ochrony Rządu i niektórych innych ustaw
 
 *USTAWA z dnia 17 października 2003 r.*
 

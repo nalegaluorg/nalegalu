@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach socjalnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o spółdzielniach socjalnych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 7 maja 2009 r.*
 

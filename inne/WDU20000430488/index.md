@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2000 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz niektórych innych ustaw.
 
 *USTAWA z dnia 28 kwietnia 2000 r.*
 

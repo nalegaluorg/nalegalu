@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców
+# Ustawa z dnia 5 kwietnia 2013 r. o zmianie ustawy o transporcie drogowym oraz ustawy o czasie pracy kierowców
 
 *USTAWA z dnia 5 kwietnia 2013 r.*
 

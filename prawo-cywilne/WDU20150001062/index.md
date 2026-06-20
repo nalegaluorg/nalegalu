@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks rodzinny i opiekuńczy oraz ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 25 czerwca 2015 r.*
 

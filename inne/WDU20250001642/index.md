@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne
 
 | Pole | Wartość |
 |---|---|

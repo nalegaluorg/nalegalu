@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej
+# Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o żegludze śródlądowej
 
 *USTAWA z dnia 11 maja 2007 r.*
 

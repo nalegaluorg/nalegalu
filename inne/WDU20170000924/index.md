@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zatrudnianiu osób pozbawionych wolności
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o zatrudnianiu osób pozbawionych wolności
 
 *USTAWA z dnia 23 marca 2017 r.*
 

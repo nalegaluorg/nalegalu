@@ -102,7 +102,13 @@ source: pdf
 
 #### Rozdział 2 Tworzenie stowarzyszeń
 
-**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia. <Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do zakładania:
+**Art. 9.** Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, uchwalają statut stowarzyszenia oraz wybierają komitet założycielski albo władze stowarzyszenia.
+
+**Art. 9a.**
+
+1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia.
+
+2. Przepisu ust. 1 nie stosuje się do zakładania:
 
 - **1)** stowarzyszeń, w których co najmniej jeden z założycieli jest cudzoziemcem;
 - **2)** stowarzyszeń międzynarodowych;
@@ -134,7 +140,7 @@ source: pdf
 
 9. Czynności, o których mowa w ust. 5 i 8, są wykonywane w systemie teleinformatycznym za pośrednictwem konta, o którym mowa w art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ).
 
-10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec statutu stowarzyszenia oraz wzorce uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania stowarzyszeń, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu prawnego.>
+10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec statutu stowarzyszenia oraz wzorce uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania stowarzyszeń, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu prawnego.
 
 **Art. 10.**
 
@@ -215,9 +221,11 @@ source: pdf
 
 3. Stowarzyszenie jest obowiązane posiadać zarząd i organ kontroli wewnętrznej.
 
-4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów). [Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli, protokołem z wyboru władz stowarzyszenia oraz adresem siedziby stowarzyszenia.
+4. W umowach między stowarzyszeniem a członkiem zarządu oraz w sporach z nim stowarzyszenie reprezentuje członek organu kontroli wewnętrznej wskazany w uchwale tego organu lub pełnomocnik powołany uchwałą walnego zebrania członków (zebrania delegatów).
 
-2. Wniosek, o którym mowa w ust. 1, podpisują wszyscy członkowie zarządu.] <Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
+**Art. 12.**
+
+1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
 
 2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym:
 
@@ -227,7 +235,7 @@ source: pdf
 
 3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu.
 
-4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.>
+4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.
 
 **Art. 13.** (uchylony)
 
@@ -538,7 +546,9 @@ source: pdf
 
 **Art. 45.** Osoby pragnące założyć stowarzyszenie prowadzące działalność bezpośrednio związaną z obronnością albo bezpieczeństwem państwa lub ochroną porządku publicznego są obowiązane uzgodnić zakres tej działalności, odpowiednio, z Ministrem Obrony Narodowej lub ministrem właściwym do spraw wewnętrznych albo organami przez nich określonymi.
 
-**Art. 46.** (uchylony) Art. 47–50. (pominięte)
+**Art. 46.** (uchylony)
+
+**Art. 47–50.** (pominięte)
 
 **Art. 51.**
 

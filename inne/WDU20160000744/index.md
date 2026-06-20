@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki
+# Ustawa z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki
 
 *USTAWA z dnia 1 kwietnia 2016 r.*
 

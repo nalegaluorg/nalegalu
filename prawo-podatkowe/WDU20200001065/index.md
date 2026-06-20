@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw
+# Ustawa z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 czerwca 2020 r.*
 
@@ -207,8 +207,8 @@ source: pdf
 
 4. Przepisy:
 
-- **1)** art. 5a pkt 24, art. 22a ust. 2 pkt 4, art. 30ca ust. 8 i art. 44 ust. 17 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
-- **2)** art. 15cb ust. 10, art. 16a ust. 2 pkt 4 i art. 24d ust. 7 i 8 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, [3) art. 4 ust. 1 pkt 1, art. 12 ust. 1 pkt 2 lit. f, h, l oraz m i pkt 3 lit. c–e ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą] <3) art. 4 ust. 1 pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą > – mają zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2021 r.
+- **1)** art. 5a pkt 24, art. 22a ust. 2 pkt 4, art. 30ca ust. 8 i art. 44 ust. 17 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, 2) art. 15cb ust. 10, art. 16a ust. 2 pkt 4 i art. 24d ust. 7 i 8 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, [3) art. 4 ust. 1 pkt 1, art. 12 ust. 1 pkt 2 lit. f, h, l oraz m i pkt 3 lit. c–e ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą]
+- **3)** art. 4 ust. 1 pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą – mają zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2021 r.
 
 5. Przepisy:
 

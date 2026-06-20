@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
+# Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 
 *USTAWA z dnia 19 listopada 2009 r.*
 

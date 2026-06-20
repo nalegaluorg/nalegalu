@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo celne oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy - Prawo celne oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2021 r.*
 
@@ -101,7 +101,9 @@ source: pdf
 
 3. Zwrotu opłaty paliwowej dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu i Funduszowi Kolejowemu w proporcji ustalonej zgodnie z art. 37i ust. 1.
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór wniosku o zwrot opłaty paliwowej, o którym mowa w ust. 1 pkt 2, uwzględniając konieczność prawidłowego określania kwot zwracanej opłaty paliwowej. Art. 37ob. Bank Gospodarstwa Krajowego przekazuje środki w celu dokonania zwrotu nadpłaty, o którym mowa w art. 37o ust. 2, lub zwrotu opłaty paliwowej, o którym mowa w art. 37oa ust. 1, na wniosek organu określonego w przepisach wydanych na podstawie art. 14 ust. 11 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w terminie 7 dni od dnia złożenia wniosku, na rachunek bankowy wskazany przez ten organ.”;
+4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór wniosku o zwrot opłaty paliwowej, o którym mowa w ust. 1 pkt 2, uwzględniając konieczność prawidłowego określania kwot zwracanej opłaty paliwowej.
+
+**Art. 37ob.** Bank Gospodarstwa Krajowego przekazuje środki w celu dokonania zwrotu nadpłaty, o którym mowa w art. 37o ust. 2, lub zwrotu opłaty paliwowej, o którym mowa w art. 37oa ust. 1, na wniosek organu określonego w przepisach wydanych na podstawie art. 14 ust. 11 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w terminie 7 dni od dnia złożenia wniosku, na rachunek bankowy wskazany przez ten organ.”;
 
 - **5)** w art. 37p w ust. 2 wyrazy „w art. 37o ust. 2” zastępuje się wyrazami „w art. 37ob”;
 - **6)** art. 37q otrzymuje brzmienie: „Art. 37q. 1. W zakresie nieuregulowanym w ustawie do opłaty paliwowej stosuje się odpowiednio przepisy:

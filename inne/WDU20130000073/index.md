@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody oraz ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o ochronie przyrody oraz ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 *USTAWA z dnia 7 grudnia 2012 r.*
 

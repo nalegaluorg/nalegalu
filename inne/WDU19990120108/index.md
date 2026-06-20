@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad powoływania komisji konkursowych i regulaminu konkursów na stanowisko komendanta wojewódzkiego oraz komendanta powiatowego (miejskiego) Policji.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 lutego 1999 r. w sprawie szczegółowych zasad powoływania komisji konkursowych i regulaminu konkursów na stanowisko komendanta wojewódzkiego oraz komendanta powiatowego (miejskiego) Policji.
 
 | Pole | Wartość |
 |---|---|

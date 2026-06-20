@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej
+# Ustawa z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
 
 *USTAWA z dnia 21 marca 1991 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1991-04-18 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910320131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.pdf) |
-
-Art. 61–65. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1081,7 +1079,11 @@ Art. 61–65. (pominięte)
 
 1. Podmiot prowadzący na polskich obszarach morskich pomiary hydrograficzne niezwłocznie przekazuje nieodpłatnie służbie hydrograficznej kopię uzyskanych danych pomiarowych.
 
-2. Minister właściwy do spraw gospodarki morskiej w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, warunki i sposób przekazywania służbie hydrograficznej kopii danych pomiarowych, mając na względzie konieczność zapewnienia aktualności i interoperacyjności danych, w celu zapewnienia ochrony środowiska oraz bezpieczeństwa żeglugi na polskich obszarach morskich. <Art. 41ca. 1. Biuro Hydrograficzne Marynarki Wojennej prowadzi, w postaci elektronicznej, rejestr zatopionych materiałów niebezpiecznych, w którym są gromadzone dane i informacje o zatopionych materiałach niebezpiecznych określonych w art. 32b, w tym:
+2. Minister właściwy do spraw gospodarki morskiej w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, warunki i sposób przekazywania służbie hydrograficznej kopii danych pomiarowych, mając na względzie konieczność zapewnienia aktualności i interoperacyjności danych, w celu zapewnienia ochrony środowiska oraz bezpieczeństwa żeglugi na polskich obszarach morskich.
+
+**Art. 41ca.**
+
+1. Biuro Hydrograficzne Marynarki Wojennej prowadzi, w postaci elektronicznej, rejestr zatopionych materiałów niebezpiecznych, w którym są gromadzone dane i informacje o zatopionych materiałach niebezpiecznych określonych w art. 32b, w tym:
 
 - **1)** rodzaj, ilość oraz wielkość zatopionego materiału niebezpiecznego;
 - **2)** informacja dotycząca stanu zatopionego materiału niebezpiecznego;
@@ -1120,7 +1122,7 @@ Art. 61–65. (pominięte)
 
 9. W przypadku, o którym mowa w ust. 8, Szef Biura Hydrograficznego Marynarki Wojennej może odstąpić od sporządzenia uzasadnienia faktycznego decyzji o odmowie udostępnienia danych lub informacji zawartych w rejestrze zatopionych materiałów niebezpiecznych.
 
-10. Podmiot, któremu udostępniono dane lub informacje z rejestru zatopionych materiałów niebezpiecznych, nie może ich przekazywać lub upubliczniać bez uzyskania uprzedniej pisemnej zgody Szefa Biura Hydrograficznego Marynarki Wojennej.>
+10. Podmiot, któremu udostępniono dane lub informacje z rejestru zatopionych materiałów niebezpiecznych, nie może ich przekazywać lub upubliczniać bez uzyskania uprzedniej pisemnej zgody Szefa Biura Hydrograficznego Marynarki Wojennej.
 
 **Art. 41d.** Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, szczegółowy zakres i sposób realizacji zadań służby hydrograficznej, kierując się koniecznością zapewnienia bezpieczeństwa żeglugi i obiektów lokalizowanych na obszarach morskich oraz rozpowszechniania informacji o niebezpieczeństwach występujących na polskich obszarach morskich.
 
@@ -1255,7 +1257,11 @@ Art. 61–65. (pominięte)
 
 4. W przypadku stwierdzenia naruszenia prawa przez przewoźnika lub operatora terminalu, w rozumieniu rozporządzenia nr 1177/2010, dyrektor urzędu morskiego określa, w drodze decyzji administracyjnej, zakres stwierdzonych nieprawidłowości oraz wyznacza termin ich usunięcia.
 
-5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, dyrektora urzędu morskiego właściwego do rozpatrywania skarg, o których mowa w art. 25 ust. 3 rozporządzenia nr 1177/2010, biorąc pod uwagę natężenie ruchu pasażerskiego w portach i przystaniach morskich. Art. 43aa. 1. Dyrektor urzędu morskiego właściwy ze względu na położenie portu rozpatruje skargi dotyczące naruszenia przepisów rozporządzenia nr 2017/352 zgodnie z art. 16 tego rozporządzenia.
+5. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, dyrektora urzędu morskiego właściwego do rozpatrywania skarg, o których mowa w art. 25 ust. 3 rozporządzenia nr 1177/2010, biorąc pod uwagę natężenie ruchu pasażerskiego w portach i przystaniach morskich.
+
+**Art. 43aa.**
+
+1. Dyrektor urzędu morskiego właściwy ze względu na położenie portu rozpatruje skargi dotyczące naruszenia przepisów rozporządzenia nr 2017/352 zgodnie z art. 16 tego rozporządzenia.
 
 2. Do skargi, o której mowa w ust. 1, dołącza się informacje i dokumenty potwierdzające naruszenie przepisów rozporządzenia nr 2017/352.
 
@@ -1513,8 +1519,8 @@ Art. 61–65. (pominięte)
 - **16)** wykracza przeciwko obowiązkowi przedstawiania statku do pomiaru,
 - **17)** wykracza przeciwko obowiązkowi zgłoszenia statku lub okoliczności podlegającej wpisowi do rejestru okrętowego albo do rejestracji w urzędzie morskim, 17a) utrudnia lub uniemożliwia przeprowadzenie inspekcji, o której mowa w art. 50 ust. 1,
 - **18)** wykracza przeciwko obowiązkowi umieszczania na statku oznaczenia nazwy, portu macierzystego i numeru identyfikacyjnego statku,
-- **19)** nurkuje na wraku bez wymaganego pozwolenia na nurkowanie na wraku lub nie stosuje się do warunków określonych w tym pozwoleniu, 19a) uprawia żeglugę z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności za roszczenia morskie, o którym mowa w art. 102c Kodeksu morskiego, 19b) nie stosuje się do zakazu określonego w art. 35a ust. 10,
-- **20)** podejmuje się przewozu pasażerów z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 182 § 3 lub art. 182a § 2 Kodeksu morskiego, <20a) przekazuje lub upublicznia udostępnione dane lub informacje z rejestru zatopionych materiałów niebezpiecznych bez uzyskania uprzedniej pisemnej zgody Szefa Biura Hydrograficznego Marynarki Wojennej, o której mowa w art. 41ca ust. 10> – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+- **19)** nurkuje na wraku bez wymaganego pozwolenia na nurkowanie na wraku lub nie stosuje się do warunków określonych w tym pozwoleniu, 19a) uprawia żeglugę z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności za roszczenia morskie, o którym mowa w art. 102c Kodeksu morskiego, 19b) nie stosuje się do zakazu określonego w art. 35a ust. 10, 20) podejmuje się przewozu pasażerów z naruszeniem obowiązku posiadania dokumentu ubezpieczenia odpowiedzialności cywilnej, o którym mowa w art. 182 § 3 lub art. 182a § 2 Kodeksu morskiego,
+- **20a)** przekazuje lub upublicznia udostępnione dane lub informacje z rejestru zatopionych materiałów niebezpiecznych bez uzyskania uprzedniej pisemnej zgody Szefa Biura Hydrograficznego Marynarki Wojennej, o której mowa w art. 41ca ust. 10 – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
 **Art. 56a.**
 
@@ -1594,7 +1600,10 @@ Art. 61–65. (pominięte)
 - **1)** zaśmieca lub zanieczyszcza teren,
 - **2)** bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, rozpala ognisko na plaży,
 - **3)** nie będąc uprawnionym do wjazdu albo bez zgody właściwego terytorialnie dyrektora urzędu morskiego, o której mowa w art. 37 ust. 1, używa pojazdu silnikowego lub zaprzęgowego lub motoroweru,
-- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny. Art. 60ca. Kto na obszarach określonych w art. 60a lub art. 60b:
+- **4)** jako osoba nieupoważniona przebywa na terenach (ogrodzonych lub oznakowanych) objętych pracami hydrotechnicznymi lub pomiarowymi, zagrożonych erozją, pożarem i innymi zdarzeniami, w szczególności skażeniami, zanieczyszczeniami lub obecnością niebezpiecznych przedmiotów – podlega karze grzywny.
+
+**Art. 60ca.** Kto na obszarach określonych w art. 60a lub art. 60b:
+
 - **1)** wbrew przepisom art. 51 § 1 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309) uprawia żeglugę jachtem, nie posiadając na nim karty bezpieczeństwa wydanej na podstawie art. 23 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim,
 - **2)** uprawia żeglugę jachtem nieoznaczonym zgodnie z przepisami art. 12 § 1 i § 2a ustawy z dnia 18 września 2001 r. – Kodeks morski albo art. 21 ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2024 r. poz. 395 i 731) oraz przepisami wydanymi na podstawie art. 21 ust. 3 tej ustawy,
 - **3)** narusza przepisy wydane na podstawie art. 3 ust. 2, art. 3b ust. 1 oraz art. 48 ust. 1 w ten sposób, że uprawia żeglugę na akwenach zamkniętych dla ruchu jednostek sportowo-rekreacyjnych albo bez wymaganej zgody – podlega karze grzywny.
@@ -1606,6 +1615,8 @@ Art. 61–65. (pominięte)
 2. Pracownicy terenowego organu administracji morskiej mają prawo do nakładania grzywien w drodze mandatu karnego.
 
 ### DZIAŁ V Zmiany w przepisach obowiązujących
+
+**Art. 61–65.** (pominięte)
 
 ### DZIAŁ VI Przepisy epizodyczne, przejściowe i końcowe
 

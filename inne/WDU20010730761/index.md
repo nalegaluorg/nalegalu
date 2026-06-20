@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o leśnym materiale rozmnożeniowym
+# Ustawa z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym.
 
 *USTAWA z dnia 7 czerwca 2001 r.*
 

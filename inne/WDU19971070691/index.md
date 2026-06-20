@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent
+# Ustawa z dnia 28 sierpnia 1997 r. o zmianie ustawy o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent.
 
 *USTAWA z dnia 28 sierpnia 1997 r.*
 

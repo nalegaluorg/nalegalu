@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rynku pracy i służbach zatrudnienia
+# Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia
 
 *USTAWA z dnia 20 marca 2025 r.*
 
@@ -216,14 +216,16 @@ source: pdf
 2. Do zakresu działania wojewódzkich rad rynku pracy należy:
 
 - **1)** inspirowanie przedsięwzięć zmierzających do pełnego i produktywnego zatrudnienia i rozwoju zasobów ludzkich, wzmacniania integracji i solidarności społecznej oraz zwiększania mobilności na rynku pracy;
-- **2)** ocena racjonalności gospodarki środkami Funduszu Pracy w województwie; [3) składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, w tym opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, szkolenia zawodowego oraz zatrudnienia w województwie;] <3) składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, szkolenia zawodowego oraz zatrudnienia w województwie;>
+- **2)** ocena racjonalności gospodarki środkami Funduszu Pracy w województwie;
+- **3)** składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, szkolenia zawodowego oraz zatrudnienia w województwie;
 - **4)** ocenianie okresowych sprawozdań z działalności WUP oraz przedstawianie Radzie Rynku Pracy okresowych sprawozdań z działań wojewódzkich rad rynku pracy;
 - **5)** delegowanie przedstawicieli do komisji konkursowej dokonującej wyboru kandydata na stanowisko dyrektora WUP;
 - **6)** opiniowanie wniosków o odwołanie dyrektora WUP;
 - **7)** coroczne opiniowanie wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 348 ust. 1;
 - **8)** opiniowanie priorytetów wydatkowania środków KFS, o których mowa w art. 32 ust. 1 pkt 2 lit. b;
 - **9)** opiniowanie kryteriów podziału środków Funduszu Pracy przeznaczonych dla PUP w danym województwie na finansowanie form pomocy i zadań fakultatywnych;
-- **10)** delegowanie przedstawiciela do udziału w posiedzeniach organów instytucji lub organizacji, działających na podstawie odrębnych przepisów; <10a) przedstawianie kandydatów na członków wojewódzkiego zespołu koordynacji do spraw polityki umiejętności, o których mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451);>
+- **10)** delegowanie przedstawiciela do udziału w posiedzeniach organów instytucji lub organizacji, działających na podstawie odrębnych przepisów;
+- **10a)** przedstawianie kandydatów na członków wojewódzkiego zespołu koordynacji do spraw polityki umiejętności, o których mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451);
 - **11)** realizowanie innych zadań wynikających z odrębnych przepisów. [3. Przed wydaniem opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, wojewódzka rada rynku pracy może zasięgnąć opinii powiatowej rady rynku pracy.
 
 4. Wojewódzka rada rynku pracy wydaje opinię o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, po zapoznaniu się z prognozą zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm.7 ).

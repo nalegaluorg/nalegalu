@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zmianie imion i nazwisk oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 3 marca 2005 r. o zmianie ustawy o zmianie imion i nazwisk oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 3 marca 2005 r.*
 

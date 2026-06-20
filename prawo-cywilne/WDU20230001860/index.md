@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Prawo o ustroju sądów powszechnych, ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

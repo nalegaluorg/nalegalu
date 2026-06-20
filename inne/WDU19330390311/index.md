@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o grobach i cmentarzach wojennych
+# Ustawa z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych.
 
 *USTAWA z dnia 28 marca 1933 r.*
 

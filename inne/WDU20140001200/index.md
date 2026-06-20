@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o charakterystyce energetycznej budynków
+# Ustawa z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków
 
 *USTAWA z dnia 29 sierpnia 2014 r.*
 

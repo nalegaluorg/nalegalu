@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz niektórych innych ustaw
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2021 r.*
 
@@ -438,9 +438,13 @@ source: pdf
 
 - **1)** na wniosek podmiotu wniesiony w formie elektronicznej;
 - **2)** po uzyskaniu informacji o wykreśleniu podmiotu z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego;
-- **3)** w przypadku stwierdzenia: Art. 129ka. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+- **3)** w przypadku stwierdzenia:
     - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności na rzecz spółek lub trustów,
     - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129f ust. 2, niezgodne ze stanem faktycznym.
+
+**Art. 129ka.**
+
+1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
 
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 
@@ -522,9 +526,13 @@ source: pdf
 
 - **1)** na wniosek podmiotu wniesiony w formie elektronicznej;
 - **2)** po uzyskaniu informacji o wykreśleniu podmiotu z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego;
-- **3)** w przypadku stwierdzenia: Art. 129wa. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+- **3)** w przypadku stwierdzenia:
     - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności w zakresie walut wirtualnych,
     - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129r ust. 2, niezgodne ze stanem faktycznym.
+
+**Art. 129wa.**
+
+1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
 
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 

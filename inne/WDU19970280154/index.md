@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach kontraktów eksportowych
+# Ustawa z dnia 21 lutego 1997 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach kontraktów eksportowych.
 
 *USTAWA z dnia 21 lutego 1997 r.*
 

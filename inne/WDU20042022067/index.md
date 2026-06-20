@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o adwokaturze, ustawy o radcach prawnych, ustawy – Prawo o notariacie oraz ustawy o komornikach sądowych i egzekucji
+# Ustawa z dnia 30 lipca 2004 r. o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych, ustawy - Prawo o notariacie oraz ustawy o komornikach sądowych i egzekucji
 
 *USTAWA z dnia 30 lipca 2004 r.*
 

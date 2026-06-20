@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o radiofonii i telewizji
+# Ustawa z dnia 7 lipca 2022 r. zmieniająca ustawę o zmianie ustawy o radiofonii i telewizji
 
 *USTAWA z dnia 7 lipca 2022 r.*
 

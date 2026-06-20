@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 27 kwietnia 1999 r. zmieniające rozporządzenie w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.
 
 | Pole | Wartość |
 |---|---|

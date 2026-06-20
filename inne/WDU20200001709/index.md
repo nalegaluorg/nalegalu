@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, ustawy o komercjalizacji i niektórych uprawnieniach pracowników oraz ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, ustawy o komercjalizacji i niektórych uprawnieniach pracowników oraz ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 17 września 2020 r.*
 

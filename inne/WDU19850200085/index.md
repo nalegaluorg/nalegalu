@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych
+# Ustawa z dnia 18 kwietnia 1985 r. o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych.
 
 *USTAWA z dnia 18 kwietnia 1985 r.*
 

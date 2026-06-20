@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o umowach międzynarodowych
+# Ustawa z dnia 14 kwietnia 2000 r. o umowach międzynarodowych.
 
 *USTAWA z dnia 14 kwietnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 5 września 2016 r.*
 

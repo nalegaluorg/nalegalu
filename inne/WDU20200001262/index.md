@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskim Bonie Turystycznym
+# Ustawa z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym
 
 *USTAWA z dnia 15 lipca 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2020-07-17 |
 | Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.pdf) |
-
-Art. 40–43. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -449,6 +447,8 @@ Art. 40–43. (pominięte)
 **Art. 39.** Kto przyjmuje płatność za realizację bonu niezgodnie z przeznaczeniem, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 7 Przepisy zmieniające, dostosowujące i końcowe
+
+**Art. 40–43.** (pominięte)
 
 **Art. 44.** Minister właściwy do spraw turystyki poda do publicznej wiadomości w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra informację o terminie możliwości:
 

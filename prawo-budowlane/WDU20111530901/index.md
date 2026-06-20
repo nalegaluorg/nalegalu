@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 26 maja 2011 r.*
 

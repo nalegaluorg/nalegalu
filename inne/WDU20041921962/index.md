@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004–2019”
+# Ustawa z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2019"
 
 *USTAWA z dnia 22 lipca 2004 r.*
 

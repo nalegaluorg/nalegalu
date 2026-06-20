@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z realizacją programu „Za życiem”
+# Ustawa z dnia 22 czerwca 2017 r. o zmianie niektórych ustaw w związku z realizacją programu "Za życiem"
 
 *USTAWA z dnia 22 czerwca 2017 r.*
 

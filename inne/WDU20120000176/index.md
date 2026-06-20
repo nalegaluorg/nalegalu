@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 27 stycznia 2012 r. zmieniająca ustawę o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 27 stycznia 2012 r.*
 

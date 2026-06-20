@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o umorzeniu należności powstałych z tytułu nieopłaconych składek przez osoby prowadzące pozarolniczą działalność
+# Ustawa z dnia 9 listopada 2012 r. o umorzeniu należności powstałych z tytułu nieopłaconych składek przez osoby prowadzące pozarolniczą działalność
 
 *USTAWA z dnia 9 listopada 2012 r.*
 

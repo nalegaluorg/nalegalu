@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokumentach publicznych
+# Ustawa z dnia 22 listopada 2018 r. o dokumentach publicznych
 
 *USTAWA z dnia 22 listopada 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-01-11 |
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000053) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/53/text.pdf) |
-
-Art. 59–71. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -574,6 +572,8 @@ Art. 59–71. (pominięte)
 **Art. 58.** Kto wytwarza, oferuje, zbywa lub przechowuje w celu zbycia replikę dokumentu publicznego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 59–71.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe, dostosowujące i końcowe
 

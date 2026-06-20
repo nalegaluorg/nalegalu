@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych
+# Ustawa z dnia 13 czerwca 2019 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

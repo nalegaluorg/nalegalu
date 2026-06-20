@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym, Prawa upadłościowego, ustawy o postępowaniu egzekucyjnym w administracji, ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy - Prawo działalności gospodarczej
+# Ustawa z dnia 30 listopada 2000 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, Prawa upadłościowego, ustawy o postępowaniu egzekucyjnym w administracji, ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy - Prawo działalności gospodarczej.
 
 *USTAWA z dnia 30 listopada 2000 r.*
 

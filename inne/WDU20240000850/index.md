@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw
+# Ustawa z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 maja 2024 r.*
 
@@ -41,17 +41,34 @@ source: pdf
 - **4)** w tytule działu V po wyrazach „tymczasowe zajęcie ruchomości,” dodaje się wyrazy „kontrola ex post,”;
 - **5)** w art. 54 w ust. 2 po pkt 12b dodaje się pkt 12c w brzmieniu: „12c) wwożenie do Unii Europejskiej oraz wywożenie z Unii Europejskiej środków pieniężnych w rozumieniu rozporządzenia 2018/1672;”;
 - **6)** w art. 84 w ust. 1 w pkt 3 wyrazy „ust. 2 pkt 1a–5 i 9” zastępuje się wyrazami „ust. 2 pkt 1a–5, 9 i 12c”;
-- **7)** w dziale V po rozdziale 1c dodaje się rozdział 1d w brzmieniu: „Rozdział 1d Kontrola ex post Art. 94ze. Wszczęcie kontroli ex post następuje z chwilą doręczenia unijnemu importerowi w rozumieniu art. 2 lit. l rozporządzenia 2017/821, zwanemu dalej „unijnym importerem”, upoważnienia do przeprowadzenia kontroli ex post udzielonego kontrolującemu przez Szefa Krajowej Administracji Skarbowej oraz wezwania do przedłożenia, w terminie 30 dni od dnia doręczenia unijnemu importerowi tego wezwania, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821. Art. 94zf. 1. W przypadku stwierdzenia w toku kontroli ex post naruszenia przepisów art. 4–7 rozporządzenia 2017/821 Szef Krajowej Administracji Skarbowej wzywa unijnego importera do:
+- **7)** w dziale V po rozdziale 1c dodaje się rozdział 1d w brzmieniu: „Rozdział 1d Kontrola ex post
+
+**Art. 94ze.** Wszczęcie kontroli ex post następuje z chwilą doręczenia unijnemu importerowi w rozumieniu art. 2 lit. l rozporządzenia 2017/821, zwanemu dalej „unijnym importerem”, upoważnienia do przeprowadzenia kontroli ex post udzielonego kontrolującemu przez Szefa Krajowej Administracji Skarbowej oraz wezwania do przedłożenia, w terminie 30 dni od dnia doręczenia unijnemu importerowi tego wezwania, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821.
+
+**Art. 94zf.**
+
+1. W przypadku stwierdzenia w toku kontroli ex post naruszenia przepisów art. 4–7 rozporządzenia 2017/821 Szef Krajowej Administracji Skarbowej wzywa unijnego importera do:
+
 - **1)** przedstawienia, w terminie 30 dni od dnia doręczenia tego wezwania, planu wdrożenia działań naprawczych;
 - **2)** wdrożenia działań naprawczych w terminie 90 dni od dnia przedstawienia planu ich wdrożenia.
 
-2. Po upływie terminu, o którym mowa w ust. 1 pkt 2, Szef Krajowej Administracji Skarbowej wzywa unijnego importera do przedstawienia, w terminie 15 dni od dnia doręczenia tego wezwania, dokumentów potwierdzających wdrożenie działań naprawczych. Art. 94zg. 1. W przypadku gdy w toku kontroli ex post:
+2. Po upływie terminu, o którym mowa w ust. 1 pkt 2, Szef Krajowej Administracji Skarbowej wzywa unijnego importera do przedstawienia, w terminie 15 dni od dnia doręczenia tego wezwania, dokumentów potwierdzających wdrożenie działań naprawczych.
+
+**Art. 94zg.**
+
+1. W przypadku gdy w toku kontroli ex post:
 
 - **1)** unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
 - **2)** unijny importer nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
 - **3)** Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie wdrożył działań naprawczych w terminie, o którym mowa w art. 94zf ust. 1 pkt 2 – Szef Krajowej Administracji Skarbowej sporządza protokół kontroli ex post, który kończy tę kontrolę.
 
-2. W przypadku gdy w toku kontroli ex post Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie naruszył przepisów art. 4–7 rozporządzenia 2017/821 albo wdrożył działania naprawcze w terminie, o którym mowa w art. 94zf ust. 1 pkt 2, informuje pisemnie unijnego importera o zakończeniu tej kontroli. Art. 94zh. Zakończenie kontroli ex post następuje niezwłocznie, nie później niż w terminie 60 dni, licząc od dnia upływu terminu, o którym mowa w art. 94zf ust. 1 pkt 2. Art. 94zi. 1. Kto, będąc unijnym importerem:
+2. W przypadku gdy w toku kontroli ex post Szef Krajowej Administracji Skarbowej stwierdzi, że unijny importer nie naruszył przepisów art. 4–7 rozporządzenia 2017/821 albo wdrożył działania naprawcze w terminie, o którym mowa w art. 94zf ust. 1 pkt 2, informuje pisemnie unijnego importera o zakończeniu tej kontroli.
+
+**Art. 94zh.** Zakończenie kontroli ex post następuje niezwłocznie, nie później niż w terminie 60 dni, licząc od dnia upływu terminu, o którym mowa w art. 94zf ust. 1 pkt 2.
+
+**Art. 94zi.**
+
+1. Kto, będąc unijnym importerem:
 
 - **1)** nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94ze, dokumentów potwierdzających spełnienie obowiązków, o których mowa w art. 4–7 rozporządzenia 2017/821, albo
 - **2)** nie przedstawi, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w art. 94zf ust. 1 pkt 1, planu wdrożenia działań naprawczych, albo
@@ -59,15 +76,29 @@ source: pdf
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji administracyjnej, w wysokości od 1000 zł do 500 000 zł.
 
-3. Od decyzji, o której mowa w ust. 2, przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia. Art. 94zj. 1. Nakładając karę pieniężną, o której mowa w art. 94zi ust. 1, uwzględnia się rodzaj, zakres i skutki naruszenia, o którym mowa w art. 94zi ust. 1, wielkość obrotów i przychodu unijnego importera w zakresie importu cyny, tantalu i wolframu, ich rud oraz złota pochodzących z obszarów dotkniętych konfliktami lub obszarów wysokiego ryzyka oraz jego dotychczasową działalność w tym zakresie.
+3. Od decyzji, o której mowa w ust. 2, przysługuje odwołanie do ministra właściwego do spraw finansów publicznych w terminie 14 dni od dnia jej doręczenia.
+
+**Art. 94zj.**
+
+1. Nakładając karę pieniężną, o której mowa w art. 94zi ust. 1, uwzględnia się rodzaj, zakres i skutki naruszenia, o którym mowa w art. 94zi ust. 1, wielkość obrotów i przychodu unijnego importera w zakresie importu cyny, tantalu i wolframu, ich rud oraz złota pochodzących z obszarów dotkniętych konfliktami lub obszarów wysokiego ryzyka oraz jego dotychczasową działalność w tym zakresie.
 
 2. Jeżeli okoliczności sprawy i dowody wskazują, że do naruszenia, o którym mowa w art. 94zi ust. 1, doszło na skutek zdarzeń lub okoliczności, którym unijny importer nie mógł zapobiec, odstępuje się od nałożenia kary pieniężnej, o której mowa w art. 94zi ust. 1, i umarza się postępowanie.
 
-3. Nie nakłada się kary pieniężnej, o której mowa w art. 94zi ust. 1, jeżeli od dnia sporządzenia protokołu kontroli, o którym mowa w art. 94zg ust. 1, upłynęły 3 lata. Art. 94zk. 1. Karę pieniężną, o której mowa w art. 94zi ust. 1, uiszcza się w terminie 7 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
+3. Nie nakłada się kary pieniężnej, o której mowa w art. 94zi ust. 1, jeżeli od dnia sporządzenia protokołu kontroli, o którym mowa w art. 94zg ust. 1, upłynęły 3 lata.
 
-2. Kara pieniężna, o której mowa w art. 94zi ust. 1, stanowi dochód budżetu państwa. Art. 94zl. 1. W zakresie nieuregulowanym w niniejszym rozdziale do kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+**Art. 94zk.**
 
-2. Do egzekucji kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. Art. 94zm. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post stosuje się odpowiednio:
+1. Karę pieniężną, o której mowa w art. 94zi ust. 1, uiszcza się w terminie 7 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
+
+2. Kara pieniężna, o której mowa w art. 94zi ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 94zl.**
+
+1. W zakresie nieuregulowanym w niniejszym rozdziale do kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+
+2. Do egzekucji kary pieniężnej, o której mowa w art. 94zi ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+**Art. 94zm.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli ex post stosuje się odpowiednio:
 
 - **1)** przepisy art. 62 ust. 2a–3b i 8, art. 64 ust. 1 pkt 1, 2 i 17 oraz ust. 3 i 4, art. 72, art. 75, art. 79, art. 84 ust. 2 i 4, art. 86 ust. 1 i 2 i art. 93;
 - **2)** przepisy art. 12, art. 102 § 2 i 3, art. 135, art. 140 § 2, art. 283 § 4 i 5, art. 286a § 1 i 2, art. 290 § 4–6 i art. 291d oraz działu IV rozdziałów 1, 2, 3a, 5, 6, 10 i 11, z wyjątkiem art. 182–185, art. 190 § 1, art. 198 i art. 200, oraz działu VII Ordynacji podatkowej.”.

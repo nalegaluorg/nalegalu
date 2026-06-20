@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy
+# Ustawa z dnia 10 stycznia 2014 r. o zmianie ustawy - Kodeks wyborczy
 
 *USTAWA z dnia 10 stycznia 2014 r.*
 

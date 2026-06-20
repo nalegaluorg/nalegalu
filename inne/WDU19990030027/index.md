@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie określenia wykazu przywożonych z zagranicy, na które mogą być nałożone Na podstawie art. 1 ust. 2 ustawy z dnia 28 czerwca 1995 r. o nakładania opłat celnych dodatkowych na niektóre towary rolne (Dz.U. Nr 98, poz. 485) zarządza się, co następuje:
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 30 grudnia 1998 r. zmieniające rozporządzenie w sprawie określenia wykazu towarów rolnych przywożonych z zagranicy, na które mogą być nałożone opłaty celne dodatkowe.
 
 | Pole | Wartość |
 |---|---|

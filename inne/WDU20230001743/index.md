@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-30 |
 | Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1743/text.pdf) |
-
-Art. 143–153. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1838,6 +1836,8 @@ Art. 143–153. (pominięte)
 ### DZIAŁ VIII Przepisy zmieniające, przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Przepisy zmieniające
+
+**Art. 143–153.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe, dostosowujące i końcowe
 

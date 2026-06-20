@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Czerwonym Krzyżu
+# Ustawa z dnia 16 listopada 1964 r. o Polskim Czerwonym Krzyżu.
 
 | Pole | Wartość |
 |---|---|

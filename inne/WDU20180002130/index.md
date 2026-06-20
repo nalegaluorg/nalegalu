@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
+# Ustawa z dnia 4 października 2018 r. zmieniająca ustawę o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 października 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 
@@ -709,9 +709,17 @@ source: pdf
 
 2. Komisja udziela zgody, o której mowa w ust. 1, jeżeli są spełnione warunki, o których mowa w art. 52 rozporządzenia 575/2013.
 
-3. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty w Tier II, zgodnie z art. 63 rozporządzenia 575/2013, po zawiadomieniu Komisji. Art. 110eb. 1. Zaciągnięcie pożyczki podporządkowanej kwalifikowanej do funduszy własnych jako instrumenty dodatkowe w Tier I, o których mowa w art. 52 rozporządzenia 575/2013, wymaga uchwały zarządu domu maklerskiego albo małego domu maklerskiego oraz zgody rady nadzorczej odpowiednio domu maklerskiego albo małego domu maklerskiego.
+3. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty w Tier II, zgodnie z art. 63 rozporządzenia 575/2013, po zawiadomieniu Komisji.
 
-2. Przedmiotem pożyczki podporządkowanej, o której mowa w ust. 1, mogą być środki pieniężne w wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały, o której mowa w ust. 1. Art. 110ec. 1. Umowa pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, może być zawarta wyłącznie z podmiotami wymienionymi w art. 3 pkt 39b lit. a–m w formie pisemnej pod rygorem nieważności.
+**Art. 110eb.**
+
+1. Zaciągnięcie pożyczki podporządkowanej kwalifikowanej do funduszy własnych jako instrumenty dodatkowe w Tier I, o których mowa w art. 52 rozporządzenia 575/2013, wymaga uchwały zarządu domu maklerskiego albo małego domu maklerskiego oraz zgody rady nadzorczej odpowiednio domu maklerskiego albo małego domu maklerskiego.
+
+2. Przedmiotem pożyczki podporządkowanej, o której mowa w ust. 1, mogą być środki pieniężne w wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona w innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski w dniu podjęcia uchwały, o której mowa w ust. 1.
+
+**Art. 110ec.**
+
+1. Umowa pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, może być zawarta wyłącznie z podmiotami wymienionymi w art. 3 pkt 39b lit. a–m w formie pisemnej pod rygorem nieważności.
 
 2. W umowie pożyczki podporządkowanej określa się ryzyko związane z możliwością wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, oraz ryzyko dokonania umorzenia, w formie odpisu trwałego albo odpisu tymczasowego, obniżających w całości albo w części kwotę tej pożyczki, a także ryzyko umorzenia odsetek albo części odsetek z tytułu tej pożyczki.
 
@@ -719,7 +727,11 @@ source: pdf
 
 4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
-5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m. Art. 110ed. 1. Pożyczka podporządkowana, o której mowa w art. 110eb ust. 1, podlega spłacie, w przypadku gdy:
+5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m.
+
+**Art. 110ed.**
+
+1. Pożyczka podporządkowana, o której mowa w art. 110eb ust. 1, podlega spłacie, w przypadku gdy:
 
 - **1)** umowa pożyczki podporządkowanej przewiduje jej spłatę oraz
 - **2)** dom maklerski albo mały dom maklerski uzyskał zezwolenie Komisji na spłatę pożyczki podporządkowanej, oraz
@@ -727,15 +739,25 @@ source: pdf
 
 2. Pożyczka podporządkowana może podlegać spłacie przez dom maklerski albo mały dom maklerski również w przypadku odmowy wydania zezwolenia przez Komisję na jej zakwalifikowanie do funduszy własnych jako instrumentu dodatkowego w Tier I, o którym mowa w art. 52 rozporządzenia 575/213, jeżeli w umowie pożyczki podporządkowanej zostało zawarte uprawnienie domu maklerskiego albo małego domu maklerskiego do spłaty pożyczki podporządkowanej w takim przypadku.
 
-3. Wymogu uzyskania zezwolenia na spłatę pożyczki podporządkowanej, o którym mowa w ust. 1 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia 2019/2033. Art. 110ee. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego może, w drodze uchwały, umorzyć odsetki albo część odsetek z tytułu umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego niezwłocznie informuje o tym umorzeniu udzielającego pożyczkę podporządkowaną.
+3. Wymogu uzyskania zezwolenia na spłatę pożyczki podporządkowanej, o którym mowa w ust. 1 pkt 2, nie stosuje się w przypadku określonym w art. 9 ust. 3 rozporządzenia 2019/2033.
 
-2. W przypadku, o którym mowa w ust. 1, umorzenie odsetek nie stanowi niewykonania lub nienależytego wykonania zobowiązania lub zwłoki w wykonaniu zobowiązania przez dom maklerski albo mały dom maklerski. Art. 110ef. 1. W przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, określonego w umowie pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, dom maklerski i mały dom maklerski dokonuje umorzenia tej pożyczki w formie odpisu trwałego albo odpisu tymczasowego obniżających w całości albo w części kwotę tej pożyczki.
+**Art. 110ee.**
+
+1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego może, w drodze uchwały, umorzyć odsetki albo część odsetek z tytułu umowy pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego niezwłocznie informuje o tym umorzeniu udzielającego pożyczkę podporządkowaną.
+
+2. W przypadku, o którym mowa w ust. 1, umorzenie odsetek nie stanowi niewykonania lub nienależytego wykonania zobowiązania lub zwłoki w wykonaniu zobowiązania przez dom maklerski albo mały dom maklerski.
+
+**Art. 110ef.**
+
+1. W przypadku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013, określonego w umowie pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, dom maklerski i mały dom maklerski dokonuje umorzenia tej pożyczki w formie odpisu trwałego albo odpisu tymczasowego obniżających w całości albo w części kwotę tej pożyczki.
 
 2. Wysokość odpisu, o którym mowa w ust. 1, określa uchwała zarządu domu maklerskiego albo zarządu małego domu maklerskiego.
 
 3. Umowa pożyczki podporządkowanej może przewidywać kryteria, po których spełnieniu dom maklerski albo mały domu maklerski będzie uprawniony do podwyższenia kwoty tej pożyczki, w przypadku gdy została ona umorzona w formie odpisu tymczasowego obniżającego w części kwotę tej pożyczki w wyniku wystąpienia zdarzenia inicjującego, o którym mowa w art. 54 ust. 1 rozporządzenia 575/2013.
 
-4. W przypadku, o którym mowa w ust. 3, kwota pożyczki podporządkowanej nie może być wyższa niż kwota z dnia jej zaciągnięcia. Art. 110eg. Roszczenie o spłatę pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, staje się wymagalne z chwilą ogłoszenia upadłości albo likwidacji domu maklerskiego albo małego domu maklerskiego.”;
+4. W przypadku, o którym mowa w ust. 3, kwota pożyczki podporządkowanej nie może być wyższa niż kwota z dnia jej zaciągnięcia.
+
+**Art. 110eg.** Roszczenie o spłatę pożyczki podporządkowanej, o której mowa w art. 110eb ust. 1, staje się wymagalne z chwilą ogłoszenia upadłości albo likwidacji domu maklerskiego albo małego domu maklerskiego.”;
 
 - **10)** w art. 150 w ust. 1:
     - **a)** po pkt 11a dodaje się pkt 11b w brzmieniu: „11b) przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6, a także przez uczestników Krajowego Depozytu lub tej spółki – spółce, której zarząd podjął uchwałę o przyznaniu akcji na zasadach określonych w warunkach emisji obligacji kapitałowych, w przypadku i zakresie określonych w art. 454 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych;”,

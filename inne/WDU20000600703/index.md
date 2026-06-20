@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o funduszach przemysłowych i ich prywatyzacji w związku z reformą systemu ubezpieczeń społecznych oraz o zmianie niektórych ustaw
+# Ustawa z dnia 29 czerwca 2000 r. o uchyleniu ustawy o funduszach przemysłowych i ich prywatyzacji w związku z reformą systemu ubezpieczeń społecznych oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 29 czerwca 2000 r.*
 

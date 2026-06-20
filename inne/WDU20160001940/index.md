@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz ustawy o świadczeniach przedemerytalnych
+# Ustawa z dnia 6 października 2016 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz ustawy o świadczeniach przedemerytalnych
 
 *USTAWA z dnia 6 października 2016 r.*
 

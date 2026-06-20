@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Agencji Restrukturyzacji i Modernizacji Rolnictwa
+# Ustawa z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa
 
 *USTAWA z dnia 9 maja 2008 r.*
 
@@ -833,7 +833,9 @@ source: pdf
 
 4. Przy sprzedaży wierzytelności Agencji nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) o przestrzeganiu tajemnicy bankowej w zakresie wierzytelności oferowanych do sprzedaży.
 
-5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb sprzedaży wierzytelności Agencji, mając na względzie prawidłowe gospodarowanie środkami finansowymi. Art. 34–38. (pominięte)
+5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb sprzedaży wierzytelności Agencji, mając na względzie prawidłowe gospodarowanie środkami finansowymi.
+
+**Art. 34–38.** (pominięte)
 
 **Art. 39.**
 

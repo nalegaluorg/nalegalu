@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
+# Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
 
 *USTAWA z dnia 20 marca 2024 r.*
 

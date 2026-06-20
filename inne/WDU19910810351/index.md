@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie przeciwpożarowej
+# Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
 
 *USTAWA z dnia 24 sierpnia 1991 r.*
 
@@ -684,7 +684,11 @@ source: pdf
 
 **Art. 14e.** (uchylony)
 
-**Art. 14f.** (uchylony) Art. 14fa. 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+**Art. 14f.** (uchylony)
+
+**Art. 14fa.**
+
+1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
 
 - **1)** starostę (prezydenta miasta na prawach powiatu) – dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 - **2)** starostę i prezydenta miasta na prawach powiatu – wspólne dla obszaru miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
@@ -731,7 +735,11 @@ source: pdf
 
 5. Dane osobowe, o których mowa w ust. 1, są przechowywane wyłącznie przez okres niezbędny do realizacji zadań wynikających z ustawy. Dane te podlegają przeglądowi nie rzadziej niż co 5 lat od dnia ich uzyskania.
 
-6. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej udostępniają informację o ograniczeniach, o których mowa w ust. 2 i 3, w Biuletynie Informacji Publicznej na swoich stronach podmiotowych lub na swoich stronach internetowych oraz w widocznym miejscu w siedzibach jednostek. Art. 14ha. 1. Komendant Główny Państwowej Straży Pożarnej, komendanci wojewódzcy Państwowej Straży Pożarnej, komendanci powiatowi (miejscy) Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej i komendanci szkół Państwowej Straży Pożarnej są współadministratorami danych osobowych przetwarzanych w SWD PSP.
+6. Kierownicy jednostek organizacyjnych Państwowej Straży Pożarnej udostępniają informację o ograniczeniach, o których mowa w ust. 2 i 3, w Biuletynie Informacji Publicznej na swoich stronach podmiotowych lub na swoich stronach internetowych oraz w widocznym miejscu w siedzibach jednostek.
+
+**Art. 14ha.**
+
+1. Komendant Główny Państwowej Straży Pożarnej, komendanci wojewódzcy Państwowej Straży Pożarnej, komendanci powiatowi (miejscy) Państwowej Straży Pożarnej, Rektor-Komendant Akademii Pożarniczej i komendanci szkół Państwowej Straży Pożarnej są współadministratorami danych osobowych przetwarzanych w SWD PSP.
 
 2. Komendant Główny Państwowej Straży Pożarnej ustala podział obowiązków współadministratorów, o których mowa w ust. 1, wynikających z przepisów rozporządzenia 2016/679.
 

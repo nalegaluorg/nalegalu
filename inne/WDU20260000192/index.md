@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pracowniczych planach kapitałowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracowniczych planach kapitałowych
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 4 października 2018 r.
 o pracowniczych planach kapitałowych
-Art. 112–132. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1648,6 +1647,8 @@ Art. 112–132. (pominięte)
 **Art. 111.** Orzekanie w sprawach o czyny, o których mowa w art. 106–108 i art. 110, następuje na zasadach i w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
 #### Rozdział 17 Zmiany w przepisach
+
+**Art. 112–132.** (pominięte)
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 

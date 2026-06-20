@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 listopada 2006 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa
+# Ustawa z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 
@@ -201,7 +201,9 @@ source: pdf
 
 6. Kierownik podmiotu może odstąpić od przeprowadzenia sprawdzianu wiedzy w przypadku przedłożenia przez osobę realizującą albo mającą realizować zadania z zakresu cyberbezpieczeństwa aktualnego dokumentu potwierdzającego posiadanie specjalistycznej wiedzy z zakresu cyberbezpieczeństwa w zakresie zgodnym z zadaniami na stanowisku.
 
-7. W przypadku odstąpienia od przeprowadzenia sprawdzianu wiedzy w trybie określonym w ust. 6, w miejsce protokołu przeprowadzonego egzaminu załącza się kopie dokumentów potwierdzających posiadanie specjalistycznej wiedzy z zakresu cyberbezpieczeństwa. Art. 9–22. (pominięte)
+7. W przypadku odstąpienia od przeprowadzenia sprawdzianu wiedzy w trybie określonym w ust. 6, w miejsce protokołu przeprowadzonego egzaminu załącza się kopie dokumentów potwierdzających posiadanie specjalistycznej wiedzy z zakresu cyberbezpieczeństwa.
+
+**Art. 9–22.** (pominięte)
 
 **Art. 23.** Tworzy się Fundusz.
 

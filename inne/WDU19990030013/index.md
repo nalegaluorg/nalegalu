@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie rodzaju i zakresu usług świadczonych w sieciach radiokomunikacji ruchomej, do których nie stosuje się ograniczeń przy wydawaniu zezwoleń na zakładanie i używanie urządzeń.
+# Rozporządzenie Ministra Łączności z dnia 30 grudnia 1998 r. w sprawie rodzaju i zakresu usług świadczonych w sieciach radiokomunikacji ruchomej, do których nie stosuje się ograniczeń przy wydawaniu zezwoleń na zakładanie i używanie urządzeń.
 
 | Pole | Wartość |
 |---|---|

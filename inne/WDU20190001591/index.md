@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o restytucji narodowych dóbr kultury
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o restytucji narodowych dóbr kultury
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ poz. 1506 i 1948) wprowadza się następujące zmiany:
 2) uchyla się art. 14a;
 3) art. 14b otrzymuje brzmienie: „Art. 14b. Prowadzenie spraw o zwrot materiałów archiwalnych wyprowadzonych z naruszeniem prawa z terytorium Rzeczypospolitej Polskiej reguluje ustawa z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury.”;
 4) w art. 21 w ust. 1 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) wykonywanie zadań określonych w przepisach ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury.”.
-Art. 54–63. (pominięte)
 
 **Art. 55.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) w art. 19 w ust. 1 po pkt 3a dodaje się pkt 3b w brzmieniu: „3b) określonych w rozdziale 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446, z późn. zm. ), w rozdziale 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2016 r. poz. 1506 i 1948 oraz z 2017 r. poz. 1086), w rozdziale 5a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2017 r. poz. 972 i 1086), w rozdziale 11a ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2012 r. poz. 642 i 908, z 2013 r. poz. 829 oraz z 2017 r. poz. 60 i 1086) oraz w rozdziale 6 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086),”.
 
@@ -665,6 +664,8 @@ Art. 54–63. (pominięte)
 **Art. 53.** Nie podlega karze za przestępstwo określone w art. 52, kto dobrowolnie zwrócił dobro kultury właściwym organom państwa, z którego zostało wyprowadzone, lub właściwym organom polskim lub kto ujawnił wobec właściwego organu miejsce przechowywania dobra kultury lub osobę je przechowującą, na skutek czego dobro kultury zostało odnalezione.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 54–63.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe, przepis dostosowujący i końcowy
 

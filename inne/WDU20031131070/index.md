@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo telekomunikacyjne oraz o zmianie niektórych ustaw
+# Ustawa z dnia 22 maja 2003 r. o zmianie ustawy - Prawa telekomunikacyjne oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 22 maja 2003 r.*
 
@@ -206,9 +206,7 @@ source: pdf
 
 10. W przypadku utraty prawa do wykorzystywania częstotliwości wskutek cofnięcia pozwolenia, uiszczone opłaty nie podlegają zwrotowi.
 
-11. W razie opóźnienia w uiszczaniu opłat są naliczane odsetki w wysokości jak dla zaległości podatkowych w rozumieniu ustawy z dnia 24 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz.
-
-- **1387)** .
+11. W razie opóźnienia w uiszczaniu opłat są naliczane odsetki w wysokości jak dla zaległości podatkowych w rozumieniu ustawy z dnia 24 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387).
 
 12. Rada Ministrów określi, w drodze rozporządzenia, minimalną wysokość opłaty, o której mowa w ust. 1 pkt 1, wysokość opłat, o których mowa w ust. 1 pkt 2 i ust. 2, oraz terminy i sposób ich uiszczania, rodzaje podmiotów lub zakresy częstotliwości zwolnione z tych opłat, mając na uwadze kwoty określone w ust. 5, warunki wykorzystania częstotliwości przez te podmioty, kierując się przy tym kosztami prowadzenia gospodarki zasobami częstotliwości, a także potrzebą zagwarantowania optymalnego wykorzystania zasobów częstotliwości.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
+# Ustawa z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 

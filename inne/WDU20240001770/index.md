@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym
 
 | Pole | Wartość |
 |---|---|

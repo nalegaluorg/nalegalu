@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz Kodeksu postępowania w sprawach o wykroczenia
+# Ustawa z dnia 14 września 1991 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz Kodeksu postępowania w sprawach o wykroczenia.
 
 | Pole | Wartość |
 |---|---|

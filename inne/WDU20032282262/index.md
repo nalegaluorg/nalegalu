@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy - Przepisy wprowadzające ustawę o działalności pożytku publicznego i o wolontariacie
+# Ustawa z dnia 19 grudnia 2003 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy - Przepisy wprowadzające ustawę o działalności pożytku publicznego i o wolontariacie
 
 *USTAWA z dnia 19 grudnia 2003 r.*
 

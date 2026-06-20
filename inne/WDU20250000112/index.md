@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie klęski żywiołowej
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 18 kwietnia 2002 r.
 o stanie klęski żywiołowej
-Art. 29–33. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -322,6 +321,8 @@ Art. 29–33. (pominięte)
 3. Po zniesieniu stanu klęski żywiołowej postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 29–33.** (pominięte)
 
 **Art. 34.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

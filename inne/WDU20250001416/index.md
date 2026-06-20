@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Prawo farmaceutyczne
 
 *USTAWA z dnia 12 września 2025 r.*
 

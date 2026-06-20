@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o notariacie
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy - Prawo o notariacie
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz ustawy - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 26 stycznia 2024 r.*
 

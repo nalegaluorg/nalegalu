@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach i formach uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej
+# Ustawa z dnia 29 marca 2001 r. o zasadach i formach uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej.
 
 *USTAWA z dnia 29 marca 2001 r.*
 

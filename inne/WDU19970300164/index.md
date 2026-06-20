@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent
+# Ustawa z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent.
 
 *USTAWA z dnia 6 marca 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-03-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970300164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/164/text.pdf) |
-
-Art. 26-30. (pominięte).
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -88,7 +86,9 @@ Art. 26-30. (pominięte).
 
 1. Łączną kwotę przeznaczoną na wypłatę rekompensat w danym roku ustala ustawa budżetowa.
 
-2. Minister właściwy do spraw Skarbu Państwa zapewni, w okresie wskazanym w art. 10, wpływy z prywatyzacji przeznaczone na finansowanie wypłat, o których mowa w ust. 1. Art. 12-16. (skreślone).
+2. Minister właściwy do spraw Skarbu Państwa zapewni, w okresie wskazanym w art. 10, wpływy z prywatyzacji przeznaczone na finansowanie wypłat, o których mowa w ust. 1.
+
+**Art. 12-16.** (skreślone).
 
 **Art. 17.**
 
@@ -179,6 +179,8 @@ Art. 26-30. (pominięte).
 **Art. 25.** (pominięty).
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 26-30.** (pominięte).
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

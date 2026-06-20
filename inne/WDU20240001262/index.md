@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo przewozowe
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo przewozowe
 
 | Pole | Wartość |
 |---|---|
@@ -791,7 +791,13 @@ Prawo przewozowe
 
 #### Rozdział 10a Przepisy karne
 
-**Art. 87a.** Podróżny, który w czasie kontroli dokumentów przewozu osób lub bagażu, mimo braku odpowiedniego dokumentu przewozu, odmawia zapłacenia należności i okazania dokumentu, umożliwiającego stwierdzenie jego tożsamości, podlega karze grzywny. Art. 87aa. 5) 1. Osoba, o której mowa w art. 15 ust. 2, która nie opuszcza środka transportowego na żądanie osoby upoważnionej przez przewoźnika, o której mowa w art. 15 ust. 2a, podlega karze grzywny nie niższej niż 500 zł. 2. Jeżeli czyn, o którym mowa w ust. 1, ma charakter chuligański, sprawca podlega karze grzywny nie niższej niż 2000 zł.
+**Art. 87a.** Podróżny, który w czasie kontroli dokumentów przewozu osób lub bagażu, mimo braku odpowiedniego dokumentu przewozu, odmawia zapłacenia należności i okazania dokumentu, umożliwiającego stwierdzenie jego tożsamości, podlega karze grzywny.
+
+**Art. 87aa.**
+
+- **5)** 1. Osoba, o której mowa w art. 15 ust. 2, która nie opuszcza środka transportowego na żądanie osoby upoważnionej przez przewoźnika, o której mowa w art. 15 ust. 2a, podlega karze grzywny nie niższej niż 500 zł.
+
+2. Jeżeli czyn, o którym mowa w ust. 1, ma charakter chuligański, sprawca podlega karze grzywny nie niższej niż 2000 zł.
 
 **Art. 87b.** (utracił moc)
 

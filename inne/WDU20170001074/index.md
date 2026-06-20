@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody
+# Ustawa z dnia 11 maja 2017 r. o zmianie ustawy o ochronie przyrody
 
 *USTAWA z dnia 11 maja 2017 r.*
 

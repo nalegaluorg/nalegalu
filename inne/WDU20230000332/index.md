@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu wspólnej polityki rolnej na lata 2023–2027
+# Ustawa z dnia 26 stycznia 2023 r. o finansowaniu wspólnej polityki rolnej na lata 2023-2027
 
 *USTAWA z dnia 26 stycznia 2023 r.*
 

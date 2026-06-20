@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście – Szczecin do głębokości 12,5 metra
+# Ustawa z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście - Szczecin do głębokości 12,5 metra
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyrobach winiarskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wyrobach winiarskich
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-03-23 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000550) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/550/text.pdf) |
-
-Art. 44–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -710,6 +708,8 @@ Art. 44–52. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w art. 40 ust. 2, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600).
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 44–52.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

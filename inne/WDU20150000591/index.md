@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 9 kwietnia 2015 r.*
 

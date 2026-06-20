@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
+# Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy o pomocy społecznej oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 *USTAWA z dnia 18 lutego 2000 r.*
 

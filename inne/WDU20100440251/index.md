@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od czynności cywilnoprawnych
+# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o podatku od czynności cywilnoprawnych
 
 *USTAWA z dnia 22 stycznia 2010 r.*
 

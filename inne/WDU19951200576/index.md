@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 25 sierpnia 1995 r. o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.
 
 | Pole | Wartość |
 |---|---|

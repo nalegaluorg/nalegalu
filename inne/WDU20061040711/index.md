@@ -527,9 +527,7 @@ source: pdf
 
 2. Stanowiska służbowe, o których mowa w ust. 1 pkt 2 i 3, ujmuje się w wykazie prowadzonym przez Szefa Sztabu Generalnego Wojska Polskiego.
 
-3. Żołnierza zawodowego, o którym mowa w ust. 1 pkt 1, wyznacza się na stanowisko służbowe na zasadach i w trybie określonym w ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz.
-
-- **709)** .
+3. Żołnierza zawodowego, o którym mowa w ust. 1 pkt 1, wyznacza się na stanowisko służbowe na zasadach i w trybie określonym w ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709).
 
 4. Żołnierza zawodowego, o którym mowa w ust. 1 pkt 2 i 3, wyznacza na wskazane stanowisko służbowe kierownik instytucji cywilnej w formie przewidzianej dla tego stanowiska.
 

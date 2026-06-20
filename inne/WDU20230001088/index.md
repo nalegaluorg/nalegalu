@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazw uczelni służb państwowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 

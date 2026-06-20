@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 lipca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -443,7 +443,9 @@ source: pdf
 
 1. Terenowe organy administracji rządowej udostępniają nieodpłatnie zbiory Dziennika UE w języku polskim w postaci elektronicznej.
 
-2. Do udostępniania zbiorów Dziennika UE w postaci elektronicznej stosuje się odpowiednio art. 26 ust. 1. Art. 30–40. (pominięte)
+2. Do udostępniania zbiorów Dziennika UE w postaci elektronicznej stosuje się odpowiednio art. 26 ust. 1.
+
+**Art. 30–40.** (pominięte)
 
 **Art. 41.** Zachowują moc upoważnienia do wydawania tekstów jednolitych, skierowane do organów wymienionych w tych upoważnieniach, zawarte w aktach normatywnych wydanych przed dniem wejścia w życie ustawy.
 

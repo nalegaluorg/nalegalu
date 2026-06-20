@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o funduszach promocji produktów rolno-spożywczych
+# Ustawa z dnia 22 maja 2009 r. o funduszach promocji produktów rolno-spożywczych
 
 *USTAWA z dnia 22 maja 2009 r.*
 

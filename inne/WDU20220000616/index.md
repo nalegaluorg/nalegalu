@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
+# Ustawa z dnia 12 kwietnia 2024 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 kwietnia 2024 r.*
 

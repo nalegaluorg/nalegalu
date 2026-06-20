@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych oraz niektórych innych ustaw
+# Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 grudnia 2019 r.*
 

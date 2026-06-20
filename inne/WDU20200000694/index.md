@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
+# Ustawa z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów operacyjnych
 
 *USTAWA z dnia 3 kwietnia 2020 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawy – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 23 marca 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawy - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 23 marca 2022 r.*
 

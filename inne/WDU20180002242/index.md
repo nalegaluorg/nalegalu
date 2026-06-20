@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji
+# Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

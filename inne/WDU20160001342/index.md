@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o publicznym transporcie zbiorowym
+# Ustawa z dnia 21 lipca 2016 r. o zmianie ustawy o publicznym transporcie zbiorowym
 
 *USTAWA z dnia 21 lipca 2016 r.*
 

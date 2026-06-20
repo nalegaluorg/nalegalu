@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# ozmianie ustawy — Przepisy wprowadzające ustawę oSłużbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę osłużbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy - Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 *USTAWA zdnia 25 lipca 2008 r.*
 

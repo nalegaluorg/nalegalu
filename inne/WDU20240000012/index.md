@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Inspekcji Weterynaryjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Inspekcji Weterynaryjnej
 
 *USTAWA z dnia 29 stycznia 2004 r.*
 
@@ -253,7 +253,7 @@ source: pdf
 **Art. 8a.** Do postępowań w sprawach:
 
 - **1)** o których mowa w art. 15f ust. 1, art. 15i ust. 3, art. 24a, art. 24b i art. 25a ust. 3,
-- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji w sprawach, o których mowa w art. 15f ust. 1, art. 15i ust. 3, art. 24a, art. 24b> i art. 25a ust. 3, oraz w sprawach wznowienia postępowania zakończonego wydaniem takich decyzji – nie stosuje się przepisów art. 29 i art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803, 1414 i 2029).
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji w sprawach, o których mowa w art. 15f ust. 1, art. 15i ust. 3, art. 24a, art. 24b
 
 **Art. 9.**
 
@@ -617,7 +617,7 @@ source: pdf
 
 - **1)** kobieta, która ukończyła 60 lat, albo mężczyzna, który ukończył 65 lat;
 - **2)** kobieta w ciąży, kobieta karmiąca dziecko piersią lub osoba samotnie wychowująca dziecko w wieku do lat 14;
-- **3)** osoba niepełnosprawna.>
+- **3)** osoba niepełnosprawna.
 
 3. Decyzję, o której mowa w ust. 1, w przypadku nakazu wykonywania czynności, o których mowa w tym przepisie:
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Weterynaryjnej
+# Ustawa z dnia 3 października 2008 r. o zmianie ustawy o Inspekcji Weterynaryjnej
 
 *USTAWA z dnia 3 października 2008 r.*
 

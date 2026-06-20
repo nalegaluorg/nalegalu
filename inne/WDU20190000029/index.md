@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego
+# Ustawa z dnia 23 listopada 2018 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego
 
 *USTAWA z dnia 23 listopada 2018 r.*
 

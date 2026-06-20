@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
+# Ustawa z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte
 
 *USTAWA z dnia 27 lutego 2003 r.*
 

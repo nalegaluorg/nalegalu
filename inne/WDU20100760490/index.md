@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich
+# Ustawa z dnia 4 marca 2010 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich
 
 *USTAWA z dnia 4 marca 2010 r.*
 

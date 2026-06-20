@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 16 września 2011 r.*
 

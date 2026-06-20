@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie żywności i żywienia
+# Ustawa z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-09-27 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061711225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1225/text.pdf) |
-
-Art. 105–118. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne i objaśnienia określeń ustawowych
 
@@ -1475,6 +1473,8 @@ Art. 105–118. (pominięte)
 ### DZIAŁ IX Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 105–118.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

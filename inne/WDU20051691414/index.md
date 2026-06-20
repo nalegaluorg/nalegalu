@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności lobbingowej w procesie stanowienia prawa
+# Ustawa z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa
 
 *USTAWA z dnia 7 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-06 |
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1414/text.pdf) |
-
-Art. 21–23. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -253,6 +251,8 @@ Art. 21–23. (pominięte)
 3. Koszty związane z uiszczeniem kary pieniężnej pokrywa wpłacający.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 21–23.** (pominięte)
 
 **Art. 24.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
+# Ustawa z dnia 7 czerwca 2000 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne.
 
 *USTAWA z dnia 7 czerwca 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o społeczno-zawodowych organizacjach rolników, ustawy o związkach zawodowych rolników indywidualnych oraz ustawy o izbach rolniczych
+# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o społeczno-zawodowych organizacjach rolników, ustawy o związkach zawodowych rolników indywidualnych oraz ustawy o izbach rolniczych
 
 *USTAWA z dnia 22 września 2006 r.*
 

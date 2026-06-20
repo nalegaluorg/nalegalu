@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe
+# Ustawa z dnia 9 maja 1997 r. o zmianie ustawy o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe.
 
 *USTAWA z dnia 9 maja 1997 r.*
 

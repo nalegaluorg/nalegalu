@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 31 sierpnia 2011 r.*
 

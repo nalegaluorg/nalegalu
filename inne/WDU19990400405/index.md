@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie sposobu przeprowadzania i dokumentowania przez Inspekcję Celną czynności niejawnego nadzorowania przemieszczania, przechowywania i obrotu przedmiotami przestępstwa.
+# Rozporządzenie Ministra Finansów z dnia 4 maja 1999 r. w sprawie sposobu przeprowadzania i dokumentowania przez Inspekcję Celną czynności niejawnego nadzorowania przemieszczania , przechowywania i obrotu przedmiotami przestępstwa.
 
 | Pole | Wartość |
 |---|---|

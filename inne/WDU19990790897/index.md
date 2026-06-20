@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogólnych warunków przyłączania sieci telekomunikacyjnych oraz zasad rozliczeń.
+# Rozporządzenie Ministra Łączności z dnia 9 września 1999 r. w sprawie ogólnych warunków przyłączania sieci telekomunikacyjnych oraz zasad rozliczeń.
 
 | Pole | Wartość |
 |---|---|

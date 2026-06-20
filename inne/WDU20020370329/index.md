@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Sanitarnej oraz zmianie innych ustaw
+# Ustawa z dnia 1 marca 2002 r. o zmianie ustawy o Inspekcji Sanitarnej oraz zmianie innych ustaw.
 
 *USTAWA z dnia 1 marca 2002 r.*
 

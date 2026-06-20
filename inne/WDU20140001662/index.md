@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ułatwieniu wykonywania działalności gospodarczej
+# Ustawa z dnia 7 listopada 2014 r. o ułatwieniu wykonywania działalności gospodarczej
 
 *USTAWA z dnia 7 listopada 2014 r.*
 

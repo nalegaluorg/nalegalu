@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 30 października 2002 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska oraz ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 30 października 2002 r.*
 

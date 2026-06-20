@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o gwarancjach wolności sumienia i wyznania
 
 | Pole | Wartość |
 |---|---|

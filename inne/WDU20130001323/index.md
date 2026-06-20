@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej
+# Ustawa z dnia 27 września 2013 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz ustawy o europejskim ugrupowaniu współpracy terytorialnej
 
 *USTAWA z dnia 27 września 2013 r.*
 

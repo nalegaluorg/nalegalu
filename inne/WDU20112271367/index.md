@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przewozie towarów niebezpiecznych
+# Ustawa z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-10-24 |
 | Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112271367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1367/text.pdf) |
-
-Art. 115–124. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1489,6 +1487,8 @@ Art. 115–124. (pominięte)
 **Art. 114a.** Kary pieniężne, o których mowa w art. 107, art. 108 i art. 112a, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 115–124.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

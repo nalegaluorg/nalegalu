@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności ubezpieczeniowej i reasekuracyjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działalności ubezpieczeniowej i reasekuracyjnej
 
 *USTAWA z dnia 11 września 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-11-06 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1526/text.pdf) |
-
-Art. 441–479. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -78,9 +76,10 @@ Art. 441–479. (pominięte)
     - **c)** w grupach 3, 8, 9, 10, 13 i 16 – w przypadku gdy ubezpieczający przekracza co najmniej dwa z następujących progów w roku obrotowym: – sumę aktywów bilansu w wysokości równowartości w złotych 6,6 mln euro, – łączne przychody netto ze sprzedaży towarów i usług oraz operacji finansowych w wysokości równowartości w złotych 13,6 mln euro, – średnioroczne zatrudnienie w przeliczeniu na pełne etaty w liczbie 250 osób;
 
 - **7)** efekty dywersyfikacji – ograniczenie ekspozycji na ryzyko zakładów ubezpieczeń i zakładów reasekuracji oraz grup związane z dywersyfikacją ich działalności, wynikające z faktu, że strata z tytułu realizacji jednego rodzaju ryzyka może zostać skompensowana brakiem realizacji lub niepełną realizacją innego rodzaju ryzyka, w przypadku gdy ryzyka te nie są w pełni skorelowane;
-- **8)** EIOPA – Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”; <8a) europejski pojedynczy punkt dostępu – europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ), zwanego dalej „rozporządzeniem 2023/2859”;>
-- **9)** firma inwestycyjna – firmę inwestycyjną w rozumieniu art. 3 pkt 3 lit. a–f ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego; <9a) format nadający się do odczytu maszynowego – format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
-- **9b)** format umożliwiający ekstrakcję danych – format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;>
+- **8)** EIOPA – Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, ustanowiony na mocy rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm. ), zwanego dalej „rozporządzeniem 1094/2010”;
+- **8a)** europejski pojedynczy punkt dostępu – europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ), zwanego dalej „rozporządzeniem 2023/2859”;
+- **9)** firma inwestycyjna – firmę inwestycyjną w rozumieniu art. 3 pkt 3 lit. a–f ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego;
+- **9a)** format nadający się do odczytu maszynowego – format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524); 9b) format umożliwiający ekstrakcję danych – format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
 - **10)** funkcja należąca do systemu zarządzania – zdolność zakładu ubezpieczeń lub zakładu reasekuracji do wykonywania poszczególnych zadań w ramach systemu zarządzania;
 - **11)** główny oddział – oddział w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621) zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej lub zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej;
 - **12)** grupa – grupę podmiotów:
@@ -94,7 +93,8 @@ Art. 441–479. (pominięte)
 - **16a)** koasekurator wiodący ‒ zakład ubezpieczeń wybrany spośród uczestników umowy koasekuracyjnej do realizacji czynności określonych w tej umowie w imieniu własnym i pozostałych zakładów ubezpieczeń współubezpieczających;
 - **17)** kolegium organów nadzoru – stałą, elastyczną strukturę współpracy, koordynacji i ułatwiania wydawania rozstrzygnięć dotyczących nadzoru nad grupą;
 - **18)** krajowy zakład ubezpieczeń – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ) z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej;
-- **19)** krajowy zakład reasekuracji – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności reasekuracyjnej na terytorium Rzeczypospolitej Polskiej; <19a) metadane – metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;>
+- **19)** krajowy zakład reasekuracji – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców z siedzibą na terytorium Rzeczypospolitej Polskiej, który uzyskał zezwolenie na wykonywanie działalności reasekuracyjnej na terytorium Rzeczypospolitej Polskiej;
+- **19a)** metadane – metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
 - **20)** miara ryzyka – funkcję matematyczną, która przyporządkowuje kwotę pieniężną danej prognozie rozkładu prawdopodobieństwa i rośnie monotonicznie wraz z poziomem ekspozycji na ryzyko stanowiącym podstawę danej prognozy rozkładu prawdopodobieństwa;
 - **21)** mieszany dominujący podmiot ubezpieczeniowy – inną niż Skarb Państwa jednostkę dominującą, której przynajmniej jedną z jednostek zależnych jest zakład ubezpieczeń lub zakład reasekuracji, niebędącą:
     - **a)** zakładem ubezpieczeń,
@@ -2263,7 +2263,7 @@ Art. 441–479. (pominięte)
 - **1)** nazwą (firmą) zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 2. W przypadku gdy plan działalności, o którym mowa w art. 162 ust. 3 pkt 14, wskazuje, że krajowy zakład ubezpieczeń lub krajowy zakład reasekuracji zamierza wykonywać działalność na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w ramach swobody świadczenia usług lub przez oddział i działalność ta mogłaby być istotna dla rynku przyjmującego państwa członkowskiego Unii Europejskiej, organ nadzoru powiadamia o zamiarze wydania zezwolenia, o którym mowa w art. 162 ust. 1 i art. 169 ust. 1, EIOPA oraz organ nadzorczy przyjmującego państwa członkowskiego Unii Europejskiej.
 
@@ -2970,7 +2970,11 @@ Art. 441–479. (pominięte)
 
 5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej zakładu ubezpieczeń lub zakładu reasekuracji oraz są uaktualniane co rok, a także w przypadku istotnej zmiany.
 
-6. Zakład ubezpieczeń i zakład reasekuracji mogą zamieszczać informacje, o których mowa w ust. 1–4, w sprawozdaniu o wypłacalności i kondycji finansowej, o którym mowa w art. 284. <Art. 222da. 1. Zakład ubezpieczeń i zakład reasekuracji równocześnie z publikacją dokumentów, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, przekazują te dokumenty organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie dokumentu w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
+6. Zakład ubezpieczeń i zakład reasekuracji mogą zamieszczać informacje, o których mowa w ust. 1–4, w sprawozdaniu o wypłacalności i kondycji finansowej, o którym mowa w art. 284.
+
+**Art. 222da.**
+
+1. Zakład ubezpieczeń i zakład reasekuracji równocześnie z publikacją dokumentów, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, przekazują te dokumenty organowi nadzoru w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie dokumentu w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 14c ust. 4 dyrektywy 2007/36/WE Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie wykonywania niektórych praw akcjonariuszy spółek notowanych na rynku regulowanym (Dz. Urz. UE L 184 z 14.07.2007, str. 17, z późn. zm. ).
 
 2. Dokumenty, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, są opatrywane następującymi metadanymi:
 
@@ -2983,7 +2987,7 @@ Art. 441–479. (pominięte)
 
 3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, zakład ubezpieczeń i zakład reasekuracji występują o nadanie identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-4. Organ nadzoru udostępnia dokumenty, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, w europejskim pojedynczym punkcie dostępu.>
+4. Organ nadzoru udostępnia dokumenty, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 222e.** Za [opracowanie i publikację] <opracowanie, publikację i przekazanie organowi nadzoru> dokumentów, o których mowa w art. 222b ust. 1, 3 i 4 oraz art. 222d ust. 1, 2 i 4, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu odpowiednio zakładu ubezpieczeń albo zakładu reasekuracji.
 
@@ -3868,7 +3872,7 @@ Art. 441–479. (pominięte)
 
 8. Na potrzeby przekazania metadanej, o której mowa w ust. 7 pkt 2, zakład ubezpieczeń i zakład reasekuracji występują o nadanie identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-9. Organ nadzoru udostępnia informacje, o których mowa w ust. 1, 3 i 4 oraz art. 285, w europejskim pojedynczym punkcie dostępu. >
+9. Organ nadzoru udostępnia informacje, o których mowa w ust. 1, 3 i 4 oraz art. 285, w europejskim pojedynczym punkcie dostępu.
 
 **Art. 288.** Wraz ze sprawozdaniem o wypłacalności i kondycji finansowej zakład ubezpieczeń ujawnia dane statystyczne dotyczące postępowań pozasądowych, o których mowa w rozdziale 4 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146 i 1069), z udziałem tego zakładu ubezpieczeń.
 
@@ -4220,7 +4224,7 @@ Art. 441–479. (pominięte)
 - **1)** nazwą (firmą) zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe. >
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 318.** Likwidacja zakładu ubezpieczeń lub zakładu reasekuracji następuje w przypadku:
 
@@ -4337,7 +4341,7 @@ Art. 441–479. (pominięte)
 - **1)** nazwą (firmą) zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego zakładu ubezpieczeń albo zakładu reasekuracji, których dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany organowi nadzoru;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe. >
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 324.**
 
@@ -5963,6 +5967,8 @@ Art. 441–479. (pominięte)
 2. Jeżeli sprawca dopuszcza się czynu, o którym mowa w ust. 1, w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 5.
 
 #### Rozdział 18 Zmiany w przepisach obowiązujących
+
+**Art. 441–479.** (pominięte)
 
 #### Rozdział 19 Przepisy przejściowe i dostosowujące
 

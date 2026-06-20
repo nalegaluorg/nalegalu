@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie terytorialnym oraz ustawy - Prawo budżetowe
+# Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o samorządzie terytorialnym oraz ustawy - Prawo budżetowe.
 
 *USTAWA z dnia 22 sierpnia 1997 r.*
 

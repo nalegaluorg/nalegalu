@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Solidarnościowym
+# Ustawa z dnia 23 października 2018 r. o Funduszu Solidarnościowym
 
 *USTAWA z dnia 23 października 2018 r.*
 
@@ -108,7 +108,9 @@ source: pdf
 
 2. Wysokość odpisu ustala się corocznie w planie finansowym Funduszu.
 
-3. Środki Funduszu są przekazywane na rachunek Funduszu Dostępności w terminie 21 dni od dnia ogłoszenia ustawy budżetowej na dany rok budżetowy. Art. 6aa. Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz na koszty ich obsługi, na zasadach określonych w tej ustawie.
+3. Środki Funduszu są przekazywane na rachunek Funduszu Dostępności w terminie 21 dni od dnia ogłoszenia ustawy budżetowej na dany rok budżetowy.
+
+**Art. 6aa.** Środki Funduszu przeznacza się także na wsparcie udzielane w ramach programów, o których mowa w art. 31 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej, oraz na koszty ich obsługi, na zasadach określonych w tej ustawie.
 
 **Art. 6b.**
 
@@ -306,7 +308,9 @@ source: pdf
 
 **Art. 18a.** (uchylony)
 
-**Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Funduszu, mając na względzie zapewnienie racjonalności gospodarowania środkami Funduszu. Art. 20–31. (pominięte)
+**Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Funduszu, mając na względzie zapewnienie racjonalności gospodarowania środkami Funduszu.
+
+**Art. 20–31.** (pominięte)
 
 **Art. 31a.**
 

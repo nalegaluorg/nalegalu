@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie załogi przedsiębiorstwa państwowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie załogi przedsiębiorstwa państwowego
 
 *USTAWA z dnia 25 września 1981 r.*
 

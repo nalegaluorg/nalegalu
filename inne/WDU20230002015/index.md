@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 4 kwietnia 2014 r.
 o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą
-Art. 40–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -464,6 +463,8 @@ Art. 40–47. (pominięte)
 **Art. 39.** Świadczenia odszkodowawcze, w tym przyznane na podstawie art. 14, wypłaca jednostka organizacyjna, na której zaopatrzeniu finansowym funkcjonariusz pozostaje, albo w przypadku funkcjonariusza zwolnionego albo zmarłego, albo zaginionego – jednostka, na której zaopatrzeniu pozostawał przed dniem zwolnienia albo śmierci, albo zaginięcia, w terminie 14 dni od dnia wydania decyzji.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 40–47.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

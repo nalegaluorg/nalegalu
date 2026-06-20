@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o tachografach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o tachografach
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 5 lipca 2018 r.
 o tachografach
-Art. 58–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1029,6 +1028,8 @@ Art. 58–62. (pominięte)
 **Art. 57a.** Grzywny, o których mowa w art. 57, pobierane przez organy Inspekcji Transportu Drogowego stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 58–62.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

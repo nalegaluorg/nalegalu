@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dokumentach publicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dokumentach publicznych
 
 *USTAWA z dnia 22 listopada 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-11-15 |
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001669) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1669/text.pdf) |
-
-Art. 59–71. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -574,6 +572,8 @@ Art. 59–71. (pominięte)
 **Art. 58.** Kto wytwarza, oferuje, zbywa lub przechowuje w celu zbycia replikę dokumentu publicznego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 59–71.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe, dostosowujące i końcowe
 

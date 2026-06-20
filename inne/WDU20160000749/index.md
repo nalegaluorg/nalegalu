@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw
+# Ustawa z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 kwietnia 2016 r.*
 

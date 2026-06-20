@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
+# Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
 
 *USTAWA z dnia 25 listopada 2004 r.*
 

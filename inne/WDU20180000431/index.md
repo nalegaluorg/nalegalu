@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 stycznia 2018 r.*
 

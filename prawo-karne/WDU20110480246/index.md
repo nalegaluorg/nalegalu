@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 20 stycznia 2011 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA Opracowano stawie z dnia 20 stycznia 2011 r. r.*
 

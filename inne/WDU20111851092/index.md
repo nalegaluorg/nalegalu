@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kontroli w administracji rządowej
+# Ustawa z dnia 15 lipca 2011 r. o kontroli w administracji rządowej
 
 *USTAWA z dnia 15 lipca 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-09-06 |
 | Ostatnia zmiana | 2026-02-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1092/text.pdf) |
-
-Art. 58–76. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -466,6 +464,8 @@ Art. 58–76. (pominięte)
 2. Kierownik jednostki kontrolującej może przesłać informację o wynikach kontroli do innych organów lub jednostek, które uzna za właściwe.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 58–76.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

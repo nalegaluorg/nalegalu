@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 21 listopada 2008 r. r. Nr 223, poz.
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA Opracowano stawie: Dz.U.*
 

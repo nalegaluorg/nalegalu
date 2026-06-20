@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym oraz ustawy o organizacji niektórych rynków rolnych
+# Ustawa z dnia 27 października 2017 r. o zmianie ustawy o podatku akcyzowym oraz ustawy o organizacji niektórych rynków rolnych
 
 *USTAWA z dnia 27 października 2017 r.*
 
@@ -74,7 +74,13 @@ source: pdf
 **Art. 2.** W ustawie z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2017 r. poz. 1006 i 1503) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) zasady monitorowania uprawy tytoniu oraz produkcji i zbytu wysuszonych liści tytoniu, zwanych dalej „surowcem tytoniowym”, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego.”;
-- **2)** po rozdziale 9b dodaje się rozdział 9ba w brzmieniu: „Rozdział 9ba Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego Art. 40ha. Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy. Art. 40hb. 1. Decyzje w sprawach wpisu do rejestru producentów surowca tytoniowego wydaje dyrektor oddziału terenowego Krajowego Ośrodka właściwy ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy, na wniosek tego producenta rolnego.
+- **2)** po rozdziale 9b dodaje się rozdział 9ba w brzmieniu: „Rozdział 9ba Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego
+
+**Art. 40ha.** Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy.
+
+**Art. 40hb.**
+
+1. Decyzje w sprawach wpisu do rejestru producentów surowca tytoniowego wydaje dyrektor oddziału terenowego Krajowego Ośrodka właściwy ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy, na wniosek tego producenta rolnego.
 
 2. Wniosek zawiera:
 
@@ -86,7 +92,11 @@ source: pdf
 
 3. Wniosek składa się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
 
-4. W przypadku zmiany danych zawartych we wniosku producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia tych zmian. Art. 40hc. 1. Producent surowca tytoniowego przekazuje do dnia 15 maja każdego roku dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru producentów surowca tytoniowego, informacje:
+4. W przypadku zmiany danych zawartych we wniosku producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia tych zmian.
+
+**Art. 40hc.**
+
+1. Producent surowca tytoniowego przekazuje do dnia 15 maja każdego roku dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru producentów surowca tytoniowego, informacje:
 
 - **1)** o powierzchni uprawy poszczególnych grup odmian tytoniu w poprzednim roku zbiorów, z podaniem identyfikatorów działek ewidencyjnych, na których był uprawiany tytoń;
 - **2)** dotyczące zawartych w poprzednim roku zbiorów umów zbycia surowca tytoniowego, w tym:
@@ -105,7 +115,11 @@ source: pdf
 
 2. Informacje, o których mowa w ust. 1, przekazuje się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
 
-3. W przypadku zmiany danych zawartych w informacjach, o których mowa w ust. 1, producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia konieczności ich wprowadzenia. Art. 40hd. 1. W przypadku gdy producent surowca tytoniowego zamierza dokonać zniszczenia surowca tytoniowego, o zamiarze tym powiadamia dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha, co najmniej na 3 dni robocze przed dokonaniem zniszczenia, podając szacunkową masę surowca tytoniowego, który ma ulec zniszczeniu, oraz sposób zniszczenia surowca tytoniowego.
+3. W przypadku zmiany danych zawartych w informacjach, o których mowa w ust. 1, producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia konieczności ich wprowadzenia.
+
+**Art. 40hd.**
+
+1. W przypadku gdy producent surowca tytoniowego zamierza dokonać zniszczenia surowca tytoniowego, o zamiarze tym powiadamia dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha, co najmniej na 3 dni robocze przed dokonaniem zniszczenia, podając szacunkową masę surowca tytoniowego, który ma ulec zniszczeniu, oraz sposób zniszczenia surowca tytoniowego.
 
 2. W zniszczeniu, o którym mowa w ust. 1, bierze udział producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, lub osoba upoważniona przez producenta surowca tytoniowego.
 
@@ -140,7 +154,11 @@ source: pdf
 
 13. W przypadku uznania zgłoszonych zastrzeżeń zmiany w protokole wprowadza się w formie aneksu do protokołu. Aneks do protokołu podpisuje osoba, o której mowa w ust. 3, sporządzający aneks i producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, albo osoba upoważniona przez producenta surowca tytoniowego.
 
-14. W przypadku nieuznania zastrzeżeń w całości lub w części, Dyrektor Generalny Krajowego Ośrodka przekazuje niezwłocznie swoje stanowisko na piśmie producentowi surowca tytoniowego, o którym mowa w ust. 11. Art. 40he. 1. Rejestr, o którym mowa w art. 40ha:
+14. W przypadku nieuznania zastrzeżeń w całości lub w części, Dyrektor Generalny Krajowego Ośrodka przekazuje niezwłocznie swoje stanowisko na piśmie producentowi surowca tytoniowego, o którym mowa w ust. 11.
+
+**Art. 40he.**
+
+1. Rejestr, o którym mowa w art. 40ha:
 
 - **1)** jest prowadzony w systemie teleinformatycznym;
 - **2)** zawiera dane, o których mowa w art. 40hb ust. 2, oraz informacje, o których mowa w art. 40hc ust. 1.
@@ -153,7 +171,11 @@ source: pdf
 
 3. Dane, o których mowa w art. 40hb ust. 2, przechowuje się przez 5 lat od dnia wykreślenia producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
 
-4. Informacje, o których mowa w art. 40hc ust. 1 i 3, przechowuje się przez 5 lat od dnia ich przekazania do dyrektora oddziału terenowego Krajowego Ośrodka. Art. 40hf. 1. Producent surowca tytoniowego, który zaprzestał uprawy tytoniu, informuje o tym dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha.
+4. Informacje, o których mowa w art. 40hc ust. 1 i 3, przechowuje się przez 5 lat od dnia ich przekazania do dyrektora oddziału terenowego Krajowego Ośrodka.
+
+**Art. 40hf.**
+
+1. Producent surowca tytoniowego, który zaprzestał uprawy tytoniu, informuje o tym dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha.
 
 2. W przypadku, o którym mowa w ust. 1, dyrektor oddziału terenowego Krajowego Ośrodka wykreśla, w drodze decyzji, producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
 
@@ -174,11 +196,21 @@ source: pdf
 
 6. Przepisu art. 38q ust. 3 dotyczącego terminu zawarcia umowy nie stosuje się w przypadku, o którym mowa w ust. 4 pkt 1.
 
-7. Do zniszczenia surowca tytoniowego, o którym mowa w ust. 4 pkt 2, stosuje się przepisy art. 40hd ust. 2–14. Art. 40hg. Dyrektor oddziału terenowego Krajowego Ośrodka, który wydał decyzję o wykreśleniu producenta, o którym mowa w art. 40hf ust. 4, z rejestru, o którym mowa w art. 40ha, jest upoważniony do przeprowadzania kontroli producenta surowca tytoniowego do czasu zbycia albo zniszczenia surowca tytoniowego będącego w jego posiadaniu w dniu wykreślenia z tego rejestru. Art. 40hh. 1. Krajowy Ośrodek przeprowadza kontrolę poprawności sporządzenia oraz zgodności ze stanem faktycznym informacji zawartych we wniosku, o którym mowa w art. 40hb ust. 2, oraz informacji, o których mowa w art. 40hc ust. 1.
+7. Do zniszczenia surowca tytoniowego, o którym mowa w ust. 4 pkt 2, stosuje się przepisy art. 40hd ust. 2–14.
+
+**Art. 40hg.** Dyrektor oddziału terenowego Krajowego Ośrodka, który wydał decyzję o wykreśleniu producenta, o którym mowa w art. 40hf ust. 4, z rejestru, o którym mowa w art. 40ha, jest upoważniony do przeprowadzania kontroli producenta surowca tytoniowego do czasu zbycia albo zniszczenia surowca tytoniowego będącego w jego posiadaniu w dniu wykreślenia z tego rejestru.
+
+**Art. 40hh.**
+
+1. Krajowy Ośrodek przeprowadza kontrolę poprawności sporządzenia oraz zgodności ze stanem faktycznym informacji zawartych we wniosku, o którym mowa w art. 40hb ust. 2, oraz informacji, o których mowa w art. 40hc ust. 1.
 
 2. W ramach kontroli, o której mowa w ust. 1, czynności kontrolne w danym roku zbiorów są wykonywane co najmniej u 5% producentów surowca tytoniowego.
 
-3. W przypadku gdy z wykonanych czynności kontrolnych wynika, że informacje zawarte w rejestrze, o którym mowa w art. 40ha, są niezgodne ze stanem faktycznym, dyrektor oddziału terenowego Krajowego Ośrodka dokonuje z urzędu zmian w tym rejestrze oraz informuje producenta surowca tytoniowego o dokonaniu tych zmian. Art. 40hi. 1. Dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na koszt podmiotu prowadzącego tę uprawę, w przypadku gdy podmiot ten uprawia tytoń bez uzyskania wpisu do rejestru, o którym mowa w art. 40ha. Decyzja ta podlega natychmiastowemu wykonaniu.
+3. W przypadku gdy z wykonanych czynności kontrolnych wynika, że informacje zawarte w rejestrze, o którym mowa w art. 40ha, są niezgodne ze stanem faktycznym, dyrektor oddziału terenowego Krajowego Ośrodka dokonuje z urzędu zmian w tym rejestrze oraz informuje producenta surowca tytoniowego o dokonaniu tych zmian.
+
+**Art. 40hi.**
+
+1. Dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na koszt podmiotu prowadzącego tę uprawę, w przypadku gdy podmiot ten uprawia tytoń bez uzyskania wpisu do rejestru, o którym mowa w art. 40ha. Decyzja ta podlega natychmiastowemu wykonaniu.
 
 2. Zniszczenia, o którym mowa w ust. 1, dokonuje się pod nadzorem osoby upoważnionej przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych.
 

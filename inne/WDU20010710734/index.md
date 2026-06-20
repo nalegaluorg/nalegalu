@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatkach mieszkaniowych
+# Ustawa z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych.
 
 *USTAWA z dnia 21 czerwca 2001 r.*
 

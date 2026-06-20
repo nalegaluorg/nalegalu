@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie roślin przed agrofagami
+# Ustawa z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami
 
 *USTAWA z dnia 13 lutego 2020 r.*
 

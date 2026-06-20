@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o własności lokali oraz zmieniająca ustawę o zmianie ustawy o własności lokali
+# Ustawa z dnia 16 marca 2000 r. o zmianie ustawy o własności lokali oraz zmieniająca ustawę o zmianie ustawy o własności lokali.
 
 *USTAWA z dnia 16 marca 2000 r.*
 

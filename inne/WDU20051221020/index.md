@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach samorządowych, ustawy o samorządowych kolegiach odwoławczych i ustawy o systemie oświaty
+# Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o pracownikach samorządowych, ustawy o samorządowych kolegiach odwoławczych i ustawy o systemie oświaty
 
 *USTAWA z dnia 6 maja 2005 r.*
 

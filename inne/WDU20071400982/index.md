@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie granicy państwowej oraz ustawy o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o ochronie granicy państwowej oraz ustawy o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
+# Ustawa z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
 
 *USTAWA z dnia 14 czerwca 1991 r.*
 

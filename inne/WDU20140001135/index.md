@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o konsultantach w ochronie zdrowia
+# Ustawa z dnia 22 lipca 2014 r. o zmianie ustawy o konsultantach w ochronie zdrowia
 
 *USTAWA z dnia 22 lipca 2014 r.*
 

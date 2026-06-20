@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o podatku od wydobycia niektórych kopalin
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o podatku od wydobycia niektórych kopalin
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

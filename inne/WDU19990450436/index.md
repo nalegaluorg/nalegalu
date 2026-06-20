@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Straży Pożarnej
+# Ustawa z dnia 8 kwietnia 1999 r. o zmianie ustawy o Państwowej Straży Pożarnej.
 
 *USTAWA z dnia 8 kwietnia 1999 r.*
 

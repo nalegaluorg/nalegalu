@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o samorządach zawodowych architektów oraz inżynierów budownictwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 | Pole | Wartość |
 |---|---|

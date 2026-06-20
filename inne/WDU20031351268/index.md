@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rencie socjalnej
+# Ustawa z dnia 27 czerwca 2003 r. o rencie socjalnej
 
 *USTAWA z dnia 27 czerwca 2003 r.*
 
@@ -54,11 +54,13 @@ source: pdf
 - **1)** renta socjalna stała – jeżeli całkowita niezdolność do pracy jest trwała;
 - **2)** renta socjalna okresowa – jeżeli całkowita niezdolność do pracy jest okresowa.
 
-3. Renta socjalna okresowa przysługuje przez okres wskazany w decyzji jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, zwanego dalej „Zakładem”. [Art. 5. 1. Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”, na zasadach i w trybie określonych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”.
+3. Renta socjalna okresowa przysługuje przez okres wskazany w decyzji jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych, zwanego dalej „Zakładem”.
 
-2. Ustalając całkowitą niezdolność do pracy, lekarz orzecznik, za zgodą osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego, zgłoszoną niepóźniej niż w trakcie badania tej osoby, ustala niezdolność tej osoby do samodzielnej egzystencji, na zasadach i w trybie określonym ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w celu uzyskania świadczenia, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), lub dodatku dopełniającego, o którym mowa w art. 6a.] <Art. 5. 1. Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”, na zasadach i w trybie określonych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”, oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i 252).
+**Art. 5.**
 
-2. Ustalając całkowitą niezdolność do pracy, lekarz orzecznik, za zgodą osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego, zgłoszoną niepóźniej niż w trakcie badania tej osoby, ustala niezdolność tej osoby do samodzielnej egzystencji, na zasadach i w trybie określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu uzyskania świadczenia, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), lub dodatku dopełniającego, o którym mowa w art. 6a.>
+1. Ustalenia całkowitej niezdolności do pracy dokonuje lekarz orzecznik Zakładu, zwany dalej „lekarzem orzecznikiem”, na zasadach i w trybie określonych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26), zwanej dalej „ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”, oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199 i 252).
+
+2. Ustalając całkowitą niezdolność do pracy, lekarz orzecznik, za zgodą osoby ubiegającej się o rentę socjalną lub jej przedstawiciela ustawowego, zgłoszoną niepóźniej niż w trakcie badania tej osoby, ustala niezdolność tej osoby do samodzielnej egzystencji, na zasadach i w trybie określonych w ustawie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu uzyskania świadczenia, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), lub dodatku dopełniającego, o którym mowa w art. 6a.
 
 **Art. 6.**
 
@@ -252,7 +254,9 @@ source: pdf
 - **1)** art. 12–14, art. 61, art. 78–81, art. 93 ust. 2, art. 98, art. 100 ust. 1 i 2, art. 101, art. 102 ust. 1, art. 104 ust. 4, art. 107, art. 114, art. 116 ust. 1b i 2, art. 118 ust. 1–5, art. 119 ust. 1, art. 121, art. 122 ust. 1, art. 126, art. 128, art. 129 ust. 1, art. 130 ust. 1, art. 133–135, art. 136a i art. 138–144 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz przepisy wydane na podstawie art. 128a tej ustawy;
 - **2)** art. 80–82, art. 84 ust. 1, 1a, 4, 4a, 6–8e i 11 oraz art. 85 ustawy o systemie ubezpieczeń społecznych.
 
-**Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej. Art. 17–25. (pominięte)
+**Art. 16.** W postępowaniu w sprawach o rentę socjalną oraz dodatek dopełniający stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że niniejsza ustawa stanowi inaczej.
+
+**Art. 17–25.** (pominięte)
 
 **Art. 26.** (pominięty)
 

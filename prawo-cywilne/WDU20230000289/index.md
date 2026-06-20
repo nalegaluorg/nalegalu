@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 stycznia 2023 r.*
 
@@ -118,7 +118,11 @@ source: pdf
 - **3)** użyte w art. 15aa w ust. 7, w art. 15ab w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 15ac w ust. 1 w pkt 3, w art. 15ad w ust. 2, w art. 15af w ust. 1 i 2, w art. 15ag w ust. 1 w pkt 2 i w ust. 3, w art. 15ai w ust. 1 oraz w art. 15aj w ust. 4, w różnym przypadku, wyrazy „nakaz lub zakaz” zastępuje się użytymi w odpowiednim przypadku wyrazami „nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu”;
 - **4)** po art. 15aa dodaje się art. 15aaa i art. 15aab w brzmieniu: „Art. 15aaa. 1. Policjant ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
 
-2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, policjant ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę. Art. 15aab. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, policjant ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
+
+**Art. 15aab.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
 
 2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
 
@@ -303,9 +307,17 @@ source: pdf
 
 - **4)** po art. 18a dodaje się art. 18aa–18ac w brzmieniu: „Art. 18aa. 1. Żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową w rozumieniu przepisów ustawy o przeciwdziałaniu przemocy domowej, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz zbliżania się do tej osoby na wyrażoną w metrach odległość, zwany dalej „zakazem zbliżania”, lub zakaz kontaktowania się z osobą doznającą przemocy domowej, zwany dalej „zakazem kontaktowania”.
 
-2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę. Art. 18ab. 1. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc domową stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, policjant ma prawo wydać nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wobec żołnierza pełniącego czynną służbę wojskową. Przepisy art. 15aa ust. 1 i art. 15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji stosuje się odpowiednio.
+2. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, żołnierz Żandarmerii Wojskowej ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, zwany dalej „zakazem wstępu”, chyba że osoba stosująca przemoc jest tam zatrudniona lub pobiera naukę.
 
-2. W przypadku, o którym mowa w ust. 1, Policja wykonuje czynności wskazane w art. 15ab ust. 4, 9 i 11, art. 15ad ust. 1 i 1a, art. 15ae ust. 1 i 7 oraz art. 15ag ustawy z dnia 6 kwietnia 1990 r. o Policji. Art. 18ac. 1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
+**Art. 18ab.**
+
+1. W uzasadnionych przypadkach, w szczególności gdy przybycie Żandarmerii Wojskowej na miejsce interwencji jest niemożliwe lub znacznie utrudnione, a na podstawie ustalonych okoliczności policjant stwierdził, że osoba stosująca przemoc domową stwarza zagrożenie dla życia lub zdrowia osoby doznającej tej przemocy, policjant ma prawo wydać nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu wobec żołnierza pełniącego czynną służbę wojskową. Przepisy art. 15aa ust. 1 i art. 15aaa ustawy z dnia 6 kwietnia 1990 r. o Policji stosuje się odpowiednio.
+
+2. W przypadku, o którym mowa w ust. 1, Policja wykonuje czynności wskazane w art. 15ab ust. 4, 9 i 11, art. 15ad ust. 1 i 1a, art. 15ae ust. 1 i 7 oraz art. 15ag ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+**Art. 18ac.**
+
+1. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania lub zakaz wstępu mogą być stosowane łącznie.
 
 2. Nakaz i zakaz, zakaz zbliżania, zakaz kontaktowania oraz zakaz wstępu są natychmiast wykonalne.
 
@@ -401,7 +413,9 @@ source: pdf
 
 3. Sąd nie jest związany żądaniem wniosku o zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia w zakresie wskazanej w nim odległości lub obszaru lub zakazu zbliżania się do osoby doznającej przemocy domowej w zakresie wskazanej w nim odległości, a także żądaniem wniosku o wydanie zakazu kontaktowania.
 
-4. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, może ona żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla jej życia lub zdrowia, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie. Art. 11ab. Rozpoznając sprawę o zmianę lub uchylenie postanowienia, o którym mowa w art. 11a ust. 1 oraz art. 11aa ust. 1, 2 i 4, sąd uwzględnia okoliczności dotyczące osób doznających przemocy domowej oraz osób stosujących tę przemoc, w tym w szczególności informacje o:
+4. Jeżeli osoba doznająca przemocy domowej uczęszcza do szkoły, placówki oświatowej, opiekuńczej lub artystycznej, uprawia sport lub pracuje, może ona żądać, aby sąd, o którym mowa w art. 11a ust. 1, wydał wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla jej życia lub zdrowia, zakaz wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie.
+
+**Art. 11ab.** Rozpoznając sprawę o zmianę lub uchylenie postanowienia, o którym mowa w art. 11a ust. 1 oraz art. 11aa ust. 1, 2 i 4, sąd uwzględnia okoliczności dotyczące osób doznających przemocy domowej oraz osób stosujących tę przemoc, w tym w szczególności informacje o:
 
 - **1)** przebiegu i efektach działań podjętych i udokumentowanych w ramach procedury „Niebieskie Karty”, o ile procedura taka była prowadzona;
 - **2)** udziale i efektach uczestnictwa w programie korekcyjno-edukacyjnym dla osób stosujących przemoc domową lub programie psychologiczno-terapeutycznym dla osób stosujących przemoc domową;

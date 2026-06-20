@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych ustaw
+# Ustawa z dnia 23 czerwca 2006 r. o zmianie ustawy o specjalnych strefach ekonomicznych oraz niektórych ustaw
 
 *USTAWA z dnia 23 czerwca 2006 r.*
 

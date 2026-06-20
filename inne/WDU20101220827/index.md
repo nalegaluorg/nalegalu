@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA Opracowano stawie: z dnia 10 czerwca 2010 r. r.*
 

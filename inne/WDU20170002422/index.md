@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 listopada 2017 r.*
 
@@ -134,16 +134,9 @@ source: pdf
 
 6. Podmiot transportujący odpady komunalne, inny niż podmiot odbierający odpady komunalne od właścicieli nieruchomości, potwierdza transport odpadów komunalnych w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, niezwłocznie po zakończeniu transportu.”;
 
-- **13)** w art. 76 ust. 2 otrzymuje brzmienie: „2. Sprawozdania wprowadza się do Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami przez wypełnienie elektronicznego formularza za pośrednictwem indywidualnego konta, o którym mowa w art. 55 ust. 1.”; [14) w art. 79 dodaje się ust. 5 w brzmieniu: „5. W BDO gromadzi się również informacje zawarte w dokumentach ewidencji odpadów, o których mowa w art. 67 ust. 1 pkt 1 i 3, oraz w dokumentach określonych w załączniku IB i VII do rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1, z późn. zm. ).”;] <14) w art. 79 dodaje się ust. 5 i 6 w brzmieniu: „5. W BDO gromadzi się również informacje zawarte w:
-- **1)** dokumentach ewidencji odpadów, o których mowa w art. 67 ust. 1;
-- **2)** sprawozdaniach, o których mowa w art. 73–75;
-- **3)** dokumentach, o których mowa w art. 23 ust. 3 oraz art. 24 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
-- **4)** dokumentach, o których mowa w art. 11 ust. 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej;
-- **5)** zaświadczeniach, o których mowa w art. 53 ust. 1, art. 55 ust. 1 i art. 57 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
-- **6)** zaświadczeniach, o których mowa w art. 59a ust. 1 oraz art. 64a ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach.
-
-6. Baza danych o produktach i opakowaniach oraz o gospodarce odpadami umożliwia dla danego rodzaju odpadów identyfikację ich wytwórcy oraz kolejnych posiadaczy tych odpadów.”;> [15) w art. 83 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 oraz 12–18, posiadają uprawnienia do ciągłego dostępu do BDO oraz możliwości weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.”;] <15) w art. 83 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 oraz 12–21, posiadają możliwość weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.”;>
-
+- **13)** w art. 76 ust. 2 otrzymuje brzmienie: „2. Sprawozdania wprowadza się do Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami przez wypełnienie elektronicznego formularza za pośrednictwem indywidualnego konta, o którym mowa w art. 55 ust. 1.”; [14) w art. 79 dodaje się ust. 5 w brzmieniu: „5. W BDO gromadzi się również informacje zawarte w dokumentach ewidencji odpadów, o których mowa w art. 67 ust. 1 pkt 1 i 3, oraz w dokumentach określonych w załączniku IB i VII do rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz. UE L 190 z 12.07.2006, str. 1, z późn. zm. ).”;]
+- **14)** w art. 79 dodaje się ust. 5 i 6 w brzmieniu: „5. W BDO gromadzi się również informacje zawarte w: 1) dokumentach ewidencji odpadów, o których mowa w art. 67 ust. 1; 2) sprawozdaniach, o których mowa w art. 73–75; 3) dokumentach, o których mowa w art. 23 ust. 3 oraz art. 24 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi; 4) dokumentach, o których mowa w art. 11 ust. 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej; 5) zaświadczeniach, o których mowa w art. 53 ust. 1, art. 55 ust. 1 i art. 57 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym; 6) zaświadczeniach, o których mowa w art. 59a ust. 1 oraz art. 64a ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach. 6. Baza danych o produktach i opakowaniach oraz o gospodarce odpadami umożliwia dla danego rodzaju odpadów identyfikację ich wytwórcy oraz kolejnych posiadaczy tych odpadów.”;
+- **15)** w art. 83 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 oraz 12–21, posiadają możliwość weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.”;
 - **16)** w art. 110 w ust. 2 w pkt 1 w lit. g skreśla się wyrazy „ , o których mowa w załączniku nr 3 do ustawy,”;
 - **17)** w art. 158:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) stałych odpadów komunalnych”,
@@ -159,7 +152,11 @@ source: pdf
 - **2)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
 - **3)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2017 i za rok 2018, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
-2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237ab. 1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
+2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
+
+**Art. 237ab.**
+
+1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
 2. Do złożonych sprawozdań, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotychczasowe.”;
 

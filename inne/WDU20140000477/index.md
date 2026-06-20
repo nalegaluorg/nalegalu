@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
 
 *USTAWA z dnia 14 marca 2014 r.*
 

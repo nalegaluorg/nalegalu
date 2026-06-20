@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obywatelstwie polskim
+# Ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim
 
 *USTAWA z dnia 2 kwietnia 2009 r.*
 

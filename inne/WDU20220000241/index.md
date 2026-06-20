@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 

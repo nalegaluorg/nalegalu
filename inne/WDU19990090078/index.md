@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad i trybu wydawania wojewódzkiego dziennika urzędowego.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 22 stycznia 1999 r. w sprawie zasad i trybu wydawania wojewódzkiego dziennika urzędowego
 
 | Pole | Wartość |
 |---|---|

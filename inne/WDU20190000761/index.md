@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty i ustawy – Prawo oświatowe
+# Ustawa z dnia 25 kwietnia 2019 r. o zmianie ustawy o systemie oświaty i ustawy - Prawo oświatowe
 
 *USTAWA z dnia 25 kwietnia 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 24 października 2008 r.*
 

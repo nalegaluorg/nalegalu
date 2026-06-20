@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 18 grudnia 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 grudnia 2020 r.*
 

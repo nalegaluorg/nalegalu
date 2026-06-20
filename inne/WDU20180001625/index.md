@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

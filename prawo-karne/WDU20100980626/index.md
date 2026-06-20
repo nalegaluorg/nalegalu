@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny, ustawy o Policji, ustawy – Przepisy wprowadzające Kodeks karny oraz ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 20 maja 2010 r. o zmianie ustawy - Kodeks karny, ustawy o Policji, ustawy - Przepisy wprowadzające Kodeks karny oraz ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 20 maja 2010 r.*
 

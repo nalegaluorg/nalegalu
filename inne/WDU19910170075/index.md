@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego Sejm Rzeczypospolitej Polskiej uznaje szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy walczyli o suwerenność i niepodległość Ojczyzny, nie szczędząc życia i zdrowia na polach walki zbrojnej – w formacjach Wojska Polskiego, armii sojuszniczych, a także w podziemnych organizacjach niepodległościowych i w działalności cywilnej – z narażeniem na represje.
+# Ustawa z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
 
 *USTAWA z dnia 24 stycznia 1991 r.*
 
@@ -222,7 +222,7 @@ Kombatantom oraz ofiarom represji należny jest głęboki szacunek wszystkich ro
 - **1)** osobom, które zostały uznane za niezdolne do pracy wskutek niezdolności do pracy pozostającej w związku z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1;
 - **2)** członkom rodzin pozostałym po osobach pobierających w chwili śmierci rentę z tytułu niezdolności do pracy, o której mowa w pkt 1.
 
-3. Za niezdolność do pracy pozostającą w związku z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, uważa się niezdolność do pracy będącą następstwem zranień, kontuzji lub innych obrażeń lub chorób powstałych w związku z tym pobytem. [4. Związek zranień, kontuzji lub innych obrażeń lub chorób z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, a także związek niezdolności do pracy z takim pobytem ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <4. Związek zranień, kontuzji lub innych obrażeń lub chorób z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, a także związek niezdolności do pracy z takim pobytem ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+3. Za niezdolność do pracy pozostającą w związku z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, uważa się niezdolność do pracy będącą następstwem zranień, kontuzji lub innych obrażeń lub chorób powstałych w związku z tym pobytem. [4. Związek zranień, kontuzji lub innych obrażeń lub chorób z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, a także związek niezdolności do pracy z takim pobytem ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych.] <4. Związek zranień, kontuzji lub innych obrażeń lub chorób z pobytem w miejscach, o których mowa w art. 3 i art. 4 ust. 1, a także związek niezdolności do pracy z takim pobytem ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).
 
 5. Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja osoby represjonowanej wystawiona przez organ rentowy.
 

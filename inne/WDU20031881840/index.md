@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw
+# Ustawa z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw
 
 *USTAWA z dnia 2 października 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
+# Ustawa z dnia 18 czerwca 2004 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
 
 *USTAWA z dnia 18 czerwca 2004 r.*
 

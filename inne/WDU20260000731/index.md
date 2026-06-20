@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radcach prawnych
+# Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o radcach prawnych
 
 *USTAWA z dnia 15 maja 2026 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku rolnym oraz ustawy o podatku leśnym
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku rolnym oraz ustawy o podatku leśnym
 
 *USTAWA z dnia 16 listopada 2006 r.*
 

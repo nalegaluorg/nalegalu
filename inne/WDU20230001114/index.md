@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy państwa w oszczędzaniu na cele mieszkaniowe
+# Ustawa z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-06-15 |
 | Ostatnia zmiana | 2025-08-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1114/text.pdf) |
-
-Art. 21–29. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -61,7 +59,8 @@ Art. 21–29. (pominięte)
 2. Ilekroć w niniejszej ustawie jest mowa o:
 
 - **1)** nabyciu prawa własności lokalu mieszkalnego – należy przez to rozumieć również nabycie prawa własności lokalu mieszkalnego w wyniku realizacji umowy najmu instytucjonalnego z dojściem do własności, o której mowa w art. 19k ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725);
-- **2)** prawie własności – należy przez to rozumieć również współwłasność; <3) dniu roboczym – należy przez to rozumieć dzień niebędący sobotą lub dniem ustawowo wolnym od pracy.>
+- **2)** prawie własności – należy przez to rozumieć również współwłasność;
+- **3)** dniu roboczym – należy przez to rozumieć dzień niebędący sobotą lub dniem ustawowo wolnym od pracy.
 
 #### Rozdział 2 Konto i lokata
 
@@ -142,7 +141,7 @@ Art. 21–29. (pominięte)
 - **1)** jednym z miesięcy danego roku kalendarzowego lub jednym z miesięcy okresu liczonego od miesiąca, w którym zawarto umowę, o której mowa w art. 4 ust. 2, do końca roku kalendarzowego lub
 - **2)** miesiącu następującym po upływie 10 lat liczonych od dnia 31 grudnia roku kalendarzowego, w którym zawarto umowę, o której mowa w art. 4 ust. 2. [4. W przypadku gdy wpłata, o której mowa w ust. 2, jest dokonywana z innego rachunku bankowego, dniem dokonania wpłaty jest dzień realizacji przekazania środków wskazany przez oszczędzającego w dyspozycji tego przekazu.] <4. W przypadku gdy wpłata, o której mowa w ust. 2, jest dokonywana z innego rachunku bankowego, wpłaty tej dokonuje się nie później niż ostatniego dnia roboczego danego miesiąca. Za dzień dokonania wpłaty uznaje się:
 - **1)** dzień jej zaksięgowania przez bank prowadzący konto lub
-- **2)** dzień wskazany w dyspozycji, w przypadku gdy oszczędzający w terminie do 7 dni od dnia poinformowania przez bank prowadzący konto o braku wpłaty dostarczy potwierdzenie dyspozycji wpłaty w tym miesiącu, za który stwierdzono brak wpływu środków; bank prowadzący konto informuje oszczędzającego o braku wpłaty w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nie zaksięgowano wpłaty.>
+- **2)** dzień wskazany w dyspozycji, w przypadku gdy oszczędzający w terminie do 7 dni od dnia poinformowania przez bank prowadzący konto o braku wpłaty dostarczy potwierdzenie dyspozycji wpłaty w tym miesiącu, za który stwierdzono brak wpływu środków; bank prowadzący konto informuje oszczędzającego o braku wpłaty w terminie do 10. dnia miesiąca następującego po miesiącu, w którym nie zaksięgowano wpłaty.
 
 5. Wypłaty zgromadzonych na koncie środków pieniężnych dokonuje się do kwoty tych środków pomniejszonej o kwotę podatku dochodowego niepobranego w okresie prowadzenia konta zgodnie ze zwolnieniem, o którym mowa w art. 21 ust. 1 pkt 159 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863), chyba że wypłata tych środków jest dokonywana na zasadach, o których mowa w rozdziale 3. <6. Pierwsza z wpłat, o których mowa w ust. 2, jest dokonywana nie później niż ostatniego dnia roboczego miesiąca, w którym rozpoczęto prowadzenie konta.>
 
@@ -224,20 +223,18 @@ Art. 21–29. (pominięte)
 - **4)** realizacją inwestycji mieszkaniowej kooperatywy mieszkaniowej przez członka tej kooperatywy,
 - **5)** nabyciem spółdzielczego prawa do lokalu mieszkalnego albo domu jednorodzinnego, w tym jego wykończeniem, lub wniesieniem wkładu budowlanego, o którym mowa w art. 18 ust. 2 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych,
 - **6)** wniesieniem wkładu mieszkaniowego, o którym mowa w art. 10 ust. 2 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych,
-- **7)** wniesieniem kwoty partycypacji, o której mowa w art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440),
-- **8)** remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, wyłączonego z użytkowania na podstawie decyzji organu nadzoru budowlanego, o której mowa w art. 68 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, <9) remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w:
-    - **a)** art. 3 ust. 3 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty, albo
-    - **b)** art. 3 ust. 4 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty> – oszczędzającemu przysługuje premia mieszkaniowa.
+- **7)** wniesieniem kwoty partycypacji, o której mowa w art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440), 8) remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, wyłączonego z użytkowania na podstawie decyzji organu nadzoru budowlanego, o której mowa w art. 68 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
+- **9)** remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w: a) art. 3 ust. 3 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty, albo b) art. 3 ust. 4 pkt 1 albo 2 – w przypadku gdy szacowany koszt tego remontu lub tej przebudowy przewyższa kwotę środków wypłacanych z konta albo lokaty – oszczędzającemu przysługuje premia mieszkaniowa.
 
 2. Prawo do premii mieszkaniowej nie podlega dziedziczeniu.
 
-3. W przypadku gdy warunek, o którym mowa w art. 3 ust. 1 pkt 1, został spełniony w sposób, o którym mowa w art. 3 ust. 3 pkt 1 i 2, premia mieszkaniowa przysługuje, jeżeli:
+3. W przypadku gdy warunek, o którym mowa w art. 3 ust. 1 pkt 1, został spełniony w sposób, o którym mowa w art. 3 ust. 3 pkt 1 i 2, premia mieszkaniowa przysługuje, jeżeli: 1) przed dniem wypłaty środków pieniężnych, o której mowa w ust. 1, oszczędzający zbył prawo własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2, albo [2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 3, odnoszących się do dalszych udziałów w prawie własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2.]
 
-- **1)** przed dniem wypłaty środków pieniężnych, o której mowa w ust. 1, oszczędzający zbył prawo własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2, albo [2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 3, odnoszących się do dalszych udziałów w prawie własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2.] <2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 9 lit. a, lub w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 3, odnoszących się do dalszych udziałów w prawie własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2.>
+- **2)** wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 9 lit. a, lub w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 3, odnoszących się do dalszych udziałów w prawie własności lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2.
 
-4. W przypadku gdy warunek, o którym mowa w art. 3 ust. 1 pkt 2, został spełniony w sposób, o którym mowa w art. 3 ust. 4 pkt 1 i 2, premia mieszkaniowa przysługuje, jeżeli:
+4. W przypadku gdy warunek, o którym mowa w art. 3 ust. 1 pkt 2, został spełniony w sposób, o którym mowa w art. 3 ust. 4 pkt 1 i 2, premia mieszkaniowa przysługuje, jeżeli: 1) przed dniem wypłaty środków pieniężnych, o której mowa w ust. 1, oszczędzający zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2, albo [2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 5, odnoszących się do dalszych udziałów w spółdzielczym prawie do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2.]
 
-- **1)** przed dniem wypłaty środków pieniężnych, o której mowa w ust. 1, oszczędzający zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2, albo [2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 5, odnoszących się do dalszych udziałów w spółdzielczym prawie do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2.] <2) wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 9 lit. b, lub w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 5, odnoszących się do dalszych udziałów w spółdzielczym prawie do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2.>
+- **2)** wypłata środków pieniężnych, o której mowa w ust. 1, jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 9 lit. b, lub w celu pokrycia całości albo części wydatków, o których mowa w ust. 1 pkt 5, odnoszących się do dalszych udziałów w spółdzielczym prawie do lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 4 pkt 1 albo 2.
 
 5. Premia mieszkaniowa nie przysługuje, jeżeli nabycie:
 
@@ -258,7 +255,8 @@ Art. 21–29. (pominięte)
 
 4. W przypadku gdy wyższa z wartości obliczonych zgodnie z ust. 3 jest:
 
-- **1)** wyższa niż 0,15, wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta wynosi 0,15; [2) niższa niż 0,01, wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta wynosi 0,01.] <2) niższa niż 0,04, wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta wynosi 0,04.>
+- **1)** wyższa niż 0,15, wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta wynosi 0,15;
+- **2)** niższa niż 0,04, wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta wynosi 0,04.
 
 5. Wskaźnik premii mieszkaniowej dla danego roku prowadzenia konta ogłasza BGK w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, do dnia 10 marca roku następnego.
 
@@ -288,9 +286,11 @@ Art. 21–29. (pominięte)
     - **b)** art. 10 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 6;
 
 - **6)** rachunek bankowy społecznej inicjatywy mieszkaniowej, po dołączeniu przez oszczędzającego poświadczonej za zgodność z oryginałem przez notariusza lub społeczną inicjatywę mieszkaniową kopii umowy, o której mowa w art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 7;
-- **7)** rachunek bankowy oszczędnościowo-rozliczeniowy, o którym mowa w art. 4 ust. 2 pkt 3, po dołączeniu przez oszczędzającego poświadczonej za zgodność z oryginałem przez notariusza lub organ wydający: <8) rachunek bankowy oszczędnościowo-rozliczeniowy, o którym mowa w art. 4 ust. 2 pkt 3, po dołączeniu przez oszczędzającego informacji o szacowanym koszcie remontu lub przebudowy lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2 albo ust. 4 pkt 1 albo 2 – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 9.>
+- **7)** rachunek bankowy oszczędnościowo-rozliczeniowy, o którym mowa w art. 4 ust. 2 pkt 3, po dołączeniu przez oszczędzającego poświadczonej za zgodność z oryginałem przez notariusza lub organ wydający:
     - **a)** kopii decyzji o pozwoleniu na budowę albo skutecznego zgłoszenia – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 1, jeżeli wydatki te nie są ponoszone w ramach przedsięwzięcia deweloperskiego, albo w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 4, innych niż wskazane w pkt 2, oraz
     - **b)** kopii decyzji, o której mowa w art. 68 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 1 lub 4, w zakresie odbudowy, rozbudowy lub nadbudowy lokalu mieszkalnego albo domu jednorodzinnego, oraz w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 8;
+
+- **8)** rachunek bankowy oszczędnościowo-rozliczeniowy, o którym mowa w art. 4 ust. 2 pkt 3, po dołączeniu przez oszczędzającego informacji o szacowanym koszcie remontu lub przebudowy lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w art. 3 ust. 3 pkt 1 albo 2 albo ust. 4 pkt 1 albo 2 – w przypadku gdy wypłata ta jest dokonywana w celu pokrycia całości albo części wydatków, o których mowa w art. 13 ust. 1 pkt 9.
 
 3. Składając dyspozycję wypłaty zgromadzonych na koncie albo lokacie środków pieniężnych wraz z premią mieszkaniową oszczędzający albo składający ją w jego imieniu przedstawiciel ustawowy składa jednocześnie oświadczenie o nienaruszeniu warunków, o których mowa w art. 3 ust. 1, w okresie prowadzenia konta albo lokaty. Oświadczenie składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -318,7 +318,8 @@ Art. 21–29. (pominięte)
 
 2. W przypadku gdy w okresie 3 lat od dnia wypłaty premii mieszkaniowej oszczędzający:
 
-- **1)** zbył prawo własności lokalu mieszkalnego albo domu jednorodzinnego, [w związku z nabyciem lub wybudowaniem] <w związku z nabyciem, wybudowaniem lub remontem> którego wypłacono premię mieszkaniową, z wyłączeniem rozszerzenia wspólności ustawowej na podstawie art. 47 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), [2) zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, w związku z nabyciem którego wypłacono premię mieszkaniową,] <2) zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, w związku z nabyciem którego wypłacono premię mieszkaniową, albo zbył takie prawo, a premię mieszkaniową wypłacono w związku z remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego objętego tym prawem,>
+- **1)** zbył prawo własności lokalu mieszkalnego albo domu jednorodzinnego, [w związku z nabyciem lub wybudowaniem] <w związku z nabyciem, wybudowaniem lub remontem> którego wypłacono premię mieszkaniową, z wyłączeniem rozszerzenia wspólności ustawowej na podstawie art. 47 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), [2) zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, w związku z nabyciem którego wypłacono premię mieszkaniową,]
+- **2)** zbył spółdzielcze prawo do lokalu mieszkalnego albo domu jednorodzinnego, w związku z nabyciem którego wypłacono premię mieszkaniową, albo zbył takie prawo, a premię mieszkaniową wypłacono w związku z remontem lub przebudową lokalu mieszkalnego albo domu jednorodzinnego objętego tym prawem,
 - **3)** wynajął lokal mieszkalny albo dom jednorodzinny, o którym mowa w pkt 1 i 2, lub jego część innej osobie lub użyczył ten lokal albo dom innej osobie,
 - **4)** zmienił sposób użytkowania lokalu mieszkalnego albo domu jednorodzinnego, o którym mowa w pkt 1 i 2, lub jego części w sposób uniemożliwiający zaspokajanie potrzeb mieszkaniowych – oszczędzający dokonuje zwrotu tej premii do Rządowego Funduszu Mieszkaniowego w kwocie odpowiadającej iloczynowi wypłaconej premii mieszkaniowej oraz wskaźnika równego ilorazowi liczby pełnych miesięcy pozostających do zakończenia okresu 3 lat i liczby 36.
 
@@ -392,6 +393,8 @@ Art. 21–29. (pominięte)
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie innej osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 21–29.** (pominięte)
 
 #### Rozdział 7 Przepis epizodyczny, przepisy przejściowe, przepisy dostosowujące oraz przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad i trybu przyznawania pracownikom Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku.
+# Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 25 marca 1999 r. w sprawie zasad i trybu przyznawania pracownikom Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku.
 
 | Pole | Wartość |
 |---|---|

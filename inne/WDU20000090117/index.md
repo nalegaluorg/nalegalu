@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kulturze fizycznej oraz ustawy o grach losowych i zakładach wzajemnych
+# Ustawa z dnia 20 stycznia 2000 r. o zmianie ustawy o kulturze fizycznej oraz ustawy o grach losowych i zakładach wzajemnych.
 
 *USTAWA z dnia 20 stycznia 2000 r.*
 

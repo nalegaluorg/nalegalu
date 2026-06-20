@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
+# Ustawa z dnia 24 czerwca 2021 r. o zmianie niektórych ustaw związanych ze świadczeniami na rzecz rodziny
 
 *USTAWA z dnia 24 czerwca 2021 r.*
 

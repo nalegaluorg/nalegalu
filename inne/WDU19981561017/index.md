@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu Warszawskiego Krzyża Powstańczego
+# Ustawa z dnia 30 września 1998 r. o zmianie ustawy o ustanowieniu Warszawskiego Krzyża Powstańczego.
 
 *USTAWA z dnia 30 września 1998 r.*
 

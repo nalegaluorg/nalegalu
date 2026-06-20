@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o referendum lokalnym oraz ustawy o referendum ogólnokrajowym
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o referendum lokalnym oraz ustawy o referendum ogólnokrajowym
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

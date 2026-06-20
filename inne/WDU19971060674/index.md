@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie
+# Ustawa z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie.
 
 *USTAWA z dnia 26 czerwca 1997 r.*
 

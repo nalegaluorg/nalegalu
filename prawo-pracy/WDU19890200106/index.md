@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o związkach zawodowych rolników indywidualnych
+# Ustawa z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych.
 
 *USTAWA z dnia 7 kwietnia 1989 r.*
 

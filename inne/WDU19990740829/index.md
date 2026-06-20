@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie ustalenia wykazu wyrobów, które nie mogą być nabywane przez szkoły i placówki, jeżeli dostawca nie przedstawi odpowiedniego certyfikatu.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 7 września 1999 r. zmieniające rozporządzenie w sprawie ustalenia wykazu wyrobów, które nie mogą być nabywane przez szkoły i placówki, jeżeli dostawca nie przedstawi odpowiedniego certyfikatu.
 
 | Pole | Wartość |
 |---|---|

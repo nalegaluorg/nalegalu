@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyrobie napojów spirytusowych
+# Ustawa z dnia 18 października 2006 r. o wyrobie napojów spirytusowych
 
 *USTAWA z dnia 18 października 2006 r.*
 

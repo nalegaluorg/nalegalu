@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 20 marca 2025 r.*
 
@@ -99,7 +99,8 @@ source: pdf
 - **14)** posiada w Rzeczypospolitej Polskiej zezwolenie na pobyt czasowy udzielone w związku z okolicznościami, o których mowa w art. 144, art. 151 ust. 1, art. 151b ust. 1, art. 158 ust. 2 pkt 1 albo 2, art. 161 ust. 2, art. 176 lub art. 186 ust. 1 pkt 3, 4 i 7–9 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub posiada wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych;
 - **15)** jest małżonkiem obywatela polskiego lub osoby, o której mowa w pkt 6–12 lub 14, posiadającym zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej udzielone w związku z zawarciem związku małżeńskiego;
 - **16)** jest zstępnym obywatela polskiego lub osoby, o której mowa w pkt 6–12, 14 lub 15, posiadającym zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej, w wieku do 21 lat lub pozostającym na jej utrzymaniu;
-- **17)** posiada zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 159 ust. 1 lub art. 161b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; [18) przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku spełniał warunki, o których mowa w pkt 14–17.] <18) przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli bezpośrednio przed złożeniem wniosku spełniał warunki, o których mowa w pkt 14–17.>
+- **17)** posiada zezwolenie na pobyt czasowy na terytorium Rzeczypospolitej Polskiej udzielone na podstawie art. 159 ust. 1 lub art. 161b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach; [18) przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku spełniał warunki, o których mowa w pkt 14–17.]
+- **18)** przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli bezpośrednio przed złożeniem wniosku spełniał warunki, o których mowa w pkt 14–17.
 
 2. Cudzoziemiec może wykonywać pracę:
 
@@ -114,9 +115,9 @@ source: pdf
     - **c)** prowadzi badania naukowe lub prace rozwojowe w jednostce naukowej mającej siedzibę na terytorium Rzeczypospolitej Polskiej, zatwierdzonej przez ministra właściwego do spraw wewnętrznych na podstawie przepisów art. 151 ust. 4–5 tej ustawy, i złożył wniosek o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 151b ust. 1 tej ustawy, na warunkach określonych w umowie, o której mowa w art. 151b ust. 1 pkt 2 tej ustawy, lub
     - **d)** wykonuje pracę w zawodzie wymagającym wysokich kwalifikacji na rzecz podmiotu powierzającego mu pracę, z którym zawarł na okres przynajmniej 6 miesięcy umowę o pracę, umowę o pracę nakładczą lub umowę cywilnoprawną, na podstawie której wykonuje pracę, świadczy usługi lub pozostaje w stosunku służbowym, i złożył wniosek o udzielenie zezwolenia na pobyt czasowy, o którym mowa w art. 137a tej ustawy.
 
-3. Cudzoziemiec może wykonywać pracę zgodnie z zezwoleniem na pracę lub oświadczeniem o powierzeniu pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, jeżeli posiada takie zezwolenie lub oświadczenie i jest uprawniony do pobytu na terytorium Rzeczypospolitej Polskiej:
+3. Cudzoziemiec może wykonywać pracę zgodnie z zezwoleniem na pracę lub oświadczeniem o powierzeniu pracy cudzoziemcowi wpisanym do ewidencji oświadczeń, jeżeli posiada takie zezwolenie lub oświadczenie i jest uprawniony do pobytu na terytorium Rzeczypospolitej Polskiej: 1) na podstawie wizy wydanej w celu, o którym mowa w art. 60 ust. 1 pkt 3–10, 12–13b, 17–21 lub 23–24b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub [2) na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku był uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej, lub]
 
-- **1)** na podstawie wizy wydanej w celu, o którym mowa w art. 60 ust. 1 pkt 3–10, 12–13b, 17–21 lub 23–24b ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub [2) na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku był uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej, lub] <2) na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli bezpośrednio przed złożeniem wniosku był uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej, lub >
+- **2)** na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, jeżeli bezpośrednio przed złożeniem wniosku był uprawniony do wykonywania pracy na terytorium Rzeczypospolitej Polskiej, lub
 - **3)** na podstawie zezwolenia na pobyt czasowy, z wyjątkiem zezwolenia udzielonego w związku z okolicznością, o której mowa w art. 181 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub
 - **4)** na podstawie dokumentu, o którym mowa w art. 61 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, określającego status członka rodziny członka misji dyplomatycznej lub urzędu konsularnego państwa obcego albo innej osoby zrównanej z nim na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pozostającego z tą osobą we wspólnocie domowej, jeżeli między Rzecząpospolitą Polską a państwem obcym lub organizacją międzynarodową zostały zawarte umowa lub porozumienie międzynarodowe w sprawie wykonywania działalności zarobkowej przez członków rodzin członków personelu misji dyplomatycznych lub urzędów konsularnych albo osób z nimi zrównanych, lub
 - **5)** na podstawie dokumentu pobytowego wydanego przez inne państwo obszaru Schengen, lub
@@ -625,7 +626,8 @@ source: pdf
 2. Poza przypadkami, o których mowa w art. 18 ust. 1, zmiana lub wydanie nowego zezwolenia na pracę na rzecz polskiego podmiotu powierzającego pracę cudzoziemcowi nie są wymagane, jeżeli:
 
 - **1)** nastąpiła zmiana warunków pracy cudzoziemca na zasadach określonych przepisami art. 9 lub art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) lub art. 4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2025 r. poz. 5 i 620);
-- **2)** zwiększono wymiar czasu pracy określony w zezwoleniu na pracę nie więcej niż do pełnego wymiaru czasu pracy, przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia; <3) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm.5 ), stwierdzono istnienie stosunku pracy.>
+- **2)** zwiększono wymiar czasu pracy określony w zezwoleniu na pracę nie więcej niż do pełnego wymiaru czasu pracy, przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia;
+- **3)** polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm.5 ), stwierdzono istnienie stosunku pracy.
 
 **Art. 34.**
 
@@ -1025,7 +1027,8 @@ source: pdf
 - **1)** nastąpiła zmiana siedziby, miejsca stałego pobytu, stałego miejsca prowadzenia działalności gospodarczej, nazwy lub formy prawnej polskiego podmiotu powierzającego pracę cudzoziemcowi lub pracodawcy użytkownika;
 - **2)** nastąpiło przejście zakładu pracy lub jego części na innego pracodawcę;
 - **3)** zwiększono wymiar czasu pracy lub liczbę godzin pracy w tygodniu lub miesiącu określone w oświadczeniu o powierzeniu pracy cudzoziemcowi nie więcej niż do pełnego wymiaru czasu pracy;
-- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca; <5) polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzono istnienie stosunku pracy.>
+- **4)** nastąpiła zmiana nazwy stanowiska pracy bez zmiany zakresu obowiązków cudzoziemca;
+- **5)** polski podmiot powierzający pracę cudzoziemcowi i cudzoziemiec zawarli umowę o pracę zamiast umowy cywilnoprawnej albo w decyzji, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stwierdzono istnienie stosunku pracy.
 
 **Art. 70.**
 

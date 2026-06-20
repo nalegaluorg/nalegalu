@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rozwiązywaniu sporów zbiorowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozwiązywaniu sporów zbiorowych
 
 | Pole | Wartość |
 |---|---|

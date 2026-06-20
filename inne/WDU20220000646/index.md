@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz niektórych innych ustaw
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

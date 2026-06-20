@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o administrowaniu obrotem towarowym z zagranicą
+# Ustawa z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 

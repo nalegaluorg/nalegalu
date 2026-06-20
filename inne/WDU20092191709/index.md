@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach lekarskich
+# Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 

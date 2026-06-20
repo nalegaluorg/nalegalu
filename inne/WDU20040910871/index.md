@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o niektórych zabezpieczeniach finansowych
+# Ustawa z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych
 
 *USTAWA z dnia 2 kwietnia 2004 r.*
 

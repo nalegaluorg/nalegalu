@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu zadań oświatowych
+# Ustawa z dnia 27 października 2017 r. o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 27 października 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-11-29 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.pdf) |
-
-Art. 76–88. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -766,7 +764,7 @@ Art. 76–88. (pominięte)
 
 5. W przypadku wyrównywania kwoty dotacji, o której mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28, art. 29, art. 29a ust. 2, art. 30, art. 31 ust. 1, art. 40 i art. 41, zgodnie z ust. 4, średnia arytmetyczna kolejnych przekazywanych części dotacji odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50 % albo zmniejszyć się maksymalnie o 25 % średniej arytmetycznej części dotacji przekazanych odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych, ucznia objętego branżowym szkoleniem zawodowym lub słuchacza kwalifikacyjnego kursu zawodowego od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji. <6. Jeżeli wysokość dotacji, o której mowa w art. 29a ust. 1, uległa zmianie, suma kolejnych przekazywanych części dotacji na branżowe centrum umiejętności, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, stanowi różnicę między wysokością dotacji, o której mowa w art. 29a ust. 1, według stanu na pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji, a sumą części dotacji przekazanych na branżowe centrum umiejętności od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
 
-7. W przypadku wyrównywania kwoty dotacji, o której mowa w art. 29a ust. 1, zgodnie z ust. 6, średnia arytmetyczna kolejnych przekazywanych części dotacji na branżowe centrum umiejętności, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50 % albo zmniejszyć się maksymalnie o 25 % średniej arytmetycznej części dotacji przekazanych na branżowe centrum umiejętności od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.>
+7. W przypadku wyrównywania kwoty dotacji, o której mowa w art. 29a ust. 1, zgodnie z ust. 6, średnia arytmetyczna kolejnych przekazywanych części dotacji na branżowe centrum umiejętności, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50 % albo zmniejszyć się maksymalnie o 25 % średniej arytmetycznej części dotacji przekazanych na branżowe centrum umiejętności od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
 
 **Art. 44.**
 
@@ -1240,7 +1238,11 @@ Art. 76–88. (pominięte)
 
 - **1)** realizacją programów inwestycyjnych, o których mowa w art. 90x ustawy o systemie oświaty;
 - **2)** zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
-- **3)** wyposażeniem przedszkoli, szkół lub placówek. Art. 75aa. 1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+- **3)** wyposażeniem przedszkoli, szkół lub placówek.
+
+**Art. 75aa.**
+
+1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. Zatwierdzenie rozliczenia dotacji celowej, o której mowa w art. 75a, w zakresie rzeczowym i finansowym, przedstawionego przez obowiązany do tego podmiot, następuje w terminie 60 dni od dnia jego przedstawienia.
 
@@ -1253,6 +1255,8 @@ Art. 76–88. (pominięte)
 - **3)** sposób rozliczenia udzielonej dotacji celowej, o której mowa w art. 75a – mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania tej dotacji.
 
 #### Rozdział 11 Zmiany w przepisach
+
+**Art. 76–88.** (pominięte)
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 

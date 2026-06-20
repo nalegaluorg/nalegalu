@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 18 marca 2010 r.*
 

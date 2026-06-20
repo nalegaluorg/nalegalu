@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
+# Ustawa z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
 
 *USTAWA z dnia 7 lipca 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-07-14 |
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1488/text.pdf) |
-
-Art. 43–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -489,6 +487,8 @@ Art. 43–72. (pominięte)
 - **3)** nie wykonuje obowiązku wydania dokumentów, o których mowa w art. 22 ust. 5.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 43–72.** (pominięte)
 
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 

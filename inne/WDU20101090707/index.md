@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Sztuk Pięknych w Poznaniu
+# Ustawa z dnia 29 kwietnia 2010 r. o nadaniu nowej nazwy Akademii Sztuk Pięknych w Poznaniu
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

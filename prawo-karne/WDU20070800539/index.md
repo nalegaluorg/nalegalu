@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 7 marca 2007 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA Opracowano stawie: z dnia 7 marca 2007 r. r.*
 

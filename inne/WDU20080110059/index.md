@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
+# Ustawa z dnia 20 grudnia 2007 r. o zmianie ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu
 
 *USTAWA z dnia 20 grudnia 2007 r.*
 

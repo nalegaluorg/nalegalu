@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z podwyższeniem wieku emerytalnego
+# Ustawa z dnia 23 listopada 2012 r. o zmianie niektórych ustaw w związku z podwyższeniem wieku emerytalnego
 
 *USTAWA z dnia 23 listopada 2012 r.*
 

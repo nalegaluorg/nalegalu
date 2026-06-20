@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie konkurencji i konsumentów oraz ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz ustawy - Kodeks postępowania cywilnego
 
 | Pole | Wartość |
 |---|---|

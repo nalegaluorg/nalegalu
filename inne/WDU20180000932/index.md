@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach wspierających osoby o znacznym stopniu niepełnosprawności
+# Ustawa z dnia 9 maja 2018 r. o szczególnych rozwiązaniach wspierających osoby o znacznym stopniu niepełnosprawności
 
 *USTAWA z dnia 9 maja 2018 r.*
 

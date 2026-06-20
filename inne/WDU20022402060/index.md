@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracy na morskich statkach handlowych oraz o zmianie ustawy o bezpieczeństwie morskim
+# Ustawa z dnia 20 grudnia 2002 r. o zmianie o ustawy o pracy na morskich statkach handlowych oraz o zmianie ustawy o bezpieczeństwie morskim.
 
 *USTAWA z dnia 20 grudnia 2002 r.*
 

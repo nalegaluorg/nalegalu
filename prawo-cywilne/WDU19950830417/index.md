@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 1995 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|

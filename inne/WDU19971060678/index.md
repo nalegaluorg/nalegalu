@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz o zmianie niektórych ustaw
+# Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 21 sierpnia 1997 r.*
 

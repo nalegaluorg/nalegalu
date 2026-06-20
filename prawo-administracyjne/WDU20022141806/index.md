@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy o samorządzie gminnym oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 
@@ -78,9 +78,7 @@ source: pdf
 
 2. Wojewoda i przewodniczący rady gminy przekazują wójtowi kopie oświadczeń majątkowych, które im złożono.
 
-3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198 oraz z 2002 r. Nr 153, poz.
-
-- **1271)** .
+3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271).
 
 **Art. 24j.**
 
@@ -217,9 +215,7 @@ source: pdf
 
 2. Wojewoda i przewodniczący rady powiatu przekazują staroście kopie oświadczeń majątkowych, które im złożono.
 
-3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 12, poz. 1198 oraz z 2002 r. Nr 153, poz.
-
-- **1271)** .
+3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 12, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271).
 
 **Art. 25e.**
 
@@ -331,9 +327,7 @@ source: pdf
 
 2. Wojewoda i przewodniczący sejmiku województwa przekazują marszałkowi województwa kopie oświadczeń majątkowych, które im złożono.
 
-3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 12, poz. 1198 oraz z 2002 r. Nr 153, poz.
-
-- **1271)** .
+3. Jawne informacje zawarte w oświadczeniach majątkowych są udostępniane w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 12, poz. 1198 oraz z 2002 r. Nr 153, poz. 1271).
 
 **Art. 27e.**
 

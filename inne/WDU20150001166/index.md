@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw
+# Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 czerwca 2015 r.*
 

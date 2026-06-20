@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie roślin przed agrofagami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie roślin przed agrofagami
 
 *USTAWA z dnia 13 lutego 2020 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o informowaniu pracowników i przeprowadzaniu z nimi konsultacji
+# Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o informowaniu pracowników i przeprowadzaniu z nimi konsultacji
 
 *USTAWA z dnia 11 kwietnia 2008 r.*
 

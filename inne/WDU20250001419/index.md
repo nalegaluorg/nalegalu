@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

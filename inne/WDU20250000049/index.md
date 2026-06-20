@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu rodziny i systemie pieczy zastępczej Dla dobra dzieci, które potrzebują szczególnej ochrony i pomocy ze strony dorosłych, środowiska rodzinnego, atmosfery szczęścia, miłości i zrozumienia, w trosce o ich harmonijny rozwój i przyszłą samodzielność życiową, dla zapewnienia ochrony przysługujących im praw i wolności, dla dobra rodziny, która jest podstawową komórką społeczeństwa oraz naturalnym środowiskiem rozwoju, i dobra wszystkich jej członków, a w szczególności dzieci, w przekonaniu, że skuteczna pomoc dla rodziny przeżywającej trudności w opiekowaniu się i wychowywaniu dzieci oraz skuteczna ochrona dzieci i pomoc dla nich może być osiągnięta przez współpracę wszystkich osób, instytucji i organizacji pracujących z dziećmi i rodzicami – uchwala się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rodziny i systemie pieczy zastępczej
 
 *USTAWA z dnia 9 czerwca 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-01-15 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/49/text.pdf) |
-
-Art. 201–225. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -312,7 +310,9 @@ Art. 201–225. (pominięte)
 
 2. (uchylony)
 
-3. Kierownikiem podmiotu, któremu zlecono realizację obsługi placówek wsparcia dziennego, może być osoba, która spełnia wymagania określone w art. 25 ust. 2. Art. 18aa. Do obsługi placówek wsparcia dziennego, w zakresie wykonywanych zadań, o których mowa w art. 24 ust. 2–4, można zatrudniać osoby, o których mowa w art. 26 ust. 1 pkt 2–5.
+3. Kierownikiem podmiotu, któremu zlecono realizację obsługi placówek wsparcia dziennego, może być osoba, która spełnia wymagania określone w art. 25 ust. 2.
+
+**Art. 18aa.** Do obsługi placówek wsparcia dziennego, w zakresie wykonywanych zadań, o których mowa w art. 24 ust. 2–4, można zatrudniać osoby, o których mowa w art. 26 ust. 1 pkt 2–5.
 
 **Art. 18b.**
 
@@ -421,7 +421,8 @@ Art. 201–225. (pominięte)
     - **a)** wykształcenie wyższe: – na kierunku pedagogika, pedagogika specjalna, psychologia, socjologia, praca socjalna, nauki o rodzinie lub na innym kierunku, którego program obejmuje resocjalizację, pracę socjalną, pedagogikę opiekuńczo-wychowawczą lub – na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie, resocjalizacji lub kursem kwalifikacyjnym z zakresu pedagogiki opiekuńczowychowawczej, lub – na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela,
     - **b)** co najmniej wykształcenie średnie lub średnie branżowe i udokumentuje co najmniej 3-letni staż pracy z dziećmi lub rodziną;
 
-- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna; [3) w przypadku psychologa – prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);] <3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);>
+- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna;
+- **3)** w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);
 - **4)** w przypadku osoby prowadzącej terapię – udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
 - **5)** w przypadku opiekuna dziecięcego:
     - **a)** ukończoną szkołę przygotowującą do pracy w zawodzie opiekuna dziecięcego lub pielęgniarki lub
@@ -1840,7 +1841,8 @@ Art. 201–225. (pominięte)
     - **b)** na dowolnym kierunku, uzupełnione studiami podyplomowymi w zakresie psychologii, pedagogiki, nauk o rodzinie lub resocjalizacji, albo
     - **c)** na dowolnym kierunku oraz przygotowanie pedagogiczne uprawniające do wykonywania zawodu nauczyciela;
 
-- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna; [3) w przypadku psychologa – prawo wykonywania zawodu psychologa w rozumieniu ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów;] <3) w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;>
+- **2)** w przypadku pedagoga – tytuł zawodowy magistra na kierunku pedagogika albo pedagogika specjalna;
+- **3)** w przypadku psychologa – prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów;
 - **4)** w przypadku osoby prowadzącej terapię – udokumentowane przygotowanie do prowadzenia terapii o profilu potrzebnym w pracy z dzieckiem i rodziną;
 - **5)** w przypadku opiekuna dziecięcego – ukończoną szkołę przygotowującą do pracy w zawodzie opiekuna dziecięcego lub pielęgniarki albo studia pedagogiczne;
 - **6)** w przypadku pracownika socjalnego – wykształcenie wyższe uprawniające do wykonywania zawodu.
@@ -3468,6 +3470,8 @@ Art. 201–225. (pominięte)
 **Art. 200.** Wpływy z tytułu kary pieniężnej, o której mowa w art. 198, stanowią dochód budżetu państwa.
 
 ### DZIAŁ IX Zmiany w przepisach obowiązujących
+
+**Art. 201–225.** (pominięte)
 
 ### DZIAŁ X Przepisy przejściowe i końcowe
 

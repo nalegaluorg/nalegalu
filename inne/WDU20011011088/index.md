@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku-Białej
+# Ustawa z dnia 19 lipca 2001 r. o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku - Białej.
 
 *USTAWA z dnia 19 lipca 2001 r.*
 

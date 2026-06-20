@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dochodach jednostek samorządu terytorialnego
+# Ustawa z dnia 5 listopada 2025 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego
 
 *USTAWA z dnia 5 listopada 2025 r.*
 

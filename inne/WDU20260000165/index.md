@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o realizowaniu usług społecznych przez centrum usług społecznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o realizowaniu usług społecznych przez centrum usług społecznych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ poz. 1818), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 51–75 ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U.
 poz. 1818), które stanowią: „Art. 51. W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ) w art. 579 w § 1 pkt 1 otrzymuje brzmienie: „1) opinii właściwego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – centrum usług społecznych, opinii właściwego organizatora rodzinnej pieczy zastępczej, informacji o dotychczasowym sprawowaniu funkcji przez rodzinę zastępczą lub prowadzącego rodzinny dom dziecka oraz informacji z rejestru danych prowadzonego przez starostę na podstawie przepisów o wspieraniu rodziny i systemie pieczy zastępczej;”.
-Art. 51–75. (pominięte)
 
 **Art. 52.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2018 r. poz. 2137 i 2244 oraz z 2019 r. poz. 730) w art. 4 w ust. 2 zdanie drugie otrzymuje brzmienie: „Gminny program jest realizowany przez ośrodek pomocy społecznej albo centrum usług społecznych, o których mowa w przepisach o pomocy społecznej, lub inną jednostkę wskazaną w tym programie.”.
 
@@ -768,6 +767,8 @@ Art. 51–75. (pominięte)
 4. Osoby przetwarzające dane osobowe, o których mowa w ust. 1, są obowiązane do zachowania ich w poufności.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 51–75.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 

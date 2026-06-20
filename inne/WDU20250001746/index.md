@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia
+# Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia
 
 *USTAWA z dnia 21 listopada 2025 r.*
 

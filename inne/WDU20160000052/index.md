@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 grudnia 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 
@@ -90,7 +90,9 @@ source: pdf
 
 3. Na wniosek osoby, o której mowa w art. 2 pkt 2 lit. b, uwzględnia się, zamiast zaliczonego jej okresu pracy lub najmu, okres pracy lub najmu najemcy, jeżeli jest korzystniejszy.
 
-4. Jeśli osobą uprawnioną jest emeryt, rencista lub wdowa (wdowiec) po nim (po niej), cena nabycia mieszkania ustalana jest na 5% jego wartości. Art. 7–9. (pominięte)
+4. Jeśli osobą uprawnioną jest emeryt, rencista lub wdowa (wdowiec) po nim (po niej), cena nabycia mieszkania ustalana jest na 5% jego wartości.
+
+**Art. 7–9.** (pominięte)
 
 **Art. 10.**
 

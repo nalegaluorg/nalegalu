@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo własności przemysłowej
+# Ustawa z dnia 23 stycznia 2004 r. o zmianie ustawy - Prawo własności przemysłowej
 
 *USTAWA z dnia 23 stycznia 2004 r.*
 

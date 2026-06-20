@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o księgach wieczystych i hipotece
+# Ustawa z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece.
 
 *USTAWA z dnia 6 lipca 1982 r.*
 
@@ -204,7 +204,7 @@ source: pdf
 
 2. Podstawą oznaczenia lokalu w księdze wieczystej jest zaświadczenie o położeniu i powierzchni lokalu, wydane przez spółdzielnię mieszkaniową, a domu jednorodzinnego – zaświadczenie wydane przez spółdzielnię oraz dane katastru nieruchomości .
 
-3. O założeniu księgi wieczystej, o której mowa w art. 24 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię. <4. Do danych ujawnianych w księdze wieczystej nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).>
+3. O założeniu księgi wieczystej, o której mowa w art. 24 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię. <4. Do danych ujawnianych w księdze wieczystej nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).
 
 **Art. 27.**
 
@@ -326,7 +326,9 @@ source: pdf
 - **21)** Żandarmeria Wojskowa;
 - **22)** Komisja do spraw reprywatyzacji nieruchomości warszawskich;
 - **23)** organy Krajowej Administracji Skarbowej;
-- **24)** Krajowy Zasób Nieruchomości; [25) Ubezpieczeniowy Fundusz Gwarancyjny w zakresie związanym z realizacją zadań określonych w rozdziale 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;] <25) Ubezpieczeniowy Fundusz Gwarancyjny w celach, o których mowa w art. 51 ust. 4 pkt 2 i art. 56d ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;> 25a) Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;
+- **24)** Krajowy Zasób Nieruchomości;
+- **25)** Ubezpieczeniowy Fundusz Gwarancyjny w celach, o których mowa w art. 51 ust. 4 pkt 2 i art. 56d ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;
+- **25a)** Spółka Celowa, o której mowa w art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w zakresie realizacji zadań wymienionych w art. 17 tej ustawy;
 - **25b)** PKP Polskie Linie Kolejowe Spółka Akcyjna w celu wykonywania zadań związanych z realizacją Inwestycji oraz Inwestycji Towarzyszącej, o których mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym;
 - **25c)** Generalny Dyrektor Dróg Krajowych i Autostrad;
 - **25d)** minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
@@ -378,7 +380,9 @@ source: pdf
 
 2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając potrzebę pokrycia kosztów administracyjnych oraz zróżnicowania opłat od wniosków o uzyskanie poszczególnych dokumentów w zależności od sposobu złożenia wniosku, sposobu doręczenia dokumentów oraz postaci wydawanego dokumentu, a także konieczność realizacji ustawowych zadań przez podmiot wnioskujący o wyszukanie ksiąg wieczystych.
 
-3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej. Art. 37–57. (uchylone)
+3. Nie pobiera się opłat od wniosków o wydanie odpisu księgi wieczystej, wyciągu z księgi wieczystej, zaświadczenia o zamknięciu księgi wieczystej oraz wniosku o wyszukanie ksiąg wieczystych złożonego przez podmioty, o których mowa w art. 36 ust. 8 pkt 1–6, 7a, 8–17, 19, 22, 24 i 28, lub organ administracji rządowej.
+
+**Art. 37–57.** (uchylone)
 
 **Art. 58.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 

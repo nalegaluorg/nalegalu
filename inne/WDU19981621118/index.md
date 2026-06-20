@@ -290,7 +290,7 @@ source: pdf
 - **2)** trwałości lub przewidywanego okresu niezdolności do pracy,
 - **3)** związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami,
 - **4)** trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji,
-- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
+- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
 
 2. Jeżeli nie ma możliwości ustalenia daty powstania niezdolności do pracy, natomiast ustalono okres, w którym niezdolność do pracy powstała, za datę powstania niezdolności przyjmuje się datę końcową tego okresu. Jeżeli nie ma możliwości ustalenia ani daty, ani okresu powstania niezdolności do pracy, za datę powstania niezdolności przyjmuje się datę zgłoszenia wniosku o świadczenie. [2a. Od orzeczenia lekarza orzecznika osobie zainteresowanej przysługuje sprzeciw do komisji lekarskiej Zakładu, zwanej dalej „komisją lekarską”, w ciągu 14 dni od dnia doręczenia tego orzeczenia.
 
@@ -1901,7 +1901,8 @@ source: pdf
 1. Wypłatę świadczeń wstrzymuje się, jeżeli:
 
 - **1)** powstaną okoliczności uzasadniające zawieszenie prawa do świadczeń lub ustanie tego prawa;
-- **2)** osoba pobierająca świadczenia mimo pouczenia lub żądania organu rentowego nie przedłoży dowodów stwierdzających dalsze istnienie prawa do świadczeń; [3) osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu lub psychologicznemu, bez uzasadnionych przyczyn, mimo wezwania organu rentowego;] <3) osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu, psychologicznemu lub badaniu przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, bez uzasadnionych przyczyn, mimo wezwania organu rentowego;>
+- **2)** osoba pobierająca świadczenia mimo pouczenia lub żądania organu rentowego nie przedłoży dowodów stwierdzających dalsze istnienie prawa do świadczeń;
+- **3)** osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu, psychologicznemu lub badaniu przez osobę wykonującą samodzielny zawód medyczny, o której mowa w art. 4 pkt 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, bez uzasadnionych przyczyn, mimo wezwania organu rentowego;
 - **4)** okaże się, że prawo do świadczeń nie istniało;
 - **5)** świadczenia nie mogą być doręczone z przyczyn niezależnych od organu rentowego.
 

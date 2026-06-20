@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyrobach medycznych
+# Ustawa z dnia 7 kwietnia 2022 r. o wyrobach medycznych
 
 *USTAWA z dnia 7 kwietnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-05-09 |
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.pdf) |
-
-Art. 105–136. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1225,6 +1223,8 @@ Art. 105–136. (pominięte)
 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja stała się ostateczna.
 
 #### Rozdział 17 Zmiany w przepisach
+
+**Art. 105–136.** (pominięte)
 
 #### Rozdział 18 Przepisy przejściowe i końcowe
 

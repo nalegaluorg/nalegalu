@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 lutego 2019 r.*
 
@@ -459,7 +459,11 @@ source: pdf
 
 4. Obowiązek zachowania tajemnicy kontrolerskiej nie jest ograniczony w czasie.
 
-5. Od obowiązku zachowania tajemnicy kontrolerskiej może zwolnić Prezes Funduszu albo sąd właściwy do rozpoznania sprawy. Art. 61za. 1. W trakcie przeprowadzania kontroli komunikacja między Prezesem Funduszu, kontrolerami, osobami, o których mowa w art. 61e ust. 2, a podmiotem kontrolowanym, w szczególności przesyłanie zawiadomienia o kontroli, wystąpienia pokontrolnego, zastrzeżeń podmiotu kontrolowanego do wystąpienia pokontrolnego, sprzeciwu, o którym mowa w art. 61d ust. 6, oraz postanowień wydanych w toku kontroli odbywa się za pomocą środków komunikacji elektronicznej, w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+5. Od obowiązku zachowania tajemnicy kontrolerskiej może zwolnić Prezes Funduszu albo sąd właściwy do rozpoznania sprawy.
+
+**Art. 61za.**
+
+1. W trakcie przeprowadzania kontroli komunikacja między Prezesem Funduszu, kontrolerami, osobami, o których mowa w art. 61e ust. 2, a podmiotem kontrolowanym, w szczególności przesyłanie zawiadomienia o kontroli, wystąpienia pokontrolnego, zastrzeżeń podmiotu kontrolowanego do wystąpienia pokontrolnego, sprzeciwu, o którym mowa w art. 61d ust. 6, oraz postanowień wydanych w toku kontroli odbywa się za pomocą środków komunikacji elektronicznej, w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
 2. Przepisów ust. 1 nie stosuje się, w przypadku gdy:
 
@@ -480,7 +484,9 @@ source: pdf
 
 7. Dokumenty w postaci elektronicznej przekazywane za pomocą środków komunikacji elektronicznej, o których mowa w ust. 3, są sporządzane w jednym z formatów danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-8. Do doręczania pism w trakcie kontroli, w zakresie nieuregulowanym w ustawie, stosuje się przepisy działu I rozdziałów 8–10 Kodeksu postępowania administracyjnego. Art. 61zb. Ministrowie, o których mowa w art. 14, mają prawo do przeprowadzenia kontroli w podmiotach, które wykonują świadczenia opieki zdrowotnej finansowane przez tych ministrów. Do tej kontroli, z wyłączeniem kontroli przeprowadzanej przez ministra właściwego do spraw zdrowia, przepisy niniejszego działu stosuje się odpowiednio, z wyłączeniem przepisów art. 61c ust. 2, art. 61u–61y i art. 61za.”;
+8. Do doręczania pism w trakcie kontroli, w zakresie nieuregulowanym w ustawie, stosuje się przepisy działu I rozdziałów 8–10 Kodeksu postępowania administracyjnego.
+
+**Art. 61zb.** Ministrowie, o których mowa w art. 14, mają prawo do przeprowadzenia kontroli w podmiotach, które wykonują świadczenia opieki zdrowotnej finansowane przez tych ministrów. Do tej kontroli, z wyłączeniem kontroli przeprowadzanej przez ministra właściwego do spraw zdrowia, przepisy niniejszego działu stosuje się odpowiednio, z wyłączeniem przepisów art. 61c ust. 2, art. 61u–61y i art. 61za.”;
 
 - **7)** uchyla się art. 64;
 - **8)** w art. 100 w ust. 1:

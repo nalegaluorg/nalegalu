@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo budowlane oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy - Prawo budowlane oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 17 września 2021 r.*
 

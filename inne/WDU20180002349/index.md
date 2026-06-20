@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 listopada 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego
 
 | Pole | Wartość |
 |---|---|

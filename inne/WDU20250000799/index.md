@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+# Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
 
 *USTAWA z dnia 21 maja 2025 r.*
 
@@ -100,7 +100,11 @@ source: pdf
 
 6. Producent lub importer wnosi na rachunek bankowy wskazany przez Prezesa Biura, w terminie 14 dni od dnia otrzymania wezwania do wniesienia opłaty, opłatę roczną za otrzymywanie, przechowywanie, przetwarzanie, analizę i publikowanie informacji dotyczących woreczków nikotynowych, przekazanych na podstawie ust. 1 i 2 w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego. Opłata stanowi dochód budżetu państwa.
 
-7. Format przekazywania i udostępniania informacji o woreczkach nikotynowych określa decyzja wykonawcza Komisji (UE) 2015/2186. Art. 11hb. 1. Woreczki nikotynowe powinny spełniać następujące wymagania:
+7. Format przekazywania i udostępniania informacji o woreczkach nikotynowych określa decyzja wykonawcza Komisji (UE) 2015/2186.
+
+**Art. 11hb.**
+
+1. Woreczki nikotynowe powinny spełniać następujące wymagania:
 
 - **1)** zawartość nikotyny w woreczku nikotynowym nie może przekraczać 20 mg/g;
 - **2)** woreczek nikotynowy nie może zawierać dodatków wymienionych w art. 7c ust. 3;
@@ -120,7 +124,11 @@ source: pdf
 - **1)** być widoczne na dwóch największych płaszczyznach opakowania jednostkowego i opakowania zbiorczego;
 - **2)** zajmować 30 % płaszczyzny opakowania jednostkowego i opakowania zbiorczego.
 
-6. Opakowania jednostkowe i opakowania zbiorcze woreczków nikotynowych nie mogą mieć elementów lub cech, o których mowa w art. 8 ust. 4–6, z wyjątkiem art. 8 ust. 4 pkt 1 w zakresie informacji o zawartości nikotyny oraz art. 8 ust. 4 pkt 3 w zakresie informacji o środkach aromatyzujących. Art. 11hc. 1. Przepisów ustawy dotyczących woreczków nikotynowych nie stosuje się do woreczków nikotynowych, w przypadku których należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
+6. Opakowania jednostkowe i opakowania zbiorcze woreczków nikotynowych nie mogą mieć elementów lub cech, o których mowa w art. 8 ust. 4–6, z wyjątkiem art. 8 ust. 4 pkt 1 w zakresie informacji o zawartości nikotyny oraz art. 8 ust. 4 pkt 3 w zakresie informacji o środkach aromatyzujących.
+
+**Art. 11hc.**
+
+1. Przepisów ustawy dotyczących woreczków nikotynowych nie stosuje się do woreczków nikotynowych, w przypadku których należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
 
 2. Do woreczków nikotynowych stosuje się rozporządzenie nr 1907/2006 oraz rozporządzenie nr 1272/2008.”;
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
+# Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -878,7 +878,11 @@ source: pdf
 - **1)** kursy doskonalące;
 - **2)** samokształcenie.
 
-3. Dyspozytor medyczny w terminie do dnia 20 stycznia 2024 r. przekazuje wojewodzie właściwemu ze względu na miejsce zamieszkania dyspozytora medycznego kartę doskonalenia zawodowego w celu potwierdzenia przez wojewodę dopełnienia obowiązku doskonalenia zawodowego przez dyspozytora medycznego za okres edukacyjny, który zakończy się w dniu 31 grudnia 2023 r. Art. 21aa. 1. Kurs doskonalący ma na celu pogłębienie i aktualizację wiedzy i umiejętności zawodowych, w tym szkolenie praktyczne.
+3. Dyspozytor medyczny w terminie do dnia 20 stycznia 2024 r. przekazuje wojewodzie właściwemu ze względu na miejsce zamieszkania dyspozytora medycznego kartę doskonalenia zawodowego w celu potwierdzenia przez wojewodę dopełnienia obowiązku doskonalenia zawodowego przez dyspozytora medycznego za okres edukacyjny, który zakończy się w dniu 31 grudnia 2023 r.
+
+**Art. 21aa.**
+
+1. Kurs doskonalący ma na celu pogłębienie i aktualizację wiedzy i umiejętności zawodowych, w tym szkolenie praktyczne.
 
 2. Kurs doskonalący odbywa się na podstawie programu kursu doskonalącego, który zawiera:
 
@@ -895,7 +899,13 @@ source: pdf
 
 5. CMKP redaguje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw zdrowia opracowany przez zespół ekspertów program kursu doskonalącego.
 
-6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie publikacji oraz informacji na swojej stronie internetowej. Art. 21ab. Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414). Art. 21ac. 1. Kurs doskonalący mogą prowadzić podmioty, które:
+6. Dyrektor CMKP podaje do publicznej wiadomości zatwierdzony program kursu doskonalącego w formie publikacji oraz informacji na swojej stronie internetowej.
+
+**Art. 21ab.** Prowadzenie kursów doskonalących przez przedsiębiorcę jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+
+**Art. 21ac.**
+
+1. Kurs doskonalący mogą prowadzić podmioty, które:
 
 - **1)** realizują program kursu doskonalącego, o którym mowa w art. 21aa;
 - **2)** zapewniają kadrę dydaktyczną posiadającą kwalifikacje zgodne ze standardami, o których mowa w art. 21aa ust. 2 pkt 6;
@@ -978,7 +988,11 @@ source: pdf
 
 22. Podmiot wpisany na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego jest obowiązany zgłaszać właściwemu wojewodzie termin i miejsce prowadzenia danego kursu, w terminie co najmniej 60 dni przed jego rozpoczęciem. Dyrektor CMKP zamieszcza informacje o terminie kursu doskonalącego na liście, o której mowa w ust. 21.
 
-23. Wojewoda niezwłocznie przesyła informacje, o których mowa w ust. 22, do CMKP. Art. 21ad. 1. Przebieg doskonalenia zawodowego dyspozytora medycznego dokumentuje się w karcie doskonalenia zawodowego.
+23. Wojewoda niezwłocznie przesyła informacje, o których mowa w ust. 22, do CMKP.
+
+**Art. 21ad.**
+
+1. Przebieg doskonalenia zawodowego dyspozytora medycznego dokumentuje się w karcie doskonalenia zawodowego.
 
 2. Kartę doskonalenia zawodowego na wniosek dyspozytora medycznego wydaje wojewoda właściwy ze względu na miejsce zamieszkania dyspozytora medycznego, a w przypadku gdy nie jest możliwe ustalenie właściwego wojewody – Wojewoda Mazowiecki.
 
@@ -1001,7 +1015,13 @@ source: pdf
 - **6)** datę rozpoczęcia okresu edukacyjnego;
 - **7)** informację o terminach i miejscach odbycia doskonalenia zawodowego;
 - **8)** nazwę i adres podmiotu przeprowadzającego kurs doskonalący;
-- **9)** informację o dopełnieniu obowiązku doskonalenia zawodowego. Art. 21ae. Koszty doskonalenia zawodowego ponosi dyspozytor medyczny lub podmiot, u którego dyspozytor medyczny wykonuje zawód, lub jednostka prowadząca szkolenie. Art. 21af. Podmiot, u którego dyspozytor medyczny wykonuje zawód, jest obowiązany ułatwić dyspozytorowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego. Art. 21ag. Dyspozytor medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 21aa ust. 1.
+- **9)** informację o dopełnieniu obowiązku doskonalenia zawodowego.
+
+**Art. 21ae.** Koszty doskonalenia zawodowego ponosi dyspozytor medyczny lub podmiot, u którego dyspozytor medyczny wykonuje zawód, lub jednostka prowadząca szkolenie.
+
+**Art. 21af.** Podmiot, u którego dyspozytor medyczny wykonuje zawód, jest obowiązany ułatwić dyspozytorowi medycznemu aktualizowanie wiedzy i umiejętności przez uczestnictwo w różnych rodzajach i formach doskonalenia zawodowego.
+
+**Art. 21ag.** Dyspozytor medyczny przedstawia podmiotowi, u którego wykonuje zawód, dokumenty poświadczające realizację obowiązku określonego w art. 21aa ust. 1.
 
 **Art. 21b.**
 

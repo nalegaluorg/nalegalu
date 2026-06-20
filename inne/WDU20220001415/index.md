@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dokumentach publicznych
+# Ustawa z dnia 23 czerwca 2022 r. o zmianie ustawy o dokumentach publicznych
 
 *USTAWA z dnia 23 czerwca 2022 r.*
 

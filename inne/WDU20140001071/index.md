@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz ustawy – Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA z dnia 11 lipca 2014 r.*
 

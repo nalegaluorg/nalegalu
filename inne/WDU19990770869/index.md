@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowego sposobu prowadzenia kontroli celnej bagażu przewożonego droga morską lub powietrzną, z uwzględnieniem rodzaju bagażu kontrolowanego, oraz wskazania miejsc właściwych do prowadzenia kontroli.
+# Rozporządzenie Ministra Finansów z dnia 13 września 1999 r. w sprawie szczegółowego sposobu prowadzenia kontroli celnej bagażu przewożonego drogą morską lub powietrzną, z uwzględnieniem rodzaju bagażu kontrolowanego, oraz wskazania miejsc właściwych do prowadzenia kontroli.
 
 | Pole | Wartość |
 |---|---|

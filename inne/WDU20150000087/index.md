@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
+# Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 listopada 2014 r.*
 
@@ -269,7 +269,12 @@ source: pdf
 - **36)** art. 9t otrzymuje brzmienie: „Art. 9t. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9o ust. 1, art. 9q ust. 1 i art. 9s ust. 1, kierując się potrzebą ujednolicenia sprawozdań oraz koniecznością zapewnienia skutecznej kontroli w zakresie utrzymania czystości i porządku w gminach.”;
 - **37)** w rozdziale 4b po art. 9t dodaje się art. 9ta i art. 9tb w brzmieniu: „Art. 9ta. Terminy do złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi oraz sprawozdań, o których mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9o ust. 1, art. 9q ust. 1 i art. 9s ust. 1, uważa się za zachowane, jeżeli przed ich upływem deklaracja lub sprawozdanie zostało:
 - **1)** nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) lub
-- **2)** wysłane w formie dokumentu elektronicznego do właściwego wójta, burmistrza lub prezydenta miasta, marszałka województwa oraz ministra właściwego do spraw środowiska, a nadawca otrzymał urzędowe poświadczenie odbioru. Art. 9tb. 1. Na podstawie sprawozdań złożonych przez podmioty odbierające odpady komunalne od właścicieli nieruchomości, podmioty prowadzące punkty selektywnego zbierania odpadów komunalnych oraz rocznego sprawozdania z realizacji zadań z zakresu gospodarowania odpadami komunalnymi oraz innych dostępnych danych wpływających na koszty systemu gospodarowania odpadami komunalnymi wójt, burmistrz lub prezydent miasta sporządza analizę stanu gospodarki odpadami komunalnymi obejmującą w szczególności:
+- **2)** wysłane w formie dokumentu elektronicznego do właściwego wójta, burmistrza lub prezydenta miasta, marszałka województwa oraz ministra właściwego do spraw środowiska, a nadawca otrzymał urzędowe poświadczenie odbioru.
+
+**Art. 9tb.**
+
+1. Na podstawie sprawozdań złożonych przez podmioty odbierające odpady komunalne od właścicieli nieruchomości, podmioty prowadzące punkty selektywnego zbierania odpadów komunalnych oraz rocznego sprawozdania z realizacji zadań z zakresu gospodarowania odpadami komunalnymi oraz innych dostępnych danych wpływających na koszty systemu gospodarowania odpadami komunalnymi wójt, burmistrz lub prezydent miasta sporządza analizę stanu gospodarki odpadami komunalnymi obejmującą w szczególności:
+
 - **1)** możliwości przetwarzania zmieszanych odpadów komunalnych, odpadów zielonych oraz pozostałości z sortowania i pozostałości z mechaniczno-biologicznego przetwarzania odpadów komunalnych przeznaczonych do składowania;
 - **2)** potrzeby inwestycyjne związane z gospodarowaniem odpadami komunalnymi;
 - **3)** koszty poniesione w związku z odbieraniem, odzyskiem, recyklingiem i unieszkodliwianiem odpadów komunalnych;

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z e-skierowaniem oraz listami oczekujących na udzielenie świadczenia opieki zdrowotnej
+# Ustawa z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw w związku z e-skierowaniem oraz listami oczekujących na udzielenie świadczenia opieki zdrowotnej
 
 *USTAWA z dnia 6 grudnia 2018 r.*
 

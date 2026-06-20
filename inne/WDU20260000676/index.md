@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o języku polskim oraz ustawy o Narodowej Agencji Wymiany Akademickiej
+# Ustawa z dnia 30 kwietnia 2026 r. o zmianie ustawy o języku polskim oraz ustawy o Narodowej Agencji Wymiany Akademickiej
 
 *USTAWA z dnia 30 kwietnia 2026 r.*
 

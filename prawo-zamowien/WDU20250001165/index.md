@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi
+# Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi
 
 *USTAWA z dnia 9 lipca 2025 r.*
 

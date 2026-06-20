@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
+# Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami
 
 *USTAWA z dnia 13 lipca 2023 r.*
 
@@ -136,9 +136,11 @@ source: pdf
 
 7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego jest obowiązany do udostępniania i upowszechniania informacji przestrzennej o obszarach, o których mowa w art. 36c ust. 1.
 
-8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki techniczne działania aplikacji mobilnej, o której mowa w art. 36b ust. 2, oraz szczegółowy tryb dokonywania zgłoszeń poszukiwań, o których mowa w art. 36b ust. 1, uwzględniając konieczność zapewnienia efektywności postępowania oraz sprawności działania aplikacji mobilnej.”; [6) w art. 37 w ust. 1 w pkt 1–3 wyrazy „art. 36 ust. 1 i 1a” zastępuje się wyrazami „art. 36 ust. 1–1b”;] <6) w art. 37 w ust. 1 w pkt 1–3 wyrazy „art. 36 ust. 1–1aa” zastępuje się wyrazami „art. 36 ust. 1–1aa i 1b”;>
+8. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki techniczne działania aplikacji mobilnej, o której mowa w art. 36b ust. 2, oraz szczegółowy tryb dokonywania zgłoszeń poszukiwań, o których mowa w art. 36b ust. 1, uwzględniając konieczność zapewnienia efektywności postępowania oraz sprawności działania aplikacji mobilnej.”;
 
-- **7)** w art. 43 w ust. 1 w pkt 3 skreśla się wyrazy „lub poszukiwań, o których mowa w art. 36 ust. 1 pkt 12”; <7a) w art. 45 w ust. 1 w pkt 5 oraz w ust. 1a wyrazy „ , 8 i 12” zastępuje się wyrazami „ i 8”;>
+- **6)** w art. 37 w ust. 1 w pkt 1–3 wyrazy „art. 36 ust. 1–1aa” zastępuje się wyrazami „art. 36 ust. 1–1aa i 1b”;
+- **7)** w art. 43 w ust. 1 w pkt 3 skreśla się wyrazy „lub poszukiwań, o których mowa w art. 36 ust. 1 pkt 12”;
+- **7a)** w art. 45 w ust. 1 w pkt 5 oraz w ust. 1a wyrazy „ , 8 i 12” zastępuje się wyrazami „ i 8”;
 - **8)** w art. 48:
     - **a)** w pkt 1 wyrazy „ust. 2, badania lub poszukiwania” zastępuje się wyrazami „ust. 1b lub 2, odpowiednio poszukiwania lub badania”,
     - **b)** w pkt 2 i 3 wyrazy „art. 36 ust. 2” zastępuje się wyrazami „art. 36 ust. 1b lub 2”;

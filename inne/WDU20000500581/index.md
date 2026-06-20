@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie ustawy o pracowniczych ogrodach działkowych
+# Ustawa z dnia 26 maja 2000 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie ustawy o pracowniczych ogrodach działkowych.
 
 *USTAWA z dnia 26 maja 2000 r.*
 

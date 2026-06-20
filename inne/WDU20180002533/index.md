@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. zmieniająca ustawę o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 grudnia 2018 r.*
 

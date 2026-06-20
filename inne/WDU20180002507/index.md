@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Sądzie Najwyższym
+# Ustawa z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym
 
 *USTAWA z dnia 21 listopada 2018 r.*
 

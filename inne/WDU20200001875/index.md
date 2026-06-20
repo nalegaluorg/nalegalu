@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Medycznym
+# Ustawa z dnia 7 października 2020 r. o Funduszu Medycznym
 
 *USTAWA z dnia 7 października 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2020-10-26 |
 | Ostatnia zmiana | 2026-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1875/text.pdf) |
-
-Art. 34–36. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -616,6 +614,8 @@ Art. 34–36. (pominięte)
 **Art. 33c.** Minister właściwy do spraw zdrowia może każdego roku przyznać jednostce właściwej w zakresie systemów informacyjnych ochrony zdrowia ze środków subfunduszu terapeutyczno-innowacyjnego środki na realizację zadań, o których mowa w art. 7 pkt 10.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 34–36.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące i przejściowe oraz przepis końcowy
 

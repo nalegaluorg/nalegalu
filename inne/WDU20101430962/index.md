@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii
+# Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o przeciwdziałaniu narkomanii
 
 *USTAWA z dnia 10 czerwca 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach prowadzenia zbiórek publicznych
+# Ustawa z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych
 
 *USTAWA z dnia 14 marca 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/498/text.pdf) |
-
-Art. 23–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -214,6 +212,8 @@ Art. 23–39. (pominięte)
 **Art. 22.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298).
 
 #### Rozdział 3 Przepisy zmieniające
+
+**Art. 23–39.** (pominięte)
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
 

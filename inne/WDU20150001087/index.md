@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o leczeniu niepłodności
+# Ustawa z dnia 25 czerwca 2015 r. o leczeniu niepłodności
 
 *USTAWA z dnia 25 czerwca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-07-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001087) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1087/text.pdf) |
-
-Art. 91–93. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1051,6 +1049,8 @@ Art. 91–93. (pominięte)
 7. Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 91–93.** (pominięte)
 
 **Art. 94.**
 

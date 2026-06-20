@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o świadku koronnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 lipca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadku koronnym
 
 | Pole | Wartość |
 |---|---|

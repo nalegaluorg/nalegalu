@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obronie Ojczyzny oraz ustawy o finansach publicznych
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o obronie Ojczyzny oraz ustawy o finansach publicznych
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

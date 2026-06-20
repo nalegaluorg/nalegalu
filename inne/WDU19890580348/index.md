@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego
+# Obwieszczenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 20 października 1989 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 12 marca 1958 r. o sprzedaży nieruchomości Państwowego Funduszu Ziemi oraz uporządkowaniu niektórych spraw związanych z przeprowadzeniem reformy rolnej i osadnictwa rolnego.
 
 *USTAWA z dnia 12 marca 1958 r.*
 

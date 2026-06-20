@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz o zmianie ustawy o ubezpieczeniu społecznym rolników
+# Ustawa z dnia 10 września 2004 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz o zmianie ustawy o ubezpieczeniu społecznym rolników
 
 *USTAWA z dnia 10 września 2004 r.*
 

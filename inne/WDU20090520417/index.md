@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o prawach pacjenta i Rzeczniku Praw Pacjenta
+# Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta
 
 *USTAWA z dnia 6 listopada 2008 r.*
 
@@ -26,63 +26,6 @@ source: pdf
 | Data wydania | 2009-03-31 |
 | Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090520417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/417/text.pdf) |
-
-Art. 67ze. 1. Od decyzji Rzecznika, o której mowa w art. 67za ust. 1, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, działającej przy Rzeczniku.
-2. Wniesienie odwołania podlega opłacie w wysokości 200 zł. Opłatę uiszcza się na rachunek bankowy Funduszu Kompensacyjnego Zdarzeń Medycznych.
-3. Do opłaty, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 67t ust. 6 i 7.
-4. W przypadku gdy odwołanie nie zostało należycie opłacone, Rzecznik wzywa wnioskodawcę do usunięcia tego braku w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że jego nieusunięcie spowoduje pozostawienie odwołania bez rozpoznania.
-5. W przypadku uchylenia decyzji na skutek wniesionego odwołania opłata, o której mowa w ust. 2, podlega zwrotowi na rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, albo adres, na który ma być dokonany przekaz pocztowy, wskazane we wniosku.
-Art. 67zf. 1. Obsługę administracyjną Komisji zapewnia Rzecznik.
-2. Orzeczenia Komisji zapadają na posiedzeniu niejawnym większością głosów.
-W przypadku równej liczby głosów decyduje głos przewodniczącego. Członek Komisji nie może wstrzymać się od głosu.
-3. Komisja przetwarza dokumentację gromadzoną w związku z rozpatrzeniem odwołania w zakresie koniecznym do sporządzenia orzeczenia.
-Art. 67zg. 1. W skład Komisji wchodzi 9 członków posiadających wiedzę i doświadczenie dające rękojmię prawidłowego sprawowania tej funkcji, w tym:
-1) 2 członków wskazanych przez ministra właściwego do spraw zdrowia;
-2) 1 członek wskazany przez Ministra Sprawiedliwości;
-3) 1 członek wskazany przez Rzecznika;
-4) 1 członek wskazany przez Prezesa Narodowego Funduszu Zdrowia;
-5) 1 członek wskazany przez Naczelną Radę Lekarską;
-6) 1 członek wskazany przez Naczelną Radę Pielęgniarek i Położnych;
-7) 2 członków wskazanych przez organizacje pacjentów wpisane do wykazu organizacji pacjentów.
-2. Członków Komisji powołuje minister właściwy do spraw zdrowia, z tym że członkowie, o których mowa w ust. 1 pkt 2–6, są powoływani na wniosek właściwych organów.
-3. Członkowie Komisji, o których mowa w ust. 1 pkt 7, są powoływani spośród kandydatów zgłoszonych w terminie 14 dni od dnia podania do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz w Biuletynie Informacji Publicznej tego urzędu ogłoszenia o naborze przedstawicieli tych organizacji na członków Komisji.
-4. Kadencja członków Komisji wynosi 3 lata. W przypadku odwołania członka Komisji albo jego śmierci przed upływem kadencji, kadencja członka powołanego na jego miejsce upływa z dniem upływu kadencji odwołanego albo zmarłego członka.
-5. Członkiem Komisji może być wyłącznie osoba, która:
-1) posiada tytuł zawodowy magistra lub równorzędny, uzyskany po ukończeniu studiów na kierunku związanym z kształceniem w zakresie nauk medycznych lub nauk prawnych;
-2) nie została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
-3) korzysta z pełni praw publicznych.
-6. Kandydat na członka Komisji składa ministrowi właściwemu do spraw zdrowia pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-7. Członek Komisji jest obowiązany do niezwłocznego poinformowania ministra właściwego do spraw zdrowia oraz Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Komisji oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Komisji.
-8. Członkowi Komisji przysługuje wynagrodzenie za udział w posiedzeniu w wysokości nieprzekraczającej 20 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
-9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji, uwzględniając zakres jej zadań.
-10. Pracami Komisji kieruje przewodniczący przy pomocy wiceprzewodniczącego. Przewodniczący i wiceprzewodniczący są wybierani spośród członków Komisji na pierwszym posiedzeniu bezwzględną większością głosów w obecności co najmniej 2/3 jej członków w głosowaniu tajnym.
-11. Minister właściwy do spraw zdrowia odwołuje członka Komisji przed upływem kadencji w przypadku:
-1) ujawnienia, że nie spełnia wymagań, o których mowa w ust. 5;
-2) orzeczenia zakazu pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwa;
-3) choroby trwale uniemożliwiającej wykonywanie zadań;
-4) zaistnienia okoliczności, które wpływają na niezależne sprawowanie funkcji członka Komisji;
-5) uchylania się od wykonywania obowiązków członka Komisji albo ich nieprawidłowego wykonywania;
-6) złożenia rezygnacji.
-12. Tryb pracy Komisji określa regulamin uchwalany przez Komisję.
-Art. 67zh. 1. Członek Komisji podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
-2. Członek Komisji jest obowiązany do zachowania w tajemnicy uzyskanych w toku postępowania informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, w tym również po ustaniu członkostwa w Komisji.
-Art. 67zi. 1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Funduszem”, jest państwowym funduszem celowym tworzonym w celu wypłacania świadczeń kompensacyjnych w przypadku wystąpienia zdarzeń medycznych.
-2. Dysponentem Funduszu jest Rzecznik.
-3. Przychody Funduszu pochodzą z:
-1) odpisu, o którym mowa w art. 97 ust. 3i ustawy z dnia 27 sierpnia 2004 r.
-o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-2) opłat, o których mowa w art. 67t ust. 4 i art. 67ze ust. 2;
-3) odsetek od zgromadzonych środków;
-4) zwiększenia odpisu, o którym mowa w art. 97 ust. 3j ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-5) innych źródeł, w szczególności ze spadków, zapisów i darowizn.
-4. Ze środków zgromadzonych w Funduszu są finansowane:
-1) wypłaty świadczeń kompensacyjnych;
-2) zwroty opłat, o których mowa w art. 67t ust. 4 oraz art. 67ze ust. 2;
-3) odsetki za nieterminowe wypłaty świadczeń kompensacyjnych;
-4) koszty bezpośrednio związane z bieżącym funkcjonowaniem Funduszu;
-5) koszty związane z prowadzeniem postępowań oraz obsługi i funkcjonowania Zespołu i Komisji.
-5. Roczny plan finansowy Funduszu, w terminie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej, opracowuje Rzecznik we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
-6. Rzecznik sporządza sprawozdanie z wykonania rocznego planu finansowego Funduszu w terminie 2 miesięcy od dnia zakończenia okresu sprawozdawczego.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1050,15 +993,29 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **1)** wezwać wnioskodawcę do udzielenia informacji, złożenia wyjaśnień oraz przedstawienia dokumentów, niezbędnych do rozpatrzenia sprawy;
 - **2)** żądać udzielenia informacji, złożenia wyjaśnień oraz przedstawienia posiadanych dokumentów przez podmiot udzielający świadczeń zdrowotnych, który udzielił świadczeń zdrowotnych osobie, której dotyczy zdarzenie medyczne.
 
-2. Rzecznik wyznacza termin realizacji czynności, o których mowa w ust. 1, nie krótszy niż 14 dni od dnia doręczenia wezwania. Art. 67za. 1. Rzecznik, po uzyskaniu opinii Zespołu, o której mowa w art. 67x ust. 1, wydaje decyzję administracyjną w sprawie przyznania świadczenia kompensacyjnego i ustalenia jego wysokości albo odmowy przyznania świadczenia kompensacyjnego.
+2. Rzecznik wyznacza termin realizacji czynności, o których mowa w ust. 1, nie krótszy niż 14 dni od dnia doręczenia wezwania.
+
+**Art. 67za.**
+
+1. Rzecznik, po uzyskaniu opinii Zespołu, o której mowa w art. 67x ust. 1, wydaje decyzję administracyjną w sprawie przyznania świadczenia kompensacyjnego i ustalenia jego wysokości albo odmowy przyznania świadczenia kompensacyjnego.
 
 2. W decyzji, o której mowa w ust. 1, określa się, na wniosek pacjenta, czy zdarzenie medyczne spowodowało poważne następstwa zdrowotne, oraz wskazuje się okres ich przewidywanego trwania, nie dłuższy jednak niż 5 lat. Jeżeli w dniu wydania decyzji zgodnie z wiedzą medyczną poważne następstwa zdrowotne nie ustąpią przed upływem 5 lat, okresu ich przewidywanego trwania nie wskazuje się.
 
-3. Decyzja, o której mowa w ust. 1, jest wydawana w terminie 3 miesięcy od dnia otrzymania kompletnego i prawidłowo opłaconego wniosku. W przypadku, o którym mowa w art. 67z ust. 1, bieg terminu wydania decyzji ulega wstrzymaniu do czasu przedłożenia niezbędnych informacji, wyjaśnień lub dokumentów. Art. 67zb. Pacjentowi z chwilą, gdy decyzja w sprawie przyznania świadczenia kompensacyjnego stała się prawomocna, doręcza się niezwłocznie zaświadczenie potwierdzające okoliczności, o których mowa w art. 67za ust. 2. Art. 67zc. 1. W terminie 30 dni od dnia, gdy decyzja, w której przyznano świadczenie kompensacyjne i ustalono jego wysokość, stała się prawomocna, wnioskodawca składa Rzecznikowi oświadczenie o przyjęciu świadczenia kompensacyjnego lub o rezygnacji ze świadczenia kompensacyjnego. Rzecznik informuje wnioskodawcę o konieczności złożenia takiego oświadczenia, pouczając go o skutkach złożenia i niezłożenia oświadczenia.
+3. Decyzja, o której mowa w ust. 1, jest wydawana w terminie 3 miesięcy od dnia otrzymania kompletnego i prawidłowo opłaconego wniosku. W przypadku, o którym mowa w art. 67z ust. 1, bieg terminu wydania decyzji ulega wstrzymaniu do czasu przedłożenia niezbędnych informacji, wyjaśnień lub dokumentów.
+
+**Art. 67zb.** Pacjentowi z chwilą, gdy decyzja w sprawie przyznania świadczenia kompensacyjnego stała się prawomocna, doręcza się niezwłocznie zaświadczenie potwierdzające okoliczności, o których mowa w art. 67za ust. 2.
+
+**Art. 67zc.**
+
+1. W terminie 30 dni od dnia, gdy decyzja, w której przyznano świadczenie kompensacyjne i ustalono jego wysokość, stała się prawomocna, wnioskodawca składa Rzecznikowi oświadczenie o przyjęciu świadczenia kompensacyjnego lub o rezygnacji ze świadczenia kompensacyjnego. Rzecznik informuje wnioskodawcę o konieczności złożenia takiego oświadczenia, pouczając go o skutkach złożenia i niezłożenia oświadczenia.
 
 2. Złożenie oświadczenia o przyjęciu świadczenia kompensacyjnego jest równoznaczne ze zrzeczeniem się przez wnioskodawcę wszelkich roszczeń o odszkodowanie, rentę oraz zadośćuczynienie pieniężne mogących wynikać ze zdarzenia medycznego w zakresie szkód, które ujawniły się do dnia złożenia wniosku.
 
-3. Złożenie oświadczenia o rezygnacji ze świadczenia kompensacyjnego lub niezłożenie żadnego z oświadczeń, o których mowa w ust. 1, jest równoznaczne ze zrzeczeniem się przez wnioskodawcę świadczenia kompensacyjnego. Art. 67zd. 1. Świadczenie kompensacyjne jest wypłacane w terminie 14 dni od dnia złożenia oświadczenia o przyjęciu świadczenia kompensacyjnego wynikającego z prawomocnej decyzji.
+3. Złożenie oświadczenia o rezygnacji ze świadczenia kompensacyjnego lub niezłożenie żadnego z oświadczeń, o których mowa w ust. 1, jest równoznaczne ze zrzeczeniem się przez wnioskodawcę świadczenia kompensacyjnego.
+
+**Art. 67zd.**
+
+1. Świadczenie kompensacyjne jest wypłacane w terminie 14 dni od dnia złożenia oświadczenia o przyjęciu świadczenia kompensacyjnego wynikającego z prawomocnej decyzji.
 
 2. Rzecznik informuje podmiot wykonujący działalność leczniczą, z którego działalnością wiąże się wniosek, o wypłacie świadczenia kompensacyjnego.
 
@@ -1066,7 +1023,104 @@ o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 
 ##### Oddział 3 Komisja Odwoławcza do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych
 
+**Art. 67ze.**
+
+1. Od decyzji Rzecznika, o której mowa w art. 67za ust. 1, wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, działającej przy Rzeczniku.
+
+2. Wniesienie odwołania podlega opłacie w wysokości 200 zł. Opłatę uiszcza się na rachunek bankowy Funduszu Kompensacyjnego Zdarzeń Medycznych.
+
+3. Do opłaty, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 67t ust. 6 i 7.
+
+4. W przypadku gdy odwołanie nie zostało należycie opłacone, Rzecznik wzywa wnioskodawcę do usunięcia tego braku w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że jego nieusunięcie spowoduje pozostawienie odwołania bez rozpoznania.
+
+5. W przypadku uchylenia decyzji na skutek wniesionego odwołania opłata, o której mowa w ust. 2, podlega zwrotowi na rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, albo adres, na który ma być dokonany przekaz pocztowy, wskazane we wniosku.
+
+**Art. 67zf.**
+
+1. Obsługę administracyjną Komisji zapewnia Rzecznik.
+
+2. Orzeczenia Komisji zapadają na posiedzeniu niejawnym większością głosów. W przypadku równej liczby głosów decyduje głos przewodniczącego. Członek Komisji nie może wstrzymać się od głosu.
+
+3. Komisja przetwarza dokumentację gromadzoną w związku z rozpatrzeniem odwołania w zakresie koniecznym do sporządzenia orzeczenia.
+
+**Art. 67zg.**
+
+1. W skład Komisji wchodzi 9 członków posiadających wiedzę i doświadczenie dające rękojmię prawidłowego sprawowania tej funkcji, w tym:
+
+- **1)** 2 członków wskazanych przez ministra właściwego do spraw zdrowia;
+- **2)** 1 członek wskazany przez Ministra Sprawiedliwości;
+- **3)** 1 członek wskazany przez Rzecznika;
+- **4)** 1 członek wskazany przez Prezesa Narodowego Funduszu Zdrowia;
+- **5)** 1 członek wskazany przez Naczelną Radę Lekarską;
+- **6)** 1 członek wskazany przez Naczelną Radę Pielęgniarek i Położnych;
+- **7)** 2 członków wskazanych przez organizacje pacjentów wpisane do wykazu organizacji pacjentów.
+
+2. Członków Komisji powołuje minister właściwy do spraw zdrowia, z tym że członkowie, o których mowa w ust. 1 pkt 2–6, są powoływani na wniosek właściwych organów.
+
+3. Członkowie Komisji, o których mowa w ust. 1 pkt 7, są powoływani spośród kandydatów zgłoszonych w terminie 14 dni od dnia podania do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz w Biuletynie Informacji Publicznej tego urzędu ogłoszenia o naborze przedstawicieli tych organizacji na członków Komisji.
+
+4. Kadencja członków Komisji wynosi 3 lata. W przypadku odwołania członka Komisji albo jego śmierci przed upływem kadencji, kadencja członka powołanego na jego miejsce upływa z dniem upływu kadencji odwołanego albo zmarłego członka.
+
+5. Członkiem Komisji może być wyłącznie osoba, która:
+
+- **1)** posiada tytuł zawodowy magistra lub równorzędny, uzyskany po ukończeniu studiów na kierunku związanym z kształceniem w zakresie nauk medycznych lub nauk prawnych;
+- **2)** nie została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+- **3)** korzysta z pełni praw publicznych.
+
+6. Kandydat na członka Komisji składa ministrowi właściwemu do spraw zdrowia pisemne oświadczenie, pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+7. Członek Komisji jest obowiązany do niezwłocznego poinformowania ministra właściwego do spraw zdrowia oraz Rzecznika o zaistnieniu okoliczności powodujących utratę wymagań koniecznych do pełnienia funkcji członka Komisji oraz powstaniu przeszkód uniemożliwiających wykonywanie zadań członka Komisji.
+
+8. Członkowi Komisji przysługuje wynagrodzenie za udział w posiedzeniu w wysokości nieprzekraczającej 20 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku ubiegłego, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, nie więcej jednak niż 120 % tego wynagrodzenia miesięcznie, a także zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji, uwzględniając zakres jej zadań.
+
+10. Pracami Komisji kieruje przewodniczący przy pomocy wiceprzewodniczącego. Przewodniczący i wiceprzewodniczący są wybierani spośród członków Komisji na pierwszym posiedzeniu bezwzględną większością głosów w obecności co najmniej 2/3 jej członków w głosowaniu tajnym.
+
+11. Minister właściwy do spraw zdrowia odwołuje członka Komisji przed upływem kadencji w przypadku:
+
+- **1)** ujawnienia, że nie spełnia wymagań, o których mowa w ust. 5;
+- **2)** orzeczenia zakazu pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwa;
+- **3)** choroby trwale uniemożliwiającej wykonywanie zadań;
+- **4)** zaistnienia okoliczności, które wpływają na niezależne sprawowanie funkcji członka Komisji;
+- **5)** uchylania się od wykonywania obowiązków członka Komisji albo ich nieprawidłowego wykonywania;
+- **6)** złożenia rezygnacji.
+
+12. Tryb pracy Komisji określa regulamin uchwalany przez Komisję.
+
+**Art. 67zh.**
+
+1. Członek Komisji podlega wyłączeniu na zasadach i w trybie określonych w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Członek Komisji niezwłocznie informuje Rzecznika o zaistnieniu okoliczności stanowiących podstawę do wyłączenia.
+
+2. Członek Komisji jest obowiązany do zachowania w tajemnicy uzyskanych w toku postępowania informacji dotyczących wnioskodawcy, a także zmarłego pacjenta, w tym również po ustaniu członkostwa w Komisji.
+
 ##### Oddział 4 Fundusz Kompensacyjny Zdarzeń Medycznych
+
+**Art. 67zi.**
+
+1. Fundusz Kompensacyjny Zdarzeń Medycznych, zwany dalej „Funduszem”, jest państwowym funduszem celowym tworzonym w celu wypłacania świadczeń kompensacyjnych w przypadku wystąpienia zdarzeń medycznych.
+
+2. Dysponentem Funduszu jest Rzecznik.
+
+3. Przychody Funduszu pochodzą z:
+
+- **1)** odpisu, o którym mowa w art. 97 ust. 3i ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** opłat, o których mowa w art. 67t ust. 4 i art. 67ze ust. 2;
+- **3)** odsetek od zgromadzonych środków;
+- **4)** zwiększenia odpisu, o którym mowa w art. 97 ust. 3j ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **5)** innych źródeł, w szczególności ze spadków, zapisów i darowizn.
+
+4. Ze środków zgromadzonych w Funduszu są finansowane:
+
+- **1)** wypłaty świadczeń kompensacyjnych;
+- **2)** zwroty opłat, o których mowa w art. 67t ust. 4 oraz art. 67ze ust. 2;
+- **3)** odsetki za nieterminowe wypłaty świadczeń kompensacyjnych;
+- **4)** koszty bezpośrednio związane z bieżącym funkcjonowaniem Funduszu;
+- **5)** koszty związane z prowadzeniem postępowań oraz obsługi i funkcjonowania Zespołu i Komisji.
+
+5. Roczny plan finansowy Funduszu, w terminie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej, opracowuje Rzecznik we współpracy z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych.
+
+6. Rzecznik sporządza sprawozdanie z wykonania rocznego planu finansowego Funduszu w terminie 2 miesięcy od dnia zakończenia okresu sprawozdawczego.
 
 #### Rozdział 14 Kary pieniężne
 

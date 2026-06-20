@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych
+# Ustawa z dnia 27 lipca 2012 r. o zmianie ustawy o drogach publicznych
 
 *USTAWA z dnia 27 lipca 2012 r.*
 

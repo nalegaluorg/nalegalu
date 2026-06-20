@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# r. Nr 144, poz.
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi
 
 *USTAWA Opracowano z dnia 16 lipca 2009 r. stawie: Dz. U.*
 

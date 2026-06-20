@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
 
 *USTAWA z dnia 7 września 2007 r.*
 

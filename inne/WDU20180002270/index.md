@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Europy Środkowej
+# Ustawa z dnia 9 listopada 2018 r. o Instytucie Europy Środkowej
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

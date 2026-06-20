@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 czerwca 2023 r.*
 

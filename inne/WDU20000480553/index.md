@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prokuraturze, ustawy o dyscyplinie wojskowej oraz ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu
+# Ustawa z dnia 12 maj 2000 r. o zmianie ustawy o prokuraturze, ustawy o dyscyplinie wojskowej oraz ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 *USTAWA z dnia 12 maja 2000 r.*
 

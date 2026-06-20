@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 października 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -299,7 +299,9 @@ o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza o
 
 7. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wzory rejestrów, o których mowa w ust. 1 i 2, uwzględniając potrzebę sprawnego przepływu danych i kontroli realizacji praw do rekompensaty.
 
-**Art. 20.** Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się art. 145, art. 145a, art. 146 § 2, art. 147–152, art. 154 § 2, art. 155–159 oraz art. 161–163 Kodeksu postępowania administracyjnego, z tym że w przypadku zaświadczeń przepisy te stosuje się odpowiednio. Art. 21–25. (pominięte)
+**Art. 20.** Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się art. 145, art. 145a, art. 146 § 2, art. 147–152, art. 154 § 2, art. 155–159 oraz art. 161–163 Kodeksu postępowania administracyjnego, z tym że w przypadku zaświadczeń przepisy te stosuje się odpowiednio.
+
+**Art. 21–25.** (pominięte)
 
 **Art. 26.** Ilekroć w odrębnych przepisach jest mowa o prawie do zaliczania wartości nieruchomości poza obecnymi granicami państwa polskiego w związku z wojną rozpoczętą w 1939 r., należy przez to rozumieć prawo do rekompensaty, o którym mowa w niniejszej ustawie.
 

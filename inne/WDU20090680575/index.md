@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
+# Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
 
 *USTAWA z dnia 3 kwietnia 2009 r.*
 

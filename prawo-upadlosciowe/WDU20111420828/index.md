@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 9 czerwca 2011 r.*
 

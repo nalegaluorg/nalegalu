@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach oraz ustawy – Kodeks wykroczeń
+# Ustawa z dnia 6 października 2022 r. o zmianie ustawy o lasach oraz ustawy - Kodeks wykroczeń
 
 *USTAWA z dnia 6 października 2022 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o czasowym posługiwaniu się dowodami osobistymi wydanymi przed dniem 1 stycznia 2001 r.
+# Ustawa z dnia 7 września 2007 r. o czasowym posługiwaniu się dowodami osobistymi wydanymi przed dniem 1 stycznia 2001 r.
 
 *USTAWA z dnia 7 września 2007 r.*
 

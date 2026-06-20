@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
+# Ustawa z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym
 
 *USTAWA z dnia 22 lutego 2019 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-04-03 |
 | Ostatnia zmiana | 2024-12-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000630) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/630/text.pdf) |
-
-Art. 41–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -675,6 +673,8 @@ Art. 41–46. (pominięte)
 **Art. 40.** Wojewoda jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa w art. 3 ust. 1, art. 18 ust. 1, art. 22 ust. 1, art. 31 ust. 3 i art. 32 ust. 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 41–46.** (pominięte)
 
 **Art. 47.**
 

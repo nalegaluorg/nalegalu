@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy – Prawo bankowe
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy - Prawo bankowe
 
 *USTAWA z dnia 16 lipca 2009 r.*
 

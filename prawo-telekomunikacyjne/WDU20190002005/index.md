@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo pocztowe oraz ustawy – Prawo telekomunikacyjne
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Prawo pocztowe oraz ustawy - Prawo telekomunikacyjne
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 

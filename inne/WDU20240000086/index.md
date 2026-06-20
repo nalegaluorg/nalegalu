@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022-2025", o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2022-2025" oraz o zmianie ustawy o Policji i niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|

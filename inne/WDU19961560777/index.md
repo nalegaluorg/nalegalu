@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskim Instytucie Spraw Międzynarodowych
+# Ustawa z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych.
 
 *USTAWA z dnia 20 grudnia 1996 r.*
 

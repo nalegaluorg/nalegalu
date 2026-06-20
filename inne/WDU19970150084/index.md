@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o waloryzacji za IV kwartał 1995 r. niektórych emerytur i rent
+# Ustawa z dnia 7 lutego 1997 r. o waloryzacji za IV kwartał 1995 r. niektórych emerytur i rent.
 
 *USTAWA z dnia 7 lutego 1997 r.*
 

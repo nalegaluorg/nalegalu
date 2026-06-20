@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działach administracji rządowej oraz ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o działach administracji rządowej oraz ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 3 kwietnia 2009 r.*
 

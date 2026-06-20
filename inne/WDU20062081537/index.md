@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji niepodjętych depozytów
+# Ustawa z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów
 
 *USTAWA z dnia 18 października 2006 r.*
 
@@ -26,10 +26,6 @@ source: pdf
 | Data wydania | 2006-11-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1537/text.pdf) |
-
-Złożenie przedmiotu świadczenia do depozytu sądowego
-Zwrot depozytu sądowego składającemu i wydanie depozytu sądowego uprawnionemu
-Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 1.** Ustawa reguluje zasady i tryb likwidacji niepodjętych depozytów znajdujących się w dyspozycji jednostek sektora finansów publicznych.
 
@@ -103,7 +99,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 - **1)** w art. 519 w § 4 kropkę na końcu zastępuje się przecinkiem oraz dodaje się pkt 5 w brzmieniu: „5) likwidacji niepodjętych depozytów.”;
 - **2)** w części pierwszej w księdze drugiej w tytule II dział V otrzymuje brzmienie: „DZIAŁ V. Sprawy depozytowe
 
-#### Rozdział 1.
+#### Rozdział 1. Złożenie przedmiotu świadczenia do depozytu sądowego
 
 **Art. 692.** W sprawach o złożenie przedmiotu świadczenia do depozytu sądowego właściwy jest sąd miejsca wykonania zobowiązania. Jeżeli miejsca tego nie da się ustalić, właściwy jest sąd miejsca zamieszkania wierzyciela, a gdy wierzyciel jest nieznany lub gdy nie jest znane miejsce jego zamieszkania – sąd miejsca zamieszkania dłużnika. Jeżeli zobowiązanie jest zabezpieczone wpisem w księdze wieczystej, właściwy jest sąd miejsca położenia nieruchomości.
 
@@ -164,7 +160,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693¹⁰.** Po przyjęciu depozytu sąd wyda dłużnikowi pokwitowanie.
 
-#### Rozdział 2.
+#### Rozdział 2. Zwrot depozytu sądowego składającemu i wydanie depozytu sądowego uprawnionemu
 
 **Art. 693¹¹.**
 
@@ -184,7 +180,7 @@ Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693¹⁷.** Jeżeli złożenie do depozytu sądowego nastąpiło na żądanie właściwego organu, depozyt wydaje się osobie uprawnionej dopiero po wykazaniu przez nią, że warunki, pod którymi wydanie depozytu mogło nastąpić, zostały spełnione.
 
-#### Rozdział 3.
+#### Rozdział 3. Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693¹⁸.**
 

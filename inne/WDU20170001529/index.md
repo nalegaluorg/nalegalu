@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Zasobie Nieruchomości Mając na względzie wynikający z art. 75 Konstytucji Rzeczypospolitej Polskiej obowiązek prowadzenia przez władze publiczne polityki sprzyjającej zaspokojeniu potrzeb mieszkaniowych obywateli oraz wynikający z art. 5 Konstytucji Rzeczypospolitej Polskiej obowiązek kierowania się zasadą zrównoważonego rozwoju, a także zadania władz publicznych realizowane w szczególności przez wprowadzanie instrumentów zwiększających dostępność mieszkań i kształtowanie stabilnych ram finansowania budownictwa mieszkaniowego, uchwala się niniejszą ustawę.
+# Ustawa z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości
 
 *USTAWA z dnia 20 lipca 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-08-11 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1529/text.pdf) |
-
-Art. 112–128. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -184,7 +182,8 @@ Art. 112–128. (pominięte)
 - **1)** położeniu i oznaczeniu nieruchomości według ewidencji gruntów i budynków;
 - **2)** numerze księgi wieczystej, o ile jest założona;
 - **3)** powierzchni nieruchomości według ewidencji gruntów i budynków;
-- **4)** przeznaczeniu nieruchomości ustalonym w miejscowym planie zagospodarowania przestrzennego, a w razie jego braku – w profilu funkcjonalnym strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy; [4a) podjętych uchwałach na podstawie ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195 oraz z 2025 r. poz. 527) oraz wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;] <4a) wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;>
+- **4)** przeznaczeniu nieruchomości ustalonym w miejscowym planie zagospodarowania przestrzennego, a w razie jego braku – w profilu funkcjonalnym strefy planistycznej obejmującej nieruchomość w planie ogólnym gminy;
+- **4a)** wydanych decyzjach o warunkach zabudowy i zagospodarowania terenu;
 - **5)** stanie prawnym nieruchomości, w szczególności o: z 2024 r. poz. 1112, 1881 i 1940), – ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464) i dotyczących zezwolenia na realizację inwestycji w zakresie lotniska użytku publicznego, – ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286 i 1881) i dotyczących lokalizacji inwestycji w zakresie terminalu oraz inwestycji towarzyszącej, – ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311) i dotyczących lokalizacji regionalnej sieci szerokopasmowej, – ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2024 r. poz. 274 oraz z 2025 r. poz. 680) i dotyczących pozwolenia na realizację takich inwestycji, – ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 1410 i 1572 oraz z 2025 r. poz.
     - **a)** ograniczonych prawach rzeczowych ustanowionych na nieruchomości, w tym hipotekach,
     - **b)** użytkowaniu wieczystym,
@@ -1461,6 +1460,8 @@ Art. 112–128. (pominięte)
 #### Rozdział 9
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 112–128.** (pominięte)
 
 #### Rozdział 11 Przepisy dostosowujące, przejściowe i końcowe
 

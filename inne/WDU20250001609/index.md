@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA z dnia 9 października 2025 r.*
 

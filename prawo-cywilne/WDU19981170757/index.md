@@ -66,10 +66,11 @@ $3. W razie niezłożenia oświadczenia w sprawie nazwiska, każdy z małżonkó
 
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 1 Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944 oraz z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
-- **1)** w art. 561 $ 1 otrzymuje brzmienie: "81. Zezwolenia na zawarcie małżeństwa kobiecie nie mającej ukończonych lat osiemnastu udziela sąd opiekuńczy na jej wniosek. Postanowienie o udzieleniu zezwolenia staje się skuteczne z chwilą uprawomocnienia się 1 nie może być zmienione ani uchylone;.
-- **2)** art. 564 otrzymuje brzmienie: <Art. 564. Postanowienie rozstrzygające o tym, czy okoliczność przedstawiona przez kierownika urzędu stanu cywilnego wyłącza zawarcie małżeństwa, a także o tym, czy okoliczności przedstawione przez kierownika urzędu stanu cywilnego uzasadniają odmowę:
-    - **l)** przyjęcia oświadczeń o wstąpieniu w związek małżeński,
+- **1)** w art. 561 $ 1 otrzymuje brzmienie: "81. Zezwolenia na zawarcie małżeństwa kobiecie nie mającej ukończonych lat osiemnastu udziela sąd opiekuńczy na jej wniosek. Postanowienie o udzieleniu zezwolenia staje się skuteczne z chwilą uprawomocnienia się 1 nie może być zmienione ani uchylone;. 2) art. 564 otrzymuje brzmienie:
 
+**Art. 564.** Postanowienie rozstrzygające o tym, czy okoliczność przedstawiona przez kierownika urzędu stanu cywilnego wyłącza zawarcie małżeństwa, a także o tym, czy okoliczności przedstawione przez kierownika urzędu stanu cywilnego uzasadniają odmowę:
+
+- **l)** przyjęcia oświadczeń o wstąpieniu w związek małżeński,
 - **2)** wydania zaświadczenia o braku okoliczności wyłączających zawarcie małżeństwa, o których mowa w art. 4' Kodeksu rodzinnego i opiekuńczego,
 - **3)** wydania zezwolenia na zawarcie małżeństwa przed upływem terminu, o którym mowa w art. 4 Kodeksu rodzinnego i opiekuńczego,
 - **4)** sporządzenia aktu małżeństwa zawartego zgodnie z art. 1 $ 2 Kodeksu rodzinnego i opiekuńczego,

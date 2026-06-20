@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 23 listopada 2010 r.
+# Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2010 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r.
 
 | Pole | Wartość |
 |---|---|

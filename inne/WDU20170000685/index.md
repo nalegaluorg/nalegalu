@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka w Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży – Kraków 2016
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 marca 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka w Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży - Kraków 2016
 
 | Pole | Wartość |
 |---|---|

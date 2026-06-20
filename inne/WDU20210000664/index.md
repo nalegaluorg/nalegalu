@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego
 
 | Pole | Wartość |
 |---|---|

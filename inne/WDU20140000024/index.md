@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
+# Ustawa z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób
 
 *USTAWA z dnia 22 listopada 2013 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/24/text.pdf) |
-
-Art. 49–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -482,6 +480,8 @@ Art. 49–53. (pominięte)
 **Art. 48.** Postanowienie o wypisaniu z Ośrodka jest wykonywane z dniem jego uprawomocnienia.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 49–53.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

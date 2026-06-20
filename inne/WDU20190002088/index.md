@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
 
 *USTAWA z dnia 16 października 2019 r.*
 

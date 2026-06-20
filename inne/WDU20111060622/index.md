@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców
+# Ustawa z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców
 
 *USTAWA z dnia 25 marca 2011 r.*
 
@@ -429,7 +429,11 @@ source: pdf
 - **3)** sprzedanych tablic rejestracyjnych.”;
 - **3)** po art. 75a dodaje się art. 75aa–75ad w brzmieniu: „Art. 75aa. 1. Organem właściwym do prowadzenia rejestru jest marszałek województwa właściwy ze względu na siedzibę przedsiębiorcy.
 
-2. Rejestr może być prowadzony w systemie teleinformatycznym. Art. 75ab. 1. Wpisu do rejestru dokonuje się na podstawie wniosku przedsiębiorcy, zawierającego następujące dane:
+2. Rejestr może być prowadzony w systemie teleinformatycznym.
+
+**Art. 75ab.**
+
+1. Wpisu do rejestru dokonuje się na podstawie wniosku przedsiębiorcy, zawierającego następujące dane:
 
 - **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
@@ -455,11 +459,17 @@ source: pdf
 
 - **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
 - **2)** oznaczenie miejsca i datę złożenia oświadczenia;
-- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji. Art. 75ac. 1. Wpisowi do rejestru podlegają dane określone w art. 75ab ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
+- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+
+**Art. 75ac.**
+
+1. Wpisowi do rejestru podlegają dane określone w art. 75ab ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
 
 2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
 
-3. Wydając zaświadczenie o dokonaniu wpisu do rejestru, właściwy marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3. Art. 75ad. Rażącym naruszeniem warunków wykonywania działalności w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych.”;
+3. Wydając zaświadczenie o dokonaniu wpisu do rejestru, właściwy marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3.
+
+**Art. 75ad.** Rażącym naruszeniem warunków wykonywania działalności w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych.”;
 
 - **4)** art. 75c otrzymuje brzmienie: „Art. 75c. Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie do produkcji tablic rejestracyjnych, określi, w drodze rozporządzenia:
 - **1)** warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych i znaków legalizacyjnych oraz prowadzenia ewidencji, o których mowa w art. 75a ust. 6;

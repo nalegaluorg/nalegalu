@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnieniu socjalnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnieniu socjalnym
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 13 czerwca 2003 r.
 o zatrudnieniu socjalnym
-Art. 19–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -525,7 +524,13 @@ Art. 19–28. (pominięte)
 
 **Art. 18b.** Wojewoda przedstawia corocznie, nie później niż do dnia 30 kwietnia, ministrowi właściwemu do spraw zabezpieczenia społecznego informację o liczbie zarejestrowanych klubów integracji społecznej według stanu na dzień 31 grudnia roku poprzedniego.
 
-**Art. 18c.** Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej w okresach trzyletnich, najpóźniej do dnia 30 września, informacje o funkcjonowaniu centrów i klubów integracji społecznej. Art. 18ca. 1. Minister właściwy do spraw zabezpieczenia społecznego może opracować resortowe programy na rzecz rozwoju Centrów i klubów integracji społecznej oraz finansowo wspierać te programy. 2. Do wyłonienia podmiotów realizujących programy, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+**Art. 18c.** Rada Ministrów przedkłada Sejmowi i Senatowi Rzeczypospolitej Polskiej w okresach trzyletnich, najpóźniej do dnia 30 września, informacje o funkcjonowaniu centrów i klubów integracji społecznej.
+
+**Art. 18ca.**
+
+1. Minister właściwy do spraw zabezpieczenia społecznego może opracować resortowe programy na rzecz rozwoju Centrów i klubów integracji społecznej oraz finansowo wspierać te programy.
+
+2. Do wyłonienia podmiotów realizujących programy, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 #### Rozdział 7a Rada Zatrudnienia Socjalnego
 
@@ -574,6 +579,8 @@ Art. 19–28. (pominięte)
 5. Podmioty, o których mowa w art. 18 ust. 1, obowiązane są do zachowania w tajemnicy wszelkich informacji i danych, które uzyskały przy prowadzeniu działań w ramach reintegracji zawodowej i społecznej.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 19–28.** (pominięte)
 
 **Art. 29.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 22 pkt 1, który wchodzi w życie z dniem 16 lipca 2003 r.
 

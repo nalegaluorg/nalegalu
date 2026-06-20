@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Rzeczniku Praw Dziecka oraz niektórych innych ustaw
+# Ustawa z dnia 24 września 2010 r. o zmianie ustawy o Rzeczniku Praw Dziecka oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 września 2010 r.*
 

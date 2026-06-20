@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007–2022
+# Ustawa z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-05-30 |
 | Ostatnia zmiana | 2024-04-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001030) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1030/text.pdf) |
-
-Art. 43–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -448,6 +446,8 @@ Art. 43–46. (pominięte)
 **Art. 42.** Komisja może wnosić pod obrady Rady Ministrów projekty dokumentów rządowych, na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów.
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 43–46.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 

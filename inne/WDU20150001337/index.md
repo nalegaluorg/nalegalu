@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności
+# Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o ewidencji ludności
 
 *USTAWA z dnia 23 lipca 2015 r.*
 

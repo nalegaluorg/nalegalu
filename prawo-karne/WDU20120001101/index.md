@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 31 sierpnia 2012 r.*
 

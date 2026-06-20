@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi
+# Ustawa z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi.
 
 *USTAWA z dnia 8 lipca 1999 r.*
 

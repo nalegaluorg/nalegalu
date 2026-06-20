@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o urzędzie Ministra Obrony Narodowej
+# Ustawa z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej.
 
 *USTAWA z dnia 14 grudnia 1995 r.*
 

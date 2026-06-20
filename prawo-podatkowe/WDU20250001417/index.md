@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 12 września 2025 r.*
 

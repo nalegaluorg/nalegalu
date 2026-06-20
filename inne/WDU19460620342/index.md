@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 15 listopada 1946 r. r.
+# Dekret z dnia 15 listopada 1946 r. o zajęciu majątku państw pozostających z Państwem Polskim w stanie wojny w latach 1939-1945 i majątku osób prawnych i obywateli tych państw oraz o zarządzie przymusowym nad tymi majątkami.
 
 | Pole | Wartość |
 |---|---|

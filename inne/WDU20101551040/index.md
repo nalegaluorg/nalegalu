@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Podlaskiej
+# Ustawa z dnia 23 lipca 2010 r. o nadaniu nowej nazwy Akademii Podlaskiej
 
 *USTAWA z dnia 23 lipca 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych
+# Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych.
 
 *USTAWA z dnia 18 lutego 2000 r.*
 

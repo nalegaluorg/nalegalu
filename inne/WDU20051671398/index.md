@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 28 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-01 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1398/text.pdf) |
-
-Art. 126–147. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -401,7 +399,9 @@ Art. 126–147. (pominięte)
 
 1. W sprawach z zakresu ubezpieczeń społecznych i w sprawach odwołań rozpoznawanych przez sąd pracy i ubezpieczeń społecznych pobiera się opłatę podstawową wyłącznie od apelacji, zażalenia, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
 
-2. Przepisu ust. 1 nie stosuje się do strony wnoszącej odwołanie do sądu pracy i ubezpieczeń społecznych. <Art. 36a. Opłatę stałą w kwocie 200 złotych pobiera się od odwołania, o którym mowa w art. 14b ust. 8 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ), a także od apelacji i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie.>
+2. Przepisu ust. 1 nie stosuje się do strony wnoszącej odwołanie do sądu pracy i ubezpieczeń społecznych.
+
+**Art. 36a.** Opłatę stałą w kwocie 200 złotych pobiera się od odwołania, o którym mowa w art. 14b ust. 8 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ), a także od apelacji i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie.
 
 ### DZIAŁ 4 Wysokość opłat w postępowaniu nieprocesowym
 
@@ -950,7 +950,8 @@ Art. 126–147. (pominięte)
 - **5)** kurator wyznaczony przez sąd orzekający lub sąd opiekuńczy dla danej sprawy;
 - **6)** prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Rzecznik Finansowy oraz Rzecznik Małych i Średnich Przedsiębiorców;
 - **7)** powiatowy (miejski) rzecznik konsumentów w sprawach dotyczących praktyk ograniczających konkurencję oraz praktyk naruszających zbiorowe interesy konsumentów;
-- **7a)** podmiot upoważniony, o którym mowa w art. 46a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów oraz w sprawach o roszczenia związane z ich stosowaniem; [8) inspektor pracy oraz związki zawodowe w sprawach z zakresu prawa pracy;] <8) Główny Inspektor Pracy, okręgowy inspektor pracy oraz związki zawodowe w sprawach z zakresu prawa pracy;>
+- **7a)** podmiot upoważniony, o którym mowa w art. 46a ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794), w sprawach o stwierdzenie stosowania praktyk naruszających ogólne interesy konsumentów oraz w sprawach o roszczenia związane z ich stosowaniem;
+- **8)** Główny Inspektor Pracy, okręgowy inspektor pracy oraz związki zawodowe w sprawach z zakresu prawa pracy;
 - **9)** strona w sprawach związanych z ochroną zdrowia psychicznego;
 - **9a)** osoba ubezwłasnowolniona w sprawach o uchylenie lub zmianę ubezwłasnowolnienia;
 - **10)** strona, która została zwolniona od kosztów sądowych przez sąd – w zakresie przyznanego jej zwolnienia;
@@ -1132,6 +1133,8 @@ Art. 126–147. (pominięte)
 **Art. 125.** Czynności w sprawach odroczenia lub rozłożenia na raty należności sądowych może – na zarządzenie prezesa sądu rejonowego lub okręgowego – wykonywać referendarz sądowy. Na zarządzenie referendarza przysługuje skarga do sądu.
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących
+
+**Art. 126–147.** (pominięte)
 
 ## TYTUŁ VII Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
+# Ustawa z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
 
 *USTAWA z dnia 15 września 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-09-19 |
 | Ostatnia zmiana | 2025-09-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001967) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1967/text.pdf) |
-
-Art. 38–50. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -91,9 +89,7 @@ Art. 38–50. (pominięte)
 
 **Art. 3a.**
 
-1. Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki dla przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, dla każdej grupy taryfowej w danym systemie ciepłowniczym, wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, stosowanych w dniu 30 września 2022 r. w tym systemie, powiększone o 40 %, w terminie 10 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw (Dz. U. poz.
-
-- **295)** .
+1. Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki dla przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, dla każdej grupy taryfowej w danym systemie ciepłowniczym, wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, stosowanych w dniu 30 września 2022 r. w tym systemie, powiększone o 40 %, w terminie 10 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw (Dz. U. poz. 295).
 
 2. Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom ciepła, o których mowa w art. 4 ust. 1:
 
@@ -321,7 +317,11 @@ Art. 38–50. (pominięte)
 - **1)** zarządcy rozliczeń – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 1;
 - **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 3.
 
-11. Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 13 ust. 3, art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20. Art. 12aa. 1. Za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przedsiębiorstwu energetycznemu:
+11. Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 13 ust. 3, art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
+
+**Art. 12aa.**
+
+1. Za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przedsiębiorstwu energetycznemu:
 
 - **1)** o którym mowa w art. 3b ust. 1, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy tego przedsiębiorstwa i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 1 pkt 2 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług;
 - **2)** o którym mowa w art. 3b ust. 2, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 2 pkt 1 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
@@ -1112,6 +1112,8 @@ Art. 38–50. (pominięte)
 6. Kary pieniężne, o których mowa w ust. 1–3, stanowią dochód budżetu państwa.
 
 #### Rozdział 6 Przepisy zmieniające
+
+**Art. 38–50.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i przepis końcowy
 

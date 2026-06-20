@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o opiniodawczych zespołach sądowych specjalistów
+# Ustawa z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -76,7 +76,8 @@ source: pdf
 2. Kierownikiem zespołu może zostać osoba:
 
 - **1)** mająca pełną zdolność do czynności prawnych;
-- **2)** posiadająca obywatelstwo polskie, obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, albo obywatelstwo innego państwa, jeżeli na podstawie przepisów prawa Unii Europejskiej przysługuje jej prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej na zasadach określonych w tych przepisach; [3) która ukończyła studia wyższe z zakresu psychologii lub pedagogiki w Rzeczypospolitej Polskiej i uzyskała tytuł magistra lub ukończyła zagraniczne studia z zakresu psychologii lub pedagogiki uznane w Rzeczypospolitej Polskiej, albo jest lekarzem posiadającym specjalizację z zakresu pediatrii, medycyny rodzinnej, chorób wewnętrznych, psychiatrii lub psychiatrii dzieci i młodzieży;] <3) która posiada prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187), lub ukończyła studia wyższe z zakresu pedagogiki w Rzeczypospolitej Polskiej i uzyskała tytuł magistra, lub ukończyła zagraniczne studia z zakresu pedagogiki uznane w Rzeczypospolitej Polskiej albo jest lekarzem posiadającym specjalizację z zakresu pediatrii, medycyny rodzinnej, chorób wewnętrznych, psychiatrii lub psychiatrii dzieci i młodzieży;>
+- **2)** posiadająca obywatelstwo polskie, obywatelstwo innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, albo obywatelstwo innego państwa, jeżeli na podstawie przepisów prawa Unii Europejskiej przysługuje jej prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej na zasadach określonych w tych przepisach;
+- **3)** która posiada prawo wykonywania zawodu psychologa, o którym mowa w art. 5 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187), lub ukończyła studia wyższe z zakresu pedagogiki w Rzeczypospolitej Polskiej i uzyskała tytuł magistra, lub ukończyła zagraniczne studia z zakresu pedagogiki uznane w Rzeczypospolitej Polskiej albo jest lekarzem posiadającym specjalizację z zakresu pediatrii, medycyny rodzinnej, chorób wewnętrznych, psychiatrii lub psychiatrii dzieci i młodzieży;
 - **4)** posiadająca minimum 5-letni staż pracy zgodny z wykształceniem lub specjalizacją;
 - **5)** mająca nieposzlakowaną opinię;
 - **6)** która nie została skazana prawomocnym wyrokiem za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
@@ -202,7 +203,9 @@ source: pdf
 - **1)** prawomocnego skazania za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **2)** prawomocnego orzeczenia ubezwłasnowolnienia częściowego lub całkowitego.
 
-**Art. 18.** W sprawach nieuregulowanych w ustawie do kierownika zespołu i specjalistów stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357). Art. 19–24. (pominięte)
+**Art. 18.** W sprawach nieuregulowanych w ustawie do kierownika zespołu i specjalistów stosuje się odpowiednio przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138, 305 i 357).
+
+**Art. 19–24.** (pominięte)
 
 **Art. 25.**
 

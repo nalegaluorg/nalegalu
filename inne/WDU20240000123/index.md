@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
+# Ustawa z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
 
 *USTAWA z dnia 16 stycznia 2024 r.*
 

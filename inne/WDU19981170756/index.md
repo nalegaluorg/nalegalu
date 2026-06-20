@@ -253,7 +253,11 @@ Kasy Chorych nie finansują kosztów leczenia ubezpieczonego poza granicami kraj
 
 **Art. 31d.**
 
-1. Ubezpieczony ma prawo do Świadczeń rehabilitacji leczniczej w celu zapobieżenia niepełnosprawności, jej usunięcia, ograniczenia lub złagodzenia jej skutków. „ Kasa Chorych zapewnia ubezpieczonemu niezbędne Świadczenia rehabilitacyjne w zakładzie rehabilitacji leczniczej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego. Koszty wyżywienia i zakwaterowania w zakładzie rehabilitacji leczniczej pokrywane są na zasadach określonych dla zakładów opiekuńczo— leczniczych w odrębnych przepisach. Art. 3le. 1. Ubezpieczony ma prawo do bezpłatnych podstawowych świadczeń lekarza stomatologa oraz podstawowych materiałów stomatologicznych. . Wykaz podstawowych świadczeń zdrowotnych lekarza stomatologa oraz podstawowych materiałów stomatologicznych określi Minister Zdrowia i Opieki Społecznej, w drodze rozporządzenia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej oraz Krajowego Związku Kas Chorych. Art. 3If. 1. Ubezpieczony ma prawo do świadczeń z zakresu badań diagnostycznych, w tym analityki medycznej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego, bezpłatnie lub za zryczałtowaną opłatą. . Minister Zdrowia 1 Opieki Społecznej po zasięgnięciu opinii Krajowego Związku Kas Chorych określi, w drodze rozporządzenia, wykaz badań diagnostycznych, za które ubezpieczony wnosi zryczałtowane opłaty, oraz maksymalną wysokość tych opłat;.
+1. Ubezpieczony ma prawo do Świadczeń rehabilitacji leczniczej w celu zapobieżenia niepełnosprawności, jej usunięcia, ograniczenia lub złagodzenia jej skutków. „ Kasa Chorych zapewnia ubezpieczonemu niezbędne Świadczenia rehabilitacyjne w zakładzie rehabilitacji leczniczej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego. Koszty wyżywienia i zakwaterowania w zakładzie rehabilitacji leczniczej pokrywane są na zasadach określonych dla zakładów opiekuńczo— leczniczych w odrębnych przepisach.
+
+**Art. 3le.**
+
+1. Ubezpieczony ma prawo do bezpłatnych podstawowych świadczeń lekarza stomatologa oraz podstawowych materiałów stomatologicznych. . Wykaz podstawowych świadczeń zdrowotnych lekarza stomatologa oraz podstawowych materiałów stomatologicznych określi Minister Zdrowia i Opieki Społecznej, w drodze rozporządzenia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej oraz Krajowego Związku Kas Chorych. Art. 3If. 1. Ubezpieczony ma prawo do świadczeń z zakresu badań diagnostycznych, w tym analityki medycznej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego, bezpłatnie lub za zryczałtowaną opłatą. . Minister Zdrowia 1 Opieki Społecznej po zasięgnięciu opinii Krajowego Związku Kas Chorych określi, w drodze rozporządzenia, wykaz badań diagnostycznych, za które ubezpieczony wnosi zryczałtowane opłaty, oraz maksymalną wysokość tych opłat;.
 
 - **32)** skreśla się art. 32—34;
 - **33)** wart. 35 ust. 2 otrzymuje brzmienie: „2. Zaopatrzenie w leki i materiały medyczne przysługuje ubezpieczonemu także na podstawie recepty wystawionej przez lekarza nie będącego lekarzem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z Kasą Chorych umowę upoważniającą go do wystawiania takich recept;.
@@ -675,7 +679,12 @@ Kasy Chorych nie finansują kosztów leczenia ubezpieczonego poza granicami kraj
 
 - **114)** skreśla się art. 136-140;
 - **115)** art. 141 otrzymuje brzmienie: „Art. 141. Kasy Chorych oraz Krajowy Związek Kas Chorych przeprowadzają coroczne badanie sprawozdań finansowych przez biegłych rewidentów 1 prowadzą rachunkowość na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz.U. Nr poz. 554, Nr 139, poz. 933 1 934, Nr 140, poz. 9391 Nr 141, poz. 945 oraz z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668 1 Nr 107, poz. 669)*.;
-- **116)** po art. 141 dodaje się rozdział 7a w brzmieniu: "Rozdział 7a Przetwarzanie i ochrona danych Art. 14la. 1. Kasy Chorych są uprawnione do uzyskiwania i przetwarzania danych osobowych osób ubezpieczonych w celu:
+- **116)** po art. 141 dodaje się rozdział 7a w brzmieniu: "Rozdział 7a Przetwarzanie i ochrona danych
+
+**Art. 14la.**
+
+1. Kasy Chorych są uprawnione do uzyskiwania i przetwarzania danych osobowych osób ubezpieczonych w celu:
+
 - **1)** stwierdzenia obowiązku ubezpieczenia i członkostwa,
 - **2)** wystawienia dokumentów uprawniających do korzystania ze świadczeń Kas Chorych,
 - **3)** stwierdzenia obowiązku płacenia składki i ustalenia kwoty składki ,
@@ -701,7 +710,9 @@ Kasy Chorych nie finansują kosztów leczenia ubezpieczonego poza granicami kraj
 
 **Art. 141b.**
 
-1. Apteki są zobowiązane udostępniać na żądanie Kasom Chorych do wglądu recepty i przekazywać niezbędne dane rozliczeniowe, których rodzaj określa Rada Krajowego Związku Kas Chorych w porozumieniu z Naczelną Radą Aptekarską. . Szpitale oraz pozostali świadczeniodawcy działający w ramach umów z Kasami Chorych zobowiązani są do gromadzenia 1 przekazywania Kasom Chorych danych, które określa Rada Krajowego Związku Kas Chorych. Art. 14lc. Jeżeli ubezpieczony przenosi się do innej Kasy Chorych, dotychczas ubezpieczająca go Kasa Chorych zobowiązana jest przekazać Kasie Chorych aktualnie go ubezpieczającej wszelkie dane niezbędne do kontynuacji ubezpieczenia.
+1. Apteki są zobowiązane udostępniać na żądanie Kasom Chorych do wglądu recepty i przekazywać niezbędne dane rozliczeniowe, których rodzaj określa Rada Krajowego Związku Kas Chorych w porozumieniu z Naczelną Radą Aptekarską. . Szpitale oraz pozostali świadczeniodawcy działający w ramach umów z Kasami Chorych zobowiązani są do gromadzenia 1 przekazywania Kasom Chorych danych, które określa Rada Krajowego Związku Kas Chorych.
+
+**Art. 14lc.** Jeżeli ubezpieczony przenosi się do innej Kasy Chorych, dotychczas ubezpieczająca go Kasa Chorych zobowiązana jest przekazać Kasie Chorych aktualnie go ubezpieczającej wszelkie dane niezbędne do kontynuacji ubezpieczenia.
 
 **Art. 141d.** Kasa Chorych na żądanie ubezpieczonego informuje go o udzielonych mu świadczeniach oraz ich kosztach;.
 

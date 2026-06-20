@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo własności przemysłowej
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy - Prawo własności przemysłowej
 
 *USTAWA z dnia 11 września 2015 r.*
 

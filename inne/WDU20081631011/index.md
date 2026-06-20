@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o lasach
+# Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o lasach
 
 *USTAWA Opracowano na z dnia 10 lipca 2008 r. stawie: Dz.U. z 2008 r. Nr 163, poz. 1011.*
 

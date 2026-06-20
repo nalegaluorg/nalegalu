@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody oraz ustawy o lasach
+# Ustawa z dnia 16 grudnia 2016 r. o zmianie ustawy o ochronie przyrody oraz ustawy o lasach
 
 *USTAWA z dnia 16 grudnia 2016 r.*
 

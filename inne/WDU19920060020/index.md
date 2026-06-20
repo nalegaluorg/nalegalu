@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
+# Ustawa z dnia 23 grudnia 1991 r. o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych.
 
 | Pole | Wartość |
 |---|---|

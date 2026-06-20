@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym oraz ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw
+# Ustawa z dnia 27 stycznia 2006 r. o zmianie ustawy o samorządzie gminnym oraz ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw
 
 *USTAWA z dnia 27 stycznia 2006 r.*
 

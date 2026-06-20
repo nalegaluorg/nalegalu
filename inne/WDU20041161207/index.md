@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracowniczych programach emerytalnych
+# Ustawa z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-05-24 |
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1207/text.pdf) |
-
-Art. 51–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -953,6 +951,8 @@ Art. 51–55. (pominięte)
 3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów postępowania karnego.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 51–55.** (pominięte)
 
 **Art. 56.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Organizacji Turystycznej
+# Ustawa z dnia 3 marca 2000 r. o zmianie ustawy o Polskiej Organizacji Turystycznej.
 
 *USTAWA z dnia 3 marca 2000 r.*
 

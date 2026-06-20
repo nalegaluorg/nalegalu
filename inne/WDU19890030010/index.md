@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gospodarce finansowej przedsiębiorstw państwowych
+# Ustawa z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych.
 
 *USTAWA z dnia 31 stycznia 1989 r.*
 

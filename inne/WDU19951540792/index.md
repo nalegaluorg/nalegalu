@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa
+# Ustawa z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa.
 
 *USTAWA z dnia 1 grudnia 1995 r.*
 

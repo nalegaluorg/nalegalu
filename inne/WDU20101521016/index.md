@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o kosztach sądowych w sprawach cywilnych
+# Ustawa z dnia 8 lipca 2010 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o kosztach sądowych w sprawach cywilnych
 
 *USTAWA z dnia 8 lipca 2010 r.*
 

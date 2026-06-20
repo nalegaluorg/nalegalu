@@ -27,90 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/911/text.pdf) |
 
-Art. 43la. § 1. Sąd penitencjarny może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
-1) wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą jednego roku i 6 miesięcy albo wobec skazanego orzeczono karę pozbawienia wolności w wymiarze niższym niż 3 lata i któremu do odbycia w zakładzie karnym pozostała część tej kary w wymiarze nie większym niż 6 miesięcy, a nie zachodzą warunki przewidziane w art. 64 § 2, art. 64a lub art. 65 § 1 i 2 Kodeksu karnego;
-2) odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary;
-3) skazany posiada określone miejsce stałego pobytu;
-4) osoby pełnoletnie zamieszkujące wspólnie ze skazanym wyraziły zgodę, o której mowa w art. 43h § 3;
-5) odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie warunki techniczne, o których mowa w art. 43h § 1.
-§ 2. Skazanemu, który nie rozpoczął wykonywania kary w zakładzie karnym, można udzielić zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli względy bezpieczeństwa i stopień demoralizacji, a także inne szczególne okoliczności nie przemawiają za potrzebą osadzenia skazanego w zakładzie karnym.
-§ 3. Skazanemu, który rozpoczął już odbywanie kary w zakładzie karnym, można udzielić zezwolenia na odbycie w systemie dozoru elektronicznego pozostałej części kary, jeżeli za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego.
-§ 4. Sąd może udzielić zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego pomimo braku zgody, o której mowa w art. 43h § 3, jeżeli wykonanie kary w systemie dozoru elektronicznego w sposób oczywisty nie wiąże się z nadmiernymi trudnościami dla osoby, która tej zgody nie wyraziła, i narusza jej prywatność jedynie w nieznacznym stopniu.
-§ 5. Na postanowienie, o którym mowa w § 4, osobie, która nie wyraziła zgody, przysługuje zażalenie.
-§ 6. Przepisy § 1–5 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno:
-1) nieprzekraczających w sumie 1 roku i 6 miesięcy,
-2) których suma jest niższa niż 3 lata i któremu do odbycia w zakładzie karnym pozostała część tej kary w wymiarze nie większym niż 6 miesięcy – a żadna kara nie została orzeczona za przestępstwo popełnione w warunkach przewidzianych w art. 64 § 2 lub art. 64a Kodeksu karnego.
-Art. 43lb. Przepisy niniejszego rozdziału stosuje się także do skazanego, wobec którego orzeczono zastępczą karę pozbawienia wolności za przestępstwo lub przestępstwo skarbowe lub karę pozbawienia wolności orzeczoną w warunkach, o których mowa w art. 37b lub w art. 87 § 2 Kodeksu karnego.
-Art. 43lc. W sprawach o udzielenie skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny orzeka na wniosek skazanego lub na wniosek jego obrońcy, prokuratora, sądowego kuratora zawodowego lub dyrektora zakładu karnego.
-Art. 43ld. § 1. Wniosek, o którym mowa w art. 43lc, wraz z uzasadnieniem, składa się na piśmie.
-§ 2. Uzasadnienie wniosku zawiera wskazanie okoliczności, o których mowa w art. 43la § 1–4.
-§ 3. Do wniosku złożonego przez skazanego, jego obrońcę, prokuratora lub sądowego kuratora zawodowego dołącza się zgodę, o której mowa w art. 43h § 3.
-W przypadku wniosku składanego przez dyrektora zakładu karnego zgodę taką uzyskuje na zasadach określonych w art. 43h § 4 i 5 sąd penitencjarny orzekający w przedmiocie udzielenia zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
-§ 4. Sąd penitencjarny wydaje postanowienie w terminie 30 dni od dnia wpływu wniosku.
-Art. 43le. § 1. Jeżeli wniosek o udzielenie zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego dotyczy skazanego, który odbywa już karę pozbawienia wolności w zakładzie karnym, posiedzenie sądu penitencjarnego odbywa się w tym zakładzie, w którym skazany przebywa.
-§ 2. Sąd penitencjarny wysłuchuje przedstawiciela administracji zakładu karnego co do celowości udzielenia zezwolenia.
-§ 3. Udział prokuratora w posiedzeniu o udzielenie zezwolenia jest obowiązkowy.
-Art. 43lf. § 1. Przed wydaniem postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny ustala, czy na przeszkodzie udzieleniu zezwolenia nie stoją warunki techniczne. W tym celu sąd żąda nadesłania informacji od podmiotu dozorującego.
-§ 2. Jeżeli udzieleniu zezwolenia na odbycie kary w systemie dozoru elektronicznego stoją na przeszkodzie warunki techniczne, sędzia penitencjarny pozostawia wniosek bez rozpoznania.
-Art. 43lg. Przed wydaniem postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny wysłuchuje skazanego lub jego obrońcę, sądowego kuratora zawodowego, jeżeli składał wniosek o zezwolenie, o którym mowa w art. 43la § 1, oraz przedstawiciela skazanego, o którym mowa w art. 42.
-Art. 43lh. § 1. W postanowieniu o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny:
-1) określa miejsce, czas, rodzaj lub sposób wykonywania nałożonych obowiązków oraz rodzaj podlegających zainstalowaniu środków technicznych;
-2) wyznacza termin i określa sposób zgłoszenia przez skazanego podmiotowi dozorującemu gotowości do zainstalowania rejestratora stacjonarnego lub przenośnego lub nadajnika.
-§ 2. Przepis art. 43k § 2 zdanie pierwsze stosuje się odpowiednio.
-§ 3. O terminie, o którym mowa w § 1 pkt 2, sędzia penitencjarny zawiadamia sądowego kuratora zawodowego, jeżeli nie brał on udziału w posiedzeniu sądu penitencjarnego, a także podmiot dozorujący.
-§ 4. Odpis postanowienia sądu penitencjarnego doręcza się sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
-§ 5. O wydaniu postanowienia sędzia penitencjarny niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, w przypadku, o którym mowa w art. 168a § 2a, albo jeżeli został złożony wniosek, o którym mowa w art. 168a § 1 i 1a.
-Art. 43li. W przypadku objęcia wyrokiem łącznym kary pozbawienia wolności wykonywanej w systemie dozoru elektronicznego sąd penitencjarny z urzędu uchyla zezwolenie na odbycie tej kary w tym systemie, co nie stoi na przeszkodzie jednoczesnemu udzieleniu zezwolenia na odbycie kary łącznej pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zachodzą warunki określone w art. 43la § 1.
-Art. 43lj. § 1. Na postanowienie sądu penitencjarnego, o którym mowa w art. 43lh § 1, zażalenie przysługuje skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia.
-§ 1a. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, postanowienie, o którym mowa w art. 43lh § 1, staje się wykonalne z chwilą uprawomocnienia.
-§ 2. Zażalenie, o którym mowa w § 1, niezwłocznie przekazuje się wraz z aktami sprawy sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej w terminie 7 dni od daty wpływu zażalenia wraz z aktami sprawy do tego sądu.
-Art. 43lk. Na postanowienie sądu penitencjarnego o odmowie udzielenia zezwolenia na odbywanie kary pozbawienia wolności w systemie dozoru elektronicznego przysługuje zażalenie skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia; przepis art. 43lj § 2 stosuje się odpowiednio.
-Art. 43ll. Ponowny wniosek skazanego lub jego obrońcy o udzielenie zezwolenia, o którym mowa w art. 43la, w tej samej sprawie, złożony przed upływem 3 miesięcy od dnia wydania postanowienia o odmowie udzielenia tego zezwolenia, pozostawia się bez rozpoznania.
-Art. 43lla. § 1. Komisja penitencjarna może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
-1) wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą 4 miesięcy, a nie zachodzą warunki przewidziane w art. 64 § 2, art. 64a lub art. 65 § 1 lub 2 Kodeksu karnego;
-2) skazany rozpoczął już odbywanie kary w zakładzie karnym;
-3) odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary;
-4) za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego w trakcie odbywania kary pozbawienia wolności;
-5) skazany posiada określone miejsce stałego pobytu;
-6) osoby pełnoletnie zamieszkujące wspólnie ze skazanym wyraziły zgodę, o której mowa w art. 43h § 3;
-7) odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie warunki techniczne, o których mowa w art. 43h § 1.
-§ 2. Do postępowania przed komisją penitencjarną stosuje się odpowiednio przepisy art. 43la § 4, art. 43lc, art. 43ld § 1–3, art. 43le, art. 43lf, art. 43lg i art. 43lh.
-§ 3. Na decyzję komisji penitencjarnej, wydaną na podstawie art. 43la § 4, osobie, która nie wyraziła zgody, przysługuje skarga. Przepisy art. 7 stosuje się odpowiednio.
-§ 4. Komisja penitencjarna wydaje decyzję w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego w terminie 14 dni od dnia wpływu wniosku o udzielenie zezwolenia, o którym mowa w § 1.
-§ 5. Ponowny wniosek skazanego lub jego obrońcy o udzielenie zezwolenia, o którym mowa w § 1, w tej samej sprawie, złożony przed upływem miesiąca od dnia wydania decyzji o odmowie udzielenia tego zezwolenia, pozostawia się bez rozpoznania.
-§ 6. Przepis § 1 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających w sumie 4 miesięcy.
-§ 7. W sprawach związanych z udzieleniem skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, o których mowa w § 1, wyłącznie właściwa jest komisja penitencjarna. Jeżeli jednak w chwili złożenia wniosku skazany nie rozpoczął jeszcze odbywania kary, w sprawach związanych z udzieleniem zezwolenia właściwy jest sąd penitencjarny.
-Art. 43llb. § 1. Na decyzję komisji penitencjarnej w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego skarga przysługuje także obrońcy skazanego, prokuratorowi, jak również sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia. Przepisy art. 7 i art. 43lj § 2 stosuje się odpowiednio.
-§ 2. Rozpoznając skargę sąd penitencjarny bierze pod uwagę w szczególności czy odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary oraz czy za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego w trakcie odbywania kary pozbawienia wolności.
-§ 3. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu decyzji o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, decyzja komisji penitencjarnej staje się wykonalna z chwilą uprawomocnienia.
-§ 4. Decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem i pouczeniem o przysługującym prawie, terminie i sposobie wniesienia skargi skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia.
-§ 5. Wykonalną decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem właściwemu sądowi penitencjarnemu.
-Art. 43lm. § 1. Przed uchyleniem zezwolenia sąd penitencjarny, o ile uzna to za konieczne, wysłuchuje skazanego lub jego obrońcę, a także sądowego kuratora zawodowego oraz przedstawiciela skazanego, o którym mowa w art. 42.
-§ 2. Na postanowienie sądu penitencjarnego o uchyleniu zezwolenia przysługuje zażalenie. Przepisy art. 43lj § 2 i art. 43lk stosuje się odpowiednio.
-Art. 43ln. § 1. O warunkowym przedterminowym zwolnieniu skazanego odbywającego karę pozbawienia wolności w systemie dozoru elektronicznego orzeka na posiedzeniu sąd penitencjarny, w którego okręgu skazany posiada miejsce stałego pobytu.
-§ 2. Wniosek o warunkowe przedterminowe zwolnienie może złożyć również sądowy kurator zawodowy.
-§ 3. Udzielając warunkowego przedterminowego zwolnienia, sąd uchyla zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
-§ 4. Udzielenie warunkowego przedterminowego zwolnienia nie jest dopuszczalne wobec skazanego, który odbywa w systemie dozoru elektronicznego zastępczą karę pozbawienia wolności za przestępstwo lub przestępstwo skarbowe.
-§ 5. W razie odwołania warunkowego przedterminowego zwolnienia stosuje się odpowiednio przepisy art. 43zac § 1 i art. 43zad.
-Art. 43za. § 1. Karę w systemie dozoru elektronicznego uznaje się za wykonaną z dniem zakończenia wykonywania tego dozoru, chyba że uchylono zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
-§ 2. Jeżeli kara w systemie dozoru elektronicznego została objęta karą łączną, sąd, który orzekł karę łączną, niezwłocznie informuje o tym sąd właściwy w sprawach wykonywania dozoru elektronicznego. Sąd właściwy w sprawach wykonywania dozoru elektronicznego wydaje wówczas polecenie, o którym mowa w art. 43t § 1 pkt 6, chyba że nie jest to celowe ze względu na rodzaj i wymiar orzeczonej kary łącznej.
-Art. 43zaa. § 1. Sąd penitencjarny uchyla zezwolenie na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli:
-1) skazany nie zachowa wyznaczonego terminu na zgłoszenie upoważnionemu podmiotowi dozorującemu gotowości, o której mowa w art. 43m § 1, albo uchyla się od niezwłocznego zainstalowania przez podmiot dozorujący rejestratora lub od założenia nadajnika;
-2) skazany, odbywając karę pozbawienia wolności w systemie dozoru elektronicznego, naruszył porządek prawny, w szczególności popełnił przestępstwo lub przestępstwo skarbowe, lub uchyla się od wykonania obowiązków związanych z dozorem elektronicznym lub innych nałożonych obowiązków, orzeczonego środka karnego, środka kompensacyjnego lub przepadku;
-3) odwołano przerwę w wykonaniu kary pozbawienia wolności w systemie dozoru elektronicznego z powodu innego niż ustanie przyczyny, dla której przerwa została udzielona;
-4) skazany w czasie wykonywania kary pozbawienia wolności w systemie dozoru elektronicznego został osadzony w zakładzie karnym w związku z zastosowaniem tymczasowego aresztowania lub wykonaniem kary w innej sprawie.
-§ 2. Sąd penitencjarny może odstąpić od uchylenia zezwolenia, o którym mowa w § 1, w wyjątkowych przypadkach, uzasadnionych szczególnymi okolicznościami.
-Art. 43zab. Sąd penitencjarny może uchylić zezwolenie na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli skazany korzystający z zezwolenia, o którym mowa w art. 43p, nie powrócił do określonego miejsca w wyznaczonym czasie.
-Art. 43zac. § 1. W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, sąd penitencjarny orzeka o tym, w jakim zakresie karę pozbawienia wolności należy uznać za wykonaną, uwzględniając zaliczenie na poczet kary okresu objętego systemem dozoru elektronicznego.
-§ 2. Skazanego zawiadamia się o obliczonym okresie kary pozbawienia wolności pozostałej do wykonania w zakładzie karnym.
-Art. 43zad. W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, sąd penitencjarny niezwłocznie poleca zatrzymać i doprowadzić skazanego do aresztu śledczego bez wezwania, o czym należy go pouczyć.
-Art. 43zae. W razie uchylenia zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ponowne udzielenie zezwolenia na odbycie kary w tym systemie jest niedopuszczalne w tej samej sprawie.
-Art. 43zb. (uchylony)
-Art. 43zc. (uchylony)
-Art. 43zd. (uchylony)
-Art. 43ze. (uchylony)
-Art. 43zf. (uchylony)
-
 ## CZĘŚĆ OGÓLNA
 
 #### Rozdział I Zakres obowiązywania
@@ -779,7 +695,13 @@ Art. 43zf. (uchylony)
 
 § 3. Podmiotem dozorującym może być przedsiębiorca, instytucja państwowa, podmiot zagraniczny będący przedsiębiorcą w rozumieniu prawa kraju rejestracji i spełniający warunki do wykonywania w Rzeczypospolitej Polskiej działalności gospodarczej albo jednostka organizacyjna podległa Ministrowi Sprawiedliwości lub przez niego nadzorowana.
 
-§ 4. Minister Sprawiedliwości dokonuje wyboru podmiotu dozorującego, o którym mowa w § 3, w trybie określonym w ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620) i powierza mu wykonywanie czynności, o których mowa w § 1 pkt 1 lub 2, chyba że powierzenie czynności, o których mowa w § 1 pkt 2, dotyczy jednostki organizacyjnej podległej Ministrowi Sprawiedliwości lub przez niego nadzorowanej. Art. 43ga. 1. Podmiot dozorujący udostępnia niezwłocznie na piśmie w postaci papierowej lub elektronicznej komornikowi sądowemu i Państwowej Inspekcji Pracy, na ich wniosek, informacje dotyczące miejsca pobytu skazanego uchylającego się od wykonania obowiązku alimentacyjnego, w tym spłaty należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, wobec którego zastosowano karę, środek karny lub środek zabezpieczający łączące się z dozorem elektronicznym. 2. Informacje, o których mowa w ust. 1, udostępnia się:
+§ 4. Minister Sprawiedliwości dokonuje wyboru podmiotu dozorującego, o którym mowa w § 3, w trybie określonym w ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620) i powierza mu wykonywanie czynności, o których mowa w § 1 pkt 1 lub 2, chyba że powierzenie czynności, o których mowa w § 1 pkt 2, dotyczy jednostki organizacyjnej podległej Ministrowi Sprawiedliwości lub przez niego nadzorowanej.
+
+**Art. 43ga.**
+
+1. Podmiot dozorujący udostępnia niezwłocznie na piśmie w postaci papierowej lub elektronicznej komornikowi sądowemu i Państwowej Inspekcji Pracy, na ich wniosek, informacje dotyczące miejsca pobytu skazanego uchylającego się od wykonania obowiązku alimentacyjnego, w tym spłaty należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, wobec którego zastosowano karę, środek karny lub środek zabezpieczający łączące się z dozorem elektronicznym.
+
+2. Informacje, o których mowa w ust. 1, udostępnia się:
 
 - **1)** komornikowi sądowemu w celu dokonania egzekucji świadczeń alimentacyjnych, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów, od dłużników uchylających się od obowiązków alimentacyjnych;
 - **2)** Państwowej Inspekcji Pracy w celu kontroli przez Państwową Inspekcję Pracy legalności zatrudnienia skazanego uchylającego się od wykonania obowiązku alimentacyjnego, w tym spłaty należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów.
@@ -841,7 +763,11 @@ Art. 43zf. (uchylony)
 
 § 7. Jeżeli czas trwania dozoru elektronicznego jest określony, po rozpoczęciu wykonywania dozoru sąd zawiadamia skazanego i podmiot dozorujący o dacie jego zakończenia.
 
-§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pisemnego pouczenia, o którym mowa w § 4, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy obrońcy. Art. 43ka. § 1. Przed orzeczeniem wobec skazanego elektronicznej kontroli miejsca pobytu w związku z przerwą w wykonaniu kary pozbawienia wolności sąd penitencjarny ustala, czy na przeszkodzie zastosowaniu takiej kontroli nie stoją warunki techniczne. W tym celu sąd żąda nadesłania informacji od podmiotu dozorującego.
+§ 8. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pisemnego pouczenia, o którym mowa w § 4, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy obrońcy.
+
+**Art. 43ka.**
+
+§ 1. Przed orzeczeniem wobec skazanego elektronicznej kontroli miejsca pobytu w związku z przerwą w wykonaniu kary pozbawienia wolności sąd penitencjarny ustala, czy na przeszkodzie zastosowaniu takiej kontroli nie stoją warunki techniczne. W tym celu sąd żąda nadesłania informacji od podmiotu dozorującego.
 
 § 2. W postanowieniu o udzieleniu skazanemu przerwy w wykonaniu kary pozbawienia wolności z zastosowaniem elektronicznej kontroli miejsca pobytu skazanego sąd penitencjarny:
 
@@ -859,6 +785,142 @@ Art. 43zf. (uchylony)
 § 3. Na postanowienie o zmianie dozoru zbliżeniowego na dozór mobilny przysługuje zażalenie stronom i osobie chronionej.
 
 ##### Oddział 2a Warunki i tryb orzekania o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego
+
+**Art. 43la.**
+
+§ 1. Sąd penitencjarny może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
+
+- **1)** wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą jednego roku i 6 miesięcy albo wobec skazanego orzeczono karę pozbawienia wolności w wymiarze niższym niż 3 lata i któremu do odbycia w zakładzie karnym pozostała część tej kary w wymiarze nie większym niż 6 miesięcy, a nie zachodzą warunki przewidziane w art. 64 § 2, art. 64a lub art. 65 § 1 i 2 Kodeksu karnego;
+- **2)** odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary;
+- **3)** skazany posiada określone miejsce stałego pobytu;
+- **4)** osoby pełnoletnie zamieszkujące wspólnie ze skazanym wyraziły zgodę, o której mowa w art. 43h § 3;
+- **5)** odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie warunki techniczne, o których mowa w art. 43h § 1.
+
+§ 2. Skazanemu, który nie rozpoczął wykonywania kary w zakładzie karnym, można udzielić zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli względy bezpieczeństwa i stopień demoralizacji, a także inne szczególne okoliczności nie przemawiają za potrzebą osadzenia skazanego w zakładzie karnym.
+
+§ 3. Skazanemu, który rozpoczął już odbywanie kary w zakładzie karnym, można udzielić zezwolenia na odbycie w systemie dozoru elektronicznego pozostałej części kary, jeżeli za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego.
+
+§ 4. Sąd może udzielić zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego pomimo braku zgody, o której mowa w art. 43h § 3, jeżeli wykonanie kary w systemie dozoru elektronicznego w sposób oczywisty nie wiąże się z nadmiernymi trudnościami dla osoby, która tej zgody nie wyraziła, i narusza jej prywatność jedynie w nieznacznym stopniu.
+
+§ 5. Na postanowienie, o którym mowa w § 4, osobie, która nie wyraziła zgody, przysługuje zażalenie.
+
+§ 6. Przepisy § 1–5 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno:
+
+- **1)** nieprzekraczających w sumie 1 roku i 6 miesięcy,
+- **2)** których suma jest niższa niż 3 lata i któremu do odbycia w zakładzie karnym pozostała część tej kary w wymiarze nie większym niż 6 miesięcy – a żadna kara nie została orzeczona za przestępstwo popełnione w warunkach przewidzianych w art. 64 § 2 lub art. 64a Kodeksu karnego.
+
+**Art. 43lb.** Przepisy niniejszego rozdziału stosuje się także do skazanego, wobec którego orzeczono zastępczą karę pozbawienia wolności za przestępstwo lub przestępstwo skarbowe lub karę pozbawienia wolności orzeczoną w warunkach, o których mowa w art. 37b lub w art. 87 § 2 Kodeksu karnego.
+
+**Art. 43lc.** W sprawach o udzielenie skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny orzeka na wniosek skazanego lub na wniosek jego obrońcy, prokuratora, sądowego kuratora zawodowego lub dyrektora zakładu karnego.
+
+**Art. 43ld.**
+
+§ 1. Wniosek, o którym mowa w art. 43lc, wraz z uzasadnieniem, składa się na piśmie.
+
+§ 2. Uzasadnienie wniosku zawiera wskazanie okoliczności, o których mowa w art. 43la § 1–4.
+
+§ 3. Do wniosku złożonego przez skazanego, jego obrońcę, prokuratora lub sądowego kuratora zawodowego dołącza się zgodę, o której mowa w art. 43h § 3. W przypadku wniosku składanego przez dyrektora zakładu karnego zgodę taką uzyskuje na zasadach określonych w art. 43h § 4 i 5 sąd penitencjarny orzekający w przedmiocie udzielenia zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
+
+§ 4. Sąd penitencjarny wydaje postanowienie w terminie 30 dni od dnia wpływu wniosku.
+
+**Art. 43le.**
+
+§ 1. Jeżeli wniosek o udzielenie zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego dotyczy skazanego, który odbywa już karę pozbawienia wolności w zakładzie karnym, posiedzenie sądu penitencjarnego odbywa się w tym zakładzie, w którym skazany przebywa.
+
+§ 2. Sąd penitencjarny wysłuchuje przedstawiciela administracji zakładu karnego co do celowości udzielenia zezwolenia.
+
+§ 3. Udział prokuratora w posiedzeniu o udzielenie zezwolenia jest obowiązkowy.
+
+**Art. 43lf.**
+
+§ 1. Przed wydaniem postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny ustala, czy na przeszkodzie udzieleniu zezwolenia nie stoją warunki techniczne. W tym celu sąd żąda nadesłania informacji od podmiotu dozorującego.
+
+§ 2. Jeżeli udzieleniu zezwolenia na odbycie kary w systemie dozoru elektronicznego stoją na przeszkodzie warunki techniczne, sędzia penitencjarny pozostawia wniosek bez rozpoznania.
+
+**Art. 43lg.** Przed wydaniem postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny wysłuchuje skazanego lub jego obrońcę, sądowego kuratora zawodowego, jeżeli składał wniosek o zezwolenie, o którym mowa w art. 43la § 1, oraz przedstawiciela skazanego, o którym mowa w art. 42.
+
+**Art. 43lh.**
+
+§ 1. W postanowieniu o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego sąd penitencjarny:
+
+- **1)** określa miejsce, czas, rodzaj lub sposób wykonywania nałożonych obowiązków oraz rodzaj podlegających zainstalowaniu środków technicznych;
+- **2)** wyznacza termin i określa sposób zgłoszenia przez skazanego podmiotowi dozorującemu gotowości do zainstalowania rejestratora stacjonarnego lub przenośnego lub nadajnika.
+
+§ 2. Przepis art. 43k § 2 zdanie pierwsze stosuje się odpowiednio.
+
+§ 3. O terminie, o którym mowa w § 1 pkt 2, sędzia penitencjarny zawiadamia sądowego kuratora zawodowego, jeżeli nie brał on udziału w posiedzeniu sądu penitencjarnego, a także podmiot dozorujący.
+
+§ 4. Odpis postanowienia sądu penitencjarnego doręcza się sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.
+
+§ 5. O wydaniu postanowienia sędzia penitencjarny niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, w przypadku, o którym mowa w art. 168a § 2a, albo jeżeli został złożony wniosek, o którym mowa w art. 168a § 1 i 1a.
+
+**Art. 43li.** W przypadku objęcia wyrokiem łącznym kary pozbawienia wolności wykonywanej w systemie dozoru elektronicznego sąd penitencjarny z urzędu uchyla zezwolenie na odbycie tej kary w tym systemie, co nie stoi na przeszkodzie jednoczesnemu udzieleniu zezwolenia na odbycie kary łącznej pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zachodzą warunki określone w art. 43la § 1.
+
+**Art. 43lj.**
+
+§ 1. Na postanowienie sądu penitencjarnego, o którym mowa w art. 43lh § 1, zażalenie przysługuje skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia.
+
+§ 1a. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, postanowienie, o którym mowa w art. 43lh § 1, staje się wykonalne z chwilą uprawomocnienia.
+
+§ 2. Zażalenie, o którym mowa w § 1, niezwłocznie przekazuje się wraz z aktami sprawy sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej w terminie 7 dni od daty wpływu zażalenia wraz z aktami sprawy do tego sądu.
+
+**Art. 43lk.** Na postanowienie sądu penitencjarnego o odmowie udzielenia zezwolenia na odbywanie kary pozbawienia wolności w systemie dozoru elektronicznego przysługuje zażalenie skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia; przepis art. 43lj § 2 stosuje się odpowiednio.
+
+**Art. 43ll.** Ponowny wniosek skazanego lub jego obrońcy o udzielenie zezwolenia, o którym mowa w art. 43la, w tej samej sprawie, złożony przed upływem 3 miesięcy od dnia wydania postanowienia o odmowie udzielenia tego zezwolenia, pozostawia się bez rozpoznania.
+
+**Art. 43lla.**
+
+§ 1. Komisja penitencjarna może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
+
+- **1)** wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą 4 miesięcy, a nie zachodzą warunki przewidziane w art. 64 § 2, art. 64a lub art. 65 § 1 lub 2 Kodeksu karnego;
+- **2)** skazany rozpoczął już odbywanie kary w zakładzie karnym;
+- **3)** odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary;
+- **4)** za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego w trakcie odbywania kary pozbawienia wolności;
+- **5)** skazany posiada określone miejsce stałego pobytu;
+- **6)** osoby pełnoletnie zamieszkujące wspólnie ze skazanym wyraziły zgodę, o której mowa w art. 43h § 3;
+- **7)** odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie warunki techniczne, o których mowa w art. 43h § 1.
+
+§ 2. Do postępowania przed komisją penitencjarną stosuje się odpowiednio przepisy art. 43la § 4, art. 43lc, art. 43ld § 1–3, art. 43le, art. 43lf, art. 43lg i art. 43lh.
+
+§ 3. Na decyzję komisji penitencjarnej, wydaną na podstawie art. 43la § 4, osobie, która nie wyraziła zgody, przysługuje skarga. Przepisy art. 7 stosuje się odpowiednio.
+
+§ 4. Komisja penitencjarna wydaje decyzję w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego w terminie 14 dni od dnia wpływu wniosku o udzielenie zezwolenia, o którym mowa w § 1.
+
+§ 5. Ponowny wniosek skazanego lub jego obrońcy o udzielenie zezwolenia, o którym mowa w § 1, w tej samej sprawie, złożony przed upływem miesiąca od dnia wydania decyzji o odmowie udzielenia tego zezwolenia, pozostawia się bez rozpoznania.
+
+§ 6. Przepis § 1 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających w sumie 4 miesięcy.
+
+§ 7. W sprawach związanych z udzieleniem skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, o których mowa w § 1, wyłącznie właściwa jest komisja penitencjarna. Jeżeli jednak w chwili złożenia wniosku skazany nie rozpoczął jeszcze odbywania kary, w sprawach związanych z udzieleniem zezwolenia właściwy jest sąd penitencjarny.
+
+**Art. 43llb.**
+
+§ 1. Na decyzję komisji penitencjarnej w przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego skarga przysługuje także obrońcy skazanego, prokuratorowi, jak również sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia. Przepisy art. 7 i art. 43lj § 2 stosuje się odpowiednio.
+
+§ 2. Rozpoznając skargę sąd penitencjarny bierze pod uwagę w szczególności czy odbywaniu kary pozbawienia wolności w systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że w razie odbycia kary w tym systemie nie zostaną osiągnięte cele kary oraz czy za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego w trakcie odbywania kary pozbawienia wolności.
+
+§ 3. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu decyzji o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, decyzja komisji penitencjarnej staje się wykonalna z chwilą uprawomocnienia.
+
+§ 4. Decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem i pouczeniem o przysługującym prawie, terminie i sposobie wniesienia skargi skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia.
+
+§ 5. Wykonalną decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem właściwemu sądowi penitencjarnemu.
+
+**Art. 43lm.**
+
+§ 1. Przed uchyleniem zezwolenia sąd penitencjarny, o ile uzna to za konieczne, wysłuchuje skazanego lub jego obrońcę, a także sądowego kuratora zawodowego oraz przedstawiciela skazanego, o którym mowa w art. 42.
+
+§ 2. Na postanowienie sądu penitencjarnego o uchyleniu zezwolenia przysługuje zażalenie. Przepisy art. 43lj § 2 i art. 43lk stosuje się odpowiednio.
+
+**Art. 43ln.**
+
+§ 1. O warunkowym przedterminowym zwolnieniu skazanego odbywającego karę pozbawienia wolności w systemie dozoru elektronicznego orzeka na posiedzeniu sąd penitencjarny, w którego okręgu skazany posiada miejsce stałego pobytu.
+
+§ 2. Wniosek o warunkowe przedterminowe zwolnienie może złożyć również sądowy kurator zawodowy.
+
+§ 3. Udzielając warunkowego przedterminowego zwolnienia, sąd uchyla zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
+
+§ 4. Udzielenie warunkowego przedterminowego zwolnienia nie jest dopuszczalne wobec skazanego, który odbywa w systemie dozoru elektronicznego zastępczą karę pozbawienia wolności za przestępstwo lub przestępstwo skarbowe.
+
+§ 5. W razie odwołania warunkowego przedterminowego zwolnienia stosuje się odpowiednio przepisy art. 43zac § 1 i art. 43zad.
 
 ##### Oddział 3 Obowiązki i prawa skazanego
 
@@ -890,7 +952,10 @@ Art. 43zf. (uchylony)
 
 - **1)** nieprzerwanie nosić rejestrator przenośny;
 - **2)** odbierać połączenia przychodzące do rejestratora przenośnego;
-- **3)** udzielać osobom upoważnionym, na ich żądanie, wyjaśnień, o których mowa w § 1 pkt 4, również przy użyciu rejestratora przenośnego. Art. 43na. Obowiązek określony w art. 43n § 2 pkt 1 obejmuje pozostawanie skazanego w miejscu stałego pobytu lub w innym wskazanym miejscu w wyznaczonym czasie. Sąd penitencjarny albo komisja penitencjarna określa przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, w których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, w szczególności w celu:
+- **3)** udzielać osobom upoważnionym, na ich żądanie, wyjaśnień, o których mowa w § 1 pkt 4, również przy użyciu rejestratora przenośnego.
+
+**Art. 43na.** Obowiązek określony w art. 43n § 2 pkt 1 obejmuje pozostawanie skazanego w miejscu stałego pobytu lub w innym wskazanym miejscu w wyznaczonym czasie. Sąd penitencjarny albo komisja penitencjarna określa przedziały czasu w ciągu doby i w poszczególnych dniach tygodnia, w których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, w szczególności w celu:
+
 - **1)** świadczenia pracy;
 - **2)** wykonywania praktyk religijnych lub korzystania z posług religijnych;
 - **3)** sprawowania opieki nad osobą małoletnią, osobą niedołężną lub chorą;
@@ -900,7 +965,11 @@ Art. 43zf. (uchylony)
 - **7)** komunikowania się z podmiotami, o których mowa w art. 38 § 1;
 - **8)** utrzymywania więzi z rodziną lub innymi bliskimi osobami;
 - **9)** korzystania z opieki medycznej lub udziału w terapii;
-- **10)** dokonania niezbędnych zakupów. Art. 43nb. § 1. Sąd penitencjarny może nałożyć na skazanego odbywającego karę pozbawienia wolności w systemie dozoru elektronicznego obowiązki określone w art. 72 Kodeksu karnego. Obowiązki te mogą zostać nałożone również na wniosek prokuratora lub sądowego kuratora zawodowego, a także komisji penitencjarnej, jeżeli udzieliła skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
+- **10)** dokonania niezbędnych zakupów.
+
+**Art. 43nb.**
+
+§ 1. Sąd penitencjarny może nałożyć na skazanego odbywającego karę pozbawienia wolności w systemie dozoru elektronicznego obowiązki określone w art. 72 Kodeksu karnego. Obowiązki te mogą zostać nałożone również na wniosek prokuratora lub sądowego kuratora zawodowego, a także komisji penitencjarnej, jeżeli udzieliła skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
 
 § 2. Jeżeli względy wychowawcze za tym przemawiają, sąd penitencjarny może w czasie odbywania przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ustanawiać, rozszerzać lub zmieniać obowiązki określone w art. 72 § 1 pkt 3–8 Kodeksu karnego lub zwolnić od wykonania nałożonych na tej podstawie obowiązków, z wyjątkiem obowiązku określonego w art. 72 § 2 Kodeksu karnego, a także zmieniać rodzaj zastosowanych środków technicznych.
 
@@ -938,7 +1007,11 @@ Art. 43zf. (uchylony)
 
 § 2. Prezes sądu lub upoważniony sędzia w terminie 7 dni od wyrażenia zgody, o której mowa w § 1, zarządza ponowne zainstalowanie rejestratora lub założenie nadajnika albo występuje do sądu o zarządzenie przerwy w wykonaniu kary.
 
-§ 3. Po ustaniu przyczyny usunięcia urządzenia lub nadajnika prezes sądu lub upoważniony sędzia lub sędzia penitencjarny, na wniosek sądowego kuratora zawodowego, zarządza jego ponowne zainstalowanie lub założenie. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio. Art. 43ra. § 1. Jeżeli skazany, wobec którego wykonywany jest w systemie dozoru elektronicznego środek karny lub środek zabezpieczający, został osadzony w areszcie śledczym lub zakładzie karnym, umieszczony w zakładzie psychiatrycznym w związku z zastosowaniem wobec niego środka zabezpieczającego, umieszczony bez jego zgody w zakładzie leczniczym albo poddany leczeniu w zakładzie leczniczym, w którym są udzielane świadczenia zdrowotne z zakresu opieki psychiatrycznej, prezes sądu lub upoważniony sędzia:
+§ 3. Po ustaniu przyczyny usunięcia urządzenia lub nadajnika prezes sądu lub upoważniony sędzia lub sędzia penitencjarny, na wniosek sądowego kuratora zawodowego, zarządza jego ponowne zainstalowanie lub założenie. Przepisy art. 43k § 1, art. 43lh § 1, art. 43lj § 1 oraz art. 43m stosuje się odpowiednio.
+
+**Art. 43ra.**
+
+§ 1. Jeżeli skazany, wobec którego wykonywany jest w systemie dozoru elektronicznego środek karny lub środek zabezpieczający, został osadzony w areszcie śledczym lub zakładzie karnym, umieszczony w zakładzie psychiatrycznym w związku z zastosowaniem wobec niego środka zabezpieczającego, umieszczony bez jego zgody w zakładzie leczniczym albo poddany leczeniu w zakładzie leczniczym, w którym są udzielane świadczenia zdrowotne z zakresu opieki psychiatrycznej, prezes sądu lub upoważniony sędzia:
 
 - **1)** na wniosek podmiotu dozorującego,
 - **2)** na wniosek dyrektora aresztu śledczego lub zakładu karnego, kierownika zakładu psychiatrycznego lub kierownika zakładu leczniczego lub
@@ -1044,6 +1117,45 @@ Art. 43zf. (uchylony)
 § 2. Sąd zawiadamia skazanego o dacie rozpoczęcia przerwy. Przepisy art. 43i, art. 43k i art. 43m stosuje się odpowiednio.
 
 ##### Oddział 5 Zakończenie dozoru elektronicznego
+
+**Art. 43za.**
+
+§ 1. Karę w systemie dozoru elektronicznego uznaje się za wykonaną z dniem zakończenia wykonywania tego dozoru, chyba że uchylono zezwolenie na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego.
+
+§ 2. Jeżeli kara w systemie dozoru elektronicznego została objęta karą łączną, sąd, który orzekł karę łączną, niezwłocznie informuje o tym sąd właściwy w sprawach wykonywania dozoru elektronicznego. Sąd właściwy w sprawach wykonywania dozoru elektronicznego wydaje wówczas polecenie, o którym mowa w art. 43t § 1 pkt 6, chyba że nie jest to celowe ze względu na rodzaj i wymiar orzeczonej kary łącznej.
+
+**Art. 43zaa.**
+
+§ 1. Sąd penitencjarny uchyla zezwolenie na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli:
+
+- **1)** skazany nie zachowa wyznaczonego terminu na zgłoszenie upoważnionemu podmiotowi dozorującemu gotowości, o której mowa w art. 43m § 1, albo uchyla się od niezwłocznego zainstalowania przez podmiot dozorujący rejestratora lub od założenia nadajnika;
+- **2)** skazany, odbywając karę pozbawienia wolności w systemie dozoru elektronicznego, naruszył porządek prawny, w szczególności popełnił przestępstwo lub przestępstwo skarbowe, lub uchyla się od wykonania obowiązków związanych z dozorem elektronicznym lub innych nałożonych obowiązków, orzeczonego środka karnego, środka kompensacyjnego lub przepadku;
+- **3)** odwołano przerwę w wykonaniu kary pozbawienia wolności w systemie dozoru elektronicznego z powodu innego niż ustanie przyczyny, dla której przerwa została udzielona;
+- **4)** skazany w czasie wykonywania kary pozbawienia wolności w systemie dozoru elektronicznego został osadzony w zakładzie karnym w związku z zastosowaniem tymczasowego aresztowania lub wykonaniem kary w innej sprawie.
+
+§ 2. Sąd penitencjarny może odstąpić od uchylenia zezwolenia, o którym mowa w § 1, w wyjątkowych przypadkach, uzasadnionych szczególnymi okolicznościami.
+
+**Art. 43zab.** Sąd penitencjarny może uchylić zezwolenie na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego, jeżeli skazany korzystający z zezwolenia, o którym mowa w art. 43p, nie powrócił do określonego miejsca w wyznaczonym czasie.
+
+**Art. 43zac.**
+
+§ 1. W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, sąd penitencjarny orzeka o tym, w jakim zakresie karę pozbawienia wolności należy uznać za wykonaną, uwzględniając zaliczenie na poczet kary okresu objętego systemem dozoru elektronicznego.
+
+§ 2. Skazanego zawiadamia się o obliczonym okresie kary pozbawienia wolności pozostałej do wykonania w zakładzie karnym.
+
+**Art. 43zad.** W razie uchylenia zezwolenia, o którym mowa w art. 43zaa § 1 lub art. 43zab, sąd penitencjarny niezwłocznie poleca zatrzymać i doprowadzić skazanego do aresztu śledczego bez wezwania, o czym należy go pouczyć.
+
+**Art. 43zae.** W razie uchylenia zezwolenia na odbycie przez skazanego kary pozbawienia wolności w systemie dozoru elektronicznego ponowne udzielenie zezwolenia na odbycie kary w tym systemie jest niedopuszczalne w tej samej sprawie.
+
+**Art. 43zb.** (uchylony)
+
+**Art. 43zc.** (uchylony)
+
+**Art. 43zd.** (uchylony)
+
+**Art. 43ze.** (uchylony)
+
+**Art. 43zf.** (uchylony)
 
 ## CZĘŚĆ SZCZEGÓLNA
 
@@ -3198,7 +3310,11 @@ Art. 43zf. (uchylony)
 
 § 1. Jeżeli jednym postanowieniem zabezpieczono grożący przepadek oraz grzywnę, obowiązek naprawienia szkody lub zadośćuczynienia za doznaną krzywdę, świadczenie pieniężne, nawiązkę lub wykonanie orzeczenia o kosztach sądowych w postępowaniu karnym, sąd lub prokurator, który wydał to postanowienie, może zlecić jego wykonanie w całości naczelnikowi urzędu skarbowego określonemu zgodnie z art. 22 § 2 i 2a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
-§ 2. W przypadku, o którym mowa w § 1, jeżeli orzeczono przepadek, naczelnik urzędu skarbowego prowadzi również egzekucję orzeczonej jednocześnie grzywny i zasądzonych od skazanego kosztów sądowych oraz egzekucję orzeczonego obowiązku naprawienia szkody lub zadośćuczynienia za doznaną krzywdę, świadczenia pieniężnego albo nawiązki, chyba że zostały wykonane w całości zgodnie z art. 11a lub art. 11b § 1. Art. 195aa. § 1. Jeżeli przedmiot, którego przepadek orzeczono, ma wartość naukową, artystyczną lub historyczną, sąd może, na wniosek lub za zgodą muzeum, postanowić o wykonaniu przepadku tego przedmiotu poprzez przekazanie go temu muzeum.
+§ 2. W przypadku, o którym mowa w § 1, jeżeli orzeczono przepadek, naczelnik urzędu skarbowego prowadzi również egzekucję orzeczonej jednocześnie grzywny i zasądzonych od skazanego kosztów sądowych oraz egzekucję orzeczonego obowiązku naprawienia szkody lub zadośćuczynienia za doznaną krzywdę, świadczenia pieniężnego albo nawiązki, chyba że zostały wykonane w całości zgodnie z art. 11a lub art. 11b § 1.
+
+**Art. 195aa.**
+
+§ 1. Jeżeli przedmiot, którego przepadek orzeczono, ma wartość naukową, artystyczną lub historyczną, sąd może, na wniosek lub za zgodą muzeum, postanowić o wykonaniu przepadku tego przedmiotu poprzez przekazanie go temu muzeum.
 
 § 2. W razie wydania postanowienia, o którym mowa w § 1, sąd nakaże naczelnikowi urzędu skarbowego lub innemu organowi wydanie przedmiotu, którego przepadek orzeczono, właściwemu muzeum. Skarb Państwa odpowiada za szkodę, którą poniosły osoby trzecie wskutek umorzenia postępowania prowadzonego celem wykonania orzeczonego przepadku. Jeżeli przedmiot, którego przepadek orzeczono, nie został jeszcze wydany naczelnikowi urzędu skarbowego lub innemu organowi, wydaje się go bezpośrednio właściwemu muzeum.
 
@@ -3517,7 +3633,11 @@ Art. 43zf. (uchylony)
 
 § 2. Zachowanie tymczasowo aresztowanego stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa aresztu podlega stałemu monitorowaniu. Monitorowanie prowadzi się w celach mieszkalnych wraz z częścią przeznaczoną do celów sanitarno-higienicznych oraz w miejscach i pomieszczeniach, o których mowa w § 1 pkt 1. Monitorowany obraz lub dźwięk podlega utrwalaniu.
 
-§ 3. Przepisy art. 88b § 2 i 3 stosuje się odpowiednio. Art. 212ba. § 1. Jeżeli w związku z toczącym się lub zakończonym postępowaniem karnym, w którym tymczasowo aresztowany uczestniczy lub uczestniczył w charakterze podejrzanego, oskarżonego, świadka lub pokrzywdzonego, wystąpiło poważne zagrożenie lub istnieje bezpośrednia obawa wystąpienia poważnego zagrożenia dla jego życia lub zdrowia, dyrektor aresztu śledczego obejmuje takiego tymczasowo aresztowanego szczególną ochroną w warunkach zwiększonej izolacji i zabezpieczenia, która może polegać na:
+§ 3. Przepisy art. 88b § 2 i 3 stosuje się odpowiednio.
+
+**Art. 212ba.**
+
+§ 1. Jeżeli w związku z toczącym się lub zakończonym postępowaniem karnym, w którym tymczasowo aresztowany uczestniczy lub uczestniczył w charakterze podejrzanego, oskarżonego, świadka lub pokrzywdzonego, wystąpiło poważne zagrożenie lub istnieje bezpośrednia obawa wystąpienia poważnego zagrożenia dla jego życia lub zdrowia, dyrektor aresztu śledczego obejmuje takiego tymczasowo aresztowanego szczególną ochroną w warunkach zwiększonej izolacji i zabezpieczenia, która może polegać na:
 
 - **1)** kontroli stanu jego zdrowia;
 - **2)** udzielaniu pomocy psychologicznej;
@@ -3759,7 +3879,9 @@ Art. 43zf. (uchylony)
 
 § 3. Organ, do którego dyspozycji tymczasowo aresztowany pozostaje, może zarządzić stosowanie wobec tymczasowo aresztowanego, o którym mowa w § 1, również innych przepisów dotyczących tymczasowo aresztowanych.
 
-§ 4. Tymczasowo aresztowanego, o którym mowa w § 1, rozmieszcza się w areszcie śledczym odrębnie od skazanych. Art. 223aa. W wypadkach, o których mowa w art. 223 § 6, sąd wraz z postanowieniem o tymczasowym aresztowaniu przesyła dyrektorowi aresztu śledczego posiadane informacje, o których mowa w art. 11 § 2, niezbędne do wykonywania tymczasowego aresztowania.
+§ 4. Tymczasowo aresztowanego, o którym mowa w § 1, rozmieszcza się w areszcie śledczym odrębnie od skazanych.
+
+**Art. 223aa.** W wypadkach, o których mowa w art. 223 § 6, sąd wraz z postanowieniem o tymczasowym aresztowaniu przesyła dyrektorowi aresztu śledczego posiadane informacje, o których mowa w art. 11 § 2, niezbędne do wykonywania tymczasowego aresztowania.
 
 #### Rozdział XVa Umieszczanie tymczasowo aresztowanych i skazanych odbywających karę pozbawienia wolności w wydzielonych pomieszczeniach lub pomieszczeniach dla osób zatrzymanych
 

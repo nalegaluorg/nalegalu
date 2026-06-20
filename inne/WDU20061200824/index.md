@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej
+# Ustawa z dnia 27 kwietnia 2006 r. o zmianie ustawy o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 

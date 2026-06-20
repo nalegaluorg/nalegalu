@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
+# Ustawa z dnia 19 grudnia 2014 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
 
 *USTAWA z dnia 19 grudnia 2014 r.*
 

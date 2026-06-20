@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

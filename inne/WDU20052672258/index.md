@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniach i zmianach w podziale zadań i kompetencji organów państwowych właściwych w sprawach łączności, radiofonii i telewizji
+# Ustawa z dnia 29 grudnia 2005 r. o przekształceniach i zmianach w podziale zadań i kompetencji organów państwowych właściwych w sprawach łączności, radiofonii i telewizji
 
 *USTAWA z dnia 29 grudnia 2005 r.*
 

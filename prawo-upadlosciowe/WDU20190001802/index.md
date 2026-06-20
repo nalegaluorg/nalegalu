@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo upadłościowe oraz niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Prawo upadłościowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 
@@ -49,7 +49,9 @@ source: pdf
 - **c)** dodaje się ust. 6 w brzmieniu: „6. Wniosek o zatwierdzenie warunków sprzedaży może dotyczyć więcej niż jednego nabywcy.”;
 - **7)** po art. 56a dodaje się art. 56aa i art. 56ab w brzmieniu: „Art. 56aa. 1. W przypadku złożenia wniosku o zatwierdzenie warunków sprzedaży sąd ustanawia tymczasowego nadzorcę sądowego albo zarządcę przymusowego.
 
-2. Tymczasowy nadzorca sądowy albo zarządca przymusowy składa, w wyznaczonym terminie, sprawozdanie obejmujące w szczególności informacje na temat stanu finansowego dłużnika, rodzaju i wartości jego majątku oraz przewidywanych kosztów postępowania upadłościowego oraz innych zobowiązań masy upadłości, które należałoby ponieść przy likwidacji na zasadach ogólnych, a także inne informacje istotne dla rozpoznania wniosku o zatwierdzenie warunków sprzedaży. Art. 56ab. O złożeniu wniosku o zatwierdzenie warunków sprzedaży obwieszcza się.”;
+2. Tymczasowy nadzorca sądowy albo zarządca przymusowy składa, w wyznaczonym terminie, sprawozdanie obejmujące w szczególności informacje na temat stanu finansowego dłużnika, rodzaju i wartości jego majątku oraz przewidywanych kosztów postępowania upadłościowego oraz innych zobowiązań masy upadłości, które należałoby ponieść przy likwidacji na zasadach ogólnych, a także inne informacje istotne dla rozpoznania wniosku o zatwierdzenie warunków sprzedaży.
+
+**Art. 56ab.** O złożeniu wniosku o zatwierdzenie warunków sprzedaży obwieszcza się.”;
 
 - **8)** w art. 56c:
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Sąd uwzględnia wniosek o zatwierdzenie warunków sprzedaży, jeżeli cena jest wyższa niż kwota możliwa do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszona o koszty postępowania oraz inne zobowiązania masy upadłości, które należałoby ponieść przy likwidacji w takim trybie.

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o repatriacji
+# Ustawa z dnia 28 sierpnia 2003 r. o zmianie ustawy o repatriacji
 
 *USTAWA z dnia 28 sierpnia 2003 r.*
 

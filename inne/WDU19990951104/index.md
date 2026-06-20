@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie waloryzacji podstawy opodatkowania dla gier prowadzonych w kasynach i salonach gier w automatach losowych.
+# Rozporządzenie Ministra Finansów z dnia 26 listopada 1999 r. w sprawie waloryzacji podstawy opodatkowania dla gier prowadzonych w kasynach gry i salonach gier w automatach losowych.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+# Ustawa z dnia 18 marca 2011 r. o zmianie ustawy o pomocy społecznej oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 *USTAWA z dnia 18 marca 2011 r.*
 

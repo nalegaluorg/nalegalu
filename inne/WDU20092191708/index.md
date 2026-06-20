@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach lekarskich
+# Ustawa z dnia 2 grudnia 2009 r. o izbach lekarskich
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 
@@ -675,7 +675,8 @@ source: pdf
 - **43)** numer seryjny i datę wydania duplikatu dokumentu uprawniającego do wykonywania zawodu;
 - **44)** informację o skreśleniu z rejestru;
 - **44a)** datę zgonu – w przypadku śmierci lekarza;
-- **45)** identyfikator operatora rejestru i datę pierwszego wprowadzenia danych; <46) numer identyfikujący dokument udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).>
+- **45)** identyfikator operatora rejestru i datę pierwszego wprowadzenia danych;
+- **46)** numer identyfikujący dokument udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
 
 6. Lekarz jest obowiązany przekazać do okręgowej izby lekarskiej dokumenty lub informacje potwierdzające dane wymienione w ust. 5 pkt 1–10, 15–32, 34–37 i 39–41.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze nad rynkiem kapitałowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 28 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze nad rynkiem kapitałowym
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-08-02 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001161) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1161/text.pdf) |
-
-Art. 48–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -54,7 +52,8 @@ Art. 48–52. (pominięte)
 - **5k)** rozporządzeniu 2019/2033 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. );
 - **5l)** rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1);
 - **5m)** rozporządzeniu 2022/858 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1);
-- **5n)** rozporządzeniu 2023/2631 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2631 z dnia 22 listopada 2023 r. w sprawie europejskich zielonych obligacji oraz opcjonalnego ujawniania informacji na temat obligacji wprowadzanych do obrotu jako zrównoważone środowiskowo i obligacji powiązanych ze zrównoważonym rozwojem (Dz. Urz. UE L 2023/2631 z 30.11.2023, z późn. zm. ); <5o) rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **5n)** rozporządzeniu 2023/2631 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2631 z dnia 22 listopada 2023 r. w sprawie europejskich zielonych obligacji oraz opcjonalnego ujawniania informacji na temat obligacji wprowadzanych do obrotu jako zrównoważone środowiskowo i obligacji powiązanych ze zrównoważonym rozwojem (Dz. Urz. UE L 2023/2631 z 30.11.2023, z późn. zm. );
+- **5o)** rozporządzeniu 2023/2859 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **6)** rynku kapitałowym – rozumie się przez to:
     - **a)** rynek papierów wartościowych i innych instrumentów finansowych – w zakresie, w jakim do tych papierów wartościowych i instrumentów finansowych stosuje się przepisy ustaw, o których mowa w pkt 1 i 2, oraz rozporządzenia 236/2012 i rozporządzenia 648/2012, oraz
     - **b)** rynek usług świadczonych przez fundusze inwestycyjne i inne instytucje wspólnego inwestowania – w zakresie, w jakim do tych usług i podmiotów stosuje się przepisy ustawy, o której mowa w pkt 3, i przepisy rozporządzeń, o których mowa w art. 3 ust. 5, oraz
@@ -529,7 +528,7 @@ Art. 48–52. (pominięte)
 - **1)** imieniem i nazwiskiem osoby lub nazwą (firmą) podmiotu, których dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego podmiotu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 3. W przypadkach uzasadnionych potrzebą wykonywania nadzoru przez zagraniczny organ nadzoru, z którym Komisja zawarła porozumienie, o którym mowa w art. 20 ust. 2, albo potrzebą prowadzenia postępowań administracyjnych lub sądowych w sprawach związanych z wykonywaniem nadzoru przez ten organ, albo na wniosek organu nadzoru w innym państwie członkowskim, Komisja może wszczynać z urzędu i prowadzić kontrolę, postępowanie wyjaśniające lub postępowanie administracyjne, jak również żądać wszczęcia takich kontroli i postępowania przez organ nadzoru w innym państwie członkowskim. W takim przypadku upoważniony przedstawiciel tego organu nadzoru może brać udział w czynnościach dokonywanych w toku takich kontroli i postępowania.
 
@@ -943,6 +942,8 @@ Art. 48–52. (pominięte)
 **Art. 47a.** Komisja może, w drodze decyzji, nałożyć na kontrolowanego karę pieniężną w wysokości do 20 000 000 zł, jeżeli kontrolowany uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli, w tym nie wykonuje obowiązków lub uniemożliwia wykonywanie czynności określonych w art. 32 ust. 4–6ba i 7 oraz art. 33 ust. 1.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 48–52.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowej Komisji Badania Wypadków Morskich
+# Ustawa z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich
 
 *USTAWA z dnia 31 sierpnia 2012 r.*
 

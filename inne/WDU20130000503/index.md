@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie gruntów rolnych i leśnych
+# Ustawa z dnia 8 marca 2013 r. o zmianie ustawy o ochronie gruntów rolnych i leśnych
 
 *USTAWA z dnia 8 marca 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych oraz ustawy o przedsiębiorstwach państwowych
+# Ustawa z dnia 1 grudnia 1995 r. o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych oraz ustawy o przedsiębiorstwach państwowych.
 
 | Pole | Wartość |
 |---|---|

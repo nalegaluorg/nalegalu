@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw
+# Ustawa z dnia 16 sierpnia 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 sierpnia 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach samorządowych
+# Ustawa z dnia 15 września 2017 r. o zmianie ustawy o pracownikach samorządowych
 
 *USTAWA z dnia 15 września 2017 r.*
 

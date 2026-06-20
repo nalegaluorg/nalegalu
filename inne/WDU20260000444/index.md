@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

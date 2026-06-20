@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
+# Ustawa z dnia 8 lipca 2021 r. zmieniająca ustawę o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
 
 *USTAWA z dnia 8 lipca 2021 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 
 | Pole | Wartość |
 |---|---|
@@ -274,7 +274,11 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 - **4)** standardy świadczenia usług rozwojowych przez podmioty wpisane do rejestru, o którym mowa w art. 6 ust. 1 pkt 8,
 - **5)** szczegółowe wymagania w zakresie potencjału technicznego, ekonomicznego oraz kadrowego niezbędnego do należytego świadczenia usług rozwojowych,
 - **6)** szczegółowe wymagania w zakresie przestrzegania zasad etyki zawodowej,
-- **7)** szczegółowe wymagania w zakresie zapewniania należytej jakości świadczenia usług rozwojowych, w tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług – mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa w art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa w ust. 1, oraz danych osobowych, o których mowa w art. 6aa ust. 4 pkt 1 i 4, a także konieczność zapewnienia należytej jakości usług rozwojowych oraz wiarygodności podmiotów wpisanych do rejestru. Art. 6aa. 1. Agencja prowadzi rejestr, o którym mowa w art. 6 ust. 1 pkt 8, w systemie teleinformatycznym.
+- **7)** szczegółowe wymagania w zakresie zapewniania należytej jakości świadczenia usług rozwojowych, w tym wymagania dotyczące dokumentów potwierdzających zapewnienie należytej jakości świadczenia tych usług – mając na względzie konieczność przedstawienia we wniosku o wpis do rejestru, o którym mowa w art. 6 ust. 1 pkt 8, informacji i dokumentów niezbędnych do weryfikacji spełnienia warunków, o których mowa w ust. 1, oraz danych osobowych, o których mowa w art. 6aa ust. 4 pkt 1 i 4, a także konieczność zapewnienia należytej jakości usług rozwojowych oraz wiarygodności podmiotów wpisanych do rejestru.
+
+**Art. 6aa.**
+
+1. Agencja prowadzi rejestr, o którym mowa w art. 6 ust. 1 pkt 8, w systemie teleinformatycznym.
 
 2. W systemie teleinformatycznym gromadzi się i przetwarza dane zarejestrowane w tym systemie, w szczególności dane dotyczące usług rozwojowych oraz podmiotów świadczących te usługi, dla celów rejestracji podmiotów w systemie teleinformatycznym oraz jego ewaluacji, a także kontroli, monitorowania oraz oceny usług świadczonych przez te podmioty.
 
@@ -432,7 +436,9 @@ o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości
 - **2)** udzielania poręczeń,
 - **3)** obejmowania akcji lub udziałów – ze środków wsparcia, o którym mowa w ust. 5, uwzględniając konieczność efektywnego i skutecznego wykorzystania wsparcia oraz zapewnienia przejrzystości jego udzielania.
 
-13. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję pomocy finansowej przedsiębiorcom dotkniętym skutkami klęski żywiołowej, uwzględniając konieczność szybkiego i skutecznego udzielenia tej pomocy oraz jej efektywnego wykorzystania. Art. 6ba. W celu realizacji zadań Agencja może, za zgodą ministra właściwego do spraw rozwoju regionalnego, utworzyć spółkę lub nabyć udziały lub akcje spółki mającej siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą.
+13. Minister właściwy do spraw rozwoju regionalnego może określić, w drodze rozporządzenia, szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję pomocy finansowej przedsiębiorcom dotkniętym skutkami klęski żywiołowej, uwzględniając konieczność szybkiego i skutecznego udzielenia tej pomocy oraz jej efektywnego wykorzystania.
+
+**Art. 6ba.** W celu realizacji zadań Agencja może, za zgodą ministra właściwego do spraw rozwoju regionalnego, utworzyć spółkę lub nabyć udziały lub akcje spółki mającej siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą.
 
 **Art. 6c.**
 

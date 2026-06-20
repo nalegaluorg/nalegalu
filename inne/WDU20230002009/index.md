@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 11 października 2013 r.
 o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
-Art. 110–122. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -775,6 +774,8 @@ Art. 110–122. (pominięte)
 **Art. 109.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 103–106.
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 110–122.** (pominięte)
 
 **Art. 123.**
 

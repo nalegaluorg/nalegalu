@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działalności pożytku publicznego i o wolontariacie
+# Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie
 
 *USTAWA z dnia 24 kwietnia 2003 r.*
 
@@ -822,7 +822,11 @@ source: pdf
 
 9. Przepisu ust. 8 nie stosuje się do organizacji, które zgłosiły numer rachunku bankowego w latach ubiegłych jako właściwy do przekazania 1,5 % podatku dochodowego od osób fizycznych i jest on aktualny.
 
-10. Przewodniczący Komitetu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryby, terminy oraz format i strukturę danych dla wymiany informacji dotyczących organizacji pożytku publicznego, o których mowa w ust. 4 i 5, między Dyrektorem Narodowego Instytutu a Ministrem Sprawiedliwości oraz ministrem właściwym do spraw finansów publicznych, mając na względzie potrzebę zapewnienia sprawnej realizacji zadań związanych z tworzeniem i prowadzeniem wykazu, o którym mowa w ust. 1, oraz z przekazywaniem organizacjom pożytku publicznego środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych. Art. 27aa. 1. Organizacja pożytku publicznego, która została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania lub przekazywać środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych na rzecz organizacji pożytku publicznego, które nie zostały uwzględnione w tym wykazie.
+10. Przewodniczący Komitetu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryby, terminy oraz format i strukturę danych dla wymiany informacji dotyczących organizacji pożytku publicznego, o których mowa w ust. 4 i 5, między Dyrektorem Narodowego Instytutu a Ministrem Sprawiedliwości oraz ministrem właściwym do spraw finansów publicznych, mając na względzie potrzebę zapewnienia sprawnej realizacji zadań związanych z tworzeniem i prowadzeniem wykazu, o którym mowa w ust. 1, oraz z przekazywaniem organizacjom pożytku publicznego środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych.
+
+**Art. 27aa.**
+
+1. Organizacja pożytku publicznego, która została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania lub przekazywać środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych na rzecz organizacji pożytku publicznego, które nie zostały uwzględnione w tym wykazie.
 
 2. Organizacja pożytku publicznego, która nie została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych za pośrednictwem organizacji pożytku publicznego, która została uwzględniona w tym wykazie.
 
@@ -830,7 +834,11 @@ source: pdf
 
 4. W przypadku przekazania środków, o którym mowa w ust. 3, Dyrektor Narodowego Instytutu wydaje decyzję, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-5. W przypadkach, o których mowa w ust. 1 i 2, Dyrektor Narodowego Instytutu, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego. Art. 27ab. 1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
+5. W przypadkach, o których mowa w ust. 1 i 2, Dyrektor Narodowego Instytutu, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
+
+**Art. 27ab.**
+
+1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
 
 2. Fundusz jest państwowym funduszem celowym, którego dysponentem jest Dyrektor Narodowego Instytutu, zwany dalej „dysponentem Funduszu”.
 
@@ -958,7 +966,9 @@ source: pdf
 
 4. Właściwe organy udzielają Dyrektorowi Narodowego Instytutu informacji o naruszeniach, o których mowa w ust. 2 i 3. Informacje te są przekazywane z urzędu w terminie 30 dni, licząc od dnia stwierdzenia tych naruszeń.
 
-5. W przypadkach określonych w ust. 1 i 2 stosuje się odpowiednio przepisy działu I rozdziału 8 Kodeksu postępowania administracyjnego. Art. 33aa. Dyrektor Narodowego Instytutu, na podstawie przekazanej przez sąd lub organ administracji publicznej informacji o naruszeniu wymogów określonych w art. 20, występuje do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
+5. W przypadkach określonych w ust. 1 i 2 stosuje się odpowiednio przepisy działu I rozdziału 8 Kodeksu postępowania administracyjnego.
+
+**Art. 33aa.** Dyrektor Narodowego Instytutu, na podstawie przekazanej przez sąd lub organ administracji publicznej informacji o naruszeniu wymogów określonych w art. 20, występuje do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
 
 **Art. 33b.** Przewodniczący Komitetu określi, w drodze rozporządzenia, szczegółowe warunki, sposób i tryb przeprowadzania kontroli organizacji pożytku publicznego, w tym wzór upoważnienia do przeprowadzenia kontroli, uwzględniając konieczność zapewnienia jej sprawnego i skutecznego przebiegu.
 

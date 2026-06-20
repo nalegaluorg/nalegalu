@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 lipca 2015 r.*
 
@@ -408,11 +408,25 @@ source: pdf
 
 § 2. Urlop dla poratowania zdrowia nie może przekraczać trzech miesięcy i nie może być udzielony, jeżeli asesor sądowy nie pełnił służby przez okres roku z powodu choroby.
 
-§ 3. Urlopu dla poratowania zdrowia udziela Minister Sprawiedliwości. Art. 106za. § 1. Strojem urzędowym asesora sądowego jest strój urzędowy sędziego.
+§ 3. Urlopu dla poratowania zdrowia udziela Minister Sprawiedliwości.
 
-§ 2. Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego. Art. 106zb. § 1. Prezes sądu okręgowego może delegować asesora sądowego, za jego zgodą, do pełnienia obowiązków asesora sądowego w innym sądzie rejonowym w okręgu sądowym, a prezes sądu apelacyjnego do sądu rejonowego w innym okręgu sądowym na obszarze apelacji, na czas określony, nie dłuższy niż dwa lata. Przepisy art. 77 § 6–7 i 10 stosuje się odpowiednio.
+**Art. 106za.**
 
-§ 2. Asesorowi sądowemu, delegowanemu do wykonania czynności służbowych w innej miejscowości niż miejscowość w której znajduje się jego miejsce służbowe lub miejsce delegowania, o którym mowa w § 1, przysługują należności, określone w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju. Art. 106zc. Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie. Art. 106zd. § 1. Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
+§ 1. Strojem urzędowym asesora sądowego jest strój urzędowy sędziego.
+
+§ 2. Asesor sądowy otrzymuje legitymację służbową, wymieniającą zajmowane przez niego stanowisko i miejsce służbowe. Minister Sprawiedliwości określi, w drodze zarządzenia, wzór legitymacji służbowej asesora sądowego.
+
+**Art. 106zb.**
+
+§ 1. Prezes sądu okręgowego może delegować asesora sądowego, za jego zgodą, do pełnienia obowiązków asesora sądowego w innym sądzie rejonowym w okręgu sądowym, a prezes sądu apelacyjnego do sądu rejonowego w innym okręgu sądowym na obszarze apelacji, na czas określony, nie dłuższy niż dwa lata. Przepisy art. 77 § 6–7 i 10 stosuje się odpowiednio.
+
+§ 2. Asesorowi sądowemu, delegowanemu do wykonania czynności służbowych w innej miejscowości niż miejscowość w której znajduje się jego miejsce służbowe lub miejsce delegowania, o którym mowa w § 1, przysługują należności, określone w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+
+**Art. 106zc.** Asesor sądowy nie może, powołując się na zasadę niezawisłości, uchylić się od wykonania poleceń w zakresie czynności administracyjnych, jeżeli z mocy przepisów ustawy należą do obowiązków asesorskich, a także poleceń dotyczących sprawności postępowania sądowego; może domagać się wydania polecenia na piśmie.
+
+**Art. 106zd.**
+
+§ 1. Asesor sądowy nie może być zatrzymany ani pociągnięty do odpowiedzialności karnej bez zezwolenia właściwego sądu dyscyplinarnego. Nie dotyczy to zatrzymania w razie ujęcia asesora sądowego na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie asesora sądowego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
 
 § 2. O zatrzymaniu asesora sądowego niezwłocznie powiadamia się prezesa sądu apelacyjnego właściwego ze względu na miejsce zatrzymania. Może on nakazać natychmiastowe zwolnienie zatrzymanego. O fakcie zatrzymania asesora sądowego prezes sądu apelacyjnego niezwłocznie zawiadamia Krajową Radę Sądownictwa, Ministra Sprawiedliwości i Pierwszego Prezesa Sądu Najwyższego.
 
@@ -430,13 +444,23 @@ source: pdf
 
 § 9. Jeżeli prokurator złożył zastrzeżenie przewodniczący sądu dyscyplinarnego niezwłocznie kieruje sprawę na posiedzenie. Sąd dyscyplinarny może odmówić asesorowi sądowemu wglądu do dokumentów dołączonych do wniosku.
 
-§ 10. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej. Art. 106ze. Za wykroczenia asesor sądowy odpowiada wyłącznie dyscyplinarnie. Art. 106zf. § 1. Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
+§ 10. Orzekając w sprawie, o której mowa w § 1, sąd dyscyplinarny może poprzestać na oświadczeniu asesora sądowego, że wnosi o wydanie uchwały o zezwoleniu na pociągnięcie go do odpowiedzialności karnej.
+
+**Art. 106ze.** Za wykroczenia asesor sądowy odpowiada wyłącznie dyscyplinarnie.
+
+**Art. 106zf.**
+
+§ 1. Asesor sądowy jest obowiązany stale podnosić kwalifikacje zawodowe.
 
 § 2. Po objęciu stanowiska asesorskiego asesor sądowy odbywa trzymiesięczne szkolenie z zakresu metodyki pracy sędziego, organizowane przez Krajową Szkołę Sądownictwa i Prokuratury. Z obowiązku tego jest zwolniony asesor sądowy, który ukończył aplikację sędziowską.
 
 § 3. Asesor sądowy jest obowiązany uczestniczyć, w miarę możliwości corocznie, w szkoleniu i doskonaleniu zawodowym organizowanym przez Krajową Szkołę Sądownictwa i Prokuratury lub innych formach doskonalenia zawodowego, w celu uzupełnienia specjalistycznej wiedzy i umiejętności zawodowych.
 
-§ 4. Prezes sądu apelacyjnego, nie później niż do końca października każdego roku, przekazuje Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury informację o potrzebach szkoleniowych asesorów sądowych na obszarze apelacji. Art. 106zg. § 1. Do asesorów sądowych stosuje się odpowiednio przepisy art. 85–90, art. 95 i art. 97.
+§ 4. Prezes sądu apelacyjnego, nie później niż do końca października każdego roku, przekazuje Dyrektorowi Krajowej Szkoły Sądownictwa i Prokuratury informację o potrzebach szkoleniowych asesorów sądowych na obszarze apelacji.
+
+**Art. 106zg.**
+
+§ 1. Do asesorów sądowych stosuje się odpowiednio przepisy art. 85–90, art. 95 i art. 97.
 
 § 2. Krajowa Rada Sądownictwa rozpatruje kandydatury na stanowiska asesorów sądowych, w trybie określonym w odrębnej ustawie.”;
 

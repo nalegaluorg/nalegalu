@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 

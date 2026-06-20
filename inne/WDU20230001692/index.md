@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
+# Ustawa z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 *USTAWA z dnia 16 czerwca 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 
@@ -290,7 +290,11 @@ source: pdf
     - **e)** ust. 6 otrzymuje brzmienie: ,,6. Rada powiatu, biorąc pod uwagę konieczność sprawnej realizacji zadań, o których mowa w ust. 1–2, oraz koszty usuwania i przechowywania pojazdów na obszarze danego powiatu, ustala corocznie, w drodze uchwały, wysokość opłat, o których mowa w ust. 5c, oraz wysokość kosztów, o których mowa w ust. 2a. Wysokość kosztów, o których mowa w ust. 2a, nie może być wyższa niż maksymalna kwota opłat za usunięcie pojazdu, o których mowa w ust. 6a.”,
     - **f)** ust. 7 otrzymuje brzmienie: ,,7. Wydanie pojazdu następuje po okazaniu dowodu uiszczenia opłaty, o której mowa w ust. 5c, a w przypadku, o którym mowa w ust. 1a, również dowodu uiszczenia kaucji.”;
 
-- **13)** w dziale V dodaje się rozdział 4 w brzmieniu: „Rozdział 4 Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu Art. 140aa. 1. Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
+- **13)** w dziale V dodaje się rozdział 4 w brzmieniu: „Rozdział 4 Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu
+
+**Art. 140aa.**
+
+1. Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
 
 2. Decyzję administracyjną o nałożeniu kary pieniężnej wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Policji, Inspekcji Transportu Drogowego, Straży Granicznej, Służby Celnej lub zarządca drogi.
 
@@ -311,7 +315,11 @@ source: pdf
 
 6. W przypadku stwierdzenia przejazdu po drogach publicznych pojazdów nienormatywnych należących do Sił Zbrojnych Rzeczypospolitej Polskiej bez zezwolenia lub niezgodnie z warunkami określonymi dla tego zezwolenia organ kontroli, o którym mowa w ust. 2, powiadamia właściwy terytorialnie ze względu na miejsce przeprowadzenia kontroli organ Żandarmerii Wojskowej.
 
-7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach określonych w ustawie z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. Nr 190, poz. 1474). Art. 140ab. 1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się w wysokości:
+7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach określonych w ustawie z dnia 9 października 2009 r. o dyscyplinie wojskowej (Dz. U. Nr 190, poz. 1474).
+
+**Art. 140ab.**
+
+1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się w wysokości:
 
 - **1)** 1 500 zł – za brak zezwolenia kategorii I i II;
 - **2)** 5 000 zł – za brak zezwolenia kategorii III–VI;
@@ -325,7 +333,11 @@ source: pdf
 - **6)** 6 000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt przy zgłoszonym przez zarządcę drogi sprzeciwie, o którym mowa w art. 64c ust. 10;
 - **7)** 2 000 zł – za niedotrzymanie warunków przejazdu określonych dla zezwolenia kategorii VII lub podanych w tym dokumencie.
 
-2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia. Art. 140ac. 1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art. 140aa ust. 1, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji.
+2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia.
+
+**Art. 140ac.**
+
+1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art. 140aa ust. 1, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji.
 
 2. Decyzja ostateczna podlega wykonaniu po upływie 30 dni od jej doręczenia, chyba że wstrzymano jej wykonanie. Organ kontroli, który wydał decyzję ostateczną, z urzędu wstrzymuje jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie, w razie wniesienia skargi do sądu administracyjnego.
 
@@ -333,7 +345,11 @@ source: pdf
 
 4. Kara pieniężna, o której mowa w ust. 2, podlega przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
-5. Obowiązek uiszczenia kary pieni ężnej, o której mowa w ust. 2, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać uiszczona. Art. 140ad. 1. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
+5. Obowiązek uiszczenia kary pieni ężnej, o której mowa w ust. 2, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać uiszczona.
+
+**Art. 140ad.**
+
+1. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
 
 2. Kaucję pobiera się:
 
@@ -349,7 +365,11 @@ source: pdf
 
 5. W przypadku gdy wysokość nałożonej kary jest mniejsza od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 4 pkt 2.
 
-6. Odpowiedzialność za szkody spowodowane ruchem pojazdów nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym. Art. 140ae. 1. Kary pieniężne, o których mowa w art. 140aa ust. 1, są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+6. Odpowiedzialność za szkody spowodowane ruchem pojazdów nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym.
+
+**Art. 140ae.**
+
+1. Kary pieniężne, o których mowa w art. 140aa ust. 1, są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
 
 2. Środki z tytułu kar gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
 

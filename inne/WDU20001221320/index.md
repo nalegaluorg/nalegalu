@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty
+# Ustawa z dnia 21 grudnia 2000 r. o zmianie ustawy o systemie oświaty.
 
 *USTAWA z dnia 21 grudnia 2000 r.*
 

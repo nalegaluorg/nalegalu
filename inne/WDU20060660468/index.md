@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe” i zapewnieniu warunków jego realizacji
+# Ustawa z dnia 17 lutego 2006 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe" i zapewnieniu warunków jego realizacji
 
 *USTAWA z dnia 17 lutego 2006 r.*
 

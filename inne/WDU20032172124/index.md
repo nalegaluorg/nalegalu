@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o zmianie niektórych ustaw
+# Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o autostradach płatnych oraz niektórych ustaw
 
 *USTAWA z dnia 14 listopada 2003 r.*
 
@@ -77,9 +77,7 @@ source: pdf
 
 **Art. 37f.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za przejazd autostradą, o których mowa w art. 37a ust. 3, w granicach stawek maksymalnych, o których mowa w art. 37e.
 
-**Art. 37g.** Od opłat za przejazd, o których mowa w art. 37a ust. 2 i 3, są zwolnione pojazdy uprzywilejowane, wykonujące zadania w zakresie określonym w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2003 r. Nr 58, poz. 515, Nr 124, poz. 1152, Nr 130, poz. 1190, Nr 137, poz. 1302, Nr 149, poz. 1451 i 1452, Nr 162, poz. 1568, Nr 200, poz. 1953 i Nr 210, poz.
-
-- **2036)** .
+**Art. 37g.** Od opłat za przejazd, o których mowa w art. 37a ust. 2 i 3, są zwolnione pojazdy uprzywilejowane, wykonujące zadania w zakresie określonym w art. 53 ust. 2 pkt 1 lit. a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2003 r. Nr 58, poz. 515, Nr 124, poz. 1152, Nr 130, poz. 1190, Nr 137, poz. 1302, Nr 149, poz. 1451 i 1452, Nr 162, poz. 1568, Nr 200, poz. 1953 i Nr 210, poz. 2036).
 
 #### Rozdział 5b Opłata paliwowa
 

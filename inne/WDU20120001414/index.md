@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jednostkach doradztwa rolniczego
+# Ustawa z dnia 16 listopada 2012 r. o zmianie ustawy o jednostkach doradztwa rolniczego
 
 *USTAWA z dnia 16 listopada 2012 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie medycyny pracy
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o służbie medycyny pracy
 
 *USTAWA z dnia 27 czerwca 1997 r.*
 
@@ -284,9 +284,11 @@ source: pdf
 3. W razie stwierdzenia istotnych uchybień dotyczących trybu, zakresu i jakości udzielanych świadczeń zdrowotnych lub sprawowania opieki zdrowotnej kierownik wojewódzkiego ośrodka medycyny pracy kieruje jednocześnie wniosek do:
 
 - **1)** zleceniodawcy o zastosowanie wobec zleceniobiorcy skutków przewidzianych w umowie;
-- **2)** odpowiedniego organu właściwej okręgowej izby: o samorządzie pielęgniarek i położnych (Dz. U. poz. 178, z późn. zm. ) albo o izbach lekarskich (Dz. U. poz. 158, z późn. zm. ) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232) albo [3) Regionalnego Rzecznika Odpowiedzialności Zawodowej o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 20 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026).] <3) regionalnego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 64 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).>
+- **2)** odpowiedniego organu właściwej okręgowej izby: o samorządzie pielęgniarek i położnych (Dz. U. poz. 178, z późn. zm. ) albo o izbach lekarskich (Dz. U. poz. 158, z późn. zm. ) lub o powołanie komisji w celu oceny przygotowania zawodowego, o której mowa w art. 11 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2021 r. poz. 790, 1559 i 2232) albo [3) Regionalnego Rzecznika Odpowiedzialności Zawodowej o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 20 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026).]
     - **a)** o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 38 ustawy z dnia 19 kwietnia 1991 r.
     - **b)** o wszczęcie postępowania w przedmiocie odpowiedzialności zawodowej, o którym mowa w art. 41 ustawy z dnia 17 maja 1989 r.
+
+- **3)** regionalnego rzecznika dyscyplinarnego o wszczęcie postępowania dyscyplinarnego, o którym mowa w art. 64 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187).
 
 **Art. 19.** Osoba wyznaczona przez kierownika wojewódzkiego ośrodka medycyny pracy, uprawniona do wykonywania kontroli, ma prawo żądać od:
 

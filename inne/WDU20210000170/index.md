@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-01-27 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/170/text.pdf) |
-
-Art. 61–124. (pominięte)
 
 #### Rozdział 1 Zakres spraw regulowanych ustawą
 
@@ -66,7 +64,8 @@ Art. 61–124. (pominięte)
 1. Do ustanowienia zarządu sukcesyjnego wymagane jest:
 
 - **1)** powołanie zarządcy sukcesyjnego;
-- **2)** wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji; <2a) złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2;>
+- **2)** wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji;
+- **2a)** złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2;
 - **3)** dokonanie wpisu do CEIDG zarządcy sukcesyjnego.
 
 2. Zawieszenie działalności gospodarczej nie stanowi przeszkody do ustanowienia zarządu sukcesyjnego.
@@ -99,7 +98,7 @@ Art. 61–124. (pominięte)
 1. Przedsiębiorca może powołać zarządcę sukcesyjnego w ten sposób, że:
 
 - **1)** wskaże określoną osobę do pełnienia funkcji zarządcy sukcesyjnego albo
-- **2)** zastrzeże, że z chwilą jego śmierci wskazany prokurent stanie się zarządcą sukcesyjnym. [2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, wymagają zachowania formy pisemnej pod rygorem nieważności.] <2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, a także złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2, wymagają zachowania formy pisemnej pod rygorem nieważności.>
+- **2)** zastrzeże, że z chwilą jego śmierci wskazany prokurent stanie się zarządcą sukcesyjnym. [2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, wymagają zachowania formy pisemnej pod rygorem nieważności.] <2. Powołanie zarządcy sukcesyjnego przez przedsiębiorcę oraz wyrażenie zgody osoby powołanej na zarządcę sukcesyjnego na pełnienie tej funkcji w przypadkach, o których mowa w ust. 1, a także złożenie przez osobę powołaną na zarządcę sukcesyjnego oświadczenia o braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2, wymagają zachowania formy pisemnej pod rygorem nieważności.
 
 **Art. 10.** Jeżeli przedsiębiorca nie złożył wniosku o wpis do CEIDG zarządcy sukcesyjnego, po śmierci przedsiębiorcy zarząd sukcesyjny może zostać ustanowiony wyłącznie w wyniku powołania zarządcy sukcesyjnego na podstawie art. 12.
 
@@ -506,7 +505,8 @@ Art. 61–124. (pominięte)
 - **1)** upływem dwóch miesięcy od dnia śmierci przedsiębiorcy, jeżeli w tym okresie żaden ze spadkobierców przedsiębiorcy nie przyjął spadku ani zapisobierca windykacyjny nie przyjął zapisu windykacyjnego, którego przedmiotem jest przedsiębiorstwo albo udział w przedsiębiorstwie, chyba że zarządca sukcesyjny działa na rzecz małżonka przedsiębiorcy, któremu przysługuje udział w przedsiębiorstwie w spadku;
 - **2)** dniem uprawomocnienia się postanowienia o stwierdzeniu nabycia spadku, zarejestrowania aktu poświadczenia dziedziczenia albo wydania europejskiego poświadczenia spadkowego, jeżeli jeden spadkobierca albo zapisobierca windykacyjny nabył przedsiębiorstwo w spadku w całości;
 - **3)** dniem nabycia przedsiębiorstwa w spadku w całości przez jedną osobę, o której mowa w art. 3 pkt 3;
-- **4)** upływem miesiąca od dnia wykreślenia zarządcy sukcesyjnego z CEIDG, chyba że w tym okresie powołano kolejnego zarządcę sukcesyjnego; <4a) dniem wykreślenia przedsiębiorcy z CEIDG w drodze decyzji administracyjnej ministra właściwego do spraw gospodarki, o której mowa w art. 32 ust. 4a ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30 i 507);>
+- **4)** upływem miesiąca od dnia wykreślenia zarządcy sukcesyjnego z CEIDG, chyba że w tym okresie powołano kolejnego zarządcę sukcesyjnego;
+- **4a)** dniem wykreślenia przedsiębiorcy z CEIDG w drodze decyzji administracyjnej ministra właściwego do spraw gospodarki, o której mowa w art. 32 ust. 4a ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30 i 507);
 - **5)** dniem ogłoszenia upadłości przedsiębiorcy;
 - **6)** dniem dokonania działu spadku obejmującego przedsiębiorstwo w spadku;
 - **7)** upływem dwóch lat od dnia śmierci przedsiębiorcy.
@@ -574,6 +574,8 @@ Art. 61–124. (pominięte)
 **Art. 60j.** Pożytki i inne przychody z praw z udziału małżonka przedsiębiorcy w przedsiębiorstwie pomniejsza się o wydatki i ciężary związane z tymi prawami.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 61–124.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i przepis końcowy
 

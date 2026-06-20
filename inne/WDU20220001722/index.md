@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o radiofonii i telewizji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 sierpnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o radiofonii i telewizji
 
 *USTAWA z dnia 29 grudnia 1992 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-08-17 |
 | Ostatnia zmiana | 2024-11-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1722/text.pdf) |
-
-Art. 57–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1562,7 +1560,11 @@ Art. 57–62. (pominięte)
 
 2. Podmiot dostarczający audiowizualną usługę medialną na żądanie jest obowiązany do wskazania Krajowej Rady jako organu właściwego w sprawach audiowizualnych usług medialnych na żądanie oraz podania informacji, że podlega jurysdykcji Rzeczypospolitej Polskiej.
 
-3. Krajowa Rada może określić, w drodze rozporządzenia, sposób prezentowania przez podmiot dostarczający audiowizualną usługę medialną na żądanie informacji umożliwiających identyfikację usługi i podmiotu dostarczającego tę usługę, uwzględniając integralność przekazów, sposób publicznego udostępniania usługi i oddziaływanie na interesy użytkowników oraz dążąc do nieobciążania dostawców nadmiernymi utrudnieniami i kosztami w związku z zapewnianiem informacji. Art. 47ca. 1. Podmiot dostarczający audiowizualną usługę medialną na żądanie dokonuje zgłoszenia o wpis do wykazu prowadzonego w systemie teleinformatycznym zapewniającym bezpieczeństwo danych osobowych w nim przetwarzanych zgodnie z zasadą integralności i poufności przez Przewodniczącego Krajowej Rady nie później niż 14 dni przed dniem rozpoczęcia jej udostępniania publicznego.
+3. Krajowa Rada może określić, w drodze rozporządzenia, sposób prezentowania przez podmiot dostarczający audiowizualną usługę medialną na żądanie informacji umożliwiających identyfikację usługi i podmiotu dostarczającego tę usługę, uwzględniając integralność przekazów, sposób publicznego udostępniania usługi i oddziaływanie na interesy użytkowników oraz dążąc do nieobciążania dostawców nadmiernymi utrudnieniami i kosztami w związku z zapewnianiem informacji.
+
+**Art. 47ca.**
+
+1. Podmiot dostarczający audiowizualną usługę medialną na żądanie dokonuje zgłoszenia o wpis do wykazu prowadzonego w systemie teleinformatycznym zapewniającym bezpieczeństwo danych osobowych w nim przetwarzanych zgodnie z zasadą integralności i poufności przez Przewodniczącego Krajowej Rady nie później niż 14 dni przed dniem rozpoczęcia jej udostępniania publicznego.
 
 2. Zgłoszenie, o którym mowa w ust. 1:
 
@@ -1646,7 +1648,11 @@ Art. 57–62. (pominięte)
 - **3)** opis sposobów promocji audycji europejskich, w tym wytworzonych pierwotnie w języku polskim, stosowanych przez dany podmiot, w tym udział tych audycji w katalogu w ujęciu ilościowym i czasowym;
 - **4)** informację dotyczącą udziału audycji zawierających udogodnienia dla osób z niepełnosprawnościami w katalogu wraz ze wskazaniem udziału poszczególnych rodzajów tych udogodnień.
 
-3. Sprawozdanie składa się w terminie do dnia 31 marca za rok poprzedni. Art. 47ja. 1. Przewodniczący Krajowej Rady może, w drodze decyzji, po dokonaniu wezwania, o którym mowa w art. 10 ust. 3, wykreślić z wykazu podmiot dostarczający audiowizualną usługę medialną na żądanie, w której w ciągu 12 kolejnych miesięcy co najmniej dwukrotnie zostały zamieszczone audycje lub inne przekazy zagrażające prawidłowemu fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, w szczególności zawierające treści pornograficzne lub w sposób nieuzasadniony eksponujące przemoc bez stosowania skutecznych zabezpieczeń technicznych lub innych odpowiednich środków, mających na celu ochronę małoletnich przed ich odbiorem.
+3. Sprawozdanie składa się w terminie do dnia 31 marca za rok poprzedni.
+
+**Art. 47ja.**
+
+1. Przewodniczący Krajowej Rady może, w drodze decyzji, po dokonaniu wezwania, o którym mowa w art. 10 ust. 3, wykreślić z wykazu podmiot dostarczający audiowizualną usługę medialną na żądanie, w której w ciągu 12 kolejnych miesięcy co najmniej dwukrotnie zostały zamieszczone audycje lub inne przekazy zagrażające prawidłowemu fizycznemu, psychicznemu lub moralnemu rozwojowi małoletnich, w szczególności zawierające treści pornograficzne lub w sposób nieuzasadniony eksponujące przemoc bez stosowania skutecznych zabezpieczeń technicznych lub innych odpowiednich środków, mających na celu ochronę małoletnich przed ich odbiorem.
 
 2. Przewodniczący Krajowej Rady nie dokonuje wykreślenia, o którym mowa w ust. 1, jeżeli podmiot dostarczający audiowizualną usługę medialną na żądanie po otrzymaniu wezwania, o którym mowa w art. 10 ust. 3, wdroży skuteczne zabezpieczenia techniczne lub inne odpowiednie środki, mające na celu ochronę małoletnich w terminie określonym w tym wezwaniu.
 
@@ -1875,6 +1881,8 @@ Art. 57–62. (pominięte)
 3. W razie złożenia odwołania od decyzji Przewodniczącego Krajowej Rady do sądu, stronie nie przysługują środki prawne wzruszenia decyzji przewidziane w Kodeksie postępowania administracyjnego, w szczególności dotyczące wznowienia postępowania, uchylenia, zmiany oraz stwierdzenia nieważności decyzji.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 57–62.** (pominięte)
 
 **Art. 63.**
 

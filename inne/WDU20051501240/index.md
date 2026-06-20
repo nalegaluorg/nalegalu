@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
+# Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 17 czerwca 2005 r.*
 

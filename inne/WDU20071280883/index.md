@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o opłacie skarbowej
+# Ustawa z dnia 13 czerwca 2007 r. o zmianie ustawy o opłacie skarbowej
 
 *USTAWA z dnia 13 czerwca 2007 r.*
 

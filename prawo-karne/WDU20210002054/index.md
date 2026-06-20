@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 października 2021 r.*
 
@@ -236,7 +236,9 @@ source: pdf
 
 **Art. 13.** W rejestrze umów, o którym mowa w art. 27a ust. 1 ustawy zmienianej w art. 4, zamieszcza się informacje o umowach zawartych od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 14.** W rejestrze wpłat, o którym mowa w art. 25 ust. 6 ustawy zmienianej w art. 4, zamieszcza się informacje o wpłatach dokonanych od dnia wejścia w życie niniejszej ustawy. [Art. 14a. W rejestrze umów, o którym mowa w art. 34a ust. 1 ustawy zmienianej w art. 6, zamieszcza się informacje o umowach zawartych od dnia wejścia w życie niniejszego przepisu.] <Art. 14a. Przepisy art. 34a oraz art. 34b ust. 5–7, 9 i 10 ustawy zmienianej w art. 6 stosuje się do umów zawartych od dnia 1 lipca 2026 r.>
+**Art. 14.** W rejestrze wpłat, o którym mowa w art. 25 ust. 6 ustawy zmienianej w art. 4, zamieszcza się informacje o wpłatach dokonanych od dnia wejścia w życie niniejszej ustawy.
+
+**Art. 14a.** Przepisy art. 34a oraz art. 34b ust. 5–7, 9 i 10 ustawy zmienianej w art. 6 stosuje się do umów zawartych od dnia 1 lipca 2026 r.
 
 **Art. 14b.** Przepisy art. 34b ust. 1–4 i 8 ustawy zmienianej w art. 6 stosuje się do wniosków o założenie konta w systemie, o którym mowa w art. 34b ust. 1 ustawy zmienianej w art. 6, składanych od dnia 1 kwietnia 2026 r.
 

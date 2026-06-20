@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z wejściem w życie Protokołu do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób
+# Ustawa z dnia 5 września 2008 r. o zmianie niektórych ustaw w związku z wejściem w życie Protokołu do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób
 
 *USTAWA z dnia 5 września 2008 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia górnej granicy składek organizacji spółdzielczych na rzecz związków rewizyjnych i Krajowej Rady Spółdzielczej.
+# Rozporządzenie Ministra Finansów z dnia 19 marca 1999 r. w sprawie określenia górnej granicy składek organizacji spółdzielczych na rzecz związków rewizyjnych i Krajowej Rady Spółdzielczej.
 
 | Pole | Wartość |
 |---|---|

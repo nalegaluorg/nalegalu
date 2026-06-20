@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
+# Ustawa z dnia 20 grudnia 2019 r. o zmianie niektórych ustaw w celu ułatwienia zwalczania chorób zakaźnych zwierząt
 
 *USTAWA z dnia 20 grudnia 2019 r.*
 

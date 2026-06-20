@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 23 lipca 2008 r. o zmianie ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 23 lipca 2008 r.*
 

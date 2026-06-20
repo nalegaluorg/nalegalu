@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 5 lipca 2007 r. r. Nr 147, poz.
+# Ustawa z dnia 5 lipca 2007 r. o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
 
 *USTAWA Opracowano stawie: Dz.U.*
 

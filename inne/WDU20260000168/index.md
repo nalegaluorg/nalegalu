@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskiej Akademii Nauk
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy osobom uprawnionym do alimentów Uważając, że dostarczanie środków utrzymania osobom, które nie są w stanie samodzielnie zaspokoić swoich potrzeb, a w szczególności dzieciom, jest w pierwszej kolejności obowiązkiem wskazanych w Kodeksie rodzinnym i opiekuńczym członków ich rodziny, konstytucyjna zasada pomocniczości nakłada na państwo obowiązek wspierania jedynie tych osób ubogich, które nie są w stanie samodzielnie zaspokoić swoich potrzeb i nie otrzymują należnego im wsparcia od osób należących do kręgu zobowiązanych wobec nich do alimentacji, wspieranie osób znajdujących się w trudnej sytuacji materialnej z powodu niemożności wyegzekwowania alimentów należy łączyć z działaniami zmierzającymi do zwiększenia odpowiedzialności osób zobowiązanych do alimentacji, stanowi się co następuje:
+# Ustawa z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów
 
 *USTAWA z dnia 7 września 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-10-19 |
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071921378) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1378/text.pdf) |
-
-Art. 32–40. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -728,6 +726,8 @@ Art. 32–40. (pominięte)
 8. Sprawozdania rzeczowo-finansowe z wykonywania zadań z zakresu świadczenia z funduszu alimentacyjnego przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 32–40.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, uchylające i przepisy o wejściu w życie
 

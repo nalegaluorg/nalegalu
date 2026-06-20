@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie Konstytucji Rzeczypospolitej Polskiej.
+# Ustawa z dnia 18 października 1991 r. o zmianie Konstytucji Rzeczypospolitej Polskiej.
 
 | Pole | Wartość |
 |---|---|

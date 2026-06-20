@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 14 listopada 2003 r.*
 

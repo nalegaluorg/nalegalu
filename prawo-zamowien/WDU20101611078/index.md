@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy – Przepisy wprowadzające ustawę o finansach publicznych
+# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy - przepisy wprowadzające ustawę o finansach publicznych
 
 *USTAWA z dnia 6 sierpnia 2010 r.*
 

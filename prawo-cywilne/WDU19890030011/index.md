@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks cywilny.
+# Ustawa z dnia 31 stycznia 1989 r. o zmianie ustawy - Kodeks cywilny.
 
 *USTAWA z dnia 31 stycznia 1989 r.*
 

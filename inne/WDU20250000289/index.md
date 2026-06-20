@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
+# Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o funduszach promocji produktów rolno-spożywczych
 
 *USTAWA z dnia 21 lutego 2025 r.*
 

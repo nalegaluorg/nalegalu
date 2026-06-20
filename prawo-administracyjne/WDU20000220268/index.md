@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy o administracji rządowej w województwie
+# Ustawa z dnia 2 marca 2000 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy o administracji rządowej w województwie.
 
 *USTAWA z dnia 2 marca 2000 r.*
 

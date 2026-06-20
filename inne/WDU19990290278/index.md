@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie trybu wydawania świadectw sprawności technicznej pojazdów szynowych oraz wzoru tych świadectw.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 18 marca 1999 r. w sprawie trybu wydawania świadectw sprawności technicznej pojazdów szynowych oraz wzoru tych świadectw.
 
 | Pole | Wartość |
 |---|---|

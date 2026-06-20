@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o współpracy rozwojowej
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o współpracy rozwojowej
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 8 września 2006 r. o zmianie ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 *USTAWA z dnia 8 września 2006 r.*
 

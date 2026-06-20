@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 lipca 2019 r.*
 
@@ -94,10 +94,11 @@ source: pdf
 
 - **9)** w art. 27 uchyla się § 4;
 - **10)** uchyla się art. 27a;
-- **11)** w art. 29 w § 2: <11a) po art. 34a dodaje się art. 34b w brzmieniu: „Art. 34b. Nie umarza się postępowania egzekucyjnego z przyczyny, o której mowa w art. 33 § 2 pkt 5, zaistniałej po wszczęciu tego postępowania, jeżeli koszty egzekucyjne powstałe przed dniem zaistnienia tej przyczyny oraz koszty upomnienia nie zostały wyegzekwowane, zapłacone lub umorzone.”;>
+- **11)** w art. 29 w § 2:
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Organ egzekucyjny niebędący jednocześnie wierzycielem nie przystępuje do egzekucji i zawiadamia wierzyciela o przyczynach nieprzystąpienia do egzekucji, jeżeli:”,
     - **b)** pkt 2 otrzymuje brzmienie: „2) organ egzekucyjny uprawdopodobni, że egzekucja administracyjna będzie bezskuteczna z powodu braku majątku lub źródła dochodu zobowiązanego, z których jest możliwe wyegzekwowanie środków pieniężnych przewyższających koszty egzekucyjne;”;
 
+- **11a)** po art. 34a dodaje się art. 34b w brzmieniu: „Art. 34b. Nie umarza się postępowania egzekucyjnego z przyczyny, o której mowa w art. 33 § 2 pkt 5, zaistniałej po wszczęciu tego postępowania, jeżeli koszty egzekucyjne powstałe przed dniem zaistnienia tej przyczyny oraz koszty upomnienia nie zostały wyegzekwowane, zapłacone lub umorzone.”;
 - **12)** w art. 59:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Postępowanie egzekucyjne może być umorzone w przypadku, gdy dalsza egzekucja administracyjna będzie bezskuteczna z powodu braku majątku lub źródła dochodu zobowiązanego, z których jest możliwe wyegzekwowanie środków pieniężnych przewyższających koszty egzekucyjne.”, [b) po § 2a dodaje się § 2b w brzmieniu: „§ 2b. Nie umarza się postępowania egzekucyjnego z przyczyny, o której mowa w § 1 pkt 2, zaistniałej po dniu wszczęcia tego postępowania, jeżeli koszty egzekucyjne powstałe przed dniem zaistnienia tej przyczyny oraz koszty upomnienia nie zostały wyegzekwowane, zapłacone lub umorzone.”,] [c) dodaje się § 6 w brzmieniu: „§ 6. W przypadku umorzenia postępowania egzekucyjnego przed wszczęciem egzekucji administracyjnej organ egzekucyjny będący jednocześnie wierzycielem nie wydaje postanowienia o umorzeniu postępowania egzekucyjnego. W sprawie umorzenia postępowania egzekucyjnego sporządza się adnotację w rozumieniu art. 72 Kodeksu postępowania administracyjnego.”;] <c) po § 5 dodaje się § 5a w brzmieniu: „§ 5a. W przypadku umorzenia postępowania egzekucyjnego przed wszczęciem egzekucji administracyjnej organ egzekucyjny będący jednocześnie wierzycielem nie wydaje postanowienia o umorzeniu postępowania egzekucyjnego. W sprawie umorzenia postępowania egzekucyjnego sporządza się adnotację w rozumieniu art. 72 Kodeksu postępowania administracyjnego.”;> [13) w art. 60 w § 1 w zdaniu pierwszym skreśla się wyrazy „z przyczyny, o której mowa w art. 59 § 1 pkt 1–8 i 10,”;]
 
@@ -232,7 +233,12 @@ source: pdf
 § 2. W ponownie wszczętej egzekucji administracyjnej mogą być dochodzone koszty egzekucyjne powstałe w postępowaniu egzekucyjnym umorzonym z przyczyny określonej w art. 59 § 2:
 
 - **1)** na wniosek wierzyciela – jeżeli zostały pokryte przez tego wierzyciela,
-- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym. Art. 64cb. § 1. Koszty egzekucyjne z tytułu:
+- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym.
+
+**Art. 64cb.**
+
+§ 1. Koszty egzekucyjne z tytułu:
+
 - **1)** opłaty manipulacyjnej w wysokości 40 zł – przypadają na rzecz organu egzekucyjnego, który wszczął postępowanie egzekucyjne, jeżeli nie wszczęto egzekucji administracyjnej;
 - **2)** opłaty manipulacyjnej w wysokości 100 zł – przypadają na rzecz organu egzekucyjnego, który wszczął egzekucję administracyjną;
 - **3)** opłaty egzekucyjnej i opłaty za czynności egzekucyjne – przypadają na rzecz organu egzekucyjnego, który te opłaty wyegzekwował lub uzyskał;
@@ -242,7 +248,13 @@ source: pdf
 
 § 3. Przepisów § 1 i 2 nie stosuje się do rozliczenia kosztów egzekucyjnych, jeżeli organ egzekucyjny dokonujący tego rozliczenia, a także organ egzekucyjny, na rzecz którego przypadają koszty egzekucyjne zgodnie z § 1, działają w ramach państwowej jednostki budżetowej lub są państwowymi jednostkami budżetowymi.
 
-§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego. Art. 64cc. Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się. Art. 64cd. § 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
+§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego.
+
+**Art. 64cc.** Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się.
+
+**Art. 64cd.**
+
+§ 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
 
 § 2. Nie zwraca się kosztów egzekucyjnych wierzycielowi, jeżeli niezgodne z prawem wszczęcie lub prowadzenie egzekucji administracyjnej spowodował ten wierzyciel.
 
@@ -268,7 +280,10 @@ source: pdf
 § 9. Przepisy § 1–8 stosuje się odpowiednio do kosztów egzekucyjnych:
 
 - **1)** wyegzekwowanych lub uzyskanych w niezgodnej z prawem egzekucji do rzeczy lub prawa majątkowego;
-- **2)** zapłaconych przez podmiot, o którym mowa w [art. 71d § 1 pkt 1 i 2] <art. 71ca § 1 pkt 1, 2 i 4>. Art. 64ce. W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.”;
+- **2)** zapłaconych przez podmiot, o którym mowa w [art. 71d § 1 pkt 1 i 2] <art. 71ca § 1 pkt 1, 2 i 4>.
+
+**Art. 64ce.** W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.”;
+
 - **25)** uchyla się art. 64d;
 - **26)** art. 64e i art. 64f otrzymują brzmienie: „Art. 64e. § 1. Organ egzekucyjny prowadzący postępowanie egzekucyjne może umorzyć w całości lub w części koszty egzekucyjne.
 
@@ -346,20 +361,9 @@ source: pdf
 - **3)** małżonka, zstępnych, wstępnych, pasierba, rodzeństwo, ojczyma i macochę zobowiązanego;
 - **4)** inny podmiot – jeżeli łączna wysokość tych należności nie przekracza 5000 zł.
 
-§ 2. W przypadkach, o których mowa w § 1 pkt 3 i 4, jeżeli dowód zapłaty nie budzi wątpliwości co do przeznaczenia zapłaty na należność pieniężną, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia i koszty egzekucyjne uznaje się, że zapłata pochodzi ze środków zobowiązanego.
+§ 2. W przypadkach, o których mowa w § 1 pkt 3 i 4, jeżeli dowód zapłaty nie budzi wątpliwości co do przeznaczenia zapłaty na należność pieniężną, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia i koszty egzekucyjne uznaje się, że zapłata pochodzi ze środków zobowiązanego. § 3. Przepisy § 1 i 2 stosuje się do zapłaty wierzycielowi należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie i kosztów upomnienia.”;]
 
-§ 3. Przepisy § 1 i 2 stosuje się do zapłaty wierzycielowi należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie i kosztów upomnienia.”;] <31) po art. 71c dodaje się art. 71ca w brzmieniu: „Art. 71ca. § 1. Należność pieniężna, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia oraz koszty egzekucyjne mogą być zapłacone organowi egzekucyjnemu przez:
-
-- **1)** aktualnego właściciela lub użytkownika wieczystego przedmiotu hipoteki przymusowej niebędących zobowiązanymi – jeżeli te należności są zabezpieczone tą hipoteką;
-- **2)** aktualnego właściciela przedmiotu zastawu skarbowego niebędącego zobowiązanym – jeżeli te należności są zabezpieczone tym zastawem;
-- **3)** małżonka, zstępnych, wstępnych, pasierba, rodzeństwo, ojczyma i macochę zobowiązanego;
-- **4)** osobę trzecią, o której mowa w art. 533 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495);
-- **5)** inny podmiot – jeżeli łączna wysokość tych należności nie przekracza 5000 zł.
-
-§ 2. W przypadkach, o których mowa w § 1 pkt 3 i 5, jeżeli dowód zapłaty nie budzi wątpliwości co do przeznaczenia zapłaty na należność pieniężną, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia i koszty egzekucyjne, uznaje się, że zapłata pochodzi ze środków zobowiązanego.
-
-§ 3. Przepisy § 1 i 2 stosuje się do zapłaty wierzycielowi należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie i kosztów upomnienia.”;>
-
+- **31)** po art. 71c dodaje się art. 71ca w brzmieniu: „Art. 71ca. § 1. Należność pieniężna, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia oraz koszty egzekucyjne mogą być zapłacone organowi egzekucyjnemu przez: 1) aktualnego właściciela lub użytkownika wieczystego przedmiotu hipoteki przymusowej niebędących zobowiązanymi – jeżeli te należności są zabezpieczone tą hipoteką; 2) aktualnego właściciela przedmiotu zastawu skarbowego niebędącego zobowiązanym – jeżeli te należności są zabezpieczone tym zastawem; 3) małżonka, zstępnych, wstępnych, pasierba, rodzeństwo, ojczyma i macochę zobowiązanego; 4) osobę trzecią, o której mowa w art. 533 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495); 5) inny podmiot – jeżeli łączna wysokość tych należności nie przekracza 5000 zł. § 2. W przypadkach, o których mowa w § 1 pkt 3 i 5, jeżeli dowód zapłaty nie budzi wątpliwości co do przeznaczenia zapłaty na należność pieniężną, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia i koszty egzekucyjne, uznaje się, że zapłata pochodzi ze środków zobowiązanego. § 3. Przepisy § 1 i 2 stosuje się do zapłaty wierzycielowi należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie i kosztów upomnienia.”;
 - **32)** w art. 115:
     - **a)** w § 1: – pkt 1 otrzymuje brzmienie: „1) opłatę manipulacyjną;”, – po pkt 1 dodaje się pkt 1a–1e w brzmieniu: „1a) opłatę za czynności egzekucyjne;
 
@@ -385,22 +389,25 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954, 2245 i 2354 oraz z 2019 r. poz. 643, 730 i 1030) w art. 98 ust. 5 otrzymuje brzmienie: „5. Jeżeli kwota dopłaty uzyskana została od przedsiębiorcy w drodze egzekucji, kwotę wydatków związanych z przekazaniem egzekwowanej należności przedsiębiorcy wyznaczonemu, uprawnionemu do otrzymania dopłaty pokrywa przedsiębiorca telekomunikacyjny obowiązany do udziału w pokryciu dopłaty, przeciwko któremu toczyło się to postępowanie egzekucyjne.”.
 
-**Art. 5.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2019 r. poz. 785, 1043 i 1469) w art. 95 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) naczelnika urzędu skarbowego o wpis w księdze wieczystej hipoteki przymusowej na zabezpieczenie należności państw członkowskich lub państw trzecich w rozumieniu art. 1a pkt 8c i 8d ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r. poz. 1438, 1495, 1501 i 1553);”. <Art. 5a. W ustawie z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2018 r. poz. 425 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2019 r. poz. 785, 1043 i 1469) w art. 95 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) naczelnika urzędu skarbowego o wpis w księdze wieczystej hipoteki przymusowej na zabezpieczenie należności państw członkowskich lub państw trzecich w rozumieniu art. 1a pkt 8c i 8d ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2019 r. poz. 1438, 1495, 1501 i 1553);”.
+
+**Art. 5a.** W ustawie z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2018 r. poz. 425 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
 
 - **1)** w art. 82 w ust. 3 wyrazy „art. 64c § 3” zastępuje się wyrazami „art. 64cd”;
 - **2)** w art. 85 uchyla się ust. 3;
-- **3)** w art. 102 uchyla się ust. 3.>
+- **3)** w art. 102 uchyla się ust. 3.
 
 **Art. 6.**
 
-1. W postępowaniu egzekucyjnym i zabezpieczającym wszczętym i niezakończonym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z uwzględnieniem ust. 2–4 oraz art. 7–11.
+1. W postępowaniu egzekucyjnym i zabezpieczającym wszczętym i niezakończonym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe, z uwzględnieniem ust. 2–4 oraz art. 7–11. 2. Do postępowań, o których mowa w ust. 1, stosuje się: [1) przepisy art. 1a pkt 8, art. 60 § 1 i art. 68a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;]
 
-2. Do postępowań, o których mowa w ust. 1, stosuje się: [1) przepisy art. 1a pkt 8, art. 60 § 1 i art. 68a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;] <1) przepisy art. 1a pkt 8 i art. 68a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;>
-
+- **1)** przepisy art. 1a pkt 8 i art. 68a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;
 - **2)** przepis art. 15 § 3c ustawy zmienianej w art. 1, jeżeli jest on korzystniejszy dla zobowiązanego;
-- **3)** przepis art. 65a ustawy zmienianej w art. 1, jeżeli jest on korzystniejszy dla: [4) przepisy art. 59 § 2b i 6, art. 64ba, art. 71d i art. 115 § 8 ustawy zmienianej w art. 1.] <4) przepisy art. 64ba, art. 71ca i art. 115 § 9 ustawy zmienianej w art. 1.>
+- **3)** przepis art. 65a ustawy zmienianej w art. 1, jeżeli jest on korzystniejszy dla:
     - **a)** zobowiązanego,
     - **b)** wierzyciela – w przypadku, gdy koszty egzekucyjne obciążają odpowiednio zobowiązanego albo wierzyciela;
+
+- **4)** przepisy art. 64ba, art. 71ca i art. 115 § 9 ustawy zmienianej w art. 1.
 
 3. Do przedawnienia kosztów egzekucyjnych i kosztów upomnienia, o których mowa w art. 24 ust. 2 ustawy zmienianej w art. 3, oraz kosztów upomnienia, o których mowa w art. 84 ust. 4 ustawy zmienianej w art. 3, których obowiązek zapłaty powstał przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

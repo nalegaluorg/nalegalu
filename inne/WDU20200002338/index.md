@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Funduszu Dróg Samorządowych oraz niektórych innych ustaw
+# Ustawa z dnia 19 listopada 2020 r. o zmianie ustawy o Funduszu Dróg Samorządowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 19 listopada 2020 r.*
 

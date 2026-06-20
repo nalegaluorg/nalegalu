@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw
 
 *USTAWA z dnia 4 grudnia 2025 r.*
 

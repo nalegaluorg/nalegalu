@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy społecznej
+# Ustawa z dnia 12 marca 2004 r. o pomocy społecznej
 
 *USTAWA z dnia 12 marca 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-04-15 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040640593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.pdf) |
-
-Art. 135–143. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1675,7 +1673,11 @@ Art. 135–143. (pominięte)
     - **e)** danych teleadresowych organów, właściwych miejscowo instytucji i organizacji działających w zakresie wolności i praw człowieka oraz instytucji kontrolnych, w szczególności: – Rzecznika Praw Obywatelskich, – Rzecznika Praw Pacjenta, – państwowego powiatowego inspektora sanitarnego, – właściwego do spraw pomocy społecznej wydziału urzędu wojewódzkiego, – właściwego ze względu na miejsce położenia placówki ośrodka pomocy społecznej, – prokuratury rejonowej, – sądu opiekuńczego;
 
 - **4)** zapewnić wykonywanie czynności, o których mowa w art. 68 ust. 1 pkt 1, przez osoby posiadające kwalifikacje niezbędne do wykonywania zawodu lekarza, pielęgniarki, położnej, ratownika medycznego, opiekuna w domu pomocy społecznej, opiekuna osoby starszej, asystenta osoby niepełnosprawnej, opiekunki środowiskowej, opiekuna medycznego albo osoby posiadające udokumentowane co najmniej 2-letnie doświadczenie zawodowe polegające na świadczeniu usług opiekuńczych osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku oraz ukończone szkolenie z zakresu udzielania pierwszej pomocy;
-- **5)** zapewnić, aby osoby, o których mowa w pkt 4, świadczyły pracę na podstawie umowy o pracę lub innej umowy, w wymiarze niemniej niż 1/3 pełnego wymiaru czasu pracy na jedną osobę przebywającą w placówce, niemniej niż w wymiarze 4,5 pełnego wymiaru czasu pracy, z tym że czas pracy osoby fizycznej prowadzącej placówkę, spełniającej warunki, o których mowa w pkt 4, zalicza się w wymiarze 1/2 pełnego wymiaru czasu pracy, a w przypadku prowadzenia więcej niż jednej placówki zalicza się w wymiarze 1/2 pełnego wymiaru czasu pracy tylko w jednej placówce. Art. 68aa. 1. Podmiot prowadzący placówkę zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku prowadzi rejestr zgłoszeń o zdarzeniach nadzwyczajnych dotyczących osób przebywających w placówce.
+- **5)** zapewnić, aby osoby, o których mowa w pkt 4, świadczyły pracę na podstawie umowy o pracę lub innej umowy, w wymiarze niemniej niż 1/3 pełnego wymiaru czasu pracy na jedną osobę przebywającą w placówce, niemniej niż w wymiarze 4,5 pełnego wymiaru czasu pracy, z tym że czas pracy osoby fizycznej prowadzącej placówkę, spełniającej warunki, o których mowa w pkt 4, zalicza się w wymiarze 1/2 pełnego wymiaru czasu pracy, a w przypadku prowadzenia więcej niż jednej placówki zalicza się w wymiarze 1/2 pełnego wymiaru czasu pracy tylko w jednej placówce.
+
+**Art. 68aa.**
+
+1. Podmiot prowadzący placówkę zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku prowadzi rejestr zgłoszeń o zdarzeniach nadzwyczajnych dotyczących osób przebywających w placówce.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera zgłoszenia o następujących zdarzeniach nadzwyczajnych dotyczących osób przebywających w placówce, związanych z zagrożeniem życia lub zdrowia tych osób:
 
@@ -2220,7 +2222,8 @@ Art. 135–143. (pominięte)
 - **1)** dowodu osobistego lub innego dokumentu stwierdzającego tożsamość;
 - **2)** skróconego odpisu aktu urodzenia dziecka lub książeczki zdrowia dziecka;
 - **3)** dokumentów określających status cudzoziemca w Rzeczypospolitej Polskiej;
-- **4)** decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej; [5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej;] <5) orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej, orzeczenia pielęgniarki lub pielęgniarza o niezdolności do samodzielnej egzystencji;>
+- **4)** decyzji właściwego organu w sprawie renty, emerytury, świadczenia przedemerytalnego lub zasiłku przedemerytalnego, emerytury pomostowej, nauczycielskiego świadczenia kompensacyjnego, uposażenia w stanie spoczynku, renty strukturalnej oraz renty socjalnej;
+- **5)** orzeczenia komisji do spraw inwalidztwa i zatrudnienia wydanego przed dniem 1 września 1997 r., orzeczenia lekarza orzecznika o niezdolności do pracy, niezdolności do samodzielnej egzystencji, orzeczenia komisji lekarskiej, orzeczenia pielęgniarki lub pielęgniarza o niezdolności do samodzielnej egzystencji;
 - **6)** orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności;
 - **7)** zaświadczenia albo oświadczenia o wysokości wynagrodzenia z tytułu zatrudnienia, zawierającego informacje o wysokości potrąconej zaliczki na podatek dochodowy od osób fizycznych, kosztów uzyskania przychodu, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe;
 - **8)** zaświadczenia albo oświadczenia o wysokości wynagrodzenia uzyskiwanego na podstawie umowy agencyjnej, umowy zlecenia, umowy o dzieło albo w okresie członkostwa w rolniczej spółdzielni produkcyjnej lub spółdzielni kółek rolniczych (usług rolniczych), zawierającego informacje o potrąconej zaliczce na podatek dochodowy od osób fizycznych, składki na ubezpieczenie zdrowotne, składek na ubezpieczenia emerytalne i rentowe w części finansowanej przez ubezpieczonego oraz składki na ubezpieczenie chorobowe;
@@ -2408,9 +2411,7 @@ Art. 135–143. (pominięte)
 
 2. Jeżeli środki przeznaczone na dotację, o której mowa w ust. 1, pochodzą z programów rządowych, programów resortowych, pożyczek, o których mowa w art. 5 ust. 1 pkt 4 lit. d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) lub służą wypłacie zasiłków celowych na pokrycie wydatków powstałych w wyniku zdarzenia losowego, wysokość dotacji może przekroczyć 80 % kosztów realizacji zadania.
 
-**Art. 115a.** Zadania określone w ustawie mogą być finansowane ze środków Funduszu Solidarnościowego, na zasadach określonych w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz.
-
-- **1848)** .
+**Art. 115a.** Zadania określone w ustawie mogą być finansowane ze środków Funduszu Solidarnościowego, na zasadach określonych w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848).
 
 #### Rozdział 2 Pracownicy socjalni
 
@@ -3080,6 +3081,8 @@ Art. 135–143. (pominięte)
 ### DZIAŁ IV Przepisy zmieniające, przejściowe i końcowe
 
 #### Rozdział 1 Przepisy zmieniające
+
+**Art. 135–143.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

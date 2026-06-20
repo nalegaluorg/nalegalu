@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o petycjach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 kwietnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o petycjach
 
 | Pole | Wartość |
 |---|---|

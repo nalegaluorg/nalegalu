@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu przeciwdziałania przestępczości środowiskowej
+# Ustawa z dnia 22 lipca 2022 r. o zmianie niektórych ustaw w celu przeciwdziałania przestępczości środowiskowej
 
 *USTAWA z dnia 22 lipca 2022 r.*
 

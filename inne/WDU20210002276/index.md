@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie metody kalkulacji Warszawa, kosztów dnia cyklu 10 grudnia życia budynków 2021 r. oraz sposobu przedstawiania informacji o tych kosztach Poz. 2276 Na podstawie art. 245 ust. 7 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, RozpoRządzenie 1598 i 2054) zarządza się, co następuje: MinistRa Rozwoju i technologii
+# Rozporządzenie Ministra Rozwoju i Technologii z dnia 23 listopada 2021 r. w sprawie metody kalkulacji kosztów cyklu życia budynków oraz sposobu przedstawiania informacji o tych kosztach
 
 *ROZPORZĄDZENIE MINISTRA RZECZYPOSPOLITEJ ROZWOJU I TECHNOLOGII POLSKIEJ z dnia 23 listopada 2021 r.*
 

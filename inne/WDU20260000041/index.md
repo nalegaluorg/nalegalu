@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 18 grudnia 2025 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 18 grudnia 2025 r.*
 
@@ -72,7 +72,10 @@ source: pdf
 
 3. Wynagrodzenie od inwestora dla posiadacza rzeczy ruchomej lub osoby, której przysługuje prawo majątkowe, za korzystanie z nich przez inwestora, ustalane jest po zakończeniu tego korzystania, w drodze porozumienia między inwestorem i posiadaczem rzeczy ruchomej lub osobą, której przysługuje prawo majątkowe. Jeżeli strony nie dojdą do porozumienia w terminie 60 dni od dnia zakończenia korzystania z rzeczy ruchomej lub prawa majątkowego, każdej ze stron przysługuje prawo wystąpienia do sądu powszechnego o ustalenie wysokości należnego wynagrodzenia. Strony mogą poddać sprawę ustalenia wysokości należnego wynagrodzenia mediacji przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej.”;
 
-- **6)** po art. 9z dodaje się art. 9za i art. 9zb w brzmieniu: „Art. 9za. Jeżeli realizacja inwestycji dotyczącej linii kolejowej uniemożliwia korzystanie z budynków mieszkalnych albo lokali mieszkalnych przez osoby posiadające do tego tytuł prawny, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego, działający jako inwestor, mogą podejmować działania zmierzające do zabezpieczenia potrzeb mieszkaniowych mieszkańców, w szczególności przez przekazanie służących temu celowi środków finansowych. Art. 9zb. Jeżeli brak możliwości korzystania z budynków mieszkalnych albo lokali mieszkalnych przez ich mieszkańców jest skutkiem okoliczności, za które odpowiedzialność ponoszą inne podmioty, w tym w szczególności wykonawcy robót budowlanych, PLK S.A., CPK lub właściwej jednostce samorządu terytorialnego, działającym jako inwestor, przysługuje roszczenie wobec tych podmiotów o zwrot wydatków i innych kosztów poniesionych z tytułu zabezpieczenia potrzeb mieszkaniowych mieszkańców tych budynków albo lokali.”;
+- **6)** po art. 9z dodaje się art. 9za i art. 9zb w brzmieniu: „Art. 9za. Jeżeli realizacja inwestycji dotyczącej linii kolejowej uniemożliwia korzystanie z budynków mieszkalnych albo lokali mieszkalnych przez osoby posiadające do tego tytuł prawny, PLK S.A., CPK lub właściwa jednostka samorządu terytorialnego, działający jako inwestor, mogą podejmować działania zmierzające do zabezpieczenia potrzeb mieszkaniowych mieszkańców, w szczególności przez przekazanie służących temu celowi środków finansowych.
+
+**Art. 9zb.** Jeżeli brak możliwości korzystania z budynków mieszkalnych albo lokali mieszkalnych przez ich mieszkańców jest skutkiem okoliczności, za które odpowiedzialność ponoszą inne podmioty, w tym w szczególności wykonawcy robót budowlanych, PLK S.A., CPK lub właściwej jednostce samorządu terytorialnego, działającym jako inwestor, przysługuje roszczenie wobec tych podmiotów o zwrot wydatków i innych kosztów poniesionych z tytułu zabezpieczenia potrzeb mieszkaniowych mieszkańców tych budynków albo lokali.”;
+
 - **7)** po art. 9ag dodaje się art. 9ah w brzmieniu: „Art. 9ah. 1. Złożenie wniosku dla realizowanego przedsięwzięcia polegającego na budowie tunelu w ciągu linii kolejowej:
 - **1)** o wydanie pozwolenia wodnoprawnego lub dokonanie zgłoszenia wodnoprawnego, o których mowa w ustawie z dnia 20 lipca 2017 r. – Prawo wodne,
 - **2)** o wydanie decyzji o ustaleniu lokalizacji linii kolejowej, o której mowa w ustawie lub decyzji o lokalizacji inwestycji celu publicznego, o której mowa w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym,

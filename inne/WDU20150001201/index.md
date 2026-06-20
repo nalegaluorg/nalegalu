@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grach hazardowych
+# Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o grach hazardowych
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 

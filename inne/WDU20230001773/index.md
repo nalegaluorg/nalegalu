@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 lipca
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 17 listopada 2021 r.
 o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
-Art. 52–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -492,6 +491,8 @@ Art. 52–55. (pominięte)
 **Art. 51.** Kara pieniężna nie podlega egzekucji, jeżeli upłynęło 5 lat od końca roku, w którym uprawomocniła się decyzja o nałożeniu kary pieniężnej.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 52–55.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

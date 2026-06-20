@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 13 maja 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych
+# Ustawa z dnia 19 marca 2009 r. o zmianie ustawy o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych
 
 *USTAWA z dnia 19 marca 2009 r.*
 

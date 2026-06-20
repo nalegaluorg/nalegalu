@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030600535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/535/text.pdf) |
 
-Art. 524–535. (pominięte)
-
 ## CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH
 
 ## TYTUŁ I Przepisy ogólne
@@ -530,9 +528,15 @@ Art. 524–535. (pominięte)
 
 5. Wniosek o zatwierdzenie warunków sprzedaży może przewidywać wydanie przedsiębiorstwa nabywcy z dniem ogłoszenia upadłości dłużnika. W takim przypadku do wniosku dołącza się dowód wpłaty pełnej ceny na rachunek depozytowy sądu.
 
-6. Wniosek o zatwierdzenie warunków sprzedaży może dotyczyć więcej niż jednego nabywcy. Art. 56aa. 1. W przypadku złożenia wniosku o zatwierdzenie warunków sprzedaży sąd ustanawia tymczasowego nadzorcę sądowego albo zarządcę przymusowego.
+6. Wniosek o zatwierdzenie warunków sprzedaży może dotyczyć więcej niż jednego nabywcy.
 
-2. Tymczasowy nadzorca sądowy albo zarządca przymusowy składa, w wyznaczonym terminie, sprawozdanie obejmujące w szczególności informacje na temat stanu finansowego dłużnika, rodzaju i wartości jego majątku oraz przewidywanych kosztów postępowania upadłościowego oraz innych zobowiązań masy upadłości, które należałoby ponieść przy likwidacji na zasadach ogólnych, a także inne informacje istotne dla rozpoznania wniosku o zatwierdzenie warunków sprzedaży. Art. 56ab. O złożeniu wniosku o zatwierdzenie warunków sprzedaży obwieszcza się.
+**Art. 56aa.**
+
+1. W przypadku złożenia wniosku o zatwierdzenie warunków sprzedaży sąd ustanawia tymczasowego nadzorcę sądowego albo zarządcę przymusowego.
+
+2. Tymczasowy nadzorca sądowy albo zarządca przymusowy składa, w wyznaczonym terminie, sprawozdanie obejmujące w szczególności informacje na temat stanu finansowego dłużnika, rodzaju i wartości jego majątku oraz przewidywanych kosztów postępowania upadłościowego oraz innych zobowiązań masy upadłości, które należałoby ponieść przy likwidacji na zasadach ogólnych, a także inne informacje istotne dla rozpoznania wniosku o zatwierdzenie warunków sprzedaży.
+
+**Art. 56ab.** O złożeniu wniosku o zatwierdzenie warunków sprzedaży obwieszcza się.
 
 **Art. 56b.**
 
@@ -546,7 +550,11 @@ Art. 524–535. (pominięte)
 
 2. Sąd może uwzględnić wniosek o zatwierdzenie warunków sprzedaży, jeżeli cena jest zbliżona do kwoty możliwej do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszonej o koszty postępowania oraz inne zobowiązania masy upadłości, które należałoby ponieść przy likwidacji w takim trybie, jeżeli przemawia za tym ważny interes publiczny lub możliwość zachowania przedsiębiorstwa dłużnika.
 
-3. Sąd rozpoznaje wniosek o zatwierdzenie warunków sprzedaży nie wcześniej niż trzydzieści dni od dnia obwieszczenia o złożeniu tego wniosku oraz nie wcześniej niż czternaście dni od dnia doręczenia wierzycielom zabezpieczonym na majątku, którego dotyczy ten wniosek, odpisów tego wniosku wraz z załącznikami oraz zobowiązaniem do zajęcia stanowiska w wyznaczonym terminie. Art. 56ca. 1. W przypadku złożenia co najmniej dwóch wniosków o zatwierdzenie warunków sprzedaży przeprowadza się aukcję pomiędzy nabywcami w celu wyboru najkorzystniejszych warunków sprzedaży. Do aukcji stosuje się odpowiednio przepisy Kodeksu cywilnego, z tym że:
+3. Sąd rozpoznaje wniosek o zatwierdzenie warunków sprzedaży nie wcześniej niż trzydzieści dni od dnia obwieszczenia o złożeniu tego wniosku oraz nie wcześniej niż czternaście dni od dnia doręczenia wierzycielom zabezpieczonym na majątku, którego dotyczy ten wniosek, odpisów tego wniosku wraz z załącznikami oraz zobowiązaniem do zajęcia stanowiska w wyznaczonym terminie.
+
+**Art. 56ca.**
+
+1. W przypadku złożenia co najmniej dwóch wniosków o zatwierdzenie warunków sprzedaży przeprowadza się aukcję pomiędzy nabywcami w celu wyboru najkorzystniejszych warunków sprzedaży. Do aukcji stosuje się odpowiednio przepisy Kodeksu cywilnego, z tym że:
 
 - **1)** warunki aukcji zatwierdza sąd w składzie jednoosobowym;
 - **2)** o aukcji należy zawiadomić nabywców oraz wnioskodawców co najmniej dwa tygodnie przed terminem posiedzenia wyznaczonego w celu jej przeprowadzenia;
@@ -1911,7 +1919,11 @@ Art. 524–535. (pominięte)
 
 4. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 3, rozumie się dane, o których mowa w art. 22 ust. 4.
 
-5. W piśmie procesowym wnoszący pismo może podać numer telefonu do kontaktu oraz adres poczty elektronicznej. Art. 216aa. 1. Wierzyciele, którym przysługują należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, mogą wnosić pisma procesowe oraz dokumenty z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe.
+5. W piśmie procesowym wnoszący pismo może podać numer telefonu do kontaktu oraz adres poczty elektronicznej.
+
+**Art. 216aa.**
+
+1. Wierzyciele, którym przysługują należności ze stosunku pracy, z wyjątkiem roszczeń z tytułu wynagrodzenia reprezentanta upadłego lub wynagrodzenia osoby wykonującej czynności związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika, należności alimentacyjne oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci i renty z tytułu zamiany uprawnień objętych treścią prawa dożywocia na dożywotnią rentę, mogą wnosić pisma procesowe oraz dokumenty z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe.
 
 2. Osoby, o których mowa w ust. 1, mogą również wnosić wnioski lub składać oświadczenia i dokumenty w biurze podawczym każdego sądu rejonowego, przekazując ustnie treść wniosku lub oświadczenia pracownikowi biura podawczego oraz składając dokumenty sporządzone w postaci papierowej.
 
@@ -1919,7 +1931,11 @@ Art. 524–535. (pominięte)
 
 4. Przepisy art. 216a ust. 1b, 1c, 1e i 3–5 stosuje się odpowiednio, z tym że elektronicznego poświadczenia odpisu dokumentu może również dokonać pracownik biura podawczego.
 
-5. Jeżeli wierzyciele, o których mowa w ust. 1, wnoszą pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, przepis art. 130 § 6 Kodeksu postępowania cywilnego stosuje się odpowiednio. Art. 216ab. Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe. Art. 216ac. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych i składania dokumentów za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe oraz w biurze podawczym sądu rejonowego, mając na względzie skuteczność wnoszenia pism procesowych i składania dokumentów, szczególne wymagania postępowań obsługiwanych przez system teleinformatyczny obsługujący postępowanie sądowe oraz ochronę praw osób wnoszących pisma procesowe.
+5. Jeżeli wierzyciele, o których mowa w ust. 1, wnoszą pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, przepis art. 130 § 6 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+
+**Art. 216ab.** Pisma procesowe i dokumenty zawierające informacje niejawne w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), a także oferty składane w toku przetargu lub aukcji wnosi się z pominięciem systemu teleinformatycznego obsługującego postępowanie sądowe.
+
+**Art. 216ac.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych i składania dokumentów za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe oraz w biurze podawczym sądu rejonowego, mając na względzie skuteczność wnoszenia pism procesowych i składania dokumentów, szczególne wymagania postępowań obsługiwanych przez system teleinformatyczny obsługujący postępowanie sądowe oraz ochronę praw osób wnoszących pisma procesowe.
 
 **Art. 216b.** Organy postępowań upadłościowych obowiązane są do wzajemnej współpracy.
 
@@ -2989,7 +3005,9 @@ Art. 524–535. (pominięte)
 
 3. W przypadku uchylenia planu spłaty zobowiązania upadłego nie podlegają umorzeniu.
 
-4. Przepis art. 370d ust. 4 stosuje się odpowiednio. Art. 370ea. W sprawach, o których mowa w art. 370d i art. 370e, sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie.
+4. Przepis art. 370d ust. 4 stosuje się odpowiednio.
+
+**Art. 370ea.** W sprawach, o których mowa w art. 370d i art. 370e, sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie.
 
 **Art. 370f.**
 
@@ -3410,7 +3428,9 @@ Art. 524–535. (pominięte)
 
 **Art. 425i.** Sumy uzyskane z likwidacji nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, podlegają podziałowi na zasadach ogólnych, z tym że w przypadku wyrażenia przez wierzyciela hipotecznego zgody, o której mowa w art. 25 ust. 1 pkt 1 lub 2 ustawy o ochronie nabywcy, lub zobowiązania się do jej udzielenia, zgodnie z art. 76 ust. 4 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, uznaje się, że roszczeniu nabywcy lokalu, którego ta zgoda lub zobowiązanie do jej udzielenia dotyczy, przysługuje pierwszeństwo przed hipoteką w zakresie, w jakim dokonał wpłat na poczet umowy.
 
-**Art. 425j.** Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej podlegają zaspokojeniu z sum uzyskanych z likwidacji nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach jak roszczenie z umowy deweloperskiej. Nabywcy przysługuje pierwszeństwo wynikające z ujawnienia w księdze wieczystej przysługującego mu roszczenia z umowy deweloperskiej, także w przypadku gdy wpis o ujawnieniu tego roszczenia został wykreślony. Art. 425ja. Wierzytelności nabywcy wynikające z umowy deweloperskiej, która stanowiła podstawę wypłaty na rzecz nabywcy świadczeń z Ubezpieczeniowego Funduszu Gwarancyjnego, podlegają zaspokojeniu po zaspokojeniu należności tego funduszu powstałych w wyniku przekazania nabywcy świadczenia na podstawie art. 48 ust. 5 ustawy o ochronie nabywcy.
+**Art. 425j.** Roszczenia nabywcy wynikające z odstąpienia od umowy deweloperskiej podlegają zaspokojeniu z sum uzyskanych z likwidacji nieruchomości, na której prowadzone jest przedsięwzięcie deweloperskie, na takich samych zasadach jak roszczenie z umowy deweloperskiej. Nabywcy przysługuje pierwszeństwo wynikające z ujawnienia w księdze wieczystej przysługującego mu roszczenia z umowy deweloperskiej, także w przypadku gdy wpis o ujawnieniu tego roszczenia został wykreślony.
+
+**Art. 425ja.** Wierzytelności nabywcy wynikające z umowy deweloperskiej, która stanowiła podstawę wypłaty na rzecz nabywcy świadczeń z Ubezpieczeniowego Funduszu Gwarancyjnego, podlegają zaspokojeniu po zaspokojeniu należności tego funduszu powstałych w wyniku przekazania nabywcy świadczenia na podstawie art. 48 ust. 5 ustawy o ochronie nabywcy.
 
 **Art. 425k.** Roszczenie pieniężne nabywcy powstałe wskutek przekształcenia roszczenia z umowy deweloperskiej w toku postępowania restrukturyzacyjnego lub upadłościowego podlega zaspokojeniu w sposób określony w art. 425j.
 
@@ -4547,6 +4567,8 @@ Art. 524–535. (pominięte)
 ## CZĘŚĆ SZÓSTA ZMIANY W PRZEPISACH OBOWIĄZUJĄCYCH, PRZEPISY PRZEJŚCIOWE I PRZEPISY KOŃCOWE
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 524–535.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe
 

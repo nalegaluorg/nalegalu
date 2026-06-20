@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# Ustawa z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 października 2018 r.*
 
@@ -362,13 +362,22 @@ source: pdf
     - **a)** na rzecz takiej grupy lub organizacji produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy lub organizacji,
     - **b)** przez taką grupę lub organizację na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
 
-- **8)** polegających na przypisaniu dochodu do zagranicznego zakładu położonego na terytorium Rzeczypospolitej Polskiej przez podatników, o których mowa w art. 3 ust. 2a, jeżeli przepisy właściwych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują, że dochody te mogą być opodatkowane tylko w państwie innym niż Rzeczpospolita Polska. Art. 23za. 1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy:
+- **8)** polegających na przypisaniu dochodu do zagranicznego zakładu położonego na terytorium Rzeczypospolitej Polskiej przez podatników, o których mowa w art. 3 ust. 2a, jeżeli przepisy właściwych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują, że dochody te mogą być opodatkowane tylko w państwie innym niż Rzeczpospolita Polska.
+
+**Art. 23za.**
+
+1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy:
+
 - **1)** dokonujący, bezpośrednio lub pośrednio, zapłaty należności na rzecz podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli łączna kwota wynikająca z umowy lub rzeczywiście zapłacona w roku podatkowym łączna kwota wymagalnych w tym roku świadczeń przekracza 100 000 zł lub równowartość tej kwoty, lub
 - **2)** zawierający z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową:
     - **a)** umowę spółki niebędącej osobą prawną, jeżeli łączna wartość wniesionych przez wspólników wkładów przekracza 100 000 zł lub równowartość tej kwoty, lub
     - **b)** umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, w których wartość wspólnie realizowanego przedsięwzięcia określona w umowie, a w przypadku braku określenia w umowie tej wartości – przewidywana na dzień zawarcia umowy, przekracza 100 000 zł lub równowartość tej kwoty.
 
-2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej. Art. 23zb. 1. Podmioty powiązane konsolidowane metodą pełną lub proporcjonalną, które są obowiązane do sporządzenia lokalnej dokumentacji cen transferowych, dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku obrotowego, jeżeli należą do grupy podmiotów powiązanych:
+2. Kwoty, o których mowa w ust. 1, wyrażone w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej.
+
+**Art. 23zb.**
+
+1. Podmioty powiązane konsolidowane metodą pełną lub proporcjonalną, które są obowiązane do sporządzenia lokalnej dokumentacji cen transferowych, dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku obrotowego, jeżeli należą do grupy podmiotów powiązanych:
 
 - **1)** dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
 - **2)** której skonsolidowane przychody przekroczyły w poprzednim roku obrotowym kwotę 200 000 000 zł lub jej równowartość.
@@ -377,7 +386,11 @@ source: pdf
 
 3. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 23zc ust. 2.
 
-4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim. Art. 23zc. 1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
+4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim.
+
+**Art. 23zc.**
+
+1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
 
 - **1)** opis podmiotu powiązanego;
 - **2)** opis transakcji, w tym analizę funkcji, ryzyk i aktywów;
@@ -396,13 +409,23 @@ source: pdf
 
 3. W przypadku transakcji kontrolowanych spełniających kryteria, o których mowa w art. 23r i art. 23s, lokalna dokumentacja cen transferowych może nie zawierać analizy porównawczej lub analizy zgodności.
 
-4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych. Art. 23zd. Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany. Art. 23ze. 1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 7 dni od dnia doręczenia tego żądania.
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
+
+**Art. 23zd.** Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany.
+
+**Art. 23ze.**
+
+1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 7 dni od dnia doręczenia tego żądania.
 
 2. W przypadku wystąpienia prawdopodobieństwa zaniżenia wartości transakcji kontrolowanej organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r.  Prawo przedsiębiorców z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej.
 
 3. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 23y ust. 1, a w przypadku grupowej dokumentacji cen transferowych – po upływie terminu, o którym mowa w art. 23zb ust. 1.
 
-4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 23za ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio. Art. 23zf. 1. Podmioty powiązane:
+4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 23za ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+**Art. 23zf.**
+
+1. Podmioty powiązane:
 
 - **1)** obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji kontrolowanych objętych tym obowiązkiem lub
 - **2)** realizujące transakcje kontrolowane określone w art. 23z pkt 1 – przekazują Szefowi Krajowej Administracji Skarbowej, w terminie do końca dziewiątego miesiąca po zakończeniu roku podatkowego, za pomocą środków komunikacji elektronicznej, informację o cenach transferowych za rok podatkowy, sporządzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
@@ -509,7 +532,11 @@ source: pdf
 
 13. W przypadku wycofania zgłoszenia lub wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację podatnik jest obowiązany opodatkować zgodnie z art. 27 lub art. 30c kwalifikowane dochody z prawa własności intelektualnej uzyskane w okresie od dnia zgłoszenia lub złożenia wniosku, o którym mowa w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się podatek zapłacony na podstawie ust. 1.
 
-14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji. Art. 30cb. 1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
+14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji.
+
+**Art. 30cb.**
+
+1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
 
 - **1)** wyodrębnić każde kwalifikowane prawo własności intelektualnej w prowadzonych księgach rachunkowych;
 - **2)** prowadzić księgi rachunkowe w sposób zapewniający ustalenie przychodów, kosztów uzyskania przychodów i dochodu (straty), przypadających na każde kwalifikowane prawo własności intelektualnej;
@@ -560,9 +587,17 @@ source: pdf
 
 13. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga również dochody (przychody) poza terytorium Rzeczypospolitej Polskiej i dochody te podlegają w obcym państwie opodatkowaniu podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, dochody (przychody) te łączy się z dochodami (przychodami) osiąganymi na terytorium Rzeczypospolitej Polskiej. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się kwotę równą podatkowi zapłaconemu w obcym państwie. Kwota odliczenia nie może jednak przekroczyć tej części podatku obliczonego przed dokonaniem odliczenia, która proporcjonalnie przypada na dochód uzyskany w obcym państwie.
 
-14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny. Art. 30db. 1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny.
 
-2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków. Art. 30dc. 1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, nie dłuższy jednak niż 12 miesięcy, gdy:
+**Art. 30db.**
+
+1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+
+2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków.
+
+**Art. 30dc.**
+
+1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, nie dłuższy jednak niż 12 miesięcy, gdy:
 
 - **1)** przeniesienie tego składnika majątku związane jest bezpośrednio z polityką zarządzania płynnością przedsiębiorstwa podatnika położonego na terytorium Rzeczypospolitej Polskiej i terytorium innego państwa;
 - **2)** przeniesienie papierów wartościowych lub innych składników majątku następuje na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności.
@@ -573,12 +608,20 @@ source: pdf
 
 4. W przypadku, o którym mowa w ust. 3, podatnik jest obowiązany złożyć do urzędu skarbowego deklarację o wysokości dochodu z niezrealizowanych zysków w terminie 7 dni od dnia przejęcia lub przekształcenia oraz w tym terminie wpłacić podatek należny.
 
-5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku. Art. 30dd. 1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
+5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku.
+
+**Art. 30dd.**
+
+1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
 
 - **1)** składniki majątku przekazane na cele określone w art. 4 ustawy o działalności pożytku publicznego organizacjom równoważnym do organizacji, o których mowa w art. 3 ust. 2 i 3 tej ustawy, określonym w przepisach regulujących działalność pożytku publicznego, obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, realizującym te cele — w przypadku gdy podatnik nie posiada praw do udziału w zysku lub majątku tej organizacji;
 - **2)** składniki majątku przeznaczone do służbowego użytku pracowników, bezpośrednio związane z wykonywaną pracą, niestanowiące aktywów trwałych lub obrotowych w rozumieniu przepisów o rachunkowości.
 
-2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków. Art. 30de. 1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres nie dłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
+2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków.
+
+**Art. 30de.**
+
+1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres nie dłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
 
 2. W przypadku gdy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, rozłożenie na raty zapłaty całości albo części tego podatku następuje po przedłożeniu przez podatnika zabezpieczenia wykonania zobowiązania podatkowego z tego tytułu wraz z opłatą prolongacyjną w formie przewidzianej przepisami Ordynacji podatkowej dla zabezpieczeń wykonania zobowiązań podatkowych.
 
@@ -610,20 +653,35 @@ source: pdf
 
 8. W przypadku zmiany rezydencji podatkowej właściwym naczelnikiem urzędu skarbowego, o którym mowa w ust. 1, jest naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
 
-9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej. Art. 30df. 1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej.
 
-2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika. Art. 30dg. 1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
+**Art. 30df.**
+
+1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+
+2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika.
+
+**Art. 30dg.**
+
+1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
 
 2. Informację, o której mowa w ust. 1, składa się za rok podatkowy, w którym podatnik uwzględnił w kosztach uzyskania przychodów wartość rynkową składnika majątku, określoną przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej.
 
-3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej. Art. 30dh. 1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg oraz przepisy wydane na podstawie art. 30di stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
+3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej.
+
+**Art. 30dh.**
+
+1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg oraz przepisy wydane na podstawie art. 30di stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
 
 2. Ilekroć w ust. 1 i art. 30da–30dg jest mowa o składniku majątku, rozumie się przez to również przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa.
 
 3. Przepisy ust. 1 i 2, art. 30da–30dg oraz przepisy wydane na podstawie art. 30di stosuje się odpowiednio do:
 
 - **1)** nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
-- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia  jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatkowania dochodów ze zbycia tego składnika majątku. Art. 30di. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
+- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia  jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
+
+**Art. 30di.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
+
 - **1)** deklaracji, o której mowa w art. 30da ust. 14,
 - **2)** informacji, o której mowa w art. 30dg ust. 1 – wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze umożliwienie identyfikacji urzędu skarbowego, identyfikacji podatnika, zastosowanej metody wyceny wartości rynkowej oraz poprawne obliczenie podatku od dochodów z niezrealizowanych zysków przez podatnika.”;
 - **28)** w art. 30f: 1 ust. 3 pkt 2 ustawy o podatku dochodowym od osób prawnych,
@@ -2193,20 +2251,28 @@ source: pdf
 
 § 3. Szef Krajowej Administracji Skarbowej przejmuje do dalszego prowadzenia postępowanie podatkowe, kontrolę podatkową lub kontrolę celnoskarbową, jeżeli z załączonych do wniosku akt postępowania, w tym zgromadzonych dowodów, wynika, że w sprawie może zostać wydana decyzja z zastosowaniem art. 119a.
 
-§ 4. W przypadku niespełnienia przesłanek określonych w § 1 lub 3 Szef Krajowej Administracji Skarbowej zwraca akta sprawy właściwemu organowi podatkowemu. Art. 119gb. § 1. Szef Krajowej Administracji Skarbowej może odmówić wszczęcia postępowania podatkowego lub odmówić przejęcia postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, a postępowanie wszczęte lub przejęte może umorzyć lub przekazać właściwemu organowi podatkowemu, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
+§ 4. W przypadku niespełnienia przesłanek określonych w § 1 lub 3 Szef Krajowej Administracji Skarbowej zwraca akta sprawy właściwemu organowi podatkowemu.
+
+**Art. 119gb.**
+
+§ 1. Szef Krajowej Administracji Skarbowej może odmówić wszczęcia postępowania podatkowego lub odmówić przejęcia postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, a postępowanie wszczęte lub przejęte może umorzyć lub przekazać właściwemu organowi podatkowemu, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
 
 § 2. W przypadku określonym w § 1 Szef Krajowej Administracji Skarbowej może umorzyć wszczęte na podstawie art. 119g § 3 postępowanie podatkowe, a przejętą kontrolę podatkową lub kontrolę celno-skarbową przekazać organowi podatkowemu.
 
-§ 3. W sprawie przekazania, o którym mowa w § 1 i 2, wydaje się postanowienie, które doręcza się stronie oraz organowi podatkowemu, któremu sprawa jest przekazywana. Czynności dokonane przed przekazaniem sprawy pozostają w mocy. Art. 119gc. Szef Krajowej Administracji Skarbowej może wystąpić do właściwego organu podatkowego, o którym mowa w art. 119g § 2, o zajęcie stanowiska w sprawie w wyznaczonym terminie, nie dłuższym niż 2 miesiące od dnia doręczenia wystąpienia. Szef Krajowej Administracji Skarbowej może w tym celu udostępnić organowi podatkowemu do wglądu akta postępowania podatkowego. Art. 119gd. § 1. Organem podatkowym właściwym do wydania decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale albo przed wszczęciem lub przejęciem postępowania podatkowego na podstawie art. 119g § 1 lub 3 jest organ podatkowy określony w art. 13 § 1 pkt 1.
+§ 3. W sprawie przekazania, o którym mowa w § 1 i 2, wydaje się postanowienie, które doręcza się stronie oraz organowi podatkowemu, któremu sprawa jest przekazywana. Czynności dokonane przed przekazaniem sprawy pozostają w mocy.
+
+**Art. 119gc.** Szef Krajowej Administracji Skarbowej może wystąpić do właściwego organu podatkowego, o którym mowa w art. 119g § 2, o zajęcie stanowiska w sprawie w wyznaczonym terminie, nie dłuższym niż 2 miesiące od dnia doręczenia wystąpienia. Szef Krajowej Administracji Skarbowej może w tym celu udostępnić organowi podatkowemu do wglądu akta postępowania podatkowego.
+
+**Art. 119gd.**
+
+§ 1. Organem podatkowym właściwym do wydania decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale albo przed wszczęciem lub przejęciem postępowania podatkowego na podstawie art. 119g § 1 lub 3 jest organ podatkowy określony w art. 13 § 1 pkt 1.
 
 § 2. Wydanie decyzji o zabezpieczeniu, o którym mowa w art. 33, w toku postępowania podatkowego określonego w niniejszym rozdziale albo przed wszczęciem lub przejęciem postępowania podatkowego na podstawie art. 119g § 1 lub 3 następuje po zasięgnięciu opinii Szefa Krajowej Administracji Skarbowej. Przepisów art. 209 § 2 i 5 nie stosuje się.”;
 
-- **31)** w art. 119h:
+- **31)** w art. 119h: 119a.”,
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Szef Krajowej Administracji Skarbowej może, w toku postępowania, zasięgnąć opinii Rady co do zasadności zastosowania art.
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Przepisu § 2 nie stosuje się, jeżeli decyzja organu podatkowego pierwszej instancji została wydana z zastosowaniem art. 119a § 7.”;
 
-119a. ”,
-
-- **b)** dodaje się § 4 w brzmieniu: „§ 4. Przepisu § 2 nie stosuje się, jeżeli decyzja organu podatkowego pierwszej instancji została wydana z zastosowaniem art. 119a § 7.”;
 - **32)** w art. 119i: Zaproszenie przedstawiciela Szefa Krajowej Administracji Skarbowej albo strony do udziału w posiedzeniu wymaga skierowania zaproszenia w takim samym zakresie także odpowiednio do strony albo przedstawiciela Szefa Krajowej Administracji Skarbowej.”,
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Na zaproszenie przewodniczącego w posiedzeniu Rady, którego przedmiotem jest wyrażenie opinii co do zasadności zastosowania art. 119a, lub w jego części może uczestniczyć przedstawiciel Szefa Krajowej Administracji Skarbowej oraz strona, jej przedstawiciel lub pełnomocnik.
     - **b)** § 8 i 9 otrzymują brzmienie: „§ 8. Po wydaniu opinii albo po bezskutecznym upływie terminu wskazanego w § 5 Rada zwraca akta sprawy Szefowi Krajowej Administracji Skarbowej. Otrzymane przez Radę od strony informacje, wyjaśnienia oraz dokumenty włącza się do akt sprawy.
@@ -2277,7 +2343,11 @@ source: pdf
 - **2)** wydania decyzji z zastosowaniem art. 119a w zakresie objętym wnioskiem o wydanie opinii – przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio.”;
 - **49)** po art. 119ze dodaje się art. 119zea w brzmieniu: „Art. 119zea. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 119x § 1 i art. 119w § 2, które zawierają dane określone w tych przepisach oraz oświadczenie wskazane w art. 14b § 4 oraz umożliwiają wskazanie danych, o których mowa w art. 14r § 2 oraz w art. 119w § 3, a także sposób uiszczenia opłaty, o której mowa w art. 119zc, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.”;
 - **50)** art. 119zf otrzymuje brzmienie: „Art. 119zf. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4 i 5, art. 14c § 4, art. 14d § 2 i 3, art. 14e § 1 pkt 2 i § 2–4, art. 14f § 3, art. 14i § 2, 4 i 5, art. 14r § 2 i 3, art. 20g § 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3 i 3b, art. 165a, art. 168, art. 169 § 1–2 i 4, art. 170, art. 171, art. 187 § 3, art. 189 § 3, art. 197 § 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.”;
-- **51)** w dziale IIIA dodaje się rozdział 5 w brzmieniu: „Rozdział 5 Cofnięcie skutków unikania opodatkowania Art. 119zfa. § 1. Szef Krajowej Administracji Skarbowej, na wniosek zainteresowanego, może wydać decyzję określającą warunki cofnięcia skutków unikania opodatkowania.
+- **51)** w dziale IIIA dodaje się rozdział 5 w brzmieniu: „Rozdział 5 Cofnięcie skutków unikania opodatkowania
+
+**Art. 119zfa.**
+
+§ 1. Szef Krajowej Administracji Skarbowej, na wniosek zainteresowanego, może wydać decyzję określającą warunki cofnięcia skutków unikania opodatkowania.
 
 § 2. Zainteresowani, którzy są powiązani tą samą czynnością, mogą wystąpić ze wspólnym wnioskiem.
 
@@ -2285,12 +2355,22 @@ source: pdf
 
 § 4. Wniosek może dotyczyć więcej niż jednej korzyści podatkowej, jeżeli korzyści podatkowe zostały uzyskane w danym okresie rozliczeniowym w analogiczny sposób.
 
-§ 5. Przepisy niniejszego rozdziału stosuje się odpowiednio do cofnięcia skutków unikania opodatkowania wynikających ze środków ograniczających umowne korzyści. Art. 119zfb. Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania:
+§ 5. Przepisy niniejszego rozdziału stosuje się odpowiednio do cofnięcia skutków unikania opodatkowania wynikających ze środków ograniczających umowne korzyści.
+
+**Art. 119zfb.** Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania:
 
 - **1)** w zakresie tych korzyści podatkowych, które w dniu złożenia wniosku mogą być przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej, o której możliwości wszczęcia podatnik został zawiadomiony na podstawie art. 282b § 1, albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego;
-- **2)** jeżeli stanowisko zawarte we wniosku wskazuje na zasadność wydania decyzji na podstawie art. 119zfi § 1 lub 2. Art. 119zfc. § 1. Przed złożeniem wniosku zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wyjaśnienie wszelkich wątpliwości dotyczących wydania decyzji, w szczególności celowości jej wydania, zakresu niezbędnych informacji, trybu i przypuszczalnego terminu zakończenia postępowania.
+- **2)** jeżeli stanowisko zawarte we wniosku wskazuje na zasadność wydania decyzji na podstawie art. 119zfi § 1 lub 2.
 
-§ 2. Dokumenty i informacje uzyskane przez Szefa Krajowej Administracji Skarbowej w ramach czynności określonych w § 1 nie mogą stanowić dowodu w kontroli podatkowej, kontroli celno-skarbowej lub postępowaniu podatkowym, chyba że organ podatkowy uzyska te dokumenty i informacje w wyniku przeprowadzenia innych czynności. Art. 119zfd. § 1. Wniosek zawiera informacje istotne z punktu widzenia przepisów art. 119a § 1–3, 5 i 6, w szczególności:
+**Art. 119zfc.**
+
+§ 1. Przed złożeniem wniosku zainteresowany może zwrócić się do Szefa Krajowej Administracji Skarbowej o wyjaśnienie wszelkich wątpliwości dotyczących wydania decyzji, w szczególności celowości jej wydania, zakresu niezbędnych informacji, trybu i przypuszczalnego terminu zakończenia postępowania.
+
+§ 2. Dokumenty i informacje uzyskane przez Szefa Krajowej Administracji Skarbowej w ramach czynności określonych w § 1 nie mogą stanowić dowodu w kontroli podatkowej, kontroli celno-skarbowej lub postępowaniu podatkowym, chyba że organ podatkowy uzyska te dokumenty i informacje w wyniku przeprowadzenia innych czynności.
+
+**Art. 119zfd.**
+
+§ 1. Wniosek zawiera informacje istotne z punktu widzenia przepisów art. 119a § 1–3, 5 i 6, w szczególności:
 
 - **1)** opis stanu faktycznego składający się z:
     - **a)** wyczerpującego opisu dokonanej czynności prowadzącej do unikania opodatkowania,
@@ -2317,13 +2397,22 @@ source: pdf
 
 § 4. Wniosek o wydanie decyzji niespełniający wymogów określonych w § 1–3 lub przepisach wydanych na podstawie § 5, lub innych wymogów określonych przepisami prawa pozostawia się bez rozpatrzenia.
 
-§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera informacje określone w tym przepisie oraz wskazane w art. 14b § 4 i art. 14r § 2, a także sposób uiszczenia opłaty, o której mowa w art. 119zff, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. Art. 119zfe. § 1. Złożenie wniosku oraz wydanie decyzji nie stanowią przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
+§ 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w § 1, który zawiera informacje określone w tym przepisie oraz wskazane w art. 14b § 4 i art. 14r § 2, a także sposób uiszczenia opłaty, o której mowa w art. 119zff, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
+
+**Art. 119zfe.**
+
+§ 1. Złożenie wniosku oraz wydanie decyzji nie stanowią przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
 
 § 2. W toku postępowania o wydanie decyzji domniemywa się, że:
 
 - **1)** wskazana we wniosku czynność, o której mowa w art. 119zfd § 1 pkt 1 lit. a, została dokonana w sposób sztuczny;
 - **2)** co najmniej jednym z głównych celów dokonania czynności, o której mowa w pkt 1, było osiągnięcie korzyści podatkowej;
-- **3)** korzyść podatkowa określona w pkt 2 jest sprzeczna w danych okolicznościach z przedmiotem lub celem ustawy podatkowej lub jej przepisu. Art. 119zff. § 1. Wniosek podlega opłacie w wysokości:
+- **3)** korzyść podatkowa określona w pkt 2 jest sprzeczna w danych okolicznościach z przedmiotem lub celem ustawy podatkowej lub jej przepisu.
+
+**Art. 119zff.**
+
+§ 1. Wniosek podlega opłacie w wysokości:
+
 - **1)** 0,2% kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – odnośnie do korzyści podatkowej lub jej części powodującej powstanie lub zawyżenie straty podatkowej,
 - **2)** 1% kwoty korzyści podatkowej, o której mowa w art. 119zfd § 1 pkt 1 lit. c – w pozostałych przypadkach – jednak nie mniejszej niż 1000 zł i nie większej niż 15 000 zł.
 
@@ -2345,15 +2434,29 @@ source: pdf
 § 8. Jeżeli w wydanej decyzji Szef Krajowej Administracji Skarbowej określił skutki podatkowe stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, zwraca się 60% uiszczonej opłaty, jeżeli zainteresowany, który unikał opodatkowania:
 
 - **1)** cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
-- **2)** wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę. Art. 119zfg. Szef Krajowej Administracji Skarbowej może zwrócić się do wnioskodawcy o wyjaśnienie jego stanowiska, wątpliwości co do danych zawartych we wniosku lub może zorganizować spotkanie uzgodnieniowe. Art. 119zfh. § 1. W razie uznania w toku postępowania, że zainteresowany nieprawidłowo przedstawił elementy wniosku, o których mowa w art. 119zfd § 1 pkt 2–4, Szef Krajowej Administracji Skarbowej, w drodze postanowienia, zawiadamia o tym zainteresowanego oraz poucza o treści § 2. Postanowienie zawiera uzasadnienie faktyczne i prawne.
+- **2)** wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
+
+**Art. 119zfg.** Szef Krajowej Administracji Skarbowej może zwrócić się do wnioskodawcy o wyjaśnienie jego stanowiska, wątpliwości co do danych zawartych we wniosku lub może zorganizować spotkanie uzgodnieniowe.
+
+**Art. 119zfh.**
+
+§ 1. W razie uznania w toku postępowania, że zainteresowany nieprawidłowo przedstawił elementy wniosku, o których mowa w art. 119zfd § 1 pkt 2–4, Szef Krajowej Administracji Skarbowej, w drodze postanowienia, zawiadamia o tym zainteresowanego oraz poucza o treści § 2. Postanowienie zawiera uzasadnienie faktyczne i prawne.
 
 § 2. Zainteresowany w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w § 1, może złożyć dodatkowe wyjaśnienia i dokumenty lub złożyć wniosek o zasięgnięcie przez Szefa Krajowej Administracji Skarbowej opinii Rady co do kwestii uwzględnionych w treści postanowienia i przedstawić jednocześnie własne stanowisko.
 
 § 3. Szef Krajowej Administracji Skarbowej występuje o opinię Rady, jeżeli przedstawione przez zainteresowanego dodatkowe wyjaśnienia i dokumenty okazały się niewystarczające. Zasięgając opinii Rady, Szef Krajowej Administracji Skarbowej przedstawia własne stanowisko w sprawie.
 
-§ 4. Jeżeli w opinii Rady żadne z przedstawionych jej stanowisk nie jest zasadne, Rada przedstawia własną opinię w zakresie ocenianych kwestii. Art. 119zfi. § 1. Szef Krajowej Administracji Skarbowej, w drodze decyzji, odmawia określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli czynność określona w art. 119zfd § 1 pkt 1 lit. a nie skutkowała, wbrew stanowisku zainteresowanego, osiągnięciem korzyści podatkowej.
+§ 4. Jeżeli w opinii Rady żadne z przedstawionych jej stanowisk nie jest zasadne, Rada przedstawia własną opinię w zakresie ocenianych kwestii.
 
-§ 2. Szef Krajowej Administracji Skarbowej może, w drodze decyzji, odmówić określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania. Art. 119zfj. § 1. Decyzja zawiera w szczególności:
+**Art. 119zfi.**
+
+§ 1. Szef Krajowej Administracji Skarbowej, w drodze decyzji, odmawia określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli czynność określona w art. 119zfd § 1 pkt 1 lit. a nie skutkowała, wbrew stanowisku zainteresowanego, osiągnięciem korzyści podatkowej.
+
+§ 2. Szef Krajowej Administracji Skarbowej może, w drodze decyzji, odmówić określenia warunków cofnięcia skutków unikania opodatkowania, jeżeli zastosowanie innych niż art. 119a przepisów prawa podatkowego pozwala na przeciwdziałanie unikaniu opodatkowania.
+
+**Art. 119zfj.**
+
+§ 1. Decyzja zawiera w szczególności:
 
 - **1)** wynikający z przedstawionego stanu faktycznego wyczerpujący opis czynności prowadzącej do unikania opodatkowania wraz ze wskazaniem podmiotów w niej uczestniczących;
 - **2)** rozstrzygnięcie co do:
@@ -2365,7 +2468,11 @@ source: pdf
 
 § 2. W razie uznania stanowiska zainteresowanego za nieprawidłowe w zakresie opisanym w § 1 pkt 2 lit. a–c organ podatkowy wskazuje w decyzji prawidłowe stanowisko wraz z uzasadnieniem faktycznym i prawnym.
 
-§ 3. Jeżeli w decyzji nie określono skutków podatkowych stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, decyzja może ponadto określać uprawnienia zainteresowanego podmiotu, o którym mowa w art. 119zfm. Art. 119zfk. § 1. W terminie 14 dni od dnia doręczenia decyzji zainteresowany może, uwzględniając jej treść, cofnąć skutki unikania opodatkowania poprzez złożenie korekty deklaracji, z zastrzeżeniem § 2.
+§ 3. Jeżeli w decyzji nie określono skutków podatkowych stanu prawnego, jaki zaistniałby, gdyby określony w art. 119a § 6 przepis ustawy podatkowej nie miał zastosowania, decyzja może ponadto określać uprawnienia zainteresowanego podmiotu, o którym mowa w art. 119zfm.
+
+**Art. 119zfk.**
+
+§ 1. W terminie 14 dni od dnia doręczenia decyzji zainteresowany może, uwzględniając jej treść, cofnąć skutki unikania opodatkowania poprzez złożenie korekty deklaracji, z zastrzeżeniem § 2.
 
 § 2. Jeżeli w wyniku dokonania czynności, o której mowa w art. 119zfd § 1 pkt 1, zaistniał taki stan rzeczy, w którym złożenie deklaracji lub korekty deklaracji byłoby niezgodne z odrębnymi przepisami, w szczególności w razie zmiany formy prawnej mającej wpływ na sposób opodatkowania, cofnięcie przez zainteresowanego skutków unikania opodatkowania, o którym mowa w art. 119a § 1, następuje poprzez złożenie, w terminie określonym w § 1, informacji zastępczej. Złożenie informacji zastępczej wywołuje skutki prawne odpowiadające złożeniu deklaracji.
 
@@ -2373,14 +2480,24 @@ source: pdf
 
 § 4. Ponowne skorygowanie deklaracji nie wywołuje skutków prawnych w zakresie, w jakim dokonana na podstawie § 1 korekta przewidywała cofnięcie skutków unikania opodatkowania.
 
-§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji zastępczej, wraz z objaśnieniami co do sposobu prawidłowego jej wypełnienia oraz terminu i miejsca jej składania, mając na uwadze umożliwienie prawidłowego rozliczenia podatku, a także kierując się potrzebą ułatwienia zainteresowanym poprawnego sporządzenia informacji zastępczej. Art. 119zfl. § 1. Organ podatkowy uwzględnia, z zastrzeżeniem § 2, w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji.
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji zastępczej, wraz z objaśnieniami co do sposobu prawidłowego jej wypełnienia oraz terminu i miejsca jej składania, mając na uwadze umożliwienie prawidłowego rozliczenia podatku, a także kierując się potrzebą ułatwienia zainteresowanym poprawnego sporządzenia informacji zastępczej.
 
-§ 2. Organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego pomija decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji, jeżeli zgromadzone dowody wskazują na nierzetelność opisu czynności prowadzącej do unikania opodatkowania. Art. 119zfm. § 1. Zainteresowany niebędący podmiotem, który unikał opodatkowania, może w terminie 3 miesięcy od dnia doręczenia decyzji skorygować deklarację, uwzględniając treść tej decyzji, a także na jej podstawie w tym terminie wystąpić z wnioskiem o stwierdzenie nadpłaty lub zwrot podatku, jeżeli zainteresowany, który unikał opodatkowania:
+**Art. 119zfl.**
+
+§ 1. Organ podatkowy uwzględnia, z zastrzeżeniem § 2, w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji.
+
+§ 2. Organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego pomija decyzję wydaną na podstawie art. 119zfi § 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji, jeżeli zgromadzone dowody wskazują na nierzetelność opisu czynności prowadzącej do unikania opodatkowania.
+
+**Art. 119zfm.**
+
+§ 1. Zainteresowany niebędący podmiotem, który unikał opodatkowania, może w terminie 3 miesięcy od dnia doręczenia decyzji skorygować deklarację, uwzględniając treść tej decyzji, a także na jej podstawie w tym terminie wystąpić z wnioskiem o stwierdzenie nadpłaty lub zwrot podatku, jeżeli zainteresowany, który unikał opodatkowania:
 
 - **1)** cofnął zgodnie z art. 119zfk § 1 lub 2 skutki unikania opodatkowania oraz
 - **2)** wpłacił na rachunek właściwego organu podatkowego kwotę wynikającą ze złożonej korekty deklaracji lub informacji zastępczej wraz z odsetkami za zwłokę.
 
-§ 2. Do zainteresowanego, o którym mowa w § 1, przepisy art. 119j § 4 i 5 stosuje się odpowiednio. Art. 119zfn. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 20g § 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2 i art. 119u oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
+§ 2. Do zainteresowanego, o którym mowa w § 1, przepisy art. 119j § 4 i 5 stosuje się odpowiednio.
+
+**Art. 119zfn.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b § 4, art. 14i § 2, art. 14r § 2 i 3, art. 20g § 3, art. 119gc, art. 119h § 3, art. 119i, art. 119m § 1, art. 119s § 2 i art. 119u oraz działu IV, z wyłączeniem art. 133, a także przepisy art. 45, art. 46, art. 49 i art. 51 ustawy dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.”;
 
 - **52)** art. 157a otrzymuje brzmienie: „Art. 157a. Organ podatkowy, przed którym toczy się postępowanie podatkowe, może zwrócić się o dokonanie określonej czynności związanej z prowadzonym postępowaniem do innego organu podatkowego, jeżeli przyczyni się to do skrócenia czasu trwania lub obniżenia kosztów postępowania albo postępowanie prowadzone jest na podstawie art. 119g.”;
 - **53)** w art. 165 w § 7 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) informacji o schemacie podatkowym.”;

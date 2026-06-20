@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach aptekarskich
+# Ustawa z dnia 19 kwietnia 1991 r. o izbach aptekarskich.
 
 *USTAWA z dnia 19 kwietnia 1991 r.*
 
@@ -773,7 +773,9 @@ source: pdf
 
 **Art. 69.** Uprawnienia ministra właściwego do spraw zdrowia, o których mowa w art. 13 ust. 1 i 2 niniejszej ustawy i art. 24 ust. 3 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, przysługują odpowiednio Ministrowi Obrony Narodowej.
 
-**Art. 70.** Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”. Art. 71–77. (pominięte)
+**Art. 70.** Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”.
+
+**Art. 71–77.** (pominięte)
 
 **Art. 78.** (uchylony)
 

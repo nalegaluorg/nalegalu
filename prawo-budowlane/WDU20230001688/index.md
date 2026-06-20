@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2023 r.*
 
@@ -606,7 +606,11 @@ source: pdf
 
 3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego.
 
-4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym. Art. 37eb. 1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego.
+4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym.
+
+**Art. 37eb.**
+
+1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego.
 
 2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin nie dłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania.
 
@@ -615,7 +619,11 @@ source: pdf
 4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2:
 
 - **1)** udostępnia w Rejestrze,
-- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4. Art. 37ec. 1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
+- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4.
+
+**Art. 37ec.**
+
+1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
 
 2. Jeżeli rada gminy wyraziła zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego, wójt, burmistrz albo prezydent miasta, kolejno:
 
@@ -647,9 +655,13 @@ source: pdf
 6. W przypadku gdy zintegrowany plan inwestycyjny dotyczy wyłącznie lokalizacji instalacji odnawialnych źródeł energii innych niż elektrownie wiatrowe w rozumieniu ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych oraz nie dotyczy warunków określonych w art. 27b ust. 2:
 
 - **1)** wójt, burmistrz albo prezydent miasta wykonuje czynności określone w ust. 1 bez wyrażenia przez radę gminy zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego;
-- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1: Art. 37ed. 1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
+- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1:
     - **a)** pkt 1 i 4, prowadzi się przez okres 14 dni,
     - **b)** pkt 2 i 3, przeprowadza się nie wcześniej niż po upływie 3 dni od dnia rozpoczęcia konsultacji społecznych i nie później niż 3 dni przed ostatnim dniem okresu, o którym mowa w lit. a.
+
+**Art. 37ed.**
+
+1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
 
 2. Przez umowę urbanistyczną inwestor może zobowiązać się na rzecz gminy, w szczególności do:
 
@@ -676,11 +688,21 @@ source: pdf
 
 10. Do umowy urbanistycznej nie stosuje się przepisu art. 18 ust. 2 pkt 9 lit. a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym oraz uchwał dotyczących zasad wydanych na podstawie tego przepisu.
 
-11. Jeżeli zintegrowany plan inwestycyjny zostanie uchylony, zmieniony lub zostanie stwierdzona jego nieważność przed upływem 5 lat od dnia jego wejścia w życie, strony umowy urbanistycznej mogą w terminie 6 miesięcy od dnia uchylenia, zmiany lub stwierdzenia nieważności zintegrowanego planu inwestycyjnego odstąpić od umowy urbanistycznej. Art. 37ee. W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy. Art. 37ef. 1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
+11. Jeżeli zintegrowany plan inwestycyjny zostanie uchylony, zmieniony lub zostanie stwierdzona jego nieważność przed upływem 5 lat od dnia jego wejścia w życie, strony umowy urbanistycznej mogą w terminie 6 miesięcy od dnia uchylenia, zmiany lub stwierdzenia nieważności zintegrowanego planu inwestycyjnego odstąpić od umowy urbanistycznej.
+
+**Art. 37ee.** W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy.
+
+**Art. 37ef.**
+
+1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
 
 2. W przypadku odrzucenia zintegrowanego planu inwestycyjnego rada gminy może podjąć uchwałę o zwróceniu zintegrowanego planu inwestycyjnego do wójta, burmistrza albo prezydenta miasta wraz z propozycjami poprawek do umowy urbanistycznej, w tym do załącznika określającego projekt zintegrowanego planu inwestycyjnego.
 
-3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9. Art. 37eg. 1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
+3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9.
+
+**Art. 37eg.**
+
+1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
 
 2. Wójt, burmistrz albo prezydent miasta może prowadzić jedno postępowanie w sprawie uchwalenia zintegrowanego planu inwestycyjnego na podstawie kilku oddzielnych wniosków. W takim przypadku jest zawierana jedna umowa urbanistyczna oraz jest podejmowana jedna uchwała w przedmiocie zintegrowanego planu inwestycyjnego.”;
 

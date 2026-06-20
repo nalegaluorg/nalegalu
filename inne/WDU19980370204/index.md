@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego
+# Ustawa z dnia 6 lutego 1998 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.
 
 *USTAWA z dnia 6 lutego 1998 r.*
 

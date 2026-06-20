@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy
 
 *USTAWA z dnia 25 września 2015 r.*
 

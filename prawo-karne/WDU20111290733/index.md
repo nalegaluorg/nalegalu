@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny skarbowy
+# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Kodeks karny skarbowy
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 

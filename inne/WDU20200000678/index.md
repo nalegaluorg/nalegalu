@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956-1989
 
 | Pole | Wartość |
 |---|---|

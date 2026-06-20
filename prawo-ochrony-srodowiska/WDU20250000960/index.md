@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/960/text.pdf) |
 
-Art. 480–524. (pominięte)
-
 ### DZIAŁ I Zasady ogólne
 
 #### Rozdział 1 Przepisy ogólne
@@ -1564,9 +1562,7 @@ Art. 480–524. (pominięte)
 
 2. Wyniki kontroli, o której mowa w ust. 1, właściwy organ Inspekcji Ochrony Środowiska przekazuje ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw rolnictwa w terminie do dnia 30 czerwca każdego roku za rok poprzedni.
 
-3. Kontrolę, o której mowa w ust. 1, wykonuje się na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz.
-
-- **425)** .
+3. Kontrolę, o której mowa w ust. 1, wykonuje się na podstawie przepisów ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425).
 
 4. Na potrzeby wykonywania kontroli, o której mowa w ust. 1, organy Inspekcji Ochrony Środowiska są uprawnione do wykorzystywania danych zgromadzonych w systemie ewidencji producentów oraz ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, o których mowa w przepisach ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2023 r. poz. 885 oraz z 2025 r. poz. 368).
 
@@ -4654,7 +4650,7 @@ Art. 480–524. (pominięte)
     - **a)** oznaczenie organu właściwego do wydania pozwolenia wodnoprawnego,
     - **b)** znak decyzji,
     - **c)** datę udzielenia pozwolenia wodnoprawnego,
-    - **d)** datę obowiązywania pozwolenia wodnoprawnego.>
+    - **d)** datę obowiązywania pozwolenia wodnoprawnego.
 
 17. Wysokość opłat, o których mowa w ust. 1–7 i 9, ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne, w formie informacji, zawierającej także sposób obliczenia tej opłaty.
 
@@ -7877,7 +7873,11 @@ Art. 480–524. (pominięte)
 
 3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 10 000 zł.
 
-4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich. Art. 472aa. 1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
+4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich.
+
+**Art. 472aa.**
+
+1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
 
 - **1)** art. 343 ust. 1, mimo wezwania Wód Polskich, nie usuwa w terminie określonym przez Wody Polskie zaniedbań w zakresie gospodarki wodnej, w wyniku których może powstać stan zagrażający życiu lub zdrowiu ludzi, zwierząt lub środowisku albo prawnie chronionemu interesowi osób trzecich;
 - **2)** art. 389, art. 394 ust. 1 lub art. 425 ust. 1 korzysta z wód, wykonuje urządzenia wodne, roboty w wodach lub inne działania wymagające odpowiedniej zgody wodnoprawnej, bez odpowiednio pozwolenia wodnoprawnego lub pozwolenia zintegrowanego, zgłoszenia wodnoprawnego lub oceny wodnoprawnej;
@@ -8007,6 +8007,8 @@ Art. 480–524. (pominięte)
 ### DZIAŁ XIII Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 480–524.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe, dostosowujące i końcowe
 

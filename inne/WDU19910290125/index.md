@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia stanowisk i funkcji uprawniających do otrzymania paszportów dyplomatycznych oraz paszportów służbowych Ministerstwa Spraw Zagranicznych, trybu ich przechowywania oraz zakresu czynności konsula w sprawach paszportowych Na podstawie art. 4 ust. 6 ustawy z dnia 29 listopada 1990 r. o paszportach (Dz.U. z 1991 r. Nr 2, poz. 5) zarządza się, co następuje:
+# Rozporządzenie Rady Ministrów z dnia 2 kwietnia 1991 r. w sprawie określania stanowisk i funkcji uprawniających do otrzymania paszportów dyplomatycznych oraz paszportów służbowych Ministerstwa Spraw Zagranicznych, trybu ich przechowywania oraz zakresu czynności konsula w sprawach paszportowych.
 
 *ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 kwietnia 1991 r.*
 

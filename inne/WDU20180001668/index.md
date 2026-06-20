@@ -1111,8 +1111,8 @@ source: pdf
 - **7)** fizjoterapeuty,
 - **8)** ratownika medycznego,
 - **9)** lekarza weterynarii,
-- **10)** architekta,
-- **11)** nauczyciela, <12) psychologa> – uwzględnia się standardy kształcenia.
+- **10)** architekta, 11) nauczyciela,
+- **12)** psychologa – uwzględnia się standardy kształcenia.
 
 2. Standard kształcenia jest zbiorem reguł i wymagań w zakresie kształcenia dotyczących sposobu organizacji kształcenia, osób prowadzących to kształcenie, ogólnych i szczegółowych efektów uczenia się, a także sposobu weryfikacji osiągniętych efektów uczenia się.
 
@@ -1120,8 +1120,8 @@ source: pdf
 
 - **1)** pkt 1–8 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw zdrowia,
 - **2)** pkt 9 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw rolnictwa,
-- **3)** pkt 10 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,
-- **4)** pkt 11 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, <5) pkt 12 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw pracy> – mając na uwadze konieczność zapewnienia wysokiej jakości kształcenia i właściwego doboru efektów uczenia się w celu odpowiedniego przygotowania do wykonywania zawodu z uwzględnieniem jego specyfiki, a w przypadku kształcenia przygotowującego do wykonywania zawodu nauczyciela – również czas trwania i właściwy dobór efektów uczenia się na studiach podyplomowych.
+- **3)** pkt 10 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, 4) pkt 11 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania,
+- **5)** pkt 12 – określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw pracy – mając na uwadze konieczność zapewnienia wysokiej jakości kształcenia i właściwego doboru efektów uczenia się w celu odpowiedniego przygotowania do wykonywania zawodu z uwzględnieniem jego specyfiki, a w przypadku kształcenia przygotowującego do wykonywania zawodu nauczyciela – również czas trwania i właściwy dobór efektów uczenia się na studiach podyplomowych.
 
 **Art. 69.**
 
@@ -1197,7 +1197,7 @@ source: pdf
 
 - **1)** dokonywaniu weryfikacji, o której mowa w ust. 5a, ust. 5b pkt 2, ust. 5c i ust. 5d pkt 2, oraz dokumentach poświadczających znajomość języka, w którym odbywa się kształcenie na studiach na określonym kierunku, poziomie i profilu, o których mowa w przepisach wydanych na podstawie ust. 5f, na ustalonym przez uczelnię poziomie biegłości językowej, nie niższym niż B2,
 - **2)** wymogach, o których mowa w ust. 5b pkt 1 i ust. 5d pkt 1,
-- **3)** przeprowadzeniu egzaminów wstępnych, o których mowa w ust. 5b pkt 3, oraz ich zakresie – uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1.>
+- **3)** przeprowadzeniu egzaminów wstępnych, o których mowa w ust. 5b pkt 3, oraz ich zakresie – uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1.
 
 6. Uczelnia publiczna:
 
@@ -1270,7 +1270,7 @@ source: pdf
 - **1)** dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275) – studentowi posiadającemu numer PESEL;
 - **2)** elektronicznej karty procesorowej:
     - **a)** studentowi nieposiadającemu numeru PESEL,
-    - **b)** na wniosek studenta.>
+    - **b)** na wniosek studenta.
 
 5. Uczelnia może wydać studentowi indeks.
 
@@ -1359,7 +1359,7 @@ source: pdf
 1. Dokumenty wydawane w związku z przebiegiem lub ukończeniem studiów, przeznaczone do obrotu prawnego z zagranicą, są uwierzytelniane na wniosek zainteresowanego. [2. Uwierzytelnienie polega na poświadczeniu autentyczności podpisu i funkcji osoby podpisującej dokument lub tożsamości pieczęci urzędowej uczelni, którą jest opatrzony ten dokument.] <2. Uwierzytelnienie polega na poświadczeniu autentyczności:
 
 - **1)** podpisu i funkcji osoby podpisującej dokument lub tożsamości pieczęci urzędowej uczelni, którą jest opatrzony ten dokument, albo
-- **2)** dokumentu elektronicznego w repozytorium dyplomów elektronicznych.>
+- **2)** dokumentu elektronicznego w repozytorium dyplomów elektronicznych.
 
 3. Dyrektor NAWA uwierzytelnia:
 
@@ -1386,7 +1386,8 @@ source: pdf
 
 - **1)** przeprowadzenie rekrutacji;
 - **2)** przeprowadzenie potwierdzania efektów uczenia się;
-- **3)** wydanie indeksu i legitymacji studenckiej oraz duplikatów tych dokumentów; [4) wydanie dodatkowego odpisu dyplomu ukończenia studiów lub odpisu suplementu do dyplomu w języku obcym, o którym mowa w art. 77 ust. 2;] <4) wydanie, na podstawie art. 77 ust. 2a, 2b i 2d, odpisu dyplomu ukończenia studiów w języku obcym, o którym mowa w art. 77 ust. 2a, lub odpisu suplementu do dyplomu w języku angielskim, z wyjątkiem art. 77 ust. 2a zdanie drugie;>
+- **3)** wydanie indeksu i legitymacji studenckiej oraz duplikatów tych dokumentów;
+- **4)** wydanie, na podstawie art. 77 ust. 2a, 2b i 2d, odpisu dyplomu ukończenia studiów w języku obcym, o którym mowa w art. 77 ust. 2a, lub odpisu suplementu do dyplomu w języku angielskim, z wyjątkiem art. 77 ust. 2a zdanie drugie;
 - **5)** wydanie duplikatu dyplomu ukończenia studiów i suplementu do dyplomu;
 - **6)** korzystanie z domów studenckich i stołówek studenckich.
 
@@ -2722,12 +2723,13 @@ source: pdf
     - **a)** naruszenia obowiązków, o których mowa w art. 119 ust. 3 i 4, art. 188, art. 222 oraz art. 358,
     - **b)** niewprowadzenia do systemu, o którym mowa w art. 342 ust. 1, danych, o których mowa w art. 343 ust. 1, art. 343a ust. 1, art. 345 ust. 1, art. 348 ust. 1 lub w przepisach wydanych na podstawie art. 353, a także w przypadku ich niezaktualizowania, niezarchiwizowania lub nieusunięcia z tego systemu;
 
-- **2)** 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 179 ust. 1.>
+- **2)** 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 179 ust. 1.
 
 3. Wpływy z kar, o których mowa w ust. 2, stanowią dochód budżetu państwa.
 
-**Art. 176.** Do federacji stosuje się odpowiednio przepisy: [1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360–362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425–428, art. 432, art. 469a i art. 469b;] <1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 347a, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360– 362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425– 428, art. 432, art. 469a i art. 469b;>
+**Art. 176.** Do federacji stosuje się odpowiednio przepisy: [1) art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360–362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425–428, art. 432, art. 469a i art. 469b;]
 
+- **1)** art. 24 ust. 9, art. 177–180, art. 182–226a, art. 259–262, art. 264, art. 266, art. 267 ust. 1, art. 268–270, art. 322, art. 343, art. 343a, art. 345, art. 346, art. 347a, art. 348–350, art. 351 ust. 4, art. 354, art. 355, art. 358a, art. 360– 362, art. 408, art. 409 ust. 2–5, art. 410, art. 411, art. 420, art. 423, art. 425– 428, art. 432, art. 469a i art. 469b;
 - **2)** art. 36, z tym że:
     - **a)** koszty likwidacji pokrywa się z majątku jednostek uczestniczących,
     - **b)** dokumentację osobową i płacową przejmuje jednostka uczestnicząca wskazana w statucie,
@@ -2777,14 +2779,7 @@ source: pdf
 
 3. W postępowaniach w sprawie nadania stopnia doktora oraz w sprawie nadania stopnia doktora habilitowanego, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy Kpa.
 
-4. Tytuł profesora nadaje Prezydent Rzeczypospolitej Polskiej. [Art. 179. 1. Osoba, której nadano stopień doktora albo stopień doktora habilitowanego, otrzymuje odpowiednio dyplom doktorski albo dyplom habilitacyjny oraz odpis tego dyplomu. Na wniosek tej osoby wydaje się odpis dyplomu w języku angielskim, francuskim, hiszpańskim, niemieckim, rosyjskim lub łacinie.
-
-2. W przypadku, o którym mowa w art. 185 ust. 2, osoba, której nadano stopień doktora, otrzymuje wspólny dyplom doktorski wydany przez podmioty nadające stopień doktora albo dyplom doktorski wydany przez jeden z podmiotów, wskazany w umowie.
-
-3. Jeżeli postępowanie w sprawie nadania stopnia doktora jest prowadzone z udziałem podmiotu zagranicznego, umowa, o której mowa w art. 185 ust. 2, może określać, że osoba, której nadano stopień doktora, otrzymuje dyplom doktorski wydany przez ten podmiot oraz:
-
-- **1)** dyplom doktorski wydany przez podmiot systemu szkolnictwa wyższego i nauki nadający stopień doktora albo
-- **2)** wspólny dyplom doktorski wydany przez podmioty systemu szkolnictwa wyższego i nauki nadające stopień doktora albo dyplom doktorski wydany przez jeden z tych podmiotów, wskazany w umowie.] < Art. 179. 1. W terminie 30 dni od dnia nadania stopnia podmiot systemu szkolnictwa wyższego i nauki wydaje dla osoby, której nadano stopień, nieodpłatnie w postaci elektronicznej dyplom doktorski albo dyplom habilitacyjny.
+4. Tytuł profesora nadaje Prezydent Rzeczypospolitej Polskiej. < Art. 179. 1. W terminie 30 dni od dnia nadania stopnia podmiot systemu szkolnictwa wyższego i nauki wydaje dla osoby, której nadano stopień, nieodpłatnie w postaci elektronicznej dyplom doktorski albo dyplom habilitacyjny.
 
 2. Osoba ubiegająca się o nadanie stopnia albo osoba, której nadano stopień, może złożyć wniosek o wydanie odpisu dyplomu doktorskiego albo dyplomu habilitacyjnego w postaci elektronicznej w każdym z następujących języków obcych: angielskim, francuskim, hiszpańskim, niemieckim i łacinie.
 
@@ -2814,7 +2809,7 @@ source: pdf
 
 9. W przypadku wydania wspólnego dyplomu doktorskiego po przeprowadzeniu postępowania w sprawie nadania stopnia doktora z udziałem podmiotu zagranicznego przepisu ust. 8 nie stosuje się do dyplomu w postaci papierowej wydanego przez podmiot zagraniczny oraz do wspólnego dyplomu doktorskiego, o którym mowa w ust. 4 pkt 1.
 
-10. Dyplomy doktorskie i dyplomy habilitacyjne oraz odpisy tych dokumentów dla osób będących żołnierzami uczelnia wojskowa wydaje wyłącznie w postaci papierowej.>
+10. Dyplomy doktorskie i dyplomy habilitacyjne oraz odpisy tych dokumentów dla osób będących żołnierzami uczelnia wojskowa wydaje wyłącznie w postaci papierowej.
 
 **Art. 180.**
 
@@ -3178,7 +3173,7 @@ source: pdf
 - **1)** dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu doktoranta przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel;
 - **2)** elektronicznej karty procesorowej:
     - **a)** doktorantowi niebędącemu obywatelem polskim,
-    - **b)** na wniosek doktoranta.>
+    - **b)** na wniosek doktoranta.
 
 **Art. 209.**
 
@@ -4891,7 +4886,8 @@ source: pdf
 - **5)** repozytorium pisemnych prac dyplomowych;
 - **6)** bazę dokumentów w postępowaniach awansowych;
 - **7)** bazę osób upoważnionych do podpisywania dokumentów;
-- **8)** bazę dokumentów planistyczno-sprawozdawczych; <9) repozytorium dyplomów elektronicznych.>
+- **8)** bazę dokumentów planistyczno-sprawozdawczych;
+- **9)** repozytorium dyplomów elektronicznych.
 
 4. Dane w Systemie POL-on są przetwarzane w celu wykonywania zadań związanych z ustalaniem i realizacją polityki naukowej państwa, przeprowadzaniem ewaluacji jakości kształcenia, ewaluacji szkół doktorskich i ewaluacji jakości działalności naukowej, prowadzeniem postępowań w sprawie nadania stopnia doktora, stopnia doktora habilitowanego i tytułu profesora, ustalaniem wysokości subwencji i dotacji, nadzorem nad systemem szkolnictwa wyższego i nauki, realizacją zadań przez NAWA, NCBiR oraz NCN.
 
@@ -4975,7 +4971,8 @@ source: pdf
 1. Wykaz cudzoziemców obejmuje następujące dane dotyczące cudzoziemca przyjętego na studia lub do szkoły doktorskiej:
 
 - **1)** imiona i nazwisko;
-- **2)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało; [3) obywatelstwo;] <3) obywatelstwo (obywatelstwa);>
+- **2)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość oraz nazwę państwa, które go wydało;
+- **3)** obywatelstwo (obywatelstwa);
 - **4)** nazwę państwa urodzenia;
 - **5)** informacje o przyjęciu na studia lub do szkoły doktorskiej:
     - **a)** datę wpisania na listę studentów lub listę doktorantów,
@@ -5165,7 +5162,11 @@ source: pdf
 
 4. Rektor wprowadza treść pracy dyplomowej do repozytorium niezwłocznie po zdaniu przez studenta egzaminu dyplomowego.
 
-5. Dostęp do danych, o których mowa w ust. 1, przysługuje promotorowi pracy dyplomowej oraz PKA, a także ministrowi w zakresie niezbędnym do prawidłowego utrzymania i rozwoju repozytorium oraz systemów informatycznych współpracujących z tym repozytorium. <Art. 347a. 1. Repozytorium dyplomów elektronicznych służy do:
+5. Dostęp do danych, o których mowa w ust. 1, przysługuje promotorowi pracy dyplomowej oraz PKA, a także ministrowi w zakresie niezbędnym do prawidłowego utrzymania i rozwoju repozytorium oraz systemów informatycznych współpracujących z tym repozytorium.
+
+**Art. 347a.**
+
+1. Repozytorium dyplomów elektronicznych służy do:
 
 - **1)** obsługi procesu wydawania w postaci elektronicznej dyplomów ukończenia studiów wraz z suplementami do dyplomów oraz dyplomów doktorskich i dyplomów habilitacyjnych, a także odpisów tych dokumentów w językach obcych;
 - **2)** gromadzenia, udostępniania i weryfikacji dyplomów ukończenia studiów wraz z suplementami do dyplomów oraz dyplomów doktorskich i dyplomów habilitacyjnych, a także odpisów tych dokumentów w językach obcych, objętych obowiązkiem rejestracji w repozytorium, w sposób zapewniający integralność i autentyczność tych dokumentów;
@@ -5227,7 +5228,7 @@ source: pdf
 
 14. Wydruk dyplomu ukończenia studiów wraz z suplementem do dyplomu, dyplomu doktorskiego albo dyplomu habilitacyjnego, pobranego z repozytorium dyplomów elektronicznych w sposób, o którym mowa w ust. 11, nie jest uznawany w obrocie prawnym za równoważny z odpowiednim dyplomem w postaci elektronicznej lub dyplomem w postaci papierowej.
 
-15. Dyplom ukończenia studiów wraz z suplementem do dyplomu, dyplom doktorski i dyplom habilitacyjny mogą być udostępnione absolwentowi i osobie, której nadano stopień, w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu tego absolwenta albo tej osoby przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 tej ustawy.>
+15. Dyplom ukończenia studiów wraz z suplementem do dyplomu, dyplom doktorski i dyplom habilitacyjny mogą być udostępnione absolwentowi i osobie, której nadano stopień, w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, po uwierzytelnieniu tego absolwenta albo tej osoby przy użyciu certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 tej ustawy.
 
 **Art. 348.**
 
@@ -5268,10 +5269,11 @@ source: pdf
 
 1. Baza osób upoważnionych do podpisywania dokumentów, o których mowa w art. 78 ust. 3 i 4, art. 163 ust. 4 oraz art. 180 ust. 1 i 1a, obejmuje:
 
-- **1)** imiona i nazwisko; <1a) stopień albo tytuł profesora;
-- **1b)** zakres upoważnienia;>
+- **1)** imiona i nazwisko;
+- **1a)** stopień albo tytuł profesora; 1b) zakres upoważnienia;
 - **2)** informacje o funkcji pełnionej w uczelni, instytucie PAN, instytucie badawczym, instytucie międzynarodowym lub CMKP;
-- **3)** odwzorowanie cyfrowe wzoru podpisu i parafy; <3a) dane certyfikatu kwalifikowanego podpisu elektronicznego;>
+- **3)** odwzorowanie cyfrowe wzoru podpisu i parafy;
+- **3a)** dane certyfikatu kwalifikowanego podpisu elektronicznego;
 - **4)** informacje o wzorze pieczęci urzędowej uczelni, instytutu PAN, instytutu badawczego, instytutu międzynarodowego lub CMKP;
 - **5)** informacje o wzorach:
     - **a)** dyplomów ukończenia studiów, dyplomów doktorskich i dyplomów habilitacyjnych,
@@ -5390,15 +5392,11 @@ source: pdf
 
 16. Uczelnia przetwarza dane, o których mowa w ust. 15, przez okres nie dłuższy niż 10 lat od dnia ukończenia studiów przez absolwenta.
 
-**Art. 353.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia: [1) szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 2–5, zamieszczanych w bazach danych,] <1) szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 1b–3, 4 i 5, zamieszczanych w bazach danych,>
+**Art. 353.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia: [1) szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 2–5, zamieszczanych w bazach danych,]
 
-- **2)** tryb i terminy wprowadzania danych do baz danych oraz aktualizowania, archiwizowania i usuwania tych danych,
-- **3)** sposób wprowadzania prac dyplomowych do repozytorium oraz specyfikację formatu tych prac, <3a) szczegółowe wymagania techniczne dotyczące dyplomów ukończenia studiów, suplementów do dyplomów, dyplomów doktorskich i dyplomów habilitacyjnych oraz odpisów tych dokumentów w językach obcych w postaci elektronicznej, a także sposób ich wydawania i weryfikacji oraz specyfikację formatu tych dokumentów, 3b) zakres dodatkowych elementów:
-    - **a)** dyplomu ukończenia studiów, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 4,
-    - **b)** dyplomu doktorskiego i dyplomu habilitacyjnego, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 6, 3c) zakres danych umożliwiających dostęp do:
-    - **a)** repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 12 pkt 6,
-    - **b)** informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2,>
-
+- **1)** szczegółowy zakres danych, o których mowa w art. 343 ust. 1 pkt 3, 8, 9 i 11–21, art. 344 ust. 1 pkt 4 i 8–10, art. 345 ust. 1 pkt 3, 6, 7 i 13–16, art. 346 ust. 1 pkt 1, 3, 5–9 i 11–17 oraz w art. 349 ust. 1 pkt 1b–3, 4 i 5, zamieszczanych w bazach danych,
+- **2)** tryb i terminy wprowadzania danych do baz danych oraz aktualizowania, archiwizowania i usuwania tych danych, 3) sposób wprowadzania prac dyplomowych do repozytorium oraz specyfikację formatu tych prac,
+- **3a)** szczegółowe wymagania techniczne dotyczące dyplomów ukończenia studiów, suplementów do dyplomów, dyplomów doktorskich i dyplomów habilitacyjnych oraz odpisów tych dokumentów w językach obcych w postaci elektronicznej, a także sposób ich wydawania i weryfikacji oraz specyfikację formatu tych dokumentów, 3b) zakres dodatkowych elementów: a) dyplomu ukończenia studiów, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 4, b) dyplomu doktorskiego i dyplomu habilitacyjnego, które mogą być wprowadzone do repozytorium dyplomów elektronicznych zgodnie z art. 347a ust. 6, 3c) zakres danych umożliwiających dostęp do: a) repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 12 pkt 6, b) informacji o dyplomach ukończenia studiów, suplementach do tych dyplomów, dyplomach doktorskich i dyplomach habilitacyjnych, zgromadzonych w repozytorium dyplomów elektronicznych – na podstawie art. 347a ust. 13 pkt 2,
 - **4)** tryb i sposób udostępniania danych – mając na uwadze potrzebę zapewnienia kompletności i aktualności zgromadzonych w bazach danych służących właściwej realizacji polityki naukowej państwa i zadań z zakresu szkolnictwa wyższego i nauki oraz odpowiedniego poziomu ochrony przetwarzanych danych.
 
 **Art. 354.**
@@ -5654,10 +5652,11 @@ source: pdf
     - **c)** obsługą realizacji zadań NAWA, NCN, NCBiR i Centrum Łukasiewicz,
     - **d)** realizacją projektów badawczych w ramach celu Sieci Badawczej Łukasiewicz, o którym mowa w art. 1 ust. 2 pkt 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz;
 
-- **5)** utrzymanie: [6) zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich lub prowadzeniu działalności naukowej;] <6) zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich lub w prowadzeniu działalności naukowej;>
+- **5)** utrzymanie:
     - **a)** aparatury naukowo-badawczej lub stanowiska badawczego, unikatowych w skali kraju,
     - **b)** specjalnej infrastruktury informatycznej – mających istotne znaczenie dla realizacji polityki naukowej państwa;
 
+- **6)** zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich lub w prowadzeniu działalności naukowej;
 - **7)** programy i przedsięwzięcia ustanawiane przez ministra;
 - **8)** stypendia i nagrody ministra;
 - **9)** zadania finansowane z udziałem środków pochodzących z budżetu Unii Europejskiej albo z niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), albo z innych środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
@@ -6198,7 +6197,8 @@ source: pdf
 
 - **1)** sposób podziału środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d, dla nadzorowanych przez niego uczelni publicznych, mając na uwadze zróżnicowanie zadań uczelni akademickich i uczelni zawodowych;
 - **2)** sposób podziału środków finansowych, o których mowa w art. 365 pkt 2 lit. a–d i g, dla niepublicznych uczelni akademickich, instytutów PAN, instytutów badawczych i instytutów międzynarodowych, a także elementy wniosku, o którym mowa w art. 368 ust. 7, oraz sposób ustalania wysokości subwencji dla PAU, mając na uwadze konieczność utrzymania i rozwoju potencjału badawczego tych podmiotów oraz jego znaczenie dla realizacji polityki naukowej państwa;
-- **2a)** szczegółowe kryteria i tryb przyznawania środków finansowych, o których mowa w art. 365 pkt 2a, w tym szczegółowy zakres informacji zawartych we wniosku o ich przyznanie, oraz warunki i tryb rozliczania tych środków, w tym szczegółowy zakres informacji zawartych w raporcie z wykorzystania tych środków, mając na uwadze znaczenie przyznawanych subwencji dla prawidłowego wykonywania zadań przez instytuty Sieci Łukasiewicz i dla możliwości realizacji celów Sieci Badawczej Łukasiewicz; [3) sposób podziału środków finansowych, o których mowa w art. 365 pkt 3 i 6, dla uczelni, mając na uwadze konieczność zapewnienia odpowiednio wsparcia materialnego dla studentów oraz warunków umożliwiających osobom niepełnosprawnym udział w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich oraz prowadzeniu działalności naukowej;] <3) sposób podziału środków finansowych, o których mowa w art. 365 pkt 3 i 6, dla uczelni, mając na uwadze konieczność zapewnienia odpowiednio wsparcia materialnego dla studentów oraz warunków umożliwiających osobom niepełnosprawnym udział w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich oraz w prowadzeniu działalności naukowej;>
+- **2a)** szczegółowe kryteria i tryb przyznawania środków finansowych, o których mowa w art. 365 pkt 2a, w tym szczegółowy zakres informacji zawartych we wniosku o ich przyznanie, oraz warunki i tryb rozliczania tych środków, w tym szczegółowy zakres informacji zawartych w raporcie z wykorzystania tych środków, mając na uwadze znaczenie przyznawanych subwencji dla prawidłowego wykonywania zadań przez instytuty Sieci Łukasiewicz i dla możliwości realizacji celów Sieci Badawczej Łukasiewicz;
+- **3)** sposób podziału środków finansowych, o których mowa w art. 365 pkt 3 i 6, dla uczelni, mając na uwadze konieczność zapewnienia odpowiednio wsparcia materialnego dla studentów oraz warunków umożliwiających osobom niepełnosprawnym udział w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich oraz w prowadzeniu działalności naukowej;
 - **4)** szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania środków finansowych, o których mowa w art. 365:
     - **a)** pkt 4 lit. a – mając na uwadze znaczenie przewidzianych do finansowania inwestycji dla rozwoju uczelni publicznych,
     - **b)** pkt 4 lit. b – mając na uwadze znaczenie przewidzianych do finansowania inwestycji dla realizacji celów polityki naukowej – oraz zakres informacji zawartych we wniosku o przyznanie tych środków oraz w raporcie z ich wykorzystania, mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania środków;
@@ -6601,11 +6601,12 @@ source: pdf
 1. Minister może nałożyć na uczelnię administracyjną karę pieniężną w wysokości do:
 
 - **1)** 100 000 zł w przypadku prowadzenia studiów z naruszeniem przepisów art. 53, art. 57 lub art. 60 ust. 2;
-- **2)** 50 000 zł w przypadku: [3) 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 77 ust. 2.] <3) 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 77 ust. 2 i art. 179 ust. 1.> [2. Minister może nałożyć na instytut PAN, instytut badawczy, Centrum Łukasiewicz, instytut Sieci Łukasiewicz, instytut międzynarodowy lub CMKP administracyjną karę pieniężną w wysokości do 50 000 zł w przypadku:
+- **2)** 50 000 zł w przypadku:
     - **a)** naruszenia obowiązków, o których mowa w art. 82, art. 119 ust. 3 i 4, art. 188, art. 206 ust. 1 i 2, art. 222, art. 358 oraz art. 429,
     - **b)** niewprowadzenia do Systemu POL-on danych, o których mowa w art. 343 ust. 1, art. 343a ust. 1, art. 344 ust. 1, art. 345 ust. 1, art. 346 ust. 1, art. 348 ust. 1 lub w przepisach wydanych na podstawie art. 353, a także w przypadku ich niezaktualizowania, niezarchiwizowania lub nieusunięcia z tego systemu,
     - **c)** pobierania od studentów opłat z naruszeniem przepisów art. 79, art. 80 lub przepisów wydanych na podstawie art. 81 w zakresie, o którym mowa w art. 81 pkt 12 i 13;
 
+- **3)** 5000 zł w przypadku naruszenia terminu, o którym mowa w art. 77 ust. 2 i art. 179 ust. 1. [2. Minister może nałożyć na instytut PAN, instytut badawczy, Centrum Łukasiewicz, instytut Sieci Łukasiewicz, instytut międzynarodowy lub CMKP administracyjną karę pieniężną w wysokości do 50 000 zł w przypadku:
 - **1)** naruszenia obowiązków, o których mowa w art. 188, art. 206 ust. 1 i 2, art. 222 oraz art. 358;
 - **2)** niewprowadzenia do Systemu POL-on danych, o których mowa w art. 343 ust. 1, art. 345 ust. 1, art. 346 ust. 1, art. 348 ust. 1 lub w przepisach wydanych na podstawie art. 353, a także w przypadku ich niezaktualizowania, niezarchiwizowania lub nieusunięcia z tego systemu.] <2. Minister może nałożyć na instytut PAN, instytut badawczy, instytut międzynarodowy lub CMKP administracyjną karę pieniężną w wysokości do:
 - **1)** 50 000 zł w przypadku:

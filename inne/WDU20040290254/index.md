@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
+# Ustawa z dnia 8 stycznia 2004 r. o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
 
 *USTAWA z dnia 8 stycznia 2004 r.*
 

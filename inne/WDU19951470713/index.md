@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951470713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/713/text.pdf) |
 
-Art. 55–57. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Łowiectwo, jako element ochrony środowiska przyrodniczego, w rozumieniu ustawy oznacza ochronę zwierząt łownych (zwierzyny) i gospodarowanie ich zasobami w zgodzie z zasadami ekologii oraz zasadami racjonalnej gospodarki rolnej, leśnej i rybackiej.
@@ -1241,7 +1239,9 @@ Art. 55–57. (pominięte)
 
 1. Uprawnienia do wykonywania polowania posiadają także obywatele państw członkowskich Unii Europejskiej, jeżeli posiadają uprawnienia do wykonywania polowania w państwie członkowskim Unii Europejskiej i złożą egzamin uzupełniający w języku polskim przed komisją, o której mowa w art. 42 ust. 4 pkt 3, ust. 6 pkt 3 i ust. 7 pkt 3, z obowiązujących w Rzeczypospolitej Polskiej przepisów dotyczących zasad i warunków wykonywania polowania, a także listy gatunków zwierząt łownych oraz okresów polowań na te zwierzęta, a w przypadku uprawnień selekcjonerskich także zasad selekcji populacyjnej i osobniczej zwierzyny płowej.
 
-2. Uprawnienia, o których mowa w ust. 1, wygasają po upływie 5 lat od dnia egzaminu. Art. 42aa. Zabrania się:
+2. Uprawnienia, o których mowa w ust. 1, wygasają po upływie 5 lat od dnia egzaminu.
+
+**Art. 42aa.** Zabrania się:
 
 - **1)** niszczenia urządzeń łowieckich, wybierania karmy lub soli z lizawek;
 - **2)** gromadzenia, posiadania, wytwarzania, przechowywania lub wprowadzania do obrotu narzędzi i urządzeń przeznaczonych do kłusownictwa;
@@ -1258,7 +1258,11 @@ Art. 55–57. (pominięte)
 - **13)** strzelania do zwierzyny w odległości mniejszej niż 500 m od miejsca zebrań publicznych w czasie ich trwania lub w odległości mniejszej niż 150 m od zabudowań mieszkalnych;
 - **14)** zakładania narzędzi lub urządzeń przeznaczonych do łowienia, chwytania lub zabijania zwierzyny, z wyjątkiem odłowów, o których mowa w art. 44 ust. 3, art. 44a albo art. 45, odłowów prowadzonych zgodnie z zatwierdzonym rocznym planem łowieckim albo odłowów prowadzonych na podstawie ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt;
 - **15)** wykonywania polowania w obecności lub przy udziale dzieci do 18. roku życia;
-- **16)** celowego utrudniania lub uniemożliwiania wykonywania polowania. Art. 42ab. 1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje – co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego – wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
+- **16)** celowego utrudniania lub uniemożliwiania wykonywania polowania.
+
+**Art. 42ab.**
+
+1. Dzierżawca albo zarządca obwodu łowieckiego przekazuje – co najmniej na 14 dni przed planowanym terminem rozpoczęcia polowania zbiorowego – wójtom (burmistrzom, prezydentom miast) oraz nadleśniczym Państwowego Gospodarstwa Leśnego Lasy Państwowe, właściwym ze względu na miejsce wykonywania polowania, informację w postaci papierowej lub elektronicznej o planowanym terminie, w tym godzinie rozpoczęcia i zakończenia, oraz miejscu tego polowania.
 
 2. Termin rozpoczęcia i zakończenia oraz miejsce polowania zbiorowego są podawane do publicznej wiadomości przez wójta (burmistrza, prezydenta miasta), nie później niż w terminie 5 dni od dnia otrzymania informacji, o której mowa w ust. 1, w sposób zwyczajowo przyjęty w danej gminie oraz przez obwieszczenie i na stronie internetowej urzędu gminy.
 
@@ -1294,7 +1298,11 @@ Art. 55–57. (pominięte)
 
 **Art. 42c.** Osoba prowadząca punkt skupu obowiązana jest oznakować tusze: łosi, jeleni, danieli, muflonów, saren i dzików bezpośrednio po dostarczeniu przez uprawnionego do wykonywania polowania pozyskanej zwierzyny.
 
-**Art. 42d.** Odstrzał samców łosi, jeleni, danieli, saren i muflonów podlega ocenie co do jego zgodności z zasadami selekcji osobniczej. Oceny w obwodach podlegających wydzierżawieniu dokonują komisje powołane przez Polski Związek Łowiecki, w skład których wchodzą przedstawiciele: Polskiego Związku Łowieckiego oraz Państwowego Gospodarstwa Leśnego Lasy Państwowe, a w obwodach wyłączonych z wydzierżawienia ich zarządcy przy udziale odpowiednio przedstawiciela: Polskiego Związku Łowieckiego albo Państwowego Gospodarstwa Leśnego Lasy Państwowe bądź obu z nich. Art. 42da. 1. Po dokonaniu oceny, o której mowa w art. 42d, komisje sporządzają sprawozdanie ze swoich prac i przekazują je do zarządów okręgowych, które wobec osób dokonujących odstrzału nakładają, w formie uchwał, następujące kary porządkowe za naruszenie zasad selekcji osobniczej:
+**Art. 42d.** Odstrzał samców łosi, jeleni, danieli, saren i muflonów podlega ocenie co do jego zgodności z zasadami selekcji osobniczej. Oceny w obwodach podlegających wydzierżawieniu dokonują komisje powołane przez Polski Związek Łowiecki, w skład których wchodzą przedstawiciele: Polskiego Związku Łowieckiego oraz Państwowego Gospodarstwa Leśnego Lasy Państwowe, a w obwodach wyłączonych z wydzierżawienia ich zarządcy przy udziale odpowiednio przedstawiciela: Polskiego Związku Łowieckiego albo Państwowego Gospodarstwa Leśnego Lasy Państwowe bądź obu z nich.
+
+**Art. 42da.**
+
+1. Po dokonaniu oceny, o której mowa w art. 42d, komisje sporządzają sprawozdanie ze swoich prac i przekazują je do zarządów okręgowych, które wobec osób dokonujących odstrzału nakładają, w formie uchwał, następujące kary porządkowe za naruszenie zasad selekcji osobniczej:
 
 - **1)** nagany;
 - **2)** zawieszenia w prawach polowania na określony gatunek samców zwierzyny płowej i muflonów na okres do 2 lat;
@@ -1637,6 +1645,8 @@ Art. 55–57. (pominięte)
 2. Orzeczenie o przepadku, o którym mowa w ust. 1, może dotyczyć również przedmiotów niestanowiących własności sprawcy.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 55–57.** (pominięte)
 
 **Art. 58.**
 

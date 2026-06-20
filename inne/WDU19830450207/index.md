@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od spadków i darowizn
+# Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn.
 
 *USTAWA z dnia 28 lipca 1983 r.*
 

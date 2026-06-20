@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Ordynacja podatkowa oraz o zmianie ustawy o kontroli skarbowej
+# Ustawa z dnia 19 marca 2004 r. o zmianie ustawy - Ordynacja podatkowa oraz o zmianie ustawy o kontroli skarbowej
 
 *USTAWA z dnia 19 marca 2004 r.*
 

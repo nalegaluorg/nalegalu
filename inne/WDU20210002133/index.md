@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %
+# Ustawa z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2%
 
 *USTAWA z dnia 1 października 2021 r.*
 

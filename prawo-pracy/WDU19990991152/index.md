@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy
+# Ustawa z dnia 19 listopada 1999 r. o zmianie ustawy - Kodeks pracy.
 
 *USTAWA z dnia 19 listopada 1999 r.*
 

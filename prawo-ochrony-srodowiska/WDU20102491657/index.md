@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy - Prawo ochrony środowiska oraz ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

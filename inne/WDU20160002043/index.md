@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym rolników
+# Ustawa z dnia 21 października 2016 r. o zmianie ustawy o ubezpieczeniu społecznym rolników
 
 *USTAWA z dnia 21 października 2016 r.*
 

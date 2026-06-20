@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyścigach konnych
+# Ustawa z dnia 18 stycznia 2001 r. o wyścigach konnych.
 
 *USTAWA z dnia 18 stycznia 2001 r.*
 

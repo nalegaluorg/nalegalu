@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz ustawy o pożyczkach i kredytach studenckich
+# Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz ustawy o pożyczkach i kredytach studenckich
 
 *USTAWA z dnia 7 stycznia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017–2020”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2017-2020"
 
 | Pole | Wartość |
 |---|---|

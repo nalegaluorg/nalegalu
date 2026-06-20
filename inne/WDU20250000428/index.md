@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej w województwie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wojewodzie i administracji rządowej w województwie
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 mar
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 stycznia 2009 r.
 o wojewodzie i administracji rządowej w województwie
-Art. 65–77. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -253,7 +252,9 @@ Art. 65–77. (pominięte)
 3. Kontrola, o której mowa w ust. 1 i 2, wykonywana jest pod względem:
 
 - **1)** legalności, gospodarności, celowości i rzetelności – w odniesieniu do działalności organów administracji rządowej oraz innych podmiotów;
-- **2)** legalności, gospodarności i rzetelności – w odniesieniu do działalności organów samorządu terytorialnego. Art. 29–50. (uchylone)
+- **2)** legalności, gospodarności i rzetelności – w odniesieniu do działalności organów samorządu terytorialnego.
+
+**Art. 29–50.** (uchylone)
 
 #### Rozdział 4 Rządowa administracja zespolona w województwie
 
@@ -351,6 +352,8 @@ Art. 65–77. (pominięte)
 2. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego.
 
 #### Rozdział 7 Przepisy zmieniające
+
+**Art. 65–77.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

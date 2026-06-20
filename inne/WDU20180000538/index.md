@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka
+# Ustawa z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka
 
 *USTAWA z dnia 8 lutego 2018 r.*
 

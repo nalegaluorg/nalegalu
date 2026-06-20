@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji
+# Ustawa z dnia 27 listopada 2024 r. o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji
 
 *USTAWA z dnia 27 listopada 2024 r.*
 

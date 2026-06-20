@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 19 lutego 1993 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu honorowym z tytułu ukończenia 100 lat życia
+# Ustawa z dnia 18 października 2024 r. o świadczeniu honorowym z tytułu ukończenia 100 lat życia
 
 *USTAWA z dnia 18 października 2024 r.*
 

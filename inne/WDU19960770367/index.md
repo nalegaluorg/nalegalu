@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw o prokuraturze, o Sądzie Najwyższym, o Trybunale Konstytucyjnym oraz ustawy - Prawo o ustroju sądów powszechnych i ustawy - Prawo o adwokaturze
+# Ustawa z dnia 10 maja 1996 r. o zmianie ustaw o prokuraturze, Sądzie Najwyższym, o Trybunale Konstytucyjnym oraz ustawy - Prawo o ustroju sądów powszechnych i ustawy - Prawo o adwokaturze.
 
 *USTAWA z dnia 10 maja 1996 r.*
 

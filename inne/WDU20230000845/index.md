@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ poz. 2070), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 23 sierpnia 2007 r.
 o przeciwdziałaniu nieuczciwym praktykom rynkowym
-Art. 18–20. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -237,6 +236,8 @@ Art. 18–20. (pominięte)
 3. Z żądaniem ścigania wykroczenia określonego w art. 15 mogą wystąpić także podmioty, o których mowa w art. 12 ust. 2.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepis przejściowy i końcowy
+
+**Art. 18–20.** (pominięte)
 
 **Art. 21.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
 

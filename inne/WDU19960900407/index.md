@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l) w art. I dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2-4 w brzmieniu: "2. Państwo sprawuje mecenat nad działalnością kulturalną, polegający na wspieraniu i promocji twórczości, edukacji i oświaty kulturalnej, działań i inicjatyw kulturalnych oraz na ochronie dziedzictwa kultury.
+# Ustawa z dnia 27 czerwca 1996 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej.
 
 *USTAWA o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalnoŚci kulturalnej (Dz.U. Nr 114, poz. 493 i z 1994 r. Nr 121, poz. 591) wprowadza się następujące zmiany:*
 
@@ -83,7 +83,9 @@ source: pdf
 
 2. Na wniosek gminy wojewoda, w drodze decyzji administracyjnej, może zwolnić gminę od tego obowiązku w części lub w całości.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do państwowej instytucji kultury przekazanej gminie przez naczelny lub centralny organ administracji państwowej na podstawie art. 2la ust. 2-7. Art. 2lc. Państwowa instytucja kultury, dla której organizatorem jest naczelny lub centralny organ administracji państwowej, może być przekazana wojewodzie w drodze porozumienia".;
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do państwowej instytucji kultury przekazanej gminie przez naczelny lub centralny organ administracji państwowej na podstawie art. 2la ust. 2-7.
+
+**Art. 2lc.** Państwowa instytucja kultury, dla której organizatorem jest naczelny lub centralny organ administracji państwowej, może być przekazana wojewodzie w drodze porozumienia".;
 
 - **11)** wart. 22 ust. I otrzymuje brzmienie: "1. W szczególnie uzasadnionych przypadkach organizator może zlikwidować instytucję kultury, po zasięgnięciu opinii sejmiku samorządowego właściwego ze względu na siedzibę instytucji kult u r y . " ;
 - **12)** w art. 26 w ust. I wyrazy "w art. 3 ust. 2" zastępuje się wyrazami "w art. 3 ust.

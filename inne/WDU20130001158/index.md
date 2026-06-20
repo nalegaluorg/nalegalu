@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rybactwie śródlądowym
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o rybactwie śródlądowym
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

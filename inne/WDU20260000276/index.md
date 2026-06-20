@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym
 
 | Pole | Wartość |
 |---|---|

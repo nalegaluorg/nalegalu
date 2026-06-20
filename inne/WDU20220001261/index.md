@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw
+# Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 
@@ -180,7 +180,10 @@ source: pdf
     - **a)** kopię decyzji o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, o której mowa w art. 49a ust. 17,
     - **b)** nową umowę o współpracy – w przypadku koncesji udzielonych na rzecz stron umowy o współpracy;
 
-- **2)** organ koncesyjny zgłasza sprzeciw, o którym mowa w art. 36a ust. 8, również w przypadku, gdy podmiot przejmujący nie przedstawi dokumentów, o których mowa w pkt 1. Art. 49zdb. Podmiot, o którym mowa w art. 49zd, na który została przeniesiona koncesja, albo podmiot, o którym mowa w art. 49zda, który wstąpił w prawa i obowiązki wynikające z decyzji wydanych na podstawie ustawy, staje się stroną wszczętych i niezakończonych postępowań administracyjnych, o których mowa w art. 34, art. 37, art. 49y, art. 49z, art. 49za ust. 4a, art. 49ze, art. 49zg, art. 80a ust. 2b, art. 101 ust. 2, art. 107, art. 108 i art. 109 ust. 1 pkt 1, oraz postępowań sądowoadministracyjnych, których stroną był dotychczasowy przedsiębiorca.”;
+- **2)** organ koncesyjny zgłasza sprzeciw, o którym mowa w art. 36a ust. 8, również w przypadku, gdy podmiot przejmujący nie przedstawi dokumentów, o których mowa w pkt 1.
+
+**Art. 49zdb.** Podmiot, o którym mowa w art. 49zd, na który została przeniesiona koncesja, albo podmiot, o którym mowa w art. 49zda, który wstąpił w prawa i obowiązki wynikające z decyzji wydanych na podstawie ustawy, staje się stroną wszczętych i niezakończonych postępowań administracyjnych, o których mowa w art. 34, art. 37, art. 49y, art. 49z, art. 49za ust. 4a, art. 49ze, art. 49zg, art. 80a ust. 2b, art. 101 ust. 2, art. 107, art. 108 i art. 109 ust. 1 pkt 1, oraz postępowań sądowoadministracyjnych, których stroną był dotychczasowy przedsiębiorca.”;
+
 - **5)** po art. 85a dodaje się art. 85aa w brzmieniu: „Art. 85aa. 1. Prawa i obowiązki wynikające z decyzji, o których mowa w art. 80 ust. 1, art. 80a ust. 2 lub art. 85a ust. 4, a także prawa i obowiązki wynikające z dokonanych zgłoszeń projektu robót geologicznych, o których mowa w art. 85 ust. 1 lub art. 85a ust. 1, przechodzą na podmiot przejmujący.
 
 2. Podmiot, o którym mowa w ust. 1, jest obowiązany w terminie 14 dni od dnia zaistnienia zdarzenia powodującego przejście praw i obowiązków przedstawić właściwemu organowi administracji geologicznej dowody potwierdzające ten fakt.

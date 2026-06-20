@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz o zmianie innych ustaw
+# Ustawa z dnia 18 grudnia 2003 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz o zmianie innych ustaw
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 

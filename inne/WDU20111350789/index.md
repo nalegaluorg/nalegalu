@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących
+# Ustawa z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących
 
 *USTAWA z dnia 29 czerwca 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-30 |
 | Ostatnia zmiana | 2025-08-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111350789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/789/text.pdf) |
-
-Art. 59–62. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -938,7 +936,9 @@ Art. 59–62. (pominięte)
 - **2)** art. 53a ust. 2 pkt 3 – stosuje się przepisy ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, z tym że nie stosuje się przepisu art. 38c tej ustawy;
 - **3)** art. 53a ust. 2 pkt 4 – stosuje się przepisy ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199).
 
-3. Do kosztów przygotowania i realizacji inwestycji towarzyszących inwestycji w zakresie EJ1, o których mowa w art. 53a ust. 2 pkt 4, przepis art. 53 ust. 2 stosuje się odpowiednio. Art. 53ba. Inwestycją towarzyszącą inwestycji w zakresie EJ1 jest także inwestycja dotycząca inwestycji w zakresie EJ1, której został nadany status inwestycji towarzyszącej zgodnie z art. 52 ust. 1.
+3. Do kosztów przygotowania i realizacji inwestycji towarzyszących inwestycji w zakresie EJ1, o których mowa w art. 53a ust. 2 pkt 4, przepis art. 53 ust. 2 stosuje się odpowiednio.
+
+**Art. 53ba.** Inwestycją towarzyszącą inwestycji w zakresie EJ1 jest także inwestycja dotycząca inwestycji w zakresie EJ1, której został nadany status inwestycji towarzyszącej zgodnie z art. 52 ust. 1.
 
 **Art. 53c.** Spółka PEJ koordynuje przygotowanie i realizację inwestycji w zakresie EJ1 oraz inwestycji towarzyszących inwestycji w zakresie EJ1, w szczególności:
 
@@ -1091,6 +1091,8 @@ Art. 59–62. (pominięte)
 6. Kary pieniężne podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 59–62.** (pominięte)
 
 **Art. 63.** Ustawa wchodzi w życie z dniem 1 lipca 2011 r.
 

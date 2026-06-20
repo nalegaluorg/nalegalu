@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 10 sierpnia 1999 r. zmieniające rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich.
 
 | Pole | Wartość |
 |---|---|

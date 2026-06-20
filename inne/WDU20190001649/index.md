@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu ograniczenia zatorów płatniczych
+# Ustawa z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia zatorów płatniczych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -558,7 +558,11 @@ source: pdf
 
 1. Kto wbrew obowiązkowi, o którym mowa w art. 13a ust. 1, nie przekazuje w terminie sprawozdania, o którym mowa w tym przepisie, podlega karze grzywny.
 
-2. Tej samej karze podlega ten, kto utrudnia lub udaremnia wywiązanie się z obowiązku, o którym mowa w ust. 1. Art. 13za. Kto wbrew obowiązkowi, o którym mowa w art. 4c, nie składa oświadczenia, o którym mowa w tym przepisie, albo składa oświadczenie niezgodne ze stanem rzeczywistym, podlega karze grzywny. Art. 13zb. Orzekanie w sprawach o czyny, o których mowa w art. 13z i art. 13za, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556).”.
+2. Tej samej karze podlega ten, kto utrudnia lub udaremnia wywiązanie się z obowiązku, o którym mowa w ust. 1.
+
+**Art. 13za.** Kto wbrew obowiązkowi, o którym mowa w art. 4c, nie składa oświadczenia, o którym mowa w tym przepisie, albo składa oświadczenie niezgodne ze stanem rzeczywistym, podlega karze grzywny.
+
+**Art. 13zb.** Orzekanie w sprawach o czyny, o których mowa w art. 13z i art. 13za, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556).”.
 
 **Art. 11.** W ustawie z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw (Dz. U. poz. 1020, 1579 i 1920 oraz z 2018 r. poz. 1603) wprowadza się następujące zmiany:
 

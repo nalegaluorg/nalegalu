@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o informowaniu o cenach towarów i usług
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o informowaniu o cenach towarów i usług
 
 | Pole | Wartość |
 |---|---|
@@ -90,7 +90,9 @@ source: pdf
 
 1. Do kar pieniężnych, w zakresie nieuregulowanym w ustawie, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707).
 
-2. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym. Art. 9–21. (pominięte)
+2. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
+
+**Art. 9–21.** (pominięte)
 
 **Art. 22.**
 

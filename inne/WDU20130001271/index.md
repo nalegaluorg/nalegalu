@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach płatniczych
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o usługach płatniczych
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

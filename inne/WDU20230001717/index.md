@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Zespole Pomocy Humanitarno-Medycznej oraz ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o Zespole Pomocy Humanitarno-Medycznej oraz ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

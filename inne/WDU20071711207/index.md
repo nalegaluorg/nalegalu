@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zniesieniu Wojewódzkich Kolegiów Skarbowych
+# Ustawa z dnia 23 sierpnia 2007 r. o zniesieniu Wojewódzkich Kolegiów Skarbowych
 
 *USTAWA z dnia 23 sierpnia 2007 r.*
 

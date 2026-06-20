@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ poz. 605), z uwzględnieniem zmian wprowadzonych ustawą z dnia 4 czerwca 2025 r
 1) art. 80–88 ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U.
 poz. 605), które stanowią: „Art. 80. W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, 2687 i 2745 oraz z 2023 r. poz. 28, 185 i 326) w art. 21 w ust. 1 po pkt 4a dodaje się pkt 4b w brzmieniu: „4b) kwoty świadczeń kompensacyjnych wypłacanych na podstawie przepisów ustawy z dnia 9 marca 2023 r.
 o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. poz. 605);”.
-Art. 80–88. (pominięte)
 
 **Art. 81.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770) wprowadza się następujące zmiany:
 
@@ -1335,6 +1334,8 @@ Art. 80–88. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 80–88.** (pominięte)
 
 #### Rozdział 13 Przepisy dostosowujące, przejściowe i przepis końcowy
 

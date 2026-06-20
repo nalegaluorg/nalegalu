@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa
+# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa
 
 *USTAWA z dnia 12 maja 2006 r.*
 

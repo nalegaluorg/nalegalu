@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
+# Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
 
 *USTAWA z dnia 5 sierpnia 2025 r.*
 

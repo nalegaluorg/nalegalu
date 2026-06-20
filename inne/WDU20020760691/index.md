@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza
+# Ustawa z dnia 18 kwietnia 2002 r. o zmianie ustawy o zawodzie lekarza.
 
 *USTAWA z dnia 18 kwietnia 2002 r.*
 

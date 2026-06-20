@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
+# Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy - Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
 
 *USTAWA z dnia 10 czerwca 2016 r.*
 

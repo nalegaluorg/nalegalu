@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz ustawy o komercjalizacji i prywatyzacji
+# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz ustawy o komercjalizacji i prywatyzacji
 
 *USTAWA z dnia 22 stycznia 2010 r.*
 

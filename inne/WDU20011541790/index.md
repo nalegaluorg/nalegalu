@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej oraz ustawy o organizacji hodowli i rozrodzie zwierząt gospodarskich
+# Ustawa z dnia 14 grudnia 2001 r. zmieniająca ustawę o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych, ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej oraz ustawy o organizacji hodowli i rozrodzie zwierząt gospodarskich.
 
 *USTAWA z dnia 14 grudnia 2001 r.*
 

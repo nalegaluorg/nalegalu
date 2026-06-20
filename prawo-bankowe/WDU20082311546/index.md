@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funduszach inwestycyjnych, ustawy - Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy o funduszach inwestycyjnych, ustawy - Prawo bankowe oraz ustawy o nadzorze nad rynkiem finansowym
 
 *USTAWA z dnia 4 września 2008 r.*
 
@@ -831,9 +831,7 @@ source: pdf
 
 **Art. 11.** Do czasu wydania przepisów wykonawczych na podstawie upoważnienia, o którym mowa w art. 225 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, zachowują moc przepisy dotychczasowe, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 12.**
-
-##### Oddział spółki zarządzającej prowadzący działalność na terytorium Rzeczypospolitej Polskiej w dniu wejścia w życie niniejszej ustawy jest obowiązany, w terminie 6 miesięcy od dnia jej wejścia w życie, do złożenia wniosku o wpis do rejestru przedsiębiorców.
+**Art. 12.** Oddział spółki zarządzającej prowadzący działalność na terytorium Rzeczypospolitej Polskiej w dniu wejścia w życie niniejszej ustawy jest obowiązany, w terminie 6 miesięcy od dnia jej wejścia w życie, do złożenia wniosku o wpis do rejestru przedsiębiorców.
 
 **Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

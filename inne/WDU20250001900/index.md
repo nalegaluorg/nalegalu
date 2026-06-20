@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 7 lipca 2022 r.
 o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
-Art. 43–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -496,6 +495,8 @@ Art. 43–72. (pominięte)
 - **3)** nie wykonuje obowiązku wydania dokumentów, o których mowa w art. 22 ust. 5.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 43–72.** (pominięte)
 
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 

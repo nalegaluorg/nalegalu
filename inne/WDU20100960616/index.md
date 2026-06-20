@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowym Centrum Badań i Rozwoju
+# Ustawa z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju
 
 *USTAWA z dnia 30 kwietnia 2010 r.*
 

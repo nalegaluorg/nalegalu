@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o substancjach chemicznych i ich mieszaninach
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach
 
 *USTAWA z dnia 20 marca 2015 r.*
 

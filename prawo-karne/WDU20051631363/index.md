@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego i ustawy - Kodeks karny wykonawczy
+# Ustawa z dnia 27 lipca 2005 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego i ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 27 lipca 2005 r.*
 

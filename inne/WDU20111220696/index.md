@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
+# Ustawa z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
 
 *USTAWA z dnia 12 maja 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-13 |
 | Ostatnia zmiana | 2026-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111220696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/696/text.pdf) |
-
-Art. 56–66. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1958,6 +1956,8 @@ Art. 56–66. (pominięte)
 **Art. 55.** Odpis prawomocnego wyroku skazującego osobę uprawnioną do wystawiania recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne, za przestępstwo określone w art. 54 ustawy lub art. 228–230, art. 286 lub art. 296a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, sąd przesyła podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 56–66.** (pominięte)
 
 **Art. 67.**
 

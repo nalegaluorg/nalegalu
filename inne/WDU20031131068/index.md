@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
+# Ustawa z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
 
 *USTAWA z dnia 8 maja 2003 r.*
 

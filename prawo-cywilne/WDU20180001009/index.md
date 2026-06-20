@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o postępowaniu egzekucyjnym w administracji oraz ustawy o księgach wieczystych i hipotece
+# Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o postępowaniu egzekucyjnym w administracji oraz ustawy o księgach wieczystych i hipotece
 
 *USTAWA z dnia 13 kwietnia 2018 r.*
 

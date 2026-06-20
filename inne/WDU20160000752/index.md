@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii im. Jakuba z Paradyża w Gorzowie Wielkopolskim
+# Ustawa z dnia 13 maja 2016 r. o utworzeniu Akademii im. Jakuba z Paradyża w Gorzowie Wielkopolskim
 
 *USTAWA z dnia 13 maja 2016 r.*
 

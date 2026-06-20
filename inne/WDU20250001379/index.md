@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wymianie informacji podatkowych z innymi państwami
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wymianie informacji podatkowych z innymi państwami
 
 *USTAWA z dnia 9 marca 2017 r.*
 
@@ -26,146 +26,6 @@ source: pdf
 | Data wydania | 2025-10-14 |
 | Ostatnia zmiana | 2026-03-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001379) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1379/text.pdf) |
-
-Art. 75za. Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
-Art. 75zb. 1. Z czynności kontrolnych sporządza się protokół kontroli.
-Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
-2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
-3. W przypadku niezłożenia zastrzeżeń lub wyjaśnień w terminie określonym w ust. 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
-4. Kontrola kończy się wraz z doręczeniem kontrolowanemu wyniku kontroli.
-5. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
-6. Wynik kontroli zawiera:
-1) oznaczenie kontrolującego;
-2) oznaczenie kontrolowanego;
-3) datę wydania;
-4) podstawę prawną;
-5) opis przebiegu kontroli;
-6) końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
-7) wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
-7. Termin, o którym mowa w ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
-8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia.
-Art. 75zc. 1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
-2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
-Art. 75zd. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
-Art. 75ze. 1. Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
-2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa w art. 75zf ust. 2, informacje, o których mowa w art. 75c pkt 2.
-3. Automatyczna wymiana informacji, o których mowa w ust. 1, odbywa się:
-1) w przypadku państw członkowskich – za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378;
-2) w przypadku państw uczestniczących innych niż państwa członkowskie – za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
-4. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
-Art. 75zf. 1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
-2. Szef Krajowej Administracji Skarbowej niezwłocznie usuwa raportującego operatora platformy z centralnego rejestru prowadzonego przez Komisję Europejską w przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa w art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa w art. 75y ust. 1.
-3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku rejestracji zgodnie z art. 75u ust. 1.
-4. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.
-Art. 88zf. 1. Operator kryptoaktywów będący raportującym dostawcą usług w zakresie kryptoaktywów, który zgodnie z art. 88h ust. 1 pkt 2–5 jest obowiązany wykonywać obowiązki określone w niniejszym dziale, podlega obowiązkowi rejestracji w Rzeczypospolitej Polskiej, z wyjątkiem przypadków określonych w art. 88h ust. 3–6, art. 88i lub art. 88j.
-2. W celu dokonania rejestracji operator kryptoaktywów składa Szefowi Krajowej Administracji Skarbowej formularz rejestracyjny do dnia 31 marca roku, w którym po raz pierwszy zostanie złożona przez niego informacja o użytkownikach kryptoaktywów.
-3. Formularz rejestracyjny zawiera:
-1) informacje dotyczące operatora kryptoaktywów:
-a) imię i nazwisko lub nazwę,
-b) główny adres,
-c) adres elektroniczny,
-d) adresy stron internetowych,
-e) każdy TIN nadany operatorowi kryptoaktywów,
-f) wskazanie państw członkowskich, których rezydentami do celów podatkowych są użytkownicy raportowani,
-g) wskazanie państw uczestniczących, o których mowa w art. 88e ust. 1 pkt 8 lit. b, co do których zachodzą przesłanki wymienione w art. 88h ust. 3–6 lub art. 88j;
-2) informacje dotyczące pełnomocnika upoważnionego do podpisywania informacji o użytkownikach kryptoaktywów oraz korekt formularza rejestracyjnego:
-a) imię, nazwisko i datę urodzenia,
-b) TIN, jeżeli jest dostępny,
-c) w przypadku braku TIN – numer i serię paszportu lub innego dokumentu potwierdzającego tożsamość albo inny numer identyfikacyjny,
-d) państwo wydania dokumentu, o którym mowa w lit. c,
-e) dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte w kwalifikowanym certyfikacie podpisu elektronicznego – w przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
-f) numer PESEL pełnomocnika posługującego się podpisem zaufanym – w przypadku gdy nie są przekazywane dane, o których mowa w lit. e,
-g) adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych – w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy – Ordynacja podatkowa,
-h) numer telefonu,
-i) adres poczty elektronicznej,
-j) oświadczenie operatora kryptoaktywów o upoważnieniu pełnomocnika do podpisywania informacji o użytkownikach kryptoaktywów oraz korekt formularza rejestracyjnego.
-4. Formularz rejestracyjny jest sporządzany na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-5. Operator kryptoaktywów powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o zmianie informacji podanych w formularzu rejestracyjnym. Powiadomienia dokonuje się elektronicznie, za pomocą formularza rejestracyjnego, podając kompletne i aktualne dane.
-6. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa obejmuje również upoważnienie do podpisywania formularza rejestracyjnego.
-7. Formularz rejestracyjny może być podpisany przez osobę uprawnioną do reprezentacji, przy czym w takim przypadku nie jest dopuszczalne podpisanie tego formularza przez pełnomocnika.
-8. Korekta formularza rejestracyjnego w zakresie ustanowienia pełnomocnika, o którym mowa w ust. 3 pkt 2, może być podpisana zgodnie z ust. 6 i 7.
-9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania za pomocą środków komunikacji elektronicznej formularza rejestracyjnego, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym formularzu oraz potrzebę jego ochrony przed nieuprawnionym dostępem.
-Art. 88zg. 1. Szef Krajowej Administracji Skarbowej w terminie 30 dni od dnia otrzymania formularza rejestracyjnego nadaje operatorowi kryptoaktywów indywidualny numer identyfikacyjny do celów sprawozdawczych, zwany dalej „indywidualnym numerem operatora kryptoaktywów”.
-2. Szef Krajowej Administracji Skarbowej wydaje potwierdzenie nadania indywidualnego numeru operatora kryptoaktywów po jego nadaniu.
-3. Do doręczania potwierdzenia nadania indywidualnego numeru operatora kryptoaktywów oraz innych pism w zakresie związanym ze stosowaniem przepisów art. 88zh–88zj przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
-4. W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora kryptoaktywów stosuje się odpowiednio przepisy działu VIIIA ustawy – Ordynacja podatkowa.
-Art. 88zh. Szef Krajowej Administracji Skarbowej wydaje postanowienie o pozostawieniu formularza rejestracyjnego bez rozpatrzenia, w przypadku gdy:
-1) brak jest możliwości potwierdzenia tożsamości lub istnienia operatora kryptoaktywów;
-2) stwierdzono, że przekazany formularz rejestracyjny nie spełnia wymogów określonych dla tego formularza;
-3) istnieje uzasadnione przypuszczenie, że dane przekazane na formularzu rejestracyjnym są fałszywe lub fikcyjne;
-4) operatorowi kryptoaktywów został już nadany indywidualny numer operatora kryptoaktywów albo nadano mu numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
-5) operator kryptoaktywów nie spełnia warunków uznania go za raportującego dostawcę usług w zakresie kryptoaktywów;
-6) operatorowi kryptoaktywów cofnięto indywidualny numer operatora kryptoaktywów na podstawie art. 88zj ust. 1 pkt 4 i nie złożył on kaucji gwarancyjnej zgodnie z art. 88zj ust. 4 lub inne państwo członkowskie cofnęło operatorowi kryptoaktywów numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE.
-Art. 88zi. 1. Szef Krajowej Administracji Skarbowej unieważnia z urzędu, w drodze decyzji, indywidualny numer operatora kryptoaktywów, w przypadku gdy:
-1) operatorowi kryptoaktywów został uprzednio nadany indywidualny numer operatora kryptoaktywów albo nadano mu numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
-2) indywidualny numer operatora kryptoaktywów nadano na podstawie fałszywych lub fikcyjnych danych.
-2. Nie można posługiwać się unieważnionym indywidualnym numerem operatora kryptoaktywów, a unieważniony indywidualny numer operatora kryptoaktywów nie może zostać ponownie nadany.
-Art. 88zj. 1. Szef Krajowej Administracji Skarbowej cofa, w drodze decyzji, indywidualny numer operatora kryptoaktywów, w przypadku gdy:
-1) operator kryptoaktywów powiadomi Szefa Krajowej Administracji Skarbowej zgodnie z art. 88zf ust. 4–7, że zaprzestał działalności jako operator kryptoaktywów i nie posiada już użytkowników raportowanych w Unii Europejskiej, przekazując w formularzu rejestracyjnym następujące dane:
-a) imię i nazwisko lub nazwę,
-b) główny adres,
-c) adres elektroniczny,
-d) indywidualny numer operatora kryptoaktywów,
-e) każdy TIN nadany raportującemu operatorowi kryptoaktywów spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
-f) datę zaprzestania prowadzenia działalności jako operator kryptoaktywów;
-2) mimo braku powiadomienia, o którym mowa w pkt 1, istnieje uzasadnione przypuszczenie, że działalność osoby fizycznej lub podmiotu jako operatora kryptoaktywów została zakończona;
-3) osoba fizyczna lub podmiot przestały spełniać warunki uznania za operatora kryptoaktywów;
-4) operator kryptoaktywów nie zrealizował obowiązku, o którym mowa w art. 88l ust. 1, pomimo wezwań, o których mowa w art. 88zu.
-2. Decyzję o cofnięciu indywidualnego numeru operatora kryptoaktywów w przypadku, o którym mowa w ust. 1 pkt 4, podejmuje się w terminie 90 dni od dnia doręczenia wezwania, o którym mowa w art. 88zu ust. 1, lecz niewcześniej niż przed upływem terminu, o którym mowa w art. 88zu ust. 2.
-3. Nie można posługiwać się cofniętym indywidualnym numerem operatora kryptoaktywów, a cofnięty indywidualny numer operatora kryptoaktywów nie może zostać ponownie nadany.
-4. Ponowne nadanie indywidualnego numeru operatora kryptoaktywów operatorowi kryptoaktywów, któremu cofnięto taki indywidualny numer operatora kryptoaktywów na podstawie ust. 1 pkt 4, jest dopuszczalne po złożeniu Szefowi Krajowej Administracji Skarbowej kaucji gwarancyjnej w wysokości od 100 000 zł do 1 000 000 zł, określonej przez Szefa Krajowej Administracji Skarbowej w drodze decyzji.
-5. Kaucję gwarancyjną składa się w formie:
-1) depozytu pieniężnego lub
-2) gwarancji bankowych, lub
-3) obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
-6. Kaucja gwarancyjna jest utrzymywana do momentu:
-1) wykonania przez operatora kryptoaktywów obowiązku, o którym mowa w art. 88l ust. 1;
-2) zakończenia prowadzenia działalności, z którą wiąże się nadanie indywidualnego numeru operatora kryptoaktywów.
-7. Od złożonej kaucji gwarancyjnej nie są naliczane odsetki.
-8. Ustalając wysokość kaucji gwarancyjnej, Szef Krajowej Administracji Skarbowej uwzględnia zakres niedopełnienia obowiązku, o którym mowa w art. 88l ust. 1, oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez operatora kryptoaktywów, któremu cofnięto indywidualny numer operatora kryptoaktywów, a także wysokość jego całkowitego obrotu za rok obrotowy poprzedzający rok określenia kaucji gwarancyjnej, a w przypadku podmiotu rozpoczynającego działalność – za okres od dnia rozpoczęcia prowadzenia działalności gospodarczej do dnia wszczęcia postępowania o cofnięcie indywidualnego numeru operatora kryptoaktywów.
-9. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań w sprawie pozostawienia formularza rejestracyjnego bez rozpatrzenia oraz unieważnienia i cofnięcia indywidualnego numeru operatora kryptoaktywów stosuje się odpowiednio przepisy działu IV ustawy – Ordynacja podatkowa.
-10. Decyzja o unieważnieniu indywidualnego numeru operatora kryptoaktywów oraz decyzja o cofnięciu indywidualnego numeru operatora kryptoaktywów są natychmiast wykonalne.
-11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb przyjmowania i zwrotu kaucji gwarancyjnej, uwzględniając konieczność zapewnienia prawidłowego udokumentowania przyjęcia i zwrotu kaucji.
-Art. 88zk. Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego dostawcę usług w zakresie kryptoaktywów obowiązków w zakresie stosowania procedur należytej staranności oraz procedur sprawozdawczych, zwaną dalej w niniejszym dziale „kontrolą”.
-Art. 88zl. Występując z żądaniem, o którym mowa w art. 286 § 1 pkt 4 ustawy – Ordynacja podatkowa, kierowanym do raportującego dostawcy usług w zakresie kryptoaktywów, kontrolujący jest obowiązany zwracać szczególną uwagę na zasadę wzajemnego zaufania między instytucjami finansowymi a ich klientami.
-Art. 88zm. 1. Z czynności kontrolnych sporządza się protokół kontroli.
-Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
-2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
-3. W przypadku niezłożenia wyjaśnień lub zastrzeżeń w terminie określonym w ust. 1 przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
-4. Kontrola kończy się wynikiem kontroli w dniu jego doręczenia. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
-5. Wynik kontroli zawiera:
-1) oznaczenie organu kontrolującego;
-2) oznaczenie kontrolowanego;
-3) datę wydania;
-4) podstawę prawną;
-5) opis przebiegu kontroli;
-6) końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
-7) wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został utrwalony w postaci elektronicznej – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
-6. Termin, o którym mowa w ust. 5 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
-7. Kontrolowany jest obowiązany poinformować organ kontrolujący o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, niepóźniej jednak niż w terminie 14 dni od dnia upływu terminu wyznaczonego na ich usunięcie.
-Art. 88zn. 1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący dostawca usług w zakresie kryptoaktywów, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
-2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, niekrótszy niż 14 dni od dnia otrzymania żądania.
-Art. 88zo. 1. Jeżeli zawarto porozumienie sprzeczne w danych okolicznościach z przedmiotem lub celem ustawy, którego głównym celem lub jednym z głównych celów jest uniknięcie obowiązku stosowania procedur należytej staranności lub procedur sprawozdawczych, a sposób działania był sztuczny, uznaje się na potrzeby obowiązków określonych w przepisach niniejszego działu, że takie porozumienie nie zostało zawarte.
-2. Sposób działania nie jest sztuczny, jeżeli na podstawie istniejących okoliczności należy przyjąć, że działając rozsądnie i kierując się zgodnymi z prawem celami zastosowano by ten sposób działania w dominującej mierze z uzasadnionych przyczyn ekonomicznych.
-3. Przez porozumienie, o którym mowa w ust. 1, rozumie się czynność podejmowaną lub zespół czynności podejmowanych w celu uniknięcia obowiązku stosowania procedur należytej staranności lub procedur sprawozdawczych.
-Art. 88zp. 1. Żądanie, o którym mowa w art. 88zn ust. 1, oraz żądanie kierowane w toku kontroli do kontrolowanego oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
-2. Do doręczania pism w zakresie związanym ze stosowaniem przepisów niniejszego rozdziału przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
-3. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9–11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
-Art. 88zq. 1. Szef Krajowej Administracji Skarbowej przekazuje właściwemu organowi państwa uczestniczącego informacje o użytkownikach kryptoaktywów będących rezydentami tych państw, uzyskane od raportujących dostawców usług w zakresie kryptoaktywów, zawierające dane określone w art. 88m.
-2. Jeżeli z porozumienia, o którym mowa w art. 88e ust. 1 pkt 8 lit. b, lub oświadczenia złożonego przez państwo uczestniczące wynika, że informacje, o których mowa w ust. 1, nie są przekazywane, przepisu ust. 1 nie stosuje się.
-Art. 88zr. Informacje, o których mowa w art. 88zq ust. 1, są przekazywane raz w roku, w terminie do dnia 30 września roku następującego po roku kalendarzowym, którego dotyczą.
-Art. 88zs. 1. Wymiana informacji, o których mowa w art. 88zq ust. 1, odbywa się za pomocą standardowego formularza, o którym mowa w art. 20 ust. 5 lit. c dyrektywy 2011/16/UE, zgodnie z mającymi zastosowanie ustaleniami praktycznymi przyjętymi na podstawie art. 21 dyrektywy 2011/16/UE.
-2. Wymiana informacji, o których mowa w art. 88zq ust. 1, z państwami uczestniczącymi, o których mowa w art. 88e ust. 1 pkt 8 lit. b, następuje za pomocą środków komunikacji elektronicznej według formatu określonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o użytkownikach kryptoaktywów.
-3. Szef Krajowej Administracji Skarbowej w celu usprawnienia współpracy może zawierać z właściwym organem innego państwa porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o użytkownikach kryptoaktywów.
-Art. 88zt. 1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora kryptoaktywów.
-2. Szef Krajowej Administracji Skarbowej niezwłocznie usuwa operatora kryptoaktywów z centralnego rejestru prowadzonego przez Komisję Europejską w przypadku unieważnienia indywidualnego numeru operatora kryptoaktywów, o którym mowa w art. 88zi ust. 1, albo cofnięcia indywidualnego numeru operatora kryptoaktywów, o którym mowa w art. 88zj ust. 1.
-3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o operatorze kryptoaktywów, który nie dopełnił obowiązku rejestracji zgodnie z art. 88zf. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot lub osobę fizyczną działalności jako operator kryptoaktywów.
-Art. 88zu. 1. Szef Krajowej Administracji Skarbowej wzywa raportującego dostawcę usług w zakresie kryptoaktywów, który nie przekazał informacji o użytkownikach kryptoaktywów albo przekazał informację niepełną lub zawierającą informacje błędne, do jej złożenia albo skorygowania w terminie 30 dni od dnia doręczenia wezwania.
-2. W przypadku niezastosowania się raportującego dostawcy usług w zakresie kryptoaktywów do wezwania Szef Krajowej Administracji Skarbowej ponownie wzywa raportującego dostawcę usług w zakresie kryptoaktywów do złożenia informacji o użytkownikach kryptoaktywów albo jej skorygowania w terminie 30 dni od dnia doręczenia wezwania.
-3. Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
-Art. 92–97. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1635,7 +1495,67 @@ Art. 92–97. (pominięte)
 
 #### Rozdział 5 Kontrola raportujących operatorów platform
 
+**Art. 75za.** Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
+
+**Art. 75zb.**
+
+1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
+
+2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
+
+3. W przypadku niezłożenia zastrzeżeń lub wyjaśnień w terminie określonym w ust. 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
+
+4. Kontrola kończy się wraz z doręczeniem kontrolowanemu wyniku kontroli.
+
+5. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
+
+6. Wynik kontroli zawiera:
+
+- **1)** oznaczenie kontrolującego;
+- **2)** oznaczenie kontrolowanego;
+- **3)** datę wydania;
+- **4)** podstawę prawną;
+- **5)** opis przebiegu kontroli;
+- **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
+- **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
+- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
+
+7. Termin, o którym mowa w ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
+
+8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia.
+
+**Art. 75zc.**
+
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
+
+2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
+
+**Art. 75zd.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9−11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
+
 #### Rozdział 6 Obowiązki organu
+
+**Art. 75ze.**
+
+1. Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości – także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
+
+2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa w art. 75zf ust. 2, informacje, o których mowa w art. 75c pkt 2.
+
+3. Automatyczna wymiana informacji, o których mowa w ust. 1, odbywa się:
+
+- **1)** w przypadku państw członkowskich – za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378;
+- **2)** w przypadku państw uczestniczących innych niż państwa członkowskie – za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
+
+4. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
+
+**Art. 75zf.**
+
+1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
+
+2. Szef Krajowej Administracji Skarbowej niezwłocznie usuwa raportującego operatora platformy z centralnego rejestru prowadzonego przez Komisję Europejską w przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa w art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa w art. 75y ust. 1.
+
+3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku rejestracji zgodnie z art. 75u ust. 1.
+
+4. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.
 
 ### DZIAŁ IV Automatyczna wymiana informacji o interpretacjach podatkowych i decyzjach w sprawach cen transferowych
 
@@ -2192,18 +2112,229 @@ Art. 92–97. (pominięte)
 
 **Art. 88y.** Użytkownik kryptoaktywów lub jego osoba kontrolująca są obowiązani poinformować raportującego dostawcę usług w zakresie kryptoaktywów o zmianie okoliczności, która ma wpływ na ich rezydencję podatkową lub powoduje, że informacje zawarte w złożonym przez nich oświadczeniu, o którym mowa w art. 88q ust. 1 lub 3, stały się nieaktualne, oraz złożyć raportującemu dostawcy usług w zakresie kryptoaktywów odpowiednio zaktualizowane oświadczenie w terminie 30 dni od dnia, w którym nastąpiła zmiana okoliczności.
 
-**Art. 88z.** Zmiana okoliczności, o których mowa w art. 88y, obejmuje zmianę lub dodanie informacji odnoszących się do statusu osoby jako użytkownika kryptoaktywów, osoby kontrolującej lub osoby raportowanej, jeżeli taka zmiana lub dodanie informacji wpływają na status osoby jako użytkownika kryptoaktywów, osoby kontrolującej lub osoby raportowanej. Art. 88za. W przypadku zmiany okoliczności, o których mowa w art. 88y, skutkującej powzięciem przez raportującego dostawcę usług w zakresie kryptoaktywów wątpliwości co do poprawności i rzetelności danych zawartych w złożonym oświadczeniu, o którym mowa w art. 88q ust. 1 lub 3, raportujący dostawca usług w zakresie kryptoaktywów nie uwzględnia tego oświadczenia i jest obowiązany uzyskać aktualne oświadczenie, o którym mowa w art. 88q ust. 1 lub 3. Art. 88zb. 1. W przypadku, o którym mowa w art. 88za, do dnia uzyskania aktualnego oświadczenia, o którym mowa w art. 88q ust. 1 lub 3, raportujący dostawca usług w zakresie kryptoaktywów traktuje odpowiednio użytkownika kryptoaktywów lub osobę kontrolującą jako rezydenta zgodnie z treścią pierwotnego oświadczenia, o którym mowa w art. 88q ust. 1 i 3. 2. W przypadku nieuzyskania aktualnego oświadczenia, o którym mowa w art. 88q ust. 1 lub 3, w terminie, o którym mowa w art. 88v ust. 2, raportujący dostawca usług w zakresie kryptoaktywów traktuje odpowiednio użytkownika kryptoaktywów lub osobę kontrolującą zarówno jako rezydenta państwa ustalonego zgodnie z treścią pierwotnego oświadczenia o rezydencji podatkowej oraz państwa, co do którego ma podstawy sądzić, że ten użytkownik kryptoaktywów lub ta osoba kontrolująca stali się jego rezydentami do celów podatkowych na skutek wystąpienia zmiany okoliczności. Art. 88zc. 1. Raportujący dostawca usług w zakresie kryptoaktywów uznaje, że użytkownik kryptoaktywów będący podmiotem, a niebędący podmiotem wymienionym w art. 88e ust. 1 pkt 6 lit. a–d, ma co najmniej jedną osobę kontrolującą, na podstawie informacji zgromadzonych i przechowywanych na podstawie:
+**Art. 88z.** Zmiana okoliczności, o których mowa w art. 88y, obejmuje zmianę lub dodanie informacji odnoszących się do statusu osoby jako użytkownika kryptoaktywów, osoby kontrolującej lub osoby raportowanej, jeżeli taka zmiana lub dodanie informacji wpływają na status osoby jako użytkownika kryptoaktywów, osoby kontrolującej lub osoby raportowanej.
+
+**Art. 88za.** W przypadku zmiany okoliczności, o których mowa w art. 88y, skutkującej powzięciem przez raportującego dostawcę usług w zakresie kryptoaktywów wątpliwości co do poprawności i rzetelności danych zawartych w złożonym oświadczeniu, o którym mowa w art. 88q ust. 1 lub 3, raportujący dostawca usług w zakresie kryptoaktywów nie uwzględnia tego oświadczenia i jest obowiązany uzyskać aktualne oświadczenie, o którym mowa w art. 88q ust. 1 lub 3.
+
+**Art. 88zb.**
+
+1. W przypadku, o którym mowa w art. 88za, do dnia uzyskania aktualnego oświadczenia, o którym mowa w art. 88q ust. 1 lub 3, raportujący dostawca usług w zakresie kryptoaktywów traktuje odpowiednio użytkownika kryptoaktywów lub osobę kontrolującą jako rezydenta zgodnie z treścią pierwotnego oświadczenia, o którym mowa w art. 88q ust. 1 i 3.
+
+2. W przypadku nieuzyskania aktualnego oświadczenia, o którym mowa w art. 88q ust. 1 lub 3, w terminie, o którym mowa w art. 88v ust. 2, raportujący dostawca usług w zakresie kryptoaktywów traktuje odpowiednio użytkownika kryptoaktywów lub osobę kontrolującą zarówno jako rezydenta państwa ustalonego zgodnie z treścią pierwotnego oświadczenia o rezydencji podatkowej oraz państwa, co do którego ma podstawy sądzić, że ten użytkownik kryptoaktywów lub ta osoba kontrolująca stali się jego rezydentami do celów podatkowych na skutek wystąpienia zmiany okoliczności.
+
+**Art. 88zc.**
+
+1. Raportujący dostawca usług w zakresie kryptoaktywów uznaje, że użytkownik kryptoaktywów będący podmiotem, a niebędący podmiotem wymienionym w art. 88e ust. 1 pkt 6 lit. a–d, ma co najmniej jedną osobę kontrolującą, na podstawie informacji zgromadzonych i przechowywanych na podstawie:
 
 - **1)** procedur z zakresu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu – w przypadku gdy ten raportujący dostawca usług w zakresie kryptoaktywów zgodnie z odrębnymi przepisami jest obowiązany stosować te procedury;
 - **2)** procedur zasadniczo podobnych do procedur z zakresu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu, które czynią zadość wymaganiom wynikającym z dyrektywy 2015/849 – w przypadku raportującego dostawcy usług w zakresie kryptoaktywów innego niż określony w pkt 1.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli z oświadczenia, o którym mowa w art. 88q ust. 1, wynika, że użytkownik kryptoaktywów będący podmiotem jest aktywnym podmiotem. Art. 88zd. Raportujący dostawca usług w zakresie kryptoaktywów będący instytucją finansową w rozumieniu art. 24 ust. 1 pkt 8 może stosować procedury należytej staranności dopełnione zgodnie z działem III rozdziałami 4, 6, 8 dla realizacji procedur należytej staranności przeprowadzanych zgodnie z niniejszym rozdziałem. Art. 88ze. Raportujący dostawca usług w zakresie kryptoaktywów może korzystać z usług innej osoby w zakresie wykonywania obowiązków przewidzianych w niniejszym rozdziale. Odpowiedzialność za wykonanie obowiązków ponosi raportujący dostawca usług w zakresie kryptoaktywów.
+2. Przepisu ust. 1 nie stosuje się, jeżeli z oświadczenia, o którym mowa w art. 88q ust. 1, wynika, że użytkownik kryptoaktywów będący podmiotem jest aktywnym podmiotem.
+
+**Art. 88zd.** Raportujący dostawca usług w zakresie kryptoaktywów będący instytucją finansową w rozumieniu art. 24 ust. 1 pkt 8 może stosować procedury należytej staranności dopełnione zgodnie z działem III rozdziałami 4, 6, 8 dla realizacji procedur należytej staranności przeprowadzanych zgodnie z niniejszym rozdziałem.
+
+**Art. 88ze.** Raportujący dostawca usług w zakresie kryptoaktywów może korzystać z usług innej osoby w zakresie wykonywania obowiązków przewidzianych w niniejszym rozdziale. Odpowiedzialność za wykonanie obowiązków ponosi raportujący dostawca usług w zakresie kryptoaktywów.
 
 #### Rozdział 5 Procedura rejestracji operatorów kryptoaktywów
 
+**Art. 88zf.**
+
+1. Operator kryptoaktywów będący raportującym dostawcą usług w zakresie kryptoaktywów, który zgodnie z art. 88h ust. 1 pkt 2–5 jest obowiązany wykonywać obowiązki określone w niniejszym dziale, podlega obowiązkowi rejestracji w Rzeczypospolitej Polskiej, z wyjątkiem przypadków określonych w art. 88h ust. 3–6, art. 88i lub art. 88j.
+
+2. W celu dokonania rejestracji operator kryptoaktywów składa Szefowi Krajowej Administracji Skarbowej formularz rejestracyjny do dnia 31 marca roku, w którym po raz pierwszy zostanie złożona przez niego informacja o użytkownikach kryptoaktywów.
+
+3. Formularz rejestracyjny zawiera:
+
+- **1)** informacje dotyczące operatora kryptoaktywów:
+    - **a)** imię i nazwisko lub nazwę,
+    - **b)** główny adres,
+    - **c)** adres elektroniczny,
+    - **d)** adresy stron internetowych,
+    - **e)** każdy TIN nadany operatorowi kryptoaktywów,
+    - **f)** wskazanie państw członkowskich, których rezydentami do celów podatkowych są użytkownicy raportowani,
+    - **g)** wskazanie państw uczestniczących, o których mowa w art. 88e ust. 1 pkt 8 lit. b, co do których zachodzą przesłanki wymienione w art. 88h ust. 3–6 lub art. 88j;
+
+- **2)** informacje dotyczące pełnomocnika upoważnionego do podpisywania informacji o użytkownikach kryptoaktywów oraz korekt formularza rejestracyjnego:
+    - **a)** imię, nazwisko i datę urodzenia,
+    - **b)** TIN, jeżeli jest dostępny,
+    - **c)** w przypadku braku TIN – numer i serię paszportu lub innego dokumentu potwierdzającego tożsamość albo inny numer identyfikacyjny,
+    - **d)** państwo wydania dokumentu, o którym mowa w lit. c,
+    - **e)** dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte w kwalifikowanym certyfikacie podpisu elektronicznego – w przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
+    - **f)** numer PESEL pełnomocnika posługującego się podpisem zaufanym – w przypadku gdy nie są przekazywane dane, o których mowa w lit. e,
+    - **g)** adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych – w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy – Ordynacja podatkowa,
+    - **h)** numer telefonu,
+    - **i)** adres poczty elektronicznej,
+    - **j)** oświadczenie operatora kryptoaktywów o upoważnieniu pełnomocnika do podpisywania informacji o użytkownikach kryptoaktywów oraz korekt formularza rejestracyjnego.
+
+4. Formularz rejestracyjny jest sporządzany na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+5. Operator kryptoaktywów powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o zmianie informacji podanych w formularzu rejestracyjnym. Powiadomienia dokonuje się elektronicznie, za pomocą formularza rejestracyjnego, podając kompletne i aktualne dane.
+
+6. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa obejmuje również upoważnienie do podpisywania formularza rejestracyjnego.
+
+7. Formularz rejestracyjny może być podpisany przez osobę uprawnioną do reprezentacji, przy czym w takim przypadku nie jest dopuszczalne podpisanie tego formularza przez pełnomocnika.
+
+8. Korekta formularza rejestracyjnego w zakresie ustanowienia pełnomocnika, o którym mowa w ust. 3 pkt 2, może być podpisana zgodnie z ust. 6 i 7.
+
+9. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania za pomocą środków komunikacji elektronicznej formularza rejestracyjnego, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym formularzu oraz potrzebę jego ochrony przed nieuprawnionym dostępem.
+
+**Art. 88zg.**
+
+1. Szef Krajowej Administracji Skarbowej w terminie 30 dni od dnia otrzymania formularza rejestracyjnego nadaje operatorowi kryptoaktywów indywidualny numer identyfikacyjny do celów sprawozdawczych, zwany dalej „indywidualnym numerem operatora kryptoaktywów”.
+
+2. Szef Krajowej Administracji Skarbowej wydaje potwierdzenie nadania indywidualnego numeru operatora kryptoaktywów po jego nadaniu.
+
+3. Do doręczania potwierdzenia nadania indywidualnego numeru operatora kryptoaktywów oraz innych pism w zakresie związanym ze stosowaniem przepisów art. 88zh–88zj przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
+
+4. W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora kryptoaktywów stosuje się odpowiednio przepisy działu VIIIA ustawy – Ordynacja podatkowa.
+
+**Art. 88zh.** Szef Krajowej Administracji Skarbowej wydaje postanowienie o pozostawieniu formularza rejestracyjnego bez rozpatrzenia, w przypadku gdy:
+
+- **1)** brak jest możliwości potwierdzenia tożsamości lub istnienia operatora kryptoaktywów;
+- **2)** stwierdzono, że przekazany formularz rejestracyjny nie spełnia wymogów określonych dla tego formularza;
+- **3)** istnieje uzasadnione przypuszczenie, że dane przekazane na formularzu rejestracyjnym są fałszywe lub fikcyjne;
+- **4)** operatorowi kryptoaktywów został już nadany indywidualny numer operatora kryptoaktywów albo nadano mu numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
+- **5)** operator kryptoaktywów nie spełnia warunków uznania go za raportującego dostawcę usług w zakresie kryptoaktywów;
+- **6)** operatorowi kryptoaktywów cofnięto indywidualny numer operatora kryptoaktywów na podstawie art. 88zj ust. 1 pkt 4 i nie złożył on kaucji gwarancyjnej zgodnie z art. 88zj ust. 4 lub inne państwo członkowskie cofnęło operatorowi kryptoaktywów numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE.
+
+**Art. 88zi.**
+
+1. Szef Krajowej Administracji Skarbowej unieważnia z urzędu, w drodze decyzji, indywidualny numer operatora kryptoaktywów, w przypadku gdy:
+
+- **1)** operatorowi kryptoaktywów został uprzednio nadany indywidualny numer operatora kryptoaktywów albo nadano mu numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
+- **2)** indywidualny numer operatora kryptoaktywów nadano na podstawie fałszywych lub fikcyjnych danych.
+
+2. Nie można posługiwać się unieważnionym indywidualnym numerem operatora kryptoaktywów, a unieważniony indywidualny numer operatora kryptoaktywów nie może zostać ponownie nadany.
+
+**Art. 88zj.**
+
+1. Szef Krajowej Administracji Skarbowej cofa, w drodze decyzji, indywidualny numer operatora kryptoaktywów, w przypadku gdy:
+
+- **1)** operator kryptoaktywów powiadomi Szefa Krajowej Administracji Skarbowej zgodnie z art. 88zf ust. 4–7, że zaprzestał działalności jako operator kryptoaktywów i nie posiada już użytkowników raportowanych w Unii Europejskiej, przekazując w formularzu rejestracyjnym następujące dane:
+    - **a)** imię i nazwisko lub nazwę,
+    - **b)** główny adres,
+    - **c)** adres elektroniczny,
+    - **d)** indywidualny numer operatora kryptoaktywów,
+    - **e)** każdy TIN nadany raportującemu operatorowi kryptoaktywów spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
+    - **f)** datę zaprzestania prowadzenia działalności jako operator kryptoaktywów;
+
+- **2)** mimo braku powiadomienia, o którym mowa w pkt 1, istnieje uzasadnione przypuszczenie, że działalność osoby fizycznej lub podmiotu jako operatora kryptoaktywów została zakończona;
+- **3)** osoba fizyczna lub podmiot przestały spełniać warunki uznania za operatora kryptoaktywów;
+- **4)** operator kryptoaktywów nie zrealizował obowiązku, o którym mowa w art. 88l ust. 1, pomimo wezwań, o których mowa w art. 88zu.
+
+2. Decyzję o cofnięciu indywidualnego numeru operatora kryptoaktywów w przypadku, o którym mowa w ust. 1 pkt 4, podejmuje się w terminie 90 dni od dnia doręczenia wezwania, o którym mowa w art. 88zu ust. 1, lecz niewcześniej niż przed upływem terminu, o którym mowa w art. 88zu ust. 2.
+
+3. Nie można posługiwać się cofniętym indywidualnym numerem operatora kryptoaktywów, a cofnięty indywidualny numer operatora kryptoaktywów nie może zostać ponownie nadany.
+
+4. Ponowne nadanie indywidualnego numeru operatora kryptoaktywów operatorowi kryptoaktywów, któremu cofnięto taki indywidualny numer operatora kryptoaktywów na podstawie ust. 1 pkt 4, jest dopuszczalne po złożeniu Szefowi Krajowej Administracji Skarbowej kaucji gwarancyjnej w wysokości od 100 000 zł do 1 000 000 zł, określonej przez Szefa Krajowej Administracji Skarbowej w drodze decyzji.
+
+5. Kaucję gwarancyjną składa się w formie:
+
+- **1)** depozytu pieniężnego lub
+- **2)** gwarancji bankowych, lub
+- **3)** obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
+
+6. Kaucja gwarancyjna jest utrzymywana do momentu:
+
+- **1)** wykonania przez operatora kryptoaktywów obowiązku, o którym mowa w art. 88l ust. 1;
+- **2)** zakończenia prowadzenia działalności, z którą wiąże się nadanie indywidualnego numeru operatora kryptoaktywów.
+
+7. Od złożonej kaucji gwarancyjnej nie są naliczane odsetki.
+
+8. Ustalając wysokość kaucji gwarancyjnej, Szef Krajowej Administracji Skarbowej uwzględnia zakres niedopełnienia obowiązku, o którym mowa w art. 88l ust. 1, oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez operatora kryptoaktywów, któremu cofnięto indywidualny numer operatora kryptoaktywów, a także wysokość jego całkowitego obrotu za rok obrotowy poprzedzający rok określenia kaucji gwarancyjnej, a w przypadku podmiotu rozpoczynającego działalność – za okres od dnia rozpoczęcia prowadzenia działalności gospodarczej do dnia wszczęcia postępowania o cofnięcie indywidualnego numeru operatora kryptoaktywów.
+
+9. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań w sprawie pozostawienia formularza rejestracyjnego bez rozpatrzenia oraz unieważnienia i cofnięcia indywidualnego numeru operatora kryptoaktywów stosuje się odpowiednio przepisy działu IV ustawy – Ordynacja podatkowa.
+
+10. Decyzja o unieważnieniu indywidualnego numeru operatora kryptoaktywów oraz decyzja o cofnięciu indywidualnego numeru operatora kryptoaktywów są natychmiast wykonalne.
+
+11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb przyjmowania i zwrotu kaucji gwarancyjnej, uwzględniając konieczność zapewnienia prawidłowego udokumentowania przyjęcia i zwrotu kaucji.
+
 #### Rozdział 6 Kontrola raportujących dostawców usług w zakresie kryptoaktywów
 
+**Art. 88zk.** Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego dostawcę usług w zakresie kryptoaktywów obowiązków w zakresie stosowania procedur należytej staranności oraz procedur sprawozdawczych, zwaną dalej w niniejszym dziale „kontrolą”.
+
+**Art. 88zl.** Występując z żądaniem, o którym mowa w art. 286 § 1 pkt 4 ustawy – Ordynacja podatkowa, kierowanym do raportującego dostawcy usług w zakresie kryptoaktywów, kontrolujący jest obowiązany zwracać szczególną uwagę na zasadę wzajemnego zaufania między instytucjami finansowymi a ich klientami.
+
+**Art. 88zm.**
+
+1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
+
+2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
+
+3. W przypadku niezłożenia wyjaśnień lub zastrzeżeń w terminie określonym w ust. 1 przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
+
+4. Kontrola kończy się wynikiem kontroli w dniu jego doręczenia. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
+
+5. Wynik kontroli zawiera:
+
+- **1)** oznaczenie organu kontrolującego;
+- **2)** oznaczenie kontrolowanego;
+- **3)** datę wydania;
+- **4)** podstawę prawną;
+- **5)** opis przebiegu kontroli;
+- **6)** końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
+- **7)** wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
+- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został utrwalony w postaci elektronicznej – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
+
+6. Termin, o którym mowa w ust. 5 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
+
+7. Kontrolowany jest obowiązany poinformować organ kontrolujący o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, niepóźniej jednak niż w terminie 14 dni od dnia upływu terminu wyznaczonego na ich usunięcie.
+
+**Art. 88zn.**
+
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący dostawca usług w zakresie kryptoaktywów, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
+
+2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, niekrótszy niż 14 dni od dnia otrzymania żądania.
+
+**Art. 88zo.**
+
+1. Jeżeli zawarto porozumienie sprzeczne w danych okolicznościach z przedmiotem lub celem ustawy, którego głównym celem lub jednym z głównych celów jest uniknięcie obowiązku stosowania procedur należytej staranności lub procedur sprawozdawczych, a sposób działania był sztuczny, uznaje się na potrzeby obowiązków określonych w przepisach niniejszego działu, że takie porozumienie nie zostało zawarte.
+
+2. Sposób działania nie jest sztuczny, jeżeli na podstawie istniejących okoliczności należy przyjąć, że działając rozsądnie i kierując się zgodnymi z prawem celami zastosowano by ten sposób działania w dominującej mierze z uzasadnionych przyczyn ekonomicznych.
+
+3. Przez porozumienie, o którym mowa w ust. 1, rozumie się czynność podejmowaną lub zespół czynności podejmowanych w celu uniknięcia obowiązku stosowania procedur należytej staranności lub procedur sprawozdawczych.
+
+**Art. 88zp.**
+
+1. Żądanie, o którym mowa w art. 88zn ust. 1, oraz żądanie kierowane w toku kontroli do kontrolowanego oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
+
+2. Do doręczania pism w zakresie związanym ze stosowaniem przepisów niniejszego rozdziału przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
+
+3. W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9–11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy – Ordynacja podatkowa.
+
 #### Rozdział 7 Obowiązki organu
+
+**Art. 88zq.**
+
+1. Szef Krajowej Administracji Skarbowej przekazuje właściwemu organowi państwa uczestniczącego informacje o użytkownikach kryptoaktywów będących rezydentami tych państw, uzyskane od raportujących dostawców usług w zakresie kryptoaktywów, zawierające dane określone w art. 88m.
+
+2. Jeżeli z porozumienia, o którym mowa w art. 88e ust. 1 pkt 8 lit. b, lub oświadczenia złożonego przez państwo uczestniczące wynika, że informacje, o których mowa w ust. 1, nie są przekazywane, przepisu ust. 1 nie stosuje się.
+
+**Art. 88zr.** Informacje, o których mowa w art. 88zq ust. 1, są przekazywane raz w roku, w terminie do dnia 30 września roku następującego po roku kalendarzowym, którego dotyczą.
+
+**Art. 88zs.**
+
+1. Wymiana informacji, o których mowa w art. 88zq ust. 1, odbywa się za pomocą standardowego formularza, o którym mowa w art. 20 ust. 5 lit. c dyrektywy 2011/16/UE, zgodnie z mającymi zastosowanie ustaleniami praktycznymi przyjętymi na podstawie art. 21 dyrektywy 2011/16/UE.
+
+2. Wymiana informacji, o których mowa w art. 88zq ust. 1, z państwami uczestniczącymi, o których mowa w art. 88e ust. 1 pkt 8 lit. b, następuje za pomocą środków komunikacji elektronicznej według formatu określonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o użytkownikach kryptoaktywów.
+
+3. Szef Krajowej Administracji Skarbowej w celu usprawnienia współpracy może zawierać z właściwym organem innego państwa porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o użytkownikach kryptoaktywów.
+
+**Art. 88zt.**
+
+1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora kryptoaktywów.
+
+2. Szef Krajowej Administracji Skarbowej niezwłocznie usuwa operatora kryptoaktywów z centralnego rejestru prowadzonego przez Komisję Europejską w przypadku unieważnienia indywidualnego numeru operatora kryptoaktywów, o którym mowa w art. 88zi ust. 1, albo cofnięcia indywidualnego numeru operatora kryptoaktywów, o którym mowa w art. 88zj ust. 1.
+
+3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o operatorze kryptoaktywów, który nie dopełnił obowiązku rejestracji zgodnie z art. 88zf. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot lub osobę fizyczną działalności jako operator kryptoaktywów.
+
+**Art. 88zu.**
+
+1. Szef Krajowej Administracji Skarbowej wzywa raportującego dostawcę usług w zakresie kryptoaktywów, który nie przekazał informacji o użytkownikach kryptoaktywów albo przekazał informację niepełną lub zawierającą informacje błędne, do jej złożenia albo skorygowania w terminie 30 dni od dnia doręczenia wezwania.
+
+2. W przypadku niezastosowania się raportującego dostawcy usług w zakresie kryptoaktywów do wezwania Szef Krajowej Administracji Skarbowej ponownie wzywa raportującego dostawcę usług w zakresie kryptoaktywów do złożenia informacji o użytkownikach kryptoaktywów albo jej skorygowania w terminie 30 dni od dnia doręczenia wezwania.
+
+3. Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
 
 ### DZIAŁ VI Kary pieniężne
 
@@ -2270,6 +2401,8 @@ Art. 92–97. (pominięte)
 ### DZIAŁ VII Przepisy zmieniające, epizodyczne, przejściowe i końcowe
 
 #### Rozdział 1 Przepisy zmieniające
+
+**Art. 92–97.** (pominięte)
 
 #### Rozdział 2 Przepisy epizodyczne, przejściowe i końcowe
 

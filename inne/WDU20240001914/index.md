@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpadach oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2024 r.*
 

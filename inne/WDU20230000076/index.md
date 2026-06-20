@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o odznakach i mundurach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odznakach i mundurach
 
 | Pole | Wartość |
 |---|---|

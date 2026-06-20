@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
+# Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 listopada 2024 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o czasie pracy kierowców
+# Ustawa z dnia 16 kwietnia 2004 r. o czasie pracy kierowców
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 

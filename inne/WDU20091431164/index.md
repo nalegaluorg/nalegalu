@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o Narodowym Banku Polskim
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o Narodowym Banku Polskim
 
 *USTAWA z dnia 16 lipca 2009 r.*
 

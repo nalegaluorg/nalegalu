@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego
+# Ustawa z dnia 25 maja 2012 r. o zmianie ustawy o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego
 
 *USTAWA z dnia 25 maja 2012 r.*
 

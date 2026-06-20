@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania administracyjnego.
+# Ustawa z dnia 24 maja 1990 r. o zmianie ustawy - Kodeks postępowania administracyjnego.
 
 *USTAWA z dnia 24 maja 1990 r.*
 

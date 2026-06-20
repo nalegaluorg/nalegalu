@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę – Prawo zamówień publicznych oraz ustawę o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. zmieniająca ustawę - Prawo zamówień publicznych oraz ustawę o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

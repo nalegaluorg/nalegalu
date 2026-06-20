@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy - Karta Nauczyciela
+# Ustawa z dnia 27 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy - Karta Nauczyciela
 
 *USTAWA z dnia 27 lipca 2005 r.*
 

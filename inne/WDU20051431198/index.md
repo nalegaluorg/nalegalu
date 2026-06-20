@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wyłączeniu bezprawności posiadania bez wymaganego pozwolenia lub rejestracji broni lub amunicji przez osoby walczące o suwerenność i niepodległość Polski Uznając szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy - nie szczędząc zdrowia i życia, a także z narażeniem się na utratę wolności i na wszelkie represje wobec siebie i najbliższych - walczyli o suwerenność i niepodległość Ojczyzny;
+# Ustawa z dnia 3 czerwca 2005 r. o wyłączeniu bezprawności posiadania bez wymaganego pozwolenia lub rejestracji broni lub amunicji przez osoby walczące o suwerenność i niepodległość Polski
 
 *USTAWA z dnia 3 czerwca 2005 r.*
 

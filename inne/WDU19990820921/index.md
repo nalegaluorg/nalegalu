@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie nadania statutu Głównemu Urzędowi Miar.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 13 października 1999 r. zmieniające rozporządzenie w sprawie nadania statutu Głównemu Urzędowi Miar.
 
 | Pole | Wartość |
 |---|---|

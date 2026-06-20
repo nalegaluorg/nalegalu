@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 30 marca 2021 r.*
 
@@ -127,7 +127,9 @@ source: pdf
 
 10. Wniosek o ponowne rozpatrzenie sprawy rozpatruje się w terminie 2 miesięcy od dnia jego złożenia za pośrednictwem punktu kompleksowej obsługi.
 
-11. Do opinii wydawanych przez Prezesa UTK w sprawach, o których mowa w ust. 1, kierowanych do Agencji, nie stosuje się przepisów Kodeksu postępowania administracyjnego. Art. 13ac. Prezes UTK jest administratorem danych osobowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przetwarzanych za pośrednictwem punktu kompleksowej obsługi, uzyskanych w trakcie realizacji spraw, o których mowa w art. 13ab ust. 1, a także w ramach współpracy z Agencją w tym zakresie.”;
+11. Do opinii wydawanych przez Prezesa UTK w sprawach, o których mowa w ust. 1, kierowanych do Agencji, nie stosuje się przepisów Kodeksu postępowania administracyjnego.
+
+**Art. 13ac.** Prezes UTK jest administratorem danych osobowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przetwarzanych za pośrednictwem punktu kompleksowej obsługi, uzyskanych w trakcie realizacji spraw, o których mowa w art. 13ab ust. 1, a także w ramach współpracy z Agencją w tym zakresie.”;
 
 - **9)** w art. 14:
     - **a)** w ust. 1 w pkt 2 wyrazy „świadectw sprawności technicznej” zastępuje się wyrazem „dokumentów”,
@@ -168,7 +170,11 @@ source: pdf
 
 3. Prezes UTK może zawierać z krajowymi organami do spraw bezpieczeństwa z innych państw członkowskich Unii Europejskiej porozumienia określające zasady współpracy, o której mowa w ust. 1 i 2.
 
-4. Prezes UTK bierze udział w pracach sieci krajowych organów do spraw bezpieczeństwa, o której mowa w art. 38 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004. Art. 15ab. 1. Prezes UTK współpracuje z Agencją w szczególności w zakresie:
+4. Prezes UTK bierze udział w pracach sieci krajowych organów do spraw bezpieczeństwa, o której mowa w art. 38 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004.
+
+**Art. 15ab.**
+
+1. Prezes UTK współpracuje z Agencją w szczególności w zakresie:
 
 - **1)** wydawania, przedłużania, aktualizacji, ograniczania i cofania jednolitych certyfikatów bezpieczeństwa;
 - **2)** wydawania, odnawiania, zmiany i unieważniania zezwoleń na wprowadzenie pojazdu kolejowego do obrotu lub zezwoleń dla typu pojazdu;
@@ -258,7 +264,11 @@ source: pdf
 - **2)** załączniku II do rozporządzenia (UE) 2018/762 – w odniesieniu do zarządców.”;
 - **16)** po art. 17a dodaje się art. 17aa–17ac w brzmieniu: „Art. 17aa. Po poważnym wypadku przewoźnik kolejowy zapewnia pomoc rodzinom ofiar śmiertelnych tego wypadku oraz osobom ciężko w nim rannym, będącym pasażerami pociągu uruchomionego przez tego przewoźnika kolejowego, i ich rodzinom przez informowanie o:
 - **1)** procedurach dochodzenia roszczeń na mocy prawa unijnego;
-- **2)** możliwości skorzystania z pomocy psychologa na koszt przewoźnika kolejowego. Art. 17ab. 1. Zarządcy i przewoźnicy kolejowi przedstawiają Prezesowi UTK corocznie, w terminie do dnia 31 maja, raporty w sprawie bezpieczeństwa za poprzedni rok kalendarzowy.
+- **2)** możliwości skorzystania z pomocy psychologa na koszt przewoźnika kolejowego.
+
+**Art. 17ab.**
+
+1. Zarządcy i przewoźnicy kolejowi przedstawiają Prezesowi UTK corocznie, w terminie do dnia 31 maja, raporty w sprawie bezpieczeństwa za poprzedni rok kalendarzowy.
 
 2. Raporty w sprawie bezpieczeństwa, o których mowa w ust. 1, zawierają:
 
@@ -282,7 +292,9 @@ source: pdf
 - **2)** wnioski wynikające z nadzoru nad zarządcami i przewoźnikami kolejowymi, w tym informacje o liczbie i wynikach przeprowadzonych kontroli oraz audytów;
 - **3)** krajowy plan bezpieczeństwa określający działania przewidziane do osiągnięcia wspólnych celów bezpieczeństwa (CST).
 
-4. Roczny raport, o którym mowa w ust. 3, Prezes UTK ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Prezesa Urzędu Transportu Kolejowego oraz przekazuje Agencji w terminie do dnia 30 września roku następującego po okresie sprawozdawczym. Art. 17ac. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wspólne wskaźniki bezpieczeństwa (CSI) oraz sposób ich obliczania i zestawiania, uwzględniając potrzebę jednolitego postępowania przy ich obliczaniu i zestawianiu oraz zwiększenia poziomu bezpieczeństwa kolei.”;
+4. Roczny raport, o którym mowa w ust. 3, Prezes UTK ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Prezesa Urzędu Transportu Kolejowego oraz przekazuje Agencji w terminie do dnia 30 września roku następującego po okresie sprawozdawczym.
+
+**Art. 17ac.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wspólne wskaźniki bezpieczeństwa (CSI) oraz sposób ich obliczania i zestawiania, uwzględniając potrzebę jednolitego postępowania przy ich obliczaniu i zestawianiu oraz zwiększenia poziomu bezpieczeństwa kolei.”;
 
 - **17)** w art. 17b wyrazy „Komisji (UE) nr 402/2013 z dnia 30 kwietnia 2013 r. w sprawie wspólnej metody oceny bezpieczeństwa w zakresie wyceny i oceny ryzyka i uchylającym rozporządzenie (WE) nr 352/2009 (Dz. Urz. UE L 121 z 03.05.2013, str. 8)” zastępuje się wyrazami „402/2013”;
 - **18)** w art. 17c wyrazy „wykonawczego Komisji (UE) nr 402/2013 z dnia 30 kwietnia 2013 r. w sprawie wspólnej metody oceny bezpieczeństwa w zakresie wyceny i oceny ryzyka i uchylającego rozporządzenie (WE) nr 352/2009” zastępuje się wyrazami „402/2013”;
@@ -333,11 +345,19 @@ source: pdf
 
 2. W przypadku gdy Agencja nie zgadza się z wynikami oceny, o której mowa w ust. 1, Prezes UTK i Agencja współpracują w celu wypracowania wspólnego stanowiska. W uzasadnionych przypadkach do współpracy włącza się przewoźnika kolejowego.
 
-3. Prezes UTK może złożyć wniosek o arbitraż do Rady Odwoławczej, o której mowa w art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, w przypadku negatywnej oceny Prezesa UTK i braku wypracowania wspólnego stanowiska z Agencją. Art. 18bb. 1. W przypadku złożenia do Prezesa UTK wniosku o wydanie jednolitego certyfikatu bezpieczeństwa, Prezes UTK powiadamia wnioskodawcę, w terminie jednego miesiąca od dnia otrzymania wniosku, że dokumentacja jest kompletna, albo wzywa wnioskodawcę do usunięcia braków.
+3. Prezes UTK może złożyć wniosek o arbitraż do Rady Odwoławczej, o której mowa w art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004, w przypadku negatywnej oceny Prezesa UTK i braku wypracowania wspólnego stanowiska z Agencją.
+
+**Art. 18bb.**
+
+1. W przypadku złożenia do Prezesa UTK wniosku o wydanie jednolitego certyfikatu bezpieczeństwa, Prezes UTK powiadamia wnioskodawcę, w terminie jednego miesiąca od dnia otrzymania wniosku, że dokumentacja jest kompletna, albo wzywa wnioskodawcę do usunięcia braków.
 
 2. Prezes UTK podejmuje decyzję w sprawie wniosków o wydanie jednolitych certyfikatów bezpieczeństwa w terminie 4 miesięcy odpowiednio od dnia powiadomienia, o którym mowa w ust. 1, albo od dnia usunięcia przez wnioskodawcę braków.
 
-3. Prezes UTK zgłasza Agencji każde wydanie, przedłużenie, aktualizowanie, ograniczenie lub cofnięcie jednolitych certyfikatów bezpieczeństwa w terminie 14 dni od dnia wydania decyzji. Zgłoszenie zawiera nazwę i adres przewoźnika kolejowego, datę wystawienia, zakres i ważność jednolitego certyfikatu bezpieczeństwa, a w przypadku cofnięcia – także jego przyczyny. Art. 18bc. 1. Na wniosek przewoźnika kolejowego Prezes UTK aktualizuje wydany przez siebie jednolity certyfikat bezpieczeństwa w całości albo w części:
+3. Prezes UTK zgłasza Agencji każde wydanie, przedłużenie, aktualizowanie, ograniczenie lub cofnięcie jednolitych certyfikatów bezpieczeństwa w terminie 14 dni od dnia wydania decyzji. Zgłoszenie zawiera nazwę i adres przewoźnika kolejowego, datę wystawienia, zakres i ważność jednolitego certyfikatu bezpieczeństwa, a w przypadku cofnięcia – także jego przyczyny.
+
+**Art. 18bc.**
+
+1. Na wniosek przewoźnika kolejowego Prezes UTK aktualizuje wydany przez siebie jednolity certyfikat bezpieczeństwa w całości albo w części:
 
 - **1)** po każdej istotnej zmianie dotyczącej rodzaju lub zakresu działalności;
 - **2)** przy zmianie obszaru działalności na terytorium Rzeczypospolitej Polskiej lub w zakresie stacji granicznych położonych w sąsiednich państwach członkowskich Unii Europejskiej;
@@ -349,9 +369,17 @@ source: pdf
 
 4. W celu przedłużenia jednolitych certyfikatów bezpieczeństwa Prezes UTK wykorzystuje informacje uzyskane podczas działań nadzorczych.
 
-5. Do postępowań dotyczących aktualizacji lub przedłużenia jednolitego certyfikatu bezpieczeństwa stosuje się przepisy art. 18b ust. 2, 4 i 5, art. 18ba oraz art. 18bb ust. 1 i 2. Art. 18bd. 1. Przewoźnik kolejowy informuje Prezesa UTK, z co najmniej dwumiesięcznym wyprzedzeniem, o planowanym rozpoczęciu przewozów na zmienionych warunkach dotyczących rodzaju i zakresu działalności.
+5. Do postępowań dotyczących aktualizacji lub przedłużenia jednolitego certyfikatu bezpieczeństwa stosuje się przepisy art. 18b ust. 2, 4 i 5, art. 18ba oraz art. 18bb ust. 1 i 2.
 
-2. Przewoźnik kolejowy informuje Prezesa UTK o znaczących zmianach dotyczących kategorii zawodowej pracowników lub typów użytkowanych pojazdów w terminie 7 dni od daty zakończenia procesu oceny znaczenia zmiany. Art. 18be. 1. Prezes UTK nadzoruje stosowanie przez zarządców i przewoźników kolejowych systemu zarządzania bezpieczeństwem, o którym mowa w art. 17a, uwzględniając zasady określone we wspólnych metodach oceny bezpieczeństwa (CSM).
+**Art. 18bd.**
+
+1. Przewoźnik kolejowy informuje Prezesa UTK, z co najmniej dwumiesięcznym wyprzedzeniem, o planowanym rozpoczęciu przewozów na zmienionych warunkach dotyczących rodzaju i zakresu działalności.
+
+2. Przewoźnik kolejowy informuje Prezesa UTK o znaczących zmianach dotyczących kategorii zawodowej pracowników lub typów użytkowanych pojazdów w terminie 7 dni od daty zakończenia procesu oceny znaczenia zmiany.
+
+**Art. 18be.**
+
+1. Prezes UTK nadzoruje stosowanie przez zarządców i przewoźników kolejowych systemu zarządzania bezpieczeństwem, o którym mowa w art. 17a, uwzględniając zasady określone we wspólnych metodach oceny bezpieczeństwa (CSM).
 
 2. Nadzór, o którym mowa w ust. 1, obejmuje kontrole mające na celu sprawdzenie stosowania:
 
@@ -361,7 +389,11 @@ source: pdf
 
 3. W ramach wykonywanego nadzoru, o którym mowa w ust. 1, Prezes UTK wykorzystuje dokumentację zgromadzoną podczas wydawania, przedłużania lub aktualizacji jednolitego certyfikatu bezpieczeństwa lub autoryzacji bezpieczeństwa, a także może brać pod uwagę wyniki w zakresie bezpieczeństwa przewoźnika kolejowego lub zarządcy infrastruktury oraz, w odpowiednich przypadkach, ośrodków szkoleniowych w zakresie, w jakim ich działania mają wpływ na bezpieczeństwo kolei.
 
-4. W przypadku podmiotów odpowiedzialnych za utrzymanie pojazdu kolejowego (ECM) nadzór, o którym mowa w ust. 1, przeprowadza się w celu zapewnienia stosowania przez te podmioty odpowiednich wspólnych metod oceny bezpieczeństwa (CSM). Art. 18bf. 1. Prezes UTK występuje do Agencji o ograniczenie albo cofnięcie wydanego przez nią jednolitego certyfikatu bezpieczeństwa, jeżeli przewoźnik kolejowy przestał spełniać warunki wydania jednolitego certyfikatu bezpieczeństwa albo zastosowany wobec niego, na podstawie art. 14 ust. 2a, tymczasowy środek bezpieczeństwa obejmuje okres powyżej 3 miesięcy.
+4. W przypadku podmiotów odpowiedzialnych za utrzymanie pojazdu kolejowego (ECM) nadzór, o którym mowa w ust. 1, przeprowadza się w celu zapewnienia stosowania przez te podmioty odpowiednich wspólnych metod oceny bezpieczeństwa (CSM).
+
+**Art. 18bf.**
+
+1. Prezes UTK występuje do Agencji o ograniczenie albo cofnięcie wydanego przez nią jednolitego certyfikatu bezpieczeństwa, jeżeli przewoźnik kolejowy przestał spełniać warunki wydania jednolitego certyfikatu bezpieczeństwa albo zastosowany wobec niego, na podstawie art. 14 ust. 2a, tymczasowy środek bezpieczeństwa obejmuje okres powyżej 3 miesięcy.
 
 2. W przypadku gdy Agencja nie zgadza się z wnioskiem Prezesa UTK, o którym mowa w ust. 1, stosuje się przepisy art. 18ba ust. 2 i 3. Jeżeli jednolity certyfikat bezpieczeństwa nie zostanie ograniczony albo cofnięty, Prezes UTK cofa tymczasowe środki bezpieczeństwa.
 
@@ -803,7 +835,10 @@ source: pdf
 - **2)** pojazd lub pojazdy kolejowe zarejestrowane lub utrzymywane w jednym z tych państw członkowskich uczestniczyły w poważnym wypadku, wypadku lub incydencie.”,
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Zaproszone przez Komisję podmioty, o których mowa w ust. 3, mają prawo do udziału w postępowaniu i do uzyskania jego pełnych wyników, a personel tych podmiotów jest uprawniony do korzystania z uprawnień przysługujących członkom Komisji, o których mowa w art. 28h ust. 2.”;
 
-- **66)** po art. 28j dodaje się art. 28ja i art. 28jb w brzmieniu: „Art. 28ja. Komisja uczestniczy we współpracy międzynarodowej krajowych organów dochodzeniowych Unii Europejskiej, wspieranej przez Agencję, zgodnie z art. 38 ust. 2 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004. Art. 28jb. Komisja może uczestniczyć w programie wzajemnych ocen realizowanym w ramach współpracy międzynarodowej krajowych organów dochodzeniowych Unii Europejskiej.”;
+- **66)** po art. 28j dodaje się art. 28ja i art. 28jb w brzmieniu: „Art. 28ja. Komisja uczestniczy we współpracy międzynarodowej krajowych organów dochodzeniowych Unii Europejskiej, wspieranej przez Agencję, zgodnie z art. 38 ust. 2 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/796 z dnia 11 maja 2016 r. w sprawie Agencji Kolejowej Unii Europejskiej i uchylenia rozporządzenia (WE) nr 881/2004.
+
+**Art. 28jb.** Komisja może uczestniczyć w programie wzajemnych ocen realizowanym w ramach współpracy międzynarodowej krajowych organów dochodzeniowych Unii Europejskiej.”;
+
 - **67)** w art. 28k ust. 2 otrzymuje brzmienie: „2. O prowadzonym postępowaniu i jego postępach Komisja informuje właściwego zarządcę, przewoźnika kolejowego, użytkownika bocznicy kolejowej, Agencję, Prezesa UTK, organ prowadzący postępowanie przygotowawcze, poszkodowanych, osoby bliskie ofiarom śmiertelnym, właścicieli zniszczonego mienia, producentów, służby ratunkowe oraz innych zainteresowanych w miarę możliwości, umożliwiając im przedkładanie opinii lub informacji w sprawie postępowania i wnoszenie uwag do projektów raportów, o których mowa w art. 28l ust. 1, 5a i 6.”;
 - **68)** w art. 28l:
     - **a)** uchyla się ust. 3,

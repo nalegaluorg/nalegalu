@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ poz. 1574), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 9 listopada 2017 r.
 o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego
-Art. 16–18. (pominięte)
 
 #### Rozdział I Przepisy ogólne
 
@@ -263,6 +262,8 @@ Art. 16–18. (pominięte)
 2. Minister określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania oraz pozbawiania stypendiów, o których mowa w ust. 1, a także rodzaje i wysokość stypendiów, uwzględniając potrzebę wsparcia działań najpełniej służących realizacji celów Instytutu.
 
 #### Rozdział IV Zmiany w przepisach
+
+**Art. 16–18.** (pominięte)
 
 #### Rozdział V Przepisy dostosowujące, przejściowe i końcowe
 

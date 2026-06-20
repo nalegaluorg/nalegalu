@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o adwokaturze, ustawy o radcach prawnych oraz ustawy – Prawo o notariacie
+# Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz ustawy - Prawo o notariacie
 
 *USTAWA z dnia 20 lutego 2009 r.*
 

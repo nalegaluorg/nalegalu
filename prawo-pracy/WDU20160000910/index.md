@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 13 maja 2016 r. o zmianie ustawy - Kodeks pracy
 
 *USTAWA z dnia 13 maja 2016 r.*
 

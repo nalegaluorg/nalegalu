@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym
+# Ustawa z dnia 11 października 2013 r. o zmianie ustawy o samorządzie gminnym
 
 *USTAWA z dnia 11 października 2013 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
+# Ustawa z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
 
 *USTAWA z dnia 19 czerwca 2020 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2020-06-23 |
 | Ostatnia zmiana | 2025-12-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1086/text.pdf) |
-
-Art. 26–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -310,6 +308,8 @@ Art. 26–80. (pominięte)
 2. Przez dzień złożenia wniosku o ogłoszenie upadłości i przez zakończenie postępowania restrukturyzacyjnego, o których mowa w art. 131a ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, rozumie się także, odpowiednio, dzień dokonania obwieszczenia, o którym mowa w art. 15 ust. 1, oraz dzień umorzenia postępowania, o którym mowa w art. 20.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 26–80.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

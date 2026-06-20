@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
+# Ustawa z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
 
 *USTAWA z dnia 20 lipca 2018 r.*
 
@@ -262,7 +262,9 @@ source: pdf
 
 1. Przepisy ustawy stosuje się z uwzględnieniem przepisów o pomocy publicznej. Udzielenie pomocy publicznej wymaga spełnienia warunków udzielenia pomocy de minimis określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis. Za dzień udzielenia pomocy publicznej uznaje się dzień wydania zaświadczenia albo zaświadczenia, o którym mowa w art. 11 ust. 1.
 
-2. W przypadku gdy nastąpi przekroczenie limitu pomocy de minimis, stosuje się dopłatę do wysokości wartości rynkowej nieruchomości określonej na podstawie wartości rynkowej nieruchomości stanowiącej podstawę ustalenia opłaty albo na podstawie operatu szacunkowego sporządzonego na wniosek zobowiązanego do dopłaty. Wysokość dopłaty ustalana jest z urzędu w drodze decyzji. Koszty operatu szacunkowego ponosi zobowiązany do dopłaty. Art. 15–19. (pominięte)
+2. W przypadku gdy nastąpi przekroczenie limitu pomocy de minimis, stosuje się dopłatę do wysokości wartości rynkowej nieruchomości określonej na podstawie wartości rynkowej nieruchomości stanowiącej podstawę ustalenia opłaty albo na podstawie operatu szacunkowego sporządzonego na wniosek zobowiązanego do dopłaty. Wysokość dopłaty ustalana jest z urzędu w drodze decyzji. Koszty operatu szacunkowego ponosi zobowiązany do dopłaty.
+
+**Art. 15–19.** (pominięte)
 
 **Art. 20.**
 

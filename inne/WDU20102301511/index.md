@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o paszach oraz ustawy o bezpieczeństwie żywności i żywienia
 
 | Pole | Wartość |
 |---|---|

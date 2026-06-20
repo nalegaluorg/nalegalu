@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2026
+# Ustawa z dnia 7 listopada 2025 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2026
 
 *USTAWA z dnia 7 listopada 2025 r.*
 

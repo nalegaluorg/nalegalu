@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o charakterystyce energetycznej budynków oraz ustawy – Prawo budowlane
+# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o charakterystyce energetycznej budynków oraz ustawy - Prawo budowlane
 
 *USTAWA z dnia 7 października 2022 r.*
 

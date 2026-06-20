@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Wałbrzychu.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 2 listopada 1999 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Wałbrzychu.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
 
 | Pole | Wartość |
 |---|---|

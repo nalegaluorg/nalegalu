@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Ekonomicznej im. Oskara Langego we Wrocławiu
+# Ustawa z dnia 18 marca 2008 r. o nadaniu nowej nazwy Akademii Ekonomicznej im. Oskara Langego we Wrocławiu
 
 *USTAWA z dnia 18 marca 2008 r.*
 

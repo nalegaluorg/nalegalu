@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach lekarza i lekarza dentysty
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze ubezpieczeniowym i emerytalnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze ubezpieczeniowym i emerytalnym
 
 | Pole | Wartość |
 |---|---|
@@ -72,7 +72,9 @@ o nadzorze ubezpieczeniowym i emerytalnym (oznaczenie rozdziału 1 i tytuł – 
 - **2)** kontrola działalności i stanu majątkowego podmiotów nadzorowanych;
 - **3)** podejmowanie innych zadań określonych ustawami.
 
-2. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy. Art. 9–13. (uchylone)
+2. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.
+
+**Art. 9–13.** (uchylone)
 
 **Art. 14.**
 

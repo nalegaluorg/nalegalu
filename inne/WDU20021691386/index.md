@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o normalizacji
+# Ustawa z dnia 12 września 2002 r. o normalizacji.
 
 *USTAWA z dnia 12 września 2002 r.*
 

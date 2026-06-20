@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy — Przepisy wprowadzające ustawę o finansach publicznych
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy - Przepisy wprowadzające ustawę o finansach publicznych
 
 *USTAWA z dnia 15 lipca 2011 r.*
 

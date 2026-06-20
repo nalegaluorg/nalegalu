@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 15 września 2017 r. o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 15 września 2017 r.*
 

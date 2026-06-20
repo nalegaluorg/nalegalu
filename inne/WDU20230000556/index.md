@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 marca 2023 r.*
 
@@ -424,7 +424,12 @@ source: pdf
 4. Dysponent Funduszu nie udziela dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, podmiotowi, który:
 
 - **1)** wykorzystał ją niezgodnie z przeznaczeniem,
-- **2)** pobrał ją nienależnie lub w nadmiernej wysokości − do dnia zwrotu środków pochodzących z tej dotacji wraz z odsetkami. Art. 43hb. W przypadku wykorzystania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, niezgodnie z przeznaczeniem lub pobrania jej nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotyczące dotacji udzielonych z budżetu państwa. Art. 43hc. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+- **2)** pobrał ją nienależnie lub w nadmiernej wysokości − do dnia zwrotu środków pochodzących z tej dotacji wraz z odsetkami.
+
+**Art. 43hb.** W przypadku wykorzystania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, niezgodnie z przeznaczeniem lub pobrania jej nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotyczące dotacji udzielonych z budżetu państwa.
+
+**Art. 43hc.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
 - **1)** warunki i tryb udzielania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, w tym tryb przeprowadzania otwartego konkursu ofert oraz naboru wniosków, kryteria oceny oferty i wniosku oraz tryb zawierania umów na realizację tych działań,
 - **2)** sposób rozliczania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1 – uwzględniając potrzebę skutecznego i racjonalnego wykorzystania środków Funduszu oraz efektywnej realizacji działań, o których mowa w art. 43h pkt 1.”.
 

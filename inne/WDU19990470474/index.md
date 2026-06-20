@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia granic Pomnika Zagłady, na którego obszarze położony jest Pomnik Męczeństwa w Oświęcimiu, oraz obszaru i granic strefy ochronnej tego Pomnika.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 1999 r. w sprawie określenia granic Pomnika Zagłady, na którego obszarze położony jest Pomnik Męczeństwa w Oświęcimiu, oraz obszaru i granic strefy ochronnej tego Pomnika.
 
 | Pole | Wartość |
 |---|---|

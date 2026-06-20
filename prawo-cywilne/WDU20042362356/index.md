@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie ustawy - Kodeks postępowania cywilnego
+# Ustawa z dnia 24 września 2004 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 24 września 2004 r.*
 

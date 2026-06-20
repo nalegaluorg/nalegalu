@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Państwowym Ratownictwie Medycznym
+# Ustawa z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym
 
 *USTAWA z dnia 8 września 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-10-20 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text.pdf) |
-
-Art. 51–56. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1813,6 +1811,8 @@ Art. 51–56. (pominięte)
 2. Zakup, o którym mowa w ust. 1, może być również finansowany albo dofinansowywany ze środków europejskich w rozumieniu art. 2 pkt 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 51–56.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe, dostosowujące i końcowe
 

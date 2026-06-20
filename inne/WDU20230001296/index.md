@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 czerwca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 
 | Pole | Wartość |
 |---|---|

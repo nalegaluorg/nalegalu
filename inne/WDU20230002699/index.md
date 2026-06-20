@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o doręczeniach elektronicznych
+# Ustawa z dnia 12 grudnia 2023 r. o zmianie ustawy o doręczeniach elektronicznych
 
 *USTAWA z dnia 12 grudnia 2023 r.*
 

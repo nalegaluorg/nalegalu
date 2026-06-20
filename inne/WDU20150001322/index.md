@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Agencji Mienia Wojskowego
+# Ustawa z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego
 
 *USTAWA z dnia 10 lipca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-09-07 |
 | Ostatnia zmiana | 2025-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1322/text.pdf) |
-
-Art. 102–119. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1046,9 +1044,7 @@ Art. 102–119. (pominięte)
 
 5. Agencja zażąda zwrotu kwoty równej pomniejszeniu udzielonemu na podstawie ust. 2 pkt 1 lub 2, jeżeli nabywca lokalu mieszkalnego, o którym mowa w ust. 1, przed upływem 5 lat od dnia jego nabycia zbył ten lokal lub wykorzystał na inne cele niż mieszkalne.
 
-6. Do sprzedaży lokali mieszkalnych nie stosuje się pomniejszeń określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami i ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz.
-
-- **2039)** .
+6. Do sprzedaży lokali mieszkalnych nie stosuje się pomniejszeń określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami i ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039).
 
 7. Na wniosek nabywcy lokalu mieszkalnego należność z tytułu sprzedaży może być rozłożona na raty. Pierwszą ratę w wysokości 10 % należności wnosi się przed zawarciem umowy notarialnej, pozostałe raty można rozłożyć na okres do 5 lat, oprocentowane w wysokości 5 % w stosunku rocznym od kwoty pozostałej do spłaty. Wierzytelność Agencji w stosunku do nabywcy z tego tytułu podlega zabezpieczeniu, w tym w szczególności zabezpieczeniu hipotecznemu na sprzedawanym lokalu mieszkalnym.
 
@@ -1273,6 +1269,8 @@ Art. 102–119. (pominięte)
 **Art. 101.** O sposobie zagospodarowania nieruchomości Skarbu Państwa stanowiących lotniska wojskowe, nieujętych w wykazie wydanym na podstawie art. 94 ust. 4, przez inne podmioty niż jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, decyduje Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw transportu. Przepis stosuje się odpowiednio do lądowisk cywilnych.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 102–119.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe, dostosowujące i końcowe
 

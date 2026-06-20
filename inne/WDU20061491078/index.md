@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadku koronnym oraz ustawy o ochronie informacji niejawnych
+# Ustawa z dnia 22 lipca 2006 r. o zmianie ustawy o świadku koronnym oraz ustawy o ochronie informacji niejawnych
 
 *USTAWA z dnia 22 lipca 2006 r.*
 

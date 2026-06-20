@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych rozwiązaniach zapewniających poprawę jakości i dostępności świadczeń opieki zdrowotnej
+# Ustawa z dnia 15 września 2017 r. o szczególnych rozwiązaniach zapewniających poprawę jakości i dostępności świadczeń opieki zdrowotnej
 
 *USTAWA z dnia 15 września 2017 r.*
 

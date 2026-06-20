@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o doradztwie podatkowym
+# Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o doradztwie podatkowym
 
 *USTAWA z dnia 12 czerwca 2008 r.*
 

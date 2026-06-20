@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r.
+# Ustawa z dnia 19 lipca 2019 r. o szczególnych uprawnieniach osób poszkodowanych w przypadku wyczerpania sumy gwarancyjnej ustalonej na podstawie przepisów obowiązujących przed dniem 1 stycznia 2006 r.
 
 *USTAWA z dnia 19 lipca 2019 r.*
 

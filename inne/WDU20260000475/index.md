@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o publicznym transporcie zbiorowym
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o publicznym transporcie zbiorowym
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

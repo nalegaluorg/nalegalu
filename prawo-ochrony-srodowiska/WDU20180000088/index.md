@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Ochrony Środowiska oraz ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 14 grudnia 2017 r.*
 

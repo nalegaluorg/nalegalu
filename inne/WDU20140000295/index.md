@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej
+# Ustawa z dnia 7 lutego 2014 r. o udziale zagranicznych funkcjonariuszy lub pracowników we wspólnych operacjach lub wspólnych działaniach ratowniczych na terytorium Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 7 lutego 2014 r.*
 
@@ -199,7 +199,9 @@ source: pdf
 
 **Art. 19.** Zagraniczni funkcjonariusze lub pracownicy biorący udział we wspólnej operacji lub wspólnym działaniu ratowniczym są uprawnieni do ulg przy przejazdach środkami publicznego transportu zbiorowego przysługujących funkcjonariuszom Straży Granicznej określonych w ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295).
 
-**Art. 20.** Należności za świadczenia zdrowotne udzielane przez podmioty lecznicze zagranicznym funkcjonariuszom lub pracownikom, którzy są obywatelami państw niebędących członkami UE lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA), biorącym udział we wspólnej operacji lub wspólnym działaniu ratowniczym pokrywane są w ramach limitu wydatków przewidzianych w części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, chyba że przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych stanowią inaczej. Art. 21–24. (pominięte)
+**Art. 20.** Należności za świadczenia zdrowotne udzielane przez podmioty lecznicze zagranicznym funkcjonariuszom lub pracownikom, którzy są obywatelami państw niebędących członkami UE lub Europejskiego Stowarzyszenia Wolnego Handlu (EFTA), biorącym udział we wspólnej operacji lub wspólnym działaniu ratowniczym pokrywane są w ramach limitu wydatków przewidzianych w części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, chyba że przepisy wiążących Rzeczpospolitą Polską umów międzynarodowych stanowią inaczej.
+
+**Art. 21–24.** (pominięte)
 
 **Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

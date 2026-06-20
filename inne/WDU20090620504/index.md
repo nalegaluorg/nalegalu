@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie imprez masowych
+# Ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych
 
 *USTAWA z dnia 20 marca 2009 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2009-04-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.pdf) |
-
-Art. 69–77. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -926,6 +924,8 @@ Art. 69–77. (pominięte)
 #### Rozdział 9a
 
 #### Rozdział 10 Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
+
+**Art. 69–77.** (pominięte)
 
 **Art. 77a.** (utracił moc)
 

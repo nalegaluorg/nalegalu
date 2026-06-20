@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym
+# Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym
 
 *USTAWA z dnia 24 lutego 2022 r.*
 

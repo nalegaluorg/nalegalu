@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
+# Ustawa z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
 
 *USTAWA z dnia 24 lipca 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-08-27 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1240/text.pdf) |
-
-Art. 51–82. (pominięte)
 
 #### Rozdział 1 Cele i zadania Rady Dialogu Społecznego
 
@@ -622,6 +620,8 @@ Art. 51–82. (pominięte)
 5. (uchylony)
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 51–82.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad oraz trybu ustalania i wypłaty odszkodowań za szkody poniesione w związku z akcjami zwalczania klęsk żywiołowych.
+# Rozporządzenie Rady Ministrów z dnia 8 czerwca 1999 r. w sprawie zasad oraz trybu ustalania i wypłaty odszkodowań za szkody poniesione w związku z akcjami zwalczania klęsk żywiołowych.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o księgach wieczystych i hipotece
+# Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o księgach wieczystych i hipotece
 
 *USTAWA z dnia 24 maja 2013 r.*
 

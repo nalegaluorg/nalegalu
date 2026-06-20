@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o gospodarce opakowaniami i odpadami opakowaniowymi
+# Ustawa z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi
 
 *USTAWA z dnia 13 czerwca 2013 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2013-08-06 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000888) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/888/text.pdf) |
-
-Art. 63–71. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -764,7 +762,23 @@ Art. 63–71. (pominięte)
 
 2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawkę opłaty recyklingowej, o której mowa w art. 40a, kierując się koniecznością trwałego zmniejszenia zużycia toreb na zakupy z tworzywa sztucznego oraz mając na uwadze ich negatywny wpływ na środowisko, a także akceptowalny społecznie poziom stawki opłaty recyklingowej.
 
-**Art. 40c.** Pobrana opłata recyklingowa jest wnoszona na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do 15 dnia miesiąca następującego po kwartale, w którym została pobrana. Art. 40ca. 1. W przypadku gdy przedsiębiorca prowadzący jednostkę handlu detalicznego lub hurtowego nie wniósł, pobranej od nabywających torby na zakupy z tworzywa sztucznego, opłaty recyklingowej albo wniósł opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu opłaty recyklingowej, stosując stawkę opłaty obowiązującą w roku kalendarzowym, w którym ten przedsiębiorca był obowiązany pobrać opłatę recyklingową. 2. W przypadku niewykonania decyzji, o której mowa w ust. 1, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę recyklingową w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty recyklingowej. 3. Termin uiszczenia opłat, o których mowa w ust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja, o której mowa odpowiednio w ust. 1 albo 2, stała się ostateczna. Art. 40cb. 1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej. 2. Wpływy z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek dochodów budżetu państwa, w terminie 10 dni po upływie miesiąca, w którym wpłynęły. 3. Wpływy z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej w wysokości 1 % stanowią dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej i obsługę administracyjną systemu poboru tych opłat.
+**Art. 40c.** Pobrana opłata recyklingowa jest wnoszona na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do 15 dnia miesiąca następującego po kwartale, w którym została pobrana.
+
+**Art. 40ca.**
+
+1. W przypadku gdy przedsiębiorca prowadzący jednostkę handlu detalicznego lub hurtowego nie wniósł, pobranej od nabywających torby na zakupy z tworzywa sztucznego, opłaty recyklingowej albo wniósł opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu opłaty recyklingowej, stosując stawkę opłaty obowiązującą w roku kalendarzowym, w którym ten przedsiębiorca był obowiązany pobrać opłatę recyklingową.
+
+2. W przypadku niewykonania decyzji, o której mowa w ust. 1, w terminie 14 dni od dnia, w którym decyzja ta stała się ostateczna, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę recyklingową w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty recyklingowej.
+
+3. Termin uiszczenia opłat, o których mowa w ust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja, o której mowa odpowiednio w ust. 1 albo 2, stała się ostateczna.
+
+**Art. 40cb.**
+
+1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej.
+
+2. Wpływy z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek dochodów budżetu państwa, w terminie 10 dni po upływie miesiąca, w którym wpłynęły.
+
+3. Wpływy z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej w wysokości 1 % stanowią dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu opłaty recyklingowej oraz dodatkowej opłaty recyklingowej i obsługę administracyjną systemu poboru tych opłat.
 
 **Art. 40d.** W sprawach dotyczących opłaty recyklingowej oraz dodatkowej opłaty recyklingowej stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
@@ -1333,6 +1347,8 @@ Art. 63–71. (pominięte)
 **Art. 62.** Orzekanie w sprawach o czyny, o których mowa w art. 59–61, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 63–71.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe, dostosowujące i końcowe
 

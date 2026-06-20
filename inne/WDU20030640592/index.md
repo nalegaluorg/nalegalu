@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kształtowaniu ustroju rolnego Kierując się zasadą, że gospodarstwa rodzinne, zgodnie z Konstytucją Rzeczypospolitej Polskiej, stanowią podstawę ustroju rolnego Rzeczypospolitej Polskiej, dążąc do wzmocnienia ochrony i trwałego rozwoju tych gospodarstw, mając na względzie potrzebę zapewnienia właściwego zagospodarowania ziemi rolnej na terytorium Rzeczypospolitej Polskiej, w trosce o bezpieczeństwo żywnościowe obywateli, a także pragnąc wspierać zrównoważone rolnictwo i działalność rolniczą oraz sprzyjać rozwojowi obszarów wiejskich, jako element spójnej polityki rolnej państwa, uchwala się niniejszą ustawę.
+# Ustawa z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego
 
 *USTAWA z dnia 11 kwietnia 2003 r.*
 
@@ -46,12 +46,7 @@ source: pdf
     - **e)** w których grunty, oznaczone w ewidencji gruntów i budynków jako grunty pod stawami, stanowią co najmniej 70 % powierzchni nieruchomości,
     - **f)** nabytych na podstawie art. 6 ustawy z dnia 24 lutego 1989 r. o zmianie ustawy o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin oraz o zmianie ustawy o podatku rolnym (Dz. U. poz. 53);
 
-- **2)** udziałów we współwłasności nieruchomości, o których mowa w pkt 1. [Art. 1b. Przepisów ustawy, z zastrzeżeniem art. 9a, nie stosuje się do nieruchomości rolnych położonych w granicach administracyjnych miast, jeżeli:
-- **1)** w stosunku do tych nieruchomości została podjęta:
-    - **a)** uchwała o ustaleniu lokalizacji inwestycji mieszkaniowej w rozumieniu ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2024 r. poz. 195 oraz z 2025 r. poz. 527 i 1077) lub
-    - **b)** uchwała o ustaleniu lokalizacji inwestycji towarzyszącej w rozumieniu ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących;
-
-- **2)** zbycie następuje w celu realizacji inwestycji mieszkaniowej lub inwestycji towarzyszącej w rozumieniu ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących.]
+- **2)** udziałów we współwłasności nieruchomości, o których mowa w pkt 1.
 
 **Art. 1c.** Przepisów ustawy nie stosuje się do nabycia nieruchomości rolnej do Zasobu, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834), oraz do gruntów, które zostały zbyte z tego Zasobu albo wniesione do spółki jako aport, w celu realizacji inwestycji mieszkaniowej lub realizacji uzbrojenia technicznego, w rozumieniu przepisów ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości – położonych w granicach administracyjnych miast.
 
@@ -273,7 +268,9 @@ source: pdf
 
 - **1)** nieruchomości rolnej nabytej przez Skarb Państwa lub jednostkę samorządu terytorialnego;
 - **2)** wchodzących w skład nabytej nieruchomości rolnej gruntów objętych umową dzierżawy opatrzoną przed dniem 30 kwietnia 2016 r. datą pewną – przez okres obowiązywania tej umowy;
-- **3)** budynku mieszkalnego wraz z gruntami, których powierzchnia użytków rolnych jest mniejsza niż 1 ha – obciążonych służebnością dożywotniego zamieszkiwania i użytkowania. Art. 2ba. Zgoda, o której mowa w art. 2a ust. 4 oraz art. 2b ust. 3, jest ważna rok od dnia, w którym decyzja ją wyrażająca stała się ostateczna.
+- **3)** budynku mieszkalnego wraz z gruntami, których powierzchnia użytków rolnych jest mniejsza niż 1 ha – obciążonych służebnością dożywotniego zamieszkiwania i użytkowania.
+
+**Art. 2ba.** Zgoda, o której mowa w art. 2a ust. 4 oraz art. 2b ust. 3, jest ważna rok od dnia, w którym decyzja ją wyrażająca stała się ostateczna.
 
 **Art. 2c.** Przepisy ustawy dotyczące nabycia nieruchomości rolnej stosuje się odpowiednio do nabycia:
 
@@ -506,9 +503,7 @@ source: pdf
 - **4)** wykonywała pracę związaną z prowadzeniem działalności rolniczej w charakterze członka spółdzielni produkcji rolnej, lub
 - **5)** odbyła staż, o którym mowa w art. 114 i art. 119 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), obejmujący wykonywanie czynności związanych z prowadzeniem działalności rolniczej.
 
-3a. Za staż pracy, o którym mowa w ust. 2, uznaje się również okres pracy w indywidualnym gospodarstwie rolnym potwierdzony zaświadczeniem wydanym na podstawie przepisów ustawy z dnia 20 lipca 1990 r. o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego stażu pracy (Dz. U. poz.
-
-- **310)** .
+3a. Za staż pracy, o którym mowa w ust. 2, uznaje się również okres pracy w indywidualnym gospodarstwie rolnym potwierdzony zaświadczeniem wydanym na podstawie przepisów ustawy z dnia 20 lipca 1990 r. o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego stażu pracy (Dz. U. poz. 310).
 
 4. Przy ustalaniu powierzchni użytków rolnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 5 ust. 2 i 3.
 
@@ -600,31 +595,7 @@ source: pdf
 - **1)** w okresie, o którym mowa w art. 2b ust. 1, nie podjął lub zaprzestał prowadzenia gospodarstwa rolnego, a w przypadku osoby fizycznej – osobistego prowadzenia gospodarstwa rolnego, w skład którego weszła nabyta nieruchomość rolna,
 - **2)** nie wykonuje zobowiązania, o którym mowa w art. 2a ust. 4 pkt 1 lit. b, pkt 2 lit. b i c lub pkt 3 lit. c i d,
 - **3)** nie wykorzystuje nieruchomości na cele rolnicze, w przypadku, o którym mowa w art. 2a ust. 4 pkt 4 lit. b,
-- **4)** nie rozpocznie albo nie zrealizuje inwestycji w terminach wskazanych w art. 2a ust. 4 pkt 5 lit. b oraz c – Krajowy Ośrodek może wystąpić do sądu o nabycie własności tej nieruchomości przez Krajowy Ośrodek działający na rzecz Skarbu Państwa, za zapłatą ceny odpowiadającej jej wartości rynkowej określonej zgodnie z przepisami o gospodarce nieruchomościami, z uwzględnieniem jej obciążeń, według stanu z chwili jej nabycia przez nabywcę. [Art. 9a. 1. Notariusz sporządzający umowę przeniesienia własności nieruchomości, o której mowa w art. 1b, jest obowiązany do przekazania wypisu aktu notarialnego obejmującego umowę przenoszącą własność nieruchomości rolnej do właściwego ze względu na położenie nieruchomości dyrektora oddziału terenowego Krajowego Ośrodka w terminie 14 dni od dnia zawarcia umowy.
-
-2. Umowa, o której mowa w ust. 1, zawiera pouczenie o możliwości nabycia przez Krajowy Ośrodek nieruchomości w przypadku, o którym mowa w ust. 3.
-
-3. Jeżeli nabywca nieruchomości, o której mowa w art. 1b:
-
-- **1)** w terminie 2 lat od dnia zawarcia umowy przeniesienia własności nieruchomości, o której mowa w art. 1b:
-    - **a)** w przypadku, o którym mowa w pkt 1 – nie uzyskał pozwolenia na budowę zgodnie z uchwałą o ustaleniu lokalizacji inwestycji mieszkaniowej lub uchwały o ustaleniu lokalizacji inwestycji towarzyszącej,
-    - **b)** w przypadku, o którym mowa w pkt 2 – nie uzyskał uchwały o ustaleniu lokalizacji inwestycji mieszkaniowej lub uchwały o ustaleniu lokalizacji inwestycji towarzyszącej oraz nie uzyskał pozwolenia na budowę zgodnie z tą uchwałą,
-
-- **2)** w terminie 5 lat od dnia uzyskania ostatecznej decyzji o pozwoleniu na budowę nie zrealizował i nie oddał do użytkowania: o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących – Krajowy Ośrodek może wystąpić do sądu o nabycie własności tej nieruchomości przez Krajowy Ośrodek działający na rzecz Skarbu Państwa, za zapłatą ceny odpowiadającej jej wartości rynkowej określonej zgodnie z przepisami o gospodarce nieruchomościami, z uwzględnieniem jej obciążeń.
-    - **a)** w przypadku inwestycji składającej się z więcej niż jednego budynku mieszkalnego – co najmniej 50 % budynków mieszkalnych wchodzących w skład inwestycji lub
-    - **b)** infrastruktury towarzyszącej w rozumieniu ustawy z dnia 5 lipca 2018 r.
-
-4. Terminy, o których mowa w ust. 3 pkt 1 lub 2, mogą być, na wniosek inwestora, przedłużone przez Krajowy Ośrodek nie dłużej jednak niż o rok, licząc od dnia upływu tych terminów, jeżeli nie mogły zostać dotrzymane z przyczyn niezależnych od inwestora.
-
-5. Ostateczne rozstrzygnięcia, o których mowa w ust. 3 pkt 1, organy je wydające przekazują nie później niż w terminie 3 dni od dnia ich podjęcia do właściwego ze względu na położenie nieruchomości dyrektora oddziału terenowego Krajowego Ośrodka.
-
-6. (uchylony)
-
-7. (uchylony)
-
-8. (uchylony)
-
-9. Przepisy ust. 1–5 stosuje się odpowiednio do nabycia udziałów lub ich części we współwłasności nieruchomości, o których mowa w art. 1b.]
+- **4)** nie rozpocznie albo nie zrealizuje inwestycji w terminach wskazanych w art. 2a ust. 4 pkt 5 lit. b oraz c – Krajowy Ośrodek może wystąpić do sądu o nabycie własności tej nieruchomości przez Krajowy Ośrodek działający na rzecz Skarbu Państwa, za zapłatą ceny odpowiadającej jej wartości rynkowej określonej zgodnie z przepisami o gospodarce nieruchomościami, z uwzględnieniem jej obciążeń, według stanu z chwili jej nabycia przez nabywcę.
 
 **Art. 9b.** Zwalnia się Krajowy Ośrodek z opłat sądowych w sprawach cywilnych dotyczących spraw wynikających z ustawy.
 

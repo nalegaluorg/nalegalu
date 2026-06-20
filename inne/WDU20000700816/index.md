@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 26 maja 2000 r. o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 26 maja 2000 r.*
 

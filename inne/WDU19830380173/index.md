@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o narodowym zasobie archiwalnym i archiwach
+# Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
 
 *USTAWA z dnia 14 lipca 1983 r.*
 
@@ -912,7 +912,11 @@ source: pdf
 - **1)** archiwa państwowe;
 - **2)** Stowarzyszenie Archiwistów Polskich.
 
-3. Działalność, o której mowa w ust. 1, może być wykonywana tylko przez przedsiębiorcę będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej. Art. 51aa. (uchylony) Art. 51ab. Związki rewizyjne zrzeszające spółdzielnie oraz Krajowa Rada Spółdzielcza przechowują dokumentację wytworzoną przez zlikwidowane spółdzielnie i organizacje spółdzielcze w sposób określony w przepisach wydanych na podstawie art. 129 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730, 1080 i 1100).
+3. Działalność, o której mowa w ust. 1, może być wykonywana tylko przez przedsiębiorcę będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej.
+
+**Art. 51aa.** (uchylony)
+
+**Art. 51ab.** Związki rewizyjne zrzeszające spółdzielnie oraz Krajowa Rada Spółdzielcza przechowują dokumentację wytworzoną przez zlikwidowane spółdzielnie i organizacje spółdzielcze w sposób określony w przepisach wydanych na podstawie art. 129 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2018 r. poz. 1285 oraz z 2019 r. poz. 730, 1080 i 1100).
 
 **Art. 51b.** Organem prowadzącym rejestr jest marszałek województwa właściwy ze względu na miejsce wykonywania działalności objętej wpisem. Rejestr może być prowadzony w systemie informatycznym.
 
@@ -942,7 +946,11 @@ source: pdf
 - **2)** oznaczenie miejsca i datę złożenia oświadczenia;
 - **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
 
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Art. 51ca. 1. Marszałek województwa jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 51c ust. 2.
+4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie, o którym mowa w ust. 2, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 51ca.**
+
+1. Marszałek województwa jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 51c ust. 2.
 
 2. Jeżeli marszałek województwa nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy marszałek województwa wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -956,7 +964,9 @@ source: pdf
 
 2. W skład zarządu przedsiębiorcy nie mogą wchodzić osoby, które były karane za przestępstwa przeciwko wiarygodności dokumentów lub mieniu.
 
-**Art. 51e.** Wpisowi do rejestru podlegają dane określone w art. 51c ust. 1 pkt 1–6 oraz informacja o postawieniu przedsiębiorcy w stan likwidacji lub ogłoszeniu jego upadłości. Art. 51ea. Marszałek województwa prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+**Art. 51e.** Wpisowi do rejestru podlegają dane określone w art. 51c ust. 1 pkt 1–6 oraz informacja o postawieniu przedsiębiorcy w stan likwidacji lub ogłoszeniu jego upadłości.
+
+**Art. 51ea.** Marszałek województwa prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
 
 **Art. 51f.**
 
@@ -990,7 +1000,11 @@ source: pdf
 
 5. Marszałek województwa zawiadamia Naczelnego Dyrektora Archiwów Państwowych o zmianie danych wymienionych w ust. 4 pkt 1–4 w terminie miesiąca od dnia powzięcia o nich wiadomości.
 
-6. Przedsiębiorca przekazuje do centrali Zakładu Ubezpieczeń Społecznych oraz Naczelnemu Dyrektorowi Archiwów Państwowych wykaz pracodawców, których dokumentację przedsiębiorca przejął w danym miesiącu kalendarzowym, oraz okres, z jakiego ta dokumentacja pochodzi, w terminie do końca następnego miesiąca kalendarzowego. Art. 51ga. 1. Marszałek województwa wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+6. Przedsiębiorca przekazuje do centrali Zakładu Ubezpieczeń Społecznych oraz Naczelnemu Dyrektorowi Archiwów Państwowych wykaz pracodawców, których dokumentację przedsiębiorca przejął w danym miesiącu kalendarzowym, oraz okres, z jakiego ta dokumentacja pochodzi, w terminie do końca następnego miesiąca kalendarzowego.
+
+**Art. 51ga.**
+
+1. Marszałek województwa wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 51c ust. 2, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez marszałka województwa terminie;
@@ -1018,7 +1032,11 @@ source: pdf
 
 4. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
 
-5. Przy określaniu kosztów przejęcia, ewidencjonowania, przechowywania i konserwacji dokumentacji przepisy art. 51p ust. 7–9 oraz art. 51z ust. 4 i 5 stosuje się odpowiednio. Art. 51ha. 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51ga ust. 1.
+5. Przy określaniu kosztów przejęcia, ewidencjonowania, przechowywania i konserwacji dokumentacji przepisy art. 51p ust. 7–9 oraz art. 51z ust. 4 i 5 stosuje się odpowiednio.
+
+**Art. 51ha.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51ga ust. 1.
 
 2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 51ca ust. 2.
 
@@ -1066,7 +1084,9 @@ source: pdf
 
 1. Dokumentacja powinna być przechowywana w warunkach zapewniających jej należytą ochronę przed zniszczeniem i kradzieżą.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, warunki, w jakich dokumentacja może być przechowywana, z uwzględnieniem w szczególności jej ochrony przed wilgocią, zmianami temperatury oraz szkodliwym oddziaływaniem światła. Art. 51na. Na żądanie osoby, której dokumentacja dotyczy, przedsiębiorca:
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, warunki, w jakich dokumentacja może być przechowywana, z uwzględnieniem w szczególności jej ochrony przed wilgocią, zmianami temperatury oraz szkodliwym oddziaływaniem światła.
+
+**Art. 51na.** Na żądanie osoby, której dokumentacja dotyczy, przedsiębiorca:
 
 - **1)** przekaże kopie lub odpisy tej dokumentacji drogą pocztową lub w inny wskazany przez żądającego sposób, pod wskazany przez niego adres, powiększając kwotę należności za usługę o poniesione koszty tego przekazania, albo
 - **2)** zapewni żądającemu wgląd w dotyczącą go dokumentację w miejscu znajdującym się na terytorium Rzeczypospolitej Polskiej.
@@ -1104,7 +1124,15 @@ source: pdf
 
 **Art. 51r.** W przypadkach, o których mowa w art. 51p ust. 1 i 3–5, wraz z dokumentacją jest przekazywana pozostała dokumentacja o czasowym okresie przechowywania.
 
-**Art. 51s.** Dokumentacja przekazywana do dalszego przechowywania w trybie określonym w art. 51p ust. 1 lub 3–5 powinna być przed przekazaniem uporządkowana; do porządkowania dokumentacji stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2, z wyłączeniem obowiązku opatrywania poszczególnych stron dokumentacji kolejnym numerem. Art. 51sa. Marszałek województwa, o którym mowa w art. 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru. Art. 51sb. 1. Przedsiębiorca, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru, podlega administracyjnej karze pieniężnej w wysokości do 100 000 zł. 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji, marszałek województwa, o którym mowa w art. 51b, na podstawie wyników kontroli.
+**Art. 51s.** Dokumentacja przekazywana do dalszego przechowywania w trybie określonym w art. 51p ust. 1 lub 3–5 powinna być przed przekazaniem uporządkowana; do porządkowania dokumentacji stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2, z wyłączeniem obowiązku opatrywania poszczególnych stron dokumentacji kolejnym numerem.
+
+**Art. 51sa.** Marszałek województwa, o którym mowa w art. 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru.
+
+**Art. 51sb.**
+
+1. Przedsiębiorca, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru, podlega administracyjnej karze pieniężnej w wysokości do 100 000 zł.
+
+2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji, marszałek województwa, o którym mowa w art. 51b, na podstawie wyników kontroli.
 
 **Art. 51t.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 

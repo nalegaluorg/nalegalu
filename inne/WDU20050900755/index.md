@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Kazimierza Wielkiego w Bydgoszczy
+# Ustawa z dnia 21 kwietnia 2005 r. o utworzeniu Uniwersytetu Kazimierza Wielkiego w Bydgoszczy
 
 *USTAWA z dnia 21 kwietnia 2005 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy - Ordynacja podatkowa - w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców oraz ustawy - Ordynacja Podatkowa - w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 3 lutego 2001 r.*
 
@@ -44,9 +44,7 @@ source: pdf
 
 2. Minister właściwy do spraw wewnętrznych odmawia wydania zezwolenia, o którym mowa w ust. 1, jeżeli jest to uzasadnione względami polityki społecznej, bezpieczeństwa publicznego lub zdrowia społeczeństwa.
 
-3. Przepis ust. 1 nie dotyczy obywateli Wspólnoty działających w Rzeczypospolitej Polskiej na zasadzie samozatrudnienia w rozumieniu Układu Europejskiego ustanawiającego stowarzyszenie między Rzecząpospolitą Polską, z jednej strony, a Wspólnotami Europejskimi i ich Państwami Członkowskimi, z drugiej strony, sporządzonego w Brukseli dnia 16 grudnia 1991 r. (Dz.U. z 1994 r. Nr 11, poz. 38, z 1995 r. Nr 63, poz. 324 i 326, z 1997 r. Nr 104, poz. 662, z 1999 r. Nr 30, poz. 288 oraz z 2000 r. Nr 21, poz.
-
-- **263)** .
+3. Przepis ust. 1 nie dotyczy obywateli Wspólnoty działających w Rzeczypospolitej Polskiej na zasadzie samozatrudnienia w rozumieniu Układu Europejskiego ustanawiającego stowarzyszenie między Rzecząpospolitą Polską, z jednej strony, a Wspólnotami Europejskimi i ich Państwami Członkowskimi, z drugiej strony, sporządzonego w Brukseli dnia 16 grudnia 1991 r. (Dz.U. z 1994 r. Nr 11, poz. 38, z 1995 r. Nr 63, poz. 324 i 326, z 1997 r. Nr 104, poz. 662, z 1999 r. Nr 30, poz. 288 oraz z 2000 r. Nr 21, poz. 263).
 
 4. Przepisu ust. 1 nie stosuje się w przypadku nabywania zasobów naturalnych, gruntów rolnych i leśnych.”;
 

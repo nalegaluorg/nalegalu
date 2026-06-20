@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o izbach rolniczych
+# Ustawa z dnia 14 grudnia 1995 r. o izbach rolniczych.
 
 *USTAWA z dnia 14 grudnia 1995 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1996-01-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960010003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/3/text.pdf) |
-
-Art. 50–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -637,6 +635,8 @@ Art. 50–55. (pominięte)
 **Art. 49.** W razie powtarzającego się naruszania prawa przez zarząd izby, minister właściwy do spraw rolnictwa może zwołać, na wniosek wojewody, walne zgromadzenie w celu rozpatrzenia jego wniosku o odwołanie zarządu i powołanie nowego zarządu.
 
 #### Rozdział 8 Przepisy szczególne, przejściowe i końcowe
+
+**Art. 50–55.** (pominięte)
 
 **Art. 56.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obronie Ojczyzny W trosce o bezpieczeństwo naszej Ojczyzny, kierując się konstytucyjnym obowiązkiem Jej obrony nałożonym na każdego obywatela Rzeczypospolitej Polskiej oraz pragnąc zagwarantować wszystkim, którzy realizują ten obowiązek, jak najlepsze warunki, w szczególności żołnierzom, którzy pełnią służbę wojskową dla dobra Rzeczypospolitej Polskiej, a od których służba ta wymaga zdyscyplinowania, lojalności i poświęcenia, stanowi się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obronie Ojczyzny
 
 *USTAWA z dnia 11 marca 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-06-25 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/825/text.pdf) |
-
-Art. 698–776. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -132,9 +130,7 @@ Art. 698–776. (pominięte)
 - **3)** pełnienia służby w jednostkach zmilitaryzowanych,
 - **4)** wykonywania świadczeń na rzecz obrony – na zasadach i w zakresie określonych w ustawie.
 
-3. W ramach obowiązku obrony Ojczyzny osoby, o których mowa w ust. 1, są obowiązane do pełnienia służby w obronie cywilnej, na zasadach określonych w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz.
-
-- **1907)** .
+3. W ramach obowiązku obrony Ojczyzny osoby, o których mowa w ust. 1, są obowiązane do pełnienia służby w obronie cywilnej, na zasadach określonych w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).
 
 4. Spełnianie obowiązku obrony Ojczyzny w formach, o których mowa w ust. 2, ma pierwszeństwo przed służbą w obronie cywilnej.
 
@@ -9450,6 +9446,8 @@ Art. 698–776. (pominięte)
 ### DZIAŁ XXVI Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 698–776.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i dostosowujące
 

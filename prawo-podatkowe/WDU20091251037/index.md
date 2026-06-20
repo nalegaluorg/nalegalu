@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 17 lipca 2009 r. o zmianie ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA Opracowano z dnia 17 lipca 2009 r. stawie: r.*
 

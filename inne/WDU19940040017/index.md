@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l)wart. 1:
+# Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy - Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz o zmianie niektórych innych ustaw.
 
 *USTAWA o zmianie ustawy - Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz o zmianie niektórych innych ustaw W ustawie z dnia 22 marca 1991 r. - Prawo o publicznym obrocie papierami wartoŚciowymi i funduszach powierniczych (Dz.U. Nr 35, poz. 155 1 Nr 103, poz. 447 oraz z 1993 r. Nr 44, poz. 202) wprowadza się następujące zmiany:*
 
