@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo o miarach
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o miarach
 
 | Pole | Wartość |
 |---|---|
@@ -179,7 +179,10 @@ Prawo o miarach
 - **1)** siedzibie organu administracji miar;
 - **2)** punkcie legalizacyjnym;
 - **3)** miejscu zainstalowania lub użytkowania przyrządu pomiarowego, jeżeli wynika to z wymagań;
-- **4)** miejscu wykonywania legalizacji pierwotnej lub legalizacji ponownej przez podmiot, któremu Prezes udzielił upoważnienia do wykonywania legalizacji pierwotnej lub legalizacji ponownej. Art. 8ca. W przypadku gdy prawna kontrola metrologiczna przyrządu pomiarowego jest przeprowadzana w miejscu jego zainstalowania lub użytkowania i jest to niezbędne dla prawidłowego sprawdzenia przyrządu pomiarowego, organ administracji miar albo podmiot upoważniony wzywa wnioskodawcę do:
+- **4)** miejscu wykonywania legalizacji pierwotnej lub legalizacji ponownej przez podmiot, któremu Prezes udzielił upoważnienia do wykonywania legalizacji pierwotnej lub legalizacji ponownej.
+
+**Art. 8ca.** W przypadku gdy prawna kontrola metrologiczna przyrządu pomiarowego jest przeprowadzana w miejscu jego zainstalowania lub użytkowania i jest to niezbędne dla prawidłowego sprawdzenia przyrządu pomiarowego, organ administracji miar albo podmiot upoważniony wzywa wnioskodawcę do:
+
 - **1)** udostępnienia specjalistycznego sprzętu, w szczególności wzorców miary wraz z dowodami spójności pomiarowej, i odpowiednich środków technicznych;
 - **2)** udostępnienia materiałów lub substancji niezbędnych do przeprowadzenia sprawdzenia przyrządu pomiarowego;
 - **3)** dostarczenia dodatkowych egzemplarzy przyrządu pomiarowego reprezentujących typ, który ma być zatwierdzony, jego elementów lub urządzeń dodatkowych w przypadkach badania typu;

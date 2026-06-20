@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy - Prawo o ruchu drogowym
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

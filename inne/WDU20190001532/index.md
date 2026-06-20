@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie rekompensat dla sektorów i podsektorów energochłonnych
+# Ustawa z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -43,9 +43,7 @@ source: pdf
 
 **Art. 4.**
 
-1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
-
-- **572)** .
+1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 2. Od decyzji Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, wydanych w postępowaniach, o których mowa w ust. 1, przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów.
 

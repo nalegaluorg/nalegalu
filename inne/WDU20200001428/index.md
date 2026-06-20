@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich
+# Ustawa z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich
 
 *USTAWA z dnia 14 sierpnia 2020 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej, ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw
+# Ustawa z dnia 5 września 2016 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej, ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 września 2016 r.*
 

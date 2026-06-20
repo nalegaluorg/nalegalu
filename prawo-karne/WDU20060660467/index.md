@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 17 lutego 2006 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA Opracowano z dnia 17 lutego 2006 r. stawie: r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniach własnościowych w przemyśle cukrowniczym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniach własnościowych w przemyśle cukrowniczym
 
 | Pole | Wartość |
 |---|---|

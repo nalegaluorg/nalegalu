@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kształtowaniu ustroju rolnego
+# Ustawa z dnia 9 listopada 2017 r. o zmianie ustawy o kształtowaniu ustroju rolnego
 
 *USTAWA z dnia 9 listopada 2017 r.*
 

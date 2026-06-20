@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
+# Ustawa z dnia 12 lipca 2013 r. o zmianie ustawy o usługach płatniczych oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 sierpnia 2001 r.*
 

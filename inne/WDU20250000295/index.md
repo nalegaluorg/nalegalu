@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 6 lutego 2025 r.*
 

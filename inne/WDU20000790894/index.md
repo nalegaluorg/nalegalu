@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie trybu pracy Rady Polityki Regionalnej Państwa.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 13 września 2000 r. w sprawie trybu pracy Rady Polityki Regionalnej Państwa.
 
 *ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 13 września 2000 r.*
 

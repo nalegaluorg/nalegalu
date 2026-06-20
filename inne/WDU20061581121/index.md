@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
+# Ustawa z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
 
 *USTAWA z dnia 13 lipca 2006 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2006-09-05 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061581121) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1121/text.pdf) |
-
-Art. 40–42. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -526,6 +524,8 @@ Art. 40–42. (pominięte)
 4. Egzekucja kary pieniężnej wraz z odsetkami, o których mowa w ust. 3, następuje w trybie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 40–42.** (pominięte)
 
 **Art. 43.**
 

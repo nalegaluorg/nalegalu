@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 18 grudnia 2009 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 18 grudnia 2009 r.*
 

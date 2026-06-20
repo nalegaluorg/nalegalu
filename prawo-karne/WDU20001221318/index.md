@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy - Kodeks karny wykonawczy
+# Ustawa z dnia 15 grudnia 2000 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny wykonawczy.
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie budowy portów zewnętrznych
+# Ustawa z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych
 
 *USTAWA z dnia 9 sierpnia 2019 r.*
 
@@ -35,9 +35,7 @@ source: pdf
 
 2. Planowanie, przygotowanie i realizacja inwestycji w zakresie budowy portów zewnętrznych, w tym postępowania z nimi związane, nie mogą naruszać potrzeb obronności i bezpieczeństwa państwa.
 
-3. Ilekroć w ustawie jest mowa o ustawie o portach, rozumie się przez to ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz.
-
-- **1796)** .
+3. Ilekroć w ustawie jest mowa o ustawie o portach, rozumie się przez to ustawę z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796).
 
 4. Użyte w ustawie określenia oznaczają:
 

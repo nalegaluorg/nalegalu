@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
+# Ustawa z dnia 8 listopada 2013 r. o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej
 
 *USTAWA z dnia 8 listopada 2013 r.*
 

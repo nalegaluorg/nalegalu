@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych
+# Ustawa z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.
 
 *USTAWA z dnia 30 października 2002 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2002-11-28 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021991673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1673/text.pdf) |
-
-Art. 38–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -267,15 +265,13 @@ Art. 38–45. (pominięte)
 - **1)** otrzymania orzeczenia lekarza orzecznika lub komisji lekarskiej;
 - **2)** wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.] <2. Decyzję, o której mowa w ust. 1, z zastrzeżeniem art. 6 ust. 4, Zakład wydaje w terminie 14 dni od dnia:
 - **1)** otrzymania orzeczenia wydanego na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych przez lekarza orzecznika;
-- **2)** wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.>
+- **2)** wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.
 
 3. Jeżeli w wyniku decyzji zostało ustalone prawo do jednorazowego odszkodowania oraz jego wysokość, Zakład dokonuje z urzędu wypłaty odszkodowania w terminie 30 dni od dnia wydania decyzji.
 
-4. Od decyzji przysługuje odwołanie w trybie i na zasadach określonych w przepisach o systemie ubezpieczeń społecznych. [Art. 16. 1. Stały lub długotrwały uszczerbek na zdrowiu oraz jego związek z wypadkiem przy pracy lub chorobą zawodową ustala lekarz orzecznik lub komisja lekarska. W przypadku ustalania prawa do świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 5–8, lekarz orzecznik lub komisja lekarska ustala również niezdolność do pracy oraz jej związek z wypadkiem przy pracy lub chorobą zawodową, a także związek śmierci ubezpieczonego lub rencisty z takim wypadkiem lub chorobą.
+4. Od decyzji przysługuje odwołanie w trybie i na zasadach określonych w przepisach o systemie ubezpieczeń społecznych. < Art. 16. 1. Orzeczenie o stałym lub długotrwałym uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową wydaje lekarz orzecznik na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych.
 
-2. Przy ustalaniu stałego lub długotrwałego uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową stosuje się odpowiednio przepisy ustawy o emeryturach i rentach z FUS dotyczące trybu orzekania o niezdolności do pracy.] < Art. 16. 1. Orzeczenie o stałym lub długotrwałym uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową wydaje lekarz orzecznik na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych.
-
-2. W przypadku ustalania prawa do świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 5–8, lekarz orzecznik ustala również niezdolność do pracy oraz jej związek z wypadkiem przy pracy lub chorobą zawodową, a także związek śmierci ubezpieczonego lub rencisty z takim wypadkiem lub chorobą.>
+2. W przypadku ustalania prawa do świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 5–8, lekarz orzecznik ustala również niezdolność do pracy oraz jej związek z wypadkiem przy pracy lub chorobą zawodową, a także związek śmierci ubezpieczonego lub rencisty z takim wypadkiem lub chorobą.
 
 **Art. 17.**
 
@@ -683,6 +679,8 @@ Art. 38–45. (pominięte)
 - **5)** wykorzystania dofinansowania niezgodnie z przeznaczeniem.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 38–45.** (pominięte)
 
 **Art. 46.** Do wniosków o jednorazowe odszkodowanie zgłoszonych przed dniem wejścia w życie ustawy stosuje się przepisy obowiązujące w dniu wydania orzeczenia o uszczerbku na zdrowiu lub stwierdzającego związek śmierci z wypadkiem albo chorobą zawodową.
 

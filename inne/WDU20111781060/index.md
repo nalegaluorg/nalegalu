@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o krajowym systemie ekozarządzania i audytu (EMAS)
+# Ustawa z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS)
 
 *USTAWA z dnia 15 lipca 2011 r.*
 
@@ -133,7 +133,9 @@ source: pdf
 
 2. Organy określone w art. 4 ust. 1 są obowiązane do przekazywania Generalnemu Dyrektorowi Ochrony Środowiska informacji, o których mowa w art. 32 ust. 5 rozporządzenia (WE) nr 1221/2009.
 
-**Art. 10.** Polskie Centrum Akredytacji prowadzi akredytację weryfikatorów środowiskowych zgodnie z przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344 oraz z 2022 r. poz. 974) oraz przepisami rozporządzenia (WE) nr 1221/2009. Art. 11–13. (pominięte)
+**Art. 10.** Polskie Centrum Akredytacji prowadzi akredytację weryfikatorów środowiskowych zgodnie z przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344 oraz z 2022 r. poz. 974) oraz przepisami rozporządzenia (WE) nr 1221/2009.
+
+**Art. 11–13.** (pominięte)
 
 **Art. 14.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+# Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe"
 
 *USTAWA z dnia 9 czerwca 2022 r.*
 

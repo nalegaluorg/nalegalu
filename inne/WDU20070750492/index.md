@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 30 marca 2007 r. o zmianie ustawy - Prawo farmaceutyczne oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2007 r.*
 

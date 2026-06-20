@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zwierząt oraz ustawy o utrzymaniu czystości i porządku w gminach
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o ochronie zwierząt oraz ustawy o utrzymaniu czystości i porządku w gminach
 
 *USTAWA z dnia 16 września 2011 r.*
 

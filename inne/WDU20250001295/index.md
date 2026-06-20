@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o medycynie laboratoryjnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o medycynie laboratoryjnej
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 styczn
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 15 września 2022 r.
 o medycynie laboratoryjnej
-Art. 144–151. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2159,6 +2158,8 @@ Art. 144–151. (pominięte)
 **Art. 143.** Jeżeli sprawca czynu, o którym mowa w art. 142 ust. 1, działa w celu osiągnięcia korzyści majątkowej albo wprowadza w błąd co do posiadania takiego uprawnienia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 144–151.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

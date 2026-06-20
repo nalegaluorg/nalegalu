@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA z dnia 11 września 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r.
+# Ustawa z dnia 25 stycznia 2002 r. o zmianie ustawy o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 25 stycznia 2002 r.*
 

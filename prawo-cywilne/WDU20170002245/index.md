@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego, ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 12 października 2017 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 12 października 2017 r.*
 

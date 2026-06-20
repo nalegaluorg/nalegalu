@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe
+# Ustawa z dnia 4 września 2008 r. o zmianie ustawy - Prawo bankowe
 
 *USTAWA Opracowano z dnia 4 września 2008 r. stawie: r.*
 

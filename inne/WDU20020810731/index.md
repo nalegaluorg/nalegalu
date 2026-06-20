@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawy o Policji, ustawy o cudzoziemcach i ustawy o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw
+# Ustawa z dnia 23 maja 2002 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawy o Policji, ustawy o cudzoziemcach i ustawy o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 23 maja 2002 r.*
 

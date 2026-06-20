@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie określenia wykazu instytucji i jednostek organizacyjnych podległych lub podporządkowanych właściwym ministrom i centralnym organom administracji rządowej, wojewodom i innym terenowym organom administracji rządowej albo przez nich nadzorowanych, przekazywanych określonym jednostkom samorządu terytorialnego.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 2 czerwca 1999 r. zmieniające rozporządzenie w sprawie określenia wykazu instytucji i jednostek organizacyjnych podległych lub podporządkowanych właściwym ministrom i centralnym organom administracji rządowej, wojewodom i innym terenowym organom administracji rządowej albo przez nich nadzorowanych, przekazywanych określonym jednostkom samorządu terytorialnego.
 
 | Pole | Wartość |
 |---|---|

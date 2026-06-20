@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej
+# Ustawa z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 13 maja 1994 r.*
 

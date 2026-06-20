@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 9 kwietnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny, ustawy o postępowaniu w sprawach nieletnich oraz ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy - Kodeks karny, ustawy o postępowaniu w sprawach nieletnich oraz ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 23 marca 2017 r.*
 

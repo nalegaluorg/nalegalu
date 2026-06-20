@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniu społecznym rolników
+# Ustawa z dnia 12 września 1996 r. o zmianie ustawy o ubezpieczeniu społecznym rolników.
 
 *USTAWA z dnia 12 września 1996 r.*
 

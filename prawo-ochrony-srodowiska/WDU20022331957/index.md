@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo ochrony środowiska i ustawy - Prawo wodne
+# Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo ochrony środowiska i ustawy - Prawo wodne.
 
 *USTAWA z dnia 23 listopada 2002 r.*
 

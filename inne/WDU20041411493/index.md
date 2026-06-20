@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o miarach
+# Ustawa z dnia 27 maja 2004 r. o zmianie ustawy - Prawo o miarach
 
 *USTAWA z dnia 27 maja 2004 r.*
 

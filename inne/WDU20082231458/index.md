@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pracownikach samorządowych
+# Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych
 
 *USTAWA z dnia 21 listopada 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-12-18 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1458/text.pdf) |
-
-Art. 44–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -484,6 +482,8 @@ Art. 44–52. (pominięte)
 3. Pracodawca obowiązany jest powiadomić na piśmie pracownika, o którym mowa w ust. 1, odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 44–52.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe
 

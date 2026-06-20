@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnianiu osób pozbawionych wolności
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zatrudnianiu osób pozbawionych wolności
 
 | Pole | Wartość |
 |---|---|
@@ -160,7 +160,9 @@ source: pdf
 
 **Art. 10.** (uchylony)
 
-**Art. 11.** Istniejące w dniu wejścia w życie ustawy przedsiębiorstwa państwowe podległe Ministrowi Sprawiedliwości działające przy zakładach karnych, spółki prawa handlowego powstałe z przekształcenia tych przedsiębiorstw lub utworzone przez te przedsiębiorstwa oraz gospodarstwa pomocnicze przy zakładach karnych stają się przywięziennymi zakładami pracy w rozumieniu art. 3 ust. 2 niniejszej ustawy. Art. 12–15. (pominięte)
+**Art. 11.** Istniejące w dniu wejścia w życie ustawy przedsiębiorstwa państwowe podległe Ministrowi Sprawiedliwości działające przy zakładach karnych, spółki prawa handlowego powstałe z przekształcenia tych przedsiębiorstw lub utworzone przez te przedsiębiorstwa oraz gospodarstwa pomocnicze przy zakładach karnych stają się przywięziennymi zakładami pracy w rozumieniu art. 3 ust. 2 niniejszej ustawy.
+
+**Art. 12–15.** (pominięte)
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw
+# Ustawa z dnia 7 października 2022 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 października 2022 r.*
 

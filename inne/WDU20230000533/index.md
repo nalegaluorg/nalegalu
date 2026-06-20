@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu
+# Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu
 
 *USTAWA z dnia 9 marca 2023 r.*
 

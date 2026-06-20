@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko
+# Ustawa z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko
 
 *USTAWA z dnia 3 października 2008 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2008-11-07 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081991227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.pdf) |
-
-Art. 137–152. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -1032,7 +1030,8 @@ Art. 137–152. (pominięte)
 
 1. Postanowienie, o którym mowa w art. 63 ust. 1, wydaje się po zasięgnięciu opinii:
 
-- **1)** regionalnego dyrektora ochrony środowiska; [2) organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29, oraz uchwały, o której mowa w art. 72 ust. 1b;] <2) organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29;>
+- **1)** regionalnego dyrektora ochrony środowiska;
+- **2)** organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29;
 - **3)** organu właściwego do wydania pozwolenia zintegrowanego na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, jeżeli planowane przedsięwzięcie kwalifikowane jest jako instalacja, o której mowa w art. 201 ust. 1 tej ustawy;
 - **4)** organu właściwego do wydania oceny wodnoprawnej, o której mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 
@@ -1197,7 +1196,8 @@ Art. 137–152. (pominięte)
 
 1. Postanowienie, o którym mowa w art. 69 ust. 3, wydaje się po zasięgnięciu opinii:
 
-- **1)** regionalnego dyrektora ochrony środowiska; [2) organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29, oraz uchwały, o której mowa w art. 72 ust. 1b;] <2) organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29;>
+- **1)** regionalnego dyrektora ochrony środowiska;
+- **2)** organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29;
 - **3)** organu właściwego do wydania pozwolenia zintegrowanego na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, jeżeli planowane przedsięwzięcie kwalifikowane jest jako instalacja, o której mowa w art. 201 ust. 1 tej ustawy;
 - **4)** organu właściwego do wydania oceny wodnoprawnej, o której mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **5)** Prezesa Państwowej Agencji Atomistyki w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej – w przypadku obiektów jądrowych i składowisk odpadów promieniotwórczych w rozumieniu przepisów ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.
@@ -1507,7 +1507,8 @@ Art. 137–152. (pominięte)
 
 - **1)** uzgadnia warunki realizacji przedsięwzięcia z regionalnym dyrektorem ochrony środowiska i, w przypadku gdy przedsięwzięcie jest realizowane na obszarze morskim, z dyrektorem urzędu morskiego;
 - **1a)** uzgadnia warunki realizacji przedsięwzięcia z ministrem właściwym do spraw środowiska w zakresie istnienia rozwiązań alternatywnych realizacji przedsięwzięcia oraz przewidywanych działań mających na celu kompensację przyrodniczą negatywnych oddziaływań na środowisko przyrodnicze parku narodowego – w przypadku inwestycji liniowych celu publicznego w ich części przebiegającej przez obszar parku narodowego lub w przypadku realizowanych na obszarze parku narodowego inwestycji celu publicznego z zakresu łączności publicznej o nieliniowym charakterze lub inwestycji celu publicznego o nieliniowym charakterze związanych z ochroną ludności przed powodzią i suszą;
-- **1b)** uzgadnia warunki realizacji przedsięwzięcia z Generalnym Dyrektorem Ochrony Środowiska w zakresie istnienia rozwiązań alternatywnych realizacji przedsięwzięcia oraz przewidywanych działań mających na celu kompensację przyrodniczą negatywnych oddziaływań na środowisko przyrodnicze rezerwatu przyrody – w przypadku inwestycji liniowych celu publicznego w ich części przebiegającej przez obszar rezerwatu przyrody lub w przypadku realizowanych na obszarze rezerwatu przyrody inwestycji celu publicznego z zakresu łączności publicznej o nieliniowym charakterze lub inwestycji celu publicznego o nieliniowym charakterze związanych z ochroną ludności przed powodzią i suszą; [2) zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29, oraz uchwały, o której mowa w art. 72 ust. 1b, chyba że – w przypadku przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko – organ ten wyraził wcześniej opinię, że nie zachodzi potrzeba przeprowadzenia oceny oddziaływania na środowisko, lub nie wydał opinii, o której mowa w art. 64 ust. 1 pkt 2;] <2) zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29, chyba że – w przypadku przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko – organ ten wyraził wcześniej opinię, że nie zachodzi potrzeba przeprowadzenia oceny oddziaływania na środowisko, lub nie wydał opinii, o której mowa w art. 64 ust. 1 pkt 2;>
+- **1b)** uzgadnia warunki realizacji przedsięwzięcia z Generalnym Dyrektorem Ochrony Środowiska w zakresie istnienia rozwiązań alternatywnych realizacji przedsięwzięcia oraz przewidywanych działań mających na celu kompensację przyrodniczą negatywnych oddziaływań na środowisko przyrodnicze rezerwatu przyrody – w przypadku inwestycji liniowych celu publicznego w ich części przebiegającej przez obszar rezerwatu przyrody lub w przypadku realizowanych na obszarze rezerwatu przyrody inwestycji celu publicznego z zakresu łączności publicznej o nieliniowym charakterze lub inwestycji celu publicznego o nieliniowym charakterze związanych z ochroną ludności przed powodzią i suszą;
+- **2)** zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1–3a, 10–19 i 21–29, chyba że – w przypadku przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko – organ ten wyraził wcześniej opinię, że nie zachodzi potrzeba przeprowadzenia oceny oddziaływania na środowisko, lub nie wydał opinii, o której mowa w art. 64 ust. 1 pkt 2;
 - **3)** zasięga opinii organu właściwego do wydania pozwolenia zintegrowanego na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, jeżeli planowane przedsięwzięcie kwalifikowane jest jako instalacja, o której mowa w art. 201 ust. 1 tej ustawy;
 - **4)** uzgadnia warunki realizacji przedsięwzięcia z organem właściwym w sprawach ocen wodnoprawnych, o których mowa w przepisach ustawy z dnia 20 lipca 2017 r. – Prawo wodne, chyba że – w przypadku przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko – organ ten wyraził wcześniej opinię, że nie zachodzi potrzeba przeprowadzenia oceny oddziaływania na środowisko;
 - **5)** zasięga opinii Prezesa Państwowej Agencji Atomistyki w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej – w przypadku obiektów jądrowych i składowisk odpadów promieniotwórczych w rozumieniu przepisów ustawy z dnia 29 listopada 2000 r. – Prawo atomowe.
@@ -2545,7 +2546,11 @@ Art. 137–152. (pominięte)
 
 2. Przepis ust. 1 pkt 1 stosuje się, jeżeli warunki, wymogi oraz obowiązki określone w decyzji o środowiskowych uwarunkowaniach nie zostały uwzględnione w decyzjach, o których mowa w art. 86.
 
-3. Karę pieniężną, w drodze decyzji, wymierza wojewódzki inspektor ochrony środowiska, biorąc pod uwagę liczbę i wagę stwierdzonych naruszeń. Art. 136aa. 1. W przypadku gdy organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie realizuje obowiązków informacyjnych, o których mowa w art. 33a, albo realizuje te obowiązki w sposób nieprowadzący do skutecznego podania informacji do publicznej wiadomości, powodując ograniczenie dostępu społeczeństwa do informacji o środowisku i konieczność wydłużenia postępowania, organ ten podlega karze pieniężnej w wysokości 2000 zł za każdy dzień:
+3. Karę pieniężną, w drodze decyzji, wymierza wojewódzki inspektor ochrony środowiska, biorąc pod uwagę liczbę i wagę stwierdzonych naruszeń.
+
+**Art. 136aa.**
+
+1. W przypadku gdy organ gminy właściwej miejscowo ze względu na przedmiot postępowania w sprawie decyzji o środowiskowych uwarunkowaniach nie realizuje obowiązków informacyjnych, o których mowa w art. 33a, albo realizuje te obowiązki w sposób nieprowadzący do skutecznego podania informacji do publicznej wiadomości, powodując ograniczenie dostępu społeczeństwa do informacji o środowisku i konieczność wydłużenia postępowania, organ ten podlega karze pieniężnej w wysokości 2000 zł za każdy dzień:
 
 - **1)** opóźnienia w stosunku do terminu, o którym mowa w art. 33a ust. 1 pkt 2;
 - **2)** opóźnienia w stosunku do terminu, o którym mowa w art. 33a ust. 3 pkt 1;
@@ -2569,6 +2574,8 @@ Art. 137–152. (pominięte)
 ### DZIAŁ VIII Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 137–152.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i końcowe
 

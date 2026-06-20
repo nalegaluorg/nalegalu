@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa, ustawy – Kodeks karny skarbowy oraz ustawy – Prawo celne
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy - Ordynacja podatkowa, ustawy - Kodeks karny skarbowy oraz ustawy - Prawo celne
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

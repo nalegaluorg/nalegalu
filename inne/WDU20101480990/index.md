@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 24 czerwca 2010 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 24 czerwca 2010 r.*
 

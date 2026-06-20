@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
 
 *USTAWA z dnia 22 lipca 2010 r.*
 

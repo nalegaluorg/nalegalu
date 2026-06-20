@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe
+# Ustawa z dnia 17 marca 2021 r. o zmianie ustawy - Prawo oświatowe
 
 *USTAWA z dnia 17 marca 2021 r.*
 

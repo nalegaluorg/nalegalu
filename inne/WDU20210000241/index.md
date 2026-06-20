@@ -40,6 +40,5 @@ w sprawie sposobu wydawania i określenia wzoru poświadczenia potwierdzającego
 § 4. Poświadczenia wydane na podstawie poprzednio obowiązujących przepisów zachowują ważność przez okres przysługiwania świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej, wskazany w poświadczeniu.
 § 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2005 r.
 WZÓR POŚWIADCZENIA POTWIERDZAJĄCEGO PRAWO DO ŚWIADCZEŃ OPIEKI ZDROWOTNEJ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ Narodowy Fundusz Zdrowia
-
-##### Oddział Wojewódzki w .................................................
+Oddział Wojewódzki w .................................................
 

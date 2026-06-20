@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych
+# Ustawa z dnia 21 lutego 1997 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych.
 
 *USTAWA z dnia 21 lutego 1997 r.*
 

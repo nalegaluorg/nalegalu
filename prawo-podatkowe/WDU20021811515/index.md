@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych
+# Ustawa z dnia 11 października 2002 r. o zmianie ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych.
 
 *USTAWA z dnia 11 października 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# tj. Dz.U. 2016 poz. 2011 do ustawy Dz.U. 2016 poz. 188 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 listopada 2016 r.
+# Ustawa z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r.
 
 | Pole | Wartość |
 |---|---|

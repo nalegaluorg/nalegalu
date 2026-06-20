@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zdrowia przed następstwami korzystania z solarium
+# Ustawa z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium
 
 *USTAWA z dnia 15 września 2017 r.*
 

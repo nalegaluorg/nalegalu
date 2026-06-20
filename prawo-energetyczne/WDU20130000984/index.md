@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 lipca 2013 r.*
 
@@ -1061,7 +1061,11 @@ source: pdf
 - **1)** stwierdza zasadność odwołania i przekazuje sprawę Prezesowi UDT do ponownego rozpoznania albo
 - **2)** oddala odwołanie.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 2, osobie lub podmiotowi przysługuje skarga do sądu administracyjnego, za pośrednictwem Komitetu, w terminie 30 dni od dnia doręczenia zawiadomienia o oddaleniu odwołania; w postępowaniu przed sądem stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji. Art. 20za. 1. Mając na względzie bezstronny i niezależny przebieg postępowań w sprawie akredytacji organizatorów szkoleń oraz certyfikacji instalatorów dla danego rodzaju odnawialnego źródła energii wymienionego w art. 20h ust. 2, a także zapewnienie właściwego dokumentowania, ewidencjonowania i bezpiecznego przechowywania ich dokumentacji, pobiera się opłaty za:
+2. W przypadku, o którym mowa w ust. 1 pkt 2, osobie lub podmiotowi przysługuje skarga do sądu administracyjnego, za pośrednictwem Komitetu, w terminie 30 dni od dnia doręczenia zawiadomienia o oddaleniu odwołania; w postępowaniu przed sądem stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji.
+
+**Art. 20za.**
+
+1. Mając na względzie bezstronny i niezależny przebieg postępowań w sprawie akredytacji organizatorów szkoleń oraz certyfikacji instalatorów dla danego rodzaju odnawialnego źródła energii wymienionego w art. 20h ust. 2, a także zapewnienie właściwego dokumentowania, ewidencjonowania i bezpiecznego przechowywania ich dokumentacji, pobiera się opłaty za:
 
 - **1)** przeprowadzenie egzaminu, która nie może być niższa niż 5% i wyższa niż 20% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa GUS na podstawie przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującej w dniu ogłoszenia w Biuletynie Informacji Publicznej Urzędu Dozoru Technicznego terminu egzaminu;
 - **2)** wydanie certyfikatu, która nie może być wyższa niż 5% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa GUS na podstawie przepisów ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, obowiązującej w dniu złożenia wniosku o wydanie certyfikatu;
@@ -1073,7 +1077,11 @@ source: pdf
 
 3. Opłaty, o których mowa w ust. 1 pkt 1–3 i 5, nie podlegają zwrotowi w razie odmowy przez Prezesa UDT wydania certyfikatu, przedłużenia ważności certyfikatu, albo udzielenia akredytacji.
 
-4. Opłaty, o których mowa w ust. 1, stanowią przychód Urzędu Dozoru Technicznego. Art. 20zb. 1. Prezes UDT prowadzi w systemie informatycznym rejestry:
+4. Opłaty, o których mowa w ust. 1, stanowią przychód Urzędu Dozoru Technicznego.
+
+**Art. 20zb.**
+
+1. Prezes UDT prowadzi w systemie informatycznym rejestry:
 
 - **1)** certyfikowanych instalatorów, wydanych certyfikatów i ich wtórników;
 - **2)** akredytowanych organizatorów szkoleń.
@@ -1099,11 +1107,17 @@ source: pdf
 
 6. Rejestr, o którym mowa w ust. 1 pkt 2, jest jawny.
 
-7. Do rejestru, o którym mowa w ust. 1 pkt 2, wpisuje się podmioty, o których mowa w art. 20w. Art. 20zc. 1. Prezes UDT administruje i przetwarza dane zawarte w rejestrach w trybie i na zasadach określonych w odrębnych przepisach.
+7. Do rejestru, o którym mowa w ust. 1 pkt 2, wpisuje się podmioty, o których mowa w art. 20w.
+
+**Art. 20zc.**
+
+1. Prezes UDT administruje i przetwarza dane zawarte w rejestrach w trybie i na zasadach określonych w odrębnych przepisach.
 
 2. W przypadku wygaśnięcia ważności certyfikatu lub jego cofnięcia, Prezes UDT po 5 latach od daty wygaśnięcia lub cofnięcia certyfikatu usuwa z rejestru, o którym mowa w art. 20zb ust. 1 pkt 1, dane dotyczące instalatora.
 
-3. W przypadku wygaśnięcia akredytacji organizatora szkoleń lub jej cofnięcia, Prezes UDT po 3 miesiącach od daty wygaśnięcia lub cofnięcia akredytacji usuwa dane organizatora szkoleń z rejestru, o którym mowa w art. 20zb ust. 1 pkt 2. Art. 20zd. Dokumentacja dotycząca postępowania w sprawie wydania certyfikatów, ich wtórników oraz udzielenia akredytacji jest przechowywana przez Prezesa UDT przez okres 5 lat.”;
+3. W przypadku wygaśnięcia akredytacji organizatora szkoleń lub jej cofnięcia, Prezes UDT po 3 miesiącach od daty wygaśnięcia lub cofnięcia akredytacji usuwa dane organizatora szkoleń z rejestru, o którym mowa w art. 20zb ust. 1 pkt 2.
+
+**Art. 20zd.** Dokumentacja dotycząca postępowania w sprawie wydania certyfikatów, ich wtórników oraz udzielenia akredytacji jest przechowywana przez Prezesa UDT przez okres 5 lat.”;
 
 - **25)** w art. 21:
     - **a)** ust. 2a otrzymuje brzmienie: „2a. Prezesa URE powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa URE.”,

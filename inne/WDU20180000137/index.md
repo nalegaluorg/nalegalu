@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 12 grudnia 2017 r. o zmianie ustawy o podatku akcyzowym
 
 *USTAWA z dnia 12 grudnia 2017 r.*
 

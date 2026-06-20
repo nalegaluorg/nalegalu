@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskim Rejestrze Statków
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Polskim Rejestrze Statków
 
 *USTAWA z dnia 26 października 2000 r.*
 
@@ -48,9 +48,7 @@ source: pdf
 
 1. Zbycie należących do Skarbu Państwa akcji PRS SA następuje na zasadach określonych w ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933, z późn. zm. ), chyba że niniejsza ustawa stanowi inaczej.
 
-2. Do zbycia akcji PRS SA stosuje się przepisy ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2023 r. poz.
-
-- **343)** .
+2. Do zbycia akcji PRS SA stosuje się przepisy ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2023 r. poz. 343).
 
 **Art. 5.** Komercjalizacji PRS dokonuje minister właściwy do spraw Skarbu Państwa w terminie nieprzekraczającym 3 miesięcy od dnia wejścia w życie ustawy.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja
+# Ustawa z dnia 7 czerwca 2001 r. o ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja
 
 *USTAWA z dnia 7 czerwca 2001 r.*
 

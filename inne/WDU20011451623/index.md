@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2001 oraz niektórych innych ustaw
+# Ustawa z dnia 14 listopada 2001 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2001 oraz niektórych innych ustaw.
 
 *USTAWA z dnia 14 listopada 2001 r.*
 

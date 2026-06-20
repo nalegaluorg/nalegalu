@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie dodatków mieszkaniowych.
+# Rozporządzenie Rady Ministrów z dnia 27 kwietnia 1999 r. w sprawie dodatków mieszkaniowych.
 
 | Pole | Wartość |
 |---|---|

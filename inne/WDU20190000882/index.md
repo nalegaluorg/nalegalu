@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia wysokości równoważników pieniężnych przysługujących za wyżywienie żołnierzom pełniącym służbę w jednostkach podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji przypadków i zasad ich otrzymywania.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 1999 r. w sprawie określenia wysokości równoważników pieniężnych przysługujących w zamian za wyżywienie żołnierzom pełniącym służbę w jednostkach wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji oraz przypadków i zasad ich otrzymywania.
 
 | Pole | Wartość |
 |---|---|

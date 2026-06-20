@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o scalaniu i wymianie gruntów
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o scalaniu i wymianie gruntów
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

@@ -252,7 +252,9 @@ source: pdf
 - **6)** międzynarodowy znak informacyjny;
 - **7)** bieżącą numerację.
 
-2. Przepis ust. 1 stosuje się odpowiednio do nagrań radiowych i telewizyjnych oraz kronik filmowych. Art. 28–30. (uchylone)
+2. Przepis ust. 1 stosuje się odpowiednio do nagrań radiowych i telewizyjnych oraz kronik filmowych.
+
+**Art. 28–30.** (uchylone)
 
 #### Rozdział 5 Sprostowanie
 

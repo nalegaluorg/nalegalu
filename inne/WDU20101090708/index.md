@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Inspekcji Pracy
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o Państwowej Inspekcji Pracy
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
+# Ustawa z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego
 
 *USTAWA z dnia 27 lutego 2003 r.*
 

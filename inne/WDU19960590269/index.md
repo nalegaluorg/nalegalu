@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa
+# Ustawa z dnia 25 kwietnia 1996 r. o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa.
 
 *USTAWA z dnia 25 kwietnia 1996 r.*
 

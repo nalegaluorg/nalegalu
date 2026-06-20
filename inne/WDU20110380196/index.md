@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawy o rekapitalizacji niektórych instytucji finansowych
+# Ustawa z dnia 1 lutego 2011 r. o zmianie ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawy o rekapitalizacji niektórych instytucji finansowych
 
 *USTAWA z dnia 1 lutego 2011 r.*
 

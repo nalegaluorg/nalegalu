@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o paszach
+# Ustawa z dnia 22 lipca 2006 r. o paszach
 
 *USTAWA z dnia 22 lipca 2006 r.*
 
@@ -220,7 +220,8 @@ source: pdf
 
 - **1)** materiałów wymienionych w załączniku nr III do rozporządzenia nr 767/2009, zwanych dalej „substancjami zabronionymi”;
 - **2)** pasz zawierających substancję lub produkt, z wyłączeniem czynników patogennych obecnych w paszy lub na jej powierzchni, które stanowią potencjalne zagrożenie dla zdrowia ludzi lub zwierząt, lub dla środowiska oraz mogą niekorzystnie wpływać na produkcję zwierzęcą, zwanych dalej „substancjami niepożądanymi”, w ilości przekraczającej ich dopuszczalną zawartość;
-- **3)** materiałów paszowych i mieszanek paszowych zawierających pozostałości pestycydów w ilości przekraczającej ich dopuszczalną zawartość; <4) pasz genetycznie zmodyfikowanych oraz organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego.>
+- **3)** materiałów paszowych i mieszanek paszowych zawierających pozostałości pestycydów w ilości przekraczającej ich dopuszczalną zawartość;
+- **4)** pasz genetycznie zmodyfikowanych oraz organizmów genetycznie zmodyfikowanych przeznaczonych do użytku paszowego.
 
 2. Zabrania się wytwarzania mieszanek paszowych z materiałów paszowych, które zawierają substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość.
 
@@ -366,7 +367,9 @@ source: pdf
 
 8. Główny Lekarz Weterynarii umieszcza, na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii, listę podmiotów, którym można przekazać niezużyte lub przeterminowane pasze lecznicze oraz produkty pośrednie.
 
-9. Lista, o której mowa w ust. 8, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1. Art. 23–27. (uchylone)
+9. Lista, o której mowa w ust. 8, zawiera indywidualny numer identyfikacyjny, o którym mowa w art. 19 ust. 2 rozporządzenia nr 183/2005, oraz dane, o których mowa w art. 10 ust. 2 pkt 1.
+
+**Art. 23–27.** (uchylone)
 
 **Art. 28.**
 
@@ -623,8 +626,8 @@ source: pdf
 
 - **1)** wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt pasze niespełniające warunków określonych w rozporządzeniu nr 183/2005, przepisach wydanych w trybie tego rozporządzenia lub ustawie,
 - **2)** wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt dodatki paszowe niespełniające warunków określonych w art. 3 ust. 1 lub ust. 3–5, art. 10 ust. 1 lub ust. 7, art. 11, art. 12 ust. 1 lub art. 16 ust. 5 rozporządzenia nr 1831/2003,
-- **3)** wprowadza do obrotu lub stosuje jako dodatki paszowe antybiotyki inne niż kokcydiostatyki i histomonostatyki,
-- **4)** wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt pasze niespełniające warunków określonych w art. 4 lub art. 6 rozporządzenia nr 767/2009, <5) wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt pasze, o których mowa w art. 15 ust. 1 pkt 2–4,>
+- **3)** wprowadza do obrotu lub stosuje jako dodatki paszowe antybiotyki inne niż kokcydiostatyki i histomonostatyki, 4) wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt pasze niespełniające warunków określonych w art. 4 lub art. 6 rozporządzenia nr 767/2009,
+- **5)** wytwarza, wprowadza do obrotu lub stosuje w żywieniu zwierząt pasze, o których mowa w art. 15 ust. 1 pkt 2–4,
 - **6)** wytwarza mieszanki paszowe z materiałów paszowych zawierających substancje niepożądane w ilości przekraczającej ich dopuszczalną zawartość,
 - **7)** wprowadza do obrotu pasze genetycznie zmodyfikowane bez uzyskania zezwolenia, o którym mowa w przepisach rozporządzenia nr 1829/2003, albo dokonuje tej czynności niezgodnie z warunkami określonymi w tym zezwoleniu,
 - **8)** nie wycofuje z obrotu paszy genetycznie zmodyfikowanej określonej w decyzji Komisji Europejskiej albo dokonuje tej czynności niezgodnie z tą decyzją,
@@ -683,7 +686,9 @@ source: pdf
 
 **Art. 53e.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy właściwego powiatowego inspektoratu weterynarii, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
 
-**Art. 53f.** W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111). Art. 54–58. (pominięte)
+**Art. 53f.** W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111).
+
+**Art. 54–58.** (pominięte)
 
 **Art. 59.** Zezwolenia na wytwarzanie pasz leczniczych, wydane na podstawie przepisów dotychczasowych, uważa się za zatwierdzenia zakładów do wytwarzania pasz leczniczych przeznaczonych do obrotu w rozumieniu ustawy.
 

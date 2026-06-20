@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
+# Ustawa z dnia 9 stycznia 2020 r. o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
 
 *USTAWA z dnia 9 stycznia 2020 r.*
 
@@ -128,7 +128,9 @@ source: pdf
 
 3. Pozyskiwanie danych osobowych, o którym mowa w ust. 1, następuje za pośrednictwem systemu teleinformatycznego.
 
-**Art. 15.** W 2020 r. minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa, a w przypadku ministrów będących dysponentami więcej niż jednej części budżetowej również między tymi częściami budżetowymi. Art. 16–19. (pominięte)
+**Art. 15.** W 2020 r. minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa, a w przypadku ministrów będących dysponentami więcej niż jednej części budżetowej również między tymi częściami budżetowymi.
+
+**Art. 16–19.** (pominięte)
 
 **Art. 20.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

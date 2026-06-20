@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# uzupełniające obwieszczenie o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r. oraz w dniu 5 grudnia 2010 r.
+# Obwieszczenie Państwowej Komisji Wyborczej z dnia 20 grudnia 2010 r. uzupełniające obwieszczenie o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 21 listopada 2010 r. oraz w dniu 5 grudniu 2010 r.
 
 *OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 20 grudnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 

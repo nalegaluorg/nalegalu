@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 czerwca 2016 r.
 o działaniach antyterrorystycznych
-Art. 27–58. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -527,6 +526,8 @@ Art. 27–58. (pominięte)
 **Art. 26h.** Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja Szefa ABW, o której mowa w art. 26f ust. 2, stała się prawomocna.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 27–58.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 

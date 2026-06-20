@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie danych osobowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 sierpnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie danych osobowych
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2019-09-19 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001781) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1781/text.pdf) |
-
-Art. 109–157. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -378,7 +376,7 @@ Art. 109–157. (pominięte)
 
 - **1)** usług pośrednictwa danych, o którym mowa w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi) (Dz. Urz. UE L 152 z 03.06.2022, str. 1, z późn. zm. );
 - **2)** rejestracji organizacji altruizmu danych, o którym mowa w art. 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi);
-- **3)** naruszeń obowiązków, o których mowa w art. 5 ust. 14 lub art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi), dotyczących przekazywania danych nieosobowych do państw trzecich.>
+- **3)** naruszeń obowiązków, o których mowa w art. 5 ust. 14 lub art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi), dotyczących przekazywania danych nieosobowych do państw trzecich.
 
 3. Prezesa Urzędu powołuje i odwołuje Sejm Rzeczypospolitej Polskiej za zgodą Senatu Rzeczypospolitej Polskiej.
 
@@ -1021,6 +1019,8 @@ Art. 109–157. (pominięte)
 2. Tej samej karze podlega kto, w związku z toczącym się postępowaniem w sprawie nałożenia administracyjnej kary pieniężnej, nie dostarcza danych niezbędnych do określenia podstawy wymiaru administracyjnej kary pieniężnej lub dostarcza dane, które uniemożliwiają ustalenie podstawy wymiaru administracyjnej kary pieniężnej.
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 109–157.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i dostosowujące
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 
@@ -255,15 +255,16 @@ source: pdf
 
 6e. Liczba punktów odjętych z tytułu odbytego szkolenia nie może być większa od liczby punktów otrzymanych za naruszenie przepisów ruchu drogowego przed jego odbyciem.
 
-6f. Odbycie szkolenia nie powoduje zmniejszenia liczby punktów otrzymanych za naruszenia przepisów ruchu drogowego wobec osoby, która przed jego rozpoczęciem dopuściła się naruszeń, za które suma punktów przekroczyła 24.>
+6f. Odbycie szkolenia nie powoduje zmniejszenia liczby punktów otrzymanych za naruszenia przepisów ruchu drogowego wobec osoby, która przed jego rozpoczęciem dopuściła się naruszeń, za które suma punktów przekroczyła 24.
 
 7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu oraz Ministrem Sprawiedliwości, mając na uwadze dyscyplinowanie i wdrażanie kierujących pojazdami silnikowymi oraz motorowerami do przestrzegania przepisów ustawy oraz zapobieganie wielokrotnemu naruszaniu przepisów ruchu drogowego, określi, w drodze rozporządzenia:
 
 - **1)** warunki i sposób prowadzenia ewidencji, o której mowa w ust. 1;
 - **2)** sposób punktowania i liczbę punktów odpowiadających naruszeniu przepisów ruchu drogowego popełnionemu przez osobę uprawnioną do kierowania pojazdem silnikowym lub motorowerem;
 - **3)** tryb występowania z wnioskami o kontrolne sprawdzenie kwalifikacji;
-- **4)** sposób i tryb udzielania osobie wpisanej do ewidencji informacji i wydawania zaświadczeń o dotyczących tej osoby naruszeniach wpisanych do ewidencji i przypisanych im punktach; <5) warunki i sposób oraz program szkolenia, o którym mowa w ust. 6a;
-- **6)** wzór zaświadczenia o odbyciu szkolenia, o którym mowa w ust. 6a,> <7) naruszenia przepisów ruchu drogowego, za które liczba przyznanych punktów podlega zmniejszeniu po odbyciu szkolenia, o którym mowa w ust. 6a.>
+- **4)** sposób i tryb udzielania osobie wpisanej do ewidencji informacji i wydawania zaświadczeń o dotyczących tej osoby naruszeniach wpisanych do ewidencji i przypisanych im punktach;
+- **5)** warunki i sposób oraz program szkolenia, o którym mowa w ust. 6a; 6) wzór zaświadczenia o odbyciu szkolenia, o którym mowa w ust. 6a,
+- **7)** naruszenia przepisów ruchu drogowego, za które liczba przyznanych punktów podlega zmniejszeniu po odbyciu szkolenia, o którym mowa w ust. 6a.
 
 **Art. 17a.**
 

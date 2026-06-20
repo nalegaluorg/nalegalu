@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia szczegółowych warunków, jakim powinno odpowiadać zgłoszenie zamiaru łączenia przedsiębiorstwo, oraz określenia organów podmiotów zobowiązanych do dokonania tego zgłoszenia.
+# Rozporządzenie Rady Ministrów z dnia 7 grudnia 1999 r. w sprawie określenia szczegółowych warunków, jakim powinno odpowiadać zgłoszenie zamiaru łączenia przedsiębiorców, oraz określenia organów podmiotów zobowiązanych do dokonania tego zgłoszenia.
 
 | Pole | Wartość |
 |---|---|

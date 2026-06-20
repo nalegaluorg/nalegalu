@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie
+# Ustawa z dnia 14 marca 2002 r. z dnia 14 marca 2002 r. o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie.
 
 *USTAWA z dnia 14 marca 2002 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. oraz niektórych innych ustaw
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 
@@ -68,18 +68,28 @@ source: pdf
 
 3. Zmiana programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej, odpowiednio po zatwierdzeniu przez Komisję Europejską albo po poinformowaniu Komisji Europejskiej, jest przekazywana przez ministra właściwego do spraw zabezpieczenia społecznego do wiadomości członkom Rady Ministrów.
 
-4. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw zabezpieczenia społecznego do przyjmowania zmian programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej w zakresie zmian o typograficznym lub redakcyjnym charakterze. Art. 14ki. Minister właściwy do spraw zabezpieczenia społecznego:
+4. Rada Ministrów może, w drodze uchwały, upoważnić ministra właściwego do spraw zabezpieczenia społecznego do przyjmowania zmian programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej w zakresie zmian o typograficznym lub redakcyjnym charakterze.
+
+**Art. 14ki.** Minister właściwy do spraw zabezpieczenia społecznego:
 
 - **1)** podaje do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej program realizowany z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmiany;
 - **2)** ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat o:
     - **a)** zatwierdzeniu przez Komisję Europejską programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmian, jeżeli wymagały zatwierdzenia przez Komisję Europejską,
     - **b)** adresie strony internetowej, na której został zamieszczony program realizowany z wykorzystaniem środków Europejskiego Funduszu Społecznego Plus przeznaczonych na zwalczanie deprywacji materialnej oraz jego zmiany.”;
 
-- **7)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „Rozdział 2aa Plan rozwojowy Art. 14la. 1. Projekt planu rozwojowego opracowuje minister właściwy do spraw rozwoju regionalnego we współpracy z właściwymi ministrami, zarządami województw oraz partnerami społecznymi i gospodarczymi. Projekt planu rozwojowego jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
+- **7)** po rozdziale 2a dodaje się rozdział 2aa w brzmieniu: „Rozdział 2aa Plan rozwojowy
+
+**Art. 14la.**
+
+1. Projekt planu rozwojowego opracowuje minister właściwy do spraw rozwoju regionalnego we współpracy z właściwymi ministrami, zarządami województw oraz partnerami społecznymi i gospodarczymi. Projekt planu rozwojowego jest przyjmowany przez Radę Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw rozwoju regionalnego.
 
 2. Przy opracowywaniu projektu planu rozwojowego uwzględnia się strategie rozwoju, o których mowa w art. 9.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zmiany planu rozwojowego. Art. 14lb. 1. W zakresie, w jakim w ramach planu rozwojowego jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis, zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zmiany planu rozwojowego.
+
+**Art. 14lb.**
+
+1. W zakresie, w jakim w ramach planu rozwojowego jest udzielana pomoc publiczna w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub pomoc de minimis, zastosowanie mają szczegółowe warunki i tryb udzielania pomocy.
 
 2. Pomoc, o której mowa w ust. 1, jest udzielana z zachowaniem zasady niedyskryminacji i przejrzystości, w zakresie niezbędnym do realizacji celów określonych w planie rozwojowym.
 

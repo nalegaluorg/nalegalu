@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych
+# Ustawa z dnia 20 listopada 1999 r. o zmianie ustawy o podatku dochodowym od osób prawnych.
 
 *USTAWA z dnia 20 listopada 1999 r.*
 

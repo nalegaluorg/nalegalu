@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 28 lipca 2005 r.
 o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
-Art. 52–58. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -664,6 +663,8 @@ Art. 52–58. (pominięte)
 **Art. 51.** Orzekanie w sprawach, o których mowa w art. 50, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 52–58.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

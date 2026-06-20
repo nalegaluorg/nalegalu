@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych
 
 *USTAWA Opracowano stawie: z dnia 6 listopada 2008 r. r.*
 

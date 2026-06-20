@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemach homologacji pojazdów oraz ich wyposażenia
+# Ustawa z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 

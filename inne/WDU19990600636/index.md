@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa
+# Ustawa z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
 *USTAWA z dnia 25 czerwca 1999 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1999-07-12 |
 | Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/636/text.pdf) |
-
-Art. 71–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -189,7 +187,7 @@ Art. 71–80. (pominięte)
 
 1c. W przypadku spełniania warunków podlegania ubezpieczeniom społecznym z co najmniej dwóch tytułów do tych ubezpieczeń niezdolność do pracy z powodu choroby dotyczy każdego z tych tytułów, dla których odrębnie wystawia się zwolnienie od pracy. <1d. Jeżeli jednak praca zarobkowa w ramach określonego tytułu może być wykonywana z uwagi na rodzaj tej pracy, na żądanie ubezpieczonego można nie wystawić zwolnienia od pracy z tego tytułu.
 
-1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.>
+1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.
 
 2. Zasiłek chorobowy nie przysługuje w przypadku, gdy zaświadczenie lekarskie zostało sfałszowane.
 
@@ -891,7 +889,7 @@ Art. 71–80. (pominięte)
 **Art. 61b.** [1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony w formie pisemnej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych, na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych.] <1. Postępowanie w sprawie przyznania i wypłaty zasiłku wszczyna się na wniosek złożony:
 
 - **1)** w postaci papierowej lub w postaci elektronicznej – jeżeli płatnikiem zasiłku jest płatnik składek;
-- **2)** w postaci papierowej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych – jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych.> [2. Postępowanie w sprawie przyznania i wypłaty zasiłku chorobowego lub zasiłku opiekuńczego z tytułu opieki nad chorym członkiem rodziny wszczyna się:
+- **2)** w postaci papierowej lub w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych – jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych.
 - **1)** jeżeli płatnikiem zasiłku jest płatnik składek:
     - **a)** posiadający profil informacyjny płatnika składek, na podstawie: – zaświadczenia lekarskiego w formie dokumentu elektronicznego, o którym mowa w art. 55 ust. 1, otrzymanego na tym profilu, – wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego,
     - **b)** nieposiadający profilu informacyjnego płatnika składek – na podstawie wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, przekazanych przez ubezpieczonego;
@@ -912,7 +910,7 @@ Art. 71–80. (pominięte)
 
 - **2)** jeżeli płatnikiem zasiłku jest Zakład Ubezpieczeń Społecznych – na podstawie:
     - **a)** wydruku zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 7, dostarczonych przez ubezpieczonego albo płatnika składek upoważnionego przez ubezpieczonego,
-    - **b)** wniosku, o którym mowa w ust. 1 pkt 2.>
+    - **b)** wniosku, o którym mowa w ust. 1 pkt 2.
 
 3. Wniosek, o którym mowa w ust. 1, zawiera:
 
@@ -922,7 +920,7 @@ Art. 71–80. (pominięte)
 
 5. W przypadku ubezpieczonych, o których mowa w art. 61 ust. 1 pkt 2 lit. a, płatnik składek przekazuje do Zakładu Ubezpieczeń Społecznych wniosek, wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6, albo zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7, wraz z dokumentami niezbędnymi do przyznania i wypłaty zasiłku niezwłocznie, nie później niż w terminie 7 dni od dnia ich otrzymania. <5a. W przypadku, o którym mowa w ust. 5, wnioski oraz dokumenty niezbędne do przyznania i wypłaty zasiłku, stanowiące załącznik do wniosku złożonego w formie dokumentu elektronicznego podpisanego kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych na elektroniczną skrzynkę podawczą Zakładu Ubezpieczeń Społecznych lub na adres do doręczeń elektronicznych, są równoważne pod względem skutków prawnych dokumentowi opatrzonemu przez ubezpieczonego własnoręcznym podpisem.
 
-5b. W przypadku wątpliwości co do zgodności kopii wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku z oryginałem płatnik zasiłku może żądać przedłożenia oryginału wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku.>
+5b. W przypadku wątpliwości co do zgodności kopii wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku z oryginałem płatnik zasiłku może żądać przedłożenia oryginału wniosku o zasiłek lub dokumentów niezbędnych do przyznania i wypłaty zasiłku.
 
 6. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, zakres informacji o okolicznościach mających wpływ na prawo do zasiłku lub jego wysokość, o których mowa w ust. 3 pkt 3, oraz dokumenty niezbędne do przyznania i wypłaty zasiłków, o których mowa w ust. 4, mając na uwadze konieczność zapewnienia sprawnego i terminowego ustalania prawa do zasiłków i dokonywania ich wypłaty.
 
@@ -1123,6 +1121,8 @@ Art. 71–80. (pominięte)
 2. Okoliczności, o których mowa w ust. 1, stwierdza się na podstawie prawomocnego orzeczenia sądu.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 71–80.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
 

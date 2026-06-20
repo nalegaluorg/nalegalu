@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
+# Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 lipca 2025 r.*
 
@@ -115,11 +115,25 @@ source: pdf
 - **3)** cele informatyzacji państwa;
 - **4)** środki i działania służące do realizacji celów informatyzacji państwa;
 - **5)** sposoby i zasady współpracy podmiotów, których dotyczy informatyzacja państwa;
-- **6)** możliwości finansowania działań, o których mowa w pkt 4. Art. 12ab. Strategia jest przyjmowana na okres dziesięcioletni. Art. 12ac. 1. Strategię realizują członkowie Rady Ministrów.
+- **6)** możliwości finansowania działań, o których mowa w pkt 4.
 
-2. Minister właściwy do spraw informatyzacji monitoruje realizację strategii. Art. 12ad. 1. Minister właściwy do spraw informatyzacji we współpracy z innymi członkami Rady Ministrów dokonuje przeglądu strategii co 2 lata.
+**Art. 12ab.** Strategia jest przyjmowana na okres dziesięcioletni.
 
-2. Minister właściwy do spraw informatyzacji sporządza sprawozdanie z przeglądu strategii i przedkłada je Radzie Ministrów w terminie 2 miesięcy od dnia zakończenia przeglądu. Art. 12ae. 1. W urzędzie obsługującym ministra kierującego działem administracji rządowej oraz w Kancelarii Prezesa Rady Ministrów powołuje się pełnomocnika do spraw informatyzacji, zwanego dalej „pełnomocnikiem”. Przepisów art. 4a ust. 1 i 6 nie stosuje się.
+**Art. 12ac.**
+
+1. Strategię realizują członkowie Rady Ministrów.
+
+2. Minister właściwy do spraw informatyzacji monitoruje realizację strategii.
+
+**Art. 12ad.**
+
+1. Minister właściwy do spraw informatyzacji we współpracy z innymi członkami Rady Ministrów dokonuje przeglądu strategii co 2 lata.
+
+2. Minister właściwy do spraw informatyzacji sporządza sprawozdanie z przeglądu strategii i przedkłada je Radzie Ministrów w terminie 2 miesięcy od dnia zakończenia przeglądu.
+
+**Art. 12ae.**
+
+1. W urzędzie obsługującym ministra kierującego działem administracji rządowej oraz w Kancelarii Prezesa Rady Ministrów powołuje się pełnomocnika do spraw informatyzacji, zwanego dalej „pełnomocnikiem”. Przepisów art. 4a ust. 1 i 6 nie stosuje się.
 
 2. Pełnomocnika można powołać w urzędzie innym niż urzędy wymienione w ust. 1, w szczególności w urzędzie obsługującym organ jednostki samorządu terytorialnego.
 
@@ -432,11 +446,19 @@ source: pdf
 
 4. Minister właściwy do spraw informatyzacji może powierzyć zadania związane z utrzymaniem i rozwojem SIST jednostce mu podległej lub przez niego nadzorowanej.
 
-5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji. Art. 20gb. 1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji.
+5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji.
+
+**Art. 20gb.**
+
+1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji.
 
 2. W zawiadomieniu minister właściwy do spraw informatyzacji określa zakres danych objętych inwentaryzacją oraz termin wprowadzania tych danych w SIST nie krótszy niż 14 dni od dnia otrzymania zawiadomienia.
 
-3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny. Art. 20gc. 1. W SIST są przetwarzane w szczególności dane dotyczące:
+3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny.
+
+**Art. 20gc.**
+
+1. W SIST są przetwarzane w szczególności dane dotyczące:
 
 - **1)** systemów teleinformatycznych używanych do realizacji zadań publicznych,
 - **2)** rejestrów publicznych,
@@ -449,7 +471,9 @@ source: pdf
 
 3. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w SIST.
 
-4. Dane osobowe przetwarzane w SIST są wykorzystywane wyłącznie w celu realizacji zadań związanych z inwentaryzacją oraz z funkcjonowaniem w SIST konta podmiotu, o którym mowa w art. 20gb ust. 1, i przechowywane przez okres niezbędny do realizacji tych zadań. Art. 20gd. Minister właściwy do spraw informatyzacji sporządza roczne sprawozdanie z wykonania przez podmioty realizujące zadania publiczne obowiązków, o których mowa w art. 20gb ust. 1, i przedkłada je Radzie Ministrów w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.”;
+4. Dane osobowe przetwarzane w SIST są wykorzystywane wyłącznie w celu realizacji zadań związanych z inwentaryzacją oraz z funkcjonowaniem w SIST konta podmiotu, o którym mowa w art. 20gb ust. 1, i przechowywane przez okres niezbędny do realizacji tych zadań.
+
+**Art. 20gd.** Minister właściwy do spraw informatyzacji sporządza roczne sprawozdanie z wykonania przez podmioty realizujące zadania publiczne obowiązków, o których mowa w art. 20gb ust. 1, i przedkłada je Radzie Ministrów w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.”;
 
 - **23)** w art. 20h w ust. 2 pkt 1 otrzymuje brzmienie: „1) organom administracji rządowej, organom kontroli państwowej i ochrony prawa, sądom, jednostkom organizacyjnym prokuratury, jednostkom samorządu terytorialnego i ich organom, jednostkom budżetowym i samorządowym zakładom budżetowym, samodzielnym publicznym zakładom opieki zdrowotnej oraz spółkom wykonującym działalność leczniczą w rozumieniu przepisów o działalności leczniczej, Zakładowi Ubezpieczeń Społecznych, Kasie Rolniczego Ubezpieczenia Społecznego, Narodowemu Funduszowi Zdrowia, państwowym lub samorządowym osobom prawnym utworzonym na podstawie odrębnych ustaw w celu realizacji zadań publicznych oraz uczelniom,”;
 - **24)** w art. 20j w ust. 8 wyrazy „o którym mowa w art. 2 ust. 1 pkt 1, 2 i 4–8” zastępuje się wyrazami „o którym mowa w art. 20h ust. 2 pkt 1”;

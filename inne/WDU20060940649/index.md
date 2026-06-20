@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
+# Ustawa z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
 
 *USTAWA z dnia 5 kwietnia 2006 r.*
 

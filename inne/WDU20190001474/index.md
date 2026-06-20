@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych oraz ustawy o pracowniczych programach emerytalnych
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

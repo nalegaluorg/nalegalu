@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 21 października 2016 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA z dnia 21 października 2016 r.*
 

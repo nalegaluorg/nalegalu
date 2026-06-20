@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025”, o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2022–2025” oraz o zmianie ustawy o Policji i niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2021 r. o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022-2025", o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2022-2025" oraz o zmianie ustawy o Policji i niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2448/text.pdf) |
-
-Art. 13–20. (pominięte)
 
 #### Rozdział 1 Program modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022–2025
 
@@ -154,6 +152,8 @@ Art. 13–20. (pominięte)
 **Art. 12.** Minister Sprawiedliwości przedstawia Sejmowi Rzeczypospolitej Polskiej, w terminie do dnia 30 kwietnia danego roku, informację o realizacji Programu modernizacji SW za rok poprzedni, a do dnia 31 maja 2026 r. – informację końcową o realizacji Programu modernizacji SW.
 
 #### Rozdział 3 Zmiany w przepisach
+
+**Art. 13–20.** (pominięte)
 
 #### Rozdział 4 Przepisy przejściowe, dostosowujące i końcowe
 

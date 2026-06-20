@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej
+# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej
 
 *USTAWA z dnia 8 stycznia 2010 r.*
 

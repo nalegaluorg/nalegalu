@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o elektromobilności i paliwach alternatywnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o elektromobilności i paliwach alternatywnych
 
 *USTAWA z dnia 11 stycznia 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-08-26 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1289/text.pdf) |
-
-Art. 48–59. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -662,7 +660,7 @@ Art. 48–59. (pominięte)
 - **4)** Generalnego Dyrektora Dróg Krajowych i Autostrad w zakresie pojazdów innych niż wykorzystywane wyłącznie do przewozu osób;
 - **5)** Służby Ochrony Państwa;
 - **6)** Głównego Inspektora Ochrony Środowiska w zakresie pojazdów innych niż wykorzystywane wyłącznie do przewozu osób;
-- **6a)** Ministra Obrony Narodowej oraz instytucji i podmiotów zapewniających realizację zadań w zakresie transportu osób w obsługującym go urzędzie, a także jednostek Sił Zbrojnych Rzeczypospolitej Polskiej;>
+- **6a)** Ministra Obrony Narodowej oraz instytucji i podmiotów zapewniających realizację zadań w zakresie transportu osób w obsługującym go urzędzie, a także jednostek Sił Zbrojnych Rzeczypospolitej Polskiej;
 - **7)** innych podmiotów, w zakresie pojazdów używanych do realizacji ich ustawowych zadań związanych z ochroną ludności, bezpieczeństwem pożarowym oraz utrzymaniem porządku publicznego.
 
 **Art. 35.**
@@ -1024,6 +1022,8 @@ Art. 48–59. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 48–59.** (pominięte)
+
 #### Rozdział 8 Przepisy epizodyczne
 
 **Art. 60.**
@@ -1085,7 +1085,9 @@ Art. 48–59. (pominięte)
 
 12. Program przyłączania, o którym mowa w ust. 11, określa techniczne i ekonomiczne warunki przyłączenia ogólnodostępnych stacji ładowania wskazanych w projekcie planu wraz z przewidywanymi terminami przyłączenia.
 
-**Art. 63.** Zadanie dotyczące sporządzenia planu jest zadaniem zleconym z zakresu administracji rządowej. Art. 64–66. (uchylone)
+**Art. 63.** Zadanie dotyczące sporządzenia planu jest zadaniem zleconym z zakresu administracji rządowej.
+
+**Art. 64–66.** (uchylone)
 
 **Art. 67.** Budowa ogólnodostępnych stacji ładowania wskazanych w planie oraz realizacja przedsięwzięć niezbędnych do przyłączania ich do sieci, w szczególności modernizacja, rozbudowa albo budowa sieci, stanowią cel publiczny w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 

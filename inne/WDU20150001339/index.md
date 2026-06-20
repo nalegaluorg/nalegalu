@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o fundacjach
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o fundacjach
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -178,7 +178,11 @@ source: pdf
 
 4. W przypadku przekazania środków, o którym mowa w ust. 3, minister właściwy do spraw zabezpieczenia społecznego wydaje decyzję, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-5. W przypadkach, o których mowa w ust. 1 i 2, minister właściwy do spraw zabezpieczenia społecznego, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego. Art. 27ab. 1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
+5. W przypadkach, o których mowa w ust. 1 i 2, minister właściwy do spraw zabezpieczenia społecznego, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
+
+**Art. 27ab.**
+
+1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
 
 2. Fundusz jest państwowym funduszem celowym, którego dysponentem jest minister właściwy do spraw zabezpieczenia społecznego, zwany dalej „dysponentem Funduszu”.
 

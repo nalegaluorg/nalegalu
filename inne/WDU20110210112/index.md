@@ -1663,7 +1663,11 @@ Wybory uzupełniające i przedterminowe
 - **1)** zrzeczenia się funkcji;
 - **2)** śmierci;
 - **3)** podpisania zgody na zgłoszenie do komisji wyborczej, kandydowanie w wyborach bądź objęcie funkcji pełnomocnika, komisarza wyborczego, urzędnika wyborczego;
-- **4)** odwołania. Art. 103aa. § 1. Mężowi zaufania wyznaczonemu do obwodowej komisji wyborczej przysługuje dieta w wysokości 40 % zryczałtowanej diety członków obwodowych komisji wyborczych.
+- **4)** odwołania.
+
+**Art. 103aa.**
+
+§ 1. Mężowi zaufania wyznaczonemu do obwodowej komisji wyborczej przysługuje dieta w wysokości 40 % zryczałtowanej diety członków obwodowych komisji wyborczych.
 
 § 2. Dieta wypłacana jest wyłącznie tym mężom zaufania, którzy obserwowali głosowanie przez co najmniej 5 godzin i obserwowali cały przebieg ustalania wyników głosowania do momentu podpisania protokołu głosowania zgodnie z art. 75 § 5.
 
@@ -1699,7 +1703,11 @@ Wybory uzupełniające i przedterminowe
 - **3)** wnosić do protokołu uwagi, z wymienieniem konkretnych zarzutów;
 - **4)** być obecnym przy przewożeniu i przekazywaniu protokołu do właściwej komisji wyborczej wyższego stopnia.
 
-§ 2. O wniesieniu uwag, o których mowa w § 1 pkt 3, zamieszcza się w protokole adnotację. Art. 103ba. § 1. Mężowi zaufania w związku z wykonywaniem zadań przysługuje zwolnienie od pracy na dzień głosowania oraz liczenia głosów, a także na dzień następujący po dniu, w którym zakończono liczenie głosów, z zachowaniem prawa do świadczeń z ubezpieczenia społecznego oraz uprawnień ze stosunku pracy.
+§ 2. O wniesieniu uwag, o których mowa w § 1 pkt 3, zamieszcza się w protokole adnotację.
+
+**Art. 103ba.**
+
+§ 1. Mężowi zaufania w związku z wykonywaniem zadań przysługuje zwolnienie od pracy na dzień głosowania oraz liczenia głosów, a także na dzień następujący po dniu, w którym zakończono liczenie głosów, z zachowaniem prawa do świadczeń z ubezpieczenia społecznego oraz uprawnień ze stosunku pracy.
 
 § 2. Mężowie zaufania w razie zamiaru skorzystania ze zwolnienia od pracy, o którym mowa w § 1, są obowiązani, co najmniej na 3 dni przed przewidywanym terminem nieobecności w pracy, uprzedzić, w formie pisemnej, pracodawcę o przyczynie i przewidywanym okresie nieobecności w pracy, a następnie, nie później niż następnego dnia po upływie okresu nieobecności w pracy, dostarczyć pracodawcy zaświadczenie usprawiedliwiające nieobecność w pracy wykonywaniem zadań męża zaufania.
 
@@ -1847,7 +1855,7 @@ Wybory uzupełniające i przedterminowe
 - **1)** dacie udzielenia przez nią poparcia;
 - **2)** nazwie komitetu wyborczego, którego listę kandydatów albo kandydata poparła.
 
-§ 2. Pobranie informacji, o której mowa w § 1, następuje przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji, po wierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne.>
+§ 2. Pobranie informacji, o której mowa w § 1, następuje przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji, po wierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 12 Kampania wyborcza
 
@@ -3091,7 +3099,9 @@ Wybory uzupełniające i przedterminowe
 
 § 3. Wykaz urzędników wyborczych działających na obszarze danej gminy podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty.
 
-§ 4. Państwowa Komisja Wyborcza określi w drodze uchwały liczbę, tryb i warunki powoływania urzędników wyborczych biorąc pod uwagę konieczność zapewnienia prawidłowego i sprawnego przygotowania, przebiegu wyborów oraz funkcjonowania obwodowych komisji wyborczych. Art. 191ca. W przypadku zagrożenia wykonania zadań, o których mowa w art. 191e § 1, Szef Krajowego Biura Wyborczego może powierzyć, nie dłużej niż na czas danych wyborów, wykonywanie funkcji urzędnika wyborczego osobie niespełniającej wymogów określonych w art. 191b § 1 zdanie drugie.
+§ 4. Państwowa Komisja Wyborcza określi w drodze uchwały liczbę, tryb i warunki powoływania urzędników wyborczych biorąc pod uwagę konieczność zapewnienia prawidłowego i sprawnego przygotowania, przebiegu wyborów oraz funkcjonowania obwodowych komisji wyborczych.
+
+**Art. 191ca.** W przypadku zagrożenia wykonania zadań, o których mowa w art. 191e § 1, Szef Krajowego Biura Wyborczego może powierzyć, nie dłużej niż na czas danych wyborów, wykonywanie funkcji urzędnika wyborczego osobie niespełniającej wymogów określonych w art. 191b § 1 zdanie drugie.
 
 **Art. 191d.**
 
@@ -3320,7 +3330,8 @@ Wybory uzupełniające i przedterminowe
 
 § 5. Do zgłoszenia każdej listy należy dołączyć:
 
-- **1)** oświadczenie o liczbie podpisów wyborców popierających listę wraz z wykazem podpisów wyborców popierających listę bądź oświadczenie o skorzystaniu z uprawnienia, o którym mowa w art. 210 § 2; <1a) oświadczenie o liczbie podpisów wyborców popierających listę za pośrednictwem portalu poparcia;>
+- **1)** oświadczenie o liczbie podpisów wyborców popierających listę wraz z wykazem podpisów wyborców popierających listę bądź oświadczenie o skorzystaniu z uprawnienia, o którym mowa w art. 210 § 2;
+- **1a)** oświadczenie o liczbie podpisów wyborców popierających listę za pośrednictwem portalu poparcia;
 - **2)** pisemną zgodę kandydata na kandydowanie z danej listy kandydatów. Zgoda kandydata na kandydowanie w wyborach powinna zawierać dane: imię (imiona), nazwisko, nazwisko rodowe, imiona rodziców, datę i miejsce urodzenia, adres zamieszkania, obywatelstwo oraz numer ewidencyjny PESEL kandydata, a także wskazanie jego przynależności do partii politycznej; zgodę na kandydowanie kandydat opatruje datą i własnoręcznym podpisem;
 - **3)** w stosunku do każdego kandydata urodzonego przed dniem 1 sierpnia 1972 r. oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów albo informację, o której mowa w art. 7 ust. 3a tej ustawy;
 - **4)** pisemne oświadczenie kandydata o posiadaniu prawa wybieralności.
@@ -4089,7 +4100,8 @@ Wybory uzupełniające i przedterminowe
 
 - **1)** imię (imiona), nazwisko, wiek i miejsce zamieszkania (miejscowość) zgłaszanego kandydata na Prezydenta Rzeczypospolitej wraz ze wskazaniem jego przynależności do partii politycznej;
 - **2)** nazwę komitetu wyborczego oraz imię (imiona), nazwisko i adres do korespondencji pełnomocnika wyborczego oraz pełnomocnika finansowego;
-- **3)** wykaz obywateli popierających zgłoszenie, zawierający czytelne wskazanie imienia (imion) i nazwiska, adresu zamieszkania, daty udzielenia poparcia oraz numeru ewidencyjnego PESEL obywatela, który udziela poparcia, składając na wykazie własnoręczny podpis; każda strona wykazu musi zawierać nazwę komitetu wyborczego zgłaszającego kandydata oraz adnotację: „Udzielam poparcia kandydatowi na Prezydenta Rzeczypospolitej .............. [imię (imiona) i nazwisko kandydata] w wyborach zarządzonych na ......... (dzień, miesiąc, rok).”; <4) oświadczenie o liczbie podpisów wyborców popierających kandydata za pośrednictwem portalu poparcia.>
+- **3)** wykaz obywateli popierających zgłoszenie, zawierający czytelne wskazanie imienia (imion) i nazwiska, adresu zamieszkania, daty udzielenia poparcia oraz numeru ewidencyjnego PESEL obywatela, który udziela poparcia, składając na wykazie własnoręczny podpis; każda strona wykazu musi zawierać nazwę komitetu wyborczego zgłaszającego kandydata oraz adnotację: „Udzielam poparcia kandydatowi na Prezydenta Rzeczypospolitej .............. [imię (imiona) i nazwisko kandydata] w wyborach zarządzonych na ......... (dzień, miesiąc, rok).”;
+- **4)** oświadczenie o liczbie podpisów wyborców popierających kandydata za pośrednictwem portalu poparcia.
 
 § 2. Wycofanie udzielonego poparcia nie rodzi skutków prawnych. <§ 3. Wyborca może udzielić poparcia także za pośrednictwem portalu poparcia.>
 
@@ -4100,7 +4112,8 @@ Wybory uzupełniające i przedterminowe
 § 2. Państwowa Komisja Wyborcza, sprawdzając prawidłowość zgłoszenia kandydata, bada:
 
 - **1)** czy kandydat spełnia warunki określone w art. 11 § 1 pkt 3;
-- **2)** zgodność danych, o których mowa w art. 297 § 4, na podstawie dostępnych urzędowo dokumentów; [3) czy zgłoszenie kandydatury poparło podpisami co najmniej 100 000 obywateli, zgodnie z art. 303 § 1 pkt 3.] <3) czy zgłoszenie kandydatury poparło co najmniej 100 000 obywateli, zgodnie z art. 103k i art. 303 § 1 pkt 3.>
+- **2)** zgodność danych, o których mowa w art. 297 § 4, na podstawie dostępnych urzędowo dokumentów;
+- **3)** czy zgłoszenie kandydatury poparło co najmniej 100 000 obywateli, zgodnie z art. 103k i art. 303 § 1 pkt 3.
 
 § 3. Państwowa Komisja Wyborcza postanawia o odmowie rejestracji kandydata, jeżeli kandydat nie posiada prawa wybieralności.
 
@@ -4341,7 +4354,9 @@ Wybory uzupełniające i przedterminowe
 - **2)** koalicyjnemu komitetowi wyborczemu;
 - **3)** komitetowi wyborczemu wyborców.
 
-**Art. 342.** Liczba kandydatów na posłów do Parlamentu Europejskiego zgłaszanych na liście kandydatów nie może być mniejsza niż 5 i większa niż 10. [Art. 343. Lista kandydatów powinna być poparta podpisami co najmniej 10 000 wyborców stale zamieszkałych w danym okręgu wyborczym. Przepisy art. 210 § 2 i 3 stosuje się.] <Art. 343. Lista kandydatów powinna być poparta przez co najmniej 10 000 wyborców stale zamieszkałych w danym okręgu wyborczym. Wyborca może udzielić poparcia liście kandydatów także za pośrednictwem portalu poparcia. Przepisy art. 210 § 2 i 3 stosuje się.>
+**Art. 342.** Liczba kandydatów na posłów do Parlamentu Europejskiego zgłaszanych na liście kandydatów nie może być mniejsza niż 5 i większa niż 10.
+
+**Art. 343.** Lista kandydatów powinna być poparta przez co najmniej 10 000 wyborców stale zamieszkałych w danym okręgu wyborczym. Wyborca może udzielić poparcia liście kandydatów także za pośrednictwem portalu poparcia. Przepisy art. 210 § 2 i 3 stosuje się.
 
 **Art. 344.**
 

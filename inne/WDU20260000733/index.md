@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rezerwach strategicznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rezerwach strategicznych
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 17 grudnia 2020 r.
 o rezerwach strategicznych
-Art. 51–66. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -902,6 +901,8 @@ Art. 51–66. (pominięte)
 6. Agencja może wezwać kontrolowanego do usunięcia nieprawidłowości określonych w protokole, wskazując termin usunięcia nieprawidłowości.
 
 #### Rozdział 10 Przepisy zmieniające
+
+**Art. 51–66.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

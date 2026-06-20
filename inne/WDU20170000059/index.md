@@ -426,7 +426,8 @@ source: pdf
 
 - **1)** realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
 - **2)** zapewnia bezpłatne nauczanie, wychowanie i opiekę w czasie ustalonym przez organ prowadzący, nie krótszym niż 5 godzin dziennie;
-- **3)** przeprowadza rekrutację dzieci w oparciu o zasadę powszechnej dostępności; [4) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1.] <4) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1 i 10.>
+- **3)** przeprowadza rekrutację dzieci w oparciu o zasadę powszechnej dostępności;
+- **4)** zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 1 i 10.
 
 2. Publiczna inna forma wychowania przedszkolnego, o której mowa w art. 32 ust. 2, zapewnia bezpłatne nauczanie, wychowanie i opiekę w czasie ustalonym przez organ prowadzący, nie krótszym jednak niż czas określony w przepisach wydanych na podstawie art. 32 ust. 11.
 
@@ -438,7 +439,8 @@ source: pdf
 
 6. Niepubliczne przedszkole:
 
-- **1)** realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego; [2) zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1 i 4 stosuje się odpowiednio.] <2) zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1, 4 i 10 stosuje się odpowiednio.>
+- **1)** realizuje programy wychowania przedszkolnego uwzględniające podstawę programową wychowania przedszkolnego;
+- **2)** zatrudnia nauczycieli posiadających kwalifikacje określone dla nauczycieli przedszkoli publicznych; przepisy art. 15 ust. 1, 4 i 10 stosuje się odpowiednio.
 
 7. Przepis ust. 6 stosuje się także do oddziałów przedszkolnych w niepublicznych szkołach podstawowych oraz niepublicznych innych form wychowania przedszkolnego.
 
@@ -447,7 +449,8 @@ source: pdf
 1. Szkołą publiczną jest szkoła, która:
 
 - **1)** zapewnia bezpłatne nauczanie w zakresie ramowych planów nauczania;
-- **2)** przeprowadza rekrutację uczniów w oparciu o zasadę powszechnej dostępności; [3) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2;] <3) zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2 i 10;>
+- **2)** przeprowadza rekrutację uczniów w oparciu o zasadę powszechnej dostępności;
+- **3)** zatrudnia nauczycieli posiadających kwalifikacje określone w odrębnych przepisach, z zastrzeżeniem art. 15 ust. 2 i 10;
 - **4)** realizuje:
     - **a)** programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe – również podstawy programowe kształcenia w zawodach szkolnictwa branżowego albo podstawy programowe kształcenia w zawodach szkolnictwa artystycznego,
     - **b)** ramowy plan nauczania;
@@ -462,7 +465,8 @@ source: pdf
 - **2)** realizuje obowiązkowe zajęcia edukacyjne w okresie nie krótszym oraz w wymiarze nie niższym niż łączny wymiar poszczególnych obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
 - **3)** stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
 - **4)** prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
-- **5)** w przypadku szkoły prowadzącej kształcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego; [6) zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;] <6) zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;>
+- **5)** w przypadku szkoły prowadzącej kształcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego; [6) zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;]
+- **6)** zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;
 - **7)** stosuje organizację roku szkolnego ustaloną dla szkół publicznych.
 
 4. Niepubliczna szkoła artystyczna może uzyskać uprawnienia publicznej szkoły artystycznej, o których mowa w ust. 2, jeżeli:
@@ -472,7 +476,8 @@ source: pdf
 - **3)** przyjmuje kandydatów, którzy uzyskali pozytywny wynik sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, uwzględniając limity wiekowe kandydatów określone dla kandydatów do publicznej szkoły artystycznej danego typu;
 - **4)** stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
 - **5)** prowadzi dokumentację przebiegu nauczania ustaloną dla publicznych szkół artystycznych;
-- **6)** kształci w zawodach szkolnictwa artystycznego określonych w klasyfikacji zawodów szkolnictwa artystycznego; [7) zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;] <7) zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;>
+- **6)** kształci w zawodach szkolnictwa artystycznego określonych w klasyfikacji zawodów szkolnictwa artystycznego;
+- **7)** zatrudnia nauczycieli zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4, 6 i 10 stosuje się odpowiednio;
 - **8)** stosuje organizację roku szkolnego ustaloną dla publicznych szkół artystycznych.
 
 **Art. 15.**
@@ -909,7 +914,11 @@ source: pdf
 
 11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia, z tym że termin ten nie może być wcześniejszy niż koniec roku szkolnego, w którym uczniowie oddziału przygotowania wojskowego kończą naukę w tym oddziale.
 
-12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa. Art. 28aa. 1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały o profilu mundurowym.
+12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
+
+**Art. 28aa.**
+
+1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały o profilu mundurowym.
 
 2. Utworzenie oddziału o profilu mundurowym wymaga zezwolenia ministra właściwego do spraw wewnętrznych, udzielonego w drodze decyzji administracyjnej.
 
@@ -992,9 +1001,7 @@ source: pdf
 
 3. Kolegia pracowników służb społecznych mogą pobierać opłaty za egzaminy wstępne oraz za zajęcia dydaktyczne, z wyłączeniem zajęć dydaktycznych w systemie dziennym w publicznych kolegiach pracowników służb społecznych, chyba że są powtarzane z powodu niezadowalających wyników w nauce.
 
-4. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe zasady i warunki tworzenia, przekształcania i likwidowania oraz organizację i zasady działania, w tym zasady powierzania stanowisk kierowniczych, zasady sprawowania opieki naukowo-dydaktycznej i nadzoru nad kolegiami pracowników służb społecznych, a także warunki i tryb wydawania oraz wzory druków wydawanych słuchaczom i absolwentom kolegiów pracowników służb społecznych, w tym umieszczenie na dyplomach ukończenia kolegiów pracowników służb społecznych znaków graficznych informujących o poziomie Polskiej Ramy Kwalifikacji, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz.
-
-- **1606)** .
+4. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe zasady i warunki tworzenia, przekształcania i likwidowania oraz organizację i zasady działania, w tym zasady powierzania stanowisk kierowniczych, zasady sprawowania opieki naukowo-dydaktycznej i nadzoru nad kolegiami pracowników służb społecznych, a także warunki i tryb wydawania oraz wzory druków wydawanych słuchaczom i absolwentom kolegiów pracowników służb społecznych, w tym umieszczenie na dyplomach ukończenia kolegiów pracowników służb społecznych znaków graficznych informujących o poziomie Polskiej Ramy Kwalifikacji, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606).
 
 5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, standardy kształcenia w kolegiach pracowników służb społecznych, uwzględniając w szczególności wymagania dotyczące realizowania planów nauczania, przedmioty kształcenia, zakres i wymiar praktyk zawodowych, treści programowe i wymagane umiejętności.
 
@@ -1074,7 +1081,7 @@ source: pdf
 
 6. Obowiązkiem gminy jest zapewnienie niepełnosprawnym dzieciom pięcioletnim i sześcioletnim oraz dzieciom objętym wychowaniem przedszkolnym na podstawie art. 31 ust. 2 bezpłatnego transportu i opieki w czasie przewozu do najbliższego przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego lub ośrodka rewalidacyjno-wychowawczego.
 
-7. Gmina może zorganizować dzieciom bezpłatny transport i opiekę w czasie przewozu do przedszkola, oddziału przedszkolnego w szkole podstawowej lub innej formy wychowania przedszkolnego również w przypadkach, w których nie ma takiego obowiązku. [8. Nauczyciela oraz osobę, o której mowa w art. 15 ust. 1, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.] <8. Nauczyciela oraz osobę, o której mowa w art. 15 ust. 1 i 10, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.> [9. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 15 ust. 1, 3 i 4 stosuje się odpowiednio.] <9. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 15 ust. 1, 3, 4 i 10 stosuje się odpowiednio.>
+7. Gmina może zorganizować dzieciom bezpłatny transport i opiekę w czasie przewozu do przedszkola, oddziału przedszkolnego w szkole podstawowej lub innej formy wychowania przedszkolnego również w przypadkach, w których nie ma takiego obowiązku. [8. Nauczyciela oraz osobę, o której mowa w art. 15 ust. 1, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.] <8. Nauczyciela oraz osobę, o której mowa w art. 15 ust. 1 i 10, prowadzących zajęcia w innej formie wychowania przedszkolnego prowadzonej przez gminę, zatrudnia dyrektor przedszkola lub szkoły podstawowej prowadzonych przez tę gminę.> [9. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 15 ust. 1, 3 i 4 stosuje się odpowiednio.] <9. Zajęcia w innych formach wychowania przedszkolnego prowadzą nauczyciele posiadający kwalifikacje wymagane od nauczycieli przedszkoli. Przepisy art. 15 ust. 1, 3, 4 i 10 stosuje się odpowiednio.
 
 10. W przypadku publicznych innych form wychowania przedszkolnego, prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego lub osoby fizyczne, oraz niepublicznych innych form wychowania przedszkolnego zadania i kompetencje określone w ustawie dla dyrektora przedszkola wykonuje osoba kierująca daną inną formą wychowania przedszkolnego wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego.
 
@@ -1395,7 +1402,11 @@ source: pdf
 
 - **1)** szkół polskich;
 - **2)** szkół i zespołów szkół w Polsce, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret drugie;
-- **3)** szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c. Art. 44aa. 1. Minister właściwy do spraw oświaty i wychowania może udostępnić narzędzie informatyczne, o którym mowa w art. 44a ust. 1, placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, w celu wspierania przez te placówki i podmioty szkół i placówek w realizacji przez nie działań, o których mowa w art. 44 ust. 1 i 2.
+- **3)** szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c.
+
+**Art. 44aa.**
+
+1. Minister właściwy do spraw oświaty i wychowania może udostępnić narzędzie informatyczne, o którym mowa w art. 44a ust. 1, placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, w celu wspierania przez te placówki i podmioty szkół i placówek w realizacji przez nie działań, o których mowa w art. 44 ust. 1 i 2.
 
 2. Udostępnienie placówkom doskonalenia nauczycieli i podmiotom, o których mowa w art. 3 ust. 1, narzędzia informatycznego, o którym mowa w art. 44a ust. 1, obejmuje:
 
@@ -1638,7 +1649,7 @@ source: pdf
 
 **Art. 46b.**
 
-1. Minister właściwy do spraw oświaty i wychowania ustala prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy. [2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.] <2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych – Państwowego Instytutu Badawczego opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych, danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, i informacji przekazywanych przez branżowe centra umiejętności na podstawie przepisów wydanych na podstawie art. 117 ust. 5 oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.>
+1. Minister właściwy do spraw oświaty i wychowania ustala prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy. [2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.] <2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych – Państwowego Instytutu Badawczego opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych, danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, i informacji przekazywanych przez branżowe centra umiejętności na podstawie przepisów wydanych na podstawie art. 117 ust. 5 oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
 
 3. Prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 1 lutego danego roku.
 
@@ -4289,7 +4300,8 @@ source: pdf
 
 - **1)** warunki i tryb przyjmowania do publicznych przedszkoli, innych form wychowania przedszkolnego, szkół, w tym szkół artystycznych, placówek oraz na kształcenie ustawiczne w formie kwalifikacyjnych kursów zawodowych osób niebędących obywatelami polskimi oraz obywateli polskich, którzy pobierali naukę w szkołach funkcjonujących w systemach oświaty innych państw, a także rodzaje dokumentów potwierdzających poziom wykształcenia i stan zdrowia tych osób oraz sposób kwalifikowania do odpowiedniej klasy lub na odpowiedni semestr, uwzględniając odpowiednio warunki i tryb przyjmowania, o których mowa w rozdziale 6, a także uwzględniając brak znajomości języka polskiego przez kandydata lub brak możliwości przedłożenia przez kandydata dokumentów stwierdzających ukończenie za granicą szkoły lub kolejnego etapu edukacji;
 - **2)** warunki tworzenia, organizacji oraz działania oddziału przygotowawczego, o którym mowa w ust. 11, uwzględniając dostosowanie procesu kształcenia do potrzeb i możliwości edukacyjnych uczniów, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych oraz naukę języka polskiego;
-- **3)** sposób organizacji dodatkowej nauki języka polskiego i dodatkowych zajęć wyrównawczych w zakresie przedmiotów nauczania, o których mowa w ust. 7, 9 i 10, a także sposób organizacji nauki języka i kultury kraju pochodzenia, o której mowa w ust. 15, z uwzględnieniem wymiaru godzin zajęć i minimalnej liczby osób, dla których organizuje się naukę języka i kultury kraju pochodzenia; <3a) podstawę programową dodatkowej nauki języka polskiego, o której mowa w ust. 7, z uwzględnieniem ogólnych i szczegółowych wymagań edukacyjnych dotyczących wiedzy i umiejętności z języka polskiego, a także warunków i sposobu realizacji tej podstawy programowej;>
+- **3)** sposób organizacji dodatkowej nauki języka polskiego i dodatkowych zajęć wyrównawczych w zakresie przedmiotów nauczania, o których mowa w ust. 7, 9 i 10, a także sposób organizacji nauki języka i kultury kraju pochodzenia, o której mowa w ust. 15, z uwzględnieniem wymiaru godzin zajęć i minimalnej liczby osób, dla których organizuje się naukę języka i kultury kraju pochodzenia;
+- **3a)** podstawę programową dodatkowej nauki języka polskiego, o której mowa w ust. 7, z uwzględnieniem ogólnych i szczegółowych wymagań edukacyjnych dotyczących wiedzy i umiejętności z języka polskiego, a także warunków i sposobu realizacji tej podstawy programowej;
 - **4)** wysokość stypendium dla osób, o których mowa w ust. 5 pkt 1, oraz przypadki, w których stypendium może być obniżone lub zawieszone, biorąc pod uwagę wysokość stypendium Prezesa Rady Ministrów, o którym mowa w przepisach wydanych na podstawie art. 90k ustawy o systemie oświaty.
 
 **Art. 166.**

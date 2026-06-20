@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o europejskim ugrupowaniu współpracy terytorialnej
+# Ustawa z dnia 11 września 2015 r. o zmianie ustawy o europejskim ugrupowaniu współpracy terytorialnej
 
 *USTAWA z dnia 11 września 2015 r.*
 

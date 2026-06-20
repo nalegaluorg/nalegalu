@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach
+# Ustawa z dnia 5 sierpnia 2010 r. o nadaniu nowej nazwy Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach
 
 *USTAWA z dnia 5 sierpnia 2010 r.*
 

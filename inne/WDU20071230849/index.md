@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o lekarzu sądowym
+# Ustawa z dnia 15 czerwca 2007 r. o lekarzu sądowym
 
 *USTAWA z dnia 15 czerwca 2007 r.*
 

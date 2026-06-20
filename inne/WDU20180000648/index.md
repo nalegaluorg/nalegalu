@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Rzeczniku Małych i Średnich Przedsiębiorców
+# Ustawa z dnia 6 marca 2018 r. o Rzeczniku Małych i Średnich Przedsiębiorców
 
 *USTAWA z dnia 6 marca 2018 r.*
 

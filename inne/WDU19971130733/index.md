@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej
+# Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej.
 
 *USTAWA z dnia 20 sierpnia 1997 r.*
 
@@ -139,7 +139,7 @@ source: pdf
 - **4)** od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r. - wydanych w latach 1992-1995,
 - **5)** od dnia 1 stycznia 2007 r. do dnia 31 grudnia 2007 r. - wydanych w latach 1996-2000.
 
-3. Przy wymianie dowodów osobistych, o których mowa w ust. 2, stosuje się tryb postępowania określony w sprawach wydawania tych dokumentów.>
+3. Przy wymianie dowodów osobistych, o których mowa w ust. 2, stosuje się tryb postępowania określony w sprawach wydawania tych dokumentów.
 
 **Art. 3.** Tymczasowe zaświadczenia tożsamości zachowują ważność do czasu upływu terminów w nich określonych, jednak nie dłużej niż do dnia 31 grudnia 2000 r.
 

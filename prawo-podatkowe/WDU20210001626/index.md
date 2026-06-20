@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy – Prawo bankowe
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Prawo bankowe
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

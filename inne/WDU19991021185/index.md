@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia trybu harmonogramu wypłat rekompensat według kryterium wieku uprawnionych oraz zadań poszczególnych podmiotów odpowiedzialnych za realizację zobowiązań Skarbu Państwa wobec uprawnionych.
+# Rozporządzenie Rady Ministrów z dnia 9 grudnia 1999 r. w sprawie określenia trybu i harmonogramu wypłat rekompensat według kryterium wieku uprawnionych oraz zadań poszczególnych podmiotów odpowiedzialnych za realizację zobowiązań Skarbu Państwa wobec uprawnionych.
 
 | Pole | Wartość |
 |---|---|

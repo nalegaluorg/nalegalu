@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
+# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
 
 *USTAWA z dnia 8 listopada 2024 r.*
 

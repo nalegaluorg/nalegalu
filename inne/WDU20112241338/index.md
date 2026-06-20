@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rencie socjalnej
+# Ustawa z dnia 30 sierpnia 2011 r. o zmianie ustawy o rencie socjalnej
 
 *USTAWA z dnia 30 sierpnia 2011 r.*
 

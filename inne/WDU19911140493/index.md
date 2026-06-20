@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizowaniu i prowadzeniu działalności kulturalnej
+# Ustawa z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej.
 
 *USTAWA z dnia 25 października 1991 r.*
 
@@ -775,7 +775,9 @@ source: pdf
 
 **Art. 39a.** Do dnia 31 grudnia 2002 r. termin na podanie informacji o zamiarze i przyczynach likwidacji wszystkich instytucji kultury, określony w art. 22 ust. 2, nie może być krótszy niż 12 miesięcy.
 
-**Art. 40.** Przepisy ustawy nie naruszają przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) oraz ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385) w zakresie prowadzenia działalności kulturalnej w formach określonych w tych ustawach. Art. 41–44. (pominięte)
+**Art. 40.** Przepisy ustawy nie naruszają przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) oraz ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385) w zakresie prowadzenia działalności kulturalnej w formach określonych w tych ustawach.
+
+**Art. 41–44.** (pominięte)
 
 **Art. 44a.**
 

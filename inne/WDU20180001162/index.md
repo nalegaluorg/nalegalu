@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu nowych inwestycji
+# Ustawa z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji
 
 *USTAWA z dnia 10 maja 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-06-15 |
 | Ostatnia zmiana | 2025-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1162/text.pdf) |
-
-Art. 35–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -444,6 +442,8 @@ Art. 35–38. (pominięte)
 **Art. 34.** Zarządzający obszarami przekazują dane do ewidencji bez zbędnej zwłoki, za pomocą systemu teleinformatycznego.
 
 #### Rozdział 6 Zmiany w przepisach, przepisy przejściowe i końcowe
+
+**Art. 35–38.** (pominięte)
 
 **Art. 39.** Tworzy się Ewidencję Wsparcia Nowej Inwestycji.
 

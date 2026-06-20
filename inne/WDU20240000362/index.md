@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o czasie pracy na statkach żeglugi śródlądowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o czasie pracy na statkach żeglugi śródlądowej
 
 | Pole | Wartość |
 |---|---|

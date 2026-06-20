@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej
+# Ustawa z dnia 19 listopada 2004 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej
 
 *USTAWA z dnia 19 listopada 2004 r.*
 

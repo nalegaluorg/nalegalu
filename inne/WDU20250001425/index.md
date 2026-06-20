@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
 
 *USTAWA z dnia 12 września 2025 r.*
 

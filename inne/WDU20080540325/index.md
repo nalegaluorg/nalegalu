@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych”
+# Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Narodowy program zwalczania chorób nowotworowych"
 
 *USTAWA z dnia 7 lutego 2008 r.*
 

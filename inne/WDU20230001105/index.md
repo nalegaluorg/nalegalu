@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013
 
 | Pole | Wartość |
 |---|---|
@@ -638,7 +638,9 @@ o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Fun
 
 8. Zadania Sekretariatu Centralnego mogą być wykonywane przez podmiot wyłoniony w trybie przepisów o zamówieniach publicznych, któremu minister właściwy do spraw rozwoju wsi powierzył wykonywanie tych zadań na podstawie umowy. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio.
 
-9. Zadania sekretariatu regionalnego mogą być wykonywane przez podmiot wyłoniony w trybie przepisów o zamówieniach publicznych, któremu zarząd województwa powierzył wykonywanie tych zadań na podstawie umowy. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio. Art. 38–48. (pominięte)
+9. Zadania sekretariatu regionalnego mogą być wykonywane przez podmiot wyłoniony w trybie przepisów o zamówieniach publicznych, któremu zarząd województwa powierzył wykonywanie tych zadań na podstawie umowy. Przepisy art. 6 ust. 3 i 4 stosuje się odpowiednio.
+
+**Art. 38–48.** (pominięte)
 
 **Art. 49.** Krajowy plan strategiczny, przyjęty przez Radę Ministrów przed dniem wejścia w życie ustawy, oraz projekt programu, zatwierdzony przez Radę Ministrów przed dniem wejścia w życie ustawy, stają się odpowiednio krajowym planem strategicznym i projektem programu, o których mowa w ustawie.
 

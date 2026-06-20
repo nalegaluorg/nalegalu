@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy - Kodeks pracy
 
 *USTAWA Opracowano z dnia 25 listopada 2010 r. stawie: r.*
 

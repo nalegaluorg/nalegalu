@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
+# Ustawa z dnia 18 sierpnia 2011 r. o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 

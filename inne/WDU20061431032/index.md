@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw
+# Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 lipca 2006 r.*
 

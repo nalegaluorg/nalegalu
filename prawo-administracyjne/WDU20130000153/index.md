@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o referendum lokalnym oraz ustawy o samorządzie gminnym
+# Ustawa z dnia 14 grudnia 2012 r. o zmianie ustawy o referendum lokalnym oraz ustawy o samorządzie gminnym
 
 *USTAWA z dnia 14 grudnia 2012 r.*
 

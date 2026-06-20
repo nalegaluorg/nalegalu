@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie szczegółowego trybu powoływania i odwoływania członków Rady Konsultacyjnej przy Prezesie Urzędu Regulacji Energetyki.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 8 lutego 1999 r. zmieniające rozporządzenie w sprawie szczegółowego trybu powoływania i odwoływania członków Rady Konsultacyjnej przy Prezesie Urzędu Regulacji Energetyki.
 
 | Pole | Wartość |
 |---|---|

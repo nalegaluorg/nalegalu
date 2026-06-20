@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę – Kodeks pracy oraz ustawę o zmianie ustawy – Kodeks pracy oraz o zmianie niektórych ustaw
+# Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę - Kodeks pracy oraz ustawę o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 9 maja 2008 r.*
 

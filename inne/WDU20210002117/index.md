@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o doradztwie podatkowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o doradztwie podatkowym
 
 *USTAWA z dnia 5 lipca 1996 r.*
 
@@ -357,7 +357,7 @@ source: pdf
 - **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu art. 2 pkt 10 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746) w okresie przeprowadzania egzaminu,
 - **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu czynności technicznych, takich jak:
     - **a)** odczytywanie tekstu,
-    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i zadania egzaminacyjne – czas trwania egzaminu ulega wydłużeniu.>
+    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i zadania egzaminacyjne – czas trwania egzaminu ulega wydłużeniu.
 
 2. W razie niespełnienia warunków określonych w art. 6 ust. 1 pkt 2, 3 i 5, decyzję o odmowie dopuszczenia do egzaminu podejmuje Komisja Egzaminacyjna.
 
@@ -457,7 +457,15 @@ source: pdf
 
 14. Obsługę administracyjno-biurową Komisji Egzaminacyjnej zapewnia komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw finansów publicznych wskazana przez tego ministra.
 
-**Art. 22a.** Komisja Egzaminacyjna przeprowadza test umiejętności dla osób, które, w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu doradcy podatkowego, zostaną zobowiązane do zdania testu umiejętności, na zasadach określonych w odrębnych przepisach. <Art. 22b. 1. Komisja Egzaminacyjna może zawierać z uczelniami posiadającymi uprawnienia do nadawania stopnia naukowego doktora habilitowanego w dziedzinie nauk społecznych w dyscyplinie nauki prawne lub ekonomia i finanse umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), określające program studiów realizowany przez uczelnię obejmujący efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego. Do podpisania umowy w imieniu Komisji Egzaminacyjnej jest uprawniony jej przewodniczący. 2. Umowy, o których mowa w ust. 1, są zawierane na wniosek uczelni. Wniosek podlega opłacie nie wyższej niż równowartość czterokrotności minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem”. Opłata ta stanowi dochód budżetu państwa. W przypadku gdy umowa nie została zawarta, połowa opłaty podlega zwrotowi. 3. Wniosek, o którym mowa w ust. 2, zawiera:
+**Art. 22a.** Komisja Egzaminacyjna przeprowadza test umiejętności dla osób, które, w toku postępowania w sprawie uznania kwalifikacji do wykonywania zawodu doradcy podatkowego, zostaną zobowiązane do zdania testu umiejętności, na zasadach określonych w odrębnych przepisach.
+
+**Art. 22b.**
+
+1. Komisja Egzaminacyjna może zawierać z uczelniami posiadającymi uprawnienia do nadawania stopnia naukowego doktora habilitowanego w dziedzinie nauk społecznych w dyscyplinie nauki prawne lub ekonomia i finanse umowy, o których mowa w art. 61 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), określające program studiów realizowany przez uczelnię obejmujący efekty uczenia się w zakresie wiedzy i umiejętności z dziedzin, o których mowa w art. 20 ust. 1, wymaganych w części pisemnej egzaminu na doradcę podatkowego. Do podpisania umowy w imieniu Komisji Egzaminacyjnej jest uprawniony jej przewodniczący.
+
+2. Umowy, o których mowa w ust. 1, są zawierane na wniosek uczelni. Wniosek podlega opłacie nie wyższej niż równowartość czterokrotności minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem”. Opłata ta stanowi dochód budżetu państwa. W przypadku gdy umowa nie została zawarta, połowa opłaty podlega zwrotowi.
+
+3. Wniosek, o którym mowa w ust. 2, zawiera:
 
 - **1)** nazwę uczelni oraz adres jej siedziby;
 - **2)** dane teleadresowe uczelni;
@@ -491,7 +499,7 @@ source: pdf
 - **2)** sposób składania przez uczelnię wniosku o zawarcie i zmianę umowy, o której mowa w art. 22b ust. 1, i tryb jego rozpatrywania przez Komisję Egzaminacyjną oraz szczegółowy wykaz dokumentów dołączanych do wniosku, biorąc pod uwagę konieczność zapewnienia jednolitości i sprawności rozpatrywania tych wniosków i zawierania umów;
 - **3)** wysokość opłaty, o której mowa w art. 22b ust. 2, mając na względzie wydatki związane z rozpatrzeniem przez Komisję Egzaminacyjną wniosku uczelni o zawarcie umowy, o której mowa w art. 22b ust. 1, zawarciem tej umowy oraz jej bieżącą weryfikacją, o której mowa w art. 22b ust. 9;
 - **4)** termin i sposób wnoszenia opłaty, o której mowa w art. 22b ust. 2, oraz tryb dokonywania jej zwrotu, o którym mowa w art. 22b ust. 2 i 8, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji pracy Komisji Egzaminacyjnej;
-- **5)** tryb dokonywania przez Komisję Egzaminacyjną bieżącej weryfikacji zawartych umów, o której mowa w art. 22b ust. 9, oraz szczegółowy zakres dokumentów przekazywanych przez uczelnię zgodnie z art. 22b ust. 10, mając na uwadze konieczność zachowania właściwego poziomu kształcenia wynikającego z art. 22b ust. 1. >
+- **5)** tryb dokonywania przez Komisję Egzaminacyjną bieżącej weryfikacji zawartych umów, o której mowa w art. 22b ust. 9, oraz szczegółowy zakres dokumentów przekazywanych przez uczelnię zgodnie z art. 22b ust. 10, mając na uwadze konieczność zachowania właściwego poziomu kształcenia wynikającego z art. 22b ust. 1.
 
 **Art. 23.**
 
@@ -586,13 +594,7 @@ source: pdf
 **Art. 24c.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób korzystania z e-Doradcy, w tym:
 
 - **1)** udostępniania kont użytkowników,
-- **2)** uwierzytelniania użytkowników,
-- **3)** potwierdzania składania i doręczania pism w sprawach dotyczących egzaminu na doradcę podatkowego między Komisją Egzaminacyjną a kandydatem na doradcę podatkowego – mając na względzie potrzebę zapewnienia elektronicznej formy przeprowadzenia egzaminu i usprawnienia komunikacji między użytkownikami kont, z zachowaniem bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem.> [Art. 25. 1. Za egzamin pobiera się opłatę, która stanowi dochód budżetu państwa.
-
-1a. Jeżeli egzamin nie dojdzie do skutku z przyczyn nieleżących po stronie kandydata opłata podlega zwrotowi. Opłata może zostać zwrócona, jeżeli kandydat z przyczyn przez siebie niezawinionych nie mógł przystąpić do egzaminu.
-
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 1, mając na uwadze koszty przeprowadzania egzaminów oraz wydatki związane z funkcjonowaniem Komisji Egzaminacyjnej.] < Art. 25. 1. Za:
-
+- **2)** uwierzytelniania użytkowników, < Art. 25. 1. Za:
 - **1)** złożenie wniosku, o którym mowa w art. 21 ust. 1, i wniosku, o którym mowa w art. 24 ust. 6, pobiera się opłatę wstępną nie wyższą niż równowartość minimalnego wynagrodzenia;
 - **2)** egzamin na doradcę podatkowego pobiera się opłaty egzaminacyjne, oddzielnie za część pisemną i ustną egzaminu, przy czym każda z tych opłat nie może być wyższa niż równowartość minimalnego wynagrodzenia.
 
@@ -609,7 +611,7 @@ source: pdf
 
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, mając na uwadze koszty rozpatrywania wniosków, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, i przeprowadzania egzaminu na doradcę podatkowego oraz wydatki związane z funkcjonowaniem Komisji Egzaminacyjnej.
 
-7. Kwoty opłat, o których mowa w ust. 1, obliczone zgodnie z przepisami wydanymi na podstawie ust. 6, ogłasza Sekretarz Komisji Egzaminacyjnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.>
+7. Kwoty opłat, o których mowa w ust. 1, obliczone zgodnie z przepisami wydanymi na podstawie ust. 6, ogłasza Sekretarz Komisji Egzaminacyjnej w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 **Art. 25a.**
 
@@ -629,14 +631,10 @@ source: pdf
     - **a)** uzyskania przez kandydata na doradcę podatkowego pozytywnego wyniku z części ustnej egzaminu albo
     - **b)** upływu okresu, o którym mowa w art. 24 ust. 4 albo 6, albo
 
-- **2)** 2 miesięcy od dnia upływu terminu, o którym mowa w art. 24a ust. 1 pkt 3. [Art. 26. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** termin składania wniosku o dopuszczenie do egzaminu i wykaz dokumentów składanych przez osoby ubiegające się o zakwalifikowanie do egzaminu, biorąc pod uwagę konieczność udokumentowania spełnienia warunków, o których mowa w art. 6 ust. 1 pkt 2, 3 i 5;
-- **2)** termin i sposób wnoszenia opłaty egzaminacyjnej oraz szczegółowe warunki i tryb dokonywania zwrotu opłaty, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji egzaminu na doradcę podatkowego;
-- **3)** wysokość wynagrodzeń przewodniczącego i sekretarza Komisji Egzaminacyjnej, biorąc pod uwagę nakład ich pracy i zakres obowiązków;
-- **4)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział w pracach, w tym w posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów oraz przygotowaniu projektów pytań i zadań egzaminacyjnych, biorąc pod uwagę zakres obowiązków poszczególnych członków Komisji Egzaminacyjnej;
-- **5)** szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących i sekretarzy składów egzaminacyjnych oraz regulamin działania Komisji Egzaminacyjnej, biorąc w szczególności pod uwagę konieczność zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji Egzaminacyjnej;
-- **6)** sposób organizowania i regulamin przeprowadzenia egzaminu sprawdzającego kwalifikacje kandydatów na doradców podatkowych, w tym szczegółowy tryb i sposób wyznaczania składów egzaminacyjnych, dokonywania oceny egzaminów i jej weryfikacji, ustalania terminów egzaminów i ich zmiany oraz zestawów pytań i zadań egzaminacyjnych, biorąc pod uwagę konieczność zapewnienia obiektywnego i sprawnego sposobu przeprowadzenia egzaminu;
-- **7)** szczegółowe warunki i tryb przysługującego członkom Komisji Egzaminacyjnej zwrotu kosztów podróży i noclegów, poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.] <Art. 26. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+- **2)** 2 miesięcy od dnia upływu terminu, o którym mowa w art. 24a ust. 1 pkt 3.
+
+**Art. 26.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
 - **1)** termin i sposób składania wniosków, o których mowa w art. 21 ust. 1 i art. 24 ust. 6, oraz tryb postępowania z tymi wnioskami, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji egzaminu na doradcę podatkowego;
 - **2)** termin i sposób wnoszenia opłaty wstępnej, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrzenia wniosku, o którym mowa w art. 21 ust. 1 i art. 24 ust. 6;
 - **3)** termin i sposób wnoszenia opłat egzaminacyjnych oraz tryb i sposób dokonywania ich zwrotu, biorąc pod uwagę konieczność zapewnienia sprawnej organizacji i przeprowadzania egzaminu na doradcę podatkowego;
@@ -644,7 +642,7 @@ source: pdf
 - **5)** szczegółowe zadania Komisji Egzaminacyjnej, przewodniczącego i sekretarza Komisji Egzaminacyjnej, przewodniczących i sekretarzy składów egzaminacyjnych oraz regulamin działania Komisji Egzaminacyjnej, biorąc pod uwagę konieczność zapewnienia sprawnej i prawidłowej organizacji egzaminu, precyzyjnego podziału zadań, obowiązków i odpowiedzialności w ramach Komisji Egzaminacyjnej;
 - **6)** wysokość wynagrodzeń przewodniczącego i sekretarza Komisji Egzaminacyjnej, biorąc pod uwagę nakład ich pracy i zakres obowiązków;
 - **7)** sposób ustalania i wysokość wynagrodzeń członków Komisji Egzaminacyjnej za udział w pracach, w tym w posiedzeniach Komisji Egzaminacyjnej, przeprowadzaniu egzaminów, przygotowaniu pytań i zadań egzaminacyjnych oraz rozpatrywaniu wniosków uczelni, o których mowa w art. 22b ust. 2 i 8, i bieżącej weryfikacji umów, o której mowa w art. 22b ust. 9, biorąc pod uwagę zakres obowiązków poszczególnych członków Komisji Egzaminacyjnej;
-- **8)** szczegółowe warunki i tryb dokonywania zwrotu kosztów podróży i noclegów przysługującego członkom Komisji Egzaminacyjnej, poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.>
+- **8)** szczegółowe warunki i tryb dokonywania zwrotu kosztów podróży i noclegów przysługującego członkom Komisji Egzaminacyjnej, poniesionych w związku z udziałem w pracach Komisji Egzaminacyjnej, biorąc pod uwagę ich racjonalne wydatkowanie przez członków Komisji Egzaminacyjnej.
 
 #### Rozdział 5 Wykonywanie zawodu doradcy podatkowego
 
@@ -759,9 +757,13 @@ source: pdf
 
 2. Organy Krajowej Administracji Skarbowej oraz organy podatkowe, pracownicy zatrudnieni w urzędach obsługujących te organy, a także minister właściwy do spraw finansów publicznych oraz pracownicy urzędu obsługującego ministra właściwego do spraw finansów publicznych nie mogą w jakiejkolwiek formie reklamować konkretnego podmiotu świadczącego doradztwo podatkowe.
 
-3. Przewidziane w zasadach etyki zawodowej zasady i sposób prowadzenia reklamy usług doradztwa podatkowego mają odpowiednie zastosowanie do podmiotów, o których mowa w art. 4 ust. 1. <Art. 38a. 1. Doradca podatkowy, uczestnicząc w rozprawach sądowych, używa stroju urzędowego. Strojem urzędowym doradcy podatkowego jest toga.
+3. Przewidziane w zasadach etyki zawodowej zasady i sposób prowadzenia reklamy usług doradztwa podatkowego mają odpowiednie zastosowanie do podmiotów, o których mowa w art. 4 ust. 1.
 
-2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór stroju urzędowego doradców podatkowych biorących udział w rozprawach sądowych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.>
+**Art. 38a.**
+
+1. Doradca podatkowy, uczestnicząc w rozprawach sądowych, używa stroju urzędowego. Strojem urzędowym doradcy podatkowego jest toga.
+
+2. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór stroju urzędowego doradców podatkowych biorących udział w rozprawach sądowych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.
 
 **Art. 39.**
 

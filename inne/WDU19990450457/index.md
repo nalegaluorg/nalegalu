@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie trybu wykonywania kontroli przez Głównego Na podstawie art. 36 ust. 3 ustawy z dnia 27 czerwca 1997 r.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 27 kwietnia 1999 r. w sprawie trybu wykonywania kontroli przez Głównego Inspektora Kolejnictwa.
 
 | Pole | Wartość |
 |---|---|

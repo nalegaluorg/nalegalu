@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nasiennictwie
+# Ustawa z dnia 9 listopada 2012 r. o nasiennictwie
 
 *USTAWA z dnia 9 listopada 2012 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2012-12-28 |
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001512) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1512/text.pdf) |
-
-Art. 127–130. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -2423,6 +2421,8 @@ Art. 127–130. (pominięte)
 2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 ## TYTUŁ X Przepisy zmieniające, epizodyczne, przejściowe i końcowe
+
+**Art. 127–130.** (pominięte)
 
 **Art. 130a.** W okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonych na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845 i 2112) w związku z zakażeniami wirusem SARSCoV-2 oraz w okresie od dnia odwołania tych stanów do dnia 31 grudnia 2020 r.:
 

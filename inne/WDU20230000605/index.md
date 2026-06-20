@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o badaniach klinicznych produktów leczniczych stosowanych u ludzi
+# Ustawa z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi
 
 *USTAWA z dnia 9 marca 2023 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-03-30 |
 | Ostatnia zmiana | 2026-01-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/605/text.pdf) |
-
-Art. 80–88. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -134,9 +132,7 @@ Art. 80–88. (pominięte)
 
 3. Wydanie albo odmowa wydania pozwolenia na badanie kliniczne, wydanie albo odmowa wydania pozwolenia na istotną zmianę badania klinicznego, wydanie albo odmowa wydania pozwolenia ograniczonego do aspektów objętych częścią I lub częścią II sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne, cofnięcie pozwolenia na badanie kliniczne, zawieszenie badania klinicznego, podjęcie uprzednio zawieszonego badania klinicznego oraz zobowiązanie sponsora do zmiany dowolnego aspektu badania klinicznego, następują w drodze decyzji Prezesa Urzędu.
 
-4. Do postępowań, o których mowa w ust. 1, w zakresie nieuregulowanym ustawą, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz.
-
-- **769)** .
+4. Do postępowań, o których mowa w ust. 1, w zakresie nieuregulowanym ustawą, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
 
 5. Do wniosku o wydanie pozwolenia na badanie kliniczne, wydanie pozwolenia na istotną zmianę badania klinicznego, wydanie pozwolenia ograniczonego do aspektów objętych częścią I sprawozdania z oceny wniosku o pozwolenie na badanie kliniczne dołącza się dowód uiszczenia opłaty, o której mowa w art. 58 ust. 2.
 
@@ -1112,6 +1108,8 @@ Art. 80–88. (pominięte)
 2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 #### Rozdział 12 Zmiany w przepisach
+
+**Art. 80–88.** (pominięte)
 
 #### Rozdział 13 Przepisy dostosowujące, przejściowe i przepis końcowy
 

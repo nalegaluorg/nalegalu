@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie elektrowni wiatrowych
+# Ustawa z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych
 
 *USTAWA z dnia 20 maja 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-07-01 |
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000961) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/961/text.pdf) |
-
-Art. 9–11. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -190,7 +188,11 @@ Art. 9–11. (pominięte)
 
 - **1)** wójt, burmistrz albo prezydent miasta, jego zastępca lub sekretarz gminy;
 - **2)** przedstawiciel gminnej komisji urbanistyczno-architektonicznej lub komisji, o której mowa w art. 8 ust. 4 lub 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
-- **3)** przedstawiciel inwestora planującego inwestycję polegającą na budowie lub przebudowie elektrowni wiatrowej – jeżeli występuje. <Art. 6g. 1. Inwestor realizujący inwestycję polegającą na budowie elektrowni wiatrowej przeznacza co najmniej 10% mocy zainstalowanej elektrowni wiatrowej stanowiącej przedmiot tej inwestycji do objęcia przez mieszkańców gminy na okres, o którym mowa w ust. 9, w celu uzyskania przez nich statusu prosumenta wirtualnego energii odnawialnej w rozumieniu art. 2 pkt 27b ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, zwanego dalej „prosumentem wirtualnym”.
+- **3)** przedstawiciel inwestora planującego inwestycję polegającą na budowie lub przebudowie elektrowni wiatrowej – jeżeli występuje.
+
+**Art. 6g.**
+
+1. Inwestor realizujący inwestycję polegającą na budowie elektrowni wiatrowej przeznacza co najmniej 10% mocy zainstalowanej elektrowni wiatrowej stanowiącej przedmiot tej inwestycji do objęcia przez mieszkańców gminy na okres, o którym mowa w ust. 9, w celu uzyskania przez nich statusu prosumenta wirtualnego energii odnawialnej w rozumieniu art. 2 pkt 27b ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, zwanego dalej „prosumentem wirtualnym”.
 
 2. W terminie 30 dni od dnia, w którym decyzja o pozwoleniu na budowę elektrowni wiatrowej stała się ostateczna, inwestor informuje wójta, burmistrza albo prezydenta miasta gminy, na terenie której jest zlokalizowana ta elektrownia wiatrowa, o:
 
@@ -219,7 +221,7 @@ Art. 9–11. (pominięte)
 
 12. Maksymalny koszt budowy elektrowni wiatrowej oblicza się według wzoru: 𝐖𝐊𝐁𝐞𝐰 = 𝐂𝐑𝐞𝐰 ∗ 𝐑𝐖𝐏𝐞𝐰∗𝟔,𝟕/𝟏𝟎𝟎𝟎 gdzie poszczególne symbole oznaczają: WKBew – maksymalny koszt budowy elektrowni wiatrowej, wyrażony w zł na kW, CRew – cenę referencyjną dla instalacji o łącznej mocy zainstalowanej większej niż 1 MW, wykorzystującej do wytwarzania energii elektrycznej wyłącznie energię wiatru na lądzie, określoną w przepisach wykonawczych wydanych na podstawie art. 77 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wyrażoną w zł na MWh, obowiązującą w dniu przekazania wójtowi, burmistrzowi albo prezydentowi miasta gminy informacji, o której mowa w ust. 2, RWPew – referencyjny roczny wolumen produkcji energii elektrycznej dla elektrowni wiatrowej w odniesieniu do 1 MW mocy zainstalowanej, wynoszący 3300 MWh/MW.
 
-13. Reprezentant prosumentów określony w umowie, o której mowa w ust. 8, przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, do sieci którego jest przyłączana elektrownia wiatrowa, nie później niż w terminie 30 dni przed dniem planowanego rozpoczęcia wytwarzania energii elektrycznej w tej elektrowni, zgłoszenie instalacji odnawialnego źródła energii, o którym mowa w art. 5 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. Przepisów art. 5 ust. 1a–1c ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii nie stosuje się.>
+13. Reprezentant prosumentów określony w umowie, o której mowa w ust. 8, przekazuje operatorowi systemu dystrybucyjnego elektroenergetycznego, do sieci którego jest przyłączana elektrownia wiatrowa, nie później niż w terminie 30 dni przed dniem planowanego rozpoczęcia wytwarzania energii elektrycznej w tej elektrowni, zgłoszenie instalacji odnawialnego źródła energii, o którym mowa w art. 5 ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii. Przepisów art. 5 ust. 1a–1c ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii nie stosuje się.
 
 **Art. 7.**
 
@@ -234,7 +236,13 @@ Art. 9–11. (pominięte)
 
 4. Jeżeli w gminie pobliskiej nie ma uchwalonego planu miejscowego dla obszaru, o którym mowa w ust. 3, albo dla tego obszaru obowiązuje plan miejscowy, który umożliwia zabudowę budynkami mieszkalnymi lub budynkami o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę wyłącznie w odniesieniu do tych elektrowni wiatrowych, dla których odległość, o której mowa w ust. 3, wykracza poza granice gminy, w której jest lokalizowana elektrownia wiatrowa.
 
-**Art. 7a.** W przypadku umów przyznających prawo do dysponowania nieruchomością na cele budowlane związane z lokalizacją elektrowni wiatrowej, które nie spełniają przesłanek z art. 659 albo art. 693 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933), stosuje się odpowiednio przepisy art. 675 i art. 677 tej ustawy. Art. 7aa. 1. W przypadku gdy w postępowaniu w sprawie wydania pozwolenia na budowę dla elektrowni wiatrowej liczba stron przekracza dwadzieścia, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803). 2. Przepisu ust. 1 nie stosuje się do inwestora.
+**Art. 7a.** W przypadku umów przyznających prawo do dysponowania nieruchomością na cele budowlane związane z lokalizacją elektrowni wiatrowej, które nie spełniają przesłanek z art. 659 albo art. 693 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933), stosuje się odpowiednio przepisy art. 675 i art. 677 tej ustawy.
+
+**Art. 7aa.**
+
+1. W przypadku gdy w postępowaniu w sprawie wydania pozwolenia na budowę dla elektrowni wiatrowej liczba stron przekracza dwadzieścia, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+
+2. Przepisu ust. 1 nie stosuje się do inwestora.
 
 **Art. 7b.** Przepisy art. 5 ust. 1 i 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane stosuje się odpowiednio do nadzoru nad użytkowaniem elektrowni wiatrowych w zakresie oceny stanu technicznego tych elektrowni.
 
@@ -459,6 +467,8 @@ Art. 9–11. (pominięte)
 14. Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.
 
 #### Rozdział 3 Zmiany w przepisach obowiązujących
+
+**Art. 9–11.** (pominięte)
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych
+# Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy o podatku dochodowym od osób fizycznych
 
 *USTAWA Opracowano z dnia 25 kwietnia 2008 r. stawie: r.*
 

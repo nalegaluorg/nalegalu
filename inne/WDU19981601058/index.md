@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatkach i opłatach lokalnych
+# Ustawa z dnia 3 grudnia 1998 r. o zmianie ustawy o podatkach i opłatach lokalnych.
 
 *USTAWA z dnia 3 grudnia 1998 r.*
 

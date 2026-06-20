@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 21 stycznia 2021 r.*
 
@@ -274,7 +274,10 @@ source: pdf
 5. Termin ważności świadectw kwalifikacyjnych spawaczy, operatorów spawania oraz zgrzewaczy tworzyw sztucznych wydanych na podstawie zapisów obowiązujących norm, które tracą ważność od dnia 1 marca 2020 r., wydłuża się do 180 dni od dnia następującego po dniu odwołania stanu zagrożenia epidemicznego albo stanu epidemii, albo stanu nadzwyczajnego, przy zachowaniu wymogów określonych w tych normach, dotyczących potwierdzania praktyki personelu wykonującego połączenia nierozłączne.”;
 
 - **28)** w art. 31zc w ust. 1 wyrazy „w art. 36 ust. 3” zastępuje się wyrazami „w art. 36 ust. 3a”;
-- **29)** po art. 31zd dodaje się art. 31zda i art. 31zdb w brzmieniu: „Art. 31zda. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni po ich odwołaniu decyzje oraz pisma w sprawach świadczeń przyznawanych lub wypłacanych przez Zakład Ubezpieczeń Społecznych mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania. Art. 31zdb. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni następujących po ich odwołaniu termin wyznaczony przez organ egzekucyjny dłużnikowi zajętej wierzytelności będącemu organem rentowym lub organem emerytalnym lub organem emerytalno-rentowym, na podstawie:
+- **29)** po art. 31zd dodaje się art. 31zda i art. 31zdb w brzmieniu: „Art. 31zda. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni po ich odwołaniu decyzje oraz pisma w sprawach świadczeń przyznawanych lub wypłacanych przez Zakład Ubezpieczeń Społecznych mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+
+**Art. 31zdb.** W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie 30 dni następujących po ich odwołaniu termin wyznaczony przez organ egzekucyjny dłużnikowi zajętej wierzytelności będącemu organem rentowym lub organem emerytalnym lub organem emerytalno-rentowym, na podstawie:
+
 - **1)** art. 896 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320 oraz z 2021 r. poz. 11) – wynosi trzy tygodnie;
 - **2)** art. 79 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427, 1492 i 2320 oraz z 2021 r. poz. 11 i 41) – wynosi 21 dni.”;
 - **30)** w art. 31zp:

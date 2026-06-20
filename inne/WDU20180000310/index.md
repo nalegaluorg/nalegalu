@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o bezpieczeństwie imprez masowych
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o bezpieczeństwie imprez masowych
 
 *USTAWA z dnia 10 stycznia 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
+# Ustawa z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
 
 *USTAWA z dnia 26 maja 2022 r.*
 

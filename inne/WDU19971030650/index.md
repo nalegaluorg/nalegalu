@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu Uniwersytetu Papieskiego Jana Pawła II w Krakowie z budżetu państwa
+# Ustawa z dnia 26 czerwca 1997 r. o finansowaniu Papieskiej Akademii Teologicznej w Krakowie z budżetu państwa.
 
 *USTAWA z dnia 26 czerwca 1997 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komornikach sądowych
+# Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o komornikach sądowych
 
 *USTAWA z dnia 25 czerwca 2025 r.*
 

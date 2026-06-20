@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej
+# Ustawa z dnia 9 listopada 1990 r. o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej.
 
 *USTAWA z dnia 9 listopada 1990 r.*
 

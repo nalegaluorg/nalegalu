@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym
+# Ustawa z dnia 7 kwietnia 2022 r. o zmianie ustawy o Krajowym Rejestrze Sądowym
 
 *USTAWA z dnia 7 kwietnia 2022 r.*
 

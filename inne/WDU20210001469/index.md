@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o drogowych spółkach specjalnego przeznaczenia
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lipca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o drogowych spółkach specjalnego przeznaczenia
 
 *USTAWA z dnia 12 stycznia 2007 r.*
 
@@ -159,9 +159,7 @@ source: pdf
 
 2. Przygotowanie lub realizacja przedsięwzięcia drogowego powierzonego spółce może być finansowana z wpływów z opłat, o których mowa w art. 4 ust. 2 pkt 7 i 8, jeżeli umowa, o której mowa w art. 6 ust. 1, tak stanowi.
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2021 r. poz.
-
-- **442)** .
+3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2021 r. poz. 442).
 
 4. Gwarancje i poręczenia, o których mowa w ust. 3, są zwolnione z opłat prowizyjnych.
 
@@ -191,7 +189,9 @@ source: pdf
 2. Dokumenty zamówienia, o którym mowa w ust. 1, powinna zawierać także:
 
 - **1)** obowiązek złożenia oświadczenia przez uczestnika postępowania, że jego wspólnicy albo akcjonariusze, którzy dysponują bezpośrednio lub pośrednio co najmniej 20% głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu lub którzy posiadają bezpośrednio co najmniej 20% udziałów lub akcji w innej spółce kapitałowej, nie ubiegają się o zawarcie umowy, o której mowa w art. 9 ust. 1, dotyczącej tego samego postępowania;
-- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek z nim powiązanych w rozumieniu przepisów o rachunkowości. Art. 11–14. (pominięte)
+- **2)** obowiązek złożenia przez uczestnika postępowania wykazu jednostek z nim powiązanych w rozumieniu przepisów o rachunkowości.
+
+**Art. 11–14.** (pominięte)
 
 **Art. 15.**
 

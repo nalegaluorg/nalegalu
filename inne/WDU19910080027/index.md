@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych.
 
 *USTAWA z dnia 21 grudnia 1990 r.*
 
@@ -157,7 +157,7 @@ source: pdf
 
 3b. Minister właściwy do spraw rolnictwa może na wniosek Krajowej Rady Lekarsko-Weterynaryjnej upoważnić ją do wykonywania w jego imieniu zadań określonych w art. 14, art. 34, art. 35, art. 36 ust. 1 i art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz. 1881) oraz w przepisach wydanych na podstawie art. 21 tej ustawy.
 
-3c. W przypadku upoważnienia Krajowej Rady Lekarsko-Weterynaryjnej, o którym mowa w ust. 3b, okręgowa rada lekarsko-weterynaryjna pobiera opłatę za wydanie zaświadczenia o prawie wykonywania zawodu lekarza weterynarii w wysokości kosztów poniesionych na zakup blankietu zaświadczenia oraz wydanie zaświadczenia.>
+3c. W przypadku upoważnienia Krajowej Rady Lekarsko-Weterynaryjnej, o którym mowa w ust. 3b, okręgowa rada lekarsko-weterynaryjna pobiera opłatę za wydanie zaświadczenia o prawie wykonywania zawodu lekarza weterynarii w wysokości kosztów poniesionych na zakup blankietu zaświadczenia oraz wydanie zaświadczenia.
 
 4. Minister właściwy do spraw rolnictwa, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, określi, w drodze rozporządzenia, wzór zaświadczenia o prawie wykonywania zawodu lekarza weterynarii oraz rodzaje zabezpieczeń tego zaświadczenia przed przerobieniem lub podrobieniem, mając na względzie zapewnienie identyfikacji lekarzy weterynarii uprawnionych do wykonywania zawodu i ochrony danych osobowych tych lekarzy weterynarii, a także zastosowanie zabezpieczeń tego zaświadczenia, które uniemożliwią jego przerobienie lub podrobienie.
 
@@ -994,7 +994,9 @@ source: pdf
 
 2. Osoby wymienione w ust. 1, które na podstawie dotychczasowych przepisów nabyły uprawnienia do wykonywania czynności weterynaryjnych samodzielnie lub pod nadzorem lekarza weterynarii i do czasu wejścia w życie ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Państwowej Inspekcji Weterynaryjnej (Dz. U. z 1999 r. poz. 752, z późn. zm. ) prowadziły zarejestrowaną działalność gospodarczą w tej dziedzinie, zachowują dotychczasowe uprawnienia.
 
-**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania. Art. 70–72. (pominięte)
+**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania.
+
+**Art. 70–72.** (pominięte)
 
 **Art. 73.** Z dniem wejścia w życie ustawy tracą moc:
 

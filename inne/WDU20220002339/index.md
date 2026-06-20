@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w celu przeciwdziałania lichwie
+# Ustawa z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie
 
 *USTAWA z dnia 6 października 2022 r.*
 
@@ -149,9 +149,15 @@ source: pdf
 - **9)** w art. 59ag ust. 2 otrzymuje brzmienie: „2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru instytucji pożyczkowych dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59a, lub który został wykreślony z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym.”;
 - **10)** po art. 59c dodaje się art. 59ca–59cc w brzmieniu: „Art. 59ca. 1. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe nie mogą pochodzić z działalności polegającej na gromadzeniu środków pieniężnych innych osób fizycznych, osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, w tym z emisji obligacji lub innych instrumentów dłużnych oraz ze źródeł nieudokumentowanych.
 
-2. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe mogą pochodzić z kredytu bankowego, albo z pożyczek od podmiotów powiązanych pod warunkiem, że podmioty powiązane udzielające takich pożyczek nie gromadzą środków pieniężnych w sposób wskazany w ust. 1. Art. 59cb. 1. Instytucja pożyczkowa w zakresie udzielanych kredytów konsumenckich za działania lub zaniechania jej pracowników, pośredników kredytowych, za których pośrednictwem udziela kredytów konsumenckich, lub innych przedsiębiorców wykonujących na jej rzecz czynności związane z udzielaniem kredytów konsumenckich, ponosi wobec kredytobiorców odpowiedzialność jak za swoje działania, w tym za działania związane z żądaniem od kredytobiorcy zapłaty odsetek lub pozaodsetkowych kosztów kredytu w wysokości wyższej niż maksymalna lub zawarciem umowy, która zobowiązuje do tego kredytobiorcę wobec instytucji pożyczkowej.
+2. Środki przeznaczane na udzielanie kredytów konsumenckich przez instytucje pożyczkowe mogą pochodzić z kredytu bankowego, albo z pożyczek od podmiotów powiązanych pod warunkiem, że podmioty powiązane udzielające takich pożyczek nie gromadzą środków pieniężnych w sposób wskazany w ust. 1.
 
-2. Odpowiedzialności, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć. Art. 59cc. Ciężar udowodnienia, że instytucja pożyczkowa prawidłowo zrealizowała obowiązki wynikające z ustawy wobec konsumentów, spoczywa na tej instytucji.”;
+**Art. 59cb.**
+
+1. Instytucja pożyczkowa w zakresie udzielanych kredytów konsumenckich za działania lub zaniechania jej pracowników, pośredników kredytowych, za których pośrednictwem udziela kredytów konsumenckich, lub innych przedsiębiorców wykonujących na jej rzecz czynności związane z udzielaniem kredytów konsumenckich, ponosi wobec kredytobiorców odpowiedzialność jak za swoje działania, w tym za działania związane z żądaniem od kredytobiorcy zapłaty odsetek lub pozaodsetkowych kosztów kredytu w wysokości wyższej niż maksymalna lub zawarciem umowy, która zobowiązuje do tego kredytobiorcę wobec instytucji pożyczkowej.
+
+2. Odpowiedzialności, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć.
+
+**Art. 59cc.** Ciężar udowodnienia, że instytucja pożyczkowa prawidłowo zrealizowała obowiązki wynikające z ustawy wobec konsumentów, spoczywa na tej instytucji.”;
 
 - **11)** w art. 59d:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot mający siedzibę na terytorium państwa będącego członkiem Unii Europejskiej innego niż Rzeczpospolita Polska, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym może, na zasadach przewidzianych w ustawie, prowadzić na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, jeżeli spełnia warunki, o których mowa w art. 59a ust. 2–4.”,
@@ -160,9 +166,17 @@ source: pdf
 1b. W zawiadomieniu, o którym mowa w ust. 2, podmiot, o którym mowa w ust. 1, wskazuje właściwe organy nadzorcze państwa, o którym mowa w ust. 1, wyznaczone do sprawowania nad tym podmiotem nadzoru w odniesieniu do działalności w zakresie udzielania kredytu konsumenckiego albo informuje, że przepisy państwa, o którym mowa w ust. 1, nie przewidują wyznaczenia takich organów.”;
 
 - **12)** w art. 59de ust. 2 otrzymuje brzmienie: „2. Komisja Nadzoru Finansowego dokonuje niezwłocznie wykreślenia wpisu z rejestru dotyczącego podmiotu, który przestał spełniać warunki, o których mowa w art. 59da ust. 2, lub który został wykreślony z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo z Centralnej Ewidencji i Informacji o Działalności Gospodarczej.”;
-- **13)** po rozdziale 5aa dodaje się rozdział 5ab w brzmieniu: „Rozdział 5ab Nadzór nad działalnością instytucji pożyczkowych Art. 59df. 1. Działalność instytucji pożyczkowych w zakresie udzielania kredytu konsumenckiego podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego.
+- **13)** po rozdziale 5aa dodaje się rozdział 5ab w brzmieniu: „Rozdział 5ab Nadzór nad działalnością instytucji pożyczkowych
 
-2. Celem nadzoru nad działalnością instytucji pożyczkowych jest kontrola i egzekwowanie zgodności tej działalności z ustawą. Art. 59dg. 1. Instytucja pożyczkowa przekazuje Komisji Nadzoru Finansowego kwartalne i roczne sprawozdania z działalności w zakresie udzielania kredytu konsumenckiego, obejmujące informacje o:
+**Art. 59df.**
+
+1. Działalność instytucji pożyczkowych w zakresie udzielania kredytu konsumenckiego podlega nadzorowi sprawowanemu przez Komisję Nadzoru Finansowego.
+
+2. Celem nadzoru nad działalnością instytucji pożyczkowych jest kontrola i egzekwowanie zgodności tej działalności z ustawą.
+
+**Art. 59dg.**
+
+1. Instytucja pożyczkowa przekazuje Komisji Nadzoru Finansowego kwartalne i roczne sprawozdania z działalności w zakresie udzielania kredytu konsumenckiego, obejmujące informacje o:
 
 - **1)** udzielonych kredytach konsumenckich, w tym ich liczbie, z uwzględnieniem liczby kredytów, o których mowa w art. 36b, wartości, strukturze terminowej i walutowej oraz opóźnieniach w spłatach;
 - **2)** zawartych umowach o kredyt konsumencki, w tym ich liczbie, rodzajach oraz statusie;
@@ -173,12 +187,20 @@ source: pdf
 
 2. Sprawozdania, o których mowa w ust. 1, są przekazywane Komisji Nadzoru Finansowego wyłącznie w postaci elektronicznej za pośrednictwem udostępnionych przez Komisję Nadzoru Finansowego formularzy sprawozdawczych i kanałów komunikacji.
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres i terminy przekazywania informacji, o których mowa w ust. 1, oraz wzory formularzy sprawozdawczych, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania skutecznego nadzoru nad działalnością instytucji pożyczkowych. Art. 59dh. 1. W ramach sprawowanego nadzoru Komisja Nadzoru Finansowego może:
+3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres i terminy przekazywania informacji, o których mowa w ust. 1, oraz wzory formularzy sprawozdawczych, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania skutecznego nadzoru nad działalnością instytucji pożyczkowych.
+
+**Art. 59dh.**
+
+1. W ramach sprawowanego nadzoru Komisja Nadzoru Finansowego może:
 
 - **1)** zażądać od instytucji pożyczkowej przekazania lub okresowego przekazywania przez tę instytucję informacji, dokumentów lub danych niezbędnych do realizacji celu, o którym mowa w art. 59df ust. 2, innych niż informacje określone w art. 59dg ust. 1;
 - **2)** wydawać instytucji pożyczkowej zalecenia dotyczące zapewnienia zgodności działalności w zakresie udzielania kredytu konsumenckiego z ustawą.
 
-2. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez instytucje pożyczkowe na podstawie ustawy. Art. 59di. 1. W razie stwierdzenia, że instytucja pożyczkowa nie wykonuje obowiązku przekazania informacji, o którym mowa w art. 59dg ust. 1 lub art. 59dh ust. 1 pkt 1, albo wykonuje ten obowiązek nieprawidłowo, nie wykonała w wyznaczonym terminie zaleceń, o których mowa w art. 59dh ust. 1 pkt 2, a także w razie stwierdzenia, że działalność instytucji pożyczkowej, w tym również prowadzona z udziałem pośrednika kredytowego, jest wykonywana z naruszeniem ustawy lub wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
+2. Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez instytucje pożyczkowe na podstawie ustawy.
+
+**Art. 59di.**
+
+1. W razie stwierdzenia, że instytucja pożyczkowa nie wykonuje obowiązku przekazania informacji, o którym mowa w art. 59dg ust. 1 lub art. 59dh ust. 1 pkt 1, albo wykonuje ten obowiązek nieprawidłowo, nie wykonała w wyznaczonym terminie zaleceń, o których mowa w art. 59dh ust. 1 pkt 2, a także w razie stwierdzenia, że działalność instytucji pożyczkowej, w tym również prowadzona z udziałem pośrednika kredytowego, jest wykonywana z naruszeniem ustawy lub wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
 
 - **1)** nałożyć na członka zarządu instytucji pożyczkowej bezpośrednio odpowiedzialnego za stwierdzone nieprawidłowości administracyjną karę pieniężną w wysokości do 150 000 zł;
 - **2)** nałożyć na instytucję pożyczkową administracyjną karę pieniężną w wysokości do 15 000 000 zł;
@@ -198,7 +220,11 @@ source: pdf
 
 7. Komisja Nadzoru Finansowego przekazuje do publicznej wiadomości informację o zastosowaniu sankcji, o których mowa w ust. 1, chyba że ujawnienie takiej informacji mogłoby w sposób niewspółmierny zaszkodzić interesowi prawnemu zainteresowanych stron. Imię i nazwisko osoby, na którą została nałożona sankcja, o której mowa w ust. 1 pkt 1 lub 4, podaje się do publicznej wiadomości, gdy decyzja w tym przedmiocie jest ostateczna.
 
-8. Informacje, o których mowa w ust. 7, są dostępne na stronie internetowej Komisji Nadzoru Finansowego przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok. Art. 59dj. 1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru nad instytucjami pożyczkowymi, stanowią tajemnicę zawodową chronioną zgodnie z przepisem art. 16 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, 872, 1488, 1692, 2185 i 2339).
+8. Informacje, o których mowa w ust. 7, są dostępne na stronie internetowej Komisji Nadzoru Finansowego przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok.
+
+**Art. 59dj.**
+
+1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru nad instytucjami pożyczkowymi, stanowią tajemnicę zawodową chronioną zgodnie z przepisem art. 16 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660, 872, 1488, 1692, 2185 i 2339).
 
 2. Obowiązku ochrony tajemnicy, o której mowa w ust. 1, nie narusza:
 
@@ -207,7 +233,11 @@ source: pdf
 - **3)** złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
 - **4)** przekazanie informacji osobie, organowi lub innemu podmiotowi na podstawie przepisów odrębnych.
 
-3. W przypadku informacji objętych ochroną na podstawie przepisów odrębnych udzielanie i przekazywanie przez Komisję Nadzoru Finansowego informacji, o których mowa w ust. 1, nie może naruszać zasad ochrony określonej w tych przepisach. Art. 59dk. 1. Komisja Nadzoru Finansowego może udzielać informacji uzyskanych lub wytworzonych w związku z wykonywaniem zadań wynikających z ustawy:
+3. W przypadku informacji objętych ochroną na podstawie przepisów odrębnych udzielanie i przekazywanie przez Komisję Nadzoru Finansowego informacji, o których mowa w ust. 1, nie może naruszać zasad ochrony określonej w tych przepisach.
+
+**Art. 59dk.**
+
+1. Komisja Nadzoru Finansowego może udzielać informacji uzyskanych lub wytworzonych w związku z wykonywaniem zadań wynikających z ustawy:
 
 - **1)** właściwym organom nadzorczym, w przypadkach określonych w art. 59dm;
 - **2)** organom i instytucjom Unii Europejskiej właściwym w sprawach związanych z działalnością w zakresie udzielania kredytu konsumenckiego i nadzorem nad podmiotami prowadzącymi taką działalność.
@@ -216,15 +246,30 @@ source: pdf
 
 - **1)** zapewnione jest wykorzystanie udzielonych informacji wyłącznie na potrzeby wykonywanych przez te organy zadań związanych z działalnością w zakresie udzielania kredytu konsumenckiego lub nadzorem nad podmiotami prowadzącymi taką działalność;
 - **2)** zagwarantowane jest, że przekazywanie udzielonych informacji poza te organy jest możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Finansowego;
-- **3)** nie narusza to zasad ochrony informacji wynikających z przepisów odrębnych. Art. 59dl. 1. W przypadku stwierdzenia, że podmiot, o którym mowa w art. 59d ust. 1, prowadząc na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, narusza przepisy ustawy lub prowadzi tę działalność wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
+- **3)** nie narusza to zasad ochrony informacji wynikających z przepisów odrębnych.
+
+**Art. 59dl.**
+
+1. W przypadku stwierdzenia, że podmiot, o którym mowa w art. 59d ust. 1, prowadząc na terytorium Rzeczypospolitej Polskiej działalność w zakresie udzielania kredytu konsumenckiego, narusza przepisy ustawy lub prowadzi tę działalność wbrew warunkom określonym w ustawie, Komisja Nadzoru Finansowego może:
+
 - **1)** wezwać ten podmiot, w formie pisemnej, do przestrzegania przepisów prawa polskiego i wyznaczyć mu termin usunięcia stwierdzonych nieprawidłowości;
 - **2)** zakazać wykonywania przez ten podmiot na terytorium Rzeczypospolitej Polskiej działalności w zakresie udzielania kredytu konsumenckiego.
 
-2. Zastosowanie sankcji, o której mowa w ust. 1 pkt 2, następuje w drodze decyzji administracyjnej. Decyzja ta jest natychmiast wykonalna. Komisja Nadzoru Finansowego podaje tę decyzję do publicznej wiadomości. Art. 59dm. 1. W celu zapewnienia zgodności działalności podmiotu, o którym mowa w art. 59d ust. 1, z przepisami ustawy oraz podejmowania w stosunku do tego podmiotu działań określonych w art. 59dl ust. 1, Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państwa, o którym mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone.
+2. Zastosowanie sankcji, o której mowa w ust. 1 pkt 2, następuje w drodze decyzji administracyjnej. Decyzja ta jest natychmiast wykonalna. Komisja Nadzoru Finansowego podaje tę decyzję do publicznej wiadomości.
+
+**Art. 59dm.**
+
+1. W celu zapewnienia zgodności działalności podmiotu, o którym mowa w art. 59d ust. 1, z przepisami ustawy oraz podejmowania w stosunku do tego podmiotu działań określonych w art. 59dl ust. 1, Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państwa, o którym mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone.
 
 2. Komisja Nadzoru Finansowego może współpracować z właściwymi organami nadzorczymi państw, o których mowa w art. 59d ust. 1, o ile organy takie zostały wyznaczone, w zakresie działalności instytucji pożyczkowych na terytorium tych państw.
 
-3. W ramach współpracy, o której mowa w ust. 1 i 2, Komisja Nadzoru Finansowego może przekazywać właściwym organom nadzorczym, na żądanie lub z własnej inicjatywy, informacje uzyskane w związku z wykonywaniem zadań wynikających z ustawy, niezbędne do osiągnięcia celów tej współpracy. Art. 59dn. Komisja Nadzoru Finansowego oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikającą ze zgodnego z przepisami działania lub zaniechania, które pozostaje w związku ze sprawowanym przez Komisję Nadzoru Finansowego nadzorem. Art. 59do. 1. Instytucje pożyczkowe są obowiązane do wnoszenia rocznych wpłat na pokrycie kosztów nadzoru w kwocie nie wyższej niż 0,5% sumy przychodów uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego za poprzedzający rok obrotowy i nie mniejszej niż równowartość w złotych 5000 euro, przeliczonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
+3. W ramach współpracy, o której mowa w ust. 1 i 2, Komisja Nadzoru Finansowego może przekazywać właściwym organom nadzorczym, na żądanie lub z własnej inicjatywy, informacje uzyskane w związku z wykonywaniem zadań wynikających z ustawy, niezbędne do osiągnięcia celów tej współpracy.
+
+**Art. 59dn.** Komisja Nadzoru Finansowego oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikającą ze zgodnego z przepisami działania lub zaniechania, które pozostaje w związku ze sprawowanym przez Komisję Nadzoru Finansowego nadzorem.
+
+**Art. 59do.**
+
+1. Instytucje pożyczkowe są obowiązane do wnoszenia rocznych wpłat na pokrycie kosztów nadzoru w kwocie nie wyższej niż 0,5% sumy przychodów uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego za poprzedzający rok obrotowy i nie mniejszej niż równowartość w złotych 5000 euro, przeliczonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
 
 2. Instytucje pożyczkowe przekazują Urzędowi Komisji Nadzoru Finansowego deklaracje o wysokości należnej wpłaty na pokrycie kosztów nadzoru. Przepis art. 59dg ust. 2 stosuje się odpowiednio.
 
@@ -232,7 +277,11 @@ source: pdf
 
 - **1)** terminy wnoszenia, wysokość i sposób obliczania wpłat, o których mowa w ust. 1,
 - **2)** sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1,
-- **3)** wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Art. 59dp. 1. Instytucja pożyczkowa, która nie wykonała obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, wnosi na rzecz Urzędu Komisji Nadzoru Finansowego opłatę sankcyjną w kwocie stanowiącej równowartość w złotych 5000 euro. Wniesienie opłaty sankcyjnej nie zwalnia z wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4.
+- **3)** wzór deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru – mając na względzie, aby wysokość wpłat na pokrycie kosztów nadzoru nie wpływała w istotny sposób na zwiększenie kosztów działalności podmiotów obowiązanych do ich uiszczenia, konieczność zapewnienia skuteczności sprawowanego nadzoru oraz możliwość składania deklaracji o wysokości należnej wpłaty na pokrycie kosztów nadzoru w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 59dp.**
+
+1. Instytucja pożyczkowa, która nie wykonała obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4, wnosi na rzecz Urzędu Komisji Nadzoru Finansowego opłatę sankcyjną w kwocie stanowiącej równowartość w złotych 5000 euro. Wniesienie opłaty sankcyjnej nie zwalnia z wykonania obowiązku, o którym mowa w art. 59dg ust. 1 pkt 4.
 
 2. Równowartość w złotych wyrażonej w euro kwoty, o której mowa w ust. 1, przelicza się przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na ostatni dzień roboczy roku poprzedzającego rok kalendarzowy, w którym powstało zobowiązanie.
 

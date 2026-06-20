@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 marca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +29,6 @@ source: pdf
 poz. 147), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „Art. 221. 1. Karty doskonalenia zawodowego ratownika medycznego wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane.
 2. Ratownicy medyczni, którzy przed dniem wejścia w życie ustawy rozpoczęli okres edukacyjny, kontynuują go na nowych zasadach z zachowaniem dotychczasowych punktów edukacyjnych.
-Art. 37–39. (pominięte)
 
 **Art. 222.**
 
@@ -479,6 +478,8 @@ Art. 37–39. (pominięte)
 **Art. 36.** Postępowanie w sprawach określonych w art. 34 i art. 35 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 37–39.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
 

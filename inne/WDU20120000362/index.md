@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podatku od wydobycia niektórych kopalin
+# Ustawa z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin
 
 *USTAWA z dnia 2 marca 2012 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2012-04-03 |
 | Ostatnia zmiana | 2026-04-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/362/text.pdf) |
-
-Art. 17–22. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -386,6 +384,8 @@ Art. 17–22. (pominięte)
 ### DZIAŁ VII Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 17–22.** (pominięte)
 
 #### Rozdział 1a Przepisy epizodyczne
 

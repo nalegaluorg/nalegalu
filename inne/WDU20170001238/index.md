@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie prawnej odmian roślin
+# Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy o ochronie prawnej odmian roślin
 
 *USTAWA z dnia 8 czerwca 2017 r.*
 

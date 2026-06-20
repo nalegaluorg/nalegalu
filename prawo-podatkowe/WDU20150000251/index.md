@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy – Ordynacja podatkowa
+# Ustawa z dnia 16 stycznia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy - Ordynacja podatkowa
 
 *USTAWA z dnia 16 stycznia 2015 r.*
 

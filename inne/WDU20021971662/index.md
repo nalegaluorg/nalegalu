@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 28 października 2002 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych.
 
 *USTAWA z dnia 28 października 2002 r.*
 

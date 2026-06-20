@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach lekarza i lekarza dentysty
+# Ustawa z dnia 12 marca 2008 r. o zmianie ustawy o zawodach lekarza i dentysty
 
 *USTAWA z dnia 12 marca 2008 r.*
 

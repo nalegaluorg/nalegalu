@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw
+# Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 18 lipca 2002 r.*
 

@@ -8,10 +8,12 @@ pos: 94
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 stycznia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Rządowym Funduszu Rozwoju Dróg
+
+*USTAWA z dnia 23 października 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,46 +24,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-01-15 |
 | Data wydania | 2025-01-23 |
-| Ostatnia zmiana | 2025-01-24 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/94/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2023 r. poz. 1983), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473),
-2) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572),
-3) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 40, art. 41, art. 58 i art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), które stanowią: „Art. 40. Listę dróg uszkodzonych lub zniszczonych, o której mowa w art. 36u ustawy zmienianej w art. 18, wojewoda sporządza i przekazuje ministrowi właściwemu do spraw transportu w terminie 30 dni od dnia wejścia w życie niniejszej ustawy. Listę wojewoda publikuje w Biuletynie Informacji Publicznej w dniu przekazania jej ministrowi właściwemu do spraw transportu.
-Art. 40–42. (pominięte)
-
-**Art. 41.**
-
-1. Minister właściwy do spraw transportu, w terminie 7 dni od dnia wejścia w życie niniejszej ustawy, opracowuje projekty zmiany planu finansowego Rządowego Funduszu Rozwoju Dróg na rok 2024 i rok 2025, o którym mowa w art. 9 ustawy zmienianej w art. 18.
-
-2. Projekty, o których mowa w ust. 1, podlegają uzgodnieniu w zakresie finansowym z ministrem właściwym do spraw finansów publicznych w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.” „Art. 58. Do inwestycji, o których mowa w art. 4 ust. 1 pkt 2e ustawy zmienianej w art. 18 oraz z zakresu dróg krajowych, linii kolejowych lub dworców kolejowych, zniszczonych lub uszkodzonych w wyniku powodzi lub osunięcia ziemi nie stosuje się art. 398 ustawy zmienianej w art. 16.” „Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-
-- **2)** art. 98 i art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), które stanowią: „Art. 98. Podstawę do wyliczenia dochodów, o których mowa w art. 14 ust. 2 ustawy zmienianej w art. 74, w brzmieniu dotychczasowym, branych pod uwagę do ustalenia dofinansowania jednostek samorządu terytorialnego z Rządowego Funduszu Rozwoju Dróg w roku 2025, stanowią:
-- **1)** wskaźniki dochodów podatkowych jednostki samorządu terytorialnego danego rodzaju, o których mowa w art. 20 ust. 4 i art. 22 ust. 4 ustawy uchylanej w art. 120, uwzględnione do wyliczenia części wyrównawczej subwencji ogólnej na rok 2024;
-- **2)** część wyrównawcza i część równoważąca subwencji ogólnej oraz wpłaty do budżetu państwa ustalone na rok bazowy.” „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-- **1)** art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-- **2)** art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
-- **3)** art. 46 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), który stanowi: „Art. 46. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** działania Rządowego Funduszu Rozwoju Dróg, zwanego dalej „Funduszem”;
+- **2)** gromadzenia środków Funduszu;
+- **3)** udzielania dofinansowania i finansowania ze środków Funduszu.
+
 **Art. 2.**
 
 1. Ilekroć w dalszych przepisach jest mowa o:
 
-- **1)** dojeździe do mostu rozumie się przez to drogę publiczną lub jej odcinek łączącą most z najbliższą drogą publiczną;
-- **1a)** terminalu intermodalnym rozumie się przez to obszar, na którym znajduje się obiekt budowlany w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i 1881) lub zespół obiektów budowlanych wraz z urządzeniami specjalistycznymi i infrastrukturą, które umożliwiają prowadzenie załadunku, wyładunku lub innych czynności ładunkowych, a także czasowe składowanie intermodalnych jednostek ładunkowych z wykorzystaniem przynajmniej dwóch rodzajów transportu;
-- **1b)** dojeździe do terminala intermodalnego rozumie się przez to drogę publiczną lub jej odcinek przebiegający od terminala intermodalnego do najbliższej drogi krajowej lub wojewódzkiej;
-- **1c)** specjalnej strefie ekonomicznej rozumie się przez to strefę, o której mowa w art. 2 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604);
-- **1d)** dojeździe do strefy rozumie się przez to drogę publiczną lub jej odcinek łączący wyznaczoną granicę specjalnej strefy ekonomicznej, zwanej dalej „strefą”, z najbliższą drogą publiczną;
-- **2)** moście rozumie się przez to budowlę, której funkcją jest w szczególności prowadzenie ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), przeznaczoną do przeprowadzania drogi nad przeszkodą wodną;
-- **2a)** obwodnicy rozumie się przez to drogę omijającą miejscowość lub teren zwartej zabudowy miejscowości, planowaną do realizacji w większości w nowym przebiegu i mającą na celu wyprowadzenie części ruchu pojazdów z tej miejscowości;
-- **3)** spółce rozumie się przez to:
+- **1)** dojeździe do mostu – rozumie się przez to drogę publiczną lub jej odcinek łączącą most z najbliższą drogą publiczną;
+- **1a)** terminalu intermodalnym – rozumie się przez to obszar, na którym znajduje się obiekt budowlany w rozumieniu art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i 1881) lub zespół obiektów budowlanych wraz z urządzeniami specjalistycznymi i infrastrukturą, które umożliwiają prowadzenie załadunku, wyładunku lub innych czynności ładunkowych, a także czasowe składowanie intermodalnych jednostek ładunkowych z wykorzystaniem przynajmniej dwóch rodzajów transportu;
+- **1b)** dojeździe do terminala intermodalnego – rozumie się przez to drogę publiczną lub jej odcinek przebiegający od terminala intermodalnego do najbliższej drogi krajowej lub wojewódzkiej;
+- **1c)** specjalnej strefie ekonomicznej – rozumie się przez to strefę, o której mowa w art. 2 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604);
+- **1d)** dojeździe do strefy – rozumie się przez to drogę publiczną lub jej odcinek łączący wyznaczoną granicę specjalnej strefy ekonomicznej, zwanej dalej „strefą”, z najbliższą drogą publiczną;
+- **2)** moście – rozumie się przez to budowlę, której funkcją jest w szczególności prowadzenie ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), przeznaczoną do przeprowadzania drogi nad przeszkodą wodną;
+- **2a)** obwodnicy – rozumie się przez to drogę omijającą miejscowość lub teren zwartej zabudowy miejscowości, planowaną do realizacji w większości w nowym przebiegu i mającą na celu wyprowadzenie części ruchu pojazdów z tej miejscowości;
+- **3)** spółce – rozumie się przez to:
     - **a)** jednoosobową spółkę Skarbu Państwa,
     - **b)** spółkę, w której wszystkie akcje (udziały) są własnością Skarbu Państwa, z wyjątkiem akcji (udziałów) nieodpłatnie udostępnionych pracownikom na zasadach określonych w odrębnych przepisach.
 
@@ -108,12 +93,13 @@ Art. 40–42. (pominięte)
 
 1. Środki Funduszu pochodzą z:
 
-- **1)** wpłat Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ), w wysokości nie mniejszej niż 1,4 mld zł rocznie;
+- **1)** wpłat Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, z późn. zm. ), w wysokości nie mniejszej niż 1,4 mld zł rocznie;
 - **2)** wpłat z budżetu państwa z części budżetowej, której dysponentem jest Minister Obrony Narodowej, w wysokości 500 mln zł rocznie;
 - **3)** wpłat z budżetu państwa z części budżetowej, której dysponentem jest minister właściwy do spraw transportu;
 - **4)** wpłat Dyrekcji Generalnej Państwowego Gospodarstwa Leśnego Lasy Państwowe, o którym mowa w art. 4 ust. 1 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530, 1473 i 1907), w wysokości stanowiącej równowartość 2 % przychodów uzyskanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe ze sprzedaży drewna;
 - **5)** wpłat spółek w wysokości 7,5 % ich zysku po opodatkowaniu podatkiem dochodowym;
-- **6)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu;
+- **6)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
+- **6a)** odsetek z tytułu oprocentowania środków Funduszu gromadzonych na rachunkach bankowych jednostek samorządu terytorialnego, które otrzymały te środki;
 - **7)** środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
 - **8)** wpływów ze skarbowych papierów wartościowych, o których mowa w art. 6 ust. 1;
 - **8a)** kar pieniężnych, o których mowa w art. 39 ust. 3b i art. 40 ust. 2b ustawy z dnia 21 marca 1985 r. o drogach publicznych, nałożonych na zarządcę drogi, o którym mowa w art. 19 ust. 2 pkt 2–4 i ust. 5 tej ustawy;
@@ -130,7 +116,7 @@ Art. 40–42. (pominięte)
 - **1)** zatwierdzeniu rocznego sprawozdania finansowego spółki;
 - **2)** sporządzeniu rocznego sprawozdania finansowego spółki, jeśli zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) nie występuje obowiązek zatwierdzenia tego sprawozdania.
 
-5. Do wpłat, o których mowa w ust. 1 pkt 5, stosuje się odpowiednio przepisy działu III rozdziału 1–6, 7, 8, 9, 11 i 13–15 oraz działu IV ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831), z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują ministrowi właściwemu do spraw transportu.
+5. Do wpłat, o których mowa w ust. 1 pkt 5, stosuje się odpowiednio przepisy działu III rozdziału 1–6, 7, 8, 9, 11 i 13–15 oraz działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831), z tym że uprawnienia organów podatkowych określone w tej ustawie przysługują ministrowi właściwemu do spraw transportu.
 
 6. Do egzekucji wpłat, o których mowa w ust. 1 pkt 5, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. ).
 
@@ -140,7 +126,7 @@ Art. 40–42. (pominięte)
 
 9. Od obowiązku dokonywania wpłat, o których mowa w ust. 1 pkt 5, są zwolnione spółki:
 
-- **1)** będące operatorami systemu przesyłowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881);
+- **1)** będące operatorami systemu przesyłowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881);
 - **2)** działające na podstawie ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222);
 - **3)** będące podmiotami leczniczymi w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897).
 
@@ -189,17 +175,13 @@ Art. 40–42. (pominięte)
 
 2. Finansowanie zadań obronnych jest pokrywane ze środków, o których mowa w art. 5 ust. 1 pkt 2.
 
-**Art. 7a.**
-
-1. Okresowo wolne środki Funduszu Bank może lokować w:
-
-- **1)** innych bankach;
-- **2)** papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** papiery wartościowe emitowane przez Narodowy Bank Polski.
-
-2. Suma lokat, o których mowa w ust. 1 pkt 1, w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków Funduszu.
+**Art. 7a.** Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 **Art. 8.** Rada Ministrów określi, w drodze rozporządzenia, sposób podziału środków Funduszu na zadania powiatowe oraz zadania gminne na poszczególne województwa, mając na uwadze:
+
+- **1)** długość sieci dróg powiatowych i dróg gminnych w województwie;
+- **2)** liczbę ludności i powierzchnię województwa;
+- **3)** wartość produktu krajowego brutto województwa.
 
 **Art. 9.**
 
@@ -230,6 +212,12 @@ Art. 40–42. (pominięte)
 
 **Art. 9a.** Minister właściwy do spraw transportu zawiera z Bankiem porozumienie określające:
 
+- **1)** tryb opracowania planu finansowego Funduszu;
+- **2)** szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu;
+- **3)** terminy dokonywania przez Bank lokat wolnych środków Funduszu w formie depozytu, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz sposób i terminy dokonywania przez Bank lokat wolnych środków Funduszu, o których mowa w art. 7a;
+- **4)** terminy i sposób przekazywania przez Bank informacji o realizacji planu finansowego Funduszu;
+- **5)** sposób rozporządzania skarbowymi papierami wartościowymi, o których mowa w art. 6 ust. 1.
+
 **Art. 9b.**
 
 1. Bank pobiera wynagrodzenie prowizyjne z tytułu obsługi Funduszu.
@@ -246,7 +234,7 @@ Art. 40–42. (pominięte)
 - **4)** art. 36j ust. 1,
 - **5)** art. 36n ust. 1,
 - **6)** art. 36t ust. 1, 6a) art. 36y ust. 1,
-- **7)** art. 39 ust. 4 nie są ujmowane w księgach rachunkowych ministra właściwego do spraw transportu oraz wojewodów.
+- **7)** art. 39 ust. 4 – nie są ujmowane w księgach rachunkowych ministra właściwego do spraw transportu oraz wojewodów.
 
 2. Minister właściwy do spraw transportu oraz wojewodowie prowadzą dla umów, o których mowa w ust. 1, ewidencję tych umów.
 
@@ -320,7 +308,7 @@ Art. 40–42. (pominięte)
 
 2. Wysokość dofinansowania zadania obwodnicowego ustala się, biorąc pod uwagę średni dochód gmin, powiatów i miast na prawach powiatu na mieszkańca podregionu, na terenie których jest planowana realizacja danego zadania obwodnicowego, w stosunku do średniego dochodu gmin, powiatów i miast na prawach powiatu na mieszkańca kraju.
 
-3. Przez podregion, o którym mowa w ust. 2, rozumie się jednostkę terytorialną poziomu NUTS 3, o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196).
+3. Przez podregion, o którym mowa w ust. 2, rozumie się jednostkę terytorialną poziomu NUTS 3, o której mowa w rozporządzeniu (WE) nr 1059/2003 Parlamentu Europejskiego i Rady z dnia 26 maja 2003 r. w sprawie ustalenia wspólnej klasyfikacji Jednostek Terytorialnych do Celów Statystycznych (NUTS) (Dz. Urz. UE L 154 z 21.06.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 14, t. 1, str. 196).
 
 4. Średni dochód gmin, powiatów i miast na prawach powiatu na mieszkańca podregionu oblicza się, dzieląc dochody podatkowe podregionu przez liczbę jego mieszkańców.
 
@@ -355,8 +343,8 @@ Art. 40–42. (pominięte)
 
 3. Wysokość dofinansowania udzielonego nie może przekroczyć na zadanie dojazdowe do:
 
-- **1)** terminala intermodalnego 300 mln zł;
-- **2)** strefy 50 mln zł.
+- **1)** terminala intermodalnego – 300 mln zł;
+- **2)** strefy – 50 mln zł.
 
 **Art. 16d.**
 
@@ -364,9 +352,7 @@ Art. 40–42. (pominięte)
 
 2. Do ustalenia wysokości dofinansowania, o którym mowa w ust. 1, stosuje się przepisy art. 16a ust. 2–9.
 
-**Art. 16e.**
-
-- **16)** Jednostka samorządu terytorialnego może otrzymać ze środków Funduszu środki na zadanie powodziowe w wysokości 100 % kosztów realizacji tego zadania, nie więcej niż 100 mln zł.
+**Art. 16e.** Jednostka samorządu terytorialnego może otrzymać ze środków Funduszu środki na zadanie powodziowe w wysokości 100 % kosztów realizacji tego zadania, nie więcej niż 100 mln zł.
 
 **Art. 17.** (uchylony)
 
@@ -401,8 +387,8 @@ Art. 40–42. (pominięte)
 7. Ogłoszenie o naborze zawiera informacje obejmujące w szczególności:
 
 - **1)** wysokość środków przeznaczonych na dofinansowanie zadań powiatowych oraz zadań gminnych, w tym zadań wieloletnich, w danym województwie, z uwzględnieniem podziału środków dokonanego zgodnie z art. 20 ust. 2:
-    - **a)** ustaloną na podstawie informacji, o której mowa w art. 20 ust. 1, oraz uwzględniającą kwotę zobowiązań wynikających z umów, o których mowa w art. 28 ust. 1, na podstawie których udzielono dofinansowania na zadania wieloletnie w przypadku naboru, o którym mowa w ust. 2,
-    - **b)** obejmującą środki, które nie zostały wyczerpane na dofinansowanie zadań powiatowych oraz zadań gminnych w ramach poprzednich naborów przeprowadzonych w danym województwie w przypadku naboru, o którym mowa w ust. 4;
+    - **a)** ustaloną na podstawie informacji, o której mowa w art. 20 ust. 1, oraz uwzględniającą kwotę zobowiązań wynikających z umów, o których mowa w art. 28 ust. 1, na podstawie których udzielono dofinansowania na zadania wieloletnie – w przypadku naboru, o którym mowa w ust. 2,
+    - **b)** obejmującą środki, które nie zostały wyczerpane na dofinansowanie zadań powiatowych oraz zadań gminnych w ramach poprzednich naborów przeprowadzonych w danym województwie – w przypadku naboru, o którym mowa w ust. 4;
 
 - **2)** wymogi formalne, które powinien spełniać wniosek o dofinansowanie zadania powiatowego oraz zadania gminnego, w tym jego wzór;
 - **3)** termin, miejsce i sposób składania wniosków o dofinansowanie zadań powiatowych oraz zadań gminnych.
@@ -418,7 +404,7 @@ Art. 40–42. (pominięte)
 3. W skład komisji wchodzą:
 
 - **1)** dwie osoby wyznaczone przez wojewodę;
-- **2)** po jednym przedstawicielu właściwych miejscowo dla danego województwa organów Generalnego Dyrektora Dróg Krajowych i Autostrad, Policji oraz nadzoru budowlanego, o których mowa w przepisach ustawy z dnia 7 lipca 1994 r. Prawo budowlane.
+- **2)** po jednym przedstawicielu właściwych miejscowo dla danego województwa organów Generalnego Dyrektora Dróg Krajowych i Autostrad, Policji oraz nadzoru budowlanego, o których mowa w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 4. Komisji przewodniczy osoba wyznaczona przez wojewodę spośród osób, o których mowa w ust. 3 pkt 1. Wojewoda ustala regulamin działania komisji.
 
@@ -437,7 +423,7 @@ Art. 40–42. (pominięte)
 4. W przypadku gdy wniosek o dofinansowanie, o którym mowa w ust. 1:
 
 - **1)** nie spełnia wymogów formalnych, o których mowa w ust. 2, lub określonych w ogłoszeniu o naborze, zgodnie z art. 21 ust. 7 pkt 2, lub
-- **2)** zawiera oczywiste omyłki komisja wzywa wnioskodawcę do jego uzupełnienia lub poprawienia w nim oczywistych omyłek, w terminie 10 dni, a w przypadku naboru, o którym mowa w art. 21 ust. 4, ogłaszanego po dniu 15 października danego roku w terminie 5 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+- **2)** zawiera oczywiste omyłki – komisja wzywa wnioskodawcę do jego uzupełnienia lub poprawienia w nim oczywistych omyłek, w terminie 10 dni, a w przypadku naboru, o którym mowa w art. 21 ust. 4, ogłaszanego po dniu 15 października danego roku – w terminie 5 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
 5. Wnioskodawca, uzupełniając lub poprawiając wniosek o dofinansowanie, o którym mowa w ust. 1, zgodnie z ust. 4, nie może załączyć dokumentów datowanych na dzień po złożeniu wniosku, o czym komisja poucza wnioskodawcę, kierując do niego wezwanie, o którym mowa w ust. 4.
 
@@ -477,7 +463,7 @@ Art. 40–42. (pominięte)
 5a. W odniesieniu do inwestycji zlokalizowanych na:
 
 - **1)** obszarze objętym szczególnymi zasadami gospodarowania nieruchomościami, planowania i zagospodarowania przestrzennego oraz realizacji inwestycji, określonym w przepisach wydanych na podstawie art. 28 ust. 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747),
-- **2)** obszarze objętym strategią rozwoju, o której mowa w dziale IVb ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym komisja może umieścić na liście, o której mowa w ust. 5, zadania powiatowe lub zadanie gminne do dofinansowania ze środków Funduszu wyłącznie po uzyskaniu pozytywnej opinii Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, wydawanej w terminie 14 dni od dnia doręczenia wniosku temu pełnomocnikowi.
+- **2)** obszarze objętym strategią rozwoju, o której mowa w dziale IVb ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym – komisja może umieścić na liście, o której mowa w ust. 5, zadania powiatowe lub zadanie gminne do dofinansowania ze środków Funduszu wyłącznie po uzyskaniu pozytywnej opinii Pełnomocnika Rządu do spraw Centralnego Portu Komunikacyjnego, wydawanej w terminie 14 dni od dnia doręczenia wniosku temu pełnomocnikowi.
 
 6. Lista, o której mowa w ust. 5, jest sporządzana w podziale na zadania powiatowe i zadania gminne oraz obejmuje:
 
@@ -494,7 +480,7 @@ Art. 40–42. (pominięte)
 - **4)** przewidywany koszt realizacji zadania, ustalony na podstawie informacji zawartej we wniosku o dofinansowanie, o którym mowa w art. 23 ust. 1, zgodnie z art. 23 ust. 2;
 - **5)** przewidywany okres realizacji zadania;
 - **6)** proponowany procent dofinansowania zadania;
-- **7)** proponowaną kwotę dofinansowania, a w przypadku zadań wieloletnich proponowaną kwotę dofinansowania w podziale na poszczególne lata.
+- **7)** proponowaną kwotę dofinansowania, a w przypadku zadań wieloletnich – proponowaną kwotę dofinansowania w podziale na poszczególne lata.
 
 9. Komisja pisemnie informuje wnioskodawcę o umieszczeniu zadania na liście, o której mowa w art. 26 ust. 3 pkt 1.
 
@@ -518,7 +504,7 @@ Art. 40–42. (pominięte)
 1. Po otrzymaniu od ministra właściwego do spraw transportu list, o których mowa w art. 24 ust. 5, Prezes Rady Ministrów może:
 
 - **1)** dokonać zmian na listach, o których mowa w art. 24 ust. 5,
-- **2)** wskazać do dofinansowania dodatkowe zadania powiatowe lub zadania gminne mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności lub obszarów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
+- **2)** wskazać do dofinansowania dodatkowe zadania powiatowe lub zadania gminne – mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności lub obszarów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
 
 1a. Ustanawia się rezerwę w wysokości 5 % sumy kwot, o których mowa w art. 20 ust. 1.
 
@@ -555,6 +541,10 @@ Art. 40–42. (pominięte)
 
 **Art. 27.** Do procedury udzielania dofinansowania zadań powiatowych oraz zadań gminnych ze środków Funduszu, w tym do:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 23 ust. 1, i ich oceny,
+- **2)** ustalania list, o których mowa w art. 24 ust. 5,
+- **3)** wprowadzania na listach, o których mowa w art. 24 ust. 5, zmian, zgodnie z art. 26 ust. 1, oraz zatwierdzania tych list, zgodnie z art. 26 ust. 3 pkt 1 – nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 28.**
 
 1. Na podstawie listy zadań powiatowych oraz zadań gminnych przeznaczonych do dofinansowania w danym województwie, o której mowa w art. 26 ust. 3 pkt 1 albo ust. 8, wojewoda zawiera umowy z wnioskodawcami o udzielenie dofinansowania zadania powiatowego albo zadania gminnego.
@@ -585,8 +575,8 @@ Art. 40–42. (pominięte)
 
 7. Umowa, o której mowa w ust. 1, wygasa z mocy prawa, jeśli wnioskodawca nie rozpocznie w terminie 30 dni od dnia jej zawarcia:
 
-- **1)** robót budowlanych w celu realizacji zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 23 ust. 1 w przypadku gdy roboty te nie są objęte postępowaniem o udzielenie zamówienia publicznego;
-- **2)** postępowania o udzielenie zamówienia publicznego na realizację zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 23 ust. 1 w pozostałych przypadkach.
+- **1)** robót budowlanych w celu realizacji zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 23 ust. 1 – w przypadku gdy roboty te nie są objęte postępowaniem o udzielenie zamówienia publicznego;
+- **2)** postępowania o udzielenie zamówienia publicznego na realizację zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 23 ust. 1 – w pozostałych przypadkach.
 
 8. Umowa, o której mowa w ust. 1, o udzielenie dofinansowania zadania, którego przewidywany czas realizacji jest nie dłuższy niż 12 miesięcy, wygasa z mocy prawa, jeżeli wnioskodawca w terminie do dnia 15 grudnia roku, na który w planie finansowanym Funduszu przeznaczono środki na dofinansowanie tego zadania, nie zawrze umowy na realizację zadania objętego wnioskiem o dofinansowanie.
 
@@ -621,7 +611,7 @@ Art. 40–42. (pominięte)
 3. Dofinansowanie:
 
 - **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości podlega zwrotowi do Funduszu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w terminie 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
+- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlega zwrotowi do Funduszu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w terminie 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
 
 4. Dofinansowaniem wykorzystanym niezgodnie z przeznaczeniem jest dofinansowanie wykorzystane na dofinansowanie zadania:
 
@@ -646,9 +636,9 @@ Art. 40–42. (pominięte)
 
 11. Odwołanie od decyzji, o której mowa w ust. 9, rozpatruje minister właściwy do spraw transportu.
 
-12. Do decyzji, o której mowa w ust. 9, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+12. Do decyzji, o której mowa w ust. 9, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-13. Do spraw dotyczących zwrotu dofinansowania wykorzystanego niezgodnie z przeznaczeniem albo pobranego nienależnie lub w nadmiernej wysokości nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+13. Do spraw dotyczących zwrotu dofinansowania wykorzystanego niezgodnie z przeznaczeniem albo pobranego nienależnie lub w nadmiernej wysokości nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 32.**
 
@@ -669,7 +659,7 @@ Art. 40–42. (pominięte)
 5. W przypadku gdy wniosek o dofinansowanie, o którym mowa w ust. 1:
 
 - **1)** nie spełnia wymogów formalnych, o których mowa w ust. 4, lub nie został sporządzony zgodnie z wzorem wskazanym zgodnie z ust. 1,
-- **2)** zawiera oczywiste omyłki minister właściwy do spraw transportu wzywa wnioskodawcę do jego uzupełnienia lub poprawienia w nim oczywistych omyłek, w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+- **2)** zawiera oczywiste omyłki – minister właściwy do spraw transportu wzywa wnioskodawcę do jego uzupełnienia lub poprawienia w nim oczywistych omyłek, w terminie 7 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
 6. Wnioskodawca, uzupełniając lub poprawiając wniosek o dofinansowanie, o którym mowa w ust. 1, zgodnie z ust. 5, nie może załączyć dokumentów datowanych na dzień po złożeniu wniosku, o czym minister właściwy do spraw transportu poucza wnioskodawcę, kierując do niego wezwanie, o którym mowa w ust. 5.
 
@@ -683,7 +673,7 @@ Art. 40–42. (pominięte)
 
 4. (uchylony)
 
-**Art. 35.** Do procedury udzielania dofinansowania zadań mostowych ze środków Funduszu, w tym składania wniosków o dofinansowanie, o których mowa w art. 33 ust. 1, oraz sporządzania listy, o której mowa w art. 34 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+**Art. 35.** Do procedury udzielania dofinansowania zadań mostowych ze środków Funduszu, w tym składania wniosków o dofinansowanie, o których mowa w art. 33 ust. 1, oraz sporządzania listy, o której mowa w art. 34 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36.**
 
@@ -715,7 +705,7 @@ Art. 40–42. (pominięte)
 4. Minister właściwy do spraw transportu w informacji o naborze może wskazać maksymalną liczbę:
 
 - **1)** wniosków, które może złożyć jeden zarządca drogi, lub
-- **2)** zadań obwodnicowych, które mogą uzyskać dofinansowanie z jednego województwa w ramach tego naboru.
+- **2)** zadań obwodnicowych, które mogą uzyskać dofinansowanie z jednego województwa – w ramach tego naboru.
 
 5. Ustanawia się rezerwę w wysokości 5 % kwoty, o której mowa w ust. 3 pkt 1.
 
@@ -727,8 +717,8 @@ Art. 40–42. (pominięte)
 
 1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36a ust. 1, biorąc pod uwagę stan przygotowania zadania obwodnicowego, ze szczególnym uwzględnieniem posiadanych przez wnioskodawcę zezwoleń, pozwoleń i innych decyzji, które są niezbędne do realizacji zadania, oraz ochronę ośrodków życia społeczno-kulturalnego i zapewnienie bezpiecznego dostępu do tych ośrodków, a także:
 
-- **1)** wartość natężenia ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym,
-- **2)** liczbę wypadków i kolizji drogowych na drodze wojewódzkiej, która zostanie zastąpiona drogą wybudowaną w wyniku realizacji zadania obwodnicowego.
+- **1)** wartość natężenia ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
+- **2)** liczbę wypadków i kolizji drogowych – na drodze wojewódzkiej, która zostanie zastąpiona drogą wybudowaną w wyniku realizacji zadania obwodnicowego.
 
 2. Do oceny, o której mowa w ust. 1, przepisy art. 24 ust. 3 i 4 stosuje się odpowiednio.
 
@@ -751,7 +741,7 @@ Art. 40–42. (pominięte)
 
 - **1)** dokonać zmian na listach, o których mowa w art. 36b ust. 4,
 - **2)** (uchylony)
-- **3)** wskazać do dofinansowania zadanie obwodnicowe nieumieszczone na liście, o której mowa w art. 36b ust. 3 mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
+- **3)** wskazać do dofinansowania zadanie obwodnicowe nieumieszczone na liście, o której mowa w art. 36b ust. 3 – mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
 
 3. W przypadku wprowadzenia zmian na liście zadań obwodnicowych rekomendowanych do dofinansowania, o których mowa w ust. 2, Prezes Rady Ministrów dokonuje podziału rezerwy, o której mowa w art. 36a ust. 5.
 
@@ -777,6 +767,11 @@ Art. 40–42. (pominięte)
 10. Lista zadań obwodnicowych przeznaczonych do dofinansowania zmieniona zgodnie z ust. 7 nie wymaga zatwierdzenia przez Prezesa Rady Ministrów.
 
 **Art. 36d.** Do procedury udzielania dofinansowania zadań obwodnicowych ze środków Funduszu, w tym do:
+
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36a ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36b ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36b ust. 3, zgodnie z art. 36c ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36c ust. 4 – nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36e.**
 
@@ -840,7 +835,7 @@ Art. 40–42. (pominięte)
 
 - **1)** dokonać zmian na listach, o których mowa w art. 36g ust. 4;
 - **2)** (uchylony)
-- **3)** wskazać do dofinansowania zadanie miejskie nieumieszczone na liście, o której mowa w art. 36g ust. 3 mając na względzie wyrównywanie szans rozwojowych i poprawę dostępności transportowej ośrodków miejskich oraz zgodność z programami realizowanymi przez Radę Ministrów.
+- **3)** wskazać do dofinansowania zadanie miejskie nieumieszczone na liście, o której mowa w art. 36g ust. 3 – mając na względzie wyrównywanie szans rozwojowych i poprawę dostępności transportowej ośrodków miejskich oraz zgodność z programami realizowanymi przez Radę Ministrów.
 
 3. W przypadku wprowadzenia zmian na liście zadań miejskich rekomendowanych do dofinansowania, o których mowa w ust. 2, Prezes Rady Ministrów dokonuje podziału rezerwy, o której mowa w art. 36f ust. 5.
 
@@ -866,6 +861,11 @@ Art. 40–42. (pominięte)
 10. Lista zadań miejskich przeznaczonych do dofinansowania zmieniona zgodnie z ust. 7 nie wymaga zatwierdzenia przez Prezesa Rady Ministrów.
 
 **Art. 36i.** Do procedury udzielania dofinansowania zadań miejskich ze środków Funduszu, w tym:
+
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36f ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36g ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36g ust. 3, zgodnie z art. 36h ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36h ust. 4 – nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36j.**
 
@@ -932,6 +932,10 @@ Art. 40–42. (pominięte)
 
 **Art. 36m.** Do procedury udzielania dofinansowania zadań dojazdowych ze środków Funduszu, w tym do:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36k ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36l ust. 3,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36l ust. 3 – nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 36n.**
 
 1. Minister właściwy do spraw transportu zawiera z właściwą jednostką samorządu terytorialnego umowę o udzielenie dofinansowania zadania dojazdowego przeznaczonego do dofinansowania ze środków Funduszu zgodnie z art. 36l ust. 6.
@@ -962,7 +966,7 @@ Art. 40–42. (pominięte)
 5. Minister właściwy do spraw transportu w informacji o naborze może wskazać maksymalną liczbę:
 
 - **1)** wniosków, które może złożyć jeden zarządca drogi, lub
-- **2)** zadań wojewódzkich, które mogą uzyskać dofinansowanie z jednego województwa w ramach tego naboru.
+- **2)** zadań wojewódzkich, które mogą uzyskać dofinansowanie z jednego województwa – w ramach tego naboru.
 
 6. Ustanawia się rezerwę w wysokości 5 % kwoty, o której mowa w ust. 3 pkt 2.
 
@@ -975,7 +979,7 @@ Art. 40–42. (pominięte)
 1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36o ust. 1, biorąc pod uwagę:
 
 - **1)** stan przygotowania zadania wojewódzkiego, ze szczególnym uwzględnieniem posiadanych przez wnioskodawcę zezwoleń, pozwoleń i innych decyzji, które są niezbędne do realizacji zadania;
-- **2)** wartość natężenia ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, na drodze wojewódzkiej;
+- **2)** wartość natężenia ruchu pojazdów w rozumieniu art. 2 pkt 31 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, na drodze wojewódzkiej;
 - **3)** poprawę stanu bezpieczeństwa ruchu drogowego;
 - **4)** podnoszenie standardów technicznych dróg publicznych.
 
@@ -999,7 +1003,7 @@ Art. 40–42. (pominięte)
 2. Po otrzymaniu od ministra właściwego do spraw transportu listy, o której mowa w art. 36p ust. 3, Prezes Rady Ministrów może:
 
 - **1)** dokonać zmian na listach, o których mowa w art. 36p ust. 4,
-- **2)** wskazać do dofinansowania zadanie wojewódzkie nieumieszczone na liście, o której mowa w art. 36p ust. 3 mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
+- **2)** wskazać do dofinansowania zadanie wojewódzkie nieumieszczone na liście, o której mowa w art. 36p ust. 3 – mając na względzie poprawę dostępności komunikacyjnej obszarów o niższej zamożności, wyrównywanie szans rozwojowych regionów i budowanie spójności terytorialnej kraju lub zgodność z programami realizowanymi przez Radę Ministrów.
 
 3. W przypadku wprowadzenia zmian na liście zadań wojewódzkich rekomendowanych do dofinansowania, o których mowa w ust. 2, Prezes Rady Ministrów dokonuje podziału rezerwy, o której mowa w art. 36o ust. 6.
 
@@ -1026,6 +1030,11 @@ Art. 40–42. (pominięte)
 
 **Art. 36s.** Do procedury udzielania dofinansowania zadań wojewódzkich ze środków Funduszu, w tym do:
 
+- **1)** składania wniosków o dofinansowanie, o których mowa w art. 36o ust. 1,
+- **2)** sporządzania listy, o której mowa w art. 36p ust. 4,
+- **3)** wprowadzania zmian na liście, o której mowa w art. 36p ust. 4, zgodnie z art. 36r ust. 2,
+- **4)** dokonywania zatwierdzenia, o którym mowa w art. 36r ust. 4 – nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+
 **Art. 36t.**
 
 1. Minister właściwy do spraw transportu zawiera z właściwą jednostką samorządu terytorialnego umowę o udzielenie dofinansowania zadania wojewódzkiego przeznaczonego do dofinansowania ze środków Funduszu zgodnie z art. 36r ust. 6.
@@ -1036,17 +1045,17 @@ Art. 40–42. (pominięte)
 
 4. W terminie do dnia 30 kwietnia danego roku minister właściwy do spraw transportu przedstawia Prezesowi Rady Ministrów zbiorcze sprawozdanie z realizacji zadań wojewódzkich, na które zostało udzielone dofinansowanie, według stanu na dzień 31 grudnia roku poprzedzającego.
 
-**Art. 36u.**
-
-- **18)** Dofinansowanie ze środków Funduszu może być przekazane na zadania powodziowe na podstawie sporządzonej przez właściwego wojewodę listy dróg zniszczonych lub uszkodzonych w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem zlokalizowanych w gminach określonych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717).
+**Art. 36u.** Dofinansowanie ze środków Funduszu może być przekazane na zadania powodziowe na podstawie sporządzonej przez właściwego wojewodę listy dróg zniszczonych lub uszkodzonych w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem zlokalizowanych w gminach określonych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717).
 
 **Art. 36v.**
 
-- **18)** 1. Minister właściwy do spraw transportu może ogłosić nabór wniosków o dofinansowanie zadań powodziowych.
+1. Minister właściwy do spraw transportu może ogłosić nabór wniosków o dofinansowanie zadań powodziowych.
 
 2. Dofinansowanie na zadania powodziowe polegające na remoncie dróg, o których mowa w art. 36u, może być udzielane w latach 2024–2026.
 
-3. Dofinansowanie na zadania powodziowe polegające na budowie lub przebudowie dróg, o których mowa w art. 36u, może być udzielane w latach 2024–2030.
+3. Dofinansowanie na zadania powodziowe polegające na budowie lub przebudowie dróg, o których mowa w art. 36u, może być udzielane w latach 2024–
+
+2030.
 
 4. Minister właściwy do spraw transportu informuje o naborze wniosków o dofinansowanie zadań powodziowych za pośrednictwem Biuletynu Informacji Publicznej urzędu go obsługującego, wskazując w szczególności:
 
@@ -1058,15 +1067,16 @@ Art. 40–42. (pominięte)
 
 5. Do informacji o naborze wniosków o dofinansowanie zadań powodziowych przepis art. 21 ust. 8 stosuje się odpowiednio.
 
-6. Do wniosków o dofinansowanie zadań powodziowych przepisy art. 33 ust. 4–6 stosuje się odpowiednio.
+6. Do wniosków o dofinansowanie zadań powodziowych przepisy art. 33 ust. 4– 6 stosuje się odpowiednio.
 
 **Art. 36w.**
 
-- **18)** 1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36v ust. 1, na podstawie kryteriów ustalonych w zasadach naboru, biorąc pod uwagę w szczególności:
+1. Minister właściwy do spraw transportu dokonuje oceny wniosków o dofinansowanie, o których mowa w art. 36v ust. 1, na podstawie kryteriów ustalonych w zasadach naboru, biorąc pod uwagę w szczególności:
+
 - **1)** długość zniszczonych lub uszkodzonych dróg w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem w stosunku do sieci dróg publicznych zarządzanych przez zarządcę drogi, który składa wniosek o dofinansowanie;
 - **2)** liczbę mieszkańców danej jednostki samorządu terytorialnego;
 - **3)** informację, czy wniosek o dofinansowanie obejmuje również zniszczony lub uszkodzony most w wyniku powodzi we wrześniu 2024 r. lub osunięcia ziemi będącego jej skutkiem;
-- **4)** dane obliczone na podstawie odpowiednio art. 14 ust. 2 i 3 lub art. 16a ust. 2–9 dla jednostki samorządu terytorialnego.
+- **4)** dane obliczone na podstawie odpowiednio art. 14 ust. 2 i 3 lub art. 16a ust. 2– 9 dla jednostki samorządu terytorialnego.
 
 2. Do oceny, o której mowa w ust. 1, przepisy art. 24 ust. 3 i 4 stosuje się odpowiednio.
 
@@ -1091,18 +1101,16 @@ Art. 40–42. (pominięte)
 - **2)** zmniejszenia wysokości dofinansowania w wyniku przeprowadzonego postępowania o udzielenie zamówienia na realizację zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 36v ust. 1;
 - **3)** gdy umowa o dofinansowanie nie została zawarta w wyniku niespełnienia przez wnioskodawcę wymogów formalnych zawartych w informacji o naborze, które powinien spełnić wnioskodawca po zakończeniu naboru wniosków o dofinansowanie, a przed podpisaniem umowy o dofinansowanie, na podstawie art. 36v ust. 5.
 
-**Art. 36x.**
-
-- **26)** Do procedury udzielania dofinansowania zadań powodziowych ze środków Funduszu, w tym składania wniosków o dofinansowanie, o których mowa w art. 36v ust. 1, oraz sporządzania listy, o której mowa w art. 36w ust. 3, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
+**Art. 36x.** Do procedury udzielania dofinansowania zadań powodziowych ze środków Funduszu, w tym składania wniosków o dofinansowanie, o których mowa w art. 36v ust. 1, oraz sporządzania listy, o której mowa w art. 36w ust. 3, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących doręczeń i sposobu obliczania terminów.
 
 **Art. 36y.**
 
-- **18)** 1. Minister właściwy do spraw transportu zawiera umowę z wnioskodawcą o udzielenie dofinansowania zadania powodziowego. Przepisy art. 28 ust. 1a–3 oraz 4–6 stosuje się odpowiednio.
+1. Minister właściwy do spraw transportu zawiera umowę z wnioskodawcą o udzielenie dofinansowania zadania powodziowego. Przepisy art. 28 ust. 1a–3 oraz 4–6 stosuje się odpowiednio.
 
 2. Umowa, o której mowa w ust. 1, wygasa z mocy prawa, jeśli wnioskodawca nie rozpocznie w terminie 90 dni od dnia jej zawarcia:
 
-- **1)** robót budowlanych w celu realizacji zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 36v ust. 1 w przypadku gdy roboty te nie są objęte postępowaniem o udzielenie zamówienia publicznego;
-- **2)** postępowania o udzielenie zamówienia publicznego na realizację zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 36v ust. 1 w pozostałych przypadkach.
+- **1)** robót budowlanych w celu realizacji zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 36v ust. 1 – w przypadku gdy roboty te nie są objęte postępowaniem o udzielenie zamówienia publicznego;
+- **2)** postępowania o udzielenie zamówienia publicznego na realizację zadania objętego wnioskiem o dofinansowanie, o którym mowa w art. 36v ust. 1 – w pozostałych przypadkach.
 
 3. Do dofinansowania udzielonego na zadanie powodziowe przepisy art. 29 ust. 1 i 2 oraz art. 31 stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o wojewodzie, rozumie się przez to ministra właściwego do spraw transportu.
 
@@ -1124,7 +1132,7 @@ Art. 40–42. (pominięte)
 
 1a. Do informowania użytkowników dróg, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 35a i art. 35d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przy czym na tablicy informacyjnej nie umieszcza się wyrazów „budżet państwa” oraz „państwowy fundusz celowy”.
 
-1b. Do zadań powodziowych nie stosuje się przepisów ust. 1a i 6 oraz art. 35a–35d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1b. Do zadań powodziowych nie stosuje się przepisów ust. 1a i 6 oraz art. 35a– 35d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. (uchylony)
 
@@ -1151,7 +1159,7 @@ Art. 40–42. (pominięte)
 
 2. Prezes Rady Ministrów zatwierdza zadania obronne do sfinansowania ze środków Funduszu wskazane zgodnie z ust. 1 albo odmawia ich zatwierdzania, w formie pisemnej. Minister Obrony Narodowej informuje ministra właściwego do spraw transportu w terminie do dnia 31 marca każdego roku o rozstrzygnięciu, w którym Prezes Rady Ministrów wskazał zadania obronne do sfinansowania.
 
-3. Do procedury udzielania finansowania na zadania obronne ze środków Funduszu nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3. Do procedury udzielania finansowania na zadania obronne ze środków Funduszu nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 4. Minister właściwy do spraw transportu zawiera z właściwą jednostką samorządu terytorialnego umowę o udzielenie finansowania zadania obronnego zatwierdzonego przez Prezesa Rady Ministrów zgodnie z ust. 2. Minister właściwy do spraw transportu przekazuje projekt umowy do zaopiniowania Ministrowi Obrony Narodowej.
 
@@ -1166,9 +1174,14 @@ Art. 40–42. (pominięte)
 
 #### Rozdział 4 Przepisy zmieniające, epizodyczne, dostosowujące, przejściowe i końcowe
 
+**Art. 40–42.** (pominięte)
+
 **Art. 42a.** W roku 2020 w planie finansowym Funduszu mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 9–12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 **Art. 42b.** W przypadku gdy wydatek budżetu państwa z tytułu wpłaty do Funduszu w roku 2020 zostanie umieszczony w wykazie ustalonym w przepisach wydanych na podstawie:
+
+- **1)** art. 181 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych albo
+- **2)** art. 21 ust. 1 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747) – Fundusz może wydatkować środki z przekazanej wpłaty do dnia 31 grudnia 2028 r.
 
 **Art. 42c.** W roku 2021 w planie finansowym Funduszu na rok 2021 mogą być dokonywane zmiany mimo niespełnienia wymogów określonych w art. 29 ust. 9–12 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -1229,7 +1242,7 @@ Art. 40–42. (pominięte)
 
 - **1)** analizy, o której mowa w art. 25 ust. 2 pkt 1,
 - **2)** zatwierdzenia, o którym mowa w art. 26 ust. 3 pkt 2,
-- **3)** udzielenia dofinansowania, o którym mowa w art. 34 ust. 3 dokonuje się na podstawie planu finansowego, o którym mowa w ust. 1.
+- **3)** udzielenia dofinansowania, o którym mowa w art. 34 ust. 3 – dokonuje się na podstawie planu finansowego, o którym mowa w ust. 1.
 
 **Art. 47.** Minister właściwy do spraw transportu ustala wzór listy, o której mowa w art. 24 ust. 5, oraz wzór sprawozdania, o którym mowa w art. 29 ust. 3, w terminie 14 dni od dnia wejścia w życie ustawy.
 
@@ -1253,19 +1266,19 @@ Art. 40–42. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na dofinansowanie Funduszu wynosi w roku:
 
-- **1)** 2018 1 100 tys. zł;
-- **2)** 2019 500 tys. zł;
-- **3)** 2020 5 400 tys. zł;
-- **4)** 2021 3 600 tys. zł;
-- **5)** 2022 500 tys. zł;
-- **6)** 2023 674 123 tys. zł;
-- **7)** 2024 1 908 626 tys. zł;
-- **8)** 2025 1 958 626 tys. zł;
-- **9)** 2026 1 958 626 tys. zł;
-- **10)** 2027 1 650 tys. zł;
-- **11)** 2028 1 750 tys. zł;
-- **12)** 2029 1 600 tys. zł;
-- **13)** 2030 1 600 tys. zł.
+- **1)** 2018 – 1 100 000 tys. zł;
+- **2)** 2019 – 500 000 tys. zł;
+- **3)** 2020 – 5 400 000 tys. zł;
+- **4)** 2021 – 3 600 000 tys. zł;
+- **5)** 2022 – 500 000 tys. zł;
+- **6)** 2023 – 674 123 tys. zł;
+- **7)** 2024 – 1 908 626 tys. zł;
+- **8)** 2025 – 1 958 626 tys. zł;
+- **9)** 2026 – 1 958 626 tys. zł;
+- **10)** 2027 – 1 650 000 tys. zł;
+- **11)** 2028 – 1 750 000 tys. zł;
+- **12)** 2029 – 1 600 000 tys. zł;
+- **13)** 2030 – 1 600 000 tys. zł.
 
 2. Minister właściwy do spraw transportu monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3.
 
@@ -1279,16 +1292,16 @@ Art. 40–42. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań ministra właściwego do spraw transportu wynikających z ustawy wynosi w roku:
 
-- **1)** 2018 r. 0 zł;
-- **2)** 2019 r. 788 126 zł;
-- **3)** 2020 r. 867 804 zł;
-- **4)** 2021 r. 875 150 zł;
-- **5)** 2022 r. 882 496 zł;
-- **6)** 2023 r. 889 842 zł;
-- **7)** 2024 r. 889 842 zł;
-- **8)** 2025 r. 889 842 zł;
-- **9)** 2026 r. 889 842 zł;
-- **10)** 2027 r. 889 842 zł.
+- **1)** 2018 r. – 0 zł;
+- **2)** 2019 r. – 788 126 zł;
+- **3)** 2020 r. – 867 804 zł;
+- **4)** 2021 r. – 875 150 zł;
+- **5)** 2022 r. – 882 496 zł;
+- **6)** 2023 r. – 889 842 zł;
+- **7)** 2024 r. – 889 842 zł;
+- **8)** 2025 r. – 889 842 zł;
+- **9)** 2026 r. – 889 842 zł;
+- **10)** 2027 r. – 889 842 zł.
 
 2. Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3.
 
@@ -1300,16 +1313,16 @@ Art. 40–42. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa przeznaczonych na wykonywanie zadań wojewodów wynikających z ustawy wynosi w roku:
 
-- **1)** 2018 r. 0 zł;
-- **2)** 2019 r. 2 648 238 zł;
-- **3)** 2020 r. 2 890 353 zł;
-- **4)** 2021 r. 2 914 943 zł;
-- **5)** 2022 r. 2 939 532 zł;
-- **6)** 2023 r. 2 964 122 zł;
-- **7)** 2024 r. 2 988 712 zł;
-- **8)** 2025 r. 2 988 712 zł;
-- **9)** 2026 r. 2 988 712 zł;
-- **10)** 2027 r. 2 988 712 zł.
+- **1)** 2018 r. – 0 zł;
+- **2)** 2019 r. – 2 648 238 zł;
+- **3)** 2020 r. – 2 890 353 zł;
+- **4)** 2021 r. – 2 914 943 zł;
+- **5)** 2022 r. – 2 939 532 zł;
+- **6)** 2023 r. – 2 964 122 zł;
+- **7)** 2024 r. – 2 988 712 zł;
+- **8)** 2025 r. – 2 988 712 zł;
+- **9)** 2026 r. – 2 988 712 zł;
+- **10)** 2027 r. – 2 988 712 zł.
 
 2. Minister właściwy do spraw administracji publicznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz jest odpowiedzialny za wdrożenie mechanizmu korygującego, o którym mowa w ust. 3.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o pomocy społecznej oraz ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 

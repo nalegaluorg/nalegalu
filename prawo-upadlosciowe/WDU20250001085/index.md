@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych
+# Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

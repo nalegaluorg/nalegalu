@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 19 lipca 2019 r.*
 
@@ -75,8 +75,9 @@ source: pdf
 
 11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
 
-12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na prowadzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.”; [5) w art. 29 w ust. 1 pkt 1 otrzymuje brzmienie: „1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5, ust. 7 pkt 2 i ust. 9 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 2, 3 i 7 oraz art. 93 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;”;] <5) w art. 29 w ust. 1 pkt 1 otrzymuje brzmienie: „1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5 i ust. 7 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;”;>
+12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na prowadzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.”;
 
+- **5)** w art. 29 w ust. 1 pkt 1 otrzymuje brzmienie: „1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5 i ust. 7 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 – wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;”;
 - **6)** w art. 51 w ust. 1 pkt 1 otrzymuje brzmienie: „1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami, innymi formami wychowania przedszkolnego, szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa, z zastrzeżeniem art. 53 ust. 2a;”;
 - **7)** w art. 53 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister Obrony Narodowej sprawuje nadzór pedagogiczny nad realizacją szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.”;
 - **8)** w art. 98 w ust. 1 pkt 6 otrzymuje brzmienie: „6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, przygotowania wojskowego, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;”;

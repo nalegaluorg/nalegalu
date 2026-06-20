@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej
+# Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 

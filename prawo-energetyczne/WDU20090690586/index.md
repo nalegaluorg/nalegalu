@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne
+# Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy - Prawo energetyczne
 
 *USTAWA z dnia 20 lutego 2009 r.*
 

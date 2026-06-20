@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie bezpieczeństwa żeglugi statków morskich i bezpieczeństwa życia na morzu.
+# Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 1 czerwca 1999 r. zmieniające rozporządzenie w sprawie bezpieczeństwa żeglugi statków morskich i bezpieczeństwa życia na morzu.
 
 | Pole | Wartość |
 |---|---|

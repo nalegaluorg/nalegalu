@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin
+# Ustawa z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.
 
 *USTAWA z dnia 10 grudnia 1993 r.*
 
@@ -238,7 +238,15 @@ source: pdf
 - **3)** liczbę dni w roku, w których żołnierze w charakterze saperów uczestniczyli w rozminowaniu i oczyszczaniu terenów z przedmiotów wybuchowych i niebezpiecznych albo brali udział w szkoleniach poligonowych z wykorzystaniem materiałów wybuchowych lub pracach minerskich z wykorzystaniem tych materiałów;
 - **4)** miesięczne okresy pełnienia służby na froncie w czasie wojny lub w strefie działań wojennych.
 
-**Art. 15a.** Emerytura dla żołnierza, który został powołany do zawodowej służby wojskowej po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby wojskowej i wzrasta według zasad określonych w art. 15 ust. 1 pkt 1 i ust. 1a–5. Art. 15aa. 1. Emerytura dla żołnierza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby. 2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5. 3. Emerytura dla żołnierza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
+**Art. 15a.** Emerytura dla żołnierza, który został powołany do zawodowej służby wojskowej po raz pierwszy po dniu 1 stycznia 1999 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby wojskowej i wzrasta według zasad określonych w art. 15 ust. 1 pkt 1 i ust. 1a–5.
+
+**Art. 15aa.**
+
+1. Emerytura dla żołnierza, który został przyjęty do służby po raz pierwszy w okresie po dniu 1 stycznia 1999 r. i przed dniem 1 października 2003 r., wynosi 40 % podstawy jej wymiaru za 15 lat służby i wzrasta o 2,6 % podstawy wymiaru za każdy dalszy rok tej służby.
+
+2. Emeryturę podwyższa się na zasadach określonych w art. 15 ust. 2–5.
+
+3. Emerytura dla żołnierza, o którym mowa w ust. 1, który w dniu zwolnienia ze służby posiada co najmniej 25 lat służby i okresów z nią równorzędnych, o których mowa w art. 13 ust. 1, wzrasta również o 1,3 % podstawy wymiaru za każdy rok poprzedzających służbę:
 
 - **1)** okresów składkowych;
 - **2)** okresów opłacania składek na ubezpieczenia emerytalne i rentowe po dniu 31 grudnia 1998 r. lub okresów nieopłacania składek z powodu przekroczenia w trakcie roku kalendarzowego kwoty rocznej podstawy wymiaru składek na te ubezpieczenia.
@@ -253,7 +261,11 @@ source: pdf
 
 8. W razie przyznania podwyższenia, o którym mowa w ust. 3, lub zwiększenia, o którym mowa w ust. 6, umowa między członkiem otwartego funduszu emerytalnego a tym funduszem ulega rozwiązaniu, a środki zgromadzone na rachunku członka w otwartym funduszu emerytalnym są niezwłocznie przekazywane na dochody budżetu państwa.
 
-9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia wojskowego organu emerytalnego. Art. 15ab. 1. Żołnierz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa.
+9. Przekazanie środków, o których mowa w ust. 8, na dochody budżetu państwa następuje na podstawie zawiadomienia wojskowego organu emerytalnego.
+
+**Art. 15ab.**
+
+1. Żołnierz, o którym mowa w art. 15aa, ma prawo wyboru sposobu ustalenia emerytury na zasadach i w wysokości określonych w art. 15a albo w art. 15aa.
 
 2. Oświadczenie o wyborze, o którym mowa w ust. 1, składa się do wojskowego organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
 

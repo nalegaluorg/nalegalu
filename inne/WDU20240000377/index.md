@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kosztach komorniczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kosztach komorniczych
 
 | Pole | Wartość |
 |---|---|
@@ -36,7 +36,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 28 lutego 2018 r.
 o kosztach komorniczych
-Art. 49–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -376,6 +375,8 @@ Art. 49–51. (pominięte)
 5. Opłata obniżona nie może być niższa niż jedna trzecia opłaty należnej na podstawie ustawy, nie niższa jednak niż 200 złotych.
 
 #### Rozdział 5 Przepisy zmieniające i przejściowe oraz przepis końcowy
+
+**Art. 49–51.** (pominięte)
 
 **Art. 52.**
 

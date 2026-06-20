@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych
+# Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych
 
 *USTAWA z dnia 20 listopada 2009 r.*
 

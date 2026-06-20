@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin
+# Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.
 
 *USTAWA z dnia 8 grudnia 2000 r.*
 
@@ -75,14 +75,10 @@ source: pdf
 
 4. Przepisów ust. 1 i 3 nie stosuje się wobec osób, których emerytura stanowi 75% podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą oraz wobec osób pobierających rentę inwalidzką z tytułu inwalidztwa powstałego wskutek wypadku pozostającego w związku ze służbą lub wskutek choroby powstałej w związku ze szczególnymi właściwościami bądź warunkami służby, z tytułu których przysługują świadczenia odszkodowawcze.”;
 
-- **4)** w art. 48: [Art. 3.
+- **4)** w art. 48:
     - **a)** w ust. 1 użyte dwukrotnie wyrazy „wynagrodzenia lub dochodu” zastępuje się wyrazem „przychodu”,
     - **b)** w ust. 2 wyrazy „zakładzie pracy” zastępuje się wyrazami „pracodawcy i zleceniodawcy”,
     - **c)** w ust. 3 wyraz „dochodu” zastępuje się wyrazem „przychodu”.
-
-1. Do emerytur i rent podlegających ograniczeniu w związku z osiąganiem przychodów w 2000 r. stosuje się odpowiednio przepisy art. 40 ustawy, o której mowa w art. 1, oraz art. 41 ustawy, o której mowa w art. 2, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
-
-2. Za przychód, o którym mowa w ust. 1, uważa się przychód w rozumieniu ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. Nr 162, poz. 1118, z 1999 r. Nr 38, poz. 360, Nr 70, poz. 774, Nr 72, poz. 801 i 802, Nr 106, poz. 1215 oraz z 2000 r. Nr 2, poz. 26, Nr 9, poz. 118, Nr 19, poz. 238, Nr 56, poz. 678 i Nr 84, poz. 948), pomniejszony o płacone przez ubezpieczonego składki na ubezpieczenia emerytalne i rentowe.]
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r.
 

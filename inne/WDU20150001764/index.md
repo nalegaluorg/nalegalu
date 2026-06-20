@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach płatniczych
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy o usługach płatniczych
 
 *USTAWA z dnia 25 września 2015 r.*
 

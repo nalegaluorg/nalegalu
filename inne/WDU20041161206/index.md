@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowym Planie Rozwoju
+# Ustawa z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-05-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1206/text.pdf) |
-
-Art. 62–67. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -895,6 +893,8 @@ Art. 62–67. (pominięte)
 4. Pełna ocena po zakończeniu realizacji Planu i programów, o których mowa w art. 8 ust. 1 pkt 1 i 3, finansowanych z publicznych środków krajowych, oraz kontraktów, jest przeprowadzona nie później niż w ciągu roku następującego po zakończeniu ich realizacji.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 62–67.** (pominięte)
 
 **Art. 68.**
 

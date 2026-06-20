@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 marca 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób prawnych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz o zmianie niektórych innych ustaw.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
 
 | Pole | Wartość |
 |---|---|

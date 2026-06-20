@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
+# Ustawa z dnia 27 maja 2004 r. o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia
 
 *USTAWA z dnia 27 maja 2004 r.*
 

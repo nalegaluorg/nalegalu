@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 kwietnia 2020 r.*
 
@@ -131,7 +131,11 @@ source: pdf
 
 5. Policjant w nakazie lub zakazie wskazuje obszar lub odległość od wspólnie zajmowanego mieszkania, którą osoba stosująca przemoc w rodzinie jest obowiązana zachować.
 
-6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych. Art. 15ab. 1. Policjant wydaje nakaz lub zakaz:
+6. Przepis ust. 1 stosuje się do każdego lokalu służącego zaspokajaniu bieżących potrzeb mieszkaniowych.
+
+**Art. 15ab.**
+
+1. Policjant wydaje nakaz lub zakaz:
 
 - **1)** podczas interwencji podjętej we wspólnie zajmowanym mieszkaniu lub jego bezpośrednim otoczeniu lub
 - **2)** w związku z powzięciem informacji o stosowaniu przemocy w rodzinie, w szczególności zgłoszenia przez:
@@ -156,7 +160,11 @@ source: pdf
 
 10. Nakaz lub zakaz mogą być wydane również w przypadku nieobecności we wspólnie zajmowanym mieszkaniu lub jego bezpośrednim otoczeniu osoby stosującej przemoc w rodzinie podczas wykonywania czynności przez Policję.
 
-11. Policja przed wydaniem nakazu lub zakazu ma prawo zażądać dodatkowych informacji od innych instytucji lub organów w celu ustalenia, czy zachodzą okoliczności wskazane w art. 15aa ust. 1. Art. 15ac. 1. Nakaz lub zakaz zawierają w szczególności:
+11. Policja przed wydaniem nakazu lub zakazu ma prawo zażądać dodatkowych informacji od innych instytucji lub organów w celu ustalenia, czy zachodzą okoliczności wskazane w art. 15aa ust. 1.
+
+**Art. 15ac.**
+
+1. Nakaz lub zakaz zawierają w szczególności:
 
 - **1)** datę, czas i miejsce przeprowadzenia czynności;
 - **2)** podstawę prawną ich wydania;
@@ -167,7 +175,11 @@ source: pdf
 - **7)** uzasadnienie, w którym wskazuje się podstawy faktyczne ich wydania;
 - **8)** pouczenia, w tym o trybie, formie i sposobie wnoszenia zażalenia.
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór nakazu i zakazu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu lub zakazu oraz wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu lub zakazu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie lub zakazie, sprawnego sporządzania dokumentacji, a także konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy w rodzinie. Art. 15ad. 1. Nakaz lub zakaz doręcza się niezwłocznie osobie stosującej przemoc w rodzinie oraz osobie dotkniętej tą przemocą. W razie niemożności doręczenia nakazu lub zakazu osobie stosującej przemoc w rodzinie, doręczenie uważa się za dokonane przez umieszczenie na drzwiach wspólnie zajmowanego mieszkania zawiadomienia o ich wydaniu, dokonując wzmianki w nakazie lub zakazie, wskazując przyczynę braku doręczenia.
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór nakazu i zakazu, sposób wykonywania i dokumentowania czynności związanych z wydaniem nakazu lub zakazu oraz wzór kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego służący stwierdzeniu zasadności zatrzymania, o którym mowa w art. 15a ust. 1, lub wydania nakazu lub zakazu, mając na względzie potrzebę zawarcia niezbędnych pouczeń w nakazie lub zakazie, sprawnego sporządzania dokumentacji, a także konieczność natychmiastowej i skutecznej ochrony osób doznających przemocy w rodzinie.
+
+**Art. 15ad.**
+
+1. Nakaz lub zakaz doręcza się niezwłocznie osobie stosującej przemoc w rodzinie oraz osobie dotkniętej tą przemocą. W razie niemożności doręczenia nakazu lub zakazu osobie stosującej przemoc w rodzinie, doręczenie uważa się za dokonane przez umieszczenie na drzwiach wspólnie zajmowanego mieszkania zawiadomienia o ich wydaniu, dokonując wzmianki w nakazie lub zakazie, wskazując przyczynę braku doręczenia.
 
 2. Jeżeli osoba stosująca przemoc w rodzinie odmawia przyjęcia nakazu lub zakazu, doręczenie uważa się za dokonane. W takim przypadku policjant dokonuje adnotacji o odmowie ich przyjęcia na oryginale nakazu lub zakazu.
 
@@ -175,7 +187,11 @@ source: pdf
 
 4. Policja niezwłocznie doręcza odpis nakazu lub zakazu prokuratorowi oraz zawiadamia właściwy miejscowo zespół interdyscyplinarny, o którym mowa w przepisach ustawy o przeciwdziałaniu przemocy w rodzinie, a gdy w mieszkaniu zamieszkują osoby małoletnie – także właściwy miejscowo sąd opiekuńczy.
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1, umieszczanego na drzwiach mieszkania wobec niemożności doręczenia nakazu lub zakazu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z pomocy pełnomocnika. Art. 15ae. 1. Czynność opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia przez osobę stosującą przemoc w rodzinie, wobec której wydano nakaz lub zakaz, wymaga sporządzenia protokołu, który podpisują pełnoletnie osoby uczestniczące w czynności.
+5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1, umieszczanego na drzwiach mieszkania wobec niemożności doręczenia nakazu lub zakazu, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z pomocy pełnomocnika.
+
+**Art. 15ae.**
+
+1. Czynność opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia przez osobę stosującą przemoc w rodzinie, wobec której wydano nakaz lub zakaz, wymaga sporządzenia protokołu, który podpisują pełnoletnie osoby uczestniczące w czynności.
 
 2. Protokół zawiera:
 
@@ -197,13 +213,21 @@ source: pdf
 
 7. Jeżeli w związku z wydaniem nakazu lub zakazu zachodzi potrzeba zabezpieczenia zwierząt stanowiących mienie osoby stosującej przemoc w rodzinie, wobec której wydano nakaz lub zakaz, stosuje się odpowiednio przepis art. 7 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638).
 
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór protokołu czynności opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, w związku z wydaniem nakazu lub zakazu, mając na uwadze prawidłowe udokumentowanie przeprowadzanej czynności. Art. 15af. 1. Osoba stosująca przemoc w rodzinie, wobec której wydano nakaz lub zakaz, jest obowiązana wskazać jednostce organizacyjnej Policji, której policjant wydał ten nakaz lub zakaz, adres miejsca pobytu, a także, o ile to możliwe, numer telefonu, pod którym będzie dostępna, oraz poinformować tę jednostkę Policji o każdej zmianie adresu lub numeru.
+8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór protokołu czynności opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, w związku z wydaniem nakazu lub zakazu, mając na uwadze prawidłowe udokumentowanie przeprowadzanej czynności.
+
+**Art. 15af.**
+
+1. Osoba stosująca przemoc w rodzinie, wobec której wydano nakaz lub zakaz, jest obowiązana wskazać jednostce organizacyjnej Policji, której policjant wydał ten nakaz lub zakaz, adres miejsca pobytu, a także, o ile to możliwe, numer telefonu, pod którym będzie dostępna, oraz poinformować tę jednostkę Policji o każdej zmianie adresu lub numeru.
 
 2. Osobę stosującą przemoc w rodzinie, wobec której wydano nakaz lub zakaz, należy pouczyć, że jeżeli zmieni miejsce pobytu, nie będzie dostępna pod wskazanym przez siebie numerem telefonu, nie zawiadamiając o tym jednostki organizacyjnej Policji, o której mowa w ust. 1, na skutek czego nie odbierze korespondencji pod wskazanym adresem lub nie stawi się we wskazanej jednostce organizacyjnej Policji w celu jej odbioru w ciągu 24 godzin od pozostawienia zawiadomienia o korespondencji, korespondencja zostanie uznana za doręczoną z upływem tego terminu, chyba że miejsce pobytu tej osoby jest Policji znane.
 
 3. Niedoręczenie korespondencji wymaga udokumentowania ze wskazaniem przyczyny niedoręczenia.
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc w rodzinie, wobec której został wydany nakaz lub zakaz, pozostawionego wobec niemożności doręczenia korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z pomocy pełnomocnika. Art. 15ag. 1. Policjant, w przypadku wydania nakazu lub zakazu, informuje osobę dotkniętą przemocą w rodzinie o:
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór zawiadomienia osoby stosującej przemoc w rodzinie, wobec której został wydany nakaz lub zakaz, pozostawionego wobec niemożności doręczenia korespondencji, mając na uwadze konieczność zrozumienia zawiadomienia również przez osoby niekorzystające z pomocy pełnomocnika.
+
+**Art. 15ag.**
+
+1. Policjant, w przypadku wydania nakazu lub zakazu, informuje osobę dotkniętą przemocą w rodzinie o:
 
 - **1)** możliwości i sposobie złożenia żądania, aby sąd zobowiązał osobę stosującą przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazał zbliżania się do mieszkania i jego bezpośredniego otoczenia, o którym mowa w przepisach ustawy o przeciwdziałaniu przemocy w rodzinie;
 - **2)** obowiązku wszczęcia przez organy ścigania, niezależnie od wydanego nakazu lub zakazu, postępowania karnego w związku z popełnieniem ściganego z urzędu przestępstwa z użyciem przemocy i możliwości stosowania w toku prowadzonego postępowania środków zapobiegawczych, o których mowa w przepisach Kodeksu postępowania karnego;
@@ -213,15 +237,29 @@ source: pdf
 
 2. Policjant, w przypadku wydania nakazu lub zakazu, poucza osobę dotkniętą przemocą w rodzinie o przekazaniu jej danych najbliższemu miejscowo podmiotowi, o którym mowa w ust. 1 pkt 5, w celu udzielenia pomocy, chyba że osoba ta nie wyrazi zgody.
 
-3. Policjant, w przypadku wydania nakazu lub zakazu, poucza osobę stosującą przemoc w rodzinie o przekazaniu jej danych właściwemu ze względu na miejsce jej pobytu Powiatowemu Centrum Pomocy Rodzinie w celu podjęcia działań pozostających we właściwości powiatu na podstawie przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, chyba że osoba ta nie wyrazi zgody. Art. 15ah. Policjant, w przypadku wydania nakazu lub zakazu, poucza osobę stosującą przemoc w rodzinie o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących oddziaływania korekcyjno-edukacyjne lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc w rodzinie. Miejsca noclegowe nie mogą być placówkami pobytu osób dotkniętych przemocą w rodzinie. Art. 15ai. 1. W okresie obowiązywania nakazu lub zakazu Policja przynajmniej trzykrotnie sprawdza, czy nakaz lub zakaz nie są naruszane, i podejmuje niezbędne czynności. Pierwsze sprawdzenie odbywa się następnego dnia po wydaniu nakazu lub zakazu.
+3. Policjant, w przypadku wydania nakazu lub zakazu, poucza osobę stosującą przemoc w rodzinie o przekazaniu jej danych właściwemu ze względu na miejsce jej pobytu Powiatowemu Centrum Pomocy Rodzinie w celu podjęcia działań pozostających we właściwości powiatu na podstawie przepisów ustawy o przeciwdziałaniu przemocy w rodzinie, chyba że osoba ta nie wyrazi zgody.
 
-2. Czynności sprawdzenia Policja podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia, którym nakaz lub zakaz zostały przedłużone. Art. 15aj. 1. Osobie stosującej przemoc w rodzinie, wobec której wydano nakaz lub zakaz, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu lub zakazu, o czym należy osobę tę pouczyć wraz z doręczeniem nakazu lub zakazu. W zażaleniu skarżący może się domagać zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu lub zakazu. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego.
+**Art. 15ah.** Policjant, w przypadku wydania nakazu lub zakazu, poucza osobę stosującą przemoc w rodzinie o przyczynach ich wydania, o możliwości i sposobie złożenia zażalenia, a także informuje o danych teleadresowych właściwych miejscowo placówek zapewniających miejsca noclegowe oraz placówek prowadzących oddziaływania korekcyjno-edukacyjne lub programy psychologiczno-terapeutyczne dla osób stosujących przemoc w rodzinie. Miejsca noclegowe nie mogą być placówkami pobytu osób dotkniętych przemocą w rodzinie.
+
+**Art. 15ai.**
+
+1. W okresie obowiązywania nakazu lub zakazu Policja przynajmniej trzykrotnie sprawdza, czy nakaz lub zakaz nie są naruszane, i podejmuje niezbędne czynności. Pierwsze sprawdzenie odbywa się następnego dnia po wydaniu nakazu lub zakazu.
+
+2. Czynności sprawdzenia Policja podejmuje również na podstawie postanowienia sądu o udzieleniu zabezpieczenia w sprawach o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia, którym nakaz lub zakaz zostały przedłużone.
+
+**Art. 15aj.**
+
+1. Osobie stosującej przemoc w rodzinie, wobec której wydano nakaz lub zakaz, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce położenia wspólnie zajmowanego mieszkania. Zażalenie wnosi się w terminie 3 dni od dnia doręczenia nakazu lub zakazu, o czym należy osobę tę pouczyć wraz z doręczeniem nakazu lub zakazu. W zażaleniu skarżący może się domagać zbadania prawidłowości prowadzenia czynności, zasadności oraz legalności wydanego nakazu lub zakazu. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego.
 
 2. Sąd rozpoznaje zażalenie niezwłocznie, nie później jednak niż w ciągu 3 dni od dnia jego wpływu do sądu.
 
 3. Sąd uchyla zaskarżony nakaz lub zakaz w przypadku stwierdzenia jego bezzasadności lub nielegalności, o czym niezwłocznie zawiadamia osobę dotkniętą przemocą w rodzinie, prokuratora, właściwą jednostkę Policji oraz zespół interdyscyplinarny, o którym mowa w przepisach ustawy o przeciwdziałaniu przemocy w rodzinie.
 
-4. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości nakazu lub zakazu sąd zawiadamia o tym przełożonego policjanta, który wydał nakaz lub zakaz. Art. 15ak. 1. Nakaz lub zakaz tracą moc po upływie czternastu dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia w sprawach o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia, którym nakaz lub zakaz zostały przedłużone.
+4. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości nakazu lub zakazu sąd zawiadamia o tym przełożonego policjanta, który wydał nakaz lub zakaz.
+
+**Art. 15ak.**
+
+1. Nakaz lub zakaz tracą moc po upływie czternastu dni od dnia ich wydania, chyba że sąd udzielił zabezpieczenia w sprawach o zobowiązanie osoby stosującej przemoc w rodzinie do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub zakazanie zbliżania się do mieszkania i jego bezpośredniego otoczenia, którym nakaz lub zakaz zostały przedłużone.
 
 2. Nakaz lub zakaz tracą również moc, w przypadku gdy osoba stosująca przemoc w rodzinie, wobec której wydano nakaz lub zakaz, została zatrzymana w związku z podejrzeniem popełnienia przestępstwa, a następnie zastosowano wobec niej środek zapobiegawczy w postaci tymczasowego aresztowania lub nakazania okresowego opuszczenia lokalu zajmowanego wspólnie z pokrzywdzonym.
 

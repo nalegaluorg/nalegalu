@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 września 2025 r.*
 

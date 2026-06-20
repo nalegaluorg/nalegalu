@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
+# Ustawa z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską
 
 *USTAWA z dnia 24 lutego 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji
+# Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o recyklingu pojazdów wycofanych z eksploatacji
 
 *USTAWA z dnia 29 czerwca 2007 r.*
 

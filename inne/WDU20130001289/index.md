@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
+# Ustawa z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych
 
 *USTAWA z dnia 11 października 2013 r.*
 
@@ -28,7 +28,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1289/text.pdf) |
 
 2 pkt 7
-Art. 110–122. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -765,6 +764,8 @@ Art. 110–122. (pominięte)
 **Art. 109.** Do wniosku o podjęcie środków zabezpieczających należności pieniężne stosuje się odpowiednio przepisy art. 103–106.
 
 ## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+**Art. 110–122.** (pominięte)
 
 **Art. 123.**
 

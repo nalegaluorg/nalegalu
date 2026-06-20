@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
 
 | Pole | Wartość |
 |---|---|
@@ -266,7 +266,9 @@ o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele 
 
 1. Przepisy ustawy stosuje się z uwzględnieniem przepisów o pomocy publicznej. Udzielenie pomocy publicznej wymaga spełnienia warunków udzielenia pomocy de minimis określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis. Za dzień udzielenia pomocy publicznej uznaje się dzień wydania zaświadczenia albo zaświadczenia, o którym mowa w art. 11 ust. 1.
 
-2. W przypadku gdy nastąpi przekroczenie limitu pomocy de minimis, stosuje się dopłatę do wysokości wartości rynkowej nieruchomości określonej na podstawie wartości rynkowej nieruchomości stanowiącej podstawę ustalenia opłaty albo na podstawie operatu szacunkowego sporządzonego na wniosek zobowiązanego do dopłaty. Wysokość dopłaty ustalana jest z urzędu w drodze decyzji. Koszty operatu szacunkowego ponosi zobowiązany do dopłaty. Art. 15–19. (pominięte)
+2. W przypadku gdy nastąpi przekroczenie limitu pomocy de minimis, stosuje się dopłatę do wysokości wartości rynkowej nieruchomości określonej na podstawie wartości rynkowej nieruchomości stanowiącej podstawę ustalenia opłaty albo na podstawie operatu szacunkowego sporządzonego na wniosek zobowiązanego do dopłaty. Wysokość dopłaty ustalana jest z urzędu w drodze decyzji. Koszty operatu szacunkowego ponosi zobowiązany do dopłaty.
+
+**Art. 15–19.** (pominięte)
 
 **Art. 20.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Sieci Onkologicznej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Sieci Onkologicznej
 
 | Pole | Wartość |
 |---|---|
@@ -44,7 +44,6 @@ c) w ust. 13f w zdaniu pierwszym wyrazy „10 dni” zastępuje się wyrazami �
 7. Do przeprowadzania dodatkowego etapu postępowania kwalifikacyjnego stosuje się odpowiednio przepisy dotyczące przeprowadzania pierwszego i drugiego etapu postępowania kwalifikacyjnego.
 8. W przypadku gdy liczba lekarzy, którzy mogą zostać zakwalifikowani w dodatkowym etapie postępowania kwalifikacyjnego w ramach miejsc szkoleniowych, o których mowa w art. 16e ust. 3, niewykorzystanych w danym postępowaniu kwalifikacyjnym, jest większa niż liczba niewykorzystanych miejsc rezydenckich, dyrektor CMKP określa minimalny wynik postępowania, w tym średnią arytmetyczną ocen z egzaminów w okresie studiów oraz czas złożenia wniosku, jaki należało uzyskać, aby zostać zakwalifikowanym w dodatkowym etapie postępowania kwalifikacyjnego, tak aby liczba osób zakwalifikowanych w tym etapie nie przekroczyła liczby niewykorzystanych miejsc rezydenckich.
 9. W przypadku przeprowadzenia dodatkowego etapu postępowania kwalifikacyjnego, w pierwszej kolejności do odbywania szkolenia specjalizacyjnego kieruje się lekarzy zakwalifikowanych w pierwszym i drugim etapie postępowania kwalifikacyjnego.”.
-Art. 41–45. (pominięte)
 
 **Art. 42.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2023 r. poz. 318) wprowadza się następujące zmiany:
 
@@ -768,6 +767,8 @@ Art. 41–45. (pominięte)
 7. Dane, o których mowa w przepisach wydanych na podstawie art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, dotyczące diagnostyki onkologicznej lub leczenia onkologicznego przekazywane przez świadczeniodawców Funduszowi na podstawie karty diagnostyki i leczenia onkologicznego w przypadku świadczenia zakończonego wydaniem karty diagnostyki i leczenia onkologicznego oraz w przypadku świadczeń z zakresu diagnostyki onkologicznej lub leczenia onkologicznego udzielanych zgodnie z art. 39 są na bieżąco przekazywane do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w celu weryfikacji uprawnień świadczeniobiorców, którym wydano kartę diagnostyki i leczenia onkologicznego.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 41–45.** (pominięte)
 
 #### Rozdział 8 Przepisy dostosowujące i przejściowe oraz przepis końcowy
 

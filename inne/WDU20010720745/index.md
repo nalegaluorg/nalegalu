@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawę o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych
+# Ustawa z dnia 7 czerwca 2001 r. zmieniająca ustawę o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawę o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych.
 
 *USTAWA z dnia 7 czerwca 2001 r.*
 

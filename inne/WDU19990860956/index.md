@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad i trybu rozliczeń z tytułu dopłat ze środków budżetu państwa do oprocentowania kredytów udzielonych przez banki na usuwanie skutków powodzi oraz prowizji przysługującej Bankowi Gospodarstwa Krajowego z tytułu tych rozliczeń.
+# Rozporządzenie Rady Ministrów z dnia 19 października 1999 r. w sprawie szczegółowych zasad i trybu rozliczeń z tytułu dopłat ze środków budżetu państwa do oprocentowania kredytów udzielonych przez banki na usuwanie skutków powodzi oraz prowizji przysługującej Bankowi Gospodarstwa Krajowego z tytułu tych rozliczeń.
 
 | Pole | Wartość |
 |---|---|

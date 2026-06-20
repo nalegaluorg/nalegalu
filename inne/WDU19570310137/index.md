@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uregulowaniu spraw własności niektórych nieruchomości nierolniczych na Ziemiach Odzyskanych i na terenach b. W.M. Gdańska
+# Ustawa z dnia 29 maja 1957 r. o uregulowaniu spraw własności niektórych nieruchomości nierolniczych na Ziemiach Odzyskanych i na terenie b. W. M. Gdańska.
 
 *USTAWA z dnia 29 maja 1957 r.*
 

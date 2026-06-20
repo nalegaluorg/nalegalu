@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy
+# Ustawa z dnia 23 marca 2022 r. o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy
 
 *USTAWA z dnia 23 marca 2022 r.*
 

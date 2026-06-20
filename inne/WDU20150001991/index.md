@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
+# Ustawa z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
 
 *USTAWA z dnia 9 października 2015 r.*
 
@@ -791,7 +791,11 @@ source: pdf
 - **2)** imię (imiona) i nazwisko osoby, której rozstrzygnięcie dotyczy;
 - **3)** przedmiot rozstrzygnięcia;
 - **4)** rodzaj rozstrzygnięcia;
-- **5)** organ wydający rozstrzygnięcie. Art. 16rb. 1. Lekarz, który uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1, oraz lekarz, który ma uznany dorobek na podstawie art. 16 ust. 7 albo ust. 9, może wystąpić do dyrektora CEM z wnioskiem o przystąpienie do PES.
+- **5)** organ wydający rozstrzygnięcie.
+
+**Art. 16rb.**
+
+1. Lekarz, który uzyskał potwierdzenie zakończenia szkolenia specjalizacyjnego, o którym mowa w art. 16r ust. 6 pkt 1, oraz lekarz, który ma uznany dorobek na podstawie art. 16 ust. 7 albo ust. 9, może wystąpić do dyrektora CEM z wnioskiem o przystąpienie do PES.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera następujące dane:
 
@@ -815,7 +819,11 @@ source: pdf
 
 5. Wniosek, o którym mowa w ust. 1, składa się w terminie do dnia 31 lipca każdego roku dla sesji jesiennej albo do dnia 31 grudnia każdego roku dla sesji wiosennej. Do terminu zgłoszenia nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej złożenie wniosku w okresie tygodnia przed upływem odpowiednich terminów, terminy te przedłuża się o czas trwania awarii od momentu usunięcia awarii. Przedłużenie następuje z urzędu przez operatora systemu.
 
-6. Dyrektor CEM zawiadamia wnioskodawcę o miejscu i terminie egzaminu oraz nadanym numerze kodowym. Zawiadomienie jest przekazywane za pomocą SMK lub środków komunikacji elektronicznej na adres poczty elektronicznej wskazany przez wnioskodawcę we wniosku, o którym mowa w ust. 1, nie później niż 14 dni przed terminem danego egzaminu. Art. 16rc. 1. CEM organizuje PES dwa razy do roku w miejscach ustalonych przez dyrektora CEM.
+6. Dyrektor CEM zawiadamia wnioskodawcę o miejscu i terminie egzaminu oraz nadanym numerze kodowym. Zawiadomienie jest przekazywane za pomocą SMK lub środków komunikacji elektronicznej na adres poczty elektronicznej wskazany przez wnioskodawcę we wniosku, o którym mowa w ust. 1, nie później niż 14 dni przed terminem danego egzaminu.
+
+**Art. 16rc.**
+
+1. CEM organizuje PES dwa razy do roku w miejscach ustalonych przez dyrektora CEM.
 
 2. PES dla każdej specjalności jest składany w formie egzaminu testowego i egzaminu ustnego, w kolejności tych egzaminów ustalonej przez dyrektora CEM, obejmujących zakres odbytego szkolenia specjalizacyjnego, ze szczególnym uwzględnieniem procedur diagnostycznych i leczniczych, z wyłączeniem wykonywania inwazyjnych zabiegów i procedur medycznych.
 
@@ -1633,7 +1641,11 @@ source: pdf
 
 4. CEM przekazuje do KIDL, po zakończeniu każdej sesji PESDL, informację o uzyskaniu przez danego diagnostę laboratoryjnego tytułu specjalisty.
 
-5. Dokumentacja dotycząca PESDL, która nie jest gromadzona w SMK, jest przechowywana przez CEM zgodnie z art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446). Art. 30za. 1. W razie rażących uchybień formalnych w przeprowadzeniu PESDL lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESDL, dyrektor CEM może unieważnić PESDL albo jego część, w danym terminie dla danej dziedziny dla poszczególnych albo wszystkich zdających.
+5. Dokumentacja dotycząca PESDL, która nie jest gromadzona w SMK, jest przechowywana przez CEM zgodnie z art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446).
+
+**Art. 30za.**
+
+1. W razie rażących uchybień formalnych w przeprowadzeniu PESDL lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESDL, dyrektor CEM może unieważnić PESDL albo jego część, w danym terminie dla danej dziedziny dla poszczególnych albo wszystkich zdających.
 
 2. Postępowanie wszczyna się na wniosek członka Zespołu Egzaminacyjnego, przeprowadzającego dany PESDL, osoby przystępującej do danego PESDL albo z urzędu.
 
@@ -1651,7 +1663,9 @@ source: pdf
 
 6. Od decyzji o unieważnieniu egzaminu przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-7. Za powtórzony PESDL albo jego część nie pobiera się opłaty egzaminacyjnej. Art. 30zb. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+7. Za powtórzony PESDL albo jego część nie pobiera się opłaty egzaminacyjnej.
+
+**Art. 30zb.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wykaz dziedzin diagnostyki laboratoryjnej, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie,
 - **2)** wykaz kodów specjalizacji w określonych dziedzinach – uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
@@ -1665,7 +1679,12 @@ source: pdf
 - **10)** wzór dyplomu, o którym mowa w art. 30z, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
 - **11)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESDL oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESDL,
 - **12)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESDL oraz sposób uiszczania opłaty za dokonanie korekty dyplomu – uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
-- **13)** wysokość opłaty, o której mowa w art. 30r, uwzględniając koszty przeprowadzenia PESDL oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty. Art. 30zc. 1. Minister właściwy do spraw zdrowia uznaje, na wniosek, uzyskany za granicą tytuł specjalisty w dziedzinie diagnostyki laboratoryjnej za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+- **13)** wysokość opłaty, o której mowa w art. 30r, uwzględniając koszty przeprowadzenia PESDL oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
+
+**Art. 30zc.**
+
+1. Minister właściwy do spraw zdrowia uznaje, na wniosek, uzyskany za granicą tytuł specjalisty w dziedzinie diagnostyki laboratoryjnej za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+
 - **1)** czas specjalizacji odbytej za granicą nie odbiega od czasu określonego w programie specjalizacji w danej dziedzinie diagnostyki laboratoryjnej realizowanego w Rzeczypospolitej Polskiej;
 - **2)** program specjalizacji w zakresie wymaganej wiedzy teoretycznej oraz umiejętności praktycznych odpowiada w istotnych elementach programowi specjalizacji w danej dziedzinie diagnostyki laboratoryjnej w Rzeczypospolitej Polskiej.
 
@@ -1700,7 +1719,11 @@ source: pdf
 - **5)** państwa, w którym osoba, której decyzja dotyczy uzyskała tytuł specjalisty;
 - **6)** przedmiot decyzji;
 - **7)** rodzaj rozstrzygnięcia;
-- **8)** organ wydający decyzję. Art. 30zd. 1. W przypadku wprowadzenia nowej dziedziny diagnostyki laboratoryjnej, diagnosta laboratoryjny legitymujący się dorobkiem naukowym i zawodowym w tej dziedzinie może wystąpić z wnioskiem do ministra właściwego do spraw zdrowia o uznanie dotychczasowego doświadczenia zawodowego i dorobku naukowego diagnosty laboratoryjnego za równoważny ze zrealizowaniem programu właściwego szkolenia specjalizacyjnego.
+- **8)** organ wydający decyzję.
+
+**Art. 30zd.**
+
+1. W przypadku wprowadzenia nowej dziedziny diagnostyki laboratoryjnej, diagnosta laboratoryjny legitymujący się dorobkiem naukowym i zawodowym w tej dziedzinie może wystąpić z wnioskiem do ministra właściwego do spraw zdrowia o uznanie dotychczasowego doświadczenia zawodowego i dorobku naukowego diagnosty laboratoryjnego za równoważny ze zrealizowaniem programu właściwego szkolenia specjalizacyjnego.
 
 2. Po wpłynięciu wniosku, o którym mowa w ust. 1, minister właściwy do spraw zdrowia występuje do dyrektora CMKP o wydanie opinii w sprawie oceny dorobku naukowego i zawodowego wnioskodawcy. Opinię sporządza zespół, o którym mowa w art. 30e ust. 3.
 
@@ -1714,7 +1737,10 @@ source: pdf
 - **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie;
 - **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 30c ust. 3;
 - **4)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 30e ust. 3;
-- **5)** przystąpić do PESDL. Art. 30ze. Na podstawie ustawy, dane zamieszczane w SMK mogą zostać udostępnione:
+- **5)** przystąpić do PESDL.
+
+**Art. 30ze.** Na podstawie ustawy, dane zamieszczane w SMK mogą zostać udostępnione:
+
 - **1)** diagnoście laboratoryjnemu w zakresie śledzenia przebiegu szkolenia specjalizacyjnego;
 - **2)** uczelniom w zakresie wykonywanych zadań określonych ustawą oraz monitorowania karier zawodowych swoich absolwentów na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. );
 - **3)** konsultantom w ochronie zdrowia w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2015 r. poz. 126);
@@ -1722,7 +1748,11 @@ source: pdf
 - **5)** CMKP w zakresie wykonywanych zadań określonych w ustawie, w szczególności udzielania akredytacji podmiotom zamierzającym prowadzić szkolenie specjalizacyjne, koordynacji organizacji staży kierunkowych i kursów specjalizacyjnych, kontroli i monitorowania realizacji szkolenia specjalizacyjnego;
 - **6)** wojewodom w zakresie wykonywanych zadań określonych w ustawie, w szczególności przebiegu szkolenia specjalizacyjnego diagnostów laboratoryjnych;
 - **7)** jednostkom szkolącym w zakresie wykonywanych zadań określonych w ustawie;
-- **8)** KIDL w zakresie wykonywanych zadań określonych w ustawie. Art. 30zf. 1. Diagnosta laboratoryjny jest obowiązany do podnoszenia kwalifikacji zawodowych przez uczestnictwo w ciągłym szkoleniu, celem aktualizacji posiadanego zasobu wiedzy oraz stałego dokształcania się w zakresie nowych osiągnięć w zakresie diagnostyki laboratoryjnej.
+- **8)** KIDL w zakresie wykonywanych zadań określonych w ustawie.
+
+**Art. 30zf.**
+
+1. Diagnosta laboratoryjny jest obowiązany do podnoszenia kwalifikacji zawodowych przez uczestnictwo w ciągłym szkoleniu, celem aktualizacji posiadanego zasobu wiedzy oraz stałego dokształcania się w zakresie nowych osiągnięć w zakresie diagnostyki laboratoryjnej.
 
 2. Ciągłe szkolenia mogą być prowadzone w jednostkach szkolących, które posiadają akredytację.
 
@@ -2762,7 +2792,11 @@ source: pdf
 
 7. Oceną końcową PESF jest ocena wynikająca ze średniej arytmetycznej ocen z egzaminu teoretycznego i praktycznego.
 
-8. Wyniki PESF dyrektor CEM, za pomocą SMK, przekazuje wojewodom, dyrektorowi CMKP oraz właściwym jednostkom szkolącym. Art. 107za. 1. Potwierdzeniem złożenia PESF jest dyplom wydany przez dyrektora CEM.
+8. Wyniki PESF dyrektor CEM, za pomocą SMK, przekazuje wojewodom, dyrektorowi CMKP oraz właściwym jednostkom szkolącym.
+
+**Art. 107za.**
+
+1. Potwierdzeniem złożenia PESF jest dyplom wydany przez dyrektora CEM.
 
 2. Dyrektor CEM wydaje dyplom, o którym mowa w ust. 1, w terminie 30 dni od dnia otrzymania kompletnej dokumentacji egzaminacyjnej.
 
@@ -2770,7 +2804,11 @@ source: pdf
 
 4. CEM przekazuje do NIA po zakończeniu każdej sesji PESF, informację o uzyskaniu przez danego farmaceutę tytułu specjalisty.
 
-5. Dokumentacja dotycząca PESF, która nie jest gromadzona w SMK, jest przechowywana przez CEM zgodnie z art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446). Art. 107zb. 1. W razie rażących uchybień formalnych w przeprowadzeniu PESF lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESF, dyrektor CEM może unieważnić PESF albo jego część, w danym terminie dla danej dziedziny dla poszczególnych albo wszystkich zdających.
+5. Dokumentacja dotycząca PESF, która nie jest gromadzona w SMK, jest przechowywana przez CEM zgodnie z art. 5 i art. 6 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2015 r. poz. 1446).
+
+**Art. 107zb.**
+
+1. W razie rażących uchybień formalnych w przeprowadzeniu PESF lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESF, dyrektor CEM może unieważnić PESF albo jego część, w danym terminie dla danej dziedziny dla poszczególnych albo wszystkich zdających.
 
 2. Postępowanie wszczyna się na wniosek członka Zespołu Egzaminacyjnego, przeprowadzającego dany PESF, osoby przystępującej do danego PESF albo z urzędu.
 
@@ -2788,7 +2826,9 @@ source: pdf
 
 6. Od decyzji o unieważnieniu egzaminu przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-7. Za powtórzony PESF albo jego część nie pobiera się opłaty egzaminacyjnej. Art. 107zc. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+7. Za powtórzony PESF albo jego część nie pobiera się opłaty egzaminacyjnej.
+
+**Art. 107zc.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 - **1)** wykaz dziedzin farmacji, w których jest możliwe odbywanie szkolenia specjalizacyjnego, uwzględniając potrzebę zabezpieczenia dostępu do świadczeń zdrowotnych w określonym zakresie;
 - **2)** wykaz kodów specjalizacji w określonych dziedzinach, uwzględniając konieczność zapewnienia pełnej informacji niezbędnej do prowadzenia specjalizacji;
@@ -2802,7 +2842,12 @@ source: pdf
 - **10)** wzór dyplomu specjalisty,
 - **11)** tryb wydawania przez dyrektora CEM duplikatu lub odpisu dyplomu PESF oraz sposób uiszczania opłaty za wydanie duplikatu lub odpisu dyplomu PESF,
 - **12)** tryb dokonywania przez dyrektora CEM korekty dyplomu PESF oraz sposób uiszczania opłaty za dokonanie korekty dyplomu, uwzględniając konieczność prawidłowego i sprawnego wydania dokumentu potwierdzającego złożenie PESF – uwzględniając konieczność prawidłowego wydania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
-- **13)** wysokość opłaty za PESF, uwzględniając koszty przeprowadzenia PESF oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty. Art. 107zd. 1. Minister właściwy do spraw zdrowia uznaje uzyskany za granicą tytuł specjalisty w dziedzinie farmacji za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+- **13)** wysokość opłaty za PESF, uwzględniając koszty przeprowadzenia PESF oraz wydania dyplomu potwierdzającego uzyskanie tytułu specjalisty.
+
+**Art. 107zd.**
+
+1. Minister właściwy do spraw zdrowia uznaje uzyskany za granicą tytuł specjalisty w dziedzinie farmacji za równoważny z tytułem specjalisty w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+
 - **1)** czas specjalizacji odbytej za granicą nie odbiega od czasu określonego w programie specjalizacji w danej dziedzinie farmacji realizowanego w Rzeczypospolitej Polskiej;
 - **2)** program specjalizacji w zakresie wymaganej wiedzy teoretycznej oraz umiejętności praktycznych odpowiada w istotnych elementach programowi specjalizacji w danej dziedzinie farmacji w Rzeczypospolitej Polskiej.
 
@@ -2837,7 +2882,11 @@ source: pdf
 - **5)** państwo, w którym nadano tytuł specjalisty;
 - **6)** przedmiot decyzji;
 - **7)** rodzaj rozstrzygnięcia;
-- **8)** organ wydający decyzję. Art. 107ze. 1. W przypadku wprowadzenia nowej dziedziny farmacji, farmaceuta legitymujący się dorobkiem naukowym i zawodowym w tej dziedzinie, może wystąpić z wnioskiem do ministra właściwego do spraw zdrowia o uznanie dotychczasowego dorobku naukowego i zawodowego farmaceuty za równoważny ze zrealizowaniem programu właściwej specjalizacji.
+- **8)** organ wydający decyzję.
+
+**Art. 107ze.**
+
+1. W przypadku wprowadzenia nowej dziedziny farmacji, farmaceuta legitymujący się dorobkiem naukowym i zawodowym w tej dziedzinie, może wystąpić z wnioskiem do ministra właściwego do spraw zdrowia o uznanie dotychczasowego dorobku naukowego i zawodowego farmaceuty za równoważny ze zrealizowaniem programu właściwej specjalizacji.
 
 2. Po wpłynięciu wniosku, o którym mowa w ust. 1, minister właściwy do spraw zdrowia występuje do dyrektora CMKP o wydanie opinii w sprawie oceny dorobku naukowego i zawodowego wnioskodawcy. Opinię sporządza zespół, o którym mowa w art. 107e ust. 3.
 
@@ -2851,7 +2900,11 @@ source: pdf
 - **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie;
 - **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 107c ust. 1;
 - **4)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 107e ust. 3;
-- **5)** przystąpić do PESF. Art. 107zf. 1. Farmaceuta zatrudniony w aptece lub hurtowni jest obowiązany do podnoszenia kwalifikacji zawodowych przez uczestnictwo w ciągłym szkoleniu, w celu aktualizacji posiadanego zasobu wiedzy oraz stałego dokształcania się w zakresie nowych osiągnięć nauk farmaceutycznych.
+- **5)** przystąpić do PESF.
+
+**Art. 107zf.**
+
+1. Farmaceuta zatrudniony w aptece lub hurtowni jest obowiązany do podnoszenia kwalifikacji zawodowych przez uczestnictwo w ciągłym szkoleniu, w celu aktualizacji posiadanego zasobu wiedzy oraz stałego dokształcania się w zakresie nowych osiągnięć nauk farmaceutycznych.
 
 2. Ciągłe szkolenia mogą być prowadzone w jednostkach szkolących, które posiadają akredytację.
 
@@ -2863,7 +2916,10 @@ source: pdf
 - **2)** zakres oraz formy zdobywania wiedzy teoretycznej w ramach ciągłego szkolenia,
 - **3)** sposób odbywania ciągłego szkolenia, w tym tryb dokumentowania jego przebiegu,
 - **4)** standardy ciągłego szkolenia,
-- **5)** wysokość opłat za ciągłe szkolenie – mając na celu zapewnienie właściwej jakości ciągłego szkolenia oraz rzetelnego sposobu ich dokumentowania. Art. 107zg. Dane zamieszczane w SMK mogą zostać udostępnione:
+- **5)** wysokość opłat za ciągłe szkolenie – mając na celu zapewnienie właściwej jakości ciągłego szkolenia oraz rzetelnego sposobu ich dokumentowania.
+
+**Art. 107zg.** Dane zamieszczane w SMK mogą zostać udostępnione:
+
 - **1)** farmaceucie w zakresie monitorowania przebiegu szkolenia specjalizacyjnego;
 - **2)** uczelniom – w zakresie wykonywanych przez nie zadań określonych w ustawie oraz monitorowania karier zawodowych swoich absolwentów na podstawie ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym;
 - **3)** konsultantom w ochronie zdrowia w zakresie wykonywanych zadań określonych w ustawie oraz w zakresie zadań, o których mowa w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2015 r. poz. 126);

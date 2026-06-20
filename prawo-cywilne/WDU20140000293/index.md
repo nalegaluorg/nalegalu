@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 7 lutego 2014 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 7 lutego 2014 r.*
 

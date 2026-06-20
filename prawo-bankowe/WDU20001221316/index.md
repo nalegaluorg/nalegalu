@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy - Prawo bankowe
+# Ustawa z dnia 15 grudnia 2000 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy - Prawo bankowe.
 
 *USTAWA z dnia 15 grudnia 2000 r.*
 

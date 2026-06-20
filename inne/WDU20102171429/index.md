@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o adwokaturze oraz ustawy o radcach prawnych
+# Ustawa z dnia 8 października 2010 r. o zmianie ustawy - Prawo o adwokaturze oraz ustawy o radcach prawnych
 
 *USTAWA z dnia 8 października 2010 r.*
 

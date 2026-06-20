@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansowaniu Papieskiej Akademii Teologicznej w Krakowie z budżetu państwa oraz ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
+# Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o finansowaniu Papieskiej Akademii Teologicznej w Krakowie z budżetu państwa oraz ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 2 grudnia 2009 r.*
 

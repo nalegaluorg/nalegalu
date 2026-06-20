@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 29 lipca 2005 r.*
 

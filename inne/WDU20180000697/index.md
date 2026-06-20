@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty
+# Ustawa z dnia 1 marca 2018 r. o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty
 
 *USTAWA z dnia 1 marca 2018 r.*
 

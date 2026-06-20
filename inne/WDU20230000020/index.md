@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o języku migowym i innych środkach komunikowania się
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 grudnia 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o języku migowym i innych środkach komunikowania się
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rozwiązywaniu sporów zbiorowych
+# Ustawa z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych.
 
 *USTAWA z dnia 23 maja 1991 r.*
 
@@ -67,9 +67,7 @@ source: pdf
 
 **Art. 8.** Pracodawca podejmuje niezwłocznie rokowania w celu rozwiązania sporu w drodze porozumienia, zawiadamiając równocześnie o powstaniu sporu właściwego okręgowego inspektora pracy.
 
-**Art. 9.** Rokowania kończą się podpisaniem przez strony porozumienia, a w razie nieosiągnięcia porozumienia – sporządzeniem protokołu rozbieżności ze wskazaniem stanowisk stron. Informacja o porozumieniu podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych w ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz.
-
-- **1661)** .
+**Art. 9.** Rokowania kończą się podpisaniem przez strony porozumienia, a w razie nieosiągnięcia porozumienia – sporządzeniem protokołu rozbieżności ze wskazaniem stanowisk stron. Informacja o porozumieniu podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych w ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
 
 #### Rozdział 3 Mediacja i arbitraż
 

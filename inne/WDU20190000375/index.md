@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grach hazardowych
+# Ustawa z dnia 17 stycznia 2019 r. o zmianie ustawy o grach hazardowych
 
 *USTAWA z dnia 17 stycznia 2019 r.*
 

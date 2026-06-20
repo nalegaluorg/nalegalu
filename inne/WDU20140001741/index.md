@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1741/text.pdf) |
 
-Art. 114–123. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje zasady i tryb rejestracji stanu cywilnego oraz dokonywania czynności z zakresu rejestracji stanu cywilnego.
@@ -1404,6 +1402,8 @@ Art. 114–123. (pominięte)
 **Art. 113.** Jeżeli rejestracji urodzenia albo zgonu, które nastąpiły poza granicami Rzeczypospolitej Polskiej i nie zostały tam zarejestrowane, rejestracji urodzenia, zawarcia małżeństwa albo zgonu, które nastąpiły poza granicami Rzeczypospolitej Polskiej, jeżeli w państwie urodzenia, zawarcia małżeństwa albo zgonu nie jest prowadzona rejestracja stanu cywilnego, transkrypcji lub odtworzenia treści zagranicznego dokumentu stanu cywilnego dokonano w formie czynności materialno-technicznej, wydany odpis zupełny aktu stanu cywilnego uważa się za wydany na wniosek.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 114–123.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

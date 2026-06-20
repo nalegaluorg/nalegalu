@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochotniczych strażach pożarnych Doceniając szczególną postawę obywatelską ochotniczego pożarnictwa „Bogu na chwałę, ludziom na pożytek” na przestrzeni dziejów naszej państwowości, kierując się konstytucyjnym prawem do dobrowolnego zrzeszania się, stanowi się, co następuje:
+# Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-12-31 |
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2490/text.pdf) |
-
-Art. 37–47. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -552,6 +550,8 @@ Art. 37–47. (pominięte)
 2. Majątek stanowiący wyposażenie przeznaczone na potrzeby prowadzonych działań ratowniczych, który zakupiono przy udziale środków pochodzących z budżetu państwa lub jednostek samorządu terytorialnego, jest przekazywany jednostce ochrony przeciwpożarowej zapewniającej utrzymanie właściwego zabezpieczenia przed pożarem, klęską żywiołową lub innym miejscowym zagrożeniem mieszkańcom gminy, na terenie której działała likwidowana ochotnicza straż pożarna.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 37–47.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące, przejściowe i przepis końcowy
 

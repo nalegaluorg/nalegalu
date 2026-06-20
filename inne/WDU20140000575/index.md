@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o europejskiej inicjatywie obywatelskiej
+# Ustawa z dnia 4 kwietnia 2014 r. o europejskiej inicjatywie obywatelskiej
 
 *USTAWA z dnia 4 kwietnia 2014 r.*
 

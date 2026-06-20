@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks cywilny
+# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Kodeks cywilny
 
 *USTAWA z dnia 8 stycznia 2010 r.*
 

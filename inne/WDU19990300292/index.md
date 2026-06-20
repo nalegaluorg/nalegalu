@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie wysokości i sposobu uiszczania opłat za używanie linii, urządzeń lub sieci telekomunikacyjnej oraz zakresu zwolnień od tych opłat.
+# Rozporządzenie Ministra Łączności z dnia 9 marca 1999 r. zmieniające rozporządzenie w sprawie wysokości i sposobu uiszczania opłat za używanie linii, urządzeń lub sieci telekomunikacyjnej oraz zakresu zwolnień od tych opłat.
 
 | Pole | Wartość |
 |---|---|

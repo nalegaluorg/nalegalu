@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zarządzaniu kryzysowym
+# Ustawa z dnia 17 lipca 2009 r. o zmianie ustawy o zarządzaniu kryzysowym
 
 *USTAWA z dnia 17 lipca 2009 r.*
 

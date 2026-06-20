@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego Sejm Rzeczypospolitej Polskiej uznaje szczególne zasługi dla Polski tych wszystkich obywateli polskich, którzy walczyli o suwerenność i niepodległość Ojczyzny, nie szczędząc życia i zdrowia na polach walki zbrojnej - w formacjach Wojska Polskiego, armii sojuszniczych, a także w podziemnych organizacjach niepodległościowych i w działalności cywilnej - z narażeniem na represje.
+# Ustawa z dnia 24 sierpnia 1991 r. o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz ustaw - Kodeks postępowania karnego, o Sądzie Najwyższym i o Trybunale Konstytucyjnym.
 
 *USTAWA z dnia 24 stycznia 1991 r.*
 

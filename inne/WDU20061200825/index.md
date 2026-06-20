@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich
+# Ustawa z dnia 27 kwietnia 2006 r. o zmianie ustawy o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich
 
 *USTAWA z dnia 27 kwietnia 2006 r.*
 

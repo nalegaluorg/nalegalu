@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
+# Ustawa z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 *USTAWA z dnia 27 sierpnia 2004 r.*
 
@@ -26,92 +26,6 @@ source: pdf
 | Data wydania | 2004-09-27 |
 | Ostatnia zmiana | 2026-06-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.pdf) |
-
-Art. 31la. 1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
-2. Prezes Agencji sporządza projekt planu taryfikacji Agencji i przedstawia go do zaopiniowania Prezesowi Funduszu oraz Radzie do spraw Taryfikacji, o której mowa w art. 31sa, w terminie do dnia 1 czerwca roku poprzedzającego rok, którego dotyczy ten plan. Prezes Funduszu oraz Rada do spraw Taryfikacji przedstawiają opinie w terminie 14 dni od dnia otrzymania planu. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
-3. Prezes Agencji przesyła ministrowi właściwemu do spraw zdrowia plan taryfikacji Agencji z opinią Prezesa Funduszu i Rady do spraw Taryfikacji, o której mowa w art. 31sa, do zatwierdzenia w terminie do dnia 16 czerwca roku poprzedzającego rok, którego dotyczy ten plan.
-4. Minister właściwy do spraw zdrowia zatwierdza plan taryfikacji Agencji w terminie 14 dni od dnia jego otrzymania.
-5. Minister właściwy do spraw zdrowia może w terminie, o którym mowa w ust. 4, zalecić wprowadzenie zmian w planie taryfikacji Agencji, określając termin ich wprowadzenia nie dłuższy niż 7 dni.
-6. W przypadku nieprzedstawienia planu taryfikacji w terminie, o którym mowa w ust. 3, niewprowadzenia w nim przez Agencję zmian określonych w ust. 5 albo niezatwierdzenia planu, minister właściwy do spraw zdrowia sporządza plan taryfikacji Agencji.
-7. W szczególnie uzasadnionych przypadkach minister właściwy do spraw zdrowia po zasięgnięciu opinii Prezesa Agencji zmienia plan taryfikacji Agencji.
-Art. 31lb. 1. Prezes Agencji określa taryfę świadczeń w danym zakresie lub rodzaju po dokonaniu przez Agencję analizy danych określonych w art. 31lc ust. 2 lub na podstawie innych dostępnych danych niezbędnych do ustalenia taryfy świadczeń oraz publikuje ją, w formie obwieszczenia, w Biuletynie Informacji Publicznej Agencji po jej zatwierdzeniu przez ministra właściwego do spraw zdrowia.
-2. Przed określeniem taryfy świadczeń w danym zakresie lub rodzaju Prezes Agencji przygotowuje raport w sprawie ustalenia taryfy świadczeń oraz zwraca się do Rady do spraw Taryfikacji, o której mowa w art. 31sa, o wydanie stanowiska w sprawie ustalenia taryfy świadczeń.
-3. Raport w sprawie ustalenia taryfy świadczeń zawiera:
-1) opis świadczenia opieki zdrowotnej podlegającego taryfikacji, ze szczególnym uwzględnieniem:
-a) wpływu świadczenia opieki zdrowotnej na stan zdrowia obywateli, w tym zapadalności, chorobowości, umieralności lub śmiertelności,
-b) skutków następstw choroby lub stanu zdrowia;
-2) analizę popytu oraz aktualnej i pożądanej podaży świadczenia opieki zdrowotnej podlegającego taryfikacji;
-3) opis sposobu i poziomu finansowania świadczenia opieki zdrowotnej podlegającego taryfikacji w innych krajach;
-4) analizę danych kosztowych pozyskanych od świadczeniodawców, jeżeli miały wpływ na ustalenie taryfy świadczeń;
-5) projekt taryfy świadczeń;
-6) analizę skutków finansowych dla systemu ochrony zdrowia, w tym dla podmiotów zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych;
-6a) ocenę wpływu proponowanej taryfy świadczeń na strukturę udzielanych świadczeń opieki zdrowotnej, w szczególności pod względem zwiększenia udziału świadczeń udzielanych w trybie ambulatoryjnym, z uwzględnieniem racjonalizacji procesu leczenia i efektywności wydatkowania środków publicznych;
-7) inne dostępne dane niezbędne do ustalenia taryfy świadczeń.
-4. Prezes Agencji publikuje raport w sprawie ustalenia taryfy świadczeń w Biuletynie Informacji Publicznej Agencji. Do raportu w sprawie ustalenia taryfy świadczeń można zgłaszać uwagi w terminie 7 dni od dnia jego opublikowania.
-5. Osoby, które zgłaszają uwagi do opublikowanego raportu w sprawie ustalenia taryfy świadczeń, składają oświadczenie, o którym mowa w art. 31sa ust. 8a.
-Oświadczenie składa się wraz ze zgłoszonymi uwagami do raportu w sprawie ustalenia taryfy świadczeń.
-6. Uwagi zgłoszone do raportu w sprawie ustalenia taryfy świadczeń są zamieszczane w Biuletynie Informacji Publicznej Agencji wraz z wypełnionym oświadczeniem, o którym mowa w ust. 5, i są dostępne przez 6 miesięcy od dnia ich publikacji.
-7. Prezes Agencji przekazuje Radzie do spraw Taryfikacji raport w sprawie ustalenia taryfy świadczeń oraz zgłoszone uwagi, o których mowa w ust. 4 zdanie drugie, celem wydania stanowiska w sprawie ustalenia taryfy świadczeń. Przed wydaniem stanowiska w sprawie ustalenia taryfy świadczeń Rada do spraw Taryfikacji może prowadzić na posiedzeniu konsultacje w sprawie taryfy z:
-1) konsultantem krajowym w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
-2) przedstawicielami ogólnopolskich towarzystw naukowych w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
-3) przedstawicielami organizacji świadczeniodawców,
-4) przedstawicielami organizacji społecznych działających na rzecz praw pacjentów,
-5) innymi podmiotami lub osobami, których udział w konsultacjach jest istotny w ocenie Rady do spraw Taryfikacji dla ustalenia taryfy świadczeń – jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.
-7a. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
-7b. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji na podstawie dokonanej analizy, o której mowa w ust. 7a, dopuszcza do udziału w konsultacjach, odmawia dopuszczenia do udziału w konsultacjach lub wyłącza z konsultacji osoby, o których mowa w ust. 7.
-7c. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób i tryb analizy składanych oświadczeń, o których mowa w ust. 7 i art. 31sa ust. 10 i 11, oraz składanych deklaracji, o których mowa w art. 31s ust. 12 i 15, uwzględniając konieczność oceny bezstronności osób biorących udział w prowadzonych postępowaniach.
-8. Składający oświadczenie, o którym mowa w ust. 7, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
-9. Rada do spraw Taryfikacji na podstawie raportu w sprawie ustalenia taryfy świadczeń, zgłoszonych uwag oraz, w przypadku przeprowadzenia konsultacji, o których mowa w ust. 7, ustaleń podjętych w ich trakcie, wydaje stanowisko w sprawie ustalenia taryfy świadczeń w terminie 30 dni od dnia otrzymania raportu w sprawie ustalenia taryfy świadczeń. Stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń jest publikowane w Biuletynie Informacji Publicznej Agencji.
-10. Prezes Agencji, biorąc pod uwagę raport w sprawie ustalenia taryfy świadczeń oraz stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń, określa taryfę świadczeń zgodnie z ust. 1.
-11. Prezes Agencji przesyła niezwłocznie projekt obwieszczenia zawierającego określenie taryfy świadczeń, raport w sprawie ustalenia taryfy świadczeń i stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń do ministra właściwego do spraw zdrowia.
-12. Minister właściwy do spraw zdrowia po zapoznaniu się z taryfą świadczeń, raportem w sprawie ustalenia taryfy świadczeń i stanowiskiem Rady do spraw Taryfikacji zatwierdza lub w szczególnie uzasadnionych przypadkach, mając na uwadze dane określone w art. 31lc ust. 2 lub inne dostępne dane niezbędne do ustalenia taryfy świadczeń, zmienia taryfę świadczeń określoną przez Prezesa Agencji oraz przekazuje ją Prezesowi Agencji celem opublikowania, w formie obwieszczenia, w Biuletynie Informacji Publicznej Agencji.
-Art. 31lc. 1. Minister właściwy do spraw zdrowia oraz Agencja przetwarzają dane niezbędne do realizacji odpowiednio:
-1) zadań ministra właściwego do spraw zdrowia określonych w art. 11;
-2) zadań Agencji określonych w art. 31n.
-2. W celu realizacji zadań Agencji określonych w art. 31n minister właściwy do spraw zdrowia oraz Agencja przetwarzają następujące dane:
-1) numer PESEL świadczeniobiorcy, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
-2) adres miejsca zamieszkania świadczeniobiorcy;
-3) dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej;
-4) stanowisko pracy osoby zatrudnionej u świadczeniodawców, o których mowa w ust. 4, na podstawie umowy o pracę lub świadczącej usługi na podstawie umowy cywilnoprawnej, lub w ramach podwykonawstwa, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
-5) zanonimizowane dane o wysokości poszczególnych składowych wynagrodzenia i wymiarze zatrudnienia osoby, o której mowa w pkt 4, oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej.
-3. Podmioty obowiązane do finansowania świadczeń opieki zdrowotnej ze środków publicznych oraz jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępniają nieodpłatnie Agencji dane, o których mowa w ust. 2, w celu realizacji zadań Agencji określonych w art. 31n pkt 1–3d i 4a–4g oraz w celu dokonywania analiz na rzecz systemu ochrony zdrowia.
-4. Świadczeniodawca, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, udostępnia Agencji nieodpłatnie dane, o których mowa w ust. 2, w terminie wskazanym przez Prezesa Agencji, nie krótszym jednak niż 14 dni, licząc od dnia doręczenia świadczeniodawcy wniosku o udostępnienie danych, zapewniając najwyższą jakość i kompletność udostępnionych danych. Agencja może zweryfikować jakość oraz kompletność danych, o których mowa w ust. 2, w miejscu udzielania świadczeń opieki zdrowotnej przez świadczeniodawcę na zasadach uzgodnionych ze świadczeniodawcą.
-4a. Świadczeniodawca, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, udostępnia Agencji nieodpłatnie, w terminie wskazanym przez Prezesa Agencji, nie krótszym niż 14 dni od dnia otrzymania wniosku o udostępnienie danych, dane dotyczące wszystkich osób zatrudnionych u niego na podstawie umowy o pracę lub świadczących usługi na podstawie umowy cywilnoprawnej, lub w ramach podwykonawstwa, obejmujące informacje o wymiarze zatrudnienia i wysokości poszczególnych składowych wynagrodzenia, oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, a także dane dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej.
-4b. Dane, o których mowa w ust. 4a, obejmują:
-1) stanowisko pracy;
-2) zanonimizowane dane o wysokości poszczególnych składowych wynagrodzenia i wymiarze zatrudnienia oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
-3) dane dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej.
-4c. Wytyczne dotyczące sposobu przekazywania danych, o których mowa w ust.
-4a, określa Prezes Agencji i publikuje je w Biuletynie Informacji Publicznej Agencji.
-4d. Dane, o których mowa w ust. 4a, są wykorzystywane przez Agencję w celu realizacji zadań określonych w art. 31n pkt 1a, 2c i 4c–4g.
-5. Agencja jest obowiązana do przekazywania danych udostępnianych przez świadczeniodawców ministrowi właściwemu do spraw zdrowia, na jego wniosek.
-6. Świadczeniodawcy, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, są obowiązani do stosowania standardu rachunku kosztów opracowanego na podstawie zaleceń określonych w przepisach wydanych na podstawie ust. 7.
-7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w ust. 6, kierując się potrzebą ujednolicenia sposobu identyfikowania, gromadzenia, przetwarzania, prezentowania i interpretowania informacji o kosztach świadczeń opieki zdrowotnej.
-8. Przepisów ust. 6 i przepisów wydanych na podstawie ust. 7 nie stosuje się do świadczeniodawców:
-1) udzielających świadczeń opieki zdrowotnej wyłącznie w zakresie podstawowej opieki zdrowotnej;
-2) którzy nie prowadzą ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
-3) o których mowa w art. 5 pkt 41 lit. d.
-Art. 31ld. 1. Agencja jest upoważniona do przetwarzania:
-1) danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r.
-o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze, o których mowa w art. 59 ust. 4 i art. 88a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwane dalej „programami naprawczymi”,
-2) danych zawartych w programach naprawczych oraz zmianach i kwartalnych aktualizacjach tych programów,
-3) danych zawartych w sprawozdaniach rocznych i końcowych z realizacji programów naprawczych,
-4) danych zawartych w analizach, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-5) danych zawartych w stanowiskach, o których mowa w art. 59a ust. 1 pkt 1 i 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
-6) danych zawartych w rocznych sprawozdaniach finansowych, o których mowa w art. 53 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, w sprawozdaniach z badania sprawozdań finansowych, o których mowa w art. 69 ust. 1 pkt 2 tej ustawy, jeżeli podlegały one badaniu, w odpisach uchwał lub postanowień organu zatwierdzającego o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty, o których mowa w art. 69 ust.
-1 pkt 3 tej ustawy,
-7) innych danych dotyczących funkcjonowania podmiotów leczniczych, ich sytuacji operacyjnej i ekonomiczno-finansowej, w tym informacji dotyczących wdrożenia standardu rachunku kosztów zgodnie z przepisami wydanymi na podstawie art. 31lc ust. 7, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
-8) danych dotyczących bezpośrednich i pośrednich kosztów udzielania świadczeń opieki zdrowotnej, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
-9) danych o zasobach kadrowych, sprzętowych, diagnostycznych i lokalowych podmiotów leczniczych – w celu realizacji zadania określonego w art. 31n pkt 4g i dokonywania analiz na rzecz systemu ochrony zdrowia.
-2. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia zapewnia Agencji dostęp, w sposób ciągły, do danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze.
-3. Kierownik podmiotu leczniczego, którego program naprawczy podlega analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazuje nieodpłatnie dane, o których mowa w ust. 1 pkt 3–8, w formie i terminie uzgodnionych z Prezesem Agencji. Uzgadniając formę i termin przekazania danych podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
-4. Prezes Funduszu udostępnia Agencji dane, o których mowa w ust. 1 pkt 9, w terminie określonym przez Prezesa Agencji, jednak nie krótszym niż 7 dni.
-5. Podmioty lecznicze, których programy naprawcze podlegają analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz ich podmioty tworzące współdziałają z Agencją przy realizacji zadania określonego w art.
-31n pkt 4g przez nieodpłatne udostępnianie Agencji informacji źródłowych i założeń metodologicznych przyjętych do przygotowania programów naprawczych i analiz, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz innych materiałów, na podstawie których zostały zaplanowane działania naprawcze, w formie i terminie uzgodnionych z Prezesem Agencji.
-Uzgadniając formę i termin przekazania informacji, założeń i materiałów, podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
-Art. 161ba. 1. Transport sanitarny wykonywany jest specjalistycznymi środkami transportu lądowego, wodnego i lotniczego.
-2. Środki transportu sanitarnego, o których mowa w ust. 1, muszą spełniać cechy techniczne i jakościowe określone w Polskich Normach przenoszących europejskie normy zharmonizowane.
-Art. 196–228. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -610,7 +524,7 @@ Art. 196–228. (pominięte)
 - **3)** kategorię świadczeniobiorcy:
     - **a)** przyjęty na bieżąco – w przypadku świadczeniobiorcy, któremu udzielono świadczenia w dniu zgłoszenia, z wyłączeniem świadczeniobiorcy, o którym mowa w lit. d i f,
     - **b)** oczekujący – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących na wyznaczenie terminu udzielenia świadczenia opieki zdrowotnej prowadzonym dla świadczeń opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, zwanym dalej „centralnym wykazem oczekujących”,
-    - **c)** oczekujący objęty diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia, o której mowa w art. 20 ust. 12 pkt 1, albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących,>
+    - **c)** oczekujący objęty diagnostyką onkologiczną lub leczeniem onkologicznym na podstawie karty diagnostyki i leczenia onkologicznego – w przypadku świadczeniobiorcy wpisywanego na listę oczekujących na udzielenie świadczenia, o której mowa w art. 20 ust. 12 pkt 1, albo któremu wyznaczono termin udzielenia świadczenia w ramach centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1, albo którego umieszczono w centralnym wykazie oczekujących,
     - **d)** posiadający prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej – ze wskazaniem podstawy tego prawa,
     - **e)** kontynuujący leczenie,
     - **f)** przyjęty w stanie nagłym,
@@ -752,7 +666,8 @@ Art. 196–228. (pominięte)
 
 2. Fundusz publikuje na swojej stronie internetowej, aktualizując co najmniej raz w miesiącu, informację o:
 
-- **1)** liczbie świadczeniobiorców wpisanych do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b, przekazaną przez świadczeniodawcę; [2) średnim czasie oczekiwania w danym miesiącu, obliczonym na podstawie dokumentów rozliczeniowych za dany miesiąc;] <2) prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej;>
+- **1)** liczbie świadczeniobiorców wpisanych do kategorii oczekujący, o której mowa w art. 19a ust. 4 pkt 3 lit. b, przekazaną przez świadczeniodawcę;
+- **2)** prognozowanym czasie oczekiwania na udzielenie świadczenia opieki zdrowotnej;
 - **3)** możliwości udzielenia świadczenia przez innych świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej. <2a. Prognozowany czas oczekiwania na udzielenie świadczenia opieki zdrowotnej Fundusz oblicza co miesiąc dla każdej listy oczekujących na udzielenie świadczenia prowadzonej przez świadczeniodawcę zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1, z wyłączeniem list, o których mowa w art. 20 ust. 12, oddzielnie dla każdej grupy oczekujących wyodrębnionej ze względu na kryteria medyczne, o których mowa w przepisach wydanych na podstawie art. 20 ust. 11, na podstawie średniego rzeczywistego czasu oczekiwania obliczanego i przekazywanego przez świadczeniodawców zgodnie z przepisami wydanymi na podstawie art. 190 ust. 1.> [3. Fundusz informuje świadczeniobiorcę o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej oraz o pierwszym wolnym terminie udzielenia świadczenia.] <3. Fundusz informuje świadczeniobiorcę o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, oraz o prognozowanym czasie oczekiwania na udzielenie tego świadczenia.> [4. Świadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje każdego dnia roboczego, z wyłączeniem sobót, niedziel oraz dni ustawowo wolnych od pracy, Funduszowi informację o pierwszym wolnym terminie udzielenia świadczenia według stanu na dzień poprzedzający, z wyłączeniem świadczeń, dla których jest prowadzona lista oczekujących, o której mowa w art. 20 ust. 12, oraz świadczeń, w przypadku których świadczeniodawca może nie wpisywać w harmonogramie przyjęć terminu udzielenia świadczenia, o których mowa w art. 19a ust. 5.
 
 4a. W przypadku ograniczonych możliwości technicznych świadczeniodawcy, Prezes Funduszu może wyrazić zgodę na przekazywanie informacji o pierwszym wolnym terminie udzielenia świadczenia przez świadczeniodawcę raz w tygodniu.
@@ -882,13 +797,17 @@ Art. 196–228. (pominięte)
 
 10. W przypadku świadczeń opieki zdrowotnej udzielanych na podstawie skierowania, o którym mowa w art. 59aa ust. 1, zgłoszenia centralnego można dokonać na podstawie tylko jednego skierowania na udzielenie danego świadczenia opieki zdrowotnej, niezależnie od tego, czy świadczeniobiorcy wystawiono więcej niż jedno skierowanie na to świadczenie opieki zdrowotnej.
 
-11. Jeżeli świadczeniobiorca dokona zgłoszenia centralnego w sposób, o którym mowa w ust. 3 pkt 2, w czasie braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, z przyczyn nieleżących po stronie świadczeniodawcy, niezwłocznie po uzyskaniu dostępu do tego systemu świadczeniodawca wyznacza świadczeniobiorcy termin udzielenia świadczenia albo, jeśli wyznaczenie terminu udzielenia świadczenia w przypadku świadczenia opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, nie jest możliwe, umieszcza go w centralnym wykazie oczekujących. <Art. 23f. 1. Centralna elektroniczna rejestracja jest prowadzona z wykorzystaniem narzędzia asystenta głosowego.
+11. Jeżeli świadczeniobiorca dokona zgłoszenia centralnego w sposób, o którym mowa w ust. 3 pkt 2, w czasie braku dostępu do systemu teleinformatycznego, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, z przyczyn nieleżących po stronie świadczeniodawcy, niezwłocznie po uzyskaniu dostępu do tego systemu świadczeniodawca wyznacza świadczeniobiorcy termin udzielenia świadczenia albo, jeśli wyznaczenie terminu udzielenia świadczenia w przypadku świadczenia opieki zdrowotnej, o którym mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1, nie jest możliwe, umieszcza go w centralnym wykazie oczekujących.
+
+**Art. 23f.**
+
+1. Centralna elektroniczna rejestracja jest prowadzona z wykorzystaniem narzędzia asystenta głosowego.
 
 2. Nagrania dźwięku lub transkrypcje nagrania uzyskane w wyniku prowadzenia centralnej elektronicznej rejestracji z wykorzystaniem narzędzia asystenta głosowego, zawierające dane, o których mowa w art. 7 ust. 1a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, minister właściwy do spraw zdrowia przetwarza wyłącznie w celu prowadzenia centralnej elektronicznej rejestracji.
 
 3. Nagrania dźwięku lub transkrypcje nagrania uzyskane w wyniku prowadzenia centralnej elektronicznej rejestracji z wykorzystaniem narzędzia asystenta głosowego, zawierające dane, o których mowa w art. 7 ust. 1a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przechowuje jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia, przez okres nie dłuższy niż 3 lata, licząc od końca roku kalendarzowego, w którym nagranie zostało zarejestrowane.
 
-4. Przetwarzanie danych głosowych narzędzia asystenta głosowego nie może prowadzić do identyfikacji lub weryfikacji tożsamości świadczeniobiorcy na podstawie cech biometrycznych głosu i nie może być wykorzystywane do analizy cech osobowościowych, stanu emocjonalnego lub stanu zdrowia świadczeniobiorcy. Narzędzie asystenta głosowego nie utrwala i nie wykorzystuje wzorców głosowych służących do identyfikacji lub weryfikacji danych biometrycznych w rozumieniu art. 4 pkt 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).>
+4. Przetwarzanie danych głosowych narzędzia asystenta głosowego nie może prowadzić do identyfikacji lub weryfikacji tożsamości świadczeniobiorcy na podstawie cech biometrycznych głosu i nie może być wykorzystywane do analizy cech osobowościowych, stanu emocjonalnego lub stanu zdrowia świadczeniobiorcy. Narzędzie asystenta głosowego nie utrwala i nie wykorzystuje wzorców głosowych służących do identyfikacji lub weryfikacji danych biometrycznych w rozumieniu art. 4 pkt 14 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
 
 **Art. 23g.**
 
@@ -1083,7 +1002,11 @@ Art. 196–228. (pominięte)
 
 8. Prezes Agencji niezwłocznie przekazuje rekomendację ministrowi właściwemu do spraw zdrowia.
 
-9. Prezes Agencji niezwłocznie zamieszcza zlecenia i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej. Art. 31ca. 1. Minister właściwy do spraw zdrowia może zlecić Prezesowi Agencji przygotowanie rekomendacji dotyczącej zasadności stosowania leków w ramach Programu Szczepień Ochronnych, o którym mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
+9. Prezes Agencji niezwłocznie zamieszcza zlecenia i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej.
+
+**Art. 31ca.**
+
+1. Minister właściwy do spraw zdrowia może zlecić Prezesowi Agencji przygotowanie rekomendacji dotyczącej zasadności stosowania leków w ramach Programu Szczepień Ochronnych, o którym mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
 
 2. Po otrzymaniu zlecenia, o którym mowa w ust. 1, Prezes Agencji wzywa podmiot odpowiedzialny w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne do przekazania:
 
@@ -1098,7 +1021,11 @@ Art. 196–228. (pominięte)
 **Art. 31d.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzeń, w poszczególnych zakresach, o których mowa w art. 15 ust. 2 pkt 1–8 i 10–13, wykazy świadczeń gwarantowanych wraz z określeniem:
 
 - **1)** poziomu lub sposobu finansowania danego świadczenia gwarantowanego, o którym mowa w art. 18, art. 33 i art. 41, mając na uwadze treść rekomendacji oraz uwzględniając kryteria określone w art. 31a ust. 1;
-- **2)** warunków realizacji danego świadczenia gwarantowanego, w tym dotyczących personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej oraz właściwego zabezpieczenia tych świadczeń. Art. 31da. 1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia wykaz świadczeń gwarantowanych, o których mowa w art. 15 ust. 2a, oraz warunki ich realizacji, w tym dotyczące personelu medycznego, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej.
+- **2)** warunków realizacji danego świadczenia gwarantowanego, w tym dotyczących personelu medycznego i wyposażenia w sprzęt i aparaturę medyczną, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej oraz właściwego zabezpieczenia tych świadczeń.
+
+**Art. 31da.**
+
+1. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia wykaz świadczeń gwarantowanych, o których mowa w art. 15 ust. 2a, oraz warunki ich realizacji, w tym dotyczące personelu medycznego, mając na uwadze konieczność zapewnienia wysokiej jakości świadczeń opieki zdrowotnej.
 
 2. Wykaz świadczeń gwarantowanych, o których mowa w ust. 1, może obejmować świadczenia określone w rozporządzeniach wydanych na podstawie art. 31d.
 
@@ -1189,7 +1116,11 @@ Art. 196–228. (pominięte)
 
 4. Prezes Agencji niezwłocznie przekazuje rekomendację ministrowi właściwemu do spraw zdrowia oraz podmiotowi, który złożył wniosek, o którym mowa w art. 31e ust. 1 pkt 1.
 
-5. Prezes Agencji niezwłocznie zamieszcza zlecenia, o których mowa w art. 31f ust. 5, raporty w sprawie oceny świadczenia opieki zdrowotnej oraz stanowiska i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej. Art. 31ha. 1. Prezes Agencji po otrzymaniu zlecenia ministra właściwego do spraw zdrowia, o którym mowa w art. 31n pkt 2c, dokonuje analizy dotyczącej zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej w związku z nadzwyczajnym wzrostem kosztów udzielania tych świadczeń oraz przygotowuje raport w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej i wydaje rekomendację.
+5. Prezes Agencji niezwłocznie zamieszcza zlecenia, o których mowa w art. 31f ust. 5, raporty w sprawie oceny świadczenia opieki zdrowotnej oraz stanowiska i rekomendacje na stronie internetowej Agencji oraz w Biuletynie Informacji Publicznej Agencji na zasadach określonych w przepisach o dostępie do informacji publicznej.
+
+**Art. 31ha.**
+
+1. Prezes Agencji po otrzymaniu zlecenia ministra właściwego do spraw zdrowia, o którym mowa w art. 31n pkt 2c, dokonuje analizy dotyczącej zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej w związku z nadzwyczajnym wzrostem kosztów udzielania tych świadczeń oraz przygotowuje raport w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej i wydaje rekomendację.
 
 2. Raport w sprawie zmiany sposobu lub poziomu finansowania świadczeń opieki zdrowotnej zawiera:
 
@@ -1210,6 +1141,137 @@ Art. 196–228. (pominięte)
 **Art. 31l.** Do postępowania kwalifikacyjnego odbywającego się na zasadach określonych w niniejszym rozdziale nie stosuje się przepisów Kodeksu postępowania administracyjnego, z zastrzeżeniem art. 31f ust. 4.
 
 #### Rozdział 1aa Taryfikacja świadczeń opieki zdrowotnej
+
+**Art. 31la.**
+
+1. Taryfikacja świadczeń opieki zdrowotnej jest prowadzona na podstawie planu taryfikacji Agencji sporządzanego na rok kalendarzowy.
+
+2. Prezes Agencji sporządza projekt planu taryfikacji Agencji i przedstawia go do zaopiniowania Prezesowi Funduszu oraz Radzie do spraw Taryfikacji, o której mowa w art. 31sa, w terminie do dnia 1 czerwca roku poprzedzającego rok, którego dotyczy ten plan. Prezes Funduszu oraz Rada do spraw Taryfikacji przedstawiają opinie w terminie 14 dni od dnia otrzymania planu. Niewydanie opinii w tym terminie jest równoznaczne z opinią pozytywną.
+
+3. Prezes Agencji przesyła ministrowi właściwemu do spraw zdrowia plan taryfikacji Agencji z opinią Prezesa Funduszu i Rady do spraw Taryfikacji, o której mowa w art. 31sa, do zatwierdzenia w terminie do dnia 16 czerwca roku poprzedzającego rok, którego dotyczy ten plan.
+
+4. Minister właściwy do spraw zdrowia zatwierdza plan taryfikacji Agencji w terminie 14 dni od dnia jego otrzymania.
+
+5. Minister właściwy do spraw zdrowia może w terminie, o którym mowa w ust. 4, zalecić wprowadzenie zmian w planie taryfikacji Agencji, określając termin ich wprowadzenia nie dłuższy niż 7 dni.
+
+6. W przypadku nieprzedstawienia planu taryfikacji w terminie, o którym mowa w ust. 3, niewprowadzenia w nim przez Agencję zmian określonych w ust. 5 albo niezatwierdzenia planu, minister właściwy do spraw zdrowia sporządza plan taryfikacji Agencji.
+
+7. W szczególnie uzasadnionych przypadkach minister właściwy do spraw zdrowia po zasięgnięciu opinii Prezesa Agencji zmienia plan taryfikacji Agencji.
+
+**Art. 31lb.**
+
+1. Prezes Agencji określa taryfę świadczeń w danym zakresie lub rodzaju po dokonaniu przez Agencję analizy danych określonych w art. 31lc ust. 2 lub na podstawie innych dostępnych danych niezbędnych do ustalenia taryfy świadczeń oraz publikuje ją, w formie obwieszczenia, w Biuletynie Informacji Publicznej Agencji po jej zatwierdzeniu przez ministra właściwego do spraw zdrowia.
+
+2. Przed określeniem taryfy świadczeń w danym zakresie lub rodzaju Prezes Agencji przygotowuje raport w sprawie ustalenia taryfy świadczeń oraz zwraca się do Rady do spraw Taryfikacji, o której mowa w art. 31sa, o wydanie stanowiska w sprawie ustalenia taryfy świadczeń.
+
+3. Raport w sprawie ustalenia taryfy świadczeń zawiera:
+
+- **1)** opis świadczenia opieki zdrowotnej podlegającego taryfikacji, ze szczególnym uwzględnieniem:
+    - **a)** wpływu świadczenia opieki zdrowotnej na stan zdrowia obywateli, w tym zapadalności, chorobowości, umieralności lub śmiertelności,
+    - **b)** skutków następstw choroby lub stanu zdrowia;
+
+- **2)** analizę popytu oraz aktualnej i pożądanej podaży świadczenia opieki zdrowotnej podlegającego taryfikacji;
+- **3)** opis sposobu i poziomu finansowania świadczenia opieki zdrowotnej podlegającego taryfikacji w innych krajach;
+- **4)** analizę danych kosztowych pozyskanych od świadczeniodawców, jeżeli miały wpływ na ustalenie taryfy świadczeń;
+- **5)** projekt taryfy świadczeń;
+- **6)** analizę skutków finansowych dla systemu ochrony zdrowia, w tym dla podmiotów zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych;
+- **6a)** ocenę wpływu proponowanej taryfy świadczeń na strukturę udzielanych świadczeń opieki zdrowotnej, w szczególności pod względem zwiększenia udziału świadczeń udzielanych w trybie ambulatoryjnym, z uwzględnieniem racjonalizacji procesu leczenia i efektywności wydatkowania środków publicznych;
+- **7)** inne dostępne dane niezbędne do ustalenia taryfy świadczeń.
+
+4. Prezes Agencji publikuje raport w sprawie ustalenia taryfy świadczeń w Biuletynie Informacji Publicznej Agencji. Do raportu w sprawie ustalenia taryfy świadczeń można zgłaszać uwagi w terminie 7 dni od dnia jego opublikowania.
+
+5. Osoby, które zgłaszają uwagi do opublikowanego raportu w sprawie ustalenia taryfy świadczeń, składają oświadczenie, o którym mowa w art. 31sa ust. 8a. Oświadczenie składa się wraz ze zgłoszonymi uwagami do raportu w sprawie ustalenia taryfy świadczeń.
+
+6. Uwagi zgłoszone do raportu w sprawie ustalenia taryfy świadczeń są zamieszczane w Biuletynie Informacji Publicznej Agencji wraz z wypełnionym oświadczeniem, o którym mowa w ust. 5, i są dostępne przez 6 miesięcy od dnia ich publikacji.
+
+7. Prezes Agencji przekazuje Radzie do spraw Taryfikacji raport w sprawie ustalenia taryfy świadczeń oraz zgłoszone uwagi, o których mowa w ust. 4 zdanie drugie, celem wydania stanowiska w sprawie ustalenia taryfy świadczeń. Przed wydaniem stanowiska w sprawie ustalenia taryfy świadczeń Rada do spraw Taryfikacji może prowadzić na posiedzeniu konsultacje w sprawie taryfy z:
+
+- **1)** konsultantem krajowym w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
+- **2)** przedstawicielami ogólnopolskich towarzystw naukowych w dziedzinie medycyny związanej ze świadczeniem opieki zdrowotnej podlegającym taryfikacji,
+- **3)** przedstawicielami organizacji świadczeniodawców,
+- **4)** przedstawicielami organizacji społecznych działających na rzecz praw pacjentów,
+- **5)** innymi podmiotami lub osobami, których udział w konsultacjach jest istotny w ocenie Rady do spraw Taryfikacji dla ustalenia taryfy świadczeń – jeżeli te osoby lub podmioty złożyły przed posiedzeniem Rady do spraw Taryfikacji oświadczenia, o których mowa w art. 31sa ust. 8a.
+
+7a. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji analizuje złożone oświadczenia, o których mowa w ust. 7, kierując się zasadą równego traktowania osób składających oświadczenia oraz biorąc pod uwagę rodzaj zgłoszonego powiązania branżowego, jego charakter i okoliczności zgłoszonego powiązania branżowego, a także ewentualny wpływ zadeklarowanego powiązania branżowego na postępowanie prowadzone przez Radę do spraw Taryfikacji. Analiza jest wykonywana w oparciu o sposób i tryb określone w przepisach wydanych na podstawie ust. 7c, w celu zapewnienia obiektywności rozstrzygnięć podejmowanych przez Radę i efektywności prowadzonych przez nią postępowań oraz niedopuszczenia do udziału w konsultacjach osób lub wyłączenia z konsultacji osób, w stosunku do których ujawnił się konflikt interesów budzący uzasadnione wątpliwości co do ich bezstronności.
+
+7b. Przewodniczący lub wiceprzewodniczący Rady do spraw Taryfikacji na podstawie dokonanej analizy, o której mowa w ust. 7a, dopuszcza do udziału w konsultacjach, odmawia dopuszczenia do udziału w konsultacjach lub wyłącza z konsultacji osoby, o których mowa w ust. 7.
+
+7c. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób i tryb analizy składanych oświadczeń, o których mowa w ust. 7 i art. 31sa ust. 10 i 11, oraz składanych deklaracji, o których mowa w art. 31s ust. 12 i 15, uwzględniając konieczność oceny bezstronności osób biorących udział w prowadzonych postępowaniach.
+
+8. Składający oświadczenie, o którym mowa w ust. 7, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+9. Rada do spraw Taryfikacji na podstawie raportu w sprawie ustalenia taryfy świadczeń, zgłoszonych uwag oraz, w przypadku przeprowadzenia konsultacji, o których mowa w ust. 7, ustaleń podjętych w ich trakcie, wydaje stanowisko w sprawie ustalenia taryfy świadczeń w terminie 30 dni od dnia otrzymania raportu w sprawie ustalenia taryfy świadczeń. Stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń jest publikowane w Biuletynie Informacji Publicznej Agencji.
+
+10. Prezes Agencji, biorąc pod uwagę raport w sprawie ustalenia taryfy świadczeń oraz stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń, określa taryfę świadczeń zgodnie z ust. 1.
+
+11. Prezes Agencji przesyła niezwłocznie projekt obwieszczenia zawierającego określenie taryfy świadczeń, raport w sprawie ustalenia taryfy świadczeń i stanowisko Rady do spraw Taryfikacji w sprawie ustalenia taryfy świadczeń do ministra właściwego do spraw zdrowia.
+
+12. Minister właściwy do spraw zdrowia po zapoznaniu się z taryfą świadczeń, raportem w sprawie ustalenia taryfy świadczeń i stanowiskiem Rady do spraw Taryfikacji zatwierdza lub w szczególnie uzasadnionych przypadkach, mając na uwadze dane określone w art. 31lc ust. 2 lub inne dostępne dane niezbędne do ustalenia taryfy świadczeń, zmienia taryfę świadczeń określoną przez Prezesa Agencji oraz przekazuje ją Prezesowi Agencji celem opublikowania, w formie obwieszczenia, w Biuletynie Informacji Publicznej Agencji.
+
+**Art. 31lc.**
+
+1. Minister właściwy do spraw zdrowia oraz Agencja przetwarzają dane niezbędne do realizacji odpowiednio:
+
+- **1)** zadań ministra właściwego do spraw zdrowia określonych w art. 11;
+- **2)** zadań Agencji określonych w art. 31n.
+
+2. W celu realizacji zadań Agencji określonych w art. 31n minister właściwy do spraw zdrowia oraz Agencja przetwarzają następujące dane:
+
+- **1)** numer PESEL świadczeniobiorcy, a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **2)** adres miejsca zamieszkania świadczeniobiorcy;
+- **3)** dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej;
+- **4)** stanowisko pracy osoby zatrudnionej u świadczeniodawców, o których mowa w ust. 4, na podstawie umowy o pracę lub świadczącej usługi na podstawie umowy cywilnoprawnej, lub w ramach podwykonawstwa, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
+- **5)** zanonimizowane dane o wysokości poszczególnych składowych wynagrodzenia i wymiarze zatrudnienia osoby, o której mowa w pkt 4, oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej.
+
+3. Podmioty obowiązane do finansowania świadczeń opieki zdrowotnej ze środków publicznych oraz jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępniają nieodpłatnie Agencji dane, o których mowa w ust. 2, w celu realizacji zadań Agencji określonych w art. 31n pkt 1–3d i 4a–4g oraz w celu dokonywania analiz na rzecz systemu ochrony zdrowia.
+
+4. Świadczeniodawca, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, udostępnia Agencji nieodpłatnie dane, o których mowa w ust. 2, w terminie wskazanym przez Prezesa Agencji, nie krótszym jednak niż 14 dni, licząc od dnia doręczenia świadczeniodawcy wniosku o udostępnienie danych, zapewniając najwyższą jakość i kompletność udostępnionych danych. Agencja może zweryfikować jakość oraz kompletność danych, o których mowa w ust. 2, w miejscu udzielania świadczeń opieki zdrowotnej przez świadczeniodawcę na zasadach uzgodnionych ze świadczeniodawcą.
+
+4a. Świadczeniodawca, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, udostępnia Agencji nieodpłatnie, w terminie wskazanym przez Prezesa Agencji, nie krótszym niż 14 dni od dnia otrzymania wniosku o udostępnienie danych, dane dotyczące wszystkich osób zatrudnionych u niego na podstawie umowy o pracę lub świadczących usługi na podstawie umowy cywilnoprawnej, lub w ramach podwykonawstwa, obejmujące informacje o wymiarze zatrudnienia i wysokości poszczególnych składowych wynagrodzenia, oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, a także dane dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej.
+
+4b. Dane, o których mowa w ust. 4a, obejmują:
+
+- **1)** stanowisko pracy;
+- **2)** zanonimizowane dane o wysokości poszczególnych składowych wynagrodzenia i wymiarze zatrudnienia oraz kosztów zatrudnienia ponoszonych przez świadczeniodawcę, w zakresie, w jakim dane te dotyczą osób biorących udział w realizacji świadczeń udzielanych w ramach umowy o udzielanie świadczeń opieki zdrowotnej;
+- **3)** dane dotyczące udzielania oraz finansowania świadczeń opieki zdrowotnej.
+
+4c. Wytyczne dotyczące sposobu przekazywania danych, o których mowa w ust. 4a, określa Prezes Agencji i publikuje je w Biuletynie Informacji Publicznej Agencji.
+
+4d. Dane, o których mowa w ust. 4a, są wykorzystywane przez Agencję w celu realizacji zadań określonych w art. 31n pkt 1a, 2c i 4c–4g.
+
+5. Agencja jest obowiązana do przekazywania danych udostępnianych przez świadczeniodawców ministrowi właściwemu do spraw zdrowia, na jego wniosek.
+
+6. Świadczeniodawcy, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, są obowiązani do stosowania standardu rachunku kosztów opracowanego na podstawie zaleceń określonych w przepisach wydanych na podstawie ust. 7.
+
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w ust. 6, kierując się potrzebą ujednolicenia sposobu identyfikowania, gromadzenia, przetwarzania, prezentowania i interpretowania informacji o kosztach świadczeń opieki zdrowotnej.
+
+8. Przepisów ust. 6 i przepisów wydanych na podstawie ust. 7 nie stosuje się do świadczeniodawców:
+
+- **1)** udzielających świadczeń opieki zdrowotnej wyłącznie w zakresie podstawowej opieki zdrowotnej;
+- **2)** którzy nie prowadzą ksiąg rachunkowych na podstawie ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **3)** o których mowa w art. 5 pkt 41 lit. d.
+
+**Art. 31ld.**
+
+1. Agencja jest upoważniona do przetwarzania:
+
+- **1)** danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze, o których mowa w art. 59 ust. 4 i art. 88a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zwane dalej „programami naprawczymi”,
+- **2)** danych zawartych w programach naprawczych oraz zmianach i kwartalnych aktualizacjach tych programów,
+- **3)** danych zawartych w sprawozdaniach rocznych i końcowych z realizacji programów naprawczych,
+- **4)** danych zawartych w analizach, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+- **5)** danych zawartych w stanowiskach, o których mowa w art. 59a ust. 1 pkt 1 i 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
+- **6)** danych zawartych w rocznych sprawozdaniach finansowych, o których mowa w art. 53 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, w sprawozdaniach z badania sprawozdań finansowych, o których mowa w art. 69 ust. 1 pkt 2 tej ustawy, jeżeli podlegały one badaniu, w odpisach uchwał lub postanowień organu zatwierdzającego o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty, o których mowa w art. 69 ust. 1 pkt 3 tej ustawy,
+- **7)** innych danych dotyczących funkcjonowania podmiotów leczniczych, ich sytuacji operacyjnej i ekonomiczno-finansowej, w tym informacji dotyczących wdrożenia standardu rachunku kosztów zgodnie z przepisami wydanymi na podstawie art. 31lc ust. 7, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
+- **8)** danych dotyczących bezpośrednich i pośrednich kosztów udzielania świadczeń opieki zdrowotnej, z wyjątkiem danych dotyczących świadczeniodawców, o których mowa w art. 31lc ust. 8,
+- **9)** danych o zasobach kadrowych, sprzętowych, diagnostycznych i lokalowych podmiotów leczniczych – w celu realizacji zadania określonego w art. 31n pkt 4g i dokonywania analiz na rzecz systemu ochrony zdrowia.
+
+2. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia zapewnia Agencji dostęp, w sposób ciągły, do danych, o których mowa w art. 23 ust. 2 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dotyczących podmiotów leczniczych, które sporządziły programy naprawcze.
+
+3. Kierownik podmiotu leczniczego, którego program naprawczy podlega analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazuje nieodpłatnie dane, o których mowa w ust. 1 pkt 3–8, w formie i terminie uzgodnionych z Prezesem Agencji. Uzgadniając formę i termin przekazania danych podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
+
+4. Prezes Funduszu udostępnia Agencji dane, o których mowa w ust. 1 pkt 9, w terminie określonym przez Prezesa Agencji, jednak nie krótszym niż 7 dni.
+
+5. Podmioty lecznicze, których programy naprawcze podlegają analizie, o której mowa w art. 59c ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz ich podmioty tworzące współdziałają z Agencją przy realizacji zadania określonego w art. 31n pkt 4g przez nieodpłatne udostępnianie Agencji informacji źródłowych i założeń metodologicznych przyjętych do przygotowania programów naprawczych i analiz, o których mowa w art. 59 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, oraz innych materiałów, na podstawie których zostały zaplanowane działania naprawcze, w formie i terminie uzgodnionych z Prezesem Agencji. Uzgadniając formę i termin przekazania informacji, założeń i materiałów, podmiot leczniczy i Agencja uwzględniają ich zakres. Termin ten nie może być krótszy niż 7 dni.
 
 #### Rozdział 1b Agencja Oceny Technologii Medycznych i Taryfikacji
 
@@ -1510,7 +1572,11 @@ Art. 196–228. (pominięte)
 
 25. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków i przewodniczącego Rady Przejrzystości, uwzględniając zakres jej zadań.
 
-26. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór deklaracji o powiązaniach branżowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tych deklaracji oraz potrzebę ujednolicenia ich formy. Art. 31sa. 1. Przy Prezesie Agencji działa Rada do spraw Taryfikacji, która pełni funkcję opiniodawczo-doradczą.
+26. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór deklaracji o powiązaniach branżowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tych deklaracji oraz potrzebę ujednolicenia ich formy.
+
+**Art. 31sa.**
+
+1. Przy Prezesie Agencji działa Rada do spraw Taryfikacji, która pełni funkcję opiniodawczo-doradczą.
 
 2. Do zadań Rady do spraw Taryfikacji należy:
 
@@ -1606,7 +1672,11 @@ Art. 196–228. (pominięte)
 
 18. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia członków i przewodniczącego Rady do spraw Taryfikacji, uwzględniając zakres jej zadań.
 
-19. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia o powiązaniach branżowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy. Art. 31sb. 1. Za reprezentatywną organizację świadczeniodawców uważa się taką organizację, która zrzesza świadczeniodawców, u których liczba osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej wynosi łącznie co najmniej 10 000. Osoba uprawniona do reprezentowania tej organizacji złoży ministrowi właściwemu do spraw zdrowia, nie później niż do dnia 30 kwietnia, oświadczenie potwierdzające liczbę osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+19. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia o powiązaniach branżowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
+
+**Art. 31sb.**
+
+1. Za reprezentatywną organizację świadczeniodawców uważa się taką organizację, która zrzesza świadczeniodawców, u których liczba osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej wynosi łącznie co najmniej 10 000. Osoba uprawniona do reprezentowania tej organizacji złoży ministrowi właściwemu do spraw zdrowia, nie później niż do dnia 30 kwietnia, oświadczenie potwierdzające liczbę osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 2. Minister właściwy do spraw zdrowia prowadzi wykaz reprezentatywnych organizacji świadczeniodawców.
 
@@ -1752,7 +1822,11 @@ Art. 196–228. (pominięte)
 
 17. (uchylony)
 
-18. (uchylony) Art. 32aa. 1. Świadczeniobiorca, u którego lekarz podstawowej opieki zdrowotnej albo lekarz udzielający ambulatoryjnych świadczeń specjalistycznych stwierdził podejrzenie choroby układu krążenia, ma prawo do diagnostyki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 32.
+18. (uchylony)
+
+**Art. 32aa.**
+
+1. Świadczeniobiorca, u którego lekarz podstawowej opieki zdrowotnej albo lekarz udzielający ambulatoryjnych świadczeń specjalistycznych stwierdził podejrzenie choroby układu krążenia, ma prawo do diagnostyki kardiologicznej na podstawie elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej, bez skierowania, o którym mowa w art. 32.
 
 2. Świadczeniobiorca, u którego:
 
@@ -2473,7 +2547,9 @@ Art. 196–228. (pominięte)
 
 5. W miejscach rejestracji pacjentów do udzielania świadczeń opieki zdrowotnej, w miejscach udzielania świadczeń podstawowej opieki zdrowotnej oraz w aptekach, odpowiednio świadczeniodawca albo kierownik apteki uwidacznia pisemną informację o uprawnieniach określonych w ust. 1–4.
 
-6. Przepisy ust. 2–4 stosuje się do świadczeń opieki zdrowotnej udzielanych poza kolejnością na podstawie art. 24a–24c. Art. 47ca. W gabinecie dentystycznym w szkole oraz w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie, o którym mowa w art. 12 ust. 3 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078), uczniowie tej szkoły korzystają ze świadczeń w zakresie leczenia stomatologicznego poza kolejnością.
+6. Przepisy ust. 2–4 stosuje się do świadczeń opieki zdrowotnej udzielanych poza kolejnością na podstawie art. 24a–24c.
+
+**Art. 47ca.** W gabinecie dentystycznym w szkole oraz w gabinecie dentystycznym prowadzonym przez podmiot wykonujący działalność leczniczą, z którym organ prowadzący szkołę zawarł porozumienie, o którym mowa w art. 12 ust. 3 ustawy z dnia 12 kwietnia 2019 r. o opiece zdrowotnej nad uczniami (Dz. U. poz. 1078), uczniowie tej szkoły korzystają ze świadczeń w zakresie leczenia stomatologicznego poza kolejnością.
 
 #### Rozdział 3a Ratunkowy dostęp do technologii lekowych
 
@@ -2626,7 +2702,11 @@ Art. 196–228. (pominięte)
 
 17. Minister właściwy do spraw zdrowia opracowuje, wdraża, realizuje i finansuje program polityki zdrowotnej służący wykonaniu programu kompleksowego wsparcia dla rodzin „Za życiem” przyjętego na podstawie art. 12 ust. 1 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829).
 
-18. Do programu polityki zdrowotnej, o którym mowa w ust. 17, nie stosuje się przepisów ust. 1–16. Art. 48aa. 1. Agencja, z własnej inicjatywy lub z inicjatywy ministra właściwego do spraw zdrowia, dokonuje okresowej weryfikacji założeń zgromadzonych projektów programów polityki zdrowotnej i na podstawie tej weryfikacji przygotowuje raport w sprawie zalecanych technologii medycznych, działań przeprowadzanych w ramach programów polityki zdrowotnej oraz warunków realizacji tych programów, dotyczących danej choroby lub danego problemu zdrowotnego.
+18. Do programu polityki zdrowotnej, o którym mowa w ust. 17, nie stosuje się przepisów ust. 1–16.
+
+**Art. 48aa.**
+
+1. Agencja, z własnej inicjatywy lub z inicjatywy ministra właściwego do spraw zdrowia, dokonuje okresowej weryfikacji założeń zgromadzonych projektów programów polityki zdrowotnej i na podstawie tej weryfikacji przygotowuje raport w sprawie zalecanych technologii medycznych, działań przeprowadzanych w ramach programów polityki zdrowotnej oraz warunków realizacji tych programów, dotyczących danej choroby lub danego problemu zdrowotnego.
 
 2. Raport, o którym mowa w ust. 1, jest przygotowywany na podstawie kryteriów, o których mowa w art. 31a ust. 1, oraz po zasięgnięciu opinii konsultantów w ochronie zdrowia lub innych ekspertów z poszczególnych dziedzin medycyny, w szczególności odpowiednich dla danej choroby lub danego problemu zdrowotnego.
 
@@ -2656,7 +2736,11 @@ Art. 196–228. (pominięte)
 
 10. Od dnia udostępnienia w Biuletynie Informacji Publicznej Agencji rekomendacji, o której mowa w ust. 5 lub 6, minister oraz jednostka samorządu terytorialnego uwzględniają zawarte w niej zalecenia w planowanych programach polityki zdrowotnej.
 
-11. Podmiot, który opracował projekt programu polityki zdrowotnej uwzględniający rekomendację, o której mowa w ust. 5 lub 6, przed rozpoczęciem wdrożenia, realizacji i finansowania programu polityki zdrowotnej, przesyła do Agencji oświadczenie o zgodności projektu programu polityki zdrowotnej z tą rekomendacją. Art. 48ab. 1. W przypadku braku możliwości finansowania lub ograniczenia środków finansowych na realizację programu polityki zdrowotnej podmiot, który go opracował, wdrożył, realizuje i finansuje, może zawiesić, w całości lub w części, realizację i finansowanie tego programu, jednak nie dłużej niż na okres 2 lat. Realizację i finansowanie programu polityki zdrowotnej wznawia się po ustaniu przyczyny zawieszenia jego realizacji.
+11. Podmiot, który opracował projekt programu polityki zdrowotnej uwzględniający rekomendację, o której mowa w ust. 5 lub 6, przed rozpoczęciem wdrożenia, realizacji i finansowania programu polityki zdrowotnej, przesyła do Agencji oświadczenie o zgodności projektu programu polityki zdrowotnej z tą rekomendacją.
+
+**Art. 48ab.**
+
+1. W przypadku braku możliwości finansowania lub ograniczenia środków finansowych na realizację programu polityki zdrowotnej podmiot, który go opracował, wdrożył, realizuje i finansuje, może zawiesić, w całości lub w części, realizację i finansowanie tego programu, jednak nie dłużej niż na okres 2 lat. Realizację i finansowanie programu polityki zdrowotnej wznawia się po ustaniu przyczyny zawieszenia jego realizacji.
 
 2. W przypadku wznowienia realizacji programu polityki zdrowotnej w niezmienionej formie nie podlega on przekazaniu do Agencji w celu wydania opinii przez Prezesa Agencji, o której mowa w art. 48a ust. 4.
 
@@ -2998,7 +3082,11 @@ Art. 196–228. (pominięte)
 
 1. Skierowania wystawione przez lekarzy wykonujących zawód w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej traktuje się jako skierowania w rozumieniu ustawy, jeżeli spełniają określone w niej wymagania.
 
-2. Do skierowania, o którym mowa w ust. 1, wystawionego w języku obcym, dołącza się jego tłumaczenie na język polski. Tłumaczenie nie musi być sporządzone przez tłumacza przysięgłego. Art. 59aa. 1. Skierowanie jest wystawiane w postaci papierowej albo w postaci elektronicznej.
+2. Do skierowania, o którym mowa w ust. 1, wystawionego w języku obcym, dołącza się jego tłumaczenie na język polski. Tłumaczenie nie musi być sporządzone przez tłumacza przysięgłego.
+
+**Art. 59aa.**
+
+1. Skierowanie jest wystawiane w postaci papierowej albo w postaci elektronicznej.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanym dalej „SIM”, mając na uwadze sposób finansowania tych świadczeń oraz z uwzględnieniem zasad realizacji świadczeń opieki zdrowotnej na podstawie skierowania.
 
@@ -3523,7 +3611,11 @@ Art. 196–228. (pominięte)
 
 4. Obowiązek zachowania tajemnicy kontrolerskiej nie jest ograniczony w czasie.
 
-5. Od obowiązku zachowania tajemnicy kontrolerskiej może zwolnić Prezes Funduszu albo sąd właściwy do rozpoznania sprawy. Art. 61za. 1. W trakcie przeprowadzania kontroli komunikacja między Prezesem Funduszu, kontrolerami, osobami, o których mowa w art. 61e ust. 2, a podmiotem kontrolowanym, w szczególności przesyłanie zawiadomienia o kontroli, wystąpienia pokontrolnego, zastrzeżeń podmiotu kontrolowanego do wystąpienia pokontrolnego, sprzeciwu, o którym mowa w art. 61d ust. 6, oraz postanowień wydanych w toku kontroli odbywa się za pomocą środków komunikacji elektronicznej, w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+5. Od obowiązku zachowania tajemnicy kontrolerskiej może zwolnić Prezes Funduszu albo sąd właściwy do rozpoznania sprawy.
+
+**Art. 61za.**
+
+1. W trakcie przeprowadzania kontroli komunikacja między Prezesem Funduszu, kontrolerami, osobami, o których mowa w art. 61e ust. 2, a podmiotem kontrolowanym, w szczególności przesyłanie zawiadomienia o kontroli, wystąpienia pokontrolnego, zastrzeżeń podmiotu kontrolowanego do wystąpienia pokontrolnego, sprzeciwu, o którym mowa w art. 61d ust. 6, oraz postanowień wydanych w toku kontroli odbywa się za pomocą środków komunikacji elektronicznej, w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
 2. Przepisów ust. 1 nie stosuje się, w przypadku gdy:
 
@@ -3544,7 +3636,9 @@ Art. 196–228. (pominięte)
 
 7. Dokumenty w postaci elektronicznej przekazywane za pomocą środków komunikacji elektronicznej, o których mowa w ust. 3, są sporządzane w jednym z formatów danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-8. Do doręczania pism w trakcie kontroli, w zakresie nieuregulowanym w ustawie, stosuje się przepisy działu I rozdziałów 8–10 Kodeksu postępowania administracyjnego. Art. 61zb. Ministrowie, o których mowa w art. 14, mają prawo do przeprowadzenia kontroli w podmiotach, które wykonują świadczenia opieki zdrowotnej finansowane przez tych ministrów. Do tej kontroli, z wyłączeniem kontroli przeprowadzanej przez ministra właściwego do spraw zdrowia, przepisy niniejszego działu stosuje się odpowiednio, z wyłączeniem przepisów art. 61c ust. 2, art. 61u–61y i art. 61za.
+8. Do doręczania pism w trakcie kontroli, w zakresie nieuregulowanym w ustawie, stosuje się przepisy działu I rozdziałów 8–10 Kodeksu postępowania administracyjnego.
+
+**Art. 61zb.** Ministrowie, o których mowa w art. 14, mają prawo do przeprowadzenia kontroli w podmiotach, które wykonują świadczenia opieki zdrowotnej finansowane przez tych ministrów. Do tej kontroli, z wyłączeniem kontroli przeprowadzanej przez ministra właściwego do spraw zdrowia, przepisy niniejszego działu stosuje się odpowiednio, z wyłączeniem przepisów art. 61c ust. 2, art. 61u–61y i art. 61za.
 
 **Art. 62.** (uchylony)
 
@@ -4490,7 +4584,9 @@ Art. 196–228. (pominięte)
 
 11. Do aktualizacji krajowego planu stosuje się odpowiednio przepisy ust. 4. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w dzienniku urzędowym ministra właściwego do spraw zdrowia zaktualizowany krajowy plan nie później niż do dnia 31 grudnia roku poprzedzającego pierwszy rok jego obowiązywania.
 
-12. W terminie do dnia 30 czerwca roku następującego po roku, w którym zakończył się okres obowiązywania krajowego planu, minister właściwy do spraw zdrowia sporządza końcowe sprawozdanie z realizacji tego planu zawierające dane określone w ust. 9 pkt 1–6, które zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej. Art. 95ba. Minister właściwy do spraw zdrowia może opracowywać dokumenty inne niż w art. 95a i art. 95b, określające sposób wsparcia działań mających na celu zwiększenie dostępności do świadczeń opieki zdrowotnej w zakresie, o którym mowa w art. 95a ust. 1.
+12. W terminie do dnia 30 czerwca roku następującego po roku, w którym zakończył się okres obowiązywania krajowego planu, minister właściwy do spraw zdrowia sporządza końcowe sprawozdanie z realizacji tego planu zawierające dane określone w ust. 9 pkt 1–6, które zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+
+**Art. 95ba.** Minister właściwy do spraw zdrowia może opracowywać dokumenty inne niż w art. 95a i art. 95b, określające sposób wsparcia działań mających na celu zwiększenie dostępności do świadczeń opieki zdrowotnej w zakresie, o którym mowa w art. 95a ust. 1.
 
 **Art. 95c.**
 
@@ -4548,7 +4644,11 @@ Art. 196–228. (pominięte)
 
 14. Wojewoda przekazuje projekt zaktualizowanego wojewódzkiego planu w celu zatwierdzenia ministrowi właściwemu do spraw zdrowia w terminie 3 miesięcy od dnia zamieszczenia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej sprawozdania śródokresowego z realizacji tego planu. Do aktualizacji wojewódzkiego planu stosuje się odpowiednio przepisy ust. 4 i 7. Minister właściwy do spraw zdrowia dokonuje oceny, zgodnie z ust. 6, projektu zaktualizowanego wojewódzkiego planu w terminie 2 miesięcy od dnia otrzymania tego projektu. Wojewoda ogłasza, w drodze obwieszczenia, w wojewódzkim dzienniku urzędowym, zaktualizowany wojewódzki plan nie później niż do dnia 31 grudnia roku poprzedzającego pierwszy rok jego obowiązywania.
 
-15. W terminie do dnia 30 czerwca roku następującego po roku, w którym zakończył się okres obowiązywania wojewódzkiego planu, wojewoda sporządza końcowe sprawozdanie z realizacji tego planu zawierające dane określone w ust. 12 pkt 1–6, które zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej i przekazuje ministrowi właściwemu do spraw zdrowia. Art. 95ca. 1. W celu opracowania projektu wojewódzkiego planu oraz monitorowania i aktualizacji tego planu tworzy się wojewódzką radę do spraw potrzeb zdrowotnych, zwaną dalej „wojewódzką radą”.
+15. W terminie do dnia 30 czerwca roku następującego po roku, w którym zakończył się okres obowiązywania wojewódzkiego planu, wojewoda sporządza końcowe sprawozdanie z realizacji tego planu zawierające dane określone w ust. 12 pkt 1–6, które zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej i przekazuje ministrowi właściwemu do spraw zdrowia.
+
+**Art. 95ca.**
+
+1. W celu opracowania projektu wojewódzkiego planu oraz monitorowania i aktualizacji tego planu tworzy się wojewódzką radę do spraw potrzeb zdrowotnych, zwaną dalej „wojewódzką radą”.
 
 2. W skład wojewódzkiej rady wchodzi:
 
@@ -4687,7 +4787,11 @@ Art. 196–228. (pominięte)
 
 6. Złożenie wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, podlega opłacie w wysokości 4000 zł.
 
-7. Opłata, o której mowa w ust. 6, stanowi przychód Funduszu Medycznego, o którym mowa w ustawie z dnia 7 października 2020 r. o Funduszu Medycznym, i jest wnoszona na rachunek Funduszu Medycznego. Potwierdzenie wniesienia opłaty dołącza się do wniosku. Art. 95ea. 1. Przy ministrze właściwym do spraw zdrowia działa Komisja Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia, zwana dalej „Komisją”, będąca organem opiniodawczo-doradczym tego ministra.
+7. Opłata, o której mowa w ust. 6, stanowi przychód Funduszu Medycznego, o którym mowa w ustawie z dnia 7 października 2020 r. o Funduszu Medycznym, i jest wnoszona na rachunek Funduszu Medycznego. Potwierdzenie wniesienia opłaty dołącza się do wniosku.
+
+**Art. 95ea.**
+
+1. Przy ministrze właściwym do spraw zdrowia działa Komisja Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia, zwana dalej „Komisją”, będąca organem opiniodawczo-doradczym tego ministra.
 
 2. W skład Komisji wchodzi po jednym przedstawicielu wskazanym przez:
 
@@ -4701,7 +4805,11 @@ Art. 196–228. (pominięte)
 
 4. Członkom Komisji nie przysługuje wynagrodzenie.
 
-5. Minister właściwy do spraw zdrowia określi, w drodze zarządzenia, regulamin prac Komisji określający jej organizację, sposób i tryb działania oraz sposób obsługi prac tej Komisji, mając na celu zapewnienie sprawnego działania Komisji. Art. 95eb. 1. Członkiem Komisji może być osoba, która:
+5. Minister właściwy do spraw zdrowia określi, w drodze zarządzenia, regulamin prac Komisji określający jej organizację, sposób i tryb działania oraz sposób obsługi prac tej Komisji, mając na celu zapewnienie sprawnego działania Komisji.
+
+**Art. 95eb.**
+
+1. Członkiem Komisji może być osoba, która:
 
 - **1)** korzysta z pełni praw publicznych;
 - **2)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
@@ -4730,7 +4838,11 @@ Art. 196–228. (pominięte)
 - **2)** imię i nazwisko: małżonka, zstępnych i wstępnych w linii prostej do drugiego stopnia oraz osób, z którymi członkowie Komisji pozostają we wspólnym pożyciu, oraz osób związanych z nimi z tytułu przysposobienia, opieki lub kurateli, wobec których zaistniały okoliczności, o których mowa w ust. 3;
 - **3)** wskazanie okoliczności, o których mowa w ust. 3.
 
-8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 4, mając na uwadze zapewnienie przejrzystości działania Komisji oraz wymagania, o których mowa w ust. 7, a także zapewnienie bezstronności działania Komisji. Art. 95ec. 1. Do zadań Komisji należy wydawanie opinii w przedmiocie oceny wniosku, o którym mowa w art. 95d ust. 1, dotyczącego inwestycji, której wartość kosztorysowa na dzień złożenia wniosku o wydanie takiej opinii przekracza 50 mln zł, w zakresie dokonania oceny, w jakim stopniu dana inwestycja jest celowa.
+8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 4, mając na uwadze zapewnienie przejrzystości działania Komisji oraz wymagania, o których mowa w ust. 7, a także zapewnienie bezstronności działania Komisji.
+
+**Art. 95ec.**
+
+1. Do zadań Komisji należy wydawanie opinii w przedmiocie oceny wniosku, o którym mowa w art. 95d ust. 1, dotyczącego inwestycji, której wartość kosztorysowa na dzień złożenia wniosku o wydanie takiej opinii przekracza 50 mln zł, w zakresie dokonania oceny, w jakim stopniu dana inwestycja jest celowa.
 
 2. Komisja opiniuje wniosek, o którym mowa w art. 95d ust. 1, w zakresie określonym w ust. 1, na podstawie informacji, danych i dokumentów, o których mowa w art. 95f ust. 3 pkt 1–4 i 7. Dla ważności opinii, o której mowa w ust. 1, potrzebne jest zgodne stanowisko co najmniej trzech członków Komisji.
 
@@ -4809,7 +4921,9 @@ Art. 196–228. (pominięte)
 - **6)** całkowity wynik punktowy obliczony zgodnie z przepisami wydanymi na podstawie art. 95h;
 - **7)** wygenerowane elektronicznie zestawienie punktów przyznanych przez odpowiednio organ wydający opinię, Prezesa Funduszu albo dyrektora właściwego oddziału wojewódzkiego Funduszu, za spełnienie poszczególnych kryteriów przez podmiot wnioskujący oraz ich uzasadnienie;
 - **8)** pouczenie o możliwości wniesienia protestu do ministra właściwego do spraw zdrowia zawierające wskazanie terminu wniesienia protestu, a także formy i trybu jego wniesienia – w przypadku opinii negatywnej;
-- **9)** kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty osoby upoważnionej do wydania opinii z podaniem jej imienia i nazwiska oraz stanowiska służbowego. Art. 95ga. Pozytywna opinia o celowości inwestycji jest ważna 3 lata od dnia jej wydania.
+- **9)** kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty osoby upoważnionej do wydania opinii z podaniem jej imienia i nazwiska oraz stanowiska służbowego.
+
+**Art. 95ga.** Pozytywna opinia o celowości inwestycji jest ważna 3 lata od dnia jej wydania.
 
 **Art. 95h.**
 
@@ -6753,6 +6867,12 @@ Art. 196–228. (pominięte)
 
 ### DZIAŁ VIA Transport sanitarny
 
+**Art. 161ba.**
+
+1. Transport sanitarny wykonywany jest specjalistycznymi środkami transportu lądowego, wodnego i lotniczego.
+
+2. Środki transportu sanitarnego, o których mowa w ust. 1, muszą spełniać cechy techniczne i jakościowe określone w Polskich Normach przenoszących europejskie normy zharmonizowane.
+
 **Art. 161c.**
 
 1. Fundusz oraz podmiot leczniczy, zawierają umowy o wykonywanie transportu sanitarnego z podmiotami dysponującymi środkami transportu.
@@ -7152,7 +7272,11 @@ Art. 196–228. (pominięte)
 **Art. 188b.** W celu realizacji zadań określonych w art. 97a ust. 2 pkt 3 Fundusz przetwarza następujące dane dotyczące osób wykonujących zawody medyczne:
 
 - **1)** nazwisko i imię (imiona);
-- **2)** informacje na temat prawa wykonywania zawodu oraz kwalifikacji zawodowych. Art. 188ba. 1. Fundusz przetwarza dane osobowe osób ubiegających się o nadanie dostępu lub korzystających z aplikacji udostępnianych przez Fundusz świadczeniodawcom oraz niebędącym świadczeniodawcami osobom uprawnionym i osobom przez nie upoważnionym, w celu korzystania z usług informatycznych i komunikacji z Funduszem.
+- **2)** informacje na temat prawa wykonywania zawodu oraz kwalifikacji zawodowych.
+
+**Art. 188ba.**
+
+1. Fundusz przetwarza dane osobowe osób ubiegających się o nadanie dostępu lub korzystających z aplikacji udostępnianych przez Fundusz świadczeniodawcom oraz niebędącym świadczeniodawcami osobom uprawnionym i osobom przez nie upoważnionym, w celu korzystania z usług informatycznych i komunikacji z Funduszem.
 
 2. W celu realizacji zadań, o których mowa w ust. 1, Fundusz przetwarza następujące dane:
 
@@ -7198,12 +7322,16 @@ Art. 196–228. (pominięte)
     - **g)** adres miejsca zamieszkania,
     - **h)** informacje o świadczeniach gwarantowanych udzielonych na podstawie umowy, o której mowa w art. 9b ust. 1, oraz przyczynie ich udzielenia;
 
-- **2)** osób udzielających świadczeń gwarantowanych udzielonych na podstawie umowy, o której mowa w art. 9b ust. 1, obejmujących: Art. 188da. 1. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, każdy w swoim zakresie, w celu realizacji zadań, o których mowa w art. 11a, art. 42, art. 44, art. 46 i art. 47, mają prawo do przetwarzania danych dotyczących:
+- **2)** osób udzielających świadczeń gwarantowanych udzielonych na podstawie umowy, o której mowa w art. 9b ust. 1, obejmujących:
     - **a)** nazwisko i imię (imiona),
     - **b)** numer PESEL,
     - **c)** serię i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość – w przypadku osób, które nie mają nadanego numeru PESEL,
     - **d)** numer prawa wykonywania zawodu – w przypadku osób, którym nadano ten numer,
     - **e)** informację o prawomocnych orzeczeniach sądów o skazaniu za przestępstwo określone w art. 228–230, art. 286 lub art. 296a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+
+**Art. 188da.**
+
+1. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, każdy w swoim zakresie, w celu realizacji zadań, o których mowa w art. 11a, art. 42, art. 44, art. 46 i art. 47, mają prawo do przetwarzania danych dotyczących:
 
 - **1)** osób, o których mowa w art. 5 pkt 44a i 44b, które korzystają lub ubiegają się o skorzystanie z uprawnień przysługujących im na podstawie ustawy, obejmujących:
     - **a)** nazwisko i imię (imiona),
@@ -7369,6 +7497,8 @@ Art. 196–228. (pominięte)
 **Art. 195.** Orzekanie w sprawach, o których mowa w art. 193–194a, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 ### DZIAŁ X Zmiany w przepisach obowiązujących
+
+**Art. 196–228.** (pominięte)
 
 ### DZIAŁ XI Przepisy przejściowe, dostosowawcze i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu narkomanii
+# Ustawa z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-09-19 |
 | Ostatnia zmiana | 2025-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051791485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1485/text.pdf) |
-
-Art. 75–81. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -916,7 +914,13 @@ Art. 75–81. (pominięte)
 
 9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami lub odpadami, produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1, uwzględniając w szczególności wymogi zabezpieczenia przed ich niewłaściwym użyciem, sposoby niszczenia tych środków w zależności od ich rodzaju i ilości oraz podmioty obowiązane do pokrywania kosztów związanych z niszczeniem tych środków.
 
-**Art. 44a.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 35, art. 36, art. 40, art. 40a i art. 49a, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414). Art. 44aa. 1. Kontrolne sprawdzenie faktów, o którym mowa w art. 39 ust. 2 pkt 2, stwierdzenie spełniania warunków, o których mowa w art. 35 ust. 4 i art. 40 ust. 4, oraz kontrole, o których mowa w art. 44 ust. 1 i 2a, mogą być przeprowadzone przy użyciu urządzeń technicznych umożliwiających przeprowadzenie ich na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, z wyłączeniem obowiązku okazywania legitymacji służbowej kontrolowanemu oraz wpisu do książki kontroli. 2. Zawiadomienie o przeprowadzaniu czynności, o których mowa w ust. 1, zawiera informację o zakresie, formie i terminach przetwarzania danych umożliwiających ich przeprowadzenie.
+**Art. 44a.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 35, art. 36, art. 40, art. 40a i art. 49a, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+
+**Art. 44aa.**
+
+1. Kontrolne sprawdzenie faktów, o którym mowa w art. 39 ust. 2 pkt 2, stwierdzenie spełniania warunków, o których mowa w art. 35 ust. 4 i art. 40 ust. 4, oraz kontrole, o których mowa w art. 44 ust. 1 i 2a, mogą być przeprowadzone przy użyciu urządzeń technicznych umożliwiających przeprowadzenie ich na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, z wyłączeniem obowiązku okazywania legitymacji służbowej kontrolowanemu oraz wpisu do książki kontroli.
+
+2. Zawiadomienie o przeprowadzaniu czynności, o których mowa w ust. 1, zawiera informację o zakresie, formie i terminach przetwarzania danych umożliwiających ich przeprowadzenie.
 
 **Art. 44b.**
 
@@ -1526,6 +1530,8 @@ Art. 75–81. (pominięte)
 **Art. 74.** W zakresie uregulowanym w niniejszym rozdziale nie stosuje się środków zabezpieczających określonych w art. 93a § 1 pkt 1–3 Kodeksu karnego w odniesieniu do sprawców, o których mowa w art. 93c pkt 5 Kodeksu karnego.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 75–81.** (pominięte)
 
 **Art. 82.** Zezwolenia wydane na podstawie art. 23 ust. 1–3 i 8, art. 25 ust. 2 i 3 oraz art. 27 ust. 1 i 2 ustawy, o której mowa w art. 90, zachowują ważność po wejściu w życie niniejszej ustawy.
 

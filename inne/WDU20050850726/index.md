@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kulturze fizycznej oraz ustawy o żegludze śródlądowej
+# Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o kulturze fizycznej oraz ustawy o żegludze śródlądowej
 
 *USTAWA z dnia 15 kwietnia 2005 r.*
 

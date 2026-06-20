@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad wynagradzania oraz wymagań kwalifikacyjnych pracowników Rządowego Centrum Legislacji.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 29 grudnia 1999 r. w sprawie nadania statutu Rządowemu Centrum Legislacji.
 
 | Pole | Wartość |
 |---|---|

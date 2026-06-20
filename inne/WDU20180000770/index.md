@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kosztach komorniczych
+# Ustawa z dnia 28 lutego 2018 r. o kosztach komorniczych
 
 *USTAWA z dnia 28 lutego 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-04-25 |
 | Ostatnia zmiana | 2024-03-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/770/text.pdf) |
-
-Art. 49–51. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -121,9 +119,7 @@ Art. 49–51. (pominięte)
 
 1. Wysokość kosztów przejazdu poza miejscowość, która jest siedzibą kancelarii komorniczej, odpowiada wysokości rzeczywiście poniesionych, racjonalnych i celowych kosztów przejazdu własnym samochodem lub innym odpowiednim środkiem transportu. Do kosztów przejazdu poza miejscowość, która jest siedzibą kancelarii komorniczej, należą diety i koszty noclegu, których wysokość odpowiada wysokości rzeczywiście poniesionych, racjonalnych i celowych kosztów z tego tytułu.
 
-2. Górną granicę należności, o których mowa w ust. 1, stanowi wysokość kosztów przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, o których mowa w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz.
-
-- **1465)** .
+2. Górną granicę należności, o których mowa w ust. 1, stanowi wysokość kosztów przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju, o których mowa w przepisach wykonawczych wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 2a. Komornikowi przysługuje zwrot zryczałtowanych kosztów dojazdu w granicach miejscowości będącej siedzibą kancelarii komornika w wysokości 20 złotych, jeżeli odległość między siedzibą kancelarii a miejscem czynności przekracza 10 km. Przy ustalaniu odległości bierze się pod uwagę najkrótszą drogę dojazdu samochodem.
 
@@ -369,6 +365,8 @@ Art. 49–51. (pominięte)
 5. Opłata obniżona nie może być niższa niż jedna trzecia opłaty należnej na podstawie ustawy, nie niższa jednak niż 200 złotych.
 
 #### Rozdział 5 Przepisy zmieniające i przejściowe oraz przepis końcowy
+
+**Art. 49–51.** (pominięte)
 
 **Art. 52.**
 

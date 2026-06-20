@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# r. Nr 205, o zmianie ustawy – Prawo prasowe
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy - Prawo prasowe
 
 *USTAWA Opracowano z dnia 19 sierpnia 2011 r. stawie: Dz.*
 

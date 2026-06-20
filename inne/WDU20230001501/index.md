@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych
+# Ustawa z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

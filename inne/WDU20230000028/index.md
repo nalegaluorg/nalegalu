@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych
+# Ustawa z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych
 
 *USTAWA z dnia 4 listopada 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-01-04 |
 | Ostatnia zmiana | 2025-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000028) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/28/text.pdf) |
-
-Art. 31–35. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -394,6 +392,8 @@ Art. 31–35. (pominięte)
 **Art. 30.** W zakresie nieuregulowanym w niniejszym rozdziale do zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych stosuje się odpowiednio przepisy o gospodarce nieruchomościami.
 
 #### Rozdział 4 Przepisy zmieniające i przepis końcowy
+
+**Art. 31–35.** (pominięte)
 
 **Art. 36.** W przypadku:
 

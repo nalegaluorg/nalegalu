@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
+# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 

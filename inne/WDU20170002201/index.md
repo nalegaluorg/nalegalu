@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu poprawy otoczenia prawnego działalności innowacyjnej
+# Ustawa z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego działalności innowacyjnej
 
 *USTAWA z dnia 9 listopada 2017 r.*
 

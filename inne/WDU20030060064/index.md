@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+# Ustawa z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
 
 *USTAWA z dnia 20 grudnia 2002 r.*
 

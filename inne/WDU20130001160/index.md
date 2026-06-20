@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dotacji przeznaczonej dla niektórych podmiotów
+# Ustawa z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 

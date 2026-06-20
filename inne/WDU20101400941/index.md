@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy „Pomorski Uniwersytet Medyczny w Szczecinie”
+# Ustawa z dnia 10 czerwca 2010 r. o nadaniu Pomorskiej Akademii Medycznej w Szczecinie nazwy "Pomorski Uniwersytet Medyczny w Szczecinie"
 
 *USTAWA z dnia 10 czerwca 2010 r.*
 

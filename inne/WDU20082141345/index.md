@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Rzeczniku Praw Dziecka oraz ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o Rzeczniku Praw Dziecka oraz o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
 
 *USTAWA z dnia 24 października 2008 r.*
 

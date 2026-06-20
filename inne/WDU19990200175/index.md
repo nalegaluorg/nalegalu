@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad przeprowadzania badań sprzętu do stosowania środków ochrony roślin.
+# Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 11 lutego 1999 r. w sprawie szczegółowych zasad przeprowadzania badań sprzętu do stosowania środków ochrony roślin.
 
 | Pole | Wartość |
 |---|---|

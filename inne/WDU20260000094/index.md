@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelski
 Społeczeństwo obywatelskie jest wspólną przestrzenią, która służy praktykowaniu cnót obywatelskich, takich jak odpowiedzialność za naród i wspólnoty lokalne, solidarność oraz zaangażowanie w budowę oddolnych instytucji obywatelskich. Bez umiejętności dostrzegania i pomnażania dobra wspólnego zabraknie obywatelskich więzi społecznych, które są fundamentem kapitału społecznego.
 Państwo polskie wspiera wolnościowe i chrześcijańskie ideały obywateli i społeczności lokalnych, obejmujące tradycję polskiej inteligencji, tradycje niepodległościową, narodową, religijną, socjalistyczną oraz tradycję ruchu ludowego, dostrzegając w nich kontynuację wielowiekowych tradycji Rzeczypospolitej Polskiej i tym samym chroniąc bogate dziedzictwo wspólnoty jej wolnych obywateli.
 Państwo polskie dąży do zrównoważonego rozwoju społeczeństwa obywatelskiego zarówno w wymiarze terytorialnym, jak i tematycznym, szczególną ochroną otaczając organizacje małe, krzewiące etos społecznikowski i pielęgnujące dziedzictwo lokalne. W tym celu, przyczyniając się do wypełnienia ideałów wolności, leżących u podstaw motywacji prospołecznych i postaw propaństwowych, a także do kształtowania dojrzałego patriotyzmu, państwo polskie będzie aktywnie działać na rzecz zwiększania zaangażowania obywateli i organizacji obywatelskich w życiu publicznym, zwiększania liczby inicjatyw oddolnych i lokalnych oraz poprawy instytucjonalnej zdolności organizacji obywatelskich do realizacji ich misji.
-Art. 37–41. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -451,6 +450,8 @@ Art. 37–41. (pominięte)
 2. Przewodniczący Komitetu dokonuje, po zasięgnięciu opinii Rady, wyboru firmy audytorskiej, o której mowa w ust. 1, w trybie przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 37–41.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i końcowe
 

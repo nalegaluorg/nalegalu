@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu rozwoju kompetencji cyfrowych nauczycieli
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wsparciu rozwoju kompetencji cyfrowych nauczycieli
 
 | Pole | Wartość |
 |---|---|
@@ -342,7 +342,9 @@ poz. 479, z późn. zm. ) w art. 8 w § 1 w pkt 18 kropkę zastępuje się śred
 
 6. Zakres uprawnień osoby, o której mowa w ust. 5, minister właściwy do spraw informatyzacji określa w upoważnieniu.
 
-7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli. Art. 27–29. (pominięte)
+7. Osoba, o której mowa w ust. 5, jest obowiązana do zachowania w tajemnicy informacji, o których dowiedziała się w toku kontroli.
+
+**Art. 27–29.** (pominięte)
 
 **Art. 30.**
 

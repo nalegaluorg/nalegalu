@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie powiatowym
+# Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
 
 *USTAWA z dnia 5 czerwca 1998 r.*
 
@@ -91,7 +91,27 @@ source: pdf
 
 4. Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania przy składaniu wniosków, o których mowa w ust. 1, oraz dokumenty, które należy dołączyć do wniosku.
 
-**Art. 3c.** W przypadku uzyskania zgody na połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście lub utworzenie powiatu, w którego skład wejdzie dotychczasowe miasto na prawach powiatu, wyrażonej we wniosku lub opinii rady powiatu lub rady miasta na prawach powiatu oraz w wyniku przeprowadzonych przez te rady konsultacji z mieszkańcami, Rada Ministrów obowiązana jest dokonać tego połączenia lub utworzenia powiatu, w drodze rozporządzenia, o którym mowa w art. 3 ust. 1. Art. 3ca. 1. W przypadku łączenia powiatów lub tworzenia nowego powiatu Prezes Rady Ministrów, na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza pełnomocnika do spraw połączenia powiatów lub utworzenia nowego powiatu spośród pracowników podległych wojewodzie albo pracowników starostwa powiatu, którego obszar wchodzi w skład łączonego lub nowo tworzonego powiatu. 2. Do czasu połączenia powiatów oraz utworzenia nowego powiatu zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne powiatu do wykonywania zadań publicznych, w tym przygotowanie projektu uchwały budżetowej powiatu w trybie i na zasadach określonych w przepisach o finansach publicznych. 3. Z dniem połączenia powiatów lub utworzenia nowego powiatu pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji jego organów do czasu wyboru nowych organów powiatu, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) – do dnia pierwszej sesji rady powiatu zwołanej w trybie art. 15 ust. 10. Art. 3cb. 1. Powiat powstały w wyniku połączenia powiatów wstępuje we wszystkie prawa i obowiązki połączonych powiatów, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych. 2. Organy powiatu powstałego w wyniku połączenia powiatów stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych. 3. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na powiat, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub rejestrach następuje na wniosek powiatu. 4. W przypadku gdy rozporządzenie w sprawie połączenia powiatów zostało wydane na wniosek poparty przez wszystkie zainteresowane rady powiatów, powiaty te zawierają porozumienie, o którym mowa w art. 47 ust. 1 pkt 2. 5. Akty prawa miejscowego ustanowione przez organy powiatów albo miast na prawach powiatu przed połączeniem powiatów stają się aktami prawa miejscowego powiatu powstałego w wyniku połączenia powiatów, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ powiatu powstałego w wyniku połączenia powiatów, jednak nie dłużej niż przez okres 3 lat od dnia połączenia.
+**Art. 3c.** W przypadku uzyskania zgody na połączenie miasta na prawach powiatu z powiatem mającym siedzibę władz w tym mieście lub utworzenie powiatu, w którego skład wejdzie dotychczasowe miasto na prawach powiatu, wyrażonej we wniosku lub opinii rady powiatu lub rady miasta na prawach powiatu oraz w wyniku przeprowadzonych przez te rady konsultacji z mieszkańcami, Rada Ministrów obowiązana jest dokonać tego połączenia lub utworzenia powiatu, w drodze rozporządzenia, o którym mowa w art. 3 ust. 1.
+
+**Art. 3ca.**
+
+1. W przypadku łączenia powiatów lub tworzenia nowego powiatu Prezes Rady Ministrów, na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza pełnomocnika do spraw połączenia powiatów lub utworzenia nowego powiatu spośród pracowników podległych wojewodzie albo pracowników starostwa powiatu, którego obszar wchodzi w skład łączonego lub nowo tworzonego powiatu.
+
+2. Do czasu połączenia powiatów oraz utworzenia nowego powiatu zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne powiatu do wykonywania zadań publicznych, w tym przygotowanie projektu uchwały budżetowej powiatu w trybie i na zasadach określonych w przepisach o finansach publicznych.
+
+3. Z dniem połączenia powiatów lub utworzenia nowego powiatu pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji jego organów do czasu wyboru nowych organów powiatu, a w przypadku, o którym mowa w art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) – do dnia pierwszej sesji rady powiatu zwołanej w trybie art. 15 ust. 10.
+
+**Art. 3cb.**
+
+1. Powiat powstały w wyniku połączenia powiatów wstępuje we wszystkie prawa i obowiązki połączonych powiatów, w tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
+
+2. Organy powiatu powstałego w wyniku połączenia powiatów stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych.
+
+3. Ujawnienie w księgach wieczystych lub w rejestrach przejścia na powiat, o którym mowa w ust. 1, praw ujawnionych w tych księgach lub rejestrach następuje na wniosek powiatu.
+
+4. W przypadku gdy rozporządzenie w sprawie połączenia powiatów zostało wydane na wniosek poparty przez wszystkie zainteresowane rady powiatów, powiaty te zawierają porozumienie, o którym mowa w art. 47 ust. 1 pkt 2.
+
+5. Akty prawa miejscowego ustanowione przez organy powiatów albo miast na prawach powiatu przed połączeniem powiatów stają się aktami prawa miejscowego powiatu powstałego w wyniku połączenia powiatów, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia w życie nowych aktów prawa miejscowego ustanowionych przez organ powiatu powstałego w wyniku połączenia powiatów, jednak nie dłużej niż przez okres 3 lat od dnia połączenia.
 
 **Art. 3d.**
 

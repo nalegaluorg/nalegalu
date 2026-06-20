@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o restrukturyzacji hutnictwa żelaza i stali
+# Ustawa z dnia 18 grudnia 2003 r. o zmianie ustawy o restrukturyzacji hutnictwa żelaza i stali
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 
@@ -85,9 +85,7 @@ source: pdf
 
 **Art. 17.**
 
-1. Jednorazowa odprawa warunkowa przysługuje pracownikowi korzystającemu z kontraktu szkoleniowego, z którym po zako ńczeniu szkolenia i przed upływem 10 miesięcy od dnia przyznania tego kontraktu rozwiązany zostanie stosunek pracy z przyczyn dotyczących zakładu pracy w rozumieniu przepisów ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunku pracy z przyczyn dotyczących zakładu pracy (Dz.U. z 2002 r. Nr 112, poz. 980, Nr 135, poz. 1146 i Nr 200, poz. 1679 oraz z 2003 r. Nr 90, poz.
-
-- **844)** .
+1. Jednorazowa odprawa warunkowa przysługuje pracownikowi korzystającemu z kontraktu szkoleniowego, z którym po zako ńczeniu szkolenia i przed upływem 10 miesięcy od dnia przyznania tego kontraktu rozwiązany zostanie stosunek pracy z przyczyn dotyczących zakładu pracy w rozumieniu przepisów ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunku pracy z przyczyn dotyczących zakładu pracy (Dz.U. z 2002 r. Nr 112, poz. 980, Nr 135, poz. 1146 i Nr 200, poz. 1679 oraz z 2003 r. Nr 90, poz. 844).
 
 2. Jednorazowa odprawa warunkowa jest wypłacana pracownikowi w kwocie równej iloczynowi liczby pełnych miesięcy pozostających do zakończenia dziesięciomiesięcznego okresu trwania kontraktu szkoleniowego i kwoty ustalonej zgodnie z art. 16 ust. 3 i pomniejszonej o kwotę odpowiadającą wysokości składek na ubezpieczenia społeczne oraz ubezpieczenia zdrowotne, finansowanych ze środków ubezpieczonego.
 

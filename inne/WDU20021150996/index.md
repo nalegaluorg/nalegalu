@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji
+# Ustawa z dnia 24 maja 2002 r. o zmianie ustawy o Policji.
 
 *USTAWA z dnia 24 maja 2002 r.*
 

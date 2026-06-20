@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o języku polskim
+# Ustawa z dnia 11 kwietnia 2003 r. o zmianie ustawy o języku polskim
 
 *USTAWA z dnia 11 kwietnia 2003 r.*
 

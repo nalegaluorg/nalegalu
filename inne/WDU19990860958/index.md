@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie nadania funkcjonariuszom niektórych organów uprawnień do nakładania grzywien w drodze mandatu karnego.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 18 października 1999 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom niektórych organów uprawnień do nakładania grzywien w drodze mandatu karnego.
 
 | Pole | Wartość |
 |---|---|

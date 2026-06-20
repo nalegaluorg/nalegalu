@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochotniczych strażach pożarnych oraz niektórych innych ustaw
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o ochotniczych strażach pożarnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 lipca 2023 r.*
 

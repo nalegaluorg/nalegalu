@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw
+# Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 29 grudnia 1993 r.*
 
@@ -308,7 +308,7 @@ source: pdf
 
 1. Na wniosek nabywcy nieruchomości wymienionych w art. 42 ustawy, o której mowa w art. 1, należność z tytułu umowy, zawartej po dniu 31 grudnia 1991 r., nie spłacona do dnia złożenia wniosku, podlega umorzeniu w części przekraczającej tę należność, ustaloną z zastosowaniem obniżek określonych w tym przepisie.
 
-2. Wnioski, o których mowa w ust. 1, mogą być złożone w okresie 6 miesięcy od dnia wejścia w życie ustawy. We wniosku nabywca jest obowiązany udokumentować okoliczności uzasadniające umorzenie należności. [Art. 17. Do czasu uregulowania w odrębnej ustawie form zadośćuczynienia z tytułu utraty mienia i zasad przywracania własności osobom, które na podstawie art. 81 ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz.U. z 1991 r. Nr 30, poz. 127, Nr 103, poz. 446 i Nr 107, poz. 464 oraz z 1993 r. Nr 47, poz. 212 i Nr 131, poz. 629) złożyły wnioski o zaliczenie wartości mienia nieruchomego pozostawionego poza granicami kraju w związku z wojną rozpoczętą w 1939 r., nie zalicza się wartości tego mienia na pokrycie ceny sprzedaży nieruchomości, wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa.]
+2. Wnioski, o których mowa w ust. 1, mogą być złożone w okresie 6 miesięcy od dnia wejścia w życie ustawy. We wniosku nabywca jest obowiązany udokumentować okoliczności uzasadniające umorzenie należności.
 
 **Art. 18.** Z dniem wejścia w życie ustawy wygasają przyjęte przez Agencję na podstawie protokołów zdawczo-odbiorczych i nie zaspokojone zobowiązania zlikwidowanych państwowych przedsiębiorstw gospodarki rolnej wobec Skarbu Państwa.
 

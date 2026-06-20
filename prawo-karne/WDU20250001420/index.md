@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Kodeks postępowania karnego
 
 *USTAWA z dnia 12 września 2025 r.*
 

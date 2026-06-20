@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających
+# Ustawa z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających.
 
 *USTAWA z dnia 7 grudnia 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2000-12-28 |
 | Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001191252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1252/text.pdf) |
-
-Art. 25–27. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -192,7 +190,9 @@ Art. 25–27. (pominięte)
 
 3. Członek może, w deklaracji przystąpienia do banku spółdzielczego lub w pisemnym oświadczeniu złożonym bankowi spółdzielczemu, wskazać osobę, której po jego śmierci bank spółdzielczy jest obowiązany wypłacić udziały oraz inne należności związane z udziałami. Udziały oraz należności te nie wchodzą do spadku po zmarłym członku. Wskazanie osoby uprawnionej do otrzymania udziałów i należności może być w każdym czasie zmienione lub odwołane przez członka banku spółdzielczego.
 
-4. Spadkobiercy dziedziczącemu udziały przysługuje roszczenie o przyjęcie w poczet członków banku spółdzielczego bez obowiązku wniesienia wpisowego. Przyjęcie w poczet członków następuje ze skutkiem od dnia śmierci spadkodawcy. W razie odmowy przyjęcia w poczet członków, a także w razie niezłożenia deklaracji przystąpienia do banku spółdzielczego przez spadkobiercę bank spółdzielczy jest obowiązany wypłacić spadkobiercy równowartość przypadających mu udziałów zmarłego członka na zasadach określonych w statucie. Art. 10da. Z upływem 5 lat od dnia dokonania przez członka banku spółdzielczego ostatniej czynności prawnej lub czynności faktycznej z bankiem spółdzielczym, bank spółdzielczy może wystąpić o udostępnienie danych z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) umożliwiających ustalenie, czy członek banku spółdzielczego żyje, a w przypadku jego śmierci bank może wystąpić do rejestru PESEL o udostępnienie informacji o dacie zgonu albo dacie znalezienia zwłok.
+4. Spadkobiercy dziedziczącemu udziały przysługuje roszczenie o przyjęcie w poczet członków banku spółdzielczego bez obowiązku wniesienia wpisowego. Przyjęcie w poczet członków następuje ze skutkiem od dnia śmierci spadkodawcy. W razie odmowy przyjęcia w poczet członków, a także w razie niezłożenia deklaracji przystąpienia do banku spółdzielczego przez spadkobiercę bank spółdzielczy jest obowiązany wypłacić spadkobiercy równowartość przypadających mu udziałów zmarłego członka na zasadach określonych w statucie.
+
+**Art. 10da.** Z upływem 5 lat od dnia dokonania przez członka banku spółdzielczego ostatniej czynności prawnej lub czynności faktycznej z bankiem spółdzielczym, bank spółdzielczy może wystąpić o udostępnienie danych z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) umożliwiających ustalenie, czy członek banku spółdzielczego żyje, a w przypadku jego śmierci bank może wystąpić do rejestru PESEL o udostępnienie informacji o dacie zgonu albo dacie znalezienia zwłok.
 
 **Art. 10e.** Przepisy art. 10b i art. 10c stosuje się odpowiednio w przypadku wykluczenia, wykreślenia lub skreślenia członka banku spółdzielczego.
 
@@ -443,7 +443,11 @@ Art. 25–27. (pominięte)
 
 6. Skutki wyceny aktywów nabytych lub powstałych w ramach pomocy finansowej udzielonej ze środków funduszu pomocowego oraz aktywów nabytych lub powstałych w ramach inwestycji wolnych środków funduszu pomocowego odnosi się bezpośrednio na ten fundusz.
 
-7. Pomoc bezzwrotna udzielona ze środków funduszu pomocowego jest ujmowana w ciężar tego funduszu. Art. 22ga. 1. Pomoc finansowa udzielana z funduszu pomocowego, o którym mowa w art. 22g ust. 1, może polegać na:
+7. Pomoc bezzwrotna udzielona ze środków funduszu pomocowego jest ujmowana w ciężar tego funduszu.
+
+**Art. 22ga.**
+
+1. Pomoc finansowa udzielana z funduszu pomocowego, o którym mowa w art. 22g ust. 1, może polegać na:
 
 - **1)** nabyciu przez bank zrzeszający zarządzający systemem ochrony albo przez jednostkę zarządzającą wierzytelności banku przejmowanego;
 - **2)** zawarciu przez banki spółdzielcze będące uczestnikami systemu ochrony z bankiem zrzeszającym zarządzającym systemem ochrony albo z jednostką zarządzającą, umowy o przekazywanie temu bankowi zrzeszającemu albo tej jednostce zarządzającej wszystkich świadczeń otrzymywanych przez uczestnika systemu z wierzytelności, z określonej puli wierzytelności lub z określonych wierzytelności (umowa o subpartycypację), w szczególności:
@@ -466,7 +470,11 @@ Art. 25–27. (pominięte)
 
 1. W banku zrzeszającym albo jednostce zarządzającej tworzy się mechanizmy pomocy płynnościowej dostosowane do struktury organizacyjnej systemu ochrony.
 
-2. Szczegółowe zasady tworzenia mechanizmów pomocy płynnościowej oraz zasady zarządzania takimi mechanizmami określa umowa systemu ochrony. Art. 22ha. 1. W banku zrzeszającym albo jednostce zarządzającej można także utworzyć mechanizm wsparcia, o którym mowa w art. 22a ust. 1a.
+2. Szczegółowe zasady tworzenia mechanizmów pomocy płynnościowej oraz zasady zarządzania takimi mechanizmami określa umowa systemu ochrony.
+
+**Art. 22ha.**
+
+1. W banku zrzeszającym albo jednostce zarządzającej można także utworzyć mechanizm wsparcia, o którym mowa w art. 22a ust. 1a.
 
 2. Wsparcie, o którym mowa w art. 22a ust. 1a, może być udzielone w związku z przejęciem, o którym mowa w art. 174 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub przejęciem, o którym mowa w art. 146b ust. 1 ustawy – Prawo bankowe, jeżeli bankiem przejmowanym jest bank spółdzielczy.
 
@@ -532,10 +540,16 @@ Art. 25–27. (pominięte)
 
 8. Organ nadzorujący system ochrony jest obowiązany rozpatrzyć odwołanie w terminie 30 dni od dnia jego otrzymania. Wniesienie odwołania nie wstrzymuje wykonania środków, o których mowa w ust. 1 lub 2, chyba że organ zarządzający systemem ochrony postanowi inaczej.
 
-9. Organ zarządzający systemem ochrony niezwłocznie informuje Komisję Nadzoru Finansowego o zastosowaniu wobec uczestników systemu ochrony środków, o których mowa w ust. 1–3. Art. 22ja. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 1, w celu zapewnienia efektywności działań naprawczych objętych wewnętrznym planem naprawy w ramach grupowego planu naprawy banków należących do systemu ochrony. Art. 22jb. Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 2:
+9. Organ zarządzający systemem ochrony niezwłocznie informuje Komisję Nadzoru Finansowego o zastosowaniu wobec uczestników systemu ochrony środków, o których mowa w ust. 1–3.
+
+**Art. 22ja.** Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 1, w celu zapewnienia efektywności działań naprawczych objętych wewnętrznym planem naprawy w ramach grupowego planu naprawy banków należących do systemu ochrony.
+
+**Art. 22jb.** Komisja Nadzoru Finansowego może wydać decyzję, o której mowa w art. 22j ust. 4 pkt 2:
 
 - **1)** lit. a – w celu zapewnienia efektywności działań naprawczych w banku, w ramach grupowego planu naprawy, o którym mowa w art. 141o ust. 1 ustawy – Prawo bankowe;
-- **2)** lit. b – w celu usunięcia nieprawidłowości w działaniu banku, o których mowa w tym przepisie. Art. 22jc. Komisja Nadzoru Finansowego może wydać decyzję w sprawie ustanowienia kuratora w banku będącym uczestnikiem systemu ochrony, jeżeli system zarządzania bankiem nie zapewnia realizacji postanowień umowy systemu ochrony, utrudnia lub uniemożliwia realizację zadań systemu ochrony, stwarza zagrożenie dla uczestników systemu ochrony lub stwarza zagrożenie dla efektywności systemu zarządzania bankiem.
+- **2)** lit. b – w celu usunięcia nieprawidłowości w działaniu banku, o których mowa w tym przepisie.
+
+**Art. 22jc.** Komisja Nadzoru Finansowego może wydać decyzję w sprawie ustanowienia kuratora w banku będącym uczestnikiem systemu ochrony, jeżeli system zarządzania bankiem nie zapewnia realizacji postanowień umowy systemu ochrony, utrudnia lub uniemożliwia realizację zadań systemu ochrony, stwarza zagrożenie dla uczestników systemu ochrony lub stwarza zagrożenie dla efektywności systemu zarządzania bankiem.
 
 **Art. 22k.** Organ zarządzający systemem ochrony sporządza, według stanu na koniec każdego kwartału, sprawozdanie o zastosowaniu środków, o których mowa w art. 22j ust. 1–3, oraz przekazuje je niezwłocznie do Komisji Nadzoru Finansowego.
 
@@ -618,6 +632,8 @@ Art. 25–27. (pominięte)
 5. Po zawarciu umowy, o której mowa w ust. 1, banki zrzeszające wraz ze zrzeszonymi bankami spółdzielczymi mogą stosować jednolitą nazwę i znak firmowy dla utworzonych przez siebie zrzeszeń.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 25–27.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

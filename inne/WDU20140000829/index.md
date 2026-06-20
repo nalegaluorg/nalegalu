@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
+# Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz ustawy o działach administracji rządowej
 
 *USTAWA z dnia 30 maja 2014 r.*
 

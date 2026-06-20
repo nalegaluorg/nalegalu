@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stanie wyjątkowym
+# Ustawa z dnia 21 czerwca 2002 r. o stanie wyjątkowym.
 
 *USTAWA z dnia 21 czerwca 2002 r.*
 

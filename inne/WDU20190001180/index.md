@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 16 maja 2019 r.*
 

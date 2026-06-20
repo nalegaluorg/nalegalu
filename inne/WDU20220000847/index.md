@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Politechniki Morskiej w Szczecinie
+# Ustawa z dnia 7 kwietnia 2022 r. o utworzeniu Politechniki Morskiej w Szczecinie
 
 *USTAWA z dnia 7 kwietnia 2022 r.*
 

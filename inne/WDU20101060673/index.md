@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo celne oraz niektórych innych ustaw
+# Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy - prawo celne oraz niektórych innych ustaw
 
 *USTAWA z dnia 29 kwietnia 2010 r.*
 

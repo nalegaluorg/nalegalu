@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Inspekcji Sanitarnej oraz niektórych ustaw
+# Ustawa z dnia 24 sierpnia 2001 r. o zmianie ustawy o Inspekcji Sanitarnej oraz niektórych ustaw.
 
 *USTAWA z dnia 24 sierpnia 2001 r.*
 

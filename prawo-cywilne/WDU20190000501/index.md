@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo własności przemysłowej
+# Ustawa z dnia 20 lutego 2019 r. o zmianie ustawy - Prawo własności przemysłowej
 
 *USTAWA z dnia 20 lutego 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
 
 *USTAWA z dnia 7 lipca 2022 r.*
 

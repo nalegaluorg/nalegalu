@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przekształceniu Wyższej Szkoły Rolniczo-Pedagogicznej w Siedlcach
+# Ustawa z dnia 10 kwietnia 1999 r. o przekształceniu Wyższej Szkoły Rolniczo- Pedagogicznej w Siedlcach.
 
 *USTAWA z dnia 10 kwietnia 1999 r.*
 

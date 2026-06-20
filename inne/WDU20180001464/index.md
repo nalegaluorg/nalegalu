@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
+# Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 

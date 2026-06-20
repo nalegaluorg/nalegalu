@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych
+# Ustawa z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych
 
 *USTAWA z dnia 26 stycznia 2023 r.*
 

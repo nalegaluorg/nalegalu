@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z dnia 24 lutego 1999 r.
+# Wyrok Trybunału Konstytucyjnego z dnia 24 lutego 1999 r. sygn. akt SK. 4/98
 
 | Pole | Wartość |
 |---|---|

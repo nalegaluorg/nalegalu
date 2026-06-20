@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o samorządowych kolegiach odwoławczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 marca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządowych kolegiach odwoławczych
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ source: pdf
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 12 października 1994 r.
 o samorządowych kolegiach odwoławczych
-Art. 25–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -389,6 +388,8 @@ Art. 25–28. (pominięte)
 2. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 25–28.** (pominięte)
 
 **Art. 29.**
 

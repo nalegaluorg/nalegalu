@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utrzymaniu czystości i porządku w gminach, ustawy – Prawo ochrony środowiska oraz ustawy o odpadach
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach, ustawy - Prawo ochrony środowiska oraz ustawy o odpadach
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

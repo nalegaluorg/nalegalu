@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o restrukturyzacji hutnictwa żelaza i stali
+# Ustawa z dnia 12 lutego 2003 r. o zmianie ustawy o restrukturyzacji hutnictwa żelaza i stali
 
 *USTAWA z dnia 12 lutego 2003 r.*
 

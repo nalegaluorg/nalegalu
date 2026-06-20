@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o podstawowej opiece zdrowotnej
+# Ustawa z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej
 
 *USTAWA z dnia 27 października 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-11-30 |
 | Ostatnia zmiana | 2025-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2217/text.pdf) |
-
-Art. 25–32. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -285,9 +283,7 @@ Art. 25–32. (pominięte)
 
 **Art. 20.** Świadczeniodawca udzielający świadczeń z zakresu podstawowej opieki zdrowotnej jest obowiązany do przetwarzania, przechowywania i udostępniania danych osobowych zawartych w deklaracji wyboru oraz w informacjach, o których mowa w art. 16–18, zgodnie z przepisami ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) oraz przepisami o ochronie danych osobowych.
 
-**Art. 21.** Szczegółowe zasady organizacji procesu udzielania świadczeń zdrowotnych, w tym przekazywania informacji o tym procesie, określa regulamin organizacyjny świadczeniodawcy, zgodnie z przepisami ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz.
-
-- **129)** .
+**Art. 21.** Szczegółowe zasady organizacji procesu udzielania świadczeń zdrowotnych, w tym przekazywania informacji o tym procesie, określa regulamin organizacyjny świadczeniodawcy, zgodnie z przepisami ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz. 129).
 
 #### Rozdział 3 Finansowanie podstawowej opieki zdrowotnej
 
@@ -312,6 +308,8 @@ Art. 25–32. (pominięte)
 **Art. 24.** Świadczeniodawca może brać udział w programach poprawy jakości z zakresu podstawowej opieki zdrowotnej, określonych przez instytut, o którym mowa w art. 15 ust. 2, których celem jest zapewnienie odpowiedniej jakości świadczeń zdrowotnych, bezpieczeństwa zdrowotnego świadczeniobiorców oraz uzyskanie efektu zdrowotnego.
 
 #### Rozdział 5 Przepisy zmieniające
+
+**Art. 25–32.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

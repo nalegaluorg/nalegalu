@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze nad ogólnym bezpieczeństwem produktów
+# Ustawa z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów
 
 *USTAWA z dnia 7 listopada 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 8 grudnia 2006 r. o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 8 grudnia 2006 r.*
 

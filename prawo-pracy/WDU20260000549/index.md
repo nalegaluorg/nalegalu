@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 23 maja 1991 r.
 o związkach zawodowych
-Art. 40–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -563,6 +562,8 @@ Art. 40–45. (pominięte)
 **Art. 39.** (uchylony)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 40–45.** (pominięte)
 
 **Art. 46.** Rejestracja organizacji związkowych dokonana przed dniem wejścia w życie ustawy zachowuje moc prawną.
 

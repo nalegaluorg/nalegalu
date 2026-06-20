@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej oraz zmianie niektórych innych ustaw
+# Ustawa z dnia 7 czerwca 2002 r. o zmianie ustawy o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej oraz zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 7 czerwca 2002 r.*
 

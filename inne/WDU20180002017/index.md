@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zastawie rejestrowym i rejestrze zastawów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 października 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zastawie rejestrowym i rejestrze zastawów
 
 *USTAWA z dnia 6 grudnia 1996 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-10-22 |
 | Ostatnia zmiana | 2026-01-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2017/text.pdf) |
-
-Art. 45–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -381,6 +379,8 @@ Art. 45–49. (pominięte)
 **Art. 44.** Do postępowania rejestrowego stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z uwzględnieniem przepisów niniejszej ustawy.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 45–49.** (pominięte)
 
 **Art. 50.**
 

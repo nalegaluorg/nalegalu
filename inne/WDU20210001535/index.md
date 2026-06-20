@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

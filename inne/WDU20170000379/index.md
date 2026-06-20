@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej i ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 24 lutego 2017 r. o zmianie ustawy - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej i ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 24 lutego 2017 r.*
 

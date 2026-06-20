@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie medycyny pracy
+# Ustawa z dnia 17 października 2008 r. o zmianie ustawy o służbie medycyny pracy
 
 *USTAWA z dnia 17 października 2008 r.*
 

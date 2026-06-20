@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy ‒ Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 22 czerwca 2016 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 czerwca 2016 r.*
 

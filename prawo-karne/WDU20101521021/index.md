@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie imprez masowych oraz ustawy - Kodeks karny
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o bezpieczeństwie imprez masowych oraz ustawy - Kodeks karny
 
 *USTAWA z dnia 22 lipca 2010 r.*
 

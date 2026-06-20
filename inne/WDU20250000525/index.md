@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw
+# Ustawa z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw
 
 *USTAWA z dnia 20 marca 2025 r.*
 

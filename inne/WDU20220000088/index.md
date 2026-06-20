@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z przedłużeniem realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z przedłużeniem realizacji Programu Rozwoju Obszarów Wiejskich na lata 2014-2020
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 

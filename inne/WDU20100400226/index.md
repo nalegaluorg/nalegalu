@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej
+# Ustawa z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej
 
 *USTAWA z dnia 12 lutego 2010 r.*
 

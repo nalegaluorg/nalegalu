@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o regulacji rynku cukru i przekształceniach własnościowych w przemyśle cukrowniczym
+# Ustawa z dnia 20 listopada 1996 r. o zmianie ustawy o regulacji rynku cukru i przekształceniach własnościowych w przemyśle cukrowniczym.
 
 *USTAWA z dnia 20 listopada 1996 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2009 r.*
 

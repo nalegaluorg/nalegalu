@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu infrastruktury transportu lądowego
+# Ustawa z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

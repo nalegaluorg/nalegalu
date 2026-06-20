@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
 
 | Pole | Wartość |
 |---|---|

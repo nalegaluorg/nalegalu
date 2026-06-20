@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Uniwersytetu Mikołaja Kopernika w Toruniu
+# Ustawa z dnia 8 października 2004 r. o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Uniwersytetu Mikołaja Kopernika w Toruniu
 
 *USTAWA z dnia 8 października 2004 r.*
 

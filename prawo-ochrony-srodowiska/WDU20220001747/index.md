@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 23 czerwca 2022 r.*
 

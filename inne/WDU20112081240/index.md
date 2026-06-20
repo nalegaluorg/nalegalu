@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o bezpieczeństwie osób przebywających na obszarach wodnych
+# Ustawa z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-09-30 |
 | Ostatnia zmiana | 2025-08-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112081240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1240/text.pdf) |
-
-Art. 37–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -458,6 +456,8 @@ Art. 37–39. (pominięte)
 **Art. 36.** Postępowanie w sprawach określonych w art. 34 i art. 35 prowadzi się na podstawie ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 37–39.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
 

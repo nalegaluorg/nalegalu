@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym oraz ustawy - Prawo działalności gospodarczej
+# Ustawa z dnia 14 grudnia 2001 r. o zmianie ustawy o Krajowym Rejestrze Sądowym, ustawy - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym oraz ustawy - Prawo działalności gospodarczej.
 
 *USTAWA z dnia 14 grudnia 2001 r.*
 

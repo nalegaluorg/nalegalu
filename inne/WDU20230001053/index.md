@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+# Ustawa z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 kwietnia 2023 r.*
 

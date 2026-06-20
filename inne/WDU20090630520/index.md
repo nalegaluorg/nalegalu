@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu narkomanii
+# Ustawa z dnia 20 marca 2009 r. o zmianie ustawy o przeciwdziałaniu narkomanii
 
 *USTAWA Opracowano na podz dnia 20 marca 2009 r. stawie Dz.U. z 2009 Nr 63, poz. 520.*
 

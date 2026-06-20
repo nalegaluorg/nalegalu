@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
+# Ustawa z dnia 29 września 2021 r. o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 
 *USTAWA z dnia 29 września 2021 r.*
 

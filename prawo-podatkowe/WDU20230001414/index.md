@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+# Ustawa z dnia 16 czerwca 2023 r. zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
 
 *USTAWA z dnia 16 czerwca 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu egzekucyjnym w administracji
+# Ustawa z dnia 18 lipca 2001 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji.
 
 *USTAWA z dnia 18 lipca 2001 r.*
 

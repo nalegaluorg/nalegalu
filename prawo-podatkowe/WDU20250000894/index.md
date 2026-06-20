@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy o podatku od towarów i usług
+# Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy o podatku od towarów i usług
 
 *USTAWA z dnia 24 czerwca 2025 r.*
 

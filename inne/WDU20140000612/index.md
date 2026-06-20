@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji
+# Ustawa z dnia 21 marca 2014 r. o zmianie ustawy o komercjalizacji i prywatyzacji
 
 *USTAWA z dnia 21 marca 2014 r.*
 

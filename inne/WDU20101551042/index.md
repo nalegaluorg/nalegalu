@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011”
+# Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011"
 
 *USTAWA z dnia 5 sierpnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
+# Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 grudnia 2008 r.*
 

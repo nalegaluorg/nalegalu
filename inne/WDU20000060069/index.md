@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Rzeczniku Praw Dziecka
+# Ustawa z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka.
 
 *USTAWA z dnia 6 stycznia 2000 r.*
 
@@ -276,7 +276,9 @@ source: pdf
 
 4. Rzecznik określa zakres zadań zastępcy Rzecznika.
 
-**Art. 14.** Wydatki związane z funkcjonowaniem Rzecznika są ujmowane w ustawie budżetowej i pokrywane z budżetu państwa. Art. 15–20. (pominięte)
+**Art. 14.** Wydatki związane z funkcjonowaniem Rzecznika są ujmowane w ustawie budżetowej i pokrywane z budżetu państwa.
+
+**Art. 15–20.** (pominięte)
 
 **Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r.
 

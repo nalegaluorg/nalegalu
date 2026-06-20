@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
+# Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich
 
 *USTAWA z dnia 24 kwietnia 2015 r.*
 

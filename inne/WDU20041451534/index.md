@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gwarancjach wolności sumienia i wyznania
+# Ustawa z dnia 30 kwietnia 2004 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania
 
 *USTAWA z dnia 30 kwietnia 2004 r.*
 

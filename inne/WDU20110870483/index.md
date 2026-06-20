@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o notariacie
+# Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy - Prawo o notariacie
 
 *USTAWA z dnia 25 lutego 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 15 grudnia 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 15 grudnia 2022 r.*
 

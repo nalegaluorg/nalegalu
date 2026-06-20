@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Agencji Żeglugi Powietrznej
+# Ustawa z dnia 2 grudnia 2016 r. o zmianie ustawy o Polskiej Agencji Żeglugi Powietrznej
 
 *USTAWA z dnia 2 grudnia 2016 r.*
 

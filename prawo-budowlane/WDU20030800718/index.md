@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo budowlane oraz o zmianie niektórych ustaw
+# Ustawa z dnia 27 marca 2003 r. o zmianie ustawy - Prawo budowlane oraz o zmianie niektórych ustaw
 
 *USTAWA z dnia 27 marca 2003 r.*
 

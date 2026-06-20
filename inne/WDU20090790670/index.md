@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o czasie pracy kierowców
+# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o czasie pracy kierowców
 
 *USTAWA z dnia 7 maja 2009 r.*
 

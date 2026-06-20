@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 1 kwietnia 2004 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych
 
 *USTAWA z dnia 1 kwietnia 2004 r.*
 

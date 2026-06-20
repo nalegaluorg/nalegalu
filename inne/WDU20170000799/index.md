@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie imprez masowych
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o bezpieczeństwie imprez masowych
 
 *USTAWA z dnia 23 marca 2017 r.*
 

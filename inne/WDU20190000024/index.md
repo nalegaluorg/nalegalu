@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakładach leczniczych dla zwierząt
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zakładach leczniczych dla zwierząt
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 

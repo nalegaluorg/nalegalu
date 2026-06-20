@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji niektórych rynków rolnych oraz ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
+# Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o organizacji niektórych rynków rolnych oraz ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
 
 *USTAWA z dnia 29 lutego 2008 r.*
 
@@ -113,7 +113,12 @@ source: pdf
 
 - **11)** po art. 33f dodaje się art. 33fa-33ff w brzmieniu: „Art. 33fa. Płatność niezwiązana przysługuje producentowi rolnemu, który:
 - **1)** jest wpisany do rejestru, o którym mowa w art. 33fd ust. 1;
-- **2)** spełnia warunki do przyznania jednolitej płatności obszarowej, określone w przepisach o płatnościach do gruntów rolnych i płatności cukrowej. Art. 33fb. 1. Prawo do uzyskania płatności niezwiązanej nabywa, z mocy ustawy, osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która w dniu 31 marca 2007 r.:
+- **2)** spełnia warunki do przyznania jednolitej płatności obszarowej, określone w przepisach o płatnościach do gruntów rolnych i płatności cukrowej.
+
+**Art. 33fb.**
+
+1. Prawo do uzyskania płatności niezwiązanej nabywa, z mocy ustawy, osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która w dniu 31 marca 2007 r.:
+
 - **1)** była wpisana do rejestru producentów i
 - **2)** posiadała prawo do uzyskania płatności uzupełniającej, o której mowa w art. 1 ust. 1 pkt 2, które zostało nabyte z mocy ustawy przez osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, będącą w 2005 r. lub w 2006 r. stroną umowy kontraktacji lub umowy na uprawę tytoniu.
 
@@ -129,7 +134,12 @@ source: pdf
 4. Dyrektor oddziału terenowego Agencji wydaje decyzje o:
 
 - **1)** stwierdzeniu nabycia prawa do uzyskania płatności niezwiązanej, jeżeli wnioskodawca spełnia warunki nabycia tego prawa z mocy ustawy, i wpisuje wnioskodawcę do rejestru określonego w art. 33fd ust. 1;
-- **2)** odmowie stwierdzenia nabycia prawa do uzyskania płatności niezwiązanej, jeżeli wnioskodawca nie spełnia warunków nabycia tego prawa z mocy ustawy. Art. 33fc. 1. Prawo do uzyskania płatności niezwiązanej jest niepodzielne i:
+- **2)** odmowie stwierdzenia nabycia prawa do uzyskania płatności niezwiązanej, jeżeli wnioskodawca nie spełnia warunków nabycia tego prawa z mocy ustawy.
+
+**Art. 33fc.**
+
+1. Prawo do uzyskania płatności niezwiązanej jest niepodzielne i:
+
 - **1)** podlega dziedziczeniu;
 - **2)** może być nabyte wyłącznie przez osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która nabywa w całości gospodarstwo rolne od dotychczasowego posiadacza prawa do uzyskania płatności niezwiązanej.
 
@@ -158,7 +168,11 @@ source: pdf
 8. W przypadku, o którym mowa w ust. 7 pkt 3:
 
 - **1)** spadkobierca składa prawomocne postanowienie sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia;
-- **2)** decyzję w sprawie wpisu do rejestru określonego w art. 33fd ust. 1 wydaje się po złożeniu przez spadkobiercę prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku. Art. 33fd. 1. Dyrektor oddziału terenowego Agencji prowadzi rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej.
+- **2)** decyzję w sprawie wpisu do rejestru określonego w art. 33fd ust. 1 wydaje się po złożeniu przez spadkobiercę prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku.
+
+**Art. 33fd.**
+
+1. Dyrektor oddziału terenowego Agencji prowadzi rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej.
 
 2. Rejestr podmiotów posiadających prawo do uzyskania płatności niezwiązanej:
 
@@ -172,14 +186,22 @@ source: pdf
 
 4. Podmiot wpisany do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej informuje dyrektora oddziału terenowego Agencji, na formularzu opracowanym i udostępnionym przez Agencję, o zmianie danych, o których mowa w art. 33fb ust. 3, w terminie 14 dni od dnia jej zaistnienia.
 
-5. Dyrektor oddziału terenowego Agencji wydaje decyzję o odmowie wpisu do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej nabywcy tego prawa, jeżeli podmiot, któremu dotychczas przysługiwało to prawo, nie jest wpisany do tego rejestru. Art. 33fe. 1. W decyzjach wydawanych na podstawie art. 33fb ust. 4 pkt 1 dyrektor oddziału terenowego Agencji określa ilość surowca tytoniowego związaną z prawem do uzyskania płatności niezwiązanej, będącą podstawą do określenia wysokości płatności niezwiązanej, zwaną dalej „indywidualną ilością referencyjną”.
+5. Dyrektor oddziału terenowego Agencji wydaje decyzję o odmowie wpisu do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej nabywcy tego prawa, jeżeli podmiot, któremu dotychczas przysługiwało to prawo, nie jest wpisany do tego rejestru.
+
+**Art. 33fe.**
+
+1. W decyzjach wydawanych na podstawie art. 33fb ust. 4 pkt 1 dyrektor oddziału terenowego Agencji określa ilość surowca tytoniowego związaną z prawem do uzyskania płatności niezwiązanej, będącą podstawą do określenia wysokości płatności niezwiązanej, zwaną dalej „indywidualną ilością referencyjną”.
 
 2. Indywidualna ilość referencyjna stanowi ilość surowca tytoniowego wyprodukowanego w ramach umowy kontraktacji lub umowy na uprawę tytoniu:
 
 - **1)** zawartej w 2006 r., której stroną była osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która nabyła z mocy ustawy prawo do uzyskania płatności uzupełniającej, określonej w art. 1 ust. 1 pkt 2, przysługujące w dniu 31 marca 2007 r. nabywcy z mocy ustawy prawa do uzyskania płatności niezwiązanej, lub
 - **2)** zawartej w 2005 r., której stroną była osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, która nabyła z mocy ustawy prawo do uzyskania płatności uzupełniającej, określonej w art. 1 ust. 1 pkt 2, przysługujące w dniu 31 marca 2007 r. nabywcy z mocy ustawy prawa do płatności niezwiązanej, jeżeli nie była stroną umowy, o której mowa w pkt 1 – jednak nie mniej niż 70% ilości surowca tytoniowego objętego umową kontraktacji lub umową na uprawę tytoniu.
 
-3. W decyzjach wydawanych na podstawie art. 33fd ust. 3 pkt 2 dyrektor oddziału terenowego Agencji określa nabywcy prawa do uzyskania płatności niezwiązanej indywidualną ilość referencyjną równą indywidualnej ilości referencyjnej określonej podmiotowi, któremu dotychczas przysługiwało to prawo. Art. 33ff. 1. Decyzję w sprawie przyznania płatności niezwiązanej wydaje dyrektor oddziału terenowego Agencji, na wniosek składany corocznie w terminie od dnia 15 marca do dnia 15 maja, na formularzu opracowanym i udostępnionym przez Agencję.
+3. W decyzjach wydawanych na podstawie art. 33fd ust. 3 pkt 2 dyrektor oddziału terenowego Agencji określa nabywcy prawa do uzyskania płatności niezwiązanej indywidualną ilość referencyjną równą indywidualnej ilości referencyjnej określonej podmiotowi, któremu dotychczas przysługiwało to prawo.
+
+**Art. 33ff.**
+
+1. Decyzję w sprawie przyznania płatności niezwiązanej wydaje dyrektor oddziału terenowego Agencji, na wniosek składany corocznie w terminie od dnia 15 marca do dnia 15 maja, na formularzu opracowanym i udostępnionym przez Agencję.
 
 2. W przypadku złożenia wniosku, o którym mowa w art. 33fc ust. 6, decyzję w sprawie przyznania płatności niezwiązanej wydaje się, jeżeli decyzja w sprawie wpisu do rejestru podmiotów posiadających prawo do uzyskania płatności niezwiązanej stała się ostateczna.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zastawie rejestrowym i rejestrze zastawów
+# Ustawa z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów.
 
 *USTAWA z dnia 6 grudnia 1996 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1996-12-19 |
 | Ostatnia zmiana | 2026-02-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961490703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.pdf) |
-
-Art. 45–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -381,6 +379,8 @@ Art. 45–49. (pominięte)
 **Art. 44.** Do postępowania rejestrowego stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z uwzględnieniem przepisów niniejszej ustawy.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 45–49.** (pominięte)
 
 **Art. 50.**
 

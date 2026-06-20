@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o obrocie instrumentami finansowymi
+# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o obrocie instrumentami finansowymi
 
 *USTAWA z dnia 22 stycznia 2010 r.*
 

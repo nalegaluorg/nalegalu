@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
+# Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 lutego 2021 r.*
 
@@ -513,7 +513,11 @@ source: pdf
 
 2. W przypadku gdy finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1 pkt 3 lit. a tiret pierwsze, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym.
 
-3. Jeżeli w ocenie Komisji Nadzoru Finansowego realizacja planu, o którym mowa w ust. 1 pkt 7, przedstawionego przez finansową spółkę holdingową albo finansową spółkę holdingową o działalności mieszanej nie przywróci zgodności z wymogami, o których mowa w art. 48r ust. 1, lub wskazany termin realizacji planu nie zapewnia przywrócenia zgodności z wymogami, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może wyznaczyć finansowej spółce holdingowej lub finansowej spółce holdingowej o działalności mieszanej termin jego uzupełnienia albo opracowania nowego planu. Art. 141fb. 1. Komisja Nadzoru Finansowego wydaje decyzję, o której mowa w art. 48q ust. 3, na wniosek złożony przez finansową spółkę holdingową lub finansową spółkę holdingową o działalności mieszanej.
+3. Jeżeli w ocenie Komisji Nadzoru Finansowego realizacja planu, o którym mowa w ust. 1 pkt 7, przedstawionego przez finansową spółkę holdingową albo finansową spółkę holdingową o działalności mieszanej nie przywróci zgodności z wymogami, o których mowa w art. 48r ust. 1, lub wskazany termin realizacji planu nie zapewnia przywrócenia zgodności z wymogami, o których mowa w art. 48r ust. 1, Komisja Nadzoru Finansowego może wyznaczyć finansowej spółce holdingowej lub finansowej spółce holdingowej o działalności mieszanej termin jego uzupełnienia albo opracowania nowego planu.
+
+**Art. 141fb.**
+
+1. Komisja Nadzoru Finansowego wydaje decyzję, o której mowa w art. 48q ust. 3, na wniosek złożony przez finansową spółkę holdingową lub finansową spółkę holdingową o działalności mieszanej.
 
 2. Komisja Nadzoru Finansowego, po otrzymaniu wniosku, niezwłocznie podejmuje współpracę z właściwymi władzami nadzorczymi innego państwa, w którym siedzibę ma finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, lub z właściwym koordynatorem zagranicznym, o którym mowa w art. 3 pkt 20 ustawy o nadzorze uzupełniającym, zwanym dalej „koordynatorem zagranicznym”, w celu wydania decyzji, dążąc do osiągnięcia wspólnego stanowiska, zarówno co do samego rozstrzygnięcia, jak i jego przesłanek. Komisja Nadzoru Finansowego niezwłocznie przekazuje wniosek tym władzom lub koordynatorowi zagranicznemu, wraz ze swoim stanowiskiem w sprawie.
 
@@ -654,7 +658,11 @@ source: pdf
 - **1)** przynależenie do grupy z państwa trzeciego, o której mowa w ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą byłoby niezgodne z przepisami obowiązującymi w państwie trzecim, w którym znajduje się siedziba podmiotu dominującego na najwyższym poziomie konsolidacji grupy z państwa trzeciego, z których wynika obowiązek rozdzielenia działalności, lub z decyzjami właściwego organu nadzoru tego państwa, z których wynika obowiązek takiego rozdzielenia, lub
 - **2)** organ właściwy dla pośredniej unijnej jednostki dominującej w sprawach przymusowej restrukturyzacji wyda opinię, zgodnie z którą przynależenie do grupy z państwa trzeciego, o której mowa w ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą zmniejszyłoby możliwość przeprowadzenia przymusowej restrukturyzacji takiej pośredniej unijnej jednostki dominującej.
 
-6. W przypadku, o którym mowa w ust. 5 pkt 1, gdy obowiązek rozdzielenia działalności, o którym mowa w tym przepisie, związany jest z działalnością o charakterze inwestycyjnym, jednym z podmiotów będących pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna. Art. 110fb. 1. W przypadku gdy dom maklerski, finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, których działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, należą do grupy z państwa trzeciego, której łączna wartość aktywów na terytorium państw członkowskich jest niższa niż równowartość w złotych 40 000 000 000 euro, przepisu art. 110fa nie stosuje się.
+6. W przypadku, o którym mowa w ust. 5 pkt 1, gdy obowiązek rozdzielenia działalności, o którym mowa w tym przepisie, związany jest z działalnością o charakterze inwestycyjnym, jednym z podmiotów będących pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna.
+
+**Art. 110fb.**
+
+1. W przypadku gdy dom maklerski, finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, których działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, należą do grupy z państwa trzeciego, której łączna wartość aktywów na terytorium państw członkowskich jest niższa niż równowartość w złotych 40 000 000 000 euro, przepisu art. 110fa nie stosuje się.
 
 2. Łączna wartość aktywów, o której mowa w ust. 1, stanowi sumę:
 

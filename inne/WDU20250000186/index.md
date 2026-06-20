@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o związku metropolitalnym w województwie śląskim
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związku metropolitalnym w województwie śląskim
 
 | Pole | Wartość |
 |---|---|
@@ -40,7 +40,6 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 sty
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 9 marca 2017 r.
 o związku metropolitalnym w województwie śląskim
-Art. 55–61. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -525,6 +524,8 @@ Art. 55–61. (pominięte)
 **Art. 54.** Do składek, o których mowa w art. 53 ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), z tym że kompetencje organu podatkowego wykonuje przewodniczący zarządu.
 
 #### Rozdział 8 Zmiany w przepisach
+
+**Art. 55–61.** (pominięte)
 
 #### Rozdział 8a Przepis epizodyczny
 

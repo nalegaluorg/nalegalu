@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
+# Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 grudnia 2021 r.*
 
@@ -206,7 +206,10 @@ source: pdf
     - **b)** w ust. 3 skreśla się wyrazy „przez okres nie dłuższy niż 6 miesięcy w ciągu kolejnych 12 miesięcy”,
     - **c)** uchyla się ust. 4;
 
-- **5)** po art. 88c dodaje się art. 88ca i art. 88cb w brzmieniu: „Art. 88ca. Wojewoda rozpatruje wnioski o wydanie zezwolenia na pracę z uwzględnieniem pierwszeństwa cudzoziemców mających wykonywać pracę u przedsiębiorców określonych w wykazie, o którym mowa w art. 88cb. Art. 88cb. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, wykaz przedsiębiorców prowadzących działalność o znaczeniu strategicznym dla gospodarki narodowej, biorąc pod uwagę potrzeby gospodarki narodowej oraz przedmiot działalności przedsiębiorcy.”;
+- **5)** po art. 88c dodaje się art. 88ca i art. 88cb w brzmieniu: „Art. 88ca. Wojewoda rozpatruje wnioski o wydanie zezwolenia na pracę z uwzględnieniem pierwszeństwa cudzoziemców mających wykonywać pracę u przedsiębiorców określonych w wykazie, o którym mowa w art. 88cb.
+
+**Art. 88cb.** Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, wykaz przedsiębiorców prowadzących działalność o znaczeniu strategicznym dla gospodarki narodowej, biorąc pod uwagę potrzeby gospodarki narodowej oraz przedmiot działalności przedsiębiorcy.”;
+
 - **6)** w art. 88f: poz. 2095, z późn. zm. ), uzyskanie zezwolenia na pracę określającego zmienione warunki pracy nie jest wymagane.”;
     - **a)** ust. 1a otrzymuje brzmienie: „1a. Zmiana siedziby lub miejsca zamieszkania, nazwy lub formy prawnej podmiotu powierzającego wykonywanie pracy cudzoziemcowi, przejęcie pracodawcy lub jego części przez innego pracodawcę, przejście zakładu pracy lub jego części na innego pracodawcę, zastąpienie umowy cywilnoprawnej umową o pracę, zmiana nazwy stanowiska, na jakim cudzoziemiec wykonuje pracę, przy jednoczesnym zachowaniu zakresu jego obowiązków lub zwiększenie wymiaru czasu pracy przy jednoczesnym proporcjonalnym zwiększeniu wynagrodzenia nie wymagają wydania nowego zezwolenia na pracę.”,
     - **b)** ust. 1c otrzymuje brzmienie: „1c. Jeżeli warunki pracy cudzoziemca posiadającego zezwolenie na pracę uległy zmianie na zasadach określonych w art. 9 lub art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162), art. 4 ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2019 r. poz. 669) lub art. 3, art. 15g ust. 6 i 8, art. 15gb, art. 15x ust. 1 lub art. 15zf ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r.

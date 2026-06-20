@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od sprzedaży detalicznej
+# Ustawa z dnia 12 grudnia 2019 r. o zmianie ustawy o podatku od sprzedaży detalicznej
 
 *USTAWA z dnia 12 grudnia 2019 r.*
 

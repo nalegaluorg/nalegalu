@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowym Rejestrze Karnym
+# Ustawa z dnia 25 kwietnia 2001 r. o zmianie ustawy o Krajowym Rejestrze Karnym.
 
 *USTAWA z dnia 25 kwietnia 2001 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przeznaczenia środków Funduszu Gwarantowanego Świadczeń Pracowniczych na odprawy dla pracowników przemysłu obronnego.
+# Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 8 grudnia 1999 r. w sprawie przeznaczenia środków Funduszu Gwarantowanych Świadczeń Pracowniczych na odprawy dla pracowników przemysłu obronnego.
 
 | Pole | Wartość |
 |---|---|

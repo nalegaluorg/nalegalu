@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Rolniczej w Poznaniu nazwy "Akademia Rolnicza im. Augusta Cieszkowskiego" w Poznaniu Akademii Rolniczej w Poznaniu nadaje się nazwę "Akademia Rolnicza im. Augusta Cieszkowskiego" w Poznaniu.
+# Ustawa z dnia 4 lipca 1996 r. o nadaniu Akademii Rolniczej w Poznaniu nazwy "Akademia Rolnicza im. Augusta Cieszkowskiego" w Poznaniu.
 
 | Pole | Wartość |
 |---|---|

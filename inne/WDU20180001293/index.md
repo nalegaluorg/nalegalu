@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
+# Ustawa z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi
 
 *USTAWA z dnia 15 czerwca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-07-04 |
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1293/text.pdf) |
-
-Art. 123–126. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1257,6 +1255,8 @@ Art. 123–126. (pominięte)
 **Art. 122.** Kto nie dopełnia ciążącego na nim obowiązku złożenia oświadczenia, o którym mowa w art. 66 ust. 7, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 #### Rozdział 15 Przepisy zmieniające, przejściowe i dostosowujące oraz przepis końcowy
+
+**Art. 123–126.** (pominięte)
 
 **Art. 127.** Postępowania administracyjne o udzielenie, zmianę lub cofnięcie zezwolenia, o którym mowa w art. 104 ust. 2 pkt 2 ustawy zmienianej w art. 123 , wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu z mocy prawa.
 

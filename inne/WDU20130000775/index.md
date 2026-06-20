@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego
+# Ustawa z dnia 14 czerwca 2013 r. o zmianie ustawy o materiałach wybuchowych przeznaczonych do użytku cywilnego
 
 *USTAWA z dnia 14 czerwca 2013 r.*
 

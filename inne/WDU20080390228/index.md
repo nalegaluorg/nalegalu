@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu nowej nazwy Akademii Wychowania Fizycznego w Katowicach
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu nowej nazwy Akademii Wychowania Fizycznego w Katowicach
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

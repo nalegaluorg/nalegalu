@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu i resocjalizacji nieletnich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu i resocjalizacji nieletnich
 
 | Pole | Wartość |
 |---|---|
@@ -38,7 +38,6 @@ USTAWA z dnia 9 czerwca 2022 r.
 o wspieraniu i resocjalizacji nieletnich Uznając rodzinę za naturalne środowisko rozwoju człowieka oraz opierając się na zasadzie autonomii rodziny i pierwszoplanowej roli rodziców – matki i ojca – w przekazywaniu nieletnim wartości, zasad i niezbędnych wzorców, kierując się nadto prawem nieletnich do szczególnej troski i pomocy oraz zasadą subsydiarności, Rzeczpospolita Polska otacza rodzinę ochroną i wsparciem w wychowaniu, które respektując chrześcijański system wartości, za podstawę przyjmuje uniwersalne zasady etyki.
 Umacnianie poczucia odpowiedzialności rodzin za przygotowanie dzieci do życia we wspólnocie, jako indywidualnie ukształtowanej jednostki oraz za wychowanie nieletnich na osoby świadome swych obowiązków rodzinnych i obywatelskich jest wspólnym dobrem całego społeczeństwa.
 W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, przeciwdziałania demoralizacji nieletnich i dopuszczaniu się przez nich czynów karalnych oraz stwarzania warunków powrotu do normalnego życia nieletnim, którzy popadli w konflikt z prawem lub z zasadami współżycia społecznego, stanowi się, co następuje.
-Art. 360–392. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -3258,6 +3257,8 @@ Art. 360–392. (pominięte)
 ### DZIAŁ VII Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach
+
+**Art. 360–392.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i dostosowujące
 

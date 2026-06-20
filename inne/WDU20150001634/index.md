@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
+# Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 29 grudnia 2005 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 29 grudnia 2005 r.*
 

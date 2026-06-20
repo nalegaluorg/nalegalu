@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o łączeniu i grupowaniu niektórych banków w formie spółki akcyjnej
+# Ustawa z dnia 14 czerwca 1996 r. o łączeniu i grupowaniu niektórych banków w formie spółki akcyjnej.
 
 *USTAWA z dnia 14 czerwca 1996 r.*
 

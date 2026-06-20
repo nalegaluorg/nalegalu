@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o jednostkach doradztwa rolniczego
+# Ustawa z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego
 
 *USTAWA z dnia 22 października 2004 r.*
 

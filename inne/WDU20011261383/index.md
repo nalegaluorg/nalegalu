@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw
+# Ustawa z dnia 6 września 2001 r. o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw.
 
 *USTAWA z dnia 6 września 2001 r.*
 

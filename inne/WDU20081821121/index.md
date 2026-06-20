@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o aktach stanu cywilnego oraz ustawy o opłacie skarbowej
+# Ustawa z dnia 19 września 2008 r. o zmianie ustawy - Prawo o aktach stanu cywilnego oraz ustawy o opłacie skarbowej
 
 *USTAWA z dnia 19 września 2008 r.*
 

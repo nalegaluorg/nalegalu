@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach sądów i prokuratury
+# Ustawa z dnia 9 maja 2007 r. o zmianie ustawy o pracownikach sądów i prokuratury
 
 *USTAWA z dnia 9 maja 2007 r.*
 

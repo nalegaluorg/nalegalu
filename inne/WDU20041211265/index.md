@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o usługach detektywistycznych
+# Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o usługach detektywistycznych
 
 *USTAWA z dnia 20 kwietnia 2004 r.*
 

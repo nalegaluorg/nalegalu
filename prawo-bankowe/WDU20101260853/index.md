@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe, ustawy o działalności ubezpieczeniowej, ustawy o funduszach inwestycyjnych, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy - Prawo bankowe, ustawy o działalności ubezpieczeniowej, ustawy o funduszach inwestycyjnych, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym
 
 *USTAWA z dnia 25 czerwca 2010 r.*
 

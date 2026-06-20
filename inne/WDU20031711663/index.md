@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o diagnostyce laboratoryjnej oraz o zmianie innych ustaw
+# Ustawa z dnia 28 sierpnia 2003 r. o zmianie ustawy o diagnostyce laboratoryjnej oraz o zmianie innych ustaw
 
 *USTAWA z dnia 28 sierpnia 2003 r.*
 

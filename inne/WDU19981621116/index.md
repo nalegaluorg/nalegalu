@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz o zmianie niektórych ustaw
+# Ustawa z dnia 16 grudnia 1998 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 16 grudnia 1998 r.*
 

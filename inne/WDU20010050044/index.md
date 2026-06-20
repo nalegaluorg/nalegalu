@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o jakości handlowej artykułów rolno-spożywczych
+# Ustawa z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych.
 
 *USTAWA z dnia 21 grudnia 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# z d n i a 27 k w i e t n i a 1990 r . r o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości.
+# Ustawa z dnia 27 kwietnia 1990 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości.
 
 | Pole | Wartość |
 |---|---|

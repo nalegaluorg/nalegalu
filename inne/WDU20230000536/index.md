@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy – Prawo probiercze
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo probiercze
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nadzorze nad rynkiem finansowym oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej
+# Ustawa z dnia 29 września 2017 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej
 
 *USTAWA z dnia 29 września 2017 r.*
 

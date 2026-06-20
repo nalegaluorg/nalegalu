@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz ustawy o Narodowym Banku Polskim
+# Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz ustawy o Narodowym Banku Polskim
 
 *USTAWA z dnia 27 czerwca 2003 r.*
 

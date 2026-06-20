@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o środkach przymusu bezpośredniego i broni palnej
+# Ustawa z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej
 
 *USTAWA z dnia 24 maja 2013 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2013-06-03 |
 | Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/628/text.pdf) |
-
-Art. 57–80. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -747,6 +745,8 @@ Art. 57–80. (pominięte)
 - **4)** informację o liczebności pododdziału zwartego.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 57–80.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe i przepis końcowy
 

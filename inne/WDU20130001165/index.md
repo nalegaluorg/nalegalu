@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o postępowaniu w sprawach nieletnich oraz niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o postępowaniu w sprawach nieletnich oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 sierpnia 2013 r.*
 
@@ -264,11 +264,23 @@ source: pdf
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Zmiana rodzaju zakładu w wypadku określonym w § 1 oraz przeniesienie nieletniego do zakładu poprawczego o wzmożonym nadzorze wychowawczym wymagają zgody sądu rodzinnego, chyba że ze względu na szczególne okoliczności sprawy jest konieczne natychmiastowe przeniesienie nieletniego; przeniesienie takie wymaga zatwierdzenia przez sąd rodzinny.”,
     - **b)** uchyla się § 3;
 
-- **23)** w dziale IV po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Udzielanie nagród i stosowanie środków dyscyplinarnych wobec nieletnich umieszczonych w schroniskach dla nieletnich i zakładach poprawczych Art. 95ca. § 1. Dyrektor schroniska dla nieletnich lub zakładu poprawczego może udzielić nieletniemu przebywającemu w schronisku albo zakładzie nagrody lub zastosować wobec niego środek dyscyplinarny.
+- **23)** w dziale IV po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Udzielanie nagród i stosowanie środków dyscyplinarnych wobec nieletnich umieszczonych w schroniskach dla nieletnich i zakładach poprawczych
 
-§ 2. Udzielenie nagrody i stosowanie środka dyscyplinarnego nie może prowadzić do upokarzającego i poniżającego traktowania nieletniego. Art. 95cb. § 1. Nagrody udziela się za właściwe zachowanie nieletniego, wyróżniające wykonywanie obowiązków, wzorowe przestrzeganie regulaminu schroniska dla nieletnich albo zakładu poprawczego lub osiąganie bardzo dobrych wyników w nauce.
+**Art. 95ca.**
 
-§ 2. W przypadkach uzasadnionych względami wychowawczymi można udzielić jednorazowo więcej niż jedną nagrodę. Art. 95cc. § 1. Nagrodą jest:
+§ 1. Dyrektor schroniska dla nieletnich lub zakładu poprawczego może udzielić nieletniemu przebywającemu w schronisku albo zakładzie nagrody lub zastosować wobec niego środek dyscyplinarny.
+
+§ 2. Udzielenie nagrody i stosowanie środka dyscyplinarnego nie może prowadzić do upokarzającego i poniżającego traktowania nieletniego.
+
+**Art. 95cb.**
+
+§ 1. Nagrody udziela się za właściwe zachowanie nieletniego, wyróżniające wykonywanie obowiązków, wzorowe przestrzeganie regulaminu schroniska dla nieletnich albo zakładu poprawczego lub osiąganie bardzo dobrych wyników w nauce.
+
+§ 2. W przypadkach uzasadnionych względami wychowawczymi można udzielić jednorazowo więcej niż jedną nagrodę.
+
+**Art. 95cc.**
+
+§ 1. Nagrodą jest:
 
 - **1)** pochwała;
 - **2)** list pochwalny do rodziców albo opiekuna;
@@ -290,7 +302,13 @@ source: pdf
 
 § 4. Nieletniemu, wobec którego toczy się postępowanie w związku z popełnieniem czynu karalnego, nagrody wymienione w § 1 pkt 4, 7, 8 i 10 oraz § 2 pkt 1 mogą być udzielone za zgodą organu prowadzącego postępowanie.
 
-§ 5. Decyzję o udzieleniu nagrody ze wskazaniem przyczyn jej udzielenia sporządza się na piśmie i włącza do akt osobowych nieletniego. Art. 95cd. Jeżeli zostały ujawnione okoliczności wskazujące na to, że nagroda została udzielona niezasadnie, dyrektor schroniska lub zakładu uchyla decyzję o udzieleniu nagrody. Decyzję o uchyleniu nagrody sporządza się na piśmie i podaje do wiadomości nieletniemu, a jeżeli względy wychowawcze za tym przemawiają – również innym osobom i włącza się do akt osobowych nieletniego. Art. 95ce. § 1. Środek dyscyplinarny stosuje się w przypadku niewykonywania obowiązków wynikających z ustawy lub regulaminu ustalonego w schronisku lub zakładzie, zachowania godzącego w dobro innych osób, ucieczki ze schroniska albo zakładu lub nieusprawiedliwionego niepowrócenia z udzielonego urlopu lub z przepustki.
+§ 5. Decyzję o udzieleniu nagrody ze wskazaniem przyczyn jej udzielenia sporządza się na piśmie i włącza do akt osobowych nieletniego.
+
+**Art. 95cd.** Jeżeli zostały ujawnione okoliczności wskazujące na to, że nagroda została udzielona niezasadnie, dyrektor schroniska lub zakładu uchyla decyzję o udzieleniu nagrody. Decyzję o uchyleniu nagrody sporządza się na piśmie i podaje do wiadomości nieletniemu, a jeżeli względy wychowawcze za tym przemawiają – również innym osobom i włącza się do akt osobowych nieletniego.
+
+**Art. 95ce.**
+
+§ 1. Środek dyscyplinarny stosuje się w przypadku niewykonywania obowiązków wynikających z ustawy lub regulaminu ustalonego w schronisku lub zakładzie, zachowania godzącego w dobro innych osób, ucieczki ze schroniska albo zakładu lub nieusprawiedliwionego niepowrócenia z udzielonego urlopu lub z przepustki.
 
 § 2. Za jedno przewinienie stosuje się jeden środek dyscyplinarny. W przypadku gdy nieletni popełnił więcej przewinień, stosuje się jeden środek dyscyplinarny odpowiednio surowszy.
 
@@ -300,7 +318,11 @@ source: pdf
 
 § 5. Przed zastosowaniem środka dyscyplinarnego dyrektor schroniska lub zakładu albo upoważniony pracownik pedagogiczny wysłuchuje nieletniego i zasięga opinii zespołu diagnostyczno-korekcyjnego lub zespołu diagnostycznego.
 
-§ 6. Decyzję o zastosowaniu środka dyscyplinarnego ze wskazaniem przyczyn jego zastosowania sporządza się na piśmie i podaje się do wiadomości nieletniemu wraz z pouczeniem o prawie do złożenia skargi do sędziego rodzinnego sprawującego nadzór nad schroniskiem albo zakładem i włącza się do akt osobowych nieletniego. Sędzia rodzinny sprawujący nadzór nad schroniskiem albo zakładem może uchylić decyzję dyrektora. Art. 95cf. § 1. Środkiem dyscyplinarnym jest:
+§ 6. Decyzję o zastosowaniu środka dyscyplinarnego ze wskazaniem przyczyn jego zastosowania sporządza się na piśmie i podaje się do wiadomości nieletniemu wraz z pouczeniem o prawie do złożenia skargi do sędziego rodzinnego sprawującego nadzór nad schroniskiem albo zakładem i włącza się do akt osobowych nieletniego. Sędzia rodzinny sprawujący nadzór nad schroniskiem albo zakładem może uchylić decyzję dyrektora.
+
+**Art. 95cf.**
+
+§ 1. Środkiem dyscyplinarnym jest:
 
 - **1)** upomnienie;
 - **2)** nagana;
@@ -312,7 +334,11 @@ source: pdf
 - **8)** cofnięcie zgody albo nieudzielanie zgody na udział w imprezach, zajęciach oświatowych i sportowych oraz szkoleniach poza schroniskiem albo zakładem na okres do 3 miesięcy;
 - **9)** cofnięcie zgody albo nieudzielanie zgody na wyjście poza teren schroniska albo zakładu na okres do 3 miesięcy.
 
-§ 2. W przypadku nieletniego umieszczonego w zakładzie poprawczym środkiem dyscyplinarnym jest również nieudzielanie przepustki lub urlopu przez okres nie dłuższy niż 5 miesięcy w razie ucieczki z zakładu lub nieusprawiedliwionego niepowrócenia z udzielonego urlopu lub przepustki z zakładu. Art. 95cg. § 1. Jeżeli zostały ujawnione okoliczności wskazujące na to, że środek dyscyplinarny został zastosowany niezasadnie, dyrektor schroniska lub zakładu uchyla decyzję o zastosowaniu środka dyscyplinarnego.
+§ 2. W przypadku nieletniego umieszczonego w zakładzie poprawczym środkiem dyscyplinarnym jest również nieudzielanie przepustki lub urlopu przez okres nie dłuższy niż 5 miesięcy w razie ucieczki z zakładu lub nieusprawiedliwionego niepowrócenia z udzielonego urlopu lub przepustki z zakładu.
+
+**Art. 95cg.**
+
+§ 1. Jeżeli zostały ujawnione okoliczności wskazujące na to, że środek dyscyplinarny został zastosowany niezasadnie, dyrektor schroniska lub zakładu uchyla decyzję o zastosowaniu środka dyscyplinarnego.
 
 § 2. W przypadkach uzasadnionych względami wychowawczymi, w szczególności jeżeli nieletni przeprosił pokrzywdzonego oraz naprawił szkodę, można zawiesić wykonanie środka dyscyplinarnego na okres do 3 miesięcy, zamienić go na inny, skrócić lub darować go.
 

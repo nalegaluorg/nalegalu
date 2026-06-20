@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy „Uniwersytet Medyczny w Lublinie”
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy "Uniwersytet Medyczny w Lublinie"
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

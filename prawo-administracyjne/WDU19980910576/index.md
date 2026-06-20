@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o samorządzie województwa
+# Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa.
 
 *USTAWA z dnia 5 czerwca 1998 r.*
 
@@ -232,7 +232,9 @@ source: pdf
 
 13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym mowa w ust. 11.
 
-14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski. <Art. 10d. Województwo planuje, koordynuje, monitoruje i ewaluuje działania na rzecz rozwoju umiejętności mieszkańców województwa i promowania idei uczenia się przez całe życie, w tym kształcenia i szkolenia zawodowego. Realizacja tych zadań jest wspierana przez wojewódzki zespół koordynacji do spraw polityki umiejętności, o którym mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).>
+14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski.
+
+**Art. 10d.** Województwo planuje, koordynuje, monitoruje i ewaluuje działania na rzecz rozwoju umiejętności mieszkańców województwa i promowania idei uczenia się przez całe życie, w tym kształcenia i szkolenia zawodowego. Realizacja tych zadań jest wspierana przez wojewódzki zespół koordynacji do spraw polityki umiejętności, o którym mowa w ustawie z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).
 
 #### Rozdział 2 Zakres działalności
 
@@ -244,7 +246,10 @@ source: pdf
 - **2)** pobudzanie aktywności gospodarczej;
 - **3)** podnoszenie poziomu konkurencyjności i innowacyjności gospodarki województwa;
 - **4)** zachowanie wartości środowiska kulturowego i przyrodniczego przy uwzględnieniu potrzeb przyszłych pokoleń;
-- **5)** kształtowanie i utrzymanie ładu przestrzennego; <6) rozwój umiejętności mieszkańców i promowanie idei uczenia się przez całe życie.> 1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846).
+- **5)** kształtowanie i utrzymanie ładu przestrzennego;
+- **6)** rozwój umiejętności mieszkańców i promowanie idei uczenia się przez całe życie.
+
+1a. (uchylony) 1aa. Strategia rozwoju województwa jest spójna ze średniookresową strategią rozwoju kraju i krajową strategią rozwoju regionalnego, o której mowa w art. 14a ust. 1 pkt 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846).
 
 1b. W strategii rozwoju województwa wydziela się okres niewykraczający poza okres objęty aktualnie obowiązującą średniookresową strategią rozwoju kraju.
 
@@ -266,7 +271,8 @@ source: pdf
 
 - **1)** tworzenie warunków rozwoju gospodarczego, w tym kreowanie rynku pracy;
 - **2)** utrzymanie i rozbudowa infrastruktury społecznej i technicznej o znaczeniu wojewódzkim;
-- **3)** pozyskiwanie i łączenie środków finansowych: publicznych i prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej; [4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia obywateli;] <4) wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia oraz rozwoju umiejętności mieszkańców;>
+- **3)** pozyskiwanie i łączenie środków finansowych: publicznych i prywatnych, w celu realizacji zadań z zakresu użyteczności publicznej;
+- **4)** wspieranie i prowadzenie działań na rzecz podnoszenia poziomu wykształcenia oraz rozwoju umiejętności mieszkańców;
 - **5)** racjonalne korzystanie z zasobów przyrody oraz kształtowanie środowiska naturalnego, zgodnie z zasadą zrównoważonego rozwoju;
 - **5a)** tworzenie warunków do prowadzenia działań na rzecz ochrony klimatu oraz wdrażania działań adaptacyjnych do zmian klimatu, o których mowa w art. 18a ust. 5 pkt 5 lit. b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. );
 - **6)** wspieranie rozwoju nauki i współpracy między sferą nauki i gospodarki, popieranie postępu technologicznego oraz innowacji;

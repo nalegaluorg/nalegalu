@@ -192,6 +192,7 @@ VI. Oddział chorób zakaźnych
 3. Szatnia dla personelu oddziału chorób zakaźnych nie może znajdować się w obrębie tego oddziału.
 4. Oddział chorób zakaźnych wyposaża się w urządzenia umożliwiające kontakt pacjenta z odwiedzającym.
 VII. Oddział chorób płuc i gruźlicy
+Oddział chorób płuc i gruźlicy składa się z:
 1) pomieszczeń przeznaczonych dla pacjentów z chorobami płuc i gruźlicą nieprątkujących, które spełniają wymagania określone w części II;
 2) zespołu pomieszczeń dla pacjentów z gruźlicą prątkujących, który spełnia wymagania określone w części VI.
 VIII. Oddział psychiatryczny
@@ -412,6 +413,4 @@ SZCZEGÓŁOWE WYMAGANIA, JAKIM POWINNY ODPOWIADAĆ POMIESZCZENIA I URZĄDZENIA S
 #### Rozdział 6 Wymagania dotyczące instalacji
 
 #### Rozdział 7 Przepis końcowy
-
-##### Oddział chorób płuc i gruźlicy składa się z:
 

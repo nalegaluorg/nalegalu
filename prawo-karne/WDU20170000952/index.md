@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz ustawy o pomocy osobom uprawnionym do alimentów
+# Ustawa z dnia 23 marca 2017 r. o zmianie ustawy - Kodeks karny oraz ustawy o pomocy osobom uprawnionym do alimentów
 
 *USTAWA z dnia 23 marca 2017 r.*
 

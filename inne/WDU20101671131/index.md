@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dowodach osobistych
+# Ustawa z dnia 6 sierpnia 2010 r. o dowodach osobistych
 
 *USTAWA z dnia 6 sierpnia 2010 r.*
 
@@ -222,7 +222,9 @@ source: pdf
 
 1. Warstwa elektroniczna dowodu osobistego jest zabezpieczona przed nieuprawnionym odczytem i nieuprawnioną zmianą danych w niej zamieszczonych.
 
-2. Dane posiadacza dowodu osobistego zapisane w warstwie elektronicznej dowodu osobistego są zabezpieczone w sposób umożliwiający stwierdzenie, że zostały zamieszczone przez uprawniony do tego organ. Art. 12ca. Uprawnione do korzystania z dostępu do danych biometrycznych zamieszczonych w warstwie elektronicznej dowodu osobistego w zakresie odcisków palców na potrzeby weryfikacji autentyczności dowodu osobistego lub tożsamości jego posiadacza są podmioty, o których mowa w art. 66 ust. 3 pkt 1–11.
+2. Dane posiadacza dowodu osobistego zapisane w warstwie elektronicznej dowodu osobistego są zabezpieczone w sposób umożliwiający stwierdzenie, że zostały zamieszczone przez uprawniony do tego organ.
+
+**Art. 12ca.** Uprawnione do korzystania z dostępu do danych biometrycznych zamieszczonych w warstwie elektronicznej dowodu osobistego w zakresie odcisków palców na potrzeby weryfikacji autentyczności dowodu osobistego lub tożsamości jego posiadacza są podmioty, o których mowa w art. 66 ust. 3 pkt 1–11.
 
 **Art. 12d.**
 
@@ -960,7 +962,7 @@ source: pdf
 
 1. Udostępniając dane w trybie ograniczonej teletransmisji danych, porównuje się przekazywane przez uprawniony podmiot dane z danymi zawartymi w Rejestrze Dowodów Osobistych. [Udostępnienie danych w tym trybie potwierdza istnienie albo nieistnienie ważnego dowodu osobistego zawierającego określony zakres danych.] <1a. W przypadku pozytywnego wyniku porównania danych z dowodu osobistego z danymi zawartymi w Rejestrze Dowodów Osobistych uprawniony podmiot otrzymuje raport o zgodności danych. Raport potwierdza istnienie ważnego dowodu osobistego zawierającego określony zestaw danych.
 
-1b. W przypadku negatywnego wyniku porównania danych z dowodu osobistego z danymi zawartymi w Rejestrze Dowodów Osobistych uprawniony podmiot otrzymuje raport o niezgodności danych. Raport potwierdza, która z porównywanych danych została zweryfikowana negatywnie, a w przypadku gdy dokument jest unieważniony – informację o jego unieważnieniu.>
+1b. W przypadku negatywnego wyniku porównania danych z dowodu osobistego z danymi zawartymi w Rejestrze Dowodów Osobistych uprawniony podmiot otrzymuje raport o niezgodności danych. Raport potwierdza, która z porównywanych danych została zweryfikowana negatywnie, a w przypadku gdy dokument jest unieważniony – informację o jego unieważnieniu.
 
 2. W trybie ograniczonej teletransmisji danych porównaniu podlegają:
 
@@ -985,7 +987,11 @@ source: pdf
 
 5. Podmiotom wymienionym w ust. 4, realizującym na podstawie ustaw szczególnych zadania publiczne, dane w trybie ograniczonej teletransmisji danych udostępnia się nieodpłatnie.
 
-6. Podmiotom wymienionym w ust. 4 pkt 2, nierealizującym zadań publicznych na podstawie ustaw szczególnych, dane w trybie ograniczonej teletransmisji danych udostępnia się odpłatnie. <Art. 68a. 1. W celu potwierdzenia tożsamości posiadacza dowodu osobistego, po uzyskaniu pozytywnego wyniku porównania danych z dowodu osobistego z danymi zawartymi w Rejestrze Dowodów Osobistych w trybie ograniczonej teletransmisji danych, z Rejestru Dowodów Osobistych udostępnia się w trybie pełnej teletransmisji danych fotografię, o której mowa w art. 29 ust. 1, następującym podmiotom:
+6. Podmiotom wymienionym w ust. 4 pkt 2, nierealizującym zadań publicznych na podstawie ustaw szczególnych, dane w trybie ograniczonej teletransmisji danych udostępnia się odpłatnie.
+
+**Art. 68a.**
+
+1. W celu potwierdzenia tożsamości posiadacza dowodu osobistego, po uzyskaniu pozytywnego wyniku porównania danych z dowodu osobistego z danymi zawartymi w Rejestrze Dowodów Osobistych w trybie ograniczonej teletransmisji danych, z Rejestru Dowodów Osobistych udostępnia się w trybie pełnej teletransmisji danych fotografię, o której mowa w art. 29 ust. 1, następującym podmiotom:
 
 - **1)** dostawcy usług komunikacji elektronicznej, o którym mowa w art. 2 pkt 6 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820);
 - **2)** dostawcom usług płatniczych, o których mowa w art. 4 ust. 2 pkt 4, 6 i 11 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069);
@@ -1003,7 +1009,7 @@ source: pdf
 
 4. Udostępnianiu w trybie pełnej teletransmisji danych podlega fotografia zamieszczona w ostatnim wydanym dowodzie osobistym, który w dniu dokonywania jego weryfikacji w trybie ograniczonej teletransmisji danych jest dokumentem ważnym.
 
-5. Udostępnianie fotografii, o którym mowa w ust. 1, następuje nieodpłatnie.>
+5. Udostępnianie fotografii, o którym mowa w ust. 1, następuje nieodpłatnie.
 
 **Art. 69.**
 

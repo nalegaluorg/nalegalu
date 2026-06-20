@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pożyczkach premiowych.
+# Ustawa z dnia 5 kwietnia 1939 r. o pożyczkach premiowych.
 
 *USTAWA z dnia 5 kwietnia 1939 r.*
 

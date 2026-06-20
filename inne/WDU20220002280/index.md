@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o medycynie laboratoryjnej
+# Ustawa z dnia 15 września 2022 r. o medycynie laboratoryjnej
 
 *USTAWA z dnia 15 września 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-11-09 |
 | Ostatnia zmiana | 2025-10-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.pdf) |
-
-Art. 144–151. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1422,7 +1420,7 @@ Art. 144–151. (pominięte)
 - **10)** wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
 - **11)** elementy zabezpieczające przed fałszerstwem uwzględniające minimalne zabezpieczenia dla dokumentów publicznych kategorii drugiej określone w przepisach wydanych na podstawie art. 7 ust. 5 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych. <5a. Dokument „Prawo wykonywania zawodu diagnosty laboratoryjnego”, o którym mowa w ust. 1, jest wydawany w formie spersonalizowanej dwustronnej karty identyfikacyjnej, a w przypadku osób posiadających obywatelstwo polskie może być udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
 
-5b. Dokument „Prawo wykonywania zawodu diagnosty laboratoryjnego” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 5 pkt 1–7 i 9.>
+5b. Dokument „Prawo wykonywania zawodu diagnosty laboratoryjnego” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 5 pkt 1–7 i 9.
 
 6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Krajowej Rady, określi, w drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu diagnosty laboratoryjnego” oraz szczegółowe rodzaje zabezpieczenia go przed sfałszowaniem lub użyciem przez osobę nieuprawnioną, kierując się koniecznością zapewnienia ochrony danych osobowych oraz sposobem użytkowania dokumentu.
 
@@ -2151,6 +2149,8 @@ Art. 144–151. (pominięte)
 **Art. 143.** Jeżeli sprawca czynu, o którym mowa w art. 142 ust. 1, działa w celu osiągnięcia korzyści majątkowej albo wprowadza w błąd co do posiadania takiego uprawnienia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 144–151.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

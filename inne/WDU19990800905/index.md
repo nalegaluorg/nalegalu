@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przypadków, w których nie stosuje się ograniczeń dotyczących zaciągania niektórych zobowiązań finansowych przez jednostki samorządu terytorialnego, oraz inne podmioty sektora finansów publicznych, z wyjątkiem Skarbu Państwa.
+# Rozporządzenie Rady Ministrów z dnia 28 września 1999 r. w sprawie przypadków, w których nie stosuje się ograniczeń dotyczących zaciągania niektórych zobowiązań finansowych przez jednostki samorządu terytorialnego oraz inne podmioty sektora finansów publicznych, z wyjątkiem Skarbu Państwa.
 
 | Pole | Wartość |
 |---|---|

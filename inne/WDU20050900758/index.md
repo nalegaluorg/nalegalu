@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo geologiczne i górnicze oraz ustawy o odpadach
+# Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz ustawy o odpadach
 
 *USTAWA z dnia 22 kwietnia 2005 r.*
 

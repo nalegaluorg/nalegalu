@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zużytym sprzęcie elektrycznym i elektronicznym
+# Ustawa z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym
 
 *USTAWA z dnia 11 września 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-10-23 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1688/text.pdf) |
-
-Art. 99–111. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1064,6 +1062,8 @@ Art. 99–111. (pominięte)
 2. Za wykroczenia, o których mowa w art. 95–97, odpowiada jak sprawca także ten, kto na podstawie przepisu prawa, decyzji właściwego organu, umowy lub faktycznego wykonywania zajmuje się sprawami gospodarczymi osoby fizycznej, osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, w zakresie wprowadzania do obrotu sprzętu lub gospodarowania zużytym sprzętem.
 
 #### Rozdział 15 Zmiany w przepisach obowiązujących
+
+**Art. 99–111.** (pominięte)
 
 #### Rozdział 16 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
+# Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego
 
 *USTAWA z dnia 7 grudnia 2006 r.*
 

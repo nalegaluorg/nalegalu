@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacji – Centrum Badania Opinii Społecznej
+# Ustawa z dnia 20 lutego 1997 r. o fundacji - Centrum Badania Opinii Społecznej.
 
 *USTAWA z dnia 20 lutego 1997 r.*
 

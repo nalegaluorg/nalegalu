@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przekształceniach własnościowych w przemyśle cukrowniczym
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o przekształceniach własnościowych w przemyśle cukrowniczym
 
 *USTAWA z dnia 20 maja 2021 r.*
 

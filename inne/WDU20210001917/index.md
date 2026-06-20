@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku akcyzowym
+# Ustawa z dnia 17 września 2021 r. o zmianie ustawy o podatku akcyzowym
 
 *USTAWA z dnia 17 września 2021 r.*
 

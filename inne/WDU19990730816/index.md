@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wysokości wynagrodzenia za czynności arbitrów.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 20 sierpnia 1999 r. w sprawie wysokości wynagrodzenia za czynności arbitrów.
 
 | Pole | Wartość |
 |---|---|

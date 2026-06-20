@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Komitecie do Spraw Europejskich
+# Ustawa z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich
 
 *USTAWA z dnia 27 sierpnia 2009 r.*
 
@@ -92,7 +92,9 @@ source: pdf
 
 2. Przewodniczący Komitetu przedstawia Radzie Ministrów półroczne sprawozdania z realizacji planu, o którym mowa w ust. 1.
 
-**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej. Art. 9–16. (pominięte)
+**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+**Art. 9–16.** (pominięte)
 
 **Art. 17.**
 

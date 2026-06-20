@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 czerwca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zbywaniu nieruchomości z rozliczeniem "lokal za grunt"
 
 | Pole | Wartość |
 |---|---|
@@ -318,7 +318,9 @@ c) ust. 3 otrzymuje brzmienie: „3. W przypadku przedsięwzięć, o których mo
 
 - **4)** liczbie i powierzchni użytkowej lokali i budynków wniesionych jako wkład niepieniężny do spółek, o których mowa w art. 12 ust. 1 – w terminie 14 dni od dnia upływu kwartału, którego dotyczą te informacje.
 
-2. Właściwy miejscowo wojewoda przekazuje informacje, o których mowa w ust. 1, zestawione dla obszaru danego województwa, ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 45 dni od dnia upływu kwartału, którego dotyczą te informacje. Art. 15–19. (pominięte)
+2. Właściwy miejscowo wojewoda przekazuje informacje, o których mowa w ust. 1, zestawione dla obszaru danego województwa, ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 45 dni od dnia upływu kwartału, którego dotyczą te informacje.
+
+**Art. 15–19.** (pominięte)
 
 **Art. 20.** (uchylony)
 

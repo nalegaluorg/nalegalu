@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim
+# Ustawa z dnia 12 września 2025 r. o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim
 
 *USTAWA z dnia 12 września 2025 r.*
 

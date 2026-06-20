@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Uniwersytetu Mikołaja Kopernika w Toruniu
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Uniwersytetu Mikołaja Kopernika w Toruniu
 
 | Pole | Wartość |
 |---|---|

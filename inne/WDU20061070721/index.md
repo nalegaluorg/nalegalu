@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o komercjalizacji i prywatyzacji oraz o zmianie innych ustaw
+# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz o zmianie innych ustaw
 
 *USTAWA z dnia 12 maja 2006 r.*
 

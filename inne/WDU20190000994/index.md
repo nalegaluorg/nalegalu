@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
 
 | Pole | Wartość |
 |---|---|
@@ -33,7 +33,6 @@ poz. 125) oraz zmian wynikających z przepisów ogłoszonych przez dniem 16 maja
 Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 13 kwietnia 2016 r.
 o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
-Art. 15–18. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -153,6 +152,8 @@ Art. 15–18. (pominięte)
 **Art. 14.** Orzekanie w sprawach o czyny, o których mowa w art. 11–13, następuje w trybie przepisów Kodeksu postępowania karnego.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących i przepis końcowy
+
+**Art. 15–18.** (pominięte)
 
 **Art. 19.** Tworzy się system zgłaszania.
 

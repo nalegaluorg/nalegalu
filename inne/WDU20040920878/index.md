@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o języku polskim
+# Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o języku polskim
 
 *USTAWA z dnia 2 kwietnia 2004 r.*
 

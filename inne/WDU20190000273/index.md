@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy
+# Ustawa z dnia 31 stycznia 2019 r. o zmianie ustawy - Kodeks wyborczy
 
 *USTAWA z dnia 31 stycznia 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej
 
 | Pole | Wartość |
 |---|---|

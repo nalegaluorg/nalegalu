@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o gospodarce nieruchomościami
+# Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o gospodarce nieruchomościami
 
 *USTAWA z dnia 15 kwietnia 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o planowaniu i zagospodarowaniu przestrzennym
+# Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym
 
 *USTAWA z dnia 27 marca 2003 r.*
 
@@ -26,9 +26,6 @@ source: pdf
 | Data wydania | 2003-05-10 |
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.pdf) |
-
-Art. 9–13. (uchylone)
-Art. 68–82. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -240,7 +237,9 @@ Art. 68–82. (pominięte)
 
 - **1)** w sposób umożliwiający aktywny udział interesariuszy, w tym osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami;
 - **2)** z poszanowaniem jawności i sprawności postępowania w sprawie sporządzania aktów planowania przestrzennego;
-- **3)** z użyciem opracowanych w niespecjalistycznym języku informacji o sporządzanych aktach planowania przestrzennego, w szczególności wyjaśniających konsekwencje sporządzanych aktów planowania przestrzennego. <Art. 8f. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa na wniosek interesariusza, w zakresie określonym we wniosku, od dnia następującego po dniu otrzymania wniosku do dnia następującego po dniu otrzymania rezygnacji przekazuje interesariuszowi za pomocą poczty elektronicznej informacje o każdorazowym udostępnieniu w Rejestrze Urbanistycznym, zwanym dalej „Rejestrem”, danych lub informacji, o których mowa w art. 67h.>
+- **3)** z użyciem opracowanych w niespecjalistycznym języku informacji o sporządzanych aktach planowania przestrzennego, w szczególności wyjaśniających konsekwencje sporządzanych aktów planowania przestrzennego.
+
+**Art. 8f.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa na wniosek interesariusza, w zakresie określonym we wniosku, od dnia następującego po dniu otrzymania wniosku do dnia następującego po dniu otrzymania rezygnacji przekazuje interesariuszowi za pomocą poczty elektronicznej informacje o każdorazowym udostępnieniu w Rejestrze Urbanistycznym, zwanym dalej „Rejestrem”, danych lub informacji, o których mowa w art. 67h.
 
 **Art. 8g.**
 
@@ -248,7 +247,7 @@ Art. 68–82. (pominięte)
 
 2. Składający wniosek do projektu aktu planowania przestrzennego, uwagę, o której mowa w art. 8i ust. 1 pkt 1, oraz wniosek o sporządzenie lub zmianę aktu planowania przestrzennego podaje swoje imię i nazwisko albo nazwę oraz adres zamieszkania albo siedziby oraz adres poczty elektronicznej, o ile taki posiada, a także wskazuje, czy jest właścicielem lub użytkownikiem wieczystym nieruchomości objętej wnioskiem lub uwagą, oraz może podać dodatkowe dane do kontaktu takie jak adres do korespondencji lub numer telefonu. <3. Składający wniosek, o którym mowa w art. 8f, podaje adres poczty elektronicznej, na który mają być przekazywane informacje.
 
-4. Administratorem danych osobowych, o których mowa w ust. 2 i 3, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. Dane te usuwa się w terminie 30 dni od dnia otrzymania rezygnacji, o której mowa w art. 8f.>
+4. Administratorem danych osobowych, o których mowa w ust. 2 i 3, jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa. Dane te usuwa się w terminie 30 dni od dnia otrzymania rezygnacji, o której mowa w art. 8f.
 
 5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, wzór formularza, o którym mowa w ust. 1, w tym w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), mając na względzie łatwość stosowania formularza oraz zapewnienie przejrzystości danych zamieszczanych w formularzu.
 
@@ -319,6 +318,8 @@ Art. 68–82. (pominięte)
 
 #### Rozdział 2 Planowanie przestrzenne w gminie
 
+**Art. 9–13.** (uchylone)
+
 **Art. 13a.**
 
 1. Dla obszaru gminy, z wyłączeniem morskich wód wewnętrznych oraz terenów zamkniętych innych niż ustalane przez ministra właściwego do spraw transportu, rada gminy uchwala plan ogólny gminy, zwany dalej „planem ogólnym”.
@@ -350,8 +351,9 @@ Art. 68–82. (pominięte)
 
 7. Plan ogólny jest aktem prawa miejscowego.
 
-**Art. 13b.** Ustalenia planu ogólnego określa się, uwzględniając uwarunkowania rozwoju przestrzennego gminy, w szczególności: <1) politykę przestrzenną gminy określoną w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego;>
+**Art. 13b.** Ustalenia planu ogólnego określa się, uwzględniając uwarunkowania rozwoju przestrzennego gminy, w szczególności:
 
+- **1)** politykę przestrzenną gminy określoną w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego;
 - **2)** ustalenia planu zagospodarowania przestrzennego województwa;
 - **3)** znajdujące się na obszarze gminy: 1292 i 1907 oraz z 2025 r. poz. 1168 i 1673), lub ujęte w wojewódzkiej lub gminnej ewidencji zabytków oraz dobra kultury współczesnej,
     - **a)** formy ochrony przyrody oraz ich otuliny,
@@ -377,7 +379,9 @@ Art. 68–82. (pominięte)
 - **4)** rozmieszczenie istniejących i planowanych obiektów infrastruktury społecznej, transportowej i technicznej wraz z obowiązującymi dla nich ograniczeniami w zagospodarowaniu;
 - **5)** rekomendacje i wnioski zawarte w audycie krajobrazowym oraz krajobrazy priorytetowe;
 - **6)** opracowanie ekofizjograficzne w zakresie wymagań, o których mowa w art. 72 ust. 1–3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **7)** zapotrzebowanie na nową zabudowę mieszkaniową w gminie. Art. 13ba. Ustalenia planu ogólnego określa się, uwzględniając granice obszaru, dla którego uchwala się plan ogólny, oraz uwarunkowania rozwoju przestrzennego gminy, o których mowa w art. 13b, aktualne na dzień niewcześniejszy niż dzień wystąpienia o opinie i uzgodnienia, o których mowa w art. 13i ust. 3 pkt 5.
+- **7)** zapotrzebowanie na nową zabudowę mieszkaniową w gminie.
+
+**Art. 13ba.** Ustalenia planu ogólnego określa się, uwzględniając granice obszaru, dla którego uchwala się plan ogólny, oraz uwarunkowania rozwoju przestrzennego gminy, o których mowa w art. 13b, aktualne na dzień niewcześniejszy niż dzień wystąpienia o opinie i uzgodnienia, o których mowa w art. 13i ust. 3 pkt 5.
 
 **Art. 13c.**
 
@@ -492,18 +496,21 @@ Art. 68–82. (pominięte)
 
 - **1)** ogłasza w sposób określony w art. 8h ust. 1 o podjęciu uchwały o przystąpieniu do sporządzania planu ogólnego, określając sposoby i miejsce składania wniosków do projektu planu ogólnego oraz termin ich składania, niekrótszy jednak niż 21 dni od dnia ogłoszenia;
 - **2)** zawiadamia o podjęciu uchwały o przystąpieniu do sporządzania planu ogólnego instytucje i organy właściwe do uzgadniania i opiniowania projektu planu ogólnego, określając termin składania wniosków do projektu planu ogólnego, niekrótszy jednak niż 21 dni od dnia zawiadomienia;
-- **3)** sporządza projekt planu ogólnego wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana; <4) udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem i prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **3)** sporządza projekt planu ogólnego wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;
+- **4)** udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem i prognozą oddziaływania na środowisko, o ile jest wymagana;
 - **5)** występuje o: z 2026 r. poz. 69), i uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji, – marszałka województwa w zakresie: – – udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, – – udokumentowanych wód podziemnych, – właściwego organu nadzoru górniczego w zakresie zagospodarowania terenów górniczych, – starosty jako właściwego organu ochrony środowiska w zakresie terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, – właściwego państwowego wojewódzkiego inspektora sanitarnego, – właściwego organu Państwowej Straży Pożarnej i wojewódzkiego inspektora ochrony środowiska w zakresie zagospodarowania terenów w sąsiedztwie zakładów o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, w przypadku gdy sposób zagospodarowania terenów zwiększa ryzyko lub skutki poważnych awarii przemysłowych, oraz zmian, o których mowa w art. 250 ust. 5 i 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w istniejących zakładach o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, – Prezesa Państwowej Agencji Atomistyki w zakresie lokalizacji obiektów jądrowych i składowisk odpadów promieniotwórczych – w przypadku projektów planów ogólnych obejmujących obszary, na których zlokalizowano obiekty jądrowe lub składowiska odpadów promieniotwórczych, – Spółki Celowej w rozumieniu art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531) w zakresie dotyczącym lokalizacji Inwestycji i Inwestycji Towarzyszącej w rozumieniu art. 2 pkt 3 i 4 tej ustawy oraz obszaru otoczenia Centralnego Portu Komunikacyjnego, o którym mowa w tej ustawie, – właściwego terytorialnie nadleśniczego, – operatora systemu przesyłowego elektroenergetycznego w zakresie sposobu zagospodarowania gruntów leżących w odległości niewiększej niż: – – 25 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej wynosi 220 kV, – – 40 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 220 kV, lecz jest niewiększe niż 400 kV, – – 70 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 400 kV, – – 25 m od osi linii kablowej HVDC 450 kV oraz żyły powrotnej, – operatora systemu przesyłowego gazowego w zakresie terenów leżących w odległości niewiększej niż: – – 65 m od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 m od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – operatora systemu dystrybucyjnego gazowego w zakresie terenów leżących w odległości niewiększej niż: – – 65 m od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 m od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – – 35 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 50 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy większej niż 500 mm, – podmiotu zajmującego się transportem ropy naftowej lub produktów naftowych rurociągami przesyłowymi dalekosiężnymi w zakresie terenów leżących w odległości niewiększej niż 20 m od osi istniejącego rurociągu przesyłowego dalekosiężnego służącego do transportu ropy naftowej lub produktów naftowych, – ministra właściwego do spraw rozwoju wsi w zakresie kształtowania rolniczej przestrzeni produkcyjnej i rozwoju produkcji rolniczej, – wojewody, zarządu województwa, zarządu powiatu w zakresie odpowiednich zadań rządowych i samorządowych, – zarządu województwa w zakresie uwzględnienia rekomendacji i wniosków zawartych w audycie krajobrazowym oraz ustaleń zawartych w planie zagospodarowania przestrzennego województwa, – regionalnego dyrektora ochrony środowiska, jeżeli odstąpiono od przeprowadzenia strategicznej oceny oddziaływania na środowisko, – właściwego wojewódzkiego konserwatora zabytków w odniesieniu do wskaźników i parametrów zabudowy i zagospodarowania terenu, o których mowa w art. 13e ust. 2 i 3, w zakresie ochrony zabytków i opieki nad zabytkami, – właściwych organów wojskowych, ochrony granic oraz bezpieczeństwa państwa, – właściwych zarządców dróg w zakresie ustaleń dotyczących realizacji inwestycji drogowych, – dyrektora właściwego urzędu morskiego w zakresie pasa technicznego, pasa ochronnego oraz morskich portów i przystani, – właściwych zarządców infrastruktury kolejowej, – Prezesa Urzędu Transportu Kolejowego, jeżeli sposób zagospodarowania linii kolejowej o znaczeniu państwowym oraz gruntów w jej sąsiedztwie lub zmiana tego sposobu mogą mieć wpływ na bezpieczeństwo ruchu kolejowego lub rozwój sieci kolejowych, – właściwych organów w zakresie ustalonym w art. 86 ust. 7 i art. 87 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176),
     - **a)** opinie o projekcie planu ogólnego do: – gminnej lub innej właściwej, w rozumieniu art. 8, komisji urbanistyczno-architektonicznej, – wójtów, burmistrzów albo prezydentów miast gmin sąsiednich, – zarządu związku metropolitalnego, jeżeli gmina jest członkiem tego związku, – ministra właściwego do spraw zdrowia w zakresie zagospodarowania obszarów uzdrowisk oraz obszarów ochrony uzdrowiskowej, – ministra właściwego do spraw środowiska w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U.
     - **b)** uzgodnienie projektu planu ogólnego z: – dyrektorem parku narodowego w zakresie ustaleń mogących mieć wpływ na ochronę przyrody parku narodowego, w części dotyczącej parku narodowego i jego otuliny, – regionalnym dyrektorem ochrony środowiska w zakresie ustaleń mogących: – – mieć negatywny wpływ na cele ochrony rezerwatu przyrody w części dotyczącej rezerwatu przyrody i jego otuliny, – – mieć negatywny wpływ na ochronę przyrody parku krajobrazowego w części dotyczącej parku krajobrazowego i jego otuliny, – – mieć negatywny wpływ na ochronę przyrody obszaru chronionego krajobrazu w części dotyczącej obszaru chronionego krajobrazu, – – znacząco negatywnie oddziaływać na obszar Natura 2000, w części dotyczącej istniejącego lub projektowanego obszaru Natura 2000, – dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie dotyczącym zabudowy i zagospodarowania terenu położonego na obszarach szczególnego zagrożenia powodzią;
 
-- **6)** wprowadza zmiany do projektu planu ogólnego wynikające z: <7) udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;>
+- **6)** wprowadza zmiany do projektu planu ogólnego wynikające z:
     - **a)** uzyskanych opinii,
     - **b)** dokonanych uzgodnień;
 
+- **7)** udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;
 - **8)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych;
 - **9)** przeprowadza konsultacje społeczne, a następnie wprowadza zmiany do projektu planu ogólnego wynikające z tych konsultacji;
-- **10)** ponawia w niezbędnym zakresie czynności, o których mowa w pkt 4, pkt 5 lit. b i pkt 6 lit. b; <11) udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **10)** ponawia w niezbędnym zakresie czynności, o których mowa w pkt 4, pkt 5 lit. b i pkt 6 lit. b;
+- **11)** udostępnia w Rejestrze projekt planu ogólnego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;
 - **12)** przedstawia radzie gminy projekt planu ogólnego wraz z raportem, o którym mowa w art. 8k ust. 2.
 
 **Art. 13j.**
@@ -619,9 +626,7 @@ Art. 68–82. (pominięte)
 
 4. Plan miejscowy przewidujący możliwość lokalizacji budynków umożliwia również lokalizację zamontowanych na budynku instalacji odnawialnych źródeł energii wykorzystujących do wytwarzania energii wyłącznie energię promieniowania słonecznego oraz mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68), również w przypadku innego przeznaczenia terenu niż produkcyjne, chyba że ustalenia planu miejscowego zakazują lokalizacji takich instalacji.
 
-5. Plan miejscowy przewidujący możliwość lokalizacji budynków umożliwia również lokalizację budowli ochronnych, o których mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz.
-
-- **1705)** .
+5. Plan miejscowy przewidujący możliwość lokalizacji budynków umożliwia również lokalizację budowli ochronnych, o których mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907 oraz z 2025 r. poz. 1705).
 
 **Art. 16.**
 
@@ -638,8 +643,8 @@ Art. 68–82. (pominięte)
 - **1)** ogłasza w sposób określony w art. 8h ust. 1 o podjęciu uchwały o przystąpieniu do sporządzania planu miejscowego, określając sposoby i miejsce składania wniosków do projektu planu miejscowego oraz termin ich składania, niekrótszy jednak niż 21 dni od dnia ogłoszenia;
 - **2)** zawiadamia o podjęciu uchwały o przystąpieniu do sporządzania planu miejscowego instytucje i organy właściwe do uzgadniania i opiniowania projektu planu miejscowego, określając termin składania wniosków do projektu planu miejscowego, niekrótszy jednak niż 21 dni od dnia zawiadomienia;
 - **3)** (uchylony)
-- **4)** sporządza projekt planu miejscowego wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;
-- **5)** (uchylony) <5a) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem i prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **4)** sporządza projekt planu miejscowego wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana; 5) (uchylony)
+- **5a)** udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem i prognozą oddziaływania na środowisko, o ile jest wymagana;
 - **6)** występuje o:
     - **a)** opinie o projekcie planu miejscowego do: – gminnej lub innej właściwej, w rozumieniu art. 8, komisji urbanistyczno-architektonicznej, – wójtów, burmistrzów gmin albo prezydentów miast, graniczących z obszarem objętym planem miejscowym, w zakresie rozmieszczenia inwestycji celu publicznego o znaczeniu lokalnym, – regionalnego dyrektora ochrony środowiska, jeżeli odstąpiono od przeprowadzenia strategicznej oceny oddziaływania na środowisko, – marszałka województwa w zakresie: – – udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 3 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, innych niż złoża strategiczne, – – udokumentowanych wód podziemnych, – (uchylone) – właściwego organu Państwowej Straży Pożarnej i wojewódzkiego inspektora ochrony środowiska w zakresie lokalizacji nowych zakładów o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, nowych inwestycji i zagospodarowania terenów w sąsiedztwie zakładów o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej, w przypadku gdy te inwestycje lub sposób zagospodarowania terenów zwiększają ryzyko lub skutki poważnych awarii przemysłowych, oraz zmian, o których mowa w art. 250 ust. 5 i 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w istniejących zakładach o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej oraz właściwego organu Państwowej Straży Pożarnej w zakresie potrzeb dotyczących zapewnienia wody do celów przeciwpożarowych oraz dojazdu dla pojazdów jednostek ochrony przeciwpożarowej, – właściwego państwowego wojewódzkiego inspektora sanitarnego, – starosty, jako właściwego organu ochrony środowiska w zakresie terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy, – operatora systemu przesyłowego elektroenergetycznego w zakresie sposobu zagospodarowania gruntów leżących w odległości niewiększej niż: – – 25 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej wynosi 220 kV, – – 40 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 220 kV, lecz jest niewiększe niż 400 kV, – – 70 m od osi napowietrznej linii elektroenergetycznej najwyższych napięć, w przypadku gdy napięcie znamionowe tej linii elektroenergetycznej przekracza 400 kV, – – 25 m od osi linii kablowej HVDC 450 kV oraz żyły powrotnej, – operatora systemu przesyłowego gazowego w zakresie sposobu zagospodarowania gruntów leżących w odległości niewiększej niż: – – 65 metrów od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 metrów od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – operatora systemu dystrybucyjnego gazowego w zakresie terenów leżących w odległości niewiększej niż: – – 65 m od osi gazociągu wysokiego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 100 m od osi gazociągu wysokiego ciśnienia o średnicy większej niż 500 mm, – – 35 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy mniejszej niż 500 mm lub równej 500 mm, – – 50 m od osi gazociągu podwyższonego średniego ciśnienia o średnicy większej niż 500 mm, – podmiotu zajmującego się transportem ropy naftowej lub produktów naftowych rurociągami przesyłowymi dalekosiężnymi w zakresie terenów leżących w odległości niewiększej niż 20 m od osi istniejącego rurociągu przesyłowego dalekosiężnego służącego do transportu ropy naftowej lub produktów naftowych, – właściwego zarządcy infrastruktury kolejowej w zakresie dotyczącym sposobu zagospodarowania obszarów kolejowych i terenów przyległych do obszarów kolejowych, – dyrektora zarządu zlewni Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie wpływu ustaleń planu na funkcjonowanie melioracji wodnych oraz
     - **b)** uzgodnienie projektu planu miejscowego z: – wojewodą, zarządem województwa, zarządem powiatu w zakresie odpowiednich zadań rządowych i samorządowych, – organami właściwymi do uzgadniania projektu planu miejscowego na podstawie przepisów odrębnych, – właściwym zarządcą drogi, jeżeli sposób zagospodarowania gruntów przyległych do pasa drogowego lub zmiana tego sposobu mogą mieć wpływ na ruch drogowy lub samą drogę, – właściwymi organami wojskowymi, ochrony granic oraz bezpieczeństwa państwa, – dyrektorem właściwego urzędu morskiego w zakresie zagospodarowania pasa technicznego, pasa ochronnego oraz morskich portów i przystani, – właściwym organem nadzoru górniczego w zakresie zagospodarowania terenów górniczych, – ministrem właściwym do spraw zdrowia w zakresie zagospodarowania obszarów ochrony uzdrowiskowej, – właściwym wojewódzkim konserwatorem zabytków w zakresie ochrony zabytków i opieki nad zabytkami, – wojewodą, w zakresie planu miejscowego zmieniającego plan miejscowy, o którym mowa w art. 37na ust. 1, – zarządem województwa w zakresie uwzględnienia rekomendacji i wniosków zawartych w audycie krajobrazowym, – dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie dotyczącym zabudowy i zagospodarowania terenu położonego na obszarach szczególnego zagrożenia powodzią, – Prezesem Urzędu Transportu Kolejowego, jeżeli sposób zagospodarowania linii kolejowej o znaczeniu państwowym oraz gruntów w jej sąsiedztwie lub zmiana tego sposobu mogą mieć wpływ na bezpieczeństwo ruchu kolejowego lub rozwój sieci kolejowych, – podmiotem zarządzającym w zakresie zagospodarowania właściwego portu lub przystani morskiej oraz – ministrem właściwym do spraw środowiska w zakresie udokumentowanych złóż kopalin, o których mowa w art. 10 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, i uznanych za strategiczne złóż kopalin, o których mowa w art. 10 ust. 3 tej ustawy, a także w zakresie kompleksów podziemnego składowania dwutlenku węgla i podziemnych bezzbiornikowych magazynów substancji, oraz – (uchylone) – Spółką Celową w rozumieniu art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym w zakresie dotyczącym lokalizacji Inwestycji i Inwestycji Towarzyszących w rozumieniu art. 2 pkt 3 i 4 tej ustawy oraz obszaru otoczenia Centralnego Portu Komunikacyjnego, o którym mowa w tej ustawie, oraz
@@ -647,16 +652,17 @@ Art. 68–82. (pominięte)
 
 - **7)** (uchylony)
 - **8)** (uchylony)
-- **9)** wprowadza zmiany do projektu planu miejscowego wynikające z:
+- **9)** wprowadza zmiany do projektu planu miejscowego wynikające z: 10) (uchylony)
     - **a)** uzyskanych opinii,
     - **b)** dokonanych uzgodnień;
 
-- **10)** (uchylony) <10a) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;>
+- **10a)** udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;
 - **11)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych;
 - **12)** (uchylony)
 - **13)** przeprowadza konsultacje społeczne, a następnie wprowadza zmiany do projektu planu miejscowego wynikające z tych konsultacji;
 - **13a)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 5a, pkt 6 lit. b i pkt 9 lit. b;
-- **13b)** jeżeli w wyniku czynności określonych w pkt 13 lub 13a w projekcie planu miejscowego wprowadzono zmiany w zakresie dotyczącym lokalizacji przedsięwzięć mogących znacząco oddziaływać na środowisko, ponawia czynności, o których mowa w pkt 10a–13, w zakresie tych zmian; <13c) udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **13b)** jeżeli w wyniku czynności określonych w pkt 13 lub 13a w projekcie planu miejscowego wprowadzono zmiany w zakresie dotyczącym lokalizacji przedsięwzięć mogących znacząco oddziaływać na środowisko, ponawia czynności, o których mowa w pkt 10a–13, w zakresie tych zmian;
+- **13c)** udostępnia w Rejestrze projekt planu miejscowego wraz z uzasadnieniem, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;
 - **14)** przedstawia radzie gminy projekt planu miejscowego wraz z raportem, o którym mowa w art. 8k ust. 2.
 
 **Art. 17a.** (uchylony)
@@ -769,7 +775,8 @@ Art. 68–82. (pominięte)
 4. W ramach postępowania uproszczonego wójt, burmistrz albo prezydent miasta:
 
 - **1)** ogłasza w sposób określony w art. 8h ust. 1 o przystąpieniu do sporządzania planu miejscowego albo jego zmiany z zastosowaniem postępowania uproszczonego;
-- **2)** sporządza projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana; <3) udostępnia w Rejestrze projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **2)** sporządza projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;
+- **3)** udostępnia w Rejestrze projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana;
 - **4)** jednocześnie:
     - **a)** występuje do wojewody o wyrażenie zgody na zastosowanie postępowania uproszczonego,
     - **b)** występuje o opinie, o których mowa w art. 17 pkt 6 lit. a,
@@ -781,7 +788,8 @@ Art. 68–82. (pominięte)
     - **b)** dokonanych uzgodnień,
     - **c)** konsultacji społecznych;
 
-- **6)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 3, pkt 4 lit. c oraz pkt 5 lit. b, a jeżeli wprowadzone zgodnie z pkt 5 zmiany dotyczą lokalizacji przedsięwzięcia mogącego znacząco oddziaływać na środowisko, ponawia także czynności, o których mowa w pkt 4 lit. d i pkt 5 lit. c; <7) udostępnia w Rejestrze projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **6)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 3, pkt 4 lit. c oraz pkt 5 lit. b, a jeżeli wprowadzone zgodnie z pkt 5 zmiany dotyczą lokalizacji przedsięwzięcia mogącego znacząco oddziaływać na środowisko, ponawia także czynności, o których mowa w pkt 4 lit. d i pkt 5 lit. c;
+- **7)** udostępnia w Rejestrze projekt planu miejscowego albo jego zmiany wraz z uzasadnieniem oraz prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;
 - **8)** przedstawia radzie gminy projekt planu miejscowego albo jego zmiany wraz z raportem, o którym mowa w art. 8k ust. 2.
 
 5. W uzasadnieniu, o którym mowa w ust. 4 pkt 2, przedstawia się dodatkowo wyjaśnienie przyczyn zastosowania postępowania uproszczonego.
@@ -955,16 +963,18 @@ Art. 68–82. (pominięte)
 2. Wójt (burmistrz, prezydent miasta) niezwłocznie:
 
 - **1)** ogłasza, w sposób określony w art. 8h ust. 1, o podjęciu uchwały o przystąpieniu do sporządzania projektu uchwały, o której mowa w art. 37a ust. 1;
-- **2)** sporządza projekt uchwały, o której mowa w art. 37a ust. 1; <2a) udostępnia w Rejestrze projekt uchwały, o której mowa w art. 37a ust. 1;>
+- **2)** sporządza projekt uchwały, o której mowa w art. 37a ust. 1;
+- **2a)** udostępnia w Rejestrze projekt uchwały, o której mowa w art. 37a ust. 1;
 - **3)** zasięga opinii regionalnego dyrektora ochrony środowiska o projekcie uchwały, o której mowa w art. 37a ust. 1;
 - **4)** uzgadnia projekt uchwały, o której mowa w art. 37a ust. 1, z wojewódzkim konserwatorem zabytków w zakresie kształtowania zabudowy i zagospodarowania terenu;
 - **5)** uzgadnia projekt uchwały, o której mowa w art. 37a ust. 1, z ministrem właściwym do spraw zdrowia w zakresie zagospodarowania obszarów ochrony uzdrowiskowej;
 - **6)** zasięga opinii właściwego organu Państwowej Straży Pożarnej o projekcie uchwały, o której mowa w art. 37a ust. 1;
 - **7)** zasięga opinii marszałka województwa o projekcie uchwały, o której mowa w art. 37a ust. 1;
-- **7a)** wprowadza zmiany do projektu uchwały, o której mowa w art. 37a ust. 1, wynikające z: <7b) udostępnia w Rejestrze projekt uchwały, o której mowa w art. 37a ust. 1;>
+- **7a)** wprowadza zmiany do projektu uchwały, o której mowa w art. 37a ust. 1, wynikające z:
     - **a)** uzyskanych opinii,
     - **b)** dokonanych uzgodnień;
 
+- **7b)** udostępnia w Rejestrze projekt uchwały, o której mowa w art. 37a ust. 1;
 - **8)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych;
 - **9)** przeprowadza konsultacje społeczne, a następnie wprowadza zmiany do projektu uchwały, o której mowa w art. 37a ust. 1, wynikające z konsultacji społecznych;
 - **10)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 2a, 4, 5 i pkt 7a lit. b;
@@ -1013,14 +1023,38 @@ Art. 68–82. (pominięte)
 
 11. Kara pieniężna stanowi dochód gminy.
 
-**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta). Art. 37ea. 1. Na wniosek inwestora złożony za pośrednictwem wójta, burmistrza albo prezydenta miasta rada gminy może uchwalić zintegrowany plan inwestycyjny. 2. Zintegrowany plan inwestycyjny obejmuje obszar inwestycji głównej oraz inwestycji uzupełniającej. 3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego. 4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym. Art. 37eb. 1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego. 2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin niedłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania. 3. Jeżeli inwestor nie usunie braków, o których mowa w ust. 2, w terminie, wójt, burmistrz albo prezydent miasta wydaje postanowienie o pozostawieniu wniosku, o którym mowa w art. 37ea ust. 1, bez rozpoznania, na które służy zażalenie do wojewody. Do postanowienia stosuje się przepisy Kodeksu postępowania administracyjnego. 4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2: <1) udostępnia w Rejestrze,>
+**Art. 37e.** W sprawach nieuregulowanych, dotyczących kar pieniężnych, o których mowa w art. 37d, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują wójtowi (burmistrzowi, prezydentowi miasta).
 
-- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4. Art. 37ec. 1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
+**Art. 37ea.**
+
+1. Na wniosek inwestora złożony za pośrednictwem wójta, burmistrza albo prezydenta miasta rada gminy może uchwalić zintegrowany plan inwestycyjny.
+
+2. Zintegrowany plan inwestycyjny obejmuje obszar inwestycji głównej oraz inwestycji uzupełniającej.
+
+3. Zintegrowany plan inwestycyjny jest szczególną formą planu miejscowego.
+
+4. Wejście w życie zintegrowanego planu inwestycyjnego powoduje utratę mocy obowiązującej planów miejscowych lub ich części odnoszących się do terenu objętego tym zintegrowanym planem inwestycyjnym.
+
+**Art. 37eb.**
+
+1. Do wniosku, o którym mowa w art. 37ea ust. 1, inwestor dołącza projekt zintegrowanego planu inwestycyjnego.
+
+2. W przypadku gdy do wniosku, o którym mowa w art. 37ea ust. 1, nie dołączono projektu zintegrowanego planu inwestycyjnego albo nie spełnia on wymagań określonych w art. 15 ust. 1–3, art. 16 ust. 1 oraz przepisach wydanych na podstawie art. 16 ust. 2 lub nie zawiera załącznika, o którym mowa w art. 67a ust. 5, wójt, burmistrz albo prezydent miasta wzywa do dołączenia projektu zintegrowanego planu inwestycyjnego spełniającego te wymagania, wskazując termin niedłuższy niż 14 dni, pouczając jednocześnie, że niedołączenie tego projektu spełniającego te wymagania spowoduje pozostawienie wniosku bez rozpoznania.
+
+3. Jeżeli inwestor nie usunie braków, o których mowa w ust. 2, w terminie, wójt, burmistrz albo prezydent miasta wydaje postanowienie o pozostawieniu wniosku, o którym mowa w art. 37ea ust. 1, bez rozpoznania, na które służy zażalenie do wojewody. Do postanowienia stosuje się przepisy Kodeksu postępowania administracyjnego. 4. Wniosek, o którym mowa w art. 37ea ust. 1, wójt, burmistrz albo prezydent miasta, w terminie 3 dni roboczych od dnia jego otrzymania, a w przypadku, o którym mowa w ust. 2, od dnia usunięcia braków, o których mowa w ust. 2:
+
+- **1)** udostępnia w Rejestrze,
+- **2)** przekazuje radzie gminy – ogłaszając o tych czynnościach, w sposób określony w art. 8h ust. 1 pkt 2–4.
+
+**Art. 37ec.**
+
+1. Rada gminy może wyrazić zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego.
 
 2. Jeżeli rada gminy wyraziła zgodę na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego, wójt, burmistrz albo prezydent miasta, kolejno:
 
 - **1)** prowadzi z inwestorem, a w przypadku, o którym mowa w art. 37ed ust. 5, również z osobą trzecią będącą właścicielem lub użytkownikiem wieczystym nieruchomości, na której ma być realizowana inwestycja uzupełniająca, negocjacje w zakresie treści projektu umowy urbanistycznej oraz projektu zintegrowanego planu inwestycyjnego;
-- **2)** wprowadza zmiany do projektu zintegrowanego planu inwestycyjnego, wraz z uzasadnieniem, sporządza prognozę oddziaływania na środowisko, o ile jest wymagana, oraz projekt umowy urbanistycznej, uwzględniając wynik negocjacji, o których mowa w pkt 1; <3) udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, projektem umowy urbanistycznej i prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **2)** wprowadza zmiany do projektu zintegrowanego planu inwestycyjnego, wraz z uzasadnieniem, sporządza prognozę oddziaływania na środowisko, o ile jest wymagana, oraz projekt umowy urbanistycznej, uwzględniając wynik negocjacji, o których mowa w pkt 1;
+- **3)** udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, projektem umowy urbanistycznej i prognozą oddziaływania na środowisko, o ile jest wymagana;
 - **4)** jednocześnie:
     - **a)** występuje o opinie, o których mowa w art. 17 pkt 6 lit. a,
     - **b)** występuje o uzgodnienia, o których mowa w art. 17 pkt 6 lit. b,
@@ -1033,7 +1067,8 @@ Art. 68–82. (pominięte)
     - **c)** przeprowadzonych konsultacji społecznych;
 
 - **6)** w niezbędnym zakresie ponawia czynności, o których mowa w pkt 1, pkt 4 lit. b, i pkt 5 lit. b, a jeżeli wprowadzone zgodnie z pkt 5 zmiany dotyczą lokalizacji przedsięwzięcia mogącego znacząco oddziaływać na środowisko, ponawia także czynności, o których mowa w pkt 4 lit. d i pkt 5 lit. c;
-- **7)** zawiera w imieniu gminy umowę urbanistyczną; <8) udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, umową urbanistyczną, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;>
+- **7)** zawiera w imieniu gminy umowę urbanistyczną;
+- **8)** udostępnia w Rejestrze projekt zintegrowanego planu inwestycyjnego wraz z uzasadnieniem, umową urbanistyczną, prognozą oddziaływania na środowisko, o ile jest wymagana, i raportem, o którym mowa w art. 8k ust. 2;
 - **9)** przedstawia radzie gminy projekt zintegrowanego planu inwestycyjnego stanowiący załącznik do umowy, o której mowa w pkt 7, wraz z raportem o którym mowa w art. 8k ust. 2.
 
 3. Do czasu zawarcia umowy urbanistycznej wójt, burmistrz albo prezydent miasta może odstąpić od negocjacji, informując o tym radę gminy.
@@ -1045,9 +1080,13 @@ Art. 68–82. (pominięte)
 6. W przypadku gdy zintegrowany plan inwestycyjny dotyczy wyłącznie lokalizacji instalacji odnawialnych źródeł energii innych niż elektrownie wiatrowe w rozumieniu ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych oraz nie dotyczy warunków określonych w art. 27b ust. 2:
 
 - **1)** wójt, burmistrz albo prezydent miasta wykonuje czynności określone w ust. 1 bez wyrażenia przez radę gminy zgody na przystąpienie do sporządzenia zintegrowanego planu inwestycyjnego;
-- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1: Art. 37ed. 1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
+- **2)** konsultacje społeczne, o których mowa w art. 8i ust. 1:
     - **a)** pkt 1 i 4, prowadzi się przez okres 14 dni,
     - **b)** pkt 2 i 3, przeprowadza się niewcześniej niż po upływie 3 dni od dnia rozpoczęcia konsultacji społecznych i niepóźniej niż 3 dni przed ostatnim dniem okresu, o którym mowa w lit. a.
+
+**Art. 37ed.**
+
+1. Przez umowę urbanistyczną inwestor zobowiązuje się na rzecz gminy do realizacji inwestycji uzupełniającej.
 
 2. Przez umowę urbanistyczną inwestor może zobowiązać się na rzecz gminy, w szczególności do:
 
@@ -1080,11 +1119,21 @@ Art. 68–82. (pominięte)
 
 13. Uchwała, o której mowa w ust. 12, dotyczy wszystkich umów urbanistycznych zawieranych przez gminę.
 
-14. W uchwale, o której mowa w ust. 12, dopuszcza się ustalenie różnych zasad określania postanowień umów urbanistycznych, biorąc pod uwagę w szczególności rodzaj lub parametry inwestycji głównej. Art. 37ee. W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy. Art. 37ef. 1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
+14. W uchwale, o której mowa w ust. 12, dopuszcza się ustalenie różnych zasad określania postanowień umów urbanistycznych, biorąc pod uwagę w szczególności rodzaj lub parametry inwestycji głównej.
+
+**Art. 37ee.** W negocjacjach poprzedzających zawarcie umowy urbanistycznej bierze udział osoba wyznaczona przez radę gminy, a w przypadku gdy rada gminy nie wyznaczy takiej osoby – przewodniczący rady gminy.
+
+**Art. 37ef.**
+
+1. Rada gminy nie może wnieść poprawek do projektu zintegrowanego planu inwestycyjnego.
 
 2. W przypadku odrzucenia zintegrowanego planu inwestycyjnego rada gminy może podjąć uchwałę o zwróceniu zintegrowanego planu inwestycyjnego do wójta, burmistrza albo prezydenta miasta wraz z propozycjami poprawek do umowy urbanistycznej, w tym do załącznika określającego projekt zintegrowanego planu inwestycyjnego.
 
-3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9. Art. 37eg. 1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
+3. Po otrzymaniu uchwały, o której mowa w ust. 2, wójt, burmistrz albo prezydent miasta ponawia czynności, o których mowa w art. 37ec ust. 2 pkt 1–3, pkt 4 lit. b, pkt 5 lit. b i pkt 7–9.
+
+**Art. 37eg.**
+
+1. Stronami umowy urbanistycznej może być kilku inwestorów, którzy złożyli jeden wniosek o uchwalenie zintegrowanego planu inwestycyjnego.
 
 2. Wójt, burmistrz albo prezydent miasta może prowadzić jedno postępowanie w sprawie uchwalenia zintegrowanego planu inwestycyjnego na podstawie kilku oddzielnych wniosków. W takim przypadku jest zawierana jedna umowa urbanistyczna oraz jest podejmowana jedna uchwała w przedmiocie zintegrowanego planu inwestycyjnego.
 
@@ -1190,7 +1239,11 @@ Art. 68–82. (pominięte)
 
 1. W zakresie nieuregulowanym przepisami art. 37ea–37m do zintegrowanego planu inwestycyjnego i miejscowego planu rewitalizacji stosuje się przepisy dotyczące planu miejscowego.
 
-2. Ilekroć w przepisach ustawy albo przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego, planie miejscowym lub planach zagospodarowania przestrzennego, należy przez to rozumieć również zintegrowany plan inwestycyjny i miejscowy plan rewitalizacji. Art. 37na. 1. Rada Ministrów może wystąpić do wojewody o wydanie zarządzenia w sprawie planu miejscowego dla inwestycji o szczególnym znaczeniu dla ochrony podstawowych interesów bezpieczeństwa Państwa lub gospodarki narodowej, o planowanych kosztach inwestycji wynoszących co najmniej 500 mln zł oraz liczbie nowych miejsc pracy wynoszącej co najmniej 50.
+2. Ilekroć w przepisach ustawy albo przepisach odrębnych jest mowa o miejscowym planie zagospodarowania przestrzennego, planie miejscowym lub planach zagospodarowania przestrzennego, należy przez to rozumieć również zintegrowany plan inwestycyjny i miejscowy plan rewitalizacji.
+
+**Art. 37na.**
+
+1. Rada Ministrów może wystąpić do wojewody o wydanie zarządzenia w sprawie planu miejscowego dla inwestycji o szczególnym znaczeniu dla ochrony podstawowych interesów bezpieczeństwa Państwa lub gospodarki narodowej, o planowanych kosztach inwestycji wynoszących co najmniej 500 mln zł oraz liczbie nowych miejsc pracy wynoszącej co najmniej 50.
 
 2. Po wystąpieniu, o którym mowa w ust. 1, wojewoda:
 
@@ -1267,17 +1320,19 @@ Art. 68–82. (pominięte)
 
 2. Zarząd województwa przed przedłożeniem projektu audytu krajobrazowego do uchwalenia przez sejmik województwa:
 
-- **1)** ogłasza, w sposób określony w art. 8h ust. 1, o przystąpieniu do sporządzania projektu audytu krajobrazowego; <1a) udostępnia w Rejestrze projekt audytu krajobrazowego;>
+- **1)** ogłasza, w sposób określony w art. 8h ust. 1, o przystąpieniu do sporządzania projektu audytu krajobrazowego;
+- **1a)** udostępnia w Rejestrze projekt audytu krajobrazowego;
 - **2)** zasięga opinii o projekcie od:
     - **a)** regionalnego dyrektora ochrony środowiska,
     - **b)** dyrektorów parków narodowych i krajobrazowych położonych w granicach województwa,
     - **c)** wojewódzkiego konserwatora zabytków,
     - **d)** rad gmin położonych na terenie województwa – z zastrzeżeniem, że brak zajęcia stanowiska w terminie 30 dni od dnia otrzymania projektu audytu krajobrazowego uznaje się za wyrażenie pozytywnej opinii o projekcie w przedłożonym brzmieniu;
 
-- **3)** może wprowadzić zmiany wynikające z uzyskanych opinii; <3a) udostępnia w Rejestrze projekt audytu krajobrazowego;>
+- **3)** może wprowadzić zmiany wynikające z uzyskanych opinii;
+- **3a)** udostępnia w Rejestrze projekt audytu krajobrazowego;
 - **4)** ogłasza, w sposób określony w art. 8h ust. 1, o rozpoczęciu konsultacji społecznych;
-- **5)** przeprowadza konsultacje społeczne, a następnie wprowadza do projektu audytu krajobrazowego zmiany wynikające z konsultacji społecznych;
-- **6)** (uchylony) <7) udostępnia w Rejestrze projekt audytu krajobrazowego wraz z raportem, o którym mowa w art. 8k ust. 2;>
+- **5)** przeprowadza konsultacje społeczne, a następnie wprowadza do projektu audytu krajobrazowego zmiany wynikające z konsultacji społecznych; 6) (uchylony)
+- **7)** udostępnia w Rejestrze projekt audytu krajobrazowego wraz z raportem, o którym mowa w art. 8k ust. 2;
 - **8)** przedstawia sejmikowi województwa projekt audytu krajobrazowego.
 
 3. Na zgłoszone przed uchwaleniem audytu krajobrazowego żądanie gminy, której opinia nie została uwzględniona w projekcie audytu krajobrazowego, sejmik województwa rozstrzyga w formie uchwały o zasadności nieuwzględnienia opinii przez zarząd województwa; rozstrzygnięcie sejmiku województwa jest wiążące.
@@ -1354,7 +1409,8 @@ Art. 68–82. (pominięte)
 - **1)** ogłasza, w sposób określony w art. 8h ust. 1, o podjęciu uchwały o przystąpieniu do sporządzania planu, określając sposoby i miejsce składania wniosków do projektu planu oraz termin ich składania, niekrótszy jednak niż 3 miesiące od dnia ogłoszenia;
 - **2)** zawiadamia o podjęciu uchwały o przystąpieniu do sporządzania planu instytucje i organy właściwe do uzgadniania i opiniowania projektu planu, określając termin składania wniosków do projektu planu, niekrótszy jednak niż 3 miesiące od dnia zawiadomienia;
 - **3)** (uchylony)
-- **4)** sporządza projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana; <4a) udostępnia w Rejestrze projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana;>
+- **4)** sporządza projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana;
+- **4a)** udostępnia w Rejestrze projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana;
 - **5)** uzyskuje od wojewódzkiej komisji urbanistyczno-architektonicznej opinię o projekcie planu;
 - **5a)** występuje o uzgodnienie projektu planu z dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie;
 - **5b)** występuje o uzgodnienie projektu planu z ministrem właściwym do spraw środowiska w zakresie udokumentowanych:
@@ -1367,7 +1423,8 @@ Art. 68–82. (pominięte)
     - **a)** uzyskanych opinii,
     - **b)** dokonanych uzgodnień;
 
-- **7)** przedstawia projekt planu ministrowi właściwemu do spraw rozwoju regionalnego w celu stwierdzenia jego zgodności ze średniookresową strategią rozwoju kraju; <7a) udostępnia w Rejestrze projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;>
+- **7)** przedstawia projekt planu ministrowi właściwemu do spraw rozwoju regionalnego w celu stwierdzenia jego zgodności ze średniookresową strategią rozwoju kraju;
+- **7a)** udostępnia w Rejestrze projekt planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana, i wykazem wniosków, o którym mowa w art. 8k ust. 1;
 - **8)** przedstawia sejmikowi województwa projekt planu wraz z wykazem wniosków, o którym mowa w art. 8k ust. 1.
 
 2. Do opiniowania i uzgadniania projektu planu zagospodarowania przestrzennego województwa stosuje się odpowiednio przepisy art. 23–26, z wyjątkiem terminu dokonania uzgodnień i przedstawienia opinii, który wynosi 40 dni od dnia udostępnienia projektu planu wraz z prognozą oddziaływania na środowisko, o ile jest wymagana.
@@ -1795,7 +1852,11 @@ Art. 68–82. (pominięte)
 
 4. Do decyzji, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 Kodeksu postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
 
-5. Do decyzji, o której mowa w ust. 1, nie stosuje się przepisów art. 10 i art. 79a Kodeksu postępowania administracyjnego. Art. 64aa. 1. Stroną postępowania o wydanie decyzji o warunkach zabudowy dotyczącej biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu jest wyłącznie wnioskodawca, podmioty, którym przysługują ograniczone prawa rzeczowe względem nieruchomości lub inne prawa trwale ograniczające własność nieruchomości, oraz właściciele i użytkownicy wieczyści nieruchomości znajdujących się w obszarze, na który inwestycja będzie oddziaływać.
+5. Do decyzji, o której mowa w ust. 1, nie stosuje się przepisów art. 10 i art. 79a Kodeksu postępowania administracyjnego.
+
+**Art. 64aa.**
+
+1. Stroną postępowania o wydanie decyzji o warunkach zabudowy dotyczącej biogazowni rolniczej spełniającej warunki określone w art. 4 ust. 1 ustawy z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu jest wyłącznie wnioskodawca, podmioty, którym przysługują ograniczone prawa rzeczowe względem nieruchomości lub inne prawa trwale ograniczające własność nieruchomości, oraz właściciele i użytkownicy wieczyści nieruchomości znajdujących się w obszarze, na który inwestycja będzie oddziaływać.
 
 2. Do decyzji, o której mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
 
@@ -1874,28 +1935,13 @@ Art. 68–82. (pominięte)
 - **2)** atrybuty zawierające informacje o obiektach przestrzennych określonych w pkt 1. <3b. Dane przestrzenne tworzone dla planu miejscowego obejmują dane, o których mowa w ust. 3, oraz:
 - **1)** lokalizację przestrzenną terenów o różnym przeznaczeniu lub różnych zasadach zagospodarowania w postaci wektorowej w obowiązującym państwowym systemie odniesień przestrzennych;
 - **2)** lokalizację przestrzenną linii zabudowy w postaci wektorowej w obowiązującym państwowym systemie odniesień przestrzennych;
-- **3)** atrybuty zawierające informacje o obiektach przestrzennych określonych w pkt 1 i 2.>
+- **3)** atrybuty zawierające informacje o obiektach przestrzennych określonych w pkt 1 i 2.
 
 4. Zbiór opisuje się metadanymi infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego. <4a. Metadane, o których mowa w ust. 4, są tworzone, aktualizowane i udostępniane w Rejestrze.>
 
 5. Dane przestrzenne tworzone dla aktów planowania przestrzennego stanowią załącznik do uchwały przyjmującej akt planowania przestrzennego lub wydanego zarządzenia zastępczego wojewody w sprawie uchwalenia aktu planowania przestrzennego.
 
-**Art. 67b.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób tworzenia oraz prowadzenia, w tym aktualizacji i udostępniania, zbiorów uwzględniający zakres informacyjny, strukturę, format i rozdzielczość przestrzenną danych gromadzonych w zbiorach oraz zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego, mając na uwadze zapewnienie spójności i aktualności danych dotyczących aktów, o których mowa w art. 67a ust. 2, oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej. [Art. 67c. 1. Organy, o których mowa w art. 67a ust. 1, tworzą i aktualizują dane przestrzenne dla aktów, o których mowa w art. 67a ust. 2, w toku prowadzonej procedury planistycznej, przy czym dane, o których mowa w art. 67a ust. 3 pkt 1 i 2, tworzone są najpóźniej w terminie 30 dni od dnia podjęcia uchwały w sprawie przystąpienia do sporządzenia danego aktu albo jego zmiany. 2. Zbiór podlega aktualizacji i udostępnianiu w ramach infrastruktury informacji przestrzennej najpóźniej w terminie 30 dni od dnia:
-
-- **1)** ogłoszenia w wojewódzkim dzienniku urzędowym aktu albo jego zmiany;
-- **2)** uchwalenia aktu albo jego zmiany – w przypadku aktów niepodlegających ogłoszeniu w wojewódzkim dzienniku urzędowym;
-- **3)** wydania rozstrzygnięcia nadzorczego wojewody;
-- **4)** wydania wyroku sądu administracyjnego dotyczącego aktu;
-- **5)** przekazania danych, o którym mowa w ust. 4 i 5.
-
-3. Organy, o których mowa w art. 67a ust. 1, udostępniają nieodpłatnie dane przestrzenne tworzone dla aktów, o których mowa w art. 67a ust. 2, za pośrednictwem usług, o których mowa w art. 9 ust. 1 pkt 1–3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej.
-
-4. W przypadku zmiany granic gmin polegającej na wyłączeniu części obszaru gminy i jego włączeniu do sąsiedniej gminy, gmina, której obszar wyłączono, przekazuje gminie, do której obszar włączono, najpóźniej w terminie 14 dni od dnia zmiany granic, kopie danych przestrzennych tworzonych dla aktów, o których mowa w art. 67a ust. 2, dotyczących tego obszaru.
-
-5. W przypadku wydania zarządzenia zastępczego w sprawie:
-
-- **1)** przyjęcia miejscowego planu zagospodarowania przestrzennego albo jego zmiany dla obszaru, którego dotyczy bezczynność gminy, w zakresie koniecznym dla lokalizacji inwestycji celu publicznego,
-- **2)** wprowadzenia obszaru udokumentowanego złoża kopaliny albo obszaru udokumentowanego kompleksu podziemnego składowania dwutlenku węgla do studium – dane przestrzenne dla tych aktów tworzy wojewoda, a następnie przekazuje je organowi właściwemu najpóźniej w terminie 14 dni od dnia wydania zarządzenia.] <Rozdział 5b Rejestr Urbanistyczny
+**Art. 67b.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób tworzenia oraz prowadzenia, w tym aktualizacji i udostępniania, zbiorów uwzględniający zakres informacyjny, strukturę, format i rozdzielczość przestrzenną danych gromadzonych w zbiorach oraz zakres informacyjny i strukturę metadanych infrastruktury informacji przestrzennej w zakresie zagospodarowania przestrzennego, mając na uwadze zapewnienie spójności i aktualności danych dotyczących aktów, o których mowa w art. 67a ust. 2, oraz zasadę interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej. <Rozdział 5b Rejestr Urbanistyczny
 
 **Art. 67d.**
 
@@ -1970,9 +2016,11 @@ Art. 68–82. (pominięte)
 
 - **1)** szczegółowe rozwiązania organizacyjno-techniczne Rejestru,
 - **2)** szczegółowy zakres informacji i danych gromadzonych w Rejestrze,
-- **3)** tryb tworzenia, aktualizacji oraz udostępniania informacji i danych, o których mowa w art. 67d ust. 1 – mając na względzie zapewnienie jednolitości, przejrzystości i kompletności informacji i danych gromadzonych i udostępnianych w Rejestrze, a także zapewnienie interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej oraz w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.>
+- **3)** tryb tworzenia, aktualizacji oraz udostępniania informacji i danych, o których mowa w art. 67d ust. 1 – mając na względzie zapewnienie jednolitości, przejrzystości i kompletności informacji i danych gromadzonych i udostępnianych w Rejestrze, a także zapewnienie interoperacyjności, o której mowa w przepisach o infrastrukturze informacji przestrzennej oraz w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 68–82.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

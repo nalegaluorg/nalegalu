@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przetwarzaniu informacji kryminalnych
+# Ustawa z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych
 
 *USTAWA z dnia 6 lipca 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2001-10-05 |
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011101189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.pdf) |
-
-Art. 45–75. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -347,6 +345,8 @@ Art. 45–75. (pominięte)
 **Art. 44.** Kto, wbrew przepisom ustawy, nie zarządza usunięcia bądź nie usuwa informacji kryminalnej z bazy danych Centrum, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 45–75.** (pominięte)
 
 **Art. 76.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
 

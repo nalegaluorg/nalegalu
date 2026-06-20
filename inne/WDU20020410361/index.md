@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustroju miasta stołecznego Warszawy
+# Ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy.
 
 *USTAWA z dnia 15 marca 2002 r.*
 

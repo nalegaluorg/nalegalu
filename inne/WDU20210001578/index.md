@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie dziedzictwa Fryderyka Chopina
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie dziedzictwa Fryderyka Chopina
 
 | Pole | Wartość |
 |---|---|

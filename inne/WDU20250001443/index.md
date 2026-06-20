@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 20 stycznia 2011 r.
 o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
-Art. 11–15. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -122,6 +121,8 @@ Art. 11–15. (pominięte)
 2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie albo karze ograniczenia wolności.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 11–15.** (pominięte)
 
 **Art. 16.** Przepisy ustawy stosuje się do działań i zaniechań funkcjonariuszy publicznych, które nastąpiły od dnia wejścia w życie ustawy.
 

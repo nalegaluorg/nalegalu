@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
+# Ustawa z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
 
 *USTAWA z dnia 7 lipca 2017 r.*
 
@@ -88,9 +88,7 @@ source: pdf
 
 1. Agencja prowadzi wyodrębnioną ewidencję dla działalności związanej z realizacją zadań finansowanych ze środków, o których mowa w art. 6 ust. 1 pkt 1–3, dla działalności finansowanej ze środków, o których mowa w art. 6 ust. 1 pkt 4, oraz dla działalności gospodarczej, w tym obowiązana jest do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
 
-2. Zasady prowadzenia odrębnej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem tych środków, o którym mowa w ust. 1, Agencja określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz.
-
-- **1488)** .
+2. Zasady prowadzenia odrębnej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem tych środków, o którym mowa w ust. 1, Agencja określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488).
 
 **Art. 9.** Łączna kwota dotacji celowych przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez Agencję ze środków niepochodzących z budżetu Unii Europejskiej może wynosić do 100% planowanej wartości kosztorysowej inwestycji.
 

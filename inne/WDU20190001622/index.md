@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
+# Ustawa z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji
 
 *USTAWA z dnia 31 lipca 2019 r.*
 
@@ -99,7 +99,8 @@ source: pdf
 
 1. W sprawach nieuregulowanych w niniejszej ustawie, dotyczących postępowania w sprawie świadczenia uzupełniającego, wypłaty tego świadczenia oraz wydawania orzeczeń, o których mowa w art. 2 ust. 1, stosuje się odpowiednio przepisy:
 
-- **1)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem art. 136 tej ustawy; <1a) ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252, 426, 473 i 507);>
+- **1)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem art. 136 tej ustawy;
+- **1a)** ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252, 426, 473 i 507);
 - **2)** ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2026 r. poz. 505), z wyjątkiem art. 47 tej ustawy;
 - **3)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2025 r. poz. 305 oraz z 2026 r. poz. 26), z wyjątkiem art. 46 tej ustawy;
 - **4)** ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770).
@@ -159,7 +160,9 @@ source: pdf
 
 2. Koszty obsługi, o których mowa w ust. 1, wynoszą łącznie 2 % kwoty przeznaczonej na wypłatę świadczenia uzupełniającego.
 
-3. W przypadku prawa do świadczeń, o których mowa w art. 2 ust. 2, lub ich zbiegu, wypłacanych przez organy właściwe inne niż Zakład Ubezpieczeń Społecznych lub Kasa Rolniczego Ubezpieczenia Społecznego, świadczenie uzupełniające oraz koszty, o których mowa w ust. 1, są finansowane ze środków budżetu państwa. Art. 12–24. (pominięte)
+3. W przypadku prawa do świadczeń, o których mowa w art. 2 ust. 2, lub ich zbiegu, wypłacanych przez organy właściwe inne niż Zakład Ubezpieczeń Społecznych lub Kasa Rolniczego Ubezpieczenia Społecznego, świadczenie uzupełniające oraz koszty, o których mowa w ust. 1, są finansowane ze środków budżetu państwa.
+
+**Art. 12–24.** (pominięte)
 
 **Art. 25.** Koszty obsługi wypłaty świadczenia uzupełniającego i koszty obsługi wniosku, o których mowa w art. 11 ust. 1, w roku 2019 wynoszą łącznie 2,5 % kwoty przeznaczonej na wypłatę świadczenia uzupełniającego.
 

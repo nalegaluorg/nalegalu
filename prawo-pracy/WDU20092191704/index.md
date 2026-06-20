@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks pracy
+# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Kodeks pracy
 
 *USTAWA z dnia 5 listopada 2009 r.*
 

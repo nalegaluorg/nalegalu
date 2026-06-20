@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027
+# Ustawa z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027
 
 *USTAWA z dnia 28 kwietnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-05-20 |
 | Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.pdf) |
-
-Art. 94–130. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1360,6 +1358,8 @@ Art. 94–130. (pominięte)
 2. Warunkiem uzyskania dostępu przez podmioty, o których mowa w ust. 1, jest uprzednie zawarcie przez te podmioty porozumień z gestorami rejestrów, o których mowa w art. 92 ust. 2. Przepisy art. 92 ust. 4–7 stosuje się odpowiednio.
 
 #### Rozdział 19 Zmiany w przepisach
+
+**Art. 94–130.** (pominięte)
 
 #### Rozdział 19a Przepis epizodyczny
 

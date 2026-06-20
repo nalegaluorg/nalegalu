@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne
+# Ustawa z dnia 25 września 2015 r. o zmianie ustawy - Prawo farmaceutyczne
 
 *USTAWA z dnia 25 września 2015 r.*
 

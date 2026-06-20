@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz o zmianie innych ustaw
+# Ustawa z dnia 23 października 2008 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz o zmianie innych ustaw
 
 *USTAWA z dnia 23 października 2008 r.*
 

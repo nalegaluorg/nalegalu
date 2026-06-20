@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
+# Ustawa z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych.
 
 *USTAWA z dnia 21 czerwca 1990 r.*
 
@@ -42,8 +42,8 @@ source: pdf
 - **1)** osoba prawna, która poniosła stratę lub jej organ założycielski,
 - **2)** rada pracownicza,
 - **3)** związek zawodowy,
-- **4)** organ samorządu terytorialnego,
-- **5)** prokurator, <5a) Szef Centralnego Biura Antykorupcyjnego,>
+- **4)** organ samorządu terytorialnego, 5) prokurator,
+- **5a)** Szef Centralnego Biura Antykorupcyjnego,
 - **6)** w sprawach dotyczących sprzedaży budynków i lokali mieszkalnych:
     - **a)** najemca, którego interes prawny został naruszony,
     - **b)** organizacja społeczna reprezentująca tego najemcę.

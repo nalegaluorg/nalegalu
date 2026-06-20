@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodzie tłumacza przysięgłego
+# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o zawodzie tłumacza przysięgłego
 
 *USTAWA z dnia 12 maja 2006 r.*
 

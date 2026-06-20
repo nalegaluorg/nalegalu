@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wymagań w zakresie ochrony środowiska dotyczących budowy i użytkowania strzelnic.
+# Rozporządzenie Ministra Środowiska z dnia 4 kwietnia 2000 r. w sprawie wymagań w zakresie ochrony środowiska dotyczących budowy i użytkowania strzelnic.
 
 *ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 4 kwietnia 2000 r.*
 

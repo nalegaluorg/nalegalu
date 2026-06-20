@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych
+# Ustawa z dnia 22 lipca 2015 r. o zmianie ustawy o finansach publicznych
 
 *USTAWA z dnia 22 lipca 2015 r.*
 

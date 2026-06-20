@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o odwróconym kredycie hipotecznym
+# Ustawa z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym
 
 *USTAWA z dnia 23 października 2014 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2014-11-14 |
 | Ostatnia zmiana | 2025-05-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001585) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1585/text.pdf) |
-
-Art. 34–37. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -291,6 +289,8 @@ Art. 34–37. (pominięte)
 **Art. 33.** Niezwłocznie po ogłoszeniu upadłości banku syndyk masy upadłości składa do właściwego sądu rejonowego wniosek o zmniejszenie sumy hipotecznej do kwoty odpowiadającej całkowitej kwocie do zapłaty, z zastrzeżeniem że odsetki nalicza się do dnia ogłoszenia upadłości banku.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 34–37.** (pominięte)
 
 #### Rozdział 7 Przepis końcowy
 

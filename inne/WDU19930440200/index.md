@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie
+# Ustawa z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie.
 
 *USTAWA z dnia 16 kwietnia 1993 r.*
 

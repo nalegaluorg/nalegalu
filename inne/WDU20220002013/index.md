@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ekozarządzania i audytu (EMAS)
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie ekozarządzania i audytu (EMAS)
 
 | Pole | Wartość |
 |---|---|
@@ -137,7 +137,9 @@ o krajowym systemie ekozarządzania i audytu (EMAS)
 
 2. Organy określone w art. 4 ust. 1 są obowiązane do przekazywania Generalnemu Dyrektorowi Ochrony Środowiska informacji, o których mowa w art. 32 ust. 5 rozporządzenia (WE) nr 1221/2009.
 
-**Art. 10.** Polskie Centrum Akredytacji prowadzi akredytację weryfikatorów środowiskowych zgodnie z przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344 oraz z 2022 r. poz. 974) oraz przepisami rozporządzenia (WE) nr 1221/2009. Art. 11–13. (pominięte)
+**Art. 10.** Polskie Centrum Akredytacji prowadzi akredytację weryfikatorów środowiskowych zgodnie z przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344 oraz z 2022 r. poz. 974) oraz przepisami rozporządzenia (WE) nr 1221/2009.
+
+**Art. 11–13.** (pominięte)
 
 **Art. 14.**
 

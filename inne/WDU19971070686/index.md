@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie terytorialnym
+# Ustawa z dnia 31 lipca 1997 r. o zmianie ustawy o samorządzie terytorialnym.
 
 *USTAWA z dnia 31 lipca 1997 r.*
 

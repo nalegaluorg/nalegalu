@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Służbie Ochrony Państwa
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Służbie Ochrony Państwa
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

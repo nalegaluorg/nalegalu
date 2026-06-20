@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz o zmianie ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej
+# Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz o zmianie ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 18 grudnia 1998 r.*
 

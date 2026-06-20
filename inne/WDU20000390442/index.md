@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe
+# Ustawa z dnia 14 kwietnia 2000 r. o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe.
 
 *USTAWA z dnia 14 kwietnia 2000 r.*
 

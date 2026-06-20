@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz ustawy o finansach publicznych
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz ustawy o finansach publicznych
 
 *USTAWA z dnia 4 listopada 2022 r.*
 
@@ -80,7 +80,9 @@ source: pdf
 - **g)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw gospodarki podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego tego ministra, zbiorcze zestawienie sprawozdań, o których mowa w ust. 1, corocznie w terminie do dnia 31 sierpnia.”;
 - **6)** po art. 13a dodaje się art. 13aa i art. 13ab w brzmieniu: „Art. 13aa. 1. Podmiot, który przekazał sprawozdanie, o którym mowa w art. 13a ust. 1, składa korektę tego sprawozdania, jeżeli co najmniej w jednej pozycji przekazanego sprawozdania dane uległy zmianie o co najmniej 10% wartości, z wyłączeniem przypadku, o którym mowa w art. 13ab. Przepis art. 13a stosuje się odpowiednio.
 
-2. Korektę sprawozdania, o którym mowa w art. 13a ust. 1, składa się wraz z uzasadnieniem przyczyn korekty. Art. 13ab. Jeżeli wartości świadczeń pieniężnych zawarte w sprawozdaniu, o którym mowa w art. 13a ust. 1, uległy zmianie w latach następujących po roku, za który złożono sprawozdanie, zmiany te uwzględnia się w sprawozdaniu za rok, w którym świadczenie pieniężne w zakresie zmienionej wartości jest wymagalne.”;
+2. Korektę sprawozdania, o którym mowa w art. 13a ust. 1, składa się wraz z uzasadnieniem przyczyn korekty.
+
+**Art. 13ab.** Jeżeli wartości świadczeń pieniężnych zawarte w sprawozdaniu, o którym mowa w art. 13a ust. 1, uległy zmianie w latach następujących po roku, za który złożono sprawozdanie, zmiany te uwzględnia się w sprawozdaniu za rok, w którym świadczenie pieniężne w zakresie zmienionej wartości jest wymagalne.”;
 
 - **7)** w art. 13b:
     - **a)** w ust. 2 po wyrazach „suma wartości” dodaje się wyraz „wymagalnych”,

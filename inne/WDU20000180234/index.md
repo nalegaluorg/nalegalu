@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie wzorcowego regulaminu strzelnic.
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca 2000 r. w sprawie wzorcowego regulaminu strzelnic.
 
 *ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 marca 2000 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# Ustawa z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 września 2015 r.*
 
@@ -967,7 +967,10 @@ source: pdf
 
 3. Kierownik strzeżonego ośrodka lub funkcjonariusz odpowiadający za funkcjonowanie aresztu dla cudzoziemców informują o zastosowaniu środka, o którym mowa w ust. 2, Szefa Urzędu oraz przedstawiciela Urzędu Wysokiego Komisarza Narodów Zjednoczonych do Spraw Uchodźców.”;
 
-- **63)** po art. 89c dodaje się art. 89ca i art. 89cb w brzmieniu: „Art. 89ca. Organ Straży Granicznej przekazuje wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, w języku dla nich zrozumiałym, informację o adresie ośrodka recepcyjnego, w którym mają się stawić w terminie 2 dni od dnia zwolnienia ze strzeżonego ośrodka lub aresztu dla cudzoziemców, gdy postępowanie w sprawie udzielenia ochrony międzynarodowej nie zostało zakończone decyzją ostateczną. Art. 89cb. W przypadku gdy Szef Urzędu wydał decyzję o zwolnieniu cudzoziemca ze strzeżonego ośrodka lub aresztu dla cudzoziemców, a cudzoziemiec ten jest osobą niepełnosprawną, w podeszłym wieku, samotnie wychowującą dziecko lub kobietą ciężarną, organ Straży Granicznej właściwy ze względu na miejsce pobytu tej osoby zapewnia jej transport do ośrodka recepcyjnego oraz, w uzasadnionych przypadkach, wyżywienie podczas tego transportu.”;
+- **63)** po art. 89c dodaje się art. 89ca i art. 89cb w brzmieniu: „Art. 89ca. Organ Straży Granicznej przekazuje wnioskodawcy lub osobie, w imieniu której wnioskodawca występuje, w języku dla nich zrozumiałym, informację o adresie ośrodka recepcyjnego, w którym mają się stawić w terminie 2 dni od dnia zwolnienia ze strzeżonego ośrodka lub aresztu dla cudzoziemców, gdy postępowanie w sprawie udzielenia ochrony międzynarodowej nie zostało zakończone decyzją ostateczną.
+
+**Art. 89cb.** W przypadku gdy Szef Urzędu wydał decyzję o zwolnieniu cudzoziemca ze strzeżonego ośrodka lub aresztu dla cudzoziemców, a cudzoziemiec ten jest osobą niepełnosprawną, w podeszłym wieku, samotnie wychowującą dziecko lub kobietą ciężarną, organ Straży Granicznej właściwy ze względu na miejsce pobytu tej osoby zapewnia jej transport do ośrodka recepcyjnego oraz, w uzasadnionych przypadkach, wyżywienie podczas tego transportu.”;
+
 - **64)** po art. 89n dodaje się art. 89na w brzmieniu: „Art. 89na. 1. W przypadku gdy cudzoziemiec:
 - **1)** nie zwrócił dokumentu podróży przewidzianego w Konwencji Genewskiej, gdy był do tego zobowiązany, lub
 - **2)** zawiadomił o utracie dokumentu podróży przewidzianego w Konwencji Genewskiej – Szef Urzędu umieszcza informacje o takim dokumencie w Systemie Informacyjnym Schengen w celu jego zajęcia.

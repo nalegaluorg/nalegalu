@@ -510,9 +510,7 @@ source: pdf
 
 § 1. Sąd Najwyższy umorzy postępowanie w sprawach, w których wniesiono rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego, nierozpoznane do dnia 1 stycznia 2004 r.
 
-§ 2. W sprawach, o których mowa w § 1, strona może, w terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego o umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2. § 2 niezgodny z Konstytucją w zakresie w jakim uprawnia NSA - po rozpoznaniu skargi kasacyjnej organu podatkowego, wniesionej po umożeniu postępowania przez SN, w której rewizję nadzwyczajną wniósł minister właściwy do spraw finansów - do uchylenia wyroku, który nie narusza rażąco prawa lub interesu RP - wyrok TK (Dz.U. z 2007 r. Nr 221, poz.
-
-- **1650)** .
+§ 2. W sprawach, o których mowa w § 1, strona może, w terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego o umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2. § 2 niezgodny z Konstytucją w zakresie w jakim uprawnia NSA - po rozpoznaniu skargi kasacyjnej organu podatkowego, wniesionej po umożeniu postępowania przez SN, w której rewizję nadzwyczajną wniósł minister właściwy do spraw finansów - do uchylenia wyroku, który nie narusza rażąco prawa lub interesu RP - wyrok TK (Dz.U. z 2007 r. Nr 221, poz. 1650).
 
 **Art. 102a.** W sprawach, w których wniosek o rozpoznanie sporu o właściwość między organem administracji publicznej a sądem nie został rozpoznany przez Kolegium Kompetencyjne przy Sądzie Najwyższym do dnia 1 stycznia 2004 r., Sąd Najwyższy umorzy postępowanie. Strona może ponownie wystąpić o rozpoznanie sprawy do właściwego sądu powszechnego albo organu administracji publicznej.
 

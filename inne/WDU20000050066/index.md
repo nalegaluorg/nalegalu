@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie trybu postępowania dotyczącego stwierdzania prawa wykonywania zawodu pielęgniarki i zawodu położnej oraz sposobu prowadzenia rejestru pielęgniarek i rejestru położnych.
+# Rozporządzenie Ministra Zdrowia z dnia 23 grudnia 1999 r. zmieniające rozporządzenie w sprawie trybu postępowania dotyczącego stwierdzania prawa wykonywania zawodu pielęgniarki i zawodu położnej oraz sposobu prowadzenia rejestru pielęgniarek i rejestru położnych.
 
 *ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 23 grudnia 1999 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 *USTAWA Opracowano z dnia 9 czerwca 2011 r. stawie r.*
 

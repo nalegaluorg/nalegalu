@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o kołach gospodyń wiejskich
+# Ustawa z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich
 
 *USTAWA z dnia 9 listopada 2018 r.*
 
@@ -401,7 +401,9 @@ source: pdf
 
 1. Po wykreśleniu koła gospodyń wiejskich z rejestru likwidator odpowiada wobec wierzycieli koła gospodyń wiejskich za wyrządzone im szkody przez niedopełnienie swoich ustawowych obowiązków.
 
-2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru. Art. 28–33. (pominięte)
+2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru.
+
+**Art. 28–33.** (pominięte)
 
 **Art. 34.**
 
@@ -536,19 +538,11 @@ source: pdf
 
 2. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, w danym roku oraz w przypadku zagrożenia przekroczenia tego limitu wdraża mechanizm korygujący określony w art. 23a ust. 5.
 
-**Art. 37.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . Załącznik do ustawy z dnia 9 listopada 2018 r. (Dz. U. z 2025 r. poz.
-
-- **310)**
+**Art. 37.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . Załącznik do ustawy z dnia 9 listopada 2018 r. (Dz. U. z 2025 r. poz. 310)
 
 § 1. Koło gospodyń wiejskich w [nazwa miejscowości] (dalej także: „Koło”) jest dobrowolną, niezależną od administracji rządowej i jednostek samorządu terytorialnego, samorządną, społeczną organizacją mieszkańców wsi, wspierającą rozwój przedsiębiorczości na wsi i aktywnie działającą na rzecz środowisk wiejskich.
 
-§ 2. 1. Siedzibą Koła jest [nazwa miejscowości].
-
-2. Koło może prowadzić działalność także poza swoją siedzibą, w tym na terytorium Rzeczypospolitej Polskiej oraz poza jej granicami.
-
-3. Koło może zrzeszać się z innymi kołami gospodyń wiejskich i tworzyć związki kół gospodyń wiejskich.
-
-4. Koło może posługiwać się nazwą [„nazwa Koła”].
+§ 2. 1. Siedzibą Koła jest [nazwa miejscowości]. 2. Koło może prowadzić działalność także poza swoją siedzibą, w tym na terytorium Rzeczypospolitej Polskiej oraz poza jej granicami. 3. Koło może zrzeszać się z innymi kołami gospodyń wiejskich i tworzyć związki kół gospodyń wiejskich. 4. Koło może posługiwać się nazwą [„nazwa Koła”].
 
 § 3. Celem Koła jest:
 
@@ -561,34 +555,20 @@ source: pdf
 - **7)** rozwój kultury ludowej, w tym w szczególności kultury lokalnej i regionalnej;
 - **8)** wykonywanie innych zadań związanych ze wspieraniem rozwoju przedsiębiorczości na wsi i podejmowaniem działań na rzecz środowisk wiejskich.
 
-§ 4. 1. Koło realizuje swoje cele ze środków pochodzących ze składek członkowskich, dotacji z budżetu państwa lub jednostek samorządu terytorialnego, darowizn, spadków, zapisów, dochodów z własnej działalności, dochodów z majątku koła oraz z ofiarności publicznej.
-
-2. Koło może prowadzić działalność zarobkową i uzyskiwać przychody z tytułu:
+§ 4. 1. Koło realizuje swoje cele ze środków pochodzących ze składek członkowskich, dotacji z budżetu państwa lub jednostek samorządu terytorialnego, darowizn, spadków, zapisów, dochodów z własnej działalności, dochodów z majątku koła oraz z ofiarności publicznej. 2. Koło może prowadzić działalność zarobkową i uzyskiwać przychody z tytułu:
 
 - **1)** sprzedaży wyrobów sztuki ludowej, w tym rękodzieła i rzemiosła ludowego i artystycznego, lub żywności regionalnej;
 - **2)** sprzedaży, najmu lub dzierżawy składników majątkowych;
 - **3)** tytułu odsetek od środków pieniężnych na rachunkach bankowych lub rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych, prowadzonych w związku z wykonywaną działalnością, w tym także odsetek od lokat terminowych oraz innych form oszczędzania, przechowywania lub inwestowania tworzonych na tych rachunkach.
 
-§ 5. 1. Członkami Koła mogą być osoby, których miejscem zamieszkania jest [nazwa miejscowości], które ukończyły 18 lat, jeśli zadeklarują czynny udział w realizacji celów Koła.
-
-2. Za zgodą rodziców lub opiekunów ustawowych w działalności koła mogą brać także osoby, które ukończyły lat 13. Osoby te mogą również tworzyć młodzieżowe i dziecięce organizacje wspomagające realizację celów Koła.
-
-3. Przyjęcie w poczet członków Koła następuje po złożeniu deklaracji członkowskiej oraz podjęciu uchwały Zarządu Koła.
-
-4. Członkostwo w Kole ustaje wskutek:
+§ 5. 1. Członkami Koła mogą być osoby, których miejscem zamieszkania jest [nazwa miejscowości], które ukończyły 18 lat, jeśli zadeklarują czynny udział w realizacji celów Koła. 2. Za zgodą rodziców lub opiekunów ustawowych w działalności koła mogą brać także osoby, które ukończyły lat 13. Osoby te mogą również tworzyć młodzieżowe i dziecięce organizacje wspomagające realizację celów Koła. 3. Przyjęcie w poczet członków Koła następuje po złożeniu deklaracji członkowskiej oraz podjęciu uchwały Zarządu Koła. 4. Członkostwo w Kole ustaje wskutek:
 
 - **1)** śmierci członka;
 - **2)** wystąpienia z Koła;
-- **3)** wykluczenia członka Koła.
-
-5. Każdy członek Koła ma prawo do:
-
+- **3)** wykluczenia członka Koła. 5. Każdy członek Koła ma prawo do:
 - **1)** udziału w pracach Koła;
 - **2)** czynnego i biernego udziału w wyborach do organów Koła;
-- **3)** uczestnictwa w obradach kolegialnych organów Koła, w skład których wchodzi dany członek.
-
-6. Każdy członek Koła ma obowiązek:
-
+- **3)** uczestnictwa w obradach kolegialnych organów Koła, w skład których wchodzi dany członek. 6. Każdy członek Koła ma obowiązek:
 - **1)** udziału w pracach Koła;
 - **2)** uiszczania składek członkowskich, w wysokości i terminach określonych uchwałą Zebrania Członków;
 - **3)** przestrzegania niniejszego statutu oraz uchwał organów Koła;
@@ -599,17 +579,9 @@ source: pdf
 § 7. 1. Organami Koła są:
 
 - **1)** Zebranie Członków;
-- **2)** Zarząd Koła.
+- **2)** Zarząd Koła. 2. Zebranie Członków Koła może powołać Komisję Rewizyjną. 3. Uchwały kolegialnych organów Koła odbywają się w głosowaniu jawnym i zapadają zwykłą większością głosów. Na wniosek każdego członka organu zarządza się głosowanie tajne.
 
-2. Zebranie Członków Koła może powołać Komisję Rewizyjną.
-
-3. Uchwały kolegialnych organów Koła odbywają się w głosowaniu jawnym i zapadają zwykłą większością głosów. Na wniosek każdego członka organu zarządza się głosowanie tajne.
-
-§ 8. 1. Zebranie Członków Koła jest najwyższym organem Koła.
-
-2. W skład Zebrania Członków Koła wchodzą wszyscy członkowie Koła, których nie zawieszono w prawach członka.
-
-3. Do właściwości Zebrania Członków Koła należą:
+§ 8. 1. Zebranie Członków Koła jest najwyższym organem Koła. 2. W skład Zebrania Członków Koła wchodzą wszyscy członkowie Koła, których nie zawieszono w prawach członka. 3. Do właściwości Zebrania Członków Koła należą:
 
 - **1)** rozpatrywanie i zatwierdzanie sprawozdań Zarządu Koła;
 - **2)** wysłuchanie sprawozdania Komisji Rewizyjnej, jeżeli została powołana;
@@ -625,30 +597,17 @@ source: pdf
 - **12)** podejmowanie uchwał w sprawie sposobu pokrycia strat netto z prowadzonej przez koło działalności, w tym działalności zarobkowej;
 - **13)** oznaczanie maksymalnej wysokości jednorazowego zobowiązania oraz najwyższej sumy zobowiązań, jaką Koło może zaciągnąć;
 - **14)** podejmowanie uchwał w sprawie połączenia się, podziału oraz likwidacji Koła;
-- **15)** bieżący nadzór i kontrola działalności Koła.
-
-4. Uchwały w sprawach:
-
+- **15)** bieżący nadzór i kontrola działalności Koła. 4. Uchwały w sprawach:
 - **1)** nabycia, zbycia lub obciążenia nieruchomości Koła,
 - **2)** rozwiązania Koła – podejmowane są większością 2/3 głosów.
 
-§ 9. 1. Zarząd Koła zwołuje Zwyczajne Zebranie Członków Koła co najmniej raz w roku, nie później niż na dzień 30 czerwca każdego roku kalendarzowego.
-
-2. Zarząd Koła zwołuje Nadzwyczajne Zebranie Członków Koła:
+§ 9. 1. Zarząd Koła zwołuje Zwyczajne Zebranie Członków Koła co najmniej raz w roku, nie później niż na dzień 30 czerwca każdego roku kalendarzowego. 2. Zarząd Koła zwołuje Nadzwyczajne Zebranie Członków Koła:
 
 - **1)** z własnej inicjatywy;
 - **2)** na wniosek co najmniej trzech Członków Koła;
-- **3)** na wniosek Komisji Rewizyjnej.
+- **3)** na wniosek Komisji Rewizyjnej. 3. O zebraniu Zarząd Koła zawiadamia członków Koła najpóźniej na 14 dni przed terminem zebrania, przesyłając im proponowany porządek obrad. Jeżeli zebranie zwołane jest na wniosek, termin powinien zostać wyznaczony na dzień przypadający najpóźniej w ciągu trzech tygodni od daty wpłynięcia wniosku. 4. Dla ważności uchwał Zebrania konieczny jest udział co najmniej 1/2 członków Koła. 5. W razie nieodbycia się Zebrania w pierwszym terminie z powodu braku wymaganej liczby członków, Zarząd zwołuje ponowne Zebranie według tego samego porządku obrad. Zebranie zwołane w drugim terminie podejmuje uchwały bez względu na liczbę obecnych członków, z wyjątkiem uchwał w sprawach zmian w statucie oraz określonych w § 8 ust. 4.
 
-3. O zebraniu Zarząd Koła zawiadamia członków Koła najpóźniej na 14 dni przed terminem zebrania, przesyłając im proponowany porządek obrad. Jeżeli zebranie zwołane jest na wniosek, termin powinien zostać wyznaczony na dzień przypadający najpóźniej w ciągu trzech tygodni od daty wpłynięcia wniosku.
-
-4. Dla ważności uchwał Zebrania konieczny jest udział co najmniej 1/2 członków Koła.
-
-5. W razie nieodbycia się Zebrania w pierwszym terminie z powodu braku wymaganej liczby członków, Zarząd zwołuje ponowne Zebranie według tego samego porządku obrad. Zebranie zwołane w drugim terminie podejmuje uchwały bez względu na liczbę obecnych członków, z wyjątkiem uchwał w sprawach zmian w statucie oraz określonych w § 8 ust. 4.
-
-§ 10. 1. W skład Zarządu Koła wchodzą trzy osoby wybierane przez Zebranie Członków na 3-letnią kadencję.
-
-2. W każdym czasie przed upływem kadencji członek Zarządu Koła może zostać odwołany ze składu Zarządu Koła przez Zebranie Członków.
+§ 10. 1. W skład Zarządu Koła wchodzą trzy osoby wybierane przez Zebranie Członków na 3-letnią kadencję. 2. W każdym czasie przed upływem kadencji członek Zarządu Koła może zostać odwołany ze składu Zarządu Koła przez Zebranie Członków.
 
 § 11. Do zadań Zarządu Koła należy:
 
@@ -665,31 +624,21 @@ source: pdf
 - **11)** zaciąganie w imieniu Koła za zgodą Zebrania Członków Koła innych zobowiązań;
 - **12)** dysponowanie majątkiem Koła.
 
-§ 12. 1. Uchwały Zarządu Koła są ostateczne, o ile nie przysługuje od nich odwołanie do Zebrania Członków Koła.
-
-2. Odwołanie od uchwały Zarządu Koła zainteresowany członek Koła może wnieść najpóźniej na najbliższym Zebraniu Członków Koła. Do czasu rozpatrzenia odwołania uchwała Zarządu Koła nie wywiera skutków. Uchwała Zebrania Członków Koła jest ostateczna.
+§ 12. 1. Uchwały Zarządu Koła są ostateczne, o ile nie przysługuje od nich odwołanie do Zebrania Członków Koła. 2. Odwołanie od uchwały Zarządu Koła zainteresowany członek Koła może wnieść najpóźniej na najbliższym Zebraniu Członków Koła. Do czasu rozpatrzenia odwołania uchwała Zarządu Koła nie wywiera skutków. Uchwała Zebrania Członków Koła jest ostateczna.
 
 § 13. 1. Członek Koła może zostać zawieszony w prawach członka, jeżeli:
 
 - **1)** zalega z płatnością składek członkowskich za co najmniej dwa pełne okresy;
 - **2)** nie przestrzega postanowień statutu lub uchwał organów Koła;
-- **3)** nie bierze udziału w pracach Koła.
-
-2. Członek Koła może zostać wykluczony, jeżeli pomimo zawieszenia go w prawach członka i wezwania przez Zarząd Koła do realizacji obowiązków, w dalszym ciągu ich nie wykonuje – w terminie miesiąca od dnia wezwania.
+- **3)** nie bierze udziału w pracach Koła. 2. Członek Koła może zostać wykluczony, jeżeli pomimo zawieszenia go w prawach członka i wezwania przez Zarząd Koła do realizacji obowiązków, w dalszym ciągu ich nie wykonuje – w terminie miesiąca od dnia wezwania.
 
 § 14. Koło reprezentuje na zewnątrz co najmniej dwóch członków Zarządu działających łącznie.
 
 § 15. 1. Zysk netto z działalności zarobkowej Koła może zostać przeznaczony:
 
 - **1)** na cele statutowe Koła;
-- **2)** na tworzenie kapitałów własnych Koła.
+- **2)** na tworzenie kapitałów własnych Koła. 2. Strata netto może zostać pokryta z kapitałów własnych Koła.
 
-2. Strata netto może zostać pokryta z kapitałów własnych Koła.
-
-§ 16. 1. Koło może zostać zlikwidowane uchwałą Zebrania Członków Koła.
-
-2. W razie podjęcia uchwały o likwidacji Koła, Zebranie Członków Koła wyznacza likwidatora Koła lub powierza tę funkcję jednemu z członków Zarządu Koła.
-
-3. Majątek pozostały po likwidacji Koła staje się własnością Członków Koła w dniu likwidacji.
+§ 16. 1. Koło może zostać zlikwidowane uchwałą Zebrania Członków Koła. 2. W razie podjęcia uchwały o likwidacji Koła, Zebranie Członków Koła wyznacza likwidatora Koła lub powierza tę funkcję jednemu z członków Zarządu Koła. 3. Majątek pozostały po likwidacji Koła staje się własnością Członków Koła w dniu likwidacji.
 
 

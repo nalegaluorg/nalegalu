@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw
+# Ustawa z dnia 7 listopada 2014 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 listopada 2014 r.*
 
@@ -83,7 +83,11 @@ source: pdf
 - **1)** dane zawarte we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji są kompletne i zgodne z prawdą;
 - **2)** znane mi są warunki uzyskania pozwolenia na przeprowadzenie testów metod redukcji emisji i spełniam warunki określone w art. 13da ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2012 r. poz. 1244 oraz z 2014 r. poz. 1554).”.
 
-6. Klauzula, o której mowa w ust. 5, zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. Art. 13db. 1. Pozwolenie na przeprowadzenie testów metod redukcji emisji wydaje, w drodze decyzji, dyrektor urzędu morskiego, właściwy dla obszaru, w którym planuje się przeprowadzenie testów metod redukcji emisji, na okres nie dłuższy niż 18 miesięcy, z tym że okres ważności pozwolenia nie obejmuje okresu, o którym mowa w ust. 4.
+6. Klauzula, o której mowa w ust. 5, zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+**Art. 13db.**
+
+1. Pozwolenie na przeprowadzenie testów metod redukcji emisji wydaje, w drodze decyzji, dyrektor urzędu morskiego, właściwy dla obszaru, w którym planuje się przeprowadzenie testów metod redukcji emisji, na okres nie dłuższy niż 18 miesięcy, z tym że okres ważności pozwolenia nie obejmuje okresu, o którym mowa w ust. 4.
 
 2. Wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji dotyczącego:
 
@@ -104,9 +108,23 @@ source: pdf
 - **3)** opis metody redukcji emisji, której będą przeprowadzane testy;
 - **4)** termin i oznaczenie miejsca przeprowadzania testów metod redukcji emisji.
 
-4. Przy określaniu terminu przeprowadzania testów metod redukcji emisji, uwzględnia się termin wskazany we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji, z tym że termin rozpoczęcia testów nie może przypadać wcześniej niż po upływie 7 miesięcy od dnia wydania pozwolenia. Art. 13dc. Dyrektor urzędu morskiego odmawia, w drodze decyzji, wydania pozwolenia na przeprowadzenie testów metod redukcji emisji, w przypadku gdy wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji nie spełnia warunków, o których mowa w art. 13da ust. 4 i 5. Art. 13dd. Dyrektor urzędu morskiego cofa, w drodze decyzji, pozwolenie na przeprowadzenie testów metod redukcji emisji, w przypadku gdy armator nie spełnia warunków, o których mowa w art. 13da ust. 1. Art. 13de. Podczas przeprowadzania testów metod redukcji emisji dopuszcza się stosowanie paliwa żeglugowego niespełniającego wymagań określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4. Art. 13df. 1. Armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego, który wydał pozwolenie na ich przeprowadzenie, w terminie nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+4. Przy określaniu terminu przeprowadzania testów metod redukcji emisji, uwzględnia się termin wskazany we wniosku o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji, z tym że termin rozpoczęcia testów nie może przypadać wcześniej niż po upływie 7 miesięcy od dnia wydania pozwolenia.
 
-2. Dyrektor urzędu morskiego udostępnia wyniki testów metod redukcji emisji w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Art. 13dg. 1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. Nr 93, poz. 899 oraz z 2011 r. Nr 228, poz. 1368) dokonują notyfikowane jednostki certyfikujące, o których mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm. ).
+**Art. 13dc.** Dyrektor urzędu morskiego odmawia, w drodze decyzji, wydania pozwolenia na przeprowadzenie testów metod redukcji emisji, w przypadku gdy wniosek o wydanie pozwolenia na przeprowadzenie testów metod redukcji emisji nie spełnia warunków, o których mowa w art. 13da ust. 4 i 5.
+
+**Art. 13dd.** Dyrektor urzędu morskiego cofa, w drodze decyzji, pozwolenie na przeprowadzenie testów metod redukcji emisji, w przypadku gdy armator nie spełnia warunków, o których mowa w art. 13da ust. 1.
+
+**Art. 13de.** Podczas przeprowadzania testów metod redukcji emisji dopuszcza się stosowanie paliwa żeglugowego niespełniającego wymagań określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4.
+
+**Art. 13df.**
+
+1. Armator przekazuje wyniki testów metod redukcji emisji dyrektorowi urzędu morskiego, który wydał pozwolenie na ich przeprowadzenie, w terminie nie później niż po upływie 5 miesięcy od dnia ich zakończenia.
+
+2. Dyrektor urzędu morskiego udostępnia wyniki testów metod redukcji emisji w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
+
+**Art. 13dg.**
+
+1. Zatwierdzenia metod redukcji emisji objętych przepisami ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. Nr 93, poz. 899 oraz z 2011 r. Nr 228, poz. 1368) dokonują notyfikowane jednostki certyfikujące, o których mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935, z późn. zm. ).
 
 2. Stosowanie metod redukcji emisji nieobjętych przepisami ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim jest dopuszczalne pod warunkiem ich zatwierdzenia zgodnie z przepisami Unii Europejskiej dotyczącymi metod redukcji emisji oraz z uwzględnieniem:
 

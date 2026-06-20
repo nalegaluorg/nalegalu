@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Funduszu Kolejowym oraz ustawy o transporcie kolejowym
+# Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o Funduszu Kolejowym oraz ustawy o transporcie kolejowym
 
 *USTAWA z dnia 28 lipca 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geologiczne i górnicze oraz ustawy o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 1 kwietnia 2016 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz ustawy o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 1 kwietnia 2016 r.*
 

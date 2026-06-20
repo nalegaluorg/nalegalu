@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o cmentarzach i chowaniu zmarłych
+# Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o cmentarzach i chowaniu zmarłych
 
 *USTAWA z dnia 26 maja 2011 r.*
 

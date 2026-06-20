@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy o zawodzie lekarza
+# Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy o zawodzie lekarza.
 
 *USTAWA z dnia 21 czerwca 2001 r.*
 

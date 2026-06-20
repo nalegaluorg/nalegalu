@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o fundacjach oraz ustawy – Prawo o stowarzyszeniach
+# Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

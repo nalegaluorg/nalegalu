@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
+# Ustawa z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
 
 *USTAWA z dnia 24 lutego 2017 r.*
 

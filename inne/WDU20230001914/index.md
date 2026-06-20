@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich
+# Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich
 
 *USTAWA z dnia 28 lipca 2023 r.*
 

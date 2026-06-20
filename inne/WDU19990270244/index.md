@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie organizacji i zasad wewnętrznego postępowania Sądu Najwyższego.
+# Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 marca 1999 r. zmieniające rozporządzenie w sprawie organizacji i zasad wewnętrznego postępowania Sądu Najwyższego.
 
 | Pole | Wartość |
 |---|---|

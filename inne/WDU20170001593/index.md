@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odnawialnych źródłach energii
+# Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o odnawialnych źródłach energii
 
 *USTAWA z dnia 20 lipca 2017 r.*
 

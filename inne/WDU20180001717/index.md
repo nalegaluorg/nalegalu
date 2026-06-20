@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji oraz ustawy o opłatach abonamentowych
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o radiofonii i telewizji oraz ustawy o opłatach abonamentowych
 
 *USTAWA z dnia 20 lipca 2018 r.*
 

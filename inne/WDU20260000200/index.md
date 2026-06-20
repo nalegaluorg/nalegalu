@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kuratorach sądowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kuratorach sądowych
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +39,6 @@ source: pdf
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 27 lipca 2001 r.
 o kuratorach sądowych
-Art. 92–97. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1310,6 +1309,8 @@ Art. 92–97. (pominięte)
 3. Ryczałt, o którym mowa w ust. 1 i 2, przysługuje również kuratorowi zawodowemu.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 92–97.** (pominięte)
 
 **Art. 98.**
 

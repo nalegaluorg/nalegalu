@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego
+# Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy - Kodeks postępowania administracyjnego
 
 *USTAWA z dnia 11 sierpnia 2021 r.*
 

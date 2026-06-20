@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw
+# Ustawa z dnia 4 listopada 1999 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 4 listopada 1999 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo spółdzielcze
+# Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy - Prawo spółdzielcze
 
 *USTAWA z dnia 25 lipca 2008 r.*
 

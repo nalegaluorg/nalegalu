@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
+# Ustawa z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 
 *USTAWA z dnia 13 stycznia 2023 r.*
 
@@ -308,9 +308,7 @@ source: pdf
 
 4. Fundusz prowadzi wyodrębnioną ewidencję dla działań finansowanych ze środków, o których mowa w ust. 1, oraz działalności gospodarczej, w tym jest obowiązany do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
 
-5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz.
-
-- **619)** .
+5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619).
 
 6. W zakresie nieuregulowanym w ust. 1–4 stosuje się odpowiednio przepisy art. 150–152 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -345,7 +343,9 @@ source: pdf
 
 3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 6 osób.
 
-4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób. Art. 21–23. (pominięte)
+4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób.
+
+**Art. 21–23.** (pominięte)
 
 **Art. 23a.**
 

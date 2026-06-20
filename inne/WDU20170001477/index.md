@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania w sprawach o wykroczenia
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy - Kodeks postępowania w sprawach o wykroczenia
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

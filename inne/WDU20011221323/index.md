@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa
+# Ustawa z dnia 18 września 2001 r. o zmianie ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa.
 
 *USTAWA z dnia 18 września 2001 r.*
 

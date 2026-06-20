@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych
 
 | Pole | Wartość |
 |---|---|

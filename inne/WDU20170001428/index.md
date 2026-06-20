@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z systemami wsparcia rodzin
+# Ustawa z dnia 7 lipca 2017 r. o zmianie niektórych ustaw związanych z systemami wsparcia rodzin
 
 *USTAWA z dnia 7 lipca 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w zakresie bezpieczeństwa i higieny służby
+# Ustawa z dnia 1 grudnia 2016 r. o zmianie niektórych ustaw w zakresie bezpieczeństwa i higieny służby
 
 *USTAWA z dnia 1 grudnia 2016 r.*
 

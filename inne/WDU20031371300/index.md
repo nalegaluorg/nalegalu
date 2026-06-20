@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie prawnej odmian roślin
+# Ustawa z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin
 
 *USTAWA z dnia 26 czerwca 2003 r.*
 

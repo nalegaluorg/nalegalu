@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 25 czerwca 2009 r.*
 
@@ -345,7 +345,7 @@ source: pdf
 
 5. Osoby, które przed dniem 29 października 2013 r. rozpoczęły szkolenie albo nabyły uprawnienia do wykonywania czynności na stanowisku pomocnika maszynisty pojazdów trakcyjnych, mogą nabywać uprawnienia maszynisty pojazdów trakcyjnych na podstawie przepisów wydanych na podstawie art. 22 ust. 2 ustawy, o której mowa w ust. 1.
 
-6. Czynności na stanowisku pomocnika maszynisty pojazdów trakcyjnych mogą być wykonywane nie dłużej niż do dnia 29 października 2018 r.>
+6. Czynności na stanowisku pomocnika maszynisty pojazdów trakcyjnych mogą być wykonywane nie dłużej niż do dnia 29 października 2018 r.
 
 **Art. 4.** Do dnia wejścia w życie rozporządzenia, o którym mowa w art. 22a ust. 13 ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie później niż do dnia 30 czerwca 2011 r., podmiotami uprawnionymi do przeprowadzania badań, o których mowa w art. 22a ust. 1 pkt 3 tej ustawy, są podmioty dotychczas uprawnione do wykonywania tych badań.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw
+# Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw
 
 *USTAWA z dnia 13 lutego 2020 r.*
 

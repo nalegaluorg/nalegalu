@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach
+# Ustawa z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach
 
 *USTAWA z dnia 15 lipca 2020 r.*
 

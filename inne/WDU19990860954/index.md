@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego GdańskTrójmiasto.
+# Rozporządzenie Rady Ministrów z dnia 18 października 1999 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Gdańsk-Trójmiasto.
 
 | Pole | Wartość |
 |---|---|

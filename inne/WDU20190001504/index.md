@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy oraz ustawy o referendum ogólnokrajowym
+# Ustawa z dnia 31 lipca 2019 r. o zmianie ustawy - Kodeks wyborczy oraz ustawy o referendum ogólnokrajowym
 
 *USTAWA z dnia 31 lipca 2019 r.*
 

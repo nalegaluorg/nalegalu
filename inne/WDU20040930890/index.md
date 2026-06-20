@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o finansach publicznych oraz ustawy o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
+# Ustawa z dnia 16 kwietnia 2004 r. o zmianie ustawy o finansach publicznych oraz ustawy o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 

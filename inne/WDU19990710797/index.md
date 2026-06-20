@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie określenia minimalnej łącznej wartości zakupów, wynikającej z dokumentów wystawionych przez sprzedawców, przy której podróżny może żądać zwrotu podatku od towarów i usług.
+# Rozporządzenie Ministra Finansów z dnia 24 sierpnia 1999 r. w sprawie określenia minimalnej łącznej wartości zakupów, wynikającej z dokumentów wystawionych przez sprzedawców, przy której podróżny może żądać zwrotu podatku od towarów i usług.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
+# Ustawa z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-08-28 |
 | Ostatnia zmiana | 2026-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1255/text.pdf) |
-
-Art. 21–24. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -538,6 +536,8 @@ Art. 21–24. (pominięte)
 5. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw budżetu corocznie określa, w drodze rozporządzenia, wysokość kwoty bazowej, mając na względzie limity wydatków, o których mowa w art. 28, oraz potrzebę zapewnienia właściwej organizacji systemu nieodpłatnej pomocy prawnej, nieodpłatnego poradnictwa obywatelskiego i edukacji prawnej.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 21–24.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz ustawy o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 4 lutego 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne oraz ustawy o Narodowym Banku Polskim
+# Ustawa z dnia 22 lutego 2019 r. o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne oraz ustawy o Narodowym Banku Polskim
 
 *USTAWA z dnia 22 lutego 2019 r.*
 

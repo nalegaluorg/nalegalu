@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z dostosowaniem do prawa Unii Europejskiej
+# Ustawa z dnia 5 grudnia 2002 r. o zmianie niektórych ustaw w związku z dostosowaniem do prawa Unii Europejskiej.
 
 *USTAWA z dnia 5 grudnia 2002 r.*
 

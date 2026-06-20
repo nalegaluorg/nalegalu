@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o notariacie i ustawy - Prawo o ustroju sądów powszechnych
+# Ustawa z dnia 12 maja 2000 r. o zmianie ustawy - Prawo o notariacie i ustawy - Prawo o ustroju sądów powszechnych.
 
 *USTAWA z dnia 12 maja 2000 r.*
 

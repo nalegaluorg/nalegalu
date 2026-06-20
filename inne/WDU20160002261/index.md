@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Prokuratorii Generalnej Rzeczypospolitej Polskiej
+# Ustawa z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 15 grudnia 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-12-30 |
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002261) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2261/text.pdf) |
-
-Art. 97–120. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1051,6 +1049,8 @@ Art. 97–120. (pominięte)
 **Art. 96.** W postępowaniu przed komisjami dyscyplinarnymi I i II instancji w sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37). Nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej.
 
 #### Rozdział 10 Zmiany w przepisach
+
+**Art. 97–120.** (pominięte)
 
 #### Rozdział 11 Przepis epizodyczny
 

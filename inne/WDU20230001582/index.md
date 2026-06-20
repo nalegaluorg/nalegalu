@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa
 
 *USTAWA z dnia 29 listopada 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2023-08-10 |
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001582) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1582/text.pdf) |
-
-Art. 43–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -707,7 +705,8 @@ Art. 43–46. (pominięte)
 - **3)** daty obrotu;
 - **4)** nazwę i adres eksportera lub dostawcy oraz importera lub odbiorcy;
 - **5)** końcowe przeznaczenie i oznaczenie końcowego użytkownika;
-- **6)** dowód, że informacja na temat ograniczeń eksportowych związanych z zezwoleniem na transfer została przekazana odbiorcy towarów o znaczeniu strategicznym; <7) numer zezwolenia indywidualnego albo zezwolenia globalnego na obrót towarami o znaczeniu strategicznym albo numer krajowego zezwolenia generalnego albo generalnego unijnego zezwolenia na wywóz, w przypadku gdy jest wymagane.>
+- **6)** dowód, że informacja na temat ograniczeń eksportowych związanych z zezwoleniem na transfer została przekazana odbiorcy towarów o znaczeniu strategicznym;
+- **7)** numer zezwolenia indywidualnego albo zezwolenia globalnego na obrót towarami o znaczeniu strategicznym albo numer krajowego zezwolenia generalnego albo generalnego unijnego zezwolenia na wywóz, w przypadku gdy jest wymagane.
 
 3. Podmiot dokonujący obrotu towarami o znaczeniu strategicznym, jest obowiązany do przechowywania zapisów, rejestrów oraz dokumentów gromadzonych w ramach ewidencji, o której mowa w ust. 1, przez okres 5 lat, licząc od końca roku kalendarzowego, w którym dokonano obrotu.
 
@@ -843,6 +842,8 @@ Art. 43–46. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 43–46.** (pominięte)
+
 #### Rozdział 8 Przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 46a.** Do dnia 31 grudnia 2022 r. do:
@@ -879,7 +880,9 @@ Art. 43–46. (pominięte)
 
 - **1)** oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania;
 - **2)** określenie produktu i jego ilości;
-- **3)** oznaczenie końcowego użytkownika. Art. 47–50. (pominięte)
+- **3)** oznaczenie końcowego użytkownika.
+
+**Art. 47–50.** (pominięte)
 
 **Art. 51.** Traci moc ustawa z dnia 2 grudnia 1993 r. o zasadach szczególnej kontroli obrotu z zagranicą towarami i technologiami w związku z porozumieniami i zobowiązaniami międzynarodowymi (Dz. U. poz. 598, z 1996 r. poz. 496, z 1997 r. poz. 554 i 1026 oraz z 1999 r. poz. 775 i 931).
 

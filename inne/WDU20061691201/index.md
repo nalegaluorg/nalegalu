@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach samorządowych
+# Ustawa z dnia 25 sierpnia 2006 r. o zmianie ustawy o pracownikach samorządowych
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 

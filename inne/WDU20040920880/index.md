@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie przyrody
+# Ustawa z dnia 16 kwietnia 2004 r. o ochronie przyrody
 
 *USTAWA z dnia 16 kwietnia 2004 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2004-04-30 |
 | Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/880/text.pdf) |
-
-Art. 133–142. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2577,7 +2575,8 @@ Art. 133–142. (pominięte)
 
 1. Wójt, burmistrz albo prezydent miasta wymierza administracyjną karę pieniężną za:
 
-- **1)** usunięcie drzewa lub krzewu bez wymaganego zezwolenia; <1a) usunięcie drzewa lub krzewu bez wymaganego pozwolenia w przypadku, o którym mowa w art. 36 ust. 1aa ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;>
+- **1)** usunięcie drzewa lub krzewu bez wymaganego zezwolenia;
+- **1a)** usunięcie drzewa lub krzewu bez wymaganego pozwolenia w przypadku, o którym mowa w art. 36 ust. 1aa ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
 - **2)** usunięcie drzewa lub krzewu bez zgody posiadacza nieruchomości;
 - **3)** zniszczenie drzewa lub krzewu;
 - **4)** uszkodzenie drzewa spowodowane wykonywaniem prac w obrębie korony drzewa;
@@ -3505,6 +3504,8 @@ Art. 133–142. (pominięte)
 **Art. 132.** Orzekanie w sprawach, o których mowa w art. 127, art. 130a i art. 131, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
+
+**Art. 133–142.** (pominięte)
 
 #### Rozdział 13 Przepisy przejściowe, dostosowujące i końcowe
 

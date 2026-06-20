@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz zmianie niektórych innych ustaw
 
 *USTAWA z dnia 21 listopada 2008 r.*
 

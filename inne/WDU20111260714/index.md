@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowej Radzie Sądownictwa
+# Ustawa z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa
 
 *USTAWA z dnia 12 maja 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-06-17 |
 | Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111260714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/714/text.pdf) |
-
-Art. 46–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -516,6 +514,8 @@ Art. 46–49. (pominięte)
 **Art. 45c.** Wznowienie postępowania przed Krajową Radą Sądownictwa lub wzruszenie uchwały zawierającej wniosek o powołanie do pełnienia urzędu sędziego nie jest dopuszczalne, jeżeli osoba przedstawiona Prezydentowi Rzeczypospolitej Polskiej spełnia w dniu podjęcia uchwały przez Krajową Radę Sądownictwa warunki formalne wymagane do pełnienia urzędu, określone w Konstytucji Rzeczypospolitej Polskiej.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 46–49.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

@@ -27,8 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2025-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1960/168/text.pdf) |
 
-Art. 164–179. (uchylone)
-
 ### DZIAŁ I Przepisy ogólne
 
 #### Rozdział 1 Zakres obowiązywania
@@ -1489,7 +1487,11 @@ Art. 164–179. (uchylone)
 
 § 1. Można żądać wznowienia postępowania również w przypadku, gdy Trybunał Konstytucyjny orzekł o niezgodności aktu normatywnego z Konstytucją, umową międzynarodową lub z ustawą, na podstawie którego została wydana decyzja.
 
-§ 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego. Art. 145aa. § 1. Można żądać wznowienia postępowania również w przypadku, gdy zostało wydane orzeczenie Trybunału Sprawiedliwości Unii Europejskiej, które ma wpływ na treść wydanej decyzji.
+§ 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego.
+
+**Art. 145aa.**
+
+§ 1. Można żądać wznowienia postępowania również w przypadku, gdy zostało wydane orzeczenie Trybunału Sprawiedliwości Unii Europejskiej, które ma wpływ na treść wydanej decyzji.
 
 § 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej.
 
@@ -1664,6 +1666,8 @@ Art. 164–179. (uchylone)
 **Art. 163g.** Postanowienia wydane w postępowaniu uproszczonym można zaskarżyć tylko w odwołaniu od decyzji, z wyjątkiem postanowień wydanych po wydaniu decyzji, postanowień o zawieszeniu lub odmowie podjęcia zawieszonego postępowania oraz postanowień, w odniesieniu do których możliwość ich zaskarżenia przewidują przepisy szczególne.
 
 ### DZIAŁ III Przepisy szczególne w sprawach ubezpieczeń społecznych
+
+**Art. 164–179.** (uchylone)
 
 **Art. 180.**
 

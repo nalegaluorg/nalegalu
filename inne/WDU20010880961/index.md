@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2001 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw.
 
 *USTAWA z dnia 20 lipca 2001 r.*
 

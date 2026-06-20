@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty i ustawy o finansowaniu zadań oświatowych
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o systemie oświaty i ustawy o finansowaniu zadań oświatowych
 
 *USTAWA z dnia 28 maja 2021 r.*
 

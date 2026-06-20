@@ -27,32 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021301112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.pdf) |
 
-Art. 156zd. 1. Osoba użytkująca system bezzałogowego statku powietrznego może zostać poddana sprawdzeniu, czy operacja jest wykonywana zgodnie z przepisami prawa, przez:
-1) funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorów Biura Nadzoru Wewnętrznego, żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo w Służbie Wywiadu Wojskowego, żołnierzy Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej, strażników straży gminnych (miejskich) oraz osoby upoważnione przez Prezesa Urzędu,
-2) strażników leśnych – na terenach lasów,
-3) funkcjonariuszy Straży Parku – na terenach parków narodowych,
-4) funkcjonariuszy Państwowej Straży Pożarnej – w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe – w związku z realizacją zadań ustawowych.
-2. Osoba użytkująca system bezzałogowego statku powietrznego jest obowiązana wykonywać polecenia wydawane przez osobę dokonującą sprawdzenia, o którym mowa w ust. 1.
-Art. 156ze. 1. Bezzałogowy statek powietrzny może zostać zniszczony albo unieruchomiony albo nad jego lotem może zostać przejęta kontrola, w przypadku gdy:
-1) przebieg operacji lub działanie bezzałogowego statku powietrznego:
-a) zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
-b) stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
-c) zakłóca lub może zakłócić przebieg imprezy masowej albo zagraża bezpieczeństwu jej uczestników,
-d) stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
-e) stwarza lub może stworzyć zagrożenie bezpieczeństwa ruchu lotniczego, statku powietrznego lub życia lub zdrowia załogi lub pasażerów znajdujących się na jego pokładzie,
-f) utrudnia lub może utrudnić ruch lotniczy lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
-2) bezzałogowy statek powietrzny wbrew zakazowi wykonuje operację w strefie geograficznej ustanowionej nad:
-a) chronionymi obiektami Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-b) obiektami, urządzeniami lub obszarami istotnymi dla bezpieczeństwa lub obronności państwa, bezpieczeństwa publicznego lub nienaruszalności granicy państwowej.
-2. Do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w związku z realizacją zadań ustawowych, w przypadkach, o których mowa w:
-1) ust. 1 pkt 1 lit. a, b oraz d−f – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-2) ust. 1 pkt 1 lit. c – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
-3) ust. 1 pkt 2 lit. a – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
-4) ust. 1 pkt 2 lit. b – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej – na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
-3. Podmioty, o których mowa w ust. 2, w przypadkach wskazanych w ust. 1, są uprawnione do sprawdzenia spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 209 ust. 1 i 1a.
-4. Za szkody powstałe w wyniku zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w przypadkach, o których mowa w ust. 1, odpowiada pilot bezzałogowego statku powietrznego lub operator systemu bezzałogowego statku powietrznego zniszczonego albo unieruchomionego albo nad którego lotem przejęto kontrolę.
-Art. 213–221. (pominięte)
-
 ### DZIAŁ I Przepisy ogólne
 
 #### Rozdział 1 Zakres regulacji i definicje
@@ -1818,9 +1792,21 @@ Art. 213–221. (pominięte)
 
 2. W razie zniesienia w porcie lotniczym koordynacji rozkładów lotów i jednoczesnego wprowadzenia organizacji rozkładów lotów, dotychczasowy koordynator staje się organizatorem rozkładów lotów.
 
-3. W przypadkach, o których mowa w ust. 1 i 2, działalność odpowiednio koordynatora oraz organizatora rozkładów lotów finansowana jest z budżetu dotychczasowego. Art. 67fa. 1. Na wniosek koordynatora lub zarządzającego lotniskiem, w którym wprowadzono koordynację rozkładów lotów, podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia Komisji (UE) nr 255/2010 z dnia 25 marca 2010 r. ustanawiającego wspólne zasady zarządzania przepływem ruchu lotniczego (Dz. Urz. UE L 80 z 26.03.2010, str. 10, z późn. zm.), przedstawia wnioskodawcy przyjęty plan lotu, który dotyczy tego lotniska, bez zbędnej zwłoki, jednak nie później niż zostanie wykonany lot.
+3. W przypadkach, o których mowa w ust. 1 i 2, działalność odpowiednio koordynatora oraz organizatora rozkładów lotów finansowana jest z budżetu dotychczasowego.
 
-2. Koordynator lub zarządzający lotniskiem, w którym wprowadzono koordynację rozkładów lotów, zapewnia dostęp do posiadanego planu lotu Prezesowi Urzędu, podmiotom, o których mowa w art. 77 ust. 1, właściwym organom kontroli ruchu lotniczego oraz użytkownikom statków powietrznych. Art. 67fb. Zarządzający lotniskiem w porozumieniu z koordynatorem lub organizatorem rozkładów lotów przed każdym sezonem rozkładowym wyznacza parametry koordynacyjne, z uwzględnieniem przepisów rozporządzenia nr 95/93/WE, i przekazuje je koordynatorowi lub organizatorowi rozkładów lotów. Art. 67fc. Prezes Urzędu może zarezerwować czasy na start lub lądowanie w przypadkach, o których mowa w art. 9 rozporządzenia nr 95/93/WE. Art. 67fd. 1. Dotychczasowy koordynator albo organizator rozkładów lotów jest obowiązany, w ciągu 30 dni od dnia powołania nowego koordynatora albo organizatora rozkładów lotów, przekazać nieodpłatnie odpowiednio koordynatorowi albo organizatorowi rozkładów lotów posiadane przez siebie dane, w tym co najmniej odpowiednio:
+**Art. 67fa.**
+
+1. Na wniosek koordynatora lub zarządzającego lotniskiem, w którym wprowadzono koordynację rozkładów lotów, podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia Komisji (UE) nr 255/2010 z dnia 25 marca 2010 r. ustanawiającego wspólne zasady zarządzania przepływem ruchu lotniczego (Dz. Urz. UE L 80 z 26.03.2010, str. 10, z późn. zm.), przedstawia wnioskodawcy przyjęty plan lotu, który dotyczy tego lotniska, bez zbędnej zwłoki, jednak nie później niż zostanie wykonany lot.
+
+2. Koordynator lub zarządzający lotniskiem, w którym wprowadzono koordynację rozkładów lotów, zapewnia dostęp do posiadanego planu lotu Prezesowi Urzędu, podmiotom, o których mowa w art. 77 ust. 1, właściwym organom kontroli ruchu lotniczego oraz użytkownikom statków powietrznych.
+
+**Art. 67fb.** Zarządzający lotniskiem w porozumieniu z koordynatorem lub organizatorem rozkładów lotów przed każdym sezonem rozkładowym wyznacza parametry koordynacyjne, z uwzględnieniem przepisów rozporządzenia nr 95/93/WE, i przekazuje je koordynatorowi lub organizatorowi rozkładów lotów.
+
+**Art. 67fc.** Prezes Urzędu może zarezerwować czasy na start lub lądowanie w przypadkach, o których mowa w art. 9 rozporządzenia nr 95/93/WE.
+
+**Art. 67fd.**
+
+1. Dotychczasowy koordynator albo organizator rozkładów lotów jest obowiązany, w ciągu 30 dni od dnia powołania nowego koordynatora albo organizatora rozkładów lotów, przekazać nieodpłatnie odpowiednio koordynatorowi albo organizatorowi rozkładów lotów posiadane przez siebie dane, w tym co najmniej odpowiednio:
 
 - **1)** koordynator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z czasami na start lub lądowanie przydzielonymi dla tych operacji, a w przypadku toczącego się procesu koordynacji rozkładów lotów na kolejne sezony – także dane dotyczące otrzymanych zapytań o czasy na start lub lądowanie, przedstawionych przez koordynatora ofert oraz przyznanych czasów na start lub lądowanie,
 - **2)** organizator rozkładów lotów – dane dotyczące monitoringu zgodności operacji z zaleconymi rozkładami lotów oraz dane wspomagające ustalenie przydzielonych i wykorzystanych czasów na start lub lądowanie w przeszłości, pozwalające na sprawdzenie spełnienia warunków, o których mowa w art. 8 ust. 2 rozporządzenia nr 95/93/WE – oraz dokumenty niezbędne nowemu koordynatorowi albo organizatorowi rozkładów lotów w celu skutecznej koordynacji albo organizacji rozkładów lotów. Forma przekazania i format danych oraz dokumentów powinny uwzględniać możliwość przetwarzania i dalszego udostępniania tych danych oraz dokumentów przez nowego koordynatora albo organizatora rozkładów lotów.
@@ -2885,11 +2871,19 @@ Art. 213–221. (pominięte)
 
 - **1)** szczegółowe wymagania niezbędne dla prowadzenia działalności szkoleniowej, o której mowa w ust. 1;
 - **2)** wzór wniosku o wpis do rejestru podmiotów szkolących;
-- **3)** szczegółowe warunki i sposób prowadzenia rejestru podmiotów szkolących, tryb składania wniosków o wpis do rejestru podmiotów szkolących oraz zgłaszania zmiany danych rejestrowych. Art. 95aa. 1. Prezes Urzędu jest obowiązany dokonać wpisu przedsiębiorcy do rejestru podmiotów szkolących w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności gospodarczej, dla której rejestr jest prowadzony.
+- **3)** szczegółowe warunki i sposób prowadzenia rejestru podmiotów szkolących, tryb składania wniosków o wpis do rejestru podmiotów szkolących oraz zgłaszania zmiany danych rejestrowych.
+
+**Art. 95aa.**
+
+1. Prezes Urzędu jest obowiązany dokonać wpisu przedsiębiorcy do rejestru podmiotów szkolących w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z oświadczeniem o spełnieniu warunków wymaganych prawem do wykonywania działalności gospodarczej, dla której rejestr jest prowadzony.
 
 2. Jeżeli Prezes Urzędu nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
-**Art. 95b.** Prezes Urzędu odmawia wpisania podmiotu do rejestru podmiotów szkolących, jeżeli nie zostały spełnione wymagania określone w art. 95a ust. 2 i 3 oraz w przepisach wydanych na podstawie art. 95a ust. 4. Art. 95ba. 1. Prezes Urzędu wydaje decyzję administracyjną o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+**Art. 95b.** Prezes Urzędu odmawia wpisania podmiotu do rejestru podmiotów szkolących, jeżeli nie zostały spełnione wymagania określone w art. 95a ust. 2 i 3 oraz w przepisach wydanych na podstawie art. 95a ust. 4.
+
+**Art. 95ba.**
+
+1. Prezes Urzędu wydaje decyzję administracyjną o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 95a ust. 3 pkt 10, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez organ terminie;
@@ -2897,9 +2891,15 @@ Art. 213–221. (pominięte)
 
 2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
 
-3. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Urzędu z urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących. Art. 95bb. 1. Przedsiębiorca, którego wykreślono z rejestru podmiotów szkolących, może uzyskać ponowny wpis do tego rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 95ba ust. 1.
+3. W przypadku wydania decyzji, o której mowa w ust. 1, Prezes Urzędu z urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących.
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru podmiotów szkolących. Nie dotyczy to sytuacji określonej w art. 95aa ust. 2. Art. 95bc. Prezes Urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+**Art. 95bb.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru podmiotów szkolących, może uzyskać ponowny wpis do tego rejestru nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 95ba ust. 1.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru podmiotów szkolących. Nie dotyczy to sytuacji określonej w art. 95aa ust. 2.
+
+**Art. 95bc.** Prezes Urzędu wykreśla przedsiębiorcę z rejestru podmiotów szkolących na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 95c.** Przedsiębiorca jest obowiązany przechowywać, przez okres wykonywanej działalności szkoleniowej, wszystkie dokumenty niezbędne do wykazania, że spełnia warunki do wykonywania działalności objętej obowiązkiem wpisu do rejestru podmiotów szkolących.
 
@@ -3136,7 +3136,11 @@ Art. 213–221. (pominięte)
 - **2)** przerwy w pełnieniu czynności lotniczych;
 - **3)** okresy wypoczynku należne w związku z pełnieniem czynności lotniczych;
 - **4)** ograniczenia czasu lotu;
-- **5)** formy pełnienia gotowości oraz warunki ich wliczania do czasu pracy. Art. 103ca. 1. Czas pracy członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego określają przepisy części Q załącznika III do rozporządzenia nr 3922/91 w zakresie okresu służby, w tym w zakresie okresu pełnienia czynności lotniczych.
+- **5)** formy pełnienia gotowości oraz warunki ich wliczania do czasu pracy.
+
+**Art. 103ca.**
+
+1. Czas pracy członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego określają przepisy części Q załącznika III do rozporządzenia nr 3922/91 w zakresie okresu służby, w tym w zakresie okresu pełnienia czynności lotniczych.
 
 2. Dyżur członków załóg statków powietrznych w przewozie lotniczym przy użyciu samolotu wykonywanym taksówką powietrzną, w załodze jednoosobowej oraz w służbie ratownictwa medycznego określają przepisy części Q załącznika III do rozporządzenia nr 3922/91 w zakresie gotowości oraz przepisy wydane na podstawie ust. 10.
 
@@ -4966,9 +4970,17 @@ Art. 213–221. (pominięte)
 
 4. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu przedłuża ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP.
 
-5. W przypadku przedłużenia ważności certyfikatu wiedzy teoretycznej okres ważności certyfikatu jest liczony od dnia upływu poprzedniego okresu ważności certyfikatu. Art. 156za. 1. W celu wznowienia ważności certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, wyznaczony podmiot, na wniosek pilota bezzałogowego statku powietrznego, na zasadach określonych w UAS.STS-01.020 pkt 4 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, sprawdza wiedzę pilota bezzałogowego statku powietrznego przez przeprowadzenie egzaminu z wiedzy teoretycznej, o którym mowa w UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym. Przepisy art. 156y ust. 3 i 4 i art. 156z ust. 3 zdanie pierwsze stosuje się.
+5. W przypadku przedłużenia ważności certyfikatu wiedzy teoretycznej okres ważności certyfikatu jest liczony od dnia upływu poprzedniego okresu ważności certyfikatu.
 
-2. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu wznawia ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP. Art. 156zb. 1. Minimalny wiek pilota bezzałogowego statku powietrznego wykonującego operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wynosi 14 lat.
+**Art. 156za.**
+
+1. W celu wznowienia ważności certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, wyznaczony podmiot, na wniosek pilota bezzałogowego statku powietrznego, na zasadach określonych w UAS.STS-01.020 pkt 4 dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, sprawdza wiedzę pilota bezzałogowego statku powietrznego przez przeprowadzenie egzaminu z wiedzy teoretycznej, o którym mowa w UAS.STS-01.020 pkt 2 lit. b dodatku 1 do załącznika do rozporządzenia nr 2019/947/UE, na zasadach określonych odpowiednio w scenariuszu standardowym, o którym mowa w art. 5 ust. 5 rozporządzenia nr 2019/947/UE, albo krajowym scenariuszu standardowym. Przepisy art. 156y ust. 3 i 4 i art. 156z ust. 3 zdanie pierwsze stosuje się.
+
+2. Prezes Urzędu na podstawie informacji otrzymanej od wyznaczonego podmiotu wznawia ważność certyfikatu wiedzy teoretycznej przy użyciu systemu teleinformatycznego BSP.
+
+**Art. 156zb.**
+
+1. Minimalny wiek pilota bezzałogowego statku powietrznego wykonującego operacje z użyciem systemu bezzałogowego statku powietrznego w kategorii „otwartej”, o której mowa w art. 4 rozporządzenia nr 2019/947/UE, i „szczególnej”, o której mowa w art. 5 rozporządzenia nr 2019/947/UE, wynosi 14 lat.
 
 2. Osoba niepełnoletnia ubiegająca się o wydanie potwierdzenia zaliczenia szkolenia i zdania egzaminu online, o którym mowa w art. 156p ust. 1 pkt 1, zalicza szkolenie teoretyczne i zdaje egzamin online za zgodą jednego z rodziców albo opiekuna prawnego.
 
@@ -4976,7 +4988,11 @@ Art. 213–221. (pominięte)
 
 4. Szkolenia oraz egzaminy, o których mowa w ust. 2 i 3, mogą być zaliczane i zdawane pod warunkiem bezpośredniego nadzoru jednego z rodziców albo opiekuna prawnego osoby niepełnoletniej.
 
-5. Osoba niepełnoletnia ubiegająca się o wydanie certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, przystępuje do szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego oraz egzaminu z wiedzy teoretycznej za zgodą jednego z rodziców albo opiekuna prawnego. Art. 156zc. 1. Prezes Urzędu cofa dokument, o którym mowa w art. 156p ust. 1, w przypadku stwierdzenia, że pilot bezzałogowego statku powietrznego:
+5. Osoba niepełnoletnia ubiegająca się o wydanie certyfikatu wiedzy teoretycznej, o którym mowa w art. 156p ust. 1 pkt 3, przystępuje do szkolenia praktycznego i oceny umiejętności praktycznych pilota bezzałogowego statku powietrznego oraz egzaminu z wiedzy teoretycznej za zgodą jednego z rodziców albo opiekuna prawnego.
+
+**Art. 156zc.**
+
+1. Prezes Urzędu cofa dokument, o którym mowa w art. 156p ust. 1, w przypadku stwierdzenia, że pilot bezzałogowego statku powietrznego:
 
 - **1)** przestał spełniać wymagania konieczne do otrzymania dokumentu zgodnie z załącznikiem do rozporządzenia nr 2019/947/UE lub
 - **2)** uzyskał dokument w oparciu o sfałszowane dokumenty, sfałszował zapisy w dokumencie lub poświadczył nieprawdę, lub
@@ -5004,6 +5020,44 @@ Art. 213–221. (pominięte)
 6. Prezes Urzędu zawiesza albo cofa dokument, o którym mowa w art. 156p ust. 1, w drodze decyzji administracyjnej, która może być wydana przy użyciu systemu teleinformatycznego BSP. Decyzja administracyjna podlega natychmiastowemu wykonaniu.
 
 #### Rozdział 6 Zapobieganie bezprawnemu wykonywaniu operacji z użyciem systemu bezzałogowego statku powietrznego
+
+**Art. 156zd.**
+
+1. Osoba użytkująca system bezzałogowego statku powietrznego może zostać poddana sprawdzeniu, czy operacja jest wykonywana zgodnie z przepisami prawa, przez:
+
+- **1)** funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorów Biura Nadzoru Wewnętrznego, żołnierzy zawodowych wyznaczonych na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo w Służbie Wywiadu Wojskowego, żołnierzy Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej, strażników straży gminnych (miejskich) oraz osoby upoważnione przez Prezesa Urzędu,
+- **2)** strażników leśnych – na terenach lasów,
+- **3)** funkcjonariuszy Straży Parku – na terenach parków narodowych,
+- **4)** funkcjonariuszy Państwowej Straży Pożarnej – w przypadku gdy wykonywana operacja może stwarzać zagrożenie dla bezpieczeństwa funkcjonariuszy Państwowej Straży Pożarnej prowadzących działania ratowniczo-gaśnicze lub wykonujących inne obowiązki służbowe – w związku z realizacją zadań ustawowych.
+
+2. Osoba użytkująca system bezzałogowego statku powietrznego jest obowiązana wykonywać polecenia wydawane przez osobę dokonującą sprawdzenia, o którym mowa w ust. 1.
+
+**Art. 156ze.**
+
+1. Bezzałogowy statek powietrzny może zostać zniszczony albo unieruchomiony albo nad jego lotem może zostać przejęta kontrola, w przypadku gdy:
+
+- **1)** przebieg operacji lub działanie bezzałogowego statku powietrznego:
+    - **a)** zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
+    - **b)** stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
+    - **c)** zakłóca lub może zakłócić przebieg imprezy masowej albo zagraża bezpieczeństwu jej uczestników,
+    - **d)** stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
+    - **e)** stwarza lub może stworzyć zagrożenie bezpieczeństwa ruchu lotniczego, statku powietrznego lub życia lub zdrowia załogi lub pasażerów znajdujących się na jego pokładzie,
+    - **f)** utrudnia lub może utrudnić ruch lotniczy lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
+
+- **2)** bezzałogowy statek powietrzny wbrew zakazowi wykonuje operację w strefie geograficznej ustanowionej nad:
+    - **a)** chronionymi obiektami Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+    - **b)** obiektami, urządzeniami lub obszarami istotnymi dla bezpieczeństwa lub obronności państwa, bezpieczeństwa publicznego lub nienaruszalności granicy państwowej.
+
+2. Do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w związku z realizacją zadań ustawowych, w przypadkach, o których mowa w:
+
+- **1)** ust. 1 pkt 1 lit. a, b oraz d−f – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, Służby Celno-Skarbowej, Służby Więziennej, Straży Marszałkowskiej, inspektorzy Biura Nadzoru Wewnętrznego, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej i Sił Zbrojnych Rzeczypospolitej Polskiej, pracownicy służby ochrony lotniska, strażnicy leśni, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+- **2)** ust. 1 pkt 1 lit. c – są uprawnieni funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Straży Granicznej, Służby Ochrony Państwa, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, żołnierze Żandarmerii Wojskowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej,
+- **3)** ust. 1 pkt 2 lit. a – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierze Żandarmerii Wojskowej,
+- **4)** ust. 1 pkt 2 lit. b – są uprawnieni żołnierze Sił Zbrojnych Rzeczypospolitej Polskiej, żołnierze Żandarmerii Wojskowej, żołnierze zawodowi wyznaczeni na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego albo Służbie Wywiadu Wojskowego, funkcjonariusze Policji, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Marszałkowskiej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, a także pracownicy wewnętrznych służb ochrony działających na terenach jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez Ministra Obrony Narodowej – na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+3. Podmioty, o których mowa w ust. 2, w przypadkach wskazanych w ust. 1, są uprawnione do sprawdzenia spełnienia obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 209 ust. 1 i 1a.
+
+4. Za szkody powstałe w wyniku zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem w przypadkach, o których mowa w ust. 1, odpowiada pilot bezzałogowego statku powietrznego lub operator systemu bezzałogowego statku powietrznego zniszczonego albo unieruchomionego albo nad którego lotem przejęto kontrolę.
 
 ### DZIAŁ VII Eksploatacja statków powietrznych
 
@@ -5325,7 +5379,17 @@ Art. 213–221. (pominięte)
 
 7. Do przewoźników lotniczych zajmujących się wyłącznie eksploatacją statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20, wykonujących regularne przewozy lotnicze lub których obrót przekracza 3 000 000 euro rocznie, stosuje się art. 8 ust. 4– 6 rozporządzenia nr 1008/2008/WE.
 
-**Art. 171b.** W celu dokonania szczegółowej oceny sytuacji finansowej, o której mowa w art. 9 ust. 2 rozporządzenia nr 1008/2008/WE, przewoźnik lotniczy przedstawia, na żądanie Prezesa Urzędu, dokumenty i informacje określone w treści żądania niezbędne dla oceny sytuacji finansowej przewoźnika, w szczególności informacje, o których mowa w załączniku I pkt 3 do rozporządzenia nr 1008/2008/WE. Art. 171ba. 1. W przypadku nieprzedłożenia na żądanie Prezesa Urzędu dokumentów, informacji lub oświadczeń potwierdzających spełnianie warunków wymaganych do uzyskania koncesji, Prezes Urzędu wzywa przewoźnika lotniczego do ich przedłożenia we wskazanym przez siebie terminie, a w przypadku ich nieprzedłożenia – zawiesza koncesję do czasu przedstawienia żądanych dokumentów, informacji lub oświadczeń, jednak nie dłużej niż na okres 3 miesięcy. 2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1. Art. 171bb. Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 171bc. Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.
+**Art. 171b.** W celu dokonania szczegółowej oceny sytuacji finansowej, o której mowa w art. 9 ust. 2 rozporządzenia nr 1008/2008/WE, przewoźnik lotniczy przedstawia, na żądanie Prezesa Urzędu, dokumenty i informacje określone w treści żądania niezbędne dla oceny sytuacji finansowej przewoźnika, w szczególności informacje, o których mowa w załączniku I pkt 3 do rozporządzenia nr 1008/2008/WE.
+
+**Art. 171ba.**
+
+1. W przypadku nieprzedłożenia na żądanie Prezesa Urzędu dokumentów, informacji lub oświadczeń potwierdzających spełnianie warunków wymaganych do uzyskania koncesji, Prezes Urzędu wzywa przewoźnika lotniczego do ich przedłożenia we wskazanym przez siebie terminie, a w przypadku ich nieprzedłożenia – zawiesza koncesję do czasu przedstawienia żądanych dokumentów, informacji lub oświadczeń, jednak nie dłużej niż na okres 3 miesięcy.
+
+2. Jeżeli przewoźnik lotniczy nie przedłoży dokumentów lub informacji, o których mowa w ust. 1, w okresie, na jaki została zawieszona koncesja, Prezes Urzędu bez zbędnej zwłoki cofa koncesję. W czasie postępowania w sprawie cofnięcia koncesji koncesja pozostaje zawieszona do czasu przedłożenia dokumentów, informacji lub oświadczeń, o których mowa w ust. 1.
+
+**Art. 171bb.** Oświadczenia w postępowaniu o udzielenie albo zmianę koncesji składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 171bc.** Przewoźnik lotniczy posiadający koncesję na wykonywanie działalności gospodarczej w zakresie przewozu lotniczego z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) lub liczby miejsc pasażerskich może wystąpić do Prezesa Urzędu z wnioskiem o zmianę koncesji przez ograniczenie uprawnień do wykonywania działalności gospodarczej w zakresie przewozu lotniczego obejmującego eksploatację statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 ton lub o liczbie miejsc pasażerskich poniżej 20.
 
 **Art. 171c.** Przewoźnik lotniczy jest obowiązany zgłaszać Prezesowi Urzędu wszelkie zmiany danych, o których mowa w art. 166 ust. 2, w terminie 14 dni od ich powstania.
 
@@ -5778,7 +5842,9 @@ Art. 213–221. (pominięte)
 
 3. Przepisy art. 186c ust. 4 w stosunku do znanego nadawcy stosuje się odpowiednio.
 
-4. Prezes Urzędu cofa wyznaczenie, w drodze decyzji administracyjnej, jeżeli stwierdzi, że znany nadawca utracił zdolność do wyznaczenia oraz nie spełnia wymogów stawianych mu w zakresie ochrony. Art. 186ea. (uchylony)
+4. Prezes Urzędu cofa wyznaczenie, w drodze decyzji administracyjnej, jeżeli stwierdzi, że znany nadawca utracił zdolność do wyznaczenia oraz nie spełnia wymogów stawianych mu w zakresie ochrony.
+
+**Art. 186ea.** (uchylony)
 
 **Art. 186f.**
 
@@ -7060,15 +7126,51 @@ Art. 213–221. (pominięte)
 - **2)** przekazał informację nieprawdziwą – podlega karze pieniężnej w wysokości 18 000 zł,
 - **3)** przekazał informację niepełną – podlega karze pieniężnej w wysokości 13 500 zł – za każdy lot, w którym odpowiednio nie przekazał informacji, przekazał informację nieprawdziwą lub przekazał informację niepełną.
 
-2. Kary pieniężne, o których mowa w ust. 1, Prezes Urzędu wymierza na uzasadniony wniosek komendanta placówki Straży Granicznej właściwego ze względu na miejsce przekroczenia granicy państwowej przez pasażerów statku powietrznego. Do wniosku tego komendant dołącza akta sprawy wraz z niezbędnymi dowodami. Art. 209ua. Podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia nr 255/2010/UE, który narusza obowiązek określony w art. 67fa ust. 1, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209ub. Koordynator, o którym mowa w art. 67b, lub zarządzający lotniskiem, który narusza obowiązek określony w art. 67fa ust. 2, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209uc. Zarządzający lotniskiem, który narusza obowiązek określony w art. 68 ust. 3 pkt 1a, podlega karze pieniężnej w wysokości do 50 000 zł. Art. 209ud. 1. Użytkownik statku powietrznego, który celowo i co najmniej dwukrotnie w okresie 6 miesięcy, w odniesieniu do tego samego portu lotniczego, wykonuje operacje lotnicze w terminach znacznie różniących się od przydzielonych czasów na start lub lądowanie, bez uzyskania przydzielonych czasów na start lub lądowanie lub wykorzystuje czasy na start lub lądowanie w sposób znacznie różniący się od sposobu wskazanego w chwili przydzielenia, gdy powoduje to zakłócenia w porcie lotniczym lub operacjach lotniczych, podlega karze pieniężnej w wysokości do 100 000 zł.
+2. Kary pieniężne, o których mowa w ust. 1, Prezes Urzędu wymierza na uzasadniony wniosek komendanta placówki Straży Granicznej właściwego ze względu na miejsce przekroczenia granicy państwowej przez pasażerów statku powietrznego. Do wniosku tego komendant dołącza akta sprawy wraz z niezbędnymi dowodami.
+
+**Art. 209ua.** Podmiot zarządzający przepływem ruchu lotniczego, o którym mowa w art. 2 pkt 5 rozporządzenia nr 255/2010/UE, który narusza obowiązek określony w art. 67fa ust. 1, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+**Art. 209ub.** Koordynator, o którym mowa w art. 67b, lub zarządzający lotniskiem, który narusza obowiązek określony w art. 67fa ust. 2, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+**Art. 209uc.** Zarządzający lotniskiem, który narusza obowiązek określony w art. 68 ust. 3 pkt 1a, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+**Art. 209ud.**
+
+1. Użytkownik statku powietrznego, który celowo i co najmniej dwukrotnie w okresie 6 miesięcy, w odniesieniu do tego samego portu lotniczego, wykonuje operacje lotnicze w terminach znacznie różniących się od przydzielonych czasów na start lub lądowanie, bez uzyskania przydzielonych czasów na start lub lądowanie lub wykorzystuje czasy na start lub lądowanie w sposób znacznie różniący się od sposobu wskazanego w chwili przydzielenia, gdy powoduje to zakłócenia w porcie lotniczym lub operacjach lotniczych, podlega karze pieniężnej w wysokości do 100 000 zł.
 
 2. Karę pieniężną, o której mowa w ust. 1, Prezes Urzędu wymierza po uzyskaniu od koordynatora zawiadomienia o naruszeniu, o którym mowa w ust. 1.
 
-3. Do zawiadomienia koordynator dołącza dokumenty potwierdzające naruszenie wraz z opisem naruszenia, o którym mowa w ust. 1. Wymierzając karę pieniężną, o której mowa w ust. 1, Prezes Urzędu bierze pod uwagę stopień szkodliwości naruszenia w stosunku do operacji wykonywanych przez innych użytkowników lotniska oraz liczbę naruszeń, których dopuścił się użytkownik statku powietrznego. Art. 209ue. Członek personelu lotniczego będący posiadaczem licencji wydanej zgodnie z wymaganiami rozporządzenia nr 1178/2011/UE, który wbrew obowiązkowi, o którym mowa w FCL.070 lit. b załącznika I Część FCL do rozporządzenia nr 1178/2011/UE, nie zwrócił Prezesowi Urzędu zawieszonej albo cofniętej licencji, podlega karze pieniężnej w wysokości 750 zł. Art. 209uf. Podmiot inny niż wskazany w art. 28 ust. 5a i 5b, który nie usunął stwierdzonych nieprawidłowości w terminie określonym w protokole kontroli, podlega karze pieniężnej w wysokości od 1000 do 10 000 zł. Art. 209ug. Użytkownik statku powietrznego użytkujący go na podstawie umowy, o której mowa w art. 41 ust. 1, bez zatwierdzenia, o którym mowa w art. 41, podlega karze pieniężnej w wysokości 10 000 zł. Art. 209uh. Podmiot posiadający certyfikat, podmiot, o którym mowa w art. 163c, albo podmiot, o którym mowa w art. 163d, w razie bezskutecznego upływu terminu do przywrócenia stanu zgodnego z przepisami prawa, o którym mowa w art. 161 ust. 5, podlega karze pieniężnej w wysokości 10 000 zł. Art. 209ui. Podmiot prowadzący działalność w zakresie lotnictwa cywilnego, który wbrew przepisom art. 135e ust. 1 pociągnął swojego pracownika do odpowiedzialności z tytułu naruszenia, niewykonania lub nienależytego wykonania obowiązków pracowniczych, o których mowa w przepisach Kodeksu pracy, albo wbrew przepisom art. 135e ust. 2 pociągnął osobę wykonującą dla niego czynności na podstawie umowy cywilnoprawnej do odpowiedzialności z tytułu niewykonania albo nienależytego wykonania zobowiązania z tytułu umowy wzajemnej, w związku ze zgłoszeniem zdarzenia w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w rozporządzeniu nr 376/2014/UE, podlega karze pieniężnej w wysokości 25 000 zł. Art. 209uj. Członek załogi statku powietrznego, który podejmując się wykonywania czynności dla więcej niż jednego podmiotu, narusza obowiązki wynikające z przepisów CAT.GEN.MPA.100 lit. b pkt 4 i 5 załącznika IV, lub NCC.GEN.105 lit. f załącznika VI lub SPO.GEN.105 lit. f załącznika VIII do rozporządzenia nr 965/2012/UE, podlega karze pieniężnej w wysokości do 10 000 zł za każde stwierdzone naruszenie w zależności od liczby godzin przekroczenia limitów czasu pracy. Art. 209uk. 1. Zarządzający lotniskiem, który narusza obowiązki wynikające z rozporządzenia nr 139/2014/UE, podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+3. Do zawiadomienia koordynator dołącza dokumenty potwierdzające naruszenie wraz z opisem naruszenia, o którym mowa w ust. 1. Wymierzając karę pieniężną, o której mowa w ust. 1, Prezes Urzędu bierze pod uwagę stopień szkodliwości naruszenia w stosunku do operacji wykonywanych przez innych użytkowników lotniska oraz liczbę naruszeń, których dopuścił się użytkownik statku powietrznego.
 
-2. Wykaz obowiązków i warunków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5a do ustawy. Art. 209ul. Podmiot, który nie usunął niezgodności stwierdzonych w ramach kontroli, o której mowa w art. 29b ust. 7, dotyczących wykonania obowiązków określonych w art. 188e ust. 1, podlega karze pieniężnej w wysokości do 5000 zł. Art. 209um. 1. Przewoźnik lotniczy, który narusza obowiązki lub warunki wynikające z przepisów art. 23 rozporządzenia nr 1008/2008/WE, podlega karze pieniężnej w wysokości do 20 000 zł.
+**Art. 209ue.** Członek personelu lotniczego będący posiadaczem licencji wydanej zgodnie z wymaganiami rozporządzenia nr 1178/2011/UE, który wbrew obowiązkowi, o którym mowa w FCL.070 lit. b załącznika I Część FCL do rozporządzenia nr 1178/2011/UE, nie zwrócił Prezesowi Urzędu zawieszonej albo cofniętej licencji, podlega karze pieniężnej w wysokości 750 zł.
 
-2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5b do ustawy. Art. 209un. 1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
+**Art. 209uf.** Podmiot inny niż wskazany w art. 28 ust. 5a i 5b, który nie usunął stwierdzonych nieprawidłowości w terminie określonym w protokole kontroli, podlega karze pieniężnej w wysokości od 1000 do 10 000 zł.
+
+**Art. 209ug.** Użytkownik statku powietrznego użytkujący go na podstawie umowy, o której mowa w art. 41 ust. 1, bez zatwierdzenia, o którym mowa w art. 41, podlega karze pieniężnej w wysokości 10 000 zł.
+
+**Art. 209uh.** Podmiot posiadający certyfikat, podmiot, o którym mowa w art. 163c, albo podmiot, o którym mowa w art. 163d, w razie bezskutecznego upływu terminu do przywrócenia stanu zgodnego z przepisami prawa, o którym mowa w art. 161 ust. 5, podlega karze pieniężnej w wysokości 10 000 zł.
+
+**Art. 209ui.** Podmiot prowadzący działalność w zakresie lotnictwa cywilnego, który wbrew przepisom art. 135e ust. 1 pociągnął swojego pracownika do odpowiedzialności z tytułu naruszenia, niewykonania lub nienależytego wykonania obowiązków pracowniczych, o których mowa w przepisach Kodeksu pracy, albo wbrew przepisom art. 135e ust. 2 pociągnął osobę wykonującą dla niego czynności na podstawie umowy cywilnoprawnej do odpowiedzialności z tytułu niewykonania albo nienależytego wykonania zobowiązania z tytułu umowy wzajemnej, w związku ze zgłoszeniem zdarzenia w ramach obowiązkowego lub dobrowolnego systemu zgłaszania zdarzeń, o których mowa w rozporządzeniu nr 376/2014/UE, podlega karze pieniężnej w wysokości 25 000 zł.
+
+**Art. 209uj.** Członek załogi statku powietrznego, który podejmując się wykonywania czynności dla więcej niż jednego podmiotu, narusza obowiązki wynikające z przepisów CAT.GEN.MPA.100 lit. b pkt 4 i 5 załącznika IV, lub NCC.GEN.105 lit. f załącznika VI lub SPO.GEN.105 lit. f załącznika VIII do rozporządzenia nr 965/2012/UE, podlega karze pieniężnej w wysokości do 10 000 zł za każde stwierdzone naruszenie w zależności od liczby godzin przekroczenia limitów czasu pracy.
+
+**Art. 209uk.**
+
+1. Zarządzający lotniskiem, który narusza obowiązki wynikające z rozporządzenia nr 139/2014/UE, podlega karze pieniężnej w wysokości od 10 000 do 20 000 zł.
+
+2. Wykaz obowiązków i warunków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5a do ustawy.
+
+**Art. 209ul.** Podmiot, który nie usunął niezgodności stwierdzonych w ramach kontroli, o której mowa w art. 29b ust. 7, dotyczących wykonania obowiązków określonych w art. 188e ust. 1, podlega karze pieniężnej w wysokości do 5000 zł.
+
+**Art. 209um.**
+
+1. Przewoźnik lotniczy, który narusza obowiązki lub warunki wynikające z przepisów art. 23 rozporządzenia nr 1008/2008/WE, podlega karze pieniężnej w wysokości do 20 000 zł.
+
+2. Wykaz naruszeń obowiązków, o których mowa w ust. 1, oraz wysokość kar pieniężnych za poszczególne naruszenia określa załącznik nr 5b do ustawy.
+
+**Art. 209un.**
+
+1. Kto wykonuje operacje z użyciem systemu bezzałogowego statku powietrznego niezgodnie z warunkami wykonywania operacji w danej strefie geograficznej, podlega karze pieniężnej w wysokości 10 000 zł za każde naruszenie.
 
 2. Operator systemu bezzałogowego statku powietrznego, który nie zarejestrował się w rejestrze operatorów, w przypadkach określonych w art. 14 ust. 5 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 10 000 zł.
 
@@ -7104,7 +7206,11 @@ Art. 213–221. (pominięte)
 
 18. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 7 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
 
-19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł. Art. 209uo. 1. Operator statku powietrznego, który narusza obowiązek, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w złotych w wysokości dwukrotności kwoty stanowiącej iloczyn rocznej średniej ceny paliwa lotniczego za tonę i łącznej rocznej niezatankowanej ilości w rozumieniu art. 3 pkt 26 rozporządzenia nr 2023/2405 paliwa lotniczego określonej w sprawozdaniu, o którym mowa w art. 8 rozporządzenia nr 2023/2405, za rok poprzedzający.
+19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł.
+
+**Art. 209uo.**
+
+1. Operator statku powietrznego, który narusza obowiązek, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w złotych w wysokości dwukrotności kwoty stanowiącej iloczyn rocznej średniej ceny paliwa lotniczego za tonę i łącznej rocznej niezatankowanej ilości w rozumieniu art. 3 pkt 26 rozporządzenia nr 2023/2405 paliwa lotniczego określonej w sprawozdaniu, o którym mowa w art. 8 rozporządzenia nr 2023/2405, za rok poprzedzający.
 
 2. Prezes Urzędu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej roczną średnią cenę paliwa lotniczego za tonę oraz metodykę zastosowaną do ustalania tej ceny, na podstawie informacji podawanych przez EASA zgodnie z art. 13 ust. 1 rozporządzenia nr 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy. Roczną średnią cenę paliwa lotniczego za tonę ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
 
@@ -7150,12 +7256,20 @@ Art. 213–221. (pominięte)
 
 2. Zarządzający lotniskiem, przewoźnik lotniczy oraz agent obsługi naziemnej, który wbrew obowiązkowi określonemu w art. 68 ust. 5 nie skierował pasażerów do odpowiednich części portu lotniczego, podlega karze pieniężnej w wysokości 20 000 zł.
 
-3. Karę pieniężną, o której mowa w ust. 1 i 2, nakłada w drodze decyzji administracyjnej komendant placówki Straży Granicznej właściwy dla miejsca położenia lotniska międzynarodowego, na którym jest utworzone lotnicze przejście graniczne. Art. 209xa. 1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
+3. Karę pieniężną, o której mowa w ust. 1 i 2, nakłada w drodze decyzji administracyjnej komendant placówki Straży Granicznej właściwy dla miejsca położenia lotniska międzynarodowego, na którym jest utworzone lotnicze przejście graniczne.
+
+**Art. 209xa.**
+
+1. Zarządzający lotniskiem, przewoźnik lotniczy i Polska Agencja Żeglugi Powietrznej, którzy:
 
 - **1)** nie realizują obowiązku określonego w art. 189f ust. 5 zdanie pierwsze,
 - **2)** realizując obowiązek określony w art. 189f ust. 6, przekazują informację nieprawdziwą lub niepełną za dany kwartał – podlegają karze pieniężnej w wysokości od 2000 do 20 000 zł.
 
-2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli. Art. 209xb. 1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
+2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Komendant Główny Straży Granicznej po stwierdzeniu uchybień w ramach kontroli.
+
+**Art. 209xb.**
+
+1. Podmiot, na którego wniosek Prezes Urzędu występuje o informację o istnieniu negatywnych przesłanek, który:
 
 - **1)** nie realizuje obowiązku określonego w art. 189f ust. 5 zdanie drugie,
 - **2)** nie realizuje obowiązku określonego w art. 189f ust. 8 lub realizując ten obowiązek, przekazuje informację nieprawdziwą lub niepełną za dany kwartał – podlega karze pieniężnej w wysokości od 2000 do 20 000 zł.
@@ -7243,6 +7357,8 @@ Art. 213–221. (pominięte)
 ### DZIAŁ XIII Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 213–221.** (pominięte)
 
 #### Rozdział 2 Przepisy przejściowe i dostosowujące
 

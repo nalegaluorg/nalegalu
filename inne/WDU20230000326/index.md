@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o fundacji rodzinnej
+# Ustawa z dnia 26 stycznia 2023 r. o fundacji rodzinnej
 
 *USTAWA z dnia 26 stycznia 2023 r.*
 

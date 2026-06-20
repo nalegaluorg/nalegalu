@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 23 czerwca 2016 r.*
 
@@ -133,7 +133,11 @@ source: pdf
 - **1)** arbiter dwukrotnie, bez uzasadnienia, odmówił wykonania zadań związanych z rozpatrzeniem odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7;
 - **2)** arbiter dwukrotnie, bez uzasadnienia, przekroczył termin wyznaczony przez dyrektora Centralnej Komisji Egzaminacyjnej na rozpatrzenie odwołania, o którym mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7.
 
-11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania. Art. 9cb. 1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
+11. Listy arbitrów są podawane do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+**Art. 9cb.**
+
+1. Odwołania, o których mowa w art. 44zzz ust. 7 albo art. 44zzzt ust. 7, rozpatruje Kolegium Arbitrażu Egzaminacyjnego przy dyrektorze Centralnej Komisji Egzaminacyjnej w składzie dwuosobowym.
 
 2. Skład Kolegium Arbitrażu Egzaminacyjnego wyznacza dyrektor Centralnej Komisji Egzaminacyjnej.
 
@@ -167,7 +171,9 @@ source: pdf
 
 9. Dyrektor Centralnej Komisji Egzaminacyjnej zawiera z arbitrami oraz egzaminatorami, o których mowa w ust. 6, umowy określające zakres ich obowiązków, stopień złożoności rozwiązania każdego zadania egzaminacyjnego rozpatrywanego w ramach odwołania oraz wysokość wynagrodzenia.
 
-10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna. Art. 9cc. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+10. Obsługę administracyjną i finansową Kolegium Arbitrażu Egzaminacyjnego zapewnia Centralna Komisja Egzaminacyjna.
+
+**Art. 9cc.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
 - **1)** tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania, biorąc pod uwagę konieczność równomiernego rozłożenia pracy pomiędzy arbitrów;
 - **2)** tryb i sposób działania Kolegium Arbitrażu Egzaminacyjnego, biorąc pod uwagę konieczność zapewnienia sprawnego rozpatrywania odwołań oraz wykorzystywania w pracach tego kolegium przede wszystkim środków komunikacji elektronicznej;
@@ -933,10 +939,7 @@ source: pdf
 **Art. 7.** W ustawie z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. z 2016 r. poz. 35 i 668) w art. 12:
 
 - **1)** w ust. 1 w pkt 1 w lit. b skreśla się wyrazy „art. 79a, art. 80 ust. 2, 2a, 2e, 3d–3g i 4, art. 90 ust. 1b, 1d–1f, 1h–1k, 1m–1o, 2b, 2c, 2g, 3d, 3e, 3f, 3g i 4”;
-- **2)** ust. 2 otrzymuje brzmienie: „2. Do postępowania rekrutacyjnego na rok szkolny 2016/2017 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t ust. 1, ust. 2 pkt 1–3, ust. 3–10, art. 20v, art. 20w ust. 1 i 2 oraz art. 20z–20ze ustawy zmienianej w art. 1, a także przepisy wydane na podstawie art. 20l ustawy zmienianej w art. 1.”. [Art. 8. Do postępowania rekrutacyjnego na lata szkolne 2017/2018 i 2018/2019 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy:
-- **1)** art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t ust. 1, ust. 2 pkt 1– 3, ust. 3–10, art. 20v, art. 20w ust. 1 oraz art. 20z–20zc, art. 20zd i art. 20ze ustawy zmienianej w art. 1;
-- **2)** art. 20w ust. 2, art. 20wa i art. 20zca ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą;
-- **3)** wydane na podstawie art. 20l ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.]
+- **2)** ust. 2 otrzymuje brzmienie: „2. Do postępowania rekrutacyjnego na rok szkolny 2016/2017 do oddziałów przedszkolnych w publicznych szkołach podstawowych stosuje się przepisy art. 20a ust. 1, 2, 4, 6 i 7, art. 20b, art. 20c, art. 20s, art. 20t ust. 1, ust. 2 pkt 1–3, ust. 3–10, art. 20v, art. 20w ust. 1 i 2 oraz art. 20z–20ze ustawy zmienianej w art. 1, a także przepisy wydane na podstawie art. 20l ustawy zmienianej w art. 1.”.
 
 **Art. 9.**
 
@@ -982,11 +985,7 @@ source: pdf
 
 2. Z dniem 1 września 2016 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 1, w zakresie sprawdzianu przeprowadzanego w ostatnim roku nauki w szkole podstawowej i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania szkoły podstawowej dla dorosłych przestają być egzaminatorami w tym zakresie.
 
-3. Postępowania w sprawie wpisu do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 1, w zakresie, o którym mowa w ust. 1, wszczęte i niezakończone przed dniem 1 września 2016 r. podlegają umorzeniu. [Art. 16. W przypadku konieczności zapewnienia podręczników lub materiałów edukacyjnych do danego języka obcego nowożytnego dostosowanych do stopnia zaawansowania znajomości danego języka obcego nowożytnego, o której mowa w art. 22ae ust. 10b i 10c ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, możliwość zapewnienia tych podręczników lub materiałów edukacyjnych powstaje, począwszy od roku:
-
-- **1)** 2016 – na wyposażenie klas IV szkół podstawowych, klas I gimnazjów oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klasy IV szkoły podstawowej i klasy I gimnazjum;
-- **2)** 2017 – na wyposażenie klas IV i V szkół podstawowych, klas I i II gimnazjów oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klasy IV i V szkoły podstawowej oraz klasy I i II gimnazjum;
-- **3)** 2018 – na wyposażenie klas V i VI szkół podstawowych, klas II i III gimnazjów oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klasy V i VI szkoły podstawowej oraz klasy II i III gimnazjum.]
+3. Postępowania w sprawie wpisu do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 1, w zakresie, o którym mowa w ust. 1, wszczęte i niezakończone przed dniem 1 września 2016 r. podlegają umorzeniu.
 
 **Art. 17.** Przepisu art. 31 ust. 1 pkt 10b ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą nie stosuje się do arkuszy organizacji publicznych przedszkoli, szkół i placówek na rok szkolny 2016/2017.
 

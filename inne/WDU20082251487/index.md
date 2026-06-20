@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Pomoc państwa w zakresie dożywiania”
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Pomoc państwa w zakresie dożywiania"
 
 *USTAWA z dnia 5 grudnia 2008 r.*
 

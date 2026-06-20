@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
+# Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
 
 *USTAWA z dnia 16 maja 2019 r.*
 

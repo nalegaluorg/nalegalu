@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi
 
 | Pole | Wartość |
 |---|---|

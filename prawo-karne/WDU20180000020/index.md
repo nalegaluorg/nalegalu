@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny
+# Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy - Kodeks karny
 
 *USTAWA z dnia 8 grudnia 2017 r.*
 

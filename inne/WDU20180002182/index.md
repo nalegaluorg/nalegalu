@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej
+# Ustawa z dnia 4 października 2018 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 4 października 2018 r.*
 

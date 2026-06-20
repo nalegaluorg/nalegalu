@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych
+# Ustawa z dnia 15 września 2022 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 *USTAWA z dnia 15 września 2022 r.*
 

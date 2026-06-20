@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rzecznikach patentowych
+# Ustawa z dnia 11 kwietnia 2001 r. o rzecznikach patentowych.
 
 *USTAWA z dnia 11 kwietnia 2001 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2001-05-21 |
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010490509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.pdf) |
-
-Art. 69–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -971,6 +969,8 @@ Art. 69–72. (pominięte)
 **Art. 68.** Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania dyscyplinarnego, w tym orzekania, a także właściwość i skład sądów dyscyplinarnych oraz tryb powoływania członków składów orzekających, jak również sposób wykonywania orzeczeń i obliczania kosztów postępowania.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 69–72.** (pominięte)
 
 **Art. 73.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geodezyjne i kartograficzne
+# Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne
 
 *USTAWA z dnia 26 września 2025 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wdrożeniu naziemnej telewizji cyfrowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wdrożeniu naziemnej telewizji cyfrowej
 
 | Pole | Wartość |
 |---|---|
@@ -35,7 +35,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 30 czerwca 2011 r.
 o wdrożeniu naziemnej telewizji cyfrowej
-Art. 20–22. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -215,6 +214,8 @@ Art. 20–22. (pominięte)
 4. Kara pieniężna stanowi dochód budżetu państwa.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących
+
+**Art. 20–22.** (pominięte)
 
 #### Rozdział 6 Przepisy przejściowe, dostosowujące i końcowe
 

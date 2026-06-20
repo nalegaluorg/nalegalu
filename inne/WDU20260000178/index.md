@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy
+# Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy - Kodeks wyborczy
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

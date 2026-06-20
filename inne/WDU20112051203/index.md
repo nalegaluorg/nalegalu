@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o weteranach działań poza granicami państwa
+# Ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2011-09-29 |
 | Ostatnia zmiana | 2026-02-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1203/text.pdf) |
-
-Art. 39–44. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -867,6 +865,8 @@ Art. 39–44. (pominięte)
 4. Dane, o których mowa w ust. 2, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 39–44.** (pominięte)
 
 #### Rozdział 9 Przepisy końcowe
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 10 czerwca 2014 r.*
 

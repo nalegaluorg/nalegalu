@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie psychologa oraz samorządzie zawodowym psychologów
+# Ustawa z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

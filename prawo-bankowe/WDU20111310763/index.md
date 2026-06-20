@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo bankowe, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym
+# Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy - Prawo bankowe, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 

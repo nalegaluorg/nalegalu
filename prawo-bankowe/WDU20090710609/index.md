@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy – Prawo bankowe
+# Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe
 
 *USTAWA z dnia 24 kwietnia 2009 r.*
 

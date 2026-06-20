@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw
+# Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw
 
 *USTAWA z dnia 25 lutego 2021 r.*
 

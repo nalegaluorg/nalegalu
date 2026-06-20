@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zakładach leczniczych dla zwierząt
+# Ustawa z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt
 
 *USTAWA z dnia 18 grudnia 2003 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa
+# Ustawa z dnia 26 maja 2023 r. o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa
 
 *USTAWA z dnia 26 maja 2023 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Uniwersytetu Medycznego w Łodzi
+# Ustawa z dnia 17 kwietnia 2026 r. o zmianie ustawy o utworzeniu Uniwersytetu Medycznego w Łodzi
 
 *USTAWA z dnia 17 kwietnia 2026 r.*
 

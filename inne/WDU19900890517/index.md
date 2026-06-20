@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zniesieniu i likwidacji niektórych funduszy
+# Ustawa z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy.
 
 *USTAWA z dnia 14 grudnia 1990 r.*
 

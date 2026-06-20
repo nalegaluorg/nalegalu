@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych
+# Ustawa z dnia 28 czerwca 2012 r. o spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych
 
 *USTAWA z dnia 28 czerwca 2012 r.*
 

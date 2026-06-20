@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie zagranicznej
+# Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o służbie zagranicznej
 
 *USTAWA z dnia 20 maja 2021 r.*
 

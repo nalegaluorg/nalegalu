@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
+# Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 lutego 2026 r.*
 

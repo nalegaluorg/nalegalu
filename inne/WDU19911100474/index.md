@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych przepisów o ubezpieczeniu społecznym.
+# Ustawa z dnia 16 października 1991 r. o zmianie niektórych przepisów o ubezpieczeniu społecznym.
 
 | Pole | Wartość |
 |---|---|

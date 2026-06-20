@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o restytucji narodowych dóbr kultury
+# Ustawa z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury
 
 *USTAWA z dnia 25 maja 2017 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2017-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1086/text.pdf) |
-
-Art. 54–63. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -482,6 +480,8 @@ Art. 54–63. (pominięte)
 **Art. 53.** Nie podlega karze za przestępstwo określone w art. 52, kto dobrowolnie zwrócił dobro kultury właściwym organom państwa, z którego zostało wyprowadzone, lub właściwym organom polskim lub kto ujawnił wobec właściwego organu miejsce przechowywania dobra kultury lub osobę je przechowującą, na skutek czego dobro kultury zostało odnalezione.
 
 #### Rozdział 7 Zmiany w przepisach
+
+**Art. 54–63.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe, przepis dostosowujący i końcowy
 

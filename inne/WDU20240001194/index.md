@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dozorze technicznym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dozorze technicznym
 
 *USTAWA z dnia 21 grudnia 2000 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2024-08-06 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1194/text.pdf) |
-
-Art. 66–68. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -918,6 +916,8 @@ Art. 66–68. (pominięte)
 **Art. 65.** Postępowanie w sprawach określonych w art. 64 następuje w trybie określonym w przepisach Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 66–68.** (pominięte)
 
 #### Rozdział 6a Przepisy epizodyczne
 

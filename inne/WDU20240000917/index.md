@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zdrowia psychicznego Uznając, że zdrowie psychiczne jest fundamentalnym dobrem osobistym człowieka, a ochrona praw osób z zaburzeniami psychicznymi należy do obowiązków państwa, stanowi się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 19 sierpnia 1994 r.*
 

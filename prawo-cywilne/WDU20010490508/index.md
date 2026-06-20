@@ -29,7 +29,6 @@ source: pdf
 
 Zawieszenie oraz rozwiązanie stosunku pracy z ekspertem
 Przepisy przejściowe i końcowe
-Art. 311–314. (pominięte)
 
 ## TYTUŁ I Przepisy ogólne
 
@@ -855,9 +854,7 @@ Art. 311–314. (pominięte)
 
 1. Patent nie rozciąga się na materiał biologiczny otrzymany przez jednokrotną reprodukcję materiału biologicznego wprowadzonego do obrotu przez uprawnionego z patentu lub za jego zgodą, jeżeli reprodukcja jest nieodzownym następstwem wykorzystywania materiału biologicznego.
 
-2. Osoba, która nabyła lub w inny sposób uzyskała od uprawnionego z patentu lub za jego zgodą chroniony patentem materiał roślinny, do wykorzystania w działalności rolniczej, upoważniona jest do jego wykorzystywania dla wielokrotnej reprodukcji w ramach własnego gospodarstwa rolnego, z uwzględnieniem takich samych ograniczeń, jakie są przewidziane dla korzystania, bez zgody hodowcy, z materiału siewnego odmiany rośliny chronionej na podstawie przepisów ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz.
-
-- **213)** .
+2. Osoba, która nabyła lub w inny sposób uzyskała od uprawnionego z patentu lub za jego zgodą chroniony patentem materiał roślinny, do wykorzystania w działalności rolniczej, upoważniona jest do jego wykorzystywania dla wielokrotnej reprodukcji w ramach własnego gospodarstwa rolnego, z uwzględnieniem takich samych ograniczeń, jakie są przewidziane dla korzystania, bez zgody hodowcy, z materiału siewnego odmiany rośliny chronionej na podstawie przepisów ustawy z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213).
 
 3. Przepis ust. 2 stosuje się odpowiednio do inwentarza hodowlanego lub innego zwierzęcego materiału zarodowego.
 
@@ -3148,6 +3145,8 @@ Art. 311–314. (pominięte)
 ## TYTUŁ XI Zmiany w przepisach obowiązujących.
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 311–314.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe i końcowe
 

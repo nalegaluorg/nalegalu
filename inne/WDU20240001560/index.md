@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników
+# Ustawa z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników
 
 *USTAWA z dnia 11 października 2024 r.*
 

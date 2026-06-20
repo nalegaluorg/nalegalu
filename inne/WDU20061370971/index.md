@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
+# Ustawa z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 

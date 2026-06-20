@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach wydobywczych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 października 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o odpadach wydobywczych
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 10 lipca 2008 r.
 o odpadach wydobywczych
-Art. 48–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -813,6 +812,8 @@ Art. 48–52. (pominięte)
 **Art. 47.** Kto bez wymaganej zgody właściwego organu albo wbrew jej warunkom zamyka obiekt unieszkodliwiania odpadów wydobywczych lub jego część, podlega karze grzywny do 100 000 złotych albo karze aresztu.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 48–52.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i końcowe
 

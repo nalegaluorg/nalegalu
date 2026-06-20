@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wynikach głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 20 czerwca 2010 r.
+# Obwieszczenie Państwowej Komisji Wyborczej z dnia 21 czerwca 2010 r. o wynikach głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 20 czerwca 2010 r.
 
 *OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 21 czerwca 2010 r.*
 

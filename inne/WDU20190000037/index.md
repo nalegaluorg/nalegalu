@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o europejskich partiach politycznych i europejskich fundacjach politycznych
+# Ustawa z dnia 22 listopada 2018 r. o europejskich partiach politycznych i europejskich fundacjach politycznych
 
 *USTAWA z dnia 22 listopada 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie powiadamiania ratunkowego
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o systemie powiadamiania ratunkowego
 
 *USTAWA z dnia 17 września 2020 r.*
 

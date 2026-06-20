@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw
+# Ustawa z dnia 9 kwietnia 1999 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw.
 
 *USTAWA z dnia 9 kwietnia 1999 r.*
 

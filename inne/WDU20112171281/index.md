@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw
+# Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy - Kodeks wyborczy oraz niektórych innych ustaw
 
 *USTAWA z dnia 31 sierpnia 2011 r.*
 

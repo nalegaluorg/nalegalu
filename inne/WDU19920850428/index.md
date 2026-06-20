@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o regionalnych izbach obrachunkowych
+# Ustawa z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych.
 
 *USTAWA z dnia 7 października 1992 r.*
 
@@ -424,7 +424,11 @@ source: pdf
 
 4. Krajowa Rada pracuje na podstawie regulaminu zatwierdzonego przez Prezesa Rady Ministrów.
 
-5. Z inicjatywy ministra właściwego do spraw finansów publicznych współpraca, o której mowa w ust. 1 pkt 8, może być prowadzona w ramach zespołów problemowych. Art. 25aa. 1. Krajowa Rada Regionalnych Izb Obrachunkowych w celu zapewnienia jednolitości udzielanych przez izby wyjaśnień w sprawach dotyczących stosowania przepisów o finansach publicznych może wydawać, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych, wytyczne, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej.
+5. Z inicjatywy ministra właściwego do spraw finansów publicznych współpraca, o której mowa w ust. 1 pkt 8, może być prowadzona w ramach zespołów problemowych.
+
+**Art. 25aa.**
+
+1. Krajowa Rada Regionalnych Izb Obrachunkowych w celu zapewnienia jednolitości udzielanych przez izby wyjaśnień w sprawach dotyczących stosowania przepisów o finansach publicznych może wydawać, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych, wytyczne, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej.
 
 2. Wytyczne, o których mowa w ust. 1, zawierają co najmniej opis zagadnienia oraz stanowisko Krajowej Rady Regionalnych Izb Obrachunkowych.
 

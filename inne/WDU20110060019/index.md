@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia psychicznego
+# Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o ochronie zdrowia psychicznego
 
 *USTAWA z dnia 3 grudnia 2010 r.*
 

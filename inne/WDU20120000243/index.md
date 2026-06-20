@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
+# Ustawa z dnia 27 stycznia 2012 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 stycznia 2012 r.*
 
@@ -295,7 +295,11 @@ source: pdf
 
 3. Jeżeli w wyniku przekazania gospodarstwa, o którym mowa w ust. 2 pkt 4, uprawniony do otrzymania oddzielnej płatności do owoców miękkich jest więcej niż jeden rolnik, oddzielną płatność do owoców miękkich przyznaje się temu z rolników, na którego pozostali wyrazili pisemną zgodę.
 
-4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę oddzielnej płatności do owoców miękkich, uwzględniając wysokość kwoty określonej na ten cel w rozporządzeniu nr 73/2009. Art. 24ab. 1. Rolnikowi przysługuje płatność uzupełniająca dla producentów surowca tytoniowego, zwana dalej „płatnością niezwiązaną do tytoniu”, jeżeli rolnik ten:
+4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę oddzielnej płatności do owoców miękkich, uwzględniając wysokość kwoty określonej na ten cel w rozporządzeniu nr 73/2009.
+
+**Art. 24ab.**
+
+1. Rolnikowi przysługuje płatność uzupełniająca dla producentów surowca tytoniowego, zwana dalej „płatnością niezwiązaną do tytoniu”, jeżeli rolnik ten:
 
 - **1)** spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i złożył wniosek o jej przyznanie;
 - **2)** w dniu 14 marca 2012 r. był wpisany do rejestru, o którym mowa w art. 33fd ust. 1 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868) (w brzmieniu z dnia 11 kwietnia 2008 r., Dz. U. Nr 52, poz. 303), zwanej dalej „ustawą o organizacji rynków”.
@@ -319,7 +323,11 @@ source: pdf
 
 8. Do płatności niezwiązanej do tytoniu przepisy art. 7 ust. 5, art. 18 ust. 2, 3 i 5, art. 19 ust. 2–5 i 7–16 stosuje się odpowiednio.
 
-9. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę płatności niezwiązanej do tytoniu, uwzględniając maksymalną wysokość środków finansowych zatwierdzonych przez Komisję Europejską w decyzji wydawanej na podstawie art. 132 ust. 2 rozporządzenia nr 73/2009 oraz założenia do ustawy budżetowej na dany rok. Art. 24ac. 1. Rolnikowi przysługuje płatność uzupełniająca w zakresie produkcji ziemniaka skrobiowego, zwana dalej „płatnością niezwiązaną do skrobi”, jeżeli rolnik ten:
+9. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę płatności niezwiązanej do tytoniu, uwzględniając maksymalną wysokość środków finansowych zatwierdzonych przez Komisję Europejską w decyzji wydawanej na podstawie art. 132 ust. 2 rozporządzenia nr 73/2009 oraz założenia do ustawy budżetowej na dany rok.
+
+**Art. 24ac.**
+
+1. Rolnikowi przysługuje płatność uzupełniająca w zakresie produkcji ziemniaka skrobiowego, zwana dalej „płatnością niezwiązaną do skrobi”, jeżeli rolnik ten:
 
 - **1)** spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i złożył wniosek o jej przyznanie;
 - **2)** w dniu 14 marca 2012 r. był wpisany do rejestru, o którym mowa w art. 38c ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i o organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm. ) (w brzmieniu z dnia 4 lipca 2009 r., Dz. U. Nr 95, poz. 792), zwanej dalej „ustawą o ARR”.

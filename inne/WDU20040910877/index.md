@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o środkach żywienia zwierząt oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 2 kwietnia 2004 r.*
 

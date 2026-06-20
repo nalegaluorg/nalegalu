@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo farmaceutyczne oraz ustawy o zawodzie farmaceuty
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy - Prawo farmaceutyczne oraz ustawy o zawodzie farmaceuty
 
 *USTAWA z dnia 12 maja 2022 r.*
 

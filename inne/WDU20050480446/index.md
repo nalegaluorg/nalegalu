@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wykonywaniu mandatu posła i senatora
+# Ustawa z dnia 6 stycznia 2005 r. o zmianie ustawy o wykonaniu mandatu posła i senatora
 
 *USTAWA z dnia 6 stycznia 2005 r.*
 

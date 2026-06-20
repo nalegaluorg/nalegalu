@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 10 grudnia 2020 r.*
 
@@ -70,7 +70,11 @@ source: pdf
 
 4. Członkom Komisji nie przysługuje wynagrodzenie.
 
-5. Minister właściwy do spraw zdrowia określi, w drodze zarządzenia, regulamin prac Komisji określający jej organizację, sposób i tryb działania oraz sposób obsługi prac tej Komisji, mając na celu zapewnienie sprawnego działania Komisji. Art. 95eb. 1. Członkiem Komisji może być osoba, która:
+5. Minister właściwy do spraw zdrowia określi, w drodze zarządzenia, regulamin prac Komisji określający jej organizację, sposób i tryb działania oraz sposób obsługi prac tej Komisji, mając na celu zapewnienie sprawnego działania Komisji.
+
+**Art. 95eb.**
+
+1. Członkiem Komisji może być osoba, która:
 
 - **1)** korzysta z pełni praw publicznych;
 - **2)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
@@ -99,7 +103,11 @@ source: pdf
 - **2)** imię i nazwisko: małżonka, zstępnych i wstępnych w linii prostej do drugiego stopnia oraz osób, z którymi członkowie Komisji pozostają we wspólnym pożyciu, oraz osób związanych z nimi z tytułu przysposobienia, opieki lub kurateli, wobec których zaistniały okoliczności, o których mowa w ust. 3;
 - **3)** wskazanie okoliczności, o których mowa w ust. 3.
 
-8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 4, mając na uwadze zapewnienie przejrzystości działania Komisji oraz wymagania, o których mowa w ust. 7, a także zapewnienie bezstronności działania Komisji. Art. 95ec. 1. Do zadań Komisji należy wydawanie opinii w przedmiocie oceny wniosku, o którym mowa w art. 95d ust. 1, dotyczącego inwestycji, której wartość kosztorysowa na dzień złożenia wniosku o wydanie takiej opinii przekracza 50 mln zł, w zakresie dokonania oceny, w jakim stopniu dana inwestycja jest celowa.
+8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 4, mając na uwadze zapewnienie przejrzystości działania Komisji oraz wymagania, o których mowa w ust. 7, a także zapewnienie bezstronności działania Komisji.
+
+**Art. 95ec.**
+
+1. Do zadań Komisji należy wydawanie opinii w przedmiocie oceny wniosku, o którym mowa w art. 95d ust. 1, dotyczącego inwestycji, której wartość kosztorysowa na dzień złożenia wniosku o wydanie takiej opinii przekracza 50 mln zł, w zakresie dokonania oceny, w jakim stopniu dana inwestycja jest celowa.
 
 2. Komisja opiniuje wniosek, o którym mowa w art. 95d ust. 1, w zakresie określonym w ust. 1, na podstawie informacji, danych i dokumentów, o których mowa w art. 95f ust. 3 pkt 1–4 i 7. Dla ważności opinii, o której mowa w ust. 1, potrzebne jest zgodne stanowisko co najmniej trzech członków Komisji.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
+# Ustawa z dnia 15 kwietnia 2005 r. nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego
 
 *USTAWA z dnia 15 kwietnia 2005 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2005-05-13 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050830719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.pdf) |
-
-Art. 65–72. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -107,7 +105,8 @@ Art. 65–72. (pominięte)
     - **c)** inne organy nadzoru wskazane przez organy, o których mowa w lit. a i b;
 
 - **22)** transakcja wewnątrzgrupowa – transakcję, na podstawie której należący do konglomeratu finansowego podmiot regulowany lub podmiot, wobec którego podmiot wchodzący w skład konglomeratu finansowego pełni funkcję organu zarządzającego, bezpośrednio lub pośrednio zobowiązuje się wobec innego podmiotu z tej samej grupy lub innego podmiotu blisko powiązanego z podmiotem z tej grupy do określonego zachowania lub do spełnienia określonego świadczenia;
-- **23)** znacząca koncentracja ryzyka – możliwość poniesienia przez podmiot regulowany wchodzący w skład konglomeratu finansowego straty, która jest wystarczająco istotna, by zagrozić wypłacalności lub sytuacji finansowej podmiotów regulowanych w tym konglomeracie finansowym; <24) rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ).>
+- **23)** znacząca koncentracja ryzyka – możliwość poniesienia przez podmiot regulowany wchodzący w skład konglomeratu finansowego straty, która jest wystarczająco istotna, by zagrozić wypłacalności lub sytuacji finansowej podmiotów regulowanych w tym konglomeracie finansowym;
+- **24)** rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ).
 
 #### Rozdział 2 Identyfikowanie konglomeratów finansowych
 
@@ -417,7 +416,7 @@ Art. 65–72. (pominięte)
 
 6. Na potrzeby przekazania metadanej, o której mowa w ust. 5 pkt 2, podmiot regulowany występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-7. Koordynator udostępnia informacje, o których mowa w ust. 3, w europejskim pojedynczym punkcie dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859.>
+7. Koordynator udostępnia informacje, o których mowa w ust. 3, w europejskim pojedynczym punkcie dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859.
 
 **Art. 43.** Wdrożenie systemów zarządzania ryzykiem, o których mowa w art. 42, polega na:
 
@@ -558,6 +557,8 @@ Art. 65–72. (pominięte)
 **Art. 64.** W przypadku stwierdzenia naruszeń przepisów prawa lub innych nieprawidłowości na poziomie konglomeratu finansowego koordynator informuje zagraniczne organy nadzoru o potrzebie podjęcia odpowiednich działań w stosunku do podmiotów wchodzących w skład konglomeratu finansowego, mających siedziby w państwach członkowskich.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 65–72.** (pominięte)
 
 **Art. 73.** Do postępowań w sprawach objętych przepisami ustaw zmienianych niniejszą ustawą, wszczętych, a niezakończonych przed dniem jej wejścia w życie, stosuje się przepisy tych ustaw, w brzmieniu nadanym niniejszą ustawą.
 

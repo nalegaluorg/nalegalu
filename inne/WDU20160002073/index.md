@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o statusie sędziów Trybunału Konstytucyjnego
+# Ustawa z dnia 30 listopada 2016 r. o statusie sędziów Trybunału Konstytucyjnego
 
 *USTAWA z dnia 30 listopada 2016 r.*
 

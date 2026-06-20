@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny i ustawy - Kodeks karny wykonawczy
+# Ustawa z dnia 8 października 2004 r. o zmianie ustawy - Kodeks karny i ustawy - Kodeks karny wykonawczy
 
 *USTAWA z dnia 8 października 2004 r.*
 

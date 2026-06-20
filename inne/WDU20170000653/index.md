@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
+# Ustawa z dnia 10 lutego 2017 r. o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych
 
 *USTAWA z dnia 10 lutego 2017 r.*
 

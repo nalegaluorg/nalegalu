@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie i uchyleniu niektórych ustaw w związku z uzyskaniem przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej
+# Ustawa z dnia 20 kwietnia 2004 r. o zmianie i uchyleniu niektórych ustaw w związku z uzyskaniem przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej
 
 *USTAWA Ustawa z dnia 20 kwietnia 2004 r.*
 

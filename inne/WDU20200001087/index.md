@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+# Ustawa z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 6 maja 2020 r.*
 
@@ -150,7 +150,11 @@ source: pdf
 - **1)** ust. 1–18 stosuje się;
 - **2)** art. 13i stosuje się odpowiednio.
 
-20. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania korzystającego z dróg publicznych, uwzględniając potrzebę zapewnienia przekazywania prawidłowych danych do rejestru, o którym mowa w ust. 1. Art. 13ib. 1. Korzystający z dróg publicznych jest obowiązany przed rozpoczęciem przejazdu po drogach, o których mowa w art. 13ha ust. 1, uzupełnić rejestr, o którym mowa w art. 13ia ust. 1, o:
+20. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania korzystającego z dróg publicznych, uwzględniając potrzebę zapewnienia przekazywania prawidłowych danych do rejestru, o którym mowa w ust. 1.
+
+**Art. 13ib.**
+
+1. Korzystający z dróg publicznych jest obowiązany przed rozpoczęciem przejazdu po drogach, o których mowa w art. 13ha ust. 1, uzupełnić rejestr, o którym mowa w art. 13ia ust. 1, o:
 
 - **1)** kategorię pojazdu, o której mowa w art. 13ha ust. 3 lub liczbę osi pojazdu – w przypadku różnicowania, o którym mowa w art. 13ha ust. 7 pkt 1;
 - **2)** numery rejestracyjne przyczepy lub naczepy stanowiących zespół pojazdów z pojazdem, o którym mowa w art. 13ia ust. 5 pkt 3;
@@ -160,15 +164,27 @@ source: pdf
 
 3. Korzystający z dróg publicznych jest obowiązany, po uzupełnieniu rejestru, o którym mowa w art. 13ia ust. 1, przekazać numer referencyjny, o którym mowa w art. 13ia ust. 8, kierującemu pojazdem samochodowym.
 
-4. W przypadku nieotrzymania numeru referencyjnego, o którym mowa w art. 13ia ust. 8, kierujący pojazdem samochodowym odmawia przejazdu. Art. 13ic. 1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa w art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
+4. W przypadku nieotrzymania numeru referencyjnego, o którym mowa w art. 13ia ust. 8, kierujący pojazdem samochodowym odmawia przejazdu.
 
-2. W przypadku niedostępności Systemu Poboru Opłaty Elektronicznej KAS przepisu ust. 1 nie stosuje się. Art. 13id. 1. Analizę danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS może prowadzić wyznaczona jednostka sektora finansów publicznych lub instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2019 r. poz. 1350 i 2227 oraz z 2020 r. poz. 284).
+**Art. 13ic.**
+
+1. W przypadku stwierdzenia przerwy trwającej dłużej niż 15 minut w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa w art. 13i ust. 3a, kierujący pojazdem samochodowym jest obowiązany do niezwłocznego zatrzymania się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej albo opuszcza niezwłocznie drogę, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6. Wznowienie przejazdu po drodze, o której mowa w przepisach wydanych na podstawie art. 13ha ust. 6, kierujący pojazdem samochodowym może rozpocząć po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
+
+2. W przypadku niedostępności Systemu Poboru Opłaty Elektronicznej KAS przepisu ust. 1 nie stosuje się.
+
+**Art. 13id.**
+
+1. Analizę danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS może prowadzić wyznaczona jednostka sektora finansów publicznych lub instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2019 r. poz. 1350 i 2227 oraz z 2020 r. poz. 284).
 
 2. Podmiot, o którym mowa w ust. 1, przekazuje Szefowi KAS na bieżąco wyniki analizy danych gromadzonych w Systemie Poboru Opłaty Elektronicznej KAS.
 
 3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyznaczyć jednostkę sektora finansów publicznych albo instytuty badawcze, o których mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych, do dokonywania analizy danych z Systemu Poboru Opłaty Elektronicznej KAS oraz wskazać zakres danych podlegających tej analizie, uwzględniając przygotowanie techniczne wyznaczanego podmiotu i jego doświadczenie w analizie danych, w szczególności danych geolokalizacyjnych.
 
-4. W przypadku gdy podmiot, o którym mowa w ust. 3, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 3, wydaje się w porozumieniu z właściwym ministrem. Art. 13ie. 1. Szef KAS udostępnia ministrowi właściwemu do spraw transportu w celu realizacji jego ustawowych zadań, w tym kształtowania polityki transportowej, sieci dróg płatnych oraz stawek opłaty elektronicznej dane zgromadzone w Systemie Poboru Opłaty Elektronicznej KAS.
+4. W przypadku gdy podmiot, o którym mowa w ust. 3, jest podmiotem, który jest nadzorowany przez ministra innego niż minister właściwy do spraw finansów publicznych, rozporządzenie, o którym mowa w ust. 3, wydaje się w porozumieniu z właściwym ministrem.
+
+**Art. 13ie.**
+
+1. Szef KAS udostępnia ministrowi właściwemu do spraw transportu w celu realizacji jego ustawowych zadań, w tym kształtowania polityki transportowej, sieci dróg płatnych oraz stawek opłaty elektronicznej dane zgromadzone w Systemie Poboru Opłaty Elektronicznej KAS.
 
 2. Sposób udostępnia danych, o którym mowa ust. 1, określa porozumienie zawarte pomiędzy ministrem właściwym do spraw transportu a Szefem KAS.
 

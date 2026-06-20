@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o żegludze śródlądowej oraz ustawy o dozorze technicznym
+# Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o żegludze śródlądowej oraz ustawy o dozorze technicznym
 
 *USTAWA z dnia 7 maja 2009 r.*
 

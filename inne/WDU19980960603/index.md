@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa
+# Ustawa z dnia 24 lipca 1998 r. o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa.
 
 *USTAWA z dnia 24 lipca 1998 r.*
 

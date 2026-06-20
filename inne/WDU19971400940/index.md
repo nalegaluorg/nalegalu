@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o listach zastawnych i bankach hipotecznych
+# Ustawa z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych.
 
 *USTAWA z dnia 29 sierpnia 1997 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1997-11-21 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.pdf) |
-
-Art. 38–41. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -44,12 +42,14 @@ Art. 38–41. (pominięte)
 
 - **2)** aktywach stanowiących zabezpieczenie listów zastawnych – należy przez to rozumieć aktywa podstawowe, aktywa zastępcze oraz instrumenty pochodne, o których mowa w art. 18a;
 - **3)** aktywach zastępczych – należy przez to rozumieć środki banku hipotecznego, o których mowa w art. 18 ust. 3;
-- **4)** bankowo-hipotecznej wartości nieruchomości – należy przez to rozumieć ustaloną zgodnie z przepisami ustawy wartość, która w ocenie banku hipotecznego odzwierciedla poziom ryzyka związanego z nieruchomością jako przedmiotem zabezpieczenia kredytów udzielanych przez bank hipoteczny; <4a) europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
-- **4b)** formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;>
-- **5)** instrumencie pochodnym – należy przez to rozumieć instrument pochodny w rozumieniu art. 3 pkt 28a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933 i 2185); <5a) metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;>
+- **4)** bankowo-hipotecznej wartości nieruchomości – należy przez to rozumieć ustaloną zgodnie z przepisami ustawy wartość, która w ocenie banku hipotecznego odzwierciedla poziom ryzyka związanego z nieruchomością jako przedmiotem zabezpieczenia kredytów udzielanych przez bank hipoteczny;
+- **4a)** europejskim pojedynczym punkcie dostępu – należy przez to rozumieć europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859; 4b) formacie umożliwiającym ekstrakcję danych – należy przez to rozumieć format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
+- **5)** instrumencie pochodnym – należy przez to rozumieć instrument pochodny w rozumieniu art. 3 pkt 28a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500, 1488, 1933 i 2185);
+- **5a)** metadanych – należy przez to rozumieć metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
 - **6)** nadzabezpieczeniu – należy przez to rozumieć poziom zabezpieczenia listów zastawnych wyższy niż łączna nominalna wartość znajdujących się w obrocie odpowiednio hipotecznych albo publicznych listów zastawnych;
 - **7)** przymusowej restrukturyzacji – należy przez to rozumieć przymusową restrukturyzację, o której mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253);
-- **8)** puli aktywów stanowiących zabezpieczenie – należy przez to rozumieć aktywa stanowiące zabezpieczenie listów zastawnych wpisane do rejestru zabezpieczenia listów zastawnych; <8a) rozporządzeniu 2023/2859 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **8)** puli aktywów stanowiących zabezpieczenie – należy przez to rozumieć aktywa stanowiące zabezpieczenie listów zastawnych wpisane do rejestru zabezpieczenia listów zastawnych;
+- **8a)** rozporządzeniu 2023/2859 – należy przez to rozumieć rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **9)** zabezpieczeniu hipoteką – należy przez to rozumieć hipotekę na rzecz banku hipotecznego ustanowioną na prawie użytkowania wieczystego lub prawie własności nieruchomości położonej na obszarze kraju.
 
 ### DZIAŁ II Listy zastawne
@@ -562,7 +562,7 @@ Art. 38–41. (pominięte)
 
 1c. Na potrzeby przekazania metadanej, o której mowa w ust. 1b pkt 2, bank hipoteczny występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-1d. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w ust. 1, w europejskim pojedynczym punkcie dostępu.>
+1d. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w ust. 1, w europejskim pojedynczym punkcie dostępu.
 
 2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może określić, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1, oraz sposób ich prezentacji, mając na względzie, aby informacje te umożliwiały inwestorom przeprowadzenie oceny ryzyka związanego z emisją listów zastawnych.
 
@@ -579,8 +579,8 @@ Art. 38–41. (pominięte)
 - **2)** uwzględnił w puli aktywów stanowiących zabezpieczenie instrumenty pochodne, w przypadku których nie zostały spełnione warunki określone w art. 18a ust. 1, lub
 - **3)** emituje listy zastawne przewidujące przedłużenie terminu ich zapadalności w przypadku innym niż określony w art. 7b, lub
 - **4)** stosuje oznaczenia listów zastawnych, o których mowa w art. 7d, niezgodnie z określonymi w ustawie warunkami ich stosowania lub w inny sposób istotnie narusza interesy inwestorów nabywających listy zastawne, lub
-- **5)** nie przekazuje informacji, o których mowa w art. 33c ust. 1, lub przekazuje je niezgodnie z tym przepisem, lub
-- **6)** nie udostępnia informacji, o których mowa w art. 33d ust. 1, lub udostępnia je niezgodnie z tym przepisem, lub <6a) nie przekazuje informacji, o których mowa w art. 33d ust. 1, lub przekazuje je niezgodnie z art. 33d ust. 1a i 1b, lub>
+- **5)** nie przekazuje informacji, o których mowa w art. 33c ust. 1, lub przekazuje je niezgodnie z tym przepisem, lub 6) nie udostępnia informacji, o których mowa w art. 33d ust. 1, lub udostępnia je niezgodnie z tym przepisem, lub
+- **6a)** nie przekazuje informacji, o których mowa w art. 33d ust. 1, lub przekazuje je niezgodnie z art. 33d ust. 1a i 1b, lub
 - **7)** narusza przepisy art. 24 ust. 1, 3 i 4 lub przepisy dotyczące utrzymywania nadwyżki, o której mowa w art. 18 ust. 3a.
 
 **Art. 33f.**
@@ -628,14 +628,18 @@ Art. 38–41. (pominięte)
 
 - **1)** nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej;
 - **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy od decyzji administracyjnej o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o wyniku postępowania w tej sprawie;
-- **3)** wniesieniu skargi do sądu administracyjnego na decyzję administracyjną o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o treści orzeczenia sądu administracyjnego w tej sprawie. <Art. 33j. 1. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w art. 33b ust. 1 i 4 oraz art. 33h ust. 1, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+- **3)** wniesieniu skargi do sądu administracyjnego na decyzję administracyjną o nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej oraz o treści orzeczenia sądu administracyjnego w tej sprawie.
+
+**Art. 33j.**
+
+1. Komisja Nadzoru Finansowego udostępnia informacje, o których mowa w art. 33b ust. 1 i 4 oraz art. 33h ust. 1, w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
 
 2. Informacje, o których mowa w art. 33b ust. 1 i 4 oraz art. 33h ust. 1, są opatrywane następującymi metadanymi:
 
 - **1)** nazwą (firmą) banku hipotecznego, którego dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego banku hipotecznego, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Komisji Nadzoru Finansowego;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 34.**
 
@@ -660,6 +664,8 @@ Art. 38–41. (pominięte)
 3. Jeżeli sprawca nieumyślnie dopuszcza się czynu określonego w ust. 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
 
 ### DZIAŁ VII Zmiany w przepisach obowiązujących i przepisy końcowe
+
+**Art. 38–41.** (pominięte)
 
 **Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
 

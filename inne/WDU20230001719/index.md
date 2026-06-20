@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wielkoobszarowych terenach zdegradowanych
+# Ustawa z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych
 
 *USTAWA z dnia 16 czerwca 2023 r.*
 

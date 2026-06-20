@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Kaliszu.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 30 marca 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Kaliszu.
 
 *ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 30 marca 2000 r.*
 

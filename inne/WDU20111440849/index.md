@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o finansowaniu Prawosławnego Seminarium Duchownego w Warszawie z budżetu państwa
+# Ustawa z dnia 13 maja 2011 r. o finansowaniu Prawosławnego Seminarium Duchownego w Warszawie z budżetu państwa
 
 *USTAWA z dnia 13 maja 2011 r.*
 

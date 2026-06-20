@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakładowym funduszu świadczeń socjalnych, ustawy o organizacjach pracodawców oraz ustawy o wprowadzeniu częściowej odpłatności za koszty wyżywienia i zakwaterowania w sanatoriach uzdrowiskowych
+# Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy o zakładowym funduszu świadczeń socjalnych, ustawy o organizacjach pracodawców oraz ustawy o wprowadzeniu częściowej odpłatności za koszty wyżywienia i zakwaterowania w sanatoriach uzdrowiskowych.
 
 *USTAWA z dnia 2 lutego 1996 r.*
 

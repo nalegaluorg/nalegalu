@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o organizacjach pracodawców
+# Ustawa z dnia 23 maja 1991 r. o organizacjach pracodawców.
 
 *USTAWA z dnia 23 maja 1991 r.*
 

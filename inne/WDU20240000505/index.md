@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej
 
 *USTAWA z dnia 12 lutego 2010 r.*
 

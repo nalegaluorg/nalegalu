@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie komisji opiniodawczej.
+# Rozporządzenie Ministra Finansów z dnia 27 marca 2000 r. w sprawie komisji opiniodawczej.
 
 *ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 marca 2000 r.*
 

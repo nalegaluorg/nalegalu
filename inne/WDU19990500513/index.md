@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu ich przekazywania.
+# Rozporządzenie Ministra Kultury i Sztuki z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu i ich przekazywania.
 
 | Pole | Wartość |
 |---|---|

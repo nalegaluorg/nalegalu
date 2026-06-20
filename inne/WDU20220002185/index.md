@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców
+# Ustawa z dnia 7 października 2022 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych dla obywateli i przedsiębiorców
 
 *USTAWA z dnia 7 października 2022 r.*
 
@@ -290,9 +290,17 @@ source: pdf
 - **1)** adresata polecenia;
 - **2)** treść polecenia;
 - **3)** datę wydania polecenia;
-- **4)** treść opinii Prokuratorii Generalnej Rzeczypospolitej Polskiej. Art. 7bb. 1. Wykonywanie zadań objętych poleceniem wydanym w stosunku do podmiotów, o których mowa w art. 7ba ust. 1 pkt 3, następuje na podstawie umowy zawartej z podmiotem przez ministra wydającego polecenie i jest finansowane z części budżetowej, której dysponentem jest ten minister.
+- **4)** treść opinii Prokuratorii Generalnej Rzeczypospolitej Polskiej.
 
-2. W przypadku niezawarcia umowy, o której mowa w ust. 1, zadania objęte poleceniem są wykonywane na podstawie decyzji, o której mowa w art. 7ba ust. 3. W takim przypadku decyzja podlega natychmiastowemu wykonaniu i jest finansowana ze środków, o których mowa w ust. 1. Art. 7bc. 1. Jeżeli w stosunku do tego samego podmiotu wydano polecenie zarówno na podstawie art. 7a ust. 1, jak i art. 7ba ust. 1, a wykonanie ich obu jest niemożliwe, znacząco utrudnione lub uniemożliwiłoby prawidłowe funkcjonowanie podmiotu będącego adresatem polecenia, wiążące wobec podmiotu jest polecenie wydane na podstawie art. 7a ust. 1.
+**Art. 7bb.**
+
+1. Wykonywanie zadań objętych poleceniem wydanym w stosunku do podmiotów, o których mowa w art. 7ba ust. 1 pkt 3, następuje na podstawie umowy zawartej z podmiotem przez ministra wydającego polecenie i jest finansowane z części budżetowej, której dysponentem jest ten minister.
+
+2. W przypadku niezawarcia umowy, o której mowa w ust. 1, zadania objęte poleceniem są wykonywane na podstawie decyzji, o której mowa w art. 7ba ust. 3. W takim przypadku decyzja podlega natychmiastowemu wykonaniu i jest finansowana ze środków, o których mowa w ust. 1.
+
+**Art. 7bc.**
+
+1. Jeżeli w stosunku do tego samego podmiotu wydano polecenie zarówno na podstawie art. 7a ust. 1, jak i art. 7ba ust. 1, a wykonanie ich obu jest niemożliwe, znacząco utrudnione lub uniemożliwiłoby prawidłowe funkcjonowanie podmiotu będącego adresatem polecenia, wiążące wobec podmiotu jest polecenie wydane na podstawie art. 7a ust. 1.
 
 2. W sytuacji, o której mowa w ust. 1, Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek podmiotu będącego adresatem poleceń, uchyla polecenie wydane na podstawie art. 7ba ust. 1.”;
 

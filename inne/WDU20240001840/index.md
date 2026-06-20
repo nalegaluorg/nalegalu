@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
+# Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne
 
 *USTAWA z dnia 8 listopada 2024 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie szczegółowych zasad ustalenia wartości zobowiązań zaliczanych do państwowego długu publicznego, długu Skarbu Państwa, wartości zobowiązań z tytułu poręczeń i gwarancji oraz kwoty przewidywanych wypłat z tytułu poręczeń i gwarancji.
+# Rozporządzenie Ministra Finansów z dnia 16 grudnia 1999 r. w sprawie szczegółowych zasad ustalania wartości zobowiązań zaliczanych do państwowego długu publicznego, długu Skarbu Państwa, wartości zobowiązań z tytułu poręczeń i gwarancji oraz kwoty przewidywanych wypłat z tytułu poręczeń i gwarancji.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
+# Ustawa z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji
 
 *USTAWA z dnia 10 czerwca 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-07-08 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000996) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/996/text.pdf) |
-
-Art. 341–368. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -75,17 +73,18 @@ Art. 341–368. (pominięte)
 - **8)** działalność maklerska – działalność, o której mowa w art. 69 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz działalność, o której mowa w art. 69 ust. 4 tej ustawy, o ile jest wykonywana łącznie z działalnością, o której mowa w art. 69 ust. 2 tej ustawy;
 - **8a)** działanie w ramach przymusowej restrukturyzacji – podjęcie przez Fundusz decyzji o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 lub art. 102 ust. 1, zastosowanie co najmniej jednego z instrumentów przymusowej restrukturyzacji, o których mowa w art. 110, lub wykonanie przez Fundusz uprawnienia w przymusowej restrukturyzacji;
 - **9)** dzień roboczy – dzień od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy;
-- **10)** dzień spełnienia warunku gwarancji: <10a) europejski pojedynczy punkt dostępu – europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;>
+- **10)** dzień spełnienia warunku gwarancji:
     - **a)** w przypadku banku – dzień zawieszenia działalności banku wskazany w decyzji Komisji Nadzoru Finansowego, o której mowa w art. 158 ust. 1 lub 2 ustawy – Prawo bankowe, i ustanowienia zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub dzień wystąpienia przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa w art. 230 ust. 2 pkt 1,
     - **b)** w przypadku oddziału banku zagranicznego – dzień wydania przez sąd postanowienia o uznaniu orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, o którym mowa w art. 379 pkt 1 ustawy – Prawo upadłościowe, dotyczącego banku zagranicznego, który prowadzi działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału, albo dzień wszczęcia postępowania upadłościowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej,
     - **c)** w przypadku kasy – dzień zawieszenia działalności kasy wskazany w decyzji Komisji Nadzoru Finansowego, o której mowa w art. 74k ust. 1 lub 2 ustawy o spółdzielczych kasach oszczędnościowo-kredytowych, i ustanowienia zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości lub dzień wystąpienia przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa w art. 230 ust. 2 pkt 2;
 
+- **10a)** europejski pojedynczy punkt dostępu – europejski pojedynczy punkt dostępu, o którym mowa w art. 1 ust. 1 rozporządzenia 2023/2859;
 - **11)** Europejski Urząd Nadzoru Bankowego – Europejski Urząd Nadzoru Bankowego, o którym mowa w rozporządzeniu nr 1093/2010;
 - **12)** finansowa spółka holdingowa – finansową spółkę holdingową, o której mowa w art. 4 ust. 1 pkt 20 rozporządzenia nr 575/2013;
 - **13)** finansowa spółka holdingowa o działalności mieszanej – finansową spółkę holdingową o działalności mieszanej, o której mowa w art. 4 ust. 1 pkt 21 rozporządzenia nr 575/2013;
 - **14)** firma inwestycyjna – dom maklerski w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi, który posiada zezwolenie na prowadzenie działalności w zakresie, o którym mowa w art. 69 ust. 2 pkt 3, 7 lub 9 tej ustawy;
-- **15)** firma inwestycyjna w restrukturyzacji – firmę inwestycyjną, wobec której właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa w art. 101 ust. 7; <15a) format nadający się do odczytu maszynowego – format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524);
-- **15b)** format umożliwiający ekstrakcję danych – format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;>
+- **15)** firma inwestycyjna w restrukturyzacji – firmę inwestycyjną, wobec której właściwy organ przymusowej restrukturyzacji wydał decyzję, o której mowa w art. 101 ust. 7;
+- **15a)** format nadający się do odczytu maszynowego – format przeznaczony do odczytu maszynowego w rozumieniu art. 2 pkt 7 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524); 15b) format umożliwiający ekstrakcję danych – format otwarty w rozumieniu art. 2 pkt 6 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, który jest powszechnie stosowany lub wymagany prawem, umożliwia ekstrakcję danych przez maszynę i jest czytelny dla człowieka;
 - **16)** fundusze własne – fundusze własne, o których mowa w art. 4 ust. 1 pkt 118 rozporządzenia nr 575/2013, a w przypadku firm inwestycyjnych niebędących domami maklerskimi stosującymi rozporządzenie nr 575/2013 – fundusze własne, o których mowa w art. 9 rozporządzenia nr 2019/2033;
 - **17)** funkcje krytyczne – usługi, operacje lub inną działalność podmiotu lub grupy, których zaprzestanie mogłoby prowadzić, w jednym lub kilku państwach członkowskich będących członkiem Unii Europejskiej, do zakłóceń w funkcjonowaniu gospodarki lub zagrozić stabilności finansowej ze względu na wielkość podmiotu lub grupy, ich udział w rynku, złożoność, działalność transgraniczną, powiązania gospodarcze lub finansowe, w szczególności uwzględniając możliwość wykonywania tych usług, operacji lub innej działalności przez inne podmioty;
 - **17a)** globalna instytucja o znaczeniu systemowym – jednostkę, o której mowa w art. 4 ust. 1 pkt 133 rozporządzenia nr 575/2013;
@@ -123,7 +122,8 @@ Art. 341–368. (pominięte)
     - **b)** unijną dominującą finansową spółkę holdingową, unijną dominującą finansową spółkę holdingową o działalności mieszanej lub unijną dominującą inwestycyjną spółkę holdingową, jeżeli są objęte nadzorem skonsolidowanym, nadzorem nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa w przepisach działu IV rozdziału 1 oddziału 2a ustawy o obrocie instrumentami finansowymi, sprawowanym przez Komisję Nadzoru Finansowego;
 
 - **33a)** krajowy podmiot zależny – podmiot zależny mający siedzibę na terytorium Rzeczypospolitej Polskiej;
-- **33b)** łączna kwota ekspozycji na ryzyko – kwotę obliczoną zgodnie z art. 92 ust. 3 rozporządzenia nr 575/2013; <33c) metadane – metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;>
+- **33b)** łączna kwota ekspozycji na ryzyko – kwotę obliczoną zgodnie z art. 92 ust. 3 rozporządzenia nr 575/2013;
+- **33c)** metadane – metadane w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2859;
 - **34)** obowiązkowy system gwarantowania depozytów – system gwarantowania środków pieniężnych funkcjonujący na podstawie ustawy;
 - **35)** oddział banku zagranicznego – oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy – Prawo bankowe;
 - **36)** oficjalnie uznany system gwarantowania depozytów – system gwarantowania środków pieniężnych, utworzony i urzędowo uznany w państwie członkowskim;
@@ -179,7 +179,8 @@ Art. 341–368. (pominięte)
 - **55a)** rozporządzenie nr 2017/1129 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
 - **55b)** rozporządzenie nr 2019/2033 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. );
 - **55c)** rozporządzenie nr 2021/23 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/23 z dnia 16 grudnia 2020 r. w sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do kontrahentów centralnych oraz zmieniające rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1);
-- **55d)** rozporządzenie 2022/2554 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ); <55e) rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );>
+- **55d)** rozporządzenie 2022/2554 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. );
+- **55e)** rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
 - **56)** rynek regulowany – rynek regulowany, o którym mowa w art. 14 ust. 1 ustawy o obrocie instrumentami finansowymi;
 - **57)** spełnienie warunku gwarancji:
     - **a)** w przypadku banku, z wyjątkiem banku hipotecznego: – wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności banku, o której mowa w art. 158 ust. 1 lub 2 ustawy – Prawo bankowe, i ustanowienie zarządu komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości albo – wystąpienie przez Fundusz do właściwego sądu z wnioskiem o ogłoszenie upadłości, o którym mowa w art. 230 ust. 2 pkt 1,
@@ -261,7 +262,7 @@ Art. 341–368. (pominięte)
     - **c)** umorzeniem lub konwersją instrumentów kapitałowych lub zobowiązań kwalifikowalnych,
     - **d)** zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w rozdziale 3a ustawy z dnia 12 lutego 2010 r.
 
-- **2)** zawieranych przez Fundusz na rynku finansowym w zakresie obrotu instrumentami finansowymi i lokowania środków w Narodowym Banku Polskim lub w bankach – nie stosuje się przepisów art. 34a i art. 34b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.>
+- **2)** zawieranych przez Fundusz na rynku finansowym w zakresie obrotu instrumentami finansowymi i lokowania środków w Narodowym Banku Polskim lub w bankach – nie stosuje się przepisów art. 34a i art. 34b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Do Funduszu nie stosuje się przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
 
@@ -2231,7 +2232,11 @@ Art. 341–368. (pominięte)
 11. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, po zasięgnięciu opinii Funduszu i Komisji Nadzoru Finansowego:
 
 - **1)** sposób i tryb przekazywania Funduszowi przez podmioty informacji, o których mowa w ust. 1 i 3,
-- **2)** terminy przekazywania Funduszowi przez kasy informacji, o których mowa w ust. 1 i 3 – mając na celu zapewnienie jednolitości przekazywanych informacji i uwzględniając formę prawną podmiotu oraz jego udział w systemie ochrony instytucjonalnej. <Art. 99b. 1. Podmiot równocześnie z zamieszczeniem na swojej stronie internetowej informacji, o których mowa w art. 99a ust. 6, 7 i 9, przekazuje te informacje Funduszowi w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
+- **2)** terminy przekazywania Funduszowi przez kasy informacji, o których mowa w ust. 1 i 3 – mając na celu zapewnienie jednolitości przekazywanych informacji i uwzględniając formę prawną podmiotu oraz jego udział w systemie ochrony instytucjonalnej.
+
+**Art. 99b.**
+
+1. Podmiot równocześnie z zamieszczeniem na swojej stronie internetowej informacji, o których mowa w art. 99a ust. 6, 7 i 9, przekazuje te informacje Funduszowi w formacie umożliwiającym ekstrakcję danych albo w formacie nadającym się do odczytu maszynowego, w przypadku gdy przekazanie informacji w takim formacie jest wymagane zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 128a ust. 6 dyrektywy Parlamentu Europejskiego i Rady 2014/59/UE z dnia 15 maja 2014 r. ustanawiającej ramy na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do instytucji kredytowych i firm inwestycyjnych oraz zmieniającej dyrektywę Rady 82/891/EWG i dyrektywy Parlamentu Europejskiego i Rady 2001/24/WE, 2002/47/WE, 2004/25/WE, 2005/56/WE, 2007/36/WE, 2011/35/UE, 2012/30/UE i 2013/36/EU oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 i (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 190, z późn. zm. ).
 
 2. Informacje, o których mowa w art. 99a ust. 6, 7 i 9, są opatrywane następującymi metadanymi:
 
@@ -2244,7 +2249,7 @@ Art. 341–368. (pominięte)
 
 3. Na potrzeby przekazania metadanej, o której mowa w ust. 2 pkt 2, podmiot występuje o nadanie mu identyfikatora podmiotu prawnego określonego w wykonawczych standardach technicznych wydanych na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile taki identyfikator nie został nadany.
 
-4. Fundusz udostępnia informacje, o których mowa w art. 99a ust. 6, 7 i 9, w europejskim pojedynczym punkcie dostępu.>
+4. Fundusz udostępnia informacje, o których mowa w art. 99a ust. 6, 7 i 9, w europejskim pojedynczym punkcie dostępu.
 
 #### Rozdział 5 Przymusowa restrukturyzacja
 
@@ -2433,7 +2438,7 @@ Art. 341–368. (pominięte)
 - **1)** nazwą (firmą) podmiotu, którego dotyczą decyzje lub informacje;
 - **2)** identyfikatorem podmiotu prawnego podmiotu, którego dotyczą decyzje lub informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Funduszowi;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy decyzje lub informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy decyzje lub informacje zawierają dane osobowe.
 
 2. Fundusz przekazuje niezwłocznie, w postaci papierowej lub elektronicznej, decyzje lub informacje, o których mowa w ust. 1, Komisji Nadzoru Finansowego, Europejskiemu Urzędowi Nadzoru Bankowego i podmiotowi w restrukturyzacji, w celu ich zamieszczenia na stronach internetowych tych podmiotów, z uwzględnieniem dochowania obowiązku zachowania tajemnic, o których mowa w ust. 1a.
 
@@ -2555,7 +2560,7 @@ Art. 341–368. (pominięte)
 - **1)** nazwą (firmą) podmiotu w restrukturyzacji, którego dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego podmiotu w restrukturyzacji, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Funduszowi;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 2. Organizację i sposób działania podmiotu w restrukturyzacji określa decyzja Funduszu, o której mowa w art. 101 ust. 7–9 i art. 102 ust. 1 i 4.
 
@@ -3156,14 +3161,18 @@ Art. 341–368. (pominięte)
 
 1. Fundusz może, w drodze decyzji, ustanowić zastępcę administratora podmiotu w restrukturyzacji. Przepisy art. 153 ust. 1a–11 stosuje się odpowiednio.
 
-2. Zastępcy administratora przysługują wskazane w decyzji o jego ustanowieniu uprawnienia określone w art. 154 ust. 1 i 2. Przepis art. 154 ust. 3 stosuje się odpowiednio. <Art. 154b. 1. Fundusz udostępnia informacje o ustanowieniu administratora podmiotu w restrukturyzacji oraz jego zastępcy w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
+2. Zastępcy administratora przysługują wskazane w decyzji o jego ustanowieniu uprawnienia określone w art. 154 ust. 1 i 2. Przepis art. 154 ust. 3 stosuje się odpowiednio.
+
+**Art. 154b.**
+
+1. Fundusz udostępnia informacje o ustanowieniu administratora podmiotu w restrukturyzacji oraz jego zastępcy w europejskim pojedynczym punkcie dostępu w formacie umożliwiającym ekstrakcję danych.
 
 2. Informacje, o których mowa w ust. 1, są opatrywane następującymi metadanymi:
 
 - **1)** nazwą (firmą) podmiotu w restrukturyzacji, którego dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego podmiotu w restrukturyzacji, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Funduszowi;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 #### Rozdział 10 Zawieszenie działalności podmiotu w restrukturyzacji
 
@@ -5620,9 +5629,7 @@ Art. 341–368. (pominięte)
 
 1. Fundusz i Narodowy Bank Polski wymieniają informacje w zakresie niezbędnym do wykonywania ich ustawowo określonych zadań.
 
-2. Informacje, o których mowa w ust. 1, mogą stanowić informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych. Przekazywanie informacji niejawnych odbywa się na warunkach i w trybie określonym w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz.
-
-- **1209)** .
+2. Informacje, o których mowa w ust. 1, mogą stanowić informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych. Przekazywanie informacji niejawnych odbywa się na warunkach i w trybie określonym w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209).
 
 **Art. 328.**
 
@@ -5851,11 +5858,13 @@ Art. 341–368. (pominięte)
 - **1)** imieniem i nazwiskiem osoby lub nazwą (firmą) podmiotu, których dotyczą informacje;
 - **2)** identyfikatorem podmiotu prawnego podmiotu, którego dotyczą informacje, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859, o ile jest on znany Funduszowi;
 - **3)** rodzajem informacji, określonym zgodnie z wykonawczymi standardami technicznymi wydanymi na podstawie art. 7 ust. 4 rozporządzenia 2023/2859;
-- **4)** wskazaniem, czy informacje zawierają dane osobowe.>
+- **4)** wskazaniem, czy informacje zawierają dane osobowe.
 
 **Art. 340.** W przypadkach określonych w art. 335, art. 336 i art. 337a kwoty w euro przelicza się na złote według kursu średniego ogłoszonego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego wydanie decyzji o nałożeniu kary pieniężnej.
 
 ### DZIAŁ VIII Zmiany w przepisach
+
+**Art. 341–368.** (pominięte)
 
 ### DZIAŁ IX Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

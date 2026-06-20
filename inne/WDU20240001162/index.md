@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych W celu przeciwdziałania uzależnieniu od używania tytoniu i wyrobów tytoniowych oraz ochrony zdrowia przed jego następstwami stanowi się, co następuje:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
 
 *USTAWA z dnia 9 listopada 1995 r.*
 
@@ -366,7 +366,11 @@ source: pdf
 6. Producent i importer wyrobów tytoniowych jest obowiązany do przekazywania w postaci elektronicznej Prezesowi Biura do dnia 31 marca każdego roku, za rok poprzedni:
 
 - **1)** dostępnych mu analiz w zakresie badania rynku i preferencji różnych grup konsumentów, w tym młodych ludzi i innych osób aktualnie używających wyrobów tytoniowych, dotyczących składników i wydzielanych substancji, jak również streszczeń wszystkich badań rynkowych przeprowadzonych przy okazji wprowadzania do obrotu nowych wyrobów tytoniowych;
-- **2)** danych dotyczących wielkości ich sprzedaży w podziale na marki i rodzaje, w sztukach lub w kilogramach, w podziale według państw członkowskich Unii Europejskiej. Art. 8aa. 1. Wykaz priorytetowy dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów określa decyzja wykonawcza Komisji (UE) 2016/787 z dnia 18 maja 2016 r. ustanawiająca wykaz priorytetowy podlegających zwiększonym obowiązkom sprawozdawczym dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów (Dz. Urz. UE L 131 z 20.05.2015, str. 88).
+- **2)** danych dotyczących wielkości ich sprzedaży w podziale na marki i rodzaje, w sztukach lub w kilogramach, w podziale według państw członkowskich Unii Europejskiej.
+
+**Art. 8aa.**
+
+1. Wykaz priorytetowy dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów określa decyzja wykonawcza Komisji (UE) 2016/787 z dnia 18 maja 2016 r. ustanawiająca wykaz priorytetowy podlegających zwiększonym obowiązkom sprawozdawczym dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów (Dz. Urz. UE L 131 z 20.05.2015, str. 88).
 
 2. Producent i importer papierosów i tytoniu do samodzielnego skręcania papierosów zawierających dodatek, który znajduje się w wykazie, o którym mowa w ust. 1, jest obowiązany do przeprowadzenia kompleksowego badania w celu stwierdzenia, czy dodatek:
 
@@ -389,7 +393,11 @@ source: pdf
 
 9. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, wykaz instytutów badawczych, o których mowa w ust. 7.
 
-10. Przepisów ust. 1–9 nie stosuje się do mikroprzedsiębiorstw, małych i średnich przedsiębiorstw w rozumieniu zalecenia Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącego definicji przedsiębiorstw mikro-, małych i średnich (notyfikowanego jako dokument nr C(2003) 1422) (Dz. Urz. UE L 124 z 20.05.2003, str. 36), zwanego dalej „zaleceniem 2003/361/WE”, jeżeli sprawozdanie sporządził inny producent lub importer. Art. 8ab. 1. Informacje uzyskane przez Prezesa Biura na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
+10. Przepisów ust. 1–9 nie stosuje się do mikroprzedsiębiorstw, małych i średnich przedsiębiorstw w rozumieniu zalecenia Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącego definicji przedsiębiorstw mikro-, małych i średnich (notyfikowanego jako dokument nr C(2003) 1422) (Dz. Urz. UE L 124 z 20.05.2003, str. 36), zwanego dalej „zaleceniem 2003/361/WE”, jeżeli sprawozdanie sporządził inny producent lub importer.
+
+**Art. 8ab.**
+
+1. Informacje uzyskane przez Prezesa Biura na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
 
 2. Prezes Biura zapewnia dostęp do informacji uzyskanych na podstawie art. 8a i art. 8aa, z uwzględnieniem ochrony tajemnicy handlowej, Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej właściwym do uzyskiwania tych informacji.
 
@@ -609,7 +617,11 @@ source: pdf
 
 16. Przetwarzanie danych osobowych przechowywanych i udostępnianych przez ośrodek odbywa się na zasadach określonych w przepisach o ochronie danych osobowych.
 
-17. (uchylony) Art. 10aa. 1. Niepowtarzalny identyfikator jest generowany i wydawany przez podmiot wydający identyfikatory, którym jest jednoosobowa spółka Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów, druków zabezpieczonych i znaków akcyzy, mająca siedzibę oraz zakład produkcyjny na terytorium Rzeczypospolitej Polskiej, która posiada system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO: 14298:2013.
+17. (uchylony)
+
+**Art. 10aa.**
+
+1. Niepowtarzalny identyfikator jest generowany i wydawany przez podmiot wydający identyfikatory, którym jest jednoosobowa spółka Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów, druków zabezpieczonych i znaków akcyzy, mająca siedzibę oraz zakład produkcyjny na terytorium Rzeczypospolitej Polskiej, która posiada system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO: 14298:2013.
 
 2. Maksymalna opłata za wygenerowanie i wydanie jednego niepowtarzalnego identyfikatora przez podmiot wydający identyfikatory, o którym mowa w ust. 1, w:
 
@@ -848,7 +860,11 @@ source: pdf
 
 5. Producent lub importer wyrobów ziołowych do palenia, przedkładając informacje zgodnie z ust. 1–3, wskazuje informacje, które uznaje za tajemnicę handlową.
 
-6. Format przekazywania i udostępniania informacji o wyrobach ziołowych do palenia określa decyzja wykonawcza Komisji (UE) 2015/2186. Art. 11ha. 1. Producent lub importer woreczków nikotynowych przekazuje Prezesowi Biura wykaz wszystkich składników, z podaniem ich ilości, używanych do produkcji tych wyrobów, w podziale na marki i rodzaje.
+6. Format przekazywania i udostępniania informacji o wyrobach ziołowych do palenia określa decyzja wykonawcza Komisji (UE) 2015/2186.
+
+**Art. 11ha.**
+
+1. Producent lub importer woreczków nikotynowych przekazuje Prezesowi Biura wykaz wszystkich składników, z podaniem ich ilości, używanych do produkcji tych wyrobów, w podziale na marki i rodzaje.
 
 2. Producent lub importer woreczków nikotynowych informuje Prezesa Biura w przypadku zmiany składu wyrobu wpływającej na informacje przekazywane na podstawie ust. 1.
 
@@ -860,7 +876,11 @@ source: pdf
 
 6. Producent lub importer wnosi na rachunek bankowy wskazany przez Prezesa Biura, w terminie 14 dni od dnia otrzymania wezwania do wniesienia opłaty, opłatę roczną za otrzymywanie, przechowywanie, przetwarzanie, analizę i publikowanie informacji dotyczących woreczków nikotynowych, przekazanych na podstawie ust. 1 i 2 w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego. Opłata stanowi dochód budżetu państwa.
 
-7. Format przekazywania i udostępniania informacji o woreczkach nikotynowych określa decyzja wykonawcza Komisji (UE) 2015/2186. Art. 11hb. 1. Woreczki nikotynowe powinny spełniać następujące wymagania:
+7. Format przekazywania i udostępniania informacji o woreczkach nikotynowych określa decyzja wykonawcza Komisji (UE) 2015/2186.
+
+**Art. 11hb.**
+
+1. Woreczki nikotynowe powinny spełniać następujące wymagania:
 
 - **1)** zawartość nikotyny w woreczku nikotynowym nie może przekraczać 20 mg/g;
 - **2)** woreczek nikotynowy nie może zawierać dodatków wymienionych w art. 7c ust. 3;
@@ -880,7 +900,11 @@ source: pdf
 - **1)** być widoczne na dwóch największych płaszczyznach opakowania jednostkowego i opakowania zbiorczego;
 - **2)** zajmować 30 % płaszczyzny opakowania jednostkowego i opakowania zbiorczego.
 
-6. Opakowania jednostkowe i opakowania zbiorcze woreczków nikotynowych nie mogą mieć elementów lub cech, o których mowa w art. 8 ust. 4– 6, z wyjątkiem art. 8 ust. 4 pkt 1 w zakresie informacji o zawartości nikotyny oraz art. 8 ust. 4 pkt 3 w zakresie informacji o środkach aromatyzujących. Art. 11hc. 1. Przepisów ustawy dotyczących woreczków nikotynowych nie stosuje się do woreczków nikotynowych, w przypadku których należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
+6. Opakowania jednostkowe i opakowania zbiorcze woreczków nikotynowych nie mogą mieć elementów lub cech, o których mowa w art. 8 ust. 4– 6, z wyjątkiem art. 8 ust. 4 pkt 1 w zakresie informacji o zawartości nikotyny oraz art. 8 ust. 4 pkt 3 w zakresie informacji o środkach aromatyzujących.
+
+**Art. 11hc.**
+
+1. Przepisów ustawy dotyczących woreczków nikotynowych nie stosuje się do woreczków nikotynowych, w przypadku których należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
 
 2. Do woreczków nikotynowych stosuje się rozporządzenie nr 1907/2006 oraz rozporządzenie nr 1272/2008.
 
@@ -969,8 +993,5 @@ source: pdf
 
 **Art. 16.** (pominięty)
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 9 listopada 1995 r. (Dz. U. z 2024 r. poz.
-
-- **1162)**
-
+**Art. 17.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 9 listopada 1995 r. (Dz. U. z 2024 r. poz. 1162)
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o dodatku i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu
+# Ustawa z dnia 10 września 1999 r. o zmianie ustawy o dodatku i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnionym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu.
 
 *USTAWA z dnia 10 września 1999 r.*
 

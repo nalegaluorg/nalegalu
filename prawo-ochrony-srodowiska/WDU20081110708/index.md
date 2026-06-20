@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo ochrony środowiska
+# Ustawa z dnia 30 maja 2008 r. o zmianie ustawy - Prawo ochrony środowiska
 
 *USTAWA z dnia 30 maja 2008 r.*
 

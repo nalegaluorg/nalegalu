@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zabezpieczeniach finansowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zabezpieczeniach finansowych
 
 | Pole | Wartość |
 |---|---|

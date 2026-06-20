@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw
+# Ustawa z dnia 24 lipca 2003 r. o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw
 
 *USTAWA z dnia 24 lipca 2003 r.*
 

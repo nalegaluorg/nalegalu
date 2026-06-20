@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024
+# Ustawa z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022-2024
 
 *USTAWA z dnia 29 września 2022 r.*
 

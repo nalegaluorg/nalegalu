@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Pedagogicznej w Krakowie nazwy „Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie”
+# Ustawa z dnia 8 lipca 1999 r. o nadaniu Wyższej Szkole Pedagogicznej w Krakowie nazwy "Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie".
 
 *USTAWA z dnia 8 lipca 1999 r.*
 

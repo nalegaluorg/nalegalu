@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz ustawy o weterynaryjnej kontroli granicznej
+# Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt oraz ustawy o weterynaryjnej kontroli granicznej
 
 *USTAWA z dnia 24 maja 2007 r.*
 

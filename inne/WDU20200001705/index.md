@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o fundacji – Zakłady Kórnickie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o fundacji - Zakłady Kórnickie
 
 | Pole | Wartość |
 |---|---|

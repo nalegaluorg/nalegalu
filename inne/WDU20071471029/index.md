@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o fundacji - Zakład Narodowy imienia Ossolińskich
+# Ustawa z dnia 5 lipca 2007 r. o zmianie ustawy o fundacji - Zakład Narodowy Imienia Ossolińskich
 
 *USTAWA z dnia 5 lipca 2007 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Banku Gospodarstwa Krajowego
 
 | Pole | Wartość |
 |---|---|
@@ -416,7 +416,9 @@ poz. 525),
 
 6. Minister właściwy do spraw klimatu może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 11, przekazania informacji dotyczących BGK z zakresu wspierania działań na rzecz ochrony środowiska, w tym klimatu.
 
-7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi. Art. 13–22. (pominięte)
+7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi.
+
+**Art. 13–22.** (pominięte)
 
 **Art. 23.** Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia , z wyjątkiem art. 14, który wchodzi w życie z dniem 1 stycznia 2004 r.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie ubezpieczeń społecznych
+# Ustawa z dnia 3 grudnia 2009 r. o zmianie ustawy o systemie ubezpieczeń społecznych
 
 *USTAWA z dnia 3 grudnia 2009 r.*
 

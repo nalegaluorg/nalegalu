@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego
+# Ustawa z dnia 20 lutego 1997 r. o zmianie ustawy - Kodeks postępowania cywilnego.
 
 *USTAWA z dnia 20 lutego 1997 r.*
 

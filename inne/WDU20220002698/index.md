@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.
+# Ustawa z dnia 1 grudnia 2022 r. o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 

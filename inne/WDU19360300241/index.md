@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej.
+# Ustawa z dnia 21 kwietnia 1936 r. o stosunku Państwa do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 21 kwietnia 1936 r.*
 

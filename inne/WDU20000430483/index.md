@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o działalności ubezpieczeniowej
+# Ustawa z dnia 31 marca 2000 r. o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o działalności ubezpieczeniowej.
 
 *USTAWA z dnia 31 marca 2000 r.*
 
@@ -247,9 +247,7 @@ source: pdf
 
 1. Ewidencje pojazdów, prowadzone przez wojewodów na podstawie przepisów art. 60 ustawy z dnia 1 lutego 1983 r. - Prawo o ruchu drogowym (Dz.U. z 1992 r. Nr 11, poz. 41 i Nr 26, poz. 114 oraz z 1995 r. Nr 104, poz. 515), prowadzi się, z zachowaniem przepisów o ochronie danych osobowych, do dnia 31 grudnia 2003 r., z zastrzeżeniem ust. 2-5.
 
-2. Od dnia wejścia w życie niniejszej ustawy w ewidencjach, o których mowa w ust. 1, gromadzi się dane lub informacje wymienione w art. 80b ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216 oraz z 2000 r. Nr 12, poz. 136 i Nr 43, poz.
-
-- **483)** .
+2. Od dnia wejścia w życie niniejszej ustawy w ewidencjach, o których mowa w ust. 1, gromadzi się dane lub informacje wymienione w art. 80b ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216 oraz z 2000 r. Nr 12, poz. 136 i Nr 43, poz. 483).
 
 3. Dane lub informacje, o których mowa w ust. 2, przekazują do wojewody, bez wiedzy osób, których one dotyczą, organy właściwe w sprawach rejestracji pojazdów.
 

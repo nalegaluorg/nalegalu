@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego oraz niektórych innych ustaw
+# Ustawa z dnia 7 kwietnia 2017 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

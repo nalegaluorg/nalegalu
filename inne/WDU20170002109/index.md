@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 października 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Centralnym Ośrodku Badania Odmian Roślin Uprawnych
 
 | Pole | Wartość |
 |---|---|

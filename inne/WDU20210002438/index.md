@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zwalczaniu dopingu w sporcie
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 

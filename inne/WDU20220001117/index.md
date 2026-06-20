@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 maja 2022 r.*
 

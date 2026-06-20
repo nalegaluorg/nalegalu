@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r.
 
 | Pole | Wartość |
 |---|---|

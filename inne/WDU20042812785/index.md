@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
+# Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne
 
 *USTAWA z dnia 22 grudnia 2004 r.*
 

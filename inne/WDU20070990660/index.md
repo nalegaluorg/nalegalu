@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie konkurencji i konsumentów i ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych
+# Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy o ochronie konkurencji i konsumentów i ustawy o ochronie konkurencji i konsumentów i ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych
 
 *USTAWA z dnia 13 kwietnia 2007 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o drogach publicznych
+# Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o drogach publicznych
 
 *USTAWA z dnia 24 maja 2013 r.*
 

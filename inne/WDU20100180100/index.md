@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
+# Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy
 
 *USTAWA z dnia 8 stycznia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku ze wspieraniem polubownych metod rozwiązywania sporów
+# Ustawa z dnia 10 września 2015 r. o zmianie niektórych ustaw w związku ze wspieraniem polubownych metod rozwiązywania sporów
 
 *USTAWA z dnia 10 września 2015 r.*
 

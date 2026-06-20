@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 10 marca 2006 r.*
 

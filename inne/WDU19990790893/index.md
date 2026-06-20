@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ustalenia wzoru wykazu obywateli, którzy udzielają poparcia projektowi ustawy stanowiącej przedmiot inicjatywy ustawodawczej.
+# Rozporządzenie Prezesa Rady Ministrów z dnia 28 września 1999 r. w sprawie ustalenia wzoru wykazu obywateli, którzy udzielają poparcia projektowi ustawy stanowiącej przedmiot inicjatywy ustawodawczej.
 
 | Pole | Wartość |
 |---|---|

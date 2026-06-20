@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
+# Ustawa z dnia 30 czerwca 2011 r. o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej
 
 *USTAWA z dnia 30 czerwca 2011 r.*
 

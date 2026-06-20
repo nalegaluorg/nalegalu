@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Krajowym Ośrodku Wsparcia Rolnictwa
+# Ustawa z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa
 
 *USTAWA z dnia 10 lutego 2017 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakazie stosowania wyrobów zawierających azbest
+# Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o zakazie stosowania wyrobów zawierających azbest
 
 *USTAWA z dnia 22 grudnia 2004 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odpadach
+# Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy o odpadach
 
 *USTAWA z dnia 4 kwietnia 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie dekretu Polskiego Komitetu Wyzwolenia Narodowego o wymiarze "Nr 7, poz. 29 kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania Na podstawie ustawy z dnia 3 stycznia 1945 r o trybie wydawania dekretów z mocą ustawy (Dz.U. R.P. Nr I, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje: W dekrecie Polskiego Komitetu Wyzwolenia Narodowego z dnia 31 sierpnia 1944 r.
+# Dekret z dnia 16 lutego 1945 r. o zmianie dekretu Polskiego Komitetu Wyzwolenia Narodowego o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego.
 
 | Pole | Wartość |
 |---|---|

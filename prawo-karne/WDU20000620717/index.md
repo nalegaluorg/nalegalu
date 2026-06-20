@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego oraz ustawy - Kodeks karny skarbowy
+# Ustawa z dnia 20 lipca 2000 r. o zmianie ustawy - Kodeks postępowania karnego, ustawy - Przepisy wprowadzające Kodeks postępowania karnego oraz ustawy - Kodeks karny skarbowy.
 
 *USTAWA z dnia 20 lipca 2000 r.*
 

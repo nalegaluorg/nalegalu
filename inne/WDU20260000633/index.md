@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie instytucji rozwoju
+# Ustawa z dnia 17 kwietnia 2026 r. o zmianie ustawy o systemie instytucji rozwoju
 
 *USTAWA z dnia 17 kwietnia 2026 r.*
 

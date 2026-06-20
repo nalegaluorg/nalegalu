@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
+# Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
 *USTAWA z dnia 17 września 2020 r.*
 
@@ -168,7 +168,11 @@ source: pdf
 
 36. Źródłem finansowania wypłat, o których mowa w ust. 1, realizowanych w imieniu ministra właściwego do spraw turystyki jest Turystyczny Fundusz Zwrotów.
 
-37. Wypłata na rzecz podróżnego, o której mowa w ust. 1, nie wpływa na ważność zawartych dotychczas umów agencyjnych pomiędzy organizatorami turystyki a agentami turystycznymi i należnych agentom turystycznym prowizji z tytułu zawartych umów o udział w imprezie turystycznej. Art. 15kb. 1. W Banku Gospodarstwa Krajowego tworzy się Turystyczny Fundusz Zwrotów, zwany dalej „Funduszem Zwrotów”, z którego realizowane są, do wyczerpania zgromadzonych na nim środków, wypłaty na rzecz podróżnych w trybie określonym w art. 15ka, gdy podróżny nie otrzymał lub nie wyraził zgody na przyjęcie vouchera, o którym mowa w art. 15k ust. 2.
+37. Wypłata na rzecz podróżnego, o której mowa w ust. 1, nie wpływa na ważność zawartych dotychczas umów agencyjnych pomiędzy organizatorami turystyki a agentami turystycznymi i należnych agentom turystycznym prowizji z tytułu zawartych umów o udział w imprezie turystycznej.
+
+**Art. 15kb.**
+
+1. W Banku Gospodarstwa Krajowego tworzy się Turystyczny Fundusz Zwrotów, zwany dalej „Funduszem Zwrotów”, z którego realizowane są, do wyczerpania zgromadzonych na nim środków, wypłaty na rzecz podróżnych w trybie określonym w art. 15ka, gdy podróżny nie otrzymał lub nie wyraził zgody na przyjęcie vouchera, o którym mowa w art. 15k ust. 2.
 
 2. Środki Funduszu Zwrotów pochodzą z:
 
@@ -218,7 +222,11 @@ source: pdf
 
 16. Zwroty wypłat, o których mowa w art. 15ka ust. 1, dokonane na rachunek Funduszu Zwrotów, są przekazywane na rachunek Funduszu Przeciwdziałania COVID-19, do 15. dnia miesiąca następującego po miesiącu, w którym dokonano zwrotu tych wypłat.
 
-17. Po dokonaniu ostatecznych rozliczeń z organizatorami turystyki środki Funduszu Zwrotów podlegają przekazaniu na rachunek wskazany przez ministra właściwego do spraw turystyki. Z chwilą przekazania tych środków Fundusz Zwrotów ulega likwidacji. Art. 15kc. 1. Tworzy się Turystyczny Fundusz Pomocowy, zwany dalej „Funduszem Pomocowym”, stanowiący wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym.
+17. Po dokonaniu ostatecznych rozliczeń z organizatorami turystyki środki Funduszu Zwrotów podlegają przekazaniu na rachunek wskazany przez ministra właściwego do spraw turystyki. Z chwilą przekazania tych środków Fundusz Zwrotów ulega likwidacji.
+
+**Art. 15kc.**
+
+1. Tworzy się Turystyczny Fundusz Pomocowy, zwany dalej „Funduszem Pomocowym”, stanowiący wyodrębniony rachunek w Ubezpieczeniowym Funduszu Gwarancyjnym.
 
 2. Obsługę Funduszu Pomocowego zapewnia Ubezpieczeniowy Fundusz Gwarancyjny.
 

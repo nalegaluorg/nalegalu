@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie zasad rachunkowości o planu kont dla prowadzenia opłat dla organów podatkowych jednostek samorządu Na podstawie art. 14 ust. 1 pkt 3 ustawy z dnia 26 listopada (Dz.U. Nr 155, poz. 1014 oraz z 1999 r. Nr 38, poz. 360 i następuje:
+# Rozporządzenie Ministra Finansów z dnia 25 maja 1999 r. w sprawie zasad rachunkowości i planu kont dla prowadzenia ewidencji podatków i opłat dla organów podatkowych jednostek samorządu terytorialnego.
 
 | Pole | Wartość |
 |---|---|

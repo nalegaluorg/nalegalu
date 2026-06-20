@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 listopada 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej "Poczta Polska"
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +30,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 5 września 2008 r.
 o komercjalizacji państwowego przedsiębiorstwa użyteczności publicznej „Poczta Polska”
-Art. 21–28. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -222,6 +221,8 @@ Art. 21–28. (pominięte)
 **Art. 20.** Pracownikom Spółki w związku z wykonywaniem obowiązku świadczenia powszechnych usług pocztowych przysługuje ochrona prawna przewidziana w przepisach prawa karnego dla funkcjonariuszy publicznych.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 21–28.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe i końcowe
 

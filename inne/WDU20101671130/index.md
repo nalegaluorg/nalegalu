@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin
+# Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin.
 
 *USTAWA z dnia 5 sierpnia 2010 r.*
 

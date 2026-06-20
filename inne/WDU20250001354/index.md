@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie powiadamiania ratunkowego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie powiadamiania ratunkowego
 
 | Pole | Wartość |
 |---|---|
@@ -496,7 +496,9 @@ o systemie powiadamiania ratunkowego
 
 13. Kara pieniężna podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
-14. Kara pieniężna stanowi dochód budżetu państwa. Art. 22–28. (pominięte)
+14. Kara pieniężna stanowi dochód budżetu państwa.
+
+**Art. 22–28.** (pominięte)
 
 **Art. 28a.** (uchylony)
 

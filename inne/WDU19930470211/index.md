@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zwalczaniu nieuczciwej konkurencji
+# Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
 
 *USTAWA z dnia 16 kwietnia 1993 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 30 marca 2012 r. o uchyleniu ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 30 marca 2012 r.*
 

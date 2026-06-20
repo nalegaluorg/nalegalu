@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
+# Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne
 
 *USTAWA z dnia 25 lipca 2025 r.*
 

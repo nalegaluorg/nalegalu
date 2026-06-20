@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rejestracji jachtów i innych jednostek pływających o długości do 24 m
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rejestracji jachtów i innych jednostek pływających o długości do 24 m
 
 | Pole | Wartość |
 |---|---|

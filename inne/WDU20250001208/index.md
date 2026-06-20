@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o świadczeniach rodzinnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 sierpnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o świadczeniach rodzinnych
 
 *USTAWA z dnia 28 listopada 2003 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2025-09-02 |
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1208/text.pdf) |
-
-Art. 34–46. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1098,6 +1096,8 @@ Art. 34–46. (pominięte)
 4. Sprawozdania rzeczowo-finansowe z wykonywania zadań z zakresu świadczeń rodzinnych przekazywane są zgodnie z wzorami udostępnionymi, drogą elektroniczną, przez ministra właściwego do spraw rodziny.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 34–46.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i dostosowujące
 

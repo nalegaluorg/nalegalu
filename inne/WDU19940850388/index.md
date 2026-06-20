@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o własności lokali
+# Ustawa z dnia 24 czerwca 1994 r. o własności lokali.
 
 *USTAWA z dnia 24 czerwca 1994 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1994-07-27 |
 | Ostatnia zmiana | 2026-03-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940850388) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/388/text.pdf) |
-
-Art. 34–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -325,6 +323,8 @@ Art. 34–38. (pominięte)
 **Art. 33.** W razie powierzenia zarządu osobie fizycznej lub prawnej, w trybie przewidzianym w art. 18 ust. 1, w braku odmiennych postanowień umowy, stosuje się odpowiednio przepisy niniejszego rozdziału.
 
 #### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 34–38.** (pominięte)
 
 **Art. 39.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim
+# Ustawa z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim
 
 *USTAWA z dnia 18 grudnia 2025 r.*
 
@@ -35,7 +35,9 @@ source: pdf
 4. W przypadku wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej przez wojskowe środki obrony powietrznej, o których mowa w ust. 1, które pracują w trybie automatycznego startu rakiet przechwytujących, Dowódca Operacyjny Rodzajów Sił Zbrojnych określi w rozkazie sposób niszczenia przez te środki pocisków rakietowych wystrzelonych w kierunku terytorium Rzeczypospolitej Polskiej.”;
 
 - **3)** art. 18bm otrzymuje brzmienie: „Art. 18bm. Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej o podjęciu decyzji, o których mowa w art. 18b ust. 4, art. 18bg ust. 1, art. 18bj ust. 10, art. 18bk ust. 2 i 3 i art. 18bl ust. 2, oraz ich skutkach.”;
-- **4)** po art. 18bm dodaje się art. 18bn i art. 18bo w brzmieniu: „Art. 18bn. Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770). Art. 18bo. Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.”.
+- **4)** po art. 18bm dodaje się art. 18bn i art. 18bo w brzmieniu: „Art. 18bn. Użycie sił zbrojnych państwa Organizacji Traktatu Północnoatlantyckiego do wykonywania zadań nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej następuje w trybie określonym w art. 3a ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2024 r. poz. 1770).
+
+**Art. 18bo.** Za szkody wyrządzone osobie trzeciej w wyniku zastosowania środków, o których mowa w art. 18b ust. 3, art. 18ba, art. 18bd, art. 18bf, art. 18bk i art. 18bl, przez Siły Zbrojne Rzeczypospolitej Polskiej lub siły zbrojne państwa Organizacji Traktatu Północnoatlantyckiego wykonujące zadania nadzoru przestrzeni powietrznej i osłony terytorium Rzeczypospolitej Polskiej odpowiada Skarb Państwa reprezentowany przez Ministra Obrony Narodowej.”.
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366) wprowadza się następujące zmiany:
 

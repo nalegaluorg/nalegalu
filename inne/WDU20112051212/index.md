@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o pomocy osobom uprawnionym do alimentów
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o świadczeniach rodzinnych oraz ustawy o pomocy osobom uprawnionym do alimentów
 
 *USTAWA z dnia 19 sierpnia 2011 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+# Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 12 listopada 2003 r.*
 

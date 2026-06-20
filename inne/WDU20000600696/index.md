@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Wyższej Szkole Pedagogicznej im. Jana Kochanowskiego w Kielcach nazwy „Akademia Świętokrzyska im. Jana Kochanowskiego w Kielcach”
+# Ustawa z dnia 7 czerwca 2000 r. o nadaniu Wyższej Szkole Pedagogicznej im. Jana Kochanowskiego w Kielcach nazwy "Akademia Świętokrzyska im. Jana Kochanowskiego w Kielcach".
 
 *USTAWA z dnia 7 czerwca 2000 r.*
 

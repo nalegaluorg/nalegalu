@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z zadaniami organów administracji publicznej w zakresie niektórych rejestrów publicznych
+# Ustawa z dnia 23 marca 2017 r. o zmianie niektórych ustaw w związku z zadaniami organów administracji publicznej w zakresie niektórych rejestrów publicznych
 
 *USTAWA z dnia 23 marca 2017 r.*
 

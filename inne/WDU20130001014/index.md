@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw dotyczących praw pasażerów podróżujących drogą morską i drogą wodną śródlądową
+# Ustawa z dnia 21 czerwca 2013 r. o zmianie niektórych ustaw dotyczących praw pasażerów podróżujących drogą morską i drogą wodną śródlądową
 
 *USTAWA z dnia 21 czerwca 2013 r.*
 

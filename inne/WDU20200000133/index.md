@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
+# Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury
 
 *USTAWA z dnia 9 stycznia 2020 r.*
 

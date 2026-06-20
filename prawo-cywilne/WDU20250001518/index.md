@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania cywilnego
+# Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Kodeks postępowania cywilnego
 
 *USTAWA z dnia 9 października 2025 r.*
 

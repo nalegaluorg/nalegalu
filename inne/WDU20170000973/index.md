@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Krzyża Zachodniego Wypełniając moralny obowiązek wobec osób, które w latach 1939– 1989 niosły różnorodną pomoc Polakom, gdy byliśmy poddani licznym formom represji i prześladowań, gdy stawialiśmy opór dwóm totalitaryzmom (niemieckiemu nazizmowi, sowieckiej okupacji oraz komunistycznej dominacji ziem polskich), uchwala się, co następuje:
+# Ustawa z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego
 
 *USTAWA z dnia 7 kwietnia 2017 r.*
 

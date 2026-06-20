@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks karny wykonawczy i ustawy o Służbie Więziennej
+# Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy - Kodeks karny wykonawczy i ustawy o Służbie Więziennej
 
 *USTAWA z dnia 12 kwietnia 2018 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 20 czerwca 1997 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw.
 
 *USTAWA z dnia 20 czerwca 1997 r.*
 

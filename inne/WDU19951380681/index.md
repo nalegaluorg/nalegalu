@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rewaloryzacji emerytur i rent, oraz o zmianie niektórych ustaw W ustawie z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385 oraz z 1995 r. Nr 4, poz. 17 1 Nr 95, poz. 473) wprowadza się następujące
+# Ustawa z dnia 29 września 1995 r. o zmianie ustawy o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 29 września 1995 r.*
 

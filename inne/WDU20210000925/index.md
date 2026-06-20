@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemach oceny zgodności i nadzoru rynku
+# Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o systemach oceny zgodności i nadzoru rynku
 
 *USTAWA z dnia 15 kwietnia 2021 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej
+# Ustawa z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej.
 
 *USTAWA z dnia 30 czerwca 1995 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o aplikacji mObywatel
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o aplikacji mObywatel
 
 *USTAWA z dnia 26 maja 2023 r.*
 
@@ -73,7 +73,8 @@ source: pdf
 - **3)** przekazanie danych, o których mowa w pkt 1, lub dokumentu mobilnego, o którym mowa w pkt 2, przez tego użytkownika innej osobie lub podmiotowi;
 - **4)** posługiwanie się dokumentem mObywatel;
 - **5)** posługiwanie się profilem mObywatel;
-- **6)** użycie urządzenia mobilnego w celu obsługi jednego z czynników uwierzytelniania profilu zaufanego, o którym mowa w art. 3 pkt 14 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne; <7) dokonywanie płatności elektronicznych związanych z usługami świadczonymi na rzecz tego użytkownika;>
+- **6)** użycie urządzenia mobilnego w celu obsługi jednego z czynników uwierzytelniania profilu zaufanego, o którym mowa w art. 3 pkt 14 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **7)** dokonywanie płatności elektronicznych związanych z usługami świadczonymi na rzecz tego użytkownika;
 - **8)** korzystanie z usług online, o których mowa w art. 19aa i art. 19ab ustawy z dnia 17 lutego 2005 r o informatyzacji działalności podmiotów realizujących zadania publiczne;
 - **9)** otrzymywanie komunikatów dotyczących usług świadczonych na rzecz tego użytkownika;
 - **10)** opatrywanie dokumentu elektronicznego podpisem zaufanym, podpisem osobistym oraz kwalifikowanym podpisem elektronicznym oraz weryfikację tych podpisów.
@@ -211,7 +212,8 @@ source: pdf
 
 4. Minister właściwy do spraw informatyzacji zapewnia użytkownikowi aplikacji mObywatel możliwość unieważnienia certyfikatu podstawowego:
 
-- **1)** w drodze zgłoszenia telefonicznego; <2) przy użyciu usługi online.>
+- **1)** w drodze zgłoszenia telefonicznego;
+- **2)** przy użyciu usługi online.
 
 **Art. 11.**
 
@@ -435,7 +437,9 @@ source: pdf
 
 1. Podmiot świadczący usługę w aplikacji mObywatel oraz podmiot udostępniający dane wykorzystywane w usłudze świadczonej w aplikacji mObywatel niezwłocznie informują ministra właściwego do spraw informatyzacji, przy użyciu dostępnych środków komunikacji, o wszelkich zdarzeniach uzasadniających czasowe zawieszenie świadczenia usługi lub o problemach związanych z udziałem tych podmiotów w świadczeniu tej usługi lub w udostępnianiu danych wykorzystywanych w tej usłudze.
 
-2. Minister właściwy do spraw informatyzacji może czasowo zawiesić świadczenie usługi w aplikacji mObywatel w przypadku otrzymania informacji, o której mowa w ust. 1, lub wystąpienia zdarzeń lub okoliczności, które powodują ryzyko naruszenia bezpieczeństwa aplikacji mObywatel, systemu mObywatel lub użytkowników aplikacji mObywatel. Art. 23–60. (pominięte)
+2. Minister właściwy do spraw informatyzacji może czasowo zawiesić świadczenie usługi w aplikacji mObywatel w przypadku otrzymania informacji, o której mowa w ust. 1, lub wystąpienia zdarzeń lub okoliczności, które powodują ryzyko naruszenia bezpieczeństwa aplikacji mObywatel, systemu mObywatel lub użytkowników aplikacji mObywatel.
+
+**Art. 23–60.** (pominięte)
 
 **Art. 61.** (uchylony)
 

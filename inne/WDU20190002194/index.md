@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
+# Ustawa z dnia 16 października 2019 r. o zmianie ustawy o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
 
 *USTAWA z dnia 16 października 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Agencji Kosmicznej oraz ustawy o działach administracji rządowej
+# Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o Polskiej Agencji Kosmicznej oraz ustawy o działach administracji rządowej
 
 *USTAWA z dnia 13 czerwca 2019 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o własności lokali
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o własności lokali
 
 *USTAWA z dnia 5 lipca 2018 r.*
 

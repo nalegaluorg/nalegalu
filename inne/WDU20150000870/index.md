@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o drogach publicznych
+# Ustawa z dnia 13 września 2013 r. o zmianie ustawy o drogach publicznych
 
 *USTAWA z dnia 13 września 2013 r.*
 

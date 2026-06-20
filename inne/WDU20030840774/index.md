@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grach losowych, zakładach wzajemnych i grach na automatach oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 10 kwietnia 2003 r. o zmianie ustawy o grach losowych, zakładach wzajemnych i grach na automatach oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 10 kwietnia 2003 r.*
 

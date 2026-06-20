@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+# Ustawa z dnia 21 lipca 2006 r. zmieniająca ustawę o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
 
 *USTAWA z dnia 21 lipca 2006 r.*
 

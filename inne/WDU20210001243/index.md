@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw
 
 *USTAWA z dnia 28 maja 2021 r.*
 

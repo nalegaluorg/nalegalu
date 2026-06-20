@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o autostradach płatnych oraz o Krajowym Funduszu Drogowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym
 
 *USTAWA z dnia 27 października 1994 r.*
 
@@ -26,11 +26,6 @@ source: pdf
 | Data wydania | 2026-02-26 |
 | Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/218/text.pdf) |
-
-Art. 37gi. (uchylony)
-Art. 37gj. (uchylony)
-Art. 37gk. (uchylony)
-Art. 64–70. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -177,9 +172,17 @@ Art. 64–70. (pominięte)
 
 34. (uchylony)
 
-35. (uchylony) Art. 37aa. 1. W związku z poborem opłat za przejazd autostradą podmioty wskazane w art. 37a ust. 1a wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłat za przejazd autostradą.
+35. (uchylony)
 
-2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłat za przejazd autostradą. Art. 37ab. 1. Jeżeli przepisy odrębne nie stanowią inaczej, podmioty, o których mowa w art. 37a ust. 1a, lub osoby przez nie upoważnione, na podstawie pisemnego wniosku, udostępniają nieodpłatnie dane osobowe przetwarzane w związku z poborem opłat za przejazd autostradą:
+**Art. 37aa.**
+
+1. W związku z poborem opłat za przejazd autostradą podmioty wskazane w art. 37a ust. 1a wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłat za przejazd autostradą.
+
+2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłat za przejazd autostradą.
+
+**Art. 37ab.**
+
+1. Jeżeli przepisy odrębne nie stanowią inaczej, podmioty, o których mowa w art. 37a ust. 1a, lub osoby przez nie upoważnione, na podstawie pisemnego wniosku, udostępniają nieodpłatnie dane osobowe przetwarzane w związku z poborem opłat za przejazd autostradą:
 
 - **1)** Policji,
 - **2)** Inspekcji Transportu Drogowego,
@@ -266,9 +269,33 @@ Art. 64–70. (pominięte)
 - **1a)** pojazdy, o których mowa w art. 53 ust. 1 pkt 12 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, poruszające się jako pojazdy uprzywilejowane i uczestniczące w akcji ratowania życia lub zdrowia ludzkiego;
 - **2)** pojazdy Generalnej Dyrekcji Dróg Krajowych i Autostrad;
 - **3)** pojazdy drogowej spółki specjalnego przeznaczenia podczas wykonywania jej zadań spółki jako zarządcy autostrady;
-- **4)** pojazdy spółki, z którą zawarto umowę o budowę i eksploatację, bądź wyłącznie eksploatację autostrady podczas wykonywania zadań spółki jako zarządcy autostrady. Art. 37ga. Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych. Art. 37gb. (uchylony) Art. 37gc. (uchylony) Art. 37gd. (uchylony) Art. 37ge. (uchylony) Art. 37gea. (uchylony) Art. 37gf. (uchylony) Art. 37gg. (uchylony) Art. 37gh. (uchylony)
+- **4)** pojazdy spółki, z którą zawarto umowę o budowę i eksploatację, bądź wyłącznie eksploatację autostrady podczas wykonywania zadań spółki jako zarządcy autostrady.
+
+**Art. 37ga.** Zasady poboru opłat w systemie elektronicznym określają przepisy ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+
+**Art. 37gb.** (uchylony)
+
+**Art. 37gc.** (uchylony)
+
+**Art. 37gd.** (uchylony)
+
+**Art. 37ge.** (uchylony)
+
+**Art. 37gea.** (uchylony)
+
+**Art. 37gf.** (uchylony)
+
+**Art. 37gg.** (uchylony)
+
+**Art. 37gh.** (uchylony)
 
 #### Rozdział 5aa Kary grzywny
+
+**Art. 37gi.** (uchylony)
+
+**Art. 37gj.** (uchylony)
+
+**Art. 37gk.** (uchylony)
 
 #### Rozdział 5b Opłata paliwowa
 
@@ -278,9 +305,7 @@ Art. 64–70. (pominięte)
 
 2. Przez wprowadzenie na rynek krajowy paliw silnikowych oraz gazu, o których mowa w ust. 1, rozumie się czynności podlegające opodatkowaniu podatkiem akcyzowym, których przedmiotem są te paliwa silnikowe oraz gaz.
 
-3. Biokomponentami są biokomponenty w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz.
-
-- **901)** .
+3. Biokomponentami są biokomponenty w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901).
 
 4. Paliwami silnikowymi lub gazem, o których mowa w ust. 1, są następujące produkty:
 
@@ -377,7 +402,11 @@ Art. 64–70. (pominięte)
 
 3. Obowiązek zapłaty opłaty paliwowej przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym zapłata powinna nastąpić.
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat. Art. 37oa. 1. Opłata paliwowa podlega zwrotowi odpowiednio w przypadkach i na zasadach określonych dla zwrotu podatku akcyzowego:
+4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat.
+
+**Art. 37oa.**
+
+1. Opłata paliwowa podlega zwrotowi odpowiednio w przypadkach i na zasadach określonych dla zwrotu podatku akcyzowego:
 
 - **1)** przez który jest realizowane zwolnienie od podatku akcyzowego, o którym mowa w art. 31 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
 - **1a)** w art. 42 ust. 8 i 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
@@ -393,7 +422,9 @@ Art. 64–70. (pominięte)
 
 3. Zwrotu opłaty paliwowej dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu, Funduszowi Kolejowemu oraz Funduszowi rozwoju przewozów autobusowych o charakterze użyteczności publicznej w proporcji ustalonej zgodnie z art. 37i ust. 1.
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór wniosku o zwrot opłaty paliwowej, o którym mowa w ust. 1 pkt 2, uwzględniając konieczność prawidłowego określania kwot zwracanej opłaty paliwowej. Art. 37ob. Bank Gospodarstwa Krajowego przekazuje środki w celu dokonania zwrotu nadpłaty, o którym mowa w art. 37o ust. 2, lub zwrotu opłaty paliwowej, o którym mowa w art. 37oa ust. 1, na wniosek organu określonego w przepisach wydanych na podstawie art. 14 ust. 11 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w terminie 7 dni od dnia złożenia wniosku, na rachunek bankowy wskazany przez ten organ.
+4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór wniosku o zwrot opłaty paliwowej, o którym mowa w ust. 1 pkt 2, uwzględniając konieczność prawidłowego określania kwot zwracanej opłaty paliwowej.
+
+**Art. 37ob.** Bank Gospodarstwa Krajowego przekazuje środki w celu dokonania zwrotu nadpłaty, o którym mowa w art. 37o ust. 2, lub zwrotu opłaty paliwowej, o którym mowa w art. 37oa ust. 1, na wniosek organu określonego w przepisach wydanych na podstawie art. 14 ust. 11 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w terminie 7 dni od dnia złożenia wniosku, na rachunek bankowy wskazany przez ten organ.
 
 **Art. 37p.**
 
@@ -431,9 +462,7 @@ Art. 64–70. (pominięte)
 
 2. W przypadku gdy przewiduje się zawarcie umowy wyłącznie na eksploatację autostrady lub jej odcinka, budowę tej autostrady lub jej odcinka finansuje się na zasadach dotyczących finansowania i budowy dróg publicznych określonych w odrębnych przepisach oraz ze środków Funduszu.
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
-
-- **291)** .
+3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291).
 
 **Art. 39.** W Banku Gospodarstwa Krajowego tworzy się Fundusz.
 
@@ -637,7 +666,9 @@ Art. 64–70. (pominięte)
 6. Bank Gospodarstwa Krajowego:
 
 - **1)** sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego tego banku;
-- **2)** składa ministrom, o których mowa w ust. 3, w terminie do końca miesiąca następującego po każdym kwartale, informację o realizacji planu finansowego Funduszu. Art. 39na. Środki przekazywane do Krajowego Funduszu Drogowego na inwestycje realizowane w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, mogą pochodzić wyłącznie ze środków budżetu środków europejskich, o których mowa w art. 14ll ust. 1 tej ustawy.
+- **2)** składa ministrom, o których mowa w ust. 3, w terminie do końca miesiąca następującego po każdym kwartale, informację o realizacji planu finansowego Funduszu.
+
+**Art. 39na.** Środki przekazywane do Krajowego Funduszu Drogowego na inwestycje realizowane w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, mogą pochodzić wyłącznie ze środków budżetu środków europejskich, o których mowa w art. 14ll ust. 1 tej ustawy.
 
 **Art. 39o.**
 
@@ -805,6 +836,8 @@ Art. 64–70. (pominięte)
 **Art. 63e.** (uchylony)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
+
+**Art. 64–70.** (pominięte)
 
 **Art. 70a.** Do dnia 30 listopada 2021 r. Szef KAS może nie pobierać opłaty za przejazd autostradą w przypadku wy-stąpienia zagrożenia bezpieczeństwa ruchu drogowego lub zdarzenia zmniejszającego stopień tego bezpieczeństwa.
 

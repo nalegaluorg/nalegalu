@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym, ustawy o czasie pracy kierowców oraz niektórych innych ustaw
+# Ustawa z dnia 26 stycznia 2022 r. o zmianie ustawy o transporcie drogowym, ustawy o czasie pracy kierowców oraz niektórych innych ustaw
 
 *USTAWA z dnia 26 stycznia 2022 r.*
 

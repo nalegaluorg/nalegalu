@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz o zmianie innych ustaw
+# Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz o zmianie innych ustaw
 
 *USTAWA z dnia 5 września 2008 r.*
 

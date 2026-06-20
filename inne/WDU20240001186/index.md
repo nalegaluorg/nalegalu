@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Radzie Sądownictwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Radzie Sądownictwa
 
 | Pole | Wartość |
 |---|---|
@@ -32,7 +32,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 12 maja 2011 r.
 o Krajowej Radzie Sądownictwa
-Art. 46–49. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -519,6 +518,8 @@ Art. 46–49. (pominięte)
 **Art. 45c.** Wznowienie postępowania przed Krajową Radą Sądownictwa lub wzruszenie uchwały zawierającej wniosek o powołanie do pełnienia urzędu sędziego nie jest dopuszczalne, jeżeli osoba przedstawiona Prezydentowi Rzeczypospolitej Polskiej spełnia w dniu podjęcia uchwały przez Krajową Radę Sądownictwa warunki formalne wymagane do pełnienia urzędu, określone w Konstytucji Rzeczypospolitej Polskiej.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
+
+**Art. 46–49.** (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 

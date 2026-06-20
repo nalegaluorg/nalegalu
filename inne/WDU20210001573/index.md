@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|

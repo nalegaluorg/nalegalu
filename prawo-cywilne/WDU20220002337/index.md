@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o prawach konsumenta, ustawy – Kodeks cywilny oraz ustawy – Prawo prywatne międzynarodowe
+# Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o prawach konsumenta, ustawy - Kodeks cywilny oraz ustawy - Prawo prywatne międzynarodowe
 
 *USTAWA z dnia 4 listopada 2022 r.*
 

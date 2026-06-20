@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
+# Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 2 lipca 2004 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie innych ustaw
+# Ustawa z dnia 12 września 1996 r. o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie innych ustaw.
 
 *USTAWA z dnia 12 września 1996 r.*
 

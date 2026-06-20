@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
+# Ustawa z dnia 9 lutego 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
 
 *USTAWA z dnia 9 lutego 2024 r.*
 
@@ -42,7 +42,13 @@ source: pdf
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zp. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. przez podatników, o których mowa w art. 52zo ust. 1. Art. 52zq. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zr. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).”.
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zp.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. przez podatników, o których mowa w art. 52zo ust. 1.
+
+**Art. 52zq.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zr.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).”.
 
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805) wprowadza się następujące zmiany:
 
@@ -53,7 +59,9 @@ source: pdf
 - **4)** Rządowej Agencji Rezerw Strategicznych,
 - **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 38wd. Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
+2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2024 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+**Art. 38wd.** Do dochodu z tytułu wydatków niezwiązanych z działalnością gospodarczą, o którym mowa w art. 28m ust. 1 pkt 3, nie zalicza się wydatków odpowiadających wysokości:
 
 - **1)** poniesionych kosztów wytworzenia lub cenie nabycia rzeczy lub praw będących przedmiotem darowizn, o których mowa w art. 38wc ust. 1;
 - **2)** kosztów poniesionych z tytułu nieodpłatnego świadczenia, o których mowa w art. 38wc ust. 2.”;

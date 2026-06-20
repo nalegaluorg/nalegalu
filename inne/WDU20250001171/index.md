@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo konsularne
+# Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Prawo konsularne
 
 *USTAWA z dnia 9 lipca 2025 r.*
 

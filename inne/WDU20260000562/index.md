@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ poz. 1019), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dn
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 7 maja 2010 r.
 o wspieraniu rozwoju usług i sieci telekomunikacyjnych
-Art. 62–74. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -767,7 +766,11 @@ Art. 62–74. (pominięte)
 
 6. Zgłaszający, występujący w imieniu własnym lub w imieniu podmiotu dokonującego czynności, o których mowa w ust. 4 pkt 1 i 3, składa oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że przekazane informacje są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
-7. Lokalizowanie przestrzenne, wprowadzanie oraz aktualizacja informacji, o których mowa w ust. 4 pkt 1 oraz art. 29j, następuje w oparciu o informacje pochodzące z baz danych, o których mowa w art. 4 ust. 1a pkt 2, 4 i 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne. Art. 29la. 6) Minister właściwy do spraw informatyzacji może udostępniać informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4 oraz art. 29l ust. 4 pkt 1, z wykorzystaniem usługi udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
+7. Lokalizowanie przestrzenne, wprowadzanie oraz aktualizacja informacji, o których mowa w ust. 4 pkt 1 oraz art. 29j, następuje w oparciu o informacje pochodzące z baz danych, o których mowa w art. 4 ust. 1a pkt 2, 4 i 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+
+**Art. 29la.**
+
+- **6)** Minister właściwy do spraw informatyzacji może udostępniać informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4 oraz art. 29l ust. 4 pkt 1, z wykorzystaniem usługi udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
 
 **Art. 29m.**
 
@@ -1406,6 +1409,8 @@ Art. 62–74. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 62–74.** (pominięte)
+
 #### Rozdział 8 Przepisy przejściowe i końcowe
 
 **Art. 75.**
@@ -1473,7 +1478,9 @@ Art. 62–74. (pominięte)
 
 2. Raport, o którym mowa w ust. 1, minister właściwy do spraw łączności przekaże Prezesowi Rady Ministrów.
 
-3. Raport, o którym mowa w ust. 1, zawiera wnioski oraz propozycje działań wspierających rozwój sieci szerokopasmowych, w szczególności na obszarach wiejskich, z uwzględnieniem wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienia użytkownikom maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości. Art. 84–86. (pominięte)
+3. Raport, o którym mowa w ust. 1, zawiera wnioski oraz propozycje działań wspierających rozwój sieci szerokopasmowych, w szczególności na obszarach wiejskich, z uwzględnieniem wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienia użytkownikom maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości.
+
+**Art. 84–86.** (pominięte)
 
 **Art. 87.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 29, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz o zmianie niektórych innych ustaw
+# Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy o podatku od towarów i usług oraz o zmianie niektórych innych ustaw
 
 *USTAWA z dnia 21 kwietnia 2005 r.*
 

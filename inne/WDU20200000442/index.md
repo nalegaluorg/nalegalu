@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o leczeniu niepłodności
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o leczeniu niepłodności
 
 | Pole | Wartość |
 |---|---|
@@ -42,7 +42,6 @@ source: pdf
 Marszałek Sejmu: E. Witek
 USTAWA z dnia 25 czerwca 2015 r.
 o leczeniu niepłodności
-Art. 91–93. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1066,6 +1065,8 @@ Art. 91–93. (pominięte)
 7. Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 91–93.** (pominięte)
 
 **Art. 94.**
 

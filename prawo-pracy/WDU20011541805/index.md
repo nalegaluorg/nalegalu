@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy - Kodeks pracy.
 
 *USTAWA z dnia 21 grudnia 2001 r.*
 

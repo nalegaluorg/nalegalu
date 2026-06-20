@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie zagranicznej
+# Ustawa z dnia 21 stycznia 2021 r. o służbie zagranicznej
 
 *USTAWA z dnia 21 stycznia 2021 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2021-03-15 |
 | Ostatnia zmiana | 2026-03-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/464/text.pdf) |
-
-Art. 61–73. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -962,6 +960,8 @@ Art. 61–73. (pominięte)
 #### Rozdział 7 (uchylony)
 
 #### Rozdział 8 Przepisy zmieniające
+
+**Art. 61–73.** (pominięte)
 
 #### Rozdział 9 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 

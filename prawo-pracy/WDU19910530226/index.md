@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy
+# Ustawa z dnia 23 marca 1991 r. o zmianie ustawy - Kodeks pracy.
 
 | Pole | Wartość |
 |---|---|

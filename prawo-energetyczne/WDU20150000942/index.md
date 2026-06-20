@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo energetyczne
+# Ustawa z dnia 27 maja 2015 r. o zmianie ustawy - Prawo energetyczne
 
 *USTAWA z dnia 27 maja 2015 r.*
 

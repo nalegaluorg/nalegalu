@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie
+# Ustawa z dnia 18 czerwca 2009 r. zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie
 
 *USTAWA z dnia 18 czerwca 2009 r.*
 

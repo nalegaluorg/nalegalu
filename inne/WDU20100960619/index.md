@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Polskiej Akademii Nauk
+# Ustawa z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk
 
 *USTAWA z dnia 30 kwietnia 2010 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rachunkowości
+# Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o rachunkowości
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 

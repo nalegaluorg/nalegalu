@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o lotach najważniejszych osób w państwie
+# Ustawa z dnia 30 sierpnia 2019 r. o lotach najważniejszych osób w państwie
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 

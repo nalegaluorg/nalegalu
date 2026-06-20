@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o odnawialnych źródłach energii oraz ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
+# Ustawa z dnia 27 stycznia 2022 r. o zmianie ustawy o odnawialnych źródłach energii oraz ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 stycznia 2022 r.*
 

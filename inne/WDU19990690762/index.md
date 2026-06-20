@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Uniwersytetu Warmińsko-Mazurskiego w Olsztynie
+# Ustawa z dnia 9 lipca 1999 r. o utworzeniu Uniwersytetu Warmińsko-Mazurskiego w Olsztynie.
 
 *USTAWA z dnia 9 lipca 1999 r.*
 

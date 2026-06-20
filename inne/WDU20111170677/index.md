@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
 
 *USTAWA z dnia 1 kwietnia 2011 r.*
 

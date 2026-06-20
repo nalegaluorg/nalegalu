@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o komercjalizacji i niektórych uprawnieniach pracowników
+# Ustawa z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników
 
 *USTAWA z dnia 30 sierpnia 1996 r.*
 

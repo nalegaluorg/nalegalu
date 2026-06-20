@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o zakazie stosowania wyrobów zawierających azbest
+# Ustawa z dnia 15 września 2000 r. o zmianie ustawy o zakazie stosowania wyrobów zawierających azbest.
 
 *USTAWA z dnia 15 września 2000 r.*
 

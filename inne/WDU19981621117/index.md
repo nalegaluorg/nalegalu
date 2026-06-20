@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa
+# Ustawa z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa.
 
 *USTAWA z dnia 17 grudnia 1998 r.*
 

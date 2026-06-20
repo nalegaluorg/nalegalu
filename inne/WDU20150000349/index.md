@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+# Ustawa z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020
 
 *USTAWA z dnia 20 lutego 2015 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2015-03-13 |
 | Ostatnia zmiana | 2026-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/349/text.pdf) |
-
-Art. 59–67. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -612,9 +610,7 @@ Art. 59–67. (pominięte)
 
 6. (uchylony)
 
-**Art. 42a.** Za objęte wnioskiem o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a, uznaje się, zgodnie z art. 21 ust. 4 rozporządzenia nr 809/2014, zwierzęta spełniające warunki przyznania tej pomocy, co potwierdzają dane zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz.
-
-- **1815)** .
+**Art. 42a.** Za objęte wnioskiem o przyznanie pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 12a, uznaje się, zgodnie z art. 21 ust. 4 rozporządzenia nr 809/2014, zwierzęta spełniające warunki przyznania tej pomocy, co potwierdzają dane zawarte w komputerowej bazie danych prowadzonej na podstawie ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815).
 
 **Art. 42b.**
 
@@ -1190,6 +1186,8 @@ Art. 59–67. (pominięte)
 - **4)** szczegółowe warunki, kryteria i tryb wyboru operacji partnerów KSOW – mając na względzie zapewnienie funkcjonowania KSOW zgodnie z programem, w tym przygotowanie planu działania i dwuletnich planów operacyjnych oraz ich zmian, uwzględniając w planie działania i dwuletnich planach operacyjnych elementy, o których mowa w art. 54 ust. 3 lit. b rozporządzenia nr 1305/2013, oraz zapewnienie realizacji partnerstwa, o którym mowa w art. 5 rozporządzenia nr 1303/2013, będącego zgodnie z art. 54 ust. 1 rozporządzenia nr 1305/2013 częścią KSOW.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 59–67.** (pominięte)
 
 #### Rozdział 9a Przepisy epizodyczne dotyczące pomocy i pomocy technicznej w związku z zakażeniami wirusem SARS-CoV-2
 

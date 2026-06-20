@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych
+# Ustawa z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych
 
 *USTAWA z dnia 6 lipca 2007 r.*
 

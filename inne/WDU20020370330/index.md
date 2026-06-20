@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskim Rejestrze Statków
+# Ustawa z dnia 15 marca 2002 r. o zmianie ustawy o Polskim Rejestrze Statków.
 
 *USTAWA z dnia 15 marca 2002 r.*
 

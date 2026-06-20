@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych
+# Ustawa z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych
 
 *USTAWA z dnia 11 października 2024 r.*
 

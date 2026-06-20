@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pracownikach samorządowych, ustawy o Najwyższej Izbie Kontroli oraz ustawy o służbie cywilnej
+# Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o pracownikach samorządowych, ustawy o Najwyższej Izbie Kontroli oraz ustawy o służbie cywilnej
 
 *USTAWA z dnia 10 marca 2006 r.*
 

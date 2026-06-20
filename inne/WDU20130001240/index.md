@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o niektórych formach wspierania działalności innowacyjnej
+# Ustawa z dnia 27 września 2013 r. o zmianie ustawy o niektórych formach wspierania działalności innowacyjnej
 
 *USTAWA z dnia 27 września 2013 r.*
 

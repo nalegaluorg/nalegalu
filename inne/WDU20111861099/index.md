@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ochronie prawnej odmian roślin
+# Ustawa z dnia 1 lipca 2011 r. o zmianie ustawy o ochronie prawnej odmian roślin
 
 *USTAWA z dnia 1 lipca 2011 r.*
 

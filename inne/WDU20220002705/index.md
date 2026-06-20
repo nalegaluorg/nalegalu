@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
+# Ustawa z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych
 
 *USTAWA z dnia 1 grudnia 2022 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2022-12-21 |
 | Ostatnia zmiana | 2025-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002705) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text.pdf) |
-
-Art. 206–217. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -276,7 +274,7 @@ Art. 206–217. (pominięte)
 - **12)** wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej;
 - **13)** elementy zabezpieczające przed fałszerstwem, uwzględniające minimalne zabezpieczenia dla dokumentów publicznych kategorii drugiej określone w przepisach wydanych na podstawie art. 7 ust. 5 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863). <2. Dokument „Prawo wykonywania zawodu ratownika medycznego” jest wydawany w formie spersonalizowanej dwustronnej karty identyfikacyjnej, a w przypadku osób posiadających obywatelstwo polskie może być udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
 
-3. Dokument „Prawo wykonywania zawodu ratownika medycznego” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 1 pkt 1–3, 5–8 i 10.>
+3. Dokument „Prawo wykonywania zawodu ratownika medycznego” udostępniany w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel, zawiera dane, o których mowa w ust. 1 pkt 1–3, 5–8 i 10.
 
 **Art. 29.** Minister właściwy do spraw zdrowia może upoważnić Krajową Radę do wykonywania w jego imieniu zadań określonych w art. 11, art. 14, art. 34 ust. 2 i 3, art. 35, art. 36 ust. 1 oraz art. 37–39 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, a także do zawarcia umowy w sprawie wytwarzania blankietów dokumentów publicznych ze spółką w rozumieniu art. 2 ust. 1 pkt 7 tej ustawy albo innym podmiotem, o których mowa w art. 11 i art. 18 tej ustawy.
 
@@ -1748,6 +1746,8 @@ Art. 206–217. (pominięte)
 3. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977 i 1544).
 
 #### Rozdział 9 Zmiany w przepisach
+
+**Art. 206–217.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i przepis końcowy
 

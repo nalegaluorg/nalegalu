@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw
 
 *USTAWA z dnia 22 listopada 2018 r.*
 
@@ -1061,7 +1061,11 @@ source: pdf
 
 - **1)** wymaganiach edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z zajęć edukacyjnych, wynikających z realizowanego przez siebie programu nauczania;
 - **2)** sposobu sprawdzania osiągnięć edukacyjnych słuchaczy;
-- **3)** warunkach i trybie otrzymania wyższej niż przewidywana semestralna ocena klasyfikacyjna z zajęć edukacyjnych. Art. 44sb. 1. Nauczyciel jest obowiązany indywidualizować pracę ze słuchaczem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza.
+- **3)** warunkach i trybie otrzymania wyższej niż przewidywana semestralna ocena klasyfikacyjna z zajęć edukacyjnych.
+
+**Art. 44sb.**
+
+1. Nauczyciel jest obowiązany indywidualizować pracę ze słuchaczem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza.
 
 2. Nauczyciel jest obowiązany dostosować wymagania edukacyjne, o których mowa w art. 44sa ust. 2 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza, w przypadkach określonych w przepisach wydanych na podstawie art. 44zb.”;
 
@@ -1186,7 +1190,11 @@ source: pdf
 
 - **60)** art. 44zh i art. 44zi otrzymują brzmienie: „Art. 44zh. 1. Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy – Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej – najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
 
-2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną. Art. 44zi. 1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+2. Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy – Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
+
+**Art. 44zi.**
+
+1. Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
 
 2. Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.”;
 
@@ -1194,7 +1202,11 @@ source: pdf
 
 2. Uczeń nieklasyfikowany z powodu usprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny.
 
-3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej. Art. 44zib. 1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
+3. Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej.
+
+**Art. 44zib.**
+
+1. Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy – Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
 
 2. Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych, a w artystycznej szkole policealnej – semestralnych, zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami, a w artystycznej szkole policealnej – z uczniem.
 
@@ -1555,7 +1567,7 @@ source: pdf
 - **2)** w przypadku nauczyciela ubiegającego się o stopień nauczyciela dyplomowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy jego dorobku zawodowego i przeprowadzonej rozmowie.] <2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
 - **1)** w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie;
 - **2)** w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną;
-- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie.>
+- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie.
 
 3. Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który w okresie 10 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela kontraktowego przez co najmniej 5 lat szkolnych prowadził zajęcia w szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela kontraktowego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć w szkole za granicą.
 
@@ -1614,10 +1626,9 @@ source: pdf
 
 7. Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa w ust. 6, wpisuje nauczyciela na listę, o której mowa w ust. 4, albo odmawia wpisania na tę listę.
 
-**Art. 9m.**
+**Art. 9m.** 1. Staż nauczyciela szkoły za granicą trwa w przypadku ubiegania się o awans na stopień: [1) nauczyciela kontraktowego – rok i 9 miesięcy;]
 
-1. Staż nauczyciela szkoły za granicą trwa w przypadku ubiegania się o awans na stopień: [1) nauczyciela kontraktowego – rok i 9 miesięcy;] <1) nauczyciela kontraktowego – 9 miesięcy;>
-
+- **1)** nauczyciela kontraktowego – 9 miesięcy;
 - **2)** nauczyciela mianowanego albo nauczyciela dyplomowanego – 2 lata i 9 miesięcy.
 
 2. Nauczyciel szkoły za granicą posiadający stopień awansu zawodowego nauczyciela kontraktowego lub nauczyciela mianowanego, który posiada co najmniej stopień naukowy doktora, może ubiegać się o uzyskanie kolejnego stopnia awansu zawodowego po odbyciu stażu trwającego rok i 9 miesięcy.

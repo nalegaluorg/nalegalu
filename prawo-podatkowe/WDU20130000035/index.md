@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+# Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 
 *USTAWA z dnia 7 grudnia 2012 r.*
 
@@ -480,10 +480,9 @@ source: pdf
 
 2. Podatnik nie jest obowiązany do wystawienia faktury w odniesieniu do sprzedaży zwolnionej od podatku na podstawie art. 43 ust. 1, art. 113 ust. 1 i 9 lub przepisów wydanych na podstawie art. 82 ust.
 
-3.
+3. 3. Na żądanie nabywcy towaru lub usługi podatnik jest obowiązany wystawić fakturę dokumentującą: [1) czynności, o których mowa w ust. 1 pkt 1, oraz otrzymanie całości lub części zapłaty przed wykonaniem tych czynności, z wyjątkiem przypadku, gdy zapłata dotyczy wewnątrzwspólnotowej dostawy towarów lub czynności, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 4 – jeżeli obowiązek wystawienia faktury nie wynika z ust. 1,]
 
-3. Na żądanie nabywcy towaru lub usługi podatnik jest obowiązany wystawić fakturę dokumentującą: [1) czynności, o których mowa w ust. 1 pkt 1, oraz otrzymanie całości lub części zapłaty przed wykonaniem tych czynności, z wyjątkiem przypadku, gdy zapłata dotyczy wewnątrzwspólnotowej dostawy towarów lub czynności, dla których obowiązek podatkowy powstaje zgodnie z art. 19a ust. 5 pkt 4 – jeżeli obowiązek wystawienia faktury nie wynika z ust. 1,] <1) czynności, o których mowa w ust. 1 pkt 1, z wyjątkiem czynności, o których mowa w art. 19a ust. 5 pkt 4, oraz otrzymanie całości lub części zapłaty przed wykonaniem tych czynności, z wyjątkiem przypadku, gdy zapłata dotyczy wewnątrzwspólnotowej dostawy towarów – jeżeli obowiązek wystawienia faktury nie wynika z ust. 1,>
-
+- **1)** czynności, o których mowa w ust. 1 pkt 1, z wyjątkiem czynności, o których mowa w art. 19a ust. 5 pkt 4, oraz otrzymanie całości lub części zapłaty przed wykonaniem tych czynności, z wyjątkiem przypadku, gdy zapłata dotyczy wewnątrzwspólnotowej dostawy towarów – jeżeli obowiązek wystawienia faktury nie wynika z ust. 1,
 - **2)** sprzedaż zwolnioną, o której mowa w ust. 2, z zastrzeżeniem art. 117 pkt 1 i art. 118 – jeżeli żądanie jej wystawienia zostało zgłoszone w terminie 3 miesięcy, licząc od końca miesiąca, w którym dostarczono towar lub wykonano usługę bądź otrzymano całość lub część zapłaty.
 
 **Art. 106c.** Faktury dokumentujące dostawę towarów, o której mowa w art. 18, z tytułu której na dłużniku ciąży obowiązek podatkowy, wystawiają w imieniu i na rzecz dłużnika:
@@ -617,7 +616,8 @@ source: pdf
 
 - **1)** 30. dnia od dnia wykonania usług – w przypadku, o którym mowa w art. 19a ust. 5 pkt 3 lit. a;
 - **2)** 60. dnia od dnia wydania towarów – w przypadku, o którym mowa w art. 19a ust. 5 pkt 3 lit. b, z zastrzeżeniem ust. 4;
-- **3)** 90. dnia od dnia wykonania czynności – w przypadku, o którym mowa w art. 19a ust. 5 pkt 3 lit. c; <4) z upływem terminu płatności – w przypadku, o którym mowa w art. 19a ust. 5 pkt 4.>
+- **3)** 90. dnia od dnia wykonania czynności – w przypadku, o którym mowa w art. 19a ust. 5 pkt 3 lit. c;
+- **4)** z upływem terminu płatności – w przypadku, o którym mowa w art. 19a ust. 5 pkt 4.
 
 4. W przypadku dostawy towarów, o których mowa w art. 19a ust. 5 pkt 3 lit. b, gdy umowa przewiduje rozliczenie zwrotów wydawnictw, fakturę wystawia się nie później niż 120. dnia od pierwszego dnia wydania towarów.
 

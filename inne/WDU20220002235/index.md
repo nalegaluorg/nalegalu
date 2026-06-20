@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 października 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
 
 | Pole | Wartość |
 |---|---|
@@ -132,7 +132,9 @@ poz. 159), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynk
 
 1. Dodatkowe świadczenie oraz koszty jego obsługi wypłacane przez Zakład Ubezpieczeń Społecznych i Kasę Rolniczego Ubezpieczenia Społecznego są finansowane ze środków Funduszu Solidarnościowego, o którym mowa w ustawie z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2020 r. poz. 1787 oraz z 2022 r. poz. 1812).
 
-2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę dodatkowego świadczenia. Art. 15–18. (pominięte)
+2. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę dodatkowego świadczenia.
+
+**Art. 15–18.** (pominięte)
 
 **Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

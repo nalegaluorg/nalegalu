@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadaniu Akademii Medycznej w Białymstoku nazwy „Uniwersytet Medyczny w Białymstoku”
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Białymstoku nazwy "Uniwersytet Medyczny w Białymstoku".
 
 *USTAWA z dnia 23 stycznia 2008 r.*
 

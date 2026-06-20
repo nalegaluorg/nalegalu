@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Polskiej Agencji Prasowej
+# Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Polskiej Agencji Prasowej
 
 *USTAWA z dnia 9 listopada 2018 r.*
 

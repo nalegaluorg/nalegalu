@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie konkurencji i konsumentów
+# Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów
 
 *USTAWA z dnia 16 lutego 2007 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2007-03-21 |
 | Ostatnia zmiana | 2025-12-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070500331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.pdf) |
-
-Art. 115–129. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -595,7 +593,11 @@ Art. 115–129. (pominięte)
 - **16c)** współpraca z Prezesem Urzędu Zamówień Publicznych w zakresie niezbędnym do realizacji jego zadań ustawowych, w szczególności w zakresie wykonywania zadań państwa członkowskiego określonych w rozporządzeniu nr 2022/2560;
 - **17)** wykonywanie innych zadań określonych w ustawie lub ustawach odrębnych.
 
-**Art. 31a.** Prezes Urzędu może wydać i ogłosić wyjaśnienia i interpretacje mające istotne znaczenie dla stosowania przepisów w sprawach objętych zakresem działania Prezesa Urzędu. Wyjaśnienia i interpretacje są publikowane w Biuletynie Informacji Publicznej Urzędu. Art. 31aa. 1. Prezes Urzędu, w terminie do dnia 30 kwietnia każdego roku, przekazuje Prezesowi Rady Ministrów sprawozdanie z działalności Prezesa Urzędu za rok poprzedni zawierające w szczególności informacje o:
+**Art. 31a.** Prezes Urzędu może wydać i ogłosić wyjaśnienia i interpretacje mające istotne znaczenie dla stosowania przepisów w sprawach objętych zakresem działania Prezesa Urzędu. Wyjaśnienia i interpretacje są publikowane w Biuletynie Informacji Publicznej Urzędu.
+
+**Art. 31aa.**
+
+1. Prezes Urzędu, w terminie do dnia 30 kwietnia każdego roku, przekazuje Prezesowi Rady Ministrów sprawozdanie z działalności Prezesa Urzędu za rok poprzedni zawierające w szczególności informacje o:
 
 - **1)** realizacji zadań Prezesa Urzędu i ich efektach, w podziale na poszczególne obszary jego działalności;
 - **2)** Prezesie Urzędu i wiceprezesach Urzędu pełniących funkcję w danym roku kalendarzowym;
@@ -1670,7 +1672,17 @@ Art. 115–129. (pominięte)
 
 4. Przebieg kontroli lub poszczególne czynności w jej toku, po uprzednim poinformowaniu kontrolowanego, mogą być utrwalane przy pomocy urządzeń rejestrujących obraz lub dźwięk. Informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli.
 
-**Art. 105c.** (uchylony) Art. 105ca. 1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeprowadzeniu kontroli, jeżeli jest to niezbędne do przeprowadzenia kontroli. 2. Policja lub organ kontroli państwowej, o którym mowa w ust. 1, zapewniają pomoc w przeprowadzeniu kontroli. Pomoc udzielana przez Policję polega na zapewnieniu porządku w miejscu przeprowadzania kontroli i osobistego bezpieczeństwa osób obecnych w tym miejscu, a także na ustaleniu tożsamości osób. 3. Prezes Urzędu występuje na piśmie o udzielenie pomocy do komendanta wojewódzkiego Policji właściwego ze względu na miejsce kontroli lub organu kontroli państwowej, o którym mowa w ust. 1, co najmniej 7 dni przed planowanym dniem wszczęcia kontroli. W przypadkach niecierpiących zwłoki Prezes Urzędu występuje z wnioskiem, co najmniej 3 dni przed planowanym dniem rozpoczęcia kontroli. 4. Koszty poniesione przez Policję lub organ kontroli państwowej, o którym mowa w ust. 1, z tytułu udzielonej pomocy w przeprowadzeniu kontroli ponosi Prezes Urzędu. Koszty te ustala się według stawki zryczałtowanej w wysokości 1,5 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, za każdy przypadek udzielenia pomocy.
+**Art. 105c.** (uchylony)
+
+**Art. 105ca.**
+
+1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeprowadzeniu kontroli, jeżeli jest to niezbędne do przeprowadzenia kontroli.
+
+2. Policja lub organ kontroli państwowej, o którym mowa w ust. 1, zapewniają pomoc w przeprowadzeniu kontroli. Pomoc udzielana przez Policję polega na zapewnieniu porządku w miejscu przeprowadzania kontroli i osobistego bezpieczeństwa osób obecnych w tym miejscu, a także na ustaleniu tożsamości osób.
+
+3. Prezes Urzędu występuje na piśmie o udzielenie pomocy do komendanta wojewódzkiego Policji właściwego ze względu na miejsce kontroli lub organu kontroli państwowej, o którym mowa w ust. 1, co najmniej 7 dni przed planowanym dniem wszczęcia kontroli. W przypadkach niecierpiących zwłoki Prezes Urzędu występuje z wnioskiem, co najmniej 3 dni przed planowanym dniem rozpoczęcia kontroli.
+
+4. Koszty poniesione przez Policję lub organ kontroli państwowej, o którym mowa w ust. 1, z tytułu udzielonej pomocy w przeprowadzeniu kontroli ponosi Prezes Urzędu. Koszty te ustala się według stawki zryczałtowanej w wysokości 1,5 % przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, za każdy przypadek udzielenia pomocy.
 
 **Art. 105d.**
 
@@ -1683,7 +1695,11 @@ Art. 115–129. (pominięte)
 
 2. Osoby, o których mowa w ust. 1, mogą odmówić udzielenia informacji lub współdziałania w toku kontroli tylko wtedy, gdy naraziłoby to je lub ich małżonka, wstępnych, zstępnych, rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki lub kurateli, a także osobę pozostającą we wspólnym pożyciu, na odpowiedzialność karną. Prawo odmowy udzielenia informacji lub współdziałania w toku kontroli trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli.
 
-3. Odpowiedzi na pytania udzielone przez osoby, o których mowa w ust. 1, nie mogą być wykorzystane na niekorzyść tej osoby lub osób wymienionych w ust. 2 w postępowaniu prowadzonym przez Prezesa Urzędu w sprawie nałożenia kary pieniężnej, o której mowa w art. 106a i art. 106b. Zakaz ten trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli. Art. 105da. 1. Jeżeli w toku kontroli kontrolowany lub osoba przez niego upoważniona oświadczy, że ujawnione w toku kontroli pisma lub dokumenty, w tym zawarte na informatycznych nośnikach danych, w urządzeniach lub w systemach informatycznych, o których mowa w art. 105b ust. 1 pkt 2:
+3. Odpowiedzi na pytania udzielone przez osoby, o których mowa w ust. 1, nie mogą być wykorzystane na niekorzyść tej osoby lub osób wymienionych w ust. 2 w postępowaniu prowadzonym przez Prezesa Urzędu w sprawie nałożenia kary pieniężnej, o której mowa w art. 106a i art. 106b. Zakaz ten trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli.
+
+**Art. 105da.**
+
+1. Jeżeli w toku kontroli kontrolowany lub osoba przez niego upoważniona oświadczy, że ujawnione w toku kontroli pisma lub dokumenty, w tym zawarte na informatycznych nośnikach danych, w urządzeniach lub w systemach informatycznych, o których mowa w art. 105b ust. 1 pkt 2:
 
 - **1)** zawierają pisemną komunikację między kontrolowanym a niezależnym od kontrolowanego adwokatem, radcą prawnym, prawnikiem z Unii Europejskiej w rozumieniu art. 2 pkt 2 ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 823) lub osobą, o której mowa w art. 2a tej ustawy, wytworzoną w celu realizacji prawa kontrolowanego do uzyskania ochrony prawnej w związku z przedmiotem postępowania prowadzonego przez Prezesa Urzędu, w toku którego jest przeprowadzana kontrola, lub
 - **2)** zostały sporządzone wyłącznie w celu realizacji prawa kontrolowanego do uzyskania ochrony prawnej od osób, o których mowa w pkt 1, w związku z przedmiotem postępowania prowadzonego przez Prezesa Urzędu, w toku którego jest przeprowadzana kontrola – kontrolujący pozostawia te pisma lub dokumenty w miejscu kontroli.
@@ -1758,7 +1774,11 @@ Art. 115–129. (pominięte)
 - **2)** pracownika Komisji Europejskiej;
 - **3)** osoby posiadające wiadomości specjalne, jeżeli do przeprowadzenia kontroli niezbędne są tego rodzaju wiadomości.
 
-7. W przypadku gdy przedsiębiorca lub osoba uprawniona do jego reprezentowania sprzeciwiają się przeprowadzeniu przez Komisję Europejską kontroli w toku postępowania prowadzonego na podstawie przepisów rozporządzenia nr 2022/2560, osobom upoważnionym przez Prezesa Urzędu, o których mowa w ust. 6 pkt 1 i 3, przysługują w toku kontroli uprawnienia, o których mowa w art. 105b, art. 105ca, art. 105da, art. 105f‒105h, art. 105n, art. 105nc i art. 105o. Art. 105ia. 1. W celu uzyskania informacji mogących stanowić dowód w sprawie praktyk naruszających zbiorowe interesy konsumentów kontrolujący ma prawo podjęcia czynności zmierzających do zakupu towaru.
+7. W przypadku gdy przedsiębiorca lub osoba uprawniona do jego reprezentowania sprzeciwiają się przeprowadzeniu przez Komisję Europejską kontroli w toku postępowania prowadzonego na podstawie przepisów rozporządzenia nr 2022/2560, osobom upoważnionym przez Prezesa Urzędu, o których mowa w ust. 6 pkt 1 i 3, przysługują w toku kontroli uprawnienia, o których mowa w art. 105b, art. 105ca, art. 105da, art. 105f‒105h, art. 105n, art. 105nc i art. 105o.
+
+**Art. 105ia.**
+
+1. W celu uzyskania informacji mogących stanowić dowód w sprawie praktyk naruszających zbiorowe interesy konsumentów kontrolujący ma prawo podjęcia czynności zmierzających do zakupu towaru.
 
 2. Okazanie kontrolowanemu albo osobie przez niego upoważnionej legitymacji służbowej upoważniającej do wykonywania czynności kontrolnych oraz doręczenie upoważnienia do przeprowadzenia kontroli i zgody sądu, o której mowa w ust. 4, następuje niezwłocznie po zakończeniu czynności, o których mowa w ust. 1.
 
@@ -1798,7 +1818,9 @@ Art. 115–129. (pominięte)
 
 6. Protokół sporządza się w dwóch egzemplarzach, z których jeden pozostawia się kontrolowanemu, z wyłączeniem materiału dowodowego pozostającego w posiadaniu kontrolowanego.
 
-**Art. 105l.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. Art. 105la. Do kontroli u przedsiębiorcy w toku postępowania przed Prezesem Urzędu stosuje się odpowiednio przepisy art. 180, art. 224 § 1, art. 225 § 1, 2 i 4, art. 226 oraz art. 236a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; sądem właściwym na potrzeby stosowania tych przepisów jest sąd ochrony konkurencji i konsumentów.
+**Art. 105l.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+**Art. 105la.** Do kontroli u przedsiębiorcy w toku postępowania przed Prezesem Urzędu stosuje się odpowiednio przepisy art. 180, art. 224 § 1, art. 225 § 1, 2 i 4, art. 226 oraz art. 236a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; sądem właściwym na potrzeby stosowania tych przepisów jest sąd ochrony konkurencji i konsumentów.
 
 **Art. 105m.**
 
@@ -1833,7 +1855,11 @@ Art. 115–129. (pominięte)
 
 8. Postanowienie sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania zawiera zwięzłe wskazanie zasadniczych powodów rozstrzygnięcia.
 
-9. Na postanowienie sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania przeszukiwanemu przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia z uzasadnieniem. Art. 105na. 1. Sąd uzasadnia postanowienie o udzieleniu zgody na przeprowadzenie przeszukania na żądanie przeszukiwanego zgłoszone w terminie 7 dni od dnia doręczenia mu postanowienia.
+9. Na postanowienie sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania przeszukiwanemu przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia z uzasadnieniem.
+
+**Art. 105na.**
+
+1. Sąd uzasadnia postanowienie o udzieleniu zgody na przeprowadzenie przeszukania na żądanie przeszukiwanego zgłoszone w terminie 7 dni od dnia doręczenia mu postanowienia.
 
 2. Zażalenie wnosi się do sądu drugiej instancji za pośrednictwem sądu ochrony konkurencji i konsumentów. Wniesienie zażalenia nie wstrzymuje przeszukania.
 
@@ -1841,11 +1867,19 @@ Art. 115–129. (pominięte)
 
 4. W przypadku uwzględnienia zażalenia w całości albo w części dowody uzyskane w wyniku przeprowadzenia przeszukania w całości albo w uwzględnionej w wyniku zażalenia części nie mogą być wykorzystane w prowadzonym postępowaniu, w innych postępowaniach prowadzonych przez Prezesa Urzędu oraz w postępowaniach prowadzonych na podstawie odrębnych przepisów.
 
-5. Od postanowienia sądu drugiej instancji skarga kasacyjna nie przysługuje. Art. 105nb. 1. Sąd ochrony konkurencji i konsumentów niezwłocznie doręcza Prezesowi Urzędu postanowienie, o którym mowa w art. 105n ust. 4, a w razie uwzględnienia wniosku o przeprowadzenie przeszukania postanowienie wraz z odpisem dla przeszukiwanego.
+5. Od postanowienia sądu drugiej instancji skarga kasacyjna nie przysługuje.
+
+**Art. 105nb.**
+
+1. Sąd ochrony konkurencji i konsumentów niezwłocznie doręcza Prezesowi Urzędu postanowienie, o którym mowa w art. 105n ust. 4, a w razie uwzględnienia wniosku o przeprowadzenie przeszukania postanowienie wraz z odpisem dla przeszukiwanego.
 
 2. Przeszukujący doręcza przeszukiwanemu odpis postanowienia sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania wraz z rozpoczęciem przeszukania. W razie nieobecności przeszukiwanego odpis postanowienia sądu ochrony konkurencji i konsumentów może być okazany osobom, o których mowa w art. 105a ust. 7. Okazania dokonuje się wraz z rozpoczęciem przeszukania. W takim przypadku odpis postanowienia sądu ochrony konkurencji i konsumentów o udzieleniu zgody na przeprowadzenie przeszukania doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania. Potwierdzenie doręczenia Prezes Urzędu niezwłocznie przekazuje sądowi ochrony konkurencji i konsumentów.
 
-3. Wraz z rozpoczęciem przeszukania przeszukiwanemu doręcza się również upoważnienie do przeprowadzenia przeszukania oraz okazuje legitymację służbową, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość. W razie nieobecności przeszukiwanego dokumenty te mogą być okazane osobom, o których mowa w art. 105a ust. 7. W takim przypadku upoważnienie doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania. Art. 105nc. 1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeszukaniu, jeżeli jest to niezbędne do przeprowadzenia przeszukania. Przepisy art. 105ca ust. 2 zdanie pierwsze i ust. 3 stosuje się odpowiednio.
+3. Wraz z rozpoczęciem przeszukania przeszukiwanemu doręcza się również upoważnienie do przeprowadzenia przeszukania oraz okazuje legitymację służbową, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość. W razie nieobecności przeszukiwanego dokumenty te mogą być okazane osobom, o których mowa w art. 105a ust. 7. W takim przypadku upoważnienie doręcza się niezwłocznie przeszukiwanemu, nie później jednak niż trzeciego dnia od dnia rozpoczęcia przeszukania.
+
+**Art. 105nc.**
+
+1. Prezes Urzędu może zwrócić się do Policji lub organu kontroli państwowej o udzielenie pomocy w przeszukaniu, jeżeli jest to niezbędne do przeprowadzenia przeszukania. Przepisy art. 105ca ust. 2 zdanie pierwsze i ust. 3 stosuje się odpowiednio.
 
 2. Pomoc udzielana przez funkcjonariuszy Policji polega na:
 
@@ -1856,7 +1890,9 @@ Art. 115–129. (pominięte)
 
 4. W przypadku niezastosowania się do wezwania funkcjonariusz Policji podejmuje wobec danej osoby czynności zmierzające do umożliwienia rozpoczęcia lub przeprowadzenia przeszukania przez przeszukujących.
 
-5. Do poniesionych kosztów pomocy udzielonej przez Policję lub organ kontroli państwowej przepis art. 105ca ust. 4 stosuje się odpowiednio. Art. 105nd. Przeszukanie przeprowadza się w godzinach pracy lub w czasie faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę, przy czym za zgodą przedsiębiorcy lub, w szczególnie uzasadnionych przypadkach, bez takiej zgody, przeszukujący mogą kontynuować przeszukanie poza tymi godzinami lub czasem faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę.
+5. Do poniesionych kosztów pomocy udzielonej przez Policję lub organ kontroli państwowej przepis art. 105ca ust. 4 stosuje się odpowiednio.
+
+**Art. 105nd.** Przeszukanie przeprowadza się w godzinach pracy lub w czasie faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę, przy czym za zgodą przedsiębiorcy lub, w szczególnie uzasadnionych przypadkach, bez takiej zgody, przeszukujący mogą kontynuować przeszukanie poza tymi godzinami lub czasem faktycznego wykonywania działalności gospodarczej przez przedsiębiorcę.
 
 **Art. 105o.** W celu uzyskania informacji mogących stanowić dowód w sprawie przeszukujący ma prawo sporządzania z materiałów i korespondencji, o których mowa w art. 105b ust. 1 pkt 2, oraz z informacji zgromadzonych na nośnikach, w urządzeniach lub w systemach, o których mowa w tym przepisie, notatek, przez co należy rozumieć również sporządzenie kopii lub wydruków.
 
@@ -2479,6 +2515,8 @@ Art. 115–129. (pominięte)
 2. Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
 
 ### DZIAŁ IX Przepisy zmieniające, przejściowe i końcowe
+
+**Art. 115–129.** (pominięte)
 
 **Art. 130.** Przy ustalaniu wysokości kary pieniężnej, o którym mowa w art. 111, uwzględnia się również okoliczność naruszenia przepisów ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2005 r. poz. 2080 oraz z 2006 r. poz. 1119, 1217 i 1834).
 

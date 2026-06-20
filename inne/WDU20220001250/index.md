@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o portowych urządzeniach do odbioru odpadów ze statków
+# Ustawa z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków
 
 *USTAWA z dnia 12 maja 2022 r.*
 

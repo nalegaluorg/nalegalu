@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
 
 | Pole | Wartość |
 |---|---|

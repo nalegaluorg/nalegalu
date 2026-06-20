@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej oraz ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej oraz ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
 
 *USTAWA z dnia 4 lipca 2019 r.*
 

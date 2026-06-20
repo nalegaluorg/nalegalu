@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o systemie oświaty, ustawy - Przepisy wprowadzające reformę ustroju szkolnego, ustawy - Karta Nauczyciela oraz niektórych innych ustaw
+# Ustawa z dnia 23 sierpnia 2001 r. o zmianie ustawy o systemie oświaty, ustawy - Przepisy wprowadzające reformę ustroju szkolnego, ustawy - Karta Nauczyciela oraz niektórych innych ustaw.
 
 *USTAWA z dnia 23 sierpnia 2001 r.*
 

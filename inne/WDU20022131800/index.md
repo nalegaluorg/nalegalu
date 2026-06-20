@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
+# Ustawa z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy.
 
 *USTAWA z dnia 30 października 2002 r.*
 

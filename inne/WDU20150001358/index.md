@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
+# Ustawa z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
 
 *USTAWA z dnia 10 lipca 2015 r.*
 
@@ -517,7 +517,9 @@ source: pdf
 
 5. Właściwość i tryb ustalania kwoty pomocy i pomocy technicznej pobranej nienależnie lub w nadmiernej wysokości określają przepisy o finansach publicznych.
 
-6. W przypadku, o którym mowa w art. 122 ust. 2 akapit czwarty rozporządzenia nr 1303/2013, organ, o którym mowa w art. 29 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505), odstępuje od ustalenia nienależnych kwot pomocy. Art. 33–36. (pominięte)
+6. W przypadku, o którym mowa w art. 122 ust. 2 akapit czwarty rozporządzenia nr 1303/2013, organ, o którym mowa w art. 29 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1505), odstępuje od ustalenia nienależnych kwot pomocy.
+
+**Art. 33–36.** (pominięte)
 
 **Art. 37.** Do postępowań w sprawach dochodzenia zwrotu pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem, wypłaconej w ramach programu operacyjnego, o którym mowa w ustawie z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. z 2018 r. poz. 466 oraz z 2019 r. poz. 2020), wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

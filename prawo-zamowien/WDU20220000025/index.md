@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 *USTAWA z dnia 2 grudnia 2021 r.*
 

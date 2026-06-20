@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o narodowym zasobie archiwalnym i archiwach oraz ustawy – Kodeks pracy
+# Ustawa z dnia 2 marca 2007 r. o zmianie ustawy o narodowym zasobie archiwalnym i archiwach oraz ustawy - Kodeks pracy
 
 *USTAWA z dnia 2 marca 2007 r.*
 

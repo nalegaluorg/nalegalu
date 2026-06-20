@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej
+# Ustawa z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej.
 
 *USTAWA z dnia 12 grudnia 1997 r.*
 

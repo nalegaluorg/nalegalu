@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN)
+# Ustawa z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN)
 
 *USTAWA z dnia 7 marca 2025 r.*
 

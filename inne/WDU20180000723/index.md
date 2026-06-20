@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
+# Ustawa z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
 
 *USTAWA z dnia 1 marca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-04-12 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.pdf) |
-
-Art. 158–180. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -1208,13 +1206,8 @@ Art. 158–180. (pominięte)
 - **4)** posiadane dane identyfikacyjne, o których mowa w art. 36 ust. 1, pozostałych stron transakcji;
 - **5)** kwotę i walutę transakcji albo wagę i próbę złota dewizowego lub platyny dewizowej będących przedmiotem transakcji;
 - **6)** rodzaj transakcji;
-- **7)** tytuł transakcji; [7a) przedmiot transakcji, a jeżeli przedmiotem transakcji jest nieruchomość, także adres lub miejsce jej położenia – w przypadku informacji przekazywanych przez instytucje obowiązane, o których mowa w art. 2 ust. 1 pkt 13;] <7a) przedmiot transakcji, a jeżeli przedmiotem transakcji jest nieruchomość także:
-    - **a)** adres lub miejsce położenia oraz numer księgi wieczystej nieruchomości,
-    - **b)** powierzchnię nieruchomości,
-    - **c)** powierzchnię użytkową lokalu mieszkalnego albo domu jednorodzinnego,
-    - **d)** liczbę pokoi w lokalu mieszkalnym albo domu jednorodzinnym,
-    - **e)** kondygnację nadziemną budynku, na której znajduje się lokal mieszkalny – w przypadku informacji przekazywanych przez instytucje obowiązane, o których mowa w art. 2 ust. 1 pkt 13;>
-
+- **7)** tytuł transakcji;
+- **7a)** przedmiot transakcji, a jeżeli przedmiotem transakcji jest nieruchomość także: a) adres lub miejsce położenia oraz numer księgi wieczystej nieruchomości, b) powierzchnię nieruchomości, c) powierzchnię użytkową lokalu mieszkalnego albo domu jednorodzinnego, d) liczbę pokoi w lokalu mieszkalnym albo domu jednorodzinnym, e) kondygnację nadziemną budynku, na której znajduje się lokal mieszkalny – w przypadku informacji przekazywanych przez instytucje obowiązane, o których mowa w art. 2 ust. 1 pkt 13;
 - **8)** sposób wydania dyspozycji lub zlecenia przeprowadzenia transakcji;
 - **9)** numery rachunków wykorzystanych do przeprowadzenia transakcji oznaczone identyfikatorem Międzynarodowego Numeru Rachunku Bankowego (IBAN) lub identyfikatorem zawierającym kod kraju oraz numer rachunku w przypadku rachunków nieoznaczonych IBAN. <7. Jeżeli informacja, o której mowa w ust. 6 pkt 7a lit. b–e, nie jest znana instytucji obowiązanej lub możliwa do ustalenia przez instytucję obowiązaną, instytucja obowiązana przekazuje tę informację na podstawie oświadczenia strony dokonującej przeniesienia własności lub innego prawa do nieruchomości na nabywcę.>
 
@@ -1964,7 +1957,11 @@ Art. 158–180. (pominięte)
     - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności na rzecz spółek lub trustów,
     - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129f ust. 2, niezgodne ze stanem faktycznym;
 
-- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności. Art. 129ka. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności.
+
+**Art. 129ka.**
+
+1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
 
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności na rzecz spółek lub trustów, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 
@@ -2046,7 +2043,11 @@ Art. 158–180. (pominięte)
     - **a)** niespełniania przez podmiot warunków wymaganych prawem do wykonywania działalności w zakresie walut wirtualnych,
     - **b)** że podmiot złożył oświadczenie, o którym mowa w art. 129r ust. 2, niezgodne ze stanem faktycznym;
 
-- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności. Art. 129wa. 1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
+- **4)** na wniosek Generalnego Inspektora po nałożeniu kary administracyjnej, o której mowa w art. 150 ust. 1 pkt 2, w zakresie, w jakim nakazano zaprzestania podejmowania przez instytucję obowiązaną określonych czynności.
+
+**Art. 129wa.**
+
+1. Minister właściwy do spraw finansów publicznych udostępnia na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych wzory wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności.
 
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb składania wniosków o wpis do rejestru działalności w zakresie walut wirtualnych, zmianę wpisu i wykreślenie z tego rejestru oraz zawiadomienia o zawieszeniu wykonywania działalności, mając na uwadze konieczność zapewnienia bezpiecznego i sprawnego składania tych wniosków oraz tego zawiadomienia.
 
@@ -2404,6 +2405,8 @@ Art. 158–180. (pominięte)
 **Art. 157.** Kto udaremnia lub utrudnia przeprowadzenie czynności kontrolnych, o których mowa w rozdziale 12, podlega grzywnie.
 
 #### Rozdział 15 Zmiany w przepisach obowiązujących
+
+**Art. 158–180.** (pominięte)
 
 #### Rozdział 15a Przepisy epizodyczne
 

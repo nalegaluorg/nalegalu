@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie niektórych ustaw w związku z wprowadzeniem świadczenia za długoletnią służbę
+# Ustawa z dnia 26 stycznia 2023 r. o zmianie niektórych ustaw w związku z wprowadzeniem świadczenia za długoletnią służbę
 
 *USTAWA z dnia 26 stycznia 2023 r.*
 

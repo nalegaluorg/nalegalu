@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o delegowaniu pracowników w ramach świadczenia usług
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +31,6 @@ poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia 
 Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 10 czerwca 2016 r.
 o delegowaniu pracowników w ramach świadczenia usług
-Art. 30–38. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -471,6 +470,8 @@ Art. 30–38. (pominięte)
 **Art. 29.** Orzekanie w sprawach o czyny, o których mowa w art. 27–28b, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 30–38.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
 

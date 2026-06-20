@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o utworzeniu Akademii Zamojskiej
+# Ustawa z dnia 8 lipca 2021 r. o utworzeniu Akademii Zamojskiej
 
 *USTAWA z dnia 8 lipca 2021 r.*
 

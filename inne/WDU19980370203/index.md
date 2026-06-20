@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uznaniu stopni naukowych, dyplomów i tytułów zawodowych nadanych przez Polski Uniwersytet na Obczyźnie
+# Ustawa z dnia 6 lutego 1998 r. o uznaniu stopni naukowych, dyplomów i tytułów zawodowych nadanych przez Polski Uniwersytet na Obczyźnie.
 
 *USTAWA z dnia 6 lutego 1998 r.*
 

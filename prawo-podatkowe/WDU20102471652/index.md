@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku od towarów i usług oraz ustawy o transporcie drogowym
+# Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o transporcie drogowym
 
 *USTAWA z dnia 16 grudnia 2010 r.*
 
@@ -72,7 +72,8 @@ source: pdf
 - **1)** pojazdów samochodowych mających jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą, klasyfikowanych na podstawie przepisów prawa o ruchu drogowym do podrodzaju: wielozadaniowy, van;
 - **2)** pojazdów samochodowych mających więcej niż jeden rząd siedzeń, które oddzielone są od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą i u których długość części przeznaczonej do przewozu ładunków, mierzona po podłodze od najdalej wysuniętego punktu podłogi pozwalającego postawić pionową ścianę lub trwałą przegrodę pomiędzy podłogą a sufitem do tylnej krawędzi podłogi, przekracza 50% długości pojazdu; dla obliczenia proporcji, o której mowa w zdaniu poprzednim, długość pojazdu stanowi odległość pomiędzy dolną krawędzią przedniej szyby pojazdu a tylną krawędzią podłogi części pojazdu przeznaczonej do przewozu ładunków, mierzona w linii poziomej wzdłuż pojazdu pomiędzy dolną krawędzią przedniej szyby pojazdu a punktem wyprowadzonym w pionie od tylnej krawędzi podłogi części pojazdu przeznaczonej do przewozu ładunków;
 - **3)** pojazdów samochodowych, które mają otwartą część przeznaczoną do przewozu ładunków;
-- **4)** pojazdów samochodowych, które posiadają kabinę kierowcy i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu; [5) pojazdów specjalnych – jeżeli z wyciągu ze świadectwa homologacji lub z odpisu decyzji zwalniającej z obowiązku uzyskania świadectwa homologacji, wydawanych zgodnie z przepisami prawa o ruchu drogowym, wynika, że jest to pojazd specjalny;] <5) pojazdów specjalnych – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym wynika, że jest to pojazd specjalny;>
+- **4)** pojazdów samochodowych, które posiadają kabinę kierowcy i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
+- **5)** pojazdów specjalnych – jeżeli z dokumentów wydanych zgodnie z przepisami prawa o ruchu drogowym wynika, że jest to pojazd specjalny;
 - **6)** pojazdów samochodowych innych niż wymienione w pkt 1 – 5, w których liczba miejsc (siedzeń) łącznie z miejscem dla kierowcy wynosi:
     - **a)** 1 – jeżeli dopuszczalna ładowność jest równa lub większa niż 425 kg,
     - **b)** 2 – jeżeli dopuszczalna ładowność jest równa lub większa niż 493 kg,

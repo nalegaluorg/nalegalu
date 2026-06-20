@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
 
 | Pole | Wartość |
 |---|---|

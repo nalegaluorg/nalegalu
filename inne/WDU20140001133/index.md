@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 lipca 2014 r.*
 
@@ -26,114 +26,6 @@ source: pdf
 | Data wydania | 2014-08-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1133/text.pdf) |
-
-Art. 49zi. 1. Przez umowę o współpracy strony zobowiązują się do wspólnego wykonywania działalności w zakresie poszukiwania i rozpoznawania złóż węglowodorów oraz wydobywania węglowodorów ze złóż albo wydobywania węglowodorów ze złóż, pod warunkiem uzyskania koncesji, o której mowa w rozdziale 3, oraz zawarcia umowy o ustanowieniu użytkowania górniczego.
-2. Umowę o współpracy zawiera się na piśmie pod rygorem nieważności.
-3. Umowa o współpracy staje się skuteczna pod warunkiem udzielenia koncesji, o której mowa w rozdziale 3.
-Art. 49zj. 1. Udział każdej ze stron umowy o współpracy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, wynika:
-1) z oferty złożonej w przetargu w ramach postępowania przetargowego, o którym mowa w art. 49e;
-2) ze zmian umowy dokonywanych w przypadkach określonych w ustawie.
-2. Procentowy udział stron umowy o współpracy w zysku jest równy procentowemu udziałowi w kosztach działalności prowadzonej w ramach umowy, chyba że strony umowy postanowią inaczej.
-Art. 49zk. Umowa o współpracy zawiera w szczególności:
-1) określenie rodzaju działalności objętej umową;
-2) wskazanie operatora;
-3) określenie procentowego udziału jej stron w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
-Art. 49zl. Wydobyte węglowodory stają się współwłasnością stron umowy w częściach ułamkowych określonych przez strony w umowie.
-Strony mogą postanowić w umowie, że składniki majątku nabyte w związku z wykonywaną przez nie działalnością gospodarczą stanowić będą ich współwłasność w częściach ułamkowych.
-Art. 49zm. 1. W zakresie wykonywania działalności objętej umową o współpracy strony reprezentuje operator.
-2. Operator samodzielnie prowadzi sprawy stron umowy o współpracy w zakresie spraw zwykłego zarządu, w tym prowadzi rozliczenia należności publicznoprawnych związanych z wykonywaniem działalności objętej umową i koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża oraz w zakresie ustalonym zgodnie z odrębnymi pełnomocnictwami.
-3. Do spraw przekraczających zakres zwykłego zarządu należy w szczególności podejmowanie uchwał w sprawach:
-1) zatwierdzania i zmiany planów rocznych i wieloletnich;
-2) wyboru biegłego rewidenta w celu przeprowadzenia badania rocznego sprawozdania finansowego sporządzonego na podstawie ksiąg, o których mowa w art. 49zo ust. 1;
-3) zatwierdzania rocznego sprawozdania finansowego;
-4) rozwiązania umowy o współpracy.
-4. Umowa o współpracy może przewidywać inne niż określone w ust.
-3 sprawy przekraczające zakres zwykłego zarządu.
-5. W sprawach przekraczających zakres zwykłego zarządu uchwały są podejmowane na zebraniu w obecności stron umowy o współpracy reprezentujących co najmniej 75% udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, na dzień podjęcia uchwały, większością 2/3 głosów, chyba że strony umowy postanowią inaczej.
-6. W przypadku niepodjęcia uchwały z powodu braku kworum, o którym mowa w ust. 5, operator zwołuje kolejne zebranie w terminie nie dłuższym niż 7 dni. W porządku obrad tego zebrania są ujęte wyłącznie sprawy nierozstrzygnięte na poprzednim zebraniu. Uchwały są podejmowane w obecności stron umowy o współpracy reprezentujących co najmniej 50% udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, większością 2/3 głosów, chyba że strony umowy postanowią inaczej.
-7. Uchwała w sprawie rozwiązania umowy o współpracy wymaga jednomyślności wszystkich jej stron.
-Art. 49zn. 1. Zebranie stron umowy o współpracy odbywa się co najmniej raz w roku, w terminie nie krótszym niż 10 i nie dłuższym niż 45 dni od dnia przedstawienia przez biegłego rewidenta opinii o rocznym sprawozdaniu finansowym za poprzedni rok obrotowy.
-2. Zebranie zwołuje operator.
-3. Zebranie odbywa się na terytorium Rzeczypospolitej Polskiej.
-4. Zebranie może zostać zwołane na wniosek strony umowy o współpracy. Wniosek zawiera co najmniej proponowany porządek obrad, wraz z projektami uchwał i ich uzasadnieniem, jeżeli mają być podjęte. W takim przypadku operator zwołuje zebranie w terminie nie krótszym niż 10 i nie dłuższym niż 45 dni od dnia otrzymania wniosku.
-5. Tryb prowadzenia zebrania określa umowa o współpracy.
-6. Na zebraniu stronie umowy o współpracy przysługuje liczba głosów proporcjonalna do jej udziału w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, chyba że strony umowy postanowią inaczej.
-7. Pierwsze zebranie odbywa się w terminie 14 dni od dnia, w którym koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesja na wydobywanie węglowodorów ze złoża stała się ostateczna. Na zebraniu operator przedkłada co najmniej:
-1) wniosek o zatwierdzenie planu rocznego i wieloletniego, określających zakres rzeczowy i finansowy realizacji zobowiązań wynikających z koncesji, w szczególności harmonogram prac geologicznych, w tym robót geologicznych, lub robót górniczych, wraz z planowanym terminem ich realizacji;
-2) numer bankowego rachunku wspólnego;
-3) propozycje zmian umowy o współpracy mające na celu dostosowanie jej treści do treści koncesji, o ile jest to konieczne.
-8. W przypadku gdy na pierwszym zebraniu strony umowy o współpracy nie podejmą uchwały w sprawie zatwierdzenia planu rocznego, do czasu jej podjęcia obowiązuje projekt planu rocznego przedstawiony przez operatora na tym zebraniu.
-9. W przypadku gdy do końca pierwszego roku obrotowego nie zostanie podjęta przez strony umowy o współpracy uchwała w sprawie zatwierdzenia planu rocznego i wieloletniego, a także w sprawie zatwierdzenia czynności dokonanych na podstawie projektu planu rocznego, operator zawiadamia o tym organ koncesyjny. Pierwszy rok obrotowy rozpoczyna się z dniem, w którym koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesja na wydobywanie węglowodorów ze złoża stała się ostateczna i trwa do końca następnego roku kalendarzowego, chyba że strony umowy postanowią inaczej.
-10. W przypadku gdy w kolejnych latach obrotowych nie zostanie podjęta przez strony umowy o współpracy uchwała w sprawie zatwierdzenia planu rocznego lub wieloletniego, operator zawiadamia o tym organ koncesyjny.
-Art. 49zo. 1. W celu rzetelnego i jasnego przedstawienia sytuacji majątkowej i finansowej oraz określenia wyniku finansowego działalności prowadzonej przez strony umowy o współpracy na podstawie umowy oraz koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża, operator prowadzi dodatkowo dla tej działalności księgi rachunkowe i sporządza roczne sprawozdanie finansowe, które podlega badaniu przez biegłego rewidenta.
-2. W przypadkach, o których mowa w art. 49zr oraz art. 49zt, wartość udziału strony umowy o współpracy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, oznacza się na podstawie osobnego bilansu. Za dzień bilansowy przyjmuje się dzień wydania decyzji, o której mowa w art. 49zd ust. 1, albo decyzji, o której mowa w art. 49zg ust. 5, których skutkiem jest ustanie umowy wobec danej strony.
-Art. 49zp. 1. Dla działalności objętej umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża operator zakłada dla wszystkich stron umowy rachunek wspólny, o którym mowa w art. 51 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm. ).
-2. Wszelkie płatności i rozliczenia związane z wykonywaniem umowy o współpracy oraz koncesji mogą być dokonywane wyłącznie przez rachunek wspólny.
-Art. 49zq. 1. Za zobowiązania powstałe w związku z działalnością objętą umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża, w tym uiszczenie wynagrodzenia z tytułu umowy o ustanowieniu użytkowania górniczego i umowy na korzystanie z informacji geologicznej, do której prawa przysługują Skarbowi Państwa oraz opłat, o których mowa w dziale VII, odpowiedzialność ponosi operator.
-2. Za zobowiązania wobec osób trzecich powstałe w związku z działalnością objętą umową o współpracy oraz koncesją, niewynikające z zatwierdzonych planów rocznych lub wieloletnich, odpowiedzialność ponosi operator.
-3. W przypadku spłaty przez operatora zobowiązań, o których mowa w ust. 2, przysługuje mu wobec pozostałych stron umowy o współpracy roszczenie o zwrot spłaconego zobowiązania, proporcjonalnie do udziału tych stron w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
-Art. 49zr. 1. Za zgodą wszystkich stron umowy o współpracy operator może wypowiedzieć swój udział w umowie z zachowaniem sześciomiesięcznego terminu wypowiedzenia, ze skutkiem na dzień, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, pod warunkiem przedstawienia kandydatury nowego operatora.
-2. Nowy operator wstępuje w prawa i obowiązki operatora, który wypowiedział swój udział w umowie o współpracy, za zgodą wszystkich stron umowy, z dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna.
-3. Nowy operator oraz operator, który wypowiedział swój udział w umowie o współpracy, ponoszą solidarną odpowiedzialność wobec pozostałych stron umowy za zobowiązania wynikające z umowy powstałe przed dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, przez okres kolejnych 12 miesięcy.
-Art. 49zs. W przypadku cofnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża, jej wygaśnięcia albo utraty mocy, dotychczasowy operator może podejmować jedynie działania w celu wykonania obowiązków dotyczących ochrony środowiska i likwidacji zakładu górniczego.
-Art. 49zt. 1. Strona umowy o współpracy niebędąca operatorem może wypowiedzieć swój udział w umowie lub jego część na rzecz innej strony tej umowy w każdym czasie, bez konieczności uzyskania zgody pozostałych stron tej umowy.
-2. Za zgodą wszystkich stron umowy o współpracy strona umowy niebędąca operatorem może wypowiedzieć swój udział w umowie lub jego część z zachowaniem sześciomiesięcznego terminu wypowiedzenia, ze skutkiem na dzień, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, pod warunkiem przedstawienia kandydatury podmiotu wstępującego w jej prawa i obowiązki.
-3. Za zgodą wszystkich stron umowy o współpracy w prawa i obowiązki strony wypowiadającej swój udział w umowie lub jego część, w zakresie uzgodnionym przez strony, może wstąpić nowy podmiot, pod warunkiem uzyskania decyzji, o której mowa w art. 49zd ust. 1.
-4. Za zgodą wszystkich stron umowy o współpracy nowa strona niebędąca operatorem wstępuje w prawa i obowiązki dotychczasowej strony niebędącej operatorem i wypowiadającej swój udział w umowie, z dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna.
-5. W przypadku, o którym mowa w art. 49zg ust. 5, umowa o współpracy z dotychczasową stroną ulega rozwiązaniu z zastrzeżeniem obowiązku dokonania rozliczeń między stronami. Pozostałe strony umowy o współpracy są obowiązane do przejęcia praw i obowiązków dotychczasowej strony tej umowy.
-6. Prawa i obowiązki dotychczasowej strony umowy o współpracy przechodzą na pozostałe strony tej umowy w:
-1) częściach uzgodnionych przez strony;
-2) przypadku niedokonania uzgodnienia, o którym mowa w pkt 1, w terminie wskazanym w art. 49zg ust. 6 − proporcjonalnie do udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
-7. Niebędąca operatorem strona przystępująca do umowy o współpracy oraz strona wypowiadająca udział w umowie lub strona, z którą rozwiązano umowę, na zasadach określonych w ust. 1–3 i 5, ponoszą solidarną odpowiedzialność wobec pozostałych stron umowy za zobowiązania wynikające z umowy powstałe przed dniem, w którym decyzja, o której mowa w art. 49zd ust. 1 albo art. 49zg ust. 5, stała się ostateczna, przez okres kolejnych 12 miesięcy.
-8. Przepisy ust. 5–7 stosuje się odpowiednio do wypowiedzenia udziału w umowie o współpracy w części.
-Art. 49zu. Rozliczenie dokonane między stronami umowy o współpracy w przypadkach, o których mowa w art. 49zr oraz art. 49zt, wywołuje skutki wyłącznie między tymi stronami i nie zwalnia ich ze zobowiązań wobec osób trzecich.
-Art. 49zv. Umowa o współpracy ulega rozwiązaniu w przypadku:
-1) cofnięcia, wygaśnięcia lub utraty mocy koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża;
-2) podjęcia przez jej strony uchwały o rozwiązaniu.
-Art. 49zw. W sprawach nieuregulowanych w ustawie dotyczących umowy o współpracy stosuje się przepisy Kodeksu cywilnego.”;
-26) po art. 80 dodaje się art. 80a w brzmieniu: „Art. 80a. 1. Zmiany projektu robót geologicznych dokonuje się przez sporządzenie dodatku.
-2. Dodatek do projektu robót geologicznych zatwierdza, w drodze decyzji, organ koncesyjny, a w przypadku dodatku do projektu robót geologicznych, których wykonywanie nie wymaga uzyskania koncesji – właściwy organ administracji geologicznej.
-3. Do postępowania w sprawie zatwierdzenia dodatku do projektu robót geologicznych przepisy art. 80 ust. 2–5 oraz 7 i 8 stosuje się odpowiednio.
-4. W przypadku istotnych zmian projektu robót geologicznych, których wykonywanie wymaga uzyskania koncesji, mających bezpośredni wpływ na warunki określone w koncesji, organ koncesyjny z urzędu zmienia koncesję w zakresie określonym w decyzji zatwierdzającej dodatek do projektu robót geologicznych. Do postępowania w sprawie zmiany koncesji przepisów art. 8 i art. 23 ust. 2 nie stosuje się.”;
-27) w art. 81:
-a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ten, kto uzyskał koncesję na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów, koncesję na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla lub koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo uzyskał decyzję o zatwierdzeniu projektu robót geologicznych, zgłasza zamiar rozpoczęcia robót geologicznych właściwemu:”,
-b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku robót geologicznych podmiot, o którym mowa w ust. 1, zawiadamia na piśmie właściwy organ administracji geologicznej i państwową służbę geologiczną, w terminie 7 dni przed zamierzonym poborem tych próbek.”;
-28) art. 82 otrzymuje brzmienie: „Art. 82. 1. Ten, kto wykonuje roboty geologiczne na podstawie:
-1) koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów,
-2) koncesji na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla,
-3) koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża,
-4) decyzji o zatwierdzeniu projektu robót geologicznych,
-5) zgłoszenia projektu robót geologicznych − ma obowiązek bieżącego dokumentowania przebiegu prac geologicznych, w tym robót geologicznych, oraz ich wyników.
-2. Podmiot, o którym mowa w ust. 1, który wykonuje roboty geologiczne w celu poszukiwania lub rozpoznawania złóż kopalin, o których mowa w art. 10 ust. 1 i 2, poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla lub wykonania otworów wiertniczych służących rozpoznaniu budowy głębokiego podłoża albo wykonania regionalnych badań budowy geologicznej kraju, a także określania warunków hydrogeologicznych oraz geologiczno-inżynierskich dla potrzeb podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów lub podziemnego składowania dwutlenku węgla, ma obowiązek bieżącego przekazywania państwowej służbie geologicznej:
-1) danych geologicznych uzyskanych w wyniku prac geologicznych, w tym robót geologicznych;
-2) próbek uzyskanych w wyniku robót geologicznych w zakresie określonym w koncesji i wyników badań tych próbek.
-3. Ten, kto wykonuje roboty geologiczne w celu poszukiwania i rozpoznawania złoża węglowodorów, ma dodatkowo obowiązek bieżącego przekazywania danych geologicznych, o których mowa w ust. 2 pkt 1, organowi koncesyjnemu.
-4. Zakres przekazywania próbek uzyskanych w wyniku robót geologicznych określa odpowiednio koncesja albo decyzja o zatwierdzeniu projektu robót geologicznych.
-5. Przekazywanie:
-1) danych geologicznych, o których mowa w ust. 2 pkt 1, odbywa się nie później niż 14 dni od dnia ich uzyskania;
-2) próbek, o których mowa w ust. 2 pkt 2, odbywa się nie później niż 60 dni od dnia ich uzyskania;
-3) wyników badań próbek, o których mowa w ust. 2 pkt 2, odbywa się nie później niż 14 dni od dnia ich uzyskania.
-6. Przekazywanie, o którym mowa w ust. 5 pkt 1 i 3, następuje w postaci papierowej i elektronicznej.
-7. Przekazywanie, o którym mowa w ust. 5 pkt 2, następuje poprzez fizyczne dostarczenie próbki.
-8. Od dnia przekazania przez podmiot, o którym mowa w ust. 2, danych geologicznych, próbek i wyników ich badań do dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną lub do dnia przekazania dokumentacji sporządzonej w przypadkach, o których mowa w art. 92 pkt 3 i 5, państwowa służba geologiczna oraz organ koncesyjny nie udostępniają ich innym podmiotom.”;
-29) po art. 82 dodaje się art. 82a w brzmieniu: „Art. 82a. 1. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
-1) zakres, formę i tryb przekazywania próbek, o których mowa w art. 82 ust.
-2 pkt 2;
-2) zakres, formaty oraz tryb przekazywania danych geologicznych, o których mowa w art. 82 ust. 2 pkt 1, oraz wyników badań próbek, o których mowa w art. 82 ust. 2 pkt 2;
-3) zakres, formaty oraz tryb przekazywania informacji dotyczących parametrów wydobywania węglowodorów ze złoża, o których mowa w art.
-49zc.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw środowiska:
-1) będzie kierował się potrzebą zapewnienia kompletności i użyteczności informacji o bieżącym rozpoznaniu geologicznym kraju dla udzielania koncesji oraz wykonywania zadań państwa w zakresie geologii przez państwową służbę geologiczną;
-2) uwzględni różnice w zakresie przekazywania danych, próbek i informacji dotyczących parametrów wydobywania węglowodorów ze złoża, wynikające ze zróżnicowania zakresu i celu realizowanych prac geologicznych, a w przypadku przekazywania w związku z poszukiwaniem lub rozpoznawaniem złóż kopalin – uwzględni także różnice wynikające ze specyfiki danej kopaliny.”;
-30) po art. 85 dodaje się art. 85a i art. 85b w brzmieniu: „Art. 85a. 1. Jeżeli roboty geologiczne obejmują wyłącznie wykonywanie badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów, projekt robót geologicznych podlega zgłoszeniu ministrowi właściwemu do spraw środowiska.
-2. Rozpoczęcie robót geologicznych, o których mowa w ust. 1, może nastąpić, jeżeli w terminie 30 dni od dnia przedłożenia projektu robót geologicznych minister właściwy do spraw środowiska, w drodze decyzji, nie zgłosi do niego sprzeciwu.
-3. Minister właściwy do spraw środowiska zgłasza sprzeciw, jeżeli:
-1) sposób wykonywania zamierzonych robót geologicznych zagraża środowisku;
-2) projekt robót geologicznych nie odpowiada wymaganiom prawa.
-4. Jeżeli roboty geologiczne, o których mowa w ust. 1, dotyczą obszarów morskich Rzeczypospolitej Polskiej, projekt robót geologicznych wymaga zatwierdzenia, w drodze decyzji, przez ministra właściwego do spraw środowiska, na zasadach określonych w art. 80 ust. 4, 7 i 8.
-5. Okres wykonywania działalności, o której mowa w ust. 1, nie może być dłuższy niż 2 lata.
-6. Podmiot, który zamierza wykonywać roboty geologiczne, o których mowa w ust. 1, w przestrzeni wyznaczonej koncesją na działalność regulowaną ustawą dotyczącą kopalin, o których mowa w art. 10 ust. 1, jest obowiązany do poinformowania przedsiębiorcy, któremu udzielono tej koncesji o terminie, lokalizacji i zakresie tych robót.
-7. W celu wykonania obowiązku, o którym mowa w ust. 6, minister właściwy do spraw środowiska ogłasza, co najmniej raz na kwartał, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ wykaz przestrzeni, o których mowa w tym przepisie.
 
 **Art. 1.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, 587 i 850) wprowadza się następujące zmiany:
 
@@ -655,7 +547,12 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 - **3)** złoże węglowodorów lub jego część, która ma być przedmiotem wydobywania;
 - **4)** wielkość i sposób zamierzonego wydobywania węglowodorów ze złoża, a także stopień zamierzonego wykorzystania zasobów, w tym kopalin towarzyszących i współwystępujących;
 - **5)** projektowane położenie obszaru górniczego i terenu górniczego, wyznaczone na podstawie dokumentacji geologiczno-inwestycyjnej złoża węglowodorów oraz przedstawione zgodnie z wymaganiami dotyczącymi map górniczych, z zaznaczeniem granic podziału terytorialnego kraju;
-- **6)** geologiczne i hydrogeologiczne warunki wydobywania węglowodorów ze złoża, a w razie potrzeby warunki wtłaczania wód do górotworu określone w dokumentacji hydrogeologicznej, o której mowa w art. 90 ust. 1 pkt 2 lit. b. Art. 49za. 1. Decyzja inwestycyjna określa:
+- **6)** geologiczne i hydrogeologiczne warunki wydobywania węglowodorów ze złoża, a w razie potrzeby warunki wtłaczania wód do górotworu określone w dokumentacji hydrogeologicznej, o której mowa w art. 90 ust. 1 pkt 2 lit. b.
+
+**Art. 49za.**
+
+1. Decyzja inwestycyjna określa:
+
 - **1)** sposób wydobywania węglowodorów ze złoża;
 - **2)** granice obszaru górniczego i terenu górniczego;
 - **3)** termin rozpoczęcia wydobywania węglowodorów ze złoża;
@@ -672,9 +569,19 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 5. Granice obszaru górniczego określone w decyzji inwestycyjnej lub jej zmianie po zakończeniu fazy poszukiwania i rozpoznawania zastępują granice przestrzeni wyznaczonej w koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża.
 
-6. Uzyskanie decyzji inwestycyjnej albo jej zmiany zobowiązuje do zmiany umowy o ustanowieniu użytkowania górniczego najpóźniej w terminie 30 dni od dnia uzyskania albo zmiany decyzji inwestycyjnej. Art. 49zb. Przedsiębiorca, a w przypadku gdy koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub koncesja na wydobywanie węglowodorów ze złoża jest udzielona na rzecz stron umowy o współpracy – operator, przez czas obowiązywania koncesji, jest obowiązany do prowadzenia strony internetowej zapewniającej nieodpłatny dostęp do danych teleadresowych stron umowy o współpracy, do kopii koncesji oraz decyzji ją zmieniających, decyzji o środowiskowych uwarunkowaniach, decyzji inwestycyjnej, decyzji zatwierdzającej plan ruchu zakładu górniczego oraz decyzji zatwierdzającej dokumentację geologiczno-inwestycyjną złoża węglowodorów. Strona internetowa zapewnia także dostęp do mapy w skali co najmniej 1:50000 z naniesionymi granicami przestrzeni wyznaczonej koncesją i lokalizacji wierceń prowadzonych w fazie poszukiwania i rozpoznawania, a w przypadku wydobywania węglowodorów ze złoża – z naniesionymi granicami obszaru górniczego i terenu górniczego, wraz ze współrzędnymi płaskimi prostokątnymi punktów załamania tych granic w państwowym systemie odniesień przestrzennych. Art. 49zc. 1. Przedsiębiorca od dnia uzyskania koncesji na wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – od dnia uzyskania decyzji inwestycyjnej, jest obowiązany do przekazywania organowi koncesyjnemu oraz państwowej służbie geologicznej bieżących parametrów wydobywania węglowodorów ze złoża.
+6. Uzyskanie decyzji inwestycyjnej albo jej zmiany zobowiązuje do zmiany umowy o ustanowieniu użytkowania górniczego najpóźniej w terminie 30 dni od dnia uzyskania albo zmiany decyzji inwestycyjnej.
 
-2. Przekazywanie parametrów następuje w postaci papierowej i elektronicznej, nie później niż 14 dni od dnia ich uzyskania, w zakresie, formatach i trybie określonych w przepisach wydanych na podstawie art. 82a ust. 1 pkt 3. Art. 49zd. 1. Jeżeli nie sprzeciwia się temu interes publiczny, w szczególności związany z bezpieczeństwem państwa, budową konkurencyjnego i przejrzystego rynku energii, zapewnieniem bezpieczeństwa energetycznego lub ochroną środowiska, w tym z racjonalną gospodarką złożem, na wniosek przedsiębiorcy będącego dotychczasową stroną umowy o współpracy, w przypadkach określonych w art. 49zr ust. 2 oraz art. 49zt ust. 3 i 4, organ koncesyjny przenosi koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża, w drodze decyzji, na nowe strony umowy o współpracy.
+**Art. 49zb.** Przedsiębiorca, a w przypadku gdy koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża lub koncesja na wydobywanie węglowodorów ze złoża jest udzielona na rzecz stron umowy o współpracy – operator, przez czas obowiązywania koncesji, jest obowiązany do prowadzenia strony internetowej zapewniającej nieodpłatny dostęp do danych teleadresowych stron umowy o współpracy, do kopii koncesji oraz decyzji ją zmieniających, decyzji o środowiskowych uwarunkowaniach, decyzji inwestycyjnej, decyzji zatwierdzającej plan ruchu zakładu górniczego oraz decyzji zatwierdzającej dokumentację geologiczno-inwestycyjną złoża węglowodorów. Strona internetowa zapewnia także dostęp do mapy w skali co najmniej 1:50000 z naniesionymi granicami przestrzeni wyznaczonej koncesją i lokalizacji wierceń prowadzonych w fazie poszukiwania i rozpoznawania, a w przypadku wydobywania węglowodorów ze złoża – z naniesionymi granicami obszaru górniczego i terenu górniczego, wraz ze współrzędnymi płaskimi prostokątnymi punktów załamania tych granic w państwowym systemie odniesień przestrzennych.
+
+**Art. 49zc.**
+
+1. Przedsiębiorca od dnia uzyskania koncesji na wydobywanie węglowodorów ze złoża, a w przypadku koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża – od dnia uzyskania decyzji inwestycyjnej, jest obowiązany do przekazywania organowi koncesyjnemu oraz państwowej służbie geologicznej bieżących parametrów wydobywania węglowodorów ze złoża.
+
+2. Przekazywanie parametrów następuje w postaci papierowej i elektronicznej, nie później niż 14 dni od dnia ich uzyskania, w zakresie, formatach i trybie określonych w przepisach wydanych na podstawie art. 82a ust. 1 pkt 3.
+
+**Art. 49zd.**
+
+1. Jeżeli nie sprzeciwia się temu interes publiczny, w szczególności związany z bezpieczeństwem państwa, budową konkurencyjnego i przejrzystego rynku energii, zapewnieniem bezpieczeństwa energetycznego lub ochroną środowiska, w tym z racjonalną gospodarką złożem, na wniosek przedsiębiorcy będącego dotychczasową stroną umowy o współpracy, w przypadkach określonych w art. 49zr ust. 2 oraz art. 49zt ust. 3 i 4, organ koncesyjny przenosi koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesję na wydobywanie węglowodorów ze złoża, w drodze decyzji, na nowe strony umowy o współpracy.
 
 2. Organ koncesyjny przenosi koncesję, w przypadku gdy podmiot przystępujący do umowy o współpracy:
 
@@ -694,7 +601,11 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 8. Przeniesienie koncesji zobowiązuje do niezwłocznej zmiany umowy o ustanowieniu użytkowania górniczego.
 
-9. Przeniesienie koncesji przenosi również prawa i obowiązki wynikające z innych decyzji wydanych na podstawie ustawy. Art. 49ze. 1. Organ koncesyjny może cofnąć koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesję na wydobywanie węglowodorów ze złoża, w przypadkach określonych w art. 37, a także w przypadku gdy:
+9. Przeniesienie koncesji przenosi również prawa i obowiązki wynikające z innych decyzji wydanych na podstawie ustawy.
+
+**Art. 49ze.**
+
+1. Organ koncesyjny może cofnąć koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesję na wydobywanie węglowodorów ze złoża, w przypadkach określonych w art. 37, a także w przypadku gdy:
 
 - **1)** zaistniały okoliczności, o których mowa w art. 49zn ust. 10, a koncesja została udzielona na rzecz stron umowy o współpracy;
 - **2)** przedsiębiorca narusza obowiązki określone w art. 49zc.
@@ -704,9 +615,17 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 3. Organ koncesyjny cofa koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesję na wydobywanie węglowodorów ze złoża, w przypadku gdy:
 
 - **1)** przedsiębiorcy, któremu samodzielnie udzielono koncesji, a w przypadku gdy koncesja została udzielona na rzecz stron umowy o współpracy – operatorowi albo wszystkim stronom umowy o współpracy, uchylono decyzję o uzyskaniu pozytywnej oceny z postępowania kwalifikacyjnego, decyzja ta wygasła albo utraciła moc bez względu na przyczynę;
-- **2)** zaistniały okoliczności, o których mowa w art. 49zn ust. 9, a koncesja została udzielona na rzecz stron umowy o współpracy. Art. 49zf. 1. Do wygaśnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża, stosuje się art. 38, z zastrzeżeniem, że koncesja, która została udzielona na rzecz stron umowy o współpracy wygasa, gdy przesłanki określone w art. 38 ust. 1 pkt 3–5 dotyczą operatora.
+- **2)** zaistniały okoliczności, o których mowa w art. 49zn ust. 9, a koncesja została udzielona na rzecz stron umowy o współpracy.
 
-2. Koncesja wygasa również w przypadku, gdy przedsiębiorca nie przedstawi organowi koncesyjnemu, w terminie określonym w art. 49x ust. 7 albo w art. 49zd ust. 7, dowodu ustanowienia zabezpieczeń, o których mowa w art. 49x ust. 1 i 2. Art. 49zg. 1. Do zmian koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża nie stosuje się postępowania przetargowego, chyba że zmiana koncesji zmierza do powiększenia obszaru górniczego lub przestrzeni nią wyznaczonej. Zmiana koncesji może nastąpić w przypadku uzasadnionym w szczególności warunkami geologicznymi i racjonalną gospodarką złożem.
+**Art. 49zf.**
+
+1. Do wygaśnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża, stosuje się art. 38, z zastrzeżeniem, że koncesja, która została udzielona na rzecz stron umowy o współpracy wygasa, gdy przesłanki określone w art. 38 ust. 1 pkt 3–5 dotyczą operatora.
+
+2. Koncesja wygasa również w przypadku, gdy przedsiębiorca nie przedstawi organowi koncesyjnemu, w terminie określonym w art. 49x ust. 7 albo w art. 49zd ust. 7, dowodu ustanowienia zabezpieczeń, o których mowa w art. 49x ust. 1 i 2.
+
+**Art. 49zg.**
+
+1. Do zmian koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża nie stosuje się postępowania przetargowego, chyba że zmiana koncesji zmierza do powiększenia obszaru górniczego lub przestrzeni nią wyznaczonej. Zmiana koncesji może nastąpić w przypadku uzasadnionym w szczególności warunkami geologicznymi i racjonalną gospodarką złożem.
 
 2. Wniosek o zmianę koncesji, poza wymaganiami przewidzianymi przepisami z zakresu ochrony środowiska i działalności gospodarczej, zawiera szczegółowe uzasadnienie proponowanych zmian. Do wniosku dołącza się dowody istnienia określonych w nim okoliczności, a w przypadku gdy zmiana koncesji wpływa na warunki umowy o współpracy, dołącza się także zmianę tej umowy.
 
@@ -720,11 +639,213 @@ b) dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku 
 
 7. W przypadku nieprzekazania zmiany umowy o współpracy w terminie, o którym mowa w ust. 6, organ koncesyjny zmienia koncesję, określając udziały stron umowy na zasadach, o których mowa w art. 49zt ust. 6 pkt 2. Zmiana koncesji zobowiązuje strony umowy o współpracy do niezwłocznej zmiany tej umowy.
 
-8. Zmiana koncesji zobowiązuje do niezwłocznej zmiany umowy o ustanowieniu użytkowania górniczego. Art. 49zh. 1. W przypadku cofnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża udzielonej na rzecz stron umowy o współpracy, jej wygaśnięcia lub utraty mocy, bez względu na przyczynę, obowiązki, o których mowa w art. 39 ust. 1, wykonuje operator.
+8. Zmiana koncesji zobowiązuje do niezwłocznej zmiany umowy o ustanowieniu użytkowania górniczego.
+
+**Art. 49zh.**
+
+1. W przypadku cofnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża udzielonej na rzecz stron umowy o współpracy, jej wygaśnięcia lub utraty mocy, bez względu na przyczynę, obowiązki, o których mowa w art. 39 ust. 1, wykonuje operator.
 
 2. W przypadku gdy nie istnieje operator albo jego następca prawny, obowiązki, o których mowa w art. 39 ust. 1, wykonuje strona umowy o współpracy ze środków zabezpieczenia, o którym mowa w art. 49x ust. 1, w sposób określony, w drodze decyzji, przez organ koncesyjny.
 
 #### Rozdział 4 Umowa o współpracy
+
+**Art. 49zi.**
+
+1. Przez umowę o współpracy strony zobowiązują się do wspólnego wykonywania działalności w zakresie poszukiwania i rozpoznawania złóż węglowodorów oraz wydobywania węglowodorów ze złóż albo wydobywania węglowodorów ze złóż, pod warunkiem uzyskania koncesji, o której mowa w rozdziale 3, oraz zawarcia umowy o ustanowieniu użytkowania górniczego.
+
+2. Umowę o współpracy zawiera się na piśmie pod rygorem nieważności.
+
+3. Umowa o współpracy staje się skuteczna pod warunkiem udzielenia koncesji, o której mowa w rozdziale 3.
+
+**Art. 49zj.**
+
+1. Udział każdej ze stron umowy o współpracy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, wynika:
+
+- **1)** z oferty złożonej w przetargu w ramach postępowania przetargowego, o którym mowa w art. 49e;
+- **2)** ze zmian umowy dokonywanych w przypadkach określonych w ustawie.
+
+2. Procentowy udział stron umowy o współpracy w zysku jest równy procentowemu udziałowi w kosztach działalności prowadzonej w ramach umowy, chyba że strony umowy postanowią inaczej.
+
+**Art. 49zk.** Umowa o współpracy zawiera w szczególności:
+
+- **1)** określenie rodzaju działalności objętej umową;
+- **2)** wskazanie operatora;
+- **3)** określenie procentowego udziału jej stron w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
+
+**Art. 49zl.** Wydobyte węglowodory stają się współwłasnością stron umowy w częściach ułamkowych określonych przez strony w umowie. Strony mogą postanowić w umowie, że składniki majątku nabyte w związku z wykonywaną przez nie działalnością gospodarczą stanowić będą ich współwłasność w częściach ułamkowych.
+
+**Art. 49zm.**
+
+1. W zakresie wykonywania działalności objętej umową o współpracy strony reprezentuje operator.
+
+2. Operator samodzielnie prowadzi sprawy stron umowy o współpracy w zakresie spraw zwykłego zarządu, w tym prowadzi rozliczenia należności publicznoprawnych związanych z wykonywaniem działalności objętej umową i koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża oraz w zakresie ustalonym zgodnie z odrębnymi pełnomocnictwami.
+
+3. Do spraw przekraczających zakres zwykłego zarządu należy w szczególności podejmowanie uchwał w sprawach:
+
+- **1)** zatwierdzania i zmiany planów rocznych i wieloletnich;
+- **2)** wyboru biegłego rewidenta w celu przeprowadzenia badania rocznego sprawozdania finansowego sporządzonego na podstawie ksiąg, o których mowa w art. 49zo ust. 1;
+- **3)** zatwierdzania rocznego sprawozdania finansowego;
+- **4)** rozwiązania umowy o współpracy.
+
+4. Umowa o współpracy może przewidywać inne niż określone w ust. 3 sprawy przekraczające zakres zwykłego zarządu.
+
+5. W sprawach przekraczających zakres zwykłego zarządu uchwały są podejmowane na zebraniu w obecności stron umowy o współpracy reprezentujących co najmniej 75% udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, na dzień podjęcia uchwały, większością 2/3 głosów, chyba że strony umowy postanowią inaczej.
+
+6. W przypadku niepodjęcia uchwały z powodu braku kworum, o którym mowa w ust. 5, operator zwołuje kolejne zebranie w terminie nie dłuższym niż 7 dni. W porządku obrad tego zebrania są ujęte wyłącznie sprawy nierozstrzygnięte na poprzednim zebraniu. Uchwały są podejmowane w obecności stron umowy o współpracy reprezentujących co najmniej 50% udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, większością 2/3 głosów, chyba że strony umowy postanowią inaczej.
+
+7. Uchwała w sprawie rozwiązania umowy o współpracy wymaga jednomyślności wszystkich jej stron.
+
+**Art. 49zn.**
+
+1. Zebranie stron umowy o współpracy odbywa się co najmniej raz w roku, w terminie nie krótszym niż 10 i nie dłuższym niż 45 dni od dnia przedstawienia przez biegłego rewidenta opinii o rocznym sprawozdaniu finansowym za poprzedni rok obrotowy.
+
+2. Zebranie zwołuje operator.
+
+3. Zebranie odbywa się na terytorium Rzeczypospolitej Polskiej.
+
+4. Zebranie może zostać zwołane na wniosek strony umowy o współpracy. Wniosek zawiera co najmniej proponowany porządek obrad, wraz z projektami uchwał i ich uzasadnieniem, jeżeli mają być podjęte. W takim przypadku operator zwołuje zebranie w terminie nie krótszym niż 10 i nie dłuższym niż 45 dni od dnia otrzymania wniosku.
+
+5. Tryb prowadzenia zebrania określa umowa o współpracy.
+
+6. Na zebraniu stronie umowy o współpracy przysługuje liczba głosów proporcjonalna do jej udziału w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, chyba że strony umowy postanowią inaczej.
+
+7. Pierwsze zebranie odbywa się w terminie 14 dni od dnia, w którym koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesja na wydobywanie węglowodorów ze złoża stała się ostateczna. Na zebraniu operator przedkłada co najmniej:
+
+- **1)** wniosek o zatwierdzenie planu rocznego i wieloletniego, określających zakres rzeczowy i finansowy realizacji zobowiązań wynikających z koncesji, w szczególności harmonogram prac geologicznych, w tym robót geologicznych, lub robót górniczych, wraz z planowanym terminem ich realizacji;
+- **2)** numer bankowego rachunku wspólnego;
+- **3)** propozycje zmian umowy o współpracy mające na celu dostosowanie jej treści do treści koncesji, o ile jest to konieczne.
+
+8. W przypadku gdy na pierwszym zebraniu strony umowy o współpracy nie podejmą uchwały w sprawie zatwierdzenia planu rocznego, do czasu jej podjęcia obowiązuje projekt planu rocznego przedstawiony przez operatora na tym zebraniu.
+
+9. W przypadku gdy do końca pierwszego roku obrotowego nie zostanie podjęta przez strony umowy o współpracy uchwała w sprawie zatwierdzenia planu rocznego i wieloletniego, a także w sprawie zatwierdzenia czynności dokonanych na podstawie projektu planu rocznego, operator zawiadamia o tym organ koncesyjny. Pierwszy rok obrotowy rozpoczyna się z dniem, w którym koncesja na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesja na wydobywanie węglowodorów ze złoża stała się ostateczna i trwa do końca następnego roku kalendarzowego, chyba że strony umowy postanowią inaczej.
+
+10. W przypadku gdy w kolejnych latach obrotowych nie zostanie podjęta przez strony umowy o współpracy uchwała w sprawie zatwierdzenia planu rocznego lub wieloletniego, operator zawiadamia o tym organ koncesyjny.
+
+**Art. 49zo.**
+
+1. W celu rzetelnego i jasnego przedstawienia sytuacji majątkowej i finansowej oraz określenia wyniku finansowego działalności prowadzonej przez strony umowy o współpracy na podstawie umowy oraz koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża, operator prowadzi dodatkowo dla tej działalności księgi rachunkowe i sporządza roczne sprawozdanie finansowe, które podlega badaniu przez biegłego rewidenta.
+
+2. W przypadkach, o których mowa w art. 49zr oraz art. 49zt, wartość udziału strony umowy o współpracy w zysku i kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych, oznacza się na podstawie osobnego bilansu. Za dzień bilansowy przyjmuje się dzień wydania decyzji, o której mowa w art. 49zd ust. 1, albo decyzji, o której mowa w art. 49zg ust. 5, których skutkiem jest ustanie umowy wobec danej strony.
+
+**Art. 49zp.**
+
+1. Dla działalności objętej umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża operator zakłada dla wszystkich stron umowy rachunek wspólny, o którym mowa w art. 51 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm. ).
+
+2. Wszelkie płatności i rozliczenia związane z wykonywaniem umowy o współpracy oraz koncesji mogą być dokonywane wyłącznie przez rachunek wspólny.
+
+**Art. 49zq.**
+
+1. Za zobowiązania powstałe w związku z działalnością objętą umową o współpracy oraz koncesją na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesją na wydobywanie węglowodorów ze złoża, w tym uiszczenie wynagrodzenia z tytułu umowy o ustanowieniu użytkowania górniczego i umowy na korzystanie z informacji geologicznej, do której prawa przysługują Skarbowi Państwa oraz opłat, o których mowa w dziale VII, odpowiedzialność ponosi operator.
+
+2. Za zobowiązania wobec osób trzecich powstałe w związku z działalnością objętą umową o współpracy oraz koncesją, niewynikające z zatwierdzonych planów rocznych lub wieloletnich, odpowiedzialność ponosi operator.
+
+3. W przypadku spłaty przez operatora zobowiązań, o których mowa w ust. 2, przysługuje mu wobec pozostałych stron umowy o współpracy roszczenie o zwrot spłaconego zobowiązania, proporcjonalnie do udziału tych stron w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
+
+**Art. 49zr.**
+
+1. Za zgodą wszystkich stron umowy o współpracy operator może wypowiedzieć swój udział w umowie z zachowaniem sześciomiesięcznego terminu wypowiedzenia, ze skutkiem na dzień, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, pod warunkiem przedstawienia kandydatury nowego operatora.
+
+2. Nowy operator wstępuje w prawa i obowiązki operatora, który wypowiedział swój udział w umowie o współpracy, za zgodą wszystkich stron umowy, z dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna.
+
+3. Nowy operator oraz operator, który wypowiedział swój udział w umowie o współpracy, ponoszą solidarną odpowiedzialność wobec pozostałych stron umowy za zobowiązania wynikające z umowy powstałe przed dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, przez okres kolejnych 12 miesięcy.
+
+**Art. 49zs.** W przypadku cofnięcia koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża, jej wygaśnięcia albo utraty mocy, dotychczasowy operator może podejmować jedynie działania w celu wykonania obowiązków dotyczących ochrony środowiska i likwidacji zakładu górniczego.
+
+**Art. 49zt.**
+
+1. Strona umowy o współpracy niebędąca operatorem może wypowiedzieć swój udział w umowie lub jego część na rzecz innej strony tej umowy w każdym czasie, bez konieczności uzyskania zgody pozostałych stron tej umowy.
+
+2. Za zgodą wszystkich stron umowy o współpracy strona umowy niebędąca operatorem może wypowiedzieć swój udział w umowie lub jego część z zachowaniem sześciomiesięcznego terminu wypowiedzenia, ze skutkiem na dzień, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna, pod warunkiem przedstawienia kandydatury podmiotu wstępującego w jej prawa i obowiązki.
+
+3. Za zgodą wszystkich stron umowy o współpracy w prawa i obowiązki strony wypowiadającej swój udział w umowie lub jego część, w zakresie uzgodnionym przez strony, może wstąpić nowy podmiot, pod warunkiem uzyskania decyzji, o której mowa w art. 49zd ust. 1.
+
+4. Za zgodą wszystkich stron umowy o współpracy nowa strona niebędąca operatorem wstępuje w prawa i obowiązki dotychczasowej strony niebędącej operatorem i wypowiadającej swój udział w umowie, z dniem, w którym decyzja, o której mowa w art. 49zd ust. 1, stała się ostateczna.
+
+5. W przypadku, o którym mowa w art. 49zg ust. 5, umowa o współpracy z dotychczasową stroną ulega rozwiązaniu z zastrzeżeniem obowiązku dokonania rozliczeń między stronami. Pozostałe strony umowy o współpracy są obowiązane do przejęcia praw i obowiązków dotychczasowej strony tej umowy.
+
+6. Prawa i obowiązki dotychczasowej strony umowy o współpracy przechodzą na pozostałe strony tej umowy w:
+
+- **1)** częściach uzgodnionych przez strony;
+- **2)** przypadku niedokonania uzgodnienia, o którym mowa w pkt 1, w terminie wskazanym w art. 49zg ust. 6 − proporcjonalnie do udziałów w kosztach prac geologicznych, w tym robót geologicznych, lub robót górniczych.
+
+7. Niebędąca operatorem strona przystępująca do umowy o współpracy oraz strona wypowiadająca udział w umowie lub strona, z którą rozwiązano umowę, na zasadach określonych w ust. 1–3 i 5, ponoszą solidarną odpowiedzialność wobec pozostałych stron umowy za zobowiązania wynikające z umowy powstałe przed dniem, w którym decyzja, o której mowa w art. 49zd ust. 1 albo art. 49zg ust. 5, stała się ostateczna, przez okres kolejnych 12 miesięcy.
+
+8. Przepisy ust. 5–7 stosuje się odpowiednio do wypowiedzenia udziału w umowie o współpracy w części.
+
+**Art. 49zu.** Rozliczenie dokonane między stronami umowy o współpracy w przypadkach, o których mowa w art. 49zr oraz art. 49zt, wywołuje skutki wyłącznie między tymi stronami i nie zwalnia ich ze zobowiązań wobec osób trzecich.
+
+**Art. 49zv.** Umowa o współpracy ulega rozwiązaniu w przypadku:
+
+- **1)** cofnięcia, wygaśnięcia lub utraty mocy koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo koncesji na wydobywanie węglowodorów ze złoża;
+- **2)** podjęcia przez jej strony uchwały o rozwiązaniu.
+
+**Art. 49zw.** W sprawach nieuregulowanych w ustawie dotyczących umowy o współpracy stosuje się przepisy Kodeksu cywilnego.”;
+
+- **26)** po art. 80 dodaje się art. 80a w brzmieniu: „Art. 80a. 1. Zmiany projektu robót geologicznych dokonuje się przez sporządzenie dodatku.
+
+2. Dodatek do projektu robót geologicznych zatwierdza, w drodze decyzji, organ koncesyjny, a w przypadku dodatku do projektu robót geologicznych, których wykonywanie nie wymaga uzyskania koncesji – właściwy organ administracji geologicznej.
+
+3. Do postępowania w sprawie zatwierdzenia dodatku do projektu robót geologicznych przepisy art. 80 ust. 2–5 oraz 7 i 8 stosuje się odpowiednio.
+
+4. W przypadku istotnych zmian projektu robót geologicznych, których wykonywanie wymaga uzyskania koncesji, mających bezpośredni wpływ na warunki określone w koncesji, organ koncesyjny z urzędu zmienia koncesję w zakresie określonym w decyzji zatwierdzającej dodatek do projektu robót geologicznych. Do postępowania w sprawie zmiany koncesji przepisów art. 8 i art. 23 ust. 2 nie stosuje się.”;
+
+- **27)** w art. 81:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ten, kto uzyskał koncesję na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów, koncesję na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla lub koncesję na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża albo uzyskał decyzję o zatwierdzeniu projektu robót geologicznych, zgłasza zamiar rozpoczęcia robót geologicznych właściwemu:”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. O zamierzonym poborze próbek w wyniku robót geologicznych podmiot, o którym mowa w ust. 1, zawiadamia na piśmie właściwy organ administracji geologicznej i państwową służbę geologiczną, w terminie 7 dni przed zamierzonym poborem tych próbek.”;
+
+- **28)** art. 82 otrzymuje brzmienie: „Art. 82. 1. Ten, kto wykonuje roboty geologiczne na podstawie:
+- **1)** koncesji na poszukiwanie lub rozpoznawanie złoża kopaliny, z wyłączeniem złoża węglowodorów,
+- **2)** koncesji na poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla,
+- **3)** koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża,
+- **4)** decyzji o zatwierdzeniu projektu robót geologicznych,
+- **5)** zgłoszenia projektu robót geologicznych − ma obowiązek bieżącego dokumentowania przebiegu prac geologicznych, w tym robót geologicznych, oraz ich wyników.
+
+2. Podmiot, o którym mowa w ust. 1, który wykonuje roboty geologiczne w celu poszukiwania lub rozpoznawania złóż kopalin, o których mowa w art. 10 ust. 1 i 2, poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla lub wykonania otworów wiertniczych służących rozpoznaniu budowy głębokiego podłoża albo wykonania regionalnych badań budowy geologicznej kraju, a także określania warunków hydrogeologicznych oraz geologiczno-inżynierskich dla potrzeb podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów lub podziemnego składowania dwutlenku węgla, ma obowiązek bieżącego przekazywania państwowej służbie geologicznej:
+
+- **1)** danych geologicznych uzyskanych w wyniku prac geologicznych, w tym robót geologicznych;
+- **2)** próbek uzyskanych w wyniku robót geologicznych w zakresie określonym w koncesji i wyników badań tych próbek.
+
+3. Ten, kto wykonuje roboty geologiczne w celu poszukiwania i rozpoznawania złoża węglowodorów, ma dodatkowo obowiązek bieżącego przekazywania danych geologicznych, o których mowa w ust. 2 pkt 1, organowi koncesyjnemu.
+
+4. Zakres przekazywania próbek uzyskanych w wyniku robót geologicznych określa odpowiednio koncesja albo decyzja o zatwierdzeniu projektu robót geologicznych.
+
+5. Przekazywanie:
+
+- **1)** danych geologicznych, o których mowa w ust. 2 pkt 1, odbywa się nie później niż 14 dni od dnia ich uzyskania;
+- **2)** próbek, o których mowa w ust. 2 pkt 2, odbywa się nie później niż 60 dni od dnia ich uzyskania;
+- **3)** wyników badań próbek, o których mowa w ust. 2 pkt 2, odbywa się nie później niż 14 dni od dnia ich uzyskania.
+
+6. Przekazywanie, o którym mowa w ust. 5 pkt 1 i 3, następuje w postaci papierowej i elektronicznej.
+
+7. Przekazywanie, o którym mowa w ust. 5 pkt 2, następuje poprzez fizyczne dostarczenie próbki.
+
+8. Od dnia przekazania przez podmiot, o którym mowa w ust. 2, danych geologicznych, próbek i wyników ich badań do dnia doręczenia decyzji zatwierdzającej dokumentację geologiczną lub do dnia przekazania dokumentacji sporządzonej w przypadkach, o których mowa w art. 92 pkt 3 i 5, państwowa służba geologiczna oraz organ koncesyjny nie udostępniają ich innym podmiotom.”;
+
+- **29)** po art. 82 dodaje się art. 82a w brzmieniu: „Art. 82a. 1. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
+- **1)** zakres, formę i tryb przekazywania próbek, o których mowa w art. 82 ust. 2 pkt 2;
+- **2)** zakres, formaty oraz tryb przekazywania danych geologicznych, o których mowa w art. 82 ust. 2 pkt 1, oraz wyników badań próbek, o których mowa w art. 82 ust. 2 pkt 2;
+- **3)** zakres, formaty oraz tryb przekazywania informacji dotyczących parametrów wydobywania węglowodorów ze złoża, o których mowa w art. 49zc.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw środowiska:
+
+- **1)** będzie kierował się potrzebą zapewnienia kompletności i użyteczności informacji o bieżącym rozpoznaniu geologicznym kraju dla udzielania koncesji oraz wykonywania zadań państwa w zakresie geologii przez państwową służbę geologiczną;
+- **2)** uwzględni różnice w zakresie przekazywania danych, próbek i informacji dotyczących parametrów wydobywania węglowodorów ze złoża, wynikające ze zróżnicowania zakresu i celu realizowanych prac geologicznych, a w przypadku przekazywania w związku z poszukiwaniem lub rozpoznawaniem złóż kopalin – uwzględni także różnice wynikające ze specyfiki danej kopaliny.”;
+- **30)** po art. 85 dodaje się art. 85a i art. 85b w brzmieniu: „Art. 85a. 1. Jeżeli roboty geologiczne obejmują wyłącznie wykonywanie badań geofizycznych w celu zbadania struktur geologicznych związanych z występowaniem złóż węglowodorów, projekt robót geologicznych podlega zgłoszeniu ministrowi właściwemu do spraw środowiska.
+
+2. Rozpoczęcie robót geologicznych, o których mowa w ust. 1, może nastąpić, jeżeli w terminie 30 dni od dnia przedłożenia projektu robót geologicznych minister właściwy do spraw środowiska, w drodze decyzji, nie zgłosi do niego sprzeciwu.
+
+3. Minister właściwy do spraw środowiska zgłasza sprzeciw, jeżeli:
+
+- **1)** sposób wykonywania zamierzonych robót geologicznych zagraża środowisku;
+- **2)** projekt robót geologicznych nie odpowiada wymaganiom prawa.
+
+4. Jeżeli roboty geologiczne, o których mowa w ust. 1, dotyczą obszarów morskich Rzeczypospolitej Polskiej, projekt robót geologicznych wymaga zatwierdzenia, w drodze decyzji, przez ministra właściwego do spraw środowiska, na zasadach określonych w art. 80 ust. 4, 7 i 8.
+
+5. Okres wykonywania działalności, o której mowa w ust. 1, nie może być dłuższy niż 2 lata.
+
+6. Podmiot, który zamierza wykonywać roboty geologiczne, o których mowa w ust. 1, w przestrzeni wyznaczonej koncesją na działalność regulowaną ustawą dotyczącą kopalin, o których mowa w art. 10 ust. 1, jest obowiązany do poinformowania przedsiębiorcy, któremu udzielono tej koncesji o terminie, lokalizacji i zakresie tych robót.
+
+7. W celu wykonania obowiązku, o którym mowa w ust. 6, minister właściwy do spraw środowiska ogłasza, co najmniej raz na kwartał, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ wykaz przestrzeni, o których mowa w tym przepisie.
 
 **Art. 85b.** Wykonywanie robót geologicznych na podstawie projektu robót geologicznych nie może naruszać praw właścicieli (użytkowników wieczystych) nieruchomości.”;
 

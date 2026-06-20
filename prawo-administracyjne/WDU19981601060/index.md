@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o samorządzie województwa oraz ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw
+# Ustawa z dnia 17 grudnia 1998 r. o zmianie ustawy o samorządzie województwa oraz ustawy - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw.
 
 *USTAWA z dnia 17 grudnia 1998 r.*
 

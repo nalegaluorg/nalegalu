@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l p .
+# Rozporządzenie Rady Ministrów z dnia 20 grudnia 2011 r. w sprawie wielokrotności kwoty bazowej, stanowiącej przeciętne uposażenie funkcjonariuszy celnych
 
 | Pole | Wartość |
 |---|---|

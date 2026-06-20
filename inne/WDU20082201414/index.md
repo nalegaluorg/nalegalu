@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie imienia i nazwiska
+# Ustawa z dnia 17 października 2008 r. o zmianie imienia i nazwiska
 
 *USTAWA z dnia 17 października 2008 r.*
 

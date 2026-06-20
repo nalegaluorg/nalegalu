@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l p .
+# Rozporządzenie Ministra Finansów z dnia 16 grudnia 2011 r. zmieniające rozporządzenie w sprawie właściwości miejscowej organów Służby Celnej w zakresie, w jakim właściwość ta nie wynika z przepisów regulujących zadania organów celnych i organów podatkowych
 
 | Pole | Wartość |
 |---|---|

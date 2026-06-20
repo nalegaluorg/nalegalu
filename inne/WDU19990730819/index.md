@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie upoważnienia innych organów administracji państwowej do wykonywania niektórych zadań organów celnych.
+# Rozporządzenie Ministra Finansów z dnia 20 sierpnia 1999 r. w sprawie upoważnienia innych organów administracji państwowej do wykonywania niektórych zadań organów celnych.
 
 | Pole | Wartość |
 |---|---|

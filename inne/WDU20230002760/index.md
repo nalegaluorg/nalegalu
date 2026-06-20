@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła
+# Ustawa z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła
 
 *USTAWA z dnia 7 grudnia 2023 r.*
 

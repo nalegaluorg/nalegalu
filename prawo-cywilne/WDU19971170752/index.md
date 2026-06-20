@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustaw - Prawo o ustroju sądów powszechnych, Kodeks postępowania cywilnego, ustawy o księgach wieczystych i hipotece oraz ustawy o prokuraturze
+# Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, Kodeks postępowania cywilnego, ustawy o księgach wieczystych i hipotece oraz ustawy o prokuraturze.
 
 *USTAWA z dnia 21 sierpnia 1997 r.*
 

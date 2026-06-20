@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o cmentarzach i chowaniu zmarłych
+# Ustawa z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych.
 
 *USTAWA z dnia 31 stycznia 1959 r.*
 

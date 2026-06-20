@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
+# Ustawa z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
 
 *USTAWA z dnia 11 maja 2001 r.*
 

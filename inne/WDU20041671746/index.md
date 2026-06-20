@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o nadmiernych zapasach produktów rolnych i produktów cukrowych
+# Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy o nadmiernych zapasach produktów rolnych i produktów cukrowych
 
 *USTAWA z dnia 2 lipca 2004 r.*
 

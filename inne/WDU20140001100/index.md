@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rachunkowości
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy o rachunkowości
 
 *USTAWA z dnia 11 lipca 2014 r.*
 

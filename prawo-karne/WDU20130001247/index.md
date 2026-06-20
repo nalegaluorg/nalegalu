@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
+# Ustawa z dnia 27 września 2013 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 września 2013 r.*
 
@@ -949,7 +949,8 @@ source: pdf
 - **9)** w art. 31 § 1 otrzymuje brzmienie: „§ 1. W razie śmierci oskarżyciela posiłkowego, o którym mowa w art. 27 § 1 i 2, sąd lub referendarz sądowy zawiesza postępowanie, a osoby najbliższe mogą wstąpić w prawa zmarłego. Jeżeli w terminie zawitym miesiąca od dnia śmierci oskarżyciela osoba uprawniona nie wstąpi w prawa zmarłego, sąd lub referendarz sądowy umarza postępowanie.”;
 - **10)** w art. 32 po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Postanowienia i zarządzenia, o których mowa w § 3, może wydawać także referendarz sądowy, gdy ustawa to przewiduje.”;
 - **11)** w art. 38 § 1 otrzymuje brzmienie: „§ 1. Do czynności procesowych prowadzonych w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio także przepisy art. 95, art. 100 § 1 i 8, art. 105, art. 107, art. 108, art. 116–134, art. 136–142, art. 156 § 1–4, art. 157, art. 158, art. 160–166 Kodeksu postępowania karnego, a gdy sąd orzeka jednoosobowo, również przepisy art. 109–115 Kodeksu postępowania karnego.”;
-- **12)** w art. 39 § 1 otrzymuje brzmienie: „§ 1. W postępowaniu przed sądem dowody przeprowadza się na wniosek stron, a w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, także z urzędu. Przepis art.168 Kodeksu postępowania karnego stosuje się.”; [13) w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185– 190, art. 191 § 1 i 2 oraz art. 192 Kodeksu postępowania karnego.”;] <13) w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185–190, art. 191 § 1–2 oraz art. 192 Kodeksu postępowania karnego.”;>
+- **12)** w art. 39 § 1 otrzymuje brzmienie: „§ 1. W postępowaniu przed sądem dowody przeprowadza się na wniosek stron, a w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, także z urzędu. Przepis art.168 Kodeksu postępowania karnego stosuje się.”;
+- **13)** w art. 41 § 1 otrzymuje brzmienie: „§ 1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art. 177, art. 178, art. 178a, art. 182, art. 183, art. 185–190, art. 191 § 1–2 oraz art. 192 Kodeksu postępowania karnego.”;
 - **14)** w art. 46:
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Na żądanie zatrzymanego zawiadamia się o zatrzymaniu osobę najbliższą, a także pracodawcę. O zatrzymaniu osoby wskazanej w art. 10 § 1 zawiadamia się niezwłocznie właściwego dowódcę jednostki wojskowej, nawet gdy zatrzymany tego nie żąda. Przepis art. 612 § 2 Kodeksu postępowania karnego stosuje się odpowiednio.”,
     - **b)** dodaje się § 7 w brzmieniu: „§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór pouczenia, o którym mowa w § 1, zawierając w nim w szczególności informacje o przysługujących zatrzymanemu uprawnieniach: do złożenia oświadczenia i odmowy złożenia oświadczenia w przedmiocie zatrzymania, do korzystania z bezpłatnej pomocy tłumacza, do przeglądania akt w zakresie dotyczącym przyczyn zatrzymania, do dostępu do pierwszej pomocy medycznej, jak również prawach wskazanych w § 1, 3–4 i 6, art. 47 § 1 oraz w art. 612 § 2 Kodeksu postępowania karnego, mając na względzie konieczność zrozumienia pouczenia także przez osoby niekorzystające z pomocy pełnomocnika.”;

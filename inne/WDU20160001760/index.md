@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o bezpieczeństwie żywności i żywienia
+# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o bezpieczeństwie żywności i żywienia
 
 *USTAWA z dnia 14 września 2016 r.*
 

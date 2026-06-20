@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Kodeks morski
+# Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - Kodeks morski
 
 *USTAWA z dnia 24 kwietnia 2009 r.*
 

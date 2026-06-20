@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych
+# Ustawa z dnia 29 listopada 2000 r. o objęciu poręczeniami Skarbu Państwa spłaty kredytów mieszkaniowych.
 
 *USTAWA z dnia 29 listopada 2000 r.*
 

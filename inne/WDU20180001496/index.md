@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
+# Ustawa z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2018-08-07 |
 | Ostatnia zmiana | 2025-12-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1496/text.pdf) |
-
-Art. 42–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -523,6 +521,8 @@ Art. 42–52. (pominięte)
 **Art. 41.** Organem wyższego stopnia w sprawach określonych w niniejszym rozdziale jest wojewoda.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 42–52.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

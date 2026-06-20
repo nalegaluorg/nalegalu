@@ -412,7 +412,9 @@ c) w ust. 2: - w pkt l wyraz "obywateli" zastępuje się wyrazem "ludzi", - pkt 
 
 1.
 
-4. Minister Spraw Wewnętrznych określi szczegółowe zasady i tryb wydawania, posługiwania się, a także przechowywania dokumentów, o których mowa w ust. 2. Art. 1lb. Udzielenie informacji o szczegółowych formach, zasadach i organizacji, a także o prowadzonych czynnościach operacyjich realizacji może nastąpić wyłącznie w przypadku, gdy istnieje uzasadnione podejrzenie popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem tych czynności. W takim przypadku udzielenie informacji następuje w trybie określonym w art. 7a ustawy o urzędzie Ministra Spraw Wewnętrznych";.
+4. Minister Spraw Wewnętrznych określi szczegółowe zasady i tryb wydawania, posługiwania się, a także przechowywania dokumentów, o których mowa w ust. 2.
+
+**Art. 1lb.** Udzielenie informacji o szczegółowych formach, zasadach i organizacji, a także o prowadzonych czynnościach operacyjich realizacji może nastąpić wyłącznie w przypadku, gdy istnieje uzasadnione podejrzenie popełnienia przestępstwa ściganego z oskarżenia publicznego w związku z wykonywaniem tych czynności. W takim przypadku udzielenie informacji następuje w trybie określonym w art. 7a ustawy o urzędzie Ministra Spraw Wewnętrznych";.
 
 - **13)** wart. 12 ust. I otrzymuje brzmienie: "1. Udzielanie informacji o osobie, uzyskanych w czasie wykonywania czynności operacyjno-rozpoznawczych oraz w trybie, o którym mowa w ra, a wykorzystanie tych informacji może nastąpić tylko w celu ścigania karnego " . ; 14 ) wart . 13 : Ib. Dane o osobie, o której mowa w ust. 1, mogą być ujawnione na żądanie prokuratora, także w razie uzasadnionego podejrzenia popełnienia związku z wykonywaniem czynności operacyjno-rozpoznawczych; ujawnienie tych danych następuje w trybie określonym w art. 7a ustawy o urzędzie Ministra Spraw Wewnętrznych.",
     - **a)** w ust. I wyraz "obywateli" zastępuje się wyrazem "osób" oraz dodaje się zdanie w brzmieniu: "Zabronione jest ujawnianie danych o osobie udzielającej pomocy Urzędowi Ochrony Państwa, w zakresie czynności operacyjnorozpoznawczych.",

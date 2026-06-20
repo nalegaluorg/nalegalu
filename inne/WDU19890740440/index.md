@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uporządkowaniu stosunków kredytowych
+# Ustawa z dnia 28 grudnia 1989 r. o uporządkowaniu stosunków kredytowych.
 
 *USTAWA z dnia 28 grudnia 1989 r.*
 

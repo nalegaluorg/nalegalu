@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o prawie autorskim i prawach pokrewnych
+# Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.
 
 *USTAWA z dnia 4 lutego 1994 r.*
 

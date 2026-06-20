@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie emisji czwartej dziesięcioletniej pożyczki państwowej o zmiennej stopie procentowej oraz jej warunków.
+# Rozporządzenie Ministra Finansów z dnia 7 września 1999 r. zmieniające rozporządzenie w sprawie emisji czwartej dziesięcioletniej pożyczki państwowej o zmiennej stopie procentowej oraz jej warunków.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym
 
 | Pole | Wartość |
 |---|---|
@@ -34,7 +34,6 @@ source: pdf
 Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 15 września 2000 r.
 o referendum lokalnym
-Art. 75–78. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -615,6 +614,8 @@ Art. 75–78. (pominięte)
 **Art. 74.** Do postępowania w sprawach, o których mowa w art. 69 i art. 72, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 10 Przepisy zmieniające i końcowe
+
+**Art. 75–78.** (pominięte)
 
 **Art. 79.** Traci moc ustawa z dnia 11 października 1991 r. o referendum gminnym (Dz. U. z 1996 r. poz. 386).
 

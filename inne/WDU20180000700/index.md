@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o pomocy społecznej
+# Ustawa z dnia 8 lutego 2018 r. o zmianie ustawy o pomocy społecznej
 
 *USTAWA z dnia 8 lutego 2018 r.*
 

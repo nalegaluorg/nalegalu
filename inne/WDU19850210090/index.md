@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o Narodowym Funduszu Rewaloryzacji Zabytków Krakowa W trosce o zachowanie i przywrócenie do dawnej świetności architektonicznych zespołów zabytkowych Krakowa, stanowiących spuściznę narodową w dziedzinie dóbr kultury, oraz wychodząc naprzeciw społecznym inicjatywom gromadzenia na ten cel środków, stanowi się, co następuje:
+# Ustawa z dnia 18 kwietnia 1985 r. o Narodowym Funduszu Rewaloryzacji Zabytków Krakowa.
 
 *USTAWA z dnia 18 kwietnia 1985 r.*
 

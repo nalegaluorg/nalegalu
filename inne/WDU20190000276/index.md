@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce
+# Ustawa z dnia 31 stycznia 2019 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce
 
 | Pole | Wartość |
 |---|---|

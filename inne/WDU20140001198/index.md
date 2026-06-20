@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz niektórych innych ustaw
 
 *USTAWA z dnia 11 lipca 2014 r.*
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o radiofonii i telewizji
+# Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o radiofonii i telewizji
 
 *USTAWA z dnia 2 kwietnia 2004 r.*
 

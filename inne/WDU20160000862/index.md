@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
+# Ustawa z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich
 
 *USTAWA z dnia 13 maja 2016 r.*
 
@@ -527,7 +527,8 @@ source: pdf
 - **1)** lekarza i lekarza dentysty, o której mowa w art. 40 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897 oraz z 2025 r. poz. 619, 769 i 1301);
 - **2)** osoby wykonującej zawód medyczny, o której mowa w art. 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581);
 - **3)** pielęgniarki i położnej, o której mowa w art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15);
-- **4)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, o której mowa w art. 50 ust. 1 tej ustawy; [5) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);] <5) psychologa, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);>
+- **4)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, o której mowa w art. 50 ust. 1 tej ustawy; [5) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);]
+- **5)** psychologa, o której mowa w art. 27 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);
 - **6)** pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302);
 - **7)** pracownika okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich, o której mowa w art. 335 pkt 4 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw
+# Ustawa z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw
 
 *USTAWA z dnia 27 września 2024 r.*
 

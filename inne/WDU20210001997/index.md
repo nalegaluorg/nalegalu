@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
+# Ustawa z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 października 2021 r.*
 

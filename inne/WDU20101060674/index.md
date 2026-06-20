@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o przywróceniu terminu do wypłaty świadczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych
+# Ustawa z dnia 6 maja 2010 r. o przywróceniu terminu do wypłaty świadczeń pracowniczych z Funduszu Gwarantowanych Świadczeń Pracowniczych
 
 *USTAWA z dnia 6 maja 2010 r.*
 

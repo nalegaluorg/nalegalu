@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 18 lutego 1999 r. w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego.
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy - Prawo o ruchu drogowym
+# Ustawa z dnia 6 września 2001 r. o zmianie ustawy - Prawo o ruchu drogowym.
 
 *USTAWA z dnia 6 września 2001 r.*
 

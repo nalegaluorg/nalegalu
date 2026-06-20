@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
+# Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
 
 *USTAWA z dnia 30 sierpnia 2019 r.*
 

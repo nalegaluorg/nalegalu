@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o związkach zawodowych
+# Ustawa z dnia 23 maja 1991 r. o związkach zawodowych.
 
 *USTAWA z dnia 23 maja 1991 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 1991-06-26 |
 | Ostatnia zmiana | 2026-04-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910550234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.pdf) |
-
-Art. 40–45. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -560,6 +558,8 @@ Art. 40–45. (pominięte)
 **Art. 39.** (uchylony)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+**Art. 40–45.** (pominięte)
 
 **Art. 46.** Rejestracja organizacji związkowych dokonana przed dniem wejścia w życie ustawy zachowuje moc prawną.
 

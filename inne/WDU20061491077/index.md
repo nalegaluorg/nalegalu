@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o spółdzielni europejskiej
+# Ustawa z dnia 22 lipca 2006 r. o spółdzielni europejskiej
 
 *USTAWA z dnia 22 lipca 2006 r.*
 

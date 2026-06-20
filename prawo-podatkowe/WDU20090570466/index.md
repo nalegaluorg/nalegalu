@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy – Ordynacja podatkowa oraz ustawy o opłacie skarbowej
+# Ustawa z dnia 5 marca 2009 r. o zmianie ustawy - Ordynacja podatkowa oraz ustawy o opłacie skarbowej
 
 *USTAWA z dnia 5 marca 2009 r.*
 

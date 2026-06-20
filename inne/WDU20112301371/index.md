@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
+# Ustawa z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
 
 *USTAWA z dnia 16 września 2011 r.*
 
@@ -285,14 +285,18 @@ source: pdf
 
 2. Punkt kontaktowy oraz upoważniony podmiot uprawniony, przesyłając Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) kopię wniosku o udzielenie informacji lub kopię udzielonych informacji, informują o celach przetwarzania informacji oraz o możliwych ograniczeniach tego przetwarzania, zgodnie z art. 19 rozporządzenia (UE) 2016/794. Przepisy art. 11c stosuje się.
 
-3. Informacje uzyskane od innego państwa członkowskiego Unii Europejskiej lub państwa trzeciego mogą być przekazane Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) tylko w przypadku, gdy to państwo członkowskie Unii Europejskiej lub państwo trzecie wyrazi na to zgodę, przy zapewnieniu przestrzegania warunków regulujących ich wykorzystanie nałożonych przez to państwo członkowskie Unii Europejskiej lub państwo trzecie. <Art. 11c. 1. Punkt kontaktowy oraz upoważniony podmiot uprawniony składają wnioski o udzielenie informacji, udzielają informacji oraz przekazują informacje, korzystając z kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA.
+3. Informacje uzyskane od innego państwa członkowskiego Unii Europejskiej lub państwa trzeciego mogą być przekazane Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) tylko w przypadku, gdy to państwo członkowskie Unii Europejskiej lub państwo trzecie wyrazi na to zgodę, przy zapewnieniu przestrzegania warunków regulujących ich wykorzystanie nałożonych przez to państwo członkowskie Unii Europejskiej lub państwo trzecie.
+
+**Art. 11c.**
+
+1. Punkt kontaktowy oraz upoważniony podmiot uprawniony składają wnioski o udzielenie informacji, udzielają informacji oraz przekazują informacje, korzystając z kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA.
 
 2. Punkt kontaktowy oraz upoważniony podmiot uprawniony, składając wniosek o udzielenie informacji oraz udzielając informacji, mogą skorzystać z innego dostępnego kanału komunikacji wykorzystywanego w międzynarodowej współpracy policyjnej, w przypadku gdy:
 
 - **1)** wymiana informacji wymaga zaangażowania państw trzecich lub organizacji międzynarodowych lub zachodzą okoliczności uzasadniające przypuszczenie, że konieczne będzie zaangażowanie w wymianę informacji państw trzecich lub organizacji międzynarodowych, w tym za pośrednictwem kanału komunikacji udostępnianego przez Międzynarodową Organizację Policji Kryminalnej – Interpol;
 - **2)** pilny charakter wniosku o udzielenie informacji wymaga tymczasowego wykorzystania innego dostępnego kanału komunikacji;
 - **3)** ze względów technicznych lub operacyjnych nie jest możliwe wykorzystanie kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA;
-- **4)** przepisy umów dwustronnych lub wielostronnych w większym stopniu ułatwiają wymianę informacji z organami ścigania państw członkowskich Unii Europejskiej.>
+- **4)** przepisy umów dwustronnych lub wielostronnych w większym stopniu ułatwiają wymianę informacji z organami ścigania państw członkowskich Unii Europejskiej.
 
 **Art. 12.**
 

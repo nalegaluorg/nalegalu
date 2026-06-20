@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Państwowej Straży Pożarnej
+# Ustawa z dnia 23 stycznia 2003 r o zmianie ustawy o Państwowej Straży Pożarnej
 
 *USTAWA z dnia 23 stycznia 2003 r.*
 

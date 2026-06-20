@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Planie Rozwoju
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Planie Rozwoju
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +27,6 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2019 r. poz. 1465), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 września 2019 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 listopada 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 89, art. 90 i art. 109 ustawy z dnia 11 września 2019 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
-Art. 62–67. (pominięte)
 
 **Art. 90.**
 
@@ -902,6 +901,8 @@ Art. 62–67. (pominięte)
 4. Pełna ocena po zakończeniu realizacji Planu i programów, o których mowa w art. 8 ust. 1 pkt 1 i 3, finansowanych z publicznych środków krajowych, oraz kontraktów, jest przeprowadzona nie później niż w ciągu roku następującego po zakończeniu ich realizacji.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 62–67.** (pominięte)
 
 **Art. 68.**
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa
+# Ustawa z dnia 16 marca 2012 r. o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa
 
 *USTAWA z dnia 16 marca 2012 r.*
 

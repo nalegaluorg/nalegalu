@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ochronie i pomocy dla pokrzywdzonego i świadka
+# Ustawa z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka
 
 *USTAWA z dnia 28 listopada 2014 r.*
 
@@ -26,40 +26,6 @@ source: pdf
 | Data wydania | 2015-01-07 |
 | Ostatnia zmiana | 2025-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/21/text.pdf) |
-
-Art. 611wd. § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
-§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148 § 2b i 2c.
-§ 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
-§ 4. Jeżeli wniosek o wydanie nakazu został skierowany przez osobę podlegającą ochronie na podstawie orzeczenia wydanego w innym państwie członkowskim Unii Europejskiej bezpośrednio do polskiego prokuratora, z pominięciem właściwego organu, prokurator przekazuje wniosek właściwemu sądowi lub innemu organowi w państwie, w którym wydano orzeczenie wobec osoby, przeciwko której jest lub było prowadzone postępowanie karne.
-§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu nakazu stosuje się przepisy prawa polskiego.
-Art. 611we. § 1. Jeżeli państwo wydania nakazu nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania europejskiego nakazu ochrony, prokurator wzywa właściwy sąd lub inny organ państwa wydania nakazu do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania nakazu wydaje się w oparciu o posiadane informacje.
-§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której jest lub było prowadzone postępowanie karne.
-Art. 611wf. § 1. Na postanowienie prokuratora w przedmiocie wykonania europejskiego nakazu ochrony przysługuje zażalenie do sądu rejonowego, w którego okręgu wydano to postanowienie. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba, przeciwko której jest lub było prowadzone postępowanie karne, i osoba podlegająca ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej, oraz obrońca i pełnomocnik, jeżeli stawią się na nie. Jeżeli osoba, przeciwko której jest lub było prowadzone postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej ani nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
-§ 2. Do wykonania nakazu prokurator przystępuje niezwłocznie.
-Art. 611wg. § 1. Odmawia się wykonania europejskiego nakazu ochrony, jeżeli osoba podlegająca ochronie nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że zamierza na nim przebywać.
-§ 2. Można odmówić wykonania nakazu, jeżeli:
-1) czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego,
-2) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia,
-3) orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący,
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich,
-5) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym,
-6) osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia,
-7) osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków,
-8) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1,
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
-Art. 611wh. § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o tym, iż europejski nakaz ochrony nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania.
-§ 2. Jeżeli dalsze wykonywanie nakazu nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu, osobę, przeciwko której jest lub było prowadzone postępowanie karne, oraz osobę podlegającą ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej.
-§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o zmianie obowiązku nałożonego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego nakazu na zasadach określonych w niniejszym rozdziale. Przepisu art. 611wg nie stosuje się, z wyjątkiem § 1 i § 2 pkt 2 i 8.
-Art. 611wi. § 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
-§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku.
-Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
-§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r.
-poz. 21).
-§ 4. W razie ustania przyczyn nałożenia obowiązku lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania nakazu o uchylenie lub zmianę nakazu.
-§ 5. Zawiadomienia, o których mowa w § 1 i 2, oraz wystąpienie, o którym mowa w § 4, mogą zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
-§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
-Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
-19) w art. 613 § 1 otrzymuje brzmienie: „§ 1. Z wyjątkiem wypadków określonych w art. 592a–592f i w art. 595 oraz w rozdziałach 62a, 62b, 65a–65d, 66a–66d i 66f–66k z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579 sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby za pośrednictwem ministra właściwego do spraw zagranicznych.”.
 
 **Art. 1.**
 
@@ -322,13 +288,87 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
 
 § 6. W razie trudności w ustaleniu właściwego sądu lub innego organu państwa wykonania nakazu sąd lub prokurator może również zwracać się do właściwych jednostek organizacyjnych Europejskiej Sieci Sądowej lub Eurojust.
 
-§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu. Art. 611wa. Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w
+§ 7. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór europejskiego nakazu ochrony, mając na uwadze konieczność udostępnienia państwu wykonania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji w przedmiocie wykonania nakazu.
 
-§ 1. Art. 611wb. § 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
+**Art. 611wa.** Wystąpienie o wykonanie europejskiego nakazu ochrony nie wstrzymuje wykonywania środka lub obowiązku, o którym mowa w art. 611w
 
-§ 2. Zawiadomienie, o którym mowa w § 1, może zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów. Art. 611wc. Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochrony zażalenie nie przysługuje.
+§ 1
+
+**Art. 611wb.**
+
+§ 1. W razie zmiany lub uchylenia środka lub obowiązku, o którym mowa w art. 611w § 1, sąd lub prokurator niezwłocznie zawiadamia o tym właściwy sąd lub inny organ państwa wykonania nakazu.
+
+§ 2. Zawiadomienie, o którym mowa w § 1, może zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+**Art. 611wc.** Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochrony zażalenie nie przysługuje.
 
 #### Rozdział 66k Wystąpienie państwa członkowskiego Unii Europejskiej o wykonanie europejskiego nakazu ochrony
+
+**Art. 611wd.**
+
+§ 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania nakazu”, o wykonanie europejskiego nakazu ochrony, wydanego na podstawie orzeczenia nakładającego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, obowiązek polegający na powstrzymaniu się od przebywania w określonych środowiskach lub miejscach lub kontaktowania się z określonymi osobami, lub zbliżania się do określonych osób, nakaz ten podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na miejsce pobytu osoby podlegającej ochronie.
+
+§ 2. Nakaz powinien zawierać informacje umożliwiające jego prawidłowe wykonanie. Do nakazu powinno być dołączone orzeczenie, o którym mowa w § 1, lub jego odpis poświadczony za zgodność z oryginałem. W odniesieniu do zawartych w nakazie danych dotyczących miejsca pobytu i pracy osoby podlegającej ochronie stosuje się odpowiednio art. 148 § 2b i 2c.
+
+§ 3. Jeżeli prokurator, do którego został skierowany nakaz, nie jest właściwy do nadania mu biegu, przekazuje go właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu.
+
+§ 4. Jeżeli wniosek o wydanie nakazu został skierowany przez osobę podlegającą ochronie na podstawie orzeczenia wydanego w innym państwie członkowskim Unii Europejskiej bezpośrednio do polskiego prokuratora, z pominięciem właściwego organu, prokurator przekazuje wniosek właściwemu sądowi lub innemu organowi w państwie, w którym wydano orzeczenie wobec osoby, przeciwko której jest lub było prowadzone postępowanie karne.
+
+§ 5. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu nakazu stosuje się przepisy prawa polskiego.
+
+**Art. 611we.**
+
+§ 1. Jeżeli państwo wydania nakazu nie przekazało wszystkich informacji potrzebnych do podjęcia decyzji w przedmiocie wykonania europejskiego nakazu ochrony, prokurator wzywa właściwy sąd lub inny organ państwa wydania nakazu do ich uzupełnienia we wskazanym terminie. W razie niedotrzymania terminu postanowienie w przedmiocie wykonania nakazu wydaje się w oparciu o posiadane informacje.
+
+§ 2. Jeżeli rodzaj albo sposób wykonania obowiązków są nieznane ustawie, prokurator określa obowiązek według prawa polskiego, z uwzględnieniem różnic na korzyść osoby, przeciwko której jest lub było prowadzone postępowanie karne.
+
+**Art. 611wf.**
+
+§ 1. Na postanowienie prokuratora w przedmiocie wykonania europejskiego nakazu ochrony przysługuje zażalenie do sądu rejonowego, w którego okręgu wydano to postanowienie. Sąd rozpoznaje zażalenie na posiedzeniu, w którym ma prawo wziąć udział prokurator, osoba, przeciwko której jest lub było prowadzone postępowanie karne, i osoba podlegająca ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej, oraz obrońca i pełnomocnik, jeżeli stawią się na nie. Jeżeli osoba, przeciwko której jest lub było prowadzone postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej ani nie posiada obrońcy, prezes sądu właściwego do rozpoznania zażalenia może jej wyznaczyć obrońcę z urzędu.
+
+§ 2. Do wykonania nakazu prokurator przystępuje niezwłocznie.
+
+**Art. 611wg.**
+
+§ 1. Odmawia się wykonania europejskiego nakazu ochrony, jeżeli osoba podlegająca ochronie nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że zamierza na nim przebywać.
+
+§ 2. Można odmówić wykonania nakazu, jeżeli:
+
+- **1)** czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego,
+- **2)** pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia,
+- **3)** orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący,
+- **4)** według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich,
+- **5)** orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym,
+- **6)** osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia,
+- **7)** osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków,
+- **8)** orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1,
+- **9)** przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
+
+**Art. 611wh.**
+
+§ 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o tym, iż europejski nakaz ochrony nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania.
+
+§ 2. Jeżeli dalsze wykonywanie nakazu nie jest możliwe z przyczyn faktycznych lub prawnych, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania i zawiadamia o tym właściwy sąd lub inny organ państwa wydania nakazu, osobę, przeciwko której jest lub było prowadzone postępowanie karne, oraz osobę podlegającą ochronie, jeżeli przebywają na terytorium Rzeczypospolitej Polskiej.
+
+§ 3. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o zmianie obowiązku nałożonego na osobę, przeciwko której jest lub było prowadzone postępowanie karne, prokurator rozpoznaje sprawę wykonania zmienionego nakazu na zasadach określonych w niniejszym rozdziale. Przepisu art. 611wg nie stosuje się, z wyjątkiem § 1 i § 2 pkt 2 i 8.
+
+**Art. 611wi.**
+
+§ 1. O treści postanowienia w przedmiocie wykonania europejskiego nakazu ochrony, o wniesieniu środka odwoławczego od tego postanowienia, o istotnych orzeczeniach zapadłych w trakcie postępowania, jak również o zmianie miejsca pobytu osoby, przeciwko której jest lub było prowadzone postępowanie karne, albo osoby podlegającej ochronie zawiadamia się niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu.
+
+§ 2. Prokurator zawiadamia niezwłocznie właściwy sąd lub inny organ państwa wydania nakazu o wszelkich okolicznościach mających wpływ na jego wykonanie, w szczególności o naruszeniu nałożonego obowiązku. Zawiadomienie o naruszeniu tego obowiązku następuje w formie zaświadczenia zawierającego informacje dotyczące osoby, przeciwko której jest lub było prowadzone postępowanie karne, oraz naruszonego obowiązku.
+
+§ 3. W razie uzyskania informacji o naruszeniu nałożonego obowiązku prokurator może przedsięwziąć osobiście lub zlecić Policji sprawdzenie faktów w tym zakresie. Za zgodą osoby podlegającej ochronie prokurator może również wystąpić do właściwego komendanta Policji z wnioskiem o zastosowanie środków ochrony i pomocy przewidzianych w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21).
+
+§ 4. W razie ustania przyczyn nałożenia obowiązku lub powstania przyczyn uzasadniających jego uchylenie lub zmianę prokurator może wystąpić do właściwego sądu lub innego organu państwa wydania nakazu o uchylenie lub zmianę nakazu.
+
+§ 5. Zawiadomienia, o których mowa w § 1 i 2, oraz wystąpienie, o którym mowa w § 4, mogą zostać przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.
+
+§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w § 2, mając na uwadze konieczność udostępnienia państwu wydania nakazu wszelkich niezbędnych informacji umożliwiających podjęcie prawidłowej decyzji.
+
+**Art. 611wj.** Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.”;
+
+- **19)** w art. 613 § 1 otrzymuje brzmienie: „§ 1. Z wyjątkiem wypadków określonych w art. 592a–592f i w art. 595 oraz w rozdziałach 62a, 62b, 65a–65d, 66a–66d i 66f–66k z mającymi siedzibę za granicą organami obcego państwa oraz z osobami wymienionymi w art. 578 oraz w art. 579 sądy i prokuratorzy każdorazowo porozumiewają się, w tym przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby za pośrednictwem ministra właściwego do spraw zagranicznych.”.
 
 **Art. 21.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
 

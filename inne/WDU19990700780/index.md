@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniające rozporządzenie w sprawie zasad organizowania przetargu środków trwałych przez przedsiębiorstwa państwowe oraz warunków odstąpienia od przetargu.
+# Rozporządzenie Rady Ministrów z dnia 4 sierpnia 1999 r. zmieniające rozporządzenie w sprawie zasad organizowania przetargu na sprzedaż środków trwałych przez przedsiębiorstwa państwowe oraz warunków odstąpienia od przetargu
 
 | Pole | Wartość |
 |---|---|

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz ustawy o Krajowej Administracji Skarbowej
+# Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz ustawy o Krajowej Administracji Skarbowej
 
 *USTAWA z dnia 5 sierpnia 2022 r.*
 

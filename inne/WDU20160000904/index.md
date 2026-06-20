@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o działaniach antyterrorystycznych
+# Ustawa z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych
 
 *USTAWA z dnia 10 czerwca 2016 r.*
 
@@ -26,8 +26,6 @@ source: pdf
 | Data wydania | 2016-06-24 |
 | Ostatnia zmiana | 2025-08-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000904) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/904/text.pdf) |
-
-Art. 27–58. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -521,6 +519,8 @@ Art. 27–58. (pominięte)
 **Art. 26h.** Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja Szefa ABW, o której mowa w art. 26f ust. 2, stała się prawomocna.
 
 #### Rozdział 6 Zmiany w przepisach
+
+**Art. 27–58.** (pominięte)
 
 #### Rozdział 7 Przepisy przejściowe, dostosowujące i przepis końcowy
 

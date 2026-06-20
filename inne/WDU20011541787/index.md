@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# zmieniająca ustawę - Prawo o ustroju sądów powszechnych, ustawę o prokuraturze oraz ustawę o kuratorach sądowych
+# Ustawa z dnia 14 grudnia 2001 r. zmieniająca ustawę - Prawo o ustroju sądów powszechnych, ustawę o prokuraturze oraz ustawę o kuratorach sądowych.
 
 *USTAWA z dnia 14 grudnia 2001 r.*
 

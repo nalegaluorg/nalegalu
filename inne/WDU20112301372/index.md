@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o transporcie kolejowym
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transporcie kolejowym
 
 *USTAWA z dnia 16 września 2011 r.*
 
@@ -437,7 +437,11 @@ source: pdf
 
 7. Producent podsystemu albo jego upoważniony przedstawiciel, zarządca, przewoźnik kolejowy, dysponent, importer, inwestor albo podmiot zamawiający dołącza dokumentację związaną z oceną zgodności do deklaracji weryfikacji WE podsystemu, którą przesyła Prezesowi UTK oraz właściwemu organowi każdego państwa członkowskiego Unii Europejskiej, które o to wystąpi.
 
-8. Dokumentację i korespondencję związaną z oceną zgodności przedstawianą Prezesowi UTK sporządza się w języku polskim. Art. 25cb. 1. Notyfikowana jednostka certyfikująca dokonuje weryfikacji WE podsystemu z zasadniczymi wymaganiami dotyczącymi interoperacyjności systemu kolei określonymi w przepisach wydanych na podstawie art. 25ta ust. 1.
+8. Dokumentację i korespondencję związaną z oceną zgodności przedstawianą Prezesowi UTK sporządza się w języku polskim.
+
+**Art. 25cb.**
+
+1. Notyfikowana jednostka certyfikująca dokonuje weryfikacji WE podsystemu z zasadniczymi wymaganiami dotyczącymi interoperacyjności systemu kolei określonymi w przepisach wydanych na podstawie art. 25ta ust. 1.
 
 2. Na wniosek producenta podsystemu albo jego upoważnionego przedstawiciela, zarządcy, przewoźnika kolejowego, dysponenta, importera, inwestora albo podmiotu zamawiającego, notyfikowana jednostka certyfikująca, na podstawie TSI dokonuje weryfikacji WE podsystemu z zasadniczymi wymaganiami dotyczącymi interoperacyjności systemu kolei.
 
@@ -473,7 +477,12 @@ source: pdf
 - **2)** wykaz składników interoperacyjności zawartych w podsystemie, określonych w przepisach wydanych na podstawie art. 25ta ust. 1;
 - **3)** kopie deklaracji WE zgodności lub przydatności do stosowania składnika interoperacyjności oraz kopie protokołów prób i badań przeprowadzonych przez jednostki notyfikowane na podstawie specyfikacji technicznych;
 - **4)** pośrednie deklaracje weryfikacji WE podsystemu wydane przez notyfikowaną jednostkę certyfikującą;
-- **5)** certyfikat weryfikacji WE podsystemu wydany przez notyfikowaną jednostkę certyfikującą. Art. 25cc. 1. Składniki interoperacyjności spełniają następujące wymagania:
+- **5)** certyfikat weryfikacji WE podsystemu wydany przez notyfikowaną jednostkę certyfikującą.
+
+**Art. 25cc.**
+
+1. Składniki interoperacyjności spełniają następujące wymagania:
+
 - **1)** są dopuszczone do eksploatacji, w przypadku gdy umożliwiają osiągnięcie interoperacyjności w ramach systemu kolei przy jednoczesnym spełnianiu zasadniczych wymagań dotyczących interoperacyjności systemu kolei;
 - **2)** są użytkowane na przeznaczonym dla nich obszarze użytkowania oraz są odpowiednio zamontowane i utrzymywane;
 - **3)** posiadają deklaracje WE zgodności lub przydatności do stosowania składnika interoperacyjności z zasadniczymi wymaganiami dotyczącymi interoperacyjności systemu kolei określonymi w TSI oraz w przepisach wydanych na podstawie art. 25t.
