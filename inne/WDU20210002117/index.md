@@ -594,7 +594,7 @@ source: pdf
 **Art. 24c.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób korzystania z e-Doradcy, w tym:
 
 - **1)** udostępniania kont użytkowników,
-- **2)** uwierzytelniania użytkowników, < Art. 25. 1. Za:
+- **2)** uwierzytelniania użytkowników, 3) potwierdzania składania i doręczania pism w sprawach dotyczących egzaminu na doradcę podatkowego między Komisją Egzaminacyjną a kandydatem na doradcę podatkowego – mając na względzie potrzebę zapewnienia elektronicznej formy przeprowadzenia egzaminu i usprawnienia komunikacji między użytkownikami kont, z zachowaniem bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem. < Art. 25. 1. Za:
 - **1)** złożenie wniosku, o którym mowa w art. 21 ust. 1, i wniosku, o którym mowa w art. 24 ust. 6, pobiera się opłatę wstępną nie wyższą niż równowartość minimalnego wynagrodzenia;
 - **2)** egzamin na doradcę podatkowego pobiera się opłaty egzaminacyjne, oddzielnie za część pisemną i ustną egzaminu, przy czym każda z tych opłat nie może być wyższa niż równowartość minimalnego wynagrodzenia.
 
