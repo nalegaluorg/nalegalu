@@ -201,7 +201,7 @@ source: pdf
 - **2)** stosuje kasy rejestrujące posiadające pozytywną opinię ministra właściwego do spraw finansów publicznych, które umożliwiają określenie kwoty dopłat do przewozów w podziale na poszczególne kategorie ulg ustawowych;
 - **3)** zawarł umowę z samorządem województwa określającą zasady przekazywania przewoźnikom dopłat.
 
-5. Zmiany w programach kas rejestrujących, uwzględniających zasady określone w ust. 3 i 4 pkt 2, wymagają uzyskania pozytywnej opinii ministra właściwego do spraw finansów publicznych.
+5. Zmiany w programach kas rejestrujących, uwzględniających zasady określone w ust. 3 i 4 pkt 2, wymagają uzyskania pozytywnej opinii ministra właściwego do spraw finansów publicznych. 6. Zasad finansowania określonych w ust. 1–4 nie stosuje się do przejazdów dzieci do lat 4 objętych ulgą 100 %.]
 
 **Art. 9.**
 

@@ -86,6 +86,7 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 | CID font | Uszkodzone glify — plik PDF używa wewnętrznych identyfikatorów znaków zamiast tekstu | dowolne wystąpienie `(cid:N)` |
 | Null bytes | Bajty zerowe w pliku wyjściowym | dowolne wystąpienie |
 | Pusty dokument | Treść zbyt krótka po ekstrakcji | < 50 znaków |
+| Struktura artykułów | Utrata treści lub znaczników w strukturze aktu — np. pusty artykuł `Art. N.`, znikające ustępy albo punkty | dowolna niespójność AST ↔ Markdown |
 | PostScript CE | Pozostałości kodowania PostScript CE — zniekształcone polskie znaki diakrytyczne | 1 wzorzec |
 | Mojibake | UTF-8 odczytane jako Latin-1 — ciągi typu `Ä\u0085`, `Ã³` | 3+ wystąpienia |
 | Brak diakrytyków | Tekst prawny bez polskich znaków diakrytycznych (ą, ę, ś, ć...) | < 0.5% liter to diakrytyki (dla tekstów > 500 znaków) |
@@ -97,9 +98,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 250 tests — 250 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 267 tests — 267 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-06-18 10:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-06-20 12:39 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -125,7 +126,7 @@ Ostatni przebieg: 2026-06-18 10:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 *Od 2026-05-18: +5,940 aktów*
 
-*Ostatnia aktualizacja: 2026-06-20*
+*Ostatnia aktualizacja: 2026-06-23*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -136,4 +137,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*19261 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-06-20*
+*19261 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-06-23*
