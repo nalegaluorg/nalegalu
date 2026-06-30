@@ -8,12 +8,10 @@ pos: 384
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,12 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-12 |
 | Data wydania | 2026-03-20 |
-| Ostatnia zmiana | 2026-03-25 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/384/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274), z uwzględnieniem stanu prawnego na dzień 10 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006);
-2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
+2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
 3) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o ewidencji ludności (Dz. U. poz. 1176);
 4) ustawą z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216);
 5) ustawą z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301);
@@ -40,11 +38,58 @@ source: "isap-pdf"
 
 **Art. 8.** „4. Do spraw, o których mowa w art. 23o oraz art. 51 ust. 1 i 2 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 23o oraz art. 51 ust. 1 i 2 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
+- **1)** art. 3 pkt 2 lit. a i b oraz pkt 3, art. 4 pkt 2, 4 i 5 oraz art. 9, które wchodzą w życie z dniem 30 czerwca 2026 r.;
+- **2)** art. 6, który wchodzi w życie z dniem 17 kwietnia 2026 r.”;
+- **2)** art. 5 oraz art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191), które stanowią: „Art. 5. Bank i spółdzielcza kasa oszczędnościowo-kredytowa posiadające w dniu wejścia w życie niniejszej ustawy dostęp do danych na podstawie decyzji, o której mowa w art. 51 ust. 2 pkt 1 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, uzyskują dostęp do danych określonych w art. 49 ust. 2aa ustawy zmienianej w art. 4 bez konieczności składania pisemnego wniosku do ministra właściwego do spraw informatyzacji.
+
 **Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+
+- **3)** art. 3 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o ewidencji ludności (Dz. U. poz. 1176), który stanowi: „Art. 3. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+- **4)** art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+- **5)** art. 29 ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), który stanowi: „Art. 29. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+- **1)** art. 5, art. 6, art. 10 pkt 11 i 14 oraz art. 19, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 4, art. 7, art. 9 pkt 1 i 3–5, art. 10 pkt 13 lit. b oraz art. 11, które wchodzą w życie z dniem 1 lutego 2026 r.;
+- **3)** art. 10 pkt 3 lit. c, która wchodzi w życie z dniem 1 marca 2026 r.;
+- **4)** art. 10 pkt 7 lit. a i c–j, które wchodzą w życie z dniem 1 listopada 2025 r.;
+- **5)** art. 10 pkt 18 i 19, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **6)** art. 12, art. 17 i art. 19 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 1794), które stanowią: „Art. 12. Do postępowań w sprawach uregulowanych w ustawach zmienianych niniejszą ustawą wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 3–5, 8–41, 44 lit. b, pkt 47–49, 50 i 52, art. 2, art. 5–7, art. 8 pkt 1 lit. b oraz c, art. 10, art. 11, art. 13, art. 14 oraz art. 18 ust. 1 i 2 stosuje się przepisy dotychczasowe.” „Art. 17. 1. Minister właściwy do spraw wewnętrznych ogłosi w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających stosowanie przepisów:
+- **1)** art. 3 pkt 2a, art. 7 ust. 4, art. 13 pkt 11, 17–18b, 18d–19a i 27–30, art. 64a ust. 1 i 10–12, art. 104 ust. 1–1b, art. 105–106l, art. 107 ust. 1, art. 108 ust. 1 pkt 1 i ust. 3–10, art. 112a ust. 2 pkt 3, ust. 3 pkt 2 i ust. 3a, art. 114 ust. 1 pkt 4 i ust. 4b, art. 120a ust. 1–3, art. 139l ust. 2, art. 139t ust. 2, art. 168 ust. 2, art. 168a ust. 2, art. 202–203i, art. 204 ust. 1, art. 206 ust. 1 pkt 1 i ust. 3–9, art. 210 ust. 2 pkt 3, art. 218a–219i, art. 222 ust. 1, art. 222a–222g, art. 225a–225i, art. 228 pkt 2, art. 244 ust. 3, art. 246 ust. 3, art. 248 ust. 1–2a, 4 i 5, art. 279 oraz art. 282 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 12d ust. 3a i 6–8 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą;
+- **3)** art. 8 pkt 24, art. 10 ust. 8, art. 23i ust. 1a, art. 23j ust. 2 pkt 2 lit. b oraz art. 43 ust. 3 i 5 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą;
+- **4)** art. 4 ust. 2 pkt 5 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą;
+- **5)** art. 343a ust. 1 pkt 3 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą;
+- **6)** art. 42 ust. 16 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą;
+- **7)** art. 1 ust. 3 pkt 5 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą;
+- **8)** art. 3 ust. 1 pkt 18 i ust. 3 pkt 2 ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą.
+
+2. Komunikat ogłasza się w terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.” „Art. 19. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 9 i art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 3–5, 8–41, 44 lit. b, pkt 47–50 i 52, art. 2, art. 5–7, art. 8 pkt 1 lit. b oraz c, art. 10, art. 11, art. 13, art. 14 oraz art. 18 ust. 1 i 2, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 17;
+- **3)** art. 1 pkt 42, 43, 44 lit. a, pkt 45, 46, 51, 59 lit. a tiret pierwsze, pkt 60 lit. a, pkt 61 lit. a i pkt 63, które wchodzą w życie z dniem 1 kwietnia 2026 r.;
+- **4)** art. 8 pkt 2 i 3, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **7)** art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem:
+- **1)** art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.;
+- **2)** art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.;
+- **3)** art. 14, który wchodzi w życie z dniem 1 września 2027 r.;
+- **4)** art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 24 września 2010 r. o ewidencji ludności
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i sposób prowadzenia ewidencji ludności w Rzeczypospolitej Polskiej;
+- **2)** zakres i zasady rejestracji danych gromadzonych w Powszechnym Elektronicznym Systemie Ewidencji Ludności i w rejestrach mieszkańców;
+- **3)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **4)** zasady wykonywania obowiązku meldunkowego przez obywateli polskich i cudzoziemców;
+- **5)** zasady udostępniania danych z Powszechnego Elektronicznego Systemu Ewidencji Ludności oraz rejestrów, o których mowa w pkt 2;
+- **6)** zasady i tryb zastrzegania i cofania zastrzeżenia numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **7)** zasady i sposób prowadzenia rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **8)** zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **9)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności beneficjentom ochrony czasowej;
+- **10)** zasady i tryb zarządzania statusem beneficjenta ochrony czasowej;
+- **11)** zasady i sposób prowadzenia rejestru beneficjentów ochrony czasowej;
+- **12)** zasady i tryb udostępniania danych z rejestru beneficjentów ochrony czasowej.
 
 **Art. 2.** Ewidencja ludności polega na rejestracji określonych w ustawie podstawowych danych identyfikujących tożsamość oraz status administracyjnoprawny osób fizycznych.
 
@@ -118,36 +163,75 @@ source: "isap-pdf"
 
 **Art. 8.** W rejestrze PESEL i rejestrach mieszkańców gromadzone są następujące dane:
 
+- **1)** nazwisko i imię (imiona);
+- **2)** nazwisko rodowe;
+- **3)** imiona i nazwiska rodowe rodziców;
+- **3a)** numery PESEL rodziców, jeżeli zostały im nadane;
+- **4)** data urodzenia;
+- **5)** miejsce urodzenia;
+- **6)** kraj urodzenia;
+- **7)** stan cywilny;
+- **8)** oznaczenie aktu urodzenia i urzędu stanu cywilnego, w którym został on sporządzony;
+- **9)** płeć;
+- **10)** numer PESEL;
+- **11)** obywatelstwo albo status bezpaństwowca;
+- **12)** imię i nazwisko rodowe oraz numer PESEL małżonka, jeżeli został mu nadany;
+- **13)** data zawarcia związku małżeńskiego, oznaczenie aktu małżeństwa i urzędu stanu cywilnego, w którym został on sporządzony, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, sygnatura akt i oznaczenie sądu, który ustalił nieistnienie małżeństwa, sygnatura akt i oznaczenie sądu, który unieważnił małżeństwo, data zgonu małżonka albo data znalezienia jego zwłok, oznaczenie jego aktu zgonu i urzędu stanu cywilnego, w którym ten akt został sporządzony;
+- **14)** adres i data zameldowania na pobyt stały;
+- **15)** kraj miejsca zamieszkania;
+- **16)** kraj poprzedniego miejsca zamieszkania;
+- **17)** data wymeldowania z miejsca pobytu stałego;
+- **18)** adres i data zameldowania na pobyt czasowy oraz data upływu deklarowanego terminu pobytu;
+- **19)** data wymeldowania z miejsca pobytu czasowego;
+- **20)** data wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy i wskazanie kraju wyjazdu;
+- **20a)** przewidywany okres pobytu poza granicami Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **21)** data powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **22)** seria, numer i data ważności ostatniego wydanego dowodu osobistego obywatela polskiego oraz oznaczenie organu wydającego dokument;
+- **23)** seria, numer i data ważności ostatniego wydanego paszportu obywatela polskiego;
+- **24)** seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203), oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;
+- **24)** seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo albo innego ważnego dokumentu potwierdzającego tożsamość – w przypadku, o którym mowa w art. 10 ust. 8, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203), oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;
+- **24a)** status cudzoziemca oznaczony jako:
+    - **a)** UE – w przypadku cudzoziemca będącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
+    - **b)** CUE – w przypadku cudzoziemca będącego członkiem rodziny cudzoziemca, o którym mowa w lit. a, niebędącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
+    - **c)** NUE – w przypadku cudzoziemca niewymienionego w lit. a i b,
+    - **c)** NUE – w przypadku cudzoziemca niewymienionego w lit. a, b, d oraz e,
+    - **d)** UKR – w przypadku beneficjenta ochrony czasowej, któremu nadano numer PESEL na podstawie art. 110a ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203);
+    - **e)** CUKR – w przypadku osoby, która zmieniła status UKR w trybie określonym w art. 42 ust. 13, art. 42c lub art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa;
+
+- **24b)** przyczyna nadania lub utraty statusu, o którym mowa w pkt 24a lit. d;
+- **25)** (uchylony)
+- **26)** data zgonu albo data znalezienia zwłok, numer aktu zgonu i oznaczenie urzędu stanu cywilnego, w którym ten akt został sporządzony.
+
 **Art. 9.**
 
-1. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–23 i 26, a dane, o których mowa w art. 8 pkt 3a o ile są dostępne.
+1. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–23 i 26, a dane, o których mowa w art. 8 pkt 3a – o ile są dostępne.
 
-2. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 2, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–11, 15 i 23, a dane, o których mowa w art. 8 pkt 3a, 12, 13, 22 i 26 o ile są dostępne.
+2. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 2, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–11, 15 i 23, a dane, o których mowa w art. 8 pkt 3a, 12, 13, 22 i 26 – o ile są dostępne.
 
-3. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 3, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 14–17, 24 i 24a, a dane, o których mowa w art. 8 pkt 3, 3a, 5, 7, 8, 12, 13, 18–21, 24b i 26 o ile są dostępne.
+3. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 3, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 14–17, 24 i 24a, a dane, o których mowa w art. 8 pkt 3, 3a, 5, 7, 8, 12, 13, 18–21, 24b i 26 – o ile są dostępne.
 
-4. W stosunku do osób, o których mowa w art. 7 ust. 2, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 15, 23–24a, a dane, o których mowa w art. 8 pkt 2–3a, 5, 7, 8, 12, 13, 22, 24b i 26 o ile są dostępne.
+4. W stosunku do osób, o których mowa w art. 7 ust. 2, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 15, 23–24a, a dane, o których mowa w art. 8 pkt 2–3a, 5, 7, 8, 12, 13, 22, 24b i 26 – o ile są dostępne.
 
 **Art. 10.**
 
 1. Rejestracji danych w rejestrze PESEL dokonują:
 
-- **1)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu urodzenia i dokonywania w nim zmian oraz sporządzenia przypisku przy tym akcie w zakresie danych, o których mowa w art. 8 pkt 1–11, 13–15, 18 i 26;
-- **2)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu małżeństwa i dokonywania w nim zmian oraz sporządzenia przypisku przy tym akcie w zakresie danych, o których mowa w art. 8 pkt 1, 7, 12, 13 i 26;
-- **3)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu zgonu i dokonywania w nim zmian w zakresie danych, o których mowa w art. 8 pkt 7, 13, 17, 19 i 26;
-- **3a)** kierownik urzędu stanu cywilnego, do którego wpłynął zagraniczny dokument stanu cywilnego lub inny dokument wydany w państwie, w którym nie jest prowadzona rejestracja stanu cywilnego, jeżeli osoba, której nadano numer PESEL, nie ma polskich aktów stanu cywilnego w zakresie zmiany danych, o których mowa w art. 8 pkt 7, 13 i 26;
-- **4)** kierownik urzędu stanu cywilnego, który wydał decyzję o zmianie imienia i nazwiska w zakresie danych, o których mowa w art. 8 pkt 1 i 2;
-- **5)** organ gminy właściwy do zameldowania na pobyt stały i czasowy obywatela polskiego w zakresie danych, o których mowa w art. 8 pkt 14–21;
-- **6)** wojewoda lub minister właściwy do spraw wewnętrznych, każdy zgodnie ze swoją właściwością w zakresie danych, o których mowa w art. 8 pkt 11;
-- **7)** organ gminy właściwy do wydania dowodu osobistego w zakresie danych, o których mowa w art. 8 pkt 22;
-- **8)** organy właściwe do wydania paszportu w zakresie danych, o których mowa w art. 8 pkt 23;
-- **9)** organ gminy właściwy do zameldowania na pobyt stały i czasowy cudzoziemca w zakresie danych, o których mowa w art. 8 pkt 1, 3–7, 9–21, 24–24b i 26;
-- **9a)** organ gminy właściwy do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178) w zakresie danych, o których mowa w art. 8 pkt 1, 3–13, 24 i 24a;
-- **10)** organ gminy właściwy do złożenia wniosku o nadanie numeru PESEL, w stosunku do osób, o których mowa w art. 7 ust. 2 w zakresie danych, o których mowa w art. 8 pkt 1–13, 15 i 22–24b.
+- **1)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu urodzenia i dokonywania w nim zmian oraz sporządzenia przypisku przy tym akcie – w zakresie danych, o których mowa w art. 8 pkt 1–11, 13–15, 18 i 26;
+- **2)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu małżeństwa i dokonywania w nim zmian oraz sporządzenia przypisku przy tym akcie – w zakresie danych, o których mowa w art. 8 pkt 1, 7, 12, 13 i 26;
+- **3)** kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu zgonu i dokonywania w nim zmian – w zakresie danych, o których mowa w art. 8 pkt 7, 13, 17, 19 i 26;
+- **3a)** kierownik urzędu stanu cywilnego, do którego wpłynął zagraniczny dokument stanu cywilnego lub inny dokument wydany w państwie, w którym nie jest prowadzona rejestracja stanu cywilnego, jeżeli osoba, której nadano numer PESEL, nie ma polskich aktów stanu cywilnego – w zakresie zmiany danych, o których mowa w art. 8 pkt 7, 13 i 26;
+- **4)** kierownik urzędu stanu cywilnego, który wydał decyzję o zmianie imienia i nazwiska – w zakresie danych, o których mowa w art. 8 pkt 1 i 2;
+- **5)** organ gminy właściwy do zameldowania na pobyt stały i czasowy obywatela polskiego – w zakresie danych, o których mowa w art. 8 pkt 14–21;
+- **6)** wojewoda lub minister właściwy do spraw wewnętrznych, każdy zgodnie ze swoją właściwością – w zakresie danych, o których mowa w art. 8 pkt 11;
+- **7)** organ gminy właściwy do wydania dowodu osobistego – w zakresie danych, o których mowa w art. 8 pkt 22;
+- **8)** organy właściwe do wydania paszportu – w zakresie danych, o których mowa w art. 8 pkt 23;
+- **9)** organ gminy właściwy do zameldowania na pobyt stały i czasowy cudzoziemca – w zakresie danych, o których mowa w art. 8 pkt 1, 3–7, 9–21, 24–24b i 26;
+- **9a)** organ gminy właściwy do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178) – w zakresie danych, o których mowa w art. 8 pkt 1, 3–13, 24 i 24a;
+- **10)** organ gminy właściwy do złożenia wniosku o nadanie numeru PESEL, w stosunku do osób, o których mowa w art. 7 ust. 2 – w zakresie danych, o których mowa w art. 8 pkt 1–13, 15 i 22–24b.
 
 2. Organy, o których mowa w ust. 1 pkt 1–4 i 6–8, mogą przekazywać dane do rejestru PESEL za pośrednictwem rejestrów centralnych gromadzących dane dotyczące dowodów osobistych, paszportów, obywatelstwa i rejestracji stanu cywilnego.
 
-3. Dane z rejestru PESEL są przekazywane do rejestrów mieszkańców oraz do rejestrów centralnych, o których mowa w ust. 2, oraz do Centralnego Rejestru Wyborców, o którym mowa w przepisach ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy.
+3. Dane z rejestru PESEL są przekazywane do rejestrów mieszkańców oraz do rejestrów centralnych, o których mowa w ust. 2, oraz do Centralnego Rejestru Wyborców, o którym mowa w przepisach ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
 
 4. Organy, o których mowa w ust. 1, niezwłocznie dokonują rejestracji danych za pośrednictwem systemu teleinformatycznego. W przypadku braku bezpośredniego dostępu do rejestrów spowodowanego przyczynami niezależnymi od organu rejestracji dokonuje się niepóźniej niż w terminie 2 dni roboczych od dnia, w którym powstał obowiązek ich rejestracji.
 
@@ -157,7 +241,7 @@ source: "isap-pdf"
 
 6a. Zapisy w dziennikach systemów (logach) przechowywane są przez 5 lat od dnia ich utworzenia.
 
-7. Podstawę rejestracji danych cudzoziemca stanowi ważny dokument podróży, a w przypadku obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej również inny dokument potwierdzający tożsamość i obywatelstwo.
+7. Podstawę rejestracji danych cudzoziemca stanowi ważny dokument podróży, a w przypadku obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej – również inny dokument potwierdzający tożsamość i obywatelstwo.
 
 8. W szczególnie uzasadnionym przypadku, gdy cudzoziemiec nie posiada ważnego dokumentu podróży ani nie ma możliwości jego uzyskania, podstawę rejestracji danych może stanowić inny dokument potwierdzający tożsamość.
 
@@ -171,15 +255,15 @@ source: "isap-pdf"
 
 2b. Usunięcie niezgodności może polegać w szczególności na sprostowaniu danych nieprawidłowych lub uzupełnieniu danych.
 
-2c. Wniosek, o którym mowa w ust. 1, zawiera imię (imiona) i nazwisko, numer PESEL, adres do korespondencji jeżeli korespondencja ma być prowadzona drogą pocztową, oraz uzasadnienie.
+2c. Wniosek, o którym mowa w ust. 1, zawiera imię (imiona) i nazwisko, numer PESEL, adres do korespondencji – jeżeli korespondencja ma być prowadzona drogą pocztową, oraz uzasadnienie.
 
 3. Wniosek, o którym mowa w ust. 1, składa się na piśmie utrwalonym w postaci papierowej, opatrzonym własnoręcznym podpisem lub w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-4. O sposobie załatwienia sprawy organ, który usunął niezgodność, zawiadamia osobę, której dane były, na jej wniosek, sprawdzane na piśmie utrwalonym w postaci papierowej, opatrzonym własnoręcznym podpisem lub w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. W przypadku działania organu z urzędu osobę, której dane były sprawdzane, zawiadamia się, jeżeli usunięte niezgodności danych mają wpływ na ustalenie tożsamości tej osoby.
+4. O sposobie załatwienia sprawy organ, który usunął niezgodność, zawiadamia osobę, której dane były, na jej wniosek, sprawdzane – na piśmie utrwalonym w postaci papierowej, opatrzonym własnoręcznym podpisem lub w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. W przypadku działania organu z urzędu osobę, której dane były sprawdzane, zawiadamia się, jeżeli usunięte niezgodności danych mają wpływ na ustalenie tożsamości tej osoby.
 
 **Art. 12.**
 
-1. Dane, o których mowa w art. 8 pkt 6, 16, 20–21 i 24a, są gromadzone na podstawie oświadczenia osoby, której dotyczą, złożonego przed organem gminy właściwym do zameldowania na pobyt stały, organem gminy właściwym do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy lub organem gminy właściwym do złożenia wniosku o nadanie numeru PESEL, a w przypadku danych, o których mowa w art. 8 pkt 24a, tylko wtedy, gdy nie wynikają one z innych dokumentów.
+1. Dane, o których mowa w art. 8 pkt 6, 16, 20–21 i 24a, są gromadzone na podstawie oświadczenia osoby, której dotyczą, złożonego przed organem gminy właściwym do zameldowania na pobyt stały, organem gminy właściwym do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy lub organem gminy właściwym do złożenia wniosku o nadanie numeru PESEL, a w przypadku danych, o których mowa w art. 8 pkt 24a, tylko wtedy, gdy nie wynikają one z innych dokumentów.
 
 2. Dane, o których mowa w art. 8 pkt 6, dotyczące osób ubiegających się poza granicami Rzeczypospolitej Polskiej o wydanie polskiego paszportu gromadzone są na podstawie oświadczeń tych osób złożonych przed konsulem.
 
@@ -188,6 +272,11 @@ source: "isap-pdf"
 **Art. 12a.** Danych i zapisów zgromadzonych w rejestrze PESEL i rejestrach mieszkańców nie usuwa się, z zastrzeżeniem art. 10 ust. 6 i 6a.
 
 **Art. 13.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), określi, w drodze rozporządzenia:
+
+- **1)** tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców, z uwzględnieniem przypadków szczególnych;
+- **2)** tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL;
+- **3)** tryb postępowania wyjaśniającego i usuwania niezgodności danych, o których mowa w art. 11, w przypadku ich stwierdzenia;
+- **4)** sposób zapisu i gromadzenia w rejestrach danych o imionach i nazwiskach cudzoziemców.
 
 **Art. 14.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych, określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi, o których mowa w art. 10 ust. 2.
 
@@ -201,9 +290,9 @@ source: "isap-pdf"
 
 - **1)** data urodzenia zawarta jest w pierwszych sześciu cyfrach w następującej kolejności: dwie ostatnie cyfry roku urodzenia, miesiąc urodzenia wraz z zakodowanym stuleciem urodzenia oraz dzień urodzenia;
 - **2)** stulecie urodzenia kodowane jest poprzez dodanie do liczby oznaczającej miesiąc urodzenia:
-    - **a)** liczby 80 w przypadku osób urodzonych w latach 1800–1899,
-    - **b)** liczby 0 w przypadku osób urodzonych w latach 1900–1999,
-    - **c)** liczby 20 w przypadku osób urodzonych w latach 2000–2099;
+    - **a)** liczby 80 – w przypadku osób urodzonych w latach 1800–1899,
+    - **b)** liczby 0 – w przypadku osób urodzonych w latach 1900–1999,
+    - **c)** liczby 20 – w przypadku osób urodzonych w latach 2000–2099;
 
 - **3)** liczby oznaczające rok, miesiąc lub dzień, będące liczbami jednocyfrowymi, poprzedza się cyfrą „0”, z zastrzeżeniem zasady określonej w pkt 2;
 - **4)** numer porządkowy osoby zawarty jest w cyfrach od siódmej do dziesiątej, przy czym ostatnia cyfra numeru porządkowego zawiera oznaczenie płci: cyfrę parzystą (w tym „0”) dla kobiet, a cyfrę nieparzystą dla mężczyzn;
@@ -223,16 +312,16 @@ source: "isap-pdf"
 
 1. O nadanie numeru PESEL z urzędu występują odpowiednio:
 
-- **1)** kierownik urzędu stanu cywilnego sporządzający akt urodzenia w stosunku do dzieci osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, urodzonych na terytorium Rzeczypospolitej Polskiej;
-- **2)** organ gminy właściwy do zameldowania na pobyt stały albo pobyt czasowy w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, z wyjątkiem dzieci, o których mowa w pkt 1;
-- **2a)** organ gminy właściwy do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców, po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy;
-- **3)** organ wydający polski dokument tożsamości w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 2;
-- **3a)** organ wydający dowód osobisty w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1;
-- **4)** organ gminy właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy w stosunku do osób, dla których nie można ustalić organu właściwego w sposób wskazany w pkt 1–3.
+- **1)** kierownik urzędu stanu cywilnego sporządzający akt urodzenia – w stosunku do dzieci osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, urodzonych na terytorium Rzeczypospolitej Polskiej;
+- **2)** organ gminy właściwy do zameldowania na pobyt stały albo pobyt czasowy – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1 i 3, z wyjątkiem dzieci, o których mowa w pkt 1;
+- **2a)** organ gminy właściwy do realizacji wniosku obywatela państwa członkowskiego Unii Europejskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o ujęcie w stałym obwodzie głosowania w Centralnym Rejestrze Wyborców, po wydaniu pozytywnej decyzji w tej sprawie w trybie określonym w przepisach ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
+- **3)** organ wydający polski dokument tożsamości – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 2;
+- **3a)** organ wydający dowód osobisty – w stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1;
+- **4)** organ gminy właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy – w stosunku do osób, dla których nie można ustalić organu właściwego w sposób wskazany w pkt 1–3.
 
 2. W celu nadania numeru PESEL organy wskazane w ust. 1 przekazują, za pośrednictwem systemu teleinformatycznego, dane, o których mowa w art. 8 pkt 1–9, 11–15 i 22–24a, ministrowi właściwemu do spraw informatyzacji, z uwzględnieniem art. 9.
 
-3. Organy właściwe do wydania paszportu mogą weryfikować dane, o których mowa w art. 8 pkt 1–9 oraz 12 i 13, w rejestrze stanu cywilnego, o którym mowa w art. 5 ustawy z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006).
+3. Organy właściwe do wydania paszportu mogą weryfikować dane, o których mowa w art. 8 pkt 1–9 oraz 12 i 13, w rejestrze stanu cywilnego, o którym mowa w art. 5 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006).
 
 **Art. 18.**
 
@@ -240,8 +329,8 @@ source: "isap-pdf"
 
 1a. Jeżeli osoba, której dotyczy wniosek o nadanie numeru PESEL, określona w art. 7 ust. 2, jest cudzoziemcem niebędącym:
 
-- **1)** obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, obywatelem Konfederacji Szwajcarskiej bądź członkiem jego rodziny,
-- **2)** obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), bądź członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e lub f tej umowy wymagane jest jej osobiste stawiennictwo, z wyjątkiem dzieci urodzonych na terytorium Rzeczypospolitej Polskiej.
+- **1)** obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, obywatelem Konfederacji Szwajcarskiej bądź członkiem jego rodziny,
+- **2)** obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. ), bądź członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e lub f tej umowy – wymagane jest jej osobiste stawiennictwo, z wyjątkiem dzieci urodzonych na terytorium Rzeczypospolitej Polskiej.
 
 2. Wniosek o nadanie numeru PESEL zawiera wskazanie podstawy prawnej oraz udokumentowane dane, o których mowa w art. 8 pkt 1–9, 11–13, 15 i 22–24a, z uwzględnieniem art. 9 i art. 12.
 
@@ -270,7 +359,7 @@ source: "isap-pdf"
 
 1. Organ, który wystąpił o nadanie lub zmianę numeru PESEL, powiadamia osobę o nadaniu lub zmianie tego numeru.
 
-2. Powiadomienie, o którym mowa w ust. 1, sporządzane na piśmie utrwalonym w postaci elektronicznej, na podstawie zgłoszenia, o którym mowa w art. 58a ust. 1 ustawy z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego, jest opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej.
+2. Powiadomienie, o którym mowa w ust. 1, sporządzane na piśmie utrwalonym w postaci elektronicznej, na podstawie zgłoszenia, o którym mowa w art. 58a ust. 1 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, jest opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej.
 
 **Art. 22.**
 
@@ -279,6 +368,11 @@ source: "isap-pdf"
 2. Osoba, której zmieniono numer PESEL, nie może posługiwać się poprzednio nadanym numerem PESEL, od chwili powiadomienia o zmianie.
 
 **Art. 23.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz ograniczony zakres danych cudzoziemców gromadzonych w rejestrze PESEL, określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o nadanie numeru PESEL;
+- **2)** formę i tryb powiadomienia o nadaniu lub zmianie numeru PESEL, w tym wzór powiadomienia;
+- **3)** tryb postępowania z danymi osób, którym sporządzono nowy akt urodzenia;
+- **4)** sposób obliczania liczby kontrolnej, o której mowa w art. 15 ust. 2.
 
 #### Rozdział 3a Rejestr zastrzeżeń numerów PESEL, zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów PESEL oraz zasady i tryb zastrzegania i cofania zastrzeżenia numeru PESEL
 
@@ -361,15 +455,15 @@ source: "isap-pdf"
 
 **Art. 23f.**
 
-1. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz operator wyznaczony, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), może nieodpłatnie umożliwić dokonywanie zastrzeżenia numeru PESEL odpowiednio:
+1. Bank krajowy, spółdzielcza kasa oszczędnościowo-kredytowa oraz operator wyznaczony, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), może nieodpłatnie umożliwić dokonywanie zastrzeżenia numeru PESEL odpowiednio:
 
 - **1)** na wniosek składany osobiście w:
     - **a)** banku krajowym albo spółdzielczej kasie oszczędnościowo-kredytowej,
-    - **b)** w placówce operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe;
+    - **b)** w placówce operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe;
 
 - **2)** za pomocą systemu teleinformatycznego banku krajowego albo spółdzielczej kasy oszczędnościowo-kredytowej, w którym jest uwierzytelniana osoba dokonująca zastrzeżenia.
 
-2. Zastrzeżenie numeru PESEL w sposób, o którym mowa w ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176).
+2. Zastrzeżenie numeru PESEL w sposób, o którym mowa w ust. 1 pkt 1 lit. a i pkt 2, może zostać dokonane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176).
 
 3. Minister właściwy do spraw informatyzacji:
 
@@ -388,7 +482,7 @@ source: "isap-pdf"
 
 2. W przypadku, o którym mowa w ust. 1, organem rejestrującym zastrzeżenie numeru PESEL jest minister właściwy do spraw informatyzacji.
 
-3. W przypadku, o którym mowa w ust. 1 pkt 1, dane przekazywane są do rejestru zastrzeżeń numerów PESEL z Rejestru Dowodów Osobistych, o którym mowa w art. 55 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych, a w przypadku, o którym mowa w ust. 1 pkt 2 z rejestru PESEL.
+3. W przypadku, o którym mowa w ust. 1 pkt 1, dane przekazywane są do rejestru zastrzeżeń numerów PESEL z Rejestru Dowodów Osobistych, o którym mowa w art. 55 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych, a w przypadku, o którym mowa w ust. 1 pkt 2 – z rejestru PESEL.
 
 **Art. 23h.**
 
@@ -429,9 +523,9 @@ source: "isap-pdf"
     - **b)** przy użyciu certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy, oraz
 
 - **2)** wskazaniu:
-    - **a)** numeru PESEL oraz serii i numeru ostatniego wydanego dowodu osobistego lub dokumentu paszportowego zamieszczonych w rejestrze PESEL w przypadku weryfikacji zastrzeżenia numeru PESEL obywatela polskiego,
-    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo zamieszczonego w rejestrze PESEL w przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
-    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo albo innego dokumentu potwierdzającego tożsamość w przypadku, o którym mowa w art. 10 ust. 8, zamieszczonego w rejestrze PESEL w przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
+    - **a)** numeru PESEL oraz serii i numeru ostatniego wydanego dowodu osobistego lub dokumentu paszportowego zamieszczonych w rejestrze PESEL – w przypadku weryfikacji zastrzeżenia numeru PESEL obywatela polskiego,
+    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo zamieszczonego w rejestrze PESEL – w przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
+    - **b)** numeru PESEL oraz serii i numeru ostatniego dokumentu podróży cudzoziemca lub innego dokumentu potwierdzającego tożsamość i obywatelstwo albo innego dokumentu potwierdzającego tożsamość – w przypadku, o którym mowa w art. 10 ust. 8, zamieszczonego w rejestrze PESEL – w przypadku weryfikacji zastrzeżenia numeru PESEL cudzoziemca.
 
 3. Dane, o których mowa w ust. 2 pkt 2, są automatycznie weryfikowane z danymi zamieszczonymi w rejestrze PESEL. W przypadku negatywnej weryfikacji za pośrednictwem usługi, o której mowa w ust. 1, przekazywana jest informacja o błędnych danych.
 
@@ -479,7 +573,7 @@ source: "isap-pdf"
 
 - **1)** podmiotom, o których mowa w art. 46 ust. 1, w zakresie niezbędnym do realizacji ustawowych zadań;
 - **2)** podmiotom, o których mowa w art. 46 ust. 2 pkt 1, po wykazaniu interesu faktycznego;
-- **3)** podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz instytucji utworzonej na podstawie art. 105 ust. 4 tej ustawy;
+- **3)** podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz instytucji utworzonej na podstawie art. 105 ust. 4 tej ustawy;
 - **4)** notariuszom;
 - **5)** dostawcom publicznie dostępnych usług telekomunikacyjnych;
 - **6)** spółdzielczym kasom oszczędnościowo-kredytowym;
@@ -495,15 +589,20 @@ source: "isap-pdf"
 
 4. Udostępnianie danych w drodze weryfikacji, o której mowa w ust. 1, polega na zweryfikowaniu informacji o zastrzeżeniu numeru PESEL w chwili weryfikacji lub w dniu określonym przez weryfikującego i udostępnieniu danych, o których mowa w art. 23c ust. 1 pkt 2–5. Jeżeli z uwagi na brak zastrzeżenia numeru PESEL w rejestrze zastrzeżeń numerów PESEL brak jest informacji o chwili cofnięcia zastrzeżenia, udostępnia się również informację o braku tej informacji.
 
-**Art. 23n.** Minister właściwy do spraw informatyzacji zapewnia sądom i Ministrowi Sprawiedliwości możliwość sprawdzenia, za pomocą urządzeń teletransmisji danych, informacji dotyczących dokonanych weryfikacji poszczególnych numerów PESEL w rejestrze zastrzeżeń numerów PESEL wraz ze wskazaniem wyniku weryfikacji i podmiotów dokonujących weryfikacji, a w przypadku dokonania weryfikacji w trybie art. 23j ust. 1 także imienia, nazwiska oraz numeru PESEL osoby dokonującej weryfikacji.
+**Art. 23n.** Minister właściwy do spraw informatyzacji zapewnia sądom i Ministrowi Sprawiedliwości możliwość sprawdzenia, za pomocą urządzeń teletransmisji danych, informacji dotyczących dokonanych weryfikacji poszczególnych numerów PESEL w rejestrze zastrzeżeń numerów PESEL wraz ze wskazaniem wyniku weryfikacji i podmiotów dokonujących weryfikacji, a w przypadku dokonania weryfikacji w trybie art. 23j ust. 1 – także imienia, nazwiska oraz numeru PESEL osoby dokonującej weryfikacji.
 
 **Art. 23o.**
 
 - **21)** W sprawach o udostępnianie danych za pomocą urządzeń teletransmisji danych w drodze weryfikacji, o których mowa w art. 23m, minister właściwy do spraw informatyzacji:
-- **1)** udostępnia dane w drodze weryfikacji, po spełnieniu warunków, o których mowa w art. 48 ust. 1 pkt 1 i 2, w odniesieniu do rejestru zastrzeżeń numerów PESEL w drodze czynności materialno-technicznej;
-- **2)** odmawia udostępniania danych w drodze weryfikacji, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 pkt 1 i 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane, w odniesieniu do rejestru zastrzeżeń numerów PESEL w drodze decyzji administracyjnej.
+- **1)** udostępnia dane w drodze weryfikacji, po spełnieniu warunków, o których mowa w art. 48 ust. 1 pkt 1 i 2, w odniesieniu do rejestru zastrzeżeń numerów PESEL – w drodze czynności materialno-technicznej;
+- **2)** odmawia udostępniania danych w drodze weryfikacji, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 pkt 1 i 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane, w odniesieniu do rejestru zastrzeżeń numerów PESEL – w drodze decyzji administracyjnej.
 
 **Art. 23p.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku, o którym mowa w art. 23e ust. 2 pkt 2,
+- **2)** wzór wniosku, o którym mowa w art. 23f ust. 1 pkt 1,
+- **3)** wzór wniosku, o którym mowa w art. 23m ust. 2,
+- **4)** sposób wypełnienia wniosku, o którym mowa w pkt 1 i 2 – uwzględniając potrzebę zapewnienia ochrony danych osobowych.
 
 #### Rozdział 4 Obowiązek meldunkowy obywateli polskich
 
@@ -519,7 +618,7 @@ source: "isap-pdf"
 
 3. Za osobę nieposiadającą zdolności do czynności prawnych lub posiadającą ograniczoną zdolność do czynności prawnych obowiązek meldunkowy wykonuje jej przedstawiciel ustawowy, opiekun prawny lub inna osoba sprawująca nad nią faktyczną opiekę w miejscu ich wspólnego pobytu.
 
-4. Obowiązku meldunkowego można dopełnić przez pełnomocnika legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), po potwierdzeniu przez pełnomocnika jego tożsamości za pomocą dokumentu tożsamości albo po uwierzytelnieniu pełnomocnika na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+4. Obowiązku meldunkowego można dopełnić przez pełnomocnika legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), po potwierdzeniu przez pełnomocnika jego tożsamości za pomocą dokumentu tożsamości albo po uwierzytelnieniu pełnomocnika na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 5. (uchylony)
 
@@ -544,8 +643,8 @@ source: "isap-pdf"
 
 1. Adres określa się przez podanie:
 
-- **1)** w gminach, które uzyskały status miasta nazwy miasta (dzielnicy), ulicy, numeru domu i lokalu jeżeli jest wydzielony, nazwy województwa oraz kodu pocztowego;
-- **2)** w pozostałych gminach nazwy miejscowości, ulicy, jeżeli w miejscowości występuje podział na ulice, numeru domu i lokalu jeżeli jest wydzielony, nazwy gminy, nazwy województwa oraz kodu pocztowego.
+- **1)** w gminach, które uzyskały status miasta – nazwy miasta (dzielnicy), ulicy, numeru domu i lokalu – jeżeli jest wydzielony, nazwy województwa oraz kodu pocztowego;
+- **2)** w pozostałych gminach – nazwy miejscowości, ulicy, jeżeli w miejscowości występuje podział na ulice, numeru domu i lokalu – jeżeli jest wydzielony, nazwy gminy, nazwy województwa oraz kodu pocztowego.
 
 2. Adres, o którym mowa w ust. 1, w rejestrze PESEL oraz w rejestrze mieszkańców uzupełnia się o identyfikatory krajowego rejestru urzędowego podziału terytorialnego kraju „TERYT”.
 
@@ -559,12 +658,12 @@ source: "isap-pdf"
 
 1. Obywatel polski dokonuje zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci:
 
-- **1)** papierowej na formularzu opatrzonym własnoręcznym podpisem, w organie gminy właściwym ze względu na położenie nieruchomości, w której zamieszkuje, przedstawiając do wglądu dowód osobisty lub paszport, albo
-- **2)** elektronicznej na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3).
+- **1)** papierowej – na formularzu opatrzonym własnoręcznym podpisem, w organie gminy właściwym ze względu na położenie nieruchomości, w której zamieszkuje, przedstawiając do wglądu dowód osobisty lub paszport, albo
+- **2)** elektronicznej – na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3).
 
-2. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci papierowej przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu na formularzu zgłoszenia pobytu stałego lub formularzu zgłoszenia pobytu czasowego, oraz do wglądu dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu.
+2. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci papierowej przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu na formularzu zgłoszenia pobytu stałego lub formularzu zgłoszenia pobytu czasowego, oraz – do wglądu – dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu.
 
-2a. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci elektronicznej dołącza do formularza dokument elektroniczny potwierdzający jego tytuł prawny do lokalu, a w razie niemożności jego uzyskania odwzorowanie cyfrowe tego dokumentu, a obywatel nieposiadający tytułu prawnego do lokalu dołącza do formularza dokument elektroniczny zawierający oświadczenie właściciela lub innego podmiotu dysponującego tytułem prawnym do lokalu potwierdzające pobyt w lokalu oraz dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu, a w razie niemożności ich uzyskania odwzorowanie cyfrowe tych dokumentów.
+2a. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy na piśmie utrwalonym w postaci elektronicznej dołącza do formularza dokument elektroniczny potwierdzający jego tytuł prawny do lokalu, a w razie niemożności jego uzyskania – odwzorowanie cyfrowe tego dokumentu, a obywatel nieposiadający tytułu prawnego do lokalu dołącza do formularza dokument elektroniczny zawierający oświadczenie właściciela lub innego podmiotu dysponującego tytułem prawnym do lokalu potwierdzające pobyt w lokalu oraz dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu, a w razie niemożności ich uzyskania – odwzorowanie cyfrowe tych dokumentów.
 
 2b. Dokumentem potwierdzającym tytuł prawny do lokalu może być w szczególności umowa cywilnoprawna, odpis z księgi wieczystej albo wyciąg z działów I i II księgi wieczystej, decyzja administracyjna lub orzeczenie sądu.
 
@@ -658,7 +757,7 @@ source: "isap-pdf"
 
 8. Zaświadczenia pobrane przy użyciu usługi, o której mowa w art. 28 ust. 2e, są nieodpłatne.
 
-9. Zaświadczenia, o których mowa w ust. 1 i 2, sporządzane na piśmie utrwalonym w postaci elektronicznej, na podstawie zgłoszenia, o którym mowa w art. 58a ust. 1 ustawy z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego, są opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej.
+9. Zaświadczenia, o których mowa w ust. 1 i 2, sporządzane na piśmie utrwalonym w postaci elektronicznej, na podstawie zgłoszenia, o którym mowa w art. 58a ust. 1 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, są opatrywane zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji opartą na kwalifikowanym certyfikacie pieczęci elektronicznej.
 
 **Art. 33.**
 
@@ -666,8 +765,8 @@ source: "isap-pdf"
 
 2. Obywatel polski dokonuje wymeldowania z miejsca pobytu stałego albo z miejsca pobytu czasowego na piśmie utrwalonym w postaci:
 
-- **1)** papierowej na formularzu opatrzonym własnoręcznym podpisem, w organie gminy właściwym dla dotychczasowego miejsca pobytu, przedstawiając do wglądu dowód osobisty lub paszport, albo
-- **2)** elektronicznej na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+- **1)** papierowej – na formularzu opatrzonym własnoręcznym podpisem, w organie gminy właściwym dla dotychczasowego miejsca pobytu, przedstawiając do wglądu dowód osobisty lub paszport, albo
+- **2)** elektronicznej – na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 3. Obywatel polski może wymeldować się z miejsca pobytu stałego lub czasowego dokonując zameldowania w nowym miejscu pobytu.
 
@@ -717,7 +816,7 @@ source: "isap-pdf"
 3. Zgłoszeń, o których mowa w ust. 1 i 2, dokonuje się najpóźniej w dniu opuszczenia miejsca pobytu stałego albo czasowego na piśmie utrwalonym w postaci:
 
 - **1)** papierowej, w organie gminy, o którym mowa w art. 28 ust. 1, opatrzonym własnoręcznym podpisem, przedstawiając do wglądu dowód osobisty lub paszport, albo
-- **2)** elektronicznej na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+- **2)** elektronicznej – na formularzu opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania dowodu, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
 
 4. Obywatel polski w terminie, o którym mowa w ust. 3, może dokonać zgłoszeń, o których mowa w ust. 1 i 2, przy użyciu usługi elektronicznej udostępnionej przez ministra właściwego do spraw informatyzacji, po uwierzytelnieniu w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
@@ -772,7 +871,7 @@ source: "isap-pdf"
 - **5)** wzór i sposób wypełniania formularza zgłoszenia wyjazdu poza granice Rzeczypospolitej Polskiej,
 - **6)** wzór i sposób wypełniania formularza zgłoszenia powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej,
 - **7)** wzór zaświadczenia o zameldowaniu na pobyt stały,
-- **8)** wzór zaświadczenia o zameldowaniu na pobyt czasowy uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz sporządzania formularzy i zaświadczeń z wykorzystaniem aktualnych danych z rejestru PESEL.
+- **8)** wzór zaświadczenia o zameldowaniu na pobyt czasowy – uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz sporządzania formularzy i zaświadczeń z wykorzystaniem aktualnych danych z rejestru PESEL.
 
 2. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, zakres, sposób i tryb wykonywania obowiązku meldunkowego przez żołnierzy w czynnej służbie wojskowej, wskazując grupy żołnierzy objęte obowiązkiem meldunkowym oraz rodzaje obiektów wojskowych, w których ten obowiązek jest wykonywany, uwzględniając potrzeby wynikające z konieczności zapewnienia ochrony informacji niejawnych oraz ochrony przetwarzanych danych osobowych.
 
@@ -787,13 +886,13 @@ source: "isap-pdf"
 3. Jeżeli zameldowania w miejscu pobytu stałego lub czasowego dokonuje cudzoziemiec:
 
 - **1)** niewymieniony w art. 41 ust. 1–2a lub
-- **2)** niebędący obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej, bądź członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e lub f tej umowy nieposiadający numeru PESEL, wymagane jest jego osobiste stawiennictwo.
+- **2)** niebędący obywatelem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej, bądź członkiem jego rodziny, o którym mowa w art. 10 ust. 1 lit. e lub f tej umowy – nieposiadający numeru PESEL, wymagane jest jego osobiste stawiennictwo.
 
 **Art. 41.**
 
-1. Cudzoziemiec będący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, przebywający na terytorium Rzeczypospolitej Polskiej jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego najpóźniej w 30 dniu, licząc od dnia przybycia do tego miejsca.
+1. Cudzoziemiec będący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, przebywający na terytorium Rzeczypospolitej Polskiej jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego najpóźniej w 30 dniu, licząc od dnia przybycia do tego miejsca.
 
-2. Członek rodziny cudzoziemca, o którym mowa w ust. 1, niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego najpóźniej w 30 dniu, licząc od dnia przybycia do tego miejsca.
+2. Członek rodziny cudzoziemca, o którym mowa w ust. 1, niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, jest obowiązany zameldować się w miejscu pobytu stałego lub czasowego najpóźniej w 30 dniu, licząc od dnia przybycia do tego miejsca.
 
 2a. Przepis ust. 2 stosuje się także do członka rodziny obywatela Rzeczypospolitej Polskiej, o którym mowa w art. 2 pkt 4 lit. b ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794).
 
@@ -813,15 +912,15 @@ source: "isap-pdf"
 
 1a. Obywatel Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej, dokonując zameldowania na pobyt stały, przedstawia ważne zaświadczenie o zarejestrowaniu pobytu albo ważny dokument potwierdzający prawo stałego pobytu, a członek jego rodziny, o którym mowa w art. 10 ust. 1 lit. e i f tej umowy, przedstawia ważną kartę pobytową lub ważną kartę stałego pobytu.
 
-2. Cudzoziemiec, o którym mowa w art. 41 ust. 1, dokonujący zameldowania na pobyt stały przedstawia ważny dokument podróży lub inny dokument potwierdzający jego tożsamość i obywatelstwo, a cudzoziemiec, o którym mowa w art. 41 ust. 2, dokonujący zameldowania na pobyt stały przedstawia ważny dokument podróży oraz ważną kartę stałego pobytu albo ważną kartę pobytową, a gdy brak takiej możliwości przedstawia inny dokument potwierdzający, że jest on członkiem rodziny obywatela Unii Europejskiej.
+2. Cudzoziemiec, o którym mowa w art. 41 ust. 1, dokonujący zameldowania na pobyt stały przedstawia ważny dokument podróży lub inny dokument potwierdzający jego tożsamość i obywatelstwo, a cudzoziemiec, o którym mowa w art. 41 ust. 2, dokonujący zameldowania na pobyt stały przedstawia ważny dokument podróży oraz ważną kartę stałego pobytu albo ważną kartę pobytową, a gdy brak takiej możliwości – przedstawia inny dokument potwierdzający, że jest on członkiem rodziny obywatela Unii Europejskiej.
 
-3. Cudzoziemiec dokonujący zameldowania się na pobyt czasowy przedstawia wizę, a w przypadku gdy wjazd cudzoziemca nastąpił na podstawie umowy przewidującej zniesienie lub ograniczenie obowiązku posiadania wizy albo cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203) lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej dokument podróży, tymczasowe zaświadczenie tożsamości cudzoziemca, kartę pobytu, dokument „zgoda na pobyt tolerowany” albo zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej lub decyzję o nadaniu statusu uchodźcy w Rzeczypospolitej Polskiej, udzieleniu w Rzeczypospolitej Polskiej ochrony uzupełniającej, zgody na pobyt ze względów humanitarnych albo zgody na pobyt tolerowany.
+3. Cudzoziemiec dokonujący zameldowania się na pobyt czasowy przedstawia wizę, a w przypadku gdy wjazd cudzoziemca nastąpił na podstawie umowy przewidującej zniesienie lub ograniczenie obowiązku posiadania wizy albo cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203) lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej – dokument podróży, tymczasowe zaświadczenie tożsamości cudzoziemca, kartę pobytu, dokument „zgoda na pobyt tolerowany” albo zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej lub decyzję o nadaniu statusu uchodźcy w Rzeczypospolitej Polskiej, udzieleniu w Rzeczypospolitej Polskiej ochrony uzupełniającej, zgody na pobyt ze względów humanitarnych albo zgody na pobyt tolerowany.
 
-3. Cudzoziemiec dokonujący zameldowania się na pobyt czasowy przedstawia wizę, a w przypadku gdy wjazd cudzoziemca nastąpił na podstawie umowy przewidującej zniesienie lub ograniczenie obowiązku posiadania wizy albo cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203) dokument podróży, tymczasowe zaświadczenie tożsamości cudzoziemca, kartę pobytu, dokument „zgoda na pobyt tolerowany” albo zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej lub decyzję o nadaniu statusu uchodźcy w Rzeczypospolitej Polskiej, udzieleniu w Rzeczypospolitej Polskiej ochrony uzupełniającej, zgody na pobyt ze względów humanitarnych albo zgody na pobyt tolerowany.
+3. Cudzoziemiec dokonujący zameldowania się na pobyt czasowy przedstawia wizę, a w przypadku gdy wjazd cudzoziemca nastąpił na podstawie umowy przewidującej zniesienie lub ograniczenie obowiązku posiadania wizy albo cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203) – dokument podróży, tymczasowe zaświadczenie tożsamości cudzoziemca, kartę pobytu, dokument „zgoda na pobyt tolerowany” albo zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej lub decyzję o nadaniu statusu uchodźcy w Rzeczypospolitej Polskiej, udzieleniu w Rzeczypospolitej Polskiej ochrony uzupełniającej, zgody na pobyt ze względów humanitarnych albo zgody na pobyt tolerowany.
 
 3a. Obywatel Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o Wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej, dokonując zameldowania się na pobyt czasowy, przedstawia ważne zaświadczenie o zarejestrowaniu pobytu albo ważny dokument potwierdzający prawo stałego pobytu, a członek jego rodziny, o którym mowa w art. 10 ust. 1 lit. e i f tej umowy, przedstawia ważną kartę pobytową lub ważną kartę stałego pobytu.
 
-4. Cudzoziemiec, o którym mowa w art. 41 ust. 1, dokonujący zameldowania na pobyt czasowy przedstawia ważny dokument podróży lub inny ważny dokument potwierdzający jego tożsamość i obywatelstwo, a cudzoziemiec, o którym mowa w art. 41 ust. 2, dokonujący zameldowania na pobyt czasowy przedstawia ważny dokument podróży oraz ważną kartę stałego pobytu lub ważną kartę pobytową, a gdy brak takiej możliwości przedstawia inny dokument potwierdzający, że jest on członkiem rodziny obywatela Unii Europejskiej.
+4. Cudzoziemiec, o którym mowa w art. 41 ust. 1, dokonujący zameldowania na pobyt czasowy przedstawia ważny dokument podróży lub inny ważny dokument potwierdzający jego tożsamość i obywatelstwo, a cudzoziemiec, o którym mowa w art. 41 ust. 2, dokonujący zameldowania na pobyt czasowy przedstawia ważny dokument podróży oraz ważną kartę stałego pobytu lub ważną kartę pobytową, a gdy brak takiej możliwości – przedstawia inny dokument potwierdzający, że jest on członkiem rodziny obywatela Unii Europejskiej.
 
 5. W szczególnie uzasadnionym przypadku, gdy cudzoziemiec dokonujący zameldowania się na pobyt czasowy nie posiada ważnego dokumentu podróży ani nie ma możliwości jego uzyskania, może przedstawić inny dokument potwierdzający tożsamość.
 
@@ -860,7 +959,7 @@ source: "isap-pdf"
 - **15)** datę złożenia wniosku;
 - **16)** adnotację o tym, czy odciski palców zostały pobrane;
 - **17)** adnotację o wyniku lub przyczynach braku weryfikacji, o której mowa w ust. 20;
-- **18)** informacje o osobie sprawującej faktyczną opiekę nad dzieckiem obejmujące numer PESEL oraz dane, o których mowa w pkt 1, 2, 4, 10 i 13 oraz art. 8 pkt 24, oraz wskazanie stosunku pokrewieństwa z dzieckiem jeżeli taki istnieje, a w przypadku jego braku innej relacji łączącej tę osobę z dzieckiem;
+- **18)** informacje o osobie sprawującej faktyczną opiekę nad dzieckiem obejmujące numer PESEL oraz dane, o których mowa w pkt 1, 2, 4, 10 i 13 oraz art. 8 pkt 24, oraz wskazanie stosunku pokrewieństwa z dzieckiem – jeżeli taki istnieje, a w przypadku jego braku – innej relacji łączącej tę osobę z dzieckiem;
 - **19)** oświadczenie o przybyciu na terytorium Rzeczypospolitej Polskiej z terytorium objętego decyzją Rady Unii Europejskiej stwierdzającą istnienie masowego napływu wysiedleńców;
 - **20)** oświadczenie o byciu:
     - **a)** małżonkiem obywatela kraju objętego decyzją Rady Unii Europejskiej stwierdzającą istnienie masowego napływu wysiedleńców,
@@ -903,7 +1002,7 @@ source: "isap-pdf"
 
 16. Komendant Główny Straży Granicznej zapewnia możliwość weryfikacji danych osoby, której ma zostać nadany numer PESEL, z danymi przetwarzanymi w rejestrze, o którym mowa w art. 110b ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
 
-17. Minister właściwy do spraw informatyzacji, jeżeli warunki techniczne i organizacyjne to umożliwiają, udostępnia Komendantowi Głównemu Straży Granicznej w drodze teletransmisji danych fotografię, o której mowa w ust. 9, osoby, której ma zostać nadany numer PESEL, w celu potwierdzenia tożsamości i autentyczności danych tej osoby podczas weryfikacji, o której mowa w ust. 16. Komendant Główny Straży Granicznej udostępnia ministrowi właściwemu do spraw informatyzacji z rejestru prowadzonego przez Komendanta Głównego Straży Granicznej, o którym mowa w art. 110b ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej wynik weryfikacji wraz z imieniem, nazwiskiem, datą urodzenia, numerem PESEL jeżeli widnieje w rejestrze, obywatelstwem, krajem wydania dokumentu podróży i numerem tego dokumentu, w celu zapewnienia poprawności danych wprowadzanych do rejestru PESEL i rejestru beneficjentów ochrony czasowej.
+17. Minister właściwy do spraw informatyzacji, jeżeli warunki techniczne i organizacyjne to umożliwiają, udostępnia Komendantowi Głównemu Straży Granicznej w drodze teletransmisji danych fotografię, o której mowa w ust. 9, osoby, której ma zostać nadany numer PESEL, w celu potwierdzenia tożsamości i autentyczności danych tej osoby podczas weryfikacji, o której mowa w ust. 16. Komendant Główny Straży Granicznej udostępnia ministrowi właściwemu do spraw informatyzacji z rejestru prowadzonego przez Komendanta Głównego Straży Granicznej, o którym mowa w art. 110b ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej wynik weryfikacji wraz z imieniem, nazwiskiem, datą urodzenia, numerem PESEL – jeżeli widnieje w rejestrze, obywatelstwem, krajem wydania dokumentu podróży i numerem tego dokumentu, w celu zapewnienia poprawności danych wprowadzanych do rejestru PESEL i rejestru beneficjentów ochrony czasowej.
 
 18. Kopię dokumentu, na podstawie którego dokonano ustalenia tożsamości, wraz z wnioskiem, o którym mowa w ust. 1, przechowuje organ gminy.
 
@@ -1023,11 +1122,11 @@ source: "isap-pdf"
     - **j)** ministrowi właściwemu do spraw gospodarki,
     - **k)** powiatom i województwom,
     - **l)** wojewodom,
-    - **m)** ministrowi właściwemu do spraw rozwoju regionalnego w zakresie niezbędnym do realizacji jego ustawowych zadań, po oświadczeniu spełnienia wymagań, o których mowa w art. 66 ust. 2 ustawy z dnia 6 sierpnia 2010 r.
+    - **m)** ministrowi właściwemu do spraw rozwoju regionalnego – w zakresie niezbędnym do realizacji jego ustawowych zadań, po oświadczeniu spełnienia wymagań, o których mowa w art. 66 ust. 2 ustawy z dnia 6 sierpnia 2010 r.
     - **n)** Państwowej Inspekcji Pracy,
     - **o)** Kasie Rolniczego Ubezpieczenia Społecznego;
 
-- **3)** ust. 5 pkt 2 oraz art. 44a ust. 6 pkt 1–4, 9–15 i 18 Głównemu Urzędowi Statystycznemu w zakresie niezbędnym do realizacji jego ustawowych zadań, po oświadczeniu spełnienia wymagań, o których mowa w art. 66 ust. 2 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych.
+- **3)** ust. 5 pkt 2 oraz art. 44a ust. 6 pkt 1–4, 9–15 i 18 – Głównemu Urzędowi Statystycznemu w zakresie niezbędnym do realizacji jego ustawowych zadań, po oświadczeniu spełnienia wymagań, o których mowa w art. 66 ust. 2 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych.
 
 #### Rozdział 6 Udostępnianie danych z rejestru PESEL oraz rejestrów mieszkańców
 
@@ -1087,9 +1186,9 @@ source: "isap-pdf"
 
 - **1)** organom administracji publicznej, sądom i prokuraturze;
 - **2)** Policji, Straży Granicznej, Straży Marszałkowskiej, Służbie Więziennej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Krajowej Administracji Skarbowej, Żandarmerii Wojskowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Ochrony Państwa, Centralnemu Biuru Antykorupcyjnemu, Szefowi Krajowego Centrum Informacji Kryminalnych, Inspektorowi Nadzoru Wewnętrznego, organom wyborczym i strażom gminnym (miejskim);
-- **3)** komornikom sądowym wyłącznie w zakresie niezbędnym do prowadzenia przez nich postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza;
+- **3)** komornikom sądowym – wyłącznie w zakresie niezbędnym do prowadzenia przez nich postępowania egzekucyjnego lub zabezpieczającego albo wykonywania postanowienia o zabezpieczeniu spadku lub sporządzania spisu inwentarza;
 - **4)** (uchylony)
-- **5)** państwowym i samorządowym jednostkom organizacyjnym oraz innym podmiotom w zakresie niezbędnym do realizacji zadań publicznych określonych w odrębnych przepisach;
+- **5)** państwowym i samorządowym jednostkom organizacyjnym oraz innym podmiotom – w zakresie niezbędnym do realizacji zadań publicznych określonych w odrębnych przepisach;
 - **6)** Polskiemu Czerwonemu Krzyżowi, w zakresie danych osób poszukiwanych.
 - **7)** (uchylony)
 
@@ -1131,7 +1230,7 @@ source: "isap-pdf"
 
 1a. W tej samej sprawie wniosek, o którym mowa w ust. 1, może zostać złożony wyłącznie do jednego organu dowolnej gminy.
 
-1b. W przypadku złożenia wniosku na piśmie utrwalonym w postaci elektronicznej podmiot, o którym mowa w art. 46 ust. 2 pkt 1, dołącza dokumenty elektroniczne potwierdzające posiadanie interesu prawnego, utrwalone w postaci elektronicznej, a w razie niemożności ich uzyskania elektroniczne kopie takich dokumentów, uwierzytelnione przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Organ rozpatrujący wniosek może żądać okazania oryginału dokumentu utrwalonego w postaci papierowej, z którego sporządzono elektroniczną kopię, jeżeli złożona kopia nie pozwala na weryfikację autentyczności oraz integralności lub jeżeli jest to uzasadnione innymi okolicznościami sprawy.
+1b. W przypadku złożenia wniosku na piśmie utrwalonym w postaci elektronicznej podmiot, o którym mowa w art. 46 ust. 2 pkt 1, dołącza dokumenty elektroniczne potwierdzające posiadanie interesu prawnego, utrwalone w postaci elektronicznej, a w razie niemożności ich uzyskania – elektroniczne kopie takich dokumentów, uwierzytelnione przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Organ rozpatrujący wniosek może żądać okazania oryginału dokumentu utrwalonego w postaci papierowej, z którego sporządzono elektroniczną kopię, jeżeli złożona kopia nie pozwala na weryfikację autentyczności oraz integralności lub jeżeli jest to uzasadnione innymi okolicznościami sprawy.
 
 2. Dane jednostkowe udostępnione na podstawie wniosku, o którym mowa w ust. 1, nie mogą być wykorzystane w innym celu niż wskazany w tym wniosku.
 
@@ -1157,7 +1256,7 @@ source: "isap-pdf"
 
 1. Podmiotom, o których mowa w art. 46 ust. 1, udostępnia się za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, dane zawarte w rejestrze PESEL. Warunkiem udostępniania danych w tym trybie jest złożenie jednorazowego wniosku na piśmie utrwalonym w postaci papierowej opatrzonym własnoręcznym podpisem lub w postaci elektronicznej opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, oraz spełnienie łącznie warunków określonych w art. 48 ust. 1 i uzyskanie zgody wydanej na podstawie art. 51 ust. 2 pkt 1.
 
-1a. W przypadku złożenia wniosku na piśmie utrwalonym w postaci elektronicznej podmiot dołącza dokumenty elektroniczne potwierdzające spełnienie warunków, o których mowa w art. 48 ust. 1 pkt 1–3, utrwalone w postaci elektronicznej, a w razie niemożności ich uzyskania elektroniczne kopie takich dokumentów, uwierzytelnione przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Organ rozpatrujący wniosek może żądać okazania oryginału dokumentu utrwalonego w postaci papierowej, z którego sporządzono elektroniczną kopię, jeżeli złożona kopia nie pozwala na weryfikację autentyczności oraz integralności lub jeżeli jest to uzasadnione innymi okolicznościami sprawy.
+1a. W przypadku złożenia wniosku na piśmie utrwalonym w postaci elektronicznej podmiot dołącza dokumenty elektroniczne potwierdzające spełnienie warunków, o których mowa w art. 48 ust. 1 pkt 1–3, utrwalone w postaci elektronicznej, a w razie niemożności ich uzyskania – elektroniczne kopie takich dokumentów, uwierzytelnione przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego. Organ rozpatrujący wniosek może żądać okazania oryginału dokumentu utrwalonego w postaci papierowej, z którego sporządzono elektroniczną kopię, jeżeli złożona kopia nie pozwala na weryfikację autentyczności oraz integralności lub jeżeli jest to uzasadnione innymi okolicznościami sprawy.
 
 2. Podmiotom, o których mowa w art. 46 ust. 2 pkt 1, po wykazaniu interesu faktycznego, udostępnia się, w sposób i na warunkach określonych w ust. 1, dane dotyczące adresu.
 
@@ -1169,15 +1268,15 @@ source: "isap-pdf"
 
 **Art. 49a.**
 
-- **32)** 1. Podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, spółdzielczym kasom oszczędnościowo-kredytowym, Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, firmom inwestycyjnym, o których mowa w art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), lub towarzystwom funduszy inwestycyjnych, o których mowa w art. 2 pkt 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), udostępnia się odpłatnie z rejestru PESEL dane o seriach, numerach i datach ważności ważnych dowodów osobistych ich klientów, wydanych na skutek zmiany dowodu osobistego, odpowiednio na warunkach określonych w art. 48 ust. 1 pkt 1 i 2, w celu weryfikacji aktualności i aktualizacji tych danych.
+- **32)** 1. Podmiotom, o których mowa w art. 4 ust. 1 pkt 1, 17, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, spółdzielczym kasom oszczędnościowo-kredytowym, Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, firmom inwestycyjnym, o których mowa w art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), lub towarzystwom funduszy inwestycyjnych, o których mowa w art. 2 pkt 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), udostępnia się odpłatnie z rejestru PESEL dane o seriach, numerach i datach ważności ważnych dowodów osobistych ich klientów, wydanych na skutek zmiany dowodu osobistego, odpowiednio na warunkach określonych w art. 48 ust. 1 pkt 1 i 2, w celu weryfikacji aktualności i aktualizacji tych danych.
 
-2. Podmiotom, o których mowa w ust. 1, dane mogą być udostępniane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2. Podmiotom, o których mowa w ust. 1, dane mogą być udostępniane za pośrednictwem instytucji utworzonej na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 **Art. 50.**
 
 1. Dane z rejestru PESEL udostępnia:
 
-- **1)** minister właściwy do spraw informatyzacji za pomocą urządzeń teletransmisji danych, w tym w drodze weryfikacji, oraz jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 2 pkt 2;
+- **1)** minister właściwy do spraw informatyzacji – za pomocą urządzeń teletransmisji danych, w tym w drodze weryfikacji, oraz jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 2 pkt 2;
 - **2)** organ dowolnej gminy, jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 1 i 2 pkt 1 i 3.
 
 2. Dane z rejestrów mieszkańców udostępniają organy gmin prowadzące te rejestry.
@@ -1186,25 +1285,38 @@ source: "isap-pdf"
 
 1. W sprawach o udostępnianie danych za pomocą urządzeń teletransmisji danych, o których mowa w art. 48 ust. 1, właściwy organ:
 
-- **1)** udostępnia dane za pomocą urządzeń teletransmisji danych, po spełnieniu warunków określonych w art. 48 ust. 1 w drodze czynności materialno-technicznej;
-- **2)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1, albo cofa zgodę na ich udostępnianie za pomocą urządzeń teletransmisji danych, jeżeli warunki te przestały być spełniane w drodze decyzji administracyjnej.
+- **1)** udostępnia dane za pomocą urządzeń teletransmisji danych, po spełnieniu warunków określonych w art. 48 ust. 1 – w drodze czynności materialno-technicznej;
+- **2)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1, albo cofa zgodę na ich udostępnianie za pomocą urządzeń teletransmisji danych, jeżeli warunki te przestały być spełniane – w drodze decyzji administracyjnej.
 
 2. W sprawach o udostępnianie danych za pomocą urządzeń teletransmisji danych w drodze weryfikacji, o których mowa w art. 49, minister właściwy do spraw informatyzacji:
 
-- **1)** udostępnia dane w drodze weryfikacji, po spełnieniu warunków określonych w art. 48 ust. 1 oraz art. 49 ust. 2–2aa w drodze czynności materialno-technicznej;
-- **2)** odmawia udostępniania danych w drodze weryfikacji danych, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 lub art. 49 ust. 2–2aa, albo cofa zgodę na ich udostępnianie w drodze weryfikacji, jeżeli warunki te przestały być spełniane w drodze decyzji administracyjnej.
+- **1)** udostępnia dane w drodze weryfikacji, po spełnieniu warunków określonych w art. 48 ust. 1 oraz art. 49 ust. 2–2aa – w drodze czynności materialno-technicznej;
+- **2)** odmawia udostępniania danych w drodze weryfikacji danych, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 lub art. 49 ust. 2–2aa, albo cofa zgodę na ich udostępnianie w drodze weryfikacji, jeżeli warunki te przestały być spełniane – w drodze decyzji administracyjnej.
 
 3. Decyzja o cofnięciu zgody na udostępnianie danych za pomocą urządzeń teletransmisji danych w drodze weryfikacji podlega natychmiastowemu wykonaniu.
 
 **Art. 52.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
+- **1)** wzór wniosku o udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 47 ust. 1,
+- **2)** wzór uproszczonego wniosku o udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 48 ust. 1,
+- **3)** wzór wniosku o udostępnianie danych z rejestru PESEL, o którym mowa w art. 49 ust. 1,
+- **4)** tryb uzyskiwania zgody, o której mowa w art. 46 ust. 2 pkt 3 – uwzględniając konieczność wykazania przez podmioty, o których mowa w art. 46 ust. 2 pkt 1, interesu prawnego w uzyskaniu danych jednostkowych w rozumieniu art. 47 ust. 4, lub interesu faktycznego w uzyskaniu danych w drodze weryfikacji w przypadkach, o których mowa w art. 49 ust. 2–2aa, oraz warunki, o których mowa w art. 48 ust. 1.
+
 **Art. 53.** Udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL następuje:
+
+- **1)** dla podmiotów, o których mowa w art. 46 ust. 1, art. 46 ust. 2 pkt 4, oraz ministra właściwego do spraw wewnętrznych – nieodpłatnie;
+- **2)** dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 – odpłatnie.
+- **2)** dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 i art. 49a ust. 1 – odpłatnie.
 
 **Art. 54.** Osoby i jednostki organizacyjne, o których mowa w art. 46 ust. 2 pkt 1, są zwolnione z opłat w przypadku udostępnienia z rejestru mieszkańców oraz rejestru PESEL danych niezbędnych do sporządzenia aktu poświadczenia dziedziczenia.
 
 **Art. 55.** Opłaty pobrane za udostępnienie danych stanowią dochód budżetu państwa.
 
 **Art. 56.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** wysokość, sposób i terminy uiszczania opłaty za udostępnienie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, a także za udostępnianie danych za pomocą urządzeń teletransmisji, w drodze weryfikacji, o której mowa w art. 49 ust. 1, oraz sposób dokumentowania uiszczenia opłaty,
+- **1)** wysokość, sposób i terminy uiszczania opłaty za udostępnianie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, za udostępnianie danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o której mowa w art. 49 ust. 1, a także za udostępnianie serii, numeru i daty ważności ważnego dowodu osobistego, o którym mowa w art. 49a ust. 1, oraz sposób dokumentowania uiszczenia opłaty,
+- **2)** sposób obliczania wysokości oraz sposób i terminy uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w art. 46 ust. 2 pkt 2, a także sposób dokumentowania uiszczenia opłaty – uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych. – mając na uwadze sposób udostępniania danych, a także uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych, a sposób i terminy uiszczania opłat nie powinny stwarzać nadmiernych obciążeń dla podmiotów występujących o udostępnianie danych.
 
 **Art. 57.**
 
@@ -1224,15 +1336,19 @@ source: "isap-pdf"
 
 **Art. 58.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** sposób i tryb przeprowadzania kontroli korzystania z dostępu do danych za pomocą teletransmisji danych, w drodze weryfikacji,
+- **2)** wzór upoważnienia do przeprowadzania kontroli,
+- **3)** wzór protokołu kontroli – biorąc pod uwagę wymagania, o których mowa w art. 46 ust. 2 pkt 1 i art. 48 ust. 1.
+
 #### Rozdział 7 Przepisy karne
 
 **Art. 59.**
 
-1. Cudzoziemiec niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, który nie dopełnia ciążącego na nim obowiązku meldunkowego, podlega karze grzywny.
+1. Cudzoziemiec niebędący obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, który nie dopełnia ciążącego na nim obowiązku meldunkowego, podlega karze grzywny.
 
-2. Przepisu ust. 1 nie stosuje się do cudzoziemca będącego członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej.
+2. Przepisu ust. 1 nie stosuje się do cudzoziemca będącego członkiem rodziny obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej.
 
-**Art. 60.** Postępowania w sprawach, o których mowa w art. 59, prowadzi się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
+**Art. 60.** Postępowania w sprawach, o których mowa w art. 59, prowadzi się na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
 
@@ -1260,6 +1376,9 @@ source: "isap-pdf"
 
 **Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. poz. 993, z późn. zm. ) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
 
+- **1)** zameldowanie, uchylenie czynności materialno-technicznej zameldowania oraz wymeldowanie, udostępnienie danych ze zbioru PESEL i gminnych zbiorów meldunkowych – prowadzi się na podstawie niniejszej ustawy;
+- **2)** udostępnienie danych z wojewódzkich zbiorów meldunkowych – umarza się.
+
 **Art. 70.**
 
 1. Zameldowanie na pobyt stały lub czasowy trwający ponad 3 miesiące dokonane na podstawie ustawy, o której mowa w art. 69, zachowuje ważność.
@@ -1280,7 +1399,9 @@ source: "isap-pdf"
 
 2. Ilekroć w dotychczasowych przepisach jest mowa o gminnych zbiorach meldunkowych, zbiorach meldunkowych, zbiorach danych stałych mieszkańców, należy przez to rozumieć rejestry mieszkańców.
 
-**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r. Art. 74–79. (uchylone)
+**Art. 73.** Z dniem wejścia w życie ustawy wygasają decyzje o zastrzeżeniu udostępnienia danych osobowych wydane na podstawie przepisów ustawy, o której mowa w art. 69, w brzmieniu obowiązującym do dnia 31 grudnia 2002 r.
+
+**Art. 74–79.** (uchylone)
 
 **Art. 80.** Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem art. 62, który wchodzi w życie z dniem 1 stycznia 2013 r.
 

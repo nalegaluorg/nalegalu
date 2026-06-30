@@ -8,12 +8,10 @@ pos: 1338
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o działalności pożytku publicznego i o wolontariacie
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działalności pożytku publicznego i o wolontariacie
 
 | Pole | Wartość |
 |---|---|
@@ -29,12 +27,14 @@ source: "isap-pdf"
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761),
-2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
+2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
 poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 3 i art. 4 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761), które stanowią: „Art. 3. W roku 2025 wysokość limitu przychodów, o których mowa w art. 10a ust. 1 pkt 5 ustawy zmienianej w art. 1 oraz art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 2, wynosi 1 000 000 zł.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
+
+- **2)** art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -53,6 +53,16 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** dotacji – rozumie się przez to dotację w rozumieniu art. 127 ust. 1 pkt 1 lit. e oraz art. 221 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
+- **2)** „środkach publicznych” – rozumie się przez to środki publiczne, o których mowa w ustawie o finansach publicznych, przeznaczone na wydatki publiczne w rozumieniu tej ustawy;
+- **3)** wolontariuszu – rozumie się przez to osobę fizyczną, która ochotniczo i bez wynagrodzenia wykonuje świadczenia na zasadach określonych w ustawie;
+- **4)** inicjatywie lokalnej – rozumie się przez to formę współpracy jednostek samorządu terytorialnego z ich mieszkańcami, w celu wspólnego realizowania zadania publicznego na rzecz społeczności lokalnej;
+- **5)** operatorze projektu – rozumie się przez to organizację pozarządową lub podmiot wymieniony w art. 3 ust. 3, którym organ administracji publicznej zleca realizację zadania publicznego w sferze, o której mowa w art. 4, w sposób, o którym mowa w art. 16a;
+- **6)** realizatorze projektu – rozumie się przez to organizację pozarządową lub podmiot wymieniony w art. 3 ust. 3, którym operator projektu zleca wykonanie projektu;
+- **7)** projekcie – rozumie się przez to zadanie publiczne w sferze, o której mowa w art. 4, realizowane przez realizatora projektu w sposób, o którym mowa w art. 16a;
+- **8)** Narodowym Instytucie – rozumie się przez to Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego, o którym mowa w art. 1 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2023 r. poz. 1618 oraz z 2025 r. poz. 531);
+- **9)** Dyrektorze Narodowego Instytutu – rozumie się przez to Dyrektora, o którym mowa w art. 4 pkt 1 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego.
+
 **Art. 3.**
 
 1. Działalnością pożytku publicznego jest działalność społecznie użyteczna, prowadzona przez organizacje pozarządowe w sferze zadań publicznych określonych w ustawie.
@@ -60,7 +70,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 2. Organizacjami pozarządowymi są:
 
 - **1)** niebędące jednostkami sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych lub przedsiębiorstwami, instytutami badawczymi, bankami i spółkami prawa handlowego będącymi państwowymi lub samorządowymi osobami prawnymi,
-- **2)** niedziałające w celu osiągnięcia zysku osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, którym odrębna ustawa przyznaje zdolność prawną, w tym fundacje i stowarzyszenia, z zastrzeżeniem ust. 4.
+- **2)** niedziałające w celu osiągnięcia zysku – osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, którym odrębna ustawa przyznaje zdolność prawną, w tym fundacje i stowarzyszenia, z zastrzeżeniem ust. 4.
 
 3. Działalność pożytku publicznego może być prowadzona także przez:
 
@@ -135,7 +145,14 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 4a.** Organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3, z wyłączeniem stowarzyszeń jednostek samorządu terytorialnego, które:
 
+- **1)** wykonują zadania publiczne, lub
+- **2)** dysponują majątkiem publicznym – udostępniają informację publiczną na zasadach i w trybie określonym w niniejszej ustawie.
+
 **Art. 4b.** Udostępnianie informacji publicznej następuje:
+
+- **1)** poprzez ogłaszanie informacji publicznej w Biuletynie Informacji Publicznej na zasadach, o których mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), albo
+- **2)** poprzez ogłaszanie informacji publicznej na stronie internetowej organizacji pozarządowych oraz podmiotów, o których mowa w art. 4a, albo
+- **3)** na wniosek na zasadach, o których mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
 **Art. 4c.** W zakresie nieuregulowanym w niniejszej ustawie do udostępniania informacji publicznej stosuje się przepisy ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
@@ -225,7 +242,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 #### Rozdział 1 Działalność odpłatna i nieodpłatna pożytku publicznego
 
-**Art. 6.** Działalność pożytku publicznego nie jest, z zastrzeżeniem art. 9 ust. 1, działalnością gospodarczą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), i może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna.
+**Art. 6.** Działalność pożytku publicznego nie jest, z zastrzeżeniem art. 9 ust. 1, działalnością gospodarczą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ), i może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna.
 
 **Art. 7.** Działalnością nieodpłatną pożytku publicznego jest działalność prowadzona przez organizacje pozarządowe i podmioty wymienione w art. 3 ust. 3, w sferze zadań publicznych, o której mowa w art. 4, za które nie pobierają one wynagrodzenia.
 
@@ -244,10 +261,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 9.**
 
-1. Działalność odpłatna pożytku publicznego organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 stanowi działalność gospodarczą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, jeżeli:
+1. Działalność odpłatna pożytku publicznego organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 stanowi działalność gospodarczą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, jeżeli:
 
 - **1)** wynagrodzenie, o którym mowa w art. 8 ust. 1, jest w odniesieniu do działalności danego rodzaju wyższe od tego, jakie wynika z kosztów tej działalności, lub
-- **2)** przeciętne miesięczne wynagrodzenie osoby fizycznej z tytułu zatrudnienia przy wykonywaniu statutowej działalności odpłatnej pożytku publicznego, za okres ostatniego roku obrotowego, a w przypadku zatrudnienia trwającego krócej niż rok obrotowy za okres tego zatrudnienia, przekracza 3-krotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za rok poprzedni.
+- **2)** przeciętne miesięczne wynagrodzenie osoby fizycznej z tytułu zatrudnienia przy wykonywaniu statutowej działalności odpłatnej pożytku publicznego, za okres ostatniego roku obrotowego, a w przypadku zatrudnienia trwającego krócej niż rok obrotowy – za okres tego zatrudnienia, przekracza 3-krotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za rok poprzedni.
 
 1a. Organ administracji publicznej, który w trakcie kontroli stwierdzi okoliczność, o której mowa w ust. 1, wzywa organizację pozarządową oraz podmioty wymienione w art. 3 ust. 3 pkt 2–4 do złożenia wniosku o wpis do rejestru przedsiębiorców działalności danego rodzaju w terminie 30 dni od dnia wezwania.
 
@@ -263,7 +280,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 - **1)** nieodpłatnej działalności pożytku publicznego,
 - **2)** odpłatnej działalności pożytku publicznego lub
-- **3)** działalności gospodarczej wymaga rachunkowego wyodrębnienia tych form działalności w stopniu umożliwiającym określenie przychodów, kosztów i wyników każdej z tych działalności, z zastrzeżeniem przepisów o rachunkowości.
+- **3)** działalności gospodarczej – wymaga rachunkowego wyodrębnienia tych form działalności w stopniu umożliwiającym określenie przychodów, kosztów i wyników każdej z tych działalności, z zastrzeżeniem przepisów o rachunkowości.
 
 2. Przepis ust. 1 stosuje się odpowiednio w przypadku organizacyjnego wyodrębnienia działalności pożytku publicznego.
 
@@ -275,7 +292,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 - **1)** działają w sferze zadań publicznych określonych w art. 4 ust. 1,
 - **1)** (uchylony)
-- **2)** nie prowadzą działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców,
+- **2)** nie prowadzą działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
 - **3)** nie posiadają statusu organizacji pożytku publicznego,
 - **4)** osiągają przychody wyłącznie z:
     - **a)** działalności nieodpłatnej pożytku publicznego z tytułu składek członkowskich, darowizn, zapisów, spadków, dotacji, subwencji, przychodów pochodzących z ofiarności publicznej,
@@ -285,7 +302,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 - **4)** (uchylony)
 - **5)** w roku poprzedzającym rok wyboru prowadzenia uproszczonej ewidencji przychodów i kosztów osiągnęły przychody wyłącznie z tytułów, o których mowa w pkt 4, w wysokości nieprzekraczającej 100 000 zł
-- **5)** w roku poprzedzającym rok wyboru prowadzenia uproszczonej ewidencji przychodów i kosztów osiągnęły przychody w wysokości nieprzekraczającej 1 000 000 zł, nie wliczając wartości darowizn rzeczowych przeznaczonych na prowadzenie działalności statutowej jeżeli decyzję w sprawie prowadzenia uproszczonej ewidencji przychodów i kosztów podejmie organ zatwierdzający w rozumieniu przepisów o rachunkowości.
+- **5)** w roku poprzedzającym rok wyboru prowadzenia uproszczonej ewidencji przychodów i kosztów osiągnęły przychody w wysokości nieprzekraczającej 1 000 000 zł, nie wliczając wartości darowizn rzeczowych przeznaczonych na prowadzenie działalności statutowej – jeżeli decyzję w sprawie prowadzenia uproszczonej ewidencji przychodów i kosztów podejmie organ zatwierdzający w rozumieniu przepisów o rachunkowości.
 
 2. Przepisu ust. 1 pkt 5 w zakresie wielkości przychodów nie stosuje się w roku, w którym jednostka rozpoczęła działalność.
 
@@ -343,7 +360,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 5. Wspieranie oraz powierzanie zadań, o których mowa w ust. 1, może nastąpić na zasadach i w trybie przepisów o partnerstwie publiczno-prywatnym albo na podstawie umów międzynarodowych, jeżeli na realizację określonego zadania publicznego będą przekazywane niepodlegające zwrotowi środki ze źródeł zagranicznych.
 
-6. W przypadku unieważnienia otwartego konkursu ofert, o którym mowa w ust. 2, organ może ponownie ogłosić otwarty konkurs ofert lub zastosować tryb wynikający z innych przepisów, w tym przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+6. W przypadku unieważnienia otwartego konkursu ofert, o którym mowa w ust. 2, organ może ponownie ogłosić otwarty konkurs ofert lub zastosować tryb wynikający z innych przepisów, w tym przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 **Art. 11a.** W razie wystąpienia klęski żywiołowej, katastrofy naturalnej lub awarii technicznej, w rozumieniu art. 3 ust. 1 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2025 r. poz. 112), w kraju lub poza jego granicami organ administracji publicznej, w celu zapobieżenia ich skutkom, może zlecać organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 realizację zadania publicznego z pominięciem otwartego konkursu ofert. Przepisy art. 43, art. 47, art. 151 oraz art. 221 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
 
@@ -456,7 +473,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **1)** uczestniczyć w pracach komisji z głosem doradczym;
 - **2)** wydawać opinie.
 
-2f. Do członków komisji konkursowej biorących udział w opiniowaniu ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące wyłączenia pracownika.
+2f. Do członków komisji konkursowej biorących udział w opiniowaniu ofert stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) dotyczące wyłączenia pracownika.
 
 2g. W otwartym konkursie ofert może zostać wybrana więcej niż jedna oferta.
 
@@ -504,6 +521,11 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 17.** Organ administracji publicznej zlecający realizację zadania publicznego może dokonywać kontroli i oceny realizacji zadania, w szczególności:
 
+- **1)** stopnia realizacji zadania;
+- **2)** efektywności, rzetelności i jakości realizacji zadania;
+- **3)** prawidłowości wykorzystania środków publicznych otrzymanych na realizację zadania;
+- **4)** prowadzenia dokumentacji związanej z realizowanym zadaniem.
+
 **Art. 18.**
 
 1. Sprawozdanie z wykonania zadania publicznego określonego w umowie należy sporządzić w terminie 30 dni od dnia zakończenia realizacji zadania publicznego.
@@ -536,6 +558,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 2. Informację o unieważnieniu otwartego konkursu ofert organ administracji publicznej podaje do publicznej wiadomości w sposób określony w art. 13 ust. 3.
 
 **Art. 19.** Przewodniczący Komitetu określi, w drodze rozporządzenia:
+
+- **1)** wzory ofert, o których mowa w art. 14 ust. 1, 1a i 2,
+- **2)** ramowe wzory umów, o których mowa w art. 16 ust. 1, 1a i 6,
+- **3)** wzory sprawozdań, o których mowa w art. 18 – uwzględniając konieczność zapewnienia niezbędnych informacji dotyczących wykonania zadania publicznego oraz biorąc pod uwagę liczbę oferentów, sposób i czas realizacji zadania publicznego, a także sposób jego rozliczenia.
 
 **Art. 19a.**
 
@@ -607,7 +633,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 19g.** Organ wykonawczy jednostki samorządu terytorialnego wspólnie z wnioskodawcą opracowuje dokumenty niezbędne do przeprowadzenia inicjatywy lokalnej, w tym harmonogram i kosztorys.
 
-**Art. 19h.** W zakresie nieuregulowanym w ustawie, do umowy o wykonanie inicjatywy lokalnej stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172).
+**Art. 19h.** W zakresie nieuregulowanym w ustawie, do umowy o wykonanie inicjatywy lokalnej stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172).
 
 #### Rozdział 3 Organizacje pożytku publicznego
 
@@ -634,6 +660,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 21.** W przypadku podmiotów, o których mowa w art. 3 ust. 3 pkt 1:
 
+- **1)** działalność pożytku publicznego określona w art. 20 ust. 1 pkt 1 podlega wyodrębnieniu w sposób zapewniający należytą identyfikację pod względem organizacyjnym i rachunkowym;
+- **2)** przepis art. 20 ust. 1 pkt 3 stosuje się do nadwyżki przychodu nad kosztami uzyskiwanej w wyniku prowadzenia działalności pożytku publicznego;
+- **3)** przepis art. 20 ust. 1 pkt 4 stosuje się odpowiednio, z uwzględnieniem szczegółowych zasad organizacji i działania tych jednostek, uregulowanych w przepisach dla nich właściwych, w tym w statutach lub innych aktach wewnętrznych.
+
 **Art. 22.**
 
 1. Organizacja pozarządowa oraz podmioty wymienione w art. 3 ust. 3 pkt 1 i 4 mogą uzyskać status organizacji pożytku publicznego pod warunkiem, iż działalność o której mowa w art. 20 ust. 1 pkt 1 i ust. 2 prowadzona jest nieprzerwanie przez co najmniej 2 lata.
@@ -644,7 +674,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 3. Organizacja pozarządowa inna niż wymieniona w ust. 2 oraz podmioty wymienione w art. 3 ust. 3 pkt 1, uzyskują status organizacji pożytku publicznego z chwilą wpisania do Krajowego Rejestru Sądowego, na zasadach i w trybie określonych w ustawie, o której mowa w ust. 2.
 
-4. Organizacja pozarządowa, oraz podmioty wymienione w art. 3 ust. 3 pkt 4 o których mowa w ust. 2, traci status organizacji pożytku publicznego z chwilą wykreślenia z Krajowego Rejestru Sądowego informacji o spełnianiu wymagań określonych w art. 20, a podmioty, o których mowa w ust. 3 z chwilą ich wykreślenia z tego Rejestru.
+4. Organizacja pozarządowa, oraz podmioty wymienione w art. 3 ust. 3 pkt 4 o których mowa w ust. 2, traci status organizacji pożytku publicznego z chwilą wykreślenia z Krajowego Rejestru Sądowego informacji o spełnianiu wymagań określonych w art. 20, a podmioty, o których mowa w ust. 3 – z chwilą ich wykreślenia z tego Rejestru.
 
 5. W przypadku otwarcia likwidacji, ogłoszenia upadłości albo prawomocnego oddalenia wniosku o ogłoszenie upadłości organizacji pożytku publicznego z uwagi na fakt, że majątek organizacji pożytku publicznego nie wystarcza na zaspokojenie kosztów postępowania, sąd rejestrowy z urzędu wykreśla informację, o której mowa w ust. 2, lub organizację, o której mowa w ust. 3, z Krajowego Rejestru Sądowego.
 
@@ -657,7 +687,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 8. W przypadku niepoinformowania lub nieprzekazania środków, o których mowa w ust. 7, Dyrektor Narodowego Instytutu wzywa organizację pożytku publicznego do zwrotu niewydatkowanych środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych lub przedstawienia niezbędnych wyjaśnień.
 
-9. W przypadku niezastosowania się organizacji pożytku publicznego do wezwania w terminie 14 dni od dnia jego otrzymania Dyrektor Narodowego Instytutu wydaje decyzję określającą kwotę niewydatkowanych środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych i określa termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+9. W przypadku niezastosowania się organizacji pożytku publicznego do wezwania w terminie 14 dni od dnia jego otrzymania Dyrektor Narodowego Instytutu wydaje decyzję określającą kwotę niewydatkowanych środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych i określa termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
 
 **Art. 22a.**
 
@@ -757,7 +787,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **2)** podatku od nieruchomości,
 - **3)** podatku od czynności cywilnoprawnych,
 - **4)** opłaty skarbowej,
-- **5)** opłat sądowych w odniesieniu do prowadzonej przez nią działalności pożytku publicznego.
+- **5)** opłat sądowych – w odniesieniu do prowadzonej przez nią działalności pożytku publicznego.
 
 2. Organizacja pożytku publicznego może, na zasadach określonych w odrębnych przepisach, nabywać na szczególnych warunkach prawo użytkowania nieruchomości będących własnością Skarbu Państwa lub jednostki samorządu terytorialnego.
 
@@ -777,7 +807,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 2. Otrzymane przez organizację pożytku publicznego środki finansowe pochodzące z 1,5 % podatku dochodowego od osób fizycznych mogą być wykorzystane wyłącznie na prowadzenie działalności pożytku publicznego.
 
-2a. W przypadku wydatkowania przez organizację pożytku publicznego środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych w sposób niezgodny z ust. 2, stwierdzonego w wyniku kontroli, o której mowa w art. 29, lub kontroli przeprowadzonej przez inny organ kontroli państwowej, naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego, Dyrektor Narodowego Instytutu wydaje decyzję zobowiązującą organizację pożytku publicznego do zwrotu nieprawidłowo wydatkowanych środków, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+2a. W przypadku wydatkowania przez organizację pożytku publicznego środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych w sposób niezgodny z ust. 2, stwierdzonego w wyniku kontroli, o której mowa w art. 29, lub kontroli przeprowadzonej przez inny organ kontroli państwowej, naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego, Dyrektor Narodowego Instytutu wydaje decyzję zobowiązującą organizację pożytku publicznego do zwrotu nieprawidłowo wydatkowanych środków, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 2b. Środki, o których mowa w ust. 2a, są przekazywane na rzecz Funduszu Wspierania Organizacji Pożytku Publicznego.
 
@@ -817,15 +847,23 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 9. Przepisu ust. 8 nie stosuje się do organizacji, które zgłosiły numer rachunku bankowego w latach ubiegłych jako właściwy do przekazania 1,5 % podatku dochodowego od osób fizycznych i jest on aktualny.
 
-10. Przewodniczący Komitetu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryby, terminy oraz format i strukturę danych dla wymiany informacji dotyczących organizacji pożytku publicznego, o których mowa w ust. 4 i 5, między Dyrektorem Narodowego Instytutu a Ministrem Sprawiedliwości oraz ministrem właściwym do spraw finansów publicznych, mając na względzie potrzebę zapewnienia sprawnej realizacji zadań związanych z tworzeniem i prowadzeniem wykazu, o którym mowa w ust. 1, oraz z przekazywaniem organizacjom pożytku publicznego środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych. Art. 27aa. 1. Organizacja pożytku publicznego, która została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania lub przekazywać środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych na rzecz organizacji pożytku publicznego, które nie zostały uwzględnione w tym wykazie.
+10. Przewodniczący Komitetu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryby, terminy oraz format i strukturę danych dla wymiany informacji dotyczących organizacji pożytku publicznego, o których mowa w ust. 4 i 5, między Dyrektorem Narodowego Instytutu a Ministrem Sprawiedliwości oraz ministrem właściwym do spraw finansów publicznych, mając na względzie potrzebę zapewnienia sprawnej realizacji zadań związanych z tworzeniem i prowadzeniem wykazu, o którym mowa w ust. 1, oraz z przekazywaniem organizacjom pożytku publicznego środków pochodzących z 1,5 % podatku dochodowego od osób fizycznych.
+
+**Art. 27aa.**
+
+1. Organizacja pożytku publicznego, która została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania lub przekazywać środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych na rzecz organizacji pożytku publicznego, które nie zostały uwzględnione w tym wykazie.
 
 2. Organizacja pożytku publicznego, która nie została uwzględniona w wykazie, o którym mowa w art. 27a, nie może wzywać do przekazania środków finansowych pochodzących z 1,5 % podatku dochodowego od osób fizycznych za pośrednictwem organizacji pożytku publicznego, która została uwzględniona w tym wykazie.
 
 3. Środki finansowe pochodzące z 1,5 % podatku dochodowego od osób fizycznych przekazane na rzecz organizacji pożytku publicznego, która nie została uwzględniona w wykazie, o którym mowa w art. 27a, są przekazywane na rzecz Funduszu Wspierania Organizacji Pożytku Publicznego.
 
-4. W przypadku przekazania środków, o którym mowa w ust. 3, Dyrektor Narodowego Instytutu wydaje decyzję, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+4. W przypadku przekazania środków, o którym mowa w ust. 3, Dyrektor Narodowego Instytutu wydaje decyzję, określając kwotę podlegającą zwrotowi i termin, od którego nalicza się odsetki. W zakresie nieuregulowanym stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
-5. W przypadkach, o których mowa w ust. 1 i 2, Dyrektor Narodowego Instytutu, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego. Art. 27ab. 1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
+5. W przypadkach, o których mowa w ust. 1 i 2, Dyrektor Narodowego Instytutu, po stwierdzeniu nieprawidłowości przez niego lub inny organ, może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
+
+**Art. 27ab.**
+
+1. Tworzy się Fundusz Wspierania Organizacji Pożytku Publicznego, zwany dalej „Funduszem”, w celu wzmocnienia potencjału organizacji pożytku publicznego poprzez wyrównywanie ich szans.
 
 2. Fundusz jest państwowym funduszem celowym, którego dysponentem jest Dyrektor Narodowego Instytutu, zwany dalej „dysponentem Funduszu”.
 
@@ -898,7 +936,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 1. Osoby upoważnione do dokonywania kontroli są uprawnione do wstępu na teren nieruchomości lub jej części, na którym jest prowadzona działalność organizacji pożytku publicznego, oraz żądania pisemnych lub ustnych wyjaśnień, okazania dokumentów lub innych nośników informacji, a także udostępniania danych mających związek z przedmiotem kontroli.
 
-2. Czynności kontrolnych, o których mowa w ust. 1, dokonuje się w obecności członka organu zarządzającego lub jego przedstawiciela albo pracownika kontrolowanej organizacji pożytku publicznego, a w razie nieobecności tych osób w obecności przywołanego świadka.
+2. Czynności kontrolnych, o których mowa w ust. 1, dokonuje się w obecności członka organu zarządzającego lub jego przedstawiciela albo pracownika kontrolowanej organizacji pożytku publicznego, a w razie nieobecności tych osób – w obecności przywołanego świadka.
 
 **Art. 31.**
 
@@ -939,7 +977,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **1)** prowadzenia zbiórki publicznej bez wymaganego zgłoszenia lub nienadesłania do ministra właściwego do spraw administracji publicznej sprawozdania z przeprowadzonej zbiórki publicznej lub sprawozdania ze sposobu rozdysponowania zebranych ofiar;
 - **2)** nienadesłania informacji o rozliczeniu środków pochodzących ze zbiórki publicznej lub informacji o otrzymanych darowiznach, o których mowa w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. );
 - **3)** prowadzenia:
-    - **a)** placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, centrum integracji społecznej, domów pomocy społecznej, placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, określonych w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz szkół lub placówek publicznych określonych w ustawie z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), bez zezwolenia,
+    - **a)** placówek zapewniających całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, centrum integracji społecznej, domów pomocy społecznej, placówek opiekuńczo-wychowawczych, regionalnych placówek opiekuńczo-terapeutycznych i interwencyjnych ośrodków preadopcyjnych, określonych w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, oraz szkół lub placówek publicznych określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160), bez zezwolenia,
     - **b)** podmiotu wykonującego działalność leczniczą bez uzyskania wymaganego wpisu do rejestru w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 
 - **4)** posiadania zaległości podatkowych stwierdzonych prawomocną decyzją lub tytułem wykonawczym, o którym mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620), w wysokości przekraczającej wysokość przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za rok poprzedni, jeżeli zaległość ta istnieje co najmniej 6 miesięcy;
@@ -952,7 +990,9 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 4. Właściwe organy udzielają Dyrektorowi Narodowego Instytutu informacji o naruszeniach, o których mowa w ust. 2 i 3. Informacje te są przekazywane z urzędu w terminie 30 dni, licząc od dnia stwierdzenia tych naruszeń.
 
-5. W przypadkach określonych w ust. 1 i 2 stosuje się odpowiednio przepisy działu I rozdziału 8 Kodeksu postępowania administracyjnego. Art. 33aa. Dyrektor Narodowego Instytutu, na podstawie przekazanej przez sąd lub organ administracji publicznej informacji o naruszeniu wymogów określonych w art. 20, występuje do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
+5. W przypadkach określonych w ust. 1 i 2 stosuje się odpowiednio przepisy działu I rozdziału 8 Kodeksu postępowania administracyjnego.
+
+**Art. 33aa.** Dyrektor Narodowego Instytutu, na podstawie przekazanej przez sąd lub organ administracji publicznej informacji o naruszeniu wymogów określonych w art. 20, występuje do sądu rejestrowego o wykreślenie informacji, o której mowa w art. 22 ust. 2, lub organizacji, o której mowa w art. 22 ust. 3, z Krajowego Rejestru Sądowego.
 
 **Art. 33b.** Przewodniczący Komitetu określi, w drodze rozporządzenia, szczegółowe warunki, sposób i tryb przeprowadzania kontroli organizacji pożytku publicznego, w tym wzór upoważnienia do przeprowadzenia kontroli, uwzględniając konieczność zapewnienia jej sprawnego i skutecznego przebiegu.
 
@@ -969,7 +1009,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 1. W skład Komitetu wchodzą:
 
 - **1)** Przewodniczący Komitetu;
-- **2)** wiceprzewodniczący sekretarz stanu albo podsekretarz stanu, o którym mowa w pkt 3 lit. a, powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Przewodniczącego Komitetu;
+- **2)** wiceprzewodniczący – sekretarz stanu albo podsekretarz stanu, o którym mowa w pkt 3 lit. a, powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Przewodniczącego Komitetu;
 - **3)** członkowie:
     - **a)** ministrowie, których szczegółowy zakres działania określają przepisy wydane na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780), reprezentowani przez sekretarza stanu albo podsekretarza stanu, z zastrzeżeniem ust. 3,
     - **b)** Dyrektor Narodowego Instytutu.
@@ -1046,7 +1086,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **6)** tworzenie, we współpracy z organizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, mechanizmów informowania o standardach prowadzenia działalności pożytku publicznego oraz o stwierdzonych przypadkach naruszenia tych standardów;
 - **7)** (uchylony)
 - **8)** organizowanie wyborów przedstawicieli organizacji pozarządowych do składu komitetu monitorującego, o którym mowa w art. 14 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020, i organizowanie postępowania w celu wyłonienia organizacji pozarządowych do składu komitetu monitorującego, o którym mowa w art. 16 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027;
-- **9)** przeprowadzanie postępowania konkursowego w celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080).
+- **9)** przeprowadzanie postępowania konkursowego w celu wyłonienia kandydatów na przedstawiciela organizacji pozarządowych do Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, zgodnie z art. 400d ust. 3–4b ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080).
 
 3. Kadencja Rady trwa 3 lata.
 
@@ -1079,6 +1119,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 **Art. 37.** Posiedzenia Rady są zwoływane przez Przewodniczącego Komitetu lub na wniosek co najmniej jednej czwartej liczby członków Rady.
 
 **Art. 38.** Rada może:
+
+- **1)** powoływać ekspertów;
+- **2)** zapraszać do uczestnictwa w jej posiedzeniach przedstawicieli organów administracji publicznej i organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 niereprezentowanych w Radzie, a także przedstawicieli rad wojewódzkich, powiatowych i gminnych;
+- **3)** zlecać przeprowadzanie badań i opracowanie ekspertyz związanych z realizacją jej zadań.
 
 **Art. 39.**
 
@@ -1127,7 +1171,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **9)** przedstawiciela jednostek samorządu terytorialnego;
 - **10)** przedstawicieli organizacji pozarządowych, związków i porozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3;
 - **11)** przedstawicieli młodzieżowych rad gmin w rozumieniu art. 5b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153), przedstawicieli młodzieżowych rad powiatów w rozumieniu art. 3e ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907), przedstawicieli młodzieżowych sejmików województw w rozumieniu art. 10b ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581);
-- **12)** przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
+- **12)** przedstawicieli Parlamentu Studentów Rzeczypospolitej Polskiej w rozumieniu art. 338 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 2. Przedstawiciele organizacji pozarządowych, związków i porozumień organizacji pozarządowych, podmiotów wymienionych w art. 3 ust. 3 oraz młodzieżowych rad gmin, młodzieżowych rad powiatów, młodzieżowych sejmików województw i Parlamentu Studentów Rzeczypospolitej Polskiej stanowią co najmniej połowę składu Rady Dialogu z Młodym Pokoleniem.
 
@@ -1201,7 +1245,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 6. Zarząd województwa określi, w drodze uchwały, organizację i tryb działania Rady Wojewódzkiej, biorąc pod uwagę potrzebę zapewnienia sprawnego funkcjonowania Rady Wojewódzkiej.
 
-7. Zarząd województwa pokrywa koszty przejazdów członków Rady Wojewódzkiej na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy i koszty ekspertyz związanych z realizacją zadań Rady Wojewódzkiej.
+7. Zarząd województwa pokrywa koszty przejazdów członków Rady Wojewódzkiej na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy i koszty ekspertyz związanych z realizacją zadań Rady Wojewódzkiej.
 
 **Art. 41c.**
 
@@ -1222,6 +1266,10 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 3. Kadencja Rady Powiatowej oraz Rady Gminnej trwa 3 lata.
 
 **Art. 41f.** Rada Powiatowa oraz Rada Gminna składa się z:
+
+- **1)** przedstawicieli organu stanowiącego odpowiednio powiatu lub gminy;
+- **2)** przedstawicieli organu wykonawczego odpowiednio powiatu lub gminy;
+- **3)** przedstawicieli organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3, prowadzących działalność na terenie odpowiednio powiatu lub gminy, stanowiących co najmniej połowę członków.
 
 **Art. 41g.**
 
@@ -1259,6 +1307,9 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 41l.** Do zadań pełnomocnika wojewody do spraw społeczeństwa obywatelskiego należy:
 
+- **1)** monitorowanie wdrażania programów wspierania rozwoju społeczeństwa obywatelskiego oraz programów, o których mowa w art. 5b ust. 1;
+- **2)** koordynowanie współpracy jednostek administracji rządowej w województwie z organizacjami pozarządowymi, które zgodnie z zakresem swoich zadań statutowych działają na rzecz rozwoju społeczeństwa obywatelskiego.
+
 ### DZIAŁ III Wolontariat
 
 #### Rozdział 1 Przepisy ogólne
@@ -1270,7 +1321,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 - **1)** organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 w zakresie ich działalności statutowej, w szczególności w zakresie działalności pożytku publicznego, z wyłączeniem prowadzonej przez nie działalności gospodarczej,
 - **2)** organów administracji publicznej, z wyłączeniem prowadzonej przez nie działalności gospodarczej,
 - **3)** jednostek organizacyjnych podległych organom administracji publicznej lub nadzorowanych przez te organy, z wyłączeniem prowadzonej przez te jednostki działalności gospodarczej,
-- **4)** podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej w zakresie wykonywanej przez nie działalności leczniczej zwanych dalej „korzystającymi”.
+- **4)** podmiotów leczniczych w rozumieniu przepisów o działalności leczniczej w zakresie wykonywanej przez nie działalności leczniczej – zwanych dalej „korzystającymi”.
 
 2. Przepisy niniejszego rozdziału stosuje się odpowiednio do wolontariuszy wykonujących na obszarze Rzeczypospolitej Polskiej świadczenia na rzecz organizacji międzynarodowych, jeżeli postanowienia umów międzynarodowych nie stanowią inaczej.
 
@@ -1288,7 +1339,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 4. Jeżeli świadczenie wolontariusza wykonywane jest przez okres dłuższy niż 30 dni, porozumienie powinno być sporządzone na piśmie.
 
-5. Do porozumień zawieranych między korzystającym a wolontariuszem w zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+5. Do porozumień zawieranych między korzystającym a wolontariuszem w zakresie nieuregulowanym niniejszą ustawą stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 #### Rozdział 2 Przepisy szczególne
 
@@ -1297,7 +1348,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 1. Korzystający ma obowiązek:
 
 - **1)** informować wolontariusza o ryzyku dla zdrowia i bezpieczeństwa związanym z wykonywanymi świadczeniami oraz o zasadach ochrony przed zagrożeniami;
-- **2)** zapewnić wolontariuszowi, na dotyczących pracowników zasadach określonych w odrębnych przepisach, bezpieczne i higieniczne warunki wykonywania przez niego świadczeń, w tym w zależności od rodzaju świadczeń i zagrożeń związanych z ich wykonywaniem odpowiednie środki ochrony indywidualnej;
+- **2)** zapewnić wolontariuszowi, na dotyczących pracowników zasadach określonych w odrębnych przepisach, bezpieczne i higieniczne warunki wykonywania przez niego świadczeń, w tym – w zależności od rodzaju świadczeń i zagrożeń związanych z ich wykonywaniem – odpowiednie środki ochrony indywidualnej;
 - **3)** pokrywać, na dotyczących pracowników zasadach określonych w odrębnych przepisach, koszty podróży służbowych i diet.
 
 2. Korzystający może pokrywać, na dotyczących pracowników zasadach określonych w odrębnych przepisach, także inne niezbędne koszty ponoszone przez wolontariusza, związane z wykonywaniem świadczeń na rzecz korzystającego.
@@ -1326,6 +1377,9 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 49.** Wydatki na cele, o których mowa w art. 45 ust. 1 i 3 oraz w art. 46 ust. 3 i 6 stanowią:
 
+- **1)** koszty prowadzenia działalności statutowej organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 jako korzystających;
+- **2)** koszty korzystających, o których mowa w art. 42 ust. 1 pkt 2 i 3.
+
 **Art. 50.** Wartość świadczenia wolontariusza nie stanowi darowizny na rzecz korzystającego w rozumieniu przepisów Kodeksu cywilnego oraz przepisów podatkowych.
 
 **Art. 50a.** Rada Ministrów, na podstawie informacji uzyskanych od organów administracji rządowej i jednostek samorządu terytorialnego, przedstawia co 2 lata Sejmowi i Senatowi Rzeczypospolitej Polskiej sprawozdanie z wykonania ustawy w terminie do dnia 30 listopada roku następującego po upływie okresu sprawozdawczego.
@@ -1344,7 +1398,7 @@ poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 wrz
 
 **Art. 50d.** Kto, prowadząc promocję 1,5 % podatku dochodowego od osób fizycznych, nie wypełnia obowiązku przekazywania informacji, o której mowa w art. 27c, podlega karze grzywny.
 
-**Art. 50e.** Orzekanie w sprawach, o których mowa w art. 50b–50d, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
+**Art. 50e.** Orzekanie w sprawach, o których mowa w art. 50b–50d, następuje w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178).
 
 **Art. 51.** (pominięty)
 

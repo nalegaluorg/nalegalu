@@ -8,10 +8,10 @@ pos: 717
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy - Kodeks wykroczeń, ustawy - Kodeks postępowania w sprawach o wykroczenia, ustawy o ustroju kolegiów do spraw wykroczeń, ustawy - Kodeks pracy i niektórych innych ustaw
+# Ustawa z dnia 28 sierpnia 1998 r. o zmianie ustawy - Kodeks wykroczeń, ustawy - Kodeks postępowania w sprawach o wykroczenia, ustawy o ustroju kolegiów do spraw wykroczeń, ustawy - Kodeks pracy i niektórych innych ustaw.
 
 *USTAWA z dnia 28 sierpnia 1998 r.*
 
@@ -29,9 +29,54 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. Nr 12, poz. 114, z 1981 r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35, Nr 44, poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60, Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135, Nr 41, poz. 324, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422, Nr 86, poz. 504, z 1991 r. Nr 75, poz. 332, Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29, Nr 60, poz. 310, Nr 95, poz. 475 oraz z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz. 602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr 133, poz. 884 i Nr 141, poz. 942) wprowadza się następujące zmiany:
 
+- **1)** art. 1 otrzymuje brzmienie: "Art. 1. §1. Odpowiedzialności za wykroczenie podlega ten tylko, kto popełnia czyn społecznie szkodliwy, zabroniony przez ustawę obowiązującą w czasie jego popełnienia pod groźbą kary aresztu, ograniczenia wolności, grzywny do 5000 złotych lub nagany.
+
+§ 2. Nie popełnia wykroczenia sprawca czynu zabronionego, jeżeli nie można mu przypisać winy w czasie czynu";
+
+- **2)** w art. 3 w § 1 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
+- **3)** art. 5 otrzymuje brzmienie: "Art. 5. Wykroczenie można popełnić zarówno umyślnie, jak i nieumyślnie, chyba że ustawa przewiduje odpowiedzialność tylko za wykroczenie umyślne.";
+- **4)** w art. 6 § 2 otrzymuje brzmienie: "§2. Wykroczenie nieumyślne zachodzi, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu przewidywał albo mógł przewidzieć.";
+- **5)** w art. 7 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: "§2. Nie popełnia wykroczenia umyślnego, kto pozostaje w błędzie co do okoliczności stanowiącej znamię czynu zabronionego.";
+- **6)** art. 8 otrzymuje brzmienie: "Art. 8. Na zasadach określonych w niniejszej ustawie odpowiada ten, kto popełnia czyn zabroniony po ukończeniu lat 17.";
+- **7)** art. 9 otrzymuje brzmienie: "Art. 9. §1. Jeżeli czyn wyczerpuje znamiona wykroczeń określonych w dwóch lub więcej przepisach ustawy, stosuje się przepis przewidujący najsurowszą karę, co nie stoi na przeszkodzie orzeczeniu środków karnych na podstawie innych naruszonych przepisów.
+
+§ 2. Jeżeli jednocześnie orzeka się o ukaraniu za dwa lub więcej wykroczeń, wymierza się łącznie karę w granicach zagrożenia określonych w przepisie przewidującym najsurowszą karę, co nie stoi na przeszkodzie orzeczeniu środków karnych na podstawie innych naruszonych przepisów.";
+
+- **8)** w art. 10:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, a wymierzono kary lub środki karne za wykroczenie oraz za przestępstwo, kara i środek karny wymierzone za wykroczenie nie podlegają wykonaniu; w razie ich uprzedniego wykonania zalicza się je na poczet kar i środków karnych wymierzonych za przestępstwo.",
+    - **b)** w § 2 wyrazy "od 5 złotych do 150 złotych" zastępuje się wyrazami "od 20 złotych do 150 złotych",
+    - **c)** § 3 skreśla się;
+
+- **9)** art. 11-13 otrzymują brzmienie: "Art. 11. §1. Odpowiada za usiłowanie, kto w zamiarze popełnienia czynu zabronionego swoim zachowaniem bezpośrednio zmierza do jego dokonania, które jednak nie następuje.
+
+§ 2. Odpowiedzialność za usiłowanie zachodzi, gdy ustawa tak stanowi.
+
+§ 3. Karę za usiłowanie wymierza się w granicach zagrożenia przewidzianego dla danego wykroczenia.
+
+§ 4. Nie podlega karze za usiłowanie, kto dobrowolnie odstąpił od czynu lub zapobiegł skutkowi stanowiącemu znamię czynu zabronionego.
+
 **Art. 12.** Odpowiada za podżeganie, kto chcąc, aby inna osoba dokonała czynu zabronionego, nakłania ją do tego.
 
 **Art. 13.** Odpowiada za pomocnictwo, kto w zamiarze, aby inna osoba dokonała czynu zabronionego, swoim zachowaniem ułatwia jego popełnienie, w szczególności dostarczając narzędzie, środek przewozu, udzielając rady lub informacji; odpowiada za pomocnictwo także ten, kto wbrew prawnemu, szczególnemu obowiązkowi niedopuszczenia do popełnienia czynu zabronionego swoim zaniechaniem ułatwia innej osobie jego popełnienie.";
+
+- **10)** w art. 14 § 2 otrzymuje brzmienie: "§2. Każdy ze współdziałających w popełnieniu czynu zabronionego odpowiada w granicach swojej umyślności lub nieumyślności, niezależnie od odpowiedzialności pozostałych współdziałających.";
+- **11)** w art. 15:
+    - **a)** skreśla się oznaczenie § 1, a wyrazy "społeczne lub jakiekolwiek dobro jednostki" zastępuje się wyrazami "chronione prawem",
+    - **b)** § 2 skreśla się";
+
+- **12)** w art. 16 w § 1 wyrazy "społecznemu lub jakiemukolwiek dobru jednostki" zastępuje się wyrazami "chronionemu prawem";
+- **13)** art. 17 otrzymuje brzmienie: "Art. 17. §1. Nie popełnia wykroczenia, kto, z powodu choroby psychicznej, upośledzenia umysłowego lub innego zakłócenia czynności psychicznych, nie mógł w czasie czynu rozpoznać jego znaczenia lub pokierować swoim postępowaniem.
+
+§ 2. Jeżeli w czasie popełnienia wykroczenia zdolność rozpoznawania znaczenia czynu lub kierowania postępowaniem była w znacznym stopniu ograniczona, można odstąpić od wymierzenia kary lub środka karnego.
+
+§ 3. Przepisów § 1 i 2 nie stosuje się, gdy sprawca wykroczenia wprawił się w stan nietrzeźwości lub odurzenia powodujący wyłączenie lub ograniczenie poczytalności, które przewidywał albo mógł przewidzieć.";
+
+- **14)** tytuł rozdziału II otrzymuje brzmienie: "Rozdział II. Kary, środki karne i zasady ich wymiaru";
+- **15)** art. 18-22 otrzymują brzmienie: "Art. 18. Karami są:
+- **1)** areszt,
+- **2)** ograniczenie wolności,
+- **3)** grzywna,
+- **4)** nagana.
 
 **Art. 19.** Kara aresztu trwa najkrócej 5, najdłużej 30 dni; wymierza się ją w dniach.
 
@@ -49,13 +94,39 @@ source: "isap-pdf"
 
 § 1. Obowiązek określony w art. 20 § 2 pkt 2 polega na wykonywaniu nieodpłatnej kontrolowanej pracy na cele społeczne w odpowiednim zakładzie pracy, placówce służby zdrowia, opieki społecznej, organizacji lub instytucji niosącej pomoc charytatywną lub na rzecz społeczności lokalnej w wymiarze od 20 do 40 godzin.
 
-§ 2. W stosunku do osoby zatrudnionej organ orzekający, zamiast obowiązku określonego w § 1, może orzec potrącenie od 10 do cel społeczny wskazany przez organ orzekający; w okresie odbywania kary ukarany nie może rozwiązać bez zgody sądu stosunku pracy.
+§ 2. W stosunku do osoby zatrudnionej organ orzekający, zamiast obowiązku określonego w § 1, może orzec potrącenie od 10 do 25% wynagrodzenia za pracę na rzecz Skarbu Państwa albo na cel społeczny wskazany przez organ orzekający; w okresie odbywania kary ukarany nie może rozwiązać bez zgody sądu stosunku pracy.
 
 § 3. Miejsce, czas, rodzaj lub sposób wykonywania obowiązku pracy, o którym mowa w § 1, określa sąd po wysłuchaniu ukaranego.
 
 **Art. 22.** Wymierzając karę ograniczenia wolności, organ orzekający może zobowiązać ukaranego do:
 
+- **1)** naprawienia w całości albo w części szkody wyrządzonej wykroczeniem,
+- **2)** przeproszenia pokrzywdzonego.";
+- **16)** w art. 24:
+    - **a)** w § 1 wyrazy „od 10” zastępuje się wyrazami „od 20”,
+    - **b)** dodaje się § 3 w brzmieniu: "§3. Wymierzając grzywnę, bierze się pod uwagę dochody sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości zarobkowe.";
+
+- **17)** art. 25 i 26 otrzymują brzmienie: "Art. 25. §1. Jeżeli egzekucja grzywny w kwocie przekraczającej 500 złotych okaże się bezskuteczna, można po wyrażeniu zgody przez ukaranego zamienić grzywnę na pracę społecznie użyteczną, określając jej rodzaj i czas trwania. Praca społecznie użyteczna trwa najkrócej tydzień, najdłużej 2 miesiące. Przepisy art. 20 § 2 i art. 21 § 1 stosuje się odpowiednio.
+
+§ 2. Jeżeli ukarany w warunkach określonych w § 1, nie wyrazi zgody na podjęcie pracy społecznie użytecznej albo mimo wyrażenia zgody jej nie wykonuje, można orzec zastępczą karę aresztu, przyjmując jeden dzień aresztu za równoważny grzywnie od 20 do 150 złotych.; kara zastępcza nie może przekroczyć 30 dni aresztu.
+
+§ 3. Grzywnę nie podlegającą zamianie na zastępczą karę aresztu w myśl § 2, można w szczególnie uzasadnionych wypadkach umorzyć.
+
 **Art. 26.** Nie można wymierzyć kary aresztu lub zastępczej kary aresztu, jeżeli warunki osobiste sprawcy uniemożliwiają odbycie tej kary.";
+
+- **18)** art. 28-30 otrzymują brzmienie: "Art. 28. §1. Środkami karnymi są:
+- **1)** zakaz prowadzenia pojazdów,
+- **2)** przepadek przedmiotów,
+- **3)** nawiązka,
+- **4)** obowiązek naprawienia szkody,
+- **5)** podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób,
+- **6)** inne środki karne określone przez ustawę.
+
+§ 2. Środki karne można orzec, jeżeli są one przewidziane w przepisie szczególnym, a orzeka się je, jeżeli przepis szczególny tak stanowi.
+
+§ 3. Przepadek przedmiotów można orzec, choćby zachodziła okoliczność wyłączająca ukaranie sprawcy.
+
+§ 4. Obowiązek naprawienia szkody orzeka się w sposób określony w przepisie szczególnym.
 
 **Art. 29.**
 
@@ -82,7 +153,7 @@ source: "isap-pdf"
 - **19)** w art. 33:
     - **a)** § 1 otrzymuje brzmienie: "§1. Organ orzekający wymierza karę według swojego uznania, w granicach przewidzianych przez ustawę za dane wykroczenie, oceniając stopień społecznej szkodliwości czynu i biorąc pod uwagę cele kary w zakresie społecznego oddział ywania oraz cele zapobiegawcze i wychowawcze, które ma ona osiągnąć w stosunku do ukaranego.",
     - **b)** w § 2 wyrazy "rodzaj i stopień winy" zastępuje się wyrazami "stopień winy",
-    - **c)** w § 4: - skreśla się pkt 1 i 4, - w pkt 2 po wyrazach "w celu osiągnięcia" dodaje się wyraz "bezprawnej", odurzającego",
+    - **c)** w § 4: - skreśla się pkt 1 i 4, - w pkt 2 po wyrazach "w celu osiągnięcia" dodaje się wyraz "bezprawnej", - w pkt 7 po wyrazie "alkoholu" dodaje się wyrazy "lub innego środka odurzającego",
     - **d)** dodaje się § 5 w brzmieniu: "§5. Przepisy § 1-4 stosuje się odpowiednio do środków karnych.";
 
 - **20)** art. 34 otrzymuje brzmienie: "Art. 34. Okoliczności wpływające na wymiar kary i środka karnego uwzględnia się tylko co do osoby, której dotyczą.";
@@ -106,7 +177,7 @@ source: "isap-pdf"
 - **30)** w art. 47:
     - **a)** § 1-4 otrzymują brzmienie: "§1. Czynem zabronionym jest zachowanie o znamionach określonych w ustawie karnej.
 
-§ 2. Przestępstwami i wykroczeniami podobnymi są przestępstwa i wykroczenia należące do tego samego rodzaju; przestępstwa i wykroczenia z zastosowaniem przemocy lub groźby jej użycia albo przestępstwa i wykroczenia popełnione w celu osiągnięcia podobne.
+§ 2. Przestępstwami i wykroczeniami podobnymi są przestępstwa i wykroczenia należące do tego samego rodzaju; przestępstwa i wykroczenia z zastosowaniem przemocy lub groźby jej użycia albo przestępstwa i wykroczenia popełnione w celu osiągnięcia korzyści majątkowej uważa się za przestępstwa i wykroczenia podobne.
 
 § 3. Osobą najbliższą jest małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.
 
@@ -131,6 +202,7 @@ source: "isap-pdf"
     - **c)** w § 5 wyrazy "Pieniądze i rzeczy" zastępuje się wyrazem "Przedmioty";
 
 - **36)** w art. 57 w § 4 wyrazy "Pieniądze i rzeczy" zastępuje się wyrazem "Przedmioty";
+- **37)** w art. 59:
     - **a)** dotychczasową treść oznacza się jako § 1,
     - **b)** dodaje się § 2 w brzmieniu: „§ 2. W razie popełnienia wykroczenia określonego w § 1, można orzec podanie orzeczenia do publicznej wiadomości w szczególny sposób.”;
 
@@ -158,6 +230,7 @@ source: "isap-pdf"
 
 - **46)** w art. 74 w § 2 kropkę na końcu zastępuje się przecinkiem i dodaje się wyrazy „a także orzec podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób.”;
 - **47)** w art. 80 w § 2 po wyrazie "państwowej" dodaje się wyrazy "lub samorządowej";
+- **48)** w art. 83 w § 2 wyraz "rzeczy" zastępuje się wyrazem "przedmiotów";
 - **49)** w art. 86 w § 3 skreśla się wyrazy "mechaniczny lub inny pojazd" oraz wyrazy "mechanicznych lub innych pojazdów";
 - **50)** w art. 87:
     - **a)** w § 2 po wyrazach „na drodze publicznej” dodaje się wyrazy „lub w strefie zamieszkania”, a wyrazy "aresztu do 2 miesięcy" zastępuje się wyrazami "aresztu do 14 dni",
@@ -184,7 +257,9 @@ source: "isap-pdf"
 § 4. W razie popełnienia wykroczenia określonego w § 1, można orzec obowiązek zapłaty równowartości ukradzionego lub przywłaszczonego mienia, jeżeli szkoda nie została naprawiona.";
 
 - **61)** w art. 123 § 2 otrzymuje brzmienie: " §2. Ściganie następuje na żądanie pokrzywdzonego.";
-- **62)** art. 124 otrzymuje brzmienie: "Art. 124. §1. Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 250 złotych, §2. Usiłowanie, podżeganie i pomocnictwo są karalne.
+- **62)** art. 124 otrzymuje brzmienie: "Art. 124. §1. Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 250 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Usiłowanie, podżeganie i pomocnictwo są karalne.
 
 § 3. Ściganie następuje na żądanie pokrzywdzonego.
 
@@ -214,6 +289,46 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 20 maja 1971 r. - Kodeks postępowania w sprawach o wykroczenia (Dz.U. Nr 12, poz. 116, z 1972 r. Nr 49, poz. 312, z 1975 r. Nr 16, poz. 91 i Nr 45, poz. 234, z 1982 r. Nr 16, poz. 125 i Nr 45, poz. 291, z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203, z 1985 r. Nr 23, poz. 100, z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135, z 1989 r. Nr 34, poz. 180, z 1990 r. Nr 20, poz. 121, Nr 43, poz. 251 i Nr 72, poz. 422, z 1991 r. Nr 32, poz. 131, Nr 94, poz. 419, z 1992 r. Nr 24, poz. 101, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 95, poz. 475 oraz z 1997 r. Nr 43, poz. 272, Nr 102, poz. 643 i Nr 123, poz. 779) wprowadza się następujące zmiany:
 
+- **1)** art. 2 otrzymuje brzmienie: "Art. 2. §1. Do orzekania w sprawach o wykroczenia właściwe są kolegia do spraw wykroczeń przy sądach rejonowych, zwane dalej "kolegiami", chyba że ustawa powierza orzekanie innemu organowi.
+
+§ 2. Orzekanie następuje w postępowaniu:
+
+- **1)** zwyczajnym,
+- **2)** nakazowym,
+- **3)** przyspieszonym.
+
+§ 3. W wypadkach wskazanych w ustawie i na zasadach w niej określonych uprawniony organ może nakładać grzywnę w drodze mandatu karnego.";
+
+- **2)** art. 5 otrzymuje brzmienie: "Art. 5. §1. W razie stwierdzenia w toku postępowania istotnego uchybienia w czynnościach instytucji państwowej, samorządowej lub społecznej, sprzyjającego naruszaniu prawa lub zasad współżycia społecznego, organ orzekający zawiadamia o stwierdzonym uchybieniu tę instytucję bądź organ powołany do sprawowania nad nią nadzoru, bądź właściwy organ gminy.
+
+§ 2. Złożenie przez instytucję państwową, samorządową lub społeczną wniosku o ukaranie nie zwalnia jej od ustawowego obowiązku zapobiegania takim czynom w przyszłości, a w miarę potrzeby także od usunięcia skutków czynu będącego przedmiotem wniosku.";
+
+- **3)** w art. 7 § 1 otrzymuje brzmienie: "§1. Obwinionego nie uważa się za winnego, dopóki jego wina nie zostanie stwierdzona prawomocnym orzeczeniem.";
+- **4)** w art. 10:
+    - **a)** w § 1: - w pkt 5 w lit. a wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej", - skreśla się pkt 8,
+    - **b)** w § 2 w pkt 2 wyrazy "Polska Rzeczpospolita Ludowa" zastępuje się wyrazami "Rzeczpospolita Polska";
+
+- **5)** w art. 12 skreśla się zdanie drugie;
+- **6)** tytuł działu II otrzymuje brzmienie: "Dział II. Kolegia do spraw wykroczeń przy sądach rejonowych";
+- **7)** art. 13 otrzymuje brzmienie: "Art. 13. Kolegia orzekają w sprawach o wykroczenia w pierwszej instancji, chyba że ustawa stanowi inaczej.";
+- **8)** art. 14 skreśla się;
+- **9)** w art. 16 w § 3 wyrazy "do kolegium drugiej instancji" zastępuje się wyrazami "do sądu", a wyrazy "pierwszej instancji" skreśla się;
+- **10)** w art. 17:
+    - **a)** § 3 otrzymuje brzmienie: "§3. W sprawach o wykroczenia, które nie są zagrożone karą aresztu, przewodniczący kolegium może zarządzić rozpoznanie sprawy na rozprawie w składzie jednoosobowym; członkowi kolegium przysługują wówczas prawa i obowiązki przewodniczącego składu.",
+    - **b)** dodaje się § 4 w brzmieniu: "§4. W postępowaniu nakazowym kolegium orzeka w składzie jednoosobowym.";
+
+- **11)** art. 18 otrzymuje brzmienie: "Art. 18. §1. Członek kolegium podlega wyłączeniu od udziału w rozpoznawaniu sprawy, jeżeli:
+- **1)** sprawa dotyczy go bezpośrednio lub jest on osobą najbliższą dla obwinionego, pokrzywdzonego, oskarżyciela publicznego, obrońcy, pełnomocnika lub przedstawiciela ustawowego,
+- **2)** brał udział w wydaniu zaskarżonego lub uchylonego rozstrzygnięcia albo rozstrzygnięcia, które utraciło moc w wyniku złożonego sprzeciwu albo stwierdzono jego nieważność,
+- **3)** był świadkiem czynu albo był przesłuchany w tej sprawie jako świadek,
+- **4)** pomiędzy nim a obwinionym, pokrzywdzonym, oskarżycielem publicznym, obrońcą, pełnomocnikiem lub przedstawicielem ustawowym zachodzi stosunek osobisty tego rodzaju, że mógłby wywołać wątpliwości co do jego bezstronności.
+
+§ 2. Powody wyłączenia trwają mimo ustania uzasadniającego je małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+
+§ 3. W sprawie wyłączenia członka kolegium rozstrzyga przewodniczący składu orzekającego, a w sprawie wyłączenia przewodniczącego składu - przewodniczący kolegium.";
+
+- **12)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: "Rozdział 2a Rozstrzygnięcia kolegium
+
 **Art. 18a.**
 
 § 1. Jeżeli ustawa nie wymaga wydania orzeczenia lub nakazu karnego, kolegium wydaje postanowienie. Postanowienia wydają także przewodniczący kolegium i przewodniczący składu orzekającego.
@@ -221,6 +336,7 @@ source: "isap-pdf"
 § 2. Postanowienie powinno zawierać:
 
 - **1)** oznaczenie organu oraz osoby lub osób wydających postanowienie, jak również datę i miejsce wydania,
+- **2)** wskazanie sprawy i kwestii, której dotyczy,
 - **3)** treść rozstrzygnięcia z podaniem podstawy prawnej,
 - **4)** pouczenie o trybie i sposobie zaskarżenia,
 - **5)** uzasadnienie, gdy ustawa tego wymaga.
@@ -255,7 +371,9 @@ source: "isap-pdf"
 - **8)** zachodzi sprzeczność w treści rozstrzygnięcia, uniemożliwiająca jego wykonanie,
 - **9)** zachodzi inna, co najmniej równie poważna obraza prawa.
 
-§ 2. Każdy organ postępowania jest obowiązany przedstawić uchybienie stanowiące przyczynę nieważności rozstrzygnięcia sądowi właściwemu do stwierdzenia nieważności. ry orzeka na posiedzeniu, z urzędu albo na wniosek oskarżyciela publicznego, obwinionego lub pokrzywdzonego, stosując odpowiednio przepisy Kodeksu postępowania karnego o stwierdzaniu nieważności.
+§ 2. Każdy organ postępowania jest obowiązany przedstawić uchybienie stanowiące przyczynę nieważności rozstrzygnięcia sądowi właściwemu do stwierdzenia nieważności.
+
+§ 3. Właściwy do stwierdzenia nieważności jest sąd wojewódzki, który orzeka na posiedzeniu, z urzędu albo na wniosek oskarżyciela publicznego, obwinionego lub pokrzywdzonego, stosując odpowiednio przepisy Kodeksu postępowania karnego o stwierdzaniu nieważności.
 
 § 4. Jeżeli nieważność zostanie stwierdzona wyłącznie na skutek środka odwoławczego wniesionego na korzyść obwinionego, w dalszym postępowaniu nie można orzec na jego niekorzyść w porównaniu z nieważnym rozstrzygnięciem; nie dotyczy to wypadku określonego w § 1 pkt 3.
 
@@ -270,7 +388,7 @@ source: "isap-pdf"
 § 4. Nadzór nad czynnościami sprawdzającymi sprawuje organ bezpośrednio nadrzędny nad organem, który ich dokonuje.";
 
 - **14)** w art. 20:
-    - **a)** §1 otrzymuje brzmienie: "§1. Podstawę do wszczęcia postępowania stanowi wniosek o ukaranie złożony na piśmie przez Policję, straż gminną (miejską), organ administracji rządowej lub samorządowej, organ kontroli państwowej lub kontroli samorządu terytorialnego, instytucję państwową, samorządową lub społeczną, przez pokrzywdzonego albo przez inny podmiot określony.",
+    - **a)** §1 otrzymuje brzmienie: "§1. Podstawę do wszczęcia postępowania stanowi wniosek o ukaranie złożony na piśmie przez Policję, straż gminną (miejską), organ administracji rządowej lub samorządowej, organ kontroli państwowej lub kontroli samorządu terytorialnego, instytucję państwową, samorządową lub społeczną, przez pokrzywdzonego albo przez inny podmiot, chyba że ustawa upoważnia do złożenia wniosku jedynie podmiot określony.",
     - **b)** w § 2: - pkt 1 otrzymuje brzmienie: "1) w sprawach o wykroczenia określone w art. 119, 120, 122, 124 i 134 Kodeksu wykroczeń - za pośrednictwem Policji,", - w pkt 3 skreśla się wyrazy "132 i";
 
 - **15)** w art. 21:
@@ -293,6 +411,7 @@ source: "isap-pdf"
 
 § 7. Cofnięcie wniosku o ukaranie po wszczęciu postępowania nie wiąże kolegium.";
 
+- **17)** w art. 25 w pkt 2 wyrazy "art. 40" zastępuje się wyrazami "art. 41";
 - **18)** w art. 26:
     - **a)** w § 2 zdanie drugie otrzymuje brzmienie: "Doręcza się je temu, kto złożył wniosek o ukaranie oraz pokrzywdzonemu; osobom tym przysługuje zażalenie.",
     - **b)** § 3 otrzymuje brzmienie: "§3. W razie stwierdzenia po wszczęciu postępowania okoliczności wyłączających orzekanie, kolegium wydaje postanowienie o umorzeniu postępowania, a jeżeli rozpoczęto już postępowanie dowodowe - orzeczenie o umorzeniu. Jeżeli jednak po rozpoczęciu postępowania dowodowego stwierdzono okoliczność wskazaną w art. 10 §1 pkt 1, kolegium wydaje orzeczenie o uniewinnieniu.",
@@ -312,6 +431,7 @@ source: "isap-pdf"
     - **a)** § 1 otrzymuje brzmienie: "§1. W sprawach o wykroczenia, w celu znalezienia przedmiotów, o których mowa w art. 39, Policja, a w toku czynności sprawdzających również organ Państwowej Inspekcji Handlowej oraz służby ochronnej lasów państwowych i inne organy, gdy ustawa tak stanowi, mogą dokonać przeszukania pomieszczeń i innych miejsc, a także osoby i rzeczy, jeżeli istnieją uzasadnione podstawy do przypuszczenia, że przedmioty te tam się znajdują.",
     - **b)** dodaje się § 4 w brzmieniu: "§4. Na postanowienia określone w § 2 i 3 osobie, u której dokonano przeszukania, przysługuje zażalenie do prokuratora nadrzędnego. Osobie tej przysługuje także zażalenie do prokuratora na sposób przeprowadzenia czynności przeszukania.";
 
+- **22)** w art. 41 w § 1 wyrazy "21" zastępuje się wyrazami "22";
 - **23)** w art. 42:
     - **a)** w § 1 wyrazy "Milicji Obywatelskiej" zastępuje się wyrazem "Policji",
     - **b)** w § 3 wyrazy "138 § 2-5" zastępuje się wyrazami "138a";
@@ -328,7 +448,9 @@ source: "isap-pdf"
 - **28)** art. 58 otrzymuje brzmienie: "Art. 58. Skład orzekający wydaje orzeczenie o ukaraniu, odstąpieniu od wymierzenia kary lub środka karnego, uniewinnieniu albo o umorzeniu postępowania.";
 - **29)** w art. 59 w § 1 skreśla się pkt 9;
 - **30)** art. 60 otrzymuje brzmienie: "Art. 60. Orzeczenie o uniewinnieniu oraz o umorzeniu postępowania powinny zawierać dane, o których mowa w art. 59 § 1 pkt 1-4, 7 i 8, a orzeczenie o odstąpieniu od wymierzenia kary lub środka karnego - także dane, o których mowa w pkt 5, oraz odpowiednio decyzję o uniewinnieniu, o umorzeniu postępowania albo o odstąpieniu od wymierzenia kary lub środka karnego i ewentualnym zastosowaniu do sprawcy środka oddziaływania społecznego.";
-- **31)** art. 61 otrzymuje brzmienie: "Art. 61. §1. Rozstrzygnięcia wydane w wyniku rozprawy ogłasza się niezwłocznie po zakończeniu narady. podaje ustnie najważniejsze powody rozstrzygnięcia i poucza strony o prawie złożenia w terminie 7 dni wniosku o doręczenie orzeczenia wraz z uzasadnieniem. Uzasadnienie powinno być sporządzone w ciągu 7 dni od daty złożenia takiego wniosku. W razie niemożności sporządzenia uzasadnienia w terminie przewodniczący kolegium może przedłużyć ten termin na czas oznaczony.
+- **31)** art. 61 otrzymuje brzmienie: "Art. 61. §1. Rozstrzygnięcia wydane w wyniku rozprawy ogłasza się niezwłocznie po zakończeniu narady.
+
+§ 2. Po ogłoszeniu orzeczenia przewodniczący składu orzekającego podaje ustnie najważniejsze powody rozstrzygnięcia i poucza strony o prawie złożenia w terminie 7 dni wniosku o doręczenie orzeczenia wraz z uzasadnieniem. Uzasadnienie powinno być sporządzone w ciągu 7 dni od daty złożenia takiego wniosku. W razie niemożności sporządzenia uzasadnienia w terminie przewodniczący kolegium może przedłużyć ten termin na czas oznaczony.
 
 § 3. Orzeczenie wydane zaocznie doręcza się niezwłocznie wraz z uzasadnieniem obwinionemu i jego obrońcy.
 
@@ -345,7 +467,7 @@ source: "isap-pdf"
 - **33)** w art. 63 dodaje się § 3 w brzmieniu: "§3. Na postanowienie o ukaraniu kar ą porządkową ukaranemu przysługuje zażalenie do składu orzekającego, a w razie składu jednoosobowego do innego równorzędnego składu, o czym ukaranego należy pouczyć. Zażalenie wnosi się ustnie do protokołu rozprawy. W wyniku rozpoznania zażalenia postanowienie uchyla się, zmienia albo utrzymuje w mocy.";
 - **34)** art. 64 i 65 otrzymują brzmienie: "Art. 64. §1. W sprawach, w których nie zachodzi potrzeba wymierzenia kary innej niż grzywna nie wyższa od 1250 złotych, kolegium może orzec tę karę w drodze nakazu karnego.
 
-§ 2. Orzekanie w postępowaniu nakazowym może nastąpić wyłącznie na podstawie wniosku o ukaranie złożonego przez Policję, organ lub instytucję, o których mowa w art. 20 § 1, sporząmi, jeżeli z dowodów tych wynika, że okoliczności tego czynu i wina obwinionego nie budzą wątpliwości.
+§ 2. Orzekanie w postępowaniu nakazowym może nastąpić wyłącznie na podstawie wniosku o ukaranie złożonego przez Policję, organ lub instytucję, o których mowa w art. 20 § 1, sporządzonego w wyniku ustaleń popartych wiarygodnymi dowodami, jeżeli z dowodów tych wynika, że okoliczności tego czynu i wina obwinionego nie budzą wątpliwości.
 
 § 3. Nie orzeka się kary w drodze nakazu karnego, jeżeli w myśl przepisu ustawy należy orzec także środek karny.
 
@@ -371,7 +493,7 @@ source: "isap-pdf"
     - **b)** w § 2 po wyrazach "obowiązany jest" dodaje się wyrazy "określić zarzucane wykroczenie i",
     - **c)** w § 3 wyrazy "Ministra Spraw Wewnętrznych" zastępuje się wyrazami "Ministra Spraw Wewnętrznych i Administracji";
 
-- **36)** po art. 66 dodaje się art. 66a w brzmieniu: czenie, za które należałoby orzec środek karny.
+- **36)** po art. 66 dodaje się art. 66a w brzmieniu: "Art. 66a. §1. W drodze mandatu karnego nie nakłada się grzywny za wykroczenie, za które należałoby orzec środek karny.
 
 § 2. W postępowaniu mandatowym nakłada się grzywny w drodze mandatu karnego:
 
@@ -392,7 +514,10 @@ source: "isap-pdf"
 
 § 3. Uchylając mandat karny nakazuje si ę podmiotowi, na rachunek którego pobrano grzywnę, zwrot uiszczonej grzywny.";
 
-- **39)** art. 68 otrzymuje brzmienie: "Art. 68. §1. Szczegółowe zasady i sposób nakładania grzywny w drodze mandatu karnego oraz uiszczania tak nałożonych grzywien określi, w drodze rozporządzenia, Rada Ministrów. stępuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.";
+- **39)** art. 68 otrzymuje brzmienie: "Art. 68. §1. Szczegółowe zasady i sposób nakładania grzywny w drodze mandatu karnego oraz uiszczania tak nałożonych grzywien określi, w drodze rozporządzenia, Rada Ministrów.
+
+§ 2. Ściąganie grzywny nałożonej w drodze mandatu karnego następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.";
+
 - **40)** w art. 69 skreśla się wyrazy "pierwszej instancji";
 - **41)** art. 70 otrzymuje brzmienie: "Art. 70. §1. Postępowanie przyspieszone stosuje się do osób nie mających stałego miejsca zamieszkania lub miejsca stałego pobytu, jeżeli zachodzi uzasadniona obawa, że rozpoznanie sprawy w postępowaniu zwyczajnym będzie niemożliwe lub znacznie utrudnione.
 
@@ -412,7 +537,7 @@ source: "isap-pdf"
 
 § 3. Zatrzymanemu przysługuje zażalenie do sądu o czym należy go pouczyć. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania, który również niezwłocznie je rozpatruje.
 
-§ 4. Policja może zwolnić zatrzymanego od przymusowego doprowadzenia go do kolegium, zatrzymując mu paszport lub inny dokument uprawniający do przekroczenia granicy, który przekazuje się wraz z wnioskiem o ukaranie do kolegium. Zwrotu orzeczenia albo z chwilą zmiany trybu postępowania.
+§ 4. Policja może zwolnić zatrzymanego od przymusowego doprowadzenia go do kolegium, zatrzymując mu paszport lub inny dokument uprawniający do przekroczenia granicy, który przekazuje się wraz z wnioskiem o ukaranie do kolegium. Zwrotu dokumentu dokonuje kolegium, nie później niż przy wydaniu orzeczenia albo z chwilą zmiany trybu postępowania.
 
 § 5. Osoba wezwana przez organ, o którym mowa w § 1, do stawienia się w kolegium w charakterze świadka obowiązana jest stawić się w wskazanym miejscu, dniu i godzinie; art. 136 stosuje się odpowiednio.";
 
@@ -436,6 +561,8 @@ source: "isap-pdf"
 **Art. 76.** W celu ustalenia, czy istnieją podstawy do wystąpienia z wnioskiem o ukaranie oraz zebrania danych niezbędnych do sporządzenia takiego wniosku lub jego uzupełnienia, inspektor pracy może przeprowadzić czynności, o których mowa w art. 19.
 
 **Art. 76a.** W sprawach, o których mowa w art. 75 § 1, inspektor pracy może, także po przeprowadzeniu czynności wskazanych w art. 76, nałożyć grzywnę w drodze mandatu karnego, jeżeli uważa, że kara ta będzie wystarczająca. Przepis działu V stosuje się odpowiednio.”;
+
+- **46)** dział VIII otrzymuje brzmienie: "DZIAŁ VIII Środki odwoławcze
 
 #### Rozdział 11 Przepisy ogólne
 
@@ -474,9 +601,13 @@ source: "isap-pdf"
 
 § 2. Obwiniony może cofnąć wniesiony na jego korzyść środek odwoławczy, chyba że wniósł go oskarżyciel publiczny.
 
-§ 3. Cofnięty środek odwoławczy pozostawia się bez rozpoznania, chyba że zachodzi jedna z okoliczności wymienionych w art. 18c § 1. W razie cofnięcia środka po przekazaniu sprawy do organu odwoławczego, powiadamia się ten organ.
+§ 3. Cofnięty środek odwoławczy pozostawia się bez rozpoznania, chyba że zachodzi jedna z okoliczności wymienionych w art. 18c
 
-§ 4. Rozstrzygnięcia nie zaskarżone lub co do których środek odwoławczy cofnięto, stają się prawomocne. Odwołanie
+§ 1. W razie cofnięcia środka po przekazaniu sprawy do organu odwoławczego, powiadamia się ten organ.
+
+§ 4. Rozstrzygnięcia nie zaskarżone lub co do których środek odwoławczy cofnięto, stają się prawomocne.
+
+#### Rozdział 12 Odwołanie
 
 **Art. 81.** Odwołanie wnosi się na piśmie w terminie 7 dni od daty otrzymania odpisu orzeczenia wraz z uzasadnieniem, chyba że ustawa stanowi inaczej.
 
@@ -510,11 +641,38 @@ source: "isap-pdf"
 
 **Art. 90.** Organ odwoławczy rozpatrujący zażalenie stosuje przy jego rozpoznawaniu przepisy Kodeksu postępowania karnego.
 
-**Art. 91.** W razie uchylenia rozstrzygnięcia i przekazania sprawy do ponownego rozpoznania, stosuje się odpowiednio przepis art. 85. wania, przewodniczący kolegium wydaje postanowienie o wszczęciu postępowania.
+**Art. 91.** W razie uchylenia rozstrzygnięcia i przekazania sprawy do ponownego rozpoznania, stosuje się odpowiednio przepis art. 85.
+
+**Art. 92.**
+
+§ 1. W razie uchylenia postanowienia o odmowie wszczęcia postępowania, przewodniczący kolegium wydaje postanowienie o wszczęciu postępowania.
+
+§ 2. W razie uchylenia postanowienia o umorzeniu postępowania, przewodniczący kolegium wyznacza rozprawę; kolegium może ukarać obwinionego jedynie wówczas, gdy zażalenie było wniesione na jego niekorzyść.";
+
+- **47)** w art. 93:
+    - **a)** skreśla się oznaczenie "§ 1",
+    - **b)** § 2 skreśla się;
+
+- **48)** art. 94-96 otrzymują brzmienie: "Art. 94. §1. Organem właściwym do wykonywania rozstrzygnięć kolegiów jest sąd rejonowy, w którego okręgu zapadło rozstrzygnięcie.
+
+§ 2. Sąd wskazany w § 1 może przekazać wykonanie rozstrzygnięcia innemu sądowi rejonowemu, jeżeli zapadło ono wobec osoby zamieszkałej i przebywającej w okręgu tamtego sądu; nie dotyczy to mieszkańców miast, w których działa kilka sądów rejonowych.
 
 **Art. 95.** Przy wykonywaniu rozstrzygnięć kolegiów są d stosuje odpowiednio przepisy Kodeksu karnego wykonawczego.
 
 **Art. 96.** Prawo do ściągnięcia orzeczonych kosztów postępowania przedawnia się z upływem 3 lat od daty uprawomocnienia się rozstrzygnięcia.";
+
+- **49)** art. 97-103 oraz art. 105-107 i 109 skreśla się;
+- **50)** w dziale X skreśla się wyrazy "Rozdział 15. Nadzór zwierzchni i bezpośredni";
+- **51)** art. 110 otrzymuje brzmienie: "Art. 110. §1. Nadzór zwierzchni nad administracyjną działalnością kolegiów sprawuje Minister Sprawiedliwości.
+
+§ 2. Nadzór bezpośredni nad administracyjną działalnością kolegiów sprawują prezesi sądów rejonowych.
+
+§ 3. Minister Sprawiedliwości określa, w drodze rozporządzenia, tryb wykonywania nadzoru, o którym mowa w § 1 i 2.
+
+§ 4. Nadzór zwierzchni nad postępowaniem mandatowym w sprawach o wykroczenia sprawuje Minister Spraw Wewnętrznych i Administracji, a w sprawach, o których mowa w art. 75 § 1 - Główny Inspektor Pracy.";
+
+- **52)** wyrazy "Rozdział 16" zastępuje się wyrazami "Dział Xa";
+- **53)** art. 112 otrzymuje brzmienie:
 
 **Art. 112.**
 
@@ -522,6 +680,7 @@ source: "isap-pdf"
 
 § 2. Prawomocne orzeczenia kolegium oraz prawomocne nakazy karne mogą być uchylone na korzyść obwinionego, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ zmianie przepis prawny będący podstawą ukarania.";
 
+- **54)** skreśla się art. 113;
 - **55)** art. 114-117 otrzymują brzmienie: "Art. 114. Organem właściwym do uchylania prawomocnych rozstrzygnięć jest sąd wojewódzki, w którego okręgu działania zapadło rozstrzygnięcie podlegające uchyleniu.
 
 **Art. 115.** Sąd wojewódzki orzeka w przedmiocie uchylenia prawomocnego rozstrzygnięcia w trybie określonym w przepisach Kodeksu postępowania karnego z uwzględnieniem przepisów niniejszego działu.
@@ -542,13 +701,66 @@ source: "isap-pdf"
 
 **Art. 117.** W razie uchylenia prawomocnego rozstrzygnięcia i przekazania sprawy do ponownego rozpoznania, kolegium stosuje odpowiednio przepisy art. 84-86 albo art. 91 i 92. Ponowne rozpoznanie sprawy nie może nastąpić w postępowaniu nakazowym.";
 
+- **56)** po art. 117 dodaje się art. 117a w brzmieniu: "Art. 117a. Przepisy art. 114, 115, 116 § 1 i 5 zdanie trzecie oraz art. 117 stosuje się odpowiednio do stwierdzania nieważności orzeczenia, postanowienia lub nakazu karnego w sytuacjach określonych w art. 18c § 1; wniosek o stwierdzenie nieważności składa się w sądzie, o którym mowa w art. 114.";
+- **57)** art. 118 otrzymuje brzmienie: "Art. 118. Prokurator Generalny i podlegli mu prokuratorzy, w postępowaniu unormowanym niniejszym kodeksem, mogą:
+- **1)** występować w każdej sprawie z wnioskiem o ukaranie,
+- **2)** brać udział w postępowaniu w charakterze oskarżyciela publicznego; w takich wypadkach udział prokuratora wyłącza udział innego oskarżyciela,
+- **3)** składać środki odwoławcze zarówno na korzyść, jak i na niekorzyść obwinionego,
+- **4)** występować z wnioskiem o uchylenie prawomocnego rozstrzygnięcia oraz o stwierdzenie nieważności rozstrzygnięcia.";
+- **58)** w art. 128 § 1 wyrazy "prezydium właściwej rady narodowej" zastępuje się wyrazami "urzędzie właściwej gminy";
+- **59)** po art. 128 dodaje się art. 128a w brzmieniu: "Art. 128a. §1. W wypadkach nie cierpiących zwłoki można wzywać lub zawiadamiać osoby, telefonicznie lub w inny sposób, stosownie do okoliczności, pozostawiając w aktach odpis nadanego komunikatu z podpisem osoby nadaj ącej.
+
+§ 2. Obwiniony lub pokrzywdzony przebywający za granicą ma obowiązek wskazać adresata dla doręczeń w kraju; w razie nieuczynienia tego, pismo wysyłane pod ostatnio znanym adresem w kraju albo jeżeli adresu tego nie ma, załączone do akt sprawy, uważa się za doręczone.";
+
+- **60)** w art. 135 dodaje się § 3 w brzmieniu: "§3. Na postanowienie o odmowie przywrócenia terminu do złożenia środka zaskarżenia przysługuje osobie, której odmówiono przywrócenia terminu, zażalenie do organu właściwego do rozpoznania środka zaskarżenia. Jeżeli odmówiono przywrócenia terminu do złożenia sprzeciwu od nakazu karnego, zażalenie przysługuje do sądu.";
+- **61)** art. 138 otrzymuje brzmienie: "Art. 138. §1. Policja i inne organy uprawnione do prowadzenia czynności określonych w art. 19 mogą dokonać tymczasowego zajęcia przedmiotu, jeżeli w zakresie swego działania dowiedziały się lub ujawniły wykroczenie zagrożone przepadkiem przedmiotów, a zajęcie takie jest niezb ędne do zabezpieczenia tego przepadku; z czynności zajęcia sporządza się protokół.
+
+§ 2. Tymczasowe zajęcie upada, jeżeli w ciągu 7 dni nie zostanie wydane postanowienie o zabezpieczeniu albo rozstrzygnięcie orzekające przepadek przedmiotu. Postanowienie o zabezpieczeniu wydaje przewodniczący kolegium; doręcza się je niezwłocznie osobie, u której dokonano zajęcia. Osobie tej przysługuje zażalenie.
+
+§ 3. Zabezpieczenie może nastąpić także na mocy postanowienia przewodniczącego kolegium po wszczęciu postępowania w sprawie o wykroczenie zagrożone przepadkiem przedmiotów, jeżeli nie zastosowano tymczasowego zajęcia. Postanowienie to wymaga uzasadnienia. Wykonuje je Policja, stosując odpowiednio przepisy o przeszukaniu. Postanowienie o zabezpieczeniu doręcza się osobie, u której dokonuje się zajęcia. Osobie tej przysługuje zażalenie.";
+
+- **62)** po art. 138 dodaje się art. 138a w brzmieniu: "Art. 138a. §1. Organ dokonujący czynności, o których mowa w art. 138 § 1 i 3, wydaje osobie zainteresowanej pokwitowanie stwierdzające, jakie przedmioty i przez kogo oraz na jakiej podstawie zostały zajęte. Odpis tego pokwitowania dołącza się do akt, a w wypadkach, o których mowa w art. 138 § 1 - do wniosku o ukaranie.
+
+§ 2. Zajęte przedmioty przekazuje się do depozytu sądowego, a przedmioty wartościowe - do depozytu bankowego; przepisy o zbywaniu ruchomości, które przeszły na własność Skarbu Państwa na podstawie orzeczenia o przepadku przedmiotów stosuje się odpowiednio.
+
+§ 3. Przedmioty ulegające szybkiemu zepsuciu lub takie, których przechowywanie byłoby połączone z niewspółmiernymi kosztami lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie wartości przedmiotów, organ, który dokonał ich zajęcia, przekazuje odpowiedniej jednostce handlowej, która dokonuje sprzedaży bez przetargu z zachowaniem przepisów o sprzedaży w drodze egzekucji z ruchomości. Uzyskaną ze sprzedaży kwotę pieniężną przekazuje się do depozytu sądowego na rachunek sum depozytowych do dyspozycji kolegium.
+
+§ 4. Zabezpieczenie upada, jeżeli nie zostanie prawomocnie orzeczony przepadek przedmiotów. Przepis art. 43 stosuje się odpowiednio.".
+
 **Art. 3.** W sprawach o wykroczenia, w których zachodzi potrzeba orzeczenia przepadku przedmiotów, kolegium a przed rozprawą przewodniczący kolegium przekazuje sprawę sądowi; przepisy art. 23 § 2 i 3 i art. 55a Kodeksu postępowania w sprawach o wykroczenia oraz przepisy art. 508 § 1 i 2, art. 509 i art. 512 § 2 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 4.** W ustawie z dnia 20 maja 1971 r. o ustroju kolegiów do spraw wykroczeń (Dz.U. Nr 12, poz. 118, z 1972 r. Nr 49, poz. 312, z 1974 r. Nr 24, poz. 142, z 1975 r. Nr 16, poz. 91, z 1982 r. Nr 45, poz. 291, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 43, poz. 251, z 1991 r. Nr 32, poz. 131 oraz z 1994 r. Nr 27, poz. 96) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Kolegia działają przy sądach rejonowych. Powołuje je i znosi, w drodze rozporządzenia, Minister Sprawiedliwości.",
+    - **b)** § 2 skreśla się;
+
+- **2)** w art. 6 w § 1 po wyrazie "zamieszkałych" dodaje się wyrazy "lub zatrudnionych";
+- **3)** w art. 7:
+    - **a)** § 2 otrzymuje brzmienie: "§2. Na członków kolegium nie wybiera się sędziów, ławników ludowych, prokuratorów, adwokatów wykonujących zawód, aplikantów adwokackich oraz żołnierzy w czynnej służbie wojskowej, funkcjonariuszy Policji, Urzędu Ochrony Państwa i Służby Więziennej oraz strażników gminnych (miejskich).",
+    - **b)** § 3 skreśla się;
+
+- **4)** w art. 9 § 1 otrzymuje brzmienie: "§1. Kandydatów na członków kolegium zgłaszają radom gmin prezesi sądów wojewódzkich, prokuratorzy wojewódzcy, okręgowi inspektorzy pracy, stowarzyszenia, organizacje i związki zawodowe, zarejestrowane na podstawie przepisów prawa oraz co najmniej 25 obywateli mających czynne prawo wyborcze, zamieszkujących lub zatrudnionych na danym terenie, w terminie do dnia 31 lipca ostatniego roku kadencji, w trybie, który Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia.";
+- **5)** art. 17 otrzymuje brzmienie: "Art. 17. §1. Obsługę organizacyjno-prawną kolegium wykonuje radca kolegium do spraw wykroczeń, zwany dalej "radcą kolegium".
+
+§ 2. Radcą kolegium może być tylko osoba mająca wyższe wykształcenie prawnicze lub administracyjne. Radca kolegium jest pracownikiem sądu, przy którym działa kolegium i podlega bezpośrednio prezesowi sądu.";
+
+- **6)** po art. 17 dodaje się art. 17a w brzmieniu: "Art. 17a. §1. Czynności biurowe w sprawach poddanych orzecznictwu kolegium wykonują pracownicy sądu, tworzący sekretariat kolegium, którym kieruje radca kolegium.
+
+§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, zakres czynności radcy kolegium oraz organizację i zakres działania sekretariatu kolegium.";
+
+- **7)** art. 18 otrzymuje brzmienie: "Art. 18. Minister Sprawiedliwości określi, w drodze rozporządzenia, regulamin działania kolegiów.";
+- **8)** w art. 20 § 2 otrzymuje brzmienie: "§2. Minister Sprawiedliwości, w porozumieniu z Ministrem Finansów, określi, w drodze rozporządzenia, zasady organizowania, prowadzenia i finansowania szkolenia członków kolegiów.";
+- **9)** po art. 20 dodaje się art. 20a w brzmieniu: "Art. 20a. Minister Sprawiedliwości określi, w drodze rozporządzenia, po upływie jakiego czasu i z dopełnieniem jakich warunków, akta spraw o wykroczenia podlegają zniszczeniu w całości lub w części albo przekazaniu archiwom państwowym.".
+
 **Art. 5.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94) skreśla się rozdział II w dziale trzynastym.
 
 **Art. 6.** W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz.U. z 1985 r. Nr 54, poz. 276, z 1989 r. Nr 34, poz. 178 oraz z 1996 r. Nr 24, poz. 110 i Nr 106, poz.
+
+- **496)** wprowadza się następujące zmiany:
+- **1)** w art. 8 w ust. 1 pkt 8 otrzymuje brzmienie: „8) ściganie wykroczeń przeciwko prawom pracownika określonych w Kodeksie pracy, a także innych wykroczeń związanych z wykonywaniem pracy zarobkowej, gdy ustawa tak stanowi, oraz udział w postępowaniu w tych sprawach przed kolegium do spraw wykroczeń w charakterze oskarżyciela publicznego.”;
+- **2)** w art. 14 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) sprawowanie nadzoru zwierzchniego nad postępowaniem mandatowym w sprawach o wykroczenia, o których mowa w art. 75 § 1 Kodeksu postępowania w sprawach o wykroczenia,”;
+- **3)** art. 22 otrzymuje brzmienie: „Art. 22. Na zasadach i w trybie określonym w Kodeksie postępowania w sprawach o wykroczenia inspektor pracy ściga wykroczenia związane z wykonywaniem pracy zarobkowej, a także inne wykroczenia, gdy ustawa tak stanowi oraz bierze udział w tych sprawach w charakterze oskarżyciela publicznego.”.
 
 **Art. 7.** W ustawie z dnia 24 czerwca 1983 r. o społecznej inspekcji pracy (Dz.U. Nr 35, poz. 163, z 1985 r. Nr 35, poz. 162 i z 1996 r. Nr 24, poz. 110) w art. 22 ust. 3 otrzymuje brzmienie: „3. Orzekanie następuje na podstawie wniosku pochodzącego od inspektora pracy w trybie określonym w dziale VII Kodeksu postępowania w sprawach o wykroczenia.”.
 
@@ -583,9 +795,11 @@ source: "isap-pdf"
 
 2. W sprawach przekazanych do sądu w trybie przepisów dotychczasowych a nie zakończonych rozstrzygnięciem sądu do dnia wejścia w życie niniejszej ustawy, stosuje się w zakresie postępowania przepisy dotychczasowe.
 
-3. Nierozpoznane wnioski o uchylenie prawomocnego rozstrzygnięcia rozpatruje się stosując w zakresie postępowania dotychczasowe przepisy. Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, zachowują moc przepisy wydane przed jej wejściem w życie, na podstawie przepisów dotychczasowych, jeżeli nie są sprzeczne z przepisami tej ustawy.
+3. Nierozpoznane wnioski o uchylenie prawomocnego rozstrzygnięcia rozpatruje się stosując w zakresie postępowania dotychczasowe przepisy.
 
-**Art. 15.** Marszałek ogłosi tekst jednolity ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń w terminie do dnia 30 czerwca 2007 r.
+**Art. 14.** Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, zachowują moc przepisy wydane przed jej wejściem w życie, na podstawie przepisów dotychczasowych, jeżeli nie są sprzeczne z przepisami tej ustawy.
+
+**Art. 15.** Marszałek Sejmu ogłosi tekst jednolity ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń w terminie do dnia 30 czerwca 2007 r.
 
 **Art. 16.** Ustawa wchodzi w życie z dniem 1 września 1998 r.
 

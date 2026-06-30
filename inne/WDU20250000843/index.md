@@ -8,12 +8,12 @@ pos: 843
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 czerwca 2025 r.*
+*USTAWA z dnia 20 listopada 1998 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,36 +24,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-13 |
 | Data wydania | 2025-06-27 |
-| Ostatnia zmiana | 2025-06-30 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/843/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2024 r. poz. 776), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, 2349 i 2427, z 2022 r. poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 1685 oraz z 2025 r. poz. 222),
-2) ustawą z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863),
-3) ustawą z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (Dz. U. poz. 1593),
-4) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 89 ustawy z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, 2349 i 2427, z 2022 r.
-poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 1685 oraz z 2025 r. poz. 222), który stanowi: „Art. 89. Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem:
-1) art. 6, art. 61 i art. 85–87, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 1 pkt 59, pkt 67 lit. i, pkt 76 w zakresie art. 45b, pkt 77 i 78, art. 2 pkt 51, 58 i 64 oraz art. 9 pkt 25, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-3) art. 3 pkt 1, art. 7 pkt 33 i art. 20 pkt 8, które wchodzą w życie z dniem 1 lipca 2022 r.;
-4) art. 1 pkt 39 lit. b i pkt 63 lit. c, art. 7 pkt 3, 11, 13, pkt 16 lit. b, pkt 17 i 38, art. 12, art. 14 pkt 1–4, 9 i 11–16 oraz art. 77a, które wchodzą w życie z dniem 1 stycznia 2023 r.;
-5) art. 7 pkt 7 w zakresie art. 20zu § 4, art. 20zw § 2 zdanie drugie i art. 20zx § 2, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-6) art. 2 pkt 11 lit. a i c oraz art. 66 ust. 2 pkt 1, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-6a) (uchylony)
-7) art. 1 pkt 39 lit. a, c i d, art. 9 pkt 11 oraz art. 66 ust. 1 pkt 1 i ust. 2 pkt 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-8) art. 66 ust. 1 pkt 2 i ust. 2 pkt 3, które wchodzą w życie z dniem 1 stycznia 2027 r.”;
-2) art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), który stanowi: „Art. 9. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) art. 5 ust. 2, art. 6 ust. 2 i art. 7 ustawy z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (Dz. U. poz. 1593), które stanowią:
-
-**Art. 5.** „2. Przepisy art. 6 ust. 1 i 1g, art. 11 ust. 20 i 21, art. 15 ust. 11a i 11b oraz art. 21 ust. 3f ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do przychodów udokumentowanych fakturami wystawionymi, w terminach określonych zgodnie z odrębnymi przepisami, po dniu 31 grudnia 2024 r., jeżeli przychody te nie zostały zaliczone do przychodów przed dniem 1 stycznia 2025 r. zgodnie z art. 6 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.”
-
-**Art. 6.** „2. Przepisy art. 52a ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 11 ust. 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych po dniu 31 grudnia 2023 r.” „Art. 7. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem art. 1 pkt 3 i 9, art. 2 pkt 2 lit. a, art. 4 oraz art. 6 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia.”;
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje opodatkowanie zryczałtowanym podatkiem dochodowym niektórych przychodów (dochodów) osiąganych przez osoby fizyczne:
+
+- **1)** prowadzące pozarolniczą działalność gospodarczą;
+- **2)** osiągające przychody, o których mowa w art. 10 ust. 1 pkt 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368, 620 i 680), zwanej dalej „ustawą o podatku dochodowym”;
+- **3)** będące osobami duchownymi;
+- **4)** osiągające przychody ze sprzedaży, o której mowa w art. 20 ust. 1c ustawy o podatku dochodowym.
 
 **Art. 1a.**
 
@@ -93,27 +74,27 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** działalność usługowa pozarolniczą działalność gospodarczą, której przedmiotem są czynności zaliczone do usług zgodnie z Polską Klasyfikacją Wyrobów i Usług (PKWiU) wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556), z zastrzeżeniem pkt 2 i 3;
-- **2)** działalność gastronomiczna usługi związane z przygotowaniem posiłków oraz sprzedażą posiłków i towarów;
-- **3)** działalność usługowa w zakresie handlu sprzedaż, w stanie nieprzetworzonym, nabytych uprzednio produktów (wyrobów) i towarów, w tym również takich, które zostały przez sprzedawcę zapakowane lub rozważone do mniejszych opakowań albo rozlane do butelek, puszek lub mniejszych pojemników;
-- **4)** działalność wytwórcza działalność, w wyniku której powstają nowe wyroby, w tym również sprzedaż wyrobów własnej produkcji, prowadzoną przez podatnika;
-- **5)** towary towary handlowe, surowce i materiały podstawowe, z tym że:
+- **1)** działalność usługowa – pozarolniczą działalność gospodarczą, której przedmiotem są czynności zaliczone do usług zgodnie z Polską Klasyfikacją Wyrobów i Usług (PKWiU) wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556), z zastrzeżeniem pkt 2 i 3;
+- **2)** działalność gastronomiczna – usługi związane z przygotowaniem posiłków oraz sprzedażą posiłków i towarów;
+- **3)** działalność usługowa w zakresie handlu – sprzedaż, w stanie nieprzetworzonym, nabytych uprzednio produktów (wyrobów) i towarów, w tym również takich, które zostały przez sprzedawcę zapakowane lub rozważone do mniejszych opakowań albo rozlane do butelek, puszek lub mniejszych pojemników;
+- **4)** działalność wytwórcza – działalność, w wyniku której powstają nowe wyroby, w tym również sprzedaż wyrobów własnej produkcji, prowadzoną przez podatnika;
+- **5)** towary – towary handlowe, surowce i materiały podstawowe, z tym że:
     - **a)** towarami handlowymi są towary (wyroby) zakupione w celu dalszej odprzedaży, w stanie nieprzetworzonym,
     - **b)** surowcami i materiałami podstawowymi są materiały, które w procesie produkcji lub przy świadczeniu usług stają się główną substancją gotowego wyrobu; do materiałów podstawowych zalicza się również materiały stanowiące część składową (montażową) wyrobu lub ściśle z wyrobem złączone, z tym że za surowce i materiały podstawowe nie uważa się paliw i olejów zużywanych w transporcie;
 
-- **6)** dowody zakupu otrzymane faktury, rachunki, paragony, dowody wewnętrzne oraz opis otrzymanego towaru;
+- **6)** dowody zakupu – otrzymane faktury, rachunki, paragony, dowody wewnętrzne oraz opis otrzymanego towaru;
 - **7)** (uchylony)
-- **8)** podatek dochodowy na ogólnych zasadach podatek dochodowy od osób fizycznych, opłacany przy zastosowaniu podstawy obliczania podatku, o której mowa w art. 26 ustawy o podatku dochodowym, i skali, o której mowa w art. 27 ustawy o podatku dochodowym;
-- **9)** księgi księgi rachunkowe albo podatkową księgę przychodów i rozchodów, prowadzone na zasadach określonych w odrębnych przepisach;
-- **10)** gospodarstwo rolne gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
-- **11)** wolny zawód pozarolniczą działalność gospodarczą wykonywaną osobiście przez tłumaczy, adwokatów, notariuszy, radców prawnych, biegłych rewidentów, księgowych, agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające, brokerów reasekuracyjnych, brokerów ubezpieczeniowych, doradców podatkowych, doradców restrukturyzacyjnych, maklerów papierów wartościowych, doradców inwestycyjnych, agentów firm inwestycyjnych oraz rzeczników patentowych, z tym że za osobiste wykonywanie wolnego zawodu uważa się wykonywanie działalności bez zatrudniania na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze osób, które wykonują czynności związane z istotą danego zawodu;
-- **12)** pozarolnicza działalność gospodarcza pozarolniczą działalność gospodarczą w rozumieniu ustawy o podatku dochodowym;
-- **13)** urząd skarbowy urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
-- **14)** przedsiębiorstwo w spadku przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), zwanej dalej „ustawą o zarządzie sukcesyjnym”;
-- **15)** zmarły przedsiębiorca zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym;
-- **16)** zarząd sukcesyjny zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
-- **17)** ustawa Ordynacja podatkowa ustawę z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622);
-- **18)** ustawa o przeciwdziałaniu nadmiernym opóźnieniom oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790).
+- **8)** podatek dochodowy na ogólnych zasadach – podatek dochodowy od osób fizycznych, opłacany przy zastosowaniu podstawy obliczania podatku, o której mowa w art. 26 ustawy o podatku dochodowym, i skali, o której mowa w art. 27 ustawy o podatku dochodowym;
+- **9)** księgi – księgi rachunkowe albo podatkową księgę przychodów i rozchodów, prowadzone na zasadach określonych w odrębnych przepisach;
+- **10)** gospodarstwo rolne – gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
+- **11)** wolny zawód – pozarolniczą działalność gospodarczą wykonywaną osobiście przez tłumaczy, adwokatów, notariuszy, radców prawnych, biegłych rewidentów, księgowych, agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające, brokerów reasekuracyjnych, brokerów ubezpieczeniowych, doradców podatkowych, doradców restrukturyzacyjnych, maklerów papierów wartościowych, doradców inwestycyjnych, agentów firm inwestycyjnych oraz rzeczników patentowych, z tym że za osobiste wykonywanie wolnego zawodu uważa się wykonywanie działalności bez zatrudniania na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze osób, które wykonują czynności związane z istotą danego zawodu;
+- **12)** pozarolnicza działalność gospodarcza – pozarolniczą działalność gospodarczą w rozumieniu ustawy o podatku dochodowym;
+- **13)** urząd skarbowy – urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
+- **14)** przedsiębiorstwo w spadku – przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), zwanej dalej „ustawą o zarządzie sukcesyjnym”;
+- **15)** zmarły przedsiębiorca – zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym;
+- **16)** zarząd sukcesyjny – zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **17)** ustawa – Ordynacja podatkowa – ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622);
+- **18)** ustawa o przeciwdziałaniu nadmiernym opóźnieniom – oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790).
 
 2. Kwoty wyrażone w euro przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.
 
@@ -144,7 +125,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **1)** ogólnych albo
 - **2)** określonych w art. 30c ustawy o podatku dochodowym, albo
 - **3)** określonych w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2021 r. poz. 985), albo
-- **4)** określonych w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2021 r. poz. 1704) zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania.
+- **4)** określonych w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2021 r. poz. 1704) – zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania.
 
 1g. W przypadku opodatkowania na podstawie ust. 1 przychodów z pozarolniczej działalności gospodarczej ryczałtem od przychodów ewidencjonowanych podatnik może wybrać metodę kasową rozliczania przychodów zgodnie z art. 14c ust. 1 ustawy o podatku dochodowym. W przypadku wyboru metody kasowej rozliczania przychodów przepisy art. 14c ustawy o podatku dochodowym stosuje się odpowiednio.
 
@@ -158,14 +139,14 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
     - **a)** uzyskali przychody z tej działalności, prowadzonej wyłącznie samodzielnie, w wysokości nieprzekraczającej 2 000 000 euro, lub
     - **b)** uzyskali przychody wyłącznie z działalności prowadzonej w formie spółki, a suma przychodów wspólników spółki z tej działalności nie przekroczyła kwoty 2 000 000 euro;
 
-- **2)** rozpoczną wykonywanie działalności w roku podatkowym i nie korzystają z opodatkowania w formie karty podatkowej bez względu na wysokość przychodów.
+- **2)** rozpoczną wykonywanie działalności w roku podatkowym i nie korzystają z opodatkowania w formie karty podatkowej – bez względu na wysokość przychodów.
 
 4a. Przedsiębiorstwo w spadku opłaca ryczałt od przychodów ewidencjonowanych w roku podatkowym, w którym zmarł przedsiębiorca, jeżeli w tym samym roku ryczałt od przychodów ewidencjonowanych opłacał zmarły przedsiębiorca z działalności wymienionej w ust. 1.
 
 5. Jeżeli podatnik w roku poprzedzającym rok podatkowy prowadził działalność samodzielnie, a także w formie spółki, opłaca w roku podatkowym ryczałt od przychodów ewidencjonowanych:
 
 - **1)** odrębnie z działalności wykonywanej samodzielnie i odrębnie z działalności wykonywanej w formie spółki, gdy spełnia warunki określone w ust. 4 pkt 1, albo
-- **2)** z działalności wykonywanej samodzielnie, gdy spełnia warunek określony w ust. 4 pkt 1 lit. a, a z działalności wykonywanej w formie spółki gdy spełnia warunek określony w ust. 4 pkt 1 lit. b.
+- **2)** z działalności wykonywanej samodzielnie, gdy spełnia warunek określony w ust. 4 pkt 1 lit. a, a z działalności wykonywanej w formie spółki – gdy spełnia warunek określony w ust. 4 pkt 1 lit. b.
 
 6. Ryczałt od przychodów ewidencjonowanych opłacają również podatnicy, którzy w roku poprzedzającym rok podatkowy prowadzili działalność samodzielnie lub w formie spółki, z której przychody były opodatkowane wyłącznie w formie karty podatkowej, lub za część roku były opodatkowane w formie karty podatkowej i za część roku na ogólnych zasadach, a łączne przychody w roku poprzedzającym rok podatkowy nie przekroczyły kwoty 2 000 000 euro; w tych przypadkach przychody opodatkowane w formie karty podatkowej oblicza się wyłącznie na podstawie wystawionych faktur lub rachunków. Do podatników tych stosuje się odpowiednio przepisy ust. 4 i 5.
 
@@ -188,7 +169,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 3. Równoznaczne z likwidacją działalności gospodarczej jest wygaśnięcie:
 
 - **1)** zarządu sukcesyjnego albo
-- **2)** uprawnienia do powołania zarządcy sukcesyjnego w przypadku gdy zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników.
+- **2)** uprawnienia do powołania zarządcy sukcesyjnego – w przypadku gdy zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników.
 
 **Art. 8.**
 
@@ -208,14 +189,14 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **5)** podejmujących wykonywanie działalności w roku podatkowym po zmianie działalności wykonywanej:
     - **a)** samodzielnie na działalność prowadzoną w formie spółki z małżonkiem,
     - **b)** w formie spółki z małżonkiem na działalność prowadzoną samodzielnie przez jednego lub każdego z małżonków,
-    - **c)** samodzielnie przez małżonka na działalność prowadzoną samodzielnie przez drugiego małżonka jeżeli małżonek lub małżonkowie przed zmianą opłacali z tytułu prowadzenia tej działalności podatek dochodowy na ogólnych zasadach.
+    - **c)** samodzielnie przez małżonka na działalność prowadzoną samodzielnie przez drugiego małżonka – jeżeli małżonek lub małżonkowie przed zmianą opłacali z tytułu prowadzenia tej działalności podatek dochodowy na ogólnych zasadach.
 
 - **6)** (uchylony)
 
 2. Jeżeli podatnik prowadzący działalność samodzielnie lub w formie spółki, który wybrał opodatkowanie w formie ryczałtu od przychodów ewidencjonowanych, uzyska z tej działalności przychody ze sprzedaży towarów handlowych lub wyrobów lub ze świadczenia usług na rzecz byłego lub obecnego pracodawcy, odpowiadających czynnościom, które podatnik lub co najmniej jeden ze wspólników:
 
 - **1)** wykonywał w roku poprzedzającym rok podatkowy lub
-- **2)** wykonywał lub wykonuje w roku podatkowym w ramach stosunku pracy lub spółdzielczego stosunku pracy, podatnik ten traci w roku podatkowym prawo do opodatkowania w formie ryczałtu od przychodów ewidencjonowanych i, poczynając od dnia uzyskania tego przychodu do końca roku podatkowego, opłaca podatek dochodowy na ogólnych zasadach.
+- **2)** wykonywał lub wykonuje w roku podatkowym – w ramach stosunku pracy lub spółdzielczego stosunku pracy, podatnik ten traci w roku podatkowym prawo do opodatkowania w formie ryczałtu od przychodów ewidencjonowanych i, poczynając od dnia uzyskania tego przychodu do końca roku podatkowego, opłaca podatek dochodowy na ogólnych zasadach.
 
 3. Jeżeli podatnik w roku poprzedzającym rok podatkowy nie uzyskał przychodu z działalności, o której mowa w ust. 1 pkt 3 i 4, traci w roku podatkowym prawo do opodatkowania w formie ryczałtu od przychodów ewidencjonowanych z dniem uzyskania przychodów z tych rodzajów działalności i od tego dnia opłaca podatek dochodowy na ogólnych zasadach.
 
@@ -229,7 +210,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 **Art. 9.**
 
-1. Sporządzone na piśmie oświadczenie o wyborze opodatkowania przychodów z pozarolniczej działalności gospodarczej w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, do 20. dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.
+1. Sporządzone na piśmie oświadczenie o wyborze opodatkowania przychodów z pozarolniczej działalności gospodarczej w formie ryczałtu od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa naczelnikowi urzędu skarbowego właściwemu według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, do 20. dnia miesiąca następującego po miesiącu, w którym osiągnął pierwszy przychód z tego tytułu w roku podatkowym, albo do końca roku podatkowego, jeżeli pierwszy taki przychód osiągnął w grudniu roku podatkowego.
 
 1a. Podatnik może złożyć oświadczenie, na piśmie, właściwemu naczelnikowi urzędu skarbowego o rezygnacji z opodatkowania ryczałtem od przychodów ewidencjonowanych lub złożyć oświadczenie o wyborze opodatkowania na zasadach określonych w art. 30c ustawy o podatku dochodowym, przed upływem terminu, o którym mowa w ust. 1.
 
@@ -237,7 +218,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 1c. Oświadczenia, o których mowa odpowiednio w ust. 1–1b, podatnik może złożyć na podstawie przepisów ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), zwanej dalej „ustawą o CEIDG”.
 
-2. Oświadczenie, o którym mowa w ust. 1, w przypadku prowadzenia działalności w formie spółki składają wszyscy wspólnicy naczelnikom urzędów skarbowych właściwym według miejsca zamieszkania każdego ze wspólników, a w przypadku przedsiębiorstwa w spadku według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy. Wspólnicy spółki cywilnej osób fizycznych mogą złożyć oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na podstawie przepisów ustawy o CEIDG.
+2. Oświadczenie, o którym mowa w ust. 1, w przypadku prowadzenia działalności w formie spółki składają wszyscy wspólnicy naczelnikom urzędów skarbowych właściwym według miejsca zamieszkania każdego ze wspólników, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy. Wspólnicy spółki cywilnej osób fizycznych mogą złożyć oświadczenie o wyborze opodatkowania w formie ryczałtu od przychodów ewidencjonowanych na podstawie przepisów ustawy o CEIDG.
 
 3. W przypadku rozpoczęcia działalności gospodarczej w trakcie roku podatkowego i niezłożenia w określonym terminie oświadczenia, o którym mowa w ust. 1, podatnik jest obowiązany do założenia właściwych ksiąg i opłacania podatku na zasadach określonych w ustawie o podatku dochodowym.
 
@@ -249,9 +230,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 7. (uchylony)
 
-**Art. 10.**
-
-- **3)** Zwolnienia od podatku dochodowego, o których mowa w art. 21 ust. 1 pkt 28a, 29, 29aa, 29b, 43, 46, 46c, 47a, 71a, 102a, 111, 114, 121, 121a, 122, 125, 125a, 129, 131a, 136, 137, 155 i 160 ustawy o podatku dochodowym, stosuje się odpowiednio do podatników opłacających ryczałt od przychodów ewidencjonowanych.
+**Art. 10.** Zwolnienia od podatku dochodowego, o których mowa w art. 21 ust. 1 pkt 28a, 29, 29aa, 29b, 43, 46, 46c, 47a, 71a, 102a, 111, 114, 121, 121a, 122, 125, 125a, 129, 131a, 136, 137, 155 i 160 ustawy o podatku dochodowym, stosuje się odpowiednio do podatników opłacających ryczałt od przychodów ewidencjonowanych.
 
 **Art. 11.**
 
@@ -260,7 +239,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 1a. Przychody, o których mowa w art. 6 ust. 1, mogą być pomniejszone o 50 % składek na ubezpieczenie zdrowotne zapłaconych w roku podatkowym na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ):
 
 - **1)** z tytułu pozarolniczej działalności gospodarczej opodatkowanej w formie ryczałtu od przychodów ewidencjonowanych,
-- **2)** za osoby współpracujące z podatnikiem opodatkowanym w formie ryczałtu od przychodów ewidencjonowanych jeżeli nie zostały zwrócone podatnikowi w jakiejkolwiek formie.
+- **2)** za osoby współpracujące z podatnikiem opodatkowanym w formie ryczałtu od przychodów ewidencjonowanych – jeżeli nie zostały zwrócone podatnikowi w jakiejkolwiek formie.
 
 1b. Wysokość wydatków, o których mowa w ust. 1a, ustala się na podstawie dokumentów stwierdzających ich poniesienie.
 
@@ -287,8 +266,8 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 10. Przepis ust. 4 stosuje się w przypadku, gdy spełnione są łącznie następujące warunki:
 
-- **1)** dłużnik na ostatni dzień miesiąca poprzedzającego dzień złożenia zeznania podatkowego nie jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428), postępowania upadłościowego lub w trakcie likwidacji;
-- **2)** od daty wystawienia faktury lub rachunku lub zawarcia umowy dokumentującej wierzytelność nie upłynęły 2 lata, licząc od końca roku kalendarzowego, w którym wystawiono fakturę lub rachunek lub w którym zawarto umowę, a w przypadku gdy rok kalendarzowy, w którym wystawiono fakturę, jest inny niż rok kalendarzowy, w którym zawarto umowę gdy nie upłynęły 2 lata, licząc od końca roku kalendarzowego późniejszej z tych czynności;
+- **1)** dłużnik na ostatni dzień miesiąca poprzedzającego dzień złożenia zeznania podatkowego nie jest w trakcie postępowania restrukturyzacyjnego w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428), postępowania upadłościowego lub w trakcie likwidacji;
+- **2)** od daty wystawienia faktury lub rachunku lub zawarcia umowy dokumentującej wierzytelność nie upłynęły 2 lata, licząc od końca roku kalendarzowego, w którym wystawiono fakturę lub rachunek lub w którym zawarto umowę, a w przypadku gdy rok kalendarzowy, w którym wystawiono fakturę, jest inny niż rok kalendarzowy, w którym zawarto umowę – gdy nie upłynęły 2 lata, licząc od końca roku kalendarzowego późniejszej z tych czynności;
 - **3)** transakcja handlowa w rozumieniu ustawy o przeciwdziałaniu nadmiernym opóźnieniom zawarta jest w ramach działalności wierzyciela oraz działalności dłużnika, z których dochody podlegają opodatkowaniu podatkiem dochodowym na terytorium Rzeczypospolitej Polskiej.
 
 11. Okres 90 dni, o którym mowa w ust. 4, liczy się począwszy od pierwszego dnia następującego po określonym na fakturze lub rachunku lub w umowie upływie terminu do uregulowania zobowiązania.
@@ -325,16 +304,25 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
     - **b)** pośrednictwa w sprzedaży motocykli oraz części i akcesoriów do nich (PKWiU 45.40.40.0),
     - **c)** pośrednictwa w sprzedaży hurtowej (PKWiU grupa 46.1),
     - **d)** magazynowania i przechowywania cieczy i gazów (PKWiU 52.10.12.0), magazynowania i przechowywania towarów w strefach wolnocłowych (PKWiU ex 52.10.19.0), parkingowych (PKWiU 52.21.24.0), obsługi centrali wzywania radio-taxi (PKWiU ex 52.21.29.0), pilotowania na wodach morskich i przybrzeżnych (PKWiU ex 52.22.13.0), pilotowania na wodach śródlądowych (PKWiU ex 52.22.14.0),
-    - **e)** licencyjnych związanych z: nabywaniem praw do książek, broszur, ulotek, map itp. (PKWiU 58.11.60.0), nabywaniem praw do korzystania z wykazów i list (np. adresowych, telefonicznych) (PKWiU 58.12.30.0), nabywaniem praw do czasopism i pozostałych periodyków (PKWiU 58.14.40.0), nabywaniem praw do pozostałych wyrobów drukowanych (PKWiU 58.19.30.0), nabywaniem praw do korzystania z gier komputerowych (PKWiU 58.21.40.0), nabywaniem praw do korzystania z programów komputerowych (PKWiU 58.29.50.0),
-    - **f)** związanych ze sprzedażą miejsca reklamowego w wykazach i listach (np. adresowych, telefonicznych) (PKWiU
+    - **e)** licencyjnych związanych z: – nabywaniem praw do książek, broszur, ulotek, map itp. (PKWiU
 
-58. 12.40.0),
+58. 11.60.0), – nabywaniem praw do korzystania z wykazów i list (np. adresowych, telefonicznych) (PKWiU 58.12.30.0), – nabywaniem praw do czasopism i pozostałych periodyków (PKWiU
 
+58. 14.40.0), – nabywaniem praw do pozostałych wyrobów drukowanych (PKWiU
+
+58. 19.30.0), – nabywaniem praw do korzystania z gier komputerowych (PKWiU
+
+58. 21.40.0), – nabywaniem praw do korzystania z programów komputerowych (PKWiU 58.29.50.0), adresowych, telefonicznych) (PKWiU 58.12.40.0),
+
+- **f)** związanych ze sprzedażą miejsca reklamowego w wykazach i listach (np.
 - **g)** (uchylona)
 - **h)** związanych z nadawaniem programów ogólnodostępnych i abonamentowych (PKWiU dział 60),
 - **i)** przetwarzania danych (PKWiU ex 63.11.1), przesyłania strumieni wideo przez Internet (PKWiU 59.11.25.0), przesyłania strumieni audio przez Internet (PKWiU 59.20.36.0), agencji informacyjnych (PKWiU 63.91.1) oraz pozostałych w zakresie informacji, gdzie indziej niesklasyfikowanych (PKWiU 63.99),
 - **j)** finansowych i ubezpieczeniowych (PKWiU sekcja K), innych niż świadczone w ramach wolnych zawodów,
-- **k)** związanych z obsługą nieruchomości, świadczonych na zlecenie (PKWiU 68.3),
+- **k)** związanych z obsługą nieruchomości, świadczonych na zlecenie (PKWiU
+
+68. 3),
+
 - **l)** prawnych, rachunkowo-księgowych i doradztwa podatkowego (PKWiU dział 69), innych niż świadczone w ramach wolnych zawodów,
 - **m)** firm centralnych (head office); usług doradztwa związanych z zarządzaniem (PKWiU ex dział 70), z wyjątkiem usług doradztwa związanych z zarządzaniem rynkiem rybnym (PKWiU 70.22.16.), innych niż świadczone w ramach wolnych zawodów,
 - **n)** (uchylona)
@@ -345,14 +333,17 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **s)** związanych z zatrudnieniem (PKWiU dział 78),
 - **t)** przez organizatorów turystyki, pośredników i agentów turystycznych oraz pozostałych usług rezerwacji i usług z nią związanych (PKWiU dział 79),
 - **u)** detektywistycznych i ochroniarskich (PKWiU dział 80), z wyjątkiem robót związanych z instalowaniem systemów przeciwpożarowych i przeciwwłamaniowych z późniejszym monitoringiem,
-- **v)** obsługi nieruchomości wykonywanych na zlecenie, polegających m.in. na utrzymaniu porządku w budynkach, kontroli systemów ogrzewania, wentylacji, klimatyzacji, wykonywaniu drobnych napraw (PKWiU 81.10.10.0), dezynfekcji i tępienia szkodników (PKWiU 81.29.11.0), związanych ze wspomaganiem prowadzenia działalności gospodarczej, gdzie indziej niesklasyfikowane (PKWiU 82.9), centrów telefonicznych (call center) (PKWiU
+- **v)** obsługi nieruchomości wykonywanych na zlecenie, polegających m.in. na utrzymaniu porządku w budynkach, kontroli systemów ogrzewania, wentylacji, klimatyzacji, wykonywaniu drobnych napraw (PKWiU
 
-82. 20.10.0), powielania (PKWiU 82.19.11.0), związanych z organizowaniem kongresów, targów i wystaw (PKWiU
+81. 10.10.0), dezynfekcji i tępienia szkodników (PKWiU 81.29.11.0), związanych ze wspomaganiem prowadzenia działalności gospodarczej, gdzie indziej niesklasyfikowane (PKWiU 82.9), centrów telefonicznych (call center) (PKWiU 82.20.10.0), powielania (PKWiU 82.19.11.0), związanych z organizowaniem kongresów, targów i wystaw (PKWiU
 
 82. 30),
 
 - **w)** (uchylona)
-- **x)** w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU 88.91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),
+- **x)** w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU
+
+88. 91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),
+
 - **y)** kulturalnych i rozrywkowych (PKWiU dział 90),
 - **z)** związanych ze sportem, rozrywką i rekreacją (PKWiU dział 93);
 - **2a)** 14 % przychodów ze świadczenia usług:
@@ -361,24 +352,29 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
     - **c)** w zakresie specjalistycznego projektowania (PKWiU 74.1);
 
 - **2b)** 12 % przychodów ze świadczenia usług:
-    - **a)** związanych z wydawaniem: pakietów gier komputerowych (PKWiU ex 58.21.10.0), z wyłączeniem publikowania gier komputerowych w trybie on-line, pakietów oprogramowania systemowego (PKWiU 58.29.1), pakietów oprogramowania użytkowego (PKWiU 58.29.2), oprogramowania komputerowego pobieranego z Internetu (PKWiU ex 58.29.3), z wyłączeniem pobierania oprogramowania w trybie on-line,
-    - **b)** związanych z doradztwem w zakresie sprzętu komputerowego (PKWiU 62.02.10.0), związanych z oprogramowaniem (PKWiU ex 62.01.1), objętych grupowaniem „Oryginały oprogramowania komputerowego” (PKWiU 62.01.2), związanych z doradztwem w zakresie oprogramowania (PKWiU ex 62.02), w zakresie instalowania oprogramowania (PKWiU ex 62.09.20.0), związanych z zarządzaniem siecią i systemami informatycznymi (PKWiU 62.03.1);
+    - **a)** związanych z wydawaniem: – pakietów gier komputerowych (PKWiU ex 58.21.10.0), z wyłączeniem publikowania gier komputerowych w trybie on-line, – pakietów oprogramowania systemowego (PKWiU 58.29.1), – pakietów oprogramowania użytkowego (PKWiU 58.29.2), – oprogramowania komputerowego pobieranego z Internetu (PKWiU ex
 
-- **3)** 10 % przychodów ze świadczenia usług w zakresie kupna i sprzedaży nieruchomości na własny rachunek (PKWiU
+58. 29.3), z wyłączeniem pobierania oprogramowania w trybie on-line,
 
-68. 10.1);
+- **b)** związanych z doradztwem w zakresie sprzętu komputerowego (PKWiU
 
+62. 02.10.0), związanych z oprogramowaniem (PKWiU ex 62.01.1), objętych grupowaniem „Oryginały oprogramowania komputerowego” (PKWiU 62.01.2), związanych z doradztwem w zakresie oprogramowania (PKWiU ex 62.02), w zakresie instalowania oprogramowania (PKWiU ex
+
+62. 09.20.0), związanych z zarządzaniem siecią i systemami informatycznymi (PKWiU 62.03.1);
+
+- **3)** 10 % przychodów ze świadczenia usług w zakresie kupna i sprzedaży nieruchomości na własny rachunek (PKWiU 68.10.1);
 - **4)** 8,5 % przychodów do kwoty 100 000 zł oraz 12,5 % przychodów od nadwyżki ponad kwotę 100 000 zł z tytułu:
     - **a)** przychodów, o których mowa w art. 6 ust. 1a,
     - **b)** przychodów, o których mowa w art. 14 ust. 2 pkt 11 ustawy o podatku dochodowym,
     - **c)** świadczenia usług związanych z zakwaterowaniem (PKWiU dział 55),
     - **d)** świadczenia usług wynajmu i obsługi nieruchomości własnych lub dzierżawionych (PKWiU 68.20.1),
     - **e)** wykonywania usług w zakresie badań naukowych i prac rozwojowych (PKWiU dział 72),
-    - **f)** wynajmu i dzierżawy: samochodów osobowych i furgonetek, bez kierowcy (PKWiU 77.11.10.0), pozostałych pojazdów samochodowych (z wyłączeniem motocykli), bez kierowcy (PKWiU 77.12.1), środków transportu wodnego bez załogi (PKWiU 77.34.10.0), środków transportu lotniczego bez załogi (PKWiU 77.35.10.0), pojazdów szynowych (bez obsługi) (PKWiU 77.39.11.0), kontenerów (PKWiU 77.39.12.0), motocykli, przyczep kempingowych i samochodów z częścią mieszkalną, bez kierowcy (PKWiU 77.39.13.0), własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU
+    - **f)** wynajmu i dzierżawy: – samochodów osobowych i furgonetek, bez kierowcy (PKWiU
 
-77. 40),
+77. 11.10.0), – pozostałych pojazdów samochodowych (z wyłączeniem motocykli), bez kierowcy (PKWiU 77.12.1), – środków transportu wodnego bez załogi (PKWiU 77.34.10.0), – środków transportu lotniczego bez załogi (PKWiU 77.35.10.0), – pojazdów szynowych (bez obsługi) (PKWiU 77.39.11.0), – kontenerów (PKWiU 77.39.12.0), – motocykli, przyczep kempingowych i samochodów z częścią mieszkalną, bez kierowcy (PKWiU 77.39.13.0), – własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40),
 
-- **g)** świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział 87);
+- **g)** świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział
+- **87)** ;
 - **5)** 8,5 %:
     - **a)** przychodów z działalności usługowej, w tym przychodów z działalności gastronomicznej w zakresie sprzedaży napojów o zawartości alkoholu powyżej 1,5 %, z zastrzeżeniem pkt 1–4 oraz 6–8,
     - **b)** przychodów ze świadczenia usług związanych ze zwalczaniem pożarów i zapobieganiem pożarom (PKWiU 84.25.11.0),
@@ -397,12 +393,14 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **7)** 3,0 % przychodów:
     - **a)** z działalności gastronomicznej, z wyjątkiem przychodów ze sprzedaży napojów o zawartości alkoholu powyżej 1,5 %,
     - **b)** z działalności usługowej w zakresie handlu, z zastrzeżeniem pkt 2 i 3,
-    - **c)** ze świadczenia usług związanych z produkcją zwierzęcą (PKWiU 01.62.10.0),
-    - **d)** z działalności rybaków morskich i zalewowych w zakresie sprzedaży ryb i innych surowców pochodzących z własnych połowów, z wyjątkiem sprzedaży konserw oraz prezerw z ryb i innych surowców z połowów,
-    - **e)** o których mowa w art. 14 ust. 2 pkt 2, 5–10 i 19–21 ustawy o podatku dochodowym,
-    - **f)** z odpłatnego zbycia ruchomych składników majątku wykorzystywanych w pozarolniczej działalności gospodarczej, nawet jeżeli przed zbyciem zostały wycofane z tej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat, będących: środkami trwałymi podlegającymi ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych, składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł, składnikami majątku, które ze względu na przewidywany okres używania równy rokowi lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
-    - **g)** z odpłatnego zbycia ruchomych składników majątku przedsiębiorstwa w spadku;
+    - **c)** ze świadczenia usług związanych z produkcją zwierzęcą (PKWiU
 
+01. 62.10.0),
+
+- **d)** z działalności rybaków morskich i zalewowych w zakresie sprzedaży ryb i innych surowców pochodzących z własnych połowów, z wyjątkiem sprzedaży konserw oraz prezerw z ryb i innych surowców z połowów,
+- **e)** o których mowa w art. 14 ust. 2 pkt 2, 5–10 i 19–21 ustawy o podatku dochodowym,
+- **f)** z odpłatnego zbycia ruchomych składników majątku wykorzystywanych w pozarolniczej działalności gospodarczej, nawet jeżeli przed zbyciem zostały wycofane z tej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat, będących: – środkami trwałymi podlegającymi ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych, – składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł, – składnikami majątku, które ze względu na przewidywany okres używania równy rokowi lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
+- **g)** z odpłatnego zbycia ruchomych składników majątku przedsiębiorstwa w spadku;
 - **8)** 2 % przychodów, o których mowa w art. 6 ust. 1d.
 
 2. Podatek zryczałtowany, o którym mowa w ust. 1, pobiera się bez pomniejszania przychodu o koszty uzyskania.
@@ -442,11 +440,11 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **2)** składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł,
 - **3)** składnikami majątku, które ze względu na przewidywany okres używania równy lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
 - **4)** składnikami majątku stanowiącymi spółdzielcze prawo do lokalu użytkowego lub udział w takim prawie, które nie podlegają ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych,
-- **5)** składnikami majątku przedsiębiorstwa w spadku bez względu na okres ich nabycia ryczałt od przychodów ewidencjonowanych wynosi 10 % uzyskanego przychodu, nawet jeżeli przed zbyciem zostały wycofane z pozarolniczej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat.
+- **5)** składnikami majątku przedsiębiorstwa w spadku – bez względu na okres ich nabycia – ryczałt od przychodów ewidencjonowanych wynosi 10 % uzyskanego przychodu, nawet jeżeli przed zbyciem zostały wycofane z pozarolniczej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat.
 
-10a. W przypadku odpłatnego zbycia budynku mieszkalnego, jego części lub udziału w takim budynku, lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału w takim lokalu, gruntu lub udziału w gruncie albo prawa użytkowania wieczystego gruntu lub udziału w takim prawie, związanych z tym budynkiem lub lokalem, spółdzielczego własnościowego prawa do lokalu mieszkalnego lub udziału w takim prawie oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej lub udziału w takim prawie wykorzystywanych w pozarolniczej działalności gospodarczej jeżeli odpłatne zbycie zostało dokonane przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie stosuje się art. 21 ust. 1 pkt 131 i art. 30e ustawy o podatku dochodowym.
+10a. W przypadku odpłatnego zbycia budynku mieszkalnego, jego części lub udziału w takim budynku, lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału w takim lokalu, gruntu lub udziału w gruncie albo prawa użytkowania wieczystego gruntu lub udziału w takim prawie, związanych z tym budynkiem lub lokalem, spółdzielczego własnościowego prawa do lokalu mieszkalnego lub udziału w takim prawie oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej lub udziału w takim prawie wykorzystywanych w pozarolniczej działalności gospodarczej – jeżeli odpłatne zbycie zostało dokonane przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie – stosuje się art. 21 ust. 1 pkt 131 i art. 30e ustawy o podatku dochodowym.
 
-10b. Ryczałt od przychodu, o którym mowa w ust. 10, jest płatny bez wezwania w terminie, o którym mowa w art. 21 ust. 1 lub 1a, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, wykonuje swoje zadania.
+10b. Ryczałt od przychodu, o którym mowa w ust. 10, jest płatny bez wezwania w terminie, o którym mowa w art. 21 ust. 1 lub 1a, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika, a w przypadku przedsiębiorstwa w spadku – według ostatniego miejsca zamieszkania zmarłego przedsiębiorcy, wykonuje swoje zadania.
 
 11. (uchylony)
 
@@ -478,7 +476,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 3a. (uchylony)
 
-4. Ewidencję oraz dowody, na podstawie których są dokonywane wpisy do ewidencji, a także dowody zakupu, o których mowa w ust. 1, należy przechowywać w miejscu wykonywania działalności lub, jeżeli działalność jest prowadzona w formie spółki, w miejscu wskazanym przez podatnika lub podatników jako ich siedziba, albo w biurze rachunkowym, któremu zostało powierzone prowadzenie ewidencji.
+4. Ewidencję oraz dowody, na podstawie których są dokonywane wpisy do ewidencji, a także dowody zakupu, o których mowa w ust. 1, należy przechowywać w miejscu wykonywania działalności lub, jeżeli działalność jest prowadzona w formie spółki, w miejscu wskazanym przez podatnika lub podatników – jako ich siedziba, albo w biurze rachunkowym, któremu zostało powierzone prowadzenie ewidencji.
 
 5. (uchylony)
 
@@ -492,22 +490,28 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 10. W przypadku prowadzenia przez zmarłego przedsiębiorcę wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 1, przedsiębiorstwo w spadku kontynuuje prowadzenie tego wykazu.
 
-11. Przedsiębiorstwo w spadku jest obowiązane w prowadzonej ewidencji dokonać zapisów dotyczących zdarzeń gospodarczych zaistniałych od otwarcia spadku do dnia dokonania zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano do dnia ustanowienia zarządu sukcesyjnego.
+11. Przedsiębiorstwo w spadku jest obowiązane w prowadzonej ewidencji dokonać zapisów dotyczących zdarzeń gospodarczych zaistniałych od otwarcia spadku do dnia dokonania zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano – do dnia ustanowienia zarządu sukcesyjnego.
 
 11a. Podatnicy są obowiązani prowadzić ewidencję faktur dokumentujących przychody rozliczane metodą kasową, o której mowa w art. 14c ustawy o podatku dochodowym. Ewidencja ta zawiera datę wystawienia faktury, numer faktury, kwotę należności wynikającą z faktury oraz datę uregulowania należności.
 
 11b. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 11a.
 
-12. Podmioty, o których mowa w ust. 1, prowadzące ewidencję lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić tę ewidencję i wykaz przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego tę ewidencję i wykaz po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 21 ust. 2 pkt 2, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy Ordynacja podatkowa, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 ustawy Ordynacja podatkowa.
+12. Podmioty, o których mowa w ust. 1, prowadzące ewidencję lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić tę ewidencję i wykaz przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego tę ewidencję i wykaz po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 21 ust. 2 pkt 2, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy – Ordynacja podatkowa, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 ustawy – Ordynacja podatkowa.
 
-13. W przypadku spółki niebędącej osobą prawną ewidencja lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
+13. W przypadku spółki niebędącej osobą prawną ewidencja lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu – naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
+
+13a. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa obejmuje również upoważnienie do podpisywania ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych przesyłanych na podstawie ust. 12.
 
 14. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
 
 - **1)** zakres dodatkowych danych, o które należy uzupełnić prowadzoną ewidencję i wykaz środków trwałych oraz wartości niematerialnych i prawnych podlegające przekazaniu na podstawie ust. 12, oraz sposób ich wykazywania w tej ewidencji i tym wykazie,
-- **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania ewidencji lub tego wykazu na podstawie ust. 12 uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku lub narażonych na te nadużycia, oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych.
+- **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania ewidencji lub tego wykazu na podstawie ust. 12 – uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku lub narażonych na te nadużycia, oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych.
 
 **Art. 16.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** sposób prowadzenia ewidencji, szczegółowe warunki jakim powinna odpowiadać ewidencja, aby stanowiła dowód w postępowaniu podatkowym, sposób dokumentowania przychodów oraz obliczania należnego ryczałtu od przychodów ewidencjonowanych;
+- **2)** sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w art. 15 ust. 1.
+- **3)** (uchylony)
 
 **Art. 17.**
 
@@ -543,11 +547,11 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 **Art. 21.**
 
-1. Podatnicy są obowiązani za każdy miesiąc obliczać ryczałt od przychodów ewidencjonowanych i wpłacać go na rachunek urzędu skarbowego w terminie do dnia 20 następnego miesiąca, a za miesiąc grudzień w terminie do dnia 20 stycznia następnego roku podatkowego.
+1. Podatnicy są obowiązani za każdy miesiąc obliczać ryczałt od przychodów ewidencjonowanych i wpłacać go na rachunek urzędu skarbowego w terminie do dnia 20 następnego miesiąca, a za miesiąc grudzień – w terminie do dnia 20 stycznia następnego roku podatkowego.
 
-1a. Podatnicy mogą obliczać ryczałt od przychodów ewidencjonowanych i wpłacać go na rachunek urzędu skarbowego w terminie do dnia 20 następnego miesiąca po upływie kwartału, za który ryczałt ma być opłacony, a za ostatni kwartał roku podatkowego w terminie do dnia 20 stycznia następnego roku podatkowego. 1aa. Jeżeli zmarły przedsiębiorca w roku podatkowym, w którym zmarł, wpłacał ryczałt co kwartał, zgodnie z ust. 1a, przedsiębiorstwo w spadku może stosować tę zasadę wpłacania ryczałtu za ten rok podatkowy.
+1a. Podatnicy mogą obliczać ryczałt od przychodów ewidencjonowanych i wpłacać go na rachunek urzędu skarbowego w terminie do dnia 20 następnego miesiąca po upływie kwartału, za który ryczałt ma być opłacony, a za ostatni kwartał roku podatkowego – w terminie do dnia 20 stycznia następnego roku podatkowego. 1aa. Jeżeli zmarły przedsiębiorca w roku podatkowym, w którym zmarł, wpłacał ryczałt co kwartał, zgodnie z ust. 1a, przedsiębiorstwo w spadku może stosować tę zasadę wpłacania ryczałtu za ten rok podatkowy.
 
-1b. Zasadę, o której mowa w ust. 1a, mogą stosować wyłącznie podatnicy rozpoczynający prowadzenie działalności, o których mowa w art. 7, oraz podatnicy, których otrzymane przychody z działalności prowadzonej samodzielnie albo przychody spółki w roku poprzedzającym rok podatkowy nie przekroczyły kwoty stanowiącej równowartość 200 000 euro. W limicie przychodów, o którym mowa w zdaniu pierwszym, nie uwzględnia się kwot, o które podatnik odpowiednio zmniejszył albo zwiększył przychody na podstawie art. 11 ust. 4, 5, 8 i 9 lub zmniejszył albo zwiększył podstawę obliczenia podatku na podstawie art. 26i ustawy o podatku dochodowym. 1ba. W roku podatkowym następującym po roku, w którym zmarł przedsiębiorca, przepis ust. 1b stosuje się z uwzględnieniem przychodów zmarłego przedsiębiorcy albo przychodów spółki, w której zmarły przedsiębiorca był wspólnikiem.
+1b. Zasadę, o której mowa w ust. 1a, mogą stosować wyłącznie podatnicy rozpoczynający prowadzenie działalności, o których mowa w art. 7, oraz podatnicy, których otrzymane przychody z działalności prowadzonej samodzielnie albo przychody spółki – w roku poprzedzającym rok podatkowy – nie przekroczyły kwoty stanowiącej równowartość 200 000 euro. W limicie przychodów, o którym mowa w zdaniu pierwszym, nie uwzględnia się kwot, o które podatnik odpowiednio zmniejszył albo zwiększył przychody na podstawie art. 11 ust. 4, 5, 8 i 9 lub zmniejszył albo zwiększył podstawę obliczenia podatku na podstawie art. 26i ustawy o podatku dochodowym. 1ba. W roku podatkowym następującym po roku, w którym zmarł przedsiębiorca, przepis ust. 1b stosuje się z uwzględnieniem przychodów zmarłego przedsiębiorcy albo przychodów spółki, w której zmarły przedsiębiorca był wspólnikiem.
 
 1c. O wyborze kwartalnego sposobu opłacania ryczałtu podatnicy informują w zeznaniu, o którym mowa w ust. 2 pkt 2, składanym za rok podatkowy, w którym stosowali kwartalny sposób opłacania ryczałtu.
 
@@ -559,8 +563,8 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 1g. Ryczałt od przychodów ewidencjonowanych dotyczący okresu zawieszenia, o którym mowa w ust. 1d i 1e, w danym roku podatkowym, podatnik jest obowiązany obliczyć i wpłacić na rachunek urzędu skarbowego po wznowieniu wykonywania działalności gospodarczej, w terminie:
 
-- **1)** do 20 dnia miesiąca następującego po miesiącu, w którym wznowiono wykonywanie działalności gospodarczej w przypadku podatników, o których mowa w ust. 1;
-- **2)** do 20 dnia miesiąca następującego po kwartale, w którym wznowiono wykonywanie działalności gospodarczej w przypadku podatników, o których mowa w ust. 1a.
+- **1)** do 20 dnia miesiąca następującego po miesiącu, w którym wznowiono wykonywanie działalności gospodarczej – w przypadku podatników, o których mowa w ust. 1;
+- **2)** do 20 dnia miesiąca następującego po kwartale, w którym wznowiono wykonywanie działalności gospodarczej – w przypadku podatników, o których mowa w ust. 1a.
 
 1h. Jeżeli wznowienie wykonywania działalności gospodarczej następuje w ostatnim miesiącu roku podatkowego, ryczałt od przychodów ewidencjonowanych dotyczący okresu zawieszenia, o którym mowa w ust. 1d i 1e, w danym roku podatkowym, podatnik jest obowiązany obliczyć i wpłacić na rachunek urzędu skarbowego w terminie do dnia 20 stycznia następnego roku podatkowego. W tym samym terminie ryczałt od przychodów ewidencjonowanych są obowiązani obliczyć i wpłacić na rachunek urzędu skarbowego podatnicy, o których mowa w ust. 1a, jeżeli wznowienie wykonywania działalności gospodarczej następuje w ostatnim kwartale roku podatkowego.
 
@@ -580,7 +584,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 2. Podatnicy są obowiązani złożyć w urzędzie skarbowym:
 
 - **1)** (uchylony)
-- **2)** zeznanie według ustalonego wzoru o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych w terminie od dnia 15 lutego do dnia 30 kwietnia roku następującego po roku podatkowym; zeznanie złożone przed początkiem terminu uznaje się za złożone w dniu 15 lutego roku następującego po roku podatkowym.
+- **2)** zeznanie według ustalonego wzoru o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych – w terminie od dnia 15 lutego do dnia 30 kwietnia roku następującego po roku podatkowym; zeznanie złożone przed początkiem terminu uznaje się za złożone w dniu 15 lutego roku następującego po roku podatkowym.
 
 2a. Jeżeli podatnik, obliczając podatek należny, dokonał odliczeń od przychodu lub ryczałtu, a następnie otrzymał zwrot odliczonych kwot (w całości lub w części), w zeznaniu podatkowym składanym za rok podatkowy, w którym otrzymał ten zwrot, dolicza odpowiednio kwoty poprzednio odliczone.
 
@@ -594,7 +598,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 4. Ryczałt od przychodów ewidencjonowanych wynikający z zeznania jest podatkiem należnym za dany rok podatkowy, chyba że naczelnik urzędu skarbowego wyda decyzję, w której określi inną wysokość podatku.
 
-5. (uchylony) 5a. Pierwszy ryczałt przedsiębiorstwo w spadku oblicza za miesiąc albo kwartał, w którym dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano za miesiąc albo kwartał, w którym został ustanowiony zarząd sukcesyjny, uwzględniając przy jego obliczeniu przychody przedsiębiorstwa osiągnięte od otwarcia spadku, i wpłaca w terminie do 20 dnia następnego miesiąca albo kwartału.
+5. (uchylony) 5a. Pierwszy ryczałt przedsiębiorstwo w spadku oblicza za miesiąc albo kwartał, w którym dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano – za miesiąc albo kwartał, w którym został ustanowiony zarząd sukcesyjny, uwzględniając przy jego obliczeniu przychody przedsiębiorstwa osiągnięte od otwarcia spadku, i wpłaca w terminie do 20 dnia następnego miesiąca albo kwartału.
 
 5b. (uchylony)
 
@@ -609,27 +613,27 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 - **1)** w okresie poprzedzającym rok korzystania z tego zwolnienia osiągnęli przychód z pozarolniczej działalności gospodarczej średniomiesięcznie w wysokości stanowiącej równowartość w złotych kwoty co najmniej 1000 euro, przeliczonej według średniego kursu euro, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roku poprzedzającego rok rozpoczęcia tej działalności;
 - **2)** od dnia rozpoczęcia prowadzenia pozarolniczej działalności gospodarczej do dnia 1 stycznia roku podatkowego, w którym rozpoczynają korzystanie ze zwolnienia, byli małym przedsiębiorcą w rozumieniu przepisów o działalności gospodarczej, a w okresie poprzedzającym rok korzystania ze zwolnienia zatrudniali, na podstawie umowy o pracę, w każdym miesiącu co najmniej 5 osób w przeliczeniu na pełne etaty;
-- **3)** w prowadzonej pozarolniczej działalności gospodarczej nie wykorzystują środków trwałych oraz wartości niematerialnych i prawnych, a także innych składników majątku o znacznej wartości udostępnionych im nieodpłatnie przez osoby zaliczone do I i II grupy podatkowej w rozumieniu przepisów o podatku od spadków i darowizn, wykorzystywanych uprzednio w działalności gospodarczej prowadzonej przez te osoby i stanowiących ich własność;
+- **3)** w prowadzonej pozarolniczej działalności gospodarczej nie wykorzystują środków trwałych oraz wartości niematerialnych i prawnych, a także innych składników majątku – o znacznej wartości – udostępnionych im nieodpłatnie przez osoby zaliczone do I i II grupy podatkowej w rozumieniu przepisów o podatku od spadków i darowizn, wykorzystywanych uprzednio w działalności gospodarczej prowadzonej przez te osoby i stanowiących ich własność;
 - **4)** złożyli właściwemu naczelnikowi urzędu skarbowego oświadczenie o korzystaniu z tego zwolnienia; oświadczenie składa się na piśmie w terminie do dnia 31 stycznia roku podatkowego, w którym podatnik będzie korzystał z tego zwolnienia.
 
-9. Przez znaczną wartość rozumie się łączną wartość środków trwałych oraz wartości niematerialnych i prawnych, a także innych składników majątku wymienionych w ust. 8 pkt 3 stanowiącej równowartość w złotych kwoty co najmniej 10 000 euro przeliczonej według średniego kursu euro, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roku poprzedzającego rok korzystania z tego zwolnienia. Przy określaniu tych wartości art. 19 ustawy o podatku dochodowym stosuje się odpowiednio.
+9. Przez znaczną wartość rozumie się łączną wartość środków trwałych oraz wartości niematerialnych i prawnych, a także innych składników majątku – wymienionych w ust. 8 pkt 3 – stanowiącej równowartość w złotych kwoty co najmniej 10 000 euro przeliczonej według średniego kursu euro, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roku poprzedzającego rok korzystania z tego zwolnienia. Przy określaniu tych wartości art. 19 ustawy o podatku dochodowym stosuje się odpowiednio.
 
-10. Podatnicy korzystający ze zwolnienia, o którym mowa w ust. 6, są obowiązani do złożenia zeznania, o którym mowa w ust. 2 pkt 2, oraz do uiszczenia należnego ryczałtu od przychodów ewidencjonowanych, za rok objęty tym zwolnieniem z tytułu pozarolniczej działalności gospodarczej w pięciu kolejnych latach podatkowych następujących bezpośrednio po roku, w którym korzystali ze zwolnienia w wysokości 20 % należnego ryczałtu wykazanego w zeznaniu za rok objęty zwolnieniem; ryczałt ten płatny jest przed upływem terminów określonych na złożenie zeznań za pięć kolejnych lat podatkowych następujących bezpośrednio po roku objętym tym zwolnieniem.
+10. Podatnicy korzystający ze zwolnienia, o którym mowa w ust. 6, są obowiązani do złożenia zeznania, o którym mowa w ust. 2 pkt 2, oraz do uiszczenia należnego ryczałtu od przychodów ewidencjonowanych, za rok objęty tym zwolnieniem – z tytułu pozarolniczej działalności gospodarczej – w pięciu kolejnych latach podatkowych następujących bezpośrednio po roku, w którym korzystali ze zwolnienia – w wysokości 20 % należnego ryczałtu wykazanego w zeznaniu za rok objęty zwolnieniem; ryczałt ten płatny jest przed upływem terminów określonych na złożenie zeznań za pięć kolejnych lat podatkowych następujących bezpośrednio po roku objętym tym zwolnieniem.
 
 11. Podatnicy tracą prawo do zwolnienia, jeżeli odpowiednio w roku lub za rok korzystania ze zwolnienia albo w pięciu następnych latach podatkowych:
 
 - **1)** zlikwidowali działalność gospodarczą albo została ogłoszona ich upadłość lub upadłość spółki, w której są wspólnikami lub
 - **2)** osiągnęli przychód z pozarolniczej działalności gospodarczej średniomiesięcznie w wysokości stanowiącej równowartość w złotych kwoty niższej niż 1000 euro, przeliczonej według średniego kursu euro, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roku poprzedniego, lub
 - **3)** w którymkolwiek z miesięcy w tych latach zmniejszą przeciętne miesięczne zatrudnienie na podstawie umowy o pracę o więcej niż 10 %, w stosunku do najwyższego przeciętnego miesięcznego zatrudnienia w roku poprzedzającym rok podatkowy, lub
-- **4)** mają zaległości z tytułu podatków stanowiących dochód budżetu państwa, ceł oraz składek na ubezpieczenie społeczne i ubezpieczenie zdrowotne, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych określenie lub wymierzenie w innej formie w wyniku postępowania prowadzonego przez właściwy organ zaległości z wymienionych tytułów nie pozbawia podatnika prawa do skorzystania ze zwolnienia, jeżeli zaległość ta wraz z odsetkami za zwłokę zostanie uregulowana w terminie 14 dni od dnia doręczenia decyzji ostatecznej.
+- **4)** mają zaległości z tytułu podatków stanowiących dochód budżetu państwa, ceł oraz składek na ubezpieczenie społeczne i ubezpieczenie zdrowotne, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych określenie lub wymierzenie w innej formie – w wyniku postępowania prowadzonego przez właściwy organ – zaległości z wymienionych tytułów nie pozbawia podatnika prawa do skorzystania ze zwolnienia, jeżeli zaległość ta wraz z odsetkami za zwłokę zostanie uregulowana w terminie 14 dni od dnia doręczenia decyzji ostatecznej.
 
 12. Przeciętne miesięczne zatrudnienie, o którym mowa w ust. 8 pkt 2 oraz ust. 11 pkt 3 ustala się w przeliczeniu na pełne etaty, pomijając liczby po przecinku; w przypadku, gdy przeciętne miesięczne zatrudnienie jest mniejsze od jedności, przyjmuje się liczbę jeden.
 
 13. Podatnicy, którzy utracili prawo do zwolnienia:
 
-- **1)** w miesiącach od stycznia do listopada roku podatkowego, w którym korzystają z tego zwolnienia są obowiązani do wpłaty należnego ryczałtu od przychodów ewidencjonowanych w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące;
-- **2)** w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia, do upływu terminu określonego na złożenie zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu przed upływem terminu na złożenie zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;
-- **3)** w okresie od upływu terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia do końca piątego roku podatkowego następującego po tym roku są obowiązani do zapłaty należnego ryczałtu, o którym mowa w ust. 10, wraz z odsetkami za zwłokę; odsetki nalicza się od dnia następnego po upływie terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych, w którym mieli obowiązek złożyć to zeznanie.
+- **1)** w miesiącach od stycznia do listopada roku podatkowego, w którym korzystają z tego zwolnienia – są obowiązani do wpłaty należnego ryczałtu od przychodów ewidencjonowanych w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące;
+- **2)** w okresie od dnia 1 grudnia roku podatkowego, w którym korzystają z tego zwolnienia, do upływu terminu określonego na złożenie zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy objęty zwolnieniem i zapłaty tego ryczałtu przed upływem terminu na złożenie zeznania; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;
+- **3)** w okresie od upływu terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych za rok podatkowy, w którym korzystali ze zwolnienia do końca piątego roku podatkowego następującego po tym roku – są obowiązani do zapłaty należnego ryczałtu, o którym mowa w ust. 10, wraz z odsetkami za zwłokę; odsetki nalicza się od dnia następnego po upływie terminu określonego dla złożenia zeznania o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych, w którym mieli obowiązek złożyć to zeznanie.
 
 14. Pomoc, o której mowa w ust. 6 i 10, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
 
@@ -642,9 +646,9 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek, o którym mowa w ust. 3, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), wybranej przez podatnika z wykazu, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1,5 % podatku należnego wynikającego:
 
 - **1)** z zeznania podatkowego złożonego przed upływem terminu określonego na jego złożenie, albo
-- **2)** z korekty zeznania, o którym mowa w pkt 1, jeżeli została dokonana w ciągu miesiąca od upływu terminu dla złożenia zeznania podatkowego po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
+- **2)** z korekty zeznania, o którym mowa w pkt 1, jeżeli została dokonana w ciągu miesiąca od upływu terminu dla złożenia zeznania podatkowego – po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366) za traktowanie przesyłki listowej jako przesyłki poleconej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, nie później niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1,5 % podatku należnego.
 
@@ -652,9 +656,9 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 5. Naczelnik urzędu skarbowego właściwy według siedziby organizacji pożytku publicznego, we wrześniu roku następującego po roku podatkowym przekazuje organizacji pożytku publicznego zbiorczą informację o:
 
-- **1)** danych identyfikacyjnych (imię, nazwisko i adres, a w przypadku przedsiębiorstwa w spadku dane tego przedsiębiorstwa), oraz
+- **1)** danych identyfikacyjnych (imię, nazwisko i adres, a w przypadku przedsiębiorstwa w spadku – dane tego przedsiębiorstwa), oraz
 - **2)** wysokości kwoty, o której mowa w ust. 1, przekazanej na rzecz tej organizacji,
-- **3)** przeznaczeniu kwoty, o której mowa w ust. 1, przez organizację pożytku publicznego (cel szczegółowy) jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
+- **3)** przeznaczeniu kwoty, o której mowa w ust. 1, przez organizację pożytku publicznego (cel szczegółowy) – jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
 
 6. Naczelnik urzędu skarbowego odstępuje od przekazania 1,5 % podatku na rzecz organizacji pożytku publicznego, jeżeli:
 
@@ -682,15 +686,15 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 **Art. 21d.**
 
-1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 ustawy Ordynacja podatkowa stosuje się odpowiednio.
+1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 ustawy – Ordynacja podatkowa stosuje się odpowiednio.
 
-2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 ustawy Ordynacja podatkowa.
+2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 ustawy – Ordynacja podatkowa.
 
 3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
 
 **Art. 22.**
 
-1. W razie utraty warunków do opodatkowania ryczałtem od przychodów ewidencjonowanych podatnik jest obowiązany, poczynając od dnia, w którym nastąpiła utrata tych warunków, zaprowadzić właściwe księgi chyba, że jest zwolniony z tego obowiązku i opłacać podatek dochodowy na ogólnych zasadach.
+1. W razie utraty warunków do opodatkowania ryczałtem od przychodów ewidencjonowanych podatnik jest obowiązany, poczynając od dnia, w którym nastąpiła utrata tych warunków, zaprowadzić właściwe księgi – chyba, że jest zwolniony z tego obowiązku – i opłacać podatek dochodowy na ogólnych zasadach.
 
 2. W stosunku do podatników, o których mowa w ust. 1, podlegających za część roku opodatkowaniu na ogólnych zasadach, za podstawę do określenia podatku dochodowego przyjmuje się dochód osiągnięty po utracie warunków do opodatkowania w formie ryczałtu od przychodów ewidencjonowanych.
 
@@ -702,19 +706,22 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 1. Zryczałtowany podatek dochodowy w formie karty podatkowej mogą płacić podatnicy prowadzący działalność:
 
-- **1)** usługową lub wytwórczo-usługową, określoną w części I tabeli stanowiącej załącznik nr 3 do ustawy, zwanej dalej „tabelą”, w zakresie wymienionym w załączniku nr 4 do ustawy przy zatrudnieniu nieprzekraczającym stanu określonego w tabeli;
-- **2)** usługową w zakresie handlu detalicznego żywnością, napojami, wyrobami tytoniowymi oraz kwiatami, z wyjątkiem napojów o zawartości alkoholu powyżej 1,5 % w warunkach określonych w części II tabeli;
-- **3)** usługową w zakresie handlu detalicznego artykułami nieżywnościowymi w warunkach określonych w części III tabeli, z wyjątkiem handlu paliwami silnikowymi, środkami transportu samochodowego, częściami i akcesoriami do pojazdów mechanicznych, ciągnikami rolniczymi i motocyklami oraz z wyjątkiem handlu artykułami nieżywnościowymi objętego koncesjonowaniem;
-- **4)** gastronomiczną jeżeli nie jest prowadzona sprzedaż napojów o zawartości alkoholu powyżej 1,5 % w warunkach określonych w części IV tabeli;
-- **5)** w zakresie usług transportowych wykonywanych przy użyciu jednego pojazdu w warunkach określonych w części V tabeli;
-- **6)** w zakresie usług rozrywkowych w warunkach określonych w części VI tabeli;
-- **7)** w zakresie sprzedaży posiłków domowych w mieszkaniach, jeżeli nie jest prowadzona sprzedaż napojów o zawartości alkoholu powyżej 1,5 % w warunkach określonych w części VII tabeli;
-- **8)** polegającą na świadczeniu usług w zakresie ochrony zdrowia ludzkiego w warunkach określonych w części VIII tabeli;
-- **9)** polegającą na świadczeniu przez lekarzy weterynarii usług weterynaryjnych, w tym również sprzedaż preparatów weterynaryjnych (PKWiU ex 21.10.51.0, ex 21.20.13.0, ex 21.20.21.0 oraz ex 21.20.23.0), w związku ze świadczonymi usługami w warunkach określonych w części IX tabeli;
-- **10)** w zakresie opieki domowej nad dziećmi i osobami chorymi w warunkach określonych w części X tabeli;
-- **11)** w zakresie usług edukacyjnych, polegającą na udzielaniu lekcji na godziny w warunkach określonych w części XI tabeli.
+- **1)** usługową lub wytwórczo-usługową, określoną w części I tabeli stanowiącej załącznik nr 3 do ustawy, zwanej dalej „tabelą”, w zakresie wymienionym w załączniku nr 4 do ustawy – przy zatrudnieniu nieprzekraczającym stanu określonego w tabeli;
+- **2)** usługową w zakresie handlu detalicznego żywnością, napojami, wyrobami tytoniowymi oraz kwiatami, z wyjątkiem napojów o zawartości alkoholu powyżej 1,5 % – w warunkach określonych w części II tabeli;
+- **3)** usługową w zakresie handlu detalicznego artykułami nieżywnościowymi – w warunkach określonych w części III tabeli, z wyjątkiem handlu paliwami silnikowymi, środkami transportu samochodowego, częściami i akcesoriami do pojazdów mechanicznych, ciągnikami rolniczymi i motocyklami oraz z wyjątkiem handlu artykułami nieżywnościowymi objętego koncesjonowaniem;
+- **4)** gastronomiczną – jeżeli nie jest prowadzona sprzedaż napojów o zawartości alkoholu powyżej 1,5 % – w warunkach określonych w części IV tabeli;
+- **5)** w zakresie usług transportowych wykonywanych przy użyciu jednego pojazdu – w warunkach określonych w części V tabeli;
+- **6)** w zakresie usług rozrywkowych – w warunkach określonych w części VI tabeli;
+- **7)** w zakresie sprzedaży posiłków domowych w mieszkaniach, jeżeli nie jest prowadzona sprzedaż napojów o zawartości alkoholu powyżej 1,5 % – w warunkach określonych w części VII tabeli;
+- **8)** polegającą na świadczeniu usług w zakresie ochrony zdrowia ludzkiego – w warunkach określonych w części VIII tabeli;
+- **9)** polegającą na świadczeniu przez lekarzy weterynarii usług weterynaryjnych, w tym również sprzedaż preparatów weterynaryjnych (PKWiU ex 21.10.51.0, ex
 
-1a. Zryczałtowany podatek w formie karty podatkowej mogą opłacać także na zasadach i w warunkach określonych w części XII tabeli osoby fizyczne, w tym rolnicy równocześnie prowadzący gospodarstwo rolne, oraz przedsiębiorstwa w spadku.
+21. 20.13.0, ex 21.20.21.0 oraz ex 21.20.23.0), w związku ze świadczonymi usługami – w warunkach określonych w części IX tabeli;
+
+- **10)** w zakresie opieki domowej nad dziećmi i osobami chorymi – w warunkach określonych w części X tabeli;
+- **11)** w zakresie usług edukacyjnych, polegającą na udzielaniu lekcji na godziny – w warunkach określonych w części XI tabeli.
+
+1a. Zryczałtowany podatek w formie karty podatkowej mogą opłacać także – na zasadach i w warunkach określonych w części XII tabeli – osoby fizyczne, w tym rolnicy równocześnie prowadzący gospodarstwo rolne, oraz przedsiębiorstwa w spadku.
 
 2. (uchylony)
 
@@ -749,7 +756,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 2. Nie wyłącza opodatkowania w formie karty podatkowej:
 
 - **1)** prowadzenie przez podatnika działalności w zakresie wytwarzania energii elektrycznej, w elektrowniach wodnych i wiatrowych, o mocy oddawanej do 5000 kilowatów, oraz wytwarzanie biogazu
-- **2)** (uchylony) z których przychody (dochody) podlegają odrębnemu opodatkowaniu podatkiem dochodowym na ogólnych zasadach.
+- **2)** (uchylony) – z których przychody (dochody) podlegają odrębnemu opodatkowaniu podatkiem dochodowym na ogólnych zasadach.
 
 3. Za usługi specjalistyczne w rozumieniu ust. 1 pkt 3 uważa się czynności i prace wchodzące w inny niż zgłoszony zakres działalności, niezbędne do całkowitego wykonania wyrobu lub świadczonej usługi, w tym również czynności i prace towarzyszące, o których mowa w załączniku nr 4.
 
@@ -761,15 +768,15 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 - **1)** wlicza się również osoby zatrudnione na podstawie umowy o pracę nakładczą oraz członków rodziny mających inne niż podatnik miejsce pobytu stałego lub czasowego;
 - **2)** nie wlicza się:
-    - **a)** członków rodziny pozostających we wspólnym gospodarstwie domowym z podatnikiem, a w razie gdy działalność prowadzona jest przez wspólników tylko członków rodziny jednego ze wspólników,
-    - **b)** osób zatrudnionych w celu nauki zawodu lub przyuczenia do wykonywania określonej pracy, zgodnie z odrębnymi przepisami o nauce zawodu lub przyuczaniu do wykonywania określonej pracy w okresie nauki zawodu lub przyuczania oraz nie więcej niż trzech osób zatrudnionych w okresie pierwszych dwunastu miesięcy po złożeniu przez nie egzaminu; na równi z osobami zatrudnionymi w celu nauki zawodu lub przyuczenia do wykonywania określonej pracy traktuje się uczniów szkół średnich oraz studentów, zatrudnionych w okresie wakacji letnich i zimowych,
+    - **a)** członków rodziny pozostających we wspólnym gospodarstwie domowym z podatnikiem, a w razie gdy działalność prowadzona jest przez wspólników – tylko członków rodziny jednego ze wspólników,
+    - **b)** osób zatrudnionych w celu nauki zawodu lub przyuczenia do wykonywania określonej pracy, zgodnie z odrębnymi przepisami o nauce zawodu lub przyuczaniu do wykonywania określonej pracy – w okresie nauki zawodu lub przyuczania oraz nie więcej niż trzech osób zatrudnionych w okresie pierwszych dwunastu miesięcy po złożeniu przez nie egzaminu; na równi z osobami zatrudnionymi w celu nauki zawodu lub przyuczenia do wykonywania określonej pracy traktuje się uczniów szkół średnich oraz studentów, zatrudnionych w okresie wakacji letnich i zimowych,
     - **c)** (uchylona)
-    - **d)** pracowników zatrudnionych wyłącznie przy sprzedaży wyrobów, przyjmowaniu zleceń na usługi, utrzymywaniu czystości w zakładzie, prowadzeniu kasy i księgowości, kierowców i konwojentów pod warunkiem, że podatnik określił na piśmie zakres czynności tych pracowników,
+    - **d)** pracowników zatrudnionych wyłącznie przy sprzedaży wyrobów, przyjmowaniu zleceń na usługi, utrzymywaniu czystości w zakładzie, prowadzeniu kasy i księgowości, kierowców i konwojentów – pod warunkiem, że podatnik określił na piśmie zakres czynności tych pracowników,
     - **e)** osób, na których rachunek jest prowadzona działalność po śmierci podatnika, jeżeli osoby te nie biorą udziału w prowadzeniu działalności,
     - **f)** nie więcej niż czterech bezrobotnych absolwentów skierowanych, na podstawie odrębnych przepisów, przez właściwy urząd pracy do odbywania stażu u pracodawcy przez okres nieprzekraczający dwunastu miesięcy,
-    - **g)** łącznie nie więcej niż trzech zatrudnionych bezrobotnych zarejestrowanych w urzędzie pracy, przy czym okres zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6 miesięcy w okresie bezpośrednio poprzedzającym jego zatrudnienie.
+    - **g)** łącznie nie więcej niż trzech zatrudnionych bezrobotnych – zarejestrowanych w urzędzie pracy, przy czym okres zarejestrowania w urzędzie pracy bezrobotnego musi trwać co najmniej 6 miesięcy w okresie bezpośrednio poprzedzającym jego zatrudnienie.
 
-7. Przy ocenie warunków uzasadniających opodatkowanie w formie karty podatkowej i ustalaniu wysokości stawek podatku w odniesieniu do podatników, o których mowa w art. 23 ust. 1 pkt 2–6 i 11, do liczby pracowników nie wlicza się małżonka, z zastrzeżeniem pkt 2 objaśnień do części V tabeli oraz pkt 1 objaśnień do części XI tabeli, i niepełnoletnich członków rodziny pozostających we wspólnym gospodarstwie domowym z podatnikiem. W razie prowadzenia działalności przez wspólników do liczby pracowników nie wlicza się małżonka i niepełnoletnich członków rodziny tylko jednego wspólnika. Przy prowadzeniu działalności usługowej w zakresie handlu detalicznego i gastronomii do liczby pracowników nie wlicza się ponadto osób zatrudnionych w celu praktycznej nauki zawodu, zgodnie z odrębnymi przepisami o nauce zawodu, oraz pracowników zatrudnionych wyłącznie do utrzymywania czystości w zakładzie, pod warunkiem że podatnik określił na piśmie zakres czynności tych pracowników.
+7. Przy ocenie warunków uzasadniających opodatkowanie w formie karty podatkowej i ustalaniu wysokości stawek podatku w odniesieniu do podatników, o których mowa w art. 23 ust. 1 pkt 2–6 i 11, do liczby pracowników nie wlicza się małżonka, z zastrzeżeniem pkt 2 objaśnień do części V tabeli oraz pkt 1 objaśnień do części XI tabeli, i niepełnoletnich członków rodziny pozostających we wspólnym gospodarstwie domowym z podatnikiem. W razie prowadzenia działalności przez wspólników – do liczby pracowników nie wlicza się małżonka i niepełnoletnich członków rodziny tylko jednego wspólnika. Przy prowadzeniu działalności usługowej w zakresie handlu detalicznego i gastronomii – do liczby pracowników nie wlicza się ponadto osób zatrudnionych w celu praktycznej nauki zawodu, zgodnie z odrębnymi przepisami o nauce zawodu, oraz pracowników zatrudnionych wyłącznie do utrzymywania czystości w zakładzie, pod warunkiem że podatnik określił na piśmie zakres czynności tych pracowników.
 
 8. W przypadku powołania osób, o których mowa w ust. 6 pkt 2 lit. b, do odbycia zasadniczej służby wojskowej w okresie pierwszych dwunastu miesięcy po złożeniu przez nie egzaminu, okres niewliczania ich do stanu zatrudnienia przedłuża się o czas trwania służby, jeżeli podatnik zawiadomi na piśmie o tym fakcie naczelnika urzędu skarbowego w terminie siedmiu dni od dnia powołania do służby.
 
@@ -779,8 +786,8 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 1. Wysokość podatku dochodowego w formie karty podatkowej, z zastrzeżeniem art. 27 ust. 4, ustala się:
 
-- **1)** dla podatników prowadzących działalność gospodarczą określoną w art. 23 ust. 1 pkt 1, z wyjątkiem tabeli „Usługi inne, gdzie indziej w załączniku niewymienione” i pkt 5–11 według stawek miesięcznych określonych w tabeli;
-- **2)** dla podatników prowadzących działalność gospodarczą określoną w art. 23 ust. 1 pkt 1 w tabeli „Usługi inne, gdzie indziej w załączniku niewymienione”, pkt 2–4 i ust. 1a w granicach stawek miesięcznych określonych w tabeli, biorąc pod uwagę wszystkie okoliczności mające wpływ na rozmiary tej działalności.
+- **1)** dla podatników prowadzących działalność gospodarczą określoną w art. 23 ust. 1 pkt 1, z wyjątkiem tabeli „Usługi inne, gdzie indziej w załączniku niewymienione” i pkt 5–11 – według stawek miesięcznych określonych w tabeli;
+- **2)** dla podatników prowadzących działalność gospodarczą określoną w art. 23 ust. 1 pkt 1 w tabeli „Usługi inne, gdzie indziej w załączniku niewymienione”, pkt 2– 4 i ust. 1a – w granicach stawek miesięcznych określonych w tabeli, biorąc pod uwagę wszystkie okoliczności mające wpływ na rozmiary tej działalności.
 
 2. W przypadkach, o których mowa w art. 25 ust. 5, wysokość podatku dochodowego w formie karty podatkowej ustala się według stawki określonej dla stanu zatrudnienia odpowiadającego łącznej liczbie wspólników i pracowników.
 
@@ -798,7 +805,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **2)** określone w części V tabeli obniża się o 20 % dla podatników, którzy ukończyli do dnia 1 stycznia roku podatkowego 60 lat życia lub są osobami, w stosunku do których, na podstawie odrębnych przepisów, orzeczono co najmniej umiarkowany lub lekki stopień niepełnosprawności, jeżeli przy prowadzeniu działalności w zakresie usług transportowych nie zatrudniają pracowników i członków rodziny;
 - **3)** określone w części I tabeli obniża się dla podatników, którzy zatrudniają pracowników będących osobami, w stosunku do których, na podstawie odrębnych przepisów, orzeczono co najmniej lekki stopień niepełnosprawności, o 10 % na każdą osobę; obniżka stawki nie dotyczy osób wymienionych w art. 25 ust. 6 pkt 2 lit. d.
 
-2. Na wniosek podatnika naczelnik urzędu skarbowego może dodatkowo obniżyć stawkę karty podatkowej określoną w części I tabeli w przypadkach szczególnie uzasadnionych w stosunku do podatników, o których mowa w ust. 1.
+2. Na wniosek podatnika naczelnik urzędu skarbowego może dodatkowo obniżyć stawkę karty podatkowej określoną w części I tabeli w przypadkach szczególnie uzasadnionych – w stosunku do podatników, o których mowa w ust. 1.
 
 3. Na wniosek podatnika naczelnik urzędu skarbowego może obniżyć stawkę karty podatkowej określoną w części I tabeli, jeżeli rozmiar działalności podatnika, przy zatrudnieniu nieprzekraczającym jednego pracownika, wskazuje na to, że określona w tabeli stawka byłaby oczywiście za wysoka.
 
@@ -812,7 +819,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 **Art. 28.**
 
-1. W razie zatrudnienia przez podatnika przy prowadzeniu działalności określonej w art. 23 ust. 1 pkt 1, z wyjątkiem prowadzenia parkingów, pełnoletnich członków rodziny, nie licząc małżonka, a w przypadkach określonych w art. 25 ust. 5 pełnoletnich członków rodziny jednego ze wspólników, nie licząc małżonka, a także w razie zatrudnienia osób, o których mowa w art. 25 ust. 6 pkt 2 lit. d, podwyższa się stawkę karty podatkowej z tytułu zatrudnienia każdej z tych osób za miesiące, w których była zatrudniona:
+1. W razie zatrudnienia przez podatnika przy prowadzeniu działalności określonej w art. 23 ust. 1 pkt 1, z wyjątkiem prowadzenia parkingów, pełnoletnich członków rodziny, nie licząc małżonka, a w przypadkach określonych w art. 25 ust. 5 – pełnoletnich członków rodziny jednego ze wspólników, nie licząc małżonka, a także w razie zatrudnienia osób, o których mowa w art. 25 ust. 6 pkt 2 lit. d, podwyższa się stawkę karty podatkowej z tytułu zatrudnienia każdej z tych osób za miesiące, w których była zatrudniona:
 
 - **1)** o 40 % stawki określonej dla działalności prowadzonej bez zatrudnienia pracowników;
 - **2)** o 30 % stawki określonej dla działalności prowadzonej przy zatrudnieniu jednego pracownika;
@@ -839,7 +846,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. (uchylony)
 
-3. Właściwy miejscowo w sprawie podatku dochodowego opłacanego w formie karty podatkowej jest naczelnik urzędu skarbowego według miejsca położenia zorganizowanego zakładu, wskazanego w zgłoszeniu do ewidencji działalności gospodarczej, a w razie niedopełnienia zgłoszenia działalności do ewidencji lub gdy działalność jest wykonywana bez posiadania zorganizowanego zakładu według miejsca zamieszkania podatnika lub siedziby spółki, a jeżeli nie można ustalić siedziby spółki według miejsca zamieszkania jednego ze wspólników.
+3. Właściwy miejscowo w sprawie podatku dochodowego opłacanego w formie karty podatkowej jest naczelnik urzędu skarbowego według miejsca położenia zorganizowanego zakładu, wskazanego w zgłoszeniu do ewidencji działalności gospodarczej, a w razie niedopełnienia zgłoszenia działalności do ewidencji lub gdy działalność jest wykonywana bez posiadania zorganizowanego zakładu – według miejsca zamieszkania podatnika lub siedziby spółki, a jeżeli nie można ustalić siedziby spółki – według miejsca zamieszkania jednego ze wspólników.
 
 4. Jeżeli działalność jest prowadzona w kilku zorganizowanych zakładach na terenie objętym właściwością miejscową kilku naczelników urzędów skarbowych właściwość ustala się według miejsca wskazanego przez podatnika jako siedzibę działalności.
 
@@ -862,9 +869,9 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. Po upływie roku podatkowego, w terminie do końca lutego, podatnik jest obowiązany złożyć w urzędzie skarbowym roczną deklarację, według ustalonego wzoru, o wysokości składki na ubezpieczenie zdrowotne, o której mowa w ust. 1.
 
-3. Podatnicy płacą podatek dochodowy w formie karty podatkowej, pomniejszony o składkę na ubezpieczenie zdrowotne, o której mowa w ust. 1, bez wezwania w terminie do 7. dnia każdego miesiąca za miesiąc ubiegły, a za grudzień w terminie do dnia 28 grudnia roku podatkowego, na rachunek urzędu skarbowego.
+3. Podatnicy płacą podatek dochodowy w formie karty podatkowej, pomniejszony o składkę na ubezpieczenie zdrowotne, o której mowa w ust. 1, bez wezwania w terminie do 7. dnia każdego miesiąca za miesiąc ubiegły, a za grudzień – w terminie do dnia 28 grudnia roku podatkowego, na rachunek urzędu skarbowego.
 
-4. W przypadku, o którym mowa w art. 24 ust. 4, jeżeli dokonanie zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a w przypadku niedokonania zgłoszenia ustanowienie zarządu sukcesyjnego, nastąpiło po terminie płatności podatku w formie karty podatkowej, podatek ten płatny jest w terminie do 7. dnia miesiąca przypadającego po miesiącu, w którym dokonano zgłoszenia albo ustanowiono zarząd sukcesyjny.
+4. W przypadku, o którym mowa w art. 24 ust. 4, jeżeli dokonanie zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a w przypadku niedokonania zgłoszenia – ustanowienie zarządu sukcesyjnego, nastąpiło po terminie płatności podatku w formie karty podatkowej, podatek ten płatny jest w terminie do 7. dnia miesiąca przypadającego po miesiącu, w którym dokonano zgłoszenia albo ustanowiono zarząd sukcesyjny.
 
 **Art. 32.**
 
@@ -875,7 +882,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **1)** ewidencję i płacić ryczałt od przychodów ewidencjonowanych, jeżeli spełnia warunki określone w rozdziale 2, albo
 - **2)** właściwe księgi i płacić podatek dochodowy na ogólnych zasadach.
 
-3. Do końca miesiąca, w którym podatnik zrzekł się zastosowania opodatkowania w formie karty podatkowej, jest obowiązany opłacać podatek dochodowy na ogólnych zasadach. W tym przypadku podatnik jest obowiązany wpłacić w terminie do 20 dnia miesiąca następującego po miesiącu, w którym zrzekł się opodatkowania w formie karty podatkowej różnicę pomiędzy kwotą podatku dochodowego obliczonego na ogólnych zasadach za okres od początku roku do końca miesiąca, w którym zrzekł się opodatkowania w formie karty podatkowej, a kwotą podatku dochodowego zapłaconego w formie karty podatkowej, w okresie przed zrzeczeniem się opodatkowania w tej formie.
+3. Do końca miesiąca, w którym podatnik zrzekł się zastosowania opodatkowania w formie karty podatkowej, jest obowiązany opłacać podatek dochodowy na ogólnych zasadach. W tym przypadku podatnik jest obowiązany wpłacić – w terminie do 20 dnia miesiąca następującego po miesiącu, w którym zrzekł się opodatkowania w formie karty podatkowej – różnicę pomiędzy kwotą podatku dochodowego obliczonego na ogólnych zasadach za okres od początku roku do końca miesiąca, w którym zrzekł się opodatkowania w formie karty podatkowej, a kwotą podatku dochodowego zapłaconego w formie karty podatkowej, w okresie przed zrzeczeniem się opodatkowania w tej formie.
 
 **Art. 33.**
 
@@ -915,8 +922,8 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 4. Nie stanowi przeszkody do opodatkowania w formie karty podatkowej przekroczenie stanu zatrudnienia określonego w części I, z wyjątkiem tabeli „Usługi inne, gdzie indziej w załączniku niewymienione”, II, III i IV tabeli:
 
-- **1)** nie więcej niż o sześciu pracowników jeżeli podatnik prowadzi działalność na terenie gmin wymienionych w odrębnych przepisach, określających wykaz gmin zagrożonych szczególnie wysokim bezrobociem strukturalnym oraz zawiadomi o tym naczelnika urzędu skarbowego, albo
-- **2)** nie więcej niż o pięciu pracowników jeżeli podatnik prowadzący gospodarstwo rolne wykonuje równocześnie pozarolniczą działalność gospodarczą w miejscowości o liczbie mieszkańców do 5000 oraz zawiadomi o tym naczelnika urzędu skarbowego;
+- **1)** nie więcej niż o sześciu pracowników – jeżeli podatnik prowadzi działalność na terenie gmin wymienionych w odrębnych przepisach, określających wykaz gmin zagrożonych szczególnie wysokim bezrobociem strukturalnym oraz zawiadomi o tym naczelnika urzędu skarbowego, albo
+- **2)** nie więcej niż o pięciu pracowników – jeżeli podatnik prowadzący gospodarstwo rolne wykonuje równocześnie pozarolniczą działalność gospodarczą w miejscowości o liczbie mieszkańców do 5000 oraz zawiadomi o tym naczelnika urzędu skarbowego;
 - **3)** nie więcej niż o trzech pracowników w latach 2003–2005;
 - **4)** nie więcej niż o trzech pracowników w latach 2021–2024.
 
@@ -943,7 +950,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 1. Podatnik, który zawiadomi na piśmie naczelnika urzędu skarbowego o utracie warunków do opodatkowania w formie karty podatkowej, jest obowiązany, poczynając od dnia, w którym nastąpiła utrata tych warunków, zaprowadzić:
 
 - **1)** ewidencję i płacić ryczałt od przychodów ewidencjonowanych, jeżeli spełnia warunki określone w rozdziale 2, albo
-- **2)** właściwe księgi chyba że jest zwolniony od tego obowiązku i płacić podatek dochodowy na ogólnych zasadach.
+- **2)** właściwe księgi – chyba że jest zwolniony od tego obowiązku – i płacić podatek dochodowy na ogólnych zasadach.
 
 2. W stosunku do podatników, o których mowa w ust. 1 pkt 2, podlegających za część roku opodatkowaniu na ogólnych zasadach, za podstawę do ustalenia podatku dochodowego za ten okres przyjmuje się dochód osiągnięty od dnia utraty warunków do opodatkowania w formie karty podatkowej.
 
@@ -954,7 +961,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 - **1)** podał we wniosku o zastosowanie opodatkowania w formie karty podatkowej dane niezgodne ze stanem faktycznym, powodujące nieuzasadnione zastosowanie opodatkowania w formie karty podatkowej bądź ustalenie wysokości podatku dochodowego w formie karty podatkowej w kwocie niższej od należnej, lub
 - **2)** (uchylony)
 - **3)** nie zawiadomi naczelnika urzędu skarbowego w terminie, o którym mowa w art. 36 ust. 7, o zmianach powodujących utratę warunków do opodatkowania w formie karty podatkowej albo mających wpływ na podwyższenie wysokości podatku dochodowego w formie karty podatkowej, bądź w zawiadomieniu poda dane w tym zakresie niezgodne ze stanem faktycznym, lub
-- **4)** w rachunku lub fakturze stwierdzających sprzedaż wyrobu, towaru lub wykonanie usługi poda dane istotnie niezgodne ze stanem faktycznym naczelnik urzędu skarbowego stwierdza wygaśnięcie decyzji, o której mowa w art. 30 ust. 1.
+- **4)** w rachunku lub fakturze stwierdzających sprzedaż wyrobu, towaru lub wykonanie usługi poda dane istotnie niezgodne ze stanem faktycznym – naczelnik urzędu skarbowego stwierdza wygaśnięcie decyzji, o której mowa w art. 30 ust. 1.
 
 2. W przypadkach określonych w ust. 1:
 
@@ -997,7 +1004,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. Właściwy naczelnik urzędu skarbowego, na wniosek osoby duchownej, odpowiednio obniża stawki ryczałtu określone w załącznikach nr 5 i 6, jeżeli liczba wyznawców na danym terenie stanowi mniejszość w ogólnej liczbie mieszkańców. Osoba duchowna jest obowiązana dołączyć do wniosku oświadczenie o liczbie wyznawców. Przepis ust. 1 stosuje się odpowiednio.
 
-**Art. 47.** Osoby duchowne opłacają ryczałt bez wezwania w terminie do dnia 20 następnego miesiąca po upływie kwartału, a za czwarty kwartał do dnia 28 grudnia roku podatkowego, na rachunek urzędu skarbowego.
+**Art. 47.** Osoby duchowne opłacają ryczałt bez wezwania – w terminie do dnia 20 następnego miesiąca po upływie kwartału, a za czwarty kwartał – do dnia 28 grudnia roku podatkowego, na rachunek urzędu skarbowego.
 
 **Art. 48.**
 
@@ -1066,7 +1073,31 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 **Art. 57.** (pominięty)
 
-**Art. 57a.** Zwalnia się od podatku kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529). Art. 57aa. 1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
+**Art. 57a.** Zwalnia się od podatku kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529).
+
+**Art. 57aa.**
+
+1. Podatnik może od przychodu z pozarolniczej działalności gospodarczej obliczonego za 2021 r. na podstawie art. 11, odliczyć poniesione w tym roku:
+
+- **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
+
+2. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
+
+3. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie ani nie zostały odliczone od dochodu na podstawie ustawy o podatku dochodowym.
+
+4. Odliczenia dokonuje się w zeznaniu składanym za 2021 r.
+
+5. W zakresie nieuregulowanym w niniejszym artykule do odliczenia wydatków i opłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 11 i art. 21 ust. 2a.
+
+6. Użyte w niniejszym artykule określenie:
+
+- **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.
+
+**Art. 57ab.** Zwalnia się od podatku kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
 
 **Art. 57b.**
 
@@ -1080,12 +1111,12 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. W przypadku darowizny, o której mowa w ust. 1, przekazanej:
 
-- **1)** do dnia 30 kwietnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **2)** w maju 2020 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. odliczeniu podlega kwota odpowiadająca wartości darowizny;
-- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- **1)** do dnia 30 kwietnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **2)** w maju 2020 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. – odliczeniu podlega kwota odpowiadająca wartości darowizny;
+- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 – odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 2a. Odliczenie, o którym mowa w ust. 1 i ust. 2 pkt 1 i 2, przysługuje również w przypadku, gdy przekazanie darowizny nastąpiło przy udziale organizacji pożytku publicznego, jeżeli:
 
@@ -1103,7 +1134,7 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 1. Zwalnia się z obowiązku, o którym mowa w art. 21 ust. 3f oraz art. 11 ust. 4 pkt 2, odpowiednio za poszczególne okresy rozliczeniowe lub rok podatkowy, w których spełnione zostały łącznie następujące warunki:
 
 - **1)** w danym roku podatkowym obowiązywał stan epidemii ogłoszony z powodu COVID-19;
-- **2)** uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody z działalności gospodarczej są niższe o co najmniej 50 % w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy w stosunku do uzyskanych w tym roku średnich przychodów z działalności gospodarczej;
+- **2)** uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody z działalności gospodarczej są niższe o co najmniej 50 % w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy – w stosunku do uzyskanych w tym roku średnich przychodów z działalności gospodarczej;
 - **3)** podatnik poniósł odpowiednio w danym okresie rozliczeniowym lub roku podatkowym negatywne konsekwencje ekonomiczne z powodu COVID-19.
 
 2. Warunku, o którym mowa w ust. 1 pkt 2, nie stosuje się do podatników, którzy:
@@ -1129,20 +1160,21 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. Przez placówkę oświatową rozumie się:
 
-- **1)** podmioty, o których mowa w art. 2 pkt 1–4 i 7 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079 i 1116);
-- **2)** uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. );
+- **1)** podmioty, o których mowa w art. 2 pkt 1–4 i 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082 oraz z 2022 r. poz. 655, 1079 i
+- **1116)** ;
+- **2)** uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. );
 - **3)** placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447).
 
 3. Odliczenie stosuje się w przypadku, gdy przedmiotem darowizny są komputery, o których mowa w ust. 1, kompletne, zdatne do użytku i wyprodukowane nie wcześniej niż 3 lata przed dniem ich przekazania.
 
 4. W przypadku darowizny, o której mowa w ust. 1, przekazanej:
 
-- **1)** do dnia 30 kwietnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **2)** w maju 2020 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. odliczeniu podlega kwota odpowiadająca wartości darowizny;
-- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- **1)** do dnia 30 kwietnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **2)** w maju 2020 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. – odliczeniu podlega kwota odpowiadająca wartości darowizny;
+- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 – odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 5. Odliczeniu podlegają darowizny nieodliczone na podstawie art. 11 i art. 57b i na podstawie art. 26 ust. 1 pkt 9, art. 52n i art. 52x ustawy o podatku dochodowym.
 
@@ -1160,5 +1192,5 @@ poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059 i 1414, z 2024 r. poz. 1593 i 
 
 2. W zakresie nieuregulowanym w ust. 1 do przekazania kwoty na rzecz organizacji pożytku publicznego stosuje się odpowiednio przepisy art. 21b.
 
-**Art. 58.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z tym że przepisy art. 16, art. 35 ust. 4, art. 52 ust. 2 oraz art. 56 pkt 4 lit. e wchodzą w życie z dniem ogłoszenia . WYKAZ WYROBÓW RĘKODZIEŁA LUDOWEGO I ARTYSTYCZNEGO (ATESTOWANYCH PRZEZ KOMISJE ARTYSTYCZNE I ETNOGRAFICZNE) Część I. Wyroby rękodzieła ludowego i artystycznego z metalu Lp. Symbol PKWiU Nazwa wyrobu 1 2 3 1 ex 25.71.1 Wyroby nożownicze i sztućce, z wyłączeniem PKWiU 25.71.15.0 2 ex 25.72.14.0 Zawiasy, zamocowania, obsady i podobne wyroby do pojazdów silnikowych, drzwi, okien, mebli itp., wykonane z metali nieszlachetnych 3 ex 25.99.24.0 Statuetki i pozostałe wyroby dekoracyjne oraz ramki do fotografii, obrazków lub podobne, ramki z lusterkami z metali nieszlachetnych w tym medale 4 ex 25.99.29.0 Wyroby z metali nieszlachetnych pozostałe, gdzie indziej niesklasyfikowane 5 ex 26.52.22.0 Koperty do zegarków, obudowy zegarów i ich części 6 ex 27.40.2 Lampy i osprzęt oświetleniowy 7 ex 32.12.13.0 Biżuteria i inne wyroby jubilerskie oraz ich części, z metalu szlachetnego lub metalu platerowanego metalem szlachetnym, w tym medale z metali szlachetnych 8 ex 32.12.14.0 Pozostałe wyroby wykonane z metali szlachetnych; wyroby z pereł naturalnych lub hodowlanych, kamieni szlachetnych lub półszlachetnych, z wyłączeniem pasków i bransoletek do zegarków oraz ich części wykonanych z metali szlachetnych 9 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby w tym medale oprawione w biżuterię, z wyłączeniem pasków i bransoletek do zegarków oraz ich części wykonanych z metali nieszlachetnych pokrytych metalem szlachetnym Część II. Wyroby rękodzieła ludowego i artystycznego z ceramiki Lp. Symbol PKWiU Nazwa wyrobu 1 2 3 1 ex 23.41.11.0 Zastawy stołowe, naczynia kuchenne oraz pozostałe artykuły gospodarstwa domowego i toaletowe, z porcelany lub porcelany chińskiej 2 ex 23.41.12.0 Zastawy stołowe, naczynia kuchenne oraz pozostałe artykuły gospodarstwa domowego i toaletowe, z wyłączeniem z porcelany lub porcelany chińskiej 3 ex 23.41.13.0 Statuetki i pozostałe ceramiczne wyroby dekoracyjne 4 ex 23.49.12.0 Pozostałe wyroby ceramiczne, gdzie indziej niesklasyfikowane z wyłączeniem wyrobów budowlanych 5 ex 26.52.22.0 Koperty do zegarków, obudowy zegarów i ich części 6 ex 27.40.2 Lampy i osprzęt oświetleniowy 7 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby 1 2 3 8 ex 32.99.41.0 Zapalniczki do papierosów i pozostałe zapalniczki; fajki do tytoniu (włączając cybuchy), cygarniczki oraz części tych wyrobów wyłącznie: fajki i cybuchy, cygarniczki do papierosów i cygar oraz ich części, części fajek, z ceramiki 9 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie: współczesnych artystycznych wyrobów z ceramiki innych niż rzeźby i posągi 10 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie: współczesnych oryginałów rzeźb, posągów, z ceramiki Część III. Wyroby rękodzieła ludowego i artystycznego ze szkła Lp. Symbol PKWiU Nazwa wyrobu 1 2 3 1 ex 23.13.12.0 Kieliszki i szklanki, z wyłączeniem z tworzywa szklano-ceramicznego 2 ex 23.13.13.0 Wyroby ze szkła, w rodzaju stosowanych do celów stołowych, kuchennych, toaletowych, biurowych, dekoracji wnętrz lub podobnych celów 3 ex 23.19.24.0 Części szklane do lamp i osprzętu oświetleniowego, podświetlane tablice informacyjne itp. 4 ex 23.19.26.0 Wyroby szklane, gdzie indziej niesklasyfikowane 5 ex 32.13.10.0 Biżuteria sztuczna i podobne wyroby dotyczy wyłącznie: biżuterii sztucznej szklanej 6 ex 90.03.12.0 Oryginały prac autorów, kompozytorów i pozostałych artystów, z wyłączeniem artystów wykonawców, malarzy, grafików i rzeźbiarzy dotyczy wyłącznie: współczesnych artystycznych wyrobów ze szkła innych niż rzeźby i posągi 7 ex 90.03.13.0 Oryginały prac malarzy, grafików i rzeźbiarzy dotyczy wyłącznie: współczesnych oryginałów rzeźb i posągów, ze szkła Część IV. Wyroby rękodzieła ludowego i artystycznego z drewna, wikliny, słomy, rogożyny, trzciny, łuby oraz papieru Lp. Symbol PKWiU Nazwa wyrobu 1 2 3 1 ex 16.24.12.0 Beczki i pozostałe wyroby bednarskie, z drewna dotyczy wyłącznie: beczek i kompletów beczkowych z drewna iglastego, z drewna liściastego, baryłek do płynów z drewna 2 ex 16.29.12.0 Przybory stołowe i kuchenne, z drewna 3 ex 16.29.13.0 Intarsje i mozaiki, kasety i szkatułki na biżuterię lub sztućce i podobne artykuły, statuetki oraz pozostałe ozdoby, z drewna 4 ex 16.29.14.0 Ramy do obrazów, fotografii, luster lub podobnych przedmiotów oraz pozostałe wyroby, z drewna z wyłączeniem:
+**Art. 58.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z tym że przepisy art. 16, art. 35 ust. 4, art. 52 ust. 2 oraz art. 56 pkt 4 lit. e wchodzą w życie z dniem ogłoszenia .
 

@@ -8,12 +8,10 @@ pos: 125
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 stycznia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
 
 | Pole | Wartość |
 |---|---|
@@ -39,6 +37,9 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
+- **2)** art. 23 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), który stanowi: „Art. 23. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
+- **3)** art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+
 #### Rozdział 1 Wykonywanie zawodu lekarza weterynarii
 
 **Art. 1.**
@@ -61,7 +62,7 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 1a.**
 
-1. Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, zwanych dalej „państwami członkowskimi”, którzy uzyskali w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodu lekarza weterynarii, kwalifikacje te uznaje się na zasadach określonych w ustawie.
+1. Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, zwanych dalej „państwami członkowskimi”, którzy uzyskali w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodu lekarza weterynarii, kwalifikacje te uznaje się na zasadach określonych w ustawie.
 
 2. Obywatelom państw członkowskich, których kwalifikacje zostały uznane, prawo wykonywania zawodu lekarza weterynarii na terytorium Rzeczypospolitej Polskiej przysługuje na takich samych zasadach jak osobom, które uzyskały kwalifikacje do jego wykonywania na terytorium Rzeczypospolitej Polskiej.
 
@@ -110,29 +111,29 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 1. Okręgowa rada lekarsko-weterynaryjna przyznaje prawo wykonywania zawodu lekarza weterynarii lekarzowi weterynarii będącemu obywatelem państwa członkowskiego, posiadającemu dokument potwierdzający jego kwalifikacje do wykonywania zawodu lekarza weterynarii, wydany przez właściwe organy innego państwa członkowskiego, niespełniające minimalnych wymagań w zakresie kształcenia określonych w przepisach Unii Europejskiej dotyczących uznawania kwalifikacji zawodowych, jeżeli posiada on:
 
 - **1)** wydany przez właściwe organy państwa członkowskiego dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii, świadczący o rozpoczęciu kształcenia przed dniem:
-    - **a)** 21 grudnia 1980 r. w Królestwie Belgii, Królestwie Danii, Republice Francuskiej, Królestwie Niderlandów, Republice Irlandii, Wielkim Księstwie Luksemburga, Republice Federalnej Niemiec lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej,
-    - **b)** 1 stycznia 1981 r. w Republice Greckiej,
-    - **c)** 1 stycznia 1985 r. w Republice Włoskiej,
-    - **d)** 1 stycznia 1986 r. w Królestwie Hiszpanii lub Republice Portugalskiej,
-    - **e)** 11 marca 1990 r. w Związku Socjalistycznych Republik Radzieckich dla Republiki Litwy, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Litwy na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Litwy,
-    - **f)** 3 października 1990 r. w Niemieckiej Republice Demokratycznej, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Federalnej Niemiec na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Federalnej Niemiec,
-    - **g)** 25 czerwca 1991 r. w Socjalistycznej Federalnej Republice Jugosławii dla Republiki Słowenii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Słowenii na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Słowenii,
-    - **h)** 20 sierpnia 1991 r. w Związku Socjalistycznych Republik Radzieckich dla Republiki Estonii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Estonii na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Estonii,
-    - **i)** 21 sierpnia 1991 r. w Związku Socjalistycznych Republik Radzieckich dla Republiki Łotwy, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Łotwy na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Łotwy, ia) 8 października 1991 r. w Socjalistycznej Federalnej Republice Jugosławii dla Republiki Chorwacji, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Chorwacji na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Chorwacji,
-    - **j)** 1 stycznia 1993 r. w Czechosłowackiej Republice Federacyjnej, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Czeskiej lub Republiki Słowackiej na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Czeskiej lub Republiki Słowackiej,
-    - **k)** 1 stycznia 1994 r. w Republice Austrii, Republice Finlandii lub Królestwie Szwecji, Republice Islandii lub Królestwie Norwegii,
-    - **l)** 1 maja 1995 r. w Księstwie Liechtensteinu,
-    - **m)** 1 czerwca 2002 r. w Konfederacji Szwajcarskiej,
-    - **n)** 1 maja 2004 r. w Republice Czeskiej, Republice Cypru, Republice Litwy, Republice Łotwy, Republice Węgier, Republice Malty, Republice Słowackiej lub Republice Słowenii,
-    - **o)** 1 stycznia 2007 r. w Republice Bułgarii lub Rumunii,
-    - **p)** 1 lipca 2013 r. w Republice Chorwacji, albo
+    - **a)** 21 grudnia 1980 r. – w Królestwie Belgii, Królestwie Danii, Republice Francuskiej, Królestwie Niderlandów, Republice Irlandii, Wielkim Księstwie Luksemburga, Republice Federalnej Niemiec lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej,
+    - **b)** 1 stycznia 1981 r. – w Republice Greckiej,
+    - **c)** 1 stycznia 1985 r. – w Republice Włoskiej,
+    - **d)** 1 stycznia 1986 r. – w Królestwie Hiszpanii lub Republice Portugalskiej,
+    - **e)** 11 marca 1990 r. – w Związku Socjalistycznych Republik Radzieckich dla Republiki Litwy, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Litwy na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Litwy,
+    - **f)** 3 października 1990 r. – w Niemieckiej Republice Demokratycznej, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Federalnej Niemiec na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Federalnej Niemiec,
+    - **g)** 25 czerwca 1991 r. – w Socjalistycznej Federalnej Republice Jugosławii dla Republiki Słowenii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Słowenii na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Słowenii,
+    - **h)** 20 sierpnia 1991 r. – w Związku Socjalistycznych Republik Radzieckich dla Republiki Estonii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Estonii na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Estonii,
+    - **i)** 21 sierpnia 1991 r. – w Związku Socjalistycznych Republik Radzieckich dla Republiki Łotwy, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Łotwy na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Łotwy, ia) 8 października 1991 r. – w Socjalistycznej Federalnej Republice Jugosławii dla Republiki Chorwacji, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Chorwacji na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Chorwacji,
+    - **j)** 1 stycznia 1993 r. – w Czechosłowackiej Republice Federacyjnej, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Czeskiej lub Republiki Słowackiej na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Czeskiej lub Republiki Słowackiej,
+    - **k)** 1 stycznia 1994 r. – w Republice Austrii, Republice Finlandii lub Królestwie Szwecji, Republice Islandii lub Królestwie Norwegii,
+    - **l)** 1 maja 1995 r. – w Księstwie Liechtensteinu,
+    - **m)** 1 czerwca 2002 r. – w Konfederacji Szwajcarskiej,
+    - **n)** 1 maja 2004 r. – w Republice Czeskiej, Republice Cypru, Republice Litwy, Republice Łotwy, Republice Węgier, Republice Malty, Republice Słowackiej lub Republice Słowenii,
+    - **o)** 1 stycznia 2007 r. – w Republice Bułgarii lub Rumunii,
+    - **p)** 1 lipca 2013 r. – w Republice Chorwacji, albo
 
 - **2)** wydany przez właściwe organy:
     - **a)** Czechosłowackiej Republiki Federacyjnej dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu lekarza weterynarii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Czeskiej lub Republiki Słowackiej na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Czeskiej lub Republiki Słowackiej,
     - **b)** Związku Socjalistycznych Republik Radzieckich dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu lekarza weterynarii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Estonii, Republiki Litwy lub Republiki Łotwy na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Estonii, Republiki Litwy lub Republiki Łotwy,
     - **c)** Socjalistycznej Federalnej Republice Jugosławii dokument potwierdzający posiadanie kwalifikacji do wykonywania zawodu lekarza weterynarii, jeżeli dokument ten uprawnia do wykonywania zawodu lekarza weterynarii na terytorium Republiki Słowenii lub Republiki Chorwacji na tych samych zasadach, jak dokument wydany przez właściwe organy Republiki Słowenii lub Republiki Chorwacji, albo
 
-- **3)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii, wydany przez właściwe organy Republiki Estonii przed dniem 1 maja 2004 r., lub świadczący o rozpoczęciu kształcenia w Republice Estonii przed dniem 1 maja 2004 r. dla Republiki Estonii.
+- **3)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii, wydany przez właściwe organy Republiki Estonii przed dniem 1 maja 2004 r., lub świadczący o rozpoczęciu kształcenia w Republice Estonii przed dniem 1 maja 2004 r. – dla Republiki Estonii.
 
 2. Do dokumentów, o których mowa w ust. 1 pkt 1 i 2, dołącza się zaświadczenie wydane przez właściwe organy państwa członkowskiego, potwierdzające, że lekarz weterynarii wykonywał zawód lekarza weterynarii przez okres co najmniej trzech kolejnych lat w okresie pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia, przy czym w przypadku Republiki Estonii zaświadczenie to ma potwierdzać, że lekarz weterynarii w tym okresie wykonywał zawód lekarza weterynarii na terytorium Republiki Estonii.
 
@@ -147,12 +148,15 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 2. Za wystarczające w stosunku do obywatela państwa członkowskiego, w zakresie spełnienia wymagań określonych w:
 
-- **1)** art. 2 ust. 1 pkt 4 uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego obywatelem jest lekarz weterynarii lub z którego lekarz ten przybywa, potwierdzające, że lekarz ten jest zdolny, ze względu na stan zdrowia, wykonywać zawód lekarza weterynarii, a jeżeli takie dokumenty nie są wydawane, za wystarczający uznaje się odpowiedni dokument wydany w tym państwie potwierdzający jego stan zdrowia;
-- **2)** art. 2 ust. 1 pkt 5 uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego obywatelem jest lekarz weterynarii lub z którego lekarz ten przybywa, potwierdzające, że wymagania co do postawy etycznej, jaka jest niezbędna, aby wykonywać zawód lekarza weterynarii w tym państwie, zostały spełnione, a jeżeli w tym państwie członkowskim nie wydaje się dokumentu potwierdzającego spełnienie wymagań co do postawy etycznej, jaka jest niezbędna, aby wykonywać zawód lekarza weterynarii, za wystarczające uznaje się złożenie przez tego lekarza ślubowania.
+- **1)** art. 2 ust. 1 pkt 4 – uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego obywatelem jest lekarz weterynarii lub z którego lekarz ten przybywa, potwierdzające, że lekarz ten jest zdolny, ze względu na stan zdrowia, wykonywać zawód lekarza weterynarii, a jeżeli takie dokumenty nie są wydawane, za wystarczający uznaje się odpowiedni dokument wydany w tym państwie potwierdzający jego stan zdrowia;
+- **2)** art. 2 ust. 1 pkt 5 – uznaje się dokumenty wydane przez właściwe organy państwa członkowskiego, którego obywatelem jest lekarz weterynarii lub z którego lekarz ten przybywa, potwierdzające, że wymagania co do postawy etycznej, jaka jest niezbędna, aby wykonywać zawód lekarza weterynarii w tym państwie, zostały spełnione, a jeżeli w tym państwie członkowskim nie wydaje się dokumentu potwierdzającego spełnienie wymagań co do postawy etycznej, jaka jest niezbędna, aby wykonywać zawód lekarza weterynarii, za wystarczające uznaje się złożenie przez tego lekarza ślubowania.
 
 3. Dokumenty, o których mowa w ust. 2, przedstawia się w okresie 3 miesięcy od dnia ich wydania.
 
 **Art. 2c.** Okręgowa rada lekarsko-weterynaryjna przyznaje także, w trybie i na zasadach określonych w przepisach o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, prawo wykonywania zawodu lekarza weterynarii osobie spełniającej warunki określone w art. 2 ust. 1 pkt 1 i 3–6, jeżeli osoba ta posiada:
+
+- **1)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii spełniające minimalne wymagania w zakresie kształcenia określone w przepisach Unii Europejskiej dotyczących uznawania kwalifikacji zawodowych, o którym mowa w art. 2a ust. 1, lecz nie może przedstawić zaświadczenia wydanego przez właściwe organy państwa członkowskiego, potwierdzającego faktyczne i zgodne z prawem wykonywanie zawodu lekarza weterynarii przez okres co najmniej trzech kolejnych lat w okresie pięciu lat bezpośrednio poprzedzających wydanie zaświadczenia lub przez okres co najmniej pięciu kolejnych lat w okresie siedmiu lat bezpośrednio poprzedzających wydanie zaświadczenia albo
+- **2)** dokument potwierdzający kwalifikacje do wykonywania zawodu lekarza weterynarii, wydany przez właściwe organy innego państwa niż państwo członkowskie i przedstawi zaświadczenie, że posiada trzyletnie doświadczenie w zawodzie lekarza weterynarii, uzyskane na terytorium państwa członkowskiego, które uznało ten dokument zgodnie z wewnętrznymi przepisami tego państwa oraz potwierdziło uzyskane doświadczenie zawodowe.
 
 **Art. 2d.**
 
@@ -203,7 +207,7 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 7. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, określi, w drodze rozporządzenia:
 
 - **1)** zakres znajomości języka polskiego w mowie i piśmie, niezbędnej do wykonywania zawodu lekarza weterynarii,
-- **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 3, oraz wysokość opłaty za ten egzamin uwzględniając zakres uprawnień zawodowych określonych w art. 1 ust. 1 i 2.
+- **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 3, oraz wysokość opłaty za ten egzamin – uwzględniając zakres uprawnień zawodowych określonych w art. 1 ust. 1 i 2.
 
 **Art. 2h.**
 
@@ -338,7 +342,7 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 - **2)** odpis zaświadczenia okręgowej izby lekarsko-weterynaryjnej o stwierdzeniu prawa wykonywania zawodu;
 - **3)** deklarację pokrycia kosztów specjalizacji przez lekarza weterynarii lub jednostkę organizacyjną kierującą lekarza weterynarii na szkolenie specjalizacyjne.
 
-6. Szkolenie specjalizacyjne jest prowadzone przez uczelnie publiczne prowadzące studia magisterskie na kierunku weterynaria oraz Państwowy Instytut Weterynaryjny Państwowy Instytut Badawczy.
+6. Szkolenie specjalizacyjne jest prowadzone przez uczelnie publiczne prowadzące studia magisterskie na kierunku weterynaria oraz Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy.
 
 7. Nabór na szkolenie specjalizacyjne prowadzone przez podmiot, o którym mowa w ust. 6, ogłasza ten podmiot w porozumieniu z Komisją.
 
@@ -372,11 +376,11 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 5. Minister właściwy do spraw rolnictwa zwołuje pierwsze posiedzenie Komisji nowej kadencji oraz mu przewodniczy.
 
-6. Posiedzenia Komisji odbywają się w siedzibie Państwowego Instytutu Weterynaryjnego Państwowego Instytutu Badawczego, z wyłączeniem posiedzeń odbywanych za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+6. Posiedzenia Komisji odbywają się w siedzibie Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego, z wyłączeniem posiedzeń odbywanych za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
 7. Szczegółowy tryb pracy Komisji określa regulamin uchwalony przez Komisję.
 
-8. Obsługę administracyjną Komisji oraz przeprowadzenia egzaminów specjalizacyjnych zapewnia Państwowy Instytut Weterynaryjny Państwowy Instytut Badawczy.
+8. Obsługę administracyjną Komisji oraz przeprowadzenia egzaminów specjalizacyjnych zapewnia Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy.
 
 **Art. 3d.**
 
@@ -396,12 +400,12 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 - **1)** krajowy kierownik specjalizacji jako przewodniczący;
 - **2)** dwie osoby posiadające co najmniej stopień naukowy doktora, specjalizujące się w danym obszarze weterynarii, wybrane spośród osób zgłoszonych przez uczelnie publiczne, które prowadzą szkolenie specjalizacyjne;
 - **3)** przedstawiciel Krajowej Rady Lekarsko-Weterynaryjnej;
-- **4)** przedstawiciel Państwowego Instytutu Weterynaryjnego Państwowego Instytutu Badawczego;
+- **4)** przedstawiciel Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego;
 - **5)** przedstawiciel ministra właściwego do spraw rolnictwa.
 
 2. Egzamin specjalizacyjny przeprowadza zespół egzaminacyjny w składzie co najmniej 4 osób.
 
-3. Egzaminy specjalizacyjne przeprowadza się w siedzibie Państwowego Instytutu Weterynaryjnego Państwowego Instytutu Badawczego lub, za zgodą Komisji, w miejscu wskazanym przez uczelnie publiczne, które przeprowadziły szkolenie specjalizacyjne.
+3. Egzaminy specjalizacyjne przeprowadza się w siedzibie Państwowego Instytutu Weterynaryjnego – Państwowego Instytutu Badawczego lub, za zgodą Komisji, w miejscu wskazanym przez uczelnie publiczne, które przeprowadziły szkolenie specjalizacyjne.
 
 4. W razie negatywnego wyniku egzaminu specjalizacyjnego przewodniczący zespołu egzaminacyjnego wyznacza ponowny termin egzaminu specjalizacyjnego. Zespół egzaminacyjny może uzależnić dopuszczenie do ponownego egzaminu specjalizacyjnego od odbycia szkolenia uzupełniającego.
 
@@ -442,6 +446,13 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 4. Minister Rolnictwa i Gospodarki Żywnościowej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej oraz po uzgodnieniu z Krajową Radą Lekarsko-Weterynaryjną określa, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania w sprawach o pozbawienie lub zawieszenie prawa wykonywania zawodu oraz orzekania o niezdolności do jego wykonywania.
 
 **Art. 6a.** Okręgowa rada lekarsko-weterynaryjna stwierdza utratę prawa wykonywania zawodu lekarza weterynarii w przypadku:
+
+- **1)** utraty przez lekarza weterynarii obywatelstwa polskiego lub obywatelstwa państwa członkowskiego, jeżeli nie nabył równocześnie obywatelstwa innego państwa członkowskiego;
+- **2)** ubezwłasnowolnienia lekarza weterynarii całkowitego lub częściowego;
+- **3)** utraty przez lekarza weterynarii praw publicznych;
+- **4)** zrzeczenia się przez lekarza weterynarii prawa wykonywania zawodu;
+- **5)** nieuiszczania składki członkowskiej przez okres dłuższy niż 1 rok;
+- **6)** upływu czasu, na jaki zostało przyznane.
 
 **Art. 7.**
 
@@ -521,6 +532,14 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 13.** Mandat członka organu izby lekarsko-weterynaryjnej wygasa wskutek:
 
+- **1)** śmierci;
+- **2)** zrzeczenia się mandatu;
+- **3)** skreślenia z rejestru członków izby lekarsko-weterynaryjnej;
+- **4)** odwołania przez organ, który dokonał wyboru;
+- **5)** utraty obywatelstwa polskiego;
+- **6)** ukarania prawomocnym orzeczeniem sądu lekarsko-weterynaryjnego na kary określone w art. 46 ust. 1 pkt 2 i 3;
+- **7)** skazania prawomocnym wyrokiem na karę dodatkową pozbawienia praw publicznych lub zakazu wykonywania zawodu lekarza weterynarii.
+
 **Art. 14.**
 
 1. Uchwały organów samorządu podejmowane są zwykłą większością głosów, przy obecności co najmniej połowy członków danego organu.
@@ -594,12 +613,20 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 3. Skreślenia lekarza weterynarii z rejestru członków okręgowej izby lekarsko-weterynaryjnej z przyczyn, o których mowa w ust. 1:
 
-- **1)** pkt 1, 4 i 5 dokonuje się na podstawie uchwały okręgowej rady lekarsko-weterynaryjnej;
-- **2)** pkt 2, 3 i 6 dokonuje się na podstawie decyzji prezesa okręgowej rady lekarsko-weterynaryjnej.
+- **1)** pkt 1, 4 i 5 – dokonuje się na podstawie uchwały okręgowej rady lekarsko-weterynaryjnej;
+- **2)** pkt 2, 3 i 6 – dokonuje się na podstawie decyzji prezesa okręgowej rady lekarsko-weterynaryjnej.
 
 **Art. 19.** Członkowie samorządu obowiązani są:
 
+- **1)** przestrzegać zasad etyki i deontologii weterynaryjnej oraz innych przepisów związanych z wykonywaniem zawodu lekarza weterynarii, a także uchwał władz i organów samorządu lekarzy weterynarii;
+- **2)** regularnie opłacać składkę członkowską.
+
 **Art. 20.** Członkowie samorządu mają prawo:
+
+- **1)** wybierać i być wybierani do organów samorządu, z zastrzeżeniem art. 12 ust. 4 i 5;
+- **2)** korzystać z pomocy izb lekarsko-weterynaryjnych w zakresie rozwijania kwalifikacji zawodowych oraz zapewnienia właściwych warunków wykonywania zawodu;
+- **3)** korzystać z ochrony i pomocy prawnej organów izb lekarsko-weterynaryjnych;
+- **4)** korzystać ze świadczeń instytucji izb lekarsko-weterynaryjnych i działalności samopomocowej.
 
 **Art. 21.**
 
@@ -620,6 +647,12 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 **Art. 23.** Okręgową izbę lekarsko-weterynaryjną stanowią lekarze wpisani do rejestru jej członków.
 
 **Art. 24.** Organami okręgowej izby lekarsko-weterynaryjnej są:
+
+- **1)** okręgowy zjazd lekarzy weterynarii;
+- **2)** okręgowa rada lekarsko-weterynaryjna;
+- **3)** okręgowa komisja rewizyjna;
+- **4)** okręgowy sąd lekarsko-weterynaryjny;
+- **5)** okręgowy rzecznik odpowiedzialności zawodowej.
 
 **Art. 25.** Najwyższą władzą okręgowej izby lekarsko-weterynaryjnej jest okręgowy zjazd lekarzy weterynarii.
 
@@ -652,6 +685,15 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 27.** Okręgowy zjazd lekarzy weterynarii w szczególności:
 
+- **1)** podejmuje uchwały w sprawach objętych zakresem działania izby;
+- **2)** ustala zasady gospodarki finansowej izby oraz uchwala budżet izby;
+- **3)** rozpatruje i zatwierdza sprawozdania okręgowej rady lekarsko-weterynaryjnej, okręgowej komisji rewizyjnej, okręgowego sądu lekarsko-weterynaryjnego i okręgowego rzecznika odpowiedzialności zawodowej;
+- **4)** ustala organizację organów izby i tryb ich działania;
+- **5)** ustala liczbę członków organów izby i zastępców rzecznika odpowiedzialności zawodowej;
+- **6)** dokonuje wyboru prezesa i członków okręgowej rady lekarsko-weterynaryjnej, członków okręgowej komisji rewizyjnej, członków okręgowego sądu lekarsko-weterynaryjnego oraz okręgowego rzecznika odpowiedzialności zawodowej i jego zastępców;
+- **7)** dokonuje wyboru delegatów na Krajowy Zjazd Lekarzy Weterynarii;
+- **8)** ustala wysokość składki członkowskiej.
+
 **Art. 28.**
 
 1. Okręgowa rada lekarsko-weterynaryjna wybiera spośród swoich członków prezydium. Prezydium stanowią: prezes oraz wybrani przez radę wiceprezesi, sekretarz, skarbnik i członkowie.
@@ -660,9 +702,18 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 29.** Okręgowa rada lekarsko-weterynaryjna kieruje działalnością izby w okresie pomiędzy okręgowymi zjazdami lekarzy weterynarii, a w szczególności:
 
+- **1)** wykonuje zadania i czynności określone w art. 10, z wyjątkiem ustanawiania zasad etyki i deontologii weterynaryjnej oraz sprawowania sądownictwa lekarsko-weterynaryjnego;
+- **2)** wykonuje uchwały okręgowego zjazdu lekarzy weterynarii;
+- **3)** składa przed okręgowym zjazdem lekarzy weterynarii sprawozdanie z działalności oraz wykonania budżetu;
+- **4)** prowadzi bieżące sprawy izby;
+- **5)** wykonuje zadania zlecone przez Krajową Radę Lekarsko-Weterynaryjną.
+
 **Art. 30.** Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu lekarsko-weterynaryjnego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady lekarsko-weterynaryjnej i jej prezydium.
 
 **Art. 31.** Okręgowa komisja rewizyjna:
+
+- **1)** kontroluje działalność finansową i gospodarczą izby;
+- **2)** występuje z wnioskiem o udzielenie absolutorium okręgowej radzie lekarsko-weterynaryjnej.
 
 **Art. 32.** Okręgowy sąd lekarsko-weterynaryjny rozpatruje sprawy z zakresu odpowiedzialności zawodowej lekarzy weterynarii oraz sprawuje sądownictwo polubowne.
 
@@ -672,11 +723,17 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 34.** Organami Krajowej Izby Lekarsko-Weterynaryjnej są:
 
+- **1)** Krajowy Zjazd Lekarzy Weterynarii;
+- **2)** Krajowa Rada Lekarsko-Weterynaryjna;
+- **3)** Krajowa Komisja Rewizyjna;
+- **4)** Krajowy Sąd Lekarsko-Weterynaryjny;
+- **5)** Krajowy Rzecznik Odpowiedzialności Zawodowej.
+
 **Art. 35.** Najwyższą władzą samorządu jest Krajowy Zjazd Lekarzy Weterynarii.
 
 **Art. 36.**
 
-1. W Krajowym Zjeździe Lekarzy Weterynarii biorą udział delegaci wybrani przez okręgowe zjazdy lekarzy weterynarii oraz z głosem doradczym niebędący delegatami członkowie ustępujących organów Izby.
+1. W Krajowym Zjeździe Lekarzy Weterynarii biorą udział delegaci wybrani przez okręgowe zjazdy lekarzy weterynarii oraz z głosem doradczym – niebędący delegatami – członkowie ustępujących organów Izby.
 
 2. Liczbę delegatów określa Krajowa Rada Lekarsko-Weterynaryjna zgodnie z regulaminem, o którym mowa w art. 39 ust. 1 pkt 6.
 
@@ -691,6 +748,14 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 5. Nadzwyczajny Krajowy Zjazd Lekarzy Weterynarii powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu i obraduje nad sprawami, dla których został zwołany.
 
 **Art. 37.** Krajowy Zjazd Lekarzy Weterynarii w szczególności:
+
+- **1)** uchwala zasady etyki i deontologii weterynaryjnej;
+- **2)** uchwala program działalności samorządu;
+- **3)** rozpatruje i zatwierdza sprawozdania organów Krajowej Izby Lekarsko-Weterynaryjnej;
+- **4)** uchwala regulaminy organów Izby;
+- **5)** ustala liczbę członków organów Izby i zastępców Krajowego Rzecznika Odpowiedzialności Zawodowej;
+- **6)** wybiera Prezesa oraz członków Krajowej Rady Lekarsko-Weterynaryjnej, Krajowej Komisji Rewizyjnej, Krajowego Sądu Lekarsko-Weterynaryjnego oraz Krajowego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
+- **7)** ustala zasady określania wysokości i podziału składki członkowskiej.
 
 **Art. 38.**
 
@@ -736,9 +801,20 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 **Art. 42.** Krajowa Komisja Rewizyjna:
 
+- **1)** kontroluje finansową i gospodarczą działalność Krajowej Izby Lekarsko-Weterynaryjnej oraz wykonanie uchwał Krajowego Zjazdu Lekarzy Weterynarii;
+- **2)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych;
+- **3)** zgłasza wniosek w sprawie absolutorium dla Krajowej Rady Lekarsko-Weterynaryjnej.
+
 **Art. 43.** Krajowy Sąd Lekarsko-Weterynaryjny:
 
+- **1)** rozpatruje sprawy z zakresu odpowiedzialności zawodowej lekarzy weterynarii;
+- **2)** składa Krajowej Radzie Lekarsko-Weterynaryjnej okresowe informacje o stanie prowadzonych spraw.
+
 **Art. 44.** Krajowy Rzecznik Odpowiedzialności Zawodowej:
+
+- **1)** prowadzi postępowania w sprawach odpowiedzialności zawodowej lekarzy weterynarii;
+- **2)** sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej;
+- **3)** składa Krajowej Radzie Lekarsko-Weterynaryjnej okresowe informacje o stanie prowadzonych spraw.
 
 #### Rozdział 6 Odpowiedzialność zawodowa
 
@@ -773,13 +849,13 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 - **2)** obwinionemu lekarzowi weterynarii,
 - **3)** Krajowemu Rzecznikowi Odpowiedzialności Zawodowej,
 - **4)** ministrowi właściwemu do spraw rolnictwa,
-- **5)** Prezesowi Krajowej Rady Lekarsko-Weterynaryjnej przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
+- **5)** Prezesowi Krajowej Rady Lekarsko-Weterynaryjnej – przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
 
 2. Kasację w stosunku do tego samego obwinionego i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
 
 **Art. 46c.**
 
-1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
 
 2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia.
 
@@ -891,8 +967,8 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 1. W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
 
-- **1)** ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
-- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
+- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
+- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 2. Minister Rolnictwa i Gospodarki Żywnościowej w porozumieniu z Ministrem Sprawiedliwości i w uzgodnieniu z Krajową Radą Lekarsko-Weterynaryjną określa, w drodze rozporządzenia, szczegółowe przepisy dotyczące postępowania w sprawach odpowiedzialności zawodowej lekarzy weterynarii.
 
@@ -933,9 +1009,15 @@ poz. 154), z uwzględnieniem zmian wprowadzonych:
 
 2. Osoby wymienione w ust. 1, które na podstawie dotychczasowych przepisów nabyły uprawnienia do wykonywania czynności weterynaryjnych samodzielnie lub pod nadzorem lekarza weterynarii i do czasu wejścia w życie ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Państwowej Inspekcji Weterynaryjnej (Dz. U. z 1999 r. poz. 752, z późn. zm. ) prowadziły zarejestrowaną działalność gospodarczą w tej dziedzinie, zachowują dotychczasowe uprawnienia.
 
-**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania. Art. 70–72. (pominięte)
+**Art. 69.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa oraz po zasięgnięciu opinii Krajowej Rady Lekarsko-Weterynaryjnej, w drodze rozporządzenia, określi oznakowanie, tryb i zasady wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt w sytuacji gdy brak jest weterynaryjnego produktu leczniczego dopuszczonego do obrotu, z uwzględnieniem w szczególności grup zwierząt, przypadków oraz warunków, z zachowaniem których mogą być wystawiane recepty, oraz ich wzór uprawniający do nabycia produktów leczniczych za opłatą, sposób zaopatrywania w druki recept, kontroli ich wystawiania, realizacji i stosowania.
+
+**Art. 70–72.** (pominięte)
 
 **Art. 73.** Z dniem wejścia w życie ustawy tracą moc:
+
+- **1)** dekret z dnia 7 grudnia 1945 r. o wykonywaniu praktyki lekarsko-weterynaryjnej (Dz. U. poz. 337);
+- **2)** dekret z dnia 24 września 1947 r. o rejestracji pracowników służby weterynaryjnej (Dz. U. poz. 338);
+- **3)** ustawa z dnia 7 kwietnia 1949 r. o planowym rozmieszczeniu lekarzy weterynaryjnych (Dz. U. poz. 178).
 
 **Art. 74.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia , z tym że przepisy art. 21, 22, 70 i 71 wchodzą w życie z dniem ogłoszenia.
 

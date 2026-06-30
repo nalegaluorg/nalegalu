@@ -8,12 +8,10 @@ pos: 102
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na morzu
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pracy na morzu
 
 | Pole | Wartość |
 |---|---|
@@ -39,6 +37,12 @@ source: "isap-pdf"
 
 **Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
 
+- **3)** art. 32 ustawy z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 15 lit. d–f, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 11 pkt 2 i 3, które wchodzą w życie z dniem 30 grudnia 2025 r.;
+- **3)** art. 3, który wchodzi w życie z dniem 1 stycznia 2026 r.;
+- **4)** art. 11 pkt 1, który wchodzi w życie z dniem 20 października 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 5 sierpnia 2015 r. o pracy na morzu
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
@@ -57,11 +61,24 @@ source: "isap-pdf"
 
 4. Przepisów ustawy nie stosuje się do jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji.
 
-5. W zakresie nieuregulowanym w ustawie do stosunków pracy na statkach stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), zwanej dalej „Kodeksem pracy”, i inne przepisy prawa pracy.
+5. W zakresie nieuregulowanym w ustawie do stosunków pracy na statkach stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), zwanej dalej „Kodeksem pracy”, i inne przepisy prawa pracy.
 
-6. Do postępowań uregulowanych ustawą należących do właściwości konsula stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
+6. Do postępowań uregulowanych ustawą należących do właściwości konsula stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** armatorze – należy przez to rozumieć armatora w rozumieniu art. II ust. 1 lit. j Konwencji o pracy na morzu, przyjętej przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 23 lutego 2006 r. (Dz. U. z 2013 r. poz. 845 i 846, z 2017 r. poz. 512, z 2019 r. poz. 962, z 2021 r. poz. 707 oraz z 2025 r. poz. 1129), zwanej dalej „Konwencją MLC”;
+- **2)** marynarskiej umowie o pracę – należy przez to rozumieć umowę o pracę na statku, zawartą między armatorem a marynarzem, na podstawie której marynarz zostaje zatrudniony zgodnie z wymaganiami w zakresie warunków pracy i życia na statku przewidzianymi w Konwencji MLC;
+- **3)** marynarzu – należy przez to rozumieć marynarza w rozumieniu art. II ust. 1 lit. f Konwencji MLC;
+- **4)** organie inspekcyjnym – należy przez to rozumieć dyrektora urzędu morskiego;
+- **4a)** piractwie – należy przez to rozumieć piractwo w rozumieniu art. 101 Konwencji Narodów Zjednoczonych o prawie morza, sporządzonej w Montego Bay dnia 10 grudnia 1982 r. (Dz. U. z 2002 r. poz. 543 i 544);
+- **5)** podróży morskiej – należy przez to rozumieć podróż marynarza na statku z portu jej rozpoczęcia do portu jej zakończenia, niezależnie od tego, czy w czasie tej podróży statek zawijał do innych portów;
+- **6)** praktykancie – należy przez to rozumieć:
+    - **a)** ucznia szkoły ponadpodstawowej oraz kandydata i studenta uczelni, o których mowa w art. 74 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883 i 1535), odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła lub uczelnia jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem,
+    - **b)** każdego innego ucznia oraz kandydata i studenta, odbywającego praktykę zawodową na statku armatora na podstawie umowy zawartej między szkołą lub uczelnią a tym armatorem lub na podstawie umowy zawartej bezpośrednio między praktykantem a tym armatorem;
+
+- **7)** statku niekonwencyjnym – należy przez to rozumieć statek, do którego nie ma zastosowania Konwencja MLC, w szczególności statek uprawiający wyłącznie żeglugę na obszarach morskich Rzeczypospolitej Polskiej z wyjątkiem wyłącznej strefy ekonomicznej;
+- **8)** zbrojnej napaści – należy przez to rozumieć zbrojną napaść w rozumieniu Konwencji MLC.
 
 #### Rozdział 2 Minimalne wymagania dla marynarzy do pracy na statku
 
@@ -91,7 +108,7 @@ source: "isap-pdf"
 
 4. W ramach badania lekarskiego uprawniony lekarz może skierować marynarza na konsultacje do lekarza specjalisty lub psychologa albo zlecić przeprowadzenie pomocniczych badań diagnostycznych.
 
-5. Świadectwo zdrowia wydaje się na okres 2 lat, a w przypadku gdy osoba ubiegająca się o zatrudnienie na statku nie ukończyła 18 lat na okres 1 roku.
+5. Świadectwo zdrowia wydaje się na okres 2 lat, a w przypadku gdy osoba ubiegająca się o zatrudnienie na statku nie ukończyła 18 lat – na okres 1 roku.
 
 6. Marynarzowi, którego stan zdrowia, według uprawnionego lekarza, nie pozwala na wydanie świadectwa zdrowia na okres 2 lat, świadectwo zdrowia może być wydane na okres krótszy niż 2 lata.
 
@@ -109,11 +126,11 @@ source: "isap-pdf"
 
 1. Praktykanci są obowiązani posiadać świadectwo zdrowia, o którym mowa w art. 4 ust. 2.
 
-2. Świadectwo zdrowia dla praktykantów i kandydatów do szkół ponadpodstawowych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., wydaje się na okres 2 lat.
+2. Świadectwo zdrowia dla praktykantów i kandydatów do szkół ponadpodstawowych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., wydaje się na okres 2 lat.
 
 3. Koszty przeprowadzenia badania lekarskiego w celu wydania świadectwa zdrowia, o którym mowa w art. 4 ust. 2, dla kandydata i studenta uczelni, o której mowa w art. 74 ust. 2 pkt 1 i 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, odbywającego praktykę zawodową na statku szkolnym, którego ta uczelnia jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między uczelnią a tym armatorem, ponosi ten kandydat lub student.
 
-4. Na badanie lekarskie w celu wydania świadectwa zdrowia, o którym mowa w art. 4 ust. 2, kandydata do szkoły ponadpodstawowej, o którym mowa w ust. 2, oraz ucznia szkoły ponadpodstawowej odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą a tym armatorem, kieruje dyrektor szkoły. Koszty przeprowadzenia tego badania ponosi organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe.
+4. Na badanie lekarskie w celu wydania świadectwa zdrowia, o którym mowa w art. 4 ust. 2, kandydata do szkoły ponadpodstawowej, o którym mowa w ust. 2, oraz ucznia szkoły ponadpodstawowej odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą a tym armatorem, kieruje dyrektor szkoły. Koszty przeprowadzenia tego badania ponosi organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 
 **Art. 5.**
 
@@ -130,7 +147,7 @@ source: "isap-pdf"
 
 4. Ponowne badanie lekarskie w trybie odwołania przeprowadza się w terminie 14 dni od dnia wniesienia odwołania.
 
-5. Koszty przeprowadzenia ponownego badania lekarskiego pokrywa podmiot, który wniósł odwołanie, a w przypadku wniesienia odwołania przez podmioty, o których mowa w ust. 1a ponosi organ prowadzący szkołę.
+5. Koszty przeprowadzenia ponownego badania lekarskiego pokrywa podmiot, który wniósł odwołanie, a w przypadku wniesienia odwołania przez podmioty, o których mowa w ust. 1a – ponosi organ prowadzący szkołę.
 
 6. Od świadectwa zdrowia wydanego po przeprowadzeniu ponownego badania lekarskiego nie służy odwołanie.
 
@@ -142,7 +159,7 @@ source: "isap-pdf"
 
 - **1)** wykaz chorób i stanów chorobowych, które mogą spowodować niezdolność marynarza do pracy na statku, zakres przeciwwskazań, ograniczeń lub warunków wykonywania pracy na statku,
 - **2)** zakres badań lekarskich przeprowadzanych w celu wydania świadectwa zdrowia oraz warunki ich przeprowadzania,
-- **3)** wzór świadectwa zdrowia oraz tryb rejestracji i wydawania świadectw w systemie informacyjno-kontrolnym dla portów polskich (PHICS) biorąc pod uwagę konieczność zapewnienia prawidłowego i kompleksowego przebiegu badań lekarskich oraz konieczność posiadania i dokumentowania przez marynarzy odpowiedniego stanu zdrowia do wykonywania pracy na statku, uwzględniając Wytyczne Międzynarodowej Organizacji Pracy i Międzynarodowej Organizacji Morskiej w sprawie badań lekarskich marynarzy oraz wymagania Konwencji STCW.
+- **3)** wzór świadectwa zdrowia oraz tryb rejestracji i wydawania świadectw w systemie informacyjno-kontrolnym dla portów polskich (PHICS) – biorąc pod uwagę konieczność zapewnienia prawidłowego i kompleksowego przebiegu badań lekarskich oraz konieczność posiadania i dokumentowania przez marynarzy odpowiedniego stanu zdrowia do wykonywania pracy na statku, uwzględniając Wytyczne Międzynarodowej Organizacji Pracy i Międzynarodowej Organizacji Morskiej w sprawie badań lekarskich marynarzy oraz wymagania Konwencji STCW.
 
 **Art. 6.**
 
@@ -174,15 +191,21 @@ source: "isap-pdf"
 
 **Art. 9.** Książeczkę żeglarską wystawia się na wniosek:
 
+- **1)** osoby posiadającej udokumentowane ukończenie szkolenia podstawowego, o którym mowa w rozdziale VI Konwencji STCW, przy czym świadectwa przeszkoleń stopnia podstawowego mogą zostać zastąpione odpowiednimi świadectwami przeszkoleń stopnia wyższego;
+- **2)** ucznia szkoły ponadpodstawowej, za zgodą rodziców lub opiekunów prawnych w przypadku ucznia niepełnoletniego – potwierdzony przez armatora lub dyrektora tej szkoły;
+- **3)** studenta – potwierdzony przez rektora uczelni;
+- **4)** młodocianego, za zgodą rodziców lub opiekunów prawnych, w celu przygotowania zawodowego – potwierdzony przez armatora;
+- **5)** innej osoby, jeżeli pozostaje ona z armatorem w stosunku pracy – potwierdzony przez armatora.
+
 **Art. 10.**
 
 1. Książeczkę żeglarską wystawia dyrektor urzędu morskiego.
 
 2. Poza granicami Rzeczypospolitej Polskiej książeczkę żeglarską może wystawić konsul Rzeczypospolitej Polskiej, w przypadku jej utraty, zniszczenia albo upływu terminu ważności, jedynie na czas określonej podróży morskiej. Przed wystawieniem książeczki żeglarskiej konsul może zażądać informacji o posiadaczu książeczki od kapitana statku lub dyrektora urzędu morskiego, który wydał utraconą, zniszczoną albo nieaktualną książeczkę żeglarską.
 
-3. Do postępowania w sprawie wystawienia książeczki żeglarskiej stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+3. Do postępowania w sprawie wystawienia książeczki żeglarskiej stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
-4. Do postępowania w sprawie wystawienia książeczki żeglarskiej nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Do postępowania w sprawie wystawienia książeczki żeglarskiej nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 11.**
 
@@ -190,7 +213,7 @@ source: "isap-pdf"
 
 2. (uchylony)
 
-3. Cudzoziemcom niebędącym obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej ani członkami ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794), książeczkę żeglarską wystawia się na 5 lat.
+3. Cudzoziemcom niebędącym obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej ani członkami ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794), książeczkę żeglarską wystawia się na 5 lat.
 
 4. Za wystawienie książeczki żeglarskiej pobiera się opłatę w wysokości 200 zł.
 
@@ -205,6 +228,11 @@ source: "isap-pdf"
 7. Opłaty, o których mowa w ust. 4, 5, 6a i 6b, stanowią dochód budżetu państwa.
 
 **Art. 12.** Dyrektor urzędu morskiego odmawia, w drodze decyzji, wystawienia książeczki żeglarskiej, jeżeli z wnioskiem wystąpiła osoba:
+
+- **1)** nieuprawniona;
+- **2)** która jest niezdolna do wykonywania pracy na statku ze względu na stan zdrowia;
+- **3)** (uchylony)
+- **4)** wobec której zachodzą przesłanki odmowy wydania paszportu.
 
 **Art. 13.**
 
@@ -235,6 +263,10 @@ source: "isap-pdf"
 4. Książeczkę żeglarską podlegającą unieważnieniu przedkłada się dyrektorowi urzędu morskiego niezwłocznie, niepóźniej jednak niż w terminie 14 dni od dnia, w którym decyzja o unieważnieniu książeczki żeglarskiej stała się ostateczna. Dyrektor urzędu morskiego unieważnia książeczkę żeglarską i zwraca ją posiadaczowi.
 
 **Art. 15.** Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+
+- **1)** dokumenty, które należy dołączyć do wniosku o wystawienie lub wymianę książeczki żeglarskiej,
+- **2)** tryb postępowania w sprawie wystawiania, wymiany i unieważniania książeczki żeglarskiej,
+- **3)** wzór książeczki żeglarskiej – z uwzględnieniem postanowień Konwencji nr 108 Międzynarodowej Organizacji Pracy dotyczącej krajowych dowodów tożsamości marynarzy, przyjętej w Genewie dnia 13 maja 1958 r. (Dz. U. z 1994 r. poz. 501 i 502), mając na względzie konieczność zapewnienia identyfikacji posiadacza książeczki żeglarskiej, sprawność prowadzonego postępowania oraz zapewnienie ochrony przetwarzanych danych.
 
 #### Rozdział 3 Pośrednictwo pracy
 
@@ -276,16 +308,16 @@ source: "isap-pdf"
 
 9. Opłaty za przeprowadzenie audytu wstępnego lub odnowieniowego wynoszą:
 
-- **1)** 200 zł dla agencji zatrudniającej do 2 pracowników;
-- **2)** 500 zł dla agencji zatrudniającej od 2 do 5 pracowników;
-- **3)** 1000 zł dla agencji zatrudniającej powyżej 5 pracowników.
+- **1)** 200 zł – dla agencji zatrudniającej do 2 pracowników;
+- **2)** 500 zł – dla agencji zatrudniającej od 2 do 5 pracowników;
+- **3)** 1000 zł – dla agencji zatrudniającej powyżej 5 pracowników.
 
 10. Opłata za wydanie dokumentu uprawniającego agencję zatrudnienia do kierowania marynarzy do pracy na statkach wynosi 200 zł.
 
 11. Audytorom za przeprowadzenie audytu przysługuje wynagrodzenie w wysokości:
 
-- **1)** 300 zł dla audytora;
-- **2)** 400 zł dla audytora wiodącego.
+- **1)** 300 zł – dla audytora;
+- **2)** 400 zł – dla audytora wiodącego.
 
 12. Właściwy dyrektor urzędu morskiego umieszcza na stronie internetowej urzędu aktualną listę agencji zatrudnienia, którym wydał dokument uprawniający do kierowania marynarzy do pracy na statkach.
 
@@ -320,7 +352,7 @@ source: "isap-pdf"
 - **3)** pisemne oświadczenie zawierające zobowiązanie armatora do:
     - **a)** przestrzegania przepisów wynikających z układu zbiorowego pracy, którym jest objęty marynarz, jeżeli taki układ na statku obowiązuje,
     - **b)** poniesienia kosztów repatriacji i innych zobowiązań finansowych wobec osoby zainteresowanej podjęciem pracy na statku,
-    - **c)** zawarcia umowy z agencją zatrudnienia w przypadku gdy oferta pracy dotyczy pracy na statku o obcej przynależności.
+    - **c)** zawarcia umowy z agencją zatrudnienia – w przypadku gdy oferta pracy dotyczy pracy na statku o obcej przynależności.
 
 3. Oświadczenie, o którym mowa w ust. 2 pkt 3, zawiera również: nazwę i adres armatora, datę sporządzenia oświadczenia oraz podpis uprawnionego przedstawiciela armatora, ze wskazaniem imienia, nazwiska oraz pełnionej funkcji.
 
@@ -408,14 +440,14 @@ source: "isap-pdf"
 - **1)** imię i nazwisko oraz datę i miejsce urodzenia marynarza;
 - **2)** nazwę i adres siedziby armatora;
 - **3)** rodzaj umowy oraz datę i miejsce jej zawarcia;
-- **4)** nazwę i rodzaj statku, na którym będzie wykonywana praca w przypadku umów innych niż umowa na czas nieokreślony;
+- **4)** nazwę i rodzaj statku, na którym będzie wykonywana praca – w przypadku umów innych niż umowa na czas nieokreślony;
 - **5)** warunki pracy i płacy, w tym:
     - **a)** stanowisko, na którym marynarz będzie zatrudniony,
     - **b)** wynagrodzenie za pracę, odpowiadające rodzajowi pracy, ze wskazaniem wysokości wynagrodzenia podstawowego i innych składników wynagrodzenia oraz innych świadczeń związanych z pracą, a także rodzaj waluty, w której wynagrodzenie będzie wypłacane,
     - **c)** sposób i termin wypłaty wynagrodzenia za pracę,
     - **d)** wymiar corocznego płatnego urlopu albo sposób jego obliczenia,
-    - **e)** miejsce i termin rozpoczęcia pracy na statku oraz termin jej zakończenia, a także w przypadku gdy: umowa została zawarta na czas nieokreślony warunki upoważniające każdą ze stron do jej wypowiedzenia ze wskazaniem okresu wypowiedzenia, umowa została zawarta na czas określony termin jej rozwiązania, umowa została zawarta na czas trwania podróży morskiej miejsce zakończenia podróży morskiej i czas od momentu przybycia statku do portu do zejścia marynarza ze statku,
-    - **f)** wskazanie układu zbiorowego pracy, którym jest objęty marynarz jeżeli taki układ obowiązuje.
+    - **e)** miejsce i termin rozpoczęcia pracy na statku oraz termin jej zakończenia, a także w przypadku gdy: – umowa została zawarta na czas nieokreślony – warunki upoważniające każdą ze stron do jej wypowiedzenia ze wskazaniem okresu wypowiedzenia, – umowa została zawarta na czas określony – termin jej rozwiązania, – umowa została zawarta na czas trwania podróży morskiej – miejsce zakończenia podróży morskiej i czas od momentu przybycia statku do portu do zejścia marynarza ze statku,
+    - **f)** wskazanie układu zbiorowego pracy, którym jest objęty marynarz – jeżeli taki układ obowiązuje.
 
 4. Marynarska umowa o pracę określa również:
 
@@ -439,15 +471,15 @@ source: "isap-pdf"
 
 2. Na statku przechowuje się wzór marynarskiej umowy o pracę, układ zbiorowy pracy lub regulamin wynagradzania. Kopie wzoru marynarskiej umowy o pracę oraz układu zbiorowego pracy w zakresie wymagań określonych w Konwencji MLC udostępnia się także w języku angielskim.
 
-3. Szczegółowe warunki odszkodowań z tytułu utraty zatrudnienia określają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami marynarskie umowy o pracę.
+3. Szczegółowe warunki odszkodowań z tytułu utraty zatrudnienia określają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – marynarskie umowy o pracę.
 
 **Art. 29.**
 
 1. Marynarska umowa o pracę rozwiązuje się:
 
 - **1)** w przypadkach określonych w Kodeksie pracy;
-- **2)** na skutek zatonięcia, zaginięcia lub utraty statku w inny sposób z wyjątkiem umowy zawartej na czas nieokreślony;
-- **3)** z dniem odmowy pracy na statku udającym się w podróż morską do strefy konfliktów zbrojnych albo jeżeli o skierowaniu statku do takiej strefy postanowiono po rozpoczęciu podróży morskiej z dniem zejścia marynarza ze statku przed osiągnięciem takiej strefy;
+- **2)** na skutek zatonięcia, zaginięcia lub utraty statku w inny sposób – z wyjątkiem umowy zawartej na czas nieokreślony;
+- **3)** z dniem odmowy pracy na statku udającym się w podróż morską do strefy konfliktów zbrojnych albo – jeżeli o skierowaniu statku do takiej strefy postanowiono po rozpoczęciu podróży morskiej – z dniem zejścia marynarza ze statku przed osiągnięciem takiej strefy;
 - **4)** w przypadku, o którym mowa w art. 39 ust. 1.
 
 2. Marynarska umowa o pracę zawarta na czas podróży morskiej rozwiązuje się w dniu przybycia statku do miejsca zakończenia podróży morskiej.
@@ -458,9 +490,9 @@ source: "isap-pdf"
 
 1. Okres wypowiedzenia marynarskiej umowy o pracę zawartej na czas określony wynosi:
 
-- **1)** 2 tygodnie jeżeli marynarska umowa o pracę została zawarta na okres krótszy niż 6 miesięcy;
-- **2)** 1 miesiąc jeżeli marynarska umowa o pracę została zawarta na okres co najmniej 6 miesięcy i niedłuższy niż 3 lata;
-- **3)** 2 miesiące jeżeli marynarska umowa o pracę została zawarta na okres dłuższy niż 3 lata.
+- **1)** 2 tygodnie – jeżeli marynarska umowa o pracę została zawarta na okres krótszy niż 6 miesięcy;
+- **2)** 1 miesiąc – jeżeli marynarska umowa o pracę została zawarta na okres co najmniej 6 miesięcy i niedłuższy niż 3 lata;
+- **3)** 2 miesiące – jeżeli marynarska umowa o pracę została zawarta na okres dłuższy niż 3 lata.
 
 2. Marynarz może rozwiązać marynarską umowę o pracę bez zachowania terminów, o których mowa w ust. 1, z ważnego powodu rodzinnego lub innej nagłej konieczności rozwiązania marynarskiej umowy o pracę.
 
@@ -493,7 +525,7 @@ source: "isap-pdf"
 - **1)** przed wykorzystaniem przez marynarza urlopu wypoczynkowego lub urlopu wyrównawczego;
 - **2)** w okresie usprawiedliwionej nieobecności marynarza w pracy.
 
-4. Wysokość wynagrodzenia za pracę w przypadku, o którym mowa w ust. 2, określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami marynarska umowa o pracę.
+4. Wysokość wynagrodzenia za pracę w przypadku, o którym mowa w ust. 2, określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – marynarska umowa o pracę.
 
 5. Za pracę, o której mowa w ust. 2, przysługuje wynagrodzenie przewidziane za daną pracę, nieniższe niż wynagrodzenie za pracę ustalone w marynarskiej umowie o pracę.
 
@@ -501,7 +533,7 @@ source: "isap-pdf"
 
 **Art. 35.**
 
-1. Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą, a także sposób i termin wypłaty wynagrodzenia za pracę, ustalają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami marynarskie umowy o pracę.
+1. Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą, a także sposób i termin wypłaty wynagrodzenia za pracę, ustalają układy zbiorowe pracy lub regulaminy wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – marynarskie umowy o pracę.
 
 2. Armator ma obowiązek wypłaty wynagrodzenia za pracę marynarzowi miesięcznie z dołu, niepóźniej niż w terminie pierwszych 15 dni następnego miesiąca kalendarzowego, w formie pieniężnej, w walucie określonej w marynarskiej umowie o pracę, po dokonaniu potrąceń przewidzianych prawem lub zadeklarowanych przez marynarza.
 
@@ -513,7 +545,7 @@ source: "isap-pdf"
 
 6. W przypadku gdy wynagrodzenie za pracę jest wypłacane w walucie obcej, kurs wymiany odpowiada średniemu kursowi wymiany walut ogłoszonemu przez Narodowy Bank Polski, obowiązującemu dla danej waluty w dniu roboczym poprzedzającym dzień wypłaty wynagrodzenia za pracę.
 
-7. Armator przekazuje marynarzowi miesięczne zestawienie obejmujące kwoty należne, potrącone i wypłacone marynarzowi z tytułu wynagrodzenia za pracę i innych świadczeń związanych z pracą, a w przypadku gdy te kwoty są określone w walucie obcej kurs wymiany walut.
+7. Armator przekazuje marynarzowi miesięczne zestawienie obejmujące kwoty należne, potrącone i wypłacone marynarzowi z tytułu wynagrodzenia za pracę i innych świadczeń związanych z pracą, a w przypadku gdy te kwoty są określone w walucie obcej – kurs wymiany walut.
 
 **Art. 35a.**
 
@@ -529,7 +561,7 @@ source: "isap-pdf"
 
 3. Na liście załogi statku dokonuje się wpisów dotyczących rodzaju zawartej marynarskiej umowy o pracę, zajmowanego na statku stanowiska oraz miejsca i terminu rozpoczęcia pracy na statku. Skreślenie marynarza z listy załogi statku polega na dokonaniu adnotacji dotyczących miejsca i terminu zakończenia pracy na statku oraz jego przyczyny.
 
-4. Wpisania marynarza na listę załogi statku dokonuje się najpóźniej z chwilą wyjścia statku w morze, a skreślenia z tej listy najwcześniej z chwilą przybycia statku do portu, w którym marynarz kończy pracę na statku.
+4. Wpisania marynarza na listę załogi statku dokonuje się najpóźniej z chwilą wyjścia statku w morze, a skreślenia z tej listy – najwcześniej z chwilą przybycia statku do portu, w którym marynarz kończy pracę na statku.
 
 5. Przepisy ust. 1–4 stosuje się odpowiednio do praktykanta.
 
@@ -608,7 +640,7 @@ source: "isap-pdf"
 
 1. Czas pracy na statku nie może przekraczać 8 godzin na dobę i przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym nieprzekraczającym 1 miesiąca.
 
-2. Czas pracy na statku przebywającym w morzu nie może przekraczać 56 godzin w siedmiodniowym tygodniu pracy, a dla pracowników niepełniących wacht 46 godzin w sześciodniowym tygodniu pracy.
+2. Czas pracy na statku przebywającym w morzu nie może przekraczać 56 godzin w siedmiodniowym tygodniu pracy, a dla pracowników niepełniących wacht – 46 godzin w sześciodniowym tygodniu pracy.
 
 3. Maksymalny czas pracy nie może przekraczać 14 godzin na dobę oraz 72 godzin na tydzień.
 
@@ -637,7 +669,7 @@ source: "isap-pdf"
 
 3. Liczba godzin nadliczbowych przepracowanych z przyczyn, o których mowa w ust. 2 pkt 1, nie może przekroczyć dla każdego marynarza 140 godzin w każdym okresie 30-dniowym, licząc od dnia wpisania marynarza na listę załogi statku.
 
-4. Za pracę w godzinach nadliczbowych, oprócz wynagrodzenia za pracę określonego w układzie zbiorowym pracy lub w regulaminie wynagradzania, a w przypadku armatora nieobjętego tymi układami lub regulaminami w marynarskiej umowie o pracę, przysługuje dodatkowe wynagrodzenie w wysokości 50 % wynagrodzenia za pracę.
+4. Za pracę w godzinach nadliczbowych, oprócz wynagrodzenia za pracę określonego w układzie zbiorowym pracy lub w regulaminie wynagradzania, a w przypadku armatora nieobjętego tymi układami lub regulaminami – w marynarskiej umowie o pracę, przysługuje dodatkowe wynagrodzenie w wysokości 50 % wynagrodzenia za pracę.
 
 5. W zamian za pracę w godzinach nadliczbowych marynarzowi, na jego wniosek, może być udzielony czas wolny od pracy w takim samym wymiarze jak praca wykonana w godzinach nadliczbowych.
 
@@ -651,7 +683,7 @@ source: "isap-pdf"
 - **2)** zachodzi konieczność ochrony statku, pasażerów, załogi statku lub ładunku;
 - **3)** wymaga tego organizacja obsługi systemów i urządzeń zautomatyzowanych na statku.
 
-2. Wysokość wynagrodzenia za pozostawanie w gotowości do pracy określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami marynarska umowa o pracę.
+2. Wysokość wynagrodzenia za pozostawanie w gotowości do pracy określa układ zbiorowy pracy lub regulamin wynagradzania, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – marynarska umowa o pracę.
 
 **Art. 49.** Podczas postoju statku w porcie kapitan statku umożliwia marynarzowi wykorzystanie na lądzie czasu wolnego od pracy, chyba że marynarz został zobowiązany przez kapitana statku do wykonywania innej pracy niż praca wynikająca z marynarskiej umowy o pracę.
 
@@ -695,7 +727,7 @@ source: "isap-pdf"
 
 1. Wymiar płatnego urlopu wypoczynkowego wynosi 2,5 dnia z upływem każdego miesiąca zatrudnienia na statku.
 
-2. Układ zbiorowy pracy lub regulamin pracy, a u armatorów nieobjętych tymi układami lub regulaminami marynarska umowa o pracę mogą ustalać wymiar urlopu przekraczający wymiar, o którym mowa w ust. 1.
+2. Układ zbiorowy pracy lub regulamin pracy, a u armatorów nieobjętych tymi układami lub regulaminami – marynarska umowa o pracę mogą ustalać wymiar urlopu przekraczający wymiar, o którym mowa w ust. 1.
 
 3. W przypadku rozwiązania marynarskiej umowy o pracę zawartej na czas nieokreślony, na czas określony lub na czas podróży morskiej, marynarzowi przysługuje ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy.
 
@@ -719,7 +751,7 @@ source: "isap-pdf"
 
 3. Wymiar urlopu wyrównawczego wynosi 5 dni za każdy miesiąc przebywania marynarza na statku. Wymiar urlopu wyrównawczego za niepełny miesiąc ustala się proporcjonalnie.
 
-4. Układ zbiorowy pracy lub regulamin pracy, a u armatorów nieobjętych tymi układami lub regulaminami marynarska umowa o pracę mogą ustalać wymiar urlopu wyrównawczego przekraczający wymiar, o którym mowa w ust. 3.
+4. Układ zbiorowy pracy lub regulamin pracy, a u armatorów nieobjętych tymi układami lub regulaminami – marynarska umowa o pracę mogą ustalać wymiar urlopu wyrównawczego przekraczający wymiar, o którym mowa w ust. 3.
 
 5. Urlopu wyrównawczego udziela się na zasadach określonych w art. 54.
 
@@ -727,7 +759,7 @@ source: "isap-pdf"
 
 **Art. 57.**
 
-1. Marynarz nabywa prawo do bezpłatnej repatriacji po upływie okresu pracy na statku, określonego w układzie zbiorowym pracy lub regulaminie wynagradzania, a u armatorów nieobjętych tymi układami lub regulaminami marynarskiej umowie o pracę.
+1. Marynarz nabywa prawo do bezpłatnej repatriacji po upływie okresu pracy na statku, określonego w układzie zbiorowym pracy lub regulaminie wynagradzania, a u armatorów nieobjętych tymi układami lub regulaminami – marynarskiej umowie o pracę.
 
 2. Okres pracy na statku, po upływie którego marynarz nabywa prawo do repatriacji, nie może być dłuższy niż 8 miesięcy.
 
@@ -762,16 +794,20 @@ source: "isap-pdf"
 3. Jeżeli układ zbiorowy pracy, regulamin wynagradzania lub marynarska umowa o pracę nie stanowią inaczej, marynarz ponosi koszty repatriacji:
 
 - **1)** zorganizowanej na jego żądanie, w przypadku innym niż określony w art. 58 ust. 1 pkt 6;
-- **2)** przeprowadzonej w przypadku braku wymaganej sprawności psychofizycznej lub kwalifikacji zawodowych marynarza z jego winy;
+- **2)** przeprowadzonej w przypadku braku wymaganej sprawności psychofizycznej lub kwalifikacji zawodowych marynarza – z jego winy;
 - **3)** w przypadku ciężkiego naruszenia przez niego obowiązków pracowniczych.
 
 **Art. 60.**
 
-1. Uprawnienia przysługujące marynarzowi w związku z repatriacją, dotyczące w szczególności środków oraz kosztów transportu, określa układ zbiorowy pracy lub regulamin pracy, a w przypadku armatorów nieobjętych tymi układami lub regulaminami marynarska umowa o pracę.
+1. Uprawnienia przysługujące marynarzowi w związku z repatriacją, dotyczące w szczególności środków oraz kosztów transportu, określa układ zbiorowy pracy lub regulamin pracy, a w przypadku armatorów nieobjętych tymi układami lub regulaminami – marynarska umowa o pracę.
 
 2. Na statku przechowuje się kopię przepisów określających prawa i obowiązki marynarza i armatora związane z repatriacją.
 
 **Art. 61.** Armator nie może:
+
+- **1)** wymagać od marynarza wpłacenia zaliczki w związku z kosztami repatriacji;
+- **2)** potrącać kosztów repatriacji z wynagrodzenia za pracę marynarza lub innych świadczeń wynikających z marynarskiej umowy o pracę, z wyjątkiem sytuacji, o których mowa w art. 59 ust. 3;
+- **3)** obciążać marynarza kosztami repatriacji w przypadku wystąpienia okoliczności, o których mowa w art. 30 ust. 2.
 
 **Art. 62.**
 
@@ -918,7 +954,7 @@ source: "isap-pdf"
 
 3. Koszty świadczeń opieki zdrowotnej ponosi armator, z wyjątkiem kosztów świadczeń udzielonych na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26) lub rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 883/2004 z dnia 29 kwietnia 2004 r. w sprawie koordynacji systemów zabezpieczenia społecznego (Dz. Urz. UE L 166 z 30.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 5, str. 72).
 
-4. Armator jest uprawniony do nabywania produktów leczniczych i wyrobów medycznych na statek na podstawie zapotrzebowania, o którym mowa w art. 96 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795).
+4. Armator jest uprawniony do nabywania produktów leczniczych i wyrobów medycznych na statek na podstawie zapotrzebowania, o którym mowa w art. 96 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795).
 
 5. Przepisy ust. 1 i 2 stosuje się odpowiednio do praktykanta.
 
@@ -938,12 +974,17 @@ source: "isap-pdf"
 
 **Art. 72.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia:
 
+- **1)** wymagania dotyczące wyposażenia apteczek okrętowych w odpowiednie rodzaje i ilości produktów leczniczych, wyrobów medycznych i odtrutek, sposobu ich przechowywania, kontroli, wymiany oraz ewidencjonowania,
+- **2)** wymagania dotyczące wyposażenia środków ratunkowych w apteczki medyczne w odpowiednie rodzaje i ilości produktów leczniczych i wyrobów medycznych, sposobu ich kontroli, wymiany oraz ewidencjonowania,
+- **3)** wykaz substancji i materiałów stanowiących zagrożenie dla zdrowia lub życia, znajdujących się na statku,
+- **4)** wzór karty zdrowia dla marynarza na statku – mając na uwadze wymagania wynikające z umów międzynarodowych wiążących Rzeczpospolitą Polską w tym zakresie, uwzględniając charakter uprawianej żeglugi oraz konieczność zapewnienia marynarzom właściwej pomocy medycznej na statku.
+
 **Art. 73.**
 
 1. Armator jest obowiązany do poniesienia kosztów:
 
 - **1)** związanych z chorobą lub uszkodzeniem ciała marynarza w okresie zatrudnienia lub powstałych w jego wyniku,
-- **2)** opieki medycznej w przypadkach choroby lub uszkodzenia ciała marynarza, o których mowa w pkt 1, w tym kosztów leczenia i zaopatrzenia w niezbędne produkty lecznicze i wyroby medyczne, a w przypadku pobytu marynarza poza granicami kraju także zakwaterowania i wyżywienia do czasu, gdy marynarz wróci do zdrowia lub nabędzie uprawnienia do korzystania ze świadczeń na zasadach określonych w art. 70 ust. 3, ale niedłużej niż przez 16 tygodni licząc od dnia uszkodzenia ciała lub początku choroby.
+- **2)** opieki medycznej w przypadkach choroby lub uszkodzenia ciała marynarza, o których mowa w pkt 1, w tym kosztów leczenia i zaopatrzenia w niezbędne produkty lecznicze i wyroby medyczne, a w przypadku pobytu marynarza poza granicami kraju także zakwaterowania i wyżywienia – do czasu, gdy marynarz wróci do zdrowia lub nabędzie uprawnienia do korzystania ze świadczeń na zasadach określonych w art. 70 ust. 3, ale niedłużej niż przez 16 tygodni licząc od dnia uszkodzenia ciała lub początku choroby.
 
 2. W przypadku niezdolności do pracy trwającej powyżej 3 miesięcy, wynikającej z uszkodzenia ciała lub choroby powstałej na skutek wykonywania pracy, marynarzowi, a w przypadku śmierci marynarza jego rodzinie, przysługuje odszkodowanie od armatora. Do odszkodowania stosuje się odpowiednio przepisy art. 93 § 2 i 3 Kodeksu pracy.
 
@@ -955,7 +996,14 @@ source: "isap-pdf"
 
 **Art. 75.** Jeżeli niezdolność do pracy marynarza powstała na skutek choroby lub uszkodzenia ciała, armator wypłaca wynagrodzenie za pracę, o którym mowa w art. 35 ust. 3:
 
+- **1)** do czasu gdy chory lub ranny marynarz przebywa na statku albo do czasu repatriacji marynarza;
+- **2)** od dnia repatriacji marynarza albo zejścia ze statku do czasu jego powrotu do zdrowia lub nabycia uprawnień do świadczeń na zasadach określonych w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26) lub w ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ale niedłużej niż przez 16 tygodni licząc od dnia uszkodzenia ciała lub początku choroby.
+
 **Art. 76.** Armator jest zwolniony z obowiązku, o którym mowa w art. 75, jeżeli:
+
+- **1)** uszkodzenie ciała marynarza nastąpiło w sytuacji niezwiązanej z wykonywaniem pracy na statku;
+- **2)** uszkodzenie ciała lub choroba wynika ze świadomego nieprawidłowego postępowania chorego lub rannego marynarza;
+- **3)** choroba lub niepełnosprawność marynarza została przez niego umyślnie ukryta.
 
 **Art. 76a.**
 
@@ -997,14 +1045,22 @@ source: "isap-pdf"
 
 1. W przypadku zaginięcia marynarza na morzu, armator wypłaca uprawnionym członkom rodziny marynarza:
 
-- **1)** przez okres 6 miesięcy comiesięczne świadczenie obliczane według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy;
-- **2)** po upływie 6 miesięcy do czasu uznania marynarza za zmarłego comiesięczny zasiłek pieniężny.
+- **1)** przez okres 6 miesięcy – comiesięczne świadczenie obliczane według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy;
+- **2)** po upływie 6 miesięcy – do czasu uznania marynarza za zmarłego – comiesięczny zasiłek pieniężny.
 
 2. Zasiłek, o którym mowa w ust. 1 pkt 2, ustala się w wysokości określonej w art. 80 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 #### Rozdział 7 Szczególne obowiązki i uprawnienia marynarza i armatora
 
 **Art. 79.** Marynarz jest obowiązany w szczególności:
+
+- **1)** przestrzegać przepisów i zasad bezpieczeństwa żeglugi;
+- **2)** przestrzegać przepisów obowiązujących w portach i na morzu;
+- **3)** przestrzegać przepisów regulaminu pracy i przebywania na statku – jeżeli został wprowadzony;
+- **4)** dbać o bezpieczeństwo pasażerów;
+- **5)** dbać o pomieszczenia własnego użytku, wspólne pomieszczenia załogi statku oraz ich wyposażenie;
+- **6)** chronić statek, jego urządzenia i ładunek;
+- **7)** chronić środowisko naturalne przed zanieczyszczeniem.
 
 **Art. 80.**
 
@@ -1045,7 +1101,7 @@ source: "isap-pdf"
 **Art. 85.**
 
 - **8)** 1. Armator będący przedsiębiorcą żeglugowym, który używa statek do przewozu ładunku lub pasażerów w żegludze międzynarodowej, w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2021 r. poz. 985), jest obowiązany do wystawienia, po zakończeniu roku, niepóźniej niż do końca lutego następującego po tym roku, zaświadczenia marynarzowi zatrudnionemu na tym statku zawierającego:
-- **1)** imię i nazwisko marynarza, jego adres zamieszkania i numer PESEL lub w przypadku jego braku numer innego dokumentu potwierdzającego tożsamość;
+- **1)** imię i nazwisko marynarza, jego adres zamieszkania i numer PESEL lub w przypadku jego braku – numer innego dokumentu potwierdzającego tożsamość;
 - **2)** liczbę dni przepracowanych w roku, którego dotyczy zaświadczenie, przez marynarza na statku spełniającym wymagania, o których mowa w art. 21 ust. 1 pkt 23c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ), z podaniem okresów zatrudnienia i nazwy statku;
 - **3)** kwotę dochodu oraz zaliczek odprowadzonych na poczet podatku dochodowego od osób fizycznych marynarza przypadających za dni pracy, o których mowa w pkt 2;
 - **4)** informacje dotyczące armatora, podawane w przypadku ubiegania się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie, zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468 i 1652), obejmujące:
@@ -1140,8 +1196,8 @@ source: "isap-pdf"
 
 2. Deklaracja składa się z:
 
-- **1)** części I sporządzanej przez dyrektora urzędu morskiego właściwego dla portu macierzystego statku, obejmującej potwierdzenie przestrzegania przez statek wymagań Konwencji MLC i ustawy, dotyczących warunków pracy i życia marynarzy na statku, ze wskazaniem odpowiednich przepisów w prawie krajowym albo wskazującej rozwiązania zasadniczo równoważne lub zwolnienia udzielone przez właściwy organ dla danego statku;
-- **2)** części II sporządzanej przez armatora, określającej środki ustanowione w celu zapewnienia zgodności z wymaganiami określonymi w części I deklaracji.
+- **1)** części I – sporządzanej przez dyrektora urzędu morskiego właściwego dla portu macierzystego statku, obejmującej potwierdzenie przestrzegania przez statek wymagań Konwencji MLC i ustawy, dotyczących warunków pracy i życia marynarzy na statku, ze wskazaniem odpowiednich przepisów w prawie krajowym albo wskazującej rozwiązania zasadniczo równoważne lub zwolnienia udzielone przez właściwy organ dla danego statku;
+- **2)** części II – sporządzanej przez armatora, określającej środki ustanowione w celu zapewnienia zgodności z wymaganiami określonymi w części I deklaracji.
 
 3. Deklarację wydaje, na wniosek armatora, dyrektor urzędu morskiego właściwy dla portu macierzystego statku, po weryfikacji informacji podanych przez armatora w części II deklaracji, na podstawie pozytywnych wyników inspekcji warunków pracy i życia na statku.
 
@@ -1169,19 +1225,19 @@ source: "isap-pdf"
 
 1. Wysokość opłaty za przeprowadzenie inspekcji i wydanie certyfikatu wraz z deklaracją wynosi dla statków o pojemności brutto (GT):
 
-- **1)** do 500 jednostek 1500 zł;
-- **2)** powyżej 500 jednostek do 2000 jednostek 2000 zł;
-- **3)** powyżej 2000 jednostek do 10 000 jednostek 2500 zł;
-- **4)** powyżej 10 000 jednostek do 30 000 jednostek 3500 zł;
-- **5)** powyżej 30 000 jednostek za każde następne 20 000 jednostek dodatkowo 1000 zł.
+- **1)** do 500 jednostek – 1500 zł;
+- **2)** powyżej 500 jednostek do 2000 jednostek – 2000 zł;
+- **3)** powyżej 2000 jednostek do 10 000 jednostek – 2500 zł;
+- **4)** powyżej 10 000 jednostek do 30 000 jednostek – 3500 zł;
+- **5)** powyżej 30 000 jednostek – za każde następne 20 000 jednostek dodatkowo – 1000 zł.
 
 2. Wysokość opłaty za przeprowadzenie inspekcji i wydanie certyfikatu tymczasowego wynosi dla statków o pojemności brutto (GT):
 
-- **1)** do 500 jednostek 750 zł;
-- **2)** powyżej 500 jednostek do 2000 jednostek 1000 zł;
-- **3)** powyżej 2000 jednostek do 10 000 jednostek 1250 zł;
-- **4)** powyżej 10 000 jednostek do 30 000 jednostek 1750 zł;
-- **5)** powyżej 30 000 jednostek za każde następne 20 000 jednostek dodatkowo 500 zł.
+- **1)** do 500 jednostek – 750 zł;
+- **2)** powyżej 500 jednostek do 2000 jednostek – 1000 zł;
+- **3)** powyżej 2000 jednostek do 10 000 jednostek – 1250 zł;
+- **4)** powyżej 10 000 jednostek do 30 000 jednostek – 1750 zł;
+- **5)** powyżej 30 000 jednostek – za każde następne 20 000 jednostek dodatkowo – 500 zł.
 
 3. Opłata za przeprowadzenie inspekcji w celu potwierdzenia ważności certyfikatu wraz z deklaracją wynosi 50 % wartości stawki określonej do przeprowadzenia inspekcji w celu wydania certyfikatu wraz z deklaracją, na którym dokonano potwierdzenia ważności.
 
@@ -1199,10 +1255,10 @@ source: "isap-pdf"
 
 1. Statek, o którym mowa w art. 92 ust. 1 i 3, podlega inspekcji:
 
-- **1)** wstępnej przeprowadzanej w celu uzyskania po raz pierwszy certyfikatu albo certyfikatu tymczasowego;
-- **2)** pośredniej przeprowadzanej w celu potwierdzenia ważności certyfikatu pomiędzy drugą i trzecią datą rocznicową, o której mowa w art. 5 pkt 22 ustawy o bezpieczeństwie morskim;
-- **3)** odnowieniowej przeprowadzanej, w związku z upływem ważności certyfikatu, w celu wydania nowego certyfikatu;
-- **4)** doraźnej przeprowadzanej w celu dodatkowej weryfikacji warunków pracy i życia marynarzy na statku.
+- **1)** wstępnej – przeprowadzanej w celu uzyskania po raz pierwszy certyfikatu albo certyfikatu tymczasowego;
+- **2)** pośredniej – przeprowadzanej w celu potwierdzenia ważności certyfikatu pomiędzy drugą i trzecią datą rocznicową, o której mowa w art. 5 pkt 22 ustawy o bezpieczeństwie morskim;
+- **3)** odnowieniowej – przeprowadzanej, w związku z upływem ważności certyfikatu, w celu wydania nowego certyfikatu;
+- **4)** doraźnej – przeprowadzanej w celu dodatkowej weryfikacji warunków pracy i życia marynarzy na statku.
 
 2. (uchylony)
 
@@ -1295,8 +1351,8 @@ source: "isap-pdf"
 1. Do stosunków pracy na statkach niekonwencyjnych stosuje się odpowiednio przepisy ustawy dotyczące:
 
 - **1)** minimalnych wymagań dla marynarzy do pracy na statku, z uwzględnieniem obowiązujących wymagań międzynarodowych i krajowych dotyczących pracowników szkół i uczelni morskich;
-- **2)** warunków zatrudnienia i organizacji pracy na statku z wyjątkiem przepisów art. 34, art. 40, art. 41, art. 43–47, art. 50, art. 51 ust. 2 i art. 53–56;
-- **3)** warunków pracy i życia na statku z wyjątkiem przepisów art. 28 ust. 1 i 2, art. 63, art. 64 ust. 2–4, art. 65, art. 67 ust. 2 i 3 oraz art. 69 ust. 2, z tym że przepis art. 63 ust. 3 stosuje się do statków, o których mowa w art. 103, holowników, pogłębiarek oraz dźwigów pływających;
+- **2)** warunków zatrudnienia i organizacji pracy na statku – z wyjątkiem przepisów art. 34, art. 40, art. 41, art. 43–47, art. 50, art. 51 ust. 2 i art. 53–56;
+- **3)** warunków pracy i życia na statku – z wyjątkiem przepisów art. 28 ust. 1 i 2, art. 63, art. 64 ust. 2–4, art. 65, art. 67 ust. 2 i 3 oraz art. 69 ust. 2, z tym że przepis art. 63 ust. 3 stosuje się do statków, o których mowa w art. 103, holowników, pogłębiarek oraz dźwigów pływających;
 - **4)** ochrony zdrowia i ochrony socjalnej.
 
 2. Do statków niekonwencyjnych mogą być stosowane przepisy ustawy dotyczące pośrednictwa pracy.
@@ -1390,7 +1446,7 @@ source: "isap-pdf"
 - **3)** wpisach i adnotacjach dokonywanych na liście załogi statku,
 - **4)** przeprowadzaniu oceny i dokumentowaniu analizy ryzyka zawodowego związanego z wykonywaniem pracy na poszczególnych stanowiskach pracy na statku,
 - **5)** informowaniu marynarzy o wynikach przeprowadzonej oceny ryzyka zawodowego, stosowaniu niezbędnych środków profilaktycznych oraz szkoleniu marynarzy w zakresie ochrony przed zagrożeniami,
-- **6)** informowaniu marynarzy o zagrożeniach stwarzanych przez towary niebezpieczne przewożone na statku, środkach zapobiegawczych i procedurach postępowania z nimi na wypadek zagrożenia oraz zasadach udzielania pierwszej pomocy przedmedycznej w przypadku wystąpienia niepożądanych skutków tych zagrożeń podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do celów emerytalnych i rentowych.
+- **6)** informowaniu marynarzy o zagrożeniach stwarzanych przez towary niebezpieczne przewożone na statku, środkach zapobiegawczych i procedurach postępowania z nimi na wypadek zagrożenia oraz zasadach udzielania pierwszej pomocy przedmedycznej w przypadku wystąpienia niepożądanych skutków tych zagrożeń – podlega karze pieniężnej do wysokości nieprzekraczającej dwudziestokrotnego przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za ubiegły rok, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do celów emerytalnych i rentowych.
 
 2. Tej samej karze podlega kapitan statku, który:
 
@@ -1415,6 +1471,9 @@ source: "isap-pdf"
 
 **Art. 110a.** Kto, będąc armatorem:
 
+- **1)** uprawia żeglugę z naruszeniem obowiązku, o którym mowa w art. 62b ust. 4, art. 76a ust. 3, art. 76b ust. 4, art. 92 ust. 1 lub 6,
+- **2)** nie poddał statku inspekcji warunków pracy i życia marynarzy, o której mowa w art. 93a ust. 1 – podlega karze pieniężnej w wysokości od 5000 zł do 10 000 zł.
+
 **Art. 111.**
 
 1. Kto, prowadząc agencję zatrudnienia:
@@ -1422,18 +1481,25 @@ source: "isap-pdf"
 - **1)** nie odstępuje od realizacji oferty pracy na statku, składanej przez armatora, w przypadku braku dołączonych do oferty pracy dokumentów, o których mowa w art. 20 ust. 2,
 - **2)** nie odstępuje od realizacji oferty pracy na statku, w przypadku uzyskania informacji, o których mowa w art. 24 ust. 1,
 - **3)** świadczy usługi pośrednictwa pracy bez dokumentu uprawniającego do kierowania marynarzy do pracy na statkach, wydanego przez właściwego dyrektora urzędu morskiego,
-- **4)** nie posiada ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności za szkody poniesione przez marynarzy z tytułu nieskuteczności pośrednictwa pracy lub niewypełnienia przez armatora zobowiązań wynikających z marynarskiej umowy o pracę podlega karze pieniężnej od 1000 zł do 30 000 zł.
+- **4)** nie posiada ubezpieczenia lub innego zabezpieczenia finansowego odpowiedzialności za szkody poniesione przez marynarzy z tytułu nieskuteczności pośrednictwa pracy lub niewypełnienia przez armatora zobowiązań wynikających z marynarskiej umowy o pracę – podlega karze pieniężnej od 1000 zł do 30 000 zł.
 
 2. Tej samej karze podlega ten, kto prowadząc pośrednictwo pracy pobrał bezpośrednio lub pośrednio od osoby poszukującej pracy na statku opłatę za czynności związane z pośrednictwem pracy oraz ten, kto nie zapewnił, aby osoba poszukująca pracy na statku nie ponosiła kosztów bezpośrednio związanych ze skierowaniem do pracy za granicą, w tym kosztów dojazdu na statek i powrotu do miejsca repatriacji wskazanego w marynarskiej umowie o pracę, wydania wizy, badań lekarskich oraz tłumaczenia dokumentów.
 
 **Art. 112.** Kto, będąc armatorem:
+
+- **1)** nie pokrywa kosztów badania lekarskiego przeprowadzanego w celu wydania marynarzowi świadectwa zdrowia, o którym mowa w art. 4,
+- **2)** nie wypłaca marynarzowi świadczenia, o którym mowa w art. 32, lub odszkodowania w przypadku zatonięcia, zaginięcia lub utraty statku w inny sposób,
+- **3)** nie pokrywa kosztów poniesionych przez marynarza, pozostających w bezpośrednim związku z przesunięciem terminu urlopu wypoczynkowego lub odwołaniem z urlopu wypoczynkowego,
+- **4)** nie zapewnia, aby pomieszczenia pracy i pomieszczenia mieszkalne, rekreacyjne, higieniczno-sanitarne oraz mesy na statku spełniały wymagania określone w Konwencji MLC w zakresie powierzchni, oświetlenia, czystości powietrza, dopuszczalnego hałasu i drgań,
+- **5)** nie pokrywa kosztów związanych z chorobą lub uszkodzeniem ciała marynarza oraz kosztów opieki medycznej, o których mowa w art. 73 ust. 1, lub kosztów sprowadzenia zwłok w przypadku śmierci marynarza, o których mowa w art. 73 ust. 3,
+- **6)** nie posiada wymaganego zabezpieczenia finansowego na wypadek porzucenia marynarza lub zabezpieczenia finansowego odpowiedzialności armatora – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 **Art. 113.**
 
 1. Kto, będąc armatorem lub działając w jego imieniu:
 
 - **1)** zatrudnia na statku osobę, która nie ukończyła 18. roku życia, z wyjątkiem przypadku, o którym mowa w art. 3 ust. 3,
-- **2)** zatrudnia na statku marynarza, nie wpisując go na listę załogi statku podlega karze grzywny od 1000 zł do 30 000 zł.
+- **2)** zatrudnia na statku marynarza, nie wpisując go na listę załogi statku – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 2. Tej samej karze podlega ten, kto na statku zatrudnia marynarza bez marynarskiej umowy o pracę albo nieposiadającego odpowiednich dokumentów potwierdzających kwalifikacje zawodowe niezbędne do zajmowania stanowiska na statku, młodocianego w celu innym niż przygotowanie zawodowe, a także nieposiadającego aktualnego świadectwa zdrowia, z uwzględnieniem art. 6 ust. 2 i 3, oraz ważnej książeczki żeglarskiej.
 
@@ -1450,7 +1516,7 @@ source: "isap-pdf"
 - **1)** o wymaganej formie i treści marynarskiej umowy o pracę,
 - **2)** dotyczące okresów zatrudnienia marynarza na podstawie marynarskiej umowy o pracę na czas określony, określonych w art. 26 ust. 3,
 - **3)** o czasie pracy i odpoczynku marynarza,
-- **4)** dotyczące procedur rozpatrywania skarg marynarzy, określonych w art. 97 i art. 99 podlega karze grzywny od 1000 zł do 30 000 zł.
+- **4)** dotyczące procedur rozpatrywania skarg marynarzy, określonych w art. 97 i art. 99 – podlega karze grzywny od 1000 zł do 30 000 zł.
 
 2. Tej samej karze podlega ten, kto będąc armatorem lub działając w jego imieniu:
 
@@ -1463,11 +1529,20 @@ source: "isap-pdf"
 
 **Art. 116.** Kto, będąc armatorem lub działając w jego imieniu:
 
+- **1)** nie dokonuje repatriacji marynarza w przypadkach, o których mowa w art. 58 ust. 1,
+- **2)** nie zapewnia, aby stanowiska pracy, maszyny, instalacje i urządzenia na statku zapewniały bezpieczne i higieniczne warunki pracy i życia marynarzy oraz innych osób znajdujących się na statku, w szczególności nie stwarzały zagrożeń wypadkami lub zagrożeń dla zdrowia w wyniku narażenia na czynniki niebezpieczne, szkodliwe lub uciążliwe w środowisku pracy,
+- **3)** nie zapewnia marynarzowi bezpłatnego wyżywienia o odpowiedniej jakości i wody pitnej,
+- **4)** nie dostarcza członkom załogi statku nieodpłatnie środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zabezpieczających przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy na morzu oraz nie informuje ich o sposobach posługiwania się tymi środkami,
+- **5)** nie zapewnia marynarzowi dostępu do opieki medycznej, o której mowa w art. 70 ust. 1 i 2,
+- **6)** nie zapewnia, aby na statku, o którym mowa w art. 71 ust. 2, był zatrudniony lekarz,
+- **7)** nie zapewnia, aby w składzie załogi statku, o którym mowa w art. 71 ust. 3, znajdował się co najmniej jeden marynarz przeszkolony w zakresie sprawowania opieki medycznej nad chorym,
+- **8)** nakłania marynarza, osobę przez niego upoważnioną lub uprawnionego w rozumieniu art. 93 § 4 Kodeksu pracy członka rodziny marynarza do akceptacji świadczenia niższego niż wynikające z art. 73 lub art. 75 – podlega karze grzywny od 1000 zł do 30 000 zł.
+
 **Art. 117.**
 
 1. Do właściwości organów oraz trybu wymierzania i ściągania kar pieniężnych, o których mowa w art. 110–111, stosuje się odpowiednio przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409, 1535 i 1668).
 
-2. Orzekanie w sprawach o czyny, o których mowa w art. 112–116, następuje na podstawie wniosku pochodzącego od dyrektora urzędu morskiego lub od inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
+2. Orzekanie w sprawach o czyny, o których mowa w art. 112–116, następuje na podstawie wniosku pochodzącego od dyrektora urzędu morskiego lub od inspektora pracy, w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
 
 #### Rozdział 12 Zmiany w przepisach obowiązujących
 
@@ -1511,16 +1586,16 @@ source: "isap-pdf"
 
 1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2016 r. 48 300,00 zł;
-- **2)** 2017 r. 1400,00 zł;
-- **3)** 2018 r. 1400,00 zł;
-- **4)** 2019 r. 1400,00 zł;
-- **5)** 2020 r. 48 300,00 zł;
-- **6)** 2021 r. 1400,00 zł;
-- **7)** 2022 r. 1400,00 zł;
-- **8)** 2023 r. 1400,00 zł;
-- **9)** 2024 r. 48 300,00 zł;
-- **10)** 2025 r. 1400,00 zł.
+- **1)** 2016 r. – 48 300,00 zł;
+- **2)** 2017 r. – 1400,00 zł;
+- **3)** 2018 r. – 1400,00 zł;
+- **4)** 2019 r. – 1400,00 zł;
+- **5)** 2020 r. – 48 300,00 zł;
+- **6)** 2021 r. – 1400,00 zł;
+- **7)** 2022 r. – 1400,00 zł;
+- **8)** 2023 r. – 1400,00 zł;
+- **9)** 2024 r. – 48 300,00 zł;
+- **10)** 2025 r. – 1400,00 zł.
 
 2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, zostaną zastosowane mechanizmy korygujące, polegające na racjonalizacji wykonywania działań.
 

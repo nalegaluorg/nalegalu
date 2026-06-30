@@ -8,12 +8,10 @@ pos: 101
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Nauki
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 stycznia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Narodowym Centrum Nauki
 
 | Pole | Wartość |
 |---|---|
@@ -53,13 +51,26 @@ source: "isap-pdf"
 
 - **1)** szczegółowy zakres zadań i tryb pracy organów Centrum,
 - **2)** organizację Biura Centrum,
-- **3)** wartość majątku, powyżej której rozporządzanie majątkiem Centrum przez Dyrektora Centrum wymaga zgody Rady Centrum mając na względzie sprawne wykonywanie zadań przez Centrum.
+- **3)** wartość majątku, powyżej której rozporządzanie majątkiem Centrum przez Dyrektora Centrum wymaga zgody Rady Centrum – mając na względzie sprawne wykonywanie zadań przez Centrum.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** badaniach podstawowych – należy przez to rozumieć badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. );
+- **2)** projektach badawczych – należy przez to rozumieć przedsięwzięcia mające na celu wykonanie w ustalonym okresie badań podstawowych o tematyce określonej przez wnioskodawcę, realizowane na podstawie umowy o realizację i finansowanie projektu;
+- **3)** (uchylony)
+- **4)** doświadczonym naukowcu – należy przez to rozumieć osobę posiadającą stopień naukowy doktora, która w okresie 10 lat przed rokiem wystąpienia z wnioskiem o przyznanie środków finansowych na badania naukowe lub prace rozwojowe:
+    - **a)** opublikowała co najmniej pięć publikacji w renomowanych czasopismach naukowych polskich lub zagranicznych,
+    - **b)** kierowała realizacją projektów badawczych,
+    - **c)** spełnia co najmniej trzy z poniższych kryteriów: – była w komitecie naukowym przynajmniej jednej uznanej konferencji międzynarodowej, – opublikowała co najmniej jedną monografię, – wygłosiła prezentacje na uznanych konferencjach międzynarodowych, – zdobyła międzynarodową nagrodę albo wyróżnienie, – jest lub była członkiem uznanych stowarzyszeń, międzynarodowych organizacji naukowych lub akademii, – ma inne istotne osiągnięcia w nauce, a w przypadku działalności naukowej w zakresie twórczości i sztuki – osobę, która jest autorem dzieł artystycznych o międzynarodowym znaczeniu lub istotnych dla kultury polskiej oraz brała aktywny udział w międzynarodowych wystawach, festiwalach, wydarzeniach artystycznych, plastycznych, muzycznych, teatralnych i filmowych;
+
+- **5)** Koordynatorze Dyscyplin – należy przez to rozumieć pracownika Centrum odpowiadającego za organizację prac Zespołów Ekspertów i przeprowadzanie konkursów na realizację projektów badawczych w jednej dyscyplinie naukowej lub w grupie kilku dyscyplin naukowych, w tym w szczególności za zapewnienie ich właściwego, bezstronnego i rzetelnego przebiegu.
 
 #### Rozdział 2 Organy i organizacja Centrum
 
 **Art. 3.** Organami Centrum są:
+
+- **1)** Dyrektor Centrum, zwany dalej „Dyrektorem”;
+- **2)** Rada Centrum, zwana dalej „Radą”.
 
 **Art. 4.**
 
@@ -68,7 +79,7 @@ source: "isap-pdf"
 2. Rada ogłasza konkurs na stanowisko Dyrektora:
 
 - **1)** co najmniej na 6 tygodni przed upływem kadencji Dyrektora;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci Dyrektora.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci Dyrektora.
 
 3. Informację o ogłoszeniu konkursu Rada przekazuje niezwłocznie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”.
 
@@ -98,7 +109,7 @@ source: "isap-pdf"
 5. Dyrektor ogłasza konkurs na stanowisko zastępcy Dyrektora:
 
 - **1)** co najmniej na 6 tygodni przed upływem kadencji zastępcy Dyrektora;
-- **2)** niezwłocznie w przypadku odwołania albo śmierci zastępcy Dyrektora.
+- **2)** niezwłocznie – w przypadku odwołania albo śmierci zastępcy Dyrektora.
 
 6. W przypadku niewyłonienia kandydata na stanowisko zastępcy Dyrektora, Dyrektor przeprowadza nowy konkurs.
 
@@ -179,7 +190,7 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. Zespół Identyfikujący, w terminie 2 miesięcy przed upływem kadencji Rady, sporządza i przekazuje Ministrowi listę co najmniej dwudziestu czterech kandydatów na członków Rady, spośród osób zgłoszonych przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, posiadające kategorię naukową A+ albo A, oraz przez organizacje reprezentujące środowisko naukowe, kierując się:
+1. Zespół Identyfikujący, w terminie 2 miesięcy przed upływem kadencji Rady, sporządza i przekazuje Ministrowi listę co najmniej dwudziestu czterech kandydatów na członków Rady, spośród osób zgłoszonych przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, posiadające kategorię naukową A+ albo A, oraz przez organizacje reprezentujące środowisko naukowe, kierując się:
 
 - **1)** dorobkiem naukowym kandydata i jego bieżącą aktywnością naukową;
 - **2)** zasadami zapewnienia zrównoważonej reprezentacji różnych dziedzin nauki;
@@ -187,7 +198,7 @@ source: "isap-pdf"
 
 2. W przypadku niepowołania przez Ministra kandydata na członka Rady Zespół Identyfikujący przedstawia Ministrowi nową kandydaturę spośród osób, o których mowa w ust. 1.
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, sposób i tryb wyłaniania kandydatów na członków Rady, kierując się potrzebą zapewnienia zrównoważonej reprezentacji różnych dziedzin nauki i różnych rodzajów podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+3. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, sposób i tryb wyłaniania kandydatów na członków Rady, kierując się potrzebą zapewnienia zrównoważonej reprezentacji różnych dziedzin nauki i różnych rodzajów podmiotów, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 **Art. 15.**
 
@@ -205,7 +216,7 @@ source: "isap-pdf"
 - **4)** nie pozostaje w związku małżeńskim, pokrewieństwie lub powinowactwie do drugiego stopnia włącznie z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin;
 - **5)** nie pozostaje z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin w takim stosunku prawnym, który może mieć wpływ na jej prawa i obowiązki.
 
-5. Członkostwa w Radzie nie można łączyć z członkostwem w Zespole Identyfikującym, Komisji Ewaluacji Nauki i Komitecie Polityki Naukowej, o których mowa w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz w organach Narodowego Centrum Badań i Rozwoju i Narodowej Agencji Wymiany Akademickiej.
+5. Członkostwa w Radzie nie można łączyć z członkostwem w Zespole Identyfikującym, Komisji Ewaluacji Nauki i Komitecie Polityki Naukowej, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz w organach Narodowego Centrum Badań i Rozwoju i Narodowej Agencji Wymiany Akademickiej.
 
 6. Członkiem Rady nie może być również osoba pełniąca funkcję:
 
@@ -265,6 +276,20 @@ source: "isap-pdf"
 
 **Art. 18.** Do zadań Rady należy:
 
+- **1)** określanie maksymalnie trzydziestu dyscyplin lub grup dyscyplin, w ramach których będą ogłaszane i przeprowadzane konkursy na realizację projektów badawczych;
+- **2)** określanie priorytetowych obszarów badań podstawowych zgodnych ze strategią rozwoju kraju;
+- **3)** ustalanie wysokości środków finansowych przeznaczonych na realizację projektów badawczych w ramach poszczególnych dyscyplin lub grup dyscyplin;
+- **4)** określanie tematyki projektów badawczych i warunków przeprowadzania konkursów na ich realizację;
+- **5)** ogłaszanie konkursów na finansowanie stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora;
+- **6)** ocena merytoryczna wykonania zadań realizowanych przez Dyrektora, jego zastępców oraz Koordynatorów Dyscyplin;
+- **7)** wybór spośród wybitnych naukowców polskich i zagranicznych Zespołów Ekspertów odpowiedzialnych za ocenę wniosków złożonych w konkursach oraz wybór Zespołów Ekspertów odpowiedzialnych za ocenę merytoryczną związaną z rozliczeniem przyznanych środków;
+- **8)** powołanie Komisji Odwoławczej, złożonej z członków Rady, w celu rozpatrywania odwołań od decyzji Dyrektora w sprawach określonych w art. 33 ust. 2;
+- **9)** powoływanie, na wniosek Dyrektora, zewnętrznego audytora do oceny pracy Zespołów Ekspertów lub Koordynatorów Dyscyplin;
+- **10)** opiniowanie rocznych planów i sprawozdań, o których mowa w art. 11 ust. 5 i 6;
+- **11)** zatwierdzanie rocznych planów i sprawozdań, o których mowa w art. 11 ust. 7;
+- **12)** wyrażanie zgody na rozporządzanie przez Dyrektora majątkiem Centrum powyżej wartości określonej w statucie;
+- **13)** wykonywanie innych zadań wynikających z przepisów ustawy.
+
 **Art. 19.** Obsługę administracyjną Centrum prowadzi Biuro Centrum.
 
 **Art. 19a.**
@@ -288,7 +313,7 @@ source: "isap-pdf"
 - **1)** finansowanie badań podstawowych realizowanych w formie:
     - **a)** projektów badawczych, w tym finansowanie zakupu lub wytworzenia aparatury naukowo-badawczej niezbędnej do realizacji tych projektów,
     - **b)** niepodlegających współfinansowaniu z zagranicznych środków finansowych projektów badawczych realizowanych w ramach programów lub inicjatyw międzynarodowych ogłaszanych we współpracy dwu- lub wielostronnej albo projektów badawczych realizowanych przy wykorzystaniu przez polskie zespoły badawcze wielkich międzynarodowych urządzeń badawczych,
-    - **c)** projektów badawczych realizowanych przez młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, w tym mających na celu stworzenie unikatowego warsztatu naukowego lub powołanie nowego zespołu naukowego,
+    - **c)** projektów badawczych realizowanych przez młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w tym mających na celu stworzenie unikatowego warsztatu naukowego lub powołanie nowego zespołu naukowego,
     - **d)** stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora,
     - **e)** projektów badawczych dla doświadczonych naukowców mających na celu realizację pionierskich badań naukowych, w tym interdyscyplinarnych, ważnych dla rozwoju nauki, wykraczających poza dotychczasowy stan wiedzy, i których efektem mogą być odkrycia naukowe;
 
@@ -304,7 +329,7 @@ source: "isap-pdf"
 
 3. Przy realizacji zadań, o których mowa w ust. 1, Centrum może współpracować z podmiotami krajowymi i zagranicznymi.
 
-4. Centrum przeznacza niemniej niż 20 % środków pozostających w jego dyspozycji na wsparcie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+4. Centrum przeznacza niemniej niż 20 % środków pozostających w jego dyspozycji na wsparcie rozwoju młodych naukowców w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 5. Centrum, za zgodą Ministra, może zlecać wykonywanie zadań w zakresie wspierania badań podstawowych jednostkom organizacyjnym działającym na rzecz upowszechniania nauki.
 
@@ -336,7 +361,7 @@ source: "isap-pdf"
 
 4. Koordynatorzy Dyscyplin są zatrudniani przez Dyrektora na podstawie umowy o pracę na czas określony, niedłuższy niż 4 lata.
 
-5. Zatrudnienia na stanowisku Koordynatora Dyscyplin nie można łączyć z zatrudnieniem w podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+5. Zatrudnienia na stanowisku Koordynatora Dyscyplin nie można łączyć z zatrudnieniem w podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 6. Rada określi regulamin konkursu na stanowisko Koordynatora Dyscyplin oraz sposób dokumentowania spełniania wymagań dotyczących doświadczenia i kwalifikacji zawodowych kandydatów.
 
@@ -368,7 +393,7 @@ source: "isap-pdf"
 
 1. W konkursie na realizację projektu badawczego mogą brać udział:
 
-- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **2)** grupy podmiotów, w skład których wchodzą co najmniej dwa podmioty, o których mowa w pkt 1, albo co najmniej jeden z tych podmiotów oraz co najmniej jeden przedsiębiorca;
 - **3)** centra naukowo-przemysłowe w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
 - **4)** centra Polskiej Akademii Nauk w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796 oraz z 2025 r. poz. 621);
@@ -387,7 +412,7 @@ source: "isap-pdf"
 
 **Art. 28.**
 
-1. W konkursach na finansowanie stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora mogą brać udział młodzi naukowcy w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+1. W konkursach na finansowanie stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora mogą brać udział młodzi naukowcy w rozumieniu art. 360 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2. Środki finansowe są przyznawane podmiotowi, o którym mowa w art. 27 ust. 1 pkt 1–7 i 9, w którym osoba, o której mowa w ust. 1, prowadzi działalność naukową.
 
@@ -402,13 +427,19 @@ source: "isap-pdf"
 - **3)** osiągnięcia naukowe zespołu wykonawców;
 - **4)** zasadność planowanych kosztów w stosunku do przedmiotu i zakresu badań;
 - **5)** wpływ realizacji projektu badawczego na rozwój dyscypliny naukowej;
-- **6)** ocenę wykonania przez wnioskodawcę projektów badawczych uprzednio finansowanych ze środków finansowych, o których mowa w art. 365 pkt 12 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+- **6)** ocenę wykonania przez wnioskodawcę projektów badawczych uprzednio finansowanych ze środków finansowych, o których mowa w art. 365 pkt 12 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2. Rada może dla danego konkursu określić dodatkowe kryteria, poza określonymi w ust. 1.
 
 3. Dyrektor określa szczegółowy tryb sporządzania ocen wniosków przez Zespoły Ekspertów.
 
 **Art. 31.** Koordynator Dyscyplin zamieszcza na stronie podmiotowej Centrum w Biuletynie Informacji Publicznej informacje o wnioskach złożonych w konkursach na realizację projektów badawczych i wynikach tych konkursów zawierające:
+
+- **1)** tytuł złożonego wniosku;
+- **2)** imię i nazwisko kierownika projektu badawczego oraz nazwę albo imię i nazwisko podmiotu, o którym mowa w art. 27 ust. 1, będącego wnioskodawcą;
+- **3)** pozycję na liście rankingowej uzyskaną przez projekt badawczy skierowany do finansowania;
+- **4)** wysokość środków finansowych proponowanych do przyznania na poszczególny projekt badawczy przez Koordynatora Dyscyplin i przyznanych przez Dyrektora;
+- **5)** nazwę podmiotu realizującego, który zobowiązany jest zatrudnić wnioskodawcę – w przypadku gdy wnioskodawca jest osobą fizyczną.
 
 **Art. 32.**
 
@@ -479,7 +510,7 @@ source: "isap-pdf"
 
 - **1)** dłużnik został wykreślony z właściwego rejestru, a odpowiedzialność za długi nie przeszła na osoby trzecie;
 - **2)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się sumy wyższej od kosztów egzekucyjnych albo postępowanie egzekucyjne okazało się nieskuteczne;
-- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
+- **3)** sąd oddalił wniosek o ogłoszenie upadłości dłużnika z przyczyn, o których mowa w art. 13 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172), albo umorzył postępowanie upadłościowe z przyczyn, o których mowa w art. 361 ust. 1 tej ustawy.
 
 2. Dyrektor, na uzasadniony wniosek dłużnika albo z urzędu, może umorzyć, w całości albo w części, należność finansową wynikającą z rozliczenia środków finansowych przyznanych na podstawie art. 33 ust. 1, odroczyć termin spłaty tej należności lub rozłożyć ją na raty, o ile nie będzie to stanowiło pomocy publicznej lub pomocy de minimis, jeżeli:
 
@@ -504,11 +535,11 @@ source: "isap-pdf"
 1. W przypadku wyników:
 
 - **1)** badań naukowych będących wynalazkiem, wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego, wyhodowaną albo odkrytą i wyprowadzoną odmianą rośliny,
-- **2)** prac rozwojowych powstałych w ramach prac lub zadań finansowanych przez Centrum oraz know-how związanego z tymi wynikami, prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub układu scalonego oraz prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez hodowcę odmiany rośliny przysługuje podmiotowi, któremu Dyrektor przyznał środki finansowe, chyba że umowa między Centrum a podmiotem otrzymującym środki finansowe albo decyzja o przyznaniu środków stanowi inaczej.
+- **2)** prac rozwojowych – powstałych w ramach prac lub zadań finansowanych przez Centrum oraz know-how związanego z tymi wynikami, prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego lub układu scalonego oraz prawa do ochrony wyhodowanej albo odkrytej i wyprowadzonej przez hodowcę odmiany rośliny przysługuje podmiotowi, któremu Dyrektor przyznał środki finansowe, chyba że umowa między Centrum a podmiotem otrzymującym środki finansowe albo decyzja o przyznaniu środków stanowi inaczej.
 
 2. Do własności majątkowych praw autorskich powstałych w wyniku realizacji zadań finansowanych przez Centrum stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24).
 
-3. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny, uzyskanych przez pracownika uczelni publicznej w ramach wykonywania obowiązków ze stosunku pracy w tej uczelni stosuje się przepisy ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+3. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny, uzyskanych przez pracownika uczelni publicznej w ramach wykonywania obowiązków ze stosunku pracy w tej uczelni stosuje się przepisy ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 4. Do wynalazków, wzorów użytkowych, wzorów przemysłowych lub topografii układu scalonego, wyhodowanej albo odkrytej i wyprowadzonej odmiany rośliny, uzyskanych przez pracownika instytutu naukowego Polskiej Akademii Nauk w ramach wykonywania obowiązków ze stosunku pracy w tym instytucie stosuje się przepisy ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk.
 
@@ -521,7 +552,7 @@ source: "isap-pdf"
 - **1)** przeznaczenie pomocy,
 - **2)** rodzaje kosztów kwalifikujących się do objęcia pomocą,
 - **3)** sposób kumulowania pomocy,
-- **4)** maksymalne wielkości pomocy z uwzględnieniem wymagań dotyczących dopuszczalnej pomocy publicznej określonych w przepisach prawa wspólnotowego oraz celów polityki naukowej państwa.
+- **4)** maksymalne wielkości pomocy – z uwzględnieniem wymagań dotyczących dopuszczalnej pomocy publicznej określonych w przepisach prawa wspólnotowego oraz celów polityki naukowej państwa.
 
 #### Rozdział 4 Finansowanie działalności Centrum
 
@@ -580,7 +611,7 @@ source: "isap-pdf"
 
 2. W ramach nadzoru Minister:
 
-- **1)** dokonuje kontroli, o której mowa w art. 427 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** dokonuje kontroli, o której mowa w art. 427 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **2)** zatwierdza projekt rocznego planu finansowego Centrum i planu finansowego w układzie zadaniowym na dany rok budżetowy oraz na 2 kolejne lata;
 - **3)** zatwierdza roczne sprawozdanie finansowe Centrum;
 - **4)** przyjmuje sprawozdanie z działalności Centrum przedstawione przez Dyrektora;
@@ -600,5 +631,5 @@ source: "isap-pdf"
 
 #### Rozdział 6 Przepis końcowy
 
-**Art. 44.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
+**Art. 44.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. poz. 620 i 1036 oraz z 2012 r. poz. 756).
 
