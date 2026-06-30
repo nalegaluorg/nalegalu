@@ -10,7 +10,7 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20260000025](WDU20260000025/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Kodeks pracy oraz ustawy | Ustawa | obowiązujący |  |
 | [WDU20250001423](WDU20250001423/index.md) | Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący |  |
 | [WDU20250000807](WDU20250000807/index.md) | Ustawa z dnia 4 czerwca 2025 r. o zmianie ustawy - Kodeks pracy | Ustawa | obowiązujący |  |
-| [WDU20250000440](WDU20250000440/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
+| [WDU20250000440](WDU20250000440/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000277](WDU20250000277/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001871](WDU20240001871/index.md) | Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20240000908](WDU20240000908/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |

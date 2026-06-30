@@ -8,10 +8,10 @@ pos: 1541
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw
+# Ustawa z dnia 18 października 2006 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw
 
 *USTAWA z dnia 18 października 2006 r.*
 
@@ -29,9 +29,81 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 1 w pkt 3 lit. c otrzymuje brzmienie: „c) cukru, w tym mechanizm restrukturyzacji przemysłu cukrowniczego,”;
+- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Jeżeli przepisy ustawy albo przepisy odrębne nie stanowią inaczej, do postępowań w sprawach indywidualnych, rozstrzyganych w drodze decyzji przez dyrektorów oddziałów terenowych oraz Prezesa Agencji, stosuje się przepisy Kodeksu postępowania administracyjnego, z wyłączeniem art. 7, art. 9, art. 10, art. 75 § 1, art. 77 § 1 oraz art. 81.
+
+2. Prezes Agencji oraz dyrektorzy oddziałów terenowych mogą upoważniać pracowników Agencji do podejmowania określonych czynności, w tym do wydawania decyzji administracyjnych.
+
+3. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego jest w stosunku do:
+
+- **1)** dyrektorów oddziałów terenowych – Prezes Agencji;
+- **2)** Prezesa Agencji – minister właściwy do spraw rynków rolnych.
+
+4. Wniesienie odwołania od decyzji Prezesa Agencji przyznających podmiotom, o których mowa w art. 22 ust. 1, dopłaty, refundacje lub płatności, wynikające z przepisów regulujących organizację poszczególnych rynków w ramach Wspólnej Polityki Rolnej, nie wstrzymuje ich wykonania.
+
+5. Prezes Agencji, z urzędu lub na wniosek strony, wstrzymuje, w drodze postanowienia, wykonanie decyzji w całości lub w części, w przypadku uzasadnionym ważnym interesem strony lub interesem publicznym.
+
+6. Wniosek o wstrzymanie wykonania decyzji może być złożony również przed wniesieniem odwołania.
+
+7. Na postanowienie w sprawie wstrzymania wykonania decyzji służy zażalenie.”;
+
+- **3)** w art. 9 dodaje się ust. 3 w brzmieniu: „3. W stosunku do posiadanych przez Agencję akcji i udziałów spółek o profilu działalności związanym z obrotem i przechowalnictwem zbóż, nie stosuje się przepisów art. 239 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104 i Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218 i Nr 187, poz. 1381).”;
+- **4)** w art. 11:
+    - **a)** w ust. 1 po pkt 4b dodaje się pkt 4c i 4d w brzmieniu: „4c) uczestniczy w realizacji działań w zakresie wsparcia instytucjonalnego w ramach programów pomocowych, finansowanych ze środków Unii Europejskiej lub środków krajowych;
+
+- **4d)** realizuje programy krajowe mające na celu pomoc państwa dla podmiotów i ich grup prowadzących działalność związaną z produkcją, przetwórstwem i obrotem produktami rolnymi w zakresie określonym lub dopuszczonym przepisami Unii Europejskiej;”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Szczegółowe zadania, o których mowa w ust. 1 pkt 1, na rynku zbóż, lnu i konopi, mleka, owoców i warzyw, tytoniu, suszu paszowego oraz wina są realizowane przez Agencję na podstawie odrębnych przepisów.”;
+
+- **5)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. 1. Rada Ministrów, w przypadku gdy przepisy Unii Europejskiej dotyczące Wspólnej Polityki Rolnej określają obowiązek podjęcia działań lub przewidują możliwość realizacji uprawnień przez państwo członkowskie lub właściwy organ państwa członkowskiego, lub agencję płatniczą, lub agencję interwencyjną w zakresie rynków, o których mowa w art. 1 ust. 1 pkt 3 i art. 11 ust. 5, może, w drodze rozporządzenia:
+- **1)** wyznaczyć Agencję jako jednostkę organizacyjną wykonującą określone obowiązki lub uprawnienia;
+- **2)** określić zadania realizowane przez Agencję, mające na celu wykonanie obowiązków lub uprawnień, o których mowa w pkt 1, lub sposób i tryb realizacji tych zadań.
+
+2. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 1 lub 2, Rada Ministrów:
+
+- **1)** uwzględnia:
+    - **a)** zadania Agencji określone w art. 11 i art. 12, jej możliwości organizacyjne, kadrowe i techniczne, a także zapewnienie sprawnego funkcjonowania obsługi administracyjnej mechanizmów Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej,
+    - **b)** uprawnienia podmiotów uczestniczących w mechanizmach administrowanych przez Agencję w zakresie Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej oraz możliwość zapewnienia szerokiego dostępu do udziału w tych mechanizmach,
+    - **c)** zakres udzielonej przez ministra właściwego do spraw finansów publicznych akredytacji dotyczącej płatności w ramach Wspólnej Polityki Rolnej;
+
+- **2)** kieruje się potrzebą zapewnienia skutecznego i efektywnego stosowania przepisów Unii Europejskiej dotyczących Wspólnej Polityki Rolnej na terytorium Rzeczypospolitej Polskiej.”;
+- **6)** w art. 13 w ust. 1:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) kwoty nieuiszczonych należności z tytułu:
+    - **a)** opłat i tymczasowej składki restrukturyzacyjnej, o których mowa w art. 33 ust. 1 pkt 2 lit. b-e,
+    - **b)** opłat sankcyjnych za niedokonanie wywozu bez refundacji skrobi ziemniaczanej wyprodukowanej w ilości przekraczającej przyznane kwoty produkcyjne,”,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) kwoty nienależnie zwolnionych przez Agencję zabezpieczeń wniesionych przez przedsiębiorców uczestniczących w obrocie z zagranicą towarami, o których mowa w art. 11 ust. 1 pkt 5,”,
+    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku towarów rolno-spożywczych, w zakresie określonym przepisami Unii Europejskiej, Prezes Agencji może odstąpić od dochodzenia od przedsiębiorcy uczestniczącego w obrocie towarami z zagranicą zwrotu nienależnie wypłaconych refundacji wywozowych, nienależnie zwolnionych zabezpieczeń oraz odsetek i kwot, o których mowa w art. 51 ust. 4 rozporządzenia Komisji (WE) nr 800/1999 z dnia 15 kwietnia 1999 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu refundacji wywozowych do produktów rolnych (Dz.Urz. WE L 102 z 17.04.1999, str. 11; Dz.Urz. Polskie wydanie specjalne, rozdz. 3, t. 25, str. 129), w przypadku gdy kwota zwrotu nie przekracza równowartości 100 euro przeliczonej na złote według średniego kursu euro ogłoszonego przez Narodowy Bank Polski na dzień stwierdzenia należności.”;
+
+- **7)** w art. 16 ust. 2 otrzymuje brzmienie: „2. Prezes Agencji jest organem właściwym do realizacji zadań określonych w krajowym programie wsparcia pszczelarstwa.”;
+- **8)** w art. 22 ust. 8 otrzymuje brzmienie: „8. Dane indywidualne zawarte w rejestrze mogą być udostępniane wyłącznie organom sprawującym nadzór nad Agencją oraz organom statystyki publicznej, natomiast dane zbiorcze mogą być udostępniane innym organom administracji publicznej prowadzącym systemy informacyjne.”;
+- **9)** w art. 27 w ust. 1 w pkt 2 lit. a otrzymuje brzmienie: „a) wydaje świadectwa autoryzacji zakładów odkostniających i chłodni, które będą świadczyć usługi przechowywania mięsa stanowiącego zapasy interwencyjne,”;
+- **10)** rozdziały 5 i 6 otrzymują brzmienie: „Rozdział 5 Rynek wina
+
 **Art. 28.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
 
+- **1)** przyjmuje zgłoszenia dotyczące wyrobu wina gronowego lub moszczu gronowego z winogron pochodzących z upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej, przeznaczonych do obrotu, oraz prowadzi ewidencję tych zgłoszeń;
+- **2)** przyjmuje deklaracje zbiorów, produkcji i zapasów oraz ilości produktów ubocznych powstałych przy wyrobie wina gronowego, dostarczonych do obowiązkowej destylacji, a także przeprowadza kontrole zgodności informacji zawartych w tych deklaracjach;
+- **3)** ustala krajową i regionalne rezerwy praw do sadzenia winorośli;
+- **4)** sporządza inwentaryzację potencjału produkcyjnego winorośli;
+- **5)** dokonuje podziału praw do sadzenia winorośli.
+
 **Art. 29.** W zakresie określonym przepisami Unii Europejskiej Prezes Agencji:
+
+- **1)** udziela pomocy:
+    - **a)** do prywatnego składowania win stołowych i moszczy gronowych,
+    - **b)** do wykorzystywania: – moszczu gronowego i zagęszczonego moszczu gronowego do wyrobu soku winogronowego lub wyrobu z tego soku innych produktów spożywczych, – zagęszczonego moszczu gronowego i rektyfikowanego zagęszczonego moszczu gronowego do podniesienia stężenia alkoholu w wyrobach winiarskich,
+    - **c)** do destylacji produktów ubocznych powstałych przy wyrobie wina oraz wina otrzymanego z winogron zebranych na terytorium Rzeczypospolitej Polskiej,
+    - **d)** z tytułu zaniechania uprawy winorośli,
+    - **e)** z tytułu restrukturyzacji i przekształcenia upraw winorośli;
+
+- **2)** zawiera umowy z producentami wina stołowego i moszczy gronowych na prywatne składowanie wina stołowego i moszczy gronowych;
+- **3)** prowadzi skup, przechowywanie i sprzedaż alkoholu pochodzącego z destylacji produktów ubocznych powstałych przy wyrobie wina lub destylacji wina otrzymanego z winogron zebranych na terytorium Rzeczypospolitej Polskiej;
+- **4)** zatwierdza umowy dostawy zawarte między podmiotami wyrabiającymi wino a podmiotami przeprowadzającymi destylację produktów ubocznych powstałych przy wyrobie wina lub destylacji wina otrzymanego z winogron zebranych na terytorium Rzeczypospolitej Polskiej oraz prowadzi działania związane z realizacją tych umów;
+- **5)** zatwierdza:
+    - **a)** umowy dostawy zawarte między podmiotami wyrabiającymi wino a zatwierdzonymi wytwórcami wzmocnionego wina,
+    - **b)** deklaracje dostawy, jeżeli podmioty wyrabiające wino są zatwierdzonymi wytwórcami wina wzmocnionego i wzmacniają je do destylacji;
+
+- **6)** przeprowadza działania w zakresie restrukturyzacji i przekształcania upraw winorośli oraz opracowuje i przedkłada do akceptacji ministrowi właściwemu do spraw rynków rolnych plany tej restrukturyzacji i przekształcania;
+- **7)** gromadzi i opracowuje informacje wymagane w zakresie sadzenia winorośli oraz wypłat środków finansowych za zaniechanie uprawy winorośli i przeprowadzanie destylacji oraz przedkłada je ministrowi właściwemu do spraw rynków rolnych.
 
 #### Rozdział 6 Rynek cukru
 
@@ -45,7 +117,8 @@ source: "isap-pdf"
 
 1. W zakresie określonym przepisami Unii Europejskiej, o których mowa w art. 30 ust. 1, minister właściwy do spraw rynków rolnych:
 
-- **1)** realizuje zadania związane z kwotowaniem produkcji cukru i izoglukozy; ochronnych;
+- **1)** realizuje zadania związane z kwotowaniem produkcji cukru i izoglukozy;
+- **2)** może wystąpić do Komisji Europejskiej o podjęcie środków ochronnych;
 - **3)** przekazuje Komisji Europejskiej informacje dotyczące rynku cukru oraz izoglukozy w zakresie zadań, o których mowa w pkt 1.
 
 2. Realizując zadania, o których mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w szczególności wydaje decyzje w sprawach:
@@ -70,7 +143,9 @@ source: "isap-pdf"
 
 8. Decyzje, o których mowa w ust. 2 pkt 3 i 4, powinny uwzględniać proporcjonalne interesy plantatorów buraka cukrowego.
 
-9. Decyzje, o których mowa w ust. 2 pkt 3 i 4, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych. uwzględniać proporcjonalnie interesy plantatorów buraka cukrowego.
+9. Decyzje, o których mowa w ust. 2 pkt 3 i 4, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+
+10. Zmiany umów kontraktacji, o których mowa w ust. 9, powinny uwzględniać proporcjonalnie interesy plantatorów buraka cukrowego.
 
 11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 5, mając na względzie konieczność uzyskania informacji dotyczących dotychczasowej produkcji cukru oraz produkcji izoglukozy przez danego producenta cukru i producenta izoglukozy.
 
@@ -92,7 +167,7 @@ source: "isap-pdf"
 
 **Art. 32.**
 
-1. Wykonywanie obowiązków określonych w przepisach Unii Europejskiej, o których mowa w art. 30 ust. 1, w tym przekazywanie informacji, składanie deklaracji, raportów, sprawozdań, wniotych przepisach.
+1. Wykonywanie obowiązków określonych w przepisach Unii Europejskiej, o których mowa w art. 30 ust. 1, w tym przekazywanie informacji, składanie deklaracji, raportów, sprawozdań, wniosków lub uiszczanie opłat, następuje w terminach ustalonych w tych przepisach.
 
 2. W zakresie nieuregulowanym w przepisach Unii Europejskiej, o których mowa w art. 30 ust. 1, minister właściwy do spraw rynków rolnych może, w drodze rozporządzenia, ustalić terminy przekazywania informacji, składania deklaracji, raportów, sprawozdań, wniosków lub uiszczania opłat, których obowiązek przekazywania, składania lub uiszczania wynika z tych przepisów, mając na względzie zapewnienie ochrony interesów podmiotów uczestniczących w mechanizmach na rynku cukru, a także sprawną realizację zadań związanych z obsługą administracyjną tych mechanizmów.
 
@@ -121,7 +196,9 @@ source: "isap-pdf"
 
 - **5)** przyznaje pomoc na rzecz dywersyfikacji i dodatkową pomoc na rzecz dywersyfikacji, zgodnie z krajowym programem restrukturyzacji;
 - **6)** udziela pomocy w zakresie prywatnego przechowywania cukru białego;
-- **7)** przekazuje właściwym organom Unii Europejskiej informacje i składa wnioski. pisy ustawy dotyczące czynności sprawdzających, chyba że przepisy Unii Europejskiej, o których mowa w art. 30 ust. 1, stanowią inaczej.
+- **7)** przekazuje właściwym organom Unii Europejskiej informacje i składa wnioski.
+
+2. Do kontroli, o których mowa w ust. 1 pkt 1 lit. d, stosuje się przepisy ustawy dotyczące czynności sprawdzających, chyba że przepisy Unii Europejskiej, o których mowa w art. 30 ust. 1, stanowią inaczej.
 
 3. Realizując zadania, o których mowa w ust. 1, Prezes Agencji:
 
@@ -148,8 +225,10 @@ source: "isap-pdf"
 
 2. Środki pochodzące z pobranych opłat i tymczasowej składki restrukturyzacyjnej, o których mowa w art. 33 ust. 1 pkt 2, Agencja przekazuje na rachunek bankowy urzędu obsługującego ministra właściwego do spraw rynków rolnych, w terminie 5 dni od dnia ich wpływu na rachunek bankowy Agencji.”;
 
-- **a)** ust. 1 otrzymuje brzmienie: „1. Producentowi rolnemu w rozumieniu przepisów o płatnościach bezpośrednich do gruntów rolnych, dostarczającemu producentowi skrobi ziemniaczanej, na podstawie umowy kontraktacji zawartej przez tego producenta rolnego albo grupę producentów rolnych, której jest członkiem, ziemniaki przeznaczone do produkcji skrobi ziemniaczanej, zawierające nie mniej niż 13% skrobi, zwane dalej „ziemniakami skrobiowymi”, przysługuje płatność za ilość skrobi zawartej w dostarczonych ziemniakach, wypłacana przez Agencję.”,
-- **b)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) umowa kontraktacji ziemniaków skrobiowych została zawarta z wnioskodawcą albo z grupą producentów rolnych, której jest członkiem, w ramach przyznanej temu producentowi kwoty produkcji skrobi;”;
+- **11)** w art. 38:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Producentowi rolnemu w rozumieniu przepisów o płatnościach bezpośrednich do gruntów rolnych, dostarczającemu producentowi skrobi ziemniaczanej, na podstawie umowy kontraktacji zawartej przez tego producenta rolnego albo grupę producentów rolnych, której jest członkiem, ziemniaki przeznaczone do produkcji skrobi ziemniaczanej, zawierające nie mniej niż 13% skrobi, zwane dalej „ziemniakami skrobiowymi”, przysługuje płatność za ilość skrobi zawartej w dostarczonych ziemniakach, wypłacana przez Agencję.”,
+    - **b)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) umowa kontraktacji ziemniaków skrobiowych została zawarta z wnioskodawcą albo z grupą producentów rolnych, której jest członkiem, w ramach przyznanej temu producentowi kwoty produkcji skrobi;”;
+
 - **12)** w art. 40a:
     - **a)** w ust. 1 pkt 1-3 otrzymują brzmienie: „1) przyjmuje kopie kontraktów zawieranych między wnioskodawcą a odbiorcą lub pierwszą jednostką przetwórczą, w rozumieniu rozporządzenia Komisji (WE) nr 1973/2004 z dnia 29 października 2004 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Komisji (WE) nr 1782/2003 w sprawie systemów wsparcia przewidzianych w tytułach IV i IVa tego rozporządzenia oraz wykorzystania gruntów zarezerwowanych do produkcji surowców (Dz. Urz. UE L 345 z
 
@@ -163,7 +242,8 @@ source: "isap-pdf"
 
 - **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
 - **2)** numer identyfikacji podatkowej (NIP) oraz numer identyfikacji w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) wnioskodawcy, jeżeli został nadany;
-- **3)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres drugiej strony kontraktu; oraz łączną powierzchnię wszystkich uprawianych gatunków będących przedmiotem kontraktu;
+- **3)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres drugiej strony kontraktu;
+- **4)** określenie ilości i gatunku każdego surowca objętego kontraktem oraz łączną powierzchnię wszystkich uprawianych gatunków będących przedmiotem kontraktu;
 - **5)** informację o przeznaczeniu towaru.”,
     - **c)** uchyla się ust. 4.
 
@@ -173,6 +253,18 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2006 r. Nr 171, poz. 1225) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 pkt 2 otrzymuje brzmienie: „2) wyroby określone w rozporządzeniu Rady (EWG) nr 1601/1991 z dnia 10 czerwca 1991 r. ustanawiającym ogólne zasady definicji, opisu i prezentacji win aromatyzowanych, aromatyzowanych napojów winopochodnych i aromatyzowanych koktajli winopodobnych (Dz.Urz. WE L 149 z 14.06.1991, str. 1; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 11, str. 286), zwanym dalej „rozporządzeniem nr 1601/1991”, oraz w rozporządzeniu Rady (WE) nr 1493/1999 z dnia 17 maja 1999 r. w sprawie wspólnej organizacji rynku wina (Dz.Urz. WE L 179 z 14.07.1999, str. 1, z późn. zm.; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 26, str. 25, z późn. zm.), zwanym dalej „rozporządzeniem nr 1493/1999”.”;
+- **2)** w art. 14:
+    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) spełniające wymagania określone w ustawie, rozporządzeniu nr 1601/1991 lub rozporządzeniu nr 1493/1999;”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) wyrobów winiarskich, o których mowa w art. 3 pkt 2, wyrobionych z przeznaczeniem wyłącznie na eksport, jeżeli wynika to z rozporządzenia nr 1601/1991 lub rozporządzenia nr 1493/1999.”;
+
+- **3)** art. 23 otrzymuje brzmienie: „Art. 23. Do wyrobu win gronowych używa się wyłącznie winogron zebranych z krzewów odmian winorośli:
+- **1)** wymienionych w załączniku;
+- **2)** sklasyfikowanych jako odmiany winorośli przeznaczone do wyrobu wina gronowego, co najmniej w jednym z państw członkowskich Unii Europejskiej, w sposób określony w art. 19 rozporządzenia Rady (WE) nr 1493/1999, jeżeli winorośle tych odmian zostały zasadzone przed dniem 1 sierpnia 2005 r.”;
+- **4)** w art. 24 dodaje się ust. 3 w brzmieniu: „3. Wyniki kontroli, o której mowa w ust. 1, wojewódzki inspektor ochrony roślin i nasiennictwa przekazuje Prezesowi Agencji Rynku Rolnego, zwanemu dalej „Prezesem Agencji”, w terminie do dnia 15 października każdego roku.”;
+- **5)** w art. 25 ust. 1 otrzymuje brzmienie: „1. W razie stwierdzenia prowadzenia uprawy odmian winorośli innych niż określone w art. 23 pkt 2 lub w załączniku wojewódzki inspektor ochrony roślin i nasiennictwa, właściwy ze względu na miejsce prowadzenia uprawy winorośli, wydaje decyzję w sprawie usunięcia z powierzchni uprawy tych odmian winorośli.”;
+- **6)** rozdział 4 otrzymuje brzmienie: „Rozdział 4 Organizacja rynku wina
+
 **Art. 26.**
 
 1. Podmioty wyrabiające wino gronowe lub moszcz gronowy z winogron pochodzących z upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej, przeznaczone do obrotu, dokonują zgłoszenia Prezesowi Agencji.
@@ -181,7 +273,8 @@ source: "isap-pdf"
 
 3. Zgłoszenie zawiera:
 
-- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres zgłaszającego, a w przypadku gdy zgłaszający nie posiada uprawy winorośli przeznaczonej do pozyskiwania winogron do wyrobu wina gronowego lub moszczu gronowego przeznaczonego do obrotu, również imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres właściciela uprawy winorośli; gronowego;
+- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres zgłaszającego, a w przypadku gdy zgłaszający nie posiada uprawy winorośli przeznaczonej do pozyskiwania winogron do wyrobu wina gronowego lub moszczu gronowego przeznaczonego do obrotu, również imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres właściciela uprawy winorośli;
+- **2)** określenie miejsca wyrobu wina gronowego lub moszczu gronowego;
 - **3)** informację o lokalizacji uprawy winorośli przeznaczonej do pozyskiwania winogron do wyrobu wina gronowego przeznaczonego do obrotu, zawierającą wskazanie:
     - **a)** województwa, powiatu i gminy,
     - **b)** nazwy oraz numeru obrębu ewidencyjnego,
@@ -202,11 +295,14 @@ source: "isap-pdf"
 
 **Art. 26a.** Prezes Agencji przekazuje informacje, o których mowa w art. 26 ust. 3:
 
+- **1)** pkt 1 i 2 – wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce zamieszkania lub siedzibę podmiotu wyrabiającego wino gronowe lub moszcz gronowy przeznaczone do obrotu, w terminie do dnia 15 sierpnia każdego roku;
+- **2)** pkt 1 i 3 – wojewódzkiemu inspektorowi ochrony roślin i nasiennictwa właściwemu ze względu na miejsce prowadzenia uprawy winorośli, w terminie do dnia 15 sierpnia każdego roku.
+
 **Art. 27.**
 
 1. Podmioty wyrabiające wino gronowe lub moszcz gronowy przeznaczone do obrotu składają Prezesowi Agencji informacje o:
 
-- **1)** szacunkowej ilości winogron zebranych na terytorium Rzeczypospolitej Polskiej, które zostaną wykorzystane do wyrobu wina gronowego, z podziałem na winogrona białe i czerwierzchni uprawy winorośli;
+- **1)** szacunkowej ilości winogron zebranych na terytorium Rzeczypospolitej Polskiej, które zostaną wykorzystane do wyrobu wina gronowego, z podziałem na winogrona białe i czerwone wraz z podaniem nazw odmian winorośli oraz powierzchni uprawy winorośli;
 - **2)** szacunkowej ilości i rodzajach win gronowych, które zostaną wyrobione z winogron, o których mowa w pkt 1, z podziałem na wina białe i czerwone;
 - **3)** ilości i rodzajach wprowadzonych do obrotu win gronowych w poprzednim roku gospodarczym, wyrobionych z winogron, moszczy gronowych lub win gronowych przywiezionych na terytorium Rzeczypospolitej Polskiej z innych państw członkowskich Unii Europejskiej, z podziałem na wina białe i czerwone oraz wskazaniem kraju ich pochodzenia.
 
@@ -232,7 +328,7 @@ source: "isap-pdf"
 
 1. Prezes Agencji:
 
-- **1)** niezwłocznie informuje wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zamieszkania lub siedzibę podmiotu wyne do obrotu o stwierdzonych przypadkach naruszenia zakazu, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1493/1999, w zakresie wyrobu produktów objętych wspólną organizacją rynku wina;
+- **1)** niezwłocznie informuje wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zamieszkania lub siedzibę podmiotu wyrabiającego wino gronowe lub moszcz gronowy przeznaczone do obrotu o stwierdzonych przypadkach naruszenia zakazu, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1493/1999, w zakresie wyrobu produktów objętych wspólną organizacją rynku wina;
 - **2)** opracowuje i przekazuje ministrowi właściwemu do spraw rynków rolnych zbiorcze zestawienie informacji, o których mowa w art. 26 ust. 3 oraz w art. 27 ust. 1 pkt 3, zawierające:
     - **a)** liczbę podmiotów wyrabiających wino gronowe lub moszcz gronowy przeznaczone do obrotu oraz łączną wielkość deklarowanych przez te podmioty upraw własnych winorośli,
     - **b)** liczbę podmiotów, o których mowa w lit. a, deklarujących nieposiadanie uprawy własnej winorośli,
@@ -251,7 +347,8 @@ source: "isap-pdf"
     - **d)** zatwierdzenia, o którym mowa w art. 42, art. 69 i art. 92 rozporządzenia nr 1623/2000;
 
 - **2)** cofa, w drodze decyzji, zatwierdzenie, o którym mowa w art. 42, art. 69 i art. 92 rozporządzenia nr 1623/2000;
-- **3)** wypłaca środki w ramach przyznanej pomocy lub premii oraz zaliczki na poczet pomocy; zaliczek i wniesionych wadiów na poczet przetargów.
+- **3)** wypłaca środki w ramach przyznanej pomocy lub premii oraz zaliczki na poczet pomocy;
+- **4)** przyjmuje i dokonuje zwrotu zabezpieczenia wypłaconych zaliczek i wniesionych wadiów na poczet przetargów.
 
 2. Wnioski w sprawach, o których mowa w ust. 1 pkt 1:
 
@@ -278,7 +375,7 @@ source: "isap-pdf"
 
 **Art. 28b.**
 
-1. Podmiot wyrabiający wino gronowe lub moszcz gronowy przeznaczone do obrotu dokonuje wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce zamieszkania lub siedzibę tego podmiotu zgłoszeń określonych w art. 25, art. 26 i art. 31 rozporządzenia Komisji (WE) nr 1622/2000 z dnia 24 lipca 2000 r. ustanania (WE) nr 1493/1999 w sprawie wspólnej organizacji rynku wina oraz wspólnotowy kodeks praktyk i procesów enologicznych (Dz.Urz. WE L 194 z 31.07.2000, str. 1; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 138, z późn. zm.), zwanego dalej „rozporządzeniem nr 1622/2000”.
+1. Podmiot wyrabiający wino gronowe lub moszcz gronowy przeznaczone do obrotu dokonuje wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce zamieszkania lub siedzibę tego podmiotu zgłoszeń określonych w art. 25, art. 26 i art. 31 rozporządzenia Komisji (WE) nr 1622/2000 z dnia 24 lipca 2000 r. ustanawiającego niektóre szczegółowe zasady wykonania rozporządzenia (WE) nr 1493/1999 w sprawie wspólnej organizacji rynku wina oraz wspólnotowy kodeks praktyk i procesów enologicznych (Dz.Urz. WE L 194 z 31.07.2000, str. 1; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 138, z późn. zm.), zwanego dalej „rozporządzeniem nr 1622/2000”.
 
 2. Zgłoszeń dokonuje się w terminach określonych w art. 26 i art. 31 rozporządzenia nr 1622/2000, a w przypadku zgłoszenia zabiegu wzbogacania, o którym mowa w art. 25 tego rozporządzenia – nie później niż na dwa dni robocze przed planowanym terminem rozpoczęcia tego zabiegu.
 
@@ -291,6 +388,16 @@ source: "isap-pdf"
 2. Zgłoszenia dokonuje się na formularzu opracowanym i udostępnianym przez Inspekcję Jakości Handlowej Artykułów RolnoSpożywczych.
 
 **Art. 28d.** Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych dokonuje kontroli:
+
+- **1)** dokumentów towarzyszących przewozowi produktów winiarskich pod względem ich zgodności z rozporządzeniem Komisji (WE) nr 883/2001 z dnia 24 kwietnia 2001 r. ustanawiającym szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1493/1999 w odniesieniu do handlu z państwami trzecimi produktami w sektorze wina (Dz.Urz. WE L 128 z
+
+10. 05.2001, str. 1; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 32, str. 172);
+
+- **2)** dokumentów towarzyszących przewozowi produktów winiarskich oraz prowadzonych rejestrów w sektorze wina pod względem ich zgodności z rozporządzeniem Komisji (WE) nr 884/2001 z dnia 24 kwietnia 2001 r. ustanawiającym szczegółowe zasady stosowania dotyczące dokumentów towarzyszących przewozowi produktów winiarskich oraz rejestrów prowadzonych w sektorze wina (Dz.Urz. WE L 128 z
+
+10. 05.2001, str. 32; Dz.Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 32, str. 202), zwanym dalej „rozporządzeniem nr 884/2001”;
+
+- **3)** przeprowadzania wycofywania przez podmiot wyrabiający wino gronowe lub moszcz gronowy produktów ubocznych powstałych przy wyrobie wina gronowego zgodnie z wymaganiami określonymi w art. 27 rozporządzenia nr 1493/1999.
 
 **Art. 28e.**
 
@@ -317,7 +424,7 @@ source: "isap-pdf"
 
 **Art. 28g.**
 
-1. Jeżeli średnia wielkość wyrobu wina gronowego, ustalona na podstawie informacji, o których mowa w art. 4 rozporządzenia nr 1282/2001, wyniesie po raz pierwszy w danym roku gospodarczym co najmniej 25 000 hektolitrów, minister właściwy do i sposób podziału prawa do sadzenia winorośli, mając na uwadze:
+1. Jeżeli średnia wielkość wyrobu wina gronowego, ustalona na podstawie informacji, o których mowa w art. 4 rozporządzenia nr 1282/2001, wyniesie po raz pierwszy w danym roku gospodarczym co najmniej 25 000 hektolitrów, minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, warunki i sposób podziału prawa do sadzenia winorośli, mając na uwadze:
 
 - **1)** przydzielenie określonej w hektarach wielkości uprawy winorośli, z której zebrane winogrona mogą być wykorzystane do wyrobu wina gronowego wprowadzanego do obrotu, w pierwszej kolejności, podmiotom, o których mowa w art. 16 ust. 3, a w następnej kolejności przedsiębiorcom wpisanym do rejestru;
 - **2)** aby przydzielona każdemu z podmiotów łączna wielkość powierzchni uprawy winorośli nie przekraczała ogólnej wielkości powierzchni upraw winorośli, z której zebrane winogrona zostały użyte do wyrobu wina gronowego, podanej w danym roku gospodarczym w informacji, o której mowa w art. 4 ust. 1 rozporządzenia nr 1282/2001, jednak nie więcej niż 10 hektarów.
@@ -332,12 +439,17 @@ source: "isap-pdf"
 - **5)** będąc do tego obowiązanym, nie składa w terminie deklaracji, o których mowa w art. 27a ust. 1, albo podaje w nich informacje niezgodnie ze stanem faktycznym,
 - **6)** utrudnia lub uniemożliwia przeprowadzenie kontroli, o której mowa w art. 28d pkt 1 i 2,
 - **7)** będąc do tego obowiązanym, nie prowadzi rejestru, zgodnie z wymaganiami określonymi w art. 11-16 rozporządzenia nr 884/2001, lub dokonuje w tym rejestrze wpisów niezgodnych ze stanem faktycznym,
-- **8)** dokonując przewozu produktów winiarskich, nie wypełnia obowiązków dotyczących dokumentów towarzyszących rządzenia nr 884/2001 lub dokonuje w tych dokumentach wpisów niezgodnych ze stanem faktycznym,
+- **8)** dokonując przewozu produktów winiarskich, nie wypełnia obowiązków dotyczących dokumentów towarzyszących przewozowi tych produktów określonych w art. 3-10 rozporządzenia nr 884/2001 lub dokonuje w tych dokumentach wpisów niezgodnych ze stanem faktycznym,
 - **9)** nie wycofuje produktów ubocznych powstałych przy wyrobie wina, o których mowa w art. 27 ust. 7 rozporządzenia nr 1493/1999,
 - **10)** po dokonaniu podziału prawa do sadzenia winorośli wprowadza do obrotu wino gronowe wyrobione z winogron zebranych z upraw winorośli nieobjętych tym prawem – podlega grzywnie.”;
 - **8)** dodaje się załącznik w brzmieniu określonym w załączniku do niniejszej ustawy.
 
 **Art. 5.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2005 r. Nr 244, poz. 2081 oraz z 2006 r. Nr 50, poz. 363) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. W przypadku, o którym mowa w art. 155 Kodeksu postępowania administracyjnego, Prezes Agencji lub dyrektor oddziału terenowego Agencji może uchylić lub zmienić decyzję ostateczną, na mocy której strona nabyła prawo, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw.”;
+- **2)** w art. 36:
+    - **a)** w ust. 3 pkt 3 otrzymuje brzmienie: „3) jest obowiązany do wniesienia podmiotowi skupującemu dopłaty stanowiącej różnicę między wysokością należnej opłaty a sumą wpłaconych zaliczek najpóźniej do dnia, w którym podmiot skupujący jest obowiązany do wniesienia dopłat wraz z wpłaconymi zaliczkami na rachunek bankowy właściwego miejscowo oddziału terenowego Agencji.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Dopłatę, o której mowa w ust. 5, wraz z wpłaconymi zaliczkami, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie do dnia 31 sierpnia, chyba że przepisy Unii Europejskiej stanowią inaczej.”.
 
 **Art. 6.** Dla roku gospodarczego 2006/2007 zgłoszenia, o którym mowa w art. 26 ust. 1 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą, dokonuje się w ciągu 14 dni od dnia wejścia w życie niniejszej ustawy.
 
@@ -365,7 +477,9 @@ source: "isap-pdf"
 
 1. Agencja Rynku Rolnego pobiera opłaty sankcyjne z tytułu niewywiezienia w terminie cukru C wyprodukowanego w roku gospodarczym 2005/2006 oraz opłaty sankcyjne z tytułu wprowadzenia na rynek wewnętrzny ilości cukru przeniesionej z roku gospodarczego 2005/2006 na rok gospodarczy 2006/2007.
 
-2. Prezes Agencji Rynku Rolnego, zwany dalej „Prezesem Agencji”, ustala, w drodze decyzji administracyjnej, kwoty nieuiszczonych należności z tytułu opłat sankcyjnych, o których mowa w ust. 1. III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+2. Prezes Agencji Rynku Rolnego, zwany dalej „Prezesem Agencji”, ustala, w drodze decyzji administracyjnej, kwoty nieuiszczonych należności z tytułu opłat sankcyjnych, o których mowa w ust. 1.
+
+3. Do należności, o których mowa w ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
 
 4. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 3, przysługują:
 
@@ -389,7 +503,7 @@ source: "isap-pdf"
 
 - **2)** przetworzenie w celach spożywczych lub niespożywczych jaj wylęgowych kur mięsnych lub kur nieśnych zgodnie z art. 2 ust. 1 rozporządzenia nr 1010/2006 i na warunkach określonych w tym przepisie;
 - **3)** ubój kur mięsnych przed upływem 58. tygodnia ich życia zgodnie z art. 4 ust. 1 rozporządzenia nr 1010/2006;
-- **4)** nieprzetrzymywanie, zgodnie z art. 5 ust. 1 rozporządzenia nr 1010/2006, żadnych ptaków w pomieszczeniach inwentarskich przeznaczonych do utrzymywania brojlerów kurzych lub indyków rzeźnych, przez okres dłużków.
+- **4)** nieprzetrzymywanie, zgodnie z art. 5 ust. 1 rozporządzenia nr 1010/2006, żadnych ptaków w pomieszczeniach inwentarskich przeznaczonych do utrzymywania brojlerów kurzych lub indyków rzeźnych, przez okres dłuższy niż 3 tygodnie poprzedzający wprowadzenie do tych pomieszczeń ptaków.
 
 **Art. 14.**
 
@@ -420,7 +534,91 @@ source: "isap-pdf"
 
 1. Rada Ministrów określi, w drodze rozporządzenia, stawki pomocy, mając na względzie wysokość maksymalnych stawek pomocy obowiązujących Rzeczpospolitą Polską oraz wskazania dotyczące sposobu jej naliczania określone w rozporządzeniu nr 1010/2006.
 
-2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki, sposób lub tryb udzielania pomocy, w tym sposób dokonywania proporcjonalnej redukcji ilości i wielkości, do których przysługuje pomoc, wykaz dokumentów potwierdzających spełnienie warunków niezbędnych laniem pomocy, mając na względzie zapewnienie otrzymania pomocy przez uprawnione podmioty oraz konieczność wypłaty tej pomocy w terminach obowiązujących Rzeczpospolitą Polską.
+2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki, sposób lub tryb udzielania pomocy, w tym sposób dokonywania proporcjonalnej redukcji ilości i wielkości, do których przysługuje pomoc, wykaz dokumentów potwierdzających spełnienie warunków niezbędnych do udzielenia pomocy oraz termin wykonywania czynności związanych z udzielaniem pomocy, mając na względzie zapewnienie otrzymania pomocy przez uprawnione podmioty oraz konieczność wypłaty tej pomocy w terminach obowiązujących Rzeczpospolitą Polską.
 
-**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5 i art. 13-15, które wchodzą w życie z dniem ogłoszenia. z dnia 18 października 2006 r. (poz. 1541) ODMIANY WINOROŚLI PRZEZNACZONE DO UPRAWY W CELU POZYSKIWANIA WINOGRON DO WYROBU WIN GRONOWYCH 1. Odmiany winorośli o owocach jasnych:
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5 i art. 13-15, które wchodzą w życie z dniem ogłoszenia. Załącznik do ustawy z dnia 18 października 2006 r. (poz. 1541) ODMIANY WINOROŚLI PRZEZNACZONE DO UPRAWY W CELU POZYSKIWANIA WINOGRON DO WYROBU WIN GRONOWYCH 1. Odmiany winorośli o owocach jasnych:
+
+- **1)** Aurora;
+- **2)** Auxerrois;
+- **3)** Bacchus;
+- **4)** Bianca;
+- **5)** Chardonnay;
+- **6)** Chasselas;
+- **7)** Csaba Győngye;
+- **8)** Cserszegi Füszeres;
+- **9)** Devin;
+- **10)** Elbling;
+- **11)** Hibernal;
+- **12)** Kerner;
+- **13)** Merzling;
+- **14)** Milia;
+- **15)** Muscat Blanc;
+- **16)** Muscat Ottonel;
+- **17)** Müller Thurgau;
+- **18)** Opitma;
+- **19)** Orion;
+- **20)** Ortega;
+- **21)** Perła Alzaley;
+- **22)** Phoenix;
+- **23)** Pinot Blanc;
+- **24)** Ravat Blanc;
+- **25)** Reform;
+- **26)** Riesling;
+- **27)** Sauvignon Blanc;
+- **28)** Scheurebe;
+- **29)** Serena;
+- **30)** Seyval;
+- **31)** Sibera;
+- **32)** Sylvaner;
+- **33)** Traminer;
+- **34)** Veltliner;
+- **35)** Victoria Győngye;
+- **36)** Vidal Blanc;
+- **37)** Vignoles;
+- **38)** Zala Győngye;
+- **39)** Zenit.
+
+2. Odmiany winorośli o owocach różowych lub czerwonych:
+
+- **1)** Fr 868-59, synonim Freiminer;
+- **2)** Kernling;
+- **3)** Pinot Gris;
+- **4)** Siegerrebe;
+- **5)** Traminer.
+
+3. Odmiany winorośli o owocach ciemnych:
+
+- **1)** Alcon;
+- **2)** Agni;
+- **3)** Baco Noir;
+- **4)** Cabernet Cubin;
+- **5)** Cabernet Dorio;
+- **6)** Cabernet Dorsa;
+- **7)** Cabernet Mitos;
+- **8)** Cabernet Sauvignon;
+- **9)** Cascade;
+- **10)** Chambourcin;
+- **11)** De Chaunac;
+- **12)** Domina;
+- **13)** Dornfelder;
+- **14)** Dunaj;
+- **15)** Frankovka, synonim Limberger;
+- **16)** Frühburgunder, synonim Pinot Noir Precoce;
+- **17)** Frücher Roter Malvasier, synonim Wetlińska Czerwona Wczesna;
+- **18)** Landot;
+- **19)** Leon Millot;
+- **20)** Madeleine Sylvaner;
+- **21)** Marechal Foch;
+- **22)** Medina;
+- **23)** Merlot;
+- **24)** Oporto, synonim Portugalska Niebieska;
+- **25)** Pinot Noir;
+- **26)** Pinot Meunier;
+- **27)** Phoenix;
+- **28)** Regent;
+- **29)** Rondo;
+- **30)** Svatovavřinecke, synonim Saint Laurent;
+- **31)** Turan;
+- **32)** Zweigelt.
+
 

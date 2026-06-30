@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-23T06:16:56Z",
+  "generated_at": "2026-06-30T20:11:17Z",
   "acts": {
     "published": 19261,
     "rejected": 415,
-    "total_in_db": 19455
+    "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 587727534,
-    "total_articles": 214266,
-    "avg_body_chars": 30513,
-    "avg_articles": 11.1
+    "total_body_chars": 590191554,
+    "total_articles": 215857,
+    "avg_body_chars": 30641,
+    "avg_articles": 11.2
   },
   "sources": {
-    "pdf": 18989,
+    "pdf": 19013,
     "eli-html": 243,
-    "unknown": 29
+    "unknown": 5
   },
   "act_types": {
     "Rozporządzenie": 10326,
@@ -34,11 +34,12 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11792,
+    "obowiązujący": 11747,
     "akt objęty tekstem jednolitym": 5064,
     "akt posiada tekst jednolity": 1888,
     "nieobowiązujący - uchylona podstawa prawna": 514,
-    "wygaśnięcie aktu": 3
+    "wygaśnięcie aktu": 38,
+    "akt jednorazowy": 10
   },
   "domains": {
     "inne": 18375,
@@ -60,11 +61,11 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 706,
+    "quality_gate_blocked": 690,
     "original_pdf_for_unified_skipped": 4943,
-    "consolidated_article_coverage_checked": 620,
-    "consolidated_article_coverage_with_gaps": 431,
-    "consolidated_article_coverage_unexplained_gaps": 14072,
+    "consolidated_article_coverage_checked": 650,
+    "consolidated_article_coverage_with_gaps": 442,
+    "consolidated_article_coverage_unexplained_gaps": 14980,
     "rejected_scans": 1,
     "rejected_other": 414
   }

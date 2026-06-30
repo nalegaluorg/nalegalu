@@ -6,12 +6,12 @@ publisher: DU
 year: 2026
 pos: 567
 act_type: Ustawa
-status: obowiązujący
+status: akt jednorazowy
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 19 września 2025 r.
+# Ustawa z dnia 13 marca 2026 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 19 września 2025 r.
 
 *USTAWA z dnia 13 marca 2026 r.*
 
@@ -20,11 +20,12 @@ source: "isap-pdf"
 | Adres publikacyjny | Dz.U. 2026 poz. 567 |
 | ISAP | WDU20260000567 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt jednorazowy |
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-04-27 |
-| Ostatnia zmiana | 2026-05-04 |
+| Wejście w życie | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/567/text.pdf) |
 
 **Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 19 września 2025 r.

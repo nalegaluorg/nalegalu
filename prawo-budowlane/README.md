@@ -14,7 +14,7 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU20250001543](WDU20250001543/index.md) | Ustawa z dnia 26 września 2025 r. zmieniająca ustawę o zmianie ustawy o pla | Ustawa | obowiązujący |  |
 | [WDU20250000527](WDU20250000527/index.md) | Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy o planowaniu i zagospodar | Ustawa | obowiązujący |  |
 | [WDU20240001824](WDU20240001824/index.md) | Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy - Prawo geodezyjne i ka | Ustawa | obowiązujący |  |
-| [WDU20240001130](WDU20240001130/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2 | Obwieszczenie | obowiązujący |  |
+| [WDU20240001130](WDU20240001130/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 czerwca 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001688](WDU20230001688/index.md) | Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowa | Ustawa | obowiązujący |  |
 | [WDU20230000967](WDU20230000967/index.md) | Ustawa z dnia 9 maja 2023 r. o zmianie ustawy o gospodarowaniu nieruchomośc | Ustawa | obowiązujący |  |
 | [WDU20220002747](WDU20220002747/index.md) | Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o planowaniu i zagospod | Ustawa | akt objęty tekstem jednolitym |  |
