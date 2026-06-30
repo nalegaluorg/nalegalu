@@ -8,10 +8,10 @@ pos: 127
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o produktach pochodzenia zwierzęcego
+# Ustawa z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego
 
 *USTAWA z dnia 16 grudnia 2005 r.*
 
@@ -51,9 +51,21 @@ source: "isap-pdf"
 
 **Art. 3.** Sposób postępowania z produktami ubocznymi pochodzenia zwierzęcego, powstającymi przy produkcji produktów pochodzenia zwierzęcego, jest określony w przepisach:
 
+- **1)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) oraz przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia;
+- **2)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001 z dnia 22 maja 2001 r. ustanawiającego zasady dotyczące zapobiegania, kontroli i zwalczania niektórych przenośnych gąbczastych encefalopatii (Dz. Urz. WE L 147 z 31.05.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 32, str. 289), zwanego dalej „rozporządzeniem nr 999/2001”.
+
 **Art. 4.** Do postępowania w sprawach indywidualnych rozstrzyganych w drodze decyzji administracyjnej stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że prawodawstwo weterynaryjne, w rozumieniu art. 2 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629 i 2727 oraz z 2023 r. poz. 412 i 588), stanowi inaczej.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** produkcja – co najmniej jedną z następujących czynności: pozyskiwanie, chów, wytwarzanie, oczyszczanie, rozbiór, przetwarzanie, pakowanie, przepakowywanie, przechowywanie lub transport;
+- **1a)** produkcja mięsa przeznaczonego na użytek własny – pozyskiwanie poza rzeźnią mięsa utrzymywanych w gospodarstwie cieląt do dwunastego miesiąca życia, świń, owiec, kóz, drobiu, zajęczaków oraz zwierząt dzikich utrzymywanych w warunkach fermowych albo pozyskiwanie w wyniku odstrzału mięsa zwierząt łownych, przeznaczonego na własne potrzeby;
+- **2)** produkty pochodzenia zwierzęcego – produkty pochodzenia zwierzęcego określone w rozporządzeniu nr 853/2004 w załączniku I w ust. 8.1;
+- **3)** wprowadzanie na rynek – wprowadzanie na rynek w rozumieniu art. 3 ust. 8 rozporządzenia nr 178/2002;
+- **4)** sprzedaż bezpośrednia – działalność, o której mowa w art. 1 ust. 3 lit. c–e rozporządzenia nr 853/2004;
+- **5)** produkty pochodzenia zwierzęcego o tradycyjnym charakterze – produkty rolne i środki spożywcze, o których mowa w przepisach krajowych lub przepisach Unii Europejskiej dotyczących oznaczeń geograficznych, nazw pochodzenia lub gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, lub produkty rolne i środki spożywcze umieszczone na liście produktów tradycyjnych, prowadzonej przez ministra właściwego do spraw rynków rolnych;
+- **6)** rolniczy handel detaliczny – rolniczy handel detaliczny w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132 oraz z 2023 r. poz. 588);
+- **7)** zakład – przedsiębiorstwo w rozumieniu art. 2 ust. 1 lit. c rozporządzenia nr 852/2004.
 
 **Art. 6.**
 
@@ -91,9 +103,18 @@ source: "isap-pdf"
 
 **Art. 8.** Minister właściwy do spraw rolnictwa, w przypadku gdy z przepisów Unii Europejskiej wydanych w trybie art. 14 ust. 2 rozporządzenia nr 852/2004, art. 12 ust. 2 rozporządzenia nr 853/2004, art. 144 lub art. 145 rozporządzenia 2017/625 wynika obowiązek podjęcia lub wykonania przez państwo członkowskie Unii Europejskiej, właściwy organ, urzędowego lekarza weterynarii lub osoby niebędące urzędowymi lekarzami weterynarii określonych zadań lub czynności w zakresie higieny lub kontroli urzędowych i innych czynności urzędowych w odniesieniu do produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, określi, w drodze rozporządzenia:
 
+- **1)** rodzaje zadań lub czynności określonych w tych przepisach, wykonywanych przez organy Inspekcji Weterynaryjnej, urzędowych lekarzy weterynarii lub osoby niebędące urzędowymi lekarzami weterynarii, lub sposób wykonywania tych zadań lub czynności lub
+- **2)** szczegółowe wymagania dotyczące higieny lub kontroli urzędowych i innych czynności urzędowych w odniesieniu do produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w zakresie przekazanym do uregulowania przez Rzeczpospolitą Polską lub państwa członkowskie Unii Europejskiej – mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa żywności oraz skutecznej kontroli tej żywności, a także zapobieżenie zagrożeniom dla zdrowia publicznego wynikającym z produkcji lub wprowadzania na rynek żywności oraz ograniczanie lub eliminowanie tych zagrożeń.
+
 **Art. 8a.** Do postępowania w sprawach:
 
+- **1)** o których mowa w art. 19–21a,
+- **2)** dotyczących uchylenia, zmiany lub stwierdzenia nieważności decyzji wydanej na podstawie art. 19–21a oraz w sprawach wznowienia postępowania zakończonego wydaniem takiej decyzji – nie stosuje się przepisów art. 32 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221 i 641).
+
 **Art. 8b.** Minister właściwy do spraw rolnictwa, w przypadku gdy z przepisów Unii Europejskiej wydanych w trybie art. 14 ust. 2 rozporządzenia nr 852/2004, art. 12 ust. 2 rozporządzenia nr 853/2004 lub art. 144 lub art. 145 rozporządzenia 2017/625 wynika możliwość podjęcia lub wykonania przez państwo członkowskie Unii Europejskiej, właściwy organ, urzędowego lekarza weterynarii lub osoby niebędące urzędowymi lekarzami weterynarii określonych zadań lub czynności w zakresie higieny lub kontroli urzędowych i innych czynności urzędowych w odniesieniu do produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, może określić, w drodze rozporządzenia:
+
+- **1)** rodzaje zadań lub czynności określonych w tych przepisach, wykonywanych przez organy Inspekcji Weterynaryjnej, urzędowych lekarzy weterynarii lub osoby niebędące urzędowymi lekarzami weterynarii, lub sposób wykonywania tych zadań lub czynności lub
+- **2)** szczegółowe wymagania dotyczące higieny lub kontroli urzędowych i innych czynności urzędowych w odniesieniu do produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w zakresie, w jakim dopuszcza się możliwość wprowadzenia regulacji przez państwo członkowskie Unii Europejskiej – mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa żywności oraz skutecznej kontroli tej żywności, a także zapobieżenie zagrożeniom dla zdrowia publicznego wynikającym z produkcji lub wprowadzania na rynek żywności oraz ograniczanie lub eliminowanie tych zagrożeń.
 
 **Art. 9.**
 
@@ -230,7 +251,7 @@ source: "isap-pdf"
 - **2)** substancji farmakologicznie czynnych dopuszczonych jako weterynaryjne produkty lecznicze lub jako dodatki paszowe do stosowania u zwierząt, z których lub od których pozyskuje się żywność;
 - **3)** substancji zanieczyszczających wymienionych w załączniku I do rozporządzenia Komisji (UE) 2023/915 z dnia 25 kwietnia 2023 r. w sprawie najwyższych dopuszczalnych poziomów niektórych zanieczyszczeń w żywności oraz uchylającego rozporządzenie (WE) nr 1881/2006 (Dz. Urz. UE L 119 z 05.05.2023, str. 103, z późn. zm. ) i w załączniku do rozporządzenia Komisji (WE) nr 124/2009 z dnia 10 lutego 2009 r. ustalającego maksymalne zawartości w żywności kokcydiostatyków i histomonostatyków pochodzących z nieuniknionego zanieczyszczenia krzyżowego tymi substancjami pasz, dla których nie są one przeznaczone (Dz. Urz. UE L 40 z 11.02.2009, str. 7, z późn. zm. );
 - **4)** pestycydów;
-- **5)** skażeń promieniotwórczych.>
+- **5)** skażeń promieniotwórczych.
 
 4. Za zwierzęta poddane ubojowi w rzeźni, w których tkankach lub narządach stwierdzono obecność substancji określonych w ust. 3 lub pozostałości produktów leczniczych w ilościach przekraczających dopuszczalne poziomy, określone na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 470/2009 z dnia 6 maja 2009 r. ustanawiającego wspólnotowe procedury określania maksymalnych limitów pozostałości substancji farmakologicznie czynnych w środkach spożywczych pochodzenia zwierzęcego oraz uchylającego rozporządzenie Rady (EWG) nr 2377/90 oraz zmieniającego dyrektywę 2001/82/WE Parlamentu Europejskiego i Rady i rozporządzenie (WE) nr 726/2004 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 152 z 16.06.2009, str. 11), nie przysługuje odszkodowanie.
 
@@ -252,6 +273,12 @@ source: "isap-pdf"
 **Art. 17a.** Dopuszcza się wysyłanie produktów, o których mowa w ust. 10.1 załącznika V do rozporządzenia nr 999/2001, zgodnie z tym przepisem.
 
 **Art. 17b.** Główny Lekarz Weterynarii jest organem właściwym w sprawach:
+
+- **1)** uznania za przedział w rozumieniu art. 1 pkt 3 rozporządzenia 2015/1375 gospodarstw stosujących kontrolowane warunki w pomieszczeniach inwentarskich – jeżeli są spełnione warunki określone w załączniku IV do rozporządzenia 2015/1375;
+- **2)** usunięcia gospodarstwa z przedziału w rozumieniu art. 1 pkt 3 rozporządzenia 2015/1375 – w przypadku, o którym mowa w art. 12 ust. 4 rozporządzenia 2015/1375;
+- **3)** powiadamiania Komisji Europejskiej i pozostałych państw członkowskich Unii Europejskiej o stosowaniu na terytorium Rzeczypospolitej Polskiej odstępstwa, o którym mowa w art. 3 ust. 3 rozporządzenia 2015/1375;
+- **4)** przedkładania Komisji Europejskiej rocznego sprawozdania, o którym mowa w art. 3 ust. 4 rozporządzenia 2015/1375;
+- **5)** informowania Komisji Europejskiej i pozostałych państw członkowskich Unii Europejskiej o uzyskaniu dodatniego wyniku badania na obecność włośni u świni pochodzącej z gospodarstwa urzędowo uznanego za gospodarstwo stosujące kontrolowane warunki w pomieszczeniach inwentarskich zgodnie z art. 12 ust. 2 lit. e rozporządzenia 2015/1375.
 
 **Art. 18.**
 
@@ -663,9 +690,14 @@ source: "isap-pdf"
 
 **Art. 29.** Egzekucja wymierzonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii. Art. 31–35. (pominięte)
+**Art. 30.** Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy powiatowego inspektoratu weterynarii.
+
+**Art. 31–35.** (pominięte)
 
 **Art. 36.** Ilekroć w przepisach w zakresie weterynarii wdrażających lub wykonujących przepisy Unii Europejskiej lub w ustawach dotyczących zdrowia zwierząt, wymagań weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz stosowania substancji o działaniu hormonalnym, tyreostatycznym i beta-agonistycznym, a także dotyczących zdrowia lub życia człowieka jest mowa o:
+
+- **1)** umieszczaniu na rynku w odniesieniu do produktów pochodzenia zwierzęcego – należy przez to rozumieć wprowadzanie na rynek, o którym mowa w art. 5 pkt 3;
+- **2)** wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego – należy przez to rozumieć wymagania określone w rozporządzeniu nr 852/2004 i rozporządzeniu nr 853/2004 lub przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń, lub przepisach wykonawczych wydanych na podstawie art. 5 ust. 2 ustawy, o której mowa w art. 41, utrzymanych w mocy na podstawie art. 38 ust. 3, lub wymagania, jakie powinny spełniać produkty pochodzenia zwierzęcego wprowadzane na rynek określone w niniejszej ustawie, lub wymagania weterynaryjne określone w przepisach wydanych na jej podstawie.
 
 **Art. 37.**
 

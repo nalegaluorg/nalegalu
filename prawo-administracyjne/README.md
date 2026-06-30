@@ -13,8 +13,8 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU20250001684](WDU20250001684/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001436](WDU20250001436/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy o samorządzie gminnym or | Ustawa | obowiązujący |  |
 | [WDU20250001427](WDU20250001427/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Prawo o postępowaniu p | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20250001153](WDU20250001153/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 sierpnia 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000581](WDU20250000581/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
+| [WDU20250001153](WDU20250001153/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 sierpnia 2 | Obwieszczenie | wygaśnięcie aktu |  |
+| [WDU20250000581](WDU20250000581/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240000721](WDU20240000721/index.md) | Ustawa z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym or | Ustawa | obowiązujący |  |
 | [WDU20230001463](WDU20230001463/index.md) | Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustaw | Ustawa | obowiązujący |  |
 | [WDU20230000572](WDU20230000572/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o samorządzie gminnym, ustaw | Ustawa | obowiązujący |  |

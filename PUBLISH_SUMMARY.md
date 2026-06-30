@@ -1,19 +1,19 @@
 # Publish Summary
 
-Generated: 2026-06-23 06:17 UTC
+Generated: 2026-06-30 20:11 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 19261 |
-| Updated/new | 8 |
-| Unchanged | 13367 |
+| Updated/new | 66 |
+| Unchanged | 13414 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 5141 |
-| Blocked by quality gate | 706 |
+| Skipped regressions | 5145 |
+| Blocked by quality gate | 690 |
 | Rejected (total incl. errors) | 415 |
-| Total in DB | 19455 |
+| Total in DB | 19676 |
 
 ## Changes vs previous publish
 
@@ -21,18 +21,19 @@ Generated: 2026-06-23 06:17 UTC
 |--------|----------|---------|-------|
 | Published | 19261 | 19261 | 0 |
 | Rejected | 415 | 415 | 0 |
-| Articles | 214266 | 214266 | 0 |
-| Body chars | 587,723,466 | 587,727,534 | +4068 |
+| Articles | 214266 | 215857 | +1591 |
+| Body chars | 587,727,534 | 590,191,554 | +2464020 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
 | character-spaced | 246 |
-| pipeline error | 207 |
+| pipeline error | 184 |
 | repetition | 117 |
 | article structure | 78 |
 | CID font | 71 |
+| round-trip | 7 |
 | PostScript CE | 5 |
 | other | 2 |
 | missing diacritics | 1 |
@@ -43,9 +44,9 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Metric | Count |
 |--------|------:|
-| Checked candidates | 620 |
-| Candidates with unexplained gaps | 431 |
-| Unexplained numeric article gaps | 14072 |
+| Checked candidates | 650 |
+| Candidates with unexplained gaps | 442 |
+| Unexplained numeric article gaps | 14980 |
 
 | Address | Highest Art. | Gap count | Sample gaps | Title |
 |---------|-------------:|----------:|-------------|-------|
@@ -55,8 +56,11 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 | WDU20180000398 | 694 | 637 | 56-602, 604-693 | Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o Kr… |
 | WDU20111060622 | 584 | 478 | 106-583 | Ustawa z dnia 25 marca 2011 r. o ograniczaniu barier ad… |
 | WDU20190001495 | 556 | 468 | 87-478, 480-555 | Ustawa z dnia 31 lipca 2019 r. o zmianie niektórych ust… |
+| WDU20190002217 | 402 | 351 | 47-90, 93-94, 96-103, 105-401 | Ustawa z dnia 16 października 2019 r. o zmianie ustawy … |
 | WDU20130001247 | 377 | 316 | 57-79, 81-235, 237-334, 336-349, 351-376 | Ustawa z dnia 27 września 2013 r. o zmianie ustawy - Ko… |
 | WDU20150001607 | 305 | 250 | 22, 55-68, 70-304 | Ustawa z dnia 10 września 2015 r. o zmianie ustawy o ud… |
+| WDU20021691387 | 292 | 240 | 31-71, 82-280 | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Or… |
+| WDU19960240110 | 304 | 210 | 41, 44-60, 62, 64-76, 78-91, 93-100, 102-103, 105-128 | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodek… |
 | WDU20220001933 | 264 | 198 | 63-116, 118-221, 223-262 | Ustawa z dnia 22 lipca 2022 r. o zmianie ustawy o Służb… |
 | WDU20101821228 | 191 | 107 | 74-180 | Ustawa z dnia 5 sierpnia 2010 r. o ochronie informacji … |
 | WDU20250001209 | 191 | 107 | 74-180 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
@@ -66,9 +70,6 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 | WDU20250000614 | 546 | 99 | 44-50, 138-143, 180-184, 267-305, 492-521, 524-535 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
 | WDU20010620627 | 442 | 89 | 19-70, 97-100, 230-236, 394-399, 422-441 | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowi… |
 | WDU20250000647 | 442 | 89 | 19-70, 97-100, 230-236, 394-399, 422-441 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
-| WDU20060790551 | 138 | 86 | 6-53, 61-98 | Ustawa z dnia 7 kwietnia 2006 r. o zmianie ustawy - Pra… |
-| WDU20200002320 | 166 | 86 | 61-146 | Ustawa z dnia 18 listopada 2020 r. o doręczeniach elekt… |
-| WDU20260000003 | 166 | 86 | 61-146 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
 
 ## Public act type breakdown
 
@@ -94,11 +95,12 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 11792 |
+| obowiązujący | 11747 |
 | akt objęty tekstem jednolitym | 5064 |
 | akt posiada tekst jednolity | 1888 |
 | nieobowiązujący - uchylona podstawa prawna | 514 |
-| wygaśnięcie aktu | 3 |
+| wygaśnięcie aktu | 38 |
+| akt jednorazowy | 10 |
 
 ## Public domain breakdown
 
@@ -129,8 +131,8 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Value | Count |
 |-------|------:|
 | O | 12414 |
-| T | 5196 |
-| U | 1598 |
+| T | 5234 |
+| U | 1653 |
 | unknown | 14 |
 
 ## Unified text candidate PDF type breakdown
@@ -139,7 +141,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | O | 5047 |
 | T | 1190 |
-| U | 838 |
+| U | 842 |
 | unknown | 3 |
 
 ## Source downgrade skips
@@ -148,7 +150,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | Original PDF candidate for unified act | 4943 |
 
-## Blocked acts (706)
+## Blocked acts (690)
 
 | Address | Issues |
 |---------|--------|
@@ -171,7 +173,9 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19600510297 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19640090060 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19640150086 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19640160093 | rendered round-trip failed: AST=1296 rendered=1296 missing_rendered=170 extra_rendered=170 FAIL; missing rendered articles: 1 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ I Przepisy wstępne, 10 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ II Osoby > DZIAŁ I Osoby fizyczne > Rozdział I Zdolność prawna i zdolność do czynności prawnych, 100 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 101 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 102 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 103 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 104 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 105 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 106 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 107 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo ... |
 | WDU19640160094 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19640430296 | rendered round-trip failed: AST=2022 rendered=2022 missing_rendered=625 extra_rendered=625 FAIL; missing rendered articles: 1000 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1001 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1002 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1003 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1004 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1005 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1006 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1007 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1008 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1009 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego ... |
 | WDU19640430297 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19690210151 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19710120115 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -181,6 +185,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19740240142 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110081 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19820300210 | rendered round-trip failed: AST=249 rendered=249 missing_rendered=231 extra_rendered=231 FAIL; missing rendered articles: 1 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ I Spółdzielnia i jej statut, 10 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ II Tryb zakładania i rejestrowania spółdzielni, 100 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ IX Łączenie się spółdzielni, 101 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ IX Łączenie się spółdzielni, 102 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ IX Łączenie się spółdzielni, 108 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ XI Podział spółdzielni, 108a @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ XI Podział spółdzielni, 108b @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ XI Podział spółdzielni, 109 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ XI Podział spółdzielni, 11 @ CZĘŚĆ I Spółdzielnie > TYTUŁ I Przepisy wspólne > DZIAŁ II Tryb zakładania i rejestrowania spółdzielni ... |
 | WDU19830440203 | source article inventory failed: eli-html=0 AST=5 dup_ast=2 FAIL; duplicate in AST: 1, 2 |
 | WDU19840340184 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19840350187 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -295,6 +300,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in AST: 2, 3 |
 | WDU20022131803 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20022382025 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20030600535 | rendered round-trip failed: AST=603 rendered=603 missing_rendered=589 extra_rendered=589 FAIL; missing rendered articles: 1 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ I Przepisy ogólne > DZIAŁ I Przepisy wstępne, 10 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ I Przepisy ogólne > DZIAŁ III Podstawy ogłoszenia upadłości, 100 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 101 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 102 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 103 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 104 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 105 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 106 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 107 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego ... |
 | WDU20031621568 | rendered round-trip failed: AST=183 rendered=183 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 34; low similarity: 34; missing child markers: 34 |
 | WDU20031701652 | source article inventory failed: eli-html=0 AST=35 dup_ast=1 FAIL; duplicate in AST: 10 |
 | WDU20040430412 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -325,7 +331,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20071811292 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in AST: 1 |
 | WDU20072311704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20080540326 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in AST: 1 |
-| WDU20080700416 | rendered round-trip failed: AST=124 rendered=124 dup_rendered=10 low_sim=10 word_loss=1 missing_child_markers=1 FAIL; word loss: 18; low similarity: 13, 14, 15, 16, 17, 18, 19, 20, 21, 22; missing child markers: 18 |
 | WDU20080960606 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20081340850 | known PDF extraction failure — article structure is lost in the generated output |
@@ -372,7 +377,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20120000571 | excessive repetition — '..................................................…' appears 41 times (likely PDF header/footer) |
 | WDU20120000638 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20120000663 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
-| WDU20120000664 | source article inventory failed: eli-html=0 AST=28 dup_ast=8 FAIL; duplicate in AST: 18a, 18b, 18c, 18d, 18e, 18f, 18g, 18h |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000916 | excessive repetition — '..................................................…' appears 40 times (likely PDF header/footer) |
 | WDU20120000925 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '..................................................…' appears 199 times (likely PDF header/footer) |
@@ -448,7 +452,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20160000369 | excessive repetition — '..................................................…' appears 26 times (likely PDF header/footer) |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20160000424 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20160000462 | rendered round-trip failed: AST=89 rendered=89 dup_rendered=1 low_sim=1 FAIL; low similarity: 57 |
 | WDU20160000696 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000763 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000802 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -463,7 +466,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20160001454 | rendered round-trip failed: AST=25 rendered=25 low_sim=1 FAIL; low similarity: 25 |
 | WDU20160001722 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '2. Nie 2 Jeżeli Tak → przez ile miesięcy?' appears 24 times (likely PDF header/footer) |
 | WDU20160001792 | excessive repetition — '…………………………………………………………………………….....................…' appears 52 times (likely PDF header/footer) |
-| WDU20160001823 | rendered round-trip failed: AST=89 rendered=89 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 36, 37; low similarity: 36, 37; missing child markers: 36, 37 |
 | WDU20160002003 | source article inventory failed: eli-html=0 AST=28 dup_ast=1 FAIL; duplicate in AST: 19 |
 | WDU20160002158 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160002197 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -479,7 +481,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20170000721 | excessive repetition — '……………………………………………………………………………………………………………………………..' appears 189 times (likely PDF header/footer) |
 | WDU20170000822 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170000852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20170001008 | source article inventory failed: eli-html=0 AST=16 dup_ast=1 FAIL; duplicate in AST: 13 |
 | WDU20170001118 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '............... ..................................…' appears 35 times (likely PDF header/footer) |
 | WDU20170001155 | character-spaced text — 106 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001162 | excessive repetition — '..................................................…' appears 39 times (likely PDF header/footer) |
@@ -512,13 +513,11 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20180000605 | excessive repetition — '..................................................…' appears 93 times (likely PDF header/footer) |
 | WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20180000685 | rendered round-trip failed: AST=111 rendered=111 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 32c; low similarity: 32c; missing child markers: 32c |
-| WDU20180000872 | source article inventory failed: eli-html=0 AST=30 dup_ast=3 FAIL; duplicate in AST: 23, 24, 25 |
 | WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001103 | source article inventory failed: eli-html=0 AST=17 dup_ast=3 FAIL; duplicate in AST: 3, 4, 5 |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001286 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20180001439 | rendered round-trip failed: AST=50 rendered=50 dup_rendered=2 low_sim=1 FAIL; low similarity: 5 |
 | WDU20180001479 | rendered round-trip failed: AST=63 rendered=63 dup_rendered=4 low_sim=4 word_loss=2 missing_child_markers=2 FAIL; word loss: 14, 15; low similarity: 12, 13, 14, 15; missing child markers: 14, 15 |
 | WDU20180001591 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001608 | source article inventory failed: eli-html=0 AST=31 dup_ast=4 FAIL; duplicate in AST: 4, 5, 6, 8 |
@@ -561,7 +560,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190001358 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in AST: 2, 3, 4 |
 | WDU20190001361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20190001443 | source article inventory failed: eli-html=0 AST=19 dup_ast=1 FAIL; duplicate in AST: 11 |
 | WDU20190001478 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190001522 | excessive repetition — '5) zużycie materiałów i energia' appears 27 times (likely PDF header/footer) |
 | WDU20190001578 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -576,7 +574,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190002210 | excessive repetition — '..................................................…' appears 88 times (likely PDF header/footer) |
 | WDU20190002283 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190002349 | excessive repetition — 'Dopuszczalne jest w razie potrzeby powielanie wier…' appears 28 times (likely PDF header/footer) |
-| WDU20190002393 | rendered round-trip failed: AST=119 rendered=119 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 103; low similarity: 103; missing child markers: 103 |
 | WDU20190002430 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190002560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200000049 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -656,8 +653,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220000223 | excessive repetition — '..................................................…' appears 32 times (likely PDF header/footer) |
 | WDU20220000245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220000256 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', 'àn', 'àn') |
-| WDU20220000282 | rendered round-trip failed: AST=113 rendered=113 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 9; low similarity: 9 |
-| WDU20220000284 | source article inventory failed: eli-html=0 AST=36 dup_ast=1 FAIL; duplicate in AST: 8 |
 | WDU20220000369 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220000385 | rendered round-trip failed: AST=58 rendered=58 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 31a; low similarity: 31a; missing child markers: 31a |
 | WDU20220000419 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -667,10 +662,8 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220001115 | rendered round-trip failed: AST=16 rendered=16 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 15ab; low similarity: 15ab; missing child markers: 15ab |
 | WDU20220001134 | excessive repetition — '.………………………………………………………………………………………………….' appears 113 times (likely PDF header/footer) |
 | WDU20220001187 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20220001258 | rendered round-trip failed: AST=87 rendered=87 dup_rendered=3 low_sim=3 word_loss=3 missing_child_markers=3 FAIL; word loss: 3, 4, 5; low similarity: 3, 4, 5; missing child markers: 3, 4, 5 |
 | WDU20220001269 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001329 | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓŁOWE' appears 87 times (likely PDF header/footer) |
-| WDU20220001399 | source article inventory failed: eli-html=0 AST=34 dup_ast=1 FAIL; duplicate in AST: 30 |
 | WDU20220001437 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20220001456 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001559 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
@@ -701,7 +694,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230000339 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Typ pliku :' appears 24 times (likely PDF header/footer) |
 | WDU20230000427 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20230000437 | rendered round-trip failed: AST=85 rendered=85 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 39; low similarity: 39; missing child markers: 39 |
 | WDU20230000455 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000503 | rendered round-trip failed: AST=72 rendered=72 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 4; low similarity: 4; missing child markers: 4 |
 | WDU20230000535 | source article inventory failed: eli-html=0 AST=36 dup_ast=4 FAIL; duplicate in AST: 10, 2, 5, 9 |
@@ -737,13 +729,11 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230001840 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20230001859 | source article inventory failed: eli-html=0 AST=23 dup_ast=2 FAIL; duplicate in AST: 13, 14 |
 | WDU20230001911 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20230001980 | rendered round-trip failed: AST=88 rendered=88 dup_rendered=6 low_sim=5 word_loss=2 missing_child_markers=3 FAIL; word loss: 4, 7; low similarity: 4, 5, 6, 7, 9; missing child markers: 4, 6, 7 |
 | WDU20230002016 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002023 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002030 | excessive repetition — '..................................................…' appears 53 times (likely PDF header/footer) |
 | WDU20230002045 | rendered round-trip failed: AST=74 rendered=74 dup_rendered=1 FAIL |
-| WDU20230002053 | rendered round-trip failed: AST=58 rendered=58 dup_rendered=2 low_sim=2 missing_child_markers=2 FAIL; low similarity: 3, 4; missing child markers: 3, 4 |
 | WDU20230002056 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002093 | excessive repetition — '..................................................…' appears 71 times (likely PDF header/footer) |
 | WDU20230002127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -763,7 +753,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000005 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000009 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000062 | character-spaced text — 804 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000101 | rendered round-trip failed: AST=63 rendered=63 dup_rendered=5 low_sim=5 word_loss=4 missing_child_markers=4 FAIL; word loss: 4, 5, 6, 7; low similarity: 4, 5, 6, 7, 10; missing child markers: 4, 5, 7, 10 |
 | WDU20240000118 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000136 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000202 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
@@ -799,7 +788,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000908 | source article inventory failed: eli-html=0 AST=14 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20240000934 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000936 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000949 | source article inventory failed: eli-html=0 AST=27 dup_ast=2 FAIL; duplicate in AST: 3, 4 |
 | WDU20240000950 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000954 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240000955 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '..................................................…' appears 128 times (likely PDF header/footer) |
@@ -815,7 +803,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001109 | rendered round-trip failed: AST=76 rendered=76 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 5; low similarity: 5; missing child markers: 5 |
 | WDU20240001135 | rendered round-trip failed: AST=58 rendered=58 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 5; low similarity: 5; missing child markers: 5 |
 | WDU20240001139 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240001170 | rendered round-trip failed: AST=61 rendered=61 dup_rendered=4 low_sim=4 word_loss=2 missing_child_markers=4 FAIL; word loss: 8, 9; low similarity: 7, 8, 9, 10; missing child markers: 7, 8, 9, 10 |
 | WDU20240001184 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001197 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001249 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -833,7 +820,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001606 | rendered round-trip failed: AST=118 rendered=118 dup_rendered=5 low_sim=4 word_loss=2 missing_child_markers=2 FAIL; word loss: 37, 38; low similarity: 28, 29, 37, 38; missing child markers: 37, 38 |
 | WDU20240001612 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240001641 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240001687 | source article inventory failed: eli-html=0 AST=34 dup_ast=1 FAIL; duplicate in AST: 23 |
 | WDU20240001716 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001738 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001740 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -847,22 +833,71 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20250000204 | rendered round-trip failed: AST=74 rendered=74 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 64; low similarity: 64; missing child markers: 64 |
 | WDU20250000277 | rendered round-trip failed: AST=480 rendered=480 empty_articles=1 FAIL |
 | WDU20250000337 | rendered round-trip failed: AST=195 rendered=195 empty_articles=2 FAIL |
-| WDU20250000383 | rendered round-trip failed: AST=458 rendered=458 low_sim=3 FAIL; low similarity: 161, 230a, 345 |
+| WDU20250000614 | rendered round-trip failed: AST=603 rendered=603 missing_rendered=589 extra_rendered=589 FAIL; missing rendered articles: 1 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ I Przepisy ogólne > DZIAŁ I Przepisy wstępne, 10 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ I Przepisy ogólne > DZIAŁ III Podstawy ogłoszenia upadłości, 100 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 101 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 102 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 103 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 104 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 105 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 106 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego, 107 @ CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH > TYTUŁ III Skutki ogłoszenia upadłości > DZIAŁ II Skutki ogłoszenia upadłości co do majątku upadłego > Rozdział 2 Skutki ogłoszenia upadłości co do zobowiązań upadłego ... |
 | WDU20250000640 | rendered round-trip failed: AST=153 rendered=153 dup_rendered=1 low_sim=1 FAIL; low similarity: 3b |
 | WDU20250000759 | rendered round-trip failed: AST=29 rendered=29 dup_rendered=1 low_sim=1 FAIL; low similarity: 15 |
+| WDU20250001071 | rendered round-trip failed: AST=1296 rendered=1296 missing_rendered=170 extra_rendered=170 FAIL; missing rendered articles: 1 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ I Przepisy wstępne, 10 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ II Osoby > DZIAŁ I Osoby fizyczne > Rozdział I Zdolność prawna i zdolność do czynności prawnych, 100 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 101 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 102 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 103 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 104 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 105 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 106 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo, 107 @ KSIĘGA PIERWSZA > CZĘŚĆ OGÓLNA > TYTUŁ IV Czynności prawne > DZIAŁ VI Przedstawicielstwo > Rozdział II Pełnomocnictwo ... |
 | WDU20250001079 | rendered round-trip failed: AST=703 rendered=703 dup_rendered=6 low_sim=6 FAIL; low similarity: 105, 106, 106a, 202, 203, 219 |
-| WDU20250001454 | rendered round-trip failed: AST=57 rendered=57 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 3; low similarity: 3; missing child markers: 3 |
 | WDU20250001691 | rendered round-trip failed: AST=306 rendered=306 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 31; low similarity: 31; missing child markers: 31 |
 | WDU20250001703 | rendered round-trip failed: AST=133 rendered=133 dup_rendered=1 low_sim=1 FAIL; low similarity: 18 |
 | WDU20260000208 | rendered round-trip failed: AST=70 rendered=70 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 24; low similarity: 24; missing child markers: 24 |
-| WDU20260000236 | rendered round-trip failed: AST=248 rendered=248 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 3; low similarity: 3; missing child markers: 3 |
 | WDU20260000377 | rendered round-trip failed: AST=29 rendered=29 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 5; low similarity: 5 |
+| WDU20260000468 | rendered round-trip failed: AST=2022 rendered=2022 missing_rendered=625 extra_rendered=625 FAIL; missing rendered articles: 1000 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1001 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1002 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1003 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1004 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1005 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1006 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1007 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1008 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1009 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego ... |
 | WDU20260000521 | rendered round-trip failed: AST=250 rendered=250 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 11; low similarity: 11; missing child markers: 11 |
 
-## Removed — no longer in force (3)
+## Removed — no longer in force (52)
 
 | Address | Title | Status |
 |---------|-------|--------|
+| WDU20140001124 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3… | wygaśnięcie aktu |
+| WDU20180002152 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z … | uchylony |
+| WDU20190001594 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20200000349 | Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z d… | uchylony |
+| WDU20200001053 | Rozporządzenie Ministra Finansów z dnia 12 maja 2020 r.… | uchylony |
+| WDU20200001973 | Obwieszczenie Ministra Sprawiedliwości z dnia 21 paździ… | wygaśnięcie aktu |
+| WDU20210000857 | Obwieszczenie Ministra Rodziny i Polityki Społecznej z … | wygaśnięcie aktu |
+| WDU20220000259 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20220001441 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230000122 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230001213 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230001329 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230001395 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230001815 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230001897 | Rozporządzenie Ministra Spraw Wewnętrznych i Administra… | uznany za uchylony |
+| WDU20230001948 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20230002174 | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego… | wygaśnięcie aktu |
+| WDU20230002533 | Obwieszczenie Ministra Zdrowia z dnia 18 października 2… | wygaśnięcie aktu |
+| WDU20240000153 | Obwieszczenie Ministra Sprawiedliwości z dnia 24 styczn… | wygaśnięcie aktu |
+| WDU20240000409 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240000534 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240000630 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240000634 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społec… | wygaśnięcie aktu |
+| WDU20240001001 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001112 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001130 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001281 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001386 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240001409 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001428 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240001598 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20240001649 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000111 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000163 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000229 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000265 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000278 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000311 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000366 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000379 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000439 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000440 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000567 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000581 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000611 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000643 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000750 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000865 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000870 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250000883 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250001153 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20250001214 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |

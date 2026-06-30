@@ -8,12 +8,10 @@ pos: 1379
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy Rady Ministrów z Prezydentem Rzeczypospolitej Polskiej oraz Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy Rady Ministrów z Prezydentem Rzeczypospolitej Polskiej oraz Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -85,6 +83,10 @@ Nr 216, poz. 1824) wprowadza się następujące zmiany:
 
 **Art. 6.** Rada Ministrów niezwłocznie przekazuje Sejmowi i Senatowi informację o stanowisku innego niż Rzeczpospolita Polska państwa członkowskiego, zajętym w trybie, o którym mowa w:
 
+- **1)** art. 3 ust. 2 Protokołu (nr 36) w sprawie postanowień przejściowych dołączonego do Traktatu o Unii Europejskiej, Traktatu o funkcjonowaniu Unii Europejskiej i Traktatu ustanawiającego Europejską Wspólnotę Energii Atomowej,
+- **2)** art. 1 albo art. 4 decyzji Rady odnoszącej się do wykonania art. 16 ust. 4 Traktatu o Unii Europejskiej i art. 238 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej w okresie między 1 listopada 2014 r. a 31 marca 2017 r. i od 1 kwietnia 2017 r.,
+- **3)** art. 48 akapit drugi zdanie pierwsze, art. 82 ust. 3 zdanie pierwsze lub art. 83 ust. 3 zdanie pierwsze Traktatu o funkcjonowaniu Unii Europejskiej – oraz przedłożone uzasadnienie tego stanowiska.
+
 **Art. 7.**
 
 1. Rada Ministrów przekazuje Sejmowi i Senatowi projekty stanowisk Rzeczypospolitej Polskiej w sprawie projektów aktów ustawodawczych Unii Europejskiej, biorąc pod uwagę terminy wynikające z prawa Unii Europejskiej, nie później jednak niż w terminie 14 dni od dnia otrzymania tych projektów.
@@ -112,6 +114,11 @@ Nr 216, poz. 1824) wprowadza się następujące zmiany:
 3. W przypadku gdy stanowisko Rzeczypospolitej Polskiej nie uwzględnia opinii organu właściwego na podstawie regulaminu Sejmu lub opinii organu właściwego na podstawie regulaminu Senatu, przedstawiciel Rady Ministrów ma obowiązek niezwłocznie wyjaśnić organowi właściwemu na podstawie regulaminu Sejmu lub organowi właściwemu na podstawie regulaminu Senatu przyczyny rozbieżności.
 
 **Art. 9.** Rada Ministrów przekazuje Sejmowi i Senatowi, niezwłocznie po ich otrzymaniu:
+
+- **1)** projekty umów międzynarodowych, których stroną mają być Unia Europejska lub Europejska Wspólnota Energii Atomowej;
+- **2)** projekty decyzji przedstawicieli rządów państw członkowskich zebranych w Radzie;
+- **3)** projekty aktów Unii Europejskiej niemających mocy prawnej, w szczególności propozycje wytycznych przyjmowanych w sferze unii gospodarczej i pieniężnej oraz w sferze zatrudnienia;
+- **4)** akty Unii Europejskiej mające znaczenie dla wykładni lub stosowania prawa Unii Europejskiej.
 
 **Art. 10.**
 
