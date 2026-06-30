@@ -110,9 +110,7 @@ source: pdf
 
 4. Do umów z udziałem konsumentów zawartych w następstwie ich sporządzenia z naruszeniem ust. 1 stosuje się odpowiednio art. 74 § 1 zdanie pierwsze oraz art. 74 § 2 Kodeksu cywilnego.
 
-5. Umowa o świadczenie usług drogą elektroniczną, określonych w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz.
-
-- **1513)** , sporządzona w języku obcym, zawarta z usługodawcą, który nie jest osobą fizyczną mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej lub osobą prawną bądź jednostką organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, może stanowić uprawdopodobnienie faktu dokonania czynności prawnej, o którym mowa w art. 74 § 2 Kodeksu cywilnego.
+5. Umowa o świadczenie usług drogą elektroniczną, określonych w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), sporządzona w języku obcym, zawarta z usługodawcą, który nie jest osobą fizyczną mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej lub osobą prawną bądź jednostką organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, może stanowić uprawdopodobnienie faktu dokonania czynności prawnej, o którym mowa w art. 74 § 2 Kodeksu cywilnego.
 
 **Art. 9.** Język polski jest językiem nauczania oraz językiem egzaminów i prac dyplomowych w szkołach publicznych i niepublicznych wszystkich typów oraz w placówkach oświatowych i innych instytucjach edukacyjnych, chyba że przepisy szczególne stanowią inaczej.
 
