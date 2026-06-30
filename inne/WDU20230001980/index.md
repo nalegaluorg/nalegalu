@@ -8,12 +8,10 @@ pos: 1980
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o jakości handlowej artykułów rolno-spożywczych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 sierpnia 2023 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o jakości handlowej artykułów rolno-spożywczych
 
 | Pole | Wartość |
 |---|---|
@@ -55,13 +53,60 @@ source: "isap-pdf"
 
 **Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i 15, które wchodzą w życie z dniem 1 stycznia 2023 r.”;
 
+- **3)** art. 3, art. 5 i art. 8 ustawy z dnia 15 grudnia 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 177), które stanowią: „Art. 3. 1. Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych oraz Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych przekażą Szefowi Krajowej Administracji Skarbowej, a wojewódzcy inspektorzy jakości handlowej artykułów rolno-spożywczych – właściwym miejscowo dyrektorom izb administracji skarbowej wykazy zarchiwizowanych akt spraw dotyczące:
+- **1)** przeprowadzonych kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych,
+- **2)** przeprowadzonych analiz ryzyka w zakresie prawidłowości dokonanych transakcji, o których mowa w pkt 1,
+- **3)** programów kontroli, o których mowa w art. 84 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm. ) – z podziałem na lata, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+
+2. Minister właściwy do spraw rolnictwa i minister właściwy do spraw rynków rolnych oraz organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych udostępniają, na żądanie Szefa Krajowej Administracji Skarbowej lub dyrektora izby administracji skarbowej, akta spraw dotyczące:
+
+- **1)** przeprowadzonych kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych;
+- **2)** przeprowadzonych analiz ryzyka w zakresie prawidłowości dokonanych transakcji, o których mowa w pkt 1;
+- **3)** programów kontroli, o których mowa w art. 84 rozporządzenia wymienionego w ust. 1 pkt 3.
+
+3. Kopie akt spraw dotyczących kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych, które zostały rozpoczęte przed dniem wejścia w życie niniejszej ustawy i zakończone w dniu wejścia w życie niniejszej ustawy albo po tym dniu, Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych przekazuje Szefowi Krajowej Administracji Skarbowej, a wojewódzcy inspektorzy jakości handlowej artykułów rolno-spożywczych – właściwym miejscowo dyrektorom izb administracji skarbowej, w terminie 30 dni od dnia podpisania protokołu kontroli, o którym mowa w art. 28 ust. 1 ustawy zmienianej w art. 1.” „Art. 5. Do kontroli prawidłowości dokonanych transakcji finansowanych z Europejskiego Funduszu Rolniczego Gwarancji, realizowanych w ramach Wspólnej Polityki Rolnej, z wyłączeniem refundacji eksportowych, prowadzonych przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.” „Art. 8. Ustawa wchodzi w życie z dniem 1 kwietnia 2023 r., z wyjątkiem art. 4 ust. 1, który wchodzi w życie z dniem 15 lutego 2023 r.”;
+
+- **4)** art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
+- **1)** art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
+- **2)** art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
+- **3)** art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+- **4)** art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
+- **5)** art. 82 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), który stanowi: „Art. 82. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje sprawy jakości handlowej artykułów rolno-spożywczych oraz organizację i zasady działania Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 **Art. 2.** Przepisy ustawy nie dotyczą:
 
+- **1)** artykułów rolno-spożywczych wytwarzanych na własny użytek;
+- **2)** materiału siewnego roślin rolniczych, ogrodniczych i zielarskich w rozumieniu przepisów o nasiennictwie;
+- **3)** (uchylony)
+- **4)** wymagań zdrowotnych, sanitarnych, weterynaryjnych i fitosanitarnych dotyczących artykułów rolno-spożywczych określonych w odrębnych przepisach;
+- **5)** jakości handlowej owoców i warzyw w zakresie uregulowanym w przepisach Unii Europejskiej.
+
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** artykuły rolno-spożywcze – produkty rolne, runo leśne, dziczyznę, organizmy morskie i słodkowodne w postaci surowców, półproduktów oraz wyrobów gotowych otrzymywanych z tych surowców i półproduktów, w tym środki spożywcze i pasze przeznaczone dla zwierząt domowych;
+- **2)** żywność (środek spożywczy) – każdą substancję lub produkt w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002);
+- **3)** (uchylony)
+- **4)** obrót – czynności w rozumieniu art. 3 pkt 8 rozporządzenia, o którym mowa w pkt 2;
+- **5)** jakość handlowa – cechy artykułu rolno-spożywczego dotyczące jego właściwości organoleptycznych, fizykochemicznych i mikrobiologicznych w zakresie technologii produkcji, wielkości lub masy oraz wymagania wynikające ze sposobu produkcji, opakowania, prezentacji i oznakowania, nieobjęte wymaganiami sanitarnymi, weterynaryjnymi lub fitosanitarnymi;
+- **6)** (uchylony)
+- **7)** partia produkcyjna – określoną ilość artykułu rolno-spożywczego wyprodukowanego, przetworzonego lub zapakowanego w praktycznie takich samych warunkach;
+- **8)** próbka – część partii produkcyjnej pobraną jednorazowo, w sposób losowy, w celu kontroli lub oceny w zakresie jakości handlowej artykułu rolno-spożywczego;
+- **9)** producent – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
+    - **a)** produkuje lub paczkuje artykuły rolno-spożywcze, lub
+    - **b)** wprowadza artykuły rolno-spożywcze do obrotu, jeżeli działalność ta jest zarejestrowana na terytorium któregoś z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+
+- **10)** artykuł rolno-spożywczy zafałszowany – produkt, którego skład jest niezgodny z przepisami dotyczącymi jakości handlowej poszczególnych artykułów rolno-spożywczych, albo produkt, w którym zostały wprowadzone zmiany, w tym zmiany dotyczące oznakowania, mające na celu ukrycie jego rzeczywistego składu lub innych właściwości, jeżeli niezgodności te lub zmiany w istotny sposób naruszają interesy konsumentów finalnych, w szczególności jeżeli:
+    - **a)** dokonano zabiegów, które zmieniły lub ukryły jego rzeczywisty skład lub nadały mu wygląd produktu zgodnego z przepisami dotyczącymi jakości handlowej,
+    - **b)** w oznakowaniu podano nazwę niezgodną z przepisami dotyczącymi jakości handlowej poszczególnych artykułów rolno-spożywczych albo niezgodną z prawdą,
+    - **c)** w oznakowaniu podano niezgodne z prawdą dane w zakresie składu, pochodzenia, terminu przydatności do spożycia lub daty minimalnej trwałości, zawartości netto lub klasy jakości handlowej;
+
+- **11)** konsument finalny – konsumenta finalnego, w rozumieniu art. 3 pkt 18 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności;
+- **12)** sprzedaż na odległość – wprowadzanie do obrotu artykułów rolno-spożywczych w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem co najmniej jednego środka porozumiewania się na odległość, w tym sprzedaż, o której mowa w art. 36 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm. );
+- **13)** zakup kontrolny – nabycie anonimowo przez pracownika Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych artykułu rolno-spożywczego w celu kontroli w zakresie jakości handlowej tego artykułu.
 
 #### Rozdział 2 Jakość handlowa
 
@@ -104,10 +149,10 @@ source: "isap-pdf"
 
 **Art. 7b.**
 
-1. Oznakowanie artykułu rolno-spożywczego będącego produktem nieprzetworzonym w rozumieniu art. 2 ust. 1 lit. n rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. ) Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) może zawierać informację „Produkt polski”, jeżeli produkcja podstawowa w rozumieniu art. 3 pkt 17 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności tego produktu odbyła się na terytorium Rzeczypospolitej Polskiej, a w przypadku:
+1. Oznakowanie artykułu rolno-spożywczego będącego produktem nieprzetworzonym w rozumieniu art. 2 ust. 1 lit. n rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. ) – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) może zawierać informację „Produkt polski”, jeżeli produkcja podstawowa w rozumieniu art. 3 pkt 17 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności tego produktu odbyła się na terytorium Rzeczypospolitej Polskiej, a w przypadku:
 
-- **1)** mięsa jeżeli zostało pozyskane ze zwierząt urodzonych na terytorium Rzeczypospolitej Polskiej oraz których chów i ubój odbyły się na terytorium Rzeczypospolitej Polskiej;
-- **2)** produktów pochodzenia zwierzęcego innych niż mięso jeżeli zostały pozyskane od zwierząt, których chów odbywa się na terytorium Rzeczypospolitej Polskiej.
+- **1)** mięsa – jeżeli zostało pozyskane ze zwierząt urodzonych na terytorium Rzeczypospolitej Polskiej oraz których chów i ubój odbyły się na terytorium Rzeczypospolitej Polskiej;
+- **2)** produktów pochodzenia zwierzęcego innych niż mięso – jeżeli zostały pozyskane od zwierząt, których chów odbywa się na terytorium Rzeczypospolitej Polskiej.
 
 2. Oznakowanie artykułu rolno-spożywczego będącego produktem przetworzonym w rozumieniu art. 2 ust. 1 lit. o rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych może zawierać informację „Produkt polski”, jeżeli został wyprodukowany na terytorium Rzeczypospolitej Polskiej i wszystkie jego składniki spełniają warunki określone w ust. 1 lub zostały wyprodukowane na terytorium Rzeczypospolitej Polskiej wyłącznie ze składników spełniających warunki określone w ust. 1, a jeżeli do jego produkcji użyto innych składników:
 
@@ -126,7 +171,7 @@ source: "isap-pdf"
 
 **Art. 10.**
 
-1. Artykuły rolno-spożywcze przywożone z państw niebędących członkami Unii Europejskiej, z wyłączeniem państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, mogą być dopuszczone do obrotu w rozumieniu przepisów prawa celnego, pod warunkiem przeprowadzenia kontroli jakości handlowej przez organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych.
+1. Artykuły rolno-spożywcze przywożone z państw niebędących członkami Unii Europejskiej, z wyłączeniem państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, mogą być dopuszczone do obrotu w rozumieniu przepisów prawa celnego, pod warunkiem przeprowadzenia kontroli jakości handlowej przez organ Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 1a. W przypadku konieczności wykonania badań laboratoryjnych artykuły, o których mowa w ust. 1, mogą być za zgodą organu celnego:
 
@@ -174,7 +219,7 @@ source: "isap-pdf"
 - **1)** kontrolach przeprowadzonych przez Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych w ciągu ostatnich 5 lat, w tym o podmiotach kontrolowanych obejmujące dane, o których mowa w pkt 10, upoważnieniach do przeprowadzenia kontroli i wynikach tych kontroli;
 - **2)** decyzjach wydanych przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w ciągu ostatnich 5 lat, w szczególności o decyzjach, o których mowa w art. 29 ust. 1, art. 30 ust. 1 i art. 40a ust. 1–3a i 5d;
 - **3)** zaleceniach pokontrolnych, o których mowa w art. 30b, wydanych w ciągu ostatnich 5 lat;
-- **4)** karach nałożonych w ciągu ostatnich 5 lat przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na sprawców czynów zabronionych, które zostały wykryte w wyniku działań organów Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, w szczególności czynów wymienionych w art. 40 ust. 1, z podaniem imienia, nazwiska i numeru PESEL, a w razie jego braku serii i numeru dokumentu potwierdzającego tożsamość oraz obywatelstwa sprawcy, a także o wnioskach o ukaranie skierowanych przez te organy do sądów i sposobie rozstrzygnięcia sprawy przez sąd;
+- **4)** karach nałożonych w ciągu ostatnich 5 lat przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na sprawców czynów zabronionych, które zostały wykryte w wyniku działań organów Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, w szczególności czynów wymienionych w art. 40 ust. 1, z podaniem imienia, nazwiska i numeru PESEL, a w razie jego braku – serii i numeru dokumentu potwierdzającego tożsamość oraz obywatelstwa sprawcy, a także o wnioskach o ukaranie skierowanych przez te organy do sądów i sposobie rozstrzygnięcia sprawy przez sąd;
 - **5)** zaświadczeniach, certyfikatach, świadectwach jakości handlowej i innych dokumentach wystawionych w ciągu ostatnich 5 lat przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych z urzędu albo na wniosek podmiotu wpisanego do centralnego rejestru;
 - **6)** skargach wniesionych i wnioskach złożonych w ciągu ostatnich 5 lat dotyczących działalności podmiotów wpisanych do centralnego rejestru;
 - **7)** producentach ekologicznych w rozumieniu art. 2 ust. 1 pkt 9 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej;
@@ -183,15 +228,15 @@ source: "isap-pdf"
 - **10)** innych podmiotach kontrolowanych lub nadzorowanych przez organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych na podstawie odrębnych przepisów, w szczególności w ramach obrotu detalicznego lub rolniczego handlu detalicznego, obejmujące:
     - **a)** imię, nazwisko i adres albo nazwę i adres siedziby,
     - **b)** numer identyfikacji podatkowej (NIP) oraz numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym lub numer REGON, o ile dany podmiot takie numery posiada,
-    - **c)** numer PESEL albo serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo w przypadku osób fizycznych nieposiadających numeru identyfikacji podatkowej (NIP),
+    - **c)** numer PESEL albo serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo – w przypadku osób fizycznych nieposiadających numeru identyfikacji podatkowej (NIP),
     - **d)** określenie przedmiotu działalności, w tym informację o działalności eksportowej lub importowej,
     - **e)** wskazanie adresów miejsc prowadzenia działalności podlegającej kontroli lub nadzorowi organów Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 3. Wpisów do centralnego rejestru oraz ich aktualizacji dokonują:
 
-- **1)** organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w przypadku informacji, które są związane z ich właściwością;
-- **2)** podmioty upoważnione do działania w rolnictwie ekologicznym jako jednostki certyfikujące w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej w przypadku informacji o producentach ekologicznych w rozumieniu art. 2 ust. 1 pkt 9 tej ustawy;
-- **3)** upoważnione jednostki certyfikujące, o których mowa w art. 31 ust. 1 pkt 1 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych w przypadku informacji o producentach, o których mowa w art. 36 ust. 1 tej ustawy.
+- **1)** organy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych – w przypadku informacji, które są związane z ich właściwością;
+- **2)** podmioty upoważnione do działania w rolnictwie ekologicznym jako jednostki certyfikujące w rozumieniu art. 2 ust. 1 pkt 5 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej – w przypadku informacji o producentach ekologicznych w rozumieniu art. 2 ust. 1 pkt 9 tej ustawy;
+- **3)** upoważnione jednostki certyfikujące, o których mowa w art. 31 ust. 1 pkt 1 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych – w przypadku informacji o producentach, o których mowa w art. 36 ust. 1 tej ustawy.
 
 4. Wpisów do centralnego rejestru oraz ich aktualizacji dokonuje się niezwłocznie.
 
@@ -211,8 +256,8 @@ source: "isap-pdf"
 
 10. Informacje zawarte w centralnym rejestrze są udostępniane przez Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych i wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych, na wniosek:
 
-- **1)** sądom, organom ścigania i organom administracji publicznej w zakresie niezbędnym do realizacji ich zadań ustawowych,
-- **2)** innym podmiotom do celów badań naukowych, historycznych lub statystycznych w sposób uniemożliwiający identyfikację osoby fizycznej z tym że informacje, o których mowa w ust. 2 pkt 4 i 5, są udostępniane wyłącznie sądom, organom ścigania i organom administracji publicznej.
+- **1)** sądom, organom ścigania i organom administracji publicznej – w zakresie niezbędnym do realizacji ich zadań ustawowych,
+- **2)** innym podmiotom do celów badań naukowych, historycznych lub statystycznych w sposób uniemożliwiający identyfikację osoby fizycznej – z tym że informacje, o których mowa w ust. 2 pkt 4 i 5, są udostępniane wyłącznie sądom, organom ścigania i organom administracji publicznej.
 
 11. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych ustala, co najmniej raz na 3 lata, czy dane osobowe zgromadzone w centralnym rejestrze są niezbędne do realizacji celów określonych w ust. 7, i wykreśla z centralnego rejestru dane osobowe zbędne do realizacji tych celów.
 
@@ -228,7 +273,7 @@ source: "isap-pdf"
 - **2)** wytwarzane w ramach:
     - **a)** krajowych systemów jakości uznanych przez ministra właściwego do spraw rozwoju wsi, które spełniają kryteria określone w art. 47 lit. a rozporządzenia delegowanego Komisji (UE) 2022/126 z dnia 7 grudnia 2021 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2021/2115 o dodatkowe wymogi w odniesieniu do niektórych rodzajów interwencji określonych przez państwa członkowskie w ich planach strategicznych WPR na lata 2023–2027 na podstawie tego rozporządzenia, jak również o przepisy dotyczące współczynnika dotyczącego normy dobrej kultury rolnej zgodnej z ochroną środowiska (GAEC) nr 1 (Dz. Urz. UE L 20 z 31.01.2022, str. 52),
     - **b)** systemu chronionych nazw pochodzenia, chronionych oznaczeń geograficznych lub gwarantowanych tradycyjnych specjalności, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych (Dz. Urz. UE L 343 z 14.12.2012, str. 1, z późn. zm. ),
-    - **c)** systemu rolnictwa ekologicznego, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm. ) mogą być oznakowane znakiem jakości.
+    - **c)** systemu rolnictwa ekologicznego, o którym mowa w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającego rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm. ) – mogą być oznakowane znakiem jakości.
 
 2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór znaku jakości, mając na względzie, aby znak kojarzył się powszechnie z produkcją roślinną lub zwierzęcą.
 
@@ -258,6 +303,16 @@ source: "isap-pdf"
 
 **Art. 15.** Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia:
 
+- **1)** w porozumieniu z ministrem właściwym do spraw zdrowia określi sposób znakowania i szczegółowy zakres informacji podawanych w oznakowaniu poszczególnych rodzajów środków spożywczych, w tym środków spożywczych: UE L 304 z 22.11.2011, str. 18, z późn. zm.),
+    - **a)** bez opakowań przeznaczonych do sprzedaży konsumentowi finalnemu lub zakładom żywienia zbiorowego w rozumieniu art. 2 ust. 2 lit. d rozporządzenia Parlamentu Europejskiego i Rady nr 1169/2011 z dnia 25 października 2011 r. w sprawie przekazywania konsumentom informacji na temat żywności, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 1924/2006 i (WE) nr 1925/2006 oraz uchylenia dyrektywy Komisji 87/250/EWG, dyrektywy Rady 90/496/EWG, dyrektywy Komisji 1999/10/WE, dyrektywy 2000/13/WE Parlamentu Europejskiego i Rady, dyrektyw Komisji 2002/67/WE i 2008/5/WE oraz rozporządzenia Komisji (WE) nr 608/2004 (Dz. Urz.
+    - **b)** pakowanych przy sprzedaży,
+
+- **2)** może określić inne szczegółowe wymagania w zakresie jakości handlowej niektórych artykułów rolno-spożywczych lub ich grup,
+- **3)** może określić szczegółowe wymagania w zakresie składowania lub transportu niektórych artykułów rolno-spożywczych,
+- **4)** określi szczegółowy zakres i sposób znakowania niektórych grup i rodzajów artykułów rolno-spożywczych kodem identyfikacyjnym partii produkcyjnej,
+- **5)** może określić sposób żywienia lub warunki chowu zwierząt, mające wpływ na jakość handlową artykułów rolno-spożywczych otrzymywanych z tych zwierząt,
+- **6)** może określić szczegółowy zakres i sposób znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań – mając na względzie konieczność zapewnienia nabywcy niezbędnych informacji umożliwiających porównanie nabywanego artykułu rolno-spożywczego z innymi artykułami rolno-spożywczymi tego samego rodzaju, zapobieganie nieuczciwym praktykom rynkowym oraz zapewnienie właściwej jakości handlowej tych artykułów.
+
 **Art. 15a.**
 
 1. Tusze wieprzowe oraz wołowe poddaje się klasyfikacji i oznacza się znakiem klasy jakości handlowej ustalonej dla danej tuszy, zgodnie z warunkami określonymi w przepisach Unii Europejskiej .
@@ -282,11 +337,11 @@ source: "isap-pdf"
 3d. Podmiot poddający zwierzęta ubojowi składa właściwemu ze względu na miejsce poddawania zwierząt ubojowi organowi Inspekcji kwartalną i roczną informację o liczbie uzyskanych tusz:
 
 - **1)** wołowych i wieprzowych;
-- **2)** w poszczególnych kategoriach oraz klasach uformowania i otłuszczenia w odniesieniu do tusz bydła w wieku od
+- **2)** w poszczególnych kategoriach oraz klasach uformowania i otłuszczenia – w odniesieniu do tusz bydła w wieku od
 
 8. miesiąca życia, jeżeli poddawał tusze klasyfikacji;
 
-- **3)** w poszczególnych klasach mięsności w odniesieniu do tusz wieprzowych, jeżeli poddawał tusze klasyfikacji.
+- **3)** w poszczególnych klasach mięsności – w odniesieniu do tusz wieprzowych, jeżeli poddawał tusze klasyfikacji.
 
 3e. Informację, o której mowa w ust. 3d, składa się w terminie do 10 dnia miesiąca następującego po kwartale lub roku, którego informacja dotyczy.
 
@@ -294,7 +349,7 @@ source: "isap-pdf"
 
 - **1)** określi szczegółowy sposób oznaczania klasy jakości handlowej tusz wieprzowych oraz tusz wołowych,
 - **2)** określi wzory formularzy służących do sporządzania informacji, o których mowa w ust. 3d,
-- **3)** może określić rodzaje tusz innych zwierząt oznaczanych znakiem klasy jakości handlowej oraz sposób ich oznaczania tym znakiem mając na względzie potrzebę zastosowania do tych czynności odpowiednich urządzeń, określenia warunków klasyfikacji umożliwiającej jednolitą rejestrację cen rynkowych oraz zapewnienia odpowiedniej zapłaty producentom.
+- **3)** może określić rodzaje tusz innych zwierząt oznaczanych znakiem klasy jakości handlowej oraz sposób ich oznaczania tym znakiem – mając na względzie potrzebę zastosowania do tych czynności odpowiednich urządzeń, określenia warunków klasyfikacji umożliwiającej jednolitą rejestrację cen rynkowych oraz zapewnienia odpowiedniej zapłaty producentom.
 
 **Art. 15b.**
 
@@ -302,7 +357,7 @@ source: "isap-pdf"
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu zainteresowanego, z tym że w przypadku gdy podmiotem zainteresowanym jest osoba fizyczna, zamiast adresu i miejsca zamieszkania tej osoby miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu zainteresowanego, z tym że w przypadku gdy podmiotem zainteresowanym jest osoba fizyczna, zamiast adresu i miejsca zamieszkania tej osoby – miejsce i adres wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
 - **2)** określenie rzeźni, w której zostanie przeprowadzony test zatwierdzający, o którym mowa w części A załącznika IV do rozporządzenia 2017/1182;
 - **3)** wskazanie typu urządzenia do automatycznej klasyfikacji tusz wołowych, nazwę producenta tego urządzenia i rok jego produkcji.
 
@@ -353,9 +408,9 @@ source: "isap-pdf"
 
 1. Do zadań Inspekcji należy:
 
-- **1)** nadzór nad jakością handlową artykułów rolno-spożywczych, a w szczególności: zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455);
+- **1)** nadzór nad jakością handlową artykułów rolno-spożywczych, a w szczególności: zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 455);
     - **a)** kontrola jakości handlowej artykułów rolno-spożywczych w produkcji i obrocie, w tym wywożonych za granicę,
-    - **b)** kontrola jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej oraz spoza państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrola graniczna tych artykułów,
+    - **b)** kontrola jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej oraz spoza państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrola graniczna tych artykułów,
     - **c)** dokonywanie oceny i wydawanie świadectw w zakresie jakości handlowej artykułów rolno-spożywczych,
     - **d)** powiadamianie podpunktu krajowego punktu kontaktowego w ramach sieci systemu wczesnego ostrzegania o niebezpiecznej żywności i paszach (systemu RASFF) o podjętych decyzjach dotyczących niebezpiecznych artykułów rolno-spożywczych,
     - **e)** kontrola artykułów rolno-spożywczych, win i napojów spirytusowych oznakowanych chronionymi nazwami pochodzenia, chronionymi oznaczeniami geograficznymi albo nazwami gwarantowanych tradycyjnych specjalności, zarejestrowanymi na podstawie przepisów o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych lub nazwami odwołującymi się do zarejestrowanych chronionych nazw pochodzenia, chronionych oznaczeń geograficznych albo gwarantowanych tradycyjnych specjalności oraz współpraca z jednostkami przeprowadzającymi taką kontrolę w innych państwach,
@@ -364,7 +419,7 @@ source: "isap-pdf"
     - **h)** kontrola artykułów rolno-spożywczych oznaczonych określeniem jakościowym stosowanym fakultatywnie „produkt górski”, o którym mowa w art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1151/2012 z dnia 21 listopada 2012 r. w sprawie systemów jakości produktów rolnych i środków spożywczych,
     - **i)** kontrola żywności w rolniczym handlu detalicznym w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2022 r. poz. 2132 oraz z 2023 r. poz. 588),
     - **j)** kontrola oznakowania wprowadzanych do obrotu produktów genetycznie zmodyfikowanych (produktów GMO) w rozumieniu art. 3 pkt 16 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546),
-    - **k)** kontrola oznakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn.
+    - **k)** kontrola oznakowania genetycznie zmodyfikowanej żywności w zakresie wymagań określonych w rozporządzeniu (WE) nr 1829/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. w sprawie genetycznie zmodyfikowanej żywności i paszy (Dz. Urz. UE L 268 z 18.10.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 32, str. 432) oraz rozporządzeniu (WE) nr 1830/2003 Parlamentu Europejskiego i Rady z dnia 22 września 2003 r. dotyczącym możliwości śledzenia i etykietowania organizmów zmodyfikowanych genetycznie oraz możliwości śledzenia żywności i produktów paszowych wyprodukowanych z organizmów zmodyfikowanych genetycznie i zmieniającym dyrektywę 2001/18/WE (Dz. Urz. UE L 268 z 18.10.2003, str. 24, z późn.
 
 - **2)** kontrola warunków składowania i transportu artykułów rolno-spożywczych;
 - **3)** (uchylony) 3a) kontrola prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością;
@@ -387,7 +442,7 @@ source: "isap-pdf"
 
 - **1)** szczegółowy sposób kontroli jakości handlowej artykułów rolno-spożywczych lub
 - **2)** wzory dokumentów związanych z przeprowadzaniem kontroli jakości handlowej artykułów rolno-spożywczych, lub
-- **3)** wzory dokumentów stwierdzających jakość handlową niektórych artykułów rolno-spożywczych lub ich grup biorąc pod uwagę konieczność dostosowania sposobu dokonywania kontroli do wymagań związanych ze swobodnym przepływem towarów oraz mając na względzie obowiązki określone w art. 5 ust. 1 lit. h, art. 12, art. 14, art. 34 ust. 1, 2, 4 i 5 oraz art. 35 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych).
+- **3)** wzory dokumentów stwierdzających jakość handlową niektórych artykułów rolno-spożywczych lub ich grup – biorąc pod uwagę konieczność dostosowania sposobu dokonywania kontroli do wymagań związanych ze swobodnym przepływem towarów oraz mając na względzie obowiązki określone w art. 5 ust. 1 lit. h, art. 12, art. 14, art. 34 ust. 1, 2, 4 i 5 oraz art. 35 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych).
 
 3. (uchylony) 3a. Inspekcja, wykonując zadania, o których mowa w ust. 1:
 
@@ -472,6 +527,9 @@ source: "isap-pdf"
 
 **Art. 18.** Zadania Inspekcji wykonują następujące organy:
 
+- **1)** Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”;
+- **2)** wojewoda przy pomocy wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych, zwanego dalej „wojewódzkim inspektorem”, jako kierownika wojewódzkiej inspekcji jakości handlowej artykułów rolno-spożywczych, wchodzącej w skład zespolonej administracji wojewódzkiej.
+
 **Art. 18a.** Kontrole należące do zakresu działania właściwych organów Inspekcji wykonuje również Służba Celno-Skarbowa w zakresie określonym w przepisach odrębnych.
 
 **Art. 19.**
@@ -492,7 +550,7 @@ source: "isap-pdf"
 - **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
 - **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Głównego Inspektora.
 
-3b. (uchylony) 3c. (uchylony) 3d. (uchylony) 3e. (uchylony) 3f. (uchylony) 3g. (uchylony) 3h. (uchylony) 3i. (uchylony) 3j. (uchylony) 3k. (uchylony) 3l. (uchylony) 3m. Powołanie na stanowiska, o których mowa w ust. 3a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
+3b. (uchylony) 3c. (uchylony) 3d. (uchylony) 3e. (uchylony) 3f. (uchylony) 3g. (uchylony) 3h. (uchylony) 3i. (uchylony) 3j. (uchylony) 3k. (uchylony) 3l. (uchylony) 3m. Powołanie na stanowiska, o których mowa w ust. 3a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240 i 641).
 
 4. (uchylony)
 
@@ -538,9 +596,9 @@ source: "isap-pdf"
 
 2. Legitymacje służbowe wydaje:
 
-- **1)** wojewoda wojewódzkiemu inspektorowi i jego zastępcy;
-- **2)** wojewódzki inspektor pracownikom wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych;
-- **3)** dyrektor generalny Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych pracownikom Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
+- **1)** wojewoda – wojewódzkiemu inspektorowi i jego zastępcy;
+- **2)** wojewódzki inspektor – pracownikom wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych;
+- **3)** dyrektor generalny Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych – pracownikom Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 3. W przypadku utraty legitymacji służbowej pracownik jest obowiązany niezwłocznie zawiadomić o tym organ, który wydał legitymację.
 
@@ -556,7 +614,7 @@ source: "isap-pdf"
 
 7. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór legitymacji służbowej pracowników Inspekcji dokonujących kontroli, mając na względzie możliwość identyfikacji pracownika Inspekcji i jego stanowiska służbowego.
 
-**Art. 21.** W rozumieniu przepisów Kodeksu postępowania administracyjnego, w sprawach należących do zakresu zadań i kompetencji Inspekcji, organem właściwym jest wojewódzki inspektor, a organem wyższego stopnia Główny Inspektor.
+**Art. 21.** W rozumieniu przepisów Kodeksu postępowania administracyjnego, w sprawach należących do zakresu zadań i kompetencji Inspekcji, organem właściwym jest wojewódzki inspektor, a organem wyższego stopnia – Główny Inspektor.
 
 **Art. 22.**
 
@@ -618,11 +676,11 @@ source: "isap-pdf"
 
 2. Pracownik Inspekcji może także:
 
-- **1)** przeprowadzić kontrolę jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrolę graniczną tych artykułów,
+- **1)** przeprowadzić kontrolę jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrolę graniczną tych artykułów,
 - **2)** dokonać oceny jakości handlowej artykułów rolno-spożywczych,
 - **3)** przeprowadzić kontrolę warunków składowania i transportu artykułów rolno-spożywczych,
 - **4)** przeprowadzić kontrolę jakości handlowej świeżych owoców i warzyw, w tym ziemniaków, których jakość handlowa nie jest objęta zakresem regulacji przepisów Unii Europejskiej,
-- **5)** przeprowadzić kontrolę jakości handlowej artykułów rolno-spożywczych w obrocie detalicznym po okazaniu legitymacji służbowej oraz imiennego okresowego upoważnienia do przeprowadzenia kontroli.
+- **5)** przeprowadzić kontrolę jakości handlowej artykułów rolno-spożywczych w obrocie detalicznym – po okazaniu legitymacji służbowej oraz imiennego okresowego upoważnienia do przeprowadzenia kontroli.
 
 3. Imienne okresowe upoważnienie do przeprowadzenia kontroli zawiera:
 
@@ -634,9 +692,9 @@ source: "isap-pdf"
 - **6)** oznaczenie okresu obowiązywania tego upoważnienia;
 - **7)** podpis osoby udzielającej tego upoważnienia z podaniem zajmowanego stanowiska lub pełnionej funkcji.
 
-4. Do imiennego okresowego upoważnienia do przeprowadzenia kontroli nie stosuje się przepisów art. 49 ust. 7 pkt 5, 7 i 9 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+4. Do imiennego okresowego upoważnienia do przeprowadzenia kontroli nie stosuje się przepisów art. 49 ust. 7 pkt 5, 7 i 9 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
-5. Kontrolę, o której mowa w art. 17 ust. 1 pkt 1 lit. a, przeprowadza się w obecności kierownika kontrolowanej jednostki, a w razie jego nieobecności osoby przez niego upoważnionej.
+5. Kontrolę, o której mowa w art. 17 ust. 1 pkt 1 lit. a, przeprowadza się w obecności kierownika kontrolowanej jednostki, a w razie jego nieobecności – osoby przez niego upoważnionej.
 
 5a. Zakupu kontrolnego dokonuje się bez okazywania legitymacji służbowej i upoważnienia do przeprowadzania kontroli. Legitymację służbową i upoważnienie do przeprowadzania kontroli okazuje się bezpośrednio po otrzymaniu nabytego artykułu rolno-spożywczego, z uwzględnieniem art. 39a ust. 4 i 5.
 
@@ -656,7 +714,7 @@ source: "isap-pdf"
 
 - **1)** oddanie ich na przechowanie jednostce kontrolowanej w oddzielnym i opieczętowanym schowku lub pomieszczeniu;
 - **2)** opieczętowanie ich i oddanie za pokwitowaniem na przechowanie kierownikowi lub innemu pracownikowi jednostki kontrolowanej;
-- **3)** zabranie ich za pokwitowaniem do przechowania przez organ Inspekcji w przypadku braku możliwości zabezpieczenia i przechowywania w jednostce kontrolowanej.
+- **3)** zabranie ich za pokwitowaniem do przechowania przez organ Inspekcji – w przypadku braku możliwości zabezpieczenia i przechowywania w jednostce kontrolowanej.
 
 2. Zabezpieczenie artykułów rolno-spożywczych polega na oddaniu ich pod nadzór kierownikowi lub innemu pracownikowi kontrolowanej jednostki z zakazem wprowadzenia tych artykułów do obrotu.
 
@@ -666,7 +724,7 @@ source: "isap-pdf"
 
 5. Odmowa udzielenia zgody, o której mowa w ust. 4, następuje w drodze decyzji.
 
-**Art. 27a.** Do kontroli działalności gospodarczej przedsiębiorcy w zakresie nieuregulowanym w art. 25–27 stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+**Art. 27a.** Do kontroli działalności gospodarczej przedsiębiorcy w zakresie nieuregulowanym w art. 25–27 stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 28.**
 
@@ -682,7 +740,7 @@ source: "isap-pdf"
 
 2a. (uchylony) 2b. Protokół sporządza się w dwóch jednobrzmiących egzemplarzach.
 
-3. Protokół należy przedstawić kierownikowi jednostki kontrolowanej, a w razie jego nieobecności zastępcy kierownika lub innej osobie upoważnionej do zastępowania kierownika, a w razie nieobecności tych osób osobie uczestniczącej w przeprowadzaniu kontroli.
+3. Protokół należy przedstawić kierownikowi jednostki kontrolowanej, a w razie jego nieobecności – zastępcy kierownika lub innej osobie upoważnionej do zastępowania kierownika, a w razie nieobecności tych osób – osobie uczestniczącej w przeprowadzaniu kontroli.
 
 4. Przed podpisaniem protokołu osoby, o których mowa w ust. 3, mają prawo wnieść do niego swoje uwagi.
 
@@ -710,7 +768,7 @@ source: "isap-pdf"
 
 1. Główny Inspektor oraz upoważnieni przez niego pracownicy Inspekcji są uprawnieni do nadzorowania kontroli przeprowadzanej przez wojewódzkich inspektorów w celu sprawdzenia prawidłowości przeprowadzania tej kontroli.
 
-2. Przed przystąpieniem do nadzorowania kontroli, o której mowa w ust. 1, Główny Inspektor oraz upoważniony przez niego pracownik Inspekcji są obowiązani okazać legitymację służbową podmiotowi kontrolowanemu lub osobie przez niego upoważnionej oraz pracownikowi Inspekcji przeprowadzającemu kontrolę, a także okazać upoważnienie podmiotowi kontrolowanemu lub osobie przez niego upoważnionej, a w przypadku nieobecności tych osób osobie uczestniczącej w przeprowadzaniu kontroli.
+2. Przed przystąpieniem do nadzorowania kontroli, o której mowa w ust. 1, Główny Inspektor oraz upoważniony przez niego pracownik Inspekcji są obowiązani okazać legitymację służbową podmiotowi kontrolowanemu lub osobie przez niego upoważnionej oraz pracownikowi Inspekcji przeprowadzającemu kontrolę, a także okazać upoważnienie podmiotowi kontrolowanemu lub osobie przez niego upoważnionej, a w przypadku nieobecności tych osób – osobie uczestniczącej w przeprowadzaniu kontroli.
 
 3. Do nadzorowania kontroli, o której mowa w ust. 1, stosuje się przepisy art. 24 ust. 1 pkt 1–2, 4 i 5 oraz art. 24a.
 
@@ -808,6 +866,10 @@ source: "isap-pdf"
 
 **Art. 34.** Minister właściwy do spraw rynków rolnych w drodze rozporządzenia:
 
+- **1)** określi szczegółowe warunki pobierania próbek artykułów rolno-spożywczych,
+- **2)** może określić metody analiz lub inne czynności związane z dokonywaniem kontroli lub oceny niektórych artykułów rolno-spożywczych,
+- **3)** może określić szczegółowe warunki ustalania klas jakości handlowej niektórych artykułów rolno-spożywczych – mając na względzie ich rodzaj i przeznaczenie.
+
 **Art. 35.**
 
 1. Pracownicy Inspekcji mogą pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych na zlecenie zainteresowanych przedsiębiorców.
@@ -820,7 +882,7 @@ source: "isap-pdf"
     - **a)** przeprowadzone przez wojewódzkiego inspektora lub podmiot upoważniony przez Głównego Inspektora lub
     - **b)** o którym mowa w art. 12 ust. 3 lit. a rozporządzenia wykonawczego Komisji (UE) nr 543/2011 z dnia 7 czerwca 2011 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do sektora owoców i warzyw oraz sektora przetworzonych owoców i warzyw (Dz. U. UE L 157 z 15.06.2011), zatwierdzone przez właściwy organ innego państwa,
 
-- **4)** pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych mogą również osoby, wobec których decyzja o uznaniu kwalifikacji, wydana na podstawie przepisów o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stała się ostateczna wpisane do rejestru rzeczoznawców, zwane dalej „rzeczoznawcami”.
+- **4)** pobierać próbki lub ustalać klasy jakości handlowej określonych artykułów rolno-spożywczych mogą również osoby, wobec których decyzja o uznaniu kwalifikacji, wydana na podstawie przepisów o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej, stała się ostateczna – wpisane do rejestru rzeczoznawców, zwane dalej „rzeczoznawcami”.
 
 2a. Egzamin, o którym mowa w ust. 2 pkt 2, jest zdawany co 3 lata.
 
@@ -831,7 +893,7 @@ source: "isap-pdf"
 
 2c. O wydaniu upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w ust. 2 pkt 3, rozstrzyga Główny Inspektor, w drodze decyzji, na wniosek podmiotu ubiegającego się o to upoważnienie.
 
-2d. Wniosek o wydanie upoważnienia do prowadzenia szkoleń, poza elementami podania określonymi w art. 63 § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zawiera:
+2d. Wniosek o wydanie upoważnienia do prowadzenia szkoleń, poza elementami podania określonymi w art. 63 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zawiera:
 
 - **1)** program szkolenia;
 - **2)** imiona i nazwiska osób mających prowadzić szkolenia oraz wskazanie posiadanych przez nie kwalifikacji do prowadzenia takich szkoleń.
@@ -847,7 +909,7 @@ source: "isap-pdf"
 - **1)** imię i nazwisko;
 - **2)** miejsce zamieszkania;
 - **3)** adres do korespondencji;
-- **4)** numer PESEL, a w razie jego braku serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo;
+- **4)** numer PESEL, a w razie jego braku – serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo;
 - **5)** numer telefonu lub adres poczty elektronicznej, o ile wnioskodawca je posiada;
 - **6)** określenie rodzaju uprawnień;
 - **7)** informacje o stałych miejscach, w których wnioskodawca zamierza wykonywać działalność.
@@ -869,9 +931,9 @@ source: "isap-pdf"
 - **1)** imię i nazwisko;
 - **2)** miejsce zamieszkania;
 - **3)** adres do korespondencji;
-- **4)** numer PESEL, a w razie jego braku serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo;
+- **4)** numer PESEL, a w razie jego braku – serię i numer dokumentu potwierdzającego tożsamość oraz obywatelstwo;
 - **5)** numer telefonu lub adres poczty elektronicznej, o ile rzeczoznawca je posiada;
-- **6)** określenie rodzaju uprawnień wraz z datą ich nabycia lub przedłużenia, a także datę utraty danego rodzaju uprawnień w przypadku gdy rzeczoznawca utracił wyłącznie część uprawnień;
+- **6)** określenie rodzaju uprawnień wraz z datą ich nabycia lub przedłużenia, a także datę utraty danego rodzaju uprawnień – w przypadku gdy rzeczoznawca utracił wyłącznie część uprawnień;
 - **7)** datę skreślenia z rejestru;
 - **8)** informacje o:
     - **a)** stałych miejscach wykonywania działalności rzeczoznawcy, jeżeli rzeczoznawca stale wykonuje działalność w określonych miejscach,
@@ -892,7 +954,7 @@ source: "isap-pdf"
 
 10. Informacje zawarte w rejestrze rzeczoznawców są udostępniane na wniosek, z tym że informacje, o których mowa w ust. 6:
 
-- **1)** pkt 2, 4, 5 i 8, są udostępniane wyłącznie sądom, organom ścigania oraz organom administracji rządowej w zakresie niezbędnym do realizacji ich zadań ustawowych;
+- **1)** pkt 2, 4, 5 i 8, są udostępniane wyłącznie sądom, organom ścigania oraz organom administracji rządowej – w zakresie niezbędnym do realizacji ich zadań ustawowych;
 - **2)** pkt 3 i 5, są udostępniane za zgodą rzeczoznawcy wyrażoną w formie pisemnej lub elektronicznej.
 
 11. Informacje, o których mowa w ust. 6 pkt 8 lit. d, podlegają wykreśleniu z rejestru rzeczoznawców z dniem przedawnienia karalności czynów zabronionych albo zatarcia ukarania.
@@ -911,17 +973,20 @@ source: "isap-pdf"
 
 1. Udział w egzaminach, o których mowa w art. 35 ust. 2 pkt 1 i 2, oraz w szkoleniu, o którym mowa w art. 35 ust. 2 pkt 3 lit. a, podlega opłacie, która wynosi w przypadku:
 
-- **1)** egzaminów 5% przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok przeprowadzenia egzaminu;
-- **2)** szkolenia 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia szkolenia za godzinę szkolenia.
+- **1)** egzaminów – 5% przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251 i 1429), zwanego dalej „przeciętnym wynagrodzeniem”, za rok poprzedzający rok przeprowadzenia egzaminu;
+- **2)** szkolenia – 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia szkolenia – za godzinę szkolenia.
 
 2. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa i są wpłacane na rachunek:
 
-- **1)** Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych w przypadku egzaminów, o których mowa w art. 35 ust. 2 pkt 1 i 2;
-- **2)** wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych w przypadku szkolenia, o którym mowa w art. 35 ust. 2 pkt 3 lit. a.
+- **1)** Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych – w przypadku egzaminów, o których mowa w art. 35 ust. 2 pkt 1 i 2;
+- **2)** wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych – w przypadku szkolenia, o którym mowa w art. 35 ust. 2 pkt 3 lit. a.
 
 3. W przypadku gdy szkolenie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a, przeprowadza podmiot upoważniony przez Głównego Inspektora, opłaty za udział w szkoleniu, o których mowa w ust. 1, stanowią przychód tego podmiotu.
 
 **Art. 35b.** Za przeprowadzenie egzaminów, o których mowa w art. 35 ust. 2 pkt 1 i 2:
+
+- **1)** przewodniczący komisji kwalifikacyjnej otrzymuje wynagrodzenie w wysokości 1% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu,
+- **2)** członkowie komisji kwalifikacyjnej otrzymują wynagrodzenie w wysokości 0,5% przeciętnego wynagrodzenia za rok poprzedzający rok przeprowadzenia egzaminu – od jednej osoby egzaminowanej.
 
 **Art. 36.**
 
@@ -976,17 +1041,21 @@ source: "isap-pdf"
 
 **Art. 38.** Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
 
+- **1)** sposób przeprowadzania egzaminów, o których mowa w art. 22 ust. 2 pkt 2 oraz art. 35 ust. 2 pkt 1 i 2, oraz sposób powoływania i skład komisji kwalifikacyjnej,
+- **2)** szczegółowy tryb ubiegania się o udzielenie upoważnienia oraz szczegółowe wymagania do uzyskania przez podmiot upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a,
+- **3)** wzory zaświadczeń o wpisie do rejestru rzeczoznawców, pieczęci imiennej wydawanej rzeczoznawcom i protokołów z przeprowadzonych przez rzeczoznawcę czynności – mając na względzie zapewnienie rzetelnej i obiektywnej kontroli artykułów rolno-spożywczych.
+
 **Art. 39.**
 
 - **43)** 1. Podmiot kontrolowany jest obowiązany wnieść opłaty za czynności przeprowadzone w ramach kontroli:
-- **1)** granicznej jakości handlowej artykułów rolno-spożywczych w wyniku której stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta;
-- **2)** jakości handlowej artykułów rolno-spożywczych innej niż określona w pkt 1, w tym kontroli sprzedaży na odległość, a także kontroli przeprowadzonej na podstawie przepisów odrębnych w wyniku której stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta;
-- **3)** prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością w wyniku której stwierdzono, że materiały lub wyroby przeznaczone do kontaktu z żywnością są wprowadzane do obrotu i oznakowane niezgodnie z obowiązującymi przepisami dotyczącymi materiałów i wyrobów przeznaczonych do kontaktu z żywnością.
+- **1)** granicznej jakości handlowej artykułów rolno-spożywczych – w wyniku której stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta;
+- **2)** jakości handlowej artykułów rolno-spożywczych innej niż określona w pkt 1, w tym kontroli sprzedaży na odległość, a także kontroli przeprowadzonej na podstawie przepisów odrębnych – w wyniku której stwierdzono, że artykuły rolno-spożywcze nie odpowiadają wymaganiom w zakresie jakości handlowej wynikającym z przepisów o jakości handlowej lub wymaganiom dodatkowym zadeklarowanym przez producenta;
+- **3)** prawidłowości wprowadzania do obrotu i oznakowania materiałów i wyrobów przeznaczonych do kontaktu z żywnością – w wyniku której stwierdzono, że materiały lub wyroby przeznaczone do kontaktu z żywnością są wprowadzane do obrotu i oznakowane niezgodnie z obowiązującymi przepisami dotyczącymi materiałów i wyrobów przeznaczonych do kontaktu z żywnością.
 
 2. Wysokość opłat, o których mowa w ust. 1, ustala:
 
-- **1)** Główny Inspektor w przypadku opłaty za przeprowadzone badania laboratoryjne;
-- **2)** wojewódzki inspektor w przypadku opłaty za pozostałe czynności kontrolne.
+- **1)** Główny Inspektor – w przypadku opłaty za przeprowadzone badania laboratoryjne;
+- **2)** wojewódzki inspektor – w przypadku opłaty za pozostałe czynności kontrolne.
 
 3. Wysokość opłat, o których mowa w ust. 1, jest przekazywana kontrolowanemu w formie informacji zawierającej sposób obliczenia tej opłaty, w terminie 30 dni od dnia podpisania protokołu z kontroli albo przekazania wyników badań laboratoryjnych, jeżeli ich przekazanie nastąpiło po podpisaniu protokołu z kontroli.
 
@@ -994,7 +1063,7 @@ source: "isap-pdf"
 
 5. W przypadku niewniesienia opłaty, o której mowa w ust. 1, zgodnie z ust. 4, odpowiednio Główny Inspektor albo wojewódzki inspektor wydaje decyzję w sprawie wysokości tej opłaty.
 
-6. Do opłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi oraz wojewódzkiemu inspektorowi.
+6. Do opłat, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi oraz wojewódzkiemu inspektorowi.
 
 7. Zobowiązanie wynikające z informacji, o której mowa w ust. 3, nie powstaje, jeżeli informacja ta została doręczona kontrolowanemu po upływie 5 lat od końca roku kalendarzowego, w którym przeprowadzono kontrolę.
 
@@ -1004,8 +1073,8 @@ source: "isap-pdf"
 
 10. Maksymalna wysokość opłat, o których mowa w ust. 1, wynosi:
 
-- **1)** dwukrotność przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia opłaty w przypadku opłaty za przeprowadzone badania laboratoryjne;
-- **2)** jednokrotność przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary w przypadku opłaty za pozostałe czynności kontrolne.
+- **1)** dwukrotność przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia opłaty – w przypadku opłaty za przeprowadzone badania laboratoryjne;
+- **2)** jednokrotność przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary – w przypadku opłaty za pozostałe czynności kontrolne.
 
 11. Minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, stawki opłat, o których mowa w ust. 1, mając na względzie koszty pobrania próbek, koszty dojazdu osób pobierających próbki, a także koszty przeprowadzonych badań laboratoryjnych i innych czynności związanych z dokonaniem kontroli.
 
@@ -1022,8 +1091,8 @@ source: "isap-pdf"
 
 3. Z czynności, o których mowa w ust. 2:
 
-- **1)** pkt 1 jest sporządzany protokół;
-- **2)** pkt 2 jest sporządzane sprawozdanie z badań.
+- **1)** pkt 1 – jest sporządzany protokół;
+- **2)** pkt 2 – jest sporządzane sprawozdanie z badań.
 
 4. Upoważnienie do przeprowadzenia kontroli sprzedaży na odległość oraz legitymacja służbowa są okazywane kontrolowanemu w terminie 7 dni od dnia dokonania czynności, o których mowa w ust. 2 pkt 1.
 
@@ -1051,12 +1120,12 @@ source: "isap-pdf"
 
 - **1)** nazwa lub firma albo imię i nazwisko;
 - **2)** adres prowadzenia działalności i adres siedziby;
-- **3)** adres strony internetowej i adres poczty elektronicznej w przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tej strony;
-- **4)** numer telefonu lub faksu w przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tych urządzeń.
+- **3)** adres strony internetowej i adres poczty elektronicznej – w przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tej strony;
+- **4)** numer telefonu lub faksu – w przypadku gdy zakup kontrolny przy sprzedaży na odległość jest dokonywany za pośrednictwem tych urządzeń.
 
 4. Utrwalony obraz lub dźwięk stanowią załącznik do protokołu, o którym mowa w art. 39a ust. 3 pkt 1.
 
-**Art. 39d.** Upoważnienie do przeprowadzenia kontroli sprzedaży na odległość, poza elementami wskazanymi w art. 49 ust. 7 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, zawiera także losowo wybrane przez pracownika Inspekcji imię i nazwisko, o których mowa w art. 39b ust. 2.
+**Art. 39d.** Upoważnienie do przeprowadzenia kontroli sprzedaży na odległość, poza elementami wskazanymi w art. 49 ust. 7 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, zawiera także losowo wybrane przez pracownika Inspekcji imię i nazwisko, o których mowa w art. 39b ust. 2.
 
 **Art. 39e.** Do kontroli sprzedaży na odległość stosuje się odpowiednio przepisy art. 23–24b, art. 25 ust. 2–5, art. 26–28 i art. 30b.
 
@@ -1074,7 +1143,7 @@ source: "isap-pdf"
 - **6)** nie przekazuje organowi Inspekcji, który wystąpił o informacje, o których mowa w art. 12a ust. 5, tych informacji w terminie określonym w art. 12a ust. 6,
 - **7)** będąc rzeczoznawcą, nie wykonuje obowiązku, o którym mowa w:
     - **a)** art. 35 ust. 12,
-    - **b)** art. 36a ust. 2a podlega karze grzywny.
+    - **b)** art. 36a ust. 2a – podlega karze grzywny.
 
 2. Kto:
 
@@ -1085,7 +1154,7 @@ source: "isap-pdf"
 - **5)** nie znakuje jaj kodem producenta zgodnie z art. 9 ust. 1 rozporządzenia nr 589/2008,
 - **6)** będąc producentem, nie prowadzi ewidencji zgodnie z art. 20 rozporządzenia nr 589/2008,
 - **7)** prowadząc punkt odbioru, nie prowadzi ewidencji zgodnie z art. 21 rozporządzenia nr 589/2008,
-- **8)** prowadząc zakład pakowania, nie prowadzi ewidencji zgodnie z art. 22 rozporządzenia nr 589/2008 podlega karze grzywny.
+- **8)** prowadząc zakład pakowania, nie prowadzi ewidencji zgodnie z art. 22 rozporządzenia nr 589/2008 – podlega karze grzywny.
 
 3. (uchylony)
 
@@ -1099,8 +1168,8 @@ source: "isap-pdf"
 - **3)** prowadząc zakład wylęgu drobiu, nie prowadzi lub nie przechowuje dokumentacji albo prowadzi lub przechowuje ją niezgodnie z przepisami art. 12 ust. 4 rozporządzenia nr 543/2008,
 - **4)** prowadząc rzeźnię:
     - **a)** wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, o zawartości wody przekraczającej wartości nieuniknione ze względów technologicznych, oznaczone za pomocą metody analizy opisanej w załączniku VI lub w załączniku VII rozporządzenia nr 543/2008,
-    - **b)** wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, oraz: nie pobiera próbek w celu monitorowania wchłaniania wody w procesie schładzania oraz zawartości wody w kurczakach mrożonych lub głęboko mrożonych, nie rejestruje lub nie przechowuje przez okres jednego roku wyników kontroli, o której mowa w art. 15 ust. 2 tiret drugie rozporządzenia nr 543/2008, nie oznakowuje każdej partii w sposób umożliwiający ustalenie daty produkcji lub nie zamieszcza daty produkcji partii w dokumentacji produkcji,
-    - **c)** nie wykonuje czynności, o których mowa w art. 20 ust. 2 rozporządzenia nr 543/2008 podlega karze grzywny.
+    - **b)** wprowadza do obrotu kurczaki mrożone lub głęboko mrożone, oraz: – nie pobiera próbek w celu monitorowania wchłaniania wody w procesie schładzania oraz zawartości wody w kurczakach mrożonych lub głęboko mrożonych, – nie rejestruje lub nie przechowuje przez okres jednego roku wyników kontroli, o której mowa w art. 15 ust. 2 tiret drugie rozporządzenia nr 543/2008, – nie oznakowuje każdej partii w sposób umożliwiający ustalenie daty produkcji lub nie zamieszcza daty produkcji partii w dokumentacji produkcji,
+    - **c)** nie wykonuje czynności, o których mowa w art. 20 ust. 2 rozporządzenia nr 543/2008 – podlega karze grzywny.
 
 4a. (uchylony) 4b. Kto:
 
@@ -1113,7 +1182,7 @@ source: "isap-pdf"
     - **a)** części A załącznika IV do rozporządzenia nr 1308/2013 lub
     - **b)** art. 1, art. 7 ust. 1 i ust. 3 lit. a oraz załączniku I do rozporządzenia 2017/1182 lub art. 5 rozporządzenia wykonawczego Komisji (UE) 2017/1184 z dnia 20 kwietnia 2017 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do unijnych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania cen rynkowych niektórych kategorii tusz i żywych zwierząt (Dz. Urz.
 
-- **4)** nie dokumentuje w sposób określony w przepisach o jakości handlowej artykułów rolno-spożywczych albo niewłaściwie dokumentuje czynności z zakresu klasyfikacji lub ustalania masy tusz wieprzowych lub wołowych podlega karze grzywny.
+- **4)** nie dokumentuje w sposób określony w przepisach o jakości handlowej artykułów rolno-spożywczych albo niewłaściwie dokumentuje czynności z zakresu klasyfikacji lub ustalania masy tusz wieprzowych lub wołowych – podlega karze grzywny.
 
 4c. Kto, prowadząc rzeźnię świń:
 
@@ -1123,7 +1192,7 @@ source: "isap-pdf"
 - **4)** nie znakuje tusz wieprzowych zgodnie z art. 8 rozporządzenia 2017/1182 lub przepisami o jakości handlowej artykułów rolno-spożywczych dotyczącymi szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych w zakresie oznaczania tusz wieprzowych,
 - **5)** nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e,
 - **6)** nie przekazuje dostawcy zwierząt wyników klasyfikacji tusz wieprzowych zgodnie z art. 1 rozporządzenia 2017/1184,
-- **7)** nie dopełnia obowiązku, o którym mowa w art. 12 ust. 1 lit. b rozporządzenia 2017/1182 podlega karze grzywny.
+- **7)** nie dopełnia obowiązku, o którym mowa w art. 12 ust. 1 lit. b rozporządzenia 2017/1182 – podlega karze grzywny.
 
 4d. Kto, prowadząc rzeźnię bydła:
 
@@ -1137,12 +1206,12 @@ source: "isap-pdf"
 - **4)** nie znakuje tusz wołowych zgodnie z art. 8 rozporządzenia 2017/1182 lub przepisami o jakości handlowej artykułów rolno-spożywczych dotyczącymi szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych w zakresie oznaczania tusz wołowych,
 - **5)** nie dopełnia obowiązku, o którym mowa w art. 15a ust. 3c lub 3d, w terminie określonym w art. 15a ust. 3e,
 - **6)** nie dopełnia obowiązku, o którym mowa w art. 12 ust. 1 lit. b rozporządzenia 2017/1182,
-- **7)** stosuje do klasyfikacji tusz wołowych metodę automatycznej klasyfikacji, o której mowa w art. 10 ust. 1 rozporządzenia 2017/1182, która nie uzyskała zatwierdzenia na podstawie art. 15b ust. 7 podlega karze grzywny.
+- **7)** stosuje do klasyfikacji tusz wołowych metodę automatycznej klasyfikacji, o której mowa w art. 10 ust. 1 rozporządzenia 2017/1182, która nie uzyskała zatwierdzenia na podstawie art. 15b ust. 7 – podlega karze grzywny.
 
 4e. Kto:
 
 - **1)** prowadząc rzeźnię, nie klasyfikuje bydła w wieku poniżej 12. miesiąca życia zgodnie z pkt II części I załącznika VII do rozporządzenia nr 1308/2013,
-- **2)** nie znakuje zgodnie z pkt III i IV części I załącznika VII do rozporządzenia nr 1308/2013 mięsa z pkt I części I załącznika VII do tego rozporządzenia podlega karze grzywny.
+- **2)** nie znakuje zgodnie z pkt III i IV części I załącznika VII do rozporządzenia nr 1308/2013 mięsa z pkt I części I załącznika VII do tego rozporządzenia – podlega karze grzywny.
 
 5. Orzekanie w sprawach o czyny, o których mowa w ust. 1–4e, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
@@ -1161,7 +1230,7 @@ source: "isap-pdf"
 
 2. Kto nie usunął nieprawidłowości stwierdzonych podczas kontroli, o których mowa w ustawie, lub kontroli przeprowadzanych na podstawie przepisów odrębnych, w terminie określonym w zaleceniach pokontrolnych, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
 
-3. Kto wprowadza ponownie do obrotu produkt tego samego rodzaju, który nie odpowiada jakości handlowej ze względu na tę samą wadę, podlega karze pieniężnej ustalonej w zależności od stwierdzonej wady zgodnie z ust. 1 pkt 3 lub 4, podwyższonej o wysokość kar nałożonych w okresie 24 miesięcy przed dniem rozpoczęcia kontroli.
+3. Kto wprowadza ponownie do obrotu produkt tego samego rodzaju, który nie odpowiada jakości handlowej ze względu na tę samą wadę, podlega karze pieniężnej ustalonej – w zależności od stwierdzonej wady – zgodnie z ust. 1 pkt 3 lub 4, podwyższonej o wysokość kar nałożonych w okresie 24 miesięcy przed dniem rozpoczęcia kontroli.
 
 3a. Kto bez zgody wojewódzkiego inspektora zmienia sposób zabezpieczeń, o których mowa w art. 27 ust. 1 pkt 1 i 2 oraz ust. 2 i 3, albo je zdejmuje, podlega karze pieniężnej w wysokości do trzykrotnego przeciętnego wynagrodzenia za rok poprzedzający rok nałożenia kary.
 
@@ -1183,7 +1252,7 @@ source: "isap-pdf"
 
 7. Kary pieniężne są wpłacane na rachunek bankowy odpowiednio Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych albo wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych.
 
-8. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
+8. W zakresie nieuregulowanym w niniejszej ustawie oraz w Kodeksie postępowania administracyjnego do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi albo wojewódzkiemu inspektorowi właściwemu ze względu na miejsce przeprowadzenia kontroli.
 
 **Art. 40b.**
 
@@ -1209,11 +1278,25 @@ source: "isap-pdf"
 
 **Art. 46.** Z dniem wejścia w życie ustawy:
 
+- **1)** nieruchomości, będące w trwałym zarządzie, oraz pozostałe mienie, będące w zarządzie Głównego Inspektoratu Skupu i Przetwórstwa Artykułów Rolnych oraz wojewódzkich inspektoratów skupu i przetwórstwa artykułów rolnych, przechodzą z mocy prawa odpowiednio w trwały zarząd lub w zarząd Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych i wojewódzkich inspektoratów;
+- **2)** nieruchomości, stanowiące własność Centralnego Inspektoratu Standaryzacji, stają się własnością Skarbu Państwa pozostającą w trwałym zarządzie Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych, a pozostałe mienie, stanowiące własność Centralnego Inspektoratu Standaryzacji lub mienie Skarbu Państwa będące we władaniu Centralnego Inspektoratu Standaryzacji, staje się z mocy prawa mieniem Skarbu Państwa, będącym w zarządzie Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **3)** wierzytelności i zobowiązania Głównego Inspektoratu Skupu i Przetwórstwa Artykułów Rolnych oraz Centralnego Inspektoratu Standaryzacji stają się wierzytelnościami i zobowiązaniami Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **4)** wierzytelności i zobowiązania wojewódzkich inspektoratów skupu i przetwórstwa artykułów rolnych stają się wierzytelnościami i zobowiązaniami wojewódzkich inspektoratów jakości handlowej artykułów rolno-spożywczych.
+
 **Art. 46a.** Ilekroć w przepisach odrębnych jest mowa o:
+
+- **1)** Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **2)** Głównym Inspektorze Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **3)** wojewódzkim inspektorze skupu i przetwórstwa artykułów rolnych – należy przez to rozumieć wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych;
+- **4)** Głównym Inspektoracie Inspekcji Skupu i Przetwórstwa Artykułów Rolnych – należy przez to rozumieć Główny Inspektorat Jakości Handlowej Artykułów Rolno-Spożywczych;
+- **5)** wojewódzkim inspektoracie skupu i przetwórstwa artykułów rolnych – należy przez to rozumieć wojewódzki inspektorat jakości handlowej artykułów rolno-spożywczych.
 
 **Art. 47.** (pominięty)
 
 **Art. 48.** Tracą moc:
+
+- **1)** ustawa z dnia 30 czerwca 1970 r. o Inspekcji Skupu i Przetwórstwa Artykułów Rolnych (Dz. U. z 2000 r. poz. 293, 991 i 1191 oraz z 2001 r. poz. 19);
+- **2)** ustawa z dnia 12 września 1996 r. o państwowym nadzorze standaryzacyjnym towarów rolno-spożywczych w obrocie z zagranicą (Dz. U. poz. 584).
 
 **Art. 49.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
 

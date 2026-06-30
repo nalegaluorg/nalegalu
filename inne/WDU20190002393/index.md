@@ -8,12 +8,10 @@ pos: 2393
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 listopada 2019 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 listopada 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
 
 | Pole | Wartość |
 |---|---|
@@ -32,9 +30,11 @@ source: "isap-pdf"
 2. Jeżeli wymaga to niewspółmiernie dużego wysiłku lub nakładów, administrator może dostosować zautomatyzowane systemy przetwarzania danych osobowych do środków technicznych i organizacyjnych, w terminie dłuższym niż wskazany w ust. 1, nie później jednak niż do dnia 6 maja 2023 r.
 3. Dotychczasowe rozstrzygnięcia określające zasady udostępniania informacji i danych osobowych z Centralnej Bazy Danych Osób Pozbawionych Wolności, za pośrednictwem systemu teleinformatycznego, zachowują moc do dnia wejścia w życie decyzji wydanych na podstawie art. 25d ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, nie dłużej jednak niż przez okres 2 lat od dnia wejścia w życie niniejszej ustawy.
 4. Dostosowanie zasad przetwarzania informacji i danych osobowych w zbiorach danych utworzonych przed dniem wejścia w życie niniejszej ustawy do wymogów, o których mowa w art. 19, art. 20 i art. 36, nastąpi nie później niż do dnia 6 maja 2023 r.
-Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 103.** Wydane przed dniem wejścia w życie ustawy upoważnienia do przetwarzania danych osobowych zachowują moc przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 108. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 58 pkt 12, który wchodzi w życie z dniem 1 listopada 2019 r.;
+- **2)** art. 82 pkt 5 w zakresie art. 25c–25h, które wchodzą w życie po upływie roku od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
 
 ### DZIAŁ I Organizacja Trybunału Konstytucyjnego
 
@@ -48,9 +48,17 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 4.** Odrębna ustawa określa:
 
+- **1)** sposób nawiązania, zakres i zasady ustania stosunku służbowego sędziego Trybunału;
+- **2)** prawa i obowiązki sędziego Trybunału;
+- **3)** sprawy immunitetu i nietykalności osobistej oraz zasady odpowiedzialności dyscyplinarnej sędziego Trybunału;
+- **4)** prawa i obowiązki sędziego Trybunału w stanie spoczynku.
+
 #### Rozdział 2 Organy Trybunału
 
 **Art. 5.** Organami Trybunału są:
+
+- **1)** Zgromadzenie Ogólne Sędziów Trybunału, zwane dalej „Zgromadzeniem Ogólnym”;
+- **2)** Prezes Trybunału.
 
 **Art. 6.**
 
@@ -261,7 +269,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 - **2)** pracowników Wydziału Administracji;
 - **3)** pracowników Wydziału Straży Trybunalskiej.
 
-2. Wynagrodzenie Dyrektora Kancelarii Trybunału nie może przekroczyć wynagrodzenia zasadniczego przewidzianego dla dyrektora sądu apelacyjnego określonego w przepisach wykonawczych wydanych na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60, 125, 1469 i 1495).
+2. Wynagrodzenie Dyrektora Kancelarii Trybunału nie może przekroczyć wynagrodzenia zasadniczego przewidzianego dla dyrektora sądu apelacyjnego określonego w przepisach wykonawczych wydanych na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60, 125, 1469 i 1495).
 
 **Art. 23.** W zakresie nieuregulowanym w ustawie do pracowników Kancelarii Trybunału stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 r. poz. 1915 oraz z 2019 r. poz. 1043 i 1820).
 
@@ -359,7 +367,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 - **3)** pracowników Wydziału Weryfikacyjnego;
 - **4)** pracowników Wydziału Studiów.
 
-2. Wynagrodzenie Dyrektora Biura Służby Prawnej Trybunału nie może przekroczyć wynagrodzenia zasadniczego przewidzianego dla dyrektora sądu apelacyjnego określonego w przepisach wykonawczych wydanych na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.
+2. Wynagrodzenie Dyrektora Biura Służby Prawnej Trybunału nie może przekroczyć wynagrodzenia zasadniczego przewidzianego dla dyrektora sądu apelacyjnego określonego w przepisach wykonawczych wydanych na podstawie art. 32c § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 **Art. 32.** W zakresie nieuregulowanym w ustawie do pracowników Biura Służby Prawnej Trybunału stosuje się przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r. poz. 577).
 
@@ -397,7 +405,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 - **1)** 1. Trybunał jest administratorem danych osobowych przetwarzanych w ramach prowadzonych przez niego postępowań.
 
-2. Do przetwarzania danych osobowych w postępowaniach prowadzonych przez Trybunał przepisów art. 15, art. 16 w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się.
+2. Do przetwarzania danych osobowych w postępowaniach prowadzonych przez Trybunał przepisów art. 15, art. 16 – w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się.
 
 3. W związku z przetwarzaniem danych osobowych w postępowaniach prowadzonych przez Trybunał wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku Trybunału.
 
@@ -405,9 +413,9 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 - **1)** 1. Nadzór nad przetwarzaniem danych osobowych przez Trybunał w ramach prowadzonych przez niego postępowań wykonuje Krajowa Rada Sądownictwa.
 
-2. Do nadzoru, o którym mowa w ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
+2. Do nadzoru, o którym mowa w ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
 
-**Art. 36.** W zakresie nieuregulowanym w ustawie do postępowania przed Trybunałem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ).
+**Art. 36.** W zakresie nieuregulowanym w ustawie do postępowania przed Trybunałem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ).
 
 #### Rozdział 2 Składy orzekające
 
@@ -434,7 +442,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 - **4)** w składzie jednego sędziego Trybunału w sprawie odmowy nadania dalszego biegu wnioskom podmiotów, o których mowa w art. 191 ust. 1 pkt 3–5 Konstytucji, w sprawie zgodności aktu normatywnego z Konstytucją, ratyfikowanymi umowami międzynarodowymi lub ustawami albo skargom konstytucyjnym.
 
-2. Rozpoznanie sprawy w pełnym składzie wymaga udziału co najmniej jedenastu sędziów Trybunału. Rozprawie przewodniczy Prezes Trybunału, a w razie przeszkód w przewodniczeniu przez Prezesa Trybunału wyznaczony przez niego sędzia Trybunału.
+2. Rozpoznanie sprawy w pełnym składzie wymaga udziału co najmniej jedenastu sędziów Trybunału. Rozprawie przewodniczy Prezes Trybunału, a w razie przeszkód w przewodniczeniu przez Prezesa Trybunału – wyznaczony przez niego sędzia Trybunału.
 
 **Art. 38.**
 
@@ -478,6 +486,19 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 #### Rozdział 4 Uczestnicy postępowania
 
 **Art. 42.** Uczestnikami postępowania przed Trybunałem są:
+
+- **1)** podmiot, który złożył wniosek, zwany dalej „wnioskodawcą”;
+- **2)** podmiot, który złożył skargę konstytucyjną, zwany dalej „skarżącym”;
+- **3)** organ, który wydał akt normatywny objęty wnioskiem, pytaniem prawnym albo skargą konstytucyjną, albo Prokuratoria Generalna Skarbu Państwa, jeżeli Rada Ministrów wyznaczyła Prokuratorię Generalną Skarbu Państwa do reprezentowania Rady Ministrów lub ministrów w postępowaniu przed Trybunałem;
+- **4)** sąd, który przedstawił Trybunałowi pytanie prawne, jeżeli zgłosił udział w postępowaniu wszczętym na skutek tego pytania prawnego i wyznaczył spośród sędziów tego sądu umocowanego przedstawiciela;
+- **5)** organ statutowy partii – w sprawach zgodności z Konstytucją celów lub działalności partii politycznych;
+- **6)** centralny konstytucyjny organ państwa, którego dotyczy spór kompetencyjny;
+- **7)** Prokurator Generalny;
+- **8)** Sejm, Prezydent Rzeczypospolitej Polskiej i minister właściwy do spraw zagranicznych – w sprawach zgodności z Konstytucją umów międzynarodowych ratyfikowanych w trybie art. 89 ust. 1 oraz art. 90 ust. 2 i 3 Konstytucji;
+- **9)** Prezydent Rzeczypospolitej Polskiej i minister właściwy do spraw zagranicznych – w sprawach zgodności z Konstytucją innych ratyfikowanych umów międzynarodowych;
+- **10)** Rzecznik Praw Obywatelskich, jeżeli zgłosił udział w postępowaniu;
+- **11)** Rzecznik Praw Dziecka, jeżeli zgłosił udział w postępowaniu wszczętym na wniosek Rzecznika Praw Obywatelskich lub postępowaniu w sprawie skargi konstytucyjnej, dotyczących praw dziecka;
+- **12)** podmioty wymienione w art. 45 ust. 1 – w sprawie o stwierdzenie przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenie Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej.
 
 **Art. 43.**
 
@@ -554,7 +575,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 - **1)** uchwałę lub inne rozstrzygnięcie podmiotu, o którym mowa w art. 191 ust. 1 pkt 3–5 Konstytucji, stanowiące podstawę wystąpienia z wnioskiem i określające kwestionowany akt normatywny lub jego część oraz wskazujące wzorzec kontroli;
 - **2)** protokół z posiedzenia organu lub władzy podmiotu, o którym mowa w art. 191 ust. 1 pkt 4 Konstytucji, pozwalający stwierdzić, że uchwała, o której mowa w pkt 1, została podjęta zgodnie z przepisami prawa lub postanowieniami statutu;
-- **3)** w przypadku podmiotu, o którym mowa w art. 191 ust. 1 pkt 4 Konstytucji aktualny odpis z Krajowego Rejestru Sądowego.
+- **3)** w przypadku podmiotu, o którym mowa w art. 191 ust. 1 pkt 4 Konstytucji – aktualny odpis z Krajowego Rejestru Sądowego.
 
 **Art. 49.**
 
@@ -563,6 +584,10 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 2. Wniosek w sprawie zgodności z Konstytucją działalności partii politycznej, poza elementami określonymi w art. 47, zawiera także wskazanie opisu działalności partii politycznej, którą wnioskodawca chce poddać ocenie.
 
 **Art. 50.** Wniosek o rozstrzygnięcie sporu kompetencyjnego zawiera:
+
+- **1)** przepis Konstytucji lub ustawy określający sporną kompetencję;
+- **2)** kwestionowane działania lub zaniechania;
+- **3)** uzasadnienie.
 
 **Art. 51.** Wniosek w sprawie stwierdzenia przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej Polskiej oraz powierzenia Marszałkowi Sejmu tymczasowego wykonywania obowiązków Prezydenta Rzeczypospolitej Polskiej zawiera wskazanie okoliczności, które przejściowo uniemożliwiają Prezydentowi Rzeczypospolitej Polskiej sprawowanie urzędu oraz uniemożliwiają zawiadomienie o tym Marszałka Sejmu.
 
@@ -585,7 +610,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 1. Skarga konstytucyjna zawiera:
 
 - **1)** określenie kwestionowanego przepisu ustawy lub innego aktu normatywnego, na podstawie którego sąd lub organ administracji publicznej orzekł ostatecznie o wolnościach lub prawach albo obowiązkach skarżącego określonych w Konstytucji i w stosunku do którego skarżący domaga się stwierdzenia niezgodności z Konstytucją;
-- **2)** wskazanie, która konstytucyjna wolność lub prawo skarżącego, i w jaki sposób zdaniem skarżącego zostały naruszone;
+- **2)** wskazanie, która konstytucyjna wolność lub prawo skarżącego, i w jaki sposób – zdaniem skarżącego – zostały naruszone;
 - **3)** uzasadnienie zarzutu niezgodności kwestionowanego przepisu ustawy lub innego aktu normatywnego, ze wskazaną konstytucyjną wolnością lub prawem skarżącego, z powołaniem argumentów lub dowodów na jego poparcie;
 - **4)** przedstawienie stanu faktycznego;
 - **5)** udokumentowanie daty doręczenia wyroku, decyzji lub innego rozstrzygnięcia, o których mowa w art. 77 ust. 1;
@@ -657,7 +682,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 3. Trybunał nie umarza postępowania z przyczyny, o której mowa w ust. 1 pkt 4, jeżeli wydanie orzeczenia w postępowaniu zainicjowanym skargą konstytucyjną jest konieczne dla ochrony konstytucyjnych wolności i praw.
 
-##### Oddział 3
+##### Oddział 3 Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 60.**
 
@@ -753,6 +778,11 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 **Art. 72.** Przewodniczący składu orzekającego wydaje zarządzenia mające na celu właściwe przygotowanie rozprawy. Przewodniczący składu orzekającego może w szczególności:
 
+- **1)** zarządzić doręczenie uczestnikom postępowania odpowiednich pism, wniesionych w toku postępowania;
+- **2)** wezwać uczestników postępowania do przedstawienia, w formie pisemnej, w ustalonym terminie, stanowiska w sprawie;
+- **3)** zarządzić przedstawienie przez uczestników postępowania dokumentów i innych materiałów, potrzebnych do wyjaśnienia sprawy;
+- **4)** wezwać do udziału w postępowaniu inne organy lub organizacje, których udział uzna za celowy dla należytego wyjaśnienia sprawy.
+
 **Art. 73.**
 
 1. Akta sprawy rozpoznawanej przed Trybunałem są jawne. Nie dotyczy to zawartych w aktach sprawy dokumentów niejawnych oraz akt spraw, które są rozpoznawane z wyłączeniem jawności.
@@ -815,9 +845,9 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 2. Wątpliwości, których nie można wyjaśnić, rozstrzyga się na korzyść partii politycznej.
 
-3. Do prowadzonych na rozprawie przesłuchań świadków, biegłych albo ujawniania dokumentów istotnych dla rozstrzygnięcia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679, 1255 i 1694).
+3. Do prowadzonych na rozprawie przesłuchań świadków, biegłych albo ujawniania dokumentów istotnych dla rozstrzygnięcia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679, 1255 i 1694).
 
-4. W celu zebrania i utrwalenia dowodów w sprawie zgodności z Konstytucją działalności partii politycznej Trybunał może, w drodze postanowienia, zlecić Prokuratorowi Generalnemu przeprowadzenie dochodzenia. Zakres dochodzenia określony w postanowieniu jest wiążący. Do dochodzenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+4. W celu zebrania i utrwalenia dowodów w sprawie zgodności z Konstytucją działalności partii politycznej Trybunał może, w drodze postanowienia, zlecić Prokuratorowi Generalnemu przeprowadzenie dochodzenia. Zakres dochodzenia określony w postanowieniu jest wiążący. Do dochodzenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 **Art. 83.** Pytanie sądu prowadzącego ewidencję partii politycznych w sprawie zgodności z Konstytucją statutu partii politycznej, w zakresie celów partii i zasad działania partii określonych w statucie, Trybunał rozpoznaje na zasadach i w trybie przewidzianych dla pytania prawnego.
 
@@ -830,6 +860,9 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 ##### Oddział 3 Postępowanie w sprawie rozstrzygnięcia sporu kompetencyjnego
 
 **Art. 85.** Trybunał rozstrzyga spory kompetencyjne, w przypadku gdy:
+
+- **1)** co najmniej dwa centralne konstytucyjne organy państwa uznają się za właściwe do rozstrzygnięcia tej samej sprawy lub wydały w niej rozstrzygnięcia;
+- **2)** co najmniej dwa centralne konstytucyjne organy państwa uznają się za niewłaściwe do rozstrzygnięcia określonej sprawy.
 
 **Art. 86.**
 
@@ -930,7 +963,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 2. Przewodniczący składu orzekającego udziela głosu każdemu uczestnikowi postępowania, a w razie potrzeby również organom lub podmiotom wezwanym do udziału w postępowaniu.
 
-**Art. 98.** Przewodniczący składu orzekającego kieruje rozprawą oraz wydaje zarządzenia niezbędne do utrzymania powagi, spokoju i porządku na rozprawie, a w razie potrzeby stosuje środki przewidziane w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.
+**Art. 98.** Przewodniczący składu orzekającego kieruje rozprawą oraz wydaje zarządzenia niezbędne do utrzymania powagi, spokoju i porządku na rozprawie, a w razie potrzeby stosuje środki przewidziane w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 **Art. 99.**
 
@@ -953,7 +986,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 - **3)** oznaczenie sprawy ze wzmianką co do jej jawności;
 - **4)** przebieg rozprawy, w szczególności wnioski i oświadczenia uczestników postępowania, wyniki postępowania dowodowego, wymienienie zarządzeń i orzeczeń wydanych na rozprawie oraz stwierdzenie, czy zostały ogłoszone.
 
-3. Uczestnicy postępowania mogą zgłaszać wnioski o sprostowanie lub uzupełnienie protokołu do czasu ogłoszenia orzeczenia, a protokołu z rozprawy, na której orzeczenie zostało ogłoszone w ciągu 14 dni od dnia rozprawy.
+3. Uczestnicy postępowania mogą zgłaszać wnioski o sprostowanie lub uzupełnienie protokołu do czasu ogłoszenia orzeczenia, a protokołu z rozprawy, na której orzeczenie zostało ogłoszone – w ciągu 14 dni od dnia rozprawy.
 
 4. Wnioski, o których mowa w ust. 3, rozstrzyga zarządzeniem przewodniczący składu orzekającego po wysłuchaniu protokolanta. Od zarządzenia nie przysługuje odwołanie.
 
@@ -1035,7 +1068,7 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 1. Skład orzekający, który wydał orzeczenie, może w każdym czasie, na posiedzeniu niejawnym, wydać postanowienie o sprostowaniu w orzeczeniu lub jego uzasadnieniu niedokładności, błędów pisarskich lub rachunkowych albo innych oczywistych omyłek.
 
-2. Na oryginale orzeczenia, a na żądanie uczestników postępowania także na przesłanych im odpisach, umieszcza się wzmiankę o sprostowaniu, podpisaną przez przewodniczącego składu orzekającego.
+2. Na oryginale orzeczenia, a na żądanie uczestników postępowania – także na przesłanych im odpisach, umieszcza się wzmiankę o sprostowaniu, podpisaną przez przewodniczącego składu orzekającego.
 
 3. Jeżeli sprostowania nie może dokonać skład orzekający wskazany w ust. 1, wniosek rozpoznaje taki sam skład.
 
@@ -1071,5 +1104,5 @@ Wstępna kontrola wniosków, pytań prawnych i skarg konstytucyjnych
 
 ### DZIAŁ III Przepis końcowy
 
-**Art. 116.** Ustawa wchodzi w życie w terminie określonym w ustawie Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego.
+**Art. 116.** Ustawa wchodzi w życie w terminie określonym w ustawie – Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego.
 

@@ -8,12 +8,10 @@ pos: 437
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o przedsiębiorstwach państwowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 stycznia 2023 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o przedsiębiorstwach państwowych
 
 | Pole | Wartość |
 |---|---|
@@ -63,6 +61,9 @@ source: "isap-pdf"
 #### Rozdział 2 Tworzenie przedsiębiorstw państwowych
 
 **Art. 5.** Przedsiębiorstwa państwowe mogą być tworzone jako:
+
+- **1)** przedsiębiorstwa działające na zasadach ogólnych;
+- **2)** przedsiębiorstwa użyteczności publicznej.
 
 **Art. 6.**
 
@@ -183,6 +184,10 @@ source: "isap-pdf"
 
 **Art. 21.** Z chwilą postawienia przedsiębiorstwa państwowego w stan likwidacji:
 
+- **1)** organ założycielski odwołuje dyrektora przedsiębiorstwa i wyznacza likwidatora;
+- **2)** ulegają rozwiązaniu, z mocy prawa, organy samorządu załogi przedsiębiorstwa;
+- **3)** kompetencje rady pracowniczej do zatwierdzania rocznych sprawozdań finansowych przedsiębiorstw państwowych, postawionych w stan likwidacji, wykonuje organ założycielski.
+
 **Art. 22.**
 
 1. Zamiar wraz z założeniami dokonania połączenia, podziału oraz likwidacji przedsiębiorstwa państwowego przedstawia się w formie pisemnej ogólnemu zebraniu pracowników lub radzie pracowniczej przedsiębiorstwa oraz związkom zawodowym działającym w przedsiębiorstwie w celu uzyskania opinii.
@@ -193,7 +198,7 @@ source: "isap-pdf"
 
 1. Przed podjęciem decyzji o połączeniu, podziale lub likwidacji przedsiębiorstwa przeprowadza się postępowanie przygotowawcze.
 
-2. Do przeprowadzenia postępowania przygotowawczego organ założycielski powołuje zespół przygotowawczy. Zespół ten ma zbadać przyczyny, cel, potrzebę i warunki zamierzonych zmian organizacyjnych oraz przedstawić opinię, a w przypadku likwidacji jej program.
+2. Do przeprowadzenia postępowania przygotowawczego organ założycielski powołuje zespół przygotowawczy. Zespół ten ma zbadać przyczyny, cel, potrzebę i warunki zamierzonych zmian organizacyjnych oraz przedstawić opinię, a w przypadku likwidacji – jej program.
 
 **Art. 24.** Przedsiębiorstwo państwowe może być postawione w stan upadłości.
 
@@ -234,7 +239,7 @@ source: "isap-pdf"
 
 **Art. 28.**
 
-1. Statut przedsiębiorstwa państwowego może przewidywać powołanie jako organów doradczych i opiniodawczych dyrektora kolegium przedsiębiorstwa oraz rady techniczno-ekonomicznej.
+1. Statut przedsiębiorstwa państwowego może przewidywać powołanie jako organów doradczych i opiniodawczych dyrektora – kolegium przedsiębiorstwa oraz rady techniczno-ekonomicznej.
 
 2. Członków tych organów powołuje dyrektor przedsiębiorstwa.
 
@@ -267,6 +272,14 @@ source: "isap-pdf"
 3. Do czasu powołania dyrektora w przedsiębiorstwach nowo organizowanych organ założycielski może wyznaczyć tymczasowego kierownika przedsiębiorstwa na okres nie dłuższy niż 6 miesięcy. Przepis ten nie narusza uprawnienia, o którym mowa w zdaniu pierwszym ust. 2.
 
 **Art. 33a.** Organ uprawniony do powołania dyrektora może wyznaczyć tymczasowego kierownika przedsiębiorstwa również w innych przypadkach niż określone w art. 33 i 41, a w szczególności:
+
+- **1)** odwołania dyrektora;
+- **2)** rezygnacji dyrektora z zajmowanego stanowiska;
+- **3)** wygaśnięcia okresu, na jaki dyrektor był powołany;
+- **4)** zawieszenia przez sąd postępowania upadłościowego;
+- **5)** zakończenia lub przerwania postępowania naprawczego;
+- **6)** rozwiązania ze skutkiem natychmiastowym umowy o zarządzanie przedsiębiorstwem lub z upływem terminu jej wypowiedzenia;
+- **7)** śmierci dyrektora.
 
 **Art. 34.**
 
@@ -357,7 +370,7 @@ source: "isap-pdf"
 
 **Art. 45.**
 
-1. Rada pracownicza przedsiębiorstwa może wystąpić do organu założycielskiego z wnioskiem o odwołanie dyrektora przedsiębiorstwa powołanego przez ten organ, jeżeli dyrektor: swoją działalnością poważnie narusza przepisy prawa, swoją nieprawidłową pracą powoduje, że przedsiębiorstwo nie osiąga zadowalających wyników gospodarczych.
+1. Rada pracownicza przedsiębiorstwa może wystąpić do organu założycielskiego z wnioskiem o odwołanie dyrektora przedsiębiorstwa powołanego przez ten organ, jeżeli dyrektor: – swoją działalnością poważnie narusza przepisy prawa, – swoją nieprawidłową pracą powoduje, że przedsiębiorstwo nie osiąga zadowalających wyników gospodarczych.
 
 2. Rada pracownicza może wystąpić do dyrektora przedsiębiorstwa z umotywowanym wnioskiem o odwołanie zastępcy dyrektora.
 
@@ -602,7 +615,9 @@ source: "isap-pdf"
 
 2. Organ założycielski może w każdym czasie uchylić zarząd komisaryczny i zarządzić likwidację przedsiębiorstwa, jeżeli dalsze wykonywanie programu, o którym mowa w art. 67 ust. 1, nie rokuje poprawy gospodarki przedsiębiorstwa.
 
-**Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe. Art. 71–73. (uchylone)
+**Art. 70.** Koszty związane ze sprawowaniem zarządu komisarycznego obciążają przedsiębiorstwo państwowe.
+
+**Art. 71–73.** (uchylone)
 
 **Art. 74.** Uprawnienia ministra właściwego do spraw finansów publicznych określone w niniejszej ustawie wykonuje właściwy dyrektor izby administracji skarbowej, w wypadku gdy funkcje organu założycielskiego pełni wojewoda.
 

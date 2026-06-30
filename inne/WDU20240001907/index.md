@@ -8,10 +8,10 @@ pos: 1907
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o ochronie ludności i obronie cywilnej
+# Ustawa z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej
 
 *USTAWA z dnia 5 grudnia 2024 r.*
 
@@ -24,12 +24,20 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-05 |
 | Data wydania | 2024-12-23 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania ochrony ludności i obrony cywilnej;
+- **2)** organy i podmioty realizujące zadania ochrony ludności i obrony cywilnej;
+- **3)** zasady planowania ochrony ludności i obrony cywilnej;
+- **4)** zasady funkcjonowania systemów wykrywania zagrożeń oraz powiadamiania, ostrzegania i alarmowania o zagrożeniach;
+- **5)** zasady użytkowania i ewidencjonowania oraz warunki techniczne obiektów zbiorowej ochrony;
+- **6)** zasady funkcjonowania i organizację obrony cywilnej oraz sposób powoływania personelu do obrony cywilnej;
+- **7)** finansowanie ochrony ludności i obrony cywilnej.
 
 **Art. 2.**
 
@@ -48,6 +56,15 @@ source: "isap-pdf"
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** dobrach kultury – należy przez to rozumieć dobra kulturalne określone w art. 1 Konwencji o ochronie dóbr kulturalnych w razie konfliktu zbrojnego wraz z Regulaminem wykonawczym do tej Konwencji oraz Protokole o ochronie dóbr kulturalnych w razie konfliktu zbrojnego, podpisane w Hadze dnia 14 maja 1954 r. (Dz. U. z 1957 r. poz. 212 oraz z 2012 r. poz. 248);
+- **2)** ocenie ryzyka – należy przez to rozumieć całościowy, przekrojowy proces identyfikacji i analizy prawdopodobieństwa wystąpienia zagrożeń, podatności na zagrożenia i szacowania ich skutków dla ludności, w celu przygotowania zdolności organów ochrony ludności do ograniczenia ryzyka wystąpienia zagrożeń;
+- **3)** pomocy doraźnej – należy przez to rozumieć zaopatrzenie poszkodowanych lub ewakuowanych w środki pierwszej potrzeby niezbędne do zabezpieczenia podstawowych potrzeb bytowych, w tym w żywność, wodę, energię, odzież oraz zapewnienie im tymczasowego schronienia i podstawowych warunków sanitarnych do czasu objęcia ich innymi rodzajami pomocy;
+- **4)** pomocy humanitarnej – należy przez to rozumieć działania prowadzone w celu udzielenia pomocy materialnej i logistycznej ludności dotkniętej skutkami klęsk żywiołowych, sytuacji kryzysowych, konfliktów zbrojnych, konsekwencjami migracji, realizowane na zasadach bezstronności, neutralności i niezależności, a także proporcjonalności, adekwatności i szybkości reagowania;
+- **5)** przydziale mobilizacyjnym obrony cywilnej – należy przez to rozumieć imienne wyznaczenie osoby do realizacji zadań obrony cywilnej w organie lub podmiocie obrony cywilnej, zgodnie z wymaganiami kwalifikacyjnymi i jej doświadczeniem oraz predyspozycjami niezbędnymi do realizacji tych zadań;
+- **6)** społecznej odporności – należy przez to rozumieć indywidualną i grupową zdolność ludzi do zaspokajania swoich podstawowych potrzeb bytowych, w tym dzięki posiadaniu własnych zapasów niezbędnych produktów, oraz ich zdolność do współdziałania z podmiotami ochrony ludności, a także do zdobywania kompetencji w zakresie kształtowania świadomości zagrożeń i zapobiegania zagrożeniom oraz pożądanych zachowań na wypadek wystąpienia zagrożeń;
+- **7)** zagrożeniu – należy przez to rozumieć sytuację wpływającą negatywnie na poziom bezpieczeństwa życia i zdrowia ludzi, bezpieczeństwa mienia, dóbr kultury lub środowiska lub wywołującą ograniczenia w działaniu organów administracji publicznej lub infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej;
+- **8)** zasobach ochrony ludności – należy przez to rozumieć personel wykonujący zadania ochrony ludności oraz obrony cywilnej wraz z wyposażeniem, sprzętem, technologiami oraz narzędziami służącymi do wykonywania tych zadań.
+
 **Art. 4.**
 
 1. Zadania ochrony ludności i obrony cywilnej polegają na:
@@ -65,7 +82,8 @@ source: "isap-pdf"
     - **c)** planowaniu i przygotowaniu warunków do ewakuacji ludności, a także miejsc doraźnego schronienia oraz budowli ochronnych,
     - **d)** planowaniu zabezpieczenia dóbr kultury oraz mienia,
     - **e)** zapewnieniu tworzenia rezerw materiałowych i finansowych służących wykonywaniu zadań ochrony ludności i obrony cywilnej,
-    - **f)** planowaniu i przygotowaniu przekształcenia podmiotów ochrony ludności w podmioty obrony cywilnej, towarów, usług i świadczeń,
+    - **f)** planowaniu i przygotowaniu przekształcenia podmiotów ochrony ludności w podmioty obrony cywilnej,
+    - **g)** tworzeniu warunków do utrzymania łańcucha dostaw niezbędnych towarów, usług i świadczeń,
     - **h)** uwzględnieniu przygotowania na zagrożenia powstałe w wyniku zmiany klimatu;
 
 - **4)** działaniach związanych z wystąpieniem zagrożenia, polegających na:
@@ -82,7 +100,8 @@ source: "isap-pdf"
     - **k)** zapewnieniu funkcjonowania podmiotów realizujących działania ratownicze, pomoc humanitarną i pomoc doraźną oraz podmiotów udzielających świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
     - **l)** zapewnieniu funkcjonowania infrastruktury niezbędnej do realizacji zadań ochrony ludności oraz odpowiednich zasobów niezbędnych do zapewnienia ochrony ludności,
     - **m)** utrzymaniu łańcucha dostaw niezbędnych towarów, usług i świadczeń,
-    - **n)** organizowaniu i koordynowaniu udzielania i przyjmowania pomocy humanitarnej, ich potrzeb, pierwszej pomocy, kwalifikowanej pierwszej pomocy, świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz pomocy psychologicznej i prawnej,
+    - **n)** organizowaniu i koordynowaniu udzielania i przyjmowania pomocy humanitarnej,
+    - **o)** zapewnieniu osobom poszkodowanym lub ewakuowanym, w zależności od ich potrzeb, pierwszej pomocy, kwalifikowanej pierwszej pomocy, świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz pomocy psychologicznej i prawnej,
     - **p)** informowaniu rodzin o poszkodowanych oraz pomocy w ich identyfikacji,
     - **q)** doraźnym grzebaniu zmarłych.
 
@@ -94,7 +113,7 @@ source: "isap-pdf"
 
 2. Podmioty ochrony ludności i obrony cywilnej są obowiązane do współpracy z organami ochrony ludności i obrony cywilnej, stosownie do swoich możliwości, kompetencji, obszaru działania oraz zakresu działania ujętego w planach, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i planach ciągłości działania.
 
-3. W czasie stanu nadzwyczajnego przedsiębiorcy będący podmiotami ochrony ludności i obrony cywilnej w pierwszej kolejności wykonują usługi i świadczenia na cywilnej, z uwzględnieniem potrzeb organów ochrony ludności i obrony cywilnej.
+3. W czasie stanu nadzwyczajnego przedsiębiorcy będący podmiotami ochrony ludności i obrony cywilnej w pierwszej kolejności wykonują usługi i świadczenia na rzecz infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej, z uwzględnieniem potrzeb organów ochrony ludności i obrony cywilnej.
 
 **Art. 6.**
 
@@ -109,6 +128,15 @@ source: "isap-pdf"
 
 **Art. 8.** Infrastrukturą niezbędną do realizacji zadań ochrony ludności i obrony cywilnej jest infrastruktura zapewniająca w szczególności:
 
+- **1)** schronienie lub nocleg;
+- **2)** zaopatrzenie w wodę i żywność oraz w produkty lecznicze;
+- **3)** energię elektryczną, paliwo, łączność, usługi teleinformatyczne i transport;
+- **4)** udzielanie pierwszej pomocy, kwalifikowanej pierwszej pomocy i świadczeń opieki zdrowotnej;
+- **5)** magazynowanie i dystrybucję rezerw materiałowych;
+- **6)** realizację działań ratowniczych, pomocy humanitarnej i pomocy doraźnej;
+- **7)** wykrywanie zagrożeń, powiadamianie, ostrzeganie i alarmowanie o zagrożeniach;
+- **8)** funkcjonowanie usług publicznych.
+
 #### Rozdział 2 Organy ochrony ludności i Rządowy Zespół Ochrony Ludności
 
 **Art. 9.**
@@ -120,6 +148,8 @@ source: "isap-pdf"
     - **b)** starosta,
     - **c)** wojewoda,
     - **d)** minister właściwy do spraw wewnętrznych;
+
+- **2)** pozostałe organy ochrony ludności:
     - **a)** marszałek województwa,
     - **b)** minister kierujący działem administracji rządowej, któremu podlegają lub przez którego są nadzorowane: – podmioty ochrony ludności, – organy obsługiwane przez podmioty ochrony ludności.
 
@@ -138,7 +168,8 @@ source: "isap-pdf"
 - **3)** organizowanie współpracy między podmiotami ochrony ludności i obrony cywilnej na obszarze gminy;
 - **4)** ocena wykonywania zadań ochrony ludności i obrony cywilnej na obszarze gminy przez podmioty ochrony ludności, z którymi zawarł porozumienie lub wobec których wydał decyzję o uznaniu za podmiot ochrony ludności;
 - **5)** zawieranie ze starostą porozumienia lub umowy o współdziałaniu w zakresie realizacji zadań ochrony ludności lub obrony cywilnej;
-- **6)** udzielanie wsparcia w przygotowaniu podmiotów ochrony ludności do realizacji zadań ochrony ludności i obrony cywilnej na obszarze gminy, w tym w zakresie wyposażenia w sprzęt i środki ochrony; infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej oraz zaopatrzenia w wodę;
+- **6)** udzielanie wsparcia w przygotowaniu podmiotów ochrony ludności do realizacji zadań ochrony ludności i obrony cywilnej na obszarze gminy, w tym w zakresie wyposażenia w sprzęt i środki ochrony;
+- **7)** tworzenie i utrzymywanie, na obszarze gminy, zasobów ochrony ludności oraz infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej oraz zaopatrzenia w wodę;
 - **8)** wydawanie podmiotom ochrony ludności i obrony cywilnej zaleceń odnośnie do rodzajów i ilości zasobów ochrony ludności utrzymywanych przez te podmioty;
 - **9)** ewidencjonowanie podmiotów i zasobów ochrony ludności na obszarze gminy;
 - **10)** uzgadnianie z komendantem powiatowym (miejskim) Państwowej Straży Pożarnej zasobów gminy przeznaczonych do współdziałania na obszarze powiatu;
@@ -150,7 +181,8 @@ source: "isap-pdf"
 - **16)** powiadamianie, ostrzeganie i alarmowanie ludności o zagrożeniach na obszarze gminy;
 - **17)** utrzymanie gotowości gminnych elementów systemów wykrywania zagrożeń oraz powiadamiania, ostrzegania i alarmowania o zagrożeniach;
 - **18)** planowanie liczby i pojemności obiektów zbiorowej ochrony oraz zlecanie wykonania sprawdzenia obiektu budowlanego pod względem spełniania lub możliwości spełnienia warunków dla obiektów zbiorowej ochrony;
-- **19)** wyznaczanie, zawieranie porozumień i wydawanie decyzji o uznaniu obiektu budowlanego za budowlę ochronną oraz organizowanie miejsc doraźnego schronienia; udzielanie pomocy w przygotowaniu budowli ochronnych do użycia oraz informowanie ludności o umiejscowieniu obiektów zbiorowej ochrony;
+- **19)** wyznaczanie, zawieranie porozumień i wydawanie decyzji o uznaniu obiektu budowlanego za budowlę ochronną oraz organizowanie miejsc doraźnego schronienia;
+- **20)** wydawanie i odwoływanie poleceń udostępnienia budowli ochronnych, udzielanie pomocy w przygotowaniu budowli ochronnych do użycia oraz informowanie ludności o umiejscowieniu obiektów zbiorowej ochrony;
 - **21)** wprowadzanie danych do Centralnej Ewidencji Obiektów Zbiorowej Ochrony, zwanej dalej „Centralną Ewidencją OZO”;
 - **22)** finansowanie i współfinansowanie utrzymania, modernizacji i budowy, na obszarze gminy, infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej, w tym budowli ochronnych;
 - **23)** zapewnienie funkcjonowania urzędu gminy w czasie wojny;
@@ -168,7 +200,8 @@ source: "isap-pdf"
 - **3)** koordynowanie współpracy między służbami, inspekcjami i strażami w zakresie realizacji zadań ochrony ludności i obrony cywilnej na obszarze powiatu;
 - **4)** organizowanie współpracy między gminami w zakresie ochrony ludności i obrony cywilnej na obszarze powiatu;
 - **5)** udzielanie gminom wchodzącym w skład powiatu pomocy w realizacji zadań ochrony ludności i obrony cywilnej, w szczególności obejmujących:
-    - **a)** pozyskiwanie i wykorzystywanie niezbędnych zasobów ochrony ludności i środków finansowych, posiadanych zasobów ochrony ludności do działań na terenie gminy w sytuacjach zagrożenia,
+    - **a)** pozyskiwanie i wykorzystywanie niezbędnych zasobów ochrony ludności i środków finansowych,
+    - **b)** skierowanie, na wniosek wójta (burmistrza, prezydenta miasta), posiadanych zasobów ochrony ludności do działań na terenie gminy w sytuacjach zagrożenia,
     - **c)** wzmacnianie lokalnych inicjatyw dotyczących budowania społecznej odporności,
     - **d)** udzielanie pomocy doraźnej na obszarze powiatu;
 
@@ -183,7 +216,8 @@ source: "isap-pdf"
 - **14)** organizowanie udzielania pomocy humanitarnej na obszarze powiatu;
 - **15)** opracowywanie wkładu do wojewódzkiego planu ewakuacji w zakresie obszaru powiatu;
 - **16)** planowanie oraz organizowanie szkoleń, ćwiczeń i innych form edukacji z zakresu ochrony ludności i obrony cywilnej, w tym zatwierdzanie planów ćwiczeń sporządzanych przez wójtów (burmistrzów, prezydentów miast), ewaluacja tych ćwiczeń oraz wspieranie programów edukacyjnych mających na celu przygotowanie do reagowania na potencjalne zagrożenia na obszarze powiatu;
-- **17)** organizowanie i utrzymanie powiatowych elementów systemów wykrywania zagrożeń oraz powiadamiania, ostrzegania i alarmowania o zagrożeniach; powiatu;
+- **17)** organizowanie i utrzymanie powiatowych elementów systemów wykrywania zagrożeń oraz powiadamiania, ostrzegania i alarmowania o zagrożeniach;
+- **18)** przeciwdziałanie dezinformacji obniżającej społeczną odporność na obszarze powiatu;
 - **19)** planowanie liczby i pojemności obiektów zbiorowej ochrony oraz zlecanie wykonania sprawdzenia obiektu budowlanego pod względem spełniania lub możliwości spełnienia warunków dla obiektów zbiorowej ochrony;
 - **20)** wyznaczanie, zawieranie porozumień i wydawanie decyzji o uznaniu obiektu budowlanego za budowlę ochronną oraz organizowanie miejsc doraźnego schronienia;
 - **21)** wydawanie i odwoływanie poleceń udostępnienia budowli ochronnych, udzielanie pomocy w przygotowaniu budowli ochronnych do użycia oraz informowanie ludności o umiejscowieniu obiektów zbiorowej ochrony;
@@ -200,7 +234,8 @@ source: "isap-pdf"
 - **1)** koordynowania wykonywania zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności i obrony cywilnej wykonujące zadania ratownicze na obszarze powiatu,
 - **2)** analizowania potencjalnych sytuacji zagrożeń i oceny ryzyka ich wystąpienia,
 - **3)** powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach na obszarze powiatu,
-- **4)** ewidencjonowania powiatowych zasobów ochrony ludności, mieszkańców powiatu, w tym kształtowania świadomości o sytuacjach zagrożeń i pożądanych zachowań społecznych,
+- **4)** ewidencjonowania powiatowych zasobów ochrony ludności,
+- **5)** popularyzowania wiedzy z zakresu ochrony ludności i obrony cywilnej wśród mieszkańców powiatu, w tym kształtowania świadomości o sytuacjach zagrożeń i pożądanych zachowań społecznych,
 - **6)** wnioskowania do wojewodów o nadanie przydziałów mobilizacyjnych obrony cywilnej, w tym przydziałów na podstawie wniosków wójtów (burmistrzów, prezydentów miast), dla personelu ratowniczego – starosta wykonuje przy pomocy komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej.
 
 **Art. 12.**
@@ -218,7 +253,8 @@ source: "isap-pdf"
 - **9)** koordynowanie udostępniania podległej infrastruktury na rzecz ochrony ludności i obrony cywilnej;
 - **10)** wyznaczanie, zawieranie porozumień i wydawanie decyzji o uznaniu za podmiot ochrony ludności;
 - **11)** zapewnienie funkcjonowania urzędu marszałkowskiego w czasie wojny;
-- **12)** wnioskowanie do wojewody o nadanie przydziałów mobilizacyjnych obrony cywilnej; do realizacji zadań ochrony ludności i obrony cywilnej i przedstawianie jej sejmikowi województwa.
+- **12)** wnioskowanie do wojewody o nadanie przydziałów mobilizacyjnych obrony cywilnej;
+- **13)** sporządzanie co 2 lata informacji o stanie przygotowań samorządu województwa do realizacji zadań ochrony ludności i obrony cywilnej i przedstawianie jej sejmikowi województwa.
 
 2. Do zadań sejmiku województwa należy uchwalanie w budżecie województwa, na wniosek marszałka działającego w imieniu zarządu województwa, środków finansowych przewidzianych do realizacji zadań własnych w zakresie ochrony ludności i obrony cywilnej.
 
@@ -234,7 +270,8 @@ source: "isap-pdf"
 - **6)** ocena wykonywania zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności, z którymi zawarł porozumienie lub wobec których wydał decyzję o uznaniu za podmiot ochrony ludności, na obszarze województwa;
 - **7)** opracowywanie analiz i raportów na podstawie wniosków z oceny ryzyka województwa oraz gotowości wojewody, organów administracji samorządowej i podmiotów ochrony ludności w zakresie realizowania zadań ochrony ludności i obrony cywilnej w województwie;
 - **8)** tworzenie i utrzymywanie, na obszarze województwa, zasobów ochrony ludności oraz infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej i zapewnienie dostępu do wody;
-- **9)** wydawanie podmiotom ochrony ludności i obrony cywilnej zaleceń odnośnie do rodzajów i ilości zasobów ochrony ludności utrzymywanych przez te podmioty; województwa oraz prowadzenie Wojewódzkiej Ewidencji Zasobów Ochrony Ludności i Obrony Cywilnej;
+- **9)** wydawanie podmiotom ochrony ludności i obrony cywilnej zaleceń odnośnie do rodzajów i ilości zasobów ochrony ludności utrzymywanych przez te podmioty;
+- **10)** ewidencjonowanie podmiotów i zasobów ochrony ludności na obszarze województwa oraz prowadzenie Wojewódzkiej Ewidencji Zasobów Ochrony Ludności i Obrony Cywilnej;
 - **11)** wsparcie podmiotów ochrony ludności w zakresie wyposażenia w sprzęt i środki ochrony;
 - **12)** określanie sposobu utrzymania niezbędnych zasobów ochrony ludności pozwalających na zapewnienie ciągłości realizacji zadań ochrony ludności i obrony cywilnej;
 - **13)** planowanie i zabezpieczanie środków finansowych niezbędnych do realizacji zadań ochrony ludności i obrony cywilnej na obszarze województwa, w tym realizacji zadań zleconych z zakresu administracji rządowej dla gmin i powiatów;
@@ -244,7 +281,7 @@ source: "isap-pdf"
 - **17)** planowanie oraz organizowanie szkoleń, ćwiczeń i innych form edukacji z zakresu ochrony ludności i obrony cywilnej, w tym zatwierdzanie planów ćwiczeń sporządzanych przez starostów i marszałka województwa, ewaluacja tych ćwiczeń oraz wspieranie programów edukacyjnych mających na celu przygotowanie do reagowania na potencjalne zagrożenia na obszarze województwa;
 - **18)** przeciwdziałanie dezinformacji obniżającej społeczną odporność na obszarze województwa;
 - **19)** stała współpraca z Rządowym Centrum Bezpieczeństwa w zakresie pozyskiwania i wymiany informacji dotyczących potencjalnych sytuacji zagrożenia na obszarze województwa;
-- **20)** stała współpraca z samorządowymi organami ochrony ludności w zakresie pozyskiwania i wymiany informacji dotyczących zagrożeń na obszarze gmin zagrożeniom i reagowania na nie;
+- **20)** stała współpraca z samorządowymi organami ochrony ludności w zakresie pozyskiwania i wymiany informacji dotyczących zagrożeń na obszarze gmin i powiatów oraz wypracowywania konkluzji dotyczących przeciwdziałania zagrożeniom i reagowania na nie;
 - **21)** organizowanie i współfinansowanie systemów wykrywania zagrożeń oraz powiadamiania, ostrzegania i alarmowania o zagrożeniach na obszarze województwa w sytuacjach zagrożeń oraz ocena ich funkcjonowania;
 - **22)** powiadamianie, ostrzeganie i alarmowanie ludności o zagrożeniach na obszarze województwa;
 - **23)** planowanie liczby i pojemności obiektów zbiorowej ochrony oraz zlecanie wykonania sprawdzenia obiektu budowlanego pod względem spełniania lub możliwości spełnienia warunków dla obiektów zbiorowej ochrony;
@@ -260,8 +297,9 @@ source: "isap-pdf"
 - **33)** ustalanie i wypłacanie świadczeń dla personelu obrony cywilnej;
 - **34)** wydawanie decyzji w sprawie odszkodowania za szkody powstałe w związku z działaniami ochrony ludności lub obrony cywilnej.
 
-2. Zadania: podmioty ochrony ludności i obrony cywilnej wykonujące zadania ratownicze na obszarze województwa,
+2. Zadania:
 
+- **1)** koordynowania wykonywania zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności i obrony cywilnej wykonujące zadania ratownicze na obszarze województwa,
 - **2)** analizowania potencjalnych sytuacji zagrożenia i oceny ryzyka ich wystąpienia oraz stanu gotowości podmiotów ochrony ludności do realizacji zadań,
 - **3)** wspomagania udzielania pomocy humanitarnej i pomocy doraźnej na obszarze województwa,
 - **4)** ewidencjonowania zasobów ratowniczych ochrony ludności na obszarze województwa,
@@ -269,6 +307,17 @@ source: "isap-pdf"
 - **6)** wspomagania działań popularyzowania wiedzy z zakresu ochrony ludności wśród mieszkańców województwa, w tym kształtowania świadomości o sytuacjach zagrożeń i pożądanych zachowań społecznych – wojewoda wykonuje przy pomocy komendanta wojewódzkiego Państwowej Straży Pożarnej.
 
 **Art. 14.** Do zadań ministrów kierujących działami administracji rządowej należy:
+
+- **1)** nadzór nad wykonywaniem zadań ochrony ludności i obrony cywilnej przez podległe im lub nadzorowane przez nich podmioty realizujące zadania ochrony ludności i obrony cywilnej;
+- **2)** analizowanie zagrożeń mających wpływ na ochronę ludności oraz informacji pochodzących z systemów wykrywania zagrożeń;
+- **3)** ewidencjonowanie zasobów ochrony ludności;
+- **4)** zapewnienie funkcjonowania ministerstwa w czasie wojny;
+- **5)** przygotowanie i szkolenie personelu, w tym ekspertów podległych lub nadzorowanych podmiotów, realizujących zadania z zakresu ochrony ludności i obrony cywilnej, do współdziałania z właściwymi organami i podmiotami ochrony ludności, w tym organizowanie, prowadzenie i ocena ćwiczeń;
+- **6)** inicjowanie badań naukowych i prac rozwojowych dotyczących ochrony ludności i obrony cywilnej;
+- **7)** planowanie potrzeb w zakresie środków finansowych niezbędnych do realizacji zadań ochrony ludności i obrony cywilnej;
+- **8)** wnioskowanie do ministra właściwego do spraw wewnętrznych o nadawanie przydziałów mobilizacyjnych obrony cywilnej osobom zatrudnionym i pełniącym służbę w ministerstwach;
+- **9)** przeciwdziałanie dezinformacji obniżającej społeczną odporność w obszarze swojej właściwości rzeczowej;
+- **10)** zawieranie porozumień i wydawanie decyzji o uznaniu za podmiot ochrony ludności.
 
 **Art. 15.**
 
@@ -283,7 +332,8 @@ source: "isap-pdf"
 - **7)** opracowywanie Programu Ochrony Ludności i Obrony Cywilnej i monitorowanie jego realizacji;
 - **8)** przygotowywanie propozycji do projektu budżetu państwa w zakresie ochrony ludności i obrony cywilnej;
 - **9)** planowanie potrzeb w zakresie środków finansowych i materiałowych niezbędnych do realizacji zadań własnych oraz przez podległe mu i nadzorowane przez niego jednostki w zakresie ochrony ludności;
-- **10)** prowadzenie działalności inwestycyjnej w zakresie ochrony ludności i obrony cywilnej o charakterze ogólnokrajowym; strategicznych określonych w art. 3 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598 i 1907);
+- **10)** prowadzenie działalności inwestycyjnej w zakresie ochrony ludności i obrony cywilnej o charakterze ogólnokrajowym;
+- **11)** planowanie rezerw na potrzeby ochrony ludności w ramach rezerw strategicznych określonych w art. 3 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598 i 1907);
 - **12)** koordynowanie współpracy międzynarodowej w zakresie ochrony ludności i obrony cywilnej w porozumieniu z ministrem właściwym do spraw zagranicznych;
 - **13)** tworzenie i utrzymywanie zasobów ochrony ludności oraz infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej;
 - **14)** wydawanie podmiotom ochrony ludności i obrony cywilnej zaleceń odnośnie do rodzajów i ilości zasobów ochrony ludności utrzymywanych przez te podmioty;
@@ -296,7 +346,7 @@ source: "isap-pdf"
 - **21)** przeciwdziałanie dezinformacji obniżającej społeczną odporność na obszarze kraju;
 - **22)** inicjowanie działalności naukowo-badawczej dotyczącej ochrony ludności i obrony cywilnej;
 - **23)** organizowanie i nadzorowanie systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach oraz żądanie przekazywania komunikatów;
-- **24)** nadzorowanie Systemu Bezpiecznej Łączności Państwowej i pełnienie funkcji operatora Systemu Bezpiecznej Łączności Państwowej, a także zlecanie zadań Bezpiecznej Łączności Państwowej;
+- **24)** nadzorowanie Systemu Bezpiecznej Łączności Państwowej i pełnienie funkcji operatora Systemu Bezpiecznej Łączności Państwowej, a także zlecanie zadań związanych z organizacją, budową, utrzymaniem i modernizacją Systemu Bezpiecznej Łączności Państwowej;
 - **25)** rozpatrywanie odwołań od decyzji wojewodów w sprawach dotyczących obiektów zbiorowej ochrony;
 - **26)** informowanie o obiektach zbiorowej ochrony;
 - **27)** zarządzanie korpusem obrony cywilnej, w tym zasobami krajowej rezerwy obrony cywilnej;
@@ -313,7 +363,8 @@ source: "isap-pdf"
 - **5)** organizowania i nadzorowania systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach;
 - **6)** prowadzenia Centralnej Ewidencji Zasobów Ochrony Ludności i Obrony Cywilnej;
 - **7)** popularyzowania wiedzy z zakresu ochrony ludności i obrony cywilnej wśród społeczeństwa, w tym kształtowania świadomości o sytuacjach zagrożeń i pożądanych zachowań społecznych;
-- **8)** organizowania i realizowania współpracy międzynarodowej w zakresie ochrony ludności i obrony cywilnej; realizacji zadań ochrony ludności i obrony cywilnej, w tym organizowania i koordynowania udzielania pomocy doraźnej na obszarze kraju;
+- **8)** organizowania i realizowania współpracy międzynarodowej w zakresie ochrony ludności i obrony cywilnej;
+- **9)** planowania potrzeb w odniesieniu do środków finansowych niezbędnych do realizacji zadań ochrony ludności i obrony cywilnej, w tym organizowania i koordynowania udzielania pomocy doraźnej na obszarze kraju;
 - **10)** inicjowania działań naukowo-badawczych dotyczących ochrony ludności i obrony cywilnej.
 
 3. Minister właściwy do spraw wewnętrznych może upoważnić Rządowe Centrum Bezpieczeństwa do wykonywania zadań ochrony ludności i obrony cywilnej w zakresie powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach.
@@ -340,7 +391,9 @@ source: "isap-pdf"
     - **j)** zabezpieczenie społeczne,
     - **k)** zdrowie,
     - **l)** kultura i ochrona dziedzictwa narodowego,
-    - **m)** rodzina, – w randze sekretarza stanu albo podsekretarza stanu.
+    - **m)** rodzina,
+    - **n)** rozwój regionalny,
+    - **o)** oświata i wychowanie – w randze sekretarza stanu albo podsekretarza stanu.
 
 4. W pracach Zespołu uczestniczy Szef Biura Bezpieczeństwa Narodowego, a także wskazani według potrzeb przez przewodniczącego Zespołu, przedstawiciele ministrów kierujących działami administracji rządowej innymi niż wymienione w ust. 3, w randze sekretarza stanu albo podsekretarza stanu oraz Komendant Główny Państwowej Straży Pożarnej, Dyrektor Rządowego Centrum Bezpieczeństwa, Prezes Rządowej Agencji Rezerw Strategicznych, Prezes Państwowej Agencji Atomistyki i Dyrektor Instytutu Meteorologii i Gospodarki Wodnej – Państwowego Instytutu Badawczego, a także przedstawiciele innych organów administracji rządowej.
 
@@ -364,10 +417,12 @@ source: "isap-pdf"
 - **8)** terenowe służby ratownicze;
 - **9)** związek ochotniczych straży pożarnych;
 - **10)** jednostki ratownicze, o których mowa w art. 15 pkt 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275, 1222, 1692 i 1907);
+- **10a)** jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej;
 - **11)** inspekcje i straże:
     - **a)** Inspekcja Ochrony Środowiska,
     - **b)** Państwowa Inspekcja Sanitarna,
     - **c)** Inspekcja Weterynaryjna,
+    - **d)** Państwowa Inspekcja Ochrony Roślin i Nasiennictwa,
     - **e)** Inspekcja Transportu Drogowego,
     - **f)** organy nadzoru budowlanego,
     - **g)** straże gminne;
@@ -386,8 +441,9 @@ source: "isap-pdf"
 - **23)** podmioty lecznicze korzystające ze środków publicznych w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782) oraz ustawy z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. poz. 2731 oraz z 2024 r. poz. 1897);
 - **24)** podmioty uprawnione do wykonywania ratownictwa górskiego w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2023 r. poz. 1154);
 - **25)** podmioty uprawnione do wykonywania ratownictwa wodnego w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2023 r. poz. 714);
-- **26)** podmioty uprawnione do wykonywania zadań ochrony dóbr kultury określone w:
-    - **a)** ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), poz. 2393),
+- **26)** podmioty uprawnione do wykonywania zadań ochrony dóbr kultury określone w: poz. 2393),
+    - **a)** ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907),
+    - **b)** ustawie z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r.
     - **c)** ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385),
     - **d)** ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87),
     - **e)** ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164);
@@ -408,7 +464,11 @@ source: "isap-pdf"
 
 2. Podmioty, o których mowa w ust. 1 pkt 21–23, podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane stają się podmiotami ochrony ludności po wyrażeniu zgody, w drodze postanowienia, przez Ministra Obrony Narodowej.
 
-3. Podmioty ochrony ludności wykonują zadania ochrony ludności i obrony cywilnej w ramach swojej właściwości. pracownikami podmiotów ochrony ludności, nie realizują w tych podmiotach zadań obrony cywilnej ani zadań ochrony ludności w zakresie działań ratowniczych. Realizacja pozostałych zadań ochrony ludności odbywa się za zgodą opiekunów prawnych tych osób.
+2a. Jednostki organizacyjne Wojskowej Ochrony Przeciwpożarowej oraz podmioty, o których mowa w ust. 1 pkt 21–23, podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane nie przekształcają się w podmioty obrony cywilnej.
+
+3. Podmioty ochrony ludności wykonują zadania ochrony ludności i obrony cywilnej w ramach swojej właściwości.
+
+4. Osoby, które nie ukończyły 18. roku życia, będące członkami lub pracownikami podmiotów ochrony ludności, nie realizują w tych podmiotach zadań obrony cywilnej ani zadań ochrony ludności w zakresie działań ratowniczych. Realizacja pozostałych zadań ochrony ludności odbywa się za zgodą opiekunów prawnych tych osób.
 
 **Art. 18.**
 
@@ -427,7 +487,9 @@ source: "isap-pdf"
 - **3)** podmiotami prognozującymi i monitorującymi zagrożenia;
 - **4)** przedsiębiorcami i innymi podmiotami świadczącymi usługi pomocy doraźnej i pomocy humanitarnej;
 - **5)** przedsiębiorstwami państwowymi lub spółkami prawa handlowego, w tym spółkami, w których Skarb Państwa lub jednostka samorządu terytorialnego posiadają udziały lub akcje;
-- **6)** innymi podmiotami prowadzącymi działalność gospodarczą niezbędną do zapewnienia realizacji zadań ochrony ludności lub obrony cywilnej. wojewoda, a z podmiotami o zasięgu krajowym – minister właściwy do spraw wewnętrznych, informując o tym właściwych terytorialnie wójta (burmistrza, prezydenta miasta) i starostę. Wykaz podmiotów, z którymi podpisano porozumienia, podaje się niezwłocznie do publicznej wiadomości w Biuletynie Informacji Publicznej przez organ, który zawarł porozumienie.
+- **6)** innymi podmiotami prowadzącymi działalność gospodarczą niezbędną do zapewnienia realizacji zadań ochrony ludności lub obrony cywilnej.
+
+2. Porozumienie z podmiotami o zasięgu krajowym zawiera minister właściwy do spraw wewnętrznych, informując o tym właściwych terytorialnie wójta (burmistrza, prezydenta miasta) i starostę. Wykaz podmiotów, z którymi podpisano porozumienia, podaje się niezwłocznie do publicznej wiadomości w Biuletynie Informacji Publicznej przez organ, który zawarł porozumienie.
 
 3. Przed zawarciem porozumienia organ ochrony ludności weryfikuje obszar działania oraz zdolności podmiotu, o którym mowa w ust. 1, do wykonywania zadań ochrony ludności i obrony cywilnej.
 
@@ -448,7 +510,7 @@ source: "isap-pdf"
 - **1)** wójta (burmistrza, prezydenta miasta), starostę lub marszałka województwa – rozpatruje wojewoda;
 - **2)** wojewodę – rozpatruje minister właściwy do spraw wewnętrznych.
 
-5. Do odwołania od decyzji ministra właściwego do spraw wewnętrznych albo ministra będącego organem ochrony ludności stosuje się art. 127 § 3 ustawy z dnia poz. 572).
+5. Do odwołania od decyzji ministra właściwego do spraw wewnętrznych albo ministra będącego organem ochrony ludności stosuje się art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
 **Art. 21.**
 
@@ -466,7 +528,16 @@ source: "isap-pdf"
 
 7. W odniesieniu do jednego podmiotu można zawrzeć więcej niż jedno porozumienie lub wydać więcej niż jedną decyzję, jeżeli zakresy zadań i współpracy określone w tych porozumieniach lub decyzjach nie pokrywają się oraz wzajemnie nie wykluczają, w szczególności jeśli pozwalają na to warunki organizacyjne oraz techniczne podmiotu.
 
-**Art. 22.** Do zadań Rządowego Centrum Bezpieczeństwa w zakresie ochrony ludności i obrony cywilnej należy: ludności o zagrożeniach, zgodnie z art. 15 ust. 3;
+**Art. 22.** Do zadań Rządowego Centrum Bezpieczeństwa w zakresie ochrony ludności i obrony cywilnej należy:
+
+- **1)** monitorowanie zagrożeń oraz powiadamianie, ostrzeganie i alarmowanie ludności o zagrożeniach, zgodnie z art. 15 ust. 3;
+- **2)** realizacja zobowiązań wynikających z uczestnictwa Rzeczypospolitej Polskiej w Organizacji Traktatu Północnoatlantyckiego i Unii Europejskiej w zakresie budowania odporności państwa na zagrożenia;
+- **3)** opracowanie krajowego planu ewakuacji i koordynowanie sporządzania przez wojewodów wojewódzkich planów ewakuacji ludności;
+- **4)** zapewnianie wymiany informacji związanych z ochroną ludności i obroną cywilną na potrzeby Prezesa Rady Ministrów, Rady Ministrów i ministra właściwego do spraw wewnętrznych;
+- **5)** realizacja innych zadań z zakresu ochrony ludności i obrony cywilnej powierzonych przez ministra właściwego do spraw wewnętrznych;
+- **6)** zapewnienie wymiany informacji na potrzeby realizacji zadań ochrony ludności i obrony cywilnej;
+- **7)** zapewnienie wymiany informacji w ramach międzynarodowej współpracy w obszarze ludności i zobowiązań sojuszniczych;
+- **8)** współdziałanie z organami ochrony ludności.
 
 #### Rozdział 4 Zasoby ochrony ludności
 
@@ -484,7 +555,9 @@ source: "isap-pdf"
 
 1. Centralną Ewidencję Zasobów prowadzi minister właściwy do spraw wewnętrznych.
 
-2. Wojewódzkie Ewidencje Zasobów prowadzą wojewodowie zgodnie ze swoją właściwością. się w systemie teleinformatycznym.
+2. Wojewódzkie Ewidencje Zasobów prowadzą wojewodowie zgodnie ze swoją właściwością.
+
+3. Centralną Ewidencję Zasobów i Wojewódzkie Ewidencje Zasobów prowadzi się w systemie teleinformatycznym.
 
 **Art. 25.**
 
@@ -507,15 +580,34 @@ source: "isap-pdf"
 - **5)** określenie zasad bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
 - **6)** określenie zasad zgłaszania naruszenia ochrony danych osobowych;
 - **7)** zapewnienie poprawności danych, w tym danych osobowych, przetwarzanych w Centralnej Ewidencji Zasobów;
-- **8)** zapewnienie wykonywania kopii bezpieczeństwa. w odniesieniu do Wojewódzkiej Ewidencji Zasobów, podejmuje działania, o których mowa w ust. 1.
+- **8)** zapewnienie wykonywania kopii bezpieczeństwa.
+
+2. Wojewoda zapewnia utrzymanie Wojewódzkiej Ewidencji Zasobów oraz, w odniesieniu do Wojewódzkiej Ewidencji Zasobów, podejmuje działania, o których mowa w ust. 1.
 
 **Art. 27.** W Centralnej Ewidencji Zasobów gromadzi się:
+
+- **1)** dane dotyczące podmiotu ochrony ludności i obrony cywilnej:
+    - **a)** nazwę podmiotu,
+    - **b)** adres siedziby podmiotu,
+    - **c)** adres (adresy) oddziału (oddziałów) podmiotu,
+    - **d)** dane osoby do kontaktu: – imię (imiona) i nazwisko, – numer telefonu, – adres e-mail lub innego środka komunikacji elektronicznej,
+    - **e)** klasyfikację podmiotu zgodnie z art. 17 ust. 1,
+    - **f)** w odniesieniu do podmiotów, o których mowa w art. 17 ust. 1 pkt 37–39, dane dotyczące podstawy uznania za podmiot ochrony ludności: – data uznania za podmiot ochrony ludności, – oznaczenie organu ochrony ludności, który dokonał uznania za podmiot ochrony ludności, – oznaczenie decyzji lub porozumienia o uznaniu za podmiot ochrony ludności,
+    - **g)** zakres zadań ochrony ludności lub obrony cywilnej wykonywanych przez podmiot;
+
+- **2)** dane dotyczące zasobów ochrony ludności znajdujących się w dyspozycji poszczególnych organów ochrony ludności i obrony cywilnej oraz podmiotów ochrony ludności i obrony cywilnej:
+    - **a)** rodzaj i stan ilościowy zasobów,
+    - **b)** dysponenta zasobów,
+    - **c)** miejsce rozmieszczenia zasobów,
+    - **d)** dostępność zasobów i warunki dysponowania zasobami.
 
 **Art. 28.** Dane zawarte w Centralnej Ewidencji Zasobów i w Wojewódzkich Ewidencjach Zasobów nie stanowią informacji publicznej w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
 
 **Art. 29.**
 
-1. Organy ochrony ludności i podmioty ochrony ludności wprowadzają dane do Centralnej Ewidencji Zasobów, zgodnie ze swoją właściwością. Centralnej Ewidencji Zasobów.
+1. Organy ochrony ludności i podmioty ochrony ludności wprowadzają dane do Centralnej Ewidencji Zasobów, zgodnie ze swoją właściwością.
+
+2. Organy ochrony ludności i podmioty ochrony ludności posiadają dostęp do Centralnej Ewidencji Zasobów.
 
 3. Organy ochrony ludności i podmioty ochrony ludności aktualizują dane zawarte w Centralnej Ewidencji Zasobów w ramach monitorowania stanu zasobów, w tym usuwają z ewidencji nieaktualne dane.
 
@@ -531,10 +623,12 @@ source: "isap-pdf"
 
 3. W zakresie danych, o których mowa w art. 27 pkt 2:
 
-- **1)** podmioty, o których mowa w: podmiotów posiadających personel ratowniczy, o których mowa w art. 17 ust. 1 pkt 37–39 – dane są przekazywane do Centralnej Ewidencji Zasobów z Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, o którym mowa w art. 14g ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+- **1)** podmioty, o których mowa w:
     - **a)** art. 17 ust. 1 pkt 1, 10, 12, 13, 15, 16, 24, 33 i 34 – wprowadzają dane bezpośrednio do Centralnej Ewidencji Zasobów,
     - **b)** art. 17 ust. 1 pkt 11, 14, 18–20, 25 i 26 – przekazują dane organom, którym podlegają albo które je nadzorują, celem wprowadzenia do Centralnej Ewidencji Zasobów, [c) art. 17 ust. 1 pkt 17, 21–23, 27–32, 35 i 36 – przekazują dane wojewodzie celem wprowadzenia do Centralnej Ewidencji Zasobów,] <c) art. 17 ust. 1 pkt 17, 21–23, 27–32, 35 i 36 – przekazują dane wojewodzie celem wprowadzenia do Centralnej Ewidencji Zasobów w takim zakresie, w jakim dane te nie są przekazywane do Centralnej Ewidencji Zasobów w sposób, o którym mowa w ust. 4 pkt 1–3,>
     - **d)** art. 17 ust. 1 pkt 37–39 – przekazują dane organom ochrony ludności celem wprowadzenia do Centralnej Ewidencji Zasobów;
+
+- **2)** w zakresie podmiotów, o których mowa w art. 17 ust. 1 pkt 2–10a, 25 i 27, oraz podmiotów posiadających personel ratowniczy, o których mowa w art. 17 ust. 1 pkt 37–39 – dane są przekazywane do Centralnej Ewidencji Zasobów z Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, o którym mowa w art. 14g ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
 
 4. Do Centralnej Ewidencji Zasobów są przekazywane dane, o których mowa w:
 
@@ -549,7 +643,8 @@ source: "isap-pdf"
 1. Dane z Centralnej Ewidencji Zasobów minister właściwy do spraw wewnętrznych albo wojewoda:
 
 - **1)** udostępnia na wniosek innym organom ochrony ludności i obrony cywilnej oraz podmiotom ochrony ludności i obrony cywilnej – w zakresie niezbędnym do realizacji zadań ochrony ludności i obrony cywilnej;
-- **2)** udostępnia na wniosek Siłom Zbrojnym Rzeczypospolitej Polskiej, siłom zbrojnym państw Organizacji Traktatu Północnoatlantyckiego oraz Policji – w zakresie niezbędnym do wykonywania zadań ustawowych lub sojuszniczych; w przypadku, gdy jest to uzasadnione potrzebą wykonania ich ustawowych zadań na rzecz ochrony ludności.
+- **2)** udostępnia na wniosek Siłom Zbrojnym Rzeczypospolitej Polskiej, siłom zbrojnym państw Organizacji Traktatu Północnoatlantyckiego oraz Policji – w zakresie niezbędnym do wykonywania zadań ustawowych lub sojuszniczych;
+- **3)** może udostępnić podmiotom, organom, służbom, inspekcjom i strażom – w przypadku, gdy jest to uzasadnione potrzebą wykonania ich ustawowych zadań na rzecz ochrony ludności.
 
 2. Minister właściwy do spraw wewnętrznych albo wojewoda udostępniają dane z Centralnej Ewidencji Zasobów organom administracji publicznej, sądom i prokuraturze, jeżeli jest to uzasadnione wykonywaniem zadań ustawowych przez te podmioty.
 
@@ -561,9 +656,15 @@ source: "isap-pdf"
 
 **Art. 32.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
+- **1)** sposób ewidencjonowania zasobów ochrony ludności,
+- **2)** sposób i tryb prowadzenia Centralnej Ewidencji Zasobów oraz Wojewódzkich Ewidencji Zasobów,
+- **3)** minimalny zbiór funkcjonalności ewidencji, o których mowa w pkt 2, w tym sposób funkcjonowania w sytuacjach awaryjnych i wymagania dotyczące interfejsów do komunikacji z ewidencją – uwzględniając konieczność zapewnienia aktualizacji ewidencji oraz ujęcia w ewidencji możliwości i warunków dysponowania zasobami ochrony ludności.
+
 **Art. 33.**
 
-1. Terytorialne organy ochrony ludności tworzą i utrzymują zasoby ochrony ludności niezbędne do udzielania pomocy doraźnej i pomocy humanitarnej, obejmujące w szczególności zapasy wody i środki do jej magazynowania, transportu i uzdatniania, zapasowe źródła energii i paliwa, odzież, zapasy żywności, środki sanitarne i higieniczne, produkty lecznicze i wyroby medyczne oraz stacjonarne i mobilne tymczasowe miejsca pobytu. wykonania nałożonych na nie zadań ochrony ludności i obrony cywilnej.
+1. Terytorialne organy ochrony ludności tworzą i utrzymują zasoby ochrony ludności niezbędne do udzielania pomocy doraźnej i pomocy humanitarnej, obejmujące w szczególności zapasy wody i środki do jej magazynowania, transportu i uzdatniania, zapasowe źródła energii i paliwa, odzież, zapasy żywności, środki sanitarne i higieniczne, produkty lecznicze i wyroby medyczne oraz stacjonarne i mobilne tymczasowe miejsca pobytu.
+
+2. Podmioty ochrony ludności utrzymują zasoby ochrony ludności niezbędne do wykonania nałożonych na nie zadań ochrony ludności i obrony cywilnej.
 
 3. Wójt (burmistrz, prezydent miasta), starosta oraz wojewoda zapewniają zasoby ochrony ludności niezbędne do wykonywania przez co najmniej 3 dni trwania zagrożenia zadań ochrony ludności i obrony cywilnej w zakresie:
 
@@ -585,7 +686,7 @@ source: "isap-pdf"
 
 8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wytyczne w sprawie sposobu utrzymywania zasobów ochrony ludności przez obowiązane organy ochrony ludności, o których mowa w ust. 3, z uwzględnieniem rodzajów zagrożeń w poszczególnych obszarach kraju.
 
-9. Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, wytyczne w sprawie sposobu utrzymywania zasobów ochrony konieczności zapewnienia usług publicznych w niezbędnym zakresie.
+9. Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, wytyczne w sprawie sposobu utrzymywania zasobów ochrony ludności przez podmioty ochrony ludności, z uwzględnieniem rodzajów zagrożeń oraz konieczności zapewnienia usług publicznych w niezbędnym zakresie.
 
 **Art. 34.**
 
@@ -607,7 +708,9 @@ source: "isap-pdf"
 
 **Art. 36.**
 
-1. W przypadku gdy zasoby ochrony ludności przewidziane do reagowania i realizacji zadań na terenie gminy lub powiatu są niewystarczające, zadania te realizuje się również przy pomocy zasobów ochrony ludności zadysponowanych z obszaru województwa. i realizacji zadań na terenie województwa są niewystarczające, zadania te realizuje się również przy pomocy zasobów ochrony ludności zadysponowanych z obszaru kraju.
+1. W przypadku gdy zasoby ochrony ludności przewidziane do reagowania i realizacji zadań na terenie gminy lub powiatu są niewystarczające, zadania te realizuje się również przy pomocy zasobów ochrony ludności zadysponowanych z obszaru województwa.
+
+2. W przypadku gdy zasoby ochrony ludności przewidziane do reagowania i realizacji zadań na terenie województwa są niewystarczające, zadania te realizuje się również przy pomocy zasobów ochrony ludności zadysponowanych z obszaru kraju.
 
 3. W przypadku gdy zasoby ochrony ludności przewidziane do reagowania i realizacji zadań na terenie kraju są niewystarczające, zadania te mogą być realizowane również przy pomocy zasobów zadysponowanych w ramach Unijnego Mechanizmu Ochrony Ludności, o którym mowa w Decyzji Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności (Dz. Urz. UE L 347 z 20.12.2013, str. 924, z późn. zm. ), lub na podstawie umów międzynarodowych.
 
@@ -617,9 +720,19 @@ source: "isap-pdf"
 
 **Art. 38.** Organy ochrony ludności i Dyrektor Rządowego Centrum Bezpieczeństwa uwzględniają w planach, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym:
 
+- **1)** plany ewakuacji ludności;
+- **2)** wyciągi z Centralnej Ewidencji Zasobów, Centralnej Ewidencji OZO oraz Ewidencji Obrony Cywilnej;
+- **3)** wykazy zapasowych ujęć wody lub sposobu dostarczania wody w przypadku uszkodzenia wodociągu;
+- **4)** wykazy źródeł energii;
+- **5)** lokalizację magazynów zasobów ochrony ludności;
+- **6)** miejsca udzielania pomocy humanitarnej;
+- **7)** procedury występowania o udzielenie pomocy humanitarnej i pomocy doraźnej oraz sposobu udzielania tej pomocy.
+
 **Art. 39.**
 
 1. Plany ewakuacji ludności obejmują zagadnienia przemieszczenia ludności z miejsca zagrożonego i przyjęcia jej w miejscu bezpiecznym w sytuacji zagrożenia wojną, w przypadku przewidywanego wystąpienia klęski żywiołowej, w czasie wojny i w przypadku wystąpienia klęski żywiołowej.
+
+2. Plany ewakuacji ludności zawierają:
 
 - **1)** liczbę osób przewidzianych do ewakuacji na danym obszarze;
 - **2)** wskazanie infrastruktury transportowej lądowej, wodnej i powietrznej do wykorzystania podczas ewakuacji;
@@ -651,7 +764,7 @@ source: "isap-pdf"
 
 2. Wojewoda uzgadnia wojewódzki plan ewakuacji ludności z Rządowym Centrum Bezpieczeństwa.
 
-3. Wojewódzkie plany ewakuacji ludności, które będą wykorzystane w razie ogłoszenia mobilizacji, w czasie stanu wojennego i w czasie wojny wymagają rejonów tymczasowego pobytu ludności i miejsc zabezpieczenia dóbr kultury.
+3. Wojewódzkie plany ewakuacji ludności, które będą wykorzystane w razie ogłoszenia mobilizacji, w czasie stanu wojennego i w czasie wojny wymagają uzgodnienia z właściwym organem wojskowym w zakresie dróg przemieszczania się, rejonów tymczasowego pobytu ludności i miejsc zabezpieczenia dóbr kultury.
 
 **Art. 43.**
 
@@ -677,7 +790,8 @@ source: "isap-pdf"
 3. Krajowy plan ochrony dóbr kultury na czas wojny zawiera:
 
 - **1)** wskazanie działań na czas wojny w celu ochrony najcenniejszych dóbr kultury;
-- **2)** wskazanie sposobów ochrony najcenniejszych dóbr kultury nieruchomych, które są najbardziej zagrożone; podlegających rozśrodkowaniu i ewakuacji;
+- **2)** wskazanie sposobów ochrony najcenniejszych dóbr kultury nieruchomych, które są najbardziej zagrożone;
+- **3)** miejsca, rodzaje i wykazy najcenniejszych dóbr kultury ruchomych podlegających rozśrodkowaniu i ewakuacji;
 - **4)** wskazanie sposobów ochrony najcenniejszych dóbr kultury ruchomych podlegających ochronie w miejscach stałego przechowywania;
 - **5)** miejsca, wykazy i sposoby ewentualnej ewakuacji najcenniejszych ruchomych dóbr kultury poza granice Rzeczypospolitej Polskiej w czasie wojny;
 - **6)** ogólne zestawienie kosztów, nakładów pracy, materiałów i urządzeń przewidzianych do prac zabezpieczających oraz do rozśrodkowania lub ewakuacji najcenniejszych dóbr kultury;
@@ -700,7 +814,8 @@ source: "isap-pdf"
 
 - **1)** charakterystykę dóbr kultury oraz ich wykaz, z określeniem najbardziej cennych zbiorów i elementów;
 - **2)** ocenę miejsca przechowywania lub położenia oraz możliwych zagrożeń dla dóbr kultury wraz z wnioskami;
-- **3)** wskazanie zadań ochrony dóbr kultury na czas wojny z określeniem niezbędnych priorytetów; z określeniem osób odpowiedzialnych i zespołów ze wskazaniem przypisanych im zadań oraz czasu ich wykonania;
+- **3)** wskazanie zadań ochrony dóbr kultury na czas wojny z określeniem niezbędnych priorytetów;
+- **4)** wykaz prac przygotowawczych i dokumentacyjnych niezbędnych do wykonania, z określeniem osób odpowiedzialnych i zespołów ze wskazaniem przypisanych im zadań oraz czasu ich wykonania;
 - **5)** wykaz rodzajów i ilości potrzebnych materiałów i urządzeń, z określeniem ich przeznaczenia, sposobu pozyskania i miejsc przechowywania;
 - **6)** określenie sposobu oznakowania dóbr kultury znakami rozpoznawczymi oraz trybu wydawania kart tożsamości dla personelu przydzielonego do ochrony dóbr kultury;
 - **7)** opis systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach oraz łączności z wykazami adresów i numerów telefonów lub innych urządzeń łączności jednostek ratowniczych, osób funkcyjnych, specjalistycznych służb, instytucji i rzeczoznawców;
@@ -714,9 +829,13 @@ source: "isap-pdf"
 
 **Art. 46.** Podmioty, o których mowa w art. 17 ust. 1 pkt 26, sporządzają instrukcję postępowania na potrzeby realizacji zadań w razie wystąpienia sytuacji kryzysowych, która określa sposoby postępowania w razie wystąpienia zdarzeń mających znamiona sytuacji kryzysowych i zawiera:
 
+- **1)** opis sposobu postępowania w razie wystąpienia zagrożenia;
+- **2)** wykaz osób odpowiedzialnych za realizację zadań ochrony dóbr kultury;
+- **3)** zestawienie sił i środków niezbędnych do realizacji zadań ochrony dóbr kultury.
+
 **Art. 47.**
 
-1. Podmioty, o których mowa w art. 17 ust. 1 pkt 26, na potrzeby realizacji zadań ochrony dóbr kultury na czas wojny oraz w razie wystąpienia sytuacji przeznaczonych do zabezpieczenia lub ewakuacji.
+1. Podmioty, o których mowa w art. 17 ust. 1 pkt 26, na potrzeby realizacji zadań ochrony dóbr kultury na czas wojny oraz w razie wystąpienia sytuacji kryzysowych dokonują analizy zbiorów w celu wyselekcjonowania dóbr kultury przeznaczonych do zabezpieczenia lub ewakuacji.
 
 2. Dokonując analizy zbiorów, uwzględnia się następujące kryteria:
 
@@ -740,7 +859,7 @@ source: "isap-pdf"
 - **3)** miejsca rozśrodkowania i ewakuacji oraz trasy przejazdu (główne i zapasowe) uzgadnia się z właściwymi organami samorządu;
 - **4)** miejsca rozśrodkowania i ewakuacji oraz trasy przewozu dóbr kultury ruchomych powinny znajdować się z dala od głównych szlaków i węzłów komunikacyjnych, ważnych ośrodków przemysłowych, baz i składnic paliw oraz materiałów niebezpiecznych, a także obiektów wojskowych.
 
-2. Wykazy dóbr kultury ruchomych przeznaczonych do ewakuacji, informacje o trasach przewozu tych dóbr kultury, miejscach ich ukrycia oraz sposobach ich ochrony w czasie transportu i ich zabezpieczenia w nowym miejscu przechowywania o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
+2. Wykazy dóbr kultury ruchomych przeznaczonych do ewakuacji, informacje o trasach przewozu tych dóbr kultury, miejscach ich ukrycia oraz sposobach ich ochrony w czasie transportu i ich zabezpieczenia w nowym miejscu przechowywania podlegają ochronie na zasadach określonych w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
 
 3. Podmioty określone w przepisach wydanych na podstawie art. 45 ust. 9, uwzględniają przy planowaniu inwestycji konieczność zapewnienia przestrzeni magazynowania niezbędnych materiałów i sprzętu do zabezpieczenia i ewakuacji ruchomych dóbr kultury oraz zapewniają środki na pozyskanie, utrzymanie i rotację.
 
@@ -761,7 +880,7 @@ source: "isap-pdf"
 
 1. Szkolenia z zakresu ochrony ludności i obrony cywilnej dla ministrów, sekretarzy stanu i podsekretarzy stanu, kierowników urzędów centralnych oraz wojewodów, marszałków województw i starostów prowadzi Akademia Pożarnicza.
 
-2. Szkolenia z zakresu ochrony ludności i obrony cywilnej dla wójtów (burmistrzów, prezydentów miast), pracowników urzędów administracji publicznej oraz członków i pracowników podmiotów ochrony ludności oraz organów jednostek pomocniczych gminy mogą być prowadzone przez uczelnie służb państwowych organem założycielskim jest minister właściwy do spraw wewnętrznych, ośrodki szkolenia służb podległych ministrowi właściwemu do spraw wewnętrznych oraz inne uczelnie, związek ochotniczych straży pożarnych, a także przez osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, z którymi kierownik urzędu albo podmiot ochrony ludności zawarł umowę na realizację tych szkoleń. Szkolenia dla wójtów (burmistrzów, prezydentów miast) organizują wojewodowie.
+2. Szkolenia z zakresu ochrony ludności i obrony cywilnej dla wójtów (burmistrzów, prezydentów miast), pracowników urzędów administracji publicznej oraz członków i pracowników podmiotów ochrony ludności oraz organów jednostek pomocniczych gminy mogą być prowadzone przez uczelnie służb państwowych podległych ministrowi właściwemu do spraw wewnętrznych, instytuty badawcze Państwowej Straży Pożarnej, uczelnie nadzorowane przez Ministra Obrony Narodowej, szkoły, dla których organem założycielskim jest minister właściwy do spraw wewnętrznych, ośrodki szkolenia służb podległych ministrowi właściwemu do spraw wewnętrznych oraz inne uczelnie, związek ochotniczych straży pożarnych, a także przez osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, z którymi kierownik urzędu albo podmiot ochrony ludności zawarł umowę na realizację tych szkoleń. Szkolenia dla wójtów (burmistrzów, prezydentów miast) organizują wojewodowie.
 
 3. Osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej mogą prowadzić szkolenia z zakresu ochrony ludności i obrony cywilnej, jeżeli posiadają środki organizacyjne i techniczne, w tym osoby dysponujące wiedzą specjalistyczną, niezbędne do zapewnienia odpowiedniego poziomu merytorycznego szkolenia.
 
@@ -775,11 +894,13 @@ source: "isap-pdf"
 
 2. Podmioty ochrony ludności, w szczególności jednostki organizacyjne Państwowej Straży Pożarnej, związek ochotniczych straży pożarnych, Polski Czerwony Krzyż i Rządowe Centrum Bezpieczeństwa, wspomagają organy ochrony ludności w organizacji szkoleń z zakresu ochrony ludności i obrony cywilnej.
 
+3. Szkolenia z zakresu ochrony ludności i obrony cywilnej mogą być również prowadzone przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane w ramach specjalistycznych usług wojskowych, o których mowa w art. 46 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.
+
 **Art. 53.**
 
 1. W celu weryfikacji gotowości i zwiększenia skuteczności wykonywania zadań ochrony ludności i obrony cywilnej oraz utrwalania wiedzy i umiejętności organy ochrony ludności przeprowadzają ćwiczenia z zakresu ochrony ludności i obrony cywilnej.
 
-2. Ćwiczenia z zakresu ochrony ludności i obrony cywilnej przeprowadza się nie rzadziej niż raz na rok, na podstawie planów ćwiczeń ochrony ludności i obrony w przypadku:
+2. Ćwiczenia z zakresu ochrony ludności i obrony cywilnej przeprowadza się nie rzadziej niż raz na rok, na podstawie planów ćwiczeń ochrony ludności i obrony cywilnej. Plan ćwiczeń sporządza właściwy organ ochrony ludności, a zatwierdza, w przypadku:
 
 - **1)** wójta (burmistrza, prezydenta miasta) – starosta;
 - **2)** prezydenta miasta na prawach powiatu, starosty i marszałka województwa – wojewoda;
@@ -797,7 +918,7 @@ source: "isap-pdf"
 
 **Art. 54.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy zakres i sposób organizowania i prowadzenia ćwiczeń z zakresu ochrony ludności i obrony cywilnej, w tym planowania, raportowania i ewaluacji, mając na względzie zapewnienie właściwego przygotowania i sprawdzenia gotowości organów i podmiotów ochrony ludności i obrony cywilnej do realizacji zadań.
 
-**Art. 55.** Edukacja z zakresu ochrony ludności i obrony cywilnej obejmuje w szczególności przekazywanie wiedzy o potencjalnych i aktualnych zagrożeniach zagrożenia.
+**Art. 55.** Edukacja z zakresu ochrony ludności i obrony cywilnej obejmuje w szczególności przekazywanie wiedzy o potencjalnych i aktualnych zagrożeniach mających wpływ na bezpieczeństwo oraz o zasadach postępowania w sytuacjach zagrożenia.
 
 **Art. 56.** Edukacja z zakresu ochrony ludności i obrony cywilnej w systemie oświaty odbywa się na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635).
 
@@ -823,7 +944,8 @@ source: "isap-pdf"
 
 5. Minister właściwy do spraw wewnętrznych koordynuje:
 
-- **1)** realizację zadań ochrony ludności i obrony cywilnej przez wojewodów; w czasie obowiązywania stanu nadzwyczajnego.
+- **1)** realizację zadań ochrony ludności i obrony cywilnej przez wojewodów;
+- **2)** realizację zadań ochrony ludności i obrony cywilnej na obszarze całego kraju – w czasie obowiązywania stanu nadzwyczajnego.
 
 **Art. 59.**
 
@@ -849,11 +971,13 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw wewnętrznych dokonuje oceny wykonywania zadań ochrony ludności i obrony cywilnej przez pozostałe organy ochrony ludności i obrony cywilnej oraz przez podmioty ochrony ludności i obrony cywilnej.
 
-**Art. 62.** Organy ochrony ludności kontrolują wykonywanie zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności, z którymi zawarły porozumienie, o którym mowa w art. 19 ust. 1, lub wobec których wydały decyzję, o której mowa w art. 20 ust. 2.
+**Art. 62.** Organy ochrony ludności kontrolują wykonywanie zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności, o których mowa w art. 17 ust. 1, oraz z którymi zawarły porozumienie, o którym mowa w art. 19 ust. 1, lub wobec których wydały decyzję, o której mowa w art. 20 ust. 2 – w zakresie zadań zleconych tym podmiotom przez te organy.
 
 **Art. 63.**
 
-1. Kontroli wykonywania zadań ochrony ludności i obrony cywilnej dokonuje się pod względem legalności, gospodarności, celowości i rzetelności. podmioty ochrony ludności polega na sprawdzeniu:
+1. Kontroli wykonywania zadań ochrony ludności i obrony cywilnej dokonuje się pod względem legalności, gospodarności, celowości i rzetelności.
+
+2. Kontrola wykonywania zadań ochrony ludności i obrony cywilnej przez podmioty ochrony ludności polega na sprawdzeniu:
 
 - **1)** sposobu przygotowania podmiotu do realizacji zadań ochrony ludności i obrony cywilnej;
 - **2)** sposobu funkcjonowania podmiotu w sytuacjach kryzysowych;
@@ -879,7 +1003,9 @@ source: "isap-pdf"
 - **6)** zabezpieczenia dokumentacji niezbędnej do dokonania kontroli;
 - **7)** wykonywania innych czynności niezbędnych do prawidłowego dokonania kontroli.
 
-3. Osoby prowadzące czynności kontrolne są obowiązane do przestrzegania tajemnicy przedsiębiorcy, a także przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych. egzemplarzach, po jednym dla kontrolowanego i organu dokonującego kontroli. Protokół podpisuje kontrolowany albo osoba przez niego upoważniona.
+3. Osoby prowadzące czynności kontrolne są obowiązane do przestrzegania tajemnicy przedsiębiorcy, a także przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+
+4. Z dokonanych czynności sporządza się protokół w dwóch jednobrzmiących egzemplarzach, po jednym dla kontrolowanego i organu dokonującego kontroli. Protokół podpisuje kontrolowany albo osoba przez niego upoważniona.
 
 5. Protokół zawiera pouczenie o sposobie złożenia zastrzeżeń co do jego treści, przy czym termin na złożenie zastrzeżeń nie może być krótszy niż 7 dni licząc od dnia doręczenia protokołu.
 
@@ -897,9 +1023,17 @@ source: "isap-pdf"
 
 1. Obowiązek podjęcia działań w zakresie powiadamiania, ostrzegania i alarmowania ludności spoczywa na tym organie administracji publicznej lub podmiocie ochrony ludności, który pierwszy powziął informację o wystąpieniu zagrożenia.
 
-2. Organ administracji publicznej lub podmiot ochrony ludności niezwłocznie informuje o zaistniałym zdarzeniu właściwe organy ochrony ludności, przedstawiając jednocześnie swoją ocenę sytuacji oraz informację o planowanych działaniach, jeżeli planuje takie działania. zagrożenie dla życia i zdrowia, jest obowiązany niezwłocznie powiadomić o tym centrum powiadamiania ratunkowego albo właściwe służby lub podmioty ratownicze, a także do czasu ich przybycia udzielić pomocy osobom znajdującym się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia lub zdrowia, jeżeli może jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub zdrowia.
+2. Organ administracji publicznej lub podmiot ochrony ludności niezwłocznie informuje o zaistniałym zdarzeniu właściwe organy ochrony ludności, przedstawiając jednocześnie swoją ocenę sytuacji oraz informację o planowanych działaniach, jeżeli planuje takie działania.
+
+**Art. 68.** Każdy, kto zauważy zdarzenie lub zjawisko mogące stanowić zagrożenie dla życia i zdrowia, jest obowiązany niezwłocznie powiadomić o tym centrum powiadamiania ratunkowego albo właściwe służby lub podmioty ratownicze, a także do czasu ich przybycia udzielić pomocy osobom znajdującym się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia lub zdrowia, jeżeli może jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub zdrowia.
 
 **Art. 69.** Osoby zaalarmowane lub powiadomione o zagrożeniu są obowiązane, bez narażania siebie lub innej osoby na niebezpieczeństwo utraty życia lub zdrowia, do:
+
+- **1)** podjęcia działań przygotowujących do ochrony przed zagrożeniem;
+- **2)** podjęcia we własnym zakresie działań mogących zmniejszyć skutki zagrożenia, mających na celu ochronę zdrowia, życia, mienia i dóbr kultury;
+- **3)** przekazania w miarę możliwości informacji o zagrożeniach i sposobach postępowania osobom, co do których nie ma pewności, że informacja ta do nich dotarła;
+- **4)** zachowania się w sposób zgodny z komunikatem przekazanym przez właściwy organ administracji publicznej lub kierującego działaniem ratowniczym;
+- **5)** udostępnienia w miarę możliwości punktu schronienia osobom chroniącym się przed zagrożeniem.
 
 **Art. 70.**
 
@@ -912,7 +1046,8 @@ source: "isap-pdf"
     - **b)** system stacji wczesnego wykrywania skażeń promieniotwórczych i placówek prowadzących pomiary skażeń promieniotwórczych, których działania koordynuje Prezes Państwowej Agencji Atomistyki;
 
 - **2)** sieci i systemy nadzoru epidemiologicznego i kontroli chorób zakaźnych nadzorowane przez ministra właściwego do spraw zdrowia;
-- **3)** system służący do wykrywania i powiadamiania o zagrożeniach uderzeniami z powietrza w ramach obrony powietrznej Rzeczypospolitej Polskiej nadzorowany przez Ministra Obrony Narodowej; o zagrożeniach: o zarządzaniu kryzysowym,
+- **3)** system służący do wykrywania i powiadamiania o zagrożeniach uderzeniami z powietrza w ramach obrony powietrznej Rzeczypospolitej Polskiej nadzorowany przez Ministra Obrony Narodowej;
+- **4)** systemy wykrywania i alarmowania oraz systemy wczesnego ostrzegania o zagrożeniach: o zarządzaniu kryzysowym,
     - **a)** nadzorowane przez centra zarządzania kryzysowego utworzone przez ministrów i centralne organy administracji rządowej, o których mowa w art. 13 ust. 2 pkt 3 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym,
     - **b)** nadzorowane przez wojewódzkie centra zarządzania kryzysowego, o których mowa w art. 16 ust. 2 pkt 3 ustawy z dnia 26 kwietnia 2007 r.
     - **c)** nadzorowane przez wójtów, burmistrzów, prezydentów miast, o których mowa w art. 20 ust. 1 pkt 3 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
@@ -932,6 +1067,7 @@ source: "isap-pdf"
 - **1)** syreny alarmowe i urządzenia nagłaśniające będące w dyspozycji administracji publicznej, służb, przedsiębiorców i organizacji pozarządowych;
 - **2)** krajowe, regionalne i lokalne systemy ostrzegania, w tym Regionalny System Ostrzegania (RSO);
 - **3)** środki dystrybucji informacji należące do wydawców dzienników lokalnych i ogólnopolskich;
+- **4)** kanały informacyjne nadawców programów radiowych i telewizyjnych;
 - **5)** ALERT RCB;
 - **6)** ostrzeżenie publiczne wysyłane w ramach technologii cyfrowych szybkiej transmisji;
 - **7)** informacje zamieszczane w sieci Internet w oficjalnych serwisach informacyjnych.
@@ -942,11 +1078,15 @@ source: "isap-pdf"
 
 **Art. 72.** Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej oraz ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
+- **1)** rodzaje alarmów oraz sposób ogłaszania i odwołania alarmu,
+- **2)** rodzaje komunikatów ostrzegawczych oraz sposób ogłaszania i odwołania komunikatu,
+- **3)** tryb przekazywania alarmów i komunikatów – w celu skutecznego powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach oraz sprawnego przekazywania alarmów i komunikatów ostrzegawczych oraz mając na uwadze potrzeby osób z różnymi rodzajami niepełnosprawności.
+
 **Art. 73.**
 
 1. W celu realizacji zadań ochrony ludności i obrony cywilnej nadawca programu radiowego i telewizyjnego oraz operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), na żądanie ministra właściwego do spraw wewnętrznych lub wojewody, przekazane za pośrednictwem Rządowego Centrum Bezpieczeństwa, są obowiązani do niezwłocznego nieodpłatnego przekazania komunikatu, na obszarze określonym przez ministra właściwego do spraw wewnętrznych.
 
-2. W celu realizacji zadań ochrony ludności i obrony cywilnej operator ruchomej publicznej sieci telekomunikacyjnej jest obowiązany, na żądanie ministra właściwego do spraw wewnętrznych lub wojewody, przekazane za pośrednictwem Rządowego Centrum Bezpieczeństwa, do niezwłocznego nieodpłatnego wysyłania komunikatów grup użytkowników końcowych, o których mowa w art. 2 pkt 86 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez ministra właściwego do spraw wewnętrznych okres.
+2. W celu realizacji zadań ochrony ludności i obrony cywilnej operator ruchomej publicznej sieci telekomunikacyjnej jest obowiązany, na żądanie ministra właściwego do spraw wewnętrznych lub wojewody, przekazane za pośrednictwem Rządowego Centrum Bezpieczeństwa, do niezwłocznego nieodpłatnego wysyłania komunikatów do wszystkich lub określonych przez ministra właściwego do spraw wewnętrznych grup użytkowników końcowych, o których mowa w art. 2 pkt 86 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez ministra właściwego do spraw wewnętrznych okres.
 
 3. W celu realizacji zadań ochrony ludności i obrony cywilnej, redaktorzy dzienników oraz wydawcy stron internetowych, na żądanie ministra właściwego do spraw wewnętrznych lub wojewody, przekazane za pośrednictwem Rządowego Centrum Bezpieczeństwa, są obowiązani do niezwłocznego nieodpłatnego publikowania komunikatów.
 
@@ -964,7 +1104,8 @@ source: "isap-pdf"
 
 - **1)** zbudowanie interoperacyjności między systemami łączności i komunikacji administracji publicznej, służb podległych ministrowi właściwemu do spraw wewnętrznych oraz innymi wydzielonymi systemami łączności, w tym z systemami pozostającymi we właściwości Ministra Obrony Narodowej;
 - **2)** możliwość przekazywania informacji o zagrożeniach między elementami systemu wykrywania zagrożeń;
-- **3)** możliwość powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach oraz zapewnienia bezpiecznej łączności między służbami państwowymi i podmiotami ochrony ludności przy wykonywaniu zadań ochrony ludności i ochrony porządku publicznego; z uwzględnieniem sieci stacjonarnej, radiowej, komórkowej i satelitarnej.
+- **3)** możliwość powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach oraz zapewnienia bezpiecznej łączności między służbami państwowymi i podmiotami ochrony ludności przy wykonywaniu zadań ochrony ludności i ochrony porządku publicznego;
+- **4)** funkcjonowanie kanałów łączności w sieciach telekomunikacyjnych, z uwzględnieniem sieci stacjonarnej, radiowej, komórkowej i satelitarnej.
 
 5. W skład SBŁP wchodzą następujące podsystemy:
 
@@ -977,11 +1118,20 @@ source: "isap-pdf"
 
 **Art. 75.** Do zadań operatora SBŁP należy:
 
+- **1)** zarządzanie siecią łączności państwowej, w tym wchodzącymi w jej skład urządzeniami i infrastrukturą telekomunikacyjną, w tym wydzielonymi, bezpiecznymi sieciami teletransmisyjnymi pozostającymi we właściwości ministra właściwego do spraw wewnętrznych;
+- **2)** określanie minimalnych warunków technicznych niezbędnych do zapewnienia realizacji połączeń dla stacjonarnych i mobilnych telekomunikacyjnych urządzeń końcowych SBŁP;
+- **3)** zapewnienie możliwości szyfrowania komunikacji pomiędzy użytkownikami instytucjonalnymi i indywidualnymi SBŁP, w tym z wykorzystaniem urządzeń i narzędzi kryptograficznych certyfikowanych przez Agencję Bezpieczeństwa Wewnętrznego lub Służbę Kontrwywiadu Wojskowego;
+- **4)** opracowywanie i aktualizacja dokumentacji bezpieczeństwa SBŁP w zakresie poszczególnych podsystemów;
+- **5)** zapewnienie rozliczalności użytkowników instytucjonalnych oraz użytkowników indywidulanych SBŁP;
+- **6)** zapewnienie utrzymania i rozwoju SBŁP, w tym warunków technicznych do realizacji połączeń;
+- **7)** zarządzanie bezpieczeństwem SBŁP.
+
 **Art. 76.**
 
 1. Operator SBŁP świadczy usługi, na potrzeby realizacji zadań ustawowych, na rzecz:
 
-- **1)** konstytucyjnych organów Rzeczypospolitej Polskiej; jednostek organizacyjnych podległych tym organom lub przez nie nadzorowanych, wykonujących zadania z zakresu:
+- **1)** konstytucyjnych organów Rzeczypospolitej Polskiej;
+- **2)** organów administracji publicznej, urzędów obsługujących te organy oraz jednostek organizacyjnych podległych tym organom lub przez nie nadzorowanych, wykonujących zadania z zakresu:
     - **a)** bezpieczeństwa państwa, ochrony porządku publicznego, ratownictwa, ochrony ludności i obrony cywilnej oraz zarządzania kryzysowego,
     - **b)** powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach przekazywane w ramach systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach;
 
@@ -994,7 +1144,7 @@ source: "isap-pdf"
 
 4. Wartość wsparcia technicznego, o którym mowa w ust. 3, udzielanego operatorowi SBŁP przez wskazane przez Ministra Obrony Narodowej jednostki wojskowe zalicza się do środków, o których mowa w art. 155 ust. 2 pkt 3.
 
-5. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres i sposób udziału służb i pozostałych podmiotów, o których mowa w ust. 3, w budowie, utrzymaniu i rozwoju SBŁP oraz szczegółowe warunki świadczenia usług telekomunikacyjnych w ramach SBŁP w celu zapewnienia ciągłości funkcjonowania w czasie wojny.
+5. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres i sposób udziału służb i pozostałych podmiotów, o których mowa w ust. 3, w budowie, utrzymaniu i rozwoju SBŁP oraz szczegółowe warunki świadczenia usług telekomunikacyjnych w ramach SBŁP w celu zapewnienia ciągłości funkcjonowania administracji państwowej oraz ochrony ludności w czasie pokoju i obrony cywilnej w czasie wojny.
 
 **Art. 77.** Organy ochrony ludności mogą wykorzystywać SBŁP w procesie ogłaszania i odwoływania alarmów oraz w procesie przekazywania komunikatów ostrzegawczych.
 
@@ -1004,19 +1154,29 @@ source: "isap-pdf"
 
 2. Rada Ministrów określi, w drodze rozporządzenia, sposób korzystania z SBŁP przez użytkowników, minimalne wymagania techniczne i funkcjonalne, jakie musi spełniać SBŁP, oraz minimalny poziom bezpieczeństwa usług transmisji danych, połączeń głosowych oraz wiadomości tekstowych, mając na względzie konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa komunikacji oraz aktualny poziom wiedzy naukowo-technicznej.
 
-**Art. 79.** Wykonując zadania operatora SBŁP, minister właściwy do spraw wewnętrznych może zlecać zadania związane z organizacją, budową, utrzymaniem i modernizacją SBŁP podległym sobie lub nadzorowanym przez siebie organom i jednostkom organizacyjnym, za zgodą Ministra Obrony Narodowej wskazanym przez niego jednostkom wojskowym oraz innym podmiotom, o których mowa w art. 76 ust. 3, a także podmiotom spełniającym łącznie następujące warunki:
+**Art. 79.** Wykonując zadania operatora SBŁP, minister właściwy do spraw wewnętrznych może zlecać zadania związane z organizacją, budową, utrzymaniem i modernizacją SBŁP:
+
+- **1)** podległym sobie lub nadzorowanym przez siebie organom i jednostkom organizacyjnym;
+- **2)** jednostkom wojskowym, za zgodą Ministra Obrony Narodowej;
+- **3)** podmiotom, o których mowa w art. 76 ust. 3, z wyłączeniem Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego;
+- **4)** podmiotom spełniającym łącznie następujące warunki:
+    - **a)** będącym przedsiębiorcą telekomunikacyjnym lub podmiotem prowadzącym działalność telekomunikacyjną,
+    - **b)** posiadającym świadectwo bezpieczeństwa przemysłowego pierwszego stopnia, o którym mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych,
+    - **c)** dającym rękojmię należytego wykonywania zadań na rzecz operatora SBŁP.
+
+**Art. 79a.** Koszty realizacji zadania operatora SBŁP, związane z organizacją, budową, utrzymaniem i modernizacją SBŁP, zleconego przez ministra właściwego do spraw wewnętrznych podległym sobie lub nadzorowanym przez siebie organom i jednostkom organizacyjnym, są finansowane z części budżetowej, której dysponentem jest minister właściwy do spraw wewnętrznych.
 
 **Art. 80.**
 
-1. Na potrzeby realizacji zadań, o których mowa w art. 75, art. 76 i art. 79, użytkownik wieczysty lub zarządca nieruchomości stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego zapewnia operatorowi SBŁP dostęp do nieruchomości, w tym do budynku, polegający na umożliwieniu umieszczenia na niej infrastruktury telekomunikacyjnej, a także eksploatacji racjonalnego korzystania z nieruchomości.
+1. Na potrzeby realizacji zadań, o których mowa w art. 75, art. 76 i art. 79, użytkownik wieczysty lub zarządca nieruchomości stanowiącej własność Skarbu Państwa lub jednostki samorządu terytorialnego zapewnia operatorowi SBŁP dostęp do nieruchomości, w tym do budynku, polegający na umożliwieniu umieszczenia na niej infrastruktury telekomunikacyjnej, a także eksploatacji i konserwacji tej infrastruktury telekomunikacyjnej, jeżeli nie uniemożliwia to racjonalnego korzystania z nieruchomości.
 
 2. Warunki dostępu, o którym mowa w ust. 1, określa odpowiednio porozumienie lub umowa zawarte pomiędzy operatorem SBŁP a użytkownikiem wieczystym lub zarządcą nieruchomości, o których mowa w ust. 1.
 
 **Art. 81.** Prezes Rady Ministrów, na wniosek ministra właściwego do spraw wewnętrznych, uzgodniony z Ministrem Obrony Narodowej, w drodze zarządzenia, powołuje Pełnomocnika Rządu do spraw Systemu Bezpiecznej Łączności Państwowej i określa jego szczegółowy zakres działania.
 
-#### Rozdział 9 Obiekty zbiorowej ochrony
+#### Rozdział 9 Obiekty zbiorowej ochrony i punkty schronienia
 
-**Art. 82.** W celu ochrony ludności przed zagrożeniami powstałymi w wyniku klęsk żywiołowych, zdarzeń o charakterze terrorystycznym lub działań wojennych wykorzystuje się obiekty zbiorowej ochrony.
+**Art. 82.** W celu ochrony ludności przed zagrożeniami powstałymi w wyniku klęsk żywiołowych, zdarzeń o charakterze terrorystycznym lub działań wojennych wykorzystuje się obiekty zbiorowej ochrony i punkty schronienia.
 
 **Art. 83.**
 
@@ -1032,7 +1192,19 @@ source: "isap-pdf"
 
 **Art. 84.** Miejsca doraźnego schronienia to obiekty zbiorowej ochrony będące obiektami budowlanymi, przystosowane do tymczasowego ukrycia ludzi, organizowane na zasadach określonych w art. 102.
 
-**Art. 85.** Ilekroć w niniejszym rozdziale jest mowa o właścicielu, rozumie się przez to również użytkownika wieczystego. cywilnej wójt (burmistrz, prezydent miasta), starosta lub wojewoda mogą wyznaczyć, w drodze zarządzenia, obiekty budowlane znajdujące się w ich władaniu lub we władaniu podległych im jednostek organizacyjnych, uznając je za budowle ochronne. 2. W zarządzeniu o uznaniu za budowlę ochronną określa się szczegółowe warunki użytkowania budowli ochronnej, w zakresie przewidzianym w ustawie. 3. W zarządzeniu o uznaniu za budowlę ochronną zawiera się postanowienie o obowiązku udostępnienia budowli ochronnej na cele ochrony ludności. 4. Zarządzenie o uznaniu za budowlę ochronną może dotyczyć również planowanego obiektu budowlanego.
+**Art. 84a.** Punkty schronienia to miejsca przydatne do tymczasowego ukrycia ludzi, w obiektach budowlanych albo w innych miejscach, zapewniające spełnienie podstawowej funkcji ochronnej przed nagłymi niebezpiecznymi zjawiskami pogodowymi oraz skutkami użycia konwencjonalnych środków rażenia, w szczególności odłamkami.
+
+**Art. 85.** Ilekroć w niniejszym rozdziale jest mowa o właścicielu, rozumie się przez to również użytkownika wieczystego.
+
+**Art. 86.**
+
+1. W celu zapewnienia realizacji zadań ochrony ludności i obrony cywilnej wójt (burmistrz, prezydent miasta), starosta lub wojewoda mogą wyznaczyć, w drodze zarządzenia, obiekty budowlane znajdujące się w ich władaniu lub we władaniu podległych im jednostek organizacyjnych, uznając je za budowle ochronne.
+
+2. W zarządzeniu o uznaniu za budowlę ochronną określa się szczegółowe warunki użytkowania budowli ochronnej, w zakresie przewidzianym w ustawie.
+
+3. W zarządzeniu o uznaniu za budowlę ochronną zawiera się postanowienie o obowiązku udostępnienia budowli ochronnej na cele ochrony ludności.
+
+4. Zarządzenie o uznaniu za budowlę ochronną może dotyczyć również planowanego obiektu budowlanego.
 
 **Art. 87.**
 
@@ -1041,6 +1213,8 @@ source: "isap-pdf"
 2. W porozumieniu określa się szczegółowe obowiązki właściciela lub zarządcy oraz warunki użytkowania budowli ochronnej, w zakresie przewidzianym w ustawie.
 
 3. W porozumieniu zawiera się postanowienie o obowiązku udostępnienia budowli ochronnej na cele ochrony ludności na polecenie organu ochrony ludności.
+
+3a. Porozumienie może dotyczyć również planowanego obiektu budowlanego.
 
 4. Wypowiedzenie porozumienia przez właściciela lub zarządcę budowli ochronnej wymaga zgody właściwego organu ochrony ludności. Wyrażenie zgody jest czynnością materialno-techniczną, a odmowa wyrażenia zgody na wypowiedzenie porozumienia następuje w drodze decyzji administracyjnej.
 
@@ -1053,7 +1227,7 @@ source: "isap-pdf"
 
 1. Jeżeli jest to uzasadnione koniecznością realizacji zadań ochrony ludności i obrony cywilnej, wójt (burmistrz, prezydent miasta), starosta lub wojewoda mogą uznać obiekt budowlany za budowlę ochronną.
 
-2. Uznanie obiektu budowlanego za budowlę ochronną następuje w drodze decyzji administracyjnej. Organ wydaje decyzję, uwzględniając ustalenia miejscowych planów zagospodarowania przestrzennego, o których mowa w art. 4 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130), oraz decyzji o warunkach zabudowy uwagę uzasadniony interes właściciela lub zarządcy obiektu budowlanego, którego dotyczy decyzja.
+2. Uznanie obiektu budowlanego za budowlę ochronną następuje w drodze decyzji administracyjnej. Organ wydaje decyzję, uwzględniając ustalenia miejscowych planów zagospodarowania przestrzennego, o których mowa w art. 4 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130), oraz decyzji o warunkach zabudowy i zagospodarowania terenu, o których mowa w art. 4 ust. 2 tej ustawy, biorąc pod uwagę uzasadniony interes właściciela lub zarządcy obiektu budowlanego, którego dotyczy decyzja.
 
 3. Decyzja o uznaniu za budowlę ochronną może być wydana na wniosek właściciela lub zarządcy obiektu budowlanego albo z urzędu.
 
@@ -1082,7 +1256,7 @@ source: "isap-pdf"
 
 **Art. 90.**
 
-1. Właściwe organy ochrony ludności, na obszarze swojej właściwości miejscowej, planują niezbędną liczbę i pojemność obiektów zbiorowej ochrony, przewidywane rodzaje zagrożeń.
+1. Właściwe organy ochrony ludności, na obszarze swojej właściwości miejscowej, planują niezbędną liczbę i pojemność obiektów zbiorowej ochrony, uwzględniając w szczególności liczbę ludności przebywającej na danym obszarze oraz przewidywane rodzaje zagrożeń.
 
 2. Pojemność obiektów zbiorowej ochrony planuje się w taki sposób, aby zapewnić schronienie:
 
@@ -1102,7 +1276,9 @@ source: "isap-pdf"
 4. Sprawdzenie obiektu budowlanego wójt (burmistrz, prezydent miasta), starosta albo wojewoda zlecają odpowiednio:
 
 - **1)** komendantowi powiatowemu (miejskiemu) Państwowej Straży Pożarnej – zgodnie z zakresem wskazanym w art. 107 ust. 2;
-- **2)** powiatowemu inspektorowi nadzoru budowlanego – zgodnie z zakresem wskazanym w art. 107 ust. 1. nadzoru budowlanego mogą przeprowadzić wspólnie.
+- **2)** powiatowemu inspektorowi nadzoru budowlanego – zgodnie z zakresem wskazanym w art. 107 ust. 1.
+
+5. Sprawdzenie obiektu budowlanego Państwowa Straż Pożarna i organy nadzoru budowlanego mogą przeprowadzić wspólnie.
 
 6. Sprawdzenia obiektu budowlanego dokonuje się w szczególności przed zawarciem porozumienia albo przed wydaniem decyzji o uznaniu za budowlę ochronną.
 
@@ -1117,6 +1293,17 @@ source: "isap-pdf"
 
 10. Czynności, o których mowa w ust. 1 i 3, wójt (burmistrz, prezydent miasta) i starosta wykonują jako zadania zlecone z zakresu administracji rządowej.
 
+**Art. 91a.**
+
+1. Właściwy miejscowo komendant powiatowy (miejski) Państwowej Straży Pożarnej identyfikuje punkty schronienia w:
+
+- **1)** obiektach budowlanych, wobec których trwa postępowanie o uznanie za budowlę ochronną;
+- **2)** obiektach budowlanych albo ich częściach, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej;
+- **3)** planowanych miejscach organizacji miejsc doraźnego schronienia;
+- **4)** obiektach budowlanych lub innych miejscach zapewniających spełnienie podstawowej funkcji ochronnej przed skutkami niebezpiecznych zjawisk pogodowych oraz skutkami użycia konwencjonalnych środków rażenia, w szczególności odłamkami.
+
+2. Komendant powiatowy (miejski) Państwowej Straży Pożarnej zawiadamia o zidentyfikowanych punktach schronienia właściwego wójta (burmistrza, prezydenta miasta) oraz starostę, a także właściciela lub zarządcę nieruchomości, na której znajduje się zidentyfikowany punkt schronienia.
+
 **Art. 92.**
 
 1. Obiekty zbiorowej ochrony projektuje się i wznosi w sposób zapewniający spełnienie warunków określonych w przepisach techniczno-budowlanych wydanych na podstawie art. 7 ust. 2 lub 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834, 1222, 1847 i
@@ -1125,21 +1312,80 @@ source: "isap-pdf"
 
 2. Warunki techniczne budowli ochronnych obejmują w szczególności odpowiednią wytrzymałość, rozwiązania z zakresu bezpieczeństwa pożarowego, wentylację, rozwiązania ewakuacyjne, zaopatrzenie w energię i wodę, odprowadzanie ścieków i rozwiązania służące przetrwaniu osób znajdujących się w budowli ochronnej. Szczegółowe warunki techniczne mogą być określone przez odwołanie do odpowiednich Polskich Norm.
 
-3. Warunki techniczne usytuowania obejmują w szczególności określenie odległości obiektów zbiorowej ochrony od innych obiektów budowlanych. pojemności i wyposażenia budowli ochronnej.
+3. Warunki techniczne usytuowania obejmują w szczególności określenie odległości obiektów zbiorowej ochrony od innych obiektów budowlanych.
+
+4. Warunki techniczne użytkowania obejmują w szczególności określenie pojemności i wyposażenia budowli ochronnej.
 
 5. Budowle ochronne w miarę możliwości projektuje się jako obiekty o podwójnej funkcji, w sposób umożliwiający ich wykorzystanie zgodnie z potrzebami właścicieli lub zarządców i gwarantujący spełnienie funkcji budowli ochronnej.
 
+**Art. 92a.**
+
+1. W uzasadnionych przypadkach warunki techniczne dla miejsc doraźnego schronienia, o których mowa w przepisach wydanych na podstawie art. 115 ust. 1 pkt 3, mogą być spełnione w sposób inny niż określony w tych przepisach, jeżeli proponowane rozwiązania zamienne zapewniają funkcje ochronne umożliwiające zorganizowanie miejsca doraźnego schronienia.
+
+2. Właściwy wojewoda, na wniosek inwestora lub właściciela obiektu budowlanego uzasadniony ekspertyzą techniczną, udziela albo odmawia udzielenia zgody na zastosowanie rozwiązań zamiennych, w drodze postanowienia, po uzyskaniu upoważnienia ministra właściwego do spraw wewnętrznych.
+
+3. Ekspertyzę techniczną, o której mowa w ust. 2, wykonuje osoba posiadająca uprawnienia budowlane bez ograniczeń w odpowiedniej specjalności.
+
+4. Wojewoda składa do ministra właściwego do spraw wewnętrznych wniosek w sprawie upoważnienia, o którym mowa w ust. 2, przed wydaniem decyzji o pozwoleniu na budowę albo decyzji o zmianie pozwolenia na budowę. Wniosek zawiera:
+
+- **1)** charakterystykę obiektu budowlanego określającą w szczególności informacje o wielkości części podziemnych w obiekcie budowlanym, przeznaczeniu pomieszczeń lub przestrzeni w części podziemnej obiektu budowlanego;
+- **2)** opinię wojewody wraz ze szczegółowym uzasadnieniem o konieczności wprowadzenia rozwiązań zamiennych;
+- **3)** propozycje rozwiązań zamiennych;
+- **4)** uzasadnienie dotyczące zapewnienia funkcji ochronnych umożliwiających zorganizowanie miejsca doraźnego schronienia przy uwzględnieniu projektowanych rozwiązań.
+
+5. Minister właściwy do spraw wewnętrznych może uzależnić upoważnienie, o którym mowa w ust. 2, od spełnienia dodatkowych warunków.
+
 **Art. 93.**
 
-1. W budynkach użyteczności publicznej zapewnia się budowle ochronne, jeżeli jest to uzasadnione potrzebą zapewnienia miejsc schronienia oraz możliwe ze względu na występujące w budynku rozwiązania techniczno-budowlane.
+1. W budynku użyteczności publicznej zapewnia się budowlę ochronną, chyba że przepis szczególny stanowi inaczej.
 
-2. Dopuszcza się odstąpienie od zapewnienia budowli ochronnej w budynku użyteczności publicznej, jeżeli schronienie przebywających w nim osób zapewnia zlokalizowana w pobliżu inna budowla ochronna.
+2. Wójt (burmistrz, prezydent miasta) może zwolnić z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej. Zwolnienie następuje w drodze decyzji administracyjnej.
 
-3. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki wyznaczania budynków użyteczności publicznej, w których zapewnia się budowle ochronne, mając na uwadze konieczność zapewnienia odpowiedniej ilości miejsc w budowlach ochronnych oraz okoliczności, w których można odstąpić od zapewnienia budowli ochronnej w budynku użyteczności publicznej.
+3. Odwołanie od decyzji w sprawie zwolnienia z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej rozpatruje wojewoda.
 
-**Art. 94.** Kondygnacje podziemne w budynkach użyteczności publicznej lub budynkach mieszkalnych wielorodzinnych oraz garaże podziemne, jeżeli nie przewidziano w nich budowli ochronnej, projektuje się i wykonuje w sposób umożliwiający zorganizowanie w nich miejsc doraźnego schronienia.
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, przypadki, w których:
+
+- **1)** w budynku użyteczności publicznej nie ma obowiązku zapewnienia budowli ochronnej,
+- **2)** organ ochrony ludności może zwolnić z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej – mając na uwadze konieczność zapewnienia odpowiedniej ilości miejsc w budowlach ochronnych oraz parametry budynku, przewidywaną liczbę osób, które mogą w nim przebywać i przeznaczenie budynku użyteczności publicznej.
+
+**Art. 94.**
+
+1. Kondygnacje podziemne w budynkach użyteczności publicznej lub budynkach mieszkalnych wielorodzinnych oraz garaże podziemne, jeżeli nie przewidziano w nich budowli ochronnej, projektuje się i wykonuje w sposób umożliwiający zorganizowanie w nich miejsc doraźnego schronienia o pojemności niemniejszej niż liczba osób równa:
+
+- **1)** ilorazowi powierzchni użytkowej budynku przeznaczonej na potrzeby użyteczności publicznej i wskaźnika 15 m na osobę – w przypadku budynku użyteczności publicznej,
+- **2)** ilorazowi łącznej powierzchni użytkowej lokali mieszkalnych i wskaźnika 20 m na osobę – w przypadku budynku mieszkalnego wielorodzinnego,
+- **3)** dwukrotności liczby stanowisk postojowych dla samochodów, jeżeli z pkt 1 i 2 nie wynika większa liczba osób – w przypadku garażu podziemnego – przy czym niewiększej niż liczba osób równa ilorazowi 75 % powierzchni netto kondygnacji podziemnej lub garażu podziemnego i wskaźnika 1,5 m na osobę.
+
+2. Przepisu ust. 1 nie stosuje się, jeżeli:
+
+- **1)** liczba lokali mieszkalnych w budynku mieszkalnym wielorodzinnym jest niewiększa niż 4;
+- **2)** powierzchnia użytkowa w budynku przeznaczona na potrzeby użyteczności publicznej jest niewiększa niż 250 m ;
+- **3)** powierzchnia netto garażu podziemnego jest niewiększa niż 75 m .
+
+3. Przepisy ust. 1 i 2 odnoszące się do budynku o określonym przeznaczeniu stosuje się również do każdej części budynku o tym przeznaczeniu.
+
+4. W przypadku gdy lokalne uwarunkowania terenowe, w szczególności wielkość działki budowlanej, uniemożliwiają zorganizowanie miejsca doraźnego schronienia o pojemności określonej zgodnie z ust. 1, właściwy wojewoda może, na wniosek inwestora lub właściciela obiektu budowlanego, wyrazić zgodę na zaprojektowanie i wykonanie kondygnacji podziemnej lub garażu podziemnego w sposób umożliwiający zorganizowanie w nim miejsca doraźnego schronienia o mniejszej pojemności.
 
 **Art. 95.** Budowle podziemne położone w granicach administracyjnych miast wykorzystywane do celów transportu, w tym drogowego i szynowego, w szczególności zagłębione obiekty metra, podziemnego tramwaju i kolei podziemnej, projektuje się i wykonuje w sposób zapewniający spełnienie warunków technicznych i warunków technicznych użytkowania dla budowli ochronnej.
+
+**Art. 95a.**
+
+1. Inwestor zamierzenia budowlanego polegającego na budowie obiektu budowlanego, o którym mowa w art. 93 i art. 95, zawiadamia o zamiarze realizacji inwestycji wójta (burmistrza, prezydenta miasta) właściwego ze względu na lokalizację inwestycji. Do zawiadomienia załącza się dokumentację obejmującą lokalizację oraz charakterystykę inwestycji określającą w szczególności informacje o wielkości części podziemnych w obiekcie budowlanym, przeznaczeniu obiektu budowlanego oraz pomieszczeń lub przestrzeni w części podziemnej obiektu budowlanego, a także proponowane rozwiązania w zakresie zapewnienia obiektu zbiorowej ochrony.
+
+2. Wójt (burmistrz, prezydent miasta) w terminie 14 dni od dnia otrzymania kompletnego zawiadomienia, o którym mowa w ust. 1, uzgadnia ze starostą oraz wojewodą, który z organów ochrony ludności jest właściwy do uznania projektowanego obiektu budowlanego za budowlę ochronną, zgodnie z art. 89 ust. 2–
+
+4. W przypadku braku uzgodnienia organem właściwym jest wójt (burmistrz, prezydent miasta).
+
+3. Właściwy organ ochrony ludności, określony na podstawie ust. 2, określa pojemność oraz kategorię odporności budowli ochronnej, jaką należy zapewnić w projektowanym obiekcie budowlanym, w drodze postanowienia w terminie 45 dni od dnia otrzymania kompletnego zawiadomienia, o którym mowa w ust. 1. Przy określaniu pojemności oraz kategorii odporności organ ochrony ludności uwzględnia przesłanki wskazane w art. 90 ust. 1 oraz informacje o powierzchni w planowanej inwestycji, która może być przeznaczona na potrzeby ochrony ludności.
+
+4. W przypadku niewydania przez organ ochrony ludności postanowienia w terminie 3 miesięcy od dnia otrzymania kompletnego zawiadomienia, o którym mowa w ust. 1, inwestor może zaprojektować budowlę ochronną w dowolnej kategorii odporności i pojemności niemniejszej niż 30 osób.
+
+5. W przypadku budynku użyteczności publicznej, o którym mowa w art. 93 ust. 1, właściwy organ ochrony ludności nie określa pojemności oraz kategorii odporności budowli ochronnej, jeżeli na podstawie art. 93 w budynku użyteczności publicznej nie ma obowiązku zapewnienia budowli ochronnej albo organ ochrony ludności zwolnił z obowiązku zapewnienia budowli ochronnej. W takim przypadku stosuje się przepisy art. 94.
+
+6. Przepisu ust. 1 nie stosuje się:
+
+- **1)** do zamierzenia budowlanego, którego inwestorem jest gmina, powiat lub wojewoda; w takim przypadku inwestor może zaprojektować budowlę ochronną o kategorii odporności i pojemności określonej według potrzeb odpowiednio gminy, powiatu lub województwa;
+- **2)** w przypadku uzyskania przez inwestora zwolnienia z obowiązku zapewnienia budowli ochronnej w budynku użyteczności publicznej, o którym mowa w art. 93 ust. 2.
 
 **Art. 96.**
 
@@ -1150,7 +1396,7 @@ source: "isap-pdf"
 - **3)** współdziałają w przygotowaniu udostępnionej budowli ochronnej do użycia;
 - **4)** wyznaczają kierownika budowli ochronnej.
 
-2. W czasie gdy budowla ochronna nie jest użytkowana na cele ochrony ludności i obrony cywilnej, właściciel oraz zarządca mogą wykorzystywać ją w sposób zgodny funkcji ochronnej, w szczególności przez utrzymywanie sprawności urządzeń technicznych znajdujących się w budowli ochronnej.
+2. W czasie gdy budowla ochronna nie jest użytkowana na cele ochrony ludności i obrony cywilnej, właściciel oraz zarządca mogą wykorzystywać ją w sposób zgodny z przeznaczeniem obiektu, gwarantujący jednak spełnienie przez nią w razie potrzeby funkcji ochronnej, w szczególności przez utrzymywanie sprawności urządzeń technicznych znajdujących się w budowli ochronnej.
 
 **Art. 97.**
 
@@ -1176,7 +1422,9 @@ source: "isap-pdf"
 
 2. Kierownik budowli ochronnej zapewnia prawidłową eksploatację i porządek w obrębie budowli ochronnej. Może on w tym celu wydawać wiążące polecenia określonego zachowania osobom przebywającym w budowli ochronnej.
 
-3. Kierownik budowli ochronnej w czasie wykonywania swoich obowiązków korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228 i 1907) dla funkcjonariuszy publicznych. powyżej 120 osób właściwy organ ochrony ludności w porozumieniu z właścicielem lub zarządcą budowli ochronnej zapewnia personel do obsługi tej budowli ochronnej.
+3. Kierownik budowli ochronnej w czasie wykonywania swoich obowiązków korzysta z ochrony przewidzianej w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228 i 1907) dla funkcjonariuszy publicznych.
+
+4. W przypadku przygotowania do użycia budowli ochronnej o pojemności powyżej 120 osób właściwy organ ochrony ludności w porozumieniu z właścicielem lub zarządcą budowli ochronnej zapewnia personel do obsługi tej budowli ochronnej.
 
 **Art. 101.** Po ustaniu przesłanek wydania polecenia udostępnienia budowli ochronnej właściwy organ ochrony ludności odwołuje to polecenie, informując o tym właściciela lub zarządcę budowli ochronnej.
 
@@ -1200,7 +1448,11 @@ source: "isap-pdf"
 
 6. Odwołanie od decyzji nie wstrzymuje jej wykonania.
 
-**Art. 103.** Właściciel lub zarządca miejsca doraźnego schronienia zapewnia utrzymanie miejsca doraźnego schronienia w należytym stanie technicznym oraz udostępnia je na cele ochrony ludności. są przeznaczone w pierwszej kolejności do ochrony użytkowników budynku, do którego należy obiekt zbiorowej ochrony.
+**Art. 103.** Właściciel lub zarządca miejsca doraźnego schronienia zapewnia utrzymanie miejsca doraźnego schronienia w należytym stanie technicznym oraz udostępnia je na cele ochrony ludności.
+
+**Art. 103a.** W razie ogłoszenia alarmu za pomocą systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach, w szczególności alarmu o zagrożeniu uderzeniem z powietrza, właściciel lub zarządca obiektu, w którym znajduje się punkt schronienia, udostępnia go w miarę możliwości osobom chroniącym się przed zagrożeniem, na czas trwania tego zagrożenia.
+
+**Art. 104.** Obiekty zbiorowej ochrony znajdujące się w obiektach niepublicznych są przeznaczone w pierwszej kolejności do ochrony użytkowników budynku, do którego należy obiekt zbiorowej ochrony.
 
 **Art. 105.** Budowle ochronne i miejsca doraźnego schronienia oznacza się za pomocą międzynarodowego znaku rozpoznawczego obrony cywilnej oraz napisu: „SCHRON”, „UKRYCIE” lub „MIEJSCE DORAŹNEGO SCHRONIENIA”.
 
@@ -1228,7 +1480,11 @@ source: "isap-pdf"
 
 6. Zasady otrzymywania i rozliczania dotacji celowych, o których mowa w ust. 1, określa ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907).
 
-7. Organem odwoławczym od decyzji w sprawie zwrotu środków, o których mowa w ust. 1, w części, w jakiej zostały one niewykorzystane, pobrane nienależnie, pobrane w nadmiernej wysokości lub wykorzystane niezgodnie z przeznaczeniem, jest minister właściwy do spraw wewnętrznych. technicznych, warunków technicznych usytuowania i warunków technicznych użytkowania prowadzą organy nadzoru budowlanego na zasadach przewidzianych w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
+7. Organem odwoławczym od decyzji w sprawie zwrotu środków, o których mowa w ust. 1, w części, w jakiej zostały one niewykorzystane, pobrane nienależnie, pobrane w nadmiernej wysokości lub wykorzystane niezgodnie z przeznaczeniem, jest minister właściwy do spraw wewnętrznych.
+
+**Art. 107.**
+
+1. Kontrolę spełniania przez obiekty zbiorowej ochrony warunków technicznych, warunków technicznych usytuowania i warunków technicznych użytkowania prowadzą organy nadzoru budowlanego na zasadach przewidzianych w ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 2. Państwowa Straż Pożarna prowadzi kontrolę spełniania przez obiekty zbiorowej ochrony wymagań w zakresie bezpieczeństwa pożarowego, a także wymagań dotyczących wyposażenia budowli ochronnej, na zasadach określonych w ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.
 
@@ -1244,7 +1500,8 @@ source: "isap-pdf"
 
 - **1)** istniejących lub planowanych budowlach ochronnych, z podziałem na schrony i ukrycia;
 - **2)** planowanych miejscach organizacji miejsc doraźnego schronienia;
-- **3)** obiektach budowlanych przydatnych do przystosowania na miejsca doraźnego schronienia.
+- **3)** obiektach budowlanych przydatnych do przystosowania na miejsca doraźnego schronienia;
+- **4)** punktach schronienia.
 
 4. Dane o obiekcie zbiorowej ochrony obejmują:
 
@@ -1260,6 +1517,7 @@ source: "isap-pdf"
     - **e)** adres do korespondencji – jeżeli jest inny niż adres zamieszkania lub adres siedziby,
     - **f)** numer telefonu lub adres innego środka komunikacji;
 
+- **6)** przeznaczenie;
 - **7)** kategorię odporności i orientacyjną wytrzymałość;
 - **8)** pojemność;
 - **9)** rok budowy;
@@ -1267,6 +1525,12 @@ source: "isap-pdf"
 - **11)** sposób wykorzystania;
 - **12)** podział na obiekty w budynkach użyteczności publicznej i w innych budynkach;
 - **13)** inne niezbędne informacje o obiekcie.
+
+5. Dane o punktach schronienia obejmują:
+
+- **1)** rodzaj obiektu budowlanego lub innego miejsca;
+- **2)** lokalizację, w tym dane adresowe oraz współrzędne geograficzne;
+- **3)** dostępność punktu schronienia.
 
 **Art. 109.**
 
@@ -1283,11 +1547,16 @@ source: "isap-pdf"
 
 - **1)** istniejących lub planowanych budowli ochronnych – dotyczy organu, który uznał obiekt budowlany za budowlę ochronną;
 - **2)** planowanych miejsc organizacji miejsc doraźnego schronienia oraz obiektów budowlanych przydatnych do przystosowania na miejsca doraźnego schronienia – dotyczy organu, który zaplanował organizację takich miejsc;
-- **3)** miejsc przyjęcia osób podlegających ewakuacji – dotyczy organu, który zaplanował organizację takich miejsc.
+- **3)** (uchylony)
+- **4)** punktów schronienia – dotyczy właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej.
 
 3. Organy administracji architektoniczno-budowlanej właściwe w sprawach wydawania pozwoleń na budowę oraz organy nadzoru budowlanego współpracują z Komendantem Głównym Państwowej Straży Pożarnej w sprawach prowadzenia i aktualizacji Centralnej Ewidencji OZO, w szczególności przez przekazywanie informacji o budynkach i innych budowlach.
 
-4. Komendant Główny Państwowej Straży Pożarnej prowadząc Centralną Ewidencję OZO uzyskuje nieodpłatnie dostęp do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824). administratorem danych przetwarzanych w Centralnej Ewidencji OZO.
+4. Komendant Główny Państwowej Straży Pożarnej prowadząc Centralną Ewidencję OZO uzyskuje nieodpłatnie dostęp do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824).
+
+**Art. 110.**
+
+1. Komendant Główny Państwowej Straży Pożarnej jest administratorem danych przetwarzanych w Centralnej Ewidencji OZO.
 
 2. Komendant Główny Państwowej Straży Pożarnej jest administratorem danych osobowych przetwarzanych w Centralnej Ewidencji OZO.
 
@@ -1307,7 +1576,17 @@ source: "isap-pdf"
 
 4. Udostępnienie danych następuje nieodpłatnie.
 
-**Art. 112.** Komendant Główny Państwowej Straży Pożarnej planuje i realizuje rozbudowę oraz modyfikację Centralnej Ewidencji OZO oraz podejmuje działania mające na celu: OZO;
+**Art. 112.** Komendant Główny Państwowej Straży Pożarnej planuje i realizuje rozbudowę oraz modyfikację Centralnej Ewidencji OZO oraz podejmuje działania mające na celu:
+
+- **1)** zapewnienie ochrony przed nieuprawnionym dostępem do Centralnej Ewidencji OZO;
+- **2)** zapewnienie integralności danych w Centralnej Ewidencji OZO;
+- **3)** zapewnienie dostępu do Centralnej Ewidencji OZO podmiotom przetwarzającym dane w tej ewidencji;
+- **4)** przeciwdziałanie uszkodzeniom Centralnej Ewidencji OZO;
+- **5)** określenie zasad bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
+- **6)** określenie zasad zgłaszania naruszenia ochrony danych osobowych;
+- **7)** zapewnienie rozliczalności działań dokonywanych na danych, w tym danych osobowych, przetwarzanych w Centralnej Ewidencji OZO;
+- **8)** zapewnienie poprawności danych, w tym danych osobowych, przetwarzanych w Centralnej Ewidencji OZO;
+- **9)** zapewnienie wykonywania kopii bezpieczeństwa.
 
 **Art. 113.**
 
@@ -1321,7 +1600,9 @@ source: "isap-pdf"
 
 2. Organy ochrony ludności, w porozumieniu z właściwymi podmiotami ochrony ludności, zapewniają poinformowanie ludności o umiejscowieniu obiektów zbiorowej ochrony oraz, w razie potrzeby, o sposobie dotarcia do nich i korzystania z nich, z uwzględnieniem informacji o ograniczeniach dostępu dla osób z niepełnosprawnościami. Realizację obowiązku, o którym mowa w zdaniu pierwszym, przez wójtów (burmistrzów, prezydentów miast) i starostów koordynuje wojewoda.
 
-3. Obowiązek wskazany w ust. 2 można realizować w szczególności przez ogłoszenia za pośrednictwem systemu powiadamiania, ostrzegania i alarmowania przemieszczenia się do obiektu zbiorowej ochrony lub za pomocą narzędzi teleinformatycznych, w tym aplikacji na urządzenia mobilne.
+3. Obowiązek wskazany w ust. 2 można realizować w szczególności przez ogłoszenia za pośrednictwem systemu powiadamiania, ostrzegania i alarmowania o zagrożeniach, umieszczenie informacji, w tym map, z lokalizacją i kierunkiem przemieszczenia się do obiektu zbiorowej ochrony lub za pomocą narzędzi teleinformatycznych, w tym aplikacji na urządzenia mobilne.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio do punktów schronienia.
 
 **Art. 115.**
 
@@ -1339,7 +1620,7 @@ source: "isap-pdf"
 
 #### Rozdział 10 Obrona cywilna
 
-**Art. 117.** Z chwilą wprowadzenia stanu wojennego i w czasie wojny zadania ochrony ludności stają się zadaniami obrony cywilnej w rozumieniu z 12 sierpnia 1949 r.
+**Art. 117.** Z chwilą wprowadzenia stanu wojennego i w czasie wojny zadania ochrony ludności stają się zadaniami obrony cywilnej w rozumieniu art. 61 lit. a Pierwszego Protokołu dodatkowego do Konwencji Genewskich z 12 sierpnia 1949 r.
 
 **Art. 118.**
 
@@ -1353,9 +1634,21 @@ source: "isap-pdf"
 
 **Art. 119.** Szef Obrony Cywilnej:
 
+- **1)** kieruje realizacją zadań obrony cywilnej wykonywanych przez organy administracji rządowej i jednostki samorządu terytorialnego;
+- **2)** koordynuje realizację zadań obrony cywilnej organów administracji rządowej i jednostek samorządu terytorialnego;
+- **3)** dokonuje oceny zagrożeń mających wpływ na ochronę ludności i możliwości realizacji zadań obrony cywilnej na zagrożonych obszarach oraz przygotowuje propozycje wsparcia dla właściwych organów obrony cywilnej;
+- **4)** przedstawia właściwym organom potrzeby w zakresie świadczeń organów państwowych, przedsiębiorców i innych jednostek organizacyjnych oraz osób fizycznych na rzecz obrony cywilnej;
+- **5)** uzgadnia z Ministrem Obrony Narodowej lub Naczelnym Dowódcą Sił Zbrojnych, jeżeli został mianowany, wsparcie działań obrony cywilnej przez Siły Zbrojne Rzeczypospolitej Polskiej w granicach zasad określonych w wiążących Rzeczpospolitą Polską ratyfikowanych umowach międzynarodowych oraz międzynarodowym prawie zwyczajowym;
+- **6)** współdziała z ministrem właściwym do spraw zdrowia w zakresie zapewnienia na rzecz obrony cywilnej udzielania świadczeń opieki zdrowotnej w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **7)** współdziała z innymi organami władzy publicznej w zakresie wsparcia działań obrony cywilnej.
+
 **Art. 120.** Organy obrony cywilnej w czasie stanu wojennego i w czasie wojny zapewniają funkcjonowanie obsługujących je urzędów, z uwzględnieniem art. 16 ust. 3 pkt 4 ustawy z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej.
 
 **Art. 121.** W czasie stanu wojennego i w czasie wojny osoby zamieszkujące na obszarze, na którym wprowadzono stan wojenny, albo zamieszkujące strefę bezpośrednich działań wojennych w ramach przygotowania obrony cywilnej zabezpieczają:
+
+- **1)** miejsce zamieszkania oraz mienie osobiste;
+- **2)** zapasy własne wody pitnej oraz środków spożywczych;
+- **3)** zapasy własne środków sanitarnych, higienicznych oraz medycznych.
 
 **Art. 122.**
 
@@ -1367,7 +1660,9 @@ source: "isap-pdf"
 
 4. W przypadkach niecierpiących zwłoki ewakuację ludności może zarządzić wojewoda, informując o tym Szefa Obrony Cywilnej.
 
-5. Organy obrony cywilnej oraz Siły Zbrojne Rzeczypospolitej Polskiej współdziałają przy realizacji ewakuacji ludności. W miarę możliwości ewakuację ludności prowadzi się na podstawie krajowego planu ewakuacji oraz wojewódzkich planów ewakuacji ludności. sposób realizacji działań w zakresie ewakuacji ludności oraz zabezpieczenia mienia, mając na uwadze zapewnienie sprawnego wykonywania zadań przez organy obrony cywilnej oraz bezpieczeństwa ludności, z uwzględnieniem osób z niepełnosprawnościami.
+5. Organy obrony cywilnej oraz Siły Zbrojne Rzeczypospolitej Polskiej współdziałają przy realizacji ewakuacji ludności. W miarę możliwości ewakuację ludności prowadzi się na podstawie krajowego planu ewakuacji oraz wojewódzkich planów ewakuacji ludności.
+
+**Art. 123.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób realizacji działań w zakresie ewakuacji ludności oraz zabezpieczenia mienia, mając na uwadze zapewnienie sprawnego wykonywania zadań przez organy obrony cywilnej oraz bezpieczeństwa ludności, z uwzględnieniem osób z niepełnosprawnościami.
 
 **Art. 124.**
 
@@ -1391,9 +1686,17 @@ source: "isap-pdf"
 - **3)** członkowie krajowej rezerwy obrony cywilnej powołani do służby w obronie cywilnej;
 - **4)** funkcjonariusze Państwowej Straży Pożarnej.
 
-4. W skład krajowej rezerwy obrony cywilnej wchodzą emeryci policyjni, o których mowa w art. 3 ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871), którzy nie podlegają obowiązkowi służby wojskowej i nie posiadają przydziałów organizacyjno-mobilizacyjnych.
+4. W skład krajowej rezerwy obrony cywilnej wchodzą emerytowani funkcjonariusze, o których mowa w art. 3 ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2026 r. poz. 505), z wyłączeniem osób, które:
 
-5. Minister właściwy do spraw wewnętrznych współdziała z Ministrem Obrony Narodowej przy tworzeniu krajowej rezerwy obrony cywilnej. i Administracji, Biuro Emerytalne Służby Więziennej oraz Wojskowe Biuro Emerytalne w Warszawie przekazują ministrowi właściwemu do spraw wewnętrznych informacje dotyczące osób, o których mowa w ust. 4, celem prowadzenia ewidencji krajowej rezerwy obrony cywilnej, zapewniając ochronę danych osobowych.
+- **1)** podlegają obowiązkowi służby wojskowej;
+- **2)** posiadają przydziały mobilizacyjne, przydziały organizacyjno-mobilizacyjne albo pracownicze przydziały mobilizacyjne;
+- **3)** zostały uznane za stale, całkowicie lub długotrwale niezdolne do pracy oraz samodzielnej egzystencji lub zaliczone do osób o znacznym stopniu niepełnosprawności albo umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26).
+
+5. Minister właściwy do spraw wewnętrznych współdziała z Ministrem Obrony Narodowej przy tworzeniu krajowej rezerwy obrony cywilnej.
+
+6. Zakład Emerytalno-Rentowy Ministerstwa Spraw Wewnętrznych i Administracji oraz Biuro Emerytalne Służby Więziennej przekazują ministrowi właściwemu do spraw wewnętrznych, na jego wniosek, dane, o których mowa w art. 128 ust. 1 pkt 1–4, dotyczące emerytowanych funkcjonariuszy, o których mowa w art. 3 ust. 2 ustawy, o której mowa w ust. 4, celem prowadzenia ewidencji krajowej rezerwy obrony cywilnej, zapewniając odpowiednie bezpieczeństwo danych osobowych, w szczególności zabezpieczenie przekazywanych danych przed ich udostępnieniem osobom nieuprawnionym.
+
+7. Minister właściwy do spraw wewnętrznych występuje do Ministra Obrony Narodowej w stosunku do osób, o których mowa w ust. 2, o informację dotyczącą podlegania obowiązkowi służby wojskowej i posiadania przydziałów mobilizacyjnych, organizacyjno-mobilizacyjnych albo pracowniczych przydziałów mobilizacyjnych. Minister Obrony Narodowej udostępnia ministrowi właściwemu do spraw wewnętrznych informację, o której mowa w zdaniu pierwszym, na podstawie danych zgromadzonych w ewidencji wojskowej.
 
 **Art. 126.**
 
@@ -1403,25 +1706,33 @@ source: "isap-pdf"
 
 3. Ewidencja Obrony Cywilnej składa się z:
 
-- **1)** wojewódzkich ewidencji obrony cywilnej stanowiących części Ewidencji Obrony Cywilnej, obejmujących dane w odniesieniu do województwa;
-- **2)** wydzielonej części ewidencji dotyczącej wchodzących w skład krajowej rezerwy obrony cywilnej funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, zwanej dalej „wydzieloną częścią”.
+- **1)** części centralnej ewidencji, prowadzonej przez ministra właściwego do spraw wewnętrznych, obejmującej dane krajowej rezerwy obrony cywilnej oraz personelu:
+    - **a)** urzędu obsługującego ministra właściwego do spraw wewnętrznych,
+    - **b)** jednostek podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, wskazanych w obwieszczeniu wydanym na podstawie art. 33 ust. 1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160),
+    - **c)** podmiotów, o których mowa w art. 134 ust. 1 pkt 3,
+    - **d)** Rządowego Centrum Bezpieczeństwa,
+    - **e)** Rządowej Agencji Rezerw Strategicznych,
+    - **f)** Polskiej Wytwórni Papierów Wartościowych S.A.;
 
-4. Wojewódzkie ewidencje obrony cywilnej prowadzą wojewodowie zgodnie ze swoją właściwością.
+- **2)** części wojewódzkich, prowadzonych przez wojewodów, obejmujących dane w odniesieniu do województwa.
 
-5. Wydzieloną część prowadzi minister właściwy do spraw wewnętrznych.
+4. (uchylony)
+
+5. (uchylony)
 
 **Art. 127.**
 
-1. Minister właściwy do spraw wewnętrznych oraz wojewodowie są współadministratorami danych, w tym danych osobowych, przetwarzanych w Ewidencji Obrony Cywilnej, z wyłączeniem danych zawartych w wydzielonej części.
+1. Minister właściwy do spraw wewnętrznych oraz wojewodowie są współadministratorami danych, w tym danych osobowych, przetwarzanych w Ewidencji Obrony Cywilnej.
 
-2. Administratorem danych, w tym danych osobowych, przetwarzanych w wydzielonej części jest minister właściwy do spraw wewnętrznych.
+2. (uchylony)
 
 3. Minister właściwy do spraw wewnętrznych planuje i realizuje rozbudowę oraz modyfikację Ewidencji Obrony Cywilnej oraz podejmuje działania mające na celu:
 
 - **1)** zapewnienie ochrony przed nieuprawnionym dostępem do Ewidencji Obrony Cywilnej;
 - **2)** zapewnienie integralności danych w Ewidencji Obrony Cywilnej;
 - **3)** zapewnienie dostępu do Ewidencji Obrony Cywilnej podmiotom przetwarzającym dane w tej ewidencji;
-- **4)** przeciwdziałanie uszkodzeniom Ewidencji Obrony Cywilnej; osobowych;
+- **4)** przeciwdziałanie uszkodzeniom Ewidencji Obrony Cywilnej;
+- **5)** określenie zasad bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
 - **6)** określenie zasad zgłaszania naruszenia ochrony danych osobowych;
 - **7)** zapewnienie rozliczalności działań dokonywanych na danych, w tym danych osobowych, zawartych w Ewidencji Obrony Cywilnej;
 - **8)** zapewnienie poprawności danych, w tym danych osobowych, przetwarzanych w Ewidencji Obrony Cywilnej;
@@ -1431,20 +1742,23 @@ source: "isap-pdf"
 
 **Art. 128.**
 
-1. W Ewidencji Obrony Cywilnej, z wyjątkiem wydzielonej części, gromadzi się następujące dane o osobach wchodzących w skład korpusu obrony cywilnej:
+1. W Ewidencji Obrony Cywilnej gromadzi się następujące dane o osobach wchodzących w skład korpusu obrony cywilnej:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** numer PESEL;
 - **3)** adres do korespondencji;
+- **3a)** adres miejsca stałego pobytu;
+- **3b)** adres poczty elektronicznej lub numer telefonu – jeżeli został podany;
 - **4)** datę urodzenia;
 - **5)** wskazanie podstawy włączenia do korpusu obrony cywilnej, zgodnie z art. 125;
+- **5a)** informacje o kwalifikacjach i doświadczeniu zawodowym niezbędne do nadania specjalizacji obrony cywilnej;
 - **6)** określenie specjalizacji obrony cywilnej;
 - **7)** informację o przydziale mobilizacyjnym obrony cywilnej – jeżeli dotyczy;
 - **8)** wskazanie miejsca pełnienia służby w obronie cywilnej – jeżeli dotyczy;
 - **9)** serię i numer karty tożsamości – jeżeli dotyczy;
 - **10)** numer tabliczki tożsamości – jeżeli dotyczy.
 
-2. W wydzielonej części gromadzi się dane, o których mowa w ust. 1 pkt 4–10.
+2. (uchylony)
 
 3. Osobom ujętym w Ewidencji Obrony Cywilnej nadaje się, w oparciu o posiadane kwalifikacje i doświadczenie, specjalizację obrony cywilnej:
 
@@ -1454,23 +1768,31 @@ source: "isap-pdf"
 - **4)** utrzymania infrastruktury ochrony ludności;
 - **5)** utrzymania ciągłości działania administracji;
 - **6)** wsparcia służb porządku publicznego;
-- **7)** zarządzania obroną cywilną. danych zawartych w wydzielonej części, nadaje się klauzulę „zastrzeżone” w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+- **7)** zarządzania obroną cywilną.
 
-2. Danym zawartym w wydzielonej części nadaje się klauzulę „tajne” w rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
+**Art. 129.** Danym zawartym w Ewidencji Obrony Cywilnej nadaje się klauzulę „zastrzeżone” w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 
 **Art. 130.**
 
 1. Dane do Ewidencji Obrony Cywilnej wprowadzają wojewodowie oraz minister właściwy do spraw wewnętrznych.
 
-2. Dane do wydzielonej części wprowadza minister właściwy do spraw wewnętrznych.
+2. (uchylony)
 
 3. W celu realizacji zadania, o którym mowa w ust. 1, minister właściwy do spraw wewnętrznych oraz wojewodowie posiadają dostęp do Ewidencji Obrony Cywilnej.
 
-4. Do wydzielonej części dostęp posiada wyłącznie minister właściwy do spraw wewnętrznych.
+4. (uchylony)
 
 5. Minister właściwy do spraw wewnętrznych oraz wojewodowie aktualizują dane zawarte w Ewidencji Obrony Cywilnej, w tym usuwają z ewidencji nieaktualne dane.
 
-6. Minister właściwy do spraw wewnętrznych aktualizuje dane zawarte w wydzielonej części, w tym usuwa z niej nieaktualne dane.
+6. (uchylony)
+
+**Art. 130a.**
+
+1. Osoby, których dane są gromadzone w Ewidencji Obrony Cywilnej, są obowiązane do udzielania informacji organom prowadzącym tę ewidencję w zakresie danych ich dotyczących i przetwarzanych w Ewidencji Obrony Cywilnej.
+
+2. Organ ochrony ludności albo podmiot ochrony ludności, który uzyskał informację będącą podstawą dokonania zmiany w Ewidencji Obrony Cywilnej, w tym od osoby, której dane są gromadzone w Ewidencji Obrony Cywilnej, przekazuje tę informację właściwemu wojewodzie albo ministrowi niezwłocznie, niepóźniej jednak niż w terminie 14 dni od dnia jej uzyskania.
+
+3. Przetwarzanie danych osobowych zgromadzonych w Ewidencji Obrony Cywilnej może się odbywać bez zgody i wiedzy osoby, której dotyczą te dane. Do przetwarzania tych danych ma zastosowanie przepis art. 2 ust. 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
 
 **Art. 131.**
 
@@ -1478,17 +1800,18 @@ source: "isap-pdf"
 
 2. Dane z Ewidencji Obrony Cywilnej są udostępniane z zachowaniem przepisów dotyczących ochrony informacji niejawnych.
 
-3. Danych zawartych w wydzielonej części nie udostępnia się.
+3. (uchylony)
 
-**Art. 132.** Szefowie służb, o których mowa w art. 126 ust. 3 pkt 2, przekazują ministrowi właściwemu do spraw wewnętrznych dane, o których mowa w art. 128 ust. 1 pkt 4–10.
+**Art. 132.** (uchylony)
 
-**Art. 133.** W czasie stanu wojennego i w czasie wojny zadania ministra właściwego do spraw wewnętrznych, o których mowa w art. 125–132, realizuje Szef Obrony Cywilnej.
+**Art. 133.** W czasie stanu wojennego i w czasie wojny zadania ministra właściwego do spraw wewnętrznych, o których mowa w art. 125–131, realizuje Szef Obrony Cywilnej.
 
 **Art. 134.**
 
 1. Przydział mobilizacyjny obrony cywilnej można nadać osobie:
 
-- **1)** zatrudnionej w urzędzie obsługującym organ ochrony ludności lub obrony cywilnej, cywilnej,
+- **1)** zatrudnionej w urzędzie obsługującym organ ochrony ludności lub obrony cywilnej,
+- **2)** pełniącej służbę w urzędzie obsługującym organ ochrony ludności lub obrony cywilnej,
 - **3)** zatrudnionej w Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Kancelarii Prezesa Rady Ministrów lub Narodowym Banku Polskim albo innych organach państwa lub urzędach je obsługujących,
 - **4)** zatrudnionej w podmiocie ochrony ludności albo podmiocie obrony cywilnej,
 - **5)** pełniącej służbę w podmiocie ochrony ludności albo podmiocie obrony cywilnej,
@@ -1503,19 +1826,48 @@ source: "isap-pdf"
 1. Przydział mobilizacyjny obrony cywilnej nadaje:
 
 - **1)** wojewoda właściwy ze względu na siedzibę podmiotu ochrony ludności, z własnej inicjatywy lub na wniosek wójta (burmistrza, prezydenta miasta), starosty albo marszałka województwa, po uzgodnieniu z właściwym miejscowo szefem wojskowego centrum rekrutacji;
-- **2)** minister właściwy do spraw wewnętrznych, na wniosek ministrów kierujących działami administracji rządowej oraz dla osób, o których mowa w art. 143 ust. 1 pkt 3 i 4, po uzgodnieniu z Ministrem Obrony Narodowej.
+- **2)** minister właściwy do spraw wewnętrznych, na wniosek ministrów kierujących działami administracji rządowej oraz dla osób, o których mowa w art. 143 ust. 1 pkt 3 i 4, po uzgodnieniu z Ministrem Obrony Narodowej;
+- **3)** minister właściwy do spraw wewnętrznych, dla osób pełniących służbę w obronie cywilnej w urzędzie obsługującym ministra właściwego do spraw wewnętrznych albo w podmiotach podległych lub nadzorowanych przez tego ministra, po powiadomieniu Ministra Obrony Narodowej.
+
+1a. Wojewoda może upoważnić organ składający wniosek do dokonania uzgodnienia, o którym mowa w ust. 1 pkt 1.
 
 2. Wójt (burmistrz, prezydent miasta) wnioskuje o nadanie przydziału mobilizacyjnego obrony cywilnej za pośrednictwem starosty.
 
 3. Podmioty ochrony ludności i obrony cywilnej mogą wnioskować do właściwych terytorialnych organów ochrony ludności i obrony cywilnej o nadanie przydziału mobilizacyjnego obrony cywilnej.
 
-4. Wojewoda przed nadaniem przydziału mobilizacyjnego obrony cywilnej informuje osobę, której ma być nadany ten przydział, o planowanym miejscu pełnienia służby w obronie cywilnej. w formie pisemnej wskazać wojewodzie preferowane miejsce pełnienia służby w obronie cywilnej.
+3a. Wniosek o nadanie przydziału mobilizacyjnego obrony cywilnej zawiera następujące dane osoby, której ma być nadany przydział mobilizacyjny obrony cywilnej, oraz informacje:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** numer PESEL;
+- **3)** data urodzenia;
+- **4)** informacje o kwalifikacjach i doświadczeniu zawodowym;
+- **5)** proponowana specjalizacja obrony cywilnej;
+- **6)** preferowane miejsce pełnienia służby w obronie cywilnej;
+- **7)** adres miejsca stałego pobytu;
+- **8)** adres do korespondencji;
+- **9)** opcjonalnie adres poczty elektronicznej lub numer telefonu;
+- **10)** kolorowa fotografia;
+- **11)** własnoręczny podpis osoby, której dotyczy wniosek;
+- **12)** adnotacja o uzgodnieniu albo nieuzgodnieniu wniosku z Ministrem Obrony Narodowej albo właściwym miejscowo szefem wojskowego centrum rekrutacji.
+
+4. Wojewoda przed nadaniem przydziału mobilizacyjnego obrony cywilnej informuje osobę, której ma być nadany ten przydział, o planowanym miejscu pełnienia służby w obronie cywilnej.
+
+5. Osoba, której ma być nadany przydział mobilizacyjny obrony cywilnej, może w formie pisemnej wskazać wojewodzie preferowane miejsce pełnienia służby w obronie cywilnej.
 
 6. W przydziale mobilizacyjnym obrony cywilnej określa się planowane miejsce pełnienia służby w obronie cywilnej. Przydział mobilizacyjny obrony cywilnej, o którym mowa w ust. 1 pkt 1, nadaje się w miarę możliwości do służby w podmiocie wskazanym przez osobę, której nadano ten przydział.
 
-7. Osobie, której nadano przydział mobilizacyjny obrony cywilnej, wydaje się kartę przydziału mobilizacyjnego obrony cywilnej.
+7. Osobie, której nadano przydział mobilizacyjny obrony cywilnej, wydaje się kartę przydziału mobilizacyjnego obrony cywilnej. Osoba, której nadano przydział mobilizacyjny obrony cywilnej, jest obowiązana przyjąć kartę przydziału mobilizacyjnego obrony cywilnej.
 
-8. Wojewoda zawiadamia właściwego miejscowo szefa wojskowego centrum rekrutacji o nadaniu przydziału mobilizacyjnego obrony cywilnej.
+7a. Karta przydziału mobilizacyjnego obrony cywilnej zawiera następujące dane osoby, której nadano przydział mobilizacyjny obrony cywilnej, oraz informacje:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** numer PESEL;
+- **3)** adres miejsca stałego pobytu;
+- **4)** specjalizacja obrony cywilnej albo stanowisko w obronie cywilnej;
+- **5)** miejsce pełnienia służby w obronie cywilnej;
+- **6)** potwierdzenie odbioru karty przydziału mobilizacyjnego obrony cywilnej przez osobę.
+
+8. Minister właściwy do spraw wewnętrznych zawiadamia Ministra Obrony Narodowej o nadaniu przydziału mobilizacyjnego obrony cywilnej. Wojewoda zawiadamia właściwego miejscowo szefa wojskowego centrum rekrutacji o nadaniu przydziału mobilizacyjnego obrony cywilnej.
 
 9. Zadania wójta (burmistrza, prezydenta miasta), starosty i marszałka województwa z zakresu wnioskowania o nadanie przydziałów mobilizacyjnych obrony cywilnej są wykonywane jako zadania zlecone z zakresu administracji rządowej.
 
@@ -1531,9 +1883,24 @@ source: "isap-pdf"
     - **a)** jeżeli osoba utraciła zdolność realizacji zadań obrony cywilnej lub nie spełnia przesłanek nadania przydziału mobilizacyjnego obrony cywilnej,
     - **b)** w czasie mobilizacji i w czasie wojny, na wniosek właściwego miejscowo szefa wojskowego centrum rekrutacji, jeżeli istnieje potrzeba nadania osobie przydziału mobilizacyjnego albo przydziału organizacyjno-mobilizacyjnego i nie może ona być zaspokojona w inny sposób.
 
+1a. Wniosek o uchylenie przydziału mobilizacyjnego obrony cywilnej zawiera następujące dane osoby, której uchylany jest przydział mobilizacyjny obrony cywilnej, oraz informacje:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** numer PESEL;
+- **3)** data urodzenia;
+- **4)** wskazanie podstawy prawnej uchylenia;
+- **5)** uzasadnienie.
+
 2. Do uchylania przydziałów mobilizacyjnych obrony cywilnej przepis art. 135 stosuje się odpowiednio.
 
-**Art. 137.** Przydziałów mobilizacyjnych obrony cywilnej nie nadaje się osobom, które: w przypadku kobiet;
+**Art. 137.** Przydziałów mobilizacyjnych obrony cywilnej nie nadaje się osobom, które:
+
+- **1)** przekroczyły 65. rok życia w przypadku mężczyzn albo 60. rok życia w przypadku kobiet;
+- **2)** nie ukończyły 18. roku życia;
+- **3)** są żołnierzami w czynnej służbie wojskowej;
+- **4)** mają nadane przydziały mobilizacyjne, przydziały organizacyjno-mobilizacyjne albo pracownicze przydziały mobilizacyjne;
+- **5)** są funkcjonariuszami Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Służby Więziennej, straży ochrony kolei, jeżeli osoby te na mocy odrębnych przepisów pełnią służbę w razie ogłoszenia mobilizacji i w czasie wojny;
+- **6)** zostały uznane za stale lub długotrwale niezdolne do pracy w gospodarstwie rolnym na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90, 1243, 1674 i 1871) lub za całkowicie niezdolne do pracy oraz samodzielnej egzystencji albo całkowicie niezdolne do pracy na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674), lub zaliczone do osób o znacznym stopniu niepełnosprawności albo umiarkowanym stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089, 1165 i 1494).
 
 **Art. 138.**
 
@@ -1547,9 +1914,37 @@ source: "isap-pdf"
 
 1. Osoby, którym nadano przydział mobilizacyjny obrony cywilnej, podlegają powołaniu w terminie i miejscu określonych w wezwaniu.
 
+1a. Wezwanie do służby w obronie cywilnej zawiera następujące dane osoby, która jest wzywana, oraz informacje:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** numer PESEL;
+- **3)** adres miejsca stałego pobytu;
+- **4)** seria i numer przydziału mobilizacyjnego obrony cywilnej nadanego tej osobie;
+- **5)** miejsce i termin stawienia się do służby w obronie cywilnej;
+- **6)** sposób postępowania w przypadku niemożności stawienia się w wyznaczonym w wezwaniu miejscu i terminie;
+- **7)** pouczenie o skutkach uchylania się od obowiązku służby w obronie cywilnej;
+- **8)** informacja o uprawnieniach związanych ze służbą w obronie cywilnej.
+
+1b. Informacja o wezwaniu do służby w obronie cywilnej może być przekazana użytkownikowi aplikacji mObywatel, którego ta informacja dotyczy.
+
+1c. Osoba, która została powołana do służby w obronie cywilnej i otrzymała wezwanie, stawia się z dokumentem tożsamości i wezwaniem w miejscu i terminie określonych w otrzymanym wezwaniu.
+
+1d. W przypadku niemożności stawienia się w wyznaczonych w wezwaniu miejscu i terminie osoba, która otrzymała wezwanie, informuje o tym niezwłocznie kierownika podmiotu wskazanego jako miejsce pełnienia służby w obronie cywilnej.
+
+1e. Po ustaniu przyczyny uniemożliwiającej stawienie się do służby w obronie cywilnej osoba powołana do służby w obronie cywilnej stawia się niezwłocznie we wskazanym w wezwaniu miejscu pełnienia służby w obronie cywilnej.
+
 2. Osoby, którym nadano przydział mobilizacyjny obrony cywilnej, z chwilą powołania stają się osobami pełniącymi służbę w obronie cywilnej.
 
-3. Wezwania do służby w obronie cywilnej dostarcza wojewoda. z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, sposób i tryb prowadzenia Ewidencji Obrony Cywilnej, nadawania i uchylania przydziałów mobilizacyjnych obrony cywilnej i powoływania do służby w obronie cywilnej, wzór wniosku o nadanie przydziału mobilizacyjnego obrony cywilnej, sposób przekazywania wezwania do służby w obronie cywilnej oraz wzór karty przydziału mobilizacyjnego obrony cywilnej i wzór wezwania do służby w obronie cywilnej, mając na względzie konieczność zapewnienia jednolitości i sprawności postępowania w sprawach nadawania przydziałów do podmiotu obrony cywilnej oraz przeprowadzenia mobilizacji personelu obrony cywilnej.
+3. Wezwanie do służby w obronie cywilnej następuje w drodze dostarczenia wezwania albo przez podanie informacji o wezwaniu do publicznej wiadomości. Zorganizowania dostarczania wezwań oraz podania informacji o wezwaniu do publicznej wiadomości dokonuje wojewoda. Wezwania do służby w obronie cywilnej można dostarczyć także w miejscu pełnienia służby albo miejscu pracy.
+
+**Art. 140.** Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb prowadzenia Ewidencji Obrony Cywilnej,
+- **2)** sposób i tryb nadawania i uchylania przydziałów mobilizacyjnych obrony cywilnej,
+- **3)** sposób i tryb powoływania do służby w obronie cywilnej,
+- **4)** wzór wniosku o nadanie przydziału mobilizacyjnego obrony cywilnej, wzór wniosku o uchylenie przydziału mobilizacyjnego obrony cywilnej, wzór karty przydziału mobilizacyjnego obrony cywilnej i wzór wezwania do służby w obronie cywilnej,
+- **5)** sposób dostarczania wezwania do służby w obronie cywilnej i podawania informacji o wezwaniu do publicznej wiadomości,
+- **6)** szczegółowe warunki wydawania kart tożsamości i tabliczek tożsamości – mając na względzie konieczność zapewnienia jednolitości i sprawności prowadzenia Ewidencji Obrony Cywilnej oraz prowadzenia postępowania w sprawach nadawania i uchylania przydziałów mobilizacyjnych obrony cywilnej oraz przeprowadzenia mobilizacji personelu obrony cywilnej.
 
 **Art. 141.**
 
@@ -1569,12 +1964,16 @@ source: "isap-pdf"
 
 2. Powołanie do służby w obronie cywilnej członka krajowej rezerwy obrony cywilnej następuje w drodze postanowienia.
 
-3. Nie powołuje się w trybie, o którym mowa w ust. 1, osób, o których mowa w art. 137 pkt 2–5, a osoby, o których mowa w art. 137 pkt 1 i 6, powołuje się tylko za ich zgodą. cywilnej, Szef Obrony Cywilnej:
+3. Nie powołuje się w trybie, o którym mowa w ust. 1, osób, o których mowa w art. 137 pkt 2–5, a osoby, o których mowa w art. 137 pkt 1 i 6, powołuje się tylko za ich zgodą.
+
+4. Powołując do służby w obronie cywilnej członka krajowej rezerwy obrony cywilnej, Szef Obrony Cywilnej:
 
 - **1)** wskazuje miejsce pełnienia służby w obronie cywilnej albo
 - **2)** przekazuje osobę powołaną do dyspozycji organu ochrony ludności celem wskazania przez ten organ miejsca pełnienia służby.
 
 5. O powołaniu do służby w obronie cywilnej członka krajowej rezerwy obrony cywilnej Szef Obrony Cywilnej zawiadamia właściwego wojewodę.
+
+5a. Do powołanych do służby w obronie cywilnej członków krajowej rezerwy obrony cywilnej przepisy art. 139 ust. 1a–1c stosuje się odpowiednio.
 
 6. Członek krajowej rezerwy obrony cywilnej zwolniony ze służby w obronie cywilnej jest przenoszony do krajowej rezerwy obrony cywilnej.
 
@@ -1597,9 +1996,17 @@ source: "isap-pdf"
 
 **Art. 144.** Organ, który powołał osobę do służby w obronie cywilnej:
 
+- **1)** może zwolnić tę osobę ze służby w obronie cywilnej:
+    - **a)** jeżeli jest to uzasadnione potrzebami organu ochrony ludności lub podmiotu ochrony ludności,
+    - **b)** na wniosek właściwego terytorialnie szefa wojskowego centrum rekrutacji, jeżeli jest to uzasadnione potrzebami Sił Zbrojnych Rzeczypospolitej Polskiej lub jeżeli istnieje potrzeba nadania jej przydziału mobilizacyjnego do Sił Zbrojnych Rzeczypospolitej Polskiej albo przydziału organizacyjno-mobilizacyjnego;
+
+- **2)** zwalnia tę osobę ze służby w obronie cywilnej:
+    - **a)** jeżeli utraciła ona zdolność realizacji zadań obrony cywilnej,
+    - **b)** w czasie mobilizacji i w czasie wojny, jeżeli nadano jej przydział mobilizacyjny lub jest to uzasadnione potrzebami Sił Zbrojnych Rzeczypospolitej Polskiej, które nie mogą one być zaspokojone w inny sposób.
+
 **Art. 145.**
 
-1. Osobie powołanej do służby w obronie cywilnej wojewoda wydaje kartę tożsamości. Osobie wykonującej działania ratownicze wydawana jest również tabliczka tożsamości.
+1. Osobie powołanej do służby w obronie cywilnej minister właściwy do spraw wewnętrznych albo wojewoda wydaje kartę tożsamości. Osobie wykonującej działania ratownicze wydawana jest również tabliczka tożsamości.
 
 2. Personelowi medycznemu i duchownemu wydaje się karty tożsamości zgodnie z art. 1 załącznika I Pierwszego Protokołu dodatkowego do Konwencji Genewskich z 12 sierpnia 1949 r.
 
@@ -1626,11 +2033,21 @@ source: "isap-pdf"
 
 5. Członkowie personelu obrony cywilnej w czasie wykonywania zadań obrony cywilnej noszą jako oznaczenie międzynarodowy znak obrony cywilnej.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory karty tożsamości i tabliczki tożsamości, mając na względzie potrzebę identyfikacji personelu obrony cywilnej, w tym personelu medycznego i duchownego, oraz możliwość szybkiego wykonania tabliczek tożsamości. w ramach świadczeń rzeczowych na rzecz obrony.
+6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory karty tożsamości i tabliczki tożsamości, mając na względzie potrzebę identyfikacji personelu obrony cywilnej, w tym personelu medycznego i duchownego, oraz możliwość szybkiego wykonania tabliczek tożsamości.
+
+**Art. 146.**
+
+1. Zasoby obrony cywilnej w czasie pokoju nie podlegają zajęciu w ramach świadczeń rzeczowych na rzecz obrony.
 
 2. Zasoby obrony cywilnej mogą zostać przeznaczone w ramach świadczeń rzeczowych w razie ogłoszenia mobilizacji i w czasie wojny, jeśli potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej nie mogą być w inny sposób zaspokojone.
 
 3. Szefowie wojskowych centrów rekrutacji współpracują z właściwymi wojewodami w sprawach z zakresu personelu obrony cywilnej.
+
+**Art. 146a.**
+
+1. Organy ochrony ludności i obrony cywilnej mogą nabywać na potrzeby urzędu obsługującego organ ochrony ludności i obrony cywilnej lub dla realizującego działania ratownicze podmiotu obrony cywilnej kamizelki kuloodporne i odłamkoodporne, ochraniacze twarzy, kończyn i innych części ciała, płyty pancerne, hełmy wojskowe i policyjne oraz sprzęt do wykrywania i rozpoznawania skażeń promieniotwórczych, biologicznych i chemicznych.
+
+2. Nabycie towarów, o których mowa w ust. 1, odbywa się na zasadach określonych w ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743 oraz z 2026 r. poz. 471 i 646) na podstawie dokumentu z podpisem osoby pełniącej funkcję organu ochrony ludności albo obrony cywilnej.
 
 **Art. 147.**
 
@@ -1652,7 +2069,7 @@ source: "isap-pdf"
 
 **Art. 151.**
 
-1. Jeżeli osoba pełniąca służbę w obronie cywilnej nie otrzymuje wynagrodzenia, uposażenia lub innego świadczenia za pracę będącą wykonywaniem zadań obrony cywilnej, osobie tej przysługuje świadczenie pieniężne, zwane dalej „świadczeniem dla personelu obrony cywilnej”, rekompensujące utracone wynagrodzenie ze stosunku pracy lub stosunku służbowego albo dochód w okresie pełnienia służby w obronie cywilnej.
+1. Jeżeli osoba pełniąca służbę w obronie cywilnej nie otrzymuje wynagrodzenia, uposażenia lub innego świadczenia za pracę będącą wykonywaniem zadań obrony cywilnej, osobie tej przysługuje świadczenie pieniężne, zwane dalej „świadczeniem dla personelu obrony cywilnej”, rekompensujące utracone wynagrodzenie ze stosunku pracy lub stosunku służbowego albo dochód z prowadzonej działalności gospodarczej lub rolniczej, które mogłaby uzyskać w okresie pełnienia służby w obronie cywilnej.
 
 2. Świadczenie dla personelu obrony cywilnej za każdy dzień służby w obronie cywilnej stanowi kwota 1/21 miesięcznego wynagrodzenia lub dochodu, o których mowa w ust. 1, pomnożona przez liczbę dni wykonywania zadań obrony cywilnej w danym miesiącu.
 
@@ -1662,18 +2079,27 @@ source: "isap-pdf"
 
 5. Świadczenie dla personelu obrony cywilnej ustala i wypłaca właściwy wojewoda.
 
+6. Przepisy ust. 1–5 stosuje się odpowiednio do udziału w ćwiczeniach obrony cywilnej.
+
 #### Rozdział 11 Finansowanie ochrony ludności i obrony cywilnej
 
 **Art. 152.**
 
 1. Koszty na realizację zadań określonych w ustawie są pokrywane, w ramach środków będących w dyspozycji właściwych dysponentów części budżetu państwa.
 
-2. Środki, o których mowa w ust. 1, przeznacza się na finansowanie lub dofinansowanie organów ochrony ludności i podmiotów ochrony ludności w zakresie realizacji zadań ochrony ludności i obrony cywilnej, w tym na zadania o charakterze obronnym Rzeczypospolitej Polskiej, w szczególności na: systemu ratowniczo-gaśniczego, ochotniczych straży pożarnych i podmiotów ochrony ludności;
+2. Środki, o których mowa w ust. 1, przeznacza się na finansowanie lub dofinansowanie organów ochrony ludności i podmiotów ochrony ludności w zakresie realizacji zadań ochrony ludności i obrony cywilnej, w tym na zadania o charakterze obronnym Rzeczypospolitej Polskiej, w szczególności na:
 
+- **1)** tworzenie i utrzymanie zasobów ochrony ludności, w tym rozwój krajowego systemu ratowniczo-gaśniczego, ochotniczych straży pożarnych i podmiotów ochrony ludności;
 - **2)** zakupy i modernizację sprzętu, w tym sprzętu teleinformatycznego;
+- **2a)** zakupy pojazdów, urządzeń, sprzętu i wyposażenia rozpoznania zagrożeń, poszukiwawczo-ratowniczego i ratowniczo-gaśniczego;
 - **3)** budowę i utrzymanie baz magazynowych;
 - **4)** budowę, modernizację i remont infrastruktury związanej z ochroną ludności i obroną cywilną, w tym budowli ochronnych;
+- **4a)** budowę odpornej infrastruktury medycznej w podmiotach leczniczych podległych ministrowi właściwemu do spraw wewnętrznych lub Ministrowi Obrony Narodowej albo przez nich nadzorowanych, w tym infrastruktury podziemnej, na potrzeby leczenia chirurgicznego, intensywnej terapii, leczenia oparzeń wraz z oddziałami łóżkowymi;
 - **5)** szkolenia i edukację.
+
+3. Środki, o których mowa w ust. 1, mogą być przeznaczane również na finansowanie lub dofinansowanie wyposażenia do realizacji zadań wspierających ochronę ludności i obronę cywilną przez Policję oraz Straż Graniczną w zakresie ochrony infrastruktury krytycznej, łączności oraz ewakuacji.
+
+4. Środki, o których mowa w ust. 1, mogą być przeznaczane również na finansowanie lub dofinansowanie wyposażenia dopuszczonego do użycia przez obronę cywilną zgodnie z Pierwszym Protokołem dodatkowym do Konwencji Genewskich z 12 sierpnia 1949 r., do realizacji zadań wspierających ochronę ludności i obronę cywilną przez jednostki wojskowe w zakresie ochrony infrastruktury krytycznej oraz ewakuacji ludności cywilnej.
 
 **Art. 153.**
 
@@ -1682,6 +2108,42 @@ source: "isap-pdf"
 2. Zasady otrzymywania i rozliczania dotacji celowych, o których mowa w ust. 1, określa ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 3. W przypadku wydawanych przez wojewodów decyzji w sprawie zwrotu środków, o których mowa w ust. 1, w części, w jakiej zostały one niewykorzystane, pobrane nienależnie, pobrane w nadmiernej wysokości lub wykorzystane niezgodnie z przeznaczeniem, organem odwoławczym jest minister właściwy do spraw wewnętrznych.
+
+4. Do dotacji udzielanych podmiotom ochrony ludności, o których mowa w art. 17 ust. 1, oraz z którymi zawarto porozumienie, o którym mowa w art. 19 ust. 1, lub wobec których wydano decyzję, o której mowa w art. 20 ust. 2, w zakresie sposobu zlecania zadań przez organy ochrony ludności nie stosuje się przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+**Art. 153a.**
+
+1. Minister właściwy do spraw wewnętrznych może powierzyć Narodowemu Instytutowi Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego realizację zadania zleconego na podstawie art. 24 ust. 3 pkt 12 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. z 2026 r. poz. 94), polegającego na wykonywaniu części zadań związanych z udzielaniem dotacji celowych podmiotom wymienionym w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, realizującym zadania z zakresu ochrony ludności.
+
+2. Powierzenie realizacji zadania może dotyczyć w szczególności:
+
+- **1)** dokonywania wyboru zadań, które będą dofinansowane;
+- **2)** zawierania umów o dofinansowanie wybranych zadań;
+- **3)** udzielania i przekazywania dotacji celowych;
+- **4)** kontroli wydatkowania środków pochodzących z dotacji celowej;
+- **5)** odzyskiwania dotacji wykorzystanych niezgodnie z przeznaczeniem, pobranych nienależnie lub w nadmiernej wysokości.
+
+3. Powierzenie realizacji zadania następuje w drodze umowy dotacyjnej zawartej między ministrem właściwym do spraw wewnętrznych a Narodowym Instytutem Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego.
+
+4. W umowie dotacyjnej, o której mowa w ust. 3, określa się w szczególności:
+
+- **1)** cel realizowanych zadań z zakresu ochrony ludności;
+- **2)** zakres zadań, które będą dofinansowywane;
+- **3)** wysokość środków finansowych na realizację powierzonego zadania;
+- **4)** wysokość środków finansowych dla Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego przeznaczonych na obsługę realizacji powierzonego zadania.
+
+5. Przekazanie środków finansowych dla Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego na realizację powierzonego zadania ze środków, o których mowa w art. 155 ust. 2 pkt 3, a także środków finansowych, o którym mowa w ust. 4 pkt 4, odbywa się w drodze dotacji celowej.
+
+6. Do dotacji celowych udzielanych przez Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego w ramach realizacji powierzonego zadania stosuje się przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+7. W przypadku powierzenia realizacji zadania Dyrektor Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego działa w imieniu własnym w zakresie tego powierzenia, w szczególności jako właściwy organ:
+
+- **1)** wydaje decyzje, o których mowa w przepisach o finansach publicznych, w tym w sprawach, o których mowa w ust. 2 pkt 5, oraz decyzje o zapłacie odsetek;
+- **2)** rozpatruje wnioski o ponowne rozpatrzenie sprawy;
+- **3)** występuje w postępowaniach przed sądami administracyjnymi dotyczących dotacji;
+- **4)** występuje w postępowaniach egzekucyjnych dotyczących dotacji.
+
+8. Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego przedstawia ministrowi właściwemu do spraw wewnętrznych, na każde żądanie oraz po zakończeniu realizacji umowy dotacyjnej, informację o sposobie realizacji zadania.
 
 **Art. 154.**
 
@@ -1693,7 +2155,9 @@ source: "isap-pdf"
 
 4. Na finansowanie zadań zleconych z zakresu administracji rządowej, z zakresu ochrony ludności i obrony cywilnej jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje celowe w wysokości zapewniającej realizację tych zadań.
 
-5. Dotacje celowe, o których mowa w ust. 3 i 4, są przekazywane przez wojewodów. realizowanego zadania reguluje zawarta umowa. Wartość dotacji celowej może wynosić do 100 % kosztów zadania.
+5. Dotacje celowe, o których mowa w ust. 3 i 4, są przekazywane przez wojewodów.
+
+6. Procentowy udział dotacji celowej, o której mowa w ust. 3, w kosztach realizowanego zadania reguluje zawarta umowa. Wartość dotacji celowej może wynosić do 100 % kosztów zadania.
 
 7. Zasady otrzymywania i rozliczania dotacji celowych, o których mowa w ust. 3 i 4, określa ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -1706,41 +2170,95 @@ source: "isap-pdf"
 2. W skład środków, o których mowa w ust. 1, wchodzą:
 
 - **1)** środki przeznaczone na realizację zadań z zakresu ochrony ludności i obrony cywilnej przez ministra właściwego do spraw wewnętrznych i wojewodów oraz wydatki Rządowej Agencji Rezerw Strategicznych;
+- **1a)** środki przeznaczone na realizację zadań z zakresu budowy i rozbudowy systemów alarmowania, ostrzegania i powiadamiania ludności oraz zadań, o których mowa w ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2025 r. poz. 1354), przez ministra właściwego do spraw administracji publicznej;
 - **2)** środki przeznaczone na realizację zadań z zakresu ochrony ludności i obrony cywilnej przez:
-    - **a)** ministra właściwego do spraw zdrowia w zakresie środków przeznaczonych na finansowanie zadań, o których mowa w: – art. 4 ust. 1 pkt 1, – art. 48 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym,
+    - **a)** ministra właściwego do spraw zdrowia w zakresie środków przeznaczonych na finansowanie zadań, o których mowa w art. 48 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym,
     - **b)** Narodowy Fundusz Zdrowia w zakresie środków przeznaczonych na finansowanie świadczeń opieki zdrowotnej z zakresu ratownictwa medycznego;
 
 - **3)** środki ujęte w ramach limitu wydatków na finansowanie potrzeb obronnych, o którym mowa w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, w wysokości 0,15 % produktu krajowego brutto.
 
-3. Wartość produktu krajowego brutto, o którym mowa w ust. 1 i ust. 2 pkt 3, jest ustalana na podstawie wartości określonej w obwieszczeniu Prezesa Głównego Urzędu Statystycznego wydawanym na podstawie art. 5 ustawy z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. z 2021 r. poz. 151), według stanu na dzień 31 sierpnia. państwa wydziela ze środków, o których mowa w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, środki do uwzględnienia w częściach budżetu państwa, wskazanych w ust. 6, z przeznaczeniem na realizację zadań ochrony ludności i obrony cywilnej, w tym na zadania o charakterze obronnym Rzeczypospolitej Polskiej, określonych w Programie Ochrony Ludności i Obrony Cywilnej.
+3. Wartość produktu krajowego brutto, o którym mowa w ust. 1 i ust. 2 pkt 3, jest ustalana na podstawie wartości określonej w obwieszczeniu Prezesa Głównego Urzędu Statystycznego wydawanym na podstawie art. 5 ustawy z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. z 2021 r. poz. 151), według stanu na dzień 31 sierpnia.
+
+4. Minister Obrony Narodowej na etapie opracowywania projektu budżetu państwa wydziela ze środków, o których mowa w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, środki do uwzględnienia w częściach budżetu państwa, wskazanych w ust. 6, z przeznaczeniem na realizację zadań ochrony ludności i obrony cywilnej, w tym na zadania o charakterze obronnym Rzeczypospolitej Polskiej, określonych w Programie Ochrony Ludności i Obrony Cywilnej.
 
 5. Podziału środków, o których mowa w ust. 4, na poszczególne części budżetu państwa wskazane w ust. 6 dokonuje minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej, z uwzględnieniem Programu Ochrony Ludności i Obrony Cywilnej, w oparciu o przepisy wydane na podstawie art. 138 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-6. Środki, o których mowa w ust. 2 pkt 3, wydziela się z limitu wydatków na finansowanie potrzeb obronnych i ujmuje się w części 42 „Sprawy wewnętrzne” oraz części 85 „Wojewodowie” w ramach działu 752 – Obrona narodowa na realizację zadań, o których mowa w art. 152 ust. 2.
+6. Środki, o których mowa w ust. 2 pkt 3, wydziela się z limitu wydatków na finansowanie potrzeb obronnych i ujmuje się w części 17 „Administracja publiczna”, w części 42 „Sprawy wewnętrzne” oraz części 85 „Wojewodowie” w ramach działu 752 – Obrona narodowa na realizację zadań, o których mowa w art. 152 ust. 2 i 3.
+
+7. Minister właściwy do spraw finansów publicznych, na zgodne wnioski właściwych dysponentów części budżetowych zaakceptowane przez ministra właściwego do spraw wewnętrznych oraz Ministra Obrony Narodowej, może dokonywać przeniesień wydatków zaplanowanych ze środków, o których mowa w ust. 6, między częściami budżetu państwa w celu pełnej realizacji zadań wynikających z ustawy, z uwzględnieniem Programu Ochrony Ludności i Obrony Cywilnej, z wyłączeniem środków zaangażowanych przez dysponentów w ramach tego Programu, w terminie do dnia 15 grudnia roku budżetowego.
 
 **Art. 156.**
 
-1. Minister właściwy do spraw wewnętrznych opracowuje Program Ochrony Ludności i Obrony Cywilnej.
+1. Rada Ministrów przyjmuje, w drodze uchwały, na wniosek ministra właściwego do spraw wewnętrznych, Program Ochrony Ludności i Obrony Cywilnej, zwany dalej „Programem”.
 
-2. Program Ochrony Ludności i Obrony Cywilnej określa sposób finansowania realizacji zadań ochrony ludności i obrony cywilnej ze środków, o których mowa w art. 155 ust. 2.
+2. Program określa sposób finansowania realizacji zadań ochrony ludności i obrony cywilnej ze środków, o których mowa w art. 155 ust. 2.
 
-3. Program Ochrony Ludności i Obrony Cywilnej opracowuje się na okres 4 lat i aktualizuje co 2 lata.
+3. Program nie jest programem wieloletnim w rozumieniu art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-4. Projekt Programu Ochrony Ludności i Obrony Cywilnej:
+4. Projekt Programu:
 
-- **1)** podlega uzgodnieniu z:
-    - **a)** Ministrem Obrony Narodowej,
-    - **b)** Przewodniczącym Komitetu do spraw Pożytku Publicznego;
+- **1)** podlega uzgodnieniu z Ministrem Obrony Narodowej;
+- **2)** jest opiniowany przez Komisję Wspólną Rządu i Samorządu Terytorialnego.
 
-- **2)** jest opiniowany przez:
-    - **a)** Zespół,
-    - **b)** Komisję Wspólną Rządu i Samorządu Terytorialnego.
+5. Program opracowuje się na okres 5 lat. W okresie obowiązywania Programu następuje jego aktualizacja.
 
-5. Rada Ministrów, na wniosek ministra właściwego do spraw wewnętrznych, zatwierdza, w drodze uchwały, Program Ochrony Ludności i Obrony Cywilnej i jego aktualizacje.
+6. W Programie wykazuje się środki, o których mowa w art. 155 ust. 2, w podziale na poszczególnych dysponentów i poszczególne lata. Podział ujmuje się osobno dla środków, o których mowa:
 
-6. Rada Ministrów określi, w drodze rozporządzenia, szczegółową zawartość Programu Ochrony Ludności i Obrony Cywilnej, mając na uwadze zapewnienie i obrony cywilnej.
+- **1)** w art. 155 ust. 2 pkt 1 i 2;
+- **2)** w art. 155 ust. 2 pkt 3.
+
+7. W zakresie środków, o których mowa w art. 155 ust. 2 pkt 3, w Programie wykazuje się również limit wydatków na inwestycje budowlane dla poszczególnych dysponentów na realizację inwestycji budowlanych o charakterze wieloletnim w podziale na poszczególne lata.
+
+8. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad realizacją Programu i monitoruje wykorzystanie środków, o których mowa w art. 155 ust. 2.
+
+9. Rada Ministrów określi, w drodze rozporządzenia, szczegółową zawartość Programu Ochrony Ludności i Obrony Cywilnej, mając na uwadze zapewnienie sprawnego i przejrzystego planowania finansowania realizacji zadań ochrony ludności i obrony cywilnej oraz ciągłość planowania inwestycji o charakterze wieloletnim na podstawie Programu.
+
+**Art. 156a.**
+
+1. Minister właściwy do spraw wewnętrznych zatwierdza, na wniosek właściwego wojewody, wykaz inwestycji budowlanych o charakterze wieloletnim realizowanych w województwie ze środków przewidzianych w Programie w podziale na poszczególne lata.
+
+2. Wykaz inwestycji budowlanych o charakterze wieloletnim opracowuje się z uwzględnieniem limitu, o którym mowa w art. 156 ust. 7.
+
+3. W przypadku finansowania lub dofinansowania inwestycji budowlanych o charakterze wieloletnim ujętych w wykazie inwestycji budowlanych o charakterze wieloletnim minister właściwy do spraw wewnętrznych lub właściwy wojewoda, w odniesieniu do środków budżetu państwa, których są dysponentami, wyrażają zgodę jednostkom sektora finansów publicznych realizującym Program, w tym jednostkom samorządu terytorialnego lub innym podmiotom ochrony ludności, niebędącym jednostkami sektora finansów publicznych, na zaciąganie zobowiązań na kolejne lata do wysokości limitu wydatków na inwestycje budowlane określonego w art. 156 ust. 7 w poszczególnych latach.
+
+4. Właściwi dysponenci prowadzą wykaz wydanych w trybie ust. 3 zgód na zaciągnięcie zobowiązań oraz zaciągniętych zobowiązań, w podziale na poszczególne lata.
+
+5. Wojewodowie sporządzają sprawozdania z wykazów, o których mowa w ust. 4, i przekazują je ministrowi właściwemu do spraw wewnętrznych w terminie do 15. dnia miesiąca następującego po upływie każdego miesiąca.
+
+6. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad wykorzystaniem limitu, o którym mowa w art. 156 ust. 7, na podstawie otrzymanych od wojewodów sprawozdań.
+
+7. Właściwi dysponenci monitorują na bieżąco wykorzystanie limitu, o którym mowa w art. 156 ust. 7, w szczególności przed wyrażeniem każdej kolejnej zgody, o której mowa w ust. 3.
+
+8. W przypadku zagrożenia przekroczenia limitu wydatków, o którym mowa w art. 156 ust. 7, właściwi dysponenci nie wyrażają kolejnych zgód, o których mowa w ust. 3, oraz nie zawierają umów na realizację nowych zadań ze środków Programu.
 
 **Art. 157.** Spółki z udziałem Skarbu Państwa, spółki z udziałem jednostek samorządu terytorialnego i spółki z udziałem państwowych osób prawnych mogą przeznaczać corocznie na wpłatę na Fundusz Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności, o którym mowa w art. 31 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98 i 1907), do 0,3 % zysków netto za rok poprzedni w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) lub międzynarodowego standardu rachunkowości stosowanego przez daną spółkę.
+
+**Art. 157a.**
+
+1. Do zamówień na roboty budowlane, dostawy lub usługi bezpośrednio służące realizacji zadań ochrony ludności i obrony cywilnej w zakresie infrastruktury zapewniającej schronienie w budowlach ochronnych, łączności i komunikacji, dostaw i usług teleinformatycznych i telekomunikacyjnych oraz wykrywania zagrożeń, powiadamiania, ostrzegania i alarmowania o zagrożeniach, organizacji tymczasowych miejsc udzielania pomocy medycznej, rozbudowy infrastruktury medycznej o elementy podwójnego przeznaczenia, w których możliwe będzie przeprowadzanie zabiegów chirurgicznych, przechowywanie wyrobów medycznych, krwi, składników krwi oraz produktów krwiopochodnych, finansowanych lub dofinansowywanych ze środków, o których mowa w art. 155 ust. 2 pkt 3, zwanych dalej „zamówieniami”, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+
+2. W przypadku realizacji zadań, o których mowa w ust. 1, z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, stosuje się procedury określone w umowach międzynarodowych, deklaracjach dawcy lub innych procedurach obowiązujących przy ich wykorzystaniu, w tym ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+
+3. Udzielając zamówień, o których mowa w ust. 1, zamawiający:
+
+- **1)** wszczyna postępowanie i zamieszcza ogłoszenie o udzielanym zamówieniu w Biuletynie Informacji Publicznej na swojej stronie podmiotowej;
+- **2)** zapewnia przejrzystość postępowania i równe traktowanie podmiotów zainteresowanych realizacją zamówienia oraz uwzględnia okoliczności mogące mieć wpływ na jego udzielenie;
+- **3)** wyklucza wykonawcę, który udaremnia lub utrudnia stwierdzenie przestępnego pochodzenia pieniędzy lub ukrywa ich pochodzenie, w związku z brakiem możliwości ustalenia beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669), w przypadku zamówienia o wartości równej lub przekraczającej dla robót budowlanych – 86 200 000 zł, a dla dostaw lub usług – 43 100 000 zł;
+- **4)** w odniesieniu do zamawianych robót budowlanych, dostaw lub usług może kierować się oprócz kryterium ceny również innymi kryteriami, w szczególności odnoszącymi się do aspektów środowiskowych lub społecznych;
+- **5)** nie udostępnia informacji związanych z zamówieniem, stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), jeżeli niepóźniej niż w terminie składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu podmiot zainteresowany realizacją zamówienia zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że informacje te stanowią tajemnicę przedsiębiorstwa, z wyjątkiem nazwy oraz adresu podmiotu zainteresowanego realizacją zamówienia i informacji dotyczących ceny, terminu realizacji zamówienia, okresu gwarancji i warunków płatności zawartych w ofercie, które nie mogą zostać zastrzeżone;
+- **6)** niezwłocznie zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o udzieleniu zamówienia, podając nazwę albo imię i nazwisko podmiotu albo osoby, z którymi zawarł umowę o realizację zamówienia, albo informację o nieudzieleniu zamówienia.
+
+4. Osoby wykonujące po stronie zamawiającego czynności w postępowaniu o udzielenie zamówienia, osoby mogące wpływać na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli:
+
+- **1)** ubiegają się o udzielenie zamówienia;
+- **2)** pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub są związane z tytułu przysposobienia, opieki lub kurateli z wykonawcą, jego zastępcą prawnym lub członkami organów zarządzających lub organów nadzorczych wykonawców ubiegających się o udzielenie zamówienia;
+- **3)** przed upływem 3 lat przed wszczęciem postępowania o udzielenie zamówienia pozostawały w stosunku pracy lub zlecenia z wykonawcą, otrzymywały od wykonawcy wynagrodzenie z innego tytułu lub były członkami organów zarządzających lub organów nadzorczych wykonawców ubiegających się o udzielenie zamówienia;
+- **4)** pozostają z wykonawcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób lub ich niezależności w związku z postępowaniem o udzielenie zamówienia z uwagi na posiadanie bezpośredniego lub pośredniego interesu finansowego, ekonomicznego lub osobistego w określonym rozstrzygnięciu tego postępowania;
+- **5)** zostały prawomocnie skazane za przestępstwo popełnione w związku z utrudnianiem lub udaremnieniem postępowania o udzielenie zamówienia publicznego, przestępstwo przekupstwa, przestępstwo przeciwko obrotowi gospodarczemu, przestępstwo przeciwko wiarygodności dokumentów lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej.
+
+5. Osoby wykonujące po stronie zamawiającego czynności w postępowaniu o udzielenie zamówienia, osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia składają zamawiającemu, w formie pisemnej, oświadczenie o braku okoliczności, o których mowa w ust. 4, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+6. Oświadczenie o istnieniu okoliczności, o których mowa w ust. 4 pkt 1–4, składa się niezwłocznie po powzięciu wiadomości o ich istnieniu, a oświadczenie o braku istnienia tych okoliczności niepóźniej niż przed zakończeniem postępowania o udzielenie zamówienia. Oświadczenie o braku lub istnieniu okoliczności, o których mowa w ust. 4 pkt 5, składa się przed rozpoczęciem wykonywania czynności związanych z przeprowadzeniem postępowania o udzielenie zamówienia.
 
 #### Rozdział 12 Odszkodowanie za szkody poniesione w związku z wykonywaniem zadań ochrony ludności i obrony cywilnej oraz świadczenie odszkodowawcze dla członków personelu obrony cywilnej
 
@@ -1758,7 +2276,9 @@ source: "isap-pdf"
 
 6. Odszkodowanie przysługuje od Skarbu Państwa reprezentowanego przez wojewodę właściwego ze względu na miejsce wykonywania zadań ochrony ludności.
 
-**Art. 159.** Przepisy niniejszego rozdziału stosuje się odpowiednio do szkód poniesionych w związku z ćwiczeniami z zakresu ochrony ludności i obrony cywilnej. w związku z wykonywaniem zadań ochrony ludności lub zadań obrony cywilnej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, o ile niniejsza ustawa nie stanowi inaczej.
+**Art. 159.** Przepisy niniejszego rozdziału stosuje się odpowiednio do szkód poniesionych w związku z ćwiczeniami z zakresu ochrony ludności i obrony cywilnej.
+
+**Art. 160.** Do postępowania w sprawach o odszkodowanie za szkody poniesione w związku z wykonywaniem zadań ochrony ludności lub zadań obrony cywilnej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, o ile niniejsza ustawa nie stanowi inaczej.
 
 **Art. 161.**
 
@@ -1786,7 +2306,9 @@ source: "isap-pdf"
 4. Wysokość odszkodowania ustala się według następujących zasad:
 
 - **1)** w razie utraty lub całkowitego zniszczenia mienia wysokość odszkodowania ustala się według ceny zakupu tego mienia obowiązującej w czasie ustalania wysokości odszkodowania, z uwzględnieniem stopnia zużycia tego mienia;
-- **2)** w razie uszkodzenia mienia wysokość odszkodowania stanowi równowartość kosztu przywrócenia go do stanu sprzed wypadku; jeżeli jednak stopień uszkodzenia mienia jest znaczny albo koszt naprawy przekroczyłby wartość uszkodzonego mienia, wypłaca się odszkodowanie w wysokości określonej w pkt 1. ministra właściwego do spraw wewnętrznych.
+- **2)** w razie uszkodzenia mienia wysokość odszkodowania stanowi równowartość kosztu przywrócenia go do stanu sprzed wypadku; jeżeli jednak stopień uszkodzenia mienia jest znaczny albo koszt naprawy przekroczyłby wartość uszkodzonego mienia, wypłaca się odszkodowanie w wysokości określonej w pkt 1.
+
+5. Od decyzji wojewody w sprawie odszkodowania przysługuje odwołanie do ministra właściwego do spraw wewnętrznych.
 
 **Art. 163.**
 
@@ -1814,7 +2336,7 @@ source: "isap-pdf"
 - **2)** renta rodzinna;
 - **3)** odszkodowanie z tytułu szkody w mieniu.
 
-3. Jednorazowe odszkodowania, o których mowa w ust. 1 pkt 1 i ust. 2 pkt 1, przysługują na zasadach i w trybie określonych dla funkcjonariuszy Państwowej odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2023 r. poz. 2015), w wysokościach równych kwotom ustalanym na podstawie przepisów ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2022 r. poz. 2189 oraz z 2024 r. poz. 1243), i są wypłacane przez właściwego wojewodę.
+3. Jednorazowe odszkodowania, o których mowa w ust. 1 pkt 1 i ust. 2 pkt 1, przysługują na zasadach i w trybie określonych dla funkcjonariuszy Państwowej Straży Pożarnej w przepisach ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2023 r. poz. 2015), w wysokościach równych kwotom ustalanym na podstawie przepisów ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2022 r. poz. 2189 oraz z 2024 r. poz. 1243), i są wypłacane przez właściwego wojewodę.
 
 4. Renty, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 2, przysługują osobom powołanym do służby w obronie cywilnej oraz członkom ich rodzin na zasadach, w trybie i wysokości określonych w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2020 r. poz. 984 oraz z 2024 r. poz. 1243).
 
@@ -1827,27 +2349,107 @@ source: "isap-pdf"
 
 7. Osobie powołanej do służby w obronie cywilnej, której świadczenia odszkodowawcze, o których mowa w ust. 1, przysługują także z tytułu stosunku pracy, służby lub ubezpieczenia społecznego, przyznaje się jedno wybrane przez uprawnionego świadczenie.
 
-8. W razie śmierci osoby powołanej do służby w obronie cywilnej, która uczestniczyła w wykonywaniu zadań obrony cywilnej, koszty pogrzebu pokrywa się ze środków pozostających w dyspozycji właściwego wojewody, na zasadach i w trybie określonych dla funkcjonariuszy Państwowej Straży Pożarnej. w dyspozycji wojewody uprawnionym członkom rodziny zmarłego przysługuje połowa zasiłku pogrzebowego.
+8. W razie śmierci osoby powołanej do służby w obronie cywilnej, która uczestniczyła w wykonywaniu zadań obrony cywilnej, koszty pogrzebu pokrywa się ze środków pozostających w dyspozycji właściwego wojewody, na zasadach i w trybie określonych dla funkcjonariuszy Państwowej Straży Pożarnej.
+
+9. W przypadku pokrycia kosztów pogrzebu ze środków pozostających w dyspozycji wojewody uprawnionym członkom rodziny zmarłego przysługuje połowa zasiłku pogrzebowego.
 
 #### Rozdział 13 Zmiany w przepisach
 
 **Art. 166.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119) po art. 82a dodaje się art. 82b w brzmieniu: „Art. 82b. Kto:
 
+- **1)** będąc właścicielem, użytkownikiem wieczystym albo zarządcą obiektu zbiorowej ochrony, nie dopełnia obowiązków określonych w art. 96 ust. 1 pkt 1 i 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), w zakresie utrzymania lub udostępnienia obiektu zbiorowej ochrony do użycia,
+- **2)** nie wykonuje nakazu przystosowania, udostępnienia nieruchomości albo wykonania miejsc doraźnego schronienia, o których mowa w art. 102 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, podlega karze aresztu, ograniczenia wolności albo grzywny.”.
+
 **Art. 167.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2024 r. poz. 155) w art. 2a pkt 10 otrzymuje brzmienie: „10) jednostki organizacyjne Policji, Straży Granicznej, Krajowej Administracji Skarbowej i Państwowej Straży Pożarnej;”.
 
 **Art. 168.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2024 r. poz. 1465 i 1572) wprowadza się następujące zmiany:
 
+- **1)** w art. 7 w ust. 1 po pkt 14 dodaje się pkt 14a w brzmieniu: „14a) ochrony ludności i obrony cywilnej, w tym tworzenia i utrzymywania zasobów ochrony ludności, z wyłączeniem zadań określonych w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) jako zadania zlecone z zakresu administracji rządowej;”;
+- **2)** po art. 31a dodaje się art. 31aa w brzmieniu: „Art. 31aa. Wójt wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.”.
+
+**Art. 169.** W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. poz. 198, z późn. zm. ) w art. 3 w pkt 7 uchyla się lit. j–l.
+
 **Art. 170.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275, 1222 i 1692) wprowadza się następujące zmiany:
+
+- **1)** w art. 2: poz. 1907);”;
+    - **a)** pkt 2 otrzymuje brzmienie: „2) działaniach ratowniczych – rozumie się przez to każdą czynność podjętą w celu niezwłocznej likwidacji nagłych zagrożeń dla życia, zdrowia, dóbr kultury, środowiska i mienia występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;”,
+    - **b)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) działaniach pomocowych – rozumie się przez to każdą czynność niebędącą działaniem ratowniczym wykonywaną w ramach pomocy doraźnej lub pomocy humanitarnej w rozumieniu ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U.
+
+- **2)** w art. 14:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) likwidację lub ograniczenie zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;”,
+    - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółową organizację krajowego systemu ratowniczo-gaśniczego w zakresie:”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) szczegółowego sposobu sporządzania powiatowych i wojewódzkich planów ratowniczych oraz przeprowadzania analiz zagrożeń oraz analiz zabezpieczenia operacyjnego,”, – pkt 2 otrzymuje brzmienie: „2) likwidacji lub ograniczenia zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia,”;
+
+- **3)** dodaje się art. 14fa w brzmieniu: „Art. 14fa. 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+- **1)** starostę (prezydenta miasta na prawach powiatu) – dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
+- **2)** starostę i prezydenta miasta na prawach powiatu – wspólne dla obszaru miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
+- **3)** wojewodę – dla obszaru województwa, po zasięgnięciu opinii Komendanta Głównego Państwowej Straży Pożarnej.
+
+2. Plany ratownicze wspomagają organizację działań ratowniczych i zawierają:
+
+- **1)** wykaz zadań realizowanych przez służby i podmioty ochrony ludności oraz inne podmioty mogące wspomagać organizację i prowadzenie działań ratowniczych;
+- **2)** zbiór zalecanych zasad i procedur ratowniczych wynikających z zadań realizowanych przez podmioty ochrony ludności;
+- **3)** dane teleadresowe podmiotów ochrony ludności oraz innych podmiotów mogących wspomagać organizację i prowadzenie działań ratowniczych;
+- **4)** wykaz zasobów podmiotów ochrony ludności;
+- **5)** graficzne przedstawienie obszarów chronionych;
+- **6)** wykaz ekspertów do spraw prognozowania zagrożeń oraz specjalistów do spraw ratownictwa zawierający imiona, nazwiska, informacje o ich dziedzinach oraz numery telefonów służbowych;
+- **7)** arkusze uzgodnień i aktualizacji planu ratowniczego.
+
+3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami zarządzania kryzysowego, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).”;
+
+- **4)** dodaje się art. 19a w brzmieniu: „Art. 19a. Do krajowego systemu ratowniczo-gaśniczego mogą być włączane i z niego wyłączane jednostki ochrony przeciwpożarowej uwzględnione w zbiorczym planie sieci podmiotów systemu, których siły i środki są przewidziane do użycia w planie ratowniczym.”;
+- **5)** art. 20 otrzymuje brzmienie: „Art. 20. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+- **1)** zakres, szczegółowe warunki i tryb włączania jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–6 i 8, do krajowego systemu ratowniczo-gaśniczego i wyłączania ich z krajowego systemu ratowniczo-gaśniczego,
+- **2)** warunki współpracy jednostek ochrony przeciwpożarowej niewłączonych do krajowego systemu ratowniczo-gaśniczego z krajowym systemem ratowniczo-gaśniczym – mając na uwadze konieczność zapewnienia skutecznego działania krajowego systemu ratowniczo-gaśniczego.”.
 
 **Art. 171.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443, 1473, 1717 i 1871) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) wykonywanie zadań ochrony ludności i obrony cywilnej;”;
+- **2)** w art. 10 dodaje się ust. 8–10 w brzmieniu: „8. Komendant Główny Państwowej Straży Pożarnej:
+- **1)** wykonuje zadania punktu kontaktowego Unijnego Mechanizmu Ochrony Ludności;
+- **2)** prowadzi ewidencję zasobów przewidzianych do współdziałania w ramach Unijnego Mechanizmu Ochrony Ludności oraz współpracy transgranicznej w działaniach ratowniczych, w oparciu o Centralną Ewidencję Zasobów Ochrony Ludności i Obrony Cywilnej, o której mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).
+
+9. Komendant Główny Państwowej Straży Pożarnej:
+
+- **1)** opracowuje, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych, strategię rozwoju jednostek ochrony przeciwpożarowej, z uwzględnieniem:
+    - **a)** wniosków z analiz zagrożeń i wniosków z analiz gotowości i zabezpieczenia ludności przez jednostki ochrony przeciwpożarowej,
+    - **b)** wniosków z analiz działań ratowniczych i działań pomocowych,
+    - **c)** oceny zdolności jednostek ochrony przeciwpożarowej do realizacji zadań ochrony ludności i obrony cywilnej,
+    - **d)** oczekiwanego poziomu funkcjonowania systemu kształcenia i szkolenia oraz systemu doskonalenia i utrwalania zdolności do realizowania zadań ochrony ludności i obrony cywilnej,
+    - **e)** oczekiwanego poziomu kompetencji strażaków, w tym kierujących działaniem ratowniczym,
+    - **f)** planowanego zakupu wyposażenia w sprzęt niezbędny do realizowania zadań ochrony ludności i obrony cywilnej;
+
+- **2)** analizuje, nie rzadziej niż raz na 2 lata, a w razie uzasadnionej potrzeby częściej, strategię rozwoju jednostek ochrony przeciwpożarowej w odniesieniu do strategii bezpieczeństwa społeczności lokalnych, specyfiki poszczególnych województw, w szczególności w zakresie współpracy transgranicznej i bezpieczeństwa granic oraz w odniesieniu do celów strategii bezpieczeństwa narodowego.
+
+10. Strategia rozwoju jednostek ochrony przeciwpożarowej jest opracowywana w terminie 6 miesięcy od dnia przyjęcia Programu Ochrony Ludności i Obrony Cywilnej, o którym mowa w art. 156 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.”;
+
+- **3)** w art. 13 w ust. 6 po pkt 11 dodaje się pkt 11a w brzmieniu: „11a) nadzorowanie spełniania przez obiekty zbiorowej ochrony wymagań w zakresie bezpieczeństwa pożarowego, a także wymagań dotyczących wyposażenia budowli ochronnej, o których mowa w art. 107 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej;”;
+- **4)** w art. 23:
+    - **a)** w ust. 3 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) kontroli spełniania przez obiekty zbiorowej ochrony wymagań w zakresie bezpieczeństwa pożarowego, a także wymagań dotyczących wyposażenia budowli ochronnej, o których mowa w art. 107 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej;”,
+    - **b)** w ust. 6 w pkt 2 na końcu dodaje się wyraz „lub” oraz dodaje się pkt 3 w brzmieniu: „3) przepisów art. 96 ust. 1 pkt 1 i 2 oraz art. 102 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej”;
+
+- **5)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. Komendant powiatowy (miejski) Państwowej Straży Pożarnej, w razie stwierdzenia niewykonania lub nieprawidłowego wykonania przez właściciela, użytkownika wieczystego lub zarządcę obiektu zbiorowej ochrony obowiązków dotyczących wymagań w zakresie bezpieczeństwa pożarowego obiektu zbiorowej ochrony, a także wymagań dotyczących wyposażenia budowli ochronnej, o których mowa w art. 107 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, jest uprawniony do nakazania, w drodze decyzji administracyjnej, usunięcia stwierdzonych uchybień w ustalonym terminie.”;
+- **6)** art. 27 otrzymuje brzmienie: „Art. 27. Organem odwoławczym od decyzji, o których mowa w art. 26 oraz art. 26a, jest komendant wojewódzki Państwowej Straży Pożarnej.”.
+
 **Art. 172.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2024 r. poz. 530 i 1473) wprowadza się następujące zmiany:
+
+- **1)** w art. 30 w ust. 2 w pkt 3 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) pkt 3–5, 8, 10, 13 i 14 – nie dotyczą zadań realizowanych na podstawie ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).”;
+- **2)** po art. 48b dodaje się art. 48c w brzmieniu: „Art. 48c. Straż Leśna współpracuje z organami i podmiotami ochrony ludności i obrony cywilnej w zakresie podejmowania działań ochronnych i zabezpieczających w przypadku wystąpienia pożaru lasu, klęski żywiołowej lub innego miejscowego zagrożenia, w szczególności w zakresie:
+- **1)** wymiany informacji o zagrożeniach w zakresie bezpieczeństwa osób i mienia oraz zakłócania spokoju i porządku publicznego oraz o powstałych zagrożeniach;
+- **2)** kierowania na terenie lasu przejazdem jednostek ratowniczych;
+- **3)** współdziałania przy ewakuacji ludzi i mienia;
+- **4)** zabezpieczania miejsc po pożarze, klęsce żywiołowej lub innym miejscowym zagrożeniu;
+- **5)** wzajemnych konsultacji doskonalących metody współpracy.”.
 
 **Art. 173.** W ustawie z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2023 r. poz. 1082) wprowadza się następujące zmiany:
 
+- **1)** po art. 32a dodaje się art. 32b w brzmieniu: „Art. 32b. Polski Związek Łowiecki jest podmiotem ochrony ludności, który wykonuje zadania ochrony ludności i obrony cywilnej.”;
+- **2)** w art. 34 po pkt 11a dodaje się pkt 11b w brzmieniu: „11b) realizacja zadań z zakresu ochrony ludności i obrony cywilnej;”.
+
 **Art. 174.** W ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2024 r. poz. 309 i 1222) w art. 7 ust. 1 otrzymuje brzmienie: „1. Komórki organizacyjne urzędu obsługującego ministra właściwego do spraw wewnętrznych i jednostki organizacyjne Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa oraz związki zawodowe, funkcjonariusze i pracownicy tych jednostek nie mogą uczestniczyć w żadnej działalności, w tym gospodarczej, jeżeli działalność ta mogłaby prowadzić do wykorzystania autorytetu urzędowego, informacji służbowych lub środków publicznych do celów pozasłużbowych albo w sposób sprzeczny z ich przeznaczeniem.”.
 
-**Art. 175.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228) po art. 144 dodaje się art. 144a i art. 144b w brzmieniu: „Art. 144a. § 1. Kto, będąc powołanym do pełnienia służby w obronie cywilnej, nie zgłasza się do odbywania tej służby w określonym terminie i miejscu, podlega karze pozbawienia wolności do lat 3. podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+**Art. 175.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228) po art. 144 dodaje się art. 144a i art. 144b w brzmieniu: „Art. 144a. § 1. Kto, będąc powołanym do pełnienia służby w obronie cywilnej, nie zgłasza się do odbywania tej służby w określonym terminie i miejscu, podlega karze pozbawienia wolności do lat 3.
+
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 144b.**
 
@@ -1861,19 +2463,56 @@ source: "isap-pdf"
 
 **Art. 177.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995) wprowadza się następujące zmiany:
 
+- **1)** uchyla się art. 12;
+- **2)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Specjalistyczne uzbrojone formacje ochronne w zakresie ochrony osób i mienia współpracują z Policją, podmiotami ochrony ludności i obrony cywilnej oraz strażami gminnymi (miejskimi).
+
+2. Współpracę kierownik jednostki chronionej przez specjalistyczne uzbrojone formacje ochronne podejmuje odpowiednio z właściwym terytorialnie:
+
+- **1)** komendantem jednostki organizacyjnej Policji;
+- **2)** organem ochrony ludności lub organem obrony cywilnej;
+- **3)** komendantem straży gminnej (miejskiej).
+
+3. Współpraca specjalistycznych uzbrojonych formacji ochronnych z Policją polega w szczególności na:
+
+- **1)** wymianie informacji o zagrożeniach w zakresie bezpieczeństwa osób i mienia oraz zakłócania spokoju i porządku publicznego;
+- **2)** współdziałaniu w celu utrzymania spokoju i porządku publicznego podczas zgromadzeń, imprez artystycznych, rozrywkowych i sportowych, w zakresie określonym w odrębnych przepisach;
+- **3)** współdziałaniu przy zabezpieczaniu miejsc popełnienia przestępstw i wykroczeń w granicach chronionych obszarów, obiektów lub urządzeń;
+- **4)** wzajemnych konsultacjach doskonalących metody współpracy.
+
+4. Do współpracy specjalistycznych uzbrojonych formacji ochronnych ze strażami gminnymi (miejskimi) przepisy ust. 3 stosuje się odpowiednio.
+
+5. Współpraca specjalistycznych uzbrojonych formacji ochronnych z podmiotami ochrony ludności i obrony cywilnej polega na podejmowaniu działań ochronnych i zabezpieczających w przypadku wystąpienia w granicach chronionych obszarów, obiektów lub urządzeń pożaru, klęski żywiołowej lub innego miejscowego zagrożenia, w szczególności na:
+
+- **1)** wymianie informacji o powstałych zagrożeniach;
+- **2)** wprowadzaniu na teren chronionych obszarów i obiektów jednostek ratowniczych;
+- **3)** współdziałaniu przy przeprowadzaniu bezpiecznej ewakuacji ludzi, ruchomych dóbr kultury i mienia;
+- **4)** zabezpieczaniu miejsc po pożarze, klęsce żywiołowej lub innym miejscowym zagrożeniu, w tym uratowanego mienia.”.
+
 **Art. 178.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370) w art. 29:
+
+- **1)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) ochrony ludności i obrony cywilnej;”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością Policji, Straży Granicznej, Państwowej Straży Pożarnej, Szefa Urzędu do Spraw Cudzoziemców, Krajowego Centrum Informacji Kryminalnych, Służby Ochrony Państwa oraz Rządowej Agencji Rezerw Strategicznych.”.
 
 **Art. 179.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2024 r. poz. 566) wprowadza się następujące zmiany:
 
+- **1)** w art. 11 w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) projektowanie i tworzenie rozwiązań infrastrukturalnych zwiększających poziom ochrony ludności w sytuacjach zagrożeń.”;
+- **2)** w art. 14 w ust. 1 pkt 14 otrzymuje brzmienie: „14) bezpieczeństwa publicznego i ochrony ludności;”.
+
 **Art. 180.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107) wprowadza się następujące zmiany:
+
+- **1)** w art. 4 w ust. 1 pkt 16 otrzymuje brzmienie: „16) ochrony przeciwpowodziowej, w tym wyposażenia i utrzymania powiatowego magazynu przeciwpowodziowego, przeciwpożarowej i zapobiegania innym nadzwyczajnym zagrożeniom życia i zdrowia ludzi oraz środowiska, a także ochrony ludności i obrony cywilnej;”;
+- **2)** w art. 34 po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Starosta wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).”.
 
 **Art. 181.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. z 2023 r. poz. 1317) w art. 29 w ust. 2 pkt 3 otrzymuje brzmienie: „3) jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, a także jednostek organizacyjnych Policji.”.
 
 **Art. 182.** W ustawie z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277 i 1897) w art. 110 w pkt 8 skreśla się wyraz „kraju”.
 
-**Art. 183.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) w art. 49 § 2 otrzymuje brzmienie: „§ 2. Jeżeli czynu określonego w § 1 dopuścił się żołnierz w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, sąd – zamiast wymierzenia kary – zwraca się do właściwego dotyczących żołnierzy.”.
+**Art. 183.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334) w art. 49 § 2 otrzymuje brzmienie: „§ 2. Jeżeli czynu określonego w § 1 dopuścił się żołnierz w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, sąd – zamiast wymierzenia kary – zwraca się do właściwego dowódcy jednostki wojskowej, który stosuje środki przewidziane w przepisach dotyczących żołnierzy.”.
 
 **Art. 184.** W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2091) wprowadza się następujące zmiany:
+
+- **1)** w art. 13 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy na wojewodę zostały nałożone obowiązki wyłączające jego ochronę wynikającą z art. 65 ust. 1 Protokołu dodatkowego do Konwencji Genewskich z 12 sierpnia 1949 r. dotyczącego ochrony ofiar międzynarodowych konfliktów zbrojnych (Protokół I), sporządzonego w Genewie dnia 8 czerwca 1977 r. (Dz. U. z 1992 r. poz. 175 oraz z 2015 r. poz. 1056) bądź z innych przyczyn nie może on realizować zadań obrony cywilnej, do realizacji tych zadań wojewoda upoważnia komendanta wojewódzkiego Państwowej Straży Pożarnej.”;
+- **2)** po art. 13 dodaje się art. 13a–13c w brzmieniu: „Art. 13a. W czasie stanu wojennego starosta (prezydent miasta na prawach powiatu) kieruje realizacją zadań obrony cywilnej na terenie powiatu.
 
 **Art. 13b.** W przypadku gdy na starostę (prezydenta miasta na prawach powiatu) zostały nałożone obowiązki wyłączające jego ochronę wynikającą z art. 65 ust. 1 Protokołu dodatkowego do Konwencji Genewskich z 12 sierpnia 1949 r. dotyczącego ochrony ofiar międzynarodowych konfliktów zbrojnych (Protokół I), sporządzonego w Genewie dnia 8 czerwca 1977 r. bądź z innych przyczyn nie może on realizować zadań obrony cywilnej, do realizacji tych zadań starosta upoważnia komendanta powiatowego Państwowej Straży Pożarnej.
 
@@ -1881,13 +2520,29 @@ source: "isap-pdf"
 
 **Art. 185.** W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2024 r. poz. 574) wprowadza się następujące zmiany:
 
+- **1)** w art. 40 w ust. 2 pkt 2 otrzymuje brzmienie: „2) jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej;”;
+- **2)** w art. 43 ust. 2 otrzymuje brzmienie: „2. Zabronione jest umieszczanie plakatów i haseł dotyczących referendum na zewnątrz i wewnątrz budynków administracji rządowej i samorządowej oraz sądów, a także na terenie jednostek wojskowych oraz skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.”;
+- **3)** w art. 80 pkt 4 otrzymuje brzmienie: „4) na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych”;
+- **4)** w art. 83 ust. 2 otrzymuje brzmienie: „2. Tej samej karze podlega, kto zbiera podpisy osób popierających wniosek, o którym mowa w ust. 1, na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.”.
+
 **Art. 186.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130) wprowadza się następujące zmiany:
+
+- **1)** w art. 15 dodaje się ust. 5 w brzmieniu: „5. Plan miejscowy przewidujący możliwość lokalizacji budynków umożliwia również lokalizację budowli ochronnych, o których mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).”;
+- **2)** w art. 61 w ust. 3 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) budowli ochronnych, o których mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.”.
 
 **Art. 187.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292) w art. 88 uchyla się ust. 1 i 2.
 
 **Art. 188.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2024 r. poz. 475, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 71 w ust. 2 pkt 1 otrzymuje brzmienie: „1) zawodowej służby wojskowej, zasadniczej służby wojskowej, terytorialnej służby wojskowej pełnionej rotacyjnie, służby w aktywnej rezerwie w dniach tej służby, odbywania ćwiczeń wojskowych w ramach pasywnej rezerwy, służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny lub służby zastępczej oraz służby w charakterze personelu obrony cywilnej, o którym mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), skierowanego przez właściwy organ obrony cywilnej do wykonania zadań w czasie stanu wojennego i w czasie wojny, a także służby w charakterze funkcjonariusza, o którym mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, 1243, 1562 i 1871);”;
+- **2)** w art. 73 w ust. 6:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) powołania do i zwolnienia z zawodowej służby wojskowej, zasadniczej służby wojskowej, służby w aktywnej rezerwie w dniach tej służby, odbywania ćwiczeń wojskowych w ramach pasywnej rezerwy lub służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny oraz służby zastępczej, a także stawienia się do i zwolnienia z terytorialnej służby wojskowej pełnionej rotacyjnie;”,
+    - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) personelu obrony cywilnej, o którym mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, w czasie wykonywania zadań obrony cywilnej.”.
+
 **Art. 189.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473 i 1572) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 w ust. 3 pkt 12 otrzymuje brzmienie: „12) Szef Obrony Cywilnej;”;
+- **2)** w art. 18 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Starosta może powierzyć wykonywanie zadań powiatowego centrum zarządzania kryzysowego komendantowi powiatowemu (miejskiemu) Państwowej Straży Pożarnej.”.
 
 **Art. 190.** W ustawie z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie (Dz. U. z 2023 r. poz. 190) w art. 22 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) wykonuje zadania organu ochrony ludności i obrony cywilnej określone w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);”.
 
@@ -1897,15 +2552,98 @@ source: "isap-pdf"
 
 **Art. 193.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408 oraz z 2024 r. poz. 721 i 1572) wprowadza się następujące zmiany:
 
+- **1)** w art. 30:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Żołnierze pełniący zasadniczą służbę wojskową albo odbywający ćwiczenia wojskowe na wniosek o zmianę miejsca głosowania są ujmowani w spisie wyborców gminy, w której odbywają służbę. Przepisy art. 28 stosuje się odpowiednio.”,
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Dowódcy jednostek wojskowych, dowódcy jednostek policyjnych oraz przełożeni funkcjonariuszy Służby Ochrony Państwa, Straży Granicznej, Państwowej Straży Pożarnej oraz Służby Więziennej są obowiązani zapewnić żołnierzom, policjantom oraz funkcjonariuszom możliwość wykonania uprawnień wynikających z przepisu § 1.”;
+
+- **2)** w art. 108 w § 1 pkt 3 otrzymuje brzmienie: „3) na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.”;
+- **3)** w art. 494 w § 1 pkt 3 otrzymuje brzmienie: „3) na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych,”;
+- **4)** w art. 497 § 2 otrzymuje brzmienie: „§ 2. Tej samej karze podlega, kto zbiera podpisy osób popierających zgłoszenie listy kandydatów lub kandydata na terenie jednostek wojskowych lub innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej bądź skoszarowanych jednostek podległych ministrowi właściwemu do spraw wewnętrznych.”.
+
 **Art. 194.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2024 r. poz. 98) wprowadza się następujące zmiany:
 
-**Art. 32.** Środki pieniężne należne Funduszowi Wsparcia Sił Zbrojnych oraz Funduszowi Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności kwartale, w wysokości nie mniejszej niż 80 % kwoty odpisu za dany kwartał. Agencja dokonuje rozliczenia rocznego w terminie do dnia 30 kwietnia roku następnego.”.
+- **1)** w art. 30 w ust. 3 pkt 2 otrzymuje brzmienie: „2) Funduszowi Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności, o którym mowa w art. 31.”;
+- **2)** art. 31 i art. 32 otrzymują brzmienie: „Art. 31. 1. Fundusz Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności jest państwowym funduszem celowym, którego dysponentem jest minister właściwy do spraw wewnętrznych.
+
+2. Przychodami Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności są:
+
+- **1)** środki pieniężne uzyskane z gospodarowania mieniem Skarbu Państwa przekazanym Agencji przez ministra właściwego do spraw wewnętrznych, przekazywane przez Agencję w wysokości odpisu określonego w art. 30 ust. 5;
+- **2)** środki, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, które za zgodą Komisji Europejskiej mogą zostać przeznaczone na wsparcie realizacji zadań, o których mowa w art. 152 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
+- **3)** środki pieniężne pochodzące z grzywien nakładanych w drodze mandatu karnego, o których mowa w art. 23 ust. 6 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r. poz. 1443, 1473, 1717, 1871 i 1907);
+- **4)** odsetki od wolnych środków przekazanych w zarządzanie zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **5)** inne przychody, w tym wpłaty, o których mowa w art. 157 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, darowizny, spadki i zapisy.
+
+3. Przychodami Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności mogą być wpłaty środków pieniężnych jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–8 i 14 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z wyłączeniem samorządowych osób prawnych, z wyjątkiem środków pochodzących z dotacji z budżetu i środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+4. Wydatki Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności przeznacza się na:
+
+- **1)** realizację zadań inwestycyjnych oraz modernizację uzbrojenia i wyposażenia organów i jednostek podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych;
+- **2)** uzupełnienie finansowania zadań ochrony ludności i obrony cywilnej, o których mowa w art. 152 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
+
+5. Wydatki, o których mowa w ust. 4 pkt 1, są realizowane ze środków, o których mowa w ust. 2 pkt 1.
+
+6. Wydatki, o których mowa w ust. 4 pkt 2, są realizowane ze środków, o których mowa w ust. 2 pkt 2–5 oraz ust. 3.
+
+7. Środki Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności mogą być przeznaczone na uzupełnienie finansowania zadań, o których mowa w ust. 4 pkt 2, również w przypadku, gdy ustawa lub przepisy odrębne przewidują finansowanie tego rodzaju zadań z budżetu państwa.
+
+8. Koszty obsługi Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności są pokrywane ze środków Funduszu Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności.
+
+**Art. 32.** Środki pieniężne należne Funduszowi Wsparcia Sił Zbrojnych oraz Funduszowi Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności Agencja przekazuje w terminie do 30. dnia miesiąca następującego po danym kwartale, w wysokości nie mniejszej niż 80 % kwoty odpisu za dany kwartał. Agencja dokonuje rozliczenia rocznego w terminie do dnia 30 kwietnia roku następnego.”.
 
 **Art. 195.** W ustawie z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598) wprowadza się następujące zmiany:
 
+- **1)** art. 3 otrzymuje brzmienie: „Art. 3. Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.”;
+- **2)** w art. 8:
+    - **a)** w ust. 2 pkt 22 otrzymuje brzmienie: „22) innymi organami administracji rządowej oraz służbami, inspekcjami i innymi jednostkami realizującymi zadania w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, zarządzania kryzysowego i ochrony infrastruktury krytycznej oraz bezpieczeństwa, porządku i zdrowia publicznego, w tym sprawującymi, na mocy ustaw, nadzór nad realizacją tych zadań wykonywanych przez przedsiębiorców.”,
+    - **b)** w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) realizację zadań ochrony ludności i obrony cywilnej przez organy ochrony ludności i obrony cywilnej oraz podmioty ochrony ludności i obrony cywilnej;”.
+
 **Art. 196.** W ustawie z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233 i 1692) wprowadza się następujące zmiany:
 
+- **1)** w art. 1 dodaje się ust. 5 w brzmieniu: „5. Ochotnicze straże pożarne są podmiotami ochrony ludności i obrony cywilnej.”;
+- **2)** w art. 3:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) udział w ochronie ludności i obronie cywilnej;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) wykonywanie pierwszej pomocy oraz kwalifikowanej pierwszej pomocy;”;
+
+- **3)** w art. 12 i art. 13 skreśla się użyty w różnych przypadkach i liczbie wyraz „ratownik”;
+- **4)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Strażakowi OSP przysługuje świadczenie ratownicze z tytułu wysługi lat w ochotniczej straży pożarnej w wysokości 200 zł.
+
+2. Prawo do świadczenia ratowniczego przysługuje strażakowi OSP, który:
+
+- **1)** czynnie uczestniczył w działaniach ratowniczych, akcjach ratowniczych, szkoleniach lub ćwiczeniach:
+    - **a)** w przypadku mężczyzn – przez co najmniej 25 lat,
+    - **b)** w przypadku kobiet – przez co najmniej 20 lat oraz
+
+- **2)** osiągnął:
+    - **a)** w przypadku mężczyzn – 65. rok życia,
+    - **b)** w przypadku kobiet – 60. rok życia.
+
+3. Przez czynne uczestnictwo należy rozumieć bezpośredni udział co najmniej raz w roku w działaniu ratowniczym, akcji ratowniczej, szkoleniu lub ćwiczeniu.
+
+4. Ewidencję udziału strażaków OSP w działaniach ratowniczych, akcjach ratowniczych, szkoleniach lub ćwiczeniach, obejmującą datę, numer i miejsce podjętych działań ratowniczych, akcji ratowniczych, szkoleń lub ćwiczeń oraz imienny wykaz ich uczestników, prowadzi właściwy komendant powiatowy (miejski) Państwowej Straży Pożarnej.
+
+5. Ewidencja udziału strażaków OSP w działaniach ratowniczych, akcjach ratowniczych, szkoleniach lub ćwiczeniach może być prowadzona z wykorzystaniem Systemu Wspomagania Decyzji Państwowej Straży Pożarnej, o którym mowa w art. 14g ust. 1 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
+6. Komendant powiatowy (miejski) Państwowej Straży Pożarnej przechowuje dane, o których mowa w ust. 4, przez co najmniej 50 lat.
+
+7. Przy naliczaniu okresu czynnego uczestnictwa w działaniach ratowniczych, akcjach ratowniczych, szkoleniach lub ćwiczeniach nie jest wymagane zachowanie ciągłości wysługi lat w ochotniczej straży pożarnej.
+
+8. Świadczenie ratownicze, a także koszty jego obsługi są finansowane z budżetu państwa.”;
+
+- **5)** w art. 32 ust. 2 i 3 otrzymują brzmienie: „2. Środki, o których mowa w ust. 1 pkt 2, są przekazywane w formie dotacji na realizację zadań określonych w art. 3 pkt 1–12 oraz art. 4 ust. 1, na podstawie wniosków złożonych przez ochotniczą straż pożarną lub związek ochotniczych straży pożarnych do Komendanta Głównego Państwowej Straży Pożarnej za pośrednictwem komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej właściwego ze względu na teren działania ochotniczej straży pożarnej lub związku ochotniczych straży pożarnych, które złożyły wniosek.
+
+3. Komendant Główny Państwowej Straży Pożarnej przekazuje środki, o których mowa w ust. 2, na podstawie umowy zawartej z ochotniczą strażą pożarną lub związkiem ochotniczych straży pożarnych.”;
+
+- **6)** w art. 32a dodaje się ust. 4 w brzmieniu: „4. Gminy mogą otrzymywać dotacje celowe na zasadach określonych w ust. 2 i 3 także w celu dofinansowania zadań ochotniczych straży pożarnych związanych z udziałem w ochronie ludności i obronie cywilnej.”;
+- **7)** w art. 56 ust. 4 otrzymuje brzmienie: „4. Mechanizm korygujący, o którym mowa w ust. 3, może polegać na ograniczaniu wydatków na szkolenia i obsługę finansową świadczeń, z wyłączeniem świadczeń, o których mowa w art. 16, art. 47 i art. 50.”.
+
 **Art. 197.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 dodaje się ust. 3 i 4 w brzmieniu: „3. W ramach obowiązku obrony Ojczyzny osoby, o których mowa w ust. 1, są obowiązane do pełnienia służby w obronie cywilnej, na zasadach określonych w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907).
+
+4. Spełnianie obowiązku obrony Ojczyzny w formach, o których mowa w ust. 2, ma pierwszeństwo przed służbą w obronie cywilnej.”;
+
+- **2)** w art. 605 w ust. 3 pkt 1 otrzymuje brzmienie: „1) przekroczyły wiek określony w odpowiednich przepisach o zaopatrzeniu emerytalnym, z wyjątkiem osób, które wyraziły zgodę na nadanie im tego przydziału;”;
+- **3)** w art. 607 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Kierownik jednostki zmilitaryzowanej może zwolnić ze służby w tej jednostce:”.
 
 #### Rozdział 14 Przepisy dostosowujące, przejściowe i końcowe
 
@@ -1929,7 +2667,11 @@ source: "isap-pdf"
 
 **Art. 201.**
 
-1. Tworzy się Centralną Ewidencję OZO. Ewidencję OZO w terminie 12 miesięcy od dnia wejścia w życie ustawy.
+1. Tworzy się Centralną Ewidencję OZO.
+
+2. Komendant Główny Państwowej Straży Pożarnej uruchomi Centralną Ewidencję OZO w terminie 12 miesięcy od dnia wejścia w życie ustawy.
+
+3. Komendant Główny Państwowej Straży Pożarnej w terminie 6 miesięcy od dnia uruchomienia Centralnej Ewidencji OZO wprowadzi do tej ewidencji dane dotyczące punktów schronienia, o których mowa w art. 91a, zgromadzone w trakcie inwentaryzacji obiektów zbiorowej ochrony prowadzonej przed dniem wejścia w życie ustawy.
 
 **Art. 202.**
 
@@ -1937,25 +2679,41 @@ source: "isap-pdf"
 
 2. Minister właściwy do spraw wewnętrznych uruchomi Ewidencję Obrony Cywilnej w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
+3. Do dnia osiągnięcia pełnej funkcjonalności, jednak niedłużej niż do dnia 31 grudnia 2027 r., Ewidencja Obrony Cywilnej może być prowadzona w sposób niespełniający wymogów określonych w art. 126–128 i art. 130, w szczególności obejmować tylko część danych o osobach wchodzących w skład korpusu obrony cywilnej, obejmować tylko część funkcjonalności albo być prowadzona poza systemem teleinformatycznym.
+
 **Art. 203.** Fundusz Modernizacji Bezpieczeństwa Publicznego, o którym mowa w ustawie zmienianej w art. 194, staje się Funduszem Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności.
 
 **Art. 204.** Organy ochrony ludności i obrony cywilnej obowiązane do przygotowywania planów, które zawierają elementy z zakresu ochrony ludności i obrony cywilnej i które są sporządzane na podstawie odrębnych przepisów, zapewnią realizację w tych planach wymogów wskazanych w art. 38 w terminie 12 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 205.** Pierwsze szkolenia dla osób, o których mowa w art. 49 ust. 2, kwalifikujących się do szkolenia w dniu wejścia w życie ustawy, przeprowadza się nie później niż w ciągu 6 miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 206.** Przepisy art. 93–95 stosuje się dla zamierzenia budowlanego, wobec którego po dniu 31 grudnia 2025 r.:
+**Art. 206.**
+
+1. Przepisy art. 93–95 stosuje się dla zamierzenia budowlanego, wobec którego po dniu 31 grudnia 2025 r.:
+
+- **1)** został złożony wniosek o pozwolenie na budowę, wniosek o wydanie odrębnej decyzji o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego;
+- **2)** zostało dokonane zgłoszenie budowy lub wykonywania innych robót budowlanych w przypadku, gdy nie jest wymagane uzyskanie decyzji o pozwoleniu na budowę.
+
+2. Przepisów art. 93–95 nie stosuje się do:
+
+- **1)** przebudowy, nadbudowy oraz zmiany sposobu użytkowania obiektu budowlanego lub jego części, dla którego przed dniem 1 stycznia 2026 r. wydano ostateczną decyzję o pozwoleniu na budowę albo ostateczną decyzję o zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego albo który został wybudowany przed tym dniem;
+- **2)** zamierzenia budowlanego, wobec którego przed dniem 1 stycznia 2026 r. złożono wniosek o wydanie decyzji o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia.
 
 **Art. 207.**
 
-1. Obiekt budowlany albo jego część, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej, w szczególności stanowiły schron albo ukrycie, mogą zostać uznane za budowlę ochronną w rozumieniu ustawy, jeżeli spełniają wymagania zapewniające pełnienie funkcji obiektów zbiorowej ochrony.
+1. Obiekt budowlany albo jego część, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej, w szczególności stanowiły schron albo ukrycie, mogą zostać uznane za budowlę ochronną w rozumieniu ustawy, jeżeli spełniają albo po przebudowie lub dostosowaniu mogą spełniać warunki techniczne zapewniające pełnienie funkcji ochronnych.
 
 2. W odniesieniu do obiektów budowlanych lub ich części, o których mowa w ust. 1, można zawrzeć porozumienia albo wydać decyzje albo zarządzenie o uznaniu za budowlę ochronną, w trybie przewidzianym w ustawie.
 
-3. Właściciel, użytkownik wieczysty lub zarządca obiektu budowlanego albo jego części, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej, fakcie właściwego miejscowo wójta (burmistrza, prezydenta miasta) w terminie 90 dni od dnia wejścia w życie ustawy.
+3. Właściciel, użytkownik wieczysty lub zarządca obiektu budowlanego albo jego części, które przed dniem wejścia w życie ustawy pełniły funkcję budowli ochronnej, w szczególności stanowił schron albo ukrycie, jest obowiązany zawiadomić o tym fakcie właściwego miejscowo wójta (burmistrza, prezydenta miasta) w terminie 90 dni od dnia wejścia w życie ustawy.
 
 4. Podmioty, które przed dniem wejścia w życie ustawy prowadziły ewidencję, gromadziły lub przetwarzały dane o budownictwie ochronnym, są obowiązane do przekazania danych o obiektach pełniących funkcje ochronne, w szczególności schronach i ukryciach, do właściwego miejscowo wójta (burmistrza, prezydenta miasta) w terminie 60 dni od dnia wejścia w życie ustawy.
 
 5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, kryteria uznawania obiektów budowlanych albo ich części, o których mowa w ust. 1, za budowle ochronne, mając na względzie konieczność zapewnienia odpowiednich warunków zabezpieczenia osób przebywających w tych obiektach przed zagrożeniami oraz potrzebę dalszego wykorzystania tych obiektów do realizacji zadań ochrony ludności i obrony cywilnej.
+
+6. Przepisy wydane na podstawie ust. 5 stanowią warunki techniczne dla budowli ochronnej w obiekcie budowlanym albo jego części, o których mowa w ust. 1, które mogą być stosowane przy ich przebudowie lub dostosowaniu do pełnienia funkcji ochronnych.
+
+**Art. 207a.** Osoby, które w dniu 1 stycznia 2025 r. miały nadany przydział organizacyjno-mobilizacyjny do urzędu obsługującego organ ochrony ludności albo do podmiotu ochrony ludności, albo do podmiotów, o których mowa w art. 134 ust. 1 pkt 3, które zostały wyłączone z wykazu jednostek przewidzianych do militaryzacji, uznaje się za wchodzące w skład korpusu obrony cywilnej, a w przypadku nadania tym osobom przydziałów mobilizacyjnych nie stosuje się wymogu, o którym mowa w art. 135 ust. 1, w zakresie uzgodnienia nadania tego przydziału z wojskowym centrum rekrutacji.
 
 **Art. 208.** Pierwszą strategię rozwoju jednostek ochrony przeciwpożarowej, o której mowa w art. 10 ust. 9 ustawy zmienianej w art. 171, Komendant Główny Państwowej Straży Pożarnej przyjmuje w terminie 12 miesięcy od dnia przyjęcia pierwszego Programu Ochrony Ludności i Obrony Cywilnej.
 
@@ -1966,4 +2724,10 @@ source: "isap-pdf"
 **Art. 211.** Pierwsze plany ochrony dóbr kultury na czas wojny, o których mowa w art. 45 ust. 1 i 4, sporządza się do dnia 31 grudnia 2026 r. i obowiązują one od dnia 1 stycznia 2027 r.
 
 **Art. 212.** Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
+
+- **1)** art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
+- **3)** art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **4)** art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.
+
 

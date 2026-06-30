@@ -8,10 +8,10 @@ pos: 151
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o postępowaniu egzekucyjnym w administracji
+# Ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
 *USTAWA z dnia 17 czerwca 1966 r.*
 
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1966-06-17 |
 | Data wydania | 1966-06-25 |
-| Ostatnia zmiana | 2026-05-08 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19660240151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1966/151/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -33,7 +33,60 @@ source: "isap-pdf"
 
 **Art. 1.** Ustawa określa:
 
+- **1)** sposób postępowania wierzycieli w przypadkach uchylania się zobowiązanych od wykonania ciążących na nich obowiązków, o których mowa w art. 2;
+- **2)** prowadzone przez organy egzekucyjne postępowanie i stosowane przez nie środki przymusu służące doprowadzeniu do wykonania lub zabezpieczenia wykonania obowiązków, o których mowa w art. 2;
+- **3)** (uchylony)
+- **4)** zasady i sposób prowadzenia Rejestru Należności Publicznoprawnych oraz udostępniania danych z tego rejestru.
+
 **Art. 1a.** Ilekroć w ustawie jest mowa o:
+
+- **1)** biegłym skarbowym – rozumie się przez to rzeczoznawcę w określonej dziedzinie, uprawnionego do wyceny majątku zobowiązanego i wpisanego na listę biegłych skarbowych prowadzoną przez izbę administracji skarbowej;
+- **1a)** centralnym biurze łącznikowym – rozumie się przez to jednostkę organizacyjną, o której mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), zwanej dalej „ustawą o wzajemnej pomocy”;
+- **2)** czynności egzekucyjnej – rozumie się przez to wszelkie podejmowane przez organ egzekucyjny działania zmierzające do zastosowania lub zrealizowania środka egzekucyjnego;
+- **3)** dłużniku zajętej wierzytelności – rozumie się przez to dłużnika zobowiązanego, jak również bank, pracodawcę, podmiot prowadzący działalność maklerską, trasata oraz inne podmioty realizujące, na wezwanie organu egzekucyjnego, zajęcie wierzytelności lub innego prawa majątkowego zobowiązanego;
+- **3a)** dokumencie zabezpieczenia – rozumie się przez to dokument, o którym mowa w art. 3 pkt 1 ustawy o wzajemnej pomocy;
+- **4)** egzekutorze – rozumie się przez to pracownika obsługującego organ egzekucyjny, uprawnionego do dokonywania czynności egzekucyjnych;
+- **4a)** (uchylony) 4b) (uchylony) 4ba) jednolitym instrumencie – rozumie się przez to dokument państwa członkowskiego, o którym mowa w art. 113s ust. 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714);
+- **4c)** jednolitym tytule wykonawczym – rozumie się przez to dokument państwa członkowskiego, o którym mowa w art. 3 pkt 4 ustawy o wzajemnej pomocy;
+- **4d)** należności celnej – rozumie się przez to należność celną, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającym unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), dochodzoną na podstawie tytułu wykonawczego innego niż jednolity tytuł wykonawczy albo zagraniczny tytuł wykonawczy;
+- **5)** nieruchomości – rozumie się przez to również:
+    - **a)** spółdzielcze własnościowe prawo do lokalu mieszkalnego,
+    - **b)** spółdzielcze prawo do lokalu użytkowego,
+    - **c)** prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, w tym także prawo do lokalu mieszkalnego w domu budowanym przez spółdzielnię mieszkaniową w celu przeniesienia jego własności na członka spółdzielni;
+
+- **5a)** (uchylony)
+- **6)** (uchylony)
+- **7)** organie egzekucyjnym – rozumie się przez to organ uprawniony do stosowania w całości lub w części określonych w ustawie środków służących doprowadzeniu do wykonania przez zobowiązanych ich obowiązków o charakterze pieniężnym lub obowiązków o charakterze niepieniężnym oraz zabezpieczania wykonania tych obowiązków;
+- **8)** organie rekwizycyjnym – rozumie się przez to:
+    - **a)** organ egzekucyjny o tej samej właściwości rzeczowej co organ egzekucyjny prowadzący postępowanie egzekucyjne,
+    - **b)** właściwego naczelnika urzędu skarbowego – w przypadku braku organu o tej samej właściwości rzeczowej co organ egzekucyjny prowadzący postępowanie egzekucyjne – któremu organ egzekucyjny prowadzący postępowanie egzekucyjne zlecił wykonanie czynności egzekucyjnych;
+
+- **8a)** (uchylony) 8b) (uchylony) 8c) państwie członkowskim – rozumie się przez to państwo będące członkiem Unii Europejskiej inne niż Rzeczpospolita Polska;
+- **8d)** państwie trzecim – rozumie się przez to państwo niebędące członkiem Unii Europejskiej;
+- **9)** poborcy skarbowym – rozumie się przez to pracownika obsługującego organ egzekucyjny, uprawnionego do dokonywania czynności egzekucyjnych w egzekucji obowiązku o charakterze pieniężnym;
+- **9a)** (uchylony) 9b) (uchylony) 9c) (uchylony)
+- **10)** pracodawcy – rozumie się przez to podmioty wypłacające wynagrodzenia, o których mowa w pkt 17;
+- **10a)** przedsiębiorstwie w spadku – rozumie się przez to przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170);
+- **10b)** rencie socjalnej – rozumie się przez to rentę socjalną lub rentę socjalną z dodatkiem dopełniającym;
+- **11)** składkach na ubezpieczenia społeczne – rozumie się przez to również składki na ubezpieczenie zdrowotne, Fundusz Pracy, Fundusz Gwarantowanych Świadczeń Pracowniczych, Fundusz Emerytur Pomostowych oraz Solidarnościowy Fundusz Wsparcia Osób Niepełnosprawnych;
+- **12)** środku egzekucyjnym – rozumie się przez to:
+    - **a)** w postępowaniu egzekucyjnym dotyczącym należności pieniężnych, egzekucję: – z pieniędzy, – z wynagrodzenia za pracę, – ze świadczeń z zaopatrzenia emerytalnego oraz ubezpieczenia społecznego, a także z renty socjalnej, – z rachunków bankowych, – z innych wierzytelności pieniężnych, – z praw z instrumentów finansowych w rozumieniu przepisów o obrocie instrumentami finansowymi, zapisanych na rachunku papierów wartościowych lub innym rachunku, oraz z wierzytelności z rachunku pieniężnego służącego do obsługi takich rachunków, – z papierów wartościowych niezapisanych na rachunku papierów wartościowych, – z praw majątkowych zarejestrowanych w rejestrze akcjonariuszy, – z weksla, – z autorskich praw majątkowych i praw pokrewnych oraz z praw własności przemysłowej, – z udziału w spółce z ograniczoną odpowiedzialnością, – z pozostałych praw majątkowych, – z ruchomości, – z nieruchomości,
+    - **b)** w postępowaniu egzekucyjnym dotyczącym obowiązków o charakterze niepieniężnym: – grzywnę w celu przymuszenia, – wykonanie zastępcze, – odebranie rzeczy ruchomej, – odebranie nieruchomości, opróżnienie lokali i innych pomieszczeń, – przymus bezpośredni;
+
+- **13)** wierzycielu – rozumie się przez to podmiot uprawniony do żądania wykonania obowiązku lub jego zabezpieczenia w administracyjnym postępowaniu egzekucyjnym lub zabezpieczającym;
+- **14)** właściwym organie jednostki samorządu terytorialnego – rozumie się przez to odpowiednio wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa;
+- **15)** wstrzymaniu czynności egzekucyjnych – rozumie się przez to wstrzymanie wykonania wszystkich lub części zastosowanych środków egzekucyjnych, które nie powoduje uchylenia dokonanych czynności egzekucyjnych;
+- **16)** wstrzymaniu postępowania egzekucyjnego – rozumie się przez to wstrzymanie wykonania zastosowanych środków egzekucyjnych, które nie powoduje uchylenia dokonanych czynności egzekucyjnych, oraz niepodejmowanie nowych środków egzekucyjnych;
+- **17)** wynagrodzeniu – rozumie się przez to wynagrodzenia oraz inne świadczenia pieniężne związane z pracą lub funkcją wykonywaną przez zobowiązanego na podstawie stosunku pracy oraz innej podstawie, jeżeli z tego tytułu zobowiązany otrzymuje okresowe świadczenia pieniężne, w tym świadczenia pieniężne przysługujące z ubezpieczenia społecznego w razie choroby i macierzyństwa, wypłacane przez pracodawcę w okresie zatrudnienia, a także w okresie 12 miesięcy od dnia rozwiązania lub wygaśnięcia stosunku pracy;
+- **17a)** zagranicznym tytule wykonawczym – rozumie się przez to dokument określony w przepisach ustawy o wzajemnej pomocy;
+- **18)** zajęciu egzekucyjnym – rozumie się przez to czynność organu egzekucyjnego, w wyniku której organ egzekucyjny nabywa prawo rozporządzania składnikiem majątkowym zobowiązanego w zakresie niezbędnym do wykonania obowiązku objętego tytułem wykonawczym;
+- **19)** zajęciu zabezpieczającym – rozumie się przez to czynność organu egzekucyjnego, w wyniku której organ egzekucyjny nabywa prawo rozporządzania składnikiem majątkowym zobowiązanego w zakresie niezbędnym do zabezpieczenia wykonania przez niego obowiązku objętego dokumentem stanowiącym podstawę zabezpieczenia, ale która nie prowadzi do przymusowego wykonania obowiązku;
+- **19a)** zarządcy przedsiębiorstwa w spadku – rozumie się przez to: z 2026 r. poz. 151),
+    - **a)** przed ustanowieniem zarządu sukcesyjnego – osobę, która dokonała zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U.
+    - **b)** po ustanowieniu zarządu sukcesyjnego – zarządcę sukcesyjnego, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, a w przypadku braku zarządcy sukcesyjnego – osobę, o której mowa w art. 14 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, dokonującą czynności, o których mowa w art. 13 tej ustawy;
+
+- **20)** zobowiązanym – rozumie się przez to osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej albo osobę fizyczną, która nie wykonała w terminie obowiązku o charakterze pieniężnym lub obowiązku o charakterze niepieniężnym, a w postępowaniu zabezpieczającym – również osobę lub jednostkę, której zobowiązanie nie jest wymagalne albo jej obowiązek nie został ustalony lub określony, ale zachodzi obawa, że brak zabezpieczenia mógłby utrudnić lub udaremnić skuteczne przeprowadzenie egzekucji, a odrębne przepisy na to zezwalają;
+- **21)** zwolnieniu spod egzekucji – rozumie się przez to niepodejmowanie lub odstąpienie od egzekucji z całości lub części składników majątkowych zobowiązanego.
 
 **Art. 2.**
 
@@ -73,13 +126,15 @@ source: "isap-pdf"
 
 § 1. Egzekucję administracyjną stosuje się do obowiązków określonych w art. 2, gdy wynikają one z decyzji lub postanowień właściwych organów, albo – w zakresie administracji rządowej i jednostek samorządu terytorialnego – bezpośrednio z przepisu prawa, chyba że przepis szczególny zastrzega dla tych obowiązków tryb egzekucji sądowej.
 
-§ 1a. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 5, wynikających z tytułów wykonawczych wystawionych przez ministra właściwego do spraw finansów publicznych na podstawie art. 44 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), zwanej dalej „ustawą o poręczeniach i gwarancjach udzielanych przez Skarb Państwa”, oraz na podstawie art. 16 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776), zwanej dalej „ustawą o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym”.
+§ 1a. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 5, wynikających z tytułów wykonawczych wystawionych przez ministra właściwego do spraw finansów publicznych na podstawie art. 44 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
+
+- **291)** , zwanej dalej „ustawą o poręczeniach i gwarancjach udzielanych przez Skarb Państwa”, oraz na podstawie art. 16 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776), zwanej dalej „ustawą o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym”.
 
 § 2. (uchylony)
 
 **Art. 3a.**
 
-§ 1. W zakresie zobowiązań powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 77 ust. 1 oraz art. 81 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny, podatków wykazanych w zgłoszeniu celnym i rozliczeniu zamknięcia, składek na ubezpieczenie społeczne, opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2025 r. poz. 561 i 1014), dopłat, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595 oraz z 2026 r. poz. 176), opłat za gospodarowanie odpadami komunalnymi, o których mowa w art. 6h ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733), opłat emisyjnych oraz opłat za korzystanie ze środowiska, o których mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176), daniny solidarnościowej, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ), opłat, o których mowa w art. 9 ust. 1 oraz w art. 13 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), opłaty, o której mowa w art. 12a ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2026 r. poz. 149), opłaty, o której mowa w art. 20 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146, 1069 i 1545), wpłat, o których mowa w art. 3 ust. 1 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa (Dz. U. z 2025 r. poz. 308), opłaty przedkoncesyjnej, o której mowa w art. 33d ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43 i 516), oraz opłaty koncesyjnej, o której mowa w art. 34 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio:
+§ 1. W zakresie zobowiązań powstałych w przypadkach określonych w art. 8 i art. 21 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, długów celnych powstałych w przypadkach określonych w art. 77 ust. 1 oraz art. 81 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny, podatków wykazanych w zgłoszeniu celnym i rozliczeniu zamknięcia, składek na ubezpieczenie społeczne, opłat paliwowych, o których mowa w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2025 r. poz. 561 i 1014), dopłat, o których mowa w ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595 oraz z 2026 r. poz. 176), opłat za gospodarowanie odpadami komunalnymi, o których mowa w art. 6h ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733), opłat emisyjnych oraz opłat za korzystanie ze środowiska, o których mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176), daniny solidarnościowej, o której mowa w rozdziale 6a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ), opłat, o których mowa w art. 9 ust. 1 oraz w art. 13 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), opłaty, o której mowa w art. 12a ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2026 r. poz. 149), opłaty, o której mowa w art. 20 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146, 1069 i 1545), wpłat, o których mowa w art. 3 ust. 1 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa (Dz. U. z 2025 r. poz. 308), opłaty przedkoncesyjnej, o której mowa w art. 33d ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43 i 516), opłaty koncesyjnej, o której mowa w art. 34 ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, oraz środków z doładowań, o których mowa w art. 331 ust. 9 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio:
 
 - **1)** z deklaracji lub zeznania złożonego przez podatnika lub płatnika;
 - **1a)** z deklaracji złożonej w państwie członkowskim identyfikacji, o której mowa w art. 59, art. 61 i art. 61a rozporządzenia wykonawczego Rady (UE) nr 282/2011 z dnia 15 marca 2011 r. ustanawiającego środki wykonawcze do dyrektywy 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 77 z 23.03.2011, str. 1, z późn. zm. ), zwanej dalej „deklaracją składaną w innym państwie członkowskim”;
@@ -108,7 +163,9 @@ source: "isap-pdf"
 - **1)** w deklaracji, w zeznaniu, w zgłoszeniu celnym, w deklaracji rozliczeniowej, w informacji o opłacie paliwowej, w informacji o dopłatach, w deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi, w zawiadomieniu o wysokości opłaty za gospodarowanie odpadami komunalnymi, w rozliczeniu zamknięcia, w informacji o opłacie emisyjnej, w deklaracji o wysokości daniny solidarnościowej, w wykazie zawierającym informacje i dane o zakresie korzystania ze środowiska oraz o wysokości należnych opłat, w informacji, o której mowa w art. 9 ust. 17 pkt 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, w informacji, o której mowa w art. 12g ust. 1 pkt 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym, w zbiorczej deklaracji miesięcznej, o której mowa w art. 13 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, w deklaracji, o której mowa w art. 20 ust. 7 pkt 1 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej, w deklaracji, o której mowa w art. 5 ust. 1 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa, w formularzach, o których mowa odpowiednio w art. 33d ust. 4 albo art. 34 ust. 4 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, lub w informacji, o której mowa w art. 20 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, zostało zamieszczone pouczenie, że stanowią one podstawę do wystawienia tytułu wykonawczego;
 - **2)** wierzyciel przed wszczęciem postępowania egzekucyjnego przesłał zobowiązanemu upomnienie, o którym mowa w art. 15 § 1.
 
-§ 3. (uchylony) § 4. Przepisu § 2 nie stosuje się do należności pieniężnych wynikających z deklaracji składanej w innym państwie członkowskim oraz należności pieniężnych wynikających z korekty deklaracji VAT, o której mowa w art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+§ 3. (uchylony)
+
+§ 4. Przepisu § 2 nie stosuje się do należności pieniężnych wynikających z deklaracji składanej w innym państwie członkowskim oraz należności pieniężnych wynikających z korekty deklaracji VAT, o której mowa w art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
 
 **Art. 3b.**
 
@@ -139,7 +196,9 @@ source: "isap-pdf"
     - **b)** w art. 119g § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa – organ jednostki samorządu terytorialnego, na wniosek którego postępowanie podatkowe zostało przejęte;
 
 - **5)** w odniesieniu do grzywien nałożonych w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia, stanowiących dochód budżetu państwa, z wyłączeniem grzywien nakładanych przez organy Inspekcji Transportu Drogowego – właściwy naczelnik urzędu skarbowego.
-- **6)** (uchylony) § 2. Uprawnione do żądania wykonania, w drodze egzekucji administracyjnej, obowiązków, o których mowa w art. 2 § 1 pkt 8 lit. a–f i h oraz pkt 9, jest również państwo członkowskie lub państwo trzecie.
+- **6)** (uchylony)
+
+§ 2. Uprawnione do żądania wykonania, w drodze egzekucji administracyjnej, obowiązków, o których mowa w art. 2 § 1 pkt 8 lit. a–f i h oraz pkt 9, jest również państwo członkowskie lub państwo trzecie.
 
 § 2a. Uprawniona do żądania wykonania, w drodze egzekucji administracyjnej, obowiązków, o których mowa w art. 2 § 1 pkt 8 lit. g oraz i, jest Państwowa Inspekcja Pracy.
 
@@ -148,6 +207,14 @@ source: "isap-pdf"
 § 4. (uchylony)
 
 **Art. 5a.** Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+
+- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności;
+- **3)** testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
+- **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez pozyskiwanie danych osobowych i przekazywanie ich podmiotom zewnętrznym z wykorzystaniem technik kryptograficznych;
+- **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych organów;
+- **6)** zapewnieniu integralności danych w systemach informatycznych organów;
+- **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
 
 **Art. 6.**
 
@@ -198,8 +265,7 @@ source: "isap-pdf"
 - **5)** przedmioty niezbędne do pełnienia służby przez zobowiązanego lub do wykonywania przez niego zawodu;
 - **6)** pieniądze w kwocie 760 zł;
 - **7)** wkłady oszczędnościowe złożone w bankach na zasadach i w wysokości określonej przepisami ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176);
-- **8)** oszczędności członka kasy złożone w kasie w wysokości określonej przepisami ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i
-- **1191)** ;
+- **8)** oszczędności członka kasy złożone w kasie w wysokości określonej przepisami ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191);
 - **9)** dokumenty osobiste, po jednej obrączce zobowiązanego i jego współmałżonka, wykonanej z metali szlachetnych, ordery i odznaczenia oraz przedmioty niezbędne zobowiązanemu i członkom jego rodziny do nauki lub wykonywania praktyk religijnych, a także przedmioty codziennego użytku, które mogą być sprzedane znacznie poniżej ich wartości, a które dla zobowiązanego mają znaczną wartość użytkową;
 - **10)** kwoty otrzymane na pokrycie wydatków służbowych, w tym kosztów podróży i wyjazdów – jeżeli egzekucja ma na celu zaspokojenie roszczeń z innych tytułów niż roszczenia z tytułu alimentów, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów;
 - **10a)** 50 % kwot diet otrzymanych na pokrycie wydatków służbowych, w tym kosztów podróży i wyjazdów – jeżeli egzekucja ma na celu zaspokojenie roszczeń z tytułu alimentów, w tym należności budżetu państwa z tytułu świadczeń wypłacanych w przypadku bezskuteczności egzekucji alimentów;
@@ -287,7 +353,9 @@ source: "isap-pdf"
 
 § 5. Nie podlegają egzekucji świadczenia, dodatki i inne kwoty, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301), oraz środki finansowe na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność przebywając w pieczy zastępczej.
 
-§ 6. Nie podlegają egzekucji dodatki mieszkaniowe wypłacone na podstawie ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335) oraz dodatki energetyczne wypłacone na podstawie ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+§ 6. Nie podlegają egzekucji dodatki mieszkaniowe wypłacone na podstawie ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz.
+
+- **1335)** oraz dodatki energetyczne wypłacone na podstawie ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
 
 § 7. Nie podlegają egzekucji zapomogi udzielone na podstawie ustawy z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666).
 
@@ -370,6 +438,9 @@ source: "isap-pdf"
 § 3. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1 i 2, organ egzekucyjny doręcza pisma przesyłką rejestrowaną, o której mowa w art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456).
 
 **Art. 18.** Jeżeli przepisy niniejszej ustawy nie stanowią inaczej:
+
+- **1)** do czynności wierzyciela podejmowanych przed wszczęciem postępowania egzekucyjnego na podstawie niniejszej ustawy,
+- **2)** w postępowaniu egzekucyjnym – przepisy Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
 #### Rozdział 1a Rejestr Należności Publicznoprawnych
 
@@ -458,6 +529,12 @@ source: "isap-pdf"
 **Art. 18g.** Wierzyciel wprowadza do rejestru zmianę lub wykreśla z rejestru dane, o których mowa w art. 18b § 2, niezwłocznie, niepóźniej niż w terminie 7 dni od dnia powzięcia przez niego wiadomości o okoliczności uzasadniającej zmianę lub wykreślenie tych danych.
 
 **Art. 18h.** Wykreślenie z rejestru danych, o których mowa w art. 18b § 2, następuje w przypadku, gdy:
+
+- **1)** obowiązek zapłaty należności pieniężnej wygaśnie;
+- **2)** wierzycielem nie jest podmiot, o którym mowa we wprowadzeniu do wyliczenia w art. 18b § 1, lub nie są spełnione warunki określone w art. 18b § 1, art. 18c § 1 lub 3 lub art. 18d § 4;
+- **3)** utraci wykonalność wyrok, postanowienie albo mandat, z którego wynika należność pieniężna ujawniona w rejestrze;
+- **4)** zostanie ustalony następca prawny zobowiązanego, w przypadku, o którym mowa w art. 18f § 1 pkt 10;
+- **5)** sprzeciw, o którym mowa w art. 18i, zostanie uwzględniony w całości.
 
 **Art. 18i.**
 
@@ -597,11 +674,17 @@ source: "isap-pdf"
 
 § 2a. Organ egzekucyjny, o którym mowa w § 2, może upoważnić kierownika nieposiadającej osobowości prawnej jednostki organizacyjnej gminy do działania w jego imieniu jako organ egzekucyjny. Na wniosek kierownika upoważnienie może być udzielone również pracownikowi tej jednostki.
 
-§ 3. (uchylony) § 4. Dyrektor oddziału Zakładu Ubezpieczeń Społecznych wyznaczony przez ministra właściwego do spraw finansów publicznych jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę, ze świadczeń z ubezpieczenia społecznego, z renty socjalnej, z wierzytelności pieniężnych oraz z rachunków bankowych, w egzekucji administracyjnej należności pieniężnych z tytułu składek na ubezpieczenia społeczne i należności pochodnych od składek oraz nienależnie pobranych świadczeń z ubezpieczenia społecznego lub innych świadczeń wypłacanych przez Zakład Ubezpieczeń Społecznych, które nie mogą być potrącane z bieżących świadczeń.
+§ 3. (uchylony)
+
+§ 4. Dyrektor oddziału Zakładu Ubezpieczeń Społecznych wyznaczony przez ministra właściwego do spraw finansów publicznych jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę, ze świadczeń z ubezpieczenia społecznego, z renty socjalnej, z wierzytelności pieniężnych oraz z rachunków bankowych, w egzekucji administracyjnej należności pieniężnych z tytułu składek na ubezpieczenia społeczne i należności pochodnych od składek oraz nienależnie pobranych świadczeń z ubezpieczenia społecznego lub innych świadczeń wypłacanych przez Zakład Ubezpieczeń Społecznych, które nie mogą być potrącane z bieżących świadczeń.
 
 § 4a. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, siedziby i właściwość rzeczową oraz miejscową dyrektorów oddziałów Zakładu Ubezpieczeń Społecznych wyznaczonych do działania jako organy egzekucyjne, uwzględniając strukturę organizacyjną Zakładu Ubezpieczeń Społecznych oraz dostępność systemu teleinformatycznego obsługującego egzekucję administracyjną.
 
-§ 5. (uchylony) § 6. (uchylony) § 7. Dyrektor oddziału regionalnego Agencji Mienia Wojskowego jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę albo ze świadczeń z zaopatrzenia emerytalnego i ubezpieczenia społecznego, w egzekucji administracyjnej należności pieniężnych z tytułu opłat za używanie lokalu i opłat pośrednich oraz odszkodowań od żołnierzy i osób wspólnie z nimi zajmujących lokale mieszkalne znajdujące się w dyspozycji Agencji Mienia Wojskowego.
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. Dyrektor oddziału regionalnego Agencji Mienia Wojskowego jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę albo ze świadczeń z zaopatrzenia emerytalnego i ubezpieczenia społecznego, w egzekucji administracyjnej należności pieniężnych z tytułu opłat za używanie lokalu i opłat pośrednich oraz odszkodowań od żołnierzy i osób wspólnie z nimi zajmujących lokale mieszkalne znajdujące się w dyspozycji Agencji Mienia Wojskowego.
 
 § 8. Organem egzekucyjnym w egzekucji administracyjnej należności pieniężnych może być ponadto inny organ w zakresie określonym odrębnymi ustawami.
 
@@ -634,7 +717,7 @@ source: "isap-pdf"
 
 § 3. Jeżeli znany przed wszczęciem egzekucji majątek zobowiązanego lub większa jego część nie znajduje się na terenie działania organu egzekucyjnego ustalonego zgodnie z § 2 albo 2a, właściwość miejscową organu egzekucyjnego niebędącego naczelnikiem urzędu skarbowego lub dyrektorem oddziału Zakładu Ubezpieczeń Społecznych ustala się według miejsca położenia składników tego majątku.
 
-§ 3a. Jeżeli nie jest możliwe ustalenie organu egzekucyjnego zgodnie z § 2– 3, właściwość tego organu ustala się według siedziby lub miejsca zamieszkania dłużnika zobowiązanego, który jest obciążony prawem majątkowym względem zobowiązanego.
+§ 3a. Jeżeli nie jest możliwe ustalenie organu egzekucyjnego zgodnie z § 2–3, właściwość tego organu ustala się według siedziby lub miejsca zamieszkania dłużnika zobowiązanego, który jest obciążony prawem majątkowym względem zobowiązanego.
 
 § 3b. W przypadku zmiany właściwości miejscowej organu egzekucyjnego czynności podjęte przez organ egzekucyjny przed uzyskaniem informacji o tej zmianie są skuteczne.
 
@@ -654,14 +737,20 @@ source: "isap-pdf"
 
 § 3. W stosunku do organów egzekucyjnych będących organami samorządu terytorialnego nadzór nad egzekucją należności pieniężnych sprawuje samorządowe kolegium odwoławcze.
 
-§ 3a. (uchylony) § 4. Organy sprawujące nadzór są jednocześnie:
+§ 3a. (uchylony)
+
+§ 4. Organy sprawujące nadzór są jednocześnie:
 
 - **1)** organami odwoławczymi dla postanowień wydanych przez nadzorowane organy egzekucyjne;
 - **2)** organami sprawującymi kontrolę przestrzegania w toku czynności egzekucyjnych przepisów ustawy przez wierzycieli i nadzorowane organy egzekucyjne.
 
-§ 5. (uchylony) § 6. Organy sprawujące nadzór mogą, w szczególnie uzasadnionych przypadkach, wstrzymać z urzędu, na czas określony, czynności egzekucyjne lub postępowanie egzekucyjne prowadzone przez nadzorowany organ.
+§ 5. (uchylony)
 
-§ 7. (uchylony) § 8. Na postanowienie o wstrzymaniu czynności egzekucyjnych lub wstrzymaniu postępowania egzekucyjnego służy zażalenie wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.
+§ 6. Organy sprawujące nadzór mogą, w szczególnie uzasadnionych przypadkach, wstrzymać z urzędu, na czas określony, czynności egzekucyjne lub postępowanie egzekucyjne prowadzone przez nadzorowany organ.
+
+§ 7. (uchylony)
+
+§ 8. Na postanowienie o wstrzymaniu czynności egzekucyjnych lub wstrzymaniu postępowania egzekucyjnego służy zażalenie wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.
 
 **Art. 24.** (uchylony)
 
@@ -686,7 +775,9 @@ source: "isap-pdf"
 - **1)** drogą elektroniczną – przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej;
 - **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, przez swoich pracowników oraz inne upoważnione osoby lub organy – jeżeli z przyczyn technicznych nie jest możliwa droga elektroniczna.
 
-§ 1d. (uchylony) § 1e. Wierzyciel przekazuje organowi egzekucyjnemu wraz z wnioskiem egzekucyjnym i tytułem wykonawczym informację dotyczącą:
+§ 1d. (uchylony)
+
+§ 1e. Wierzyciel przekazuje organowi egzekucyjnemu wraz z wnioskiem egzekucyjnym i tytułem wykonawczym informację dotyczącą:
 
 - **1)** posiadanego przez zobowiązanego składnika majątkowego lub źródła jego dochodu – w przypadku gdy są znane wierzycielowi;
 - **2)** majątku zobowiązanego lub większej jego części znajdującego się na terenie działania organu egzekucyjnego – w przypadku ustalenia właściwości miejscowej organu egzekucyjnego na podstawie art. 22 § 3;
@@ -726,7 +817,9 @@ source: "isap-pdf"
 - **2)** podpisania tytułu wykonawczego przez osobę upoważnioną do działania w imieniu wierzyciela, jeżeli wierzyciel jest jednocześnie organem egzekucyjnym, albo opatrzenia pieczęcią, o której mowa w art. 26e § 1 pkt 4 albo 5;
 - **3)** wystawienia tytułu wykonawczego w przypadku przekształcenia zajęcia zabezpieczającego w zajęcie egzekucyjne.
 
-§ 4. (uchylony) § 5. Wszczęcie egzekucji administracyjnej następuje z chwilą:
+§ 4. (uchylony)
+
+§ 5. Wszczęcie egzekucji administracyjnej następuje z chwilą:
 
 - **1)** doręczenia zobowiązanemu odpisu tytułu wykonawczego;
 - **2)** doręczenia zawiadomienia o zajęciu wierzytelności lub innego prawa majątkowego dłużnikowi zajętej wierzytelności albo podmiotowi, o którym mowa w art. 95a pkt 2 lit. b, lub urzędowi, o którym mowa w art. 96g § 2, jeżeli to doręczenie nastąpiło przed doręczeniem zobowiązanemu odpisu tytułu wykonawczego;
@@ -735,13 +828,23 @@ source: "isap-pdf"
 
 § 5a. Jeżeli zobowiązany ma miejsce zamieszkania lub siedzibę na terenie państwa członkowskiego, w przypadkach, o których mowa w § 5, zamiast odpisu tytułu wykonawczego można doręczyć odpis tytułu wykonawczego w postaci elektronicznej kopii dokumentu.
 
-§ 5b. (uchylony) § 5c. Za doręczenie odpisu tytułu wykonawczego otrzymanego przez organ egzekucyjny przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej uznaje się doręczenie tytułu wykonawczego w postaci elektronicznej, jeżeli takie doręczenie umożliwia zapoznanie się z treścią tytułu wykonawczego, a gdy nie jest to możliwe – w postaci papierowej.
+§ 5b. (uchylony)
+
+§ 5c. Za doręczenie odpisu tytułu wykonawczego otrzymanego przez organ egzekucyjny przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej uznaje się doręczenie tytułu wykonawczego w postaci elektronicznej, jeżeli takie doręczenie umożliwia zapoznanie się z treścią tytułu wykonawczego, a gdy nie jest to możliwe – w postaci papierowej.
 
 § 5d. Przepis § 5c stosuje się odpowiednio do innych dokumentów sporządzanych w postępowaniu egzekucyjnym.
 
 § 6. W przypadku przekształcenia zajęcia zabezpieczającego w zajęcie egzekucyjne zobowiązanemu doręcza się odpis tytułu wykonawczego.
 
-**Art. 26a.** (uchylony) Art. 26aa. § 1. System teleinformatyczny, przy wykorzystaniu którego wnioski egzekucyjne i tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e, są przekazywane do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego, jest prowadzony przez Szefa Krajowej Administracji Skarbowej.
+**Art. 26a.** (uchylony)
+
+**Art. 26aa.**
+
+§ 1. System teleinformatyczny, przy wykorzystaniu którego wnioski egzekucyjne i tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e, są przekazywane do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego, jest prowadzony przez Szefa Krajowej Administracji Skarbowej.
+
+§ 2. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do prowadzenia systemu teleinformatycznego, mając na względzie konieczność sprawnego funkcjonowania tego systemu, w tym przekazywania naczelnikowi urzędu skarbowego będącemu organem egzekucyjnym wniosków egzekucyjnych, tytułów wykonawczych i informacji, o których mowa w art. 26 § 1e.
+
+§ 3. Organ prowadzący system teleinformatyczny, o którym mowa w § 1 i 2, na wniosek wierzyciela, nadaje temu wierzycielowi dostęp do tego systemu w zakresie niezbędnym do wszczęcia lub prowadzenia postępowania egzekucyjnego.
 
 **Art. 26b.**
 
@@ -767,14 +870,24 @@ source: "isap-pdf"
 - **6)** podpis osoby upoważnionej do działania w imieniu wierzyciela albo pieczęć, o której mowa w art. 26e § 1 pkt 4 albo 5;
 - **7)** datę podpisania dalszego tytułu wykonawczego przez osobę upoważnioną do działania w imieniu wierzyciela, a jeżeli dalszy tytuł wykonawczy został opatrzony pieczęcią, o której mowa w art. 26e § 1 pkt 4 albo 5 – datę opatrzenia tą pieczęcią.
 
-§ 2a. (uchylony) § 2b. (uchylony) § 3. (uchylony) § 4. Zobowiązanemu nie doręcza się odpisu dalszego tytułu wykonawczego.
+§ 2a. (uchylony)
+
+§ 2b. (uchylony)
+
+§ 3. (uchylony)
+
+§ 4. Zobowiązanemu nie doręcza się odpisu dalszego tytułu wykonawczego.
 
 § 5. Dalszy tytuł wykonawczy wystawia się w postaci:
 
 - **1)** papierowej;
-- **2)** elektronicznej, jeżeli istnieją warunki techniczne do wystawienia, przekazania i korzystania z dalszego tytułu wykonawczego w takiej postaci, w przypadku: Art. 26ca. § 1. Wierzyciel wystawia kolejny tytuł wykonawczy w razie potrzeby:
+- **2)** elektronicznej, jeżeli istnieją warunki techniczne do wystawienia, przekazania i korzystania z dalszego tytułu wykonawczego w takiej postaci, w przypadku:
     - **a)** konieczności przekazania go do organu egzekucyjnego innego niż organ egzekucyjny prowadzący postępowanie egzekucyjne, aa) konieczności przekazania go do organu egzekucyjnego właściwego do ponownego wszczęcia egzekucji administracyjnej w przypadku, o którym mowa w § 1 pkt 2,
     - **b)** wystąpienia przez wierzyciela uprawnionego do złożenia wniosku o wpis w księdze wieczystej za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 626 Kodeksu postępowania cywilnego.
+
+**Art. 26ca.**
+
+§ 1. Wierzyciel wystawia kolejny tytuł wykonawczy w razie potrzeby:
 
 - **1)** zabezpieczenia na nieruchomości lub egzekucji z nieruchomości wchodzącej w skład majątku wspólnego – w przypadku gdy odpowiedzialność zobowiązanego za należność pieniężną i odsetki z tytułu niezapłacenia jej w terminie obejmuje majątek osobisty zobowiązanego i majątek wspólny;
 - **2)** egzekucji z przedmiotu hipoteki przymusowej – w przypadku przeniesienia tego przedmiotu na podmiot inny niż zobowiązany;
@@ -791,7 +904,10 @@ source: "isap-pdf"
 - **3)** imię i nazwisko osoby upoważnionej do działania w imieniu wierzyciela, a także jej stanowisko służbowe, jeżeli sposób opatrzenia kolejnego tytułu wykonawczego podpisem albo pieczęcią, o których mowa w art. 26e § 1, umożliwia podanie tego stanowiska;
 - **3a)** podpis osoby upoważnionej do działania w imieniu wierzyciela albo pieczęć, o której mowa w art. 26e § 1 pkt 4 albo 5;
 - **3b)** datę podpisania kolejnego tytułu wykonawczego przez osobę upoważnioną do działania w imieniu wierzyciela, a jeżeli kolejny tytuł wykonawczy został opatrzony pieczęcią, o której mowa w art. 26e § 1 pkt 4 albo 5 – datę opatrzenia tą pieczęcią.
-- **4)** (uchylony) § 3. Kolejny tytuł wykonawczy wystawia się w postaci:
+- **4)** (uchylony)
+
+§ 3. Kolejny tytuł wykonawczy wystawia się w postaci:
+
 - **1)** papierowej;
 - **2)** elektronicznej, jeżeli istnieją warunki techniczne do wystawienia, przekazania i korzystania z kolejnego tytułu wykonawczego w takiej postaci, w przypadku:
     - **a)** konieczności przekazania go do organu egzekucyjnego właściwego do egzekucji z nieruchomości,
@@ -805,7 +921,9 @@ source: "isap-pdf"
 
 § 2. Na ponownie wydanym tytule wykonawczym wierzyciel umieszcza adnotację o jego wydaniu oraz oznaczenie postanowienia o utracie pierwotnego tytułu wykonawczego.
 
-§ 3. (uchylony) § 4. Zobowiązanemu nie doręcza się odpisu ponownie wydanego tytułu wykonawczego.
+§ 3. (uchylony)
+
+§ 4. Zobowiązanemu nie doręcza się odpisu ponownie wydanego tytułu wykonawczego.
 
 **Art. 26e.**
 
@@ -857,7 +975,9 @@ source: "isap-pdf"
 
 § 1a. W tytule wykonawczym wierzyciel wskazuje jako adres zobowiązanego ostatni znany mu adres miejsca zamieszkania lub siedziby zobowiązanego.
 
-§ 1b. (uchylony) § 1c. Należność pieniężną wynikającą z deklaracji składanej w innym państwie członkowskim oraz należność pieniężną wynikającą z korekty deklaracji VAT, o której mowa w art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, podaje się w tytule wykonawczym w złotych po przeliczeniu jej według kursu wymiany opublikowanego przez Europejski Bank Centralny w ostatnim dniu danego okresu rozliczeniowego, a jeżeli nie zostanie opublikowany w tym dniu – według kursu wymiany opublikowanego następnego dnia.
+§ 1b. (uchylony)
+
+§ 1c. Należność pieniężną wynikającą z deklaracji składanej w innym państwie członkowskim oraz należność pieniężną wynikającą z korekty deklaracji VAT, o której mowa w art. 130ca ust. 1, art. 133a ust. 1 i art. 138ga ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, podaje się w tytule wykonawczym w złotych po przeliczeniu jej według kursu wymiany opublikowanego przez Europejski Bank Centralny w ostatnim dniu danego okresu rozliczeniowego, a jeżeli nie zostanie opublikowany w tym dniu – według kursu wymiany opublikowanego następnego dnia.
 
 § 2. Jeżeli tytuł wykonawczy dotyczy należności spółki nieposiadającej osobowości prawnej, w tytule wykonawczym podaje się również imiona i nazwiska oraz adresy wspólników.
 
@@ -873,7 +993,9 @@ source: "isap-pdf"
 - **6)** sposób posługiwania się tytułem wykonawczym przekazanym drogą elektroniczną,
 - **7)** sposób przekształcenia tytułu wykonawczego z postaci elektronicznej w postać papierową – mając na względzie zapewnienie sprawnego przekazania drogą elektroniczną wniosku egzekucyjnego, tytułu wykonawczego oraz informacji, o której mowa w art. 26 § 1e, poprawności danych zawartych w tych dokumentach, zapewnienie bezpieczeństwa korzystania z tych dokumentów oraz niezaprzeczalności przekształcenia tytułu wykonawczego z postaci elektronicznej w postać papierową w sposób zapewniający potwierdzenie nienaruszalności integralności i autentyczności tego tytułu.
 
-§ 3. (uchylony) § 4. (uchylony)
+§ 3. (uchylony)
+
+§ 4. (uchylony)
 
 **Art. 27a.** (uchylony)
 
@@ -1038,7 +1160,11 @@ source: "isap-pdf"
 
 § 3a. W zakresie należności pieniężnych, o których mowa w art. 2 § 1 pkt 8 lit. g oraz i, przepisu § 3 nie stosuje się.
 
-§ 4. Przepisy § 1–3 nie mają zastosowania do postępowania egzekucyjnego wszczętego na podstawie tytułu wykonawczego wystawionego na podstawie decyzji nieostatecznej, której nadano rygor natychmiastowej wykonalności. Art. 32aa. § 1. Wierzyciel niezwłocznie zawiadamia organ egzekucyjny o:
+§ 4. Przepisy § 1–3 nie mają zastosowania do postępowania egzekucyjnego wszczętego na podstawie tytułu wykonawczego wystawionego na podstawie decyzji nieostatecznej, której nadano rygor natychmiastowej wykonalności.
+
+**Art. 32aa.**
+
+§ 1. Wierzyciel niezwłocznie zawiadamia organ egzekucyjny o:
 
 - **1)** zmianie wysokości należności pieniężnej objętej tytułem wykonawczym wynikającej z jej wygaśnięcia w całości albo w części, w szczególności gdy wygaśnięcie jest wynikiem:
     - **a)** wyegzekwowania należności pieniężnej przez inny organ egzekucyjny,
@@ -1122,6 +1248,9 @@ source: "isap-pdf"
     - **b)** art. 33 § 2 pkt 6, jeżeli przyczyna braku wymagalności obowiązku ma charakter trwały lub wystąpiła przed wszczęciem egzekucji administracyjnej – umarza postępowanie egzekucyjne w całości albo w części.
 
 **Art. 34a.** Wierzyciel z urzędu występuje do organu egzekucyjnego o umorzenie postępowania egzekucyjnego w całości albo w części w przypadku wystąpienia przyczyny określonej w:
+
+- **1)** art. 33 § 2 pkt 1–5;
+- **2)** art. 33 § 2 pkt 6, jeżeli przyczyna braku wymagalności obowiązku ma charakter trwały lub wystąpiła przed wszczęciem egzekucji administracyjnej.
 
 **Art. 34b.** Nie umarza się postępowania egzekucyjnego z przyczyny, o której mowa w art. 33 § 2 pkt 5, zaistniałej po wszczęciu tego postępowania, jeżeli koszty egzekucyjne powstałe przed dniem zaistnienia tej przyczyny oraz koszty upomnienia nie zostały wyegzekwowane, zapłacone lub umorzone.
 
@@ -1477,7 +1606,9 @@ source: "isap-pdf"
 - **2)** niespełnienia w zagranicznym tytule wykonawczym wymogów określonych w art. 102 ustawy o wzajemnej pomocy;
 - **3)** gdy zachodzi błąd co do zobowiązanego.
 
-§ 3. (uchylony) § 4. Organ egzekucyjny wydaje postanowienie w sprawie umorzenia postępowania egzekucyjnego na żądanie zobowiązanego, wierzyciela albo z urzędu. Postanowienie o umorzeniu postępowania egzekucyjnego zawiera informację o uchyleniu czynności egzekucyjnych zgodnie z art. 60 § 1 zdanie pierwsze.
+§ 3. (uchylony)
+
+§ 4. Organ egzekucyjny wydaje postanowienie w sprawie umorzenia postępowania egzekucyjnego na żądanie zobowiązanego, wierzyciela albo z urzędu. Postanowienie o umorzeniu postępowania egzekucyjnego zawiera informację o uchyleniu czynności egzekucyjnych zgodnie z art. 60 § 1 zdanie pierwsze.
 
 § 4a. Postanowienie o umorzeniu postępowania egzekucyjnego pozostawia się w aktach sprawy, jeżeli zobowiązany ma miejsce zamieszkania lub siedzibę na terenie państwa członkowskiego lub państwa trzeciego i organ egzekucyjny nie zastosował środka egzekucyjnego.
 
@@ -1494,7 +1625,9 @@ source: "isap-pdf"
 
 § 1. Umorzenie postępowania egzekucyjnego powoduje uchylenie czynności egzekucyjnych. Pozostają jednak w mocy prawa osób trzecich nabyte na skutek tych czynności.
 
-§ 2. (uchylony) § 3. (uchylony)
+§ 2. (uchylony)
+
+§ 3. (uchylony)
 
 **Art. 61.**
 
@@ -1551,7 +1684,10 @@ source: "isap-pdf"
 - **1)** niezwłocznie sporządza adnotację w sprawie przekazania egzekucji do rzeczy albo prawa majątkowego, zwaną dalej „adnotacją w sprawie zbiegu”, zawierającą informacje niezbędne do prowadzenia łącznie egzekucji, i przekazuje ją sądowemu organowi egzekucyjnemu w sposób określony przepisami wydanymi na podstawie art. 63a § 2;
 - **2)** zwraca wierzycielowi niewykorzystaną zaliczkę;
 - **3)** przekazuje sądowemu organowi egzekucyjnemu środki pieniężne uzyskane wskutek zajęcia rzeczy albo prawa majątkowego, do których nastąpił zbieg egzekucji administracyjnej i sądowej, w przypadku gdy środki te nie zostały wypłacone wierzycielowi przed przekazaniem sądowemu organowi egzekucyjnemu adnotacji w sprawie zbiegu.
-- **4)** (uchylony) § 1a. Adnotacja w sprawie zbiegu zawiera:
+- **4)** (uchylony)
+
+§ 1a. Adnotacja w sprawie zbiegu zawiera:
+
 - **1)** wskazanie rodzaju i wysokości należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych należnych na dzień sporządzenia tej adnotacji;
 - **2)** inne dane niezbędne do prowadzenia łącznie egzekucji do rzeczy albo prawa majątkowego;
 - **3)** kwalifikowany podpis elektroniczny.
@@ -1566,7 +1702,9 @@ source: "isap-pdf"
 
 § 1. Organ egzekucyjny, który przejął prowadzenie łącznie egzekucji do rzeczy albo prawa majątkowego, do których nastąpił zbieg, prowadzi je w trybie egzekucji administracyjnej.
 
-§ 2. (uchylony) § 2a. W przypadku nieprzekazania przez sądowy organ egzekucyjny adnotacji w sprawie zbiegu lub przekazania jej w innej postaci niż wymagana organ egzekucyjny, który przejął prowadzenie łącznie egzekucji z rzeczy albo prawa majątkowego, przed podziałem kwoty uzyskanej z egzekucji wzywa sądowy organ egzekucyjny do przekazania tej adnotacji w wymaganej postaci w terminie 14 dni od dnia doręczenia tego wezwania.
+§ 2. (uchylony)
+
+§ 2a. W przypadku nieprzekazania przez sądowy organ egzekucyjny adnotacji w sprawie zbiegu lub przekazania jej w innej postaci niż wymagana organ egzekucyjny, który przejął prowadzenie łącznie egzekucji z rzeczy albo prawa majątkowego, przed podziałem kwoty uzyskanej z egzekucji wzywa sądowy organ egzekucyjny do przekazania tej adnotacji w wymaganej postaci w terminie 14 dni od dnia doręczenia tego wezwania.
 
 § 2b. Jeżeli sądowy organ egzekucyjny nie przekazał adnotacji w sprawie zbiegu w wymaganej postaci w terminie, o którym mowa w § 2a, organ egzekucyjny zawiadamia sądowy organ egzekucyjny o nieprzystąpieniu do prowadzenia łącznie egzekucji z rzeczy albo prawa majątkowego.
 
@@ -1578,7 +1716,7 @@ source: "isap-pdf"
 
 **Art. 62e.**
 
-§ 1. W przypadku kolejnego zbiegu egzekucji administracyjnej i sądowej do tej samej rzeczy albo prawa majątkowego egzekucję przejmuje organ egzekucyjny, który prowadzi łącznie egzekucje w wyniku pierwszego zbiegu egzekucji. Jeżeli kolejny zbieg egzekucji dotyczy egzekucji, o której mowa w art. 62 § 2–4, prowadzenie łącznie egzekucji przejmuje organ egzekucyjny określony zgodnie z tymi przepisami. Przepisy art. 62a–62d, art. 62f i art. 62g stosuje się odpowiednio.
+§ 1. W przypadku kolejnego zbiegu egzekucji administracyjnej i sądowej do tej samej rzeczy albo prawa majątkowego egzekucję przejmuje organ egzekucyjny, który prowadzi łącznie egzekucje w wyniku pierwszego zbiegu egzekucji. Jeżeli kolejny zbieg egzekucji dotyczy egzekucji, o której mowa w art. 62 § 2– 4, prowadzenie łącznie egzekucji przejmuje organ egzekucyjny określony zgodnie z tymi przepisami. Przepisy art. 62a–62d, art. 62f i art. 62g stosuje się odpowiednio.
 
 § 2. Jeżeli w wyniku kolejnego zbiegu egzekucji nastąpiła zmiana organu egzekucyjnego prowadzącego łącznie egzekucję do rzeczy albo prawa majątkowego, organ egzekucyjny, który przejął prowadzenie łącznie egzekucji w wyniku pierwszego zbiegu:
 
@@ -1595,7 +1733,7 @@ source: "isap-pdf"
 
 **Art. 63.**
 
-§ 1. W przypadku zbiegu egzekucji administracyjnych do tej samej rzeczy albo prawa majątkowego przepisy art. 62 § 1 i 2, art. 62a–62c, art. 62d § 2a– 3, art. 62e § 1 zdanie pierwsze i § 2 oraz art. 62f stosuje się odpowiednio, z tym że zamiast zawiadomienia, o którym mowa w art. 62d § 2b, organ egzekucyjny wydaje postanowienie, na które przysługuje zażalenie organowi egzekucyjnemu, który nie przekazał adnotacji w sprawie zbiegu.
+§ 1. W przypadku zbiegu egzekucji administracyjnych do tej samej rzeczy albo prawa majątkowego przepisy art. 62 § 1 i 2, art. 62a–62c, art. 62d § 2a–3, art. 62e § 1 zdanie pierwsze i § 2 oraz art. 62f stosuje się odpowiednio, z tym że zamiast zawiadomienia, o którym mowa w art. 62d § 2b, organ egzekucyjny wydaje postanowienie, na które przysługuje zażalenie organowi egzekucyjnemu, który nie przekazał adnotacji w sprawie zbiegu.
 
 § 2. Spór o właściwość między organami egzekucyjnymi rozstrzyga, na wniosek organu egzekucyjnego pozostającego w sporze, dyrektor izby administracji skarbowej właściwy ze względu na siedzibę organu egzekucyjnego, który dokonał zajęcia na poczet należności pieniężnych w wyższej kwocie. Do czasu ostatecznego rozstrzygnięcia sporu przepisów art. 62d § 2a–2d nie stosuje się.
 
@@ -1629,7 +1767,9 @@ source: "isap-pdf"
 
 § 5a. Jeżeli w egzekucji należności pieniężnej wyegzekwowano i uzyskano w wyniku zapłaty środki pieniężne, maksymalna wysokość opłaty egzekucyjnej wynosi 40 000 zł odrębnie dla każdego tytułu wykonawczego, przy czym maksymalna wysokość opłaty egzekucyjnej naliczonej w wyniku zapłaty wynosi 20 000 zł.
 
-§ 6. (uchylony) § 7. Obowiązek zapłaty opłaty egzekucyjnej powstaje z chwilą:
+§ 6. (uchylony)
+
+§ 7. Obowiązek zapłaty opłaty egzekucyjnej powstaje z chwilą:
 
 - **1)** wyegzekwowania należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie lub kosztów upomnienia;
 - **2)** zapłaty po wszczęciu egzekucji administracyjnej organowi egzekucyjnemu lub wierzycielowi należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie lub kosztów upomnienia;
@@ -1702,7 +1842,9 @@ source: "isap-pdf"
 
 § 2. Przez wydatki egzekucyjne rozumie się również koszty przekazania wyegzekwowanych kwot w postępowaniu egzekucyjnym prowadzonym na podstawie jednolitego tytułu wykonawczego albo zagranicznego tytułu wykonawczego.
 
-§ 3. Do wydatków egzekucyjnych stosuje się odpowiednio przepisy art. 64 § 3 pkt 1 i § 12. Art. 64ba. Wygaśnięcie obowiązku, którego dotyczy tytuł wykonawczy, po wszczęciu postępowania egzekucyjnego nie zwalnia z obowiązku zapłaty kosztów upomnienia i kosztów egzekucyjnych.
+§ 3. Do wydatków egzekucyjnych stosuje się odpowiednio przepisy art. 64 § 3 pkt 1 i § 12.
+
+**Art. 64ba.** Wygaśnięcie obowiązku, którego dotyczy tytuł wykonawczy, po wszczęciu postępowania egzekucyjnego nie zwalnia z obowiązku zapłaty kosztów upomnienia i kosztów egzekucyjnych.
 
 **Art. 64c.**
 
@@ -1747,12 +1889,21 @@ source: "isap-pdf"
 
 § 10. Na postanowienie w sprawie wysokości kosztów egzekucyjnych przysługuje zażalenie.
 
-§ 11. Wierzyciel dokonuje zapłaty kosztów egzekucyjnych organowi egzekucyjnemu niepóźniej niż w terminie 14 dni od dnia, w którym postanowienie w sprawie wysokości kosztów egzekucyjnych stało się ostateczne. Art. 64ca. § 1. Koszty egzekucyjne powstałe w postępowaniu egzekucyjnym prowadzonym na podstawie tytułu wykonawczego wystawionego na należność pieniężną są dochodzone na podstawie tego tytułu, chyba że ustawa stanowi inaczej.
+§ 11. Wierzyciel dokonuje zapłaty kosztów egzekucyjnych organowi egzekucyjnemu niepóźniej niż w terminie 14 dni od dnia, w którym postanowienie w sprawie wysokości kosztów egzekucyjnych stało się ostateczne.
+
+**Art. 64ca.**
+
+§ 1. Koszty egzekucyjne powstałe w postępowaniu egzekucyjnym prowadzonym na podstawie tytułu wykonawczego wystawionego na należność pieniężną są dochodzone na podstawie tego tytułu, chyba że ustawa stanowi inaczej.
 
 § 2. W ponownie wszczętej egzekucji administracyjnej mogą być dochodzone koszty egzekucyjne powstałe w postępowaniu egzekucyjnym umorzonym z przyczyny określonej w art. 59 § 2:
 
 - **1)** na wniosek wierzyciela – jeżeli zostały pokryte przez tego wierzyciela,
-- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym. Art. 64cb. § 1. Koszty egzekucyjne z tytułu:
+- **2)** z urzędu – jeżeli nie zostały uprzednio umorzone – niezależnie od kosztów egzekucyjnych powstałych w ponownie wszczętym postępowaniu egzekucyjnym.
+
+**Art. 64cb.**
+
+§ 1. Koszty egzekucyjne z tytułu:
+
 - **1)** opłaty manipulacyjnej w wysokości 40 zł – przypadają na rzecz organu egzekucyjnego, który wszczął postępowanie egzekucyjne, jeżeli nie wszczęto egzekucji administracyjnej;
 - **2)** opłaty manipulacyjnej w wysokości 100 zł – przypadają na rzecz organu egzekucyjnego, który wszczął egzekucję administracyjną;
 - **3)** opłaty egzekucyjnej i opłaty za czynności egzekucyjne – przypadają na rzecz organu egzekucyjnego, który te opłaty wyegzekwował lub uzyskał;
@@ -1762,7 +1913,13 @@ source: "isap-pdf"
 
 § 3. Przepisów § 1 i 2 nie stosuje się do rozliczenia kosztów egzekucyjnych, jeżeli organ egzekucyjny dokonujący tego rozliczenia, a także organ egzekucyjny, na rzecz którego przypadają koszty egzekucyjne zgodnie z § 1, działają w ramach państwowej jednostki budżetowej lub są państwowymi jednostkami budżetowymi.
 
-§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego. Art. 64cc. Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się. Art. 64cd. § 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
+§ 4. Niewyegzekwowane od zobowiązanego koszty egzekucyjne są należne organowi egzekucyjnemu, który wydał w pierwszej instancji postanowienie o umorzeniu postępowania egzekucyjnego.
+
+**Art. 64cc.** Koszty egzekucyjne wyegzekwowane lub uzyskane w postępowaniu egzekucyjnym prowadzonym na podstawie porozumienia, o którym mowa w art. 30 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej lub art. 6qa ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, przypadają na rzecz jednostki samorządu terytorialnego, związku takich jednostek lub zarządu związku międzygminnego, któremu naczelnik urzędu skarbowego powierzył prowadzenie postępowania egzekucyjnego. Przepisy art. 64cb § 1, 2 i 4 stosuje się.
+
+**Art. 64cd.**
+
+§ 1. Jeżeli po wyegzekwowaniu lub uzyskaniu kosztów egzekucyjnych okaże się, że wszczęcie lub prowadzenie postępowania egzekucyjnego było niezgodne z prawem, w szczególności jeżeli w chwili wyegzekwowania lub uzyskania kosztów egzekucyjnych postępowanie egzekucyjne podlegało umorzeniu, organ egzekucyjny, który zakończył postępowanie egzekucyjne, zwraca zobowiązanemu lub wierzycielowi wyegzekwowane lub uzyskane koszty egzekucyjne wraz z ustawowymi odsetkami naliczonymi od dnia ich wyegzekwowania lub uzyskania do dnia obciążenia rachunku bankowego organu egzekucyjnego przekazywanymi środkami pieniężnymi.
 
 § 2. Nie zwraca się kosztów egzekucyjnych wierzycielowi, jeżeli niezgodne z prawem wszczęcie lub prowadzenie egzekucji administracyjnej spowodował ten wierzyciel.
 
@@ -1788,7 +1945,9 @@ source: "isap-pdf"
 § 9. Przepisy § 1–8 stosuje się odpowiednio do kosztów egzekucyjnych:
 
 - **1)** wyegzekwowanych lub uzyskanych w niezgodnej z prawem egzekucji do rzeczy lub prawa majątkowego;
-- **2)** zapłaconych przez podmiot, o którym mowa w art. 71ca § 1 pkt 1, 2 i 4. Art. 64ce. W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.
+- **2)** zapłaconych przez podmiot, o którym mowa w art. 71ca § 1 pkt 1, 2 i 4.
+
+**Art. 64ce.** W przypadku wyegzekwowania od zobowiązanego w ponownie wszczętej egzekucji administracyjnej kosztów egzekucyjnych pokrytych przez wierzyciela po umorzeniu postępowania egzekucyjnego z przyczyny określonej w art. 59 § 2, koszty te podlegają niezwłocznie zwrotowi temu wierzycielowi. Przepisu art. 64cd nie stosuje się.
 
 **Art. 64d.** (uchylony)
 
@@ -1848,7 +2007,9 @@ source: "isap-pdf"
 
 § 2. Obowiązek zapłaty kosztów egzekucyjnych obciążających wierzyciela przedawnia się z upływem 3 lat, licząc od dnia, w którym postanowienie w sprawie wysokości tych kosztów stało się ostateczne.
 
-§ 3. Obowiązek zwrotu zobowiązanemu lub wierzycielowi kosztów egzekucyjnych wraz z ustawowymi odsetkami przedawnia się z upływem 3 lat, licząc od końca roku kalendarzowego, w którym zaistniały zdarzenia określone w art. 64cd § 3. Złożenie wniosku, o którym mowa w art. 64cd § 5, przerywa bieg terminu przedawnienia. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym złożono ten wniosek.
+§ 3. Obowiązek zwrotu zobowiązanemu lub wierzycielowi kosztów egzekucyjnych wraz z ustawowymi odsetkami przedawnia się z upływem 3 lat, licząc od końca roku kalendarzowego, w którym zaistniały zdarzenia określone w art. 64cd
+
+§ 3. Złożenie wniosku, o którym mowa w art. 64cd § 5, przerywa bieg terminu przedawnienia. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym złożono ten wniosek.
 
 § 4. Obowiązek zapłaty przez wierzyciela kosztów egzekucyjnych zwróconych zobowiązanemu wraz z ustawowymi odsetkami przedawnia się z upływem 3 lat, licząc od końca roku kalendarzowego, w którym doręczono wierzycielowi ostateczne postanowienie w sprawie obciążenia wierzyciela zwróconymi zobowiązanemu kosztami egzekucyjnymi wraz z ustawowymi odsetkami.
 
@@ -1866,7 +2027,17 @@ source: "isap-pdf"
 
 § 2. Wydatki, o których mowa w § 1, organ egzekucyjny pokrywa z wyegzekwowanych kwot.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 8. Państwowe jednostki budżetowe, których należności dochodzone w egzekucji administracyjnej stanowią dochód budżetu państwa, są upoważnione do przeznaczenia odpowiedniej części uzyskanych z egzekucji wpływów na pokrycie wydatków, o których mowa w § 1.
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Państwowe jednostki budżetowe, których należności dochodzone w egzekucji administracyjnej stanowią dochód budżetu państwa, są upoważnione do przeznaczenia odpowiedniej części uzyskanych z egzekucji wpływów na pokrycie wydatków, o których mowa w § 1.
 
 #### Rozdział 7
 
@@ -1912,7 +2083,9 @@ source: "isap-pdf"
 - **2)** zawiera znane organowi egzekucyjnemu dane podmiotu, o którym mowa w art. 26 § 1e pkt 4b, w razie potrzeby wszczęcia egzekucji do rzeczy lub prawa majątkowego obciążonych zastawem skarbowym lub hipoteką przymusową zabezpieczającymi należność pieniężną i odsetki z tytułu niezapłacenia jej w terminie, gdy prawo własności rzeczy lub prawo majątkowe zostało przeniesione na ten podmiot;
 - **3)** zawiera znane organowi egzekucyjnemu dane podmiotu, który uzyskał korzyść majątkową, w razie potrzeby wszczęcia egzekucji do rzeczy lub prawa majątkowego tego podmiotu. § 2ab. W przypadkach, o których mowa w § 2aa, odpis zawiadomienia o zajęciu prawa majątkowego u dłużnika zajętej wierzytelności doręcza się również odpowiednio małżonkowi zobowiązanego, podmiotowi, o którym mowa w art. 26 § 1e pkt 4b, oraz podmiotowi, który uzyskał korzyść majątkową.
 
-§ 2b. (uchylony) § 2c. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób sporządzania i dokonywania doręczeń dokumentów przesyłanych w ramach stosowanego środka egzekucyjnego przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej oraz sprawność i skuteczność egzekucji.
+§ 2b. (uchylony)
+
+§ 2c. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób sporządzania i dokonywania doręczeń dokumentów przesyłanych w ramach stosowanego środka egzekucyjnego przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej oraz sprawność i skuteczność egzekucji.
 
 § 2d. Zawiadomienie o zajęciu wierzytelności z rachunku bankowego zawiera również rodzaj należności pieniężnej, jeżeli należność:
 
@@ -1921,14 +2094,14 @@ source: "isap-pdf"
 
 § 3. Do protokołu zajęcia prawa majątkowego stosuje się odpowiednio § 4.
 
-§ 4. Protokół zajęcia i odbioru ruchomości zawiera treść określoną w § 2 pkt 1–1b, 4–6 i 9 oraz w art. 53 § 1 pkt 5, a ponadto:
+§ 4. Protokół zajęcia i odbioru ruchomości zawiera treść określoną w § 2 pkt 1– 1b, 4–6 i 9 oraz w art. 53 § 1 pkt 5, a ponadto:
 
 - **1)** wyszczególnienie zajętych ruchomości z podaniem ich ilości, rodzaju jednostki miary i wartości szacunkowej ruchomości, jeżeli oszacowanie jest możliwe i nie zostało zastrzeżone dla biegłego skarbowego;
 - **2)** adnotację, które z zajętych ruchomości mogą być sprzedane bezpośrednio po zajęciu, a także które ruchomości poborca pozostawia pod dozorem zobowiązanego lub osoby zastępującej zobowiązanego, a które odbiera;
 - **3)** pouczenie zobowiązanego o skutkach zajęcia ruchomości;
 - **4)** pouczenie dozorcy o skutkach przyjęcia ruchomości pod dozór.
 
-§ 5. Protokół odbioru dokumentu zawiera treść określoną w § 2 pkt 1–1b, 4– 6 i 9 i § 4 pkt 3 oraz w art. 53 § 1 pkt 1, 2 i 4–6, a ponadto:
+§ 5. Protokół odbioru dokumentu zawiera treść określoną w § 2 pkt 1–1b, 4–6 i 9 i § 4 pkt 3 oraz w art. 53 § 1 pkt 1, 2 i 4–6, a ponadto:
 
 - **1)** oznaczenie lub opis odebranego dokumentu;
 - **2)** wartość szacunkową prawa majątkowego związanego z tym dokumentem.
@@ -2011,6 +2184,40 @@ source: "isap-pdf"
 
 § 4. Wniesienie przez zobowiązanego wniosku, o którym mowa w § 2, wstrzymuje sprzedaż zajętych rzeczy.
 
+**Art. 67da.**
+
+§ 1. W systemie teleinformatycznym prowadzonym przez Szefa Krajowej Administracji Skarbowej, zwanym dalej „Portalem eLicytacje KAS”, organ egzekucyjny będący naczelnikiem urzędu skarbowego:
+
+- **1)** może przeprowadzać sprzedaż w drodze licytacji publicznej i z wolnej ręki;
+- **2)** publikuje:
+    - **a)** ogłoszenia i obwieszczenia o sprzedaży,
+    - **b)** protokoły opisu i oszacowania wartości nieruchomości;
+
+- **3)** może publikować inne dokumenty dotyczące sprzedaży dokonywanej przez ten organ.
+
+§ 2. Minister właściwy do spraw finansów publicznych może wyznaczyć, w drodze rozporządzenia, inny organ Krajowej Administracji Skarbowej do prowadzenia Portalu eLicytacje KAS, mając na względzie konieczność sprawnego funkcjonowania tego portalu.
+
+§ 3. Administratorem danych przetwarzanych w Portalu eLicytacje KAS jest:
+
+- **1)** organ prowadzący Portal eLicytacje KAS – w zakresie służącym do zapewnienia funkcjonowania i bezpieczeństwa Portalu eLicytacje KAS;
+- **2)** organ przeprowadzający sprzedaż za pośrednictwem Portalu eLicytacje KAS – w zakresie danych związanych ze sprzedażą przeprowadzaną przez ten organ.
+
+§ 4. Udział w sprzedaży za pośrednictwem Portalu eLicytacje KAS wymaga:
+
+- **1)** uwierzytelnienia;
+- **2)** założenia konta w Portalu eLicytacje KAS;
+- **3)** nadania unikalnego identyfikatora.
+
+§ 5. Konto w Portalu eLicytacje KAS:
+
+- **1)** może być usunięte w każdym czasie przez osobę posiadającą to konto;
+- **2)** podlega automatycznemu usunięciu po upływie roku od dnia ostatniego uwierzytelnienia się na tym koncie.
+
+§ 6. Posiadanie konta w Portalu eLicytacje KAS nie jest wymagane do:
+
+- **1)** zapoznania się z ogłoszeniem, obwieszczeniem i innymi dokumentami dotyczącymi sprzedaży publikowanymi w Portalu eLicytacje KAS;
+- **2)** obserwowania przebiegu sprzedaży za pośrednictwem Portalu eLicytacje KAS.
+
 **Art. 67e.**
 
 § 1. Zapłaty należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych organowi egzekucyjnemu można dokonać gotówką lub bezgotówkowo. Zapłaty bezgotówkowo można dokonać w siedzibie organu egzekucyjnego, jeżeli po stronie tego organu istnieją warunki techniczne.
@@ -2028,7 +2235,18 @@ source: "isap-pdf"
 
 **Art. 67g.** Za dzień zapłaty egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych uważa się przy zapłacie:
 
+- **1)** gotówką – dzień:
+    - **a)** pobrania gotówki,
+    - **b)** wpłaty tych należności na rachunek organu egzekucyjnego w banku, w spółdzielczej kasie oszczędnościowo-kredytowej, w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, w biurze usług płatniczych, w instytucji płatniczej, w małej instytucji płatniczej lub w instytucji pieniądza elektronicznego, o których mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069);
+
+- **2)** bezgotówkowo – dzień:
+    - **a)** obciążenia rachunku zobowiązanego przez dostawcę, o którym mowa w art. 4a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych – w przypadku zapłaty przy użyciu polecenia przelewu,
+    - **b)** uzyskania potwierdzenia autoryzacji transakcji płatniczej, o której mowa w art. 40 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych – w przypadku zapłaty przy użyciu innego niż polecenie przelewu instrumentu płatniczego.
+
 **Art. 67h.** Przepisy art. 67e § 1, art. 67f i art. 67g stosuje się odpowiednio do zapłaty:
+
+- **1)** organowi egzekucyjnemu – wadium i ceny nabycia rzeczy lub prawa majątkowego;
+- **2)** wierzycielowi – należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie i kosztów upomnienia.
 
 **Art. 68.** (uchylony)
 
@@ -2128,7 +2346,9 @@ source: "isap-pdf"
 
 § 9. Jeżeli w wyniku kontroli stwierdzono, że dłużnik zajętej wierzytelności bezpodstawnie uchyla się od przekazania zajętej wierzytelności albo części wierzytelności organowi egzekucyjnemu, organ ten wydaje postanowienie, w którym określa wysokość nieprzekazanej kwoty. Na postanowienie w sprawie wysokości nieprzekazanej kwoty przysługuje zażalenie.
 
-**Art. 71b.** Jeżeli dłużnik zajętej wierzytelności bezpodstawnie uchyla się od przekazania zajętej wierzytelności albo części wierzytelności organowi egzekucyjnemu, zajęta wierzytelność albo część wierzytelności może być ściągnięta od dłużnika zajętej wierzytelności w trybie egzekucji administracyjnej. Podstawą wystawienia tytułu wykonawczego jest postanowienie, o którym mowa w art. 71a § 9. Tytuł wykonawczy wystawia organ egzekucyjny, który dokonał u dłużnika zajętej wierzytelności zajęcia wierzytelności.
+**Art. 71b.** Jeżeli dłużnik zajętej wierzytelności bezpodstawnie uchyla się od przekazania zajętej wierzytelności albo części wierzytelności organowi egzekucyjnemu, zajęta wierzytelność albo część wierzytelności może być ściągnięta od dłużnika zajętej wierzytelności w trybie egzekucji administracyjnej. Podstawą wystawienia tytułu wykonawczego jest postanowienie, o którym mowa w art. 71a § 9.
+
+## Tytuł wykonawczy wystawia organ egzekucyjny, który dokonał u dłużnika zajętej wierzytelności zajęcia wierzytelności.
 
 **Art. 71c.**
 
@@ -2136,7 +2356,11 @@ source: "isap-pdf"
 
 § 2. Do udzielania ulg, o których mowa w § 1, stosuje się odpowiednio przepisy działów III i IV ustawy – Ordynacja podatkowa.
 
-§ 3. O udzieleniu ulg, o których mowa w § 1, organ egzekucyjny informuje państwo członkowskie lub państwo trzecie. Art. 71ca. § 1. Należność pieniężna, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia oraz koszty egzekucyjne mogą być zapłacone organowi egzekucyjnemu przez:
+§ 3. O udzieleniu ulg, o których mowa w § 1, organ egzekucyjny informuje państwo członkowskie lub państwo trzecie.
+
+**Art. 71ca.**
+
+§ 1. Należność pieniężna, odsetki z tytułu niezapłacenia jej w terminie, koszty upomnienia oraz koszty egzekucyjne mogą być zapłacone organowi egzekucyjnemu przez:
 
 - **1)** aktualnego właściciela lub użytkownika wieczystego przedmiotu hipoteki przymusowej niebędących zobowiązanymi – jeżeli te należności są zabezpieczone tą hipoteką;
 - **2)** aktualnego właściciela przedmiotu zastawu skarbowego niebędącego zobowiązanym – jeżeli te należności są zabezpieczone tym zastawem;
@@ -2279,13 +2503,19 @@ source: "isap-pdf"
 
 § 5. Przepis § 4 stosuje się również do podatku dochodowego od osób fizycznych oraz składek na ubezpieczenie społeczne, należnych od dokonywanych wypłat na bieżące wynagrodzenia.
 
-§ 6. (uchylony) § 7. (uchylony) § 8. Zajęcie wierzytelności z rachunku bankowego nie podlega realizacji w okresie blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+§ 8. Zajęcie wierzytelności z rachunku bankowego nie podlega realizacji w okresie blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 § 9. W przypadku, o którym mowa w § 8, bank informuje organ egzekucyjny o przeszkodzie w realizacji zajęcia wierzytelności z rachunku bankowego w przypadku blokady rachunku, o której mowa w art. 119zw § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 § 9a. W przypadku jednoczesnego zajęcia wierzytelności z rachunku VAT, o którym mowa w art. 62a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, i innego rachunku bankowego, bank przekazuje środki pieniężne z tych rachunków odrębnymi poleceniami przelewu.
 
-§ 10. (uchylony) § 11. (uchylony)
+§ 10. (uchylony)
+
+§ 11. (uchylony)
 
 **Art. 82.** (uchylony)
 
@@ -2444,11 +2674,30 @@ source: "isap-pdf"
 
 **Art. 95a.** Organ egzekucyjny dokonuje zajęcia prawa majątkowego zarejestrowanego w rejestrze akcjonariuszy i wierzytelności z tego prawa przez:
 
+- **1)** wpisanie ich do protokołu zajęcia albo
+- **2)** przesłanie zawiadomienia o ich zajęciu do:
+    - **a)** spółki prawa handlowego albo
+    - **b)** podmiotu prowadzącego rejestr akcjonariuszy.
+
 **Art. 95b.** Zawiadomienie, o którym mowa w art. 95a pkt 2 lit. a, zawiera wezwanie spółki prawa handlowego, aby:
+
+- **1)** żadnych wierzytelności przypadających zobowiązanemu z tytułu zajętego prawa majątkowego do wysokości egzekwowanej należności wraz z odsetkami z tytułu niezapłacenia należności w terminie, kosztami upomnienia i kosztami egzekucyjnymi, nie uiszczała zobowiązanemu, lecz należne kwoty przekazała organowi egzekucyjnemu na pokrycie należności;
+- **2)** zawiadomiła organ egzekucyjny, w terminie 7 dni od dnia doręczenia zawiadomienia o zajęciu:
+    - **a)** który podmiot prowadzi dla spółki rejestr akcjonariuszy,
+    - **b)** o przeszkodzie w realizacji zajęcia prawa majątkowego i wierzytelności z tego prawa w rejestrze akcjonariuszy.
 
 **Art. 95c.** Zawiadomienie, o którym mowa w art. 95a pkt 2 lit. b, zawiera wezwanie podmiotu prowadzącego rejestr akcjonariuszy, aby:
 
+- **1)** dokonał wpisu w rejestrze akcjonariuszy zajęcia prawa majątkowego i wierzytelności z tego prawa;
+- **2)** zawiadomił organ egzekucyjny, w terminie 7 dni od dnia doręczenia zawiadomienia, o: o obrocie instrumentami finansowymi, prawa majątkowego i wierzytelnościach z tego prawa, jeżeli rejestr akcjonariuszy zawiera takie dane.
+    - **a)** dacie wpisania zajęcia prawa majątkowego i wierzytelności z tego prawa w rejestrze akcjonariuszy albo przeszkodzie do jego dokonania,
+    - **b)** liczbie lub wartości oraz rodzaju, serii i numerze albo odrębnym oznaczeniu, o którym mowa w art. 55 ustawy z dnia 29 lipca 2005 r.
+
 **Art. 95d.** Zajęcie prawa majątkowego zarejestrowanego w rejestrze akcjonariuszy i wierzytelności z tego prawa jest skuteczne z chwilą:
+
+- **1)** podpisania przez pracownika obsługującego organ egzekucyjny protokołu, o którym mowa w art. 95a pkt 1, albo
+- **2)** doręczenia spółce prawa handlowego zawiadomienia, o którym mowa w art. 95a pkt 2 lit. a, albo
+- **3)** doręczenia podmiotowi prowadzącemu rejestr akcjonariuszy zawiadomienia, o którym mowa w art. 95a pkt 2 lit. b.
 
 **Art. 95e.** Zajęcie jest skuteczne także wtedy, gdy zawiadomienie, o którym mowa w art. 95a pkt 2, zawiera tylko imię i nazwisko lub firmę oraz adres zobowiązanego.
 
@@ -2477,6 +2726,9 @@ source: "isap-pdf"
 **Art. 96.** Organ egzekucyjny dokonuje zajęcia weksla, w rozumieniu ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe (Dz. U. z 2022 r. poz. 282), przez odbiór weksla, stosując odpowiednio zasady określone w art. 84.
 
 **Art. 96a.** Jednocześnie z zajęciem weksla organ egzekucyjny:
+
+- **1)** wzywa trasata, aby należnej od niego sumy wekslowej nie uiszczał prawnemu posiadaczowi weksla, lecz należną sumę wpłacił w terminie wykupu weksla organowi egzekucyjnemu;
+- **2)** zawiadamia zobowiązanego, że nie wolno mu rozporządzać zajętym wekslem ani też odebrać od trasata sumy wekslowej.
 
 **Art. 96b.**
 
@@ -2576,6 +2828,9 @@ source: "isap-pdf"
 ##### Oddział 7 Egzekucja z pozostałych praw majątkowych
 
 **Art. 96l.** Organ egzekucyjny dokonuje zajęcia innych praw majątkowych niż określone w art. 89–96k, przez:
+
+- **1)** odbiór dokumentu, jeżeli warunkiem wykonywania prawa majątkowego jest posiadanie dokumentu, albo
+- **2)** zawiadomienie dłużnika zobowiązanego, jeżeli zajęte prawo majątkowe jest tego rodzaju, że jest oznaczony podmiot obciążony względem zobowiązanego.
 
 **Art. 96m.** W egzekucji z pozostałych praw majątkowych stosuje się odpowiednio przepisy działu II rozdziału 5 oddziału 1, z tym że w przypadku sprzedaży stosuje się przepisy dotyczące sprzedaży ruchomości.
 
@@ -2685,7 +2940,7 @@ source: "isap-pdf"
 - **1)** opisu ruchomości według cech jej właściwych – w przypadku niezgodności w protokole zajęcia ruchomości opisu zajętej ruchomości z jej rzeczywistym stanem;
 - **2)** oznaczenia wartości szacunkowej ruchomości – w przypadku jej nieoznaczenia w protokole zajęcia.
 
-§ 1b. Do protokołu uzupełniającego przepisy art. 53 § 1 pkt 5, art. 67 § 2 pkt 1–1b i 9 i § 2aa, art. 98 § 2 oraz art. 99 § 2 stosuje się odpowiednio.
+§ 1b. Do protokołu uzupełniającego przepisy art. 53 § 1 pkt 5, art. 67 § 2 pkt 1– 1b i 9 i § 2aa, art. 98 § 2 oraz art. 99 § 2 stosuje się odpowiednio.
 
 § 2. Zobowiązanemu przysługuje w terminie 7 dni od dnia doręczenia odpowiednio odpisu protokołu zajęcia ruchomości lub odpisu protokołu uzupełniającego prawo wniesienia do organu egzekucyjnego skargi na oszacowanie dokonane przez pracownika obsługującego organ egzekucyjny. W takim przypadku organ egzekucyjny wzywa biegłego skarbowego do oszacowania wartości zajętej ruchomości.
 
@@ -2838,19 +3093,23 @@ source: "isap-pdf"
 
 § 1. Licytacja publiczna odbywa się w terminie i miejscu wyznaczonym przez organ egzekucyjny.
 
-§ 2. Organ egzekucyjny ogłasza o licytacji przez obwieszczenie. Obwieszczenie zawiera:
+§ 2. Organ egzekucyjny ogłasza o licytacji przez obwieszczenie, które:
 
-- **1)** miejsce i termin licytacji;
-- **2)** określenie ruchomości, która ma być sprzedana, jej rodzaju i wartości szacunkowej;
-- **2a)** cenę wywołania;
-- **3)** miejsce i termin, w którym można oglądać ruchomości przed licytacją;
-- **4)** imię i nazwisko lub nazwę zobowiązanego.
+- **1)** zawiera:
+    - **a)** miejsce i termin licytacji, a w przypadku licytacji za pośrednictwem Portalu eLicytacje KAS – informacje o datach i godzinach rozpoczęcia i zakończenia licytacji oraz o skutkach wystąpienia okoliczności, o których mowa w art. 107h § 3 i 4,
+    - **b)** określenie ruchomości, która ma być sprzedana, jej rodzaju i wartości szacunkowej,
+    - **c)** cenę wywołania,
+    - **d)** miejsce i termin, w którym można oglądać ruchomość przed licytacją;
 
-§ 3. Najpóźniej na 3 dni przed dniem licytacji, a w przypadkach określonych w art. 104 § 2 – najpóźniej na godzinę przed rozpoczęciem licytacji, organ egzekucyjny umieszcza obwieszczenie o licytacji w miejscu, w którym ma odbyć się licytacja, na tablicy ogłoszeń organu egzekucyjnego i w innych miejscach, gdzie umieszczenie takiego obwieszczenia uzna za celowe.
+- **2)** może zawierać inne informacje, niestanowiące danych osobowych, jeżeli organ egzekucyjny uzna ich podanie za celowe.
 
-§ 3a. Obwieszczenie o licytacji zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego organ egzekucyjny albo organu jednostki samorządu terytorialnego, w terminie, o którym mowa w § 3.
+§ 2a. Organ egzekucyjny może wraz z obwieszczeniem o licytacji publikować inne dokumenty niezawierające danych osobowych, dotyczące sprzedawanej ruchomości, jeżeli uzna to za celowe.
 
-§ 3b. Po upływie terminu licytacji wskazanego w obwieszczeniu o licytacji ruchomości organ egzekucyjny niezwłocznie usuwa to obwieszczenie z miejsc, o których mowa w § 3, oraz zaprzestaje publikowania tego obwieszczenia w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ albo organu jednostki samorządu terytorialnego.
+§ 3. Najpóźniej na 3 dni przed dniem licytacji, a w przypadkach określonych w art. 104 § 2 – najpóźniej na godzinę przed rozpoczęciem licytacji, organ egzekucyjny umieszcza obwieszczenie o licytacji na tablicy ogłoszeń organu egzekucyjnego i w miejscach, gdzie umieszczenie takiego obwieszczenia uzna za celowe. W przypadku licytacji prowadzonej przez organ egzekucyjny będący organem jednostki samorządu terytorialnego obwieszczenie o licytacji zamieszcza się również w Biuletynie Informacji Publicznej na stronie podmiotowej organu jednostki samorządu terytorialnego, a w przypadku licytacji prowadzonej przez organ egzekucyjny będący naczelnikiem urzędu skarbowego obwieszczenie o licytacji publikuje się również w Portalu eLicytacje KAS.
+
+§ 3a. Jeżeli licytacja odbywa się za pośrednictwem Portalu eLicytacje KAS, organ egzekucyjny publikuje obwieszczenie o licytacji w Portalu eLicytacje KAS najpóźniej na 7 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2 – najpóźniej na 3 dni przed dniem rozpoczęcia licytacji.
+
+§ 3b. Organ egzekucyjny niezwłocznie po zakończeniu licytacji ruchomości usuwa obwieszczenie o licytacji i dokumenty, o których mowa w § 2a, z miejsc, o których mowa w § 3, oraz zaprzestaje ich publikowania w Biuletynie Informacji Publicznej na stronie podmiotowej organu jednostki samorządu terytorialnego albo Portalu eLicytacje KAS.
 
 § 4. Odpis obwieszczenia o licytacji organ egzekucyjny doręcza zobowiązanemu najpóźniej na 3 dni przed dniem licytacji.
 
@@ -2858,18 +3117,20 @@ source: "isap-pdf"
 
 § 6. Przepisu § 5 nie stosuje się w przypadkach, gdy sprzedaż może nastąpić bezpośrednio po zajęciu ruchomości.
 
-§ 6a. W ogłoszeniu o licytacji ruchomości podaje się dane, o których mowa w § 2 pkt 1–3, numer rachunku organu egzekucyjnego, na który składa się wadium, oraz inne informacje o ruchomości, jeżeli organ egzekucyjny uzna ich podanie za celowe.
+§ 6a. W ogłoszeniu o licytacji ruchomości podaje się dane, o których mowa w § 2, oraz numer rachunku organu egzekucyjnego, na który składa się wadium.
 
 § 7. Licytacji nie można rozpocząć później niż w dwie godziny po terminie oznaczonym w obwieszczeniu o licytacji.
 
 **Art. 105b.**
 
-§ 1. Jeżeli wartość szacunkowa sprzedawanej ruchomości przekracza 10 000 zł, osoba przystępująca do licytacji publicznej składa organowi egzekucyjnemu wadium w wysokości 1/10 wartości szacunkowej. Wadium składa się na rachunek organu egzekucyjnego. Wadium uznaje się za złożone, jeżeli wpłata wadium zostanie uznana na rachunku organu egzekucyjnego najpóźniej w dniu poprzedzającym dzień, w którym ma odbyć się licytacja publiczna.
+§ 1. Jeżeli wartość szacunkowa sprzedawanej ruchomości przekracza 10 000 zł, osoba przystępująca do licytacji publicznej składa organowi egzekucyjnemu wadium w wysokości 1/10 wartości szacunkowej. Wadium składa się na rachunek organu egzekucyjnego. Wadium uznaje się za złożone, jeżeli jego wpłata zostanie uznana na rachunku organu egzekucyjnego najpóźniej w dniu poprzedzającym dzień, w którym ma odbyć się licytacja publiczna, a w przypadku licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS najpóźniej na 2 dni robocze przed dniem rozpoczęcia tej licytacji.
 
 § 2. Niepóźniej niż na godzinę przed terminem oznaczonym w obwieszczeniu o licytacji wadium może być złożone:
 
 - **1)** bezgotówkowo przy użyciu terminala płatniczego – jeżeli po stronie organu egzekucyjnego istnieją warunki techniczne do zapłaty bezgotówkowej przy użyciu terminala płatniczego;
 - **2)** gotówką pracownikowi obsługującemu organ egzekucyjny – jeżeli wadium nie przekracza 5000 zł.
+
+§ 2a. Przepisów § 2 nie stosuje się do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS.
 
 § 3. Wadium złożone przez licytanta, któremu udzielono przybicia, zatrzymuje się i zalicza się na cenę nabycia. Wadium zwraca się pozostałym licytantom w przypadku jego złożenia:
 
@@ -2880,7 +3141,7 @@ source: "isap-pdf"
 
 **Art. 105c.**
 
-§ 1. Licytacja odbywa się ustnie i rozpoczyna się od wywołania ceny. Zaoferowana cena przestaje wiązać uczestnika licytacji, jeżeli inny uczestnik zaoferował cenę wyższą, zwaną dalej „postąpieniem”. Pracownik obsługujący organ egzekucyjny udzieli przybicia licytantowi, który zaoferował najwyższą cenę, jeżeli po trzykrotnym wezwaniu do dalszych postąpień nie zaoferowano wyższej ceny.
+§ 1. Licytacja odbywa się ustnie i rozpoczyna się od wywołania ceny. Zaoferowana cena przestaje wiązać uczestnika licytacji, jeżeli inny uczestnik zaoferował cenę wyższą, zwaną dalej „postąpieniem”, przy czym nie może ono wynosić mniej niż jeden procent ceny wywołania z zaokrągleniem wzwyż do pełnych złotych. Pracownik obsługujący organ egzekucyjny udzieli przybicia licytantowi, który zaoferował najwyższą cenę, jeżeli po trzykrotnym wezwaniu do dalszych postąpień nie zaoferowano wyższej ceny.
 
 § 2. Licytacja dochodzi do skutku, jeżeli weźmie w niej udział przynajmniej jeden licytant, który zaoferował co najmniej cenę wywołania.
 
@@ -2918,7 +3179,9 @@ source: "isap-pdf"
 
 § 1. Prawo własności zajętych ruchomości, będących przedmiotem licytacji, nabywa osoba, która z zachowaniem przepisów o przeprowadzaniu licytacji zaoferowała najwyższą cenę, uzyskała przybicie i zapłaciła całą cenę w terminie. Nabywca nie może domagać się unieważnienia licytacji i nabycia ruchomości ani też obniżenia ceny jej nabycia z powodu jej wad, mylnego oszacowania lub innej przyczyny.
 
-§ 2. (uchylony) § 2a. Zobowiązany, wierzyciel oraz uczestnik licytacji mogą zgłosić do protokołu licytacji skargę na naruszenie przepisów o przeprowadzaniu licytacji. Skarga podlega rozpatrzeniu w terminie 7 dni od dnia zgłoszenia.
+§ 2. (uchylony)
+
+§ 2a. Zobowiązany, wierzyciel oraz uczestnik licytacji mogą zgłosić do protokołu licytacji skargę na naruszenie przepisów o przeprowadzaniu licytacji. Skarga podlega rozpatrzeniu w terminie 7 dni od dnia zgłoszenia.
 
 § 2b. W sprawie skargi na naruszenie przepisów o przeprowadzaniu licytacji postanowienie wydaje organ egzekucyjny. Na postanowienie organu egzekucyjnego oddalające skargę służy zażalenie.
 
@@ -2926,7 +3189,7 @@ source: "isap-pdf"
 
 § 2d. Nabywca może zrzec się nabytej rzeczy i żądać zwrotu zapłaconej ceny, jeżeli w terminie, o którym mowa w § 2a, skarga nie została rozpatrzona, a nabywcy rzecz nie została wydana.
 
-§ 3. Licytacja, przeprowadzona z naruszeniem przepisów o jej publicznym charakterze, o cenie wywołania i nabycia oraz o wyłączeniu od udziału w licytacji, podlega unieważnieniu przez organ egzekucyjny lub jego organ nadzorczy. Unieważnienie licytacji może jednak nastąpić tylko wtedy, gdy ruchomości sprzedane znajdują się jeszcze we władaniu nabywcy.
+§ 3. Licytacja, przeprowadzona z naruszeniem przepisów o jej publicznym charakterze, o cenie wywołania i nabycia oraz o wyłączeniu od udziału w licytacji, podlega unieważnieniu przez organ egzekucyjny lub jego organ nadzorczy. Unieważnienie licytacji może jednak nastąpić tylko wtedy, gdy ruchomości sprzedane nie zostały wydane nabywcy.
 
 § 4. W licytacji nie mogą uczestniczyć:
 
@@ -2994,9 +3257,119 @@ source: "isap-pdf"
 
 § 5. Licytacja elektroniczna trwa niekrócej niż 7 dni od dnia jej rozpoczęcia.
 
+**Art. 107f.**
+
+§ 1. Licytacja publiczna ruchomości może odbywać się za pośrednictwem Portalu eLicytacje KAS.
+
+§ 2. Warunkiem dopuszczenia do udziału w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS i udziału w tej licytacji jest:
+
+- **1)** zgoda na doręczanie pism drogą elektroniczną za pośrednictwem konta w e-Urzędzie Skarbowym;
+- **2)** wskazanie, że uczestniczy się w licytacji we własnym imieniu;
+- **3)** podanie imienia i nazwiska oraz:
+    - **a)** numeru PESEL, jeżeli posiada się taki numer,
+    - **b)** niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), jeżeli nie posiada się numeru PESEL;
+
+- **4)** oświadczenie, czy pozostaje się w związku małżeńskim, a jeżeli pozostaje się w związku małżeńskim – czy ruchomość zamierza się nabyć do majątku wspólnego czy osobistego;
+- **5)** w przypadku ruchomości, o których mowa w art. 105 § 5 i 6, złożenie za pośrednictwem konta w e-Urzędzie Skarbowym zezwolenia, koncesji lub innego dokumentu uprawniającego do nabycia ruchomości albo ich kopii utrwalonych w postaci elektronicznej, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **6)** wpłacenie wadium, o ile jest wymagane.
+
+§ 3. Warunkiem dopuszczenia do udziału w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS i udziału w tej licytacji pełnomocnika, przedstawiciela ustawowego lub statutowego albo opiekuna, zwanych dalej „pełnomocnikiem w licytacji”, jest:
+
+- **1)** zgoda pełnomocnika w licytacji na doręczanie pism drogą elektroniczną za pośrednictwem konta w e-Urzędzie Skarbowym;
+- **2)** wskazanie, że uczestniczy się w licytacji jako pełnomocnik w licytacji;
+- **3)** podanie imienia i nazwiska pełnomocnika w licytacji oraz:
+    - **a)** numeru PESEL, jeżeli posiada się taki numer,
+    - **b)** niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym, jeżeli nie posiada się numeru PESEL;
+
+- **4)** oświadczenie, czy osoba reprezentowana przez pełnomocnika w licytacji pozostaje w związku małżeńskim, a jeżeli pozostaje w związku małżeńskim – czy ruchomość zamierza nabyć do majątku wspólnego czy osobistego;
+- **5)** w przypadku reprezentowania:
+    - **a)** osoby fizycznej – podanie jej imienia i nazwiska oraz numeru PESEL, a w przypadku braku numeru PESEL – numeru i rodzaju dokumentu stwierdzającego jej tożsamość,
+    - **b)** osoby prawnej albo jednostki organizacyjnej niebędącej osobą prawną – podanie jej nazwy oraz NIP, a w przypadku braku NIP – innego numeru identyfikacyjnego ze wskazaniem jego rodzaju;
+
+- **6)** złożenie za pośrednictwem konta w e-Urzędzie Skarbowym pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości albo kopii utrwalonych w postaci elektronicznej pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **7)** w przypadku ruchomości, o których mowa w art. 105 § 5 i 6, złożenie za pośrednictwem konta w e-Urzędzie Skarbowym zezwolenia, koncesji lub innego dokumentu uprawniającego podmiot reprezentowany do nabycia ruchomości albo ich kopii utrwalonych w postaci elektronicznej, najpóźniej na 5 dni przed dniem rozpoczęcia licytacji, a w przypadkach określonych w art. 104 § 2, najpóźniej na 2 dni robocze przed dniem rozpoczęcia licytacji;
+- **8)** wpłacenie wadium, o ile jest wymagane.
+
+§ 4. Organ egzekucyjny zawiadamia o odmowie dopuszczenia do udziału w licytacji za pośrednictwem Portalu eLicytacje KAS podmiot, który nie spełnia warunków, o których mowa w § 2 albo 3, pouczając o przysługującym mu prawie wniesienia skargi na odmowę dopuszczenia do udziału w licytacji.
+
+§ 5. Podmiot, który nie został dopuszczony do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS, może złożyć skargę w terminie 3 dni od dnia skierowania zawiadomienia, o którym mowa w § 4. Przepisy art. 107 § 2a zdanie drugie i § 2b–2d stosuje się odpowiednio.
+
+§ 6. W przypadku uwzględnienia skargi, o której mowa w § 5:
+
+- **1)** podmiot zostaje dopuszczony do udziału w licytacji, o ile licytacja nie została zakończona;
+- **2)** organ egzekucyjny albo organ sprawujący nadzór unieważnia licytację, jeżeli licytacja została zakończona, a ruchomość nie została wydana nabywcy.
+
+**Art. 107g.** Licytant może przystąpić do licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS do czasu jej zakończenia, jeżeli licytuje we własnym imieniu, nie ma obowiązku złożenia wadium i licytacja nie dotyczy ruchomości, o których mowa w art. 105 § 5 i 6.
+
+**Art. 107h.**
+
+§ 1. Czas trwania licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS wynosi 7 dni, a w przypadkach określonych w art. 104 § 2, niekrócej niż 2 dni i niedłużej niż 7 dni. Czas trwania licytacji wyznacza się w taki sposób, aby terminy jej rozpoczęcia i zakończenia przypadały pomiędzy godziną 9.00 a 12.00 w dni robocze.
+
+§ 2. W trakcie licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS ujawnia się najwyższą aktualną cenę i część unikalnego identyfikatora licytanta, który ją zaoferował, oraz czas pozostały do zakończenia licytacji.
+
+§ 3. Jeżeli w ciągu 5 minut przed wyznaczonym terminem zakończenia licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS zgłoszono postąpienie, termin ten ulega przedłużeniu o 5 minut. Jeżeli w dodatkowym czasie zgłoszono dalsze postąpienie, termin zakończenia tej licytacji podlega każdorazowo przedłużeniu o kolejne 5 minut aż do momentu, gdy ustaną postąpienia. Maksymalny czas przedłużenia czasu trwania tej licytacji wynosi 72 godziny.
+
+§ 4. Jeżeli z przyczyn technicznych nastąpi przerwa w licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS, termin zakończenia licytacji ulega przesunięciu o czas trwania przerwy. Po zakończeniu przerwy wznawia się niezwłocznie licytację tej samej ruchomości z uwzględnieniem ostatniego postąpienia. O wznowieniu licytacji organ prowadzący Portal eLicytacje KAS obwieszcza w Portalu eLicytacje KAS.
+
+**Art. 107i.**
+
+§ 1. Niezwłocznie po zakończeniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny udziela w Portalu eLicytacje KAS przybicia licytantowi, który zaoferował najwyższą cenę w chwili zakończenia licytacji i zawiadamia go o tym przybiciu. Jednocześnie obwieszcza w Portalu eLicytacje KAS o przybiciu, przy czym nie upublicznia danych osobowych licytanta. Obwieszczenie zawiera pouczenie o przysługującym prawie wniesienia skargi, o której mowa w art. 107j § 1.
+
+§ 2. Jeżeli w celu dopuszczenia do udziału w licytacji ruchomości zostały przedłożone kopie utrwalone w postaci elektronicznej pełnomocnictwa lub innego dokumentu upoważniającego do nabycia ruchomości, zezwolenia, koncesji lub innego dokumentu uprawniającego do nabycia ruchomości, organ egzekucyjny:
+
+- **1)** wstrzymuje udzielenie przybicia, o czym obwieszcza w Portalu eLicytacje KAS;
+- **2)** wzywa licytanta do przedłożenia tych dokumentów, w terminie 3 dni od dnia doręczenia wezwania, pod rygorem odmowy udzielenia przybicia, utraty prawa do zwrotu wadium oraz prawa uczestniczenia w licytacji tej samej ruchomości.
+
+§ 3. Przybicie następuje niezwłocznie po przedłożeniu dokumentów, o których mowa w § 2, o czym organ egzekucyjny obwieszcza w Portalu eLicytacje KAS.
+
+§ 4. W przypadku nieprzedłożenia dokumentów, o których mowa w § 2, w terminie, o którym mowa w § 2 pkt 2, licytant nie uzyskuje przybicia, traci prawo do zwrotu wadium oraz nie może uczestniczyć w licytacji tej samej ruchomości.
+
+§ 5. W przypadku, o którym mowa w § 4, organ egzekucyjny obwieszcza o odmowie przybicia i wyznacza ponowną licytację na warunkach licytacji, w której nie przedłożono dokumentów, o których mowa w § 2.
+
+§ 6. Organ egzekucyjny wraz z zawiadomieniem o przybiciu zawiadamia licytanta, o którym mowa w § 1, o:
+
+- **1)** wstrzymaniu wydania sprzedanej rzeczy do czasu rozpatrzenia skarg, o których mowa w art. 107f § 5 i art. 107j § 1;
+- **2)** przysługującym mu prawie do zrzeczenia się nabytej rzeczy i żądania zwrotu zapłaconej ceny – w przypadku gdy skargi, o których mowa w art. 107f § 5 i art. 107j § 1, nie zostały rozpatrzone w terminie, o ile rzecz nie została wydana nabywcy.
+
+**Art. 107j.**
+
+§ 1. Skargę na naruszenie przepisów o przeprowadzaniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS mogą złożyć zobowiązany, wierzyciel oraz licytant niepóźniej niż w terminie 3 dni od dnia obwieszczenia w Portalu eLicytacje KAS o udzieleniu przybicia. Przepisy art. 107 § 2a zdanie drugie i § 2b–2d stosuje się odpowiednio.
+
+§ 2. W przypadku uwzględnienia skargi, o której mowa w § 1, organ egzekucyjny albo organ sprawujący nadzór unieważnia licytację, o ile ruchomość nie została wydana nabywcy.
+
+**Art. 107k.**
+
+§ 1. Nabywca ruchomości w drodze licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS płaci cenę nabycia na rachunek organu egzekucyjnego niezwłocznie, niepóźniej niż w dniu następującym po dniu zawiadomienia o przybiciu, a jeżeli ten dzień przypada w sobotę lub w dzień ustawowo wolny od pracy – w dniu następującym po dniu lub dniach wolnych od pracy. Do zapłaty stosuje się odpowiednio przepisy art. 67g pkt 1 lit. b i pkt 2.
+
+§ 2. W przypadku niezapłacenia ceny nabycia w terminie, o którym mowa w § 1, nabywca traci prawo wynikłe z przybicia i do zwrotu wadium oraz nie może uczestniczyć w licytacji tej samej ruchomości. Organ egzekucyjny wyznacza ponowną licytację na warunkach licytacji, w której nabywca nie zapłacił ceny nabycia.
+
+**Art. 107l.** Organ egzekucyjny niezwłocznie po zakończeniu licytacji ruchomości za pośrednictwem Portalu eLicytacje KAS usuwa z Portalu eLicytacje KAS informacje dotyczące sprzedaży ruchomości.
+
 **Art. 108.**
 
-§ 1. Zajęte ruchomości, które nie zostały sprzedane w trybie wskazanym w art. 105 § 1 pkt 1–4, a w przypadku sprzedaży licytacyjnej – w drugim jej terminie, organ egzekucyjny sprzedaje z wolnej ręki po cenie określonej przez ten organ, jednak nieniższej od 1/10 ich wartości szacunkowej.
+§ 1. Zajęte ruchomości, które nie zostały sprzedane w trybie wskazanym w art. 105 § 1 pkt 1–4, a w przypadku sprzedaży licytacyjnej – w drugim jej terminie, organ egzekucyjny sprzedaje z wolnej ręki po cenie określonej przez ten organ, jednak nieniższej od 1/10 ich wartości szacunkowej. W sprzedaży ruchomości z wolnej ręki nie mogą uczestniczyć osoby, o których mowa w art. 107 § 4.
+
+§ 1a. W przypadku sprzedaży ruchomości z wolnej ręki przez organ egzekucyjny będący naczelnikiem urzędu skarbowego ogłoszenie o tej sprzedaży zamieszcza się w Portalu eLicytacje KAS najpóźniej na 7 dni przed dniem rozpoczęcia tej sprzedaży, a w przypadkach określonych w art. 104 § 2, najpóźniej na 3 dni przed tym dniem.
+
+§ 1b. W przypadku gdy sprzedaż z wolnej ręki odbywa się za pośrednictwem Portalu eLicytacje KAS, ogłoszenie o tej sprzedaży zawiera:
+
+- **1)** określenie ruchomości, która ma być sprzedana, jej rodzaju oraz wartości szacunkowej;
+- **2)** cenę sprzedaży;
+- **3)** miejsce i termin, w którym można oglądać ruchomość;
+- **4)** informacje o dacie i godzinie rozpoczęcia sprzedaży z wolnej ręki, maksymalnym czasie trwania tej sprzedaży oraz o skutkach wystąpienia okoliczności, o których mowa w § 1e;
+- **5)** inne informacje, niestanowiące danych osobowych, jeżeli organ egzekucyjny uzna ich podanie za celowe.
+
+§ 1c. W przypadku gdy sprzedaż z wolnej ręki odbywa się za pośrednictwem Portalu eLicytacje KAS, organ egzekucyjny może wraz z ogłoszeniem, o którym mowa w § 1b, publikować inne dokumenty niezawierające danych osobowych, dotyczące sprzedawanej ruchomości, jeżeli uzna to za celowe.
+
+§ 1d. Czas trwania sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS wynosi 30 dni, a w przypadkach określonych w art. 104 § 2, niekrócej niż 2 dni i niedłużej niż 7 dni, chyba że przed upływem terminu zaoferowano co najmniej cenę wyznaczoną przez organ egzekucyjny. Czas trwania sprzedaży wyznacza się w taki sposób, aby terminy jej rozpoczęcia i zakończenia przypadały pomiędzy godziną 9.00 a 12.00 w dni robocze.
+
+§ 1e. Jeżeli z przyczyn technicznych nastąpi przerwa w sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS, termin zakończenia sprzedaży ulega przesunięciu o czas trwania przerwy. Po zakończeniu przerwy wznawia się niezwłocznie tę sprzedaż. O wznowieniu tej sprzedaży organ prowadzący Portal eLicytacje KAS obwieszcza w Portalu eLicytacje KAS.
+
+§ 1f. Sprzedaż z wolnej ręki za pośrednictwem Portalu eLicytacje KAS następuje na rzecz nabywcy, który jako pierwszy zaoferował cenę nabycia, o czym organ egzekucyjny zawiadamia nabywcę.
+
+§ 1g. Organ egzekucyjny niezwłocznie po zakończeniu sprzedaży ruchomości z wolnej ręki zaprzestaje publikowania w Portalu eLicytacje KAS ogłoszenia o tej sprzedaży i dokumentów, o których mowa w § 1c.
+
+§ 1h. Do sprzedaży ruchomości z wolnej ręki za pośrednictwem Portalu eLicytacje KAS przepisy art. 107f § 1, § 2 pkt 1–5, § 3 pkt 1‒7 i § 4–6, art. 107g, art. 107i § 2 i 4–6 oraz art. 107j–107l stosuje się odpowiednio.
 
 § 2. Zajęte ruchomości, niesprzedane w trybie § 1, organ egzekucyjny sprzedaje po cenie stosowanej przy skupie przedmiotów używanych lub skupie surowców wtórnych jednostkom organizacyjnym ochrony zdrowia i pomocy społecznej, placówkom oświatowym, instytucjom kultury oraz organizacjom charytatywnym, jeżeli mogą być przez te podmioty wykorzystane przy realizacji ich zadań statutowych.
 
@@ -3035,7 +3408,15 @@ source: "isap-pdf"
 
 **Art. 110.**
 
-§ 1. (uchylony) § 1a. (uchylony) § 2. (uchylony) § 3. (uchylony) § 3a. Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją administracyjną z nieruchomości po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego, państwem członkowskim, państwem trzecim lub Państwową Inspekcją Pracy, zwanego dalej „wierzycielem finansującym”. Przepis art. 29a stosuje się odpowiednio.
+§ 1. (uchylony)
+
+§ 1a. (uchylony)
+
+§ 2. (uchylony)
+
+§ 3. (uchylony)
+
+§ 3a. Organ egzekucyjny podejmuje czynności egzekucyjne związane z egzekucją administracyjną z nieruchomości po otrzymaniu zaliczki na pokrycie przewidywanych wydatków od wierzyciela niebędącego naczelnikiem urzędu skarbowego, państwem członkowskim, państwem trzecim lub Państwową Inspekcją Pracy, zwanego dalej „wierzycielem finansującym”. Przepis art. 29a stosuje się odpowiednio.
 
 § 4. Wierzyciel finansujący wpłaca zaliczkę do organu egzekucyjnego sukcesywnie, w miarę podejmowania przez ten organ kolejnych czynności egzekucyjnych. Wysokość poszczególnych wpłat zaliczki określa organ egzekucyjny na podstawie przewidywanych wydatków, z tym że jeżeli do egzekucji z nieruchomości przystąpili kolejni wierzyciele finansujący – również dla tych wierzycieli, rozdzielając kwotę zaliczki między wszystkich wierzycieli finansujących w proporcji odpowiadającej stosunkowi ich należności pieniężnych do łącznej kwoty należności pieniężnych wierzycieli finansujących, z zastrzeżeniem § 5.
 
@@ -3048,6 +3429,11 @@ source: "isap-pdf"
 **Art. 110a.** Jeżeli nieruchomość położona jest na obszarze działania kilku organów egzekucyjnych, organ prowadzący egzekucję powiadamia o wszczęciu, a następnie o ukończeniu egzekucji inne organy egzekucyjne, na których obszarze działania nieruchomość jest położona.
 
 **Art. 110b.** Uczestnikami postępowania egzekucyjnego z nieruchomości są:
+
+- **1)** zobowiązany;
+- **2)** wierzyciele egzekwujący;
+- **3)** osoby, którym przysługują ograniczone prawa rzeczowe lub roszczenia albo prawa osobiste zabezpieczone na nieruchomości;
+- **4)** organ, który zawarł umowę o oddanie nieruchomości w użytkowanie wieczyste, jeżeli przedmiotem egzekucji jest użytkowanie wieczyste.
 
 ##### Oddział 2 Zajęcie
 
@@ -3092,7 +3478,9 @@ source: "isap-pdf"
 
 **Art. 110f.**
 
-§ 1. (uchylony) § 2. Rozporządzenia przedmiotami podlegającymi zajęciu razem z nieruchomością po ich zajęciu są nieważne. Nie dotyczy to rozporządzeń zarządcy nieruchomości w zakresie jego ustawowych uprawnień.
+§ 1. (uchylony)
+
+§ 2. Rozporządzenia przedmiotami podlegającymi zajęciu razem z nieruchomością po ich zajęciu są nieważne. Nie dotyczy to rozporządzeń zarządcy nieruchomości w zakresie jego ustawowych uprawnień.
 
 § 3. Rozporządzenie opróżnionym miejscem hipotecznym po zajęciu nieruchomości jest nieważne.
 
@@ -3224,13 +3612,23 @@ source: "isap-pdf"
 
 § 1. Do oszacowania wartości zajętej nieruchomości organ egzekucyjny wyznacza rzeczoznawcę majątkowego, o którym mowa w przepisach o gospodarce nieruchomościami.
 
-§ 2. (uchylony) § 3. W oszacowaniu poza wartością całej nieruchomości należy podać osobno wartość przynależności i pożytków, a także części nieruchomości, która zgodnie z art. 110p może zostać wydzielona celem wystawienia oddzielnie na licytację.
+§ 2. (uchylony)
 
-§ 4. Wartości, o których mowa w § 3, podaje się z uwzględnieniem oraz bez uwzględnienia praw, które pozostają w mocy bez zaliczenia na cenę nabycia, oraz wartości praw nieokreślonych sumą pieniężną obciążających nieruchomość, w szczególności świadczeń z tytułu takich praw. Art. 110sa. § 1. Opisem i oszacowaniem obejmuje się odrębnie każdą nieruchomość stanowiącą przedmiot egzekucji, jeżeli jest ona wpisana do odrębnej księgi wieczystej lub jest dla niej prowadzony odrębny zbiór dokumentów.
+§ 3. W oszacowaniu poza wartością całej nieruchomości należy podać osobno wartość przynależności i pożytków, a także części nieruchomości, która zgodnie z art. 110p może zostać wydzielona celem wystawienia oddzielnie na licytację.
+
+§ 4. Wartości, o których mowa w § 3, podaje się z uwzględnieniem oraz bez uwzględnienia praw, które pozostają w mocy bez zaliczenia na cenę nabycia, oraz wartości praw nieokreślonych sumą pieniężną obciążających nieruchomość, w szczególności świadczeń z tytułu takich praw.
+
+**Art. 110sa.**
+
+§ 1. Opisem i oszacowaniem obejmuje się odrębnie każdą nieruchomość stanowiącą przedmiot egzekucji, jeżeli jest ona wpisana do odrębnej księgi wieczystej lub jest dla niej prowadzony odrębny zbiór dokumentów.
 
 § 2. Jeżeli egzekucje z kilku nieruchomości tego samego zobowiązanego, które są wpisane do odrębnych ksiąg wieczystych lub dla których są prowadzone odrębne zbiory dokumentów, zostały połączone w jedną egzekucję z nieruchomości i nieruchomości te stanowią całość gospodarczą, opis i oszacowanie obejmuje tę całość i odrębnie każdą z tych nieruchomości.
 
 **Art. 110t.** Jeżeli zostały zgłoszone prawa osób trzecich do gruntu, obiektów budowlanych, przynależności lub pożytków albo gdy składniki takie znajdują się we władaniu osób trzecich, oznacza się:
+
+- **1)** wartość spornego składnika i wartość całości nieruchomości po wyłączeniu tego składnika;
+- **2)** wartość całości nieruchomości z uwzględnieniem i bez uwzględnienia praw, które pozostają w mocy bez zaliczenia na cenę nabycia;
+- **3)** wartości praw nieokreślonych sumą pieniężną, obciążających nieruchomość, w szczególności świadczeń z tytułu takich praw.
 
 **Art. 110u.**
 
@@ -3244,6 +3642,8 @@ source: "isap-pdf"
 
 § 1. Zajętą nieruchomość organ egzekucyjny sprzedaje w drodze licytacji publicznej.
 
+§ 1a. Organ egzekucyjny może wybrać formę przeprowadzenia licytacji publicznej odrębnie dla każdego z trzech terminów licytacyjnych.
+
 § 2. Termin licytacji nie może być wyznaczony wcześniej niż po upływie 30 dni od dnia doręczenia zobowiązanemu opisu i oszacowania wartości nieruchomości.
 
 § 3. O licytacji organ egzekucyjny zawiadamia przez publiczne obwieszczenie, w którym podaje:
@@ -3251,11 +3651,13 @@ source: "isap-pdf"
 - **1)** termin i miejsce licytacji;
 - **2)** oznaczenie nieruchomości, która ma być sprzedana, ze wskazaniem miejsca jej położenia i przeznaczenia gospodarczego oraz księgi wieczystej lub zbioru dokumentów ze wskazaniem sądu, w którym są prowadzone;
 - **3)** oszacowaną wartość nieruchomości i cenę wywoławczą;
-- **4)** firmę lub imię i nazwisko zobowiązanego;
+- **4)** (uchylony)
 - **5)** wysokość wadium, jakie licytant przystępujący do licytacji powinien złożyć, z zaznaczeniem, że wadium składa się na rachunek organu egzekucyjnego;
 - **6)** czas, w którym w terminie 14 dni przed dniem licytacji będzie wolno oglądać nieruchomość oraz przeglądać w urzędzie skarbowym akta postępowania egzekucyjnego;
 - **7)** wzmiankę, że prawa osób trzecich nie będą przeszkodą do licytacji i przyznania nabywcy własności nieruchomości bez zastrzeżeń, jeżeli osoby te nie wystąpiły wcześniej o wyłączenie nieruchomości lub jej przynależności spod egzekucji;
 - **8)** wyjaśnienie, że użytkowanie, służebności i prawa dożywotnika, jeżeli nie są ujawnione w księdze wieczystej lub przez złożenie dokumentu do zbioru dokumentów i nie zostaną zgłoszone najpóźniej na 3 dni przed rozpoczęciem licytacji, nie będą uwzględnione w dalszym toku egzekucji i wygasną z chwilą, w której postanowienie o przyznaniu własności stanie się ostateczne.
+
+§ 3a. Obwieszczenie o sprzedaży nieruchomości w drodze licytacji za pośrednictwem Portalu eLicytacje KAS zawiera dane, o których mowa w § 3 pkt 2 i 3 oraz 5–8. Przepisy art. 105a § 2 pkt 1 lit. a i pkt 2 oraz § 2a stosuje się odpowiednio.
 
 § 4. Obwieszczenie o licytacji doręcza się:
 
@@ -3263,9 +3665,11 @@ source: "isap-pdf"
 - **2)** właściwej jednostce samorządu terytorialnego oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóźniej w dniu licytacji zgłosiły zestawienie podatków i innych danin publicznych, należnych na dzień licytacji;
 - **3)** osobom mającym prawo pierwokupu nieruchomości, jeżeli prawo to zostało wpisane do księgi wieczystej prowadzonej dla nieruchomości.
 
-§ 5. Obwieszczenie o licytacji wywiesza się na tablicy ogłoszeń organu egzekucyjnego prowadzącego egzekucję z nieruchomości oraz zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ, co najmniej na 30 dni przed terminem licytacji.
+§ 5. Obwieszczenie o licytacji wywiesza się na tablicy ogłoszeń organu egzekucyjnego prowadzącego egzekucję z nieruchomości, a w przypadku licytacji prowadzonej przez organ egzekucyjny będący naczelnikiem urzędu skarbowego zamieszcza się również w Portalu eLicytacje KAS, najpóźniej na 30 dni przed terminem licytacji.
 
 § 5a. Organ egzekucyjny może zarządzić ogłoszenie o licytacji w prasie lub w inny sposób, jeżeli uzna to za celowe.
+
+§ 5b. Jednocześnie z obwieszczeniem o licytacji za pośrednictwem Portalu eLicytacje KAS, w portalu tym zamieszcza się protokół opisu i oszacowania wartości nieruchomości, przy czym nie podlegają upublicznieniu dane osobowe zawarte w tym protokole.
 
 § 6. Na wniosek i koszt zobowiązanego lub wierzyciela organ egzekucyjny może zarządzić ogłoszenie o licytacji w sposób przez nich wskazany.
 
@@ -3273,7 +3677,32 @@ source: "isap-pdf"
 
 § 8. Jeżeli egzekucja dotyczy jednej nieruchomości położonej na obszarze działania różnych organów egzekucyjnych lub kilku takich nieruchomości, obwieszczenie wywiesza się również na tablicy ogłoszeń tych organów.
 
-§ 9. Po upływie terminu licytacji wskazanego w obwieszczeniu o licytacji nieruchomości organ egzekucyjny niezwłocznie usuwa to obwieszczenie z tablic ogłoszeń, o których mowa w § 5 i 8, oraz zaprzestaje publikowania tego obwieszczenia w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ten organ.
+§ 9. Organ egzekucyjny niezwłocznie po zakończeniu licytacji nieruchomości:
+
+- **1)** usuwa obwieszczenie o licytacji i inne dokumenty dotyczące sprzedawanej nieruchomości z tablic ogłoszeń, o których mowa w § 5 i 8;
+- **2)** zaprzestaje publikowania obwieszczenia o licytacji, protokołu opisu i oszacowania wartości nieruchomości i innych dokumentów dotyczących sprzedawanej nieruchomości w Portalu eLicytacje KAS.
+
+**Art. 110wa.**
+
+§ 1. Licytacja publiczna nieruchomości może odbywać się za pośrednictwem Portalu eLicytacje KAS.
+
+§ 2. Jeżeli przedmiotem licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS jest kilka nieruchomości lub kilka części jednej nieruchomości, organ egzekucyjny przed obwieszczeniem o licytacji zawiadamia zobowiązanego o uprawnieniu wynikającym z art. 111c § 4.
+
+§ 3. Zobowiązany może zrealizować uprawnienie wynikające z art. 111c § 4 w terminie 7 dni od dnia doręczenia mu zawiadomienia, o którym mowa w § 2. Po upływie tego terminu kolejność przeprowadzenia licytacji poszczególnych nieruchomości lub ich części określa organ egzekucyjny.
+
+§ 4. Licytacje dotyczące kilku nieruchomości lub kilku części jednej nieruchomości za pośrednictwem Portalu eLicytacje KAS nie mogą się toczyć równocześnie, chyba że łączna wysokość sumy oszacowania wartości tych nieruchomości nie przekracza łącznej wysokości należności wierzycieli egzekwujących i kosztów egzekucyjnych.
+
+**Art. 110wb.**
+
+§ 1. Licytację publiczną nieruchomości za pośrednictwem Portalu eLicytacje KAS wygrywa licytant, który w chwili zakończenia licytacji nieruchomości zaoferował najwyższą cenę.
+
+§ 2. Niezwłocznie po zakończeniu licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny obwieszcza w Portalu eLicytacje KAS o wyłonieniu licytanta, który zaoferował najwyższą cenę w chwili zakończenia licytacji, przy czym nie upublicznia jego danych osobowych, i zawiadamia go o tym wyłonieniu. Obwieszczenie zawiera pouczenie o przysługującym prawie wniesienia skargi, o której mowa w § 3.
+
+§ 3. Skargę na naruszenie przepisów o przeprowadzeniu licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS mogą złożyć zobowiązany, wierzyciel oraz licytant niepóźniej niż w terminie 3 dni od dnia obwieszczenia w Portalu eLicytacje KAS o wyłonieniu licytanta, który zaoferował najwyższą cenę w chwili zakończenia licytacji.
+
+§ 4. Organ egzekucyjny wydaje postanowienie w sprawie skargi, o której mowa w § 3, w terminie 7 dni od dnia jej złożenia. Na postanowienie oddalające skargę służy zażalenie.
+
+§ 5. Do licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS przepisy art. 107f § 2–6, art. 107h, art. 107i § 2–5 oraz art. 107l stosuje się odpowiednio.
 
 **Art. 110y.**
 
@@ -3422,11 +3851,13 @@ source: "isap-pdf"
 
 § 1. Organ egzekucyjny odmawia przybicia, jeżeli ostateczne rozstrzygnięcia skarg lub zażaleń wniesionych w toku postępowania egzekucyjnego potwierdzą naruszenie przepisów postępowania w toku licytacji i jeżeli uchybienia te mogły mieć istotny wpływ na wynik licytacji albo, jeżeli uczestnik nie otrzymał zawiadomienia o licytacji, chyba że będąc na licytacji nie wystąpił ze skargą na to uchybienie.
 
+§ 1a. W przypadku licytacji nieruchomości za pośrednictwem Portalu eLicytacje KAS organ egzekucyjny odmawia przybicia, jeżeli ostateczne rozstrzygnięcie skargi na odmowę dopuszczenia do udziału potwierdzi naruszenie przepisów o dopuszczeniu do licytacji. Przepisu zdania pierwszego nie stosuje się w przypadku uwzględnienia skargi przed zakończeniem licytacji i dopuszczenia podmiotu do udziału w tej licytacji.
+
 § 2. Organ egzekucyjny odmawia przybicia również wtedy, gdy postępowanie egzekucyjne podlegało umorzeniu lub zawieszeniu.
 
 § 3. Organ egzekucyjny wyznacza ponowną licytację:
 
-- **1)** jeżeli odmówi przybicia z przyczyn, o których mowa w § 1;
+- **1)** jeżeli odmówi przybicia z przyczyn, o których mowa w § 1 i 1a;
 - **2)** po ustaniu przyczyny zawieszenia.
 
 **Art. 111o.**
@@ -3574,8 +4005,7 @@ source: "isap-pdf"
 
 § 5b. Roszczenia nabywcy wynikające z:
 
-- **1)** odstąpienia od umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz.
-- **27)** , albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 tej ustawy, lub
+- **1)** odstąpienia od umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27), albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 tej ustawy, lub
 - **2)** przekształcenia roszczenia z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, w toku postępowania restrukturyzacyjnego lub upadłościowego – podlegają zaspokojeniu z kwoty uzyskanej z egzekucji z nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, o których mowa w art. 5 pkt 7 i 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, na takich samych zasadach, jak roszczenie z umowy deweloperskiej albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 tej ustawy, z pierwszeństwem wynikającym z ujawnienia w księdze wieczystej przysługującego nabywcy roszczenia wynikającego z tych umów także w przypadku, gdy wpis o ujawnieniu tego roszczenia został wykreślony.
 
 § 5c. Roszczenie Ubezpieczeniowego Funduszu Gwarancyjnego wynikające z art. 48 ust. 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym podlega zaspokojeniu z kwoty uzyskanej z egzekucji z nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie lub zadanie inwestycyjne, o których mowa w art. 5 pkt 7 i 8 tej ustawy, z pierwszeństwem wynikającym z ujawnienia w księdze wieczystej przysługującego Ubezpieczeniowemu Funduszowi Gwarancyjnemu roszczenia także w przypadku, gdy wpis o ujawnieniu roszczenia z umowy deweloperskiej, o której mowa w art. 5 pkt 6 tej ustawy, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, został wykreślony.
@@ -3604,7 +4034,9 @@ source: "isap-pdf"
 
 § 7. Jeżeli nie złożono wniosku o wydanie postanowienia w sprawie podziału kwoty uzyskanej z egzekucji w terminie określonym w § 4 lub postanowienie w sprawie podziału kwoty uzyskanej z egzekucji stało się ostateczne, organ egzekucyjny przekazuje wierzycielom przypadające im kwoty.
 
-§ 8. Organ egzekucyjny przekazuje wierzycielowi przypadające mu należności pieniężne, jeżeli wynoszą one więcej niż 20 zł, chyba że dochodzone należności pieniężne nie przekraczają tej kwoty. Art. 115aa. W przypadku zapłaty organowi egzekucyjnemu egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych przepis art. 115 stosuje się odpowiednio.
+§ 8. Organ egzekucyjny przekazuje wierzycielowi przypadające mu należności pieniężne, jeżeli wynoszą one więcej niż 20 zł, chyba że dochodzone należności pieniężne nie przekraczają tej kwoty.
+
+**Art. 115aa.** W przypadku zapłaty organowi egzekucyjnemu egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych przepis art. 115 stosuje się odpowiednio.
 
 ##### Oddział 2 Zasady szczególne dotyczące podziału kwoty uzyskanej z egzekucji z nieruchomości
 
@@ -3618,7 +4050,9 @@ source: "isap-pdf"
 - **2)** osoby, które przed zajęciem nieruchomości nabyły do niej prawa stwierdzone w protokole opisu i oszacowania wartości nieruchomości lub prawa których zostały zgłoszone i udowodnione najpóźniej w dniu uprawomocnienia się postanowienia o przyznaniu własności;
 - **3)** pracownicy co do stwierdzonych dokumentem należności za pracę, jeżeli zgłosili swe roszczenia przed sporządzeniem planu podziału.
 
-§ 2. (uchylony) § 3. Jeżeli wierzytelność hipoteczna nie jest stwierdzona tytułem wykonawczym, należność przypadającą wierzycielowi hipotecznemu pozostawia się w depozycie organu egzekucyjnego.
+§ 2. (uchylony)
+
+§ 3. Jeżeli wierzytelność hipoteczna nie jest stwierdzona tytułem wykonawczym, należność przypadającą wierzycielowi hipotecznemu pozostawia się w depozycie organu egzekucyjnego.
 
 **Art. 115d.**
 
@@ -3749,7 +4183,7 @@ source: "isap-pdf"
 
 **Art. 134.** Jeżeli zobowiązany nie wpłacił w oznaczonym terminie określonej w postanowieniu o zastosowaniu wykonania zastępczego kwoty tytułem zaliczki na koszty wykonania zastępczego (art. 128 § 2) lub kwoty na pokrycie kosztów wykonania zastępczego wskazanej w wykazach doręczonych zobowiązanemu w myśl art. 133, organ egzekucyjny wszczyna egzekucję tych należności stosownie do przepisów o egzekucji administracyjnej należności pieniężnych.
 
-**Art. 135.** W sprawach kosztów wykonania zastępczego, nieuregulowanych w art. 127–134, stosuje się przepisy art. 64c–64cb, art. 64cd, art. 64ce oraz art. 64e–65a.
+**Art. 135.** W sprawach kosztów wykonania zastępczego, nieuregulowanych w art. 127–134, stosuje się przepisy art. 64c–64cb, art. 64cd, art. 64ce oraz art. 64e– 65a.
 
 #### Rozdział 4 Odebranie rzeczy ruchomej
 
@@ -3801,7 +4235,7 @@ source: "isap-pdf"
 
 **Art. 144.**
 
-- **9)** Egzekutor usuwa z nieruchomości lub lokalu (pomieszczenia), które mają być opróżnione lub wydane wierzycielowi, znajdujące się tam ruchomości, z wyjątkiem tych, które łącznie z nieruchomością (lokalem, pomieszczeniem) podlegają wydaniu wierzycielowi, i wzywa osoby przebywające na tej nieruchomości lub w tym lokalu (pomieszczeniu) do jego opuszczenia, z zagrożeniem zastosowania przymusu bezpośredniego, a w razie oporu podejmuje odpowiednie kroki w celu zastosowania przymusu bezpośredniego.
+- **10)** Egzekutor usuwa z nieruchomości lub lokalu (pomieszczenia), które mają być opróżnione lub wydane wierzycielowi, znajdujące się tam ruchomości, z wyjątkiem tych, które łącznie z nieruchomością (lokalem, pomieszczeniem) podlegają wydaniu wierzycielowi, i wzywa osoby przebywające na tej nieruchomości lub w tym lokalu (pomieszczeniu) do jego opuszczenia, z zagrożeniem zastosowania przymusu bezpośredniego, a w razie oporu podejmuje odpowiednie kroki w celu zastosowania przymusu bezpośredniego.
 
 **Art. 145.** Gdy nieruchomość podlegająca wydaniu albo lokal (pomieszczenie) podlegające opróżnieniu są zamknięte, egzekutor zarządzi ich otwarcie, przy zastosowaniu przepisów art. 46 i 51.
 
@@ -3883,7 +4317,9 @@ source: "isap-pdf"
 
 § 1a. Organ egzekucyjny może z urzędu dokonać zabezpieczenia na podstawie tytułu wykonawczego, w przypadkach określonych w art. 32a § 3, art. 32c § 2 i art. 35 § 2 oraz w przypadkach określonych w art. 79 ust. 5 ustawy o wzajemnej pomocy.
 
-§ 2. (uchylony) § 3. Jeżeli wniosek o zabezpieczenie jest zgłaszany po wszczęciu albo zakończeniu postępowania podatkowego lub kontrolnego, we wniosku tym wyszczególnia się składniki majątkowe zobowiązanego, które mogą być przedmiotem zabezpieczenia.
+§ 2. (uchylony)
+
+§ 3. Jeżeli wniosek o zabezpieczenie jest zgłaszany po wszczęciu albo zakończeniu postępowania podatkowego lub kontrolnego, we wniosku tym wyszczególnia się składniki majątkowe zobowiązanego, które mogą być przedmiotem zabezpieczenia.
 
 **Art. 155b.**
 
@@ -3937,7 +4373,9 @@ source: "isap-pdf"
 - **2)** imię i nazwisko osoby upoważnionej do działania w imieniu wierzyciela, a także jej stanowisko służbowe, jeżeli sposób opatrzenia kolejnego zarządzenia zabezpieczenia podpisem albo pieczęcią, o których mowa w art. 26e § 1, umożliwia podanie tego stanowiska;
 - **2a)** podpis osoby upoważnionej do działania w imieniu wierzyciela albo pieczęć, o której mowa w art. 26e § 1 pkt 4 albo 5;
 - **2b)** datę podpisania kolejnego zarządzenia zabezpieczenia przez osobę upoważnioną do działania w imieniu wierzyciela, a jeżeli kolejne zarządzenie zabezpieczenia zostało opatrzone pieczęcią, o której mowa w art. 26e § 1 pkt 4 albo 5 – datę opatrzenia tą pieczęcią.
-- **3)** (uchylony) § 3. Do kolejnego zarządzenia zabezpieczenia przepisy art. 26c § 4 i art. 26ca § 3 stosuje się odpowiednio.
+- **3)** (uchylony)
+
+§ 3. Do kolejnego zarządzenia zabezpieczenia przepisy art. 26c § 4 i art. 26ca § 3 stosuje się odpowiednio.
 
 **Art. 157.**
 
@@ -3981,7 +4419,9 @@ source: "isap-pdf"
 
 § 2. Organ egzekucyjny obciąża wierzyciela opłatami za czynności zabezpieczające oraz wydatkami związanymi z zabezpieczeniem, jeżeli postępowanie egzekucyjne nie zostało wszczęte wskutek braku wniosku, o którym mowa w art. 159 § 2, lub wniosek ten nie został uwzględniony, a jeżeli nie zostało wszczęte z innych powodów – wydatkami związanymi z postępowaniem zabezpieczającym. Przepisy art. 64c § 5, 6 i § 9 pkt 2 oraz § 10 i 11 stosuje się odpowiednio.
 
-§ 2a. (uchylony) § 3. Organ egzekucyjny może zażądać od wierzyciela wpłaty zaliczki na pokrycie wydatków związanych z postępowaniem zabezpieczającym i uzależnić zabezpieczenie od wpłacenia tej zaliczki.
+§ 2a. (uchylony)
+
+§ 3. Organ egzekucyjny może zażądać od wierzyciela wpłaty zaliczki na pokrycie wydatków związanych z postępowaniem zabezpieczającym i uzależnić zabezpieczenie od wpłacenia tej zaliczki.
 
 § 4. Przepisy art. 65 stosuje się również do wydatków postępowania zabezpieczającego.
 
@@ -4005,7 +4445,9 @@ source: "isap-pdf"
 
 § 2c. W przypadku gdy dokument, o którym mowa w § 2a, sporządzony jest w języku urzędowym państwa członkowskiego lub państwa trzeciego albo języku uzgodnionym zgodnie z art. 32 ustawy o wzajemnej pomocy, do wniosku o wpis hipoteki przymusowej organ egzekucyjny dołącza również tłumaczenie tego dokumentu sporządzone zgodnie z art. 31 ust. 1 lub 3 ustawy o wzajemnej pomocy.
 
-§ 3. (uchylony) § 4. Do zajęcia zabezpieczającego stosuje się odpowiednio przepisy o zajęciu egzekucyjnym pieniędzy, wynagrodzenia za pracę, świadczeń z zaopatrzenia emerytalnego oraz ubezpieczenia społecznego, renty socjalnej, rachunków bankowych, innych wierzytelności pieniężnych, praw z papierów wartościowych zapisanych na rachunku papierów wartościowych oraz z wierzytelności z rachunku pieniężnego, papierów wartościowych niezapisanych na rachunku papierów wartościowych, praw majątkowych zarejestrowanych w rejestrze akcjonariuszy, weksla, autorskich praw majątkowych i praw pokrewnych oraz własności przemysłowej, udziału w spółce z ograniczoną odpowiedzialnością, pozostałych praw majątkowych oraz ruchomości.
+§ 3. (uchylony)
+
+§ 4. Do zajęcia zabezpieczającego stosuje się odpowiednio przepisy o zajęciu egzekucyjnym pieniędzy, wynagrodzenia za pracę, świadczeń z zaopatrzenia emerytalnego oraz ubezpieczenia społecznego, renty socjalnej, rachunków bankowych, innych wierzytelności pieniężnych, praw z papierów wartościowych zapisanych na rachunku papierów wartościowych oraz z wierzytelności z rachunku pieniężnego, papierów wartościowych niezapisanych na rachunku papierów wartościowych, praw majątkowych zarejestrowanych w rejestrze akcjonariuszy, weksla, autorskich praw majątkowych i praw pokrewnych oraz własności przemysłowej, udziału w spółce z ograniczoną odpowiedzialnością, pozostałych praw majątkowych oraz ruchomości.
 
 § 5. Zajęcie zabezpieczające nie może dotyczyć rzeczy lub praw zwolnionych z egzekucji.
 
@@ -4078,6 +4520,9 @@ source: "isap-pdf"
 
 **Art. 166k.** Zajęcie ruchomości, wierzytelności lub innego prawa majątkowego przekształca się w zajęcie egzekucyjne z dniem wystawienia tytułu wykonawczego na podstawie prawomocnego orzeczenia odpowiednio o:
 
+- **1)** przepadku oraz orzeczonej jednocześnie grzywnie, obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę, świadczenia pieniężnego, środka kompensacyjnego, nawiązki, zasądzonych od skazanego kosztów sądowych;
+- **2)** obowiązku uiszczenia należności publicznoprawnej uszczuplonej czynem zabronionym lub zwrotu korzyści majątkowej, jaką sprawca osiągnął z popełnionego przestępstwa, lub jej równowartości.
+
 **Art. 166l.**
 
 § 1. Organ egzekucyjny zawiadamia prokuratora, sąd lub finansowy organ postępowania przygotowawczego o wydatkach poniesionych przy wykonywaniu postanowienia o zabezpieczeniu majątkowym, w szczególności na opłacenie:
@@ -4092,6 +4537,10 @@ source: "isap-pdf"
 **Art. 166m.** W przypadku zwrotu środków pieniężnych zobowiązanemu organ egzekucyjny przesyła prokuratorowi, sądowi lub finansowemu organowi postępowania przygotowawczego potwierdzenie tego zwrotu, jeżeli środki te pozostawały w dyspozycji organu egzekucyjnego.
 
 **Art. 166n.** W zakresie wykonywania postanowienia o zabezpieczeniu majątkowym stosuje się odpowiednio przepisy:
+
+- **1)** działu I, z wyłączeniem przepisów art. 8–10, art. 12, art. 13, art. 26 § 1c pkt 1 oraz § 1e–1h, art. 27e–27j, art. 33–35, art. 38–44, art. 56 § 1 pkt 1–3, art. 57 § 1a–3 oraz art. 58–61;
+- **2)** działu IV, z wyłączeniem przepisów art. 154–159, art. 161, art. 163, art. 166a § 2, art. 167 oraz art. 168;
+- **3)** art. 168b–168e.
 
 #### Rozdział 3 Zabezpieczenie obowiązków o charakterze niepieniężnym
 
@@ -4121,7 +4570,9 @@ source: "isap-pdf"
 
 § 1. Dłużnik zajętej wierzytelności, który nie wykonał lub nienależycie wykonał ciążące na nim obowiązki, o których mowa w art. 69a § 1 i 1a, lub obowiązki związane z realizacją egzekucyjnego lub zabezpieczającego zajęcia wierzytelności lub prawa majątkowego, odpowiada za szkody wyrządzone z tego powodu wierzycielowi na podstawie przepisów Kodeksu cywilnego.
 
-§ 2. Wierzyciel może dochodzić odszkodowania od zobowiązanego na podstawie przepisów Kodeksu cywilnego za szkody wyrządzone wskutek niewykonania lub nienależytego wykonania obowiązku, o którym mowa w art. 69a § 2.
+§ 2. Wierzyciel może dochodzić odszkodowania od zobowiązanego na podstawie przepisów Kodeksu cywilnego za szkody wyrządzone wskutek niewykonania lub nienależytego wykonania obowiązku, o którym mowa w art. 69a
+
+§ 2
 
 #### Rozdział 2 Odpowiedzialność porządkowa
 
@@ -4131,7 +4582,9 @@ source: "isap-pdf"
 
 § 1a. Na zobowiązanego nie nakłada się kary, o której mowa w § 1, za złożenie fałszywego oświadczenia, o którym mowa w art. 6 § 1d i art. 37b § 1.
 
-§ 2. (uchylony) § 3. Karę, o której mowa w § 1, można nałożyć również na:
+§ 2. (uchylony)
+
+§ 3. Karę, o której mowa w § 1, można nałożyć również na:
 
 - **1)** zobowiązanego, który:
     - **a)** nie zawiadomił organu egzekucyjnego o: – zmianie adresu miejsca zamieszkania lub siedziby, – zajęciu przez inny organ egzekucyjny ruchomości oraz prawa majątkowego, którego warunkiem wykonywania jest posiadanie dokumentu,
@@ -4147,11 +4600,25 @@ source: "isap-pdf"
 
 § 2. Kara, o której mowa w § 1, może być powtarzana w przypadku uchylania się od wykonania, w dodatkowo wyznaczonych terminach, obowiązków wynikających z zajęcia egzekucyjnego lub zabezpieczającego.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) Art. 168ea. W przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej karę pieniężną, o której mowa w art. 168d i art. 168e, nakłada się na pracownika bezpośrednio odpowiedzialnego za odpowiednio udzielenie informacji lub wyjaśnień albo realizację zajęcia, a w przypadku braku takiego pracownika na:
+§ 3. (uchylony)
+
+§ 4. (uchylony)
+
+§ 5. (uchylony)
+
+§ 6. (uchylony)
+
+§ 7. (uchylony)
+
+**Art. 168ea.** W przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej karę pieniężną, o której mowa w art. 168d i art. 168e, nakłada się na pracownika bezpośrednio odpowiedzialnego za odpowiednio udzielenie informacji lub wyjaśnień albo realizację zajęcia, a w przypadku braku takiego pracownika na:
 
 - **1)** kierownika,
 - **2)** członka zarządu w spółce prawa handlowego,
-- **3)** wspólnika w spółce cywilnej – bezpośrednio odpowiedzialnego za wykonanie obowiązku, o którym mowa w art. 168d i art. 168e. Art. 168eb. § 1. Postanowienie w sprawie nałożenia kary pieniężnej, o której mowa w art. 168d i art. 168e, wydaje organ egzekucyjny.
+- **3)** wspólnika w spółce cywilnej – bezpośrednio odpowiedzialnego za wykonanie obowiązku, o którym mowa w art. 168d i art. 168e.
+
+**Art. 168eb.**
+
+§ 1. Postanowienie w sprawie nałożenia kary pieniężnej, o której mowa w art. 168d i art. 168e, wydaje organ egzekucyjny.
 
 § 2. Na postanowienie o nałożeniu kary pieniężnej przysługuje zażalenie.
 

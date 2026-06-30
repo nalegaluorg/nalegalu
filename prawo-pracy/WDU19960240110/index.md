@@ -8,10 +8,10 @@ pos: 110
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw
+# Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw.
 
 *USTAWA z dnia 2 lutego 1996 r.*
 
@@ -29,13 +29,51 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23, z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162, z 1986 r. Nr 42, poz. 201, z 1987 r. Nr 21, poz. 124, z 1988 r. Nr 20, poz. 134, z 1989 r. Nr 20, poz. 107 i Nr 35, poz. 192, z 1990 r. Nr 4, poz. 19, Nr 43, poz. 251 i Nr 55, poz. 319, z 1991 r. Nr 53, poz. 226 i Nr 55, poz. 236 i 237, z 1994 r. Nr 113, poz. 547 oraz z 1995 r. Nr 16, poz. 77) wprowadza się następujące zmiany:
 
+- **1)** skreśla się preambułę;
+- **2)** art. 1 otrzymuje brzmienie: "Art. 1. Kodeks pracy określa prawa i obowiązki pracowników i pracodawców.";
+- **3)** art. 3 otrzymuje brzmienie: "Art. 3. Pracodawcą jest jednostka organizacyjna, choćby nie posiadała osobowości prawnej, a także osoba fizyczna, jeżeli zatrudniają one pracowników.";
+- **4)** po art. 3 dodaje się art. 3 w brzmieniu: "Art. 3 . §1. Za pracodawcę będącego jednostką organizacyjną czynności w sprawach z zakresu prawa pracy dokonuje osoba lub organ zarządzający tą jednostką albo inna wyznaczona do tego osoba.
+
+§ 2. Przepis § 1 stosuje się odpowiednio do pracodawcy będącego osobą fizyczną, jeżeli nie dokonuje on osobiście czynności, o których mowa w tym przepisie.";
+
+- **5)** skreśla się art. 4;
+- **6)** w art. 6 w § 2 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
+- **7)** skreśla się art. 7;
+- **8)** w art. 8 w zdaniu pierwszym skreśla się wyrazy "w Polskiej Rzeczypospolitej Ludowej";
+- **9)** art. 9 otrzymuje brzmienie: "Art. 9. §1 . Ilekroć w Kodeksie pracy jest mowa o prawie pracy, rozumie się przez to przepisy Kodeksu pracy oraz przepisy innych ustaw i aktów wykonawczych, określające prawa i obowiązki pracowników i pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy.
+
+§ 2. Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy oraz innych ustaw i aktów wykonawczych.
+
+§ 3. Postanowienia regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż postanowienia układów zbiorowych pracy i porozumień zbiorowych.";
+
+- **10)** art. 10 otrzymuje brzmienie: "Art. 10. §1. Każdy ma prawo do swobodnie wybranej pracy. Nikomu, z wyjątkiem przypadków określonych w ustawie, nie można zabronić wykonywania zawodu.
+
+§ 2. Państwo określa minimalną wysokość wynagrodzenia za pracę.
+
+§ 3. Państwo prowadzi politykę zmierzającą do pełnego produktywnego zatrudnienia.";
+
+- **11)** w art. 11 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
+- **12)** po art. 11 dodaje się art. 11 -11 w brzmieniu: "Art. 11 . Pracodawca jest obowiązany szanować godność i inne dobra osobiste pracownika.
+
 **Art. 11².** Pracownicy mają równe prawa z tytułu jednakowego wypełniania takich samych obowiązków; dotyczy to w szczególności równego traktowania mężczyzn i kobiet w dziedzinie pracy.
 
 **Art. 11³.** Jakakolwiek dyskryminacja w stosunkach pracy, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, narodowość, przekonania, zwłaszcza polityczne lub religijne, oraz przynależność związkową - jest niedopuszczalna.";
 
+- **13)** skreśla się art. 12;
+- **14)** art. 13 otrzymuje brzmienie: "Art. 13. Pracownik ma prawo do godziwego wynagrodzenia za pracę. Warunki realizacji tego prawa określają przepisy prawa pracy oraz polityka państwa w dziedzinie płac, w szczególności poprzez ustalanie najniższego wynagrodzenia za pracę.";
+- **15)** w art. 15 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **16)** art. 16 otrzymuje brzmienie: "Art. 16. Pracodawca, stosownie do możliwości i warunków, zaspokaja bytowe, socjalne i kulturalne potrzeby pracowników.";
+- **17)** w art. 17 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **18)** w art. 18 § 1 otrzymuje brzmienie: "§1. Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, nie mogą być mniej korzystne dla pracownika niż przepisy prawa pracy.";
+- **19)** po art. 18 dodaje się art. 18 -18 w brzmieniu: "Art. 18 . §1. Pracownicy i pracodawcy, w celu reprezentacji i obrony swoich praw i interesów, mają prawo tworzyć organizacje i przystępować do tych organizacji.
+
+§ 2. Zasady tworzenia i działania organizacji, o których mowa w § 1, określa ustawa o związkach zawodowych, ustawa o organizacjach pracodawców oraz inne przepisy prawa.
+
 **Art. 18².** Pracownicy uczestniczą w zarządzaniu zakładem pracy w zakresie i na zasadach określonych w odrębnych przepisach.
 
 **Art. 18³.** Pracodawcy oraz organy administracji są obowiązani tworzyć warunki umożliwiające korzystanie z uprawnień określonych w przepisach, o których mowa w art. 18 i 18 .";
+
+- **20)** w dziale pierwszym po rozdziale II dodaje się rozdział IIa w brzmieniu: "Rozdział IIa Nadzór i kontrola przestrzegania prawa pracy
 
 **Art. 18⁴.**
 
@@ -70,6 +108,90 @@ source: "isap-pdf"
 - **25)** po art. 23 dodaje się art. 23 w brzmieniu:
 
 **Art. 23².** Jeżeli przepisy prawa pracy przewidują współdziałanie pracodawcy z zakładową organizacją związkową w indywidualnych sprawach ze stosunku pracy, pracodawca ma obowiązek współdziałać w takich sprawach z zakładową organizacją związkową reprezentującą pracownika z tytułu jego członkostwa w związku zawodowym albo wyrażenia zgody na obronę praw pracownika nie zrzeszonego w związku - zgodnie z ustawą o związkach zawodowych.";
+
+- **26)** skreśla się art. 24;
+- **27)** w § 2 otrzymuje brzmienie: "§2. Każda z umów, o których mowa w § 1, może być poprzedzona umową o pracę na okres próbny, nie przekraczający 3 miesięcy.";
+- **28)** po art. 25 dodaje się art. 25 w brzmieniu: "Art. 25 . Zawarcie kolejnej umowy o pracę na czas określony jest równoznaczne w skutkach prawnych z zawarciem umowy o pracę na czas nie określony, jeżeli poprzednio strony dwukrotnie zawarły umowę o pracę na czas określony na następujące po sobie okresy, o ile przerwa między rozwiązaniem poprzedniej a nawiązaniem kolejnej umowy o pracę nie przekroczyła jednego miesiąca.";
+- **29)** skreśla się art. 27;
+- **30)** w art. 29:
+    - **a)** w § 1 pkt 1 otrzymuje brzmienie: "1) rodzaj pracy i miejsce jej wykonywania oraz termin rozpoczęcia pracy,",
+    - **b)** skreśla się § 2,
+    - **c)** § 3 otrzymuje brzmienie: "§3. Jeżeli umowa o pracę nie została zawarta na piśmie, pracodawca powinien niezwłocznie, nie później jednak niż w ciągu 7 dni od dnia rozpoczęcia pracy, potwierdzić pracownikowi na piśmie rodzaj umowy i jej warunki.";
+
+- **31)** w art. 30:
+    - **a)** po § 2 dodaje się § 2 w brzmieniu: "§2 . Okres wypowiedzenia umowy o pracę obejmujący tydzień lub miesiąc albo ich wielokrotność kończy się odpowiednio w sobotę lub w ostatnim dniu miesiąca.",
+    - **b)** § 4 otrzymuje brzmienie: "§4. W oświadczeniu pracodawcy o wypowiedzeniu umowy o pracę zawartej na czas nie określony lub o rozwiązaniu umowy o pracę bez wypowiedzenia powinna być wskazana przyczyna uzasadniająca wypowiedzenie lub rozwiązanie umowy.",
+    - **c)** po § 4 dodaje się § 5 w brzmieniu: "§5. W oświadczeniu pracodawcy o wypowiedzeniu umowy o pracę lub jej rozwiązaniu bez wypowiedzenia powinno być zawarte pouczenie o przysługującym pracownikowi prawie odwołania do sądu pracy.";
+
+- **32)** skreśla się art. 31;
+- **33)** art. 34 otrzymuje brzmienie: "Art. 34. Okres wypowiedzenia umowy o pracę zawartej na okres próbny wynosi:
+- **1)** 3 dni robocze, jeżeli okres próbny nie przekracza 2 tygodni,
+- **2)** 1 tydzień, jeżeli okres próbny jest dłuższy niż 2 tygodnie,
+- **3)** 2 tygodnie, jeżeli okres próbny wynosi 3 miesiące.";
+- **34)** w art. 36:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Okres wypowiedzenia umowy o pracę zawartej na czas nie określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi:
+
+- **1)** 2 tygodnie, jeżeli pracownik był zatrudniony krócej niż 6 miesięcy,
+- **2)** 1 miesiąc, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy,
+- **3)** 3 miesiące, jeżeli pracownik był zatrudniony co najmniej 3 lata.",
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: "§1 . Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.",
+    - **c)** skreśla się § 2-4;
+
+- **35)** w art. 36 § 1 otrzymuje brzmienie: "§1. Jeżeli wypowiedzenie pracownikowi umowy o pracę zawartej na czas nie określony następuje z powodu ogłoszenia upadłości lub likwidacji pracodawcy albo zmniejszenia zatrudnienia z przyczyn dotyczących pracodawcy, określonych w odrębnych przepisach, pracodawca może, w celu wcześniejszego rozwiązania umowy o pracę, skrócić okres trzymiesięcznego wypowiedzenia, najwyżej jednak do jednego miesiąca; w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za pozostałą część okresu wypowiedzenia.";
+- **36)** w art. 37 w § 2 pkt 2 otrzymuje brzmienie: "2) 3 dni robocze - w okresie trzymiesięcznego wypowiedzenia, także w przypadku jego skrócenia na podstawie art. 36 § 1.";
+- **37)** w art. 38:
+    - **a)** § 1 otrzymuje brzmienie: "§1. O zamiarze wypowiedzenia pracownikowi umowy o pracę zawartej na czas nie określony pracodawca zawiadamia na piśmie reprezentującą pracownika zakładową organizację związkową, podając przyczynę uzasadniającą rozwiązanie umowy.",
+    - **b)** w § 2 wyrazy "kierownikowi zakładu" zastępuje się wyrazem "pracodawcy",
+    - **c)** w § 3 wyrazy "kierownik zakładu pracy" zastępuje się wyrazem "pracodawca",
+    - **d)** w § 5 skreśla się wyraz "ogólnokrajowej", zaś wyrazy "kierownik zakładu pracy" zastępuje się wyrazem "pracodawca";
+
+- **38)** w art. 39 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **39)** art. 40 otrzymuje brzmienie: "Art. 40. Przepisu art. 39 nie stosuje się w razie uzyskania przez pracownika prawa do renty z tytułu zaliczenia do I lub II grupy inwalidów.";
+- **40)** w art. 41 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca" oraz skreśla się wyraz "zakład";
+- **41)** w art. 41 w § 1 i 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
+- **42)** w art. 42 w § 3 i 4 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
+- **43)** art. 43 otrzymuje brzmienie: "Art. 43. Pracodawca może wypowiedzieć warunki pracy lub płacy pracownikowi, o którym mowa w art. 39, jeżeli wypowiedzenie stało się konieczne ze względu na:
+- **1)** wprowadzenie nowych zasad wynagradzania dotyczących ogółu pracowników zatrudnionych u danego pracodawcy lub tej ich grupy, do której pracownik należy,
+- **2)** stwierdzoną orzeczeniem lekarskim utratę zdolności do wykonywania dotychczasowej pracy albo niezawinioną przez pracownika utratę uprawnień koniecznych do jej wykonywania.";
+- **44)** w dziale drugim w rozdziale II w tytule oddziału 4 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
+- **45)** w art. 44 wyrazy "komisji odwoławczej do spraw pracy, o której" zastępuje się wyrazami "sądu pracy, o którym";
+- **46)** w art. 45:
+    - **a)** w § 1 wyraz "sąd" zastępuje się wyrazami "sąd pracy",
+    - **b)** § 2 otrzymuje brzmienie: "§2. Sąd pracy może nie uwzględnić żądania pracownika uznania wypowiedzenia za bezskuteczne lub przywrócenia do pracy, jeżeli ustali, że uwzględnienie takiego żądania jest niemożliwe lub niecelowe; w takim przypadku sąd pracy orzeka o odszkodowaniu.",
+    - **c)** w § 3 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy "chyba że uwzględnienie żądania pracownika przywrócenia do pracy jest niemożliwe z przyczyn określonych w art. 41 ; w takim przypadku sąd pracy orzeka o odszkodowaniu.";
+
+- **47)** w art. 47 skreśla się oznaczenie § 1 oraz skreśla się § 2;
+- **48)** w art. 48:
+    - **a)** w § 1 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca",
+    - **b)** w § 2: - w zdaniu pierwszym wyrazy "w innym zakładzie pracy" zastępuje się wyrazami "u innego pracodawcy" oraz wyrazy "z tym zakładem" zastępuje się wyrazami "z tym pracodawcą", - w zdaniu drugim wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
+
+- **49)** w art. 49 skreśla się zdanie drugie;
+- **50)** w art. 52:
+    - **a)** w § 1: - na początku zdania wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca", - pkt 1 otrzymuje brzmienie: "1) ciężkiego naruszenia przez pracownika podstawowych obowiązków pracowniczych,",
+    - **b)** w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę",
+    - **c)** w § 3 zdanie pierwsze otrzymuje brzmienie: "Pracodawca podejmuje decyzję w sprawie rozwiązania umowy po zasięgnięciu opinii reprezentującej pracownika zakładowej organizacji związkowej, którą zawiadamia o przyczynie uzasadniającej rozwiązanie umowy.";
+
+- **51)** w art. 53:
+    - **a)** w § 1: - na początku zdania wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca", - w pkt 1 w lit. a) i w lit. b) wyrazy "w tym zakładzie" zastępuje się wyrazami "u danego pracodawcy",
+    - **b)** § 4 otrzymuje brzmienie: "§4. Przepisy art. 36 § 1 i art. 52 § 3 stosuje się odpowiednio.",
+    - **c)** w § 5 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca" oraz wyrazy "do zakładu" zastępuje się wyrazami "do pracy";
+
+- **52)** skreśla się art. 54;
+- **53)** w art. 55:
+    - **a)** w § 1 wyrazy "zakład społecznej służby zdrowia stwierdzi" zastępuje się wyrazami "zostanie wydane orzeczenie lekarskie stwierdzające" oraz wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca",
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: "§1 . Pracownik może rozwiązać umowę o pracę w trybie określonym w § 1 także wtedy, gdy pracodawca dopuścił się ciężkiego naruszenia podstawowych obowiązków wobec pracownika; w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia, a jeżeli umowa o pracę została zawarta na czas określony lub na czas wykonania określonej pracy - w wysokości wynagrodzenia za okres 2 tygodni.",
+    - **c)** w § 2 dodaje się zdanie drugie w brzmieniu: "Przepis art. 52 § 2 stosuje się odpowiednio.",
+    - **d)** w § 3 wyrazy "w § 1" zastępuje się wyrazami "w § 1 i 1 " oraz wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
+
+- **54)** w dziale drugim w rozdziale II w tytule oddziału 6 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
+- **55)** w art. 56:
+    - **a)** dotychczasową treść oznacza się jako § 1, zaś w zdaniu drugim wyrazy "komisja odwoławcza do spraw pracy" zastępuje się wyrazami "sąd pracy",
+    - **b)** po § 1 dodaje się § 2 w brzmieniu: "§2. Przepisy art. 45 § 2 i 3 stosuje się odpowiednio.";
+
+- **56)** w art. 57 skreśla się § 3;
+- **57)** w art. 59 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
+- **58)** w art. 60 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+- **59)** po art. 61 dodaje się oddział 6a w brzmieniu: "Oddział 6a Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia
 
 **Art. 61¹.** W razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 § 1 , pracodawcy przysługuje roszczenie o odszkodowanie. O odszkodowaniu orzeka sąd pracy.
 
@@ -128,6 +250,57 @@ source: "isap-pdf"
 **Art. 77³.** Zasady wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach sfery budżetowej, jeżeli nie są oni objęci ponadzakładowym układem zbiorowym pracy, określi, w drodze rozporządzenia - w zakresie nie zastrzeżonym w odrębnych przepisach do właściwości innych organów Minister Pracy i Polityki Socjalnej, na wniosek właściwego ministra.
 
 **Art. 77⁴.** Minister Pracy i Polityki Socjalnej określi, w drodze zarządzenia:
+
+- **1)** najniższe wynagrodzenie za pracę, przysługujące pracownikom zatrudnionym w pełnym wymiarze czasu pracy, oraz przypadki, w których mimo niewykonywania pracy w takim wymiarze pracownikowi przysługuje najniższe wynagrodzenie,
+- **2)** zasady ustalania oraz wysokość należności przysługujących pracownikom z tytułu podróży służbowej.";
+- **72)** w dziale trzecim dotychczasowemu rozdziałowi I nadaje się oznaczenie "Rozdział Ia";
+- **73)** art. 78 otrzymuje brzmienie: "Art. 78. §1. Wynagrodzenie za pracę powinno być tak ustalone, aby odpowiadało w szczególności rodzajowi wykonywanej pracy i kwalifikacjom wymaganym przy jej wykonywaniu, a także uwzględniało ilość i jakość świadczonej pracy.
+
+§ 2. W celu określenia wynagrodzenia za pracę ustala się, w trybie przewidzianym w art. 77 -77 , wysokość oraz zasady przyznawania pracownikom stawek wynagrodzenia za pracę określonego rodzaju lub na określonym stanowisku, a także innych (dodatkowych) składników wynagrodzenia, jeżeli zostały one przewidziane z tytułu wykonywania określonej pracy.";
+
+- **74)** skreśla się art. 79;
+- **75)** w art. 80 zdanie drugie otrzymuje brzmienie: "Za czas niewykonywania pracy pracownik zachowuje prawo do wynagrodzenia tylko wówczas, gdy przepisy prawa pracy tak stanowią.";
+- **76)** art. 81 otrzymuje brzmienie: "Art. 81. §1.Pracownikowi za czas niewykonywania pracy, jeżeli był gotów do jej wykonywania, a doznał przeszkód z przyczyn dotyczących pracodawcy, przysługuje wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania - 60% wynagrodzenia. W każdym przypadku wynagrodzenie to nie może być jednak niższe od najniższego wynagrodzenia określonego na podstawie art. 77 pkt 1.
+
+§ 2. Wynagrodzenie, o którym mowa w § 1, przysługuje pracownikowi za czas niezawinionego przez niego przestoju. Jeżeli przestój nastąpił z winy pracownika, wynagrodzenie nie przysługuje.
+
+§ 3. Pracodawca może na czas przestoju powierzyć pracownikowi inną odpowiednią pracę, za której wykonanie przysługuje wynagrodzenie przewidziane za tę pracę, nie niższe jednak od wynagrodzenia ustalonego zgodnie z § 1. Jeżeli przestój nastąpił z winy pracownika, przysługuje wyłącznie wynagrodzenie przewidziane za wykonaną pracę.
+
+§ 4. Wynagrodzenie za czas przestoju spowodowanego warunkami atmosferycznymi przysługuje pracownikowi zatrudnionemu przy pracach uzależnionych od tych warunków, jeżeli przepisy prawa pracy tak stanowią. W razie powierzenia pracownikowi na czas takiego przestoju innej pracy, przysługuje mu wynagrodzenie przewidziane za wykonaną pracę, chyba że przepisy prawa pracy przewidują stosowanie zasad określonych w § 3.";
+
+- **77)** w art. 83 w § 2 w zdaniu pierwszym skreśla się wyrazy "oraz doświadczeń przodujących pracowników", zaś w zdaniu drugim wyraz "powinny" zastępuje się wyrazem "mogą";
+- **78)** art. 85 otrzymuje brzmienie: "Art. 85. §1. Wypłaty wynagrodzenia za pracę dokonuje się co najmniej raz w miesiącu, w stałym i ustalonym z góry terminie, z wyjątkiem tych składników wynagrodzenia, które przysługują za okresy dłuższe niż jeden miesiąc.
+
+§ 2. Wynagrodzenie za pracę płatne miesięcznie wypłaca się z dołu, najpóźniej w ostatnim dniu miesiąca, chyba że przepisy regulujące w sposób szczególny niektóre prawa i obowiązki określonej kategorii pracowników stanowią inaczej.
+
+§ 3. Jeżeli ustalony dzień wypłaty wynagrodzenia za pracę jest dniem wolnym od pracy, wynagrodzenie wypłaca się w dniu poprzednim.
+
+§ 4. Jeżeli wysokość wynagrodzenia pracownika zależy od ilości wykonanej pracy, w terminie określonym w § 2 lub § 3 pracownikowi wypłaca się zaliczkę na wynagrodzenie, a po ustaleniu pełnego wynagrodzenia - niezwłocznie pozostałą kwotę wynagrodzenia.
+
+§ 5. Składniki wynagrodzenia za pracę przysługujące pracownikowi za okresy dłuższe niż jeden miesiąc wypłaca się z dołu w terminach określonych w przepisach prawa pracy.
+
+§ 6. Pracodawca, na żądanie pracownika, jest obowiązany udostępnić do wglądu dokumenty, na których podstawie zostało obliczone jego wynagrodzenie.";
+
+- **79)** art. 86 otrzymuje brzmienie: "Art. 86. §1. Pracodawca jest obowiązany wypłacać wynagrodzenie w miejscu, terminie i czasie określonych w regulaminie pracy lub w innych przepisach prawa pracy.
+
+§ 2. Wypłaty wynagrodzenia dokonuje się w formie pieniężnej; częściowe spełnienie wynagrodzenia w innej formie niż pieniężna jest dopuszczalne tylko wówczas, gdy przewidują to ustawowe przepisy prawa pracy lub układ zbiorowy pracy.
+
+§ 3. Obowiązek wypłacenia wynagrodzenia może być spełniony w inny sposób niż do rąk pracownika, za jego uprzednią zgodą wyrażoną na piśmie.";
+
+- **80)** w art. 87:
+    - **a)** w § 1 wyrazy "po odliczeniu podatków należnych od wynagrodzenia oraz składki na cele emerytalne" zastępuje się wyrazami "po odliczeniu zaliczki na podatek dochodowy od osób fizycznych",
+    - **b)** § 5 otrzymuje brzmienie: "§5. Nagroda z zakładowego funduszu nagród oraz należności przysługujące pracownikom z tytułu udziału w zysku lub w nadwyżce bilansowej podlegają egzekucji na zaspokojenie świadczeń alimentacyjnych do pełnej wysokości.",
+    - **c)** w § 6 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową";
+
+- **81)** w art. 88:
+    - **a)** w § 1 wyrazy "uspołeczniony zakład pracy dokonuje" zastępuje się wyrazami "pracodawca może dokonywać",
+    - **b)** w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+
+- **82)** skreśla się art. 89;
+- **83)** w art. 90 wyrazy "w art. 87-89" zastępuje się wyrazami "w art. 87 i 88";
+- **84)** w art. 91 skreśla się zdanie drugie;
+- **85)** w art. 92 w § 1 w pkt 1 wyrazy "chyba że w danym zakładzie pracy wprowadzono wyższe wynagrodzenie z tego tytułu" zastępuje się wyrazami "chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują wyższe wynagrodzenie z tego tytułu";
+- **86)** w dziale trzecim po rozdziale III dodaje się rozdział IIIa w brzmieniu: "Rozdział IIIa Odprawa rentowa lub emerytalna
 
 **Art. 92¹.**
 
@@ -207,6 +380,10 @@ source: "isap-pdf"
 **Art. 101³.** Umowy, o których mowa w art. 101 § 1 i w art. 101 § 1, wymagają pod rygorem nieważności formy pisemnej.
 
 **Art. 101⁴.** Przepisy rozdziału nie naruszają zakazu konkurencji przewidzianego w odrębnych przepisach.";
+
+- **97)** art. 102 otrzymuje brzmienie: "Art. 102. Kwalifikacje zawodowe pracowników wymagane do wykonywa nia pracy określonego rodzaju lub na określonym stanowisku mogą być ustalane w przepisach prawa pracy przewidzianych w art. 77 -77 , w zakresie nie uregulowanym w przepisach szczególnych.";
+- **98)** art. 103 otrzymuje brzmienie: "Art. 103.W zakresie i na warunkach ustalonych, w drodze rozporządzenia, przez Ministra Edukacji Narodowej oraz Ministra Pracy i Polityki Socjalnej pracodawca ułatwia pracownikom podnoszenie kwalifikacji zawodowych.";
+- **99)** rozdział IV w dziale czwartym otrzymuje brzmienie: "Rozdział IV Regulamin pracy
 
 **Art. 104.**
 
@@ -330,6 +507,10 @@ source: "isap-pdf"
 
 **Art. 129⁵.** W rozkładach czasu pracy, o którym mowa w art. 129 i 129 , wymiar czasu pracy:
 
+- **1)** pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia,
+- **2)** pracownic w ciąży,
+- **3)** pracownic opiekujących się dzieckiem do lat 4, bez ich zgody - nie może przekraczać 8 godzin na dobę. Pracownik zachowuje prawo do wynagrodzenia za czas nie przepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy.
+
 **Art. 129⁶.**
 
 § 1. Do kierowców w transporcie samochodowym i w komunikacji samochodowej może być stosowany, w szczególnie uzasadnionych przypadkach, przerywany czas pracy według z góry ustalonego rozkładu, przewidującego nie więcej niż jedną przerwę w pracy w ciągu doby, trwającą nie dłużej niż 6 godzin.
@@ -349,6 +530,8 @@ source: "isap-pdf"
 **Art. 129¹⁰.** Jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą 15 minut, którą wlicza się do czasu pracy.
 
 **Art. 129¹¹.** Pracodawca jest obowiązany prowadzić ewidencję czasu pracy, z uwzględnieniem pracy w godzinach nadliczbowych. Pracodawca udostępnia tę ewidencję pracownikowi, na jego żądanie.";
+
+- **126)** art. 130 otrzymuje brzmienie:
 
 **Art. 130.**
 
@@ -462,7 +645,87 @@ source: "isap-pdf"
 
 **Art. 155³.** Przy ustalaniu wymiaru urlopu na podstawie przepisów art.155 i 155 niepełny dzień urlopu zaokrągla się w górę do pełnego dnia; urlop należny pracownikowi w danym roku kalendarzowym nie może jednak przekroczyć wymiaru wnikającego z przepisu art. 154 § 1.";
 
+- **147)** skreśla się art. 156 i 157;
+- **148)** art. 159 otrzymuje brzmienie: "Art. 159. §1. Pracownik zatrudniony przy pracy sezonowej uzyskuje prawo do urlopu w wymiarze 1,5 dnia za każdy przepracowany miesiąc.
+
+§ 2. Urlop przewidziany w § 1 wlicza się do urlopu należnego pracownikowi w danym roku kalendarzowym z tytułu pracy niesezonowej.";
+
+- **149)** skreśla się art. 160;
+- **150)** w art. 161 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **151)** w art. 162 w zdaniu drugim liczbę "10" zastępuje się liczbą "14";
+- **152)** w art. 163:
+    - **a)** w § 1 w zdaniu drugim wyrazy "kierownik zakładu pracy" zastępuje się wyrazem "pracodawca",
+    - **b)** w § 2 wyrazy "w zakładzie pracy" zastępuje się wyrazami "u danego pracodawcy" oraz skreśla się zdanie drugie,
+    - **c)** w § 3 wyrazy "należy udzielić" zastępuje się wyrazami "udziela się";
+
+- **153)** w art. 164 w § 2 wyraz "zakładu" zastępuje się wyrazem "pracodawcy";
+- **154)** w art. 165 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+- **155)** w art. 166 skreśla się wyrazy "trwającej co najmniej 3 dni w czasie urlopu", a wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+- **156)** w art. 167 w § 1 i 2 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **157)** skreśla się art. 169 i 170;
+- **158)** w art. 171 w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+- **159)** art. 173 otrzymuje brzmienie: "Art. 173. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe zasady udzielania urlopu wypoczynkowego, ustalania i wypłacania wynagrodzenia za czas urlopu oraz ekwiwalentu pieniężnego za urlop.";
+- **160)** w art. 174 § 1 otrzymuje brzmienie: "§1. Na pisemny wniosek pracownika pracodawca może udzielić mu urlopu bezpłatnego.";
+- **161)** art. 174 otrzymuje brzmienie: "Art. 174 . §1. Za zgodą pracownika, wyrażoną na piśmie, pracodawca może udzielić pracownikowi urlopu bezpłatnego w celu wykonywania pracy u innego pracodawcy przez okres ustalony w zawartym w tej sprawie porozumieniu między pracodawcami.
+
+§ 2. Okres urlopu bezpłatnego, o którym mowa w § 1, wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze u dotychczasowego pracodawcy.";
+
+- **162)** skreśla się art. 175;
+- **163)** art. 176 otrzymuje brzmienie: "Art. 176. Nie wolno zatrudniać kobiet przy pracach szczególnie uciążliwych lub szkodliwych dla zdrowia. Rada Ministrów określi, w drodze rozporządzenia, wykaz tych prac.";
+- **164)** w art. 177:
+    - **a)** w § 1 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca", a wyrazy "zakładowa organizacja związkowa" zastępuje się wyrazami "reprezentująca pracownicę zakładowa organizacja związkowa",
+    - **b)** w § 2 dodaje się na końcu wyrazy "nie przekraczającym jednego miesiąca",
+    - **c)** w § 3 po wyrazach "na czas wykonania określonej pracy" dodaje się wyrazy "albo na okres próbny przekraczający jeden miesiąc",
+    - **d)** § 4 otrzymuje brzmienie: "§4. Rozwiązanie przez pracodawcę umowy o pracę za wypowiedzeniem w okresie ciąży lub urlopu macierzyńskiego może nastąpić tylko w razie ogłoszenia upadłości lub likwidacji pracodawcy. Pracodawca jest obowiązany uzgodnić z reprezentującą pracownicę zakładową organizacją związkową termin rozwiązania umowy o pracę. W razie niemożności zapewnienia w tym okresie innego zatrudnienia, pracownicy przysługują świadczenia określone w odrębnych przepisach. Okres pobierania tych świadczeń wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.";
+
+- **165)** w art. 178 w § 2 wyrazy "jednego roku" zastępuje się wyrazami "czterech lat";
+- **166)** w art. 179:
+    - **a)** w § 1: - na początku zdania wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca", - w pkt 2 wyrazy "stwierdzenia przez zakład społecznej służby zdrowia" zastępuje się wyrazami "przedłożenia orzeczenia lekarskiego stwierdzającego",
+    - **b)** w § 3 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca",
+    - **c)** § 4 otrzymuje brzmienie: "§4. Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, sposób i tryb wydawania orzeczeń lekarskich dotyczących konieczności przenoszenia kobiet w ciąży do innej pracy w przypadku, o którym mowa w § 1 pkt 2.";
+
+- **167)** w art. 184 wyrazy "zasiłek połogowy" zastępuje się wyrazami "zasiłek macierzyński";
+- **168)** w art. 185 w § 2 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **169)** art. 186 otrzymuje brzmienie: "Art. 186. §1. Na wniosek pracownicy pracodawca jest obowiązany udzielić jej urlopu wychowawczego w celu sprawowania opieki nad dzieckiem.
+
+§ 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady udzielania urlopu wychowawczego oraz prawa i obowiązki związane z tym urlopem.";
+
+- **170)** art. 188 i 189 otrzymują brzmienie: "Art. 188. Pracownicy wychowującej przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu roku zwolnienie od pracy na 2 dni, z zachowaniem prawa do wynagrodzenia.
+
 **Art. 189.** Prawo do zasiłku za czas nieobecności w pracy z powodu konieczności sprawowania osobistej opieki nad dzieckiem regulują odrębne przepisy.";
+
+- **171)** po art. 189 dodaje się art. 189 w brzmieniu: "Art. 189 . §1. Przepisy art. 129 pkt 3, art. 178 § 2, art. 186 i 188 stosuje się także do pracownika, z tym że jeżeli oboje rodzice lub opiekunowie są zatrudnieni, z uprawnień określonych w tych przepisach może korzystać jedno z nich.
+
+§ 2. Przepis art. 180 § 2 i art. 183 stosuje się także do pracownicy, która przyjęła dziecko na wychowanie jako rodzina zastępcza.";
+
+- **172)** w art. 191:
+    - **a)** w § 3 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową",
+    - **b)** w § 4 wyrazy "określą właściwi ministrowie w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz po porozumieniu z właściwymi ogólnokrajowymi organizacjami związkowymi" zastępuje się wyrazami "określą, w drodze zarządzeń, właściwi ministrowie w porozumieniu z Ministrem Pracy i Polityki Socjalnej",
+    - **c)** w § 5 skreśla się wyrazy "oraz po porozumieniu z ogólnokrajową organizacją międzyzwiązkową";
+
+- **173)** w art. 192 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **174)** art. 193 otrzymuje brzmienie: "Art. 193. Pracodawca jest obowiązany prowadzić ewidencję pracowników młodocianych.";
+- **175)** w art. 195:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Umowa o pracę w celu przygotowania zawodowego powinna określać w szczególności:
+
+- **1)** rodzaj przygotowania zawodowego (nauka zawodu lub przyuczenie do wykonywania określonej pracy),
+- **2)** czas trwania i miejsce odbywania przygotowania zawodowego,
+- **3)** sposób dokształcania teoretycznego,
+- **4)** wysokość wynagrodzenia.",
+    - **b)** w § 2 skreśla się wyrazy ", po porozumieniu z ogólnokrajową organizacją międzyzwiązkową";
+
+- **176)** w art. 196 w pkt 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
+- **177)** w art. 198 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca" oraz skreśla się wyrazy "(art. 202 § 3 i 4)";
+- **178)** w art. 200 skreśla się wyrazy "oraz po porozumieniu z ogólnokrajową organizacją międzyzwiązkową";
+- **179)** w art. 201 w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
+- **180)** w art. 202 skreśla się § 4;
+- **181)** w art. 204:
+    - **a)** w § 1 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową",
+    - **b)** skreśla się § 2,
+    - **c)** w § 3 wyrazy "W trybie przewidzianym w § 1 Rada Ministrów" zastępuje się wyrazami "Rada Ministrów, w drodze rozporządzenia,";
+
+- **182)** w art. 205 w § 4 w zdaniu pierwszym wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
+- **183)** rozdział VI w dziale dziewiątym otrzymuje brzmienie: "Rozdział VI Rzemieślnicze przygotowanie zawodowe
 
 **Art. 206.**
 
@@ -525,7 +788,22 @@ source: "isap-pdf"
 
 **Art. 211.** Przestrzeganie przepisów i zasad bezpieczeństwa i higieny pracy jest podstawowym obowiązkiem pracownika. W szczególności pracownik jest obowiązany:
 
+- **1)** znać przepisy i zasady bezpieczeństwa i higieny pracy, brać udział w szkoleniu i instruktażu z tego zakresu oraz poddawać się wymaganym egzaminom sprawdzającym,
+- **2)** wykonywać pracę w sposób zgodny z przepisami i zasadami bezpieczeństwa i higieny pracy oraz stosować się do wydawanych w tym zakresie poleceń i wskazówek przełożonych,
+- **3)** dbać o należyty stan maszyn, urządzeń, narzędzi i sprzętu oraz o porządek i ład w miejscu pracy,
+- **4)** stosować środki ochrony zbiorowej, a także używać przydzielonych środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zgodnie z ich przeznaczeniem,
+- **5)** poddawać się wstępnym, okresowym i kontrolnym oraz innym zaleconym badaniom lekarskim i stosować się do wskazań lekarskich,
+- **6)** niezwłocznie zawiadomić przełożonego o zauważonym w zakładzie pracy wypadku albo zagrożeniu życia lub zdrowia ludzkiego oraz ostrzec współpracowników, a także inne osoby znajdujące się w rejonie zagrożenia, o grożącym im niebezpieczeństwie,
+- **7)** współdziałać z pracodawcą i przełożonymi w wypełnianiu obowiązków dotyczących bezpieczeństwa i higieny pracy.
+
 **Art. 212.** Osoba kierująca pracownikami jest obowiązana:
+
+- **1)** organizować stanowiska pracy zgodnie z przepisami i zasadami bezpieczeństwa i higieny pracy,
+- **2)** dbać o sprawność środków ochrony indywidualnej oraz ich stosowanie zgodnie z przeznaczeniem,
+- **3)** organizować, przygotowywać i prowadzić prace, uwzględniając zabezpieczenie pracowników przed wypadkami przy pracy, chorobami zawodowymi i innymi chorobami związanymi z warunkami środowiska pracy,
+- **4)** dbać o bezpieczny i higieniczny stan pomieszczeń pracy i wyposażenia technicznego, a także o sprawność środków ochrony zbiorowej i ich stosowanie zgodnie z przeznaczeniem,
+- **5)** egzekwować przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy,
+- **6)** zapewniać wykonanie zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami.
 
 #### Rozdział III Obiekty budowlane i pomieszczenia pracy
 
@@ -571,6 +849,12 @@ source: "isap-pdf"
 **Art. 218.** Przepisy art. 215 i 217 stosuje się odpowiednio do narzędzi pracy.
 
 **Art. 219.** Przepisy art. 215 i 217 nie naruszają wymagań określonych przepisami dotyczącymi maszyn i innych urządzeń technicznych:
+
+- **1)** będących środkami transportu kolejowego, samochodowego, morskiego, wodnego śródlądowego i lotniczego,
+- **2)** podlegających przepisom o dozorze technicznym,
+- **3)** podlegających przepisom Prawa geologicznego i górniczego,
+- **4)** podlegających przepisom obowiązującym w jednostkach podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych,
+- **5)** podlegających przepisom Prawa atomowego.
 
 #### Rozdział V Substancje chemiczne oraz procesy pracy szczególnie szkodliwe dla zdrowia lub niebezpieczne
 
@@ -841,6 +1125,10 @@ source: "isap-pdf"
 
 **Art. 237¹⁴.** Organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi są obowiązane podejmować działania na rzecz kształtowania bezpiecznych i higienicznych warunków pracy, w szczególności:
 
+- **1)** udzielać przedsiębiorstwom i jednostkom organizacyjnym pomocy przy wykonywaniu zadań z zakresu bezpieczeństwa i higieny pracy,
+- **2)** dokonywać, co najmniej raz w roku, oceny stanu bezpieczeństwa i higieny pracy w przedsiębiorstwach i jednostkach organizacyjnych oraz określać kierunki poprawy tego stanu,
+- **3)** w miarę potrzeb i możliwości - inicjować i prowadzić badania naukowe dotyczące bezpieczeństwa i higieny pracy.
+
 #### Rozdział XIII Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy
 
 **Art. 237¹⁵.**
@@ -961,13 +1249,54 @@ source: "isap-pdf"
 
 **Art. 290¹.** Jeżeli przepisy rozdziału nie stanowią inaczej, w postępowaniu w sprawach o wykroczenia przeciwko prawom pracownika mają odpowiednie zastosowanie przepisy Kodeksu postępowania w sprawach o wykroczenia.";
 
+- **202)** w art. 291:
+    - **a)** w § 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy" oraz wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca",
+    - **b)** po § 2 dodaje się § 2 w brzmieniu: "§2 . Przepis § 2 stosuje się także do roszczenia pracodawcy, o którym mowa w art. 61 oraz w art. 101 § 2.",
+    - **c)** w § 3 skreśla się wyrazy "dopuścił się zagarnięcia mienia społecznego albo w inny sposób";
+
+- **203)** w art. 292 skreśla się oznaczenie § 1 oraz skreśla się § 2;
+- **204)** w art. 295 :
+    - **a)** w § 1 wyrazy "Kierownik zakładu pracy" zastępuje się wyrazem "Pracodawca" oraz skreśla się wyrazy "w zakładzie",
+    - **b)** w § 3 skreśla się wyrazy "utworzona w zakładzie stosującym grupową organizację pracy";
+
+- **205)** skreśla się art. 296;
+- **206)** w art. 297 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową", użyty dwukrotnie wyraz "zasady" zastępuje się wyrazem "sposób" oraz wyrazy "przewidzianych przepisami prawa pracy" zastępuje się wyrazami "przewidzianych w Kodeksie pracy";
+- **207)** w art. 298:
+    - **a)** w § 1 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową" oraz wyrazy "w innych zakładach pracy", zaś wyrazy "w zakładach służby zdrowia" zastępuje się wyrazami "w zakładach opieki zdrowotnej i w jednostkach pomocy społecznej",
+    - **b)** § 3 otrzymuje brzmienie: "§3. Rada Ministrów może, w drodze rozporządzenia, wprowadzić dla pracowników, o których mowa w § 1, nawiązywanie stosunku pracy na podstawie mianowania, a także na podstawie powołania.";
+
+- **208)** po art. 298 dodaje się art. 298 i 298 w brzmieniu: "Art. 298 . Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, zakres prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposób prowadzenia akt osobowych pracownika.
+
 **Art. 298².** Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.";
+
+- **209)** skreśla się art. 299;
+- **210)** w art. 301 w § 1 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
+- **211)** w art. 302 wyrazy "w organach Milicji Obywatelskiej i Służby Więziennej" zastępuje się wyrazami "w Policji, Urzędzie Ochrony Państwa, Służbie Więziennej, Straży Granicznej i Państwowej Straży Pożarnej";
+- **212)** w art. 303:
+    - **a)** w § 1 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową",
+    - **b)** w § 2 wyrazy "w tym samym trybie określić" zastępuje się wyrazami "określić, w drodze rozporządzenia,";
+
+- **213)** art. 304 otrzymuje brzmienie: "Art. 304. §1. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki pracy, o których mowa w art. 207 § 2, osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę.
+
+§ 2. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki zajęć odbywanych na terenie zakładu pracy przez studentów i uczniów nie będących jego pracownikami.
+
+§ 3. Obowiązki określone w art. 207 § 2 stosuje się odpowiednio do jednostek organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych.
+
+§ 4. W razie prowadzenia prac w miejscu, do którego mają dostęp osoby nie biorące udziału w procesie pracy, pracodawca jest obowiązany zastosować środki niezbędne do zapewnienia ochrony życia i zdrowia tym osobom.
+
+§ 5. Minister Obrony Narodowej - w stosunku do żołnierzy w czynnej służbie wojskowej, a Minister Sprawiedliwości - w stosunku do osób przebywających w zakładach karnych lub w zakładach poprawczych, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, określą, w drodze rozporządzeń, zakres stosowania do tych osób przepisów działu dziesiątego w razie wykonywania określonych zadań lub prac na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę.";
+
+- **214)** po art. 304 dodaje się art. 304 -304 w brzmieniu: "Art. 304 . Obowiązki, o których mowa w art. 211, ciążą również na osobach fizycznych wykonujących pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę.
 
 **Art. 304².** Do członków rolniczych spółdzielni produkcyjnych i współpracujących z nimi członków ich rodzin oraz członków spółdzielni kółek rolniczych (usług rolniczych) stosuje się odpowiednio art. 208 § 1, art. 213 § 2, art. 217 § 2, art. 218, art. 220 § 1 i art. 221 § 1-3.
 
-**Art. 304³.** Do osób fizycznych prowadzących na własny rachunek działalność gospodarczą stosuje się odpowiednio art. 208 § 1.
+**Art. 304³.** Do osób fizycznych prowadzących na własny rachunek działalność gospodarczą stosuje się odpowiednio art. 208
+
+§ 1
 
 **Art. 304⁴.** Pracodawca jest obowiązany przydzielać niezbędną odzież roboczą i środki ochrony indywidualnej osobom wykonującym krótkotrwałe prace albo czynności inspekcyjne, w czasie których ich własna odzież może ulec zniszczeniu lub znacznemu zabrudzeniu, a także ze względu na bezpieczeństwo wykonywania tych prac lub czynności.";
+
+- **215)** skreśla się art. 305.
 
 **Art. 2.** Ilekroć w przepisach prawa pracy jest mowa o prawach i obowiązkach zakładu pracy lub kierownika zakładu pracy, przepisy te stosuje się odpowiednio do pracodawców w rozumieniu art. 3 Kodeksu pracy.
 
@@ -1060,17 +1389,64 @@ source: "isap-pdf"
 
 **Art. 27.** W ustawie z dnia 21 maja 1963 r. o substancjach trujących (Dz.U. Nr 22, poz. 116 i z 1983 r. Nr 6, poz. 35) wprowadza się następujące zmiany:
 
+- **1)** w art. 2:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Ze względu na stopień niebezpieczeństwa dla zdrowia ludzi spośród substancji trujących wyodrębnia się trucizny.",
+    - **b)** w ust. 2 wyrazy "wykazy trucizn i środków szkodliwych" zastępuje się wyrazami "wykaz substancji trujących, z wyodrębnieniem trucizn",
+    - **c)** ust. 3 otrzymuje brzmienie: "3. Wykaz, o którym mowa w ust. 2, może określać stężenie, przy którym mieszanin (wyrobów) zawierających substancje trujące nie uważa się za substancje trujące w rozumieniu ustawy.";
+
+- **2)** w art. 10 wyrazy "środki szkodliwe" zastępuje się wyrazami "inne substancje trujące", zaś wyrazy "środków szkodliwych" zastępuje się wyrazami "substancji trujących";
+- **3)** w art. 15 wyrazy "substancji trujących" zastępuje się wyrazem "trucizn".
+
 **Art. 28.** Minister Zdrowia i Opieki Społecznej w porozumieniu z właściwymi ministrami dostosuje przepisy wydane na podstawie art. 3 ust. 7 ustawy o substancjach trujących do zasad dotyczących substancji chemicznych, określonych w przepisach wydanych na podstawie art. 221 § 5 Kodeksu pracy, w okresie jednego roku od dnia wejścia w życie tych przepisów.
 
 **Art. 29.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
+
+- **1)** w części pierwszej w księdze pierwszej po tytule III dodaje się nowy tytuł IIIa w brzmieniu: "Tytuł IIIa. Państwowa Inspekcja Pracy
 
 **Art. 63¹.** W sprawach o ustalenie istnienia stosunku pracy inspektorzy pracy mogą wytaczać powództwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium.
 
 **Art. 63².** W sprawach wymienionych w artykule poprzedzającym do inspektorów pracy stosuje się odpowiednio przepisy o prokuratorze.";
 
+- **2)** w art. 462 po wyrazach "o których mowa w art. 61" dodaje się wyrazy ", a także inspektorzy pracy w zakresie określonym w art. 63 ";
+- **3)** w art. 463 po § 1 dodaje się § 1 w brzmieniu: "§ 1 . Przepis § 1 stosuje się także w sprawie o ustalenie istnienia stosunku pracy wytoczonej z powództwa inspektora pracy.";
+- **4)** w art. 465 w § 1 po wyrazach "przedstawiciel związku zawodowego" dodaje się wyrazy "lub inspektor pracy";
+- **5)** w art. 476 w § 1 po pkt 1 dodaje się pkt 1 w brzmieniu: "1 ) o ustalenie istnienia stosunku pracy, jeżeli łączący strony stosunek prawny, wbrew zawartej między nimi umowie, ma cechy stosunku pracy,";
+- **6)** w art. 477 po § 1 dodaje się § 1 w brzmieniu: "§ 1 . Sąd wydając wyrok w sprawie o ustalenie istnienia stosunku pracy nie może oddalić powództwa tylko na tej podstawie, że powód nie udowodnił wszystkich faktów niezbędnych do takiego ustalenia; w takim wypadku sąd prowadzi postępowanie dowodowe z urzędu.".
+
 **Art. 30.** W ustawie z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz.U. z 1983 r. Nr 30, poz. 144, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 36, poz. 206, z 1991 r. Nr 94, poz. 422 i z 1995 r. Nr 4, poz. 17) w art. 6 dodaje się ust. 3-5 w brzmieniu: "3. Za śmiertelny wypadek przy pracy uważa się wypadek, w wyniku którego nastąpiła śmierć w miejscu wypadku lub w okresie nie przekraczającym 6 miesięcy od dnia wypadku. 4. Za ciężki wypadek przy pracy uważa się wypadek, w wyniku którego nastąpiło ciężkie uszkodzenie ciała, mianowicie: utrata wzroku, słuchu, mowy, zdolności płodzenia lub inne uszkodzenie ciała albo rozstrój zdrowia, naruszające podstawowe funkcje organizmu, a także choroba nieuleczalna lub zagrażająca życiu, trwała choroba psychiczna, trwała, całkowita lub znaczna niezdolność do pracy w zawodzie albo trwałe poważne zeszpecenie lub zniekształcenie ciała. 5. Za zbiorowy wypadek przy pracy uważa się wypadek, któremu w wyniku tego samego zdarzenia uległy co najmniej dwie osoby.".
 
 **Art. 31.** W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz.U. z 1985 r. Nr 54, poz. 276 i z 1989 r. Nr 34, poz. 178) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w ust. 2 wyrazy "w ust. 1 pkt 1" zastępuje się wyrazami "w ust. 1";
+- **2)** w art. 8:
+    - **a)** w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: "11a) wnoszenie powództw, a za zgodą zainteresowanej osoby uczestniczenie w postępowaniu przed sądem pracy, o ustalenie istnienia stosunku pracy, jeżeli łączący strony stosunek prawny, wbrew zawartej między nimi umowie, ma cechy stosunku pracy,"
+    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Do zakresu działania Państwowej Inspekcji Pracy należy ponadto:
+
+- **1)** nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków pracy osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę,
+- **2)** nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków zajęć odbywanych na jego terenie przez studentów i uczniów nie będących pracownikami,
+- **3)** nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez jednostki organizujące pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych,
+- **4)** nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez pracodawcę przy wykonywaniu pracy na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę przez osoby przebywające w zakładach karnych i w zakładach poprawczych oraz zadań wykonywanych przez żołnierzy w czynnej służbie.
+
+1. Pracownicy Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne mają prawo przeprowadzania czynności kontrolnych wobec podmiotów, na rzecz których jest wykonywana praca przez osoby fizyczne, bez względu na podstawę świadczenia tej pracy.",
+
+- **c)** w ust. 2 wyrazy "Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne" zastępuje się wyrazami ", o których mowa w ust. 1 ,",
+- **d)** ust. 3 otrzymuje brzmienie: "3. Kontrolę przeprowadza się po okazaniu legitymacji służbowej.";
+- **3)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Tworzy się Komisję Kwalifikacyjną do Oceny Kandydatów na Rzeczoznawców. Główny Inspektor Pracy w porozumieniu z Ministrem Pracy i Polityki Socjalnej powołuje i odwołuje członków Komisji.
+
+2. Członkowie Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców otrzymują za udział w pracach Komisji wynagrodzenie na zasadach ustalonych przez Głównego Inspektora Pracy oraz diety i zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych.
+
+3. Główny Inspektor Pracy, na wniosek Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców, nadaje uprawnienia rzeczoznawcy do spraw bezpieczeństwa i higieny pracy, upoważnionego do opiniowania projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, pod względem zgodności z przepisami bezpieczeństwa i higieny pracy oraz wymaganiami ergonomii. Główny Inspektor Pracy może cofnąć uprawnienia rzeczoznawcy z własnej inicjatywy lub na wniosek okręgowego inspektora pracy.
+
+4. Koszty związane z przygotowaniem kandydatów na rzeczoznawców i podnoszeniem kwalifikacji przez rzeczoznawców, o których mowa w ust. 5 pkt 1, i nadaniem uprawnienia, o którym mowa w ust. 3, ponosi kandydat na rzeczoznawcę lub rzeczoznawca albo pracodawca zatrudniający te osoby - na zasadach ustalonych przez Głównego Inspektora Pracy.
+
+5. Minister Pracy i Polityki Socjalnej w porozumieniu z Głównym Inspektorem Pracy określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe zasady oraz tryb nadawania i cofania uprawnień rzeczoznawców do spraw bezpieczeństwa i higieny pracy, a także wymagany zakres przygotowania kandydatów na rzeczoznawców i podnoszenia kwalifikacji przez rzeczoznawców,
+- **2)** szczegółowe zasady opiniowania przez rzeczoznawców do spraw bezpieczeństwa i higieny pracy projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, oraz tryb odwoływania się od opinii,
+- **3)** tryb powoływania i odwoływania członków Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców i szczegółowe zasady działania tej Komisji.";
+- **4)** w art. 11 w ust. 1 na końcu dodaje się wyrazy "oraz inne podmioty, na rzecz których jest świadczona praca przez osoby fizyczne";
+- **5)** w art. 13 po ust. 1 dodaje się ust. 1 w brzmieniu: "1 . Organy Policji, w razie uzasadnionej potrzeby oraz w celu zapewnienia bezpieczeństwa kontrolującym, są obowiązane, na wniosek właściwego okręgowego inspektora pracy, do udzielenia stosownej pomocy.";
+- **6)** w art. 20 w ust. 3 dodaje się zdanie: "W toku wykonywania czynności kontrolnych inspektor pracy może sprawdzać tożsamość osób wykonujących pracę.".
 
 **Art. 32.** W ustawie z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz.U. Nr 24, poz. 123, z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57, z 1990 r. Nr 17, poz. 99 i z 1991 r. Nr 2, poz. 6) w art. 24 w ust. 1 skreśla się pkt 13.
 
@@ -1082,15 +1458,42 @@ source: "isap-pdf"
 
 **Art. 36.** W ustawie z dnia 10 kwietnia 1986 r. - Prawo atomowe (Dz.U. Nr 12, poz. 70, z 1987 r. Nr 33, poz. 180, z 1991 r. Nr 8, poz. 28, z 1994 r. Nr 90, poz. 418 i z 1995 r. Nr 104, poz. 515) wprowadza się następujące zmiany:
 
+- **1)** w art. 9 w ust. 1 po wyrazach "pięciokrotnej granicznej dawki rocznej" stawia się kropkę, a dalszą część zdania skreśla się;
+- **2)** skreśla się art. 10.
+
 **Art. 37.** W ustawie z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz.U. z 1990 r. Nr 4, poz. 19, Nr 10, poz. 59 i Nr 51, poz. 298, z 1991 r. Nr 83, poz. 372, Nr 106, poz. 457 i Nr 113, poz. 491, z 1992 r. Nr 21, poz. 84 oraz z 1994 r. Nr 1, poz. 1) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 w ust. 1 w pierwszym zdaniu po wyrazach "przedsiębiorstwa państwowego" dodaje się wyrazy "oraz społecznymi inspektorami pracy";
+- **2)** skreśla się art. 7.
+
 **Art. 38.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591 oraz z 1996 r. Nr 5, poz. 34) dodaje się art. 178 w brzmieniu: "Art. 178 .§1. Rektor jest obowiązany zapewnić bezpieczne i higieniczne warunki osobom pobierającym naukę albo odbywającym zajęcia praktyczno-techniczne w uczelni lub wykonującym prace społecznie użyteczne na rzecz tej uczelni.
+
+§ 2. Minister Edukacji Narodowej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy obowiązujące w szkołach wyższych.".
 
 **Art. 39.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz.U. Nr 41, poz. 178) w art. 11 w ust. 2 wyrazy "art. 43 § 1 pkt 2 Kodeksu pracy" zastępuje się wyrazami "w art. 43 Kodeksu pracy".
 
 **Art. 40.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz.U. Nr 55, poz. 234, z 1994 r. Nr 43, poz. 163 i z 1996 r. Nr 1, poz. 2) wprowadza się następujące zmiany:
 
+- **1)** w art. 25:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Pracownikowi powołanemu do pełnienia z wyboru funkcji związkowej poza zakładem pracy, jeżeli z wyboru wynika obowiązek wykonywania tej funkcji w charakterze pracownika, przysługuje - na wniosek organizacji związkowej - prawo do urlopu bezpłatnego.",
+    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Pracownikowi, który po urlopie bezpłatnym stawi się do pracy w terminie przewidzianym w art. 74 Kodeksu pracy, okres urlopu bezpłatnego wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+1. Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania urlopu bezpłatnego oraz zakres uprawnień przysługujących pracownikowi korzystającemu z tego urlopu.";
+
+- **2)** w art. 30: Nieudzielenie tej informacji w ciągu 5 dni zwalnia pracodawcę od obowiązku współdziałania z zakładową organizacją związkową w sprawach dotyczących tych pracowników.";
+    - **a)** ust. 2 otrzymuje brzmienie: "2. Pracownik nie zrzeszony w związku zawodowym ma prawo do obrony swoich praw na zasadach dotyczących pracowników będących członkami związku, jeżeli wybrana przez niego zakładowa organizacja związkowa wyrazi zgodę na obronę jego praw pracowniczych.",
+    - **b)** po ust. 2 dodaje się ust. 2 w brzmieniu: "2 . W indywidualnych sprawach ze stosunku pracy, w których przepisy prawa pracy zobowiązują pracodawcę do współdziałania z zakładową organizacją związkową, pracodawca jest obowiązany zwrócić się do tej organizacji o informację o pracownikach korzystających z jej obrony, zgodnie z przepisami ust. 1 i 2.
+    - **c)** ust. 5 otrzymuje brzmienie: "5. Jeżeli w sprawie ustalenia regulaminu wynagradzania lub regulaminu pracy albo planu urlopów, a także okresu rozliczeniowego, o którym mowa w art. 129 § 2 zdanie drugie i § 3 Kodeksu pracy, organizacje związkowe nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje w tych sprawach podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.";
+
+- **3)** w art. 31 w ust. 2 drugie zdanie otrzymuje brzmienie: "Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania zwolnień od pracy oraz zakres uprawnień przysługujących pracownikowi w czasie tych zwolnień.".
+
 **Art. 42.** Minister Pracy i Polityki Socjalnej ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
 **Art. 43.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów:
+
+- **1)** działu szóstego i siódmego Kodeksu pracy, które wchodzą w życie z dniem 1 stycznia 1997 r.,
+- **2)** art. 217 i art. 237 § 2 i 3 Kodeksu pracy, które wchodzą w życie po upływie jednego roku od dnia wejścia w życie ustawy,
+- **3)** art. 220 § 1 Kodeksu pracy, który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 220 § 2 Kodeksu pracy,
+- **4)** art. 221 § 2 Kodeksu pracy, który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 221 § 5 Kodeksu pracy.
+
 

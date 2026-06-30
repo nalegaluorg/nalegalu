@@ -8,10 +8,10 @@ pos: 598
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
 
 *USTAWA z dnia 14 marca 2014 r.*
 
@@ -28,6 +28,116 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/598/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 w ust. 1: 1a–1c, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pobyt czasowy, o którym mowa w art. 114, art. 126, art. 127 lub art. 142 ust. 3, z zastrzeżeniem art. 119 i art. 135 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;”, 1 lub nie posiada zezwolenia na pracę, nie będąc zwolnionym na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę, lub którego podstawa pobytu nie uprawnia do wykonywania pracy, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pracę, z zastrzeżeniem art. 88f ust. 1a–1c, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pobyt czasowy, o którym mowa w art. 114, art. 126, art. 127 lub art. 142 ust. 3, z zastrzeżeniem art. 119 i art. 135 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub bez zawarcia umowy o pracę albo umowy cywilnoprawnej w wymaganej formie;”,
+    - **a)** w pkt 2 po lit. c dodaje się lit. ca w brzmieniu: „ca) nie nabyła prawa do emerytury albo renty z tytułu niezdolności do pracy, przyznanej przez zagraniczny organ emerytalny lub rentowy, w wysokości co najmniej najniższej emerytury albo renty z tytułu niezdolności do pracy, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,”,
+    - **b)** pkt 6 otrzymuje brzmienie: „6) bezrobotnym bez kwalifikacji zawodowych – oznacza to bezrobotnego nieposiadającego kwalifikacji do wykonywania jakiegokolwiek zawodu poświadczonych dyplomem, świadectwem lub innym dokumentem uprawniającym do wykonywania zawodu;”,
+    - **c)** po pkt 9a dodaje się pkt 9aa w brzmieniu: „9aa) działaniach aktywizacyjnych – oznacza to pakiet działań mających na celu podjęcie i utrzymanie przez bezrobotnego odpowiedniej pracy lub działalności gospodarczej;”,
+    - **d)** pkt 9b otrzymuje brzmienie: „9b) EURES – oznacza to europejskie służby zatrudnienia państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, realizujące działania obejmujące w szczególności pośrednictwo pracy wraz z doradztwem w zakresie mobilności na rynku pracy;”,
+    - **e)** w pkt 13 uchyla się lit. e,
+    - **f)** pkt 14 otrzymuje brzmienie: „14) nielegalnym wykonywaniu pracy przez cudzoziemca – oznacza to wykonywanie pracy przez cudzoziemca, który nie jest uprawniony do wykonywania pracy w rozumieniu art. 87 ust. 1 lub nie posiada zezwolenia na pracę, nie będąc zwolnionym na podstawie przepisów szczególnych z obowiązku posiadania zezwolenia na pracę, lub którego podstawa pobytu nie uprawnia do wykonywania pracy, lub który wykonuje pracę na innych warunkach lub na innym stanowisku niż określone w zezwoleniu na pracę, z zastrzeżeniem art. 88f ust.
+    - **g)** pkt 21a otrzymuje brzmienie: „21a) partnerstwie transgranicznym EURES – oznacza to działania sieci EURES w regionach przygranicznych Rzeczypospolitej Polskiej, realizowane przez służby zatrudnienia oraz inne podmioty z państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, uprawnione do realizacji działań sieci EURES;”,
+    - **h)** po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) powierzeniu cudzoziemcowi nielegalnego wykonywania pracy – oznacza to powierzenie wykonywania pracy cudzoziemcowi, który nie jest uprawniony do wykonywania pracy w rozumieniu art. 87 ust.
+    - **i)** pkt 26 i 26a otrzymują brzmienie: „26) pracach interwencyjnych – oznacza to zatrudnienie bezrobotnego przez pracodawcę, które nastąpiło w wyniku umowy zawartej ze starostą i ma na celu wsparcie bezrobotnych;
+
+- **26a)** projektach współfinansowanych z Europejskiego Funduszu Społecznego – oznacza to projekty realizowane przez powiatowe urzędy pracy na podstawie umowy zawartej pomiędzy zarządem województwa a ministrem właściwym do spraw rozwoju regionalnego, prefinansowane w całości ze środków Funduszu Pracy przeznaczonych w roku budżetowym na realizację przez samorządy powiatowe programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej;”,
+    - **j)** pkt 27a otrzymuje brzmienie: „27a) praktycznej nauce zawodu dorosłych – oznacza to formę przygotowania zawodowego dorosłych umożliwiającą uzyskanie:
+    - **a)** świadectwa czeladniczego,
+    - **b)** świadectw potwierdzających kwalifikacje w zawodzie,
+    - **c)** dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminów potwierdzających wszystkie kwalifikacje wyodrębnione w danym zawodzie przez osoby posiadające: – wykształcenie zasadnicze zawodowe albo – zdany egzamin eksternistyczny z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej, albo – wykształcenie średnie;”,
+    - **k)** pkt 29b otrzymuje brzmienie: „29b) przyuczeniu do pracy dorosłych – oznacza to formę przygotowania zawodowego dorosłych, umożliwiającą uzyskanie wybranych umiejętności lub kwalifikacji zawodowych potwierdzonych zaświadczeniem lub świadectwem;”,
+    - **l)** pkt 32 otrzymuje brzmienie: „32) robotach publicznych – oznacza to zatrudnienie bezrobotnego w okresie nie dłuższym niż 12 miesięcy przy wykonywaniu prac organizowanych przez powiaty – z wyłączeniem prac organizowanych w urzędach pracy – gminy, organizacje pozarządowe statutowo zajmujące się problematyką ochrony środowiska, kultury, oświaty, kultury fizycznej i turystyki, opieki zdrowotnej, bezrobocia oraz pomocy społecznej, a także spółki wodne i ich związki, jeżeli prace te są finansowane lub dofinansowane ze środków samorządu terytorialnego, budżetu państwa, funduszy celowych, organizacji pozarządowych, spółek wodnych i ich związków;”,
+    - **m)** uchyla się pkt 42;
+
+- **2)** w art. 3 ust. 4 otrzymuje brzmienie: „4. Samorząd województwa na podstawie Krajowego Planu Działań, uwzględniając strategie rozwoju województwa, w tym w zakresie polityki społecznej, o których mowa w przepisach o samorządzie województwa i przepisach o pomocy społecznej, przygotowuje corocznie regionalny plan działań na rzecz zatrudnienia, określający priorytetowe grupy bezrobotnych i innych osób wymagających wsparcia – po zasięgnięciu opinii powiatów wchodzących w skład województwa oraz wojewódzkiej komisji dialogu społecznego, o której mowa w ustawie z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm. ), zwanej dalej „ustawą o Trójstronnej Komisji”.”;
+- **3)** w art. 4:
+    - **a)** w ust. 1: – w pkt 2: – – lit. d otrzymuje brzmienie: „d) realizowanie zadań wynikających z prawa swobodnego przepływu pracowników między państwami, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w szczególności działań wynikających z udziału w sieci EURES, w tym koordynowanie sieci EURES na terenie Rzeczypospolitej Polskiej poprzez udzielanie akredytacji do prowadzenia pośrednictwa pracy sieci EURES, zwanej dalej „akredytacją”, przygotowanie, zatwierdzanie, monitorowanie i ocenę realizacji planów działań sieci EURES oraz sprawozdań z ich realizacji, a także koordynowanie partnerstw transgranicznych EURES na terenie działania tych partnerstw,”, – – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) upowszechnianie dobrych praktyk w zakresie zlecania działań aktywizacyjnych, o których mowa w art. 66d;”, – pkt 4 otrzymuje brzmienie: „4) zapewnianie jednolitości stosowania prawa, w szczególności przez udzielanie wyjaśnień dotyczących stosowania przepisów ustawy;”, – w pkt 7: – – lit. a otrzymuje brzmienie: „a) prowadzenie badań i analiz rynku pracy oraz upowszechnianie ich wyników, w tym prowadzenie corocznej analizy dotyczącej oceny funkcjonowania urzędów pracy w celu poprawy efektywności ich działania,”, – – w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h oraz i w brzmieniu: „h) realizację zadań związanych z Krajowym Funduszem Szkoleniowym, o którym mowa w art. 69a ust. 1, zwanym dalej „KFS”, w szczególności ustalanie, w porozumieniu z Radą Rynku Pracy, priorytetów, wzoru podziału środków KFS i planu ich wydatkowania,
+    - **i)** podejmowanie decyzji w sprawie priorytetów wydatkowania środków z rezerwy KFS lub o przeznaczeniu rezerwy KFS, w przypadku gdy Rada Rynku Pracy nie ustali tych priorytetów lub nie zdecyduje o przeznaczeniu rezerwy KFS w terminie do dnia 30 czerwca danego roku;”,
+    - **b)** po ust. 1 dodaje się ust. 1 w brzmieniu: „1 . Minister właściwy do spraw pracy publikuje corocznie na stronie internetowej urzędu obsługującego ministra:
+
+- **1)** katalog podstawowych form aktywizacji zawodowej, rozumianych jako usługi i instrumenty rynku pracy finansowane ze środków Funduszu Pracy, dla których w danym roku będą określone wskaźniki, o których mowa w pkt 2 lit. b i c;
+- **2)** informację, uzyskaną na podstawie badań statystycznych prowadzonych wspólnie przez ministra właściwego do spraw pracy i Prezesa Głównego Urzędu Statystycznego zgodnie z przepisami o statystyce publicznej, o:
+    - **a)** wydatkach Funduszu Pracy poniesionych na finansowanie przez samorządy powiatowe podstawowych form aktywizacji zawodowej,
+    - **b)** wskaźnikach efektywności zatrudnieniowej podstawowych form aktywizacji zawodowej, rozumianej jako udział procentowy liczby osób, które w trakcie lub po zakończeniu udziału w podstawowych formach aktywizacji zawodowej zostały wykazane jako zatrudnione, w stosunku do liczby osób, które zakończyły udział w podstawowych formach aktywizacji zawodowej,
+    - **c)** wskaźnikach efektywności kosztowej podstawowych form aktywizacji zawodowej, rozumianej jako stosunek kwoty wydatków Funduszu Pracy poniesionych przez samorządy powiatowe na finansowanie podstawowych form aktywizacji zawodowej do liczby osób, które w trakcie lub po zakończeniu udziału w podstawowych formach aktywizacji zawodowej zostały wykazane jako zatrudnione;
+
+- **3)** inne opracowania przedstawiające efekty działań urzędów pracy w aktualnej sytuacji na rynku pracy.”;
+- **4)** w art. 8:
+    - **a)** w ust. 1: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) realizacja zadań związanych z KFS, w szczególności podział środków KFS pomiędzy powiatowe urzędy pracy, z uwzględnieniem priorytetów określonych przez ministra właściwego do spraw pracy, w porozumieniu z Radą Rynku Pracy;”, – pkt 3 i 4 otrzymują brzmienie: „3) opracowywanie badań i analiz rynku pracy, w tym prowadzenie monitoringu zawodów deficytowych i nadwyżkowych oraz badanie zapotrzebowania na pracę w celu podniesienia efektywności prowadzonych działań na rzecz wzrostu i promocji zatrudnienia;
+
+- **4)** współdziałanie z wojewódzką radą rynku pracy w określaniu i realizacji regionalnej polityki rynku pracy i rozwoju zasobów ludzkich;”, – w pkt 6 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) inicjowanie i realizowanie badań i analiz wykorzystywanych w działaniach realizowanych przez urzędy pracy;”, – po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) inicjowanie programów regionalnych i ich realizowanie, w porozumieniu z powiatowymi urzędami pracy;
+- **7b)** zlecanie działań aktywizacyjnych;”, – w pkt 8: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „realizowanie zadań wynikających z koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, oraz państw, z którymi Rzeczpospolita Polska zawarła dwustronne umowy międzynarodowe o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, w szczególności:”, – – lit. c otrzymuje brzmienie: „c) wydawanie decyzji w sprawach wymienionych w art. 8a;”, – w pkt 9 lit. a otrzymuje brzmienie: „a) wspieranie i realizację działań sieci EURES, w tym koordynowanie realizacji tych działań przez urzędy pracy na terenie województwa, we współpracy z ministrem właściwym do spraw pracy, samorządami powiatowymi oraz innymi podmiotami uprawnionymi do realizacji działań sieci EURES,”, – pkt 11 otrzymuje brzmienie: „11) świadczenie poradnictwa zawodowego oraz jego koordynowanie w publicznych służbach zatrudnienia na terenie województwa;”, – pkt 15 otrzymuje brzmienie: „15) coroczne określanie i ogłaszanie w wojewódzkim dzienniku urzędowym, w terminie do dnia 30 kwietnia, po zasięgnięciu opinii wojewódzkiej rady rynku pracy, na podstawie klasyfikacji zawodów i specjalności na potrzeby rynku pracy, o której mowa w art. 4 ust. 1 pkt 7 lit. b, oraz klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach o systemie oświaty, wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 12 ust. 6, przy uwzględnieniu zapotrzebowania na kwalifikacje i umiejętności na rynku pracy;”, – po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) współpraca ze szkołami wyższymi w zakresie wsparcia studentów, absolwentów i doktorantów szkół wyższych w wejściu na rynek pracy;”, – po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) przetwarzanie informacji o bezrobotnych i poszukujących pracy korzystających z pomocy określonej w ustawie;”,
+    - **b)** po ust. 1b dodaje się ust. 1c i 1d w brzmieniu: „1c. Informacje o bezrobotnych i poszukujących pracy są udostępniane publicznym służbom zatrudnienia lub innym podmiotom realizującym zadania na podstawie ustawy lub odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny, w zakresie niezbędnym do prawidłowej realizacji tych zadań.
+
+1d. Informacje, o których mowa w ust. 1c, są udostępniane w trybie i na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, na podstawie wniosku złożonego w szczególności w formie dokumentu elektronicznego lub z wykorzystaniem systemów teleinformatycznych, jeżeli wojewódzki urząd pracy oraz podmioty, o których mowa w ust. 1c, spełniają łącznie następujące warunki:
+
+- **1)** posiadają możliwość identyfikacji osoby uzyskującej informacje w systemie oraz zakresu, daty i celu ich uzyskania;
+- **2)** posiadają zabezpieczenia uniemożliwiające wykorzystanie informacji niezgodnie z celem ich uzyskania;
+- **3)** zapewniają, że dostęp do danych osobowych jest nadzorowany i rejestrowany zgodnie z przepisami o ochronie danych osobowych.”,
+    - **c)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Właściwość miejscowa marszałka województwa nie ulega zmianie w przypadku zmiany przez bezrobotnego miejsca zamieszkania przed zakończeniem postępowania administracyjnego dotyczącego spraw, o których mowa w ust. 1 pkt 8 lit. c, i niezarejestrowania się przez niego w powiatowym urzędzie pracy właściwym dla nowego miejsca zamieszkania.”,
+    - **d)** ust. 6 otrzymuje brzmienie: „6. Marszałek województwa powołuje dyrektora wojewódzkiego urzędu pracy wyłonionego w drodze konkursu spośród osób posiadających wykształcenie wyższe oraz co najmniej 3-letni staż pracy w publicznych służbach zatrudnienia lub co najmniej 5-letni staż pracy w innych instytucjach rynku pracy. Marszałek województwa odwołuje dyrektora wojewódzkiego urzędu pracy po uzyskaniu opinii wojewódzkiej rady rynku pracy. Opinia wojewódzkiej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz w przypadku odwołania dyrektora wojewódzkiego urzędu pracy na jego wniosek.”,
+    - **e)** w ust. 8: – wprowadzenie do wyliczenia otrzymuje brzmienie: „W ramach wojewódzkiego urzędu pracy funkcjonuje co najmniej jedno centrum informacji i planowania kariery zawodowej, będące wyspecjalizowaną komórką organizacyjną, która w szczególności:”, – pkt 1 i 2 otrzymują brzmienie: „1) wspomaga powiatowe urzędy pracy w prowadzeniu poradnictwa zawodowego przez świadczenie wyspecjalizowanych usług w zakresie planowania kariery zawodowej na rzecz bezrobotnych i poszukujących pracy, w tym świadczy usługę poradnictwa na odległość z wykorzystaniem systemów teleinformatycznych;
+
+- **2)** we współpracy z powiatowymi urzędami pracy opracowuje, aktualizuje i upowszechnia informacje zawodowe, w szczególności w powiatowych urzędach pracy na terenie województwa;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) we współpracy z akademickimi biurami karier opracowuje, aktualizuje i upowszechnia informacje zawodowe, w szczególności w akademickich biurach karier i powiatowych urzędach pracy na terenie województwa;”, – uchyla się pkt 3 i 5, – pkt 7–9 otrzymują brzmienie: „7) świadczy poradnictwo zawodowe na rzecz pracodawców oraz ich pracowników, wspomagając powiatowe urzędy pracy w tym zakresie;
+- **8)** udziela informacji o możliwościach i zakresie świadczonej pomocy przez urzędy pracy;
+- **9)** w porozumieniu z ministrem właściwym do spraw pracy opracowuje i aktualizuje informacje zawodowe oraz inne zasoby informacji pomocne w aktywnym poszukiwaniu pracy o charakterze ogólnokrajowym;”, – dodaje się pkt 10 w brzmieniu: „10) realizuje działania o charakterze metodyczno-szkoleniowym w zakresie usług rynku pracy dla pracowników wojewódzkiego i powiatowych urzędów pracy.”,
+    - **f)** ust. 8a otrzymuje brzmienie: „8a. Utworzenie lub likwidacja centrum informacji i planowania kariery zawodowej wymaga pozytywnej opinii wojewódzkiej rady rynku pracy.”;
+
+- **5)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. 1. W sprawach dotyczących koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a– c, oraz państw, z którymi Rzeczpospolita Polska zawarła dwustronne umowy międzynarodowe o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, marszałek województwa rozstrzyga, w drodze decyzji, z zastrzeżeniem art. 9d, o przyznaniu albo odmowie przyznania prawa do zasiłku dla bezrobotnych, jeżeli okres ubezpieczenia, zatrudnienia lub pracy na własny rachunek spełniony przez bezrobotnego w innym państwie członkowskim Unii Europejskiej, państwie, o którym mowa w art. 1 ust. 3 pkt 2 lit. b i c, lub państwie, z którym Rzeczpospolita Polska zawarła dwustronną umowę międzynarodową o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, ma wpływ na nabycie, wysokość lub okres pobierania zasiłku, o którym mowa w art. 73 ust. 1 pkt 2 lit. b.
+
+2. W sprawach dotyczących koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w zakresie świadczeń dla bezrobotnych, marszałek województwa stwierdza zachowanie prawa do zasiłku dla bezrobotnych nabytego w Rzeczypospolitej Polskiej przez bezrobotnego udającego się do innego państwa członkowskiego Unii Europejskiej lub państwa określonego w art. 1 ust. 3 pkt 2 lit. b i c, w drodze wydania dokumentu, określonego w przepisach prawa Unii Europejskiej.
+
+3. W sprawach dotyczących koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, w zakresie świadczeń dla bezrobotnych, marszałek województwa rozstrzyga, w drodze decyzji, o odmowie stwierdzenia zachowania prawa do zasiłku dla bezrobotnych nabytego w Rzeczypospolitej Polskiej przez bezrobotnego udającego się do innego państwa członkowskiego Unii Europejskiej lub państwa określonego w art. 1 ust. 3 pkt 2 lit. b i c.
+
+4. Marszałek województwa rozstrzyga, w drodze decyzji, w innych sprawach dotyczących koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, oraz państw, z którymi Rzeczpospolita Polska zawarła dwustronne umowy międzynarodowe o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, jeżeli podstawę prawną rozstrzygnięcia stanowi przepis prawa Unii Europejskiej lub przepis dwustronnej umowy międzynarodowej o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych.”;
+
+- **6)** w art. 9:
+    - **a)** w ust. 1: – pkt 3 i 3a otrzymują brzmienie: „3) udzielanie pomocy bezrobotnym i poszukującym pracy w znalezieniu pracy przez pośrednictwo pracy i poradnictwo zawodowe;
+
+- **3a)** udzielanie pomocy pracodawcom w pozyskiwaniu pracowników przez pośrednictwo pracy i poradnictwo zawodowe;”, – po pkt 3a dodaje się pkt 3b i 3c w brzmieniu: „3b) kierowanie bezrobotnych do realizatora działań aktywizacyjnych, któremu marszałek województwa zlecił wykonanie działań aktywizacyjnych;
+- **3c)** realizacja zadań związanych z KFS, w szczególności udzielanie pomocy pracodawcom poprzez finansowanie kształcenia ustawicznego pracowników i pracodawcy;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) ustalanie profili pomocy dla bezrobotnych;”, – uchyla się pkt 7, – pkt 9 otrzymuje brzmienie: „9) opracowywanie badań, analiz i sprawozdań, w tym prowadzenie monitoringu zawodów deficytowych i nadwyżkowych, oraz dokonywanie ocen dotyczących rynku pracy na potrzeby powiatowej rady rynku pracy oraz organów zatrudnienia;”, – pkt 11–12a otrzymują brzmienie: „11) współdziałanie z powiatowymi radami rynku pracy w zakresie promocji zatrudnienia oraz wykorzystania środków Funduszu Pracy;
+- **12)** współpraca z gminami w zakresie upowszechniania ofert pracy i informacji o usługach poradnictwa zawodowego, szkoleniach, przygotowaniu zawodowym dorosłych, stażach, organizacji robót publicznych oraz prac społecznie użytecznych, realizacji Programu Aktywizacja i Integracja, o którym mowa w art. 62a, oraz zatrudnienia socjalnego na podstawie przepisów o zatrudnieniu socjalnym;
+- **12a)** współpraca z wojewódzkimi urzędami pracy w zakresie świadczenia podstawowych usług rynku pracy, w tym w opracowywaniu i aktualizacji informacji zawodowych;”, – pkt 15 otrzymuje brzmienie: „15) realizowanie zadań wynikających z koordynacji systemów zabezpieczenia społecznego państw, o których mowa w art. 1 ust. 3 pkt 2 lit. a–c, oraz państw, z którymi Rzeczpospolita Polska zawarła dwustronne umowy międzynarodowe o zabezpieczeniu społecznym, w zakresie świadczeń dla bezrobotnych, w tym realizowanie decyzji, o których mowa w art. 8a;”, – w pkt 16 lit. a otrzymuje brzmienie: „a) realizowanie działań sieci EURES we współpracy z ministrem właściwym do spraw pracy, samorządami województw oraz innymi podmiotami uprawnionymi do realizacji działań sieci EURES,”, – po pkt 17 dodaje się pkt 17a w brzmieniu: „17a) realizowanie zadań związanych z podejmowaniem przez cudzoziemców pracy na terytorium Rzeczypospolitej Polskiej;”, – po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) inicjowanie i realizowanie badań i analiz wykorzystywanych w działaniach prowadzonych przez urzędy pracy;”, – po pkt 21 dodaje się pkt 21a w brzmieniu: „21a) realizowanie programów regionalnych na podstawie porozumienia zawartego z wojewódzkim urzędem pracy;”, – pkt 22 otrzymuje brzmienie: „22) przetwarzanie informacji o bezrobotnych, poszukujących pracy i cudzoziemcach zamierzających wykonywać lub wykonujących pracę na terytorium Rzeczypospolitej Polskiej;”,
+    - **b)** ust. 2d otrzymuje brzmienie: „2d. Starosta może przeznaczyć środki Funduszu Pracy, w ramach kwoty przyznanej na finansowanie innych fakultatywnych zadań realizowanych przez powiatowe urzędy pracy, na finansowanie kosztów zarządzania realizowanymi projektami współfinansowanymi z Europejskiego Funduszu Społecznego, w szczególności na:
+
+- **1)** pomoc i doradztwo prawne powiatowemu urzędowi pracy w zakresie przygotowania i przeprowadzenia postępowania o udzielenie zamówienia publicznego bezpośrednio związanego z realizacją projektów współfinansowanych z Europejskiego Funduszu Społecznego i Funduszu Pracy,
+- **2)** zakup lub amortyzację sprzętu oraz zakup materiałów biurowych dla powiatowego urzędu pracy, niezbędnych i bezpośrednio związanych z realizacją projektów współfinansowanych z Europejskiego Funduszu Społecznego i Funduszu Pracy,
+- **3)** koszty wynagrodzeń oraz składek na ubezpieczenia społeczne pracowników nowozatrudnionych w powiatowych urzędach pracy do obsługi projektów współfinansowanych z Europejskiego Funduszu Społecznego – do wysokości 3% kwoty przyznanej ze środków będących w dyspozycji samorządu województwa na realizację zadań współfinansowanych ze środków Europejskiego Funduszu Społecznego i Funduszu Pracy.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Starosta powołuje dyrektora powiatowego urzędu pracy wyłonionego w drodze konkursu spośród osób posiadających wykształcenie wyższe oraz co najmniej 3-letni staż pracy w publicznych służbach zatrudnienia lub co najmniej 5-letni staż pracy w innych instytucjach rynku pracy. Starosta odwołuje dyrektora powiatowego urzędu pracy po uzyskaniu opinii powiatowej rady rynku pracy. Opinia powiatowej rady rynku pracy nie jest wymagana w przypadkach, o których mowa w art. 52 i art. 53 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz w przypadku odwołania dyrektora powiatowego urzędu pracy na jego wniosek.”;
+
+- **7)** po art. 9c dodaje się art. 9d w brzmieniu: „Art. 9d. 1. W przypadku gdy bezrobotny spełnia warunki do nabycia zasiłku określone w art. 71, a okresy jego ubezpieczenia, zatrudnienia lub pracy na własny rachunek spełnione w innym państwie członkowskim Unii Europejskiej lub państwie, o którym mowa w art. 1 ust. 3 pkt 2 lit. b i c, mogą mieć wpływ jedynie na wysokość lub okres pobierania zasiłku, o którym mowa w art. 73 ust. 1 pkt 2 lit. b, starosta wydaje decyzję na podstawie art. 9 ust. 1 pkt 14 lit. b, z uwzględnieniem jedynie okresów wymienionych w art. 71 ust. 1 i 2.
+
+2. Po wydaniu decyzji, o której mowa w ust. 1, starosta niezwłocznie przekazuje sprawę do marszałka województwa w celu ustalenia, czy okresy ubezpieczenia, zatrudnienia lub pracy na własny rachunek spełnione przez bezrobotnego w innym państwie członkowskim Unii Europejskiej lub państwie, o którym mowa w art. 1 ust. 3 pkt 2 lit. b i c, mają wpływ na wysokość lub okres pobierania zasiłku, o którym mowa w art. 73 ust. 1 pkt 2 lit. b.
+
+3. W przypadku ustalenia, że okresy ubezpieczenia, zatrudnienia lub pracy na własny rachunek spełnione przez bezrobotnego w innym państwie członkowskim Unii Europejskiej lub państwie, o którym mowa w art. 1 ust. 3 pkt 2 lit. b i c, mają wpływ na wysokość lub okres pobierania zasiłku, o którym mowa w art. 73 ust. 1 pkt 2 lit. b, marszałek województwa wydaje decyzję na podstawie art. 8a ust. 1.
+
+4. Wydanie przez marszałka województwa decyzji, o której mowa w ust. 3, oznacza uchylenie decyzji wydanej na mocy ust. 1, przy czym świadczenia wypłacone na podstawie decyzji, o której mowa w ust. 1, zalicza się na poczet świadczeń wynikających z decyzji, o której mowa w ust. 3.
+
+5. W przypadku ustalenia, że okresy ubezpieczenia, zatrudnienia lub pracy na własny rachunek spełnione przez bezrobotnego w innym państwie członkowskim Unii Europejskiej lub państwie, o którym mowa w art. 1 ust. 3 pkt 2 lit. b i c, nie mają wpływu na wysokość lub okres pobierania zasiłku, o którym mowa w art. 73 ust. 1 pkt 2 lit. b, marszałek województwa umarza prowadzone postępowanie administracyjne.”;
+
+- **8)** w art. 10:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) sposobu prowadzenia przez urzędy pracy usług rynku pracy, o których mowa w art. 35;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) realizowania przez podmioty, którym udzielono akredytacji, zobowiązań wynikających z ustawy oraz umowy akredytacyjnej;”, – pkt 4 otrzymuje brzmienie: „4) prawidłowości zlecania realizacji zadań i usług rynku pracy lub zlecania działań aktywizacyjnych;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Wojewoda, po zasięgnięciu opinii marszałka województwa oraz wojewódzkiej rady rynku pracy, ustala kryteria wydawania zezwoleń na pracę cudzoziemców.”;
+
+- **9)** w art. 12:
+    - **a)** w ust. 5: – w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „prowadzą pośrednictwo pracy oraz organizują zatrudnianie dla:”, – pkt 5 otrzymuje brzmienie: „5) refundują koszty poniesione przez pracodawcę na wynagrodzenia i składki na ubezpieczenia społeczne młodocianych pracowników, zatrudnionych na podstawie umowy o pracę w celu przygotowania zawodowego.”,
+    - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Refundacja, o której mowa w ust. 6, stanowi pomoc udzielaną zgodnie z warunkami dopuszczalności pomocy de minimis.”,
+    - **c)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Na podstawie upoważnienia ministra właściwego do spraw pracy Ochotnicze Hufce Pracy mogą prowadzić, z wykorzystaniem systemów teleinformatycznych, działania mające na celu upowszechnianie informacji o rynku pracy i ofertach pracy, możliwościach i zakresie pomocy określonej w ustawie.”,
+    - **d)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki i tryb refundowania pracodawcom ze środków Funduszu Pracy wynagrodzeń wypłacanych młodocianym pracownikom oraz składek na ubezpieczenia społeczne od refundowanych wynagrodzeń, w szczególności elementy wniosku o zawarcie umowy o refundację, terminy składania i kryteria rozpatrywania wniosku, podmioty uprawnione do zawarcia umowy o refundację, elementy umowy o refundację i wniosku o zwrot poniesionych kosztów przez pracodawcę, mając na względzie zapewnienie młodocianym pracownikom właściwych warunków odbywania przygotowania zawodowego oraz konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.”;
+
+- **10)** w art. 14 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zadania, o których mowa w art. 12 ust. 1, 2 i 7a, są realizowane przez Komendanta Głównego Ochotniczych Hufców Pracy, w szczególności przy pomocy:”;
+- **11)** uchyla się art. 18b;
+- **12)** w art. 18e w ust. 1 pkt 5 i 6 otrzymują brzmienie: „5) numer wpisu do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej – w przypadku przedsiębiorcy;
+- **6)** adres poczty elektronicznej, o ile podmiot taki adres posiada.”;
+- **13)** art. 18f otrzymuje brzmienie: „Art. 18f. Wniosek o wpis do rejestru może być złożony w postaci elektronicznej. Wniosek składany w postaci elektronicznej zawiera dane w ustalonym formacie elektronicznym, zawarte we wzorze wniosku, o którym mowa w art. 19k, oraz powinien być opatrzony:
+- **1)** bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu, zgodnie z zasadami określonymi w ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262), albo
+- **2)** podpisem potwierdzonym profilem zaufanym ePUAP, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
+- **14)** w art. 18h dodaje się ust. 3 w brzmieniu: „3. Do zaświadczeń i oświadczeń, o których mowa w ust. 1, przepis art. 18f stosuje się odpowiednio.”;
+- **15)** w art. 18m:
+    - **a)** dotychczasową treść oznacza się jako ust. 1 oraz pkt 2 otrzymuje brzmienie: „2) postawienia przedsiębiorcy w stan likwidacji lub ogłoszenia upadłości;”,
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Do wniosku, o którym mowa w ust. 1 pkt 1, przepis art. 18f stosuje się odpowiednio.”;
+
+- **16)** art. 19c i art. 19d otrzymują brzmienie: „Art. 19c. Agencja zatrudnienia oraz podmioty, o których mowa w art. 18c, nie mogą dyskryminować ze względu na płeć, wiek, niepełnosprawność, rasę, religię, pochodzenie etniczne, narodowość, orientację seksualną, przekonania polityczne i wyznanie ani ze względu na przynależność związkową osób, dla których poszukują zatrudnienia lub innej pracy zarobkowej.
 
 **Art. 19d.**
 
@@ -257,6 +367,10 @@ source: "isap-pdf"
 
 **Art. 36c.** Minister właściwy do spraw pracy odmawia, w drodze decyzji, udzielenia akredytacji, w przypadku gdy:
 
+- **1)** podmiot ubiegający się o udzielenie akredytacji nie spełnia kryteriów, o których mowa w art. 36b ust. 1 lub
+- **2)** podmiot nie przedstawi danych, o których mowa w art. 36b ust. 2 lub 3, lub nie złoży oświadczenia, o którym mowa w art. 36b ust. 4, lub
+- **3)** podmiotowi ubiegającemu się o udzielenie akredytacji, z przyczyn, o których mowa w art. 36e ust. 2 pkt 2, została wypowiedziana umowa akredytacyjna, o której mowa w art. 36d ust. 2, a od dnia rozwiązania tej umowy do dnia złożenia wniosku o udzielenie akredytacji nie upłynęły dwa lata.
+
 **Art. 36d.**
 
 1. Minister właściwy do spraw pracy udziela podmiotowi akredytacji, dokonując wpisu do rejestru podmiotów, które uzyskały akredytację do prowadzenia na terenie Rzeczypospolitej Polskiej pośrednictwa pracy w ramach sieci EURES, zwanego dalej „rejestrem akredytacji”, po uprzednim zawarciu z nim umowy akredytacyjnej.
@@ -314,6 +428,125 @@ source: "isap-pdf"
 - **32)** art. 39a i art. 39b otrzymują brzmienie: „Art. 39a. Z usług rynku pracy, o których mowa w art. 36 ust. 1–5 i 5c–5g oraz w art. 38 ust. 1 pkt 1 lit. a, mogą korzystać osoby niezarejestrowane w powiatowym urzędzie pracy.
 
 **Art. 39b.** Z usług rynku pracy świadczonych przez wojewódzki urząd pracy, o których mowa w art. 38 ust. 1 pkt 1 lit. a, b oraz d, mogą korzystać osoby powyżej 18 roku życia niezarejestrowane w powiatowym urzędzie pracy.”;
+
+- **33)** w art. 40 po ust. 2d dodaje się ust. 2e–2h w brzmieniu: „2e. Starosta może organizować szkolenie bezrobotnych na podstawie trójstronnych umów szkoleniowych, zawieranych pomiędzy starostą, pracodawcą i instytucją szkoleniową.
+
+2f. W trójstronnej umowie szkoleniowej jest określany w szczególności zakres umiejętności i kwalifikacji wymaganych przez pracodawcę, będący podstawą przygotowania przez instytucję szkoleniową programu kształcenia, oraz zobowiązanie pracodawcy do zatrudnienia bezrobotnego po odbytym szkoleniu.
+
+2g. Szkolenie bezrobotnych na podstawie trójstronnej umowy szkoleniowej stanowi pomoc udzielaną zgodnie z warunkami dopuszczalności pomocy de minimis.
+
+2h. Starosta może sfinansować z Funduszu Pracy koszty związane z organizacją przez powiatowy urząd pracy szkolenia z zakresu umiejętności poszukiwania pracy, o którym mowa w art. 38 ust. 1a, w wysokości nieprzekraczającej 40% zasiłku, o którym mowa w art. 72 ust. 1 pkt 1.”;
+
+- **34)** w art. 44 pkt 1 otrzymuje brzmienie: „1) finansowanie kosztów przejazdu do pracodawcy zgłaszającego ofertę pracy lub do miejsca pracy, odbywania stażu, przygotowania zawodowego dorosłych lub odbywania zajęć w zakresie poradnictwa zawodowego w związku ze skierowaniem przez powiatowy urząd pracy;”;
+- **35)** w art. 45:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Starosta może dokonywać z Funduszu Pracy przez okres do 12 miesięcy zwrotu kosztów przejazdu z miejsca zamieszkania i powrotu do miejsca zatrudnienia lub innej pracy zarobkowej, lub przez okres odbywania u pracodawcy stażu, przygotowania zawodowego dorosłych lub odbywania zajęć z zakresu poradnictwa zawodowego osobie, która spełnia łącznie następujące warunki:”, – pkt 1 otrzymuje brzmienie: „1) na podstawie skierowania powiatowego urzędu pracy podjęła zatrudnienie lub inną pracę zarobkową, przygotowanie zawodowe dorosłych, staż lub została skierowana na zajęcia z zakresu poradnictwa zawodowego i dojeżdża do tych miejsc;”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) na podstawie skierowania powiatowego urzędu pracy podjęła zatrudnienie lub inną pracę zarobkową, staż, przygotowanie zawodowe dorosłych poza miejscem zamieszkania w miejscowości, do której czas dojazdu i powrotu do miejsca stałego zamieszkania środkami transportu zbiorowego wynosi łącznie ponad 3 godziny dziennie;”;
+
+- **36)** w art. 46:
+    - **a)** ust. 1b otrzymuje brzmienie: „1b. Przepis ust. 1 pkt 2 stosuje się również do absolwentów centrum integracji społecznej oraz absolwentów klubów integracji społecznej, o których mowa w przepisach o zatrudnieniu socjalnym, jeżeli nie pozostają oni w okresie zgłoszonego do ewidencji działalności gospodarczej zawieszenia wykonywania działalności gospodarczej.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Podmiot prowadzący działalność gospodarczą, niepubliczne przedszkole, niepubliczna szkoła i producent rolny, który otrzymał refundację kosztów wyposażenia lub doposażenia stanowiska pracy dla skierowanego bezrobotnego, jest obowiązany dokonać zwrotu, w terminie 30 dni od dnia doręczenia wezwania starosty, otrzymanych środków wraz z odsetkami, jeżeli zatrudniał na utworzonym stanowisku pracy skierowanego lub skierowanych bezrobotnych w pełnym wymiarze czasu pracy łącznie przez okres krótszy niż 24 miesiące albo naruszył inne warunki umowy o refundację.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Osoba, która otrzymała z Funduszu Pracy jednorazowo środki na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej, jest obowiązana dokonać zwrotu, w terminie 30 dni od dnia doręczenia wezwania starosty, otrzymanych środków wraz z odsetkami, jeżeli prowadziła działalność gospodarczą lub była członkiem spółdzielni socjalnej przez okres krótszy niż 12 miesięcy albo naruszone zostały inne warunki umowy dotyczące przyznania tych środków.”,
+    - **d)** ust. 5–5b otrzymują brzmienie: „5. Przeciętne wynagrodzenie, o którym mowa w ust. 1–1b, jest przyjmowane w wysokości obowiązującej w dniu zawarcia umowy z podmiotem prowadzącym działalność gospodarczą, niepublicznym przedszkolem, niepubliczną szkołą, producentem rolnym, bezrobotnym, absolwentem centrum integracji społecznej lub absolwentem klubu integracji społecznej.
+
+5a. W postępowaniach w przedmiocie przyznawania środków, o których mowa w ust. 1–1b, w przypadku zastosowania poręczenia osoby fizycznej jako formy zabezpieczenia zwrotu przyznanych środków, mogą być przetwarzane następujące dane osobowe poręczyciela:
+
+- **1)** imię i nazwisko;
+- **2)** adres zamieszkania;
+- **3)** numer PESEL, jeżeli został nadany, oraz nazwa i numer dokumentu potwierdzającego tożsamość;
+- **4)** uzyskiwane dochody, z podaniem źródła i kwoty dochodu;
+- **5)** aktualne zobowiązania finansowe, z podaniem wysokości miesięcznej spłaty zadłużenia.
+
+5b. Podmiot prowadzący działalność gospodarczą, niepubliczne przedszkole, niepubliczna szkoła, producent rolny, bezrobotny, absolwent centrum integracji społecznej i absolwent klubu integracji społecznej, ubiegający się o przyznanie środków, o których mowa w ust. 1–1b, składa oświadczenie o niekaralności za przestępstwo przeciwko obrotowi gospodarczemu, w rozumieniu ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) lub ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. z 2012 r. poz. 768, z późn. zm. ), w okresie 2 lat przed wystąpieniem z wnioskiem o przyznanie środków.”;
+
+- **37)** w art. 48 w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) przebywania na urlopie bezpłatnym.”;
+- **38)** art. 49 otrzymuje brzmienie: „Art. 49. Osobom będącym w szczególnej sytuacji na rynku pracy:
+- **1)** bezrobotnym do 30 roku życia,
+- **2)** bezrobotnym długotrwale,
+- **3)** bezrobotnym powyżej 50 roku życia,
+- **4)** bezrobotnym korzystającym ze świadczeń z pomocy społecznej,
+- **5)** bezrobotnym posiadającym co najmniej jedno dziecko do 6 roku życia lub co najmniej jedno dziecko niepełnosprawne do 18 roku życia,
+- **6)** bezrobotnym niepełnosprawnym – przysługuje pierwszeństwo w skierowaniu do udziału w programach specjalnych.”;
+- **39)** w art. 50:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Bezrobotnym do 25 roku życia powiatowy urząd pracy w okresie do 4 miesięcy od dnia rejestracji powinien przedstawić propozycję zatrudnienia, innej pracy zarobkowej, szkolenia, stażu, odbycia przygotowania zawodowego dorosłych, zatrudnienia w ramach prac interwencyjnych lub robót publicznych albo innej formy pomocy określonej w ustawie.”,
+    - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Bezrobotnym, o których mowa w art. 49 pkt 4, powiatowy urząd pracy w okresie 6 miesięcy od dnia utraty prawa do zasiłku z powodu upływu okresu jego pobierania, a w przypadku bezrobotnych bez prawa do zasiłku w okresie 6 miesięcy od dnia rejestracji:”;
+
+- **40)** w art. 51:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Starosta zwraca pracodawcy, który zatrudnił w ramach prac interwencyjnych na okres do 6 miesięcy skierowanych bezrobotnych, część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne skierowanych bezrobotnych w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz kwoty zasiłku określonej w art. 72 ust. 1 pkt 1, obowiązującej w ostatnim dniu zatrudnienia każdego rozliczanego miesiąca i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia.
+
+2. Starosta zwraca pracodawcy, który zatrudnił w ramach prac interwencyjnych co najmniej w połowie wymiaru czasu pracy na okres do 6 miesięcy skierowanych bezrobotnych, część kosztów poniesionych na wynagrodzenia, nagrody oraz składki na ubezpieczenia społeczne skierowanych bezrobotnych w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak połowy minimalnego wynagrodzenia za pracę i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia za każdą osobę bezrobotną.
+
+3. Starosta może dokonywać, w zakresie i na zasadach określonych w ust. 1, zwrotu poniesionych przez pracodawcę kosztów z tytułu zatrudnienia na okres do 12 miesięcy skierowanych bezrobotnych, w ramach prac interwencyjnych, w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak minimalnego wynagrodzenia za pracę i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia za każdego bezrobotnego, jeżeli refundacja obejmuje koszty poniesione za co drugi miesiąc ich zatrudnienia.”,
+
+- **b)** dodaje się ust. 6–9 w brzmieniu: „6. Pracodawca jest obowiązany, stosownie do zawartej umowy, do utrzymania w zatrudnieniu skierowanego bezrobotnego przez okres 3 miesięcy po zakończeniu refundacji wynagrodzeń i składek na ubezpieczenia społeczne.
+
+7. Niewywiązanie się z warunku, o którym mowa w ust. 6, lub naruszenie innych warunków umowy powoduje obowiązek zwrotu uzyskanej pomocy wraz z odsetkami ustawowymi naliczonymi od całości uzyskanej pomocy od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty.
+
+8. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego w trakcie okresu objętego refundacją albo przed upływem okresu 3 miesięcy, o którym mowa w ust. 6, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego.
+
+9. W przypadku odmowy przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy, pracodawca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania bezrobotnego przez urząd pracy na zwolnione stanowisko pracy, pracodawca nie zwraca uzyskanej pomocy za okres, w którym uprzednio skierowany bezrobotny pozostawał w zatrudnieniu.”;
+
+- **41)** w art. 53:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Starosta może skierować bezrobotnych do odbycia stażu przez okres nieprzekraczający 6 miesięcy do pracodawcy, rolniczej spółdzielni produkcyjnej lub pełnoletniej osoby fizycznej, zamieszkującej i prowadzącej na terytorium Rzeczypospolitej Polskiej, osobiście i na własny rachunek, działalność w zakresie produkcji roślinnej lub zwierzęcej, w tym ogrodniczej, sadowniczej, pszczelarskiej i rybnej, w pozostającym w jej posiadaniu gospodarstwie rolnym obejmującym obszar użytków rolnych o powierzchni przekraczającej 2 ha przeliczeniowe lub prowadzącej dział specjalny produkcji rolnej, o którym mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, 1623 i 1650).”,
+    - **b)** uchyla się ust. 1a,
+    - **c)** ust. 2 otrzymuje brzmienie: „2. Starosta może skierować do odbycia stażu na okres do 12 miesięcy bezrobotnych, którzy nie ukończyli 30 roku życia.”;
+
+- **42)** w art. 53a ust. 4 otrzymuje brzmienie: „4. Praktyczna nauka zawodu dorosłych trwa od 6 do 12 miesięcy, a przyuczenie do pracy dorosłych trwa od 3 do 6 miesięcy.”;
+- **43)** w art. 53g ust. 1 otrzymuje brzmienie: „1. Uczestnikowi przygotowania zawodowego dorosłych przysługuje stypendium w wysokości 120% kwoty zasiłku, o którym mowa w art. 72 ust. 1 pkt 1, wypłacane przez starostę; przepis art. 80 stosuje się odpowiednio. Za okres, za który przysługuje stypendium, zasiłek nie przysługuje.”;
+- **44)** w art. 53l ust. 1 otrzymuje brzmienie: „1. Koszty przygotowania zawodowego dorosłych obejmujące:
+- **1)** refundację wydatków poniesionych na uczestnika przygotowania zawodowego dorosłych niezbędnych do realizacji programu, o których mowa w art. 53i,
+- **2)** jednorazową premię przyznawaną pracodawcy, o której mowa w art. 53j,
+- **3)** należność przysługującą instytucji szkoleniowej za przygotowanie i realizację ustalonej części programu,
+- **4)** koszty badań lekarskich i psychologicznych mających na celu ustalenie zdolności do udziału w przygotowaniu zawodowym dorosłych,
+- **5)** koszty egzaminów potwierdzających kwalifikacje w zawodzie, egzaminów czeladniczych lub egzaminów sprawdzających – są finansowane z Funduszu Pracy.”;
+- **45)** art. 56 otrzymuje brzmienie: „Art. 56. 1. Starosta może dokonywać z Funduszu Pracy przez okres do 12 miesięcy zwrotu poniesionych przez pracodawcę z tytułu zatrudnienia w ramach prac interwencyjnych w pełnym wymiarze czasu pracy skierowanego bezrobotnego kosztów wypłaconego mu wynagrodzenia, nagród oraz opłaconych składek na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak kwoty zasiłku określonej w art. 72 ust. 1 pkt 1, obowiązującej w ostatnim dniu każdego rozliczanego miesiąca i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia.
+
+2. Starosta może dokonywać z Funduszu Pracy przez okres do 18 miesięcy zwrotu poniesionych przez pracodawcę z tytułu zatrudnienia w ramach prac interwencyjnych w pełnym wymiarze czasu pracy skierowanego bezrobotnego kosztów wypłaconego mu wynagrodzenia, nagród oraz opłaconych składek na ubezpieczenia społeczne w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak minimalnego wynagrodzenia za pracę i składek na ubezpieczenia społeczne od tego wynagrodzenia, jeżeli zwrot obejmuje koszty poniesione za co drugi miesiąc.
+
+3. Pracodawca jest obowiązany, stosownie do zawartej umowy, do utrzymania w zatrudnieniu skierowanego bezrobotnego przez okres objęty refundacją wynagrodzeń i składek na ubezpieczenia społeczne oraz okres 6 miesięcy po zakończeniu tej refundacji.
+
+4. Niewywiązanie się z warunku, o którym mowa w ust. 3, lub naruszenie innych warunków zawartej umowy powoduje obowiązek zwrotu uzyskanej pomocy wraz z odsetkami ustawowymi naliczonymi od całości uzyskanej pomocy od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty.
+
+5. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego w trakcie okresu objętego refundacją albo przed upływem okresu 3 miesięcy, o którym mowa w ust. 3, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego.
+
+6. W przypadku odmowy przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy, pracodawca zwraca uzyskaną pomoc w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. W przypadku braku możliwości skierowania bezrobotnego przez urząd pracy na zwolnione stanowisko pracy, pracodawca nie zwraca uzyskanej pomocy za okres, w którym uprzednio skierowany bezrobotny pozostawał w zatrudnieniu.”;
+
+- **46)** w art. 57:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Starosta zwraca organizatorowi robót publicznych, który zatrudniał skierowanych bezrobotnych przez okres do 6 miesięcy, część kosztów poniesionych na wynagrodzenia, nagrody oraz składek na ubezpieczenia społeczne bezrobotnych w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak kwoty ustalonej jako iloczyn liczby zatrudnionych w miesiącu w przeliczeniu na pełny wymiar czasu pracy oraz 50% przeciętnego wynagrodzenia obowiązującego w ostatnim dniu zatrudnienia każdego rozliczanego miesiąca i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia.
+
+2. Starosta może dokonywać, w zakresie i na zasadach określonych w ust. 1, zwrotu poniesionych przez organizatora robót publicznych kosztów z tytułu zatrudnienia skierowanych bezrobotnych na okres do 12 miesięcy, w wysokości uprzednio uzgodnionej, nieprzekraczającej jednak przeciętnego wynagrodzenia i składek na ubezpieczenia społeczne od refundowanego wynagrodzenia za każdego bezrobotnego, jeżeli refundacja obejmuje koszty poniesione za co drugi miesiąc ich zatrudnienia.”,
+
+- **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Naruszenie warunków umowy w zakresie zatrudniania skierowanego bezrobotnego przez okres trwania robót publicznych powoduje obowiązek zwrotu uzyskanych refundacji wraz z odsetkami ustawowymi naliczonymi od całości uzyskanych refundacji od dnia otrzymania pierwszej refundacji, w terminie 30 dni od dnia doręczenia wezwania starosty. Przepisy art. 51 ust. 8 i 9 stosuje się odpowiednio.”,
+- **c)** ust. 4 otrzymuje brzmienie: „4. Bezrobotni będący dłużnikami alimentacyjnymi w rozumieniu przepisów o pomocy osobom uprawnionym do alimentów mogą zostać skierowani przez starostę, na zasadach dotyczących robót publicznych, do wykonywania przez okres do 6 miesięcy pracy niezwiązanej z wyuczonym zawodem, w wymiarze nieprzekraczającym połowy wymiaru czasu pracy, w instytucjach użyteczności publicznej oraz organizacjach zajmujących się problematyką kultury, oświaty, sportu i turystyki, opieki zdrowotnej lub pomocy społecznej.”,
+- **d)** uchyla się ust. 5;
+- **47)** w art. 59 dodaje się ust. 5 w brzmieniu: „5. Przepisy art. 56 ust. 3–6 stosuje się odpowiednio.”;
+- **48)** w art. 59b ust. 2 otrzymuje brzmienie: „2. Powiatowy urząd pracy po zakończeniu każdego roku kalendarzowego, w terminie do dnia 31 stycznia, przekazuje właściwej powiatowej radzie rynku pracy zbiorczy wykaz pracodawców i osób, o których mowa w ust. 1.”;
+- **49)** po art. 59b dodaje się art. 59c w brzmieniu: „Art. 59c. Pomoc udzielana pracodawcom i przedsiębiorcom w ramach prac interwencyjnych, robót publicznych lub skierowania na zasadach robót publicznych, o których mowa w art. 51, art. 56, art. 57 i art. 59 oraz w ramach jednorazowej refundacji kosztów z tytułu opłaconych składek na ubezpieczenia społeczne, o której mowa w art. 47, jest udzielana zgodnie z warunkami dopuszczalności pomocy de minimis.”;
+- **50)** art. 60 otrzymuje brzmienie: „Art. 60. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowy sposób i tryb organizowania prac interwencyjnych i robót publicznych, jednorazowej refundacji kosztów z tytułu opłaconych składek na ubezpieczenia społeczne poniesionych w związku z zatrudnieniem skierowanego bezrobotnego, treść wniosku o organizowanie robót publicznych, prac interwencyjnych oraz tryb i warunki zawieranych umów z uprawnionymi pracodawcami, mając na uwadze prawidłowość wydatkowania środków z Funduszu Pracy, a także konieczność zapewnienia zgodności udzielania pomocy z warunkami dopuszczalności pomocy de minimis.”;
+- **51)** po art. 60 dodaje się art. 60a–60d w brzmieniu: „Art. 60a. 1. Starosta może, na podstawie zawartej umowy, przyznać pracodawcy lub przedsiębiorcy środki Funduszu Pracy, zwane dalej „grantem”, na utworzenie stanowiska pracy w formie telepracy w rozumieniu art. 67 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy dla skierowanego bezrobotnego rodzica powracającego na rynek pracy, posiadającego co najmniej jedno dziecko w wieku do 6 lat, lub bezrobotnego sprawującego opiekę nad osobą zależną, który w okresie 3 lat przed rejestracją w urzędzie pracy jako bezrobotny zrezygnował z zatrudnienia lub innej pracy zarobkowej z uwagi na konieczność wychowywania dziecka lub sprawowania opieki nad osobą zależną.
+
+2. Grant nie może zostać przyznany na utworzenie stanowiska pracy dla bezrobotnego:
+
+- **1)** małżonka pracodawcy lub przedsiębiorcy;
+- **2)** rodzica pracodawcy lub przedsiębiorcy;
+- **3)** rodzeństwa pracodawcy lub przedsiębiorcy;
+- **4)** dziecka własnego lub przysposobionego: pracodawcy lub przedsiębiorcy, małżonka pracodawcy lub przedsiębiorcy, rodzeństwa pracodawcy lub przedsiębiorcy.
+
+3. Grant przysługuje w kwocie określonej w umowie zawartej ze starostą, nie wyższej jednak niż 6-krotność minimalnego wynagrodzenia za pracę obowiązującego w dniu zawarcia umowy, za każdego skierowanego bezrobotnego.
+
+4. Pracodawca lub przedsiębiorca są obowiązani, stosownie do zawartej umowy, do utrzymania zatrudnienia skierowanego bezrobotnego przez okres 12 miesięcy w pełnym wymiarze czasu pracy lub przez okres 18 miesięcy w połowie wymiaru czasu pracy.
+
+5. Niewywiązanie się z warunku, o którym mowa w ust. 4, lub wykorzystanie grantu niezgodnie z umową, lub jego niewykorzystanie powoduje obowiązek zwrotu grantu wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu, w terminie 30 dni od dnia doręczenia wezwania starosty.
+
+6. Zwrot grantu następuje:
+
+- **1)** w kwocie proporcjonalnej do okresu, w którym warunek określony w ust. 4 nie został spełniony, wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu – w przypadku niewywiązania się z tego warunku;
+- **2)** w całości wraz z odsetkami ustawowymi naliczonymi od dnia otrzymania grantu – w przypadku wykorzystania grantu niezgodnie z umową lub jego niewykorzystania.
+
+7. W przypadku rozwiązania umowy o pracę przez skierowanego bezrobotnego, rozwiązania z nim umowy o pracę na podstawie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy lub wygaśnięcia stosunku pracy skierowanego bezrobotnego przed upływem okresu odpowiednio 12 lub 18 miesięcy, o którym mowa w ust. 4, starosta kieruje na zwolnione stanowisko pracy innego bezrobotnego.
+
+8. W przypadku odmowy przyjęcia skierowanego bezrobotnego na zwolnione stanowisko pracy pracodawca lub przedsiębiorca zwraca grant w kwocie określonej w ust. 6 pkt 1. W przypadku braku możliwości skierowania odpowiedniego bezrobotnego przez urząd pracy na zwolnione stanowisko pracy pracodawca lub przedsiębiorca nie zwraca grantu za okres zatrudniania skierowanego bezrobotnego.
+
+9. Grant jest udzielany zgodnie z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 60b.**
 
@@ -391,6 +624,17 @@ source: "isap-pdf"
 
 **Art. 61e.** Ze środków Funduszu Pracy oraz środków, o których mowa w art. 56 ust. 3 pkt 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216 i 1643), a także ze środków Unii Europejskiej, mogą być finansowane:
 
+- **1)** pożyczki na utworzenie stanowiska pracy dla bezrobotnego, w tym bezrobotnego skierowanego przez powiatowy urząd pracy:
+    - **a)** podmiotom, o których mowa w art. 46 ust. 1 pkt 1 i 1a oraz ust. 1a,
+    - **b)** żłobkom lub klubom dziecięcym tworzonym i prowadzonym przez osoby fizyczne, osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, o których mowa w przepisach o opiece nad dziećmi w wieku do lat 3;
+
+- **2)** pożyczki na podjęcie działalności gospodarczej:
+    - **a)** bezrobotnym,
+    - **b)** poszukującym pracy absolwentom szkół i uczelni, w okresie 48 miesięcy od dnia ukończenia szkoły lub uzyskania tytułu zawodowego,
+    - **c)** studentom ostatniego roku studiów;
+
+- **3)** usługi doradcze i szkoleniowe skierowane do osób, o których mowa w pkt 2, którym udzielono pożyczki na podjęcie działalności gospodarczej.
+
 **Art. 61f.** Pożyczki oraz usługi doradcze i szkoleniowe, o których mowa w art. 61e, są przyznawane zgodnie z warunkami dopuszczalności pomocy de minimis.
 
 **Art. 61g.**
@@ -446,6 +690,10 @@ source: "isap-pdf"
 
 **Art. 61l.** Pożyczka na podjęcie działalności gospodarczej może zostać udzielona osobom, o których mowa w art. 61e pkt 2:
 
+- **1)** niekaranym, w okresie 2 lat przed wystąpieniem z wnioskiem o pożyczkę, za przestępstwa przeciwko obrotowi gospodarczemu, w rozumieniu ustawy z dnia 6 czerwca 1997 r. – Kodeks karny lub ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary;
+- **2)** niezatrudnionym oraz niewykonującym innej pracy zarobkowej;
+- **3)** nieprowadzącym działalności gospodarczej w okresie 12 miesięcy przed złożeniem wniosku o udzielenie pożyczki.
+
 **Art. 61m.**
 
 1. Formą zabezpieczenia spłaty i zwrotu udzielonych pożyczek, o których mowa w art. 61e pkt 1 i 2, jest weksel własny in blanco i poręczenie dwóch osób fizycznych.
@@ -498,9 +746,36 @@ source: "isap-pdf"
 
 **Art. 61u.** Do zadań Banku Gospodarstwa Krajowego w zakresie, o którym mowa w art. 61t, należy w szczególności:
 
+- **1)** dokonywanie wyboru pośredników finansowych i zawieranie z nimi umów;
+- **2)** przekazywanie środków pośrednikom finansowym;
+- **3)** gromadzenie środków z tytułu spłat i zwrotu pożyczek oraz oprocentowania wolnych środków;
+- **4)** monitorowanie realizacji pożyczek oraz zapewnienia świadczenia usług doradczych i szkoleniowych przez pośredników finansowych;
+- **5)** prowadzenie rozliczeń i sporządzanie sprawozdawczości dla ministra właściwego do spraw pracy;
+- **6)** opracowywanie jednolitych wzorów wniosków o udzielenie pożyczek oraz wzorów innych niezbędnych dokumentów;
+- **7)** opracowywanie jednolitych wzorów rozliczeń i sprawozdań w zakresie udzielonych pożyczek;
+- **8)** sprawowanie kontroli realizacji pożyczek przez pośredników finansowych;
+- **9)** opiniowanie wniosków o umorzenie należności z tytułu udzielonych pożyczek przed przekazaniem ich do ministra właściwego do spraw pracy;
+- **10)** monitorowanie dochodzenia roszczeń z tytułu niespłaconych pożyczek udzielanych przez pośredników finansowych.
+
 **Art. 61v.** Do zadań pośredników finansowych w zakresie, o którym mowa w art. 61g ust. 1, należy w szczególności:
 
+- **1)** rozpatrywanie wniosków oraz zawieranie umów w sprawie udzielania pożyczek;
+- **2)** monitorowanie realizacji umów dotyczących udzielonych pożyczek;
+- **3)** bieżąca obsługa finansowa pożyczek oraz naliczanie odsetek za zwłokę od nieterminowych spłat rat pożyczek;
+- **4)** dochodzenie roszczeń z tytułu niespłaconych pożyczek;
+- **5)** opiniowanie, w zakresie finansowym oraz formalnoprawnym, wniosków pożyczkobiorców w przedmiocie umorzenia udzielonych pożyczek;
+- **6)** opiniowanie wniosków o umorzenie należności z tytułu udzielonych pożyczek;
+- **7)** przekazywanie Bankowi Gospodarstwa Krajowego skompletowanych i zweryfikowanych pod względem merytorycznym i finansowym wniosków o umorzenie pożyczek;
+- **8)** prowadzenie rozliczeń i sporządzanie sprawozdawczości dla Banku Gospodarstwa Krajowego;
+- **9)** zapewnienie dostępu do usług doradczych i szkoleniowych, o których mowa w art. 61s ust. 1;
+- **10)** przekazywanie, na wnioski starostów, informacji o wynikach monitorowania zatrudnienia przez wymagany okres, bezrobotnych skierowanych przez powiatowe urzędy pracy u pożyczkobiorców, na utworzonych stanowiskach pracy.
+
 **Art. 61w.** Do zadań starostów należy współpraca z Bankiem Gospodarstwa Krajowego i pośrednikami finansowymi, polegająca w szczególności na:
+
+- **1)** opiniowaniu wniosków o udzielenie pożyczki na utworzenie stanowiska pracy dla bezrobotnego skierowanego przez powiatowy urząd pracy pod względem możliwości danego urzędu pracy w zakresie skierowania bezrobotnych posiadających kwalifikacje niezbędne do wykonywania pracy na planowanym do utworzenia stanowisku pracy;
+- **2)** wydawaniu zaświadczeń potwierdzających posiadanie statusu bezrobotnego przez osoby ubiegające się o pożyczkę na podjęcie działalności gospodarczej;
+- **3)** kierowaniu bezrobotnych na utworzone stanowiska pracy;
+- **4)** monitorowaniu, we współpracy z pośrednikami finansowymi, zatrudnienia przez wymagany okres, bezrobotnych skierowanych przez powiatowe urzędy pracy u pożyczkobiorców, na utworzonych stanowiskach pracy.
 
 **Art. 61x.**
 
@@ -1155,21 +1430,90 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 39 ust. 5 otrzymuje brzmienie: „5. Dyrektor szkoły prowadzącej kształcenie zawodowe, w porozumieniu z organem prowadzącym szkołę, ustala zawody, w których kształci szkoła, po zasięgnięciu opinii powiatowej i wojewódzkiej rady rynku pracy co do zgodności z potrzebami rynku pracy.”;
+- **2)** w art. 86 w ust. 1b w pkt 4 lit. a otrzymuje brzmienie: „a) wojewódzkiej lub powiatowej rady rynku pracy wydanymi po uzyskaniu stanowiska wojewódzkiego lub powiatowego urzędu pracy,”.
+
 **Art. 4.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ) w art. 12 w ust. 1 uchyla się pkt 5b.
 
 **Art. 5.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216 i 1643) w art. 56 ust. 3 otrzymuje brzmienie: „3. Przychody ze sprzedaży należących do Skarbu Państwa akcji i udziałów, stanowiących do dnia wejścia w życie ustawy z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw (Dz. U. Nr 25, poz. 253, z późn. zm. ) rezerwę na cele uwłaszczenia, minister właściwy do spraw Skarbu Państwa przekazuje na wyodrębniony rachunek ministra właściwego do spraw pracy. Środki te przeznacza się na finansowanie zadań ministra właściwego do spraw pracy na rzecz przeciwdziałania bezrobociu. Minister właściwy do spraw pracy może przekazać środki do:
 
+- **1)** Funduszu Pracy;
+- **2)** Banku Gospodarstwa Krajowego.”.
+
 **Art. 6.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) w art. 11 w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9–12 w brzmieniu: „9) szkoleń na podstawie trójstronnych umów szkoleniowych zawieranych pomiędzy starostą, pracodawcą i instytucją szkoleniową;
+
+- **10)** bonu na zasiedlenie;
+- **11)** bonu szkoleniowego;
+- **12)** bonu stażowego.”.
 
 **Art. 7.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 41 ust. 10 otrzymuje brzmienie: „10. Płatnik składek jest zwolniony z przekazywania informacji wynikającej z ust. 9 w przypadku pobierania składek na ubezpieczenie zdrowotne:
+- **1)** z emerytur i rent;
+- **2)** za bezrobotnych bez prawa do zasiłku dla bezrobotnych, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy.”;
+- **2)** w art. 50: [a) ust. 3 otrzymuje brzmienie: „3. Dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, i na koncie płatnika składek, o których mowa w art. 45, mogą być udostępniane sądom, prokuratorom, organom kontroli skarbowej, organom podatkowym, Państwowej Inspekcji Pracy, Straży Granicznej, komornikom sądowym, ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia oraz Komisji Nadzoru Finansowego, z uwzględnieniem przepisów dotyczących ochrony danych osobowych.”,
+    - **b)** ust. 9 otrzymuje brzmienie: „9. Dane zgromadzone na kontach, o których mowa w ust. 3, udostępnia się bezpłatnie sądom, prokuratorom, organom kontroli skarbowej, organom podatkowym, Państwowej Inspekcji Pracy, Straży Granicznej, ośrodkom pomocy społecznej, powiatowym centrom pomocy rodzinie, publicznym służbom zatrudnienia oraz Komisji Nadzoru Finansowego, a także w zakresie niezbędnym do realizacji świadczeń rodzinnych wójtowi, burmistrzowi lub prezydentowi miasta.”,]
+    - **c)** dodaje się ust. 14–16 w brzmieniu: „14. Zakład udostępnia publicznym służbom zatrudnienia, w postaci elektronicznej, dane zgromadzone na koncie ubezpieczonego, o których mowa w art. 40, obejmujące:
+
+- **1)** imię i nazwisko,
+- **2)** datę urodzenia,
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości,
+- **4)** obywatelstwo,
+- **5)** kod i nazwę tytułu ubezpieczenia,
+- **6)** nazwę i dane identyfikacyjne płatnika,
+- **7)** datę powstania obowiązku ubezpieczeń społecznych,
+- **8)** datę zgłoszenia do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego,
+- **9)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego,
+- **10)** rodzaje ubezpieczeń wraz z określeniem, czy dobrowolne, czy obowiązkowe,
+- **11)** wymiar czasu pracy,
+- **12)** informację o podstawie wymiaru składek na ubezpieczenia społeczne,
+- **13)** opłacone składki na ubezpieczenia społeczne za osoby prowadzące pozarolniczą działalność i osoby z nimi współpracujące,
+- **14)** informację o przekroczeniu rocznej podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe,
+- **15)** wykazane w imiennym raporcie miesięcznym przerwy w opłacaniu składek,
+- **16)** wypłacone świadczenia z ubezpieczenia chorobowego i z ubezpieczenia wypadkowego,
+- **17)** wypłacane świadczenia z ubezpieczenia emerytalnego i z ubezpieczeń rentowych,
+- **18)** imię i nazwisko oraz datę uzyskania lub utraty uprawnień do ubezpieczenia zdrowotnego przez członka rodziny – w zakresie niezbędnym do realizacji zadań określonych w przepisach o promocji zatrudnienia i instytucjach rynku pracy.
+
+15. Zakład udostępnia powiatowym urzędom pracy i wojewódzkim urzędom pracy, w postaci elektronicznej, wykaz obejmujący dane osób ubezpieczonych, wymienionych w art. 6 ust. 1 pkt 9–9b, które w poprzednim miesiącu zostały zgłoszone do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego, także z innych tytułów – w terminie do 10 dnia roboczego następnego miesiąca.
+
+16. Dane, o których mowa w ust. 15, obejmują:
+
+- **1)** imię i nazwisko;
+- **2)** datę urodzenia;
+- **3)** numer PESEL, a w razie gdy nie nadano numeru PESEL – rodzaj, serię i numer dokumentu tożsamości oraz datę urodzenia i obywatelstwo;
+- **4)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9–9b;
+- **5)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9–9b;
+- **6)** kod tytułu ubezpieczenia.”.
+
 **Art. 8.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Brak współdziałania osoby lub rodziny z pracownikiem socjalnym lub asystentem rodziny, o którym mowa w przepisach o wspieraniu rodziny i systemie pieczy zastępczej, w rozwiązywaniu trudnej sytuacji życiowej, odmowa zawarcia kontraktu socjalnego, niedotrzymywanie jego postanowień, nieuzasadniona odmowa podjęcia zatrudnienia, innej pracy zarobkowej przez osobę bezrobotną lub nieuzasadniona odmowa podjęcia lub przerwanie szkolenia, stażu, przygotowania zawodowego w miejscu pracy, wykonywania prac interwencyjnych, robót publicznych, prac społecznie użytecznych, a także odmowa lub przerwanie udziału w działaniach w zakresie integracji społecznej realizowanych w ramach Programu Aktywizacja i Integracja, o których mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy, lub nieuzasadniona odmowa podjęcia leczenia odwykowego w zakładzie lecznictwa odwykowego przez osobę uzależnioną mogą stanowić podstawę do odmowy przyznania świadczenia, uchylenia decyzji o przyznaniu świadczenia lub wstrzymania świadczeń pieniężnych z pomocy społecznej.”;
+- **2)** w art. 17 w ust. 2 pkt 5 otrzymuje brzmienie: „5) współpraca z powiatowym urzędem pracy w zakresie upowszechniania ofert pracy oraz informacji o wolnych miejscach pracy, upowszechniania informacji o usługach poradnictwa zawodowego i o szkoleniach oraz realizacji Programu Aktywizacja i Integracja, o którym mowa w przepisach o promocji zatrudnienia i instytucjach rynku pracy.”;
+- **3)** w art. 108 ust. 2 otrzymuje brzmienie: „2. W przypadku osób bezrobotnych podpisanie kontraktu socjalnego, w ramach którego są realizowane działania na rzecz wzmocnienia aktywności osoby bezrobotnej, może być dokonywane na podstawie skierowania powiatowego urzędu pracy na zasadach określonych w art. 50 ust. 3 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.”.
 
 **Art. 9.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2013 r. poz. 170) w art. 2:
 
+- **1)** w ust. 3:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Świadczenie przedemerytalne przysługuje osobie określonej w ust. 1 po upływie co najmniej 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ustawie o promocji zatrudnienia, jeżeli osoba ta spełnia łącznie następujące warunki:”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) złoży wniosek o przyznanie świadczenia przedemerytalnego w terminie nieprzekraczającym 30 dni od dnia wydania przez powiatowy urząd pracy dokumentu poświadczającego 180-dniowy okres pobierania zasiłku dla bezrobotnych.”;
+
+- **2)** w ust. 5:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Do okresu 180 dni pobierania zasiłku dla bezrobotnych, o którym mowa w ust. 3, wlicza się:”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) okresy zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy o promocji zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych podjętego w tym okresie; w przypadku gdy zatrudnienie lub inna praca zarobkowa ustanie po upływie 180-dniowego okresu, o którym mowa w ust. 3 pkt 3, prawo do świadczenia przedemerytalnego przysługuje, jeżeli wniosek o przyznanie tego świadczenia zostanie złożony w terminie nieprzekraczającym 30 dni od dnia ustania zatrudnienia lub innej pracy zarobkowej, w rozumieniu przepisów ustawy o promocji zatrudnienia, albo zatrudnienia w ramach prac interwencyjnych lub robót publicznych.”.
+
 **Art. 10.** W ustawie z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2014 r. poz. 272) wprowadza się następujące zmiany:
 
+- **1)** w art. 3:
+    - **a)** w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) zmianie postanowienia o ogłoszeniu upadłości obejmującej likwidację majątku dłużnika na postanowienie o ogłoszeniu upadłości z możliwością zawarcia układu;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Datą niewypłacalności jest data wydania postanowienia sądu upadłościowego o ogłoszeniu upadłości pracodawcy w przypadkach, o których mowa w ust. 1 pkt 1 i 2, data postanowienia sądu upadłościowego o oddaleniu wniosku o ogłoszenie upadłości pracodawcy w przypadkach, o których mowa w ust. 1 pkt 4 i 5, data uprawomocnienia się postanowienia o zmianie sposobu prowadzenia postępowania upadłościowego, o którym mowa w ust. 1 pkt 3 i 3a.”;
+
+- **2)** po art. 9b dodaje się art. 9c w brzmieniu: „Art. 9c. Pracodawca, o którym mowa w art. 9, nie opłaca składek na Fundusz przez okres 12 miesięcy, począwszy od pierwszego miesiąca po zawarciu umowy o pracę, za skierowanych zatrudnionych bezrobotnych, którzy nie ukończyli 30 roku życia.”;
+- **3)** w art. 39 ust. 1 otrzymuje brzmienie: „1. Organem opiniodawczo-doradczym dysponenta Funduszu w sprawach Funduszu jest Rada Rynku Pracy, powołana na podstawie przepisów o promocji zatrudnienia i instytucjach rynku pracy.”.
+
 **Art. 11.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2012 r. poz. 404, 769 i 1544) wprowadza się następujące zmiany:
+
+- **1)** w art. 10 w ust. 1 w pkt 3 lit. f otrzymuje brzmienie: „f) prowadzenia działalności przez podmioty, o których mowa w art. 18c ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ), zgodnie z warunkami określonymi w art. 19c, art. 19d, art.19ga i art. 85 ust. 2 tej ustawy;”;
+- **2)** w art. 13 pkt 3 otrzymuje brzmienie: „3) podmioty, o których mowa w art. 18c ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy – w zakresie przestrzegania warunków określonych w art. 19c, art. 19d, art. 19ga i art. 85 ust. 2 tej ustawy;”.
 
 **Art. 12.** W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. Nr 234, poz. 1385, z 2012 r. poz. 908 oraz z 2013 r. poz. 1291) w art. 17 ust. 2 otrzymuje brzmienie: „2. Umorzenia pożyczki w przypadku, o którym mowa w ust. 1, dokonuje, w drodze decyzji, starosta na wniosek pożyczkobiorcy złożony w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2 lub z urzędu w wypadku śmierci pożyczkobiorcy bez konieczności uzyskania opinii powiatowej rady rynku pracy.”.
 
@@ -1230,4 +1574,16 @@ source: "isap-pdf"
 **Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 109 ust. 11 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 109 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2014 r.
 
 **Art. 31.** Ustawa wchodzi w życie po upływie 14 dnia od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 9 lit. b i d oraz pkt 40, 45–47, 49 i 50, które wchodzą w życie z dniem 1 lipca 2014 r.;
+- **2)** art. 1:
+    - **a)** pkt 6 lit. b w zakresie art. 9 ust. 2d pkt 3,
+    - **b)** pkt 9 lit. a tiret pierwsze,
+    - **c)** pkt 29 w zakresie art. 36a ust. 4 pkt 1 w odniesieniu do Ochotniczych Hufców Pracy i art. 36d ust. 2 pkt 3 lit. b,
+    - **d)** pkt 78 w zakresie art. 106a ust. 5 pkt 1,
+    - **e)** pkt 81 lit. a w zakresie art. 109 ust. 2c,
+    - **f)** pkt 81 lit. c – które wchodzą w życie z dniem 1 stycznia 2015 r.;
+
+- **3)** art. 7 pkt 2 lit. c, która wchodzi w życie z dniem 1 stycznia 2015 r.
+
 

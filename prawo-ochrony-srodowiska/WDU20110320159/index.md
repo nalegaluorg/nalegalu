@@ -8,10 +8,10 @@ pos: 159
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw
+# Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
 
 *USTAWA z dnia 5 stycznia 2011 r.*
 
@@ -28,6 +28,88 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110320159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/159/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 dodaje się ust. 5 w brzmieniu: „5. Gospodarowanie wodami jest oparte na zasadzie zwrotu kosztów usług wodnych, uwzględniających koszty środowiskowe i koszty zasobowe.”;
+- **2)** w art. 2 uchyla się ust. 5–7;
+- **3)** w art. 4 ust. 3a otrzymuje brzmienie: „3a. Przepisu ust. 3 nie stosuje się w sprawach, o których mowa w art. 72 ust. 3, art. 74b ust. 1 i 4, art. 74c, art. 88n ust. 3, art. 88o ust. 1 oraz art. 164 ust. 9.”;
+- **4)** w art. 5:
+    - **a)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) jednolite części wód powierzchniowych, z wyodrębnieniem jednolitych części:
+    - **a)** wód przejściowych lub przybrzeżnych,
+    - **b)** wód sztucznych lub silnie zmienionych;”,
+    - **b)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Wody przejściowe oznaczają wody powierzchniowe znajdujące się w ujściach rzek lub w pobliżu ujść rzek, które z uwagi na bliskość wód słonych wykazują częściowe zasolenie, pozostając w zasięgu znaczących wpływów wód słodkich, oraz morskie wody wewnętrzne Zatoki Gdańskiej.
+
+5b. Wody przybrzeżne obejmują pas wód morskich o szerokości jednej mili morskiej liczonej od linii podstawowej morza terytorialnego, z wyłączeniem morskich wód wewnętrznych Zatoki Gdańskiej oraz przyległych do nich wód morza terytorialnego. W przypadku gdy zasięg wód przejściowych jest większy niż jedna mila morska, zewnętrzna granica tego zasięgu stanowi zewnętrzną granicę wód przybrzeżnych.”;
+
+- **5)** w art. 7 ust. 1 i 2 otrzymują brzmienie: „1. Przepisy ustawy mają zastosowanie do wód śródlądowych oraz morskich wód wewnętrznych.
+
+2. Przepisy ustawy mają zastosowanie również do wód morza terytorialnego w zakresie planowania w gospodarowaniu wodami, ochrony przed zanieczyszczeniem ze źródeł lądowych oraz przed powodzią, a w pozostałym zakresie – w przypadkach w niej określonych.”;
+
+- **6)** w art. 9:
+    - **a)** w ust. 1: – uchyla się pkt 1, – po pkt 1 dodaje się pkt 1a–1c w brzmieniu: „1a) budowlach przeciwpowodziowych – rozumie się przez to kanały ulgi, kierownice w ujściach rzek do morza, poldery przeciwpowodziowe, zbiorniki retencyjne posiadające rezerwę powodziową, suche zbiorniki przeciwpowodziowe, wały przeciwpowodziowe wraz z obiektami związanymi z nimi funkcjonalnie oraz wrota przeciwpowodziowe i przeciwsztormowe;
+
+- **1b)** celach zarządzania ryzykiem powodziowym – rozumie się przez to ograniczenie potencjalnych negatywnych skutków powodzi dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;
+- **1c)** ciekach naturalnych – rozumie się przez to rzeki, strugi, strumienie i potoki oraz inne wody płynące w sposób ciągły lub okresowy, naturalnymi lub uregulowanymi korytami;”, – po pkt 5b dodaje się pkt 5ba i 5bb w brzmieniu: „5ba) kosztach środowiskowych – rozumie się przez to wartość materialną strat w środowisku powodowanych korzystaniem z wód; 5bb) kosztach zasobowych – rozumie się przez to wartość utraconych korzyści, które mogłyby być osiągnięte, gdyby zasoby wodne i ich zdolność do samoodtwarzania nie były zmniejszane przez podmioty aktualnie je użytkujące;”, – po pkt 6 dodaje się pkt 6a–6d w brzmieniu: „6a) obszarze dorzecza – rozumie się przez to obszar lądu i morza, składający się z jednego lub wielu sąsiadujących ze sobą dorzeczy wraz ze związanymi z nimi wodami podziemnymi, morskimi wodami wewnętrznymi, wodami przejściowymi i wodami przybrzeżnymi, będący główną jednostką przestrzenną gospodarowania wodami;
+- **6b)** obszarach narażonych na niebezpieczeństwo powodzi – rozumie się przez to określone we wstępnej ocenie ryzyka powodziowego obszary, na których istnieje znaczące ryzyko powodzi lub jest prawdopodobne wystąpienie znaczącego ryzyka powodzi;
+- **6c)** obszarach szczególnego zagrożenia powodzią – rozumie się przez to:
+    - **a)** obszary, na których prawdopodobieństwo wystąpienia powodzi jest średnie i wynosi raz na 100 lat,
+    - **b)** obszary, na których prawdopodobieństwo wystąpienia powodzi jest wysokie i wynosi raz na 10 lat,
+    - **c)** obszary, między linią brzegu a wałem przeciwpowodziowym lub naturalnym wysokim brzegiem, w który wbudowano trasę wału przeciwpowodziowego, a także wyspy i przymuliska, o których mowa w art. 18, stanowiące działki ewidencyjne,
+    - **d)** pas techniczny w rozumieniu art. 36 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+
+- **6d)** ograniczaniu emisji do wód – rozumie się przez to działania mające na celu ograniczenie emisji bezpośrednio do wód lub do ziemi, w szczególności przez nieprzekraczanie dopuszczalnych wartości emisji, a także ograniczenia i warunki odnoszące się do sposobu oddziaływania, istoty lub innych niż istota cech emisji oraz do ustanowionych na potrzeby działalności zakładów norm, mających wpływ na wielkość emisji do wód lub do ziemi;”, – uchyla się pkt 7, – pkt 10 otrzymuje brzmienie: „10) powodzi – rozumie się przez to czasowe pokrycie przez wodę terenu, który w normalnych warunkach nie jest pokryty wodą, powstałe na skutek wezbrania wody w ciekach naturalnych, zbiornikach wodnych, kanałach oraz od strony morza, powodujące zagrożenie dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;”, – uchyla się pkt 13a i 13b, – po pkt 13b dodaje się pkt 13c–13f w brzmieniu: „13c) ryzyku powodziowym – rozumie się przez to kombinację prawdopodobieństwa wystąpienia powodzi i potencjalnych negatywnych skutków powodzi dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;
+- **13d)** silnie zmienionej jednolitej części wód powierzchniowych – rozumie się przez to jednolitą część wód powierzchniowych, której charakter został w znacznym stopniu zmieniony w następstwie fizycznych przeobrażeń, będących wynikiem działalności człowieka;
+- **13e)** substancjach szczególnie szkodliwych dla środowiska wodnego – rozumie się przez to substancje niebezpieczne albo grupy substancji niebezpiecznych, które charakteryzuje toksyczność, trwałość oraz zdolność do bioakumulacji, a także inne substancje oraz grupy substancji, które należy równoważnie traktować;
+- **13f)** sztucznej jednolitej części wód powierzchniowych – rozumie się przez to jednolitą część wód powierzchniowych powstałą w wyniku działalności człowieka;”, – w pkt 19 lit. a otrzymuje brzmienie: „a) budowle: piętrzące, upustowe, przeciwpowodziowe i regulacyjne, a także kanały i rowy,”, – uchyla się pkt 23, – po pkt 25 dodaje się pkt 25a w brzmieniu: „25a) zanieczyszczeniu – rozumie się przez to emisję, która może być szkodliwa dla zdrowia ludzi lub stanu środowiska, powodować szkodę w dobrach materialnych, pogarszać walory estetyczne środowiska lub kolidować z uzasadnionymi sposobami korzystania ze środowiska, a w szczególności powodować zanieczyszczenie wód:
+    - **a)** związkami chloroorganicznymi lub substancjami, które mogą tworzyć takie związki w środowisku wodnym,
+    - **b)** związkami fosforoorganicznymi,
+    - **c)** związkami cynoorganicznymi,
+    - **d)** substancjami lub preparatami, lub produktami ich rozkładu, o udowodnionych właściwościach rakotwórczych lub mutagennych lub właściwościach mogących zakłócać w środowisku wodnym lub przez to środowisko funkcje: produkcji sterydów, tarczycy, reprodukcyjne lub inne związane z hormonami,
+    - **e)** trwałymi węglowodorami oraz trwałymi i bioakumulującymi się toksycznymi substancjami organicznymi,
+    - **f)** cyjankami,
+    - **g)** metalami lub ich związkami,
+    - **h)** arsenem lub jego związkami,
+    - **i)** biocydami lub środkami ochrony roślin,
+    - **j)** substancjami w zawiesinie,
+    - **k)** substancjami, które przyczyniają się do eutrofizacji, przede wszystkim azotanami i fosforanami,
+    - **l)** substancjami wywierającymi niekorzystny wpływ na bilans tlenu, których pomiaru można dokonać przy użyciu takich wskaźników jak: pięciodniowe biochemiczne zapotrzebowanie tlenu (BZT ) i chemiczne zapotrzebowanie tlenu (ChZT);”, – pkt 26 otrzymuje brzmienie: „26) zasobach wodnych dorzecza – rozumie się przez to wody śródlądowe powierzchniowe i podziemne, morskie wody wewnętrzne oraz wody przejściowe i przybrzeżne znajdujące się na obszarze dorzecza;”,
+    - **b)** w ust. 2: – w pkt 1: – – lit. c otrzymuje brzmienie: „c) obiektów budowlanych oraz robót wykonywanych na obszarach szczególnego zagrożenia powodzią,”, – – dodaje się lit. d w brzmieniu: „d) robót w wodach oraz innych robót, które mogą być przyczyną zmiany naturalnych przepływów wód, stanu wód stojących i wód podziemnych;”, – pkt 2 otrzymuje brzmienie: „2) wykonania urządzeń wodnych – stosuje się odpowiednio do odbudowy, rozbudowy, przebudowy, rozbiórki lub likwidacji tych urządzeń, z wyłączeniem robót związanych z utrzymywaniem urządzeń wodnych w celu zachowania ich funkcji;”;
+
+- **7)** w art. 15 w ust. 3 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „mapę inwentaryzacji powykonawczej budowli regulacyjnych lub zaktualizowaną kopię mapy zasadniczej, w skali, w jakiej jest sporządzony projekt regulacji wód śródlądowych, lub w skali 1:500, 1:1.000, 1:2.000 albo 1:5.000, z wykazaniem:”;
+- **8)** art. 18 otrzymuje brzmienie: „Art. 18. Wyspy oraz przymuliska powstałe w sposób naturalny na gruntach pokrytych wodami powierzchniowymi stanowią własność właściciela tych gruntów.”;
+- **9)** w art. 22: 2, jeżeli stwierdzi trwałe ustanie przyczyny wzrostu kosztów utrzymania wód.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Utrzymywanie śródlądowych wód powierzchniowych oraz morskich wód wewnętrznych polega na zachowaniu lub odtworzeniu stanu ich dna lub brzegów oraz na konserwacji lub remoncie istniejących budowli regulacyjnych w celu zapewnienia swobodnego spływu wód oraz lodów, a także właściwych warunków korzystania z wód.”,
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Organ właściwy do wydania pozwolenia wodnoprawnego, w drodze decyzji, stwierdza wygaśnięcie decyzji, o której mowa w ust.
+
+- **10)** art. 23 i 24 otrzymują brzmienie: „Art. 23. Utrzymywanie brzegu morskiego polega na budowie, utrzymywaniu i ochronie umocnień brzegowych w obrębie pasa technicznego ustanowionego przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
+
+**Art. 24.** Utrzymywanie śródlądowych wód powierzchniowych oraz morskich wód wewnętrznych i brzegu morskiego nie może naruszać istniejącego dobrego stanu tych wód oraz warunków wynikających z ochrony wód.”;
+
+- **11)** w art. 27 dodaje się ust. 3 w brzmieniu: „3. Dyrektor regionalnego zarządu gospodarki wodnej może, w drodze decyzji, zwolnić z zakazu, o którym mowa w ust. 1, jeżeli jest to niezbędne dla obronności państwa lub bezpieczeństwa publicznego.”;
+- **12)** w art. 31 ust. 2 otrzymuje brzmienie: „2. Korzystanie z wód nie może powodować pogorszenia stanu wód i ekosystemów od nich zależnych, w szczególności ustaleń planu gospodarowania wodami na obszarze dorzecza, a także marnotrawstwa wody, marnotrawstwa energii wody, ani wyrządzać szkód.”;
+- **13)** w dziale III tytuł rozdziału 1 otrzymuje brzmienie: „Cele środowiskowe i zasady ochrony wód”;
+- **14)** w art. 38:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Celem ochrony wód jest utrzymywanie lub poprawa jakości wód oraz biologicznych stosunków w środowisku wodnym i na terenach podmokłych.”,
+    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Realizując cel, o którym mowa w ust. 2, należy zapewnić, żeby wody, w zależności od potrzeb, nadawały się do:”,
+    - **c)** uchyla się ust. 4 i 5;
+
+- **15)** w art. 38a:
+    - **a)** w ust. 3 w pkt 1 lit. d otrzymuje brzmienie: „d) stanu chemicznego jednolitych części wód powierzchniowych i środowiskowe normy jakości dla substancji priorytetowych określonych w przepisach wydanych na podstawie art. 38d ust. 4 oraz dla innych zanieczyszczeń, służące klasyfikacji tego stanu;”,
+    - **b)** uchyla się ust. 6;
+
+- **16)** po art. 38a dodaje się art. 38b–38k w brzmieniu: „Art. 38b. 1. Cele środowiskowe określa się dla:
+- **1)** jednolitych części wód powierzchniowych niewyznaczonych jako sztuczne lub silnie zmienione;
+- **2)** sztucznych i silnie zmienionych jednolitych części wód powierzchniowych;
+- **3)** jednolitych części wód podziemnych;
+- **4)** obszarów chronionych, o których mowa w art. 113 ust. 4.
+
+2. Cele środowiskowe zawiera się w planie gospodarowania wodami na obszarze dorzecza i weryfikuje co 6 lat.
+
+3. Osiągnięciu celów środowiskowych służy realizacja działań zawartych w programie wodno-środowiskowym kraju.
+
+**Art. 38c.** Ochrona wód powierzchniowych przed zanieczyszczeniami obejmuje łącznie:
+
+- **1)** ograniczanie emisji do wód ze źródeł zanieczyszczeń punktowych przy zastosowaniu dopuszczalnych wartości emisji ustalanych na podstawie przepisów ustawy lub najlepszych dostępnych technik w rozumieniu art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **2)** ograniczanie emisji do wód ze źródeł zanieczyszczeń obszarowych, przez określanie jej warunków, z uwzględnieniem najlepszych dostępnych praktyk w zakresie ochrony środowiska, o których mowa w szczególności w przepisach ustawy, a także w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 **Art. 38d.**
 
@@ -52,7 +134,7 @@ source: "isap-pdf"
 - **2)** zapobieganie pogorszeniu oraz poprawa ich stanu;
 - **3)** ochrona i podejmowanie działań naprawczych, a także zapewnianie równowagi między poborem a zasilaniem tych wód, tak aby osiągnąć ich dobry stan.
 
-2. Realizując cele, o których mowa w ust. 1, podejmuje się w szczególności działania określone w programie wodnośrodowiskowym kraju, polegające na stopniowym redukowaniu cych i utrzymujących się tendencji wzrostowych zanieczyszczenia powstałego w wyniku działalności człowieka.
+2. Realizując cele, o których mowa w ust. 1, podejmuje się w szczególności działania określone w programie wodnośrodowiskowym kraju, polegające na stopniowym redukowaniu zanieczyszczenia wód podziemnych poprzez odwracanie znaczących i utrzymujących się tendencji wzrostowych zanieczyszczenia powstałego w wyniku działalności człowieka.
 
 **Art. 38f.**
 
@@ -83,7 +165,7 @@ source: "isap-pdf"
 
 **Art. 38i.**
 
-1. Dopuszczalne jest czasowe pogorszenie stanu jednolitych części wód, jeżeli jest ono wynikiem zjawisk o charakterze naturalnym lub skutkiem siły wyższej, nadzwyczajnych lub niemożliwych do przewidzenia, w szczególności ekstremalnych zjawisk powodziowych lub długotrwałej suszy, zdarzeń o charakterze terrorystycznym, zakłócenia funkcjonowania infrastruktury krytycznej w zysowym (Dz. U. Nr 89, poz. 590, z późn. zm. ) lub niedających się przewidzieć katastrof, oraz jeżeli zostaną spełnione następujące warunki:
+1. Dopuszczalne jest czasowe pogorszenie stanu jednolitych części wód, jeżeli jest ono wynikiem zjawisk o charakterze naturalnym lub skutkiem siły wyższej, nadzwyczajnych lub niemożliwych do przewidzenia, w szczególności ekstremalnych zjawisk powodziowych lub długotrwałej suszy, zdarzeń o charakterze terrorystycznym, zakłócenia funkcjonowania infrastruktury krytycznej w rozumieniu ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. Nr 89, poz. 590, z późn. zm. ) lub niedających się przewidzieć katastrof, oraz jeżeli zostaną spełnione następujące warunki:
 
 - **1)** zostały podjęte działania mające na celu zapobieżenie dalszemu pogorszeniu stanu wód, które nie zagrożą realizacji celów środowiskowych dla pozostałych wód;
 - **2)** w planie gospodarowania wodami na obszarze dorzecza zostały ustalone warunki i wskaźniki kwalifikowania okoliczności i zjawisk, powodujących czasowe pogorszenie stanu jednolitych części wód;
@@ -100,8 +182,9 @@ source: "isap-pdf"
 - **1)** jest ono skutkiem nowych zmian właściwości fizycznych tych wód albo
 - **2)** niezapobieżenie pogorszenia się stanu tych wód ze stanu bardzo dobrego do dobrego jest wynikiem nowych działań człowieka, zgodnych z zasadą zrównoważonego rozwoju i niezbędnych dla rozwoju społeczeństwa.
 
-2. Dopuszczalne jest nieosiągnięcie dobrego stanu oraz niezapobieżenie pogorszeniu stanu jednolitych części wód podziemnych, o których mowa w art. 38e, jeżeli jest ono skutkiem: wód powierzchniowych albo
+2. Dopuszczalne jest nieosiągnięcie dobrego stanu oraz niezapobieżenie pogorszeniu stanu jednolitych części wód podziemnych, o których mowa w art. 38e, jeżeli jest ono skutkiem:
 
+- **1)** nowych zmian właściwości fizycznych jednolitych części wód powierzchniowych albo
 - **2)** zmian poziomu zwierciadła tych wód.
 
 3. Przepisy ust. 1 i 2 stosuje się, jeżeli są spełnione łącznie następujące warunki:
@@ -112,6 +195,68 @@ source: "isap-pdf"
 - **4)** zakładane korzyści wynikające ze zmian i działań, o których mowa w ust. 1–3, nie mogą zostać osiągnięte przy zastosowaniu innych działań, korzystniejszych z punktu widzenia interesów środowiska, ze względu na negatywne uwarunkowania wykonalności technicznej lub nieproporcjonalnie wysokie koszty w stosunku do spodziewanych korzyści.
 
 **Art. 38k.** Wyznaczanie jednolitych części wód powierzchniowych jako sztucznych lub silnie zmienionych, o którym mowa w art. 38h ust. 1, ustalanie mniej rygorystycznych celów środowiskowych, o którym mowa w art. 114a ust. 1, dopuszczanie czasowego pogorszenia stanu jednolitych części wód, o którym mowa w art. 38i, oraz stosowanie przepisów, o których mowa w art. 38j, nie może trwale uniemożliwiać ani zagrażać realizacji:
+
+- **1)** celów środowiskowych ustalonych dla innych jednolitych części wód w granicach tego samego dorzecza;
+- **2)** wymogów dotyczących ochrony środowiska wynikających z odrębnych przepisów.”;
+- **17)** w art. 40:
+    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) lokalizowania na obszarach szczególnego zagrożenia powodzią nowych przedsięwzięć mogących znacząco oddziaływać na środowisko, gromadzenia ścieków, odchodów zwierzęcych, środków chemicznych, a także innych materiałów, które mogą zanieczyścić wody, prowadzenia odzysku lub unieszkodliwiania odpadów, w tym w szczególności ich składowania;”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Dyrektor regionalnego zarządu gospodarki wodnej może, w drodze decyzji, zwolnić od zakazu, o którym mowa w ust. 1 pkt 3, określając warunki niezbędne dla ochrony jakości wód, jeżeli nie spowoduje to zagrożenia dla jakości wód w przypadku wystąpienia powodzi.”,
+    - **c)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Do wniosku o wydanie decyzji, o której mowa w ust. 3, należy dołączyć w szczególności charakterystykę planowanych działań wraz z ich podstawowymi danymi technicznymi i opisem planowanej technologii robót oraz mapę sytuacyjno-wysokościową z naniesionym schematem planowanych obiektów i robót.
+
+3b. Stroną postępowania w sprawie o wydanie decyzji, o której mowa w ust. 3, jest wnioskodawca, właściciel wody i właściciel wału przeciwpowodziowego.
+
+3c. Decyzja, o której mowa w ust. 3, wygasa, jeżeli w terminie 2 lat od dnia, w którym stała się ostateczna, nie uzyskano wymaganego pozwolenia wodnoprawnego.”,
+
+- **d)** ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 1 pkt 3 i ust. 3–3c stosuje się odpowiednio do wysp oraz przymulisk, o których mowa w art. 18.”;
+- **18)** w art. 43:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Krajowy program oczyszczania ścieków komunalnych, którego integralną część stanowi wykaz aglomeracji, o których mowa w ust. 1, oraz wykaz niezbędnych przedsięwzięć w zakresie budowy i modernizacji urządzeń kanalizacyjnych, sporządza Prezes Krajowego Zarządu Gospodarki Wodnej, a zatwierdza Rada Ministrów.”,
+    - **b)** w ust. 3b wprowadzenie do wyliczenia otrzymuje brzmienie: „Marszałek województwa przedkłada Prezesowi Krajowego Zarządu Gospodarki Wodnej, nie później niż do dnia 31 marca, sprawozdanie z realizacji krajowego programu oczyszczania ścieków komunalnych w województwie, zawierające:”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Prezes Krajowego Zarządu Gospodarki Wodnej, za pośrednictwem ministra właściwego do spraw gospodarki wodnej, przedkłada co 2 lata Radzie Ministrów sprawozdanie z wykonania krajowego programu oczyszczania ścieków komunalnych.”;
+
+- **19)** po art. 49a dodaje się art. 49b w brzmieniu: „Art. 49b. 1. Celem ochrony jednolitych części wód, przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia oraz zaopatrzenia zakładów wymagających wody wysokiej jakości, jest zapobieganie pogorszeniu jakości tych jednolitych części wód w taki sposób, aby w szczególności zminimalizować potrzebę ich uzdatniania.
+
+2. Cele środowiskowe, o których mowa w art. 38d–38f, oraz wymagania wynikające z ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 r. Nr 123, poz. 858, z późn. zm. ) powinny być zrealizowane dla jednolitych części wód, przeznaczonych do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi.
+
+3. Jednolite części wód, przeznaczone do poboru wody na potrzeby zaopatrzenia ludności w wodę przeznaczoną do spożycia, obejmują:
+
+- **1)** jednolite części wód wykorzystywane do poboru wody przeznaczonej do spożycia, dostarczające średnio więcej niż 10 m na dobę lub służące więcej niż 50 osobom;
+- **2)** jednolite części wód, które są przewidywane do takich celów w przyszłości.”;
+- **20)** w art. 50 ust. 5 otrzymuje brzmienie: „5. Wody powierzchniowe, które nie spełniają wymagań określonych na podstawie ust. 1, nie mogą być wykorzystywane do zaopatrzenia ludności w wodę przeznaczoną do spożycia.”;
+- **21)** w art. 64:
+    - **a)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Organ właściwy do wydania pozwolenia wodnoprawnego, w drodze decyzji, stwierdza wygaśnięcie decyzji, o której mowa w ust. 1a, jeżeli stwierdzi trwałe ustanie odnoszenia korzyści z urządzeń wodnych.”,
+    - **b)** po ust. 2a dodaje się ust. 2b–2e w brzmieniu: „2b. Użytkownik budowli piętrzącej, o wysokości piętrzenia powyżej 1 m i przepływie średnim rocznym (SSQ) powyżej 1,0 m /s, jest obowiązany do prowadzenia dziennika gospodarowania wodą.
+
+2c. W dzienniku gospodarowania wodą zamieszcza się w szczególności:
+
+- **1)** odczyty wodowskazowe;
+- **2)** pojemność zbiornika;
+- **3)** dopływy do zbiornika lub stopnia;
+- **4)** odpływ ze zbiornika lub stopnia z poszczególnych urządzeń upustowych;
+- **5)** pobory wody przez poszczególne zakłady.
+
+2d. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, sposób prowadzenia i wzór dziennika gospodarowania wodą, kierując się koniecznością zaspokojenia potrzeb zakładów w zakresie gospodarowania wodą, zakresem posiadanych przez zakłady uprawnień oraz sposobem przepuszczania wód powodziowych, a także uwzględniając częstotliwość dokonywania wpisów w dzienniku.
+
+2e. Obowiązek, o którym mowa w ust. 2b, nie dotyczy użytkownika budowli piętrzącej o stałym progu bez możliwości sterowania lub wyposażonej w samoczynne upusty.”,
+
+- **c)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Właściciel budowli piętrzącej jest obowiązany zapewnić prowadzenie badań i pomiarów umożliwiających ocenę stanu technicznego oraz stanu bezpieczeństwa budowli, a w szczególności:”,
+- **d)** ust. 4 otrzymuje brzmienie: „4. W ramach realizacji obowiązku, o którym mowa w ust. 3, budowle piętrzące stanowiące własność Skarbu Państwa, zaliczone na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do I lub II klasy, poddaje się badaniom i pomiarom pozwalającym opracować ocenę stanu technicznego i stanu bezpieczeństwa dla tych budowli, wykonywanym przez państwową służbę do spraw bezpieczeństwa budowli piętrzących.”,
+- **e)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Badaniom i pomiarom, o których mowa w ust. 4, poddaje się także budowle piętrzące stanowiące własność Skarbu Państwa, inne niż wymienione w ust. 4, jeżeli z uwagi na ich zły stan techniczny zagrażają lub mogą zagrażać bezpieczeństwu. Prezes Krajowego Zarządu Gospodarki Wodnej sporządza wykaz tych budowli i przekazuje go państwowej służbie do spraw bezpieczeństwa budowli piętrzących.”,
+- **f)** dodaje się ust. 6 i 7 w brzmieniu: „6. Właściciel budowli piętrzącej, zaliczonej na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do I lub II klasy, przekazuje jeden egzemplarz oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzącej państwowej służbie do spraw bezpieczeństwa budowli piętrzących, w terminie miesiąca od dnia jej odbioru.
+
+7. Przepisu ust. 6 nie stosuje się do właścicieli budowli piętrzących, dla których oceny stanu technicznego i stanu bezpieczeństwa dokonuje państwowa służba do spraw bezpieczeństwa budowli piętrzących.”;
+
+- **22)** w art. 64a:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jeżeli urządzenie wodne zostało wykonane bez wymaganego pozwolenia wodnoprawnego, właściciel tego urządzenia może wystąpić z wnioskiem o jego legalizację, do którego dołącza dokumenty wskazane w art. 131 ust. 2.
+
+2. Organ właściwy do wydania pozwolenia wodnoprawnego może wydać decyzję o legalizacji urządzenia wodnego, jeżeli lokalizacja tego urządzenia nie narusza przepisów o planowaniu i zagospodarowaniu przestrzennym oraz przepisów art. 63, ustalając jednocześnie, w drodze postanowienia, wysokość opłaty legalizacyjnej, wynoszącą 10-krotność opłaty skarbowej za wydanie pozwolenia wodnoprawnego.”,
+
+- **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. W postępowaniu w sprawie o wydanie decyzji o legalizacji urządzenia wodnego stosuje się przepisy art. 127 ust. 6–8.
+
+5. Jeżeli właściciel urządzenia wodnego nie wystąpił z wnioskiem, o którym mowa w ust. 1, lub nie uzyskał decyzji o legalizacji urządzenia wodnego, organ właściwy do wydania pozwolenia wodnoprawnego nakłada na właściciela tego urządzenia, w drodze decyzji, obowiązek likwidacji urządzenia, ustalając warunki i termin wykonania tego obowiązku.”;
+
+- **23)** po art. 64a dodaje się art. 64b w brzmieniu: „Art. 64b. W przypadku nienależytego utrzymywania urządzenia wodnego, powodującego zmianę jego funkcji lub szkodliwe oddziaływanie na grunty, organ właściwy do wydania pozwolenia wodnoprawnego może, w drodze decyzji, nakazać przywrócenie poprzedniej funkcji urządzenia wodnego lub likwidację szkód, określając warunki i termin wykonania tych czynności.”;
+- **24)** uchyla się dział V;
+- **25)** po dziale V dodaje się działy Va i Vb w brzmieniu: „DZIAŁ Va Ochrona przed powodzią
 
 **Art. 88a.**
 
@@ -140,7 +285,11 @@ source: "isap-pdf"
     - **e)** położenia obszarów, na których jest wykonywana działalność gospodarcza;
 
 - **4)** w miarę możliwości – prognozę długofalowego rozwoju wydarzeń, w szczególności wpływu zmian klimatu na występowanie powodzi;
-- **5)** określenie obszarów narażonych na niebezpieczeństwo powodzi. jowego Zarządu Gospodarki Wodnej.
+- **5)** określenie obszarów narażonych na niebezpieczeństwo powodzi.
+
+**Art. 88c.**
+
+1. Wstępną ocenę ryzyka powodziowego przygotowuje Prezes Krajowego Zarządu Gospodarki Wodnej.
 
 2. Wstępną ocenę ryzyka powodziowego od strony morza, w tym morskich wód wewnętrznych, przygotowuje minister właściwy do spraw gospodarki morskiej i przekazuje Prezesowi Krajowego Zarządu Gospodarki Wodnej, nie później niż na 6 miesięcy przed terminem przygotowania wstępnej oceny ryzyka powodziowego. Wstępna ocena ryzyka powodziowego od strony morza, w tym morskich wód wewnętrznych, stanowi integralny element wstępnej oceny ryzyka powodziowego, o której mowa w ust. 1.
 
@@ -169,7 +318,8 @@ source: "isap-pdf"
 - **1)** obszary, na których prawdopodobieństwo wystąpienia powodzi jest niskie i wynosi raz na 500 lat lub na których istnieje prawdopodobieństwo wystąpienia zdarzenia ekstremalnego;
 - **2)** obszary szczególnego zagrożenia powodzią;
 - **3)** obszary obejmujące tereny narażone na zalanie w przypadku:
-    - **a)** przelania się wód przez koronę wału przeciwpowodziowego, go,
+    - **a)** przelania się wód przez koronę wału przeciwpowodziowego,
+    - **b)** zniszczenia lub uszkodzenia wału przeciwpowodziowego,
     - **c)** zniszczenia lub uszkodzenia budowli piętrzących,
     - **d)** zniszczenia lub uszkodzenia budowli ochronnych pasa technicznego.
 
@@ -207,6 +357,7 @@ source: "isap-pdf"
 
 3. Prezes Krajowego Zarządu Gospodarki Wodnej przekazuje mapy, o których mowa w ust. 1:
 
+- **1)** dyrektorom regionalnych zarządów gospodarki wodnej;
 - **2)** Głównemu Geodecie Kraju;
 - **3)** Głównemu Inspektorowi Ochrony Środowiska;
 - **4)** dyrektorowi Rządowego Centrum Bezpieczeństwa.
@@ -230,7 +381,9 @@ source: "isap-pdf"
 
 9. Przygotowanie map zagrożenia powodziowego oraz map ryzyka powodziowego dla obszarów, o których mowa w art. 88d ust. 2, położonych na obszarach dorzeczy, których części znajdują się na terytorium innych państw członkowskich Unii Europejskiej, poprzedza się wymianą informacji niezbędnych do opracowania tych map z właściwymi organami tych państw. Wymiana informacji następuje w trybie i w zakresie określonym w odrębnych przepisach.
 
-10. Przygotowanie map zagrożenia powodziowego oraz map ryzyka powodziowego dla obszarów, o których mowa w art. 88d ust. 2, położonych na obszarach dorzeczy, których części znajdują się na terytorium państw leżących poza granicami Unii Europejskiej, poprzedza się działaniami mającymi na celu nawiązanie w tym zakresie współpracy z właściwymi organami tych państw. go podlegają przeglądowi co 6 lat oraz w razie potrzeby aktualizacji.
+10. Przygotowanie map zagrożenia powodziowego oraz map ryzyka powodziowego dla obszarów, o których mowa w art. 88d ust. 2, położonych na obszarach dorzeczy, których części znajdują się na terytorium państw leżących poza granicami Unii Europejskiej, poprzedza się działaniami mającymi na celu nawiązanie w tym zakresie współpracy z właściwymi organami tych państw.
+
+11. Mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego podlegają przeglądowi co 6 lat oraz w razie potrzeby aktualizacji.
 
 12. Przepisy ust. 2–10 stosuje się odpowiednio do aktualizacji map zagrożenia powodziowego oraz map ryzyka powodziowego.
 
@@ -264,7 +417,7 @@ source: "isap-pdf"
 
 2. Plany zarządzania ryzykiem powodziowym dla regionów wodnych przygotowują dyrektorzy regionalnych zarządów gospodarki wodnej.
 
-3. Plany zarządzania ryzykiem powodziowym od strony morza, w tym morskich wód wewnętrznych, przygotowuje minister właściwy do spraw gospodarki morskiej i przekazuje Prezesowi Krajowego Zarządu Gospodarki Wodnej na 18 miesięcy przed terminem przygotowania planów zarządzania ryzykiem powodziowym. Plany zarządzania ryzykiem powodziowym od strony morza, w tym morskich wód wewnętrznych, stanowią integralny element ust. 1.
+3. Plany zarządzania ryzykiem powodziowym od strony morza, w tym morskich wód wewnętrznych, przygotowuje minister właściwy do spraw gospodarki morskiej i przekazuje Prezesowi Krajowego Zarządu Gospodarki Wodnej na 18 miesięcy przed terminem przygotowania planów zarządzania ryzykiem powodziowym. Plany zarządzania ryzykiem powodziowym od strony morza, w tym morskich wód wewnętrznych, stanowią integralny element planów zarządzania ryzykiem powodziowym, o których mowa w ust. 1.
 
 4. W celu przygotowania planu zarządzania ryzykiem powodziowym dla obszaru dorzecza, którego część znajduje się na terytorium innych państw członkowskich Unii Europejskiej, Prezes Krajowego Zarządu Gospodarki Wodnej, w uzgodnieniu z ministrem właściwym do spraw gospodarki wodnej, podejmuje współpracę z właściwymi organami tych państw.
 
@@ -278,7 +431,9 @@ source: "isap-pdf"
 
 9. Prezes Krajowego Zarządu Gospodarki Wodnej uzgadnia sposób i zakres uwzględnienia uwag do projektów planów zarządzania ryzykiem powodziowym z ministrem właściwym do spraw gospodarki wodnej, a w odniesieniu do projektów planów zarządzania ryzykiem powodziowym od strony morza, w tym morskich wód wewnętrznych, z ministrem właściwym do spraw gospodarki morskiej.
 
-10. Plany zarządzania ryzykiem powodziowym podlegają przeglądowi co 6 lat oraz w razie potrzeby aktualizacji. czy elementów, o których mowa w art. 88g ust. 2, i obejmuje w szczególności:
+10. Plany zarządzania ryzykiem powodziowym podlegają przeglądowi co 6 lat oraz w razie potrzeby aktualizacji.
+
+11. Aktualizacja planów zarządzania ryzykiem powodziowym dotyczy elementów, o których mowa w art. 88g ust. 2, i obejmuje w szczególności:
 
 - **1)** wszelkie zmiany lub uaktualnienia dotyczące tych planów, wraz z podsumowaniem przeglądów wstępnej oceny ryzyka powodziowego, map zagrożenia powodziowego i map ryzyka powodziowego;
 - **2)** ocenę postępów w realizacji celów zarządzania ryzykiem powodziowym;
@@ -304,6 +459,13 @@ source: "isap-pdf"
 
 **Art. 88k.** Ochronę ludzi i mienia przed powodzią realizuje się w szczególności przez:
 
+- **1)** kształtowanie zagospodarowania przestrzennego dolin rzecznych lub terenów zalewowych;
+- **2)** racjonalne retencjonowanie wód oraz użytkowanie budowli przeciwpowodziowych, a także sterowanie przepływami wód;
+- **3)** zapewnienie funkcjonowania systemu ostrzegania przed niebezpiecznymi zjawiskami zachodzącymi w atmosferze oraz hydrosferze;
+- **4)** zachowanie, tworzenie i odtwarzanie systemów retencji wód;
+- **5)** budowę, rozbudowę i utrzymywanie budowli przeciwpowodziowych;
+- **6)** prowadzenie akcji lodołamania.
+
 **Art. 88l.**
 
 1. Na obszarach szczególnego zagrożenia powodzią zabrania się wykonywania robót oraz czynności utrudniających ochronę przed powodzią lub zwiększających zagrożenie powodziowe, w tym:
@@ -327,7 +489,9 @@ source: "isap-pdf"
 - **1)** wskazać sposób uprawy i zagospodarowania gruntów oraz rodzaje upraw wynikające z wymagań ochrony przed powodzią;
 - **2)** nakazać usunięcie drzew lub krzewów.
 
-8. Przy wydawaniu decyzji, o której mowa w ust. 7, przepis ust. 3 stosuje się odpowiednio. i 7, w zakresie pasa technicznego, jest dyrektor właściwego urzędu morskiego.
+8. Przy wydawaniu decyzji, o której mowa w ust. 7, przepis ust. 3 stosuje się odpowiednio.
+
+9. Organem właściwym do wydania decyzji, o której mowa w ust. 2 i 7, w zakresie pasa technicznego, jest dyrektor właściwego urzędu morskiego.
 
 10. Stroną postępowania o wydanie decyzji, o której mowa w ust. 7, jest właściciel wody i posiadacz nieruchomości, której dotyczy ta decyzja.
 
@@ -353,7 +517,7 @@ source: "isap-pdf"
 
 5. Stroną postępowania o wydanie decyzji, o której mowa w ust. 3, jest wnioskodawca, właściciel wody i właściciel wału przeciwpowodziowego.
 
-6. Decyzja, o której mowa w ust. 3, wygasa, jeżeli w terminie 2 lat od dnia, w którym stała się ostateczna, nie uzyskano wymaganego robót lub czynności wskazanych w ust. 1.
+6. Decyzja, o której mowa w ust. 3, wygasa, jeżeli w terminie 2 lat od dnia, w którym stała się ostateczna, nie uzyskano wymaganego pozwolenia wodnoprawnego lub nie rozpoczęto wykonywania robót lub czynności wskazanych w ust. 1.
 
 7. Starosta może, w drodze decyzji, nakazać usunięcie drzew lub krzewów z wałów przeciwpowodziowych oraz terenów, o których mowa w ust. 1 pkt 2.
 
@@ -387,7 +551,9 @@ source: "isap-pdf"
 
 1. Ochrona przed suszą jest zadaniem organów administracji rządowej i samorządowej.
 
-2. Ochronę przed suszą prowadzi się zgodnie z planami przeciwdziałania skutkom suszy na obszarach dorzeczy oraz planami przeciwdziałania skutkom suszy w regionach wodnych. zawierają:
+2. Ochronę przed suszą prowadzi się zgodnie z planami przeciwdziałania skutkom suszy na obszarach dorzeczy oraz planami przeciwdziałania skutkom suszy w regionach wodnych.
+
+3. Plany przeciwdziałania skutkom suszy, o których mowa w ust. 2, zawierają:
 
 - **1)** analizę możliwości powiększenia dyspozycyjnych zasobów wodnych;
 - **2)** propozycje budowy, rozbudowy lub przebudowy urządzeń wodnych;
@@ -416,7 +582,7 @@ source: "isap-pdf"
 
 **Art. 88t.**
 
-1. W przypadku wprowadzenia stanu klęski żywiołowej, w celu ograniczenia skutków suszy, dyrektor regionalnego zarządu gowprowadzić czasowe ograniczenia w korzystaniu z wód, w szczególności w zakresie poboru wody lub wprowadzania ścieków do wód albo do ziemi oraz zmiany sposobu gospodarowania wodą w zbiornikach retencyjnych.
+1. W przypadku wprowadzenia stanu klęski żywiołowej, w celu ograniczenia skutków suszy, dyrektor regionalnego zarządu gospodarki wodnej może, w drodze aktu prawa miejscowego, wprowadzić czasowe ograniczenia w korzystaniu z wód, w szczególności w zakresie poboru wody lub wprowadzania ścieków do wód albo do ziemi oraz zmiany sposobu gospodarowania wodą w zbiornikach retencyjnych.
 
 2. Wprowadzenie czasowych ograniczeń, o których mowa w ust. 1, zawiesza wykonywanie uprawnień wynikających z pozwoleń wodnoprawnych. Zakładom nie przysługuje z tego tytułu odszkodowanie.”;
 
@@ -432,7 +598,7 @@ source: "isap-pdf"
 
 - **6b)** przygotowywanie planów przeciwdziałania skutkom suszy w regionach wodnych;”, – uchyla się pkt 9,
     - **b)** ust. 4 otrzymuje brzmienie: „4. W ramach gospodarowania mieniem Skarbu Państwa, związanym z gospodarką wodną, dyrektor regionalnego zarządu realizuje w imieniu Prezesa Krajowego Zarządu zadania związane z utrzymywaniem śródlądowych wód powierzchniowych lub urządzeń wodnych oraz pełni funkcję inwestora w zakresie gospodarki wodnej w regionie wodnym.”,
-    - **c)** ust. 6 otrzymuje brzmienie: mowa w ust. 4, może tworzyć jednostki organizacyjne, w trybie przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2009 r. Nr 157, poz. 1240, z późn. zm. ).”;
+    - **c)** ust. 6 otrzymuje brzmienie: „6. Dyrektor regionalnego zarządu, dla realizacji zadań, o których mowa w ust. 4, może tworzyć jednostki organizacyjne, w trybie przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2009 r. Nr 157, poz. 1240, z późn. zm. ).”;
 
 - **28)** art. 93 otrzymuje brzmienie: „Art. 93. 1. Dyrektor regionalnego zarządu jest powoływany przez ministra właściwego do spraw gospodarki wodnej, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek Prezesa Krajowego Zarządu złożony po zasięgnięciu opinii Krajowej Rady Gospodarki Wodnej. Minister właściwy do spraw gospodarki wodnej, na wniosek Prezesa Krajowego Zarządu złożony po zasięgnięciu opinii Krajowej Rady Gospodarki Wodnej, odwołuje dyrektora regionalnego zarządu.
 
@@ -455,6 +621,7 @@ source: "isap-pdf"
 - **1)** nazwę i adres regionalnego zarządu;
 - **2)** określenie stanowiska;
 - **3)** wymagania związane ze stanowiskiem;
+- **4)** zakres zadań wykonywanych na stanowisku;
 - **5)** wskazanie wymaganych dokumentów;
 - **6)** termin i miejsce składania dokumentów;
 - **7)** informację o metodach i technikach naboru.
@@ -484,7 +651,9 @@ source: "isap-pdf"
 
 - **1)** nazwę i adres regionalnego zarządu;
 - **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata. gującego ministra właściwego do spraw gospodarki wodnej ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+- **3)** imiona i nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+
+14. Umieszczenie w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw gospodarki wodnej ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
 
 15. Zespół przeprowadzający nabór na stanowiska, o których mowa w ust. 2, powołuje dyrektor regionalnego zarządu.
 
@@ -505,7 +674,7 @@ source: "isap-pdf"
 - **32)** w art. 103 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7–9 w brzmieniu: „7) wykonywanie modelowania hydrologicznego i hydraulicznego w zakresie zagrożeń powodziowych oraz zjawiska suszy;
 - **8)** prowadzenie działań edukacyjnych w zakresie hydrologii, meteorologii i oceanologii;
 - **9)** współpraca z organami administracji publicznej w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze.”;
-- **33)** po art. 103 dodaje się art. 103a w brzmieniu: piętrzących należy:
+- **33)** po art. 103 dodaje się art. 103a w brzmieniu: „Art. 103a. 1. Do zadań państwowej służby do spraw bezpieczeństwa budowli piętrzących należy:
 - **1)** wykonywanie badań i pomiarów pozwalających opracować ocenę stanu technicznego i stanu bezpieczeństwa:
     - **a)** budowli piętrzących stanowiących własność Skarbu Państwa, zaliczonych na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane do I lub II klasy,
     - **b)** budowli piętrzących stanowiących własność Skarbu Państwa, innych niż określone w lit. a, wskazanych przez Prezesa Krajowego Zarządu, które z uwagi na zły stan techniczny zagrażają lub mogą zagrażać bezpieczeństwu;
@@ -522,7 +691,7 @@ source: "isap-pdf"
 - **1)** wyniki badań i pomiarów, o których mowa w ust. 1 pkt 1, oraz oceny stanu technicznego i stanu bezpieczeństwa budowli piętrzących, Prezesowi Krajowego Zarządu oraz właściwemu dyrektorowi regionalnego zarządu, niezwłocznie po ich opracowaniu;
 - **2)** raport, o którym mowa w ust. 1 pkt 4, Prezesowi Krajowego Zarządu oraz Głównemu Inspektorowi Nadzoru Budowlanego, nie później niż do dnia 31 marca każdego roku.”;
 - **34)** w art. 104:
-    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) podstawową sieć i specjalne sieci pomiarowoobserwacyjne;”, – pkt 3 otrzymuje brzmienie: „3) biura prognoz meteorologicznych, biura prognoz hydrologicznych i centra modelowania powodziowego i suszy;”, – w pkt 4 lit. a otrzymuje brzmienie: cjalne sieci pomiarowo-obserwacyjne oraz system gromadzenia, przetwarzania i wymiany danych,”,
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) podstawową sieć i specjalne sieci pomiarowoobserwacyjne;”, – pkt 3 otrzymuje brzmienie: „3) biura prognoz meteorologicznych, biura prognoz hydrologicznych i centra modelowania powodziowego i suszy;”, – w pkt 4 lit. a otrzymuje brzmienie: „a) organizują, nadzorują i eksploatują podstawową sieć i specjalne sieci pomiarowo-obserwacyjne oraz system gromadzenia, przetwarzania i wymiany danych,”,
     - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Podstawową sieć pomiarowo-obserwacyjną stanowią:”, – w pkt 2 uchyla się lit. c,
     - **c)** w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Specjalne sieci pomiarowo-obserwacyjne stanowią:”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) lotniskowe stacje meteorologiczne.”;
 
@@ -537,7 +706,7 @@ source: "isap-pdf"
 
 - **36)** w art. 108:
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Osoby wykonujące badania, pomiary, obserwacje oraz prace kontrolne na potrzeby realizacji przez państwową służbę hydrologicznometeorologiczną, państwową służbę hydrogeologiczną lub państwową służbę do spraw bezpieczeństwa budowli piętrzących zadań, o których mowa w art. 103, 103a ust. 1 lub art. 105, a także prace związane z wykonywaniem, obsługą lub utrzymaniem urządzeń pomiarowych służb państwowych, mają prawo do:”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Właściciel nieruchomości jest obowiązany umożliwić wykonanie prac, o których mowa w ust. 1, przez osoby upoważnione przez państwową służbę hydrologiczno-meteorologiczną, państwową pieczeństwa budowli piętrzących.”;
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Właściciel nieruchomości jest obowiązany umożliwić wykonanie prac, o których mowa w ust. 1, przez osoby upoważnione przez państwową służbę hydrologiczno-meteorologiczną, państwową służbę hydrogeologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących.”;
 
 - **37)** po art. 108 dodaje się art. 108a w brzmieniu: „Art. 108a. 1. Wobec pracowników inżynieryjno-technicznych zatrudnionych w ramach państwowej służby hydrologiczno-meteorologicznej wprowadza się rozkład czasu pracy:
 - **1)** zmianowy – na stanowiskach, na których jest to konieczne ze względu na szczególne warunki pracy lub warunki atmosferyczne;
@@ -557,7 +726,8 @@ source: "isap-pdf"
     - **a)** ust. 1 otrzymuje brzmienie: „1. Państwowa służba hydrologiczno-meteorologiczna, państwowa służba hydrogeologiczna oraz państwowa służba do spraw bezpieczeństwa budowli piętrzących są finansowane ze środków budżetu państwa.”,
     - **b)** w ust. 2: – pkt 1 i 2 otrzymują brzmienie: „1) utrzymanie bieżącej działalności państwowej służby hydrologiczno-meteorologicznej, państwowej służby hydrogeologicznej oraz państwowej służby do spraw bezpieczeństwa budowli piętrzących;
 
-- **2)** utrzymanie, odbudowa, rozbudowa, przebudowa i rozbiórka podstawowej sieci pomiarowo-obserwacyjnej państwowej służby hydrologiczno-meteorologicznej oraz systemu gromadzenia, przetwarzania i wymiany danych;”, – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8–10 w brzmieniu: „8) wykonywanie modelowania hydrologiczno-hydraulicznego szczególnie w zakresie zagrożeń powodziowych i zjawiska suszy; teorologii i oceanologii;
+- **2)** utrzymanie, odbudowa, rozbudowa, przebudowa i rozbiórka podstawowej sieci pomiarowo-obserwacyjnej państwowej służby hydrologiczno-meteorologicznej oraz systemu gromadzenia, przetwarzania i wymiany danych;”, – w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8–10 w brzmieniu: „8) wykonywanie modelowania hydrologiczno-hydraulicznego szczególnie w zakresie zagrożeń powodziowych i zjawiska suszy;
+- **9)** prowadzenie działań edukacyjnych w zakresie hydrologii, meteorologii i oceanologii;
 - **10)** współpraca z organami administracji publicznej, w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze.”,
     - **c)** w ust. 3 pkt 6 otrzymuje brzmienie: „6) utrzymanie specjalnych sieci pomiarowo-obserwacyjnych.”,
     - **d)** ust. 4 i 5 otrzymują brzmienie: „4. Państwowa służba hydrologiczno-meteorologiczna, państwowa służba hydrogeologiczna oraz państwowa służba do spraw bezpieczeństwa budowli piętrzących mogą być dofinansowywane z innych środków publicznych, na zasadach dotyczących wykorzystania tych środków.
@@ -571,7 +741,7 @@ source: "isap-pdf"
     - **b)** ust. 7 otrzymuje brzmienie: „7. Instytut Meteorologii i Gospodarki Wodnej oraz Państwowy Instytut Geologiczny mogą odpłatnie udostępniać informacje zbierane i przetwarzane w wyniku realizacji standardowych procedur innym odbiorcom niż określeni w ust. 3 i 4. Wpływy z tego tytułu stanowią dochód, odpowiednio, Instytutu Meteorologii i Gospodarki Wodnej albo Państwowego Instytutu Geologicznego i są przeznaczane, odpowiednio, na pełnienie państwowej służby hydrologiczno-meteorologicznej albo państwowej służby hydrogeologicznej.”;
 
 - **40)** w art. 113:
-    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) plan zarządzania ryzykiem powodziowym;”, – dodaje się pkt 2a w brzmieniu: cza;”, – uchyla się pkt 3,
+    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) plan zarządzania ryzykiem powodziowym;”, – dodaje się pkt 2a w brzmieniu: „2a) plan przeciwdziałania skutkom suszy na obszarze dorzecza;”, – uchyla się pkt 3,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dokumentacje, o których mowa w ust. 2 pkt 2, 3 i 6, aktualizuje się co 6 lat.”,
     - **c)** w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wykazy wielkości emisji i stężeń:
     - **a)** substancji priorytetowych określonych w przepisach wydanych na podstawie art. 38d ust. 4,
@@ -592,7 +762,8 @@ source: "isap-pdf"
     - **e)** służące właściwemu wykorzystaniu osadów ściekowych,
     - **f)** służące zapobieganiu zanieczyszczeniom ze źródeł rolniczych, o których mowa w art. 47;
 
-- **2)** działania służące wdrożeniu zasady zwrotu kosztów usług wodnych, uwzględniającej wkład wniesiony przez użytkowników wód oraz koszty środowiskowe i koszty zasobowe; nego korzystania z wody w celu niedopuszczenia do zagrożenia realizacji celów środowiskowych;
+- **2)** działania służące wdrożeniu zasady zwrotu kosztów usług wodnych, uwzględniającej wkład wniesiony przez użytkowników wód oraz koszty środowiskowe i koszty zasobowe;
+- **3)** działania służące propagowaniu skutecznego i zrównoważonego korzystania z wody w celu niedopuszczenia do zagrożenia realizacji celów środowiskowych;
 - **4)** działania prewencyjne, ochronne i kontrolne, związane z ochroną wód przed zanieczyszczeniami pochodzącymi ze źródeł punktowych i obszarowych;
 - **5)** działania uniemożliwiające znaczny wzrost stężeń substancji priorytetowych, określonych w przepisach wydanych na podstawie art. 38d ust. 4, charakteryzujących się zdolnością do akumulacji, w osadach lub organizmach żywych;
 - **6)** działania na rzecz optymalizowania zasad kształtowania zasobów wodnych i warunków korzystania z nich, w tym działania na rzecz kontroli poboru wody;
@@ -603,6 +774,9 @@ source: "isap-pdf"
 - **11)** niewprowadzanie zanieczyszczeń bezpośrednio do wód podziemnych, rozumiane jako wprowadzanie w inny sposób niż przez przesiąkanie przez glebę i podglebie, z zastrzeżeniem wyjątków określonych w odrębnych przepisach, o ile nie zagrożą one osiągnięciu celów środowiskowych dla jednolitych części wód podziemnych;
 - **12)** działania służące eliminowaniu substancji priorytetowych z wód powierzchniowych oraz stopniowemu ograniczaniu innych zanieczyszczeń, jeżeli mogłyby one zagrozić osiągnięciu celów środowiskowych ustalonych dla tych wód;
 - **13)** działania zapobiegające uwalnianiu w znaczących ilościach substancji szczególnie szkodliwych dla środowiska wodnego z instalacji technicznych, a także służące zapobieganiu lub łagodzeniu skutków zanieczyszczeń niedających się przewidzieć, w tym przez stosowanie systemów wczesnego ostrzegania, a w przypadku zaistnienia niedających się przewidzieć okoliczności – niezbędne środki dla zredukowania zagrożeń dla ekosystemów wodnych.
+
+3. Realizacja działań, o których mowa w ust. 2, nie powinna:
+
 - **1)** powodować wzrostu zanieczyszczenia wód morskich;
 - **2)** przyczyniać się bezpośrednio ani pośrednio do wzrostu zanieczyszczenia śródlądowych wód powierzchniowych, chyba że byłoby to z korzyścią dla środowiska jako całości.
 
@@ -630,7 +804,9 @@ source: "isap-pdf"
 - **1)** dokonać analizy przyczyn tych zagrożeń;
 - **2)** poddać przeglądowi udzielone pozwolenia wodnoprawne;
 - **3)** poddać przeglądowi i dostosować programy monitoringu wód;
-- **4)** uzupełnić program wodno-środowiskowy kraju o dodatkowe działania. lat i w razie potrzeby aktualizacji.
+- **4)** uzupełnić program wodno-środowiskowy kraju o dodatkowe działania.
+
+9. Program wodno-środowiskowy kraju podlega przeglądowi co 6 lat i w razie potrzeby aktualizacji.
 
 10. Działania zawarte w aktualizacjach zostaną wprowadzone w ciągu 3 lat od ich ustalenia.”;
 
@@ -648,7 +824,7 @@ source: "isap-pdf"
 
 - **45)** w art. 116 ust. 1 otrzymuje brzmienie: „1. Warunki korzystania z wód zlewni sporządza się dla obszarów, dla których w wyniku ustaleń planu, o którym mowa w art. 113 ust. 1 pkt 1a, jest konieczne określenie szczególnych zasad ochrony zasobów wodnych, a zwłaszcza ich ilości i jakości, w celu osiągnięcia dobrego stanu wód.”;
 - **46)** uchyla się art. 117;
-- **47)** art. 118 otrzymuje brzmienie: uwzględnia się w koncepcji przestrzennego zagospodarowania kraju, strategii rozwoju województwa, planach zagospodarowania przestrzennego województwa, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz w miejscowych planach zagospodarowania przestrzennego.”;
+- **47)** art. 118 otrzymuje brzmienie: „Art. 118. Ustalenia planów, o których mowa w art. 113 ust. 1 pkt 1a–2a, uwzględnia się w koncepcji przestrzennego zagospodarowania kraju, strategii rozwoju województwa, planach zagospodarowania przestrzennego województwa, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz w miejscowych planach zagospodarowania przestrzennego.”;
 - **48)** w art. 119:
     - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) Prezes Krajowego Zarządu podejmuje działania, o których mowa w art. 113b ust. 8 pkt 1 i 4;
 
@@ -665,7 +841,7 @@ source: "isap-pdf"
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Obowiązek posiadania pozwolenia wodnoprawnego, o którym mowa w ust. 1 pkt 10, dotyczy także wytwórcy ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego określone w przepisach wydanych na podstawie art. 45a ust. 1.”;
 
 - **51)** w art. 123:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli o wydanie pozwolenia wodnoprawnego ubiega się kilka zakładów, których działalność wzajemnie się wyklucza z powodu stanu zasobów wodnych, pierwszeństwo w uzyskaniu pozwolenia wodnoprawnego mają zakłady, które będą pobierać wodę w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia, następnie – zakłady, których korzystanie z wód przyczyni się do zwiększenia naturalnej lub sztucznej retencji wód lub poprawy stosunków biologicznych w środowisku wodnym, a w dalszej kolejności instalacji lub urządzeń infrastruktury krytycznej.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli o wydanie pozwolenia wodnoprawnego ubiega się kilka zakładów, których działalność wzajemnie się wyklucza z powodu stanu zasobów wodnych, pierwszeństwo w uzyskaniu pozwolenia wodnoprawnego mają zakłady, które będą pobierać wodę w celu zaopatrzenia ludności w wodę przeznaczoną do spożycia, następnie – zakłady, których korzystanie z wód przyczyni się do zwiększenia naturalnej lub sztucznej retencji wód lub poprawy stosunków biologicznych w środowisku wodnym, a w dalszej kolejności właściciele oraz posiadacze samoistni i zależni innych obiektów, instalacji lub urządzeń infrastruktury krytycznej.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli jednym z zakładów ubiegających się o wydanie pozwolenia wodnoprawnego jest właściciel urządzenia wodnego koniecznego do realizacji tego pozwolenia, pierwszeństwo w uzyskaniu pozwolenia przysługuje temu zakładowi.”;
 
 - **52)** w art. 124 pkt 11 otrzymuje brzmienie: „11) odbudowę, rozbudowę, przebudowę lub rozbiórkę urządzeń pomiarowych służb państwowych na obszarach szczególnego zagrożenia powodzią, jeżeli wydano decyzję, o której mowa w art. 88l ust. 2.”;
@@ -685,7 +861,7 @@ source: "isap-pdf"
 - **1)** wnioskodawca,
 - **2)** właściciel wody,
 - **3)** właściciel urządzeń wodnych,
-- **4)** uprawniony do rybactwa cyjnego.
+- **4)** uprawniony do rybactwa – stosuje się przepis art. 49 Kodeksu postępowania administracyjnego.
 
 7b. Dyrektor regionalnego zarządu, marszałek województwa albo starosta podlega wyłączeniu od załatwienia sprawy, w której jest wnioskodawcą.
 
@@ -699,7 +875,7 @@ source: "isap-pdf"
 
 - **56)** w art. 132:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Operat sporządza się także na elektronicznych nośnikach danych jako dokument tekstowy, zaś część graficzną operatu w postaci plików typu wektorowego lub rastrowego.”,
-    - **b)** w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: współrzędnych geograficznych oraz podstawowe parametry charakteryzujące to urządzenie i warunki jego wykonania;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) charakterystykę odbiornika ścieków objętego pozwoleniem wodnoprawnym;”, – pkt 4 i 5 otrzymują brzmienie: „4) ustalenia wynikające z planu gospodarowania wodami na obszarze dorzecza i warunków korzystania z wód regionu wodnego;
+    - **b)** w ust. 2: – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) opis urządzenia wodnego, w tym położenie za pomocą współrzędnych geograficznych oraz podstawowe parametry charakteryzujące to urządzenie i warunki jego wykonania;”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) charakterystykę odbiornika ścieków objętego pozwoleniem wodnoprawnym;”, – pkt 4 i 5 otrzymują brzmienie: „4) ustalenia wynikające z planu gospodarowania wodami na obszarze dorzecza i warunków korzystania z wód regionu wodnego;
 
 - **5)** określenie wpływu gospodarki wodnej zakładu na wody powierzchniowe oraz podziemne, w szczególności na stan tych wód i realizację celów środowiskowych dla nich określonych;”,
     - **c)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) określenie w m wielkości maksymalnego godzinowego, średniego dobowego oraz maksymalnego rocznego poboru wody;”,
@@ -712,7 +888,7 @@ source: "isap-pdf"
 - **57)** w art. 135 pkt 3 otrzymuje brzmienie: „3) zakład nie rozpoczął wykonywania urządzeń wodnych w terminie 3 lat od dnia, w którym pozwolenie wodnoprawne na wykonanie tych urządzeń stało się ostateczne.”;
 - **58)** w art. 136 w ust. 1 pkt 7 otrzymuje brzmienie: „7) jest to konieczne dla osiągnięcia celów środowiskowych w zakresie wynikającym z planu gospodarowania wodami na obszarze dorzecza, warunków korzystania z wód regionu wodnego lub warunków korzystania z wód zlewni i uzasadnione wynikami monitoringu wód.”;
 - **59)** w art. 140:
-    - **a)** w ust. 2 pkt 1a i 2 otrzymują brzmienie: z wód i wykonywania urządzeń wodnych w sztucznych zbiornikach wodnych usytuowanych na wodach płynących, będących przedsięwzięciem mogącym zawsze znacząco oddziaływać na środowisko;
+    - **a)** w ust. 2 pkt 1a i 2 otrzymują brzmienie: „1a) o których mowa w art. 122 ust. 1, jeżeli dotyczą korzystania z wód i wykonywania urządzeń wodnych w sztucznych zbiornikach wodnych usytuowanych na wodach płynących, będących przedsięwzięciem mogącym zawsze znacząco oddziaływać na środowisko;
 
 - **2)** na wykonanie budowli przeciwpowodziowych;”,
     - **b)** ust. 2a otrzymuje brzmienie: „2a. Dyrektor regionalnego zarządu wydaje pozwolenia wodnoprawne, w przypadku gdy szczególne korzystanie z wód lub wykonywanie urządzeń wodnych, w całości lub w części, odbywa się na terenach zamkniętych w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, a odrębne przepisy nie stanowią inaczej.”,
@@ -729,7 +905,7 @@ source: "isap-pdf"
 - **62)** w art. 156 w ust. 1 pkt 11 otrzymuje brzmienie: „11) przestrzegania warunków obowiązujących na wałach przeciwpowodziowych oraz na obszarach szczególnego zagrożenia powodzią;”;
 - **63)** w art. 164:
     - **a)** ust. 5 otrzymuje brzmienie: „5. Spółki wodne mogą korzystać z pomocy finansowej państwa udzielanej w formie dotacji podmiotowej z budżetu państwa przeznaczonej na dofinansowanie działalności bieżącej w zakresie realizacji zadań związanych z utrzymaniem wód i urządzeń wodnych, z wyłączeniem zadań, na realizację których została udzielona inna dotacja.”,
-    - **b)** po ust. 5 dodaje ust. 5a-5d w brzmieniu: nostek samorządu terytorialnego na bieżące utrzymanie wód i urządzeń wodnych oraz na finansowanie lub dofinansowanie inwestycji.
+    - **b)** po ust. 5 dodaje ust. 5a-5d w brzmieniu: „5a. Spółki wodne mogą korzystać z pomocy finansowej z budżetów jednostek samorządu terytorialnego na bieżące utrzymanie wód i urządzeń wodnych oraz na finansowanie lub dofinansowanie inwestycji.
 
 5b. Pomoc finansowa, o której mowa w ust. 5a, polega na udzielaniu dotacji celowej w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych z budżetów jednostek samorządu terytorialnego.
 
@@ -746,13 +922,30 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz.
 
+- **1623)** w art. 62:
+- **1)** ust. 4 otrzymuje brzmienie: „4. Kontrole, o których mowa w ust. 1, z zastrzeżeniem ust. 5–6a, przeprowadzają osoby posiadające uprawnienia budowlane w odpowiedniej specjalności.”;
+- **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Kontrolę stanu technicznego i stanu bezpieczeństwa budowli piętrzących mogą przeprowadzać także upoważnieni pracownicy państwowej służby do spraw bezpieczeństwa budowli piętrzących.”.
+
 **Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w art. 400a w ust. 1 pkt 1 otrzymuje brzmienie: „1) opracowywanie planów służących gospodarowaniu wodami, planów zarządzania ryzykiem powodziowym, planów przeciwdziałania skutkom suszy oraz tworzenie i utrzymanie katastru wodnego;”;
+- **2)** w art. 401c ust. 2 otrzymuje brzmienie: „2. Środki Narodowego Funduszu w wysokości nie mniejszej niż połowa kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 2, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na:
+- **1)** finansowanie potrzeb geologii w zakresie poznania budowy geologicznej kraju oraz w zakresie gospodarki zasobami złóż kopalin i wód podziemnych;
+- **2)** przeciwdziałanie osuwiskom ziemi i likwidowanie ich skutków dla środowiska.”.
 
 **Art. 5.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm. ) wprowadza się następujące zmiany:
 
+- **1)** w art. 10 w ust. 2 pkt 11 otrzymuje brzmienie: „11) obszary szczególnego zagrożenia powodzią oraz obszary osuwania się mas ziemnych;”;
+- **2)** w art. 11 w pkt 6 lit. i otrzymuje brzmienie: „i) dyrektora regionalnego zarządu gospodarki wodnej w zakresie zagospodarowania obszarów szczególnego zagrożenia powodzią,”;
+- **3)** w art. 15 w ust. 2 pkt 7 otrzymuje brzmienie: „7) granice i sposoby zagospodarowania terenów lub obiektów podlegających ochronie, ustalonych na podstawie odrębnych przepisów, w tym terenów górniczych, a także obszarów szczególnego zagrożenia powodzią oraz obszarów osuwania się mas ziemnych;”;
+- **4)** w art. 39 w ust. 3 pkt 6 otrzymuje brzmienie: „6) obszary szczególnego zagrożenia powodzią;”;
+- **5)** w art. 53 w ust. 4 pkt 11 otrzymuje brzmienie: „11) dyrektorem regionalnego zarządu gospodarki wodnej – w odniesieniu do:
+    - **a)** przedsięwzięć wymagających uzyskania pozwolenia wodnoprawnego, do wydania którego organem właściwym jest marszałek województwa lub dyrektor regionalnego zarządu gospodarki wodnej,
+    - **b)** obszarów, o których mowa w art. 88d ust. 2 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ), w zakresie warunków zabudowy i zagospodarowania terenu;”.
+
 **Art. 6.** W ustawie z dnia 3 czerwca 2005 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw (Dz. U. Nr 130, poz. 1087) uchyla się art. 20.
 
-**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) w art. 81 dodaje się ust. 3 w brzmieniu: „3. Jeżeli z oceny oddziaływania przedsięwzięcia na środowisko wynika, że przedsięwzięcie może spowodować nieosiągnięcie celów środowiskowych zawartych w planie gospodarowania wodami na obszarze dorzecza organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach odmawia zgody na realizację przedsięwzięcia, o ile nie za2001 r. – Prawo wodne.”.
+**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) w art. 81 dodaje się ust. 3 w brzmieniu: „3. Jeżeli z oceny oddziaływania przedsięwzięcia na środowisko wynika, że przedsięwzięcie może spowodować nieosiągnięcie celów środowiskowych zawartych w planie gospodarowania wodami na obszarze dorzecza organ właściwy do wydania decyzji o środowiskowych uwarunkowaniach odmawia zgody na realizację przedsięwzięcia, o ile nie zachodzą przesłanki, o których mowa w art. 38j ustawy z dnia 18 lipca 2001 r. – Prawo wodne.”.
 
 **Art. 8.** Ograniczenia emisji do wód, o których mowa w art. 38c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, należy zapewnić w terminie do dnia 22 grudnia 2012 r., o ile odrębne przepisy z zakresu ochrony środowiska i gospodarki wodnej nie określają innego terminu ograniczenia emisji dla źródeł zanieczyszczeń punktowych lub obszarowych.
 
@@ -781,7 +974,23 @@ source: "isap-pdf"
 - **1)** celów środowiskowych ustalonych dla innych jednolitych części wód w granicach tego samego dorzecza;
 - **2)** wymogów dotyczących ochrony środowiska wynikających z odrębnych przepisów.
 
-**Art. 10.** (uchylony). 1. Prezes Krajowego Zarządu Gospodarki Wodnej:
+**Art. 10.** (uchylony).
+
+**Art. 11.**
+
+1. Prezes Krajowego Zarządu Gospodarki Wodnej:
+
+- **1)** przygotuje:
+    - **a)** wstępną ocenę ryzyka powodziowego w terminie do dnia 22 grudnia 2011 r.,
+    - **b)** mapy zagrożenia powodziowego oraz mapy ryzyka powodziowego w terminie do dnia 22 grudnia 2013 r.,
+    - **c)** plany zarządzania ryzykiem powodziowym dla obszarów dorzeczy w terminie do dnia 22 listopada 2015 r.;
+
+- **2)** dokona:
+    - **a)** przeglądu oraz w razie potrzeby pierwszej aktualizacji wstępnej oceny ryzyka powodziowego w terminie do dnia 22 grudnia 2018 r.,
+    - **b)** przeglądu oraz w razie potrzeby pierwszej aktualizacji map zagrożenia powodziowego oraz map ryzyka powodziowego w terminie do dnia 22 grudnia 2019 r.,
+    - **c)** przeglądu oraz w razie potrzeby pierwszej aktualizacji planów zarządzania ryzykiem powodziowym dla obszarów dorzeczy w terminie do dnia 22 listopada 2021 r.
+
+2. (uchylony).
 
 **Art. 12.**
 
@@ -795,9 +1004,12 @@ source: "isap-pdf"
 
 **Art. 15.** Aktualizację, o której mowa w art. 113 ust. 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, sporządza się po raz pierwszy w terminie do dnia 22 grudnia 2013 r.
 
-**Art. 16.** brzmieniu nadanym niniejszą ustawą, sporządza się po raz pierwszy w terminie do dnia 31 grudnia 2013 r.
+**Art. 16.** Wykazy określone w art. 113 ust. 3 pkt 1a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, sporządza się po raz pierwszy w terminie do dnia 31 grudnia 2013 r.
 
 **Art. 17.** Obszary bezpośredniego zagrożenia powodzią określone przez właściwego dyrektora regionalnego zarządu gospodarki wodnej na podstawie przepisów dotychczasowych:
+
+- **1)** zawarte w koncepcji przestrzennego zagospodarowania kraju, planie zagospodarowania przestrzennego województwa, miejscowym planie zagospodarowania przestrzennego, decyzji o ustaleniu lokalizacji inwestycji celu publicznego oraz decyzji o warunkach zabudowy – uznaje się za obszary szczególnego zagrożenia powodzią, w rozumieniu art. 9 ust. 1 pkt 6c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia uwzględnienia, odpowiednio, w tych dokumentach obszarów, o których mowa w art. 88d ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** uwzględnia się przy sporządzaniu koncepcji przestrzennego zagospodarowania kraju, planu zagospodarowania przestrzennego województwa, miejscowego planu zagospodarowania przestrzennego, decyzji o ustaleniu lokalizacji inwestycji celu publicznego oraz decyzji o warunkach zabudowy, do dnia przekazania map zagrożenia powodziowego organom sporządzającym te dokumenty i uznaje się za obszary szczególnego zagrożenia powodzią, w rozumieniu art. 9 ust. 1 pkt 6c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 18.** Dyrektorzy regionalnych zarządów gospodarki wodnej oraz zastępcy dyrektorów regionalnych zarządów gospodarki wodnej, powołani na podstawie przepisów dotychczasowych, pełnią swoje funkcje do dnia powołania, odpowiednio, dyrektorów regionalnych zarządów gospodarki wodnej oraz zastępców dyrektorów regionalnych zarządów gospodarki wodnej, na podstawie art. 93 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
@@ -807,7 +1019,9 @@ source: "isap-pdf"
 
 **Art. 21.**
 
-1. Strefy ochronne ujęć wody ustanowione przed dniem 1 stycznia 2002 r. wygasają z dniem 31 grudnia 2012 r. nych ujęć wody i niezakończone w terminie do dnia 31 grudnia 2012 r. zostają umorzone.
+1. Strefy ochronne ujęć wody ustanowione przed dniem 1 stycznia 2002 r. wygasają z dniem 31 grudnia 2012 r.
+
+2. Postępowania administracyjne toczące się w sprawach dotyczących stref ochronnych ujęć wody i niezakończone w terminie do dnia 31 grudnia 2012 r. zostają umorzone.
 
 **Art. 22.**
 

@@ -8,12 +8,10 @@ pos: 462
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo czekowe
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 marca 2016 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 marca 2016 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo czekowe
 
 | Pole | Wartość |
 |---|---|
@@ -27,20 +25,27 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/462/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. Prawo czekowe (Dz. U. Nr 37, poz. 283), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 6 czerwca 1997 r. Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083),
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. – Prawo czekowe (Dz. U. Nr 37, poz. 283), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083),
 2) ustawą z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501),
-3) ustawą z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2016 r.
+3) ustawą z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2016 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 18 ustawy z dnia 6 czerwca 1997 r. Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi: „Art. 18. Ustawa wchodzi w życie z dniem 1 września 1998 r.”;
+1) art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi: „Art. 18. Ustawa wchodzi w życie z dniem 1 września 1998 r.”;
 2) art. 7 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia.”;
-3) odnośnika nr 1 oraz art. 56 i art. 57 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), które stanowią: „ Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).” „Art. 56. Do odsetek należnych za okres kończący się przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+3) odnośnika nr 1 oraz art. 56 i art. 57 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), które stanowią: „ Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).” „Art. 56. Do odsetek należnych za okres kończący się przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 57.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 50, art. 51 i art. 54, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: M. Kuchciński USTAWA z dnia 28 kwietnia 1936 r. Prawo czekowe
 
 ### DZIAŁ I Wystawienie i forma czeku
 
 **Art. 1.** Czek zawiera:
+
+- **1)** nazwę „czek” w samym tekście dokumentu, w języku, w jakim go wystawiono;
+- **2)** polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej;
+- **3)** nazwisko osoby, która ma zapłacić (trasata);
+- **4)** oznaczenie miejsca płatności;
+- **5)** oznaczenie daty i miejsca wystawienia czeku;
+- **6)** podpis wystawcy czeku.
 
 **Art. 2.** Nie będzie uważany za czek dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. W braku osobnego oznaczenia, miejsce wymienione obok nazwiska trasata, uważa się za miejsce płatności. Jeżeli obok nazwiska trasata wymieniono kilka miejsc, czek jest płatny w miejscu, wymienionem najpierw. W braku takiego lub wszelkiego innego oznaczenia, czek jest płatny w miejscu wystawienia. Czek, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy.
 
@@ -76,13 +81,17 @@ source: "isap-pdf"
 
 **Art. 17.** Indos przenosi wszystkie prawa z czeku. Jeżeli indos jest in blanco, posiadacz czeku może:
 
+- **1)** wypełnić indos nazwiskiem własnem lub innej osoby;
+- **2)** indosować czek dalej in blanco lub na inną osobę;
+- **3)** przenieść czek na inną osobę bez wypełnienia indosu in blanco i bez indosowania.
+
 **Art. 18.** Indosant odpowiada w braku przeciwnego zastrzeżenia za zapłatę czeku. Indosant może zabronić dalszego indosowania; w tym przypadku nie odpowiada wobec następnych indosatarjuszy.
 
 **Art. 19.** Kto ma czek, przenośny przez indos, będzie uważany za prawnego posiadacza, jeżeli wykaże prawo swoje nieprzerwanym szeregiem indosów, chociażby ostatni indos był in blanco. Przekreślone indosy uważa się w tym względzie za nieistniejące. Gdy po indosie in blanco następuje dalszy indos, uważa się, że indosant, który go podpisał, nabył czek na mocy indosu in blanco.
 
 **Art. 20.** Indos, umieszczony na czeku na okaziciela, zobowiązuje indosanta według przepisów o zwrotnem poszukiwaniu; nie zmienia on zresztą dokumentu na czek na zlecenie.
 
-**Art. 21.** Jeżeli kto przez jakikolwiek wypadek utracił posiadanie czeku, posiadacz, w którego ręce czek się dostał bez względu na to, czy chodzi o czek na okaziciela, czy też o czek na zlecenie, którego posiadacz wykaże swe prawo w sposób, wskazany w art. 19 będzie obowiązany do wydania czeku tylko, jeżeli go nabył w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
+**Art. 21.** Jeżeli kto przez jakikolwiek wypadek utracił posiadanie czeku, posiadacz, w którego ręce czek się dostał – bez względu na to, czy chodzi o czek na okaziciela, czy też o czek na zlecenie, którego posiadacz wykaże swe prawo w sposób, wskazany w art. 19 – będzie obowiązany do wydania czeku tylko, jeżeli go nabył w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa.
 
 **Art. 22.** Osoby, przeciw którym dochodzi się praw z czeku, nie mogą wobec posiadacza zasłaniać się zarzutami, opartemi na swych stosunkach osobistych z wystawcą lub z posiadaczami poprzednimi, chyba że posiadacz, nabywając czek, działał świadomie na szkodę dłużnika.
 
@@ -130,9 +139,13 @@ source: "isap-pdf"
 
 **Art. 40.** Posiadacz może wykonywać zwrotne poszukiwanie przeciwko indosantom, wystawcy, tudzież innym dłużnikom, jeżeli czek, mimo przedstawienia do zapłaty we właściwym czasie, nie został zapłacony, a odmowę zapłaty stwierdzono:
 
+- **1)** albo aktem publicznym (protestem);
+- **2)** albo oświadczeniem trasata na czeku, datowanem i wymieniającem dzień przedstawienia;
+- **3)** albo oświadczeniem izby rozrachunkowej, datowanem i stwierdzającem, że czek został we właściwym czasie złożony do rozrachunku i że go nie wykupiono.
+
 **Art. 41.** Protest lub równoznaczne z nim stwierdzenie powinny być dokonane przed upływem terminu do przedstawienia. W razie przedstawienia czeku w ostatnim dniu terminu protest lub równoznaczne stwierdzenie mogą być dokonane w pierwszym dniu powszednim, po nim następującym.
 
-**Art. 42.** Posiadacz czeku powinien o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu lub równoznacznego stwierdzenia, a w przypadku zastrzeżenia „bez kosztów” po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienie, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na czeku, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie czeku. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z czeku, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo tylko do sumy, na jaką czek jest wystawiony.
+**Art. 42.** Posiadacz czeku powinien o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu lub równoznacznego stwierdzenia, a w przypadku zastrzeżenia „bez kosztów” – po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienie, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na czeku, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie czeku. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z czeku, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo tylko do sumy, na jaką czek jest wystawiony.
 
 **Art. 43.** Wystawca, indosant albo poręczyciel przez zastrzeżenie „bez kosztów”, „bez protestu” lub przez inne równoznaczne, napisane na czeku i podpisane, mogą zwolnić posiadacza czeku od protestu lub od równoznacznego stwierdzenia, jako warunku zwrotnego poszukiwania. Zastrzeżenie takie nie zwalnia posiadacza ani od przedstawienia czeku w przepisanym terminie, ani od obowiązku zawiadomienia. Dowód niezachowania terminu przedstawienia ciąży na tym, kto się na tę okoliczność powołuje wobec posiadacza. Zastrzeżenie, pochodzące od wystawcy, skuteczne jest wobec wszystkich dłużników czekowych; jeżeli pochodzi od indosanta lub od poręczyciela, ma skutek tylko wobec niego. Gdyby mimo zastrzeżenia, pochodzącego od wystawcy, posiadacz dokonał protestu lub równoznacznego stwierdzenia, sam ponosi koszty. Jeżeli zastrzeżenie pochodzi od indosanta lub od poręczyciela, koszty dokonanego protestu lub równoznacznego stwierdzenia obciążają wszystkich dłużników czekowych.
 
@@ -140,7 +153,17 @@ source: "isap-pdf"
 
 **Art. 45.** Posiadacz czeku może żądać od zobowiązanego zwrotnie:
 
+- **1)** niezapłaconej sumy czekowej;
+- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od dnia przedstawienia;
+- **3)** kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów;
+- **4)** prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy.
+
 **Art. 46.** Kto czek wykupił, może żądać od swoich poprzedników:
+
+- **1)** całkowitej sumy zapłaconej;
+- **2)** odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych za opóźnienie od powyższej sumy, licząc od dnia wykupienia czeku;
+- **3)** własnych kosztów;
+- **4)** prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4).
 
 **Art. 47.** Każdy dłużnik czekowy, przeciw któremu wykonywa się lub wykonać można zwrotne poszukiwanie, może żądać, aby mu za zapłatą sumy regresowej wydano czek z protestem lub równoznacznem stwierdzeniem, tudzież rachunek pokwitowany. Indosant, który czek wykupił, może przekreślić indos własny oraz indosy następnych indosantów.
 
@@ -165,6 +188,9 @@ source: "isap-pdf"
 ### DZIAŁ X Przepisy ogólne
 
 **Art. 54.** Wyraz „bankier” w rozumieniu prawa niniejszego oznacza:
+
+- **a)** państwowe i samorządowe zakłady kredytowe i kasy oszczędności;
+- **b)** przedsiębiorstwa bankowe z wyjątkiem kantorów wymiany i zakładów zastawniczych.
 
 **Art. 55.** Przedstawienie czeku i protest mogą być dokonane tylko w dnie powszednie. Jeżeli ostatni dzień terminu, oznaczonego przez prawo do dokonania czynności, dotyczących czeków, w szczególności do przedstawienia albo do dokonania protestu lub równoznacznego stwierdzenia, przypada na dzień ustawowo uznany za świąteczny, termin przedłuża się do najbliższego dnia powszedniego, następującego po upływie terminu. Dni świąteczne, przypadające w ciągu terminu, wlicza się do tego terminu.
 
@@ -200,6 +226,16 @@ source: "isap-pdf"
 
 **Art. 67.** Prawo miejsca płatności czeku określa:
 
+- **1)** czy czek może być płatny tylko za okazaniem, czy też może być płatny w pewien czas po okazaniu oraz jakie są skutki umieszczenia w czeku późniejszej daty wystawienia;
+- **2)** termin do przedstawienia;
+- **3)** czy czek może być przyjęty, certyfikowany, potwierdzony lub wizowany oraz jakie są skutki tych oświadczeń;
+- **4)** czy posiadacz może żądać zapłaty częściowej oraz czy jest zobowiązany do jej przyjęcia;
+- **5)** czy czek może być zakreślony albo zaopatrzony zastrzeżeniem „przelać na rachunek” lub innem równoznacznem oraz jakie są skutki tych oświadczeń;
+- **6)** czy posiadacz ma szczególne prawa do pokrycia oraz jaki jest ich charakter;
+- **7)** czy wystawca może czek odwołać lub sprzeciwić się jego zapłacie;
+- **8)** jakie środki należy przedsięwziąć w razie zaginięcia lub kradzieży czeku;
+- **9)** czy protest lub równoznaczne stwierdzenie jest potrzebne do zachowania prawa zwrotnego poszukiwania przeciw indosantom, wystawcy oraz innym zobowiązanym.
+
 **Art. 68.** Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta.
 
 ### DZIAŁ XIV Protest
@@ -208,7 +244,13 @@ source: "isap-pdf"
 
 **Art. 70.** Protest zawiera:
 
-**Art. 71.** Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy w braku odmiennego wskazania w czeku dokonać w lokalu przedsiębiorstwa. W innym miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notarjusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu.
+- **1)** nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany;
+- **2)** stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie było można odnaleźć lokalu jej przedsiębiorstwa;
+- **3)** oznaczenie miejsca i dnia, w którym wezwania dokonano lub bezskutecznie starano się go dokonać;
+- **4)** oznaczenie, ile egzemplarzy czeku przedstawiono i jakie;
+- **5)** podpis notarjusza, pieczęć urzędową i numer protestu.
+
+**Art. 71.** Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy – w braku odmiennego wskazania w czeku – dokonać w lokalu przedsiębiorstwa. W innym miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notarjusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu.
 
 **Art. 72.** Protest należy napisać na odwrotnej stronie czeku albo na osobnej karcie, połączonej z czekiem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatnim oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z czekiem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie czeku; połączenie czeku z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego.
 
