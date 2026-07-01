@@ -31,16 +31,10 @@ source: pdf
 
 - **1)** w ust. 1:
     - **a)** w pkt 1 lit. a otrzymuje brzmienie: „a) szczepień ochronnych lub badań rozpoznawczych,”,
-    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wyznaczać na czas określony lekarzy weterynarii niebędących pracownikami Inspekcji, świadczących usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt, do:
-    - **a)** szczepień ochronnych lub badań rozpoznawczych,
-    - **b)** sprawowania nadzoru nad miejscami gromadzenia, skupu lub sprzedaży zwierząt, targowiskami oraz wystawami, pokazami lub konkursami zwierząt,
-    - **c)** badania zwierząt umieszczanych na rynku, przeznaczonych do wywozu oraz wystawiania świadectw zdrowia,
-    - **d)** pobierania próbek do badań;”;
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wyznaczać na czas określony lekarzy weterynarii niebędących pracownikami Inspekcji, świadczących usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt, do: a) szczepień ochronnych lub badań rozpoznawczych, b) sprawowania nadzoru nad miejscami gromadzenia, skupu lub sprzedaży zwierząt, targowiskami oraz wystawami, pokazami lub konkursami zwierząt, c) badania zwierząt umieszczanych na rynku, przeznaczonych do wywozu oraz wystawiania świadectw zdrowia, d) pobierania próbek do badań;”;
 
 - **2)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku, o którym mowa w ust. 1 pkt 1a, wyznaczenie lekarza weterynarii następuje po uzyskaniu zgody kierownika zakładu leczniczego dla zwierząt, w ramach którego lekarz ten świadczy usługi weterynaryjne.”;
-- **3)** ust. 3 otrzymuje brzmienie: „3. Wykonywanie czynności, o których mowa w ust. 1, następuje po zawarciu przez powiatowego lekarza weterynarii umowy z:
-- **1)** osobami, o których mowa w ust. 1 pkt 1, 2 i 3,
-- **2)** podmiotem prowadzącym zakład leczniczy dla zwierząt – w przypadku, o którym mowa w ust. 1 pkt 1a - określającej zakres, terminy i miejsce wykonywania tych czynności, wysokość wynagrodzenia za ich wykonanie oraz termin płatności, a w przypadku, o którym mowa w ust. 1 pkt 1a, dodatkowo imię i nazwisko wyznaczonego lekarza weterynarii świadczącego usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt.”;
+- **3)** ust. 3 otrzymuje brzmienie: „3. Wykonywanie czynności, o których mowa w ust. 1, następuje po zawarciu przez powiatowego lekarza weterynarii umowy z: 1) osobami, o których mowa w ust. 1 pkt 1, 2 i 3, 2) podmiotem prowadzącym zakład leczniczy dla zwierząt – w przypadku, o którym mowa w ust. 1 pkt 1a - określającej zakres, terminy i miejsce wykonywania tych czynności, wysokość wynagrodzenia za ich wykonanie oraz termin płatności, a w przypadku, o którym mowa w ust. 1 pkt 1a, dodatkowo imię i nazwisko wyznaczonego lekarza weterynarii świadczącego usługi weterynaryjne w ramach zakładu leczniczego dla zwierząt.”;
 - **4)** w ust. 5 pkt 5 otrzymuje brzmienie: „5) złożenia wniosku przez osobę wyznaczoną, a w przypadku, o którym mowa w ust. 1 pkt 1a, także po złożeniu wniosku przez kierownika zakładu leczniczego dla zwierząt.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

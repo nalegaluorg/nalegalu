@@ -30,15 +30,9 @@ source: pdf
 **Art. 1.** W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych (Dz.U. Nr 80, poz. 721, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** tytuł ustawy otrzymuje brzmienie: „o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych”;
-- **2)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustawa określa zasady i warunki przygotowania inwestycji w zakresie dróg publicznych w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2004 r. Nr 204, poz. 2086, z późn. zm. ), zwanych dalej „drogami”, w tym warunki lokalizacji i nabywania nieruchomości na ten cel, oraz budowy tych dróg, a także organy właściwe w tych sprawach.
-
-2. W odniesieniu do dróg innych niż zarządzane przez Generalnego Dyrektora Dróg Krajowych i Autostrad uprawnienia, obowiązki i zadania Generalnego Dyrektora Dróg Krajowych i Autostrad wynikające z niniejszej ustawy wykonuje właściwy zarządca drogi.”;
-
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustawa określa zasady i warunki przygotowania inwestycji w zakresie dróg publicznych w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2004 r. Nr 204, poz. 2086, z późn. zm. ), zwanych dalej „drogami”, w tym warunki lokalizacji i nabywania nieruchomości na ten cel, oraz budowy tych dróg, a także organy właściwe w tych sprawach. 2. W odniesieniu do dróg innych niż zarządzane przez Generalnego Dyrektora Dróg Krajowych i Autostrad uprawnienia, obowiązki i zadania Generalnego Dyrektora Dróg Krajowych i Autostrad wynikające z niniejszej ustawy wykonuje właściwy zarządca drogi.”;
 - **3)** w art. 2 ust. 1 otrzymuje brzmienie: „1. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wydają decyzję o ustaleniu lokalizacji drogi na wniosek właściwego zarządcy drogi.”;
-- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Właściwy zarządca drogi składa wniosek, o którym mowa w art. 2 ust. 1, po uzyskaniu opinii właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta).
-
-2. Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia zwrócenia się przez właściwego zarządcę drogi o jej wyrażenie, traktuje się jako brak zastrzeżeń do wniosku.”;
-
+- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Właściwy zarządca drogi składa wniosek, o którym mowa w art. 2 ust. 1, po uzyskaniu opinii właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta). 2. Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia zwrócenia się przez właściwego zarządcę drogi o jej wyrażenie, traktuje się jako brak zastrzeżeń do wniosku.”;
 - **5)** w art. 5:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Właściwy organ wydaje opinie, o których mowa w ust. 1 pkt 6, na wniosek właściwego zarządcy drogi, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie decyzji o ustaleniu lokalizacji drogi. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku.”,
     - **b)** ust. 5 otrzymuje brzmienie: ,,5. O wszczęciu postępowania o wydanie decyzji o ustaleniu lokalizacji drogi wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych zawiadamiają w drodze obwieszczeń w urzędach gmin właściwych ze względu na przebieg drogi oraz w prasie lokalnej.”;
@@ -46,20 +40,10 @@ source: pdf
 - **6)** w art. 7 ust. 2 otrzymuje brzmienie: ,,2. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych doręczają decyzję o ustaleniu lokalizacji drogi wnioskodawcy oraz zawiadamiają o jej wydaniu pozostałe strony w drodze obwieszczeń w urzędach gmin właściwych ze względu na przebieg drogi oraz w prasie lokalnej. Ponadto wysyłają zawiadomienie o wydaniu decyzji o lokalizacji drogi dotychczasowemu właścicielowi na adres określony w ewidencji gruntów.”;
 - **7)** uchyla się art. 8;
 - **8)** w art. 9:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Od decyzji o ustaleniu lokalizacji drogi stronie służy odwołanie do:
-
-- **1)** wojewody w przypadku wydania decyzji przez starostę;
-- **2)** ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej w przypadku decyzji wydanej przez wojewodę.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Od decyzji o ustaleniu lokalizacji drogi stronie służy odwołanie do: 1) wojewody w przypadku wydania decyzji przez starostę; 2) ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej w przypadku decyzji wydanej przez wojewodę.”,
     - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca odcinka drogi, nieruchomości, działki.”;
 
-- **9)** w art. 12 po ust. 3 dodaje się ust. 4-6 w brzmieniu: „4. Nieruchomości wydzielone liniami rozgraniczającymi teren, o których mowa w ust. 2, stają się z mocy prawa:
-- **1)** własnością Skarbu Państwa w odniesieniu do dróg krajowych,
-- **2)** własnością odpowiednich jednostek samorządu terytorialnego w odniesieniu do dróg wojewódzkich, powiatowych i gminnych - z dniem, w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna, za odszkodowaniem ustalonym w odrębnej decyzji, o której mowa w art. 18 i 18a, odpowiednio przez wojewodę albo starostę.
-
-5. Do ustalenia wysokości i wypłacenia odszkodowania, o którym mowa w ust. 4, stosuje się odpowiednio przepisy o gospodarce nieruchomościami, z zastrzeżeniem art. 18 i 18a.
-
-6. Do czasu uzyskania pozwolenia na budowę, nieruchomości mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli.”;
-
+- **9)** w art. 12 po ust. 3 dodaje się ust. 4-6 w brzmieniu: „4. Nieruchomości wydzielone liniami rozgraniczającymi teren, o których mowa w ust. 2, stają się z mocy prawa: 1) własnością Skarbu Państwa w odniesieniu do dróg krajowych, 2) własnością odpowiednich jednostek samorządu terytorialnego w odniesieniu do dróg wojewódzkich, powiatowych i gminnych - z dniem, w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna, za odszkodowaniem ustalonym w odrębnej decyzji, o której mowa w art. 18 i 18a, odpowiednio przez wojewodę albo starostę. 5. Do ustalenia wysokości i wypłacenia odszkodowania, o którym mowa w ust. 4, stosuje się odpowiednio przepisy o gospodarce nieruchomościami, z zastrzeżeniem art. 18 i 18a. 6. Do czasu uzyskania pozwolenia na budowę, nieruchomości mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli.”;
 - **10)** w art. 13:
     - **a)** uchyla się ust. 1,
     - **b)** ust. 2 i 3 otrzymuje brzmienie: ,,2. Właściwy zarządca drogi może nabywać w imieniu i na rzecz Skarbu Państwa, województwa, powiatu albo gminy, nieruchomości, w tym lokale mieszkalne, poza pasami drogowymi w celu dokonania ich zamiany na nieruchomości położone w pasach drogowych lub wydzielania ich w tych pasach w postępowaniu scaleniowo-wymiennym.”;
@@ -69,9 +53,7 @@ source: pdf
 - **11)** uchyla się art. 14 i 15;
 - **12)** w art. 16:
     - **a)** uchyla się ust. 1,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Decyzja o ustaleniu lokalizacji drogi określa termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń. Termin ten nie może być krótszy niż 30 dni od dnia kiedy decyzja o ustaleniu lokalizacji drogi stała się ostateczna.
-
-3. Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji drogi stosuje się przepisy o postępowaniu egzekucyjnym w administracji.”;
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Decyzja o ustaleniu lokalizacji drogi określa termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń. Termin ten nie może być krótszy niż 30 dni od dnia kiedy decyzja o ustaleniu lokalizacji drogi stała się ostateczna. 3. Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji drogi stosuje się przepisy o postępowaniu egzekucyjnym w administracji.”;
 
 - **13)** art. 17 otrzymuje brzmienie: ,,Art. 17. 1. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych nadają decyzji o ustaleniu lokalizacji drogi rygor natychmiastowej wykonalności na wniosek właściwego zarządcy drogi, uzasadniony interesem społecznym lub gospodarczym.
 
@@ -99,18 +81,10 @@ source: pdf
 
 - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli przeznaczona na pasy drogowe nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana w użytkowanie wieczyste, użytkowanie to wygasa za odszkodowaniem, z dniem w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna, ustalonym według zasad określonych w przepisach o gospodarce nieruchomościami, z zastrzeżeniem art. 18 i 18a.”;
 - **17)** w art. 20:
-    - **a)** ust. 1-4 otrzymują brzmienie: „1. Generalna Dyrekcja Dróg Krajowych i Autostrad albo samorządowa jednostka organizacyjna otrzymują z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, z dniem, w którym decyzja o ustaleniu lokalizacji drogi dotycząca tych nieruchomości stała się ostateczna, z zastrzeżeniem ust. 2.
+    - **a)** ust. 1-4 otrzymują brzmienie: „1. Generalna Dyrekcja Dróg Krajowych i Autostrad albo samorządowa jednostka organizacyjna otrzymują z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, z dniem, w którym decyzja o ustaleniu lokalizacji drogi dotycząca tych nieruchomości stała się ostateczna, z zastrzeżeniem ust. 2. 2. Generalna Dyrekcja Dróg Krajowych i Autostrad albo samorządowa jednostka organizacyjna otrzymuje z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, o których mowa w art. 19, odpowiednio z dniem: wygaśnięcia lub rozwiązania prawa użytkowania wieczystego, wygaśnięcia zarządu, rozwiązania użytkowania albo rozwiązania umów: dzierżawy, najmu lub użyczenia. 3. Generalna Dyrekcja Dróg Krajowych i Autostrad albo właściwy zarząd drogi otrzymują z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości nabyte na własność Skarbu Państwa albo jednostki samorządu terytorialnego na cele budowy dróg, z dniem, w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna. 4. Ustanowienie trwałego zarządu, o którym mowa w ust. 1 i 2, stwierdzają wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych w drodze decyzji.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Generalna Dyrekcja Dróg Krajowych i Autostrad oraz zarząd drogi są zwolnione z opłat rocznych z tytułu trwałego zarządu za nieruchomości, o których mowa w ust. 1-3, także w przypadku odpł atnego udostępnienia tych nieruchomości koncesjonariuszom lub innym podmiotom realizującym zadania w zakresie inwestycji drogowych, w tym prac budowlanych i utrzymaniowych.”;
 
-2. Generalna Dyrekcja Dróg Krajowych i Autostrad albo samorządowa jednostka organizacyjna otrzymuje z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, o których mowa w art. 19, odpowiednio z dniem: wygaśnięcia lub rozwiązania prawa użytkowania wieczystego, wygaśnięcia zarządu, rozwiązania użytkowania albo rozwiązania umów: dzierżawy, najmu lub użyczenia.
-
-3. Generalna Dyrekcja Dróg Krajowych i Autostrad albo właściwy zarząd drogi otrzymują z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości nabyte na własność Skarbu Państwa albo jednostki samorządu terytorialnego na cele budowy dróg, z dniem, w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna.
-
-4. Ustanowienie trwałego zarządu, o którym mowa w ust. 1 i 2, stwierdzają wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych w drodze decyzji.”,
-
-- **b)** ust. 6 otrzymuje brzmienie: „6. Generalna Dyrekcja Dróg Krajowych i Autostrad oraz zarząd drogi są zwolnione z opłat rocznych z tytułu trwałego zarządu za nieruchomości, o których mowa w ust. 1-3, także w przypadku odpł atnego udostępnienia tych nieruchomości koncesjonariuszom lub innym podmiotom realizującym zadania w zakresie inwestycji drogowych, w tym prac budowlanych i utrzymaniowych.”;
-- **18)** w art. 22 ust. 2 otrzymuje brzmienie: „2. Zwalnia się z podatku od nieruchomości grunty i budynki wchodzące w skład nieruchomości przeznaczonych na budowę dróg publicznych, nabytych, po dniu 1 stycznia 2007 r., odpowiednio na własność lub w trwały zarząd:
-- **1)** Skarbu Państwa oraz przekazanych Generalnej Dyrekcji Dróg Krajowych i Autostrad,
-- **2)** właściwych jednostek samorządu terytorialnego - w trybie określonym w niniejszym rozdziale, od pierwszego dnia miesiąca następującego po miesiącu w którym nastąpiło nabycie, nie dłużej niż przez okres 5 lat w odniesieniu do gruntów i 1 roku w odniesieniu do budynków.”;
+- **18)** w art. 22 ust. 2 otrzymuje brzmienie: „2. Zwalnia się z podatku od nieruchomości grunty i budynki wchodzące w skład nieruchomości przeznaczonych na budowę dróg publicznych, nabytych, po dniu 1 stycznia 2007 r., odpowiednio na własność lub w trwały zarząd: 1) Skarbu Państwa oraz przekazanych Generalnej Dyrekcji Dróg Krajowych i Autostrad, 2) właściwych jednostek samorządu terytorialnego - w trybie określonym w niniejszym rozdziale, od pierwszego dnia miesiąca następującego po miesiącu w którym nastąpiło nabycie, nie dłużej niż przez okres 5 lat w odniesieniu do gruntów i 1 roku w odniesieniu do budynków.”;
 - **19)** w art. 24:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych wydają decyzję o pozwoleniu na budowę drogi oraz na przebudowę istniejących urządzeń infrastruktury technicznej na zasadach i w trybie przepisów Prawa budowlanego, z zastrzeżeniem przepisów niniejszego rozdziału.”,
     - **b)** ust. 3 otrzymuje brzmienie: ,,3. O wszczęciu postępowania o wydanie decyzji o pozwoleniu na budowę drogi wojewoda w odniesieniu do dróg krajowych i wojewódzkich albo starosta w odniesieniu do dróg powiatowych i gminnych zawiadamiają, w drodze obwieszczeń, w urzędach gmin i w prasie lokalnej.”;
@@ -125,16 +99,9 @@ source: pdf
 - **24)** w art. 41 ust. 3 otrzymuje brzmienie: ,,3. Decyzje o warunkach zabudowy i zagospodarowania terenu wydane do dnia wejścia w życie ustawy, a dotyczące dróg objętych niniejszą ustawą, pozostają w mocy do dnia 31 grudnia 2013 r., chyba że uprawniony podmiot złoży przed upływem tego terminu wniosek o ustalenie lokalizacji drogi na podstawie niniejszej ustawy.”;
 - **25)** art. 45 otrzymuje brzmienie: „Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i traci moc, z wyjątkiem rozdziału 6, z dniem 31 grudnia 2013 r.”.
 
-**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844) w art. 1b dodaje się ust. 3 w brzmieniu: „3. Zwolnienie z podatku od nieruchomości gruntów i budynków wchodzących w skład nieruchomości przeznaczonych na budowę dróg publicznych, nabytych odpowiednio na własność lub w trwały zarząd:
+**Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2006 r. Nr 121, poz. 844) w art. 1b dodaje się ust. 3 w brzmieniu: „3. Zwolnienie z podatku od nieruchomości gruntów i budynków wchodzących w skład nieruchomości przeznaczonych na budowę dróg publicznych, nabytych odpowiednio na własność lub w trwały zarząd: 1) Skarbu Państwa oraz przekazanych Generalnej Dyrekcji Dróg Krajowych i Autostrad, 2) właściwych jednostek samorządu terytorialnego - regulują przepisy ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm. ).”.
 
-- **1)** Skarbu Państwa oraz przekazanych Generalnej Dyrekcji Dróg Krajowych i Autostrad,
-- **2)** właściwych jednostek samorządu terytorialnego - regulują przepisy ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. Nr 80, poz. 721, z późn. zm. ).”.
-
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2004 r. Nr 261, poz. 2603, z późn. zm. ) w art. 129 ust. 5 otrzymuje brzmienie: „5. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu:
-
-- **1)** w przypadkach, o których mowa w art. 98 ust. 3, art. 106 ust. 1 i art. 124126;
-- **2)** na wniosek podmiotu realizującego cel publiczny lub właściciela wywłaszczonej nieruchomości;
-- **3)** gdy nastąpiło pozbawienie praw do nieruchomości bez ustalenia odszkodowania, a obowiązujące przepisy przewidują jego ustalenie.”.
+**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2004 r. Nr 261, poz. 2603, z późn. zm. ) w art. 129 ust. 5 otrzymuje brzmienie: „5. Starosta, wykonujący zadanie z zakresu administracji rządowej, wydaje odrębną decyzję o odszkodowaniu: 1) w przypadkach, o których mowa w art. 98 ust. 3, art. 106 ust. 1 i art. 124126; 2) na wniosek podmiotu realizującego cel publiczny lub właściciela wywłaszczonej nieruchomości; 3) gdy nastąpiło pozbawienie praw do nieruchomości bez ustalenia odszkodowania, a obowiązujące przepisy przewidują jego ustalenie.”.
 
 **Art. 4.** W ustawie z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej (Dz.U. Nr 175, poz. 1462, Nr 189, poz. 1604 i Nr 267, poz. 2257) wprowadza się następujące zmiany:
 

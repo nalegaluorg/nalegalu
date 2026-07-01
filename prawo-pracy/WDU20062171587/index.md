@@ -30,15 +30,8 @@ source: pdf
 **Art. 1.** r. W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 130 w § 2 uchyla się zdanie drugie;
-- **2)** po art. 155 dodaje się art. 155 w brzmieniu: „Art. 155 . § 1. Przy ustalaniu wymiaru urlopu na podstawie art. 155 i 155 kalendarzowy miesiąc pracy odpowiada 1/12 wymiaru urlopu przysługującego pracownikowi zgodnie z art. 154 § 1 i 2.
-
-§ 2. Niepełny kalendarzowy miesiąc pracy zaokrągla się w górę do pełnego miesiąca.
-
-§ 3. Jeżeli ustanie stosunku pracy u dotychczasowego pracodawcy i nawiązanie takiego stosunku u kolejnego pracodawcy następuje w tym samym miesiącu kalendarzowym, zaokrąglenia do pełnego miesiąca dokonuje dotychczasowy pracodawca.”;
-
-- **3)** art. 155 otrzymuje brzmienie: „Art. 155 . § 1. Przy ustalaniu wymiaru urlopu na podstawie art. 155 i 155 niepełny dzień urlopu zaokrągla się w górę do pełnego dnia.
-
-§ 2. Wymiar urlopu należny pracownikowi w danym roku kalendarzowym nie może przekroczyć wymiaru wynikającego z art. 154 § 1 i 2.”.
+- **2)** po art. 155 dodaje się art. 155 w brzmieniu: „Art. 155 . § 1. Przy ustalaniu wymiaru urlopu na podstawie art. 155 i 155 kalendarzowy miesiąc pracy odpowiada 1/12 wymiaru urlopu przysługującego pracownikowi zgodnie z art. 154 § 1 i 2. § 2. Niepełny kalendarzowy miesiąc pracy zaokrągla się w górę do pełnego miesiąca. § 3. Jeżeli ustanie stosunku pracy u dotychczasowego pracodawcy i nawiązanie takiego stosunku u kolejnego pracodawcy następuje w tym samym miesiącu kalendarzowym, zaokrąglenia do pełnego miesiąca dokonuje dotychczasowy pracodawca.”;
+- **3)** art. 155 otrzymuje brzmienie: „Art. 155 . § 1. Przy ustalaniu wymiaru urlopu na podstawie art. 155 i 155 niepełny dzień urlopu zaokrągla się w górę do pełnego dnia. § 2. Wymiar urlopu należny pracownikowi w danym roku kalendarzowym nie może przekroczyć wymiaru wynikającego z art. 154 § 1 i 2.”.
 
 **Art. 2.** Zmniejszenie wymiaru czasu pracy w okresie rozliczeniowym obejmującym grudzień 2006 r. nie może spowodować obniżenia wynagrodzenia za pracę wypłacanego pracownikowi za ten okres. Wynagrodzenie takie przysługuje za liczbę godzin pracy ustaloną na podstawie art. 130 Kodeksu pracy w dotychczasowym brzmieniu.
 

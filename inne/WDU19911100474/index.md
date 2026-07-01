@@ -25,10 +25,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911100474) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/474/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz.U. z 1983 r. Nr 30, poz. 143, z 1985 r. Nr 4, poz. 15, z 1986 r. Nr 42, poz. 202, z 1989 r. Nr 4, poz. 21 i Nr 35, poz. 192 oraz z 1991 r. Nr 104, poz. 450 i Nr 106, poz. 457) art. 48 otrzymuje brzmienie: "Art. 48.Prawo do zasiłków określonych w ustawie i ich wysokość ustalają oraz zasiłki te wypłacają:
-
-- **1)** zakłady pracy, które nie zgłaszają imiennie pracowników do ubezpieczenia społecznego w oddziale Zakładu Ubezpieczeń Społecznych - swoim pracownikom w czasie trwania ich zatrudnienia, a także po ustaniu zatrudnienia, jeżeli niezdolność do pracy powstała przed ustaniem zatrudnienia,
-- **2)** oddziały Zakładu Ubezpieczeń Społecznych - w pozostałych przypadkach."
+**Art. 1.** W ustawie z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz.U. z 1983 r. Nr 30, poz. 143, z 1985 r. Nr 4, poz. 15, z 1986 r. Nr 42, poz. 202, z 1989 r. Nr 4, poz. 21 i Nr 35, poz. 192 oraz z 1991 r. Nr 104, poz. 450 i Nr 106, poz. 457) art. 48 otrzymuje brzmienie: "Art. 48.Prawo do zasiłków określonych w ustawie i ich wysokość ustalają oraz zasiłki te wypłacają: 1) zakłady pracy, które nie zgłaszają imiennie pracowników do ubezpieczenia społecznego w oddziale Zakładu Ubezpieczeń Społecznych - swoim pracownikom w czasie trwania ich zatrudnienia, a także po ustaniu zatrudnienia, jeżeli niezdolność do pracy powstała przed ustaniem zatrudnienia, 2) oddziały Zakładu Ubezpieczeń Społecznych - w pozostałych przypadkach."
 
 **Art. 2.** W ustawie z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz.U. z 1983 r. Nr 31, poz. 146, z 1989 r. Nr 32, poz. 169 i Nr 35, poz. 190 oraz z 1990 r. Nr 36, poz. 206) wprowadza się następujące zmiany:
 
@@ -42,11 +39,9 @@ source: pdf
 
 - **1)** w art. 3 ust. 1 otrzymuje brzmienie: "1. Obowiązek ubezpieczenia powstaje z dniem rozpoczęcia działalności rodzącej obowiązek ubezpieczenia, a ustaje z dniem, w którym nastąpiło zaprzestanie działalności.";
 - **2)** w art. 7:
-    - **a)** po ust. 4 dodaje się nowe ust. 5 i 6 w brzmieniu: "5. Podstawę wymiaru zasiłku chorobowego, macierzyńskiego i pogrzebowego stanowi, z zastrzeżeniem ust. 6, kwota odpowiadająca przeciętnej miesięcznej podstawie wymiaru składek z okresu ostatnich 12 miesięcy ubezpieczenia, a jeżeli ubezpieczenie trwało krócej - z faktycznego okresu ubezpieczenia. Podstawa wymiaru tych zasiłków nie może być niższa od najniższej podstawy wymiaru składek na ubezpieczenie za miesiąc kalendarzowy, w którym powstało prawo do zasiłku.
+    - **a)** po ust. 4 dodaje się nowe ust. 5 i 6 w brzmieniu: "5. Podstawę wymiaru zasiłku chorobowego, macierzyńskiego i pogrzebowego stanowi, z zastrzeżeniem ust. 6, kwota odpowiadająca przeciętnej miesięcznej podstawie wymiaru składek z okresu ostatnich 12 miesięcy ubezpieczenia, a jeżeli ubezpieczenie trwało krócej - z faktycznego okresu ubezpieczenia. Podstawa wymiaru tych zasiłków nie może być niższa od najniższej podstawy wymiaru składek na ubezpieczenie za miesiąc kalendarzowy, w którym powstało prawo do zasiłku. 6. W okresie pierwszych 12 miesięcy ubezpieczenia podstawa wymiaru zasiłków ustalana w myśl ust. 5 nie może być wyższa od kwoty 250 % przeciętnego wynagrodzenia. Górną granicę podstawy wymiaru zasiłków ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego każdego kwartału na okres trzech miesięcy na podstawie przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.",
+    - **b)** dotychczasowe ust. 5 i 6 otrzymują oznaczenie ust. 7 i 8;
 
-6. W okresie pierwszych 12 miesięcy ubezpieczenia podstawa wymiaru zasiłków ustalana w myśl ust. 5 nie może być wyższa od kwoty 250 % przeciętnego wynagrodzenia. Górną granicę podstawy wymiaru zasiłków ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego każdego kwartału na okres trzech miesięcy na podstawie przeciętnego miesięcznego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.",
-
-- **b)** dotychczasowe ust. 5 i 6 otrzymują oznaczenie ust. 7 i 8;
 - **3)** w art. 19 wyrazy "określonych w art. 5 pkt 2, 4, 5 i 7" skreśla się;
 - **4)** w art. 20 wyrazy "zasady obliczania podstawy wymiaru świadczeń, o których mowa w art. 5 pkt 2 i 7" skreśla się;
 - **5)** w art. 28 ust. 1 otrzymuje brzmienie: "1. Obowiązek ubezpieczenia osoby współpracującej powstaje z dniem, w którym nastąpiło rozpoczęcie współpracy."

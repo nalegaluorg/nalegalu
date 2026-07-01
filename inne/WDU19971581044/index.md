@@ -31,11 +31,7 @@ source: pdf
 
 - **1)** w art. 4 w ust. 1 skreśla się pkt 3;
 - **2)** w art. 6:
-    - **a)** ust. 1 otrzymuje brzmienie: "1. Kredyty na cele, o których mowa w art. 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy:
-
-- **1)** 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich,
-- **2)** 1,15 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze,
-- **3)** 1,2 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie kontraktów eksportowych.",
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Kredyty na cele, o których mowa w art. 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy: 1) 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich, 2) 1,15 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze, 3) 1,2 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie kontraktów eksportowych.",
     - **b)** w ust. 7 na końcu zdania dodaje się wyrazy "pkt 3".
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -34,21 +34,8 @@ source: pdf
 **Art. 3.** W ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2014 r. poz. 40) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) altanie działkowej – należy przez to rozumieć wolno stojący budynek rekreacyjno-wypoczynkowy lub inny obiekt budowlany spełniający taką funkcję, położony na terenie działki w rodzinnym ogrodzie działkowym, o powierzchni zabudowy do 35 m oraz o wysokości do 5 m przy dachach stromych i do 4 m przy dachach płaskich, przy czym do powierzchni zabudowy nie wlicza się tarasu, werandy lub ganku, o ile ich łączna powierzchnia nie przekracza 12 m ;”;
-- **2)** w art. 13 ust. 1 i 2 otrzymują brzmienie: „1. Na terenie działki nie może znajdować się:
-- **1)** altana działkowa niespełniająca wymagań określonych w art. 2 pkt 9a;
-- **2)** obiekt gospodarczy o powierzchni zabudowy przekraczającej 35 m oraz o wysokości przekraczającej 5 m przy dachach stromych i 4 m przy dachach płaskich.
-
-2. W przypadku powzięcia informacji, że na terenie działki wybudowano, nadbudowano lub rozbudowano altanę działkową lub inny obiekt z naruszeniem przepisów prawa, stowarzyszenie ogrodowe zgłasza naruszenie do właściwego organu administracji publicznej.”;
-
-- **3)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Działkowiec może wystąpić do właściwego organu nadzoru budowlanego z wnioskiem o wydanie zaświadczenia potwierdzającego zgodność wybudowanej altany działkowej z wymaganiami określonymi w art. 2 pkt 9a.
-
-2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-
-- **1)** aktualny na dzień złożenia wniosku wypis z ewidencji działek, o której mowa w art. 51;
-- **2)** oświadczenie działkowca o powierzchni zabudowy altany działkowej znajdującej się na jego działce, zawierające również wskazanie powierzchni tarasów, werand lub ganków.
-
-3. Za wydanie zaświadczenia, o którym mowa w ust. 1, nie pobiera się opłaty skarbowej.”;
-
+- **2)** w art. 13 ust. 1 i 2 otrzymują brzmienie: „1. Na terenie działki nie może znajdować się: 1) altana działkowa niespełniająca wymagań określonych w art. 2 pkt 9a; 2) obiekt gospodarczy o powierzchni zabudowy przekraczającej 35 m oraz o wysokości przekraczającej 5 m przy dachach stromych i 4 m przy dachach płaskich. 2. W przypadku powzięcia informacji, że na terenie działki wybudowano, nadbudowano lub rozbudowano altanę działkową lub inny obiekt z naruszeniem przepisów prawa, stowarzyszenie ogrodowe zgłasza naruszenie do właściwego organu administracji publicznej.”;
+- **3)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Działkowiec może wystąpić do właściwego organu nadzoru budowlanego z wnioskiem o wydanie zaświadczenia potwierdzającego zgodność wybudowanej altany działkowej z wymaganiami określonymi w art. 2 pkt 9a. 2. Do wniosku, o którym mowa w ust. 1, dołącza się: 1) aktualny na dzień złożenia wniosku wypis z ewidencji działek, o której mowa w art. 51; 2) oświadczenie działkowca o powierzchni zabudowy altany działkowej znajdującej się na jego działce, zawierające również wskazanie powierzchni tarasów, werand lub ganków. 3. Za wydanie zaświadczenia, o którym mowa w ust. 1, nie pobiera się opłaty skarbowej.”;
 - **4)** w art. 36 w ust. 3 pkt 1 otrzymuje brzmienie: „1) pomimo pisemnego upomnienia nadal korzysta z działki lub altany działkowej w sposób sprzeczny z przepisami ustawy lub regulaminem, niszczy infrastrukturę ogrodową albo wykracza w sposób rażący lub uporczywy przeciwko porządkowi ogrodowemu, czyniąc uciążliwym korzystanie z innych działek lub”;
 - **5)** w art. 46 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) działanie na rzecz zagospodarowania i zabudowy ROD zgodnie z jego celami oraz przepisami prawa.”.
 

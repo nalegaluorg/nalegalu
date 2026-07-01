@@ -27,12 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/353/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
-
-- **1)** 1250,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
-- **2)** 937,50 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
-
-2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1250,00 zł miesięcznie.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 1250,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 937,50 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1250,00 zł miesięcznie.”.
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2020 r. poz. 1790) w art. 11 ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2851,27 zł.”.
 
@@ -46,9 +41,7 @@ source: pdf
 **Art. 5.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2020 r. poz. 1936) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Świadczenie uzupełniające przysługuje osobom uprawnionym, które nie posiadają prawa do świadczeń pieniężnych finansowanych ze środków publicznych albo suma tych świadczeń o charakterze innym niż jednorazowe, wraz z kwotą wypłacaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, z wyłączeniem renty rodzinnej przyznanej w okolicznościach, o których mowa w art. 68 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291), zasiłku pielęgnacyjnego oraz innych dodatków i świadczeń wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów przed dokonaniem odliczeń, potrąceń i zmniejszeń, nie przekracza kwoty 1750 zł miesięcznie.”;
-- **2)** w art. 4 ust. 1 i 2 otrzymują brzmienie: „1. Świadczenie uzupełniające przysługuje osobie uprawnionej w wysokości nie wyższej niż 500 zł miesięcznie, przy czym łączna kwota świadczenia uzupełniającego i świadczeń, o których mowa w art. 2 ust. 2, nie może przekroczyć 1750 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.
-
-2. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 2 ust. 2, świadczenie uzupełniające podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 2 ust. 2, wraz ze świadczeniem uzupełniającym, nie przekroczyła kwoty 1750 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.”.
+- **2)** w art. 4 ust. 1 i 2 otrzymują brzmienie: „1. Świadczenie uzupełniające przysługuje osobie uprawnionej w wysokości nie wyższej niż 500 zł miesięcznie, przy czym łączna kwota świadczenia uzupełniającego i świadczeń, o których mowa w art. 2 ust. 2, nie może przekroczyć 1750 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2. 2. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 2 ust. 2, świadczenie uzupełniające podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 2 ust. 2, wraz ze świadczeniem uzupełniającym, nie przekroczyła kwoty 1750 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.”.
 
 **Art. 6.**
 

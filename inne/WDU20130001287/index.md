@@ -82,14 +82,8 @@ source: pdf
 
 - **2)** w art. 33:
     - **a)** w ust. 1: – w pkt 8 na końcu dodaje się przecinek i pkt 8a w brzmieniu: „8a) 1 lipca 2013 r. w Republice Chorwacji”, – po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) 8 października 1991 r. w byłej Jugosławii, w przypadku Republiki Chorwacji,”, – część wspólna następująca po pkt 13 otrzymuje brzmienie: „– oraz do dyplomu, świadectwa lub innego dokumentu potwierdzającego posiadanie formalnych kwalifikacji zostało dołączone zaświadczenie wydane przez odpowiednie władze lub organizacje odpowiednio: Republiki Litewskiej, Republiki Estońskiej, Republiki Łotewskiej, Republiki Słowenii, Republiki Chorwacji, Republiki Czeskiej lub Republiki Słowackiej, potwierdzające, że dokument ten ma na terytorium tych państw taką samą moc, jak dokumenty wymienione w odniesieniu do tych państw w wykazie, o którym mowa w art. 34 ust. 2, oraz że osoba posługująca się tymi dokumentami wykonywała zawód położnej przez okres co najmniej 3 kolejnych lat z 5 lat bezpośrednio poprzedzających wydanie zaświadczenia.”,
-    - **b)** dodaje się ust. 5 w brzmieniu: „5. Przepisów ust. 1 nie stosuje się do następujących kwalifikacji uzyskanych w Republice Chorwacji przed dniem 1 lipca 2013 r.:
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Przepisów ust. 1 nie stosuje się do następujących kwalifikacji uzyskanych w Republice Chorwacji przed dniem 1 lipca 2013 r.: 1) starsza pielęgniarka wyspecjalizowana w zakresie położnictwa i ginekologii (viša medicinska sestra ginekološko-opstetričkog smjera); 2) pielęgniarka wyspecjalizowana w zakresie położnictwa i ginekologii (medicinska sestra ginekološko-opstetričkog smjera); 3) starsza pielęgniarka uprawniona do wykonywania czynności położnej (viša medicinska sestra primaljskog smjera); 4) pielęgniarka uprawniona do wykonywania czynności położnej (medicinska sestra primaljskog smjera); 5) położna wyspecjalizowana w zakresie położnictwa i ginekologii (ginekološko-opstetrička primalja); 6) położna (primalja).”;
 
-- **1)** starsza pielęgniarka wyspecjalizowana w zakresie położnictwa i ginekologii (viša medicinska sestra ginekološko-opstetričkog smjera);
-- **2)** pielęgniarka wyspecjalizowana w zakresie położnictwa i ginekologii (medicinska sestra ginekološko-opstetričkog smjera);
-- **3)** starsza pielęgniarka uprawniona do wykonywania czynności położnej (viša medicinska sestra primaljskog smjera);
-- **4)** pielęgniarka uprawniona do wykonywania czynności położnej (medicinska sestra primaljskog smjera);
-- **5)** położna wyspecjalizowana w zakresie położnictwa i ginekologii (ginekološko-opstetrička primalja);
-- **6)** położna (primalja).”;
 - **3)** w załączniku nr 1 po pkt 26 dodaje się pkt 26a w brzmieniu: „26a) „Medicinska sestra opće njege/medicinski tehničar opće njege” lub „Prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva” w Republice Chorwacji;”;
 - **4)** w załączniku nr 2 po pkt 26 dodaje się pkt 26a w brzmieniu: „26a) „Prvostupnik (baccalaureus) primaljstva/prvostupnica (baccalaurea) primaljstva” w Republice Chorwacji;”.
 

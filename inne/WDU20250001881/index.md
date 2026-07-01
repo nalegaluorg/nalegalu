@@ -34,22 +34,8 @@ source: pdf
     - **b)** uchyla się pkt 7;
 
 - **2)** w art. 11 w ust. 5 wyrazy „ze Spółką” zastępuje się wyrazami „z wytwórcą wyłącznym”;
-- **3)** po art. 16 w rozdziale 4 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. W celu zagwarantowania bezpieczeństwa państwa oraz porządku publicznego, w tym objęcia procesu wytwarzania lub personalizacji dokumentów publicznych nadzorem krajowej władzy bezpieczeństwa, a także ochrony informacji dotyczących współdziałania systemów niezbędnych do wytworzenia dokumentów publicznych z systemami, rejestrami i ewidencjami państwowymi, Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą w Warszawie, zwanej dalej „wytwórcą wyłącznym”, powierza się prawo wyłączne określone w art. 17 w zakresie niektórych dokumentów publicznych wymienionych w art. 5 ust. 2.
-
-2. Rada Ministrów określi, w drodze rozporządzenia, wykaz dokumentów publicznych, do których wytwarzania, indywidualizacji lub personalizacji prawo wyłączne, określone w art. 17, powierza się wytwórcy wyłącznemu, oraz zakres tego powierzenia, uwzględniając kryteria określone w ust. 1.”;
-
-- **4)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Prawo wyłączne obejmuje wytwarzanie blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i 32 lit. a–e, g, h oraz m, lub blankietów dokumentów publicznych określonych w przepisach wydanych na podstawie art. 16a ust. 2. Prawo wyłączne może obejmować również indywidualizację lub personalizację dokumentów publicznych, o ile następują w procesie wytwarzania blankietów dokumentów publicznych.
-
-2. Wytwórca wyłączny jest obowiązany posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony aktualnym certyfikatem zgodności z normą ISO 14298.
-
-3. Wytwórca wyłączny jest obowiązany posiadać świadectwo bezpieczeństwa przemysłowego potwierdzające zdolność do zapewnienia ochrony informacji niejawnych oznaczonych klauzulą „tajne” lub wyższą oraz odrębne świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli stanowiącej zagraniczny odpowiednik klauzuli „tajne”.
-
-4. Wytwórca wyłączny wytwarza blankiety dokumentów publicznych odpłatnie.
-
-5. Cena wytworzenia blankietów dokumentów publicznych wymienionych w ust. 1 jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a wytwórcą wyłącznym, z uwzględnieniem zasad handlowych i interesu publicznego.
-
-6. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego, mając na względzie konieczność zagwarantowania bezpieczeństwa państwa i ochronę danych osobowych funkcjonariuszy.”;
-
+- **3)** po art. 16 w rozdziale 4 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. W celu zagwarantowania bezpieczeństwa państwa oraz porządku publicznego, w tym objęcia procesu wytwarzania lub personalizacji dokumentów publicznych nadzorem krajowej władzy bezpieczeństwa, a także ochrony informacji dotyczących współdziałania systemów niezbędnych do wytworzenia dokumentów publicznych z systemami, rejestrami i ewidencjami państwowymi, Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą w Warszawie, zwanej dalej „wytwórcą wyłącznym”, powierza się prawo wyłączne określone w art. 17 w zakresie niektórych dokumentów publicznych wymienionych w art. 5 ust. 2. 2. Rada Ministrów określi, w drodze rozporządzenia, wykaz dokumentów publicznych, do których wytwarzania, indywidualizacji lub personalizacji prawo wyłączne, określone w art. 17, powierza się wytwórcy wyłącznemu, oraz zakres tego powierzenia, uwzględniając kryteria określone w ust. 1.”;
+- **4)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Prawo wyłączne obejmuje wytwarzanie blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i 32 lit. a–e, g, h oraz m, lub blankietów dokumentów publicznych określonych w przepisach wydanych na podstawie art. 16a ust. 2. Prawo wyłączne może obejmować również indywidualizację lub personalizację dokumentów publicznych, o ile następują w procesie wytwarzania blankietów dokumentów publicznych. 2. Wytwórca wyłączny jest obowiązany posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony aktualnym certyfikatem zgodności z normą ISO 14298. 3. Wytwórca wyłączny jest obowiązany posiadać świadectwo bezpieczeństwa przemysłowego potwierdzające zdolność do zapewnienia ochrony informacji niejawnych oznaczonych klauzulą „tajne” lub wyższą oraz odrębne świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli stanowiącej zagraniczny odpowiednik klauzuli „tajne”. 4. Wytwórca wyłączny wytwarza blankiety dokumentów publicznych odpłatnie. 5. Cena wytworzenia blankietów dokumentów publicznych wymienionych w ust. 1 jest ustalana w umowie zawieranej między emitentem dokumentu publicznego a wytwórcą wyłącznym, z uwzględnieniem zasad handlowych i interesu publicznego. 6. Blankiety dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego, mając na względzie konieczność zagwarantowania bezpieczeństwa państwa i ochronę danych osobowych funkcjonariuszy.”;
 - **5)** użyty w art. 18 oraz w art. 48 w ust. 5, w różnym przypadku, wyraz „Spółka” zastępuje się użytymi w odpowiednim przypadku wyrazami „wytwórca wyłączny”;
 - **6)** w art. 19:
     - **a)** w ust. 1 wyrazy „w Spółce oraz” zastępuje się wyrazami „u wytwórcy wyłącznego oraz w”,
@@ -57,9 +43,7 @@ source: pdf
     - **c)** w ust. 4 wyraz „Spółka” zastępuje się wyrazami „wytwórca wyłączny”;
 
 - **7)** w art. 20 we wprowadzeniu do wyliczenia wyraz „Spółka” zastępuje się wyrazami „Wytwórca wyłączny”;
-- **8)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Minister i Szef Agencji Bezpieczeństwa Wewnętrznego wspólnie przeprowadzają kontrolę:
-- **1)** wytwórcy wyłącznego w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298;
-- **2)** podmiotów, o których mowa w art. 18, innych niż wytwórca wyłączny w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.”.
+- **8)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Minister i Szef Agencji Bezpieczeństwa Wewnętrznego wspólnie przeprowadzają kontrolę: 1) wytwórcy wyłącznego w zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298; 2) podmiotów, o których mowa w art. 18, innych niż wytwórca wyłączny w zakresie, o którym mowa w art. 19, oraz w zakresie spełniania przez te podmioty warunków określonych w przepisach wydanych na podstawie art. 21.”.
 
 **Art. 2.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222, 340 i 1813) wprowadza się następujące zmiany:
 

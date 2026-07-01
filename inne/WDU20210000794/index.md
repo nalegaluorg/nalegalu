@@ -31,9 +31,8 @@ source: pdf
 
 - **1)** w art. 10:
     - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”,
-    - **b)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
+    - **b)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
 
-- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 
@@ -46,17 +45,14 @@ source: pdf
 
 - **c)** ust. 9 otrzymuje brzmienie: „9. Pomoc pieniężna jednorazowa jest przyznawana nie częściej niż 2 razy w roku kalendarzowym.”;
 - **2)** w art. 10a ust. 1 otrzymuje brzmienie: „1. Prawo do świadczenia wyrównawczego przysługuje osobie uprawnionej pobierającej emeryturę lub rentę inwalidzką albo rentę z tytułu niezdolności do pracy albo rentę rodzinną, zwaną dalej „rentą”, w kwocie niższej niż 2450 zł miesięcznie.”;
-- **3)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. 1. Osobie uprawnionej przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni roboczych w roku kalendarzowym.
-
-2. Urlop, o którym mowa w ust. 1, nie przysługuje osobie uprawnionej do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych lub do urlopu dodatkowego na podstawie odrębnych przepisów.”.
+- **3)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. 1. Osobie uprawnionej przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni roboczych w roku kalendarzowym. 2. Urlop, o którym mowa w ust. 1, nie przysługuje osobie uprawnionej do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych lub do urlopu dodatkowego na podstawie odrębnych przepisów.”.
 
 **Art. 2.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”;
 - **2)** w art. 19a:
-    - **a)** ust. 1–3 otrzymują brzmienie: „1. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
 
-- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca pobiera rentę inwalidy wojennego lub wojskowego albo jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 
@@ -76,8 +72,7 @@ source: pdf
 **Art. 5.** W ustawie z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2020 r. poz. 619) w art. 7a:
 
 - **1)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”;
-- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
-- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
+- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca pobiera rentę inwalidy wojskowego albo jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 
@@ -93,8 +88,7 @@ source: pdf
 **Art. 6.** W ustawie z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2019 r. poz. 1168) w art. 5a:
 
 - **1)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”;
-- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
-- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
+- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 
@@ -110,17 +104,14 @@ source: pdf
 **Art. 7.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 w ust. 2 po pkt 6a dodaje się pkt 6b w brzmieniu: „6b) pozbawienia możliwości wykonywania swojego zawodu przed dniem 31 lipca 1990 r. na skutek represji politycznych za działania na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania politycznych praw człowieka w Polsce;”;
-- **2)** w art. 117 ust. 4 i 4a otrzymują brzmienie: „4. Okresy, o których mowa w art. 6 ust. 1 pkt 10 i ust. 2 pkt 6a i 6b, mogą być udowodnione dokumentami lub zeznaniami świadków. Oceny tych dokumentów i zeznań dokonuje, w drodze decyzji, Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych.
-
-4a. Wniosek o potwierdzenie okresów, o których mowa w art. 6 ust. 1 pkt 10 i ust. 2 pkt 6a i 6b, zawiera imię lub imiona oraz nazwisko wnioskodawcy, datę i miejsce urodzenia, imiona rodziców, numer PESEL, adres miejsca zamieszkania lub adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, o ile wnioskodawca je posiada.”.
+- **2)** w art. 117 ust. 4 i 4a otrzymują brzmienie: „4. Okresy, o których mowa w art. 6 ust. 1 pkt 10 i ust. 2 pkt 6a i 6b, mogą być udowodnione dokumentami lub zeznaniami świadków. Oceny tych dokumentów i zeznań dokonuje, w drodze decyzji, Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych. 4a. Wniosek o potwierdzenie okresów, o których mowa w art. 6 ust. 1 pkt 10 i ust. 2 pkt 6a i 6b, zawiera imię lub imiona oraz nazwisko wnioskodawcy, datę i miejsce urodzenia, imiona rodziców, numer PESEL, adres miejsca zamieszkania lub adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, o ile wnioskodawca je posiada.”.
 
 **Art. 8.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876 i 2369) art. 64b otrzymuje brzmienie: „Art. 64b. 1. Członków Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej, o których mowa w art. 6 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, oraz działaczy opozycji antykomunistycznej i osoby represjonowane z powodów politycznych, o których mowa w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, obowiązanych do wnoszenia opłaty za swój pobyt w domu pomocy społecznej można zwolnić, na ich wniosek albo z urzędu, całkowicie albo częściowo z opłaty za pobyt w domu pomocy społecznej. 2. Przy podejmowaniu decyzji o całkowitym albo częściowym zwolnieniu członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej oraz działacza opozycji antykomunistycznej i osoby represjonowanej z powodów politycznych z opłaty za pobyt w domu pomocy społecznej albo o odmowie zwolnienia organ bierze pod uwagę możliwości i sytuację finansową gminy.”.
 
 **Art. 9.** W ustawie z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2020 r. poz. 684) w art. 10a:
 
 - **1)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”;
-- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
-- **1)** dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
+- **2)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
 

@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz.U. Nr 13, poz. 60 i Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719 oraz z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690, Nr 121, poz. 770 i Nr 158, poz.
 
-- **1044)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. Dopłaty do oprocentowania kredytów zaciągniętych w 1998 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na:
-- **1)** zakup rzeczowych środków obrotowych do produkcji rolniczej,
-- **2)** zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji,
-- **3)** postęp biologiczny w rolnictwie - mogą być stosowane za okres nie dłuższy niż 20 miesięcy od dnia otrzymania kredytu.”.
+- **1044)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. Dopłaty do oprocentowania kredytów zaciągniętych w 1998 r. przez krajowych przedsiębiorców prowadzących produkcję rolniczą, z przeznaczeniem na: 1) zakup rzeczowych środków obrotowych do produkcji rolniczej, 2) zakup rzeczowych środków obrotowych do produkcji żywności metodami ekologicznymi i przystosowanie gospodarstw rolnych do tej produkcji, 3) postęp biologiczny w rolnictwie - mogą być stosowane za okres nie dłuższy niż 20 miesięcy od dnia otrzymania kredytu.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r.
 

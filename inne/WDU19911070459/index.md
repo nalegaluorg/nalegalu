@@ -36,16 +36,7 @@ source: pdf
     - **c)** w ust. 4 skreśla się pkt 2;
 
 - **4)** w art. 63 skreśla się ust. 2;
-- **5)** po art. 70 dodaje się art. 70 w brzmieniu: "Art. 70 . 1.Osobom prawnym Kościoła Katolickiego, które po dniu 8 maja 1945 r. podjęły działalność na Ziemiach Zachodnich i Północnych, mogą być, na ich wniosek, przekazane nieodpłatnie na własność grunty znajdujące się w zasobach Państwowego Funduszu Ziemi. Jeżeli grunty te znajdują się w zarządzie lub użytkowaniu osób prawnych, przekazanie na własność może nastąpić wyłącznie za zgodą tych osób.
-
-2. Wielkość przekazanej nieruchomości rolnej, wraz z gruntami rolnymi będącymi już własnością wnioskodawcy, nie może przekraczać w odniesieniu do:
-
-- **1)** gospodarstw rolnych parafii - 15 ha,
-- **2)** gospodarstw rolnych diecezji - 50 ha,
-- **3)** gospodarstw rolnych seminariów duchownych, diecezjalnych i zakonnych - 50 ha,
-- **4)** gospodarstw rolnych domów zgromadzeń zakonnych - 5 ha, chyba że domy te prowadzą działalność, o której mowa w art. 20 i 39; w tych przypadkach mogą być przekazane nieruchomości rolne o powierzchni do 50 ha.
-
-3. Przekazanie na własność nieruchomości, o których mowa w ust. 1 i 2, następuje w drodze decyzji wojewody właściwego ze względu na miejsce położenia nieruchomości. Decyzja ta stanowi podstawę do dokonania wpisów w księgach wieczystych.".
+- **5)** po art. 70 dodaje się art. 70 w brzmieniu: "Art. 70 . 1.Osobom prawnym Kościoła Katolickiego, które po dniu 8 maja 1945 r. podjęły działalność na Ziemiach Zachodnich i Północnych, mogą być, na ich wniosek, przekazane nieodpłatnie na własność grunty znajdujące się w zasobach Państwowego Funduszu Ziemi. Jeżeli grunty te znajdują się w zarządzie lub użytkowaniu osób prawnych, przekazanie na własność może nastąpić wyłącznie za zgodą tych osób. 2. Wielkość przekazanej nieruchomości rolnej, wraz z gruntami rolnymi będącymi już własnością wnioskodawcy, nie może przekraczać w odniesieniu do: 1) gospodarstw rolnych parafii - 15 ha, 2) gospodarstw rolnych diecezji - 50 ha, 3) gospodarstw rolnych seminariów duchownych, diecezjalnych i zakonnych - 50 ha, 4) gospodarstw rolnych domów zgromadzeń zakonnych - 5 ha, chyba że domy te prowadzą działalność, o której mowa w art. 20 i 39; w tych przypadkach mogą być przekazane nieruchomości rolne o powierzchni do 50 ha. 3. Przekazanie na własność nieruchomości, o których mowa w ust. 1 i 2, następuje w drodze decyzji wojewody właściwego ze względu na miejsce położenia nieruchomości. Decyzja ta stanowi podstawę do dokonania wpisów w księgach wieczystych.".
 
 **Art. 2.** Wnioski o wszczęcie postępowania regulacyjnego, o którym mowa w art. 62 ust. 3 ustawy wymienionej w art. 1, mogą być zgłaszane w terminie do dnia 31 grudnia 1992 r.
 

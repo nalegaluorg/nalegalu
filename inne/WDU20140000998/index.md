@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. Nr 113, poz. 657 i Nr 174, poz. 1039 oraz z 2014 r. poz. 183) wprowadza się następujące zmiany:
 
-- **1)** art. 56 otrzymuje brzmienie: „Art. 56. 1. Do dnia 31 lipca 2017 r. dokumentacja medyczna może być prowadzona w postaci papierowej lub elektronicznej.
-
-2. Przepisy art. 11 niniejszej ustawy oraz art. 24 ust. 1a ustawy zmienianej w art. 50, w brzmieniu nadanym niniejszą ustawą, stosuje się do dokumentacji medycznej wytworzonej od dnia 1 sierpnia 2017 r.”;
-
+- **1)** art. 56 otrzymuje brzmienie: „Art. 56. 1. Do dnia 31 lipca 2017 r. dokumentacja medyczna może być prowadzona w postaci papierowej lub elektronicznej. 2. Przepisy art. 11 niniejszej ustawy oraz art. 24 ust. 1a ustawy zmienianej w art. 50, w brzmieniu nadanym niniejszą ustawą, stosuje się do dokumentacji medycznej wytworzonej od dnia 1 sierpnia 2017 r.”;
 - **2)** art. 58 otrzymuje brzmienie: „Art. 58. Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 7 ust. 1 pkt 3 i 4, art. 11 oraz art. 50 pkt 1, które wchodzą w życie z dniem 1 sierpnia 2017 r.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 31 lipca 2014 r.

@@ -32,19 +32,13 @@ source: pdf
 - **1)** skreśla się użyte w art. 55 ust. 4, art. 57a we wprowadzeniu do wyliczenia i pkt 2, art. 57d ust. 2 i art. 57g ust. 3, w różnym przypadku, wyrazy „albo fundacja, której jedynym fundatorem jest Skarb Państwa,”;
 - **2)** w art. 55:
     - **a)** w ust. 5 uchyla się pkt 2,
-    - **b)** ust. 5a otrzymuje brzmienie: „5a. W przypadku upoważnienia jednostki sektora finansów publicznych do pełnienia funkcji jednostki centralnej:
-
-- **1)** zadanie, o którym mowa w ust. 2 pkt 3, w zakresie dotyczącym operacji instytucji zarządzającej, oraz zadania określone w ust. 2c i 2d wykonuje instytucja zarządzająca;
-- **2)** upoważniona jednostka:
-    - **a)** działa w imieniu własnym i na rzecz instytucji zarządzającej,
-    - **b)** ponosi koszty związane z pełnieniem tej funkcji zgodnie z art. 43a ust. 1; do ponoszenia tych kosztów stosuje się przepisy art. 43a ust. 2–5 oraz przepisy wydane na podstawie art. 43a ust. 6.”,
+    - **b)** ust. 5a otrzymuje brzmienie: „5a. W przypadku upoważnienia jednostki sektora finansów publicznych do pełnienia funkcji jednostki centralnej: 1) zadanie, o którym mowa w ust. 2 pkt 3, w zakresie dotyczącym operacji instytucji zarządzającej, oraz zadania określone w ust. 2c i 2d wykonuje instytucja zarządzająca; 2) upoważniona jednostka: a) działa w imieniu własnym i na rzecz instytucji zarządzającej, b) ponosi koszty związane z pełnieniem tej funkcji zgodnie z art. 43a ust. 1; do ponoszenia tych kosztów stosuje się przepisy art. 43a ust. 2–5 oraz przepisy wydane na podstawie art. 43a ust. 6.”,
     - **c)** uchyla się ust. 5b;
 
 - **3)** w art. 56 ust. 3 otrzymuje brzmienie: „3. W przypadku upoważnienia jednostki sektora finansów publicznych do pełnienia funkcji jednostki centralnej, instytucja zarządzająca sprawuje nadzór, o którym mowa w ust. 1, również nad tą jednostką, z tym że kontrole, o których mowa w ust. 2 pkt 3, w zakresie realizacji planu działania pod względem jego realizacji zgodnie z przepisami prawa, programem i tym planem przeprowadza ta jednostka.”;
 - **4)** w art. 57c ust. 2 otrzymuje brzmienie: „2. W przypadku upoważnienia jednostki sektora finansów publicznych do pełnienia funkcji jednostki centralnej, wyboru operacji, o której mowa w ust. 1 pkt 1, dokonuje instytucja zarządzająca po uprzednim stwierdzeniu spełnienia warunków wyboru operacji przez tę jednostkę.”;
 - **5)** w art. 57d w ust. 1 pkt 1 otrzymuje brzmienie: „1) ust. 2 – do jednostki sektora finansów publicznych upoważnionej do pełnienia funkcji jednostki centralnej;”;
-- **6)** w art. 57g w ust. 2 w pkt 1 lit. a i b otrzymują brzmienie: „a) umowę na realizację operacji z partnerem KSOW zawiera jednostka sektora finansów publicznych upoważniona do pełnienia funkcji jednostki centralnej, wniosek o refundację partner KSOW składa do instytucji zarządzającej za pośrednictwem tej jednostki,”.
-    - **b)** koszty poniesione przez partnera KSOW są refundowane przez urząd obsługujący ministra właściwego do spraw rozwoju wsi na wniosek tego partnera po zweryfikowaniu tego wniosku przez jednostkę sektora finansów publicznych upoważnioną do pełnienia funkcji jednostki centralnej i zatwierdzeniu przez instytucję zarządzającą;
+- **6)** w art. 57g w ust. 2 w pkt 1 lit. a i b otrzymują brzmienie: „a) umowę na realizację operacji z partnerem KSOW zawiera jednostka sektora finansów publicznych upoważniona do pełnienia funkcji jednostki centralnej, b) koszty poniesione przez partnera KSOW są refundowane przez urząd obsługujący ministra właściwego do spraw rozwoju wsi na wniosek tego partnera po zweryfikowaniu tego wniosku przez jednostkę sektora finansów publicznych upoważnioną do pełnienia funkcji jednostki centralnej i zatwierdzeniu przez instytucję zarządzającą; wniosek o refundację partner KSOW składa do instytucji zarządzającej za pośrednictwem tej jednostki,”.
 
 **Art. 2.** Fundacja, która przed dniem wejścia w życie niniejszej ustawy została upoważniona do pełnienia funkcji jednostki centralnej, pełni tę funkcję do dnia 31 grudnia 2017 r. zgodnie z przepisami ustawy zmienianej w art. 1 w dotychczasowym brzmieniu, z tym że realizacja jej zadań w 2016 r. i 2017 r. jest finansowana ze środków pomocy technicznej, o których przyznanie i wypłatę fundacja ta może ubiegać się jako jednostka wymieniona w art. 40 ust. 1 pkt 1 ustawy zmienianej w art. 1.
 

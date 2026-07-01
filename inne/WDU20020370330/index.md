@@ -29,14 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 października 2000 r. o Polskim Rejestrze Statków (Dz.U. Nr 103, poz. 1098) wprowadza się następujące zmiany:
 
-- **1)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Minister właściwy do spraw Skarbu Państwa zbywa do 51% akcji PRS SA.
-
-2. Pierwszą ofertę minister właściwy do spraw Skarbu Państwa skieruje imiennie do zakładów ubezpieczeń, banków oraz przedsiębiorców, których dotyczy działalność PRS SA.
-
-3. Przed zbyciem akcji, o których mowa w ust. 1, przeprowadza się analizę dotyczącą ustalenia rodzaju powiązań PRS SA z podmiotami, o których mowa w ust. 2.
-
-4. Do zlecania, opracowania, odbioru i finansowania analizy, o której mowa w ust. 3, stosuje się przepisy art. 32 ust. 2 ustawy, o której mowa w art. 4.”;
-
+- **1)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Minister właściwy do spraw Skarbu Państwa zbywa do 51% akcji PRS SA. 2. Pierwszą ofertę minister właściwy do spraw Skarbu Państwa skieruje imiennie do zakładów ubezpieczeń, banków oraz przedsiębiorców, których dotyczy działalność PRS SA. 3. Przed zbyciem akcji, o których mowa w ust. 1, przeprowadza się analizę dotyczącą ustalenia rodzaju powiązań PRS SA z podmiotami, o których mowa w ust. 2. 4. Do zlecania, opracowania, odbioru i finansowania analizy, o której mowa w ust. 3, stosuje się przepisy art. 32 ust. 2 ustawy, o której mowa w art. 4.”;
 - **2)** w art. 8:
     - **a)** skreśla się ust. 2,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. Zbycie akcji, o których mowa w art. 7, następuje nie później niż w terminie 12 miesięcy od dnia komercjalizacji PRS.”;

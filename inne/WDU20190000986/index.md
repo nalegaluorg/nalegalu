@@ -39,12 +39,10 @@ source: pdf
 - **3)** w art. 34a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Powiatowy urząd pracy, udzielając bezrobotnemu pomocy określonej w ustawie, przygotowuje indywidualny plan działania. Indywidualny plan działania może być przygotowany również dla poszukującego pracy.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Pomoc udzielana przez powiatowy urząd pracy w ramach indywidualnego planu działania jest dostosowana do indywidualnych potrzeb i możliwości bezrobotnego lub poszukującego pracy, z uwzględnieniem jego wykształcenia, doświadczenia zawodowego oraz możliwości podjęcia pracy lub działalności gospodarczej.”,
-    - **c)** ust. 3 i 3a otrzymują brzmienie: „3. Przygotowanie indywidualnego planu działania następuje nie później niż w terminie 60 dni od dnia rejestracji.
+    - **c)** ust. 3 i 3a otrzymują brzmienie: „3. Przygotowanie indywidualnego planu działania następuje nie później niż w terminie 60 dni od dnia rejestracji. 3a. Indywidualny plan działania podlega modyfikacji stosownie do zmieniającej się sytuacji bezrobotnego lub poszukującego pracy.”,
+    - **d)** po ust. 3a dodaje się ust. 3aa i 3ab w brzmieniu: „3aa. Powiatowy urząd pracy w okresie realizacji indywidualnego planu działania kontaktuje się z bezrobotnym lub poszukującym pracy co najmniej raz na 60 dni w celu monitorowania sytuacji i postępów w realizacji działań przewidzianych w indywidualnym planie działania. 3ab. Kontakt, o którym mowa w ust. 3aa, może być realizowany przez powiatowy urząd pracy w formie spotkania, rozmowy telefonicznej lub wymiany informacji drogą elektroniczną lub pocztową.”,
+    - **e)** uchyla się ust. 3c;
 
-3a. Indywidualny plan działania podlega modyfikacji stosownie do zmieniającej się sytuacji bezrobotnego lub poszukującego pracy.”, 3ab. Kontakt, o którym mowa w ust. 3aa, może być realizowany przez powiatowy urząd pracy w formie spotkania, rozmowy telefonicznej lub wymiany informacji drogą elektroniczną lub pocztową.”,
-
-- **d)** po ust. 3a dodaje się ust. 3aa i 3ab w brzmieniu: „3aa. Powiatowy urząd pracy w okresie realizacji indywidualnego planu działania kontaktuje się z bezrobotnym lub poszukującym pracy co najmniej raz na 60 dni w celu monitorowania sytuacji i postępów w realizacji działań przewidzianych w indywidualnym planie działania.
-- **e)** uchyla się ust. 3c;
 - **4)** w art. 62a ust. 2 otrzymuje brzmienie: „2. Do udziału w Programie Aktywizacja i Integracja są kierowani bezrobotni korzystający ze świadczeń pomocy społecznej, w szczególności realizujący kontrakt socjalny, o którym mowa w przepisach o pomocy społecznej.”;
 - **5)** w art. 62b w ust. 2:
     - **a)** pkt 2 otrzymuje brzmienie: „2) skierować bezrobotnego, w porozumieniu z ośrodkiem pomocy społecznej, do zatrudnienia wspieranego u pracodawcy na zasadach określonych w przepisach o zatrudnieniu socjalnym lub podjęcia pracy w spółdzielni socjalnej zakładanej przez osoby prawne, o której mowa w przepisach o spółdzielniach socjalnych.”,

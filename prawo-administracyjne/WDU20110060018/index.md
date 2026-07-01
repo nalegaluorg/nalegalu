@@ -39,20 +39,12 @@ source: pdf
 - **8)** w art. 37 § 1 otrzymuje brzmienie: „§ 1. Na niezałatwienie sprawy w terminie określonym w art. 35, w przepisach szczególnych, ustalonym w myśl art. 36 lub na przewlekłe prowadzenie postępowania stronie służy zażalenie do organu wyższego stopnia, a jeżeli nie ma takiego organu – wezwanie do usunięcia naruszenia prawa.”;
 - **9)** w art. 40:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Jeżeli strona ustanowiła pełnomocnika, pisma doręcza się pełnomocnikowi. Jeżeli ustanowiono kilku pełnomocników, doręcza się pisma tylko jednemu pełnomocnikowi. Strona może wskazać takiego pełnomocnika.”,
-    - **b)** dodaje się § 4 i 5 w brzmieniu: „§ 4. Strona zamieszkała za granicą lub mająca siedzibę za granicą, jeżeli nie ustanowiła pełnomocnika do prowadzenia sprawy zamieszkałego w kraju, jest obowiązana wskazać w kraju pełnomocnika do doręczeń.
-
-§ 5. W razie niewskazania pełnomocnika do doręczeń przeznaczone dla tej strony pisma pozostawia się w aktach sprawy ze skutkiem doręczenia. Stronę należy o tym pouczyć przy pierwszym doręczeniu. Strona powinna być również pouczona o możliwości złożenia odpowiedzi na pismo wszczynające postępowanie i wyjaśnień na piśmie oraz o tym, kto może być ustanowiony pełnomocnikiem.”;
+    - **b)** dodaje się § 4 i 5 w brzmieniu: „§ 4. Strona zamieszkała za granicą lub mająca siedzibę za granicą, jeżeli nie ustanowiła pełnomocnika do prowadzenia sprawy zamieszkałego w kraju, jest obowiązana wskazać w kraju pełnomocnika do doręczeń. § 5. W razie niewskazania pełnomocnika do doręczeń przeznaczone dla tej strony pisma pozostawia się w aktach sprawy ze skutkiem doręczenia. Stronę należy o tym pouczyć przy pierwszym doręczeniu. Strona powinna być również pouczona o możliwości złożenia odpowiedzi na pismo wszczynające postępowanie i wyjaśnień na piśmie oraz o tym, kto może być ustanowiony pełnomocnikiem.”;
 
 - **10)** w art. 55 § 1 otrzymuje brzmienie: „§ 1. W sprawach niecierpiących zwłoki wezwania można dokonać również telefonicznie albo przy użyciu innych środków łączności, z podaniem danych wymienionych w art. 54 § 1 oraz imienia, nazwiska i stanowiska służbowego pracownika organu wzywającego.”;
-- **11)** po art. 61 dodaje się art. 61a w brzmieniu: „Art. 61a. § 1. Gdy żądanie, o którym mowa w art. 61, zostało wniesione przez osobę niebędącą stroną lub z innych uzasadnionych przyczyn postępowanie nie może być wszczęte, organ administracji publicznej wydaje postanowienie o odmowie wszczęcia postępowania.
-
-§ 2. Na postanowienie, o którym mowa w § 1, służy zażalenie.”;
-
+- **11)** po art. 61 dodaje się art. 61a w brzmieniu: „Art. 61a. § 1. Gdy żądanie, o którym mowa w art. 61, zostało wniesione przez osobę niebędącą stroną lub z innych uzasadnionych przyczyn postępowanie nie może być wszczęte, organ administracji publicznej wydaje postanowienie o odmowie wszczęcia postępowania. § 2. Na postanowienie, o którym mowa w § 1, służy zażalenie.”;
 - **12)** w art. 65 § 1 otrzymuje brzmienie: „§ 1. Jeżeli organ administracji publicznej, do którego podanie wniesiono, jest niewłaściwy w sprawie, niezwłocznie przekazuje je do organu właściwego, zawiadamiając jednocześnie o tym wnoszącego podanie. Zawiadomienie o przekazaniu powinno zawierać uzasadnienie.”;
-- **13)** w art. 66 § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli podanie dotyczy kilku spraw podlegających załatwieniu przez różne organy, organ administracji publicznej, do którego podanie wniesiono, uczyni przedmiotem rozpoznania sprawy należące do jego właściwości. Równocześnie zawiadomi wnoszącego podanie, że w sprawach innych powinien wnieść odrębne podanie do właściwego organu, i poinformuje go o treści § 2.
-
-§ 2. Odrębne podanie złożone zgodnie z zawiadomieniem, o którym mowa w § 1, w terminie czternastu dni od daty doręczenia zawiadomienia uważa się za złożone w dniu wniesienia pierwszego podania.”;
-
+- **13)** w art. 66 § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli podanie dotyczy kilku spraw podlegających załatwieniu przez różne organy, organ administracji publicznej, do którego podanie wniesiono, uczyni przedmiotem rozpoznania sprawy należące do jego właściwości. Równocześnie zawiadomi wnoszącego podanie, że w sprawach innych powinien wnieść odrębne podanie do właściwego organu, i poinformuje go o treści § 2. § 2. Odrębne podanie złożone zgodnie z zawiadomieniem, o którym mowa w § 1, w terminie czternastu dni od daty doręczenia zawiadomienia uważa się za złożone w dniu wniesienia pierwszego podania.”;
 - **14)** w art. 73:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Strona ma prawo wglądu w akta sprawy, sporządzania z nich notatek, kopii lub odpisów. Prawo to przysługuje również po zakończeniu postępowania.”,
     - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Czynności określone w § 1 są dokonywane w lokalu organu administracji publicznej w obecności pracownika tego organu.”,
@@ -66,32 +58,22 @@ source: pdf
 
 - **18)** w art. 105 § 1 otrzymuje brzmienie: „§ 1. Gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości albo w części, organ administracji publicznej wydaje decyzję o umorzeniu postępowania odpowiednio w całości albo w części.”;
 - **19)** w art. 111:
-    - **a)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Organ administracji publicznej, który wydał decyzję, może ją uzupełnić lub sprostować z urzędu w zakresie, o którym mowa w § 1, w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji.
+    - **a)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Organ administracji publicznej, który wydał decyzję, może ją uzupełnić lub sprostować z urzędu w zakresie, o którym mowa w § 1, w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji. § 1b. Uzupełnienie lub odmowa uzupełnienia decyzji następuje w formie postanowienia.”,
+    - **b)** § 2 otrzymuje brzmienie: „§ 2. W przypadku wydania postanowienia, o którym mowa w § 1b, termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia.”;
 
-§ 1b. Uzupełnienie lub odmowa uzupełnienia decyzji następuje w formie postanowienia.”,
-
-- **b)** § 2 otrzymuje brzmienie: „§ 2. W przypadku wydania postanowienia, o którym mowa w § 1b, termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia.”;
 - **20)** art. 126 otrzymuje brzmienie: „Art. 126. Do postanowień stosuje się odpowiednio przepisy art. 105, art. 107 § 2 – 5 oraz art. 109 – 113, a do postanowień, od których przysługuje zażalenie, oraz do postanowień określonych w art. 134 – również art. 145 – 152 oraz art. 156 – 159, z tym że zamiast decyzji, o której mowa w art. 151 § 1 i art. 158 § 1, wydaje się postanowienie.”;
 - **21)** w art. 138:
-    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Organ odwoławczy wydaje decyzję, w której:
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Organ odwoławczy wydaje decyzję, w której: 1) utrzymuje w mocy zaskarżoną decyzję albo 2) uchyla zaskarżoną decyzję w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo uchylając tę decyzję – umarza postępowanie pierwszej instancji w całości albo w części, albo 3) umarza postępowanie odwoławcze. § 2. Organ odwoławczy może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia organowi pierwszej instancji, gdy decyzja ta została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie. Przekazując sprawę, organ ten powinien wskazać, jakie okoliczności należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy.”,
+    - **b)** dodaje się § 4 w brzmieniu: „§ 4. Jeżeli przepisy przewidują wydanie decyzji na blankiecie urzędowym, w tym za pomocą środków komunikacji elektronicznej, a istnieją podstawy do zmiany zaskarżonej decyzji, organ odwoławczy uchyla decyzję i zobowiązuje organ pierwszej instancji do wydania decyzji o określonej treści.”;
 
-- **1)** utrzymuje w mocy zaskarżoną decyzję albo
-- **2)** uchyla zaskarżoną decyzję w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo uchylając tę decyzję – umarza postępowanie pierwszej instancji w całości albo w części, albo
-- **3)** umarza postępowanie odwoławcze.
-
-§ 2. Organ odwoławczy może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia organowi pierwszej instancji, gdy decyzja ta została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie. Przekazując sprawę, organ ten powinien wskazać, jakie okoliczności należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy.”,
-
-- **b)** dodaje się § 4 w brzmieniu: „§ 4. Jeżeli przepisy przewidują wydanie decyzji na blankiecie urzędowym, w tym za pomocą środków komunikacji elektronicznej, a istnieją podstawy do zmiany zaskarżonej decyzji, organ odwoławczy uchyla decyzję i zobowiązuje organ pierwszej instancji do wydania decyzji o określonej treści.”;
 - **22)** w art. 149:
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Odmowa wznowienia postępowania następuje w drodze postanowienia.”,
     - **b)** po § 3 dodaje się § 4 w brzmieniu: „§ 4. Na postanowienie, o którym mowa w § 3, służy zażalenie.”;
 
 - **23)** w art. 154:
-    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Decyzja ostateczna, na mocy której żadna ze stron nie nabyła prawa, może być w każdym czasie uchylona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przemawia za tym interes społeczny lub słuszny interes strony.
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Decyzja ostateczna, na mocy której żadna ze stron nie nabyła prawa, może być w każdym czasie uchylona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przemawia za tym interes społeczny lub słuszny interes strony. § 2. W przypadkach określonych w § 1 właściwy organ wydaje decyzję w sprawie uchylenia lub zmiany dotychczasowej decyzji.”,
+    - **b)** uchyla się § 3;
 
-§ 2. W przypadkach określonych w § 1 właściwy organ wydaje decyzję w sprawie uchylenia lub zmiany dotychczasowej decyzji.”,
-
-- **b)** uchyla się § 3;
 - **24)** art. 155 otrzymuje brzmienie: „Art. 155. Decyzja ostateczna, na mocy której strona nabyła prawo, może być w każdym czasie za zgodą strony uchylona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przepisy szczególne nie sprzeciwiają się uchyleniu lub zmianie takiej decyzji i przemawia za tym interes społeczny lub słuszny interes strony; przepis art. 154 § 2 stosuje się odpowiednio.”;
 - **25)** w art. 157 uchyla się § 3;
 - **26)** w art. 229 pkt 2 otrzymuje brzmienie: „2) organów wykonawczych jednostek samorządu terytorialnego oraz kierowników powiatowych służb, inspekcji, straży i innych jednostek organizacyjnych w sprawach należących do zadań zleconych z zakresu administracji rządowej – wojewoda lub organ wyższego stopnia,”;

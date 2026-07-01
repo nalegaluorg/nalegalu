@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 (Dz. U. Nr 192, poz. 1379 oraz z 2011 r. Nr 163, poz. 981) wprowadza się następujące zmiany:
 
-- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Termin spłaty zobowiązań pieniężnych, o których mowa w art. 4 ust. 1, wraz z odsetkami podlega odroczeniu do dnia 31 grudnia 2015 r.
-
-2. Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. następuje spłata zobowiązań, o których mowa w art. 4 ust. 1, wraz z odsetkami w równych miesięcznych ratach, zgodnie z harmonogramem określonym w umowie zawartej pomiędzy Zakładem Ubezpieczeń Społecznych a przedsiębiorstwami górniczymi do dnia 31 grudnia 2015 r.”;
-
+- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Termin spłaty zobowiązań pieniężnych, o których mowa w art. 4 ust. 1, wraz z odsetkami podlega odroczeniu do dnia 31 grudnia 2015 r. 2. Od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2017 r. następuje spłata zobowiązań, o których mowa w art. 4 ust. 1, wraz z odsetkami w równych miesięcznych ratach, zgodnie z harmonogramem określonym w umowie zawartej pomiędzy Zakładem Ubezpieczeń Społecznych a przedsiębiorstwami górniczymi do dnia 31 grudnia 2015 r.”;
 - **2)** uchyla się art. 5.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.

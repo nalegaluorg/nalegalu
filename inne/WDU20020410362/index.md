@@ -34,17 +34,7 @@ source: pdf
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Osoba, o której mowa w ust. 2, nie może sprawować nadzoru pedagogicznego. W przypadku powołania takiej osoby na stanowisko dyrektora nadzór pedagogiczny sprawuje nauczyciel zajmujący inne stanowisko kierownicze w szkole lub placówce.”;
 
 - **2)** w art. 36a:
-    - **a)** ust. 5 otrzymuje brzmienie: „5. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę określa regulamin konkursu oraz powołuje komisję konkursową w składzie:
-
-- **1)** po trzech przedstawicieli:
-    - **a)** organu prowadzącego szkołę lub placówkę,
-    - **b)** organu sprawującego nadzór pedagogiczny,
-
-- **2)** po dwóch przedstawicieli:
-    - **a)** rady pedagogicznej,
-    - **b)** rodziców,
-
-- **3)** po jednym przedstawicielu zakładowych organizacji związkowych, przy czym przedstawiciel związku zawodowego nie może być zatrudniony w szkole lub placówce, której konkurs dotyczy.”,
+    - **a)** ust. 5 otrzymuje brzmienie: „5. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę określa regulamin konkursu oraz powołuje komisję konkursową w składzie: 1) po trzech przedstawicieli: a) organu prowadzącego szkołę lub placówkę, b) organu sprawującego nadzór pedagogiczny, 2) po dwóch przedstawicieli: a) rady pedagogicznej, b) rodziców, 3) po jednym przedstawicielu zakładowych organizacji związkowych, przy czym przedstawiciel związku zawodowego nie może być zatrudniony w szkole lub placówce, której konkurs dotyczy.”,
     - **b)** skreśla się ust 5a;
 
 - **3)** w art. 39 w ust. 4a i 5 na końcu dodaje się wyrazy „ , z zastrzeżeniem art. 59 ust. 2”;

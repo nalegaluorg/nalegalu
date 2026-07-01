@@ -30,10 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) w art. 54:
 
 - **1)** w § 1 po pkt 7b dodaje się pkt 7c w brzmieniu: „7c) w przypadku niezakończenia kontroli podatkowej albo kontroli celno-skarbowej w terminie 6 miesięcy od dnia jej wszczęcia – za okres od dnia następnego po upływie tego terminu do dnia jej zakończenia;”;
-- **2)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Do terminu i okresu, o których mowa w § 1 pkt 7c, nie wlicza się:
-- **1)** terminów przewidzianych w przepisach prawa podatkowego dla dokonania określonych czynności;
-- **2)** okresów zawieszenia kontroli podatkowej i kontroli celno-skarbowej, z wyjątkiem przypadków, o których mowa w art. 119gb § 2 i art. 284a § 5;
-- **3)** okresów opóźnień spowodowanych z winy strony lub jej przedstawiciela albo z przyczyn niezależnych od organu.”.
+- **2)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Do terminu i okresu, o których mowa w § 1 pkt 7c, nie wlicza się: 1) terminów przewidzianych w przepisach prawa podatkowego dla dokonania określonych czynności; 2) okresów zawieszenia kontroli podatkowej i kontroli celno-skarbowej, z wyjątkiem przypadków, o których mowa w art. 119gb § 2 i art. 284a § 5; 3) okresów opóźnień spowodowanych z winy strony lub jej przedstawiciela albo z przyczyn niezależnych od organu.”.
 
 **Art. 2.** Przepisy art. 54 § 1 pkt 7c i § 2a ustawy zmienianej w art. 1 stosuje się również do kontroli podatkowej i kontroli celno-skarbowej, wszczętej w okresie 6 miesięcy przed dniem wejścia w życie niniejszej ustawy i niezakończonej przed tym dniem.
 

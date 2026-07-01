@@ -29,26 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635 oraz z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859 i Nr 127, poz. 880) wprowadza się następujące zmiany:
 
-- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Nie podlega opłacie skarbowej dokonanie czynności urzędowej lub wydanie zaświadczenia, jeżeli dokonanie tej czynności lub wydanie zaświadczenia następuje na podstawie zgłoszenia lub na wniosek, które przekazane zostały za pośrednictwem polskiego konsula albo, jeżeli doręczenie dokumentu potwierdzającego dokonanie czynności urzędowej lub zaświadczenia dokonywane jest za pośrednictwem polskiego konsula, za pobraniem opłaty konsularnej.
-
-2. Konsul dokonując czynności, o których mowa w ust. 1, zobowiązany jest poinformować organ administracji publicznej o pobraniu opłaty konsularnej.”;
-
-- **2)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Zapłaty opłaty skarbowej dokonuje się w kasie właściwego organu podatkowego lub na jego rachunek.
-
-2. Rada gminy może zarządzić pobór opłaty skarbowej w drodze inkasa, wyznaczyć inkasentów oraz określić wysokość wynagrodzenia za inkaso.
-
-3. Organy administracji rządowej i samorządowej oraz podmioty, o których mowa w art. 1 ust. 2, dokonują adnotacji potwierdzających zapłatę opłaty skarbowej, zwolnienie od niej lub wyłączenie obowiązku jej zapłaty.
-
-4. Adnotacji, o której mowa w ust. 3, nie dokonuje się, w przypadku gdy dokonanie czynności urzędowej, wydanie zaświadczenia lub zezwolenia (pozwolenia, koncesji) nie podlega opłacie skarbowej na podstawie art. 2 ust. 1 pkt 1 lit. e, art. 3 lub art. 3a.
-
-5. Adwokat, radca prawny, doradca podatkowy oraz rzecznik patentowy mogą składać w sądzie, organie administracji rządowej lub samorządowej albo podmiocie, o którym mowa w art. 1 ust. 2, uwierzytelnioną przez siebie kopię dowodu zapłaty opłaty skarbowej od dokumentu stwierdzającego udzielenie im pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii. Sąd, organ administracji rządowej lub samorządowej albo podmiot, o którym mowa w art. 1 ust. 2, może, w razie wątpliwości, żądać przedłożenia oryginału dowodu zapłaty.”;
-
-- **3)** art. 10 otrzymuje brzmienie: „Art. 10. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** sposób potwierdzania przez organy administracji rządowej i samorządowej oraz podmioty, o których mowa w art. 1 ust. 2, zapłaty opłaty skarbowej, zwolnienia od niej lub wyłączenia obowiązku jej zapłaty, w szczególności przez wskazanie sposobu:
-    - **a)** dokumentowania zapłaty opłaty skarbowej,
-    - **b)** sporządzania adnotacji potwierdzających zapłatę opłaty skarbowej, zwolnienie od niej lub wyłączenie obowiązku jej zapłaty,
-
-- **2)** sposób dokonywania zwrotu opłaty skarbowej oraz tryb przekazywania organom podatkowym dokumentów niezbędnych do dokonania jej zwrotu – uwzględniając konieczność zapewnienia sprawności postępowania podatkowego, a także zapewnienia kontroli zapłaty opłaty skarbowej.”.
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Nie podlega opłacie skarbowej dokonanie czynności urzędowej lub wydanie zaświadczenia, jeżeli dokonanie tej czynności lub wydanie zaświadczenia następuje na podstawie zgłoszenia lub na wniosek, które przekazane zostały za pośrednictwem polskiego konsula albo, jeżeli doręczenie dokumentu potwierdzającego dokonanie czynności urzędowej lub zaświadczenia dokonywane jest za pośrednictwem polskiego konsula, za pobraniem opłaty konsularnej. 2. Konsul dokonując czynności, o których mowa w ust. 1, zobowiązany jest poinformować organ administracji publicznej o pobraniu opłaty konsularnej.”;
+- **2)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Zapłaty opłaty skarbowej dokonuje się w kasie właściwego organu podatkowego lub na jego rachunek. 2. Rada gminy może zarządzić pobór opłaty skarbowej w drodze inkasa, wyznaczyć inkasentów oraz określić wysokość wynagrodzenia za inkaso. 3. Organy administracji rządowej i samorządowej oraz podmioty, o których mowa w art. 1 ust. 2, dokonują adnotacji potwierdzających zapłatę opłaty skarbowej, zwolnienie od niej lub wyłączenie obowiązku jej zapłaty. 4. Adnotacji, o której mowa w ust. 3, nie dokonuje się, w przypadku gdy dokonanie czynności urzędowej, wydanie zaświadczenia lub zezwolenia (pozwolenia, koncesji) nie podlega opłacie skarbowej na podstawie art. 2 ust. 1 pkt 1 lit. e, art. 3 lub art. 3a. 5. Adwokat, radca prawny, doradca podatkowy oraz rzecznik patentowy mogą składać w sądzie, organie administracji rządowej lub samorządowej albo podmiocie, o którym mowa w art. 1 ust. 2, uwierzytelnioną przez siebie kopię dowodu zapłaty opłaty skarbowej od dokumentu stwierdzającego udzielenie im pełnomocnictwa lub prokury albo jego odpisu, wypisu lub kopii. Sąd, organ administracji rządowej lub samorządowej albo podmiot, o którym mowa w art. 1 ust. 2, może, w razie wątpliwości, żądać przedłożenia oryginału dowodu zapłaty.”;
+- **3)** art. 10 otrzymuje brzmienie: „Art. 10. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) sposób potwierdzania przez organy administracji rządowej i samorządowej oraz podmioty, o których mowa w art. 1 ust. 2, zapłaty opłaty skarbowej, zwolnienia od niej lub wyłączenia obowiązku jej zapłaty, w szczególności przez wskazanie sposobu: a) dokumentowania zapłaty opłaty skarbowej, b) sporządzania adnotacji potwierdzających zapłatę opłaty skarbowej, zwolnienie od niej lub wyłączenie obowiązku jej zapłaty, 2) sposób dokonywania zwrotu opłaty skarbowej oraz tryb przekazywania organom podatkowym dokumentów niezbędnych do dokonania jej zwrotu – uwzględniając konieczność zapewnienia sprawności postępowania podatkowego, a także zapewnienia kontroli zapłaty opłaty skarbowej.”.
 
 **Art. 2.**
 

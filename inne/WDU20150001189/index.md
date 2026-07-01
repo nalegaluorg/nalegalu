@@ -33,17 +33,14 @@ source: pdf
     - **a)** ust. 3 otrzymuje brzmienie: „3. Koszty instytucji gospodarki budżetowej mogą być ponoszone tylko w ramach uzyskanych przychodów, z uwzględnieniem możliwości wykorzystania środków pieniężnych z poprzednich okresów, pozostających w dyspozycji instytucji gospodarki budżetowej.”,
     - **b)** dodaje się ust. 6 w brzmieniu: „6. Za zgodą organu wykonującego funkcje organu założycielskiego, wydaną w porozumieniu z Ministrem Finansów, w trakcie roku budżetowego mogą być dokonywane zmiany planu finansowego polegające na zwiększeniu kosztów ponad planowane przychody, jednak nie więcej niż o środki pieniężne z poprzednich okresów, pozostające w dyspozycji instytucji gospodarki budżetowej.”;
 
-- **2)** w art. 27 w ust. 2: poz. 330, z późn. zm. ).”;
+- **2)** w art. 27 w ust. 2:
     - **a)** pkt 5 otrzymuje brzmienie: „5) przygotowanie rocznego sprawozdania finansowego instytucji gospodarki budżetowej;”,
-    - **b)** dodaje się pkt 6 w brzmieniu: „6) przygotowanie rocznego sprawozdania z działalności instytucji gospodarki budżetowej, którego zakres informacyjny określa art. 49 ust. 2 i 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r.
+    - **b)** dodaje się pkt 6 w brzmieniu: „6) przygotowanie rocznego sprawozdania z działalności instytucji gospodarki budżetowej, którego zakres informacyjny określa art. 49 ust. 2 i 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330, z późn. zm. ).”;
 
 - **3)** w art. 28:
     - **a)** w ust. 6 uchyla się pkt 2,
     - **b)** uchyla się ust. 7,
-    - **c)** dodaje się ust. 8 w brzmieniu: „8. Instytucja gospodarki budżetowej tworzy fundusz zapasowy z zysku netto z przeznaczeniem na:
-
-- **1)** finansowanie inwestycji;
-- **2)** pokrycie straty netto.”.
+    - **c)** dodaje się ust. 8 w brzmieniu: „8. Instytucja gospodarki budżetowej tworzy fundusz zapasowy z zysku netto z przeznaczeniem na: 1) finansowanie inwestycji; 2) pokrycie straty netto.”.
 
 **Art. 2.** Zysk pozostający w dyspozycji instytucji gospodarki budżetowej, który przed dniem wejścia w życie niniejszej ustawy zwiększył fundusz instytucji gospodarki budżetowej, podlega przeniesieniu na fundusz zapasowy w dniu wejścia w życie niniejszej ustawy.
 

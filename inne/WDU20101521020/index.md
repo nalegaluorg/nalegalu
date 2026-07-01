@@ -29,12 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 ust. 2 otrzymuje brzmienie: „2. Centrum, na zasadach określonych w ustawie, może być tworzone przez:
-- **1)** jednostkę samorządu terytorialnego w formie:
-    - **a)** jednostki budżetowej,
-    - **b)** samorządowego zakładu budżetowego,
-
-- **2)** organizację pozarządową – zwane dalej „instytucjami tworzącymi”.”;
+- **1)** w art. 3 ust. 2 otrzymuje brzmienie: „2. Centrum, na zasadach określonych w ustawie, może być tworzone przez: 1) jednostkę samorządu terytorialnego w formie: a) jednostki budżetowej, b) samorządowego zakładu budżetowego, 2) organizację pozarządową – zwane dalej „instytucjami tworzącymi”.”;
 - **2)** w art. 5 w ust. 4 pkt 2 otrzymuje brzmienie: „2) przedstawiać corocznie, nie później niż do dnia 31 marca, wojewodzie oraz jednostkom i podmiotom przyznającym dotacje Centrum, a także instytucji tworzącej sprawozdanie zawierające rozliczenie dotacji za rok poprzedni, efekty reintegracji zawodowej i społecznej, a także preliminarz wydatków i przychodów na rok bieżący związanych z wykonywaniem usług, o których mowa w art. 3 ust. 1.”;
 - **3)** w art. 7 w ust. 1:
     - **a)** pkt 1 otrzymuje brzmienie: „1) w przypadku Centrum tworzonego przez jednostkę samorządu terytorialnego – na zasadach określonych w przepisach o finansach publicznych;”,
@@ -51,19 +46,7 @@ source: pdf
 **Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241 i Nr 219, poz. 1706) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 97;
-- **2)** po art. 97 dodaje się art. 97a w brzmieniu: „Art. 97a. 1. Gmina lub powiat, które uzyskały dla wyodrębnionej jednostki organizacyjnej status zakładu aktywności zawodowej, mogą, w terminie do dnia 31 grudnia 2010 r.:
-- **1)** przekształcić ten zakład w samorządowy zakład budżetowy;
-- **2)** przekazać prowadzenie tego zakładu organizacji pozarządowej, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych.
-
-2. W przypadku przekształcenia, o którym mowa w ust. 1 pkt 1, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej przejmuje nowo utworzony samorządowy zakład budżetowy.
-
-3. W przypadku przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej oraz należności i zobowiązania organizatora zakładu aktywności zawodowej związane z utworzeniem i prowadzeniem tego zakładu przejmuje nowy organizator zakładu aktywności zawodowej.
-
-4. W terminie 14 dni od dnia przekształcenia zakładu aktywności zawodowej lub przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, gmina, powiat lub podmiot przejmujący zakład aktywności zawodowej występuje do wojewody o wydanie decyzji o przyznaniu temu zakładowi statusu zakładu aktywności zawodowej z dniem przekształcenia lub przekazania prowadzenia tego zakładu.
-
-5. W przypadku nieprzekształcenia zakładu aktywności zawodowej w samorządowy zakład budżetowy lub nieprzekazania prowadzenia zakładu aktywności zawodowej w terminie do dnia 31 grudnia 2010 r., lub nieuzyskania statusu zakładu aktywności zawodowej przez podmiot, który przekształcił lub przejął prowadzenie zakładu aktywności zawodowej, kwota stanowiąca wartość mienia zakładu aktywności zawodowej sfinansowanego ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w części, która nie została pokryta odpisami amortyzacyjnymi, oraz niewykorzystane środki Funduszu, środki przekazane na tworzenie lub działanie zakładu aktywności zawodowej i środki znajdujące się na rachunku zakładowego funduszu aktywności podlegają przekazaniu na rachunek tego Funduszu w terminie do dnia 30 września 2011 r.
-
-6. W przypadku określonym w ust. 1 pkt 2 nowy organizator zakładu aktywności zawodowej przejmuje prawa i obowiązki dotychczasowego organizatora wynikające z umowy dotyczącej dofinansowania ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów utworzenia i działania przejmowanego zakładu aktywności zawodowej z dniem przejęcia.”.
+- **2)** po art. 97 dodaje się art. 97a w brzmieniu: „Art. 97a. 1. Gmina lub powiat, które uzyskały dla wyodrębnionej jednostki organizacyjnej status zakładu aktywności zawodowej, mogą, w terminie do dnia 31 grudnia 2010 r.: 1) przekształcić ten zakład w samorządowy zakład budżetowy; 2) przekazać prowadzenie tego zakładu organizacji pozarządowej, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych. 2. W przypadku przekształcenia, o którym mowa w ust. 1 pkt 1, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej przejmuje nowo utworzony samorządowy zakład budżetowy. 3. W przypadku przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej oraz należności i zobowiązania organizatora zakładu aktywności zawodowej związane z utworzeniem i prowadzeniem tego zakładu przejmuje nowy organizator zakładu aktywności zawodowej. 4. W terminie 14 dni od dnia przekształcenia zakładu aktywności zawodowej lub przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, gmina, powiat lub podmiot przejmujący zakład aktywności zawodowej występuje do wojewody o wydanie decyzji o przyznaniu temu zakładowi statusu zakładu aktywności zawodowej z dniem przekształcenia lub przekazania prowadzenia tego zakładu. 5. W przypadku nieprzekształcenia zakładu aktywności zawodowej w samorządowy zakład budżetowy lub nieprzekazania prowadzenia zakładu aktywności zawodowej w terminie do dnia 31 grudnia 2010 r., lub nieuzyskania statusu zakładu aktywności zawodowej przez podmiot, który przekształcił lub przejął prowadzenie zakładu aktywności zawodowej, kwota stanowiąca wartość mienia zakładu aktywności zawodowej sfinansowanego ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w części, która nie została pokryta odpisami amortyzacyjnymi, oraz niewykorzystane środki Funduszu, środki przekazane na tworzenie lub działanie zakładu aktywności zawodowej i środki znajdujące się na rachunku zakładowego funduszu aktywności podlegają przekazaniu na rachunek tego Funduszu w terminie do dnia 30 września 2011 r. 6. W przypadku określonym w ust. 1 pkt 2 nowy organizator zakładu aktywności zawodowej przejmuje prawa i obowiązki dotychczasowego organizatora wynikające z umowy dotyczącej dofinansowania ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów utworzenia i działania przejmowanego zakładu aktywności zawodowej z dniem przejęcia.”.
 
 **Art. 4.**
 

@@ -32,20 +32,9 @@ source: pdf
 - **1)** w art. 4a w ust. 1 w pkt 1 wyrazy „art. 6 ust. 1 pkt 2–5, 7 i 8 oraz ust. 2” zastępuje się wyrazami „art. 6 ust. 1 pkt 2–5, 7 i 8 oraz ust. 1a–2”;
 - **2)** w art. 6:
     - **a)** w ust. 1 w pkt 8 skreśla się wyrazy „ , renty”,
-    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Jeżeli przedmiotem nabycia jest prawo majątkowe polegające na obowiązku świadczeń powtarzających się na rzecz nabywcy tego prawa, obowiązek podatkowy powstaje z chwilą:
+    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Jeżeli przedmiotem nabycia jest prawo majątkowe polegające na obowiązku świadczeń powtarzających się na rzecz nabywcy tego prawa, obowiązek podatkowy powstaje z chwilą: 1) ustanowienia tych świadczeń – w przypadku gdy wartość świadczeń powtarzających się za cały okres trwania obowiązku tych świadczeń: a) jest ustalona na dzień ich ustanowienia albo b) została uprawdopodobniona zgodnie z art. 12 ust. 1 pkt 2; 2) wykonania poszczególnych świadczeń – w przypadkach innych niż określone w pkt 1.”;
 
-- **1)** ustanowienia tych świadczeń – w przypadku gdy wartość świadczeń powtarzających się za cały okres trwania obowiązku tych świadczeń:
-    - **a)** jest ustalona na dzień ich ustanowienia albo
-    - **b)** została uprawdopodobniona zgodnie z art. 12 ust. 1 pkt 2;
-
-- **2)** wykonania poszczególnych świadczeń – w przypadkach innych niż określone w pkt 1.”;
-- **3)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Przy ustalaniu wartości prawa majątkowego polegającego na obowiązku świadczeń powtarzających się na rzecz nabywcy tego prawa przyjmuje się:
-- **1)** łączną wartość świadczeń powtarzających się za okres, na jaki zostały ustanowione, a jeżeli zostały ustanowione na czas nieokreślony – za okres 10 lat, w przypadku gdy wartość świadczeń powtarzających się jest ustalona na dzień ich ustanowienia za cały okres trwania obowiązku tych świadczeń;
-- **2)** łączną uprawdopodobnioną wartość świadczeń powtarzających się za okres, na jaki zostały ustanowione, a jeżeli zostały ustanowione na czas nieokreślony – za okres 10 lat, w przypadku gdy wartość świadczeń powtarzających się nie jest ustalona na dzień ich ustanowienia za cały okres trwania obowiązku tych świadczeń, a naczelnik urzędu skarbowego, za zgodą podatnika, uprawdopodobni ich wartość;
-- **3)** wartość poszczególnych świadczeń w przypadkach innych niż określone w pkt 1 i 2.
-
-2. Do obliczenia wartości prawa użytkowania i służebności przepis ust. 1 pkt 1 stosuje się odpowiednio, przy czym ich roczną wartość ustala się w wysokości 4 % wartości rzeczy oddanej w użytkowanie lub obciążonej służebnością.”;
-
+- **3)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Przy ustalaniu wartości prawa majątkowego polegającego na obowiązku świadczeń powtarzających się na rzecz nabywcy tego prawa przyjmuje się: 1) łączną wartość świadczeń powtarzających się za okres, na jaki zostały ustanowione, a jeżeli zostały ustanowione na czas nieokreślony – za okres 10 lat, w przypadku gdy wartość świadczeń powtarzających się jest ustalona na dzień ich ustanowienia za cały okres trwania obowiązku tych świadczeń; 2) łączną uprawdopodobnioną wartość świadczeń powtarzających się za okres, na jaki zostały ustanowione, a jeżeli zostały ustanowione na czas nieokreślony – za okres 10 lat, w przypadku gdy wartość świadczeń powtarzających się nie jest ustalona na dzień ich ustanowienia za cały okres trwania obowiązku tych świadczeń, a naczelnik urzędu skarbowego, za zgodą podatnika, uprawdopodobni ich wartość; 3) wartość poszczególnych świadczeń w przypadkach innych niż określone w pkt 1 i 2. 2. Do obliczenia wartości prawa użytkowania i służebności przepis ust. 1 pkt 1 stosuje się odpowiednio, przy czym ich roczną wartość ustala się w wysokości 4 % wartości rzeczy oddanej w użytkowanie lub obciążonej służebnością.”;
 - **4)** uchyla się art. 13;
 - **5)** w art. 18 ust. 3 otrzymuje brzmienie: „3. W przypadkach określonych w art. 12 ust. 1 pkt 2 i 3 notariusz nie oblicza ani nie pobiera podatku.”;
 - **6)** w art. 19 ust. 7 otrzymuje brzmienie: „7. Przepisu ust. 6 nie stosuje się, gdy nabycie zbywanych lub obciążanych rzeczy lub praw majątkowych nastąpiło na podstawie umowy zawartej w formie aktu notarialnego lub było zwolnione od podatku na podstawie art. 4a.”.

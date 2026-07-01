@@ -34,10 +34,7 @@ source: pdf
     - **b)** wyrazy „podejmie uchwałę” zastępuje się wyrazami „może podjąć uchwałę”;
 
 - **2)** w art. 218 w § 1 dodaje się drugie zdanie w brzmieniu: „Wkład mieszkaniowy podlega dziedziczeniu.”;
-- **3)** art. 220 otrzymuje brzmienie: „Art. 220. § 1. Z chwilą śmierci jednego z małżonków lokatorskie prawo do lokalu, które przysługiwało obojgu małżonkom, przypada drugiemu małżonkowi. Małżonek ten, jeżeli nie jest członkiem spółdzielni, powinien w terminie jednego roku od dnia śmierci członka złożyć deklarację członkowską.
-
-§ 2. Jeżeli małżonek ten nie złoży deklaracji członkowskiej w terminie, o którym mowa w § 1, spółdzielnia wyznaczy w tym celu dodatkowy termin, nie krótszy niż sześć miesięcy, uprzedzając, że niedopełnienie tego obowiązku może powodować podjęcie uchwały o wygaśnięciu lokatorskiego prawa do lokalu.”;
-
+- **3)** art. 220 otrzymuje brzmienie: „Art. 220. § 1. Z chwilą śmierci jednego z małżonków lokatorskie prawo do lokalu, które przysługiwało obojgu małżonkom, przypada drugiemu małżonkowi. Małżonek ten, jeżeli nie jest członkiem spółdzielni, powinien w terminie jednego roku od dnia śmierci członka złożyć deklarację członkowską. § 2. Jeżeli małżonek ten nie złoży deklaracji członkowskiej w terminie, o którym mowa w § 1, spółdzielnia wyznaczy w tym celu dodatkowy termin, nie krótszy niż sześć miesięcy, uprzedzając, że niedopełnienie tego obowiązku może powodować podjęcie uchwały o wygaśnięciu lokatorskiego prawa do lokalu.”;
 - **4)** w art. 224 zdanie drugie otrzymuje brzmienie: „Dotyczy to również licytanta.”;
 - **5)** art. 228 otrzymuje brzmienie: „Art. 228. Jeżeli własnościowe prawo do lokalu przeszło na kilku spadkobierców, przepis art. 233 § 1 stosuje się odpowiednio.”;
 - **6)** w art. 229 w § 2 skreśla się zdanie drugie.

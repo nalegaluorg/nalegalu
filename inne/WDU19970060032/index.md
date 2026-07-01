@@ -35,12 +35,9 @@ o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych pr
 - **3)** w art. 9 ust. 3 otrzymuje brzmienie: "3. Przepisy ust. 1 i 2 stosuje się odpowiednio w wypadku nieodpłatnego przekazania przez przedsiębiorstwo państwowe na rzecz spółdzielni mieszkaniowych lub towarzystw budownictwa społecznego hoteli pracowniczych przeznaczonych na cele mieszkaniowe.";
 - **4)** w art. 10:
     - **a)** ust. 2 otrzymuje brzmienie: "2. Przekazania dokonuje spółka będąca stroną umowy, o której mowa w ust. 1, i czynność ta stanowi podstawę do zmiany tej umowy.",
-    - **b)** dodaje się ust. 3 i 4 w brzmieniu: "3. Zmiana umowy polega na wyłączeniu z przedmiotu umowy przekazanych budynków mieszkalnych wraz z prawem użytkowania wieczystego gruntu i może stanowić podstawę do zmniejszenia wartości jej przedmiotu o wielkość uzgodnioną między stronami tej umowy, z uwzględnieniem metod wyceny przyjętych przy ustalaniu wartości budynków mieszkalnych i prawa użytkowania wieczystego gruntu w dniu zawarcia umowy, o której mowa w ust. 1.
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: "3. Zmiana umowy polega na wyłączeniu z przedmiotu umowy przekazanych budynków mieszkalnych wraz z prawem użytkowania wieczystego gruntu i może stanowić podstawę do zmniejszenia wartości jej przedmiotu o wielkość uzgodnioną między stronami tej umowy, z uwzględnieniem metod wyceny przyjętych przy ustalaniu wartości budynków mieszkalnych i prawa użytkowania wieczystego gruntu w dniu zawarcia umowy, o której mowa w ust. 1. 4. Zmniejszenie wartości przedmiotu umowy nie może przekraczać wartości budynków wynikającej z bilansu otwarcia spółki, sporządzonego na dzień przejęcia mienia Skarbu Państwa, pomniejszonej o wartość umorzenia tych budynków na dzień przekazania ich gminie.";
 
-4. Zmniejszenie wartości przedmiotu umowy nie może przekraczać wartości budynków wynikającej z bilansu otwarcia spółki, sporządzonego na dzień przejęcia mienia Skarbu Państwa, pomniejszonej o wartość umorzenia tych budynków na dzień przekazania ich gminie.";
-
-- **5)** w art. 11 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: "4) stałej stawki wynagrodzenia notariusza za sporządzenie umowy, o której mowa w art. 10 ust. 3,
-- **5)** stałej opłaty sądowej za wpis dotyczący zmiany umowy, o której mowa w art. 10 ust. 3.".
+- **5)** w art. 11 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: "4) stałej stawki wynagrodzenia notariusza za sporządzenie umowy, o której mowa w art. 10 ust. 3, 5) stałej opłaty sądowej za wpis dotyczący zmiany umowy, o której mowa w art. 10 ust. 3.".
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -35,9 +35,7 @@ source: pdf
     - **a)** w ust. 1: - pkt 2 otrzymuje brzmienie: „2) 1,25 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze,”, - pkt 4 otrzymuje brzmienie: „4) 1,3 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie zadań związanych z restrukturyzacją przedsiębiorstw przemysłu lekkiego.”,
     - **b)** ust. 8 otrzymuje brzmienie: „8. Dopłaty ze środków budżetu państwa do oprocentowania kredytów na cele, o których mowa w art. 3 ust. 1 pkt 4, przysługują w wysokości oprocentowania naliczonego według stopy równej stopie redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski, powiększonego o marżę banku.”;
 
-- **4)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Środkami na dopłaty do oprocentowania kredytów, o których mowa w art. 3 ust. 1:
-- **1)** pkt 1 i 2 – dysponuje minister właściwy do spraw rolnictwa,
-- **2)** pkt 4 – dysponuje minister właściwy do spraw gospodarki.”.
+- **4)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Środkami na dopłaty do oprocentowania kredytów, o których mowa w art. 3 ust. 1: 1)pkt 1 i 2 – dysponuje minister właściwy do spraw rolnictwa, 2)pkt 4 – dysponuje minister właściwy do spraw gospodarki.”.
 
 **Art. 2.**
 

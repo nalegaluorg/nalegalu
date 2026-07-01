@@ -39,62 +39,13 @@ source: pdf
 **Art. 3.** W ustawie z dnia 18 lipca 2001 r. – Prawo wodne (Dz.U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 38a:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
-
-- **1)** elementy jakości dla klasyfikacji:
-    - **a)** stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych,
-    - **b)** potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych;
-
-- **2)** definicje klasyfikacji:
-    - **a)** stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych,
-    - **b)** potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych,
-    - **c)** stanu chemicznego jednolitych części wód powierzchniowych;
-
-- **3)** typy wód powierzchniowych, z podziałem na kategorie tych wód.
-
-3. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, sposób klasyfikacji stanu jednolitych części wód powierzchniowych, w tym:
-
-- **1)** sposób klasyfikacji:
-    - **a)** elementów fizykochemicznych, biologicznych i hydromorfologicznych, w oparciu o wchodzące w ich skład wskaźniki jakości, dla poszczególnych kategorii jednolitych części wód, uwzględniającą różne typy wód powierzchniowych,
-    - **b)** stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach lub innych zbiornikach naturalnych, wodach przejściowych oraz wodach przybrzeżnych, uwzględniającą klasyfikację elementów, o których mowa w lit. a,
-    - **c)** potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, uwzględniającą klasyfikację elementów, o których mowa w lit. a,
-    - **d)** stanu chemicznego jednolitych części wód powierzchniowych;
-
-- **2)** sposób interpretacji wyników badań wskaźników jakości, o których mowa w pkt 1 lit. a;
-- **3)** sposób oceny stanu jednolitych części wód powierzchniowych;
-- **4)** sposób prezentacji wyników klasyfikacji:
-    - **a)** stanu ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. b,
-    - **b)** potencjału ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. c,
-    - **c)** stanu chemicznego jednolitych części wód powierzchniowych;
-
-- **5)** częstotliwość dokonywania:
-    - **a)** klasyfikacji poszczególnych elementów, o których mowa w pkt 1 lit. a,
-    - **b)** klasyfikacji stanu ekologicznego, potencjału ekologicznego i stanu chemicznego jednolitych części wód powierzchniowych.”,
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia: 1) elementy jakości dla klasyfikacji: a) stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, b) potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych; 2) definicje klasyfikacji: a) stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, b) potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, c) stanu chemicznego jednolitych części wód powierzchniowych; 3) typy wód powierzchniowych, z podziałem na kategorie tych wód. 3. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, sposób klasyfikacji stanu jednolitych części wód powierzchniowych, w tym: 1) sposób klasyfikacji: a) elementów fizykochemicznych, biologicznych i hydromorfologicznych, w oparciu o wchodzące w ich skład wskaźniki jakości, dla poszczególnych kategorii jednolitych części wód, uwzględniającą różne typy wód powierzchniowych, b) stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach lub innych zbiornikach naturalnych, wodach przejściowych oraz wodach przybrzeżnych, uwzględniającą klasyfikację elementów, o których mowa w lit. a, c) potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, uwzględniającą klasyfikację elementów, o których mowa w lit. a, d) stanu chemicznego jednolitych części wód powierzchniowych; 2) sposób interpretacji wyników badań wskaźników jakości, o których mowa w pkt 1 lit. a; 3) sposób oceny stanu jednolitych części wód powierzchniowych; 4) sposób prezentacji wyników klasyfikacji: a) stanu ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. b, b) potencjału ekologicznego jednolitych części wód powierzchniowych, o którym mowa w pkt 1 lit. c, c) stanu chemicznego jednolitych części wód powierzchniowych; 5) częstotliwość dokonywania: a) klasyfikacji poszczególnych elementów, o których mowa w pkt 1 lit. a, b) klasyfikacji stanu ekologicznego, potencjału ekologicznego i stanu chemicznego jednolitych części wód powierzchniowych.”,
     - **b)** uchyla się ust. 4,
     - **c)** ust. 5 otrzymuje brzmienie: „5. Minister, wydając rozporządzenia, o których mowa w ust. 1 i 2, będzie się kierować istniejącym stanem rozpoznania procesów zachodzących w środowisku wodnym oraz dostępnymi wynikami pomiarów i badań.”,
     - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Minister, wydając rozporządzenie, o którym mowa w ust. 3, będzie się kierować potrzebą uwzględnienia poszczególnych wskaźników jakości w systemie oceny stanu wód, istniejącym stanem rozpoznania procesów zachodzących w środowisku wodnym oraz dostępnymi wynikami pomiarów i badań.”;
 
-- **2)** art. 121 otrzymuje brzmienie: „Art. 121. Rada Ministrów, kierując się zasadami i potrzebami ochrony wód, określi, w drodze rozporządzenia, szczegółowy zakres opracowywania planów gospodarowania wodami na obszarach dorzeczy, w tym:
-- **1)** szczegółowy zakres informacji koniecznych do sporządzania planów oraz sposób ich wykorzystania i przetwarzania;
-- **2)** zakres identyfikacji znaczących oddziaływań antropogenicznych i oceny ich wpływu na stan wód powierzchniowych i podziemnych;
-- **3)** wymagania, jakie należy spełnić przy ustalaniu celów środowiskowych;
-- **4)** zakres analiz ekonomicznych związanych z korzystaniem z wód;
-- **5)** częstotliwość weryfikacji pozyskiwanych informacji i sporządzanych dokumentów.”;
-- **3)** w art. 155b ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, formy i sposób prowadzenia monitoringu jednolitych części wód powierzchniowych i podziemnych, w tym:
-- **1)** dla wód powierzchniowych:
-    - **a)** rodzaje monitoringu i cele ich ustanowienia,
-    - **b)** kryteria wyboru jednolitych części wód do monitorowania,
-    - **c)** rodzaje punktów pomiarowo-kontrolnych i kryteria ich wyznaczania,
-    - **d)** zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód,
-    - **e)** zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych,
-    - **f)** metodyki referencyjne oraz warunki zapewnienia jakości pomiarów i badań;
-
-- **2)** dla wód podziemnych:
-    - **a)** rodzaje monitoringu i cele ich ustanowienia,
-    - **b)** kryteria wyboru jednolitych części wód do monitorowania,
-    - **c)** kryteria wyznaczania punktów pomiarowych,
-    - **d)** zakres i częstotliwość monitoringu,
-    - **e)** metodyki referencyjne oraz warunki zapewnienia jakości monitoringu.”.
+- **2)** art. 121 otrzymuje brzmienie: „Art. 121. Rada Ministrów, kierując się zasadami i potrzebami ochrony wód, określi, w drodze rozporządzenia, szczegółowy zakres opracowywania planów gospodarowania wodami na obszarach dorzeczy, w tym: 1) szczegółowy zakres informacji koniecznych do sporządzania planów oraz sposób ich wykorzystania i przetwarzania; 2) zakres identyfikacji znaczących oddziaływań antropogenicznych i oceny ich wpływu na stan wód powierzchniowych i podziemnych; 3) wymagania, jakie należy spełnić przy ustalaniu celów środowiskowych; 4) zakres analiz ekonomicznych związanych z korzystaniem z wód; 5) częstotliwość weryfikacji pozyskiwanych informacji i sporządzanych dokumentów.”;
+- **3)** w art. 155b ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, formy i sposób prowadzenia monitoringu jednolitych części wód powierzchniowych i podziemnych, w tym: 1) dla wód powierzchniowych: a) rodzaje monitoringu i cele ich ustanowienia, b) kryteria wyboru jednolitych części wód do monitorowania, c) rodzaje punktów pomiarowo-kontrolnych i kryteria ich wyznaczania, d) zakres i częstotliwość prowadzonych badań dla poszczególnych elementów klasyfikacji stanu ekologicznego i chemicznego jednolitych części wód w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych, z uwzględnieniem specyfiki poszczególnych typów wód, e) zakres prowadzonych badań dla poszczególnych elementów klasyfikacji potencjału ekologicznego i stanu chemicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych, f) metodyki referencyjne oraz warunki zapewnienia jakości pomiarów i badań; 2) dla wód podziemnych: a) rodzaje monitoringu i cele ich ustanowienia, b) kryteria wyboru jednolitych części wód do monitorowania, c) kryteria wyznaczania punktów pomiarowych, d) zakres i częstotliwość monitoringu, e) metodyki referencyjne oraz warunki zapewnienia jakości monitoringu.”.
 
 **Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz.U. Nr 92, poz. 880, z późn. zm. ) wprowadza się następujące zmiany:
 

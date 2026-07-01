@@ -31,10 +31,7 @@ source: pdf
 
 - **1)** w art. 4 pkt 2 otrzymuje brzmienie: „2) wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 30 czerwca danego roku kalendarzowego do dnia 29 czerwca następnego roku kalendarzowego.”;
 - **2)** w art. 5:
-    - **a)** w ust. 3 w pkt 6 dodaje się średnik i dodaje się pkt 7–9 w brzmieniu: „7) 50 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 września 2025 r.;
-
-- **8)** 47 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 czerwca 2026 r.;
-- **9)** 45 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 czerwca 2027 r.”,
+    - **a)** w ust. 3 w pkt 6 dodaje się średnik i dodaje się pkt 7–9 w brzmieniu: „7) 50 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 września 2025 r.; 8) 47 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 czerwca 2026 r.; 9) 45 dni i średniej dziennej produkcji paliw lub przywozu ropy naftowej lub paliw zrealizowanych przez producenta lub handlowca w poprzednim roku kalendarzowym – od dnia 30 czerwca 2027 r.”,
     - **b)** ust. 9 otrzymuje brzmienie: „9. Ilość utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw dostosowuje się w terminie do dnia 30 czerwca danego roku kalendarzowego do poziomu wynikającego z obliczeń wykonanych zgodnie z ust. 3b lub 3k, z zastrzeżeniem że w odniesieniu do okresu od dnia 1 stycznia do dnia 29 czerwca danego roku kalendarzowego dane do obliczeń wymaganej ilości zapasów obowiązkowych są ustalane na podstawie wielkości przywozu ropy naftowej lub paliw, lub produkcji paliw, w przedostatnim roku kalendarzowym.”;
 
 - **3)** w art. 70c:
@@ -45,15 +42,7 @@ source: pdf
 **Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 43e w ust. 1 wyrazy „do Prezesa Rządowej Agencji Rezerw Strategicznych” zastępuje się wyrazami „Prezesowi URE”;
-- **2)** po art. 43f dodaje się art. 43f w brzmieniu: „Art. 43f . 1. Portal Platforma Paliwowa jest niedostępny, jeżeli użytkownicy nie mają możliwości złożenia sprawozdań, informacji, deklaracji lub zestawień, o których mowa w art. 43f ust. 1 pkt 1.
-
-2. W przypadku stwierdzenia niedostępności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie wystąpienia i przyczynie niedostępności.
-
-3. Jeżeli niedostępność, o której mowa w ust. 2, będzie trwała w ostatnim dniu terminu, do upływu którego istnieje obowiązek złożenia dokumentów, o których mowa w art. 43f ust. 1 pkt 1, termin na złożenie dokumentów wydłuża się o trzy dni od dnia następującego po przywróceniu dostępności Portalu Platforma Paliwowa.
-
-4. Złożenie dokumentów, o których mowa w art. 43f ust. 1 pkt 1, w terminie określonym w ust. 3 uznaje się za złożenie z zachowaniem terminu.
-
-5. Po przywróceniu funkcjonalności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie przywrócenia dostępności tego portalu.”.
+- **2)** po art. 43f dodaje się art. 43f w brzmieniu: „Art. 43f . 1. Portal Platforma Paliwowa jest niedostępny, jeżeli użytkownicy nie mają możliwości złożenia sprawozdań, informacji, deklaracji lub zestawień, o których mowa w art. 43f ust. 1 pkt 1. 2. W przypadku stwierdzenia niedostępności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie wystąpienia i przyczynie niedostępności. 3. Jeżeli niedostępność, o której mowa w ust. 2, będzie trwała w ostatnim dniu terminu, do upływu którego istnieje obowiązek złożenia dokumentów, o których mowa w art. 43f ust. 1 pkt 1, termin na złożenie dokumentów wydłuża się o trzy dni od dnia następującego po przywróceniu dostępności Portalu Platforma Paliwowa. 4. Złożenie dokumentów, o których mowa w art. 43f ust. 1 pkt 1, w terminie określonym w ust. 3 uznaje się za złożenie z zachowaniem terminu. 5. Po przywróceniu funkcjonalności Portalu Platforma Paliwowa, Prezes Rządowej Agencji Rezerw Strategicznych niezwłocznie ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowej Agencji Rezerw Strategicznych informację o czasie przywrócenia dostępności tego portalu.”.
 
 **Art. 3.** Ilość utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw w 2025 r. dostosowuje się w terminie 14 dni od dnia wejścia w życie niniejszej ustawy do poziomu wynikającego z obliczeń wykonanych zgodnie z art. 5 ust. 3b lub 3k ustawy zmienianej w art. 1.
 

@@ -30,18 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2016 r. poz. 198 i 1609) wprowadza się następujące zmiany:
 
 - **1)** w art. 28:
-    - **a)** ust. 5 i 6 otrzymują brzmienie: „5. Po odliczeniu rezerwy, o której mowa w ust. 2, minister właściwy do spraw oświaty i wychowania dzieli część oświatową subwencji ogólnej między poszczególne jednostki samorządu terytorialnego, biorąc pod uwagę zakres realizowanych przez te jednostki zadań oświatowych, z wyłączeniem zadań związanych z:
-
-- **1)** dowozem uczniów;
-- **2)** zapewnieniem kształcenia, wychowania i opieki uczniom w wieku do lat 5 w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego, niezwiązanych z wychowaniem i kształceniem specjalnym albo zajęciami rewalidacyjno-wychowawczymi.
-
-6. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych oraz reprezentacji jednostek samorządu terytorialnego, określa, w drodze rozporządzenia, sposób podziału części oświatowej subwencji ogólnej między poszczególne jednostki samorządu terytorialnego, z uwzględnieniem w szczególności:
-
-- **1)** typów i rodzajów szkół i placówek prowadzonych przez te jednostki;
-- **2)** stopni awansu zawodowego nauczycieli;
-- **3)** liczby uczniów w szkołach i placówkach;
-- **4)** liczby dzieci w wieku 6 lat i powyżej, objętych wychowaniem przedszkolnym w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego;
-- **5)** zróżnicowania kwot ustalanych na dzieci objęte wychowaniem przedszkolnym i dzieci realizujące obowiązek szkolny i obowiązek nauki z uwzględnieniem wyższej kwoty na dziecko objęte wychowaniem przedszkolnym w przedszkolach oraz wyższej kwoty w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców.”,
+    - **a)** ust. 5 i 6 otrzymują brzmienie: „5. Po odliczeniu rezerwy, o której mowa w ust. 2, minister właściwy do spraw oświaty i wychowania dzieli część oświatową subwencji ogólnej między poszczególne jednostki samorządu terytorialnego, biorąc pod uwagę zakres realizowanych przez te jednostki zadań oświatowych, z wyłączeniem zadań związanych z: 1) dowozem uczniów; 2) zapewnieniem kształcenia, wychowania i opieki uczniom w wieku do lat 5 w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego, niezwiązanych z wychowaniem i kształceniem specjalnym albo zajęciami rewalidacyjno-wychowawczymi. 6. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii ministra właściwego do spraw finansów publicznych oraz reprezentacji jednostek samorządu terytorialnego, określa, w drodze rozporządzenia, sposób podziału części oświatowej subwencji ogólnej między poszczególne jednostki samorządu terytorialnego, z uwzględnieniem w szczególności: 1) typów i rodzajów szkół i placówek prowadzonych przez te jednostki; 2) stopni awansu zawodowego nauczycieli; 3) liczby uczniów w szkołach i placówkach; 4) liczby dzieci w wieku 6 lat i powyżej, objętych wychowaniem przedszkolnym w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego; 5) zróżnicowania kwot ustalanych na dzieci objęte wychowaniem przedszkolnym i dzieci realizujące obowiązek szkolny i obowiązek nauki z uwzględnieniem wyższej kwoty na dziecko objęte wychowaniem przedszkolnym w przedszkolach oraz wyższej kwoty w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego zlokalizowanych na terenach wiejskich i w miastach do 5000 mieszkańców.”,
     - **b)** dodaje się ust. 7 w brzmieniu: „7. Do podziału części oświatowej subwencji ogólnej przyjmuje się dane zgromadzone w bazie danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984).”;
 
 - **2)** w art. 70c w ust. 4 pkt 6 otrzymuje brzmienie: „6) wysokość kwoty należnej województwu oblicza się jako iloczyn współczynnika udziału, obliczonego w sposób określony w pkt 5, i kwoty, o której mowa odpowiednio w ust. 2–2c.”.
@@ -55,18 +44,7 @@ source: pdf
     - **c)** ust. 6 otrzymuje brzmienie: „6. Wysokość dotacji, o której mowa w ust. 1, obliczona zgodnie z ust. 3, jest pomniejszana o kwotę stanowiącą iloczyn kwoty rocznej w roku, na który jest udzielana dotacja, i liczby dzieci w wieku do lat 5, którym gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, nieprzyjętych w danym roku szkolnym do przedszkola, oddziału przedszkolnego w szkole podstawowej lub innej formy wychowania przedszkolnego lub do niepublicznego przedszkola, o którym mowa w art. 90 ust. 1b, oddziału przedszkolnego w niepublicznej szkole podstawowej, o której mowa w art. 90 ust. 1ba, lub niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 90 ust. 1c, którym wójt (burmistrz, prezydent miasta) wbrew obowiązkowi wynikającemu z ustawy nie wskazał miejsca korzystania z wychowania przedszkolnego, zgodnie z art. 14 ust. 4b.”,
     - **d)** ust. 8 otrzymuje brzmienie: „8. Jeżeli liczba dzieci uwzględniona do obliczenia dotacji na dany rok budżetowy dla danej gminy zgodnie z ust. 3 i 6 jest większa niż średnioroczna liczba dzieci w wieku do lat 5 korzystających z wychowania przedszkolnego na obszarze danej gminy w roku budżetowym, na który została udzielona dotacja, część dotacji pobrana w nadmiernej wysokości podlega zwrotowi do budżetu państwa.”.
 
-**Art. 3.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, z 2014 r. poz. 7 i 811, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) w art. 16 ust. 1 otrzymuje brzmienie: „1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na dotację celową na dofinansowanie zadań gmin w zakresie wychowania przedszkolnego dzieci w wieku do lat 5:
-
-- **1)** w 2017 r. – 1374 mln zł;
-- **2)** w 2018 r. – 1404 mln zł;
-- **3)** w 2019 r. – 1426 mln zł;
-- **4)** w 2020 r. – 1483 mln zł;
-- **5)** w 2021 r. – 1534 mln zł;
-- **6)** w 2022 r. – 1610 mln zł;
-- **7)** w 2023 r. – 1671 mln zł;
-- **8)** w 2024 r. – 1732 mln zł;
-- **9)** w 2025 r. – 1785 mln zł;
-- **10)** w 2026 r. – 1832 mln zł.”.
+**Art. 3.** W ustawie z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, z 2014 r. poz. 7 i 811, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) w art. 16 ust. 1 otrzymuje brzmienie: „1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na dotację celową na dofinansowanie zadań gmin w zakresie wychowania przedszkolnego dzieci w wieku do lat 5: 1) w 2017 r. – 1374 mln zł; 2) w 2018 r. – 1404 mln zł; 3) w 2019 r. – 1426 mln zł; 4) w 2020 r. – 1483 mln zł; 5) w 2021 r. – 1534 mln zł; 6) w 2022 r. – 1610 mln zł; 7) w 2023 r. – 1671 mln zł; 8) w 2024 r. – 1732 mln zł; 9) w 2025 r. – 1785 mln zł; 10) w 2026 r. – 1832 mln zł.”.
 
 **Art. 4.** W ustawie z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010) w art. 1:
 

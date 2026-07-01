@@ -146,18 +146,7 @@ source: pdf
 
 - **5)** art. 630-632 skreśla się;
 - **6)** art. 633 otrzymuje brzmienie: "Art. 633. Do zabezpieczenia spadku właściwy jest sąd, w którego okręgu znajdują się rzeczy będące w chwili otwarcia spadku we władaniu spadkodawcy. Sąd, który nie jest sądem spadku, zawiadomi o dokonanym zabezpieczeniu sąd spadku.";
-- **7)** art. 635 otrzymuje brzmienie: "Art. 635. § 1.Sąd dokonuje zabezpieczenia spadku na wniosek lub z urzędu.
-
-§ 2. Wniosek może zgłosić każdy, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiorcą, a ponadto wykonawca testamentu, współwłaściciel rzeczy, współuprawniony co do praw pozostałych po spadkodawcy, wierzyciel mający pisemny dowód należności przeciwko spadkodawcy oraz właściwy urząd skarbowy.
-
-§ 3. Zabezpieczenia spadku dokonuje się z urzędu, jeżeli sąd poweźmie wiadomość, że spadkobierca jest nieznany, nieobecny lub nie ma pełnej zdolności do czynności prawnych i nie ma ustawowego przedstawiciela.
-
-§ 4. Wykonanie postanowienia o zabezpieczeniu spadku i o spisie inwentarza sąd zleca komornikowi lub innemu organowi.
-
-§ 5. Postanowienie ulega wykonaniu z chwilą jego wydania. Sąd może wstrzymać wykonalność zaskarżonego postanowienia.
-
-§ 6. Na postanowienie sądu w sprawie zabezpieczenia spadku przysługuje zażalenie.";
-
+- **7)** art. 635 otrzymuje brzmienie: "Art. 635. § 1.Sąd dokonuje zabezpieczenia spadku na wniosek lub z urzędu. § 2. Wniosek może zgłosić każdy, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiorcą, a ponadto wykonawca testamentu, współwłaściciel rzeczy, współuprawniony co do praw pozostałych po spadkodawcy, wierzyciel mający pisemny dowód należności przeciwko spadkodawcy oraz właściwy urząd skarbowy. § 3. Zabezpieczenia spadku dokonuje się z urzędu, jeżeli sąd poweźmie wiadomość, że spadkobierca jest nieznany, nieobecny lub nie ma pełnej zdolności do czynności prawnych i nie ma ustawowego przedstawiciela. § 4. Wykonanie postanowienia o zabezpieczeniu spadku i o spisie inwentarza sąd zleca komornikowi lub innemu organowi. § 5. Postanowienie ulega wykonaniu z chwilą jego wydania. Sąd może wstrzymać wykonalność zaskarżonego postanowienia. § 6. Na postanowienie sądu w sprawie zabezpieczenia spadku przysługuje zażalenie.";
 - **8)** w art. 637 w § 1 wyraz "biuro spadku" zastępuje się wyrazem "sąd";
 - **9)** w art. 639, art. 654, art. 677 § 3, art. 679 § 1 i art. 681 użyty w odpowiednim przypadku wyraz "oddział" zastępuje się użytym w takim samym przypadku wyrazem "rozdział";
 - **10)** w art. 640 § 1 otrzymuje brzmienie: "§ 1. Oświadczenie o prostym przyjęciu spadku lub z dobrodziejstwem inwentarza albo o odrzuceniu spadku może być złożone przed notariuszem lub w sądzie rejonowym, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie. Notariusz lub sąd prześle niezwłocznie oświadczenie, wraz z załącznikami, do sądu spadku.";

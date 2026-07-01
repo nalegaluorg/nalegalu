@@ -31,15 +31,12 @@ source: pdf
 
 - **1)** w art. 182 § 6 otrzymuje brzmienie: „§ 6. Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 6 – 7, art. 180 § 2 i art. 183 § 1 stosuje się odpowiednio.”;
 - **2)** w art. 182 § 3 otrzymuje brzmienie: „§ 3. Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 183 § 1 i art. 183 stosuje się odpowiednio.”;
-- **3)** w art. 183: 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 5 – 7 i art. 180 § 2 stosuje się odpowiednio.”,
-    - **a)** w § 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art.
+- **3)** w art. 183:
+    - **a)** w § 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 5 – 7 i art. 180 § 2 stosuje się odpowiednio.”,
     - **b)** § 4 otrzymuje brzmienie: „§ 4. Do dodatkowego urlopu na warunkach urlopu macierzyńskiego przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 6 – 7, art. 180 § 2, art. 182 § 2 – 5 i art. 183 § 1 stosuje się odpowiednio.”;
 
 - **4)** art. 183 otrzymuje brzmienie: „Art. 183 . Pracodawca dopuszcza pracownika po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego lub dodatkowego urlopu na warunkach urlopu macierzyńskiego do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe, na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu lub na innym stanowisku odpowiadającym jego kwalifikacjom zawodowym, za wynagrodzeniem za pracę, jakie otrzymywałby, gdyby nie korzystał z urlopu.”;
-- **5)** art. 186 otrzymuje brzmienie: „Art. 186 § 1. Pracownik uprawniony do urlopu wychowawczego może złożyć pracodawcy pisemny wniosek o obniżenie jego wymiaru czasu pracy do wymiaru nie niższego niż połowa pełnego wymiaru czasu pracy w okresie, w którym mógłby korzystać z takiego urlopu. Pracodawca jest obowiązany uwzględnić wniosek pracownika.
-
-§ 2. Wniosek, o którym mowa w § 1, składa się na dwa tygodnie przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z dniem upływu dwóch tygodni od dnia złożenia wniosku.”;
-
+- **5)** art. 186 otrzymuje brzmienie: „Art. 186 § 1. Pracownik uprawniony do urlopu wychowawczego może złożyć pracodawcy pisemny wniosek o obniżenie jego wymiaru czasu pracy do wymiaru nie niższego niż połowa pełnego wymiaru czasu pracy w okresie, w którym mógłby korzystać z takiego urlopu. Pracodawca jest obowiązany uwzględnić wniosek pracownika. § 2. Wniosek, o którym mowa w § 1, składa się na dwa tygodnie przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z dniem upływu dwóch tygodni od dnia złożenia wniosku.”;
 - **6)** art. 189 otrzymuje brzmienie: „Art. 189 . Jeżeli oboje rodzice lub opiekunowie dziecka są zatrudnieni, z uprawnień określonych w art. 148 pkt 3, art. 178 § 2, art. 182 § 1, art. 186 § 1 i 2, art. 186 § 1 i art. 188 może korzystać jedno z nich.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

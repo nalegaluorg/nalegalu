@@ -30,22 +30,9 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Objęcie ubezpieczeniem na wniosek następuje od dnia wskazanego we wniosku o objęcie ubezpieczeniem, nie wcześniej jednak niż od dnia, w którym wniosek został złożony.”;
-- **2)** art. 3a otrzymuje brzmienie: „Art. 3a. 1. Ubezpieczenie ustaje od dnia następującego po dniu, w którym ustały okoliczności uzasadniające podleganie ubezpieczeniu, z zastrzeżeniem ust. 3.
-
-2. Ubezpieczenie na wniosek ustaje także:
-
-- **1)** od dnia wskazanego w oświadczeniu ubezpieczonego, nie wcześniej jednak niż od dnia, w którym to oświadczenie zostało złożone Kasie, albo
-- **2)** od pierwszego dnia okresu ubezpieczenia, za który składka nie została opłacona.
-
-3. Jeżeli wraz z ustaniem okoliczności uzasadniających podleganie ubezpieczeniu z mocy ustawy następują okoliczności uzasadniające objęcie ubezpieczeniem na wniosek, ubezpieczenie istniejące z mocy ustawy ustaje od dnia następującego po dniu, w którym ubezpieczonemu doręczono decyzję stwierdzającą ustanie ubezpieczenia z mocy ustawy.
-
-4. Jeżeli złożony został wniosek o rentę lub emeryturę, obowiązek ubezpieczenia ustaje od dnia następującego po dniu, w którym wydana została decyzja o przyznaniu świadczenia, jednak nie wcześniej niż od dnia, w którym ubezpieczony nabył to prawo.”;
-
+- **2)** art. 3a otrzymuje brzmienie: „Art. 3a. 1. Ubezpieczenie ustaje od dnia następującego po dniu, w którym ustały okoliczności uzasadniające podleganie ubezpieczeniu, z zastrzeżeniem ust. 3. 2. Ubezpieczenie na wniosek ustaje także: 1) od dnia wskazanego w oświadczeniu ubezpieczonego, nie wcześniej jednak niż od dnia, w którym to oświadczenie zostało złożone Kasie, albo 2) od pierwszego dnia okresu ubezpieczenia, za który składka nie została opłacona. 3. Jeżeli wraz z ustaniem okoliczności uzasadniających podleganie ubezpieczeniu z mocy ustawy następują okoliczności uzasadniające objęcie ubezpieczeniem na wniosek, ubezpieczenie istniejące z mocy ustawy ustaje od dnia następującego po dniu, w którym ubezpieczonemu doręczono decyzję stwierdzającą ustanie ubezpieczenia z mocy ustawy. 4. Jeżeli złożony został wniosek o rentę lub emeryturę, obowiązek ubezpieczenia ustaje od dnia następującego po dniu, w którym wydana została decyzja o przyznaniu świadczenia, jednak nie wcześniej niż od dnia, w którym ubezpieczony nabył to prawo.”;
 - **3)** w art. 4 ust. 2 otrzymuje brzmienie: „2. Obowiązek opłacenia składki powstaje od dnia, w którym powstało ubezpieczenie, a ustaje od dnia, w którym ustało ubezpieczenie.”;
-- **4)** w art. 5a ust. 5 i 6 otrzymują brzmienie: „5. Niezachowanie terminu złożenia oświadczenia, o którym mowa w ust. 1 pkt 1, jest równoznaczne z ustaniem ubezpieczenia od dnia rozpoczęcia wykonywania pozarolniczej działalności gospodarczej lub współpracy przy prowadzeniu tej działalności.
-
-6. Niezachowanie terminu złożenia zaświadczenia, o którym mowa w ust. 4, jest równoznaczne z ustaniem ubezpieczenia z dniem, do którego rolnik lub domownik obowiązany był złożyć zaświadczenie w Kasie, chyba że ten rolnik lub domownik zaprzestał prowadzenia pozarolniczej działalności gospodarczej w sposób trwały lub okresowy przed upływem terminu na złożenie tego zaświadczenia.”;
-
+- **4)** w art. 5a ust. 5 i 6 otrzymują brzmienie: „5. Niezachowanie terminu złożenia oświadczenia, o którym mowa w ust. 1 pkt 1, jest równoznaczne z ustaniem ubezpieczenia od dnia rozpoczęcia wykonywania pozarolniczej działalności gospodarczej lub współpracy przy prowadzeniu tej działalności. 6. Niezachowanie terminu złożenia zaświadczenia, o którym mowa w ust. 4, jest równoznaczne z ustaniem ubezpieczenia z dniem, do którego rolnik lub domownik obowiązany był złożyć zaświadczenie w Kasie, chyba że ten rolnik lub domownik zaprzestał prowadzenia pozarolniczej działalności gospodarczej w sposób trwały lub okresowy przed upływem terminu na złożenie tego zaświadczenia.”;
 - **5)** w art. 8:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Za każdego ubezpieczonego opłaca się miesięczną składkę w równej wysokości, z zastrzeżeniem ust. 3.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku gdy okres podlegania ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu jest krótszy niż miesiąc, wysokość składki oblicza się proporcjonalnie do liczby dni podlegania temu ubezpieczeniu.”,
@@ -55,16 +42,7 @@ source: pdf
 - **6)** w art. 16 w ust. 2 pkt 2 otrzymuje brzmienie: „2) osobę, która podlegała ubezpieczeniu jako rolnik i zaprzestała prowadzenia działalności rolniczej, nie nabywając prawa do emerytury lub renty z ubezpieczenia, jeżeli podlegała ubezpieczeniu emerytalnorentowemu przez okres co najmniej 12 lat i 6 miesięcy;”;
 - **7)** w art. 17:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Składka miesięczna za każdego ubezpieczonego wynosi 10 % emerytury podstawowej.”,
-    - **b)** dodaje się ust. 3–5 w brzmieniu: „3. W przypadku gdy okres podlegania ubezpieczeniu emerytalnorentowemu jest krótszy niż miesiąc, wysokość składki oblicza się proporcjonalnie do liczby dni podlegania ubezpieczeniu w tym miesiącu.
-
-4. Rolnik, którego gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 50 ha przeliczeniowych, opłaca dodatkową składkę miesięczną w wysokości:
-
-- **1)** 12 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych do 100 ha przeliczeniowych;
-- **2)** 24 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 100 ha przeliczeniowych do 150 ha przeliczeniowych;
-- **3)** 36 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 150 ha przeliczeniowych do 300 ha przeliczeniowych;
-- **4)** 48 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 300 ha przeliczeniowych.
-
-5. W przypadku zmiany obszaru użytków rolnych gospodarstwa rolnego powodującego zmianę wymiaru dodatkowej składki miesięcznej, o której mowa w ust. 4, rolnikowi obowiązanemu do opłacania tej składki wydaje się decyzję w tej sprawie.”;
+    - **b)** dodaje się ust. 3–5 w brzmieniu: „3. W przypadku gdy okres podlegania ubezpieczeniu emerytalnorentowemu jest krótszy niż miesiąc, wysokość składki oblicza się proporcjonalnie do liczby dni podlegania ubezpieczeniu w tym miesiącu. 4. Rolnik, którego gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 50 ha przeliczeniowych, opłaca dodatkową składkę miesięczną w wysokości: 1) 12 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych do 100 ha przeliczeniowych; 2) 24 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 100 ha przeliczeniowych do 150 ha przeliczeniowych; 3) 36 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 150 ha przeliczeniowych do 300 ha przeliczeniowych; 4) 48 % emerytury podstawowej – w przypadku gdy gospodarstwo rolne obejmuje obszar użytków rolnych powyżej 300 ha przeliczeniowych. 5. W przypadku zmiany obszaru użytków rolnych gospodarstwa rolnego powodującego zmianę wymiaru dodatkowej składki miesięcznej, o której mowa w ust. 4, rolnikowi obowiązanemu do opłacania tej składki wydaje się decyzję w tej sprawie.”;
 
 - **8)** w art. 19:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) podlegał ubezpieczeniu emerytalno-rentowemu przez okres co najmniej 25 lat, z uwzględnieniem art. 20.”,
@@ -72,19 +50,12 @@ source: pdf
     - **c)** ust. 3 otrzymuje brzmienie: „3. Jeżeli zaprzestanie prowadzenia działalności rolniczej jest spowodowane wywłaszczeniem gruntów wchodzących w skład gospodarstwa rolnego, ich zbyciem na cel uzasadniający wywłaszczenie albo trwałym wyłączeniem, zgodnie z obowiązującymi przepisami, użytków rolnych z produkcji rolniczej z przyczyn niezależnych od rolnika, warunek przewidziany w ust. 2 pkt 2 uważa się za spełniony, jeżeli rolnik podlegał ubezpieczeniu emerytalno-rentowemu przez okres co najmniej 12 lat i 6 miesięcy.”;
 
 - **9)** w art. 21:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Warunek podlegania ubezpieczeniu emerytalno-rentowemu przez wymagany okres uważa się za spełniony, jeżeli okres ubezpieczenia emerytalno-rentowego ubezpieczonego wynosi co najmniej:
-
-- **1)** rok – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku do 20 lat;
-- **2)** 2 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 20 lat do 22 lat;
-- **3)** 3 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 22 lat do 25 lat;
-- **4)** 4 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 25 lat do 30 lat;
-- **5)** 5 lat – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 30 lat.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Warunek podlegania ubezpieczeniu emerytalno-rentowemu przez wymagany okres uważa się za spełniony, jeżeli okres ubezpieczenia emerytalno-rentowego ubezpieczonego wynosi co najmniej: 1) rok – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku do 20 lat; 2) 2 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 20 lat do 22 lat; 3) 3 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 22 lat do 25 lat; 4) 4 lata – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 25 lat do 30 lat; 5) 5 lat – jeżeli całkowita niezdolność do pracy w gospodarstwie rolnym powstała w wieku powyżej 30 lat.”,
     - **b)** ust. 8 otrzymuje brzmienie: „8. Okres 5 lat, o których mowa w ust. 2 pkt 5, powinien przypadać w okresie ostatnich 10 lat przed złożeniem wniosku o przyznanie renty rolniczej z tytułu niezdolności do pracy.”;
 
 - **10)** art. 21a otrzymuje brzmienie: „Art. 21a. Przy ustalaniu liczby lat podlegania ubezpieczeniu emerytalnorentowemu dodaje się poszczególne okresy podlegania ubezpieczeniu obejmujące lata, miesiące i dni. Okresy niepełnych miesięcy podlegania ubezpieczeniu oblicza się w dniach. Sumę dni zamienia się na miesiące, przyjmując za miesiąc 30 dni kalendarzowych; sumę miesięcy zamienia się na lata, przyjmując pełne 12 miesięcy za jeden rok.”;
 - **11)** w art. 25 ust. 6 otrzymuje brzmienie: „6. Jeżeli uprawniony do renty rolniczej z tytułu niezdolności do pracy podlegał ubezpieczeniu emerytalno-rentowemu łącznie z okresami, o których mowa w ust. 2 i 2a, krócej niż przez 5 lat, przyjmuje się, że okres opłacania składki wynosi 5 lat.”;
-- **12)** w art. 36 w ust. 1 po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) zmiany warunków ubezpieczenia, a także stwierdzenia obowiązku opłacania składki, o której mowa w art. 17 ust. 2;
-- **1b)** stwierdzenia obowiązku opłacania dodatkowej składki miesięcznej, o której mowa w art. 17 ust. 4;”;
+- **12)** w art. 36 w ust. 1 po pkt 1 dodaje się pkt 1a i 1b w brzmieniu: „1a) zmiany warunków ubezpieczenia, a także stwierdzenia obowiązku opłacania składki, o której mowa w art. 17 ust. 2; 1b) stwierdzenia obowiązku opłacania dodatkowej składki miesięcznej, o której mowa w art. 17 ust. 4;”;
 - **13)** w art. 39 ust. 4 otrzymuje brzmienie: „4. W razie zmiany stanu faktycznego lub stanu prawnego, na podstawie którego wydano decyzję o ustaleniu podlegania ubezpieczeniu, wydaje się nową decyzję w tej sprawie. Jeżeli jednak zmianie ulegnie jedynie wysokość miesięcznych składek, rolnikowi obowiązanemu do ich opłacania doręcza się informację w tej sprawie.”.
 
 **Art. 2.** Przy ustalaniu liczby lat podlegania ubezpieczeniu emerytalno-rentowemu określonemu w ustawie, o której mowa w art. 1, w okresach przypadających przed dniem 1 października 2009 r., zalicza się cały kwartał, w którym powstało ubezpieczenie; to samo dotyczy kwartału, w którym ubezpieczenie ustało. Poszczególne okresy podlegania ubezpieczeniu obejmujące kwartały dodaje się, przyjmując 4 kwartały za jeden rok. Okresy niepełnych lat oblicza się w miesiącach, przyjmując, że jeden kwartał to 3 miesi ące, a 12 miesięcy to jeden rok.

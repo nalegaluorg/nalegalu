@@ -27,13 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/195/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418, z późn. zm. ) w art. 2 pkt 1 otrzymuje brzmienie: „1) był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów:
-
-U. Nr 101, poz. 580) lub
-
-- **a)** art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz.
-- **b)** art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. Nr 112, poz. 934), lub
-- **c)** § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. Nr 54, poz. 489) – oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;”.
+**Art. 1.** W ustawie z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. Nr 169, poz. 1418, z późn. zm. ) w art. 2 pkt 1 otrzymuje brzmienie: „1) był w dniu 1 września 1939 r. obywatelem polskim i miał miejsce zamieszkania na byłym terytorium Rzeczypospolitej Polskiej w rozumieniu przepisów: a) art. 3 ustawy z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych wewnętrznych (Dz. U. Nr 101, poz. 580) lub b) art. 24 Kodeksu Postępowania Cywilnego (Dz. U. z 1932 r. Nr 112, poz. 934), lub c) § 3–10 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 maja 1934 r. wydanego w porozumieniu z Ministrem Skarbu co do § 2 ust. 3–5, z Ministrem Spraw Wojskowych co do §§ 20, 21, 22, 24 ust. 3, § 49 ust. 1 i 2, § 55 i § 56 oraz z Ministrem Spraw Zagranicznych co do § 18 ust. 1 i 2, § 51 i § 55, o meldunkach i księgach ludności (Dz. U. Nr 54, poz. 489) – oraz opuścił byłe terytorium Rzeczypospolitej Polskiej z przyczyn, o których mowa w art. 1, lub z tych przyczyn nie mógł na nie powrócić;”.
 
 **Art. 2.**
 

@@ -34,21 +34,15 @@ source: pdf
 - **3)** w art. 7 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, nadaje Agencji statut, biorąc pod uwagę zakres jej zadań.”;
 - **4)** w art. 9:
     - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Prezesa Agencji powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw rozwoju wsi, spośród osób należących do państwowego zasobu kadrowego.”,
-    - **b)** ust. 2a i 3 otrzymują brzmienie: „2a. Wiceprezesa Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji, spośród osób należących do pań stwowego zasobu kadrowego. Minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji odwołuje Wiceprezesa Agencji.
-
-3. Minister właściwy do spraw rozwoju wsi składa Sejmowi Rzeczypospolitej Polskiej roczny raport z działalności Agencji.”;
+    - **b)** ust. 2a i 3 otrzymują brzmienie: „2a. Wiceprezesa Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji, spośród osób należących do pań stwowego zasobu kadrowego. Minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji odwołuje Wiceprezesa Agencji. 3. Minister właściwy do spraw rozwoju wsi składa Sejmowi Rzeczypospolitej Polskiej roczny raport z działalności Agencji.”;
 
 - **5)** w art. 10:
-    - **a)** ust. 4 i 5 otrzymują brzmienie: „4. Przewodniczącego Rady Nadzorczej oraz jej członków powołuje, z zastrzeżeniem ust. 5, i odwołuje minister właściwy do spraw rozwoju wsi.
+    - **a)** ust. 4 i 5 otrzymują brzmienie: „4. Przewodniczącego Rady Nadzorczej oraz jej członków powołuje, z zastrzeżeniem ust. 5, i odwołuje minister właściwy do spraw rozwoju wsi. 5. Powołanie członków Rady Nadzorczej, o których mowa w ust. 1 pkt 4, następuje po ich wyłonieniu na zebraniu kandydatów. Minister właściwy do spraw rozwoju wsi zwołuje zebranie kandydatów i ustala regulamin wyłonienia tych kandydatów na członków Rady Nadzorczej.”,
+    - **b)** ust. 12 otrzymuje brzmienie: „12. Rada Nadzorcza przedstawia swoje opinie ministrowi właściwemu do spraw rozwoju wsi.”;
 
-5. Powołanie członków Rady Nadzorczej, o których mowa w ust. 1 pkt 4, następuje po ich wyłonieniu na zebraniu kandydatów. Minister właściwy do spraw rozwoju wsi zwołuje zebranie kandydatów i ustala regulamin wyłonienia tych kandydatów na członków Rady Nadzorczej.”,
-
-- **b)** ust. 12 otrzymuje brzmienie: „12. Rada Nadzorcza przedstawia swoje opinie ministrowi właściwemu do spraw rozwoju wsi.”;
-- **6)** w art. 20: 20b ust. 2, oraz funduszu mienia Zasobu, o którym mowa w art. 20c ust.
+- **6)** w art. 20:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Roczne plany finansowe, o których mowa w ust. 2, zatwierdza minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw Skarbu Państwa.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art.
-
-2. ”;
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art. 20b ust. 2, oraz funduszu mienia Zasobu, o którym mowa w art. 20c ust. 2.”;
 
 - **7)** w art. 20d ust. 3-5 otrzymują brzmienie „3. Roczne sprawozdanie finansowe Agencji oraz roczne sprawozdanie finansowe z gospodarowania mieniem Zasobu, sporządzane z zastosowaniem takich samych metod i w takim samym układzie, podlegają badaniu przez biegłych rewidentów wybranych przez Radę Nadzorczą.
 

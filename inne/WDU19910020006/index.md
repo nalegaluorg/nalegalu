@@ -52,10 +52,8 @@ d) dotychczasowy ust.5 oznacza się jako ust.4;
 11) art. 46 otrzymuje brzmienie: "Art. 46. Z chwilą likwidacji przedsiębiorstwa mienie tego przedsiębiorstwa pozostałe po likwidacji przejmuje Skarb Państwa. O przeznaczeniu tego majątku decyduje organ założycielski zgodnie z ustawą o prywatyzacji przedsiębiorstw";.
 12) wart.50 ust.1 oraz oznaczenie ust.2 skreśla się.
 
-**Art. 2.** W ustawie z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99) w art.2 w ust. 4 dodaje się zdanie drugie w brzmieniu: "Prowizja, o której mowa w art.398 ustawy o przedsiębiorstwach państwowych, przysługuje również dyrektorom powołanym przed dniem wejścia w życie ustawy".. W ustawie z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. Nr 24, poz. 123, z 1986 r.r 17, poz. 88, z 1987r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57 i z 1990r. Nr 17, poz. 99) w art.24 wprowadza się następujące zmiany: I) wust.1:
+**Art. 2.** W ustawie z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99) w art.2 w ust. 4 dodaje się zdanie drugie w brzmieniu: "Prowizja, o której mowa w art.398 ustawy o przedsiębiorstwach państwowych, przysługuje również dyrektorom powołanym przed dniem wejścia w życie ustawy".. W ustawie z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. Nr 24, poz. 123, z 1986 r.r 17, poz. 88, z 1987r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57 i z 1990r. Nr 17, poz. 99) w art.24 wprowadza się następujące zmiany: I) wust.1: a) pkt 5 otrzymuje brzmienie: "5) wyrażanie zgody na oddawanie środków trwałych przedsiębiorstwa osobom prawnym lub fizycznym do korzystania z nich w formie przewidzianej w prawie cywilnym"., b) w pkt 9 dodaje się wyrazy "z zastrzeżeniem przepisu ust.3",
 
-- **a)** pkt 5 otrzymuje brzmienie: "5) wyrażanie zgody na oddawanie środków trwałych przedsiębiorstwa osobom prawnym lub fizycznym do korzystania z nich w formie przewidzianej w prawie cywilnym".,
-- **b)** w pkt 9 dodaje się wyrazy "z zastrzeżeniem przepisu ust.3",
 - **2)** po ust.2 dodaje się ust.3 w brzmieniu: "3. Rada pracownicza dokonując podziału, o którym mowa w ust.l pkt 9, powinna zapewnić niezbędne środki na prowizje od zysku zgodnie z odrębnymi przepisami.".
 
 **Art. 4.**

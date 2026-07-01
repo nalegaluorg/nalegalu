@@ -30,11 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2019 r. poz. 1950) wprowadza się następujące zmiany:
 
 - **1)** w art. 115 po § 22 dodaje się § 22a w brzmieniu: „§ 22a. Adopcją jest nabycie władzy rodzicielskiej nad dzieckiem przez inną osobę niż ta, od której dziecko pochodzi.”;
-- **2)** w art. 211a dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Tej samej karze podlega, kto, będąc osobą, której przysługuje władza rodzicielska nad dzieckiem, wyraża zgodę na adopcję tego dziecka przez inną osobę:
-- **1)** w celu osiągnięcia korzyści majątkowej lub osobistej, zatajając ten cel przed sądem orzekającym w postępowaniu w sprawie o przysposobienie, a w przypadku wyrażenia przez rodzica zgody na przysposobienie dziecka w przyszłości bez wskazania osoby przysposabiającego – przed sądem przyjmującym oświadczenie o wyrażeniu tej zgody,
-- **2)** z pominięciem postępowania w sprawie o przysposobienie.
-
-§ 3. Tej samej karze podlega, kto wyraża zgodę na adopcję dziecka przez siebie w warunkach, o których mowa w § 2.”.
+- **2)** w art. 211a dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Tej samej karze podlega, kto, będąc osobą, której przysługuje władza rodzicielska nad dzieckiem, wyraża zgodę na adopcję tego dziecka przez inną osobę: 1) w celu osiągnięcia korzyści majątkowej lub osobistej, zatajając ten cel przed sądem orzekającym w postępowaniu w sprawie o przysposobienie, a w przypadku wyrażenia przez rodzica zgody na przysposobienie dziecka w przyszłości bez wskazania osoby przysposabiającego – przed sądem przyjmującym oświadczenie o wyrażeniu tej zgody, 2) z pominięciem postępowania w sprawie o przysposobienie. § 3. Tej samej karze podlega, kto wyraża zgodę na adopcję dziecka przez siebie w warunkach, o których mowa w § 2.”.
 
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ) wprowadza się następujące zmiany:
 

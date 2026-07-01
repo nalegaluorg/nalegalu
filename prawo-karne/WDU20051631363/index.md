@@ -36,18 +36,8 @@ source: pdf
 
 § 1b. Sąd orzeka zakaz, o którym mowa w § 1a, na zawsze w razie ponownego skazania sprawcy w warunkach określonych w tym przepisie.”;
 
-- **3)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. § 1. Sąd moż e orzec obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu w razie skazania za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego; obowiązek lub zakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu.
-
-§ 2. Sąd orzeka obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu w razie skazania na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego; obowiązek lub zakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu.
-
-§ 3. Sąd może orzec obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu na zawsze w razie ponownego skazania sprawcy w warunkach określonych w § 2.”;
-
-- **4)** w art. 43 § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli ustawa nie stanowi inaczej, pozbawienie praw publicznych oraz obowiązek lub zakazy wymienione w art. 39:
-- **1)** pkt 2 i 3 orzeka się w latach, od roku do lat 10,
-- **2)** pkt 2a i 2b orzeka się w latach, od roku do lat 15.
-
-§ 2. Pozbawienie praw publicznych, obowiązek lub zakaz obowiązuje od uprawomocnienia się orzeczenia; okres, na który środek orzeczono, nie biegnie w czasie odbywania kary pozbawienia wolności, chociażby orzeczonej za inne przestępstwo.”;
-
+- **3)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. § 1. Sąd moż e orzec obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu w razie skazania za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego; obowiązek lub zakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu. § 2. Sąd orzeka obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu w razie skazania na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego; obowiązek lub zakaz może być połączony z obowiązkiem zgłaszania się do Policji lub innego wyznaczonego organu w określonych odstępach czasu. § 3. Sąd może orzec obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu na zawsze w razie ponownego skazania sprawcy w warunkach określonych w § 2.”;
+- **4)** w art. 43 § 1 i 2 otrzymują brzmienie: „§ 1. Jeżeli ustawa nie stanowi inaczej, pozbawienie praw publicznych oraz obowiązek lub zakazy wymienione w art. 39: 1) pkt 2 i 3 orzeka się w latach, od roku do lat 10, 2) pkt 2a i 2b orzeka się w latach, od roku do lat 15. § 2. Pozbawienie praw publicznych, obowiązek lub zakaz obowiązuje od uprawomocnienia się orzeczenia; okres, na który środek orzeczono, nie biegnie w czasie odbywania kary pozbawienia wolności, chociażby orzeczonej za inne przestępstwo.”;
 - **5)** art. 50 otrzymuje brzmienie: „Art. 50. Sąd może orzec podanie wyroku do publicznej wiadomości w określony sposób, jeżeli uzna to za celowe, w szczególności ze względu na społeczne oddziaływanie skazania, o ile nie narusza to interesu pokrzywdzonego.”;
 - **6)** w art. 63 § 2 otrzymuje brzmienie: „§ 2. Na poczet orzeczonych środków karnych, o których mowa w art. 39 pkt 23, zalicza się okres rzeczywistego stosowania odpowiadających im rodzajowo środków zapobiegawczych, wymienionych w art. 275 lub 276 Kodeksu postępowania karnego.”;
 - **7)** w art. 72 w § 1:
@@ -56,58 +46,17 @@ source: pdf
 
 - **8)** w art. 73 § 2 otrzymuje brzmienie: „§ 2. Dozór jest obowiązkowy wobec młodocianego sprawcy przestępstwa umyślnego, sprawcy określonego w art. 64 § 2, a także wobec sprawcy przestępstwa popełnionego w związku z zaburzeniami preferencji seksualnych.”;
 - **9)** w art. 84 § 2 otrzymuje brzmienie: „§ 2. Przepisu § 1 nie stosuje się, jeżeli środki karne wymienione w art. 39 pkt 2-3 orzeczono na podstawie art. 41 § 1a, art. 41a § 3 albo art. 42 § 2 lub 3.”;
-- **10)** po art. 84 dodaje się art. 84a w brzmieniu: „Art. 84a. § 1. Obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu, orzeczone na zawsze, można uznać za wykonane, jeżeli zachowanie skazanego po popełnieniu przestępstwa i w czasie wykonania kary uzasadniają przekonanie, iż po uchyleniu obowiązku lub zakazu nie popełni on ponownie przestępstwa przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego, a obowiązek lub zakaz był wykonywany co najmniej 10 lat.
-
-§ 2. W postępowaniu w przedmiocie dalszego stosowania obowiązku lub zakazu, o których mowa w § 1, sąd zasięga opinii biegłych.
-
-§ 3. Wniosku skazanego lub jego obrońcy, złożonego przed upływem 2 lat od wydania postanowienia o odmowie uznania obowiązku lub zakazu, o których mowa w § 1, za wykonany nie rozpoznaje się.”;
-
+- **10)** po art. 84 dodaje się art. 84a w brzmieniu: „Art. 84a. § 1. Obowiązek powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakaz kontaktowania się z określonymi osobami lub zakaz opuszczania określonego miejsca pobytu bez zgody sądu, orzeczone na zawsze, można uznać za wykonane, jeżeli zachowanie skazanego po popełnieniu przestępstwa i w czasie wykonania kary uzasadniają przekonanie, iż po uchyleniu obowiązku lub zakazu nie popełni on ponownie przestępstwa przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego, a obowiązek lub zakaz był wykonywany co najmniej 10 lat. § 2. W postępowaniu w przedmiocie dalszego stosowania obowiązku lub zakazu, o których mowa w § 1, sąd zasięga opinii biegłych. § 3. Wniosku skazanego lub jego obrońcy, złożonego przed upływem 2 lat od wydania postanowienia o odmowie uznania obowiązku lub zakazu, o których mowa w § 1, za wykonany nie rozpoznaje się.”;
 - **11)** w art. 90 § 2 otrzymuje brzmienie: „§ 2. W razie orzeczenia za zbiegające się przestępstwa pozbawienia praw publicznych, zakazów lub obowiązku tego samego rodzaju, sąd stosuje odpowiednio przepisy o karze łącznej.”;
-- **12)** po art. 95 dodaje się art. 95a w brzmieniu: „Art. 95a. § 1. Skazując sprawcę na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zakłóceniem jego czynności psychicznych o podłożu seksualnym, innym niż choroba psychiczna, sąd może orzec umieszczenie sprawcy, po odbyciu tej kary w zakładzie zamkniętym albo skierowanie go na leczenie ambulatoryjne.
-
-§ 2. Potrzebę wykonywania orzeczonego środka, o którym mowa w § 1, sąd ustala w okresie do 6 miesięcy przed przewidywanym warunkowym zwolnieniem lub przed wykonaniem kary.
-
-§ 3. Przepisy art. 94 § 2 i 3 stosuje się odpowiednio.”;
-
-- **13)** art. 99 otrzymuje brzmienie: „Art. 99. § 1. Jeżeli sprawca dopuścił się czynu zabronionego w stanie niepoczytalności określonej w art. 31 § 1, sąd może orzec tytułem środka zabezpieczającego obowiązek lub zakazy wymienione w art. 39 pkt 2-3, jeżeli jest to konieczne ze względu na ochronę porządku prawnego, oraz przepadek wymieniony w art. 39 pkt
-
-4.
-
-§ 2. Wymienione w § 1 obowiązek lub zakazy orzeka się bez określenia terminu; sąd uchyla obowiązek lub zakazy, jeżeli ustały przyczyny ich orzeczenia.”;
-
-- **14)** po art. 106 dodaje się art. 106a w brzmieniu: „Art. 106a. Nie podlega zatarciu skazanie na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej i obyczajności, jeżeli pokrzywdzony był małoletnim poniżej lat 15.”; [15) w art. 148 § 2 otrzymuje brzmienie: „§ 2. Kto zabija człowieka:
-- **1)** ze szczególnym okrucieństwem,
-- **2)** w związku z wzięciem zakładnika, zgwałceniem albo rozbojem,
-- **3)** w wyniku motywacji zasługującej na szczególne potępienie,
-- **4)** z użyciem broni palnej lub materiałów wybuchowych, podlega karze 25 lat pozbawienia wolności albo karze dożywotniego pozbawienia wolności.”;] pkt 15 niezgodny z Konstytucją - wyrok TK (Dz.U. z 2009 r. Nr 63, poz. 533)
-- **16)** w art. 178 uchyla się § 2;
-- **17)** w art. 178a uchyla się § 3;
-- **18)** art. 197 otrzymuje brzmienie: „Art. 197. § 1. Kto przemocą, groźbą bezprawną lub podstępem doprowadza inną osobę do obcowania płciowego, podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 2. Jeżeli sprawca, w sposób określony w § 1, doprowadza inną osobę do poddania się innej czynności seksualnej albo wykonania takiej czynności, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 3. Jeżeli sprawca dopuszcza się zgwałcenia wspólnie z inną osobą , podlega karze pozbawienia wolności na czas nie krótszy od lat
-
-3.
-
-§ 4. Jeżeli sprawca czynu określonego w §1-3 działa ze szczególnym okrucieństwem, podlega karze pozbawienia wolności na czas nie krótszy od lat 5.”;
-
-- **19)** w art. 199 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Jeżeli czyn określony w § 1 został popełniony na szkodę małoletniego, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat
-
-5.
-
-§ 3. Karze określonej w § 2 podlega, kto doprowadza małoletniego do obcowania płciowego lub poddania się innej czynności seksualnej albo do wykonania takiej czynności, nadużywając zaufania lub udzielając mu korzyści majątkowej lub osobistej, albo jej obietnicy.”;
-
-- **20)** art. 200 otrzymuje brzmienie: „Art. 200. § 1. Kto obcuje płciowo z małoletnim poniżej lat 15 lub dopuszcza się wobec takiej osoby innej czynności seksualnej lub doprowadza ją do poddania się takim czynnościom albo do ich wykonania, podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 2. Tej samej karze podlega, kto w celu zaspokojenia seksualnego prezentuje małoletniemu poniżej lat 15 wykonanie czynności seksualnej.”;
-
+- **12)** po art. 95 dodaje się art. 95a w brzmieniu: „Art. 95a. § 1. Skazując sprawcę na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zakłóceniem jego czynności psychicznych o podłożu seksualnym, innym niż choroba psychiczna, sąd może orzec umieszczenie sprawcy, po odbyciu tej kary w zakładzie zamkniętym albo skierowanie go na leczenie ambulatoryjne. § 2. Potrzebę wykonywania orzeczonego środka, o którym mowa w § 1, sąd ustala w okresie do 6 miesięcy przed przewidywanym warunkowym zwolnieniem lub przed wykonaniem kary. § 3. Przepisy art. 94 § 2 i 3 stosuje się odpowiednio.”;
+- **13)** art. 99 otrzymuje brzmienie: „Art. 99. § 1. Jeżeli sprawca dopuścił się czynu zabronionego w stanie niepoczytalności określonej w art. 31 § 1, sąd może orzec tytułem środka zabezpieczającego obowiązek lub zakazy wymienione w art. 39 pkt 2-3, jeżeli jest to konieczne ze względu na ochronę porządku prawnego, oraz przepadek wymieniony w art. 39 pkt 4. § 2. Wymienione w § 1 obowiązek lub zakazy orzeka się bez określenia terminu; sąd uchyla obowiązek lub zakazy, jeżeli ustały przyczyny ich orzeczenia.”;
+- **14)** po art. 106 dodaje się art. 106a w brzmieniu: „Art. 106a. Nie podlega zatarciu skazanie na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo przeciwko wolności seksualnej i obyczajności, jeżeli pokrzywdzony był małoletnim poniżej lat 15.”; [15) w art. 148 § 2 otrzymuje brzmienie: „§ 2. Kto zabija człowieka: 1) ze szczególnym okrucieństwem, 2) w związku z wzięciem zakładnika, zgwałceniem albo rozbojem, 3) w wyniku motywacji zasługującej na szczególne potępienie, 4) z użyciem broni palnej lub materiałów wybuchowych, podlega karze 25 lat pozbawienia wolności albo karze dożywotniego pozbawienia wolności.”;] pkt 15 niezgodny z Konstytucją - wyrok TK (Dz.U. z 2009 r. Nr 63, poz. 533) 16) w art. 178 uchyla się § 2; 17) w art. 178a uchyla się § 3; 18) art. 197 otrzymuje brzmienie: „Art. 197. § 1. Kto przemocą, groźbą bezprawną lub podstępem doprowadza inną osobę do obcowania płciowego, podlega karze pozbawienia wolności od lat 2 do 12. § 2. Jeżeli sprawca, w sposób określony w § 1, doprowadza inną osobę do poddania się innej czynności seksualnej albo wykonania takiej czynności, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 3. Jeżeli sprawca dopuszcza się zgwałcenia wspólnie z inną osobą , podlega karze pozbawienia wolności na czas nie krótszy od lat 3. § 4. Jeżeli sprawca czynu określonego w §1-3 działa ze szczególnym okrucieństwem, podlega karze pozbawienia wolności na czas nie krótszy od lat 5.”;
+- **19)** w art. 199 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu: „§ 2. Jeżeli czyn określony w § 1 został popełniony na szkodę małoletniego, sprawca podlega karze pozbawienia wolności od 3 miesięcy do lat 5. § 3. Karze określonej w § 2 podlega, kto doprowadza małoletniego do obcowania płciowego lub poddania się innej czynności seksualnej albo do wykonania takiej czynności, nadużywając zaufania lub udzielając mu korzyści majątkowej lub osobistej, albo jej obietnicy.”;
+- **20)** art. 200 otrzymuje brzmienie: „Art. 200. § 1. Kto obcuje płciowo z małoletnim poniżej lat 15 lub dopuszcza się wobec takiej osoby innej czynności seksualnej lub doprowadza ją do poddania się takim czynnościom albo do ich wykonania, podlega karze pozbawienia wolności od lat 2 do 12. § 2. Tej samej karze podlega, kto w celu zaspokojenia seksualnego prezentuje małoletniemu poniżej lat 15 wykonanie czynności seksualnej.”;
 - **21)** w art. 202:
-    - **a)** § 3 i 4 otrzymują brzmienie: „§ 3. Kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, przechowuje lub posiada albo rozpowszechnia lub publicznie prezentuje treści pornograficzne z udziałem małoletniego albo treści pornograficzne związane z prezentowaniem przemocy lub posługiwaniem się zwierzęciem, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+    - **a)** § 3 i 4 otrzymują brzmienie: „§ 3. Kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, przechowuje lub posiada albo rozpowszechnia lub publicznie prezentuje treści pornograficzne z udziałem małoletniego albo treści pornograficzne związane z prezentowaniem przemocy lub posługiwaniem się zwierzęciem, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 4. Kto utrwala treści pornograficzne z udziałem małoletniego poniżej lat 15, podlega karze pozbawienia wolności od roku do lat 10.”,
+    - **b)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Kto sprowadza, przechowuje lub posiada treści pornograficzne z udziałem małoletniego poniżej lat 15, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
 
-§ 4. Kto utrwala treści pornograficzne z udziałem małoletniego poniżej lat 15, podlega karze pozbawienia wolności od roku do lat 10.”,
-
-- **b)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Kto sprowadza, przechowuje lub posiada treści pornograficzne z udziałem małoletniego poniżej lat 15, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
 - **22)** art. 205 otrzymuje brzmienie: „Art. 205. Ściganie przestępstw określonych w art. 197 lub 199 § 1, jak również w art. 198, jeżeli określony w tym przepisie stan ofiary nie jest wynikiem trwałych zaburzeń psychicznych, następuje na wniosek pokrzywdzonego.”;
 - **23)** art. 244 otrzymuje brzmienie: „Art. 244. Kto nie stosuje się do orzeczonego przez sąd zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia działalności, prowadzenia pojazdów lub obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu albo nie wykonuje zarządzenia sądu o ogłoszeniu orzeczenia w sposób w nim przewidziany, podlega karze pozbawienia wolności do lat 3.”.
 
@@ -125,13 +74,7 @@ source: pdf
 - **8)** w art. 166 § 2 otrzymuje brzmienie: „§ 2. Dyrektor zakładu karnego zwalniając skazanego, udziela mu stosownych informacji o możliwościach uzyskania niezbędnej pomocy. W wypadku zwalniania osoby skazanej za przestępstwo określone w art. 197-203 Kodeksu karnego, popełnione w związku z zaburzeniami preferencji seksualnych, dyrektor zakładu zawiadamia o tym jednostkę Policji, właściwą dla miejsca pobytu skazanego po jego zwolnieniu.”;
 - **9)** w art. 168a dodaje się § 3 w brzmieniu: „§ 3. W wypadku zwolnienia z zakładu karnego po odbyciu kary skazanego z zaburzeniami preferencji seksualnych odbywającego karę pozbawienia wolności za przestępstwo określone w art. 197-203 Kodeksu karnego, popełnione w związku z tymi zaburzeniami, a także w wypadku ucieczki takiego skazanego z zakładu karnego lub wydania decyzji o udzieleniu przepustki lub czasowego zezwolenia, o którym mowa w § 1, odpowiednio sędzia penitencjarny lub dyrektor zawiadamia o tym jednostkę Policji, właściwą dla miejsca pobytu skazanego.”;
 - **10)** w rozdziale XII tytuł oddziału 2 otrzymuje brzmienie: „Zakazy i obowiązek”;
-- **11)** po art. 181 dodaje się art. 181a w brzmieniu: „Art. 181a. § 1. W razie orzeczenia obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu, sąd przesyła odpis wyroku jednostce Policji, a także odpowiedniemu organowi administracji rządowej lub samorządu terytorialnego, właściwemu dla miejsca pobytu skazanego.
-
-§ 2. Nadzór nad wykonywaniem obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu powierza się zawodowemu kuratorowi sądowemu.
-
-§ 3. W sprawach związanych z wykonywaniem obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu właściwy jest sąd rejonowy, w którego okręgu ustalono miejsce pobytu skazanego.
-
-§ 4. Przepisy art. 169 i 172 stosuje się odpowiednio.”.
+- **11)** po art. 181 dodaje się art. 181a w brzmieniu: „Art. 181a. § 1. W razie orzeczenia obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu, sąd przesyła odpis wyroku jednostce Policji, a także odpowiedniemu organowi administracji rządowej lub samorządu terytorialnego, właściwemu dla miejsca pobytu skazanego. § 2. Nadzór nad wykonywaniem obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu powierza się zawodowemu kuratorowi sądowemu. § 3. W sprawach związanych z wykonywaniem obowiązku powstrzymania się od przebywania w określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu właściwy jest sąd rejonowy, w którego okręgu ustalono miejsce pobytu skazanego. § 4. Przepisy art. 169 i 172 stosuje się odpowiednio.”.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 3 pkt 3 i 4, które wchodzą w życie z dniem 1 stycznia 2006 r.
 

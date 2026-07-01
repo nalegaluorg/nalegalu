@@ -33,49 +33,27 @@ source: pdf
 - **3)** w art. 7:
     - **a)** ust. 2 otrzymuje brzmienie: "2. Przewodniczącego Krajowej Rady wybierają członkowie Krajowej Rady ze swego grona.",
     - **b)** dodaje się ust. 2a w brzmieniu: "2a. Krajowa Rada może odwołać Przewodniczącego z jego funkcji większością 2/3 głosów ustawowej liczby członków.",
-    - **c)** ust. 6 otrzymuje brzmienie: "6. Organ uprawniony do powołania członka Krajowej Rady odwołuje go wyłącznie w przypadku:
+    - **c)** ust. 6 otrzymuje brzmienie: "6. Organ uprawniony do powołania członka Krajowej Rady odwołuje go wyłącznie w przypadku: 1) zrzeczenia się swej funkcji, 2) choroby trwale uniemożliwiającej sprawowanie funkcji, 3) skazania prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej, 4) naruszenia przepisów ustawy stwierdzonego orzeczeniem Trybunału Stanu.";
 
-- **1)** zrzeczenia się swej funkcji,
-- **2)** choroby trwale uniemożliwiającej sprawowanie funkcji,
-- **3)** skazania prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej,
-- **4)** naruszenia przepisów ustawy stwierdzonego orzeczeniem Trybunału Stanu.";
 - **4)** w art. 8:
     - **a)** skreśla się ust. 2,
     - **b)** w ust. 3 w pkt 2 skreśla się wyraz "krajowych",
     - **c)** ust. 4 otrzymuje brzmienie: "4. Nie można łączyć funkcji członka Krajowej Rady z posiadaniem udziałów albo akcji spółki bądź w inny sposób uczestniczyć w podmiocie będącym nadawcą lub producentem radiowym lub telewizyjnym oraz wszelką działalnością zarobkową, z wyjątkiem pracy dydaktyczno-naukowej w charakterze nauczyciela akademickiego lub pracy twórczej.";
 
 - **5)** w art. 12 ust. 1 otrzymuje brzmienie: "1. Krajowa Rada przedstawia corocznie do końca marca Sejmowi, Senatowi i Prezydentowi sprawozdanie ze swej działalności za rok poprzedzający oraz informację o podstawowych problemach radiofonii i telewizji.";
-- **6)** w art. 15 ust. 1 i 2 otrzymują brzmienie: "1. Krajowa Rada określa, w drodze rozporządzenia, minimalny udział w programie, nie mniejszy jednak niż 30% rocznego czasu nadawania programu, audycji wytworzonych przez producentów krajowych (z wyłączeniem transmisji sportowych, reklam, przekazów tekstowych, teleturniejów i konkursów radiowych), z uwzględnieniem charakteru poszczególnych nadawców i ich programów oraz pasm czasowych emisji.
-
-2. Nadawcy przeznaczają co najmniej 10% rocznego czasu nadawania programu na audycje (z wyłączeniem transmisji sportowych, reklam, przekazów tekstowych, teleturniejów i konkursów radiowych) wytworzone przez producentów krajowych innych niż nadawca. Krajowa Rada może ustalić w koncesji wyższy minimalny udział tych audycji w czasie antenowym, z uwzględnieniem charakteru poszczególnych nadawców i ich programów.";
-
+- **6)** w art. 15 ust. 1 i 2 otrzymują brzmienie: "1. Krajowa Rada określa, w drodze rozporządzenia, minimalny udział w programie, nie mniejszy jednak niż 30% rocznego czasu nadawania programu, audycji wytworzonych przez producentów krajowych (z wyłączeniem transmisji sportowych, reklam, przekazów tekstowych, teleturniejów i konkursów radiowych), z uwzględnieniem charakteru poszczególnych nadawców i ich programów oraz pasm czasowych emisji. 2. Nadawcy przeznaczają co najmniej 10% rocznego czasu nadawania programu na audycje (z wyłączeniem transmisji sportowych, reklam, przekazów tekstowych, teleturniejów i konkursów radiowych) wytworzone przez producentów krajowych innych niż nadawca. Krajowa Rada może ustalić w koncesji wyższy minimalny udział tych audycji w czasie antenowym, z uwzględnieniem charakteru poszczególnych nadawców i ich programów.";
 - **7)** w art. 20 w ust. 1 wyrazy "21 dni" zastępuje się wyrazami "28 dni";
 - **8)** w art. 21 w ust. 2 dodaje się pkt 7a w brzmieniu: "7a) służyć kształtowaniu postaw prozdrowotnych,";
 - **9)** w art. 22 dodaje się ust. 3 w brzmieniu: "3. Krajowa Rada określa, w drodze rozporządzenia, tryb postępowania w sprawach, o których mowa w ust. 2.";
 - **10)** w art. 28 skreśla się ust. 7;
-- **11)** dodaje się art. 28a w brzmieniu: "Art. 28a. 1.Rady programowe publicznej radiofonii i telewizji liczą 15 członków, których powołuje Krajowa Rada; 10 członków rady programowej reprezentuje ugrupowania parlamentarne. Pozostałych 5 powołuje z grona osób legitymujących się dorobkiem i doświadczeniem w sferze kultury i mediów.
-
-2. Kadencja rady programowej trwa 4 lata, a jej członkowie reprezentują społeczne interesy i oczekiwania związane z działalnością programową spółki.
-
-3. Rada programowa podejmuje uchwały zawierające oceny poziomu i jakości programu bieżącego oraz programów ramowych. Uchwały w sprawach programowych, podejmowane większością głosów w obecności co najmniej połowy składu rady, są przedmiotem obrad i postanowień rady nadzorczej.
-
-4. Członkom rady programowej przysługuje dieta wypłacana przez spółkę w wysokości ustalonej przez Krajową Radę.
-
-5. Zarząd spółki zapewnia członkom rady programowej organizacyjne i finansowe warunki dokonywania ocen poziomu i jakości wyemitowanego programu, badania jego odbioru oraz zlecania niezależnych badań dotyczących percepcji programu i jego społecznych skutków.";
-
+- **11)** dodaje się art. 28a w brzmieniu: "Art. 28a. 1.Rady programowe publicznej radiofonii i telewizji liczą 15 członków, których powołuje Krajowa Rada; 10 członków rady programowej reprezentuje ugrupowania parlamentarne. Pozostałych 5 powołuje z grona osób legitymujących się dorobkiem i doświadczeniem w sferze kultury i mediów. 2. Kadencja rady programowej trwa 4 lata, a jej członkowie reprezentują społeczne interesy i oczekiwania związane z działalnością programową spółki. 3. Rada programowa podejmuje uchwały zawierające oceny poziomu i jakości programu bieżącego oraz programów ramowych. Uchwały w sprawach programowych, podejmowane większością głosów w obecności co najmniej połowy składu rady, są przedmiotem obrad i postanowień rady nadzorczej. 4. Członkom rady programowej przysługuje dieta wypłacana przez spółkę w wysokości ustalonej przez Krajową Radę. 5. Zarząd spółki zapewnia członkom rady programowej organizacyjne i finansowe warunki dokonywania ocen poziomu i jakości wyemitowanego programu, badania jego odbioru oraz zlecania niezależnych badań dotyczących percepcji programu i jego społecznych skutków.";
 - **12)** w art. 34 w ust. 1 wyrazy "3 miesiące" zastępuje się wyrazami "1 miesiąc";
-- **13)** w art. 37 w ust. 1 w pkt 3 lit. c) i d) otrzymują brzmienie: "c) moc nadajnika i maksymalną moc promieniowania,
-    - **d)** charakterystykę promieniowania anteny,";
-
+- **13)** w art. 37 w ust. 1 w pkt 3 lit. c) i d) otrzymują brzmienie: "c) moc nadajnika i maksymalną moc promieniowania, d) charakterystykę promieniowania anteny,";
 - **14)** w art. 38:
     - **a)** pkt 5 otrzymuje brzmienie: "5) osoba posiadająca koncesję nie rozpocznie działalności w terminie ustalonym w koncesji lub nie prowadzi działalności przez okres dłuższy niż 3 miesiące, chyba że opóźnienie rozpoczęcia nadawania lub przerwa zostały spowodowane okolicznościami niezależnymi od nadawcy,",
     - **b)** dodaje się pkt 6 w brzmieniu: "6) osoba posiadająca koncesję nie uiści w terminie określonym w koncesji całości opłaty koncesyjnej.";
 
-- **15)** w art. 43 ust. 1 otrzymuje brzmienie: "1. Operator sieci kablowej wprowadza programy do sieci kablowej w następującej kolejności:
-- **1)** ogólnokrajowe programy radiofonii i telewizji publicznej,
-- **2)** regionalne programy radiofonii i telewizji publicznej dostępne na danym obszarze,
-- **3)** programy innych nadawców krajowych dostępne na danym obszarze,
-- **4)** programy innych nadawców krajowych i nadawców zagranicznych.";
+- **15)** w art. 43 ust. 1 otrzymuje brzmienie: "1. Operator sieci kablowej wprowadza programy do sieci kablowej w następującej kolejności: 1) ogólnokrajowe programy radiofonii i telewizji publicznej, 2) regionalne programy radiofonii i telewizji publicznej dostępne na danym obszarze, 3) programy innych nadawców krajowych dostępne na danym obszarze, 4) programy innych nadawców krajowych i nadawców zagranicznych.";
 - **16)** w art. 44:
     - **a)** w ust. 3 skreśla się pkt 5,
     - **b)** dodaje się ust. 6 w brzmieniu: "6. Krajowa Rada, uwzględniając charakter poszczególnych programów, może określić, w drodze rozporządzenia, zakres wymogów, o których mowa w art. 15, dla programów telewizyjnych rozprowadzanych w sieciach kablowych, przeznaczonych przez nadawców zagranicznych dla odbiorców w kraju.";

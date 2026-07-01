@@ -31,14 +31,9 @@ source: pdf
 
 - **1)** w ust. 1:
     - **a)** w pkt 4a wyrazy „finansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym” zastępuje się wyrazami „współfinansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym zgodnie z działem IIIa ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2017 r. poz. 1769 i 1985 oraz z 2018 r. poz. 650)”,
-    - **b)** po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) wykonywanie badań laboratoryjnych próbek artykułów rolno-spożywczych na potrzeby realizacji mechanizmów Wspólnej Polityki Rolnej dotyczących organizacji rynków rolnych;
+    - **b)** po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) wykonywanie badań laboratoryjnych próbek artykułów rolno-spożywczych na potrzeby realizacji mechanizmów Wspólnej Polityki Rolnej dotyczących organizacji rynków rolnych; 5b) wykonywanie badań laboratoryjnych próbek artykułów rolno-spożywczych na potrzeby realizacji operacji współfinansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym zgodnie z działem IIIa ustawy z dnia 12 marca 2004 r. o pomocy społecznej;”;
 
-- **5b)** wykonywanie badań laboratoryjnych próbek artykułów rolno-spożywczych na potrzeby realizacji operacji współfinansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym zgodnie z działem IIIa ustawy z dnia 12 marca 2004 r. o pomocy społecznej;”;
-- **2)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Inspekcja, wykonując zadania, o których mowa w ust. 1:
-- **1)** pkt 5a, współpracuje z Agencją Restrukturyzacji i Modernizacji Rolnictwa;
-- **2)** pkt 5b, współpracuje z jednostkami organizacyjnymi uczestniczącymi w realizacji operacji współfinansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym.
-
-3b. Współpraca, o której mowa w ust. 3a, odbywa się na podstawie porozumień zawartych pomiędzy Głównym Inspektorem Jakości Handlowej Artykułów Rolno-Spożywczych a podmiotami wymienionymi w ust. 3a.”.
+- **2)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Inspekcja, wykonując zadania, o których mowa w ust. 1: 1) pkt 5a, współpracuje z Agencją Restrukturyzacji i Modernizacji Rolnictwa; 2) pkt 5b, współpracuje z jednostkami organizacyjnymi uczestniczącymi w realizacji operacji współfinansowanych ze środków Europejskiego Funduszu Pomocy Najbardziej Potrzebującym. 3b. Współpraca, o której mowa w ust. 3a, odbywa się na podstawie porozumień zawartych pomiędzy Głównym Inspektorem Jakości Handlowej Artykułów Rolno-Spożywczych a podmiotami wymienionymi w ust. 3a.”.
 
 **Art. 2.** W celu wykonywania przepisów niniejszej ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, bez wydatków na wynagrodzenia, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 

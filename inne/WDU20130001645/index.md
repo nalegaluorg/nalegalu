@@ -38,11 +38,7 @@ source: pdf
 **Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 26a:
-    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie:
-
-- **1)** 1800 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności;
-- **2)** 1125 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności;
-- **3)** 450 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
+    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie: 1) 1800 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1125 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 450 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
     - **b)** ust. lb otrzymuje brzmienie: „lb. Kwoty, o których mowa w ust. 1, zwiększa się o 600 zł w przypadku osób niepełnosprawnych, w odniesieniu do których orzeczono chorobę psychiczną, upośledzenie umysłowe, całościowe zaburzenia rozwojowe lub epilepsję oraz niewidomych.”;
 
 - **2)** po art. 68gb dodaje się art. 68gc w brzmieniu: „Art. 68gc. Za okresy od stycznia 2014 r. do marca 2014 r. miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, określone w art. 26a, przysługuje w wysokości i na zasadach obowiązujących w roku 2013.”.
@@ -51,22 +47,15 @@ source: pdf
 
 **Art. 5.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254) po art. 29d dodaje się art. 29e w brzmieniu: „Art. 29e. 1. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2014 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8, z zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, o których mowa w art. 2 pkt 7, w jednostkach organizacyjnych wymienionych w art. 1 pkt 8, a w szczególności rad nadzorczych i komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi w 2014 r. przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2011 r.”.
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ) w art. 108 po ust. 1e dodaje się ust. 1f w brzmieniu: „1f. Ze środków Funduszu Pracy w 2014 r. są finansowane:
-
-- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
-- **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ) w art. 108 po ust. 1e dodaje się ust. 1f w brzmieniu: „1f. Ze środków Funduszu Pracy w 2014 r. są finansowane: 1) staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty; 2) staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
 
 **Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 93 ust. 4 otrzymuje brzmienie: „4. Stawka akcyzy na alkohol etylowy wynosi 5704,00 zł od 1 hektolitra alkoholu etylowego 100% vol. zawartego w gotowym wyrobie.”;
 - **2)** w art. 99:
-    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 206,76 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej;
+    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 206,76 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 141,29 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 280,25 zł za każde 1000 sztuk.”,
+    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 343,98 zł za każde 1000 sztuk; 2) na tytoń do palenia – 229,32 zł za każdy kilogram.”;
 
-- **2)** na tytoń do palenia, z zastrzeżeniem ust. 10 – 141,29 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej;
-- **3)** na cygara i cygaretki – 280,25 zł za każde 1000 sztuk.”,
-    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 343,98 zł za każde 1000 sztuk;
-
-- **2)** na tytoń do palenia – 229,32 zł za każdy kilogram.”;
 - **3)** w art. 99a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Za susz tytoniowy uznaje się, bez względu na wilgotność, tytoń, który nie jest połączony z żywą rośliną i nie jest jeszcze wyrobem tytoniowym.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Stawka akcyzy na susz tytoniowy wynosi 229,32 zł za każdy kilogram.”,

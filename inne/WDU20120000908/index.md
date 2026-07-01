@@ -29,13 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 6 w ust. 1 po pkt 4a dodaje się pkt 4b i 4c w brzmieniu: „4b) przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;
-- **4c)** usuwania skutków klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;”;
+- **1)** w art. 6 w ust. 1 po pkt 4a dodaje się pkt 4b i 4c w brzmieniu: „4b) przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu; 4c) usuwania skutków klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;”;
 - **2)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Dział gospodarka obejmuje sprawy gospodarki, w tym konkurencyjności gospodarki, współpracy gospodarczej z zagranicą, energetyki, oceny zgodności, miar i probiernictwa, własności przemysłowej, innowacyjności, działalności gospodarczej, promocji gospodarki polskiej w kraju i za granicą, umów offsetowych oraz współpracy z organizacjami samorządu gospodarczego.”;
 - **3)** w art. 12a:
-    - **a)** po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) przeciwdziałania wykluczeniu cyfrowemu;
-
-- **7b)** rozwoju usług świadczonych drogą elektroniczną oraz usług na żądanie;”,
+    - **a)** po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) przeciwdziałania wykluczeniu cyfrowemu; 7b) rozwoju usług świadczonych drogą elektroniczną oraz usług na żądanie;”,
     - **b)** w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) koordynacji interoperacyjności.”;
 
 - **4)** w art. 14 w ust. 1 pkt 9 otrzymuje brzmienie: „9) polityki audiowizualnej, w szczególności w zakresie prasy, radia, telewizji i kinematografii;”;
@@ -54,26 +51,14 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) w art. 219 pkt 4 otrzymuje brzmienie: „4) podlegających przepisom obowiązującym w jednostkach podległych Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw wewnętrznych,”.
 
-**Art. 5.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm. ) art. 2 otrzymuje brzmienie: „Art. 2. Przepisów ustawy nie stosuje się do żołnierzy w czynnej służbie wojskowej oraz funkcjonariuszy Policji i pożarnictwa:
-
-- **1)** zajmujących stanowiska nauczycieli w szkołach i placówkach oświatowo-wychowawczych wojskowych i prowadzonych przez ministra właściwego do spraw wewnętrznych oraz organy podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane;
-- **2)** wyznaczonych do wykonywania zadań poza wojskiem oraz służbami podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych, na stanowiskach wymienionych w art. 1.”.
+**Art. 5.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm. ) art. 2 otrzymuje brzmienie: „Art. 2. Przepisów ustawy nie stosuje się do żołnierzy w czynnej służbie wojskowej oraz funkcjonariuszy Policji i pożarnictwa: 1) zajmujących stanowiska nauczycieli w szkołach i placówkach oświatowo-wychowawczych wojskowych i prowadzonych przez ministra właściwego do spraw wewnętrznych oraz organy podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane; 2) wyznaczonych do wykonywania zadań poza wojskiem oraz służbami podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych, na stanowiskach wymienionych w art. 1.”.
 
 **Art. 6.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, z późn. zm. ) w art. 145g ust. 2 otrzymuje brzmienie: „2. Jeżeli środki finansowe na ten cel nie zostały uwzględnione w budżecie ministra właściwego do spraw wewnętrznych, zapewnia je Rada Ministrów.”.
 
 **Art. 7.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353) wprowadza się następujące zmiany:
 
-- **1)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego.
-
-2. Minister właściwy do spraw administracji publicznej pełni nadzór nad funkcjonowaniem systemu powiadamiania ratunkowego.”;
-
-- **2)** art. 14e otrzymuje brzmienie: „Art.14e. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
-- **1)** szczegółową organizację, sposób funkcjonowania oraz realizacji zadań centrów powiadamiania ratunkowego i wojewódzkich centrów powiadamiania ratunkowego,
-- **2)** ramowe procedury obsługi zgłoszeń przychodzących na numery alarmowe,
-- **3)** kwalifikacje wymagane dla operatorów numerów alarmowych, o których mowa w art. 14a ust. 5,
-- **4)** sposób i organizację przeprowadzania szkolenia operatorów numerów alarmowych,
-- **5)** zakres, formę, sposób tworzenia i przekazywania informacji niezbędnych do funkcjonowania systemu powiadamiania ratunkowego,
-- **6)** kryteria do określenia liczby, lokalizacji i terenu działania centrum powiadamiania ratunkowego oraz liczby stanowisk dyspozytorów medycznych i stanowisk operatorów numerów alarmowych – uwzględniając potrzeby systemu powiadamiania ratunkowego, w zakresie jego sprawnego funkcjonowania.”.
+- **1)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego. 2. Minister właściwy do spraw administracji publicznej pełni nadzór nad funkcjonowaniem systemu powiadamiania ratunkowego.”;
+- **2)** art. 14e otrzymuje brzmienie: „Art.14e. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw zdrowia i ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia: 1) szczegółową organizację, sposób funkcjonowania oraz realizacji zadań centrów powiadamiania ratunkowego i wojewódzkich centrów powiadamiania ratunkowego, 2) ramowe procedury obsługi zgłoszeń przychodzących na numery alarmowe, 3) kwalifikacje wymagane dla operatorów numerów alarmowych, o których mowa w art. 14a ust. 5, 4) sposób i organizację przeprowadzania szkolenia operatorów numerów alarmowych, 5) zakres, formę, sposób tworzenia i przekazywania informacji niezbędnych do funkcjonowania systemu powiadamiania ratunkowego, 6) kryteria do określenia liczby, lokalizacji i terenu działania centrum powiadamiania ratunkowego oraz liczby stanowisk dyspozytorów medycznych i stanowisk operatorów numerów alarmowych – uwzględniając potrzeby systemu powiadamiania ratunkowego, w zakresie jego sprawnego funkcjonowania.”.
 
 **Art. 8.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592) w art. 1 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, w stosunku do pracowników zatrudnionych w podległych mu jednostkach sfery budżetowej, niebędących funkcjonariuszami lub żołnierzami zawodowymi, a Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych w stosunku do pracowników zatrudnionych w jednostkach sfery budżetowej więziennictwa, niebędących funkcjonariuszami Służby Więziennej, określą, w drodze rozporządzenia:”.
 
@@ -150,9 +135,7 @@ source: pdf
 
 - **2)** w art. 14:
     - **a)** w ust. 2 w pkt 2 lit. c otrzymuje brzmienie: „c) przygotowywanie i przedkładanie do zatwierdzenia ministrowi właściwemu do spraw administracji publicznej wojewódzkiego planu zarządzania kryzysowego,”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw administracji publicznej, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych oraz po zasięgnięciu opinii dyrektora Centrum, wydaje, w drodze zarządzenia, wojewodom wytyczne do wojewódzkich planów zarządzania kryzysowego.
-
-4. Minister właściwy do spraw administracji publicznej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych zatwierdza wojewódzkie plany zarządzania kryzysowego i ich aktualizacje, po zasięgnięciu opinii dyrektora Centrum.”.
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw administracji publicznej, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych oraz po zasięgnięciu opinii dyrektora Centrum, wydaje, w drodze zarządzenia, wojewodom wytyczne do wojewódzkich planów zarządzania kryzysowego. 4. Minister właściwy do spraw administracji publicznej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych zatwierdza wojewódzkie plany zarządzania kryzysowego i ich aktualizacje, po zasięgnięciu opinii dyrektora Centrum.”.
 
 **Art. 28.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) w art. 78 ust. 3 otrzymuje brzmienie: „3. Organem właściwym w sprawach, o których mowa w ust. 1, w odniesieniu do przedsięwzięć na terenach jednostek organizacyjnych podległych i nadzorowanych przez ministra właściwego do spraw wewnętrznych jest właściwy organ Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych.”.
 

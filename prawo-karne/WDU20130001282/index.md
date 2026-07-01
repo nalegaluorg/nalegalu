@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 73 § 2 i 3 otrzymują brzmienie: „§ 2. W postępowaniu przygotowawczym prokurator, udzielając zezwolenia na porozumiewanie się, może zastrzec w szczególnie uzasadnionych wypadkach, jeżeli wymaga tego dobro postępowania przygotowawczego, że będzie przy tym obecny sam lub osoba przez niego upoważniona.
-
-§ 3. Jeżeli wymaga tego dobro postępowania przygotowawczego, prokurator, w szczególnie uzasadnionych wypadkach, może również zastrzec kontrolę korespondencji podejrzanego z obrońcą.”;
-
+- **1)** w art. 73 § 2 i 3 otrzymują brzmienie: „§ 2. W postępowaniu przygotowawczym prokurator, udzielając zezwolenia na porozumiewanie się, może zastrzec w szczególnie uzasadnionych wypadkach, jeżeli wymaga tego dobro postępowania przygotowawczego, że będzie przy tym obecny sam lub osoba przez niego upoważniona. § 3. Jeżeli wymaga tego dobro postępowania przygotowawczego, prokurator, w szczególnie uzasadnionych wypadkach, może również zastrzec kontrolę korespondencji podejrzanego z obrońcą.”;
 - **2)** w art. 245 § 1 otrzymuje brzmienie: „§ 1. Zatrzymanemu na jego żądanie należy niezwłocznie umożliwić nawiązanie w dostępnej formie kontaktu z adwokatem, a także bezpośrednią z nim rozmowę; w wyjątkowych wypadkach, uzasadnionych szczególnymi okolicznościami, zatrzymujący może zastrzec, że będzie przy niej obecny.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

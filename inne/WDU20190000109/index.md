@@ -30,13 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 14 kwietnia 2000 r. o umowach międzynarodowych (Dz. U. poz. 443, z 2002 r. poz. 1824, z 2010 r. poz. 1395 oraz z 2011 r. poz. 676) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 7 otrzymuje brzmienie: „Utrata mocy obowiązującej i zmiana zakresu obowiązywania umowy międzynarodowej”;
-- **2)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Utrata mocy obowiązującej umowy międzynarodowej w stosunku do Rzeczypospolitej Polskiej następuje w sposób przewidziany w umowie międzynarodowej, w szczególności na skutek jej wypowiedzenia przez Rzeczpospolitą Polską, albo w inny sposób dopuszczony przez prawo międzynarodowe.
-
-2. Do wypowiedzenia umowy międzynarodowej przez Rzeczpospolitą Polską stosuje się odpowiednio przepisy art. 14 i art. 15 ust. 1 i 2.
-
-3. Przedłożenie Prezydentowi Rzeczypospolitej Polskiej do wypowiedzenia umowy międzynarodowej ratyfikowanej za zgodą, o której mowa w art. 89 ust. 1 i art. 90 Konstytucji Rzeczypospolitej Polskiej, jest dokonywane po uzyskaniu zgody wyrażonej w ustawie, z zastrzeżeniem art. 22a.
-
-4. Oświadczenie rządowe o utracie mocy obowiązującej umowy międzynarodowej ogłasza się w trybie, w jakim została ogłoszona umowa międzynarodowa.”.
+- **2)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Utrata mocy obowiązującej umowy międzynarodowej w stosunku do Rzeczypospolitej Polskiej następuje w sposób przewidziany w umowie międzynarodowej, w szczególności na skutek jej wypowiedzenia przez Rzeczpospolitą Polską, albo w inny sposób dopuszczony przez prawo międzynarodowe. 2. Do wypowiedzenia umowy międzynarodowej przez Rzeczpospolitą Polską stosuje się odpowiednio przepisy art. 14 i art. 15 ust. 1 i 2. 3. Przedłożenie Prezydentowi Rzeczypospolitej Polskiej do wypowiedzenia umowy międzynarodowej ratyfikowanej za zgodą, o której mowa w art. 89 ust. 1 i art. 90 Konstytucji Rzeczypospolitej Polskiej, jest dokonywane po uzyskaniu zgody wyrażonej w ustawie, z zastrzeżeniem art. 22a. 4. Oświadczenie rządowe o utracie mocy obowiązującej umowy międzynarodowej ogłasza się w trybie, w jakim została ogłoszona umowa międzynarodowa.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2019 r. poz. 2086) wprowadza się następujące zmiany:
 
-- **1)** w art. 61 § 1 i 2 otrzymują brzmienie: „§ 1. Matka albo kobieta wpisana w akcie urodzenia dziecka jako jego matka może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu roku od dnia sporządzenia aktu urodzenia dziecka.
-
-§ 2. Mężczyzna, którego ojcostwo zostało ustalone z uwzględnieniem macierzyństwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu roku od dnia, w którym dowiedział się, że kobieta wpisana w akcie urodzenia dziecka nie jest matką dziecka, nie później jednak niż do dnia osiągnięcia przez dziecko pełnoletności.”;
-
+- **1)** w art. 61 § 1 i 2 otrzymują brzmienie: „§ 1. Matka albo kobieta wpisana w akcie urodzenia dziecka jako jego matka może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu roku od dnia sporządzenia aktu urodzenia dziecka. § 2. Mężczyzna, którego ojcostwo zostało ustalone z uwzględnieniem macierzyństwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu roku od dnia, w którym dowiedział się, że kobieta wpisana w akcie urodzenia dziecka nie jest matką dziecka, nie później jednak niż do dnia osiągnięcia przez dziecko pełnoletności.”;
 - **2)** w art. 61 § 1 otrzymuje brzmienie: „§ 1. Dziecko po osiągnięciu pełnoletności może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu roku od dnia, w którym dowiedziało się, że nie pochodzi od kobiety wpisanej w akcie urodzenia jako jego matka. Jeżeli dziecko dowiedziało się o tej okoliczności przed dniem osiągnięcia pełnoletności, termin do wytoczenia powództwa biegnie od dnia osiągnięcia pełnoletności.”;
 - **3)** art. 63 otrzymuje brzmienie: „Art. 63. Mąż matki może wytoczyć powództwo o zaprzeczenie ojcostwa w ciągu roku od dnia, w którym dowiedział się, że dziecko od niego nie pochodzi, nie później jednak niż do dnia osiągnięcia przez dziecko pełnoletności.”;
 - **4)** w art. 64:

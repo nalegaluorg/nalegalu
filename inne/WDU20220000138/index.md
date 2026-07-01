@@ -29,29 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r. poz. 2021 oraz z 2022 r. poz. 24) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 w ust. 3 pkt 29b otrzymuje brzmienie: „29b) rolniczy handel detaliczny – handel detaliczny w rozumieniu art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na:
-    - **a)** produkcji żywności zawierającej co najmniej jeden składnik pochodzący w całości z własnej uprawy, hodowli lub chowu podmiotu działającego na rynku spożywczym oraz
-    - **b)** zbywaniu żywności, o której mowa w lit. a, konsumentowi finalnemu, o którym mowa w art. 3 ust. 18 rozporządzenia nr 178/2002, lub zakładom prowadzącym handel detaliczny z przeznaczeniem dla konsumenta finalnego;”;
-
-- **2)** art. 44a otrzymuje brzmienie: „Art. 44a. 1. Produkcja i zbywanie żywności w ramach rolniczego handlu detalicznego:
-- **1)** nie mogą stanowić zagrożenia dla bezpieczeństwa żywności i wpływać niekorzystnie na zdrowie publiczne;
-- **2)** podlegają urzędowej kontroli w zakresie bezpieczeństwa żywności przeprowadzanej odpowiednio przez organy Państwowej Inspekcji Sanitarnej albo Inspekcji Weterynaryjnej;
-- **3)** są prowadzone zgodnie z przepisami prawa żywnościowego, w szczególności rozporządzenia nr 178/2002 i rozporządzenia nr 852/2004 oraz przepisami Unii Europejskiej wydanymi w trybie tych rozporządzeń.
-
-2. Zbywanie żywności w ramach rolniczego handlu detalicznego:
-
-- **1)** do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego:
-    - **a)** odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej, z tym że w przypadku żywności będącej produktem pochodzenia zwierzęcego oraz żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego – wyłącznie na obszarze województwa, w którym ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego handlu detalicznego, lub na obszarach powiatów lub miast stanowiących siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym województwem,
-    - **b)** podlega limitom ilościowym dostosowanym do potrzeb konsumentów finalnych,
-    - **c)** jest dokumentowane w sposób umożliwiający określenie ilości żywności zbywanej w ramach rolniczego handlu detalicznego;
-
-- **2)** nie może być dokonywane z udziałem pośrednika, chyba że zbywanie tej żywności odbywa się podczas wystaw, festynów, targów lub kiermaszy, organizowanych w celu promocji żywności, a pośrednik zbywa konsumentom finalnym żywność:
-    - **a)** wyprodukowaną przez tego pośrednika w ramach rolniczego handlu detalicznego,
-    - **b)** wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, w którym pośrednik ten prowadzi produkcję żywności w ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego z tym powiatem.
-
-3. W miejscu zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, o którym mowa w ust. 2 pkt 2, umieszcza się w sposób czytelny i widoczny dla konsumenta:
-
-- **1)** napis „rolniczy handel detaliczny”;
+- **1)** w art. 3 w ust. 3 pkt 29b otrzymuje brzmienie: „29b) rolniczy handel detaliczny – handel detaliczny w rozumieniu art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na: a) produkcji żywności zawierającej co najmniej jeden składnik pochodzący w całości z własnej uprawy, hodowli lub chowu podmiotu działającego na rynku spożywczym oraz b) zbywaniu żywności, o której mowa w lit. a, konsumentowi finalnemu, o którym mowa w art. 3 ust. 18 rozporządzenia nr 178/2002, lub zakładom prowadzącym handel detaliczny z przeznaczeniem dla konsumenta finalnego;”;
+- **2)** art. 44a otrzymuje brzmienie: „Art. 44a. 1. Produkcja i zbywanie żywności w ramach rolniczego handlu detalicznego: 1) nie mogą stanowić zagrożenia dla bezpieczeństwa żywności i wpływać niekorzystnie na zdrowie publiczne; 2) podlegają urzędowej kontroli w zakresie bezpieczeństwa żywności przeprowadzanej odpowiednio przez organy Państwowej Inspekcji Sanitarnej albo Inspekcji Weterynaryjnej; 3) są prowadzone zgodnie z przepisami prawa żywnościowego, w szczególności rozporządzenia nr 178/2002 i rozporządzenia nr 852/2004 oraz przepisami Unii Europejskiej wydanymi w trybie tych rozporządzeń. 2. Zbywanie żywności w ramach rolniczego handlu detalicznego: 1) do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego: a) odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej, z tym że w przypadku żywności będącej produktem pochodzenia zwierzęcego oraz żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego – wyłącznie na obszarze województwa, w którym ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego handlu detalicznego, lub na obszarach powiatów lub miast stanowiących siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym województwem, b) podlega limitom ilościowym dostosowanym do potrzeb konsumentów finalnych, c) jest dokumentowane w sposób umożliwiający określenie ilości żywności zbywanej w ramach rolniczego handlu detalicznego; 2) nie może być dokonywane z udziałem pośrednika, chyba że zbywanie tej żywności odbywa się podczas wystaw, festynów, targów lub kiermaszy, organizowanych w celu promocji żywności, a pośrednik zbywa konsumentom finalnym żywność: a) wyprodukowaną przez tego pośrednika w ramach rolniczego handlu detalicznego, b) wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, w którym pośrednik ten prowadzi produkcję żywności w ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego z tym powiatem. 3. W miejscu zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, o którym mowa w ust. 2 pkt 2, umieszcza się w sposób czytelny i widoczny dla konsumenta: 1) napis „rolniczy handel detaliczny”;
 - **2)** dane obejmujące:
     - **a)** imię i nazwisko albo nazwę i siedzibę podmiotu prowadzącego rolniczy handel detaliczny,
     - **b)** adres miejsca prowadzenia produkcji tej żywności,

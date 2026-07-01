@@ -35,51 +35,14 @@ source: pdf
 
 - **2)** uchyla się art. 15;
 - **3)** art. 23 otrzymuje brzmienie: „Art. 23. Ministrowie właściwi do spraw oświaty i wychowania oraz do spraw szkolnictwa wyższego, po zasięgnięciu opinii władz kościołów i innych związków wyznaniowych, określą, w drodze rozporządzenia, szczegółowy zakres stosowania do nauczycieli, wychowawców i uczących się w szkołach, o których mowa w art. 21 oraz art. 22 ust. 3, uprawnień i świadczeń społecznych, a także nakładania obowiązków przewidzianych dla pracowników i uczących się w szkołach publicznych i szkołach wyższych, z uwzględnieniem równouprawnienia kościołów i innych związków wyznaniowych.”;
-- **4)** art. 31 otrzymuje brzmienie: „Art. 31. 1. Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”.
-
-2. Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, i deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię i nazwisko, datę urodzenia, miejsce zamieszkania oraz rodzaj, serię i numer dokumentu tożsamości oraz numer PESEL każdego z wnioskodawców.
-
-3. Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru.”;
-
+- **4)** art. 31 otrzymuje brzmienie: „Art. 31. 1. Prawo wniesienia wniosku, o którym mowa w art. 30, przysługuje co najmniej 100 obywatelom polskim posiadającym pełną zdolność do czynności prawnych, zwanych dalej „wnioskodawcami”. 2. Wnioskodawcy składają listę zawierającą ich notarialnie poświadczone podpisy potwierdzające treść wniosku, o którym mowa w ust. 1, i deklaracji o utworzeniu kościoła lub innego związku wyznaniowego, imię i nazwisko, datę urodzenia, miejsce zamieszkania oraz rodzaj, serię i numer dokumentu tożsamości oraz numer PESEL każdego z wnioskodawców. 3. Wnioskodawcy mogą wybrać spośród siebie co najmniej pięcioosobowy komitet założycielski reprezentujący ich w postępowaniu w sprawie wpisu do rejestru.”;
 - **5)** w art. 32:
-    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4)adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych:
-    - **a)** imiona i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania,
-    - **d)** nazwę, serię i numer dokumentu tożsamości,
-    - **e)** nr PESEL,”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład:
-
-- **1)** imiona i nazwisko,
-- **2)** datę urodzenia,
-- **3)** adres zamieszkania,
-- **4)** rodzaj, serię i numer dokumentu tożsamości,
-- **5)** nr PESEL.”,
+    - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4)adres siedziby kościoła lub innego związku wyznaniowego oraz dane osób wchodzących do kierowniczych organów wykonawczych: a) imiona i nazwisko, b) datę urodzenia, c) adres zamieszkania, d) nazwę, serię i numer dokumentu tożsamości, e) nr PESEL,”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku wybrania komitetu założycielskiego, o którym mowa w art. 31 ust. 3, wniosek o wpis do rejestru powinien zawierać także podpisany przez wnioskodawców protokół z wyboru tego komitetu określający datę i miejsce wyborów oraz następujące dane osób wchodzących w jego skład: 1) imiona i nazwisko, 2) datę urodzenia, 3) adres zamieszkania, 4) rodzaj, serię i numer dokumentu tożsamości, 5) nr PESEL.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Jeżeli kościół lub inny związek wyznaniowy przewiduje tworzenie jednostek organizacyjnych mających osobowość prawną, statut powinien określać ich nazwy, teren działania, siedziby, zakres uprawnień, zasady tworzenia, znoszenia i przekształcania tych jednostek, ich organy, zakres kompetencji, tryb podejmowania decyzji, sposób powoływania i odwoływania tych organów, sposób reprezentowania na zewnątrz oraz zaciągania zobowiązań majątkowych, a także przeznaczenie majątku pozostałego po zakończeniu likwidacji osoby prawnej kościoła lub innego związku wyznaniowego.”;
 
 - **6)** w art. 34 ust. 4 otrzymuje brzmienie: „4. Do kościołów i innych związków wyznaniowych wpisanych do rejestru stosuje się odpowiednio art. 14.”;
-- **7)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Wykreśleniu z rejestru podlega:
-- **1)** kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie,
-- **2)** kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności,
-- **3)** kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego i nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4.
-
-2. Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego.
-
-3. W przypadkach, o których mowa w ust. 1 pkt 2 i 3 oraz art. 36a ust. 2, wykreślenie z rejestru następuje po przeprowadzeniu likwidacji.
-
-4. W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz i zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej.
-
-5. Organ rejestrowy, w drodze decyzji, zarządza likwidację i wyznacza likwidatora:
-
-- **1)** w przypadkach, o których mowa w ust. 1 pkt 3 i w art. 36a ust. 2,
-- **2)** w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4.
-
-6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji.
-
-7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach (Dz.U. z 2001 r. Nr 79, poz. 855, z 2003 r. Nr 96, poz. 874 oraz z 2004 r. Nr 102, poz. 1055).
-
-8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.”;
-
+- **7)** art. 36 otrzymuje brzmienie: „Art. 36. 1. Wykreśleniu z rejestru podlega: 1) kościół lub inny związek wyznaniowy, którego sytuacja prawna i majątkowa została uregulowana w odrębnej ustawie, 2) kościół lub inny związek wyznaniowy, który zawiadomił organ rejestrowy o zaprzestaniu swojej działalności, 3) kościół lub inny związek wyznaniowy, który utracił cechy warunkujące uzyskanie wpisu do rejestru; dotyczy to w szczególności kościoła lub innego związku wyznaniowego, który w ciągu 3 lat nie odpowiedział na żądanie organu rejestrowego i nie zaktualizował wpisów do rejestru w zakresie określonym w art. 32 ust. 1 pkt 4. 2. Wykreślenie z rejestru następuje na podstawie decyzji organu rejestrowego. 3. W przypadkach, o których mowa w ust. 1 pkt 2 i 3 oraz art. 36a ust. 2, wykreślenie z rejestru następuje po przeprowadzeniu likwidacji. 4. W przypadku, o którym mowa w ust. 1 pkt 2, likwidatorami są członkowie organu kościoła lub innego związku wyznaniowego uprawnionego do reprezentowania na zewnątrz i zaciągania zobowiązań majątkowych, jeżeli statut lub, w razie braku odpowiednich postanowień statutu, decyzja właściwego organu kościoła lub innego związku wyznaniowego nie stanowi inaczej. 5. Organ rejestrowy, w drodze decyzji, zarządza likwidację i wyznacza likwidatora: 1) w przypadkach, o których mowa w ust. 1 pkt 3 i w art. 36a ust. 2, 2) w razie braku możliwości ustalenia likwidatora, o którym mowa w ust. 4. 6. Przed zniesieniem osoby prawnej, o której mowa w art. 32 ust. 3, kościół lub inny związek wyznaniowy zarządza jej likwidację i wyznacza likwidatora informując o tym organ rejestrowy oraz określa przeznaczenie majątku pozostałego po zakończeniu likwidacji. 7. Do obowiązków likwidatora stosuje się odpowiednio art. 37 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach (Dz.U. z 2001 r. Nr 79, poz. 855, z 2003 r. Nr 96, poz. 874 oraz z 2004 r. Nr 102, poz. 1055). 8. Jeżeli statut kościoła lub innego związku wyznaniowego nie stanowi inaczej, majątek pozostały po zakończeniu postępowania likwidacyjnego kościoła lub innego związku wyznaniowego albo osób prawnych, o których mowa w art. 32 ust. 3, może być przeznaczony wyłącznie na cele charytatywno-opiekuńcze w drodze decyzji organu rejestrowego.”;
 - **8)** w art. 36a ust. 1 otrzymuje brzmienie: „1. Organ rejestrowy lub prokurator może wystąpić do sądu okręgowego o stwierdzenie niezgodności działania kościoła lub innego związku wyznaniowego z przepisami prawa, o których mowa w art. 27 ust. 1, lub ze statutem, o którym mowa w art. 32.”;
 - **9)** w art. 38d ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wyznań religijnych po zasięgnięciu opinii władz kościołów, o których mowa w art. 38a ust. 1 pkt 1-4, określi, w drodze rozporządzenia, liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego, uwzględniając w szczególności organizację pracy Komisji, zadania współprzewodniczących zespołów orzekających, oraz sposób prowadzenia i protokołowania rozpraw, orzekania i nadawania klauzul wykonalności orzeczeniom i ugodom.”.
 

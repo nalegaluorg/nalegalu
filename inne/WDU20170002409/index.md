@@ -58,15 +58,7 @@ o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy – Przepisy wpr
 - **6)** w art. 172 w pkt 5 skreśla się przecinek i uchyla się pkt 6;
 - **7)** w art. 192:
     - **a)** uchyla się ust. 1,
-    - **b)** ust. 2–4 otrzymują brzmienie: „2. Dyrektor Krajowej Informacji Skarbowej oraz dyrektorzy izb administracji skarbowej przekażą Centrum Informatyki Resortu Finansów, nieodpłatnie, na podstawie protokołu zdawczo-odbiorczego, sprzęt i wyposażenie użytkowane dotychczas przez pracowników, o których mowa w art. 168, oraz inne mienie niezbędne do wykonywania zadań przez Centrum Informatyki Resortu Finansów.
-
-3. Prawa i obowiązki wynikające z umów i porozumień zawartych przez:
-
-- **1)** Szefa Krajowej Administracji Skarbowej,
-- **2)** dyrektora Krajowej Informacji Skarbowej,
-- **3)** dyrektorów izb administracji skarbowej – dotyczących obszaru informatyki, z wyłączeniem informatyki śledczej, w zakresie dostarczania usług informatycznych będących przedmiotem działalności Centrum Informatyki Resortu Finansów, w tym finansowanych albo dofinansowanych ze środków pochodzących z budżetu Unii Europejskiej, przejmuje Centrum Informatyki Resortu Finansów.
-
-4. Należności i zobowiązania dyrektora Krajowej Informacji Skarbowej oraz Krajowej Informacji Skarbowej, dyrektorów izb administracji skarbowej oraz izb administracji skarbowej, związane z przejętym przez Centrum Informatyki Resortu Finansów mieniem, o którym mowa w ust. 2, oraz wynikające z umów i porozumień, o których mowa w ust. 3, stają się należnościami i zobowiązaniami Centrum Informatyki Resortu Finansów.”;
+    - **b)** ust. 2–4 otrzymują brzmienie: „2. Dyrektor Krajowej Informacji Skarbowej oraz dyrektorzy izb administracji skarbowej przekażą Centrum Informatyki Resortu Finansów, nieodpłatnie, na podstawie protokołu zdawczo-odbiorczego, sprzęt i wyposażenie użytkowane dotychczas przez pracowników, o których mowa w art. 168, oraz inne mienie niezbędne do wykonywania zadań przez Centrum Informatyki Resortu Finansów. 3. Prawa i obowiązki wynikające z umów i porozumień zawartych przez: 1) Szefa Krajowej Administracji Skarbowej, 2) dyrektora Krajowej Informacji Skarbowej, 3) dyrektorów izb administracji skarbowej – dotyczących obszaru informatyki, z wyłączeniem informatyki śledczej, w zakresie dostarczania usług informatycznych będących przedmiotem działalności Centrum Informatyki Resortu Finansów, w tym finansowanych albo dofinansowanych ze środków pochodzących z budżetu Unii Europejskiej, przejmuje Centrum Informatyki Resortu Finansów. 4. Należności i zobowiązania dyrektora Krajowej Informacji Skarbowej oraz Krajowej Informacji Skarbowej, dyrektorów izb administracji skarbowej oraz izb administracji skarbowej, związane z przejętym przez Centrum Informatyki Resortu Finansów mieniem, o którym mowa w ust. 2, oraz wynikające z umów i porozumień, o których mowa w ust. 3, stają się należnościami i zobowiązaniami Centrum Informatyki Resortu Finansów.”;
 
 - **8)** w art. 260:
     - **a)** pkt 3 otrzymuje brzmienie: „3) art. 4 pkt 12, który wchodzi w życie z dniem 1 stycznia 2018 r.;”,

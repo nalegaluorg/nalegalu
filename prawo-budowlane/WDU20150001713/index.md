@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2015 r. poz. 199, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 10 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Jeżeli na terenie gminy przewiduje się lokalizację obiektów handlowych o powierzchni sprzedaży powyżej 2000 m , w studium określa się obszary, na których mogą być one sytuowane.
-
-3b. Lokalizacja obiektów, o których mowa w ust. 3a, może nastąpić wyłącznie na podstawie miejscowego planu zagospodarowania przestrzennego.”;
-
+- **1)** w art. 10 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Jeżeli na terenie gminy przewiduje się lokalizację obiektów handlowych o powierzchni sprzedaży powyżej 2000 m , w studium określa się obszary, na których mogą być one sytuowane. 3b. Lokalizacja obiektów, o których mowa w ust. 3a, może nastąpić wyłącznie na podstawie miejscowego planu zagospodarowania przestrzennego.”;
 - **2)** w art. 15:
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Plan miejscowy przewidujący lokalizację obiektu handlowego, o którym mowa w art. 10 ust. 3a, sporządza się dla terenu położonego na obszarze obejmującym co najmniej obszar, na którym powinny nastąpić zmiany w strukturze funkcjonalno-przestrzennej, w wyniku realizacji tego obiektu.”,
     - **b)** w ust. 3 pkt 4 otrzymuje brzmienie: „4) granice terenów pod budowę obiektów handlowych, o których mowa w art. 10 ust. 3a;”.

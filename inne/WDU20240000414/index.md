@@ -33,8 +33,7 @@ source: pdf
 - **2)** w art. 53 ust. 2 otrzymuje brzmienie: „2. Podmioty wykonujące działalność leczniczą wchodzące w skład Krajowej Sieci Onkologicznej są obowiązane do przekazywania do systemu Krajowej Sieci Onkologicznej, o którym mowa w art. 11a ust. 1 ustawy zmienianej w art. 45, danych o sprawowanej opiece onkologicznej, o których mowa w art. 26 ust. 3, od dnia 1 kwietnia 2025 r.”;
 - **3)** w art. 54 wyrazy „12 miesięcy” zastępuje się wyrazami „24 miesiące”;
 - **4)** w art. 56 ust. 2 otrzymuje brzmienie: „2. Pierwsza kwalifikacja na dany poziom zabezpieczenia opieki onkologicznej Krajowej Sieci Onkologicznej, o którym mowa w art. 3 ust. 2, zostanie przeprowadzona do dnia 31 marca 2025 r.”;
-- **5)** w art. 58 pkt 1 i 2 otrzymują brzmienie: „1) art. 5, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
-- **2)** art. 20 ust. 2, 4 i 5, które wchodzą w życie z dniem 1 lipca 2025 r.;ˮ.
+- **5)** w art. 58 pkt 1 i 2 otrzymują brzmienie: „1) art. 5, który wchodzi w życie z dniem 1 kwietnia 2025 r.; 2) art. 20 ust. 2, 4 i 5, które wchodzą w życie z dniem 1 lipca 2025 r.;ˮ.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 31 marca 2024 r.
 

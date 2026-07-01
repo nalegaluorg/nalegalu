@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2015 r. poz. 1531, 978 i 1830 oraz z 2016 r. poz. 25) w art. 15 wprowadza się następujące zmiany:
 
-- **1)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Przewodniczący Krajowej Rady, na wniosek nadawcy programu telewizyjnego rozpowszechnianego wyłącznie w systemie teleinformatycznym, może, w drodze decyzji, określić niższy udział w programie telewizyjnym audycji, o których mowa w ust. 1 i 3, uwzględniając liczbę odbiorców i zasięg programu oraz możliwość realizacji obowiązków nałożonych na nadawcę.
-
-3b. Do decyzji, o której mowa w ust. 3a, stosuje się przepis art. 33 ust. 3.”;
-
+- **1)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Przewodniczący Krajowej Rady, na wniosek nadawcy programu telewizyjnego rozpowszechnianego wyłącznie w systemie teleinformatycznym, może, w drodze decyzji, określić niższy udział w programie telewizyjnym audycji, o których mowa w ust. 1 i 3, uwzględniając liczbę odbiorców i zasięg programu oraz możliwość realizacji obowiązków nałożonych na nadawcę. 3b. Do decyzji, o której mowa w ust. 3a, stosuje się przepis art. 33 ust. 3.”;
 - **2)** w ust. 4 w pkt 3 skreśla się przecinek i uchyla się pkt 4.
 
 **Art. 2.** Do dnia wydania decyzji, o której mowa w art. 15 ust. 3a ustawy zmienianej w art. 1, nadawca programu telewizyjnego rozpowszechnianego wyłącznie w systemie teleinformatycznym przeznacza:

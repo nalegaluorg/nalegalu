@@ -32,33 +32,12 @@ source: pdf
 - **1)** w art. 147 § 4 otrzymuje brzmienie: „§ 4. W sądach mogą być zatrudniani asystenci sędziów na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego (stanowiska asystenckie). Ilekroć w przepisach jest mowa o asystentach sędziów, rozumie się przez to osoby zatrudnione na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego.”;
 - **2)** w art. 149 w § 1a po wyrazach „asystenta sędziego” dodaje się wyrazy „lub starszego asystenta sędziego”;
 - **3)** w art. 155:
-    - **a)** po § 1 dodaje się § 1a–1c w brzmieniu: „§ 1a. Na stanowisku młodszego asystenta sędziego może być zatrudniony ten, kto:
-
-- **1)** jest obywatelem Rzeczypospolitej Polskiej i korzysta z pełni praw cywilnych i obywatelskich;
-- **2)** jest nieskazitelnego charakteru;
-- **3)** jest studentem jednolitych studiów magisterskich na kierunku prawo i ukończył trzeci rok tych studiów;
-- **4)** ukończył 20 lat.
-
-§ 1b. Na stanowisku asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4 oraz ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce.
-
-§ 1c. Na stanowisku starszego asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4, ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce oraz:
-
-- **1)** zajmował stanowisko młodszego asystenta sędziego lub asystenta sędziego przez co najmniej siedem lat, albo
-- **2)** zdał egzamin sędziowski, prokuratorski, adwokacki, radcowski, notarialny albo komorniczy lub uzyskał wpis na listę adwokatów albo wpis na listę radców prawnych albo został powołany przez Ministra Sprawiedliwości na stanowisko notariusza albo na stanowisko komornika sądowego.”,
+    - **a)** po § 1 dodaje się § 1a–1c w brzmieniu: „§ 1a. Na stanowisku młodszego asystenta sędziego może być zatrudniony ten, kto: 1) jest obywatelem Rzeczypospolitej Polskiej i korzysta z pełni praw cywilnych i obywatelskich; 2) jest nieskazitelnego charakteru; 3) jest studentem jednolitych studiów magisterskich na kierunku prawo i ukończył trzeci rok tych studiów; 4) ukończył 20 lat. § 1b. Na stanowisku asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4 oraz ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce. § 1c. Na stanowisku starszego asystenta sędziego może być zatrudniony ten, kto spełnia wymagania określone w § 1a pkt 1, 2 i 4, ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce oraz: 1) zajmował stanowisko młodszego asystenta sędziego lub asystenta sędziego przez co najmniej siedem lat, albo 2) zdał egzamin sędziowski, prokuratorski, adwokacki, radcowski, notarialny albo komorniczy lub uzyskał wpis na listę adwokatów albo wpis na listę radców prawnych albo został powołany przez Ministra Sprawiedliwości na stanowisko notariusza albo na stanowisko komornika sądowego.”,
     - **b)** uchyla się § 2,
     - **c)** uchyla się § 3b,
-    - **d)** po § 3b dodaje się § 3c–3f w brzmieniu: „§ 3c. Asystenta sędziego zatrudnia się na stanowisku:
+    - **d)** po § 3b dodaje się § 3c–3f w brzmieniu: „§ 3c. Asystenta sędziego zatrudnia się na stanowisku: 1) młodszego asystenta sędziego – na podstawie umowy o pracę na czas określony niedłuższy niż 33 miesiące; 2) asystenta sędziego – na podstawie umowy o pracę na czas określony. § 3d. Asystenta sędziego zatrudnionego na stanowisku młodszego asystenta sędziego, który ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce, przenosi się na stanowisko asystenta sędziego. § 3e. Z asystentem sędziego zatrudnionym na stanowisku asystenta sędziego, który ukończył staż asystencki albo jest zwolniony z obowiązku jego odbycia, zawiera się umowę o pracę na czas nieokreślony. § 3f. Asystent sędziego zatrudniony na stanowisku młodszego asystenta jest obowiązany niezwłocznie powiadomić prezesa sądu o skreśleniu z listy studentów.”,
+    - **e)** § 6 otrzymuje brzmienie: „§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, minimalną i maksymalną wysokość wynagrodzenia zasadniczego asystentów sędziów zatrudnionych na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego, biorąc pod uwagę kwalifikacje i doświadczenie zawodowe oraz rodzaj i charakter czynności wykonywanych przez asystentów sędziów.”;
 
-- **1)** młodszego asystenta sędziego – na podstawie umowy o pracę na czas określony niedłuższy niż 33 miesiące;
-- **2)** asystenta sędziego – na podstawie umowy o pracę na czas określony.
-
-§ 3d. Asystenta sędziego zatrudnionego na stanowisku młodszego asystenta sędziego, który ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra lub zagraniczne uznane w Polsce, przenosi się na stanowisko asystenta sędziego.
-
-§ 3e. Z asystentem sędziego zatrudnionym na stanowisku asystenta sędziego, który ukończył staż asystencki albo jest zwolniony z obowiązku jego odbycia, zawiera się umowę o pracę na czas nieokreślony.
-
-§ 3f. Asystent sędziego zatrudniony na stanowisku młodszego asystenta jest obowiązany niezwłocznie powiadomić prezesa sądu o skreśleniu z listy studentów.”,
-
-- **e)** § 6 otrzymuje brzmienie: „§ 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, minimalną i maksymalną wysokość wynagrodzenia zasadniczego asystentów sędziów zatrudnionych na stanowiskach młodszego asystenta sędziego, asystenta sędziego i starszego asystenta sędziego, biorąc pod uwagę kwalifikacje i doświadczenie zawodowe oraz rodzaj i charakter czynności wykonywanych przez asystentów sędziów.”;
 - **4)** w art. 155a w § 6 wyrazy „asystenta sędziego” zastępuje się wyrazami „młodszego asystenta sędziego, asystenta sędziego lub starszego asystenta sędziego”;
 - **5)** w art. 155ca:
     - **a)** uchyla się § 2,

@@ -29,14 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera (Dz. U. z 2019 r. poz. 1783) wprowadza się następujące zmiany:
 
-- **1)** w art. 67 dotychczasowe brzmienie oznacza się jako ust. 1 i dodaje się ust. 2–5 w brzmieniu: „2. Administracyjne kary pieniężne, o których mowa w art. 64 oraz art. 66, nakłada, w drodze decyzji, także komendant oddziału Straży Granicznej w przypadku przekazania mu przez Komendanta Głównego Straży Granicznej zawiadomienia, o którym mowa w art. 18 ust. 4.
-
-3. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten sam organ.
-
-4. W przypadku gdy przewoźnik lotniczy dopuścił się więcej niż jednego naruszenia określonego w art. 64 albo art. 66, Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może objąć jednym postępowaniem administracyjnym więcej niż jedno naruszenie.
-
-5. W przypadku objęcia jednym postępowaniem administracyjnym więcej niż jednego naruszenia określonego w art. 64 albo art. 66 Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może wydać jedną decyzję administracyjną. W decyzji tej, w przypadku nałożenia administracyjnej kary pieniężnej, wysokość kary pieniężnej stanowi sumę wysokości administracyjnych kar pieniężnych z tytułu wszystkich stwierdzonych naruszeń.”;
-
+- **1)** w art. 67 dotychczasowe brzmienie oznacza się jako ust. 1 i dodaje się ust. 2–5 w brzmieniu: „2. Administracyjne kary pieniężne, o których mowa w art. 64 oraz art. 66, nakłada, w drodze decyzji, także komendant oddziału Straży Granicznej w przypadku przekazania mu przez Komendanta Głównego Straży Granicznej zawiadomienia, o którym mowa w art. 18 ust. 4. 3. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy przez ten sam organ. 4. W przypadku gdy przewoźnik lotniczy dopuścił się więcej niż jednego naruszenia określonego w art. 64 albo art. 66, Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może objąć jednym postępowaniem administracyjnym więcej niż jedno naruszenie. 5. W przypadku objęcia jednym postępowaniem administracyjnym więcej niż jednego naruszenia określonego w art. 64 albo art. 66 Komendant Główny Straży Granicznej albo komendant oddziału Straży Granicznej może wydać jedną decyzję administracyjną. W decyzji tej, w przypadku nałożenia administracyjnej kary pieniężnej, wysokość kary pieniężnej stanowi sumę wysokości administracyjnych kar pieniężnych z tytułu wszystkich stwierdzonych naruszeń.”;
 - **2)** uchyla się art. 70.
 
 **Art. 2.**

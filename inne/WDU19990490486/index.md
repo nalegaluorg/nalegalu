@@ -41,9 +41,7 @@ source: pdf
 
 - **5)** w art. 27:
     - **a)** w ust. 1: - w pkt 1 wyrazy „wypłacanego zatrudnionym osobom niepełnosprawnym” zastępuje się wyrazami „zatrudnionych osób niepełnosprawnych”, - w pkt 2 wyrazy „składki na ubezpieczenie społeczne” zastępuje się wyrazami „składek należnych od pracodawcy na ubezpieczenia społeczne”,
-    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Zwrot kosztów wynagrodzenia, o których mowa w ust. 1 pkt 1, ulega zmniejszeniu o część wynagrodzenia finansowaną przez Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych w trybie art. 25 ust. 2 pkt 1 i ust. 3 pkt 1.
-
-1b. Zwrot kosztów pracodawcy, o których mowa w ust. 1 pkt 2, nie obejmuje kosztów w części finansowanej przez budżet państwa lub Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych w trybie art. 25 ust. 2 pkt 2 i ust. 3 pkt 2.”.
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Zwrot kosztów wynagrodzenia, o których mowa w ust. 1 pkt 1, ulega zmniejszeniu o część wynagrodzenia finansowaną przez Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych w trybie art. 25 ust. 2 pkt 1 i ust. 3 pkt 1. 1b. Zwrot kosztów pracodawcy, o których mowa w ust. 1 pkt 2, nie obejmuje kosztów w części finansowanej przez budżet państwa lub Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych w trybie art. 25 ust. 2 pkt 2 i ust. 3 pkt 2.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia, z tym że art. 1 pkt 1 lit. b), pkt 3 oraz pkt 4 lit. a) pierwsze tiret wchodzą w życie z dniem 1 czerwca 1999 r.
 

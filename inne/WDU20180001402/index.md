@@ -36,9 +36,7 @@ source: pdf
     - **c)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, ustala się na podstawie ksiąg wieczystych, a siedziby i adresy właścicieli i użytkowników wieczystych określa się według katastru nieruchomości.”,
     - **d)** ust. 4 otrzymuje brzmienie: „4. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne ma zastosowanie również w tych postępowaniach, w których liczba stron nie przekracza 10.”,
     - **e)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) właściciela wody stosuje się odpowiednio przepisy art. 6 ust. 1 pkt 2 i ust. 3 oraz art. 10.”,
-    - **f)** ust. 6 i 7 otrzymują brzmienie: „6. W przypadku niewydania decyzji w terminie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej wymierza Państwowemu Gospodarstwu Wodnemu Wody Polskie, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 1000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
-
-7. Karę uiszcza się w terminie 14 dni od dnia doręczenia Państwowemu Gospodarstwu Wodnemu Wody Polskie ostatecznego postanowienia, o którym mowa w ust. 6.”;
+    - **f)** ust. 6 i 7 otrzymują brzmienie: „6. W przypadku niewydania decyzji w terminie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej wymierza Państwowemu Gospodarstwu Wodnemu Wody Polskie, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 1000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa. 7. Karę uiszcza się w terminie 14 dni od dnia doręczenia Państwowemu Gospodarstwu Wodnemu Wody Polskie ostatecznego postanowienia, o którym mowa w ust. 6.”;
 
 - **3)** w art. 24 ust. 2 otrzymuje brzmienie: „2. Inwestor, niezwłocznie przed planowanym zajęciem terenu, o którym mowa w ust. 1, uzgadnia w drodze pisemnego porozumienia z zarządcą drogi, zarządcą infrastruktury kolejowej lub z odpowiednimi organami, o których mowa w art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zakres, termin i warunki zajęcia tego terenu.”.
 

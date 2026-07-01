@@ -30,33 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** tytuł działu XI otrzymuje brzmienie: „Stypendia i nagrody ministra, nagrody Prezesa Rady Ministrów oraz Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas” ”;
-- **2)** po art. 364 dodaje się art. 364a w brzmieniu: „Art. 364a. 1. Za szczególne zasługi dla szkolnictwa wyższego i nauki, w tym za wybitne osiągnięcia w zakresie działalności naukowej, dydaktycznej lub organizacyjnej, może zostać nadany Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”, zwany dalej „Medalem”.
-
-2. Medal może zostać nadany osobie fizycznej, w tym osobie nieposiadającej obywatelstwa polskiego, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej. Medal może zostać nadany osobie fizycznej również pośmiertnie.
-
-3. Medal nadaje minister z własnej inicjatywy albo na wniosek:
-
-- **1)** innego ministra kierującego działem administracji rządowej;
-- **2)** kierownika urzędu centralnego;
-- **3)** wojewody;
-- **4)** organu jednostki samorządu terytorialnego;
-- **5)** osoby kierującej podmiotem, o którym mowa w art. 7;
-- **6)** przewodniczącego KPN;
-- **7)** władz statutowych instytucji przedstawicielskich środowiska szkolnictwa wyższego i nauki, organizacji społecznych, stowarzyszeń, reprezentatywnych organizacji związkowych lub reprezentatywnych organizacji pracodawców;
-- **8)** ambasadora, kierownika przedstawicielstwa dyplomatycznego, stałego przedstawicielstwa przy organizacji międzynarodowej lub urzędu konsularnego Rzeczypospolitej Polskiej.
-
-4. Wniosek o nadanie Medalu zawiera w szczególności:
-
-- **1)** w przypadku przedstawianej do odznaczenia:
-    - **a)** osoby fizycznej – imiona i nazwisko, imię ojca, datę i miejsce urodzenia, miejsce zamieszkania oraz stopień doktora, doktora habilitowanego lub tytuł profesora, jeżeli posiada,
-    - **b)** osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej – nazwę, siedzibę, adres i datę utworzenia;
-
-- **2)** uzasadnienie;
-- **3)** oznaczenie wnioskodawcy i jego dane kontaktowe.
-
-5. Medal posiada trzy stopnie:
-
-- **1)** pierwszy – Złoty Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
+- **2)** po art. 364 dodaje się art. 364a w brzmieniu: „Art. 364a. 1. Za szczególne zasługi dla szkolnictwa wyższego i nauki, w tym za wybitne osiągnięcia w zakresie działalności naukowej, dydaktycznej lub organizacyjnej, może zostać nadany Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”, zwany dalej „Medalem”. 2. Medal może zostać nadany osobie fizycznej, w tym osobie nieposiadającej obywatelstwa polskiego, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej. Medal może zostać nadany osobie fizycznej również pośmiertnie. 3. Medal nadaje minister z własnej inicjatywy albo na wniosek: 1) innego ministra kierującego działem administracji rządowej; 2) kierownika urzędu centralnego; 3) wojewody; 4) organu jednostki samorządu terytorialnego; 5) osoby kierującej podmiotem, o którym mowa w art. 7; 6) przewodniczącego KPN; 7) władz statutowych instytucji przedstawicielskich środowiska szkolnictwa wyższego i nauki, organizacji społecznych, stowarzyszeń, reprezentatywnych organizacji związkowych lub reprezentatywnych organizacji pracodawców; 8) ambasadora, kierownika przedstawicielstwa dyplomatycznego, stałego przedstawicielstwa przy organizacji międzynarodowej lub urzędu konsularnego Rzeczypospolitej Polskiej. 4. Wniosek o nadanie Medalu zawiera w szczególności: 1) w przypadku przedstawianej do odznaczenia: a) osoby fizycznej – imiona i nazwisko, imię ojca, datę i miejsce urodzenia, miejsce zamieszkania oraz stopień doktora, doktora habilitowanego lub tytuł profesora, jeżeli posiada, b) osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej – nazwę, siedzibę, adres i datę utworzenia; 2) uzasadnienie; 3) oznaczenie wnioskodawcy i jego dane kontaktowe. 5. Medal posiada trzy stopnie: 1) pierwszy – Złoty Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
 - **2)** drugi – Srebrny Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
 - **3)** trzeci – Brązowy Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”.
 
@@ -103,25 +77,19 @@ source: pdf
     - **a)** ust. 2 otrzymuje brzmienie: „2. Do członków lokalnej komisji stosuje się odpowiednio przepisy art. 34 ust. 2–4 i 7 oraz art. 35.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Komisja wyznacza przewodniczących lokalnych komisji spośród ich członków oraz udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki informację o powołanych członkach lokalnych komisji, podając ich imiona i nazwiska.”;
 
-- **3)** po art. 40 dodaje się art. 40a w brzmieniu: „Art. 40a. Uchwały podjęte przez:
-- **1)** Komisję – podpisuje przewodniczący Komisji, a w przypadku jego nieobecności – wiceprzewodniczący Komisji;
-- **2)** lokalną komisję – podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności – wiceprzewodniczący lokalnej komisji.”.
+- **3)** po art. 40 dodaje się art. 40a w brzmieniu: „Art. 40a. Uchwały podjęte przez: 1) Komisję – podpisuje przewodniczący Komisji, a w przypadku jego nieobecności – wiceprzewodniczący Komisji; 2) lokalną komisję – podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności – wiceprzewodniczący lokalnej komisji.”.
 
 **Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 187:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Od dnia 1 stycznia 2021 r. postępowania w sprawach, o których mowa w art. 28 ust. 3a i 3b ustawy uchylanej w art. 169 pkt 2, prowadzi Rada Doskonałości Naukowej.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Od dnia 1 stycznia 2021 r. w postępowaniach w sprawach, o których mowa w art. 29 ust. 3 ustawy uchylanej w art. 169 pkt 2, organem wydającym postanowienie o wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu o wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie.
-
-3b. W przypadku utraty przez podmiot wyznaczony zgodnie z ust. 3a uprawnienia do nadawania stopnia doktora w danej dyscyplinie albo stopnia doktora habilitowanego w danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia do nadawania stopnia w tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.”;
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Od dnia 1 stycznia 2021 r. w postępowaniach w sprawach, o których mowa w art. 29 ust. 3 ustawy uchylanej w art. 169 pkt 2, organem wydającym postanowienie o wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu o wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie. 3b. W przypadku utraty przez podmiot wyznaczony zgodnie z ust. 3a uprawnienia do nadawania stopnia doktora w danej dyscyplinie albo stopnia doktora habilitowanego w danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia do nadawania stopnia w tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.”;
 
 - **2)** w art. 238:
     - **a)** ust. 10 otrzymuje brzmienie: „10. Do jednostek, o których mowa w ust. 9, stosuje się przepisy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy, o której mowa w ust. 9, z wyłączeniem art. 84b ust. 2 i 4 ustawy uchylanej w art. 169 pkt 3.”,
     - **b)** dodaje się ust. 10a w brzmieniu: „10a. Oceny efektów działania jednostek, o których mowa w ust. 9, dokonuje na podstawie raportu końcowego, prezentującego osiągnięte wyniki przeprowadzonych badań naukowych i ich powiązania z procesem dydaktycznym, rozwojem kadry naukowej oraz otoczeniem społeczno-gospodarczym, zespół doradczy powołany przez ministra właściwego do spraw szkolnictwa wyższego i nauki na podstawie art. 341 ustawy, o której mowa w art. 1.”;
 
-- **3)** po art. 318 dodaje się art. 318a w brzmieniu: „Art. 318a. 1. Środki finansowe przyznane w ramach programu „Regionalna Inicjatywa Doskonałości” ustanowionego komunikatem Ministra Nauki i Szkolnictwa Wyższego z dnia 19 stycznia 2018 r. o ustanowieniu programu pod nazwą „Regionalna Inicjatywa Doskonałości” (M.P. poz. 120) mogą być przekazywane do dnia 31 grudnia 2023 r.
-
-2. Minister właściwy do spraw szkolnictwa wyższego i nauki, na wniosek beneficjenta programu, o którym mowa w ust. 1, zawiera z nim aneks do umowy o realizację projektu, na podstawie której środki finansowe są przekazywane w 2023 r.”.
+- **3)** po art. 318 dodaje się art. 318a w brzmieniu: „Art. 318a. 1. Środki finansowe przyznane w ramach programu „Regionalna Inicjatywa Doskonałości” ustanowionego komunikatem Ministra Nauki i Szkolnictwa Wyższego z dnia 19 stycznia 2018 r. o ustanowieniu programu pod nazwą „Regionalna Inicjatywa Doskonałości” (M.P. poz. 120) mogą być przekazywane do dnia 31 grudnia 2023 r. 2. Minister właściwy do spraw szkolnictwa wyższego i nauki, na wniosek beneficjenta programu, o którym mowa w ust. 1, zawiera z nim aneks do umowy o realizację projektu, na podstawie której środki finansowe są przekazywane w 2023 r.”.
 
 **Art. 7.** Przewodniczący lokalnych komisji etycznych do spraw doświadczeń na zwierzętach, o których mowa w art. 32 ust. 1 ustawy zmienianej w art. 5, wybrani na podstawie przepisów dotychczasowych pełnią swoje funkcje do dnia zakończenia kadencji tych komisji.
 

@@ -30,44 +30,19 @@ o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych or
 
 **Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 77 ust. 2 otrzymuje brzmienie: „2. Członkami rodziny, o których mowa w ust. 1 pkt 4, są:
-- **1)** małżonek (wdowa i wdowiec);
-- **2)** rodzice, ojczym, macocha oraz osoby przysposabiające;
-- **3)** dzieci własne, dzieci drugiego małżonka, dzieci przysposobione i dzieci umieszczone w rodzinie zastępczej;
-- **4)** przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności inne dzieci niż wymienione w pkt 3;
-- **5)** rodzeństwo;
-- **6)** dziadkowie;
-- **7)** wnuki;
-- **8)** osoby, nad którymi została ustanowiona opieka prawna.”;
-- **2)** w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
-- **1)** 880,45 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
-- **2)** 675,13 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
-
-2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 880,45 zł miesięcznie.”.
+- **1)** w art. 77 ust. 2 otrzymuje brzmienie: „2. Członkami rodziny, o których mowa w ust. 1 pkt 4, są: 1) małżonek (wdowa i wdowiec); 2) rodzice, ojczym, macocha oraz osoby przysposabiające; 3) dzieci własne, dzieci drugiego małżonka, dzieci przysposobione i dzieci umieszczone w rodzinie zastępczej; 4) przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności inne dzieci niż wymienione w pkt 3; 5) rodzeństwo; 6) dziadkowie; 7) wnuki; 8) osoby, nad którymi została ustanowiona opieka prawna.”;
+- **2)** w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 880,45 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 675,13 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 880,45 zł miesięcznie.”.
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648, z późn. zm. ) art. 11 otrzymuje brzmienie: „Art. 11. 1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2398,10 zł. 2. Waloryzacji podstawy wymiaru renty inwalidzkiej dokonuje się na zasadach i w terminach przewidzianych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3. Podwyższenia podstawy wymiaru renty inwalidzkiej dokonuje się z urzędu, a w przypadku gdy prawo do świadczenia zostało zawieszone – na wniosek osoby zainteresowanej albo przy wznowieniu wypłaty świadczenia.”.
 
 **Art. 3.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2013 r. poz. 1403, z późn. zm. ) w art. 35:
 
 - **1)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) członka rodziny osoby, o której mowa w pkt 1 lub 2;”;
-- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Członkami rodziny, o których mowa w ust. 1 pkt 3, są:
-- **1)** małżonek (wdowa i wdowiec);
-- **2)** rodzice, ojczym, macocha oraz osoby przysposabiające;
-- **3)** dzieci własne, dzieci drugiego małżonka, dzieci przysposobione i dzieci umieszczone w rodzinie zastępczej;
-- **4)** przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności inne dzieci niż wymienione w pkt 3;
-- **5)** rodzeństwo;
-- **6)** dziadkowie;
-- **7)** wnuki;
-- **8)** osoby, nad którymi została ustanowiona opieka prawna.”.
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Członkami rodziny, o których mowa w ust. 1 pkt 3, są: 1) małżonek (wdowa i wdowiec); 2) rodzice, ojczym, macocha oraz osoby przysposabiające; 3) dzieci własne, dzieci drugiego małżonka, dzieci przysposobione i dzieci umieszczone w rodzinie zastępczej; 4) przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności inne dzieci niż wymienione w pkt 3; 5) rodzeństwo; 6) dziadkowie; 7) wnuki; 8) osoby, nad którymi została ustanowiona opieka prawna.”.
 
 **Art. 4.** W ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2013 r. poz. 982 i 1650 oraz z 2014 r. poz. 1175) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Renta socjalna wynosi 84% kwoty najniższej renty z tytułu całkowitej niezdolności do pracy ustalonej i podwyższonej zgodnie z ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-2. Podwyższenia renty socjalnej dokonuje jednostka organizacyjna Zakładu lub organ emerytalno-rentowy.
-
-3. Podwyższenie renty socjalnej następuje z urzędu, a jeżeli wypłata renty została wstrzymana – po jej wznowieniu.”;
-
+- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Renta socjalna wynosi 84% kwoty najniższej renty z tytułu całkowitej niezdolności do pracy ustalonej i podwyższonej zgodnie z ustawą o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 2. Podwyższenia renty socjalnej dokonuje jednostka organizacyjna Zakładu lub organ emerytalno-rentowy. 3. Podwyższenie renty socjalnej następuje z urzędu, a jeżeli wypłata renty została wstrzymana – po jej wznowieniu.”;
 - **2)** w art. 15 pkt 1 otrzymuje brzmienie: „1) art. 12–14, art. 61, art. 78–81, art. 93 ust. 2, art. 98, art. 100 ust. 1 i 2, art. 101, art. 102 ust. 1, art. 104 ust. 4, art. 107, art. 114, art. 116 ust. 1b i 2, art. 118 ust. 1–5, art. 119 ust. 1, art. 121, art. 122 ust. 1, art. 126, art. 128, art. 129 ust. 1, art. 130 ust. 1, art. 133–135, art. 136a i art. 138–144 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz przepisy wydane na podstawie art. 128a tej ustawy, przy czym kwotę wolną od potrąceń i egzekucji ustala się według zasad określonych dla renty z tytułu całkowitej niezdolności do pracy;”.
 
 **Art. 5.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2013 r. poz. 170 oraz z 2014 r. poz. 598) wprowadza się następujące zmiany:

@@ -30,13 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej (Dz. U. z 2015 r. poz. 248) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Szkoła realizuje również zadania w zakresie szkoleń dla pracowników administracji publicznej.”;
-- **2)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego.
-
-2. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa w art. 106 ust. 2 pkt ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111, z późn. zm. ).
-
-3. Zlecenie szkolenia, o którym mowa w ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia.
-
-4. Na realizację szkoleń, o których mowa w ust. 1 i 2, Szkoła może otrzymać dotację celową ze środków, o rych mowa w art. 111 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, lub ze środków pochodzących z części budżetowej będącej w dyspozycji właściwego dysponenta części budżetowej.”.
+- **2)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego. 2. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa w art. 106 ust. 2 pkt ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2014 r. poz. 1111, z późn. zm. ). 3. Zlecenie szkolenia, o którym mowa w ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia. 4. Na realizację szkoleń, o których mowa w ust. 1 i 2, Szkoła może otrzymać dotację celową ze środków, o rych mowa w art. 111 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, lub ze środków pochodzących z części budżetowej będącej w dyspozycji właściwego dysponenta części budżetowej.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

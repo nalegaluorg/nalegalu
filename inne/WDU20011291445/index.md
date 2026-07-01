@@ -40,15 +40,8 @@ source: pdf
 - **4)** w art. 3:
     - **a)** w ust. 1 w pkt 1 wyrazy „ukończenia wyższej, średniej lub zasadniczej szkoły” zastępuje się wyrazami „ukończenia wyższej lub ponadgimnazjalnej szkoły”,
     - **b)** dodaje się ust. 3a w brzmieniu: „3a. Nadzór nad działalnością komisji egzaminacyjnych izb rzemieślniczych sprawuje minister właściwy do spraw oświaty i wychowania, stosując kryterium zgodności z prawem.”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw oświaty i wychowania po zasięgnięciu opinii Związku Rzemiosła Polskiego określi, w drodze rozporządzenia, zasady powoływania i działania komisji egzaminacyjnych izb rzemieślniczych, sposób przeprowadzania egzaminów, zasady ustalania opłat egzaminacyjnych i wynagradzania członków komisji egzaminacyjnych, wzory świadectw czeladniczych i dyplomów mistrzowskich oraz szczegółowe zasady, zakres i tryb sprawowania nadzoru nad działalnością komisji egzaminacyjnych, uwzględniając w szczególności:
-
-- **1)** skład komisji egzaminacyjnych,
-- **2)** wymagania, jakim powinni odpowiadać członkowie komisji egzaminacyjnych,
-- **3)** zakres obowiązujących tematów egzaminów i tryb ich składania,
-- **4)** sposób oceniania osób biorących udział w egzaminie.”,
-    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. Rzemieślnicy zatrudniający pracowników w celu przygotowania zawodowego w rzemiośle obowiązani są spełniać warunki określone odrębnymi przepisami oraz być członkami jednej z organizacji, o których mowa w art. 7 ust. 3 pkt 1 i 3.
-
-6. Nadzór nad przebiegiem przygotowania zawodowego w rzemiośle pracowników młodocianych sprawuje izba rzemieślnicza lub z jej upoważnienia cech, właściwe ze względu na siedzibę rzemieślnika.”;
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw oświaty i wychowania po zasięgnięciu opinii Związku Rzemiosła Polskiego określi, w drodze rozporządzenia, zasady powoływania i działania komisji egzaminacyjnych izb rzemieślniczych, sposób przeprowadzania egzaminów, zasady ustalania opłat egzaminacyjnych i wynagradzania członków komisji egzaminacyjnych, wzory świadectw czeladniczych i dyplomów mistrzowskich oraz szczegółowe zasady, zakres i tryb sprawowania nadzoru nad działalnością komisji egzaminacyjnych, uwzględniając w szczególności: 1) skład komisji egzaminacyjnych, 2) wymagania, jakim powinni odpowiadać członkowie komisji egzaminacyjnych, 3) zakres obowiązujących tematów egzaminów i tryb ich składania, 4) sposób oceniania osób biorących udział w egzaminie.”,
+    - **d)** dodaje się ust. 5 i 6 w brzmieniu: „5. Rzemieślnicy zatrudniający pracowników w celu przygotowania zawodowego w rzemiośle obowiązani są spełniać warunki określone odrębnymi przepisami oraz być członkami jednej z organizacji, o których mowa w art. 7 ust. 3 pkt 1 i 3. 6. Nadzór nad przebiegiem przygotowania zawodowego w rzemiośle pracowników młodocianych sprawuje izba rzemieślnicza lub z jej upoważnienia cech, właściwe ze względu na siedzibę rzemieślnika.”;
 
 - **5)** w art. 4:
     - **a)** w ust. l pkt l otrzymuje brzmienie: „1) zrzeszania się w organizacjach, o których mowa w art. 7 ust. 3 pkt 1 i 3, na zasadach określonych w ustawie,”,
@@ -61,28 +54,13 @@ source: pdf
 - **8)** w art. 7:
     - **a)** ust. l otrzymuje brzmienie: „1. Tworzy się samorząd gospodarczy rzemiosła.”,
     - **b)** w ust. 3 skreśla się pkt 2 i 5,
-    - **c)** ust. 5 otrzymuje brzmienie: „5. Do zadań samorządu gospodarczego rzemiosła należy w szczególności:
-
-- **1)** promocja działalności gospodarczej i społeczno-zawodowej rzemiosła,
-- **2)** nadzór nad organizacją i przebiegiem procesu przygotowania zawodowego w rzemiośle,
-- **3)** udzielanie pomocy rzemieślnikom i innym przedsiębiorcom zrzeszonym w organizacjach samorządu gospodarczego rzemiosła,
-- **4)** reprezentowanie interesów środowiska rzemieślniczego wobec organów administracji publicznej,
-- **5)** uczestniczenie w realizacji zadań z zakresu oświaty i wychowania w celu zapewnienia wykwalifikowanych kadr dla gospodarki.”,
-    - **d)** dodaje się ust. 6 i 7 w brzmieniu: „6. Właściwi ministrowie zasięgają opinii Związku Rzemiosła Polskiego odnośnie projektów aktów prawnych dotyczących rzemiosła.
-
-7. Za zgodą organizacji samorządu gospodarczego rzemiosła jej członkami mogą być, na czas określony, także osoby fizyczne wykonujące działalność gospodarczą, nie będące rzemieślnikami zatrudniające nie więcej niż 50 pracowników.”;
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Do zadań samorządu gospodarczego rzemiosła należy w szczególności: 1) promocja działalności gospodarczej i społeczno-zawodowej rzemiosła, 2) nadzór nad organizacją i przebiegiem procesu przygotowania zawodowego w rzemiośle, 3) udzielanie pomocy rzemieślnikom i innym przedsiębiorcom zrzeszonym w organizacjach samorządu gospodarczego rzemiosła, 4) reprezentowanie interesów środowiska rzemieślniczego wobec organów administracji publicznej, 5) uczestniczenie w realizacji zadań z zakresu oświaty i wychowania w celu zapewnienia wykwalifikowanych kadr dla gospodarki.”,
+    - **d)** dodaje się ust. 6 i 7 w brzmieniu: „6. Właściwi ministrowie zasięgają opinii Związku Rzemiosła Polskiego odnośnie projektów aktów prawnych dotyczących rzemiosła. 7. Za zgodą organizacji samorządu gospodarczego rzemiosła jej członkami mogą być, na czas określony, także osoby fizyczne wykonujące działalność gospodarczą, nie będące rzemieślnikami zatrudniające nie więcej niż 50 pracowników.”;
 
 - **9)** w art. 8 skreśla się wyrazy „pkt 1-4”;
 - **10)** w art. 9 ust. l otrzymuje brzmienie: „1. Cechy są organizacjami samorządu gospodarczego rzemiosła zrzeszającymi rzemieślników według kryterium terytorialnego lub według rodzaju działalności gospodarczej.”;
 - **11)** w art. 10 w ust. 1 skreśla się wyrazy „jako organizacje rzemiosła”;
-- **12)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Izby rzemieślnicze są organizacjami samorządu gospodarczego rzemiosła zrzeszającymi cechy, spółdzielnie rzemieślnicze, rzemieślników nienależących do cechów, a także inne jednostki organizacyjne, jeżeli ich celem jest wspieranie rozwoju gospodarczego rzemiosła. Izby mogą w swych statutach przyjmować nazwy z dodatkiem wyrazów „przedsiębiorczość” lub „przedsiębiorca” użytych w odpowiednim przypadku, a także określeń zawierających wskazanie regionu.
-
-2. Podstawowym zadaniem izb rzemieślniczych jest pomoc w reprezentowaniu, zrzeszonych organizacji oraz rzemieślników, wobec organów administracji publicznej oraz innych organizacji i instytucji, udzielanie swym członkom pomocy instruktażowej i doradczej, oraz przeprowadzanie egzaminów kwalifikacyjnych. Szczegółowy zakres zadań izb rzemieślniczych określają ich statuty.
-
-3. Izby rzemieślnicze są uprawnione do potwierdzania egzaminów kwalifikacyjnych świadectwami czeladniczymi i dyplomami mistrzowskimi oraz do opatrywania ich pieczęcią z godłem Państwa.
-
-4. Ilekroć w przepisach prawa mówi się o izbie rzemieślniczej, należy przez to rozumieć izbę rzemieślniczą, utworzoną w trybie i na zasadach określonych w niniejszej ustawie, bez względu na nazwę przyjętą w jej statucie.”;
-
+- **12)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Izby rzemieślnicze są organizacjami samorządu gospodarczego rzemiosła zrzeszającymi cechy, spółdzielnie rzemieślnicze, rzemieślników nienależących do cechów, a także inne jednostki organizacyjne, jeżeli ich celem jest wspieranie rozwoju gospodarczego rzemiosła. Izby mogą w swych statutach przyjmować nazwy z dodatkiem wyrazów „przedsiębiorczość” lub „przedsiębiorca” użytych w odpowiednim przypadku, a także określeń zawierających wskazanie regionu. 2. Podstawowym zadaniem izb rzemieślniczych jest pomoc w reprezentowaniu, zrzeszonych organizacji oraz rzemieślników, wobec organów administracji publicznej oraz innych organizacji i instytucji, udzielanie swym członkom pomocy instruktażowej i doradczej, oraz przeprowadzanie egzaminów kwalifikacyjnych. Szczegółowy zakres zadań izb rzemieślniczych określają ich statuty. 3. Izby rzemieślnicze są uprawnione do potwierdzania egzaminów kwalifikacyjnych świadectwami czeladniczymi i dyplomami mistrzowskimi oraz do opatrywania ich pieczęcią z godłem Państwa. 4. Ilekroć w przepisach prawa mówi się o izbie rzemieślniczej, należy przez to rozumieć izbę rzemieślniczą, utworzoną w trybie i na zasadach określonych w niniejszej ustawie, bez względu na nazwę przyjętą w jej statucie.”;
 - **13)** w art. 12:
     - **a)** ust. 2 otrzymuje brzmienie: „2. W Związku Rzemiosła Polskiego mogą się zrzeszać izby rzemieślnicze, a także cechy o zasięgu ogólnopolskim.”,
     - **b)** ust. 5 otrzymuje brzmienie: „5. Związek Rzemiosła Polskiego pełni względem spółdzielni rzemieślniczych funkcje związku rewizyjnego, w trybie i na zasadach określonych w przepisach Prawa spółdzielczego.”;

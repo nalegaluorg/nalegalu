@@ -49,62 +49,19 @@ source: pdf
 - **11)** tytuł rozdziału 8 otrzymuje brzmienie: "Dowód osobisty";
 - **12)** skreśla się art. 32;
 - **13)** art. 33 otrzymuje brzmienie: "Art. 33. Dowodu osobistego nie wolno zatrzymywać, z wyjątkiem przypadków określonych w ustawie.";
-- **14)** art. 34 otrzymuje brzmienie: "Art. 34. 1. Osoba będąca obywatelem polskim i zamieszkała w Rzeczypospolitej Polskiej jest obowiązana posiadać dowód osobisty:
-- **1)** od ukończenia 18 roku życia,
-- **2)** od ukończenia 15 roku życia, jeżeli pozostaje w stosunku pracy lub nie zamieszkuje wspólnie z osobami, pod których władzą rodzicielską lub opieką się znajduje, albo nie pozostaje pod władzą rodzicielską lub opieką.
-
-2. Osoba będąca obywatelem polskim ma prawo otrzymać dowód osobisty od ukończenia 13 roku życia.";
-
+- **14)** art. 34 otrzymuje brzmienie: "Art. 34. 1. Osoba będąca obywatelem polskim i zamieszkała w Rzeczypospolitej Polskiej jest obowiązana posiadać dowód osobisty: 1) od ukończenia 18 roku życia, 2) od ukończenia 15 roku życia, jeżeli pozostaje w stosunku pracy lub nie zamieszkuje wspólnie z osobami, pod których władzą rodzicielską lub opieką się znajduje, albo nie pozostaje pod władzą rodzicielską lub opieką. 2. Osoba będąca obywatelem polskim ma prawo otrzymać dowód osobisty od ukończenia 13 roku życia.";
 - **15)** skreśla się art. 35;
-- **16)** art. 36 otrzymuje brzmienie: "Art. 36. 1. Dowód osobisty jest ważny 10 lat od daty jego wydania.
-
-2. Dowód osobisty wydany osobie, która nie ukończyła 18 roku życia, jest ważny 5 lat od daty jego wydania.
-
-3. Dowód osobisty wydany osobie, która ukończyła 65 rok życia, jest ważny na czas nie oznaczony, jeżeli osoba ta zwróciła się o wydanie dowodu osobistego z takim terminem ważności.";
-
-- **17)** po art. 36 dodaje się art. 36a w brzmieniu: "Art. 36a. 1. Dowód osobisty wydaje się po uiszczeniu należnej opłaty stanowiącej równowartość kosztów jego wydania.
-
-2. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
-
-3. Rada Ministrów określi, w drodze rozporządzenia, wysokość opłaty za wydanie dowodu osobistego, tryb jej uiszczenia oraz warunki i zakres stosowania ulg i zwolnień od tej opłaty.";
-
-- **18)** art. 37 otrzymuje brzmienie: "Art. 37. 1. W dowodzie osobistym zamieszcza się:
-- **1)** nazwisko i imię (imiona) oraz imiona rodziców i nazwisko rodowe,
-- **2)** datę i miejsce urodzenia,
-- **3)** adres miejsca zameldowania na pobyt stały, a w razie jego braku - zameldowania na pobyt czasowy trwający ponad dwa miesiące; w przypadku braku zameldowania na pobyt stały albo pobyt czasowy trwający ponad dwa miesiące, danych o adresie nie zamieszcza się,
-- **4)** płeć, wzrost w centymetrach i kolor oczu,
-- **5)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL),
-- **6)** nazwę organu wydającego, datę wydania oraz termin ważności dowodu osobistego.
-
-2. Dowód osobisty zawiera również zdjęcie i podpis jego posiadacza.
-
-3. Dane zawarte w dowodzie osobistym przeznaczone do odczytania maszynowego oraz dane zawarte w numerze ewidencyjnym, o którym mowa w ust. 1 pkt 5, nie mogą obejmować innych danych osobowych niż określone w ust. 1 pkt 1-4 i
-
-6. ";
-
+- **16)** art. 36 otrzymuje brzmienie: "Art. 36. 1. Dowód osobisty jest ważny 10 lat od daty jego wydania. 2. Dowód osobisty wydany osobie, która nie ukończyła 18 roku życia, jest ważny 5 lat od daty jego wydania. 3. Dowód osobisty wydany osobie, która ukończyła 65 rok życia, jest ważny na czas nie oznaczony, jeżeli osoba ta zwróciła się o wydanie dowodu osobistego z takim terminem ważności.";
+- **17)** po art. 36 dodaje się art. 36a w brzmieniu: "Art. 36a. 1. Dowód osobisty wydaje się po uiszczeniu należnej opłaty stanowiącej równowartość kosztów jego wydania. 2. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa. 3. Rada Ministrów określi, w drodze rozporządzenia, wysokość opłaty za wydanie dowodu osobistego, tryb jej uiszczenia oraz warunki i zakres stosowania ulg i zwolnień od tej opłaty.";
+- **18)** art. 37 otrzymuje brzmienie: "Art. 37. 1. W dowodzie osobistym zamieszcza się: 1) nazwisko i imię (imiona) oraz imiona rodziców i nazwisko rodowe, 2) datę i miejsce urodzenia, 3) adres miejsca zameldowania na pobyt stały, a w razie jego braku - zameldowania na pobyt czasowy trwający ponad dwa miesiące; w przypadku braku zameldowania na pobyt stały albo pobyt czasowy trwający ponad dwa miesiące, danych o adresie nie zamieszcza się, 4) płeć, wzrost w centymetrach i kolor oczu, 5) numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), 6) nazwę organu wydającego, datę wydania oraz termin ważności dowodu osobistego. 2. Dowód osobisty zawiera również zdjęcie i podpis jego posiadacza. 3. Dane zawarte w dowodzie osobistym przeznaczone do odczytania maszynowego oraz dane zawarte w numerze ewidencyjnym, o którym mowa w ust. 1 pkt 5, nie mogą obejmować innych danych osobowych niż określone w ust. 1 pkt 1-4 i 6.";
 - **19)** skreśla się art. 38;
 - **20)** skreśla się art. 39;
-- **21)** art. 40 otrzymuje brzmienie: "Art. 40. Posiadacz dowodu osobistego ma obowiązek wymienić ten dokument w razie:
-- **1)** zmiany danych, które zamieszcza się w dowodzie osobistym,
-- **2)** uszkodzenia dowodu osobistego lub zaistnienia innej okoliczności utrudniającej ustalenie tożsamości osoby,
-- **3)** upływu terminu ważności dowodu osobistego.";
+- **21)** art. 40 otrzymuje brzmienie: "Art. 40. Posiadacz dowodu osobistego ma obowiązek wymienić ten dokument w razie: 1) zmiany danych, które zamieszcza się w dowodzie osobistym, 2) uszkodzenia dowodu osobistego lub zaistnienia innej okoliczności utrudniającej ustalenie tożsamości osoby, 3) upływu terminu ważności dowodu osobistego.";
 - **22)** skreśla się art. 41;
-- **23)** art. 42 otrzymuje brzmienie: "Art. 42. 1. Osoba, która utraciła dowód osobisty, jest obowiązana niezwłocznie zawiadomić o tym najbliższy organ gminy. Organ ten wydaje zaświadczenie o utracie dowodu osobistego, ważne do czasu wydania nowego dokumentu.
-
-2. W razie znalezienia własnego dowodu osobistego, zgłoszonego jako utracony, należy niezwłocznie zawiadomić o tym organ gminy, któremu złożono wniosek o wydanie nowego dowodu osobistego, jeżeli w miejsce zgłoszonego jako utracony nie został jeszcze wydany nowy dokument.
-
-3. W razie znalezienia własnego dowodu osobistego, w miejsce którego wydano już nowy dowód osobisty lub cudzego dowodu osobistego, należy niezwłocznie złożyć znaleziony dokument najbliższemu organowi gminy.";
-
-- **24)** art. 43 otrzymuje brzmienie: "Art. 43. Dowód osobisty podlega obowiązkowi zwrotu w razie:
-- **1)** utraty obywatelstwa polskiego,
-- **2)** zgonu posiadacza dowodu osobistego; obowiązek zwrotu dowodu osobistego ciąży w tym przypadku na osobach obowiązanych do zgłoszenia zgonu stosownie do przepisów prawa o aktach stanu cywilnego.";
+- **23)** art. 42 otrzymuje brzmienie: "Art. 42. 1. Osoba, która utraciła dowód osobisty, jest obowiązana niezwłocznie zawiadomić o tym najbliższy organ gminy. Organ ten wydaje zaświadczenie o utracie dowodu osobistego, ważne do czasu wydania nowego dokumentu. 2. W razie znalezienia własnego dowodu osobistego, zgłoszonego jako utracony, należy niezwłocznie zawiadomić o tym organ gminy, któremu złożono wniosek o wydanie nowego dowodu osobistego, jeżeli w miejsce zgłoszonego jako utracony nie został jeszcze wydany nowy dokument. 3. W razie znalezienia własnego dowodu osobistego, w miejsce którego wydano już nowy dowód osobisty lub cudzego dowodu osobistego, należy niezwłocznie złożyć znaleziony dokument najbliższemu organowi gminy.";
+- **24)** art. 43 otrzymuje brzmienie: "Art. 43. Dowód osobisty podlega obowiązkowi zwrotu w razie: 1) utraty obywatelstwa polskiego, 2) zgonu posiadacza dowodu osobistego; obowiązek zwrotu dowodu osobistego ciąży w tym przypadku na osobach obowiązanych do zgłoszenia zgonu stosownie do przepisów prawa o aktach stanu cywilnego.";
 - **25)** art. 44 otrzymuje brzmienie: "Art. 44. Rada Ministrów określi, w drodze rozporządzenia, wzór dowodu osobistego oraz tryb postępowania w sprawach wydawania dowodów osobistych, ich wymiany, zwrotu lub utraty.";
-- **26)** art. 45 otrzymuje brzmienie: "Art. 45. 1. Dowód osobisty wydaje właściwy organ gminy. W rozumieniu niniejszej ustawy organem gminy jest wójt, burmistrz lub prezydent miasta.
-
-2. Właściwość miejscową organu, o którym mowa w ust. 1, ustala się według miejsca pobytu stałego osoby ubiegającej się o wydanie dowodu osobistego, a w razie braku takiego miejsca - według ostatniego miejsca pobytu stałego tej osoby.
-
-3. Jeżeli nie można ustalić właściwości miejscowej organu w sposób wskazany w ust. 2, dowód osobisty wydaje organ gminy właściwy dla obszaru dzielnicy Śródmieście w m.st. Warszawie.";
-
+- **26)** art. 45 otrzymuje brzmienie: "Art. 45. 1. Dowód osobisty wydaje właściwy organ gminy. W rozumieniu niniejszej ustawy organem gminy jest wójt, burmistrz lub prezydent miasta. 2. Właściwość miejscową organu, o którym mowa w ust. 1, ustala się według miejsca pobytu stałego osoby ubiegającej się o wydanie dowodu osobistego, a w razie braku takiego miejsca - według ostatniego miejsca pobytu stałego tej osoby. 3. Jeżeli nie można ustalić właściwości miejscowej organu w sposób wskazany w ust. 2, dowód osobisty wydaje organ gminy właściwy dla obszaru dzielnicy Śródmieście w m.st. Warszawie.";
 - **27)** w art. 46:
     - **a)** w ust. 1 wyrazy "terenowe organy administracji państwowej stopnia podstawowego" zastępuje się wyrazami "organy gminy",
     - **b)** w ust. 2 po wyrazie "Wewnętrznych" dodaje się wyrazy "i Administracji";
@@ -115,21 +72,13 @@ source: pdf
 
 - **29)** w art. 48 wyrazy "Terenowy organ administracji państwowej" zastępuje się wyrazami "Organ gminy";
 - **30)** w art. 49 wyrazy "Milicja Obywatelska" zastępuje się wyrazem "Policja";
-- **31)** art. 50 otrzymuje brzmienie: "Art. 50. 1. Minister Spraw Wewnętrznych i Administracji sprawuje zwierzchni nadzór nad wykonywaniem obowiązków określonych w ustawie.
-
-2. Wojewodowie sprawują nadzór nad działalnością organów gmin w zakresie realizacji obowiązków określonych w ustawie.";
-
+- **31)** art. 50 otrzymuje brzmienie: "Art. 50. 1. Minister Spraw Wewnętrznych i Administracji sprawuje zwierzchni nadzór nad wykonywaniem obowiązków określonych w ustawie. 2. Wojewodowie sprawują nadzór nad działalnością organów gmin w zakresie realizacji obowiązków określonych w ustawie.";
 - **32)** w art. 51:
     - **a)** w ust. 1, 3 i 4 po wyrazie "Wewnętrznych" dodaje się wyrazy "i Administracji",
     - **b)** w ust. 2 wyrazy "i Spraw Wewnętrznych" zastępuje się wyrazami "oraz Spraw Wewnętrznych i Administracji";
 
 - **33)** art. 52 otrzymuje brzmienie: "Art. 52. Organy gminy wykonują zadania określone w ustawie jako zadania zlecone z zakresu administracji rządowej.";
-- **34)** art. 55 otrzymuje brzmienie: "Art. 55. Kto:
-- **1)** uchyla się od obowiązku posiadania lub wymiany dowodu osobistego,
-- **2)** zatrzymuje cudzy dowód osobisty,
-- **3)** nie zwraca dowodu osobistego w razie utraty obywatelstwa polskiego,
-- **4)** nie zawiadamia o znalezieniu dowodu osobistego w przypadku, o którym mowa w art. 42 ust. 2,
-- **5)** nie zwraca znalezionego dowodu osobistego w przypadku, o którym mowa w art. 42 ust. 3, podlega karze ograniczenia wolności do 3 miesięcy albo karze grzywny.".
+- **34)** art. 55 otrzymuje brzmienie: "Art. 55. Kto: 1) uchyla się od obowiązku posiadania lub wymiany dowodu osobistego, 2) zatrzymuje cudzy dowód osobisty, 3) nie zwraca dowodu osobistego w razie utraty obywatelstwa polskiego, 4) nie zawiadamia o znalezieniu dowodu osobistego w przypadku, o którym mowa w art. 42 ust. 2, 5) nie zwraca znalezionego dowodu osobistego w przypadku, o którym mowa w art. 42 ust. 3, podlega karze ograniczenia wolności do 3 miesięcy albo karze grzywny.".
 
 **Art. 2.** <1.> Dowody osobiste wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność do dnia 31 grudnia 2007 r. <2. Wprowadza się obowiązek wymiany dowodów osobistych wydanych przed dniem 1 stycznia 2001 r. w następujących terminach:
 

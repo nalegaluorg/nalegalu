@@ -29,15 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. Nr 251, poz. 2507, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 ust. 3 i 4 otrzymują brzmienie: „3. Ośrodek wojewódzki podlega właściwemu zarządowi województwa.
-
-4. Właściwy miejscowo zarząd województwa nadaje statut ośrodkowi wojewódzkiemu.”;
-
+- **1)** w art. 3 ust. 3 i 4 otrzymują brzmienie: „3. Ośrodek wojewódzki podlega właściwemu zarządowi województwa. 4. Właściwy miejscowo zarząd województwa nadaje statut ośrodkowi wojewódzkiemu.”;
 - **2)** w art. 9 w ust. 5 w pkt 2:
     - **a)** lit. a otrzymuje brzmienie: „a) po 1 przedstawicielu sejmiku województwa i zarządu województwa,”,
-    - **b)** lit. c–e otrzymują brzmienie: „c) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników działające na obszarze województwa,
-    - **d)** 2 przedstawicieli zgłoszonych przez szkoły wyższe oraz instytuty badawcze, kształcące i realizujące działania na potrzeby rolnictwa i rozwoju obszarów wiejskich,
-    - **e)** 1 przedstawiciel szkół ponadgimnazjalnych kształcących na potrzeby rolnictwa, działających na obszarze województwa.”;
+    - **b)** lit. c–e otrzymują brzmienie: „c) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników działające na obszarze województwa, d) 2 przedstawicieli zgłoszonych przez szkoły wyższe oraz instytuty badawcze, kształcące i realizujące działania na potrzeby rolnictwa i rozwoju obszarów wiejskich, e) 1 przedstawiciel szkół ponadgimnazjalnych kształcących na potrzeby rolnictwa, działających na obszarze województwa.”;
 
 - **3)** w art. 11 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Ośrodki wojewódzkie mogą otrzymywać dotacje podmiotowe z budżetów jednostek samorządu terytorialnego na wykonywanie zadań z zakresu doradztwa rolniczego, o których mowa w art. 4 ust. 2.”;
 - **4)** w art. 12:

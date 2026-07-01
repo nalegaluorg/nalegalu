@@ -1,13 +1,12 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 415
+Acts excluded from publication due to quality issues. Total: 411
 
 | Address | Reason |
 |---------|--------|
 | WDU19480270183 | No text extracted from PDF — may be a scanned document |
 | WDU19490410294 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
 | WDU19570390174 | source article inventory failed: eli-html=0 AST=7 dup_ast=3 FAIL; duplicate in A |
-| WDU19600290167 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19710270252 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
 | WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19840340184 | missing article structure — act type requires Art. markers but parsed AST has 0  |
@@ -17,7 +16,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU19890060035 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19890100056 | source article inventory failed: eli-html=1 AST=8 missing_from_ast=1 FAIL; missi |
 | WDU19890300162 | source article inventory failed: eli-html=0 AST=24 dup_ast=3 FAIL; duplicate in  |
-| WDU19890340180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19890340180 | unclosed amendment quotation for 489 |
 | WDU19890340182 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19890740437 | source article inventory failed: eli-html=0 AST=27 dup_ast=9 FAIL; duplicate in  |
 | WDU19900060036 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -32,16 +31,14 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU19900730431 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19900790466 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19911030448 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19911170511 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19920580280 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19930050022 | source article inventory failed: eli-html=0 AST=5 dup_ast=1 FAIL; duplicate in A |
-| WDU19930470212 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU19930470212 | unclosed amendment quotation for unknown articles |
 | WDU19940530215 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19940620265 | missing Polish diacritics — only 8 in 1634 letters (0.49%) — likely ASCII-only e |
 | WDU19941360704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19950660335 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19950850426 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19951110539 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19960010001 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19960060041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19960450198 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
@@ -57,7 +54,6 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU19981621124 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19990400401 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
-| WDU19990410418 | excessive repetition — '..................................................…' app |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20001131186 | rendered round-trip failed: AST=47 rendered=47 low_sim=1 FAIL; low similarity: 4 |
 | WDU20001141190 | source article inventory failed: eli-html=0 AST=7 dup_ast=2 FAIL; duplicate in A |
@@ -66,7 +62,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20021411183 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20021411183 | unclosed amendment quotation for unknown articles |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in A |
@@ -93,7 +89,6 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20112401437 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000066 | excessive repetition — '..................................................…' app |
 | WDU20120000070 | excessive repetition — '..................................................…' app |
-| WDU20120000072 | excessive repetition — '..................................................…' app |
 | WDU20120000077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000184 | excessive repetition — '1) efekty kształcenia wspólne dla wszystkich zawod…' app |
 | WDU20120000185 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -110,28 +105,22 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20120000916 | excessive repetition — '..................................................…' app |
 | WDU20120000925 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000943 | excessive repetition — '..................................................…' app |
-| WDU20120001264 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000057 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20130000185 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000200 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000337 | excessive repetition — '. ................................................…' app |
-| WDU20130000343 | excessive repetition — '..................................................…' app |
-| WDU20130000352 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20130000540 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000809 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000924 | excessive repetition — '..................................................…' app |
 | WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001413 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001576 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001619 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20130001674 | excessive repetition — '..................................................…' app |
 | WDU20140000221 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2014_221.txt.  |
 | WDU20140000324 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000503 | excessive repetition — '..................................................…' app |
 | WDU20140000588 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000606 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20140001083 | excessive repetition — '..................................................…' app |
+| WDU20140001124 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20140001127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140001245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140001593 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
@@ -144,11 +133,9 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20150000048 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150000148 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR wi |
 | WDU20150000561 | character-spaced text — 28 line(s) with >30% single-letter words — likely OCR wi |
-| WDU20150000743 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150000749 | excessive repetition — '..................................................…' app |
 | WDU20150000796 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150000903 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20150000948 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150001077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150001170 | excessive repetition — '5) zużycie materiałów i energia' appears 26 times (likel |
 | WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -176,7 +163,6 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20170000093 | excessive repetition — '..................................................…' app |
 | WDU20170000462 | excessive repetition — '..................................................…' app |
 | WDU20170000721 | excessive repetition — '……………………………………………………………………………………………………………………………..' appea |
-| WDU20170000822 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20170000852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20170001118 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20170001155 | character-spaced text — 106 line(s) with >30% single-letter words — likely OCR w |
@@ -217,6 +203,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20180001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180001856 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002152 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20180002180 | excessive repetition — '3. zasięg geograficzny obszaru, którego dotyczy in…' app |
 | WDU20180002296 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180002307 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -262,12 +249,14 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20200000229 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000233 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000348 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200000349 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20200000502 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000666 | excessive repetition — '…………………………………………………………………………………………..' appears 35 times ( |
 | WDU20200000907 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200000931 | character-spaced text — 12 line(s) with >30% single-letter words — likely OCR wi |
 | WDU20200001010 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20200001053 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20200001322 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200001543 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2020_1543.txt. |
 | WDU20200001605 | excessive repetition — '..................................................…' app |
@@ -275,6 +264,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20200001894 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200001916 | excessive repetition — '4 Obowiązek | Warunek Obligatoryjny.' appears 23 times ( |
 | WDU20200001952 | excessive repetition — '..................................................…' app |
+| WDU20200001973 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu) ...' appears 49 times (likely  |
 | WDU20200002180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20200002313 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -286,6 +276,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20210000417 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210000518 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210000841 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210000857 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 21 times (likely P |
 | WDU20210001156 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20210001174 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -356,14 +347,17 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20230001754 | excessive repetition — 'Treści nauczania Kryteria weryfikacji' appears 173 times |
 | WDU20230001828 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repet |
 | WDU20230001832 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230001897 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20230001911 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20230002016 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002023 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002030 | excessive repetition — '..................................................…' app |
 | WDU20230002093 | excessive repetition — '..................................................…' app |
+| WDU20230002174 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód powierzchniowych;' appe |
 | WDU20230002501 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002533 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20230002614 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20230002621 | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' appears 66 times (lik |
 | WDU20230002672 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -375,6 +369,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20240000062 | character-spaced text — 804 line(s) with >30% single-letter words — likely OCR w |
 | WDU20240000118 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000136 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000153 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20240000202 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000270 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
@@ -385,6 +380,7 @@ Acts excluded from publication due to quality issues. Total: 415
 | WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000611 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20240000634 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20240000648 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000656 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2024_656.txt.  |
 | WDU20240000674 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |

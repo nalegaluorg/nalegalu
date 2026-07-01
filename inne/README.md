@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **18375** aktów
+Łącznie: **18331** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -358,7 +358,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250001224](WDU20250001224/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001222](WDU20250001222/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 września 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001216](WDU20250001216/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji | Ustawa | obowiązujący |  |
-| [WDU20250001214](WDU20250001214/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 sierpnia  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250001211](WDU20250001211/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zd | Ustawa | obowiązujący |  |
 | [WDU20250001209](WDU20250001209/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 sierpnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001208](WDU20250001208/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 sierpnia  | Obwieszczenie | obowiązujący |  |
@@ -418,11 +417,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000891](WDU20250000891/index.md) | Ustawa z dnia 4 czerwca 2025 r. o ustanowieniu 11 lipca Narodowym Dniem Pam | Ustawa | obowiązujący |  |
 | [WDU20250000889](WDU20250000889/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000884](WDU20250000884/index.md) | Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie przyrody | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20250000883](WDU20250000883/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000881](WDU20250000881/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000870](WDU20250000870/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000869](WDU20250000869/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000865](WDU20250000865/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000860](WDU20250000860/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000843](WDU20250000843/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000834](WDU20250000834/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2 | Obwieszczenie | obowiązujący |  |
@@ -445,7 +441,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000764](WDU20250000764/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000759](WDU20250000759/index.md) | Ustawa z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowa | Ustawa | obowiązujący |  |
 | [WDU20250000758](WDU20250000758/index.md) | Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie praw nabywcy loka | Ustawa | obowiązujący |  |
-| [WDU20250000750](WDU20250000750/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000733](WDU20250000733/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000720](WDU20250000720/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000718](WDU20250000718/index.md) | Ustawa z dnia 9 maja 2025 r. o zmianie ustawy o emeryturach i rentach z Fun | Ustawa | obowiązujący |  |
@@ -457,7 +452,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000680](WDU20250000680/index.md) | Ustawa z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach  | Ustawa | obowiązujący |  |
 | [WDU20250000677](WDU20250000677/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000644](WDU20250000644/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2025  | Obwieszczenie | obowiązujący |  |
-| [WDU20250000643](WDU20250000643/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000641](WDU20250000641/index.md) | Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy o drogach publicznych | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250000640](WDU20250000640/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000637](WDU20250000637/index.md) | Ustawa z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwi | Ustawa | obowiązujący |  |
@@ -468,7 +462,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000621](WDU20250000621/index.md) | Ustawa z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania prac | Ustawa | obowiązujący |  |
 | [WDU20250000620](WDU20250000620/index.md) | Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia | Ustawa | obowiązujący |  |
 | [WDU20250000619](WDU20250000619/index.md) | Ustawa z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz nie | Ustawa | obowiązujący |  |
-| [WDU20250000611](WDU20250000611/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 kwietnia  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000610](WDU20250000610/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000608](WDU20250000608/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000607](WDU20250000607/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia  | Obwieszczenie | obowiązujący |  |
@@ -481,7 +474,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000572](WDU20250000572/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000570](WDU20250000570/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000568](WDU20250000568/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000567](WDU20250000567/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000566](WDU20250000566/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250000565](WDU20250000565/index.md) | Ustawa z dnia 23 kwietnia 2025 r. o zmianie ustawy o szczególnych rozwiązan | Ustawa | obowiązujący |  |
 | [WDU20250000560](WDU20250000560/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 kwietnia  | Obwieszczenie | obowiązujący |  |
@@ -509,7 +501,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000447](WDU20250000447/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000445](WDU20250000445/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000443](WDU20250000443/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000439](WDU20250000439/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000428](WDU20250000428/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000427](WDU20250000427/index.md) | Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o ochronie zdrowia przed n | Ustawa | obowiązujący |  |
 | [WDU20250000423](WDU20250000423/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
@@ -517,11 +508,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000409](WDU20250000409/index.md) | Ustawa z dnia 20 marca 2025 r. o zmianie ustawy o obszarach morskich Rzeczy | Ustawa | obowiązujący |  |
 | [WDU20250000393](WDU20250000393/index.md) | Ustawa z dnia 20 lutego 2025 r. o zmianie ustawy o przygotowaniu i realizac | Ustawa | obowiązujący |  |
 | [WDU20250000389](WDU20250000389/index.md) | Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o udzielaniu cudzoziemcom  | Ustawa | obowiązujący |  |
-| [WDU20250000379](WDU20250000379/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000374](WDU20250000374/index.md) | Ustawa z dnia 7 marca 2025 r. o zmianie ustawy - Prawo lotnicze | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250000368](WDU20250000368/index.md) | Ustawa z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zr | Ustawa | obowiązujący |  |
 | [WDU20250000367](WDU20250000367/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000366](WDU20250000366/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000365](WDU20250000365/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000352](WDU20250000352/index.md) | Ustawa z dnia 6 marca 2025 r. o zmianie ustawy o systemie instytucji rozwoj | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250000342](WDU20250000342/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
@@ -531,7 +520,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000337](WDU20250000337/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000321](WDU20250000321/index.md) | Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o Planie Strategicznym dla | Ustawa | obowiązujący |  |
 | [WDU20250000320](WDU20250000320/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000311](WDU20250000311/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000310](WDU20250000310/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000308](WDU20250000308/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000305](WDU20250000305/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 | Obwieszczenie | obowiązujący |  |
@@ -547,7 +535,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000289](WDU20250000289/index.md) | Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o funduszach promocji prod | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250000285](WDU20250000285/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000269](WDU20250000269/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000265](WDU20250000265/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000264](WDU20250000264/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000259](WDU20250000259/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000254](WDU20250000254/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
@@ -556,7 +543,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000242](WDU20250000242/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000240](WDU20250000240/index.md) | Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o Służbie Więziennej | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250000236](WDU20250000236/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 lutego 20 | Obwieszczenie | obowiązujący |  |
-| [WDU20250000229](WDU20250000229/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20250000223](WDU20250000223/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000204](WDU20250000204/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000198](WDU20250000198/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
@@ -871,7 +857,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001654](WDU20240001654/index.md) | Obwieszczenie Ministra Rozwoju i Technologii z dnia 21 października 2024 r. | Obwieszczenie | obowiązujący |  |
 | [WDU20240001652](WDU20240001652/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 2024 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001650](WDU20240001650/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
-| [WDU20240001649](WDU20240001649/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001648](WDU20240001648/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 28 października 2024 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001647](WDU20240001647/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 5 listopada 2025 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001645](WDU20240001645/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 31 października 2024 r. w sp | Rozporządzenie | obowiązujący |  |
@@ -909,7 +894,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001601](WDU20240001601/index.md) | Rozporządzenie Ministra Finansów z dnia 28 października 2024 r. w sprawie u | Rozporządzenie | obowiązujący |  |
 | [WDU20240001600](WDU20240001600/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 października 2024 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001599](WDU20240001599/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 23 październi | Obwieszczenie | obowiązujący |  |
-| [WDU20240001598](WDU20240001598/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 październ | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001597](WDU20240001597/index.md) | Ustawa z dnia 18 października 2024 r. o zmianie ustawy o udostępnianiu info | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240001596](WDU20240001596/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2024 | Rozporządzenie | obowiązujący |  |
 | [WDU20240001595](WDU20240001595/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 październ | Obwieszczenie | obowiązujący |  |
@@ -1040,7 +1024,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001414](WDU20240001414/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 11 września 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001413](WDU20240001413/index.md) | Rozporządzenie Ministra Nauki z dnia 24 września 2024 r. w sprawie wysokośc | Rozporządzenie | obowiązujący |  |
 | [WDU20240001411](WDU20240001411/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września  | Obwieszczenie | obowiązujący |  |
-| [WDU20240001409](WDU20240001409/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 września  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001407](WDU20240001407/index.md) | Obwieszczenie Ministra Nauki z dnia 11 września 2024 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20240001406](WDU20240001406/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 8 września 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001403](WDU20240001403/index.md) | Rozporządzenie Ministra Nauki z dnia 12 września 2024 r. w sprawie danych p | Rozporządzenie | obowiązujący |  |
@@ -1058,7 +1041,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001389](WDU20240001389/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 września 2024 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20240001388](WDU20240001388/index.md) | Rozporządzenie Ministra Zdrowia z dnia 17 września 2024 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001387](WDU20240001387/index.md) | Rozporządzenie Rady Ministrów z dnia 29 sierpnia 2024 r. w sprawie świadcze | Rozporządzenie | obowiązujący |  |
-| [WDU20240001386](WDU20240001386/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września  | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001385](WDU20240001385/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 września  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001382](WDU20240001382/index.md) | Rozporządzenie Rady Ministrów z dnia 12 września 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20240001381](WDU20240001381/index.md) | Rozporządzenie Ministra Finansów z dnia 17 września 2024 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
@@ -1142,7 +1124,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001285](WDU20240001285/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2024 r. w | Rozporządzenie | obowiązujący |  |
 | [WDU20240001284](WDU20240001284/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 21 sierpnia 2024 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001282](WDU20240001282/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 7 sierpnia 2024 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240001281](WDU20240001281/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001280](WDU20240001280/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 sierpnia 2024 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20240001279](WDU20240001279/index.md) | Rozporządzenie Ministra Finansów z dnia 14 sierpnia 2024 r. w sprawie obowi | Rozporządzenie | obowiązujący |  |
 | [WDU20240001278](WDU20240001278/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 sierpn | Rozporządzenie | obowiązujący |  |
@@ -1269,7 +1250,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001115](WDU20240001115/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 9 lipca 2024 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20240001114](WDU20240001114/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lipca 2024 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20240001113](WDU20240001113/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20240001112](WDU20240001112/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001111](WDU20240001111/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001110](WDU20240001110/index.md) | Rozporządzenie Ministra Zdrowia z dnia 22 lipca 2024 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001109](WDU20240001109/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 202 | Obwieszczenie | obowiązujący |  |
@@ -1352,7 +1332,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001005](WDU20240001005/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca 2024 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001003](WDU20240001003/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca 2024 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001002](WDU20240001002/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca 2024 r. zmie | Rozporządzenie | obowiązujący |  |
-| [WDU20240001001](WDU20240001001/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240001000](WDU20240001000/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 lipca 2024 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20240000999](WDU20240000999/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 5 lipca 2024 r. zmieniające ro | Rozporządzenie | obowiązujący |  |
 | [WDU20240000998](WDU20240000998/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2024 r. w  | Obwieszczenie | obowiązujący |  |
@@ -1615,9 +1594,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000640](WDU20240000640/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 16 kwietnia 2024 r. zmieniają | Rozporządzenie | obowiązujący |  |
 | [WDU20240000637](WDU20240000637/index.md) | Rozporządzenie Ministra Zdrowia z dnia 19 kwietnia 2024 r. w sprawie rejest | Rozporządzenie | obowiązujący |  |
 | [WDU20240000635](WDU20240000635/index.md) | Rozporządzenie Ministra Finansów z dnia 23 kwietnia 2024 r. w sprawie udzie | Rozporządzenie | obowiązujący |  |
-| [WDU20240000634](WDU20240000634/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 21 kwiet | Obwieszczenie | obowiązujący |  |
 | [WDU20240000631](WDU20240000631/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 kwietni | Obwieszczenie | obowiązujący |  |
-| [WDU20240000630](WDU20240000630/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240000629](WDU20240000629/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 9 kwietnia 2024 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20240000627](WDU20240000627/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 17 kwietnia 2024 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20240000626](WDU20240000626/index.md) | Rozporządzenie Ministra Finansów z dnia 18 kwietnia 2024 r. w sprawie adnot | Rozporządzenie | obowiązujący |  |
@@ -1676,7 +1653,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000538](WDU20240000538/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 kwietnia 2024 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000537](WDU20240000537/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 13 marca 2024 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
 | [WDU20240000536](WDU20240000536/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 kwietnia 2024 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240000534](WDU20240000534/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240000533](WDU20240000533/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 kwietnia 2024 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20240000529](WDU20240000529/index.md) | Obwieszczenie Ministra Zdrowia z dnia 19 marca 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20240000528](WDU20240000528/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 marca 2 | Obwieszczenie | obowiązujący |  |
@@ -1765,7 +1741,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000416](WDU20240000416/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000414](WDU20240000414/index.md) | Ustawa z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologic | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240000411](WDU20240000411/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 marca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20240000409](WDU20240000409/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20240000408](WDU20240000408/index.md) | Obwieszczenie Ministra Finansów z dnia 5 marca 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20240000404](WDU20240000404/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 14 marca 2024 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000403](WDU20240000403/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 marca 2024 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -1924,7 +1899,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000158](WDU20240000158/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 29 stycznia 2024 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20240000157](WDU20240000157/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 2 lutego 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20240000154](WDU20240000154/index.md) | Obwieszczenie Ministra Zdrowia z dnia 1 lutego 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
-| [WDU20240000153](WDU20240000153/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 24 stycznia 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240000152](WDU20240000152/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000150](WDU20240000150/index.md) | Obwieszczenie Ministra Finansów z dnia 26 stycznia 2024 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20240000149](WDU20240000149/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 6 lutego 2024 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2231,7 +2205,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002537](WDU20230002537/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 7 listopada 2023 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20230002536](WDU20230002536/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 17 listopada 2023 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20230002535](WDU20230002535/index.md) | Rozporządzenie Rady Ministrów z dnia 8 listopada 2023 r. w sprawie postępow | Rozporządzenie | obowiązujący |  |
-| [WDU20230002533](WDU20230002533/index.md) | Obwieszczenie Ministra Zdrowia z dnia 18 października 2023 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20230002532](WDU20230002532/index.md) | Rozporządzenie Ministra Finansów z dnia 17 listopada 2023 r. w sprawie pobi | Rozporządzenie | obowiązujący |  |
 | [WDU20230002530](WDU20230002530/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 listop | Rozporządzenie | obowiązujący |  |
 | [WDU20230002528](WDU20230002528/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 16 listopada 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2441,7 +2414,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002177](WDU20230002177/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2023 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20230002176](WDU20230002176/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 6 października 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002175](WDU20230002175/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 6 października 2023 r. w sp | Rozporządzenie | obowiązujący |  |
-| [WDU20230002174](WDU20230002174/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 września  | Obwieszczenie | obowiązujący |  |
 | [WDU20230002172](WDU20230002172/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002171](WDU20230002171/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 października 2023  | Rozporządzenie | obowiązujący |  |
 | [WDU20230002169](WDU20230002169/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2577,7 +2549,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001953](WDU20230001953/index.md) | Rozporządzenie Ministra Zdrowia z dnia 25 sierpnia 2023 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
 | [WDU20230001952](WDU20230001952/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 sierpnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20230001949](WDU20230001949/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 14 września 2023 r. zmienia | Rozporządzenie | obowiązujący |  |
-| [WDU20230001948](WDU20230001948/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001947](WDU20230001947/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 wrześn | Rozporządzenie | obowiązujący |  |
 | [WDU20230001946](WDU20230001946/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001944](WDU20230001944/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2 | Obwieszczenie | obowiązujący |  |
@@ -2616,7 +2587,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001900](WDU20230001900/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 sierpnia 2023 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20230001899](WDU20230001899/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2023 | Rozporządzenie | obowiązujący |  |
 | [WDU20230001898](WDU20230001898/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 15 września 2023 r. w  | Rozporządzenie | obowiązujący |  |
-| [WDU20230001897](WDU20230001897/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 wrześn | Rozporządzenie | obowiązujący |  |
 | [WDU20230001895](WDU20230001895/index.md) | Rozporządzenie Ministra Finansów z dnia 30 sierpnia 2023 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001894](WDU20230001894/index.md) | Rozporządzenie Ministra Finansów z dnia 31 sierpnia 2023 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001892](WDU20230001892/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 13 września 2023 r. w  | Rozporządzenie | obowiązujący |  |
@@ -2665,7 +2635,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001819](WDU20230001819/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 sierpnia | Obwieszczenie | obowiązujący |  |
 | [WDU20230001818](WDU20230001818/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 24 sierpnia  | Rozporządzenie | obowiązujący |  |
 | [WDU20230001816](WDU20230001816/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 29 sierpnia 2023 r. zmieniaj | Rozporządzenie | obowiązujący |  |
-| [WDU20230001815](WDU20230001815/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 sierpnia 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001813](WDU20230001813/index.md) | Obwieszczenie Ministra Finansów z dnia 11 sierpnia 2023 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20230001812](WDU20230001812/index.md) | Obwieszczenie Ministra Zdrowia z dnia 18 sierpnia 2023 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20230001811](WDU20230001811/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 sierpn | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2949,7 +2918,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001399](WDU20230001399/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 12 lipca 202 | Rozporządzenie | obowiązujący |  |
 | [WDU20230001398](WDU20230001398/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 12 lipca 2023 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20230001396](WDU20230001396/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230001395](WDU20230001395/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001394](WDU20230001394/index.md) | Ustawa z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczani | Ustawa | obowiązujący |  |
 | [WDU20230001392](WDU20230001392/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2023 | Obwieszczenie | obowiązujący |  |
 | [WDU20230001391](WDU20230001391/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 lipca 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2993,7 +2961,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001334](WDU20230001334/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 27 czerwca 2023 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20230001333](WDU20230001333/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 20 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001331](WDU20230001331/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 30 czerwca 2023 r. w sprawie og | Obwieszczenie | obowiązujący |  |
-| [WDU20230001329](WDU20230001329/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 czerwca 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001324](WDU20230001324/index.md) | Obwieszczenie Ministra Zdrowia z dnia 9 czerwca 2023 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20230001323](WDU20230001323/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2023 r. sygn. akt SK 8/20 | Orzeczenie | obowiązujący |  |
 | [WDU20230001321](WDU20230001321/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwc | Rozporządzenie | obowiązujący |  |
@@ -3061,7 +3028,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001217](WDU20230001217/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 13 czerwca 2023 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20230001216](WDU20230001216/index.md) | Rozporządzenie Ministra Zdrowia z dnia 21 czerwca 2023 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001215](WDU20230001215/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 | Obwieszczenie | obowiązujący |  |
-| [WDU20230001213](WDU20230001213/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230001201](WDU20230001201/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2023 r. w | Rozporządzenie | obowiązujący |  |
 | [WDU20230001200](WDU20230001200/index.md) | Rozporządzenie Rady Ministrów z dnia 22 czerwca 2023 r. zmieniające rozporz | Rozporządzenie | obowiązujący |  |
 | [WDU20230001198](WDU20230001198/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwc | Rozporządzenie | obowiązujący |  |
@@ -3681,7 +3647,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000126](WDU20230000126/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 grudnia 2022 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000124](WDU20230000124/index.md) | Rozporządzenie Ministra Finansów z dnia 2 stycznia 2023 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
 | [WDU20230000123](WDU20230000123/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia  | Obwieszczenie | obowiązujący |  |
-| [WDU20230000122](WDU20230000122/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 grudnia 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20230000119](WDU20230000119/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 styczni | Rozporządzenie | obowiązujący |  |
 | [WDU20230000113](WDU20230000113/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 13 stycznia 2023 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000111](WDU20230000111/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 stycznia 2023 r. zmi | Rozporządzenie | obowiązujący |  |
@@ -4502,7 +4467,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001445](WDU20220001445/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2022 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20220001443](WDU20220001443/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 27 czerwca 2022 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001442](WDU20220001442/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 lipca 2 | Rozporządzenie | obowiązujący |  |
-| [WDU20220001441](WDU20220001441/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 20 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20220001439](WDU20220001439/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20220001434](WDU20220001434/index.md) | Rozporządzenie Ministra Finansów z dnia 6 lipca 2022 r. w sprawie uwierzyte | Rozporządzenie | obowiązujący |  |
 | [WDU20220001433](WDU20220001433/index.md) | Rozporządzenie Ministra Zdrowia z dnia 10 czerwca 2022 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -5060,7 +5024,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000263](WDU20220000263/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 31 stycznia 2022 r. zmieniając | Rozporządzenie | obowiązujący |  |
 | [WDU20220000262](WDU20220000262/index.md) | Obwieszczenie Ministra Zdrowia z dnia 17 grudnia 2021 r. w sprawie ogłoszen | Obwieszczenie | obowiązujący |  |
 | [WDU20220000260](WDU20220000260/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada | Obwieszczenie | obowiązujący |  |
-| [WDU20220000259](WDU20220000259/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 listopada | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20220000257](WDU20220000257/index.md) | Rozporządzenie Ministra Zdrowia z dnia 31 stycznia 2022 r. w sprawie progra | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220000253](WDU20220000253/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lutego 2022 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20220000248](WDU20220000248/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 31 stycznia 2022 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -5962,7 +5925,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000860](WDU20210000860/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 26  | Obwieszczenie | obowiązujący |  |
 | [WDU20210000859](WDU20210000859/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22  | Obwieszczenie | obowiązujący |  |
 | [WDU20210000858](WDU20210000858/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 26 kwietnia 2021 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20210000857](WDU20210000857/index.md) | Obwieszczenie Ministra Rodziny i Polityki Społecznej z dnia 25 marca 2021 r | Obwieszczenie | obowiązujący |  |
 | [WDU20210000856](WDU20210000856/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 maja 2021 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000855](WDU20210000855/index.md) | Rozporządzenie Ministra Zdrowia z dnia 5 maja 2021 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000849](WDU20210000849/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 31 marca 2021 r | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6547,7 +6509,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001988](WDU20200001988/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 listop | Rozporządzenie | obowiązujący |  |
 | [WDU20200001981](WDU20200001981/index.md) | Rozporządzenie Ministra Zdrowia z dnia 9 listopada 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001975](WDU20200001975/index.md) | Rozporządzenie Rady Ministrów z dnia 30 października 2020 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200001973](WDU20200001973/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 21 października 2020 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20200001969](WDU20200001969/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 27 października | Rozporządzenie | obowiązujący |  |
 | [WDU20200001965](WDU20200001965/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 5 listopada 2020 r. zmieniając | Rozporządzenie | obowiązujący |  |
 | [WDU20200001959](WDU20200001959/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 3  | Rozporządzenie | obowiązujący |  |
@@ -6976,7 +6937,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001068](WDU20200001068/index.md) | Ustawa z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20200001056](WDU20200001056/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. zmieniające | Rozporządzenie | obowiązujący |  |
 | [WDU20200001055](WDU20200001055/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2020 r. sygn. akt K 3/19 | Orzeczenie | obowiązujący |  |
-| [WDU20200001053](WDU20200001053/index.md) | Rozporządzenie Ministra Finansów z dnia 12 maja 2020 r. w sprawie szczegóło | Rozporządzenie | obowiązujący |  |
 | [WDU20200001051](WDU20200001051/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2020 r. w sprawie zakresu  | Rozporządzenie | obowiązujący |  |
 | [WDU20200001049](WDU20200001049/index.md) | Rozporządzenie Ministra Zdrowia z dnia 16 czerwca 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001047](WDU20200001047/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2020 r. sygn. akt K 11/18 | Orzeczenie | obowiązujący |  |
@@ -7238,7 +7198,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000363](WDU20200000363/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 5 marca 2020 r. w sprawie szcz | Rozporządzenie | obowiązujący |  |
 | [WDU20200000359](WDU20200000359/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2020 r. zm | Rozporządzenie | obowiązujący |  |
 | [WDU20200000355](WDU20200000355/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 24 lutego 2020 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200000349](WDU20200000349/index.md) | Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 lutego 2020 r | Obwieszczenie | obowiązujący |  |
 | [WDU20200000345](WDU20200000345/index.md) | Rozporządzenie Ministra Klimatu z dnia 28 lutego 2020 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000342](WDU20200000342/index.md) | Obwieszczenie Ministra Finansów z dnia 3 lutego 2020 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20200000339](WDU20200000339/index.md) | Konwencja nr 188 dotycząca pracy w sektorze rybołówstwa, przyjęta przez Kon | Umowa międzynarodowa | obowiązujący |  |
@@ -7874,7 +7833,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001597](WDU20190001597/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 sierpni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001596](WDU20190001596/index.md) | Rozporządzenie Ministra Sportu i Turystyki oraz Ministra Gospodarki Morskie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001595](WDU20190001595/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20190001594](WDU20190001594/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 1 sierpnia 2 | Obwieszczenie | wygaśnięcie aktu |  |
 | [WDU20190001593](WDU20190001593/index.md) | Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo atomowe oraz usta | Ustawa | obowiązujący |  |
 | [WDU20190001591](WDU20190001591/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 lipca 201 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001590](WDU20190001590/index.md) | Ustawa z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdraż | Ustawa | obowiązujący |  |
@@ -8833,7 +8791,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002160](WDU20180002160/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 listopada 2018 r. sygn. akt SK 17 | Orzeczenie | obowiązujący |  |
 | [WDU20180002158](WDU20180002158/index.md) | Rozporządzenie Ministra Finansów z dnia 31 października 2018 r. w sprawie ś | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180002155](WDU20180002155/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 paździ | Rozporządzenie | obowiązujący |  |
-| [WDU20180002152](WDU20180002152/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 7 listopada 201 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180002151](WDU20180002151/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 26 października 2018 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20180002149](WDU20180002149/index.md) | Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dni | Rozporządzenie | obowiązujący |  |
 | [WDU20180002147](WDU20180002147/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 22 paździer | Rozporządzenie | obowiązujący |  |
@@ -13351,7 +13308,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140001133](WDU20140001133/index.md) | Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo geologiczne i górni | Ustawa | obowiązujący |  |
 | [WDU20140001130](WDU20140001130/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2014 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20140001128](WDU20140001128/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 sierpnia 2014 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20140001124](WDU20140001124/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2014 r. w s | Obwieszczenie | obowiązujący |  |
 | [WDU20140001123](WDU20140001123/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 sierpnia 2014 r.  | Rozporządzenie | nieobowiązujący - uchylona podstawa prawna |  |
 | [WDU20140001122](WDU20140001122/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 sierpnia 2014 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20140001120](WDU20140001120/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 21 lipca 2014 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
@@ -18382,4 +18338,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*18375 aktów • [← Powrót do spisu głównego](../README.md)*
+*18331 aktów • [← Powrót do spisu głównego](../README.md)*

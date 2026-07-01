@@ -34,9 +34,7 @@ source: pdf
 - **3)** w art. 22 skreśla się § 3 i 4;
 - **4)** w art. 23 § 5 otrzymuje brzmienie: „§ 5. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii właściwych organizacji samorządu społeczno-zawodowego i gospodarczego, może określić, w drodze rozporządzenia, dla niektórych rodzajów działalności gospodarczej, uproszczone normy służące oszacowaniu podstawy opodatkowania uwzględniające wskaźnik zyskowności, liczbę zatrudnionych pracowników i koszty ich zatrudnienia oraz koszty zakupu materiałów.”;
 - **5)** skreśla się art. 25;
-- **6)** w art. 28 § 3 otrzymuje brzmienie: „§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** szczegółowe zasady ustalania wynagrodzenia płatników i inkasentów pobierających podatki na rzecz budżetu państwa, w relacji do kwoty pobranych podatków, oraz tryb pobrania wynagrodzenia,
-- **2)** szczegółowe zasady oraz tryb zwrotu otrzymanego wynagrodzenia w razie pobrania przez płatnika lub inkasenta podatku, zaliczki na podatek lub raty podatku nienależnie lub w wysokości wyższej od należnej.”;
+- **6)** w art. 28 § 3 otrzymuje brzmienie: „§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) szczegółowe zasady ustalania wynagrodzenia płatników i inkasentów pobierających podatki na rzecz budżetu państwa, w relacji do kwoty pobranych podatków, oraz tryb pobrania wynagrodzenia, 2) szczegółowe zasady oraz tryb zwrotu otrzymanego wynagrodzenia w razie pobrania przez płatnika lub inkasenta podatku, zaliczki na podatek lub raty podatku nienależnie lub w wysokości wyższej od należnej.”;
 - **7)** w art. 29 w § 2:
     - **a)** w zdaniu wstępnym skreśla się wyraz „ustawowej”,
     - **b)** w pkt 2 skreśla się wyraz „ustawowej”;
@@ -48,25 +46,10 @@ source: pdf
     - **d)** skreśla się § 5 i 6,
     - **e)** § 7 otrzymuje brzmienie: „§ 7. Przepisy § 1-4 stosuje się odpowiednio do należności przypadających od płatnika lub inkasenta.”;
 
-- **9)** art. 35 otrzymuje brzmienie: „Art. 35. § 1. Hipoteka przymusowa powstaje przez dokonanie wpisu do księgi wieczystej, z zastrzeżeniem art. 38 § 2.
-
-§ 2. Podstawą wpisu hipoteki przymusowej jest doręczona decyzja:
-
-- **1)** ustalająca wysokość zobowiązania podatkowego,
-- **2)** określająca wysokość zaległości podatkowej,
-- **3)** o odpowiedzialności podatkowej płatnika lub inkasenta.
-
-§ 3. Wpisu hipoteki przymusowej do księgi wieczystej dokonuje właściwy sąd rejonowy na wniosek organu podatkowego.”;
-
-- **10)** art. 36 otrzymuje brzmienie: „Art. 36. §1. Hipoteka przymusowa jest skuteczna wobec każdorazowego właściciela przedmiotu hipoteki i przysługuje jej pierwszeństwo zaspokojenia przed hipotekami ustanowionymi dla zabezpieczenia innych należności.
-
-§ 2. Przepisu § 1 nie stosuje się, jeżeli przedmiot hipoteki przymusowej ustanowionej dla zabezpieczenia należności, o których mowa w art. 34 § 1, jest obciążony hipoteką ustanowioną dla zabezpieczenia należności z tytułu kredytu bankowego.”;
-
+- **9)** art. 35 otrzymuje brzmienie: „Art. 35. § 1. Hipoteka przymusowa powstaje przez dokonanie wpisu do księgi wieczystej, z zastrzeżeniem art. 38 § 2. § 2. Podstawą wpisu hipoteki przymusowej jest doręczona decyzja: 1) ustalająca wysokość zobowiązania podatkowego, 2) określająca wysokość zaległości podatkowej, 3) o odpowiedzialności podatkowej płatnika lub inkasenta. § 3. Wpisu hipoteki przymusowej do księgi wieczystej dokonuje właściwy sąd rejonowy na wniosek organu podatkowego.”;
+- **10)** art. 36 otrzymuje brzmienie: „Art. 36. §1. Hipoteka przymusowa jest skuteczna wobec każdorazowego właściciela przedmiotu hipoteki i przysługuje jej pierwszeństwo zaspokojenia przed hipotekami ustanowionymi dla zabezpieczenia innych należności. § 2. Przepisu § 1 nie stosuje się, jeżeli przedmiot hipoteki przymusowej ustanowionej dla zabezpieczenia należności, o których mowa w art. 34 § 1, jest obciążony hipoteką ustanowioną dla zabezpieczenia należności z tytułu kredytu bankowego.”;
 - **11)** skreśla się art. 37;
-- **12)** art. 38 otrzymuje brzmienie: „Art. 38. § 1. Organy podatkowe mogą występować z wnioskiem o założenie księgi wieczystej dla nieruchomości podatnika, płatnika lub inkasenta.
-
-§ 2. Jeżeli przedmiot hipoteki przymusowej nie posiada księgi wieczystej, zabezpieczenie zobowiązań podatkowych dokonywane jest przez złożenie wniosku o wpis do zbioru dokumentów.”;
-
+- **12)** art. 38 otrzymuje brzmienie: „Art. 38. § 1. Organy podatkowe mogą występować z wnioskiem o założenie księgi wieczystej dla nieruchomości podatnika, płatnika lub inkasenta. § 2. Jeżeli przedmiot hipoteki przymusowej nie posiada księgi wieczystej, zabezpieczenie zobowiązań podatkowych dokonywane jest przez złożenie wniosku o wpis do zbioru dokumentów.”;
 - **13)** w art. 39 :
     - **a)** w § 1 wyraz „ustawowej” zastępuje się wyrazem „przymusowej”,
     - **b)** skreśla się § 3,
@@ -79,9 +62,7 @@ source: pdf
     - **b)** po § 1 dodaje się § 2 w brzmieniu: „§ 2. Dla zobowiązań podatkowych powstających w sposób przewidziany w art. 21 § 1 pkt 1 podstawę wpisu zastawu skarbowego stanowi również deklaracja, jeżeli wykazane w niej zobowiązanie podatkowe nie zostało wykonane. Wpis zastawu skarbowego nie może być dokonany wcześniej niż po upływie 14 dni od upływu terminu płatności zobowiązania podatkowego.”;
 
 - **17)** art. 45 otrzymuje brzmienie: „Art. 45. Spisu rzeczy ruchomych oraz praw majątkowych, które mogą być przedmiotem zastawu skarbowego, dokonuje organ podatkowy. Przepisy art. 39 § 1 i 2 stosuje się odpowiednio.”;
-- **18)** w art. 46 § 3 otrzymuje brzmienie: „§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** wzór rejestrów, o których mowa w art. 43, sposób prowadzenia tych rejestrów, uwzględniając termin wpisu zastawu skarbowego do rejestru oraz termin przekazywania informacji z rejestrów do Centralnego Rejestru Zastawów Skarbowych,
-- **2)** wysokość opłaty, o której mowa w § 2, uwzględniając koszty związane z wydaniem wypisu.”;
+- **18)** w art. 46 § 3 otrzymuje brzmienie: „§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) wzór rejestrów, o których mowa w art. 43, sposób prowadzenia tych rejestrów, uwzględniając termin wpisu zastawu skarbowego do rejestru oraz termin przekazywania informacji z rejestrów do Centralnego Rejestru Zastawów Skarbowych, 2) wysokość opłaty, o której mowa w § 2, uwzględniając koszty związane z wydaniem wypisu.”;
 - **19)** w art. 47:
     - **a)** w § 4 skreśla się wyrazy „i inkasentów”,
     - **b)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Terminem płatności dla inkasentów jest dzień następujący po ostatnim dniu, w którym, zgodnie z przepisami prawa podatkowego, wpłata podatku powinna nastąpić, chyba że właściwy organ jednostki samorządu terytorialnego wyznaczył termin późniejszy.”,
@@ -102,43 +83,25 @@ source: pdf
     - **a)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Starosta powiadamia właściwy urząd skarbowy o zawarciu umowy, o której mowa w § 2, przesyłając jednocześnie jej kopię.”,
     - **b)** po § 4 dodaje się § 5 w brzmieniu: „§ 5. W przypadku zawarcia umowy, o której mowa w § 2, organ podatkowy pierwszej instancji wydaje decyzję stwierdzającą wygaśnięcie zobowiązania podatkowego. Przepis art. 55 § 2 stosuje się odpowiednio.”;
 
-- **26)** w art. 67 § 4 otrzymuje brzmienie: „§ 4. Organ podatkowy może umorzyć zaległość podatkową z urzędu, jeżeli:
-- **1)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty przewyższającej wydatki egzekucyjne,
-- **2)** kwota zaległości podatkowej nie przekracza pięciokrotnej wartości kosztów upomnienia w postępowaniu egzekucyjnym,
-- **3)** kwota zaległości podatkowej nie została zaspokojona w zakończonym postępowaniu likwidacyjnym lub upadłościowym,
-- **4)** podatnik zmarł nie pozostawiając żadnego majątku lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego wynagrodzenia ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych w poprzednim kwartale i jednocześnie brak jest następców prawnych oraz nie ma możliwości orzeczenia odpowiedzialności podatkowej osoby trzeciej; w takim przypadku decyzję umarzając ą zaległość podatkową pozostawia się w aktach sprawy.”;
+- **26)** w art. 67 § 4 otrzymuje brzmienie: „§ 4. Organ podatkowy może umorzyć zaległość podatkową z urzędu, jeżeli: 1) zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty przewyższającej wydatki egzekucyjne, 2) kwota zaległości podatkowej nie przekracza pięciokrotnej wartości kosztów upomnienia w postępowaniu egzekucyjnym, 3) kwota zaległości podatkowej nie została zaspokojona w zakończonym postępowaniu likwidacyjnym lub upadłościowym, 4) podatnik zmarł nie pozostawiając żadnego majątku lub pozostawił ruchomości niepodlegające egzekucji na podstawie odrębnych przepisów albo pozostawił przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty stanowiącej trzykrotność przeciętnego wynagrodzenia ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych w poprzednim kwartale i jednocześnie brak jest następców prawnych oraz nie ma możliwości orzeczenia odpowiedzialności podatkowej osoby trzeciej; w takim przypadku decyzję umarzając ą zaległość podatkową pozostawia się w aktach sprawy.”;
 - **27)** w art. 72 po § 2 dodaje się § 3 w brzmieniu: „§ 3. Jeżeli wpłata dotyczyła zaległości podatkowej, na równi z nadpłatą traktuje się także część wpłaty, która została zaliczona na poczet odsetek za zwłokę.”;
 - **28)** w art. 76 w § 1 w pkt 3 kropkę zastępuje się przecinkiem i dodaje pkt 4 w brzmieniu: „4) 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze skorygowanym zeznaniem (deklaracją) w przypadku wymienionym w art. 79 § 2b, lecz nie wcześniej niż po upływie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 74 § 2.”;
-- **29)** w art. 77 w § 2 pkt 2 i 3 otrzymują brzmienie: „2) w przypadkach przewidzianych w art. 76 § 1 pkt 1 lit. e) i pkt 4 – od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze skorygowanym zeznaniem (deklaracją):
-    - **a)** jeżeli nadpłata nie została zwrócona w terminie 30 dni od dnia wydania decyzji o stwierdzeniu nadpłaty,
-    - **b)** jeżeli decyzja o stwierdzeniu nadpłaty nie została wydana w terminie 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty,
-    - **c)** jeżeli nadpłata nie została zwrócona w terminie, o którym mowa w art. 76 § 1 pkt 4,
-
-- **3)** w przypadku przewidzianym w art. 76 § 1 pkt 3 - od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 74 § 2 - do dnia zwrotu nadpłaty lub do dnia zaliczenia jej na poczet zaległych bądź bieżących zobowiązań podatkowych lub do dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych.”;
+- **29)** w art. 77 w § 2 pkt 2 i 3 otrzymują brzmienie: „2) w przypadkach przewidzianych w art. 76 § 1 pkt 1 lit. e) i pkt 4 – od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze skorygowanym zeznaniem (deklaracją): a) jeżeli nadpłata nie została zwrócona w terminie 30 dni od dnia wydania decyzji o stwierdzeniu nadpłaty, b) jeżeli decyzja o stwierdzeniu nadpłaty nie została wydana w terminie 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty, c) jeżeli nadpłata nie została zwrócona w terminie, o którym mowa w art. 76 § 1 pkt 4, 3) w przypadku przewidzianym w art. 76 § 1 pkt 3 - od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 74 § 2 - do dnia zwrotu nadpłaty lub do dnia zaliczenia jej na poczet zaległych bądź bieżących zobowiązań podatkowych lub do dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych.”;
 - **30)** w art. 78:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Po upływie terminu określonego w § 1 wygasa również prawo do złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych oraz możliwość zaliczenia nadpłaty na poczet zaległych oraz bieżących zobowiązań podatkowych.”,
     - **b)** w § 3 skreśla się wyrazy „bieżących lub”;
 
 - **31)** w art. 79:
     - **a)** w § 1 wyrazy „żądanie stwierdzenia” zastępuje się wyrazami „wniosek o stwierdzenie”,
-    - **b)** po § 2 dodaje się § 2a-2c w brzmieniu: „§ 2a. W przypadkach, o których mowa w § 2 pkt 1 lit. a) i b) oraz w pkt 2, podatnik, płatnik lub inkasent równocześnie z wnioskiem o stwierdzenie nadpłaty składają skorygowane zeznanie (deklarację).
-
-§ 2b. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydawania decyzji o stwierdzeniu nadpłaty.
-
-§ 2c. Jeżeli po dokonaniu zwrotu nadpłaty, w trybie, o którym mowa w § 2b, organ podatkowy albo organ kontroli skarbowej określi zaległość podatkową, odsetki za zwłokę nalicza się tylko do tej części zaległości, która przekracza kwotę zwróconej uprzednio nadpłaty. W tym zakresie nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”;
+    - **b)** po § 2 dodaje się § 2a-2c w brzmieniu: „§ 2a. W przypadkach, o których mowa w § 2 pkt 1 lit. a) i b) oraz w pkt 2, podatnik, płatnik lub inkasent równocześnie z wnioskiem o stwierdzenie nadpłaty składają skorygowane zeznanie (deklarację). § 2b. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydawania decyzji o stwierdzeniu nadpłaty. § 2c. Jeżeli po dokonaniu zwrotu nadpłaty, w trybie, o którym mowa w § 2b, organ podatkowy albo organ kontroli skarbowej określi zaległość podatkową, odsetki za zwłokę nalicza się tylko do tej części zaległości, która przekracza kwotę zwróconej uprzednio nadpłaty. W tym zakresie nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”;
 
 - **32)** w art. 80 w § 1 wyrazy „żądania stwierdzenia” zastępuje się wyrazami „złożenia wniosku o stwierdzenie”;
 - **33)** w art. 81:
     - **a)** skreśla się § 1,
-    - **b)** § 2 i 3 otrzymują brzmienie: „§ 2. Uprawnienie do skorygowania deklaracji przysługuje:
+    - **b)** § 2 i 3 otrzymują brzmienie: „§ 2. Uprawnienie do skorygowania deklaracji przysługuje: 1) podatnikom, którzy w złożonej deklaracji wykazali zobowiązanie podatkowe w wysokości mniejszej od należnej albo kwotę nadpłaty bądź podatku przypadającego do zwrotu w wysokości większej od należnej, 2) płatnikom lub inkasentom - w przypadkach określonych w art. 79 § 2 pkt 2. § 3. W przypadku skorygowania deklaracji nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”,
+    - **c)** w § 4 w pkt 1 i 2 po wyrazach „kontroli podatkowej” dodaje się wyrazy „albo skarbowej”,
+    - **d)** skreśla się § 5;
 
-- **1)** podatnikom, którzy w złożonej deklaracji wykazali zobowiązanie podatkowe w wysokości mniejszej od należnej albo kwotę nadpłaty bądź podatku przypadającego do zwrotu w wysokości większej od należnej,
-- **2)** płatnikom lub inkasentom - w przypadkach określonych w art. 79 § 2 pkt 2.
-
-§ 3. W przypadku skorygowania deklaracji nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”,
-
-- **c)** w § 4 w pkt 1 i 2 po wyrazach „kontroli podatkowej” dodaje się wyrazy „albo skarbowej”,
-- **d)** skreśla się § 5;
 - **34)** w art. 82 :
     - **a)** w § 1 w pkt 2 wyrazy „osobami zagranicznymi” zastępuje się wyrazami „nierezydentami w rozumieniu przepisów prawa dewizowego”,
     - **b)** w § 4 wyrazy „wiadomości stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie tajemnicy państwowej i służbowej” zastępuje się wyrazami „informacje niejawne stanowiące tajemnicę służbową w rozumieniu przepisów o ochronie informacji niejawnych”,
@@ -148,28 +111,16 @@ source: pdf
 - **35)** art. 83 otrzymuje brzmienie: „Art. 83. Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, zakres i termin przekazywania informacji, o których mowa w art. 82 § 1, przez organy lub jednostki podległe tym ministrom, uwzględniając dane identyfikujące strony zawartej umowy oraz tryb ich przekazywania zapewniający szczególną ochronę informacji w nich zawartych.”;
 - **36)** art. 85 otrzymuje brzmienie: „Art. 85. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, w zakresie niezbędnym do kontroli prawidłowości wykonywania obowiązków podatkowych oraz korzystania z uprawnień przewidzianych w przepisach prawa podatkowego, grupy podmiotów obowiązanych do składania zeznań, wykazów, informacji lub deklaracji oraz ustalać zakres danych zawartych w tych dokumentach, a także terminy ich składania i rodzaje dokumentów, które powinny być do nich dołączone.”;
 - **37)** w art. 87 § 5 otrzymuje brzmienie: „§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, zakres informacji, które muszą być zawarte w rachunkach, uwzględniając w szczególności dane identyfikujące sprzedawcę i kupującego, wykonawcę i odbiorcę usług oraz oznaczenie wartości i rodzaju transakcji.”;
-- **38)** art. 89 otrzymuje brzmienie: „Art. 89. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
-- **1)** grupy podatników zwolnionych z obowiązku wystawiania rachunków, o których mowa w art. 87 § 1, w przypadkach, w których rodzaj i sposób prowadzenia działalności gospodarczej lub wykonywania wolnego zawodu znacznie utrudnia wystawianie rachunków,
-- **2)** przypadki w których, w zakresie niezbędnym do kontroli prawidłowości wykonywania obowiązków podatkowych oraz korzystania z uprawnień przewidzianych w przepisach prawa podatkowego, podatnicy są obowiązani do:
-    - **a)** dokumentowania rachunkami nabycia towarów lub usług,
-    - **b)** prowadzenia ewidencji rachunków dokumentujących nabycie towarów lub usług.”;
-
+- **38)** art. 89 otrzymuje brzmienie: „Art. 89. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: 1) grupy podatników zwolnionych z obowiązku wystawiania rachunków, o których mowa w art. 87 § 1, w przypadkach, w których rodzaj i sposób prowadzenia działalności gospodarczej lub wykonywania wolnego zawodu znacznie utrudnia wystawianie rachunków, 2) przypadki w których, w zakresie niezbędnym do kontroli prawidłowości wykonywania obowiązków podatkowych oraz korzystania z uprawnień przewidzianych w przepisach prawa podatkowego, podatnicy są obowiązani do: a) dokumentowania rachunkami nabycia towarów lub usług, b) prowadzenia ewidencji rachunków dokumentujących nabycie towarów lub usług.”;
 - **39)** w art. 109 wyrazy „art. 64, 66” zastępuje się wyrazami „art. 64-66”;
 - **40)** w art. 145 po § 2 dodaje się § 3 w brzmieniu: „§ 3. Strona, ustanawiając pełnomocników, wyznacza jednego z nich jako właściwego do doręczeń. W przypadku niewyznaczenia pełnomocnika właściwego do doręczeń organ podatkowy doręcza pismo jednemu z pełnomocników.”;
 - **41)** w art. 147 § 2 otrzymuje brzmienie: „§ 2. Obowiązek, o którym mowa w § 1, dotyczy również osób fizycznych będących nierezydentami w rozumieniu przepisów prawa dewizowego.”;
 - **42)** w art. 148 w § 2 w pkt 2 po wyrazach „osobie upoważnionej” dodaje się wyrazy „przez pracodawcę”;
-- **43)** art. 150 otrzymuje brzmienie: „Art. 150. § 1. W razie niemożności doręczenia pisma w sposób wskazany w art. 148 lub art. 149:
-- **1)** poczta przechowuje pismo przez okres 7 dni w swojej placówce pocztowej - w przypadku doręczania pisma przez pocztę,
-- **2)** pismo składa się na okres 7 dni w urzędzie gminy (miasta) w przypadku doręczania pisma przez pracownika organu podatkowego lub przez inną upoważnioną osobę.
-
-§ 2. Zawiadomienie o pozostawaniu pisma w miejscu określonym w § 1 umieszcza się w oddawczej skrzynce pocztowej lub, gdy nie jest to możliwe, na drzwiach mieszkania adresata, jego biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe, bądź w widocznym miejscu przy wejściu na posesję adresata. W tym przypadku doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w § 1, a pismo pozostawia się w aktach sprawy.”;
-
+- **43)** art. 150 otrzymuje brzmienie: „Art. 150. § 1. W razie niemożności doręczenia pisma w sposób wskazany w art. 148 lub art. 149: 1) poczta przechowuje pismo przez okres 7 dni w swojej placówce pocztowej - w przypadku doręczania pisma przez pocztę, 2) pismo składa się na okres 7 dni w urzędzie gminy (miasta) w przypadku doręczania pisma przez pracownika organu podatkowego lub przez inną upoważnioną osobę. § 2. Zawiadomienie o pozostawaniu pisma w miejscu określonym w § 1 umieszcza się w oddawczej skrzynce pocztowej lub, gdy nie jest to możliwe, na drzwiach mieszkania adresata, jego biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe, bądź w widocznym miejscu przy wejściu na posesję adresata. W tym przypadku doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w § 1, a pismo pozostawia się w aktach sprawy.”;
 - **44)** art. 151 otrzymuje brzmienie: „Art. 151. Osobom prawnym oraz jednostkom organizacyjnym niemającym osobowości prawnej pisma doręcza się w lokalu ich siedziby lub w miejscu prowadzenia działalności - osobie upoważnionej do odbioru korespondencji. Przepisy art. 146, art. 148 § 2 pkt 1 i art. 150 stosuje się odpowiednio.”;
 - **45)** w art. 154 w § 3 po wyrazie „przyjętych” skreśla się przyimek „w”;
 - **46)** w art. 163 w § 1 i 2 wyrazy „O przywróceniu” zastępuje się wyrazami „W sprawie przywrócenia”;
-- **47)** w art. 165 po § 4 dodaje się § 5 w brzmieniu: „§ 5. Przepisów § 2 i § 4 nie stosuje się do postępowania w sprawie:
-- **1)** ustalenia zobowiązań podatkowych, które zgodnie z odrębnymi przepisami ustalane są corocznie, jeżeli stan faktyczny, na podstawie którego ustalono wysokość zobowiązania podatkowego za poprzedni okres, nie uległ zmianie,
-- **2)** umorzenia zaległości podatkowych w przypadkach, o których mowa w art. 67 § 4.”;
+- **47)** w art. 165 po § 4 dodaje się § 5 w brzmieniu: „§ 5. Przepisów § 2 i § 4 nie stosuje się do postępowania w sprawie: 1) ustalenia zobowiązań podatkowych, które zgodnie z odrębnymi przepisami ustalane są corocznie, jeżeli stan faktyczny, na podstawie którego ustalono wysokość zobowiązania podatkowego za poprzedni okres, nie uległ zmianie, 2) umorzenia zaległości podatkowych w przypadkach, o których mowa w art. 67 § 4.”;
 - **48)** w art. 171:
     - **a)** w § 1 wyrazy „art. 66 § 2 Kodeksu postępowania administracyjnego” zastępuje się wyrazami „§ 2”,
     - **b)** w § 2 wyrazy „art. 66 § 1 Kodeksu postępowania administracyjnego” zastępuje się wyrazami „§ 1”;
@@ -186,12 +137,7 @@ source: pdf
     - **a)** w § 1 w pkt 4 przecinek zastępuje się kropką i skreśla się pkt 5,
     - **b)** w § 3 wyrazy „§ 1 pkt 3-5” zastępuje się wyrazami „§ 1 pkt 3 i 4”;
 
-- **55)** art. 259 otrzymuje brzmienie: „Art. 259. § 1. W razie niedotrzymania terminu płatności odroczonego podatku bądź terminu płatności którejkolwiek z rat, na jakie został rozłożony podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji:
-- **1)** o odroczeniu terminu płatności podatku - w całości,
-- **2)** o rozłożeniu na raty zapłaty podatku lub zaległości podatkowej - w części dotyczącej raty niezapłaconej w terminie płatności.
-
-§ 2. Przepis § 1 stosuje się odpowiednio do rozłożonych na raty należności płatników lub inkasentów, wynikających z decyzji o ich odpowiedzialności podatkowej.”;
-
+- **55)** art. 259 otrzymuje brzmienie: „Art. 259. § 1. W razie niedotrzymania terminu płatności odroczonego podatku bądź terminu płatności którejkolwiek z rat, na jakie został rozłożony podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji: 1) o odroczeniu terminu płatności podatku - w całości, 2) o rozłożeniu na raty zapłaty podatku lub zaległości podatkowej - w części dotyczącej raty niezapłaconej w terminie płatności. § 2. Przepis § 1 stosuje się odpowiednio do rozłożonych na raty należności płatników lub inkasentów, wynikających z decyzji o ich odpowiedzialności podatkowej.”;
 - **56)** w art. 260 w § 2 pkt 2 otrzymuje brzmienie: „2) decyzji nie można uchylić lub stwierdzić jej nieważności z przyczyn wymienionych w art. 245 § 2 lub w art. 247 § 2.”;
 - **57)** w art. 267 w § 1 skreśla się pkt 2;
 - **58)** w art. 272 w pkt 1 lit. a) skreśla się wyrazy „i oświadczeń majątkowych”;
@@ -225,10 +171,7 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776 i Nr 160, poz. 1082 z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280 oraz z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249) w art. 49a:
 
-- **1)** ust. 3 otrzymuje brzmienie: „3. Należności z tytułu wpłat, o których mowa w art. 49 ust. 1, są zabezpieczane hipoteką przymusową na wszystkich nieruchomościach dłużnika. Podstawą ustanowienia hipoteki jest doręczona decyzja określająca wysokość należności z tytułu wpłat, o których mowa w art. 49 ust.
-
-1. ”,
-
+- **1)** ust. 3 otrzymuje brzmienie: „3. Należności z tytułu wpłat, o których mowa w art. 49 ust. 1, są zabezpieczane hipoteką przymusową na wszystkich nieruchomościach dłużnika. Podstawą ustanowienia hipoteki jest doręczona decyzja określająca wysokość należności z tytułu wpłat, o których mowa w art. 49 ust. 1.”,
 - **2)** w ust. 4 wyraz „ustawowej” zastępuje się wyrazem „przymusowej”.
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz.U. Nr 140, poz. 940, z 1998 r. Nr 107, poz. 669, z 2000 r. Nr 6, poz. 70 i Nr 60, poz. 702 oraz z 2001 r. Nr 15, poz. 148) w art. 24 w ust. 5 wyraz „ustawowej” zastępuje się wyrazem „przymusowej”.

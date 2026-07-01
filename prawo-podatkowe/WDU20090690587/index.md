@@ -33,22 +33,15 @@ source: pdf
 - **2)** w art. 22:
     - **a)** ust. 5d otrzymuje brzmienie: „5d. Za dzień poniesienia kosztu uzyskania przychodów, z zastrzeżeniem ust. 5e, 6ba, 6bb i 7b, uważa się dzień, na który ujęto koszt w księgach rachunkowych (zaksięgowano) na podstawie otrzymanej faktury (rachunku), albo dzień, na który ujęto koszt na podstawie innego dowodu w przypadku braku faktury (rachunku), z wyjątkiem sytuacji gdy dotyczyłoby to ujętych jako koszty rezerw albo biernych rozliczeń międzyokresowych kosztów.”,
     - **b)** ust. 6b otrzymuje brzmienie: „6b. Za dzień poniesienia kosztu uzyskania przychodów w przypadku podatników, o których mowa w ust. 6, z zastrzeżeniem ust. 5e, 6ba, 6bb i 7b, uważa się dzień wystawienia faktury (rachunku) lub innego dowodu stanowiącego podstawę do zaksięgowania (ujęcia) kosztu.”,
-    - **c)** ust. 7b otrzymuje brzmienie: „7b. Koszty prac rozwojowych mogą być zaliczane do kosztów uzyskania przychodów:
+    - **c)** ust. 7b otrzymuje brzmienie: „7b. Koszty prac rozwojowych mogą być zaliczane do kosztów uzyskania przychodów: 1) w miesiącu, w którym zostały poniesione albo począwszy od tego miesiąca w równych częściach w okresie nie dłuższym niż 12 miesięcy, albo 2) jednorazowo w roku podatkowym, w którym zostały zakończone, albo 3) poprzez odpisy amortyzacyjne dokonywane zgodnie z art. 22m ust. 1 pkt 3 od wartości niematerialnych i prawnych, o których mowa w art. 22b ust. 2 pkt 2.”;
 
-- **1)** w miesiącu, w którym zostały poniesione albo począwszy od tego miesiąca w równych częściach w okresie nie dłuższym niż 12 miesięcy, albo
-- **2)** jednorazowo w roku podatkowym, w którym zostały zakończone, albo
-- **3)** poprzez odpisy amortyzacyjne dokonywane zgodnie z art. 22m ust. 1 pkt 3 od wartości niematerialnych i prawnych, o których mowa w art. 22b ust. 2 pkt 2.”;
 - **3)** w art. 22k dodaje się ust. 13 w brzmieniu: „13. W przypadku spółki niemającej osobowości prawnej kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy spółki.”.
 
 **Art. 2.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 4a pkt 10 otrzymuje brzmienie: „10) małym podatniku – oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 1 200 000 euro; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1 000 zł,”;
 - **2)** w art. 15:
-    - **a)** ust. 4a otrzymuje brzmienie: „4a. Koszty prac rozwojowych mogą być zaliczane do kosztów uzyskania przychodów:
-
-- **1)** w miesiącu, w którym zostały poniesione albo począwszy od tego miesiąca w równych częściach w okresie nie dłuższym niż 12 miesięcy, albo
-- **2)** jednorazowo w roku podatkowym, w którym zostały zakończone, albo
-- **3)** poprzez odpisy amortyzacyjne dokonywane zgodnie z art. 16m ust. 1 pkt 3 od wartości niematerialnych i prawnych, o których mowa w art. 16b ust. 2 pkt 3.”,
+    - **a)** ust. 4a otrzymuje brzmienie: „4a. Koszty prac rozwojowych mogą być zaliczane do kosztów uzyskania przychodów: 1) w miesiącu, w którym zostały poniesione albo począwszy od tego miesiąca w równych częściach w okresie nie dłuższym niż 12 miesięcy, albo 2) jednorazowo w roku podatkowym, w którym zostały zakończone, albo 3) poprzez odpisy amortyzacyjne dokonywane zgodnie z art. 16m ust. 1 pkt 3 od wartości niematerialnych i prawnych, o których mowa w art. 16b ust. 2 pkt 3.”,
     - **b)** ust. 4e otrzymuje brzmienie: „4e. Za dzień poniesienia kosztu uzyskania przychodów, z zastrzeżeniem ust. 4a i 4f-4h, uważa się dzień, na który ujęto koszt w księgach rachunkowych (zaksięgowano) na podstawie otrzymanej faktury (rachunku), albo dzień, na który ujęto koszt na podstawie innego dowodu w przypadku braku faktury (rachunku), z wyjątkiem sytuacji gdy dotyczyłoby to ujętych jako koszty rezerw albo biernych rozliczeń międzyokresowych kosztów.”;
 
 - **3)** w art. 16k dodaje się ust. 13 w brzmieniu: „13. W przypadku spółki niemającej osobowości prawnej kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 7, dotyczy spółki.”.

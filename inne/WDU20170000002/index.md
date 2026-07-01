@@ -29,12 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2016 r. poz. 887, 1948, 2036 i 2260) wprowadza się następujące zmiany:
 
-- **1)** w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
-- **1)** 1000,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
-- **2)** 750,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
-
-2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1000,00 zł miesięcznie.”;
-
+- **1)** w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 1000,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 750,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1000,00 zł miesięcznie.”;
 - **2)** w art. 88 ust. 2 otrzymuje brzmienie: „2. Waloryzacja polega na pomnożeniu kwoty świadczenia i podstawy jego wymiaru przez wskaźnik waloryzacji. W wyniku przeprowadzonej waloryzacji kwota świadczenia nie może ulec obniżeniu.”.
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2016 r. poz. 871 i 2138) w art. 11 ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2439,79 zł.”.
@@ -43,26 +38,10 @@ source: pdf
 
 - **1)** w art. 6 pkt 7 otrzymuje brzmienie: „7) emeryturze podstawowej – rozumie się kwotę 882,56 zł miesięcznie, która podlega waloryzacji zgodnie z przepisami ustawy;”;
 - **2)** w art. 48:
-    - **a)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Jeżeli wysokość świadczenia ustalonego w sposób określony w ust. 1 jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, wysokość takiego świadczenia podwyższa się z urzędu do tej kwoty.
-
-2b. Przepisu ust. 2a nie stosuje się do:
-
-- **1)** emerytury lub renty rolniczej z ubezpieczenia pobieranej w zbiegu z emeryturą lub rentą z innego ubezpieczenia społecznego, jeżeli suma tych świadczeń przekracza kwotę najniższej emerytury określonej w przepisach emerytalnych;
-- **2)** świadczeń, o których mowa w art. 19a i art. 26 ust. 3;
-- **3)** świadczeń, których wypłata została zawieszona zgodnie z art. 28 lub art. 34.”,
+    - **a)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Jeżeli wysokość świadczenia ustalonego w sposób określony w ust. 1 jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, wysokość takiego świadczenia podwyższa się z urzędu do tej kwoty. 2b. Przepisu ust. 2a nie stosuje się do: 1) emerytury lub renty rolniczej z ubezpieczenia pobieranej w zbiegu z emeryturą lub rentą z innego ubezpieczenia społecznego, jeżeli suma tych świadczeń przekracza kwotę najniższej emerytury określonej w przepisach emerytalnych; 2) świadczeń, o których mowa w art. 19a i art. 26 ust. 3; 3) świadczeń, których wypłata została zawieszona zgodnie z art. 28 lub art. 34.”,
     - **b)** uchyla się ust. 3;
 
-- **3)** po art. 48 dodaje się art. 48a w brzmieniu: „Art. 48a. 1. Emerytura podstawowa oraz emerytury i renty z ubezpieczenia podlegają corocznie waloryzacji w terminie wskazanym dla waloryzacji emerytur i rent przysługujących na podstawie przepisów emerytalnych.
-
-2. Waloryzacja emerytury podstawowej polega na pomnożeniu kwoty tej emerytury przez wskaźnik waloryzacji ustalony zgodnie z przepisami emerytalnymi.
-
-3. Waloryzacja emerytury oraz renty z ubezpieczenia polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, o którym mowa w art. 48 ust. 1.
-
-4. Jeżeli zwaloryzowana w sposób określony w ust. 3 kwota emerytury lub renty z ubezpieczenia jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, przepisy art. 48 ust. 2a i 2b stosuje się odpowiednio.
-
-5. O wysokości zwaloryzowanej kwoty emerytury lub renty z ubezpieczenia zawiadamia się uprawnionego.
-
-6. Prezes Kasy ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, obowiązującą od tego terminu kwotę emerytury podstawowej.”.
+- **3)** po art. 48 dodaje się art. 48a w brzmieniu: „Art. 48a. 1. Emerytura podstawowa oraz emerytury i renty z ubezpieczenia podlegają corocznie waloryzacji w terminie wskazanym dla waloryzacji emerytur i rent przysługujących na podstawie przepisów emerytalnych. 2. Waloryzacja emerytury podstawowej polega na pomnożeniu kwoty tej emerytury przez wskaźnik waloryzacji ustalony zgodnie z przepisami emerytalnymi. 3. Waloryzacja emerytury oraz renty z ubezpieczenia polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, o którym mowa w art. 48 ust. 1. 4. Jeżeli zwaloryzowana w sposób określony w ust. 3 kwota emerytury lub renty z ubezpieczenia jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, przepisy art. 48 ust. 2a i 2b stosuje się odpowiednio. 5. O wysokości zwaloryzowanej kwoty emerytury lub renty z ubezpieczenia zawiadamia się uprawnionego. 6. Prezes Kasy ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, obowiązującą od tego terminu kwotę emerytury podstawowej.”.
 
 **Art. 4.** W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2013 r. poz. 170, z 2014 r. poz. 598 i 1682 oraz z 2016 r. poz. 1940) wprowadza się następujące zmiany:
 

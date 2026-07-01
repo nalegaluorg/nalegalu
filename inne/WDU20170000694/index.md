@@ -37,14 +37,7 @@ source: pdf
 - **2)** w art. 13a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Skarb Państwa ponosi koszty nieopłaconej pomocy prawnej udzielonej przez rzecznika patentowego ustanowionego z urzędu.”,
     - **b)** uchyla się ust. 2,
-    - **c)** dodaje się ust. 3–5 w brzmieniu: „3. W sprawie, w której kosztami postępowania został obciążony przeciwnik strony korzystającej z pomocy udzielonej przez rzecznika patentowego ustanowionego z urzędu, koszty, o których mowa w ust. 1, sąd przyznaje po wykazaniu bezskuteczności ich egzekucji.
-
-4. Koszty, o których mowa w ust. 1, obejmują:
-
-- **1)** koszty zastępstwa w wysokości nie wyższej niż 150% stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz
-- **2)** niezbędne udokumentowane wydatki rzecznika patentowego.
-
-5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części.”.
+    - **c)** dodaje się ust. 3–5 w brzmieniu: „3. W sprawie, w której kosztami postępowania został obciążony przeciwnik strony korzystającej z pomocy udzielonej przez rzecznika patentowego ustanowionego z urzędu, koszty, o których mowa w ust. 1, sąd przyznaje po wykazaniu bezskuteczności ich egzekucji. 4. Koszty, o których mowa w ust. 1, obejmują: 1) koszty zastępstwa w wysokości nie wyższej niż 150% stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz 2) niezbędne udokumentowane wydatki rzecznika patentowego. 5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części.”.
 
 **Art. 2.**
 

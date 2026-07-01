@@ -33,14 +33,9 @@ source: pdf
 - **2)** w art. 27:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Zasiłek stały przysługuje osobie zdolnej do pracy, lecz nie pozostającej w zatrudnieniu ze względu na konieczność sprawowania opieki nad dzieckiem wymagającym stałej pielęgnacji, polegającej na bezpośredniej, osobistej pielęgnacji i systematycznym współdziałaniu w postępowaniu leczniczym, rehabilitacyjnym oraz edukacyjnym, jeżeli dochód rodziny nie przekracza dwukrotnego dochodu określonego zgodnie z art. 4, a dziecko jest uprawnione do zasiłku pielęgnacyjnego.”,
     - **b)** w ust. 2 wyrazy „jeżeli dziecko to jest uprawnione do zasiłku pielęgnacyjnego” zastępuje się wyrazami „o którym mowa w ust. 1”,
-    - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Zasiłek stały z tytułu sprawowania opieki nad dzieckiem, o którym mowa w ust. 1 i 2, nie przysługuje osobie:
+    - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Zasiłek stały z tytułu sprawowania opieki nad dzieckiem, o którym mowa w ust. 1 i 2, nie przysługuje osobie: 1) której dziecko przebywa w całodobowym ośrodku rehabilitacyjnym lub innej placówce zapewniającej opiekę przez co najmniej 5 dni w tygodniu, 2) otrzymującej zasiłek dla bezrobotnych lub zasiłek przedemerytalny albo świadczenie przedemerytalne. 2b. W wypadku wystąpienia uzasadnionych wątpliwości dotyczących konieczności sprawowania stałej, bezpośredniej, osobistej opieki nad dzieckiem i jego pielęgnacji w zakresie uniemożliwiającym podjęcie zatrudnienia, kierownik ośrodka pomocy społecznej występuje do powiatowego zespołu do spraw orzekania o stopniu niepełnosprawności, określonego odrębnymi przepisami, w celu uzyskania opinii w sprawie.”,
+    - **d)** w ust. 3a po wyrazach „zasiłku stałego i” dodaje się wyrazy „renty socjalnej, zasiłku stałego wyrównawczego, emerytury, renty, z wyłączeniem renty rodzinnej, a także”;
 
-- **1)** której dziecko przebywa w całodobowym ośrodku rehabilitacyjnym lub innej placówce zapewniającej opiekę przez co najmniej 5 dni w tygodniu,
-- **2)** otrzymującej zasiłek dla bezrobotnych lub zasiłek przedemerytalny albo świadczenie przedemerytalne.
-
-2b. W wypadku wystąpienia uzasadnionych wątpliwości dotyczących konieczności sprawowania stałej, bezpośredniej, osobistej opieki nad dzieckiem i jego pielęgnacji w zakresie uniemożliwiającym podjęcie zatrudnienia, kierownik ośrodka pomocy społecznej występuje do powiatowego zespołu do spraw orzekania o stopniu niepełnosprawności, określonego odrębnymi przepisami, w celu uzyskania opinii w sprawie.”,
-
-- **d)** w ust. 3a po wyrazach „zasiłku stałego i” dodaje się wyrazy „renty socjalnej, zasiłku stałego wyrównawczego, emerytury, renty, z wyłączeniem renty rodzinnej, a także”;
 - **3)** w art. 27a:
     - **a)** w ust. 4 wyrazy „posiadającej równocześnie uprawnienia do świadczeń z ubezpieczenia społecznego” zastępuje się wyrazami „otrzymującej rentę lub emeryturę”,
     - **b)** w ust. 5 po wyrazie „pracy” dodaje się wyrazy „lub dochód z działalności gospodarczej”;
@@ -56,10 +51,7 @@ source: pdf
 **Art. 2.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776 i Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 49, poz. 486) wprowadza się następujące zmiany:
 
 - **1)** w art. 6:
-    - **a)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Zespół wydaje opinię w sprawie:
-
-- **1)** konieczności sprawowania stałej, bezpośredniej opieki nad dzieckiem i jego pielęgnacji w zakresie, który uniemożliwia podjęcie zatrudnienia lub pracy w prowadzonym gospodarstwie rolnym przez osobę ubiegającą się o zasiłek stały,
-- **2)** spełniania przez osobę ubiegającą się o skierowanie do domu pomocy społecznej przesłanek określonych w art. 19 ust. 1 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 20, poz. 170 i Nr 79, poz. 885 i Nr 90, poz. 1001) .”,
+    - **a)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Zespół wydaje opinię w sprawie: 1) konieczności sprawowania stałej, bezpośredniej opieki nad dzieckiem i jego pielęgnacji w zakresie, który uniemożliwia podjęcie zatrudnienia lub pracy w prowadzonym gospodarstwie rolnym przez osobę ubiegającą się o zasiłek stały, 2) spełniania przez osobę ubiegającą się o skierowanie do domu pomocy społecznej przesłanek określonych w art. 19 ust. 1 ustawy z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414, Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 20, poz. 170 i Nr 79, poz. 885 i Nr 90, poz. 1001) .”,
     - **b)** w ust. 9 po wyrazach „stopniu niepełnosprawności” dodaje się wyrazy „oraz wydawania opinii,” a po wyrazach „przy orzekaniu” dodaje się wyrazy „i opiniowaniu”;
 
 - **2)** w art. 28 w ust. 1 zdanie wstępne otrzymuje brzmienie: „Pracodawca prowadzący działalność gospodarczą przez okres co najmniej 12 miesięcy, zatrudniający nie mniej niż 20 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągający wskaźniki zatrudnienia osób niepełnosprawnych, o których mowa w pkt 1, przez okres co najmniej 6 miesięcy, uzyskuje status pracodawcy prowadzącego zakład pracy chronionej, jeżeli:”.

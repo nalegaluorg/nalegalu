@@ -30,8 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. Nr 70, poz. 335, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 1 otrzymuje brzmienie: „1) działalność socjalna - usługi świadczone przez pracodawców na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportoworekreacyjnej, udzielanie pomocy materialnej - rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową,”;
-- **2)** w art. 8: 30 ust. 5 ustawy o związkach zawodowych. Pracodawca, u którego nie działa zakładowa organizacja związkowa, uzgadnia regulamin z pracownikiem wybranym przez załogę do reprezentowania jej interesów.”,
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Zasady i warunki korzystania z usług i świadczeń finansowanych z Funduszu, z uwzględnieniem ust. 1, oraz zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej określa pracodawca w regulaminie ustalanym zgodnie z art. 27 ust. 1 albo z art.
+- **2)** w art. 8:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zasady i warunki korzystania z usług i świadczeń finansowanych z Funduszu, z uwzględnieniem ust. 1, oraz zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej określa pracodawca w regulaminie ustalanym zgodnie z art. 27 ust. 1 albo z art. 30 ust. 5 ustawy o związkach zawodowych. Pracodawca, u którego nie działa zakładowa organizacja związkowa, uzgadnia regulamin z pracownikiem wybranym przez załogę do reprezentowania jej interesów.”,
     - **b)** uchyla się ust. 2a.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

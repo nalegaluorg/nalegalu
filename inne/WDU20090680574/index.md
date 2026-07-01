@@ -35,8 +35,8 @@ source: pdf
 **Art. 2.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** użyte w art. 60 w ust. 2, w art. 61 w ust. 4 i 5, w art. 74 w ust. 3 w pkt 4-5a, 8 i 9 w różnym przypadku wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw zabezpieczenia społecznego”;
-- **2)** w art. 66: Nadzór ten nie może dotyczyć spraw indywidualnych rozstrzyganych w drodze decyzji administracyjnej.”,
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Nadzór nad zgodnością działań Zakładu z obowiązującymi przepisami sprawuje minister właściwy do spraw zabezpieczenia społecznego.
+- **2)** w art. 66:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Nadzór nad zgodnością działań Zakładu z obowiązującymi przepisami sprawuje minister właściwy do spraw zabezpieczenia społecznego. Nadzór ten nie może dotyczyć spraw indywidualnych rozstrzyganych w drodze decyzji administracyjnej.”,
     - **b)** ust. 5 otrzymuje brzmienie: „5. W postępowaniu administracyjnym organem wyższego stopnia w stosunku do terenowych jednostek organizacyjnych Zakładu jest Prezes Zakładu.”;
 
 - **3)** w art. 73 ust. 2 otrzymuje brzmienie: „2. Prezesa Zakładu powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw zabezpieczenia społecznego, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa Zakładu na wniosek ministra właściwego do spraw zabezpieczenia społecznego.”;

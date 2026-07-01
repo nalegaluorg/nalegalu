@@ -35,21 +35,15 @@ source: pdf
 - **4)** w art. 96 w ust. 4 pkt 2 otrzymuje brzmienie: „2) na pozostałe napoje fermentowane – 174,00 zł od 1 hektolitra gotowego wyrobu.”;
 - **5)** w art. 97 ust. 4 otrzymuje brzmienie: „4. Stawka akcyzy na wyroby pośrednie wynosi 350,00 zł od 1 hektolitra gotowego wyrobu.”;
 - **6)** w art. 99:
-    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 228,10 zł za każde 1000 sztuk i 32,05% maksymalnej ceny detalicznej;
+    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 228,10 zł za każde 1000 sztuk i 32,05% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 155,79 zł za każdy kilogram i 32,05% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 433,00 zł za każdy kilogram.”,
+    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 378,38 zł za każde 1000 sztuk; 2) na tytoń do palenia – 252,25 zł za każdy kilogram.”;
 
-- **2)** na tytoń do palenia, z zastrzeżeniem ust. 10 – 155,79 zł za każdy kilogram i 32,05% maksymalnej ceny detalicznej;
-- **3)** na cygara i cygaretki – 433,00 zł za każdy kilogram.”,
-    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 378,38 zł za każde 1000 sztuk;
-
-- **2)** na tytoń do palenia – 252,25 zł za każdy kilogram.”;
 - **7)** w art. 99a:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Stawka akcyzy na susz tytoniowy wynosi 252,25 zł za każdy kilogram.”,
     - **b)** w ust. 4 część wspólna otrzymuje brzmienie: „– bez jego oznaczenia znakami akcyzy, stawka akcyzy wynosi 504,50 zł za każdy kilogram.”;
 
 - **8)** w art. 99b ust. 4 otrzymuje brzmienie: „4. Stawka akcyzy na płyn do papierosów elektronicznych wynosi 0,55 zł za każdy mililitr.”;
-- **9)** w art. 99c ust. 4 i 5 otrzymują brzmienie: „4. Stawka akcyzy na wyroby nowatorskie wynosi 155,79 zł za każdy kilogram i 32,05% średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia.
-
-5. W przypadku produkcji, o której mowa w ust. 1, niezgodnej z art. 47, stawka akcyzy na wyroby nowatorskie wynosi 155,79 zł za każdy kilogram i 32,05% trzykrotności średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia.”.
+- **9)** w art. 99c ust. 4 i 5 otrzymują brzmienie: „4. Stawka akcyzy na wyroby nowatorskie wynosi 155,79 zł za każdy kilogram i 32,05% średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia. 5. W przypadku produkcji, o której mowa w ust. 1, niezgodnej z art. 47, stawka akcyzy na wyroby nowatorskie wynosi 155,79 zł za każdy kilogram i 32,05% trzykrotności średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2020 r.
 

@@ -30,9 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392, z 2014 r. poz. 827 oraz z 2015 r. poz. 1273) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 ust. 1 otrzymuje brzmienie: „1. Powództwo o roszczenie wynikające z umów ubezpieczeń obowiązkowych lub obejmujące roszczenia z tytułu tych ubezpieczeń można wytoczyć bądź według przepisów o właściwości ogólnej, bądź przed sąd właściwy dla miejsca zamieszkania lub siedziby poszkodowanego lub uprawnionego z umowy ubezpieczenia, z zastrzeżeniem art. 34a.”;
-- **2)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Powództwo o odszkodowanie z ubezpieczenia OC posiadaczy pojazdów mechanicznych wytacza się wyłącznie przed sąd właściwy dla miejsca zamieszkania albo siedziby poszkodowanego zdarzeniem powodującym szkodę albo przed sąd właściwy dla miejsca zaistnienia tego zdarzenia. W braku wskazanych wyżej podstaw właściwości miejscowej powództwo można wytoczyć przed sąd właściwy według przepisów o właściwości ogólnej.
-
-2. Przelew wierzytelności nie wpływa na właściwość sądu.”.
+- **2)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Powództwo o odszkodowanie z ubezpieczenia OC posiadaczy pojazdów mechanicznych wytacza się wyłącznie przed sąd właściwy dla miejsca zamieszkania albo siedziby poszkodowanego zdarzeniem powodującym szkodę albo przed sąd właściwy dla miejsca zaistnienia tego zdarzenia. W braku wskazanych wyżej podstaw właściwości miejscowej powództwo można wytoczyć przed sąd właściwy według przepisów o właściwości ogólnej. 2. Przelew wierzytelności nie wpływa na właściwość sądu.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

@@ -32,16 +32,8 @@ source: pdf
 - **1)** w art. 109 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska, na wniosek Prezesa Agencji, powołuje wiceprezesów Agencji, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw środowiska odwołuje wiceprezesów Agencji.”;
 - **2)** w art. 112:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Rada liczy nie więcej niż 10 członków, powoływanych przez ministra właściwego do spraw środowiska, po zasięgnięciu opinii Prezesa Agencji, spośród specjalistów z zakresu bezpieczeństwa jądrowego, ochrony radiologicznej, ochrony fizycznej, geochemii pierwiastków promieniotwórczych, składowania i zabezpieczeń materiałów jądrowych oraz innych specjalności istotnych ze względu na nadzór nad bezpieczeństwem jądrowym i ochroną radiologiczną. Minister właściwy do spraw środowiska odwołuje członków Rady.”,
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Spośród członków Rady minister właściwy do spraw środowiska powołuje:
-
-- **1)** przewodniczącego;
-- **2)** zastępcę przewodniczącego;
-- **3)** sekretarza.”,
-    - **c)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Ustanie członkostwa w Radzie następuje w przypadku:
-
-- **1)** odwołania członka Rady;
-- **2)** pisemnej rezygnacji członka Rady;
-- **3)** śmierci członka Rady.”.
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Spośród członków Rady minister właściwy do spraw środowiska powołuje: 1) przewodniczącego; 2) zastępcę przewodniczącego; 3) sekretarza.”,
+    - **c)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Ustanie członkostwa w Radzie następuje w przypadku: 1) odwołania członka Rady; 2) pisemnej rezygnacji członka Rady; 3) śmierci członka Rady.”.
 
 **Art. 2.** Kadencja dotychczasowej Rady do spraw Bezpieczeństwa Jądrowego i Ochrony Radiologicznej, w składzie ustalonym na podstawie art. 112 ust. 3 ustawy zmienianej w art. 1 niniejszej ustawy w brzmieniu dotychczasowym, wygasa z dniem wejścia w życie niniejszej ustawy.
 

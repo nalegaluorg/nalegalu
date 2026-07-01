@@ -35,16 +35,7 @@ source: pdf
 - **4)** w art. 11:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Bank Gospodarstwa Krajowego przekazuje premię technologiczną na spłatę części kapitału kredytu technologicznego na rachunek w banku kredytującym wskazany w umowie o wypłatę premii technologicznej.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Wypłata premii technologicznej następuje na wniosek przedsiębiorcy złożony do Banku Gospodarstwa Krajowego, za pośrednictwem banku kredytującego.”,
-    - **c)** dodaje się ust. 6 i 7 w brzmieniu: „6. Po zrealizowaniu co najmniej 25% planowanej wartości inwestycji technologicznej przedsiębiorca może składać wnioski o częściową wypłatę premii technologicznej.
-
-7. Wniosek o częściową wypłatę premii technologicznej powinien zawierać:
-
-- **1)** zestawienie faktur lub dokumentów o równoważnej wartości dowodowej oraz dowodów ich zapłaty dokumentujących wydatki, o których mowa w art. 10 ust. 5 i 6;
-- **2)** oświadczenie o niezaleganiu z zapłatą podatku dochodowego za rok obrotowy poprzedzający rok złożenia wniosku o częściową wypłatę premii technologicznej;
-- **3)** oświadczenie o niezaleganiu z zapłatą podatku od towarów i usług na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej;
-- **4)** oświadczenie o niezaleganiu z zapłatą podatku akcyzowego na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej;
-- **5)** oświadczenie o niezaleganiu z zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej;
-- **6)** oświadczenie o niezaleganiu z zapłatą składek na ubezpieczenia społeczne i zdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej.”.
+    - **c)** dodaje się ust. 6 i 7 w brzmieniu: „6. Po zrealizowaniu co najmniej 25% planowanej wartości inwestycji technologicznej przedsiębiorca może składać wnioski o częściową wypłatę premii technologicznej. 7. Wniosek o częściową wypłatę premii technologicznej powinien zawierać: 1) zestawienie faktur lub dokumentów o równoważnej wartości dowodowej oraz dowodów ich zapłaty dokumentujących wydatki, o których mowa w art. 10 ust. 5 i 6; 2) oświadczenie o niezaleganiu z zapłatą podatku dochodowego za rok obrotowy poprzedzający rok złożenia wniosku o częściową wypłatę premii technologicznej; 3) oświadczenie o niezaleganiu z zapłatą podatku od towarów i usług na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej; 4) oświadczenie o niezaleganiu z zapłatą podatku akcyzowego na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej; 5) oświadczenie o niezaleganiu z zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej; 6) oświadczenie o niezaleganiu z zapłatą składek na ubezpieczenia społeczne i zdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o częściową wypłatę premii technologicznej.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

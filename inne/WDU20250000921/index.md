@@ -31,14 +31,11 @@ source: pdf
 
 - **1)** w art. 1a:
     - **a)** pkt 2 otrzymuje brzmienie: „2) najbliższej rodzinie repatrianta – oznacza to małżonka repatrianta i pozostające pod władzą rodzicielską repatrianta lub jego małżonka małoletnie dziecko lub dzieci, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem;”,
-    - **b)** dodaje się pkt 3 i 4 w brzmieniu: „3) najbliższej rodzinie kandydata na repatrianta – oznacza to nieposiadających obywatelstwa polskiego:
-    - **a)** małżonka kandydata na repatrianta, który złożył wniosek o wydanie wizy krajowej w celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3,
-    - **b)** pozostające pod władzą rodzicielską kandydata na repatrianta lub jego małżonka małoletnie dziecko lub dzieci, w imieniu których złożono wniosek o wydanie wizy krajowej w celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 – którzy zamierzają przybyć z kandydatem na repatrianta do Rzeczypospolitej Polskiej z zamiarem osiedlenia się na stałe;
+    - **b)** dodaje się pkt 3 i 4 w brzmieniu: „3) najbliższej rodzinie kandydata na repatrianta – oznacza to nieposiadających obywatelstwa polskiego: a) małżonka kandydata na repatrianta, który złożył wniosek o wydanie wizy krajowej w celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3, b) pozostające pod władzą rodzicielską kandydata na repatrianta lub jego małżonka małoletnie dziecko lub dzieci, w imieniu których złożono wniosek o wydanie wizy krajowej w celu repatriacji albo wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 – którzy zamierzają przybyć z kandydatem na repatrianta do Rzeczypospolitej Polskiej z zamiarem osiedlenia się na stałe; 4) przeciętnym wynagrodzeniu – oznacza to przeciętne wynagrodzenie miesięczne brutto w gospodarce narodowej, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769).”;
 
-- **4)** przeciętnym wynagrodzeniu – oznacza to przeciętne wynagrodzenie miesięczne brutto w gospodarce narodowej, ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718 i 769).”;
 - **2)** w art. 3b w ust. 1 pkt 6 otrzymuje brzmienie: „6) analizowanie rynku pracy pod względem możliwości zatrudnienia repatriantów oraz badanie trwałości zatrudnienia repatrianta, w szczególności realizacji przez pracodawcę obowiązków wynikających z ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, 620, 622, 769 i 820) oraz ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), w przypadku gdy wiza krajowa w celu repatriacji została wydana w związku z przedstawieniem przez kandydata na repatrianta jako dowodu potwierdzającego posiadanie źródeł utrzymania w Rzeczypospolitej Polskiej oświadczenia lub umowy, o których mowa w art. 12 ust. 2, lub umowy, o której mowa w art. 12 ust. 2a;”;
-- **3)** w art. 3c: Przepisy ust. 2 i 3 stosuje się odpowiednio.”,
-    - **a)** ust. 1a otrzymuje brzmienie: „1a. Decyzja, o której mowa w ust. 1, obejmuje również członków najbliższej rodziny kandydata na repatrianta.
+- **3)** w art. 3c:
+    - **a)** ust. 1a otrzymuje brzmienie: „1a. Decyzja, o której mowa w ust. 1, obejmuje również członków najbliższej rodziny kandydata na repatrianta. Przepisy ust. 2 i 3 stosuje się odpowiednio.”,
     - **b)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Pełnomocnik wydaje decyzję, o której mowa w ust. 1, po uprzednim potwierdzeniu przez konsula gotowości kandydata na repatrianta oraz członków najbliższej rodziny kandydata na repatrianta do przyjazdu do ośrodka w zaproponowanym terminie.”,
     - **c)** w ust. 3 wyrazy „o kolejne 90 dni” zastępuje się wyrazami „o kolejny okres nie dłuższy niż 90 dni”,
     - **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Decyzja, o której mowa w ust. 3, obejmuje również członków najbliższej rodziny repatrianta wskazanych we wniosku o przedłużenie pobytu w ośrodku.”,
@@ -47,12 +44,8 @@ source: pdf
 
 - **4)** w art. 4:
     - **a)** dotychczasową treść oznacza się jako ust. 1,
-    - **b)** dodaje się ust. 2 i 3 w brzmieniu: „2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego w drodze repatriacji jest decyzja w sprawie potwierdzenia posiadania obywatelstwa polskiego.
+    - **b)** dodaje się ust. 2 i 3 w brzmieniu: „2. Dokumentem potwierdzającym nabycie obywatelstwa polskiego w drodze repatriacji jest decyzja w sprawie potwierdzenia posiadania obywatelstwa polskiego. 3. Decyzję, o której mowa w ust. 2, wydaje, na wniosek repatrianta, wojewoda właściwy ze względu na miejsce położenia: 1) lokalu mieszkalnego wskazanego na potrzeby potwierdzenia posiadania lub zapewnienia warunków do osiedlenia się w Rzeczypospolitej Polskiej, o których mowa w art. 12 ust. 1, jeżeli repatriantowi wydano wizę krajową w celu repatriacji w związku z przedstawieniem dowodów, o których mowa w art. 12 ust. 2 albo 3 pkt 2 i 3, lub 2) ośrodka, jeżeli repatriantowi wydano wizę krajową w celu repatriacji w związku z decyzją Pełnomocnika w sprawie przyznania miejsca w ośrodku.”;
 
-3. Decyzję, o której mowa w ust. 2, wydaje, na wniosek repatrianta, wojewoda właściwy ze względu na miejsce położenia:
-
-- **1)** lokalu mieszkalnego wskazanego na potrzeby potwierdzenia posiadania lub zapewnienia warunków do osiedlenia się w Rzeczypospolitej Polskiej, o których mowa w art. 12 ust. 1, jeżeli repatriantowi wydano wizę krajową w celu repatriacji w związku z przedstawieniem dowodów, o których mowa w art. 12 ust. 2 albo 3 pkt 2 i 3, lub
-- **2)** ośrodka, jeżeli repatriantowi wydano wizę krajową w celu repatriacji w związku z decyzją Pełnomocnika w sprawie przyznania miejsca w ośrodku.”;
 - **5)** w art. 5:
     - **a)** w ust. 4 kropkę zastępuje się przecinkiem i dodaje się wyrazy „w terminie 3 miesięcy od dnia wpływu wniosku.”,
     - **b)** dodaje się ust. 4b w brzmieniu: „4b. O okolicznościach powodujących konieczność przedłużenia terminu wydania decyzji w sprawie stwierdzenia polskiego pochodzenia konsul zawiadamia wnioskodawcę i wyznacza nowy termin wydania tej decyzji.”;
@@ -77,54 +70,12 @@ source: pdf
 
 - **12)** w art. 16c po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Decyzja o uznaniu za repatrianta obejmuje również małoletnie dziecko będące cudzoziemcem, pozostające pod opieką osoby, o której mowa w art. 16 ust. 1, 2 lub 2a, jeżeli zostało objęte wnioskiem o uznanie za repatrianta dotyczącym tej osoby. Przepis ust. 1 stosuje się odpowiednio.”;
 - **13)** w art. 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Pełnomocnik udziela repatriantowi, na jego wniosek, oraz członkom najbliższej rodziny repatrianta objętym wnioskiem, w drodze decyzji, jednorazowej pomocy finansowej ze środków budżetu państwa na:
-
-- **1)** pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej w wysokości dwukrotności ceny biletu kolejowego drugiej klasy od stacji kolejowej najbliższej miejscu zamieszkania repatrianta za granicą do miejsca osiedlenia się w Rzeczypospolitej Polskiej – na repatrianta i każdego członka najbliższej rodziny repatrianta;
-- **2)** zagospodarowanie i bieżące utrzymanie w wysokości dwukrotności przeciętnego wynagrodzenia ogłoszonego w kwartale poprzedzającym dzień złożenia wniosku – na repatrianta i każdego członka najbliższej rodziny repatrianta;
-- **3)** pokrycie kosztów związanych z podjęciem w Rzeczypospolitej Polskiej nauki przez osobę małoletnią podlegającą obowiązkowi szkolnemu w rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ) w wysokości przeciętnego wynagrodzenia ogłoszonego w kwartale poprzedzającym dzień złożenia wniosku – na każde dziecko realizujące obowiązek szkolny w Rzeczypospolitej Polskiej.”;
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Pełnomocnik udziela repatriantowi, na jego wniosek, oraz członkom najbliższej rodziny repatrianta objętym wnioskiem, w drodze decyzji, jednorazowej pomocy finansowej ze środków budżetu państwa na: 1) pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej w wysokości dwukrotności ceny biletu kolejowego drugiej klasy od stacji kolejowej najbliższej miejscu zamieszkania repatrianta za granicą do miejsca osiedlenia się w Rzeczypospolitej Polskiej – na repatrianta i każdego członka najbliższej rodziny repatrianta; 2) zagospodarowanie i bieżące utrzymanie w wysokości dwukrotności przeciętnego wynagrodzenia ogłoszonego w kwartale poprzedzającym dzień złożenia wniosku – na repatrianta i każdego członka najbliższej rodziny repatrianta; 3) pokrycie kosztów związanych z podjęciem w Rzeczypospolitej Polskiej nauki przez osobę małoletnią podlegającą obowiązkowi szkolnemu w rozumieniu art. 35 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ) w wysokości przeciętnego wynagrodzenia ogłoszonego w kwartale poprzedzającym dzień złożenia wniosku – na każde dziecko realizujące obowiązek szkolny w Rzeczypospolitej Polskiej.”;
     - **b)** w ust. 6 wyrazy „o której mowa w ust. 1 i 2” zastępuje się wyrazami „o której mowa w ust. 2”,
     - **c)** w ust. 8 dodaje się zdanie drugie w brzmieniu: „W tym przypadku Pełnomocnik nie udziela pomocy, o której mowa w ust. 1 pkt 1.”;
 
 - **14)** w art. 17a ust. 5 otrzymuje brzmienie: „5. Kwotę stanowiącą równowartość pomocy, o której mowa w art. 17 ust. 2, starosta wypłaca w terminie 90 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna.”;
-- **15)** po art. 17a dodaje się art. 17aa w brzmieniu: „Art. 17aa. 1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego.
-
-2. Wniosek, o którym mowa w art. 17 ust. 1, obejmuje również przebywających w Rzeczypospolitej Polskiej członków najbliższej rodziny repatrianta.
-
-3. Wniosek, o którym mowa w art. 17 ust. 1, składa się na formularzu, który zawiera następujące dane i informacje dotyczące wnioskodawcy:
-
-- **1)** imię (imiona) i nazwisko;
-- **2)** nazwisko rodowe;
-- **3)** imiona rodziców;
-- **4)** nazwisko rodowe matki;
-- **5)** datę urodzenia;
-- **6)** numer PESEL;
-- **7)** adres miejsca zamieszkania;
-- **8)** datę nabycia obywatelstwa polskiego w drodze repatriacji;
-- **9)** liczbę członków najbliższej rodziny repatrianta;
-- **10)** imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o których mowa w pkt 9;
-- **11)** adres ostatniego miejsca zamieszkania za granicą;
-- **12)** informację na temat udzielenia przez konsula pomocy na pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej;
-- **13)** informację na temat podjęcia nauki w Rzeczypospolitej Polskiej przez osobę małoletnią objętą wnioskiem;
-- **14)** numer rachunku bankowego właściwego do przekazania środków pomocy, o której mowa w art. 17 ust. 1, prowadzonego przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej;
-- **15)** imię i nazwisko posiadacza rachunku, o którym mowa w pkt 14.
-
-4. Wniosek, o którym mowa w art. 17 ust. 1, zawiera oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte w tym wniosku są prawdziwe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
-
-5. Do wniosku, o którym mowa w art. 17 ust. 1, dołącza się:
-
-- **1)** kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego;
-- **2)** kopie decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego przez członków najbliższej rodziny repatrianta objętych wnioskiem, a w przypadku gdy członek najbliższej rodziny repatrianta złożył wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 – kopie stron paszportu potwierdzających wydanie wizy w celu przybycia na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta;
-- **3)** dokumenty potwierdzające ostatnie miejsce zamieszkania za granicą wnioskodawcy oraz członków najbliższej rodziny repatrianta objętych wnioskiem;
-- **4)** zaświadczenie potwierdzające podjęcie nauki przez objętą wnioskiem osobę małoletnią podlegającą obowiązkowi szkolnemu, która podjęła naukę w Rzeczypospolitej Polskiej, wydane przez dyrektora właściwej szkoły podstawowej;
-- **5)** zaświadczenie potwierdzające prowadzenie rachunku, o którym mowa w ust. 3 pkt 14, wydane przez bank;
-- **6)** inne dokumenty potwierdzające okoliczności wymienione we wniosku.
-
-6. Pełnomocnik rozpatruje wnioski o udzielenie pomocy, o której mowa w art. 17 ust. 1, według kolejności wpływu.
-
-7. Kwotę stanowiącą równowartość pomocy, o której mowa w art. 17 ust. 1, wypłaca Pełnomocnik w terminie 30 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna.
-
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 1, mając na uwadze potrzebę zapewnienia sprawności postępowania o udzielenie pomocy oraz kompletności danych przedstawianych we wniosku.”;
-
+- **15)** po art. 17a dodaje się art. 17aa w brzmieniu: „Art. 17aa. 1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 1, do Pełnomocnika w terminie 3 miesięcy od dnia doręczenia decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego. 2. Wniosek, o którym mowa w art. 17 ust. 1, obejmuje również przebywających w Rzeczypospolitej Polskiej członków najbliższej rodziny repatrianta. 3. Wniosek, o którym mowa w art. 17 ust. 1, składa się na formularzu, który zawiera następujące dane i informacje dotyczące wnioskodawcy: 1) imię (imiona) i nazwisko; 2) nazwisko rodowe; 3) imiona rodziców; 4) nazwisko rodowe matki; 5) datę urodzenia; 6) numer PESEL; 7) adres miejsca zamieszkania; 8) datę nabycia obywatelstwa polskiego w drodze repatriacji; 9) liczbę członków najbliższej rodziny repatrianta; 10) imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o których mowa w pkt 9; 11) adres ostatniego miejsca zamieszkania za granicą; 12) informację na temat udzielenia przez konsula pomocy na pokrycie kosztów przejazdu lub przelotu oraz przewozu mienia do Rzeczypospolitej Polskiej; 13) informację na temat podjęcia nauki w Rzeczypospolitej Polskiej przez osobę małoletnią objętą wnioskiem; 14) numer rachunku bankowego właściwego do przekazania środków pomocy, o której mowa w art. 17 ust. 1, prowadzonego przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej; 15) imię i nazwisko posiadacza rachunku, o którym mowa w pkt 14. 4. Wniosek, o którym mowa w art. 17 ust. 1, zawiera oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte w tym wniosku są prawdziwe. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. 5. Do wniosku, o którym mowa w art. 17 ust. 1, dołącza się: 1) kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego; 2) kopie decyzji wojewody w sprawie potwierdzenia posiadania obywatelstwa polskiego przez członków najbliższej rodziny repatrianta objętych wnioskiem, a w przypadku gdy członek najbliższej rodziny repatrianta złożył wniosek o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3 – kopie stron paszportu potwierdzających wydanie wizy w celu przybycia na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta; 3) dokumenty potwierdzające ostatnie miejsce zamieszkania za granicą wnioskodawcy oraz członków najbliższej rodziny repatrianta objętych wnioskiem; 4) zaświadczenie potwierdzające podjęcie nauki przez objętą wnioskiem osobę małoletnią podlegającą obowiązkowi szkolnemu, która podjęła naukę w Rzeczypospolitej Polskiej, wydane przez dyrektora właściwej szkoły podstawowej; 5) zaświadczenie potwierdzające prowadzenie rachunku, o którym mowa w ust. 3 pkt 14, wydane przez bank; 6) inne dokumenty potwierdzające okoliczności wymienione we wniosku. 6. Pełnomocnik rozpatruje wnioski o udzielenie pomocy, o której mowa w art. 17 ust. 1, według kolejności wpływu. 7. Kwotę stanowiącą równowartość pomocy, o której mowa w art. 17 ust. 1, wypłaca Pełnomocnik w terminie 30 dni od dnia, w którym decyzja w sprawie udzielenia pomocy stała się ostateczna. 8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku, o którym mowa w art. 17 ust. 1, mając na uwadze potrzebę zapewnienia sprawności postępowania o udzielenie pomocy oraz kompletności danych przedstawianych we wniosku.”;
 - **16)** w art. 17c:
     - **a)** w ust. 3 w pkt 16 po wyrazie „bankowego” dodaje się przecinek i wyrazy „prowadzonego przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej,”,
     - **b)** w ust. 8 po wyrazach „pkt 16” dodaje się przecinek i wyrazy „lub prowadzony przez bank mający siedzibę na terytorium Rzeczypospolitej Polskiej rachunek bankowy, wskazany w akcie notarialnym jako właściwy do przekazania kwoty wynikającej z decyzji w sprawie udzielenia pomocy, o której mowa w art. 17b ust. 2 pkt 3”;
@@ -151,20 +102,9 @@ source: pdf
 
 - **1)** w ust. 1:
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W latach 2017–2026 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 559 133 tys. zł, w tym w:”,
-    - **b)** pkt 9 i 10 otrzymują brzmienie: „9) 2025 r. – 80 757 tys. zł;
+    - **b)** pkt 9 i 10 otrzymują brzmienie: „9) 2025 r. – 80 757 tys. zł; 10) 2026 r. – 80 757 tys. zł.”;
 
-- **10)** 2026 r. – 80 757 tys. zł.”;
-- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2027–2036 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 807 570 tys. zł, w tym w:
-- **1)** 2027 r. – 80 757 tys. zł;
-- **2)** 2028 r. – 80 757 tys. zł;
-- **3)** 2029 r. – 80 757 tys. zł;
-- **4)** 2030 r. – 80 757 tys. zł;
-- **5)** 2031 r. – 80 757 tys. zł;
-- **6)** 2032 r. – 80 757 tys. zł;
-- **7)** 2033 r. – 80 757 tys. zł;
-- **8)** 2034 r. – 80 757 tys. zł;
-- **9)** 2035 r. – 80 757 tys. zł;
-- **10)** 2036 r. – 80 757 tys. zł.”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2027–2036 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy wynosi 807 570 tys. zł, w tym w: 1) 2027 r. – 80 757 tys. zł; 2) 2028 r. – 80 757 tys. zł; 3) 2029 r. – 80 757 tys. zł; 4) 2030 r. – 80 757 tys. zł; 5) 2031 r. – 80 757 tys. zł; 6) 2032 r. – 80 757 tys. zł; 7) 2033 r. – 80 757 tys. zł; 8) 2034 r. – 80 757 tys. zł; 9) 2035 r. – 80 757 tys. zł; 10) 2036 r. – 80 757 tys. zł.”;
 - **3)** w ust. 2 i 3 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”.
 
 **Art. 5.**

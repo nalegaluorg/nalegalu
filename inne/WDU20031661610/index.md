@@ -30,10 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz.U. z 2000 r. Nr 80, poz. 904, z 2001 r. Nr 128, poz. 1402 oraz z 2002 r. Nr 126, poz. 1068 i Nr 197, poz. 1662) wprowadza się następujące zmiany:
 
 - **1)** w art. 21 uchyla się ust. 3 i ust. 4;
-- **2)** po art. 21 dodaje się art. 21 w brzmieniu: „Art. 21 . 1. Operatorom sieci kablowych wolno reemitować w sieciach kablowych utwory nadawane w programach organizacji radiowych i telewizyjnych wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi.
-
-2. W przypadku sporów związanych z zawarciem umowy, o której mowa w ust. 1, stosuje się przepis art. 108 ust. 5.”;
-
+- **2)** po art. 21 dodaje się art. 21 w brzmieniu: „Art. 21 . 1. Operatorom sieci kablowych wolno reemitować w sieciach kablowych utwory nadawane w programach organizacji radiowych i telewizyjnych wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi. 2. W przypadku sporów związanych z zawarciem umowy, o której mowa w ust. 1, stosuje się przepis art. 108 ust. 5.”;
 - **3)** w art. 24 dodaje się ust. 4 w brzmieniu: „4. Z zastrzeżeniem przepisu ust. 1, operatorom sieci kablowych wolno reemitować utwory nadawane przez inne organizacje radiowe lub telewizyjne dostępne na danym obszarze, jeżeli rozpowszechnianie w sieciach kablowych ma charakter równoczesny i integralny z nadaniem pierwotnym. Uprawnionym do utworów przysługuje prawo do wynagrodzenia.”;
 - **4)** w art. 92 po wyrazie „21,” dodaje się wyraz „21 ,”;
 - **5)** w art. 95 w ust. 2 wyrazy „art. 21 ust. 3 i 4” zastępuje się wyrazami „art. 21 ;

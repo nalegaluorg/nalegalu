@@ -50,36 +50,21 @@ source: pdf
 
 **Art. 8.** W ustawie z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U. Nr 169, poz. 1385, z późń. zm. ) w art. 45 pkt 4 otrzymuje brzmienie: „4) udzielać kredytów wyłącznie w celu świadczenia usług płatniczych, o których mowa w art. 3 ust. 1 pkt 2–6 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z zastrzeżeniem art. 74 ust. 3 tej ustawy;”.
 
-**Art. 9.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ) w art. 108 po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. Ze środków Funduszu Pracy w 2012 r. są finansowane:
-
-- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
-- **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
+**Art. 9.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ) w art. 108 po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. Ze środków Funduszu Pracy w 2012 r. są finansowane: 1) staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty; 2) staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
 
 **Art. 10.** W ustawie z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. Nr 52, poz. 379 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 2 otrzymuje brzmienie: „2. Limit ustala się jako kwotę stanowiącą iloczyn stawki zwrotu podatku na 1 litr oleju napędowego, liczby 86 oraz powierzchni użytków rolnych, będących w posiadaniu lub współposiadaniu producenta rolnego, określonej w ewidencji gruntów i budynków, według stanu na dzień 1 lutego danego roku.”;
 - **2)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Wniosek o zwrot podatku składa się w terminach od dnia 1 lutego do ostatniego dnia lutego i od dnia 1 sierpnia do dnia 31 sierpnia danego roku.”;
-- **3)** w art. 7 ust. 1 otrzymuje brzmienie: „1. Wypłata zwrotu podatku przyznanego na podstawie decyzji, o której mowa w art. 5 ust. 1, następuje w terminach:
-- **1)** od dnia 1 kwietnia do dnia 30 kwietnia – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 lutego do ostatniego dnia lutego;
-- **2)** od dnia 1 października do dnia 31 października – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 sierpnia do dnia 31 sierpnia.”.
+- **3)** w art. 7 ust. 1 otrzymuje brzmienie: „1. Wypłata zwrotu podatku przyznanego na podstawie decyzji, o której mowa w art. 5 ust. 1, następuje w terminach: 1) od dnia 1 kwietnia do dnia 30 kwietnia – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 lutego do ostatniego dnia lutego; 2) od dnia 1 października do dnia 31 października – jeżeli wnioski o zwrot podatku zostały złożone w terminie od dnia 1 sierpnia do dnia 31 sierpnia.”.
 
 **Art. 11.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 89 w ust. 1:
-    - **a)** pkt 5 i 6 otrzymują brzmienie: „5) paliw do silników odrzutowych o kodzie CN 2710 19 21 – 1446,00 zł/1000 litrów;
-
-- **6)** olejów napędowych o kodzie CN 2710 19 41 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1196,00 zł/1000 litrów;”,
+    - **a)** pkt 5 i 6 otrzymują brzmienie: „5) paliw do silników odrzutowych o kodzie CN 2710 19 21 – 1446,00 zł/1000 litrów; 6) olejów napędowych o kodzie CN 2710 19 41 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1196,00 zł/1000 litrów;”,
     - **b)** pkt 8 otrzymuje brzmienie: „8) biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1196,00 zł/1000 litrów;”;
 
-- **2)** w art. 99 ust. 2 i 3 otrzymują brzmienie: „2. Stawki akcyzy na wyroby tytoniowe wynoszą:
-- **1)** na papierosy, z zastrzeżeniem ust. 10 – 170,97 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej;
-- **2)** na tytoń do palenia, z zastrzeżeniem ust. 10 – 115,86 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej;
-- **3)** na cygara i cygaretki – 254,20 zł za każde 1000 sztuk.
-
-3. Na papierosy lub tytoń do palenia nieobjęte obowiązkiem oznaczania znakami akcyzy i nieoznaczone maksymalną ceną detaliczną stawki akcyzy wynoszą:
-
-- **1)** na papierosy – 312,00 zł za każde 1000 sztuk;
-- **2)** na tytoń do palenia – 208,00 zł za każdy kilogram.”.
+- **2)** w art. 99 ust. 2 i 3 otrzymują brzmienie: „2. Stawki akcyzy na wyroby tytoniowe wynoszą: 1) na papierosy, z zastrzeżeniem ust. 10 – 170,97 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 115,86 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 254,20 zł za każde 1000 sztuk. 3. Na papierosy lub tytoń do palenia nieobjęte obowiązkiem oznaczania znakami akcyzy i nieoznaczone maksymalną ceną detaliczną stawki akcyzy wynoszą: 1) na papierosy – 312,00 zł za każde 1000 sztuk; 2) na tytoń do palenia – 208,00 zł za każdy kilogram.”.
 
 **Art. 12.** W ustawie z dnia 23 stycznia 2009 r. o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie (Dz. U. Nr 92, poz. 753 i Nr 99, poz. 826) w art. 38 ust. 3 otrzymuje brzmienie: „3. W odniesieniu do zadań, o których mowa w art. 17 ust. 1 pkt 19 i 20 ustawy zmienianej w art. 20 w brzmieniu nadanym niniejszą ustawą, nie stosuje się art. 115 ust. 1 tej ustawy oraz art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).”.
 
@@ -102,33 +87,8 @@ source: pdf
 
 - **1)** uchyla się art. 183;
 - **2)** w art. 193 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) ryczałt za dojazd do miejsca pełnienia służby.”;
-- **3)** po art. 195 dodaje się art. 195a w brzmieniu: „Art. 195a. 1. Funkcjonariuszowi, który mieszka poza miejscowością pełnienia służby, przysługuje ryczałt za dojazd do miejsca pełnienia służby.
-
-2. Wypłaty ryczałtu za dojazd do miejsca pełnienia służby dokonuje, na wniosek funkcjonariusza, właściwa jednostka organizacyjna. W razie zaistnienia okoliczności, o których mowa w ust. 4, funkcjonariusz składa ponowny wniosek o wypłatę ryczałtu za dojazd do miejsca pełnienia służby.
-
-3. Ryczałt za dojazd do miejsca pełnienia służby wypłaca się uprawnionemu funkcjonariuszowi na zasadach określonych w art. 62.
-
-4. Zmiana miejsca zamieszkania funkcjonariusza wstrzymuje wypłatę ryczałtu za dojazd do miejsca pełnienia służby. Funkcjonariusz jest obowiązany do składania kierownikowi jednostki organizacyjnej oświadczenia o każdej zmianie miejsca zamieszkania.
-
-5. Ryczałt za dojazd do miejsca pełnienia służby nie przysługuje funkcjonariuszowi, który otrzymuje zwrot kosztów przejazdu do miejsca pełnienia służby i z powrotem na podstawie art. 73 ust. 3 pkt 6.
-
-6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość ryczałtu, o którym mowa w ust. 1, uwzględniając odległość miejsca zamieszkania od miejsca pełnienia służby, konieczność zachowania rocznego i maksymalnego limitu wydatków, o których mowa w art. 272a ust. 1, oraz liczbę funkcjonariuszy uprawnionych do ryczałtu.”;
-
-- **4)** po art. 272 dodaje się art. 272a w brzmieniu: „Art. 272a. 1. W latach 2012–2021 maksymalny limit wydatków budżetu państwa na świadczenie, o którym mowa w art. 195a, wynosi 75 930 tys. zł, z tym że w poszczególnych latach limit wynosi:
-- **1)** 2012 r. – 6785 tys. zł;
-- **2)** 2013 r. – 6954 tys. zł;
-- **3)** 2014 r. – 7128 tys. zł;
-- **4)** 2015 r. – 7306 tys. zł;
-- **5)** 2016 r. – 7489 tys. zł;
-- **6)** 2017 r. – 7676 tys. zł;
-- **7)** 2018 r. – 7861 tys. zł;
-- **8)** 2019 r. – 8049 tys. zł;
-- **9)** 2020 r. – 8242 tys. zł;
-- **10)** 2021 r. – 8440 tys. zł.
-
-2. Minister Sprawiedliwości monitoruje wykorzystanie rocznych limitów wydatków, dokonując przynajmniej cztery razy w roku, według stanu na koniec każdego kwartału, oceny wykorzystania limitu wydatków na dany rok.
-
-3. W przypadku zagrożenia przekroczenia rocznego i maksymalnego limitu wydatków oraz w przypadku gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10%, stosuje się mechanizm korygujący, polegający na proporcjonalnej zmianie wysokości ryczałtu.”.
+- **3)** po art. 195 dodaje się art. 195a w brzmieniu: „Art. 195a. 1. Funkcjonariuszowi, który mieszka poza miejscowością pełnienia służby, przysługuje ryczałt za dojazd do miejsca pełnienia służby. 2. Wypłaty ryczałtu za dojazd do miejsca pełnienia służby dokonuje, na wniosek funkcjonariusza, właściwa jednostka organizacyjna. W razie zaistnienia okoliczności, o których mowa w ust. 4, funkcjonariusz składa ponowny wniosek o wypłatę ryczałtu za dojazd do miejsca pełnienia służby. 3. Ryczałt za dojazd do miejsca pełnienia służby wypłaca się uprawnionemu funkcjonariuszowi na zasadach określonych w art. 62. 4. Zmiana miejsca zamieszkania funkcjonariusza wstrzymuje wypłatę ryczałtu za dojazd do miejsca pełnienia służby. Funkcjonariusz jest obowiązany do składania kierownikowi jednostki organizacyjnej oświadczenia o każdej zmianie miejsca zamieszkania. 5. Ryczałt za dojazd do miejsca pełnienia służby nie przysługuje funkcjonariuszowi, który otrzymuje zwrot kosztów przejazdu do miejsca pełnienia służby i z powrotem na podstawie art. 73 ust. 3 pkt 6. 6. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość ryczałtu, o którym mowa w ust. 1, uwzględniając odległość miejsca zamieszkania od miejsca pełnienia służby, konieczność zachowania rocznego i maksymalnego limitu wydatków, o których mowa w art. 272a ust. 1, oraz liczbę funkcjonariuszy uprawnionych do ryczałtu.”;
+- **4)** po art. 272 dodaje się art. 272a w brzmieniu: „Art. 272a. 1. W latach 2012–2021 maksymalny limit wydatków budżetu państwa na świadczenie, o którym mowa w art. 195a, wynosi 75 930 tys. zł, z tym że w poszczególnych latach limit wynosi: 1) 2012 r. – 6785 tys. zł; 2) 2013 r. – 6954 tys. zł; 3) 2014 r. – 7128 tys. zł; 4) 2015 r. – 7306 tys. zł; 5) 2016 r. – 7489 tys. zł; 6) 2017 r. – 7676 tys. zł; 7) 2018 r. – 7861 tys. zł; 8) 2019 r. – 8049 tys. zł; 9) 2020 r. – 8242 tys. zł; 10) 2021 r. – 8440 tys. zł. 2. Minister Sprawiedliwości monitoruje wykorzystanie rocznych limitów wydatków, dokonując przynajmniej cztery razy w roku, według stanu na koniec każdego kwartału, oceny wykorzystania limitu wydatków na dany rok. 3. W przypadku zagrożenia przekroczenia rocznego i maksymalnego limitu wydatków oraz w przypadku gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres została przekroczona co najmniej o 10%, stosuje się mechanizm korygujący, polegający na proporcjonalnej zmianie wysokości ryczałtu.”.
 
 **Art. 15.** W ustawie z dnia 16 grudnia 2010 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. Nr 257, poz. 1726) wprowadza się następujące zmiany:
 
@@ -138,13 +98,7 @@ source: pdf
 
 **Art. 16.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039) po art. 96 dodaje się art. 96a w brzmieniu: „Art. 96a. W roku 2012 środki przeznaczone na sfinansowanie stażu podyplomowego na podstawie art. 9 ustawy, o której mowa w art. 103, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy.”.
 
-**Art. 17.** W ustawie z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. Nr 191, poz. 1133) w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie: „2) ograniczenie co najmniej jednego ze świadczeń udzielanych w formie niepieniężnej cudzoziemcom ubiegającym się o nadanie statusu uchodźcy przez:
-
-- **a)** obniżenie wymiaru czasu nauki języka polskiego o nie więcej niż 50%, w zaokrągleniu do pełnych godzin lekcyjnych, albo wstrzymanie tej nauki,
-- **b)** obniżenie wydatków na zakup podstawowych materiałów niezbędnych do nauki języka polskiego o nie więcej niż 50% albo wstrzymanie zapewniania tych materiałów,
-- **c)** obniżenie wydatków na zakup pomocy dydaktycznych dla dzieci korzystających z nauki i opieki w publicznych placówkach, szkołach podstawowych, gimnazjach lub szkołach ponadgimnazjalnych o nie więcej niż 50%,
-- **d)** ograniczenie wydatków na finansowanie przejazdów środkami transportu publicznego w celu wzięcia udziału w postępowaniu w sprawie nadania statusu uchodźcy, w celu leczenia lub poddania się szczepieniom ochronnym lub w innych szczególnie uzasadnionych przypadkach, przez finansowanie przejazdu najtańszymi środkami transportu publicznego,
-- **e)** wstrzymanie finansowania przejazdów środkami transportu publicznego w celach innych niż udział w postępowaniu w sprawie nadania statusu uchodźcy oraz innych niż leczenie lub poddanie się szczepieniom ochronnym;”.
+**Art. 17.** W ustawie z dnia 28 lipca 2011 r. o zalegalizowaniu pobytu niektórych cudzoziemców na terytorium Rzeczypospolitej Polskiej oraz o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej i ustawy o cudzoziemcach (Dz. U. Nr 191, poz. 1133) w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie: „2) ograniczenie co najmniej jednego ze świadczeń udzielanych w formie niepieniężnej cudzoziemcom ubiegającym się o nadanie statusu uchodźcy przez: a) obniżenie wymiaru czasu nauki języka polskiego o nie więcej niż 50%, w zaokrągleniu do pełnych godzin lekcyjnych, albo wstrzymanie tej nauki, b) obniżenie wydatków na zakup podstawowych materiałów niezbędnych do nauki języka polskiego o nie więcej niż 50% albo wstrzymanie zapewniania tych materiałów, c) obniżenie wydatków na zakup pomocy dydaktycznych dla dzieci korzystających z nauki i opieki w publicznych placówkach, szkołach podstawowych, gimnazjach lub szkołach ponadgimnazjalnych o nie więcej niż 50%, d) ograniczenie wydatków na finansowanie przejazdów środkami transportu publicznego w celu wzięcia udziału w postępowaniu w sprawie nadania statusu uchodźcy, w celu leczenia lub poddania się szczepieniom ochronnym lub w innych szczególnie uzasadnionych przypadkach, przez finansowanie przejazdu najtańszymi środkami transportu publicznego, e) wstrzymanie finansowania przejazdów środkami transportu publicznego w celach innych niż udział w postępowaniu w sprawie nadania statusu uchodźcy oraz innych niż leczenie lub poddanie się szczepieniom ochronnym;”.
 
 **Art. 18.** W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. Nr 199, poz. 1175) w art. 125 ust. 7 otrzymuje brzmienie: „7. W przypadku naruszenia obowiązku, o którym mowa w ust. 6, KNF może nałożyć na biuro usług płatniczych karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, nie większej jednak niż 100 000 zł; przepisy art. 105 ust. 2, 4 i 5 i art. 116 stosuje się odpowiednio.”.
 

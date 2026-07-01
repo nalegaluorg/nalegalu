@@ -281,29 +281,22 @@ source: pdf
 
 **Art. 29.** Skutki finansowe wynikające z regulacji, o których mowa w art. 9 i 18, nie stanowią dla gmin podstawy do ubiegania się z budżetu państwa o rekompensatę niepobranych dochodów bądź poniesionych wydatków.
 
-**Art. 30.** W ustawie z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz.U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 88, poz. 553, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 550, Nr 62, poz. 718 i Nr 109, poz. 1157 oraz z 2001 r. Nr 38, poz. 452, Nr 45, poz. 497, Nr 63, poz. 634, 73, poz. 764, Nr 76, poz. 811) art. 88j otrzymuje brzmienie: „Art. 88j. Środki powiatowych funduszy przeznacza się na wspomaganie działalności, o której mowa w art. 88 pkt 1-7a, oraz na:
-
-- **1)** realizację przedsięwzięć związanych ze składowaniem i unieszkodliwianiem odpadów, w tym współfinansowanie inwestycji ekologicznych o charakterze ponadgminnym,
-- **2)** inne zadania ustalone przez radę powiatu służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju.”.
+**Art. 30.** W ustawie z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz.U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 88, poz. 553, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 550, Nr 62, poz. 718 i Nr 109, poz. 1157 oraz z 2001 r. Nr 38, poz. 452, Nr 45, poz. 497, Nr 63, poz. 634, 73, poz. 764, Nr 76, poz. 811) art. 88j otrzymuje brzmienie: „Art. 88j. Środki powiatowych funduszy przeznacza się na wspomaganie działalności, o której mowa w art. 88 pkt 1-7a, oraz na: 1) realizację przedsięwzięć związanych ze składowaniem i unieszkodliwianiem odpadów, w tym współfinansowanie inwestycji ekologicznych o charakterze ponadgminnym, 2) inne zadania ustalone przez radę powiatu służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju.”.
 
 **Art. 31.** W ustawie z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielanych na usuwanie skutków powodzi (Dz.U. Nr 62, poz. 690) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustawa reguluje zasady stosowania dopłat do oprocentowania kredytów udzielanych przez banki na usuwanie skutków powodzi.
-
-2. Przepisy ustawy stosuje się odpowiednio do osuwisk ziemnych i huraganów.”;
-
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustawa reguluje zasady stosowania dopłat do oprocentowania kredytów udzielanych przez banki na usuwanie skutków powodzi. 2. Przepisy ustawy stosuje się odpowiednio do osuwisk ziemnych i huraganów.”;
 - **2)** w art. 2 w pkt 3 po wyrazach „takie jak:” dodaje się wyrazy „drogi wewnętrzne,”;
 - **3)** w art. 3:
     - **a)** w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „6) zakup lokalu mieszkalnego albo budynku mieszkalnego o podobnych parametrach, jeżeli remont lub odtworzenie lokalu mieszkalnego albo budynku mieszkalnego zniszczonego w wyniku powodzi jest niemożliwe albo nieuzasadnione ze względu na zagrożenie powodzią,”,
     - **b)** w ust. 2 po wyrazach „na budowę” dodaje się wyrazy „lub zakup”;
 
 - **4)** w art. 4 w ust. 1 w pkt 2:
-    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:”
-    - **b)** w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
+    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:” b) w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
 
-- **5)** w art. 5: 2 pkt 4, dopłatą może być objęte oprocentowanie części kredytu w kwocie odpowiadającej temu iloczynowi.”;
+- **5)** w art. 5:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) kwota kredytu nie przekracza odpowiednio ceny nabycia albo wartości kosztorysowej przedsięwzięcia, o którym mowa w art. 3 ust. 1 i 2.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli cena nabycia lokalu mieszkalnego albo budynku mieszkalnego, lub też wartość kosztorysowa remontu lub odtworzenia budynku mieszkalnego, przekracza iloczyn powierzchni użytkowej uszkodzonego lub zniszczonego lokalu lub budynku i ostatnio ustalonego przez wojewodę wskaźnika przeliczeniowego 1 m powierzchni użytkowej budynku mieszkalnego, o którym mowa w ustawie wymienionej w art.
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli cena nabycia lokalu mieszkalnego albo budynku mieszkalnego, lub też wartość kosztorysowa remontu lub odtworzenia budynku mieszkalnego, przekracza iloczyn powierzchni użytkowej uszkodzonego lub zniszczonego lokalu lub budynku i ostatnio ustalonego przez wojewodę wskaźnika przeliczeniowego 1 m powierzchni użytkowej budynku mieszkalnego, o którym mowa w ustawie wymienionej w art. 2 pkt 4, dopłatą może być objęte oprocentowanie części kredytu w kwocie odpowiadającej temu iloczynowi.”;
 
 - **6)** w art. 6 dodaje się ust. 5 w brzmieniu: „5. Przepis ust. 4 stosuje się odpowiednio w przypadku kredytu na zakup lokalu mieszkalnego albo budynku mieszkalnego, o którym mowa w art. 3 ust. 1 pkt 6.”.
 

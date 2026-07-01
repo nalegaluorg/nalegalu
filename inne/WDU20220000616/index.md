@@ -34,25 +34,10 @@ source: pdf
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W latach 2022 i 2023 minister właściwy do spraw transportu może udzielić podmiotom określonym w art. 2 ust. 1, wskazanym w programie, o którym mowa w ust. 7, dotacji celowej przeznaczonej na przygotowanie i realizację przedsięwzięć.”;
 
 - **2)** w art. 33:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym ustawy wynosi 960 mln zł, w tym w:
-
-- **1)** 2022 r. – do kwoty 536,6 mln zł;
-- **2)** 2023 r. – do kwoty 423,4 mln zł;
-- **3)** w latach 2024–2031 – 0 zł.
-
-2. Minister właściwy do spraw kultury fizycznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w:
-
-- **1)** 2022 r. – do kwoty 292 mln zł;
-- **2)** 2023 r. – do kwoty 318 mln zł.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w:
-
-- **1)** 2022 r. – do kwoty 244,6 mln zł;
-- **2)** 2023 r. – do kwoty 105,4 mln zł.”,
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym ustawy wynosi 960 mln zł, w tym w: 1) 2022 r. – do kwoty 536,6 mln zł; 2) 2023 r. – do kwoty 423,4 mln zł; 3) w latach 2024–2031 – 0 zł. 2. Minister właściwy do spraw kultury fizycznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w: 1) 2022 r. – do kwoty 292 mln zł; 2) 2023 r. – do kwoty 318 mln zł.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, w: 1) 2022 r. – do kwoty 244,6 mln zł; 2) 2023 r. – do kwoty 105,4 mln zł.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok maksymalnego limitu wydatków wprowadza się mechanizm korygujący polegający na ograniczeniu wydatków przeznaczonych na finansowanie lub dofinansowanie kosztów organizacji Igrzysk lub przygotowanie i realizację przedsięwzięć.”,
-    - **d)** dodaje się ust. 4 w brzmieniu: „4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest w zakresie wydatków, o których mowa w:
-
-- **1)** ust. 2 – minister właściwy do spraw kultury fizycznej;
-- **2)** ust. 2a – minister właściwy do spraw transportu.”.
+    - **d)** dodaje się ust. 4 w brzmieniu: „4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest w zakresie wydatków, o których mowa w: 1) ust. 2 – minister właściwy do spraw kultury fizycznej; 2) ust. 2a – minister właściwy do spraw transportu.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

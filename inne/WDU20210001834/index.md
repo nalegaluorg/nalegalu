@@ -66,9 +66,7 @@ source: pdf
 - **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. W przypadku małżonka Prezydenta Rzeczypospolitej Polskiej, o którym mowa w art. 4 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, za wypadek przy pracy uważa się również nagłe zdarzenie wywołane przyczyną zewnętrzną powodujące uraz lub śmierć, które nastąpiło w okresie ubezpieczenia wypadkowego.”;
 - **2)** w art. 5:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Ustalenia okoliczności i przyczyn wypadków przy pracy w stosunku do małżonka Prezydenta Rzeczypospolitej Polskiej, o którym mowa w art. 4 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, dokonuje w karcie wypadku Kancelaria Prezydenta Rzeczypospolitej Polskiej.”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. W sprawach zgłaszania i stwierdzania chorób zawodowych do ubezpieczonych wymienionych w art. 3 ust. 3 i art. 3a stosuje się odpowiednio przepisy Kodeksu pracy.
-
-4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb uznawania zdarzenia, o którym mowa w art. 3 ust. 3 i art. 3a, za wypadek przy pracy, kwalifikację prawną zdarzenia, wzór karty wypadku i termin jej sporządzania, biorąc pod uwagę konieczność zapewnienia jednolitości obowiązujących rozwiązań dotyczących ustalania okoliczności i przyczyn tych wypadków.”;
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. W sprawach zgłaszania i stwierdzania chorób zawodowych do ubezpieczonych wymienionych w art. 3 ust. 3 i art. 3a stosuje się odpowiednio przepisy Kodeksu pracy. 4. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, tryb uznawania zdarzenia, o którym mowa w art. 3 ust. 3 i art. 3a, za wypadek przy pracy, kwalifikację prawną zdarzenia, wzór karty wypadku i termin jej sporządzania, biorąc pod uwagę konieczność zapewnienia jednolitości obowiązujących rozwiązań dotyczących ustalania okoliczności i przyczyn tych wypadków.”;
 
 - **3)** po art. 27 dodaje się art. 27a w brzmieniu: „Art. 27a. Stopa procentowa składki na ubezpieczenie wypadkowe opłacana za małżonka Prezydenta Rzeczypospolitej Polskiej, o którym mowa w art. 4 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jest stała i wynosi 1%.”.
 
@@ -90,10 +88,7 @@ source: pdf
 
 **Art. 12.** W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2020 r. poz. 1319) wprowadza się następujące zmiany:
 
-- **1)** w art. 159 § 2 otrzymuje brzmienie: „§ 2. Osobom wchodzącym w skład Państwowej Komisji Wyborczej przysługuje wynagrodzenie miesięczne ustalane na podstawie kwoty bazowej przyjmowanej do ustalenia wynagrodzenia osób zajmujących kierownicze stanowiska państwowe, z zastosowaniem mnożników:
-- **1)** dla przewodniczącego – 4,9;
-- **2)** dla zastępcy przewodniczącego – 4,48;
-- **3)** dla członków Komisji – 4,2.”;
+- **1)** w art. 159 § 2 otrzymuje brzmienie: „§ 2. Osobom wchodzącym w skład Państwowej Komisji Wyborczej przysługuje wynagrodzenie miesięczne ustalane na podstawie kwoty bazowej przyjmowanej do ustalenia wynagrodzenia osób zajmujących kierownicze stanowiska państwowe, z zastosowaniem mnożników: 1) dla przewodniczącego – 4,9; 2) dla zastępcy przewodniczącego – 4,48; 3) dla członków Komisji – 4,2.”;
 - **2)** w art. 166 w § 6 zdanie pierwsze otrzymuje brzmienie: „Komisarzom wyborczym przysługuje wynagrodzenie miesięczne ustalane na podstawie kwoty bazowej przyjmowanej do ustalenia wynagrodzenia osób zajmujących kierownicze stanowiska państwowe z zastosowaniem mnożnika 3,45, z zastrzeżeniem § 10.”.
 
 **Art. 13.**

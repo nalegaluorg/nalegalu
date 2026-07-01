@@ -39,9 +39,7 @@ source: pdf
 **Art. 4.** W ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831 oraz z 2025 r. poz. 565) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 54;
-- **2)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 tracą moc z dniem 1 stycznia 2027 r.
-
-2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2027 r.”.
+- **2)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Przepisy art. 193 ust. 1c–1e ustawy zmienianej w art. 43 tracą moc z dniem 1 stycznia 2027 r. 2. Przepisy art. 226a ustawy zmienianej w art. 45 tracą moc z dniem 1 stycznia 2027 r.”.
 
 **Art. 5.**
 

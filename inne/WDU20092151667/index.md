@@ -35,9 +35,7 @@ source: pdf
     - **c)** w pkt 10 lit. b otrzymuje brzmienie: „b) pozostałych, niepodlegających obowiązkowi barwienia i znakowania na podstawie przepisów szczególnych – 64,00 zł/1 000 kilogramów;”,
     - **d)** w pkt 12 lit. a otrzymuje brzmienie: „a) gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych objętych pozycją CN 2711 oraz gazowych węglowodorów alifatycznych objętych pozycją CN 2901: - skroplonych – 695,00 zł/1 000 kilogramów, - w stanie gazowym – 11,04 zł/1 gigadżul (GJ),”,
     - **e)** pkt 13 otrzymuje brzmienie: „13) gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych objętych pozycją CN 2711, przeznaczonych do celów opałowych – 1,28 zł/1 gigadżul (GJ);”,
-    - **f)** pkt 15 otrzymuje brzmienie: „15) pozostałych paliw opałowych:
-    - **a)** w przypadku gdy ich gęstość w temperaturze 15 °C jest: - niższa niż 890 kilogramów/metr sześcienny – 232,00 zł/1 000 litrów, - równa lub wyższa niż 890 kilogramów/metr sześcienny – 64,00 zł/1 000 kilogramów,
-    - **b)** gazowych – 1,28 zł/gigadżul (GJ).”;
+    - **f)** pkt 15 otrzymuje brzmienie: „15) pozostałych paliw opałowych: a) w przypadku gdy ich gęstość w temperaturze 15 °C jest: - niższa niż 890 kilogramów/metr sześcienny – 232,00 zł/1 000 litrów, - równa lub wyższa niż 890 kilogramów/metr sześcienny – 64,00 zł/1 000 kilogramów, b) gazowych – 1,28 zł/gigadżul (GJ).”;
 
 - **2)** w art. 99 w ust. 2 pkt 1 otrzymuje brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 146,83 zł za każde 1 000 sztuk i 31,41 % maksymalnej ceny detalicznej;”.
 

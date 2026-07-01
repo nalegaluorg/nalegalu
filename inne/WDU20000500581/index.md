@@ -33,14 +33,7 @@ source: pdf
     - **a)** w ust. 2 wyrazy „Ministrem Finansów” zastępuje się wyrazami „ministrem właściwym do spraw finansów publicznych”,
     - **b)** w ust. 4 wyrazy „ministrowi właściwemu do spraw gospodarki przestrzennej i mieszkaniowej” zastępuje się wyrazami „Prezesowi Urzędu Mieszkalnictwa i Rozwoju Miast”;
 
-- **2)** art. 33a otrzymuje brzmienie: „Art. 33a. 1. Centralnym organem administracji rządowej właściwym w sprawach gospodarki przestrzennej i mieszkaniowej jest Prezes Urzędu Mieszkalnictwa i Rozwoju Miast.
-
-2. Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad działalnością Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.
-
-3. Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki przestrzennej i mieszkaniowej.
-
-4. Wiceprezesów Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej na wniosek Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.”;
-
+- **2)** art. 33a otrzymuje brzmienie: „Art. 33a. 1. Centralnym organem administracji rządowej właściwym w sprawach gospodarki przestrzennej i mieszkaniowej jest Prezes Urzędu Mieszkalnictwa i Rozwoju Miast. 2. Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad działalnością Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast. 3. Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki przestrzennej i mieszkaniowej. 4. Wiceprezesów Urzędu Mieszkalnictwa i Rozwoju Miast powołuje i odwołuje minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej na wniosek Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.”;
 - **3)** w art. 33b:
     - **a)** w pkt 5 wyraz „projektów” zastępuje się wyrazem „programów”,
     - **b)** w pkt 6 kropkę zastępuje się przecinkiem oraz dodaje się pkt 7 w brzmieniu: „7) wykonywanie przewidzianych przepisami szczególnymi zadań związanych z funkcjonowaniem pracowniczych ogrodów działkowych.”;

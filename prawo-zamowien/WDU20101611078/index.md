@@ -27,13 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101611078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1078/text.pdf) |
 
-**Art. 1.** stawie W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759) w art. 4 pkt 13 otrzymuje brzmienie: „13) zamówień udzielanych instytucji gospodarki budżetowej przez organ władzy publicznej wykonujący funkcje organu założycielskiego tej instytucji, jeżeli łącznie są spełnione następujące warunki:
-
-26 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).”.
-
-- **a)** zasadnicza cześć działalności instytucji gospodarki budżetowej dotyczy wykonywania zadań publicznych na rzecz tego organu władzy publicznej,
-- **b)** organ władzy publicznej sprawuje nad instytucją gospodarki budżetowej kontrolę odpowiadającą kontroli sprawowanej nad własnymi jednostkami nieposiadającymi osobowości prawnej, w szczególności polegającą na wpływie na decyzje strategiczne i indywidualne dotyczące zarządzania sprawami instytucji,
-- **c)** przedmiot zamówienia należy do zakresu działalności podstawowej instytucji gospodarki budżetowej określonego zgodnie z art.
+**Art. 1.** stawie W ustawie z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759) w art. 4 pkt 13 otrzymuje brzmienie: „13) zamówień udzielanych instytucji gospodarki budżetowej przez organ władzy publicznej wykonujący funkcje organu założycielskiego tej instytucji, jeżeli łącznie są spełnione następujące warunki: a) zasadnicza cześć działalności instytucji gospodarki budżetowej dotyczy wykonywania zadań publicznych na rzecz tego organu władzy publicznej, b) organ władzy publicznej sprawuje nad instytucją gospodarki budżetowej kontrolę odpowiadającą kontroli sprawowanej nad własnymi jednostkami nieposiadającymi osobowości prawnej, w szczególności polegającą na wpływie na decyzje strategiczne i indywidualne dotyczące zarządzania sprawami instytucji, c) przedmiot zamówienia należy do zakresu działalności podstawowej instytucji gospodarki budżetowej określonego zgodnie z art. 26 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).”.
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm. ) w art. 116 ust. 1 otrzymuje brzmienie: „1. Instytucja gospodarki budżetowej, o której mowa w art. 23 ustawy wymienionej w art. 1, może być utworzona poprzez przekształcenie istniejącego gospodarstwa pomocniczego państwowej jednostki budżetowej na zasadach określonych w przepisach wydanych na podstawie ust. 2.”.
 

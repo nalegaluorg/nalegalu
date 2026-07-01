@@ -29,11 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o zmianie ustawy o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. poz. 470 oraz z 2016 r. poz. 1605) w art. 2 w ust. 1 w:
 
-- **1)** pkt 1 lit. c i d otrzymują brzmienie: „c) w 2017 r. kwoty 8 000 000 zł,
-    - **d)** w 2018 r. kwoty 8 000 000 zł,”;
-
-- **2)** pkt 2 lit. c i d otrzymują brzmienie: „c) w 2017 r. kwoty 21 520 000 zł,
-    - **d)** w 2018 r. kwoty 21 520 000 zł,”.
+- **1)** pkt 1 lit. c i d otrzymują brzmienie: „c) w 2017 r. kwoty 8 000 000 zł, d) w 2018 r. kwoty 8 000 000 zł,”;
+- **2)** pkt 2 lit. c i d otrzymują brzmienie: „c) w 2017 r. kwoty 21 520 000 zł, d) w 2018 r. kwoty 21 520 000 zł,”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

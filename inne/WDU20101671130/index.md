@@ -30,18 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 66, z późn. zm. ) w art. 15:
 
 - **1)** uchyla się ust. 6;
-- **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki podwyższania emerytury, o których mowa w ust. 2 i 3, uwzględniając:
-- **1)** normy roczne:
-    - **a)** godzin wykonywania lotów w składzie personelu latającego na samolotach naddźwiękowych oraz innych samolotach lub śmigłowcach,
-    - **b)** godzin i dni pełnienia służby w składzie załóg okrętów podwodnych oraz załóg nawodnych wojskowych jednostek pływających,
-    - **c)** godzin przebywania pod wodą i w podwyższonym ciśnieniu dla żołnierzy w charakterze nurków i płetwonurków,
-    - **d)** służby w jednostce organizacyjnej przeznaczonej do fizycznego zwalczania terroryzmu,
-    - **e)** wykonywania czynności operacyjno-rozpoznawczych lub kierowania takimi czynnościami w służbie wywiadowczej za granicą,
-    - **f)** wykonywania zadań specjalnych lub kierowania działaniami specjalnymi w ramach służby w oddział ach specjalnych;
-
-- **2)** liczbę skoków spadochronowych w roku wykonanych przez żołnierzy w charakterze skoczków spadochronowych;
-- **3)** liczbę dni w roku, w których żołnierzy w charakterze saperów uczestniczyli w rozminowaniu i oczyszczaniu terenów z przedmiotów wybuchowych i niebezpiecznych albo brali udział w szkoleniach poligonowych z wykorzystaniem materiałów wybuchowych lub pracach minerskich z wykorzystaniem tych materiałów;
-- **4)** miesięczne okresy pełnienia służby na froncie w czasie wojny lub w strefie działań wojennych.”.
+- **2)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki podwyższania emerytury, o których mowa w ust. 2 i 3, uwzględniając: 1) normy roczne: a) godzin wykonywania lotów w składzie personelu latającego na samolotach naddźwiękowych oraz innych samolotach lub śmigłowcach, b) godzin i dni pełnienia służby w składzie załóg okrętów podwodnych oraz załóg nawodnych wojskowych jednostek pływających, c) godzin przebywania pod wodą i w podwyższonym ciśnieniu dla żołnierzy w charakterze nurków i płetwonurków, d) służby w jednostce organizacyjnej przeznaczonej do fizycznego zwalczania terroryzmu, e) wykonywania czynności operacyjno-rozpoznawczych lub kierowania takimi czynnościami w służbie wywiadowczej za granicą, f) wykonywania zadań specjalnych lub kierowania działaniami specjalnymi w ramach służby w oddział ach specjalnych; 2) liczbę skoków spadochronowych w roku wykonanych przez żołnierzy w charakterze skoczków spadochronowych; 3) liczbę dni w roku, w których żołnierzy w charakterze saperów uczestniczyli w rozminowaniu i oczyszczaniu terenów z przedmiotów wybuchowych i niebezpiecznych albo brali udział w szkoleniach poligonowych z wykorzystaniem materiałów wybuchowych lub pracach minerskich z wykorzystaniem tych materiałów; 4) miesięczne okresy pełnienia służby na froncie w czasie wojny lub w strefie działań wojennych.”.
 
 **Art. 2.** Żołnierzom zawodowym:
 

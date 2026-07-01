@@ -47,15 +47,7 @@ source: pdf
 **Art. 3.** W ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz.U. Nr 55, poz. 236) wprowadza się następujące zmiany:
 
 - **1)** w art. 11 dodaje się ust. 3 w brzmieniu: "3. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, warunki wynagradzania mediatorów z listy, o której mowa w ust. 1.";
-- **2)** dodaje się art. 11 w brzmieniu: "Art. 11 . 1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni.
-
-2. Wynagrodzenie należne mediatorowi oraz zwrot poniesionych kosztów przejazdu i zakwaterowania określa umowa zawarta przez mediatora ze stronami sporu zbiorowego.
-
-3. Wynagrodzenie mediatora nie może być niższe od ustalonego w drodze rozporządzenia, o którym mowa w art. 11 ust. 3.
-
-4. Koszty postępowania mediacyjnego, o których mowa w ust. 2, ponoszą strony sporu zbiorowego w równych częściach, chyba że uzgodnią inny ich podział.
-
-5. W razie udokumentowanego braku środków na pokrycie kosztów, o których mowa w ust. 2 i 4, na wniosek strony sporu zbiorowego Minister Pracy i Polityki Socjalnej pokrywa koszty mediacji, z tym że wynagrodzenie mediatora pokrywane jest do wysokości określonej w rozporządzeniu, o którym mowa w art. 11 ust. 3.".
+- **2)** dodaje się art. 11 w brzmieniu: "Art. 11 . 1. Mediatorom na czas prowadzenia mediacji przysługuje zwolnienie od pracy. Łączny wymiar tego zwolnienia w roku kalendarzowym nie może przekraczać 30 dni. 2. Wynagrodzenie należne mediatorowi oraz zwrot poniesionych kosztów przejazdu i zakwaterowania określa umowa zawarta przez mediatora ze stronami sporu zbiorowego. 3. Wynagrodzenie mediatora nie może być niższe od ustalonego w drodze rozporządzenia, o którym mowa w art. 11 ust. 3. 4. Koszty postępowania mediacyjnego, o których mowa w ust. 2, ponoszą strony sporu zbiorowego w równych częściach, chyba że uzgodnią inny ich podział. 5. W razie udokumentowanego braku środków na pokrycie kosztów, o których mowa w ust. 2 i 4, na wniosek strony sporu zbiorowego Minister Pracy i Polityki Socjalnej pokrywa koszty mediacji, z tym że wynagrodzenie mediatora pokrywane jest do wysokości określonej w rozporządzeniu, o którym mowa w art. 11 ust. 3.".
 
 **Art. 4.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz.U. z 1996 r. Nr 70, poz. 335, Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz.
 

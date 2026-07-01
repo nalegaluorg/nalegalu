@@ -30,18 +30,13 @@ source: pdf
 **Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935) wprowadza się następujące zmiany:
 
 - **1)** w art. 1:
-    - **a)** w ust. 1 pkt 2–5 otrzymują brzmienie: „2) szczegółowe warunki i tryb udzielania akredytacji;
+    - **a)** w ust. 1 pkt 2–5 otrzymują brzmienie: „2) szczegółowe warunki i tryb udzielania akredytacji; 3) zasady i tryb autoryzacji jednostek certyfikujących i kontrolujących oraz laboratoriów, a także sposób zgłaszania Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek i laboratoriów; 4) zadania Polskiego Centrum Akredytacji jako krajowej jednostki akredytującej w rozumieniu art. 2 pkt 11 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem (WE) nr 765/2008”;
 
-- **3)** zasady i tryb autoryzacji jednostek certyfikujących i kontrolujących oraz laboratoriów, a także sposób zgłaszania Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek i laboratoriów;
-- **4)** zadania Polskiego Centrum Akredytacji jako krajowej jednostki akredytującej w rozumieniu art. 2 pkt 11 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30), zwanego dalej „rozporządzeniem (WE) nr 765/2008”;
 - **5)** zasady działania systemu kontroli wyrobów zgodnie z ramami nadzoru rynku ustanowionymi w rozporządzeniu (WE) nr 765/2008.”,
     - **b)** uchyla się ust. 2a,
-    - **c)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Przepisów art. 7, art. 13 ust. 1 i 2, art. 40, art. 40b–40k, art. 41–41c i art. 45–47c nie stosuje się do wyrobów budowlanych w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz.
+    - **c)** w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Przepisów art. 7, art. 13 ust. 1 i 2, art. 40, art. 40b–40k, art. 41–41c i art. 45–47c nie stosuje się do wyrobów budowlanych w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz. 760).”;
 
-- **760)** .”;
-- **2)** art. 3a otrzymuje brzmienie: „Art. 3a. System kontroli wyrobów obejmuje:
-- **1)** kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań;
-- **2)** postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami.”;
+- **2)** art. 3a otrzymuje brzmienie: „Art. 3a. System kontroli wyrobów obejmuje: 1) kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań; 2) postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami.”;
 - **3)** w art. 5:
     - **a)** pkt 3 otrzymuje brzmienie: „3) oznakowaniu zgodności – należy przez to rozumieć oznakowanie potwierdzające zgodność wyrobu z zasadniczymi lub szczegółowymi wymaganiami;”,
     - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) jednostce oceniającej zgodność – należy przez to rozumieć jednostkę, o której mowa w art. 2 pkt 13 rozporządzenia (WE) nr 765/2008;”,
@@ -49,68 +44,26 @@ source: pdf
     - **d)** pkt 14 otrzymuje brzmienie: „14) normie zharmonizowanej – należy przez to rozumieć normę zharmonizowaną w rozumieniu art. 2 pkt 9 rozporządzenia (WE) nr 765/2008, której tytuł i numer zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej;”,
     - **e)** pkt 24 otrzymuje brzmienie: „24) innych wymaganiach – należy przez to rozumieć wymagania związane z wyrobem lub projektem wyrobu, określone w dyrektywach nowego podejścia lub w przepisach wydanych na podstawie art. 10 ust. 1 ustawy, inne niż zasadnicze lub szczegółowe wymagania.”;
 
-- **4)** w art. 7a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister właściwy ze względu na przedmiot oceny zgodności może upoważnić kompetentną jednostkę do wykonywania zadań dotyczących oceny zgodności, określonych w przepisach wydanych na podstawie art. 10 ust.
-
-1. ”;
-
+- **4)** w art. 7a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister właściwy ze względu na przedmiot oceny zgodności może upoważnić kompetentną jednostkę do wykonywania zadań dotyczących oceny zgodności, określonych w przepisach wydanych na podstawie art. 10 ust. 1.”;
 - **5)** art. 14 otrzymuje brzmienie: „Art. 14. Notyfikowane jednostki certyfikujące, notyfikowane jednostki kontrolujące oraz notyfikowane laboratoria, o których mowa w art. 7, dokonują oceny zgodności z uwzględnieniem przepisów o ochronie informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji prawnie chronionych.”;
-- **6)** art. 15 otrzymuje brzmienie: „Art. 15. 1. Akredytacja jest udzielana, z zastrzeżeniem art. 7 ust. 1 lit. b i c rozporządzenia (WE) nr 765/2008, przez Polskie Centrum Akredytacji, zwane dalej „Centrum Akredytacji”, na wniosek jednostki oceniającej zgodność.
-
-2. Wniosek, o którym mowa w ust. 1, zawiera co najmniej:
-
-- **1)** oznaczenie jednostki oceniającej zgodność ubiegającej się o akredytację, wskazanie jej siedziby i adresu;
-- **2)** numer w rejestrze właściwym dla jednostki oceniającej zgodność;
-- **3)** określenie zakresu akredytacji;
-- **4)** wykaz dokumentów opisujących system zarządzania w jednostce oceniającej zgodność.
-
-3. Do wniosku dołącza się oryginały dokumentów, o których mowa w ust. 2 pkt 4, albo kopie poświadczone przez osoby uprawnione do reprezentowania jednostki oceniającej zgodność.
-
-4. Wniosek składa się na piśmie lub za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm. ). Jednostka oceniająca zgodność może uzgodnić z Centrum Akredytacji inny sposób udostępnienia dokumentów, o których mowa w ust. 2 pkt 4.
-
-5. Wniosek złożony za pomocą środków komunikacji elektronicznej powinien być opatrzony bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu.
-
-6. Centrum Akredytacji, w terminie nie dłuższym niż 12 miesięcy od dnia złożenia wniosku o udzielenie akredytacji, jest obowiązane do zawiadomienia wnioskującej jednostki oceniającej zgodność o udzieleniu albo odmowie udzielenia akredytacji.
-
-7. Odmowa udzielenia akredytacji następuje po stwierdzeniu, że jednostka oceniająca zgodność nie spełnia wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008.”;
-
+- **6)** art. 15 otrzymuje brzmienie: „Art. 15. 1. Akredytacja jest udzielana, z zastrzeżeniem art. 7 ust. 1 lit. b i c rozporządzenia (WE) nr 765/2008, przez Polskie Centrum Akredytacji, zwane dalej „Centrum Akredytacji”, na wniosek jednostki oceniającej zgodność. 2. Wniosek, o którym mowa w ust. 1, zawiera co najmniej: 1) oznaczenie jednostki oceniającej zgodność ubiegającej się o akredytację, wskazanie jej siedziby i adresu; 2) numer w rejestrze właściwym dla jednostki oceniającej zgodność; 3) określenie zakresu akredytacji; 4) wykaz dokumentów opisujących system zarządzania w jednostce oceniającej zgodność. 3. Do wniosku dołącza się oryginały dokumentów, o których mowa w ust. 2 pkt 4, albo kopie poświadczone przez osoby uprawnione do reprezentowania jednostki oceniającej zgodność. 4. Wniosek składa się na piśmie lub za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. Nr 144, poz. 1204, z późn. zm. ). Jednostka oceniająca zgodność może uzgodnić z Centrum Akredytacji inny sposób udostępnienia dokumentów, o których mowa w ust. 2 pkt 4. 5. Wniosek złożony za pomocą środków komunikacji elektronicznej powinien być opatrzony bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu. 6. Centrum Akredytacji, w terminie nie dłuższym niż 12 miesięcy od dnia złożenia wniosku o udzielenie akredytacji, jest obowiązane do zawiadomienia wnioskującej jednostki oceniającej zgodność o udzieleniu albo odmowie udzielenia akredytacji. 7. Odmowa udzielenia akredytacji następuje po stwierdzeniu, że jednostka oceniająca zgodność nie spełnia wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008.”;
 - **7)** w art. 16:
     - **a)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) oznaczenie jednostki oceniającej zgodność, wskazanie jej siedziby i adresu;”, – pkt 4 otrzymuje brzmienie: „4) wskazanie normy zharmonizowanej lub dodatkowych wymagań, o których mowa w art. 2 pkt 10 rozporządzenia (WE) nr 765/2008;”,
-    - **b)** ust. 4–7 otrzymują brzmienie: „4. Ograniczenie zakresu akredytacji następuje, jeżeli akredytowana jednostka oceniająca zgodność nie spełnia warunków określonych w certyfikacie akredytacji.
-
-5. Zawieszenie akredytacji następuje, jeżeli akredytowana jednostka oceniająca zgodność nie spełnia wszystkich warunków określonych w certyfikacie akredytacji albo nie wywiązuje się z zobowiązań wynikających z akredytacji.
-
-6. Cofnięcie akredytacji następuje w przypadku nieusunięcia przez akredytowaną jednostkę oceniającą zgodność przyczyn będących podstawą zawieszenia akredytacji.
-
-7. Zawieszenie, cofnięcie lub ograniczenie zakresu akredytacji może nastąpić również na wniosek akredytowanej jednostki oceniającej zgodność.”;
+    - **b)** ust. 4–7 otrzymują brzmienie: „4. Ograniczenie zakresu akredytacji następuje, jeżeli akredytowana jednostka oceniająca zgodność nie spełnia warunków określonych w certyfikacie akredytacji. 5. Zawieszenie akredytacji następuje, jeżeli akredytowana jednostka oceniająca zgodność nie spełnia wszystkich warunków określonych w certyfikacie akredytacji albo nie wywiązuje się z zobowiązań wynikających z akredytacji. 6. Cofnięcie akredytacji następuje w przypadku nieusunięcia przez akredytowaną jednostkę oceniającą zgodność przyczyn będących podstawą zawieszenia akredytacji. 7. Zawieszenie, cofnięcie lub ograniczenie zakresu akredytacji może nastąpić również na wniosek akredytowanej jednostki oceniającej zgodność.”;
 
 - **8)** w art. 17 ust. 1 otrzymuje brzmienie: „1. W przypadku odmowy udzielenia, cofnięcia, zawieszenia lub ograniczenia zakresu akredytacji jednostce oceniającej zgodność przysługuje odwołanie.”;
 - **9)** w art. 18 ust. 2 otrzymuje brzmienie: „2. W przypadku, o którym mowa w ust. 1 pkt 2, jednostce oceniającej zgodność przysługuje skarga do sądu administracyjnego, za pośrednictwem Komitetu Odwoławczego, w terminie 30 dni od dnia doręczenia zawiadomienia o oddaleniu odwołania; w postępowaniu przed sądem stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych.”;
 - **10)** w art. 19:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria w celu uzyskania notyfikacji mogą ubiegać się o autoryzację w zakresie nieprzekraczającym zakresu posiadanej akredytacji, z zastrzeżeniem ust.
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria w celu uzyskania notyfikacji mogą ubiegać się o autoryzację w zakresie nieprzekraczającym zakresu posiadanej akredytacji, z zastrzeżeniem ust. 6.”,
+    - **b)** w ust. 2 uchyla się pkt 4;
 
-6. ”,
-
-- **b)** w ust. 2 uchyla się pkt 4;
 - **11)** w art. 20 uchyla się ust. 3;
 - **12)** art. 23 otrzymuje brzmienie: „Art. 23. Notyfikowane jednostki certyfikujące są obowiązane informować właściwego ministra lub kierownika urzędu centralnego o odmowie wydania, ograniczeniu zakresu, zawieszeniu lub cofnięciu certyfikatów zgodności.”;
 - **13)** w art. 25 dodaje się ust. 4 w brzmieniu: „4. Centrum Akredytacji jest uprawnione do używania wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej.”;
-- **14)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Do zakresu działania Centrum Akredytacji należy w szczególności:
-- **1)** akredytowanie jednostek oceniających zgodność;
-- **2)** sprawowanie nadzoru nad akredytowanymi jednostkami oceniającymi zgodność, w zakresie przestrzegania przez nie warunków akredytacji;
-- **3)** prowadzenie wykazu akredytowanych jednostek oceniających zgodność;
-- **4)** organizowanie szkoleń i prowadzenie działalności wydawniczej w zakresie akredytacji.
-
-2. Centrum Akredytacji może zawierać z zagranicznymi jednostkami akredytującymi porozumienia o wzajemnym uznawaniu kompetencji akredytowanych jednostek oceniających zgodność.”;
-
+- **14)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Do zakresu działania Centrum Akredytacji należy w szczególności: 1) akredytowanie jednostek oceniających zgodność; 2) sprawowanie nadzoru nad akredytowanymi jednostkami oceniającymi zgodność, w zakresie przestrzegania przez nie warunków akredytacji; 3) prowadzenie wykazu akredytowanych jednostek oceniających zgodność; 4) organizowanie szkoleń i prowadzenie działalności wydawniczej w zakresie akredytacji. 2. Centrum Akredytacji może zawierać z zagranicznymi jednostkami akredytującymi porozumienia o wzajemnym uznawaniu kompetencji akredytowanych jednostek oceniających zgodność.”;
 - **15)** w art. 27:
-    - **a)** w ust. 6: – pkt 4 i 5 otrzymują brzmienie: „4) sporządzanie projektu rocznego planu finansowego Centrum Akredytacji;
-
-- **5)** sporządzanie rocznego sprawozdania finansowego oraz sprawozdania z działalności Centrum Akredytacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki do dnia 31 marca roku następnego;”, – dodaje się pkt 6 w brzmieniu: „6) przekazywanie ministrowi właściwemu do spraw gospodarki aktualnej informacji o zakresie akredytacji udzielanej w związku z unijnym prawodawstwem harmonizacyjnym.”,
-    - **b)** dodaje się ust. 17–19 w brzmieniu: „17. Zastępcę Dyrektora Centrum powołuje, na wniosek Dyrektora, minister właściwy do spraw gospodarki, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw gospodarki odwołuje zastępcę Dyrektora Centrum.
-
-18. Zespół przeprowadzający nabór na stanowisko, o którym mowa w ust. 17, powołuje Dyrektor Centrum.
-
-19. Do przeprowadzania naboru na stanowisko, o którym mowa w ust. 17, stosuje się odpowiednio przepisy ust. 7–16.”;
+    - **a)** w ust. 6: – pkt 4 i 5 otrzymują brzmienie: „4) sporządzanie projektu rocznego planu finansowego Centrum Akredytacji; 5) sporządzanie rocznego sprawozdania finansowego oraz sprawozdania z działalności Centrum Akredytacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki do dnia 31 marca roku następnego;”, – dodaje się pkt 6 w brzmieniu: „6) przekazywanie ministrowi właściwemu do spraw gospodarki aktualnej informacji o zakresie akredytacji udzielanej w związku z unijnym prawodawstwem harmonizacyjnym.”,
+    - **b)** dodaje się ust. 17–19 w brzmieniu: „17. Zastępcę Dyrektora Centrum powołuje, na wniosek Dyrektora, minister właściwy do spraw gospodarki, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw gospodarki odwołuje zastępcę Dyrektora Centrum. 18. Zespół przeprowadzający nabór na stanowisko, o którym mowa w ust. 17, powołuje Dyrektor Centrum. 19. Do przeprowadzania naboru na stanowisko, o którym mowa w ust. 17, stosuje się odpowiednio przepisy ust. 7–16.”;
 
 - **16)** w art. 30 ust. 1 otrzymuje brzmienie: „1. Podstawą gospodarki finansowej Centrum Akredytacji jest roczny plan finansowy, którego projekt, po zatwierdzeniu przez ministra właściwego do spraw gospodarki, Dyrektor Centrum przekazuje ministrowi właściwemu do spraw finansów publicznych, w trybie i terminie określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.”;
 - **17)** art. 32 otrzymuje brzmienie: „Art. 32. Sprawozdanie finansowe i sprawozdanie z działalności Centrum Akredytacji zatwierdza minister właściwy do spraw gospodarki.”;
@@ -121,102 +74,42 @@ source: pdf
 - **19)** w art. 35 w ust. 2 pkt 3 otrzymuje brzmienie: „3) sprawozdań finansowych i sprawozdań z działalności Centrum Akredytacji oraz projektów rocznych planów finansowych.”;
 - **20)** w art. 36:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Przy Centrum Akredytacji działa Komitet Odwoławczy, liczący nie więcej niż 10 członków – ekspertów posiadających odpowiednią wiedzę i doświadczenie w zakresie akredytacji.”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw gospodarki, na wniosek ministrów i kierowników urzędów centralnych właściwych ze względu na przedmiot akredytacji, po zasięgnięciu opinii Centrum Akredytacji o zgłoszonych kandydatach, powołuje i odwołuje członków Komitetu Odwoławczego.
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw gospodarki, na wniosek ministrów i kierowników urzędów centralnych właściwych ze względu na przedmiot akredytacji, po zasięgnięciu opinii Centrum Akredytacji o zgłoszonych kandydatach, powołuje i odwołuje członków Komitetu Odwoławczego. 4. Organizację i tryb pracy Komitetu Odwoławczego określa regulamin uchwalony przez ten komitet.”;
 
-4. Organizację i tryb pracy Komitetu Odwoławczego określa regulamin uchwalony przez ten komitet.”;
-
-- **21)** w art. 37 w ust. 1 pkt 4 i 5 otrzymują brzmienie: „4) sprawdzaniem zgodności wyrobów z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące lub kompetentne jednostki upoważnione zgodnie z art. 7a ust. 2,
-- **5)** akredytacją jednostek oceniających zgodność”;
+- **21)** w art. 37 w ust. 1 pkt 4 i 5 otrzymują brzmienie: „4) sprawdzaniem zgodności wyrobów z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące lub kompetentne jednostki upoważnione zgodnie z art. 7a ust. 2, 5) akredytacją jednostek oceniających zgodność”;
 - **22)** w art. 38:
     - **a)** ust. 1 otrzymuje brzmienie: „1. System kontroli wyrobów tworzą organy wymienione w ust. 2 i 3, zwane dalej „organami wyspecjalizowanymi”, oraz organy celne.”,
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Kompetencje organów wyspecjalizowanych określają przepisy odrębne.”;
 
 - **23)** w art. 39:
-    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) współpraca z organami wyspecjalizowanymi oraz organami celnymi;”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach;
+    - **a)** w ust. 2: – pkt 1 otrzymuje brzmienie: „1) współpraca z organami wyspecjalizowanymi oraz organami celnymi;”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach; 6) sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.”,
+    - **b)** w ust. 3 pkt 3 i 4 otrzymują brzmienie: „3) niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w: a) art. 41c ust. 3, b) art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych, c) art. 19p ust. 4 i 5 ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych; 4) współpraca z Prezesem UOKiK i innymi organami wyspecjalizowanymi oraz organami celnymi;”,
+    - **c)** dodaje się ust. 5 i 6 w brzmieniu: „5. Organy wyspecjalizowane mogą podejmować współpracę z podmiotami, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 765/2008, w zakresie kontroli wyrobów, która obejmuje w szczególności wymianę doświadczeń, informacji i dokumentów oraz udział we wspólnych działaniach kontrolnych. 6. Na wniosek organów wyspecjalizowanych organy celne udostępniają dane dotyczące podmiotów dokonujących przywozu wyrobów z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy wyspecjalizowane kontroli oraz postępowań dotyczących spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań.”;
 
-- **6)** sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.”,
-    - **b)** w ust. 3 pkt 3 i 4 otrzymują brzmienie: „3) niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w:
-    - **a)** art. 41c ust. 3,
-    - **b)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych,
-    - **c)** art. 19p ust. 4 i 5 ustawy z dnia 28 października 2002 r. o przewozie drogowym towarów niebezpiecznych;
-
-- **4)** współpraca z Prezesem UOKiK i innymi organami wyspecjalizowanymi oraz organami celnymi;”,
-    - **c)** dodaje się ust. 5 i 6 w brzmieniu: „5. Organy wyspecjalizowane mogą podejmować współpracę z podmiotami, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 765/2008, w zakresie kontroli wyrobów, która obejmuje w szczególności wymianę doświadczeń, informacji i dokumentów oraz udział we wspólnych działaniach kontrolnych.
-
-6. Na wniosek organów wyspecjalizowanych organy celne udostępniają dane dotyczące podmiotów dokonujących przywozu wyrobów z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy wyspecjalizowane kontroli oraz postępowań dotyczących spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań.”;
-
-- **24)** w art. 39a: 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych;”,
-    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) informacje o:
-    - **a)** rodzaju i zakresie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami,
-    - **b)** środkach, jakie zastosowano w odniesieniu do wyrobu niezgodnego z zasadniczymi, szczegółowymi lub innymi wymaganiami,
-    - **c)** zagrożeniach, jakie może spowodować wyrób niezgodny z zasadniczymi lub szczegółowymi wymaganiami, wraz z określeniem tych zagrożeń.”,
-    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art.
+- **24)** w art. 39a:
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) informacje o: a) rodzaju i zakresie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami, b) środkach, jakie zastosowano w odniesieniu do wyrobu niezgodnego z zasadniczymi, szczegółowymi lub innymi wymaganiami, c) zagrożeniach, jakie może spowodować wyrób niezgodny z zasadniczymi lub szczegółowymi wymaganiami, wraz z określeniem tych zagrożeń.”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych;”,
     - **c)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) osoba wprowadzająca wyrób do obrotu lub oddająca go do użytku nie podejmie działań, o których mowa w pkt 1; wpis usuwa się nie wcześniej niż po upływie 12 miesięcy od dnia przeprowadzenia kontroli, o której mowa w art. 41c ust. 10.”;
 
 - **25)** w art. 40 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.”;
 - **26)** w art. 40e w ust. 2 pkt 6 otrzymuje brzmienie: „6) udostępnić dokumenty w celu sporządzenia kopii; zgodność kopii z oryginałem dokumentu potwierdza kontrolowany lub jego upoważniony pracownik.”;
-- **27)** art. 40h otrzymuje brzmienie: „Art. 40h. 1. W przypadku gdy osoba zobowiązana do przechowywania dokumentów związanych z oceną zgodności nie przedstawi tych dokumentów osobie kontrolującej lub z przedstawionych dokumentów nie wynika, że wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może poddać wyrób badaniom lub zlecić ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania.
-
-2. W celu stwierdzenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może również poddać wyrób badaniom z pominięciem weryfikowania dokumentów związanych z oceną zgodności.”;
-
+- **27)** art. 40h otrzymuje brzmienie: „Art. 40h. 1. W przypadku gdy osoba zobowiązana do przechowywania dokumentów związanych z oceną zgodności nie przedstawi tych dokumentów osobie kontrolującej lub z przedstawionych dokumentów nie wynika, że wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może poddać wyrób badaniom lub zlecić ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania. 2. W celu stwierdzenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może również poddać wyrób badaniom z pominięciem weryfikowania dokumentów związanych z oceną zgodności.”;
 - **28)** w artykule 40j:
     - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia, że wyrób nie spełnia zasadniczych lub szczegółowych wymagań, opłaty związane z badaniami ponosi osoba, która wprowadziła wyrób do obrotu lub oddała go do użytku.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. W przypadku stwierdzenia, że wyrób spełnia zasadnicze lub szczegółowe wymagania, opłaty związane z badaniami ponosi Skarb Państwa.”;
 
-- **29)** art. 40k otrzymuje brzmienie: „Art. 40k. 1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który ją przeprowadził, stwierdzi, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, może, w drodze decyzji, zakazać udostępniania wyrobu na okres nie dłuższy niż 2 miesiące.
-
-2. W przypadku stwierdzenia niezgodności z wymaganiami, niepowodujących poważnego zagrożenia, organ wyspecjalizowany może zwrócić się do właściwego producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora o usunięcie niezgodności lub wycofanie wyrobu z obrotu lub z użytku oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ wyspecjalizowany.
-
-3. W przypadku gdy działania, o których mowa w ust. 2, nie zostaną podjęte, protokół kontroli wraz z aktami kontroli przekazuje się organowi wyspecjalizowanemu właściwemu do wszczęcia postępowania, o którym mowa w art. 41.
-
-4. W przypadku wszczęcia postępowania, o którym mowa w art. 41, organ wyspecjalizowany prowadzący postępowanie może, w drodze decyzji, przedłużyć okres obowiązywania zakazu, o którym mowa w ust. 1, do czasu zakończenia postępowania.
-
-5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1.”;
-
+- **29)** art. 40k otrzymuje brzmienie: „Art. 40k. 1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który ją przeprowadził, stwierdzi, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, może, w drodze decyzji, zakazać udostępniania wyrobu na okres nie dłuższy niż 2 miesiące. 2. W przypadku stwierdzenia niezgodności z wymaganiami, niepowodujących poważnego zagrożenia, organ wyspecjalizowany może zwrócić się do właściwego producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora o usunięcie niezgodności lub wycofanie wyrobu z obrotu lub z użytku oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ wyspecjalizowany. 3. W przypadku gdy działania, o których mowa w ust. 2, nie zostaną podjęte, protokół kontroli wraz z aktami kontroli przekazuje się organowi wyspecjalizowanemu właściwemu do wszczęcia postępowania, o którym mowa w art. 41. 4. W przypadku wszczęcia postępowania, o którym mowa w art. 41, organ wyspecjalizowany prowadzący postępowanie może, w drodze decyzji, przedłużyć okres obowiązywania zakazu, o którym mowa w ust. 1, do czasu zakończenia postępowania. 5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1.”;
 - **30)** w art. 41a dodaje się ust. 4 w brzmieniu: „4. Dowodem z dokumentu w postępowaniu może być tylko oryginał dokumentu lub jego kopia poświadczona przez organ administracji publicznej, notariusza, adwokata, radcę prawnego, rzecznika patentowego, doradcę podatkowego lub upoważnionego pracownika przedsiębiorcy.”;
-- **31)** art. 41b otrzymuje brzmienie: „Art. 41b. 1. Organ prowadzący postępowanie może, w drodze postanowienia, wyznaczyć stronie postępowania termin na usunięcie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami albo wycofanie wyrobu z obrotu lub z użytku oraz powiadomienie konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach, określając termin i sposób powiadomienia.
-
-2. Organ prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 38 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych, szczegółowych lub innych wymagań zostało faktycznie usunięte albo wyrób został wycofany z obrotu lub z użytku. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.”;
-
+- **31)** art. 41b otrzymuje brzmienie: „Art. 41b. 1. Organ prowadzący postępowanie może, w drodze postanowienia, wyznaczyć stronie postępowania termin na usunięcie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami albo wycofanie wyrobu z obrotu lub z użytku oraz powiadomienie konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach, określając termin i sposób powiadomienia. 2. Organ prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 38 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych, szczegółowych lub innych wymagań zostało faktycznie usunięte albo wyrób został wycofany z obrotu lub z użytku. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.”;
 - **32)** w art. 41c:
-    - **a)** w ust. 3 pkt 2 i 3 otrzymują brzmienie: „2) zakazać udostępniania wyrobu;
+    - **a)** w ust. 3 pkt 2 i 3 otrzymują brzmienie: „2) zakazać udostępniania wyrobu; 3) ograniczyć udostępnianie wyrobu;”,
+    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. W przypadku stwierdzenia, że wyrób stwarza poważne zagrożenie, organ prowadzący postępowanie może, w decyzji, o której mowa w ust. 3 pkt 1, nakazać zniszczenie wyrobu na koszt strony postępowania, jeżeli zagrożenia nie można wyeliminować w inny sposób. 6. Środki, o których mowa w ust. 3–5, stosuje się w zależności od rodzaju stwierdzonej niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz stopnia zagrożenia powodowanego przez wyrób, mając na celu w szczególności odwrócenie grożącego niebezpieczeństwa lub usunięcie już istniejącego zagrożenia dla życia i zdrowia konsumentów lub użytkowników wyrobu, a także zagrożenia dla mienia lub środowiska.”,
+    - **c)** ust. 10 otrzymuje brzmienie: „10. W celu stwierdzenia, czy decyzja, o której mowa w ust. 3, została wykonana, organ prowadzący postępowanie może przeprowadzić kontrolę lub zlecić jej przeprowadzenie organowi, o którym mowa w art. 38 ust. 2. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.”;
 
-- **3)** ograniczyć udostępnianie wyrobu;”,
-    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. W przypadku stwierdzenia, że wyrób stwarza poważne zagrożenie, organ prowadzący postępowanie może, w decyzji, o której mowa w ust. 3 pkt 1, nakazać zniszczenie wyrobu na koszt strony postępowania, jeżeli zagrożenia nie można wyeliminować w inny sposób.
-
-6. Środki, o których mowa w ust. 3–5, stosuje się w zależności od rodzaju stwierdzonej niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz stopnia zagrożenia powodowanego przez wyrób, mając na celu w szczególności odwrócenie grożącego niebezpieczeństwa lub usunięcie już istniejącego zagrożenia dla życia i zdrowia konsumentów lub użytkowników wyrobu, a także zagrożenia dla mienia lub środowiska.”,
-
-- **c)** ust. 10 otrzymuje brzmienie: „10. W celu stwierdzenia, czy decyzja, o której mowa w ust. 3, została wykonana, organ prowadzący postępowanie może przeprowadzić kontrolę lub zlecić jej przeprowadzenie organowi, o którym mowa w art. 38 ust. 2. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.”;
 - **33)** uchyla się art. 42;
-- **34)** art. 43a otrzymuje brzmienie: „Art. 43a. 1. Zasady postępowania organów celnych w przypadku stwierdzenia podczas kontroli celnej wyrobów, które mają być dopuszczone do obrotu, istnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, określają przepisy odrębne.
-
-2. Opinię w sprawie spełniania przez wyrób zasadniczych, szczegółowych lub innych wymagań na wniosek organów celnych wydają organy wyspecjalizowane właściwe ze względu na siedzibę organu celnego występującego z wnioskiem.
-
-3. W razie stwierdzenia w opinii, o której mowa w ust. 2, że wyrób stwarza poważne zagrożenie, organ wyspecjalizowany, który wydał opinię, a w przypadku opinii wydanych przez organ wyspecjalizowany, o którym mowa w art. 38 ust. 2 pkt 2, okręgowy inspektor pracy, może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia (WE) nr 765/2008.
-
-4. Stroną postępowania w sprawie zniszczenia wyrobu jest importer.
-
-5. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie wyrobu, postępowanie, o którym mowa w ust. 3, umarza się.
-
-6. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia wyrobu.
-
-7. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer.
-
-8. O działaniach podjętych w odniesieniu do zatrzymanych wyrobów organy celne informują Prezesa UOKiK.
-
-9. Rada Ministrów określi, w drodze rozporządzenia:
-
-- **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów,
-- **2)** tryb wydawania i postępowania z opinią wydaną przez organ wyspecjalizowany,
-- **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i organów wyspecjalizowanych w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych, szczegółowych lub innych wymagań lub stwarzają poważne zagrożenie.”;
+- **34)** art. 43a otrzymuje brzmienie: „Art. 43a. 1. Zasady postępowania organów celnych w przypadku stwierdzenia podczas kontroli celnej wyrobów, które mają być dopuszczone do obrotu, istnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, określają przepisy odrębne. 2. Opinię w sprawie spełniania przez wyrób zasadniczych, szczegółowych lub innych wymagań na wniosek organów celnych wydają organy wyspecjalizowane właściwe ze względu na siedzibę organu celnego występującego z wnioskiem. 3. W razie stwierdzenia w opinii, o której mowa w ust. 2, że wyrób stwarza poważne zagrożenie, organ wyspecjalizowany, który wydał opinię, a w przypadku opinii wydanych przez organ wyspecjalizowany, o którym mowa w art. 38 ust. 2 pkt 2, okręgowy inspektor pracy, może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia (WE) nr 765/2008. 4. Stroną postępowania w sprawie zniszczenia wyrobu jest importer. 5. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie wyrobu, postępowanie, o którym mowa w ust. 3, umarza się. 6. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia wyrobu. 7. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer. 8. O działaniach podjętych w odniesieniu do zatrzymanych wyrobów organy celne informują Prezesa UOKiK. 9. Rada Ministrów określi, w drodze rozporządzenia: 1) szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów, 2) tryb wydawania i postępowania z opinią wydaną przez organ wyspecjalizowany, 3) szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym, 4) szczegółowy tryb postępowania organów celnych i organów wyspecjalizowanych w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają zasadniczych, szczegółowych lub innych wymagań lub stwarzają poważne zagrożenie.”;
 - **35)** po art. 43a dodaje się art. 43b w brzmieniu: „Art. 43b. W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz do postępowania, o którym mowa w art. 43a ust. 3–5, stosuje się przepisy Kodeksu postępowania administracyjnego.”;
-- **36)** art. 44 otrzymuje brzmienie: „Art. 44. 1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w:
-- **1)** art. 41c ust. 3 pkt 1–3 i ust. 5,
-- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
-
-2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm. ), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób.”;
-
+- **36)** art. 44 otrzymuje brzmienie: „Art. 44. 1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w: 1) art. 41c ust. 3 pkt 1–3 i ust. 5, 2) art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym. 2. W przypadku stwierdzenia przez organ wyspecjalizowany, że wyrób stwarza poważne zagrożenie, Prezes UOKiK przekazuje, na zasadach określonych w art. 29 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów (Dz. U. Nr 229, poz. 2275, z późn. zm. ), informacje określone w ust. 1 oraz informacje o działaniach podjętych z własnej inicjatywy przez producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora w celu wyeliminowania zagrożenia stwarzanego przez wyrób.”;
 - **37)** art. 46 otrzymuje brzmienie: „Art. 46. Kto umieszcza oznakowanie zgodności na wyrobie, który nie spełnia zasadniczych lub szczegółowych wymagań albo dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, podlega grzywnie.”;
 - **38)** po art. 47b dodaje się art. 47c w brzmieniu: „Art. 47c. Kto będąc obowiązanym do przechowywania próbki kontrolnej, niszczy ją, usuwa spod zabezpieczenia lub uniemożliwia zbadanie tej próbki, podlega grzywnie.”;
 - **39)** użyte w art. 38 ust. 2 i 3, art. 39 ust. 2 pkt 2 i 3 i ust. 3 pkt 1 i 2, art. 40 ust. 1, art. 40a, art. 40b ust. 2, art. 40l, art. 40m, art. 41 ust. 1, art. 41a ust. 1 oraz art. 41c ust. 2 pkt 1 i 2 i ust. 3, w różnej liczbie i przypadku, wyrazy „zasadnicze lub inne wymagania” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zasadnicze, szczegółowe lub inne wymagania”.
@@ -228,56 +121,22 @@ source: pdf
 - **1)** w art. 22a ust. 1 otrzymuje brzmienie: „1. Dowodem z dokumentu w postępowaniu może być tylko oryginał dokumentu lub jego kopia poświadczona przez organ administracji publicznej, notariusza, adwokata, radcę prawnego, rzecznika patentowego, doradcę podatkowego lub upoważnionego pracownika przedsiębiorcy.”;
 - **2)** w art. 31 w ust. 2 pkt 3 otrzymuje brzmienie: „3) wyrobach niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami; wyrób zostaje objęty systemem po wpisaniu go do rejestru wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, o którym mowa w przepisach o systemie oceny zgodności;”;
 - **3)** w art. 33:
-    - **a)** po ust. 2 dodaje się ust. 2a–2f w brzmieniu: „2a. W razie stwierdzenia w opinii, o której mowa w ust. 2, że produkt stwarza poważne zagrożenie, organ, o którym mowa w art. 16 ust. 1, może wszcząć postępowanie w sprawie zniszczenia produktu w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str.
-
-- **30)** .
-
-2b. Stroną postępowania w sprawie zniszczenia produktu jest importer.
-
-2c. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie produktu, postępowanie, o którym mowa w ust. 2a, umarza się.
-
-2d. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia produktu.
-
-2e. Koszty przechowywania produktu w okresie trwania postępowania w sprawie zniszczenia produktu i koszty jego zniszczenia ponosi importer.
-
-2f. Do postępowania, o którym mowa w ust. 2a–2c, stosuje się przepisy Kodeksu postępowania administracyjnego.”,
-
-- **b)** ust. 4 otrzymuje brzmienie: „4. Rada Ministrów określi, w drodze rozporządzenia:
-- **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu produktów,
-- **2)** tryb wydawania opinii przez organy, o których mowa w art. 16 ust. 1, oraz sposób postępowania z taką opinią,
-- **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących produktom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i organów, o których mowa w art. 16 ust. 1, w przypadku wszczęcia postępowania w sprawie zniszczenia produktu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej produktów, które nie spełniają wymagań bezpieczeństwa lub stwarzają poważne zagrożenie.”.
+    - **a)** po ust. 2 dodaje się ust. 2a–2f w brzmieniu: „2a. W razie stwierdzenia w opinii, o której mowa w ust. 2, że produkt stwarza poważne zagrożenie, organ, o którym mowa w art. 16 ust. 1, może wszcząć postępowanie w sprawie zniszczenia produktu w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30). 2b. Stroną postępowania w sprawie zniszczenia produktu jest importer. 2c. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie produktu, postępowanie, o którym mowa w ust. 2a, umarza się. 2d. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia produktu. 2e. Koszty przechowywania produktu w okresie trwania postępowania w sprawie zniszczenia produktu i koszty jego zniszczenia ponosi importer. 2f. Do postępowania, o którym mowa w ust. 2a–2c, stosuje się przepisy Kodeksu postępowania administracyjnego.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Rada Ministrów określi, w drodze rozporządzenia: 1) szczegółowy tryb postępowania organów celnych przy zatrzymywaniu produktów, 2) tryb wydawania opinii przez organy, o których mowa w art. 16 ust. 1, oraz sposób postępowania z taką opinią, 3) szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących produktom zatrzymanym przez organy celne lub w systemie teleinformatycznym, 4) szczegółowy tryb postępowania organów celnych i organów, o których mowa w art. 16 ust. 1, w przypadku wszczęcia postępowania w sprawie zniszczenia produktu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej produktów, które nie spełniają wymagań bezpieczeństwa lub stwarzają poważne zagrożenie.”.
 
 **Art. 4.** W ustawie z dnia 16 kwietnia 2004 r. o wyrobach budowlanych (Dz. U. Nr 92, poz. 881, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 114, poz. 760) w art. 16 ust. 3 otrzymuje brzmienie: „3. W kontroli prowadzonej przez właściwy organ, a dotyczącej wyrobów budowlanych, o których mowa w art. 5 ust. 1 pkt 1, może uczestniczyć pracownik Urzędu Ochrony Konkurencji i Konsumentów, upoważniony przez Prezesa UOKiK, za zgodą organu prowadzącego kontrolę, lub przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.”.
 
 **Art. 5.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 199 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prezes UKE, jako organ wyspecjalizowany w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, jest uprawniony do kontroli znajdujących się w obrocie lub oddanych do użytku wyrobów, o których mowa w:
-- **1)** rozporządzeniu Komisji (WE) nr 1275/2008 z dnia 17 grudnia 2008 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla zużycia energii przez elektryczne i elektroniczne urządzenia gospodarstwa domowego i urządzenia biurowe w trybie czuwania i wyłączenia (Dz. Urz. UE L 339 z 18.12.2008, str. 45);
-- **2)** rozporządzeniu Komisji (WE) nr 107/2009 z dnia 4 lutego 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla prostych set-top boksów (Dz. Urz. UE L 36 z 05.02.2009, str. 8);
-- **3)** rozporządzeniu Komisji (WE) nr 278/2009 z dnia 6 kwietnia 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu w zakresie zużycia energii elektrycznej przez zasilacze zewnętrzne w stanie bez obciążenia oraz ich średniej sprawności podczas pracy (Dz. Urz. UE L 93 z 07.04.2009, str. 3);
-- **4)** rozporządzeniu Komisji (WE) nr 642/2009 z dnia 22 lipca 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla telewizorów (Dz. Urz. UE L 191 z 23.07.2009, str. 42).”;
+- **1)** w art. 199 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Prezes UKE, jako organ wyspecjalizowany w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, jest uprawniony do kontroli znajdujących się w obrocie lub oddanych do użytku wyrobów, o których mowa w: 1) rozporządzeniu Komisji (WE) nr 1275/2008 z dnia 17 grudnia 2008 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla zużycia energii przez elektryczne i elektroniczne urządzenia gospodarstwa domowego i urządzenia biurowe w trybie czuwania i wyłączenia (Dz. Urz. UE L 339 z 18.12.2008, str. 45); 2) rozporządzeniu Komisji (WE) nr 107/2009 z dnia 4 lutego 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla prostych set-top boksów (Dz. Urz. UE L 36 z 05.02.2009, str. 8); 3) rozporządzeniu Komisji (WE) nr 278/2009 z dnia 6 kwietnia 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu w zakresie zużycia energii elektrycznej przez zasilacze zewnętrzne w stanie bez obciążenia oraz ich średniej sprawności podczas pracy (Dz. Urz. UE L 93 z 07.04.2009, str. 3); 4) rozporządzeniu Komisji (WE) nr 642/2009 z dnia 22 lipca 2009 r. w sprawie wykonania dyrektywy 2005/32/WE Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących ekoprojektu dla telewizorów (Dz. Urz. UE L 191 z 23.07.2009, str. 42).”;
 - **2)** w art. 200:
     - **a)** w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) nieodpłatnego pobierania próbek wprowadzonych do obrotu lub oddanych do użytku wyrobów, o których mowa w art. 199 ust. 1a, oraz zatrzymania próbek do czasu prawomocnego zakończenia postępowania;”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Do pobierania i badania próbek aparatury w zakresie spełniania przez nią zasadniczych wymagań oraz do pobierania i badania próbek wyrobów, o których mowa w art. 199 ust. 1a, stosuje się odpowiednio przepisy art. 27–31 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2009 r. Nr 151, poz. 1219, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 63, poz. 322).”.
 
 **Art. 6.** W ustawie z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679) w art. 68 wprowadza się następujące zmiany:
 
-- **1)** po ust. 4 dodaje się ust. 4a–4e w brzmieniu: „4a. W razie stwierdzenia w opinii, o której mowa w ust. 4, że wyrób stwarza poważne zagrożenie, Prezes Urzędu może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30).
-
-4b. Stroną postępowania w sprawie zniszczenia wyrobu jest importer.
-
-4c. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie wyrobu, postępowanie, o którym mowa w ust. 4a, umarza się.
-
-4d. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia wyrobu.
-
-4e. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer.”;
-
-- **2)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
-- **1)** szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów,
-- **2)** tryb wydawania opinii przez Prezesa Urzędu oraz sposób postępowania z taką opinią,
-- **3)** szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym,
-- **4)** szczegółowy tryb postępowania organów celnych i Prezesa Urzędu w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają określonych dla nich wymagań lub stwarzają poważne zagrożenie.”.
+- **1)** po ust. 4 dodaje się ust. 4a–4e w brzmieniu: „4a. W razie stwierdzenia w opinii, o której mowa w ust. 4, że wyrób stwarza poważne zagrożenie, Prezes Urzędu może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i nadzoru rynku odnoszące się do warunków wprowadzania produktów do obrotu i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z 13.08.2008, str. 30). 4b. Stroną postępowania w sprawie zniszczenia wyrobu jest importer. 4c. W przypadku gdy na wniosek importera organ celny wyda pozwolenie na zniszczenie wyrobu, postępowanie, o którym mowa w ust. 4a, umarza się. 4d. Organ celny nadaje przeznaczenie celne zgodnie z treścią decyzji kończącej postępowanie w sprawie zniszczenia wyrobu. 4e. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer.”;
+- **2)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia: 1) szczegółowy tryb postępowania organów celnych przy zatrzymywaniu wyrobów, 2) tryb wydawania opinii przez Prezesa Urzędu oraz sposób postępowania z taką opinią, 3) szczegółowy sposób umieszczania przez organy celne adnotacji na dokumentach towarzyszących wyrobom zatrzymanym przez organy celne lub w systemie teleinformatycznym, 4) szczegółowy tryb postępowania organów celnych i Prezesa Urzędu w przypadku wszczęcia postępowania w sprawie zniszczenia wyrobu – mając na uwadze konieczność zapobiegania przywozowi na terytorium Rzeczypospolitej Polskiej wyrobów, które nie spełniają określonych dla nich wymagań lub stwarzają poważne zagrożenie.”.
 
 **Art. 7.**
 

@@ -38,9 +38,7 @@ o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz ustawy o
 - **2)** w art. 10 w ust. 1:
     - **a)** w pkt 2 w lit. c uchyla się tiret czwarte,
     - **b)** uchyla się pkt 2a,
-    - **c)** pkt 3 otrzymuje brzmienie: „3) przekazywania do dyrektora oddziału terenowego Agencji, właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, w terminie do 25. dnia każdego miesiąca, za poprzedni miesiąc:
-    - **a)** informacji, o których mowa w pkt 2 lit. c tiret pierwsze–tiret trzecie,
-    - **b)** zbiorczych zestawień, które zawierają dane o łącznej ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu, dostarczonego przez poszczególnych dostawców hurtowych od początku danego roku kwotowego w ilości przekraczającej kwoty indywidualne przysługujące na dany dzień roku;”,
+    - **c)** pkt 3 otrzymuje brzmienie: „3) przekazywania do dyrektora oddziału terenowego Agencji, właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, w terminie do 25. dnia każdego miesiąca, za poprzedni miesiąc: a) informacji, o których mowa w pkt 2 lit. c tiret pierwsze–tiret trzecie, b) zbiorczych zestawień, które zawierają dane o łącznej ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu, dostarczonego przez poszczególnych dostawców hurtowych od początku danego roku kwotowego w ilości przekraczającej kwoty indywidualne przysługujące na dany dzień roku;”,
     - **d)** w pkt 4 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu dostarczonego podmiotowi skupującemu przez dostawcę hurtowego od początku danego roku kwotowego w ilości przekraczającej kwotę indywidualną przysługującą na dany dzień roku;”,
     - **e)** w pkt 5 w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d,
     - **f)** w pkt 6 w lit. c przecinek zastępuje się kropką i uchyla się lit. d;
@@ -48,21 +46,7 @@ o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz ustawy o
 - **3)** w art. 22 uchyla się ust. 9;
 - **4)** w art. 33 uchyla się ust. 2–7;
 - **5)** uchyla się art. 34;
-- **6)** art. 36 otrzymuje brzmienie: „Art. 36. 1. W odniesieniu do dostawców hurtowych, właściwi miejscowo dyrektorzy oddziałów terenowych Agencji do dnia 15 września, na podstawie informacji, o których mowa w art. 10 ust. 1 pkt 5:
-- **1)** dokonują rozliczenia wykorzystania kwot indywidualnych przysługujących na dany dzień roku, według stanu na ostatni dzień roku kwotowego;
-- **2)** ustalają, w drodze decyzji, po uwzględnieniu krajowego współczynnika realokacji, o którym mowa w art. 35 ust. 1 pkt 1, wysokość należnych opłat;
-- **3)** przesyłają do podmiotów skupujących, także w wersji elektronicznej, zbiorcze informacje o wysokości należnych opłat.
-
-2. Dostawca hurtowy, w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika, jest obowiązany do wniesienia podmiotowi skupującemu opłaty ustalonej w decyzji, o której mowa w ust. 1 pkt 2.
-
-3. Opłatę, o której mowa w ust. 2, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika.
-
-4. Jeżeli dostawca hurtowy nie przekazał podmiotowi skupującemu w całości opłaty, o której mowa w ust. 1 pkt 2, podmiot skupujący może rozłożyć opłatę na raty.
-
-5. Decyzja, o której mowa w ust. 1 pkt 2, podlega natychmiastowemu wykonaniu.
-
-6. Upoważnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązku wynikającego z decyzji, o której mowa w ust. 1 pkt 2, jest podmiot skupujący wskazany w tej decyzji.”;
-
+- **6)** art. 36 otrzymuje brzmienie: „Art. 36. 1. W odniesieniu do dostawców hurtowych, właściwi miejscowo dyrektorzy oddziałów terenowych Agencji do dnia 15 września, na podstawie informacji, o których mowa w art. 10 ust. 1 pkt 5: 1) dokonują rozliczenia wykorzystania kwot indywidualnych przysługujących na dany dzień roku, według stanu na ostatni dzień roku kwotowego; 2) ustalają, w drodze decyzji, po uwzględnieniu krajowego współczynnika realokacji, o którym mowa w art. 35 ust. 1 pkt 1, wysokość należnych opłat; 3) przesyłają do podmiotów skupujących, także w wersji elektronicznej, zbiorcze informacje o wysokości należnych opłat. 2. Dostawca hurtowy, w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika, jest obowiązany do wniesienia podmiotowi skupującemu opłaty ustalonej w decyzji, o której mowa w ust. 1 pkt 2. 3. Opłatę, o której mowa w ust. 2, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika. 4. Jeżeli dostawca hurtowy nie przekazał podmiotowi skupującemu w całości opłaty, o której mowa w ust. 1 pkt 2, podmiot skupujący może rozłożyć opłatę na raty. 5. Decyzja, o której mowa w ust. 1 pkt 2, podlega natychmiastowemu wykonaniu. 6. Upoważnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązku wynikającego z decyzji, o której mowa w ust. 1 pkt 2, jest podmiot skupujący wskazany w tej decyzji.”;
 - **7)** art. 38 otrzymuje brzmienie: „Art. 38. Od decyzji, o których mowa w art. 36 ust. 1 pkt 2 i art. 37 ust. 1, przysługuje odwołanie do Prezesa Agencji.”;
 - **8)** w art. 40 ust. 1 otrzymuje brzmienie: „1. W sprawach nieuregulowanych w ustawie do opłat stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty, z zastrzeżeniem art. 15 ust. 2 rozporządzenia, o którym mowa w pkt 1 załącznika.”;
 - **9)** art. 41 otrzymuje brzmienie: „Art. 41. Wpływy z tytułu opłat, o których mowa w art. 36 ust. 1 pkt 2 i art. 37 ust. 1, Agencja przekazuje niezwłocznie na rachunek dochodów budżetu państwa.”.

@@ -34,9 +34,7 @@ source: pdf
 - **3)** w art. 17b uchyla się ust. 6;
 - **4)** w art. 31:
     - **a)** w ust. 1 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 2, 2a i 3”,
-    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wnioski o nadanie orderów i odznaczeń wojskowych przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych nie później niż przez 2 lata od zakończenia działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, w czasie których zaistniały przesłanki do nadania orderu lub odznaczenia.
-
-2b. Przepis ust. 2a nie ma zastosowania do wniosków o nadanie odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”.”.
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wnioski o nadanie orderów i odznaczeń wojskowych przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych nie później niż przez 2 lata od zakończenia działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, w czasie których zaistniały przesłanki do nadania orderu lub odznaczenia. 2b. Przepis ust. 2a nie ma zastosowania do wniosków o nadanie odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”.”.
 
 **Art. 2.**
 

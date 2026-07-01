@@ -33,13 +33,10 @@ source: pdf
 - **2)** w art. 5 w ust. 3 w pkt 5 wyrazy „Ministrów: Obrony Narodowej, Spraw Wewnętrznych i Administracji oraz Spraw Zagranicznych” zastępuje się wyrazami „Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz ministra właściwego do spraw zagranicznych”;
 - **3)** użyte w art. 17 w ust. 3 i w art. 29 w ust. 3 wyrazy „Ministrowie: Obrony Narodowej, Spraw Wewnętrznych i Administracji, Spraw Zagranicznych” zastępuje się wyrazami „Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, minister właściwy do spraw zagranicznych”;
 - **4)** w art. 18:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Naczelnego Dyrektora Archiwów Państwowych powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Naczelnego Dyrektora Archiwów Państwowych powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. 3. Zastępców Naczelnego Dyrektora Archiwów Pań stwowych powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na wniosek Naczelnego Dyrektora Archiwów Państwowych.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Nadzór nad Naczelnym Dyrektorem Archiwów Państwowych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”;
 
-3. Zastępców Naczelnego Dyrektora Archiwów Pań stwowych powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego na wniosek Naczelnego Dyrektora Archiwów Państwowych.”,
-
-- **b)** dodaje się ust. 4 w brzmieniu: „4. Nadzór nad Naczelnym Dyrektorem Archiwów Państwowych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”;
-- **5)** w art. 19 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych i minister właściwy do spraw zagranicznych,
-- **2)** Szefowie: Kancelarii Sejmu, Kancelarii Senatu i Kancelarii Prezydenta.”;
+- **5)** w art. 19 w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych i minister właściwy do spraw zagranicznych, 2) Szefowie: Kancelarii Sejmu, Kancelarii Senatu i Kancelarii Prezydenta.”;
 - **6)** w art. 21 w ust. 4 w pkt 2 wyrazy „Ministrów: Obrony Narodowej, Spraw Wewnętrznych i Spraw Zagranicznych” zastępuje się wyrazami „Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych i ministra właściwego do spraw zagranicznych”;
 - **7)** w art. 22 w ust. 1 skreśla się pkt 4;
 - **8)** w art. 31:

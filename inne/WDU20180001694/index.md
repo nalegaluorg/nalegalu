@@ -33,33 +33,14 @@ source: pdf
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) Dyrektor Urzędu Żeglugi Śródlądowej w Bydgoszczy, Dyrektor Urzędu Żeglugi Śródlądowej we Wrocławiu oraz Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie, zwani dalej „dyrektorami urzędów żeglugi śródlądowej” – jako terenowe organy administracji żeglugi śródlądowej.”,
     - **b)** uchyla się ust. 3;
 
-- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Dyrektora urzędu żeglugi śródlądowej powołuje i odwołuje minister właściwy do spraw żeglugi śródlądowej spośród kandydatów posiadających wiedzę i doświadczenie w zakresie żeglugi śródlądowej lub prowadzenia inwestycji na śródlądowych drogach wodnych.
-
-2. Dyrektora delegatury urzędu żeglugi śródlądowej powołuje i odwołuje minister właściwy do spraw żeglugi śródlądowej, na wniosek właściwego dyrektora urzędu żeglugi śródlądowej, spośród kandydatów posiadających wiedzę i doświadczenie w zakresie żeglugi śródlądowej.”;
-
+- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Dyrektora urzędu żeglugi śródlądowej powołuje i odwołuje minister właściwy do spraw żeglugi śródlądowej spośród kandydatów posiadających wiedzę i doświadczenie w zakresie żeglugi śródlądowej lub prowadzenia inwestycji na śródlądowych drogach wodnych. 2. Dyrektora delegatury urzędu żeglugi śródlądowej powołuje i odwołuje minister właściwy do spraw żeglugi śródlądowej, na wniosek właściwego dyrektora urzędu żeglugi śródlądowej, spośród kandydatów posiadających wiedzę i doświadczenie w zakresie żeglugi śródlądowej.”;
 - **3)** w art. 8:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Dyrektor Urzędu Żeglugi Śródlądowej w Bydgoszczy wykonuje zadania przy pomocy Urzędu Żeglugi Śródlądowej w Bydgoszczy i delegatur urzędów żeglugi śródlądowej w Gdańsku, Giżycku oraz Warszawie.”,
-    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Dyrektor Urzędu Żeglugi Śródlądowej we Wrocławiu wykonuje zadania przy pomocy Urzędu Żeglugi Śródlądowej we Wrocławiu i delegatur urzędów żeglugi śródlądowej w Kędzierzynie-Koźlu oraz Krakowie.
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Dyrektor Urzędu Żeglugi Śródlądowej we Wrocławiu wykonuje zadania przy pomocy Urzędu Żeglugi Śródlądowej we Wrocławiu i delegatur urzędów żeglugi śródlądowej w Kędzierzynie-Koźlu oraz Krakowie. 1b. Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie wykonuje zadania przy pomocy Urzędu Żeglugi Śródlądowej w Szczecinie. 1c. Delegaturą urzędu żeglugi śródlądowej kieruje dyrektor delegatury.”,
+    - **c)** uchyla się ust. 2,
+    - **d)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia: 1) terytorialny zakres działania dyrektorów urzędów żeglugi śródlądowej i siedziby urzędów żeglugi śródlądowej, kierując się kryteriami ekonomicznymi i intensywnością ruchu żeglugowego; 2) siedziby oraz właściwość miejscową delegatur urzędów żeglugi śródlądowej w sprawach z zakresu działania dyrektorów urzędów żeglugi śródlądowej, uwzględniając liczbę spraw występujących na danym terenie. 4. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze zarządzenia, statut urzędu żeglugi śródlądowej oraz delegatur urzędów żeglugi śródlądowej określający organizację tego urzędu oraz jego delegatur.”,
+    - **e)** dodaje się ust. 5–7 w brzmieniu: „5. Dyrektor urzędu żeglugi śródlądowej może przejąć lub przekazać do załatwienia delegaturze urzędu żeglugi śródlądowej sprawę należącą do właściwości innej delegatury tego urzędu żeglugi śródlądowej albo przekazać do załatwienia wskazanej delegaturze urzędu żeglugi śródlądowej sprawę należącą do swojej właściwości. 6. Decyzje i postanowienia w sprawach z zakresu właściwości delegatury urzędu żeglugi śródlądowej oraz w sprawach przekazanych do załatwienia przez właściwego dyrektora urzędu żeglugi śródlądowej na podstawie ust. 5 dyrektor delegatury urzędu żeglugi śródlądowej wydaje w imieniu właściwego dyrektora urzędu żeglugi śródlądowej. 7. W zakresie swojej właściwości miejscowej dyrektorzy delegatur Urzędu Żeglugi Śródlądowej w Bydgoszczy oraz dyrektorzy delegatur Urzędu Żeglugi Śródlądowej we Wrocławiu wykonują zadania związane z uprawnieniami i obowiązkami, załatwiają sprawy oraz wykonują czynności należące odpowiednio do Dyrektora Urzędu Żeglugi Śródlądowej w Bydgoszczy albo Dyrektora Urzędu Żeglugi Śródlądowej we Wrocławiu, z wyłączeniem uprawnień, obowiązków, spraw i czynności, o których mowa w: 1) art. 9 ust. 2 pkt 2a, art. 10a, art. 14, art. 26a ust. 1 i 2, art. 34d ust. 1 i 2, art. 34j ust. 1 i 5 oraz art. 43 ust. 4a, 4b pkt 1 i ust. 6; 2) art. 237 ust. 3 pkt 2, art. 357 oraz art. 401 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479 i 1669).”;
 
-1b. Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie wykonuje zadania przy pomocy Urzędu Żeglugi Śródlądowej w Szczecinie.
-
-1c. Delegaturą urzędu żeglugi śródlądowej kieruje dyrektor delegatury.”,
-
-- **c)** uchyla się ust. 2,
-- **d)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze rozporządzenia:
-- **1)** terytorialny zakres działania dyrektorów urzędów żeglugi śródlądowej i siedziby urzędów żeglugi śródlądowej, kierując się kryteriami ekonomicznymi i intensywnością ruchu żeglugowego;
-- **2)** siedziby oraz właściwość miejscową delegatur urzędów żeglugi śródlądowej w sprawach z zakresu działania dyrektorów urzędów żeglugi śródlądowej, uwzględniając liczbę spraw występujących na danym terenie.
-
-4. Minister właściwy do spraw żeglugi śródlądowej określi, w drodze zarządzenia, statut urzędu żeglugi śródlądowej oraz delegatur urzędów żeglugi śródlądowej określający organizację tego urzędu oraz jego delegatur.”,
-
-- **e)** dodaje się ust. 5–7 w brzmieniu: „5. Dyrektor urzędu żeglugi śródlądowej może przejąć lub przekazać do załatwienia delegaturze urzędu żeglugi śródlądowej sprawę należącą do właściwości innej delegatury tego urzędu żeglugi śródlądowej albo przekazać do załatwienia wskazanej delegaturze urzędu żeglugi śródlądowej sprawę należącą do swojej właściwości.
-
-6. Decyzje i postanowienia w sprawach z zakresu właściwości delegatury urzędu żeglugi śródlądowej oraz w sprawach przekazanych do załatwienia przez właściwego dyrektora urzędu żeglugi śródlądowej na podstawie ust. 5 dyrektor delegatury urzędu żeglugi śródlądowej wydaje w imieniu właściwego dyrektora urzędu żeglugi śródlądowej.
-
-7. W zakresie swojej właściwości miejscowej dyrektorzy delegatur Urzędu Żeglugi Śródlądowej w Bydgoszczy oraz dyrektorzy delegatur Urzędu Żeglugi Śródlądowej we Wrocławiu wykonują zadania związane z uprawnieniami i obowiązkami, załatwiają sprawy oraz wykonują czynności należące odpowiednio do Dyrektora Urzędu Żeglugi Śródlądowej w Bydgoszczy albo Dyrektora Urzędu Żeglugi Śródlądowej we Wrocławiu, z wyłączeniem uprawnień, obowiązków, spraw i czynności, o których mowa w:
-
-- **1)** art. 9 ust. 2 pkt 2a, art. 10a, art. 14, art. 26a ust. 1 i 2, art. 34d ust. 1 i 2, art. 34j ust. 1 i 5 oraz art. 43 ust. 4a, 4b pkt 1 i ust. 6;
-- **2)** art. 237 ust. 3 pkt 2, art. 357 oraz art. 401 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180 oraz z 2018 r. poz. 650, 710, 1479 i 1669).”;
 - **4)** w art. 9:
     - **a)** w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) przeprowadzanie pomiaru statku i inspekcji technicznej statku;”,
     - **b)** uchyla się ust. 2a i 2b,

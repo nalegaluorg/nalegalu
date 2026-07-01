@@ -29,53 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261 oraz z 2026 r. poz. 316) wprowadza się następujące zmiany:
 
-- **1)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia.
-
-2. Przepisu ust. 1 nie stosuje się do zakładania:
-
-- **1)** stowarzyszeń, w których co najmniej jeden z założycieli jest cudzoziemcem;
-- **2)** stowarzyszeń międzynarodowych;
-- **3)** stowarzyszeń jednostek samorządu terytorialnego;
-- **4)** związków stowarzyszeń;
-- **5)** stowarzyszeń, których działalność wymaga zezwolenia, o którym mowa w art. 44 ust. 2, lub uzgodnienia, o którym mowa w art. 45.
-
-3. Statut stowarzyszenia uchwalony w sposób, o którym mowa w ust. 1, nie może przewidywać przynależności stowarzyszenia do organizacji międzynarodowych ani tworzenia przez stowarzyszenie terenowych jednostek organizacyjnych.
-
-4. Do stowarzyszenia, którego statut został uchwalony przy wykorzystaniu wzorca statutu i nie był zmieniony w inny sposób niż przy wykorzystaniu wzorca uchwały zmieniającej statut, nie mogą wstępować cudzoziemcy.
-
-5. Uchwalenie statutu stowarzyszenia oraz wybór władz stowarzyszenia przy wykorzystaniu wzorców wymaga wypełnienia wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia udostępnionych w systemie teleinformatycznym, o którym mowa w art. 3a ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, z późn. zm. ), i opatrzenia ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi osób, o których mowa w ust. 1.
-
-6. W stowarzyszeniu, którego statut został uchwalony przy wykorzystaniu wzorca statutu i nie był zmieniony w inny sposób niż przy wykorzystaniu wzorca uchwały zmieniającej statut, uchwały walnego zebrania członków, zarządu lub organu kontroli wewnętrznej:
-
-- **1)** o zmianie statutu stowarzyszenia,
-- **2)** o zmianie adresu siedziby stowarzyszenia,
-- **3)** w przedmiocie zmian w składzie władz stowarzyszenia,
-- **4)** w przedmiocie zatwierdzenia dokumentów finansowych,
-- **5)** w przedmiocie przeznaczenia zysku albo pokrycia straty,
-- **6)** w przedmiocie pełnomocnictwa,
-- **7)** w przedmiocie rozwiązania i likwidacji stowarzyszenia,
-- **8)** w przedmiocie powołania lub odwołania likwidatora,
-- **9)** w przedmiocie określenia sposobu reprezentacji stowarzyszenia w likwidacji – mogą być podejmowane przy wykorzystaniu wzorców uchwał udostępnionych w systemie teleinformatycznym.
-
-7. W przypadku uchwał, o których mowa w ust. 1 oraz ust. 6 pkt 3 i 6–8, podjętych przy wykorzystaniu wzorców uchwał udostępnionych w systemie teleinformatycznym, czynności, o których mowa w art. 19a ust. 5–5b ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, są wykonywane w systemie teleinformatycznym przy wykorzystaniu wzorców tych czynności.
-
-8. Podjęcie uchwał, o których mowa w ust. 6, nie wymaga formalnego zwołania organu. Warunkiem ich podjęcia jest wykonanie prawa głosu przez wszystkich uprawnionych do głosowania członków organu. Prawo głosu wykonuje się przez oświadczenie złożone w systemie teleinformatycznym, opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-9. Czynności, o których mowa w ust. 5 i 8, są wykonywane w systemie teleinformatycznym za pośrednictwem konta, o którym mowa w art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ).
-
-10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec statutu stowarzyszenia oraz wzorce uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania stowarzyszeń, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu prawnego.”;
-
-- **2)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia.
-
-2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym:
-
-- **1)** statut;
-- **2)** listę założycieli, zawierającą ich imiona i nazwiska, datę i miejsce ich urodzenia oraz miejsce ich zamieszkania, opatrzoną ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi;
-- **3)** uchwały o wyborze władz stowarzyszenia.
-
-3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu.
-
-4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.”.
+- **1)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Osoby w liczbie co najmniej siedmiu, zamierzające założyć stowarzyszenie, mogą uchwalić statut stowarzyszenia oraz wybrać jego władze przy wykorzystaniu wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do zakładania: 1) stowarzyszeń, w których co najmniej jeden z założycieli jest cudzoziemcem; 2) stowarzyszeń międzynarodowych; 3) stowarzyszeń jednostek samorządu terytorialnego; 4) związków stowarzyszeń; 5) stowarzyszeń, których działalność wymaga zezwolenia, o którym mowa w art. 44 ust. 2, lub uzgodnienia, o którym mowa w art. 45. 3. Statut stowarzyszenia uchwalony w sposób, o którym mowa w ust. 1, nie może przewidywać przynależności stowarzyszenia do organizacji międzynarodowych ani tworzenia przez stowarzyszenie terenowych jednostek organizacyjnych. 4. Do stowarzyszenia, którego statut został uchwalony przy wykorzystaniu wzorca statutu i nie był zmieniony w inny sposób niż przy wykorzystaniu wzorca uchwały zmieniającej statut, nie mogą wstępować cudzoziemcy. 5. Uchwalenie statutu stowarzyszenia oraz wybór władz stowarzyszenia przy wykorzystaniu wzorców wymaga wypełnienia wzorca statutu oraz wzorców uchwał o wyborze władz stowarzyszenia udostępnionych w systemie teleinformatycznym, o którym mowa w art. 3a ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, z późn. zm. ), i opatrzenia ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi osób, o których mowa w ust. 1. 6. W stowarzyszeniu, którego statut został uchwalony przy wykorzystaniu wzorca statutu i nie był zmieniony w inny sposób niż przy wykorzystaniu wzorca uchwały zmieniającej statut, uchwały walnego zebrania członków, zarządu lub organu kontroli wewnętrznej: 1) o zmianie statutu stowarzyszenia, 2) o zmianie adresu siedziby stowarzyszenia, 3) w przedmiocie zmian w składzie władz stowarzyszenia, 4) w przedmiocie zatwierdzenia dokumentów finansowych, 5) w przedmiocie przeznaczenia zysku albo pokrycia straty, 6) w przedmiocie pełnomocnictwa, 7) w przedmiocie rozwiązania i likwidacji stowarzyszenia, 8) w przedmiocie powołania lub odwołania likwidatora, 9) w przedmiocie określenia sposobu reprezentacji stowarzyszenia w likwidacji – mogą być podejmowane przy wykorzystaniu wzorców uchwał udostępnionych w systemie teleinformatycznym. 7. W przypadku uchwał, o których mowa w ust. 1 oraz ust. 6 pkt 3 i 6–8, podjętych przy wykorzystaniu wzorców uchwał udostępnionych w systemie teleinformatycznym, czynności, o których mowa w art. 19a ust. 5–5b ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, są wykonywane w systemie teleinformatycznym przy wykorzystaniu wzorców tych czynności. 8. Podjęcie uchwał, o których mowa w ust. 6, nie wymaga formalnego zwołania organu. Warunkiem ich podjęcia jest wykonanie prawa głosu przez wszystkich uprawnionych do głosowania członków organu. Prawo głosu wykonuje się przez oświadczenie złożone w systemie teleinformatycznym, opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. 9. Czynności, o których mowa w ust. 5 i 8, są wykonywane w systemie teleinformatycznym za pośrednictwem konta, o którym mowa w art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ). 10. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec statutu stowarzyszenia oraz wzorce uchwał i czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania stowarzyszeń, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu prawnego.”;
+- **2)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Zarząd składa wniosek o wpis stowarzyszenia do Krajowego Rejestru Sądowego wraz ze statutem, listą założycieli, zawierającą imiona i nazwiska, datę i miejsce urodzenia, miejsce zamieszkania oraz własnoręczne podpisy założycieli oraz protokołem z wyboru władz stowarzyszenia. 2. Przepisu ust. 1 nie stosuje się do złożenia wniosku o wpis stowarzyszenia, którego statut uchwalono przy wykorzystaniu wzorca statutu. W takim przypadku do wniosku o wpis stowarzyszenia do Krajowego Rejestru Sądowego dołącza się sporządzone na wzorcach udostępnionych w systemie teleinformatycznym: 1) statut; 2) listę założycieli, zawierającą ich imiona i nazwiska, datę i miejsce ich urodzenia oraz miejsce ich zamieszkania, opatrzoną ich kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi; 3) uchwały o wyborze władz stowarzyszenia. 3. Wnioski, o których mowa w ust. 1 i 2, podpisują wszyscy członkowie zarządu. 4. Do wniosku o zmianę danych stowarzyszenia wynikających z uchwały walnego zebrania członków podjętej przy wykorzystaniu wzorca uchwały należy dołączyć sporządzoną na wzorcu udostępnionym w systemie teleinformatycznym aktualną na dzień jej podjęcia listę członków stowarzyszenia uprawnionych do głosowania opatrzoną kwalifikowanymi podpisami elektronicznymi, podpisami zaufanymi lub podpisami osobistymi wszystkich członków zarządu.”.
 
 **Art. 2.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119, 176 i 252) wprowadza się następujące zmiany:
 

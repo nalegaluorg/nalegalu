@@ -34,19 +34,7 @@ source: pdf
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. W przypadku gdy posiadaczem gospodarstwa rolnego jest więcej niż jedna osoba lub gdy dział specjalny produkcji rolnej prowadzi kilka osób, pomoc, o której mowa w ust. 1, może być przyznana jednemu współposiadaczowi gospodarstwa rolnego lub jednej z osób prowadzących dział specjalny produkcji rolnej.",
     - **c)** ust. 6 otrzymuje brzmienie: "6. Kierownik rejonowego urzędu pracy może, na wniosek zainteresowanego, skierować osobę fizyczną będącą posiadaczem gospodarstwa rolnego oraz osobę fizyczną prowadzącą dział specjalny produkcji rolnej, w okresie odbudowy ich gospodarstw rolnych, które uległy zniszczeniu lub poniosły znaczne straty wskutek powodzi, oraz jego domowników podlegających ubezpieczeniu emerytalno-rentowemu z tytułu stałej pracy w gospodarstwie do wykonywania pracy w ramach robót publicznych lub prac interwencyjnych.";
 
-- **2)** art. 12 otrzymuje brzmienie: "Art. 12. 1. Posiadaczom gospodarstw rolnych oraz osobom prowadzącym działy specjalne produkcji rolnej na obszarach dotkniętych powodzią przysługuje pomoc w naturze lub ekwiwalencie pieniężnym, udzielana za pośrednictwem gminy.
-
-2. Pomoc, o której mowa w ust. 1, polega na możliwości otrzymania z Agencji Rynku Rolnego na każdy hektar użytków rolnych zalanych przez powódź:
-
-- **1)** nieodpłatnie jednej tony pszenicy lub
-- **2)** równowartości ceny minimalnej jednej tony pszenicy.
-
-3. Udzielenie pomocy następuje na wniosek osoby poszkodowanej, złożony niezwłocznie w gminie, na której terenie została wyrządzona szkoda przez powódź.
-
-4. Gmina, w terminie do dnia 31 grudnia 1997 r., zgłosi do Agencji Rynku Rolnego zbilansowane potrzeby w zakresie pomocy, o której mowa w ust. 2.
-
-5. Z budżetu państwa zostanie zrekompensowana Agencji Rynku Rolnego równowartość udzielonej nieodpłatnie pomocy w naturze oraz wypłaconego ekwiwalentu pieniężnego posiadaczom gospodarstw rolnych dotkniętych klęską powodzi.";
-
+- **2)** art. 12 otrzymuje brzmienie: "Art. 12. 1. Posiadaczom gospodarstw rolnych oraz osobom prowadzącym działy specjalne produkcji rolnej na obszarach dotkniętych powodzią przysługuje pomoc w naturze lub ekwiwalencie pieniężnym, udzielana za pośrednictwem gminy. 2. Pomoc, o której mowa w ust. 1, polega na możliwości otrzymania z Agencji Rynku Rolnego na każdy hektar użytków rolnych zalanych przez powódź: 1) nieodpłatnie jednej tony pszenicy lub 2) równowartości ceny minimalnej jednej tony pszenicy. 3. Udzielenie pomocy następuje na wniosek osoby poszkodowanej, złożony niezwłocznie w gminie, na której terenie została wyrządzona szkoda przez powódź. 4. Gmina, w terminie do dnia 31 grudnia 1997 r., zgłosi do Agencji Rynku Rolnego zbilansowane potrzeby w zakresie pomocy, o której mowa w ust. 2. 5. Z budżetu państwa zostanie zrekompensowana Agencji Rynku Rolnego równowartość udzielonej nieodpłatnie pomocy w naturze oraz wypłaconego ekwiwalentu pieniężnego posiadaczom gospodarstw rolnych dotkniętych klęską powodzi.";
 - **3)** art. 13 otrzymuje brzmienie: "Art. 13. Agencja Rynku Rolnego, wykorzystując zapasy produktów rolnych i żywnościowych, w tym także zapasy rezerw państwowych, udostępni gminie pszenicę lub środki finansowe, o których mowa w art. 12 ust. 2.";
 - **4)** po art. 13 dodaje się art. 13a w brzmieniu: "Art. 13a. Agencja Rynku Rolnego na cele pomocowe, o których mowa w art. 12 ust. 2, może zaciągnąć kredyt bankowy.".
 

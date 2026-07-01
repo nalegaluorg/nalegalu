@@ -31,13 +31,7 @@ source: pdf
 
 - **1)** w art. 10 w ust. 1 pkt 3 otrzymuje brzmienie: „3) w dniu wydania decyzji o zakończeniu restrukturyzacji, o której mowa w art. 21 ust. 1 pkt 1, nie posiada zaległości z tytułu należności wymienionych w art. 6, z wyjątkiem należności wymienionych w art. 11 ust. 1 pkt 2 i ust. 3, nieobjętych restrukturyzacją, należących do właściwości danego organu restrukturyzacyjnego.”;
 - **2)** art. 10a otrzymuje brzmienie: „Art. 10a. Należności, o których mowa w art. 6 ust. 1 pkt 2 lit. a-c, objęte restrukturyzacją, podlegają umorzeniu po spełnieniu przez przedsiębiorcę warunków określonych w art. 10 ust. 1 i 2, jeśli przedsiębiorca w dniu wydania decyzji, o której mowa w art. 21 ust. 1 pkt 1, nie posiada zaległości z tytułu składek na ubezpieczenie emerytalne, pozostałych składek na ubezpieczenia społeczne w części finansowanej przez ubezpieczonego oraz składek na powszechne ubezpieczenie zdrowotne, z wyłączeniem należności, o których mowa w art. 11 ust. 1 pkt 2. Art. 10 ust. 3 i 4 stosuje się odpowiednio.”;
-- **3)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Znane na dzień 30 czerwca 2002 r. zaległości we wpłatach:
-- **1)** należności wymienionych w art. 6 ust. 1 pkt 1, nieobjętych postępowaniem restrukturyzacyjnym - podlegają spłacie w terminie do dnia 29 lutego 2004 r. przez przedsiębiorcę, który złożył wniosek o restrukturyzację,
-- **2)** składek, o których mowa w art. 10a, należnych za okres od dnia 1 stycznia 1999 r. do dnia 30 czerwca 2002 r., wraz z odsetkami za zwłokę, niepodlegających restrukturyzacji podlegają spłacie w terminie do dnia 28 lutego 2005 r. przez przedsiębiorcę, który złożył wniosek o restrukturyzację.
-
-2. Przepis ust. 1 pkt 1 stosuje się odpowiednio do należności, o których mowa w art. 6 ust. 1 pkt 2 lit. d i e.
-
-3. Przepis ust. 1 pkt 2 stosuje się odpowiednio do należności, o których mowa w art. 6 ust. 1 pkt 2 lit. b i c.”.
+- **3)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Znane na dzień 30 czerwca 2002 r. zaległości we wpłatach: 1) należności wymienionych w art. 6 ust. 1 pkt 1, nieobjętych postępowaniem restrukturyzacyjnym - podlegają spłacie w terminie do dnia 29 lutego 2004 r. przez przedsiębiorcę, który złożył wniosek o restrukturyzację, 2) składek, o których mowa w art. 10a, należnych za okres od dnia 1 stycznia 1999 r. do dnia 30 czerwca 2002 r., wraz z odsetkami za zwłokę, niepodlegających restrukturyzacji podlegają spłacie w terminie do dnia 28 lutego 2005 r. przez przedsiębiorcę, który złożył wniosek o restrukturyzację. 2. Przepis ust. 1 pkt 1 stosuje się odpowiednio do należności, o których mowa w art. 6 ust. 1 pkt 2 lit. d i e. 3. Przepis ust. 1 pkt 2 stosuje się odpowiednio do należności, o których mowa w art. 6 ust. 1 pkt 2 lit. b i c.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

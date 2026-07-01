@@ -29,11 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. Nr 191, poz. 1410, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: 57;”,
-    - **a)** pkt 3 otrzymuje brzmienie: „3) lekarz systemu – lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej albo lekarz, który ukończył co najmniej drugi rok specjalizacji w dziedzinie medycyny ratunkowej, z zastrzeżeniem art.
-    - **b)** dodaje się pkt 13 i 14 w brzmieniu: „13) obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności;
+- **1)** w art. 3:
+    - **a)** pkt 3 otrzymuje brzmienie: „3) lekarz systemu – lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej albo lekarz, który ukończył co najmniej drugi rok specjalizacji w dziedzinie medycyny ratunkowej, z zastrzeżeniem art. 57;”,
+    - **b)** dodaje się pkt 13 i 14 w brzmieniu: „13) obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności; 14) rejon operacyjny – rejon określony w wojewódzkim planie działania systemu, obejmujący co najmniej jeden obszar działania.”;
 
-- **14)** rejon operacyjny – rejon określony w wojewódzkim planie działania systemu, obejmujący co najmniej jeden obszar działania.”;
 - **2)** w art. 17 w ust. 3 pkt 2 otrzymuje brzmienie: „2) teren działania jednostki współpracującej z systemem,”;
 - **3)** art. 21 otrzymuje brzmienie: ,,Art. 21. 1. System działa na obszarze województwa na podstawie wojewódzkiego planu działania systemu, zwanego dalej „planem”, sporządzanego przez wojewodę.
 
@@ -98,19 +97,17 @@ source: pdf
 - **2)** ramowy wzór planu – mając na względzie potrzebę zapewnienia sprawnego planowania i nadzoru nad systemem oraz utrzymania przejrzystości i jednolitej konstrukcji planów tworzonych w poszczególnych województwach;
 - **3)** kryteria kalkulacji kosztów działalności zespołów ratownictwa medycznego, z uwzględnieniem kosztów bezpośrednich i pośrednich, związanych z utrzymaniem zespołów.”;
 - **4)** w art. 23 w ust. 2 pkt 2 otrzymuje brzmienie: „2) miejsce stacjonowania i zasięg działania poszczególnych lotniczych zespołów ratownictwa medycznego na terenie województwa,”;
-- **5)** w art. 27: 32 ust. 1, spoza rejonu operacyjnego, dyspozytor medyczny powiadamia o tym fakcie lekarza koordynatora ratownictwa medycznego.”,
+- **5)** w art. 27:
     - **a)** w ust. 1 pkt 4 otrzymuje brzmienie: „4) zbieranie aktualnych informacji o dostępnych w rejonie operacyjnym jednostkach systemu, o których mowa w art. 32 ust. 1, i ich gotowości oraz przekazywanie tych informacji lekarzowi koordynatorowi ratownictwa medycznego;”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wykonywanie zadań dyspozytora medycznego, o których mowa w ust. 1, stanowi udzielanie świadczeń zdrowotnych w rozumieniu art. 3 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.”,
-    - **c)** ust. 2 otrzymuje brzmienie: „2. W razie konieczności użycia jednostek systemu, o których mowa w art.
+    - **c)** ust. 2 otrzymuje brzmienie: „2. W razie konieczności użycia jednostek systemu, o których mowa w art. 32 ust. 1, spoza rejonu operacyjnego, dyspozytor medyczny powiadamia o tym fakcie lekarza koordynatora ratownictwa medycznego.”,
     - **d)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) wyznacza dyspozytorów medycznych realizujących zadania określone w ust. 1 pkt 1–4, 6 i 7 dla całego rejonu, którego dotyczy sytuacja określona w ust. 2,”;
 
 - **6)** w art. 29:
     - **a)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) koordynacja współpracy dyspozytorów medycznych w przypadku zdarzeń wymagających użycia jednostek systemu, o których mowa w art. 32 ust. 1, spoza jednego rejonu operacyjnego;”, – pkt 4 otrzymuje brzmienie: „4) udział w pracach wojewódzkiego zespołu zarządzania kryzysowego;”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Lekarzem koordynatorem ratownictwa medycznego może być lekarz systemu, który posiada co najmniej 3-letnie doświadczenie zawodowe w pracy w szpitalnym oddziale ratunkowym lub w zespole ratownictwa medycznego.”;
 
-- **7)** w art. 32 ust. 1 otrzymuje brzmienie: „1. Jednostkami systemu są:
-- **1)** szpitalne oddziały ratunkowe,
-- **2)** zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego – zwane dalej „jednostkami systemu”, na których świadczenia zawarto umowy o udzielanie świadczeń opieki zdrowotnej.”;
+- **7)** w art. 32 ust. 1 otrzymuje brzmienie: „1. Jednostkami systemu są: 1) szpitalne oddziały ratunkowe, 2) zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego – zwane dalej „jednostkami systemu”, na których świadczenia zawarto umowy o udzielanie świadczeń opieki zdrowotnej.”;
 - **8)** w art. 44 ust. 1 otrzymuje brzmienie: „1. Zespół ratownictwa medycznego transportuje osobę w stanie nagłego zagrożenia zdrowotnego do najbliższego, pod względem czasu dotarcia, szpitalnego oddziału ratunkowego lub do szpitala wskazanego przez dyspozytora medycznego lub lekarza koordynatora ratownictwa medycznego.”;
 - **9)** w art. 45 w ust. 1 zdanie drugie otrzymuje brzmienie: „W przypadku transportu poza rejon operacyjny transport koordynuje lekarz koordynator ratownictwa medycznego.”;
 - **10)** w art. 49 ust. 2 otrzymuje brzmienie: „2. Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia zawiera umowy, o których mowa w ust. 1, na rejony operacyjne, na podstawie planu oraz w ramach środków przewidzianych w budżecie państwa, w części, której dysponentem jest wojewoda, ujętych w planie finansowym Narodowego Funduszu Zdrowia.”;

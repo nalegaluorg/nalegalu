@@ -39,59 +39,27 @@ source: pdf
     - **e)** pkt 13 otrzymuje brzmienie: „13) specyfikacji technicznej – należy przez to rozumieć dokumenty określające cechy, jakie powinien posiadać wyrób w zakresie wymagań technicznych, jakości, bezpieczeństwa użytkowania, w tym w odniesieniu do nazewnictwa, symboli, badań i metodologii badań, znakowania oraz oznaczania wyrobu;”;
 
 - **4)** w art. 6 w ust. 1 pkt 1 otrzymuje brzmienie: „1) czynności wykonywane przez dostawcę albo”;
-- **5)** art. 7 otrzymuje brzmienie: „Art. 7. 1. W ramach czynności, o których mowa w art. 6 ust. 1 pkt 1, dostawca przeprowadza czynności potwierdzające zgodność wyrobu ze specyfikacją techniczną.
-
-2. Na podstawie przeprowadzonych czynności potwierdzających zgodność wyrobu ze specyfikacją techniczną dostawca wystawia deklarację zgodności OiB. ”;
-
+- **5)** art. 7 otrzymuje brzmienie: „Art. 7. 1. W ramach czynności, o których mowa w art. 6 ust. 1 pkt 1, dostawca przeprowadza czynności potwierdzające zgodność wyrobu ze specyfikacją techniczną. 2. Na podstawie przeprowadzonych czynności potwierdzających zgodność wyrobu ze specyfikacją techniczną dostawca wystawia deklarację zgodności OiB. ”;
 - **6)** w art. 8:
     - **a)** ust. 1 otrzymuje brzmienie: „1. W toku badań, o których mowa w art. 6 ust. 1 pkt 2, jednostka badawcza przeprowadza czynności w celu potwierdzenia zgodności wyrobu ze specyfikacją techniczną.”,
     - **b)** w ust. 6: – pkt 2 otrzymuje brzmienie: „2) dokumentację techniczną wyrobu w zakresie niezbędnym do wykonywania badań;”, – pkt 4 otrzymuje brzmienie: „4) egzemplarze wyrobu podlegające badaniu.”,
     - **c)** ust. 9 otrzymuje brzmienie: „9. Dla wyrobów wykonywanych w cyklu pracy rozwojowej i wdrożeniowej badania, o których mowa w ust. 1, podejmuje się po zatwierdzeniu dokumentacji technicznej do produkcji seryjnej przez Ministra Obrony Narodowej lub organ wskazany przez Ministra Obrony Narodowej.”;
 
 - **7)** w art. 9 ust. 8 otrzymuje brzmienie: „8. Dla wyrobów wykonywanych w cyklu pracy rozwojowej i wdrożeniowej działania, o których mowa w ust. 5, podejmuje się po zatwierdzeniu przez Ministra Obrony Narodowej lub organ wskazany przez Ministra Obrony Narodowej dokumentacji technicznej do produkcji seryjnej.”;
-- **8)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określą, w drodze rozporządzeń:
-- **1)** szczegółowy wykaz wyrobów podlegających ocenie zgodności z podziałem na grupy wyrobów wymienione w art. 6 ust. 2;
-- **2)** sposób i tryb przeprowadzania oceny zgodności w odniesieniu do wyrobów, o których mowa w pkt 1, oraz sposób i tryb przeprowadzania oceny zgodności w odniesieniu do działań, o których mowa w art. 6 ust. 1.
-
-2. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, wydając rozporządzenia, o których mowa w ust. 1, biorą pod uwagę cechy i parametry techniczne wyrobów oraz uwzględniają ich rolę dla obronności i bezpieczeństwa państwa, a także zasady przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa ze specyfikacjami technicznymi.”;
-
+- **8)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określą, w drodze rozporządzeń: 1) szczegółowy wykaz wyrobów podlegających ocenie zgodności z podziałem na grupy wyrobów wymienione w art. 6 ust. 2; 2) sposób i tryb przeprowadzania oceny zgodności w odniesieniu do wyrobów, o których mowa w pkt 1, oraz sposób i tryb przeprowadzania oceny zgodności w odniesieniu do działań, o których mowa w art. 6 ust. 1. 2. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, wydając rozporządzenia, o których mowa w ust. 1, biorą pod uwagę cechy i parametry techniczne wyrobów oraz uwzględniają ich rolę dla obronności i bezpieczeństwa państwa, a także zasady przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa ze specyfikacjami technicznymi.”;
 - **9)** w art. 11:
-    - **a)** ust. 1 – 3 otrzymują brzmienie: „1. W deklaracji zgodności OiB zamieszcza się w szczególności:
+    - **a)** ust. 1 – 3 otrzymują brzmienie: „1. W deklaracji zgodności OiB zamieszcza się w szczególności: 1) firmę dostawcy, jego siedzibę i adres albo miejsce zamieszkania i adres wystawiającego deklarację; 2) nazwę, numer typu lub modelu, numer serii lub partii lub inne dane identyfikacyjne wyrobu; 3) oświadczenie, że wyrób jest zgodny ze specyfikacją techniczną; 4) nazwę dokumentu określającego specyfikację techniczną, z podaniem jego pełnych danych identyfikacyjnych; 5) dane identyfikujące jednostkę badawczą lub certyfikującą, w przypadku gdy bierze ona udział w ocenie zgodności wyrobu; 6) datę i miejsce wystawienia deklaracji; 7) podpis dostawcy lub osoby przez niego upoważnionej; 8) adnotację, o której mowa w art. 20. 2. Deklaracja zgodności OiB wystawiona bez przeprowadzenia działań wymienionych w art. 7, 8 albo 9 jest nieważna. 3. Wyrób nie może zostać wprowadzony do użytku bez przeprowadzenia działań wymienionych w art. 7, 8 albo 9, określonych w przepisach wydanych na podstawie art. 10 ust. 1 pkt 2.”,
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Deklaracją zgodności OiB jest każdy dokument spełniający wymagania określone w ust. 1.”;
 
-- **1)** firmę dostawcy, jego siedzibę i adres albo miejsce zamieszkania i adres wystawiającego deklarację;
-- **2)** nazwę, numer typu lub modelu, numer serii lub partii lub inne dane identyfikacyjne wyrobu;
-- **3)** oświadczenie, że wyrób jest zgodny ze specyfikacją techniczną;
-- **4)** nazwę dokumentu określającego specyfikację techniczną, z podaniem jego pełnych danych identyfikacyjnych;
-- **5)** dane identyfikujące jednostkę badawczą lub certyfikującą, w przypadku gdy bierze ona udział w ocenie zgodności wyrobu;
-- **6)** datę i miejsce wystawienia deklaracji;
-- **7)** podpis dostawcy lub osoby przez niego upoważnionej;
-- **8)** adnotację, o której mowa w art. 20.
-
-2. Deklaracja zgodności OiB wystawiona bez przeprowadzenia działań wymienionych w art. 7, 8 albo 9 jest nieważna.
-
-3. Wyrób nie może zostać wprowadzony do użytku bez przeprowadzenia działań wymienionych w art. 7, 8 albo 9, określonych w przepisach wydanych na podstawie art. 10 ust. 1 pkt 2.”,
-
-- **b)** dodaje się ust. 5 w brzmieniu: „5. Deklaracją zgodności OiB jest każdy dokument spełniający wymagania określone w ust. 1.”;
 - **10)** uchyla się art. 12;
 - **11)** w art. 15:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Akredytacji OiB udziela Minister Obrony Narodowej na wniosek jednostki organizacyjnej spełniającej wymagania określone w art. 14 ust.
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Akredytacji OiB udziela Minister Obrony Narodowej na wniosek jednostki organizacyjnej spełniającej wymagania określone w art. 14 ust. 1.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister Obrony Narodowej, w terminie nie dłuższym niż 6 miesięcy od dnia złożenia wniosku, udziela albo odmawia udzielenia akredytacji OiB.”,
+    - **c)** ust. 5 otrzymuje brzmienie: „5. Jeżeli po udzieleniu akredytacji OiB jednostka badawcza lub jednostka certyfikująca przestała spełniać którykolwiek z wymogów dotyczących udzielenia akredytacji OiB, o których mowa w art. 14 ust. 1, Minister Obrony Narodowej może ograniczyć zakres akredytacji, zawiesić albo cofnąć akredytację.”,
+    - **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Okres ograniczenia zakresu akredytacji OiB lub zawieszenia akredytacji OiB nie może być dłuższy niż 1 rok.”,
+    - **e)** ust. 6 i 7 otrzymują brzmienie: „6. Sprawy dotyczące udzielenia, odmowy udzielenia, zawieszenia, zmiany zakresu albo cofnięcia akredytacji OiB rozstrzyga się w drodze decyzji administracyjnej. 7. Dokumentem potwierdzającym uzyskanie akredytacji OiB jest certyfikat akredytacji OiB wydany przez Ministra Obrony Narodowej.”;
 
-1. ”,
-
-- **b)** ust. 3 otrzymuje brzmienie: „3. Minister Obrony Narodowej, w terminie nie dłuższym niż 6 miesięcy od dnia złożenia wniosku, udziela albo odmawia udzielenia akredytacji OiB.”,
-- **c)** ust. 5 otrzymuje brzmienie: „5. Jeżeli po udzieleniu akredytacji OiB jednostka badawcza lub jednostka certyfikująca przestała spełniać którykolwiek z wymogów dotyczących udzielenia akredytacji OiB, o których mowa w art. 14 ust. 1, Minister Obrony Narodowej może ograniczyć zakres akredytacji, zawiesić albo cofnąć akredytację.”,
-- **d)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Okres ograniczenia zakresu akredytacji OiB lub zawieszenia akredytacji OiB nie może być dłuższy niż 1 rok.”,
-- **e)** ust. 6 i 7 otrzymują brzmienie: „6. Sprawy dotyczące udzielenia, odmowy udzielenia, zawieszenia, zmiany zakresu albo cofnięcia akredytacji OiB rozstrzyga się w drodze decyzji administracyjnej.
-
-7. Dokumentem potwierdzającym uzyskanie akredytacji OiB jest certyfikat akredytacji OiB wydany przez Ministra Obrony Narodowej.”;
-
-- **12)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Minister Obrony Narodowej ogłasza w wydawanym przez siebie dzienniku urzędowym wykaz jednostek badawczych oraz wykaz jednostek certyfikujących, wraz z zakresem udzielonej tym jednostkom akredytacji OiB.
-
-2. Minister Obrony Narodowej określi, w drodze rozporządzenia:
-
-- **1)** szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności,
-- **2)** wzór certyfikatu akredytacji OiB,
-- **3)** szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym – biorąc pod uwagę wymagania określone w Polskich Normach.”;
+- **12)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Minister Obrony Narodowej ogłasza w wydawanym przez siebie dzienniku urzędowym wykaz jednostek badawczych oraz wykaz jednostek certyfikujących, wraz z zakresem udzielonej tym jednostkom akredytacji OiB. 2. Minister Obrony Narodowej określi, w drodze rozporządzenia: 1) szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności, 2) wzór certyfikatu akredytacji OiB, 3) szczegółowy sposób i tryb postępowania w zakresie udzielania akredytacji OiB jednostkom organizacyjnym – biorąc pod uwagę wymagania określone w Polskich Normach.”;
 - **13)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. Nadzór nad jednostkami badawczymi i jednostkami certyfikującymi posiadającymi akredytację OiB, w zakresie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności lub bezpieczeństwa państwa, sprawuje Minister Obrony Narodowej.”;
 - **14)** w art. 25 ust. 2 otrzymuje brzmienie: „2. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób i tryb sprawowania nadzoru nad jednostkami badawczymi i jednostkami certyfikującymi, organ sprawujący w jego imieniu nadzór nad działalnością jednostek badawczych i jednostek certyfikujących oraz zadania tego organu, mając na uwadze zasady nadzoru nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa.”;
 - **15)** w art. 26 :

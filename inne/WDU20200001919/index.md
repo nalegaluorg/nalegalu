@@ -29,29 +29,14 @@ source: pdf
 
 **Art. 1.** W ustawie budżetowej na rok 2020 z dnia 14 lutego 2020 r. (Dz. U. poz. 571) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustala się, zgodnie z załącznikiem nr 1, łączną kwotę podatkowych i niepodatkowych dochodów budżetu państwa w wysokości 398 671 644 tys. zł.
-
-2. Ustala się, zgodnie z załącznikiem nr 2, łączną kwotę wydatków budżetu państwa w wysokości 508 019 293 tys. zł.
-
-3. Deficyt budżetu państwa ustala się na dzień 31 grudnia 2020 r. na kwotę nie większą niż 109 347 649 tys. zł.”;
-
-- **2)** w art. 2 ust. 1 i 2 otrzymują brzmienie: „1. Ustala się, zgodnie z załącznikiem nr 3, łączną kwotę prognozowanych dochodów budżetu środków europejskich w wysokości 72 944 052 tys. zł.
-
-2. Ustala się, zgodnie z załącznikiem nr 4, łączną kwotę planowanych wydatków budżetu środków europejskich w wysokości 89 897 933 tys. zł.”;
-
-- **3)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Ustala się łączną kwotę planowanych przychodów budżetu państwa w wysokości 547 392 015 tys. zł oraz łączną kwotę planowanych rozchodów budżetu państwa w wysokości 421 090 485 tys. zł – z tytułów wymienionych w załączniku nr 5.
-
-2. Planowane saldo przychodów i rozchodów budżetu państwa ustala się na kwotę 126 301 530 tys. zł.”;
-
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Ustala się, zgodnie z załącznikiem nr 1, łączną kwotę podatkowych i niepodatkowych dochodów budżetu państwa w wysokości 398 671 644 tys. zł. 2. Ustala się, zgodnie z załącznikiem nr 2, łączną kwotę wydatków budżetu państwa w wysokości 508 019 293 tys. zł. 3. Deficyt budżetu państwa ustala się na dzień 31 grudnia 2020 r. na kwotę nie większą niż 109 347 649 tys. zł.”;
+- **2)** w art. 2 ust. 1 i 2 otrzymują brzmienie: „1. Ustala się, zgodnie z załącznikiem nr 3, łączną kwotę prognozowanych dochodów budżetu środków europejskich w wysokości 72 944 052 tys. zł. 2. Ustala się, zgodnie z załącznikiem nr 4, łączną kwotę planowanych wydatków budżetu środków europejskich w wysokości 89 897 933 tys. zł.”;
+- **3)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Ustala się łączną kwotę planowanych przychodów budżetu państwa w wysokości 547 392 015 tys. zł oraz łączną kwotę planowanych rozchodów budżetu państwa w wysokości 421 090 485 tys. zł – z tytułów wymienionych w załączniku nr 5. 2. Planowane saldo przychodów i rozchodów budżetu państwa ustala się na kwotę 126 301 530 tys. zł.”;
 - **4)** w art. 5 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przyrost zadłużenia na dzień 31 grudnia 2020 r. z tytułu zaciągniętych i spłaconych kredytów lub pożyczek oraz emisji i spłaty skarbowych papierów wartościowych nie może przekroczyć kwoty 180 000 000 tys. zł, przy czym przez spłatę:”;
 - **5)** art. 6 otrzymuje brzmienie: „Art. 6. Poręczenia i gwarancje mogą być udzielane przez Skarb Państwa do łącznej kwoty 500 000 000 tys. zł.”;
 - **6)** art. 16 otrzymuje brzmienie: „Art. 16. Tworzy się ogólną rezerwę budżetową w wysokości 557 935 tys. zł.”;
-- **7)** w art. 17 pkt 2 i 3 otrzymują brzmienie: „2) środki na wynagrodzenia – w wysokości 10 021 524 tys. zł;
-- **3)** środki na szkolenia – w wysokości 52 157 tys. zł.”;
-- **8)** art. 18 i art. 19 otrzymują brzmienie: „Art. 18. Prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem wynosi 103,3%.
-
-**Art. 19.** Prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów wynosi 103,8%.”;
-
+- **7)** w art. 17 pkt 2 i 3 otrzymują brzmienie: „2) środki na wynagrodzenia – w wysokości 10 021 524 tys. zł; 3) środki na szkolenia – w wysokości 52 157 tys. zł.”;
+- **8)** art. 18 i art. 19 otrzymują brzmienie: „Art. 18. Prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem wynosi 103,3%. Art. 19. Prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów wynosi 103,8%.”;
 - **9)** art. 25 otrzymuje brzmienie: „Art. 25. Prognozowane przeciętne miesięczne wynagrodzenie brutto w gospodarce narodowej wynosi 5 088 zł.”;
 - **10)** załącznik nr 1 do ustawy „Dochody budżetu państwa w 2020 r.” otrzymuje brzmienie określone w załączniku nr 1 do niniejszej ustawy;
 - **11)** załącznik nr 2 do ustawy „Wydatki budżetu państwa na rok 2020” otrzymuje brzmienie określone w załączniku nr 2 do niniejszej ustawy;

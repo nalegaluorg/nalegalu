@@ -53,14 +53,8 @@ source: pdf
 - **2)** w art. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) wyrobisko górnicze – wyrobisko górnicze w rozumieniu art. 6 ust. 1 pkt 17 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r. poz. 1131).”;
 - **3)** w art. 3:
     - **a)** w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) działań wykonywanych po zakończeniu prac likwidacyjnych w wyrobisku górniczym Piaseczno, realizowanych przez podmiot, o którym mowa w art. 1 pkt 5.”,
-    - **b)** dodaje się ust. 5 w brzmieniu: „5. Przez działania, o których mowa w ust. 1 pkt 3, rozumie się:
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Przez działania, o których mowa w ust. 1 pkt 3, rozumie się: 1) zabezpieczenie terenów zlokalizowanych w sąsiedztwie wyrobiska przed zmianą stosunków wodnych; 2) likwidację zbędnych instalacji, budynków oraz demontaż maszyn i urządzeń związanych z wykonywaniem działania, o którym mowa w pkt 1; 3) rekultywację terenów pogórniczych związanych z wykonywaniem działania, o którym mowa w pkt 1; 4) wykonywanie prac zabezpieczających oraz przedsięwzięć zapobiegających związanych z wykonywaniem działania, o którym mowa w pkt 1; 5) opracowanie projektów, dokumentacji, opinii, ekspertyz i analiz związanych z wykonywaniem działań wymienionych w pkt 1–4; 6) sprawowanie ogólnego zarządu.”;
 
-- **1)** zabezpieczenie terenów zlokalizowanych w sąsiedztwie wyrobiska przed zmianą stosunków wodnych;
-- **2)** likwidację zbędnych instalacji, budynków oraz demontaż maszyn i urządzeń związanych z wykonywaniem działania, o którym mowa w pkt 1;
-- **3)** rekultywację terenów pogórniczych związanych z wykonywaniem działania, o którym mowa w pkt 1;
-- **4)** wykonywanie prac zabezpieczających oraz przedsięwzięć zapobiegających związanych z wykonywaniem działania, o którym mowa w pkt 1;
-- **5)** opracowanie projektów, dokumentacji, opinii, ekspertyz i analiz związanych z wykonywaniem działań wymienionych w pkt 1–4;
-- **6)** sprawowanie ogólnego zarządu.”;
 - **4)** użyte w art. 5 w ust. 1 w pkt 2, w ust. 2 i 3, w art. 6 w ust. 1, w art. 9 w ust. 1, w art. 10 w ust. 1 i 3 we wprowadzeniu do wyliczenia i w ust. 4, w art. 11, w art. 12 oraz w art. 12a w różnych przypadkach wyrazy „minister właściwy do spraw energii” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki złożami kopalin”;
 - **5)** w art. 5:
     - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Dotację na wykonanie działań, o których mowa w art. 3 ust. 5, przyznaje się na wniosek podmiotu, o którym mowa w art. 1 pkt 5, po zaakceptowaniu przez ministra właściwego do spraw gospodarki złożami kopalin rocznego planu tych działań obejmującego, w podziale na miesiące, jego zakres rzeczowy i finansowy.”,

@@ -31,14 +31,7 @@ source: pdf
 
 - **1)** po art. 92 dodaje się art. 92a w brzmieniu: „Art. 92a. Wyrokiem łącznym nie obejmuje się orzeczeń skazujących wydanych w innych państwach członkowskich Unii Europejskiej.”;
 - **2)** po art. 107 dodaje się art. 107a w brzmieniu: „Art. 107a. W razie skazania przez sąd innego państwa członkowskiego Unii Europejskiej zatarcie skazania następuje zgodnie z prawem państwa, w którym to skazanie nastąpiło. Przepisu art. 108 nie stosuje się.”;
-- **3)** po art. 114 dodaje się art. 114a w brzmieniu: „Art. 114a. W postępowaniu karnym uwzględnia się wydane w innym państwie członkowskim Unii Europejskiej prawomocne orzeczenie skazujące sądu właściwego w sprawach karnych uznające daną osobę za winną popełnienia przestępstwa w sprawie o inny czyn niż będący przedmiotem postępowania karnego, chyba że:
-- **1)** skazanie nastąpiło za czyn, który nie stanowi przestępstwa według prawa polskiego,
-- **2)** orzeczono rodzaj kary nieznany ustawie polskiej,
-- **3)** sprawca nie podlegałby karze według prawa polskiego,
-- **4)** uwzględnienie prowadziłoby do uchylenia lub zmiany tego orzeczenia,
-- **5)** zachodzi uzasadniona obawa, że uwzględnienie prowadziłoby do naruszenia wolności i praw osoby skazanej w innym państwie członkowskim Unii Europejskiej,
-- **6)** zgodnie z informacją uzyskaną z rejestru karnego lub od sądu państwa obcego, przestępstwo, którego dotyczy orzeczenie, podlega w państwie, w którym skazanie nastąpiło, darowaniu na mocy abolicji lub ułaskawienia,
-- **7)** uzyskane informacje są niewystarczające dla uwzględnienia orzeczenia.”.
+- **3)** po art. 114 dodaje się art. 114a w brzmieniu: „Art. 114a. W postępowaniu karnym uwzględnia się wydane w innym państwie członkowskim Unii Europejskiej prawomocne orzeczenie skazujące sądu właściwego w sprawach karnych uznające daną osobę za winną popełnienia przestępstwa w sprawie o inny czyn niż będący przedmiotem postępowania karnego, chyba że: 1) skazanie nastąpiło za czyn, który nie stanowi przestępstwa według prawa polskiego, 2) orzeczono rodzaj kary nieznany ustawie polskiej, 3) sprawca nie podlegałby karze według prawa polskiego, 4) uwzględnienie prowadziłoby do uchylenia lub zmiany tego orzeczenia, 5) zachodzi uzasadniona obawa, że uwzględnienie prowadziłoby do naruszenia wolności i praw osoby skazanej w innym państwie członkowskim Unii Europejskiej, 6) zgodnie z informacją uzyskaną z rejestru karnego lub od sądu państwa obcego, przestępstwo, którego dotyczy orzeczenie, podlega w państwie, w którym skazanie nastąpiło, darowaniu na mocy abolicji lub ułaskawienia, 7) uzyskane informacje są niewystarczające dla uwzględnienia orzeczenia.”.
 
 **Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 

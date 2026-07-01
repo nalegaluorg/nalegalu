@@ -33,10 +33,7 @@ source: pdf
 - **2)** w art. 3 w pkt 2 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) integracji społecznej – rozumie się przez to działania na rzecz poprawy ważnych aspektów życia społecznego osób należących do mniejszości, w szczególności warunków bytowych oraz dostępu do systemu oświaty, rynku pracy, systemu zabezpieczenia społecznego, a także opieki zdrowotnej.”;
 - **3)** tytuł rozdziału 3 otrzymuje brzmienie: „Oświata, kultura oraz integracja obywatelska i społeczna”;
 - **4)** w art. 18:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organy władzy publicznej są obowiązane podejmować odpowiednie środki w celu wspierania:
-
-- **1)** działalności zmierzającej do ochrony, zachowania i rozwoju tożsamości kulturowej mniejszości;
-- **2)** integracji obywatelskiej i społecznej.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Organy władzy publicznej są obowiązane podejmować odpowiednie środki w celu wspierania: 1) działalności zmierzającej do ochrony, zachowania i rozwoju tożsamości kulturowej mniejszości; 2) integracji obywatelskiej i społecznej.”,
     - **b)** w ust. 2 pkt 10 otrzymuje brzmienie: „10) inne zadania zmierzające do osiągnięcia celów, o których mowa w ust. 1, w szczególności realizowane w ramach programów wieloletnich.”,
     - **c)** po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na realizację zadań zmierzających do osiągnięcia celów, o których mowa w ust. 1.”,
     - **d)** ust. 4 otrzymuje brzmienie: „4. Środkami, o których mowa w ust. 1, mogą być również środki przekazywane z budżetu jednostki samorządu terytorialnego organizacjom lub instytucjom, realizującym zadania służące ochronie, zachowaniu i rozwojowi tożsamości kulturowej mniejszości lub integracji obywatelskiej lub społecznej.”;

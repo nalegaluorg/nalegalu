@@ -32,13 +32,7 @@ source: pdf
 - **1)** w art. 37k:
     - **a)** w ust. 1, zdanie pierwsze, po wyrazie „przysługuje” dodaje się wyrazy „ , z zastrzeżeniem ust. 9,”,
     - **b)** w ust. 2, po wyrazach „Wysokość świadczenia przedemerytalnego wynosi” dodaje się wyrazy „ , z zastrzeżeniem ust. 10,”,
-    - **c)** dodaje się ust. 9 i 10 w brzmieniu: „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej spełniającemu określone w ustawie warunki do uzyskania statusu bezrobotnego przysługuje świadczenie przedemerytalne, jeżeli w dniu wejścia w życie ustawy:
-
-- **1)** osiągnął wiek 50 lat - kobieta i 55 lat - mężczyzna,
-- **2)** przepracował w państwowym przedsiębiorstwie gospodarki rolnej najmniej 10 lat,
-- **3)** zamieszkuje w dniu nabycia prawa do świadczenia przedemerytalnego w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym.
-
-10. Świadczenie przedemerytalne przyznawane jest w kwocie aktualnie obowiązującego zasiłku przedemerytalnego. Przepis art. 37l ust. 3 stosuje się odpowiednio.”;
+    - **c)** dodaje się ust. 9 i 10 w brzmieniu: „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej spełniającemu określone w ustawie warunki do uzyskania statusu bezrobotnego przysługuje świadczenie przedemerytalne, jeżeli w dniu wejścia w życie ustawy: 1) osiągnął wiek 50 lat - kobieta i 55 lat - mężczyzna, 2) przepracował w państwowym przedsiębiorstwie gospodarki rolnej najmniej 10 lat, 3) zamieszkuje w dniu nabycia prawa do świadczenia przedemerytalnego w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym. 10. Świadczenie przedemerytalne przyznawane jest w kwocie aktualnie obowiązującego zasiłku przedemerytalnego. Przepis art. 37l ust. 3 stosuje się odpowiednio.”;
 
 - **2)** w art. 37l:
     - **a)** w ust. 1 po wyrazach „pobieranego zasiłku” kropkę zastępuje się przecinkiem i dodaje wyrazy „z zastrzeżeniem ust. 2a.”,

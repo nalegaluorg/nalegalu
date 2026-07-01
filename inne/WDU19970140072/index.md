@@ -30,10 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz.U. Nr 147, poz. 713) wprowadza się następujące zmiany:
 
 - **1)** w art. 9 po ust. 2 dodaje się ust. 3 w brzmieniu: "3. Do celów hodowlanych, w tym eksportu, oraz celów naukowych dozwolone jest łowienie zwierzyny żywej wyłącznie w sieci i nie raniące pułapki, w tym pułapki nie chwytające za kończynę.";
-- **2)** art. 16 otrzymuje brzmienie: "Art. 16. 1. Zabrania się chowu i hodowli zamkniętej zwierząt łownych, z wyjątkiem bażanta oraz zwierząt uznanych za zwierzęta gospodarskie na podstawie odrębnych przepisów.
-
-2. Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa może wydać zgodę na chów i hodowlę zamkniętą zwierząt łownych nie będących zwierzętami gospodarskimi do celów badań naukowych, dydaktyki, zasiedleń lub eksportu zwierzyny żywej.";
-
+- **2)** art. 16 otrzymuje brzmienie: "Art. 16. 1. Zabrania się chowu i hodowli zamkniętej zwierząt łownych, z wyjątkiem bażanta oraz zwierząt uznanych za zwierzęta gospodarskie na podstawie odrębnych przepisów. 2. Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa może wydać zgodę na chów i hodowlę zamkniętą zwierząt łownych nie będących zwierzętami gospodarskimi do celów badań naukowych, dydaktyki, zasiedleń lub eksportu zwierzyny żywej.";
 - **3)** w art. 28 w ust. 2 w zdaniu wstępnym wyraz "może" zastępuje się wyrazami "po zasięgnięciu opinii Polskiego Związku Łowieckiego może, w drodze decyzji,";
 - **4)** w art. 29 po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Obwód łowiecki obejmujący obszar gruntów pozostających w zarządzie organów wojskowych lub przydzielonych tym organom do wykorzystania może być wydzierżawiony kołom łowieckim za zgodą tych organów.";
 - **5)** w art. 32:

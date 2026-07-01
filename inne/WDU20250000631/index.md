@@ -30,16 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2023 r. poz. 153) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 10;
-- **2)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Dyrektor określa w regulaminie wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum warunki wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum, uwzględniając w szczególności:
-- **1)** rodzaj wykonywanej pracy;
-- **2)** posiadane wykształcenie, doświadczenie i dodatkowe kwalifikacje zawodowe oraz ich przydatność do realizacji zadań na stanowisku pracy;
-- **3)** kompetencje społeczne i ich przydatność do realizacji zadań na stanowisku pracy;
-- **4)** zakres odpowiedzialności na stanowisku pracy, w tym za realizację zadań przez podległych pracowników;
-- **5)** poziom złożoności zadań realizowanych na stanowisku pracy wraz z poziomem wymaganej samodzielności i kreatywności;
-- **6)** poziom obciążenia zadaniami realizowanymi na stanowisku pracy i jakość wykonywanej pracy.
-
-2. Dyrektor przekazuje Ministrowi do zatwierdzenia regulamin wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum.”;
-
+- **2)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Dyrektor określa w regulaminie wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum warunki wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum, uwzględniając w szczególności: 1) rodzaj wykonywanej pracy; 2) posiadane wykształcenie, doświadczenie i dodatkowe kwalifikacje zawodowe oraz ich przydatność do realizacji zadań na stanowisku pracy; 3) kompetencje społeczne i ich przydatność do realizacji zadań na stanowisku pracy; 4) zakres odpowiedzialności na stanowisku pracy, w tym za realizację zadań przez podległych pracowników; 5) poziom złożoności zadań realizowanych na stanowisku pracy wraz z poziomem wymaganej samodzielności i kreatywności; 6) poziom obciążenia zadaniami realizowanymi na stanowisku pracy i jakość wykonywanej pracy. 2. Dyrektor przekazuje Ministrowi do zatwierdzenia regulamin wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum.”;
 - **3)** w art. 43 w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) zatwierdza regulamin wynagradzania Koordynatorów Dyscyplin i pracowników Biura Centrum;”.
 
 **Art. 2.**
