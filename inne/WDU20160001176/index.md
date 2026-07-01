@@ -33,22 +33,22 @@ source: pdf
     - **a)** ust. 2 otrzymuje brzmienie: „2. Jednostki doradztwa rolniczego są państwowymi jednostkami organizacyjnymi posiadającymi osobowość prawną.”,
     - **b)** uchyla się ust. 2a;
 
-- **2)** w art. 3: 2. Minister właściwy do spraw rozwoju wsi nadaje, w drodze zarządzenia, statut jednostkom doradztwa rolniczego.”,
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jednostki doradztwa rolniczego podlegają ministrowi właściwemu do spraw rozwoju wsi.
+- **2)** w art. 3:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Jednostki doradztwa rolniczego podlegają ministrowi właściwemu do spraw rozwoju wsi. 2. Minister właściwy do spraw rozwoju wsi nadaje, w drodze zarządzenia, statut jednostkom doradztwa rolniczego.”,
     - **b)** uchyla się ust. 3–6;
 
 - **3)** w art. 6:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Organem jednostki doradztwa rolniczego jest dyrektor powoływany i odwoływany przez ministra właściwego do spraw rozwoju wsi.”,
     - **b)** uchyla się ust. 6;
 
-- **4)** w art. 6a: z 2014 r. poz. 1502, z późn. zm. ).”;
+- **4)** w art. 6a:
     - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Stanowisko dyrektora jednostki doradztwa rolniczego może zajmować osoba, która:”, – pkt 1 otrzymuje brzmienie: „1) posiada wykształcenie wyższe;”, – pkt 7 otrzymuje brzmienie: „7) posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości jednostki doradztwa rolniczego.”,
-    - **b)** ust. 11 otrzymuje brzmienie: „11. Powołanie na stanowisko, o którym mowa w art. 6 ust. 1, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
+    - **b)** ust. 11 otrzymuje brzmienie: „11. Powołanie na stanowisko, o którym mowa w art. 6 ust. 1, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
 
 - **5)** w art. 7 ust. 1 otrzymuje brzmienie: „1. Dyrektor jednostki doradztwa rolniczego może mieć jednego lub dwóch zastępców, których powołuje i odwołuje, na wniosek jej dyrektora, minister właściwy do spraw rozwoju wsi.”;
 - **6)** użyte w art. 7 ust. 2 i 4, art. 8 ust. 3 i art. 9 ust. 8 w różnych przypadkach wyrazy „organ, któremu podlega jednostka doradztwa rolniczego” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju wsi”;
-- **7)** w art. 9: 1) w przypadku Rady działającej przy Centrum Doradztwa – wchodzi 11 członków: a) 2 przedstawicieli ministra właściwego do spraw rozwoju wsi, b) 2 przedstawicieli Krajowej Rady Izb Rolniczych, c) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników, d) po 1 przedstawicielu zgłoszonym przez szkoły wyższe i instytuty badawcze, e) 1 przedstawiciel konwentu marszałków; 2) w przypadku Rady działającej przy ośrodkach wojewódzkich – wchodzi 12 członków: a) 1 przedstawiciel ministra właściwego do spraw rozwoju wsi, b) po 1 przedstawicielu sejmiku województwa i zarządu województwa, c) 2 przedstawicieli właściwej miejscowo izby rolniczej, d) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników działające na obszarze województwa, e) 2 przedstawicieli zgłoszonych przez szkoły wyższe oraz instytuty badawcze, kształcące i realizujące działania na potrzeby rolnictwa i rozwoju obszarów wiejskich, f) 1 przedstawiciel szkół ponadgimnazjalnych kształcących na potrzeby rolnictwa, działających na obszarze województwa. 6. Członków Rady powołuje i odwołuje minister właściwy do spraw rozwoju wsi.”,
-    - **a)** ust. 5 i 6 otrzymują brzmienie: „5. W skład Rady:
+- **7)** w art. 9:
+    - **a)** ust. 5 i 6 otrzymują brzmienie: „5. W skład Rady: 1) w przypadku Rady działającej przy Centrum Doradztwa – wchodzi 11 członków: a) 2 przedstawicieli ministra właściwego do spraw rozwoju wsi, b) 2 przedstawicieli Krajowej Rady Izb Rolniczych, c) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników, d) po 1 przedstawicielu zgłoszonym przez szkoły wyższe i instytuty badawcze, e) 1 przedstawiciel konwentu marszałków; 2) w przypadku Rady działającej przy ośrodkach wojewódzkich – wchodzi 12 członków: a) 1 przedstawiciel ministra właściwego do spraw rozwoju wsi, b) po 1 przedstawicielu sejmiku województwa i zarządu województwa, c) 2 przedstawicieli właściwej miejscowo izby rolniczej, d) 4 przedstawicieli zgłoszonych przez związki zawodowe rolników działające na obszarze województwa, e) 2 przedstawicieli zgłoszonych przez szkoły wyższe oraz instytuty badawcze, kształcące i realizujące działania na potrzeby rolnictwa i rozwoju obszarów wiejskich, f) 1 przedstawiciel szkół ponadgimnazjalnych kształcących na potrzeby rolnictwa, działających na obszarze województwa. 6. Członków Rady powołuje i odwołuje minister właściwy do spraw rozwoju wsi.”,
     - **b)** w ust. 7 pkt 3 otrzymuje brzmienie: „3) nie były skazane prawomocnym wyrokiem za przestępstwo popełnione umyślnie.”;
 
 - **8)** użyte w art. 12 ust. 1 i 1a oraz art. 13 ust. 1 w różnych przypadkach wyrazy „organ, któremu ta jednostka podlega” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju wsi”;

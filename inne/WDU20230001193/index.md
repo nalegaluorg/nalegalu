@@ -42,13 +42,13 @@ source: pdf
 - **4)** uchyla się art. 37gb–37gk;
 - **5)** w art. 39a w pkt 1a skreśla się wyrazy „ , oraz opłat za przejazd autostradą”;
 - **6)** w art. 39b w ust. 1 uchyla się pkt 5, 5ba i 11f;
-- **7)** w art. 39f w ust. 1: a) Szefa KAS lub b) organy Krajowej Administracji Skarbowej wyznaczone na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub c) jednostkę, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych;”,
-    - **a)** pkt 5 otrzymuje brzmienie: „5) przygotowanie, wdrożenie, budowę lub eksploatację systemu poboru opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, realizowanych przez:
+- **7)** w art. 39f w ust. 1:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) przygotowanie, wdrożenie, budowę lub eksploatację systemu poboru opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, realizowanych przez: a) Szefa KAS lub b) organy Krajowej Administracji Skarbowej wyznaczone na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub c) jednostkę, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych;”,
     - **b)** uchyla się pkt 7 i 8;
 
-- **8)** w art. 39k: 1) Szefa KAS lub 2) organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub 3) jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.”;
+- **8)** w art. 39k:
     - **a)** uchyla się ust. 1a,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Bank Gospodarstwa Krajowego, na wniosek:
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Bank Gospodarstwa Krajowego, na wniosek: 1) Szefa KAS lub 2) organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub 3) jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.”;
 
 - **9)** w art. 39l:
     - **a)** w ust. 1 w pkt 1 skreśla się wyrazy „7 i”,

@@ -40,8 +40,8 @@ source: pdf
     - **b)** uchyla się ust. 3 – 5;
 
 - **5)** art. 28 otrzymuje brzmienie: „Art. 28. Akcje i udziały składające się na zasób zbywa minister właściwy do spraw Skarbu Państwa w porozumieniu z ministrem właściwym do spraw finansów publicznych.”;
-- **6)** w art. 30: 25a ust. 1.”,
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw Skarbu Państwa przekazuje corocznie do dnia 30 czerwca na rachunek, o którym mowa w ust. 1, środki pochodzące z przychodów z prywatyzacji, w kwocie, o której mowa w art.
+- **6)** w art. 30:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw Skarbu Państwa przekazuje corocznie do dnia 30 czerwca na rachunek, o którym mowa w ust. 1, środki pochodzące z przychodów z prywatyzacji, w kwocie, o której mowa w art. 25a ust. 1.”,
     - **b)** w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) środki, o których mowa w art. 25a ust. 1.”,
     - **c)** w ust. 3 uchyla się pkt 3.
 

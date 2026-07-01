@@ -30,10 +30,10 @@ source: pdf
 - **335)** wprowadza się następujące zmiany:
 - **1)** w art. 1 w ust. 1 dodaje się pkt 3a w brzmieniu: "3a) upowszechnianie edukacji obywatelskiej,";
 - **2)** w art. 4 pkt 3 otrzymuje brzmienie: "3) rozprowadzaniem jest przejmowanie w całości i bez zmian programu nadawcy krajowego lub zagranicznego, z wyjątkiem programu rozpowszechnianego w sieci kablowej, i równoczesne jego rozpowszechnianie,";
-- **3)** w art. 7: 1) zrzeczenia się swej funkcji, 2) choroby trwale uniemożliwiającej sprawowanie funkcji, 3) skazania prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej, 4) naruszenia przepisów ustawy stwierdzonego orzeczeniem Trybunału Stanu.";
+- **3)** w art. 7:
     - **a)** ust. 2 otrzymuje brzmienie: "2. Przewodniczącego Krajowej Rady wybierają członkowie Krajowej Rady ze swego grona.",
     - **b)** dodaje się ust. 2a w brzmieniu: "2a. Krajowa Rada może odwołać Przewodniczącego z jego funkcji większością 2/3 głosów ustawowej liczby członków.",
-    - **c)** ust. 6 otrzymuje brzmienie: "6. Organ uprawniony do powołania członka Krajowej Rady odwołuje go wyłącznie w przypadku:
+    - **c)** ust. 6 otrzymuje brzmienie: "6. Organ uprawniony do powołania członka Krajowej Rady odwołuje go wyłącznie w przypadku: 1) zrzeczenia się swej funkcji, 2) choroby trwale uniemożliwiającej sprawowanie funkcji, 3) skazania prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej, 4) naruszenia przepisów ustawy stwierdzonego orzeczeniem Trybunału Stanu.";
 
 - **4)** w art. 8:
     - **a)** skreśla się ust. 2,

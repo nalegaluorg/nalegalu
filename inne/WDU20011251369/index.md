@@ -38,9 +38,9 @@ source: pdf
     - **a)** w pkt 1 wyrazy „art. 25 ust. 6 pkt 2 lit. a) i c)” zastępuje się wyrazami „art.
     - **b)** w pkt 3 wyrazy „art. 25 ust. 6 pkt 2 lit. c) i d)” zastępuje się wyrazami „art.
 
-- **3)** w art. 28: 4. Przepis ust. 3 nie ma zastosowania: 1) jeżeli pracodawca, na podstawie Kodeksu pracy, rozwiązał umowę o pracę bez wypowiedzenia, 2) w razie ponownego zawarcia umowy o pracę z inną osobą zarejestrowaną w urzędzie pracy, nie później jednak niż w ciągu 10 dni po dniu rozwiązania poprzedniej umowy o pracę.”;
+- **3)** w art. 28:
     - **a)** w ust. 1 w zdaniu wstępnym wyrazy „art. 25 ust. 6 pkt 2 lit. c) i d)” zastępuje się wyrazami „art. 25 ust. 6 pkt 2 lit. d)”,
-    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadku rozwiązania umowy o pracę chociażby z jedną z osób, o których mowa w art. 25 ust. 6 pkt 2 lit. g), przed upływem 3 miesięcy od dnia zawarcia umowy, stawkę karty podatkowej podwyższa się o 50% poczynając od miesiąca następującego po miesiącu, w którym nastąpiło rozwiązanie umowy o pracę, do upływu okresu 3 miesięcy, licząc od dnia zawarcia umowy, która została rozwiązana.
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadku rozwiązania umowy o pracę chociażby z jedną z osób, o których mowa w art. 25 ust. 6 pkt 2 lit. g), przed upływem 3 miesięcy od dnia zawarcia umowy, stawkę karty podatkowej podwyższa się o 50% poczynając od miesiąca następującego po miesiącu, w którym nastąpiło rozwiązanie umowy o pracę, do upływu okresu 3 miesięcy, licząc od dnia zawarcia umowy, która została rozwiązana. 4. Przepis ust. 3 nie ma zastosowania: 1) jeżeli pracodawca, na podstawie Kodeksu pracy, rozwiązał umowę o pracę bez wypowiedzenia, 2) w razie ponownego zawarcia umowy o pracę z inną osobą zarejestrowaną w urzędzie pracy, nie później jednak niż w ciągu 10 dni po dniu rozwiązania poprzedniej umowy o pracę.”;
 
 - **4)** w art. 35 w ust. 1 wyrazy „art. 25 ust. 6 pkt 2 lit. a), c), d) i f)” zastępuje się wyrazami „art. 25 ust. 6 pkt 2 lit. a), d), f) i g)”;
 - **5)** w art. 36:

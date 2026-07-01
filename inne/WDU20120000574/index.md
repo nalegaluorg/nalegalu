@@ -35,10 +35,10 @@ o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz ustawy o
     - **b)** w ust. 5 uchyla się pkt 4,
     - **c)** uchyla się ust. 5a;
 
-- **2)** w art. 10 w ust. 1: a) informacji, o których mowa w pkt 2 lit. c tiret pierwsze–tiret trzecie, b) zbiorczych zestawień, które zawierają dane o łącznej ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu, dostarczonego przez poszczególnych dostawców hurtowych od początku danego roku kwotowego w ilości przekraczającej kwoty indywidualne przysługujące na dany dzień roku;”,
+- **2)** w art. 10 w ust. 1:
     - **a)** w pkt 2 w lit. c uchyla się tiret czwarte,
     - **b)** uchyla się pkt 2a,
-    - **c)** pkt 3 otrzymuje brzmienie: „3) przekazywania do dyrektora oddziału terenowego Agencji, właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, w terminie do 25. dnia każdego miesiąca, za poprzedni miesiąc:
+    - **c)** pkt 3 otrzymuje brzmienie: „3) przekazywania do dyrektora oddziału terenowego Agencji, właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, w terminie do 25. dnia każdego miesiąca, za poprzedni miesiąc: a) informacji, o których mowa w pkt 2 lit. c tiret pierwsze–tiret trzecie, b) zbiorczych zestawień, które zawierają dane o łącznej ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu, dostarczonego przez poszczególnych dostawców hurtowych od początku danego roku kwotowego w ilości przekraczającej kwoty indywidualne przysługujące na dany dzień roku;”,
     - **d)** w pkt 4 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu dostarczonego podmiotowi skupującemu przez dostawcę hurtowego od początku danego roku kwotowego w ilości przekraczającej kwotę indywidualną przysługującą na dany dzień roku;”,
     - **e)** w pkt 5 w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d,
     - **f)** w pkt 6 w lit. c przecinek zastępuje się kropką i uchyla się lit. d;

@@ -31,8 +31,8 @@ source: pdf
 
 - **1)** w art. 12 § 4 otrzymuje brzmienie: „§ 4. Do orzekania w jednostkach, o których mowa w § 1 pkt 4, wyznacza się sędziów wykazujących szczególną znajomość problematyki spraw pracowniczych, a do orzekania w jednostkach, o których mowa w § 2, także sędziów wykazujących szczególną znajomość celów ubezpieczenia i potrzeb osób ubezpieczonych.”;
 - **2)** w art. 16 § 3 otrzymuje brzmienie: „§ 3. Do orzekania w jednostkach organizacyjnych, o których mowa w § 1 pkt 4 oraz w § 2, wyznacza się sędziów wykazujących szczególną znajomość problematyki spraw pracowniczych oraz celów ubezpieczenia i potrzeb osób ubezpieczonych.”;
-- **3)** w art. 158 : 7) posiada co najmniej wykształcenie średnie.”,
-    - **a)** w § 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 i 7 w brzmieniu: „6) jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków ławnika,
+- **3)** w art. 158 :
+    - **a)** w § 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 i 7 w brzmieniu: „6) jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków ławnika, 7) posiada co najmniej wykształcenie średnie.”,
     - **b)** uchyla się § 2;
 
 - **4)** w art. 159 w § 1 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9 w brzmieniu: „9) radni gminy, której rada dokonuje wyboru ławników.”;

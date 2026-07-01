@@ -35,10 +35,10 @@ source: pdf
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 13c w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 – 10 w brzmieniu: „5) dowodzenie podległymi związkami organizacyjnymi i jednostkami wojskowymi; 6) planowanie oraz realizacja mobilizacyjnego i operacyjnego rozwinięcia podległych związków organizacyjnych i jednostek wojskowych; 7) szkolenie podległych związków organizacyjnych i jednostek wojskowych; 8) wykonywanie zadań związanych z udziałem oddziałów i pododdziałów wojskowych w zwalczaniu klęsk żywiołowych i likwidacji ich skutków, ochrony mienia, akcjach poszukiwawczych oraz ratowania lub ochrony zdrowia i życia ludzkiego, a także w oczyszczaniu terenów z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego oraz ich unieszkodliwianiu, a także w realizacji zadań z zakresu zarządzania kryzysowego; 9) zapewnianie uzupełnienia potrzeb osobowych jednostek wojskowych; 10) współpraca z innymi organami i podmiotami w sprawach związanych z obronnością państwa.”.
-- **2)** w art. 14: 5) zapewniania uzupełnienia potrzeb osobowych jednostek wojskowych oraz innych jednostek wykonujących zadania na rzecz obronności lub bezpieczeństwa państwa;”,
+- **2)** w art. 14:
     - **a)** w ust. 1 uchyla się pkt 1,
     - **b)** uchyla się ust. 2,
-    - **c)** w ust. 3 pkt 4 i 5 otrzymują brzmienie: „4) gromadzenia informacji na potrzeby realizacji przedsięwzięć wykonywanych w ramach obowiązków państwa-gospodarza oraz planowania użycia przydzielonych sił i środków do wsparcia wojsk sojuszniczych;
+    - **c)** w ust. 3 pkt 4 i 5 otrzymują brzmienie: „4) gromadzenia informacji na potrzeby realizacji przedsięwzięć wykonywanych w ramach obowiązków państwa-gospodarza oraz planowania użycia przydzielonych sił i środków do wsparcia wojsk sojuszniczych; 5) zapewniania uzupełnienia potrzeb osobowych jednostek wojskowych oraz innych jednostek wykonujących zadania na rzecz obronności lub bezpieczeństwa państwa;”,
     - **d)** uchyla się ust. 5;
 
 - **3)** w art. 35 ust. 1 otrzymuje brzmienie: „1. Kwalifikację wojskową przeprowadzają wojewodowie przy współudziale szefów wojewódzkich sztabów wojskowych, wojskowych komendantów uzupełnień i starostów, a także wójtów lub burmistrzów (prezydentów miast).”;

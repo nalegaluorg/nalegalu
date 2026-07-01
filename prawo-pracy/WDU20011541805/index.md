@@ -38,9 +38,9 @@ source: pdf
 - **7)** po art. 180 dodaje się art. 180 w brzmieniu: „Art. 180 . § 1. W razie urodzenia martwego dziecka lub zgonu dziecka przed upływem 8 tygodni życia, pracownicy przysługuje urlop macierzyński w wymiarze 8 tygodni po porodzie, nie krócej jednak niż przez okres 7 dni od dnia zgonu dziecka. Pracownicy, która urodziła więcej niż jedno dziecko przy jednym porodzie, przysługuje w takim przypadku urlop macierzyński w wymiarze stosownym do liczby dzieci pozostałych przy życiu. § 2. W razie zgonu dziecka po upływie 8 tygodni życia, pracownica zachowuje prawo do urlopu macierzyńskiego przez okres 7 dni od dnia zgonu dziecka. Przepis § 1 zdanie drugie stosuje się.”;
 - **8)** art. 183 otrzymuje brzmienie: „Art. 183. § 1. Pracownica, która przyjęła dziecko na wychowanie i wystąpiła do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, ma prawo do 16 tygodni urlopu na warunkach urlopu macierzyńskiego, nie dłużej jednak niż do ukończenia przez dziecko 12 miesięcy życia. Przepisy art. 180 § 5 - 7 stosuje się odpowiednio. § 2. Jeżeli pracownica, o której mowa w § 1, przyjęła dziecko w wieku do jednego roku, ma prawo do 8 tygodni urlopu na warunkach urlopu macierzyńskiego. § 3. Przepis § 1 i 2 stosuje się odpowiednio do pracownika.”;
 - **9)** w art. 184 skreśla się wyraz „pracownicy”;
-- **10)** w art. 189 : § 4. Przepisy § 2 i 3 nie dotyczą rodziny zastępczej pełniącej zadania pogotowia rodzinnego.”.
+- **10)** w art. 189 :
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Przepisy art. 180 § 2 i art. 183 § 1 i 2 stosuje się także do pracownicy, która przyjęła dziecko na wychowanie jako rodzina zastępcza. Przepisy art. 180 § 5-7 stosuje się odpowiednio.”,
-    - **b)** po § 2 dodaje się § 3 i 4 w brzmieniu: „§ 3. Przepisy art. 183 § 1 i 2 stosuje się odpowiednio do pracownika.
+    - **b)** po § 2 dodaje się § 3 i 4 w brzmieniu: „§ 3. Przepisy art. 183 § 1 i 2 stosuje się odpowiednio do pracownika. § 4. Przepisy § 2 i 3 nie dotyczą rodziny zastępczej pełniącej zadania pogotowia rodzinnego.”.
 
 **Art. 2.**
 

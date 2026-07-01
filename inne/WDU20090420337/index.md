@@ -40,14 +40,14 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. Nr 169, poz. 1414) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 w ust. 2: 2b) imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu założeń projektu ustawy;”,
-    - **a)** dodaje się pkt 2a i 2b w brzmieniu: „2a) wskazanie organu odpowiedzialnego za opracowanie projektu założeń projektu ustawy;
+- **1)** w art. 3 w ust. 2:
+    - **a)** dodaje się pkt 2a i 2b w brzmieniu: „2a) wskazanie organu odpowiedzialnego za opracowanie projektu założeń projektu ustawy; 2b) imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu założeń projektu ustawy;”,
     - **b)** dodaje się pkt 4a w brzmieniu: „4a) wskazanie organu odpowiedzialnego za przedłożenie projektu ustawy Radzie Ministrów;”;
 
 - **2)** art. 4 otrzymuje brzmienie: „Art. 4. Rada Ministrów, Prezes Rady Ministrów i ministrowie przygotowują swoje programy prac legislacyjnych dotyczące projektów rozporządzeń. Przepisy art. 3 ust. 2 pkt 1, 2, 3, 4 i 5 oraz ust. 3 i 4 stosuje się odpowiednio.”;
-- **3)** w art. 7: 1) w przypadku prac nad projektem ustawy – do organu odpowiedzialnego za opracowanie projektu założeń projektu ustawy, a jeżeli nie opracowywano projektu założeń projektu ustawy – do organu odpowiedzialnego za przedłożenie projektu ustawy Radzie Ministrów; 2) w przypadku prac nad projektem rozporządzenia – do organu odpowiedzialnego za opracowanie projektu rozporządzenia.”, 1) organowi odpowiedzialnemu za opracowanie projektu założeń projektu ustawy, a jeżeli nie opracowywano projektu założeń projektu ustawy – organowi odpowiedzialnemu za przedłożenie projektu ustawy Radzie Ministrów; 2) organowi odpowiedzialnemu za opracowanie projektu rozporządzenia.”.
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Zgłoszenie, o którym mowa w ust. 1, wnosi się na urzędowym formularzu:
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Podmioty, które zgłosiły zainteresowanie pracami nad projektem ustawy lub rozporządzenia, obowiązane są zgłosić zmiany danych podlegających zgłoszeniu w terminie 7 dni od dnia ich wystąpienia odpowiednio:
+- **3)** w art. 7:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zgłoszenie, o którym mowa w ust. 1, wnosi się na urzędowym formularzu: 1) w przypadku prac nad projektem ustawy – do organu odpowiedzialnego za opracowanie projektu założeń projektu ustawy, a jeżeli nie opracowywano projektu założeń projektu ustawy – do organu odpowiedzialnego za przedłożenie projektu ustawy Radzie Ministrów; 2) w przypadku prac nad projektem rozporządzenia – do organu odpowiedzialnego za opracowanie projektu rozporządzenia.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Podmioty, które zgłosiły zainteresowanie pracami nad projektem ustawy lub rozporządzenia, obowiązane są zgłosić zmiany danych podlegających zgłoszeniu w terminie 7 dni od dnia ich wystąpienia odpowiednio: 1) organowi odpowiedzialnemu za opracowanie projektu założeń projektu ustawy, a jeżeli nie opracowywano projektu założeń projektu ustawy – organowi odpowiedzialnemu za przedłożenie projektu ustawy Radzie Ministrów; 2) organowi odpowiedzialnemu za opracowanie projektu rozporządzenia.”.
 
 **Art. 4.** Do projektów ustaw przekazanych do uzgodnień z członkami Rady Ministrów przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

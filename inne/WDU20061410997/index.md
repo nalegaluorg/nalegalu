@@ -33,9 +33,9 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Rada Ministrów, mając na względzie tworzenie jak najlepszych warunków funkcjonowania stref, może, na wniosek ministra właściwego do spraw gospodarki, uzgodniony z ministrem właściwym do spraw rozwoju regionalnego, w drodze rozporządzenia, znieść strefę przed upływem okresu, na jaki została ona ustanowiona, zmienić jej obszar lub połączyć strefy, z tym że łączny obszar wszystkich stref nie może przekroczyć 12 tys. ha.”,
     - **b)** skreśla się ust. 5;
 
-- **2)** w art. 6: 1, z wyłączeniem spółek, w których Skarb Państwa posiada 100% akcji lub udziałów, wykonuje minister właściwy do spraw gospodarki.”;
+- **2)** w art. 6:
     - **a)** dotychczasowa treść otrzymuje oznaczenie ust. 1,
-    - **b)** dodaje się ust. 2 w brzmieniu: „2. Kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz w art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm. ), w odniesieniu do spółek zarządzających specjalnymi strefami ekonomicznymi, o których mowa w ust.
+    - **b)** dodaje się ust. 2 w brzmieniu: „2. Kompetencje ministra właściwego do spraw Skarbu Państwa, określone w art. 2 pkt 5 oraz w art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm. ), w odniesieniu do spółek zarządzających specjalnymi strefami ekonomicznymi, o których mowa w ust. 1, z wyłączeniem spółek, w których Skarb Państwa posiada 100% akcji lub udziałów, wykonuje minister właściwy do spraw gospodarki.”;
 
 - **3)** w art. 16 ust. 6 otrzymuje brzmienie: „6. Do postępowania w sprawie udzielania, cofania i zmiany zezwolenia stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm. ).”;
 - **4)** w art. 20 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zezwolenia, o których mowa w ust. 1, zarządzający wydaje w drodze decyzji.”.

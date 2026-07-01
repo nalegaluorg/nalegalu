@@ -40,14 +40,14 @@ source: pdf
     - **b)** w pkt 4 po wyrazie „pożyczki” dodaje się wyrazy „oraz depozytu nieprawidłowego”,
     - **c)** skreśla się pkt 6;
 
-- **4)** w art. 9: d) na podstawie umowy zawartej między innymi podmiotami niż osoby, o których mowa w lit. c), jeżeli łączna kwota lub wartość pożyczek otrzymanych od tego samego podmiotu nie przekracza w ciągu kolejnych 12 miesięcy 1 000 zł,”, - dodaje się lit. g) w brzmieniu: „g) na rozpoczęcie lub prowadzenie działalności gospodarczej, pod warunkiem udokumentowania, że pieniądze będące przedmiotem pożyczki zostaną przeznaczone na pokrycie wydatków poniesionych na rozpoczęcie lub prowadzenie działalności gospodarczej w ciągu 12 miesięcy od dnia zawarcia umowy albo wykorzystania w tym okresie rzeczy oznaczonych co do gatunku, stanowiących przedmiot pożyczki,”,
-    - **a)** w pkt 10: - lit. c) i d) otrzymują brzmienie: „c) na podstawie umowy zawartej między osobami zaliczonymi do I grupy podatkowej do wysokości kwoty niepodlegającej opodatkowaniu - na zasadach określonych w przepisach o podatku od spadków i darowizn,
+- **4)** w art. 9:
+    - **a)** w pkt 10: - lit. c) i d) otrzymują brzmienie: „c) na podstawie umowy zawartej między osobami zaliczonymi do I grupy podatkowej do wysokości kwoty niepodlegającej opodatkowaniu - na zasadach określonych w przepisach o podatku od spadków i darowizn, d) na podstawie umowy zawartej między innymi podmiotami niż osoby, o których mowa w lit. c), jeżeli łączna kwota lub wartość pożyczek otrzymanych od tego samego podmiotu nie przekracza w ciągu kolejnych 12 miesięcy 1 000 zł,”, - dodaje się lit. g) w brzmieniu: „g) na rozpoczęcie lub prowadzenie działalności gospodarczej, pod warunkiem udokumentowania, że pieniądze będące przedmiotem pożyczki zostaną przeznaczone na pokrycie wydatków poniesionych na rozpoczęcie lub prowadzenie działalności gospodarczej w ciągu 12 miesięcy od dnia zawarcia umowy albo wykorzystania w tym okresie rzeczy oznaczonych co do gatunku, stanowiących przedmiot pożyczki,”,
     - **b)** skreśla się pkt 12,
     - **c)** w pkt 13 w lit. e) po wyrazie „celowych” dodaje się wyrazy „utworzonych w drodze ustawy”;
 
-- **5)** w art. 10: 3b. Notariusze, jako płatnicy podatku, są obowiązani do przekazywania urzędowi skarbowemu właściwemu ze względu na siedzibę płatnika odpisów sporządzanych aktów notarialnych dotyczących czynności cywilnoprawnych stanowiących przedmiot opodatkowania.”;
+- **5)** w art. 10:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy są obowiązani, bez wezwania organu podatkowego, złożyć deklarację w sprawie podatku od czynności cywilnoprawnych oraz obliczyć i wpłacić podatek w terminie 14 dni od dnia powstania obowiązku podatkowego, z wyłączeniem przypadków, gdy podatek jest pobierany przez płatnika.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Płatnicy przekazują pobrany podatek na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika.
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Płatnicy przekazują pobrany podatek na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika. 3b. Notariusze, jako płatnicy podatku, są obowiązani do przekazywania urzędowi skarbowemu właściwemu ze względu na siedzibę płatnika odpisów sporządzanych aktów notarialnych dotyczących czynności cywilnoprawnych stanowiących przedmiot opodatkowania.”;
 
 - **6)** w art. 11 w ust. 1:
     - **a)** w pkt 4 wyraz „handlowym” zastępuje się wyrazem „przedsiębiorców” a kropkę zastępuje się przecinkiem,

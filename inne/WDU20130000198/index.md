@@ -29,9 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2012 r. poz. 657) wprowadza się następujące zmiany:
 
-- **1)** w art. 34a: 1) pomocy publicznej, 2) pomocy de minimis – uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym.”;
+- **1)** w art. 34a:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W ramach programów, o których mowa w ust. 1, Bank Gospodarstwa Krajowego może udzielać pomocy publicznej lub pomocy de minimis.”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki oraz tryb udzielania w ramach programów rządowych, o których mowa w ust. 1, w formie poręczeń lub gwarancji Banku Gospodarstwa Krajowego:
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowe warunki oraz tryb udzielania w ramach programów rządowych, o których mowa w ust. 1, w formie poręczeń lub gwarancji Banku Gospodarstwa Krajowego: 1) pomocy publicznej, 2) pomocy de minimis – uwzględniając konieczność realizacji celów określonych w programach rządowych oraz efektywnego i skutecznego wykorzystania poszczególnych rodzajów pomocy, a także zapewnienia przejrzystości udzielania tej pomocy i jej zgodności z rynkiem wewnętrznym.”;
 
 - **2)** w art. 34b ust. 2 otrzymuje brzmienie: „2. Umowa między ministrem właściwym do spraw finansów publicznych a Bankiem Gospodarstwa Krajowego określi: 1) szczegółowe warunki i tryb udzielania poręczeń i gwarancji; 2) warunki i tryb pobierania opłat prowizyjnych z tytułu udzielonych poręczeń i gwarancji; 3) warunki i terminy przekazywania środków na pokrycie kosztów i wydatków związanych z udzielaniem poręczeń i gwarancji w ramach programów rządowych polegających na udzielaniu przez Bank Gospodarstwa Krajowego pomocy publicznej lub pomocy de minimis, w tym wypłat z tytułu udzielonych poręczeń i gwarancji.”;
 - **3)** w art. 34d:

@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych (Dz. U. Nr 116, poz. 1205, z 2005 r. Nr 183, poz. 1538 oraz z 2006 r. Nr 157, poz. 1119) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: a) oszczędzającego, po spełnieniu warunków określonych w art. 34 ust. 1 pkt 1 albo b) osób uprawnionych, w przypadku śmierci oszczędzającego;”,
-    - **a)** pkt 13 otrzymuje brzmienie: „13) wypłata – wypłatę jednorazową albo wypłatę w ratach środków zgromadzonych na IKE dokonywaną na rzecz:
+- **1)** w art. 2:
+    - **a)** pkt 13 otrzymuje brzmienie: „13) wypłata – wypłatę jednorazową albo wypłatę w ratach środków zgromadzonych na IKE dokonywaną na rzecz: a) oszczędzającego, po spełnieniu warunków określonych w art. 34 ust. 1 pkt 1 albo b) osób uprawnionych, w przypadku śmierci oszczędzającego;”,
     - **b)** pkt 15 otrzymuje brzmienie: „15) zwrot – wycofanie całości środków zgromadzonych na IKE, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;”,
     - **c)** po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) częściowy zwrot – wycofanie części środków zgromadzonych na IKE, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;”;
 
@@ -49,8 +49,8 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Instytucja finansowa lub syndyk, dokonując wypłaty, o której mowa w art. 34 ust. 1 pkt 1 albo w art. 46, jest zobowiązana do sporządzenia i przekazania informacji o dokonaniu wypłaty jednorazowej albo o dokonaniu wypłaty pierwszej raty do naczelnika urzędu skarbowego właściwego dla oszczędzającego w sprawach opodatkowania podatkiem dochodowym od osób fizycznych, w terminie do 7 dnia miesiąca następującego po miesiącu, w którym nastąpiła wypłata.”,
     - **b)** w ust. 3 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) wysokości i daty częściowych zwrotów;”;
 
-- **8)** w art. 34: 1) złożenia przez oszczędzającego wniosku o dokonanie wypłaty; 2) złożenia przez osobę, o której mowa w ust. 1 pkt 2, wniosku o dokonanie wypłaty oraz przedłożenia: a) aktu zgonu oszczędzającego i dokumentu stwierdzającego tożsamość osoby uprawnionej albo b) prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oraz zgodnego oświadczenia wszystkich spadkobierców o sposobie podziału środków zgromadzonych przez oszczędzającego bądź prawomocnego postanowienia sądu o dziale spadku oraz dokumentów stwierdzających tożsamość spadkobierców – chyba że oszczędzający albo osoby uprawnione zażądają wypłaty w terminie późniejszym.”,
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Wypłata może być, w zależności od wniosku oszczędzającego albo osoby uprawnionej, dokonywana jednorazowo albo w ratach. Wypłata jednorazowa, a w przypadku wypłaty w ratach pierwsza rata, powinny być, z wyłączeniem przypadków, o których mowa w art. 14 ust. 1 pkt 1 i 2, dokonane w terminie nie dłuższym niż 14 dni od dnia:
+- **8)** w art. 34:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wypłata może być, w zależności od wniosku oszczędzającego albo osoby uprawnionej, dokonywana jednorazowo albo w ratach. Wypłata jednorazowa, a w przypadku wypłaty w ratach pierwsza rata, powinny być, z wyłączeniem przypadków, o których mowa w art. 14 ust. 1 pkt 1 i 2, dokonane w terminie nie dłuższym niż 14 dni od dnia: 1) złożenia przez oszczędzającego wniosku o dokonanie wypłaty; 2) złożenia przez osobę, o której mowa w ust. 1 pkt 2, wniosku o dokonanie wypłaty oraz przedłożenia: a) aktu zgonu oszczędzającego i dokumentu stwierdzającego tożsamość osoby uprawnionej albo b) prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oraz zgodnego oświadczenia wszystkich spadkobierców o sposobie podziału środków zgromadzonych przez oszczędzającego bądź prawomocnego postanowienia sądu o dziale spadku oraz dokumentów stwierdzających tożsamość spadkobierców – chyba że oszczędzający albo osoby uprawnione zażądają wypłaty w terminie późniejszym.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Oszczędzający, który dokonał wypłaty jednorazowej albo wypłaty pierwszej raty, nie może ponownie założyć IKE.”,
     - **c)** dodaje się ust. 5 w brzmieniu: „5. Oszczędzający nie może dokonywać wpłat na IKE, z którego dokonał wypłaty pierwszej raty.”;
 

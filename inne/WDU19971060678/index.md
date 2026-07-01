@@ -61,9 +61,9 @@ source: pdf
     - **a)** w ust. 1 po zdaniu pierwszym dodaje się zdanie w brzmieniu: "Osoby te wnoszą opłaty odpowiadające kosztom eksploatacji i remontów lokalu mieszkalnego w tym budynku.",
     - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: "3. Członkowie rodzin zmarłych żołnierzy zawodowych oraz emerytów i rencistów wojskowych, którzy nie nabyli prawa do kwatery, wnoszą opłaty, o których mowa w ust. 1, po upływie jednego roku od daty śmierci osoby uprawnionej.";
 
-- **15)** w art. 47: 1) zajmuje lokal mieszkalny w zasobach gminy lub zakładu pracy, jeżeli lokalu tego nie przekaże do dyspozycji gminy lub zakładu pracy, 2) zamieniła zajmowaną kwaterę z osobą nieuprawnioną, 3) skorzystała z uprawnień, o których mowa w art. 28 ust. 3 lub 4.",
+- **15)** w art. 47:
     - **a)** w ust. 2 zdanie ostatnie otrzymuje brzmienie: "Wysokość ekwiwalentu pieniężnego nie może być niższa niż 65% i wyższa niż 80% wartości przysługującej kwatery.",
-    - **b)** ust. 9 otrzymuje brzmienie: "9. Ekwiwalent pieniężny nie przysługuje osobie uprawnionej, która:
+    - **b)** ust. 9 otrzymuje brzmienie: "9. Ekwiwalent pieniężny nie przysługuje osobie uprawnionej, która: 1) zajmuje lokal mieszkalny w zasobach gminy lub zakładu pracy, jeżeli lokalu tego nie przekaże do dyspozycji gminy lub zakładu pracy, 2) zamieniła zajmowaną kwaterę z osobą nieuprawnioną, 3) skorzystała z uprawnień, o których mowa w art. 28 ust. 3 lub 4.",
     - **c)** po ust. 9 dodaje się ust. 10 w brzmieniu: "10. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowe warunki i tryb wypłaty ekwiwalentu pieniężnego w zamian za rezygnację z kwatery.";
 
 - **16)** w art. 53 ust. 1 otrzymuje brzmienie: "1. Zakwaterowanie tymczasowe jest odpłatne. Z opłaty są zwolnieni żołnierze, którzy posiadają członków rodziny w rozumieniu art. 26 ust. 2 i pełnią obowiązki służbowe w miejscowości dalszej niż pobliska. Pozostali żołnierze wnoszą opłaty w wysokości 50% kosztów utrzymania powierzchni użytkowej zajmowanej w danym internacie.";

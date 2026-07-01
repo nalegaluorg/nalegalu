@@ -29,9 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2020 r. poz. 319 i 1578 oraz z 2021 r. poz. 353) wprowadza się następujące zmiany:
 
-- **1)** w art. 10: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
+- **1)** w art. 10:
     - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”,
-    - **b)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
+    - **b)** ust. 4–6 otrzymują brzmienie: „4. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353), zwanej dalej „najniższą emeryturą”;
 
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.
@@ -50,8 +50,8 @@ source: pdf
 **Art. 2.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517) wprowadza się następujące zmiany:
 
 - **1)** w art. 19 w ust. 2 pkt 1 otrzymuje brzmienie: „1) pokrycie – w części lub całości – kosztów zakupu wyrobów medycznych;”;
-- **2)** w art. 19a: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
-    - **a)** ust. 1–3 otrzymują brzmienie: „1. Pomoc pieniężna jednorazowa może być przyznana, jeżeli:
+- **2)** w art. 19a:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Pomoc pieniężna jednorazowa może być przyznana, jeżeli: 1) dochód osoby samotnie gospodarującej nie przekracza kwoty odpowiadającej 290% najniższej emerytury, ogłaszanej przez Prezesa Zakładu Ubezpieczeń Społecznych na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, zwanej dalej „najniższą emeryturą”;
 
 - **2)** dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 220% najniższej emerytury;
 - **3)** dochód osoby samotnie gospodarującej lub dochód na osobę w rodzinie nie przekracza kwoty odpowiadającej 350% najniższej emerytury, w przypadku gdy wnioskodawca pobiera rentę inwalidy wojennego lub wojskowego albo jest osobą całkowicie niezdolną do pracy oraz do samodzielnej egzystencji.

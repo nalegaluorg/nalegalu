@@ -34,9 +34,9 @@ source: pdf
     - **b)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. W razie popełnienia wykroczenia określonego w § 3 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
 
 - **2)** art. 145 otrzymuje brzmienie: „Art. 145. § 1. Kto zanieczyszcza lub zaśmieca obszar kolejowy lub miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec, podlega karze grzywny nie niższej niż 500 złotych. § 2. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne. § 3. W razie popełnienia wykroczenia określonego w § 1 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
-- **3)** w art. 154: § 2b. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
+- **3)** w art. 154:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Kto na nienależący do niego grunt polny wyrzuca kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, podlega karze grzywny nie niższej niż 500 złotych.”,
-    - **b)** po § 2 dodaje się § 2a i 2b w brzmieniu: „§ 2a. Usiłowanie wykroczenia określonego w § 2 oraz podżeganie do niego i pomocnictwo są karalne.
+    - **b)** po § 2 dodaje się § 2a i 2b w brzmieniu: „§ 2a. Usiłowanie wykroczenia określonego w § 2 oraz podżeganie do niego i pomocnictwo są karalne. § 2b. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
 
 - **4)** art. 162 otrzymuje brzmienie: „Art. 162. § 1. Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, albo w inny sposób zaśmieca las, podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych. § 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych. § 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie do niego i pomocnictwo są karalne. § 4. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”.
 
@@ -54,8 +54,8 @@ source: pdf
 
 **Art. 5.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138) wprowadza się następujące zmiany:
 
-- **1)** w art. 47: poz. 1973, z późn. zm. ).”,
-    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r.
+- **1)** w art. 47:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. ).”,
     - **b)** § 4 otrzymuje brzmienie: „§ 4. W szczególnie uzasadnionych okolicznościach, gdy wymierzona nawiązka powodowałaby dla sprawcy uszczerbek dla niezbędnego utrzymania siebie i rodziny lub gdy pokrzywdzony pojednał się ze sprawcą, sąd może ją wymierzyć w wysokości niższej niż wysokość wskazana w § 2 i 3.”;
 
 - **2)** w art. 181 § 1–3 otrzymują brzmienie: „§ 1. Kto powoduje zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 2. Kto, wbrew przepisom obowiązującym na terenie objętym ochroną, niszczy lub uszkadza rośliny, zwierzęta, grzyby lub ich siedliska, lub siedliska przyrodnicze, powodując istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5. § 3. Karze określonej w § 2 podlega także ten, kto niezależnie od miejsca czynu niszczy lub uszkadza rośliny, zwierzęta, grzyby pozostające pod ochroną gatunkową lub ich siedliska, powodując istotną szkodę.”;

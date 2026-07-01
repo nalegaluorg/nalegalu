@@ -78,13 +78,13 @@ source: pdf
 - **11)** w art. 37i skreśla się ust. 4;
 - **12)** tytuł rozdziału 3c otrzymuje brzmienie „Świadczenia przedemerytalne”;
 - **13)** skreśla się art. 37j;
-- **14)** w art. 37k: 1) osiągnął wiek - co najmniej 50 lat kobieta i 55 lat mężczyzna, 2) posiadał okres uprawniający do emerytury - wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, 3) był zatrudniony w pełnym wymiarze czasu pracy w państwowym przedsiębiorstwie gospodarki rolnej przez okres co najmniej 10 lat, 4) zamieszkiwał w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym.”, zdanie pierwsze w ust. 9 w części, w jakiej zawiera zwrot: „w dniu 7 listopada 2001 r.”, uzależniający prawo do świadczenia przedemerytalnego pracowników byłych państwowych przedsiębiorstw gospodarki rolnej od posiadania w tym dniu statusu bezrobotnego - niezgodny z Konstytucją, wyrok TK (Dz.U. z 2005 r. Nr 59, poz. 517). g) ust. 10 otrzymuje brzmienie: „10. Osobom wymienionym w ust. 9 przysługuje świadczenie przedemerytalne w wysokości 120 % zasiłku, o którym mowa w art. 24 ust. 1.”;
+- **14)** w art. 37k:
     - **a)** w ust. 1: - w pkt 1 po wyrazie „emerytury” dodaje się wyrazy „ , wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn”, - pkt 2 otrzymuje brzmienie: „2) do dnia rozwiązania stosunku pracy lub stosunku służbowego z przyczyn dotyczących zakładu pracy, w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy, ukończyła co najmniej 50 lat kobieta i 55 lat mężczyzna oraz osiągnęła okres uprawniający do emerytury wynoszący co najmniej 30 lat dla kobiet i 35 lat dla mężczyzn, lub”, - w pkt 3 po wyrazach „zakładu pracy,” dodaje się wyrazy „w którym była zatrudniona przez okres nie krótszy niż 6 miesięcy,”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Wysokość świadczenia przedemerytalnego wynosi 80% kwoty emerytury określonej w decyzji organu rentowego ustalającej wysokość emerytury w celu ustalenia świadczenia przedemerytalnego, nie mniej jednak niż 120 % i nie więcej niż 200% zasiłku, o którym mowa w art. 24 ust. 1.”,
     - **c)** w ust. 6 wyrazy „odpowiednio określonej w art. 37j ust. 2 i 3” zastępuje się wyrazami „120% zasiłku, o którym mowa w art. 24 ust. 1”,
     - **d)** w ust. 7 skreśla się wyrazy „oraz zasiłku przedemerytalnego”,
     - **e)** skreśla się ust. 8 i 8a,
-    - **f)** ust. 9 otrzymuje brzmienie: „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej przysługuje świadczenie przedemerytalne, jeżeli [w dniu 7 listopada 2001 r.] posiadał status bezrobotnego oraz spełniał łącznie następujące warunki:
+    - **f)** ust. 9 otrzymuje brzmienie: „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej przysługuje świadczenie przedemerytalne, jeżeli [w dniu 7 listopada 2001 r.] posiadał status bezrobotnego oraz spełniał łącznie następujące warunki: 1) osiągnął wiek - co najmniej 50 lat kobieta i 55 lat mężczyzna, 2) posiadał okres uprawniający do emerytury - wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, 3) był zatrudniony w pełnym wymiarze czasu pracy w państwowym przedsiębiorstwie gospodarki rolnej przez okres co najmniej 10 lat, 4) zamieszkiwał w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym.”, zdanie pierwsze w ust. 9 w części, w jakiej zawiera zwrot: „w dniu 7 listopada 2001 r.”, uzależniający prawo do świadczenia przedemerytalnego pracowników byłych państwowych przedsiębiorstw gospodarki rolnej od posiadania w tym dniu statusu bezrobotnego - niezgodny z Konstytucją, wyrok TK (Dz.U. z 2005 r. Nr 59, poz. 517). g) ust. 10 otrzymuje brzmienie: „10. Osobom wymienionym w ust. 9 przysługuje świadczenie przedemerytalne w wysokości 120 % zasiłku, o którym mowa w art. 24 ust. 1.”;
 
 - **15)** w art. 37l:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prawo do świadczenia przedemerytalnego przysługuje osobie, która spełniła warunki do jego nabycia w dniu rejestracji w powiatowym urzędzie pracy. Prawo do świadczenia przedemerytalnego ustala się na wniosek tej osoby.”,
@@ -111,8 +111,8 @@ source: pdf
     - **c)** skreśla się ust. 5;
 
 - **23)** w art. 56 ust. 2a otrzymuje brzmienie: „2a. Koszty poboru składek na Fundusz Pracy obciążają ten fundusz i są zwracane Zakładowi Ubezpieczeń Społecznych w wysokości 0,5 % kwoty składek przekazanych na Fundusz Pracy.”;
-- **24)** w art. 57: 37m ust. 1a,”,
-    - **a)** w ust. 1 pkt 30 otrzymuje brzmienie: „30) zasiłków pogrzebowych wypłaconych osobom, o których mowa w art.
+- **24)** w art. 57:
+    - **a)** w ust. 1 pkt 30 otrzymuje brzmienie: „30) zasiłków pogrzebowych wypłaconych osobom, o których mowa w art. 37m ust. 1a,”,
     - **b)** skreśla się ust. 7;
 
 - **25)** w art. 57a w ust. 3 skreśla się wyrazy „ , a także szczegółowe zasady i terminy sporządzania przez zarządy województw i zarządy powiatów sprawozdań z wykorzystania środków przekazanych z Funduszu Pracy”.

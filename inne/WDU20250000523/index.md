@@ -31,18 +31,18 @@ source: pdf
 
 - **1)** w art. 3b w ust. 4 liczbę „26” zastępuje się liczbą „32”;
 - **2)** w art. 10 w ust. 2 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) prowadzenie ustawicznego doskonalenia lekarzy weterynarii przez organizowanie, współorganizowanie lub certyfikowanie szkoleń i egzaminów szkoleniowych dla lekarzy weterynarii, przy czym realizacja tych działań może się wiązać z częściową lub pełną odpłatnością;”;
-- **3)** w art. 12: 2b. Zastępca rzecznika odpowiedzialności zawodowej pełni funkcję do czasu wyboru nowego zastępcy rzecznika odpowiedzialności zawodowej.”;
+- **3)** w art. 12:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Kadencja organów izb lekarsko-weterynaryjnych trwa 4 lata, przy czym organy te działają do czasu pierwszego posiedzenia nowo wybranych organów.”,
-    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wyboru zastępcy rzecznika odpowiedzialności zawodowej dokonuje się na okres kadencji rzecznika odpowiedzialności zawodowej.
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wyboru zastępcy rzecznika odpowiedzialności zawodowej dokonuje się na okres kadencji rzecznika odpowiedzialności zawodowej. 2b. Zastępca rzecznika odpowiedzialności zawodowej pełni funkcję do czasu wyboru nowego zastępcy rzecznika odpowiedzialności zawodowej.”;
 
 - **4)** w art. 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Organy samorządu mogą podejmować uchwały za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną lub w trybie obiegowym na zasadach określonych przez Krajową Radę Lekarsko-Weterynaryjną.”;
 - **5)** w art. 17:
     - **a)** w ust. 1a: – w pkt 3 po wyrazie „adres” dodaje się wyrazy „oraz adres do doręczeń”, – po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) adres poczty elektronicznej lub numer telefonu lekarza weterynarii, jeżeli takie posiada;”,
     - **b)** w ust. 1b wyrazy „o których mowa w ust. 1a pkt 3, 4, 9 i 10” zastępuje się wyrazami „o których mowa w ust. 1a pkt 3, 3a, 4, 9 i 10”;
 
-- **6)** w art. 18: 1) pkt 1, 4 i 5 – dokonuje się na podstawie uchwały okręgowej rady lekarsko-weterynaryjnej; 2) pkt 2, 3 i 6 – dokonuje się na podstawie decyzji prezesa okręgowej rady lekarsko-weterynaryjnej.”;
+- **6)** w art. 18:
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Skreślenia lekarza weterynarii z rejestru członków okręgowej izby lekarsko-weterynaryjnej dokonuje się w przypadku:”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Skreślenia lekarza weterynarii z rejestru członków okręgowej izby lekarsko-weterynaryjnej z przyczyn, o których mowa w ust. 1:
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Skreślenia lekarza weterynarii z rejestru członków okręgowej izby lekarsko-weterynaryjnej z przyczyn, o których mowa w ust. 1: 1) pkt 1, 4 i 5 – dokonuje się na podstawie uchwały okręgowej rady lekarsko-weterynaryjnej; 2) pkt 2, 3 i 6 – dokonuje się na podstawie decyzji prezesa okręgowej rady lekarsko-weterynaryjnej.”;
 
 - **7)** w art. 26:
     - **a)** ust. 4 otrzymuje brzmienie: „4. W powiatach, w których liczba członków okręgowej izby lekarsko-weterynaryjnej przekracza 50 osób, okręgowa rada lekarsko-weterynaryjna może utworzyć więcej niż jeden rejon wyborczy.”,

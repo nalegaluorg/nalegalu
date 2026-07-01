@@ -48,9 +48,9 @@ source: pdf
     - **a)** w ust. 1 skreśla się pkt 10,
     - **b)** skreśla się ust. 5 i 6;
 
-- **4)** w art. 15: 12 ust. 1 pkt 8 i 9.”,
+- **4)** w art. 15:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Komisarz wyborczy jest pełnomocnikiem Państwowej Komisji Wyborczej wyznaczonym na obszar stanowiący część jednego województwa.”,
-    - **b)** dodaje się ust. 1a w brzmieniu: „1a. Państwowa Komisja Wyborcza określa właściwość terytorialną komisarzy wyborczych oraz właściwość rzeczową w zakresie wykonywania czynności o charakterze ogólnowojewódzkim, z uwzględnieniem zadań związanych z wyborami do sejmiku województwa oraz zadań, o których mowa w art.
+    - **b)** dodaje się ust. 1a w brzmieniu: „1a. Państwowa Komisja Wyborcza określa właściwość terytorialną komisarzy wyborczych oraz właściwość rzeczową w zakresie wykonywania czynności o charakterze ogólnowojewódzkim, z uwzględnieniem zadań związanych z wyborami do sejmiku województwa oraz zadań, o których mowa w art. 12 ust. 1 pkt 8 i 9.”,
     - **c)** w ust. 2 wyrazy „Wojewódzkich komisarzy wyborczych powołuje” zastępuje się wyrazami „Komisarzy wyborczych powołuje się w każdym województwie w liczbie od 2 do 6”,
     - **d)** dodaje się ust. 2a w brzmieniu: „2a. Komisarzem wyborczym może być także sędzia w stanie spoczynku, nie dłużej jednak niż do ukończenia 70 lat.”,
     - **e)** w ust. 4 w zdaniu pierwszym po wyrazie „sędziego” dodaje się przecinek oraz wyrazy „ukończenia 70 lat przez komisarza będącego sędzią w stanie spoczynku”,

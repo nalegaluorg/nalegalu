@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-01T16:08:04Z",
+  "generated_at": "2026-07-01T18:07:27Z",
   "acts": {
     "published": 19250,
     "rejected": 426,
     "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 589613883,
+    "total_body_chars": 589613872,
     "total_articles": 215805,
     "avg_body_chars": 30629,
     "avg_articles": 11.2

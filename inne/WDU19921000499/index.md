@@ -32,8 +32,8 @@ o zmianie ustawy o samorządzie terytorialnym
 - **428)** wprowadza się następujące zmiany:
 - **1)** w art. 4 w ust. 3 po wyrazie "gminie" dodaje się wyrazy "lub miejscowości";
 - **2)** w art. 9 ust. 2 otrzymuje brzmienie: "2. Gmina oraz inna komunalna osoba prawna nie może prowadzić działalności gospodarczej wykraczającej poza zadania o charakterze użyteczności publicznej.";
-- **3)** w art. 18: b) w ust. 3 wyrazy "może powołać" zastępuje się wyrazem "powołuje",
-    - **a)** w ust. 2: - pkt 3 otrzymuje brzmienie: "3) powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu, oraz sekretarza gminy - na wniosek przewodniczącego zarządu,", - w pkt 7 po wyrazie "oraz" dodaje się wyraz "zasad", a wyraz "przekazywanie" zastępuje się wyrazem "przekazywania", - w pkt 9: - lit. a) otrzymuje brzmienie: "a) określania zasad nabycia, zbycia i obciążenia nieruchomości gruntowych oraz ich wydzierżawiania lub najmu na okres dłuższy niż trzy lata, o ile ustawy szczególne nie stanowią inaczej; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady gminy,", - skreśla się lit. b), a dotychczasowe lit. c)-i) otrzymują oznaczenie lit. b)-h),
+- **3)** w art. 18:
+    - **a)** w ust. 2: - pkt 3 otrzymuje brzmienie: "3) powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu, oraz sekretarza gminy - na wniosek przewodniczącego zarządu,", - w pkt 7 po wyrazie "oraz" dodaje się wyraz "zasad", a wyraz "przekazywanie" zastępuje się wyrazem "przekazywania", - w pkt 9: - lit. a) otrzymuje brzmienie: "a) określania zasad nabycia, zbycia i obciążenia nieruchomości gruntowych oraz ich wydzierżawiania lub najmu na okres dłuższy niż trzy lata, o ile ustawy szczególne nie stanowią inaczej; do czasu określenia zasad zarząd może dokonywać tych czynności wyłącznie za zgodą rady gminy,", - skreśla się lit. b), a dotychczasowe lit. c)-i) otrzymują oznaczenie lit. b)-h), b) w ust. 3 wyrazy "może powołać" zastępuje się wyrazem "powołuje",
     - **c)** skreśla się ust. 4;
 
 - **4)** w art. 25 ust. 5 otrzymuje brzmienie: "5. Przepis ust. 4 stosuje się odpowiednio do członków komisji spoza rady gminy.";

@@ -91,14 +91,14 @@ source: pdf
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Po upływie terminu określonego w § 1 wygasa również prawo do złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych oraz możliwość zaliczenia nadpłaty na poczet zaległych oraz bieżących zobowiązań podatkowych.”,
     - **b)** w § 3 skreśla się wyrazy „bieżących lub”;
 
-- **31)** w art. 79: § 2b. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydawania decyzji o stwierdzeniu nadpłaty. § 2c. Jeżeli po dokonaniu zwrotu nadpłaty, w trybie, o którym mowa w § 2b, organ podatkowy albo organ kontroli skarbowej określi zaległość podatkową, odsetki za zwłokę nalicza się tylko do tej części zaległości, która przekracza kwotę zwróconej uprzednio nadpłaty. W tym zakresie nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”;
+- **31)** w art. 79:
     - **a)** w § 1 wyrazy „żądanie stwierdzenia” zastępuje się wyrazami „wniosek o stwierdzenie”,
-    - **b)** po § 2 dodaje się § 2a-2c w brzmieniu: „§ 2a. W przypadkach, o których mowa w § 2 pkt 1 lit. a) i b) oraz w pkt 2, podatnik, płatnik lub inkasent równocześnie z wnioskiem o stwierdzenie nadpłaty składają skorygowane zeznanie (deklarację).
+    - **b)** po § 2 dodaje się § 2a-2c w brzmieniu: „§ 2a. W przypadkach, o których mowa w § 2 pkt 1 lit. a) i b) oraz w pkt 2, podatnik, płatnik lub inkasent równocześnie z wnioskiem o stwierdzenie nadpłaty składają skorygowane zeznanie (deklarację). § 2b. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydawania decyzji o stwierdzeniu nadpłaty. § 2c. Jeżeli po dokonaniu zwrotu nadpłaty, w trybie, o którym mowa w § 2b, organ podatkowy albo organ kontroli skarbowej określi zaległość podatkową, odsetki za zwłokę nalicza się tylko do tej części zaległości, która przekracza kwotę zwróconej uprzednio nadpłaty. W tym zakresie nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”;
 
 - **32)** w art. 80 w § 1 wyrazy „żądania stwierdzenia” zastępuje się wyrazami „złożenia wniosku o stwierdzenie”;
-- **33)** w art. 81: 1) podatnikom, którzy w złożonej deklaracji wykazali zobowiązanie podatkowe w wysokości mniejszej od należnej albo kwotę nadpłaty bądź podatku przypadającego do zwrotu w wysokości większej od należnej, 2) płatnikom lub inkasentom - w przypadkach określonych w art. 79 § 2 pkt 2. § 3. W przypadku skorygowania deklaracji nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”,
+- **33)** w art. 81:
     - **a)** skreśla się § 1,
-    - **b)** § 2 i 3 otrzymują brzmienie: „§ 2. Uprawnienie do skorygowania deklaracji przysługuje:
+    - **b)** § 2 i 3 otrzymują brzmienie: „§ 2. Uprawnienie do skorygowania deklaracji przysługuje: 1) podatnikom, którzy w złożonej deklaracji wykazali zobowiązanie podatkowe w wysokości mniejszej od należnej albo kwotę nadpłaty bądź podatku przypadającego do zwrotu w wysokości większej od należnej, 2) płatnikom lub inkasentom - w przypadkach określonych w art. 79 § 2 pkt 2. § 3. W przypadku skorygowania deklaracji nie stosuje się kar przewidzianych w Kodeksie karnym skarbowym.”,
     - **c)** w § 4 w pkt 1 i 2 po wyrazach „kontroli podatkowej” dodaje się wyrazy „albo skarbowej”,
     - **d)** skreśla się § 5;
 

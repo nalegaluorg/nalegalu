@@ -45,11 +45,11 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r. poz. 1029) wprowadza się następujące zmiany:
 
-- **1)** w art. 21 w ust. 2: b) w pkt 25 lit. d otrzymuje brzmienie: „d) decyzjach potwierdzających spełnienie warunków uznania przedmiotu lub substancji za produkt uboczny albo stwierdzających niespełnienie tych warunków,”;
-    - **a)** w pkt 23: – lit. h otrzymuje brzmienie: „h) strategicznych mapach hałasu, o których mowa w art. 118 ust. 1 tej ustawy,”, – uchyla się lit. o,
+- **1)** w art. 21 w ust. 2:
+    - **a)** w pkt 23: – lit. h otrzymuje brzmienie: „h) strategicznych mapach hałasu, o których mowa w art. 118 ust. 1 tej ustawy,”, – uchyla się lit. o, b) w pkt 25 lit. d otrzymuje brzmienie: „d) decyzjach potwierdzających spełnienie warunków uznania przedmiotu lub substancji za produkt uboczny albo stwierdzających niespełnienie tych warunków,”;
 
-- **2)** w art. 24: h) terenów, o których mowa w art. 118 ust. 7 pkt 3 tej ustawy, i) programów ochrony środowiska przed hałasem, o których mowa w art. 119a ust. 1 tej ustawy,”, – uchyla się lit. m oraz n, b) w ust. 3: – w pkt 2 lit. b otrzymuje brzmienie: „b) ust. 1 pkt 1 lit. g;”, – uchyla się pkt 3, – w pkt 4 wyrazy „lit. h oraz m” zastępuje się wyrazami „lit. g oraz h”, – pkt 6 otrzymuje brzmienie: „6) Główny Inspektor Ochrony Środowiska – w zakresie informacji, o których mowa w ust. 1 pkt 1 lit. a, b, g, h, j, k i l oraz pkt 3.”;
-    - **a)** w ust. 1 w pkt 1: – lit. g–i otrzymują brzmienie: „g) strategicznych map hałasu, o których mowa w art. 118 ust. 1 tej ustawy,
+- **2)** w art. 24:
+    - **a)** w ust. 1 w pkt 1: – lit. g–i otrzymują brzmienie: „g) strategicznych map hałasu, o których mowa w art. 118 ust. 1 tej ustawy, h) terenów, o których mowa w art. 118 ust. 7 pkt 3 tej ustawy, i) programów ochrony środowiska przed hałasem, o których mowa w art. 119a ust. 1 tej ustawy,”, – uchyla się lit. m oraz n, b) w ust. 3: – w pkt 2 lit. b otrzymuje brzmienie: „b) ust. 1 pkt 1 lit. g;”, – uchyla się pkt 3, – w pkt 4 wyrazy „lit. h oraz m” zastępuje się wyrazami „lit. g oraz h”, – pkt 6 otrzymuje brzmienie: „6) Główny Inspektor Ochrony Środowiska – w zakresie informacji, o których mowa w ust. 1 pkt 1 lit. a, b, g, h, j, k i l oraz pkt 3.”;
 
 - **3)** w art. 25 w ust. 1:
     - **a)** w pkt 4 w lit. a: – uchyla się tiret czwarte, – w tiret szóstym wyrazy „w art. 119 ust. 1 tej ustawy” zastępuje się wyrazami „w art. 119a ust. 1 tej ustawy”,

@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz.U. z 2001 r. Nr 49, poz. 508 oraz z 2002 r. Nr 74, poz. 676 i Nr 108, poz. 945) wprowadza się następujące zmiany:
 
-- **1)** w art. 163: 79.”,
-    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Do umowy tej stosuje się odpowiednio przepisy art. 76 oraz art. 78 i
+- **1)** w art. 163:
+    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Do umowy tej stosuje się odpowiednio przepisy art. 76 oraz art. 78 i 79.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Licencjobiorca może udzielić sublicencji na używanie znaku towarowego w zakresie udzielonego mu upoważnienia.”;
 
 - **2)** w art. 296:

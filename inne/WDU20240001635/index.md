@@ -62,16 +62,16 @@ source: pdf
 
 **Art. 13.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473 i 1572) wprowadza się następujące zmiany:
 
-- **1)** w art. 11n w ust. 3: poz. 1635), dołącza się:”,
-    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie grantu OZE, oprócz składanych w przypadku grantu OZE udzielanego jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r.
+- **1)** w art. 11n w ust. 3:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie grantu OZE, oprócz składanych w przypadku grantu OZE udzielanego jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), dołącza się:”,
     - **b)** uchyla się pkt 4;
 
 - **2)** w art. 13:
     - **a)** w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku wniosku o przyznanie premii termomodernizacyjnej wraz z grantem termomodernizacyjnym do wniosku, oprócz składanych w przypadku grantu termomodernizacyjnego udzielanego jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się dokumenty poświadczające:”,
     - **b)** uchyla się ust. 1b;
 
-- **3)** w art. 14: b) uchyla się ust. 1a.
-    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:”, – uchyla się pkt 3,
+- **3)** w art. 14:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:”, – uchyla się pkt 3, b) uchyla się ust. 1a.
 
 **Art. 14.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2024 r. poz. 1004) w art. 4a w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie: „a) udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis albo b) w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
 
@@ -99,8 +99,8 @@ source: pdf
 
 **Art. 23.** W ustawie z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych (Dz. U. z 2023 r. poz. 28) wprowadza się następujące zmiany:
 
-- **1)** w art. 23: o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), dołącza się:”,
-    - **a)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o udzielenie bonifikaty, oprócz składanych w przypadku bonifikaty udzielanej jako pomoc de minimis zaświadczeń, oświadczenia oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r.
+- **1)** w art. 23:
+    - **a)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o udzielenie bonifikaty, oprócz składanych w przypadku bonifikaty udzielanej jako pomoc de minimis zaświadczeń, oświadczenia oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), dołącza się:”,
     - **b)** uchyla się ust. 9,
     - **c)** ust. 10 otrzymuje brzmienie: „10. W przypadku gdy bonifikata jest udzielana jako pomoc de minimis, do wniosku spółdzielni mieszkaniowej o udzielenie bonifikaty dołącza się zaświadczenia, oświadczenia oraz informacje, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, składane przez członków tej spółdzielni, którym przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, w którym jest prowadzona działalność gospodarcza.”;
 
@@ -108,8 +108,8 @@ source: pdf
 
 **Art. 24.** W ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303, 834 i 859) wprowadza się następujące zmiany:
 
-- **1)** w art. 3a: poz. 702 oraz z 2024 r. poz. 1635), albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie;”, – w pkt 2 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 702)”,
-    - **a)** w ust. 7: – pkt 1 otrzymuje brzmienie: „1) wszystkie zaświadczenia o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jakie odbiorca, o którym mowa w ust. 1, otrzymał w okresie wskazanym w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r.
+- **1)** w art. 3a:
+    - **a)** w ust. 7: – pkt 1 otrzymuje brzmienie: „1) wszystkie zaświadczenia o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jakie odbiorca, o którym mowa w ust. 1, otrzymał w okresie wskazanym w art. 37 ust. 1 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635), albo oświadczenia o wielkości tej pomocy otrzymanej w tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy w tym okresie;”, – w pkt 2 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 702)”,
     - **b)** ust. 22 otrzymuje brzmienie: „22. Stosowanie ceny maksymalnej paliw gazowych w przypadku, o którym mowa w ust. 1, stanowi pomoc de minimis w wysokości kwoty należnej, ustalanej zgodnie z wzorem określonym w art. 14a ust. 2, udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”;
 
 - **2)** w art. 14a w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Jeżeli w wyniku zastosowania ceny maksymalnej paliw gazowych w rozliczeniach z odbiorcą, o którym mowa w art. 3a ust. 1, dochodzi do naruszenia warunków dotyczących zakresu i zasad udzielania pomocy de minimis określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis, odbiorca ten jest zobowiązany do zwrotu podmiotowi uprawnionemu kwoty należnej wraz z ustawowymi odsetkami za opóźnienie w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).”.

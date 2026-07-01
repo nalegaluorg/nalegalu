@@ -79,16 +79,16 @@ source: pdf
 **Art. 7.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512 oraz z 2023 r. poz. 2029) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w pkt 6a wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”;
-- **2)** w art. 7a: 3) bezpieczeństwa energetycznego kraju w zakresie bezpieczeństwa dostaw energii;”, – pkt 5 otrzymuje brzmienie: „5) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie energii oraz udział w pracach organów Unii Europejskiej.”;
+- **2)** w art. 7a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Dział energia obejmuje sprawy energii.”,
-    - **b)** w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „2) rynków energii;
+    - **b)** w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „2) rynków energii; 3) bezpieczeństwa energetycznego kraju w zakresie bezpieczeństwa dostaw energii;”, – pkt 5 otrzymuje brzmienie: „5) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie energii oraz udział w pracach organów Unii Europejskiej.”;
 
 - **3)** w art. 9 w ust. 2:
     - **a)** uchyla się pkt 7,
     - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) podejmowania działań sprzyjających wykorzystaniu energetyki rozproszonej w działalności gospodarczej;”;
 
-- **4)** w art. 11a: a) rynków surowców energetycznych i paliw, b) bezpieczeństwa dostaw surowców energetycznych i paliw; 6) rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze; 7) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie surowców energetycznych, paliw oraz rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze, jak również udział w pracach organów Unii Europejskiej; 8) gospodarki wodorowej.”,
-    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Dział gospodarka surowcami energetycznymi obejmuje sprawy:”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–8 w brzmieniu: „5) surowców energetycznych i paliw, w tym:
+- **4)** w art. 11a:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Dział gospodarka surowcami energetycznymi obejmuje sprawy:”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–8 w brzmieniu: „5) surowców energetycznych i paliw, w tym: a) rynków surowców energetycznych i paliw, b) bezpieczeństwa dostaw surowców energetycznych i paliw; 6) rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze; 7) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie surowców energetycznych, paliw oraz rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze, jak również udział w pracach organów Unii Europejskiej; 8) gospodarki wodorowej.”,
     - **b)** w ust. 3 wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”;
 
 - **5)** w art. 13a w ust. 1:
@@ -124,8 +124,8 @@ source: pdf
 
 **Art. 15.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2024 r. poz. 441) wprowadza się następujące zmiany:
 
-- **1)** w art. 8: 1a. Rada Nadzorcza jest zdolna do realizacji swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 10 osób. 1b. W przypadku gdy liczba członków Rady Nadzorczej jest mniejsza niż 15, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 15 osób.”,
-    - **a)** ust. 1–1b otrzymują brzmienie: „1. Rada Nadzorcza składa się z 15 członków, w tym przewodniczącego, powoływanych spośród osób posiadających odpowiednie kwalifikacje.
+- **1)** w art. 8:
+    - **a)** ust. 1–1b otrzymują brzmienie: „1. Rada Nadzorcza składa się z 15 członków, w tym przewodniczącego, powoływanych spośród osób posiadających odpowiednie kwalifikacje. 1a. Rada Nadzorcza jest zdolna do realizacji swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 10 osób. 1b. W przypadku gdy liczba członków Rady Nadzorczej jest mniejsza niż 15, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 15 osób.”,
     - **b)** w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) przedstawiciel ministra właściwego do spraw gospodarki surowcami energetycznymi.”;
 
 - **2)** w art. 12a dodaje się ust. 7 w brzmieniu: „7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi.”.
@@ -251,9 +251,9 @@ source: pdf
 
 **Art. 42.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125) wprowadza się następujące zmiany:
 
-- **1)** w art. 29: 1) wysokość diety przysługującej przewodniczącemu Rady oraz członkom Rady za udział w pracach Rady, biorąc pod uwagę zakres ich obowiązków; 2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego przewodniczącemu Rady oraz członkom Rady w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady oraz sposób obliczania wysokości albo maksymalną kwotę tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
+- **1)** w art. 29:
     - **a)** ust. 4 otrzymuje brzmienie: „4. Przewodniczącemu Rady oraz członkom Rady przysługuje dieta za udział w jej pracach oraz zwrot kosztów podróży i noclegów obejmujący zwrot kosztów przejazdów, dojazdów środkami komunikacji miejscowej, noclegów oraz innych niezbędnych udokumentowanych wydatków. Kwota diety jest ustalana w odniesieniu do przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Prezes Rady Ministrów określi, w drodze rozporządzenia: 1) wysokość diety przysługującej przewodniczącemu Rady oraz członkom Rady za udział w pracach Rady, biorąc pod uwagę zakres ich obowiązków; 2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego przewodniczącemu Rady oraz członkom Rady w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady oraz sposób obliczania wysokości albo maksymalną kwotę tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
 
 - **2)** w art. 30 w ust. 2 wyraz „wynagrodzenia” zastępuje się wyrazem „diet”;
 - **3)** użyte w art. 33a w ust. 2 i w art. 33c w ust. 1 w pkt 1 i 2 oraz w ust. 2, w różnym przypadku, wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw aktywów państwowych”;
@@ -298,9 +298,9 @@ source: pdf
     - **b)** uchyla się ust. 4 i 5;
 
 - **2)** art. 14 otrzymuje brzmienie: „Art. 14. Członkostwo w Zarządzie wygasa w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego.”;
-- **3)** w art. 15: 1) pozbawienia praw publicznych; 2) prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 11. Członkostwo w Radzie wygasa przed upływem kadencji w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego. 12. Minister właściwy do spraw rozwoju regionalnego uzupełnia skład Rady, powołując nowego członka Rady na okres do końca kadencji.”.
+- **3)** w art. 15:
     - **a)** ust. 7 otrzymuje brzmienie: „7. Przepisy art. 13 ust. 1 pkt 1 i 2 stosuje się odpowiednio.”,
-    - **b)** dodaje się ust. 10–12 w brzmieniu: „10. Minister właściwy do spraw rozwoju regionalnego odwołuje członka Rady przed upływem kadencji w przypadku:
+    - **b)** dodaje się ust. 10–12 w brzmieniu: „10. Minister właściwy do spraw rozwoju regionalnego odwołuje członka Rady przed upływem kadencji w przypadku: 1) pozbawienia praw publicznych; 2) prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 11. Członkostwo w Radzie wygasa przed upływem kadencji w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego. 12. Minister właściwy do spraw rozwoju regionalnego uzupełnia skład Rady, powołując nowego członka Rady na okres do końca kadencji.”.
 
 **Art. 48.** W ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405) wprowadza się następujące zmiany:
 
@@ -330,8 +330,8 @@ source: pdf
 - **1)** użyte w art. 7, w art. 8 w ust. 2 we wprowadzeniu do wyliczenia, w ust. 3 we wprowadzeniu do wyliczenia i w ust. 4 we wprowadzeniu do wyliczenia, w art. 9 w ust. 3 w zdaniu drugim, w art. 10 w ust. 1 i 2, w art. 12 w ust. 1 we wprowadzeniu do wyliczenia, w art. 13 w ust. 1, w art. 14 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 19 w ust. 1, 2, w ust. 6 w zdaniu pierwszym i w ust. 7, w art. 21 w ust. 1 w zdaniu pierwszym, w art. 23 w ust. 1 w zdaniu pierwszym, w art. 24, w art. 25 w ust. 1 i 2, w art. 27 w ust. 1 we wprowadzeniu do wyliczenia, w art. 27a w ust. 1 we wprowadzeniu do wyliczenia, w art. 27c we wprowadzeniu do wyliczenia, w art. 28, w art. 28a w ust. 1 i 3, w art. 28b w ust. 4, w art. 28d w ust. 1 i w ust. 2 w zdaniu drugim, w art. 28e w ust. 1 i 6, w art. 30 w ust. 4, w art. 31 w ust. 1 w pkt 2 we wprowadzeniu do wyliczenia, w art. 32 w ust. 1 i 2, w art. 33 w ust. 2, w art. 34 w ust. 6 i 7, w art. 35 w ust. 4 w zdaniu pierwszym i w ust. 7, w art. 41 w ust. 5, w art. 42 w ust. 2 i 4 oraz w art. 46 w ust. 1 w pkt 2, w różnym przypadku, wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
 - **2)** w art. 8 w ust. 2 uchyla się pkt 10;
 - **3)** w art. 19 w ust. 3 skreśla się wyrazy „ , ministra właściwego do spraw wewnętrznych”;
-- **4)** w art. 34: 3. Prezes Rady Ministrów odwołuje Prezesa Agencji, na wniosek ministra właściwego do spraw wewnętrznych.”,
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Agencji powołuje Prezes Rady Ministrów spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru na wniosek ministra właściwego do spraw wewnętrznych.
+- **4)** w art. 34:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Agencji powołuje Prezes Rady Ministrów spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru na wniosek ministra właściwego do spraw wewnętrznych. 3. Prezes Rady Ministrów odwołuje Prezesa Agencji, na wniosek ministra właściwego do spraw wewnętrznych.”,
     - **b)** dodaje się ust. 8 w brzmieniu: „8. W przypadku odwołania Prezesa Agencji lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw wewnętrznych, może powierzyć pełnienie obowiązków Prezesa Agencji, na czas nie dłuższy niż 6 miesięcy, jego zastępcy lub innej osobie.”;
 
 - **5)** w art. 35 w ust. 2 w zdaniu pierwszym, w ust. 3 i 10 wyrazy „Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów” zastępuje się wyrazami „Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw wewnętrznych”;

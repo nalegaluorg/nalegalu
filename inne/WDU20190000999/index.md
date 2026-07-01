@@ -29,10 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 399) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: a) w ust. 7 zdanie drugie otrzymuje brzmienie: „Do kontroli stosuje się przepisy działu IIIA ustawy o świadczeniach.”, 4) nieprowadzenia dokumentacji medycznej.”,”;
-    - **a)** pkt 6 otrzymuje brzmienie: „6) w art. 48:
+- **1)** w art. 6:
+    - **a)** pkt 6 otrzymuje brzmienie: „6) w art. 48: a) w ust. 7 zdanie drugie otrzymuje brzmienie: „Do kontroli stosuje się przepisy działu IIIA ustawy o świadczeniach.”,
     - **b)** w ust. 7a pkt 3 otrzymuje brzmienie: „3) wypisania recepty niezgodnej z uprawnieniami świadczeniobiorcy albo osoby uprawnionej;”;”,
-    - **b)** w pkt 7 w lit. a tiret drugie otrzymuje brzmienie: „– w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) prowadzenia dokumentacji medycznej w sposób niezgodny z przepisami prawa;
+    - **b)** w pkt 7 w lit. a tiret drugie otrzymuje brzmienie: „– w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) prowadzenia dokumentacji medycznej w sposób niezgodny z przepisami prawa; 4) nieprowadzenia dokumentacji medycznej.”,”;
 
 - **2)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Nie pobiera się lub nie dochodzi kar określonych w wystąpieniu pokontrolnym, sporządzonym podstawie art. 64 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, jeżeli ich kwota określona dla danego podmiotu kontrolowanego w dniu sporządzenia wystąpienia pokontrolnego jednorazowo nie przekracza 500 zł. 2. Postępowań w sprawach, o których mowa w ust. 1, nie wszczyna się, a wszczęte umarza.”.
 

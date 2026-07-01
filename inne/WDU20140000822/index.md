@@ -29,9 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356 oraz z 2013 r. poz. 1563) wprowadza się następujące zmiany:
 
-- **1)** w art. 9: a) o zawartości do 4,5% alkoholu oraz piwa, b) o zawartości powyżej 4,5% do 18% alkoholu, z wyjątkiem piwa.”,
+- **1)** w art. 9:
     - **a)** ust. 3a otrzymuje brzmienie: „3a. Zezwolenia, o których mowa w ust. 1 i 2, wydaje się na podstawie wniosku przedsiębiorcy.”,
-    - **b)** w ust. 3b w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) oświadczenie o wartości sprzedaży napojów alkoholowych w ostatnim roku kalendarzowym:
+    - **b)** w ust. 3b w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) oświadczenie o wartości sprzedaży napojów alkoholowych w ostatnim roku kalendarzowym: a) o zawartości do 4,5% alkoholu oraz piwa, b) o zawartości powyżej 4,5% do 18% alkoholu, z wyjątkiem piwa.”,
     - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje dokumentów wymaganych przy składaniu wniosków o wydanie zezwoleń na obrót hurtowy napojami alkoholowymi oraz wzory tych wniosków, mając na względzie zapewnienie sprawnego i prawidłowego przebiegu procedur przy składaniu wniosków.”;
 
 - **2)** w art. 9 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw gospodarki określi wzór wniosku, o którym mowa w ust. 4, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
@@ -55,9 +55,9 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 75ab: o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
+- **1)** w art. 75ab:
     - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację;”,
-    - **b)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r.
+    - **b)** dodaje się ust. 5 w brzmieniu: „5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
 
 - **2)** w art. 80c w ust. 3a skreśla się wyrazy: „(Dz. U. Nr 64, poz. 565, z późn. zm. )”;
 - **3)** w art. 83a po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Minister właściwy do spraw transportu określi wzór wniosku o zmianę danych zawartych w rejestrze przedsiębiorców prowadzących stację kontroli pojazdów oraz wzór wniosku o wykreślenie z rejestru przedsiębiorców prowadzących stację kontroli pojazdów, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
@@ -67,9 +67,9 @@ source: pdf
 **Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 dodaje się ust. 9 w brzmieniu: „9. Minister właściwy do spraw turystyki określi wzór wniosku o wykreślenie z rejestru, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
-- **2)** w art. 7a: o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
+- **2)** w art. 7a:
     - **a)** ust. 2 otrzymuje brzmienie: „2. O zawieszeniu wykonywania działalności organizatora turystyki lub pośrednika turystycznego, przedłużeniu zawieszenia lub wznowieniu jej wykonywania przedsiębiorca jest obowiązany zawiadomić organ prowadzący rejestr w terminie 7 dni od dnia zawieszenia, przedłużenia zawieszenia lub wznowienia wykonywania działalności organizatora turystyki lub pośrednika turystycznego.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw turystyki określi wzór zawiadomienia o zawieszeniu wykonywania oraz wzór zawiadomienia o przedłużeniu zawieszenia wykonywania działalności organizatora turystyki lub pośrednika turystycznego, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r.
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Minister właściwy do spraw turystyki określi wzór zawiadomienia o zawieszeniu wykonywania oraz wzór zawiadomienia o przedłużeniu zawieszenia wykonywania działalności organizatora turystyki lub pośrednika turystycznego, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 
 - **3)** w art. 39 dodaje się ust. 6 w brzmieniu: „6. Minister właściwy do spraw turystyki określi wzór zgłoszenia, o którym mowa w ust. 3, oraz informacji, o której mowa w ust. 4 i 5, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 
@@ -89,9 +89,9 @@ source: pdf
 
 **Art. 11.** W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273) wprowadza się następujące zmiany:
 
-- **1)** w art. 16: o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
+- **1)** w art. 16:
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wpisu do rejestru dokonuje się na wniosek przedsiębiorcy, który powinien zawierać następujące dane:”,
-    - **b)** dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw wewnętrznych określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie, o którym mowa w ust. 2, oraz wzory wniosków o zmianę danych zawartych w rejestrze i o wykreślenie z rejestru, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r.
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw wewnętrznych określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie, o którym mowa w ust. 2, oraz wzory wniosków o zmianę danych zawartych w rejestrze i o wykreślenie z rejestru, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;
 
 - **2)** po art. 16a dodaje się art. 16b w brzmieniu: „Art. 16b. Minister właściwy do spraw wewnętrznych określi wzór zgłoszenia zamiaru rozpoczęcia czasowego świadczenia usług detektywistycznych oraz wzór zgłoszenia zakończenia czasowego świadczenia usług detektywistycznych, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 

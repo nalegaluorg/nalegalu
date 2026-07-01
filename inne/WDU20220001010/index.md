@@ -29,9 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, 583, 655, 682 i 807) wprowadza się następujące zmiany:
 
-- **1)** w art. 206: 1) braku możliwości podjęcia przez doktoranta kształcenia w innej szkole doktorskiej w danej dyscyplinie albo 2) nieuzyskania zgody, o której mowa w ust. 1a – podmiot prowadzący szkołę doktorską, w której zaprzestano kształcenia, pokrywa temu doktorantowi koszty postępowania w sprawie nadania stopnia doktora w trybie eksternistycznym.”;
+- **1)** w art. 206:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przeniesienie doktoranta ze szkoły doktorskiej, w której zaprzestano kształcenia w danej dyscyplinie, do innej szkoły doktorskiej odbywa się za jego zgodą.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku:
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku: 1) braku możliwości podjęcia przez doktoranta kształcenia w innej szkole doktorskiej w danej dyscyplinie albo 2) nieuzyskania zgody, o której mowa w ust. 1a – podmiot prowadzący szkołę doktorską, w której zaprzestano kształcenia, pokrywa temu doktorantowi koszty postępowania w sprawie nadania stopnia doktora w trybie eksternistycznym.”;
 
 - **2)** w art. 221 po ust. 12 dodaje się ust. 12a i 12b w brzmieniu: „12a. W przypadku utraty przez podmiot habilitujący uprawnienia do nadawania stopnia doktora habilitowanego w danej dyscyplinie: 1) przed powołaniem komisji habilitacyjnej – postępowanie w sprawie nadania tego stopnia jest prowadzone przez podmiot wyznaczony przez RDN; 2) po powołaniu komisji habilitacyjnej – komisja ta kontynuuje czynności, o których mowa w ust. 8–11. 12b. W przypadku, o którym mowa w ust. 12a pkt 2, podmiot habilitujący, który utracił uprawnienie do nadawania stopnia doktora habilitowanego w danej dyscyplinie, przekazuje podmiotowi habilitującemu wyznaczonemu przez RDN dokumentację postępowania w sprawie nadania stopnia doktora habilitowanego, w tym uchwałę komisji habilitacyjnej podjętą zgodnie z ust. 10 wraz z uzasadnieniem. Do podmiotu wyznaczonego przez RDN przepis ust. 12 stosuje się.”;
 - **3)** w art. 431:

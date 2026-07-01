@@ -39,8 +39,8 @@ source: pdf
 
 - **3)** w art. 23 § 3 otrzymuje brzmienie: „§ 3. Statek morski stanowiący polską własność, używany wyłącznie do celów sportowych lub rekreacyjnych, o długości kadłuba do 24 m, podlega obowiązkowi wpisu do polskiego rejestru jachtów prowadzonego przez związek sportowy, o którym mowa w art. 10 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz.U. z 2001 r. Nr 81 poz. 889, Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752 oraz z 2003 r. Nr 203, poz. 1966).”;
 - **4)** w art. 26 § 2 otrzymuje brzmienie: „§ 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób i tryb prowadzenia polskiego rejestru jachtów, wzór dokumentu rejestracyjnego i wysokość opłat rejestrowych, z uwzględnieniem odpowiednio przepisów art. 29 ustawy i zasady proporcjonalności opłat.”;
-- **5)** w art. 33: Grzywny nieuiszczone mogą być umorzone w całości lub części w przypadku dokonania zgłoszenia przez obowiązanego.”,
-    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie niezgłoszenia statku lub okoliczności podlegających wpisowi do rejestru okrętowego izba morska może, w drodze postanowienia, nałożyć na obowiązanego do zgłoszenia karę grzywny w wysokości od 500 do 10 000 PLN w celu spowodowania zgłoszenia.
+- **5)** w art. 33:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie niezgłoszenia statku lub okoliczności podlegających wpisowi do rejestru okrętowego izba morska może, w drodze postanowienia, nałożyć na obowiązanego do zgłoszenia karę grzywny w wysokości od 500 do 10 000 PLN w celu spowodowania zgłoszenia. Grzywny nieuiszczone mogą być umorzone w całości lub części w przypadku dokonania zgłoszenia przez obowiązanego.”,
     - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Na postanowienie o nałożeniu kary grzywny, o której mowa w § 2, przysługuje zażalenie.”;
 
 - **6)** w art. 37 w § 2 dodaje się zdanie drugie w brzmieniu: „W razie niezwrócenia certyfikatu okrętowego stosuje się art. 33 § 2 i § 2a.”;

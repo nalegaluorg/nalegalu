@@ -33,8 +33,8 @@ source: pdf
     - **a)** po pkt 18b dodaje się pkt 18c w brzmieniu: „18c) rybołówstwo;”,
     - **b)** po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) sprawy rodziny;”;
 
-- **2)** w art. 6: b) ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Głównym Geodetą Kraju, Krajową Komisją Uwłaszczeniową oraz, na podstawie kryterium zgodności z prawem, nad działalnością regionalnych izb obrachunkowych.”;
-    - **a)** w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) geodezji i kartografii;”, – uchyla się pkt 5,
+- **2)** w art. 6:
+    - **a)** w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) geodezji i kartografii;”, – uchyla się pkt 5, b) ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Głównym Geodetą Kraju, Krajową Komisją Uwłaszczeniową oraz, na podstawie kryterium zgodności z prawem, nad działalnością regionalnych izb obrachunkowych.”;
 
 - **3)** w art. 9a:
     - **a)** w ust. 1 uchyla się pkt 2,

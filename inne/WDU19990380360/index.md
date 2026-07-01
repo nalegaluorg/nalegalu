@@ -30,9 +30,9 @@ source: pdf
 **Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz.U. Nr 155, poz. 1016) wprowadza się następujące zmiany:
 
 - **1)** art. 3 otrzymuje brzmienie: „Art. 3. Zbrodniami przeciwko ludzkości są w szczególności zbrodnie ludobójstwa w rozumieniu Konwencji w sprawie zapobiegania i karania zbrodni ludobójstwa, przyjętej w dniu 9 grudnia 1948 r. (Dz.U. z 1952 r. Nr 2, poz. 9 i 10 i Nr 31, poz. 213 oraz z 1998 r. Nr 33, poz. 177), a także inne poważne prześladowania z powodu przynależności osób prześladowanych do określonej grupy narodowościowej, politycznej, społecznej, rasowej lub religijnej, jeżeli były dokonywane przez funkcjonariuszy publicznych albo przez nich inspirowane lub tolerowane.”;
-- **2)** w art. 4: Przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.”;
+- **2)** w art. 4:
     - **a)** dodaje się nowy ust. 1 w brzmieniu: „1. Zbrodnie, o których mowa w art. 1 pkt 1 lit. a), stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, nie ulegają przedawnieniu.”,
-    - **b)** dotychczasowy ust. 1 oznacza się jako ust. 1a w brzmieniu: „1a. Bieg terminu przedawnienia zbrodni komunistycznych, w rozumieniu art. 2, nie będących zbrodniami wojennymi lub zbrodniami przeciwko ludzkości, rozpoczyna się od dnia 1 stycznia 1990 r. Karalność tych zbrodni ustaje po 30 latach, gdy czyn stanowi zbrodnię zabójstwa, oraz po 20 latach, gdy czyn stanowi inną zbrodnię komunistyczną.
+    - **b)** dotychczasowy ust. 1 oznacza się jako ust. 1a w brzmieniu: „1a. Bieg terminu przedawnienia zbrodni komunistycznych, w rozumieniu art. 2, nie będących zbrodniami wojennymi lub zbrodniami przeciwko ludzkości, rozpoczyna się od dnia 1 stycznia 1990 r. Karalność tych zbrodni ustaje po 30 latach, gdy czyn stanowi zbrodnię zabójstwa, oraz po 20 latach, gdy czyn stanowi inną zbrodnię komunistyczną. Przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.”;
 
 - **3)** w art. 8 w ust. 3 po wyrazach „Organizację Instytutu Pamięci” dodaje się wyrazy „ ,w zakresie nie uregulowanym ustawą,”;
 - **4)** w art. 9 w ust. 2 wyraz „administracji” zastępuje się wyrazem „władzy”;

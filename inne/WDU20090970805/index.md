@@ -34,9 +34,9 @@ source: pdf
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W skład rady pracowników wchodzi u pracodawcy zatrudniającego, z zastrzeżeniem art. 5 ust. 2 pkt 1:”,
     - **b)** uchyla się ust. 2-4;
 
-- **3)** w art. 4: 1) do 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 10 pracowników; 2) powyżej 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 20 pracowników.”,
+- **3)** w art. 4:
     - **a)** uchyla się ust. 1-3,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Członków rady pracowników u pracodawcy zatrudniającego:
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Członków rady pracowników u pracodawcy zatrudniającego: 1) do 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 10 pracowników; 2) powyżej 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 20 pracowników.”,
     - **c)** uchyla się ust. 5 i 6;
 
 - **4)** w art. 5 w ust. 1:

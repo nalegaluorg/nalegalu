@@ -291,12 +291,12 @@ source: pdf
     - **a)** w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „6) zakup lokalu mieszkalnego albo budynku mieszkalnego o podobnych parametrach, jeżeli remont lub odtworzenie lokalu mieszkalnego albo budynku mieszkalnego zniszczonego w wyniku powodzi jest niemożliwe albo nieuzasadnione ze względu na zagrożenie powodzią,”,
     - **b)** w ust. 2 po wyrazach „na budowę” dodaje się wyrazy „lub zakup”;
 
-- **4)** w art. 4 w ust. 1 w pkt 2: b) w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
-    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:”
+- **4)** w art. 4 w ust. 1 w pkt 2:
+    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:” b) w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
 
-- **5)** w art. 5: 2 pkt 4, dopłatą może być objęte oprocentowanie części kredytu w kwocie odpowiadającej temu iloczynowi.”;
+- **5)** w art. 5:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) kwota kredytu nie przekracza odpowiednio ceny nabycia albo wartości kosztorysowej przedsięwzięcia, o którym mowa w art. 3 ust. 1 i 2.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli cena nabycia lokalu mieszkalnego albo budynku mieszkalnego, lub też wartość kosztorysowa remontu lub odtworzenia budynku mieszkalnego, przekracza iloczyn powierzchni użytkowej uszkodzonego lub zniszczonego lokalu lub budynku i ostatnio ustalonego przez wojewodę wskaźnika przeliczeniowego 1 m powierzchni użytkowej budynku mieszkalnego, o którym mowa w ustawie wymienionej w art.
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Jeżeli cena nabycia lokalu mieszkalnego albo budynku mieszkalnego, lub też wartość kosztorysowa remontu lub odtworzenia budynku mieszkalnego, przekracza iloczyn powierzchni użytkowej uszkodzonego lub zniszczonego lokalu lub budynku i ostatnio ustalonego przez wojewodę wskaźnika przeliczeniowego 1 m powierzchni użytkowej budynku mieszkalnego, o którym mowa w ustawie wymienionej w art. 2 pkt 4, dopłatą może być objęte oprocentowanie części kredytu w kwocie odpowiadającej temu iloczynowi.”;
 
 - **6)** w art. 6 dodaje się ust. 5 w brzmieniu: „5. Przepis ust. 4 stosuje się odpowiednio w przypadku kredytu na zakup lokalu mieszkalnego albo budynku mieszkalnego, o którym mowa w art. 3 ust. 1 pkt 6.”.
 

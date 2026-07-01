@@ -46,9 +46,9 @@ source: pdf
     - **a)** w lit. a) w drugim tiret, pkt 2 otrzymuje brzmienie: „2) osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, jeżeli ich przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy wyniosły co najmniej równowartość w walucie polskiej 800 000 EURO,”,
     - **b)** w lit. b), w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie mogą stosować zasady rachunkowości określone ustawą również od początku następnego roku obrotowego, jeżeli ich przychody netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy są niższe niż równowartość w walucie polskiej 800 000 EURO.”;
 
-- **2)** w pkt 2 w lit d): 5.”;
+- **2)** w pkt 2 w lit d):
     - **a)** w zdaniu wstępnym wyrazy „ust. 4 i 5” zastępuje się wyrazami „ust. 4-6”,
-    - **b)** dodaje się ust. 6 w brzmieniu: „6. W przypadku, gdy roczne sprawozdanie finansowe korzystającego nie podlega obowiązkowi badania i ogłaszania w myśl art. 64 ust. 1, to może on dokonywać kwalifikacji umów, o których mowa w ust. 4, według zasad określonych w przepisach podatkowych i nie stosować ust. 4 i
+    - **b)** dodaje się ust. 6 w brzmieniu: „6. W przypadku, gdy roczne sprawozdanie finansowe korzystającego nie podlega obowiązkowi badania i ogłaszania w myśl art. 64 ust. 1, to może on dokonywać kwalifikacji umów, o których mowa w ust. 4, według zasad określonych w przepisach podatkowych i nie stosować ust. 4 i 5.”;
 
 - **3)** w pkt 11 w lit. a), ust. 3 otrzymuje brzmienie: „3. Można nie zamykać i nie otwierać ksiąg rachunkowych w przypadku przekształcenia spółki osobowej oraz spółki cywilnej w inną spółkę osobową, jak również w przypadku połączenia jednostek, gdy w myśl ustawy rozliczenie przejęcia jednostki następuje metodą łączenia udziałów i nie powoduje powstania nowej jednostki.”.
 

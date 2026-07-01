@@ -43,8 +43,8 @@ source: pdf
     - **a)** ust. 4 otrzymuje brzmienie: „4. Rada podejmuje uchwały bezwzględną większością głosów, w głosowaniu jawnym.”,
     - **b)** ust. 6 otrzymuje brzmienie: „6. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, szczegółowy tryb działania Rady i postępowania przed Radą, mając na względzie potrzebę zapewnienia efektywnego i sprawnego wykonywania przez Radę zadań przewidzianych w ustawach.”;
 
-- **8)** w art. 13: Uzasadnienia i doręczenia zainteresowanemu wymagają także uchwały dotyczące kandydatury, która nie uzyskała oceny uzasadniającej objęcie wnioskiem do Prezydenta Rzeczypospolitej Polskiej. W pozostałych przypadkach uchwały uzasadnia się na wniosek członka Rady, złożony w terminie 7 dni od podjęcia uchwały i doręcza się wnioskodawcy.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W sprawach indywidualnych, w których przysługuje odwołanie, uchwały Rady wymagają uzasadnienia i doręczenia zainteresowanemu.
+- **8)** w art. 13:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W sprawach indywidualnych, w których przysługuje odwołanie, uchwały Rady wymagają uzasadnienia i doręczenia zainteresowanemu. Uzasadnienia i doręczenia zainteresowanemu wymagają także uchwały dotyczące kandydatury, która nie uzyskała oceny uzasadniającej objęcie wnioskiem do Prezydenta Rzeczypospolitej Polskiej. W pozostałych przypadkach uchwały uzasadnia się na wniosek członka Rady, złożony w terminie 7 dni od podjęcia uchwały i doręcza się wnioskodawcy.”,
     - **b)** ust. 6 otrzymuje brzmienie: „6. W zakresie nieuregulowanym do postępowania przed Sądem Najwyższym stosuje się przepisy Kodeksu postępowania cywilnego o skardze kasacyjnej.”.
 
 **Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:

@@ -45,8 +45,8 @@ source: pdf
 
 8. Do zmiany wpisu do ewidencji stosuje się odpowiednio przepisy dotyczące wpisu do ewidencji.”;
 
-- **4)** w art. 19: zm. ), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymogi określone odpowiednio w art. 5 - 11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567, z późn.
+- **4)** w art. 19:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia, że zakład leczniczy dla zwierząt przestał spełniać wymogi określone odpowiednio w art. 5 - 11 lub narusza inne przepisy ustawy albo zostało stwierdzone naruszenie przepisów ustawy z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2002 r. Nr 187, poz. 1567, z późn. zm. ), okręgowa izba lekarsko-weterynaryjna wyznacza termin do usunięcia uchybień, a po jego bezskutecznym upływie może podjąć uchwałę o skreśleniu zakładu z ewidencji.”,
     - **b)** uchyla się ust. 7;
 
 - **5)** w art. 20 uchyla się ust. 2;

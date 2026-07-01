@@ -34,8 +34,8 @@ source: pdf
     - **a)** w pkt 1 skreśla się wyrazy "nieodpłatne lub częściowo odpłatne",
     - **b)** pkt 2 otrzymuje brzmienie: "2) coroczny odpis podstawowy - równowartość dokonanych odpisów na rachunek bankowy Funduszu w wysokości określonej w art. 5, na zasadach określonych w art. 6 ust. 2,";
 
-- **3)** w art. 5: 3b. Rada Ministrów określi, w drodze rozporządzenia, obszary, na których występują szkodliwe uciążliwości dla środowiska.",
-    - **a)** po ust. 3 dodaje się ust. 3a i ust. 3b w brzmieniu: "3a. Wysokość odpisu, o której mowa w ust. 3, może być stosowana na wszystkich pracowników w zakładzie pracy zlokalizowanym na obszarze, na którym występują szkodliwe uciążliwości dla środowiska.
+- **3)** w art. 5:
+    - **a)** po ust. 3 dodaje się ust. 3a i ust. 3b w brzmieniu: "3a. Wysokość odpisu, o której mowa w ust. 3, może być stosowana na wszystkich pracowników w zakładzie pracy zlokalizowanym na obszarze, na którym występują szkodliwe uciążliwości dla środowiska. 3b. Rada Ministrów określi, w drodze rozporządzenia, obszary, na których występują szkodliwe uciążliwości dla środowiska.",
     - **b)** w ust. 5 wyrazy "objętego tą opieką" zastępuje się wyrazami "uprawnionego do tej opieki",
     - **c)** po ust. 8 dodaje się ust. 8a w brzmieniu: "8a. W zakładzie pracy odpisy i zwiększenia, o których mowa w art. 5, 13 i 14, tworzą jeden Fundusz.";
 

@@ -31,8 +31,8 @@ source: pdf
 
 - **1)** w art. 182 § 6 otrzymuje brzmienie: „§ 6. Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 6 – 7, art. 180 § 2 i art. 183 § 1 stosuje się odpowiednio.”;
 - **2)** w art. 182 § 3 otrzymuje brzmienie: „§ 3. Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 183 § 1 i art. 183 stosuje się odpowiednio.”;
-- **3)** w art. 183: 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 5 – 7 i art. 180 § 2 stosuje się odpowiednio.”,
-    - **a)** w § 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art.
+- **3)** w art. 183:
+    - **a)** w § 1 zdanie drugie otrzymuje brzmienie: „Przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 5 – 7 i art. 180 § 2 stosuje się odpowiednio.”,
     - **b)** § 4 otrzymuje brzmienie: „§ 4. Do dodatkowego urlopu na warunkach urlopu macierzyńskiego przepisy art. 45 § 3, art. 47, art. 50 § 5, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 177, art. 180 § 6 – 7, art. 180 § 2, art. 182 § 2 – 5 i art. 183 § 1 stosuje się odpowiednio.”;
 
 - **4)** art. 183 otrzymuje brzmienie: „Art. 183 . Pracodawca dopuszcza pracownika po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego lub dodatkowego urlopu na warunkach urlopu macierzyńskiego do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe, na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu lub na innym stanowisku odpowiadającym jego kwalifikacjom zawodowym, za wynagrodzeniem za pracę, jakie otrzymywałby, gdyby nie korzystał z urlopu.”;

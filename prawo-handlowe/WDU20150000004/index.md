@@ -78,9 +78,9 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 694 : § 3 . Do wniosku złożonego przez pełnomocnika o wpis do Krajowego Rejestru Sądowego spółki, której umowę zawarto przy wykorzystaniu wzorca umowy spółki udostępnionego w systemie teleinformatycznym, nie dołącza się pełnomocnictwa, jednak pełnomocnik powinien powołać się na nie, wskazując jego datę, zakres i okoliczności wymienione w art. 87.”;
+- **1)** w art. 694 :
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Wniosek złożony do sądu rejestrowego drogą elektroniczną powinien być opatrzony bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym Platformy Usług Administracji Publicznej (ePUAP).”;
-    - **b)** § 3 i § 3 otrzymują brzmienie: „§ 3 . Wniosek złożony drogą elektroniczną o wpis do Krajowego Rejestru Sądowego spółki z ograniczoną odpowiedzialnością, której umowa została zawarta przy wykorzystaniu wzorca umowy spółki z ograniczoną odpowiedzialnością udostępnionego w systemie teleinformatycznym, może być także opatrzony innym podpisem elektronicznym, który spełnia wymagania dotyczące podpisu elektronicznego osób zawierających umowę takiej spółki. Przepisu nie stosuje się do wniosku o zmianę i wykreślenie wpisu.
+    - **b)** § 3 i § 3 otrzymują brzmienie: „§ 3 . Wniosek złożony drogą elektroniczną o wpis do Krajowego Rejestru Sądowego spółki z ograniczoną odpowiedzialnością, której umowa została zawarta przy wykorzystaniu wzorca umowy spółki z ograniczoną odpowiedzialnością udostępnionego w systemie teleinformatycznym, może być także opatrzony innym podpisem elektronicznym, który spełnia wymagania dotyczące podpisu elektronicznego osób zawierających umowę takiej spółki. Przepisu nie stosuje się do wniosku o zmianę i wykreślenie wpisu. § 3 . Do wniosku złożonego przez pełnomocnika o wpis do Krajowego Rejestru Sądowego spółki, której umowę zawarto przy wykorzystaniu wzorca umowy spółki udostępnionego w systemie teleinformatycznym, nie dołącza się pełnomocnictwa, jednak pełnomocnik powinien powołać się na nie, wskazując jego datę, zakres i okoliczności wymienione w art. 87.”;
 
 - **2)** w art. 694 § 2 otrzymuje brzmienie: „§ 2. Dokumenty, o których mowa w § 1, składane drogą elektroniczną, powinny być opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu albo podpisem potwierdzonym profilem zaufanym Platformy Usług Administracji Publicznej (ePUAP).”.
 
@@ -98,14 +98,14 @@ source: pdf
     - **c)** ust. 3b otrzymuje brzmienie: „3b. Wniosek o wpis do Rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, złożony drogą elektroniczną i nieopłacony nie wywołuje skutków, jakie ustawa wiąże z wniesieniem pisma do sądu.”,
     - **d)** ust. 7 otrzymuje brzmienie: „7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb złożenia wniosku o wpis do Rejestru spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, oraz składania innych wniosków przez te spółki, mając na względzie potrzebę ułatwienia rejestracji spółek, zapewnienia sprawności postępowania, a także konieczność zabezpieczenia danych zgromadzonych w systemie, w tym danych osobowych.”;
 
-- **3)** w art. 19a: 6. Wniosek dotyczący wyłącznie wpisu wzmianki wskazanej w art. 40 pkt 7 nie podlega opłacie sądowej i opłacie za ogłoszenie w Monitorze Sądowym i Gospodarczym. Postanowienia uwzględniającego taki wniosek nie doręcza się wnioskodawcy.”;
+- **3)** w art. 19a:
     - **a)** uchyla się ust. 1–2a,
-    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. Do wniosku o wpis osób reprezentujących podmiot wpisany do Rejestru, likwidatorów i prokurentów należy dołączyć zgodę tych osób na ich powołanie. Wymogu tego nie stosuje się, jeżeli wniosek o wpis jest podpisany przez osobę, która podlega wpisowi albo która udzieliła pełnomocnictwa do złożenia wniosku o wpis, albo której zgoda jest wyrażona w protokole z posiedzenia organu powołującego daną osobę lub w umowie spółki.
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. Do wniosku o wpis osób reprezentujących podmiot wpisany do Rejestru, likwidatorów i prokurentów należy dołączyć zgodę tych osób na ich powołanie. Wymogu tego nie stosuje się, jeżeli wniosek o wpis jest podpisany przez osobę, która podlega wpisowi albo która udzieliła pełnomocnictwa do złożenia wniosku o wpis, albo której zgoda jest wyrażona w protokole z posiedzenia organu powołującego daną osobę lub w umowie spółki. 6. Wniosek dotyczący wyłącznie wpisu wzmianki wskazanej w art. 40 pkt 7 nie podlega opłacie sądowej i opłacie za ogłoszenie w Monitorze Sądowym i Gospodarczym. Postanowienia uwzględniającego taki wniosek nie doręcza się wnioskodawcy.”;
 
 - **4)** w art. 20a ust. 2 otrzymuje brzmienie: „2. Wniosek o wpis spółki, której umowa została zawarta przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, sąd rejestrowy rozpoznaje w terminie jednego dnia od daty jego wpływu.”;
-- **5)** w art. 40: 8) informację o dniu kończącym rok obrotowy.”.
+- **5)** w art. 40:
     - **a)** pkt 2 otrzymuje brzmienie: „2) wzmiankę o złożeniu sprawozdania finansowego i rocznego skonsolidowanego sprawozdania finansowego grupy kapitałowej, z oznaczeniem dat ich złożenia i roku obrotowego;”,
-    - **b)** dodaje się pkt 7 i 8 w brzmieniu: „7) wzmiankę o braku obowiązku sporządzenia i złożenia sprawozdania finansowego;
+    - **b)** dodaje się pkt 7 i 8 w brzmieniu: „7) wzmiankę o braku obowiązku sporządzenia i złożenia sprawozdania finansowego; 8) informację o dniu kończącym rok obrotowy.”.
 
 **Art. 6.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm. ) wprowadza się następujące zmiany:
 

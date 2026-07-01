@@ -48,8 +48,8 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 4 marca 2005 r. o Krajowym Funduszu Kapitałowym (Dz. U. Nr 57, poz. 491 oraz z 2009 r. Nr 65, poz. 545) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: 2) środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, w szczególności środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. );”,
-    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) dotacje otrzymane z budżetu państwa;
+- **1)** w art. 6:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) dotacje otrzymane z budżetu państwa; 2) środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, w szczególności środki, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. );”,
     - **b)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) odsetki od środków, o których mowa w pkt 1 i 2, zgromadzonych na rachunkach bankowych Krajowego Funduszu Kapitałowego, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej;”;
 
 - **2)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. Obsługę bankową Krajowego Funduszu Kapitałowego prowadzi BGK w przypadku gdy w jego posiadaniu znajdują się akcje Krajowego Funduszu Kapitałowego w liczbie: 1) uprawniającej do wykonywania co najmniej 50 % ogólnej liczby głosów lub 2) stanowiącej co najmniej 50 % kapitału zakładowego.”.

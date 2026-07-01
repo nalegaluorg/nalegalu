@@ -37,8 +37,8 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 26a: 1) 1800 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1125 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 450 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
-    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie:
+- **1)** w art. 26a:
+    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie: 1) 1800 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1125 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 450 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
     - **b)** ust. lb otrzymuje brzmienie: „lb. Kwoty, o których mowa w ust. 1, zwiększa się o 600 zł w przypadku osób niepełnosprawnych, w odniesieniu do których orzeczono chorobę psychiczną, upośledzenie umysłowe, całościowe zaburzenia rozwojowe lub epilepsję oraz niewidomych.”;
 
 - **2)** po art. 68gb dodaje się art. 68gc w brzmieniu: „Art. 68gc. Za okresy od stycznia 2014 r. do marca 2014 r. miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, określone w art. 26a, przysługuje w wysokości i na zasadach obowiązujących w roku 2013.”.
@@ -52,9 +52,9 @@ source: pdf
 **Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 93 ust. 4 otrzymuje brzmienie: „4. Stawka akcyzy na alkohol etylowy wynosi 5704,00 zł od 1 hektolitra alkoholu etylowego 100% vol. zawartego w gotowym wyrobie.”;
-- **2)** w art. 99: 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 141,29 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 280,25 zł za każde 1000 sztuk.”, 2) na tytoń do palenia – 229,32 zł za każdy kilogram.”;
-    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 206,76 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej;
-    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 343,98 zł za każde 1000 sztuk;
+- **2)** w art. 99:
+    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 206,76 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 141,29 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 280,25 zł za każde 1000 sztuk.”,
+    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 343,98 zł za każde 1000 sztuk; 2) na tytoń do palenia – 229,32 zł za każdy kilogram.”;
 
 - **3)** w art. 99a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Za susz tytoniowy uznaje się, bez względu na wilgotność, tytoń, który nie jest połączony z żywą rośliną i nie jest jeszcze wyrobem tytoniowym.”,

@@ -29,9 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2018 r. poz. 2032 i 2529 oraz z 2019 r. poz. 131) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: 2c) prowadzenie rejestrów oświadczeń lustracyjnych, analizę oświadczeń lustracyjnych oraz przygotowywanie postępowań lustracyjnych;”;
+- **1)** w art. 1:
     - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) opracowywanie, publikowanie i udostępnianie inwentarza archiwalnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;”,
-    - **b)** po pkt 2a dodaje się pkt 2b i 2c w brzmieniu: „2b) przygotowywanie i publikowanie katalogów prowadzonych przez Biuro Lustracyjne;
+    - **b)** po pkt 2a dodaje się pkt 2b i 2c w brzmieniu: „2b) przygotowywanie i publikowanie katalogów prowadzonych przez Biuro Lustracyjne; 2c) prowadzenie rejestrów oświadczeń lustracyjnych, analizę oświadczeń lustracyjnych oraz przygotowywanie postępowań lustracyjnych;”;
 
 - **2)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. 1. Instytut Pamięci publikuje na stronie internetowej inwentarz archiwalny zawierający opis całego zasobu na poziomie jednostki archiwalnej w sposób pozwalający na identyfikację zagadnień lub osób, których dotyczą dokumenty. 2. Opis jednostki archiwalnej zawiera: 1) sygnaturę archiwalną; 2) nazwę zespołu (zbioru) archiwalnego lub wytwórcy materiałów archiwalnych; 3) tytuł jednostki archiwalnej identyfikujący rodzaj materiałów archiwalnych ze wskazaniem danych osobowych osób, takich jak: imię, nazwisko, data urodzenia, imię ojca, bądź zagadnień, których dotyczą; 4) formę fizyczną; 5) liczbę tomów; 6) miejsce przechowywania akt. 3. Opis jednostki archiwalnej może być uzupełniony o: 1) nazwę podzespołu archiwalnego; 2) nazwę serii; 3) nazwę podserii; 4) sygnaturę mikrofilmu; 5) sygnatury dawne; 6) regest lub dodatkowe informacje o zawartości jednostki; 7) kryptonim; 8) liczbę kart lub stron; 9) daty skrajne; 10) numer rejestracyjny.”;
 - **3)** uchyla się art. 29a;

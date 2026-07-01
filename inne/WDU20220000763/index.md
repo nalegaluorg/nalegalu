@@ -29,10 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050 oraz z 2021 r. poz. 2469) wprowadza się następujące zmiany:
 
-- **1)** w art. 4: 38) żywica konopi – żywicę i inne produkty konopi zawierające delta-9-tetrahydrokannabinol lub kwas delta-9-tetrahydrokannabinolowy.”;
+- **1)** w art. 4:
     - **a)** pkt 5 otrzymuje brzmienie: „5) konopie włókniste – rośliny z gatunku konopie siewne (Cannabis sativa L.), w których suma zawartości delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego) w kwiatowych lub owocujących wierzchołkach roślin, z których nie usunięto żywicy, nie przekracza 0,3% w przeliczeniu na suchą masę; suma ta podlega zaokrągleniu do jednego miejsca po przecinku;”,
     - **b)** po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) RFID – technologię zdalnego nadzoru roślin (Radio-frequency identification), która wykorzystuje fale radiowe do odczytu i przesyłania danych zawartych na etykiecie naniesionej na każdą z uprawianych roślin, umożliwiając identyfikację każdej z roślin znajdujących się w polu odczytu;”,
-    - **c)** pkt 37 i 38 otrzymują brzmienie: „37) ziele konopi innych niż włókniste – każdą naziemną część rośliny konopi (pojedynczą lub w mieszaninie), z wyłączeniem nasion, zawierającą powyżej 0,3% sumy delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego); suma ta podlega zaokrągleniu do jednego miejsca po przecinku;
+    - **c)** pkt 37 i 38 otrzymują brzmienie: „37) ziele konopi innych niż włókniste – każdą naziemną część rośliny konopi (pojedynczą lub w mieszaninie), z wyłączeniem nasion, zawierającą powyżej 0,3% sumy delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego); suma ta podlega zaokrągleniu do jednego miejsca po przecinku; 38) żywica konopi – żywicę i inne produkty konopi zawierające delta-9-tetrahydrokannabinol lub kwas delta-9-tetrahydrokannabinolowy.”;
 
 - **2)** w art. 36 ust. 1 otrzymuje brzmienie: „1. Zbiór mleczka makowego i opium z maku oraz ziela lub żywicy konopi innych niż włókniste jest dozwolony wyłącznie w celu prowadzenia badań naukowych, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego, z zastrzeżeniem art. 49a.”;
 - **3)** w art. 39:

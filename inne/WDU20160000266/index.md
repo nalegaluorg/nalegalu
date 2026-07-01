@@ -30,8 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2015 r. poz. 812, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 7a dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw energii sprawuje nadzór nad Prezesem Wyższego Urzędu Górniczego.”;
-- **2)** w art. 11a: 1) prowadzenia, w porozumieniu z ministrem właściwym do spraw środowiska, racjonalnej gospodarki złożami węglowodorów, węgla brunatnego, węgla kamiennego, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, w obszarze objętym wydobyciem; 2) uzgadniania koncesji na wydobywanie udzielanych przez ministra właściwego do spraw środowiska, w zakresie kopalin objętych własnością górniczą Skarbu Państwa; 3) współpracy w nadzorze nad wydobywaniem kopalin, o których mowa w pkt 1; 4) kwalifikacji w zakresie górnictwa.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Dział gospodarka złożami kopalin obejmuje sprawy:
+- **2)** w art. 11a:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Dział gospodarka złożami kopalin obejmuje sprawy: 1) prowadzenia, w porozumieniu z ministrem właściwym do spraw środowiska, racjonalnej gospodarki złożami węglowodorów, węgla brunatnego, węgla kamiennego, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, w obszarze objętym wydobyciem; 2) uzgadniania koncesji na wydobywanie udzielanych przez ministra właściwego do spraw środowiska, w zakresie kopalin objętych własnością górniczą Skarbu Państwa; 3) współpracy w nadzorze nad wydobywaniem kopalin, o których mowa w pkt 1; 4) kwalifikacji w zakresie górnictwa.”,
     - **b)** uchyla się ust. 2.
 
 **Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014 oraz z 2015 r. poz. 1642) wprowadza się następujące zmiany:

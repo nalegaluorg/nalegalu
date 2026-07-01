@@ -32,10 +32,10 @@ source: pdf
 - **1)** w art. 7 ust. 7 otrzymuje brzmienie: „7. Dla leków oraz środków spożywczych specjalnego przeznaczenia żywieniowego, wydawanych w trybie, o którym mowa w art. 39 ust. 1, ustala się marżę hurtową w wysokości 10%. Marża detaliczna wynosi 100% wartości urzędowej marży detalicznej ustalonej w ust. 4 dla danego przedziału ceny hurtowej.”;
 - **2)** w art. 40 w ust. 1 część wspólna otrzymuje brzmienie: „– decyzję administracyjną o objęciu refundacją leku przy danych klinicznych, w zakresie wskazań do stosowania lub dawkowania, lub sposobu podawania odmiennych niż określone w Charakterystyce Produktu Leczniczego w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.”;
 - **3)** w art. 41 w ust. 6 pkt 1 otrzymuje brzmienie: „1) uniemożliwiania czynności kontrolnych;”;
-- **4)** w art. 47: 42 ust. 6 i 7 stosuje się odpowiednio. 17. Wniesienie zażalenia lub odwołania wstrzymuje wykonanie zaleceń pokontrolnych.”;
+- **4)** w art. 47:
     - **a)** w ust. 14 uchyla się zdanie czwarte,
     - **b)** ust. 15 otrzymuje brzmienie: „15. Na podstawie ustaleń zawartych w protokole kontroli oddział wojewódzki Funduszu wydaje zalecenia pokontrolne, zobowiązujące kierownika apteki oraz podmiot prowadzący aptekę do usunięcia, w określonym terminie, stwierdzonych uchybień oraz do złożenia, w terminie 14 dni od dnia doręczenia zaleceń pokontrolnych, informacji o podjętych działaniach. Od zaleceń pokontrolnych przysługuje kierownikowi apteki lub podmiotowi prowadzącemu aptekę zażalenie do dyrektora oddziału wojewódzkiego Funduszu. Zażalenie wnosi się w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych. Dyrektor oddziału wojewódzkiego Funduszu rozpatruje zażalenie w terminie 14 dni od dnia jego otrzymania i w przypadku jego uwzględnienia zmienia zalecenia pokontrolne.”,
-    - **c)** dodaje się ust. 16 i 17 w brzmieniu: „16. W przypadku nieuwzględnienia zażalenia, o którym mowa w ust. 15, w części lub w całości, kierownikowi apteki lub podmiotowi prowadzącemu aptekę przysługuje odwołanie do Prezesa Funduszu. Przepisy art.
+    - **c)** dodaje się ust. 16 i 17 w brzmieniu: „16. W przypadku nieuwzględnienia zażalenia, o którym mowa w ust. 15, w części lub w całości, kierownikowi apteki lub podmiotowi prowadzącemu aptekę przysługuje odwołanie do Prezesa Funduszu. Przepisy art. 42 ust. 6 i 7 stosuje się odpowiednio. 17. Wniesienie zażalenia lub odwołania wstrzymuje wykonanie zaleceń pokontrolnych.”;
 
 - **5)** w art. 48:
     - **a)** uchyla się ust. 8 i 9,

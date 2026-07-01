@@ -43,9 +43,9 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233) wprowadza się następujące zmiany:
 
-- **1)** w art. 210: 1) uwzględni potrzebę stworzenia bazy informacyjnej dla planowania, odbudowy, przebudowy oraz utrzymania urządzeń melioracji wodnych; 2) uwzględni zasadę interoperacyjności, o której mowa w art. 7 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, a także potrzebę harmonizacji zbiorów danych ewidencji melioracji wodnych z innymi zbiorami danych tworzącymi infrastrukturę informacji przestrzennej; 3) kieruje się zasięgiem wpływu poszczególnych rodzajów urządzeń melioracji wodnych na poprawę zdolności produkcyjnej gleby.”;
+- **1)** w art. 210:
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, sposób:”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej:
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej: 1) uwzględni potrzebę stworzenia bazy informacyjnej dla planowania, odbudowy, przebudowy oraz utrzymania urządzeń melioracji wodnych; 2) uwzględni zasadę interoperacyjności, o której mowa w art. 7 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, a także potrzebę harmonizacji zbiorów danych ewidencji melioracji wodnych z innymi zbiorami danych tworzącymi infrastrukturę informacji przestrzennej; 3) kieruje się zasięgiem wpływu poszczególnych rodzajów urządzeń melioracji wodnych na poprawę zdolności produkcyjnej gleby.”;
 
 - **2)** w art. 552:
     - **a)** ust. 3 otrzymuje brzmienie: „3. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2023 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).”,

@@ -52,9 +52,7 @@ o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych usta
 
 **Art. 4.** W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz.U. z 2005 r. Nr 85, poz. 728) w art. 3:
 
-1) za używanie odbiornika radiofonicznego - 5,94 zł; 2) za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego - 18,68 zł.”;
-
-- **a)** ust. 1 otrzymuje brzmienie: „1. Wysokość miesięcznej opłaty abonamentowej w danym roku kalendarzowym wynosi:
+- **a)** ust. 1 otrzymuje brzmienie: „1. Wysokość miesięcznej opłaty abonamentowej w danym roku kalendarzowym wynosi: 1) za używanie odbiornika radiofonicznego - 5,94 zł; 2) za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego - 18,68 zł.”;
 - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu:
 
 836. tn1 3 „1a. Kwoty, o których mowa w ust. 1, są waloryzowane w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.”.

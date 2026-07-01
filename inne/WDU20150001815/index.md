@@ -34,9 +34,9 @@ source: pdf
     - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) spółce gminnej – należy przez to rozumieć spółkę z ograniczoną odpowiedzialnością lub spółkę akcyjną, w której gmina lub gminy dysponują odpowiednio ponad 50% głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, niedziałającą w formie towarzystwa budownictwa społecznego;”,
     - **c)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) byłych mieszkaniach zakładowych – należy przez to rozumieć mieszkania stanowiące przed dniem 7 lutego 2001 r. własność przedsiębiorstw państwowych i spółek handlowych, w których Skarb Państwa był podmiotem dominującym w rozumieniu przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;”;
 
-- **2)** w art. 3 w ust. 1: 2) remoncie lub przebudowie budynku będącego własnością gminy lub spółki gminnej przeznaczonego na pobyt ludzi albo części takiego budynku, 3) zmianie sposobu użytkowania budynku będącego własnością gminy lub spółki gminnej albo części takiego budynku, wymagającej dokonania remontu lub przebudowy,”;
+- **2)** w art. 3 w ust. 1:
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Finansowego wsparcia udziela się gminie lub spółce gminnej na pokrycie części kosztów przedsięwzięcia polegającego na:”,
-    - **b)** pkt 1–3 otrzymują brzmienie: „1) budowie, w tym rozbudowie lub nadbudowie, budynku na nieruchomości stanowiącej własność lub będącej w użytkowaniu wieczystym gminy lub spółki gminnej,
+    - **b)** pkt 1–3 otrzymują brzmienie: „1) budowie, w tym rozbudowie lub nadbudowie, budynku na nieruchomości stanowiącej własność lub będącej w użytkowaniu wieczystym gminy lub spółki gminnej, 2) remoncie lub przebudowie budynku będącego własnością gminy lub spółki gminnej przeznaczonego na pobyt ludzi albo części takiego budynku, 3) zmianie sposobu użytkowania budynku będącego własnością gminy lub spółki gminnej albo części takiego budynku, wymagającej dokonania remontu lub przebudowy,”;
 
 - **3)** w art. 6a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Finansowego wsparcia, o którym mowa w art. 3 ust. 1, udziela się również gminie lub spółce gminnej na tworzenie lokali wchodzących w skład mieszkaniowego zasobu gminy niestanowiących lokali socjalnych.”,

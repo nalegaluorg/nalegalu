@@ -49,14 +49,14 @@ source: pdf
     - **b)** ust. 4 otrzymuje brzmienie: „4. Do wniosku o wpis podmiotu do Rejestru, wniosku dotyczącego zmiany umowy lub statutu podmiotu wpisanego do Rejestru, działającego na podstawie umowy lub statutu, dołącza się także tekst jednolity umowy lub statutu, z uwzględnieniem wprowadzonych zmian. Do tekstu jednolitego nie stosuje się przepisów o formie czynności prawnych.”,
     - **c)** po ust. 4 dodaje się ust. 5 w brzmieniu: „5. Jeżeli wnioski i dokumenty zostały złożone drogą elektroniczną, w aktach rejestrowych przechowuje się wydruk tych wniosków i dokumentów wraz ze wskazaniem osób, które je podpisały.”;
 
-- **6)** w art. 10: Przepisy ust. 3-4 stosuje się odpowiednio.”;
+- **6)** w art. 10:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Każdy ma prawo przeglądania akt rejestrowych podmiotów wpisanych do Rejestru, chyba że ustawa stanowi inaczej.”,
     - **b)** uchyla się ust. 2,
-    - **c)** dodaje się ust. 6 w brzmieniu: „6. Sąd, w którym są przechowywane akta rejestrowe podmiotu, wydaje w formie papierowej poświadczone kopie dokumentów złożonych do akt.
+    - **c)** dodaje się ust. 6 w brzmieniu: „6. Sąd, w którym są przechowywane akta rejestrowe podmiotu, wydaje w formie papierowej poświadczone kopie dokumentów złożonych do akt. Przepisy ust. 3-4 stosuje się odpowiednio.”;
 
-- **7)** w art. 19: 5. Urzędowe formularze są udostępniane w siedzibach sądów oraz na stronie internetowej Ministerstwa Sprawiedliwości.”;
+- **7)** w art. 19:
     - **a)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Wnioski składane drogą elektroniczną powinny być opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu.”,
-    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. W razie zwrócenia wniosku zgodnie z ust. 3 może on być ponownie złożony w terminie 7 dni od daty doręczenia zarządzenia o zwrocie. Jeżeli wniosek ponownie złożony nie jest dotknięty brakami, wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu wniosku, chyba że zwrot nastąpił na skutek braków uprzednio niewskazanych.
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. W razie zwrócenia wniosku zgodnie z ust. 3 może on być ponownie złożony w terminie 7 dni od daty doręczenia zarządzenia o zwrocie. Jeżeli wniosek ponownie złożony nie jest dotknięty brakami, wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu wniosku, chyba że zwrot nastąpił na skutek braków uprzednio niewskazanych. 5. Urzędowe formularze są udostępniane w siedzibach sądów oraz na stronie internetowej Ministerstwa Sprawiedliwości.”;
 
 - **8)** w art. 20 ust. 2a otrzymuje brzmienie: „2a. Wpisy, o których mowa w art. 24 ust. 3 i 4, art. 41 pkt 1, 2 i 3 oraz w art. 56, następują po uprawomocnieniu się postanowienia w przedmiocie wpisu.”;
 - **9)** w art. 21 ust. 1 otrzymuje brzmienie: „1. Organy administracji rządowej i samorządowej, sądy, banki, komornicy i notariusze są obowiązani niezwłocznie informować sąd rejestrowy o zdarzeniach, które podlegają obowiązkowi wpisu do Rejestru z urzędu. Jednocześnie powinni wskazać aktualne dane niezbędne dla dokonania wpisu w Rejestrze.”;
@@ -84,13 +84,13 @@ source: pdf
 **Art. 5.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 127 dodaje się § 5 w brzmieniu: „§ 5. Pisma i zamówienia handlowe składane przez spółkę komandytowoakcyjną w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki powinny zawierać: 1) firmę spółki, jej siedzibę i adres, 2) oznaczenie sądu rejestrowego, w którym przechowywana jest dokumentacja spółki oraz numer pod którym spółka jest wpisana do rejestru, 3) numer identyfikacji podatkowej (NIP), 4) wysokość kapitału zakładowego i kapitału wpłaconego.”;
-- **2)** w art. 206: 1) firmę spółki, jej siedzibę i adres, 2) oznaczenie sądu rejestrowego, w którym przechowywana jest dokumentacja spółki oraz numer pod którym spółka jest wpisana do rejestru, 3) numer identyfikacji podatkowej (NIP), 4) wysokość kapitału zakładowego.”,
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Pisma i zamówienia handlowe składane przez spółkę w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki, powinny zawierać:
+- **2)** w art. 206:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Pisma i zamówienia handlowe składane przez spółkę w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki, powinny zawierać: 1) firmę spółki, jej siedzibę i adres, 2) oznaczenie sądu rejestrowego, w którym przechowywana jest dokumentacja spółki oraz numer pod którym spółka jest wpisana do rejestru, 3) numer identyfikacji podatkowej (NIP), 4) wysokość kapitału zakładowego.”,
     - **b)** uchyla się § 2,
     - **c)** § 3 otrzymuje brzmienie: „§ 3. Przepis § 1 stosuje się odpowiednio do oddziału spółki z ograniczoną odpowiedzialnością mającej siedzibę za granicą.”;
 
-- **3)** w art. 374: 1) firmę spółki, jej siedzibę i adres, 2) oznaczenie sądu rejestrowego, w którym przechowywana jest dokumentacja spółki oraz numer pod którym spółka jest wpisana do rejestru, 3) numer identyfikacji podatkowej (NIP), 4) wysokość kapitału zakładowego i kapitału wpłaconego.”,
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Pisma i zamówienia handlowe składane przez spółkę w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki powinny zawierać:
+- **3)** w art. 374:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Pisma i zamówienia handlowe składane przez spółkę w formie papierowej i elektronicznej, a także informacje na stronach internetowych spółki powinny zawierać: 1) firmę spółki, jej siedzibę i adres, 2) oznaczenie sądu rejestrowego, w którym przechowywana jest dokumentacja spółki oraz numer pod którym spółka jest wpisana do rejestru, 3) numer identyfikacji podatkowej (NIP), 4) wysokość kapitału zakładowego i kapitału wpłaconego.”,
     - **b)** uchyla się § 2 i 3,
     - **c)** § 4 otrzymuje brzmienie: „§ 4. Przepis § 1 stosuje się odpowiednio do oddziału spółki akcyjnej mającej siedzibę za granicą.”;
 

@@ -37,11 +37,11 @@ source: pdf
 - **6)** w art. 17 w ust. 1 dodaje się pkt 6 w brzmieniu: "6) właściwych wójtów, burmistrzów lub prezydentów miast - w odniesieniu do pracowników zlikwidowanych jednostek, o których mowa w art. 3 pkt 1a";
 - **7)** w art. 17 ust. 3 otrzymuje brzmienie: "3. Organy sporządzające spisy sporządzają je w terminie do dnia 30 września 1997 r.";
 - **8)** w art. 18 w ust. 4 wyrazy "5 miesięcy" zastępuje się wyrazami "8 miesięcy";
-- **9)** w art. 20: 1) sprawują nadzór nad terminowością sporządzania spisów, a po otrzymaniu spisów dokonują ich przeglądu oraz wyrywkowej kontroli prawidłowości ich sporządzenia, 2) dokonują sprostowania błędów pisarskich i oczywistych omyłek.",
+- **9)** w art. 20:
     - **a)** w ust. 1 wyrazy "6 miesięcy" zastępuje się wyrazami "9 miesięcy",
     - **b)** w ust. 1 dodaje się pkt 3 w brzmieniu: "3) właściwemu wójtowi, burmistrzowi lub prezydentowi miasta - w przypadku samorządowych jednostek budżetowych przejętych do prowadzenia przez gminy przed 28 czerwca 1992 r. jako zadanie własne lub zlecone",
     - **c)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Organy wymienione w ust. 1 pkt 3 po dokonaniu wstępnej kontroli prawidłowości sporządzenia otrzymanych spisów niezwłocznie przekazują je właściwemu terytorialnie wojewodzie.",
-    - **d)** ust. 2 otrzymuje brzmienie: "2. Właściwi ministrowie i wojewodowie:
+    - **d)** ust. 2 otrzymuje brzmienie: "2. Właściwi ministrowie i wojewodowie: 1) sprawują nadzór nad terminowością sporządzania spisów, a po otrzymaniu spisów dokonują ich przeglądu oraz wyrywkowej kontroli prawidłowości ich sporządzenia, 2) dokonują sprostowania błędów pisarskich i oczywistych omyłek.",
     - **e)** w ust. 3 wyrazy "6 miesięcy" zastępuje się wyrazami "9 miesięcy";
 
 - **10)** w art. 21 ust. 3 otrzymuje brzmienie: "3. Krajowy Depozyt Papierów Wartościowych wykonuje określone w ustawie zadania na podstawie umowy zawartej z emitentem świadectw.";

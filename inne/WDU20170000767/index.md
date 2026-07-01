@@ -39,9 +39,9 @@ source: pdf
 
 - **1)** w art. 3 w ust. 3 pkt 5 otrzymuje brzmienie: „5) stwierdzenia trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) lub nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów, w sposób określony w ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125 i 767);”;
 - **2)** w art. 4 ust. 1 otrzymuje brzmienie: „1. Komórki, tkanki i narządy mogą być pobierane ze zwłok ludzkich po stwierdzeniu zgonu w sposób określony w ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty w celach diagnostycznych, leczniczych, naukowych i dydaktycznych.”;
-- **3)** w art. 9: o zawodach lekarza i lekarza dentysty, którzy stwierdzili u tej osoby trwałe nieodwracalne ustanie czynności mózgu (śmierć mózgu).”;
+- **3)** w art. 9:
     - **a)** uchyla się ust. 1–5,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. W postępowaniu obejmującym pobieranie i przeszczepianie komórek, tkanek lub narządów od osoby zmarłej nie mogą brać udziału lekarze, o których mowa w art. 43a ust. 5 ustawy z dnia 5 grudnia 1996 r.
+    - **b)** ust. 6 otrzymuje brzmienie: „6. W postępowaniu obejmującym pobieranie i przeszczepianie komórek, tkanek lub narządów od osoby zmarłej nie mogą brać udziału lekarze, o których mowa w art. 43a ust. 5 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, którzy stwierdzili u tej osoby trwałe nieodwracalne ustanie czynności mózgu (śmierć mózgu).”;
 
 - **4)** w art. 9a:
     - **a)** uchyla się ust. 1,

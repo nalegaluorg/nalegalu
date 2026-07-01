@@ -38,11 +38,11 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Tworzy się System Monitorowania i Kontrolowania Jakości Paliw, zwany dalej „Systemem”, którego celem jest przeciwdziałanie transportowaniu, magazynowaniu, wprowadzaniu do obrotu paliw oraz paliw stałych, a także gromadzeniu paliw w stacjach zakładowych, niespełniających wymagań jakościowych określonych w przepisach wydanych odpowiednio na podstawie art. 3 ust. 2 albo art. 3a ust. 2 albo art. 4 ust. 2 albo art. 5 ust. 2 albo art. 6 ust. 3.”,
     - **b)** w ust. 2 po pkt 1 dodaje pkt 1a w brzmieniu: „1a) paliw stałych u przedsiębiorców,”;
 
-- **7)** w art. 12 w ust. 2: a) paliw, b) paliw stałych;”, a) paliw, b) paliw stałych.”;
+- **7)** w art. 12 w ust. 2:
     - **a)** w pkt 1 w lit. c na końcu stawia się przecinek i dodaje się lit. d w brzmieniu: „d) przedsiębiorców wykonujących działalność gospodarczą w zakresie obrotu paliwami stałymi”,
     - **b)** pkt 7 otrzymuje brzmienie: „7) określanie minimalnej liczby przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania paliw, magazynowania paliw oraz obrotu paliwami stałymi, u których dokonywana będzie kontrola jakości paliw oraz jakości paliw stałych;”,
-    - **c)** pkt 11 otrzymuje brzmienie: „11) sporządzanie planu kontroli jakości:
-    - **d)** pkt 14 otrzymuje brzmienie: „14) gromadzenie i przetwarzanie, na potrzeby Systemu, danych statystycznych dotyczących jakości:
+    - **c)** pkt 11 otrzymuje brzmienie: „11) sporządzanie planu kontroli jakości: a) paliw, b) paliw stałych;”,
+    - **d)** pkt 14 otrzymuje brzmienie: „14) gromadzenie i przetwarzanie, na potrzeby Systemu, danych statystycznych dotyczących jakości: a) paliw, b) paliw stałych.”;
 
 - **8)** po art. 19a dodaje się art. 19b w brzmieniu: „Art. 19b. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób pobierania próbek paliw stałych, biorąc pod uwagę metody określone w odpowiednich normach.”;
 - **9)** po art. 26a dodaje się art. 26b w brzmieniu: „Art. 26b. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, metody badania jakości paliw stałych, biorąc pod uwagę stan wiedzy technicznej lub metody określone w odpowiednich normach.”;

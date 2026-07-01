@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 2017 r. poz. 2149 oraz z 2018 r. poz. 138) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: 1) sekretarza stanu lub sekretarzy stanu; 2) podsekretarza stanu lub podsekretarzy stanu; 3) Szefa Sztabu Generalnego Wojska Polskiego; 4) Dowódcy Wojsk Obrony Terytorialnej – do czasu osiągnięcia pełnej zdolności do działania przez Wojska Obrony Terytorialnej; 5) Dyrektora Generalnego.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej kieruje działalnością Ministerstwa i Sił Zbrojnych bezpośrednio lub przy pomocy:
+- **1)** w art. 3:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej kieruje działalnością Ministerstwa i Sił Zbrojnych bezpośrednio lub przy pomocy: 1) sekretarza stanu lub sekretarzy stanu; 2) podsekretarza stanu lub podsekretarzy stanu; 3) Szefa Sztabu Generalnego Wojska Polskiego; 4) Dowódcy Wojsk Obrony Terytorialnej – do czasu osiągnięcia pełnej zdolności do działania przez Wojska Obrony Terytorialnej; 5) Dyrektora Generalnego.”,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. Minister Obrony Narodowej stwierdzi, w drodze zarządzenia, osiągnięcie pełnej zdolności do działania przez Wojska Obrony Terytorialnej.”;
 
 - **2)** w art. 5 w ust. 1:

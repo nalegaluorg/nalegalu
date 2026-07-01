@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 100: 9) wyrażanie opinii w sprawie odwołania Prezesa Funduszu lub jego zastępców.”, - uchyla się pkt 10, b) ust. 4 otrzymuje brzmienie: „4. Uchwały Rady Funduszu zapadają większością głosów w obecności co najmniej połowy ustawowej liczby członków Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.”,
-    - **a)** w ust. 1: - pkt 8 i 9 otrzymują brzmienie: „8) wyrażanie opinii w sprawie kandydata na Prezesa Funduszu lub kandydatów na jego zastępców,
+- **1)** w art. 100:
+    - **a)** w ust. 1: - pkt 8 i 9 otrzymują brzmienie: „8) wyrażanie opinii w sprawie kandydata na Prezesa Funduszu lub kandydatów na jego zastępców, 9) wyrażanie opinii w sprawie odwołania Prezesa Funduszu lub jego zastępców.”, - uchyla się pkt 10, b) ust. 4 otrzymuje brzmienie: „4. Uchwały Rady Funduszu zapadają większością głosów w obecności co najmniej połowy ustawowej liczby członków Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.”,
     - **c)** uchyla się ust. 11,
     - **d)** dodaje się ust. 12 w brzmieniu: „12. Rada Funduszu wyraża opinie, o których mowa w ust. 1 pkt 8 i 9, w terminie nie dłuższym niż 14 dni. Niewyrażenie opinii w tym terminie jest równoznaczne z wydaniem pozytywnej opinii.”;
 

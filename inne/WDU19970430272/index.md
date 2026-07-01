@@ -53,12 +53,12 @@ source: pdf
 
 - **10)** w art. 14 po wyrazie "może" dodaje się wyrazy ", w drodze rozporządzenia,";
 - **11)** w art. 15 w ust. 1 wyrazy "o dacie produkcji lub o dacie, do której dany artykuł zachowuje przydatność do spożycia przy przechowywaniu w warunkach przewidzianych dla danego artykułu" zastępuje się wyrazami "o terminie przydatności do spożycia lub dacie minimalnej trwałości środka spożywczego";
-- **12)** w art. 17: 3c. Podmiot gospodarczy produkujący lub wprowadzający do obrotu środki spożywcze, używki lub substancje dodatkowe dozwolone ponosi koszty szkoleń i egzaminów związanych z uzyskiwaniem kwalifikacji przez osoby, o których mowa w ust. 3a.",
+- **12)** w art. 17:
     - **a)** w ust. 1 wyrazy "oraz ich prawidłowa lokalizacja są zgodne z obowiązującymi wymogami" zastępuje się wyrazami "oraz ich lokalizacja są zgodne z obowiązującymi wymogami, a także zapewniają właściwą jakość zdrowotną produkowanych lub będących w obrocie środków spożywczych, używek i substancji dodatkowych dozwolonych",
     - **b)** w ust. 2 po wyrazie "określi" dodaje się wyrazy ", w drodze rozporządzenia,",
     - **c)** ust. 3 otrzymuje brzmienie: "3. Minister Zdrowia i Opieki Społecznej, z zastrzeżeniem ust. 4, ustala, w drodze rozporządzenia, warunki sanitarne oraz zasady przestrzegania higieny przy produkcji i obrocie środkami spożywczymi, używkami i substancjami dodatkowymi dozwolonymi oraz może określić szczególne wymagania w tym zakresie dla niektórych środków spożywczych, używek i substancji dodatkowych dozwolonych.",
     - **d)** ust. 3a otrzymuje brzmienie: "3a. Osoby biorące udział w produkcji lub obrocie środkami spożywczymi, używkami lub substancjami dodatkowymi dozwolonymi powinny posiadać kwalifikacje w zakresie podstawowych zagadnień higieny przy produkcji i obrocie żywnością.",
-    - **e)** po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: "3b. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, kwalifikacje wymagane od osób, o których mowa w ust. 3a, oraz zasady uzyskiwania takich kwalifikacji.
+    - **e)** po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: "3b. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, kwalifikacje wymagane od osób, o których mowa w ust. 3a, oraz zasady uzyskiwania takich kwalifikacji. 3c. Podmiot gospodarczy produkujący lub wprowadzający do obrotu środki spożywcze, używki lub substancje dodatkowe dozwolone ponosi koszty szkoleń i egzaminów związanych z uzyskiwaniem kwalifikacji przez osoby, o których mowa w ust. 3a.",
     - **f)** ust. 4 otrzymuje brzmienie: "4. Warunki sanitarne oraz zasady przestrzegania higieny przy produkcji i składowaniu środków spożywczych pochodzenia zwierzęcego określają odrębne przepisy.";
 
 - **13)** art. 18 otrzymuje brzmienie: "Art. 18. Środki spożywcze, używki i substancje dodatkowe dozwolone rozprowadzane w opakowaniach jednostkowych, znakowane zgodnie z art. 15 ust. 4 datą minimalnej trwałości lub terminem przydatności do spożycia, mogą być wprowadzane do obrotu do tej daty.";
@@ -81,10 +81,8 @@ source: pdf
 
 **Art. 9.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz.U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 43, poz. 163 oraz z 1996 r. Nr 41, poz. 175 i Nr 89, poz. 402) w art. 72:
 
-1) zakres stosowania przepisów ustawy do jednostek badawczorozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, 2) zasady tworzenia, łączenia, podziału, reorganizacji i likwidacji tych jednostek.", 1 nie stosuje się przepisów niniejszej ustawy.",
-
-- **a)** ust. 1 otrzymuje brzmienie: "1. Rada Ministrów, w drodze rozporządzenia, określa:
-- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb działania jednostek badawczo-rozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, w sprawach, do których na podstawie ust.
+- **a)** ust. 1 otrzymuje brzmienie: "1. Rada Ministrów, w drodze rozporządzenia, określa: 1) zakres stosowania przepisów ustawy do jednostek badawczorozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, 2) zasady tworzenia, łączenia, podziału, reorganizacji i likwidacji tych jednostek.",
+- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb działania jednostek badawczo-rozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, w sprawach, do których na podstawie ust. 1 nie stosuje się przepisów niniejszej ustawy.",
 - **c)** w ust. 2 wyrazy "i Ministrowi Spraw Wewnętrznych" zastępuje się wyrazami "oraz Ministrowi Spraw Wewnętrznych i Administracji",
 - **d)** w ust. 3 skreśla się wyraz "przekształcania,".
 
@@ -107,9 +105,9 @@ source: pdf
 
 - **1)** w art. 40 dodaje się ust. 4 w brzmieniu: "4. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Aptekarskiej określi, w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane, stosownie do art. 41, od kierownika apteki, dotyczące głównie stażu pracy i specjalizacji.";
 - **2)** w art. 44 dodaje się ust. 3 w brzmieniu: "3. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Aptekarskiej określi, w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni, dotyczące głównie stażu pracy i specjalizacji.";
-- **3)** w art. 49: 1) w drodze zarządzenia, leki gotowe i inne środki farmaceutyczne i materiały medyczne, o których mowa w art. 5 ust. 2 pkt 2 i 5, które nie podlegają wpisowi do rejestru, 2) w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt.".
+- **3)** w art. 49:
     - **a)** skreśla się wyrazy "art. 5 ust. 2 pkt 2 i 5,", a pozostałą treść oznacza się jako ust. 1,
-    - **b)** dodaje się ust. 2 w brzmieniu: "2. Minister Rolnictwa i Gospodarki Żywnościowej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Krajowej Izby Lekarsko-Weterynaryjnej oraz Naczelnej Rady Aptekarskiej, w odniesieniu do środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt, może określić:
+    - **b)** dodaje się ust. 2 w brzmieniu: "2. Minister Rolnictwa i Gospodarki Żywnościowej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Krajowej Izby Lekarsko-Weterynaryjnej oraz Naczelnej Rady Aptekarskiej, w odniesieniu do środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt, może określić: 1) w drodze zarządzenia, leki gotowe i inne środki farmaceutyczne i materiały medyczne, o których mowa w art. 5 ust. 2 pkt 2 i 5, które nie podlegają wpisowi do rejestru, 2) w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt.".
 
 **Art. 17.** W ustawie z dnia 16 października 1991 r. o zmianie ustawy o działalności gospodarczej (Dz.U. Nr 107, poz. 460) skreśla się art. 4.
 

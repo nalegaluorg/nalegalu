@@ -49,9 +49,9 @@ source: pdf
     - **b)** uchyla się ust. 5;
 
 - **8)** w art. 31 w ust. 1 zdanie drugie otrzymuje brzmienie: „Uprawnienie do wpłaty powitalnej przysługuje uczestnikowi PPK, w imieniu i na rzecz którego zawarto umowę lub umowy o prowadzenie PPK i który przez co najmniej 3 pełne miesiące kalendarzowe jest uczestnikiem PPK, jeżeli w okresie uczestnictwa w PPK dokonano wpłat podstawowych finansowanych przez uczestnika PPK za co najmniej 3 miesiące.”;
-- **9)** w art. 49: 3b. PFR w terminie do dnia 20 grudnia danego roku publikuje za pośrednictwem portalu PPK informację o wysokości stóp zwrotu funduszy, o których mowa w ust. 3a.”,
+- **9)** w art. 49:
     - **a)** w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) osiągnięcia na ostatni dzień wyceny w listopadzie w danym roku stopy zwrotu przez fundusz inwestycyjny, fundusz emerytalny lub subfundusz na poziomie nie niższym niż 75% najwyższych stóp zwrotu funduszy tej samej zdefiniowanej daty.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne i zakład ubezpieczeń w terminie do dnia 10 grudnia danego roku przekazują do PFR informację o stopach zwrotu funduszy zdefiniowanej daty osiągniętych na ostatni dzień wyceny w listopadzie w danym roku.
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Towarzystwo funduszy inwestycyjnych, PTE, pracownicze towarzystwo emerytalne i zakład ubezpieczeń w terminie do dnia 10 grudnia danego roku przekazują do PFR informację o stopach zwrotu funduszy zdefiniowanej daty osiągniętych na ostatni dzień wyceny w listopadzie w danym roku. 3b. PFR w terminie do dnia 20 grudnia danego roku publikuje za pośrednictwem portalu PPK informację o wysokości stóp zwrotu funduszy, o których mowa w ust. 3a.”,
     - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przepisów ust. 3–4 nie stosuje się w okresie do końca roku kalendarzowego, w którym upływa termin 2 lat od dnia utworzenia funduszu inwestycyjnego, funduszu emerytalnego lub subfunduszu.”;
 
 - **10)** w art. 133:

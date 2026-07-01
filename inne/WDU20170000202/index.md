@@ -56,11 +56,11 @@ source: pdf
     - **a)** ust. 5 otrzymuje brzmienie: „5. Umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący.”,
     - **b)** uchyla się ust. 5a;
 
-- **9)** w art. 29: b) ust. 6 otrzymuje brzmienie: „6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.”;
-    - **a)** w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „4) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych;”, – uchyla się pkt 4a,
+- **9)** w art. 29:
+    - **a)** w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „4) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych;”, – uchyla się pkt 4a, b) ust. 6 otrzymuje brzmienie: „6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.”;
 
-- **10)** w art. 30: 1) pracownicy naukowi i badawczo-techniczni instytutu, którzy stanowią co najmniej 40% składu rady; 2) osoby niebędące pracownikami instytutu, które stanowią co najmniej 50% składu rady.”,
-    - **a)** ust. 2 otrzymuje brzmienie: „2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą:
+- **10)** w art. 30:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą: 1) pracownicy naukowi i badawczo-techniczni instytutu, którzy stanowią co najmniej 40% składu rady; 2) osoby niebędące pracownikami instytutu, które stanowią co najmniej 50% składu rady.”,
     - **b)** uchyla się ust. 2a;
 
 - **11)** w art. 31 ust. 1–3 otrzymują brzmienie: „1. Rada naukowa wybiera spośród swoich członków w głosowaniu tajnym przewodniczącego i jego zastępców. Przewodniczącego rady naukowej wybiera się spośród członków rady powołanych przez ministra nadzorującego. 2. Przewodniczącym rady naukowej może być osoba posiadająca co najmniej stopień naukowy doktora. 3. Funkcja zastępcy przewodniczącego rady naukowej nie może być łączona ze stanowiskiem dyrektora, zastępcy dyrektora lub głównego księgowego.”;

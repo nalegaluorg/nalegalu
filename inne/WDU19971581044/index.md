@@ -30,8 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych (Dz.U. Nr 13, poz. 60 i Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719 oraz z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 skreśla się pkt 3;
-- **2)** w art. 6: 1) 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich, 2) 1,15 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze, 3) 1,2 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie kontraktów eksportowych.",
-    - **a)** ust. 1 otrzymuje brzmienie: "1. Kredyty na cele, o których mowa w art. 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy:
+- **2)** w art. 6:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Kredyty na cele, o których mowa w art. 3 ust. 1, mogą być objęte dopłatą ze środków budżetu państwa, jeżeli ich oprocentowanie w stosunku rocznym nie przekroczy: 1) 1,1 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na skup i przechowywanie zapasów ryb morskich, 2) 1,15 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na cele rolnicze, 3) 1,2 stopy redyskontowej weksli przyjmowanych od banków do redyskonta przez Narodowy Bank Polski przy udzielaniu kredytów na finansowanie kontraktów eksportowych.",
     - **b)** w ust. 7 na końcu zdania dodaje się wyrazy "pkt 3".
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

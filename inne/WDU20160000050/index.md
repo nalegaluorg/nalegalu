@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2015 r. poz. 704, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 59: 2. Prezes Kasy może mieć jednego zastępcę albo zastępców. Zastępcę Prezesa Kasy powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Kasy. Minister właściwy do spraw rozwoju wsi odwołuje zastępcę Prezesa Kasy.”,
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Prezesa Kasy powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw rozwoju wsi. Prezes Rady Ministrów odwołuje Prezesa Kasy.
+- **1)** w art. 59:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Prezesa Kasy powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw rozwoju wsi. Prezes Rady Ministrów odwołuje Prezesa Kasy. 2. Prezes Kasy może mieć jednego zastępcę albo zastępców. Zastępcę Prezesa Kasy powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Kasy. Minister właściwy do spraw rozwoju wsi odwołuje zastępcę Prezesa Kasy.”,
     - **b)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Stanowisko Prezesa Kasy i zastępcy Prezesa Kasy może zajmować osoba, która:”,
     - **c)** uchyla się ust. 5–15;
 
@@ -41,12 +41,12 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2015 r. poz. 1014, 1433 i 1830) wprowadza się następujące zmiany:
 
-- **1)** w art. 9: 2. Agencją kieruje Prezes i reprezentuje ją na zewnątrz. Prezes wykonuje zadania przy pomocy Wiceprezesów oraz dyrektorów oddziałów terenowych Agencji. 3. Wiceprezesów Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji. Minister właściwy do spraw rozwoju wsi odwołuje Wiceprezesów Agencji.”, 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 15b. Powołanie na stanowiska, o których mowa w ust. 4 i 15a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
-    - **a)** ust. 1–3 otrzymują brzmienie: „1. Prezesa Agencji powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw rozwoju wsi. Prezes Rady Ministrów odwołuje Prezesa Agencji.
+- **1)** w art. 9:
+    - **a)** ust. 1–3 otrzymują brzmienie: „1. Prezesa Agencji powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw rozwoju wsi. Prezes Rady Ministrów odwołuje Prezesa Agencji. 2. Agencją kieruje Prezes i reprezentuje ją na zewnątrz. Prezes wykonuje zadania przy pomocy Wiceprezesów oraz dyrektorów oddziałów terenowych Agencji. 3. Wiceprezesów Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji. Minister właściwy do spraw rozwoju wsi odwołuje Wiceprezesów Agencji.”,
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Prezes Agencji powołuje i odwołuje kierowników komórek organizacyjnych w Biurze Prezesa i ich zastępców, głównego księgowego oraz dyrektorów i zastępców dyrektorów oddziałów terenowych Agencji.”,
     - **c)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Stanowisko Prezesa Agencji i Wiceprezesa Agencji może zajmować osoba, która:”,
     - **d)** uchyla się ust. 5–15,
-    - **e)** po ust. 15 dodaje się ust. 15a i 15b w brzmieniu: „15a. Stanowisko kierownika komórki organizacyjnej w Biurze Prezesa i jego zastępcy, głównego księgowego oraz dyrektora oddziału terenowego i jego zastępcy może zajmować osoba, która:
+    - **e)** po ust. 15 dodaje się ust. 15a i 15b w brzmieniu: „15a. Stanowisko kierownika komórki organizacyjnej w Biurze Prezesa i jego zastępcy, głównego księgowego oraz dyrektora oddziału terenowego i jego zastępcy może zajmować osoba, która: 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 15b. Powołanie na stanowiska, o których mowa w ust. 4 i 15a, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
 
 - **2)** w art. 9a ust. 1 otrzymuje brzmienie: „1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w Agencji, z wyłączeniem stanowisk pracy, o których mowa w art. 9 ust. 4 i 15a, jest otwarty i konkurencyjny.”.
 
@@ -73,11 +73,11 @@ source: pdf
 
 **Art. 6.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2012 r. poz. 633, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 6: 3. Prezes Agencji kieruje działalnością Agencji przy pomocy zastępców Prezesa Agencji oraz dyrektorów oddziałów terenowych. Zastępców Prezesa Agencji powołuje minister właściwy do spraw rynków rolnych na wniosek Prezesa Agencji. Minister właściwy do spraw rynków rolnych odwołuje zastępców Prezesa Agencji. Prezes Agencji powołuje i odwołuje kierowników komórek organizacyjnych w Centrali i ich zastępców oraz dyrektorów oddziałów terenowych i ich zastępców.”, 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 3n. Powołanie na stanowiska, o których mowa w ust. 3a i 3m, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Prezes Agencji jest powoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych. Prezes Rady Ministrów odwołuje Prezesa Agencji.
+- **1)** w art. 6:
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Prezes Agencji jest powoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych. Prezes Rady Ministrów odwołuje Prezesa Agencji. 3. Prezes Agencji kieruje działalnością Agencji przy pomocy zastępców Prezesa Agencji oraz dyrektorów oddziałów terenowych. Zastępców Prezesa Agencji powołuje minister właściwy do spraw rynków rolnych na wniosek Prezesa Agencji. Minister właściwy do spraw rynków rolnych odwołuje zastępców Prezesa Agencji. Prezes Agencji powołuje i odwołuje kierowników komórek organizacyjnych w Centrali i ich zastępców oraz dyrektorów oddziałów terenowych i ich zastępców.”,
     - **b)** w ust. 3a wprowadzenie do wyliczenia otrzymuje brzmienie: „Stanowisko Prezesa Agencji i zastępcy Prezesa Agencji może zajmować osoba, która:”,
     - **c)** uchyla się ust. 3b–3l,
-    - **d)** po ust. 3l dodaje się ust. 3m i 3n w brzmieniu: „3m. Stanowisko kierownika komórki organizacyjnej w Centrali i jego zastępcy oraz dyrektora oddziału terenowego i jego zastępcy może zajmować osoba, która:
+    - **d)** po ust. 3l dodaje się ust. 3m i 3n w brzmieniu: „3m. Stanowisko kierownika komórki organizacyjnej w Centrali i jego zastępcy oraz dyrektora oddziału terenowego i jego zastępcy może zajmować osoba, która: 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 3n. Powołanie na stanowiska, o których mowa w ust. 3a i 3m, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
 
 - **2)** w art. 6a ust. 1 otrzymuje brzmienie: o których mowa w art. 6 ust. 3a i 3m, jest otwarty i konkurencyjny.”.
 
@@ -96,9 +96,9 @@ source: pdf
     - **c)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Stanowisko Prezesa Agencji i zastępcy Prezesa Agencji może zajmować osoba, która:”,
     - **d)** uchyla się ust. 5–15;
 
-- **2)** w art. 9: 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.”;
+- **2)** w art. 9:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Kierowników komórek organizacyjnych w Centrali Agencji i ich zastępców oraz dyrektorów oddziałów regionalnych i ich zastępców powołuje i odwołuje Prezes Agencji, a kierowników biur powiatowych i ich zastępców – dyrektor oddziału regionalnego.”,
-    - **b)** dodaje się ust. 4 w brzmieniu: „4. Stanowisko kierownika komórki organizacyjnej w Centrali Agencji i jego zastępcy, dyrektora oddziału regionalnego i jego zastępcy oraz kierownika biura powiatowego i jego zastępcy może zajmować osoba, która:
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Stanowisko kierownika komórki organizacyjnej w Centrali Agencji i jego zastępcy, dyrektora oddziału regionalnego i jego zastępcy oraz kierownika biura powiatowego i jego zastępcy może zajmować osoba, która: 1) posiada wykształcenie wyższe; 2) jest obywatelem polskim; 3) korzysta z pełni praw publicznych; 4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.”;
 
 - **3)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. Powołanie na stanowiska, o których mowa w art. 8 ust. 4 i art. 9 ust. 4, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm. ).”;
 - **4)** w art. 12 ust. 1 otrzymuje brzmienie: o których mowa w art. 8 ust. 4 i art. 9 ust. 4, zwany dalej „naborem”, jest otwarty i konkurencyjny.”.

@@ -31,8 +31,8 @@ source: pdf
 
 - **1)** w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie: „4) archiwum Rady Ministrów;”;
 - **2)** w art. 30 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Zasób archiwalny archiwum Rady Ministrów stanowią materiały archiwalne Prezesa Rady Ministrów, Rady Ministrów oraz Kancelarii Prezesa Rady Ministrów, powstałe i powstające w toku ich działalności, a także zasób historyczny Rady Ministrów.”;
-- **3)** w art. 31 w ust. 1: 29 ust. 1 pkt 5–8, stanowią materiały archiwalne powstałe i powstające w toku działalności:”,
-    - **a)** zdanie wstępne otrzymuje brzmienie: „Zasób archiwalny archiwów wyodrębnionych, o których mowa w art.
+- **3)** w art. 31 w ust. 1:
+    - **a)** zdanie wstępne otrzymuje brzmienie: „Zasób archiwalny archiwów wyodrębnionych, o których mowa w art. 29 ust. 1 pkt 5–8, stanowią materiały archiwalne powstałe i powstające w toku działalności:”,
     - **b)** uchyla się pkt 1.
 
 **Art. 2.**

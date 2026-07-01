@@ -27,9 +27,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz.U.z 1972 r. Nr 47, poz. 298, z 1989 r. Nr 29, poz. 154 i z 1990 r. Nr 34, poz.198) wprowadza się następujące zmiany: "1) w art. 1 dodaje się nową zmianę 1 w brzmieniu: "1) w art. 5 w ust.3 po wyrazach "w porozumieniu z" dodaje się wyrazy "Ministerstwem Ochrony Środowiska, Zasobów Naturalnych i Leśnistwa oraz";
 
-- **2)** w art. 6: 3. Decyzję o użyciu terenu cmentarnego, będącego uprzednio cmentarzem wyznaniowym Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, na inny cel wydaje się po zasięgnięciu opinii właściwej władzy tego kościoła lub związku wyznaniowego co do sposobu oznaczenia i upamiętnienia terenu pocmentarnego.",
+- **2)** w art. 6:
     - **a)** w ust. 1 na końcu drugiego zdania dodaje się wyrazy "z zastrzeżeniem ust. 2.",
-    - **b)** dodaje się nowe ust. 2 i 3 w brzmieniu: "2. Jeżeli teren cmentarny stanowi lub stanowił uprzednio własność Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, wydanie decyzji o użyciu terenu cmentarnego na inny cel wymaga zgody właściwej władzy tego kościoła lub związku wyznaniowego.
+    - **b)** dodaje się nowe ust. 2 i 3 w brzmieniu: "2. Jeżeli teren cmentarny stanowi lub stanowił uprzednio własność Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, wydanie decyzji o użyciu terenu cmentarnego na inny cel wymaga zgody właściwej władzy tego kościoła lub związku wyznaniowego. 3. Decyzję o użyciu terenu cmentarnego, będącego uprzednio cmentarzem wyznaniowym Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, na inny cel wydaje się po zasięgnięciu opinii właściwej władzy tego kościoła lub związku wyznaniowego co do sposobu oznaczenia i upamiętnienia terenu pocmentarnego.",
     - **c)** dotychczasowy ust. 2 oznacza się jako ust. 4,
     - **d)** dodaje się ust. 5 w brzmieniu: "5. W przypadkach uzasadnionych szczególnymi celami publicznymi, właściwy ze względu na miejsce terenu cmentarnego organ, może wystąpić do Ministra Gospodarki Przestrzennej i Budownictwa o zwolnienie z wymogu uzyskania zgody, o której mowa w ust. 2.",
     - **e)** dotychczasowy ust. 3 oznacza się jako ust. 6 i dodaje w nim na końcu wyrazy "z zastrzeżeniem ust. 2.",

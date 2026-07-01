@@ -38,18 +38,18 @@ source: pdf
 
 - **1)** na 6 dni przed upływem terminu składania ofert;
 - **2)** na 4 dni przed upływem terminu składania ofert – w przetargu ograniczonym oraz negocjacjach z ogłoszeniem, jeżeli zachodzi pilna potrzeba udzielenia zamówienia;
-- **3)** na 2 dni przed upływem terminu składania ofert – jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 – pod warunkiem że wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął do zamawiającego nie później niż do końca dnia, w którym upływa połowa wyznaczonego terminu składania ofert.”, 1b. Przedłużenie terminu składania ofert nie wpływa na bieg terminu składania wniosku, o którym mowa w ust. 1.”;
-    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Jeżeli wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął po upływie terminu składania wniosku, o którym mowa w ust. 1, lub dotyczy udzielonych wyjaśnień, zamawiający może udzielić wyjaśnień albo pozostawić wniosek bez rozpoznania.
+- **3)** na 2 dni przed upływem terminu składania ofert – jeżeli wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 – pod warunkiem że wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął do zamawiającego nie później niż do końca dnia, w którym upływa połowa wyznaczonego terminu składania ofert.”,
+    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Jeżeli wniosek o wyjaśnienie treści specyfikacji istotnych warunków zamówienia wpłynął po upływie terminu składania wniosku, o którym mowa w ust. 1, lub dotyczy udzielonych wyjaśnień, zamawiający może udzielić wyjaśnień albo pozostawić wniosek bez rozpoznania. 1b. Przedłużenie terminu składania ofert nie wpływa na bieg terminu składania wniosku, o którym mowa w ust. 1.”;
 
 - **6)** w art. 40:
     - **a)** uchyla się ust. 4,
     - **b)** ust. 5 otrzymuje brzmienie: „5. Zamawiający może opublikować ogłoszenie o zamówieniu również w inny sposób niż określony w ust. 1–3, w szczególności w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.”;
 
 - **7)** w art. 41 pkt 7 otrzymuje brzmienie: ,,7) warunki udziału w postępowaniu oraz opis sposobu dokonywania oceny spełniania tych warunków;”;
-- **8)** w art. 46: 3. Zamawiający żąda ponownego wniesienia wadium przez wykonawcę, któremu zwrócono wadium na podstawie ust. 1, jeżeli w wyniku ostatecznego rozstrzygnięcia protestu jego oferta została wybrana jako najkorzystniejsza. Wykonawca wnosi wadium w terminie określonym przez zamawiającego.”;
+- **8)** w art. 46:
     - **a)** ust. 1 otrzymuje brzmienie: ,,1. Zamawiający zwraca wadium wszystkim wykonawcom niezwłocznie po wyborze oferty najkorzystniejszej lub unieważnieniu postępowania, z wyjątkiem wykonawcy, którego oferta została wybrana jako najkorzystniejsza, z zastrzeżeniem ust. 4a.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wykonawcy, którego oferta została wybrana jako najkorzystniejsza, zamawiający zwraca wadium niezwłocznie po zawarciu umowy w sprawie zamówienia publicznego oraz wniesieniu zabezpieczenia należytego wykonania umowy, jeżeli jego wniesienia żądano.”,
-    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Zamawiający zwraca niezwłocznie wadium na wniosek wykonawcy, który wycofał ofertę przed upływem terminu składania ofert.
+    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Zamawiający zwraca niezwłocznie wadium na wniosek wykonawcy, który wycofał ofertę przed upływem terminu składania ofert. 3. Zamawiający żąda ponownego wniesienia wadium przez wykonawcę, któremu zwrócono wadium na podstawie ust. 1, jeżeli w wyniku ostatecznego rozstrzygnięcia protestu jego oferta została wybrana jako najkorzystniejsza. Wykonawca wnosi wadium w terminie określonym przez zamawiającego.”;
 
 - **9)** w art. 48 w ust. 2 pkt 6 otrzymuje brzmienie: ,,6) warunki udziału w postępowaniu oraz opis sposobu dokonywania oceny spełniania tych warunków, a także znaczenie tych warunków;”;
 - **10)** w art. 63 w ust. 2 pkt 5 otrzymuje brzmienie: „5) warunki udziału w postępowaniu oraz opis sposobu dokonywania oceny spełniania tych warunków;”;

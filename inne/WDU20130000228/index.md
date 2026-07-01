@@ -30,8 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2012 r. poz. 391 i 951 oraz z 2013 r. poz. 21) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 1 pkt 1 otrzymuje brzmienie: „1) wyposażenie nieruchomości w pojemniki służące do zbierania odpadów komunalnych oraz utrzymywanie tych pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym, chyba że na mocy uchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te przejmie gmina jako część usługi w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości w zamian za uiszczoną przez właściciela opłatę za gospodarowanie odpadami komunalnymi;”;
-- **2)** w art. 6j: 2) ilości zużytej wody z danej nieruchomości, lub”,
-    - **a)** w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) liczby mieszkańców zamieszkujących daną nieruchomość, lub
+- **2)** w art. 6j:
+    - **a)** w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) liczby mieszkańców zamieszkujących daną nieruchomość, lub 2) ilości zużytej wody z danej nieruchomości, lub”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Rada gminy może zróżnicować stawki opłaty w zależności od powierzchni lokalu mieszkalnego, liczby mieszkańców zamieszkujących nieruchomość, odbierania odpadów z terenów wiejskich lub miejskich, a także od rodzaju zabudowy.”,
     - **c)** ust. 5 otrzymuje brzmienie: „5. W przypadku nieruchomości, o których mowa w ust. 4, rada gminy może podjąć uchwałę stanowiącą akt prawa miejscowego, na mocy której ustali sposób obliczania opłaty za gospodarowanie odpadami komunalnymi na terenie tych nieruchomości zgodnie z ust. 1, 2 lub 3, z tym że w przypadku ustalenia sposobu obliczania opłaty zgodnie z ust. 1 pkt 3 dla części nieruchomości, na której jest prowadzona działalność, uwzględnia się powierzchnię użytkową lokalu.”;
 

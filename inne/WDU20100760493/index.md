@@ -45,8 +45,8 @@ source: pdf
 
 - **7)** w art. 19 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku, o którym mowa w art. 12 ust. 4, BGK przekazuje premię kompensacyjną inwestorowi po poniesieniu przez niego wydatków na realizację przedsięwzięcia lub remontu zgodnie z zakresem rzeczowym, o którym mowa w art. 15 ust. 4, w wysokości nie niższej niż wysokość przyznanej premii kompensacyjnej. 5. Wysokość wydatków na cele określone w ust. 4 ustala się na podstawie faktur w rozumieniu przepisów o podatku od towarów i usług.”;
 - **8)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Z tytułu przyznania premii BGK otrzymuje od inwestora wynagrodzenie prowizyjne równe 0,6 % kwoty przyznanej premii. 2. Bank kredytujący pobiera wynagrodzenie, o którym mowa w ust. 1, w dniu uruchomienia pierwszej transzy udzielonego kredytu i przekazuje je na rachunek wskazany przez BGK. 3. W przypadku, o którym mowa w art. 12 ust. 4, BGK potrąca należne mu wynagrodzenie prowizyjne z kwoty przekazywanej inwestorowi premii kompensacyjnej.”;
-- **9)** w załączniku do ustawy, w objaśnieniach: n – liczba lokali kwaterunkowych w budynku mieszkalnym albo w części budynku mieszkalnego;”,
-    - **a)** parametry w i n otrzymują brzmienie: „w – wartość wskaźnika przeliczeniowego;
+- **9)** w załączniku do ustawy, w objaśnieniach:
+    - **a)** parametry w i n otrzymują brzmienie: „w – wartość wskaźnika przeliczeniowego; n – liczba lokali kwaterunkowych w budynku mieszkalnym albo w części budynku mieszkalnego;”,
     - **b)** parametr m otrzymuje brzmienie: „m – wyrażony liczbą miesięcy okres, w którym obowiązywały w stosunku do i-tego lokalu kwaterunkowego ograniczenia określone w art. 2 pkt 13, w okresie od dnia 12 listopada 1994 r. do dnia 25 kwietnia 2005 r., a w przypadku nabycia budynku mieszkalnego albo części budynku mieszkalnego z tym lokalem kwaterunkowym po dniu 12 listopada 1994 r. w sposób inny niż w drodze spadkobrania – od dnia nabycia do dnia 25 kwietnia 2005 r.”.
 
 **Art. 2.** Do wniosków o przyznanie premii złożonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.

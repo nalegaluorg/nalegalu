@@ -33,9 +33,9 @@ source: pdf
 - **2)** art. 70zj otrzymuje brzmienie: „Art. 70zj. Opłaty, o których mowa w art. 70h ust. 2, art. 70j ust. 4, art. 70k ust. 4, art. 70za ust. 1 oraz art. 70ze ust. 2, stanowią przychód Transportowego Dozoru Technicznego.”;
 - **3)** art. 70zr otrzymuje brzmienie: „Art. 70zr. Opłaty, o których mowa w art. 70zo ust. 1 oraz art. 70zp ust. 2, stanowią przychód Transportowego Dozoru Technicznego.”;
 - **4)** art. 70zw otrzymuje brzmienie: „Art. 70zw. Opłata, o której mowa w art. 70zu ust. 1, stanowi przychód Transportowego Dozoru Technicznego.”;
-- **5)** w art. 140n: 1) pkt 1 stanowią dochód budżetu państwa; 2) pkt 2 stanowią przychód Transportowego Dozoru Technicznego.”,
+- **5)** w art. 140n:
     - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) za wprowadzenie do obrotu albo niewycofanie z obrotu pojazdów, o których mowa w art. 70d ust. 1, ust. 4 i ust. 6 pkt 2, nieprzeznaczonych dla konsumentów, nakłada Dyrektor Transportowego Dozoru Technicznego.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Kary pieniężne, o których mowa w ust. 2:
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Kary pieniężne, o których mowa w ust. 2: 1) pkt 1 stanowią dochód budżetu państwa; 2) pkt 2 stanowią przychód Transportowego Dozoru Technicznego.”,
     - **c)** ust. 5 otrzymuje brzmienie: „5. Kary pieniężne są wnoszone na odrębne rachunki bankowe odpowiednio budżetu państwa albo Transportowego Dozoru Technicznego, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna.”;
 
 - **6)** w art. 70h ust. 1 i 8, art. 70i ust. 3–8, art. 70j ust. 1, 5 i 6, art. 70k ust. 1, 5 i 6, art. 70l, art. 70m ust. 1, ust. 3 pkt 2, art. 70n, art. 70o ust. 1, art. 70p, art. 70q ust. 1 i 2, art. 70r, art. 70u ust. 1, ust. 2 pkt 2, ust 3–7, art. 70v, art. 70w ust. 1, 2 i 4, art. 70x, art. 70y ust. 1, art. 70z ust. 7, art. 70za ust. 1, 4–8, art. 70zc, art.70zd, art. 70ze ust. 2, art. 70zf ust. 1 i 2, art. 70zh ust. 1 i 3, art. 70zi ust. 1, art. 70zn ust. 6, art. 70zo ust. 1, art. 70zp ust. 1 i 4–6 oraz art. 70zu ust. 1 użyte w różnych przypadkach wyrazy ”minister właściwy do spraw transportu” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Dyrektor Transportowego Dozoru Technicznego”.

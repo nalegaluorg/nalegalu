@@ -29,10 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) w art. 66a:
 
-opinia powinna wskazywać pierwotną cechę identyfikacyjną lub jednoznacznie wykluczać ingerencję w pole numerowe w celu umyślnego jej zniszczenia lub zafałszowania albo wskazywać na brak oryginalnie umieszczonej cechy identyfikacyjnej.”.
-
 - **a)** w ust. 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) zabytkowego, w którym cecha identyfikacyjna nie została umieszczona.”,
-- **b)** ust. 3 otrzymuje brzmienie: „3. Okoliczności, o których mowa w ust. 2 pkt 6 i 7, powinny być potwierdzone pisemną opinią rzeczoznawcy samochodowego, o którym mowa w art. 79a;
+- **b)** ust. 3 otrzymuje brzmienie: „3. Okoliczności, o których mowa w ust. 2 pkt 6 i 7, powinny być potwierdzone pisemną opinią rzeczoznawcy samochodowego, o którym mowa w art. 79a; opinia powinna wskazywać pierwotną cechę identyfikacyjną lub jednoznacznie wykluczać ingerencję w pole numerowe w celu umyślnego jej zniszczenia lub zafałszowania albo wskazywać na brak oryginalnie umieszczonej cechy identyfikacyjnej.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

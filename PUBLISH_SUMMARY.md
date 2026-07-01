@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-07-01 16:08 UTC
+Generated: 2026-07-01 18:07 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 19250 |
-| Updated/new | 1423 |
-| Unchanged | 10801 |
+| Updated/new | 813 |
+| Unchanged | 11411 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 6395 |
 | Blocked by quality gate | 698 |
@@ -22,7 +22,7 @@ Generated: 2026-07-01 16:08 UTC
 | Published | 19261 | 19250 | -11 |
 | Rejected | 415 | 426 | +11 |
 | Articles | 215857 | 215805 | -52 |
-| Body chars | 590,191,554 | 589,613,883 | -577671 |
+| Body chars | 590,191,554 | 589,613,872 | -577682 |
 
 ## Quality gate breakdown
 
@@ -148,22 +148,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Issue | Count |
 |-------|------:|
 | Original PDF candidate for unified act | 4941 |
-
-## Newly rejected (11)
-
-| Address | Reason |
-|---------|--------|
-| WDU20140001124 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20180002152 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20200000349 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20200001053 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20200001973 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20210000857 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20230001897 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20230002174 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20230002533 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20240000153 | scan only or no digital PDF; types=['H', 'I', 'O'] |
-| WDU20240000634 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 
 ## Blocked acts (698)
 

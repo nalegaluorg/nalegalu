@@ -30,9 +30,9 @@ source: pdf
 **Art. 1.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 17 pkt 11 otrzymuje brzmienie: „11) wyznacza w ogłoszeniu, o którym mowa w pkt 9, termin, w którym osoby fizyczne i prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej mogą wnosić uwagi dotyczące projektu planu, nie krótszy niż 14 dni od dnia zakończenia okresu wyłożenia projektu planu;”;
-- **2)** w art. 18: 1) opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262) lub 2) opatrzone podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235) lub 3) za pomocą elektronicznej skrzynki podawczej w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
+- **2)** w art. 18:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Uwagi do projektu planu miejscowego może wnieść każdy, kto kwestionuje ustalenia przyjęte w projekcie planu, wyłożonym do publicznego wglądu, o którym mowa w art. 17 pkt 9.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Jako wniesione na piśmie uznaje się również uwagi wniesione w postaci elektronicznej:
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Jako wniesione na piśmie uznaje się również uwagi wniesione w postaci elektronicznej: 1) opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262) lub 2) opatrzone podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235) lub 3) za pomocą elektronicznej skrzynki podawczej w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

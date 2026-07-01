@@ -81,9 +81,9 @@ source: pdf
 
 **Art. 6.** W ustawie z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 187: 3b. W przypadku utraty przez podmiot wyznaczony zgodnie z ust. 3a uprawnienia do nadawania stopnia doktora w danej dyscyplinie albo stopnia doktora habilitowanego w danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia do nadawania stopnia w tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.”;
+- **1)** w art. 187:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Od dnia 1 stycznia 2021 r. postępowania w sprawach, o których mowa w art. 28 ust. 3a i 3b ustawy uchylanej w art. 169 pkt 2, prowadzi Rada Doskonałości Naukowej.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Od dnia 1 stycznia 2021 r. w postępowaniach w sprawach, o których mowa w art. 29 ust. 3 ustawy uchylanej w art. 169 pkt 2, organem wydającym postanowienie o wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu o wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie.
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Od dnia 1 stycznia 2021 r. w postępowaniach w sprawach, o których mowa w art. 29 ust. 3 ustawy uchylanej w art. 169 pkt 2, organem wydającym postanowienie o wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu o wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie. 3b. W przypadku utraty przez podmiot wyznaczony zgodnie z ust. 3a uprawnienia do nadawania stopnia doktora w danej dyscyplinie albo stopnia doktora habilitowanego w danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia do nadawania stopnia w tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.”;
 
 - **2)** w art. 238:
     - **a)** ust. 10 otrzymuje brzmienie: „10. Do jednostek, o których mowa w ust. 9, stosuje się przepisy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy, o której mowa w ust. 9, z wyłączeniem art. 84b ust. 2 i 4 ustawy uchylanej w art. 169 pkt 3.”,

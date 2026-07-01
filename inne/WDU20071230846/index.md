@@ -37,8 +37,8 @@ source: pdf
 
 - **4)** art. 24a otrzymuje brzmienie: „Art. 24a. Minister właściwy do spraw kultury fizycznej i sportu określi, w drodze rozporządzenia, tryb rejestracji statków używanych wyłącznie do uprawiania sportu lub rekreacji, wzory ksiąg rejestrowych i dokumentów rejestracyjnych.”;
 - **5)** skreśla się art. 34a;
-- **6)** w załączniku do ustawy zatytułowanym „Wysokości opłat”: 1. za wpis statku do rejestru – 60 zł 2. za dokonanie zmian wpisu w rejestrze – 15 zł 3. za wtórnik dokumentu rejestracyjnego – 15 zł 4. za wyciąg lub odpis z rejestru – 15 zł”,
-    - **a)** część IIIa tabeli otrzymuje brzmienie: „IIIa Rejestr statków używanych wyłącznie do uprawiania sportu lub rekreacji
+- **6)** w załączniku do ustawy zatytułowanym „Wysokości opłat”:
+    - **a)** część IIIa tabeli otrzymuje brzmienie: „IIIa Rejestr statków używanych wyłącznie do uprawiania sportu lub rekreacji 1. za wpis statku do rejestru – 60 zł 2. za dokonanie zmian wpisu w rejestrze – 15 zł 3. za wtórnik dokumentu rejestracyjnego – 15 zł 4. za wyciąg lub odpis z rejestru – 15 zł”,
     - **b)** skreśla się część Va tabeli.
 
 **Art. 2.**

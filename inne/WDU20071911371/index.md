@@ -29,8 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459) wprowadza się następujące zmiany:
 
-- **1)** w art. 1: 1) w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.; 2) na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279).”,
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą wystąpić również osoby fizyczne będące w dniu wejścia w życie ustawy użytkownikami wieczystymi nieruchomości, niezależnie od jej przeznaczenia, jeżeli użytkowanie wieczyste uzyskały:
+- **1)** w art. 1:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą wystąpić również osoby fizyczne będące w dniu wejścia w życie ustawy użytkownikami wieczystymi nieruchomości, niezależnie od jej przeznaczenia, jeżeli użytkowanie wieczyste uzyskały: 1) w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.; 2) na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279).”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą również wystąpić osoby fizyczne będące następcami prawnymi osób, o których mowa w ust. 1 i 1a oraz osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa w ust. 2.”,
     - **c)** ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 1a pkt 2 i ust. 2 pkt 1 stosuje się również do osób, które prawo użytkowania wieczystego albo udział w tym prawie uzyskały po dniu wejścia w życie ustawy.”;
 

@@ -60,8 +60,8 @@ source: pdf
 
 **Art. 11.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 89 w ust. 1: 6) olejów napędowych o kodzie CN 2710 19 41 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1196,00 zł/1000 litrów;”,
-    - **a)** pkt 5 i 6 otrzymują brzmienie: „5) paliw do silników odrzutowych o kodzie CN 2710 19 21 – 1446,00 zł/1000 litrów;
+- **1)** w art. 89 w ust. 1:
+    - **a)** pkt 5 i 6 otrzymują brzmienie: „5) paliw do silników odrzutowych o kodzie CN 2710 19 21 – 1446,00 zł/1000 litrów; 6) olejów napędowych o kodzie CN 2710 19 41 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1196,00 zł/1000 litrów;”,
     - **b)** pkt 8 otrzymuje brzmienie: „8) biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1196,00 zł/1000 litrów;”;
 
 - **2)** w art. 99 ust. 2 i 3 otrzymują brzmienie: „2. Stawki akcyzy na wyroby tytoniowe wynoszą: 1) na papierosy, z zastrzeżeniem ust. 10 – 170,97 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 115,86 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 254,20 zł za każde 1000 sztuk. 3. Na papierosy lub tytoń do palenia nieobjęte obowiązkiem oznaczania znakami akcyzy i nieoznaczone maksymalną ceną detaliczną stawki akcyzy wynoszą: 1) na papierosy – 312,00 zł za każde 1000 sztuk; 2) na tytoń do palenia – 208,00 zł za każdy kilogram.”.

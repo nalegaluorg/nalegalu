@@ -35,8 +35,8 @@ source: pdf
     - **c)** w ust. 4a w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) ogólnodostępną stronę internetową przeznaczoną do ogłoszeń funduszu.”;
 
 - **2)** w art. 23 ust. 1 otrzymuje brzmienie: „1. Zmianę statutu otwarty fundusz ogłasza na ogólnodostępnej stronie internetowej przeznaczonej do ogłoszeń funduszu nie później niż w terminie 2 miesięcy od dnia doręczenia otwartemu funduszowi zezwolenia na zmianę statutu. Wraz z ogłoszeniem o zmianie statutu otwarty fundusz każdorazowo zamieszcza na tej stronie tekst jednolity statutu.”;
-- **3)** w art. 49: 6) pracownicy osób pozostających z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.”,
-    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) osoby pozostające z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze;
+- **3)** w art. 49:
+    - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) osoby pozostające z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze; 6) pracownicy osób pozostających z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.”,
     - **b)** po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową na żądanie komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo z wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza, jeżeli informacja ta jest niezbędna w tym postępowaniu.”;
 
 - **4)** w art. 70 ust. 1 otrzymuje brzmienie: „1. Treść zezwolenia organu nadzoru na przejęcie zarządzania otwartym funduszem lub połączenie powszechnych towarzystw otwarty fundusz ogłasza niezwłocznie na ogólnodostępnej stronie internetowej przeznaczonej do ogłoszeń funduszu.”;
