@@ -8,10 +8,10 @@ pos: 206
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie niektórych przepisów o zaopatrzeniu emerytalnym.
+# Ustawa z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym.
 
 *USTAWA z dnia 24 maja 1990 r.*
 
@@ -29,10 +29,41 @@ source: "isap-pdf"
 
 **Art. 1.** W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz.U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 290 i 192 oraz z 1990 r. Nr 10, poz. 58 i 61) wprowadza się następujące zmiany:
 
-**Art. 16².**
+- **1)** w art. 2 w pkt 1 skreśla się wyraz „oraz” i w to miejsce stawia się przecinek oraz po wyrazach „stypendia sportowe” dodaje się wyrazy „oraz osobom wykonującym pracę w czasie odbywania kary pozbawienia wolności, kary aresztu wojskowego, kary aresztu za wykroczenie i w czasie tymczasowego aresztowania”;
+- **2)** w art. 5 dodaje się pkt 7 i 8 w brzmieniu: „7) przeciętne wynagrodzenie - przeciętne wynagrodzenie pracowników w gospodarce uspołecznionej ogółem, ogłaszane przez prezesa Głównego Urzędu Statystycznego,
+- **8)** przewidywane przeciętne wynagrodzenie - prognozę przeciętnego miesięcznego wynagrodzenia pracowników w gospodarce uspołecznionej, ustalaną w sposób określony w art. 74 ust. 1, ogłaszaną przez Prezesa Głównego Urzędu Statystycznego.”;
+- **3)** w art. 11:
+    - **a)** w ust. 2: - pkt 5 skreśla się, - pkt 6 otrzymuje brzmienie: „6) sprawowania mandatu posła lub senatora w Państwie Polskim”, - w pkt 9 po wyrazach „inwalidą wojennym” dodaje się wyrazy „lub wojskowym”, - w pkt 10 wyrazy „w okresie po dniu 1 listopada 1918 r.” skreśla się, - pkt 14 otrzymuje brzmienie: „14) czasowego pozostawania bez pracy z powodu niemożności jej otrzymania lub niemożności podjęcia szkolenia zawodowego udowodnionej dokumentami, w tym okresy pobierania zasiłków z funduszu aktywizacji zawodowej, zasiłków dla bezrobotnych oraz zasiłków szkoleniowych z Funduszu pracy”, - dodaje się pkt 15-18 w brzmieniu: „15) pracy wykonywanej - w wymiarze czasu pracy nie niższym niż połowa obowiązującego pracownika w danym zawodzie - w czasie odbywania kary pozbawienia wolności, kary aresztu wojskowego, kary aresztu za wykroczenie oraz w czasie tymczasowego aresztowania,
 
-1. Podstawę wymiaru renty rodzinnej stanowi:
+- **16)** pobytu w więzieniu z przyczyn politycznych na obszarze Państwa Polskiego lub Związku Socjalistycznych Republik Radzieckich,
+- **17)** internowania na podstawie art. 42 dekretu z dnia 12 grudnia 1981 r. o stanie wojennym (Dz.U. Nr 29, poz. 154, z 1982 r. Nr 3, poz. 18 i z 1989 r. Nr 34, poz. 178),
+- **18)** niesłusznego pozbawienia wolności, udowodnionego dokumentami.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Za okresy, o których mowa w ust. 2 pkt 18, uważa się w szczególności okresy:
 
+- **1)** tymczasowego aresztowania, jeżeli nie nastąpiło skazanie, a oskarżony został uniewinniony lub postępowanie zostało umorzone z innej przyczyny niż amnestia,
+- **2)** tymczasowego aresztowania, przekraczające orzeczona karę pozbawienia wolności,
+- **3)** odbywania pozbawienia wolności, jeżeli wskutek wznowienia postępowania lub rewizji nadzwyczajnej zapadł wyrok uniewinniający lub postępowanie umorzono z powodu okoliczności wyłączającej ściganie, pominiętej w pierwotnym postępowaniu, lub z powodu braku cech przestępstwa,
+- **4)** odbywania kary pozbawienia wolności, przekraczającej karę pozbawienia wolności orzeczoną w wyniku wznowienia postępowania lub rewizji nadzwyczajnej.”;
+- **4)** w art. 13:
+    - **a)** w ust. 1: - po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) zaokrętowania marynarzy polskich w charakterze członków załogi na statku bandery własnej lub bandery koalicyjnej, przeznaczonym do działań wojennych w okresie wojny 19391945”, - pkt 3 otrzymuje brzmienie: „3) działalności kombatanckiej.”, - w pkt 4 wyrazy „do dnia 9 maja 1945 r.” skreśla się,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Za okresy zaliczalne do okresu zatrudnienia uważa się także okresy pracy przymusowej w czasie od dnia 1 września 1939 r.”,
+    - **c)** dodaje się nowy ust. 6 w brzmieniu: „6. Okresy, o których mowa w ust. 1 i 2, dolicza się w wymiarze podwójnym do okresu zatrudnienia, od którego zależy przyznanie emerytury lub renty.”,
+    - **d)** dotychczasowe ust. 6 i 7 otrzymują oznaczenie ust. 7 i 8;
+
+- **5)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Podstawę wymiaru emerytury i renty stanowi przeciętne wynagrodzenie wypłacone pracownikowi za okres, o którym mowa w ust. 2, zwaloryzowane w sposób określony w ust. 3 i 4.
+
+2. Do ustalenia podstawy wymiaru emerytur i renty przyjmuje się, z zastrzeżeniem art. 16 , wynagrodzenie wypłacone pracownikowi za okres:
+
+- **1)** ostatnich czterech kwartałów kalendarzowych albo
+- **2)** kolejnych 3 lat kalendarzowych wybranych przez zainteresowanego z ostatnich 12 lat kalendarzowych, licząc wstecz od roku (kwartału), w którym zgłoszono wniosek o emeryturę lub rentę.
+
+3. Ustala się kwotę wynagrodzenia wypłaconego pracownikowi za okres każdego roku kalendarzowego (każdego kwartału kalendarzowego) oraz stosunek tej kwoty do kwoty rocznej (kwartalnej) przeciętnego wynagrodzenia, ogłoszonej za dany rok kalendarzowy (kwartał kalendarzowy), wyrażając go w procentach z zaokrągleniem do setnych części procentu. Średnia arytmetyczna tych procentów stanowi wskaźnik wysokości wynagrodzenia pracownika.
+
+4. Zwaloryzowane przeciętne wynagrodzenie pracownika otrzymuje się mnożąc kwotę przewidywanego przeciętnego wynagrodzenia, stanowiącą podstawę ostatniej waloryzacji poprzedzającej kwartał, w którym zgłoszono wniosek o emeryturę lub rentę, przez wskaźnik wysokości wynagrodzenia pracownika,
+
+5. Jeżeli podstawy wymiaru emerytury lub renty nie można ustalić zgodnie z zasadami określonymi w ust. 1-4, emeryturę lub rentę przyznaje się w kwocie najniższego świadczenia.”;
+
+- **6)** po art. 16 dodaje się art. 16 i 16 w brzmieniu: „Art. 16 . Przepis art. 16 stosuje się również przy ustalaniu podstawy wymiaru emerytury i renty od wynagrodzenia, które stosownie do przepisów o składkach na ubezpieczenie społeczne jest deklarowane w najniższych kwotach. Jeżeli jednak do ustalenia podstawy wymiaru zostanie wskazane choćby za jeden miesiąc - wynagrodzenie, które zostało zadeklarowane do podstawy wymiaru składek w wysokości wyższej od najniższej kwoty, podstawę wymiaru stanowi wynagrodzenie wypłacone pracownikowi za wymagany okres kolejnych lat kalendarzowych wybranych przez zainteresowanego z ostatnich 12 lat kalendarzowych, licząc wstecz od roku, w którym zgłoszono wniosek o emeryturę lub rentę. Art. 16 2 . 1. Podstawę wymiaru renty rodzinnej stanowi:
 - **1)** w razie śmierci pracownika, który nie miał ustalonego prawa do emerytury lub renty inwalidzkiej - kwota ustalona w myśl art. 16 lub 16 na podstawie wynagrodzenia wypłaconego pracownikowi,
 - **2)** w razie śmierci emeryta (rencisty), który nie był zatrudniony po przyznaniu emerytury lub renty inwalidzkiej - podstawę wymiaru tej emerytury lub renty inwalidzkiej,
 - **3)** w razie śmierci emeryta (rencisty) zatrudnionego po przyznaniu emerytury lub renty inwalidzkiej - podstawa wymiaru tej emerytury lub renty inwalidzkiej albo kwota ustalona w myśl art. 16 lub art. 16 na podstawie wynagrodzenia emeryta (rencisty), jeżeli jest to korzystniejsze.
@@ -56,11 +87,7 @@ source: "isap-pdf"
 - **10)** w art. 29 ust. 2 otrzymuje brzmienie: „2. Emeryturę zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia wraz z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia ponad okres wynoszący 20 lat.”;
 - **11)** w art. 35 ust. 2 otrzymuje brzmienie: „2. Rentę inwalidzka zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia, wraz z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia, ponad okres wynoszący 20 lat.”;
 - **12)** w art. 44 ust. 3 otrzymuje brzmienie: „3. Rentę rodzinna zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia zmarłego pracownika, wraz z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia, ponad okres wynoszący 20 lat.”;
-- **13)** w dziale II ustawy dodaje się rozdział 4a w brzmieniu: „Rozdział 4a. Wskaźnik indywidualnego wymiaru świadczenia.
-
-**Art. 49¹.**
-
-1. Dla każdej przyznanej emerytury i renty ustala się, z zastrzeżeniem art. 49 , wskaźnik indywidualnego wymiaru świadczenia, który przedstawia stosunek emerytury (renty) do podstawy jej wymiaru, wyrażony w procentach z zaokrągleniem do setnych części procentu: wskaźnik ten określa się w decyzji o przyznaniu emerytury i renty.
+- **13)** w dziale II ustawy dodaje się rozdział 4a w brzmieniu: „Rozdział 4a. Wskaźnik indywidualnego wymiaru świadczenia. Art. 49 1 . 1. Dla każdej przyznanej emerytury i renty ustala się, z zastrzeżeniem art. 49 , wskaźnik indywidualnego wymiaru świadczenia, który przedstawia stosunek emerytury (renty) do podstawy jej wymiaru, wyrażony w procentach z zaokrągleniem do setnych części procentu: wskaźnik ten określa się w decyzji o przyznaniu emerytury i renty.
 
 2. Wskaźnik indywidualnego wymiaru świadczenia ustala się, dzieląc kwotę świadczenia - obliczoną od podstawy wymiaru ustalonej w decyzji o przyznaniu świadczenia wraz ze wszystkimi przysługującymi wzrostami i dodatkami, z wyjątkiem dodatków rodzinnych, dodatku dl sierot zupełnych i dodatku pielęgnacyjnego - przez tę kwotę podstawy wymiaru.
 
@@ -69,13 +96,43 @@ source: "isap-pdf"
 4. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe zasady ustalania wskaźnika indywidualnego wymiaru świadczenia w wypadkach, w których:
 
 - **1)** w prawie do emerytury lub renty zaszła zmiana inna niż przewidziana w art. 74,
-- **2)** podstawę wymiaru emerytury lub renty stanowi podstawa wcześniej przyznanego świadczenia.
+- **2)** podstawę wymiaru emerytury lub renty stanowi podstawa wcześniej przyznanego świadczenia. Art. 49 2 . Wskaźnika indywidualnego wymiaru świadczenia nie ustala się, jeżeli emeryturę lub rentę przyznaje się bez ustalenia podstawy wymiaru w kwocie najniższego świadczenia.”;
+- **14)** w art. 60 skreśla się wyraz „miesięcznego”;
+- **15)** w art. 62 w ust. 3 skreśla się wyraz „miesięcznej”;
+- **16)** po art. 63 dodaje się art. 63 w brzmieniu: „Art. 63 . Osobom wykonującym pracę - w wymiarze czasu pracy nie niższym niż połowa obowiązującego pracownika w danym zawodzie - w czasie odbywania kary pozbawienia wolności, kary aresztu wojskowego, kary aresztu za wykroczenie i w czasie tymczasowego aresztowania oraz pozostałym po nich członkom rodzin przysługują świadczenia na zasadach i w wysokości określonych w ustawie. Przy ustalaniu podstawy wymiaru emerytury i renty należność za tę pracę w wysokości przyjętej do ustalenia składki traktuje się na równi z wynagrodzeniem. Wysokość i podstawę wymiaru tej składki określa Rada Ministrów w przepisach dotyczących składek na ubezpieczenie społeczne.”;
+- **17)** art. 64 otrzymuje brzmienie: „Art. 64. 1. Prezes Rady Ministrów może w szczególnie uzasadnionych przypadkach, na wniosek ministrów (kierowników urzędów centralnych), przyznać emeryturę lub rentę na warunkach i w wysokości innej niż określone w ustawie.
 
-**Art. 49².** Wskaźnika indywidualnego wymiaru świadczenia nie ustala się, jeżeli emeryturę lub rentę przyznaje się bez ustalenia podstawy wymiaru w kwocie najniższego świadczenia.”;
+2. Prezes Rady Ministrów przedstawia Sejmowi w terminie do dnia 31 stycznia każdego roku kalendarzowego informację o przyznanych w roku poprzedzającym emeryturach i rentach na podstawie ust. 1.”;
 
-**Art. 74².**
+- **18)** art. 67 otrzymuje brzmienie: „Art. 67. 1. Kwoty najniższych emerytur i rent - bez uwzględnienia dodatków, o których mowa w art. 46 - wynoszą:
+- **1)** 35% kwoty przewidywanego przeciętnego wynagrodzenia, stanowiącej podstawę waloryzacji, z zaokrągleniem do pełnego tysiąca złotych - w przypadku emerytury, renty rodzinnej i renty inwalidzkiej I i II grupy oraz renty inwalidzkiej III grupy dla inwalidów, którzy osiągnęli wiek: 55 lat kobieta, 60 lat mężczyzna,
+- **2)** 27% kwoty przewidywanego przeciętnego wynagrodzenia, stanowiącej podstawę waloryzacji, z zaokrągleniem do pełnego tysiąca złotych - w przypadku renty inwalidzkiej III grupy dla inwalidów, którzy nie osiągnęli wieku: 55 lat kobieta, 60 lat mężczyzna.
 
-1. Prezes Głównego Urzędu Statystycznego, w porozumieniu z Ministrami Finansów, Pracy i Polityki Socjalnej oraz Kierownikiem Centralnego Urzędu Planowania, opracowuje prognozę przewidywanego przeciętnego wynagrodzenia na dany kwartał z uwzględnieniem kwoty przeciętnego wynagrodzenia w poprzednim kwartale oraz dostępnych danych o przeciętnym wynagrodzeniu za pierwszy miesiąc bieżącego kwartału.
+2. Podwyższenie kwot najniższych emerytur i rent następuje od pierwszego miesiąca kwartału, w którym jest przeprowadzana waloryzacja. Realizacja podwyżki świadczeń do tych kwot następuje w trzecim miesiącu tego kwartału, z wyrównaniem od pierwszego miesiąca kwartału.
+
+3. Emerytury i renty ustalone w kwotach niższych niż określone w ust. 1 i 2 podwyższa się do tych kwot z urzędu, a jeżeli ich wypłata była wstrzymana - po wznowieniu wypłaty.
+
+4. Rada Ministrów, w drodze rozporządzenia, może określić kwoty najniższych emerytur i rent wyższa od kwot, o których mowa w ust. 1 i
+
+2. ”;
+
+- **19)** art. 74 otrzymuje brzmienie: „Art. 74. 1. Emerytury i renty podlegają okresowej waloryzacji, której dokonuje się przez podwyższenie podstawy ich wymiaru odpowiednio do wzrostu przeciętnego wynagrodzenia. Waloryzacja obejmuje wszystkie świadczenia, z wyjątkiem tych, których podstawa wymiaru została obliczona od kwoty przewidywanego przeciętnego wynagrodzenia, stanowiącej podstawę tej waloryzacji.
+
+2. Podstawę wymiaru emerytury i renty podwyższa się, z zastrzeżeniem ust. 4-6, od pierwszego miesiąca kwartału, mnożąc ją przez wskaźnik waloryzacji ustalony w sposób, o którym mowa w ust. 3.
+
+3. Wskaźnik waloryzacji ustala się dzieląc kwotę przewidywanego na bieżący kwartał przeciętnego wynagrodzenia przez kwitę wynagrodzenia stanowiącą podstawę ostatnio przeprowadzonej waloryzacji.
+
+4. Wskaźnik waloryzacji wyrażą się w procentach z zaokrągleniem do setnych części procentu. Jeżeli w danym kwartale wskaźnik waloryzacji byłby niższy od 105%, waloryzacji nie przeprowadza się.
+
+5. Realizacja podwyżki świadczeń wynikającej z waloryzacji następuje w trzecim miesiącu każdego kwartału, z wyrównaniem od pierwszego miesiąca tego kwartału.
+
+6. Kwota podwyżki podstawy wymiaru waloryzowanej emerytury i renty nie może przekroczyć 200% kwoty różnicy między kwotami przewidywanego przeciętnego wynagrodzenia, o których mowa w ust. 3.
+
+7. Rada Ministrów na początku trzeciego miesiąca każdego kwartału dokonuje oceny sytuacji materialnej emerytów i rencistów oraz może zaliczkowo podwyższyć świadczenia na poczet następnej waloryzacji od pierwszego miesiąca przyszłego kwartału.”;
+
+- **20)** po art. 74 dodaje się art. 74 i 74 w brzmieniu: „Art. 74 . 1. Podwyższenie świadczeń zgodnie z art. 74 następuje z urzędu, a jeżeli ich wypłata była wstrzymana - po wznowieniu wypłaty z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie wstrzymania wypłaty świadczeń.
+
+2. Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez pomnożenie wskaźnik indywidualnego wymiaru świadczenia, o którym mowa w art. 49 . Art. 74 2 . 1. Prezes Głównego Urzędu Statystycznego, w porozumieniu z Ministrami Finansów, Pracy i Polityki Socjalnej oraz Kierownikiem Centralnego Urzędu Planowania, opracowuje prognozę przewidywanego przeciętnego wynagrodzenia na dany kwartał z uwzględnieniem kwoty przeciętnego wynagrodzenia w poprzednim kwartale oraz dostępnych danych o przeciętnym wynagrodzeniu za pierwszy miesiąc bieżącego kwartału.
 
 2. Prezes Głównego Urzędu Statystycznego ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
@@ -117,27 +174,186 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 27 września 1973 r. o zaopatrzeniu emerytalnym twórców i ich rodzin (Dz.U. z 1983 r. Nr 31, poz. 145, z 1986 r. Nr 42, poz. 202 i z 1989 r. Nr 35, poz. 190) wprowadza się następujące zmiany:
 
+- **1)** w art. 6 ust. 2 oraz oznaczenie ust. 1 skreśla się;
+- **2)** w art. 8 w ust. 2 wyrazy „i górną” skreśla się;
+- **3)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Podstawę wymiaru emerytur i renty stanowi przeciętny przychód za okres, o którym mowa w ust. 2, od którego obliczono i opłacono składki - ustalony i zwaloryzowany w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+2. Do ustalenia podstawy wymiaru emerytury i renty przyjmuje się przychód, od którego obliczono i opłacono składki, za okres kolejnych trzech lat kalendarzowych działalności twórczej, wybranych przez zainteresowanego z całego okresu ubezpieczenia.
+
+3. Emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+
+- **4)** w art. 11 w ust. 2 wyrazy „Za podstawę wymiaru” zastępuje się wyrazami ”Do podstawy wymiaru”.
+
 **Art. 3.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz.U. z 1983 r. Nr 13, poz. 68) wprowadza się następujące zmiany:
+
+- **1)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Podstawę wymiaru renty inwalidzkiej stanowi:
+- **1)** 75% kwoty przewidywanego przeciętnego wynagrodzenia, o której mowa w ust. 1, z zaokrągleniem do pełnego tysiąca złotych - dla inwalidy, który otrzymuje emeryturę lub rentę z innego tytułu albo osiąga wynagrodzenie z tytułu zatrudnienia lub dochód z innych źródeł,
+- **2)** 100% kwoty przewidywanego przeciętnego wynagrodzenia, o której mowa w ust. 2, z zaokrągleniem do pełnego tysiąca złotych - dla inwalidy, który nie otrzymuje emerytury lub renty z innego tytułu i nie osiąga wynagrodzenia z tytułu zatrudnienia lub dochodu z innych źródeł.
+
+2. Podstawę wymiaru renty inwalidzkiej ustala się od kwoty przewidywanego przeciętnego wynagrodzenia, stanowiącej podstawę waloryzacji na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. Podwyższenie kwot podstawy wymiaru renty inwalidzkiej następuje od pierwszego miesiąca kwartału, w którym jest przeprowadzana waloryzacja.
+
+3. Podstawę wymiaru renty inwalidzkiej może stanowić kwota wyższa od kwot określonych w ust. 1, jeżeli:
+
+- **1)** renta pobierana przez inwalidę wojennego przed dniem 1 stycznia 1983 r. była obliczona od wynagrodzenia wyższego niż wówczas obowiązujące kwoty określone w ust. 1,
+- **2)** wysokość renty uległa ponownemu ustaleniu na zasadach określonych w art. 55.
+
+4. Renty inwalidzkie ustalone od podstawy wymiaru, o której mowa w ust. 3, podlegają okresowej waloryzacji przez podwyższenie podstawy ich wymiaru odpowiednio do wzrostu przeciętnego wynagrodzenia - na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+5. Ustalenie wysokości renty następuje przez pomnożenie podwyższonej w myśl ust. 1 lub 4 podstawy wymiaru przez stawkę wymiaru świadczenia określoną w art. 10. Realizacja podwyżki renty następuje w trzecim miesiącu kwartału, w którym jest przeprowadzana waloryzacja - z wyrównaniem od pierwszego miesiąca tego kwartału.”;
+
+- **2)** w art. 25 ust. 2 i 3 otrzymują brzmienie: „2. Podstawę wymiaru renty rodzinnej stanowi - w zależności od wyboru osoby uprawnionej:
+- **1)** kwota, o której mowa w art. 11 ust. 1 pkt 1, jeżeli choćby jedna z osób uprawnionych do renty osiąga wynagrodzenie z tytułu zatrudnienia lub dochody z innych źródeł, albo kwota, o której mowa w art. 11 ust. 1 pkt 2, jeżeli żadna z osób uprawnionych do renty nie osiąga takich dochodów,
+- **2)** podstawa wymiaru renty inwalidzkiej zmarłego inwalidy,
+- **3)** kwota podstawy wymiaru ustalona od wynagrodzenia inwalidy wojennego na zasadach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+3. Przepis art. 11 ust. 2, 4 i 5 stosuje się odpowiednio.”;
+
+- **3)** w art. 37:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Jeżeli żołnierz w chwili powołania do służby był pracownikiem lub jeżeli jego zatrudnienie ustało w okresie nie dłuższym niż 3 miesiące przed powołaniem do służby, podstawę wymiaru renty ustala się od wynagrodzenia na zasadach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin, jeżeli jest to korzystniejsze.”,
+    - **b)** ust. 4 skreśla się,
+    - **c)** ust. 7 i 7 otrzymują brzmienie: „6. Renty obliczone od podstawy wymiaru, o której mowa w ust. 1, podlegają okresowej waloryzacji odpowiednio do wzrost uposażeń żołnierzy zawodowych: podstawę wymiaru tych rent podwyższa się od pierwszego miesiąca każdego kwartału według stawek uposażenia obowiązujących w pierwszym dniu tego miesiąca; realizacja podwyżki następuje w trzecim miesiącu kwartału.
+
+7. Renty obliczone od podstawy wymiaru, o której mowa w ust. 3 i 5, podlegają okresowej waloryzacji odpowiednio według zasad określonych w art. 11 ust. 2, 4 i 5.”;
+
+- **4)** w art. 46 ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru renty rodzinnej stanowi, w zależności od wyboru osoby uprawnionej, kwota ustalona z zastosowaniem art. 25 ust. 2 pkt 1, art. 37 ust. 1 labo art. 37 ust. 3.”;
+- **5)** w art. 55:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Wysokość renty inwalidzkiej ulega, na wniosek inwalidy, ponownemu ustaleniu, jeżeli inwalida nie nabył prawa do emerytury lub renty z innego tytułu, a po przyznaniu renty inwalidzkiej był zatrudniony co najmniej przez okres wymagany do ustalenia podstawy wymiaru i jeżeli renta obliczona od wynagrodzenia z tytułu tego zatrudnienia byłaby wyższa od renty, do której jest uprawniony. Przy ustalaniu podstawy wymiaru renty od wynagrodzenia stosuje się przepisy o zaopatrzeniu emerytalnym pracowników i ich rodzin.”,
+    - **b)** ust. 2 skreśla się;
 
 **Art. 4.** W ustawie z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz.U. z 1983 r. Nr 30, poz. 144 i z 1989 r. Nr 35, poz. 192) wprowadza się następujące zmiany:
 
+- **1)** art. 20 i 21 otrzymują brzmienie: „Art. 20. 1. Podstawę wymiaru renty inwalidzkiej stanowi przeciętne wynagrodzenie pracownika ustalone i zwaloryzowane w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+2. Rada Ministrów określa w drodze rozporządzenia kwotę najniższej renty inwalidzkiej wyższą co najmniej o 20% od kwot określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+3. Rada Ministrów może określić w drodze rozporządzenia korzystniejsze zasady ustalenia podstawy wymiaru renty inwalidzkiej, gdy wskutek wypadku przy pracy lub choroby zawodowej zmniejszyła się w znacznym stopniu możliwość uzyskania przez pracownika wyższego wynagrodzenia w przyszłości. Art. 21 Renta inwalidzka podlega podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+
+- **2)** w art. 27 ust. 2 otrzymuje brzmienie: „2. Przy ustalaniu podstawy wymiaru renty stosuje się odpowiednio przepisy art. 20. Renta rodzinna podlega podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **3)** art. 40 skreśla się.
+
 **Art. 5.** W ustawie z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących prace na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz.U. z 1983 r. Nr 31, poz. 146 oraz z 1989 r. Nr 32, poz. 169 i Nr 35, poz. 190) wprowadza się następujące zmiany:
+
+- **1)** w art. 6:
+    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Podstawę wymiaru emerytury i renty stanowi przeciętny dochód stanowiący podstawę wymiaru składek za okres, o którym mowa w ust. 4, ustalony i zwaloryzowany w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+4. Do ustalenia podstawy wymiaru emerytury i renty przyjmuje się dochód, od którego ustalono składki, za okres kolejnych 3 lat kalendarzowych wybranych przez zainteresowanego z ostatnich 12 lat, licząc od roku, w którym zgłoszono wniosek o emeryturę lub rentę.”,
+
+- **b)** dodaje się ust. 6 i 7 w brzmieniu: „6. Jeżeli w okresie, o którym mowa w ust. 4, ubezpieczony był pracownikiem albo wykonywał działalność, z tytułu której był objęty ubezpieczeniem społecznym na podstawie odrębnych przepisów, przy ustalaniu podstawy wymiaru uwzględnia się, na jego wniosek, wynagrodzenie lub dochód, który stanowił podstawę wymiaru składek na to ubezpieczenie.
+
+7. Emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+
+- **2)** art. 7 otrzymuje brzmienie: „Art. 7. Rada Ministrów określa, w drodze rozporządzenia, szczegółowe zasady ustalania podstawy wymiaru świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 3, i składek na to ubezpieczenie.”;
+- **3)** w art. 15 w ust. 1 pkt 3 i ust. 2 skreśla się;
+- **4)** w art. 16 ust. 6 po wyrazach „stał się inwalida I lub II grupy po upływie 18 miesięcy od ustania” dodaje się wyraz „poprzedniego”.
 
 **Art. 6.** W ustawie z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz.U. z 1983 r. Nr 27, poz. 135 i z 1989 r. Nr 35, poz. 190) wprowadza się następujące zmiany:
 
+- **1)** w art. 3 ust. 3 otrzymuje brzmienie: „3. Emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **2)** w art. 13 w ust. 1 pkt 3 i ust. 2 skreśla się;
+- **3)** w art. 14:
+    - **a)** ust. 2 i 3 skreśla się,
+    - **b)** w ust. 3 po wyrazach „stał się inwalida I lub II grupy po upływie 18 miesięcy od ustania” dodaje się wyraz „poprzedniego”;
+
+- **4)** w art. 15 ust. 3 skreśla się;
+- **5)** art. 17 skreśla się;
+- **6)** w art. 18 wyrazy „w Polsce Ludowej” oraz „art. 14 ust. 2” i „art. 17 ust. 1” skreśla się;
+- **7)** wprowadza się art. 19 w brzmieniu: „Art. 19. Podstawę wymiaru emerytury i renty stanowi przeciętny dochód ustalony i zwaloryzowany w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **8)** art. 23 skreśla się;
+- **9)** w art. 26 w ust. 1 w pkt 2 dodaje się na początku wyraz „szczegółowe”.
+
 **Art. 7.** W ustawie z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz.U. z 1989 r. Nr 46, poz. 250) wprowadza się następujące zmiany:
+
+- **1)** w art. 9:
+    - **a)** w ust. 1 wyrazy „z uwzględnieniem ust. 2-5” zastępuje się wyrazami „z uwzględnieniem ust. 2-7”,
+    - **b)** ust. 5-7 otrzymują brzmienie: „5. Podstawę wymiaru emerytury i renty stanowi przeciętny dochód stanowiący podstawę wymiaru składek za okres, o którym mowa w ust. 6, ustalony i zwaloryzowany w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
+
+6. Do ustalenia podstawy wymiaru emerytury i renty przyjmuje się dochód, od którego ustalono składki, za okres kolejnych 3 lat kalendarzowych wybranych przez zainteresowanego z ostatnich 12 lat, licząc wstecz od roku, w którym zgłoszono wniosek o emeryturę lub rentę.
+
+7. Jeżeli w okresie, o którym mowa w ust. 6, ubezpieczony był pracownikiem albo wykonywał działalność, z tytułu której był objęty ubezpieczeniem społecznym na podstawie odrębnych przepisów, przy ustalaniu podstawy wymiaru uwzględnia się, na jego wniosek, wynagrodzenie lub dochód, który stanowił podstawę wymiaru składek na to ubezpieczenie.”,
+
+- **c)** dodaje się ust. 8 w brzmieniu: „8. Emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach w e terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **2)** art. 19 otrzymuje brzmienie: „Art. 19. Do podstawy wymiaru świadczeń określonych w art. 5 pkt 2, 4, 5 i 7 przyjmuje się kwoty, od których ustalono składki na ubezpieczenie.”;
+- **3)** w art. 20 po wyrazach „podstawy wymiaru świadczeń” dodaje się wyrazy „o których mowa w art. 5 pkt 2 i 7”;
+- **4)** w art. 23 ust. 2 skreśla się;
+- **5)** w art. 24 wyrazy „Minister Pracy i Polityki Socjalnej” zastępuje się wyrazami „Rada Ministrów” oraz dodaje na końcu wyrazy „a także może określić wypadki, w których następuje zwolnienie od opłacania składek.”
 
 **Art. 8.** W ustawie z dnia 1 lutego 1983 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz.U. Nr 5, poz. 32 i z 1989 r. Nr 35, poz. 192) wprowadza się następujące zmiany:
 
+- **1)** w art. 5:
+    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) pod ziemią na stanowiskach dozoru ruchu oraz kierownictwa ruchu kopalń i przedsiębiorstw określonych w pkt 1-3, a także w kopalniach siarki i przedsiębiorstwach, o których mowa w pkt 4, określonych przez właściwych ministrów.”,
+    - **b)** w ust. 2 pkt 1 skreśla się;
+
+- **2)** w art. 6:
+    - **a)** w ust. 1 wyrazy „w Polsce Ludowej” zastępuje się wyrazami „na obszarze Państwa Polskiego”,
+    - **b)** w ust. 1 pkt 1 otrzymuje brzmienie” „1) w przodkach bezpośrednio przy urabianiu i ładowaniu urobku oraz przy innych pracach przodkowych, przy montażu, likwidacji i transporcie obudów, maszyn urabiających, ładujących i transportujących w przodkach oraz przy głębieniu szybów i robotach szybowych,”;
+
+- **3)** w art. 9 ust. 2 otrzymuje brzmienie: „2. Wiek emerytalny wymagany od pracowników mających: kobieta 20 lat, a mężczyzna 25 lat pracy górniczej, równorzędnej i okresów zaliczalnych do pracy górniczej, w tym co najmniej 15 lat pracy górniczej, o której mowa w art. 5 ust. 1, wynosi:
+- **1)** 54 lata - w okresie do dnia 30 czerwca 1983 r.,
+- **2)** 53 lata - w okresie od dnia 1 lipca 1983 r.,
+- **3)** 52 lata - w okresie od dnia 1 lipca 1984 r.,
+- **4)** 51 lat - w okresie od dnia 1 lipca 1985 r.,
+- **5)** 50 lat - w okresie od dnia 1 stycznia 1986 r.”;
+- **4)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Prawo do górniczej emerytury bez względu na wiek i zajmowane stanowisko przysługuje górnikom którzy pracę górniczą, o której mowa w art. 5 ust. 1 pkt 1, 2, 5-9 i 11, wykonywali pod ziemią stale i w pełnym wymiarze czasu pracy przez okres wynoszący co najmniej 25 lat.
+
+2. Przy ustalaniu okresów pracy górniczej, uprawniających do górniczej emerytury na podstawie ust. 1, nie stosuje się określonej w art. 6 zasady zaliczania niektórych okresów pracy górniczej w wymiarze półtorakrotnym.”;
+
+- **5)** w art. 11 ust. 3 skreśla się;
+- **6)** w art. 17 w ust. 2 pkt 2 skreśla się;
+- **7)** art. 18 otrzymuje brzmienie: „Art. 18. Górnicze emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **8)** w art. 19:
+    - **a)** w ust. 1 wyrazy „2 i” skreśla się,
+    - **b)** ust. 2 skreśla się;
+
+- **9)** art. 26 skreśla się.
+
 **Art. 9.** W ustawie z dnia 28 kwietnia 1983 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz.U. Nr 23, poz. 99 i z 1985 r. Nr 20, poz. 85) wprowadza się następujące zmiany:
+
+- **1)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru kolejowej emerytury i kolejowej renty stanowi przeciętne wynagrodzenie wypłacone pracownikowi z tytułu zatrudnienia na kolei lub zatrudnienia równorzędnego z zatrudnieniem na kolei ustalone i zwaloryzowane w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”,
+    - **b)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) przeciętne wynagrodzenie - z okresu zatrudnienia na kolei lub zatrudnienia równorzędnego z zatrudnieniem na kolei - osiągnięte po przyznaniu renty ustalonej i zwaloryzowanej w sposób, o którym mowa w ust. 1, jeżeli jest to korzystniejsze dla zainteresowanego.”,
+    - **c)** w ust. 3 dodaje się na końcu wyrazy „oraz przy ustalaniu podstawy wymiaru kolejowej renty inwalidzkiej dla osoby, która wcześniej miała ustalone prawo do kolejowej emerytury.”;
+
+- **2)** w art. 11:
+    - **a)** w ust. 1 w pkt 1 wyrazy „w okresie zatrudnienia na kolei lub w okresie równorzędnym z okresem zatrudnienia na kolei albo nie później niż w ciągu 5 lat od ustania tych okresów” skreśla się,
+    - **b)** ust. 2 skreśla się;
+
+- **3)** w art. 12:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Kolejową emeryturę zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia ponad 20 lat, łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia.”,
+    - **b)** ust. 3 skreśla się,
+    - **c)** w ust. 4 powołanie „ust. 1-3” zastępuje się powołaniem „ust. 1 i 2”;
+
+- **4)** w art. 14 w ust. 2 i w art. 16 ust. 3 wyrazy „w Polsce Ludowej” skreśla się;
+- **5)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Wysokość kolejowej emerytury lub kolejowej renty inwalidzkiej ulega na wniosek emeryta lub rencisty ponownemu ustaleniu od wyższego wynagrodzenia wypłaconego po przyznaniu świadczenia - z tytułu dalszego zatrudnienia na kolei lub zatrudnienia równorzędnego z zatrudnieniem na kolei - za cały okres wymagany do ustalenia podstawy wymiaru.”;
+- **6)** art. 23 skreśla się;
+- **7)** art. 24 otrzymuje brzmienie: „Art. 24. Kolejowe emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”.
 
 **Art. 10.** W ustawie z dnia 17 maja 1989 r. o ubezpieczeniu społecznym duchownych (Dz.U. Nr 29, poz. 156) wprowadza się następujące zmiany:
 
+- **1)** w art. 11 w ust. 1 wyrazy „z zastrzeżeniem ust. 2” zastępuje się wyrazami „z zastrzeżeniem ust. 2 i 3”,
+- **2)** art. 24 otrzymuje brzmienie: „Art. 24. Emerytury, renty inwalidzkie i renty rodzinne podlegają podwyższeniu na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.”;
+- **3)** art. 36 otrzymuje brzmienie: „Art. 36. Osobom, które do dnia wejścia ustawy w życie osiągnęły wiek emerytalny lub stały się inwalidami I lub II grupy, przyznaje się emeryturę lub rentę w wysokości najniższej, określonej na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin, bez obowiązku opłacania składek.”
+
 **Art. 11.** W ustawie z dnia 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz.U. z 1983 r. Nr 29, poz. 139, z 1984 r. Nr 52, poz. 270, z 1986 r. Nr 20, poz. 85 i z 1989 r. Nr 35, poz. 190) wprowadza się następujące zmiany:
 
-**Art. 6².**
+- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Emerytury i renty podlegają okresowej waloryzacji, której dokonuje się przez podwyższenie podstawy ich wymiaru odpowiednio do wzrostu przeciętnego uposażenia żołnierzy zawodowych.
 
-1. Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez pomnożenie podwyższonej podstawy wymiaru przez wskaźnik indywidualnego wymiaru świadczenia, o którym mowa w ust. 2 i 3.
+2. Podstawę wymiaru waloryzowanej emerytury i renty podwyższa się, z zastrzeżeniem ust. 3-6, od pierwszego miesiąca kwartału, mnożąc ją przez wskaźnik waloryzacji. Wskaźnik ustala się dzieląc kwotę przewidywanego na bieżący kwartał przeciętnego uposażenia żołnierzy zawodowych przez kwotę takiego uposażenia stanowiącą podstawę ostatnio przeprowadzonej waloryzacji. Wskaźnik waloryzacji wyraża się w procentach z zaokrągleniem do setnych części procentu.
+
+3. Jeżeli w danym kwartale wskaźnik waloryzacji byłby niższy od 105%, waloryzacji nie przeprowadza się.
+
+4. Realizacja podwyżki świadczeń wynikających z waloryzacji następuje w trzecim miesiącu kwartału z wyrównaniem od pierwszego miesiąca tego kwartału.
+
+5. Kwota podwyżki podstawy wymiaru waloryzowanej emerytury i renty, nie może przekroczyć 200% kwoty wzrostu przewidywanego przeciętnego uposażenia żołnierzy zawodowych, o którym mowa w ust. 2.
+
+6. Rada Ministrów na początku trzeciego miesiąca każdego kwartału dokonuje oceny sytuacji materialnej emerytów i rencistów oraz może zaliczkowo podwyższyć świadczenia na poczet następnej waloryzacji od pierwszego miesiąca przyszłego kwartału.”;
+
+- **2)** po art. 6 dodaje się art. 6 -6 w brzmieniu: „Art. 6 . 1. Waloryzacją, o której mowa w art. 6, obejmuje się emerytury i renty żołnierzy zwolnionych z zawodowej służby wojskowej do ostatniego dnia kwartału poprzedzającego kwartał, w którym ta waloryzacja następuje, z zastrzeżeniem art. 6 ust. 3.
+
+2. Jeżeli w kwartale, w którym nastąpiło zwolnienie żołnierza z zawodowej służby wojskowej, żołnierz ten nie został objęty podwyżką uposażenia wprowadzoną w tym kwartale, w podstawie wymiaru jego emerytury i renty uwzględnia się stawki podwyższonego uposażenia.
+
+3. Wskaźnik waloryzacji emerytur i rent podwyższanych po raz pierwszy ustala się, dzieląc kwotę przewidywanego przeciętnego uposażenia żołnierzy zawodowych na kwartał, w którym następuje waloryzacja, przez kwotę faktycznego przeciętnego uposażenia żołnierzy zawodowych w ostatnim miesiącu kwartału, w którym nastąpiło zwolnienie żołnierza z zawodowej służby wojskowej. Przepis art. 6 ust. 3 i 5 stosuje się odpowiednio.
+
+4. Przepisy ust. 1-3 stosuje się odpowiednio do rent rodzinnych. Art. 6 2 . 1. Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez pomnożenie podwyższonej podstawy wymiaru przez wskaźnik indywidualnego wymiaru świadczenia, o którym mowa w ust. 2 i 3.
 
 2. Wskaźnik indywidualnego wymiaru świadczenia przedstawia stosunek emerytury lub renty do podstawy ich wymiaru, wyrażony w procentach, z zaokrągleniem do setnych części procentu; określa się go w decyzji o ustaleniu emerytury lub renty.
 
@@ -145,23 +361,61 @@ source: "isap-pdf"
 
 4. Wskaźnik indywidualnego wymiaru świadczenia ulega ponownemu ustaleniu, jeżeli w prawie do emerytury lub renty bądź w ich wysokości nastąpiła inna zmiana niż w wyniku waloryzacji.
 
-5. Ustalenie wysokości emerytury lub renty wskutek zmiany, o której mowa w ust. 4, następuje przez obliczenie świadczenia od podstawy wymiaru określonej w wyniku ostatniej waloryzacji, z zastosowaniem nowego wskaźnika indywidualnego wymiaru świadczenia.
+5. Ustalenie wysokości emerytury lub renty wskutek zmiany, o której mowa w ust. 4, następuje przez obliczenie świadczenia od podstawy wymiaru określonej w wyniku ostatniej waloryzacji, z zastosowaniem nowego wskaźnika indywidualnego wymiaru świadczenia. Art. 6 3 . 1. Waloryzacja świadczeń następuje z urzędu, a jeżeli prawo do świadczeń było zawiedzone lub wypłata świadczeń wstrzymana - na wniosek osoby zainteresowanej, po ustaniu przyczyn zawieszenia prawa do świadczeń lub wstrzymania wypłaty świadczeń.
 
-**Art. 6³.**
+2. W razie wznowienia wypłaty świadczeń, o których mowa w ust. 1, ich waloryzacji dokonuje się z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie zawieszenia lub wstrzymania. Zasadę tę stosuje się również, gdy między okresem, z którego uposażenie przyjmuje się do podstawy wymiaru, a pierwszym okresem, za który następuje wypłata świadczenia, przypadał co najmniej jeden termin waloryzacji. Art. 6 4 . Minister Obrony Narodowej ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 5 dnia drugiego miesiąca każdego kwartału wskaźniki waloryzacji, o których mowa w art. 6 ust. 2 i art. 6 ust. 3. Jeżeli wskaźnik ten wynosi co najmniej 105%, Minister Obrony Narodowej ogłasza jednocześnie maksymalne kwoty podwyżek podstawy wymiaru, o których mowa w art. 6 ust. 5 i art. 6 ust. 3”;
 
-1. Waloryzacja świadczeń następuje z urzędu, a jeżeli prawo do świadczeń było zawiedzone lub wypłata świadczeń wstrzymana - na wniosek osoby zainteresowanej, po ustaniu przyczyn zawieszenia prawa do świadczeń lub wstrzymania wypłaty świadczeń.
+- **3)** w art. 7:
+    - **a)** w ust. 1 wyrazy „w okresie po dniu 1 listopada 1918 r.” skreśla się,
+    - **b)** w ust. 3 wyrazy „do dnia 13 lutego 1946 r.” skreśla się,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Na równi ze służbą w Wojsku Polskim traktuje się przypadające w czasie od dnia 1 września 1939 r. okresy:
 
-2. W razie wznowienia wypłaty świadczeń, o których mowa w ust. 1, ich waloryzacji dokonuje się z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie zawieszenia lub wstrzymania. Zasadę tę stosuje się również, gdy między okresem, z którego uposażenie przyjmuje się do podstawy wymiaru, a pierwszym okresem, za który następuje wypłata świadczenia, przypadał co najmniej jeden termin waloryzacji.
+- **1)** działalności w ruchu oporu, z wyłączeniem tajnego nauczania,
+- **2)** służby w Armii Związku Socjalistycznych Republik Radzieckich i w innych armiach sojuszniczych,
+- **3)** pobytu w niewoli lub obozach dla internowanych żołnierzy.”;
+- **4)** w art. 8 w ust. 1 w pkt 1 w lit. a) wyrazy „w okresie po dniu 1 listopada 1918 r.” skreśla się;
+- **5)** art. 13 skreśla się;
+- **6)** w art. 34 w ust. 3 powołanie „art. 6 ust. 3” zastępuje się powołaniem „art. 6 ust. 1”;
+- **7)** w art. 37 po ust. 1 dodaje się ust. 1 w brzmieniu: „1 . Wysokość emerytur i rent powiększonych, o których mowa w ust. 1, przy zbiegu świadczeń wojskowych lub milicyjnych, nie może przekraczać wraz z dodatkami, z wyłączeniem dodatku rodzinnego i dodatku pielęgnacyjnego:
+- **1)** dla inwalidów I grupy - 120%,
+- **2)** dla inwalidów II grupy - 110%,
+- **3)** dla inwalidów III grupy - 100% - podstawy ich wymiaru.”;
+- **8)** art. 61 otrzymuje brzmienie: „Art. 61. 1. Świadczenia pieniężne wypłaca właściwy wojskowy organ emerytalny.
 
-**Art. 6⁴.** Minister Obrony Narodowej ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 5 dnia drugiego miesiąca każdego kwartału wskaźniki waloryzacji, o których mowa w art. 6 ust. 2 i art. 6 ust. 3. Jeżeli wskaźnik ten wynosi co najmniej 105%, Minister Obrony Narodowej ogłasza jednocześnie maksymalne kwoty podwyżek podstawy wymiaru, o których mowa w art. 6 ust. 5 i art. 6 ust. 3”;
+2. Świadczenia wypłaca się do rąk osoby uprawnionej za pośrednictwem pocztu lub innych osób prawnych uprawnionych do prowadzenia działalności w zakresie doręczania świadczeń albo, na wniosek tej osoby, na jej rachunek w banku.
+
+3. Wydatki na świadczenia pieniężne, wraz z odsetkami za opóźnienia w wypłacie świadczeń, oraz koszty przekazywania świadczeń pokrywa się z Funduszu Ubezpieczeń Społecznych. Wydatki te podlegają refundacji z dotacji budżetu państwa.”;
+
+- **9)** w art. 63 ust. 2 otrzymuje brzmienie: „2. Wojskowy organ emerytalny wstrzymuje wypłatę świadczeń pieniężnych, jeżeli nie mogą być one doręczone z przyczyn od niego niezależnych.”;
+- **10)** w art. 67 w ust. 3 wyrazy „lub właściwy do spraw rent organ Zakładu Ubezpieczeń Społecznych” skreśla się.
 
 **Art. 12.** W ustawie z dnia 20 maja 1976 r. o zakwaterowaniu sił zbrojnych (Dz.U. z 1989 r. nr 52, poz.
 
+- **309)** w art. 14 ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 stosuje się odpowiednio do osób zwolnionych z zawodowej służby wojskowej:
+- **1)** przed dniem 1 stycznia 1983 r., które nie nabyły uprawnień do emerytury lub renty na podstawie przepisów ustawy z dnia 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz.U. z 1983 r. Nr 29, poz. 139, z 1984 r. Nr 52, poz. 270, z 1985 r. Nr 20, poz. 85 i z 1989 r. Nr 35, poz. 190) w brzmieniu obowiązującym do dnia 31 grudnia 1982 r., a które spełniają warunki do tych świadczeń na podstawie ustawy z dnia 23 marca 1983 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych (Dz.U. Nr 16, poz. 78),
+- **2)** przed dniem 1 stycznia 1990 r., które nie nabyły uprawnień do emerytury lub renty na podstawie przepisów ustawy wymienionej w pkt 1 w brzmieniu obowiązującym do dnia 31 grudnia 1989 r., a które spełniają warunki do tych świadczeń na podstawie tej ustawy w brzmieniu ustalonym po dniu 31 grudnia 1989 r.”
+
 **Art. 13.** W ustawie z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej i ich rodzin (Dz.U. z 1983 r. Nr 46, poz. 210, z 1985 r. Nr 20, poz. 85 i Nr 36, poz. 181 oraz z 1989 r. Nr 35, poz. 190 i 192) wprowadza się następujące zmiany:
 
-**Art. 6².**
+- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Emerytury i renty podlegają okresowej waloryzacji, której dokonuje się przez podwyższenie podstawy ich wymiaru odpowiednio do wzrostu przeciętnego uposażenia funkcjonariuszy.
 
-1. Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez pomnożenie podwyższonej podstawy wymiaru przez wskaźnik indywidualnego wymiaru świadczenia, o którym mowa w ust. 2 i 3.
+2. Podstawę wymiaru waloryzowanej emerytury i renty podwyższa się, z zastrzeżeniem ust. 3-6, od pierwszego miesiąca kwartału, mnożąc ją przez wskaźnik waloryzacji. Wskaźnik ustala się, dzieląc kwotę przewidywanego na bieżący kwartał przeciętnego uposażenia funkcjonariuszy przez kwotę takiego uposażenia stanowiącą podstawę ostatnio przeprowadzonej waloryzacji. Wskaźnik waloryzacji wyraża się w procentach z zaokrągleniem do setnych części procentu.
+
+3. Jeżeli w danym kwartale wskaźnik waloryzacji byłby niższy od 105%, waloryzacji nie przeprowadza się.
+
+4. Realizacja podwyżki świadczeń wynikających z waloryzacji następuje w trzecim miesiącu kwartału - z wyrównaniem od pierwszego miesiąca tego kwartału.
+
+5. Kwota podwyżki podstawy wymiaru waloryzowanej emerytury i renty nie może przekroczyć 200% kwoty wzrostu przewidywanego przeciętnego uposażenia żołnierzy zawodowych, o którym mowa w ust. 2.
+
+6. Rada Ministrów na początku trzeciego miesiąca każdego kwartału dokonuje oceny sytuacji materialnej emerytów i rencistów oraz może zaliczkowo podwyższyć świadczenia na poczet następnej waloryzacji od pierwszego miesiąca przyszłego kwartału.”;
+
+- **2)** po art. 6 dodaje się art. 6 -6 w brzmieniu: „Art. 6 . 1. Waloryzacją, o której mowa w art. 6, obejmuje się emerytury i renty funkcjonariuszy zwolnionych z zawodowej służby do ostatniego dnia kwartału poprzedzającego kwartał, w którym ta waloryzacja następuje, z zastrzeżeniem art. 6 ust. 3.
+
+2. Jeżeli w kwartale, w którym nastąpiło zwolnienie funkcjonariusza ze służby, funkcjonariusz ten nie został objęty podwyżką uposażenia wprowadzoną w tym kwartale, w podstawie wymiaru jego emerytury i renty uwzględnia się stawki podwyższonego uposażenia.
+
+3. Wskaźnik waloryzacji emerytur i rent podwyższanych po raz pierwszy ustala się, dzieląc kwotę przewidywanego przeciętnego uposażenia funkcjonariuszy w kwartale, w którym następuje waloryzacja, przez kwotę faktycznego przeciętnego uposażenia funkcjonariuszy w ostatnim miesiącu kwartału, w którym nastąpiło zwolnienie funkcjonariusza ze służby. Przepis art. 6 ust. 3 i 5 stosuje się odpowiednio.
+
+4. Przepisy ust. 1-3 stosuje się odpowiednio do rent rodzinnych. Art. 6 2 . 1. Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez pomnożenie podwyższonej podstawy wymiaru przez wskaźnik indywidualnego wymiaru świadczenia, o którym mowa w ust. 2 i 3.
 
 2. Wskaźnik indywidualnego wymiaru świadczenia przedstawia stosunek emerytury lub renty do podstawy ich wymiaru, wyrażony w procentach, z zaokrągleniem do setnych części procentu; określa się go w decyzji o ustaleniu emerytury lub renty.
 
@@ -169,19 +423,31 @@ source: "isap-pdf"
 
 4. Wskaźnik indywidualnego wymiaru świadczenia ulega ponownemu ustaleniu, jeżeli w prawie do emerytury lub renty bądź w ich wysokości nastąpiła inna zmiana niż w wyniku waloryzacji.
 
-5. Ustalenie wysokości emerytury lub renty wskutek zmiany, o której mowa w ust. 4, następuje przez obliczenie świadczenia od podstawy wymiaru określonej w wyniku ostatniej waloryzacji, z zastosowaniem nowego wskaźnika indywidualnego wymiaru świadczenia.
+5. Ustalenie wysokości emerytury lub renty wskutek zmiany, o której mowa w ust. 4, następuje przez obliczenie świadczenia od podstawy wymiaru określonej w wyniku ostatniej waloryzacji, z zastosowaniem nowego wskaźnika indywidualnego wymiaru świadczenia. Art. 6 3 . 1. Waloryzacja świadczeń następuje z urzędu, a jeżeli prawo do świadczeń było zawiedzone lub wypłata świadczeń wstrzymana - na wniosek osoby zainteresowanej, po ustaniu przyczyn zawieszenia prawa do świadczeń lub wstrzymania wypłaty świadczeń.
 
-**Art. 6³.**
+2. W razie wznowienia wypłaty świadczeń, o których mowa w ust. 1, ich waloryzacji dokonuje się z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie zawieszenia lub wstrzymania. Zasadę tę stosuje się również, gdy między okresem, z którego uposażenie przyjmuje się do podstawy wymiaru, a pierwszym okresem, za który następuje wypłata świadczenia, przypadał co najmniej jeden termin waloryzacji. Art. 6 4 . Minister Spraw Wewnętrznych ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 5 dnia drugiego miesiąca każdego kwartału wskaźniki waloryzacji, o których mowa w art. 6 ust. 2 i art. 6 ust. 3. Jeżeli wskaźnik ten wynosi co najmniej 105%, Minister Spraw Wewnętrznych ogłasza jednocześnie maksymalne kwoty podwyżek podstawy wymiaru, o których mowa w art. 6 ust. 5 i art. 6 ust. 3”
 
-1. Waloryzacja świadczeń następuje z urzędu, a jeżeli prawo do świadczeń było zawiedzone lub wypłata świadczeń wstrzymana - na wniosek osoby zainteresowanej, po ustaniu przyczyn zawieszenia prawa do świadczeń lub wstrzymania wypłaty świadczeń.
+- **3)** w art. 8 ust. 2 otrzymuje brzmienie: „2. W szczególnie uzasadnionych przypadkach funkcjonariuszowi, który posiada co najmniej 10-letni okres nieprzerwanej służby, Minister Spraw Wewnętrznych może zaliczyć do wysługi emerytalnej, na równi ze służbą, okresy zatrudnienia wykonywane w resorcie spraw wewnętrznych na pełnym etacie, jeżeli okresy te wynoszą co najmniej 10 lat. W przypadku gdy funkcjonariusz posiada wyższy niż 10-letni okres nieprzerwanej służby, okresy zatrudnienia wykonywanego w resorcie spraw wewnętrznych na pełnym etacie mogą wynosić odpowiednio mniej niż 10 lat.”;
+- **4)** w art. 9:
+    - **a)** w ust. 1 w pkt 1 w lit. a) wyrazy „w okresie po dniu 1 listopada 1918 r.” skreśla się,
+    - **b)** w ust. 2 wyrazy „do dnia 13 lutego 1946 r.” skreśla się;
 
-2. W razie wznowienia wypłaty świadczeń, o których mowa w ust. 1, ich waloryzacji dokonuje się z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie zawieszenia lub wstrzymania. Zasadę tę stosuje się również, gdy między okresem, z którego uposażenie przyjmuje się do podstawy wymiaru, a pierwszym okresem, za który następuje wypłata świadczenia, przypadał co najmniej jeden termin waloryzacji.
-
-**Art. 6⁴.** Minister Spraw Wewnętrznych ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 5 dnia drugiego miesiąca każdego kwartału wskaźniki waloryzacji, o których mowa w art. 6 ust. 2 i art. 6 ust. 3. Jeżeli wskaźnik ten wynosi co najmniej 105%, Minister Spraw Wewnętrznych ogłasza jednocześnie maksymalne kwoty podwyżek podstawy wymiaru, o których mowa w art. 6 ust. 5 i art. 6 ust. 3”
+- **5)** art. 13 skreśla się;
+- **6)** w art. 34 w ust. 3 powołanie „art. 6 ust. 3” zastępuje się powołaniem „art. 6 ust. 1”;
+- **7)** w art. 37 po ust. 1 dodaje się ust. 1 w brzmieniu: „1 . Wysokość emerytur i rent powiększonych, o których mowa w ust. 1, przy zbiegu świadczeń milicyjnych lub wojskowych, nie może przekraczać wraz z dodatkami, z wyłączeniem dodatku rodzinnego i dodatku pielęgnacyjnego:
+- **1)** dla inwalidów I grupy - 120%,
+- **2)** dla inwalidów II grupy - 110%,
+- **3)** dla inwalidów III grupy - 100% - podstawy ich wymiaru.”.
 
 **Art. 14.** W ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz.U. Nr 16, poz. 124 i Nr 25, poz. 187, z 1983 r. Nr 5, poz. 33 i z 1986 r. Nr 42, poz. 202) w art. 24:
 
+- **a)** w ust. 4 dodaje się na końcu wyrazy „i tryb ich opłacania”,
+- **b)** w ust. 5 pkt 1 skreśla się.
+
 **Art. 15.** W ustawie z dnia 25 listopada 1986 r. o organizacji i finansowaniu ubezpieczeń społecznych (Dz.U. z 1989 r. Nr 25, poz. 137 i Nr 74, poz. 441) w art. 33 wprowadza się następujące zmiany:
+
+- **a)** dodaje się nowy ust. 3 w brzmieniu: „3. Rada Ministrów może ustalić dodatkową składkę na ubezpieczenie społeczne pracowników w wypadku stwierdzenia - przez okręgowego inspektora pracy Państwowej Inspekcji pracy albo państwowego wojewódzkiego inspektora sanitarnego - pogorszenia warunków pracy w zakładzie pracy. Rada Ministrów określa sposób stwierdzenia pogorszenia warunków pracy oraz ustala, kiedy może nastąpić zaprzestanie wymierzania dodatkowej składki.”,
+- **b)** dotychczasowy ust. 3 oznacza się jako ust. 4.
 
 **Art. 16.** W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, z 1983 r. Nr 5, poz. 33, z 1988 r. Nr 19, poz. 132, z 1989 r, Nr 4, poz. 24 i Nr 35, poz. 192 oraz z 1990 r. Nr 34, poz. 197) w art. 87 ust. 2 i 3 oraz oznaczenie ust. 1 skreśla się.
 
@@ -190,6 +456,10 @@ source: "isap-pdf"
 **Art. 18.** W ustawie z dnia 31 marca 1977 r. o dalszym zwiększeniu emerytur i rent oraz o zmianie niektórych przepisów o zaopatrzeniu emerytalnym (Dz.U. Nr 11, poz. 43 i z 1982 r. Nr 40, poz. 267) art. 16 skreśla się.
 
 **Art. 19.** Przepisy ustaw i dekretu, o których mowa w art. 1-10 oraz w art. 11 i 13, w brzmieniu nadanym niniejszą ustawą, stosuje się do:
+
+- **1)** wniosków o świadczenia zgłoszonych poczynając od dnia ogłoszenia niniejszej ustawy,
+- **2)** wniosków o świadczenia zgłoszonych przed dniem ogłoszenia niniejszej ustawy, jeżeli choćby jeden z warunków do przyznania świadczenia został spełniony od tego dnia,
+- **3)** świadczeń przysługujących na podstawie przepisów dotychczasowych, z zastrzeżeniem art. 20-26.
 
 **Art. 20.** Świadczenia przysługujące na podstawie przepisów dotychczasowych nie podlegają rewizji, jeżeli zmiany wprowadzone niniejszą ustawą powodowałyby ustanie prawa do świadczeń albo obniżenie ich wysokości.
 
@@ -239,7 +509,22 @@ source: "isap-pdf"
 
 **Art. 25.** Wprowadzone na podstawie art. 11 niniejszej ustawy przepisy ustawy z dni 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz.U. z 1983 r. Nr 29, poz. 139, z 1984 r. Nr 52, poz. 270, z 1985 r. Nr 20, poz. 85 i z 1989 r. Nr 35, poz. 190) stosuje się z następującymi zastrzeżeniami:
 
+- **1)** do osób, które nabyły prawo do świadczeń z zastosowaniem art. 7 ust. 4, nie stosuje się art. 47,
+- **2)** renta rodzinna przysługuje także członkom rodzin pozostałym po osobach, które przy zastosowaniu art. 7 ust. 4 spełniałyby warunki do emerytury lub renty,
+- **3)** waloryzację świadczeń na zasadach określonych w art. 6-6 stosuje się począwszy od pierwszego kwartału 1990 r., z tym że:
+    - **a)** podwyżki świadczeń przewidziane na pierwszy kwartał 1990 r. zostały przeprowadzone na podstawie rozporządzenia Rady Ministrów z dnia 8 lutego 1990 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 stycznia 1990 r. (Dz.U. Nr 9, poz. 52),
+    - **b)** podwyżki świadczeń przeprowadzone na podstawie rozporządzeń Rady Ministrów z dnia 15 czerwca 1989 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 lipca 1989 r. (Dz.U. Nr 38, poz. 208 i Nr 50, poz. 291 oraz z 1990 r. Nr 3, poz. 17) oraz z dnia 9 listopada 1989 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 października 1989 r. (Dz.U. Nr 61, poz. 362) zastępują podwyżki przewidziane na dzień 1 marca 1990 r. w myśl art. 6, w brzmieniu obowiązującym do dnia ogłoszenia niniejszej ustawy,
+
+- **4)** emerytom i rencistom, którym przy zastosowaniu art. 37 ust. 1 przysługiwałyby renta inwalidzka powiększona o połowę emerytury labo emerytura powiększona o połowę renty inwalidzkiej w kwocie niższej od pobieranej w dniu 31 grudnia 1989 r., zachowuje się świadczenia w dotychczasowej wysokości do czasu nabycia uprawnień do świadczenia wyższego,
+- **5)** przejęcie przez wojskowe organy emerytalne wypłaty świadczeń pieniężnych z oddziałów Zakładu Ubezpieczeń Społecznych stosownie do art. 61 ust. 1 będzie następować sukcesywnie do końca 1990 r.
+
 **Art. 26.** Wprowadzone na podstawie art. 13 niniejszej ustawy przepisy ustawy z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej i ich rodzin (Dz.U. z 1983 r. Nr 46, poz. 210, z 1985 r. Nr 20, poz. 85 i Nr 38, poz. 181 oraz z 1989 r. Nr 35, poz. 190 i 192) stosuje się z następującymi zastrzeżeniami:
+
+- **1)** waloryzację świadczeń na zasadach określonych w art. 6-6 stosuje się począwszy od pierwszego kwartału 1990 r., z tym że:
+    - **a)** podwyżki świadczeń przewidziane na pierwszy kwartał 1990 r. zostały przeprowadzone na podstawie rozporządzenia Rady Ministrów z dnia 8 lutego 1990 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 stycznia 1990 r. (Dz.U. Nr 9, poz. 52),
+    - **b)** podwyżki świadczeń przeprowadzone na podstawie rozporządzeń Rady Ministrów z dnia 15 czerwca 1989 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 lipca 1989 r. (Dz.U. Nr 38, poz. 208 i Nr 50, poz. 291 oraz z 1990 r. Nr 3, poz. 17) oraz z dnia 9 listopada 1989 r. w sprawie podwyższenia świadczeń emerytalno-rentowych od dnia 1 października 1989 r. (Dz.U. Nr 61, poz. 362) zastępują podwyżki przewidziane na dzień 1 marca 1990 r. w myśl art. 6, w brzmieniu obowiązującym do dnia ogłoszenia niniejszej ustawy,
+
+- **2)** emerytom i rencistom, którym przy zastosowaniu art. 37 ust. 1a przysługiwałaby renta inwalidzka powiększona o połowę emerytury albo emerytura powiększona o połowę renty inwalidzkiej, w kwocie niższej od pobieranej w dniu 31 grudnia 1989 r. zachowuje się świadczenie w dotychczasowej wysokości do czasu nabycia uprawnień do świadczenia wyższego.
 
 **Art. 27.** Prezes Głównego Urzędu Statystycznego ogłosi w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 14 dni od ogłoszenia niniejszej ustawy, kwoty przeciętnego wynagrodzenia w latach 1950-1989 oraz w kolejnych kwartałach 1989 r.
 
