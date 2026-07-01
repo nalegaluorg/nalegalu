@@ -30,16 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz.U. Nr 199, poz. 1936, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 155, poz. 1298) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 19 otrzymuje brzmienie: „19) szczególnie niebezpieczne prace podwodne - czynności wykonywane pod powierzchnią wody z zastosowaniem materiałów wybuchowych lub pirotechnicznych, przy skażeniu niebezpiecznymi substancjami lub preparatami chemicznymi, przy cięciu i spawaniu metali, przy użyciu urządzeń hydraulicznych i pneumatycznych, przy poszukiwaniu, przenoszeniu i rozbrajaniu min lub amunicji, a także przy prowadzeniu prób nowego sprzętu nurkowego lub sprawdzaniu nowych technologii prac podwodnych.”;
-- **2)** w art. 19 ust. 2-6 otrzymują brzmienie: „2. Dyplom nurka III klasy uprawnia do wykonywania prac podwodnych na małych głębokościach.
-
-3. Dyplom nurka II klasy uprawnia do wykonywania prac podwodnych na średnich i małych głębokościach.
-
-4. Dyplom nurka I klasy uprawnia do wykonywania głębinowych prac podwodnych oraz prac podwodnych na średnich i małych głębokościach.
-
-5. Dyplom nurka saturowanego uprawnia do wykonywania bez ograniczeń wszystkich rodzajów prac podwodnych.
-
-6. Dyplom kierownika prac podwodnych II klasy uprawnia do kierowania pracami podwodnymi na średnich i małych głębokościach.”;
-
+- **2)** w art. 19 ust. 2-6 otrzymują brzmienie: „2. Dyplom nurka III klasy uprawnia do wykonywania prac podwodnych na małych głębokościach. 3. Dyplom nurka II klasy uprawnia do wykonywania prac podwodnych na średnich i małych głębokościach. 4. Dyplom nurka I klasy uprawnia do wykonywania głębinowych prac podwodnych oraz prac podwodnych na średnich i małych głębokościach. 5. Dyplom nurka saturowanego uprawnia do wykonywania bez ograniczeń wszystkich rodzajów prac podwodnych. 6. Dyplom kierownika prac podwodnych II klasy uprawnia do kierowania pracami podwodnymi na średnich i małych głębokościach.”;
 - **3)** w art. 23 uchyla się ust. 2 i 4;
 - **4)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Egzaminy, o których mowa w art. 20 ust. 1, przeprowadza Komisja Kwalifikacyjna dla Nurków, działająca przy Dyrektorze Urzędu Morskiego w Gdyni, zwana dalej „komisją”.”;
 - **5)** w art. 26 uchyla się pkt 4;

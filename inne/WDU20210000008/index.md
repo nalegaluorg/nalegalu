@@ -39,10 +39,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2019 r. poz. 712 i 2020) wprowadza się następujące zmiany:
 
-- **1)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Do spółki powstałej w wyniku przekształcenia przedsiębiorstwa komunalnego stosuje się przepisy Kodeksu spółek handlowych, jeżeli ustawa nie stanowi inaczej.
-
-2. Do spółki powstałej w wyniku przekształcenia przedsiębiorstwa komunalnego nie stosuje się przepisów art. 311 i art. 312 Kodeksu spółek handlowych.”;
-
+- **1)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Do spółki powstałej w wyniku przekształcenia przedsiębiorstwa komunalnego stosuje się przepisy Kodeksu spółek handlowych, jeżeli ustawa nie stanowi inaczej. 2. Do spółki powstałej w wyniku przekształcenia przedsiębiorstwa komunalnego nie stosuje się przepisów art. 311 i art. 312 Kodeksu spółek handlowych.”;
 - **2)** w art. 19 ust. 3 otrzymuje brzmienie: „3. Stosunek pracy dyrektora przedsiębiorstwa oraz pracowników zatrudnionych na podstawie powołania wygasa, z mocy prawa, z dniem wykreślenia przedsiębiorstwa komunalnego z Krajowego Rejestru Sądowego.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

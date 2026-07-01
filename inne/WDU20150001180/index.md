@@ -30,14 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, 985 i 1039) w art. 68:
 
 - **1)** w ust. 1b dodaje się zdanie drugie w brzmieniu: „Zarządzenie wojewody albo uchwała rady lub sejmiku stanowi akt prawa miejscowego lub może dotyczyć indywidualnych nieruchomości.”;
-- **2)** w ust. 2a pkt 4 i 5 otrzymują brzmienie: „4) zamiany lokalu mieszkalnego na:
-    - **a)** inny lokal mieszkalny będący przedmiotem prawa własności lub spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo
-    - **b)** nieruchomość przeznaczoną lub wykorzystywaną na cele mieszkaniowe będącą przedmiotem prawa własności lub prawa użytkowania wieczystego;
-
-- **5)** sprzedaży lokalu mieszkalnego, jeśli środki uzyskane z jego sprzedaży wykorzystane zostały w ciągu 12 miesięcy na nabycie:
-    - **a)** innego lokalu mieszkalnego będącego przedmiotem prawa własności lub przedmiotem spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo
-    - **b)** nieruchomości przeznaczonej lub wykorzystywanej na cele mieszkaniowe będącej przedmiotem prawa własności lub prawa użytkowania wieczystego.”;
-
+- **2)** w ust. 2a pkt 4 i 5 otrzymują brzmienie: „4) zamiany lokalu mieszkalnego na: a) inny lokal mieszkalny będący przedmiotem prawa własności lub spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo b) nieruchomość przeznaczoną lub wykorzystywaną na cele mieszkaniowe będącą przedmiotem prawa własności lub prawa użytkowania wieczystego; 5) sprzedaży lokalu mieszkalnego, jeśli środki uzyskane z jego sprzedaży wykorzystane zostały w ciągu 12 miesięcy na nabycie: a) innego lokalu mieszkalnego będącego przedmiotem prawa własności lub przedmiotem spółdzielczego własnościowego prawa do lokalu mieszkalnego, albo b) nieruchomości przeznaczonej lub wykorzystywanej na cele mieszkaniowe będącej przedmiotem prawa własności lub prawa użytkowania wieczystego.”;
 - **3)** po ust. 2c dodaje się ust. 2d w brzmieniu: „2d. Jeżeli w przypadkach, o których mowa w ust. 2a pkt 4 lub 5, na nabycie albo zamianę nieruchomości albo lokalu mieszkalnego nie zostały wykorzystane wszystkie uzyskane środki, obowiązek zwrotu, o którym mowa w ust. 2, dotyczy kwoty odpowiadającej części bonifikaty niewykorzystanej na nabycie lub zamianę, po jej waloryzacji.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

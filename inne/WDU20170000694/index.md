@@ -34,17 +34,10 @@ source: pdf
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Koszty zastępstwa można ustalić w wysokości wyższej niż stawka minimalna opłaty, stosowana w odniesieniu do czynności danego rodzaju, ale nieprzekraczającej sześciokrotności tej stawki, jeżeli przemawia za tym rodzaj i zawiłość sprawy oraz niezbędny nakład pracy rzecznika patentowego, w tym czynności podjęte w celu polubownego rozwiązania sporu, również przed wniesieniem pozwu. W przypadku ustalenia opłaty za czynności rzecznika patentowego w wysokości niższej niż stawka minimalna opłaty, stosowana w odniesieniu do czynności danego rodzaju, koszty zastępstwa ustala się zgodnie z przedstawionym spisem kosztów.”,
     - **c)** uchyla się ust. 3;
 
-- **2)** w art. 13a:
+- **2)** w art. 13a: 4. Koszty, o których mowa w ust. 1, obejmują: 1) koszty zastępstwa w wysokości nie wyższej niż 150% stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz 2) niezbędne udokumentowane wydatki rzecznika patentowego. 5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części.”.
     - **a)** ust. 1 otrzymuje brzmienie: „1. Skarb Państwa ponosi koszty nieopłaconej pomocy prawnej udzielonej przez rzecznika patentowego ustanowionego z urzędu.”,
     - **b)** uchyla się ust. 2,
     - **c)** dodaje się ust. 3–5 w brzmieniu: „3. W sprawie, w której kosztami postępowania został obciążony przeciwnik strony korzystającej z pomocy udzielonej przez rzecznika patentowego ustanowionego z urzędu, koszty, o których mowa w ust. 1, sąd przyznaje po wykazaniu bezskuteczności ich egzekucji.
-
-4. Koszty, o których mowa w ust. 1, obejmują:
-
-- **1)** koszty zastępstwa w wysokości nie wyższej niż 150% stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz
-- **2)** niezbędne udokumentowane wydatki rzecznika patentowego.
-
-5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części.”.
 
 **Art. 2.**
 

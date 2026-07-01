@@ -33,10 +33,7 @@ source: pdf
     - **a)** w pkt 1 dodaje się lit. d w brzmieniu: „d) orzeł wojsk specjalnych,”,
     - **b)** w pkt 5 dodaje się lit. d w brzmieniu: „d) flaga wojsk specjalnych.”;
 
-- **2)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Orłem wojsk specjalnych jest orzeł określony w art. 5, siedzący na tarczy amazonek koloru czarnego.
-
-2. Wzór orła wojsk specjalnych zawiera załącznik nr 3a.”;
-
+- **2)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Orłem wojsk specjalnych jest orzeł określony w art. 5, siedzący na tarczy amazonek koloru czarnego. 2. Wzór orła wojsk specjalnych zawiera załącznik nr 3a.”;
 - **3)** w art. 25 ust. 3 otrzymuje brzmienie: „3. Wzory flag rodzajów sił zbrojnych zawierają załączniki nr 12 – 15.”;
 - **4)** po załączniku nr 3 dodaje się załącznik nr 3a w brzmieniu określonym w załączniku nr 1 do niniejszej ustawy;
 - **5)** dodaje się załącznik nr 15 w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy.

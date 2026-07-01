@@ -35,14 +35,8 @@ source: pdf
 
 - **2)** w art. 147 w ust. 1 i 2 wyrazy "w dniu 1 lipca 1998 r." zastępuje się wyrazami "w dniu 1 lipca 1999 r.";
 - **3)** w art. 149 w pkt 1 wyrazy "pkt 1" zastępuje się wyrazami "pkt 3";
-- **4)** art. 151 otrzymuje brzmienie: "Art. 151. 1. Traci moc ustawa z dnia 1 lutego 1983 r. - Prawo o ruchu drogowym (Dz.U. z 1992 r. Nr 11, poz. 41 i Nr 26, poz. 114 oraz z 1995 r. Nr 104, poz. 515), z wyjątkiem art. 60, 6970 i 72-82, które tracą moc z dniem 30 czerwca 1999 r.
-
-2. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia jej w życie, zachowują moc przepisy wydane na podstawie ustawy, o której mowa w ust. 1, jeżeli nie są sprzeczne z niniejszą ustawą.";
-
-- **5)** art. 152 otrzymuje brzmienie: "Art. 152. Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem:
-- **1)** art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca 1998 r.,
-- **2)** art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.,
-- **3)** art. 74 ust. 2 pkt 2 lit. a), art. 77, 87, 88, 90-98 i 100-108, które wchodzą w życie z dniem 1 lipca 1999 r.".
+- **4)** art. 151 otrzymuje brzmienie: "Art. 151. 1. Traci moc ustawa z dnia 1 lutego 1983 r. - Prawo o ruchu drogowym (Dz.U. z 1992 r. Nr 11, poz. 41 i Nr 26, poz. 114 oraz z 1995 r. Nr 104, poz. 515), z wyjątkiem art. 60, 6970 i 72-82, które tracą moc z dniem 30 czerwca 1999 r. 2. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia jej w życie, zachowują moc przepisy wydane na podstawie ustawy, o której mowa w ust. 1, jeżeli nie są sprzeczne z niniejszą ustawą.";
+- **5)** art. 152 otrzymuje brzmienie: "Art. 152. Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem: 1) art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca 1998 r., 2) art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r., 3) art. 74 ust. 2 pkt 2 lit. a), art. 77, 87, 88, 90-98 i 100-108, które wchodzą w życie z dniem 1 lipca 1999 r.".
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

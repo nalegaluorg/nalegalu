@@ -29,12 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia z dnia 6 września 2001 r. o transporcie drogowym (Dz.U. z 2007 r. Nr 125, poz. 874, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 39f:
+- **1)** w art. 39f: 4. Kierowcy niebędącemu obywatelem państwa członkowskiego Unii Europejskiej, posiadającemu prawo jazdy wydane przez państwo trzecie, wykonującemu lub zamierzającemu wykonywać przewóz drogowy osób na rzecz przedsiębiorcy mającego siedzibę na terytorium Rzeczypospolitej Polskiej, który uzyskał kwalifikację wstępną lub ukończył szkolenie okresowe i ubiega się o wpis do prawa jazdy potwierdzający spełnienie wymagań, o których mowa w art. 39a ust. 1, właściwy ze względu na miejsce zamieszkania starosta, w trybie, o którym mowa w art. 94 ust. 2 ustawy - Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ), wymienia posiadane przez niego prawo jazdy zagraniczne na polskie krajowe prawo jazdy, dokonując jednocześnie wpisu potwierdzającego te wymagania. Dodatkowym warunkiem wymiany prawa jazdy jest złożenie przez przedsiębiorcę oświadczenia o zatrudnieniu lub nawiązaniu współpracy z tym kierowcą, który będzie wykonywał lub wykonuje na jego rzecz przewozy drogowe.”,
     - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Dla kierowcy niebędącego obywatelem państwa członkowskiego Unii Europejskiej, posiadającego prawo jazdy wydane przez państwo trzecie, wykonującego lub zamierzającego wykonywać przewóz drogowy rzeczy na rzecz przedsiębiorcy mającego siedzibę na terytorium Rzeczypospolitej Polskiej, potwierdzeniem spełnienia wymagań, o których mowa w art. 39a ust. 1 pkt 5 i 6, jest świadectwo kierowcy.
+    - **b)** uchyla się ust. 5-7;
 
-4. Kierowcy niebędącemu obywatelem państwa członkowskiego Unii Europejskiej, posiadającemu prawo jazdy wydane przez państwo trzecie, wykonującemu lub zamierzającemu wykonywać przewóz drogowy osób na rzecz przedsiębiorcy mającego siedzibę na terytorium Rzeczypospolitej Polskiej, który uzyskał kwalifikację wstępną lub ukończył szkolenie okresowe i ubiega się o wpis do prawa jazdy potwierdzający spełnienie wymagań, o których mowa w art. 39a ust. 1, właściwy ze względu na miejsce zamieszkania starosta, w trybie, o którym mowa w art. 94 ust. 2 ustawy - Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ), wymienia posiadane przez niego prawo jazdy zagraniczne na polskie krajowe prawo jazdy, dokonując jednocześnie wpisu potwierdzającego te wymagania. Dodatkowym warunkiem wymiany prawa jazdy jest złożenie przez przedsiębiorcę oświadczenia o zatrudnieniu lub nawiązaniu współpracy z tym kierowcą, który będzie wykonywał lub wykonuje na jego rzecz przewozy drogowe.”,
-
-- **b)** uchyla się ust. 5-7;
 - **2)** w art. 39i:
     - **a)** w ust. 1 uchyla się pkt 7,
     - **b)** w ust. 2 uchyla się pkt 8.

@@ -45,12 +45,10 @@ source: pdf
     - **a)** w ust. 1a po wyrazach „za zgodą kuratora oświaty,” dodaje się wyrazy „a w przypadku szkoły artystycznej - ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,”,
     - **b)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Przepisy ust. 1a i 1b stosuje się odpowiednio do placówek artystycznych, placówek, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych i placówek doskonalenia nauczycieli szkół artystycznych, z tym że zgodę na zatrudnienie osoby niebędącej nauczycielem wyraża minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”;
 
-- **4)** w art. 32a:
+- **4)** w art. 32a: 7.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Nadzór pedagogiczny nad publicznymi i niepublicznymi szkołami i placówkami artystycznymi, placówkami, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych oraz placówkami doskonalenia nauczycieli szkół artystycznych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, który w tym celu, a także w celu realizacji zadań, o których mowa w art. 5 ust. 7, w odniesieniu do szkół i placówek przez siebie prowadzonych może, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego oraz zadań, o których mowa w art. 5 ust.
+    - **b)** w ust. 4 wyrazy „szkół i placówek, o których mowa w ust. 1,” zastępuje się wyrazami „ szkół i placówek artystycznych”;
 
-7. ”,
-
-- **b)** w ust. 4 wyrazy „szkół i placówek, o których mowa w ust. 1,” zastępuje się wyrazami „ szkół i placówek artystycznych”;
 - **5)** w art. 36a:
     - **a)** w ust. 8 zdanie drugie otrzymuje brzmienie: „W uzasadnionych przypadkach, w uzgodnieniu z kuratorem oświaty, a w przypadku szkoły i placówki artystycznej oraz placówek, o których mowa w art. 2 pkt 7, dla uczniów szkół artystycznych - z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, można powierzyć to stanowisko na krótszy okres, jednak nie krótszy niż 1 rok szkolny.”,
     - **b)** ust. 9 otrzymuje brzmienie: „9. Po upływie okresu, o którym mowa w ust. 8, organ prowadzący, po zasięgnięciu opinii rady szkoły lub placówki i rady pedagogicznej, w uzgodnieniu z kuratorem oświaty, a w przypadku szkoły i placówki artystycznej oraz placówki, o której mowa w art. 2 pkt 7, dla uczniów szkół artystycznych - z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, może przedłużać powierzenie stanowiska na kolejne okresy wymienione w ust. 8 .”;

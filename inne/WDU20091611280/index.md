@@ -30,9 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 7 października 1999 r. o języku polskim (Dz. U. Nr 90, poz. 999, z późn. zm. ) w art. 8:
 
 - **1)** ust. 1 otrzymuje brzmienie: „1. Dokumenty w zakresie, o którym mowa w art. 7, w tym w szczególności umowy z udziałem konsumentów i umowy z zakresu prawa pracy, sporządza się w języku polskim, z zastrzeżeniem ust. 1b.”;
-- **2)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Dokumenty w zakresie, o którym mowa w art. 7, mogą być jednocześnie sporządzone w wersji lub wersjach obcojęzycznych. Podstawą ich wykładni jest wersja w języku polskim, jeżeli osoba świadcząca pracę lub konsument są obywatelami Rzeczypospolitej Polskiej.
-
-1b. Umowa o pracę lub inny dokument wynikający z zakresu prawa pracy, a także umowa, której stroną jest konsument lub inne niż umowa dokumenty stosowane w obrocie z udziałem konsumentów, mogą być sporządzone w języku obcym na wniosek osoby świadczącej pracę lub konsumenta, władających tym językiem, niebędących obywatelami polskimi, pouczonych uprzednio o prawie do sporządzenia umowy lub innego dokumentu w języku polskim.”.
+- **2)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Dokumenty w zakresie, o którym mowa w art. 7, mogą być jednocześnie sporządzone w wersji lub wersjach obcojęzycznych. Podstawą ich wykładni jest wersja w języku polskim, jeżeli osoba świadcząca pracę lub konsument są obywatelami Rzeczypospolitej Polskiej. 1b. Umowa o pracę lub inny dokument wynikający z zakresu prawa pracy, a także umowa, której stroną jest konsument lub inne niż umowa dokumenty stosowane w obrocie z udziałem konsumentów, mogą być sporządzone w języku obcym na wniosek osoby świadczącej pracę lub konsumenta, władających tym językiem, niebędących obywatelami polskimi, pouczonych uprzednio o prawie do sporządzenia umowy lub innego dokumentu w języku polskim.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

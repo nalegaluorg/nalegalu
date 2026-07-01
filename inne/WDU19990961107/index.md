@@ -48,17 +48,8 @@ source: pdf
     - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw obrony narodowej, minister właściwy do spraw wewnętrznych i minister właściwy do spraw sprawiedliwości określą, w drodze rozporządzeń, zasady dopuszczalności używania wyrobów tytoniowych na terenie podlegających im obiektów.”;
 
 - **5)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Zabrania się sprzedaży wyrobów tytoniowych na terenie zakładów opieki zdrowotnej, szkół i placówek oświatowo-wychowawczych oraz obiektów sportowo-rekreacyjnych.”;
-- **6)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Zabrania się produkcji i wprowadzania do obrotu wyrobów tytoniowych bezdymnych z wyjątkiem tabaki.
-
-2. Do produkcji i obrotu handlowego tabaką stosuje się postanowienia art. 8-10.”;
-
-- **7)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Zabrania się reklamowania i promocji wyrobów tytoniowych, rekwizytów tytoniowych i produktów imitujących wyroby lub rekwizyty tytoniowe oraz symboli związanych z używaniem tytoniu, a w szczególności:
-- **1)** w telewizji, radiu, kinach, zakładach opieki zdrowotnej, szkołach i placówkach oświatowo-wychowawczych, w prasie dziecięcej i młodzieżowej, na terenie obiektów sportoworekreacyjnych, oraz w innych miejscach publicznych,
-- **2)** w prasie innej niż wymieniona w pkt 1,
-- **3)** na plakatach, w tym plakatach wielkoformatowych.
-
-2. Zabrania się sponsorowania przez firmy tytoniowe działalności sportowej, kulturalnej, oświatowej, zdrowotnej i społecznopolitycznej.”;
-
+- **6)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Zabrania się produkcji i wprowadzania do obrotu wyrobów tytoniowych bezdymnych z wyjątkiem tabaki. 2. Do produkcji i obrotu handlowego tabaką stosuje się postanowienia art. 8-10.”;
+- **7)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Zabrania się reklamowania i promocji wyrobów tytoniowych, rekwizytów tytoniowych i produktów imitujących wyroby lub rekwizyty tytoniowe oraz symboli związanych z używaniem tytoniu, a w szczególności: 1) w telewizji, radiu, kinach, zakładach opieki zdrowotnej, szkołach i placówkach oświatowo-wychowawczych, w prasie dziecięcej i młodzieżowej, na terenie obiektów sportoworekreacyjnych, oraz w innych miejscach publicznych, 2) w prasie innej niż wymieniona w pkt 1, 3) na plakatach, w tym plakatach wielkoformatowych. 2. Zabrania się sponsorowania przez firmy tytoniowe działalności sportowej, kulturalnej, oświatowej, zdrowotnej i społecznopolitycznej.”;
 - **8)** w art. 9:
     - **a)** w ust. 1 w zdaniu wstępnym wyraz „dopuszczonych” zastępuje się wyrazem „wprowadzanych”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Na informacjach o wyrobach tytoniowych, o których mowa w art. 2 pkt 6, umieszcza się widoczny i czytelny napis ostrzegający o szkodliwości używania tytoniu, zajmujący co najmniej 20% powierzchni informacji.”;

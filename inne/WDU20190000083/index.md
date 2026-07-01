@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2018 r. poz. 627) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 w ust. 1 pkt 8 otrzymuje brzmienie: „8) inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów:
-    - **a)** wsparcie na zalesianie i tworzenie terenów zalesionych,
-    - **b)** wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska;”;
-
+- **1)** w art. 3 w ust. 1 pkt 8 otrzymuje brzmienie: „8) inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów: a) wsparcie na zalesianie i tworzenie terenów zalesionych, b) wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska;”;
 - **2)** art. 22 otrzymuje brzmienie: „Art. 22. Pomoc jest przyznawana na wniosek o jej przyznanie, z wyłączeniem działań, o których mowa w art. 3 ust. 1 pkt 1 i 2.”;
 - **3)** w art. 23:
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) pkt 8 lit. a, w zakresie rocznej premii, o której mowa w art. 22 ust. 1 rozporządzenia nr 1305/2013,”,
@@ -57,9 +54,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2018 r. poz. 2129 i 2161) wprowadza się następujące zmiany:
 
-- **1)** w art. 35 ust. 5 otrzymuje brzmienie: „5. Nadleśniczy na wniosek właściciela gruntu przeznaczonego:
-- **1)** do zalesienia – sporządza plan zalesienia oraz potwierdza wykonanie zalesienia zgodnie z tym planem albo
-- **2)** na realizację inwestycji zwiększających odporność ekosystemów leśnych i ich wartość dla środowiska – sporządza plan tej inwestycji oraz potwierdza jej wykonanie zgodnie z tym planem – w przypadku gdy zalesienie to będzie wykonywane lub inwestycja ta będzie realizowana zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.”;
+- **1)** w art. 35 ust. 5 otrzymuje brzmienie: „5. Nadleśniczy na wniosek właściciela gruntu przeznaczonego: 1) do zalesienia – sporządza plan zalesienia oraz potwierdza wykonanie zalesienia zgodnie z tym planem albo 2) na realizację inwestycji zwiększających odporność ekosystemów leśnych i ich wartość dla środowiska – sporządza plan tej inwestycji oraz potwierdza jej wykonanie zgodnie z tym planem – w przypadku gdy zalesienie to będzie wykonywane lub inwestycja ta będzie realizowana zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.”;
 - **2)** w art. 54 pkt 7 otrzymuje brzmienie: „7) sporządzanie planów zalesienia lub inwestycji, o których mowa w art. 35 ust. 5;”.
 
 **Art. 3.** Do refundacji kosztów poniesionych przez podmiot, o którym mowa w art. 55 ust. 2 pkt 1 ustawy zmienianej w art. 1, na podstawie umowy na realizację operacji tego podmiotu zawartej przed dniem wejścia w życie niniejszej ustawy oraz do zwrotu środków finansowych otrzymanych z tytułu realizacji tej operacji stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.

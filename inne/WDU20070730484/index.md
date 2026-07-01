@@ -34,25 +34,9 @@ source: pdf
     - **b)** w ust. 2 pkt 8 otrzymuje brzmienie: „8) czuwa nad przestrzeganiem zasad etyki zawodowej i w przypadku uzyskania wiarygodnej informacji o przewinieniu służbowym, w tym o oczywistej i rażącej obrazie przepisów prawa i uchybieniu godności urzędu, występuje z żądaniem podjęcia czynności dyscyplinarnych wobec sędziego,”,
     - **c)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Rada przedstawia Sejmowi, Senatowi i Prezydentowi Rzeczypospolitej Polskiej, nie później niż do 31 maja roku następnego, informację z rocznej działalności Rady oraz postulaty co do aktualnych problemów i potrzeb wymiaru sprawiedliwości. Nad informacją w Sejmie i Senacie nie przeprowadza się głosowania.”;
 
-- **2)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. 1. Do zadań Rady należy także inspirowanie i wspieranie działań mających na celu ujednolicanie wykładni prawa w orzecznictwie sądów.
-
-2. Informacj ę o podejmowanych działaniach na rzecz ujednolicania wykładni prawa w orzecznictwie sądów, Rada zamieszcza w informacji, o której mowa w art. 2 ust. 3.”;
-
-- **3)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Rada może zarządzić przeprowadzenie:
-- **1)** wizytacji sądu albo jego jednostki organizacyjnej,
-- **2)** lustracji działalności sądu w określonym zakresie,
-- **3)** lustracji pracy sędziego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę.
-
-2. Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli.
-
-3. Czynności, o których mowa w ust. 1, mogą być przeprowadzane przez członków Rady lub przez sędziów delegowanych do Biura Rady na podstawie odrębnych przepisów.
-
-4. Przeprowadzenie czynności, o których mowa w ust. 1, Rada może zarządzić z urzędu lub na wniosek Ministra Sprawiedliwości, Pierwszego Prezesa Sądu Najwyższego lub Prezesa Naczelnego Sądu Administracyjnego.”;
-
-- **4)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego i Minister Sprawiedliwości są członkami Rady przez okres pełnienia tych funkcji.
-
-2. W przypadku niemożności uczestnictwa w posiedzeniu plenarnym Rady osoby lub osób, o których mowa w ust. 1, na posiedzeniu plenarnym może być obecny upoważniony przedstawiciel Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego albo Ministra Sprawiedliwości. Przedstawiciel może wyrażać stanowisko w każdej sprawie, jednakże bez prawa głosu.”;
-
+- **2)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. 1. Do zadań Rady należy także inspirowanie i wspieranie działań mających na celu ujednolicanie wykładni prawa w orzecznictwie sądów. 2. Informacj ę o podejmowanych działaniach na rzecz ujednolicania wykładni prawa w orzecznictwie sądów, Rada zamieszcza w informacji, o której mowa w art. 2 ust. 3.”;
+- **3)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Rada może zarządzić przeprowadzenie: 1) wizytacji sądu albo jego jednostki organizacyjnej, 2) lustracji działalności sądu w określonym zakresie, 3) lustracji pracy sędziego, którego indywidualna sprawa podlega rozpatrzeniu przez Radę. 2. Czynności, o których mowa w ust. 1, nie mogą wkraczać w dziedzinę, w której sędziowie są niezawiśli. 3. Czynności, o których mowa w ust. 1, mogą być przeprowadzane przez członków Rady lub przez sędziów delegowanych do Biura Rady na podstawie odrębnych przepisów. 4. Przeprowadzenie czynności, o których mowa w ust. 1, Rada może zarządzić z urzędu lub na wniosek Ministra Sprawiedliwości, Pierwszego Prezesa Sądu Najwyższego lub Prezesa Naczelnego Sądu Administracyjnego.”;
+- **4)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego i Minister Sprawiedliwości są członkami Rady przez okres pełnienia tych funkcji. 2. W przypadku niemożności uczestnictwa w posiedzeniu plenarnym Rady osoby lub osób, o których mowa w ust. 1, na posiedzeniu plenarnym może być obecny upoważniony przedstawiciel Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego albo Ministra Sprawiedliwości. Przedstawiciel może wyrażać stanowisko w każdej sprawie, jednakże bez prawa głosu.”;
 - **5)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. Sędzia może pełnić funkcję wybieranego członka Rady tylko dwie kadencje.”;
 - **6)** w art. 10 w ust. 1 pkt 4 otrzymuje brzmienie: „4) zgłoszenia jego kandydatury na inne stanowisko sędziowskie,”;
 - **7)** w art. 12:
@@ -65,10 +49,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a § 1. Do pełnienia funkcji prezesa albo wiceprezesa sądu nie może być powołany sędzia będący członkiem Krajowej Rady Sądownictwa.
-
-§ 2. Z chwilą wybrania sędziego, pełniącego funkcję prezesa albo wiceprezesa sądu, powołanie do pełnienia tej funkcji wygasa.”;
-
+- **1)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a § 1. Do pełnienia funkcji prezesa albo wiceprezesa sądu nie może być powołany sędzia będący członkiem Krajowej Rady Sądownictwa. § 2. Z chwilą wybrania sędziego, pełniącego funkcję prezesa albo wiceprezesa sądu, powołanie do pełnienia tej funkcji wygasa.”;
 - **2)** w art. 69:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Sędzia przechodzi w stan spoczynku z dniem ukończenia 65 roku życia, chyba że nie później niż na sześć miesięcy przed ukończeniem 65 roku życia oświadczy Ministrowi Sprawiedliwości wolę dalszego zajmowania stanowiska i przedstawi zaświadczenie stwierdzające, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków sędziego, wydane na zasadach określonych dla kandydata na stanowisko sędziowskie.”,
     - **b)** § 3 otrzymuje brzmienie: „§ 3. W razie złożenia przez sędziego oświadczenia i przedstawienia zaświadczenia, o których mowa w § 1, sędzia może zajmować stanowisko nie dłużej niż do ukończenia 70 roku życia. Sędzia ten może w każdym czasie przejść w stan spoczynku, składając odpowiednie oświadczenie Ministrowi Sprawiedliwości.”;
@@ -77,10 +58,7 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm. ) w art. 62a:
 
-- **1)** ust. 2 i 3 otrzymują brzmienie: „2. Prokurator może dalej zajmować stanowisko jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii właściwego prokuratora przełożonego, wyrazi prokuratorowi zgodę na dalsze zajmowanie stanowiska.
-
-3. Wniosek i zaświadczenie, o których mowa w ust. 2, składa się Prokuratorowi Generalnemu najpóźniej na sześć miesięcy przed ukończeniem 65 roku życia. W razie niezakończenia postępowania związanego z rozpoznaniem wniosku, prokurator pozostaje w służbie do czasu zakończenia postępowania, w tym postępowania przed Sądem Najwyższym.”;
-
+- **1)** ust. 2 i 3 otrzymują brzmienie: „2. Prokurator może dalej zajmować stanowisko jeżeli Prokurator Generalny na wniosek prokuratora, po przedstawieniu zaświadczenia stwierdzającego, że jest zdolny, ze względu na stan zdrowia, do pełnienia obowiązków prokuratora, oraz po zasięgnięciu opinii właściwego prokuratora przełożonego, wyrazi prokuratorowi zgodę na dalsze zajmowanie stanowiska. 3. Wniosek i zaświadczenie, o których mowa w ust. 2, składa się Prokuratorowi Generalnemu najpóźniej na sześć miesięcy przed ukończeniem 65 roku życia. W razie niezakończenia postępowania związanego z rozpoznaniem wniosku, prokurator pozostaje w służbie do czasu zakończenia postępowania, w tym postępowania przed Sądem Najwyższym.”;
 - **2)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Od decyzji Prokuratora Generalnego w sprawie, o której mowa w ust. 2, przysługuje odwołanie do Sądu Najwyższego.”.
 
 **Art. 4.**

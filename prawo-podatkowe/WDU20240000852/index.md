@@ -36,17 +36,7 @@ source: pdf
 - **2)** w art. 13 wyrazy „po dniu 30 czerwca 2024 r.” zastępuje się wyrazami „po dniu 31 stycznia 2026 r.”;
 - **3)** w art. 17 wyrazy „od dnia 1 stycznia 2025 r.” zastępuje się wyrazami „od dnia 1 sierpnia 2026 r.”;
 - **4)** użyte w art. 18 w ust. 2, w art. 19 w ust. 2 oraz w art. 20 w ust. 2 wyrazy „od dnia wejścia w życie niniejszej ustawy.” zastępuje się wyrazami „od dnia 1 lipca 2024 r.”;
-- **5)** w art. 22 ust. 1 otrzymuje brzmienie: „1. W latach 2026–2035 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym związanym z Krajowym Systemem e-Faktur wynosi 575,4 mln zł, w tym w:
-- **1)** 2026 r. – 13,1 mln zł;
-- **2)** 2027 r. – 17,8 mln zł;
-- **3)** 2028 r. – 45,1 mln zł;
-- **4)** 2029 r. – 110,8 mln zł;
-- **5)** 2030 r. – 62,4 mln zł;
-- **6)** 2031 r. – 69,8 mln zł;
-- **7)** 2032 r. – 64,1 mln zł;
-- **8)** 2033 r. – 64,1 mln zł;
-- **9)** 2034 r. – 64,1 mln zł;
-- **10)** 2035 r. – 64,1 mln.”;
+- **5)** w art. 22 ust. 1 otrzymuje brzmienie: „1. W latach 2026–2035 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym związanym z Krajowym Systemem e-Faktur wynosi 575,4 mln zł, w tym w: 1) 2026 r. – 13,1 mln zł; 2) 2027 r. – 17,8 mln zł; 3) 2028 r. – 45,1 mln zł; 4) 2029 r. – 110,8 mln zł; 5) 2030 r. – 62,4 mln zł; 6) 2031 r. – 69,8 mln zł; 7) 2032 r. – 64,1 mln zł; 8) 2033 r. – 64,1 mln zł; 9) 2034 r. – 64,1 mln zł; 10) 2035 r. – 64,1 mln.”;
 - **6)** w art. 23:
     - **a)** we wprowadzeniu do wyliczenia wyrazy „z dniem 1 lipca 2024 r.” zastępuje się wyrazami „z dniem 1 lutego 2026 r.”,
     - **b)** pkt 4 otrzymuje brzmienie: „4) art. 1 pkt 7 lit. e, pkt 13 lit. b w zakresie art. 106h ust. 2 i 4, pkt 24 w zakresie art. 106ni ust. 1–3 i 5–7 i pkt 30, które wchodzą w życie z dniem 1 sierpnia 2026 r.”.

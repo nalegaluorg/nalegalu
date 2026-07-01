@@ -30,18 +30,9 @@ source: pdf
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r. poz. 1575, 1578 i 2320 oraz z 2021 r. poz. 11, 1090 i 1177) wprowadza się następujące zmiany:
 
 - **1)** w art. 165 § 2 otrzymuje brzmienie: „§ 2. Oddanie pisma procesowego w formie przesyłki poleconej w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej jest równoznaczne z wniesieniem go do sądu.”;
-- **2)** w art. 480 :
+- **2)** w art. 480 : § 2. Termin, o którym mowa w § 1, wynosi: 1) dwa tygodnie od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu upominawczym, gdy doręczenie nakazu pozwanemu ma mieć miejsce w kraju; 2) miesiąc od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu upominawczym, gdy doręczenie nakazu pozwanemu ma mieć miejsce poza granicami kraju na terytorium Unii Europejskiej; 3) miesiąc od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu nakazowym, gdy doręczenie nakazu pozwanemu ma mieć miejsce na terytorium Unii Europejskiej; 4) trzy miesiące od dnia doręczenia nakazu, w przypadku gdy doręczenie nakazu ma mieć miejsce poza terytorium Unii Europejskiej.”, § 2 . O zmianie nakazu zapłaty na podstawie § 2 umieszcza się wzmiankę na oryginale nakazu, a na żądanie stron także na wydanych im wypisach. Dalsze odpisy i wypisy powinny być zredagowane w brzmieniu uwzględniającym postanowienie o zmianie nakazu.”;
     - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. W nakazie zapłaty sąd nakazuje pozwanemu, aby w terminie oznaczonym w nakazie zaspokoił roszczenie w całości wraz z kosztami albo wniósł środek zaskarżenia.
-
-§ 2. Termin, o którym mowa w § 1, wynosi:
-
-- **1)** dwa tygodnie od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu upominawczym, gdy doręczenie nakazu pozwanemu ma mieć miejsce w kraju;
-- **2)** miesiąc od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu upominawczym, gdy doręczenie nakazu pozwanemu ma mieć miejsce poza granicami kraju na terytorium Unii Europejskiej;
-- **3)** miesiąc od dnia doręczenia nakazu w przypadku nakazu zapłaty wydanego w postępowaniu nakazowym, gdy doręczenie nakazu pozwanemu ma mieć miejsce na terytorium Unii Europejskiej;
-- **4)** trzy miesiące od dnia doręczenia nakazu, w przypadku gdy doręczenie nakazu ma mieć miejsce poza terytorium Unii Europejskiej.”,
     - **b)** po § 2 dodaje się § 2 i 2 w brzmieniu: „§ 2 . Jeżeli po wydaniu nakazu zapłaty okaże się, że doręczenie nakazu zapłaty ma nastąpić w miejscu, które zgodnie z § 2 uzasadnia oznaczenie innego terminu, niż termin oznaczony w wydanym nakazie, sąd z urzędu wydaje postanowienie, którym zmienia nakaz w stosownym zakresie.
-
-§ 2. O zmianie nakazu zapłaty na podstawie § 2 umieszcza się wzmiankę na oryginale nakazu, a na żądanie stron także na wydanych im wypisach. Dalsze odpisy i wypisy powinny być zredagowane w brzmieniu uwzględniającym postanowienie o zmianie nakazu.”;
 
 - **3)** w art. 485:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Sąd wydaje również nakaz zapłaty przeciwko zobowiązanemu z weksla lub czeku należycie wypełnionego, których prawdziwość i treść nie nasuwają wątpliwości. W przypadku przejścia na powoda praw z weksla lub czeku, do wydania nakazu niezbędne jest również przedstawienie dokumentów uzasadniających roszczenie, o ile przejście tych praw na powoda nie wynika bezpośrednio z weksla lub czeku. Jeżeli dłużnikiem jest konsument, niezbędne jest przedstawienie wraz z pozwem umowy, z której wynika roszczenie zabezpieczone wekslem, wraz z deklaracją wekslową i załącznikami. W treści pozwu skierowanego przeciwko osobie fizycznej zamieszcza się oświadczenie o tym, czy roszczenie dochodzone pozwem powstało w związku z umową zawartą z konsumentem.”,
@@ -67,12 +58,7 @@ source: pdf
 
 **Art. 7.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2019 r. poz. 1083 oraz z 2020 r. poz. 2320) w art. 41:
 
-- **1)** ust. 1–3 otrzymują brzmienie: „1. Czek konsumenta wręczony kredytodawcy w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki powinien zawierać zastrzeżenie „nie na zlecenie” lub inne równoznaczne.
-
-2. W razie przyjęcia przez kredytodawcę czeku niezawierającego zastrzeżenia „nie na zlecenie” lub innego równoznacznego i przeniesienia takiego czeku na inną osobę kredytodawca jest zobowiązany do naprawienia poniesionej przez konsumenta szkody przez zapłatę czeku.
-
-3. Przepis ust. 2 stosuje się również, gdy czek znalazł się w posiadaniu innej osoby wbrew woli kredytodawcy.”;
-
+- **1)** ust. 1–3 otrzymują brzmienie: „1. Czek konsumenta wręczony kredytodawcy w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki powinien zawierać zastrzeżenie „nie na zlecenie” lub inne równoznaczne. 2. W razie przyjęcia przez kredytodawcę czeku niezawierającego zastrzeżenia „nie na zlecenie” lub innego równoznacznego i przeniesienia takiego czeku na inną osobę kredytodawca jest zobowiązany do naprawienia poniesionej przez konsumenta szkody przez zapłatę czeku. 3. Przepis ust. 2 stosuje się również, gdy czek znalazł się w posiadaniu innej osoby wbrew woli kredytodawcy.”;
 - **2)** uchyla się ust. 4.
 
 **Art. 8.**

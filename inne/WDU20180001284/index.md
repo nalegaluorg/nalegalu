@@ -29,15 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 11 w ust. 1 w pkt 5 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że:
-    - **a)** nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych,
-    - **b)** nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem,
-    - **c)** nie ma cofniętego uprawnienia do kierowania pojazdami.”;
-
-- **2)** w art. 16 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że:
-    - **a)** nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych,
-    - **b)** nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem,
-    - **c)** nie ma cofniętego uprawnienia do kierowania pojazdami.”.
+- **1)** w art. 11 w ust. 1 w pkt 5 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że: a) nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych, b) nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem, c) nie ma cofniętego uprawnienia do kierowania pojazdami.”;
+- **2)** w art. 16 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że: a) nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych, b) nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem, c) nie ma cofniętego uprawnienia do kierowania pojazdami.”.
 
 **Art. 2.** Do postępowań w sprawie wydania prawa jazdy i pozwolenia na kierowanie tramwajem wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

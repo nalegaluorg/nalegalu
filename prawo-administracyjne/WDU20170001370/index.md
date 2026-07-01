@@ -29,13 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369) wprowadza się następujące zmiany:
 
-- **1)** w art. 28:
+- **1)** w art. 28: 1) organy administracji rządowej, 2) państwowe jednostki organizacyjne nieposiadające osobowości prawnej, 3) Skarb Państwa – czynności w postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej.”;
     - **a)** w § 2 skreśla się zdanie drugie,
     - **b)** po § 2 dodaje się § 3 w brzmieniu: „§ 3. W zakresie określonym ustawą z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) za:
 
-- **1)** organy administracji rządowej,
-- **2)** państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
-- **3)** Skarb Państwa – czynności w postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej.”;
 - **2)** w art. 175:
     - **a)** w § 1 wyrazy „§ 2 i 3” zastępuje się wyrazami „§ 2–3”,
     - **b)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Przepisu § 1 nie stosuje się także wtedy, gdy stroną postępowania jest Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także wówczas, gdy czynności w postępowaniu za organy administracji rządowej, państwowe jednostki organizacyjne nieposiadające osobowości prawnej lub Skarb Państwa podejmowane są przez Prokuratorię Generalną Rzeczypospolitej Polskiej.”;

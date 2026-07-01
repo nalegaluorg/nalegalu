@@ -29,18 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** art. 2 otrzymuje brzmienie: „Art. 2. 1. W referendum lokalnym, zwanym dalej „referendum”, mieszkańcy jednostki samorządu terytorialnego jako członkowie wspólnoty samorządowej wyrażają w drodze głosowania swoją wolę:
-- **1)** w sprawie odwołania organu stanowiącego tej jednostki,
-- **2)** co do sposobu rozstrzygania sprawy dotyczącej tej wspólnoty, mieszczącej się w zakresie zadań i kompetencji organów danej jednostki,
-- **3)** w innych istotnych sprawach, dotyczących społecznych, gospodarczych lub kulturowych więzi łączących tę wspólnotę.
-
-2. Przedmiotem referendum gminnego może być również:
-
-- **1)** odwołanie wójta (burmistrza, prezydenta miasta),
-- **2)** samoopodatkowanie się mieszkańców na cele publiczne mieszczące się w zakresie zadań i kompetencji organów gminy.
-
-3. Referendum polega na udzieleniu na urzędowej karcie do głosowania pozytywnej lub negatywnej odpowiedzi na postawione pytanie lub pytania w zakresie spraw określonych w ust. 1 i 2 albo na dokonaniu wyboru pomiędzy zaproponowanymi wariantami.”;
-
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. 1. W referendum lokalnym, zwanym dalej „referendum”, mieszkańcy jednostki samorządu terytorialnego jako członkowie wspólnoty samorządowej wyrażają w drodze głosowania swoją wolę: 1) w sprawie odwołania organu stanowiącego tej jednostki, 2) co do sposobu rozstrzygania sprawy dotyczącej tej wspólnoty, mieszczącej się w zakresie zadań i kompetencji organów danej jednostki, 3) w innych istotnych sprawach, dotyczących społecznych, gospodarczych lub kulturowych więzi łączących tę wspólnotę. 2. Przedmiotem referendum gminnego może być również: 1) odwołanie wójta (burmistrza, prezydenta miasta), 2) samoopodatkowanie się mieszkańców na cele publiczne mieszczące się w zakresie zadań i kompetencji organów gminy. 3. Referendum polega na udzieleniu na urzędowej karcie do głosowania pozytywnej lub negatywnej odpowiedzi na postawione pytanie lub pytania w zakresie spraw określonych w ust. 1 i 2 albo na dokonaniu wyboru pomiędzy zaproponowanymi wariantami.”;
 - **2)** uchyla się art. 7.
 
 **Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn zm. ) w art. 54 w ust. 2 dodaje się zdanie drugie w brzmieniu: „Samoopodatkowanie może nastąpić wyłącznie w drodze referendum gminnego, o którym mowa w art. 2 ust. 2 pkt 2 ustawy z dnia 15 września 2000 r. o referendum lokalnym.”.

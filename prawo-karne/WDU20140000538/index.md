@@ -31,26 +31,17 @@ source: pdf
 
 - **1)** w art. 101 § 4 otrzymuje brzmienie: „§ 4. W przypadku gdy pokrzywdzonym jest małoletni, przedawnienie karalności przestępstw określonych w art. 189a § 1 oraz w rozdziale XXV nie może nastąpić przed ukończeniem przez tego pokrzywdzonego 30. roku życia.”;
 - **2)** w art. 199 § 3 otrzymuje brzmienie: „§ 3. Karze określonej w § 2 podlega, kto obcuje płciowo z małoletnim lub dopuszcza się wobec takiej osoby innej czynności seksualnej albo doprowadza ją do poddania się takim czynnościom albo do ich wykonania, nadużywając zaufania lub udzielając w zamian korzyści majątkowej lub osobistej albo jej obietnicy.”;
-- **3)** w art. 200:
+- **3)** w art. 200: § 4. Karze określonej w § 3 podlega, kto w celu swojego zaspokojenia seksualnego lub zaspokojenia seksualnego innej osoby prezentuje małoletniemu poniżej lat 15 wykonanie czynności seksualnej. § 5. Karze określonej w § 3 podlega, kto prowadzi reklamę lub promocję działalności polegającej na rozpowszechnianiu treści pornograficznych w sposób umożliwiający zapoznanie się z nimi małoletniemu poniżej lat 15.”;
     - **a)** uchyla się § 2,
     - **b)** dodaje się § 3–5 w brzmieniu: „§ 3. Kto małoletniemu poniżej lat 15 prezentuje treści pornograficzne lub udostępnia mu przedmioty mające taki charakter albo rozpowszechnia treści pornograficzne w sposób umożliwiający takiemu małoletniemu zapoznanie się z nimi, podlega karze pozbawienia wolności do lat 3.
-
-§ 4. Karze określonej w § 3 podlega, kto w celu swojego zaspokojenia seksualnego lub zaspokojenia seksualnego innej osoby prezentuje małoletniemu poniżej lat 15 wykonanie czynności seksualnej.
-
-§ 5. Karze określonej w § 3 podlega, kto prowadzi reklamę lub promocję działalności polegającej na rozpowszechnianiu treści pornograficznych w sposób umożliwiający zapoznanie się z nimi małoletniemu poniżej lat 15.”;
 
 - **4)** w art. 202: Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 7 września 1991 r. o systemie oświaty i ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary. Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611 oraz z 2013 r. poz. 849, 905, 1036 i 1247. „§ 1. Kto publicznie prezentuje treści pornograficzne w taki sposób, że może to narzucić ich odbiór osobie, która tego sobie nie życzy, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat
     - **a)** § 1 otrzymuje brzmienie: Niniejsza ustawa dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/93/UE z dnia 13 grudnia 2011 r. w sprawie zwalczania niegodziwego traktowania w celach seksualnych i wykorzystywania seksualnego dzieci oraz pornografii dziecięcej, zastępującej decyzję ramową Rady 2004/68/WSiSW (Dz. Urz. UE L 335 z 17.12.2011, str. 1 oraz L 18 z 21.01.2012, str. 7).
 
-2. ”,
+2. ”, § 4. Kto utrwala treści pornograficzne z udziałem małoletniego, podlega karze pozbawienia wolności od roku do lat 10. § 4a. Kto przechowuje, posiada lub uzyskuje dostęp do treści pornograficznych z udziałem małoletniego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”,
 
 - **b)** uchyla się § 2,
 - **c)** § 3–4a otrzymują brzmienie: „§ 3. Kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, przechowuje lub posiada albo rozpowszechnia lub prezentuje treści pornograficzne z udziałem małoletniego albo treści pornograficzne związane z prezentowaniem przemocy lub posługiwaniem się zwierzęciem, podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 4. Kto utrwala treści pornograficzne z udziałem małoletniego, podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4a. Kto przechowuje, posiada lub uzyskuje dostęp do treści pornograficznych z udziałem małoletniego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”,
-
 - **d)** po § 4b dodaje się § 4c w brzmieniu: „§ 4c. Karze określonej w § 4b podlega, kto w celu zaspokojenia seksualnego uczestniczy w prezentacji treści pornograficznych z udziałem małoletniego.”;
 - **5)** w art. 204 § 1 otrzymuje brzmienie: „§ 1. Kto, w celu osiągnięcia korzyści majątkowej, nakłania inną osobę do uprawiania prostytucji lub jej to ułatwia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”.
 

@@ -40,25 +40,15 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. Nr 175, poz. 1459, z 2007 r. Nr 191, poz. 1371, z 2009 r. Nr 206, poz. 1590 oraz z 2010 r. Nr 21, poz. 109) wprowadza się następujące zmiany:
 
-- **1)** w art. 1:
+- **1)** w art. 1: 1) w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.; 2) na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279).”, 1) nieruchomości oddanych w użytkowanie wieczyste Polskiemu Związkowi Działkowców; 2) nieruchomości oddanych w użytkowanie wieczyste państwowym i samorządowym osobom prawnym, a także spółkom handlowym, w odniesieniu do których Skarb Państwa lub jednostka samorządu terytorialnego jest podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439 oraz z 2010 r. Nr 167, poz. 1129); 3) nieruchomości, wobec których toczy się postępowanie administracyjne, mające na celu nabycie nieruchomości lub jej części pod inwestycję celu publicznego.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Osoby fizyczne i prawne będące w dniu 13 października 2005 r. użytkownikami wieczystymi nieruchomości mogą wystąpić z żądaniem przekształcenia prawa użytkowania wieczystego tych nieruchomości w prawo własności.”,
     - **b)** ust. 1a otrzymuje brzmienie: „1a. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą wystąpić również osoby fizyczne będące w dniu 13 października 2005 r. użytkownikami wieczystymi nieruchomości, jeżeli użytkowanie wieczyste uzyskały:
-
-- **1)** w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.;
-- **2)** na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy (Dz. U. Nr 50, poz. 279).”,
     - **c)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Przepisu ust. 1 nie stosuje się do:
-
-- **1)** nieruchomości oddanych w użytkowanie wieczyste Polskiemu Związkowi Działkowców;
-- **2)** nieruchomości oddanych w użytkowanie wieczyste państwowym i samorządowym osobom prawnym, a także spółkom handlowym, w odniesieniu do których Skarb Państwa lub jednostka samorządu terytorialnego jest podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439 oraz z 2010 r. Nr 167, poz. 1129);
-- **3)** nieruchomości, wobec których toczy się postępowanie administracyjne, mające na celu nabycie nieruchomości lub jej części pod inwestycję celu publicznego.”,
     - **d)** ust. 3 otrzymuje brzmienie: „3. Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą również wystąpić osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa w ust. 1 i 1a, oraz osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa w ust. 2.”,
     - **e)** ust. 4 otrzymuje brzmienie: „4. Przepisy ust. 1a pkt 2 i ust. 2 pkt 1 stosuje się również do osób, które prawo użytkowania wieczystego albo udział w tym prawie uzyskały po dniu 13 października 2005 r.”,
     - **f)** uchyla się ust. 5;
 
-- **2)** art. 2 otrzymuje brzmienie: „Art. 2. 1. W przypadku współużytkowania wieczystego z żądaniem przekształcenia występują wszyscy współużytkownicy wieczyści, z zastrzeżeniem ust. 2.
-
-2. Z żądaniem przekształcenia mogą wystąpić współużytkownicy wieczyści, których suma udziałów wynosi co najmniej połowę. Jeżeli co najmniej jeden współużytkownik wieczysty zgłosi sprzeciw wobec złożonego wniosku o przekształcenie, właściwy organ zawiesza postępowanie. W takim przypadku przepis art. 199 Kodeksu cywilnego stosuje się odpowiednio.”;
-
+- **2)** art. 2 otrzymuje brzmienie: „Art. 2. 1. W przypadku współużytkowania wieczystego z żądaniem przekształcenia występują wszyscy współużytkownicy wieczyści, z zastrzeżeniem ust. 2. 2. Z żądaniem przekształcenia mogą wystąpić współużytkownicy wieczyści, których suma udziałów wynosi co najmniej połowę. Jeżeli co najmniej jeden współużytkownik wieczysty zgłosi sprzeciw wobec złożonego wniosku o przekształcenie, właściwy organ zawiesza postępowanie. W takim przypadku przepis art. 199 Kodeksu cywilnego stosuje się odpowiednio.”;
 - **3)** w art. 4:
     - **a)** uchyla się ust. 8,
     - **b)** ust. 9 otrzymuje brzmienie: „9. W odniesieniu do nieruchomości stanowiących własność Skarbu Państwa osobom fizycznym, które prawo użytkowania wieczystego uzyskały przed dniem 5 grudnia 1990 r., oraz ich następcom prawnym, organ właściwy do wydania decyzji udziela, na ich wniosek, 50 % bonifikaty od opłaty, o której mowa w ust. 1.”,

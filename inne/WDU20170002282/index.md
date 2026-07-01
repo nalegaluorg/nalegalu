@@ -30,163 +30,54 @@ source: pdf
 **Art. 1.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60 i 858) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „1. Ustawa określa zasady nabywania obywatelstwa polskiego w drodze repatriacji, prawa repatrianta, a także zasady i tryb udzielania pomocy repatriantom i członkom ich rodzin.”;
-- **2)** po art. 1 dodaje się art. 1a w brzmieniu: „Art. 1a. Ilekroć w przepisach ustawy jest mowa o:
-- **1)** kandydacie na repatrianta – oznacza to osobę polskiego pochodzenia, wobec której konsul wydał decyzję o zakwalifikowaniu do wydania wizy krajowej w celu repatriacji albo – w przypadku osoby, która złożyła wniosek o wydanie wizy krajowej w celu repatriacji przed dniem 1 maja 2017 r. – decyzję o przyrzeczeniu wydania takiej wizy;
-- **2)** najbliższej rodzinie repatrianta – oznacza to małżonka repatrianta i małoletnie dziecko lub dzieci pozostające pod władzą rodzicielską co najmniej jednego z rodziców, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem.”;
-- **3)** w art. 3b w ust. 1:
+- **2)** po art. 1 dodaje się art. 1a w brzmieniu: „Art. 1a. Ilekroć w przepisach ustawy jest mowa o: 1) kandydacie na repatrianta – oznacza to osobę polskiego pochodzenia, wobec której konsul wydał decyzję o zakwalifikowaniu do wydania wizy krajowej w celu repatriacji albo – w przypadku osoby, która złożyła wniosek o wydanie wizy krajowej w celu repatriacji przed dniem 1 maja 2017 r. – decyzję o przyrzeczeniu wydania takiej wizy; 2) najbliższej rodzinie repatrianta – oznacza to małżonka repatrianta i małoletnie dziecko lub dzieci pozostające pod władzą rodzicielską co najmniej jednego z rodziców, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem.”;
+- **3)** w art. 3b w ust. 1: b) pkt 2 otrzymuje brzmienie: „2) koordynowanie działań na rzecz pomocy repatriantom i członkom ich rodzin;”,
     - **a)** w pkt 1: – lit. a otrzymuje brzmienie: „a) przyznania kandydatowi na repatrianta miejsca w ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”,”, − w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d,
-    - **b)** pkt 2 otrzymuje brzmienie: „2) koordynowanie działań na rzecz pomocy repatriantom i członkom ich rodzin;”,
     - **c)** w pkt 8 w lit. e skreśla się wyrazy „ , oraz świadczenia, o którym mowa w art. 20c ust. 1”;
 
-- **4)** w art. 3c:
+- **4)** w art. 3c: 1b. Pełnomocnik wydaje decyzję w sprawie przyznania miejsca w ośrodku po przedstawieniu przez konsula wyrażonej na piśmie zgody osób, o których mowa w ust. 1 i 1a, na umieszczenie w ośrodku. W przypadku osoby małoletniej lub ubezwłasnowolnionej całkowicie zgodę wyraża jej rodzic lub opiekun prawny.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Pełnomocnik, wydając decyzję w sprawie przyznania miejsca w ośrodku kandydatowi na repatrianta, bierze pod uwagę czas oczekiwania na wydanie wizy krajowej w celu repatriacji osób ujętych w ewidencji osób ubiegających się o wydanie wizy krajowej w celu repatriacji, które nie posiadają warunków do osiedlenia się w Rzeczypospolitej Polskiej.”,
     - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Decyzja, o której mowa w ust. 1, obejmuje również członków najbliższej rodziny repatrianta, którzy złożyli wnioski o udzielenie zezwolenia na pobyt stały zgodnie z art. 12d ust. 3. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 
-1b. Pełnomocnik wydaje decyzję w sprawie przyznania miejsca w ośrodku po przedstawieniu przez konsula wyrażonej na piśmie zgody osób, o których mowa w ust. 1 i 1a, na umieszczenie w ośrodku. W przypadku osoby małoletniej lub ubezwłasnowolnionej całkowicie zgodę wyraża jej rodzic lub opiekun prawny.”;
-
 - **5)** w art. 3f w ust. 9 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) może zapraszać do udziału w pracach Rady przedstawicieli urzędów administracji publicznej.”;
-- **6)** w art. 9:
+- **6)** w art. 9: 4. Wiza krajowa w celu repatriacji może być wydana małżonkowi zstępnego, o którym mowa w ust. 3, jeżeli zamierza z nim przybyć do Rzeczypospolitej Polskiej z zamiarem osiedlenia się na stałe.”;
     - **a)** w ust. 1 uchyla się pkt 2,
     - **b)** uchyla się ust. 2,
     - **c)** ust. 3 i 4 otrzymują brzmienie: „3. Wiza krajowa w celu repatriacji może być wydana małżonkowi i zstępnym do czwartego stopnia osoby, o której mowa w ust. 1, jeżeli zamierzają przybyć do Rzeczypospolitej Polskiej z osobą, o której mowa w ust. 1, z zamiarem osiedlenia się na stałe.
 
-4. Wiza krajowa w celu repatriacji może być wydana małżonkowi zstępnego, o którym mowa w ust. 3, jeżeli zamierza z nim przybyć do Rzeczypospolitej Polskiej z zamiarem osiedlenia się na stałe.”;
-
-- **7)** po art. 12c dodaje się art. 12d w brzmieniu: „Art. 12d. 1. Małżonkowi repatrianta, który nie złożył wniosku o wydanie wizy krajowej w celu repatriacji na podstawie art. 9 ust. 3, a zamierza osiedlić się wspólnie z repatriantem na terytorium Rzeczypospolitej Polskiej, udziela się zezwolenia na pobyt stały.
-
-2. W przypadku braku zgody, o której mowa w art. 7 ust. 1, zezwolenia na pobyt stały udziela się również małoletniemu dziecku pozostającemu pod władzą rodzicielską repatrianta oraz małoletniemu dziecku współmałżonka pozostającemu pod jego władzą rodzicielską.
-
-3. Wniosek o udzielenie zezwolenia na pobyt stały małżonka, o którym mowa w ust. 1, oraz małoletniego dziecka, o którym mowa w ust. 2, dołącza się do wniosku o wydanie wizy krajowej w celu repatriacji.
-
-4. Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, udziela lub odmawia udzielenia zezwolenia na pobyt stały osobom, o których mowa w ust. 1 i 2.
-
-5. Organem właściwym do wydania lub wymiany karty pobytu osobom, o których mowa w ust. 1 i 2, jest wojewoda właściwy ze względu na miejsce pobytu cudzoziemca.
-
-6. Do udzielania zezwolenia na pobyt stały oraz do kart pobytu stosuje się przepisy działu VI oraz VII ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206).”;
-
-- **8)** w art. 16:
+- **7)** po art. 12c dodaje się art. 12d w brzmieniu: „Art. 12d. 1. Małżonkowi repatrianta, który nie złożył wniosku o wydanie wizy krajowej w celu repatriacji na podstawie art. 9 ust. 3, a zamierza osiedlić się wspólnie z repatriantem na terytorium Rzeczypospolitej Polskiej, udziela się zezwolenia na pobyt stały. 2. W przypadku braku zgody, o której mowa w art. 7 ust. 1, zezwolenia na pobyt stały udziela się również małoletniemu dziecku pozostającemu pod władzą rodzicielską repatrianta oraz małoletniemu dziecku współmałżonka pozostającemu pod jego władzą rodzicielską. 3. Wniosek o udzielenie zezwolenia na pobyt stały małżonka, o którym mowa w ust. 1, oraz małoletniego dziecka, o którym mowa w ust. 2, dołącza się do wniosku o wydanie wizy krajowej w celu repatriacji. 4. Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, udziela lub odmawia udzielenia zezwolenia na pobyt stały osobom, o których mowa w ust. 1 i 2. 5. Organem właściwym do wydania lub wymiany karty pobytu osobom, o których mowa w ust. 1 i 2, jest wojewoda właściwy ze względu na miejsce pobytu cudzoziemca. 6. Do udzielania zezwolenia na pobyt stały oraz do kart pobytu stosuje się przepisy działu VI oraz VII ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206).”;
+- **8)** w art. 16: 1) uzyskała zezwolenie na pobyt na terytorium Rzeczypospolitej Polskiej jako małżonek repatrianta; 2) nie zachodzą wobec niej okoliczności, o których mowa w art. 10a; 3) posiada w Rzeczypospolitej Polskiej źródło utrzymania oraz tytuł prawny do zajmowania lokalu mieszkalnego.”,
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Za repatrianta może być uznana również osoba, która spełnia łącznie następujące warunki:
-
-- **1)** uzyskała zezwolenie na pobyt na terytorium Rzeczypospolitej Polskiej jako małżonek repatrianta;
-- **2)** nie zachodzą wobec niej okoliczności, o których mowa w art. 10a;
-- **3)** posiada w Rzeczypospolitej Polskiej źródło utrzymania oraz tytuł prawny do zajmowania lokalu mieszkalnego.”,
     - **b)** w ust. 3 po wyrazach „pkt 5” dodaje się wyrazy „oraz ust. 2a pkt 3”;
 
 - **9)** w art. 16a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Decyzję w sprawie uznania za repatrianta wydaje wojewoda właściwy ze względu na zamierzone miejsce osiedlenia się osoby, o której mowa w art. 16 ust. 1, 2 lub 2a.”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Osoba ubiegająca się o uznanie za repatrianta na podstawie art. 16 ust. 1 i 2, nieposiadająca decyzji konsula o stwierdzeniu jej polskiego pochodzenia dołącza do wniosku, o którym mowa w ust. 2, dokumenty, o których mowa w art. 6.”;
 
-- **10)** art. 16c otrzymuje brzmienie: „Art. 16c. 1. Osoba, o której mowa w art. 16 ust. 1, 2 lub 2a, będąca cudzoziemcem w dniu wydania decyzji o uznaniu za repatrianta nabywa obywatelstwo polskie z dniem wydania decyzji o uznaniu za repatrianta, jeżeli ta decyzja stała się ostateczna.
-
-2. Po wydaniu decyzji o uznaniu za repatrianta przy ustalaniu prawa osoby, o której mowa w art. 16 ust. 1, 2 lub 2a, do świadczeń emerytalnych i rentowych na terytorium Rzeczypospolitej Polskiej oraz ich wysokości okresy zatrudnienia za granicą uwzględnia się jako okresy składkowe.”;
-
+- **10)** art. 16c otrzymuje brzmienie: „Art. 16c. 1. Osoba, o której mowa w art. 16 ust. 1, 2 lub 2a, będąca cudzoziemcem w dniu wydania decyzji o uznaniu za repatrianta nabywa obywatelstwo polskie z dniem wydania decyzji o uznaniu za repatrianta, jeżeli ta decyzja stała się ostateczna. 2. Po wydaniu decyzji o uznaniu za repatrianta przy ustalaniu prawa osoby, o której mowa w art. 16 ust. 1, 2 lub 2a, do świadczeń emerytalnych i rentowych na terytorium Rzeczypospolitej Polskiej oraz ich wysokości okresy zatrudnienia za granicą uwzględnia się jako okresy składkowe.”;
 - **11)** w art. 17:
     - **a)** w ust. 1: − wprowadzenie do wyliczenia otrzymuje brzmienie: „Pełnomocnik udziela repatriantowi oraz członkom jego najbliższej rodziny, jednorazowo, w drodze decyzji, pomocy ze środków budżetu państwa na:”, − w pkt 1 średnik zastępuje się przecinkiem i dodaje się wyrazy „na repatrianta i każdego członka najbliższej rodziny repatrianta;”, − w pkt 2 średnik zastępuje się przecinkiem i dodaje się wyrazy „na repatrianta i każdego członka najbliższej rodziny repatrianta;”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Starosta właściwy ze względu na miejsce osiedlenia się repatrianta udziela repatriantowi, który poniósł koszty związane z remontem, adaptacją lub wyposażeniem lokalu mieszkalnego w miejscu osiedlenia się w Rzeczypospolitej Polskiej, na jego wniosek, w drodze decyzji, pomocy finansowej ze środków budżetu państwa na częściowe pokrycie poniesionych, udokumentowanych przez repatrianta kosztów, w wysokości do 6000 zł na repatrianta i każdego członka najbliższej rodziny repatrianta, prowadzącego wspólnie z nim gospodarstwo domowe.”,
     - **c)** uchyla się ust. 3;
 
-- **12)** w art. 17a ust. 1–4 otrzymują brzmienie: „1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 2, do starosty, o którym mowa w art. 17 ust. 6, w terminie 2 lat od dnia nabycia przez repatrianta obywatelstwa polskiego.
-
-2. Wniosek, o którym mowa w art. 17 ust. 2, obejmuje członków najbliższej rodziny repatrianta prowadzących z nim wspólnie gospodarstwo domowe.
-
-3. Wniosek, o którym mowa w art. 17 ust. 2, składa się na formularzu, który zawiera następujące dane i informacje dotyczące wnioskodawcy:
-
-- **1)** imię (imiona) i nazwisko;
-- **2)** nazwisko rodowe;
-- **3)** imiona rodziców;
-- **4)** nazwisko rodowe matki;
-- **5)** datę urodzenia;
-- **6)** adres miejsca zamieszkania;
-- **7)** datę nabycia obywatelstwa polskiego w drodze repatriacji;
-- **8)** liczbę członków najbliższej rodziny repatrianta prowadzących wspólnie z nim gospodarstwo domowe;
-- **9)** imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o której mowa w pkt 8;
-- **10)** informację na temat wysokości i zakresu pomocy, o której mowa w art. 17 ust. 2, przyznanej dotychczas wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem, decyzją starosty, wydaną przed dniem złożenia wniosku;
-- **11)** uzasadnienie wniosku.
-
-4. Do wniosku, o którym mowa w art. 17 ust. 2, dołącza się:
-
-- **1)** kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia − kopię dowodu osobistego osoby, pod której opieką pozostaje;
-- **2)** dowód poniesienia kosztów, o których mowa w art. 17 ust. 2, a w przypadku osoby małoletniej, dowód poniesienia kosztów przez osobę, pod której opieką pozostaje;
-- **3)** kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego;
-- **4)** dokument, z którego wynika tytuł prawny wnioskodawcy do lokalu mieszkalnego, o którym mowa w art. 17 ust. 2;
-- **5)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
-- **6)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.”;
-- **13)** w art. 17b:
+- **12)** w art. 17a ust. 1–4 otrzymują brzmienie: „1. Repatriant składa wniosek, o którym mowa w art. 17 ust. 2, do starosty, o którym mowa w art. 17 ust. 6, w terminie 2 lat od dnia nabycia przez repatrianta obywatelstwa polskiego. 2. Wniosek, o którym mowa w art. 17 ust. 2, obejmuje członków najbliższej rodziny repatrianta prowadzących z nim wspólnie gospodarstwo domowe. 3. Wniosek, o którym mowa w art. 17 ust. 2, składa się na formularzu, który zawiera następujące dane i informacje dotyczące wnioskodawcy: 1) imię (imiona) i nazwisko; 2) nazwisko rodowe; 3) imiona rodziców; 4) nazwisko rodowe matki; 5) datę urodzenia; 6) adres miejsca zamieszkania; 7) datę nabycia obywatelstwa polskiego w drodze repatriacji; 8) liczbę członków najbliższej rodziny repatrianta prowadzących wspólnie z nim gospodarstwo domowe; 9) imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o której mowa w pkt 8; 10) informację na temat wysokości i zakresu pomocy, o której mowa w art. 17 ust. 2, przyznanej dotychczas wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem, decyzją starosty, wydaną przed dniem złożenia wniosku; 11) uzasadnienie wniosku. 4. Do wniosku, o którym mowa w art. 17 ust. 2, dołącza się: 1) kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia − kopię dowodu osobistego osoby, pod której opieką pozostaje; 2) dowód poniesienia kosztów, o których mowa w art. 17 ust. 2, a w przypadku osoby małoletniej, dowód poniesienia kosztów przez osobę, pod której opieką pozostaje; 3) kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego; 4) dokument, z którego wynika tytuł prawny wnioskodawcy do lokalu mieszkalnego, o którym mowa w art. 17 ust. 2; 5) inne dokumenty potwierdzające okoliczności wymienione we wniosku; 6) oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.”;
+- **13)** w art. 17b: 1) oświadczenia obywatela polskiego, o którym mowa w art. 12 ust. 3 pkt 3, albo 2) decyzji Pełnomocnika w sprawie przyznania miejsca w ośrodku − na jego wniosek, w drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych.”, 7. Wysokość pomocy finansowej w formie dopłaty, o której mowa w ust. 2 pkt 1, nie może w miesiącu przekraczać kwoty: 1) 300 zł na repatrianta oraz na każdego członka jego najbliższej rodziny prowadzącego wspólnie z nim gospodarstwo domowe; 2) miesięcznej kwoty czynszu wynikającej z umowy najmu.”, 8b. Wysokość pomocy finansowej w formie dopłaty, o której mowa w ust. 2 pkt 3, udzielonej repatriantowi oraz członkom jego najbliższej rodziny prowadzącym wspólnie z nim gospodarstwo domowe nie może przekroczyć ceny lokalu mieszkalnego lub budynku mieszkalnego określonej w umowie sprzedaży zawartej w formie aktu notarialnego. 8c. W przypadku nabycia tego samego lokalu mieszkalnego lub budynku mieszkalnego wspólnie przez kilku repatriantów prowadzących odrębne gospodarstwa domowe przepis ust. 8b stosuje się odpowiednio.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Pełnomocnik udziela repatriantowi, który przybył do Rzeczypospolitej Polskiej na podstawie wizy krajowej w celu repatriacji, posiadając dowód potwierdzający zapewnienie warunków do osiedlenia się w postaci:
-
-- **1)** oświadczenia obywatela polskiego, o którym mowa w art. 12 ust. 3 pkt 3, albo
-- **2)** decyzji Pełnomocnika w sprawie przyznania miejsca w ośrodku − na jego wniosek, w drodze decyzji, pomocy finansowej na zaspokojenie potrzeb mieszkaniowych.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wniosek o przyznanie pomocy finansowej w formie dopłaty, o której mowa w ust. 1, obejmuje członków najbliższej rodziny repatrianta prowadzących wspólnie z nim gospodarstwo domowe.”,
     - **c)** ust. 6 i 7 otrzymują brzmienie: „6. Łączna wysokość pomocy finansowej, o której mowa w ust. 1, nie może przekroczyć kwoty 25 000 zł na repatrianta oraz na każdego członka jego najbliższej rodziny prowadzącego wspólnie z nim gospodarstwo domowe.
-
-7. Wysokość pomocy finansowej w formie dopłaty, o której mowa w ust. 2 pkt 1, nie może w miesiącu przekraczać kwoty:
-
-- **1)** 300 zł na repatrianta oraz na każdego członka jego najbliższej rodziny prowadzącego wspólnie z nim gospodarstwo domowe;
-- **2)** miesięcznej kwoty czynszu wynikającej z umowy najmu.”,
     - **d)** po ust. 8 dodaje się ust. 8a−8c w brzmieniu: „8a. Wysokość pomocy finansowej w formie dopłaty, o której mowa w ust. 2 pkt 3, zwiększa się o dopłatę w wysokości nieprzekraczającej kwoty 25 000 zł łącznie na repatrianta oraz członków jego najbliższej rodziny prowadzących wspólnie z nim gospodarstwo domowe. Przepis ust. 11 stosuje się odpowiednio.
 
-8b. Wysokość pomocy finansowej w formie dopłaty, o której mowa w ust. 2 pkt 3, udzielonej repatriantowi oraz członkom jego najbliższej rodziny prowadzącym wspólnie z nim gospodarstwo domowe nie może przekroczyć ceny lokalu mieszkalnego lub budynku mieszkalnego określonej w umowie sprzedaży zawartej w formie aktu notarialnego.
-
-8c. W przypadku nabycia tego samego lokalu mieszkalnego lub budynku mieszkalnego wspólnie przez kilku repatriantów prowadzących odrębne gospodarstwa domowe przepis ust. 8b stosuje się odpowiednio.”;
-
-- **14)** w art. 17c:
+- **14)** w art. 17c: 1) imię (imiona) i nazwisko; 2) nazwisko rodowe; 3) imiona rodziców; 4) nazwisko rodowe matki; 5) datę urodzenia; 6) numer PESEL; 7) serię i numer dowodu osobistego, a jeżeli wnioskodawcą jest osoba małoletnia – serię i numer dowodu osobistego osoby, pod której opieką pozostaje; 8) adres miejsca zamieszkania; 9) datę nabycia obywatelstwa polskiego w drodze repatriacji; 10) imię, nazwisko, datę urodzenia oraz stopień pokrewieństwa w stosunku do wnioskodawcy obywatela polskiego, który złożył oświadczenie, o którym mowa w art. 12 ust. 3 pkt 3, w przypadku wnioskodawcy, o którym mowa w art. 17b ust. 1 pkt 1; 11) datę opuszczenia ośrodka, w przypadku wnioskodawcy, o którym mowa w art. 17b ust. 1 pkt 2; 12) liczbę członków najbliższej rodziny repatrianta; 13) imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o której mowa w pkt 12; 14) adres: a) wynajmowanego lokalu mieszkalnego lub budynku mieszkalnego albo b) miejsca zakwaterowania w domu studenckim, albo c) nabywanego lokalu mieszkalnego lub budynku mieszkalnego; 15) informację na temat wysokości i zakresu pomocy na zaspokojenie potrzeb mieszkaniowych przyznanej dotychczas wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem decyzją Pełnomocnika wydaną przed dniem złożenia wniosku; 16) numer rachunku bankowego właściwy do przekazania środków pomocy finansowej, o której mowa w art. 17b ust. 1; 17) uzasadnienie wniosku.”, 1) kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia − kopię dowodu osobistego osoby, pod której opieką pozostaje; 2) kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego; 3) inne dokumenty potwierdzające okoliczności wymienione we wniosku; 4) oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.”,
     - **a)** uchyla się ust. 1 i 2,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Wniosek, o którym mowa w art. 17b ust. 1, repatriant składa do Pełnomocnika na formularzu, który zawiera następujące dane i informacje dotyczące wnioskodawcy:
-
-- **1)** imię (imiona) i nazwisko;
-- **2)** nazwisko rodowe;
-- **3)** imiona rodziców;
-- **4)** nazwisko rodowe matki;
-- **5)** datę urodzenia;
-- **6)** numer PESEL;
-- **7)** serię i numer dowodu osobistego, a jeżeli wnioskodawcą jest osoba małoletnia – serię i numer dowodu osobistego osoby, pod której opieką pozostaje;
-- **8)** adres miejsca zamieszkania;
-- **9)** datę nabycia obywatelstwa polskiego w drodze repatriacji;
-- **10)** imię, nazwisko, datę urodzenia oraz stopień pokrewieństwa w stosunku do wnioskodawcy obywatela polskiego, który złożył oświadczenie, o którym mowa w art. 12 ust. 3 pkt 3, w przypadku wnioskodawcy, o którym mowa w art. 17b ust. 1 pkt 1;
-- **11)** datę opuszczenia ośrodka, w przypadku wnioskodawcy, o którym mowa w art. 17b ust. 1 pkt 2;
-- **12)** liczbę członków najbliższej rodziny repatrianta;
-- **13)** imię, nazwisko, datę urodzenia, datę przybycia do Rzeczypospolitej Polskiej oraz stopień pokrewieństwa w stosunku do wnioskodawcy każdej z osób, o której mowa w pkt 12;
-- **14)** adres:
-    - **a)** wynajmowanego lokalu mieszkalnego lub budynku mieszkalnego albo
-    - **b)** miejsca zakwaterowania w domu studenckim, albo
-    - **c)** nabywanego lokalu mieszkalnego lub budynku mieszkalnego;
-
-- **15)** informację na temat wysokości i zakresu pomocy na zaspokojenie potrzeb mieszkaniowych przyznanej dotychczas wnioskodawcy lub członkowi jego najbliższej rodziny objętemu wnioskiem decyzją Pełnomocnika wydaną przed dniem złożenia wniosku;
-- **16)** numer rachunku bankowego właściwy do przekazania środków pomocy finansowej, o której mowa w art. 17b ust. 1;
-- **17)** uzasadnienie wniosku.”,
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Do wniosku, o którym mowa w art. 17b ust. 1, dołącza się:
-
-- **1)** kopię dowodu osobistego wnioskodawcy, a jeżeli wnioskodawcą jest osoba małoletnia − kopię dowodu osobistego osoby, pod której opieką pozostaje;
-- **2)** kopię decyzji wojewody w sprawie potwierdzenia posiadania przez wnioskodawcę obywatelstwa polskiego;
-- **3)** inne dokumenty potwierdzające okoliczności wymienione we wniosku;
-- **4)** oświadczenie, pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, że dane i informacje zawarte we wniosku są prawdziwe.”,
     - **d)** ust. 6 otrzymuje brzmienie: „6. Do wniosku o przyznanie pomocy finansowej w formie dopłaty, o której mowa w art. 17b ust. 2 pkt 3, dołącza się kopię umowy przedwstępnej sprzedaży lokalu mieszkalnego lub budynku mieszkalnego albo kopię umowy podpisanej z deweloperem, z której wynika zobowiązanie stron do zawarcia umowy sprzedaży lokalu mieszkalnego lub budynku mieszkalnego.”,
     - **e)** ust. 8 otrzymuje brzmienie: „8. Kwotę pomocy finansowej w formie dopłaty, o której mowa w art. 17b ust. 2 pkt 3, wypłaca Pełnomocnik po przedstawieniu przez repatrianta wypisu aktu notarialnego umowy sprzedaży lokalu mieszkalnego lub budynku mieszkalnego, przelewem bankowym na rachunek, o którym mowa w ust. 3 pkt 16.”,
     - **f)** w ust. 10 wyrazy „ust. 3 pkt 9” zastępuje się wyrazami „ust. 3 pkt 16”;
 
 - **15)** uchyla się art. 20c;
 - **16)** w art. 20j w pkt 2 skreśla się przecinek i uchyla się pkt 3;
-- **17)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Gminie, która zapewni lokal mieszkalny kandydatowi na repatrianta i członkom jego najbliższej rodziny, udziela się dotacji z budżetu państwa na podstawie porozumienia zawartego z właściwym wojewodą.
-
-2. W przypadku gdy rada gminy podjęła uchwałę, w której zobowiązała się do zapewnienia lokalu mieszkalnego określonemu imiennie kandydatowi na repatrianta i do zawarcia, na czas nieokreślony, umowy nadającej mu tytuł prawny do lokalu mieszkalnego, dotacja może być przyznana do wysokości kwoty stanowiącej równowartość iloczynu 45 m powierzchni użytkowej lokalu mieszkalnego i wysokości wskaźnika przeliczeniowego kosztu odtworzenia 1 m na terenie danego powiatu ogłaszanego przez wojewodę na podstawie przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2016 r. poz. 1610 oraz z 2017 r. poz. 1442 i 1529), obowiązującego w dniu złożenia wniosku, o którym mowa w ust. 5.
-
-3. W przypadku gdy rada gminy podjęła uchwałę, w której zobowiązała się do zapewnienia lokalu mieszkalnego nieokreślonemu imiennie kandydatowi na repatrianta i do zawarcia, na czas nieokreślony, umowy nadającej mu tytuł prawny do lokalu mieszkalnego, dotacja, o której mowa w ust. 1, może być przyznana do wysokości kwoty stanowiącej równowartość iloczynu 55 m powierzchni użytkowej lokalu mieszkalnego i wysokości wskaźnika przeliczeniowego kosztu odtworzenia 1 m na terenie danego powiatu ogłaszanego przez wojewodę na podstawie przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, obowiązującego w dniu złożenia wniosku, o którym mowa w ust. 5.
-
-4. Dotacja, o której mowa w ust. 1, jest przeznaczona na dofinansowanie kosztów ponoszonych przez gminę w związku z osiedleniem się na jej terytorium repatrianta i członków jego najbliższej rodziny.
-
-5. Wniosek o przyznanie dotacji gmina składa do właściwego wojewody.
-
-6. Przy udzielaniu gminie dotacji, o której mowa w ust. 1, uwzględnia się wielkość lokalu mieszkalnego, jego wyposażenie i stan techniczny oraz lokalizację, a także ewentualne koszty poniesione przez gminę w związku z zapewnieniem repatriantowi i członkom jego najbliższej rodziny lokalu mieszkalnego.
-
-7. Porozumienie, o którym mowa w ust. 1, powinno określać w szczególności:
-
-- **1)** szczegółowy opis pomocy mieszkaniowej udzielonej repatriantowi i członkom jego najbliższej rodziny;
-- **2)** wysokość i tryb przekazania dotacji należnej gminie zapewniającej lokal mieszkalny;
-- **3)** tryb kontroli podejmowanych przez gminę działań;
-- **4)** sposób rozliczenia udzielonej dotacji.
-
-8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia w różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której mowa w ust. 1.”;
-
+- **17)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Gminie, która zapewni lokal mieszkalny kandydatowi na repatrianta i członkom jego najbliższej rodziny, udziela się dotacji z budżetu państwa na podstawie porozumienia zawartego z właściwym wojewodą. 2. W przypadku gdy rada gminy podjęła uchwałę, w której zobowiązała się do zapewnienia lokalu mieszkalnego określonemu imiennie kandydatowi na repatrianta i do zawarcia, na czas nieokreślony, umowy nadającej mu tytuł prawny do lokalu mieszkalnego, dotacja może być przyznana do wysokości kwoty stanowiącej równowartość iloczynu 45 m powierzchni użytkowej lokalu mieszkalnego i wysokości wskaźnika przeliczeniowego kosztu odtworzenia 1 m na terenie danego powiatu ogłaszanego przez wojewodę na podstawie przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2016 r. poz. 1610 oraz z 2017 r. poz. 1442 i 1529), obowiązującego w dniu złożenia wniosku, o którym mowa w ust. 5. 3. W przypadku gdy rada gminy podjęła uchwałę, w której zobowiązała się do zapewnienia lokalu mieszkalnego nieokreślonemu imiennie kandydatowi na repatrianta i do zawarcia, na czas nieokreślony, umowy nadającej mu tytuł prawny do lokalu mieszkalnego, dotacja, o której mowa w ust. 1, może być przyznana do wysokości kwoty stanowiącej równowartość iloczynu 55 m powierzchni użytkowej lokalu mieszkalnego i wysokości wskaźnika przeliczeniowego kosztu odtworzenia 1 m na terenie danego powiatu ogłaszanego przez wojewodę na podstawie przepisów ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, obowiązującego w dniu złożenia wniosku, o którym mowa w ust. 5. 4. Dotacja, o której mowa w ust. 1, jest przeznaczona na dofinansowanie kosztów ponoszonych przez gminę w związku z osiedleniem się na jej terytorium repatrianta i członków jego najbliższej rodziny. 5. Wniosek o przyznanie dotacji gmina składa do właściwego wojewody. 6. Przy udzielaniu gminie dotacji, o której mowa w ust. 1, uwzględnia się wielkość lokalu mieszkalnego, jego wyposażenie i stan techniczny oraz lokalizację, a także ewentualne koszty poniesione przez gminę w związku z zapewnieniem repatriantowi i członkom jego najbliższej rodziny lokalu mieszkalnego. 7. Porozumienie, o którym mowa w ust. 1, powinno określać w szczególności: 1) szczegółowy opis pomocy mieszkaniowej udzielonej repatriantowi i członkom jego najbliższej rodziny; 2) wysokość i tryb przekazania dotacji należnej gminie zapewniającej lokal mieszkalny; 3) tryb kontroli podejmowanych przez gminę działań; 4) sposób rozliczenia udzielonej dotacji. 8. Repatriantowi nie przysługują żadne roszczenia z tytułu zapewnienia w różnych gminach różnych warunków lokalu mieszkalnego, jeżeli gminy te otrzymały dotację z budżetu państwa, o której mowa w ust. 1.”;
 - **18)** w art. 22 ust. 3 otrzymuje brzmienie: „3. Gmina otrzymuje z budżetu państwa dotację celową na realizację zadania, o którym mowa w ust. 1, do wysokości 6000 zł na repatrianta i na każdego członka jego najbliższej rodziny.”;
 - **19)** w art. 29:
     - **a)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Dane umieszczone w ewidencji, o której mowa w ust. 1, Pełnomocnik może w każdym czasie udostępnić repatriantowi, który nie z własnej winy znalazł się w szczególnie trudnej sytuacji życiowej wynikającej z podeszłego wieku, problemów finansowych, zdrowotnych lub adaptacyjnych i nie jest w stanie samodzielnie zapewnić sobie lokalu mieszkalnego.”,

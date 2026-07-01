@@ -29,23 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2016 r. poz. 487 oraz z 2017 r. poz. 2245 i 2439) wprowadza się następujące zmiany:
 
-- **1)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Rada gminy ustala, w drodze uchwały, maksymalną liczbę zezwoleń na sprzedaż napojów alkoholowych na terenie gminy (miasta), odrębnie dla:
-- **1)** poszczególnych rodzajów napojów alkoholowych, o których mowa w art. 18 ust. 3;
-- **2)** zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu sprzedaży;
-- **3)** zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży.
-
-2. Rada gminy może ustalić, w drodze uchwały, maksymalną liczbę zezwoleń, o której mowa w ust. 1, odrębnie dla poszczególnych jednostek pomocniczych gminy.
-
-3. Rada gminy ustala, w drodze uchwały, zasady usytuowania na terenie gminy miejsc sprzedaży i podawania napojów alkoholowych.
-
-4. Rada gminy może ustalić, w drodze uchwały, dla terenu gminy lub wskazanych jednostek pomocniczych gminy, ograniczenia w godzinach nocnej sprzedaży napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży. Ograniczenia mogą dotyczyć sprzedaży prowadzonej między godziną 22 a 6 .
-
-5. Rada gminy przed podjęciem uchwał, o których mowa w ust. 1–4, zasięga opinii jednostki pomocniczej gminy.
-
-6. W miejscowościach, w których rozmieszczone są jednostki wojskowe, maksymalna liczba zezwoleń, o której mowa w ust. 1, usytuowanie miejsc sprzedaży, podawania i spożywania napojów alkoholowych oraz godziny sprzedaży napojów alkoholowych są ustalane po zasięgnięciu opinii właściwych dowódców garnizonów.
-
-7. Maksymalna liczba zezwoleń, o której mowa w ust. 1, usytuowanie miejsc sprzedaży, podawania i spożywania napojów alkoholowych oraz godziny sprzedaży napojów alkoholowych uwzględniają postanowienia gminnych programów profilaktyki i rozwiązywania problemów alkoholowych.”;
-
+- **1)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Rada gminy ustala, w drodze uchwały, maksymalną liczbę zezwoleń na sprzedaż napojów alkoholowych na terenie gminy (miasta), odrębnie dla: 1) poszczególnych rodzajów napojów alkoholowych, o których mowa w art. 18 ust. 3; 2) zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia w miejscu sprzedaży; 3) zezwoleń na sprzedaż napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży. 2. Rada gminy może ustalić, w drodze uchwały, maksymalną liczbę zezwoleń, o której mowa w ust. 1, odrębnie dla poszczególnych jednostek pomocniczych gminy. 3. Rada gminy ustala, w drodze uchwały, zasady usytuowania na terenie gminy miejsc sprzedaży i podawania napojów alkoholowych. 4. Rada gminy może ustalić, w drodze uchwały, dla terenu gminy lub wskazanych jednostek pomocniczych gminy, ograniczenia w godzinach nocnej sprzedaży napojów alkoholowych przeznaczonych do spożycia poza miejscem sprzedaży. Ograniczenia mogą dotyczyć sprzedaży prowadzonej między godziną 22 a 6 . 5. Rada gminy przed podjęciem uchwał, o których mowa w ust. 1–4, zasięga opinii jednostki pomocniczej gminy. 6. W miejscowościach, w których rozmieszczone są jednostki wojskowe, maksymalna liczba zezwoleń, o której mowa w ust. 1, usytuowanie miejsc sprzedaży, podawania i spożywania napojów alkoholowych oraz godziny sprzedaży napojów alkoholowych są ustalane po zasięgnięciu opinii właściwych dowódców garnizonów. 7. Maksymalna liczba zezwoleń, o której mowa w ust. 1, usytuowanie miejsc sprzedaży, podawania i spożywania napojów alkoholowych oraz godziny sprzedaży napojów alkoholowych uwzględniają postanowienia gminnych programów profilaktyki i rozwiązywania problemów alkoholowych.”;
 - **2)** w art. 14:
     - **a)** ust. 2a otrzymuje brzmienie: „2a. Zabrania się spożywania napojów alkoholowych w miejscu publicznym, z wyjątkiem miejsc przeznaczonych do ich spożycia na miejscu, w punktach sprzedaży tych napojów.”,
     - **b)** po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Rada gminy może wprowadzić, w drodze uchwały, w określonym miejscu publicznym na terenie gminy odstępstwo od zakazu spożywania napojów alkoholowych, jeżeli uzna, że nie będzie to miało negatywnego wpływu na odpowiednie kształtowanie polityki społecznej w zakresie przeciwdziałania alkoholizmowi, o której mowa w art. 2 ust. 1, i nie będzie zakłócało bezpieczeństwa i porządku publicznego.”;

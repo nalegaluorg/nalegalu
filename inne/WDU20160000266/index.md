@@ -30,13 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2015 r. poz. 812, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 7a dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw energii sprawuje nadzór nad Prezesem Wyższego Urzędu Górniczego.”;
-- **2)** w art. 11a:
+- **2)** w art. 11a: 1) prowadzenia, w porozumieniu z ministrem właściwym do spraw środowiska, racjonalnej gospodarki złożami węglowodorów, węgla brunatnego, węgla kamiennego, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, w obszarze objętym wydobyciem; 2) uzgadniania koncesji na wydobywanie udzielanych przez ministra właściwego do spraw środowiska, w zakresie kopalin objętych własnością górniczą Skarbu Państwa; 3) współpracy w nadzorze nad wydobywaniem kopalin, o których mowa w pkt 1; 4) kwalifikacji w zakresie górnictwa.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Dział gospodarka złożami kopalin obejmuje sprawy:
-
-- **1)** prowadzenia, w porozumieniu z ministrem właściwym do spraw środowiska, racjonalnej gospodarki złożami węglowodorów, węgla brunatnego, węgla kamiennego, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, w obszarze objętym wydobyciem;
-- **2)** uzgadniania koncesji na wydobywanie udzielanych przez ministra właściwego do spraw środowiska, w zakresie kopalin objętych własnością górniczą Skarbu Państwa;
-- **3)** współpracy w nadzorze nad wydobywaniem kopalin, o których mowa w pkt 1;
-- **4)** kwalifikacji w zakresie górnictwa.”,
     - **b)** uchyla się ust. 2.
 
 **Art. 2.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014 oraz z 2015 r. poz. 1642) wprowadza się następujące zmiany:
@@ -47,10 +42,7 @@ source: pdf
 **Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 12a ust. 2 otrzymuje brzmienie: „2. Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 lit. a, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2016 r. poz. 154) w stosunku do operatora systemu przesyłowego elektroenergetycznego i operatora systemu przesyłowego gazowego oraz Przedsiębiorstwa Eksploatacji Rurociągów Naftowych „Przyjaźń S.A.”.”;
-- **2)** art. 12b otrzymuje brzmienie: „Art. 12b. Minister właściwy do spraw energii wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa w stosunku do spółek:
-- **1)** Enea S.A., Energa S.A., Zespół Elektrowni Wodnych Niedzica S.A., PGE Polska Grupa Energetyczna S.A. oraz TAURON Polska Energia S.A.,
-- **2)** Grupa LOTOS S.A., Polski Koncern Naftowy ORLEN S.A., Polskie Górnictwo Naftowe i Gazownictwo S.A., Przedsiębiorstwo Przeładunku Paliw Płynnych „NAFTOPORT” Sp. z o.o. oraz SIARKOPOL Gdańsk S.A.,
-- **3)** Towarzystwo Finansowe Silesia Sp. z o.o. – oraz spółek zależnych od tych spółek lub spółek powstałych w wyniku łączenia, podziału lub przekształcenia tych spółek, w których Skarbowi Państwa przysługują prawa z akcji lub udziałów.”.
+- **2)** art. 12b otrzymuje brzmienie: „Art. 12b. Minister właściwy do spraw energii wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa w stosunku do spółek: 1) Enea S.A., Energa S.A., Zespół Elektrowni Wodnych Niedzica S.A., PGE Polska Grupa Energetyczna S.A. oraz TAURON Polska Energia S.A., 2) Grupa LOTOS S.A., Polski Koncern Naftowy ORLEN S.A., Polskie Górnictwo Naftowe i Gazownictwo S.A., Przedsiębiorstwo Przeładunku Paliw Płynnych „NAFTOPORT” Sp. z o.o. oraz SIARKOPOL Gdańsk S.A., 3) Towarzystwo Finansowe Silesia Sp. z o.o. – oraz spółek zależnych od tych spółek lub spółek powstałych w wyniku łączenia, podziału lub przekształcenia tych spółek, w których Skarbowi Państwa przysługują prawa z akcji lub udziałów.”.
 
 **Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) w art. 20 w ust. 5a wyrazy „ministra właściwego do spraw gospodarki” zastępuje się wyrazami „ministra właściwego do spraw energii”.
 
@@ -67,24 +59,12 @@ source: pdf
 - **1)** w art. 146 w ust. 3 we wprowadzeniu do wyliczenia, w art. 146h we wprowadzeniu do wyliczenia oraz w art. 146i wyrazy „ministrem właściwym do spraw gospodarki” zastępuje się wyrazami „ministrem właściwym do spraw energii”;
 - **2)** w art. 400d w ust. 2 pkt 3 otrzymuje brzmienie: „3) przedstawiciela ministra właściwego do spraw energii;”;
 - **3)** w art. 400k w ust. 2 pkt 1 otrzymuje brzmienie: „1) opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw energii co do zawartych w nich ustaleń;”;
-- **4)** w art. 401c w ust. 5 w pkt 5 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) realizacji zadań ministra właściwego do spraw energii służących zapewnieniu bezpieczeństwa energetycznego kraju i kształtowaniu warunków prawidłowego funkcjonowania i rozwoju sektora energetycznego, wynikających z zasady zrównoważonego rozwoju i zgodnych z polityką energetyczną państwa;
-- **7)** projektów w zakresie bezpieczeństwa energetycznego kraju, w tym bezpieczeństwa dostaw energii, surowców energetycznych i paliw;
-- **8)** przedsięwzięć związanych z rozwojem infrastruktury energetycznej, w tym z funkcjonowaniem systemów energetycznych, z uwzględnieniem zasad racjonalnej gospodarki i potrzeb bezpieczeństwa energetycznego kraju.”;
+- **4)** w art. 401c w ust. 5 w pkt 5 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) realizacji zadań ministra właściwego do spraw energii służących zapewnieniu bezpieczeństwa energetycznego kraju i kształtowaniu warunków prawidłowego funkcjonowania i rozwoju sektora energetycznego, wynikających z zasady zrównoważonego rozwoju i zgodnych z polityką energetyczną państwa; 7) projektów w zakresie bezpieczeństwa energetycznego kraju, w tym bezpieczeństwa dostaw energii, surowców energetycznych i paliw; 8) przedsięwzięć związanych z rozwojem infrastruktury energetycznej, w tym z funkcjonowaniem systemów energetycznych, z uwzględnieniem zasad racjonalnej gospodarki i potrzeb bezpieczeństwa energetycznego kraju.”;
 - **5)** w art. 411 ust. 2 otrzymuje brzmienie: „2. Przeznaczenie środków na finansowanie potrzeb geologii wymaga zasięgnięcia opinii ministra właściwego do spraw środowiska, a na finansowanie potrzeb górnictwa – opinii ministra właściwego do spraw energii oraz Prezesa Wyższego Urzędu Górniczego.”.
 
 **Art. 8.** W ustawie z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych (Dz. U. poz. 449) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Stopień generalnego dyrektora górnictwa przysługuje:
-- **1)** ministrowi właściwemu do spraw energii;
-- **2)** sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw energii odpowiedzialnemu za sprawy górnictwa;
-- **3)** Prezesowi Wyższego Urzędu Górniczego;
-- **4)** Głównemu Geologowi Kraju;
-- **5)** podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa.
-
-2. Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów.
-
-3. W przypadku osób, o których mowa w ust. 1 pkt 3–5, Prezes Rady Ministrów stopień generalnego dyrektora górnictwa nadaje na wniosek ministra właściwego do spraw energii.”;
-
+- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Stopień generalnego dyrektora górnictwa przysługuje: 1) ministrowi właściwemu do spraw energii; 2) sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw energii odpowiedzialnemu za sprawy górnictwa; 3) Prezesowi Wyższego Urzędu Górniczego; 4) Głównemu Geologowi Kraju; 5) podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa. 2. Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów. 3. W przypadku osób, o których mowa w ust. 1 pkt 3–5, Prezes Rady Ministrów stopień generalnego dyrektora górnictwa nadaje na wniosek ministra właściwego do spraw energii.”;
 - **2)** w art. 7 w ust. 1 we wprowadzeniu do wyliczenia oraz w art. 15 we wprowadzeniu do wyliczenia użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
 
 **Art. 9.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2014 r. poz. 510 i 1146 oraz z 2015 r. poz. 1513) w art. 8 w ust. 4 pkt 2 otrzymuje brzmienie: „2) przedstawiciel ministra właściwego do spraw energii;”.
@@ -94,26 +74,18 @@ source: pdf
 **Art. 11.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2015 r. poz. 775) wprowadza się następujące zmiany:
 
 - **1)** w art. 22 w ust. 4–6, w art. 23 w ust. 3 i 4c, w art. 25 w ust. 3, w art. 28h w ust. 2, w art. 30 w ust. 2d oraz w art. 37a w ust. 1 i 3 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
-- **2)** w art. 30 ust. 4 i 4a otrzymują brzmienie: „4. Prezes Urzędu Regulacji Energetyki, na podstawie sprawozdań kwartalnych, o których mowa w ust. 2 i 3, sporządza zbiorczy raport kwartalny dotyczący rynku paliw ciekłych i biopaliw ciekłych i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych, środowiska oraz Prezesowi Agencji Rynku Rolnego, w terminie do 75 dni po zakończeniu kwartału.
-
-4a. Prezes Agencji Rynku Rolnego, na podstawie sprawozdań kwartalnych, o których mowa w ust. 1, 1b i 2b, sporządza zbiorczy raport kwartalny dotyczący rynku biokomponentów i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, w terminie do 75 dni po zakończeniu kwartału.”;
-
+- **2)** w art. 30 ust. 4 i 4a otrzymują brzmienie: „4. Prezes Urzędu Regulacji Energetyki, na podstawie sprawozdań kwartalnych, o których mowa w ust. 2 i 3, sporządza zbiorczy raport kwartalny dotyczący rynku paliw ciekłych i biopaliw ciekłych i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych, środowiska oraz Prezesowi Agencji Rynku Rolnego, w terminie do 75 dni po zakończeniu kwartału. 4a. Prezes Agencji Rynku Rolnego, na podstawie sprawozdań kwartalnych, o których mowa w ust. 1, 1b i 2b, sporządza zbiorczy raport kwartalny dotyczący rynku biokomponentów i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, w terminie do 75 dni po zakończeniu kwartału.”;
 - **3)** w art. 31 ust. 3 otrzymuje brzmienie: „3. Zbiorczy raport roczny, o którym mowa w ust. 2, Prezes Agencji Rynku Rolnego przekazuje ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, do dnia 15 marca następnego roku.”.
 
 **Art. 12.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2014 r. poz. 1695) w art. 3 w ust. 5 we wprowadzeniu do wyliczenia, w art. 4 we wprowadzeniu do wyliczenia, w art. 5 w ust. 6a, w art. 11a w ust. 8 i w ust. 9 we wprowadzeniu do wyliczenia, w art. 13 w ust. 5 we wprowadzeniu do wyliczenia, w art. 17 w ust. 2, w art. 21b w ust. 9, w ust. 10 we wprowadzeniu do wyliczenia, w ust. 11 we wprowadzeniu do wyliczenia i w ust. 14, w art. 21e w ust. 1, 2, 4, 6 i 8, w art. 22 w ust. 2, w art. 22a, w art. 23, w art. 24 w ust. 5, w ust. 5c w pkt 1, w pkt 2 we wprowadzeniu do wyliczenia, w art. 26 w ust. 1, 2 i 4, w art. 27 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 28d w ust. 3 i 4, w art. 28e we wprowadzeniu do wyliczenia, w art. 28f, w art. 29b w ust. 2, w art. 31 w ust. 2 w pkt 3 i 4, w ust. 4 we wprowadzeniu do wyliczenia, w ust. 5 i w ust. 6 we wprowadzeniu do wyliczenia, w art. 33 w ust. 1 we wprowadzeniu do wyliczenia, w art. 34 we wprowadzeniu do wyliczenia, w art. 35 w ust. 1 i 4, w art. 36, w art. 37 we wprowadzeniu do wyliczenia, w art. 38 w ust. 2, w art. 39 w ust. 1, w art. 40 w ust. 1 we wprowadzeniu do wyliczenia, w art. 41 w ust. 1 we wprowadzeniu do wyliczenia, w art. 44 w ust. 2, w art. 44a, w art. 46 we wprowadzeniu do wyliczenia, w art. 47 w ust. 1 i 3, w art. 48 w ust. 1, w art. 48a w ust. 1–3, w art. 52 w ust. 7, w art. 53, w art. 55 w ust. 3, w art. 56, w art. 61 w ust. 1 i w ust. 3 we wprowadzeniu do wyliczenia, w art. 64 w ust. 1 w pkt 7 i w ust. 2 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
 
-**Art. 13.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2013 r. poz. 1166 oraz z 2015 r. poz. 1485) w art. 8 w ust. 3 w pkt 1 w lit. s średnik zastępuje się przecinkiem i dodaje się lit. t i u w brzmieniu: „t) energia,
-
-- **u)** gospodarka złożami kopalin;”.
+**Art. 13.** W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2013 r. poz. 1166 oraz z 2015 r. poz. 1485) w art. 8 w ust. 3 w pkt 1 w lit. s średnik zastępuje się przecinkiem i dodaje się lit. t i u w brzmieniu: „t) energia, u) gospodarka złożami kopalin;”.
 
 **Art. 14.** W ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. poz. 905, z 2008 r. poz. 357, z 2009 r. poz. 817 oraz z 2011 r. poz. 551 i 1381) w art. 21 w ust. 2–4, w art. 29 w ust. 1 i 3, w art. 49 w ust. 1 w pkt 4 w lit. b, w art. 55 w ust. 1 w pkt 2 oraz w art. 57 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
 
 **Art. 15.** W ustawie z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2015 r. poz. 1797) w art. 5 w ust. 3, w art. 11 w ust. 3 i 4 oraz w art. 12 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki złożami kopalin”.
 
-**Art. 16.** W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2015 r. poz. 410, 1960 i 2300) art. 20a otrzymuje brzmienie: „Art. 20a. Kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2016 r. poz. 154) w odniesieniu do:
-
-- **1)** przedsiębiorstw górniczych, z wyjątkiem Lubelskiego Węgla „Bogdanka” S.A., oraz spółek zależnych od tych przedsiębiorstw,
-- **2)** CZW „Węglozbyt” S.A. w Katowicach, „Węglokoks” S.A. w Katowicach, Centralnej Stacji Ratownictwa Górniczego S.A. oraz spółek zależnych od tych spółek – w których Skarbowi Państwa przysługują uprawnienia z akcji lub udziałów, wykonuje minister właściwy do spraw energii.”.
+**Art. 16.** W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2015 r. poz. 410, 1960 i 2300) art. 20a otrzymuje brzmienie: „Art. 20a. Kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2016 r. poz. 154) w odniesieniu do: 1) przedsiębiorstw górniczych, z wyjątkiem Lubelskiego Węgla „Bogdanka” S.A., oraz spółek zależnych od tych przedsiębiorstw, 2) CZW „Węglozbyt” S.A. w Katowicach, „Węglokoks” S.A. w Katowicach, Centralnej Stacji Ratownictwa Górniczego S.A. oraz spółek zależnych od tych spółek – w których Skarbowi Państwa przysługują uprawnienia z akcji lub udziałów, wykonuje minister właściwy do spraw energii.”.
 
 **Art. 17.** W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2014 r. poz. 1501 oraz z 2015 r. poz. 1045 i 1777) wprowadza się następujące zmiany:
 
@@ -149,8 +121,7 @@ source: pdf
 **Art. 24.** W ustawie z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2015 r. poz. 2012) w art. 17:
 
 - **1)** ust. 1 otrzymuje brzmienie: „1. Rada składa się z 23 członków.”;
-- **2)** w ust. 2 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) przedstawiciel ministra właściwego do spraw energii;
-- **2b)** przedstawiciel ministra właściwego do spraw gospodarki złożami kopalin;”.
+- **2)** w ust. 2 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) przedstawiciel ministra właściwego do spraw energii; 2b) przedstawiciel ministra właściwego do spraw gospodarki złożami kopalin;”.
 
 **Art. 25.** W ustawie z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. U. poz. 1203 oraz z 2015 r. poz. 1069) w art. 2 w ust. 2 oraz w art. 8 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
 
@@ -161,9 +132,7 @@ source: pdf
 
 **Art. 27.** W ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. poz. 1223) wprowadza się następujące zmiany:
 
-- **1)** w art. 29 ust. 2 otrzymuje brzmienie: „2. Wykaz, o którym mowa w ust. 1, zawiera listę instalacji wytwarzających energię elektryczną, które kwalifikują się do przydziału uprawnień do emisji, wraz z liczbą uprawnień do emisji planowanych do przydzielenia danej instalacji na każdy rok okresu rozliczeniowego 2013–2020, ustaloną przez ministra właściwego do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii, zgodnie z decyzją Komisji nr K (2011) 1983 z dnia 29 marca 2011 r. w sprawie metodologii przejściowego przydziału instalacjom wytwarzającym energię elektryczną bezpłatnych uprawnień do emisji na mocy art. 10c ust. 3 dyrektywy 2003/87/WE oraz z uwzględnieniem wytycznych zawartych w Komunikacie Komisji – Wytyczne w zakresie nieobowiązkowego stosowania art. 10c dyrektywy 2003/87/WE (2011/C 99/03) (Dz. Urz. UE C 99 z 31.03.2011, str. 9), zwanym dalej „Komunikatem Komisji nr 2011/C 99/03”, na podstawie:
-- **1)** zweryfikowanych emisji w latach 2005–2007 lub
-- **2)** wskaźnika wydajności ex ante.”;
+- **1)** w art. 29 ust. 2 otrzymuje brzmienie: „2. Wykaz, o którym mowa w ust. 1, zawiera listę instalacji wytwarzających energię elektryczną, które kwalifikują się do przydziału uprawnień do emisji, wraz z liczbą uprawnień do emisji planowanych do przydzielenia danej instalacji na każdy rok okresu rozliczeniowego 2013–2020, ustaloną przez ministra właściwego do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii, zgodnie z decyzją Komisji nr K (2011) 1983 z dnia 29 marca 2011 r. w sprawie metodologii przejściowego przydziału instalacjom wytwarzającym energię elektryczną bezpłatnych uprawnień do emisji na mocy art. 10c ust. 3 dyrektywy 2003/87/WE oraz z uwzględnieniem wytycznych zawartych w Komunikacie Komisji – Wytyczne w zakresie nieobowiązkowego stosowania art. 10c dyrektywy 2003/87/WE (2011/C 99/03) (Dz. Urz. UE C 99 z 31.03.2011, str. 9), zwanym dalej „Komunikatem Komisji nr 2011/C 99/03”, na podstawie: 1) zweryfikowanych emisji w latach 2005–2007 lub 2) wskaźnika wydajności ex ante.”;
 - **2)** w art. 30 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw środowiska ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” krajowy plan inwestycyjny sporządzony przez ministra właściwego do spraw energii na podstawie informacji przekazanych przez podmioty realizujące zadania inwestycyjne z uwzględnieniem potrzeby modernizacji i poprawy infrastruktury, wspierania czystych technologii, a także dywersyfikacji struktury energetycznej i źródeł dostaw, zatwierdzony przez Komisję Europejską w decyzjach, o których mowa w art. 29 ust. 1, niezwłocznie po jego zatwierdzeniu przez Komisję Europejską, uwzględniając poufność informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ).”;
 - **3)** w art. 36 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii określi, w drodze rozporządzenia, wzór:”;
 - **4)** w art. 42 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii zatwierdza raport z realizacji zadań inwestycyjnych ujętych w krajowym planie inwestycyjnym.”.
@@ -172,10 +141,7 @@ source: pdf
 
 **Art. 29.** W ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. poz. 1272 i 2281 oraz z 2016 r. poz. 149) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 w ust. 1 pkt 6 otrzymuje brzmienie: „6) organie kontroli – rozumie się przez to:
-    - **a)** ministra właściwego do spraw energii – w zakresie określonym w art. 4 ust. 1 pkt 1–5, 8–10 oraz 12,
-    - **b)** ministra właściwego do spraw Skarbu Państwa – w zakresie określonym w art. 4 ust. 1 pkt 6, 7, 11, 13 i 14.”;
-
+- **1)** w art. 3 w ust. 1 pkt 6 otrzymuje brzmienie: „6) organie kontroli – rozumie się przez to: a) ministra właściwego do spraw energii – w zakresie określonym w art. 4 ust. 1 pkt 1–5, 8–10 oraz 12, b) ministra właściwego do spraw Skarbu Państwa – w zakresie określonym w art. 4 ust. 1 pkt 6, 7, 11, 13 i 14.”;
 - **2)** w art. 13 ust. 5 otrzymuje brzmienie: „5. Członków Komitetu Konsultacyjnego powołuje i odwołuje minister właściwy do spraw Skarbu Państwa, wskazując jednocześnie Przewodniczącego Komitetu Konsultacyjnego.”;
 - **3)** w art. 14 ust. 5 otrzymuje brzmienie: „5. Obsługę organizacyjną Komitetu Konsultacyjnego zapewnia minister właściwy do spraw Skarbu Państwa.”.
 

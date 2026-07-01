@@ -34,29 +34,15 @@ source: pdf
 **Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 po ust. 4f dodaje się ust. 4g w brzmieniu: „4g. W roku 2015 środki przeznaczone na sfinansowanie stażu podyplomowego, o którym mowa w ust. 4, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy.”;
-- **2)** w art. 16e:
+- **2)** w art. 16e: 1) niewykorzystanych miejscach szkoleniowych objętych rezydenturą; 2) lekarzach, którzy brali udział w postępowaniu kwalifikacyjnym na te miejsca szkoleniowe i zajęli kolejne najwyższe miejsca na liście rankingowej, obejmującą dane określone w art. 16c ust. 2 i miejsce na liście rankingowej.”, 4. Wojewoda, a w przypadku miejsc szkoleniowych objętych rezydenturą – minister właściwy do spraw zdrowia, może dodatkowo przyznawać miejsca szkoleniowe, nie później niż w terminie 2 miesięcy od dnia zakończenia danego postępowania kwalifikacyjnego.”,
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wojewoda niezwłocznie przekazuje ministrowi właściwemu do spraw zdrowia informację o:
-
-- **1)** niewykorzystanych miejscach szkoleniowych objętych rezydenturą;
-- **2)** lekarzach, którzy brali udział w postępowaniu kwalifikacyjnym na te miejsca szkoleniowe i zajęli kolejne najwyższe miejsca na liście rankingowej, obejmującą dane określone w art. 16c ust. 2 i miejsce na liście rankingowej.”,
     - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Niewykorzystane miejsca szkoleniowe objęte rezydenturą, przyznane na dane postępowanie kwalifikacyjne dla danego województwa w danej dziedzinie medycyny, minister właściwy do spraw zdrowia może dodatkowo przyznać lekarzom, o których mowa w ust. 2a pkt 2, uwzględniając wszystkie dziedziny, w których były przyznane miejsca szkoleniowe objęte rezydenturą.
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw zdrowia niezwłocznie informuje o przyznaniu miejsca szkoleniowego objętego rezydenturą właściwego wojewodę, który kieruje lekarza do odbywania szkolenia specjalizacyjnego.”;
 
-4. Wojewoda, a w przypadku miejsc szkoleniowych objętych rezydenturą – minister właściwy do spraw zdrowia, może dodatkowo przyznawać miejsca szkoleniowe, nie później niż w terminie 2 miesięcy od dnia zakończenia danego postępowania kwalifikacyjnego.”,
-
-- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw zdrowia niezwłocznie informuje o przyznaniu miejsca szkoleniowego objętego rezydenturą właściwego wojewodę, który kieruje lekarza do odbywania szkolenia specjalizacyjnego.”;
-- **3)** po art. 16e dodaje się art. 16ea w brzmieniu: „Art. 16ea. 1. Rezydenturę może odbywać wyłącznie lekarz nieposiadający I lub II stopnia specjalizacji lub tytułu specjalisty.
-
-2. Lekarz nie może złożyć ponownie wniosku o odbywanie rezydentury, jeżeli uzyskał potwierdzenie realizacji programu.
-
-3. Lekarz, który został zakwalifikowany do odbywania rezydentury, nie może złożyć ponownego wniosku o odbywanie rezydentury, z wyjątkiem przypadku, gdy posiada on orzeczenie lekarskie o istnieniu przeciwwskazań do kontynuowania dotychczasowej specjalizacji.
-
-4. Lekarz, który dwukrotnie został zakwalifikowany do odbywania rezydentury, nie może złożyć kolejnego wniosku o odbywanie rezydentury.”;
-
-- **4)** w art. 16h:
+- **3)** po art. 16e dodaje się art. 16ea w brzmieniu: „Art. 16ea. 1. Rezydenturę może odbywać wyłącznie lekarz nieposiadający I lub II stopnia specjalizacji lub tytułu specjalisty. 2. Lekarz nie może złożyć ponownie wniosku o odbywanie rezydentury, jeżeli uzyskał potwierdzenie realizacji programu. 3. Lekarz, który został zakwalifikowany do odbywania rezydentury, nie może złożyć ponownego wniosku o odbywanie rezydentury, z wyjątkiem przypadku, gdy posiada on orzeczenie lekarskie o istnieniu przeciwwskazań do kontynuowania dotychczasowej specjalizacji. 4. Lekarz, który dwukrotnie został zakwalifikowany do odbywania rezydentury, nie może złożyć kolejnego wniosku o odbywanie rezydentury.”;
+- **4)** w art. 16h: 9. Przepisu ust. 8 nie stosuje się, jeżeli jednostka organizacyjna, w której lekarz odbywa szkolenie specjalizacyjne, uległa likwidacji lub przestała spełniać wymagania, o których mowa w art. 19f ust. 2.”;
     - **a)** uchyla się ust. 7,
     - **b)** dodaje się ust. 8 i 9 w brzmieniu: „8. Lekarz, który odbywa szkolenie specjalizacyjne w trybie rezydentury, może zmienić miejsce odbywania szkolenia specjalizacyjnego nie wcześniej niż po upływie roku od dnia zakwalifikowania się do odbywania tego szkolenia specjalizacyjnego, z zastrzeżeniem ust. 9.
-
-9. Przepisu ust. 8 nie stosuje się, jeżeli jednostka organizacyjna, w której lekarz odbywa szkolenie specjalizacyjne, uległa likwidacji lub przestała spełniać wymagania, o których mowa w art. 19f ust. 2.”;
 
 - **5)** w art. 16j po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. W roku 2015 rezydentura jest finansowana przez ministra właściwego do spraw zdrowia ze środków budżetu państwa do wysokości 60,75 mln zł oraz ze środków Funduszu Pracy.”;
 - **6)** w art. 16k po ust. 1c dodaje się ust. 1d w brzmieniu: „1d. W roku 2015 szkolenie specjalizacyjne jest dofinansowywane przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.”.
@@ -65,26 +51,15 @@ source: pdf
 
 **Art. 5.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254 i 1645) po art. 29e dodaje się art. 29f w brzmieniu: „Art. 29f. 1. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2015 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8, z zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, o których mowa w art. 2 pkt 7, w jednostkach organizacyjnych wymienionych w art. 1 pkt 8, a w szczególności rad nadzorczych i komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi w 2015 r. przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2011 r.”.
 
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ) w art. 108 po ust. 1f dodaje się ust. 1fa w brzmieniu: „1fa. Ze środków Funduszu Pracy w 2015 r. są finansowane:
-
-- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
-- **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm. ) w art. 108 po ust. 1f dodaje się ust. 1fa w brzmieniu: „1fa. Ze środków Funduszu Pracy w 2015 r. są finansowane: 1) staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty; 2) staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
 
 **Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, 1559 i 1662) wprowadza się następujące zmiany:
 
-- **1)** w art. 13 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Podatnikiem z tytułu produkcji papierosów, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47, jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, która produkuje papierosy, oraz każda inna osoba, która uczestniczy w ich produkcji.
-
-1b. Jeżeli obowiązek podatkowy z tytułu produkcji papierosów, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47, ciąży na kilku podatnikach, podatnicy ci ponoszą solidarną odpowiedzialność za zobowiązanie podatkowe.”;
-
-- **2)** w art. 99:
+- **1)** w art. 13 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Podatnikiem z tytułu produkcji papierosów, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47, jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, która produkuje papierosy, oraz każda inna osoba, która uczestniczy w ich produkcji. 1b. Jeżeli obowiązek podatkowy z tytułu produkcji papierosów, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47, ciąży na kilku podatnikach, podatnicy ci ponoszą solidarną odpowiedzialność za zobowiązanie podatkowe.”;
+- **2)** w art. 99: 1b. Za produkcję papierosów nie uznaje się wytwarzania papierosów przez konsumenta ręcznie domowym sposobem w gospodarstwach domowych.”, 1) nabycia lub posiadania papierosów lub tytoniu do palenia znajdujących się poza procedurą zawieszenia poboru akcyzy, w opakowaniach jednostkowych nieoznaczonych albo oznaczonych maksymalną ceną detaliczną, jeżeli od tych wyrobów nie została zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, postępowania kontrolnego albo postępowania podatkowego nie ustalono, że podatek został zapłacony, 2) produkcji, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47 – stosuje się odpowiednio stawki akcyzy w wysokości określonej w ust. 2 pkt 1 i 2, przy czym za maksymalną cenę detaliczną przyjmuje się trzykrotną wartość średniej ważonej detalicznej ceny sprzedaży papierosów, o której mowa w ust. 5d, przeliczonej na jednostkę 1000 sztuk dla papierosów, a dla tytoniu do palenia, przyjmując założenie, że jednostka 1000 sztuk papierosów odpowiada 1 kilogramowi tytoniu do palenia.”.
     - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Produkcją papierosów jest również ich wytwarzanie, także przez konsumenta, przy użyciu maszyny do wytwarzania papierosów.
-
-1b. Za produkcję papierosów nie uznaje się wytwarzania papierosów przez konsumenta ręcznie domowym sposobem w gospodarstwach domowych.”,
-
-- **b)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) na cygara i cygaretki – 393,00 zł za każdy kilogram.”,
-- **c)** ust. 9 otrzymuje brzmienie: „9. W przypadku:
-- **1)** nabycia lub posiadania papierosów lub tytoniu do palenia znajdujących się poza procedurą zawieszenia poboru akcyzy, w opakowaniach jednostkowych nieoznaczonych albo oznaczonych maksymalną ceną detaliczną, jeżeli od tych wyrobów nie została zapłacona akcyza w należnej wysokości, a w wyniku kontroli podatkowej, postępowania kontrolnego albo postępowania podatkowego nie ustalono, że podatek został zapłacony,
-- **2)** produkcji, o której mowa w art. 99 ust. 1a, niezgodnej z art. 47 – stosuje się odpowiednio stawki akcyzy w wysokości określonej w ust. 2 pkt 1 i 2, przy czym za maksymalną cenę detaliczną przyjmuje się trzykrotną wartość średniej ważonej detalicznej ceny sprzedaży papierosów, o której mowa w ust. 5d, przeliczonej na jednostkę 1000 sztuk dla papierosów, a dla tytoniu do palenia, przyjmując założenie, że jednostka 1000 sztuk papierosów odpowiada 1 kilogramowi tytoniu do palenia.”.
+    - **b)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) na cygara i cygaretki – 393,00 zł za każdy kilogram.”,
+    - **c)** ust. 9 otrzymuje brzmienie: „9. W przypadku:
 
 **Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) w art. 146 ust. 1 otrzymuje brzmienie: „1. Dysponenci części budżetowych, w terminie 10 dni roboczych od dnia ogłoszenia ustawy budżetowej, przekazują jednostkom podległym informacje o kwotach dochodów i wydatków, w tym wynagrodzeń.”.
 
@@ -93,16 +68,7 @@ source: pdf
 **Art. 10.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635) wprowadza się następujące zmiany:
 
 - **1)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. Minister właściwy do spraw administracji publicznej może powierzyć, w drodze porozumienia, ministrowi właściwemu do spraw finansów publicznych wykonywanie czynności związanych z administrowaniem systemem teleinformatycznym, o którym mowa w art. 10 ust. 1, w zakresie zapewnienia utrzymania powierzchni serwerowej. W takim przypadku realizacja zadania jest finansowana z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw finansów publicznych.”;
-- **2)** w art. 27 w pkt 3, art. 24a otrzymuje brzmienie: „Art. 24a. 1. Minister właściwy do spraw administracji publicznej zapewnia utrzymanie oraz obsługę techniczną Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanego dalej „SWD PRM”. Wojewoda zapewnia utrzymanie SWD PRM na terenie województwa.
-
-2. Funkcjonowanie SWD PRM jest finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej, oraz z części, których dysponentami są właściwi wojewodowie.
-
-3. Minister właściwy do spraw administracji publicznej może powierzyć, w drodze porozumienia, ministrowi właściwemu do spraw finansów publicznych wykonywanie czynności związanych z utrzymaniem oraz obsługą techniczną SWD PRM w zakresie zapewnienia utrzymania powierzchni serwerowej. W takim przypadku realizacja zadania jest finansowana z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw finansów publicznych.
-
-4. SWD PRM współpracuje z systemem, o którym mowa w art. 7 i art. 25 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. Nr 113, poz. 657, z późn. zm. ).
-
-5. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii ministra właściwego do spraw zdrowia, określi, w drodze rozporządzenia, parametry funkcjonalne SWD PRM, sposób jego funkcjonowania w sytuacjach awaryjnych oraz sposób utrzymania, mając na uwadze potrzebę zapewnienia optymalnego poziomu współpracy między systemem teleinformatycznym systemu powiadamiania ratunkowego i SWD PRM.”;
-
+- **2)** w art. 27 w pkt 3, art. 24a otrzymuje brzmienie: „Art. 24a. 1. Minister właściwy do spraw administracji publicznej zapewnia utrzymanie oraz obsługę techniczną Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, zwanego dalej „SWD PRM”. Wojewoda zapewnia utrzymanie SWD PRM na terenie województwa. 2. Funkcjonowanie SWD PRM jest finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw administracji publicznej, oraz z części, których dysponentami są właściwi wojewodowie. 3. Minister właściwy do spraw administracji publicznej może powierzyć, w drodze porozumienia, ministrowi właściwemu do spraw finansów publicznych wykonywanie czynności związanych z utrzymaniem oraz obsługą techniczną SWD PRM w zakresie zapewnienia utrzymania powierzchni serwerowej. W takim przypadku realizacja zadania jest finansowana z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw finansów publicznych. 4. SWD PRM współpracuje z systemem, o którym mowa w art. 7 i art. 25 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. Nr 113, poz. 657, z późn. zm. ). 5. Minister właściwy do spraw administracji publicznej, po zasięgnięciu opinii ministra właściwego do spraw zdrowia, określi, w drodze rozporządzenia, parametry funkcjonalne SWD PRM, sposób jego funkcjonowania w sytuacjach awaryjnych oraz sposób utrzymania, mając na uwadze potrzebę zapewnienia optymalnego poziomu współpracy między systemem teleinformatycznym systemu powiadamiania ratunkowego i SWD PRM.”;
 - **3)** w art. 35 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Maksymalny limit wydatków z budżetu państwa, w częściach ministra właściwego do spraw administracji publicznej, ministra właściwego do spraw finansów publicznych oraz wojewodów w zakresie systemu powiadamiania ratunkowego, będących skutkiem finansowym ustawy, wynosi 783 982 887 zł, z tego:”.
 
 **Art. 11.** W roku 2015 środki, o których mowa w:

@@ -29,12 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2019 r. poz. 2214) wprowadza się następujące zmiany:
 
-- **1)** w art. 14:
+- **1)** w art. 14: 1) nakłada na członka organu zarządzającego zagranicznego zakładu ubezpieczeń karę pieniężną do wysokości odpowiadającej jego trzykrotnemu przeciętnemu miesięcznemu wynagrodzeniu z ostatnich 12 miesięcy, a jeżeli nie można ustalić przeciętnego miesięcznego wynagrodzenia z ostatnich 12 miesięcy – do wysokości 100 000 złotych, lub 2) nakłada na zagraniczny zakład ubezpieczeń karę pieniężną do wysokości 0,5% składki przypisanej brutto z umów ubezpieczenia, o którym mowa w dziale II w grupie 10 załącznika do ustawy o działalności ubezpieczeniowej, z wyłączeniem odpowiedzialności przewoźnika, zawartych w ramach wykonywania działalności na terytorium Rzeczypospolitej Polskiej, uzyskanej przez ten zagraniczny zakład ubezpieczeń w poprzednim roku kalendarzowym, a w przypadku gdy ten zakład nie wykonywał takiej działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych – do wysokości 100 000 złotych.”;
     - **a)** ust. 3a otrzymuje brzmienie: „3a. W przypadku niewypłacenia przez krajowy zakład ubezpieczeń odszkodowania w terminie, o którym mowa w ust. 1 albo 2, lub niedopełnienia obowiązku, o którym mowa w ust. 3, organ nadzoru stosuje wobec krajowego zakładu ubezpieczeń środki nadzorcze określone w art. 362 ust. 1 pkt 1 lub 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, zwanej dalej „ustawą o działalności ubezpieczeniowej”.”,
     - **b)** po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. W przypadku niewypłacenia przez zagraniczny zakład ubezpieczeń odszkodowania w terminie, o którym mowa w ust. 1 albo 2, lub niedopełnienia obowiązku, o którym mowa w ust. 3, organ nadzoru:
 
-- **1)** nakłada na członka organu zarządzającego zagranicznego zakładu ubezpieczeń karę pieniężną do wysokości odpowiadającej jego trzykrotnemu przeciętnemu miesięcznemu wynagrodzeniu z ostatnich 12 miesięcy, a jeżeli nie można ustalić przeciętnego miesięcznego wynagrodzenia z ostatnich 12 miesięcy – do wysokości 100 000 złotych, lub
-- **2)** nakłada na zagraniczny zakład ubezpieczeń karę pieniężną do wysokości 0,5% składki przypisanej brutto z umów ubezpieczenia, o którym mowa w dziale II w grupie 10 załącznika do ustawy o działalności ubezpieczeniowej, z wyłączeniem odpowiedzialności przewoźnika, zawartych w ramach wykonywania działalności na terytorium Rzeczypospolitej Polskiej, uzyskanej przez ten zagraniczny zakład ubezpieczeń w poprzednim roku kalendarzowym, a w przypadku gdy ten zakład nie wykonywał takiej działalności lub uzyskał składkę przypisaną brutto poniżej 20 mln złotych – do wysokości 100 000 złotych.”;
 - **2)** w art. 102 w ust. 2:
     - **a)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) w przypadku zagranicznego zakładu ubezpieczeń – wartość składki przypisanej brutto wskazanej na dokumencie potwierdzającym zawarcie umowy ubezpieczenia, o którym mowa w dziale II w grupie 10 załącznika do ustawy o działalności ubezpieczeniowej, w ramach wykonywania działalności na terytorium Rzeczypospolitej Polskiej;”,
     - **b)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) w przypadku zagranicznego zakładu ubezpieczeń – wartość zwrotu składki za niewykorzystany okres ubezpieczenia w przypadku rozwiązania umowy ubezpieczenia, o którym mowa w dziale II w grupie 10 załącznika do ustawy o działalności ubezpieczeniowej, zawartej w ramach wykonywania działalności na terytorium Rzeczypospolitej Polskiej, przed upływem końcowego terminu odpowiedzialności określonego w tej umowie;”;
@@ -43,11 +41,9 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2020 r. poz. 895) wprowadza się następujące zmiany:
 
-- **1)** w art. 214:
+- **1)** w art. 214: 6. Organ nadzoru informuje Komisję Europejską i EIOPA o przypadkach i powodach zastosowania środków, o których mowa w ust. 4 pkt 1 i ust. 4a.”;
     - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W celu niezwłocznego usunięcia lub zapobieżenia wystąpieniu dalszych nieprawidłowości, w pilnym przypadku, organ nadzoru może wobec zagranicznego zakładu ubezpieczeń lub zagranicznego zakładu reasekuracji zastosować odpowiednio wszystkie uprawnienia przysługujące mu zgodnie z ustawą w stosunku do krajowych zakładów ubezpieczeń lub krajowych zakładów reasekuracji, z pominięciem trybu, o którym mowa w ust. 2–4. O zastosowanych środkach organ nadzoru informuje właściwy organ nadzorczy innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, w którym zakład ten ma siedzibę.”,
     - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Organ nadzoru w ramach czynności, o których mowa w ust. 4 pkt 1 i ust. 4a, może również zakazać wykonywania na terytorium Rzeczypospolitej Polskiej działalności przez zagraniczny zakład ubezpieczeń lub zagraniczny zakład reasekuracji.
-
-6. Organ nadzoru informuje Komisję Europejską i EIOPA o przypadkach i powodach zastosowania środków, o których mowa w ust. 4 pkt 1 i ust. 4a.”;
 
 - **2)** w art. 229 w ust. 8 w pkt 2 w lit. b wyrazy „100 punktów bazowych” zastępuje się wyrazami „85 punktów bazowych”.
 

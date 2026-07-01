@@ -34,12 +34,7 @@ source: pdf
     - **b)** uchyla się § 1a,
     - **c)** uchyla się § 3;
 
-- **2)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. § 1. W sądzie rejonowym można powołać dyrektora sądu, jeżeli uzasadniają to względy organizacyjne, a w szczególności wielkość sądu mierzona liczbą stanowisk sędziowskich, asesorskich i referendarskich oraz zatrudnionych w nim pracowników lub odległość od sądu okręgowego. W sądzie rejonowym, w którym nie powołuje się dyrektora sądu, zadania dyrektora sądu wykonuje dyrektor przełożonego sądu okręgowego, który przejmuje także prowadzenie gospodarki finansowej tego sądu.
-
-§ 2. Minister Sprawiedliwości jest zwierzchnikiem służbowym dyrektora sądu.
-
-§ 3. Prezes sądu wykonuje w stosunku do dyrektora sądu czynności z zakresu prawa pracy, z wyjątkiem czynności zastrzeżonych dla Ministra Sprawiedliwości.”;
-
+- **2)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. § 1. W sądzie rejonowym można powołać dyrektora sądu, jeżeli uzasadniają to względy organizacyjne, a w szczególności wielkość sądu mierzona liczbą stanowisk sędziowskich, asesorskich i referendarskich oraz zatrudnionych w nim pracowników lub odległość od sądu okręgowego. W sądzie rejonowym, w którym nie powołuje się dyrektora sądu, zadania dyrektora sądu wykonuje dyrektor przełożonego sądu okręgowego, który przejmuje także prowadzenie gospodarki finansowej tego sądu. § 2. Minister Sprawiedliwości jest zwierzchnikiem służbowym dyrektora sądu. § 3. Prezes sądu wykonuje w stosunku do dyrektora sądu czynności z zakresu prawa pracy, z wyjątkiem czynności zastrzeżonych dla Ministra Sprawiedliwości.”;
 - **3)** w art. 22 w § 1 w pkt 1 po lit. a dodaje się lit. aa w brzmieniu: „aa) co najmniej raz w roku określa potrzeby sądu konieczne dla zapewnienia warunków prawidłowego funkcjonowania i sprawnego wykonywania przez sąd zadań, o których mowa w art. 1 § 2 i 3, biorąc pod uwagę przewidywany ich zakres,”;
 - **4)** w art. 32:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Dyrektora sądu zatrudnia się na podstawie powołania. Dyrektora sądu powołuje i odwołuje Minister Sprawiedliwości.”,

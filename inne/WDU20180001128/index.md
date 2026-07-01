@@ -29,128 +29,29 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 95d:
+- **1)** w art. 95d: 1b. Przez inną inwestycję, o której mowa w ust. 1, rozumie się roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12, 317, 352 i 650) lub wyposażenie zakładu leczniczego podmiotu leczniczego, jeżeli działania te stanowią główny cel tej inwestycji. 1c. Zmiana adresu miejsca udzielania świadczeń zdrowotnych lub połączenie, podział albo przekształcenie spółek, o których mowa w art. 1 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577 oraz z 2018 r. poz. 398 i 650), lub spółki, o której mowa w art. 860 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), stanowiące podstawę zmiany wpisu do rejestru, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, nie stanowi inwestycji, o której mowa w ust. 1, jeżeli jej głównym celem nie była budowa, przebudowa obiektu lub wyposażenie zakładu leczniczego podmiotu leczniczego i nie wpływa na zakres udzielanych świadczeń opieki zdrowotnej. 1d. Przepisów ust. 1–1c nie stosuje się w przypadku inwestycji: 1) która ma być sfinansowana lub współfinansowana z dotacji w wysokości nie wyższej niż 1 mln zł uzyskanej przez podmiot leczniczy od podmiotu tworzącego, którym jest Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych; 2) bez względu na jej wartość, która ma być realizowana na potrzeby obronności lub bezpieczeństwa państwa. 1e. Odpowiednio Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, rozstrzyga, czy inwestycja ma być realizowana na potrzeby określone w ust. 1d pkt 2.”, 1) przygotowania do realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym, o którym mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zwanym dalej „obiektem budowlanym”, wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektu budowlanego, w szczególności opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących inwestycji budowlanej; 2) realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym wraz z usługami towarzyszącymi, w tym obsługą inwestorską; 3) zakupu obiektu budowlanego; 4) zakupu lub wytworzenia we własnym zakresie środka trwałego, z wyjątkiem tego, którego wartość początkowa nie przekracza kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036), z zastrzeżeniem pkt 5; 5) zakupu lub wytworzenia we własnym zakresie środka trwałego bez względu na jego wartość oraz innych przedmiotów, jeżeli są pierwszym wyposażeniem obiektów budowlanych; 6) transportu i montażu oraz inne koszty ponoszone w celu przekazania środka trwałego do używania; 7) zmiany w środkach trwałych powodującej ich ulepszenie w rozumieniu przepisów o rachunkowości; 8) zakupu wartości niematerialnej i prawnej, jeżeli: a) jej wartość początkowa jest wyższa od kwoty określonej w art. 16f ust. 3 ustawy wymienionej w pkt 4, b) jest pierwszym wyposażeniem obiektu budowlanego – bez względu na jego wartość; 9) innych, jeżeli na podstawie odrębnych przepisów podlegają finansowaniu lub dofinansowaniu ze środków budżetu państwa przeznaczonych na inwestycje.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewoda albo minister właściwy do spraw zdrowia, zwany dalej „organem wydającym opinię”, wydaje opinię o celowości inwestycji polegającej na utworzeniu na obszarze województwa nowego podmiotu leczniczego, nowych jednostek lub komórek organizacyjnych zakładu leczniczego podmiotu leczniczego lub innej inwestycji dotyczącej wykonywania działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych.”,
     - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Wniosek o wydanie opinii, o której mowa w ust. 1, dotyczy inwestycji, której części tworzą komplementarną całość i są niezbędne do prawidłowego udzielania świadczeń opieki zdrowotnej w objętych wnioskiem dziedzinach medycyny.
+    - **c)** w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) podmiotu leczniczego prowadzonego w formie jednostki budżetowej lub jednostki wojskowej, o której mowa w art. 2 ust. 1 pkt 1a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.”,
+    - **d)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) podmiot leczniczy, dla którego podmiotem tworzącym jest wojewoda albo minister właściwy do spraw zdrowia;”,
+    - **e)** ust. 4 otrzymuje brzmienie: „4. Do określenia wartości inwestycji, o których mowa w ust. 1, zalicza się następujące rodzaje poniesionych lub planowanych kosztów:
 
-1b. Przez inną inwestycję, o której mowa w ust. 1, rozumie się roboty budowlane w rozumieniu art. 3 pkt 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529 oraz z 2018 r. poz. 12, 317, 352 i 650) lub wyposażenie zakładu leczniczego podmiotu leczniczego, jeżeli działania te stanowią główny cel tej inwestycji.
-
-1c. Zmiana adresu miejsca udzielania świadczeń zdrowotnych lub połączenie, podział albo przekształcenie spółek, o których mowa w art. 1 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577 oraz z 2018 r. poz. 398 i 650), lub spółki, o której mowa w art. 860 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025 i 1104), stanowiące podstawę zmiany wpisu do rejestru, o którym mowa w art. 100 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, nie stanowi inwestycji, o której mowa w ust. 1, jeżeli jej głównym celem nie była budowa, przebudowa obiektu lub wyposażenie zakładu leczniczego podmiotu leczniczego i nie wpływa na zakres udzielanych świadczeń opieki zdrowotnej.
-
-1d. Przepisów ust. 1–1c nie stosuje się w przypadku inwestycji:
-
-- **1)** która ma być sfinansowana lub współfinansowana z dotacji w wysokości nie wyższej niż 1 mln zł uzyskanej przez podmiot leczniczy od podmiotu tworzącego, którym jest Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych;
-- **2)** bez względu na jej wartość, która ma być realizowana na potrzeby obronności lub bezpieczeństwa państwa.
-
-1e. Odpowiednio Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, rozstrzyga, czy inwestycja ma być realizowana na potrzeby określone w ust. 1d pkt 2.”,
-
-- **c)** w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) podmiotu leczniczego prowadzonego w formie jednostki budżetowej lub jednostki wojskowej, o której mowa w art. 2 ust. 1 pkt 1a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.”,
-- **d)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) podmiot leczniczy, dla którego podmiotem tworzącym jest wojewoda albo minister właściwy do spraw zdrowia;”,
-- **e)** ust. 4 otrzymuje brzmienie: „4. Do określenia wartości inwestycji, o których mowa w ust. 1, zalicza się następujące rodzaje poniesionych lub planowanych kosztów:
-- **1)** przygotowania do realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym, o którym mowa w art. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zwanym dalej „obiektem budowlanym”, wraz z usługami towarzyszącymi, w tym obsługą inwestorską, oraz zakupu obiektu budowlanego, w szczególności opracowania dokumentacji projektowej, zakupu i przygotowania gruntu pod budowę oraz ekspertyz, świadectw, operatów, studiów, pomiarów geodezyjnych i prac geologicznych oraz prac archeologicznych, dotyczących inwestycji budowlanej;
-- **2)** realizacji inwestycji budowlanej oraz innych zmian w obiekcie budowlanym wraz z usługami towarzyszącymi, w tym obsługą inwestorską;
-- **3)** zakupu obiektu budowlanego;
-- **4)** zakupu lub wytworzenia we własnym zakresie środka trwałego, z wyjątkiem tego, którego wartość początkowa nie przekracza kwoty określonej w art. 16f ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036), z zastrzeżeniem pkt 5;
-- **5)** zakupu lub wytworzenia we własnym zakresie środka trwałego bez względu na jego wartość oraz innych przedmiotów, jeżeli są pierwszym wyposażeniem obiektów budowlanych;
-- **6)** transportu i montażu oraz inne koszty ponoszone w celu przekazania środka trwałego do używania;
-- **7)** zmiany w środkach trwałych powodującej ich ulepszenie w rozumieniu przepisów o rachunkowości;
-- **8)** zakupu wartości niematerialnej i prawnej, jeżeli:
-    - **a)** jej wartość początkowa jest wyższa od kwoty określonej w art. 16f ust. 3 ustawy wymienionej w pkt 4,
-    - **b)** jest pierwszym wyposażeniem obiektu budowlanego – bez względu na jego wartość;
-
-- **9)** innych, jeżeli na podstawie odrębnych przepisów podlegają finansowaniu lub dofinansowaniu ze środków budżetu państwa przeznaczonych na inwestycje.”;
-- **2)** w art. 95e:
+- **2)** w art. 95e: 1) wykonującego działalność leczniczą, 2) zamierzającego wykonywać działalność leczniczą, 3) zamierzającego utworzyć podmiot leczniczy – zwanego dalej „podmiotem wnioskującym”.”, o działalności leczniczej – informacje o częściach inwestycji, służących udzielaniu świadczeń opieki zdrowotnej w zakresie wskazanych dziedzin medycyny, oraz ich szacowaną wartość;”, – pkt 6 otrzymuje brzmienie: „6) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 1, w przypadku tworzenia nowego podmiotu leczniczego lub innej inwestycji skutkującej zmianą zakresu udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 2, w przypadku inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku;”, 1) w przypadku inwestycji o wartości poniżej 1 000 000 zł – w wysokości 2000 zł; 2) w przypadku inwestycji o wartości co najmniej 1 000 000 zł: a) jeżeli dotyczy jednej dziedziny medycyny – w wysokości 4000 zł, b) jeżeli dotyczy kilku dziedzin medycyny – w wysokości określonej w lit. a, powiększonej o 1000 zł za każdą kolejną dziedzinę medycyny.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Opinię, o której mowa w art. 95d ust. 1, wydaje się na wniosek podmiotu:
-
-- **1)** wykonującego działalność leczniczą,
-- **2)** zamierzającego wykonywać działalność leczniczą,
-- **3)** zamierzającego utworzyć podmiot leczniczy – zwanego dalej „podmiotem wnioskującym”.”, o działalności leczniczej – informacje o częściach inwestycji, służących udzielaniu świadczeń opieki zdrowotnej w zakresie wskazanych dziedzin medycyny, oraz ich szacowaną wartość;”, – pkt 6 otrzymuje brzmienie: „6) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 1, w przypadku tworzenia nowego podmiotu leczniczego lub innej inwestycji skutkującej zmianą zakresu udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) wypełniony formularz określony w przepisach wydanych na podstawie art. 95h ust. 2, w przypadku inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, wraz z jego numerem wygenerowanym za pośrednictwem systemu IOWISZ nie wcześniej niż w terminie miesiąca przed dniem złożenia wniosku;”,
     - **b)** w ust. 3: – po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) w przypadku inwestycji dotyczącej więcej niż jednej lekarskiej dziedziny medycyny wymienionej w przepisach wykonawczych wydanych na podstawie art. 105 ust. 5 ustawy z dnia 15 kwietnia 2011 r.
     - **c)** ust. 6 otrzymuje brzmienie: „6. Złożenie wniosku o wydanie opinii, o której mowa w art. 95d ust. 1, podlega opłacie:
-
-- **1)** w przypadku inwestycji o wartości poniżej 1 000 000 zł – w wysokości 2000 zł;
-- **2)** w przypadku inwestycji o wartości co najmniej 1 000 000 zł:
-    - **a)** jeżeli dotyczy jednej dziedziny medycyny – w wysokości 4000 zł,
-    - **b)** jeżeli dotyczy kilku dziedzin medycyny – w wysokości określonej w lit. a, powiększonej o 1000 zł za każdą kolejną dziedzinę medycyny.”,
     - **d)** dodaje się ust. 7 w brzmieniu: „7. Opłata, o której mowa w ust. 6, stanowi dochód budżetu państwa. Potwierdzenie wniesienia opłaty dołącza się do wniosku.”;
 
-- **3)** w art. 95h dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
-- **1)** wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów,
-- **2)** sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9,
-- **3)** minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 – mając na celu uwzględnienie w opinii map i priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.”;
-- **4)** w art. 95i:
+- **3)** w art. 95h dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: 1) wzór wniosku zawierającego formularz Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia wraz ze wskazaniem kryteriów oceny inwestycji pozostających bez wpływu na zakres udzielanych świadczeń opieki zdrowotnej, przypisaniem im wagi oraz określeniem skali punktów możliwych do uzyskania w zakresie poszczególnych kryteriów, 2) sposób obliczania całkowitego wyniku punktowego w zakresie dokonywania oceny celowości, o której mowa w art. 95d ust. 1, w tym sposób obliczania tego wyniku przez każdy z podmiotów określonych w art. 95f ust. 9, 3) minimalną liczbę punktów wymaganą do uzyskania pozytywnej opinii, o której mowa w art. 95d ust. 1 – mając na celu uwzględnienie w opinii map i priorytetów dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, zapewnienie jednolitości wniosków, porównywalnej i spójnej metodyki dokonywania oceny celowości inwestycji i jej przejrzystości oraz jej zbieżności z potrzebami istotnymi z punktu widzenia ochrony zdrowia.”;
+- **4)** w art. 95i: 8b. W terminie określonym w ust. 8a, w oparciu o przesłany protest, wojewoda może zmienić wydaną przez siebie opinię, o której mowa w art. 95d ust. 1, na pozytywną. W takim przypadku wojewoda nie przekazuje protestu w sposób określony w ust. 8a.”, 1) został wniesiony po terminie; 2) nie spełnia wymagań określonych w ust. 3 zdanie drugie.”.
     - **a)** w ust. 3 pkt 5 otrzymuje brzmienie: „5) wskazanie kryterium, z oceną spełniania którego podmiot wnoszący protest się nie zgadza, wraz z uzasadnieniem;”,
     - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. W opinii w sprawie protestu minister właściwy do spraw zdrowia weryfikuje prawidłowość oceny wniosku o ocenę celowości inwestycji w zakresie objętym złożonym wnioskiem.”,
     - **c)** po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „8a. W przypadku, o którym mowa w ust. 2 zdanie drugie, wojewoda przekazuje protest ministrowi właściwemu do spraw zdrowia w terminie 14 dni od dnia jego otrzymania.
-
-8b. W terminie określonym w ust. 8a, w oparciu o przesłany protest, wojewoda może zmienić wydaną przez siebie opinię, o której mowa w art. 95d ust. 1, na pozytywną. W takim przypadku wojewoda nie przekazuje protestu w sposób określony w ust. 8a.”,
-
-- **d)** ust. 9 otrzymuje brzmienie: „9. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 95g ust. 2 pkt 8:
-- **1)** został wniesiony po terminie;
-- **2)** nie spełnia wymagań określonych w ust. 3 zdanie drugie.”.
+    - **d)** ust. 9 otrzymuje brzmienie: „9. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 95g ust. 2 pkt 8:
 
 **Art. 2.** W ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, 138 i 650) w art. 115 po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Podmiot leczniczy może uzyskać dotację od podmiotów, o których mowa w ust. 4, wyłącznie na realizację zadania, o którym mowa w art. 114 ust. 1 pkt 2 i 3, dla którego została wydana pozytywna opinia, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 4b. Podmiot leczniczy ubiegający się o dotację, o której mowa w ust. 4, przedkłada właściwemu organowi pozytywną opinię, o której mowa w art. 95d ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, wraz z wnioskiem o dotację.”.
 
-**Art. 3.** W ustawie z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1355) art. 6 otrzymuje brzmienie: „Art. 6. 1. W latach 2018–2027 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym w kolejnych latach wyniesie maksymalnie:
-
-- **1)** 2018 r. – 4 616 441,00 zł;
-- **2)** 2019 r. – 6 657 934,00 zł;
-- **3)** 2020 r. – 6 977 584,00 zł;
-- **4)** 2021 r. – 7 152 053,00 zł;
-- **5)** 2022 r. – 7 329 012,00 zł;
-- **6)** 2023 r. – 7 524 511,00 zł;
-- **7)** 2024 r. – 7 706 620,00 zł;
-- **8)** 2025 r. – 7 892 405,00 zł;
-- **9)** 2026 r. – 8 089 726,00 zł;
-- **10)** 2027 r. – 8 291 968,00 zł.
-
-2. W ramach limitu, o którym mowa w ust. 1, maksymalny limit wydatków z budżetu państwa:
-
-- **1)** w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia w kolejnych latach wyniesie:
-    - **a)** 2018 r. – 511 675,00 zł,
-    - **b)** 2019 r. – 642 888,00 zł,
-    - **c)** 2020 r. – 668 016,00 zł,
-    - **d)** 2021 r. – 685 141,00 zł,
-    - **e)** 2022 r. – 702 420,00 zł,
-    - **f)** 2023 r. – 719 855,00 zł,
-    - **g)** 2024 r. – 737 452,00 zł,
-    - **h)** 2025 r. – 756 213,00 zł,
-    - **i)** 2026 r. – 775 118,00 zł,
-    - **j)** 2027 r. – 794 496,00 zł;
-
-- **2)** w części pozostającej w dyspozycji poszczególnych wojewodów w kolejnych latach wyniesie:
-    - **a)** 2018 r. – 256 548,00 zł,
-    - **b)** 2019 r. – 375 940,00 zł,
-    - **c)** 2020 r. – 394 348,00 zł,
-    - **d)** 2021 r. – 404 182,00 zł,
-    - **e)** 2022 r. – 414 162,00 zł,
-    - **f)** 2023 r. – 425 291,00 zł,
-    - **g)** 2024 r. – 435 573,00 zł,
-    - **h)** 2025 r. – 446 012,00 zł,
-    - **i)** 2026 r. – 457 163,00 zł,
-    - **j)** 2027 r. – 468 592,00 zł.
-
-3. W ramach limitu, o którym mowa w ust. 2 pkt 1, zatrudnienie nie przekroczy 8 etatów, przy czym w 2018 r. wyniesie co najmniej 3 etaty. W przypadku złożenia do urzędu obsługującego ministra właściwego do spraw zdrowia w danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o:
-
-- **1)** 1 etat, w przypadku złożenia co najmniej 200 wniosków lub protestów,
-- **2)** 2 etaty, w przypadku złożenia co najmniej 250 wniosków lub protestów,
-- **3)** 3 etaty, w przypadku złożenia co najmniej 300 wniosków lub protestów,
-- **4)** 4 etaty, w przypadku złożenia co najmniej 350 wniosków lub protestów,
-- **5)** 5 etatów, w przypadku złożenia co najmniej 400 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-4. W ramach limitu, o którym mowa w ust. 2 pkt 2, zatrudnienie w urzędach wojewódzkich nie przekroczy 5 etatów na dany urząd, przy czym w 2018 r. wyniesie co najmniej 1 etat. W przypadku złożenia do danego wojewody w danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o:
-
-- **1)** 1 etat, w przypadku złożenia co najmniej 75 wniosków lub protestów,
-- **2)** 2 etaty, w przypadku złożenia co najmniej 100 wniosków lub protestów,
-- **3)** 3 etaty, w przypadku złożenia co najmniej 150 wniosków lub protestów,
-- **4)** 4 etaty, w przypadku złożenia co najmniej 200 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa w ust. 1, w częściach pozostających odpowiednio w ich dyspozycji.
-
-6. W przypadku gdy liczba złożonych wniosków lub protestów, o których mowa odpowiednio w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będzie w połowie roku niższa niż w odpowiadającym okresie w roku poprzednim:
-
-- **1)** wojewoda wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu;
-- **2)** minister właściwy do spraw zdrowia wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu.”.
+**Art. 3.** W ustawie z dnia 21 lipca 2016 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1355) art. 6 otrzymuje brzmienie: „Art. 6. 1. W latach 2018–2027 maksymalny limit wydatków z budżetu państwa, będących konsekwencją wejścia w życie niniejszej ustawy, wynosi 72 238 254,00 zł, przy czym w kolejnych latach wyniesie maksymalnie: 1) 2018 r. – 4 616 441,00 zł; 2) 2019 r. – 6 657 934,00 zł; 3) 2020 r. – 6 977 584,00 zł; 4) 2021 r. – 7 152 053,00 zł; 5) 2022 r. – 7 329 012,00 zł; 6) 2023 r. – 7 524 511,00 zł; 7) 2024 r. – 7 706 620,00 zł; 8) 2025 r. – 7 892 405,00 zł; 9) 2026 r. – 8 089 726,00 zł; 10) 2027 r. – 8 291 968,00 zł. 2. W ramach limitu, o którym mowa w ust. 1, maksymalny limit wydatków z budżetu państwa: 1) w części pozostającej w dyspozycji ministra właściwego do spraw zdrowia w kolejnych latach wyniesie: a) 2018 r. – 511 675,00 zł, b) 2019 r. – 642 888,00 zł, c) 2020 r. – 668 016,00 zł, d) 2021 r. – 685 141,00 zł, e) 2022 r. – 702 420,00 zł, f) 2023 r. – 719 855,00 zł, g) 2024 r. – 737 452,00 zł, h) 2025 r. – 756 213,00 zł, i) 2026 r. – 775 118,00 zł, j) 2027 r. – 794 496,00 zł; 2) w części pozostającej w dyspozycji poszczególnych wojewodów w kolejnych latach wyniesie: a) 2018 r. – 256 548,00 zł, b) 2019 r. – 375 940,00 zł, c) 2020 r. – 394 348,00 zł, d) 2021 r. – 404 182,00 zł, e) 2022 r. – 414 162,00 zł, f) 2023 r. – 425 291,00 zł, g) 2024 r. – 435 573,00 zł, h) 2025 r. – 446 012,00 zł, i) 2026 r. – 457 163,00 zł, j) 2027 r. – 468 592,00 zł. 3. W ramach limitu, o którym mowa w ust. 2 pkt 1, zatrudnienie nie przekroczy 8 etatów, przy czym w 2018 r. wyniesie co najmniej 3 etaty. W przypadku złożenia do urzędu obsługującego ministra właściwego do spraw zdrowia w danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o: 1) 1 etat, w przypadku złożenia co najmniej 200 wniosków lub protestów, 2) 2 etaty, w przypadku złożenia co najmniej 250 wniosków lub protestów, 3) 3 etaty, w przypadku złożenia co najmniej 300 wniosków lub protestów, 4) 4 etaty, w przypadku złożenia co najmniej 350 wniosków lub protestów, 5) 5 etatów, w przypadku złożenia co najmniej 400 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. 4. W ramach limitu, o którym mowa w ust. 2 pkt 2, zatrudnienie w urzędach wojewódzkich nie przekroczy 5 etatów na dany urząd, przy czym w 2018 r. wyniesie co najmniej 1 etat. W przypadku złożenia do danego wojewody w danym roku kalendarzowym określonej liczby wniosków lub protestów zatrudnienie ulega zwiększeniu o: 1) 1 etat, w przypadku złożenia co najmniej 75 wniosków lub protestów, 2) 2 etaty, w przypadku złożenia co najmniej 100 wniosków lub protestów, 3) 3 etaty, w przypadku złożenia co najmniej 150 wniosków lub protestów, 4) 4 etaty, w przypadku złożenia co najmniej 200 wniosków lub protestów – o których mowa w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. 5. Wojewodowie i minister właściwy do spraw zdrowia monitorują wykorzystanie limitów wydatków, o których mowa w ust. 1, w częściach pozostających odpowiednio w ich dyspozycji. 6. W przypadku gdy liczba złożonych wniosków lub protestów, o których mowa odpowiednio w art. 95d ust. 1 i art. 95i ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, będzie w połowie roku niższa niż w odpowiadającym okresie w roku poprzednim: 1) wojewoda wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu; 2) minister właściwy do spraw zdrowia wdraża mechanizm korygujący polegający na ustaleniu wynagrodzenia na poziomie uniemożliwiającym przekroczenie limitu w danym roku, z zastrzeżeniem, że liczba etatów, które już zostały przyznane, nie podlega zmniejszeniu.”.
 
 **Art. 4.**
 

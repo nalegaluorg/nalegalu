@@ -30,9 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, ze zm. ) w art. 114:
 
 - **1)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) ekwiwalent pieniężny za niewykorzystane urlopy wypoczynkowe lub dodatkowe oraz za niewykorzystany czas wolny od służby udzielany na podstawie art. 33 ust. 3;”;
-- **2)** ust. 3 i 4 otrzymują brzmienie: „3. Policjant zwalniany ze służby na podstawie art. 41 ust. 1 pkt 3 i 4a oraz ust. 2 pkt 8 otrzymuje 50% odprawy oraz ekwiwalent pieniężny, o którym mowa w ust. 1 pkt 2.
-
-4. Policjant zwalniany ze służby na podstawie art. 41 ust. 1 pkt 4 i ust. 2 pkt 2 otrzymuje ekwiwalent pieniężny, o którym mowa w ust. 1 pkt 2. Komendant Główny Policji lub upoważniony przez niego przełożony może w przypadkach szczególnie uzasadnionych potrzeb rodziny policjanta przyznać mu nie więcej niż 50% odprawy.”.
+- **2)** ust. 3 i 4 otrzymują brzmienie: „3. Policjant zwalniany ze służby na podstawie art. 41 ust. 1 pkt 3 i 4a oraz ust. 2 pkt 8 otrzymuje 50% odprawy oraz ekwiwalent pieniężny, o którym mowa w ust. 1 pkt 2. 4. Policjant zwalniany ze służby na podstawie art. 41 ust. 1 pkt 4 i ust. 2 pkt 2 otrzymuje ekwiwalent pieniężny, o którym mowa w ust. 1 pkt 2. Komendant Główny Policji lub upoważniony przez niego przełożony może w przypadkach szczególnie uzasadnionych potrzeb rodziny policjanta przyznać mu nie więcej niż 50% odprawy.”.
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) w art. 118:
 

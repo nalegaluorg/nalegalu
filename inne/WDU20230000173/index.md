@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100) wprowadza się następujące zmiany:
 
-- **1)** w art. 26a ust. 1 otrzymuje brzmienie: „1. Pracodawcy przysługuje ze środków Funduszu miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, o ile pracownik ten został ujęty w ewidencji zatrudnionych osób niepełnosprawnych, o której mowa w art. 26b ust. 1. Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie:
-- **1)** 2400 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności;
-- **2)** 1350 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności;
-- **3)** 500 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”;
+- **1)** w art. 26a ust. 1 otrzymuje brzmienie: „1. Pracodawcy przysługuje ze środków Funduszu miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, o ile pracownik ten został ujęty w ewidencji zatrudnionych osób niepełnosprawnych, o której mowa w art. 26b ust. 1. Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie: 1) 2400 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1350 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 500 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”;
 - **2)** w art. 46a w ust. 1 pkt 1 otrzymuje brzmienie: „1) na zadanie, o którym mowa w art. 26a – w wysokości 30% środków zaplanowanych na realizację tego zadania na dany rok;”.
 
 **Art. 2.**

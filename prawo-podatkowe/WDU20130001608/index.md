@@ -40,15 +40,8 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
     - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadkach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2, dla usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:”,
     - **c)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadkach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3, dla usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:”;
 
-- **4)** w art. 146h pkt 1–3 otrzymują brzmienie: „1) 23%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
-- **2)** 24%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
-- **3)** 25%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2”;
-- **5)** w art. 146i pkt 2–7 otrzymują brzmienie: „2) 5%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
-- **3)** 6%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
-- **4)** 7%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2,
-- **5)** 8%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
-- **6)** 9%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
-- **7)** 10%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2”.
+- **4)** w art. 146h pkt 1–3 otrzymują brzmienie: „1) 23%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3, 2) 24%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1, 3) 25%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2”;
+- **5)** w art. 146i pkt 2–7 otrzymują brzmienie: „2) 5%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3, 3) 6%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1, 4) 7%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2, 5) 8%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3, 6) 9%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1, 7) 10%, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2”.
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 2005 r. o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym (Dz. U. Nr 177, poz. 1468, z późn. zm. ) w art. 11a:
 
@@ -58,14 +51,7 @@ o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
 **Art. 3.** W ustawie z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2013 r. poz. 35 i 1027) wprowadza się następujące zmiany:
 
 - **1)** w art. 7 ust. 3 otrzymuje brzmienie: „3. W przypadku czynności, o których mowa w art. 19a ust. 5 pkt 3 i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, które zostaną wykonane po dniu 31 grudnia 2013 r., dla których przed dniem 1 stycznia 2014 r. wystawiono fakturę, obowiązek podatkowy powstaje zgodnie z art. 19 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed tym dniem.”;
-- **2)** art. 8 otrzymuje brzmienie: „Art. 8. 1. W przypadku czynności, o których mowa w art. 7 ust. 1 i 3, podstawę opodatkowania ustala się zgodnie z przepisami art. 29–31 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r.
-
-2. W przypadku usług:
-
-- **1)** najmu, dzierżawy, leasingu lub usług o podobnym charakterze,
-- **2)** ochrony osób oraz ochrony, dozoru i przechowywania mienia,
-- **3)** stałej obsługi prawnej i biurowej,
-- **4)** dystrybucji energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego – wykonanych po dniu 31 grudnia 2013 r., w odniesieniu do których usługodawca otrzymał przed dniem 1 stycznia 2014 r. całość lub część należności, w stosunku do której obowiązek podatkowy powstał zgodnie z art. 19 ust. 11 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r., do podstawy opodatkowania określanej zgodnie z przepisami art. 29a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie wlicza się tej należności.”.
+- **2)** art. 8 otrzymuje brzmienie: „Art. 8. 1. W przypadku czynności, o których mowa w art. 7 ust. 1 i 3, podstawę opodatkowania ustala się zgodnie z przepisami art. 29–31 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r. 2. W przypadku usług: 1) najmu, dzierżawy, leasingu lub usług o podobnym charakterze, 2) ochrony osób oraz ochrony, dozoru i przechowywania mienia, 3) stałej obsługi prawnej i biurowej, 4) dystrybucji energii elektrycznej, cieplnej lub chłodniczej oraz gazu przewodowego – wykonanych po dniu 31 grudnia 2013 r., w odniesieniu do których usługodawca otrzymał przed dniem 1 stycznia 2014 r. całość lub część należności, w stosunku do której obowiązek podatkowy powstał zgodnie z art. 19 ust. 11 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem 1 stycznia 2014 r., do podstawy opodatkowania określanej zgodnie z przepisami art. 29a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie wlicza się tej należności.”.
 
 **Art. 4.** W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. poz. 1304) w art. 21:
 

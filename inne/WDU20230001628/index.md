@@ -36,17 +36,9 @@ source: pdf
     - **a)** w ust. 4 wyrazy „Kierownik Krajowego Biura Wyborczego” zastępuje się wyrazami „Szef Krajowego Biura Wyborczego”,
     - **b)** w ust. 6 wyrazy „Kierownik Krajowego Biura Wyborczego” zastępuje się wyrazami „Szef Krajowego Biura Wyborczego”;
 
-- **5)** w art. 90:
+- **5)** w art. 90: 1c) głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy; 1d) zgłoszenie zamiaru głosowania korespondencyjnego we właściwych wyborach dotyczy również głosowania korespondencyjnego w referendum; 1e) wniosek o sporządzenie aktu pełnomocnictwa do głosowania we właściwych wyborach dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku ze wskazanymi w nim wyborami dotyczy również głosowania w referendum;”, 1b) głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy; 1c) zgłoszenie zamiaru głosowania korespondencyjnego w wyborach do Parlamentu Europejskiego dotyczy również głosowania korespondencyjnego w referendum; 1d) wniosek o sporządzenie aktu pełnomocnictwa do głosowania w wyborach do Parlamentu Europejskiego dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku z wyborami do Parlamentu Europejskiego dotyczy również głosowania w referendum;”.
     - **a)** w ust. 1 po pkt 1a dodaje się pkt 1b–1e w brzmieniu: „1b) informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
-
-- **1c)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
-- **1d)** zgłoszenie zamiaru głosowania korespondencyjnego we właściwych wyborach dotyczy również głosowania korespondencyjnego w referendum;
-- **1e)** wniosek o sporządzenie aktu pełnomocnictwa do głosowania we właściwych wyborach dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku ze wskazanymi w nim wyborami dotyczy również głosowania w referendum;”,
     - **b)** w ust. 1a po pkt 1 dodaje się pkt 1a–1d w brzmieniu: „1a) informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
-
-- **1b)** głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy;
-- **1c)** zgłoszenie zamiaru głosowania korespondencyjnego w wyborach do Parlamentu Europejskiego dotyczy również głosowania korespondencyjnego w referendum;
-- **1d)** wniosek o sporządzenie aktu pełnomocnictwa do głosowania w wyborach do Parlamentu Europejskiego dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku z wyborami do Parlamentu Europejskiego dotyczy również głosowania w referendum;”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

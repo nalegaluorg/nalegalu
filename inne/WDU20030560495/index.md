@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz.U. Nr 111, poz. 1196) wprowadza się następujące zmiany:
 
-- **1)** w art. 7 dodaje się ust. 7 w brzmieniu: „7. Z dniem ogłoszenia upadłości huty albo PHS S.A. minister właściwy do spraw gospodarki stwierdza wygaśnięcie decyzji, o której mowa w ust.
-
-1. Do ogłoszenia o stwierdzeniu wygaśnięcia decyzji ust. 6 stosuje się odpowiednio.”;
-
+- **1)** w art. 7 dodaje się ust. 7 w brzmieniu: „7. Z dniem ogłoszenia upadłości huty albo PHS S.A. minister właściwy do spraw gospodarki stwierdza wygaśnięcie decyzji, o której mowa w ust. 1. Do ogłoszenia o stwierdzeniu wygaśnięcia decyzji ust. 6 stosuje się odpowiednio.”;
 - **2)** w art. 13 w ust. 4 wyrazy „ministra właściwego do spraw gospodarki” zastępuje się wyrazami „ministra właściwego do spraw Skarbu Państwa”;
 - **3)** w art. 15 ust. 4 otrzymuje brzmienie: „4. Pracownikowi huty albo PHS S.A. korzystającemu z uprawnień, o których mowa w ust. 1 pkt 2 i 3, nie przysługuje odprawa pieniężna, o której mowa w art. 8 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz.U. z 2002 r. Nr 112, poz. 980, Nr 135, poz. 1146 i Nr 200, poz. 1679).”;
 - **4)** w art. 18 po ust 2 dodaje się ust. 2a w brzmieniu: „2a. Zgoda, o której mowa w ust. 2, nie jest wymagana w przypadku zatrudnienia prezesa zarządu oraz innych członków zarządu.”;

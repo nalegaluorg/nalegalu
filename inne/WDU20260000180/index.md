@@ -53,18 +53,11 @@ source: pdf
 - **2)** w art. 10a pkt 2 otrzymuje brzmienie: „2) uzyskał pozytywny wynik egzaminu państwowego, o którym mowa w art. 49 ust. 1 pkt 1, albo osiągnął minimalny wiek wymagany do kierowania pojazdami odpowiedniej kategorii, jeżeli data uzyskania pozytywnego wyniku egzaminu państwowego jest wcześniejsza niż data osiągnięcia minimalnego wieku wymaganego do kierowania pojazdami odpowiedniej kategorii.”;
 - **3)** w art. 50 w ust. 2 w pkt 4 w lit. a skreśla się przecinek i dodaje się wyrazy „– nie dotyczy osoby ubiegającej się o wymianę ważnego krajowego prawa jazdy wydanego za zagranicą,”;
 - **4)** w art. 100 ust. 4 otrzymuje brzmienie: „4. Kursy reedukacyjne, o których mowa w ust. 2 i 3, są prowadzone, z wyłączeniem możliwości odbycia szkolenia z wykorzystaniem środków porozumiewania się na odległość, przez osoby posiadające odpowiednią specjalistyczną wiedzę w tym zakresie.”;
-- **5)** w art. 109:
+- **5)** w art. 109: 2c. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym wydawanego funkcjonariuszom i kierującym, o których mowa w art. 106 ust. 3, określa się na podstawie: 1) kategorii prawa jazdy posiadanego przez tę osobę, oraz 2) zakresu badań lekarskich i psychologicznych. 2d. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym, o którym mowa w ust. 2c, określa się w zezwoleniu poprzez wpisanie kategorii prawa jazdy odpowiadających pojazdom uprzywilejowanym, na które wydawane jest zezwolenie, o których mowa odpowiednio w art. 108 ust. 1.”,
     - **a)** w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „za opłatą,” dodaje się wyrazy „z wyjątkiem ust. 6,”,
     - **b)** po ust. 2a dodaje się ust. 2b–2d w brzmieniu: „2b. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym, o którym mowa w ust. 2 pkt 1, określa się w zezwoleniu poprzez wpisanie kategorii prawa jazdy odpowiadających pojazdom uprzywilejowanym, na które wydawane jest zezwolenie, o których mowa odpowiednio w art. 108 ust. 1.
+    - **c)** ust. 6 otrzymuje brzmienie: „6. Wydanie zezwolenia na kierowanie pojazdami uprzywilejowanymi ochotniczych straży pożarnych, podmiotów uprawnionych do wykonywania ratownictwa wodnego, podmiotów uprawnionych do wykonywania ratownictwa górskiego i Morskiej Służby Poszukiwania i Ratownictwa jest zwolnione z opłaty.”;
 
-2c. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym wydawanego funkcjonariuszom i kierującym, o których mowa w art. 106 ust. 3, określa się na podstawie:
-
-- **1)** kategorii prawa jazdy posiadanego przez tę osobę, oraz
-- **2)** zakresu badań lekarskich i psychologicznych.
-
-2d. Zakres zezwolenia na kierowanie pojazdem uprzywilejowanym, o którym mowa w ust. 2c, określa się w zezwoleniu poprzez wpisanie kategorii prawa jazdy odpowiadających pojazdom uprzywilejowanym, na które wydawane jest zezwolenie, o których mowa odpowiednio w art. 108 ust. 1.”,
-
-- **c)** ust. 6 otrzymuje brzmienie: „6. Wydanie zezwolenia na kierowanie pojazdami uprzywilejowanymi ochotniczych straży pożarnych, podmiotów uprawnionych do wykonywania ratownictwa wodnego, podmiotów uprawnionych do wykonywania ratownictwa górskiego i Morskiej Służby Poszukiwania i Ratownictwa jest zwolnione z opłaty.”;
 - **6)** po art. 109 dodaje się art. 109a w brzmieniu: „Art. 109a. Zezwolenie na kierowanie pojazdem uprzywilejowanym wydane w trybie art. 109 ust. 1, 5 lub 5a, uprawnia do kierowania dowolnym pojazdem uprzywilejowanym w zakresie kategorii prawa jazdy określonych w zezwoleniu.”;
 - **7)** w art. 110 w ust. 1 w zdaniu drugim wyrazy „art. 106–109” zastępuje się wyrazami „art. 106–109a”.
 

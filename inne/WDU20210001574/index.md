@@ -29,33 +29,16 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. z 2021 r. poz. 402) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 dodaje się ust. 5 i 6 w brzmieniu: „5. Instytut może używać skróconej nazwy w brzmieniu: „Instytut Pileckiego”.
-
-6. W stosunkach z zagranicą Instytut może posługiwać się swoją nazwą lub swoją skróconą nazwą w tłumaczeniu na języki obce.”;
-
+- **1)** w art. 2 dodaje się ust. 5 i 6 w brzmieniu: „5. Instytut może używać skróconej nazwy w brzmieniu: „Instytut Pileckiego”. 6. W stosunkach z zagranicą Instytut może posługiwać się swoją nazwą lub swoją skróconą nazwą w tłumaczeniu na języki obce.”;
 - **2)** w art. 3 w ust. 2:
     - **a)** pkt 6 otrzymuje brzmienie: „6) występowanie z wnioskiem do Prezydenta Rzeczypospolitej Polskiej o nadanie osobom, o których mowa w ust. 1, Medalu Virtus et Fraternitas;”,
     - **b)** pkt 11 otrzymuje brzmienie: „11) produkcja i współprodukcja utworów audiowizualnych, w tym filmów, dotyczących zagadnień związanych z zakresem, o którym mowa w ust. 1, w celu ich nadania w programach nadawców publicznych, prywatnych i Internecie lub rozpowszechniania w inny sposób;”,
     - **c)** pkt 12 otrzymuje brzmienie: „12) popularyzacja problematyki, o której mowa w ust. 1, w tym dystrybucja materiałów związanych z działalnością Instytutu.”;
 
-- **3)** art. 4a otrzymuje brzmienie: „Art. 4a. Zadania, o których mowa w art. 3 ust. 2, mogą być realizowane przy pomocy:
-- **1)** oddziałów zamiejscowych będących wyodrębnionymi jednostkami organizacyjnymi lub komórkami organizacyjnymi Instytutu, w tym mających siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „oddziałami zamiejscowymi”;
+- **3)** art. 4a otrzymuje brzmienie: „Art. 4a. Zadania, o których mowa w art. 3 ust. 2, mogą być realizowane przy pomocy: 1) oddziałów zamiejscowych będących wyodrębnionymi jednostkami organizacyjnymi lub komórkami organizacyjnymi Instytutu, w tym mających siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „oddziałami zamiejscowymi”;
 - **2)** podmiotów zależnych będących jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, zwanych dalej „podmiotami zależnymi”.”;
 - **4)** w art. 4b ust. 1 otrzymuje brzmienie: „1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, oddziały zamiejscowe. W przypadku oddziału zamiejscowego mającego siedzibę poza terytorium Rzeczypospolitej Polskiej Dyrektor Instytutu dodatkowo informuje ministra właściwego do spraw zagranicznych o jego utworzeniu.”;
-- **5)** po art. 4b dodaje się art. 4c w brzmieniu: „Art. 4c. 1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236 i 1535) nie stosuje się.
-
-2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia podmiotu zależnego i proponowaną siedzibę oraz zawiera informacje o jego zamierzonej formie prawnej i organizacyjnej oraz uzasadnienie.
-
-3. Podmiotem zależnym kieruje kierownik. Obsady stanowiska kierownika dokonuje Dyrektor Instytutu w formie zgodnej ze statusem prawnym podmiotu zależnego.
-
-4. Instytut może wyposażyć tworzony podmiot zależny ze swojego mienia w środki niezbędne do prowadzenia działalności.
-
-5. Do zamówień publicznych na dostawy, usługi lub roboty budowlane na potrzeby podmiotów zależnych nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia publicznego jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
-
-6. Finansowanie lub dofinansowanie realizacji zadań Instytutu w części realizowanej przez podmioty zależne może następować ze środków, o których mowa w art. 10 ust. 2.
-
-7. Instytut może przekształcać i likwidować, za zgodą ministra, podmioty zależne.”;
-
+- **5)** po art. 4b dodaje się art. 4c w brzmieniu: „Art. 4c. 1. Instytut może tworzyć, za zgodą ministra udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236 i 1535) nie stosuje się. 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia podmiotu zależnego i proponowaną siedzibę oraz zawiera informacje o jego zamierzonej formie prawnej i organizacyjnej oraz uzasadnienie. 3. Podmiotem zależnym kieruje kierownik. Obsady stanowiska kierownika dokonuje Dyrektor Instytutu w formie zgodnej ze statusem prawnym podmiotu zależnego. 4. Instytut może wyposażyć tworzony podmiot zależny ze swojego mienia w środki niezbędne do prowadzenia działalności. 5. Do zamówień publicznych na dostawy, usługi lub roboty budowlane na potrzeby podmiotów zależnych nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia publicznego jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy. 6. Finansowanie lub dofinansowanie realizacji zadań Instytutu w części realizowanej przez podmioty zależne może następować ze środków, o których mowa w art. 10 ust. 2. 7. Instytut może przekształcać i likwidować, za zgodą ministra, podmioty zależne.”;
 - **6)** w art. 8 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) przedstawianie corocznie, nie później niż do dnia 31 marca, sprawozdania z działalności Instytutu sejmowym i senackim komisjom właściwym ze względu na przedmiotowy zakres ich działania;”;
 - **7)** w art. 9 ust. 2 otrzymuje brzmienie: „2. Rada Pamięci opiniuje inicjatywy nadania osobom, o których mowa w art. 3 ust. 1, Medalu Virtus et Fraternitas oraz innych odznaczeń, orderów lub wyróżnień.”.
 

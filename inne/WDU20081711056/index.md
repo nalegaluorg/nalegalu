@@ -58,20 +58,14 @@ source: pdf
 
 - **3)** w art. 20 w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera za równoważne z dowodami źródłowymi uważa się zapisy w księgach rachunkowych, wprowadzane automatycznie za pośrednictwem urządzeń łączności, informatycznych nośników danych lub tworzone według algorytmu (programu) na podstawie informacji zawartych już w księgach, przy zapewnieniu, że podczas rejestrowania tych zapisów zostaną spełnione co najmniej następujące warunki:”;
 - **4)** w art. 71 ust. 2 otrzymuje brzmienie: „2. Przy prowadzeniu ksiąg rachunkowych przy użyciu komputera ochrona danych powinna polegać na stosowaniu odpornych na zagrożenia nośników danych, na doborze stosownych środków ochrony zewnętrznej, na systematycznym tworzeniu rezerwowych kopii zbiorów danych zapisanych na informatycznych nośnikach danych, pod warunkiem zapewnienia trwałości zapisu informacji systemu rachunkowości, przez czas nie krótszy od wymaganego do przechowywania ksiąg rachunkowych, oraz na zapewnieniu ochrony programów komputerowych i danych systemu informatycznego rachunkowości, poprzez stosowanie odpowiednich rozwiązań programowych i organizacyjnych, chroniących przed nieupoważnionym dostępem lub zniszczeniem.”;
-- **5)** w art. 72 ust. 1 i 2 otrzymują brzmienie: „1. Księgi rachunkowe mogą mieć formę, z zastrzeżeniem art. 13 ust. 2 i 3, zbiorów utrwalonych na informatycznych nośnikach danych, pod warunkiem stosowania rozwiązań wymienionych w art. 71 ust. 2.
-
-2. Jeżeli system ochrony zbiorów danych rachunkowości, utrwalonych na informatycznych nośnikach danych, nie spełnia wymagań określonych w art. 71 ust. 2, zapisy te powinny być wydrukowane w terminach przewidzianych w art. 13 ust. 6.”;
-
+- **5)** w art. 72 ust. 1 i 2 otrzymują brzmienie: „1. Księgi rachunkowe mogą mieć formę, z zastrzeżeniem art. 13 ust. 2 i 3, zbiorów utrwalonych na informatycznych nośnikach danych, pod warunkiem stosowania rozwiązań wymienionych w art. 71 ust. 2. 2. Jeżeli system ochrony zbiorów danych rachunkowości, utrwalonych na informatycznych nośnikach danych, nie spełnia wymagań określonych w art. 71 ust. 2, zapisy te powinny być wydrukowane w terminach przewidzianych w art. 13 ust. 6.”;
 - **6)** w art. 73 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Z wyłączeniem dokumentów dotyczących przeniesienia praw majątkowych do nieruchomości, list płac, powierzenia odpowiedzialności za składniki aktywów, znaczących umów i innych ważnych dokumentów określonych przez kierownika jednostki, po zatwierdzeniu sprawozdania finansowego treść dowodów księgowych może być przeniesiona na informatyczne nośniki danych, pozwalające zachować w trwałej postaci zawartość dowodów.”.
 
 **Art. 8.** W ustawie z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych (Dz. U. Nr 152, poz. 722 oraz z 2003 r. Nr 130, poz. 1188) w art. 2 w ust. 2 pkt 4 otrzymuje brzmienie: „4) zapisane na informatycznych nośnikach danych,”.
 
 **Art. 9.** W ustawie z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent (Dz. U. z 2000 r. Nr 23, poz. 294) wprowadza się następujące zmiany:
 
-- **1)** w art. 21 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw administracji publicznej przekaże wykazy uprawnionych, o których mowa w art. 3, na informatycznym nośniku danych do podmiotu wyłonionego w drodze przetargu, o którym mowa w ust.
-
-2. ”;
-
+- **1)** w art. 21 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw administracji publicznej przekaże wykazy uprawnionych, o których mowa w art. 3, na informatycznym nośniku danych do podmiotu wyłonionego w drodze przetargu, o którym mowa w ust. 2.”;
 - **2)** w art. 23 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw administracji publicznej przekaże bankowi, na informatycznym nośniku danych, bazę danych adresowych uprawnionych, o których mowa w art. 3.”;
 - **3)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw administracji publicznej aktualizuje spisy, na podstawie zebranych od organów sporządzających spisy danych aktualizacyjnych, przekazywanych na informatycznym nośniku danych, w standardzie określonym przez ministra właściwego do spraw administracji publicznej.”.
 

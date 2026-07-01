@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-30T20:11:17Z",
+  "generated_at": "2026-07-01T16:08:04Z",
   "acts": {
-    "published": 19261,
-    "rejected": 415,
+    "published": 19250,
+    "rejected": 426,
     "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 590191554,
-    "total_articles": 215857,
-    "avg_body_chars": 30641,
+    "total_body_chars": 589613883,
+    "total_articles": 215805,
+    "avg_body_chars": 30629,
     "avg_articles": 11.2
   },
   "sources": {
-    "pdf": 19013,
-    "eli-html": 243,
-    "unknown": 5
+    "pdf": 19006,
+    "eli-html": 242,
+    "unknown": 2
   },
   "act_types": {
-    "Rozporządzenie": 10326,
+    "Rozporządzenie": 10323,
     "Ustawa": 4841,
-    "Obwieszczenie": 2324,
+    "Obwieszczenie": 2316,
     "Orzeczenie": 1373,
     "Umowa międzynarodowa": 329,
     "Protokół": 18,
@@ -34,15 +34,15 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11747,
+    "obowiązujący": 11734,
     "akt objęty tekstem jednolitym": 5064,
-    "akt posiada tekst jednolity": 1888,
+    "akt posiada tekst jednolity": 1887,
     "nieobowiązujący - uchylona podstawa prawna": 514,
-    "wygaśnięcie aktu": 38,
+    "wygaśnięcie aktu": 41,
     "akt jednorazowy": 10
   },
   "domains": {
-    "inne": 18375,
+    "inne": 18364,
     "prawo-podatkowe": 193,
     "prawo-karne": 159,
     "prawo-cywilne": 142,
@@ -61,12 +61,12 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 690,
-    "original_pdf_for_unified_skipped": 4943,
-    "consolidated_article_coverage_checked": 650,
-    "consolidated_article_coverage_with_gaps": 442,
-    "consolidated_article_coverage_unexplained_gaps": 14980,
+    "quality_gate_blocked": 698,
+    "original_pdf_for_unified_skipped": 4941,
+    "consolidated_article_coverage_checked": 634,
+    "consolidated_article_coverage_with_gaps": 425,
+    "consolidated_article_coverage_unexplained_gaps": 9678,
     "rejected_scans": 1,
-    "rejected_other": 414
+    "rejected_other": 425
   }
 }

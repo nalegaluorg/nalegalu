@@ -35,19 +35,14 @@ source: pdf
     - **b)** ust. 3 otrzymuje brzmienie: „3. Wyrażenie zgody, o której mowa w ust. 2 pkt 1, 2 i 5, następuje na wniosek wójta (burmistrza, prezydenta miasta). Do wniosku dotyczącego gruntów leśnych stanowiących własność Skarbu Państwa wójt (burmistrz, prezydent miasta) dołącza opinię dyrektora regionalnej dyrekcji Lasów Państwowych, a w odniesieniu do gruntów parków narodowych - opinię dyrektora parku.”,
     - **c)** uchyla się ust. 6;
 
-- **3)** w art. 11: 1 pkt 2-10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne określa się obowiązki związane z wyłączeniem.
+- **3)** w art. 11: 1 pkt 2-10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne określa się obowiązki związane z wyłączeniem. 1b. Wniosek o wyłączenie z produkcji użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego jest wiążący, a decyzja ma charakter deklaratoryjny.”, 4. Wydanie decyzji, o których mowa w ust. 1-2, następuje przed uzyskaniem pozwolenia na budowę.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wyłączenie z produkcji użytków rolnych wytworzonych z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, oraz użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego, a także gruntów, o których mowa w art. 2 ust. 1 pkt 2-10, oraz gruntów leśnych, przeznaczonych na cele nierolnicze i nieleśne - może nastąpić po wydaniu decyzji zezwalających na takie wyłączenie.”,
     - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W decyzji dotyczącej wyłączenia z produkcji u żytków rolnych wytworzonych z gleb pochodzenia mineralnego i organicznego, zaliczonych do klas I, II, III, IIIa, IIIb, a także gruntów, o których mowa w art. 2 ust.
+    - **c)** ust. 2 otrzymuje brzmienie: „2. W odniesieniu do gruntów wchodzących w skład parków narodowych decyzje, o których mowa w ust. 1 i 1a, wydają dyrektorzy tych parków, z zastrzeżeniem art. 7 ust. 5.”,
+    - **d)** ust. 3 i 4 otrzymują brzmienie: „3. Decyzje, o których mowa w ust. 1-2, dotyczące gruntów wymienionych w art. 8, mogą być wydane po dniu faktycznego wyłączenia gruntów z produkcji.
+    - **e)** w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Osoba ubiegająca się o wydanie decyzji, o których mowa w ust. 1-2, celem wydobywania torfów jest obowiązana przedstawić właściwemu organowi następujące dokumenty:”,
+    - **f)** ust. 6 otrzymuje brzmienie: „6. Nie wymaga się decyzji, o których mowa w ust. 1-2, jeżeli grunty rolne mają być użytkowane na cele leśne.”;
 
-1b. Wniosek o wyłączenie z produkcji użytków rolnych klas IV, IVa, IVb, V i VI wytworzonych z gleb pochodzenia organicznego jest wiążący, a decyzja ma charakter deklaratoryjny.”,
-
-- **c)** ust. 2 otrzymuje brzmienie: „2. W odniesieniu do gruntów wchodzących w skład parków narodowych decyzje, o których mowa w ust. 1 i 1a, wydają dyrektorzy tych parków, z zastrzeżeniem art. 7 ust. 5.”,
-- **d)** ust. 3 i 4 otrzymują brzmienie: „3. Decyzje, o których mowa w ust. 1-2, dotyczące gruntów wymienionych w art. 8, mogą być wydane po dniu faktycznego wyłączenia gruntów z produkcji.
-
-4. Wydanie decyzji, o których mowa w ust. 1-2, następuje przed uzyskaniem pozwolenia na budowę.”,
-
-- **e)** w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Osoba ubiegająca się o wydanie decyzji, o których mowa w ust. 1-2, celem wydobywania torfów jest obowiązana przedstawić właściwemu organowi następujące dokumenty:”,
-- **f)** ust. 6 otrzymuje brzmienie: „6. Nie wymaga się decyzji, o których mowa w ust. 1-2, jeżeli grunty rolne mają być użytkowane na cele leśne.”;
 - **4)** w art. 12:
     - **a)** ust. 3 otrzymuje brzmienie: „3. W razie zbycia gruntów, co do których wydano decyzje, o których mowa w art. 11 ust. 1-2, a niewyłączonych jeszcze z produkcji, obowiązek uiszczenia należności i opłat rocznych ciąży na nabywcy, który wyłączył grunt z produkcji. Zbywający jest obowiązany uprzedzić nabywcę o tym obowiązku.”,
     - **b)** uchyla się ust. 15;

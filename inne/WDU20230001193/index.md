@@ -42,20 +42,14 @@ source: pdf
 - **4)** uchyla się art. 37gb–37gk;
 - **5)** w art. 39a w pkt 1a skreśla się wyrazy „ , oraz opłat za przejazd autostradą”;
 - **6)** w art. 39b w ust. 1 uchyla się pkt 5, 5ba i 11f;
-- **7)** w art. 39f w ust. 1:
+- **7)** w art. 39f w ust. 1: a) Szefa KAS lub b) organy Krajowej Administracji Skarbowej wyznaczone na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub c) jednostkę, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych;”,
     - **a)** pkt 5 otrzymuje brzmienie: „5) przygotowanie, wdrożenie, budowę lub eksploatację systemu poboru opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, realizowanych przez:
-    - **a)** Szefa KAS lub
-    - **b)** organy Krajowej Administracji Skarbowej wyznaczone na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-    - **c)** jednostkę, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych;”,
     - **b)** uchyla się pkt 7 i 8;
 
-- **8)** w art. 39k:
+- **8)** w art. 39k: 1) Szefa KAS lub 2) organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub 3) jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.”;
     - **a)** uchyla się ust. 1a,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Bank Gospodarstwa Krajowego, na wniosek:
 
-- **1)** Szefa KAS lub
-- **2)** organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.”;
 - **9)** w art. 39l:
     - **a)** w ust. 1 w pkt 1 skreśla się wyrazy „7 i”,
     - **b)** w ust. 2: – w pkt 1 skreśla się wyrazy „ , oraz opłat za przejazd autostradą”, – w pkt 2 skreśla się wyrazy „7 i”, – w pkt 3: – – w lit. a skreśla się wyrazy „oraz opłat za przejazd autostradą pobieranych przez Szefa KAS,”, – – w lit. b skreśla się wyrazy „7 i”.
@@ -88,9 +82,7 @@ source: pdf
     - **b)** w ust. 2: – w pkt 1 skreśla się wyrazy „i b”, – w pkt 2 uchyla się lit. b;
 
 - **8)** w art. 13mc w ust. 2 skreśla się wyrazy „albo obowiązku wniesienia elektronicznej opłaty autostradowej”;
-- **9)** w art. 13md ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające:
-- **1)** liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a oraz pkt 2,
-- **2)** opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego był uprawniony do wysłania tego zawiadomienia, z uwzględnieniem art. 13mf ust. 2 – zwane dalej „sprawozdaniem KPK”.”;
+- **9)** w art. 13md ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw transportu sporządza sprawozdanie zawierające: 1) liczbę zapytań krajowych dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej wraz z podaniem liczby zapytań krajowych, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 13ma ust. 1 pkt 1 lit. a oraz pkt 2, 2) opis procedowania z naruszeniami obowiązku uiszczenia opłaty elektronicznej, który jest sporządzany w oparciu o stosunek liczby naruszeń, w odniesieniu do których skierowano zawiadomienie, o którym mowa w art. 13me ust. 1 pkt 1, do liczby wszystkich naruszeń, w odniesieniu do których Główny Inspektor Transportu Drogowego był uprawniony do wysłania tego zawiadomienia, z uwzględnieniem art. 13mf ust. 2 – zwane dalej „sprawozdaniem KPK”.”;
 - **10)** w art. 13me:
     - **a)** w ust. 1 uchyla się pkt 2,
     - **b)** w ust. 2: – w pkt 1 skreśla się wyrazy „albo naruszył obowiązek wniesienia elektronicznej opłaty autostradowej”, – uchyla się pkt 3, – w pkt 4 skreśla się wyrazy „albo naruszenie obowiązku wniesienia autostradowej opłaty dodatkowej”, – w pkt 5 wyrazy „pkt 2–4” zastępuje się wyrazami „pkt 2 i 4”,
@@ -124,10 +116,7 @@ source: pdf
 **Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, 919, 1053, 1088 i 1123) wprowadza się następujące zmiany:
 
 - **1)** w art. 16 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Kierujący pojazdem kategorii N lub N , o których mowa odpowiednio w art. 4 ust. 1 lit. b rozporządzenia 2018/858 albo w załączniku nr 2 do ustawy, lub zespołem pojazdów o długości ponad 7 m na autostradzie lub drodze ekspresowej o trzech lub więcej wyznaczonych pasach ruchu na jezdni w jednym kierunku jest obowiązany korzystać wyłącznie z dwóch pasów ruchu przeznaczonych dla danego kierunku, znajdujących się najbliżej prawej krawędzi jezdni.”;
-- **2)** w art. 24 dodaje się ust. 13 i 14 w brzmieniu: „13. Kierującemu pojazdem kategorii N lub N , o których mowa odpowiednio w art. 4 ust. 1 lit. b rozporządzenia 2018/858 albo w załączniku nr 2 do ustawy, zabrania się wyprzedzania pojazdu samochodowego na autostradzie i drodze ekspresowej o wyłącznie dwóch pasach ruchu przeznaczonych dla danego kierunku ruchu, chyba że pojazd ten porusza się z prędkością znacznie mniejszą od dopuszczalnej dla pojazdów kategorii N lub N obowiązującej na danej drodze.
-
-14. Zakazu, o którym mowa w ust. 13, nie stosuje się do wyprzedzania pojazdów wykonujących na drodze prace porządkowe, remontowe lub modernizacyjne wysyłających żółte sygnały błyskowe.”;
-
+- **2)** w art. 24 dodaje się ust. 13 i 14 w brzmieniu: „13. Kierującemu pojazdem kategorii N lub N , o których mowa odpowiednio w art. 4 ust. 1 lit. b rozporządzenia 2018/858 albo w załączniku nr 2 do ustawy, zabrania się wyprzedzania pojazdu samochodowego na autostradzie i drodze ekspresowej o wyłącznie dwóch pasach ruchu przeznaczonych dla danego kierunku ruchu, chyba że pojazd ten porusza się z prędkością znacznie mniejszą od dopuszczalnej dla pojazdów kategorii N lub N obowiązującej na danej drodze. 14. Zakazu, o którym mowa w ust. 13, nie stosuje się do wyprzedzania pojazdów wykonujących na drodze prace porządkowe, remontowe lub modernizacyjne wysyłających żółte sygnały błyskowe.”;
 - **3)** w art. 80ra skreśla się wyrazy „oraz naruszeń obowiązku wnoszenia opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760)”.
 
 **Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ) w art. 138d w § 1a skreśla się wyrazy „opłatą za przejazd autostradą w rozumieniu ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 659, 1079, 1726 i 1768) lub”.

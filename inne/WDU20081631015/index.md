@@ -30,12 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. Nr 147, poz. 1229, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 ust. 5 otrzymuje brzmienie: „5. Wójt (burmistrz, prezydent miasta) koordynuje funkcjonowanie krajowego systemu ratowniczo-gaśniczego na obszarze gminy w zakresie ustalonym przez wojewodę. Zadanie to może być wykonywane przy pomocy komendanta gminnego ochrony przeciwpożarowej, jeżeli komendant taki został zatrudniony przez wójta (burmistrza, prezydenta miasta), albo przy pomocy komendanta gminnego związku ochotniczych straży pożarnych.”;
-- **2)** w art. 28: Wysokość ekwiwalentu ustala rada gminy w drodze uchwały.
+- **2)** w art. 28: Wysokość ekwiwalentu ustala rada gminy w drodze uchwały. 2. Wysokość ekwiwalentu, o którym mowa w ust. 1, nie może przekraczać 1/175 przeciętnego wynagrodzenia, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm. ) przed dniem ustalenia ekwiwalentu, za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. Ekwiwalent jest wypłacany z budżetu gminy.”,
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Członek ochotniczej straży pożarnej, który uczestniczył w działaniu ratowniczym lub szkoleniu pożarniczym organizowanym przez Państwową Straż Pożarną lub gminę, otrzymuje ekwiwalent pieniężny.
+    - **b)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, tryb i sposób przeprowadzania oraz zakres badań, o których mowa w ust. 6, a także podmioty uprawnione do ich przeprowadzania, uwzględniając specyfikę działań ratowniczych, a także kwalifikacje podmiotów przeprowadzających badania lekarskie.”;
 
-2. Wysokość ekwiwalentu, o którym mowa w ust. 1, nie może przekraczać 1/175 przeciętnego wynagrodzenia, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm. ) przed dniem ustalenia ekwiwalentu, za każdą godzinę udziału w działaniu ratowniczym lub szkoleniu pożarniczym. Ekwiwalent jest wypłacany z budżetu gminy.”,
-
-- **b)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, tryb i sposób przeprowadzania oraz zakres badań, o których mowa w ust. 6, a także podmioty uprawnione do ich przeprowadzania, uwzględniając specyfikę działań ratowniczych, a także kwalifikacje podmiotów przeprowadzających badania lekarskie.”;
 - **3)** w art. 32:
     - **a)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) ubezpieczenia w instytucji ubezpieczeniowej członków ochotniczej straży pożarnej i młodzieżowej drużyny pożarniczej; ubezpieczenie może być imienne lub zbiorowe nieimienne.”,
     - **b)** ust. 3a otrzymuje brzmienie: „3a. Wójt (burmistrz, prezydent miasta) może zatrudnić komendanta gminnego ochrony przeciwpożarowej. Na stanowisku komendanta gminnego ochrony przeciwpożarowej może być także zatrudniony komendant gminny związku ochotniczych straży pożarnych.”,
@@ -50,13 +48,9 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 6 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
-- **10)** członek ochotniczej straży pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej.”;
-- **2)** w art. 95a:
+- **1)** w art. 6 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 i 10 w brzmieniu: „9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej; 10) członek ochotniczej straży pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej.”;
+- **2)** w art. 95a: 1) ukończyła 21 lat; 2) posiada zaświadczenie wydane przez pracodawcę, potwierdzające jej zatrudnienie oraz spełnienie wymagań w zakresie badań lekarskich, o których mowa w art. 122 ust. 2, i psychologicznych, o których mowa w art. 124 ust. 2.”, 2, oraz psychologicznych, o których mowa w art. 124 ust. 2.”.
     - **a)** ust. 1 otrzymuje brzmienie: „1. Kierującym pojazdem uprzywilejowanym może być osoba, z zastrzeżeniem ust. 2-4, która:
-
-- **1)** ukończyła 21 lat;
-- **2)** posiada zaświadczenie wydane przez pracodawcę, potwierdzające jej zatrudnienie oraz spełnienie wymagań w zakresie badań lekarskich, o których mowa w art. 122 ust. 2, i psychologicznych, o których mowa w art. 124 ust. 2.”, 2, oraz psychologicznych, o których mowa w art. 124 ust. 2.”.
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Kierującym pojazdem uprzywilejowanym ochotniczej straży pożarnej może być osoba, która posiada zaświadczenie wydane przez właściwego wójta (burmistrza, prezydenta miasta), potwierdzające spełnienie wymagań w zakresie badań lekarskich, o których mowa w art. 122 ust.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

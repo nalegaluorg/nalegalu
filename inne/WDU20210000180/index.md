@@ -30,17 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2020 r. poz. 848, 1610, 2112 i 2320) wprowadza się następujące zmiany:
 
 - **1)** w art. 195a w ust. 6 wyrazy „art. 272a ust. 1” zastępuje się wyrazami „art. 272a ust. 1a”;
-- **2)** w art. 272a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2022–2031 maksymalny limit wydatków budżetu państwa na świadczenie, o którym mowa w art. 195a, wynosi 96 923 tys. zł, z tym że w poszczególnych latach limit wynosi w:
-- **1)** 2022 r. – 8 651 tys. zł;
-- **2)** 2023 r. – 8 867 tys. zł;
-- **3)** 2024 r. – 9 089 tys. zł;
-- **4)** 2025 r. – 9 316 tys. zł;
-- **5)** 2026 r. – 9 549 tys. zł;
-- **6)** 2027 r. – 9 788 tys. zł;
-- **7)** 2028 r. – 10 033 tys. zł;
-- **8)** 2029 r. – 10 284 tys. zł;
-- **9)** 2030 r. – 10 541 tys. zł;
-- **10)** 2031 r. – 10 805 tys. zł.”.
+- **2)** w art. 272a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W latach 2022–2031 maksymalny limit wydatków budżetu państwa na świadczenie, o którym mowa w art. 195a, wynosi 96 923 tys. zł, z tym że w poszczególnych latach limit wynosi w: 1) 2022 r. – 8 651 tys. zł; 2) 2023 r. – 8 867 tys. zł; 3) 2024 r. – 9 089 tys. zł; 4) 2025 r. – 9 316 tys. zł; 5) 2026 r. – 9 549 tys. zł; 6) 2027 r. – 9 788 tys. zł; 7) 2028 r. – 10 033 tys. zł; 8) 2029 r. – 10 284 tys. zł; 9) 2030 r. – 10 541 tys. zł; 10) 2031 r. – 10 805 tys. zł.”.
 
 **Art. 2.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz. 159) w art. 47:
 

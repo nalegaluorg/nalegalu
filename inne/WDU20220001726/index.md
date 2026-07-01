@@ -33,25 +33,12 @@ source: pdf
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi, podlega karze aresztu, ograniczenia wolności, grzywny albo karze nagany.”,
     - **b)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. W razie popełnienia wykroczenia określonego w § 3 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
 
-- **2)** art. 145 otrzymuje brzmienie: „Art. 145. § 1. Kto zanieczyszcza lub zaśmieca obszar kolejowy lub miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec, podlega karze grzywny nie niższej niż 500 złotych.
-
-§ 2. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
-
-§ 3. W razie popełnienia wykroczenia określonego w § 1 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
-
-- **3)** w art. 154:
+- **2)** art. 145 otrzymuje brzmienie: „Art. 145. § 1. Kto zanieczyszcza lub zaśmieca obszar kolejowy lub miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec, podlega karze grzywny nie niższej niż 500 złotych. § 2. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne. § 3. W razie popełnienia wykroczenia określonego w § 1 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
+- **3)** w art. 154: § 2b. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Kto na nienależący do niego grunt polny wyrzuca kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, podlega karze grzywny nie niższej niż 500 złotych.”,
     - **b)** po § 2 dodaje się § 2a i 2b w brzmieniu: „§ 2a. Usiłowanie wykroczenia określonego w § 2 oraz podżeganie do niego i pomocnictwo są karalne.
 
-§ 2b. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”;
-
-- **4)** art. 162 otrzymuje brzmienie: „Art. 162. § 1. Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, albo w inny sposób zaśmieca las, podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych.
-
-§ 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
-
-§ 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie do niego i pomocnictwo są karalne.
-
-§ 4. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”.
+- **4)** art. 162 otrzymuje brzmienie: „Art. 162. § 1. Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, albo w inny sposób zaśmieca las, podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych. § 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych. § 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie do niego i pomocnictwo są karalne. § 4. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec obowiązek przywrócenia do stanu poprzedniego.”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) wprowadza się następujące zmiany:
 
@@ -71,32 +58,15 @@ source: pdf
     - **a)** § 2 otrzymuje brzmienie: „§ 2. W razie skazania sprawcy za umyślne przestępstwo przeciwko środowisku sąd orzeka, a w wypadku skazania sprawcy za nieumyślne przestępstwo przeciwko środowisku sąd może orzec, nawiązkę w wysokości od 10 000 do 10 000 000 złotych na rzecz Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, o którym mowa w art. 400 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r.
     - **b)** § 4 otrzymuje brzmienie: „§ 4. W szczególnie uzasadnionych okolicznościach, gdy wymierzona nawiązka powodowałaby dla sprawcy uszczerbek dla niezbędnego utrzymania siebie i rodziny lub gdy pokrzywdzony pojednał się ze sprawcą, sąd może ją wymierzyć w wysokości niższej niż wysokość wskazana w § 2 i 3.”;
 
-- **2)** w art. 181 § 1–3 otrzymują brzmienie: „§ 1. Kto powoduje zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Kto, wbrew przepisom obowiązującym na terenie objętym ochroną, niszczy lub uszkadza rośliny, zwierzęta, grzyby lub ich siedliska, lub siedliska przyrodnicze, powodując istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
-
-§ 3. Karze określonej w § 2 podlega także ten, kto niezależnie od miejsca czynu niszczy lub uszkadza rośliny, zwierzęta, grzyby pozostające pod ochroną gatunkową lub ich siedliska, powodując istotną szkodę.”;
-
-- **3)** art. 182 otrzymuje brzmienie: „Art. 182. § 1. Kto zanieczyszcza wodę, powietrze lub powierzchnię ziemi substancją albo promieniowaniem jonizującym w takiej ilości lub w takiej postaci, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować istotne obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
-
-§ 3. Jeżeli czyn określony w § 1 został popełniony w związku z eksploatacją instalacji działającej w ramach zakładu, w zakresie korzystania ze środowiska, na które wymagane jest pozwolenie, sprawca podlega karze pozbawienia wolności od roku do lat 10.
-
-§ 4. Jeżeli sprawca czynu określonego w § 3 działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
-
+- **2)** w art. 181 § 1–3 otrzymują brzmienie: „§ 1. Kto powoduje zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 2. Kto, wbrew przepisom obowiązującym na terenie objętym ochroną, niszczy lub uszkadza rośliny, zwierzęta, grzyby lub ich siedliska, lub siedliska przyrodnicze, powodując istotną szkodę, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5. § 3. Karze określonej w § 2 podlega także ten, kto niezależnie od miejsca czynu niszczy lub uszkadza rośliny, zwierzęta, grzyby pozostające pod ochroną gatunkową lub ich siedliska, powodując istotną szkodę.”;
+- **3)** art. 182 otrzymuje brzmienie: „Art. 182. § 1. Kto zanieczyszcza wodę, powietrze lub powierzchnię ziemi substancją albo promieniowaniem jonizującym w takiej ilości lub w takiej postaci, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować istotne obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 2. Jeżeli sprawca czynu określonego w § 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3. § 3. Jeżeli czyn określony w § 1 został popełniony w związku z eksploatacją instalacji działającej w ramach zakładu, w zakresie korzystania ze środowiska, na które wymagane jest pozwolenie, sprawca podlega karze pozbawienia wolności od roku do lat 10. § 4. Jeżeli sprawca czynu określonego w § 3 działa nieumyślnie, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
 - **4)** w art. 183:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto wbrew przepisom składuje, usuwa, przetwarza, zbiera, unieszkodliwia, transportuje odpady lub substancje albo dokonuje odzysku odpadów lub substancji w takich warunkach lub w taki sposób, że może to zagrozić życiu lub zdrowiu człowieka lub spowodować obniżenie jakości wody, powietrza lub powierzchni ziemi lub zniszczenie w świecie roślinnym lub zwierzęcym, podlega karze pozbawienia wolności od roku do lat 10.”,
     - **b)** § 5 otrzymuje brzmienie: „§ 5. Kto bez wymaganego zgłoszenia lub zezwolenia albo wbrew jego warunkom przywozi z zagranicy lub wywozi za granicę odpady niebezpieczne, podlega karze pozbawienia wolności od lat 2 do 12.”,
     - **c)** po § 5 dodaje się § 5a w brzmieniu: „§ 5a. Karze określonej w § 5 podlega, kto porzuca odpady niebezpieczne w miejscu nieprzeznaczonym do ich składowania lub magazynowania.”,
     - **d)** § 6 otrzymuje brzmienie: „§ 6. Jeżeli sprawca czynu określonego w § 1–5a działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 5.”;
 
-- **5)** art. 185 otrzymuje brzmienie: „Art. 185. § 1. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach lub istotne obniżenie jakości wody, powietrza lub powierzchni ziemi, sprawca podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 2. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest ciężki uszczerbek na zdrowiu człowieka, sprawca podlega karze pozbawienia wolności od lat 2 do 12.
-
-§ 3. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności na czas nie krótszy od lat 3.”;
-
+- **5)** art. 185 otrzymuje brzmienie: „Art. 185. § 1. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest zniszczenie w świecie roślinnym lub zwierzęcym w znacznych rozmiarach lub istotne obniżenie jakości wody, powietrza lub powierzchni ziemi, sprawca podlega karze pozbawienia wolności od lat 2 do 12. § 2. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest ciężki uszczerbek na zdrowiu człowieka, sprawca podlega karze pozbawienia wolności od lat 2 do 12. § 3. Jeżeli następstwem czynu określonego w art. 182 § 1 lub 3, art. 183 § 1 lub 3 lub w art. 184 § 1 lub 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności na czas nie krótszy od lat 3.”;
 - **6)** w art. 186 § 1 otrzymuje brzmienie: „§ 1. Kto wbrew obowiązkowi nie utrzymuje w należytym stanie lub nie używa urządzeń zabezpieczających wodę, powietrze lub powierzchnię ziemi przed zanieczyszczeniem lub urządzeń zabezpieczających przed skażeniem promieniotwórczym lub promieniowaniem jonizującym, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.”;
 - **7)** po art. 188 dodaje się art. 188a w brzmieniu: „Art. 188a. Wobec sprawcy przestępstwa określonego w art. 182 § 1 lub 3, art. 183 § 1, 3, 5a lub 6 lub w art. 184 § 1 lub 2, który dobrowolnie naprawił szkodę w całości albo w znacznej części, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.”.
 
@@ -108,10 +78,7 @@ source: pdf
 
 **Art. 7.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916) wprowadza się następujące zmiany:
 
-- **1)** po art. 130 dodaje się art. 130a w brzmieniu: „Art. 130a. 1. Kto usuwa roślinność przez wypalanie z gruntów rolnych, obszarów kolejowych, pasów przydrożnych, trzcinowisk lub szuwarów, podlega karze aresztu, ograniczenia wolności albo grzywny do 30 000 złotych.
-
-2. W razie ukarania za wykroczenie można orzec obowiązek przywrócenia do stanu poprzedniego.”;
-
+- **1)** po art. 130 dodaje się art. 130a w brzmieniu: „Art. 130a. 1. Kto usuwa roślinność przez wypalanie z gruntów rolnych, obszarów kolejowych, pasów przydrożnych, trzcinowisk lub szuwarów, podlega karze aresztu, ograniczenia wolności albo grzywny do 30 000 złotych. 2. W razie ukarania za wykroczenie można orzec obowiązek przywrócenia do stanu poprzedniego.”;
 - **2)** w art. 131 uchyla się pkt 12;
 - **3)** art. 132 otrzymuje brzmienie: „Art. 132. Orzekanie w sprawach, o których mowa w art. 127, art. 130a i art. 131, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
 

@@ -30,12 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2017 r. poz. 1987) wprowadza się następujące zmiany:
 
 - **1)** w art. 8 uchyla się ust. 1b i 1c;
-- **2)** po art. 8a dodaje się art. 8b w brzmieniu: „Art. 8b. 1. Dziecku matki pozbawionej wolności, wobec której stwierdzono nieważność orzeczenia, które przebywało wraz z matką w więzieniu lub innym miejscu odosobnienia lub którego matka w okresie ciąży przebywała w więzieniu lub innym miejscu odosobnienia, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę.
-
-2. Przepisy art. 8 ust. 1 zdanie drugie, ust. 2 oraz ust. 2d–5 stosuje się odpowiednio.
-
-3. Stwierdzenie nieważności orzeczenia, z uwzględnieniem art. 3 ust. 1, może nastąpić także na wniosek dziecka, o którym mowa w ust. 1, a w razie jego śmierci – także na wniosek jego małżonka, dzieci i rodziców.”;
-
+- **2)** po art. 8a dodaje się art. 8b w brzmieniu: „Art. 8b. 1. Dziecku matki pozbawionej wolności, wobec której stwierdzono nieważność orzeczenia, które przebywało wraz z matką w więzieniu lub innym miejscu odosobnienia lub którego matka w okresie ciąży przebywała w więzieniu lub innym miejscu odosobnienia, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę. 2. Przepisy art. 8 ust. 1 zdanie drugie, ust. 2 oraz ust. 2d–5 stosuje się odpowiednio. 3. Stwierdzenie nieważności orzeczenia, z uwzględnieniem art. 3 ust. 1, może nastąpić także na wniosek dziecka, o którym mowa w ust. 1, a w razie jego śmierci – także na wniosek jego małżonka, dzieci i rodziców.”;
 - **3)** w art. 11:
     - **a)** w ust. 1 wyrazy „art. 8–10” zastępuje się wyrazami „art. 8, art. 9 i art. 10”,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. Przepisy art. 8b mają odpowiednie zastosowanie wobec dzieci osób, o których mowa w ust. 1 Roszczenia o odszkodowanie i zadośćuczynienie nie przedawniają się.”.

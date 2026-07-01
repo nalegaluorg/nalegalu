@@ -29,61 +29,18 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 marca 1985 r. o Inspekcji Sanitarnej (Dz.U. z 1998 r. Nr 90, poz. 575, Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268 oraz z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 42, poz. 473 i Nr 63, poz. 634, Nr 125, poz. 1367 i Nr 126, poz. 1382) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Inspekcja Sanitarna jest powołana do realizacji zadań z zakresu zdrowia publicznego, w szczególności poprzez sprawowanie nadzoru nad warunkami:
-- **1)** higieny środowiska,
-- **2)** higieny pracy w zakładach pracy,
-- **3)** higieny radiacyjnej,
-- **4)** higieny procesów nauczania i wychowania,
-- **5)** higieny wypoczynku i rekreacji,
-- **6)** zdrowotnymi żywności, żywienia i przedmiotów użytku,
-- **7)** higieniczno-sanitarnymi, jakie powinien spełniać personel medyczny, sprzęt oraz pomieszczenia, w których są udzielane świadczenia zdrowotne - w celu ochrony zdrowia ludzkiego przed niekorzystnym wpływem szkodliwości i uciążliwości środowiskowych, zapobiegania powstawaniu chorób, w tym chorób zakaźnych i zawodowych.”;
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Inspekcja Sanitarna jest powołana do realizacji zadań z zakresu zdrowia publicznego, w szczególności poprzez sprawowanie nadzoru nad warunkami: 1) higieny środowiska, 2) higieny pracy w zakładach pracy, 3) higieny radiacyjnej, 4) higieny procesów nauczania i wychowania, 5) higieny wypoczynku i rekreacji, 6) zdrowotnymi żywności, żywienia i przedmiotów użytku, 7) higieniczno-sanitarnymi, jakie powinien spełniać personel medyczny, sprzęt oraz pomieszczenia, w których są udzielane świadczenia zdrowotne - w celu ochrony zdrowia ludzkiego przed niekorzystnym wpływem szkodliwości i uciążliwości środowiskowych, zapobiegania powstawaniu chorób, w tym chorób zakaźnych i zawodowych.”;
 - **2)** w art. 2 skreśla się przecinek i wyrazy „jeżeli ich występowanie ma charakter epidemiczny”;
-- **3)** art. 3 otrzymuje brzmienie: „Art. 3. Do zakresu działania Inspekcji Sanitarnej w dziedzinie zapobiegawczego nadzoru sanitarnego należy w szczególności:
-- **1)** uzgadnianie projektów wojewódzkich i miejscowych planów zagospodarowania przestrzennego oraz warunków zabudowy i zagospodarowania terenu inwestycji, a także wskazań lokalizacyjnych i lokalizacji autostrad pod względem wymagań higienicznych i zdrowotnych,
-- **2)** uzgadnianie dokumentacji projektowej pod względem wymagań higienicznych i zdrowotnych dotyczących:
-    - **a)** budowy oraz zmiany sposobu użytkowania obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych,
-    - **b)** nowych materiałów i procesów technologicznych przed ich zastosowaniem w produkcji lub budownictwie,
-
-- **3)** uczestniczenie w dopuszczeniu do użytku obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych oraz środków komunikacji lądowej,
-- **4)** inicjowanie przedsięwzięć oraz prac badawczych w dziedzinie zapobiegania negatywnym wpływom czynników i zjawisk fizycznych, chemicznych i biologicznych na zdrowie ludzi.”;
+- **3)** art. 3 otrzymuje brzmienie: „Art. 3. Do zakresu działania Inspekcji Sanitarnej w dziedzinie zapobiegawczego nadzoru sanitarnego należy w szczególności: 1) uzgadnianie projektów wojewódzkich i miejscowych planów zagospodarowania przestrzennego oraz warunków zabudowy i zagospodarowania terenu inwestycji, a także wskazań lokalizacyjnych i lokalizacji autostrad pod względem wymagań higienicznych i zdrowotnych, 2) uzgadnianie dokumentacji projektowej pod względem wymagań higienicznych i zdrowotnych dotyczących: a) budowy oraz zmiany sposobu użytkowania obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych, b) nowych materiałów i procesów technologicznych przed ich zastosowaniem w produkcji lub budownictwie, 3) uczestniczenie w dopuszczeniu do użytku obiektów budowlanych, statków morskich, żeglugi śródlądowej i powietrznych oraz środków komunikacji lądowej, 4) inicjowanie przedsięwzięć oraz prac badawczych w dziedzinie zapobiegania negatywnym wpływom czynników i zjawisk fizycznych, chemicznych i biologicznych na zdrowie ludzi.”;
 - **4)** w art. 4 pkt 1 otrzymuje brzmienie: „1) higieny środowiska, a zwłaszcza wody do spożycia, czystości powietrza atmosferycznego, gleby, wód i innych elementów środowiska w zakresie ustalonym w odrębnych przepisach,”;
 - **5)** w art. 5:
     - **a)** w pkt 2 skreśla się wyraz „publicznym”,
     - **b)** dodaje się pkt 4a w brzmieniu: „4a) wydawanie decyzji o stwierdzeniu choroby zawodowej lub decyzji o braku podstaw do jej stwierdzenia,”;
 
 - **6)** w art. 8 dodaje się ust. 2a w brzmieniu: „2a. Zastępców Głównego Inspektora Sanitarnego w liczbie 2 powołuje i odwołuje minister właściwy do spraw zdrowia na wniosek Głównego Inspektora Sanitarnego.”;
-- **7)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „2. Rada Sanitarno-Epidemiologiczna składa się z przewodniczącego, sekretarza i 15 członków, których powołuje i odwołuje minister właściwy do spraw zdrowia na wniosek Głównego Inspektora Sanitarnego, spośród pracowników nauki i osób posiadających wybitne przygotowanie praktyczne z dziedziny sanitarno-epidemiologicznej. W pracach Rady, na zaproszenie Głównego Inspektora Sanitarnego, uczestniczą przedstawiciele centralnych organów administracji rządowej, jednostek samorządu terytorialnego oraz związków zawodowych, organizacji pracodawców i organizacji społecznych statutowo zajmujących się problemami sanitarno-epidemiologicznymi.
-
-3. Rada Sanitarno-Epidemiologiczna działa na podstawie uchwalonego przez siebie regulaminu zatwierdzonego, w drodze zarządzenia, przez Głównego Inspektora Sanitarnego.”;
-
-- **8)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Zadania Inspekcji Sanitarnej określone w rozdziale 1 wykonują następujące organy:
-- **1)** Główny Inspektor Sanitarny,
-- **2)** wojewódzki inspektor sanitarny,
-- **3)** powiatowy inspektor sanitarny,
-- **4)** graniczny inspektor sanitarny dla obszarów przejść granicznych drogowych, kolejowych, lotniczych, rzecznych i morskich, portów lotniczych i morskich oraz jednostek pływających na obszarze wód terytorialnych.
-
-2. Organy, wymienione w ust. 1, wykonują zadania Inspekcji Sanitarnej zgodnie z kompetencjami określonymi w ustawie i w przepisach odrębnych.
-
-3. Główny Inspektor Sanitarny koordynuje i nadzoruje ustawową działalność inspektorów sanitarnych.
-
-4. Wojewódzki, powiatowy i graniczny inspektor sanitarny kierują działalnością odpowiednio wojewódzkiej, powiatowej i granicznej stacji sanitarno-epidemiologicznej, będących zakładami opieki zdrowotnej.
-
-5. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, wykaz granicznych stacji sanitarnoepidemiologicznych, uwzględniając w szczególności terytorialny zakres działania oraz siedziby granicznych inspektorów sanitarnych.
-
-6. Wojewódzki inspektor sanitarny może powierzyć powiatowemu i granicznemu inspektorowi sanitarnemu, w drodze porozumienia, prowadzenie spraw z zakresu swojej właściwości, w tym wydawanie w jego imieniu decyzji administracyjnych.
-
-7. Ilekroć w dalszych przepisach ustawy jest mowa o inspektorze sanitarnym bez bliższego rozróżnienia, to przepisy te odnoszą się do wojewódzkiego, powiatowego i granicznego inspektora sanitarnego.”;
-
-- **9)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Wojewódzkiego, powiatowego i granicznego inspektora sanitarnego powołuje Główny Inspektor Sanitarny, po zakończeniu postępowania kwalifikacyjnego, przeprowadzonego z udziałem wojewody, w odniesieniu do wojewódzkiego i granicznego inspektora sanitarnego lub starosty, w odniesieniu do powiatowego inspektora sanitarnego.
-
-2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki i kryteria prowadzenia postępowania kwalifikacyjnego, o którym mowa w ust. 1, uwzględniając w szczególności sposób ogłaszania o zamiarze przeprowadzenia postępowania kwalifikacyjnego, skład i zasady działania komisji kwalifikacyjnej.
-
-3. Powołanie na stanowisko inspektora sanitarnego następuje na okres 5 lat.
-
-4. Zastępcę wojewódzkiego, powiatowego i granicznego inspektora sanitarnego powołuje i odwołuje Główny Inspektor Sanitarny na wniosek właściwego inspektora sanitarnego.
-
-5. Główny Inspektor Sanitarny może w każdym czasie odwołać wojewódzkiego, powiatowego i granicznego inspektora sanitarnego, jeżeli przemawia za tym interes służby, a w szczególności, jeżeli działalność tego inspektora sanitarnego lub podległej mu jednostki może zagrozić prawidłowemu wykonywaniu zadań Inspekcji Sanitarnej, a zwłaszcza naruszyć bezpieczeństwo sanitarne na terenie właściwości danej jednostki. Odwołanie w tym trybie następuje w drodze decyzji administracyjnej i wymaga szczegółowego uzasadnienia na piśmie.”;
-
+- **7)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „2. Rada Sanitarno-Epidemiologiczna składa się z przewodniczącego, sekretarza i 15 członków, których powołuje i odwołuje minister właściwy do spraw zdrowia na wniosek Głównego Inspektora Sanitarnego, spośród pracowników nauki i osób posiadających wybitne przygotowanie praktyczne z dziedziny sanitarno-epidemiologicznej. W pracach Rady, na zaproszenie Głównego Inspektora Sanitarnego, uczestniczą przedstawiciele centralnych organów administracji rządowej, jednostek samorządu terytorialnego oraz związków zawodowych, organizacji pracodawców i organizacji społecznych statutowo zajmujących się problemami sanitarno-epidemiologicznymi. 3. Rada Sanitarno-Epidemiologiczna działa na podstawie uchwalonego przez siebie regulaminu zatwierdzonego, w drodze zarządzenia, przez Głównego Inspektora Sanitarnego.”;
+- **8)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Zadania Inspekcji Sanitarnej określone w rozdziale 1 wykonują następujące organy: 1) Główny Inspektor Sanitarny, 2) wojewódzki inspektor sanitarny, 3) powiatowy inspektor sanitarny, 4) graniczny inspektor sanitarny dla obszarów przejść granicznych drogowych, kolejowych, lotniczych, rzecznych i morskich, portów lotniczych i morskich oraz jednostek pływających na obszarze wód terytorialnych. 2. Organy, wymienione w ust. 1, wykonują zadania Inspekcji Sanitarnej zgodnie z kompetencjami określonymi w ustawie i w przepisach odrębnych. 3. Główny Inspektor Sanitarny koordynuje i nadzoruje ustawową działalność inspektorów sanitarnych. 4. Wojewódzki, powiatowy i graniczny inspektor sanitarny kierują działalnością odpowiednio wojewódzkiej, powiatowej i granicznej stacji sanitarno-epidemiologicznej, będących zakładami opieki zdrowotnej. 5. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, wykaz granicznych stacji sanitarnoepidemiologicznych, uwzględniając w szczególności terytorialny zakres działania oraz siedziby granicznych inspektorów sanitarnych. 6. Wojewódzki inspektor sanitarny może powierzyć powiatowemu i granicznemu inspektorowi sanitarnemu, w drodze porozumienia, prowadzenie spraw z zakresu swojej właściwości, w tym wydawanie w jego imieniu decyzji administracyjnych. 7. Ilekroć w dalszych przepisach ustawy jest mowa o inspektorze sanitarnym bez bliższego rozróżnienia, to przepisy te odnoszą się do wojewódzkiego, powiatowego i granicznego inspektora sanitarnego.”;
+- **9)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Wojewódzkiego, powiatowego i granicznego inspektora sanitarnego powołuje Główny Inspektor Sanitarny, po zakończeniu postępowania kwalifikacyjnego, przeprowadzonego z udziałem wojewody, w odniesieniu do wojewódzkiego i granicznego inspektora sanitarnego lub starosty, w odniesieniu do powiatowego inspektora sanitarnego. 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki i kryteria prowadzenia postępowania kwalifikacyjnego, o którym mowa w ust. 1, uwzględniając w szczególności sposób ogłaszania o zamiarze przeprowadzenia postępowania kwalifikacyjnego, skład i zasady działania komisji kwalifikacyjnej. 3. Powołanie na stanowisko inspektora sanitarnego następuje na okres 5 lat. 4. Zastępcę wojewódzkiego, powiatowego i granicznego inspektora sanitarnego powołuje i odwołuje Główny Inspektor Sanitarny na wniosek właściwego inspektora sanitarnego. 5. Główny Inspektor Sanitarny może w każdym czasie odwołać wojewódzkiego, powiatowego i granicznego inspektora sanitarnego, jeżeli przemawia za tym interes służby, a w szczególności, jeżeli działalność tego inspektora sanitarnego lub podległej mu jednostki może zagrozić prawidłowemu wykonywaniu zadań Inspekcji Sanitarnej, a zwłaszcza naruszyć bezpieczeństwo sanitarne na terenie właściwości danej jednostki. Odwołanie w tym trybie następuje w drodze decyzji administracyjnej i wymaga szczegółowego uzasadnienia na piśmie.”;
 - **10)** w art. 12:
     - **a)** ust. 1 otrzymuje brzmienie: „1. W rozumieniu Kodeksu postępowania administracyjnego, w sprawach należących do zakresu zadań i kompetencji Inspekcji Sanitarnej, jeżeli ustawa nie stanowi inaczej, organem właściwym jest powiatowy lub graniczny inspektor sanitarny, z zastrzeżeniem ust. 1a.”,
     - **b)** dodaje się ust. 1a w brzmieniu: „1a. Wojewódzki inspektor sanitarny jest organem właściwym w zakresie higieny radiacyjnej.”,
@@ -98,36 +55,16 @@ source: pdf
 - **12)** skreśla się art. 12b;
 - **13)** w art. 13 w ust. 1 pkt 3 otrzymuje brzmienie: „3) jest lekarzem i uzyskała kierunkową specjalizację w trybie przewidzianym w odrębnych przepisach, albo posiada inne wyższe wykształcenie i uzyskała specjalizację z dziedziny medycyny,”;
 - **14)** w art. 14 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb przyznawania dodatku, o którym mowa w ust. 1, a także jego wysokość, uwzględniając w szczególności, przy określaniu trybu przyznawania dodatku - zadania, które będą zaliczane do czynności kontrolnych.”;
-- **15)** w art. 15:
+- **15)** w art. 15: 1) przy określaniu struktury organizacyjnej - komórki organizacyjne stacji sanitarno-epidemiologicznych, 2) przy określaniu warunków działania - sposób nadawania regulaminu organizacyjnego stacji sanitarno-epidemiologicznych, 3) przy określaniu kwalifikacji - kwalifikacje zawodowe, wykształcenie, specjalizacje, przeszkolenia oraz minimalną liczbę lat pracy.”;
     - **a)** dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw zdrowia posiada w stosunku do stacji sanitarno-epidemiologicznych uprawnienia organu założycielskiego w rozumieniu przepisów o zakładach opieki zdrowotnej.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, strukturę organizacyjną, warunki i sposób działania stacji sanitarnoepidemiologicznych oraz kwalifikacje wymagane na poszczególne stanowiska pracy, a także wzór legitymacji służbowej pracownika stacji sanitarno-epidemiologicznej, uwzględniając w szczególności:
 
-- **1)** przy określaniu struktury organizacyjnej - komórki organizacyjne stacji sanitarno-epidemiologicznych,
-- **2)** przy określaniu warunków działania - sposób nadawania regulaminu organizacyjnego stacji sanitarno-epidemiologicznych,
-- **3)** przy określaniu kwalifikacji - kwalifikacje zawodowe, wykształcenie, specjalizacje, przeszkolenia oraz minimalną liczbę lat pracy.”;
 - **16)** skreśla się art. 17;
 - **17)** skreśla się art. 19;
 - **18)** w art. 20 w ust. 1 po wyrazach „Straży Granicznej,” dodaje się wyrazy „Biura Ochrony Rządu,”;
-- **19)** dodaje się art. 20a w brzmieniu: „Art. 20a. 1. Na terenach jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, w rejonach zakwaterowania przejściowego jednostek wojskowych oraz w stosunku do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej oraz przemieszczających się przez to terytorium, zadania Inspekcji Sanitarnej wykonują organy Wojskowej Inspekcji Sanitarnej.
-
-2. Minister Obrony Narodowej określi, w drodze rozporządzenia, organizację oraz warunki i tryb wykonywania zadań przez Wojskową Inspekcję Sanitarną:
-
-- **1)** na terenie jednostek organizacyjnych określonych w ust. 1, oraz w rejonach zakwaterowania przejściowego jednostek wojskowych,
-- **2)** w stosunku do żołnierzy w służbie czynnej oraz pracowników wojska zatrudnionych w jednostkach organizacyjnych określonych w ust. 1,
-- **3)** w stosunku do żołnierzy wojsk obcych i ich personelu cywilnego, przebywających na terytorium Rzeczypospolitej Polskiej albo przemieszczających się.”;
+- **19)** dodaje się art. 20a w brzmieniu: „Art. 20a. 1. Na terenach jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, w rejonach zakwaterowania przejściowego jednostek wojskowych oraz w stosunku do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej oraz przemieszczających się przez to terytorium, zadania Inspekcji Sanitarnej wykonują organy Wojskowej Inspekcji Sanitarnej. 2. Minister Obrony Narodowej określi, w drodze rozporządzenia, organizację oraz warunki i tryb wykonywania zadań przez Wojskową Inspekcję Sanitarną: 1) na terenie jednostek organizacyjnych określonych w ust. 1, oraz w rejonach zakwaterowania przejściowego jednostek wojskowych, 2) w stosunku do żołnierzy w służbie czynnej oraz pracowników wojska zatrudnionych w jednostkach organizacyjnych określonych w ust. 1, 3) w stosunku do żołnierzy wojsk obcych i ich personelu cywilnego, przebywających na terytorium Rzeczypospolitej Polskiej albo przemieszczających się.”;
 - **20)** skreśla się art. 24;
-- **21)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Główny Inspektor Sanitarny może osobie posiadającej wymagane kwalifikacje nadać, z zastrzeżeniem ust. 2, w określonym zakresie oraz cofnąć uprawnienie rzeczoznawcy do spraw sanitarnohigienicznych do uzgadniania w imieniu inspektora sanitarnego dokumentacji projektowej pod względem wymagań higienicznych i zdrowotnych.
-
-2. Rzeczoznawcą do spraw sanitarno-higienicznych nie może być osoba będąca pracownikiem stacji sanitarno-epidemiologicznej lub członkiem korpusu służby cywilnej zatrudnionym w Głównym Inspektoracie Sanitarnym.
-
-3. Główny Inspektor Sanitarny powołuje w drodze zarządzenia Komisję Kwalifikacyjną do spraw oceny kwalifikacji kandydata na rzeczoznawcę do spraw sanitarno-higienicznych oraz prowadzi listę rzeczoznawców.
-
-4. Za przyznanie uprawnienia rzeczoznawcy pobierana jest opłata.
-
-5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kwalifikacje rzeczoznawców, warunki, zakres i tryb przyznawania i cofania uprawnień rzeczoznawcy do spraw sanitarnohigienicznych, wysokość opłat ponoszonych w związku z przyznaniem uprawnienia rzeczoznawcy, warunki i tryb działania oraz wynagradzania Komisji Kwalifikacyjnej, a także warunki i tryb uzgadniania przez rzeczoznawców dokumentacji projektowej, uwzględniając w szczególności:
-
-- **1)** przy określaniu kwalifikacji - wykształcenie, praktykę zawodową oraz egzamin kwalifikacyjny,
-- **2)** przy określeniu warunków, zakresu i trybu przyznawania i cofania uprawnień rzeczoznawcy - wykaz dokumentów niezbędnych do wszczęcia postępowania, zakres uprawnień rzeczoznawców oraz ich obowiązki.”;
+- **21)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Główny Inspektor Sanitarny może osobie posiadającej wymagane kwalifikacje nadać, z zastrzeżeniem ust. 2, w określonym zakresie oraz cofnąć uprawnienie rzeczoznawcy do spraw sanitarnohigienicznych do uzgadniania w imieniu inspektora sanitarnego dokumentacji projektowej pod względem wymagań higienicznych i zdrowotnych. 2. Rzeczoznawcą do spraw sanitarno-higienicznych nie może być osoba będąca pracownikiem stacji sanitarno-epidemiologicznej lub członkiem korpusu służby cywilnej zatrudnionym w Głównym Inspektoracie Sanitarnym. 3. Główny Inspektor Sanitarny powołuje w drodze zarządzenia Komisję Kwalifikacyjną do spraw oceny kwalifikacji kandydata na rzeczoznawcę do spraw sanitarno-higienicznych oraz prowadzi listę rzeczoznawców. 4. Za przyznanie uprawnienia rzeczoznawcy pobierana jest opłata. 5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kwalifikacje rzeczoznawców, warunki, zakres i tryb przyznawania i cofania uprawnień rzeczoznawcy do spraw sanitarnohigienicznych, wysokość opłat ponoszonych w związku z przyznaniem uprawnienia rzeczoznawcy, warunki i tryb działania oraz wynagradzania Komisji Kwalifikacyjnej, a także warunki i tryb uzgadniania przez rzeczoznawców dokumentacji projektowej, uwzględniając w szczególności: 1) przy określaniu kwalifikacji - wykształcenie, praktykę zawodową oraz egzamin kwalifikacyjny, 2) przy określeniu warunków, zakresu i trybu przyznawania i cofania uprawnień rzeczoznawcy - wykaz dokumentów niezbędnych do wszczęcia postępowania, zakres uprawnień rzeczoznawców oraz ich obowiązki.”;
 - **22)** w art. 35 w ust. 1 dodaje się zdanie drugie w brzmieniu: „Rozporządzenie w szczególności ustali zakres uprawnień oraz rodzaj czynności kontrolnych, do wykonywania których został dany pracownik upoważniony.”;
 - **23)** art. 38 otrzymuje brzmienie: „Art. 38. Kto utrudnia lub udaremnia działalność organów Inspekcji Sanitarnej podlega karze aresztu do 30 dni, ograniczenia wolności albo grzywny.”.
 

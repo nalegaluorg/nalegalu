@@ -29,19 +29,11 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301) wprowadza się następujące zmiany:
 
-- **1)** w art. 22:
+- **1)** w art. 22: 2b. Wniosek składany jest jednorazowo. Wniosek może zostać odwołany w każdym czasie, w formach określonych w ust. 2a. 2c. Sprzedający, który otrzymał wniosek, o którym mowa w ust. 2a, każdorazowo po wystawieniu faktury nabywcy wystawia mu informację, o której mowa w ust. 2 pkt 3. 2d. Sprzedający może skorygować informację, o której mowa w ust. 2 pkt 3, pomimo braku wniosku nabywcy.”, a) po otrzymaniu wniosku określonego w ust. 2a oraz b) niezwłocznie po terminowym uregulowaniu należności za zakup – jednak nie później niż do ostatniego dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup;”;
     - **a)** uchyla się ust. 1a,
     - **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Informacja, o której mowa w ust. 2 pkt 3, jest wystawiana na wniosek nabywcy złożony w formie pisemnej, elektronicznej lub dokumentowej.
+    - **c)** w ust. 10 pkt 1 otrzymuje brzmienie: „1) wystawia nabywcy informację o kwocie obniżenia:
 
-2b. Wniosek składany jest jednorazowo. Wniosek może zostać odwołany w każdym czasie, w formach określonych w ust. 2a.
-
-2c. Sprzedający, który otrzymał wniosek, o którym mowa w ust. 2a, każdorazowo po wystawieniu faktury nabywcy wystawia mu informację, o której mowa w ust. 2 pkt 3.
-
-2d. Sprzedający może skorygować informację, o której mowa w ust. 2 pkt 3, pomimo braku wniosku nabywcy.”,
-
-- **c)** w ust. 10 pkt 1 otrzymuje brzmienie: „1) wystawia nabywcy informację o kwocie obniżenia:
-- **a)** po otrzymaniu wniosku określonego w ust. 2a oraz
-- **b)** niezwłocznie po terminowym uregulowaniu należności za zakup – jednak nie później niż do ostatniego dnia miesiąca następującego po miesiącu, w którym przypadał termin płatności za zakup;”;
 - **2)** w art. 28:
     - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) jest zapewniona specjalistyczna opieka medyczna, poradnictwo i usługi rehabilitacyjne;”,
     - **b)** uchyla się ust. 2a i 2b;

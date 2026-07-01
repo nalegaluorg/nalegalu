@@ -29,8 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2022 r. poz. 1514 oraz z 2023 r. poz. 553) wprowadza się następujące zmiany:
 
-- **1)** w art. 20a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) zgodnie z prawem wyprodukowanych w innym państwie na potrzeby jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych;
-- **4)** należących do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie przepisów umów międzynarodowych.”;
+- **1)** w art. 20a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu: „3) zgodnie z prawem wyprodukowanych w innym państwie na potrzeby jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych; 4) należących do wojsk obcych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie przepisów umów międzynarodowych.”;
 - **2)** w art. 22 dodaje się ust. 5 w brzmieniu: „5. Przepisu ust. 3 nie stosuje się do wojsk obcych w rozumieniu art. 2 pkt 1 ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2018 r. poz. 2110 oraz z 2022 r. poz. 655) obsługujących i konserwujących urządzenia techniczne należące do tych wojsk lub za które wojska te są odpowiedzialne.”;
 - **3)** w art. 50 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „b) jednostkach sił zbrojnych państw obcych przebywających na terytorium Rzeczypospolitej Polskiej, o ile przepisy szczególne lub umowy międzynarodowe nie stanowią inaczej;”.
 

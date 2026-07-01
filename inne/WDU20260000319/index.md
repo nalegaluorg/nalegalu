@@ -31,16 +31,8 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2025 r. poz. 439 i 1792 oraz z 2026 r. poz. 34) w art. 120 w ust. 1:
 
-- **1)** pkt 9 i 10 otrzymują brzmienie: „9) w 2026 r. – 593 mln zł;
-- **10)** w 2027 r. – 625 mln zł;”;
-- **2)** dodaje się pkt 11–18 w brzmieniu: „11) w 2028 r. – 469 mln zł;
-- **12)** w 2029 r. – 587 mln zł;
-- **13)** w 2030 r. – 617 mln zł;
-- **14)** w 2031 r. – 448 mln zł;
-- **15)** w 2032 r. – 548 mln zł;
-- **16)** w 2033 r. – 573 mln zł;
-- **17)** w 2034 r. – 408 mln zł;
-- **18)** w 2035 r. – 497 mln zł.”.
+- **1)** pkt 9 i 10 otrzymują brzmienie: „9) w 2026 r. – 593 mln zł; 10) w 2027 r. – 625 mln zł;”;
+- **2)** dodaje się pkt 11–18 w brzmieniu: „11) w 2028 r. – 469 mln zł; 12) w 2029 r. – 587 mln zł; 13) w 2030 r. – 617 mln zł; 14) w 2031 r. – 448 mln zł; 15) w 2032 r. – 548 mln zł; 16) w 2033 r. – 573 mln zł; 17) w 2034 r. – 408 mln zł; 18) w 2035 r. – 497 mln zł.”.
 
 **Art. 3.**
 

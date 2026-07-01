@@ -33,11 +33,9 @@ source: pdf
     - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) gruntów rolnych stanowiących użytki rolne klas I–III – wymaga uzyskania zgody ministra właściwego spraw rozwoju wsi;”,
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Stroną w postępowaniu, o którym mowa w ust. 2, jest wójt (burmistrz, prezydent miasta).”;
 
-- **2)** w art. 22b:
+- **2)** w art. 22b: 4. Marszałek województwa jest organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.”.
     - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) odsetki z tytułu należności i opłat, o których mowa w pkt 1–4.”,
     - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).
-
-4. Marszałek województwa jest organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

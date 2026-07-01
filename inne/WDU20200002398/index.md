@@ -29,33 +29,15 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów (Dz. U. z 2019 r. poz. 1771) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa cel i zakres wykorzystania oraz sposób udzielania dotacji przeznaczonej dla następujących podmiotów:
-- **1)** Kopalni Soli Bochnia Spółka z ograniczoną odpowiedzialnością z siedzibą w Bochni,
-- **2)** Kopalni Soli „Wieliczka” Spółka Akcyjna w Wieliczce,
-- **3)** Spółki Restrukturyzacji Kopalń Spółka Akcyjna w Bytomiu,
-- **4)** Muzeum Górnictwa Węglowego w Zabrzu,
-- **5)** Kopalni Siarki „Machów” Spółka Akcyjna w likwidacji w Tarnobrzegu – lub następców prawnych tych podmiotów.”;
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa cel i zakres wykorzystania oraz sposób udzielania dotacji przeznaczonej dla następujących podmiotów: 1) Kopalni Soli Bochnia Spółka z ograniczoną odpowiedzialnością z siedzibą w Bochni, 2) Kopalni Soli „Wieliczka” Spółka Akcyjna w Wieliczce, 3) Spółki Restrukturyzacji Kopalń Spółka Akcyjna w Bytomiu, 4) Muzeum Górnictwa Węglowego w Zabrzu, 5) Kopalni Siarki „Machów” Spółka Akcyjna w likwidacji w Tarnobrzegu – lub następców prawnych tych podmiotów.”;
 - **2)** w art. 3 w ust. 3 uchyla się pkt 4;
 - **3)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Umowa, o której mowa w ust. 1, określa w szczególności opis zadania lub działania, w tym cel, na jaki dotacja została przyznana, termin jego wykonania, wysokość udzielonej dotacji, termin wykorzystania dotacji, termin i sposób rozliczenia udzielonej dotacji, termin zwrotu niewykorzystanej części dotacji oraz tryb kontroli wykonania zadań lub działań.”;
-- **4)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Przyznana przez ministra właściwego do spraw gospodarki złożami kopalin dotacja jest wypłacana w transzach, na specjalnie w tym celu wyodrębniony przez podmiot, o którym mowa w art. 1, rachunek bankowy.
-
-2. Podstawę do wypłacenia transzy dotacji stanowi przedstawienie przez podmiot, o którym mowa w art. 1:
-
-- **1)** wniosku o wypłacenie transzy dotacji wynikającej z:
-    - **a)** rocznego planu zadań, o którym mowa w art. 5 ust. 1 pkt 2 lit. b i ust. 2, albo
-    - **b)** rocznego planu działań, o którym mowa w art. 5 ust. 3 i 3a;
-
-- **2)** sprawozdania, o którym mowa w art. 10 ust. 1.”;
+- **4)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Przyznana przez ministra właściwego do spraw gospodarki złożami kopalin dotacja jest wypłacana w transzach, na specjalnie w tym celu wyodrębniony przez podmiot, o którym mowa w art. 1, rachunek bankowy. 2. Podstawę do wypłacenia transzy dotacji stanowi przedstawienie przez podmiot, o którym mowa w art. 1: 1) wniosku o wypłacenie transzy dotacji wynikającej z: a) rocznego planu zadań, o którym mowa w art. 5 ust. 1 pkt 2 lit. b i ust. 2, albo b) rocznego planu działań, o którym mowa w art. 5 ust. 3 i 3a; 2) sprawozdania, o którym mowa w art. 10 ust. 1.”;
 - **5)** w art. 10:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot, o którym mowa w art. 1, składa ministrowi właściwemu do spraw gospodarki złożami kopalin sprawozdanie miesięczne zawierające rozliczenie rzeczowo-finansowe zrealizowanych zadań lub wykonanych działań, w terminie do 25. dnia miesiąca następującego po miesiącu, objętym tym sprawozdaniem.”,
     - **b)** uchyla się ust. 2;
 
-- **6)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Agencja Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie, na zlecenie ministra właściwego do spraw gospodarki złożami kopalin, realizuje zadania związane z monitorowaniem prawidłowości wykorzystania dotacji przeznaczonej na cele określone w ustawie.
-
-2. Zadania, o których mowa w ust. 1, są finansowane z dotacji z budżetu państwa.
-
-3. Podstawą przyznania dotacji na realizację zadań, o których mowa w ust. 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki złożami kopalin a Agencją Rozwoju Przemysłu Spółką Akcyjną z siedzibą w Warszawie.”;
-
+- **6)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Agencja Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie, na zlecenie ministra właściwego do spraw gospodarki złożami kopalin, realizuje zadania związane z monitorowaniem prawidłowości wykorzystania dotacji przeznaczonej na cele określone w ustawie. 2. Zadania, o których mowa w ust. 1, są finansowane z dotacji z budżetu państwa. 3. Podstawą przyznania dotacji na realizację zadań, o których mowa w ust. 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki złożami kopalin a Agencją Rozwoju Przemysłu Spółką Akcyjną z siedzibą w Warszawie.”;
 - **7)** art. 13 otrzymuje brzmienie: „Art. 13. Dotacje na zadania określone w ustawie są przekazywane podmiotom, o których mowa w art. 1, do dnia 31 grudnia 2027 r.”.
 
 **Art. 2.** Do umów zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.

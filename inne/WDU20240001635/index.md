@@ -29,9 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176) wprowadza się następujące zmiany:
 
-- **1)** w art. 12 ust. 12 otrzymuje brzmienie: „12. Zwolnienie i ulga, o których mowa w:
-- **1)** ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie;
-- **2)** ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”;
+- **1)** w art. 12 ust. 12 otrzymuje brzmienie: „12. Zwolnienie i ulga, o których mowa w: 1) ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie; 2) ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”;
 - **2)** w art. 13f ust. 2 otrzymuje brzmienie: „2. Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388) w art. 16b w ust. 12 w pkt 5 lit. e otrzymuje brzmienie: „e) wysokości przyznanej pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jaką płatnik lub rolnik otrzymał w okresie wskazanym odpowiednio w art. 37 ust. 1 pkt 1 albo ust. 2 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635),”.
@@ -72,13 +70,10 @@ source: pdf
     - **a)** w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku wniosku o przyznanie premii termomodernizacyjnej wraz z grantem termomodernizacyjnym do wniosku, oprócz składanych w przypadku grantu termomodernizacyjnego udzielanego jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się dokumenty poświadczające:”,
     - **b)** uchyla się ust. 1b;
 
-- **3)** w art. 14:
+- **3)** w art. 14: b) uchyla się ust. 1a.
     - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:”, – uchyla się pkt 3,
-    - **b)** uchyla się ust. 1a.
 
-**Art. 14.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2024 r. poz. 1004) w art. 4a w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie: „a) udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis albo
-
-- **b)** w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
+**Art. 14.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2024 r. poz. 1004) w art. 4a w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie: „a) udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis albo b) w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
 
 **Art. 15.** W ustawie z dnia 12 sierpnia 2010 r. o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r. (Dz. U. z 2016 r. poz. 519) wprowadza się następujące zmiany:
 

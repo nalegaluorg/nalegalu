@@ -29,28 +29,12 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2015 r. poz. 812, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 12a ust. 1 otrzymuje brzmienie: „1. Dział informatyzacja obejmuje sprawy:
-- **1)** informatyzacji administracji publicznej oraz podmiotów wykonujących zadania publiczne;
-- **2)** systemów i sieci teleinformatycznych administracji publicznej;
-- **3)** wspierania inwestycji w dziedzinie informatyzacji;
-- **4)** realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji i telekomunikacji;
-- **5)** udziału w kształtowaniu polityki Unii Europejskiej w zakresie informatyzacji;
-- **6)** rozwoju społeczeństwa informacyjnego i przeciwdziałania wykluczeniu cyfrowemu;
-- **7)** rozwoju usług świadczonych drogą elektroniczną;
-- **8)** kształtowania polityki państwa w zakresie ochrony danych osobowych;
-- **9)** telekomunikacji;
-- **10)** bezpieczeństwa cyberprzestrzeni;
-- **11)** rejestru PESEL, Rejestru Dowodów Osobistych, Rejestru Stanu Cywilnego oraz Centralnej Ewidencji Wydanych i Unieważnionych Dokumentów Paszportowych;
-- **12)** ewidencji pojazdów, ewidencji kierowców oraz ewidencji posiadaczy kart parkingowych.”;
-- **2)** w art. 29 w ust. 1 pkt 9 i 10 otrzymują brzmienie: „9) ewidencji ludności, dowodów osobistych i paszportów, w zakresie ustalonym w ustawach;
-- **10)** rejestracji stanu cywilnego w zakresie ustalonym w ustawie oraz zmiany imion i nazwisk.”.
+- **1)** w art. 12a ust. 1 otrzymuje brzmienie: „1. Dział informatyzacja obejmuje sprawy: 1) informatyzacji administracji publicznej oraz podmiotów wykonujących zadania publiczne; 2) systemów i sieci teleinformatycznych administracji publicznej; 3) wspierania inwestycji w dziedzinie informatyzacji; 4) realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji i telekomunikacji; 5) udziału w kształtowaniu polityki Unii Europejskiej w zakresie informatyzacji; 6) rozwoju społeczeństwa informacyjnego i przeciwdziałania wykluczeniu cyfrowemu; 7) rozwoju usług świadczonych drogą elektroniczną; 8) kształtowania polityki państwa w zakresie ochrony danych osobowych; 9) telekomunikacji; 10) bezpieczeństwa cyberprzestrzeni; 11) rejestru PESEL, Rejestru Dowodów Osobistych, Rejestru Stanu Cywilnego oraz Centralnej Ewidencji Wydanych i Unieważnionych Dokumentów Paszportowych; 12) ewidencji pojazdów, ewidencji kierowców oraz ewidencji posiadaczy kart parkingowych.”;
+- **2)** w art. 29 w ust. 1 pkt 9 i 10 otrzymują brzmienie: „9) ewidencji ludności, dowodów osobistych i paszportów, w zakresie ustalonym w ustawach; 10) rejestracji stanu cywilnego w zakresie ustalonym w ustawie oraz zmiany imion i nazwisk.”.
 
 **Art. 2.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 827, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 49 ust. 2f otrzymuje brzmienie: „2f. Do pozyskiwania danych ze zbiorów, o których mowa w ust. 2a, nie wymaga się odrębnego żądania, zapytania lub wniosku w tej sprawie, a ich przekazywanie następuje bezpłatnie w sposób ustalony w porozumieniu zawartym między Ministrem Obrony Narodowej i, w zakresie:
-- **1)** rejestru PESEL – z ministrem właściwym do spraw informatyzacji;
-- **2)** centralnej ewidencji kierowców – z ministrem właściwym do spraw informatyzacji;
-- **3)** Krajowego Rejestru Karnego – z Ministrem Sprawiedliwości.”;
+- **1)** w art. 49 ust. 2f otrzymuje brzmienie: „2f. Do pozyskiwania danych ze zbiorów, o których mowa w ust. 2a, nie wymaga się odrębnego żądania, zapytania lub wniosku w tej sprawie, a ich przekazywanie następuje bezpłatnie w sposób ustalony w porozumieniu zawartym między Ministrem Obrony Narodowej i, w zakresie: 1) rejestru PESEL – z ministrem właściwym do spraw informatyzacji; 2) centralnej ewidencji kierowców – z ministrem właściwym do spraw informatyzacji; 3) Krajowego Rejestru Karnego – z Ministrem Sprawiedliwości.”;
 - **2)** w art. 208 w ust. 4 w pkt 1 lit. b otrzymuje brzmienie: „b) jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych odpowiednio przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego,”.
 
 **Art. 3.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm. ) użyte w art. 39 w ust. 6c i w art. 43a w ust. 3 w różnych przypadkach wyrazy „minister właściwy do spraw łączności” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw informatyzacji”.
@@ -79,21 +63,11 @@ source: pdf
 
 **Art. 12.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 76: 2–3, oraz wzory dowodu rejestracyjnego, pozwolenia czasowego, nalepki kontrolnej, tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis,
+- **1)** w art. 76: a) warunki i tryb rejestracji pojazdów, czasowej rejestracji pojazdów, wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory dowodu rejestracyjnego, pozwolenia czasowego, nalepki kontrolnej, tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis, b) warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń czasowych i nalepek kontrolnych, c) szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania;”, – pkt 3 otrzymuje brzmienie: „3) w porozumieniu z ministrem właściwym do spraw informatyzacji, szczegółowe czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzory dokumentów w tych sprawach.”, 2a. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także jednostki organizacyjne właściwe w tych sprawach. 3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw informatyzacji oraz Ministrem Obrony Narodowej oraz po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Biura Ochrony Rządu, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, kontroli skarbowej i Służby Celnej, a także jednostki organizacyjne właściwe w tych sprawach.”;
     - **a)** w ust. 1: – pkt 1otrzymuje brzmienie: „1) w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej:
-    - **a)** warunki i tryb rejestracji pojazdów, czasowej rejestracji pojazdów, wyrejestrowania pojazdów, z zastrzeżeniem ust.
-    - **b)** warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń czasowych i nalepek kontrolnych,
-    - **c)** szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania;”, – pkt 3 otrzymuje brzmienie: „3) w porozumieniu z ministrem właściwym do spraw informatyzacji, szczegółowe czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzory dokumentów w tych sprawach.”,
     - **b)** ust. 2–3 otrzymują brzmienie: „2. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust. 2b, a także jednostki organizacyjne właściwe w tych sprawach.
 
-2a. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także jednostki organizacyjne właściwe w tych sprawach.
-
-3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw informatyzacji oraz Ministrem Obrony Narodowej oraz po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Biura Ochrony Rządu, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, kontroli skarbowej i Służby Celnej, a także jednostki organizacyjne właściwe w tych sprawach.”;
-
-- **2)** w art. 80a ust. 3 i 4 otrzymują brzmienie: „3. W ewidencji wyodrębnia się zbiór danych i informacji o pojazdach, o których mowa w art. 73 ust. 3, poprzez jego umieszczenie w odrębnym środowisku informatycznym, spełniającym wymogi w zakresie bezpieczeństwa teleinformatycznego, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228 oraz z 2015 r. poz. 21 i 1224).
-
-4. Ewidencję prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym. W rozumieniu niniejszej ustawy minister ten jest administratorem danych i informacji zgromadzonych w ewidencji.”;
-
+- **2)** w art. 80a ust. 3 i 4 otrzymują brzmienie: „3. W ewidencji wyodrębnia się zbiór danych i informacji o pojazdach, o których mowa w art. 73 ust. 3, poprzez jego umieszczenie w odrębnym środowisku informatycznym, spełniającym wymogi w zakresie bezpieczeństwa teleinformatycznego, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228 oraz z 2015 r. poz. 21 i 1224). 4. Ewidencję prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym. W rozumieniu niniejszej ustawy minister ten jest administratorem danych i informacji zgromadzonych w ewidencji.”;
 - **3)** w art. 80c:
     - **a)** w ust. 1 uchyla się pkt 17,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Dane lub informacje o pojazdach, o których mowa w art. 73 ust. 3, udostępnia się wyłącznie podmiotom określonym w ust. 1 pkt 1–8 oraz w ust. 2a.”,
@@ -138,24 +112,16 @@ source: pdf
 - **3)** w art. 110 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw łączności i ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, regulamin organizacji i działania sądów polubownych przy Prezesie UKE, w tym:”;
 - **4)** tytuł działu X otrzymuje brzmienie: „Organy właściwe w sprawach telekomunikacji i poczty i postępowanie przed Prezesem UKE”;
 - **5)** w dziale X tytuł rozdziału 1 otrzymuje brzmienie: „Organy właściwe w sprawach telekomunikacji i poczty”;
-- **6)** w art. 189:
+- **6)** w art. 189: 1) telekomunikacji są minister właściwy do spraw informatyzacji i Prezes UKE; 2) poczty są minister właściwy do spraw łączności i Prezes UKE.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Organami właściwymi w sprawach:
-
-- **1)** telekomunikacji są minister właściwy do spraw informatyzacji i Prezes UKE;
-- **2)** poczty są minister właściwy do spraw łączności i Prezes UKE.”,
     - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Organy właściwe w sprawach telekomunikacji prowadzą politykę regulacyjną, mając na celu w szczególności:”;
 
-- **7)** w art. 190:
+- **7)** w art. 190: 2a. Minister właściwy do spraw łączności opiniuje sprawozdanie w zakresie działalności pocztowej i przekazuje opinię ministrowi właściwemu do spraw informatyzacji w terminie 20 dni od przedstawienia sprawozdania przez Prezesa UKE.”, 2c. Prezes UKE przekazuje na żądanie ministra właściwego do spraw informatyzacji i ministra właściwego do spraw łączności informacje o swojej działalności.”,
     - **a)** ust. 2 i 2a otrzymują brzmienie: „2. Prezes UKE składa ministrowi właściwemu do spraw informatyzacji oraz ministrowi właściwemu do spraw łączności, w celu zaopiniowania, coroczne sprawozdanie ze swojej działalności regulacyjnej oraz realizacji polityki rządu i wspólnotowej polityki telekomunikacyjnej, za rok poprzedni, w terminie do dnia 30 kwietnia.
+    - **b)** po ust. 2a dodaje się ust. 2b i 2c w brzmieniu: „2b. Minister właściwy do spraw informatyzacji, w terminie miesiąca od dnia przedstawienia sprawozdania przez Prezesa UKE, przekazuje Prezesowi Rady Ministrów sprawozdanie wraz z opinią własną i ministra właściwego do spraw łączności.
+    - **c)** ust. 4b otrzymuje brzmienie: „4b. Informację o odwołaniu Prezesa UKE wskazującą powody jego odwołania podaje się do publicznej wiadomości przez ogłoszenie jej treści na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji i ministra właściwego do spraw łączności.”,
+    - **d)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw informatyzacji, na wniosek Prezesa UKE, powołuje zastępców Prezesa UKE do spraw telekomunikacyjnych i, po zasięgnięciu opinii ministra właściwego do spraw łączności, do spraw pocztowych, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw informatyzacji odwołuje zastępcę Prezesa UKE, na wniosek Prezesa UKE, wyłącznie w przypadkach, o których mowa w ust. 4a, lub w przypadku zaprzestania spełniania wymagań, o których mowa w ust. 8a.”;
 
-2a. Minister właściwy do spraw łączności opiniuje sprawozdanie w zakresie działalności pocztowej i przekazuje opinię ministrowi właściwemu do spraw informatyzacji w terminie 20 dni od przedstawienia sprawozdania przez Prezesa UKE.”,
-
-- **b)** po ust. 2a dodaje się ust. 2b i 2c w brzmieniu: „2b. Minister właściwy do spraw informatyzacji, w terminie miesiąca od dnia przedstawienia sprawozdania przez Prezesa UKE, przekazuje Prezesowi Rady Ministrów sprawozdanie wraz z opinią własną i ministra właściwego do spraw łączności.
-
-2c. Prezes UKE przekazuje na żądanie ministra właściwego do spraw informatyzacji i ministra właściwego do spraw łączności informacje o swojej działalności.”,
-
-- **c)** ust. 4b otrzymuje brzmienie: „4b. Informację o odwołaniu Prezesa UKE wskazującą powody jego odwołania podaje się do publicznej wiadomości przez ogłoszenie jej treści na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji i ministra właściwego do spraw łączności.”,
-- **d)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw informatyzacji, na wniosek Prezesa UKE, powołuje zastępców Prezesa UKE do spraw telekomunikacyjnych i, po zasięgnięciu opinii ministra właściwego do spraw łączności, do spraw pocztowych, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Minister właściwy do spraw informatyzacji odwołuje zastępcę Prezesa UKE, na wniosek Prezesa UKE, wyłącznie w przypadkach, o których mowa w ust. 4a, lub w przypadku zaprzestania spełniania wymagań, o których mowa w ust. 8a.”;
 - **8)** w art. 192 w ust. 1 pkt 3 otrzymuje brzmienie: „3) opracowywanie wskazanych przez ministra właściwego do spraw informatyzacji projektów aktów prawnych w zakresie telekomunikacji oraz wskazanych przez ministra właściwego do spraw łączności projektów aktów prawnych w zakresie poczty;”;
 - **9)** w art. 193 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii ministra właściwego do spraw łączności, w drodze zarządzenia, nadaje statut UKE, określając jego komórki organizacyjne.”.
 
@@ -170,8 +136,7 @@ source: pdf
 
 **Art. 22.** W ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2015 r. poz. 651, 1066 i 1991) wprowadza się następujące zmiany:
 
-- **1)** w art. 49 w ust. 5 pkt 7 i 8 otrzymują brzmienie: „7) numer PESEL;
-- **8)** numer paszportu w odniesieniu do lekarza z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i lekarza cudzoziemca, który nie posiada numeru PESEL, albo w przypadku nieposiadania paszportu – numer innego dokumentu potwierdzającego tożsamość;”;
+- **1)** w art. 49 w ust. 5 pkt 7 i 8 otrzymują brzmienie: „7) numer PESEL; 8) numer paszportu w odniesieniu do lekarza z innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej i lekarza cudzoziemca, który nie posiada numeru PESEL, albo w przypadku nieposiadania paszportu – numer innego dokumentu potwierdzającego tożsamość;”;
 - **2)** w art. 50 w ust. 1 pkt 2 otrzymuje brzmienie: „2) rejestru PESEL;”;
 - **3)** w art. 51 pkt 2 otrzymuje brzmienie: „2) rejestru PESEL oraz z rejestru, o którym mowa w art. 50 ust. 1 pkt 3, na wniosek Naczelnej Izby Lekarskiej, nieodpłatnie.”.
 
@@ -184,22 +149,7 @@ source: pdf
 **Art. 26.** W ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 pkt 9 otrzymuje brzmienie: „9) kompetencje ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw informatyzacji, wojewodów, organów gmin oraz konsulów Rzeczypospolitej Polskiej w zakresie spraw, o których mowa w pkt 4–8.”;
-- **2)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Właściwi miejscowo wojewodowie:
-- **1)** sprawują nadzór nad organami gmin w zakresie realizacji zadań określonych w ustawie;
-- **2)** są organami odwoławczymi od decyzji wydawanych przez organy gmin.
-
-2. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody w zakresie realizacji obowiązków określonych w ustawie.
-
-3. Sprawowanie nadzoru, o którym mowa w ust. 2, polega na:
-
-- **1)** przeprowadzaniu kontroli, w tym na badaniu:
-    - **a)** prawidłowości prowadzonych przez wojewodę postępowań administracyjnych,
-    - **b)** terminowości załatwiania spraw z zakresu spraw określonych w ustawie;
-
-- **2)** kształtowaniu jednolitej polityki w zakresie realizacji obowiązków określonych w ustawie i kontroli wykonywania ustalonych sposobów postępowania.
-
-4. Kontrola, o której mowa w ust. 3 pkt 1, jest wykonywana na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. Nr 185, poz. 1092).”;
-
+- **2)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Właściwi miejscowo wojewodowie: 1) sprawują nadzór nad organami gmin w zakresie realizacji zadań określonych w ustawie; 2) są organami odwoławczymi od decyzji wydawanych przez organy gmin. 2. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody w zakresie realizacji obowiązków określonych w ustawie. 3. Sprawowanie nadzoru, o którym mowa w ust. 2, polega na: 1) przeprowadzaniu kontroli, w tym na badaniu: a) prawidłowości prowadzonych przez wojewodę postępowań administracyjnych, b) terminowości załatwiania spraw z zakresu spraw określonych w ustawie; 2) kształtowaniu jednolitej polityki w zakresie realizacji obowiązków określonych w ustawie i kontroli wykonywania ustalonych sposobów postępowania. 4. Kontrola, o której mowa w ust. 3 pkt 1, jest wykonywana na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. Nr 185, poz. 1092).”;
 - **3)** art. 53 otrzymuje brzmienie: „Art. 53. Minister właściwy do spraw informatyzacji prowadzi w formie elektronicznej wykaz unieważnionych dowodów osobistych zawierający serie i numery unieważnionych dokumentów oraz serie i numery błędnie spersonalizowanych lub utraconych blankietów dowodów osobistych.”;
 - **4)** w art. 54 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:”;
 - **5)** w art. 55 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw informatyzacji prowadzi Rejestr Dowodów Osobistych.”;
@@ -210,27 +160,15 @@ source: pdf
 
 **Art. 27.** W ustawie z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2015 r. poz. 388, 1337 i 1864) wprowadza się następujące zmiany:
 
-- **1)** w art. 5:
+- **1)** w art. 5: 4. Sprawowanie nadzoru, o którym mowa w ust. 3, polega na: 1) przeprowadzaniu kontroli, w tym na badaniu: a) prawidłowości prowadzonych przez wojewodę postępowań administracyjnych, b) terminowości załatwiania spraw z zakresu spraw określonych w ustawie; 2) kształtowaniu jednolitej polityki w zakresie realizacji obowiązków określonych w ustawie i kontroli wykonywania ustalonych sposobów postępowania. 5. Kontrola, o której mowa w ust. 4 pkt 1, jest wykonywana na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. Nr 185, poz. 1092).”;
     - **a)** ust. 2 otrzymuje brzmienie: „2. Wojewoda sprawuje nadzór nad działalnością organów gmin w zakresie realizacji obowiązków określonych w ustawie.”,
     - **b)** dodaje się ust. 3–5 w brzmieniu: „3. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody w zakresie realizacji obowiązków określonych w ustawie.
-
-4. Sprawowanie nadzoru, o którym mowa w ust. 3, polega na:
-
-- **1)** przeprowadzaniu kontroli, w tym na badaniu:
-    - **a)** prawidłowości prowadzonych przez wojewodę postępowań administracyjnych,
-    - **b)** terminowości załatwiania spraw z zakresu spraw określonych w ustawie;
-
-- **2)** kształtowaniu jednolitej polityki w zakresie realizacji obowiązków określonych w ustawie i kontroli wykonywania ustalonych sposobów postępowania.
-
-5. Kontrola, o której mowa w ust. 4 pkt 1, jest wykonywana na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. Nr 185, poz. 1092).”;
 
 - **2)** w art. 6 ust. 1 otrzymuje brzmienie: „1. Rejestr PESEL jest centralnym zbiorem danych, o których mowa w art. 8, prowadzonym przez ministra właściwego do spraw informatyzacji.”;
 - **3)** w art. 13 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2015 r. poz. 1929 i 2023), określi, w drodze rozporządzenia:”;
 - **4)** w art. 39 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:”;
 - **5)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. Ministrowi właściwemu do spraw wewnętrznych udostępnia się dane z rejestru PESEL, w zakresie niezbędnym do realizacji jego ustawowych zadań, za pomocą urządzeń teletransmisji danych, bez konieczności składania wniosku. Udostępnienie nie wymaga decyzji ministra właściwego do spraw informatyzacji.”;
-- **6)** w art. 50 ust. 1 otrzymuje brzmienie: „1. Dane z rejestru PESEL udostępnia:
-- **1)** minister właściwy do spraw informatyzacji – za pomocą urządzeń teletransmisji danych, w tym w drodze weryfikacji, oraz jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 2 pkt 2;
-- **2)** minister właściwy do spraw wewnętrznych, jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 1 i ust. 2 pkt 1 i 3.”;
+- **6)** w art. 50 ust. 1 otrzymuje brzmienie: „1. Dane z rejestru PESEL udostępnia: 1) minister właściwy do spraw informatyzacji – za pomocą urządzeń teletransmisji danych, w tym w drodze weryfikacji, oraz jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 2 pkt 2; 2) minister właściwy do spraw wewnętrznych, jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 1 i ust. 2 pkt 1 i 3.”;
 - **7)** w art. 52 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:”;
 - **8)** w art. 53 pkt 1 otrzymuje brzmienie: „1) dla podmiotów, o których mowa w art. 46 ust. 1, oraz ministra właściwego do spraw wewnętrznych – nieodpłatnie;”;
 - **9)** użyte w art. 14, w art. 16 w ust. 3, w art. 17 w ust. 2, w art. 18 w ust. 4, w art. 20, w art. 23, w art. 51 w ust. 2, w art. 57 w ust. 1 i 3, w art. 58 i w art. 77, w różnym przypadku, wyrazy „minister właściwy do spraw wewnętrznych” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw informatyzacji”.
@@ -276,14 +214,8 @@ source: pdf
 - **4)** w art. 54 ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty urodzenia oraz wzór karty martwego urodzenia, sporządzanych w formie dokumentu elektronicznego, uwzględniając przejrzystość i kompletność wymaganych danych.”;
 - **5)** w art. 114 w pkt 2 w lit. c ust. 4c otrzymuje brzmienie: „4c. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty zgonu, w tym sporządzanej w formie dokumentu elektronicznego oraz sposób jej wypełnienia, uwzględniając zakres danych konieczny do sporządzenia aktu zgonu i do umożliwienia pochówku osoby zmarłej oraz zakres danych wymaganych dla potrzeb statystyki publicznej.”;
 - **6)** w art. 126 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, sposób przenoszenia aktów stanu cywilnego sporządzonych na podstawie przepisów dotychczasowych do rejestru stanu cywilnego uwzględniając potrzebę zachowania integralności dotychczasowych aktów stanu cywilnego.”;
-- **7)** w art. 144 ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty urodzenia, o której mowa w ust. 1, oraz wzór karty martwego urodzenia, o której mowa w ust. 2, w tym sporządzanych w formie dokumentów elektronicznych, uwzględniając przejrzystość i kompletność wymaganych danych.
-
-7. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty zgonu, o której mowa w ust. 3, w tym sporządzanej w formie dokumentu elektronicznego, uwzględniając zakres danych konieczny do sporządzenia aktu zgonu oraz umożliwienia pochówku osoby zmarłej.”;
-
-- **8)** art. 146 otrzymuje brzmienie: „Art. 146. 1. Minister właściwy do spraw wewnętrznych i minister właściwy do spraw informatyzacji po 2 latach obowiązywania niniejszej ustawy, w terminie do dnia 30 kwietnia 2017 r., przeprowadzą analizę wpływu rozwiązań przyjętych w ustawie na funkcjonowanie urzędów stanu cywilnego.
-
-2. Minister właściwy do spraw wewnętrznych i minister właściwy do spraw informatyzacji przedstawią Radzie Ministrów oraz wojewodom informację o wyniku analizy, o której mowa w ust. 1, w terminie miesiąca od dnia sporządzenia analizy.”;
-
+- **7)** w art. 144 ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty urodzenia, o której mowa w ust. 1, oraz wzór karty martwego urodzenia, o której mowa w ust. 2, w tym sporządzanych w formie dokumentów elektronicznych, uwzględniając przejrzystość i kompletność wymaganych danych. 7. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wzór karty zgonu, o której mowa w ust. 3, w tym sporządzanej w formie dokumentu elektronicznego, uwzględniając zakres danych konieczny do sporządzenia aktu zgonu oraz umożliwienia pochówku osoby zmarłej.”;
+- **8)** art. 146 otrzymuje brzmienie: „Art. 146. 1. Minister właściwy do spraw wewnętrznych i minister właściwy do spraw informatyzacji po 2 latach obowiązywania niniejszej ustawy, w terminie do dnia 30 kwietnia 2017 r., przeprowadzą analizę wpływu rozwiązań przyjętych w ustawie na funkcjonowanie urzędów stanu cywilnego. 2. Minister właściwy do spraw wewnętrznych i minister właściwy do spraw informatyzacji przedstawią Radzie Ministrów oraz wojewodom informację o wyniku analizy, o której mowa w ust. 1, w terminie miesiąca od dnia sporządzenia analizy.”;
 - **9)** użyte w art. 19 w ust. 3 i w art. 145 w ust. 12, w różnym przypadku, wyrazy „minister właściwy do spraw wewnętrznych” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw informatyzacji”.
 
 **Art. 36.** W ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. poz. 1272) w art. 13 w ust. 3 pkt 10 otrzymuje brzmienie: „10) ministra właściwego do spraw informatyzacji;”.

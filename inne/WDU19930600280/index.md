@@ -27,12 +27,7 @@ source: pdf
 
 **Art. 1.** W art. 39 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz.U. z 1991 r. Nr 18, poz. 80, Nr 75, poz. 329, Nr 101, poz. 444 i Nr 107, poz. 464 oraz z 1993 r. Nr 18, poz. 82) wprowadza się następujące zmiany:
 
-- **1)** ust. 2 otrzymuje brzmienie: "2. Odprawa nie przysługuje, gdy odwołanie nastąpiło:
-- **1)** na wniosek dyrektora,
-- **2)** z przyczyn określonych w art. 37a ust. 1,
-- **3)** z przyczyn uzasadniających rozwiązanie stosunku pracy bez wypowiedzenia z winy pracownika oraz z przyczyn, o których mowa w art. 42,
-- **4)** w związku z likwidacją przedsiębiorstwa, podziałem bądź ogłoszeniem jego upadłości,
-- **5)** w związku z przejściem dyrektora na emeryturę lub rentę i nabyciem przez niego uprawnień do otrzymania jednorazowej odprawy pieniężnej z tego tytułu.";
+- **1)** ust. 2 otrzymuje brzmienie: "2. Odprawa nie przysługuje, gdy odwołanie nastąpiło: 1) na wniosek dyrektora, 2) z przyczyn określonych w art. 37a ust. 1, 3) z przyczyn uzasadniających rozwiązanie stosunku pracy bez wypowiedzenia z winy pracownika oraz z przyczyn, o których mowa w art. 42, 4) w związku z likwidacją przedsiębiorstwa, podziałem bądź ogłoszeniem jego upadłości, 5) w związku z przejściem dyrektora na emeryturę lub rentę i nabyciem przez niego uprawnień do otrzymania jednorazowej odprawy pieniężnej z tego tytułu.";
 - **2)** ust. 3 otrzymuje brzmienie: "3. Odprawa nie przysługuje, jeżeli po ustaniu stosunku pracy odwołany dyrektor powołany został na stanowisko tymczasowego kierownika przedsiębiorstwa lub przyjął obowiązki zarządcy komisarycznego bądź zarządcy przedsiębiorstwa.";
 - **3)** dodaje się ust. 4 w brzmieniu: "4. Odprawę wypłaca się w dniu rozwiązania stosunku pracy.".
 

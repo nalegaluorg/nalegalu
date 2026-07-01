@@ -27,13 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000481) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/481/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm. ) w art. 10 po § 1 dodaje się § 1a–1d w brzmieniu: „§ 1a. Sąd rejonowy tworzy się dla obszaru jednej lub większej liczby gmin zamieszkałych przez co najmniej 50 000 mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego, z zastrzeżeniem § 1b–1d.
-
-§ 1b. Sąd rejonowy może być utworzony dla jednej lub większej liczby gmin zamieszkałych przez mniejszą niż 50 000 liczbę mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego.
-
-§ 1c. Sąd rejonowy może być utworzony według kryteriów określonych w § 1b tylko wtedy, gdy zmiana obszaru właściwości sądu rejonowego właściwego dla tej gminy lub gmin nie spowoduje, że istniejący sąd rejonowy nie będzie spełniał kryteriów określonych w § 1a lub 1b.
-
-§ 1d. Sąd rejonowy może zostać zniesiony, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających w ciągu kolejnych 3 lat nie przekracza 5000 w każdym roku kalendarzowym.”.
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r. poz. 427, z późn. zm. ) w art. 10 po § 1 dodaje się § 1a–1d w brzmieniu: „§ 1a. Sąd rejonowy tworzy się dla obszaru jednej lub większej liczby gmin zamieszkałych przez co najmniej 50 000 mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego, z zastrzeżeniem § 1b–1d. § 1b. Sąd rejonowy może być utworzony dla jednej lub większej liczby gmin zamieszkałych przez mniejszą niż 50 000 liczbę mieszkańców, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających do istniejącego sądu rejonowego z obszaru tej gminy lub kilku gmin wynosi co najmniej 5000 w ciągu roku kalendarzowego. § 1c. Sąd rejonowy może być utworzony według kryteriów określonych w § 1b tylko wtedy, gdy zmiana obszaru właściwości sądu rejonowego właściwego dla tej gminy lub gmin nie spowoduje, że istniejący sąd rejonowy nie będzie spełniał kryteriów określonych w § 1a lub 1b. § 1d. Sąd rejonowy może zostać zniesiony, jeżeli łączna liczba spraw cywilnych, karnych oraz rodzinnych i nieletnich wpływających w ciągu kolejnych 3 lat nie przekracza 5000 w każdym roku kalendarzowym.”.
 
 **Art. 2.**
 

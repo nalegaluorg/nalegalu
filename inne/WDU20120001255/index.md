@@ -32,12 +32,10 @@ source: pdf
 - **1)** w art. 15b ust. 2 otrzymuje brzmienie: „2. Jednorazowa zapomoga przysługuje matce lub ojcu dziecka, opiekunowi prawnemu albo opiekunowi faktycznemu dziecka, jeżeli dochód rodziny w przeliczeniu na osobę nie przekracza kwoty 1922,00 zł. Przepisy art. 5 ust. 4–4b, 7–9 i 11 stosuje się odpowiednio.”;
 - **2)** uchyla się art. 15c;
 - **3)** w art. 18 ust. 1 otrzymuje brzmienie: „1. Kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych podlegają weryfikacji co 3 lata, z uwzględnieniem wyników badań progu wsparcia dochodowego rodzin.”;
-- **4)** w art. 19:
+- **4)** w art. 19: 5. Wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia Prezesa Rady Ministrów, w terminie do dnia 15 sierpnia roku, w którym przeprowadza się weryfikację.”.
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) propozycje wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2;”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Trójstronna Komisja do Spraw Społeczno-Gospodarczych, po otrzymaniu propozycji i informacji Rady Ministrów, uzgadnia wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, w terminie do dnia 15 czerwca danego roku kalendarzowego.”,
     - **c)** ust. 4 i 5 otrzymują brzmienie: „4. W przypadku gdy Trójstronna Komisja do Spraw Społeczno-Gospodarczych nie uzgodni w terminie, o którym mowa w ust. 2, wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych, Rada Ministrów ustala kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, w drodze rozporządzenia, w terminie do dnia 15 sierpnia danego roku, na poziomie nie niższym niż wynika to z propozycji, o których mowa w ust. 1 pkt 1 i 2.
-
-5. Wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia Prezesa Rady Ministrów, w terminie do dnia 15 sierpnia roku, w którym przeprowadza się weryfikację.”.
 
 **Art. 2.**
 

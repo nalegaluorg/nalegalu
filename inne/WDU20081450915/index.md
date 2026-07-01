@@ -32,20 +32,7 @@ source: pdf
 - **1)** w art. 30 ust. 2 otrzymuje brzmienie: „2. Produkcja i przetwarzanie wyrobów akcyzowych zharmonizowanych mogą odbywać się wyłącznie w składzie podatkowym, z wyłączeniem produkcji win gronowych uzyskanych z winogron pochodzących z upraw własnych, o których mowa w art. 16 ust. 3 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm. ), w ilości mniejszej niż 1000 hl w ciągu roku kalendarzowego.”;
 - **2)** w art. 87 ust. 1 otrzymuje brzmienie: „1. Wyroby akcyzowe podlegające obowiązkowi oznaczania znakami akcyzy muszą być prawidłowo oznaczone odpowiednimi znakami akcyzy przed zakończeniem procedury zawieszenia poboru akcyzy, a w przypadku win gronowych, o których mowa w art. 30 ust. 2, przed ich przekazaniem do magazynu wyrobów gotowych lub dokonaniem ich sprzedaży.”.
 
-**Art. 2.** W ustawie z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm. ) po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Podmiot, o którym mowa w art. 16 ust. 3, który na podstawie przepisów o podatku akcyzowym nie podlega obowiązkowi produkcji wina gronowego w składzie podatkowym, jest obowiązany spełniać następujące warunki:
-
-- **1)** opracować w formie pisemnej oraz wdrożyć system kontroli wewnętrznej wyrobu i rozlewu wina gronowego, obejmujący określenie:
-    - **a)** częstotliwości i sposobu pobierania próbek jakościowych,
-    - **b)** metod badań,
-    - **c)** sposobu postępowania z winami gronowymi nieodpowiadającymi wymaganiom jakościowym,
-    - **d)** zabezpieczania i usuwania odpadów powstających podczas produkcji;
-
-- **2)** wyznaczyć osobę odpowiedzialną za kontrolę jakości wyrabianego i rozlewanego wina gronowego.
-
-2. Wyrób i rozlew wina gronowego uzyskanego z winogron pochodzących z upraw własnych z przeznaczeniem do obrotu może wykonywać podmiot, o którym mowa w ust. 1:
-
-- **1)** posiadający tytuł prawny do obiektów budowlanych, w których jest prowadzony wyrób wina lub moszczu gronowego;
-- **2)** niekarany za przestępstwa przeciwko mieniu i wiarygodności dokumentów, a w przypadku podmiotu będącego osobą prawną - którego członek zarządu nie był karany za przestępstwa przeciwko mieniu i wiarygodności dokumentów.”.
+**Art. 2.** W ustawie z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292, z późn. zm. ) po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Podmiot, o którym mowa w art. 16 ust. 3, który na podstawie przepisów o podatku akcyzowym nie podlega obowiązkowi produkcji wina gronowego w składzie podatkowym, jest obowiązany spełniać następujące warunki: 1) opracować w formie pisemnej oraz wdrożyć system kontroli wewnętrznej wyrobu i rozlewu wina gronowego, obejmujący określenie: a) częstotliwości i sposobu pobierania próbek jakościowych, b) metod badań, c) sposobu postępowania z winami gronowymi nieodpowiadającymi wymaganiom jakościowym, d) zabezpieczania i usuwania odpadów powstających podczas produkcji; 2) wyznaczyć osobę odpowiedzialną za kontrolę jakości wyrabianego i rozlewanego wina gronowego. 2. Wyrób i rozlew wina gronowego uzyskanego z winogron pochodzących z upraw własnych z przeznaczeniem do obrotu może wykonywać podmiot, o którym mowa w ust. 1: 1) posiadający tytuł prawny do obiektów budowlanych, w których jest prowadzony wyrób wina lub moszczu gronowego; 2) niekarany za przestępstwa przeciwko mieniu i wiarygodności dokumentów, a w przypadku podmiotu będącego osobą prawną - którego członek zarządu nie był karany za przestępstwa przeciwko mieniu i wiarygodności dokumentów.”.
 
 **Art. 3.**
 

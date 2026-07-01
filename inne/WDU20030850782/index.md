@@ -29,11 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz.U. Nr 57, poz. 507) wprowadza się następujące zmiany:
 
-- **1)** w art. 32:
+- **1)** w art. 32: a) liczbę niewykorzystanych kart do głosowania, b) liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie osób uprawnionych do udziału w referendum, c) liczbę kart wydanych - na podstawie podpisów osób w spisie osób uprawnionych do udziału w referendum.”,
     - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) ustala protokolarnie:
-    - **a)** liczbę niewykorzystanych kart do głosowania,
-    - **b)** liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie osób uprawnionych do udziału w referendum,
-    - **c)** liczbę kart wydanych - na podstawie podpisów osób w spisie osób uprawnionych do udziału w referendum.”,
     - **b)** dodaje się ust. 4a w brzmieniu: „4a. Dane, o których mowa w ust. 2 pkt 2, komisja obwodowa podaje niezwłocznie do wiadomości publicznej, po wykonaniu czynności, o których mowa w ust. 4, przez wywieszenie protokołu, w miejscu łatwo dostępnym dla zainteresowanych, w budynku, w którym mieści się siedziba komisji; przepis art. 25 ust. 4 stosuje się odpowiednio. Wzór protokołu ustala, w drodze uchwały, Państwowa Komisja Wyborcza.”;
 
 - **2)** w art. 41:

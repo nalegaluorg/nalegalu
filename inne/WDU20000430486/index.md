@@ -29,14 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz.U. Nr 133, poz. 884 i Nr 158, poz. 1043, z 1998 r. Nr 113, poz. 714 oraz z 1999 r. Nr 40, poz. 401) wprowadza się następujące zmiany:
 
-- **1)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Wojewoda przesyła kopię zezwolenia, o którym mowa w art. 4 ust. 1, oraz dane dotyczące formy zapewnienia pokrycia kosztów i zwrotu wpłat, o których mowa w art. 5 ust. 1 pkt 2, ministrowi właściwemu do spraw turystyki.
-
-2. Minister właściwy do spraw turystyki, na podstawie zezwoleń i danych dotyczących formy zapewnienia pokrycia kosztów i zwrotu wpłat, o których mowa w ust. 1, prowadzi centralny rejestr zezwoleń, zwany dalej „rejestrem”.
-
-3. Wpisu do rejestru dokonuje się z urzędu, na podstawie zezwoleń i danych, o których mowa w ust. 1.
-
-4. Minister właściwy do spraw turystyki, w drodze rozporządzenia, określa szczegółowe zasady i tryb prowadzenia centralnego rejestru zezwoleń, wskazując w szczególności dokumenty i dane, na podstawie których dokonuje się wpisu do rejestru, oraz zakres danych gromadzonych w księdze rejestrowej i jej wzór.”;
-
+- **1)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Wojewoda przesyła kopię zezwolenia, o którym mowa w art. 4 ust. 1, oraz dane dotyczące formy zapewnienia pokrycia kosztów i zwrotu wpłat, o których mowa w art. 5 ust. 1 pkt 2, ministrowi właściwemu do spraw turystyki. 2. Minister właściwy do spraw turystyki, na podstawie zezwoleń i danych dotyczących formy zapewnienia pokrycia kosztów i zwrotu wpłat, o których mowa w ust. 1, prowadzi centralny rejestr zezwoleń, zwany dalej „rejestrem”. 3. Wpisu do rejestru dokonuje się z urzędu, na podstawie zezwoleń i danych, o których mowa w ust. 1. 4. Minister właściwy do spraw turystyki, w drodze rozporządzenia, określa szczegółowe zasady i tryb prowadzenia centralnego rejestru zezwoleń, wskazując w szczególności dokumenty i dane, na podstawie których dokonuje się wpisu do rejestru, oraz zakres danych gromadzonych w księdze rejestrowej i jej wzór.”;
 - **2)** w art. 21:
     - **a)** w ust. 3 skreśla się zdanie drugie,
     - **b)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Minister właś ciwy do spraw turystyki, w drodze rozporządzenia, może określić wykaz miast, w których wykonywanie zadań przewodnika turystycznego wymaga posiadania uprawnień przewodnika miejskiego, uwzględniając szczególne walory turystyczne tych miast.”;

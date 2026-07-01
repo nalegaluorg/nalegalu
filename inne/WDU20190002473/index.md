@@ -30,52 +30,15 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 października 2018 r. o Solidarnościowym Funduszu Wsparcia Osób Niepełnosprawnych (Dz. U. poz. 2192 oraz z 2019 r. poz. 1622 i 1696) wprowadza się następujące zmiany:
 
 - **1)** w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „o Funduszu Solidarnościowym”;
-- **2)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Fundusz Solidarnościowy, zwany dalej „Funduszem”, ma na celu wsparcie:
-- **1)** społeczne, zawodowe, zdrowotne oraz finansowe osób niepełnosprawnych;
-- **2)** finansowe emerytów i rencistów, o którym mowa w przepisach odrębnych.
-
-2. Fundusz może wspierać działania w zakresie zapewnienia dostępności osobom ze szczególnymi potrzebami lub jej poprawy, osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696).
-
-3. Fundusz jest państwowym funduszem celowym, którego dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.”;
-
-- **3)** w art. 3 ust. 1a otrzymuje brzmienie: „1a. Dysponent Funduszu, za zgodą ministra właściwego do spraw finansów publicznych, może zaciągać nieoprocentowane pożyczki, w tym z budżetu państwa, na wypłatę:
-- **1)** świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1622);
-- **2)** jednorazowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **3)** renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2019 r. poz. 1455, 1622 i 1818).”;
-- **4)** art. 6b otrzymuje brzmienie: „Art. 6b. 1. Środki Funduszu przeznacza się również na finansowanie:
-- **1)** świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji;
-- **2)** jednorazowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach;
-- **3)** renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
-
-2. Minister właściwy do spraw zabezpieczenia społecznego przekazuje na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego i Narodowego Funduszu Zdrowia środki Funduszu na finansowanie wydatków, o których mowa w ust. 1, w terminie umożliwiającym wypłatę tych świadczeń.
-
-3. Środki przekazywane do Narodowego Funduszu Zdrowia zgodnie z ust. 2 wynoszą 0,5% kwoty przeznaczonej na wypłatę świadczenia uzupełniającego.
-
-4. Środki, o których mowa w ust. 1, przekazuje się na podstawie umów zawartych między ministrem właściwym do spraw zabezpieczenia społecznego a odpowiednio Prezesem Zakładu Ubezpieczeń Społecznych, Prezesem Kasy Rolniczego Ubezpieczenia Społecznego i Prezesem Narodowego Funduszu Zdrowia.”;
-
+- **2)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Fundusz Solidarnościowy, zwany dalej „Funduszem”, ma na celu wsparcie: 1) społeczne, zawodowe, zdrowotne oraz finansowe osób niepełnosprawnych; 2) finansowe emerytów i rencistów, o którym mowa w przepisach odrębnych. 2. Fundusz może wspierać działania w zakresie zapewnienia dostępności osobom ze szczególnymi potrzebami lub jej poprawy, osobom ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. poz. 1696). 3. Fundusz jest państwowym funduszem celowym, którego dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.”;
+- **3)** w art. 3 ust. 1a otrzymuje brzmienie: „1a. Dysponent Funduszu, za zgodą ministra właściwego do spraw finansów publicznych, może zaciągać nieoprocentowane pożyczki, w tym z budżetu państwa, na wypłatę: 1) świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1622); 2) jednorazowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach; 3) renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2019 r. poz. 1455, 1622 i 1818).”;
+- **4)** art. 6b otrzymuje brzmienie: „Art. 6b. 1. Środki Funduszu przeznacza się również na finansowanie: 1) świadczenia uzupełniającego, kosztów obsługi wypłaty świadczenia uzupełniającego, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji; 2) jednorazowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia, o których mowa w odrębnych przepisach; 3) renty socjalnej, zasiłku pogrzebowego oraz kosztów ich obsługi, o których mowa w art. 14 ust. 1 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej. 2. Minister właściwy do spraw zabezpieczenia społecznego przekazuje na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego i Narodowego Funduszu Zdrowia środki Funduszu na finansowanie wydatków, o których mowa w ust. 1, w terminie umożliwiającym wypłatę tych świadczeń. 3. Środki przekazywane do Narodowego Funduszu Zdrowia zgodnie z ust. 2 wynoszą 0,5% kwoty przeznaczonej na wypłatę świadczenia uzupełniającego. 4. Środki, o których mowa w ust. 1, przekazuje się na podstawie umów zawartych między ministrem właściwym do spraw zabezpieczenia społecznego a odpowiednio Prezesem Zakładu Ubezpieczeń Społecznych, Prezesem Kasy Rolniczego Ubezpieczenia Społecznego i Prezesem Narodowego Funduszu Zdrowia.”;
 - **5)** w art. 18 ust. 3 otrzymuje brzmienie: „3. Środki Funduszu na realizację zadań, o których mowa w art. 6b ust. 1, przekazane na wyodrębnione rachunki bankowe Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego i Narodowego Funduszu Zdrowia stanowią koszty Funduszu.”;
 - **6)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. Do zmian w planie finansowym Funduszu umożliwiających realizację zadań, o których mowa w art. 6b, przepisów art. 29 ust. 11 i 12 oraz art. 52 ust. 2 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się. Zmiany wymagają uzyskania zgody ministra właściwego do spraw finansów publicznych.”;
-- **7)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. W roku 2019 środki na refundację jednorazowego świadczenia pieniężnego dla emerytów i rencistów, o którym mowa w art. 2 ust. 1 ustawy z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. (Dz. U. poz. 743), wypłacone z Funduszu Ubezpieczeń Społecznych stanowią koszty Funduszu.
-
-2. W roku 2019 Fundusz przekazuje środki na refundację świadczenia, o którym mowa w ust. 1, do Funduszu Ubezpieczeń Społecznych.
-
-3. W roku 2019 minister właściwy do spraw finansów publicznych dokonuje wpłaty środków z budżetu państwa do Funduszu Rezerwy Demograficznej, zablokowanych w części 73 – Zakład Ubezpieczeń Społecznych na podstawie art. 177 ust. 1 pkt 3 i ust. 3 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Przepisu art. 177 ust. 6 i 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się.
-
-4. W roku 2019 Funduszowi zostanie udzielona nieoprocentowana pożyczka w kwocie do 9 000 000 tys. zł ze środków Funduszu Rezerwy Demograficznej zgodnie z art. 59 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Zgoda ministra właściwego do spraw finansów publicznych, o której mowa w art. 3 ust. 1a, nie jest wymagana.”;
-
-- **8)** w art. 36 w ust. 1:
+- **7)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. W roku 2019 środki na refundację jednorazowego świadczenia pieniężnego dla emerytów i rencistów, o którym mowa w art. 2 ust. 1 ustawy z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. (Dz. U. poz. 743), wypłacone z Funduszu Ubezpieczeń Społecznych stanowią koszty Funduszu. 2. W roku 2019 Fundusz przekazuje środki na refundację świadczenia, o którym mowa w ust. 1, do Funduszu Ubezpieczeń Społecznych. 3. W roku 2019 minister właściwy do spraw finansów publicznych dokonuje wpłaty środków z budżetu państwa do Funduszu Rezerwy Demograficznej, zablokowanych w części 73 – Zakład Ubezpieczeń Społecznych na podstawie art. 177 ust. 1 pkt 3 i ust. 3 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Przepisu art. 177 ust. 6 i 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się. 4. W roku 2019 Funduszowi zostanie udzielona nieoprocentowana pożyczka w kwocie do 9 000 000 tys. zł ze środków Funduszu Rezerwy Demograficznej zgodnie z art. 59 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Zgoda ministra właściwego do spraw finansów publicznych, o której mowa w art. 3 ust. 1a, nie jest wymagana.”;
+- **8)** w art. 36 w ust. 1: a) 2019 r. – 750 tys. zł, b) 2020 r. – 1750 tys. zł, c) 2021 r. – 1750 tys. zł, d) 2022 r. – 1750 tys. zł, e) 2023 r. – 1750 tys. zł, f) 2024 r. – 1750 tys. zł, g) 2025 r. – 1750 tys. zł, h) 2026 r. – 1750 tys. zł, i) 2027 r. – 1750 tys. zł, j) 2028 r. – 1750 tys. zł;”.
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W latach 2019–2028 maksymalny limit wydatków będących skutkiem finansowym ustawy wynosi łącznie 32 244 tys. zł, z tego:”,
     - **b)** pkt 1 otrzymuje brzmienie: „1) w części 44 – Zabezpieczenie społeczne w:
-    - **a)** 2019 r. – 750 tys. zł,
-    - **b)** 2020 r. – 1750 tys. zł,
-    - **c)** 2021 r. – 1750 tys. zł,
-    - **d)** 2022 r. – 1750 tys. zł,
-    - **e)** 2023 r. – 1750 tys. zł,
-    - **f)** 2024 r. – 1750 tys. zł,
-    - **g)** 2025 r. – 1750 tys. zł,
-    - **h)** 2026 r. – 1750 tys. zł,
-    - **i)** 2027 r. – 1750 tys. zł,
-    - **j)** 2028 r. – 1750 tys. zł;”.
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, z późn. zm. ) wprowadza się następujące zmiany:
 

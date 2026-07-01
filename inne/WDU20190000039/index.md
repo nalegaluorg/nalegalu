@@ -27,12 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
-
-- **1)** 1100,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
-- **2)** 825,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
-
-2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1100,00 zł miesięcznie.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270 i 2245) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 1100,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 825,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1100,00 zł miesięcznie.”.
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2017 r. poz. 2193) w art. 11 ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2629,17 zł.”.
 

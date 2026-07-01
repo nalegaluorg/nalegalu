@@ -30,14 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2023 r. poz. 208) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 pkt 7 otrzymuje brzmienie: „7) emeryturze podstawowej – rozumie się kwotę równą 90% najniższej emerytury określonej w przepisach emerytalnych;”;
-- **2)** po art. 27 dodaje się art. 27a w brzmieniu: „Art. 27a. 1. Do emerytury rolniczej przysługuje dodatek z tytułu opłacania składki, o której mowa w art. 17 ust. 2 lub 4, w wysokości 0,5% emerytury podstawowej za każdy rok opłacania takiej składki.
-
-2. Dodatek, o którym mowa w ust. 1, wypłaca się wraz z emeryturą rolniczą.”;
-
-- **3)** w art. 48 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku zmiany wysokości emerytury podstawowej, wskutek przeprowadzenia corocznej waloryzacji emerytur i rent przysługujących na podstawie przepisów emerytalnych, świadczenie, którego wysokość jest ustalona za pomocą wskaźnika wymiaru, wypłaca się w zmienionej wysokości, z uwzględnieniem terminów tej waloryzacji. O zmianie wysokości tego świadczenia zawiadamia się uprawnionego.
-
-5. Jeżeli wysokość świadczenia, o którym mowa w ust. 4, wypłacanego w zmienionej wysokości jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, przepisy ust. 2a i 2b stosuje się odpowiednio.”;
-
+- **2)** po art. 27 dodaje się art. 27a w brzmieniu: „Art. 27a. 1. Do emerytury rolniczej przysługuje dodatek z tytułu opłacania składki, o której mowa w art. 17 ust. 2 lub 4, w wysokości 0,5% emerytury podstawowej za każdy rok opłacania takiej składki. 2. Dodatek, o którym mowa w ust. 1, wypłaca się wraz z emeryturą rolniczą.”;
+- **3)** w art. 48 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku zmiany wysokości emerytury podstawowej, wskutek przeprowadzenia corocznej waloryzacji emerytur i rent przysługujących na podstawie przepisów emerytalnych, świadczenie, którego wysokość jest ustalona za pomocą wskaźnika wymiaru, wypłaca się w zmienionej wysokości, z uwzględnieniem terminów tej waloryzacji. O zmianie wysokości tego świadczenia zawiadamia się uprawnionego. 5. Jeżeli wysokość świadczenia, o którym mowa w ust. 4, wypłacanego w zmienionej wysokości jest niższa od kwoty najniższej emerytury określonej w przepisach emerytalnych, przepisy ust. 2a i 2b stosuje się odpowiednio.”;
 - **4)** uchyla się art. 48a;
 - **5)** w art. 64 w ust. 3 pkt 4 otrzymuje brzmienie: „4) osoby uprawnione do renty rodzinnej, o których mowa w art. 29 ust. 2 pkt 1 i 2.”.
 

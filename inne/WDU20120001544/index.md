@@ -60,9 +60,7 @@ source: pdf
 - **1)** w ust. 2 uchyla się pkt 4;
 - **2)** ust. 9 otrzymuje brzmienie: „9. Odwołanie eksperta ze stanowiska w przypadkach, o których mowa w ust. 1 oraz ust. 2 pkt 2 i 3, a także w razie złożenia przez eksperta oświadczenia o rezygnacji ze stanowiska jest równoznaczne, z zastrzeżeniem ust. 11, z wypowiedzeniem umowy o pracę lub jej rozwiązaniem za porozumieniem stron.”.
 
-**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) w art. 100 § 4a i 4b otrzymują brzmienie: „§ 4a. W przypadku, o którym mowa w § 1, sędzia w stanie spoczynku otrzymuje jednorazową odprawę z chwilą osiągnięcia wieku 67 lat albo wieku, o którym mowa w art. 69 § 1a.
-
-§ 4b. Sędziemu, który powrócił na stanowisko poprzednio zajmowane albo stanowisko równorzędne poprzednio zajmowanemu w trybie art. 74 § 1a, w razie przejścia lub przeniesienia w stan spoczynku przysługuje jednorazowa odprawa w kwocie stanowiącej różnicę między wysokością odprawy wyliczonej na dzień przejścia lub przeniesienia w stan spoczynku a wysokością odprawy wypłaconej. W przypadku, o którym mowa w § 1, odprawa przysługuje z chwilą osiągnięcia wieku 67 lat albo wieku, o którym mowa w art. 69 § 1a.”.
+**Art. 8.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) w art. 100 § 4a i 4b otrzymują brzmienie: „§ 4a. W przypadku, o którym mowa w § 1, sędzia w stanie spoczynku otrzymuje jednorazową odprawę z chwilą osiągnięcia wieku 67 lat albo wieku, o którym mowa w art. 69 § 1a. § 4b. Sędziemu, który powrócił na stanowisko poprzednio zajmowane albo stanowisko równorzędne poprzednio zajmowanemu w trybie art. 74 § 1a, w razie przejścia lub przeniesienia w stan spoczynku przysługuje jednorazowa odprawa w kwocie stanowiącej różnicę między wysokością odprawy wyliczonej na dzień przejścia lub przeniesienia w stan spoczynku a wysokością odprawy wypłaconej. W przypadku, o którym mowa w § 1, odprawa przysługuje z chwilą osiągnięcia wieku 67 lat albo wieku, o którym mowa w art. 69 § 1a.”.
 
 **Art. 9.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. Nr 98, poz. 1071, z późn. zm. ) w art. 27 w ust. 1 w pkt 3 przecinek zastępuje się kropką i uchyla się pkt 4.
 
@@ -78,12 +76,7 @@ source: pdf
 **Art. 13.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 6 pkt 7 otrzymuje brzmienie: „7) niezdolność do pracy z tytułu wieku – osiągnięcie wieku emerytalnego określonego w art. 24 ust. 1a i 1b oraz w art. 27 ust. 2 i 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm. );”;
-- **2)** w art. 42 ust. 4 i 5 otrzymują brzmienie: „4. Składka na ubezpieczenia emerytalne i rentowe w wysokości określonej przepisami o systemie ubezpieczeń społecznych jest opłacana przez okres sprawowania opieki, nie dłużej jednak niż przez okres niezbędny do uzyskania 25-letniego okresu ubezpieczenia (składkowego i nieskładkowego), z zastrzeżeniem art. 87 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-5. Składka na ubezpieczenia emerytalne i rentowe nie przysługuje osobie, która w dniu złożenia wniosku o przyznanie świadczenia:
-
-- **1)** ukończyła 50 lat i nie posiada okresu ubezpieczenia (składkowego i nieskładkowego) wynoszącego co najmniej 10 lat;
-- **2)** posiada okres ubezpieczenia (składkowy i nieskładkowy) wynoszący 25 lat, z zastrzeżeniem art. 87 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”.
+- **2)** w art. 42 ust. 4 i 5 otrzymują brzmienie: „4. Składka na ubezpieczenia emerytalne i rentowe w wysokości określonej przepisami o systemie ubezpieczeń społecznych jest opłacana przez okres sprawowania opieki, nie dłużej jednak niż przez okres niezbędny do uzyskania 25-letniego okresu ubezpieczenia (składkowego i nieskładkowego), z zastrzeżeniem art. 87 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 5. Składka na ubezpieczenia emerytalne i rentowe nie przysługuje osobie, która w dniu złożenia wniosku o przyznanie świadczenia: 1) ukończyła 50 lat i nie posiada okresu ubezpieczenia (składkowego i nieskładkowego) wynoszącego co najmniej 10 lat; 2) posiada okres ubezpieczenia (składkowy i nieskładkowy) wynoszący 25 lat, z zastrzeżeniem art. 87 ust. 1b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.”.
 
 **Art. 14.** W ustawie z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa (Dz. U. Nr 169, poz. 1417, z późn. zm. ) w art. 52 w ust. 4 uchyla się pkt 1.
 

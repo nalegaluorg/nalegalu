@@ -30,9 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 167a ust. 4 otrzymuje brzmienie: „4. Uczelnia jest obowiązana do sprawdzania pisemnych prac dyplomowych przed egzaminem dyplomowym z wykorzystaniem Jednolitego Systemu Antyplagiatowego, o którym mowa w art. 167c ust. 1.”;
-- **2)** po art. 167b dodaje się art. 167c w brzmieniu: „Art. 167c. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi Jednolity System Antyplagiatowy współpracujący z ogólnopolskim repozytorium pisemnych prac dyplomowych oraz zapewnia uczelniom nieodpłatne korzystanie z tego systemu.
-
-2. Opracowanie systemu, o którym mowa w ust. 1, i administrowanie tym systemem minister właściwy do spraw szkolnictwa wyższego może zlecić instytutowi badawczemu, nadzorowanemu przez ministra właściwego do spraw nauki, którego przedmiot działania jest ściśle związany ze świadczeniem usług w zakresie systemów informacyjnych, zapewniając środki finansowe na ten cel.”.
+- **2)** po art. 167b dodaje się art. 167c w brzmieniu: „Art. 167c. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi Jednolity System Antyplagiatowy współpracujący z ogólnopolskim repozytorium pisemnych prac dyplomowych oraz zapewnia uczelniom nieodpłatne korzystanie z tego systemu. 2. Opracowanie systemu, o którym mowa w ust. 1, i administrowanie tym systemem minister właściwy do spraw szkolnictwa wyższego może zlecić instytutowi badawczemu, nadzorowanemu przez ministra właściwego do spraw nauki, którego przedmiot działania jest ściśle związany ze świadczeniem usług w zakresie systemów informacyjnych, zapewniając środki finansowe na ten cel.”.
 
 **Art. 2.** W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo o szkolnictwie wyższym oraz niektórych innych ustaw (Dz. U. poz. 1198, z 2015 r. poz. 357 oraz z 2016 r. poz. 35) wprowadza się następujące zmiany:
 

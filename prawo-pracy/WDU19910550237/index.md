@@ -33,11 +33,7 @@ source: pdf
     - **c)** dotychczasowy § 3 otrzymuje oznaczenie § 4,
     - **d)** dodaje się § 5 w brzmieniu: "§ 5. Minister Zdrowia i Opieki Społecznej określi w drodze rozporządzenia zasady, tryb częstotliwość dokonywania badań i pomiarów, o których mowa w § 3.";
 
-- **2)** w art. 216 § 3 - 5 otrzymują brzmienie: "§ 3. Pracownik podlega okresowym i kontrolnym badaniom lekarskim przeprowadzanym na koszt zakładu pracy.
-
-§ 4. Badania lekarskie okresowe i kontrolne przeprowadza się w miarę możliwości w godzinach pracy. Za czas niewykonywania pracy pracownik zachowuje prawo do wynagrodzenia, a razie przejazdu na badania okresowe i kontrolne do innej miejscowości przysługuje mu zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych.
-
-§ 5. Do wykonywania pracy można dopuścić pracownika, który okaże aktualne orzeczenie lekarskie, wydane po przeprowadzeniu badań, o których mowa w § 2 i 3.".
+- **2)** w art. 216 § 3 - 5 otrzymują brzmienie: "§ 3. Pracownik podlega okresowym i kontrolnym badaniom lekarskim przeprowadzanym na koszt zakładu pracy. § 4. Badania lekarskie okresowe i kontrolne przeprowadza się w miarę możliwości w godzinach pracy. Za czas niewykonywania pracy pracownik zachowuje prawo do wynagrodzenia, a razie przejazdu na badania okresowe i kontrolne do innej miejscowości przysługuje mu zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych. § 5. Do wykonywania pracy można dopuścić pracownika, który okaże aktualne orzeczenie lekarskie, wydane po przeprowadzeniu badań, o których mowa w § 2 i 3.".
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

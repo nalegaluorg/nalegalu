@@ -31,10 +31,7 @@ source: pdf
 
 - **1)** w art. 5 pkt 2 otrzymuje brzmienie: „2) utrzymywanie Muzeum Książąt Lubomirskich i pomnażanie jego zbiorów w zakresie sztuki i pamiątek historycznych oraz ich opracowywanie i upowszechnianie,”;
 - **2)** art. 8 otrzymuje brzmienie: „Art. 8. Zakład jest następcą prawnym fundacji ustanowionej przez Józefa Maksymiliana Ossolińskiego.”;
-- **3)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Zakład otrzymuje z budżetu państwa dotacje na realizację zadań państwowych:
-- **1)** utrzymywanie zbiorów Narodowej Biblioteki Ossolineum, ich pomnażanie, opracowywanie i upowszechnianie,
-- **2)** utrzymywanie i pomnażanie zbiorów Muzeum Książąt Lubomirskich,
-- **3)** utrzymywanie wydawnictw niekomercyjnych.”;
+- **3)** w art. 11 ust. 2 otrzymuje brzmienie: „2. Zakład otrzymuje z budżetu państwa dotacje na realizację zadań państwowych: 1) utrzymywanie zbiorów Narodowej Biblioteki Ossolineum, ich pomnażanie, opracowywanie i upowszechnianie, 2) utrzymywanie i pomnażanie zbiorów Muzeum Książąt Lubomirskich, 3) utrzymywanie wydawnictw niekomercyjnych.”;
 - **4)** w art. 12 ust. 1 otrzymuje brzmienie: „1. Nadzór nad Zakładem sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”;
 - **5)** w art. 12 ust. 3, art. 13, art. 14 ust. 1 oraz w art. 15 ust. 1 i 2 użyte w różnych przypadkach wyrazy „Minister Edukacji Narodowej” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw kultury i ochrony dziedzictwa narodowego”;
 - **6)** w art. 12 ust. 2, art. 14 ust. 2 oraz w art. 15 ust. 4 wyraz „Ministra” zast ępuje się wyrazem „ministra”.

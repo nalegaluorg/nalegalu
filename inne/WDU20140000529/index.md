@@ -38,22 +38,8 @@ source: pdf
     - **b)** po ust. 3d dodaje się ust. 3e w brzmieniu: „3e. Dane lub informacje zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego, z wyłączeniem danych o właścicielu pojazdu lub o posiadaczu, o którym mowa w art. 73 ust. 5, po podaniu danych identyfikujących pojazd, określonych w przepisach wydanych na podstawie art. 80e ust. 1.”,
     - **c)** ust. 6 otrzymuje brzmienie: „6. Dane lub informacje zgromadzone w ewidencji udostępnia się, z zastrzeżeniem ust. 3e oraz 7, na uzasadniony wniosek zainteresowanego podmiotu złożony w postaci pisemnej lub w postaci elektronicznej z użyciem mechanizmów określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 
-- **3)** w art. 80d ust. 1 otrzymuje brzmienie: „1. Udostępnienie danych lub informacji zgromadzonych w ewidencji następuje:
-- **1)** nieodpłatnie, w przypadku:
-    - **a)** podmiotów, o których mowa w art. 80c ust. 1, 3 i 6a,
-    - **b)** danych lub informacji udostępnianych na podstawie art. 80c ust. 2 i 3e;
-
-- **2)** odpłatnie, w przypadku:
-    - **a)** podmiotów, o których mowa w art. 80c ust. 4,
-    - **b)** danych lub informacji udostępnianych na podstawie art. 80c ust. 5.”;
-
-- **4)** w art. 80e ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** sposób prowadzenia ewidencji,
-- **2)** warunki i sposób współdziałania podmiotów, które przekazują dane lub informacje do ewidencji, a także terminy i sposób przekazywania tych danych lub informacji,
-- **3)** rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione poszczególnym podmiotom, o których mowa w art. 80c ust. 1, 3 i 4,
-- **4)** rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione na podstawie art. 80c ust. 3e i 5,
-- **5)** dane identyfikujące pojazd, o których mowa w art. 80c ust. 3e,
-- **6)** wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia – uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także możliwość zróżnicowania zakresu danych identyfikujących pojazd oraz wysokości opłat w zależności od rodzaju lub zakresu udostępnianych danych lub informacji.”;
+- **3)** w art. 80d ust. 1 otrzymuje brzmienie: „1. Udostępnienie danych lub informacji zgromadzonych w ewidencji następuje: 1) nieodpłatnie, w przypadku: a) podmiotów, o których mowa w art. 80c ust. 1, 3 i 6a, b) danych lub informacji udostępnianych na podstawie art. 80c ust. 2 i 3e; 2) odpłatnie, w przypadku: a) podmiotów, o których mowa w art. 80c ust. 4, b) danych lub informacji udostępnianych na podstawie art. 80c ust. 5.”;
+- **4)** w art. 80e ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji publicznej, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia: 1) sposób prowadzenia ewidencji, 2) warunki i sposób współdziałania podmiotów, które przekazują dane lub informacje do ewidencji, a także terminy i sposób przekazywania tych danych lub informacji, 3) rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione poszczególnym podmiotom, o których mowa w art. 80c ust. 1, 3 i 4, 4) rodzaj lub zakres danych lub informacji zgromadzonych w ewidencji, które mogą być udostępnione na podstawie art. 80c ust. 3e i 5, 5) dane identyfikujące pojazd, o których mowa w art. 80c ust. 3e, 6) wysokość opłat za udostępnienie danych lub informacji zgromadzonych w ewidencji oraz warunki i sposób ich wnoszenia – uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, a także możliwość zróżnicowania zakresu danych identyfikujących pojazd oraz wysokości opłat w zależności od rodzaju lub zakresu udostępnianych danych lub informacji.”;
 - **5)** w art. 100c:
     - **a)** w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) Szefowi Biura Ochrony Rządu;”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Dane zgromadzone w ewidencji udostępnia się, z zastrzeżeniem ust. 5, na umotywowany wniosek zainteresowanego podmiotu złożony w postaci pisemnej lub w postaci elektronicznej z użyciem mechanizmów określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”.

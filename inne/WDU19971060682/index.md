@@ -30,18 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz.U. Nr 85, poz. 388) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 4 otrzymuje brzmienie: "4. Do lokalu mogą przynależeć inne pomieszczenia, choćby nawet do tego lokalu bezpośrednio nie przylegały, a w szczególności piwnica lub strych, zwane dalej "pomieszczeniami przynależnymi", chyba że czynność prawna lub orzeczenie sądu dotyczące odrębnej własności stanowią inaczej.";
-- **2)** art. 3 otrzymuje brzmienie: "Art. 3. 1. W razie wyodrębnienia własności lokali właścicielowi lokalu przysługuje udział w nieruchomości wspólnej jako prawo związane z własnością lokali. Nie można żądać zniesienia współwłasności nieruchomości wspólnej, dopóki trwa odrębna własność lokali.
-
-2. Nieruchomość wspólną stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali.
-
-3. Udział właściciela lokalu wyodrębnionego w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej lokalu wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w budynku. Udział właściciela samodzielnych lokali nie wyodrębnionych w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej tych lokali wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w tym budynku.
-
-4. Do wyznaczenia stosunku, o którym mowa w ust. 3, niezbędne jest określenie, oddzielnie dla każdego samodzielnego lokalu, jego powierzchni użytkowej wraz z powierzchnią pomieszczeń do niego przynależnych.
-
-5. Jeżeli nieruchomość, z której wyodrębnia się własność lokali, stanowi grunt zabudowany kilkoma budynkami, udział właściciela lokalu wyodrębnionego w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej lokalu wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w tych budynkach.
-
-6. W wypadku gdy na podstawie jednej czynności prawnej dokonanej przez wszystkich współwłaścicieli nieruchomości następuje wyodrębnienie wszystkich lokali, wysokość udziałów, o których mowa w ust. 1, określa umowa współwłaścicieli.";
-
+- **2)** art. 3 otrzymuje brzmienie: "Art. 3. 1. W razie wyodrębnienia własności lokali właścicielowi lokalu przysługuje udział w nieruchomości wspólnej jako prawo związane z własnością lokali. Nie można żądać zniesienia współwłasności nieruchomości wspólnej, dopóki trwa odrębna własność lokali. 2. Nieruchomość wspólną stanowi grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali. 3. Udział właściciela lokalu wyodrębnionego w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej lokalu wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w budynku. Udział właściciela samodzielnych lokali nie wyodrębnionych w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej tych lokali wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w tym budynku. 4. Do wyznaczenia stosunku, o którym mowa w ust. 3, niezbędne jest określenie, oddzielnie dla każdego samodzielnego lokalu, jego powierzchni użytkowej wraz z powierzchnią pomieszczeń do niego przynależnych. 5. Jeżeli nieruchomość, z której wyodrębnia się własność lokali, stanowi grunt zabudowany kilkoma budynkami, udział właściciela lokalu wyodrębnionego w nieruchomości wspólnej odpowiada stosunkowi powierzchni użytkowej lokalu wraz z powierzchnią pomieszczeń przynależnych do łącznej powierzchni użytkowej wszystkich lokali wraz z pomieszczeniami do nich przynależnymi, znajdującymi się w tych budynkach. 6. W wypadku gdy na podstawie jednej czynności prawnej dokonanej przez wszystkich współwłaścicieli nieruchomości następuje wyodrębnienie wszystkich lokali, wysokość udziałów, o których mowa w ust. 1, określa umowa współwłaścicieli.";
 - **3)** w art. 18 po ust. 2 dodaje się ust. 2a w brzmieniu: "2a. Zmiana ustalonego w trybie ust. 1 sposobu zarządu nieruchomością wspólną może nastąpić na podstawie uchwały właścicieli lokali sporządzonej w formie aktu notarialnego. Uchwała ta stanowi podstawę wpisu do księgi wieczystej.";
 - **4)** w art. 21 po ust. 2 dodaje się ust. 3 w brzmieniu: "3. Zarząd na podstawie pełnomocnictwa, o którym mowa w art. 22 ust. 3 pkt 8, składa oświadczenia w celu wykonania uchwał w sprawach, o których mowa w art. 22 ust. 3 pkt 5, 5a i 6, ze skutkiem w stosunku do właścicieli wszystkich lokali.";
 - **5)** w art. 22 w ust. 3:
@@ -61,9 +50,7 @@ source: pdf
     - **d)** po ust. 2 dodaje się ust. 3 w brzmieniu: "3. Prawo kontroli działalności zarządu służy każdemu właścicielowi lokalu.";
 
 - **9)** art. 31 otrzymuje brzmienie: "Art. 31. W razie potrzeby zebrania właścicieli mogą być także zwoływane przez zarząd lub na wniosek co najmniej 1/10 ogółu właścicieli.";
-- **10)** art. 32 otrzymuje brzmienie: "Art. 32. 1. O zebraniu właścicieli zarząd zawiadamia każdego właściciela lokalu na piśmie przynajmniej na tydzień przed terminem zebrania.
-
-2. W zawiadomieniu należy podać czas, miejsce i porządek obrad. W wypadku zamierzonej zmiany we wzajemnych prawach i obowiązkach właścicieli lokali należy wskazać treść tej zmiany.".
+- **10)** art. 32 otrzymuje brzmienie: "Art. 32. 1. O zebraniu właścicieli zarząd zawiadamia każdego właściciela lokalu na piśmie przynajmniej na tydzień przed terminem zebrania. 2. W zawiadomieniu należy podać czas, miejsce i porządek obrad. W wypadku zamierzonej zmiany we wzajemnych prawach i obowiązkach właścicieli lokali należy wskazać treść tej zmiany.".
 
 **Art. 3.** art. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -33,24 +33,7 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Lekarz może stwierdzić zgon na podstawie osobiście wykonanych badań i ustaleń.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Lekarz, z wyłączeniem lekarza dentysty, może wystawić kartę zgonu na podstawie dokumentacji badania pośmiertnego przeprowadzonego przez innego lekarza lub inną uprawnioną osobę, a także na podstawie dokumentacji stwierdzenia trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) lub nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów, o których mowa w art. 43a.”;
 
-- **2)** po art. 43 dodaje się art. 43a w brzmieniu: „Art. 43a. 1. Stwierdzenie:
-- **1)** trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu),
-- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów – następuje po przeprowadzeniu przez specjalistów, o których mowa w ust. 5 albo 6, postępowania zgodnego z aktualną wiedzą medyczną, z uwzględnieniem sposobu i kryteriów, o których mowa w ust. 3.
-
-2. Sposób i kryteria, o których mowa w ust. 3, są ustalane zgodnie z aktualną wiedzą medyczną przez specjalistów w odpowiednich dziedzinach medycyny powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia.
-
-3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, sposób i kryteria stwierdzenia:
-
-- **1)** trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu);
-- **2)** nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów.
-
-4. Minister właściwy do spraw zdrowia, nie rzadziej niż raz na 5 lat, powierza specjalistom w odpowiednich dziedzinach medycyny powoływanym i odwoływanym przez tego ministra dokonanie oceny zgodności sposobu i kryteriów, o których mowa w ust. 3, z aktualną wiedzą medyczną.
-
-5. Trwałe nieodwracalne ustanie czynności mózgu (śmierć mózgu) stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie neurologii, neurologii dziecięcej lub neurochirurgii.
-
-6. Nieodwracalne zatrzymanie krążenia poprzedzające pobranie narządów stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie medycyny ratunkowej, chorób wewnętrznych, kardiologii, kardiologii dziecięcej lub pediatrii.
-
-7. Stwierdzenie trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) lub nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów jest równoznaczne ze stwierdzeniem zgonu.”.
+- **2)** po art. 43 dodaje się art. 43a w brzmieniu: „Art. 43a. 1. Stwierdzenie: 1) trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu), 2) nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów – następuje po przeprowadzeniu przez specjalistów, o których mowa w ust. 5 albo 6, postępowania zgodnego z aktualną wiedzą medyczną, z uwzględnieniem sposobu i kryteriów, o których mowa w ust. 3. 2. Sposób i kryteria, o których mowa w ust. 3, są ustalane zgodnie z aktualną wiedzą medyczną przez specjalistów w odpowiednich dziedzinach medycyny powoływanych i odwoływanych przez ministra właściwego do spraw zdrowia. 3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, sposób i kryteria stwierdzenia: 1) trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu); 2) nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów. 4. Minister właściwy do spraw zdrowia, nie rzadziej niż raz na 5 lat, powierza specjalistom w odpowiednich dziedzinach medycyny powoływanym i odwoływanym przez tego ministra dokonanie oceny zgodności sposobu i kryteriów, o których mowa w ust. 3, z aktualną wiedzą medyczną. 5. Trwałe nieodwracalne ustanie czynności mózgu (śmierć mózgu) stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie neurologii, neurologii dziecięcej lub neurochirurgii. 6. Nieodwracalne zatrzymanie krążenia poprzedzające pobranie narządów stwierdza jednomyślnie dwóch lekarzy specjalistów posiadających II stopień specjalizacji lub tytuł specjalisty, w tym jeden specjalista w dziedzinie anestezjologii i intensywnej terapii lub neonatologii, a drugi w dziedzinie medycyny ratunkowej, chorób wewnętrznych, kardiologii, kardiologii dziecięcej lub pediatrii. 7. Stwierdzenie trwałego nieodwracalnego ustania czynności mózgu (śmierci mózgu) lub nieodwracalnego zatrzymania krążenia poprzedzającego pobranie narządów jest równoznaczne ze stwierdzeniem zgonu.”.
 
 **Art. 2.** W ustawie z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991) wprowadza się następujące zmiany:
 

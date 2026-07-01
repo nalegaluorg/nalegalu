@@ -33,54 +33,22 @@ source: pdf
     - **a)** po pkt 18b dodaje się pkt 18c w brzmieniu: „18c) rybołówstwo;”,
     - **b)** po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) sprawy rodziny;”;
 
-- **2)** w art. 6:
+- **2)** w art. 6: b) ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Głównym Geodetą Kraju, Krajową Komisją Uwłaszczeniową oraz, na podstawie kryterium zgodności z prawem, nad działalnością regionalnych izb obrachunkowych.”;
     - **a)** w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) geodezji i kartografii;”, – uchyla się pkt 5,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Głównym Geodetą Kraju, Krajową Komisją Uwłaszczeniową oraz, na podstawie kryterium zgodności z prawem, nad działalnością regionalnych izb obrachunkowych.”;
 
 - **3)** w art. 9a:
     - **a)** w ust. 1 uchyla się pkt 2,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad Głównym Inspektorem Nadzoru Budowlanego.”;
 
-- **4)** art. 12a otrzymuje brzmienie: „Art. 12a. Dział informatyzacja obejmuje sprawy:
-- **1)** informatyzacji administracji publicznej;
-- **2)** systemów i sieci teleinformatycznych administracji publicznej;
-- **3)** technologii i technik informacyjnych;
-- **4)** standardów informatycznych;
-- **5)** wspierania inwestycji w dziedzinie informatyki;
-- **6)** zastosowań technologii informatycznych w społeczeństwie informacyjnym;
-- **7)** rozwoju społeczeństwa informacyjnego;
-- **8)** realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji.”;
+- **4)** art. 12a otrzymuje brzmienie: „Art. 12a. Dział informatyzacja obejmuje sprawy: 1) informatyzacji administracji publicznej; 2) systemów i sieci teleinformatycznych administracji publicznej; 3) technologii i technik informacyjnych; 4) standardów informatycznych; 5) wspierania inwestycji w dziedzinie informatyki; 6) zastosowań technologii informatycznych w społeczeństwie informacyjnym; 7) rozwoju społeczeństwa informacyjnego; 8) realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji.”;
 - **5)** w art. 22:
     - **a)** w ust. 1 w pkt 9 średnik zastępuje się kropką oraz uchyla się pkt 10 i 11,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Ministrowi właściwemu do spraw rolnictwa podlegają Inspekcja Ochrony Roślin i Nasiennictwa, Inspekcja Weterynaryjna oraz Centralny Ośrodek Badania Odmian Roślin Uprawnych.”;
 
-- **6)** po art. 23b dodaje się art. 23c w brzmieniu: „Art. 23c. 1. Dział rybołówstwo obejmuje sprawy:
-- **1)** rybactwa śródlądowego i rybołówstwa morskiego;
-- **2)** racjonalnego gospodarowania żywymi zasobami morza;
-- **3)** gospodarki rybnej i organizacji rynku rybnego;
-- **4)** organizacji producentów rybnych, związków organizacji producentów rybnych i organizacji międzybranżowych.
-
-2. Ministrowi właściwemu do spraw ryboł ówstwa podlegają okręgowi inspektorzy rybołówstwa morskiego.”;
-
+- **6)** po art. 23b dodaje się art. 23c w brzmieniu: „Art. 23c. 1. Dział rybołówstwo obejmuje sprawy: 1) rybactwa śródlądowego i rybołówstwa morskiego; 2) racjonalnego gospodarowania żywymi zasobami morza; 3) gospodarki rybnej i organizacji rynku rybnego; 4) organizacji producentów rybnych, związków organizacji producentów rybnych i organizacji międzybranżowych. 2. Ministrowi właściwemu do spraw ryboł ówstwa podlegają okręgowi inspektorzy rybołówstwa morskiego.”;
 - **7)** w art. 28 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska sprawuje nadzór nad Prezesem Państwowej Agencji Atomistyki, Prezesem Wyższego Urzędu Górniczego, a także nad działalnością Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Państwowego Gospodarstwa Leśnego „Lasy Państwowe”.”;
-- **8)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. Dział sprawy rodziny obejmuje sprawy:
-- **1)** rozwoju i ochrony instytucji małżeństwa, dzieci i rodziny;
-- **2)** rządowych programów wspierania rodziny, w szczególności rodzin znajdujących się w trudnej sytuacji materialnej i społecznej, a także rodzin wielodzietnych lub niepełnych;
-- **3)** przeciwdziałania patologiom i dyskryminacji w rodzinie;
-- **4)** uwarunkowań demograficznych w kraju;
-- **5)** koordynowania i organizowania współpracy organów administracji publicznej, organizacji pozarządowych i instytucji w zakresie realizacji praw rodziny, dzieci i osób starszych potrzebujących wsparcia;
-- **6)** współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny, dzieci, młodzieży, kobiet, mężczyzn i osób starszych.”;
-- **9)** w art. 29 ust. 1 otrzymuje brzmienie: „1. Dział sprawy wewnętrzne obejmuje sprawy:
-- **1)** ochrony bezpieczeństwa i porządku publicznego;
-- **2)** ochrony granicy Państwa, kontroli ruchu granicznego i cudzoziemców;
-- **3)** zarządzania kryzysowego;
-- **4)** obrony cywilnej;
-- **5)** ochrony przeciwpożarowej;
-- **6)** przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu;
-- **7)** nadzoru nad ratownictwem górskim i wodnym;
-- **8)** obywatelstwa;
-- **9)** ewidencji ludności, dowodów osobistych i paszportów;
-- **10)** rejestracji stanu cywilnego oraz zmiany imion i nazwisk.”;
+- **8)** po art. 28 dodaje się art. 28a w brzmieniu: „Art. 28a. Dział sprawy rodziny obejmuje sprawy: 1) rozwoju i ochrony instytucji małżeństwa, dzieci i rodziny; 2) rządowych programów wspierania rodziny, w szczególności rodzin znajdujących się w trudnej sytuacji materialnej i społecznej, a także rodzin wielodzietnych lub niepełnych; 3) przeciwdziałania patologiom i dyskryminacji w rodzinie; 4) uwarunkowań demograficznych w kraju; 5) koordynowania i organizowania współpracy organów administracji publicznej, organizacji pozarządowych i instytucji w zakresie realizacji praw rodziny, dzieci i osób starszych potrzebujących wsparcia; 6) współpracy międzynarodowej dotyczącej realizacji i ochrony praw rodziny, dzieci, młodzieży, kobiet, mężczyzn i osób starszych.”;
+- **9)** w art. 29 ust. 1 otrzymuje brzmienie: „1. Dział sprawy wewnętrzne obejmuje sprawy: 1) ochrony bezpieczeństwa i porządku publicznego; 2) ochrony granicy Państwa, kontroli ruchu granicznego i cudzoziemców; 3) zarządzania kryzysowego; 4) obrony cywilnej; 5) ochrony przeciwpożarowej; 6) przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu; 7) nadzoru nad ratownictwem górskim i wodnym; 8) obywatelstwa; 9) ewidencji ludności, dowodów osobistych i paszportów; 10) rejestracji stanu cywilnego oraz zmiany imion i nazwisk.”;
 - **10)** w art. 31 uchyla się ust. 2;
 - **11)** w art. 33a w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „14) Zakład Ubezpieczeń Społecznych.”.
 
@@ -126,18 +94,13 @@ source: pdf
 **Art. 9.** W ustawie z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. Nr 228, poz. 1947 ) wprowadza się następujące zmiany:
 
 - **1)** w art. 64 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:”;
-- **2)** w art. 73a ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia:
-- **1)** sposób zaliczania złóż (pokładów), ich części lub wyrobisk do poszczególnych stopni (kategorii, klas) zagrożeń,
-- **2)** przypadki, w których zaliczeń może dokonywać kierownik ruchu zakładu górniczego,
-- **3)** kryteria oceny zagrożeń naturalnych, o których mowa w ust. 1, a także szczegółowe zasady zaliczania tych zagrożeń – uwzględniając rodzaj kopaliny, natężenia występowania zagrożeń, przestrzeni występowania zagrożeń i rodzaj zakładu górniczego.”;
+- **2)** w art. 73a ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia: 1) sposób zaliczania złóż (pokładów), ich części lub wyrobisk do poszczególnych stopni (kategorii, klas) zagrożeń, 2) przypadki, w których zaliczeń może dokonywać kierownik ruchu zakładu górniczego, 3) kryteria oceny zagrożeń naturalnych, o których mowa w ust. 1, a także szczegółowe zasady zaliczania tych zagrożeń – uwzględniając rodzaj kopaliny, natężenia występowania zagrożeń, przestrzeni występowania zagrożeń i rodzaj zakładu górniczego.”;
 - **3)** w art. 107:
     - **a)** użyte w ust. 1a i 2 w różnym przypadku wyrazy „minister właściwy do spraw administracji publicznej” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw środowiska”,
     - **b)** ust. 10 otrzymuje brzmienie: „10. Minister właściwy do spraw środowiska, w drodze zarządzenia, nadaje statut Wyższemu Urzędowi Górniczemu, określający jego organizację wewnętrzną.”,
     - **c)** ust. 7 otrzymuje brzmienie: „7. Wiceprezesów Wyższego Urzędu Górniczego powołuje minister właściwy do spraw środowiska, spośród osób należących do państwowego zasobu kadrowego, na wniosek Prezesa Wyższego Urzędu Górniczego. Minister właściwy do spraw środowiska odwołuje Wiceprezesów Wyższego Urzędu Górniczego.”;
 
-- **4)** w art. 108 ust. 4 i 5 otrzymują brzmienie: „4. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw administracji publicznej, w drodze rozporządzenia, tworzy i znosi okręgowe urzędy górnicze oraz ustala ich siedziby i właściwość miejscową zgodnie z podziałem terytorialnym państwa określonym w odrębnych przepisach.
-
-5. Minister właściwy do spraw środowiska, kierując się kryteriami ekonomicznymi oraz uwzględniając efektywność działania urzędów górniczych, może w drodze rozporządzenia tworzyć i znosić specjalistyczne urzędy górnicze obejmujące niektóre dziedziny działalności urzędów górniczych oraz określać ich nazwę, właściwość i siedzibę.”.
+- **4)** w art. 108 ust. 4 i 5 otrzymują brzmienie: „4. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw administracji publicznej, w drodze rozporządzenia, tworzy i znosi okręgowe urzędy górnicze oraz ustala ich siedziby i właściwość miejscową zgodnie z podziałem terytorialnym państwa określonym w odrębnych przepisach. 5. Minister właściwy do spraw środowiska, kierując się kryteriami ekonomicznymi oraz uwzględniając efektywność działania urzędów górniczych, może w drodze rozporządzenia tworzyć i znosić specjalistyczne urzędy górnicze obejmujące niektóre dziedziny działalności urzędów górniczych oraz określać ich nazwę, właściwość i siedzibę.”.
 
 **Art. 10.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74 i Nr 17, poz. 95) wprowadza się następujące zmiany:
 

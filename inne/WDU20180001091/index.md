@@ -34,23 +34,7 @@ source: pdf
     - **b)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Umowa zakładowa nie może przewidywać dłuższego niż 3 lata stażu pracy u danego pracodawcy, uprawniającego do uczestnictwa w programie.”;
 
 - **2)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Pracodawca jest obowiązany do przekazywania pracownikom w sposób zrozumiały, na piśmie, w postaci papierowej lub elektronicznej informacji o warunkach funkcjonowania programu.”;
-- **3)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1. Na wniosek uczestnika programu, jednak nie częściej niż raz w roku, pracodawca niezwłocznie udziela uczestnikowi na piśmie, w postaci papierowej lub elektronicznej, informacji o skutkach prawnych ustania zatrudnienia uczestnika w odniesieniu do środków gromadzonych na jego rachunku. Informacja ta powinna być sporządzona z użyciem jasnego, zwięzłego i zrozumiałego języka.
-
-2. Informacja, o której mowa w ust. 1, zawiera w szczególności:
-
-- **1)** warunki nabycia prawa do wypłaty, wypłaty transferowej i zwrotu zgromadzonych na rachunku uczestnika środków;
-- **2)** wartość zgromadzonych na rachunku uczestnika środków, na dzień sporządzenia informacji;
-- **3)** informację o tym, że w przypadku ustania zatrudnienia u pracodawcy prowadzącego program lub likwidacji programu środki zgromadzone na rachunku pozostają na rachunku i są inwestowane w instytucji finansowej, na zasadach analogicznych jak w przypadku pozostałych uczestników programu;
-- **4)** pouczenie, że w przypadku dokonania zwrotu uczestnik powinien rozważyć zasięgnięcie porady w sprawie zainwestowania środków zgromadzonych na rachunku uczestnika, w celu uzyskania dodatkowego świadczenia emerytalnego.
-
-3. Na wniosek byłego pracownika, jednak nie częściej niż raz w roku, pracodawca prowadzący program niezwłocznie udziela byłemu pracownikowi na piśmie, w postaci papierowej lub elektronicznej, informacji, sporządzonej z użyciem jasnego, zwięzłego i zrozumiałego języka na temat:
-
-- **1)** wartości zgromadzonych na rachunku byłego pracownika środków;
-- **2)** stosowania takich samych zasad co do środków zgromadzonych na rachunku wobec wszystkich uczestników programu.
-
-4. Osobom uprawnionym do otrzymania środków zgromadzonych przez uczestnika programu w przypadku jego śmierci, które zamierzają otrzymać wypłatę środków, o których mowa w ust. 1, pracodawca zmarłego uczestnika programu udostępnia informacje na zasadach określonych w ust. 3.
-
-5. Zarządzający niezwłocznie przekazuje pracodawcy na jego wniosek informacje określone w ust. 2 pkt 2 oraz ust. 3 pkt 1.”.
+- **3)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1. Na wniosek uczestnika programu, jednak nie częściej niż raz w roku, pracodawca niezwłocznie udziela uczestnikowi na piśmie, w postaci papierowej lub elektronicznej, informacji o skutkach prawnych ustania zatrudnienia uczestnika w odniesieniu do środków gromadzonych na jego rachunku. Informacja ta powinna być sporządzona z użyciem jasnego, zwięzłego i zrozumiałego języka. 2. Informacja, o której mowa w ust. 1, zawiera w szczególności: 1) warunki nabycia prawa do wypłaty, wypłaty transferowej i zwrotu zgromadzonych na rachunku uczestnika środków; 2) wartość zgromadzonych na rachunku uczestnika środków, na dzień sporządzenia informacji; 3) informację o tym, że w przypadku ustania zatrudnienia u pracodawcy prowadzącego program lub likwidacji programu środki zgromadzone na rachunku pozostają na rachunku i są inwestowane w instytucji finansowej, na zasadach analogicznych jak w przypadku pozostałych uczestników programu; 4) pouczenie, że w przypadku dokonania zwrotu uczestnik powinien rozważyć zasięgnięcie porady w sprawie zainwestowania środków zgromadzonych na rachunku uczestnika, w celu uzyskania dodatkowego świadczenia emerytalnego. 3. Na wniosek byłego pracownika, jednak nie częściej niż raz w roku, pracodawca prowadzący program niezwłocznie udziela byłemu pracownikowi na piśmie, w postaci papierowej lub elektronicznej, informacji, sporządzonej z użyciem jasnego, zwięzłego i zrozumiałego języka na temat: 1) wartości zgromadzonych na rachunku byłego pracownika środków; 2) stosowania takich samych zasad co do środków zgromadzonych na rachunku wobec wszystkich uczestników programu. 4. Osobom uprawnionym do otrzymania środków zgromadzonych przez uczestnika programu w przypadku jego śmierci, które zamierzają otrzymać wypłatę środków, o których mowa w ust. 1, pracodawca zmarłego uczestnika programu udostępnia informacje na zasadach określonych w ust. 3. 5. Zarządzający niezwłocznie przekazuje pracodawcy na jego wniosek informacje określone w ust. 2 pkt 2 oraz ust. 3 pkt 1.”.
 
 **Art. 2.**
 

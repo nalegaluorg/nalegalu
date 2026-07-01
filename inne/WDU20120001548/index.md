@@ -32,116 +32,20 @@ source: pdf
 - **1)** w art. 2 pkt 2 otrzymuje brzmienie: „2) świadczenia opiekuńcze: zasiłek pielęgnacyjny, specjalny zasiłek opiekuńczy oraz świadczenie pielęgnacyjne;”;
 - **2)** w art. 3 pkt 16 otrzymuje brzmienie: „16) rodzinie – oznacza to odpowiednio następujących członków rodziny: małżonków, rodziców dzieci, opiekuna faktycznego dziecka oraz pozostające na utrzymaniu dzieci w wieku do ukończenia 25. roku życia, a także dziecko, które ukończyło 25. rok życia legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy; do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko;”;
 - **3)** w art. 10 w ust. 5 pkt 4 otrzymuje brzmienie: „4) dziecko zostało umieszczone w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu, oraz w innych przypadkach zaprzestania sprawowania osobistej opieki nad dzieckiem;”;
-- **4)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. Specjalny zasiłek opiekuńczy przysługuje osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2012 r. poz. 788) ciąży obowiązek alimentacyjny, jeżeli rezygnują z zatrudnienia lub innej pracy zarobkowej w związku z koniecznością sprawowania stałej opieki nad osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji.
-
-2. Specjalny zasiłek opiekuńczy przysługuje, jeżeli łączny dochód rodziny osoby sprawującej opiekę oraz rodziny osoby wymagającej opieki w przeliczeniu na osobę nie przekracza kwoty, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 4–9 stosuje się odpowiednio.
-
-3. W przypadku gdy łączny dochód rodziny osoby sprawującej opiekę oraz rodziny osoby wymagającej opieki w przeliczeniu na osobę przekracza kwotę uprawniającą daną osobę do specjalnego zasiłku opiekuńczego o kwotę niższą lub równą kwocie odpowiadającej najniższemu zasiłkowi rodzinnemu przysługującemu w okresie, na który jest ustalany, specjalny zasiłek opiekuńczy przysługuje, jeżeli przysługiwał w poprzednim okresie zasiłkowym. W przypadku przekroczenia dochodu w kolejnym roku kalendarzowym specjalny zasiłek opiekuńczy nie przysługuje.
-
-4. Za dochód rodziny osoby wymagającej opieki, o którym mowa w ust. 2, uważa się dochód następujących członków rodziny:
-
-- **1)** w przypadku gdy osoba wymagająca opieki jest małoletnia: a–d, dzieci w wieku do ukończenia 25. roku życia – z tym że do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, pełnoletniego dziecka posiadającego własne dziecko, a także rodzica osoby wymagającej opieki zobowiązanego tytułem wykonawczym pochodzącym lub zatwierdzonym przez sąd do alimentów na jej rzecz;
-    - **a)** osoby wymagającej opieki,
-    - **b)** rodziców osoby wymagającej opieki,
-    - **c)** małżonka rodzica osoby wymagającej opieki,
-    - **d)** osoby, z którą rodzic osoby wymagającej opieki wychowuje wspólne dziecko,
-    - **e)** pozostających na utrzymaniu osób, o których mowa w lit.
-
-- **2)** w przypadku gdy osoba wymagająca opieki jest pełnoletnia: a–c, dzieci w wieku do ukończenia 25. roku życia – z tym że do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko.
-    - **a)** osoby wymagającej opieki,
-    - **b)** małżonka osoby wymagającej opieki,
-    - **c)** osoby, z którą osoba wymagająca opieki wychowuje wspólne dziecko,
-    - **d)** pozostających na utrzymaniu osób, o których mowa w lit.
-
-5. W przypadku gdy prawo do specjalnego zasiłku opiekuńczego ustala się na osobę znajdującą się pod opieką opiekuna prawnego lub umieszczoną w rodzinie zastępczej spokrewnionej w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. Nr 149, poz. 887, z późn. zm. ), uwzględnia się dochód rodziny osoby sprawującej opiekę oraz dochód osoby wymagającej opieki.
-
-6. Specjalny zasiłek opiekuńczy przysługuje w wysokości 520,00 zł miesięcznie.
-
-7. Specjalny zasiłek opiekuńczy przysługujący za niepełne miesiące kalendarzowe wypłaca się w wysokości 1/30 specjalnego zasiłku opiekuńczego za każdy dzień. Należną kwotę zasiłku zaokrągla się do 10 groszy w górę.
-
-8. Specjalny zasiłek opiekuńczy nie przysługuje, jeżeli:
-
-- **1)** osoba sprawująca opiekę:
-    - **a)** ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalnorentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego lub świadczenia przedemerytalnego,
-    - **b)** podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z innych tytułów,
-    - **c)** ma ustalone prawo do specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego,
-    - **d)** legitymuje się orzeczeniem o znacznym stopniu niepełnosprawności;
-
-- **2)** osoba wymagająca opieki została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej, w rodzinnym domu dziecka albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji, w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu;
-- **3)** na osobę wymagającą opieki inna osoba ma ustalone prawo do wcześniejszej emerytury;
-- **4)** członek rodziny osoby sprawującej opiekę ma ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego;
-- **5)** na osobę wymagającą opieki jest ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, prawo do specjalnego zasiłku opiekuńczego lub prawo do świadczenia pielęgnacyjnego;
-- **6)** na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.”;
-- **5)** w art. 17:
+- **4)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. Specjalny zasiłek opiekuńczy przysługuje osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2012 r. poz. 788) ciąży obowiązek alimentacyjny, jeżeli rezygnują z zatrudnienia lub innej pracy zarobkowej w związku z koniecznością sprawowania stałej opieki nad osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji. 2. Specjalny zasiłek opiekuńczy przysługuje, jeżeli łączny dochód rodziny osoby sprawującej opiekę oraz rodziny osoby wymagającej opieki w przeliczeniu na osobę nie przekracza kwoty, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 4–9 stosuje się odpowiednio. 3. W przypadku gdy łączny dochód rodziny osoby sprawującej opiekę oraz rodziny osoby wymagającej opieki w przeliczeniu na osobę przekracza kwotę uprawniającą daną osobę do specjalnego zasiłku opiekuńczego o kwotę niższą lub równą kwocie odpowiadającej najniższemu zasiłkowi rodzinnemu przysługującemu w okresie, na który jest ustalany, specjalny zasiłek opiekuńczy przysługuje, jeżeli przysługiwał w poprzednim okresie zasiłkowym. W przypadku przekroczenia dochodu w kolejnym roku kalendarzowym specjalny zasiłek opiekuńczy nie przysługuje. 4. Za dochód rodziny osoby wymagającej opieki, o którym mowa w ust. 2, uważa się dochód następujących członków rodziny: 1) w przypadku gdy osoba wymagająca opieki jest małoletnia: a) osoby wymagającej opieki, b) rodziców osoby wymagającej opieki, c) małżonka rodzica osoby wymagającej opieki, d) osoby, z którą rodzic osoby wymagającej opieki wychowuje wspólne dziecko, e) pozostających na utrzymaniu osób, o których mowa w lit. a–d, dzieci w wieku do ukończenia 25. roku życia – z tym że do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, pełnoletniego dziecka posiadającego własne dziecko, a także rodzica osoby wymagającej opieki zobowiązanego tytułem wykonawczym pochodzącym lub zatwierdzonym przez sąd do alimentów na jej rzecz; 2) w przypadku gdy osoba wymagająca opieki jest pełnoletnia: a) osoby wymagającej opieki, b) małżonka osoby wymagającej opieki, c) osoby, z którą osoba wymagająca opieki wychowuje wspólne dziecko, d) pozostających na utrzymaniu osób, o których mowa w lit. a–c, dzieci w wieku do ukończenia 25. roku życia – z tym że do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko. 5. W przypadku gdy prawo do specjalnego zasiłku opiekuńczego ustala się na osobę znajdującą się pod opieką opiekuna prawnego lub umieszczoną w rodzinie zastępczej spokrewnionej w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. Nr 149, poz. 887, z późn. zm. ), uwzględnia się dochód rodziny osoby sprawującej opiekę oraz dochód osoby wymagającej opieki. 6. Specjalny zasiłek opiekuńczy przysługuje w wysokości 520,00 zł miesięcznie. 7. Specjalny zasiłek opiekuńczy przysługujący za niepełne miesiące kalendarzowe wypłaca się w wysokości 1/30 specjalnego zasiłku opiekuńczego za każdy dzień. Należną kwotę zasiłku zaokrągla się do 10 groszy w górę. 8. Specjalny zasiłek opiekuńczy nie przysługuje, jeżeli: 1) osoba sprawująca opiekę: a) ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalnorentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego lub świadczenia przedemerytalnego, b) podlega obowiązkowo ubezpieczeniom emerytalnemu i rentowym z innych tytułów, c) ma ustalone prawo do specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego, d) legitymuje się orzeczeniem o znacznym stopniu niepełnosprawności; 2) osoba wymagająca opieki została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej, w rodzinnym domu dziecka albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji, w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu; 3) na osobę wymagającą opieki inna osoba ma ustalone prawo do wcześniejszej emerytury; 4) członek rodziny osoby sprawującej opiekę ma ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego; 5) na osobę wymagającą opieki jest ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, prawo do specjalnego zasiłku opiekuńczego lub prawo do świadczenia pielęgnacyjnego; 6) na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.”;
+- **5)** w art. 17: 1) matce albo ojcu, 2) opiekunowi faktycznemu dziecka, 3) osobie będącej rodziną zastępczą spokrewnioną w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, 4) innym osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny, z wyjątkiem osób o znacznym stopniu niepełnosprawności – jeżeli nie podejmują lub rezygnują z zatrudnienia lub innej pracy zarobkowej w celu sprawowania opieki nad osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji. 1a. Osobom, o których mowa w ust. 1 pkt 4, innym niż spokrewnione w pierwszym stopniu z osobą wymagającą opieki, przysługuje świadczenie pielęgnacyjne, w przypadku gdy spełnione są łącznie następujące warunki: 1) rodzice osoby wymagającej opieki nie żyją, zostali pozbawieni praw rodzicielskich, są małoletni lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności; 2) nie ma innych osób spokrewnionych w pierwszym stopniu, są małoletnie lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności; 3) nie ma osób, o których mowa w ust. 1 pkt 2 i 3, lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności.”, 1) nie później niż do ukończenia 18. roku życia lub 2) w trakcie nauki w szkole lub w szkole wyższej, jednak nie później niż do ukończenia 25. roku życia.”, 1) osoba sprawująca opiekę: a) ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalnorentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego lub świadczenia przedemerytalnego, b) ma ustalone prawo do specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego; 2) osoba wymagająca opieki: a) pozostaje w związku małżeńskim, chyba że współmałżonek legitymuje się orzeczeniem o znacznym stopniu niepełnosprawności, b) została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej, rodzinnym domu dziecka albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji, w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu; 3) na osobę wymagającą opieki inna osoba ma ustalone prawo do wcześniejszej emerytury; 4) członek rodziny osoby sprawującej opiekę ma ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego; 5) na osobę wymagającą opieki jest ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, prawo do specjalnego zasiłku opiekuńczego lub prawo do świadczenia pielęgnacyjnego; 6) na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.”;
     - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Świadczenie pielęgnacyjne z tytułu rezygnacji z zatrudnienia lub innej pracy zarobkowej przysługuje:
-
-- **1)** matce albo ojcu,
-- **2)** opiekunowi faktycznemu dziecka,
-- **3)** osobie będącej rodziną zastępczą spokrewnioną w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej,
-- **4)** innym osobom, na których zgodnie z przepisami ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy ciąży obowiązek alimentacyjny, z wyjątkiem osób o znacznym stopniu niepełnosprawności – jeżeli nie podejmują lub rezygnują z zatrudnienia lub innej pracy zarobkowej w celu sprawowania opieki nad osobą legitymującą się orzeczeniem o znacznym stopniu niepełnosprawności albo orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji.
-
-1a. Osobom, o których mowa w ust. 1 pkt 4, innym niż spokrewnione w pierwszym stopniu z osobą wymagającą opieki, przysługuje świadczenie pielęgnacyjne, w przypadku gdy spełnione są łącznie następujące warunki:
-
-- **1)** rodzice osoby wymagającej opieki nie żyją, zostali pozbawieni praw rodzicielskich, są małoletni lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności;
-- **2)** nie ma innych osób spokrewnionych w pierwszym stopniu, są małoletnie lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności;
-- **3)** nie ma osób, o których mowa w ust. 1 pkt 2 i 3, lub legitymują się orzeczeniem o znacznym stopniu niepełnosprawności.”,
     - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Świadczenie pielęgnacyjne przysługuje, jeżeli niepełnosprawność osoby wymagającej opieki powstała:
-
-- **1)** nie później niż do ukończenia 18. roku życia lub
-- **2)** w trakcie nauki w szkole lub w szkole wyższej, jednak nie później niż do ukończenia 25. roku życia.”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Świadczenie pielęgnacyjne przysługuje w wysokości 620,00 zł miesięcznie.”,
     - **d)** ust. 5 otrzymuje brzmienie: „5. Świadczenie pielęgnacyjne nie przysługuje, jeżeli:
 
-- **1)** osoba sprawująca opiekę:
-    - **a)** ma ustalone prawo do emerytury, renty, renty rodzinnej z tytułu śmierci małżonka przyznanej w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalnorentowego, renty socjalnej, zasiłku stałego, nauczycielskiego świadczenia kompensacyjnego, zasiłku przedemerytalnego lub świadczenia przedemerytalnego,
-    - **b)** ma ustalone prawo do specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego;
-
-- **2)** osoba wymagająca opieki:
-    - **a)** pozostaje w związku małżeńskim, chyba że współmałżonek legitymuje się orzeczeniem o znacznym stopniu niepełnosprawności,
-    - **b)** została umieszczona w rodzinie zastępczej, z wyjątkiem rodziny zastępczej spokrewnionej, rodzinnym domu dziecka albo, w związku z koniecznością kształcenia, rewalidacji lub rehabilitacji, w placówce zapewniającej całodobową opiekę, w tym w specjalnym ośrodku szkolno-wychowawczym, z wyjątkiem podmiotu wykonującego działalność leczniczą, i korzysta w niej z całodobowej opieki przez więcej niż 5 dni w tygodniu;
-
-- **3)** na osobę wymagającą opieki inna osoba ma ustalone prawo do wcześniejszej emerytury;
-- **4)** członek rodziny osoby sprawującej opiekę ma ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, specjalnego zasiłku opiekuńczego lub świadczenia pielęgnacyjnego;
-- **5)** na osobę wymagającą opieki jest ustalone prawo do dodatku do zasiłku rodzinnego, o którym mowa w art. 10, prawo do specjalnego zasiłku opiekuńczego lub prawo do świadczenia pielęgnacyjnego;
-- **6)** na osobę wymagającą opieki inna osoba jest uprawniona za granicą do świadczenia na pokrycie wydatków związanych z opieką, chyba że przepisy o koordynacji systemów zabezpieczenia społecznego lub dwustronne umowy o zabezpieczeniu społecznym stanowią inaczej.”;
-- **6)** w art. 23:
+- **6)** w art. 23: 16a. 4f. Aktualizację wywiadu, o którym mowa w ust. 4e, przeprowadza się po upływie 6 miesięcy, jeżeli do końca okresu, na który ustalone zostało prawo do specjalnego zasiłku opiekuńczego, pozostało więcej niż 3 miesiące, oraz w każdej sytuacji, gdy zaistnieją wątpliwości co do spełniania warunków, o których mowa w art. 16a. 4g. Przepisy ust. 4e i 4f stosuje się odpowiednio, w przypadku gdy organ właściwy upoważnił do prowadzenia postępowania w sprawie świadczeń rodzinnych kierownika ośrodka pomocy społecznej lub innej jednostki organizacyjnej gminy, lub inną osobę na wniosek kierownika ośrodka pomocy społecznej, lub innej jednostki organizacyjnej gminy.”, 1) wniosków o ustalenie prawa do świadczeń rodzinnych, 2) zaświadczenia z urzędu skarbowego, o którym mowa w ust. 4 pkt 1, 3) oświadczeń o dochodach rodziny, w tym oświadczeń osób rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, oraz innych oświadczeń i dowodów niezbędnych do ustalenia prawa do świadczeń rodzinnych, 4) kwestionariusza wywiadu, o którym mowa w ust. 4a – kierując się koniecznością ujednolicenia procedur oraz zapewnienia stosownej dokumentacji niezbędnej do sprawnej realizacji świadczeń rodzinnych.”, 1) dane dotyczące osób pobierających świadczenia rodzinne: a) imię i nazwisko, b) datę urodzenia, c) adres zamieszkania lub pobytu, d) miejsce zamieszkania lub pobytu, e) numer ewidencyjny PESEL, f) numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL, g) stan cywilny, h) obywatelstwo, i) stopień pokrewieństwa z członkami rodziny, j) rodzaj szkoły, do której uczęszcza dziecko, na które jest pobierane świadczenie rodzinne, lub osoba ucząca się, k) stan zdrowia, l) liczbę, rodzaj i wysokość wypłaconych świadczeń, m) płeć, n) dochody; 2) wartości udzielonych świadczeń.”, Organy właściwe i samorządy województw przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 7.”;
     - **a)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) osoby występującej o przyznanie świadczeń rodzinnych, w tym: imię, nazwisko, datę urodzenia, numer PESEL, a w razie gdy nie nadano numeru PESEL – numer dokumentu potwierdzającego tożsamość;”,
     - **b)** ust. 4aa otrzymuje brzmienie: „4aa. Jeżeli w stosunku do osoby ubiegającej się o świadczenie pielęgnacyjne lub osoby pobierającej to świadczenie wystąpią wątpliwości dotyczące okoliczności, o których mowa w art. 17, organ właściwy może zwrócić się do kierownika ośrodka pomocy społecznej o przeprowadzenie rodzinnego wywiadu środowiskowego, o którym mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, z późn. zm. ), w celu weryfikacji okoliczności, o których mowa w art. 17.”,
     - **c)** po ust. 4d dodaje się ust. 4e–4g w brzmieniu: „4e. Ustalając prawo do specjalnego zasiłku opiekuńczego, organ właściwy zwraca się do kierownika ośrodka pomocy społecznej o przeprowadzenie rodzinnego wywiadu środowiskowego, o którym mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, w celu weryfikacji okoliczności dotyczących spełniania warunków, o których mowa w art.
-
-16a.
-
-4f. Aktualizację wywiadu, o którym mowa w ust. 4e, przeprowadza się po upływie 6 miesięcy, jeżeli do końca okresu, na który ustalone zostało prawo do specjalnego zasiłku opiekuńczego, pozostało więcej niż 3 miesiące, oraz w każdej sytuacji, gdy zaistnieją wątpliwości co do spełniania warunków, o których mowa w art. 16a.
-
-4g. Przepisy ust. 4e i 4f stosuje się odpowiednio, w przypadku gdy organ właściwy upoważnił do prowadzenia postępowania w sprawie świadczeń rodzinnych kierownika ośrodka pomocy społecznej lub innej jednostki organizacyjnej gminy, lub inną osobę na wniosek kierownika ośrodka pomocy społecznej, lub innej jednostki organizacyjnej gminy.”,
-
-- **d)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób i tryb postępowania w sprawach o przyznanie świadczeń rodzinnych oraz wzory:
-- **1)** wniosków o ustalenie prawa do świadczeń rodzinnych,
-- **2)** zaświadczenia z urzędu skarbowego, o którym mowa w ust. 4 pkt 1,
-- **3)** oświadczeń o dochodach rodziny, w tym oświadczeń osób rozliczających się na podstawie przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, oraz innych oświadczeń i dowodów niezbędnych do ustalenia prawa do świadczeń rodzinnych,
-- **4)** kwestionariusza wywiadu, o którym mowa w ust. 4a – kierując się koniecznością ujednolicenia procedur oraz zapewnienia stosownej dokumentacji niezbędnej do sprawnej realizacji świadczeń rodzinnych.”,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, sposób i tryb postępowania w sprawach o przyznanie świadczeń rodzinnych oraz wzory:
     - **e)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw rodziny jest obowiązany utworzyć rejestr centralny obejmujący następujące informacje gromadzone na podstawie przepisów ustawy przez organy właściwe i samorządy województw podczas realizacji zadań w zakresie świadczeń rodzinnych:
-
-- **1)** dane dotyczące osób pobierających świadczenia rodzinne:
-    - **a)** imię i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania lub pobytu,
-    - **d)** miejsce zamieszkania lub pobytu,
-    - **e)** numer ewidencyjny PESEL,
-    - **f)** numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL,
-    - **g)** stan cywilny,
-    - **h)** obywatelstwo,
-    - **i)** stopień pokrewieństwa z członkami rodziny,
-    - **j)** rodzaj szkoły, do której uczęszcza dziecko, na które jest pobierane świadczenie rodzinne, lub osoba ucząca się,
-    - **k)** stan zdrowia,
-    - **l)** liczbę, rodzaj i wysokość wypłaconych świadczeń,
-    - **m)** płeć,
-    - **n)** dochody;
-
-- **2)** wartości udzielonych świadczeń.”, Organy właściwe i samorządy województw przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust.
     - **f)** dodaje się ust. 9 w brzmieniu: „9. Informacje, o których mowa w ust. 8, mogą być przetwarzane przez ministra właściwego do spraw zabezpieczenia społecznego na zasadach określonych w przepisach ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm. ).
-
-7. ”;
 
 - **7)** w art. 24:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prawo do świadczeń rodzinnych ustala się na okres zasiłkowy, z wyjątkiem świadczeń, o których mowa w art. 9, art. 14–16 i art. 17.”,
@@ -173,20 +77,16 @@ source: pdf
 
 **Art. 6.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 66:
+- **1)** w art. 66: 33.”;
     - **a)** w ust. 1: – pkt 28 otrzymuje brzmienie: „28) osoby pobierające specjalny zasiłek opiekuńczy lub dodatek do zasiłku rodzinnego z tytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania, przyznane na podstawie przepisów o świadczeniach rodzinnych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”, – po pkt 28 dodaje się pkt 28a w brzmieniu: „28a) osoby pobierające świadczenie pielęgnacyjne, przyznane na podstawie przepisów o świadczeniach rodzinnych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Status członka rodziny osoby ubezpieczonej oraz status członka rodziny będącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji zwalnia z obowiązku ubezpieczenia zdrowotnego osoby, o których mowa w ust. 1 pkt 17–20, 26–28a, 30 i
-
-33. ”;
 
 - **2)** w art. 68 w ust. 4 pkt 3 otrzymuje brzmienie: „3) osobę, o której mowa w art. 3 ust. 2 pkt 1–4, stanowi kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych.”;
 - **3)** w art. 73 pkt 10 otrzymuje brzmienie: „10) osób, o których mowa w art. 66 ust. 1 pkt 28 i 28a, obejmuje okres od dnia przyznania świadczenia pielęgnacyjnego, specjalnego zasiłku opiekuńczego lub dodatku do zasiłku rodzinnego z tytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania do dnia utraty prawa do ich pobierania;”;
 - **4)** w art. 75 ust. 11 otrzymuje brzmienie: „11. Osoby, o których mowa w art. 66 ust. 1 pkt 28 i 28a, zgłasza do ubezpieczenia zdrowotnego wójt, burmistrz lub prezydent miasta.”;
-- **5)** w art. 81:
+- **5)** w art. 81: 11) osób, o których mowa w art. 66 ust. 1 pkt 33, jest kwota odpowiadająca kwocie faktycznie otrzymanych alimentów, nie wyższa jednak od wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”,
     - **a)** ust. 4 otrzymuje brzmienie: „4. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 2 i 4, stanowi kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych.”,
     - **b)** w ust. 8: – pkt 3 otrzymuje brzmienie: „3) osób, o których mowa w art. 66 ust. 1 pkt 17–20, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”, – pkt 9 otrzymuje brzmienie: „9) osób, o których mowa w art. 66 ust. 1 pkt 28 i 31, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”, – po pkt 9a dodaje się pkt 9b w brzmieniu: „9b) osób, o których mowa w art. 66 ust. 1 pkt 28a, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”, – pkt 10 i 11 otrzymują brzmienie: „10) osób, o których mowa w art. 66 ust. 1 pkt 32, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;
-
-- **11)** osób, o których mowa w art. 66 ust. 1 pkt 33, jest kwota odpowiadająca kwocie faktycznie otrzymanych alimentów, nie wyższa jednak od wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych;”,
     - **c)** ust. 10 otrzymuje brzmienie: „10. Podstawą wymiaru składek na ubezpieczenie zdrowotne dla osób, o których mowa w art. 66 ust. 1 pkt 1 lit. f i pkt 21, z wyłączeniem osób duchownych będących podatnikami podatku dochodowego od osób fizycznych lub zryczałtowanego podatku dochodowego od przychodów osób duchownych, jest kwota odpowiadająca wysokości specjalnego zasiłku opiekuńczego przysługującego na podstawie przepisów o świadczeniach rodzinnych.”;
 
 - **6)** w art. 86 w ust. 1 pkt 9 otrzymuje brzmienie: „9) osób, o których mowa w art. 66 ust. 1 pkt 28 i 28a, opłaca wójt, burmistrz lub prezydent miasta;”.
@@ -196,46 +96,8 @@ source: pdf
 **Art. 8.** W ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2012 r. poz. 1228) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w pkt 12 wprowadzenie do wyliczenia otrzymuje brzmienie: „rodzinie – oznacza to odpowiednio następujących członków rodziny: rodziców osoby uprawnionej, małżonka rodzica osoby uprawnionej, osobę, z którą rodzic osoby uprawnionej wychowuje wspólne dziecko, pozostające na ich utrzymaniu dzieci w wieku do ukończenia 25. roku życia oraz dziecko, które ukończyło 25. rok życia otrzymujące świadczenia z funduszu alimentacyjnego lub legitymujące się orzeczeniem o znacznym stopniu niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy, o których mowa w przepisach ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ), a także osobę uprawnioną; do rodziny nie zalicza się:”;
-- **2)** w art. 15:
+- **2)** w art. 15: 1) dane dotyczące osób uprawnionych i członków ich rodzin: a) imię i nazwisko, b) datę urodzenia, c) adres zamieszkania lub pobytu, d) miejsce zamieszkania lub pobytu, e) numer ewidencyjny PESEL, f) numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL, g) stan cywilny, h) obywatelstwo, i) stopień pokrewieństwa z członkami rodziny, j) rodzaj szkoły, do której uczęszcza osoba uprawniona, k) stan zdrowia, l) liczbę, rodzaj i wysokość wypłaconych świadczeń, m) płeć, n) dochody, o) wysokości zasądzonych alimentów, p) poziom egzekucji zasądzonych alimentów; 2) dane dotyczące dłużników alimentacyjnych i podejmowanych wobec nich działań: a) imię i nazwisko, b) datę urodzenia, c) adres zamieszkania lub pobytu, d) miejsce zamieszkania lub pobytu, e) numer ewidencyjny PESEL, f) numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL, g) stan cywilny, h) obywatelstwo, i) stopień pokrewieństwa z członkami rodziny, j) stan zdrowia, k) wykształcenie, l) zawód, m) zatrudnienie, n) osobę lub osoby, na które zasądzone są alimenty (imię, nazwisko, PESEL) oraz wysokości zasądzonych alimentów, o) poziom i rodzaj zobowiązań dłużnika z tytułu niewyegzekwowanych świadczeń alimentacyjnych, p) stan majątkowy dłużnika, r) posiadanie prawa jazdy przez dłużnika, s) rodzaj podejmowanych działań wobec dłużników alimentacyjnych.”,
     - **a)** ust. 8a otrzymuje brzmienie: „8a. Minister właściwy do spraw rodziny jest obowiązany utworzyć rejestr centralny obejmujący następujące informacje gromadzone na podstawie przepisów ustawy przez organy właściwe wierzyciela i organy właściwe dłużnika podczas realizacji zadań wynikających z ustawy:
-
-- **1)** dane dotyczące osób uprawnionych i członków ich rodzin:
-    - **a)** imię i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania lub pobytu,
-    - **d)** miejsce zamieszkania lub pobytu,
-    - **e)** numer ewidencyjny PESEL,
-    - **f)** numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL,
-    - **g)** stan cywilny,
-    - **h)** obywatelstwo,
-    - **i)** stopień pokrewieństwa z członkami rodziny,
-    - **j)** rodzaj szkoły, do której uczęszcza osoba uprawniona,
-    - **k)** stan zdrowia,
-    - **l)** liczbę, rodzaj i wysokość wypłaconych świadczeń,
-    - **m)** płeć,
-    - **n)** dochody,
-    - **o)** wysokości zasądzonych alimentów,
-    - **p)** poziom egzekucji zasądzonych alimentów;
-
-- **2)** dane dotyczące dłużników alimentacyjnych i podejmowanych wobec nich działań:
-    - **a)** imię i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** adres zamieszkania lub pobytu,
-    - **d)** miejsce zamieszkania lub pobytu,
-    - **e)** numer ewidencyjny PESEL,
-    - **f)** numer dokumentu potwierdzającego tożsamość w przypadku osób, które nie posiadają numeru PESEL,
-    - **g)** stan cywilny,
-    - **h)** obywatelstwo,
-    - **i)** stopień pokrewieństwa z członkami rodziny,
-    - **j)** stan zdrowia,
-    - **k)** wykształcenie,
-    - **l)** zawód,
-    - **m)** zatrudnienie,
-    - **n)** osobę lub osoby, na które zasądzone są alimenty (imię, nazwisko, PESEL) oraz wysokości zasądzonych alimentów,
-    - **o)** poziom i rodzaj zobowiązań dłużnika z tytułu niewyegzekwowanych świadczeń alimentacyjnych,
-    - **p)** stan majątkowy dłużnika,
-    - **r)** posiadanie prawa jazdy przez dłużnika,
-    - **s)** rodzaj podejmowanych działań wobec dłużników alimentacyjnych.”,
     - **b)** po ust. 8a dodaje się ust. 8b w brzmieniu: „8b. Informacje, o których mowa w ust. 8a, mogą być przetwarzane przez ministra właściwego do spraw rodziny na zasadach określonych w przepisach ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm. ). Organy właściwe wierzyciela oraz organy właściwe dłużnika przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym mowa w ust. 8.”.
 
 **Art. 9.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ) w art. 112a w ust. 2 pkt 4 otrzymuje brzmienie: „4) wypłat i obsługi świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz finansowania składek na ubezpieczenia emerytalne i rentowe za osoby pobierające świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy;”.

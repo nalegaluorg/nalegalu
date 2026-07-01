@@ -36,19 +36,13 @@ source: pdf
     - **a)** po ust. 1a dodaje się ust. 1aa w brzmieniu: „1aa. Podmioty wymienione w art. 6 ust. 1 pkt 4–7 i 8 mogą uzyskiwać informacje o osobie i informacje o podmiocie zbiorowym na podstawie danych zgromadzonych w Rejestrze także na żądanie.”,
     - **b)** w ust. 1b kropkę zastępuje się przecinkiem i dodaje się wyrazy „a żądania, o których mowa w ust. 1aa, są składane za pośrednictwem systemu teleinformatycznego.”;
 
-- **3)** w art. 20:
+- **3)** w art. 20: 5. Informację o osobie i informację o podmiocie zbiorowym doręczane za pośrednictwem systemu teleinformatycznego na zapytanie lub wniosek opatruje się kwalifikowanym podpisem elektronicznym, podpisem osobistym, podpisem zaufanym osoby upoważnionej do ich wydania albo kwalifikowaną pieczęcią elektroniczną. 6. Informację o osobie i informację o podmiocie zbiorowym doręczane za pośrednictwem systemu teleinformatycznego na żądanie opatruje się kwalifikowaną pieczęcią elektroniczną.”;
     - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacja o osobie, sporządzona na podstawie danych osobowych zgromadzonych w Rejestrze, udzielana na zapytanie lub wniosek, zawiera:”,
     - **b)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Informacja o podmiocie zbiorowym, sporządzona na podstawie danych zgromadzonych w Rejestrze, udzielana na zapytanie lub wniosek, zawiera:”,
     - **c)** uchyla się ust. 3,
     - **d)** dodaje się ust. 4–6 w brzmieniu: „4. Do informacji o osobie i informacji o podmiocie zbiorowym, sporządzonych na podstawie danych zgromadzonych w Rejestrze, udzielanych na żądanie, przepisy ust. 1 i 2 stosuje się odpowiednio.
 
-5. Informację o osobie i informację o podmiocie zbiorowym doręczane za pośrednictwem systemu teleinformatycznego na zapytanie lub wniosek opatruje się kwalifikowanym podpisem elektronicznym, podpisem osobistym, podpisem zaufanym osoby upoważnionej do ich wydania albo kwalifikowaną pieczęcią elektroniczną.
-
-6. Informację o osobie i informację o podmiocie zbiorowym doręczane za pośrednictwem systemu teleinformatycznego na żądanie opatruje się kwalifikowaną pieczęcią elektroniczną.”;
-
-- **4)** art. 21a otrzymuje brzmienie: „Art. 21a. Minister Sprawiedliwości określi, w drodze rozporządzenia:
-- **1)** sposób zakładania konta użytkownika i konta instytucjonalnego oraz sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na zapytanie lub wniosek za pośrednictwem systemu teleinformatycznego,
-- **2)** sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na żądanie za pośrednictwem systemu teleinformatycznego, w tym dane, jakie należy wskazać w żądaniu udzielenia informacji o osobie lub podmiocie zbiorowym, a także zakres informacji o osobie lub podmiocie zbiorowym udzielonej w ten sposób – mając na uwadze konieczność zapewnienia sprawnego udzielania informacji oraz zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione.”.
+- **4)** art. 21a otrzymuje brzmienie: „Art. 21a. Minister Sprawiedliwości określi, w drodze rozporządzenia: 1) sposób zakładania konta użytkownika i konta instytucjonalnego oraz sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na zapytanie lub wniosek za pośrednictwem systemu teleinformatycznego, 2) sposób i tryb udzielania informacji o osobach i informacji o podmiotach zbiorowych, udzielanych na żądanie za pośrednictwem systemu teleinformatycznego, w tym dane, jakie należy wskazać w żądaniu udzielenia informacji o osobie lub podmiocie zbiorowym, a także zakres informacji o osobie lub podmiocie zbiorowym udzielonej w ten sposób – mając na uwadze konieczność zapewnienia sprawnego udzielania informacji oraz zabezpieczenia przed uzyskaniem danych z Rejestru przez osoby nieuprawnione.”.
 
 **Art. 3.** W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych (Dz. U. z 2019 r. poz. 2126) w art. 20 w ust. 1 pkt 14 otrzymuje brzmienie: „14) Minister Sprawiedliwości w zakresie danych zgromadzonych w Krajowym Rejestrze Karnym,”.
 

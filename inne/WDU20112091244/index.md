@@ -36,96 +36,28 @@ source: pdf
 
 - **3)** po art. 5b dodaje się art. 5c w brzmieniu: „Art. 5c. Minister właściwy do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Rady Działalności Pożytku Publicznego, zwanej dalej „Radą”, może opracować resortowe oraz rządowe programy wspierania rozwoju organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 oraz finansowo wspierać te programy, w szczególności w trybie, o którym mowa w art. 11.”;
 - **4)** w art. 8 w ust. 1 pkt 2 otrzymuje brzmienie: „2) sprzedaż towarów lub usług wytworzonych lub świadczonych przez osoby bezpośrednio korzystające z działalności pożytku publicznego, w szczególności w zakresie rehabilitacji oraz przystosowania do pracy zawodowej osób niepełnosprawnych oraz reintegracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym.”;
-- **5)** w art. 11 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Obsługa konkursu, o której mowa w ust. 2a, nie obejmuje:
-- **1)** ogłoszenia otwartego konkursu ofert, o którym mowa w art. 13 ust. 3;
-- **2)** powołania komisji konkursowej, o którym mowa w art. 15 ust. 2a;
-- **3)** wyboru ofert, o którym mowa w art. 15 ust. 2 g;
-- **4)** ogłoszenia wyników otwartego konkursu ofert, o którym mowa w art. 15 ust. 2h;
-- **5)** zawierania umów o wsparcie realizacji zadania publicznego lub o powierzenie realizacji zadania publicznego z wyłonionymi organizacjami pozarządowymi lub podmiotami wymienionymi w art. 3 ust. 3;
-- **6)** unieważnienia otwartego konkursu ofert, o którym mowa w art. 18a.”;
+- **5)** w art. 11 po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Obsługa konkursu, o której mowa w ust. 2a, nie obejmuje: 1) ogłoszenia otwartego konkursu ofert, o którym mowa w art. 13 ust. 3; 2) powołania komisji konkursowej, o którym mowa w art. 15 ust. 2a; 3) wyboru ofert, o którym mowa w art. 15 ust. 2 g; 4) ogłoszenia wyników otwartego konkursu ofert, o którym mowa w art. 15 ust. 2h; 5) zawierania umów o wsparcie realizacji zadania publicznego lub o powierzenie realizacji zadania publicznego z wyłonionymi organizacjami pozarządowymi lub podmiotami wymienionymi w art. 3 ust. 3; 6) unieważnienia otwartego konkursu ofert, o którym mowa w art. 18a.”;
 - **6)** w art. 14 w ust. 1 zdanie wstępne otrzymuje brzmienie: „1. Oferta złożona w trybie, o którym mowa w art. 11 ust. 2 lub w art. 19a ust. 1, zawiera w szczególności:”;
-- **7)** w art. 15:
+- **7)** w art. 15: 1) żadna organizacja nie wskaże osób do składu komisji konkursowej lub 2) wskazane osoby nie wezmą udziału w pracach komisji konkursowej, lub 3) wszystkie powołane w skład komisji konkursowej osoby podlegają wyłączeniu na podstawie art. 15 ust. 2d lub art. 15 ust. 2f.”,
     - **a)** ust. 2d otrzymuje brzmienie: „2d. W skład komisji konkursowej wchodzą osoby wskazane przez organizacje pozarządowe lub podmioty wymienione w art. 3 ust. 3, z wyłączeniem osób wskazanych przez organizacje pozarządowe lub podmioty wymienione w art. 3 ust. 3, biorące udział w konkursie.”,
     - **b)** po ust. 2d dodaje się ust. 2da w brzmieniu: „2da. Komisja konkursowa może działać bez udziału osób wskazanych przez organizacje pozarządowe lub podmioty wymienione w art. 3 ust. 3, jeżeli:
-
-- **1)** żadna organizacja nie wskaże osób do składu komisji konkursowej lub
-- **2)** wskazane osoby nie wezmą udziału w pracach komisji konkursowej, lub
-- **3)** wszystkie powołane w skład komisji konkursowej osoby podlegają wyłączeniu na podstawie art. 15 ust. 2d lub art. 15 ust. 2f.”,
     - **c)** ust. 2i otrzymuje brzmienie: „2i. Każdy, w terminie 30 dni od dnia ogłoszenia wyników konkursu, może żądać uzasadnienia wyboru lub odrzucenia oferty.”;
 
-- **8)** w art. 19a:
+- **8)** w art. 19a: 1) wysokość dofinansowania lub finansowania zadania publicznego nie przekracza kwoty 10 000 zł; 2) zadanie publiczne ma być realizowane w okresie nie dłuższym niż 90 dni.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Na podstawie oferty realizacji zadania publicznego, o której mowa w art. 14, złożonej przez organizacje pozarządowe lub podmioty wymienione w art. 3 ust. 3, organ wykonawczy jednostki samorządu terytorialnego uznając celowość realizacji tego zadania, może zlecić organizacji pozarządowej lub podmiotom wymienionym w art. 3 ust. 3, z pominięciem otwartego konkursu ofert, realizację zadania publicznego o charakterze lokalnym lub regionalnym, spełniającego łącznie następujące warunki:
-
-- **1)** wysokość dofinansowania lub finansowania zadania publicznego nie przekracza kwoty 10 000 zł;
-- **2)** zadanie publiczne ma być realizowane w okresie nie dłuższym niż 90 dni.”,
     - **b)** uchyla się ust. 2;
 
 - **9)** art. 19f otrzymuje brzmienie: „Art. 19f. Wnioskodawca może otrzymać od jednostki samorządu terytorialnego na czas trwania umowy rzeczy konieczne do wykonania inicjatywy lokalnej.”;
 - **10)** w art. 21 zdanie wstępne otrzymuje brzmienie: „W przypadku podmiotów, o których mowa w art. 3 ust. 3 pkt 1:”;
-- **11)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1.W przypadku wykreślenia organizacji pożytku publicznego albo informacji o spełnieniu wymagań, o których mowa w art. 20, z Krajowego Rejestru Sądowego organizacja pozarządowa lub podmiot wymieniony w art. 3 ust. 3 pkt 1 lub 4 może ponownie uzyskać status organizacji pożytku publicznego:
-- **1)** po złożeniu wniosku o wpis – w przypadku gdy wykreślenie z Krajowego Rejestru Sądowego nastąpiło na podstawie wniosku organizacji pozarządowej lub podmiotu wymienionego w art. 3 ust. 3 pkt 1 lub 4;
-- **2)** po upływie 2 lat od chwili wykreślenia z Krajowego Rejestru Sądowego:
-    - **a)** na wniosek ministra właściwego do spraw zabezpieczenia społecznego,
-    - **b)** z urzędu przez właściwy sąd rejestrowy.
-
-2. Przepisy art. 20 i art. 22 stosuje się odpowiednio.”;
-
-- **12)** w art. 23:
+- **11)** po art. 22 dodaje się art. 22a w brzmieniu: „Art. 22a. 1.W przypadku wykreślenia organizacji pożytku publicznego albo informacji o spełnieniu wymagań, o których mowa w art. 20, z Krajowego Rejestru Sądowego organizacja pozarządowa lub podmiot wymieniony w art. 3 ust. 3 pkt 1 lub 4 może ponownie uzyskać status organizacji pożytku publicznego: 1) po złożeniu wniosku o wpis – w przypadku gdy wykreślenie z Krajowego Rejestru Sądowego nastąpiło na podstawie wniosku organizacji pozarządowej lub podmiotu wymienionego w art. 3 ust. 3 pkt 1 lub 4; 2) po upływie 2 lat od chwili wykreślenia z Krajowego Rejestru Sądowego: a) na wniosek ministra właściwego do spraw zabezpieczenia społecznego, b) z urzędu przez właściwy sąd rejestrowy. 2. Przepisy art. 20 i art. 22 stosuje się odpowiednio.”;
+- **12)** w art. 23: 6b. Organizacja pożytku publicznego, której rok obrotowy nie jest rokiem kalendarzowym, zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, zatwierdzone sprawozdanie finansowe i sprawozdanie merytoryczne ze swojej działalności, o których mowa w ust. 1 i 2, w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego. 6c. Organizacja pożytku publicznego, która w roku obrotowym, za który sporządza sprawozdanie finansowe i merytoryczne ze swojej działalności, osiągnęła przychód nieprzekraczający 100 000 zł, zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, w terminie, o którym mowa w ust. 6 lub w ust. 6b, sprawozdanie, o którym mowa w ust. 1 i 1a, w formie uproszczonego sprawozdania merytorycznego. 6d. Uproszczone sprawozdanie merytoryczne, o którym mowa w ust. 6c, zawiera: 1) dane o organizacji pożytku publicznego; 2) opis prowadzonej działalności pożytku publicznego i działalności gospodarczej wraz z podaniem kodów PKD; 3) ogólne informacje o uzyskanych przychodach i poniesionych kosztach; 4) podstawowe informacje o: a) zatrudnieniu oraz kwocie wynagrodzeń, b) członkach oraz wolontariuszach; 5) informacje o: a) uzyskanym przychodzie z 1% podatku dochodowego od osób fizycznych, b) sposobie wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych, c) poniesionych kosztach administracyjnych, d) działalności zleconej przez organy administracji publicznej, e) korzystaniu z uprawnień, f) przeprowadzonych kontrolach. 6e. Sprawozdanie merytoryczne, o którym mowa w ust. 1 i 1a, zawiera: 1) dane o organizacji pożytku publicznego; 2) określenie celów statutowych; 3) opis prowadzonej działalności pożytku publicznego i działalności gospodarczej wraz z podaniem kodów PKD; 4) szczegółowe informacje o: a) zatrudnieniu i kwocie wynagrodzeń, b) członkach oraz wolontariuszach; 5) informacje o: a) poniesionych kosztach i uzyskanych przychodach, w tym z 1% podatku dochodowego od osób fizycznych, b) sposobie wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych, c) działalności zleconej przez organy administracji publicznej, d) korzystaniu z uprawnień, e) zrealizowanych zamówieniach publicznych, f) posiadanych udziałach lub akcjach w spółkach, g) fundacjach, których organizacja pożytku publicznego jest fundatorem, h) udzielonych pożyczkach, i) przeprowadzonych kontrolach, j) przeprowadzonych badaniach sprawozdań finansowych. d) ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór sprawozdania merytorycznego, o którym mowa w ust. 1 i 1a, oraz wzór uproszczonego sprawozdania merytorycznego, o którym mowa w ust. 6c, kierując się potrzebą ujednolicenia składanych sprawozdań.”;
     - **a)** uchyla się ust. 4,
     - **b)** ust. 6 otrzymuje brzmienie: „6. Organizacja pożytku publicznego zamieszcza zatwierdzone sprawozdanie finansowe i sprawozdanie merytoryczne ze swojej działalności, o których mowa w ust. 1 i 2, w terminie do dnia 15 lipca roku następującego po roku, za który składane jest sprawozdanie finansowe i merytoryczne, na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego.”,
     - **c)** po ust. 6 dodaje się ust. 6a–6e w brzmieniu: „6a. Organizacja pożytku publicznego, która nie zamieściła na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, w terminie określonym w ust. 6 lub 6b, zatwierdzonego sprawozdania finansowego i sprawozdania merytorycznego ze swojej działalności, o których mowa w ust. 1 i 2, nie zostaje uwzględniona w wykazie organizacji pożytku publicznego, o którym mowa w art. 27a.
 
-6b. Organizacja pożytku publicznego, której rok obrotowy nie jest rokiem kalendarzowym, zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, zatwierdzone sprawozdanie finansowe i sprawozdanie merytoryczne ze swojej działalności, o których mowa w ust. 1 i 2, w terminie 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego.
-
-6c. Organizacja pożytku publicznego, która w roku obrotowym, za który sporządza sprawozdanie finansowe i merytoryczne ze swojej działalności, osiągnęła przychód nieprzekraczający 100 000 zł, zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, w terminie, o którym mowa w ust. 6 lub w ust. 6b, sprawozdanie, o którym mowa w ust. 1 i 1a, w formie uproszczonego sprawozdania merytorycznego.
-
-6d. Uproszczone sprawozdanie merytoryczne, o którym mowa w ust. 6c, zawiera:
-
-- **1)** dane o organizacji pożytku publicznego;
-- **2)** opis prowadzonej działalności pożytku publicznego i działalności gospodarczej wraz z podaniem kodów PKD;
-- **3)** ogólne informacje o uzyskanych przychodach i poniesionych kosztach;
-- **4)** podstawowe informacje o:
-    - **a)** zatrudnieniu oraz kwocie wynagrodzeń,
-    - **b)** członkach oraz wolontariuszach;
-
-- **5)** informacje o:
-    - **a)** uzyskanym przychodzie z 1% podatku dochodowego od osób fizycznych,
-    - **b)** sposobie wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych,
-    - **c)** poniesionych kosztach administracyjnych,
-    - **d)** działalności zleconej przez organy administracji publicznej,
-    - **e)** korzystaniu z uprawnień,
-    - **f)** przeprowadzonych kontrolach.
-
-6e. Sprawozdanie merytoryczne, o którym mowa w ust. 1 i 1a, zawiera:
-
-- **1)** dane o organizacji pożytku publicznego;
-- **2)** określenie celów statutowych;
-- **3)** opis prowadzonej działalności pożytku publicznego i działalności gospodarczej wraz z podaniem kodów PKD;
-- **4)** szczegółowe informacje o:
-    - **a)** zatrudnieniu i kwocie wynagrodzeń,
-    - **b)** członkach oraz wolontariuszach;
-
-- **5)** informacje o:
-    - **a)** poniesionych kosztach i uzyskanych przychodach, w tym z 1% podatku dochodowego od osób fizycznych,
-    - **b)** sposobie wydatkowania środków pochodzących z 1% podatku dochodowego od osób fizycznych,
-    - **c)** działalności zleconej przez organy administracji publicznej,
-    - **d)** korzystaniu z uprawnień,
-    - **e)** zrealizowanych zamówieniach publicznych,
-    - **f)** posiadanych udziałach lub akcjach w spółkach,
-    - **g)** fundacjach, których organizacja pożytku publicznego jest fundatorem,
-    - **h)** udzielonych pożyczkach,
-    - **i)** przeprowadzonych kontrolach,
-    - **j)** przeprowadzonych badaniach sprawozdań finansowych.
-    - **d)** ust. 8 otrzymuje brzmienie: „8. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór sprawozdania merytorycznego, o którym mowa w ust. 1 i 1a, oraz wzór uproszczonego sprawozdania merytorycznego, o którym mowa w ust. 6c, kierując się potrzebą ujednolicenia składanych sprawozdań.”;
-
-- **13)** w art. 27a:
+- **13)** w art. 27a: 1) które w terminie zamieściły na stronie internetowej urz ędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego sprawozdanie merytoryczne ze swojej działalności oraz sprawozdanie finansowe, o których mowa w art. 23 ust. 1 i 2, w roku, za który składane jest zeznanie podatkowe; 2) w stosunku do których nie wpisano do Krajowego Rejestru Sądowego informacji o otwarciu likwidacji lub ogłoszeniu upadłości.”, 7. W terminie do dnia 15 stycznia roku następującego po roku podatkowym minister właściwy do spraw zabezpieczenia społecznego zamieszcza w wykazie, o którym mowa w ust. 1, dostarczone przez ministra właściwego do spraw finansów publicznych numery rachunków bankowych zgłoszone przez organizacje pożytku publicznego w latach ubiegłych jako właściwe do przekazania 1% podatku.”;
     - **a)** ust. 2 otrzymuje brzmienie: „2. W wykazie, o którym mowa w ust. 1, uwzględnia się organizacje pożytku publicznego:
-
-- **1)** które w terminie zamieściły na stronie internetowej urz ędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego sprawozdanie merytoryczne ze swojej działalności oraz sprawozdanie finansowe, o których mowa w art. 23 ust. 1 i 2, w roku, za który składane jest zeznanie podatkowe;
-- **2)** w stosunku do których nie wpisano do Krajowego Rejestru Sądowego informacji o otwarciu likwidacji lub ogłoszeniu upadłości.”,
     - **b)** ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw finansów publicznych dostarcza dane dotyczące numerów rachunków bankowych, o których mowa w ust. 3 pkt 2, na podstawie informacji zebranych przez naczelników urzędów skarbowych właściwych według siedziby organizacji.
-
-7. W terminie do dnia 15 stycznia roku następującego po roku podatkowym minister właściwy do spraw zabezpieczenia społecznego zamieszcza w wykazie, o którym mowa w ust. 1, dostarczone przez ministra właściwego do spraw finansów publicznych numery rachunków bankowych zgłoszone przez organizacje pożytku publicznego w latach ubiegłych jako właściwe do przekazania 1% podatku.”;
 
 - **14)** w art. 33a w ust. 1 pkt 1 otrzymuje brzmienie: „1) w przypadku naruszenia obowiązków, o których mowa w art. 23, w szczególności niezamieszczenia na stronie internetowej urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego w terminie sprawozdania finansowego i merytorycznego, lub zamieszczenia sprawozdań niekompletnych, lub budzących wątpliwości co do prawidłowości działalności organizacji pożytku publicznego, wzywa organizację pożytku publicznego do zaniechania naruszeń oraz przedstawienia niezbędnych wyjaśnień;”;
 - **15)** w art. 35 ust. 1 otrzymuje brzmienie: „1. Tworzy się Radę Działalności Pożytku Publicznego jako organ opiniodawczo-doradczy ministra właściwego do spraw zabezpieczenia społecznego.”;
@@ -133,12 +65,8 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, Nr 171, poz. 1016 i Nr 209, poz. 1243) wprowadza się następujące zmiany:
 
-- **1)** w art. 6c ust. 7 otrzymuje brzmienie: „7. Wojewoda przedstawia Pełnomocnikowi informacje o realizacji zadań:
-- **1)** powiatowych zespołów, sporządzane na podstawie informacji otrzymanych od starostów;
-- **2)** wojewódzkiego zespołu.”;
-- **2)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Wpłaty na Fundusz, o których mowa w art. 21, ulegają obniżeniu z tytułu zakupu usługi, z wyłączeniem handlu, lub produkcji pracodawcy zatrudniającego co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy, który osiąga wskaźnik zatrudnienia osób niepełnosprawnych będących:
-- **1)** osobami niepełnosprawnymi zaliczonymi do znacznego stopnia niepełnosprawności lub
-- **2)** osobami niewidomymi, psychicznie chorymi lub upośledzonymi umysłowo lub osobami z całościowymi zaburzeniami rozwojowymi lub epilepsją – zaliczonymi do umiarkowanego stopnia niepełnosprawności – w wysokości co najmniej 30%, zwanego dalej „sprzedającym”;
+- **1)** w art. 6c ust. 7 otrzymuje brzmienie: „7. Wojewoda przedstawia Pełnomocnikowi informacje o realizacji zadań: 1) powiatowych zespołów, sporządzane na podstawie informacji otrzymanych od starostów; 2) wojewódzkiego zespołu.”;
+- **2)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Wpłaty na Fundusz, o których mowa w art. 21, ulegają obniżeniu z tytułu zakupu usługi, z wyłączeniem handlu, lub produkcji pracodawcy zatrudniającego co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy, który osiąga wskaźnik zatrudnienia osób niepełnosprawnych będących: 1) osobami niepełnosprawnymi zaliczonymi do znacznego stopnia niepełnosprawności lub 2) osobami niewidomymi, psychicznie chorymi lub upośledzonymi umysłowo lub osobami z całościowymi zaburzeniami rozwojowymi lub epilepsją – zaliczonymi do umiarkowanego stopnia niepełnosprawności – w wysokości co najmniej 30%, zwanego dalej „sprzedającym”;
 - **3)** w art. 48 ust. 2 otrzymuje brzmienie: „2. Rada Ministrów określa, w drodze rozporządzenia, algorytm, o którym mowa w ust. 1, a także zasady ustalania maksymalnych wysokości kwot zobowiązań przypadających do wypłaty na dany rok. Projekt algorytmu podlega opiniowaniu przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:

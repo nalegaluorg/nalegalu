@@ -32,9 +32,7 @@ oraz o zmianie niektórych ustaw
 **Art. 1.** W ustawie z dnia 11 sierpnia 2001 r. o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw (Dz.U. Nr 84, poz. 907) w art. 9:
 
 - **1)** ust. 4 otrzymuje brzmienie: „4. Udzielenie pomocy, o której mowa w ust. 1, następuje na wniosek osoby poszkodowanej, złożony niezwłocznie, nie później jednak niż do dnia 28 lutego 2002 r., w gminie, na terenie której powstała szkoda.”;
-- **2)** ust. 6 i 7 otrzymują brzmienie: „6. Zarząd gminy, po sprawdzeniu wniosków, niezwłocznie, nie później jednak niż do dnia 15 marca 2002 r., przekazuje je do właściwego terytorialnie wojewody.
-
-7. Wojewoda, po dokonaniu weryfikacji wniosków przekazanych przez zarząd gminy, zgłasza do Prezesa Agencji Rynku Rolnego, niezwłocznie, nie później jednak niż do dnia 31 marca 2002 r., zbilansowane potrzeby poszczególnych gmin w zakresie pomocy, o której mowa w ust. 1.”.
+- **2)** ust. 6 i 7 otrzymują brzmienie: „6. Zarząd gminy, po sprawdzeniu wniosków, niezwłocznie, nie później jednak niż do dnia 15 marca 2002 r., przekazuje je do właściwego terytorialnie wojewody. 7. Wojewoda, po dokonaniu weryfikacji wniosków przekazanych przez zarząd gminy, zgłasza do Prezesa Agencji Rynku Rolnego, niezwłocznie, nie później jednak niż do dnia 31 marca 2002 r., zbilansowane potrzeby poszczególnych gmin w zakresie pomocy, o której mowa w ust. 1.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

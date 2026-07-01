@@ -30,9 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 22a ust. 2e otrzymuje brzmienie: „2e. Dyrektor szkoły podaje do publicznej wiadomości zestaw podręczników, który obowiązuje w roku szkolnym.”;
-- **2)** po art. 22b dodaje się art. 22c w brzmieniu: „Art. 22c. 1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do szkół artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, może zlecić opracowanie i wydanie podręcznika lub jego części.
-
-2. Podręcznik lub jego część opracowane w wyniku zlecenia, o którym mowa w ust. 1, oraz zaakceptowane odpowiednio przez ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, są dopuszczone do użytku szkolnego z mocy prawa.”.
+- **2)** po art. 22b dodaje się art. 22c w brzmieniu: „Art. 22c. 1. Minister właściwy do spraw oświaty i wychowania, a w przypadku podręczników do szkół artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, może zlecić opracowanie i wydanie podręcznika lub jego części. 2. Podręcznik lub jego część opracowane w wyniku zlecenia, o którym mowa w ust. 1, oraz zaakceptowane odpowiednio przez ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, są dopuszczone do użytku szkolnego z mocy prawa.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

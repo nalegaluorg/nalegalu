@@ -1,39 +1,38 @@
 # Publish Summary
 
-Generated: 2026-06-30 20:11 UTC
+Generated: 2026-07-01 16:08 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published public acts | 19261 |
-| Updated/new | 66 |
-| Unchanged | 13414 |
+| Published public acts | 19250 |
+| Updated/new | 1423 |
+| Unchanged | 10801 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 5145 |
-| Blocked by quality gate | 690 |
-| Rejected (total incl. errors) | 415 |
+| Skipped regressions | 6395 |
+| Blocked by quality gate | 698 |
+| Rejected (total incl. errors) | 426 |
 | Total in DB | 19676 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 19261 | 19261 | 0 |
-| Rejected | 415 | 415 | 0 |
-| Articles | 214266 | 215857 | +1591 |
-| Body chars | 587,727,534 | 590,191,554 | +2464020 |
+| Published | 19261 | 19250 | -11 |
+| Rejected | 415 | 426 | +11 |
+| Articles | 215857 | 215805 | -52 |
+| Body chars | 590,191,554 | 589,613,883 | -577671 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
-| character-spaced | 246 |
-| pipeline error | 184 |
+| character-spaced | 244 |
+| pipeline error | 201 |
 | repetition | 117 |
 | article structure | 78 |
 | CID font | 71 |
-| round-trip | 7 |
 | PostScript CE | 5 |
 | other | 2 |
 | missing diacritics | 1 |
@@ -44,40 +43,40 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Metric | Count |
 |--------|------:|
-| Checked candidates | 650 |
-| Candidates with unexplained gaps | 442 |
-| Unexplained numeric article gaps | 14980 |
+| Checked candidates | 634 |
+| Candidates with unexplained gaps | 425 |
+| Unexplained numeric article gaps | 9678 |
 
 | Address | Highest Art. | Gap count | Sample gaps | Title |
 |---------|-------------:|----------:|-------------|-------|
 | WDU20010490508 | 2531 | 2211 | 275-278, 311-314, 328-2530 | Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemy… |
-| WDU20051781478 | 1217 | 1150 | 4-1153 | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Kodek… |
-| WDU20041721804 | 1064 | 1013 | 14-729, 758-766, 768-785, 787-788, 790-865, 867-890, 892-909, 912-1012 | Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy - Kodeks… |
-| WDU20180000398 | 694 | 637 | 56-602, 604-693 | Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o Kr… |
 | WDU20111060622 | 584 | 478 | 106-583 | Ustawa z dnia 25 marca 2011 r. o ograniczaniu barier ad… |
-| WDU20190001495 | 556 | 468 | 87-478, 480-555 | Ustawa z dnia 31 lipca 2019 r. o zmianie niektórych ust… |
-| WDU20190002217 | 402 | 351 | 47-90, 93-94, 96-103, 105-401 | Ustawa z dnia 16 października 2019 r. o zmianie ustawy … |
-| WDU20130001247 | 377 | 316 | 57-79, 81-235, 237-334, 336-349, 351-376 | Ustawa z dnia 27 września 2013 r. o zmianie ustawy - Ko… |
-| WDU20150001607 | 305 | 250 | 22, 55-68, 70-304 | Ustawa z dnia 10 września 2015 r. o zmianie ustawy o ud… |
-| WDU20021691387 | 292 | 240 | 31-71, 82-280 | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Or… |
-| WDU19960240110 | 304 | 210 | 41, 44-60, 62, 64-76, 78-91, 93-100, 102-103, 105-128 | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodek… |
-| WDU20220001933 | 264 | 198 | 63-116, 118-221, 223-262 | Ustawa z dnia 22 lipca 2022 r. o zmianie ustawy o Służb… |
 | WDU20101821228 | 191 | 107 | 74-180 | Ustawa z dnia 5 sierpnia 2010 r. o ochronie informacji … |
 | WDU20250001209 | 191 | 107 | 74-180 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
 | WDU20180000138 | 392 | 101 | 246-346 | Ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państ… |
 | WDU20250000034 | 392 | 101 | 246-346 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
-| WDU20030600535 | 546 | 99 | 44-50, 138-143, 180-184, 267-305, 492-521, 524-535 | Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe |
-| WDU20250000614 | 546 | 99 | 44-50, 138-143, 180-184, 267-305, 492-521, 524-535 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
 | WDU20010620627 | 442 | 89 | 19-70, 97-100, 230-236, 394-399, 422-441 | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowi… |
 | WDU20250000647 | 442 | 89 | 19-70, 97-100, 230-236, 394-399, 422-441 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
+| WDU20200002320 | 166 | 86 | 61-146 | Ustawa z dnia 18 listopada 2020 r. o doręczeniach elekt… |
+| WDU20260000003 | 166 | 86 | 61-146 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
+| WDU20160001579 | 142 | 81 | 50-130 | Ustawa z dnia 5 września 2016 r. o usługach zaufania or… |
+| WDU20240001725 | 142 | 81 | 50-130 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
+| WDU20220000655 | 824 | 79 | 698-776 | Ustawa z dnia 11 marca 2022 r. o obronie Ojczyzny |
+| WDU20250000825 | 824 | 79 | 698-776 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
+| WDU20150000978 | 456 | 78 | 368-398, 401-447 | Ustawa z dnia 15 maja 2015 r. - Prawo restrukturyzacyjn… |
+| WDU20061040708 | 216 | 70 | 141-210 | Ustawa z dnia 9 czerwca 2006 r. o Centralnym Biurze Ant… |
+| WDU20250000712 | 216 | 70 | 141-210 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
+| WDU20111120654 | 221 | 68 | 96, 123-189 | Ustawa z dnia 15 kwietnia 2011 r. o działalności leczni… |
+| WDU20020740676 | 235 | 67 | 154-220 | Ustawa z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa … |
+| WDU20250000902 | 235 | 67 | 154-220 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… |
 
 ## Public act type breakdown
 
 | Value | Count |
 |-------|------:|
-| Rozporządzenie | 10326 |
+| Rozporządzenie | 10323 |
 | Ustawa | 4841 |
-| Obwieszczenie | 2324 |
+| Obwieszczenie | 2316 |
 | Orzeczenie | 1373 |
 | Umowa międzynarodowa | 329 |
 | Protokół | 18 |
@@ -95,18 +94,18 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 11747 |
+| obowiązujący | 11734 |
 | akt objęty tekstem jednolitym | 5064 |
-| akt posiada tekst jednolity | 1888 |
+| akt posiada tekst jednolity | 1887 |
 | nieobowiązujący - uchylona podstawa prawna | 514 |
-| wygaśnięcie aktu | 38 |
+| wygaśnięcie aktu | 41 |
 | akt jednorazowy | 10 |
 
 ## Public domain breakdown
 
 | Value | Count |
 |-------|------:|
-| inne | 18375 |
+| inne | 18364 |
 | prawo-podatkowe | 193 |
 | prawo-karne | 159 |
 | prawo-cywilne | 142 |
@@ -131,7 +130,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Value | Count |
 |-------|------:|
 | O | 12414 |
-| T | 5234 |
+| T | 5236 |
 | U | 1653 |
 | unknown | 14 |
 
@@ -148,9 +147,25 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 
 | Issue | Count |
 |-------|------:|
-| Original PDF candidate for unified act | 4943 |
+| Original PDF candidate for unified act | 4941 |
 
-## Blocked acts (690)
+## Newly rejected (11)
+
+| Address | Reason |
+|---------|--------|
+| WDU20140001124 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20180002152 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20200000349 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20200001053 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20200001973 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20210000857 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20230001897 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20230002174 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20230002533 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20240000153 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20240000634 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+
+## Blocked acts (698)
 
 | Address | Issues |
 |---------|--------|
@@ -206,7 +221,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19890300162 | source article inventory failed: eli-html=0 AST=24 dup_ast=3 FAIL; duplicate in AST: 1, 3, 5 |
 | WDU19890340178 | source article inventory failed: eli-html=0 AST=20 dup_ast=4 FAIL; duplicate in AST: 1, 2, 3, 5 |
 | WDU19890340179 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
-| WDU19890340180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU19890340180 | unclosed amendment quotation for 489 |
 | WDU19890340182 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19890640388 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19890640391 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -219,6 +234,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19900140087 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 1 |
 | WDU19900140089 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19900200121 | source article inventory failed: eli-html=0 AST=19 dup_ast=1 FAIL; duplicate in AST: 1 |
+| WDU19900290173 | unclosed amendment quotation for unknown articles |
 | WDU19900340197 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19900340199 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19900430251 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -238,18 +254,21 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19911170511 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19920580280 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19930050022 | source article inventory failed: eli-html=0 AST=5 dup_ast=1 FAIL; duplicate in AST: 2 |
-| WDU19930470212 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU19930470212 | unclosed amendment quotation for unknown articles |
 | WDU19940530215 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19940620265 | missing Polish diacritics — only 8 in 1634 letters (0.49%) — likely ASCII-only extraction or wrong encoding |
 | WDU19940680294 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19940870406 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19941110536 | unclosed amendment quotation for unknown articles |
 | WDU19941360704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU19950160077 | unclosed amendment quotation for unknown articles |
 | WDU19950160079 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19950280143 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19950660335 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19950850426 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19950950473 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19950960478 | source article inventory failed: eli-html=0 AST=27 dup_ast=1 FAIL; duplicate in AST: 371 |
+| WDU19951040515 | unclosed amendment quotation for 10a, 10b |
 | WDU19951110539 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19960010001 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19960060041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -258,7 +277,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19960410176 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19960450198 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU19960520237 | No text extracted from PDF — may be a scanned document |
-| WDU19961000461 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 2 |
+| WDU19960900407 | unclosed amendment quotation for 2la, 21c |
 | WDU19961270593 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in AST: 4 |
 | WDU19961470686 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19961490704 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -270,7 +289,9 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19970980602 | rendered round-trip failed: AST=327 rendered=327 dup_rendered=3 low_sim=2 word_loss=2 missing_child_markers=3 FAIL; word loss: 65l, 65m; low similarity: 65l, 65m; missing child markers: 33d, 65l, 65m |
 | WDU19971010628 | rendered round-trip failed: AST=12 rendered=12 low_sim=1 FAIL; low similarity: 8 |
 | WDU19971020642 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19971110723 | unclosed amendment quotation for unknown articles |
 | WDU19971110726 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU19971130732 | unclosed amendment quotation for unknown articles |
 | WDU19971581042 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19971601079 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19980460293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -279,6 +300,8 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19981130715 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19981170758 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19981430916 | unclosed amendment quotation for unknown articles |
+| WDU19981621115 | unclosed amendment quotation for unknown articles |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19990410418 | excessive repetition — '..................................................…' appears 34 times (likely PDF header/footer) |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -310,7 +333,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20042222249 | source article inventory failed: eli-html=0 AST=10 dup_ast=1 FAIL; duplicate in AST: 4 |
 | WDU20042542533 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20042682662 | source article inventory failed: eli-html=0 AST=24 dup_ast=12 FAIL; duplicate in AST: 1, 10, 11, 12, 2, 3, 4, 5, 6, 7 |
-| WDU20050620552 | source article inventory failed: eli-html=0 AST=39 dup_ast=2 FAIL; duplicate in AST: 14, 15 |
 | WDU20050640565 | rendered round-trip failed: AST=133 rendered=133 dup_rendered=1 low_sim=1 FAIL; low similarity: 18 |
 | WDU20050850727 | rendered round-trip failed: AST=39 rendered=39 low_sim=1 FAIL; low similarity: 12 |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'przestąp') |
@@ -334,7 +356,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20080960606 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20081340850 | known PDF extraction failure — article structure is lost in the generated output |
-| WDU20081410888 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 10 |
 | WDU20082141346 | source article inventory failed: eli-html=0 AST=9 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20082161369 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 2 |
 | WDU20082271505 | rendered round-trip failed: AST=178 rendered=178 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 28, 29a; low similarity: 28, 29a; missing child markers: 28, 29a |
@@ -351,6 +372,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20101480993 | source article inventory failed: eli-html=0 AST=6 dup_ast=1 FAIL; duplicate in AST: 2 |
 | WDU20101490996 | source article inventory failed: eli-html=0 AST=22 dup_ast=2 FAIL; duplicate in AST: 2, 3 |
 | WDU20102291494 | known two-column PDF extraction failure — Art. 2 is merged into Art. 1 in the generated output |
+| WDU20102301510 | unclosed amendment quotation for unknown articles |
 | WDU20102441636 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20110640342 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20111130657 | rendered round-trip failed: AST=70 rendered=70 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 24; low similarity: 24; missing child markers: 24 |
@@ -447,7 +469,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20150002327 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20150002332 | excessive repetition — '..................................................…' appears 29 times (likely PDF header/footer) |
 | WDU20160000035 | rendered round-trip failed: AST=19 rendered=19 empty_articles=3 FAIL |
-| WDU20160000325 | source article inventory failed: eli-html=0 AST=28 dup_ast=2 FAIL; duplicate in AST: 3, 5 |
+| WDU20160000325 | source article inventory failed: eli-html=0 AST=28 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU20160000357 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000369 | excessive repetition — '..................................................…' appears 26 times (likely PDF header/footer) |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -456,7 +478,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20160000763 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000802 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000840 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20160000903 | source article inventory failed: eli-html=0 AST=41 dup_ast=1 FAIL; duplicate in AST: 18 |
+| WDU20160000903 | source article inventory failed: eli-html=0 AST=42 dup_ast=1 FAIL; duplicate in AST: 18 |
 | WDU20160000923 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000925 | source article inventory failed: eli-html=0 AST=26 dup_ast=2 FAIL; duplicate in AST: 20, 5 |
 | WDU20160001228 | rendered round-trip failed: AST=60 rendered=60 dup_rendered=3 low_sim=3 word_loss=1 missing_child_markers=1 FAIL; word loss: 10; low similarity: 10, 21, 29; missing child markers: 10 |
@@ -515,10 +537,11 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20180000685 | rendered round-trip failed: AST=111 rendered=111 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 32c; low similarity: 32c; missing child markers: 32c |
 | WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20180001103 | source article inventory failed: eli-html=0 AST=17 dup_ast=3 FAIL; duplicate in AST: 3, 4, 5 |
+| WDU20180001103 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 4 |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001286 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001479 | rendered round-trip failed: AST=63 rendered=63 dup_rendered=4 low_sim=4 word_loss=2 missing_child_markers=2 FAIL; word loss: 14, 15; low similarity: 12, 13, 14, 15; missing child markers: 14, 15 |
+| WDU20180001544 | rendered round-trip failed: AST=68 rendered=68 empty_articles=7 FAIL |
 | WDU20180001591 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001608 | source article inventory failed: eli-html=0 AST=31 dup_ast=4 FAIL; duplicate in AST: 4, 5, 6, 8 |
 | WDU20180001631 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -601,7 +624,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu) ...' appears 49 times (likely PDF header/footer) |
 | WDU20200002056 | rendered round-trip failed: AST=74 rendered=74 dup_rendered=2 low_sim=1 FAIL; low similarity: 10 |
 | WDU20200002180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20200002216 | source article inventory failed: eli-html=0 AST=41 dup_ast=2 FAIL; duplicate in AST: 3, 4 |
+| WDU20200002216 | source article inventory failed: eli-html=0 AST=42 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU20200002313 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200002328 | character-spaced text — 18 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200002369 | rendered round-trip failed: AST=74 rendered=74 dup_rendered=1 low_sim=1 FAIL; low similarity: 24 |
@@ -667,7 +690,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220001437 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20220001456 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001559 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
-| WDU20220001575 | source article inventory failed: eli-html=0 AST=15 dup_ast=1 FAIL; duplicate in AST: 6 |
+| WDU20220001575 | source article inventory failed: eli-html=0 AST=16 dup_ast=1 FAIL; duplicate in AST: 6 |
 | WDU20220001778 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001846 | rendered round-trip failed: AST=111 rendered=111 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 29; low similarity: 29; missing child markers: 29 |
 | WDU20220001914 | excessive repetition — '………………………………………………………………………………………………….' appears 147 times (likely PDF header/footer) |
@@ -696,7 +719,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230000427 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000455 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000503 | rendered round-trip failed: AST=72 rendered=72 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 4; low similarity: 4; missing child markers: 4 |
-| WDU20230000535 | source article inventory failed: eli-html=0 AST=36 dup_ast=4 FAIL; duplicate in AST: 10, 2, 5, 9 |
+| WDU20230000535 | source article inventory failed: eli-html=0 AST=40 dup_ast=4 FAIL; duplicate in AST: 10, 2, 5, 9 |
 | WDU20230000540 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000558 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000666 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2023_666.txt. Run 'extract' first. |
@@ -709,7 +732,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230001112 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001154 | rendered round-trip failed: AST=58 rendered=58 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 26, 27; low similarity: 26, 27; missing child markers: 26, 27 |
 | WDU20230001220 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20230001236 | source article inventory failed: eli-html=0 AST=37 dup_ast=1 FAIL; duplicate in AST: 7 |
+| WDU20230001236 | source article inventory failed: eli-html=0 AST=38 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20230001293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001318 | rendered round-trip failed: AST=54 rendered=54 dup_rendered=2 FAIL |
 | WDU20230001319 | excessive repetition — '..................................................…' appears 79 times (likely PDF header/footer) |
@@ -812,10 +835,10 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001337 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' appears 23 times (likely PDF header/footer) |
 | WDU20240001367 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240001404 | excessive repetition — '..................................................…' appears 151 times (likely PDF header/footer) |
-| WDU20240001513 | source article inventory failed: eli-html=0 AST=32 dup_ast=4 FAIL; duplicate in AST: 10, 24, 25, 3b |
+| WDU20240001513 | source article inventory failed: eli-html=0 AST=34 dup_ast=4 FAIL; duplicate in AST: 10 @ Rozdział 2 Obowiązki usługodawcy świadczącego usługi drogą elektroniczną, 24 @ Rozdział 5 Przepisy karne, 25 @ Rozdział 5 Przepisy karne, 3b @ Rozdział 1 Przepisy ogólne |
 | WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001533 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240001541 | source article inventory failed: eli-html=0 AST=26 dup_ast=1 FAIL; duplicate in AST: 19 |
+| WDU20240001541 | source article inventory failed: eli-html=0 AST=27 dup_ast=1 FAIL; duplicate in AST: 19 @ Rozdział 3 Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej |
 | WDU20240001542 | excessive repetition — '..................................................…' appears 37 times (likely PDF header/footer) |
 | WDU20240001606 | rendered round-trip failed: AST=118 rendered=118 dup_rendered=5 low_sim=4 word_loss=2 missing_child_markers=2 FAIL; word loss: 37, 38; low similarity: 28, 29, 37, 38; missing child markers: 37, 38 |
 | WDU20240001612 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
@@ -845,17 +868,11 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20260000468 | rendered round-trip failed: AST=2022 rendered=2022 missing_rendered=625 extra_rendered=625 FAIL; missing rendered articles: 1000 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1001 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1002 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1003 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 8 Przysądzenie własności, 1004 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1005 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1006 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1007 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1008 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego, 1009 @ KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT > CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE > TYTUŁ II Egzekucja świadczeń pieniężnych > DZIAŁ VI Egzekucja z nieruchomości > Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego ... |
 | WDU20260000521 | rendered round-trip failed: AST=250 rendered=250 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 11; low similarity: 11; missing child markers: 11 |
 
-## Removed — no longer in force (52)
+## Removed — no longer in force (41)
 
 | Address | Title | Status |
 |---------|-------|--------|
-| WDU20140001124 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3… | wygaśnięcie aktu |
-| WDU20180002152 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z … | uchylony |
 | WDU20190001594 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
-| WDU20200000349 | Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z d… | uchylony |
-| WDU20200001053 | Rozporządzenie Ministra Finansów z dnia 12 maja 2020 r.… | uchylony |
-| WDU20200001973 | Obwieszczenie Ministra Sprawiedliwości z dnia 21 paździ… | wygaśnięcie aktu |
-| WDU20210000857 | Obwieszczenie Ministra Rodziny i Polityki Społecznej z … | wygaśnięcie aktu |
 | WDU20220000259 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20220001441 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20230000122 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
@@ -863,15 +880,10 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230001329 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20230001395 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20230001815 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
-| WDU20230001897 | Rozporządzenie Ministra Spraw Wewnętrznych i Administra… | uznany za uchylony |
 | WDU20230001948 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
-| WDU20230002174 | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego… | wygaśnięcie aktu |
-| WDU20230002533 | Obwieszczenie Ministra Zdrowia z dnia 18 października 2… | wygaśnięcie aktu |
-| WDU20240000153 | Obwieszczenie Ministra Sprawiedliwości z dnia 24 styczn… | wygaśnięcie aktu |
 | WDU20240000409 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240000534 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240000630 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
-| WDU20240000634 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społec… | wygaśnięcie aktu |
 | WDU20240001001 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240001112 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
 | WDU20240001130 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |

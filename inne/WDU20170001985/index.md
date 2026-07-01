@@ -29,10 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2017 r. poz. 1769) wprowadza się następujące zmiany:
 
-- **1)** po art. 64a dodaje się art. 64b w brzmieniu: „Art. 64b. 1. Członków Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej, o których mowa w art. 6² ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2016 r. poz. 1255 oraz z 2017 r. poz. 456 i 1386), obowiązanych do wnoszenia opłaty za swój pobyt w domu pomocy społecznej można zwolnić, na ich wniosek albo z urzędu, całkowicie albo częściowo z opłaty za pobyt w domu pomocy społecznej.
-
-2. Przy podejmowaniu decyzji o całkowitym albo częściowym zwolnieniu członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej z opłaty za pobyt w domu pomocy społecznej albo o odmowie zwolnienia organ bierze pod uwagę możliwości i sytuację finansową gminy.”;
-
+- **1)** po art. 64a dodaje się art. 64b w brzmieniu: „Art. 64b. 1. Członków Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej, o których mowa w art. 6² ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2016 r. poz. 1255 oraz z 2017 r. poz. 456 i 1386), obowiązanych do wnoszenia opłaty za swój pobyt w domu pomocy społecznej można zwolnić, na ich wniosek albo z urzędu, całkowicie albo częściowo z opłaty za pobyt w domu pomocy społecznej. 2. Przy podejmowaniu decyzji o całkowitym albo częściowym zwolnieniu członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej z opłaty za pobyt w domu pomocy społecznej albo o odmowie zwolnienia organ bierze pod uwagę możliwości i sytuację finansową gminy.”;
 - **2)** w art. 65:
     - **a)** w ust. 1 wyrazy „nie stosuje się art. 59–64” zastępuje się wyrazami „nie stosuje się art. 59–64b”,
     - **b)** w ust. 2 w zdaniu drugim wyrazy „stosuje się odpowiednio art. 61–64” zastępuje się wyrazami „stosuje się odpowiednio art. 61–64b”;

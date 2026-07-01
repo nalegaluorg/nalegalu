@@ -41,9 +41,7 @@ o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych usta
 
 836. tn1 2
 
-- **4)** w art. 6 ust. 2 i 3 otrzymują brzmienie: „2. Wysokość wynagrodzenia pracownika w okresie jego pierwszego roku pracy, z zastrzeżeniem ust. 3, nie może być niższa niż 80% wysokości minimalnego wynagrodzenia za pracę.
-
-3. Do okresu, o którym mowa w ust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, z wyłączeniem okresów zatrudnienia na podstawie umowy o pracę w celu przygotowania zawodowego.”.
+- **4)** w art. 6 ust. 2 i 3 otrzymują brzmienie: „2. Wysokość wynagrodzenia pracownika w okresie jego pierwszego roku pracy, z zastrzeżeniem ust. 3, nie może być niższa niż 80% wysokości minimalnego wynagrodzenia za pracę. 3. Do okresu, o którym mowa w ust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, z wyłączeniem okresów zatrudnienia na podstawie umowy o pracę w celu przygotowania zawodowego.”.
 
 **Art. 2.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz.U. Nr 86, poz. 789, z późn. zm. ) w art. 22 ust. 3 otrzymuje brzmienie: „3. Wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, o których mowa w ust. 2 pkt 1, nie może przekraczać kwoty 84,90 zł, która jest waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.”.
 
@@ -54,10 +52,10 @@ o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych usta
 
 **Art. 4.** W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz.U. z 2005 r. Nr 85, poz. 728) w art. 3:
 
+1) za używanie odbiornika radiofonicznego - 5,94 zł; 2) za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego - 18,68 zł.”;
+
 - **a)** ust. 1 otrzymuje brzmienie: „1. Wysokość miesięcznej opłaty abonamentowej w danym roku kalendarzowym wynosi:
-- **1)** za używanie odbiornika radiofonicznego - 5,94 zł;
-- **2)** za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego - 18,68 zł.”;
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu:
+- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu:
 
 836. tn1 3 „1a. Kwoty, o których mowa w ust. 1, są waloryzowane w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.”.
 

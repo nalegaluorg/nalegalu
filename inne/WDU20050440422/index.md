@@ -32,25 +32,7 @@ source: pdf
 - **1)** w art. 10b w ust. 2 wyrazy „z zastrzeżeniem ust. zastrzeżeniem ust. 3 i 4 oraz art. 68c ust. 1”;
 - **2)** w art. 29 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „Koszty utworzenia i działania zakładów sowane ze środków Funduszu, samorządu deł, z zastrzeżeniem art. 68c ust. 2.”;
 - **3)** w art. 68b wyrazy „W 2004 r.” zastępuje się wyrazami
-- **4)** po art. 68b dodaje się art. 68c w brzmieniu: „Art. 68c. 1. Maksymalne dofinansowanie ze
-- **1)** działalności, w tym wynikających uczestników warsztatu terapii
-    - **a)** w 2007 r. - 95% tych kosztów,
-    - **b)** w 2008 r. - 90% tych kosztów,
-    - **c)** w 2009 r. i w latach następnych
-
-- **2)** tworzenia warsztatu terapii tach następnych - 70% tych
-
-2. Maksymalne dofinansowanie ze
-
-- **1)** działania zakładów aktywności
-    - **a)** w 2007 r. - 95% tych kosztów,
-    - **b)** w 2008 r. - 90% tych kosztów,
-    - **c)** w 2009 r. i w latach następnych
-
-- **2)** utworzenia zakładów aktywności
-    - **a)** w 2007 r. - 85% tych kosztów,
-    - **b)** w 2008 r. - 75% tych kosztów,
-    - **c)** w 2009 r. i w latach następnych
+- **4)** po art. 68b dodaje się art. 68c w brzmieniu: „Art. 68c. 1. Maksymalne dofinansowanie ze 1) działalności, w tym wynikających uczestników warsztatu terapii a) w 2007 r. - 95% tych kosztów, b) w 2008 r. - 90% tych kosztów, c) w 2009 r. i w latach następnych 2) tworzenia warsztatu terapii tach następnych - 70% tych 2. Maksymalne dofinansowanie ze 1) działania zakładów aktywności a) w 2007 r. - 95% tych kosztów, b) w 2008 r. - 90% tych kosztów, c) w 2009 r. i w latach następnych 2) utworzenia zakładów aktywności a) w 2007 r. - 85% tych kosztów, b) w 2008 r. - 75% tych kosztów, c) w 2009 r. i w latach następnych
 
 **Art. 2.** W ustawie z dnia 20 grudnia 2002 r. o zmianie ustawy społecznej oraz zatrudnianiu osób niepełnosprawnych nych ustaw (Dz.U. z 2003 r. Nr 7, poz. 79 i Nr 202, się następujące zmiany:
 

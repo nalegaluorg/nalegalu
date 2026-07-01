@@ -34,9 +34,7 @@ source: pdf
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Refundacja, o której mowa w ust. 1, nie przysługuje, jeżeli składki zostały opłacone z uchybieniem terminów określonych w art. 40 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników lub art. 47 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych przekraczającym 14 dni.”;
 
 - **2)** w art. 25c ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 stosuje się odpowiednio do niepełnosprawnego rolnika lub rolnika zobowiązanego do opłacania składek za niepełnosprawnego domownika, z tym że rolnik składa wniosek o wypłatę refundacji składek w miesiącu następującym po miesiącu, w którym dokonał zapłaty składek za dany kwartał.”;
-- **3)** w art. 49f po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisy ust. 1 i 2 stosuje się odpowiednio do:
-- **1)** należności pieniężnych dotyczących zwrotu środków przyznanych osobie niepełnosprawnej wykonującej działalność gospodarczą lub niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika na podstawie art. 25a;
-- **2)** odsetek od nienależnie pobranych kwot na podstawie art. 26a.”.
+- **3)** w art. 49f po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisy ust. 1 i 2 stosuje się odpowiednio do: 1) należności pieniężnych dotyczących zwrotu środków przyznanych osobie niepełnosprawnej wykonującej działalność gospodarczą lub niepełnosprawnemu rolnikowi lub rolnikowi zobowiązanemu do opłacania składek za niepełnosprawnego domownika na podstawie art. 25a; 2) odsetek od nienależnie pobranych kwot na podstawie art. 26a.”.
 
 **Art. 2.** Przepisy art. 49f ust. 1 i 2 ustawy, o której mowa w art. 1, stosuje się odpowiednio do należności pieniężnych dotyczących zwrotu środków przyznanych na podstawie:
 

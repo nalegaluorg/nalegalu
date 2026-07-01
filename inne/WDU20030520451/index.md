@@ -32,234 +32,55 @@ source: pdf
 - **1)** w art. 1 po wyrazie „nabywania,” dodaje się wyraz „rejestracji,”;
 - **2)** w art. 3 w pkt 1 po wyrazach „Agencji Wywiadu,” dodaje się wyrazy „Biura Ochrony Rządu,”;
 - **3)** w art. 5 ust. 2 otrzymuje brzmienie: „2. Istotnymi częściami broni palnej i pneumatycznej są: szkielet broni, baskila, lufa, zamek, komora zamkowa oraz bęben nabojowy.”;
-- **4)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. Broń palna może zostać pozbawiona w sposób trwały cech użytkowych przez uprawnionego przedsiębiorcę, zgodnie ze specyfikacją techniczną określającą szczegółowo sposób pozbawiania cech użytkowych danego rodzaju, typu i modelu broni, zwaną dalej „specyfikacją techniczną”, wydaną przez jednostkę uprawnioną i zatwierdzoną przez jednostkę uprawnioną do potwierdzania pozbawienia broni palnej cech użytkowych.
-
-2. Przez pozbawienie broni palnej w sposób trwały cech użytkowych, zwane dalej „pozbawieniem cech użytkowych”, rozumie się pozbawienie cech użytkowych wszystkich istotnych części broni palnej w taki sposób, by mimo działania sprężonych gazów, powstających na skutek spalania materiału miotającego, nie była zdolna do wystrzelenia pocisku lub substancji z lufy albo elementu ją zastępującego oraz do wywołania efektu wizualnego lub akustycznego, a przywrócenie broni cech użytkowych bez podjęcia czynności specjalistycznych nie było możliwe.
-
-3. Uprawnionym przedsiębiorcą do pozbawiania cech użytkowych jest przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni, w rozumieniu ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz.U. Nr 67, poz. 679 oraz z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007).
-
-4. Jednostka uprawniona potwierdza pozbawienie cech użytkowych po dokonaniu pozytywnej oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną. Potwierdzenie pozbawienia cech użytkowych odnotowuje się w ewidencji broni palnej pozbawionej cech użytkowych, prowadzonej przez tę jednostkę.
-
-5. Broń palną pozbawioną cech użytkowych oznakowuje się w sposób wskazujący, że została ona pozbawiona tych cech.
-
-6. Wydanie specyfikacji technicznej, pozbawienie cech użytkowych oraz dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną jest odpłatne.
-
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
-
-- **1)** tryb potwierdzania pozbawienia cech użytkowych i sposób znakowania broni pozbawionej cech użytkowych oraz zakres informacji umieszczanych w ewidencji, o której mowa w ust. 4,
-- **2)** jednostki uprawnione do:
-    - **a)** wydawania specyfikacji technicznych,
-    - **b)** potwierdzania pozbawienia cech użytkowych oraz zatwierdzania specyfikacji technicznej,
-
-- **3)** sposób postępowania z bronią palną przekazaną w celu pozbawienia cech użytkowych, opracowania specyfikacji technicznej oraz potwierdzenia pozbawienia cech użytkowych przez uprawnione jednostki do:
-    - **a)** pozbawiania cech użytkowych,
-    - **b)** wydawania specyfikacji technicznych,
-    - **c)** potwierdzania pozbawienia cech użytkowych,
-
-- **4)** stawki odpłatności za wydanie specyfikacji technicznej i dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną.
-
-8. Minister właściwy do spraw wewnętrznych, mając na względzie wymogi bezpieczeństwa i określając:
-
-- **1)** tryb potwierdzania pozbawienia cech użytkowych i sposób znakowania broni pozbawionej cech użytkowych oraz zakres informacji umieszczanych w ewidencji, o której mowa w ust. 4:
-    - **a)** wprowadzi wymóg przedstawienia jednostce uprawnionej do potwierdzania pozbawienia cech użytkowych dokumentu wystawionego przez jednostkę uprawnioną do pozbawiania cech użytkowych stwierdzającego, że broń palna została pozbawiona cech użytkowych zgodnie ze specyfikacją techniczną,
-    - **b)** może wprowadzić odrębny tryb potwierdzania pozbawienia cech użytkowych w odniesieniu do pojedynczych egzemplarzy broni palnej oraz partii tej broni,
-    - **c)** ustali wymagania, jakim powinno odpowiadać oznakowanie umieszczone na broni palnej pozbawionej cech użytkowych, w szczególności umożliwiające identyfikację jednostki uprawnionej do potwierdzania pozbawienia cech użytkowych oraz egzemplarza broni,
-    - **d)** uwzględni konieczność umieszczenia w ewidencji, o której mowa w ust. 4, informacji jednoznacznie identyfikujących dany egzemplarz broni palnej pozbawionej cech użytkowych oraz uprawnioną jednostkę, która pozbawiła tę broń cech użytkowych,
-
-- **2)** jednostki uprawnione do wydawania specyfikacji technicznych - wskaże rodzaje broni palnej, w odniesieniu do których dana jednostka będzie właściwa do wydawania specyfikacji technicznej, z uwzględnieniem posiadanego przez tę jednostkę wyposażenia badawczego i doświadczenia w zakresie dotyczącym właściwego rodzaju broni, tak by do wydawania specyfikacji technicznej do danego rodzaju, typu i modelu broni była uprawniona jedna jednostka,
-- **3)** jednostki uprawnione do potwierdzania pozbawienia cech użytkowych oraz zatwierdzania specyfikacji technicznej co do sposobów pozbawiania cech użytkowych broni palnej danego rodzaju, typu i modelu - wskaże rodzaje, typy i modele broni palnej, w odniesieniu do których dana jednostka będzie właściwa, przy czym uwzględni warunki w zakresie wyposażenia technicznego tej jednostki pozwalającego stwierdzić, czy pozbawienie broni cech użytkowych nastąpiło zgodnie ze specyfikacją techniczną, oraz warunki dotyczące kwalifikacji osób wykonujących czynności związane bezpośrednio z potwierdzaniem pozbawienia cech użytkowych,
-- **4)** sposób postępowania z bronią palną przekazaną do pozbawienia cech użytkowych, opracowania specyfikacji technicznej oraz potwierdzenia pozbawienia cech użytkowych przez jednostki uprawnione do: pozbawiania broni palnej cech użytkowych, wydawania specyfikacji technicznych oraz potwierdzania pozbawienia cech użytkowych - uwzględni specyfikę podejmowanych w tych jednostkach czynności oraz taką organizację tych czynności, w tym przechowywania broni palnej, aby dostęp do broni palnej był ograniczony wyłącznie do osób bezpośrednio wykonujących te czynności,
-- **5)** stawki odpłatności za wydanie specyfikacji technicznej oraz dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną uwzględni przeciętne koszty badań i czynności związanych z wydaniem specyfikacji technicznej dotyczącej danego rodzaju, typu i modelu broni palnej oraz dokonaniem oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną, włącznie z kosztem znakowania broni.”;
-- **5)** w art. 7:
+- **4)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. Broń palna może zostać pozbawiona w sposób trwały cech użytkowych przez uprawnionego przedsiębiorcę, zgodnie ze specyfikacją techniczną określającą szczegółowo sposób pozbawiania cech użytkowych danego rodzaju, typu i modelu broni, zwaną dalej „specyfikacją techniczną”, wydaną przez jednostkę uprawnioną i zatwierdzoną przez jednostkę uprawnioną do potwierdzania pozbawienia broni palnej cech użytkowych. 2. Przez pozbawienie broni palnej w sposób trwały cech użytkowych, zwane dalej „pozbawieniem cech użytkowych”, rozumie się pozbawienie cech użytkowych wszystkich istotnych części broni palnej w taki sposób, by mimo działania sprężonych gazów, powstających na skutek spalania materiału miotającego, nie była zdolna do wystrzelenia pocisku lub substancji z lufy albo elementu ją zastępującego oraz do wywołania efektu wizualnego lub akustycznego, a przywrócenie broni cech użytkowych bez podjęcia czynności specjalistycznych nie było możliwe. 3. Uprawnionym przedsiębiorcą do pozbawiania cech użytkowych jest przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni, w rozumieniu ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz.U. Nr 67, poz. 679 oraz z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007). 4. Jednostka uprawniona potwierdza pozbawienie cech użytkowych po dokonaniu pozytywnej oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną. Potwierdzenie pozbawienia cech użytkowych odnotowuje się w ewidencji broni palnej pozbawionej cech użytkowych, prowadzonej przez tę jednostkę. 5. Broń palną pozbawioną cech użytkowych oznakowuje się w sposób wskazujący, że została ona pozbawiona tych cech. 6. Wydanie specyfikacji technicznej, pozbawienie cech użytkowych oraz dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną jest odpłatne. 7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: 1) tryb potwierdzania pozbawienia cech użytkowych i sposób znakowania broni pozbawionej cech użytkowych oraz zakres informacji umieszczanych w ewidencji, o której mowa w ust. 4, 2) jednostki uprawnione do: a) wydawania specyfikacji technicznych, b) potwierdzania pozbawienia cech użytkowych oraz zatwierdzania specyfikacji technicznej, 3) sposób postępowania z bronią palną przekazaną w celu pozbawienia cech użytkowych, opracowania specyfikacji technicznej oraz potwierdzenia pozbawienia cech użytkowych przez uprawnione jednostki do: a) pozbawiania cech użytkowych, b) wydawania specyfikacji technicznych, c) potwierdzania pozbawienia cech użytkowych, 4) stawki odpłatności za wydanie specyfikacji technicznej i dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną. 8. Minister właściwy do spraw wewnętrznych, mając na względzie wymogi bezpieczeństwa i określając: 1) tryb potwierdzania pozbawienia cech użytkowych i sposób znakowania broni pozbawionej cech użytkowych oraz zakres informacji umieszczanych w ewidencji, o której mowa w ust. 4: a) wprowadzi wymóg przedstawienia jednostce uprawnionej do potwierdzania pozbawienia cech użytkowych dokumentu wystawionego przez jednostkę uprawnioną do pozbawiania cech użytkowych stwierdzającego, że broń palna została pozbawiona cech użytkowych zgodnie ze specyfikacją techniczną, b) może wprowadzić odrębny tryb potwierdzania pozbawienia cech użytkowych w odniesieniu do pojedynczych egzemplarzy broni palnej oraz partii tej broni, c) ustali wymagania, jakim powinno odpowiadać oznakowanie umieszczone na broni palnej pozbawionej cech użytkowych, w szczególności umożliwiające identyfikację jednostki uprawnionej do potwierdzania pozbawienia cech użytkowych oraz egzemplarza broni, d) uwzględni konieczność umieszczenia w ewidencji, o której mowa w ust. 4, informacji jednoznacznie identyfikujących dany egzemplarz broni palnej pozbawionej cech użytkowych oraz uprawnioną jednostkę, która pozbawiła tę broń cech użytkowych, 2) jednostki uprawnione do wydawania specyfikacji technicznych - wskaże rodzaje broni palnej, w odniesieniu do których dana jednostka będzie właściwa do wydawania specyfikacji technicznej, z uwzględnieniem posiadanego przez tę jednostkę wyposażenia badawczego i doświadczenia w zakresie dotyczącym właściwego rodzaju broni, tak by do wydawania specyfikacji technicznej do danego rodzaju, typu i modelu broni była uprawniona jedna jednostka, 3) jednostki uprawnione do potwierdzania pozbawienia cech użytkowych oraz zatwierdzania specyfikacji technicznej co do sposobów pozbawiania cech użytkowych broni palnej danego rodzaju, typu i modelu - wskaże rodzaje, typy i modele broni palnej, w odniesieniu do których dana jednostka będzie właściwa, przy czym uwzględni warunki w zakresie wyposażenia technicznego tej jednostki pozwalającego stwierdzić, czy pozbawienie broni cech użytkowych nastąpiło zgodnie ze specyfikacją techniczną, oraz warunki dotyczące kwalifikacji osób wykonujących czynności związane bezpośrednio z potwierdzaniem pozbawienia cech użytkowych, 4) sposób postępowania z bronią palną przekazaną do pozbawienia cech użytkowych, opracowania specyfikacji technicznej oraz potwierdzenia pozbawienia cech użytkowych przez jednostki uprawnione do: pozbawiania broni palnej cech użytkowych, wydawania specyfikacji technicznych oraz potwierdzania pozbawienia cech użytkowych - uwzględni specyfikę podejmowanych w tych jednostkach czynności oraz taką organizację tych czynności, w tym przechowywania broni palnej, aby dostęp do broni palnej był ograniczony wyłącznie do osób bezpośrednio wykonujących te czynności, 5) stawki odpłatności za wydanie specyfikacji technicznej oraz dokonanie oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną uwzględni przeciętne koszty badań i czynności związanych z wydaniem specyfikacji technicznej dotyczącej danego rodzaju, typu i modelu broni palnej oraz dokonaniem oceny zgodności pozbawienia cech użytkowych z odpowiednią specyfikacją techniczną, włącznie z kosztem znakowania broni.”;
+- **5)** w art. 7: 3. W rozumieniu ustawy bronią palną alarmową jest urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt akustyczny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 1 metr.”;
     - **a)** kropkę na końcu zastępuje się przecinkiem oraz dodaje się wyrazy „z zastrzeżeniem ust. 2.”,
     - **b)** dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 i 3 w brzmieniu: „2. W rozumieniu ustawy bronią palną sygnałową jest urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, jest zdolne do wystrzelenia z lufy o kalibrze nie mniejszym niż 25 mm substancji w postaci ładunku pirotechnicznego celem wywołania efektu wizualnego lub akustycznego.
 
-3. W rozumieniu ustawy bronią palną alarmową jest urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt akustyczny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 1 metr.”;
-
 - **6)** art. 8 otrzymuje brzmienie: „Art. 8. W rozumieniu ustawy bronią pneumatyczną jest niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17 J.”;
-- **7)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Komendant Główny Policji informuje właściwe władze innych państw członkowskich Unii Europejskiej o rodzajach broni palnej, której:
-- **1)** posiadanie na terytorium Rzeczypospolitej Polskiej jest zakazane albo możliwe na podstawie pozwolenia,
-- **2)** przywóz na terytorium Rzeczypospolitej Polskiej nie wymaga uzyskania zaświadczenia konsula Rzeczypospolitej Polskiej.”;
+- **7)** po art. 8 dodaje się art. 8a w brzmieniu: „Art. 8a. Komendant Główny Policji informuje właściwe władze innych państw członkowskich Unii Europejskiej o rodzajach broni palnej, której: 1) posiadanie na terytorium Rzeczypospolitej Polskiej jest zakazane albo możliwe na podstawie pozwolenia, 2) przywóz na terytorium Rzeczypospolitej Polskiej nie wymaga uzyskania zaświadczenia konsula Rzeczypospolitej Polskiej.”;
 - **8)** tytuł rozdziału 2 otrzymuje brzmienie: „Rozdział 2 Zasady i warunki wydawania, cofania pozwoleń na broń, rejestracji broni oraz dysponowania bronią i amunicją”;
-- **9)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Broń palną i amunicję do tej broni, z wyłączeniem przypadków o których mowa w art. 11, można posiadać na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej.
-
-2. Broń palną pozbawioną cech użytkowych można posiadać na podstawie karty rejestracyjnej broni pozbawionej cech użytkowych wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej.
-
-3. Miotacze gazu obezwładniającego oraz narzędzia i urządzenia, o których mowa w art. 4 ust. 1 pkt 3 i 4, można posiadać na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej.
-
-4. Broń pneumatyczną można posiadać na podstawie karty rejestracyjnej broni pneumatycznej wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej.
-
-5. Ilekroć w dalszych przepisach ustawy jest mowa o właściwych organach Policji, należy przez to rozumieć organy właściwe do wydawania pozwoleń na broń lub karty rejestracyjnej broni, o których mowa w ust. 1-4.
-
-6. Pozwolenie na broń, karta rejestracyjna broni palnej pozbawionej cech użytkowych oraz karta rejestracyjna broni pneumatycznej są wydawane na czas nieokreślony.
-
-7. Pozwolenie na broń palną bojową wydane w celach, o których mowa w art. 10 ust. 3 pkt 1, stanowi jednocześnie pozwolenie na broń gazową i alarmową.
-
-8. Pozwolenie na broń na okaziciela, zwane dalej „świadectwem broni”, o którym mowa w art. 29 ust. 1, oraz legitymacja osoby dopuszczonej do posiadania broni, o której mowa w art. 30 ust. 1 i 2, wydawane są jedynie przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji.”;
-
+- **9)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Broń palną i amunicję do tej broni, z wyłączeniem przypadków o których mowa w art. 11, można posiadać na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej. 2. Broń palną pozbawioną cech użytkowych można posiadać na podstawie karty rejestracyjnej broni pozbawionej cech użytkowych wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej. 3. Miotacze gazu obezwładniającego oraz narzędzia i urządzenia, o których mowa w art. 4 ust. 1 pkt 3 i 4, można posiadać na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej. 4. Broń pneumatyczną można posiadać na podstawie karty rejestracyjnej broni pneumatycznej wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej. 5. Ilekroć w dalszych przepisach ustawy jest mowa o właściwych organach Policji, należy przez to rozumieć organy właściwe do wydawania pozwoleń na broń lub karty rejestracyjnej broni, o których mowa w ust. 1-4. 6. Pozwolenie na broń, karta rejestracyjna broni palnej pozbawionej cech użytkowych oraz karta rejestracyjna broni pneumatycznej są wydawane na czas nieokreślony. 7. Pozwolenie na broń palną bojową wydane w celach, o których mowa w art. 10 ust. 3 pkt 1, stanowi jednocześnie pozwolenie na broń gazową i alarmową. 8. Pozwolenie na broń na okaziciela, zwane dalej „świadectwem broni”, o którym mowa w art. 29 ust. 1, oraz legitymacja osoby dopuszczonej do posiadania broni, o której mowa w art. 30 ust. 1 i 2, wydawane są jedynie przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji.”;
 - **10)** w art. 10 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Noszenie broni, o którym mowa w art. 10 ust. 4, art. 17 ust. 1 pkt 5, art. 18 ust. 1 pkt 4 i ust. 3 pkt 4, art. 32 ust. 1 i 2, art. 33 ust. 1 oraz art. 51 ust. 2 pkt 4, 7 i 10, oznacza każdy sposób przemieszczania broni przez osobę posiadającą pozwolenie na tę broń.”;
-- **11)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Na wniosek osoby posiadającej pozwolenie na broń palną właściwy organ Policji wydaje Europejską kartę broni palnej.
-
-2. Europejską kartę broni palnej wydaje się na okres do 5 lat.
-
-3. Po upływie okresu, o którym mowa w ust. 2, ważność Europejskiej karty broni palnej może być przedłużona na kolejny okres.
-
-4. W przypadku cofnięcia pozwolenia na broń Europejska karta broni palnej traci ważność i podlega zwrotowi organowi, który ją wydał.
-
-5. W Europejskiej karcie broni palnej zamieszcza się informacje o:
-
-- **1)** tożsamości osoby posiadającej broń palną, w tym:
-    - **a)** nazwisko i imię,
-    - **b)** datę i miejsce urodzenia,
-    - **c)** adres miejsca stałego pobytu,
-
-- **2)** danych identyfikacyjnych broni palnej wraz ze wskazaniem kategorii broni palnej, określonej w przepisach wydanych na podstawie ust. 8 pkt 1,
-- **3)** okresie ważności Europejskiej karty broni palnej,
-- **4)** celu lub warunkach pozwolenia, o których mowa w art. 10 ust. 3 i 4,
-- **5)** utracie broni palnej,
-- **6)** państwach członkowskich Unii Europejskiej, na których terytorium posiadanie broni palnej, określonej w Europejskiej karcie broni palnej, jest zakazane albo możliwe na podstawie pozwolenia.
-
-6. Europejska karta broni palnej może zawierać także informacje o:
-
-- **1)** przewozie przez terytorium Rzeczypospolitej Polskiej, przywozie z zagranicy i wywozie za granicę broni palnej oraz zaświadczeniach i zgodach, o których mowa w art. 34, art. 37 ust. 1 i art. 38, jak również wpisy właściwych władz innych państw Unii Europejskiej dotyczące zezwoleń na wwóz na terytorium tych państw lub przewóz przez ich terytorium broni palnej,
-- **2)** warunkach przewozu przez terytorium Rzeczypospolitej Polskiej, przywozu z zagranicy i wywozu za granicę broni palnej.
-
-7. Wpisów do Europejskiej karty broni palnej dokonuje właściwy organ Policji, a w wyznaczonym do tego miejscu i zakresie właściwe władze innych państw członkowskich Unii Europejskiej.
-
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
-
-- **1)** rodzaje broni palnej odpowiadające kategoriom broni palnej określonym w przepisach o kontroli nabywania i posiadania broni, wydanych przez właściwy organ międzynarodowy, uwzględniając klasyfikację określoną w tych przepisach,
-- **2)** wzór Europejskiej karty broni palnej, spełniający wymogi, o których mowa w ust. 5 i 6.”;
-- **12)** w art. 11:
+- **11)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Na wniosek osoby posiadającej pozwolenie na broń palną właściwy organ Policji wydaje Europejską kartę broni palnej. 2. Europejską kartę broni palnej wydaje się na okres do 5 lat. 3. Po upływie okresu, o którym mowa w ust. 2, ważność Europejskiej karty broni palnej może być przedłużona na kolejny okres. 4. W przypadku cofnięcia pozwolenia na broń Europejska karta broni palnej traci ważność i podlega zwrotowi organowi, który ją wydał. 5. W Europejskiej karcie broni palnej zamieszcza się informacje o: 1) tożsamości osoby posiadającej broń palną, w tym: a) nazwisko i imię, b) datę i miejsce urodzenia, c) adres miejsca stałego pobytu, 2) danych identyfikacyjnych broni palnej wraz ze wskazaniem kategorii broni palnej, określonej w przepisach wydanych na podstawie ust. 8 pkt 1, 3) okresie ważności Europejskiej karty broni palnej, 4) celu lub warunkach pozwolenia, o których mowa w art. 10 ust. 3 i 4, 5) utracie broni palnej, 6) państwach członkowskich Unii Europejskiej, na których terytorium posiadanie broni palnej, określonej w Europejskiej karcie broni palnej, jest zakazane albo możliwe na podstawie pozwolenia. 6. Europejska karta broni palnej może zawierać także informacje o: 1) przewozie przez terytorium Rzeczypospolitej Polskiej, przywozie z zagranicy i wywozie za granicę broni palnej oraz zaświadczeniach i zgodach, o których mowa w art. 34, art. 37 ust. 1 i art. 38, jak również wpisy właściwych władz innych państw Unii Europejskiej dotyczące zezwoleń na wwóz na terytorium tych państw lub przewóz przez ich terytorium broni palnej, 2) warunkach przewozu przez terytorium Rzeczypospolitej Polskiej, przywozu z zagranicy i wywozu za granicę broni palnej. 7. Wpisów do Europejskiej karty broni palnej dokonuje właściwy organ Policji, a w wyznaczonym do tego miejscu i zakresie właściwe władze innych państw członkowskich Unii Europejskiej. 8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: 1) rodzaje broni palnej odpowiadające kategoriom broni palnej określonym w przepisach o kontroli nabywania i posiadania broni, wydanych przez właściwy organ międzynarodowy, uwzględniając klasyfikację określoną w tych przepisach, 2) wzór Europejskiej karty broni palnej, spełniający wymogi, o których mowa w ust. 5 i 6.”;
+- **12)** w art. 11: 8) używania broni palnej sygnałowej i alarmowej do celów wzywania pomocy, ratowniczych, poszukiwawczych oraz przez osoby uprawnione do sygnalizacji zawodnikom rozpoczęcia konkurencji sportowej w trakcie zawodów sportowych, jeżeli wymaga ona takiej sygnalizacji,”,
     - **a)** pkt 1 otrzymuje brzmienie: „1) posiadania broni palnej wytworzonej przed rokiem 1850 lub replikę tej broni,”,
     - **b)** po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) dysponowania bronią przekazaną w celu pozbawienia lub potwierdzenia pozbawienia cech użytkowych,”,
     - **c)** pkt 7 i 8 otrzymują brzmienie: „7)posiadania przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie nieprzekraczającej 10 mA,
-
-- **8)** używania broni palnej sygnałowej i alarmowej do celów wzywania pomocy, ratowniczych, poszukiwawczych oraz przez osoby uprawnione do sygnalizacji zawodnikom rozpoczęcia konkurencji sportowej w trakcie zawodów sportowych, jeżeli wymaga ona takiej sygnalizacji,”,
     - **d)** dodaje się pkt 9 i 10 w brzmieniu: ,,9) posiadania broni palnej pozbawionej cech użytkowych,
 
 - **10)** posiadania broni pneumatycznej.”;
-- **13)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Nabywca broni jest zobowiązany zarejestrować ją w ciągu 5 dni od dnia nabycia. Obowiązek rejestracji nie dotyczy broni, o której mowa w art. 11 pkt 1-3a i pkt 5-7.
-
-2. Rejestracji dokonuje się na podstawie dowodu nabycia broni, a w przypadku broni palnej pozbawionej cech użytkowych - dodatkowo po przedstawieniu potwierdzenia pozbawienia broni palnej cech użytkowych.
-
-3. Rejestracji broni dokonują organy właściwe do wydawania pozwoleń na broń, karty rejestracyjnej broni palnej pozbawionej cech użytkowych oraz karty rejestracyjnej broni pneumatycznej, o których mowa w art. 9 ust. 1-4.
-
-4. Zarejestrowanie broni wymagającej pozwolenia potwierdza się w legitymacji posiadacza broni albo w świadectwie broni.
-
-5. Zarejestrowanie broni palnej pozbawionej cech użytkowych oraz broni pneumatycznej potwierdza się w karcie rejestracyjnej broni, która jest wydawana posiadaczowi broni.
-
-6. Zarejestrowanie broni palnej pozbawionej cech użytkowych nie może nastąpić na rzecz osoby, która nie ma ukończonych 18 lat.
-
-7. Broń pneumatyczna nie może być zarejestrowana na rzecz osoby, która:
-
-- **1)** nie ma ukończonych 18 lat,
-- **2)** nie przedstawi:
-    - **a)** orzeczeń, o których mowa w art. 15 ust. 3,
-    - **b)** informacji z Krajowego Rejestru Karnego stwierdzającej, że nie była ona skazana prawomocnym orzeczeniem sądu za przestępstwo przeciwko życiu, zdrowiu lub mieniu.
-
-8. W przypadku niespełnienia wymogów, o których mowa w ust. 6 lub 7, właściwy organ wydaje decyzję administracyjną o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej.
-
-9. W przypadku wydania decyzji administracyjnej o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej Policja, a w przypadku żołnierzy zawodowych - Żandarmeria Wojskowa, może za pokwitowaniem przyjąć tę broń do depozytu. Koszty związane z deponowaniem broni ponosi osoba zgłaszająca broń do rejestracji. Przepis art. 23 ust. 3 stosuje się odpowiednio.”;
-
+- **13)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Nabywca broni jest zobowiązany zarejestrować ją w ciągu 5 dni od dnia nabycia. Obowiązek rejestracji nie dotyczy broni, o której mowa w art. 11 pkt 1-3a i pkt 5-7. 2. Rejestracji dokonuje się na podstawie dowodu nabycia broni, a w przypadku broni palnej pozbawionej cech użytkowych - dodatkowo po przedstawieniu potwierdzenia pozbawienia broni palnej cech użytkowych. 3. Rejestracji broni dokonują organy właściwe do wydawania pozwoleń na broń, karty rejestracyjnej broni palnej pozbawionej cech użytkowych oraz karty rejestracyjnej broni pneumatycznej, o których mowa w art. 9 ust. 1-4. 4. Zarejestrowanie broni wymagającej pozwolenia potwierdza się w legitymacji posiadacza broni albo w świadectwie broni. 5. Zarejestrowanie broni palnej pozbawionej cech użytkowych oraz broni pneumatycznej potwierdza się w karcie rejestracyjnej broni, która jest wydawana posiadaczowi broni. 6. Zarejestrowanie broni palnej pozbawionej cech użytkowych nie może nastąpić na rzecz osoby, która nie ma ukończonych 18 lat. 7. Broń pneumatyczna nie może być zarejestrowana na rzecz osoby, która: 1) nie ma ukończonych 18 lat, 2) nie przedstawi: a) orzeczeń, o których mowa w art. 15 ust. 3, b) informacji z Krajowego Rejestru Karnego stwierdzającej, że nie była ona skazana prawomocnym orzeczeniem sądu za przestępstwo przeciwko życiu, zdrowiu lub mieniu. 8. W przypadku niespełnienia wymogów, o których mowa w ust. 6 lub 7, właściwy organ wydaje decyzję administracyjną o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej. 9. W przypadku wydania decyzji administracyjnej o odmowie zarejestrowania broni palnej pozbawionej cech użytkowych albo broni pneumatycznej Policja, a w przypadku żołnierzy zawodowych - Żandarmeria Wojskowa, może za pokwitowaniem przyjąć tę broń do depozytu. Koszty związane z deponowaniem broni ponosi osoba zgłaszająca broń do rejestracji. Przepis art. 23 ust. 3 stosuje się odpowiednio.”;
 - **14)** art. 14 otrzymuje brzmienie: „Art. 14. Amunicję można nabywać na podstawie legitymacji posiadacza broni lub świadectwa broni, wyłącznie dla tej broni, która jest określona w legitymacji albo na podstawie świadectwa broni i pisemnego zamówienia podmiotu uprawnionego do nabycia amunicji.”;
 - **15)** użyte w art. 15 ust. 1 pkt 5, art. 17 ust. 1 pkt 4, art. 26 w różnym przypadku wyrazy „miejsce zamieszkania” zastępuje się użytymi w odpowiednim przypadku wyrazami „miejsce stałego pobytu”;
-- **16)** w art. 15:
+- **16)** w art. 15: 3. Osoba, która występuje z podaniem o wydanie pozwolenia na broń lub zgłasza do rejestru broń pneumatyczną, przedstawia właściwemu organowi Policji orzeczenia lekarskie i psychologiczne wydane przez upoważnionych: lekarza i psychologa, stwierdzające, że nie należy ona do osób wymienionych w ust. 1 pkt 2-4, i potwierdzające, że może ona dysponować bronią.”, 5. W przypadku ujawnienia okoliczności dostatecznie uzasadniających podejrzenie, iż osoba posiadająca pozwolenie na broń lub zarejestrowaną broń pneumatyczną należy do osób wymienionych w ust. 1 pkt 2-4, właściwy organ Policji może zobowiązać tę osobę do niezwłocznego poddania się badaniom lekarskim i psychologicznym i przedstawienia wydanych orzeczeń. W przypadku wydania negatywnego orzeczenia lekarz lub psycholog zobowiązany jest zawiadomić o tym właściwy organ Policji.”,
     - **a)** w ust. 1: - pkt 1 otrzymuje brzmienie: „1) niemającym ukończonych 21 lat, z zastrzeżeniem ust. 2,”, - pkt 6 otrzymuje brzmienie: „6) co do których istnieje uzasadniona obawa, że mogą użyć broni w celu sprzecznym z interesem bezpieczeństwa lub porządku publicznego, w szczególności skazanym prawomocnym orzeczeniem sądu za przestępstwo przeciwko życiu, zdrowiu lub mieniu albo wobec których toczy się postępowanie karne o popełnienie takich przestępstw.”,
     - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Na wniosek szkoły, organizacji sportowej, Polskiego Związku Łowieckiego, stowarzyszenia obronnego pozwolenie może być wydane osobie mającej ukończone 18 lat, jednakże tylko na broń służącą do celów sportowych lub łowieckich.
+    - **c)** ust. 4 i 5 otrzymują brzmienie: „4. Osoba posiadająca pozwolenie na broń wydane w celu określonym w art. 10 ust. 3 pkt 1 obowiązana jest raz na pięć lat przedstawić właściwemu organowi Policji aktualne orzeczenie lekarskie i psychologiczne, o których mowa w ust. 3. W przypadku wydania negatywnego orzeczenia lekarz lub psycholog zobowiązany jest zawiadomić o tym właściwy organ Policji.
+    - **d)** w ust. 6 po wyrazach „Agencji Wywiadu,” dodaje się wyrazy „Biura Ochrony Rządu”,
+    - **e)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz stanów chorobowych i zaburzeń funkcjonowania psychologicznego, o których mowa w ust. 1 pkt 2-4, wykluczających możliwość wydania pozwolenia na broń, rejestracji broni, biorąc pod uwagę uniemożliwienie wydania pozwolenia na broń lub karty rejestracyjnej broni pneumatycznej osobom niedającym rękojmi bezpiecznego posługiwania się bronią.”;
 
-3. Osoba, która występuje z podaniem o wydanie pozwolenia na broń lub zgłasza do rejestru broń pneumatyczną, przedstawia właściwemu organowi Policji orzeczenia lekarskie i psychologiczne wydane przez upoważnionych: lekarza i psychologa, stwierdzające, że nie należy ona do osób wymienionych w ust. 1 pkt 2-4, i potwierdzające, że może ona dysponować bronią.”,
-
-- **c)** ust. 4 i 5 otrzymują brzmienie: „4. Osoba posiadająca pozwolenie na broń wydane w celu określonym w art. 10 ust. 3 pkt 1 obowiązana jest raz na pięć lat przedstawić właściwemu organowi Policji aktualne orzeczenie lekarskie i psychologiczne, o których mowa w ust. 3. W przypadku wydania negatywnego orzeczenia lekarz lub psycholog zobowiązany jest zawiadomić o tym właściwy organ Policji.
-
-5. W przypadku ujawnienia okoliczności dostatecznie uzasadniających podejrzenie, iż osoba posiadająca pozwolenie na broń lub zarejestrowaną broń pneumatyczną należy do osób wymienionych w ust. 1 pkt 2-4, właściwy organ Policji może zobowiązać tę osobę do niezwłocznego poddania się badaniom lekarskim i psychologicznym i przedstawienia wydanych orzeczeń. W przypadku wydania negatywnego orzeczenia lekarz lub psycholog zobowiązany jest zawiadomić o tym właściwy organ Policji.”,
-
-- **d)** w ust. 6 po wyrazach „Agencji Wywiadu,” dodaje się wyrazy „Biura Ochrony Rządu”,
-- **e)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz stanów chorobowych i zaburzeń funkcjonowania psychologicznego, o których mowa w ust. 1 pkt 2-4, wykluczających możliwość wydania pozwolenia na broń, rejestracji broni, biorąc pod uwagę uniemożliwienie wydania pozwolenia na broń lub karty rejestracyjnej broni pneumatycznej osobom niedającym rękojmi bezpiecznego posługiwania się bronią.”;
-- **17)** w art. 17:
+- **17)** w art. 17: 4. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, która nie przedstawiła orzeczenia lekarskiego i psychologicznego, o którym mowa w art. 15 ust. 3.”;
     - **a)** w ust. 1 w pkt 3 skreśla się wyraz „Policji”,
     - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, która nie zdała egzaminu, o którym mowa w art. 16 ust. 1.
 
-4. Właściwy organ Policji odmawia wydania pozwolenia na broń osobie, która nie przedstawiła orzeczenia lekarskiego i psychologicznego, o którym mowa w art. 15 ust. 3.”;
-
-- **18)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:
-- **1)** nie przestrzega warunków określonych w pozwoleniu na broń, o których mowa w art. 10 ust. 4,
-- **2)** należy do osób, o których mowa w art. 15 ust. 1 pkt 2-6,
-- **3)** naruszyła obowiązek zawiadomienia o utracie broni, o którym mowa w art. 25,
-- **4)** nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego.
-
-2. Przepisy ust. 1 pkt 2-4 stosuje się odpowiednio do osób dopuszczonych do posiadania broni, o których mowa w art. 30 ust. 1 i 3.
-
-3. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 1 pkt 2-4, unieważnia się kartę rejestracyjną broni.
-
-4. Właściwy organ Policji może cofnąć pozwolenie na broń, jeżeli ustały okoliczności faktyczne, które stanowiły podstawę do jego wydania.
-
-5. Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:
-
-- **1)** obowiązku rejestracji broni, o którym mowa w art. 13 ust. 1,
-- **2)** obowiązku poddania się badaniom lekarskim i psychologicznym i przedstawienia orzeczeń lekarskiego i psychologicznego, o których mowa w art. 15 ust. 3-5,
-- **3)** obowiązku zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu, o którym mowa w art. 26,
-- **4)** zasad przechowywania, noszenia oraz ewidencjonowania broni i amunicji, o których mowa w art. 32,
-- **5)** wymogu uzyskania zgody na wywóz broni i amunicji za granicę, o którym mowa w art. 38,
-- **6)** zasady, o której mowa w art. 45,
-- **7)** zakazu użyczania broni osobie nieupoważnionej.
-
-6. Przepisy ust. 5 pkt 2-3 i 6 stosuje się odpowiednio do osób posiadających dopuszczenie do posiadania broni.
-
-7. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 5 pkt 2-6, można unieważnić kartę rejestracyjną broni.”;
-
-- **19)** w art. 19 ust. 1 i 2 otrzymują brzmienie: „Art. 19. 1. Osobie posiadającej broń zgodnie z przepisami ustawy Policja, a w przypadku żołnierzy zawodowych Żandarmeria Wojskowa, może za pokwitowaniem odebrać broń i amunicję oraz dokumenty potwierdzające legalność posiadania broni w przypadku ujawnienia:
-- **1)** okoliczności, o których mowa w art. 18 ust. 1 pkt 1-2 i 4 oraz ust. 3, w zakresie broni palnej,
-- **2)** okoliczności, o których mowa w art. 18 ust. 1 pkt 2 i 4 oraz ust. 3 pkt 2-6, w zakresie zarejestrowanej broni pneumatycznej, - a zwłoka zagrażałaby bezpieczeństwu publicznemu.
-
-2. Broń oraz dokumenty, o których mowa w ust. 1, niezwłocznie przekazuje się do depozytu właściwemu organowi Policji albo Żandarmerii Wojskowej.”;
-
+- **18)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano: 1) nie przestrzega warunków określonych w pozwoleniu na broń, o których mowa w art. 10 ust. 4, 2) należy do osób, o których mowa w art. 15 ust. 1 pkt 2-6, 3) naruszyła obowiązek zawiadomienia o utracie broni, o którym mowa w art. 25, 4) nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego. 2. Przepisy ust. 1 pkt 2-4 stosuje się odpowiednio do osób dopuszczonych do posiadania broni, o których mowa w art. 30 ust. 1 i 3. 3. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 1 pkt 2-4, unieważnia się kartę rejestracyjną broni. 4. Właściwy organ Policji może cofnąć pozwolenie na broń, jeżeli ustały okoliczności faktyczne, które stanowiły podstawę do jego wydania. 5. Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie: 1) obowiązku rejestracji broni, o którym mowa w art. 13 ust. 1, 2) obowiązku poddania się badaniom lekarskim i psychologicznym i przedstawienia orzeczeń lekarskiego i psychologicznego, o których mowa w art. 15 ust. 3-5, 3) obowiązku zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu, o którym mowa w art. 26, 4) zasad przechowywania, noszenia oraz ewidencjonowania broni i amunicji, o których mowa w art. 32, 5) wymogu uzyskania zgody na wywóz broni i amunicji za granicę, o którym mowa w art. 38, 6) zasady, o której mowa w art. 45, 7) zakazu użyczania broni osobie nieupoważnionej. 6. Przepisy ust. 5 pkt 2-3 i 6 stosuje się odpowiednio do osób posiadających dopuszczenie do posiadania broni. 7. Osobom posiadającym zarejestrowaną broń pneumatyczną w przypadkach, o których mowa w ust. 5 pkt 2-6, można unieważnić kartę rejestracyjną broni.”;
+- **19)** w art. 19 ust. 1 i 2 otrzymują brzmienie: „Art. 19. 1. Osobie posiadającej broń zgodnie z przepisami ustawy Policja, a w przypadku żołnierzy zawodowych Żandarmeria Wojskowa, może za pokwitowaniem odebrać broń i amunicję oraz dokumenty potwierdzające legalność posiadania broni w przypadku ujawnienia: 1) okoliczności, o których mowa w art. 18 ust. 1 pkt 1-2 i 4 oraz ust. 3, w zakresie broni palnej, 2) okoliczności, o których mowa w art. 18 ust. 1 pkt 2 i 4 oraz ust. 3 pkt 2-6, w zakresie zarejestrowanej broni pneumatycznej, - a zwłoka zagrażałaby bezpieczeństwu publicznemu. 2. Broń oraz dokumenty, o których mowa w ust. 1, niezwłocznie przekazuje się do depozytu właściwemu organowi Policji albo Żandarmerii Wojskowej.”;
 - **20)** art. 20 otrzymuje brzmienie: „Art. 20. Cofnięcie pozwolenia na broń, dopuszczenia do posiadania broni oraz unieważnienie karty rejestracyjnej broni pneumatycznej następuje w drodze decyzji administracyjnej.”;
 - **21)** w art. 22:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Osoba, która utraciła uprawnienie do posiadania broni lub której unieważniono kartę rejestracyjną broni pneumatycznej, jest obowiązana niezwłocznie zbyć broń i amunicję do tej broni.”;
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Za wykonanie obowiązku, o którym mowa w ust. 1, uważa się także pozbawienie broni palnej cech użytkowych.”;
 
-- **22)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Koszty związane z deponowaniem broni i amunicji ponosi:
-- **1)** Policja lub Żandarmeria Wojskowa - w przypadku przejęcia jej do depozytu w trybie określonym w art. 19 ust. 1 i 3 lub art. 36 ust. 2, oraz przekazania do depozytu przez znalazcę,
-- **2)** osoba, która utraciła prawo do jej posiadania, deponująca ją w trybie określonym w art. 22 ust. 3,
-- **3)** osoba deponująca, która weszła w jej posiadanie po osobie zmarłej,
-- **4)** osoba deponująca ją w trybie, o którym mowa w art. 41 ust. 2, art. 42 ust. 5, art. 43 ust. 4 i 7 oraz w art. 54.
-
-2. Osoba składająca do depozytu broń, amunicję, z wyjątkiem znalazcy tej broni lub amunicji, w zakresie tej broni może:
-
-- **1)** wyrazić zgodę na jej zniszczenie - do protokołu przyjęcia broni oraz amunicji,
-- **2)** złożyć pisemny wniosek o zniszczenie broni oraz amunicji,
-- **3)** złożyć pisemne oświadczenie woli o przeniesieniu własności broni oraz amunicji na rzecz Skarbu Państwa.
-
-3. W przypadku, o którym mowa w ust. 2, opłaty związane z deponowaniem broni i amunicji są pobierane po upływie roku od dnia ich złożenia do depozytu.”;
-
+- **22)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Koszty związane z deponowaniem broni i amunicji ponosi: 1) Policja lub Żandarmeria Wojskowa - w przypadku przejęcia jej do depozytu w trybie określonym w art. 19 ust. 1 i 3 lub art. 36 ust. 2, oraz przekazania do depozytu przez znalazcę, 2) osoba, która utraciła prawo do jej posiadania, deponująca ją w trybie określonym w art. 22 ust. 3, 3) osoba deponująca, która weszła w jej posiadanie po osobie zmarłej, 4) osoba deponująca ją w trybie, o którym mowa w art. 41 ust. 2, art. 42 ust. 5, art. 43 ust. 4 i 7 oraz w art. 54. 2. Osoba składająca do depozytu broń, amunicję, z wyjątkiem znalazcy tej broni lub amunicji, w zakresie tej broni może: 1) wyrazić zgodę na jej zniszczenie - do protokołu przyjęcia broni oraz amunicji, 2) złożyć pisemny wniosek o zniszczenie broni oraz amunicji, 3) złożyć pisemne oświadczenie woli o przeniesieniu własności broni oraz amunicji na rzecz Skarbu Państwa. 3. W przypadku, o którym mowa w ust. 2, opłaty związane z deponowaniem broni i amunicji są pobierane po upływie roku od dnia ich złożenia do depozytu.”;
 - **23)** art. 24 otrzymuje brzmienie: „Art. 24. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej oraz z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe zasady deponowania i niszczenia broni i amunicji w depozycie Policji, Żandarmerii Wojskowej lub organu celnego, o którym mowa w art. 37 ust. 3, oraz stawki odpłatności za ich przechowywanie w depozycie, z uwzględnieniem zapewnienia protokolarnego przejęcia broni i amunicji do depozytu, prowadzenia ich ewidencji oraz utrzymywania w odpowiednim stanie technicznym, a także sposobu i trybu postępowania Policji i Żandarmerii Wojskowej lub organu celnego ze zdeponowaną bronią i amunicją, w tym nienadającą się do dalszego użytku, w przypadku wyrażenia zgody lub wniosku o ich zniszczenie lub przeniesienia własności broni lub amunicji na rzecz Skarbu Państwa przez osobę deponującą.”;
 - **24)** art. 25 otrzymuje brzmienie: „Art. 25. Posiadacz broni w przypadku jej utraty jest zobowiązany niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili stwierdzenia utraty broni, zawiadomić o tym Policję albo Żandarmerię Wojskową.”;
 - **25)** w art. 26 po wyrazie „broń” dodaje się wyrazy „lub posiadająca broń podlegającą rejestracji, która nie wymaga pozwolenia na broń,”;
-- **26)** w art. 27:
+- **26)** w art. 27: 1) dane osobowe osób: a) posiadających pozwolenie na broń, b) dopuszczonych do posiadania broni, posiadających legitymację osoby dopuszczonej do posiadania broni, c) ubiegających się o pozwolenie na broń lub dopuszczenie do posiadania broni, d) posiadających kartę rejestracyjną broni, 2) dane dotyczące podmiotów, o których mowa w art. 29 ust. 1, 3) urzędowe informacje i opinie o tych osobach i podmiotach sporządzone w związku ze sprawami pozwoleń na broń, 4) określenie liczby posiadanych przez te osoby lub podmioty egzemplarzy broni oraz jej rodzaju i cech identyfikacyjnych.”, 1)imię i nazwisko, 2)imię ojca i imię matki, 3)miejsce i datę urodzenia, 4)adres miejsca stałego pobytu, 5)numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL).”; 4. Komendant Główny Żandarmerii Wojskowej przekazuje raz w roku, w terminie do 1 marca, Komendantowi Głównemu Policji informację o liczbie pozwoleń na broń wydanych w roku poprzednim, wraz z informacją o liczbie egzemplarzy i rodzajach broni, na które pozwolenia te zostały wydane.”,
     - **a)** ust. 2 otrzymuje brzmienie: „2. Komendant Główny Policji, z zastrzeżeniem ust. 3, prowadzi rejestr zawierający:
-
-- **1)** dane osobowe osób:
-    - **a)** posiadających pozwolenie na broń,
-    - **b)** dopuszczonych do posiadania broni, posiadających legitymację osoby dopuszczonej do posiadania broni,
-    - **c)** ubiegających się o pozwolenie na broń lub dopuszczenie do posiadania broni,
-    - **d)** posiadających kartę rejestracyjną broni,
-
-- **2)** dane dotyczące podmiotów, o których mowa w art. 29 ust. 1,
-- **3)** urzędowe informacje i opinie o tych osobach i podmiotach sporządzone w związku ze sprawami pozwoleń na broń,
-- **4)** określenie liczby posiadanych przez te osoby lub podmioty egzemplarzy broni oraz jej rodzaju i cech identyfikacyjnych.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Dane osobowe, o których mowa w ust. 2 pkt 1, obejmują:
-
-- **1)** imię i nazwisko,
-- **2)** imię ojca i imię matki,
-- **3)** miejsce i datę urodzenia,
-- **4)** adres miejsca stałego pobytu,
-- **5)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL).”;
     - **c)** ust. 3 i 4 otrzymują brzmienie: „3. Dane osobowe żołnierzy zawodowych posiadających pozwolenie na broń, urzędowe informacje i opinie o tych osobach sporządzone w związku ze sprawami pozwoleń na broń oraz liczba posiadanych przez te osoby egzemplarzy broni, rodzaj i cechy identyfikacyjne tej broni podlegają wpisowi do rejestru prowadzonego przez Komendanta Głównego Żandarmerii Wojskowej.
+    - **d)** w ust. 6 wyrazy „adres zamieszkania” zastępuje się wyrazami „adres miejsca stałego pobytu”;
 
-4. Komendant Główny Żandarmerii Wojskowej przekazuje raz w roku, w terminie do 1 marca, Komendantowi Głównemu Policji informację o liczbie pozwoleń na broń wydanych w roku poprzednim, wraz z informacją o liczbie egzemplarzy i rodzajach broni, na które pozwolenia te zostały wydane.”,
-
-- **d)** w ust. 6 wyrazy „adres zamieszkania” zastępuje się wyrazami „adres miejsca stałego pobytu”;
 - **27)** w art. 29 w ust. 1:
     - **a)** w zdaniu wstępnym wyrazy „Pozwolenie na broń na okaziciela, zwane dalej „świadectwem broni”, może być wydane:” zastępuje się wyrazami „Świadectwo broni może być wydane:”,
     - **b)** w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „7) podmiotom, którym broń jest niezbędna w celach wzywania pomocy, ratowniczych, poszukiwawczych oraz sygnalizowania rozpoczęcia konkurencji w zawodach sportowych.”;
@@ -269,38 +90,17 @@ source: pdf
     - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przywóz oraz wywóz broni i amunicji przez cudzoziemców, o których mowa w ust. 1 i 2, będących obywatelami Unii Europejskiej może nastąpić także na podstawie Europejskiej karty broni palnej, wydanej przez państwo członkowskie Unii Europejskiej, jeżeli broń ta jest wpisana do Europejskiej karty broni palnej i cudzoziemiec jest w stanie uzasadnić powód swojej podróży z bronią. Przepisy ust. 1, 2 i 4 stosuje się.”,
     - **b)** w ust. 8 wyrazy „miejsce stałego zamieszkania” zastępuje się wyrazami „miejsce stałego pobytu”;
 
-- **30)** w art. 43:
+- **30)** w art. 43: 1)nazwiska lub nazwy oraz adresu zbywającego broń cudzoziemcowi, 2)adresu, pod który broń ma być wysłana bądź przetransportowana, 3)informacji umożliwiających identyfikację broni, w szczególności: rodzaj i typ broni, jej markę, kaliber, numer fabryczny, 4)środka transportu, którym broń będzie przemieszczana za granicę, 5)planowanych dat wywozu broni za granicę oraz przybycia z bronią do miejsca przeznaczenia za granicą.”, 1)dane osobowe cudzoziemców, o których mowa w art. 39 ust. 1, art. 40, art. 42 ust. 1 i 2 i art. 43 ust. 1, obejmujące: a) nazwisko i imię, b) miejsce i datę urodzenia, c) adres miejsca stałego pobytu, d) obywatelstwo, 2)informacje urzędowe o terminowych pozwoleniach na broń, zaświadczeniach, zatrzymaniu broni i złożeniu jej do depozytu oraz inne informacje o przewozie przez terytorium Rzeczypospolitej Polskiej, przywozie z zagranicy i wywozie za granicę broni palnej przez cudzoziemców, wraz z danymi wymienionymi w ust. 6, 3)rodzaj i numer dokumentu uprawniającego do przekroczenia granicy, - rejestr ten może być prowadzony łącznie z rejestrem, o którym mowa w art. 27 ust. 2. 12. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przekazywania przez Komendanta Głównego Policji właściwym władzom państw członkowskich Unii Europejskiej informacji, o których mowa w ust. 10, w taki sposób, aby przekazywanie tych informacji odbywało się nie później niż w chwili przewozu broni przez granicę Rzeczypospolitej Polskiej.”;
     - **a)** ust. 6 otrzymuje brzmienie: „6. Wydanie cudzoziemcowi broni z depozytu policyjnego następuje wraz z wydaniem zaświadczenia, o którym mowa w ust. 5, po podaniu przez cudzoziemca:
-
-- **1)** nazwiska lub nazwy oraz adresu zbywającego broń cudzoziemcowi,
-- **2)** adresu, pod który broń ma być wysłana bądź przetransportowana,
-- **3)** informacji umożliwiających identyfikację broni, w szczególności: rodzaj i typ broni, jej markę, kaliber, numer fabryczny,
-- **4)** środka transportu, którym broń będzie przemieszczana za granicę,
-- **5)** planowanych dat wywozu broni za granicę oraz przybycia z bronią do miejsca przeznaczenia za granicą.”,
     - **b)** ust. 10 otrzymuje brzmienie: „10. Komendant wojewódzki Policji niezwłocznie zawiadamia Komendanta Głównego Policji o nabyciu broni przez cudzoziemca oraz o wydaniu zaświadczenia, o którym mowa w ust. 5, przekazując dane zawarte w upoważnieniu, o którym mowa w ust. 1, oraz dane wymienione w ust. 6. Komendant Główny Policji niezwłocznie zawiadamia właściwe władze państwa, które wydało cudzoziemcowi upoważnienie, o którym mowa w ust. 1, oraz państwa, przez którego terytorium odbywać się będzie przewóz broni, a w przypadku gdy takie władze nie zostały wskazane - konsulów tych państw, o nabyciu broni przez cudzoziemca i zamiarze jej wywozu, przekazując informacje w tym zakresie.”,
     - **c)** dodaje się ust. 11 i 12 w brzmieniu: „11. Komendant Główny Policji prowadzi rejestr zawierający:
 
-- **1)** dane osobowe cudzoziemców, o których mowa w art. 39 ust. 1, art. 40, art. 42 ust. 1 i 2 i art. 43 ust. 1, obejmujące:
-    - **a)** nazwisko i imię,
-    - **b)** miejsce i datę urodzenia,
-    - **c)** adres miejsca stałego pobytu,
-    - **d)** obywatelstwo,
-
-- **2)** informacje urzędowe o terminowych pozwoleniach na broń, zaświadczeniach, zatrzymaniu broni i złożeniu jej do depozytu oraz inne informacje o przewozie przez terytorium Rzeczypospolitej Polskiej, przywozie z zagranicy i wywozie za granicę broni palnej przez cudzoziemców, wraz z danymi wymienionymi w ust. 6,
-- **3)** rodzaj i numer dokumentu uprawniającego do przekroczenia granicy, - rejestr ten może być prowadzony łącznie z rejestrem, o którym mowa w art. 27 ust. 2.
-
-12. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przekazywania przez Komendanta Głównego Policji właściwym władzom państw członkowskich Unii Europejskiej informacji, o których mowa w ust. 10, w taki sposób, aby przekazywanie tych informacji odbywało się nie później niż w chwili przewozu broni przez granicę Rzeczypospolitej Polskiej.”;
-
 - **31)** w art. 49 po wyrazach „Agencji Wywiadu,” dodaje się wyrazy „Biura Ochrony Rządu,”;
-- **32)** w art. 51:
+- **32)** w art. 51: 4) nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowych albo środka zastępczego,”; 1)legitymacji posiadacza broni lub Europejskiej karty broni palnej albo innego dokumentu upoważniającego do posiadania broni, 2)legitymacji osoby dopuszczonej do posiadania broni i świadectwa broni, podlega karze grzywny.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Kto bez wymaganej rejestracji posiada broń pneumatyczną albo zbywa osobie nieuprawnionej broń pneumatyczną albo miotacz gazu obezwładniającego lub narzędzie albo urządzenie, którego używanie może zagrażać życiu lub zdrowiu, podlega karze aresztu albo grzywny.”,
     - **b)** w ust. 2 pkt 3 i 4 otrzymują brzmienie: „3) posiadając pozwolenie na broń lub posiadając broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, nie dopełnia obowiązku pisemnego zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu w terminie 14 dni od dnia zmiany miejsca stałego pobytu,
-
-- **4)** nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowych albo środka zastępczego,”;
     - **c)** ust. 3 otrzymuje brzmienie: „3. Kto posiada broń, nie mając przy sobie:
 
-- **1)** legitymacji posiadacza broni lub Europejskiej karty broni palnej albo innego dokumentu upoważniającego do posiadania broni,
-- **2)** legitymacji osoby dopuszczonej do posiadania broni i świadectwa broni, podlega karze grzywny.”;
 - **33)** art. 55 otrzymuje brzmienie: „Art. 55. Traci moc ustawa z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych (Dz.U. Nr 6, poz. 43, z 1983 r. Nr 6, poz. 35, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 35, poz. 192 oraz z 1997 r. Nr 6, poz. 31, Nr 88, poz. 554 i Nr 114, poz. 740).”.
 
 **Art. 2.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz.U. Nr 27, poz. 298 i Nr 106, poz. 1049 oraz z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271) wprowadza się następujące zmiany:

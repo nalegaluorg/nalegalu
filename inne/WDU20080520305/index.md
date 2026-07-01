@@ -31,10 +31,7 @@ source: pdf
 
 - **1)** w art. 5 ust. 1 otrzymuje brzmienie: „1. Posiadacz Karty Polaka może ubiegać się o zwolnienie z opłaty za przyjęcie i rozpatrzenie wniosku o wydanie wizy pobytowej krajowej lub o refundację tej opłaty.”;
 - **2)** w art. 9 w ust. 5 po pkt 3 skreśla się przecinek i uchyla się pkt 4;
-- **3)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Przed wydaniem decyzji o przyznaniu Karty Polaka właściwy konsul może zwrócić się do Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do innych organów administracji publicznej, z wnioskiem o przekazanie informacji, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6.
-
-2. Szef Agencji Bezpieczeństwa Wewnętrznego i inne organy administracji publicznej przekazują informacje, o których mowa w ust. 1, w terminie 14 dni od dnia otrzymania wniosku o ich przekazanie. Nieprzekazanie informacji w tym terminie uznaje się za równoważne z brakiem okoliczności, o których mowa w art. 19 pkt 5 i 6.”;
-
+- **3)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. 1. Przed wydaniem decyzji o przyznaniu Karty Polaka właściwy konsul może zwrócić się do Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do innych organów administracji publicznej, z wnioskiem o przekazanie informacji, czy wobec wnioskodawcy zachodzą okoliczności, o których mowa w art. 19 pkt 5 lub 6. 2. Szef Agencji Bezpieczeństwa Wewnętrznego i inne organy administracji publicznej przekazują informacje, o których mowa w ust. 1, w terminie 14 dni od dnia otrzymania wniosku o ich przekazanie. Nieprzekazanie informacji w tym terminie uznaje się za równoważne z brakiem okoliczności, o których mowa w art. 19 pkt 5 i 6.”;
 - **4)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Dane z rejestru, o którym mowa w art. 23 ust. 1, są udostępniane za pośrednictwem urządzeń teleinformatycznych, bez konieczności składania pisemnych wniosków, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, konsulom oraz organom Policji i Straży Granicznej, w zakresie niezbędnym do wykonywania zadań ustawowych tych organów.”;
 - **5)** uchyla się art. 30.
 

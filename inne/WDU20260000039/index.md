@@ -29,12 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558 oraz z 2025 r. poz. 1077) wprowadza się następujące zmiany:
 
-- **1)** w art. 8 po ust. 1 dodaje się ust. 1 –1 w brzmieniu: „1 . Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:
-- **1)** osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;
-- **2)** adwokat lub radca prawny;
-- **3)** inny członek tej samej spółdzielni.
-
-1. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 , że spełnia wymóg, o którym mowa w ust. 1 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+- **1)** w art. 8 po ust. 1 dodaje się ust. 1 –1 w brzmieniu: „1 . Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być: 1) osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu; 2) adwokat lub radca prawny; 3) inny członek tej samej spółdzielni. 1 . Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 , że spełnia wymóg, o którym mowa w ust. 1 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
 
 1. Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1 zdanie pierwsze, jest nieważne.
 

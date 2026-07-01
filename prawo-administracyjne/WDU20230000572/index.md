@@ -29,110 +29,24 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2023 r. poz. 40) wprowadza się następujące zmiany:
 
-- **1)** w art. 5c:
+- **1)** w art. 5c: 1) w gminie do 20 000 mieszkańców – co najmniej 50 mieszkańców tej gminy, którzy ukończyli 60 lat; 2) w gminie powyżej 20 000 mieszkańców – co najmniej 100 mieszkańców tej gminy, którzy ukończyli 60 lat. 2b. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę gminy w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 2c. Jeżeli wniosek, o którym mowa w ust. 2a, spełnia wymogi, o których mowa w tym przepisie, rada gminy tworzy gminną radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 2d. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.”, 1) tryb i kryteria wyboru jej członków, 2) zasady i tryb jej działania, 3) długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady gminy, na terenie której funkcjonuje ta rada, 4) zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków gminnej rady seniorów.”, 5b. Podmioty, o których mowa w ust. 2 lub 2a, mogą przedstawiać opinie w zakresie projektu statutu, o którym mowa w ust. 5.”,
     - **a)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Rada gminy tworzy gminną radę seniorów na wniosek:
-
-- **1)** w gminie do 20 000 mieszkańców – co najmniej 50 mieszkańców tej gminy, którzy ukończyli 60 lat;
-- **2)** w gminie powyżej 20 000 mieszkańców – co najmniej 100 mieszkańców tej gminy, którzy ukończyli 60 lat.
-
-2b. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę gminy w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-2c. Jeżeli wniosek, o którym mowa w ust. 2a, spełnia wymogi, o których mowa w tym przepisie, rada gminy tworzy gminną radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-2d. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.”,
-
-- **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W sprawach dotyczących gminy gminna rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.”,
-- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Członkowi gminnej rady seniorów biorącemu udział w posiedzeniach gminnej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu gminnej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.”,
-- **d)** ust. 5 otrzymuje brzmienie: „5. Rada gminy, tworząc gminną radę seniorów, nadaje jej statut określający w szczególności:
-- **1)** tryb i kryteria wyboru jej członków,
-- **2)** zasady i tryb jej działania,
-- **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady gminy, na terenie której funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków gminnej rady seniorów.”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W sprawach dotyczących gminy gminna rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Członkowi gminnej rady seniorów biorącemu udział w posiedzeniach gminnej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu gminnej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.”,
+    - **d)** ust. 5 otrzymuje brzmienie: „5. Rada gminy, tworząc gminną radę seniorów, nadaje jej statut określający w szczególności:
     - **e)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Jeżeli rada gminy zadecydowała o zwracaniu kosztów, o których mowa w ust. 4a, w statucie, o którym mowa w ust. 5, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
+    - **f)** dodaje się ust. 8 w brzmieniu: „8. Obsługę administracyjno-biurową gminnej rady seniorów zapewnia urząd gminy. Koszty obsługi gminnej rady seniorów pokrywa urząd gminy.”;
 
-5b. Podmioty, o których mowa w ust. 2 lub 2a, mogą przedstawiać opinie w zakresie projektu statutu, o którym mowa w ust. 5.”,
-
-- **f)** dodaje się ust. 8 w brzmieniu: „8. Obsługę administracyjno-biurową gminnej rady seniorów zapewnia urząd gminy. Koszty obsługi gminnej rady seniorów pokrywa urząd gminy.”;
 - **2)** w art. 7 w ust. 1 po pkt 16 dodaje się pkt 16a w brzmieniu: „16a) polityki senioralnej;”.
 
 **Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2022 r. poz. 1526) wprowadza się następujące zmiany:
 
-- **1)** po art. 3e dodaje się art. 3f w brzmieniu: „Art. 3f. 1. Powiat sprzyja solidarności międzypokoleniowej oraz tworzy warunki do pobudzania aktywności obywatelskiej osób starszych wśród mieszkańców powiatu.
-
-2. Rada powiatu, z własnej inicjatywy lub na wniosek zainteresowanych środowisk, może utworzyć powiatową radę seniorów.
-
-3. Rada powiatu tworzy powiatową radę seniorów na wniosek:
-
-- **1)** w powiecie do 100 000 mieszkańców – co najmniej 150 mieszkańców tego powiatu, którzy ukończyli 60 lat;
-- **2)** w powiecie powyżej 100 000 mieszkańców – co najmniej 250 mieszkańców tego powiatu, którzy ukończyli 60 lat.
-
-4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę powiatu w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, rada powiatu tworzy powiatową radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
-
-7. Powiatowa rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny.
-
-8. W sprawach dotyczących powiatu powiatowa rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
-
-9. Powiatowa rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku.
-
-10. Członkowi powiatowej rady seniorów biorącemu udział w posiedzeniach powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.
-
-11. Rada powiatu, tworząc powiatową radę seniorów, nadaje jej statut określający w szczególności:
-
-- **1)** tryb i kryteria wyboru jej członków,
-- **2)** zasady i tryb jej działania,
-- **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady powiatu, na terenie którego funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków powiatowej rady seniorów.
-
-12. Jeżeli rada powiatu zadecydowała o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
-
-13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym
-
-14. Obsługę administracyjno-biurową powiatowej rady seniorów zapewnia starostwo powiatowe. Koszty obsługi powiatowej rady seniorów pokrywa starostwo powiatowe.”;
-
+- **1)** po art. 3e dodaje się art. 3f w brzmieniu: „Art. 3f. 1. Powiat sprzyja solidarności międzypokoleniowej oraz tworzy warunki do pobudzania aktywności obywatelskiej osób starszych wśród mieszkańców powiatu. 2. Rada powiatu, z własnej inicjatywy lub na wniosek zainteresowanych środowisk, może utworzyć powiatową radę seniorów. 3. Rada powiatu tworzy powiatową radę seniorów na wniosek: 1) w powiecie do 100 000 mieszkańców – co najmniej 150 mieszkańców tego powiatu, którzy ukończyli 60 lat; 2) w powiecie powyżej 100 000 mieszkańców – co najmniej 250 mieszkańców tego powiatu, którzy ukończyli 60 lat. 4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez radę powiatu w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, rada powiatu tworzy powiatową radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. 7. Powiatowa rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny. 8. W sprawach dotyczących powiatu powiatowa rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Starosta lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. 9. Powiatowa rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku. 10. Członkowi powiatowej rady seniorów biorącemu udział w posiedzeniach powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu powiatowej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on powiatową radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. 11. Rada powiatu, tworząc powiatową radę seniorów, nadaje jej statut określający w szczególności: 1) tryb i kryteria wyboru jej członków, 2) zasady i tryb jej działania, 3) długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady powiatu, na terenie którego funkcjonuje ta rada, 4) zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków powiatowej rady seniorów. 12. Jeżeli rada powiatu zadecydowała o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi. 13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym 14. Obsługę administracyjno-biurową powiatowej rady seniorów zapewnia starostwo powiatowe. Koszty obsługi powiatowej rady seniorów pokrywa starostwo powiatowe.”;
 - **2)** w art. 4 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) polityki senioralnej;”.
 
 **Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2022 r. poz. 2094) wprowadza się następujące zmiany:
 
-- **1)** po art. 10b dodaje się art. 10c w brzmieniu: „Art. 10c. 1. Województwo sprzyja solidarności międzypokoleniowej oraz tworzy warunki do pobudzania aktywności obywatelskiej osób starszych w społeczności danego regionu.
-
-2. Sejmik województwa, z własnej inicjatywy lub na wniosek zainteresowanych środowisk, może utworzyć wojewódzką radę seniorów.
-
-3. Sejmik województwa tworzy wojewódzką radę seniorów na wniosek:
-
-- **1)** w województwie do 2 000 000 mieszkańców – co najmniej 500 mieszkańców tego województwa, którzy ukończyli 60 lat;
-- **2)** w województwie powyżej 2 000 000 mieszkańców – co najmniej 800 mieszkańców tego województwa, którzy ukończyli 60 lat.
-
-4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, sejmik województwa tworzy wojewódzką radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
-
-6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
-
-7. Wojewódzka rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny.
-
-8. W sprawach dotyczących województwa wojewódzka rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały.
-
-9. Wojewódzka rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku.
-
-10. Członkowi wojewódzkiej rady seniorów biorącemu udział w posiedzeniach wojewódzkiej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on wojewódzką radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu wojewódzkiej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on wojewódzką radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.
-
-11. Sejmik województwa, tworząc wojewódzką radę seniorów, nadaje jej statut określający w szczególności:
-
-- **1)** tryb i kryteria wyboru jej członków,
-- **2)** zasady i tryb jej działania,
-- **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja sejmiku województwa, na terenie którego funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów.
-
-12. Jeżeli sejmik województwa zadecydował o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi.
-
-13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym
-
-14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski.”;
-
+- **1)** po art. 10b dodaje się art. 10c w brzmieniu: „Art. 10c. 1. Województwo sprzyja solidarności międzypokoleniowej oraz tworzy warunki do pobudzania aktywności obywatelskiej osób starszych w społeczności danego regionu. 2. Sejmik województwa, z własnej inicjatywy lub na wniosek zainteresowanych środowisk, może utworzyć wojewódzką radę seniorów. 3. Sejmik województwa tworzy wojewódzką radę seniorów na wniosek: 1) w województwie do 2 000 000 mieszkańców – co najmniej 500 mieszkańców tego województwa, którzy ukończyli 60 lat; 2) w województwie powyżej 2 000 000 mieszkańców – co najmniej 800 mieszkańców tego województwa, którzy ukończyli 60 lat. 4. Wniosek, o którym mowa w ust. 2, jest rozpatrywany przez sejmik województwa w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 5. Jeżeli wniosek, o którym mowa w ust. 3, spełnia wymogi, o których mowa w tym przepisie, sejmik województwa tworzy wojewódzką radę seniorów w terminie nie dłuższym niż 3 miesiące od dnia jego złożenia. 6. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa w ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku. 7. Wojewódzka rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny. 8. W sprawach dotyczących województwa wojewódzka rada seniorów może kierować zapytania lub wnioski w formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Marszałek województwa lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż w terminie 30 dni od dnia otrzymania uchwały. 9. Wojewódzka rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, w szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku. 10. Członkowi wojewódzkiej rady seniorów biorącemu udział w posiedzeniach wojewódzkiej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on wojewódzką radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, w tym koszty przejazdu na terenie kraju związane z udziałem w posiedzeniu wojewódzkiej rady seniorów lub w zorganizowanym wydarzeniu, na którym reprezentuje on wojewódzką radę seniorów, na podstawie dokumentów, w szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. 11. Sejmik województwa, tworząc wojewódzką radę seniorów, nadaje jej statut określający w szczególności: 1) tryb i kryteria wyboru jej członków, 2) zasady i tryb jej działania, 3) długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja sejmiku województwa, na terenie którego funkcjonuje ta rada, 4) zasady wygaśnięcia mandatu i odwołania jej członków – dążąc do wykorzystania potencjału podmiotów działających na rzecz osób starszych, a także zapewnienia sprawnego sposobu wyboru członków wojewódzkiej rady seniorów. 12. Jeżeli sejmik województwa zadecydował o zwracaniu kosztów, o których mowa w ust. 10, w statucie, o którym mowa w ust. 11, określa się zasady zwrotu tych kosztów, w tym ich maksymalną wysokość podlegającą zwrotowi. 13. Podmioty, o których mowa w ust. 2 lub 3, mogą przedstawiać opinie w zakresie projektu statutu, o którym 14. Obsługę administracyjno-biurową wojewódzkiej rady seniorów zapewnia urząd marszałkowski. Koszty obsługi wojewódzkiej rady seniorów pokrywa urząd marszałkowski.”;
 - **2)** w art. 14 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) polityki senioralnej;”.
 
 **Art. 4.** Powiatowe rady seniorów i wojewódzkie rady seniorów utworzone przed dniem wejścia w życie niniejszej ustawy stają się odpowiednio powiatowymi radami seniorów i wojewódzkimi radami seniorów w rozumieniu odpowiednio ustawy zmienianej w art. 2 i art. 3, w brzmieniu nadanym niniejszą ustawą.

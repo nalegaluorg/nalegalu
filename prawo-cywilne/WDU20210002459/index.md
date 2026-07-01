@@ -29,8 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509) wprowadza się następujące zmiany:
 
-- **1)** w art. 121 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) co do roszczeń objętych umową o mediację – przez czas trwania mediacji;
-- **6)** co do roszczeń objętych wnioskiem o zawezwanie do próby ugodowej – przez czas trwania postępowania pojednawczego.”;
+- **1)** w art. 121 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) co do roszczeń objętych umową o mediację – przez czas trwania mediacji; 6) co do roszczeń objętych wnioskiem o zawezwanie do próby ugodowej – przez czas trwania postępowania pojednawczego.”;
 - **2)** w art. 123 w § 1 uchyla się pkt 3;
 - **3)** w art. 124 § 2 otrzymuje brzmienie: „§ 2. W razie przerwania przedawnienia przez czynność w postępowaniu przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym przedawnienie nie biegnie na nowo, dopóki postępowanie to nie zostanie zakończone.”;
 - **4)** uchyla się art. 159;
@@ -64,15 +63,7 @@ source: pdf
 
 - **1)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zobowiązanie, o którym mowa w ust. 1, ustalone według stanu na dzień 30 listopada 2021 r., jest finansowane w wysokości:”;
 - **2)** w ust. 5 zdanie pierwsze otrzymuje brzmienie: „Wniosek, o którym mowa w ust. 1, świadczeniodawca składa do Narodowego Funduszu Zdrowia.”;
-- **3)** ust. 9–13 otrzymują brzmienie: „9. Sprawozdanie, o którym mowa w ust. 8, sprawdzone pod względem merytorycznym i formalno-rachunkowym, Prezes Narodowego Funduszu Zdrowia przekazuje na piśmie utrwalonym w postaci elektronicznej ministrowi właściwemu do spraw zdrowia wraz z wnioskiem o przekazanie środków, o których mowa w ust. 7, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
-
-10. Minister właściwy do spraw zdrowia przekazuje Narodowemu Funduszowi Zdrowia środki, o których mowa w ust. 7, w terminie 14 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9.
-
-11. W przypadku konieczności dokonania przez Narodowy Fundusz Zdrowia korekty przekazanego sprawozdania lub udzielenia wyjaśnień dotyczących tego sprawozdania, termin, o którym mowa w ust. 10, ulega przedłużeniu, nie dłużej jednak niż o 7 dni.
-
-12. Prezes Narodowego Funduszu Zdrowia w terminie 30 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9, przekazuje ministrowi właściwemu do spraw zdrowia rozliczenie otrzymanych środków, o których mowa w ust. 7.
-
-13. Niewykorzystaną część środków, o których mowa w ust. 7, Narodowy Fundusz Zdrowia zwraca w terminie 45 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9.”.
+- **3)** ust. 9–13 otrzymują brzmienie: „9. Sprawozdanie, o którym mowa w ust. 8, sprawdzone pod względem merytorycznym i formalno-rachunkowym, Prezes Narodowego Funduszu Zdrowia przekazuje na piśmie utrwalonym w postaci elektronicznej ministrowi właściwemu do spraw zdrowia wraz z wnioskiem o przekazanie środków, o których mowa w ust. 7, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 1. 10. Minister właściwy do spraw zdrowia przekazuje Narodowemu Funduszowi Zdrowia środki, o których mowa w ust. 7, w terminie 14 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9. 11. W przypadku konieczności dokonania przez Narodowy Fundusz Zdrowia korekty przekazanego sprawozdania lub udzielenia wyjaśnień dotyczących tego sprawozdania, termin, o którym mowa w ust. 10, ulega przedłużeniu, nie dłużej jednak niż o 7 dni. 12. Prezes Narodowego Funduszu Zdrowia w terminie 30 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9, przekazuje ministrowi właściwemu do spraw zdrowia rozliczenie otrzymanych środków, o których mowa w ust. 7. 13. Niewykorzystaną część środków, o których mowa w ust. 7, Narodowy Fundusz Zdrowia zwraca w terminie 45 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9.”.
 
 **Art. 5.** W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw (Dz. U. poz. 1291, 1493, 2112, 2345 i 2401 oraz z 2021 r. poz. 2232) wprowadza się następujące zmiany:
 

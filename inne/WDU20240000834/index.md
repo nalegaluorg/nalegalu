@@ -59,9 +59,7 @@ source: pdf
 
 **Art. 6.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266) wprowadza się następujące zmiany:
 
-- **1)** w art. 4f ust. 3 otrzymuje brzmienie: „3. W przypadku odmowy świadczenia usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1, z powodu nieuznania odbiorcy za uprawnionego do wyboru sprzedawcy w jednym z dwóch państw członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki może, na uzasadniony wniosek odbiorcy lub sprzedawcy, zwrócić się do Komisji Europejskiej o zobowiązanie państwa, w którym odmówiono świadczenia tych usług, do realizacji żądanej usługi, za pośrednictwem odpowiednio:
-- **1)** ministra właściwego do spraw energii – w przypadku odmowy świadczenia usług w zakresie energii;
-- **2)** ministra właściwego do spraw gospodarki surowcami energetycznymi – w przypadku odmowy świadczenia usług w zakresie paliw gazowych.”;
+- **1)** w art. 4f ust. 3 otrzymuje brzmienie: „3. W przypadku odmowy świadczenia usług, o których mowa w art. 4 ust. 2, art. 4c, art. 4d ust. 1 oraz art. 4e ust. 1, z powodu nieuznania odbiorcy za uprawnionego do wyboru sprzedawcy w jednym z dwóch państw członkowskich Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – będącym stroną umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu Regulacji Energetyki może, na uzasadniony wniosek odbiorcy lub sprzedawcy, zwrócić się do Komisji Europejskiej o zobowiązanie państwa, w którym odmówiono świadczenia tych usług, do realizacji żądanej usługi, za pośrednictwem odpowiednio: 1) ministra właściwego do spraw energii – w przypadku odmowy świadczenia usług w zakresie energii; 2) ministra właściwego do spraw gospodarki surowcami energetycznymi – w przypadku odmowy świadczenia usług w zakresie paliw gazowych.”;
 - **2)** w art. 6 w ust. 8, w art. 9i w ust. 12, w art. 31f w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2 oraz w art. 38 w ust. 17 po wyrazach „minister właściwy do spraw energii” dodaje się wyrazy „w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi”;
 - **3)** użyte w art. 9 w ust. 1, w art. 11r, w art. 11s w ust. 5, w art. 15b w ust. 1, w art. 15f w ust. 2, w art. 15fa w ust. 1 i 2, w art. 15h w ust. 1 i w ust. 3 we wprowadzeniu do wyliczenia, w art. 16 w ust. 6, 7, 8, 10 i 12, w art. 32 w ust. 3, 6 i 7, w art. 32d w ust. 4, w art. 43f w ust. 1 w pkt 2 i w ust. 5, w art. 43fa, w art. 46 w ust. 1, w art. 62bd i w art. 62i w ust. 14, w różnym przypadku, wyrazy „minister właściwy do spraw energii” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw gospodarki surowcami energetycznymi”;
 - **4)** w art. 9 ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw energii – w odniesieniu do energii elektrycznej, oraz minister właściwy do spraw gospodarki surowcami energetycznymi – w odniesieniu do paliw gazowych, powiadamia Komisję Europejską co 2 lata, w terminie do dnia 30 czerwca danego roku, o wszelkich zmianach w działaniach mających na celu realizację obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska oraz o wpływie tych zmian na konkurencję krajową i międzynarodową.”;
@@ -73,9 +71,7 @@ source: pdf
 - **10)** w art. 15f ust. 1 otrzymuje brzmienie: „1. Prezes Urzędu Regulacji Energetyki oraz minister właściwy do spraw gospodarki surowcami energetycznymi i minister właściwy do spraw energii, w zakresie swojej właściwości, współpracują z organami innych państw członkowskich Unii Europejskiej, w celu stworzenia w pełni konkurencyjnego rynku paliw gazowych i energii elektrycznej w Unii Europejskiej, w szczególności promują i ułatwiają współpracę operatorów systemów przesyłowych w zakresie połączeń transgranicznych.”;
 - **11)** w art. 16 w ust. 13 we wprowadzeniu do wyliczenia wyrazy „działającym w porozumieniu z ministrem właściwym do spraw energii,” zastępuje się wyrazami „działającym w porozumieniu odpowiednio z ministrem właściwym do spraw energii albo ministrem właściwym do spraw gospodarki surowcami energetycznymi,”;
 - **12)** w art. 23 w ust. 2c i w art. 24 w ust. 1 po wyrazach „ministrowi właściwemu do spraw energii” dodaje się wyrazy „oraz ministrowi właściwemu do spraw gospodarki surowcami energetycznymi”;
-- **13)** w art. 33 ust. 5 otrzymuje brzmienie: „5. Prezes URE informuje Komisję Europejską o przyczynach odmowy udzielenia wnioskodawcy koncesji za pośrednictwem:
-- **1)** ministra właściwego do spraw energii, w przypadku koncesji w zakresie działalności gospodarczej prowadzonej na rynku energii;
-- **2)** ministra właściwego do spraw gospodarki surowcami energetycznymi, w przypadku koncesji w zakresie działalności gospodarczej prowadzonej na rynku paliw.”;
+- **13)** w art. 33 ust. 5 otrzymuje brzmienie: „5. Prezes URE informuje Komisję Europejską o przyczynach odmowy udzielenia wnioskodawcy koncesji za pośrednictwem: 1) ministra właściwego do spraw energii, w przypadku koncesji w zakresie działalności gospodarczej prowadzonej na rynku energii; 2) ministra właściwego do spraw gospodarki surowcami energetycznymi, w przypadku koncesji w zakresie działalności gospodarczej prowadzonej na rynku paliw.”;
 - **14)** w art. 54:
     - **a)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw energii i minister właściwy do spraw gospodarki surowcami energetycznymi, w porozumieniu z ministrem właściwym do spraw transportu oraz Ministrem Obrony Narodowej, określą, w drodze rozporządzenia, szczegółowe zasady stwierdzania posiadania kwalifikacji przez osoby, o których mowa w ust. 1.”,
     - **b)** w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw energii i minister właściwy do spraw gospodarki surowcami energetycznymi, wydając rozporządzenie, o którym mowa w ust. 6, określą w szczególności:”.
@@ -83,23 +79,16 @@ source: pdf
 **Art. 7.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r. poz. 2512 oraz z 2023 r. poz. 2029) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w pkt 6a wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”;
-- **2)** w art. 7a:
+- **2)** w art. 7a: 3) bezpieczeństwa energetycznego kraju w zakresie bezpieczeństwa dostaw energii;”, – pkt 5 otrzymuje brzmienie: „5) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie energii oraz udział w pracach organów Unii Europejskiej.”;
     - **a)** ust. 1 otrzymuje brzmienie: „1. Dział energia obejmuje sprawy energii.”,
     - **b)** w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „2) rynków energii;
 
-- **3)** bezpieczeństwa energetycznego kraju w zakresie bezpieczeństwa dostaw energii;”, – pkt 5 otrzymuje brzmienie: „5) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie energii oraz udział w pracach organów Unii Europejskiej.”;
 - **3)** w art. 9 w ust. 2:
     - **a)** uchyla się pkt 7,
     - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) podejmowania działań sprzyjających wykorzystaniu energetyki rozproszonej w działalności gospodarczej;”;
 
-- **4)** w art. 11a:
+- **4)** w art. 11a: a) rynków surowców energetycznych i paliw, b) bezpieczeństwa dostaw surowców energetycznych i paliw; 6) rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze; 7) inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie surowców energetycznych, paliw oraz rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze, jak również udział w pracach organów Unii Europejskiej; 8) gospodarki wodorowej.”,
     - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Dział gospodarka surowcami energetycznymi obejmuje sprawy:”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–8 w brzmieniu: „5) surowców energetycznych i paliw, w tym:
-    - **a)** rynków surowców energetycznych i paliw,
-    - **b)** bezpieczeństwa dostaw surowców energetycznych i paliw;
-
-- **6)** rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze;
-- **7)** inicjowania, koordynowania i nadzorowania współpracy międzynarodowej w dziedzinie surowców energetycznych, paliw oraz rozwoju i wykorzystania energii jądrowej na potrzeby społeczno-gospodarcze, jak również udział w pracach organów Unii Europejskiej;
-- **8)** gospodarki wodorowej.”,
     - **b)** w ust. 3 wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”;
 
 - **5)** w art. 13a w ust. 1:
@@ -135,22 +124,15 @@ source: pdf
 
 **Art. 15.** W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2024 r. poz. 441) wprowadza się następujące zmiany:
 
-- **1)** w art. 8:
+- **1)** w art. 8: 1a. Rada Nadzorcza jest zdolna do realizacji swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 10 osób. 1b. W przypadku gdy liczba członków Rady Nadzorczej jest mniejsza niż 15, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 15 osób.”,
     - **a)** ust. 1–1b otrzymują brzmienie: „1. Rada Nadzorcza składa się z 15 członków, w tym przewodniczącego, powoływanych spośród osób posiadających odpowiednie kwalifikacje.
+    - **b)** w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) przedstawiciel ministra właściwego do spraw gospodarki surowcami energetycznymi.”;
 
-1a. Rada Nadzorcza jest zdolna do realizacji swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 10 osób.
-
-1b. W przypadku gdy liczba członków Rady Nadzorczej jest mniejsza niż 15, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 15 osób.”,
-
-- **b)** w ust. 4 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „12) przedstawiciel ministra właściwego do spraw gospodarki surowcami energetycznymi.”;
 - **2)** w art. 12a dodaje się ust. 7 w brzmieniu: „7. Minister właściwy do spraw gospodarki surowcami energetycznymi może żądać od Rady Nadzorczej, Zarządu oraz członka Rady Nadzorczej, o którym mowa w art. 8 ust. 4 pkt 12, przekazania informacji dotyczących BGK z zakresu gospodarowania surowcami energetycznymi.”.
 
 **Art. 16.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571) wprowadza się następujące zmiany:
 
-- **1)** w art. 4d ust. 1 i 2 otrzymują brzmienie: „1. Opiekę nad Polonią i Polakami za granicą, w zakresie zadań, o których mowa w art. 4 ust. 1 pkt 28, sprawują Senat Rzeczypospolitej Polskiej oraz minister właściwy do spraw zagranicznych.
-
-2. Opieka, o której mowa w ust. 1, jest realizowana w szczególności poprzez współpracę z organizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, polegającą na zlecaniu realizacji zadań publicznych finansowanych z części budżetu państwa dotyczących, odpowiednio, Kancelarii Senatu albo ministra właściwego do spraw zagranicznych.”;
-
+- **1)** w art. 4d ust. 1 i 2 otrzymują brzmienie: „1. Opiekę nad Polonią i Polakami za granicą, w zakresie zadań, o których mowa w art. 4 ust. 1 pkt 28, sprawują Senat Rzeczypospolitej Polskiej oraz minister właściwy do spraw zagranicznych. 2. Opieka, o której mowa w ust. 1, jest realizowana w szczególności poprzez współpracę z organizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, polegającą na zlecaniu realizacji zadań publicznych finansowanych z części budżetu państwa dotyczących, odpowiednio, Kancelarii Senatu albo ministra właściwego do spraw zagranicznych.”;
 - **2)** w art. 34a w ust. 1:
     - **a)** pkt 2 otrzymuje brzmienie: „2) wiceprzewodniczący – sekretarz stanu albo podsekretarz stanu, o którym mowa w pkt 3 lit. a, powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Przewodniczącego Komitetu;”,
     - **b)** w pkt 3 w lit. a po wyrazach „sekretarza stanu” dodaje się wyrazy „albo podsekretarza stanu”.
@@ -165,18 +147,14 @@ source: pdf
 - **1)** w art. 5 we wprowadzeniu do wyliczenia, w art. 5a we wprowadzeniu do wyliczenia, w art. 7 w ust. 3 we wprowadzeniu do wyliczenia, w art. 9b w ust. 7 oraz w art. 10f wyrazy „minister właściwy do spraw zabezpieczenia społecznego” zastępuje się wyrazami „Prezes Rady Ministrów”;
 - **2)** w art. 5b wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Rady Ministrów określi, w drodze rozporządzenia:”;
 - **3)** użyte w art. 8 we wprowadzeniu do wyliczenia, w art. 10a w ust. 1, w art. 10b w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 we wprowadzeniu do wyliczenia i w ust. 4 oraz w art. 10e, w różnym przypadku, wyrazy „minister właściwy do spraw zabezpieczenia społecznego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Minister do spraw Równości”;
-- **4)** w art. 8 pkt 3 i 4 otrzymują brzmienie: „3) wykonywanie zadań Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;
-- **4)** monitorowanie realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;”;
+- **4)** w art. 8 pkt 3 i 4 otrzymują brzmienie: „3) wykonywanie zadań Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej; 4) monitorowanie realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;”;
 - **5)** w art. 10a w ust. 3 pkt 9 otrzymuje brzmienie: „9) opiniowanie projektów z zakresu przeciwdziałania przemocy domowej opracowanych na podstawie programów osłonowych, o których mowa w art. 8 pkt 6.”;
 - **6)** w art. 10b w ust. 1 pkt 1 otrzymuje brzmienie: „1) przedstawiciela Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej;”;
 - **7)** w art. 10c:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Przewodniczącym Zespołu jest przedstawiciel Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej.”,
     - **b)** w ust. 3 wyrazy „minister właściwy do spraw zabezpieczenia społecznego” zastępuje się wyrazami „Szef Kancelarii Prezesa Rady Ministrów”;
 
-- **8)** w art. 12a ust. 7 i 8 otrzymują brzmienie: „7. Rada Ministrów określi, w drodze rozporządzenia, procedurę postępowania Policji przy wykonywaniu czynności, o których mowa w ust. 1 i 3, oraz sposób dokumentowania przeprowadzonych przez Policję czynności, uwzględniając konieczność udzielenia dzieciom skutecznej pomocy.
-
-8. Rada Ministrów określi, w drodze rozporządzenia, wzór kwestionariusza szacowania ryzyka zagrożenia dla życia lub zdrowia dziecka służący stwierdzeniu zasadności zapewnienia dziecku ochrony, o której mowa w ust. 1, mając na względzie konieczność prawidłowej diagnozy sytuacji i stanu dziecka oraz udzielenia mu natychmiastowej ochrony, uwzględniającej jego potrzeby oraz ochronę danych osobowych, które mają być przetwarzane z wykorzystaniem kwestionariusza.”;
-
+- **8)** w art. 12a ust. 7 i 8 otrzymują brzmienie: „7. Rada Ministrów określi, w drodze rozporządzenia, procedurę postępowania Policji przy wykonywaniu czynności, o których mowa w ust. 1 i 3, oraz sposób dokumentowania przeprowadzonych przez Policję czynności, uwzględniając konieczność udzielenia dzieciom skutecznej pomocy. 8. Rada Ministrów określi, w drodze rozporządzenia, wzór kwestionariusza szacowania ryzyka zagrożenia dla życia lub zdrowia dziecka służący stwierdzeniu zasadności zapewnienia dziecku ochrony, o której mowa w ust. 1, mając na względzie konieczność prawidłowej diagnozy sytuacji i stanu dziecka oraz udzielenia mu natychmiastowej ochrony, uwzględniającej jego potrzeby oraz ochronę danych osobowych, które mają być przetwarzane z wykorzystaniem kwestionariusza.”;
 - **9)** w art. 12c ust. 3 otrzymuje brzmienie: „3. Rada Ministrów określi, w drodze rozporządzenia, wzór pouczenia, o którym mowa w ust. 1, uwzględniając przydatność pouczenia dla ochrony dziecka oraz przysługujących uprawnień rodzicom, opiekunom prawnym lub faktycznym dziecka.”.
 
 **Art. 19.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20) wprowadza się następujące zmiany:
@@ -228,11 +206,7 @@ source: pdf
     - **a)** ust. 1a otrzymuje brzmienie: „1a. Minister właściwy do spraw aktywów państwowych niezwłocznie informuje odpowiednio ministra właściwego do spraw energii lub ministra właściwego do spraw gospodarki surowcami energetycznymi o powołaniu lub odwołaniu pełnomocnika do spraw infrastruktury krytycznej.”,
     - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) zapewnienie ministrowi właściwemu do spraw aktywów państwowych oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi informacji dotyczących dokonania przez organy spółki czynności prawnych, o których mowa w art. 2 ust. 1 i 2;”;
 
-- **5)** w art. 6 ust. 4–6 otrzymują brzmienie: „4. Raport jest przekazywany ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi. Jeżeli raport jest niepełny, zawiera nieścisłości lub nie przedstawia dokładnie stanu faktycznego w zakresie spraw w nim zawartych, pełnomocnik do spraw ochrony infrastruktury krytycznej jest zobowiązany, na wezwanie ministra właściwego do spraw aktywów państwowych lub dyrektora Rządowego Centrum Bezpieczeństwa, lub odpowiednio ministra właściwego do spraw energii lub ministra właściwego do spraw gospodarki surowcami energetycznymi, do uzupełnienia raportu we wskazanym zakresie i terminie.
-
-5. Pełnomocnik do spraw ochrony infrastruktury krytycznej sporządza sprawozdanie kwartalne z wykonanych obowiązków, które składa ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi.
-
-6. Pełnomocnik do spraw ochrony infrastruktury krytycznej, w terminie 4 dni od dnia otrzymania dokumentów lub informacji o podjęciu uchwały lub o dokonaniu przez organy spółki czynności prawnych, o których mowa w art. 2 ust. 1 i 2, przekazuje ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi pisemną informację w tej sprawie oraz stanowisko odnośnie do wniesienia sprzeciwu, wraz z jego uzasadnieniem.”.
+- **5)** w art. 6 ust. 4–6 otrzymują brzmienie: „4. Raport jest przekazywany ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi. Jeżeli raport jest niepełny, zawiera nieścisłości lub nie przedstawia dokładnie stanu faktycznego w zakresie spraw w nim zawartych, pełnomocnik do spraw ochrony infrastruktury krytycznej jest zobowiązany, na wezwanie ministra właściwego do spraw aktywów państwowych lub dyrektora Rządowego Centrum Bezpieczeństwa, lub odpowiednio ministra właściwego do spraw energii lub ministra właściwego do spraw gospodarki surowcami energetycznymi, do uzupełnienia raportu we wskazanym zakresie i terminie. 5. Pełnomocnik do spraw ochrony infrastruktury krytycznej sporządza sprawozdanie kwartalne z wykonanych obowiązków, które składa ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi. 6. Pełnomocnik do spraw ochrony infrastruktury krytycznej, w terminie 4 dni od dnia otrzymania dokumentów lub informacji o podjęciu uchwały lub o dokonaniu przez organy spółki czynności prawnych, o których mowa w art. 2 ust. 1 i 2, przekazuje ministrowi właściwemu do spraw aktywów państwowych, dyrektorowi Rządowego Centrum Bezpieczeństwa oraz odpowiednio ministrowi właściwemu do spraw energii lub ministrowi właściwemu do spraw gospodarki surowcami energetycznymi pisemną informację w tej sprawie oraz stanowisko odnośnie do wniesienia sprzeciwu, wraz z jego uzasadnieniem.”.
 
 **Art. 31.** W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r. poz. 2279 oraz z 2024 r. poz. 227) w art. 12 w ust. 3 w pkt 4 wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”.
 
@@ -277,12 +251,10 @@ source: pdf
 
 **Art. 42.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125) wprowadza się następujące zmiany:
 
-- **1)** w art. 29:
+- **1)** w art. 29: 1) wysokość diety przysługującej przewodniczącemu Rady oraz członkom Rady za udział w pracach Rady, biorąc pod uwagę zakres ich obowiązków; 2) warunki i tryb zwrotu kosztów podróży i noclegów przysługującego przewodniczącemu Rady oraz członkom Rady w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady oraz sposób obliczania wysokości albo maksymalną kwotę tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
     - **a)** ust. 4 otrzymuje brzmienie: „4. Przewodniczącemu Rady oraz członkom Rady przysługuje dieta za udział w jej pracach oraz zwrot kosztów podróży i noclegów obejmujący zwrot kosztów przejazdów, dojazdów środkami komunikacji miejscowej, noclegów oraz innych niezbędnych udokumentowanych wydatków. Kwota diety jest ustalana w odniesieniu do przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.”,
     - **b)** ust. 6 otrzymuje brzmienie: „6. Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
-- **1)** wysokość diety przysługującej przewodniczącemu Rady oraz członkom Rady za udział w pracach Rady, biorąc pod uwagę zakres ich obowiązków;
-- **2)** warunki i tryb zwrotu kosztów podróży i noclegów przysługującego przewodniczącemu Rady oraz członkom Rady w związku z poniesieniem tych kosztów w ramach udziału w pracach Rady oraz sposób obliczania wysokości albo maksymalną kwotę tego zwrotu, biorąc pod uwagę racjonalność ponoszonych kosztów podróży i noclegów.”;
 - **2)** w art. 30 w ust. 2 wyraz „wynagrodzenia” zastępuje się wyrazem „diet”;
 - **3)** użyte w art. 33a w ust. 2 i w art. 33c w ust. 1 w pkt 1 i 2 oraz w ust. 2, w różnym przypadku, wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw aktywów państwowych”;
 - **4)** w art. 33a:
@@ -293,17 +265,9 @@ source: pdf
 
 - **1)** w art. 29 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2 we wprowadzeniu do wyliczenia oraz w art. 41a w ust. 1–3 wyrazy „minister właściwy do spraw energii” zastępuje się wyrazami „minister właściwy do spraw gospodarki surowcami energetycznymi”;
 - **2)** w art. 29d we wprowadzeniu do wyliczenia i w art. 41 w ust. 6 we wprowadzeniu do wyliczenia wyrazy „minister właściwy do spraw energii” zastępuje się wyrazami „minister właściwy do spraw gospodarki surowcami energetycznymi w porozumieniu z ministrem właściwym do spraw energii”;
-- **3)** w art. 31 ust. 2 otrzymuje brzmienie: „2. Organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w przypadku odwołania od decyzji, o których mowa w:
-- **1)** art. 16 ust. 4 i art. 18 ust. 4 – jest minister właściwy do spraw energii;
-- **2)** art. 27 ust. 4, art. 28 ust. 4 i art. 29c ust. 4 – jest minister właściwy do spraw gospodarki surowcami energetycznymi;
-- **3)** art. 29f ust. 7 i 8 – jest:
-    - **a)** minister właściwy do spraw energii – w zakresie decyzji dotyczących stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego i punktu zasilania jednostek pływających energią elektryczną z lądu,
-    - **b)** minister właściwy do spraw gospodarki surowcami energetycznymi – w zakresie decyzji dotyczących stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).”;
-
+- **3)** w art. 31 ust. 2 otrzymuje brzmienie: „2. Organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w przypadku odwołania od decyzji, o których mowa w: 1) art. 16 ust. 4 i art. 18 ust. 4 – jest minister właściwy do spraw energii; 2) art. 27 ust. 4, art. 28 ust. 4 i art. 29c ust. 4 – jest minister właściwy do spraw gospodarki surowcami energetycznymi; 3) art. 29f ust. 7 i 8 – jest: a) minister właściwy do spraw energii – w zakresie decyzji dotyczących stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego i punktu zasilania jednostek pływających energią elektryczną z lądu, b) minister właściwy do spraw gospodarki surowcami energetycznymi – w zakresie decyzji dotyczących stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).”;
 - **4)** w art. 41b w ust. 5 po wyrazach „minister właściwy do spraw energii” dodaje się wyrazy „w porozumieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi”;
-- **5)** w art. 46 ust. 5 otrzymuje brzmienie: „5. Prezes UDT wymierza karę, o której mowa w art. 45 ust. 1 pkt 4, z wyłączeniem postępowań dotyczących stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 11, w drodze decyzji, od której przysługuje odwołanie do:
-- **1)** ministra właściwego do spraw energii – w przypadku gdy decyzja dotyczy stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego i punktu zasilania jednostek pływających energią elektryczną z lądu;
-- **2)** ministra właściwego do spraw gospodarki surowcami energetycznymi – w przypadku gdy decyzja dotyczy stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).”.
+- **5)** w art. 46 ust. 5 otrzymuje brzmienie: „5. Prezes UDT wymierza karę, o której mowa w art. 45 ust. 1 pkt 4, z wyłączeniem postępowań dotyczących stacji gazu ziemnego i stacji wodoru, zainstalowanych na obszarach kolejowych, bocznicach kolejowych, na terenie portów i przystani morskich oraz żeglugi śródlądowej, i pkt 11, w drodze decyzji, od której przysługuje odwołanie do: 1) ministra właściwego do spraw energii – w przypadku gdy decyzja dotyczy stacji ładowania, punktu ładowania stanowiącego element infrastruktury ładowania drogowego transportu publicznego i punktu zasilania jednostek pływających energią elektryczną z lądu; 2) ministra właściwego do spraw gospodarki surowcami energetycznymi – w przypadku gdy decyzja dotyczy stacji gazu ziemnego, stacji wodoru i punktu bunkrowania skroplonego gazu ziemnego (LNG).”.
 
 **Art. 44.** W ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 545) wprowadza się następujące zmiany:
 
@@ -312,16 +276,8 @@ source: pdf
 
 **Art. 45.** W ustawie z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 913 i 1703) wprowadza się następujące zmiany:
 
-- **1)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. 1. Minister właściwy do spraw informatyzacji może udzielić pomocy publicznej lub pomocy de minimis w ramach:
-- **1)** programów rządowych lub
-- **2)** innych programów finansowanych w całości albo w części z udziałem środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – których celem jest wspieranie działań w obszarze cyberbezpieczeństwa.
-
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe warunki oraz tryb udzielania pomocy w ramach programów, o których mowa w ust. 1, uwzględniając konieczność realizacji celów określonych w tych programach oraz efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, a także zgodności tej pomocy z rynkiem wewnętrznym.”;
-
-- **2)** w art. 93 w ust. 3 pkt 7–10 otrzymują brzmienie: „7) w 2024 r. – 50 335 tys. zł;
-- **8)** w 2025 r. – 50 335 tys. zł;
-- **9)** w 2026 r. – 50 335 tys. zł;
-- **10)** w 2027 r. – 50 335 tys. zł.”;
+- **1)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. 1. Minister właściwy do spraw informatyzacji może udzielić pomocy publicznej lub pomocy de minimis w ramach: 1) programów rządowych lub 2) innych programów finansowanych w całości albo w części z udziałem środków, o których mowa w art. 5 ust. 3 pkt 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych – których celem jest wspieranie działań w obszarze cyberbezpieczeństwa. 2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe warunki oraz tryb udzielania pomocy w ramach programów, o których mowa w ust. 1, uwzględniając konieczność realizacji celów określonych w tych programach oraz efektywnego i skutecznego jej wykorzystania oraz przejrzystości jej udzielania, a także zgodności tej pomocy z rynkiem wewnętrznym.”;
+- **2)** w art. 93 w ust. 3 pkt 7–10 otrzymują brzmienie: „7) w 2024 r. – 50 335 tys. zł; 8) w 2025 r. – 50 335 tys. zł; 9) w 2026 r. – 50 335 tys. zł; 10) w 2027 r. – 50 335 tys. zł.”;
 - **3)** w załączniku nr 1 do ustawy w sektorze „Energia” w podsektorze „Jednostki nadzorowane i podległe” w kolumnie „Rodzaj podmiotu” w wierszu drugim wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”.
 
 **Art. 46.** W ustawie z dnia 20 lipca 2018 r. o Polskim Instytucie Ekonomicznym (Dz. U. poz. 1735) wprowadza się następujące zmiany:
@@ -342,16 +298,9 @@ source: pdf
     - **b)** uchyla się ust. 4 i 5;
 
 - **2)** art. 14 otrzymuje brzmienie: „Art. 14. Członkostwo w Zarządzie wygasa w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego.”;
-- **3)** w art. 15:
+- **3)** w art. 15: 1) pozbawienia praw publicznych; 2) prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe. 11. Członkostwo w Radzie wygasa przed upływem kadencji w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego. 12. Minister właściwy do spraw rozwoju regionalnego uzupełnia skład Rady, powołując nowego członka Rady na okres do końca kadencji.”.
     - **a)** ust. 7 otrzymuje brzmienie: „7. Przepisy art. 13 ust. 1 pkt 1 i 2 stosuje się odpowiednio.”,
     - **b)** dodaje się ust. 10–12 w brzmieniu: „10. Minister właściwy do spraw rozwoju regionalnego odwołuje członka Rady przed upływem kadencji w przypadku:
-
-- **1)** pozbawienia praw publicznych;
-- **2)** prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
-
-11. Członkostwo w Radzie wygasa przed upływem kadencji w przypadku śmierci albo rezygnacji z członkostwa. Wygaśnięcie członkostwa stwierdza minister właściwy do spraw rozwoju regionalnego.
-
-12. Minister właściwy do spraw rozwoju regionalnego uzupełnia skład Rady, powołując nowego członka Rady na okres do końca kadencji.”.
 
 **Art. 48.** W ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2024 r. poz. 405) wprowadza się następujące zmiany:
 
@@ -373,9 +322,7 @@ source: pdf
     - **b)** po ust. 15 dodaje się ust. 15a w brzmieniu: „15a. Na żądanie Prezesa Rady Ministrów minister właściwy do spraw finansów publicznych przekazuje Prezesowi Rady Ministrów informacje, o których mowa w ust. 15.”,
     - **c)** ust. 24 otrzymuje brzmienie: „24. Bank Gospodarstwa Krajowego przedstawia ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia projekt planu finansowego Funduszu do dnia 15 czerwca roku poprzedzającego rok, którego dotyczy ten plan.”;
 
-- **3)** w art. 69 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów może wydać wiążące polecenie:
-- **1)** dysponentowi części budżetu państwa lub
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie rezerw celowych – wpłaty środków na Fundusz.”;
+- **3)** w art. 69 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów może wydać wiążące polecenie: 1) dysponentowi części budżetu państwa lub 2) ministrowi właściwemu do spraw finansów publicznych w zakresie rezerw celowych – wpłaty środków na Fundusz.”;
 - **4)** po art. 69a dodaje się art. 69b w brzmieniu: „Art. 69b. Prezes Rady Ministrów może upoważnić do realizacji czynności, o których mowa w art. 65 ust. 16 i art. 69 ust. 2 pkt 1, ministra właściwego do spraw finansów publicznych.”.
 
 **Art. 51.** W ustawie z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294) wprowadza się następujące zmiany:
@@ -383,27 +330,17 @@ source: pdf
 - **1)** użyte w art. 7, w art. 8 w ust. 2 we wprowadzeniu do wyliczenia, w ust. 3 we wprowadzeniu do wyliczenia i w ust. 4 we wprowadzeniu do wyliczenia, w art. 9 w ust. 3 w zdaniu drugim, w art. 10 w ust. 1 i 2, w art. 12 w ust. 1 we wprowadzeniu do wyliczenia, w art. 13 w ust. 1, w art. 14 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 19 w ust. 1, 2, w ust. 6 w zdaniu pierwszym i w ust. 7, w art. 21 w ust. 1 w zdaniu pierwszym, w art. 23 w ust. 1 w zdaniu pierwszym, w art. 24, w art. 25 w ust. 1 i 2, w art. 27 w ust. 1 we wprowadzeniu do wyliczenia, w art. 27a w ust. 1 we wprowadzeniu do wyliczenia, w art. 27c we wprowadzeniu do wyliczenia, w art. 28, w art. 28a w ust. 1 i 3, w art. 28b w ust. 4, w art. 28d w ust. 1 i w ust. 2 w zdaniu drugim, w art. 28e w ust. 1 i 6, w art. 30 w ust. 4, w art. 31 w ust. 1 w pkt 2 we wprowadzeniu do wyliczenia, w art. 32 w ust. 1 i 2, w art. 33 w ust. 2, w art. 34 w ust. 6 i 7, w art. 35 w ust. 4 w zdaniu pierwszym i w ust. 7, w art. 41 w ust. 5, w art. 42 w ust. 2 i 4 oraz w art. 46 w ust. 1 w pkt 2, w różnym przypadku, wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednim przypadku wyrazami „minister właściwy do spraw wewnętrznych”;
 - **2)** w art. 8 w ust. 2 uchyla się pkt 10;
 - **3)** w art. 19 w ust. 3 skreśla się wyrazy „ , ministra właściwego do spraw wewnętrznych”;
-- **4)** w art. 34:
+- **4)** w art. 34: 3. Prezes Rady Ministrów odwołuje Prezesa Agencji, na wniosek ministra właściwego do spraw wewnętrznych.”,
     - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Agencji powołuje Prezes Rady Ministrów spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru na wniosek ministra właściwego do spraw wewnętrznych.
+    - **b)** dodaje się ust. 8 w brzmieniu: „8. W przypadku odwołania Prezesa Agencji lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw wewnętrznych, może powierzyć pełnienie obowiązków Prezesa Agencji, na czas nie dłuższy niż 6 miesięcy, jego zastępcy lub innej osobie.”;
 
-3. Prezes Rady Ministrów odwołuje Prezesa Agencji, na wniosek ministra właściwego do spraw wewnętrznych.”,
-
-- **b)** dodaje się ust. 8 w brzmieniu: „8. W przypadku odwołania Prezesa Agencji lub czasowej niemożności sprawowania przez niego funkcji, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw wewnętrznych, może powierzyć pełnienie obowiązków Prezesa Agencji, na czas nie dłuższy niż 6 miesięcy, jego zastępcy lub innej osobie.”;
 - **5)** w art. 35 w ust. 2 w zdaniu pierwszym, w ust. 3 i 10 wyrazy „Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów” zastępuje się wyrazami „Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw wewnętrznych”;
 - **6)** w art. 41 w ust. 2 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „dotacje celowe z budżetu państwa, planowane w części budżetowej, której dysponentem jest minister właściwy do spraw wewnętrznych, przeznaczone na:”;
 - **7)** w art. 42 w ust. 5 zdanie drugie otrzymuje brzmienie: „Agencja dokonuje wpłaty nadwyżki tych środków na rachunek bieżący dochodów urzędu obsługującego ministra właściwego do spraw wewnętrznych, nie później niż do dnia 30 czerwca za rok poprzedni.”.
 
 **Art. 52.** W ustawie z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 85) po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. Placówki zagraniczne podlegają inspekcjom wykonywanym na polecenie dyrektora generalnego służby zagranicznej.”.
 
-**Art. 53.** W ustawie z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 667) w art. 27 w ust. 1 pkt 3–10 otrzymują brzmienie: „3) w 2024 r. – 250,00 mln zł;
-
-- **4)** w 2025 r. – 250,00 mln zł;
-- **5)** w 2026 r. – 250,00 mln zł;
-- **6)** w 2027 r. – 250,00 mln zł;
-- **7)** w 2028 r. – 250,00 mln zł;
-- **8)** w 2029 r. – 250,00 mln zł;
-- **9)** w 2030 r. – 250,00 mln zł;
-- **10)** w 2031 r. – 250,00 mln zł.”.
+**Art. 53.** W ustawie z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 667) w art. 27 w ust. 1 pkt 3–10 otrzymują brzmienie: „3) w 2024 r. – 250,00 mln zł; 4) w 2025 r. – 250,00 mln zł; 5) w 2026 r. – 250,00 mln zł; 6) w 2027 r. – 250,00 mln zł; 7) w 2028 r. – 250,00 mln zł; 8) w 2029 r. – 250,00 mln zł; 9) w 2030 r. – 250,00 mln zł; 10) w 2031 r. – 250,00 mln zł.”.
 
 **Art. 54.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) w art. 651 w ust. 9 w pkt 1 i w pkt 2 w lit. b wyrazy „Prezesa Rady Ministrów” zastępuje się wyrazami „ministra właściwego do spraw wewnętrznych”.
 
@@ -416,9 +353,7 @@ source: pdf
     - **d)** po ust. 21 dodaje się ust. 21a w brzmieniu: „21a. Na żądanie Prezesa Rady Ministrów minister właściwy do spraw finansów publicznych przekazuje Prezesowi Rady Ministrów informacje, o których mowa w ust. 17 i 21.”,
     - **e)** ust. 30 otrzymuje brzmienie: „30. Bank Gospodarstwa Krajowego przedstawia ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia projekt planu finansowego Funduszu do dnia 15 czerwca roku poprzedzającego rok, którego dotyczy ten plan.”;
 
-- **2)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów może wydać wiążące polecenie:
-- **1)** dysponentowi części budżetu państwa lub
-- **2)** ministrowi właściwemu do spraw finansów publicznych w zakresie rezerw celowych – wpłaty środków na Fundusz.”;
+- **2)** w art. 19 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów może wydać wiążące polecenie: 1) dysponentowi części budżetu państwa lub 2) ministrowi właściwemu do spraw finansów publicznych w zakresie rezerw celowych – wpłaty środków na Fundusz.”;
 - **3)** po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. Prezes Rady Ministrów może upoważnić do realizacji czynności, o których mowa w art. 14 ust. 22 i art. 19 ust. 2 pkt 1, ministra właściwego do spraw finansów publicznych.”;
 - **4)** w art. 66b ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych może powierzyć Rządowej Agencji Rezerw Strategicznych realizację zadań związanych z udzielaniem Ukrainie pomocy w związku z konfliktem zbrojnym na terytorium tego państwa.”.
 

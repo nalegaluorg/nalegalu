@@ -36,19 +36,7 @@ source: pdf
     - **d)** po pkt 31 dodaje się pkt 31a w brzmieniu: „31a) wymogi warunkowości społecznej – wymogi wskazane w załączniku IV do rozporządzenia 2021/2115;”;
 
 - **2)** w art. 6 w ust. 4 w pkt 3 w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) Głównemu Inspektorowi Pracy – w przypadku wytycznych dotyczących wymogów warunkowości społecznej.”;
-- **3)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Krajowa Stacja Chemiczno-Rolnicza oraz podlegające jej okręgowe stacje chemiczno-rolnicze tworzą i prowadzą bazę danych zawierającą wyniki badań agrochemicznych w celu, o którym mowa w art. 140 ust. 1 zdanie pierwsze rozporządzenia 2021/2115.
-
-2. Badania agrochemiczne są wykonywane na podstawie planu opracowanego przez instytucję zarządzającą i przekazanego Krajowej Stacji Chemiczno-Rolniczej.
-
-3. Plan, o którym mowa w ust. 2:
-
-- **1)** jest przekazywany do dnia 30 czerwca roku poprzedzającego rok, w którym mają być wykonane badania agrochemiczne ujęte w tym planie;
-- **2)** zawiera:
-    - **a)** zakres parametrów, które będą podlegały badaniom agrochemicznym,
-    - **b)** metody, zgodnie z którymi zostaną wykonane badania agrochemiczne,
-    - **c)** liczbę obiektów pomiarowych, w których zostaną wykonane badania agrochemiczne,
-    - **d)** terminy wykonania badań agrochemicznych.”;
-
+- **3)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Krajowa Stacja Chemiczno-Rolnicza oraz podlegające jej okręgowe stacje chemiczno-rolnicze tworzą i prowadzą bazę danych zawierającą wyniki badań agrochemicznych w celu, o którym mowa w art. 140 ust. 1 zdanie pierwsze rozporządzenia 2021/2115. 2. Badania agrochemiczne są wykonywane na podstawie planu opracowanego przez instytucję zarządzającą i przekazanego Krajowej Stacji Chemiczno-Rolniczej. 3. Plan, o którym mowa w ust. 2: 1) jest przekazywany do dnia 30 czerwca roku poprzedzającego rok, w którym mają być wykonane badania agrochemiczne ujęte w tym planie; 2) zawiera: a) zakres parametrów, które będą podlegały badaniom agrochemicznym, b) metody, zgodnie z którymi zostaną wykonane badania agrochemiczne, c) liczbę obiektów pomiarowych, w których zostaną wykonane badania agrochemiczne, d) terminy wykonania badań agrochemicznych.”;
 - **4)** w art. 30:
     - **a)** pkt 4 otrzymuje brzmienie: „4) do biologicznej uprawy;”,
     - **b)** po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) do materiału siewnego kategorii elitarny lub materiału siewnego kategorii kwalifikowany;”;
@@ -66,41 +54,12 @@ source: pdf
     - **c)** dodaje się ust. 7 w brzmieniu: „7. W przypadku gdy nie jest możliwe nałożenie kary w decyzji w sprawie o przyznanie danej pomocy, kwota wypłaconej pomocy w wysokości odpowiadającej wysokości tej kary podlega zwrotowi zgodnie z przepisami art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r.
 
 - **10)** w art. 53 w ust. 3 skreśla się wyrazy „(Dz. U. z 2023 r. poz. 1199)”;
-- **11)** po art. 57 dodaje się art. 57a w brzmieniu: „Art. 57a. 1. W przypadku nieprzestrzegania wymogów warunkowości społecznej na podmioty ubiegające się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nakłada się kary administracyjne.
-
-2. Kary administracyjnej z tytułu nieprzestrzegania wymogów warunkowości społecznej nie stosuje się, jeżeli ta kara nie przekracza równowartości w złotych kwoty, o której mowa w art. 88 ust. 2 lit. a rozporządzenia 2021/2116.
-
-3. W przypadku, o którym mowa w ust. 2, w decyzjach w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4:
-
-- **1)** podaje się informację o niezastosowaniu kary administracyjnej;
-- **2)** nakazuje się realizację działań naprawczych mających na celu usunięcie stwierdzonych niezgodności z wymogami warunkowości społecznej oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie wymogów warunkowości społecznej.
-
-4. W przypadku gdy podmiot ubiegający się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, stosuje się przepisy art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
-
-5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia:
-
-- **1)** liczbę punktów, jaką przypisuje się stwierdzonej niezgodności z wymogami warunkowości społecznej w ramach oceny wagi według kryterium zasięgu, dotkliwości i trwałości w zależności od rodzaju stwierdzonego naruszenia,
-- **2)** wyrażoną w procentach wielkość kary administracyjnej w zależności od liczby punktów przypisanej stwierdzonej niezgodności z wymogami warunkowości społecznej,
-- **3)** przypadki poważnej niezgodności z wymogami warunkowości społecznej lub kryteria uznawania niezgodności z wymogami warunkowości społecznej za poważną niezgodność – mając na względzie przeprowadzenie oceny zgodnie z zasadami określonymi w przepisach rozporządzenia 2021/2116 i w przepisach wydanych na podstawie tego rozporządzenia.”;
+- **11)** po art. 57 dodaje się art. 57a w brzmieniu: „Art. 57a. 1. W przypadku nieprzestrzegania wymogów warunkowości społecznej na podmioty ubiegające się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nakłada się kary administracyjne. 2. Kary administracyjnej z tytułu nieprzestrzegania wymogów warunkowości społecznej nie stosuje się, jeżeli ta kara nie przekracza równowartości w złotych kwoty, o której mowa w art. 88 ust. 2 lit. a rozporządzenia 2021/2116. 3. W przypadku, o którym mowa w ust. 2, w decyzjach w sprawach o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4: 1) podaje się informację o niezastosowaniu kary administracyjnej; 2) nakazuje się realizację działań naprawczych mających na celu usunięcie stwierdzonych niezgodności z wymogami warunkowości społecznej oraz ustala się termin realizacji tych działań, nie dłuższy niż do dnia 31 grudnia roku następującego po roku, w którym stwierdzono nieprzestrzeganie wymogów warunkowości społecznej. 4. W przypadku gdy podmiot ubiegający się o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, nie podjął działań naprawczych, o których mowa w ust. 3 pkt 2, w terminie wyznaczonym w decyzji w sprawie o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, stosuje się przepisy art. 29 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa. 5. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia: 1) liczbę punktów, jaką przypisuje się stwierdzonej niezgodności z wymogami warunkowości społecznej w ramach oceny wagi według kryterium zasięgu, dotkliwości i trwałości w zależności od rodzaju stwierdzonego naruszenia, 2) wyrażoną w procentach wielkość kary administracyjnej w zależności od liczby punktów przypisanej stwierdzonej niezgodności z wymogami warunkowości społecznej, 3) przypadki poważnej niezgodności z wymogami warunkowości społecznej lub kryteria uznawania niezgodności z wymogami warunkowości społecznej za poważną niezgodność – mając na względzie przeprowadzenie oceny zgodnie z zasadami określonymi w przepisach rozporządzenia 2021/2116 i w przepisach wydanych na podstawie tego rozporządzenia.”;
 - **12)** w art. 61 w ust. 1:
     - **a)** pkt 5 otrzymuje brzmienie: „5) płatności w ramach ekoschematów, o których mowa w art. 30 pkt 1–5b,”,
     - **b)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) płatności dla małych gospodarstw,”;
 
-- **13)** po art. 105 dodaje się art. 105a w brzmieniu: „Art. 105a. 1. Kontrolę przestrzegania wymogów warunkowości społecznej przeprowadza Państwowa Inspekcja Pracy zgodnie z przepisami ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712 oraz z 2025 r. poz. 321).
-
-2. W celu umożliwienia przeprowadzenia kontroli przestrzegania wymogów warunkowości społecznej Agencja przekazuje Głównemu Inspektorowi Pracy, w terminie do dnia 31 stycznia każdego roku, wykaz rolników, którzy w poprzednim roku złożyli wnioski o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, i którzy:
-
-- **1)** są pracodawcami albo
-- **2)** nie będąc pracodawcami są:
-    - **a)** przedsiębiorcami albo
-    - **b)** innymi jednostkami organizacyjnymi – o których mowa w art. 13 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy.
-
-3. Wykaz rolników, o którym mowa w ust. 2, zawiera:
-
-- **1)** imię, nazwisko i adres – w przypadku rolnika będącego osobą fizyczną;
-- **2)** nazwę, numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), siedzibę i adres – w przypadku rolnika niebędącego osobą fizyczną.
-
-4. Nie później niż do dnia 31 października każdego roku Państwowa Inspekcja Pracy przekazuje Agencji informacje o rolnikach, którzy zostali poddani kontroli przestrzegania wymogów warunkowości społecznej, zawierające dane, o których mowa w ust. 3, oraz informacje o niezgodnościach z wymogami warunkowości społecznej stwierdzonych u rolnika, który został poddany kontroli przestrzegania wymogów warunkowości społecznej, niezbędne do ustalenia wysokości kary administracyjnej, jeżeli w wyniku przeprowadzonej kontroli przestrzegania wymogów warunkowości społecznej w decyzjach wymienionych w art. 33 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy orzeczono o nakazach lub zakazach.”.
+- **13)** po art. 105 dodaje się art. 105a w brzmieniu: „Art. 105a. 1. Kontrolę przestrzegania wymogów warunkowości społecznej przeprowadza Państwowa Inspekcja Pracy zgodnie z przepisami ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712 oraz z 2025 r. poz. 321). 2. W celu umożliwienia przeprowadzenia kontroli przestrzegania wymogów warunkowości społecznej Agencja przekazuje Głównemu Inspektorowi Pracy, w terminie do dnia 31 stycznia każdego roku, wykaz rolników, którzy w poprzednim roku złożyli wnioski o przyznanie pomocy, o której mowa w art. 20 pkt 1, 3 i 4, i którzy: 1) są pracodawcami albo 2) nie będąc pracodawcami są: a) przedsiębiorcami albo b) innymi jednostkami organizacyjnymi – o których mowa w art. 13 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy. 3. Wykaz rolników, o którym mowa w ust. 2, zawiera: 1) imię, nazwisko i adres – w przypadku rolnika będącego osobą fizyczną; 2) nazwę, numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), siedzibę i adres – w przypadku rolnika niebędącego osobą fizyczną. 4. Nie później niż do dnia 31 października każdego roku Państwowa Inspekcja Pracy przekazuje Agencji informacje o rolnikach, którzy zostali poddani kontroli przestrzegania wymogów warunkowości społecznej, zawierające dane, o których mowa w ust. 3, oraz informacje o niezgodnościach z wymogami warunkowości społecznej stwierdzonych u rolnika, który został poddany kontroli przestrzegania wymogów warunkowości społecznej, niezbędne do ustalenia wysokości kary administracyjnej, jeżeli w wyniku przeprowadzonej kontroli przestrzegania wymogów warunkowości społecznej w decyzjach wymienionych w art. 33 ust. 1 pkt 1 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy orzeczono o nakazach lub zakazach.”.
 
 **Art. 2.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712) wprowadza się następujące zmiany:
 
@@ -109,9 +68,7 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2023 r. poz. 1199 oraz z 2025 r. poz. 39) w art. 29:
 
-- **1)** ust. 3 otrzymuje brzmienie: „3. O ustaleniu kwoty nienależnie lub nadmiernie pobranych środków publicznych organ, o którym mowa w ust. 2 pkt 1:
-- **1)** rozstrzyga w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami;
-- **2)** może rozstrzygnąć w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami.”;
+- **1)** ust. 3 otrzymuje brzmienie: „3. O ustaleniu kwoty nienależnie lub nadmiernie pobranych środków publicznych organ, o którym mowa w ust. 2 pkt 1: 1) rozstrzyga w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota nie jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami; 2) może rozstrzygnąć w decyzji w sprawie przyznania płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1 – w przypadku gdy ta kwota jest wyższa od kwoty stanowiącej równowartość 100 euro przeliczonej na złote według kursu euro ustalonego dla danego funduszu Unii Europejskiej zgodnie z odrębnymi przepisami.”;
 - **2)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku, o którym mowa w ust. 3 pkt 1, strony nie zawiadamia się o wszczęciu postępowania w sprawie ustalenia kwoty nienależnie lub nadmiernie pobranych środków publicznych.”;
 - **3)** w ust. 4 wyrazy „ust. 3” zastępuje się wyrazami „ust. 3 pkt 1”;
 - **4)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Jeżeli kwota nienależnie lub nadmiernie pobranych środków publicznych, o których mowa w ust. 1, ustalona w decyzji, o której mowa w ust. 3 pkt 1, przekracza wysokość płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1, przyznanej w tej decyzji, ta kwota podlega potrąceniu z bezspornej i wymagalnej wierzytelności lub należności dłużnika z tytułu płatności lub pomocy finansowej ze środków publicznych, o których mowa w ust. 1, przez 3 lata kalendarzowe od wypłaty tej kwoty.”.

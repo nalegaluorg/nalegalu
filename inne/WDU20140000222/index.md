@@ -30,21 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2011 r. Nr 12, poz. 59, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 18 w ust. 4 w pkt 3 lit. a otrzymuje brzmienie: „a) ilości przewidzianego do pozyskania drewna, określonego oddzielnie jako etat miąższościowy użytków rębnych oraz etat powierzchniowy użytków przedrębnych,”;
-- **2)** w art. 23 ust. 2 i 3 otrzymują brzmienie: „2. Zwiększenie rozmiaru pozyskania drewna w nadleśnictwie ponad wielkość określoną w planie urządzenia lasu etatem miąższościowym użytków rębnych może nastąpić tylko w związku ze szkodą lub klęską żywiołową.
-
-3. W razie braku możliwości utrzymania przewidzianego w planie urządzenia lasu etatu cięć użytków rębnych z przyczyn wymienionych w ust. 2, dokonuje się zmiany planu urządzenia lasu w trybie określonym w ust. 1.”;
-
-- **3)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Lasy Państwowe prowadzą działalność na zasadzie samodzielności finansowej i pokrywają koszty działalności z własnych przychodów.
-
-2. Dyrektor Generalny Lasów Państwowych ustala dla wszystkich jednostek organizacyjnych Lasów Państwowych zasady (politykę) rachunkowości.
-
-3. Lasy Państwowe prowadzą rachunkowość według zasad określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613).” ;
-
-- **4)** po art. 58 dodaje się art. 58a w brzmieniu: „Art. 58a. 1. Dyrekcja Generalna Lasów Państwowych dokonuje wpłaty na rachunek ministra właściwego do spraw środowiska w wysokości stanowiącej równowartość 2% przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna, zwanej dalej „wpłatą”.
-
-2. Wpłaty dokonuje się za każdy kwartał kalendarzowy w terminie do trzydziestego dnia miesiąca następującego po tym kwartale.
-
-3. Wpłata stanowi dochód budżetu państwa. W sprawach dotyczących wpłaty właściwy jest minister właściwy do spraw środowiska.”.
+- **2)** w art. 23 ust. 2 i 3 otrzymują brzmienie: „2. Zwiększenie rozmiaru pozyskania drewna w nadleśnictwie ponad wielkość określoną w planie urządzenia lasu etatem miąższościowym użytków rębnych może nastąpić tylko w związku ze szkodą lub klęską żywiołową. 3. W razie braku możliwości utrzymania przewidzianego w planie urządzenia lasu etatu cięć użytków rębnych z przyczyn wymienionych w ust. 2, dokonuje się zmiany planu urządzenia lasu w trybie określonym w ust. 1.”;
+- **3)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Lasy Państwowe prowadzą działalność na zasadzie samodzielności finansowej i pokrywają koszty działalności z własnych przychodów. 2. Dyrektor Generalny Lasów Państwowych ustala dla wszystkich jednostek organizacyjnych Lasów Państwowych zasady (politykę) rachunkowości. 3. Lasy Państwowe prowadzą rachunkowość według zasad określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330 i 613).” ; 4) po art. 58 dodaje się art. 58a w brzmieniu: „Art. 58a. 1. Dyrekcja Generalna Lasów Państwowych dokonuje wpłaty na rachunek ministra właściwego do spraw środowiska w wysokości stanowiącej równowartość 2% przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna, zwanej dalej „wpłatą”. 2. Wpłaty dokonuje się za każdy kwartał kalendarzowy w terminie do trzydziestego dnia miesiąca następującego po tym kwartale. 3. Wpłata stanowi dochód budżetu państwa. W sprawach dotyczących wpłaty właściwy jest minister właściwy do spraw środowiska.”.
 
 **Art. 2.**
 

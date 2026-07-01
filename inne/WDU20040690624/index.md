@@ -31,12 +31,10 @@ source: pdf
 
 - **1)** w art. 3 ust. 2 otrzymuje brzmienie: „2. Nadzór nad Agencją sprawuje minister właściwy do spraw Skarbu Państwa, a w zakresie określonym w art. 6 ust. 1 pkt 1, 2 i 7 oraz w zakresie zadań określonych w przepisach o kształtowaniu ustroju rolnego nadzór nad Agencją sprawuje minister właściwy do spraw rozwoju wsi.”;
 - **2)** w art. 6 w ust. 1 uchyla się pkt 8 i 9;
-- **3)** w art. 20:
+- **3)** w art. 20: 5b. Do zobowiązań Agencji, o których mowa w ust. 5a, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm. ).”,
     - **a)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Kwoty stanowiące różnicę między środkami uzyskanymi z gospodarowania mieniem Zasobu w danym roku obrotowym z tytułów, o których mowa w art. 20c ust. 1 pkt 1, a środkami wydatkowanymi na realizację zadań, o których mowa w art. 20 ust. 4 i 5, podlegają przekazaniu przez Agencję do budżetu państwa, w terminie do dnia 30 czerwca roku następnego.
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art. 20b ust. 2, oraz funduszu mienia Zasobu, o którym mowa w art. 20c ust. 2.”;
 
-5b. Do zobowiązań Agencji, o których mowa w ust. 5a, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm. ).”,
-
-- **b)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art. 20b ust. 2, oraz funduszu mienia Zasobu, o którym mowa w art. 20c ust. 2.”;
 - **4)** w art. 20b w ust. 1:
     - **a)** w pkt 1 lit. c otrzymuje brzmienie: „c) środki, o których mowa w art. 20 ust. 4, w kwocie przeznaczonej na realizację zobowiązań określonych w art. 20a ust. 1 i 4,”,
     - **b)** w pkt 2 lit. a otrzymuje brzmienie: „a) koszty wpłat określonych w art. 20a ust. 1 i 4 oraz koszty obsługi tych wpłat,”;

@@ -33,9 +33,7 @@ source: pdf
     - **a)** w lit. a skreśla się wyrazy „ust. 3 i”,
     - **b)** po lit. a dodaje się lit. aa w brzmieniu: „aa) oferty publicznej papierów wartościowych, w wyniku której zakładane wpływy brutto emitenta lub oferującego na terytorium Unii Europejskiej, liczone według ich ceny emisyjnej lub ceny sprzedaży z dnia ich ustalenia, stanowią mniej niż 1 000 000 euro, i wraz z wpływami, które emitent lub oferujący zamierzał uzyskać z tytułu ofert publicznych takich papierów wartościowych, dokonanych w okresie poprzednich 12 miesięcy, będą mniejsze niż 1 000 000 euro,”;
 
-- **2)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Wpływy, o których mowa w ust. 1 pkt 2 lit. aa, obejmują wpływy, o których mowa w art. 37d ustawy o ofercie publicznej. Przepis art. 4a ust. 4 ustawy o ofercie publicznej stosuje się odpowiednio.
-
-1b. Przez kwotę wyrażoną w euro, podaną w ust. 1 pkt 2 lit. aa, należy rozumieć również równowartość tej kwoty wyrażoną w walucie polskiej, ustaloną przy zastosowaniu średniego kursu euro, lub jej równowartość wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu euro oraz średniego kursu tej waluty, ogłoszonych przez Narodowy Bank Polski w dniu ustalenia ceny emisyjnej lub ceny sprzedaży papierów wartościowych.”.
+- **2)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Wpływy, o których mowa w ust. 1 pkt 2 lit. aa, obejmują wpływy, o których mowa w art. 37d ustawy o ofercie publicznej. Przepis art. 4a ust. 4 ustawy o ofercie publicznej stosuje się odpowiednio. 1b. Przez kwotę wyrażoną w euro, podaną w ust. 1 pkt 2 lit. aa, należy rozumieć również równowartość tej kwoty wyrażoną w walucie polskiej, ustaloną przy zastosowaniu średniego kursu euro, lub jej równowartość wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu euro oraz średniego kursu tej waluty, ogłoszonych przez Narodowy Bank Polski w dniu ustalenia ceny emisyjnej lub ceny sprzedaży papierów wartościowych.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

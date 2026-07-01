@@ -34,9 +34,7 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. W terminie 24 miesięcy od dnia wejścia w życie ustawy starostowie złożą we właściwych sądach rejonowych wnioski o ujawnienie w księgach wieczystych prawa własności nieruchomości Skarbu Państwa, wraz z dokumentami stanowiącymi podstawę wpisu tego prawa.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. W terminie 24 miesięcy od dnia wejścia w życie ustawy właściwe w sprawach gospodarowania nieruchomościami organy jednostek samorządu terytorialnego złożą w sądach rejonowych wnioski o ujawnienie w księgach wieczystych prawa własności nieruchomości jednostek samorządu terytorialnego, wraz z dokumentami stanowiącymi podstawę wpisu tego prawa.”;
 
-- **3)** w art. 6 ust. 1 otrzymuje brzmienie: „1. W ramach zadania, o którym mowa w art. 1 ust. 2, starostowie w okresie 36 miesięcy od dnia wejścia w życie ustawy będą prowadzić działania zmierzające do:
-- **1)** poinformowania mieszkańców powiatu o potrzebie sprawdzenia zgodności ksiąg wieczystych z rzeczywistym stanem prawnym;
-- **2)** udzielenia pomocy mieszkańcom w zakresie informacji o rodzaju i sposobie działań niezbędnych do uzyskania tytułu prawnego do zajmowanych przez nich nieruchomości i ujawnienia ich praw w księgach wieczystych.”.
+- **3)** w art. 6 ust. 1 otrzymuje brzmienie: „1. W ramach zadania, o którym mowa w art. 1 ust. 2, starostowie w okresie 36 miesięcy od dnia wejścia w życie ustawy będą prowadzić działania zmierzające do: 1) poinformowania mieszkańców powiatu o potrzebie sprawdzenia zgodności ksiąg wieczystych z rzeczywistym stanem prawnym; 2) udzielenia pomocy mieszkańcom w zakresie informacji o rodzaju i sposobie działań niezbędnych do uzyskania tytułu prawnego do zajmowanych przez nich nieruchomości i ujawnienia ich praw w księgach wieczystych.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 18 maja 2008 r.
 

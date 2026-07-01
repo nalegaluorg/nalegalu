@@ -34,17 +34,7 @@ source: pdf
 **Art. 3.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177 i 742) wprowadza się następujące zmiany:
 
 - **1)** w art. 187 dodaje się ust. 8 w brzmieniu: „8. Programy, o których mowa w ust. 1 pkt 5, Rada Ministrów przyjmuje w drodze uchwały.”;
-- **2)** po art. 187a dodaje się art. 187b w brzmieniu: „Art. 187b. 1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie.
-
-2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego.
-
-3. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa.
-
-4. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
-
-5. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń.
-
-6. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych.”.
+- **2)** po art. 187a dodaje się art. 187b w brzmieniu: „Art. 187b. 1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w jednostkach organizacyjnych wspierania rodziny i systemu pieczy zastępczej prowadzonych przez jednostki samorządu terytorialnego lub na ich zlecenie. 2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego. 3. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa. 4. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ). 5. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń pracowników oraz pokrycie kosztów składek od tych wynagrodzeń. 6. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych.”.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

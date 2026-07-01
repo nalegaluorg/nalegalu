@@ -29,13 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2012 r. poz. 803 oraz z 2016 r. poz. 585) wprowadza się następujące zmiany:
 
-- **1)** art. 1a otrzymuje brzmienie: „Art. 1a. Przepisów ustawy nie stosuje się do:
-- **1)** nieruchomości rolnych:
-    - **a)** wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, o którym mowa w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2015 r. poz. 1014, 1433 i 1830 oraz z 2016 r. poz. 50 i 585),
-    - **b)** o powierzchni mniejszej niż 0,3 ha,
-    - **c)** będących drogami wewnętrznymi;
-
-- **2)** nabycia udziałów lub ich części we współwłasności nieruchomości, o których mowa w pkt 1 lit. b i c.”;
+- **1)** art. 1a otrzymuje brzmienie: „Art. 1a. Przepisów ustawy nie stosuje się do: 1) nieruchomości rolnych: a) wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa, o którym mowa w ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2015 r. poz. 1014, 1433 i 1830 oraz z 2016 r. poz. 50 i 585), b) o powierzchni mniejszej niż 0,3 ha, c) będących drogami wewnętrznymi; 2) nabycia udziałów lub ich części we współwłasności nieruchomości, o których mowa w pkt 1 lit. b i c.”;
 - **2)** w art. 2a w ust. 3 w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) parki narodowe, w przypadku zakupu nieruchomości rolnych na cele związane z ochroną przyrody;”;
 - **3)** w art. 4 ust. 6 otrzymuje brzmienie: „6. Przepisy ust. 1–3, ust. 4 pkt 2 lit. b–d, ust. 5, art. 3 ust. 10 i 11 oraz art. 3a ust. 3 stosuje się odpowiednio do nabycia udziałów i akcji w spółce prawa handlowego, która jest właścicielem nieruchomości rolnej.”.
 

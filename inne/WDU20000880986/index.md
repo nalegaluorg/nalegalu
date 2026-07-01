@@ -35,39 +35,7 @@ source: pdf
     - **a)** w ust. 1 w pkt 2 na końcu dodaje się wyrazy „potwierdzonego przez lekarza ubezpieczenia zdrowotnego,”;
     - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz leków, o których mowa w ust. 1 pkt 3, sposób realizacji recept oraz tryb rozliczania przez instytucje powszechnego ubezpieczenia zdrowotnego z budżetem państwa kosztów tych leków.”;
 
-- **4)** załącznik nr 3 do ustawy otrzymuje brzmienie: „WYKAZ ZAKŁADÓW, KTÓRE ZAPRZESTAŁY PRODUKCJI WYROBÓW ZAWIERAJĄCYCH AZBEST
-
-1. „Fabryka Okładzin Ciernych” Spółka Akcyjna w Markach k. Warszawy,
-
-2. Przedsiębiorstwo Państwowe „Gambit” w Lubawce,
-
-3. Wytwórnia Uszczelek „Morpak” Spółka z o.o. w Gdańsku,
-
-4. Fabryka Odzieży i Tkanin Żaroodpornych „Izo-term” w Gryfowie Śląskim,
-
-5. Zakłady Wyrobów Uszczelniających i Termoizolacyjnych „Polonit” Spółka z o.o. w Łodzi,
-
-6. Zakłady Uszczelnień i Wyrobów Azbestowych „Polonit” w likwidacji w Łodzi,
-
-7. Zakłady Wyrobów Azbestowo-Cementowych w Małkini,
-
-8. Pruszkowskie Zakłady Materiałów Izolacyjnych w Pruszkowie,
-
-9. Lubelskie Zakłady Eternitu w Lublinie,
-
-10. Lubelskie Przedsiębiorstwo Produkcyjno-Usługowe Ceramiki Budowlanej w Niemcach z siedzibą w Lublinie,
-
-11. Zakład Produkcji Płytek Azbestowo-Cementowych w Końskowoli,
-
-12. Przedsiębiorstwo Materiałów Izolacji Budowlanej „Izolacja” w Jarocinie,
-
-13. Zakłady Wyrobów Azbestowo-Cementowych „COBRPIB” w Katowicach,
-
-14. Zakład Materiałów Hydroizolacyjnych „COBRPIB” w Pruszkowie,
-
-15. Fabryka Płyt Filtracyjnych „Filtr” w Pilchowicach,
-
-16. Zakłady Wyrobów Azbestowo-Cementowych w Szczucinie.”.
+- **4)** załącznik nr 3 do ustawy otrzymuje brzmienie: „WYKAZ ZAKŁADÓW, KTÓRE ZAPRZESTAŁY PRODUKCJI WYROBÓW ZAWIERAJĄCYCH AZBEST 1. „Fabryka Okładzin Ciernych” Spółka Akcyjna w Markach k. Warszawy, 2. Przedsiębiorstwo Państwowe „Gambit” w Lubawce, 3. Wytwórnia Uszczelek „Morpak” Spółka z o.o. w Gdańsku, 4. Fabryka Odzieży i Tkanin Żaroodpornych „Izo-term” w Gryfowie Śląskim, 5. Zakłady Wyrobów Uszczelniających i Termoizolacyjnych „Polonit” Spółka z o.o. w Łodzi, 6. Zakłady Uszczelnień i Wyrobów Azbestowych „Polonit” w likwidacji w Łodzi, 7. Zakłady Wyrobów Azbestowo-Cementowych w Małkini, 8. Pruszkowskie Zakłady Materiałów Izolacyjnych w Pruszkowie, 9. Lubelskie Zakłady Eternitu w Lublinie, 10. Lubelskie Przedsiębiorstwo Produkcyjno-Usługowe Ceramiki Budowlanej w Niemcach z siedzibą w Lublinie, 11. Zakład Produkcji Płytek Azbestowo-Cementowych w Końskowoli, 12. Przedsiębiorstwo Materiałów Izolacji Budowlanej „Izolacja” w Jarocinie, 13. Zakłady Wyrobów Azbestowo-Cementowych „COBRPIB” w Katowicach, 14. Zakład Materiałów Hydroizolacyjnych „COBRPIB” w Pruszkowie, 15. Fabryka Płyt Filtracyjnych „Filtr” w Pilchowicach, 16. Zakłady Wyrobów Azbestowo-Cementowych w Szczucinie.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

@@ -33,35 +33,22 @@ source: pdf
     - **a)** uchyla się pkt 3,
     - **b)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) opłatę od posiadania psów.”;
 
-- **2)** w art. 1a dodaje się ust. 3 w brzmieniu: „3. Przez użyte w ustawie określenia:
-- **1)** użytki rolne,
-- **2)** lasy,
-- **3)** nieużytki,
-- **4)** użytki ekologiczne,
-- **5)** grunty zadrzewione i zakrzewione,
-- **6)** grunty zadrzewione i zakrzewione na użytkach rolnych,
-- **7)** grunty pod wodami powierzchniowymi płynącymi,
-- **8)** grunty pod morskimi wodami wewnętrznymi – rozumie się grunty sklasyfikowane w ten sposób w ewidencji gruntów i budynków.”;
+- **2)** w art. 1a dodaje się ust. 3 w brzmieniu: „3. Przez użyte w ustawie określenia: 1) użytki rolne, 2) lasy, 3) nieużytki, 4) użytki ekologiczne, 5) grunty zadrzewione i zakrzewione, 6) grunty zadrzewione i zakrzewione na użytkach rolnych, 7) grunty pod wodami powierzchniowymi płynącymi, 8) grunty pod morskimi wodami wewnętrznymi – rozumie się grunty sklasyfikowane w ten sposób w ewidencji gruntów i budynków.”;
 - **3)** w art. 2:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Opodatkowaniu podatkiem od nieruchomości nie podlegają użytki rolne, grunty zadrzewione i zakrzewione na użytkach rolnych lub lasy, z wyjątkiem zajętych na prowadzenie działalności gospodarczej.”,
     - **b)** w ust. 3: – pkt 2 otrzymuje brzmienie: „2) grunty pod wodami powierzchniowymi płynącymi i kanałami żeglownymi, z wyjątkiem jezior oraz gruntów zajętych na zbiorniki wodne retencyjne lub elektrowni wodnych;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) grunty pod morskimi wodami wewnętrznymi;”, – pkt 4 otrzymuje brzmienie: „4) grunty zajęte pod pasy drogowe dróg publicznych w rozumieniu przepisów o drogach publicznych oraz zlokalizowane w nich budowle – z wyjątkiem związanych z prowadzeniem działalności gospodarczej innej niż eksploatacja autostrad płatnych.”;
 
-- **4)** w art. 4:
+- **4)** w art. 4: 6. Jeżeli budowle lub ich części, o których mowa w ust. 5, zostały ulepszone lub zgodnie z przepisami o podatkach dochodowych nastąpiła aktualizacja wyceny środków trwałych – podstawę opodatkowania stanowi ich wartość rynkowa ustalona na dzień 1 stycznia roku podatkowego następującego po roku, w którym dokonano ulepszenia lub aktualizacji wyceny środków trwałych.”;
     - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) dla budowli lub ich części związanych z prowadzeniem działalności gospodarczej, z zastrzeżeniem ust. 4-6 - wartość, o której mowa w przepisach o podatkach dochodowych, ustalona na dzień 1 stycznia roku podatkowego, stanowiąca podstawę obliczania amortyzacji w tym roku, niepomniejszona o odpisy amortyzacyjne, a w przypadku budowli całkowicie zamortyzowanych - ich wartość z dnia 1 stycznia roku, w którym dokonano ostatniego odpisu amortyzacyjnego.”,
     - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Jeżeli od budowli lub ich części, o których mowa w ust. 1 pkt 3, nie dokonuje się odpisów amortyzacyjnych – podstawę opodatkowania stanowi ich wartość rynkowa, określona przez podatnika na dzień powstania obowiązku podatkowego.
-
-6. Jeżeli budowle lub ich części, o których mowa w ust. 5, zostały ulepszone lub zgodnie z przepisami o podatkach dochodowych nastąpiła aktualizacja wyceny środków trwałych – podstawę opodatkowania stanowi ich wartość rynkowa ustalona na dzień 1 stycznia roku podatkowego następującego po roku, w którym dokonano ulepszenia lub aktualizacji wyceny środków trwałych.”;
 
 - **5)** w art. 6:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Jeżeli okolicznością, od której jest uzależniony obowiązek podatkowy, jest istnienie budowli albo budynku lub ich części, obowiązek podatkowy powstaje z dniem 1 stycznia roku następującego po roku, w którym budowa została zakończona albo w którym rozpoczęto użytkowanie budowli albo budynku lub ich części przed ich ostatecznym wykończeniem.”,
     - **b)** w ust. 14 pkt 1 otrzymuje brzmienie: „1) ich format elektroniczny oraz układ informacji i powiązań między nimi zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne;”,
     - **c)** ust. 16 otrzymuje brzmienie: „16. Poświadczenie przez organ podatkowy złożenia informacji o nieruchomościach i obiektach budowlanych lub deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 
-- **6)** w art. 7:
+- **6)** w art. 7: a) zarządca infrastruktury jest obowiązany do jej udostępniania licencjonowanym przewoźnikom kolejowym lub b) są przeznaczone wyłącznie do przewozu osób, wykonywanego przez przewoźnika kolejowego, który równocześnie zarządza tą infrastrukturą bez udostępniania jej innym przewoźnikom, lub c) tworzą linie kolejowe o szerokości torów większej niż 1.435 mm;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) grunty, budynki i budowle pozostałe po likwidacji linii kolejowych lub ich odcinków – do czasu przeniesienia ich własności lub prawa użytkowania wieczystego – nie dłużej jednak niż przez 3 lata od pierwszego dnia miesiąca następującego po miesiącu, w którym stała się ostateczna decyzja lub weszło w życie rozporządzenie, wyrażające zgodę na likwidację linii lub ich odcinków, wydane w trybie przewidzianym w przepisach o transporcie kolejowym – z wyjątkiem zajętych na działalność inną niż działalność, o której mowa w przepisach o transporcie kolejowym;”,
     - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) budowle wchodzące w skład infrastruktury kolejowej w rozumieniu przepisów o transporcie kolejowym oraz zajęte pod nie grunty, jeżeli:
-    - **a)** zarządca infrastruktury jest obowiązany do jej udostępniania licencjonowanym przewoźnikom kolejowym lub
-    - **b)** są przeznaczone wyłącznie do przewozu osób, wykonywanego przez przewoźnika kolejowego, który równocześnie zarządza tą infrastrukturą bez udostępniania jej innym przewoźnikom, lub
-    - **c)** tworzą linie kolejowe o szerokości torów większej niż 1.435 mm;”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) grunty, budynki i budowle pozostałe po likwidacji linii kolejowych lub ich odcinków – do czasu przeniesienia ich własności lub prawa użytkowania wieczystego – nie dłużej jednak niż przez 3 lata od pierwszego dnia miesiąca następującego po miesiącu, w którym stała się ostateczna decyzja lub weszło w życie rozporządzenie, wyrażające zgodę na likwidację linii lub ich odcinków, wydane w trybie przewidzianym w przepisach o transporcie kolejowym – z wyjątkiem zajętych na działalność inną niż działalność, o której mowa w przepisach o transporcie kolejowym;”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Z tytułu zwolnień, o których mowa w ust. 1 pkt 8 oraz ust. 2 pkt 5a, jednostkom samorządu terytorialnego przysługuje z budżetu państwa zwrot utraconych dochodów za przedmioty opodatkowania, które podlegają opodatkowaniu i nie są z niego zwolnione na podstawie innych przepisów niniejszej ustawy.”;
 
 - **7)** w art. 8 pkt 1 otrzymuje brzmienie: „1) samochody ciężarowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;”;
@@ -76,29 +63,11 @@ source: pdf
     - **h)** ust. 12 otrzymuje brzmienie: „12. Poświadczenie przez organ podatkowy złożenia deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej odbywa się zgodnie z przepisami o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 
 - **9)** w art. 10 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „a) powyżej 3,5 tony do 5,5 tony włącznie – 676,20 zł,”;
-- **10)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Podatek od środków transportowych, z zastrzeżeniem ust. 2, jest płatny w dwóch ratach proporcjonalnie do czasu trwania obowiązku podatkowego, w terminie do dnia 15 lutego i do dnia 15 września każdego roku.
-
-2. Jeżeli obowiązek podatkowy powstał:
-
-- **1)** po dniu 1 lutego, a przed dniem 1 września danego roku, podatek za ten rok płatny jest w dwóch ratach proporcjonalnie do czasu trwania obowiązku podatkowego w terminie:
-    - **a)** w ciągu 14 dni od dnia powstania obowiązku podatkowego – I rata,
-    - **b)** do dnia 15 września danego roku – II rata;
-
-- **2)** od dnia 1 września danego roku, podatek jest płatny jednorazowo w terminie 14 dni od dnia powstania obowiązku podatkowego.
-
-3. Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał obowiązek.”;
-
+- **10)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Podatek od środków transportowych, z zastrzeżeniem ust. 2, jest płatny w dwóch ratach proporcjonalnie do czasu trwania obowiązku podatkowego, w terminie do dnia 15 lutego i do dnia 15 września każdego roku. 2. Jeżeli obowiązek podatkowy powstał: 1) po dniu 1 lutego, a przed dniem 1 września danego roku, podatek za ten rok płatny jest w dwóch ratach proporcjonalnie do czasu trwania obowiązku podatkowego w terminie: a) w ciągu 14 dni od dnia powstania obowiązku podatkowego – I rata, b) do dnia 15 września danego roku – II rata; 2) od dnia 1 września danego roku, podatek jest płatny jednorazowo w terminie 14 dni od dnia powstania obowiązku podatkowego. 3. Jeżeli obowiązek podatkowy powstał lub wygasł w ciągu roku, podatek za ten rok ustala się proporcjonalnie do liczby miesięcy, w których istniał obowiązek.”;
 - **11)** w art. 12 w ust. 1 uchyla się pkt 4;
 - **12)** uchyla się rozdział 4;
 - **13)** w art. 17 w ust. 4 pkt 3 otrzymuje brzmienie: „3) umożliwiające pobyt osób w celach turystycznych, wypoczynkowych lub szkoleniowych.”;
-- **14)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. 1. Rada gminy może wprowadzić opłatę od posiadania psów. Opłatę pobiera się od osób fizycznych posiadających psy.
-
-2. Opłaty od posiadania psów nie pobiera się od:
-
-- **1)** członków personelu przedstawicielstw dyplomatycznych i urzędów konsularnych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych, jeżeli nie są obywatelami polskimi i nie mają miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej - pod warunkiem wzajemności;
-- **2)** osób zaliczonych do znacznego stopnia niepełnosprawności w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych - z tytułu posiadania jednego psa;
-- **3)** osób w wieku powyżej 65 lat prowadzących samodzielnie gospodarstwo domowe - z tytułu posiadania jednego psa;
-- **4)** podatników podatku rolnego od gospodarstw rolnych - z tytułu posiadania nie więcej niż dwóch psów.”;
+- **14)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. 1. Rada gminy może wprowadzić opłatę od posiadania psów. Opłatę pobiera się od osób fizycznych posiadających psy. 2. Opłaty od posiadania psów nie pobiera się od: 1) członków personelu przedstawicielstw dyplomatycznych i urzędów konsularnych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych, jeżeli nie są obywatelami polskimi i nie mają miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej - pod warunkiem wzajemności; 2) osób zaliczonych do znacznego stopnia niepełnosprawności w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych - z tytułu posiadania jednego psa; 3) osób w wieku powyżej 65 lat prowadzących samodzielnie gospodarstwo domowe - z tytułu posiadania jednego psa; 4) podatników podatku rolnego od gospodarstw rolnych - z tytułu posiadania nie więcej niż dwóch psów.”;
 - **15)** w art. 19 w pkt 1 dodaje się lit. f w brzmieniu: „f) stawka opłaty od posiadania psów nie może przekroczyć 100 zł rocznie od jednego psa;”;
 - **16)** w art. 20: 1 i art. 19 pkt 1, obowiązujące w danym roku podatkowym ulegają corocznie zmianie na następny rok podatkowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Górne granice stawek kwotowych określone w art. 5 ust. 1, art. 10 ust.

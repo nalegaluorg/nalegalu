@@ -27,9 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/358/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. Nr 84, poz. 700) w art. 38 w pkt 2 dodaje się lit. i i j w brzmieniu: „i) budowa gazociągu Jeleniów – Dziwiszów wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa dolnośląskiego,
-
-- **j)** budowa gazociągu granica Rzeczypospolitej Polskiej (Lasów) – Taczalin – Radakowice – Gałów – Wierzchowice (powiat milicki) wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa dolnośląskiego.”.
+**Art. 1.** W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. Nr 84, poz. 700) w art. 38 w pkt 2 dodaje się lit. i i j w brzmieniu: „i) budowa gazociągu Jeleniów – Dziwiszów wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa dolnośląskiego, j) budowa gazociągu granica Rzeczypospolitej Polskiej (Lasów) – Taczalin – Radakowice – Gałów – Wierzchowice (powiat milicki) wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa dolnośląskiego.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

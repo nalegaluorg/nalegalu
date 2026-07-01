@@ -35,24 +35,16 @@ source: pdf
     - **a)** pkt 3 otrzymuje brzmienie: „3) cudzoziemców zamieszkujących na terytorium Rzeczypospolitej Polskiej.”,
     - **b)** uchyla się pkt 4;
 
-- **4)** w art. 8:
+- **4)** w art. 8: a) UE – w przypadku cudzoziemca będącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, b) CUE – w przypadku cudzoziemca będącego członkiem rodziny cudzoziemca, o którym mowa w lit. a, niebędącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej, c) NUE – w przypadku cudzoziemca niewymienionego w lit. a i b;”,
     - **a)** po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) przewidywany okres pobytu poza granicami Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;”,
     - **b)** pkt 24 otrzymuje brzmienie: „24) seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo;”,
     - **c)** po pkt 24 dodaje się pkt 24a w brzmieniu: „24a) status cudzoziemca oznaczony jako:
-    - **a)** UE – w przypadku cudzoziemca będącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
-    - **b)** CUE – w przypadku cudzoziemca będącego członkiem rodziny cudzoziemca, o którym mowa w lit. a, niebędącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
-    - **c)** NUE – w przypadku cudzoziemca niewymienionego w lit. a i b;”,
     - **d)** uchyla się pkt 25;
 
-- **5)** w art. 9 ust. 3 i 4 otrzymują brzmienie: „3. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 3, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 14–17, 24 i 24a, a dane, o których mowa w art. 8 pkt 3, 5, 7, 8, 12, 13, 18–21 i 26 – o ile są dostępne.
-
-4. W stosunku do osób, o których mowa w art. 7 ust. 2, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 15, 23–24a, a dane, o których mowa w art. 8 pkt 2, 3, 5, 7, 8, 12, 13, 22 i 26 – o ile są dostępne.”;
-
-- **6)** w art. 10:
+- **5)** w art. 9 ust. 3 i 4 otrzymują brzmienie: „3. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 3, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 14–17, 24 i 24a, a dane, o których mowa w art. 8 pkt 3, 5, 7, 8, 12, 13, 18–21 i 26 – o ile są dostępne. 4. W stosunku do osób, o których mowa w art. 7 ust. 2, gromadzi się dane wymienione w art. 8 pkt 1, 4, 6, 9–11, 15, 23–24a, a dane, o których mowa w art. 8 pkt 2, 3, 5, 7, 8, 12, 13, 22 i 26 – o ile są dostępne.”;
+- **6)** w art. 10: 7. Podstawę rejestracji danych cudzoziemca stanowi ważny dokument podróży, a w przypadku obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej – również inny dokument potwierdzający tożsamość i obywatelstwo.”;
     - **a)** w ust. 1 pkt 9 otrzymuje brzmienie: „9) organ gminy właściwy do zameldowania na pobyt stały i czasowy cudzoziemca – w zakresie danych, o których mowa w art. 8 pkt 1, 3–7, 9–21, 24, 24a i 26;”,
     - **b)** ust. 6 i 7 otrzymują brzmienie: „6. Przy rejestracji zmiany danych, o których mowa w art. 8, należy podać datę zmiany danych oraz oznaczenie organu lub sądu, z którego działania wynika dokonana zmiana. Dotychczasowych danych nie usuwa się z rejestru, z wyłączeniem danych wymienionych w art. 8 pkt 22 i 23 oraz danych zmienianych w związku z procedurą przysposobienia albo obalenia domniemania ojcostwa męża matki.
-
-7. Podstawę rejestracji danych cudzoziemca stanowi ważny dokument podróży, a w przypadku obywatela państwa członkowskiego Unii Europejskiej, obywatela państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub obywatela Konfederacji Szwajcarskiej – również inny dokument potwierdzający tożsamość i obywatelstwo.”;
 
 - **7)** w art. 11: W przypadku działania organu z urzędu osobę, której dane były sprawdzane, zawiadamia się, jeżeli usunięte niezgodności danych mają wpływ na ustalenie tożsamości tej osoby.”;
     - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku gdy organ, o którym mowa w art. 10 ust. 1, stwierdzi niezgodność danych zawartych w rejestrze PESEL lub w rejestrze mieszkańców z posiadanymi dokumentami lub ze stanem faktycznym, usuwa tę niezgodność, a jeżeli nie jest właściwy do jej usunięcia, zawiadamia o tym niezwłocznie organ właściwy do rejestracji tych danych na podstawie art. 10 ust. 1 w celu usunięcia tej niezgodności.”,
@@ -70,57 +62,13 @@ source: pdf
     - **b)** ust. 4 otrzymuje brzmienie: „4. W celu nadania numeru PESEL organ wskazany w ust. 1 przekazuje, za pośrednictwem systemu teleinformatycznego, dane, o których mowa w art. 8 pkt 1–9, 11–13, 15 i 22–24a, ministrowi właściwemu do spraw informatyzacji, z uwzględnieniem art. 9 i art. 12.”;
 
 - **12)** art. 20 otrzymuje brzmienie: „Art. 20. Organy, o których mowa w art. 19 ust. 3, niezwłocznie przekazują, za pośrednictwem systemu teleinformatycznego, dane niezbędne do zmiany numeru PESEL ministrowi właściwemu do spraw informatyzacji.”;
-- **13)** w art. 24 ust. 4 i 5 otrzymują brzmienie: „4. Obowiązku meldunkowego można dopełnić przez pełnomocnika legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257), po potwierdzeniu przez pełnomocnika jego tożsamości za pomocą dokumentu tożsamości albo po uwierzytelnieniu pełnomocnika na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
-
-5. Obowiązku meldunkowego można dopełnić w formie dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
-
+- **13)** w art. 24 ust. 4 i 5 otrzymują brzmienie: „4. Obowiązku meldunkowego można dopełnić przez pełnomocnika legitymującego się pełnomocnictwem udzielonym w formie, o której mowa w art. 33 § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257), po potwierdzeniu przez pełnomocnika jego tożsamości za pomocą dokumentu tożsamości albo po uwierzytelnieniu pełnomocnika na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. 5. Obowiązku meldunkowego można dopełnić w formie dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 - **14)** w art. 26 ust. 2 otrzymuje brzmienie: „2. Adres, o którym mowa w ust. 1, w rejestrze PESEL oraz w rejestrze mieszkańców uzupełnia się o identyfikatory krajowego rejestru urzędowego podziału terytorialnego kraju „TERYT”.”;
-- **15)** w art. 28:
+- **15)** w art. 28: 1) w formie pisemnej, na formularzu, w organie gminy właściwym ze względu na położenie nieruchomości, w której zamieszkuje, przedstawiając do wglądu dowód osobisty lub paszport, albo 2) w formie dokumentu elektronicznego, na formularzu umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania urzędowego poświadczenia odbioru. 2. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy w formie, o której mowa w ust. 1 pkt 1, przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu na formularzu zgłoszenia pobytu stałego lub formularzu zgłoszenia pobytu czasowego oraz – do wglądu – dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu.”, 2b. Dokumentem potwierdzającym tytuł prawny do lokalu może być w szczególności umowa cywilnoprawna, odpis z księgi wieczystej albo wyciąg z działów I i II księgi wieczystej, decyzja administracyjna lub orzeczenie sądu. 2c. Organ gminy przechowuje dokument potwierdzający tytuł prawny do lokalu albo odwzorowanie cyfrowe tego dokumentu, dołączony w formie, o której mowa w ust. 2a, wyłącznie do czasu zakończenia czynności meldunkowych. 2d. W przypadku dołączenia odwzorowania cyfrowego dokumentów, w szczególności dokumentów, o których mowa w ust. 2a, organ gminy w razie uzasadnionych wątpliwości może żądać okazania oryginałów tych dokumentów.”;
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Obywatel polski dokonuje zameldowania na pobyt stały lub czasowy:
+    - **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy w formie, o której mowa w ust. 1 pkt 2, dołącza do formularza dokument elektroniczny potwierdzający jego tytuł prawny do lokalu, a w razie niemożności jego uzyskania – odwzorowanie cyfrowe tego dokumentu, a obywatel nieposiadający tytułu prawnego do lokalu dołącza do formularza dokument elektroniczny zawierający oświadczenie właściciela lub innego podmiotu dysponującego tytułem prawnym do lokalu potwierdzające pobyt w lokalu oraz dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu, a w razie niemożności ich uzyskania – odwzorowanie cyfrowe tych dokumentów.
 
-- **1)** w formie pisemnej, na formularzu, w organie gminy właściwym ze względu na położenie nieruchomości, w której zamieszkuje, przedstawiając do wglądu dowód osobisty lub paszport, albo
-- **2)** w formie dokumentu elektronicznego, na formularzu umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w pkt 1, pod warunkiem otrzymania urzędowego poświadczenia odbioru.
-
-2. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy w formie, o której mowa w ust. 1 pkt 1, przedstawia potwierdzenie pobytu w lokalu, dokonane przez właściciela lub inny podmiot dysponujący tytułem prawnym do lokalu na formularzu zgłoszenia pobytu stałego lub formularzu zgłoszenia pobytu czasowego oraz – do wglądu – dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu.”,
-
-- **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Obywatel polski dokonujący zameldowania na pobyt stały lub czasowy w formie, o której mowa w ust. 1 pkt 2, dołącza do formularza dokument elektroniczny potwierdzający jego tytuł prawny do lokalu, a w razie niemożności jego uzyskania – odwzorowanie cyfrowe tego dokumentu, a obywatel nieposiadający tytułu prawnego do lokalu dołącza do formularza dokument elektroniczny zawierający oświadczenie właściciela lub innego podmiotu dysponującego tytułem prawnym do lokalu potwierdzające pobyt w lokalu oraz dokument potwierdzający tytuł prawny do lokalu tego właściciela lub podmiotu, a w razie niemożności ich uzyskania – odwzorowanie cyfrowe tych dokumentów.
-
-2b. Dokumentem potwierdzającym tytuł prawny do lokalu może być w szczególności umowa cywilnoprawna, odpis z księgi wieczystej albo wyciąg z działów I i II księgi wieczystej, decyzja administracyjna lub orzeczenie sądu.
-
-2c. Organ gminy przechowuje dokument potwierdzający tytuł prawny do lokalu albo odwzorowanie cyfrowe tego dokumentu, dołączony w formie, o której mowa w ust. 2a, wyłącznie do czasu zakończenia czynności meldunkowych.
-
-2d. W przypadku dołączenia odwzorowania cyfrowego dokumentów, w szczególności dokumentów, o których mowa w ust. 2a, organ gminy w razie uzasadnionych wątpliwości może żądać okazania oryginałów tych dokumentów.”;
-
-- **16)** art. 30 otrzymuje brzmienie: „Art. 30. 1. W formularzu zgłoszenia pobytu stałego zamieszcza się:
-- **1)** nazwisko i imię (imiona);
-- **2)** numer PESEL, o ile został nadany;
-- **3)** datę i miejsce urodzenia, o ile numer PESEL nie został nadany;
-- **4)** kraj urodzenia;
-- **5)** adres dotychczasowego miejsca pobytu stałego;
-- **6)** kraj poprzedniego miejsca zamieszkania;
-- **7)** adres nowego miejsca pobytu stałego;
-- **8)** adres dotychczasowego miejsca pobytu czasowego;
-- **9)** podpis właściciela lokalu lub innego podmiotu dysponującego tytułem prawnym do lokalu;
-- **10)** nazwisko i imię pełnomocnika, o ile został ustanowiony;
-- **11)** adres elektroniczny służący do doręczeń, jeżeli osoba dokonała zameldowania na pobyt stały przy wykorzystaniu dokumentu elektronicznego.
-
-2. W formularzu zgłoszenia pobytu czasowego zamieszcza się:
-
-- **1)** nazwisko i imię (imiona);
-- **2)** numer PESEL, o ile został nadany;
-- **3)** datę i miejsce urodzenia, o ile numer PESEL nie został nadany;
-- **4)** kraj urodzenia;
-- **5)** kraj miejsca zamieszkania;
-- **6)** adres dotychczasowego miejsca pobytu stałego;
-- **7)** adres nowego miejsca pobytu czasowego;
-- **8)** deklarowany okres pobytu;
-- **9)** adres dotychczasowego miejsca pobytu czasowego;
-- **10)** podpis właściciela lokalu lub innego podmiotu dysponującego tytułem prawnym do lokalu;
-- **11)** nazwisko i imię pełnomocnika, o ile został ustanowiony;
-- **12)** adres elektroniczny służący do doręczeń, jeżeli osoba dokonała zameldowania na pobyt czasowy przy wykorzystaniu dokumentu elektronicznego.
-
-3. W formularzu zgłoszenia pobytu stałego lub czasowego, składanym w formie, o której mowa w art. 28 ust. 1 pkt 2, nie zamieszcza się danych, o których mowa odpowiednio w ust. 1 pkt 9 albo w ust. 2 pkt 10.”;
-
+- **16)** art. 30 otrzymuje brzmienie: „Art. 30. 1. W formularzu zgłoszenia pobytu stałego zamieszcza się: 1) nazwisko i imię (imiona); 2) numer PESEL, o ile został nadany; 3) datę i miejsce urodzenia, o ile numer PESEL nie został nadany; 4) kraj urodzenia; 5) adres dotychczasowego miejsca pobytu stałego; 6) kraj poprzedniego miejsca zamieszkania; 7) adres nowego miejsca pobytu stałego; 8) adres dotychczasowego miejsca pobytu czasowego; 9) podpis właściciela lokalu lub innego podmiotu dysponującego tytułem prawnym do lokalu; 10) nazwisko i imię pełnomocnika, o ile został ustanowiony; 11) adres elektroniczny służący do doręczeń, jeżeli osoba dokonała zameldowania na pobyt stały przy wykorzystaniu dokumentu elektronicznego. 2. W formularzu zgłoszenia pobytu czasowego zamieszcza się: 1) nazwisko i imię (imiona); 2) numer PESEL, o ile został nadany; 3) datę i miejsce urodzenia, o ile numer PESEL nie został nadany; 4) kraj urodzenia; 5) kraj miejsca zamieszkania; 6) adres dotychczasowego miejsca pobytu stałego; 7) adres nowego miejsca pobytu czasowego; 8) deklarowany okres pobytu; 9) adres dotychczasowego miejsca pobytu czasowego; 10) podpis właściciela lokalu lub innego podmiotu dysponującego tytułem prawnym do lokalu; 11) nazwisko i imię pełnomocnika, o ile został ustanowiony; 12) adres elektroniczny służący do doręczeń, jeżeli osoba dokonała zameldowania na pobyt czasowy przy wykorzystaniu dokumentu elektronicznego. 3. W formularzu zgłoszenia pobytu stałego lub czasowego, składanym w formie, o której mowa w art. 28 ust. 1 pkt 2, nie zamieszcza się danych, o których mowa odpowiednio w ust. 1 pkt 9 albo w ust. 2 pkt 10.”;
 - **17)** w art. 33 w ust. 2 pkt 2 otrzymuje brzmienie: „2) w formie dokumentu elektronicznego, na formularzu umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania urzędowego poświadczenia odbioru.”;
 - **18)** w art. 36 w ust. 3 pkt 2 otrzymuje brzmienie: „2) w formie dokumentu elektronicznego, na formularzu umożliwiającym wprowadzenie danych do rejestru PESEL przez organ, o którym mowa w art. 28 ust. 1, pod warunkiem otrzymania urzędowego poświadczenia odbioru.”;
 - **19)** w art. 39 w ust. 1 część wspólna otrzymuje brzmienie: „– uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz sporządzania formularzy i zaświadczeń z wykorzystaniem aktualnych danych z rejestru PESEL.”;

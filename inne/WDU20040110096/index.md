@@ -30,22 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz.U. z 2001 r. Nr 13, poz. 123, z 2002 r. Nr 41, poz. 364 oraz z 2003 r. Nr 96, poz. 874 i Nr 162, poz. 1568) wprowadza się następujące zmiany:
 
 - **1)** w art. 15 ust. 3 otrzymuje brzmienie: „3. Organizator odwołuje dyrektora samorządowej instytucji kultury, o której mowa w art. 16 ust. 2, po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.”;
-- **2)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Kandydata na stanowisko dyrektora instytucji kultury można wyłonić w drodze konkursu, z zastrzeżeniem ust. 2.
-
-2. W samorządowych instytucjach kultury, których wykaz określi, w drodze rozporządzenia, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, biorąc pod uwagę ich znaczenie dla kultury narodowej, wyłonienie kandydata na stanowisko dyrektora następuje w drodze konkursu, z zastrzeżeniem ust. 3.
-
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może wyrazić zgodę na powołanie na stanowisko dyrektora, bez przeprowadzenia konkursu, kandydata wskazanego przez organizatora.
-
-4. W celu przeprowadzania konkursu, o którym mowa w ust. 2, organizator powołuje komisję konkursow ą w składzie:
-
-- **1)** trzech przedstawicieli organizatora,
-- **2)** dwóch przedstawicieli ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
-- **3)** dwóch przedstawicieli zakładowych organizacji związkowych reprezentatywnych w rozumieniu art. 241 Kodeksu pracy, działających w tej instytucji kultury,
-- **4)** dwóch przedstawicieli stowarzyszeń zawodowych lub twórczych właściwych ze względu na zakres działania tej instytucji kultury.
-
-5. Jeżeli w instytucji kultury nie działają zakładowe organizacje związkowe, w miejsce osób, o których mowa w ust. 4 pkt 3, organizator powołuje do komisji konkursowej dwóch przedstawicieli załogi tej instytucji.
-
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację i tryb przeprowadzania konkursu, sposób powoływania członków komisji konkursowej oraz zadania tej komisji, uwzględniając w szczególności procedury zapewniające ocenę kwalifikacji kandydatów.”.
+- **2)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Kandydata na stanowisko dyrektora instytucji kultury można wyłonić w drodze konkursu, z zastrzeżeniem ust. 2. 2. W samorządowych instytucjach kultury, których wykaz określi, w drodze rozporządzenia, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, biorąc pod uwagę ich znaczenie dla kultury narodowej, wyłonienie kandydata na stanowisko dyrektora następuje w drodze konkursu, z zastrzeżeniem ust. 3. 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może wyrazić zgodę na powołanie na stanowisko dyrektora, bez przeprowadzenia konkursu, kandydata wskazanego przez organizatora. 4. W celu przeprowadzania konkursu, o którym mowa w ust. 2, organizator powołuje komisję konkursow ą w składzie: 1) trzech przedstawicieli organizatora, 2) dwóch przedstawicieli ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, 3) dwóch przedstawicieli zakładowych organizacji związkowych reprezentatywnych w rozumieniu art. 241 Kodeksu pracy, działających w tej instytucji kultury, 4) dwóch przedstawicieli stowarzyszeń zawodowych lub twórczych właściwych ze względu na zakres działania tej instytucji kultury. 5. Jeżeli w instytucji kultury nie działają zakładowe organizacje związkowe, w miejsce osób, o których mowa w ust. 4 pkt 3, organizator powołuje do komisji konkursowej dwóch przedstawicieli załogi tej instytucji. 6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację i tryb przeprowadzania konkursu, sposób powoływania członków komisji konkursowej oraz zadania tej komisji, uwzględniając w szczególności procedury zapewniające ocenę kwalifikacji kandydatów.”.
 
 **Art. 2.** Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie postępowania konkursowe na dyrektorów w samorządowych instytucjach kultury oraz postępowania w sprawie ich odwołania przeprowadza się na dotychczasowych zasadach.
 

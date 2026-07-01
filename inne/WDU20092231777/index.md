@@ -32,17 +32,13 @@ source: pdf
 - **1)** w art. 9 po ust. 4 dodaje się ust. 5 w brzmieniu: „5. Przepisu ust. 4 nie stosuje się wobec funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Więziennej oraz Centralnego Biura Antykorupcyjnego.”;
 - **2)** uchyla się art. 49.
 
-**Art. 2.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm. ) w art. 83 § 1 i 2 otrzymują brzmienie: „§ 1. Minister właściwy do spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka.
-
-§ 2. Policyjne izby dziecka tworzą i znoszą komendanci wojewódzcy oraz Komendant Stołeczny Policji w porozumieniu z Komendantem Głównym Policji.”.
+**Art. 2.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2002 r. Nr 11, poz. 109, z późn. zm. ) w art. 83 § 1 i 2 otrzymują brzmienie: „§ 1. Minister właściwy do spraw wewnętrznych sprawuje zwierzchni nadzór nad policyjnymi izbami dziecka. § 2. Policyjne izby dziecka tworzą i znoszą komendanci wojewódzcy oraz Komendant Stołeczny Policji w porozumieniu z Komendantem Głównym Policji.”.
 
 **Art. 3.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 11:
+- **1)** w art. 11: 6. Prokurator Generalny, przed rozpatrzeniem kandydatury, zawiadamia kandydata na stanowisko prokuratorskie o treści informacji uzyskanej od komendanta wojewódzkiego (Stołecznego) Policji.”;
     - **a)** ust. 3 otrzymuje brzmienie: „3. Prokurator Generalny zasięga od właściwego komendanta wojewódzkiego (Stołecznego) Policji informacji o kandydatach do objęcia stanowiska prokuratorskiego zgłoszonych przez Krajową Radę Prokuratury, z zastrzeżeniem ust. 4. Informacje o kandydacie do objęcia stanowiska prokuratorskiego uzyskuje się i sporządza na zasadach określonych dla informacji o kandydacie do objęcia stanowiska sędziowskiego.”,
     - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Przedstawiając informację, o której mowa w ust. 3, komendant wojewódzki (Stołeczny) Policji przekazuje Prokuratorowi Generalnemu wszystkie zebrane materiały służące do sporządzenia informacji.
-
-6. Prokurator Generalny, przed rozpatrzeniem kandydatury, zawiadamia kandydata na stanowisko prokuratorskie o treści informacji uzyskanej od komendanta wojewódzkiego (Stołecznego) Policji.”;
 
 - **2)** w art. 98 ust. 2 otrzymuje brzmienie: „2. Prokurator Generalny zasięga od właściwego komendanta wojewódzkiego (Stołecznego) Policji informacji o każdym z kandydatów do objęcia stanowiska asesora prokuratury. Informacje o kandydacie do objęcia tego stanowiska uzyskuje się i sporządza na podstawie danych zawartych w policyjnych systemach informatycznych.”;
 - **3)** w art. 100a uchyla się ust. 7;
@@ -50,18 +46,13 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 6 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W miastach będących siedzibą władz miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, można utworzyć komendę miejską Policji wykonującą zadania na obszarze tego miasta i powiatu.
-
-3b. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi komendy miejskie Policji, o których mowa w ust. 3a, uwzględniając uwarunkowania administracyjno-geograficzne i demograficzne miasta i powiatu.”;
-
+- **1)** w art. 6 po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. W miastach będących siedzibą władz miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, można utworzyć komendę miejską Policji wykonującą zadania na obszarze tego miasta i powiatu. 3b. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi komendy miejskie Policji, o których mowa w ust. 3a, uwzględniając uwarunkowania administracyjno-geograficzne i demograficzne miasta i powiatu.”;
 - **2)** w art. 6b ust. 4 otrzymuje brzmienie: „4. Na stanowisko komendanta wojewódzkiego i Komendanta Stołecznego Policji oraz zastępców komendanta wojewódzkiego i Komendanta Stołecznego Policji powołuje się oficerów Policji, z wyjątkiem stanowisk zastępców do spraw służb wspomagających działalność Policji w zakresie organizacyjnym, logistycznym i technicznym, na które można powołać także osoby niebędące policjantami.”;
 - **3)** w art. 15:
     - **a)** w ust. 1 uchyla się pkt 8,
     - **b)** uchyla się ust. 8a i 8b;
 
-- **4)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. W razie ogłoszenia mobilizacji i w czasie wojny Policja może być objęta militaryzacją, o której mowa w art. 174 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm. ).
-
-2. Policjanci pozostający w stosunku służbowym w chwili ogłoszenia mobilizacji lub wybuchu wojny, stają się z mocy prawa policjantami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia.”.
+- **4)** po art. 31 dodaje się art. 31a w brzmieniu: „Art. 31a. 1. W razie ogłoszenia mobilizacji i w czasie wojny Policja może być objęta militaryzacją, o której mowa w art. 174 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm. ). 2. Policjanci pozostający w stosunku służbowym w chwili ogłoszenia mobilizacji lub wybuchu wojny, stają się z mocy prawa policjantami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia.”.
 
 **Art. 5.** W ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz. U. z 2005 r. Nr 127, poz. 1066, z późn. zm. ) w art. 38 w ust. 1 uchyla się pkt 5.
 
@@ -73,10 +64,7 @@ source: pdf
 
 **Art. 7.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm. ) w art. 4:
 
-- **1)** ust. 5 i 6 otrzymują brzmienie: „5. Prezes lub prokurator kierujący jednostką organizacyjną prokuratury przed przyjęciem osoby na staż urzędniczy zasięga informacji z Krajowego Rejestru Karnego o tej osobie.
-
-6. W uzasadnionych przypadkach prezes lub prokurator zasięga informacji z Krajowego Rejestru Karnego o osobie zatrudnionej w sądzie lub prokuraturze.”;
-
+- **1)** ust. 5 i 6 otrzymują brzmienie: „5. Prezes lub prokurator kierujący jednostką organizacyjną prokuratury przed przyjęciem osoby na staż urzędniczy zasięga informacji z Krajowego Rejestru Karnego o tej osobie. 6. W uzasadnionych przypadkach prezes lub prokurator zasięga informacji z Krajowego Rejestru Karnego o osobie zatrudnionej w sądzie lub prokuraturze.”;
 - **2)** uchyla się ust. 7.
 
 **Art. 8.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:
@@ -88,14 +76,9 @@ source: pdf
 - **2)** w art. 58:
     - **a)** § 4 otrzymuje brzmienie:
 
-§ 4. Minister Sprawiedliwości zasięga od właściwego komendanta wojewódzkiego (Stołecznego) Policji informacji o każdym z kandydatów do objęcia stanowiska sędziowskiego, z zastrzeżeniem § 4a, a następnie przedstawia kandydatury Krajowej Radzie Sądownictwa, wyrażając o każdym z kandydatów opinię wraz z uzasadnieniem oraz przekazując informację uzyskaną od komendanta wojewódzkiego (Stołecznego) Policji. Informacje o kandydacie do objęcia stanowiska sędziowskiego uzyskuje się i sporządza w oparciu o dane zawarte w policyjnych systemach informatycznych.”,
+§ 4. Minister Sprawiedliwości zasięga od właściwego komendanta wojewódzkiego (Stołecznego) Policji informacji o każdym z kandydatów do objęcia stanowiska sędziowskiego, z zastrzeżeniem § 4a, a następnie przedstawia kandydatury Krajowej Radzie Sądownictwa, wyrażając o każdym z kandydatów opinię wraz z uzasadnieniem oraz przekazując informację uzyskaną od komendanta wojewódzkiego (Stołecznego) Policji. Informacje o kandydacie do objęcia stanowiska sędziowskiego uzyskuje się i sporządza w oparciu o dane zawarte w policyjnych systemach informatycznych.”, § 6. O treści informacji uzyskanej o kandydacie od komendanta wojewódzkiego (Stołecznego) Policji Minister Sprawiedliwości zawiadamia kandydata najpóźniej z przedstawieniem kandydatury Krajowej Radzie Sądownictwa. § 7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób i tryb sporządzania informacji przez komendanta wojewódzkiego (Stołecznego) Policji o kandydacie do objęcia stanowiska sędziowskiego, mając na względzie sprawność uzyskiwania informacji, dbałość o ochronę dóbr osobistych kandydatów oraz innych praw i wolności chronionych konstytucyjnie.”;
 
 - **b)** § 5-7 otrzymują brzmienie: „§ 5. Przedstawiając informację, o której mowa w § 4, komendant wojewódzki (Stołeczny) Policji przekazuje Ministrowi Sprawiedliwości wszystkie zebrane materiały, służące do sporządzenia informacji.
-
-§ 6. O treści informacji uzyskanej o kandydacie od komendanta wojewódzkiego (Stołecznego) Policji Minister Sprawiedliwości zawiadamia kandydata najpóźniej z przedstawieniem kandydatury Krajowej Radzie Sądownictwa.
-
-§ 7. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób i tryb sporządzania informacji przez komendanta wojewódzkiego (Stołecznego) Policji o kandydacie do objęcia stanowiska sędziowskiego, mając na względzie sprawność uzyskiwania informacji, dbałość o ochronę dóbr osobistych kandydatów oraz innych praw i wolności chronionych konstytucyjnie.”;
-
 - **3)** w art. 150 § 3 otrzymuje brzmienie: „§ 3. Referendarza mianuje i rozwiązuje z nim stosunek pracy Minister Sprawiedliwości na wniosek prezesa sądu okręgowego. Prezes sądu okręgowego, przed wystąpieniem z wnioskiem o mianowanie referendarza sądowego, zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do właściwego komendanta wojewódzkiego (Stołecznego) Policji o nadesłanie informacji o kandydacie. Informacje o kandydacie do objęcia stanowiska referendarza sądowego uzyskuje się i sporządza na zasadach określonych dla informacji o kandydacie do objęcia stanowiska sędziowskiego.”;
 - **4)** w art. 155:
     - **a)** § 3 otrzymuje brzmienie: „§ 3. Prezes sądu przed zatrudnieniem asystenta sędziego zasięga informacji o kandydacie z Krajowego Rejestru Karnego.”,

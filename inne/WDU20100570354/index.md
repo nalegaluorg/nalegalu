@@ -30,27 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm. ) w art. 39:
 
 - **1)** w ust. 2 pkt 4 otrzymuje brzmienie: „4) wydziały, referaty, zespoły – jako komórki organizacyjne wewnątrz komórek wymienionych w pkt 1 i 2.”;
-- **2)** ust. 3 otrzymuje brzmienie: „3. W każdym ministerstwie mogą być tworzone w szczególności:
-- **1)** gabinet polityczny ministra;
-- **2)** komórki organizacyjne, o których mowa w ust. 2 pkt 1, 2 i 4, lub stanowiska samodzielne, do spraw:
-    - **a)** prawnych,
-    - **b)** informacji,
-    - **c)** budżetu,
-    - **d)** finansów,
-    - **e)** kadr,
-    - **f)** szkolenia,
-    - **g)** organizacji,
-    - **h)** integracji europejskiej,
-    - **i)** współpracy z zagranicą,
-    - **j)** informatyki,
-    - **k)** zamówień publicznych,
-    - **l)** administracyjno-gospodarczych,
-    - **m)** kontroli,
-    - **n)** skarg,
-    - **o)** wniosków,
-    - **p)** ochrony informacji niejawnych,
-    - **q)** audytu wewnętrznego.”;
-
+- **2)** ust. 3 otrzymuje brzmienie: „3. W każdym ministerstwie mogą być tworzone w szczególności: 1) gabinet polityczny ministra; 2) komórki organizacyjne, o których mowa w ust. 2 pkt 1, 2 i 4, lub stanowiska samodzielne, do spraw: a) prawnych, b) informacji, c) budżetu, d) finansów, e) kadr, f) szkolenia, g) organizacji, h) integracji europejskiej, i) współpracy z zagranicą, j) informatyki, k) zamówień publicznych, l) administracyjno-gospodarczych, m) kontroli, n) skarg, o) wniosków, p) ochrony informacji niejawnych, q) audytu wewnętrznego.”;
 - **3)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Komórki organizacyjne, o których mowa w ust. 2 pkt 1, 2 i 4, lub stanowiska samodzielne do spraw wymienionych w ust. 3 pkt 2, mogą być łączone.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

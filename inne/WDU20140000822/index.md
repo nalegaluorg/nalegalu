@@ -29,11 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2012 r. poz. 1356 oraz z 2013 r. poz. 1563) wprowadza się następujące zmiany:
 
-- **1)** w art. 9:
+- **1)** w art. 9: a) o zawartości do 4,5% alkoholu oraz piwa, b) o zawartości powyżej 4,5% do 18% alkoholu, z wyjątkiem piwa.”,
     - **a)** ust. 3a otrzymuje brzmienie: „3a. Zezwolenia, o których mowa w ust. 1 i 2, wydaje się na podstawie wniosku przedsiębiorcy.”,
     - **b)** w ust. 3b w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) oświadczenie o wartości sprzedaży napojów alkoholowych w ostatnim roku kalendarzowym:
-    - **a)** o zawartości do 4,5% alkoholu oraz piwa,
-    - **b)** o zawartości powyżej 4,5% do 18% alkoholu, z wyjątkiem piwa.”,
     - **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, rodzaje dokumentów wymaganych przy składaniu wniosków o wydanie zezwoleń na obrót hurtowy napojami alkoholowymi oraz wzory tych wniosków, mając na względzie zapewnienie sprawnego i prawidłowego przebiegu procedur przy składaniu wniosków.”;
 
 - **2)** w art. 9 po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw gospodarki określi wzór wniosku, o którym mowa w ust. 4, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183).”;

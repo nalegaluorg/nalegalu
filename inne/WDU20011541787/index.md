@@ -50,25 +50,15 @@ source: pdf
     - **c)** w § 4 wyrazy „z dniem 1 stycznia 2003 r.” zastępuje się wyrazami „z dniem 1 stycznia 2004 r.”;
 
 - **9)** art. 209 otrzymuje brzmienie: „Art. 209. W zakresie planowania, uchwalania i wykonywania budżetu sądownictwa na 2002 r. stosuje się przepisy dotychczasowe.”;
-- **10)** w art. 212 pkt 1 i 2 otrzymują brzmienie: „1) art. 91 § 2a, art. 151 § 1, art. 178, art. 193 i art. 195 pkt 2, które wchodzą w życie z dniem 1 stycznia 2002 r.,
-- **2)** art. 13 § 2 pkt 4, art. 91 § 2, 3 i 4, art. 176, art. 177 i art. 179 § 1-4, które wchodzą w życie z dniem 1 stycznia 2003 r.”.
+- **10)** w art. 212 pkt 1 i 2 otrzymują brzmienie: „1) art. 91 § 2a, art. 151 § 1, art. 178, art. 193 i art. 195 pkt 2, które wchodzą w życie z dniem 1 stycznia 2002 r., 2)art. 13 § 2 pkt 4, art. 91 § 2, 3 i 4, art. 176, art. 177 i art. 179 § 1-4, które wchodzą w życie z dniem 1 stycznia 2003 r.”.
 
 **Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz.U. z 1994 r. Nr 19, poz. 70 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163, z 1996 r. Nr 77, poz. 367, z 1997 r. Nr 90, poz. 557, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 752 i 753, Nr 124, poz. 782 i Nr 141, poz. 944, z 1998 r. Nr 98, poz. 607, Nr 155, poz. 1016 i Nr 162, poz. 1123 i 1125, z 1999 r. Nr 60, poz. 636, Nr 75, poz. 853 i Nr 110, poz. 1255, z 2000 r. Nr 48, poz. 553 oraz z 2001 r. Nr 98, poz. 1070 i Nr 110, poz. 1189) w art. 56 w ust. 3 w zdaniu pierwszym kropkę zastępuje się przecinkiem i dodaje się wyrazy „ustalonych na zasadach obowiązujących przy ustalaniu wysokości należności przysługujących pracownikom z tytułu podróży służbowej na obszarze kraju.”.
 
 **Art. 3.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz.U. Nr 98, poz. 1071) wprowadza się następujące zmiany:
 
-- **1)** art. 106 otrzymuje brzmienie: „Art. 106. 1. Do dnia 31 grudnia 2002 r. kuratorzy zawodowi otrzymują wynagrodzenie zasadnicze oraz dodatki funkcyjne ustalone na podstawie przepisów dotychczasowych.
-
-2. Do dnia 31 grudnia 2002 r. kurator zawodowy, za sprawowane dozory lub nadzory otrzymuje ryczałt, na zasadach określonych w art. 90. Bez względu na liczbę sprawowanych dozorów lub nadzorów ryczałt nie może w jednym miesiącu przekraczać 10krotnej wysokości ryczałtu za sprawowanie jednego dozoru lub nadzoru.
-
-3. Do dnia 31 grudnia 2002 r. funkcje biura kuratora okręgowego wykonują pracownicy sądu okręgowego wyznaczeni przez prezesa tego sądu.
-
-4. Rada Ministrów, określi mnożniki wynagrodzenia zasadniczego kuratorów na podstawie art. 14 ust. 7, przysługującego od dnia 1 stycznia 2003 r., w takiej wysokości, aby przeciętne wynagrodzenie zasadnicze kuratorów zawodowych nie było niższe od 1,8 kwoty bazowej, o której mowa w art. 14 ust. 1.”;
-
+- **1)** art. 106 otrzymuje brzmienie: „Art. 106. 1. Do dnia 31 grudnia 2002 r. kuratorzy zawodowi otrzymują wynagrodzenie zasadnicze oraz dodatki funkcyjne ustalone na podstawie przepisów dotychczasowych. 2. Do dnia 31 grudnia 2002 r. kurator zawodowy, za sprawowane dozory lub nadzory otrzymuje ryczałt, na zasadach określonych w art. 90. Bez względu na liczbę sprawowanych dozorów lub nadzorów ryczałt nie może w jednym miesiącu przekraczać 10krotnej wysokości ryczałtu za sprawowanie jednego dozoru lub nadzoru. 3. Do dnia 31 grudnia 2002 r. funkcje biura kuratora okręgowego wykonują pracownicy sądu okręgowego wyznaczeni przez prezesa tego sądu. 4. Rada Ministrów, określi mnożniki wynagrodzenia zasadniczego kuratorów na podstawie art. 14 ust. 7, przysługującego od dnia 1 stycznia 2003 r., w takiej wysokości, aby przeciętne wynagrodzenie zasadnicze kuratorów zawodowych nie było niższe od 1,8 kwoty bazowej, o której mowa w art. 14 ust. 1.”;
 - **2)** po art. 106 dodaje się art. 106a w brzmieniu: „Art. 106a. Do dnia 31 grudnia 2002 r. obsługę biurową zespołu mogą pełnić wyznaczeni przez prezesa sądu rejonowego pracownicy zatrudnieni w wydziałach tego sądu. W takim przypadku nie tworzy się sekretariatu zespołu.”;
-- **3)** art. 107 otrzymuje brzmienie: „Art. 107. Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem:
-- **1)** art. 14 ust. 7, który wchodzi w życie z dniem 1 października 2002 r.,
-- **2)** art. 14 ust. 1-3 i 5 oraz art. 38, które wchodzą w życie z dniem 1 stycznia 2003 r.”.
+- **3)** art. 107 otrzymuje brzmienie: „Art. 107. Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem: 1) art. 14 ust. 7, który wchodzi w życie z dniem 1 października 2002 r., 2) art. 14 ust. 1-3 i 5 oraz art. 38, które wchodzą w życie z dniem 1 stycznia 2003 r.”.
 
 **Art. 4.** Od dnia 1 stycznia 2002 r. do dnia 31 grudnia 2002 r. art. 96 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych oraz art. 58 ustawy z dnia 20 czerwca 1985 r. o prokuraturze nie stosuje się.
 

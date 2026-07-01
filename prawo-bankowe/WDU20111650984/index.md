@@ -34,13 +34,7 @@ o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
     - **a)** w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) w przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niż waluta polska, szczegółowe zasady określania sposobów i terminów ustalania kursu wymiany walut, na podstawie którego w szczególności wyliczana jest kwota kredytu, jego transz i rat kapitałowo-odsetkowych oraz zasad przeliczania na walutę wypłaty albo spłaty kredytu,”,
     - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. W przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niż waluta polska, kredytobiorca może dokonywać spłaty rat kapitałowo-odsetkowych oraz dokonać przedterminowej spłaty pełnej lub częściowej kwoty kredytu bezpośrednio w tej walucie. W tym przypadku w umowie o kredyt określa się także zasady otwarcia i prowadzenia rachunku służącego do gromadzenia środków przeznaczonych na spłatę kredytu oraz zasady dokonywania spłaty za pośrednictwem tego rachunku.”;
 
-- **2)** po art. 75a dodaje się art. 75b w brzmieniu: „Art. 75b. 1. Wykonanie uprawnienia, o którym mowa w art. 69 ust. 3, nie może wiązać się z poniesieniem przez kredytobiorcę dodatkowych kosztów.
-
-2. Bank nie może uzależnić wykonania przez kredytobiorcę uprawnienia, o którym mowa w art. 69 ust. 3, od wprowadzenia dodatkowych ograniczeń, w szczególności nie może zobowiązać kredytobiorcy do nabywania waluty przeznaczonej na spłatę rat kredytu, jego całości lub części, od określonego podmiotu.
-
-3. Otwarcie i prowadzenie rachunku, o którym mowa w art. 69 ust. 3, jest wolne od opłat w przypadku, gdy kredytobiorcą jest konsument w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-4. Przepisy ust. 1–3, art. 69 ust. 2 pkt 4a oraz ust. 3 stosuje się odpowiednio do umów pożyczek pieniężnych.”.
+- **2)** po art. 75a dodaje się art. 75b w brzmieniu: „Art. 75b. 1. Wykonanie uprawnienia, o którym mowa w art. 69 ust. 3, nie może wiązać się z poniesieniem przez kredytobiorcę dodatkowych kosztów. 2. Bank nie może uzależnić wykonania przez kredytobiorcę uprawnienia, o którym mowa w art. 69 ust. 3, od wprowadzenia dodatkowych ograniczeń, w szczególności nie może zobowiązać kredytobiorcy do nabywania waluty przeznaczonej na spłatę rat kredytu, jego całości lub części, od określonego podmiotu. 3. Otwarcie i prowadzenie rachunku, o którym mowa w art. 69 ust. 3, jest wolne od opłat w przypadku, gdy kredytobiorcą jest konsument w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny. 4. Przepisy ust. 1–3, art. 69 ust. 2 pkt 4a oraz ust. 3 stosuje się odpowiednio do umów pożyczek pieniężnych.”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. Nr 100, poz. 1081 z późn. zm. ) dodaje się art. 7b w brzmieniu: „Art. 7b. 1. W przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niż waluta polska, konsument może dokonywać spłaty rat kapitałowo-odsetkowych bezpośrednio w tej walucie. 2. Przepisy ust. 1 stosuje się odpowiednio do spłaty całości lub części kredytu przed terminem określonym w umowie. 3. Wykonanie uprawnienia, o którym mowa w ust. 1 i 2, nie może wiązać się z poniesieniem dodatkowych kosztów przez konsumenta. 4. Kredytodawca nie może uzależnić wykonania przez konsumenta uprawnienia, o którym mowa w ust. 1 i 2, od wprowadzenia dodatkowych ograniczeń, w szczególności nie może zobowiązać kredytobiorcy do nabywania waluty przeznaczonej na spłatę rat kredytu, jego całości lub części, od określonego podmiotu.”.
 
@@ -48,13 +42,7 @@ o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw
 
 - **715)** wprowadza się następujące zmiany:
 - **1)** w art. 4 w ust. 2 pkt 1 otrzymuje brzmienie: „1) umów o kredyt zabezpieczony hipoteką oraz pożyczki zabezpieczonej hipoteką stosuje się art. 22, art. 23, art. 29, art. 35, art. 35a i art. 46;”;
-- **2)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. W przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niż waluta polska, konsument może dokonywać spłaty rat kapitałowo-odsetkowych bezpośrednio w tej walucie.
-
-2. Przepisy ust. 1 stosuje się odpowiednio do spłaty całości lub części kredytu przed terminem określonym w umowie.
-
-3. Wykonanie uprawnienia, o którym mowa w ust. 1 i 2, nie może wiązać się z poniesieniem dodatkowych kosztów przez konsumenta.
-
-4. Kredytodawca nie może uzależnić wykonania przez konsumenta uprawnienia, o którym mowa w ust. 1 i 2, od wprowadzenia dodatkowych ograniczeń, w szczególności nie może zobowiązać kredytobiorcy do nabywania waluty przeznaczonej na spłatę rat kredytu, jego całości lub części, od określonego podmiotu.”.
+- **2)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. W przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niż waluta polska, konsument może dokonywać spłaty rat kapitałowo-odsetkowych bezpośrednio w tej walucie. 2. Przepisy ust. 1 stosuje się odpowiednio do spłaty całości lub części kredytu przed terminem określonym w umowie. 3. Wykonanie uprawnienia, o którym mowa w ust. 1 i 2, nie może wiązać się z poniesieniem dodatkowych kosztów przez konsumenta. 4. Kredytodawca nie może uzależnić wykonania przez konsumenta uprawnienia, o którym mowa w ust. 1 i 2, od wprowadzenia dodatkowych ograniczeń, w szczególności nie może zobowiązać kredytobiorcy do nabywania waluty przeznaczonej na spłatę rat kredytu, jego całości lub części, od określonego podmiotu.”.
 
 **Art. 4.** W przypadku kredytów lub pożyczek pieniężnych zaciągniętych przez kredytobiorcę lub pożyczkobiorcę przed dniem wejścia w życie niniejszej ustawy ma zastosowanie art. 69 ust. 2 pkt 4a oraz art. 75b ustawy, o której mowa w art. 1, w stosunku do tych kredytów lub pożyczek pieniężnych, które nie zostały całkowicie spłacone do tej części kredytu lub pożyczki, która pozostała do spłacenia. W tym zakresie bank dokonuje bezpłatnie stosownej zmiany umowy kredytowej lub umowy pożyczki.
 

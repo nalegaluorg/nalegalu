@@ -29,15 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz.U. z 1997 r. Nr 16, poz. 89, Nr 34, poz. 209, Nr 137, poz. 926 i Nr 139, poz. 932, z 2000 r. Nr 13, poz. 169, Nr 22, poz. 270 i Nr 120, poz. 1268 oraz z 2001 r. Nr 8, poz. 64) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Podatkowi od spadków i darowizn, zwanemu dalej „podatkiem”, podlega nabycie przez osoby fizyczne własności rzeczy znajdujących się na terytorium Rzeczypospolitej Polskiej lub praw majątkowych wykonywanych na terytorium Rzeczypospolitej Polskiej, tytułem:
-- **1)** spadku,
-- **2)** darowizny,
-- **3)** zasiedzenia,
-- **4)** nieodpłatnego zniesienia współwłasności,
-- **5)** zachowku, jeżeli uprawniony nie uzyskał go w postaci uczynionej przez spadkodawcę darowizny lub w postaci powołania do spadku albo w postaci zapisu.
-
-2. Podatkowi podlega również nabycie praw do wkładu oszczędnościowego na podstawie dyspozycji wkładcy na wypadek jego śmierci.”;
-
+- **1)** art. 1 otrzymuje brzmienie: „Art. 1. 1. Podatkowi od spadków i darowizn, zwanemu dalej „podatkiem”, podlega nabycie przez osoby fizyczne własności rzeczy znajdujących się na terytorium Rzeczypospolitej Polskiej lub praw majątkowych wykonywanych na terytorium Rzeczypospolitej Polskiej, tytułem: 1) spadku, 2) darowizny, 3) zasiedzenia, 4) nieodpłatnego zniesienia współwłasności, 5) zachowku, jeżeli uprawniony nie uzyskał go w postaci uczynionej przez spadkodawcę darowizny lub w postaci powołania do spadku albo w postaci zapisu. 2. Podatkowi podlega również nabycie praw do wkładu oszczędnościowego na podstawie dyspozycji wkładcy na wypadek jego śmierci.”;
 - **2)** użyte w art. 2 i w art. 4 w ust. 4 wyrazy „w Polsce” zastępuje się wyrazami „na terytorium Rzeczypospolitej Polskiej”;
 - **3)** w art. 3 pkt 1 otrzymuje brzmienie: „1) nabycie własności rzeczy ruchomych znajdujących się na terytorium Rzeczypospolitej Polskiej lub praw majątkowych podlegających wykonaniu na terytorium Rzeczypospolitej Polskiej, jeżeli w dniu nabycia ani nabywca, ani też spadkodawca lub darczyńca nie byli obywatelami polskimi i nie mieli miejsca stałego pobytu lub siedziby na terytorium Rzeczypospolitej Polskiej,”;
 - **4)** w art. 4 w ust. 1:
@@ -49,26 +41,12 @@ source: pdf
     - **b)** w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu: „7) przy nabyciu w drodze nieodpłatnego zniesienia współwłasności - z chwilą zawarcia umowy albo ugody lub uprawomocnienia się orzeczenia sądu, jeżeli ich skutkiem jest nieodpłatne zniesienie współwłasności.”;
 
 - **6)** w art. 7 po ust. 5 dodaje się ust. 6 w brzmieniu: „6. Przy nabyciu w drodze nieodpłatnego zniesienia współwłasności podstawę opodatkowania stanowi wartość rzeczy lub praw majątkowych, w części przekraczającej wartość udziału we współwłasności, który przed jej zniesieniem przysługiwał nabywcy.”;
-- **7)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Opodatkowaniu podlega nabycie przez nabywcę, od jednej osoby, własności rzeczy i praw majątkowych o czystej wartości przekraczającej:
-- **1)** 9 637 zł - jeżeli nabywcą jest osoba zaliczona do I grupy podatkowej,
-- **2)** 7 276 zł - jeżeli nabywcą jest osoba zaliczona do II grupy podatkowej,
-- **3)** 4 902 zł - jeżeli nabywcą jest osoba zaliczona do III grupy podatkowej.”;
-- **8)** w art. 15:
+- **7)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Opodatkowaniu podlega nabycie przez nabywcę, od jednej osoby, własności rzeczy i praw majątkowych o czystej wartości przekraczającej: 1) 9 637 zł - jeżeli nabywcą jest osoba zaliczona do I grupy podatkowej, 2) 7 276 zł - jeżeli nabywcą jest osoba zaliczona do II grupy podatkowej, 3) 4 902 zł - jeżeli nabywcą jest osoba zaliczona do III grupy podatkowej.”;
+- **8)** w art. 15: 1) od nabywców zaliczonych do I grupy podatkowej 10 278 3% 10 278- 20 556 308 zł 30 gr i 5% nadwyżki ponad 10 278 zł 20 556 822 zł 20 gr i 7% nadwyżki ponad 20 556 zł 2) od nabywców zaliczonych do II grupy podatkowej 10 278 7% 10 278- 20 556 719 zł 50 gr i 9% od nadwyżki ponad 10 278 zł 20 556 1 644 zł 50 gr i 12% od nadwyżki ponad 20 556 zł 3) od nabywców zaliczonych do III grupy podatkowej 10 278 12% 10 278- 20 556 1 233 zł 40 gr i 16% od nadwyżki ponad 10 278 zł 20 556 2 877 zł 90 gr i 20% od nadwyżki ponad 20 556 zł ”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podatek oblicza się od nadwyżki podstawy opodatkowania ponad kwotę wolną od podatku, według następujących skal: Kwoty nadwyżki w zł Podatek wynosi ponad do
-
-- **1)** od nabywców zaliczonych do I grupy podatkowej 10 278 3% 10 278- 20 556 308 zł 30 gr i 5% nadwyżki ponad 10 278 zł 20 556 822 zł 20 gr i 7% nadwyżki ponad 20 556 zł
-- **2)** od nabywców zaliczonych do II grupy podatkowej 10 278 7% 10 278- 20 556 719 zł 50 gr i 9% od nadwyżki ponad 10 278 zł 20 556 1 644 zł 50 gr i 12% od nadwyżki ponad 20 556 zł
-- **3)** od nabywców zaliczonych do III grupy podatkowej 10 278 12% 10 278- 20 556 1 233 zł 40 gr i 16% od nadwyżki ponad 10 278 zł 20 556 2 877 zł 90 gr i 20% od nadwyżki ponad 20 556 zł ”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Przy ustalaniu wysokości podatku przyjmuje się kwoty wartości rzeczy i praw majątkowych określone w art. 4 ust. 1 pkt 5 i w art. 9 ust. 1 oraz skale podatkowe określone w ust. 1 obowiązujące w dniu powstania obowiązku podatkowego.”;
 
-- **9)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Kwoty wartości rzeczy i praw majątkowych zwolnione od podatku, określone w art. 4 ust. 1 pkt 5, oraz niepodlegające opodatkowaniu, określone w art. 9 ust. 1, a także przedziały nadwyżki kwot wartości rzeczy i praw majątkowych podlegających opodatkowaniu, określone w art. 15 ust. 1, podwyższa się w przypadku wzrostu cen towarów nieżywnościowych trwałego użytku o ponad 6%, w stopniu odpowiadającym wzrostowi tych cen.
-
-2. Wzrost cen, o których mowa w ust. 1, oblicza się na podstawie skumulowanego indeksu wskaźników kwartalnych publikowanych w komunikatach Prezesa Głównego Urzędu Statystycznego ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 30 dni po upływie każdego kwartału.
-
-3. Kwoty wartości rzeczy i praw majątkowych zwolnione od podatku, określone w art. 4 ust. 1 pkt 5, oraz niepodlegające opodatkowaniu, określone w art. 9 ust. 1, a także przedziały nadwyżek kwot wartości rzeczy i praw majątkowych podlegających opodatkowaniu, określone w art. 15 ust. 1, zaokrągla się w górę do pełnych złotych, a stawki podatku do pełnych dziesiątek groszy.
-
-4. Minister właściwy do spraw finansów publicznych ustala, w drodze rozporządzenia, kwoty wartości rzeczy i praw majątkowych zwolnione od podatku i niepodlegające opodatkowaniu, o których mowa w art. 9 ust. 1, oraz skale podatkowe, o których mowa w art. 15 ust. 1, z uwzględnieniem zasad określonych w ust. 1-3.”;
-
+- **9)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Kwoty wartości rzeczy i praw majątkowych zwolnione od podatku, określone w art. 4 ust. 1 pkt 5, oraz niepodlegające opodatkowaniu, określone w art. 9 ust. 1, a także przedziały nadwyżki kwot wartości rzeczy i praw majątkowych podlegających opodatkowaniu, określone w art. 15 ust. 1, podwyższa się w przypadku wzrostu cen towarów nieżywnościowych trwałego użytku o ponad 6%, w stopniu odpowiadającym wzrostowi tych cen. 2. Wzrost cen, o których mowa w ust. 1, oblicza się na podstawie skumulowanego indeksu wskaźników kwartalnych publikowanych w komunikatach Prezesa Głównego Urzędu Statystycznego ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie 30 dni po upływie każdego kwartału. 3. Kwoty wartości rzeczy i praw majątkowych zwolnione od podatku, określone w art. 4 ust. 1 pkt 5, oraz niepodlegające opodatkowaniu, określone w art. 9 ust. 1, a także przedziały nadwyżek kwot wartości rzeczy i praw majątkowych podlegających opodatkowaniu, określone w art. 15 ust. 1, zaokrągla się w górę do pełnych złotych, a stawki podatku do pełnych dziesiątek groszy. 4. Minister właściwy do spraw finansów publicznych ustala, w drodze rozporządzenia, kwoty wartości rzeczy i praw majątkowych zwolnione od podatku i niepodlegające opodatkowaniu, o których mowa w art. 9 ust. 1, oraz skale podatkowe, o których mowa w art. 15 ust. 1, z uwzględnieniem zasad określonych w ust. 1-3.”;
 - **10)** w art. 18:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Notariusze są płatnikami podatku od darowizny dokonanej w formie aktu notarialnego albo zawartej w tej formie umowy nieodpłatnego zniesienia współwłasności lub ugody w tym przedmiocie. Płatnicy są obowiązani do wpłacania pobranego podatku na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika.”,
     - **b)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Notariusz jest obowiązany pobrać należny podatek z chwilą sporządzenia aktu notarialnego.”,

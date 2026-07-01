@@ -29,16 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996 i 1000) wprowadza się następujące zmiany:
 
-- **1)** w art. 63 ust. 14 otrzymuje brzmienie: „14. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę powołuje komisję konkursową w składzie:
-- **1)** po trzech przedstawicieli:
-    - **a)** organu prowadzącego szkołę lub placówkę,
-    - **b)** organu sprawującego nadzór pedagogiczny,
-
-- **2)** po dwóch przedstawicieli:
-    - **a)** rady pedagogicznej,
-    - **b)** rady rodziców,
-
-- **3)** po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa – z zastrzeżeniem ust. 15.”;
+- **1)** w art. 63 ust. 14 otrzymuje brzmienie: „14. W celu przeprowadzenia konkursu organ prowadzący szkołę lub placówkę powołuje komisję konkursową w składzie: 1) po trzech przedstawicieli: a) organu prowadzącego szkołę lub placówkę, b) organu sprawującego nadzór pedagogiczny, 2) po dwóch przedstawicieli: a) rady pedagogicznej, b) rady rodziców, 3) po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa – z zastrzeżeniem ust. 15.”;
 - **2)** w art. 73 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Uchwały rady pedagogicznej podejmowane w sprawach związanych z osobami pełniącymi funkcje kierownicze w szkole lub placówce lub w sprawach związanych z opiniowaniem kandydatów na takie stanowiska podejmowane są w głosowaniu tajnym.”.
 
 **Art. 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się art. 63 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996 i 1000) w brzmieniu dotychczasowym.

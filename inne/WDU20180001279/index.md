@@ -33,10 +33,7 @@ source: pdf
     - **a)** w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) orzeł wojsk obrony terytorialnej;”,
     - **b)** w pkt 5 w lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) flaga wojsk obrony terytorialnej.”;
 
-- **2)** po art. 7a dodaje się art. 7b w brzmieniu: „Art. 7b. 1. Orłem wojsk obrony terytorialnej jest orzeł określony w art. 5, z umieszczonym na tarczy amazonek złotym Znakiem Polski Walczącej.
-
-2. Wzór orła wojsk obrony terytorialnej zawiera załącznik nr 3b.”;
-
+- **2)** po art. 7a dodaje się art. 7b w brzmieniu: „Art. 7b. 1. Orłem wojsk obrony terytorialnej jest orzeł określony w art. 5, z umieszczonym na tarczy amazonek złotym Znakiem Polski Walczącej. 2. Wzór orła wojsk obrony terytorialnej zawiera załącznik nr 3b.”;
 - **3)** w art. 25 ust. 3 otrzymuje brzmienie: „3. Wzory flag rodzajów sił zbrojnych zawierają załączniki nr 12–16.”;
 - **4)** po załączniku nr 3a dodaje się załącznik nr 3b w brzmieniu określonym w załączniku nr 1 do niniejszej ustawy;
 - **5)** dodaje się załącznik nr 16 w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy.

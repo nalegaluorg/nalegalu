@@ -30,23 +30,8 @@ source: pdf
 - **205)** wprowadza się następujące zmiany:
 - **1)** w art. 58 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu: "2. Krajowe Biuro Wyborcze zapewnia obsługę Państwowej Komisji Wyborczej.";
 - **2)** w art. 64 dodaje się ust. 3 w brzmieniu: "3. Krajowe Biuro Wyborcze zapewnia obsługę okręgowej komisji wyborczej.";
-- **3)** art. 71 otrzymuje brzmienie: "Art. 71. 1.Krajowe Biuro Wyborcze zapewnia organizacyjno-techniczne warunki wykonywania zadań związanych z przygotowaniem i przeprowadzeniem wyborów.
-
-2. Jednostkami organizacyjnymi Krajowego Biura Wyborczego są:
-
-- **1)** zespoły,
-- **2)** delegatury wojewódzkie, zwane dalej "wojewódzkimi biurami wyborczymi".
-
-3. Organizację wewnętrzną Krajowego Biura Wyborczego określa statut nadawany przez Marszałka Sejmu na wniosek Państwowej Komisji Wyborczej. Statut Krajowego Biura Wyborczego podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski".
-
-4. Kierownik Krajowego Biura Wyborczego na podstawie statutu określa, w drodze zarządzenia, szczegółową organizację wewnętrzną jednostek organizacyjnych Krajowego Biura Wyborczego oraz ich właściwość.";
-
-- **4)** art. 72 otrzymuje brzmienie: "Art. 72. 1. Krajowe Biuro Wyborcze realizuje zadania wynikające z niniejszej ustawy oraz innych ustaw.
-
-2. Krajowe Biuro Wyborcze współdziała z właściwymi ministrami, kierownikami urzędów centralnych, wojewodami oraz jednostkami samorządu terytorialnego w celu realizacji zadań wyborczych.
-
-3. Zasady współdziałania terenowych organów administracji rządowej z Krajowym Biurem Wyborczym w zakresie, o którym mowa w ust. 2, określa, w drodze rozporządzenia, minister właściwy do spraw administracji w uzgodnieniu z Kierownikiem Krajowego Biura Wyborczego.";
-
+- **3)** art. 71 otrzymuje brzmienie: "Art. 71. 1.Krajowe Biuro Wyborcze zapewnia organizacyjno-techniczne warunki wykonywania zadań związanych z przygotowaniem i przeprowadzeniem wyborów. 2. Jednostkami organizacyjnymi Krajowego Biura Wyborczego są: 1) zespoły, 2) delegatury wojewódzkie, zwane dalej "wojewódzkimi biurami wyborczymi". 3. Organizację wewnętrzną Krajowego Biura Wyborczego określa statut nadawany przez Marszałka Sejmu na wniosek Państwowej Komisji Wyborczej. Statut Krajowego Biura Wyborczego podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski". 4. Kierownik Krajowego Biura Wyborczego na podstawie statutu określa, w drodze zarządzenia, szczegółową organizację wewnętrzną jednostek organizacyjnych Krajowego Biura Wyborczego oraz ich właściwość.";
+- **4)** art. 72 otrzymuje brzmienie: "Art. 72. 1. Krajowe Biuro Wyborcze realizuje zadania wynikające z niniejszej ustawy oraz innych ustaw. 2. Krajowe Biuro Wyborcze współdziała z właściwymi ministrami, kierownikami urzędów centralnych, wojewodami oraz jednostkami samorządu terytorialnego w celu realizacji zadań wyborczych. 3. Zasady współdziałania terenowych organów administracji rządowej z Krajowym Biurem Wyborczym w zakresie, o którym mowa w ust. 2, określa, w drodze rozporządzenia, minister właściwy do spraw administracji w uzgodnieniu z Kierownikiem Krajowego Biura Wyborczego.";
 - **5)** w art. 73:
     - **a)** w ust. 4 wyrazy "ust. 5 i 6" zastępuje się wyrazami "ust. 5-7",
     - **b)** dodaje się ust. 7 w brzmieniu: "7. Kierownik i pracownicy Krajowego Biura Wyborczego nie mogą należeć do partii politycznych ani prowadzić działalności politycznej.";

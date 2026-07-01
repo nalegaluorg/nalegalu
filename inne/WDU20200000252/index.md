@@ -27,12 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/252/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
-
-- **1)** 1200,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
-- **2)** 900,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
-
-2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1200,00 zł miesięcznie.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 1200,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 900,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1200,00 zł miesięcznie.”.
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2020 r. poz. 203) w art. 11 ust. 1 otrzymuje brzmienie: „1. Podstawę wymiaru renty inwalidzkiej stanowi kwota 2745,83 zł.”.
 
@@ -40,16 +35,12 @@ source: pdf
 
 - **1)** w art. 3 ust. 1 otrzymuje brzmienie: „1. Kwota świadczenia przedemerytalnego wynosi 1210,99 zł miesięcznie, z wyjątkiem świadczeń dla osób, o których mowa w art. 2 ust. 1 pkt 4, których świadczenie nie może być wyższe niż ostatnio otrzymywana renta.”;
 - **2)** w art. 5 ust. 4 otrzymuje brzmienie: „4. W przypadku gdy w wyniku zmniejszenia, o którym mowa w ust. 3, kwota świadczenia przedemerytalnego byłaby niższa niż 605,50 zł, świadczenie przedemerytalne wynosi 605,50 zł, z zastrzeżeniem ust. 5. Do kwoty świadczenia przedemerytalnego w wysokości 605,50 zł art. 3 ust. 2 stosuje się odpowiednio.”;
-- **3)** w art. 12 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Koszty obsługi, o których mowa w ust. 1, wynoszą 1,2% kwoty przeznaczonej na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych.
-
-3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych.”.
+- **3)** w art. 12 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Koszty obsługi, o których mowa w ust. 1, wynoszą 1,2% kwoty przeznaczonej na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych. 3. Podstawą przekazania środków na wypłatę świadczeń przedemerytalnych i zasiłków pogrzebowych oraz kosztów ich obsługi jest umowa zawarta między ministrem właściwym do spraw pracy a Prezesem Zakładu Ubezpieczeń Społecznych.”.
 
 **Art. 4.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. poz. 1622 i 2473) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Świadczenie uzupełniające przysługuje osobom uprawnionym, które nie posiadają prawa do świadczeń pieniężnych finansowanych ze środków publicznych albo suma tych świadczeń o charakterze innym niż jednorazowe, wraz z kwotą wypłacaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, z wyłączeniem renty rodzinnej przyznanej w okolicznościach, o których mowa w art. 68 ust. 1 pkt 3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53 i 252), zasiłku pielęgnacyjnego oraz innych dodatków i świadczeń wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów przed dokonaniem odliczeń, potrąceń i zmniejszeń, nie przekracza kwoty 1700 zł miesięcznie.”;
-- **2)** w art. 4 ust. 1 i 2 otrzymują brzmienie: „1. Świadczenie uzupełniające przysługuje osobie uprawnionej w wysokości nie wyższej niż 500 zł miesięcznie, przy czym łączna kwota świadczenia uzupełniającego i świadczeń, o których mowa w art. 2 ust. 2, nie może przekroczyć 1700 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.
-
-2. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 2 ust. 2, świadczenie uzupełniające podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 2 ust. 2, wraz ze świadczeniem uzupełniającym, nie przekroczyła kwoty 1700 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.”.
+- **2)** w art. 4 ust. 1 i 2 otrzymują brzmienie: „1. Świadczenie uzupełniające przysługuje osobie uprawnionej w wysokości nie wyższej niż 500 zł miesięcznie, przy czym łączna kwota świadczenia uzupełniającego i świadczeń, o których mowa w art. 2 ust. 2, nie może przekroczyć 1700 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2. 2. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 2 ust. 2, świadczenie uzupełniające podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 2 ust. 2, wraz ze świadczeniem uzupełniającym, nie przekroczyła kwoty 1700 zł miesięcznie, z zastrzeżeniem wyłączeń, o których mowa w art. 2 ust. 2.”.
 
 **Art. 5.**
 

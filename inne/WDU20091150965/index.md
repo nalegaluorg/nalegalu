@@ -29,17 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 35 ust. 1 i 2 otrzymują brzmienie: „1. Koncesja może być udzielona osobie fizycznej, posiadającej obywatelstwo polskie i stałe miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, osobie prawnej lub osobowej spółce handlowej, które mają siedzibę na terytorium Rzeczypospolitej Polskiej.
-
-2. Koncesja dla spółki z udziałem osób zagranicznych może być udzielona, jeżeli:
-
-- **1)** udział kapitałowy osób zagranicznych w spółce lub udział osób zagranicznych w kapitale zakładowym spółki nie przekracza 49%,
-- **2)** umowa lub statut spółki przewidują, że:
-    - **a)** osobami uprawnionymi do reprezentowania lub prowadzenia spraw spółki albo członkami zarządu spółki będą w większości osoby posiadające obywatelstwo polskie i stałe miejsce zamieszkania w Polsce,
-    - **b)** w zgromadzeniu wspólników lub w walnym zgromadzeniu udział głosów osób zagranicznych i spółek zależnych, w rozumieniu Kodeksu spółek handlowych, od osób zagranicznych nie może przekroczyć 49%,
-    - **c)** osoby zagraniczne nie mogą dysponować bezpośrednio lub pośrednio większością przekraczającą 49% głosów w osobowej spółce handlowej,
-    - **d)** członkami rady nadzorczej spółki będą w większości osoby posiadające obywatelstwo polskie i stałe miejsce zamieszkania w Polsce.”;
-
+- **1)** w art. 35 ust. 1 i 2 otrzymują brzmienie: „1. Koncesja może być udzielona osobie fizycznej, posiadającej obywatelstwo polskie i stałe miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, osobie prawnej lub osobowej spółce handlowej, które mają siedzibę na terytorium Rzeczypospolitej Polskiej. 2. Koncesja dla spółki z udziałem osób zagranicznych może być udzielona, jeżeli: 1) udział kapitałowy osób zagranicznych w spółce lub udział osób zagranicznych w kapitale zakładowym spółki nie przekracza 49%, 2) umowa lub statut spółki przewidują, że: a) osobami uprawnionymi do reprezentowania lub prowadzenia spraw spółki albo członkami zarządu spółki będą w większości osoby posiadające obywatelstwo polskie i stałe miejsce zamieszkania w Polsce, b) w zgromadzeniu wspólników lub w walnym zgromadzeniu udział głosów osób zagranicznych i spółek zależnych, w rozumieniu Kodeksu spółek handlowych, od osób zagranicznych nie może przekroczyć 49%, c) osoby zagraniczne nie mogą dysponować bezpośrednio lub pośrednio większością przekraczającą 49% głosów w osobowej spółce handlowej, d) członkami rady nadzorczej spółki będą w większości osoby posiadające obywatelstwo polskie i stałe miejsce zamieszkania w Polsce.”;
 - **2)** w art. 37 w ust. 1 pkt 1 otrzymuje brzmienie: „1) nadawcę, jego siedzibę albo miejsce zamieszkania;”;
 - **3)** w art. 38a: Odmowa wyrażenia zgody następuje z przyczyn, o których mowa w art. 36 ust. 2.”,
     - **a)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Osoba fizyczna może przenieść uprawnienia wynikające z koncesji, za zgodą Krajowej Rady wyrażoną w formie uchwały, na spółkę, której jest wspólnikiem i która spełnia warunki, o których mowa w art. 35.

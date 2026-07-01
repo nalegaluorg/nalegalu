@@ -43,9 +43,7 @@ source: pdf
     - **b)** ust. 13 otrzymuje brzmienie: „13. Akty stanu cywilnego, które zostały sporządzone lub w których zamieszczono wzmianki lub przy których zamieszczono przypiski na podstawie przepisów dotychczasowych w okresie od dnia 1 marca 2015 r. do dnia 31 sierpnia 2015 r., podlegają przeniesieniu do rejestru stanu cywilnego nie później niż do dnia 31 grudnia 2015 r.”;
 
 - **2)** w art. 146 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych po 2 latach obowiązywania niniejszej ustawy, w terminie do dnia 30 kwietnia 2017 r., przeprowadzi analizę wpływu rozwiązań przyjętych w ustawie na funkcjonowanie urzędów stanu cywilnego.”;
-- **3)** art. 149 otrzymuje brzmienie: „Art. 149. Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem:
-- **1)** art. 47 ust. 1, który wchodzi w życie z dniem 1 stycznia 2015 r.;
-- **2)** art. 53 ust. 2 i 3, art. 54 ust. 4 i 5, art. 114 w zakresie dodawanych w art. 11 ust. 3a–3e i ust. 4c oraz art. 123, które wchodzą w życie z dniem 1 stycznia 2018 r.”.
+- **3)** art. 149 otrzymuje brzmienie: „Art. 149. Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem: 1) art. 47 ust. 1, który wchodzi w życie z dniem 1 stycznia 2015 r.; 2) art. 53 ust. 2 i 3, art. 54 ust. 4 i 5, art. 114 w zakresie dodawanych w art. 11 ust. 3a–3e i ust. 4c oraz art. 123, które wchodzą w życie z dniem 1 stycznia 2018 r.”.
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 31 grudnia 2014 r.
 

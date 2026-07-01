@@ -30,27 +30,19 @@ source: pdf
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519 i 785) wprowadza się następujące zmiany:
 
 - **1)** w art. 400d ust. 1 otrzymuje brzmienie: „1. Rada Nadzorcza Narodowego Funduszu liczy nie więcej niż 12 członków.”;
-- **2)** w art. 400f:
+- **2)** w art. 400f: 2) członkowie rad wyznaczeni przez Zarząd Narodowego Funduszu; 3) członkowie rad wyznaczeni przez wojewodę;”, – uchyla się pkt 4–6, – pkt 7 otrzymuje brzmienie: „7) przewodniczący rad wyznaczeni przez ministra właściwego do spraw środowiska spośród pracowników Biura Narodowego Funduszu, urzędu obsługującego ministra właściwego do spraw środowiska, urzędów obsługujących centralne organy administracji rządowej podległe albo nadzorowane przez ministra właściwego do spraw środowiska lub jednostek podległych albo nadzorowanych przez ministra właściwego do spraw środowiska;”, – dodaje się pkt 8 w brzmieniu: „8) wiceprzewodniczący rad wyznaczeni przez sejmik województwa.”, 8. W razie niewyznaczenia członków rad nadzorczych wojewódzkich funduszy, odpowiednio, przez wojewodę, Zarząd Narodowego Funduszu lub sejmik województwa, w terminie 30 dni od dnia wygaśnięcia mandatu, minister właściwy do spraw środowiska może powołać na ich miejsce swoich przedstawicieli.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Rady nadzorcze wojewódzkich funduszy liczą po 5 członków.”,
     - **b)** w ust. 2: – pkt 1–3 otrzymują brzmienie: „1) członkowie rad wyznaczeni przez wojewodę spośród przedstawicieli nauki lub organizacji pozarządowych;
-
-- **2)** członkowie rad wyznaczeni przez Zarząd Narodowego Funduszu;
-- **3)** członkowie rad wyznaczeni przez wojewodę;”, – uchyla się pkt 4–6, – pkt 7 otrzymuje brzmienie: „7) przewodniczący rad wyznaczeni przez ministra właściwego do spraw środowiska spośród pracowników Biura Narodowego Funduszu, urzędu obsługującego ministra właściwego do spraw środowiska, urzędów obsługujących centralne organy administracji rządowej podległe albo nadzorowane przez ministra właściwego do spraw środowiska lub jednostek podległych albo nadzorowanych przez ministra właściwego do spraw środowiska;”, – dodaje się pkt 8 w brzmieniu: „8) wiceprzewodniczący rad wyznaczeni przez sejmik województwa.”,
     - **c)** uchyla się ust. 3–6,
     - **d)** ust. 7 i 8 otrzymują brzmienie: „7. Członków rad nadzorczych wojewódzkich funduszy powołuje i odwołuje minister właściwy do spraw środowiska.
+    - **e)** uchyla się ust. 9,
+    - **f)** ust. 10 otrzymuje brzmienie: „10. Szczegółowe warunki wynagradzania członków rad nadzorczych wojewódzkich funduszy za udział w pracach rady oraz wysokość wynagrodzenia członków rad nadzorczych wojewódzkich funduszy za udział w pracach rady ustalają wojewodowie.”;
 
-8. W razie niewyznaczenia członków rad nadzorczych wojewódzkich funduszy, odpowiednio, przez wojewodę, Zarząd Narodowego Funduszu lub sejmik województwa, w terminie 30 dni od dnia wygaśnięcia mandatu, minister właściwy do spraw środowiska może powołać na ich miejsce swoich przedstawicieli.”,
-
-- **e)** uchyla się ust. 9,
-- **f)** ust. 10 otrzymuje brzmienie: „10. Szczegółowe warunki wynagradzania członków rad nadzorczych wojewódzkich funduszy za udział w pracach rady oraz wysokość wynagrodzenia członków rad nadzorczych wojewódzkich funduszy za udział w pracach rady ustalają wojewodowie.”;
 - **3)** w art. 400i w ust. 1 wyraz „osób” zastępuje się wyrazem „członków”;
-- **4)** w art. 400j:
+- **4)** w art. 400j: 2. Zarządy wojewódzkich funduszy stanowią prezesi zarządów wojewódzkich funduszy albo prezesi zarządów wojewódzkich funduszy i zastępcy prezesów zarządów wojewódzkich funduszy, powoływani i odwoływani przez zarządy województw, na wniosek rad nadzorczych wojewódzkich funduszy.”,
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Zarządy wojewódzkich funduszy liczą od 1 do 2 członków.
-
-2. Zarządy wojewódzkich funduszy stanowią prezesi zarządów wojewódzkich funduszy albo prezesi zarządów wojewódzkich funduszy i zastępcy prezesów zarządów wojewódzkich funduszy, powoływani i odwoływani przez zarządy województw, na wniosek rad nadzorczych wojewódzkich funduszy.”,
-
-- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli zarząd województwa w terminie 7 dni od dnia doręczenia wniosku, o którym mowa w ust. 2, nie powoła członków zarządu wojewódzkiego funduszu zgodnie z tym wnioskiem, powołania członków zarządu wojewódzkiego funduszu dokonuje rada nadzorcza wojewódzkiego funduszu.”,
-- **c)** w ust. 3 wyrazy „w ust. 2” zastępuje się wyrazami „w ust. 2 i 2a”.
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli zarząd województwa w terminie 7 dni od dnia doręczenia wniosku, o którym mowa w ust. 2, nie powoła członków zarządu wojewódzkiego funduszu zgodnie z tym wnioskiem, powołania członków zarządu wojewódzkiego funduszu dokonuje rada nadzorcza wojewódzkiego funduszu.”,
+    - **c)** w ust. 3 wyrazy „w ust. 2” zastępuje się wyrazami „w ust. 2 i 2a”.
 
 **Art. 2.** Mandaty dotychczasowych członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej wygasają z dniem wejścia w życie niniejszej ustawy.
 

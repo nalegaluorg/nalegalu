@@ -31,16 +31,10 @@ source: pdf
 
 - **1)** w art. 1 w ust. 2 po wyrazach "Minister Spraw Wewnętrznych" dodaje się wyrazy "i Administracji";
 - **2)** w art. 5 ust. 4 otrzymuje brzmienie: "4. Wysokość odpisu podstawowego może być zwiększona o 6,25% przeciętnego wynagrodzenia miesięcznego, o którym mowa w ust. 2, na każdą zatrudnioną osobę, w stosunku do której orzeczono znaczny lub umiarkowany stopień niepełnosprawności.";
-- **3)** w art. 7:
+- **3)** w art. 7: 3b. W razie przejścia części zakładu pracy w trybie art. 23 Kodeksu pracy na pracodawcę zobowiązanego do tworzenia Funduszu, Fundusz pracodawcy przejmującego zwiększa się, w części przypadającej na liczbę przejmowanych pracowników, o równowartość środków pieniężnych Funduszu pracodawcy przekazującego, skorygowanych odpowiednio o należności i zobowiązania Funduszu - według stanu na ostatni dzień miesiąca, w którym następuje przejście. 3c. Zasady podziału środków pieniężnych stanowiących równowartość odpisu podstawowego, obciążającego koszty pracodawcy przekazującego, dotyczącego roku, w którym następuje przejście części zakładu pracy, określa porozumienie między pracodawcami. 3d. Przekazanie środków, o których mowa w ust. 3b i 3c, następuje w terminie 30 dni od daty przejścia części zakładu pracy, chyba że porozumienie, o którym mowa w ust. 3c, stanowi inaczej.".
     - **a)** ust. 2 otrzymuje brzmienie: "2. Zwiększenia, o których mowa w ust. 1 pkt 7 i 8, nie dotyczą pracodawców postawionych w stan upadłości lub likwidacji, z wyłączeniem przedsiębiorstw państwowych likwidowanych w celu prywatyzacji.",
     - **b)** ust. 3 otrzymuje brzmienie: "3. W razie przejścia zakładu pracy w trybie art. 23 Kodeksu pracy na pracodawcę zobowiązanego do tworzenia Funduszu, Fundusz pracodawcy przejmującego przejmuje środki pieniężne, należności i zobowiązania Funduszu pracodawcy przekazującego.",
     - **c)** dodaje się ust. 3a-3d w brzmieniu: "3a. W razie przejścia zakładu pracy w trybie art. 23 Kodeksu pracy na pracodawcę, który nie jest zobowiązany do tworzenia Funduszu, pracodawca przejmujący przejmuje środki pieniężne, należności i zobowiązania Funduszu pracodawcy przekazującego. Nadwyżka przejętych środków pieniężnych wraz z odsetkami oraz przejętych należności wraz z odsetkami nad przejętymi zobowiązaniami wraz z odsetkami nie stanowi przychodu pracodawcy przejmującego, jest gromadzona na odrębnym rachunku bankowym lub wydzielonym subkoncie i podlega wydatkowaniu na zasadach określonych ustawą dla dokonywania wydatków z Funduszu. Art. 8 ust. 2 stosuje się odpowiednio.
-
-3b. W razie przejścia części zakładu pracy w trybie art. 23 Kodeksu pracy na pracodawcę zobowiązanego do tworzenia Funduszu, Fundusz pracodawcy przejmującego zwiększa się, w części przypadającej na liczbę przejmowanych pracowników, o równowartość środków pieniężnych Funduszu pracodawcy przekazującego, skorygowanych odpowiednio o należności i zobowiązania Funduszu - według stanu na ostatni dzień miesiąca, w którym następuje przejście.
-
-3c. Zasady podziału środków pieniężnych stanowiących równowartość odpisu podstawowego, obciążającego koszty pracodawcy przekazującego, dotyczącego roku, w którym następuje przejście części zakładu pracy, określa porozumienie między pracodawcami.
-
-3d. Przekazanie środków, o których mowa w ust. 3b i 3c, następuje w terminie 30 dni od daty przejścia części zakładu pracy, chyba że porozumienie, o którym mowa w ust. 3c, stanowi inaczej.".
 
 **Art. 2.** Ustawa wchodzi w życie w terminie 14 dni od dnia ogłoszenia.
 

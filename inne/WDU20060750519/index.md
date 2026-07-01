@@ -47,9 +47,7 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** art. 78 otrzymuje brzmienie: „Art. 78. Na wniosek ministra właściwego do spraw finansów publicznych kontrolę w zakresie realizacji zadań ubezpieczenia zdrowotnego określonych przepisami ustawy przeprowadza:
-- **1)** minister właściwy do spraw zabezpieczenia społecznego w Zakładzie Ubezpieczeń Społecznych;
-- **2)** minister właściwy do spraw rozwoju wsi w Kasie Rolniczego Ubezpieczenia Społecznego.”;
+- **1)** art. 78 otrzymuje brzmienie: „Art. 78. Na wniosek ministra właściwego do spraw finansów publicznych kontrolę w zakresie realizacji zadań ubezpieczenia zdrowotnego określonych przepisami ustawy przeprowadza: 1) minister właściwy do spraw zabezpieczenia społecznego w Zakładzie Ubezpieczeń Społecznych; 2) minister właściwy do spraw rozwoju wsi w Kasie Rolniczego Ubezpieczenia Społecznego.”;
 - **2)** w art. 87 ust. 11 otrzymuje brzmienie: „11. Rada Ministrów określi, w drodze rozporządzenia, szczegółowy zakres oraz sposób przekazywania do centrali Funduszu przez Zakład Ubezpieczeń Społecznych i Kasę Rolniczego Ubezpieczenia Społecznego danych dotyczących osób objętych ubezpieczeniem zdrowotnym i płatników składek, uwzględniając konieczność zapewnienia poufności przekazywanych danych.”;
 - **3)** w art. 90:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zabezpieczenia społecznego, na wniosek ministra właściwego do spraw zdrowia, może zobowiązać Zakład Ubezpieczeń Społecznych do przeprowadzenia kontroli, o której mowa w ust. 1, określając jednocześnie jej zakres przedmiotowy i podmiotowy.”,

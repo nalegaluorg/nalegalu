@@ -53,16 +53,14 @@ source: pdf
 
 - **10)** w art. 14 po wyrazie "może" dodaje się wyrazy ", w drodze rozporządzenia,";
 - **11)** w art. 15 w ust. 1 wyrazy "o dacie produkcji lub o dacie, do której dany artykuł zachowuje przydatność do spożycia przy przechowywaniu w warunkach przewidzianych dla danego artykułu" zastępuje się wyrazami "o terminie przydatności do spożycia lub dacie minimalnej trwałości środka spożywczego";
-- **12)** w art. 17:
+- **12)** w art. 17: 3c. Podmiot gospodarczy produkujący lub wprowadzający do obrotu środki spożywcze, używki lub substancje dodatkowe dozwolone ponosi koszty szkoleń i egzaminów związanych z uzyskiwaniem kwalifikacji przez osoby, o których mowa w ust. 3a.",
     - **a)** w ust. 1 wyrazy "oraz ich prawidłowa lokalizacja są zgodne z obowiązującymi wymogami" zastępuje się wyrazami "oraz ich lokalizacja są zgodne z obowiązującymi wymogami, a także zapewniają właściwą jakość zdrowotną produkowanych lub będących w obrocie środków spożywczych, używek i substancji dodatkowych dozwolonych",
     - **b)** w ust. 2 po wyrazie "określi" dodaje się wyrazy ", w drodze rozporządzenia,",
     - **c)** ust. 3 otrzymuje brzmienie: "3. Minister Zdrowia i Opieki Społecznej, z zastrzeżeniem ust. 4, ustala, w drodze rozporządzenia, warunki sanitarne oraz zasady przestrzegania higieny przy produkcji i obrocie środkami spożywczymi, używkami i substancjami dodatkowymi dozwolonymi oraz może określić szczególne wymagania w tym zakresie dla niektórych środków spożywczych, używek i substancji dodatkowych dozwolonych.",
     - **d)** ust. 3a otrzymuje brzmienie: "3a. Osoby biorące udział w produkcji lub obrocie środkami spożywczymi, używkami lub substancjami dodatkowymi dozwolonymi powinny posiadać kwalifikacje w zakresie podstawowych zagadnień higieny przy produkcji i obrocie żywnością.",
     - **e)** po ust. 3a dodaje się ust. 3b i 3c w brzmieniu: "3b. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, kwalifikacje wymagane od osób, o których mowa w ust. 3a, oraz zasady uzyskiwania takich kwalifikacji.
+    - **f)** ust. 4 otrzymuje brzmienie: "4. Warunki sanitarne oraz zasady przestrzegania higieny przy produkcji i składowaniu środków spożywczych pochodzenia zwierzęcego określają odrębne przepisy.";
 
-3c. Podmiot gospodarczy produkujący lub wprowadzający do obrotu środki spożywcze, używki lub substancje dodatkowe dozwolone ponosi koszty szkoleń i egzaminów związanych z uzyskiwaniem kwalifikacji przez osoby, o których mowa w ust. 3a.",
-
-- **f)** ust. 4 otrzymuje brzmienie: "4. Warunki sanitarne oraz zasady przestrzegania higieny przy produkcji i składowaniu środków spożywczych pochodzenia zwierzęcego określają odrębne przepisy.";
 - **13)** art. 18 otrzymuje brzmienie: "Art. 18. Środki spożywcze, używki i substancje dodatkowe dozwolone rozprowadzane w opakowaniach jednostkowych, znakowane zgodnie z art. 15 ust. 4 datą minimalnej trwałości lub terminem przydatności do spożycia, mogą być wprowadzane do obrotu do tej daty.";
 - **14)** w art. 28 ust. 1 otrzymuje brzmienie: "1. Rada Ministrów określa, w drodze rozporządzenia, szczegółowe zasady postępowania organów nadzoru w razie stwierdzenia niewłaściwej jakości zdrowotnej środków spożywczych, używek i substancji dodatkowych dozwolonych.";
 - **15)** skreśla się art. 29;
@@ -83,12 +81,12 @@ source: pdf
 
 **Art. 9.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz.U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3 i Nr 43, poz. 163 oraz z 1996 r. Nr 41, poz. 175 i Nr 89, poz. 402) w art. 72:
 
+1) zakres stosowania przepisów ustawy do jednostek badawczorozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, 2) zasady tworzenia, łączenia, podziału, reorganizacji i likwidacji tych jednostek.", 1 nie stosuje się przepisów niniejszej ustawy.",
+
 - **a)** ust. 1 otrzymuje brzmienie: "1. Rada Ministrów, w drodze rozporządzenia, określa:
-- **1)** zakres stosowania przepisów ustawy do jednostek badawczorozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji,
-- **2)** zasady tworzenia, łączenia, podziału, reorganizacji i likwidacji tych jednostek.", 1 nie stosuje się przepisów niniejszej ustawy.",
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb działania jednostek badawczo-rozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, w sprawach, do których na podstawie ust.
-    - **c)** w ust. 2 wyrazy "i Ministrowi Spraw Wewnętrznych" zastępuje się wyrazami "oraz Ministrowi Spraw Wewnętrznych i Administracji",
-    - **d)** w ust. 3 skreśla się wyraz "przekształcania,".
+- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: "1a. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb działania jednostek badawczo-rozwojowych nadzorowanych przez Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i Administracji, w sprawach, do których na podstawie ust.
+- **c)** w ust. 2 wyrazy "i Ministrowi Spraw Wewnętrznych" zastępuje się wyrazami "oraz Ministrowi Spraw Wewnętrznych i Administracji",
+- **d)** w ust. 3 skreśla się wyraz "przekształcania,".
 
 **Art. 10.** W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej (Dz.U. Nr 41, poz. 324, z 1990 r. Nr 26, poz. 149, Nr 34, poz. 198 i Nr 86, poz. 504, z 1991 r. Nr 31, poz. 128, Nr 41, poz. 179, Nr 73, poz. 321, Nr 105, poz. 452, Nr 106, poz. 457 i Nr 107, poz. 460, z 1993 r. Nr 28, poz. 127, Nr 47, poz. 212 i Nr 134, poz. 646, z 1994 r. Nr 27, poz. 96 i Nr 127, poz. 627, z 1995 r. Nr 60, poz. 310, Nr 85, poz. 426, Nr 90, poz. 446, Nr 141, poz. 700 i Nr 147, poz. 713, z 1996 r. Nr 41, poz. 177 i Nr 45, poz. 199 oraz z 1997 r. Nr 9, poz. 44 i Nr 23, poz. 117) w art. 20 ust. 7 otrzymuje brzmienie: "7. Właściwy minister może, w drodze rozporządzenia, określić rodzaj, wysokość i sposób zabezpieczenia, o którym mowa w ust. 4a, w zależności od przedmiotu działalności gospodarczej podlegającej koncesjonowaniu.".
 
@@ -109,12 +107,9 @@ source: pdf
 
 - **1)** w art. 40 dodaje się ust. 4 w brzmieniu: "4. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Aptekarskiej określi, w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane, stosownie do art. 41, od kierownika apteki, dotyczące głównie stażu pracy i specjalizacji.";
 - **2)** w art. 44 dodaje się ust. 3 w brzmieniu: "3. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Aptekarskiej określi, w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni, dotyczące głównie stażu pracy i specjalizacji.";
-- **3)** w art. 49:
+- **3)** w art. 49: 1) w drodze zarządzenia, leki gotowe i inne środki farmaceutyczne i materiały medyczne, o których mowa w art. 5 ust. 2 pkt 2 i 5, które nie podlegają wpisowi do rejestru, 2) w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt.".
     - **a)** skreśla się wyrazy "art. 5 ust. 2 pkt 2 i 5,", a pozostałą treść oznacza się jako ust. 1,
     - **b)** dodaje się ust. 2 w brzmieniu: "2. Minister Rolnictwa i Gospodarki Żywnościowej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Krajowej Izby Lekarsko-Weterynaryjnej oraz Naczelnej Rady Aptekarskiej, w odniesieniu do środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt, może określić:
-
-- **1)** w drodze zarządzenia, leki gotowe i inne środki farmaceutyczne i materiały medyczne, o których mowa w art. 5 ust. 2 pkt 2 i 5, które nie podlegają wpisowi do rejestru,
-- **2)** w drodze rozporządzenia, dodatkowe kwalifikacje zawodowe wymagane od kierownika hurtowni środków farmaceutycznych i materiałów medycznych stosowanych wyłącznie u zwierząt.".
 
 **Art. 17.** W ustawie z dnia 16 października 1991 r. o zmianie ustawy o działalności gospodarczej (Dz.U. Nr 107, poz. 460) skreśla się art. 4.
 
@@ -122,13 +117,7 @@ source: pdf
 
 - **1)** w art. 23 w ust. 3 po wyrazach "w art. 37 ust. 1 oraz" dodaje się wyrazy "w razie potrzeby otulinę, a także";
 - **2)** w art. 27 skreśla się ust. 8;
-- **3)** art. 52 otrzymuje brzmienie: "Art. 52. 1. Skarb Państwa odpowiada za szkody wyrządzone przez żubry, niedźwiedzie i bobry. Odpowiedzialność nie obejmuje utraconych korzyści.
-
-2. W sprawach o naprawienie szkód, o których mowa w ust. 1, orzekają sądy powszechne. Wypłaty odszkodowań dokonuje wojewoda właściwy ze względu na miejsce wyrządzenia szkody.
-
-3. Rada Ministrów może określić, w drodze rozporządzenia, inne gatunki zwierząt chronionych wyrządzających szkody, za które odpowiada Skarb Państwa.
-
-4. Szkody spowodowane przez gatunki zaliczone do zwierząt łownych, występujące w parkach narodowych, szacuje się oraz dokonuje wypłaty według zasad ustalonych w ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz.U. Nr 147, poz. 713 i z 1997 r. Nr 14, poz. 72).".
+- **3)** art. 52 otrzymuje brzmienie: "Art. 52. 1. Skarb Państwa odpowiada za szkody wyrządzone przez żubry, niedźwiedzie i bobry. Odpowiedzialność nie obejmuje utraconych korzyści. 2. W sprawach o naprawienie szkód, o których mowa w ust. 1, orzekają sądy powszechne. Wypłaty odszkodowań dokonuje wojewoda właściwy ze względu na miejsce wyrządzenia szkody. 3. Rada Ministrów może określić, w drodze rozporządzenia, inne gatunki zwierząt chronionych wyrządzających szkody, za które odpowiada Skarb Państwa. 4. Szkody spowodowane przez gatunki zaliczone do zwierząt łownych, występujące w parkach narodowych, szacuje się oraz dokonuje wypłaty według zasad ustalonych w ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz.U. Nr 147, poz. 713 i z 1997 r. Nr 14, poz. 72).".
 
 **Art. 19.** W ustawie z dnia 3 kwietnia 1993 r. - Prawo o miarach (Dz.U. Nr 55, poz. 248) w art. 18 wyrazy "określa Minister Zdrowia i Opieki Społecznej" zastępuje się wyrazami "określają odrębne przepisy wydane przez Ministra Zdrowia i Opieki Społecznej".
 

@@ -29,13 +29,11 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2018 r. poz. 716 i 1496) wprowadza się następujące zmiany:
 
-- **1)** w art. 2:
+- **1)** w art. 2: 1c. Odrębną nieruchomość w budynku mieszkalnym jednorodzinnym mogą stanowić co najwyżej dwa samodzielne lokale mieszkalne. Ograniczenie to nie ma zastosowania do budynków, które zostały wybudowane na podstawie pozwolenia na budowę wydanego przed dniem 11 lipca 2003 r.”,
     - **a)** ust. 1a otrzymuje brzmienie: „1a. Ustanowienie odrębnej własności samodzielnego lokalu następuje zgodnie z ustaleniami miejscowego planu zagospodarowania przestrzennego albo treścią decyzji o warunkach zabudowy i zagospodarowania terenu oraz zgodnie z pozwoleniem na budowę albo skutecznie dokonanym zgłoszeniem, i zgodnie z pozwoleniem na użytkowanie albo skutecznie dokonanym zawiadomieniem o zakończeniu budowy.”,
     - **b)** po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. Przepisu ust. 1a nie stosuje się do budynków istniejących przed dniem 1 stycznia 1995 r. lub wybudowanych na podstawie pozwolenia na budowę wydanego przed tą datą.
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Spełnienie wymagań, o których mowa w ust. 1a–2, stwierdza starosta w formie zaświadczenia.”;
 
-1c. Odrębną nieruchomość w budynku mieszkalnym jednorodzinnym mogą stanowić co najwyżej dwa samodzielne lokale mieszkalne. Ograniczenie to nie ma zastosowania do budynków, które zostały wybudowane na podstawie pozwolenia na budowę wydanego przed dniem 11 lipca 2003 r.”,
-
-- **c)** ust. 3 otrzymuje brzmienie: „3. Spełnienie wymagań, o których mowa w ust. 1a–2, stwierdza starosta w formie zaświadczenia.”;
 - **2)** w art. 11 ust. 3 otrzymuje brzmienie: „3. Jeżeli wydzielenie lokalu byłoby sprzeczne z art. 2 ust. 1a–2, sąd, znosząc współwłasność nieruchomości, nie orzeka o jej podziale przez wydzielenie lokalu, a ustala udziały współwłaścicieli w nieruchomości.”.
 
 **Art. 2.**

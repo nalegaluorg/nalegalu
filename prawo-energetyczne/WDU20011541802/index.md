@@ -40,14 +40,9 @@ source: pdf
 **Art. 3.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz.U. z 2001 r. Nr 79, poz. 857) wprowadza się następujące zmiany:
 
 - **1)** w art. 28 dodaje się ust. 6 w brzmieniu: „6. Subwencja, o której mowa w ust. 1, przysługuje poczynając od 1 stycznia roku następującego po roku, w którym odbyły się wybory. Subwencja wypłacana jest do końca roku, w którym odbywają się kolejne wybory, z zastrzeżeniem art. 32.”;
-- **2)** w art. 29:
+- **2)** w art. 29: 2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art. 32.”,
     - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S = W x M + W x M + W x M + W x M + W x M gdzie poszczególne symbole oznaczają: S - kwota rocznej subwencji, W - liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M - wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej Wysokość kwoty partii politycznej albo koalicji wyborczej w Wiersz rozbiciu odpowiednio dla każdego przedziału za jeden głos (M) procent liczba głosów (W) 1 do 5% 10 złotych 2 powyżej 5% do 8 złotych 10% 3 powyżej 10% do 7 złotych 20% 4 powyżej 20% do 4 złote 30% 5 powyżej 30% 1 złoty 50
-
-2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art.
-
-32. ”,
-
-- **b)** ust. 5 otrzymuje brzmienie: „5. Pierwsza kwartalna rata przysługującej partii politycznej subwencji wypłacona zostanie najpóźniej 30 dnia od dnia ogłoszenia przez Państwową Komisję wyborczą w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informacji o przyjętych i odrzuconych sprawozdaniach wyborczych komitetów wyborczych.”.
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Pierwsza kwartalna rata przysługującej partii politycznej subwencji wypłacona zostanie najpóźniej 30 dnia od dnia ogłoszenia przez Państwową Komisję wyborczą w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informacji o przyjętych i odrzuconych sprawozdaniach wyborczych komitetów wyborczych.”.
 
 **Art. 4.** W ustawie z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz.U. Nr 162, poz. 1112 oraz z 2001 r. Nr 5, poz. 41) wprowadza się następujące zmiany:
 
@@ -70,30 +65,20 @@ source: pdf
     - **b)** ust. 5 otrzymuje brzmienie: „5. Pracownikom URT może być przyznana premia, wypłacana z wydzielonego rachunku środka specjalnego określonego w art. 32 ust. 1 pkt 5.”,
     - **c)** skreśla się ust. 7 i 8;
 
-- **3)** w art. 151 pkt 3 i 4 otrzymują brzmienie: „3) art. 9 oraz art. 25 ust. 1, które wchodzą w życie z dniem 1 stycznia 2002 r.,
-- **4)** art. 32, art. 59 ust. 1 oraz art. 112 ust. 5 i 6, które wchodzą w życie z dniem 1 stycznia 2004 r.”.
+- **3)** w art. 151 pkt 3 i 4 otrzymują brzmienie: „3) art. 9 oraz art. 25 ust. 1, które wchodzą w życie z dniem 1 stycznia 2002 r., 4) art. 32, art. 59 ust. 1 oraz art. 112 ust. 5 i 6, które wchodzą w życie z dniem 1 stycznia 2004 r.”.
 
 **Art. 7.** W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz.U. Nr 84, poz. 948 oraz z 2001 r. Nr 100, poz. 1086) w art. 79 w ust. 1 pkt 2 otrzymuje brzmienie: „2) w roku 2002 - w kwocie 300 000 000 zł,”.
 
 **Art. 8.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz.U. z 2001 r. Nr 4, poz. 27 i Nr 57, poz. 601) wprowadza się następujące zmiany:
 
-- **1)** w art. 12 dodaje się ust. 4 i 5 w brzmieniu: „4. Koszty zawarcia umowy, o której mowa w ust. 1, oraz koszty założenia księgi wieczystej dla lokalu i wpisu do księgi wieczystej obciążają członka spółdzielni, na rzecz którego dokonuje się przeniesienia własności lokalu.
-
-5. Ustala się opłatę w wysokości 1/3 najniższego wynagrodzenia ogłaszanego przez ministra właściwego do spraw pracy na podstawie Kodeksu Pracy jako koszt zawarcia umowy notarialnej oraz opłatę w wysokości 1/3 najniższego wynagrodzenia jako koszt założenia i wpisu do księgi wieczystej, której mowa w ust. 4.”;
-
+- **1)** w art. 12 dodaje się ust. 4 i 5 w brzmieniu: „4. Koszty zawarcia umowy, o której mowa w ust. 1, oraz koszty założenia księgi wieczystej dla lokalu i wpisu do księgi wieczystej obciążają członka spółdzielni, na rzecz którego dokonuje się przeniesienia własności lokalu. 5. Ustala się opłatę w wysokości 1/3 najniższego wynagrodzenia ogłaszanego przez ministra właściwego do spraw pracy na podstawie Kodeksu Pracy jako koszt zawarcia umowy notarialnej oraz opłatę w wysokości 1/3 najniższego wynagrodzenia jako koszt założenia i wpisu do księgi wieczystej, której mowa w ust. 4.”;
 - **2)** w art. 39:
     - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Na pisemne żądanie członka, któremu przysługuje spółdzielcze własnościowe prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, w tym spółdzielcze prawo do garażu, spółdzielnia mieszkaniowa jest zobowiązana zawrzeć z tym członkiem umowę o przeniesienie własności lokalu po dokonaniu przez niego:”,
     - **b)** dodaje się ust. 6 w brzmieniu: „6. Ustala się opłatę w wysokości 1/3 najniższego wynagrodzenia ogłaszanego przez ministra właściwego do spraw pracy na podstawie Kodeksu Pracy jako koszt zawarcia umowy notarialnej oraz opłatę w wysokości 1/3 najniższego wynagrodzenia jako koszt założenia i wpisu do księgi wieczystej, o których mowa w ust. 2 i 5.”;
 
-- **3)** w art. 41:
+- **3)** w art. 41: 6. Przy wyborze wykonawcy prac, o których mowa w ust. 1, spółdzielnia stosuje przepisy ustawy o zamówieniach publicznych. 7. Wojewoda zwraca koszty uzasadnionych prac geodezyjnych, o których mowa w ust. 4. 8. Spółdzielnia składa wniosek o refundację kosztów, po spełnieniu warunków, o których mowa w ust. 4, jednak nie później niż do dnia 31 grudnia 2005 r.”;
     - **a)** w ust. 4 w zdaniu pierwszym wyrazy „uzasadnione koszty prac geodezyjnych, ponosi Skarb Państwa” zastępuje się wyrazami „koszty uzasadnionych prac geodezyjnych, refunduje Skarb Państwa” oraz w zdaniu drugim wyrazy „10 miesięcy” zastępuje się wyrazami „20 miesięcy”,
     - **b)** po ust. 4 dodaje się ust. 5-8 w brzmieniu: „5. Koszty, o których mowa w ust. 4, są refundowane z budżetu państwa na wniosek spółdzielni. Wniosek o refundację kosztów spółdzielnia składa do wojewody właściwego ze względu na siedzibę spółdzielni, dołączając rachunki lub inne dowody poniesienia tych kosztów.
-
-6. Przy wyborze wykonawcy prac, o których mowa w ust. 1, spółdzielnia stosuje przepisy ustawy o zamówieniach publicznych.
-
-7. Wojewoda zwraca koszty uzasadnionych prac geodezyjnych, o których mowa w ust. 4.
-
-8. Spółdzielnia składa wniosek o refundację kosztów, po spełnieniu warunków, o których mowa w ust. 4, jednak nie później niż do dnia 31 grudnia 2005 r.”;
 
 - **4)** w art. 42 w ust. 1, w art. 49 w ust. 1 i w art. 51 wyrazy „12 miesięcy” zastępuje się wyrazami „24 miesięcy”;
 - **5)** w art. 44 w ust. 2 skreśla się zdanie drugie i trzecie;
@@ -104,24 +89,11 @@ source: pdf
 
 **Art. 10.** W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz.U. Nr 46, poz. 499 i Nr 74, poz. 786) wprowadza się następujące zmiany:
 
-- **1)** w art. 122:
+- **1)** w art. 122: 1) przyjmuje sprawozdanie bez zastrzeżeń, 2) przyjmuje sprawozdanie wskazując na jego uchybienia, albo 3) odrzuca sprawozdanie w wypadku stwierdzenia: a) pozyskania lub wydatkowania środków komitetu wyborczego z naruszeniem przepisów art. 110 albo limitu określonego w art. 114 ust. 1 i 2, b) przekazania koalicyjnemu komitetowi wyborczemu albo komitetowi wyborczemu wyborców lub przyjęcia przez komitet środków finansowych lub wartości niepieniężnych z naruszeniem przepisów art. 111 ust. 2-4, c) przeprowadzania zbiórek publicznych wbrew zakazowi, o którym mowa w art. 112 ust. 2, d) przyjęcia przez komitet wyborczy partii politycznej środków finansowych pochodzących z innego źródła niż Fundusz Wyborczy tej partii.”,
     - **a)** ust. 1 otrzymuje brzmienie: „1. Państwowa Komisja Wyborcza, w terminie 4 miesięcy od dnia złożenia sprawozdania wyborczego:
-
-- **1)** przyjmuje sprawozdanie bez zastrzeżeń,
-- **2)** przyjmuje sprawozdanie wskazując na jego uchybienia, albo
-- **3)** odrzuca sprawozdanie w wypadku stwierdzenia:
-    - **a)** pozyskania lub wydatkowania środków komitetu wyborczego z naruszeniem przepisów art. 110 albo limitu określonego w art. 114 ust. 1 i 2,
-    - **b)** przekazania koalicyjnemu komitetowi wyborczemu albo komitetowi wyborczemu wyborców lub przyjęcia przez komitet środków finansowych lub wartości niepieniężnych z naruszeniem przepisów art. 111 ust. 2-4,
-    - **c)** przeprowadzania zbiórek publicznych wbrew zakazowi, o którym mowa w art. 112 ust. 2,
-    - **d)** przyjęcia przez komitet wyborczy partii politycznej środków finansowych pochodzących z innego źródła niż Fundusz Wyborczy tej partii.”,
     - **b)** w ust. 2 wyrazy „może zwrócić się do danego komitetu wyborczego o usunięcie wad sprawozdania lub o udzielenie” zastępuje się wyrazami „wzywa komitet wyborczy do usunięcia wad sprawozdania lub udzielenia”;
 
-- **2)** art. 126 otrzymuje brzmienie: „Art. 126. 1. W razie odrzucenia przez Państwową Komisję Wyborczą sprawozdania wyborczego lub odrzucenia skargi, o której mowa w art. 123 ust. 1, przysługująca komitetowi wyborczemu dotacja, o której mowa w art. 128, pomniejszona zostaje o kwotę stanowiącą równowartość trzykrotności wysokości środków pozyskanych lub wydatkowanych z naruszeniem przepisów, o których mowa w art. 122 ust. 1 pkt 3 lit. a)-d).
-
-2. W razie odrzucenia przez Państwową Komisję Wyborczą sprawozdania wyborczego lub odrzucenia skargi, o której mowa w art. 123 ust. 1, przysługująca partii politycznej, która utworzyła komitet wyborczy partii politycznej albo koalicyjny komitet wyborczy, subwencja, o której mowa w art. 28 i art. 29 ustawy o partiach politycznych, pomniejszona zostaje o kwotę stanowiącą równowartość trzykrotności wysokości środków pozyskanych lub wydatkowanych z naruszeniem przepisów, o których mowa w art. 122 ust. 1 pkt 3 lit. a)-d).
-
-3. Pomniejszenie wysokości dotacji lub subwencji, o którym mowa w ust. 1 i 2, nie może przekraczać 75% wysokości dotacji ustalonej na zasadach określonych w art. 128 ust. 3 i 4, lub 75% wysokości subwencji ustalonej na zasadach określonych w art. 28 i art. 29 ustawy o partiach politycznych.”;
-
+- **2)** art. 126 otrzymuje brzmienie: „Art. 126. 1. W razie odrzucenia przez Państwową Komisję Wyborczą sprawozdania wyborczego lub odrzucenia skargi, o której mowa w art. 123 ust. 1, przysługująca komitetowi wyborczemu dotacja, o której mowa w art. 128, pomniejszona zostaje o kwotę stanowiącą równowartość trzykrotności wysokości środków pozyskanych lub wydatkowanych z naruszeniem przepisów, o których mowa w art. 122 ust. 1 pkt 3 lit. a)-d). 2. W razie odrzucenia przez Państwową Komisję Wyborczą sprawozdania wyborczego lub odrzucenia skargi, o której mowa w art. 123 ust. 1, przysługująca partii politycznej, która utworzyła komitet wyborczy partii politycznej albo koalicyjny komitet wyborczy, subwencja, o której mowa w art. 28 i art. 29 ustawy o partiach politycznych, pomniejszona zostaje o kwotę stanowiącą równowartość trzykrotności wysokości środków pozyskanych lub wydatkowanych z naruszeniem przepisów, o których mowa w art. 122 ust. 1 pkt 3 lit. a)-d). 3. Pomniejszenie wysokości dotacji lub subwencji, o którym mowa w ust. 1 i 2, nie może przekraczać 75% wysokości dotacji ustalonej na zasadach określonych w art. 128 ust. 3 i 4, lub 75% wysokości subwencji ustalonej na zasadach określonych w art. 28 i art. 29 ustawy o partiach politycznych.”;
 - **3)** w art. 246 wyrazy „po upływie 9 miesięcy od dnia ogłoszenia niniejszej ustawy” zastępuje się wyrazami „1 listopada 2002 r.”.
 
 **Art. 11.** W ustawie z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001-2006 (Dz.U. Nr 76, poz. 804 i Nr 85, poz. 925) w art. 7 wprowadza się następujące zmiany:
