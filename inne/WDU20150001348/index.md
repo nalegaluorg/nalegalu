@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej
+# Ustawa z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej
 
 *USTAWA z dnia 5 sierpnia 2015 r.*
 
@@ -24,10 +24,9 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-10 |
-| Ostatnia zmiana | 2026-05-20 |
+| Wejście w życie | 2015-10-11 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text.pdf) |
-
-Art. 44–53. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -39,33 +38,31 @@ Art. 44–53. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-- **1)** klient podmiotu rynku finansowego: o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707), osobę otrzymującą emeryturę kapitałową w rozumieniu ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926) oraz uczestnika PPK lub osobę uprawnioną w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427), poz. 653),
+- **1)** klient podmiotu rynku finansowego: z 2024 r. poz. 556 oraz z 2025 r. poz. 1216), oszczędzającego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz. 91), osobę otrzymującą emeryturę kapitałową w rozumieniu ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926) oraz uczestnika PPK lub osobę uprawnioną w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192), poz. 1111), o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843), o ogólnoeuropejskim indywidualnym produkcie emerytalnym,
     - **a)** będącego osobą fizyczną ubezpieczającego, ubezpieczonego, uposażonego lub uprawnionego z umowy ubezpieczenia, spadkobiercę posiadającego interes prawny w ustaleniu odpowiedzialności lub spełnieniu świadczenia z umowy ubezpieczenia,
-    - **b)** osobę fizyczną dochodzącą roszczeń na podstawie przepisów ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500) od Ubezpieczeniowego Funduszu Gwarancyjnego lub Polskiego Biura Ubezpieczycieli Komunikacyjnych,
-    - **c)** członka funduszu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2023 r. poz. 930, 1672 i 1941), uczestnika pracowniczego programu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556), oszczędzającego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r.
-    - **d)** będącego osobą fizyczną klienta banku, członka spółdzielczej kasy oszczędnościowo-kredytowej, klienta instytucji płatniczej, klienta małej instytucji płatniczej, klienta dostawcy świadczącego usługę dostępu do informacji o rachunku, klienta dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku, klienta biura usług płatniczych, klienta instytucji pieniądza elektronicznego, klienta oddziału zagranicznej instytucji pieniądza elektronicznego, klienta instytucji kredytowej, klienta instytucji finansowej, uczestnika funduszu inwestycyjnego, inwestora alternatywnej spółki inwestycyjnej, klienta firmy inwestycyjnej, klienta instytucji pożyczkowej, klienta pośrednika kredytu hipotecznego, klienta pośrednika kredytowego, klienta, o którym mowa w art. 2 ust. 1 lit. g rozporządzenia 2020/1503, oraz klienta przedsiębiorcy wykonującego działalność lombardową, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285 oraz z 2024 r.
-    - **e)** będącego osobą fizyczną klienta brokera ubezpieczeniowego albo będącego osobą fizyczną klienta agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, w rozumieniu ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2023 r. poz. 1111 i 1723), wykonujących czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838) w zakresie niezwiązanym z udzielaną ochroną ubezpieczeniową,
-    - **f)** osobę uprawnioną w rozumieniu art. 2 pkt 6 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz.
-
-- **1843)** ,
-    - **g)** oszczędzającego w rozumieniu art. 2 pkt 7 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym,
+    - **b)** osobę fizyczną dochodzącą roszczeń na podstawie przepisów ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, z późn. zm. ) od Ubezpieczeniowego Funduszu Gwarancyjnego lub Polskiego Biura Ubezpieczycieli Komunikacyjnych,
+    - **c)** członka funduszu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113, z 2025 r. poz. 1069, 1216 i 1425 oraz z 2026 r. poz. 176 i 644), uczestnika pracowniczego programu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U.
+    - **d)** będącego osobą fizyczną klienta banku, członka spółdzielczej kasy oszczędnościowo-kredytowej, klienta instytucji płatniczej, klienta małej instytucji płatniczej, klienta dostawcy świadczącego usługę dostępu do informacji o rachunku, klienta dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku, klienta biura usług płatniczych, klienta instytucji pieniądza elektronicznego, klienta oddziału zagranicznej instytucji pieniądza elektronicznego, klienta instytucji kredytowej, klienta instytucji finansowej, uczestnika funduszu inwestycyjnego, inwestora alternatywnej spółki inwestycyjnej, klienta firmy inwestycyjnej, klienta instytucji pożyczkowej, klienta pośrednika kredytu hipotecznego, klienta pośrednika kredytowego, klienta, o którym mowa w art. 2 ust. 1 lit. g rozporządzenia 2020/1503, oraz klienta przedsiębiorcy wykonującego działalność lombardową, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. z 2024 r.
+    - **e)** będącego osobą fizyczną klienta brokera ubezpieczeniowego albo będącego osobą fizyczną klienta agenta ubezpieczeniowego lub agenta oferującego ubezpieczenia uzupełniające, w rozumieniu ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2026 r. poz. 12 i 644), wykonujących czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526 oraz z 2026 r. poz. 176 i 644) w zakresie niezwiązanym z udzielaną ochroną ubezpieczeniową,
+    - **f)** osobę uprawnioną w rozumieniu art. 2 pkt 6 ustawy z dnia 7 lipca 2023 r.
+    - **g)** oszczędzającego w rozumieniu art. 2 pkt 7 ustawy z dnia 7 lipca 2023 r.
     - **h)** będącego osobą fizyczną kredytobiorcę zobowiązanego do spłaty wierzytelności przysługującej nabywcy kredytu w rozumieniu art. 3 ust. 1 pkt 12 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), zwanej dalej „ustawą o obsługujących kredyty”,
     - **i)** będącego osobą fizyczną kredytobiorcę, w przypadku gdy nabywca kredytu, o którym mowa w lit. h, wyznaczył przedstawiciela, o którym mowa w art. 24 ustawy o obsługujących kredyty,
     - **j)** będącego osobą fizyczną kredytobiorcę, którego zobowiązanie z tytułu umowy o kredyt w rozumieniu art. 3 ust. 1 pkt 19 ustawy o obsługujących kredyty jest obsługiwane przez podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy o obsługujących kredyty,
     - **k)** będącego osobą fizyczną kredytobiorcę, którego zobowiązanie z tytułu umowy o kredyt w rozumieniu art. 3 ust. 1 pkt 19 ustawy o obsługujących kredyty jest obsługiwane przez dostawcę usług obsługi kredytów w rozumieniu art. 3 ust. 1 pkt 2 ustawy o obsługujących kredyty;
 
 - **2)** reklamacja – wystąpienie skierowane do podmiotu rynku finansowego przez jego klienta, w którym klient zgłasza zastrzeżenia dotyczące usług świadczonych przez podmiot rynku finansowego;
-- **3)** podmiot rynku finansowego: o działalności ubezpieczeniowej i reasekuracyjnej, poz. 1028, 1285, 1394 i 1723 oraz z 2024 r. poz. 653), o kredycie konsumenckim,
-    - **a)** instytucję płatniczą, małą instytucję płatniczą, dostawcę świadczącego usługę dostępu do informacji o rachunku, dostawcę świadczącego wyłącznie usługę dostępu do informacji o rachunku, biuro usług płatniczych, instytucję pieniądza elektronicznego i oddział zagranicznej instytucji pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30 i 731),
-    - **b)** bank krajowy, bank zagraniczny, oddział banku zagranicznego, oddział instytucji kredytowej i instytucję finansową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879),
-    - **c)** towarzystwo funduszy inwestycyjnych i fundusz inwestycyjny oraz zarządzający ASI i alternatywna spółka inwestycyjna w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034),
-    - **d)** spółdzielczą kasę oszczędnościowo-kredytową w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512 i 879),
-    - **e)** firmę inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722),
+- **3)** podmiot rynku finansowego: o działalności ubezpieczeniowej i reasekuracyjnej, poz. 1362), o kredycie konsumenckim,
+    - **a)** instytucję płatniczą, małą instytucję płatniczą, dostawcę świadczącego usługę dostępu do informacji o rachunku, dostawcę świadczącego wyłącznie usługę dostępu do informacji o rachunku, biuro usług płatniczych, instytucję pieniądza elektronicznego i oddział zagranicznej instytucji pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2026 r. poz. 623),
+    - **b)** bank krajowy, bank zagraniczny, oddział banku zagranicznego, oddział instytucji kredytowej i instytucję finansową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331, 340 i 644),
+    - **c)** towarzystwo funduszy inwestycyjnych i fundusz inwestycyjny oraz zarządzający ASI i alternatywna spółka inwestycyjna w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60, 176, 484 i 644),
+    - **d)** spółdzielczą kasę oszczędnościowo-kredytową w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2026 r. poz. 595),
+    - **e)** firmę inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ),
     - **f)** krajowy zakład ubezpieczeń, zagraniczny zakład ubezpieczeń, główny oddział i oddział w rozumieniu ustawy z dnia 11 września 2015 r.
     - **g)** fundusz emerytalny i towarzystwo emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
-    - **h)** instytucję pożyczkową – podmiot będący kredytodawcą w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r.
+    - **h)** instytucję pożyczkową – podmiot będący kredytodawcą w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2025 r.
     - **i)** Ubezpieczeniowy Fundusz Gwarancyjny i Polskie Biuro Ubezpieczycieli Komunikacyjnych,
-    - **j)** pośrednika kredytu hipotecznego w rozumieniu ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339),
+    - **j)** pośrednika kredytu hipotecznego w rozumieniu ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2025 r. poz. 720),
     - **k)** pośrednika kredytowego w rozumieniu ustawy z dnia 12 maja 2011 r.
     - **l)** brokera ubezpieczeniowego, a także agenta ubezpieczeniowego i agenta oferującego ubezpieczenia uzupełniające wykonujących czynności agencyjne na rzecz więcej niż jednego zakładu ubezpieczeń w zakresie tego samego działu ubezpieczeń, zgodnie z załącznikiem do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej w zakresie niezwiązanym z udzielaną ochroną ubezpieczeniową,
     - **m)** dostawcę usług finansowania społecznościowego, o którym mowa w art. 2 ust. 1 lit. e rozporządzenia 2020/1503,
@@ -87,10 +84,8 @@ Art. 44–53. (pominięte)
 2. Reklamacja może być złożona:
 
 - **1)** na piśmie:
-    - **a)** w postaci papierowej – osobiście w jednostce, o której mowa w ust. 1, albo wysłana przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i
-
-- **1456)** , albo nadana w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo
-    - **b)** w postaci elektronicznej – z wykorzystaniem środka komunikacji elektronicznej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy;
+    - **a)** w postaci papierowej – osobiście w jednostce, o której mowa w ust. 1, albo wysłana przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2026 r. poz. 558), albo nadana w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo
+    - **b)** w postaci elektronicznej – z wykorzystaniem środka komunikacji elektronicznej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy;
 
 - **2)** ustnie – telefonicznie albo osobiście do protokołu podczas wizyty klienta w jednostce, o której mowa w ust. 1.
 
@@ -102,9 +97,7 @@ Art. 44–53. (pominięte)
 - **2)** termin rozpatrzenia reklamacji;
 - **3)** sposób powiadomienia o rozpatrzeniu reklamacji.
 
-2. W odniesieniu do klientów, którzy nie zawarli umowy z podmiotem rynku finansowego, informacje, o których mowa w ust. 1, powinny zostać dostarczone w ciągu 7 dni od dnia, w którym nastąpiło zgłoszenie roszczeń klienta wobec podmiotu rynku finansowego. [Art. 5. 1. Po złożeniu przez klienta reklamacji, zgodnie z wymogami, o których mowa w art. 4 ust. 1 pkt 1, podmiot rynku finansowego rozpatruje reklamację i udziela klientowi odpowiedzi na piśmie.
-
-2. Odpowiedź, o której mowa w ust. 1, podmiot rynku finansowego może dostarczyć pocztą elektroniczną wyłącznie na wniosek klienta.]
+2. W odniesieniu do klientów, którzy nie zawarli umowy z podmiotem rynku finansowego, informacje, o których mowa w ust. 1, powinny zostać dostarczone w ciągu 7 dni od dnia, w którym nastąpiło zgłoszenie roszczeń klienta wobec podmiotu rynku finansowego.
 
 **Art. 5.**
 
@@ -119,7 +112,7 @@ Art. 44–53. (pominięte)
 - **1)** z wykorzystaniem środka komunikacji elektronicznej, za pomocą którego klient złożył reklamację, albo innego wskazanego przez klienta środka komunikacji elektronicznej – w przypadku gdy reklamacja została złożona przez klienta z wykorzystaniem środka komunikacji elektronicznej;
 - **2)** na adres klienta do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy – w przypadku gdy reklamacja została wysłana przez klienta na adres do doręczeń elektronicznych.
 
-**Art. 6.** Odpowiedzi, o której mowa w art. 5 ust. 1, należy udzielić bez zbędnej zwłoki, jednak nie później niż w terminie 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
+**Art. 6.** Odpowiedzi, o której mowa w art. 5 ust. 1, należy udzielić bez zbędnej zwłoki, jednak niepóźniej niż w terminie 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
 
 **Art. 7.** W szczególnie skomplikowanych przypadkach, uniemożliwiających rozpatrzenie reklamacji i udzielenie odpowiedzi w terminie, o którym mowa w art. 6, podmiot rynku finansowego w informacji przekazywanej klientowi, który wystąpił z reklamacją:
 
@@ -134,7 +127,7 @@ Art. 44–53. (pominięte)
 - **1)** uzasadnienie faktyczne i prawne, chyba że reklamacja została rozpatrzona zgodnie z wolą klienta;
 - **2)** wyczerpującą informację na temat stanowiska podmiotu rynku finansowego w sprawie skierowanych zastrzeżeń, w tym wskazanie odpowiednich fragmentów wzorca umowy lub umowy;
 - **3)** imię i nazwisko osoby udzielającej odpowiedzi ze wskazaniem jej stanowiska służbowego;
-- **4)** określenie terminu, w którym roszczenie podniesione w reklamacji rozpatrzonej zgodnie z wolą klienta zostanie zrealizowane, nie dłuższego niż 30 dni od dnia sporządzenia odpowiedzi.
+- **4)** określenie terminu, w którym roszczenie podniesione w reklamacji rozpatrzonej zgodnie z wolą klienta zostanie zrealizowane, niedłuższego niż 30 dni od dnia sporządzenia odpowiedzi.
 
 **Art. 10.** W przypadku nieuwzględnienia roszczeń wynikających z reklamacji klienta treść odpowiedzi, o której mowa w art. 5 ust. 1, powinna zawierać również pouczenie o możliwości:
 
@@ -204,7 +197,7 @@ Art. 44–53. (pominięte)
 
 2a. Rzecznik jest organem nadzoru rynku w rozumieniu ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
 
-3. Rzecznik może być reprezentantem grupy, o którym mowa w art. 4 ust. 2a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212).
+3. Rzecznik może być reprezentantem grupy, o którym mowa w art. 4 ust. 2a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2024 r. poz. 1485).
 
 **Art. 18.**
 
@@ -222,7 +215,7 @@ Art. 44–53. (pominięte)
 
 **Art. 19.**
 
-1. Rzecznik wykonuje swoje zadania przy pomocy nie więcej niż trzech zastępców.
+1. Rzecznik wykonuje swoje zadania przy pomocy niewięcej niż trzech zastępców.
 
 2. Minister właściwy do spraw instytucji finansowych powołuje i odwołuje zastępców Rzecznika na jego wniosek.
 
@@ -236,7 +229,7 @@ Art. 44–53. (pominięte)
 
 3. Do dyrektora generalnego Biura Rzecznika stosuje się odpowiednio przepisy art. 13 pkt 2–5 oraz art. 23.
 
-4. Do zadań dyrektora generalnego Biura Rzecznika stosuje się odpowiednio art. 25 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).
+4. Do zadań dyrektora generalnego Biura Rzecznika stosuje się odpowiednio art. 25 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2026 r. poz. 590).
 
 **Art. 20.**
 
@@ -283,7 +276,7 @@ Art. 44–53. (pominięte)
 
 9. Opłata na finansowanie działalności Rzecznika i jego Biura nie podlega zwrotowi w przypadku zakończenia działalności przez podmiot rynku finansowego w ciągu roku, za który została wniesiona.
 
-10. W zakresie nieuregulowanym w ustawie do opłaty na finansowanie działalności Rzecznika i jego Biura stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+10. W zakresie nieuregulowanym w ustawie do opłaty na finansowanie działalności Rzecznika i jego Biura stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622).
 
 11. Opłata na finansowanie działalności Rzecznika i jego Biura podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
@@ -355,7 +348,7 @@ Art. 44–53. (pominięte)
 
 **Art. 23.** Rzecznik nie może:
 
-- **1)** zajmować innego stanowiska, z wyjątkiem stanowiska dydaktycznego, badawczego lub badawczo-dydaktycznego w podmiocie, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), ani wykonywać innych zajęć zawodowych;
+- **1)** zajmować innego stanowiska, z wyjątkiem stanowiska dydaktycznego, badawczego lub badawczo-dydaktycznego w podmiocie, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), ani wykonywać innych zajęć zawodowych;
 - **2)** należeć do partii politycznej;
 - **3)** być akcjonariuszem, udziałowcem, członkiem władz ani wykonywać obowiązków członka zarządu lub rady nadzorczej podmiotów rynku finansowego ani wykonywać czynności związanych z działalnością w zakresie świadczenia usług przez te podmioty;
 - **4)** wykonywać innych czynności, które pozostają w sprzeczności z jego obowiązkami albo mogą wywołać podejrzenie o jego stronniczość lub interesowność;
@@ -403,7 +396,7 @@ Art. 44–53. (pominięte)
 **Art. 26a.** Rzecznik działając w charakterze reprezentanta grupy, o którym mowa w art. 4 ust. 2a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym, może wytoczyć powództwo w postępowaniu grupowym na rzecz:
 
 - **1)** klientów podmiotów rynku finansowego;
-- **2)** osób fizycznych, których roszczenia wynikają z umów o świadczenie usług lub wykonywania czynności przez instytucję finansową w rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559).
+- **2)** osób fizycznych, których roszczenia wynikają z umów o świadczenie usług lub wykonywania czynności przez instytucję finansową w rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2025 r. poz. 819 oraz z 2026 r. poz. 644).
 
 **Art. 27.** Po zbadaniu sprawy Rzecznik może:
 
@@ -411,13 +404,13 @@ Art. 44–53. (pominięte)
 - **2)** zwrócić się do podmiotu rynku finansowego, w którego działalności stwierdził naruszenie praw lub interesów klientów, o ponowne rozpatrzenie sprawy;
 - **3)** zwrócić się o zbadanie sprawy do właściwego organu, w szczególności do Komisji Nadzoru Finansowego, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, prokuratury albo organów kontroli państwowej, zawodowej lub społecznej.
 
-**Art. 28.** Do Rzecznika stosuje się odpowiednio przepis art. 63 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+**Art. 28.** Do Rzecznika stosuje się odpowiednio przepis art. 63 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473).
 
 **Art. 29.** (uchylony)
 
 **Art. 30.** Podmiot rynku finansowego przekazuje, na wniosek Rzecznika, wzorzec umowy o świadczenie usług, którym posługuje się w swojej działalności, oraz inne dokumenty i formularze stosowane przy zawieraniu i wykonywaniu tych umów, w terminie 14 dni od dnia otrzymania wniosku.
 
-**Art. 31.** Podmiot rynku finansowego lub podmiot wskazany w art. 25 ust. 1 pkt 1, który otrzymał wniosek Rzecznika w sprawach objętych zakresem jego działalności, jest obowiązany niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania wniosku, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku oraz przekazać żądane dokumenty lub informacje, w tym także informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233) oraz inne informacje podlegające ochronie na podstawie odrębnych przepisów.
+**Art. 31.** Podmiot rynku finansowego lub podmiot wskazany w art. 25 ust. 1 pkt 1, który otrzymał wniosek Rzecznika w sprawach objętych zakresem jego działalności, jest obowiązany niezwłocznie, niepóźniej niż w terminie 30 dni od dnia otrzymania wniosku, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku oraz przekazać żądane dokumenty lub informacje, w tym także informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85) oraz inne informacje podlegające ochronie na podstawie odrębnych przepisów.
 
 **Art. 32.**
 
@@ -459,7 +452,7 @@ Art. 44–53. (pominięte)
 
 1. Rzecznik składa corocznie, w terminie 90 dni od zakończenia roku kalendarzowego, Prezesowi Rady Ministrów oraz ministrowi właściwemu do spraw instytucji finansowych sprawozdanie:
 
-- **1)** ze swojej działalności oraz uwagi o stanie przestrzegania prawa i interesów klientów podmiotów rynku finansowego;
+- **1)** ze swojej działalności oraz uwagi o stanie przestrzegania prawa i interesów klientów podmiotów rynku finansowego.
 - **2)** (uchylony)
 
 2. Sprawozdanie, o którym mowa w ust. 1, jest jawne.
@@ -526,7 +519,7 @@ Art. 44–53. (pominięte)
 
 2. Wniosek, o którym mowa w ust. 1, składa się w terminie 14 dni od dnia doręczenia protokołu z przebiegu postępowania, o którym mowa w art. 41 ust. 1. Wniosek złożony po upływie terminu pozostawia się bez rozpoznania, chyba że strona nie złożyła go w terminie z ważnych przyczyn, które uprawdopodobni wraz ze składanym wnioskiem.
 
-3. Do zachowania terminu, o którym mowa w ust. 2, wystarczające jest nadanie wniosku przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej lub jego przesłanie za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) na adres wskazany w piśmie Rzecznika doręczającym protokół z przebiegu postępowania.
+3. Do zachowania terminu, o którym mowa w ust. 2, wystarczające jest nadanie wniosku przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej lub jego przesłanie za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) na adres wskazany w piśmie Rzecznika doręczającym protokół z przebiegu postępowania.
 
 4. Opinia jest sporządzana w terminie 30 dni od dnia wpływu wniosku o jej sporządzenie i doręczana stronie, która wniosła o jej sporządzenie. W przypadku postępowań szczególnie skomplikowanych pod względem prawnym lub o obszernym materiale dowodowym Rzecznik może przedłużyć termin sporządzenia opinii o 30 dni, informując o tym stronę, która wniosła o jej sporządzenie, oraz podając przewidywalny termin sporządzenia opinii.
 
@@ -553,7 +546,7 @@ Art. 44–53. (pominięte)
 
 **Art. 43f.**
 
-1. Fundusz jest państwowym funduszem celowym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+1. Fundusz jest państwowym funduszem celowym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680).
 
 2. Dysponentem Funduszu jest minister właściwy do spraw instytucji finansowych.
 
@@ -561,9 +554,9 @@ Art. 44–53. (pominięte)
 
 **Art. 43g.** Przychodami Funduszu są wpływy z tytułu:
 
-- **1)** kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie ustaw, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069), oraz art. 3c ust. 1 pkt 5, art. 3g ust. 1 pkt 7, art. 3h ust. 2 pkt 2, art. 3ha ust. 1 pkt 2, art. 3s ust. 1, art. 11c ust. 7, art. 18u, art. 18zm ust. 1 pkt 3 oraz art. 18zz ust. 1 pkt 2 i 3 oraz ust. 2 tej ustawy, z wyjątkiem kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie art. 138 ust. 3 pkt 3a i art. 141 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
-- **2)** kar pieniężnych, o których mowa w art. 112 ust. 2 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594);
-- **3)** kar pieniężnych, o których mowa w art. 159 ust. 5a, art. 183 ust. 4a i art. 193 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035);
+- **1)** kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie ustaw, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252 i 644), oraz art. 3c ust. 1 pkt 5, art. 3g ust. 1 pkt 7, art. 3h ust. 2 pkt 2, art. 3ha ust. 1 pkt 2, art. 3s ust. 1, art. 11c ust. 7, art. 18u, art. 18zm ust. 1 pkt 3 oraz art. 18zz ust. 1 pkt 2 i 3 oraz ust. 2 tej ustawy, z wyjątkiem kar pieniężnych nakładanych przez Komisję Nadzoru Finansowego na podstawie art. 138 ust. 3 pkt 3a i art. 141 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz art. 72 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
+- **2)** kar pieniężnych, o których mowa w art. 112 ust. 2 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714);
+- **3)** kar pieniężnych, o których mowa w art. 159 ust. 5a, art. 183 ust. 4a i art. 193 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891 oraz z 2026 r. poz. 640 i 644);
 - **4)** kar pieniężnych, o których mowa w art. 32 ust. 1–1b;
 - **5)** odsetek;
 - **6)** innych źródeł.
@@ -580,7 +573,12 @@ Art. 44–53. (pominięte)
 
 - **2)** zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4;
 - **3)** spłatę zaciągniętych pożyczek, o których mowa w art. 43i ust. 2;
-- **4)** koszty obsługi bankowej Funduszu. Art. 43ha. 1. Dysponent Funduszu udziela dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, podmiotowi wybranemu w trybie ogłoszonego przez niego:
+- **4)** koszty obsługi bankowej Funduszu.
+
+**Art. 43ha.**
+
+1. Dysponent Funduszu udziela dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, podmiotowi wybranemu w trybie ogłoszonego przez niego:
+
 - **1)** otwartego konkursu ofert lub
 - **2)** naboru wniosków w ramach programów.
 
@@ -591,13 +589,18 @@ Art. 44–53. (pominięte)
 4. Dysponent Funduszu nie udziela dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, podmiotowi, który:
 
 - **1)** wykorzystał ją niezgodnie z przeznaczeniem,
-- **2)** pobrał ją nienależnie lub w nadmiernej wysokości – do dnia zwrotu środków pochodzących z tej dotacji wraz z odsetkami. Art. 43hb. W przypadku wykorzystania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, niezgodnie z przeznaczeniem lub pobrania jej nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotyczące dotacji udzielonych z budżetu państwa. Art. 43hc. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+- **2)** pobrał ją nienależnie lub w nadmiernej wysokości – do dnia zwrotu środków pochodzących z tej dotacji wraz z odsetkami.
+
+**Art. 43hb.** W przypadku wykorzystania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, niezgodnie z przeznaczeniem lub pobrania jej nienależnie lub w nadmiernej wysokości stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotyczące dotacji udzielonych z budżetu państwa.
+
+**Art. 43hc.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
 - **1)** warunki i tryb udzielania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1, w tym tryb przeprowadzania otwartego konkursu ofert oraz naboru wniosków, kryteria oceny oferty i wniosku oraz tryb zawierania umów na realizację tych działań,
 - **2)** sposób rozliczania dotacji celowej na realizację działań, o których mowa w art. 43h pkt 1 – uwzględniając potrzebę skutecznego i racjonalnego wykorzystania środków Funduszu oraz efektywnej realizacji działań, o których mowa w art. 43h pkt 1.
 
 **Art. 43i.**
 
-1. Jeżeli w wyniku zmiany albo uchylenia decyzji kary pieniężne, o których mowa w art. 43g pkt 1–4, zostały zmniejszone albo uchylone, dysponent Funduszu niezwłocznie przekazuje na rachunek organu, który nałożył te kary, środki z przeznaczeniem na zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4. Środki z przeznaczeniem na zwrot, o którym mowa w zdaniu pierwszym, przekazywane są w wysokości odpowiadającej wysokości zwrotu, jednak nie wyższej niż kwota, która wpłynęła do Funduszu z tytułu zmniejszonej albo uchylonej kary pieniężnej.
+1. Jeżeli w wyniku zmiany albo uchylenia decyzji kary pieniężne, o których mowa w art. 43g pkt 1–4, zostały zmniejszone albo uchylone, dysponent Funduszu niezwłocznie przekazuje na rachunek organu, który nałożył te kary, środki z przeznaczeniem na zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4. Środki z przeznaczeniem na zwrot, o którym mowa w zdaniu pierwszym, przekazywane są w wysokości odpowiadającej wysokości zwrotu, jednak niewyższej niż kwota, która wpłynęła do Funduszu z tytułu zmniejszonej albo uchylonej kary pieniężnej.
 
 2. Na wniosek dysponenta Funduszu, Funduszowi może być udzielona przez ministra właściwego do spraw budżetu nieoprocentowana pożyczka z budżetu państwa z przeznaczeniem na zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4.
 
@@ -627,7 +630,7 @@ Art. 44–53. (pominięte)
 - **6)** przedstawiciela Prezesa Narodowego Banku Polskiego;
 - **7)** przedstawiciela Krajowego Depozytu Papierów Wartościowych S.A.;
 - **8)** przedstawiciela Bankowego Funduszu Gwarancyjnego;
-- **9)** przedstawiciela Polskiego Funduszu Rozwoju Spółka Akcyjna z siedzibą w Warszawie, o którym mowa w art. 2 pkt 8 lit. b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834);
+- **9)** przedstawiciela Polskiego Funduszu Rozwoju Spółka Akcyjna z siedzibą w Warszawie, o którym mowa w art. 2 pkt 8 lit. b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373);
 - **10)** przedstawiciela Giełdy Papierów Wartościowych w Warszawie S.A.
 
 2. Minister właściwy do spraw instytucji finansowych powołuje Przewodniczącego Rady Edukacji Finansowej spośród członków Rady Edukacji Finansowej, o których mowa w ust. 1 pkt 1.
@@ -641,6 +644,8 @@ Art. 44–53. (pominięte)
 6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, regulamin pracy Rady Edukacji Finansowej, mając na uwadze potrzebę zapewnienia prawidłowego funkcjonowania Rady Edukacji Finansowej.
 
 #### Rozdział 5 Przepisy zmieniające
+
+**Art. 44–53.** (pominięte)
 
 #### Rozdział 6 Przepisy dostosowujące, przejściowe i przepis końcowy
 
@@ -662,7 +667,7 @@ Art. 44–53. (pominięte)
 
 1. Pracownicy Biura Rzecznika Ubezpieczonych z dniem wejścia w życie ustawy stają się pracownikami Biura Rzecznika Finansowego.
 
-2. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878) stosuje się odpowiednio.
+2. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473) stosuje się odpowiednio.
 
 **Art. 62.**
 

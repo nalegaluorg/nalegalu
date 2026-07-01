@@ -8,10 +8,10 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o muzeach
+# Ustawa z dnia 21 listopada 1996 r. o muzeach.
 
 *USTAWA z dnia 21 listopada 1996 r.*
 
@@ -24,16 +24,27 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-11-21 |
 | Data wydania | 1997-01-20 |
+| Wejście w życie | 1997-02-04 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970050024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/24/text.pdf) |
-
-Art. 35–39. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów.
 
 **Art. 2.** Muzeum realizuje cele określone w art. 1, w szczególności przez:
+
+- **1)** gromadzenie zabytków w statutowo określonym zakresie;
+- **2)** katalogowanie i naukowe opracowywanie zgromadzonych zbiorów;
+- **3)** przechowywanie gromadzonych zabytków, w warunkach zapewniających im właściwy stan zachowania i bezpieczeństwo, oraz magazynowanie ich w sposób dostępny do celów naukowych;
+- **4)** zabezpieczanie i konserwację zbiorów oraz, w miarę możliwości, zabezpieczanie zabytków archeologicznych nieruchomych oraz innych nieruchomych obiektów kultury materialnej i przyrody;
+- **5)** urządzanie wystaw stałych i czasowych;
+- **6)** organizowanie badań i ekspedycji naukowych, w tym archeologicznych;
+- **7)** prowadzenie działalności edukacyjnej;
+- **7a)** popieranie i prowadzenie działalności artystycznej i upowszechniającej kulturę;
+- **8)** udostępnianie zbiorów do celów edukacyjnych i naukowych;
+- **9)** zapewnianie właściwych warunków zwiedzania oraz korzystania ze zbiorów i zgromadzonych informacji;
+- **10)** prowadzenie działalności wydawniczej.
 
 **Art. 3.** Muzea mogą być tworzone dla jednej lub wielu dziedzin działalności człowieka oraz tworów natury.
 
@@ -278,6 +289,10 @@ Art. 35–39. (pominięte)
 **Art. 15.** Rozstrzygnięcie w sprawach wpisu i skreślenia z Rejestru następuje w drodze decyzji administracyjnej.
 
 **Art. 16.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, może w muzeach rejestrowanych, bezpośrednio mu podległych, powierzyć swoje uprawnienia radzie powierniczej, w zakresie:
+
+- **1)** nadzoru nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa;
+- **2)** bezpośredniego nadzoru nad realizacją celów określonych w art. 1;
+- **3)** powoływania i odwoływania dyrektora muzeum.
 
 **Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć – za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów – swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
 
@@ -662,6 +677,8 @@ Art. 35–39. (pominięte)
 4. W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 35–39.** (pominięte)
 
 **Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

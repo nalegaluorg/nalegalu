@@ -8,12 +8,10 @@ pos: 1215
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o partiach politycznych
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2023-06-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1215/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2022 r. poz. 372), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ust. 3 i art. 19 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią:
-Art. 50–59. (pominięte)
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2022 r. poz. 372), z uwzględnieniem zmian wprowadzonych ustawą z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 ust. 3 i art. 19 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią:
 Art. 60 i 61. (pominięte)
 
 **Art. 13.** „3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 34 oraz art. 38 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 34 oraz art. 38 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 19. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 3, 4 i 120, art. 10 ust. 1 i art. 13 ust. 1, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 1 lit. a i c, pkt 5 lit. b, c, e i h, pkt 6, 7, 13–34, pkt 36 lit. a tiret pierwsze podwójne tiret drugie oraz tiret trzecie, pkt 44 lit. a, pkt 45 lit. c i d, pkt 46–48, pkt 73 lit. a, pkt 74, 75, 86–88, 93, 95, 96, 105–107, 111, 112, 117, 119, pkt 126 lit. b oraz art. 5 pkt 2, art. 6, art. 8, art. 9, art. 12 i art. 14, które wchodzą w życie w terminie określonym w komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 7;
+- **3)** art. 1 pkt 42 lit. c i pkt 58, które wchodzą w życie w terminie określonym w komunikacie Prezesa Rady Ministrów wydanym na podstawie art. 15 ust. 1 pkt 8.”. Marszałek Sejmu: E. Witek USTAWA z dnia 27 czerwca 1997 r. o partiach politycznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -93,7 +94,7 @@ Art. 60 i 61. (pominięte)
 - **1)** statut partii politycznej;
 - **2)** wykaz zawierający imiona, nazwiska, adresy zamieszkania, numery ewidencyjne PESEL i własnoręczne podpisy popierających zgłoszenie co najmniej 1000 obywateli polskich, którzy ukończyli 18 lat i mają pełną zdolność do czynności prawnych; każda strona wykazu powinna być opatrzona adnotacją zawierającą nazwę partii politycznej zgłaszanej do ewidencji.
 
-4. Do zbierania podpisów osób popierających zgłoszenie, o których mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 24 lipca 2015 r. Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+4. Do zbierania podpisów osób popierających zgłoszenie, o których mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
 
 5. Nazwa, skrót nazwy i symbol graficzny partii politycznej powinny odróżniać się wyraźnie od nazw, skrótów nazw i symboli graficznych partii już istniejących.
 
@@ -140,6 +141,16 @@ Art. 60 i 61. (pominięte)
 **Art. 17.** Nazwa, skrót nazwy i symbol graficzny partii politycznej zgłoszonej do ewidencji w sposób określony w art. 11 korzystają z ochrony prawnej przewidzianej dla dóbr osobistych.
 
 **Art. 17a.** Ewidencja zawiera następujące informacje:
+
+- **1)** datę zgłoszenia partii do ewidencji;
+- **2)** nazwę, skrót nazwy oraz adres siedziby partii;
+- **3)** wzorzec symbolu graficznego partii;
+- **4)** imiona, nazwiska i adresy zamieszkania osób wchodzących w skład organów uprawnionych w statucie do reprezentowania partii na zewnątrz oraz do zaciągania zobowiązań majątkowych;
+- **5)** imiona, nazwiska i adresy zamieszkania osób zgłaszających partię do ewidencji;
+- **6)** datę wydania orzeczenia w przedmiocie wpisu partii do ewidencji;
+- **7)** datę, sygnaturę i sentencję orzeczenia Trybunału Konstytucyjnego dotyczącego partii;
+- **8)** wzmiankę o podjęciu przez partię uchwały o samorozwiązaniu oraz imię i nazwisko wyznaczonego likwidatora;
+- **9)** datę wykreślenia partii z ewidencji.
 
 **Art. 18.**
 
@@ -250,7 +261,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 26.** (uchylony)
 
-**Art. 26a.** Obowiązek gromadzenia środków pieniężnych przez partię polityczną na rachunkach bankowych nie dotyczy kwot ze składek członkowskich w wysokości nieprzekraczającej od jednego członka w jednym roku minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego w dniu poprzedzającym wpłatę, pozostawionych w terenowych jednostkach organizacyjnych partii z przeznaczeniem na pokrycie wydatków związanych z bieżącą działalnością.
+**Art. 26a.** Obowiązek gromadzenia środków pieniężnych przez partię polityczną na rachunkach bankowych nie dotyczy kwot ze składek członkowskich w wysokości nieprzekraczającej od jednego członka w jednym roku minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów, obowiązującego w dniu poprzedzającym wpłatę, pozostawionych w terenowych jednostkach organizacyjnych partii – z przeznaczeniem na pokrycie wydatków związanych z bieżącą działalnością.
 
 **Art. 27.** Prowadzenie przez partię polityczną działalności własnej polegającej na sprzedaży tekstu statutu lub programu partii, a także przedmiotów symbolizujących partię i wydawnictw popularyzujących cele i działalność partii politycznej oraz na wykonywaniu odpłatnie drobnych usług na rzecz osób trzecich z wykorzystaniem posiadanego sprzętu biurowego nie stanowi działalności gospodarczej w rozumieniu odrębnych przepisów.
 
@@ -268,7 +279,7 @@ Art. 60 i 61. (pominięte)
 
 6. W rejestrze umów zamieszcza się:
 
-- **1)** numer umowy o ile taki nadano;
+- **1)** numer umowy – o ile taki nadano;
 - **2)** datę i miejsce zawarcia umowy;
 - **3)** okres obowiązywania umowy;
 - **4)** oznaczenie stron umowy, w tym przedstawicieli stron;
@@ -284,7 +295,7 @@ Art. 60 i 61. (pominięte)
 
 10. Minister właściwy do spraw finansów publicznych określi, po zasięgnięciu opinii Państwowej Komisji Wyborczej, w drodze rozporządzenia, wzór rejestru umów, mając na uwadze konieczność zapewnienia kompletności, jednolitości i przejrzystości informacji zamieszczanych w tym rejestrze oraz łatwości wyszukiwania tych informacji.
 
-**Art. 27b.** W przypadku stwierdzenia, że obowiązek prowadzenia, aktualizacji lub udostępnienia rejestru wpłat, o którym mowa w art. 25 ust. 6, lub rejestru umów, o którym mowa w art. 27a ust. 1, nie został zrealizowany, Państwowa Komisja Wyborcza wzywa partię polityczną do zrealizowania ciążącego na niej obowiązku wyznaczając dodatkowy 7-dniowy termin.
+**Art. 27b.** W przypadku stwierdzenia, że obowiązek prowadzenia, aktualizacji lub udostępnienia rejestru wpłat, o którym mowa w art. 25 ust. 6, lub rejestru umów, o którym mowa w art. 27a ust. 1, nie został zrealizowany, Państwowa Komisja Wyborcza wzywa partię polityczną do zrealizowania ciążącego na niej obowiązku – wyznaczając dodatkowy 7-dniowy termin.
 
 **Art. 27c.**
 
@@ -311,7 +322,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 29.**
 
-1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S kwotę rocznej subwencji, W liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału Wysokość kwoty za jeden głos (M) procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
+1. Wysokość rocznej subwencji, o której mowa w art. 28, dla danej partii politycznej albo koalicji wyborczej ustalana jest na zasadzie stopniowej degresji proporcjonalnie do łącznej liczby głosów ważnych oddanych na listy okręgowe kandydatów na posłów tej partii albo koalicji wyborczej, w rozbiciu na liczby głosów odpowiadające poszczególnym przedziałom określonym w procentach, według następującego wzoru: S=W ×M +W ×M +W ×M +W ×M +W ×M gdzie poszczególne symbole oznaczają: S – kwotę rocznej subwencji, W – liczby głosów kolejno obliczane dla każdego wiersza poniższej tabeli, podane odrębnie w wyniku rozbicia łącznej liczby głosów ważnych oddanych w skali kraju łącznie na listy okręgowe kandydatów na posłów danej partii politycznej albo koalicji wyborczej, odpowiednio do wyznaczonego w procentach przedziału, M – wysokość kwoty w złotych dla kolejnych wierszy poniższej tabeli: Głosy ważne oddane w całym kraju łącznie na listy okręgowe Wysokość kwoty kandydatów na posłów danej partii politycznej albo koalicji za jeden głos (M) Wiersz wyborczej w rozbiciu odpowiednio dla każdego przedziału procent liczba głosów (W) 1 do 5% 5 złotych 77 groszy 2 powyżej 5% do 10% 4 złote 61 groszy 3 powyżej 10% do 20% 4 złote 4 grosze 4 powyżej 20% do 30% 2 złote 31 groszy 5 powyżej 30% 87 groszy
 
 2. Roczna subwencja, w kwocie ustalonej na podstawie ust. 1 i art. 28, jest każdego roku w okresie kadencji Sejmu wypłacana danej partii politycznej w czterech równych kwartalnych ratach, z zastrzeżeniem art. 32.
 
@@ -368,7 +379,7 @@ Art. 60 i 61. (pominięte)
 - **2)** zakres danych zawartych w informacji i sposób ich prezentacji,
 - **3)** sposób sporządzenia informacji,
 - **4)** sposób składania informacji, w tym również drogą elektroniczną,
-- **5)** wykaz dokumentów, które należy dołączyć do informacji mając na względzie w szczególności przejrzystość i czytelność danych oraz zapewnienie możliwości rzetelnej weryfikacji danych dotyczących przeznaczenia pieniędzy z subwencji, w tym z Funduszu Eksperckiego.
+- **5)** wykaz dokumentów, które należy dołączyć do informacji – mając na względzie w szczególności przejrzystość i czytelność danych oraz zapewnienie możliwości rzetelnej weryfikacji danych dotyczących przeznaczenia pieniędzy z subwencji, w tym z Funduszu Eksperckiego.
 
 4. Informacja składana jest wraz z załączonym sprawozdaniem biegłego rewidenta, którego wybiera Państwowa Komisja Wyborcza. Koszty sporządzenia sprawozdania przez biegłego rewidenta pokrywane są przez Krajowe Biuro Wyborcze.
 
@@ -397,7 +408,7 @@ Art. 60 i 61. (pominięte)
 5. W terminie 30 dni od dnia ogłoszenia informacji, o którym mowa w art. 34 ust. 5:
 
 - **1)** partie polityczne,
-- **2)** stowarzyszenia i fundacje, które w swoich statutach przewidują działania związane z analizą finansowania partii politycznych mogą zgłaszać do Państwowej Komisji Wyborczej umotywowane pisemne zastrzeżenia co do informacji.
+- **2)** stowarzyszenia i fundacje, które w swoich statutach przewidują działania związane z analizą finansowania partii politycznych – mogą zgłaszać do Państwowej Komisji Wyborczej umotywowane pisemne zastrzeżenia co do informacji.
 
 6. Państwowa Komisja Wyborcza w terminie 60 dni od zgłoszenia zastrzeżenia, o którym mowa w ust. 5, udziela pisemnej odpowiedzi na zastrzeżenie.
 
@@ -462,7 +473,14 @@ Art. 60 i 61. (pominięte)
 
 **Art. 37.** Środki finansowe Funduszu Wyborczego partii politycznej:
 
+- **1)** w przypadku połączenia się z inną partią lub innymi partiami przekazywane są na rzecz Funduszu Wyborczego nowej partii;
+- **2)** w razie podziału partii przekazywane są na rzecz Funduszu Wyborczego nowo powstałych partii w częściach równych, chyba że partia rozwiązując się ustanowi inne proporcje podziału;
+- **3)** w razie likwidacji partii przekazywane są na rzecz instytucji charytatywnej.
+
 **Art. 37a.** Wszelkie wezwania i informacje pisemne dostarczane przez partię polityczną, mające na celu uzyskanie środków:
+
+- **1)** na wybory – muszą zawierać informacje o treści przepisów art. 25, art. 36a, art. 49c pkt 3 oraz art. 49g pkt 2;
+- **2)** na referendum – muszą zawierać informacje o treści przepisów art. 25 i art. 49c pkt 3.
 
 **Art. 38.**
 
@@ -474,7 +492,7 @@ Art. 60 i 61. (pominięte)
 - **2)** zakres danych zawartych w sprawozdaniu i sposób ich prezentacji,
 - **3)** sposób sporządzenia sprawozdania, w tym wykazów, o których mowa w tym sprawozdaniu,
 - **4)** sposób składania sprawozdania, w tym również drogą elektroniczną,
-- **5)** wykaz dokumentów, które należy dołączyć do sprawozdania mając na względzie ich przejrzystość i czytelność; wzór powinien określać w szczególności sposób odrębnego rozliczenia środków Funduszu Wyborczego partii politycznej.
+- **5)** wykaz dokumentów, które należy dołączyć do sprawozdania – mając na względzie ich przejrzystość i czytelność; wzór powinien określać w szczególności sposób odrębnego rozliczenia środków Funduszu Wyborczego partii politycznej.
 
 3. Do sprawozdania załącza się sprawozdanie biegłego rewidenta w zakresie wpływów na Fundusz Wyborczy partii politycznej. Biegłego rewidenta wybiera Państwowa Komisja Wyborcza, a koszty sporządzenia sprawozdania przez biegłego rewidenta pokrywane są przez Krajowe Biuro Wyborcze.
 
@@ -488,8 +506,8 @@ Art. 60 i 61. (pominięte)
 
 - **1)** przyjmuje sprawozdanie bez zastrzeżeń;
 - **2)** przyjmuje sprawozdanie ze wskazaniem uchybień, w szczególności w przypadku gdy:
-    - **a)** pozyskane, przyjęte lub gromadzone z naruszeniem art. 24 ust. 8, art. 25 ust. 1, art. 25 ust. 4a środki finansowe lub wartości niepieniężne nie przekraczają: 1% ogólnej kwoty przychodów partii politycznej jeśli przychody partii w okresie sprawozdawczym nie przekroczyły 1 000 000 złotych, lub 0,1% ogólnej kwoty przychodów partii politycznej jeśli przychody partii w okresie sprawozdawczym przekroczyły 1 000 000 złotych,
-    - **b)** czynności skutkujące zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonane z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, nie przekraczają: 1% ogólnej kwoty przychodów partii politycznej jeśli przychody partii w okresie sprawozdawczym nie przekroczyły 1 000 000 złotych, lub 0,1% ogólnej kwoty przychodów partii politycznej jeśli przychody partii w okresie sprawozdawczym przekroczyły 1 000 000 złotych;
+    - **a)** pozyskane, przyjęte lub gromadzone z naruszeniem art. 24 ust. 8, art. 25 ust. 1, art. 25 ust. 4a środki finansowe lub wartości niepieniężne nie przekraczają: – 1% ogólnej kwoty przychodów partii politycznej – jeśli przychody partii w okresie sprawozdawczym nie przekroczyły 1 000 000 złotych, lub – 0,1% ogólnej kwoty przychodów partii politycznej – jeśli przychody partii w okresie sprawozdawczym przekroczyły 1 000 000 złotych,
+    - **b)** czynności skutkujące zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonane z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, nie przekraczają: – 1% ogólnej kwoty przychodów partii politycznej – jeśli przychody partii w okresie sprawozdawczym nie przekroczyły 1 000 000 złotych, lub – 0,1% ogólnej kwoty przychodów partii politycznej – jeśli przychody partii w okresie sprawozdawczym przekroczyły 1 000 000 złotych;
 
 - **3)** odrzuca sprawozdanie. Przepisy art. 34a ust. 2–6 stosuje się odpowiednio.
 
@@ -502,7 +520,7 @@ Art. 60 i 61. (pominięte)
 - **5)** gromadzenia lub dokonywania wydatków na kampanie wyborcze z pominięciem Funduszu Wyborczego;
 - **6)** gromadzenia środków finansowych Funduszu Wyborczego poza oddzielnym rachunkiem bankowym z naruszeniem przepisu art. 36 ust. 3;
 - **7)** przyjmowania wartości niepieniężnych z naruszeniem przepisów art. 25 ust. 4a;
-- **8)** finansowania komitetu wyborczego tworzonego przez partię polityczną lub komitetu wyborczego tworzonego przez koalicję partii politycznych, w skład której wchodziła partia, z naruszeniem przepisów, o których mowa w art. 144 § 1 pkt 3 lit. b, c i e ustawy z dnia 5 stycznia 2011 r. Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497).
+- **8)** finansowania komitetu wyborczego tworzonego przez partię polityczną lub komitetu wyborczego tworzonego przez koalicję partii politycznych, w skład której wchodziła partia, z naruszeniem przepisów, o których mowa w art. 144 § 1 pkt 3 lit. b, c i e ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497).
 
 3. Odrzucenie sprawozdania następuje również w przypadku poręczenia kredytu z naruszeniem przepisów art. 25a, a także dokonania czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej przez inną osobę aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub dokonanej z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4.
 
@@ -514,7 +532,7 @@ Art. 60 i 61. (pominięte)
 
 2. W przypadku, o którym mowa w ust. 1, Sąd po przeprowadzeniu rozprawy wydaje postanowienie o wykreśleniu wpisu partii politycznej z ewidencji.
 
-**Art. 38d.** W przypadku odrzucenia przez Państwową Komisję Wyborczą sprawozdania lub w razie skargi na postanowienie o odrzuceniu sprawozdania w przypadku oddalenia skargi przez Sąd Najwyższy partia polityczna traci prawo do otrzymania subwencji w następnych 3 latach, w których uprawniona jest do jej otrzymywania. Termin ten liczy się od początku kwartału następującego po kwartale, w którym nastąpiło odrzucenie sprawozdania, a w razie złożenia skargi na postanowienie o odrzuceniu sprawozdania termin ten liczy się od początku kwartału następującego po kwartale, w którym nastąpiło oddalenie skargi przez Sąd Najwyższy.
+**Art. 38d.** W przypadku odrzucenia przez Państwową Komisję Wyborczą sprawozdania lub – w razie skargi na postanowienie o odrzuceniu sprawozdania – w przypadku oddalenia skargi przez Sąd Najwyższy partia polityczna traci prawo do otrzymania subwencji w następnych 3 latach, w których uprawniona jest do jej otrzymywania. Termin ten liczy się od początku kwartału następującego po kwartale, w którym nastąpiło odrzucenie sprawozdania, a w razie złożenia skargi na postanowienie o odrzuceniu sprawozdania termin ten liczy się od początku kwartału następującego po kwartale, w którym nastąpiło oddalenie skargi przez Sąd Najwyższy.
 
 **Art. 39.** (uchylony)
 
@@ -538,7 +556,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 40.** Do opodatkowania partii politycznych stosuje się przepisy o podatku dochodowym od osób prawnych.
 
-**Art. 41.** Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, zasady prowadzenia rachunkowości przez partię polityczną, a w szczególności dokumentowania i ewidencji przychodów, wydatków, rozrachunków i składników majątkowych oraz sporządzania sprawozdań finansowych w tym ewidencji i rozliczania otrzymanych środków publicznych.
+**Art. 41.** Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, zasady prowadzenia rachunkowości przez partię polityczną, a w szczególności dokumentowania i ewidencji przychodów, wydatków, rozrachunków i składników majątkowych oraz sporządzania sprawozdań finansowych – w tym ewidencji i rozliczania otrzymanych środków publicznych.
 
 #### Rozdział 5 Postępowanie w sprawie zgodności z Konstytucją celów lub działalności partii politycznych
 
@@ -552,6 +570,9 @@ Art. 60 i 61. (pominięte)
 
 **Art. 45.** Partia polityczna podlega likwidacji wskutek:
 
+- **1)** rozwiązania mocą uchwały uprawnionego statutowego organu partii;
+- **2)** postanowienia Sądu o wykreśleniu wpisu partii z ewidencji z przyczyn, o których mowa w art. 20, 21, 39 i 44.
+
 **Art. 46.**
 
 1. W razie rozwiązania się partii politycznej na podstawie własnej uchwały właściwy organ partii niezwłocznie przesyła Sądowi uchwałę o samorozwiązaniu partii oraz o wyznaczeniu jej likwidatora.
@@ -564,7 +585,7 @@ Art. 60 i 61. (pominięte)
 
 **Art. 48.** Koszt likwidacji pokrywa się z majątku likwidowanej partii politycznej. Jeżeli majątek partii wystarcza jedynie na pokrycie części kosztów jej likwidacji, pozostałą część tych kosztów pokrywa Skarb Państwa.
 
-**Art. 49.** W sprawach likwidacji partii politycznej, nieuregulowanych w ustawie, stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
+**Art. 49.** W sprawach likwidacji partii politycznej, nieuregulowanych w ustawie, stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261).
 
 #### Rozdział 6a Przepisy karne
 
@@ -572,7 +593,15 @@ Art. 60 i 61. (pominięte)
 
 **Art. 49b.** Kto:
 
+- **1)** w imieniu partii politycznej użycza posiadane przez nią nieruchomości lub lokale z innym przeznaczeniem niż na biura poselskie, senatorskie lub biura radnych gminy, powiatu albo województwa,
+- **2)** narusza zasady określone w art. 24 ust. 8 dotyczące sposobu gromadzenia środków finansowych partii politycznej, podlega karze grzywny.
+
 **Art. 49c.** Kto:
+
+- **1)** przeznacza majątek partii politycznej na cele inne niż określone w art. 24 ust. 2,
+- **2)** w imieniu partii politycznej prowadzi działalność gospodarczą z naruszeniem przepisu art. 24 ust. 3,
+- **3)** przekazuje partii politycznej albo przyjmuje w imieniu partii politycznej środki finansowe lub wartości niepieniężne z naruszeniem przepisów art. 25,
+- **4)** dokonuje czynności skutkującej zmniejszeniem wartości zobowiązań partii politycznej będąc osobą inną aniżeli wymieniona w art. 25 ust. 1 i art. 25a ust. 1 lub z naruszeniem limitu wpłat, o którym mowa w art. 25 ust. 4, podlega grzywnie od 1000 do 100 000 złotych.
 
 **Art. 49d.** Kto nie wykonuje lub nie dopuszcza do wykonania obowiązku sporządzenia i złożenia informacji, o której mowa w art. 34 ust. 1, albo podaje w niej nieprawdziwe dane, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
@@ -580,11 +609,20 @@ Art. 60 i 61. (pominięte)
 
 **Art. 49f.** Kto:
 
+- **1)** wydatkuje środki partii politycznej w celu finansowania kampanii wyborczych bez pośrednictwa Funduszu Wyborczego,
+- **2)** nie wykonuje lub nie dopuszcza do wykonania obowiązku sporządzenia i złożenia sprawozdania, o którym mowa w art. 38, albo podaje w nim nieprawdziwe dane, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
 **Art. 49g.** Kto:
+
+- **1)** narusza zasady określone w art. 36 ust. 3 dotyczące sposobu gromadzenia środków finansowych Funduszu Wyborczego,
+- **2)** dokonuje wpłat na Fundusz Wyborczy w wysokości przekraczającej limity określone w art. 36a ust. 1 lub 2,
+- **3)** nie wprowadza zastrzeżenia do umowy rachunku bankowego zawartej przez niego w imieniu Funduszu Wyborczego, że wpłaty na rzecz Funduszu Wyborczego mogą być dokonywane tylko w sposób określony w art. 36a ust. 3, podlega karze grzywny.
 
 **Art. 49h.** Do postępowania w sprawach, o których mowa w art. 49b oraz art. 49g, stosuje się przepisy o postępowaniu w sprawach o wykroczenia.
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
+
+**Art. 50–59.** (pominięte)
 
 #### Rozdział 8 Przepisy przejściowe i końcowe
 

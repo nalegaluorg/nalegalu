@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o nadzorze nad rynkiem finansowym
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze nad rynkiem finansowym
 
 *USTAWA z dnia 21 lipca 2006 r.*
 
@@ -26,210 +26,6 @@ source: pdf
 | Data wydania | 2025-05-16 |
 | Ostatnia zmiana | 2026-06-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/640/text.pdf) |
-
-Art. 18za. Ilekroć w niniejszym rozdziale jest mowa o podmiocie finansowym, należy przez to rozumieć podmioty finansowe, o których mowa w art. 2 ust. 2 rozporządzenia 2022/2554, z wyłączeniem podmiotów, o których mowa w art. 2 ust. 3 rozporządzenia 2022/2554.
-Art. 18zb. W ramach wykonywania nadzoru, o którym mowa w art. 1 ust. 2 pkt 16, Komisja może żądać od podmiotu finansowego informacji, dokumentów lub wyjaśnień w zakresie określonym w przepisach rozporządzenia 2022/2554.
-Art. 18zc. 1. Komisja może przeprowadzać kontrolę zgodności działalności podmiotów finansowych z przepisami rozporządzenia 2022/2554 w zakresie zapewnienia operacyjnej odporności cyfrowej sektora finansowego.
-2. Pracownicy Urzędu Komisji wykonują czynności kontrolne po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia do kontroli wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
-3. Upoważnienie do kontroli, o którym mowa w ust. 2, zawiera:
-1) wskazanie podstawy prawnej przeprowadzenia kontroli;
-2) oznaczenie organu kontroli;
-3) wskazanie daty i miejsca jego wystawienia;
-4) imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
-5) oznaczenie kontrolowanego podmiotu finansowego;
-6) wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
-7) wskazanie zakresu przedmiotowego kontroli.
-4. W toku kontroli pracownicy, o których mowa w ust. 2, mają prawo:
-1) wstępu na grunt oraz do budynków, lokali i innych pomieszczeń kontrolowanego podmiotu finansowego;
-2) żądania od kontrolowanego podmiotu finansowego lub osoby przez niego upoważnionej udzielenia ustnych lub pisemnych wyjaśnień związanych z przedmiotem kontroli;
-3) uzyskania wyjaśnień od osób innych niż wymienione w pkt 2, pod warunkiem że wyrażą na to zgodę;
-4) wglądu do dokumentów związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu finansowego, oraz żądania sporządzenia na koszt tego podmiotu kopii tych dokumentów lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli;
-5) żądania od kontrolowanego podmiotu finansowego lub osoby przez niego upoważnionej poświadczenia za zgodność z oryginałem pozyskiwanych od tego podmiotu kopii dokumentów, o których mowa w pkt 4;
-6) wglądu do danych zawartych w systemach informatycznych, związanych z przedmiotem kontroli, w szczególności dokumentów wewnętrznych potwierdzających spełnianie obowiązków w zakresie zarządzania ryzykiem związanym z technologiami informacyjno-komunikacyjnymi, o których mowa w rozporządzeniu 2022/2554, zwanymi dalej „ICT”, lub danych dotyczących poważnych incydentów związanych z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554 oraz znaczących cyberzagrożeń w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli.
-5. Dokumenty i informacje związane z kontrolą, w tym upoważnienie do kontroli, protokół kontroli i zalecenia pokontrolne, są sporządzane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem w treści pisma osoby opatrującej pismo tą pieczęcią.
-6. Dokumenty i informacje, o których mowa w ust. 5, sporządzone na piśmie utrwalonym w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
-Art. 18zd. 1. Ustalenia kontroli zamieszcza się w protokole kontroli.
-2. Protokół kontroli sporządza się w terminie 30 dni roboczych od dnia zakończenia czynności kontrolnych.
-3. Protokół kontroli zawiera:
-1) oznaczenie kontrolowanego podmiotu finansowego;
-2) imię i nazwisko osoby reprezentującej kontrolowany podmiot finansowy lub nazwę organu reprezentującego ten podmiot;
-3) imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
-4) wskazanie daty rozpoczęcia i daty zakończenia czynności kontrolnych;
-5) wskazanie zakresu przedmiotowego kontroli;
-6) opis stanu faktycznego ustalonego w toku kontroli oraz inne informacje mające istotne znaczenie dla przeprowadzonej kontroli;
-7) pouczenie kontrolowanego podmiotu finansowego o prawie wniesienia zastrzeżeń do protokołu.
-4. Protokół kontroli podpisują pracownik Urzędu Komisji wykonujący czynności kontrolne oraz osoba reprezentująca kontrolowany podmiot finansowy.
-5. Protokół kontroli doręcza się kontrolowanemu podmiotowi finansowemu.
-Przed podpisaniem protokołu kontroli kontrolowany podmiot finansowy może w terminie 14 dni roboczych od dnia przedstawienia mu go do podpisu złożyć do niego pisemne zastrzeżenia.
-6. W razie złożenia zastrzeżeń, o których mowa w ust. 5, Komisja dokonuje ich analizy w terminie 30 dni od dnia złożenia zastrzeżeń i w razie potrzeby podejmuje dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia protokół kontroli w formie aneksu do protokołu kontroli.
-7. Odmowa podpisania protokołu kontroli przez kontrolowany podmiot finansowy lub zwłoka w jego podpisaniu nie wpływa na prowadzenie przez Komisję dalszych czynności kontrolnych, w szczególności na wydanie przez Komisję zaleceń pokontrolnych.
-Art. 18ze. 1. Jeżeli na podstawie informacji zgromadzonych w toku kontroli Komisja uzna, że mogło dojść do naruszenia przez kontrolowany podmiot finansowy przepisów rozporządzenia 2022/2554, przepisów aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisów aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, lub zidentyfikuje inne nieprawidłowości dotyczące zarządzania przez kontrolowany podmiot finansowy ryzykiem związanym z ICT, przekazuje temu podmiotowi zalecenia pokontrolne dotyczące usunięcia nieprawidłowości.
-2. Kontrolowany podmiot finansowy w wyznaczonym terminie, nie krótszym niż 21 dni, informuje Komisję o sposobie wykonania zaleceń pokontrolnych.
-Art. 18zf. W postępowaniu wyjaśniającym, o którym mowa w art. 18a, prowadzonym w celu ustalenia, czy istnieją podstawy do wszczęcia postępowania administracyjnego w sprawie naruszenia przepisów art. 5–10, art. 11 ust. 1–10, art. 12–14, art. 16 ust. 1 i 2, art. 17, art. 18 ust. 1 i 2, art. 19 ust. 1–5, art. 23–25, art. 26 ust. 1–8, art. 27, art. 28 ust. 1–8, art. 29, art. 30 ust. 1–3, art. 31 ust. 12, art. 42 oraz art. 45 ust. 3 rozporządzenia 2022/2554, przepisów aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisów aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, Przewodniczący Komisji może zażądać od dostawcy usług telekomunikacyjnych udostępnienia informacji stanowiących tajemnicę komunikacji elektronicznej w rozumieniu art. 386 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r.
-poz. 637 i 820), przechowywanych przez dostawcę usług telekomunikacyjnych, dotyczących podmiotu dokonującego czynności faktycznych lub prawnych mających związek z wyjaśnianymi okolicznościami, w tym danych abonenta pozwalających na jego identyfikację, czasu ich dokonania i innych informacji związanych z połączeniem lub przekazem, niestanowiących treści komunikatu elektronicznego.
-Art. 18zg. 1. Podmiot finansowy zgłasza Komisji poważny incydent związany z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 1 akapit pierwszy rozporządzenia 2022/2554, przekazując wstępne powiadomienie, i przekazuje sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554.
-2. Komisja przekazuje niezwłocznie Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Ministra Obrony Narodowej, zwanemu dalej „CSIRT MON”, Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy, zwanemu dalej „CSIRT NASK”, albo Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanemu dalej „CSIRT GOV”, o których mowa odpowiednio w art. 2 pkt 1, 2 i 3 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, zgodnie z ich właściwością, wstępne powiadomienie i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, pochodzące od:
-1) podmiotu finansowego będącego podmiotem kluczowym,
-2) podmiotu finansowego będącego podmiotem ważnym – w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
-3. W uzasadnionych przypadkach Komisja może przekazać niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, wstępne powiadomienia i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, pochodzące od podmiotu finansowego niebędącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
-4. (uchylony)
-5. (uchylony)
-6. Komisja przekazuje organom wskazanym w art. 19 ust. 6 rozporządzenia 2022/2554, w sposób określony w tym przepisie, szczegółowe informacje na temat poważnego incydentu związanego z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554, zawierające taki sam zakres danych, jak informacje zawarte we wstępnych powiadomieniach i sprawozdaniach, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554.
-7. Wstępne powiadomienia i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, są przekazywane w postaci elektronicznej, a w przypadku braku możliwości przekazania ich w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, w terminach i z wykorzystaniem wzorów określonych we wspólnych regulacyjnych standardach technicznych i wspólnych wykonawczych standardach technicznych, o których mowa w art. 20 rozporządzenia 2022/2554.
-Art. 18zh. 1. Podmiot finansowy może przekazać Komisji powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554.
-2. Komisja przekazuje niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, pochodzące od podmiotu finansowego będącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
-3. W uzasadnionych przypadkach Komisja może przekazać niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, pochodzące od podmiotu finansowego niebędącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r.
-o krajowym systemie cyberbezpieczeństwa.
-4. Powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, jest przekazywane w terminach i z wykorzystaniem wzorów określonych we wspólnych regulacyjnych standardach technicznych i wspólnych wykonawczych standardach technicznych, o których mowa w art. 20 rozporządzenia 2022/2554, w postaci elektronicznej, a w przypadku braku możliwości przekazania go w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji.
-Art. 18zi. 1. Podmioty finansowe przekazują Komisji informacje, o których mowa w:
-1) art. 28 ust. 3 akapit trzeci rozporządzenia 2022/2554, w terminie określonym w decyzjach Europejskiego Urzędu Nadzoru Bankowego, Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych oraz Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych;
-2) art. 28 ust. 3 akapit piąty rozporządzenia 2022/2554, niezwłocznie, nie później niż w terminie 14 dni przed dniem związania się postanowieniami umownymi albo od dnia, w którym dana funkcja stała się krytyczna lub istotna.
-2. Centralne depozyty papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi przekazują Komisji kopie wyników testów ciągłości działania w zakresie ICT lub podobnych testów zgodnie z art. 11 ust. 9 rozporządzenia 2022/2554.
-Art. 18zj. Podmioty finansowe powiadamiają Komisję o przystąpieniu do ustaleń dotyczących wymiany informacji, o których mowa w art. 45 ust. 1 rozporządzenia 2022/2554, oraz o ustaniu członkostwa, zgodnie z art. 45 ust. 3 rozporządzenia 2022/2554.
-Art. 18zk. 1. Spośród podmiotów finansowych wymienionych w art. 26 ust. 1 rozporządzenia 2022/2554 Komisja w oparciu o ocenę elementów wskazanych w art. 26 ust. 8 akapit trzeci rozporządzenia 2022/2554 określa, w drodze decyzji, podmiot finansowy obowiązany do przeprowadzenia zaawansowanych testów, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554, z uwzględnieniem kryteriów określonych w art. 4 ust. 2 rozporządzenia 2022/2554.
-2. Podmiot finansowy określony zgodnie z ust. 1 przekazuje Komisji, w celu zatwierdzenia, wynik oceny dokonanej zgodnie z art. 26 ust. 2 akapit trzeci rozporządzenia 2022/2554, wskazującej, które krytyczne lub istotne funkcje należy objąć zaawansowanymi testami, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554.
-3. Podmiot finansowy określony zgodnie z ust. 1 przekazuje Komisji informacje, o których mowa w art. 26 ust. 6 rozporządzenia 2022/2554.
-4. Komisja przekazuje podmiotowi finansowemu określonemu zgodnie z ust. 1 poświadczenie, o którym mowa w art. 26 ust. 7 rozporządzenia 2022/2554.
-5. Komisja w oparciu o ocenę elementów wskazanych w art. 26 ust. 1 rozporządzenia 2022/2554 może zalecić podmiotowi finansowemu określonemu zgodnie z ust. 1 zmniejszenie albo zwiększenie częstotliwości przeprowadzania zaawansowanych testów, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554.
-6. W przypadku gdy podmiot finansowy określony zgodnie z ust. 1 zamierza korzystać z usług testerów wewnętrznych zgodnie z art. 26 ust. 8 rozporządzenia 2022/2554, przekazuje do zatwierdzenia Komisji informacje o zamiarze korzystania z ich usług. Komisja zatwierdza zamiar korzystania z usług testerów wewnętrznych.
-7. Komisja przed zatwierdzeniem zamiaru korzystania z usług testerów wewnętrznych, o którym mowa w ust. 6, ocenia, czy testerzy wewnętrzni spełniają wymogi określone w art. 27 ust. 1 i ust. 2 lit. b oraz c rozporządzenia 2022/2554.
-Art. 18zl. 1. Komisja informuje podmiot finansowy o ryzyku zidentyfikowanym w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, w odniesieniu do kluczowego zewnętrznego dostawcy usług ICT w rozumieniu art. 3 pkt 23 rozporządzenia 2022/2554, zwanego dalej „kluczowym zewnętrznym dostawcą usług ICT”, z którym ten podmiot finansowy zawarł umowę.
-2. Podmiot finansowy informuje Komisję o sposobie uwzględnienia ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, w szczególności o zmianach postanowień umowy zawartej z kluczowym zewnętrznym dostawcą usług ICT.
-3. W przypadku gdy Komisja uzna, że podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, lub uwzględnił je w sposób niewystarczający, informuje podmiot finansowy o możliwości wydania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554.
-4. Przed wydaniem decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, Komisja może skonsultować się z organami, o których mowa w art. 42 ust. 5 rozporządzenia 2022/2554. Przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
-5. W terminie 60 dni od dnia otrzymania przez podmiot finansowy informacji, o której mowa w ust. 3, Komisja może wydać decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu tymczasowe zawieszenie, w całości albo części, korzystania z usługi świadczonej przez kluczowego zewnętrznego dostawcę usług ICT lub jej wdrażania albo nakazującą podmiotowi finansowemu wypowiedzenie, w całości albo części, postanowień umowy z kluczowym zewnętrznym dostawcą usług ICT.
-6. Komisja, wydając decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu tymczasowe zawieszenie, w całości albo części, korzystania z usługi świadczonej przez kluczowego zewnętrznego dostawcę usług ICT lub jej wdrażania, określa termin obowiązywania tej decyzji.
-7. W przypadku gdy ryzyko zidentyfikowane w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, zostało wyeliminowane przed upływem terminu obowiązywania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, Komisja stwierdza wygaśnięcie tej decyzji.
-8. W przypadku gdy podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, albo uwzględnił je w sposób niewystarczający, Komisja może jednorazowo przedłużyć, w drodze decyzji, termin obowiązywania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, i określić nowy termin jej obowiązywania.
-9. W przypadku gdy podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, albo uwzględnił je w sposób niewystarczający w terminie przedłużonym zgodnie z ust. 8, Komisja wydaje decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu wypowiedzenie, w całości albo części, postanowień umowy z kluczowym zewnętrznym dostawcą usług ICT.
-10. Komisja, wydając decyzję, o której mowa w ust. 8, oraz decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, uwzględnia okoliczności określone w art. 42 ust. 8 rozporządzenia 2022/2554.
-11. Decyzja wydana na podstawie ust. 8 oraz decyzja, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, są natychmiast wykonalne.
-12. Komisja zgodnie z art. 42 ust. 9 rozporządzenia 2022/2554 informuje członków forum nadzoru, o których mowa w art. 32 ust. 4 lit. a–c rozporządzenia 2022/2554, oraz wspólną sieć nadzoru ustanowioną zgodnie z art. 34 ust. 1 rozporządzenia 2022/2554 o wydaniu decyzji na podstawie ust. 8 oraz decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554.
-13. W celu stosowania spójnych środków następczych w zakresie nadzoru Komisja może uwzględnić wydane przez wiodący organ nadzorczy, wyznaczony zgodnie z art. 31 ust. 1 lit. b rozporządzenia 2022/2554, niewiążące i niejawne opinie na potrzeby właściwych organów, o których mowa w art. 46 rozporządzenia 2022/2554, zgodnie z art. 42 ust. 7 rozporządzenia 2022/2554.
-Art. 18zm. 1. W przypadku naruszenia obowiązku, o którym mowa w przepisach art. 5–10, art. 11 ust. 1–10, art. 12–14, art. 16 ust. 1 i 2, art. 17, art. 18 ust. 1 i 2, art. 19 ust. 1–5, art. 23–25, art. 26 ust. 1–8, art. 27, art. 28 ust. 1–8, art. 29, art. 30 ust. 1–3, art. 31 ust. 12, art. 42 oraz art. 45 ust. 3 rozporządzenia 2022/2554, przepisach aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisach aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, Komisja może, w drodze decyzji:
-1) nakazać osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej zaprzestanie danego zachowania oraz powstrzymanie się od takiego zachowania w przyszłości;
-2) zakazać osobie odpowiedzialnej za to naruszenie pełnienia funkcji członka zarządu lub rady nadzorczej albo innej funkcji kierowniczej podmiotu finansowego przez okres nie krótszy niż miesiąc i nie dłuższy niż rok;
-3) nałożyć karę pieniężną do wysokości nieprzekraczającej:
-a) w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej: – kwoty 20 869 500 zł lub 10 % całkowitego rocznego przychodu, a w przypadku zakładu ubezpieczeń lub zakładu reasekuracji – 10 % składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, albo – dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku tego naruszenia – w przypadku gdy jest możliwe ich ustalenie,
-b) w przypadku osoby fizycznej odpowiedzialnej za to naruszenie, która w tym okresie pełniła obowiązki członka zarządu albo innego organu zarządzającego tego podmiotu finansowego – kwoty 3 042 410 zł,
-c) w przypadku innej osoby fizycznej odpowiedzialnej za to naruszenie – sześciokrotności kwoty otrzymywanego przez ukaranego wynagrodzenia, obliczanego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
-2. W przypadku gdy osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, o których mowa w ust. 1 pkt 3 lit. a, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r.
-o rachunkowości, karę pieniężną, o której mowa w ust. 1 pkt 3 lit. a, ustala się na podstawie całkowitych rocznych przychodów, a w przypadku zakładu ubezpieczeń lub zakładu reasekuracji – składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej za rok obrotowy, zatwierdzonym przez organ zatwierdzający jednostki dominującej.
-3. Komisja, wydając decyzje, o których mowa w ust. 1, uwzględnia okoliczności, o których mowa w art. 51 ust. 2 rozporządzenia 2022/2554.
-4. Decyzje, o których mowa w ust. 1 pkt 1 i 2, są natychmiast wykonalne.
-5. Komisja udostępnia zgodnie z art. 54 rozporządzenia 2022/2554 na swojej stronie internetowej komunikaty o decyzjach, o których mowa w ust. 1, maksymalnie przez okres 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie maksymalnie przez rok.
-Art. 18zn. Komisja w zakresie nadzoru przewidzianego przepisami rozporządzenia 2022/2554 współpracuje oraz wymienia informacje i dokumenty z:
-1) właściwymi organami, o których mowa w art. 46 rozporządzenia 2022/2554, państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Europejskim Urzędem Nadzoru Bankowego, Europejskim Urzędem Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych oraz bankami centralnymi Europejskiego Systemu Banków Centralnych w zakresie niezbędnym do wykonywania obowiązków wynikających z rozporządzenia 2022/2554;
-2) odpowiednim wiodącym organem nadzorczym wyznaczonym zgodnie z art. 31 ust. 1 lit. b rozporządzenia 2022/2554 oraz Komisją Europejską;
-3) organami właściwymi do spraw cyberbezpieczeństwa, o których mowa w art. 41 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, CSIRT MON, CSIRT NASK, CSIRT GOV oraz Pojedynczym Punktem Kontaktowym do spraw cyberbezpieczeństwa, o którym mowa w art. 4 pkt 18 tej ustawy;
-4) organami, o których mowa w art. 17 i art. 17b–17g.
-Art. 18zo. Do kontroli, o której mowa w art. 18zc ust. 1, w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
-Art. 18zp. Przepisów niniejszego rozdziału nie stosuje się do:
-1) emitentów europejskich zielonych obligacji będących papierami wartościowymi, o których mowa w art. 1 ust. 2 lit. b oraz d rozporządzenia 2017/1129;
-2) jednostek inicjujących w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402, korzystających ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”, będących papierami wartościowymi, o których mowa w art. 1 ust. 2 lit. d rozporządzenia 2017/1129, wyłącznie w zakresie tych papierów wartościowych.
-Art. 18zq. 1. Komisja może przeprowadzać kontrolę:
-1) emitenta europejskich zielonych obligacji w zakresie wypełniania obowiązków wynikających z przepisów tytułu II rozdziału 2 rozporządzenia 2023/2631;
-2) jednostki specjalnego przeznaczenia do celów sekurytyzacji w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2402, która emituje obligacje sekurytyzacyjne, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mające oznakowanie „europejska zielona obligacja” lub „EuGB”, w zakresie wypełniania obowiązków wynikających z art. 14 ust. 1, art. 15, art. 18 i art. 19 rozporządzenia 2023/2631;
-3) jednostki inicjującej w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402 w zakresie wypełniania obowiązków wynikających z przepisów tytułu II rozdziału 2, art. 18 i art. 19 rozporządzenia 2023/2631 – w przypadku gdy korzysta ona ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”;
-4) emitenta obligacji, w tym jednostki specjalnego przeznaczenia do celów sekurytyzacji w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2402, który korzysta ze wspólnych wzorów formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, w zakresie zgodności ujawnianych informacji z tymi wzorami formularzy.
-2. Pracownicy Urzędu Komisji wykonują czynności kontrolne po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia do kontroli wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
-3. Upoważnienie do kontroli, o którym mowa w ust. 2, zawiera:
-1) wskazanie podstawy prawnej przeprowadzenia kontroli;
-2) oznaczenie organu kontroli;
-3) wskazanie daty i miejsca jego wystawienia;
-4) imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
-5) oznaczenie kontrolowanego podmiotu;
-6) wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
-7) wskazanie zakresu przedmiotowego kontroli.
-4. W toku kontroli pracownicy, o których mowa w ust. 2, mają prawo:
-1) wstępu na grunt oraz do budynków, lokali i innych pomieszczeń kontrolowanego podmiotu;
-2) żądania od kontrolowanego podmiotu lub od osoby przez niego upoważnionej udzielenia ustnych lub pisemnych wyjaśnień związanych z przedmiotem kontroli;
-3) wglądu do dokumentów związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu, oraz żądania sporządzenia na koszt tego podmiotu kopii tych dokumentów lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli;
-4) żądania od kontrolowanego podmiotu lub osoby przez niego upoważnionej poświadczenia za zgodność z oryginałem pozyskiwanych od tego podmiotu kopii dokumentów, o których mowa w pkt 3;
-5) wglądu do danych zawartych w systemie teleinformatycznym związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu, oraz żądania sporządzenia na koszt tego podmiotu kopii tych danych lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli.
-5. Dokumenty i informacje związane z kontrolą, w tym upoważnienie do kontroli, protokół kontroli i zalecenia pokontrolne, są sporządzane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem w treści pisma osoby opatrującej pismo tą pieczęcią.
-6. Dokumenty i informacje, o których mowa w ust. 5, sporządzone na piśmie utrwalonym w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
-7. Przekazanie Komisji informacji na podstawie przepisów rozporządzenia 2023/2631 nie narusza obowiązku zachowania tajemnicy zawodowej, a także innych obowiązków zachowania poufności informacji, wynikających z obowiązujących przepisów prawa lub umowy. Przekazanie Komisji informacji na podstawie przepisów rozporządzenia 2023/2631 nie może stanowić przyczyny rozwiązania z osobą przekazującą informacje stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze.
-Art. 18zr. Do kontroli, o której mowa w art. 18zq ust. 1, w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
-Art. 18zs. 1. Na żądanie Komisji lub osoby przez nią upoważnionej osoby uprawnione do reprezentowania podmiotu, o którym mowa w art. 18zq ust. 1, lub wchodzące w skład jego organów zarządzających i nadzorczych albo pozostające z tym podmiotem w stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze są obowiązane do niezwłocznego sporządzenia i przekazania na koszt podmiotu, o którym mowa w art. 18zq ust. 1, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień związanych z wypełnianiem obowiązków, o których mowa w art. 18zq ust. 1.
-2. Obowiązek, o którym mowa w ust. 1, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania firmy audytorskiej lub pozostających z tą firmą w stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, w zakresie dotyczącym czynności podejmowanych przez te osoby lub tę firmę w związku z wykonywaniem na rzecz podmiotu, o którym mowa w art. 18zq ust. 1, czynności rewizji finansowej, o których mowa w art. 47 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, lub świadczeniem na jego rzecz innych usług wymienionych w art. 47 ust. 2 tej ustawy. Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
-Art. 18zt. 1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, nie udostępnia na swojej stronie internetowej:
-1) arkusza informacyjnego europejskiej zielonej obligacji, o którym mowa w art. 10 ust. 1 lit. a rozporządzenia 2023/2631, albo gdy udostępniony arkusz nie zawiera informacji, o których mowa w załączniku I do rozporządzenia 2023/2631,
-2) wyników kontroli przedemisyjnej, o których mowa w art. 15 ust. 1 lit. b rozporządzenia 2023/2631, wyników kontroli poemisyjnej, o których mowa w art. 11 ust. 8 rozporządzenia 2023/2631, lub wyników kontroli sprawozdania dotyczącego wpływu, o których mowa w art. 12 ust. 3 rozporządzenia 2023/2631, wraz z zawartymi w nich ocenami,
-3) sprawozdania z alokacji, o którym mowa w art. 11 ust. 1 rozporządzenia 2023/2631, albo gdy udostępnione sprawozdanie nie zawiera informacji, o których mowa w załączniku II do rozporządzenia 2023/2631,
-4) sprawozdania dotyczącego wpływu, o którym mowa w art. 12 ust. 1 rozporządzenia 2023/2631, albo gdy udostępnione sprawozdanie nie zawiera informacji, o których mowa w załączniku III do rozporządzenia 2023/2631 – Komisja może, w drodze decyzji, nakazać podmiotowi udostępnienie tych dokumentów albo zawarcie w tych dokumentach wymaganych informacji.
-2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1–3, na piśmie utrwalonym w postaci papierowej albo elektronicznej udostępnienie dokumentów, o których mowa w ust. 1, albo zawarcie w tych dokumentach wymaganych informacji.
-3. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, narusza obowiązek, o którym mowa w art. 15 ust. 4 rozporządzenia 2023/2631, Komisja może, w drodze decyzji, nakazać temu podmiotowi przekazanie Komisji informacji zgodnie z art. 15 ust. 4 rozporządzenia 2023/2631.
-4. Przed wydaniem decyzji, o której mowa w ust. 3, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1–3, na piśmie utrwalonym w postaci papierowej albo elektronicznej przekazanie Komisji informacji zgodnie z art. 15 ust. 4 rozporządzenia 2023/2631.
-Art. 18zu. 1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, narusza obowiązki, o których mowa w art. 21 rozporządzenia 2023/2631, Komisja może, w drodze decyzji, nakazać temu podmiotowi zawarcie we wspólnych wzorach formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, wymaganych informacji w ramach okresowego ujawniania informacji po emisji.
-2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 4, na piśmie utrwalonym w postaci papierowej albo elektronicznej zawarcie we wspólnych wzorach formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, wymaganych informacji w ramach okresowego ujawniania informacji po emisji.
-Art. 18zv. 1. W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przez podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, obowiązków, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, Komisja może, w drodze decyzji:
-1) nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r.
-o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub innemu podmiotowi działającemu w ich imieniu lub na ich zlecenie wstrzymanie rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji lub przerwanie jej prowadzenia na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
-2) zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r.
-o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub innemu podmiotowi działającemu w ich imieniu lub na ich zlecenie rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji lub nakazać przerwanie jej prowadzenia, lub
-3) nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub innemu podmiotowi uczestniczącemu w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, wstrzymanie rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo przerwanie ich przebiegu na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
-4) zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub innemu podmiotowi uczestniczącemu w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo dalszego ich prowadzenia, lub
-5) nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r.
-o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiotowi występującemu w ich imieniu lub na ich zlecenie wstrzymanie ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
-6) zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r.
-o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiotowi występującemu w ich imieniu lub na ich zlecenie ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym.
-2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić na piśmie utrwalonym w postaci papierowej albo elektronicznej zaprzestanie naruszania obowiązków wynikających z przepisów tytułu II rozdziału 2 oraz art. 18 i art. 19 rozporządzenia 2023/2631.
-3. Po otrzymaniu zalecenia, o którym mowa w ust. 2:
-1) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, powstrzymują się od rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji albo przerywają jej prowadzenie,
-2) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, powstrzymują się od rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo przerywają ich przebieg,
-3) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, powstrzymują się od ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym – do czasu usunięcia wskazanych w zaleceniu naruszeń, jeżeli jest to konieczne do usunięcia tych naruszeń.
-4. W związku z daną emisją europejskich zielonych obligacji Komisja może wielokrotnie zastosować środki przewidziane w ust. 1 i 2.
-Art. 18zw. 1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1, nie przestrzega przepisów rozporządzenia 2023/2631, Komisja może, w drodze decyzji, zdecydować o podaniu do publicznej wiadomości, na koszt tego podmiotu, informacji o nieprzestrzeganiu przez ten podmiot przepisów rozporządzenia 2023/2631, wskazując naruszenia prawa, oraz zobowiązać ten podmiot do udostępnienia tej informacji na jego stronie internetowej.
-2. Jeżeli w terminie 3 miesięcy od dnia otrzymania decyzji, o której mowa w ust. 1, podmiot, o którym mowa w art. 18zq ust. 1, nie zaprzestał naruszania przepisów rozporządzenia 2023/2631, Komisja może, w drodze decyzji, zdecydować o podaniu do publicznej wiadomości, na koszt tego podmiotu, informacji o zaprzestaniu spełniania przez ten podmiot wymogów rozporządzenia 2023/2631, które pozwalają, na podstawie art. 3 rozporządzenia 2023/2631, na stosowanie w odniesieniu do wyemitowanych przez ten podmiot obligacji oznakowania „europejska zielona obligacja” lub „EuGB”, oraz zobowiązać ten podmiot do udostępnienia tej informacji na jego stronie internetowej.
-Art. 18zx. 1. Decyzja o zastosowaniu środków, o których mowa w art. 18zv ust. 1 oraz art. 18zw, podlega natychmiastowemu wykonaniu. Uzasadnienie decyzji doręcza się w terminie 14 dni od dnia doręczenia decyzji. Termin na złożenie wniosku o ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
-2. W przypadku gdy oferta publiczna, subskrypcja lub sprzedaż europejskich zielonych obligacji dokonywane na podstawie tej oferty są przeprowadzane za pośrednictwem firmy inwestycyjnej, postanowienie o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, i decyzję o ich zastosowaniu doręcza się tej firmie inwestycyjnej, a w przypadku pośrednictwa więcej niż jednej firmy inwestycyjnej – jednej z tych firm. Doręczenie firmie inwestycyjnej uważa się za doręczenie stronie.
-3. W przypadku braku pośrednictwa firmy inwestycyjnej doręczenie postanowienia o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, i decyzji o ich zastosowaniu następuje także przez ich udostępnienie na stronie internetowej Komisji i jest skuteczne z dniem ich udostępnienia.
-4. Niezwłocznie po wydaniu postanowienia o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, komunikat o wszczęciu tego postępowania jest udostępniany na stronie internetowej Komisji.
-5. Niezwłocznie po wydaniu decyzji o zastosowaniu środków, o których mowa w art. 18zv ust. 1 i art. 18zw, komunikat o zastosowaniu tych środków jest udostępniany na stronie internetowej Komisji.
-Art. 18zy. W przypadku ustania przyczyn wydania decyzji o zastosowaniu środków, o których mowa w art. 18zv ust. 1 lub art. 18zw, Komisja uchyla tę decyzję:
-1) z urzędu albo
-2) na wniosek podmiotu, o którym mowa w art. 18zq ust. 1, oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub podmiotu, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
-Art. 18zz. 1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, nie wykonuje obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje je nienależycie lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, nie wykonuje obowiązków, o których mowa w art. 21 rozporządzenia 2023/2631, albo wykonuje je nienależycie, Komisja może, w drodze decyzji:
-1) nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań w przyszłości lub
-2) nałożyć na ten podmiot karę pieniężną do wysokości nieprzekraczającej kwoty 2 170 650 zł lub kwoty stanowiącej równowartość 0,5 % całkowitego rocznego przychodu wykazanego w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, lub
-3) nałożyć karę pieniężną do wysokości nieprzekraczającej kwoty 217 065 zł na osoby fizyczne odpowiedzialne za zaistniałe naruszenia.
-2. W przypadku gdy:
-1) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, nie wykonuje nakazu, o którym mowa w art. 18zt ust. 1 lub 3, albo wykonuje go nienależycie,
-2) podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, nie wykonuje nakazu, o którym mowa w art. 18zu ust. 1, albo wykonuje go nienależycie,
-3) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub inny podmiot działający w ich imieniu lub na ich zlecenie nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 1, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 2,
-4) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub inny podmiot uczestniczący w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 3, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 4,
-5) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiot występujący w ich imieniu lub na ich zlecenie nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 5, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 6 – Komisja może nałożyć na ten podmiot karę pieniężną do wysokości 5 000 000 zł.
-3. W przypadku gdy jest możliwe ustalenie kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia przepisów wymienionych w ust. 1, kara pieniężna, o której mowa w ust. 1 pkt 2, może zostać nałożona do wysokości dwukrotności kwoty korzyści uzyskanych lub strat unikniętych.
-4. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1 pkt 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu jednostki dominującej najwyższego szczebla wykazana w ostatnim skonsolidowanym sprawozdaniu finansowym jednostki dominującej za rok obrotowy, zatwierdzonym przez organ zatwierdzający jednostki dominującej.
-5. Komisja, ustalając rodzaj i wysokość kary, uwzględnia okoliczności, o których mowa w art. 50 ust. 1 rozporządzenia 2023/2631.
-6. W przypadku podmiotu, o którym mowa w art. 18zq ust. 1, będącego funduszem inwestycyjnym zamkniętym kara pieniężna jest nakładana na towarzystwo funduszy inwestycyjnych będące organem tego funduszu.
-7. W przypadku podmiotu, o którym mowa w art. 18zq ust. 1, będącego alternatywną spółką inwestycyjną zarządzaną przez zewnętrznie zarządzającego ASI albo zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych kara pieniężna nakładana jest odpowiednio na tych zarządzających.
-8. W przypadku stwierdzenia naruszenia przepisów tytułu II rozdziału 2, art. 18, art. 19 lub art. 21 rozporządzenia 2023/2631 przez osobę fizyczną Komisja może, w decyzji o zastosowaniu środków, o których mowa w ust. 1, zakazać tej osobie fizycznej udziału w procesie emisji europejskich zielonych obligacji na czas określony, nieprzekraczający roku.
-9. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, poważnie i wielokrotnie naruszył obowiązki, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, Komisja może dodatkowo zakazać temu podmiotowi emitowania europejskich zielonych obligacji przez okres nieprzekraczający roku.
-Art. 18zza. 1. W przypadku gdy:
-1) podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, dla którego Rzeczpospolita Polska jest przyjmującym państwem członkowskim w rozumieniu art. 2 pkt 8 rozporządzenia 2023/2631, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie,
-2) podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, dla którego Rzeczpospolita Polska jest przyjmującym państwem członkowskim w rozumieniu art. 2 pkt 8 rozporządzenia 2023/2631, nie wykonuje obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie albo jego jednostka inicjująca w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402, która korzysta ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”, wyemitowanych przez ten podmiot, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2 lub art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie – Komisja przekazuje informację o tym zdarzeniu właściwemu organowi państwa macierzystego w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2631 tego podmiotu oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
-2. W przypadku gdy mimo poinformowania przez Komisję właściwy organ państwa macierzystego w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2631 podmiotu, o którym mowa w ust. 1, nie podejmuje działań mających zapobiec dalszemu naruszaniu przepisów prawa lub gdy te działania są nieskuteczne, Komisja może, w celu ochrony interesu inwestorów, po uprzednim poinformowaniu tego organu zastosować sankcje, o których mowa w art. 18zz ust. 1. Komisja niezwłocznie przekazuje Komisji Europejskiej i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o zastosowaniu tych sankcji.
-Art. 18zzb. 1. Komisja przekazuje do publicznej wiadomości przez udostępnienie na swojej stronie internetowej:
-1) informację o treści rozstrzygnięcia oraz rodzaju i charakterze naruszenia, zawierającą imię i nazwisko osoby fizycznej lub firmę (nazwę) podmiotu, wobec których zastosowano środek, o którym mowa w art. 18zz ust. 1, 2, 8 i 9;
-2) w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy lub skargi do wojewódzkiego sądu administracyjnego w odniesieniu do decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9 – informację o ich złożeniu, jeżeli Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek lub ta skarga dotyczą;
-3) informację o treści rozstrzygnięcia ostatecznej decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, a w przypadku gdy w odniesieniu do decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, została wniesiona skarga do wojewódzkiego sądu administracyjnego – informację o treści prawomocnego wyroku sądu administracyjnego;
-4) informację o uchyleniu, zmianie albo stwierdzeniu nieważności przez Komisję ostatecznej decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9.
-2. Przekazanie do publicznej wiadomości informacji, o której mowa w ust. 1 pkt 1, następuje niezwłocznie po doręczeniu decyzji stronie postępowania.
-3. Komisja może, w drodze uchwały, opóźnić przekazanie do publicznej wiadomości informacji, o której mowa w ust. 1, lub przekazać taką informację bez wskazywania osoby fizycznej lub firmy (nazwy) podmiotu, wobec których zastosowano środek, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości:
-1) wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego;
-2) jest nieproporcjonalne do wagi stwierdzonego naruszenia – w przypadku danych osobowych lub firmy (nazwy) podmiotu;
-3) stanowiłoby poważne zagrożenie dla stabilności systemu finansowego lub będącego w toku postępowania administracyjnego, wyjaśniającego lub karnego.
-4. Komisja może nie przekazywać do publicznej wiadomości informacji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości mogłoby:
-1) naruszyć stabilność systemu finansowego lub
-2) wyrządzić niewspółmierną i znaczącą szkodę podmiotom, które dopuściły się naruszenia.
-5. W przypadku gdy Komisja nie przekazała do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej lub firmie (nazwie) podmiotu, może upublicznić te dane, jeżeli ustały przesłanki, o których mowa w ust. 3, nie później jednak niż w terminie 5 lat, licząc od dnia wydania decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, wobec tej osoby lub tego podmiotu.
-6. Informacje, o których mowa w ust. 1, są dostępne na stronie internetowej Komisji przez co najmniej 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby fizycznej, wobec której został zastosowany środek, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, są dostępne na tej stronie przez rok.
-Art. 18zzc. 1. Komisja równocześnie z przekazaniem do publicznej wiadomości informacji, o których mowa w art. 18zzb ust. 1, przekazuje te informacje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
-2. Po zastosowaniu środków, o których mowa w art. 18zzb ust. 3 i 4, Komisja niezwłocznie informuje o tym Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
-3. Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o przypadkach zastosowania w poprzednim roku kalendarzowym środków, o których mowa w art. 18zz ust. 1, 2, 8 i 9.
-Art. 21–64. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -284,12 +80,18 @@ Art. 21–64. (pominięte)
 **Art. 3a.** Komisja jest właściwym organem w rozumieniu art. 4 ust. 1 pkt 40 rozporządzenia nr 575/2013, z wyłączeniem:
 
 - **1)** wydawania aktów, o których mowa w art. 89 ust. 3, art. 124 ust. 1a, art. 164 ust. 5, art. 178, art. 284 ust. 4, art. 327 ust. 2, art. 395 ust. 1, art. 400 ust. 2 i 3, art. 412 ust. 5 zdanie drugie i art. 416 ust. 1 akapit drugi rozporządzenia nr 575/2013;
-- **2)** spraw, o których mowa w art. 458 rozporządzenia nr 575/2013. Art. 3aa. Komisja jest organem zbierającym dane w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ) w zakresie informacji, o których mowa w: <1) art. 21a ust. 1 rozporządzenia nr 596/2014;
-- **2)** art. 29a ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1286/2014”;
-- **3)** art. 70a ust. 1 rozporządzenia 2019/1238;
-- **4)** art. 18a ust. 1 rozporządzenia 2019/2088;> <5) art. 110a ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/1114 z dnia 31 maja 2023 r. w sprawie rynków kryptoaktywów oraz zmiany rozporządzeń (UE) nr 1093/2010 i (UE) nr 1095/2010 oraz dyrektyw 2013/36/UE i (UE) 2019/1937 (Dz. Urz. UE L 150 z 09.06.2023, str. 40, z późn. zm. );
-- **6)** art. 15a ust. 1 akapit pierwszy lit. b rozporządzenia 2023/2631;
-- **7)** art. 1 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju.> [Art. 3b. Komisja jest właściwym organem w rozumieniu art. 4 pkt 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm.16)), zwanego dalej „rozporządzeniem nr 1286/2014”.] <Art. 3b. Komisja jest właściwym organem w rozumieniu art. 4 pkt 8 rozporządzenia nr 1286/2014.> Art. 3ba. 1. Komisja może, zgodnie z art. 7 ust. 1 rozporządzenia nr 1286/2014, określić, w drodze decyzji, język inny niż język polski, w jakim sporządza się dokument zawierający kluczowe informacje dotyczące detalicznego produktu zbiorowego inwestowania, o którym mowa w art. 4 pkt 1 rozporządzenia nr 1286/2014, zwanego dalej „PRIP”, jeżeli produkt ten jest dystrybuowany na terytorium Rzeczypospolitej Polskiej.
+- **2)** spraw, o których mowa w art. 458 rozporządzenia nr 575/2013.
+
+**Art. 3aa.** Komisja jest organem zbierającym dane w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ) w zakresie informacji, o których mowa w:
+
+- **1)** art. 21a ust. 1 rozporządzenia nr 596/2014; 2) art. 29a ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1286/2014”; 3) art. 70a ust. 1 rozporządzenia 2019/1238; 4) art. 18a ust. 1 rozporządzenia 2019/2088;
+- **5)** art. 110a ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/1114 z dnia 31 maja 2023 r. w sprawie rynków kryptoaktywów oraz zmiany rozporządzeń (UE) nr 1093/2010 i (UE) nr 1095/2010 oraz dyrektyw 2013/36/UE i (UE) 2019/1937 (Dz. Urz. UE L 150 z 09.06.2023, str. 40, z późn. zm. ); 6) art. 15a ust. 1 akapit pierwszy lit. b rozporządzenia 2023/2631; 7) art. 1 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju.
+
+**Art. 3b.** Komisja jest właściwym organem w rozumieniu art. 4 pkt 8 rozporządzenia nr 1286/2014.
+
+**Art. 3ba.**
+
+1. Komisja może, zgodnie z art. 7 ust. 1 rozporządzenia nr 1286/2014, określić, w drodze decyzji, język inny niż język polski, w jakim sporządza się dokument zawierający kluczowe informacje dotyczące detalicznego produktu zbiorowego inwestowania, o którym mowa w art. 4 pkt 1 rozporządzenia nr 1286/2014, zwanego dalej „PRIP”, jeżeli produkt ten jest dystrybuowany na terytorium Rzeczypospolitej Polskiej.
 
 2. Do decyzji, o której mowa w ust. 1, przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio.
 
@@ -299,7 +101,11 @@ Art. 21–64. (pominięte)
 
 5. Osoba sprzedająca PRIP lub osoba doradzająca w zakresie PRIP, w rozumieniu przepisów rozporządzenia nr 1286/2014, może proponować PRIP inwestorowi indywidualnemu, o którym mowa w art. 4 pkt 6 lit. a rozporządzenia nr 1286/2014, na podstawie dokumentu zawierającego kluczowe informacje, sporządzonego w języku określonym w decyzji Komisji wydanej na podstawie ust. 1, pod warunkiem przyjęcia, najpóźniej przed zawarciem pierwszej transakcji dotyczącej tego PRIP, oświadczenia od inwestora indywidualnego, że posługuje się on językiem, w którym sporządzono ten dokument, w stopniu umożliwiającym mu zrozumienie informacji zawartych w tym dokumencie.
 
-6. Oświadczenie, o którym mowa w ust. 5, złożone osobom, o których mowa w ust. 5, jest skuteczne również w odniesieniu do dokumentów zawierających kluczowe informacje odnoszących się do innych PRIP, sporządzonych w języku wskazanym w tym oświadczeniu, których sprzedaży te osoby dokonują lub w zakresie których doradzają. Art. 3bb. 1. W przypadku gdy wymaga tego ochrona uzasadnionych interesów inwestorów lub konieczność zapobieżenia zagrożeniu prawidłowego funkcjonowania rynku finansowego, Komisja, w drodze decyzji, może uchylić decyzję, o której mowa w art. 3ba ust. 1.
+6. Oświadczenie, o którym mowa w ust. 5, złożone osobom, o których mowa w ust. 5, jest skuteczne również w odniesieniu do dokumentów zawierających kluczowe informacje odnoszących się do innych PRIP, sporządzonych w języku wskazanym w tym oświadczeniu, których sprzedaży te osoby dokonują lub w zakresie których doradzają.
+
+**Art. 3bb.**
+
+1. W przypadku gdy wymaga tego ochrona uzasadnionych interesów inwestorów lub konieczność zapobieżenia zagrożeniu prawidłowego funkcjonowania rynku finansowego, Komisja, w drodze decyzji, może uchylić decyzję, o której mowa w art. 3ba ust. 1.
 
 2. Do decyzji, o której mowa w ust. 1, przepisy art. 3ba ust. 2–4 stosuje się odpowiednio.
 
@@ -401,7 +207,11 @@ Art. 21–64. (pominięte)
 
 7. Informacje, o których mowa w ust. 5, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na stronie internetowej przez okres 5 lat, licząc od dnia ich udostępnienia.
 
-8. W przypadku nałożenia sankcji, o której mowa w ust. 2, Komisja może, w drodze decyzji, zobowiązać osobę, która naruszyła przepis ust. 1, do bezpośredniego poinformowania klientów detalicznych o rodzaju i wysokości nałożonego środka, organie właściwym do rozpatrzenia skargi lub prawie wystąpienia z roszczeniem odszkodowawczym. Art. 3ha. 1. W przypadku naruszenia art. 27c ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708) Komisja może, w drodze decyzji:
+8. W przypadku nałożenia sankcji, o której mowa w ust. 2, Komisja może, w drodze decyzji, zobowiązać osobę, która naruszyła przepis ust. 1, do bezpośredniego poinformowania klientów detalicznych o rodzaju i wysokości nałożonego środka, organie właściwym do rozpatrzenia skargi lub prawie wystąpienia z roszczeniem odszkodowawczym.
+
+**Art. 3ha.**
+
+1. W przypadku naruszenia art. 27c ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708) Komisja może, w drodze decyzji:
 
 - **1)** nakazać osobie oferującej podmiotowi innemu niż podmiot wymieniony w art. 3 pkt 39b lit. a–m ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi zawarcie umowy, której przedmiotem jest obligacja kapitałowa, zaprzestanie działań skutkujących naruszeniem art. 27c ustawy z dnia 15 stycznia 2015 r. o obligacjach oraz powstrzymanie się od takich działań w przyszłości;
 - **2)** nałożyć na osobę oferującą podmiotowi innemu niż podmiot wymieniony w art. 3 pkt 39b lit. a–m ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi zawarcie umowy, której przedmiotem jest obligacja kapitałowa, karę pieniężną do wysokości nieprzekraczającej:
@@ -481,9 +291,7 @@ Art. 21–64. (pominięte)
 
 2. Komisja może przeprowadzać kontrolę działalności dostawców OIPE, o których mowa w art. 2 pkt 15 rozporządzenia 2019/1238, zwanych dalej „dostawcami OIPE”, oraz dystrybutorów OIPE, o których mowa w art. 2 pkt 16 rozporządzenia 2019/1238, zwanych dalej „dystrybutorami OIPE”.
 
-3. Celem kontroli jest ustalenie zgodności działalności podmiotów, o których mowa w ust. 2, z przepisami rozporządzenia 2019/1238 oraz ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz.
-
-- **1843)** .
+3. Celem kontroli jest ustalenie zgodności działalności podmiotów, o których mowa w ust. 2, z przepisami rozporządzenia 2019/1238 oraz ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843).
 
 4. Czynności kontrolne są wykonywane przez pracowników Urzędu Komisji po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
 
@@ -792,7 +600,11 @@ Art. 21–64. (pominięte)
 
 1. Na wniosek podmiotu prowadzącego działalność regulowaną w przepisach, o których mowa w art. 1 ust. 2, mającego siedzibę poza terytorium Rzeczypospolitej Polskiej pisemna i ustna komunikacja Komisji z takim podmiotem może odbywać się w języku angielskim. W takim przypadku czynności, o których mowa w art. 5 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556), mogą być dokonywane w języku polskim lub angielskim.
 
-2. Przepisu ust. 1 nie stosuje się do postępowań, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, postępowań wyjaśniających, o których mowa w art. 18a ust. 1, oraz do czynności kontrolnych i wizyt nadzorczych, o których mowa w przepisach odrębnych. Art. 11aa. 1. W sprawach z zakresu właściwości Komisji, dotyczących wyrażenia zgody na pełnienie funkcji w organach podmiotów podlegających nadzorowi Komisji, stroną postępowania jest wyłącznie wnioskodawca. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+2. Przepisu ust. 1 nie stosuje się do postępowań, do których stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, postępowań wyjaśniających, o których mowa w art. 18a ust. 1, oraz do czynności kontrolnych i wizyt nadzorczych, o których mowa w przepisach odrębnych.
+
+**Art. 11aa.**
+
+1. W sprawach z zakresu właściwości Komisji, dotyczących wyrażenia zgody na pełnienie funkcji w organach podmiotów podlegających nadzorowi Komisji, stroną postępowania jest wyłącznie wnioskodawca. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 2. Odpis ostatecznej decyzji odmawiającej wyrażenia zgody, o której mowa w ust. 1, doręcza się osobie, której dotyczył wniosek.
 
@@ -1044,7 +856,9 @@ Art. 21–64. (pominięte)
 
 3. W celu określenia zasad współpracy i przekazywania dokumentów i informacji, o których mowa w ust. 1 i 2, Komisja zawiera porozumienia oraz umowy z podmiotami, o których mowa w ust. 1 i 2.
 
-**Art. 17a.** (uchylony) Art. 17aa. Przewodniczący Komisji jest obowiązany do poinformowania Prezesa Rady Ministrów o zidentyfikowaniu ryzyka systemowego w systemie finansowym lub jego otoczeniu w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym oraz o każdym zdarzeniu, które może zagrozić bezpieczeństwu lub skutkuje zagrożeniem bezpieczeństwa rynku finansowego, w tym zagrożeniu lub naruszeniu interesów znacznej liczby inwestorów indywidualnych w rozumieniu rozporządzenia nr 1286/2014, a także działaniach podjętych przez Komisję w związku z takim ryzykiem lub zdarzeniem.
+**Art. 17a.** (uchylony)
+
+**Art. 17aa.** Przewodniczący Komisji jest obowiązany do poinformowania Prezesa Rady Ministrów o zidentyfikowaniu ryzyka systemowego w systemie finansowym lub jego otoczeniu w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym oraz o każdym zdarzeniu, które może zagrozić bezpieczeństwu lub skutkuje zagrożeniem bezpieczeństwa rynku finansowego, w tym zagrożeniu lub naruszeniu interesów znacznej liczby inwestorów indywidualnych w rozumieniu rozporządzenia nr 1286/2014, a także działaniach podjętych przez Komisję w związku z takim ryzykiem lub zdarzeniem.
 
 **Art. 17b.**
 
@@ -1056,7 +870,11 @@ Art. 21–64. (pominięte)
 
 1. Przewodniczący Komisji i Prezes Urzędu Regulacji Energetyki mogą przekazywać sobie informacje, w tym informacje chronione na podstawie odrębnych ustaw, w zakresie niezbędnym dla wykonywania ich ustawowo określonych zadań.
 
-2. W celu określenia zasad współpracy i przekazywania informacji Przewodniczący Komisji i Prezes Urzędu Regulacji Energetyki mogą zawrzeć porozumienie o współpracy i wymianie informacji. Art. 17ca. 1. Przewodniczący Komisji przekazuje Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego, Szefowi Krajowej Administracji Skarbowej, Generalnemu Inspektorowi Informacji Finansowej, Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Komunikacji Elektronicznej, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu oraz Prokuratorowi Krajowemu dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do realizacji ustawowych zadań Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Krajowej Administracji Skarbowej, Generalnego Inspektora Informacji Finansowej, Policji, Straży Granicznej, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, Prezesa Urzędu Komunikacji Elektronicznej, Ministra Sprawiedliwości oraz Prokuratury.
+2. W celu określenia zasad współpracy i przekazywania informacji Przewodniczący Komisji i Prezes Urzędu Regulacji Energetyki mogą zawrzeć porozumienie o współpracy i wymianie informacji.
+
+**Art. 17ca.**
+
+1. Przewodniczący Komisji przekazuje Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Centralnego Biura Antykorupcyjnego, Szefowi Krajowej Administracji Skarbowej, Generalnemu Inspektorowi Informacji Finansowej, Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, Prezesowi Urzędu Komunikacji Elektronicznej, Ministrowi Sprawiedliwości, Prokuratorowi Generalnemu oraz Prokuratorowi Krajowemu dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do realizacji ustawowych zadań Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Krajowej Administracji Skarbowej, Generalnego Inspektora Informacji Finansowej, Policji, Straży Granicznej, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, Prezesa Urzędu Komunikacji Elektronicznej, Ministra Sprawiedliwości oraz Prokuratury.
 
 2. Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Centralnego Biura Antykorupcyjnego, Szef Krajowej Administracji Skarbowej, Generalny Inspektor Informacji Finansowej, Komendant Główny Policji, Komendant Główny Straży Granicznej, Prezes Urzędu Ochrony Konkurencji i Konsumentów, Prezes Urzędu Komunikacji Elektronicznej, Minister Sprawiedliwości, Prokurator Generalny oraz Prokurator Krajowy przekazują Przewodniczącemu Komisji dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, w zakresie niezbędnym do realizacji ustawowych zadań Komisji.
 
@@ -1064,20 +882,38 @@ Art. 21–64. (pominięte)
 
 2b. Prokurator Generalny i Prokurator Krajowy nie przekazują dokumentów i informacji, o których mowa w ust. 2, jeżeli mogłoby to zagrażać dobru postępowania karnego.
 
-3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, zawierane są odpowiednie porozumienia. Art. 17caa. 1. Przewodniczący Komisji i minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa mogą przekazywać sobie dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, dotyczące działalności zawodowej wykonywanej przez rzeczoznawców majątkowych w zakresie niezbędnym do realizacji ustawowych zadań Komisji lub zadań ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881).
+3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, zawierane są odpowiednie porozumienia.
+
+**Art. 17caa.**
+
+1. Przewodniczący Komisji i minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa mogą przekazywać sobie dokumenty i informacje, w tym chronione na podstawie odrębnych ustaw, dotyczące działalności zawodowej wykonywanej przez rzeczoznawców majątkowych w zakresie niezbędnym do realizacji ustawowych zadań Komisji lub zadań ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881).
 
 2. Dokumenty i informacje, o których mowa w ust. 1, otrzymane od Przewodniczącego Komisji, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może przekazywać Komisji Odpowiedzialności Zawodowej, o której mowa w przepisach ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, mogą zostać zawarte odpowiednie porozumienia. Art. 17cb. Przewodniczący Komisji przekazuje Prezesowi Prokuratorii Generalnej Rzeczypospolitej Polskiej niezbędne informacje i dokumenty w celu realizacji zastępstwa, o którym mowa w ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192). Art. 17cc. 1. W zakresie niezbędnym do wykonywania zadania, o którym mowa w art. 4 ust. 1 pkt 3b, Komisja może przekazywać podmiotowi podlegającemu jej nadzorowi informacje, w tym chronione na podstawie odrębnych ustaw, jeżeli ich przekazanie jest niezbędne do podjęcia przez ten podmiot działań polegających na przeciwdziałaniu:
+3. W celu określenia zasad współpracy oraz przekazywania dokumentów i informacji, w zakresie określonym w ust. 1 i 2, mogą zostać zawarte odpowiednie porozumienia.
+
+**Art. 17cb.** Przewodniczący Komisji przekazuje Prezesowi Prokuratorii Generalnej Rzeczypospolitej Polskiej niezbędne informacje i dokumenty w celu realizacji zastępstwa, o którym mowa w ustawie z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192).
+
+**Art. 17cc.**
+
+1. W zakresie niezbędnym do wykonywania zadania, o którym mowa w art. 4 ust. 1 pkt 3b, Komisja może przekazywać podmiotowi podlegającemu jej nadzorowi informacje, w tym chronione na podstawie odrębnych ustaw, jeżeli ich przekazanie jest niezbędne do podjęcia przez ten podmiot działań polegających na przeciwdziałaniu:
 
 - **1)** cyberzagrożeniom w rozumieniu art. 3 pkt 12 rozporządzenia 2022/2554 lub incydentom związanym z ICT w rozumieniu art. 3 pkt 8 rozporządzenia 2022/2554 sieci i systemów informatycznych w rozumieniu art. 3 pkt 2 rozporządzenia 2022/2554 lub
 - **2)** poważnym incydentom lub zagrożeniom systemów teleinformatycznych w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne – wykorzystywanych przez ten podmiot lub jeżeli wymaga tego ochrona interesów jego klientów.
 
-2. W zakresie niezbędnym do wykonywania zadania, o którym mowa w art. 4 ust. 1 pkt 3b, Komisja może żądać od podmiotu podlegającego jej nadzorowi informacji, dokumentów lub wyjaśnień na zasadach określonych w przepisach, o których mowa w art. 1 ust. 2. Art. 17cd. 1. Komisja niezwłocznie przekazuje Ministrowi Sprawiedliwości, za pośrednictwem środków komunikacji elektronicznej, wykaz, o którym mowa w art. 4 ust. 7, oraz każdorazowo informację o zmianie w tym wykazie.
+2. W zakresie niezbędnym do wykonywania zadania, o którym mowa w art. 4 ust. 1 pkt 3b, Komisja może żądać od podmiotu podlegającego jej nadzorowi informacji, dokumentów lub wyjaśnień na zasadach określonych w przepisach, o których mowa w art. 1 ust. 2.
+
+**Art. 17cd.**
+
+1. Komisja niezwłocznie przekazuje Ministrowi Sprawiedliwości, za pośrednictwem środków komunikacji elektronicznej, wykaz, o którym mowa w art. 4 ust. 7, oraz każdorazowo informację o zmianie w tym wykazie.
 
 2. Przekazywanie wykazu, o którym mowa w art. 4 ust. 7, nie stanowi naruszenia obowiązku zachowania tajemnicy zawodowej.
 
-3. Jeżeli warunki techniczne i organizacyjne Komisji Nadzoru Finansowego to umożliwiają, dane, o których mowa w ust. 1, są udostępniane za pośrednictwem interfejsu programistycznego aplikacji (API). Art. 17ce. 1. Komisja przekazuje informacje, w tym chronione na podstawie odrębnych ustaw, do systemu wymiany informacji, o którym mowa w art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.), art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm.) i art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/77/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 84, z późn. zm.), w zakresie niezbędnym do prawidłowej realizacji zadań, dla których ten system wymiany informacji został utworzony.
+3. Jeżeli warunki techniczne i organizacyjne Komisji Nadzoru Finansowego to umożliwiają, dane, o których mowa w ust. 1, są udostępniane za pośrednictwem interfejsu programistycznego aplikacji (API).
+
+**Art. 17ce.**
+
+1. Komisja przekazuje informacje, w tym chronione na podstawie odrębnych ustaw, do systemu wymiany informacji, o którym mowa w art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.), art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1094/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/79/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 48, z późn. zm.) i art. 31a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1095/2010 z dnia 24 listopada 2010 r. w sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych), zmiany decyzji nr 716/2009/WE i uchylenia decyzji Komisji 2009/77/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 84, z późn. zm.), w zakresie niezbędnym do prawidłowej realizacji zadań, dla których ten system wymiany informacji został utworzony.
 
 2. Komisja lub jej upoważniony przedstawiciel może przekazywać właściwym organom nadzoru nad rynkiem finansowym z państw członkowskich Unii Europejskiej informacje, o których mowa w przepisach wymienionych w ust. 1, w zakresie niezbędnym do przeprowadzenia oceny kompetencji i reputacji, o której mowa w tych przepisach, w tym informacje chronione na podstawie odrębnych ustaw.
 
@@ -1390,7 +1226,370 @@ Art. 21–64. (pominięte)
 
 #### Rozdział 2c Nadzór nad podmiotami finansowymi i ich obowiązki w zakresie zapewnienia operacyjnej odporności cyfrowej sektora finansowego
 
+**Art. 18za.** Ilekroć w niniejszym rozdziale jest mowa o podmiocie finansowym, należy przez to rozumieć podmioty finansowe, o których mowa w art. 2 ust. 2 rozporządzenia 2022/2554, z wyłączeniem podmiotów, o których mowa w art. 2 ust. 3 rozporządzenia 2022/2554.
+
+**Art. 18zb.** W ramach wykonywania nadzoru, o którym mowa w art. 1 ust. 2 pkt 16, Komisja może żądać od podmiotu finansowego informacji, dokumentów lub wyjaśnień w zakresie określonym w przepisach rozporządzenia 2022/2554.
+
+**Art. 18zc.**
+
+1. Komisja może przeprowadzać kontrolę zgodności działalności podmiotów finansowych z przepisami rozporządzenia 2022/2554 w zakresie zapewnienia operacyjnej odporności cyfrowej sektora finansowego.
+
+2. Pracownicy Urzędu Komisji wykonują czynności kontrolne po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia do kontroli wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
+
+3. Upoważnienie do kontroli, o którym mowa w ust. 2, zawiera:
+
+- **1)** wskazanie podstawy prawnej przeprowadzenia kontroli;
+- **2)** oznaczenie organu kontroli;
+- **3)** wskazanie daty i miejsca jego wystawienia;
+- **4)** imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
+- **5)** oznaczenie kontrolowanego podmiotu finansowego;
+- **6)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
+- **7)** wskazanie zakresu przedmiotowego kontroli.
+
+4. W toku kontroli pracownicy, o których mowa w ust. 2, mają prawo:
+
+- **1)** wstępu na grunt oraz do budynków, lokali i innych pomieszczeń kontrolowanego podmiotu finansowego;
+- **2)** żądania od kontrolowanego podmiotu finansowego lub osoby przez niego upoważnionej udzielenia ustnych lub pisemnych wyjaśnień związanych z przedmiotem kontroli;
+- **3)** uzyskania wyjaśnień od osób innych niż wymienione w pkt 2, pod warunkiem że wyrażą na to zgodę;
+- **4)** wglądu do dokumentów związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu finansowego, oraz żądania sporządzenia na koszt tego podmiotu kopii tych dokumentów lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli;
+- **5)** żądania od kontrolowanego podmiotu finansowego lub osoby przez niego upoważnionej poświadczenia za zgodność z oryginałem pozyskiwanych od tego podmiotu kopii dokumentów, o których mowa w pkt 4;
+- **6)** wglądu do danych zawartych w systemach informatycznych, związanych z przedmiotem kontroli, w szczególności dokumentów wewnętrznych potwierdzających spełnianie obowiązków w zakresie zarządzania ryzykiem związanym z technologiami informacyjno-komunikacyjnymi, o których mowa w rozporządzeniu 2022/2554, zwanymi dalej „ICT”, lub danych dotyczących poważnych incydentów związanych z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554 oraz znaczących cyberzagrożeń w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli.
+
+5. Dokumenty i informacje związane z kontrolą, w tym upoważnienie do kontroli, protokół kontroli i zalecenia pokontrolne, są sporządzane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem w treści pisma osoby opatrującej pismo tą pieczęcią.
+
+6. Dokumenty i informacje, o których mowa w ust. 5, sporządzone na piśmie utrwalonym w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
+
+**Art. 18zd.**
+
+1. Ustalenia kontroli zamieszcza się w protokole kontroli.
+
+2. Protokół kontroli sporządza się w terminie 30 dni roboczych od dnia zakończenia czynności kontrolnych.
+
+3. Protokół kontroli zawiera:
+
+- **1)** oznaczenie kontrolowanego podmiotu finansowego;
+- **2)** imię i nazwisko osoby reprezentującej kontrolowany podmiot finansowy lub nazwę organu reprezentującego ten podmiot;
+- **3)** imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
+- **4)** wskazanie daty rozpoczęcia i daty zakończenia czynności kontrolnych;
+- **5)** wskazanie zakresu przedmiotowego kontroli;
+- **6)** opis stanu faktycznego ustalonego w toku kontroli oraz inne informacje mające istotne znaczenie dla przeprowadzonej kontroli;
+- **7)** pouczenie kontrolowanego podmiotu finansowego o prawie wniesienia zastrzeżeń do protokołu.
+
+4. Protokół kontroli podpisują pracownik Urzędu Komisji wykonujący czynności kontrolne oraz osoba reprezentująca kontrolowany podmiot finansowy.
+
+5. Protokół kontroli doręcza się kontrolowanemu podmiotowi finansowemu. Przed podpisaniem protokołu kontroli kontrolowany podmiot finansowy może w terminie 14 dni roboczych od dnia przedstawienia mu go do podpisu złożyć do niego pisemne zastrzeżenia.
+
+6. W razie złożenia zastrzeżeń, o których mowa w ust. 5, Komisja dokonuje ich analizy w terminie 30 dni od dnia złożenia zastrzeżeń i w razie potrzeby podejmuje dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia protokół kontroli w formie aneksu do protokołu kontroli.
+
+7. Odmowa podpisania protokołu kontroli przez kontrolowany podmiot finansowy lub zwłoka w jego podpisaniu nie wpływa na prowadzenie przez Komisję dalszych czynności kontrolnych, w szczególności na wydanie przez Komisję zaleceń pokontrolnych.
+
+**Art. 18ze.**
+
+1. Jeżeli na podstawie informacji zgromadzonych w toku kontroli Komisja uzna, że mogło dojść do naruszenia przez kontrolowany podmiot finansowy przepisów rozporządzenia 2022/2554, przepisów aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisów aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, lub zidentyfikuje inne nieprawidłowości dotyczące zarządzania przez kontrolowany podmiot finansowy ryzykiem związanym z ICT, przekazuje temu podmiotowi zalecenia pokontrolne dotyczące usunięcia nieprawidłowości.
+
+2. Kontrolowany podmiot finansowy w wyznaczonym terminie, nie krótszym niż 21 dni, informuje Komisję o sposobie wykonania zaleceń pokontrolnych.
+
+**Art. 18zf.** W postępowaniu wyjaśniającym, o którym mowa w art. 18a, prowadzonym w celu ustalenia, czy istnieją podstawy do wszczęcia postępowania administracyjnego w sprawie naruszenia przepisów art. 5–10, art. 11 ust. 1–10, art. 12–14, art. 16 ust. 1 i 2, art. 17, art. 18 ust. 1 i 2, art. 19 ust. 1–5, art. 23–25, art. 26 ust. 1–8, art. 27, art. 28 ust. 1–8, art. 29, art. 30 ust. 1–3, art. 31 ust. 12, art. 42 oraz art. 45 ust. 3 rozporządzenia 2022/2554, przepisów aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisów aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, Przewodniczący Komisji może zażądać od dostawcy usług telekomunikacyjnych udostępnienia informacji stanowiących tajemnicę komunikacji elektronicznej w rozumieniu art. 386 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), przechowywanych przez dostawcę usług telekomunikacyjnych, dotyczących podmiotu dokonującego czynności faktycznych lub prawnych mających związek z wyjaśnianymi okolicznościami, w tym danych abonenta pozwalających na jego identyfikację, czasu ich dokonania i innych informacji związanych z połączeniem lub przekazem, niestanowiących treści komunikatu elektronicznego.
+
+**Art. 18zg.**
+
+1. Podmiot finansowy zgłasza Komisji poważny incydent związany z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 1 akapit pierwszy rozporządzenia 2022/2554, przekazując wstępne powiadomienie, i przekazuje sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554.
+
+2. Komisja przekazuje niezwłocznie Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Ministra Obrony Narodowej, zwanemu dalej „CSIRT MON”, Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy, zwanemu dalej „CSIRT NASK”, albo Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanemu dalej „CSIRT GOV”, o których mowa odpowiednio w art. 2 pkt 1, 2 i 3 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, zgodnie z ich właściwością, wstępne powiadomienie i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, pochodzące od:
+
+- **1)** podmiotu finansowego będącego podmiotem kluczowym,
+- **2)** podmiotu finansowego będącego podmiotem ważnym – w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
+
+3. W uzasadnionych przypadkach Komisja może przekazać niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, wstępne powiadomienia i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, pochodzące od podmiotu finansowego niebędącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Komisja przekazuje organom wskazanym w art. 19 ust. 6 rozporządzenia 2022/2554, w sposób określony w tym przepisie, szczegółowe informacje na temat poważnego incydentu związanego z ICT w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554, zawierające taki sam zakres danych, jak informacje zawarte we wstępnych powiadomieniach i sprawozdaniach, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554.
+
+7. Wstępne powiadomienia i sprawozdania, o których mowa w art. 19 ust. 4 rozporządzenia 2022/2554, są przekazywane w postaci elektronicznej, a w przypadku braku możliwości przekazania ich w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, w terminach i z wykorzystaniem wzorów określonych we wspólnych regulacyjnych standardach technicznych i wspólnych wykonawczych standardach technicznych, o których mowa w art. 20 rozporządzenia 2022/2554.
+
+**Art. 18zh.**
+
+1. Podmiot finansowy może przekazać Komisji powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554.
+
+2. Komisja przekazuje niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, pochodzące od podmiotu finansowego będącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
+
+3. W uzasadnionych przypadkach Komisja może przekazać niezwłocznie CSIRT MON, CSIRT NASK lub CSIRT GOV, zgodnie z ich właściwością, powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, pochodzące od podmiotu finansowego niebędącego podmiotem kluczowym lub podmiotem ważnym w rozumieniu art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
+
+4. Powiadomienie o znaczącym cyberzagrożeniu w rozumieniu art. 3 pkt 13 rozporządzenia 2022/2554, o którym mowa w art. 19 ust. 2 akapit pierwszy rozporządzenia 2022/2554, jest przekazywane w terminach i z wykorzystaniem wzorów określonych we wspólnych regulacyjnych standardach technicznych i wspólnych wykonawczych standardach technicznych, o których mowa w art. 20 rozporządzenia 2022/2554, w postaci elektronicznej, a w przypadku braku możliwości przekazania go w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji.
+
+**Art. 18zi.**
+
+1. Podmioty finansowe przekazują Komisji informacje, o których mowa w:
+
+- **1)** art. 28 ust. 3 akapit trzeci rozporządzenia 2022/2554, w terminie określonym w decyzjach Europejskiego Urzędu Nadzoru Bankowego, Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych oraz Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych;
+- **2)** art. 28 ust. 3 akapit piąty rozporządzenia 2022/2554, niezwłocznie, nie później niż w terminie 14 dni przed dniem związania się postanowieniami umownymi albo od dnia, w którym dana funkcja stała się krytyczna lub istotna.
+
+2. Centralne depozyty papierów wartościowych w rozumieniu art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi przekazują Komisji kopie wyników testów ciągłości działania w zakresie ICT lub podobnych testów zgodnie z art. 11 ust. 9 rozporządzenia 2022/2554.
+
+**Art. 18zj.** Podmioty finansowe powiadamiają Komisję o przystąpieniu do ustaleń dotyczących wymiany informacji, o których mowa w art. 45 ust. 1 rozporządzenia 2022/2554, oraz o ustaniu członkostwa, zgodnie z art. 45 ust. 3 rozporządzenia 2022/2554.
+
+**Art. 18zk.**
+
+1. Spośród podmiotów finansowych wymienionych w art. 26 ust. 1 rozporządzenia 2022/2554 Komisja w oparciu o ocenę elementów wskazanych w art. 26 ust. 8 akapit trzeci rozporządzenia 2022/2554 określa, w drodze decyzji, podmiot finansowy obowiązany do przeprowadzenia zaawansowanych testów, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554, z uwzględnieniem kryteriów określonych w art. 4 ust. 2 rozporządzenia 2022/2554.
+
+2. Podmiot finansowy określony zgodnie z ust. 1 przekazuje Komisji, w celu zatwierdzenia, wynik oceny dokonanej zgodnie z art. 26 ust. 2 akapit trzeci rozporządzenia 2022/2554, wskazującej, które krytyczne lub istotne funkcje należy objąć zaawansowanymi testami, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554.
+
+3. Podmiot finansowy określony zgodnie z ust. 1 przekazuje Komisji informacje, o których mowa w art. 26 ust. 6 rozporządzenia 2022/2554.
+
+4. Komisja przekazuje podmiotowi finansowemu określonemu zgodnie z ust. 1 poświadczenie, o którym mowa w art. 26 ust. 7 rozporządzenia 2022/2554.
+
+5. Komisja w oparciu o ocenę elementów wskazanych w art. 26 ust. 1 rozporządzenia 2022/2554 może zalecić podmiotowi finansowemu określonemu zgodnie z ust. 1 zmniejszenie albo zwiększenie częstotliwości przeprowadzania zaawansowanych testów, o których mowa w art. 26 ust. 1 rozporządzenia 2022/2554.
+
+6. W przypadku gdy podmiot finansowy określony zgodnie z ust. 1 zamierza korzystać z usług testerów wewnętrznych zgodnie z art. 26 ust. 8 rozporządzenia 2022/2554, przekazuje do zatwierdzenia Komisji informacje o zamiarze korzystania z ich usług. Komisja zatwierdza zamiar korzystania z usług testerów wewnętrznych.
+
+7. Komisja przed zatwierdzeniem zamiaru korzystania z usług testerów wewnętrznych, o którym mowa w ust. 6, ocenia, czy testerzy wewnętrzni spełniają wymogi określone w art. 27 ust. 1 i ust. 2 lit. b oraz c rozporządzenia 2022/2554.
+
+**Art. 18zl.**
+
+1. Komisja informuje podmiot finansowy o ryzyku zidentyfikowanym w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, w odniesieniu do kluczowego zewnętrznego dostawcy usług ICT w rozumieniu art. 3 pkt 23 rozporządzenia 2022/2554, zwanego dalej „kluczowym zewnętrznym dostawcą usług ICT”, z którym ten podmiot finansowy zawarł umowę.
+
+2. Podmiot finansowy informuje Komisję o sposobie uwzględnienia ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, w szczególności o zmianach postanowień umowy zawartej z kluczowym zewnętrznym dostawcą usług ICT.
+
+3. W przypadku gdy Komisja uzna, że podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, lub uwzględnił je w sposób niewystarczający, informuje podmiot finansowy o możliwości wydania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554.
+
+4. Przed wydaniem decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, Komisja może skonsultować się z organami, o których mowa w art. 42 ust. 5 rozporządzenia 2022/2554. Przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+
+5. W terminie 60 dni od dnia otrzymania przez podmiot finansowy informacji, o której mowa w ust. 3, Komisja może wydać decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu tymczasowe zawieszenie, w całości albo części, korzystania z usługi świadczonej przez kluczowego zewnętrznego dostawcę usług ICT lub jej wdrażania albo nakazującą podmiotowi finansowemu wypowiedzenie, w całości albo części, postanowień umowy z kluczowym zewnętrznym dostawcą usług ICT.
+
+6. Komisja, wydając decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu tymczasowe zawieszenie, w całości albo części, korzystania z usługi świadczonej przez kluczowego zewnętrznego dostawcę usług ICT lub jej wdrażania, określa termin obowiązywania tej decyzji.
+
+7. W przypadku gdy ryzyko zidentyfikowane w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, zostało wyeliminowane przed upływem terminu obowiązywania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, Komisja stwierdza wygaśnięcie tej decyzji.
+
+8. W przypadku gdy podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, albo uwzględnił je w sposób niewystarczający, Komisja może jednorazowo przedłużyć, w drodze decyzji, termin obowiązywania decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, i określić nowy termin jej obowiązywania.
+
+9. W przypadku gdy podmiot finansowy nie uwzględnił ryzyka zidentyfikowanego w zaleceniach, o których mowa w art. 35 ust. 1 lit. d rozporządzenia 2022/2554, albo uwzględnił je w sposób niewystarczający w terminie przedłużonym zgodnie z ust. 8, Komisja wydaje decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, nakazującą podmiotowi finansowemu wypowiedzenie, w całości albo części, postanowień umowy z kluczowym zewnętrznym dostawcą usług ICT.
+
+10. Komisja, wydając decyzję, o której mowa w ust. 8, oraz decyzję, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, uwzględnia okoliczności określone w art. 42 ust. 8 rozporządzenia 2022/2554.
+
+11. Decyzja wydana na podstawie ust. 8 oraz decyzja, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554, są natychmiast wykonalne.
+
+12. Komisja zgodnie z art. 42 ust. 9 rozporządzenia 2022/2554 informuje członków forum nadzoru, o których mowa w art. 32 ust. 4 lit. a–c rozporządzenia 2022/2554, oraz wspólną sieć nadzoru ustanowioną zgodnie z art. 34 ust. 1 rozporządzenia 2022/2554 o wydaniu decyzji na podstawie ust. 8 oraz decyzji, o której mowa w art. 42 ust. 6 rozporządzenia 2022/2554.
+
+13. W celu stosowania spójnych środków następczych w zakresie nadzoru Komisja może uwzględnić wydane przez wiodący organ nadzorczy, wyznaczony zgodnie z art. 31 ust. 1 lit. b rozporządzenia 2022/2554, niewiążące i niejawne opinie na potrzeby właściwych organów, o których mowa w art. 46 rozporządzenia 2022/2554, zgodnie z art. 42 ust. 7 rozporządzenia 2022/2554.
+
+**Art. 18zm.**
+
+1. W przypadku naruszenia obowiązku, o którym mowa w przepisach art. 5–10, art. 11 ust. 1–10, art. 12–14, art. 16 ust. 1 i 2, art. 17, art. 18 ust. 1 i 2, art. 19 ust. 1–5, art. 23–25, art. 26 ust. 1–8, art. 27, art. 28 ust. 1–8, art. 29, art. 30 ust. 1–3, art. 31 ust. 12, art. 42 oraz art. 45 ust. 3 rozporządzenia 2022/2554, przepisach aktów delegowanych wydanych na podstawie art. 15, art. 16 ust. 3, art. 18 ust. 3, art. 20 lit. a, art. 26 ust. 11, art. 28 ust. 10, art. 30 ust. 5 oraz art. 41 ust. 1 lit. d rozporządzenia 2022/2554 lub przepisach aktów wykonawczych wydanych na podstawie art. 20 lit. b oraz art. 28 ust. 9 rozporządzenia 2022/2554, Komisja może, w drodze decyzji:
+
+- **1)** nakazać osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej zaprzestanie danego zachowania oraz powstrzymanie się od takiego zachowania w przyszłości;
+- **2)** zakazać osobie odpowiedzialnej za to naruszenie pełnienia funkcji członka zarządu lub rady nadzorczej albo innej funkcji kierowniczej podmiotu finansowego przez okres nie krótszy niż miesiąc i nie dłuższy niż rok;
+- **3)** nałożyć karę pieniężną do wysokości nieprzekraczającej:
+    - **a)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej: – kwoty 20 869 500 zł lub 10 % całkowitego rocznego przychodu, a w przypadku zakładu ubezpieczeń lub zakładu reasekuracji – 10 % składki przypisanej brutto, wykazanych w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, albo – dwukrotności kwoty korzyści uzyskanych lub strat unikniętych w wyniku tego naruszenia – w przypadku gdy jest możliwe ich ustalenie,
+    - **b)** w przypadku osoby fizycznej odpowiedzialnej za to naruszenie, która w tym okresie pełniła obowiązki członka zarządu albo innego organu zarządzającego tego podmiotu finansowego – kwoty 3 042 410 zł,
+    - **c)** w przypadku innej osoby fizycznej odpowiedzialnej za to naruszenie – sześciokrotności kwoty otrzymywanego przez ukaranego wynagrodzenia, obliczanego według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
+
+2. W przypadku gdy osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, o których mowa w ust. 1 pkt 3 lit. a, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która ma obowiązek sporządzać skonsolidowane sprawozdania finansowe zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości, karę pieniężną, o której mowa w ust. 1 pkt 3 lit. a, ustala się na podstawie całkowitych rocznych przychodów, a w przypadku zakładu ubezpieczeń lub zakładu reasekuracji – składki przypisanej brutto, wykazanych w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym jednostki dominującej za rok obrotowy, zatwierdzonym przez organ zatwierdzający jednostki dominującej.
+
+3. Komisja, wydając decyzje, o których mowa w ust. 1, uwzględnia okoliczności, o których mowa w art. 51 ust. 2 rozporządzenia 2022/2554.
+
+4. Decyzje, o których mowa w ust. 1 pkt 1 i 2, są natychmiast wykonalne.
+
+5. Komisja udostępnia zgodnie z art. 54 rozporządzenia 2022/2554 na swojej stronie internetowej komunikaty o decyzjach, o których mowa w ust. 1, maksymalnie przez okres 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie maksymalnie przez rok.
+
+**Art. 18zn.** Komisja w zakresie nadzoru przewidzianego przepisami rozporządzenia 2022/2554 współpracuje oraz wymienia informacje i dokumenty z:
+
+- **1)** właściwymi organami, o których mowa w art. 46 rozporządzenia 2022/2554, państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Europejskim Urzędem Nadzoru Bankowego, Europejskim Urzędem Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych oraz bankami centralnymi Europejskiego Systemu Banków Centralnych w zakresie niezbędnym do wykonywania obowiązków wynikających z rozporządzenia 2022/2554;
+- **2)** odpowiednim wiodącym organem nadzorczym wyznaczonym zgodnie z art. 31 ust. 1 lit. b rozporządzenia 2022/2554 oraz Komisją Europejską;
+- **3)** organami właściwymi do spraw cyberbezpieczeństwa, o których mowa w art. 41 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, CSIRT MON, CSIRT NASK, CSIRT GOV oraz Pojedynczym Punktem Kontaktowym do spraw cyberbezpieczeństwa, o którym mowa w art. 4 pkt 18 tej ustawy;
+- **4)** organami, o których mowa w art. 17 i art. 17b–17g.
+
+**Art. 18zo.** Do kontroli, o której mowa w art. 18zc ust. 1, w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
 #### Rozdział 2d Nadzór nad emitentami europejskich zielonych obligacji
+
+**Art. 18zp.** Przepisów niniejszego rozdziału nie stosuje się do:
+
+- **1)** emitentów europejskich zielonych obligacji będących papierami wartościowymi, o których mowa w art. 1 ust. 2 lit. b oraz d rozporządzenia 2017/1129;
+- **2)** jednostek inicjujących w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402, korzystających ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”, będących papierami wartościowymi, o których mowa w art. 1 ust. 2 lit. d rozporządzenia 2017/1129, wyłącznie w zakresie tych papierów wartościowych.
+
+**Art. 18zq.**
+
+1. Komisja może przeprowadzać kontrolę:
+
+- **1)** emitenta europejskich zielonych obligacji w zakresie wypełniania obowiązków wynikających z przepisów tytułu II rozdziału 2 rozporządzenia 2023/2631;
+- **2)** jednostki specjalnego przeznaczenia do celów sekurytyzacji w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2402, która emituje obligacje sekurytyzacyjne, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mające oznakowanie „europejska zielona obligacja” lub „EuGB”, w zakresie wypełniania obowiązków wynikających z art. 14 ust. 1, art. 15, art. 18 i art. 19 rozporządzenia 2023/2631;
+- **3)** jednostki inicjującej w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402 w zakresie wypełniania obowiązków wynikających z przepisów tytułu II rozdziału 2, art. 18 i art. 19 rozporządzenia 2023/2631 – w przypadku gdy korzysta ona ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”;
+- **4)** emitenta obligacji, w tym jednostki specjalnego przeznaczenia do celów sekurytyzacji w rozumieniu art. 2 pkt 2 rozporządzenia 2017/2402, który korzysta ze wspólnych wzorów formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, w zakresie zgodności ujawnianych informacji z tymi wzorami formularzy.
+
+2. Pracownicy Urzędu Komisji wykonują czynności kontrolne po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia do kontroli wydanego przez Przewodniczącego Komisji lub upoważnioną przez niego osobę.
+
+3. Upoważnienie do kontroli, o którym mowa w ust. 2, zawiera:
+
+- **1)** wskazanie podstawy prawnej przeprowadzenia kontroli;
+- **2)** oznaczenie organu kontroli;
+- **3)** wskazanie daty i miejsca jego wystawienia;
+- **4)** imię i nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika Urzędu Komisji prowadzącego czynności kontrolne;
+- **5)** oznaczenie kontrolowanego podmiotu;
+- **6)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
+- **7)** wskazanie zakresu przedmiotowego kontroli.
+
+4. W toku kontroli pracownicy, o których mowa w ust. 2, mają prawo:
+
+- **1)** wstępu na grunt oraz do budynków, lokali i innych pomieszczeń kontrolowanego podmiotu;
+- **2)** żądania od kontrolowanego podmiotu lub od osoby przez niego upoważnionej udzielenia ustnych lub pisemnych wyjaśnień związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu, oraz żądania sporządzenia na koszt tego podmiotu kopii tych dokumentów lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli;
+- **4)** żądania od kontrolowanego podmiotu lub osoby przez niego upoważnionej poświadczenia za zgodność z oryginałem pozyskiwanych od tego podmiotu kopii dokumentów, o których mowa w pkt 3;
+- **5)** wglądu do danych zawartych w systemie teleinformatycznym związanych z przedmiotem kontroli, w szczególności dokumentów finansowych, księgowych, handlowych, akt postępowań prowadzonych na podstawie właściwych przepisów prawa, ksiąg, ewidencji i dokumentów wewnętrznych, w tym regulaminów oraz instrukcji, dotyczących działalności kontrolowanego podmiotu, oraz żądania sporządzenia na koszt tego podmiotu kopii tych danych lub wyciągów z nich, w tym w postaci dokumentu elektronicznego w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w zakresie niezbędnym do przeprowadzenia i zakończenia kontroli.
+
+5. Dokumenty i informacje związane z kontrolą, w tym upoważnienie do kontroli, protokół kontroli i zalecenia pokontrolne, są sporządzane na piśmie utrwalonym w postaci papierowej albo elektronicznej. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci papierowej opatruje się podpisem własnoręcznym. Upoważnienie do kontroli udzielone na piśmie utrwalonym w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną Komisji ze wskazaniem w treści pisma osoby opatrującej pismo tą pieczęcią.
+
+6. Dokumenty i informacje, o których mowa w ust. 5, sporządzone na piśmie utrwalonym w postaci elektronicznej doręcza się na adres do doręczeń elektronicznych.
+
+7. Przekazanie Komisji informacji na podstawie przepisów rozporządzenia 2023/2631 nie narusza obowiązku zachowania tajemnicy zawodowej, a także innych obowiązków zachowania poufności informacji, wynikających z obowiązujących przepisów prawa lub umowy. Przekazanie Komisji informacji na podstawie przepisów rozporządzenia 2023/2631 nie może stanowić przyczyny rozwiązania z osobą przekazującą informacje stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze.
+
+**Art. 18zr.** Do kontroli, o której mowa w art. 18zq ust. 1, w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+**Art. 18zs.**
+
+1. Na żądanie Komisji lub osoby przez nią upoważnionej osoby uprawnione do reprezentowania podmiotu, o którym mowa w art. 18zq ust. 1, lub wchodzące w skład jego organów zarządzających i nadzorczych albo pozostające z tym podmiotem w stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze są obowiązane do niezwłocznego sporządzenia i przekazania na koszt podmiotu, o którym mowa w art. 18zq ust. 1, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień związanych z wypełnianiem obowiązków, o których mowa w art. 18zq ust. 1.
+
+2. Obowiązek, o którym mowa w ust. 1, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania firmy audytorskiej lub pozostających z tą firmą w stosunku pracy albo umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, w zakresie dotyczącym czynności podejmowanych przez te osoby lub tę firmę w związku z wykonywaniem na rzecz podmiotu, o którym mowa w art. 18zq ust. 1, czynności rewizji finansowej, o których mowa w art. 47 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, lub świadczeniem na jego rzecz innych usług wymienionych w art. 47 ust. 2 tej ustawy. Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+
+**Art. 18zt.**
+
+1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, nie udostępnia na swojej stronie internetowej:
+
+- **1)** arkusza informacyjnego europejskiej zielonej obligacji, o którym mowa w art. 10 ust. 1 lit. a rozporządzenia 2023/2631, albo gdy udostępniony arkusz nie zawiera informacji, o których mowa w załączniku I do rozporządzenia 2023/2631,
+- **2)** wyników kontroli przedemisyjnej, o których mowa w art. 15 ust. 1 lit. b rozporządzenia 2023/2631, wyników kontroli poemisyjnej, o których mowa w art. 11 ust. 8 rozporządzenia 2023/2631, lub wyników kontroli sprawozdania dotyczącego wpływu, o których mowa w art. 12 ust. 3 rozporządzenia 2023/2631, wraz z zawartymi w nich ocenami,
+- **3)** sprawozdania z alokacji, o którym mowa w art. 11 ust. 1 rozporządzenia 2023/2631, albo gdy udostępnione sprawozdanie nie zawiera informacji, o których mowa w załączniku II do rozporządzenia 2023/2631,
+- **4)** sprawozdania dotyczącego wpływu, o którym mowa w art. 12 ust. 1 rozporządzenia 2023/2631, albo gdy udostępnione sprawozdanie nie zawiera informacji, o których mowa w załączniku III do rozporządzenia 2023/2631 – Komisja może, w drodze decyzji, nakazać podmiotowi udostępnienie tych dokumentów albo zawarcie w tych dokumentach wymaganych informacji.
+
+2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1–3, na piśmie utrwalonym w postaci papierowej albo elektronicznej udostępnienie dokumentów, o których mowa w ust. 1, albo zawarcie w tych dokumentach wymaganych informacji.
+
+3. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, narusza obowiązek, o którym mowa w art. 15 ust. 4 rozporządzenia 2023/2631, Komisja może, w drodze decyzji, nakazać temu podmiotowi przekazanie Komisji informacji zgodnie z art. 15 ust. 4 rozporządzenia 2023/2631.
+
+4. Przed wydaniem decyzji, o której mowa w ust. 3, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1–3, na piśmie utrwalonym w postaci papierowej albo elektronicznej przekazanie Komisji informacji zgodnie z art. 15 ust. 4 rozporządzenia 2023/2631.
+
+**Art. 18zu.**
+
+1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, narusza obowiązki, o których mowa w art. 21 rozporządzenia 2023/2631, Komisja może, w drodze decyzji, nakazać temu podmiotowi zawarcie we wspólnych wzorach formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, wymaganych informacji w ramach okresowego ujawniania informacji po emisji.
+
+2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 4, na piśmie utrwalonym w postaci papierowej albo elektronicznej zawarcie we wspólnych wzorach formularzy, o których mowa w art. 21 rozporządzenia 2023/2631, wymaganych informacji w ramach okresowego ujawniania informacji po emisji.
+
+**Art. 18zv.**
+
+1. W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przez podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, obowiązków, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, Komisja może, w drodze decyzji:
+
+- **1)** nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub innemu podmiotowi działającemu w ich imieniu lub na ich zlecenie wstrzymanie rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji lub przerwanie jej prowadzenia na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
+- **2)** zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub innemu podmiotowi działającemu w ich imieniu lub na ich zlecenie rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji lub nakazać przerwanie jej prowadzenia, lub
+- **3)** nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub innemu podmiotowi uczestniczącemu w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, wstrzymanie rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo przerwanie ich przebiegu na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
+- **4)** zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferującemu, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub innemu podmiotowi uczestniczącemu w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo dalszego ich prowadzenia, lub
+- **5)** nakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiotowi występującemu w ich imieniu lub na ich zlecenie wstrzymanie ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
+- **6)** zakazać podmiotowi, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiotowi, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiotowi występującemu w ich imieniu lub na ich zlecenie ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym.
+
+2. Przed wydaniem decyzji, o której mowa w ust. 1, Komisja może zalecić na piśmie utrwalonym w postaci papierowej albo elektronicznej zaprzestanie naruszania obowiązków wynikających z przepisów tytułu II rozdziału 2 oraz art. 18 i art. 19 rozporządzenia 2023/2631.
+
+3. Po otrzymaniu zalecenia, o którym mowa w ust. 2:
+
+- **1)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, powstrzymują się od rozpoczęcia prowadzenia reklamy europejskich zielonych obligacji albo przerywają jej prowadzenie,
+- **2)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, powstrzymują się od rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży europejskich zielonych obligacji albo przerywają ich przebieg,
+- **3)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, powstrzymują się od ubiegania się o dopuszczenie lub wprowadzenie europejskich zielonych obligacji do obrotu na rynku regulowanym – do czasu usunięcia wskazanych w zaleceniu naruszeń, jeżeli jest to konieczne do usunięcia tych naruszeń.
+
+4. W związku z daną emisją europejskich zielonych obligacji Komisja może wielokrotnie zastosować środki przewidziane w ust. 1 i 2.
+
+**Art. 18zw.**
+
+1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1, nie przestrzega przepisów rozporządzenia 2023/2631, Komisja może, w drodze decyzji, zdecydować o podaniu do publicznej wiadomości, na koszt tego podmiotu, informacji o nieprzestrzeganiu przez ten podmiot przepisów rozporządzenia 2023/2631, wskazując naruszenia prawa, oraz zobowiązać ten podmiot do udostępnienia tej informacji na jego stronie internetowej.
+
+2. Jeżeli w terminie 3 miesięcy od dnia otrzymania decyzji, o której mowa w ust. 1, podmiot, o którym mowa w art. 18zq ust. 1, nie zaprzestał naruszania przepisów rozporządzenia 2023/2631, Komisja może, w drodze decyzji, zdecydować o podaniu do publicznej wiadomości, na koszt tego podmiotu, informacji o zaprzestaniu spełniania przez ten podmiot wymogów rozporządzenia 2023/2631, które pozwalają, na podstawie art. 3 rozporządzenia 2023/2631, na stosowanie w odniesieniu do wyemitowanych przez ten podmiot obligacji oznakowania „europejska zielona obligacja” lub „EuGB”, oraz zobowiązać ten podmiot do udostępnienia tej informacji na jego stronie internetowej.
+
+**Art. 18zx.**
+
+1. Decyzja o zastosowaniu środków, o których mowa w art. 18zv ust. 1 oraz art. 18zw, podlega natychmiastowemu wykonaniu. Uzasadnienie decyzji doręcza się w terminie 14 dni od dnia doręczenia decyzji. Termin na złożenie wniosku o ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
+
+2. W przypadku gdy oferta publiczna, subskrypcja lub sprzedaż europejskich zielonych obligacji dokonywane na podstawie tej oferty są przeprowadzane za pośrednictwem firmy inwestycyjnej, postanowienie o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, i decyzję o ich zastosowaniu doręcza się tej firmie inwestycyjnej, a w przypadku pośrednictwa więcej niż jednej firmy inwestycyjnej – jednej z tych firm. Doręczenie firmie inwestycyjnej uważa się za doręczenie stronie.
+
+3. W przypadku braku pośrednictwa firmy inwestycyjnej doręczenie postanowienia o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, i decyzji o ich zastosowaniu następuje także przez ich udostępnienie na stronie internetowej Komisji i jest skuteczne z dniem ich udostępnienia.
+
+4. Niezwłocznie po wydaniu postanowienia o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 18zv ust. 1 i art. 18zw, komunikat o wszczęciu tego postępowania jest udostępniany na stronie internetowej Komisji.
+
+5. Niezwłocznie po wydaniu decyzji o zastosowaniu środków, o których mowa w art. 18zv ust. 1 i art. 18zw, komunikat o zastosowaniu tych środków jest udostępniany na stronie internetowej Komisji.
+
+**Art. 18zy.** W przypadku ustania przyczyn wydania decyzji o zastosowaniu środków, o których mowa w art. 18zv ust. 1 lub art. 18zw, Komisja uchyla tę decyzję:
+
+- **1)** z urzędu albo
+- **2)** na wniosek podmiotu, o którym mowa w art. 18zq ust. 1, oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub podmiotu, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+
+**Art. 18zz.**
+
+1. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, nie wykonuje obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje je nienależycie lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, nie wykonuje obowiązków, o których mowa w art. 21 rozporządzenia 2023/2631, albo wykonuje je nienależycie, Komisja może, w drodze decyzji:
+
+- **1)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań w przyszłości lub
+- **2)** nałożyć na ten podmiot karę pieniężną do wysokości nieprzekraczającej kwoty 2 170 650 zł lub kwoty stanowiącej równowartość 0,5 % całkowitego rocznego przychodu wykazanego w ostatnim sprawozdaniu finansowym za rok obrotowy, zatwierdzonym przez organ zatwierdzający, lub
+- **3)** nałożyć karę pieniężną do wysokości nieprzekraczającej kwoty 217 065 zł na osoby fizyczne odpowiedzialne za zaistniałe naruszenia.
+
+2. W przypadku gdy:
+
+- **1)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1–3, nie wykonuje nakazu, o którym mowa w art. 18zt ust. 1 lub 3, albo wykonuje go nienależycie,
+- **2)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 4, nie wykonuje nakazu, o którym mowa w art. 18zu ust. 1, albo wykonuje go nienależycie,
+- **3)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub inny podmiot działający w ich imieniu lub na ich zlecenie nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 1, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 2,
+- **4)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, oferujący, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, lub inny podmiot uczestniczący w ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie podmiotu, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, lub oferującego, o którym mowa w art. 2 lit. i rozporządzenia 2017/1129, nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 3, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 4,
+- **5)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1 albo 2, podmiot, o którym mowa w art. 11a ust. 2 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, lub podmiot występujący w ich imieniu lub na ich zlecenie nie wykonuje nakazu, o którym mowa w art. 18zv ust. 1 pkt 5, albo wykonuje go nienależycie, albo narusza zakaz, o którym mowa w art. 18zv ust. 1 pkt 6 – Komisja może nałożyć na ten podmiot karę pieniężną do wysokości 5 000 000 zł.
+
+3. W przypadku gdy jest możliwe ustalenie kwoty korzyści uzyskanych lub strat unikniętych w wyniku naruszenia przepisów wymienionych w ust. 1, kara pieniężna, o której mowa w ust. 1 pkt 2, może zostać nałożona do wysokości dwukrotności kwoty korzyści uzyskanych lub strat unikniętych.
+
+4. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1, jest jednostką dominującą albo jednostką zależną jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1 pkt 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu jednostki dominującej najwyższego szczebla wykazana w ostatnim skonsolidowanym sprawozdaniu finansowym jednostki dominującej za rok obrotowy, zatwierdzonym przez organ zatwierdzający jednostki dominującej.
+
+5. Komisja, ustalając rodzaj i wysokość kary, uwzględnia okoliczności, o których mowa w art. 50 ust. 1 rozporządzenia 2023/2631.
+
+6. W przypadku podmiotu, o którym mowa w art. 18zq ust. 1, będącego funduszem inwestycyjnym zamkniętym kara pieniężna jest nakładana na towarzystwo funduszy inwestycyjnych będące organem tego funduszu.
+
+7. W przypadku podmiotu, o którym mowa w art. 18zq ust. 1, będącego alternatywną spółką inwestycyjną zarządzaną przez zewnętrznie zarządzającego ASI albo zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych kara pieniężna nakładana jest odpowiednio na tych zarządzających.
+
+8. W przypadku stwierdzenia naruszenia przepisów tytułu II rozdziału 2, art. 18, art. 19 lub art. 21 rozporządzenia 2023/2631 przez osobę fizyczną Komisja może, w decyzji o zastosowaniu środków, o których mowa w ust. 1, zakazać tej osobie fizycznej udziału w procesie emisji europejskich zielonych obligacji na czas określony, nieprzekraczający roku.
+
+9. W przypadku gdy podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach tytułu II rozdziału 2 rozporządzenia 2023/2631, podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, poważnie i wielokrotnie naruszył obowiązki, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, lub podmiot, o którym mowa w art. 18zq ust. 1 pkt 3, poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, Komisja może dodatkowo zakazać temu podmiotowi emitowania europejskich zielonych obligacji przez okres nieprzekraczający roku.
+
+**Art. 18zza.**
+
+1. W przypadku gdy:
+
+- **1)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 1, dla którego Rzeczpospolita Polska jest przyjmującym państwem członkowskim w rozumieniu art. 2 pkt 8 rozporządzenia 2023/2631, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie,
+- **2)** podmiot, o którym mowa w art. 18zq ust. 1 pkt 2, dla którego Rzeczpospolita Polska jest przyjmującym państwem członkowskim w rozumieniu art. 2 pkt 8 rozporządzenia 2023/2631, nie wykonuje obowiązków, o których mowa w art. 14 ust. 1, art. 15, art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie albo jego jednostka inicjująca w rozumieniu art. 2 pkt 3 rozporządzenia 2017/2402, która korzysta ze środków pochodzących z emisji obligacji sekurytyzacyjnych, o których mowa w art. 2 pkt 22 rozporządzenia 2023/2631, mających oznakowanie „europejska zielona obligacja” lub „EuGB”, wyemitowanych przez ten podmiot, nie wykonuje obowiązków, o których mowa w przepisach tytułu II rozdziału 2 lub art. 18 lub art. 19 rozporządzenia 2023/2631, albo wykonuje te obowiązki nienależycie – Komisja przekazuje informację o tym zdarzeniu właściwemu organowi państwa macierzystego w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2631 tego podmiotu oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
+
+2. W przypadku gdy mimo poinformowania przez Komisję właściwy organ państwa macierzystego w rozumieniu art. 2 pkt 7 rozporządzenia 2023/2631 podmiotu, o którym mowa w ust. 1, nie podejmuje działań mających zapobiec dalszemu naruszaniu przepisów prawa lub gdy te działania są nieskuteczne, Komisja może, w celu ochrony interesu inwestorów, po uprzednim poinformowaniu tego organu zastosować sankcje, o których mowa w art. 18zz ust. 1. Komisja niezwłocznie przekazuje Komisji Europejskiej i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o zastosowaniu tych sankcji.
+
+**Art. 18zzb.**
+
+1. Komisja przekazuje do publicznej wiadomości przez udostępnienie na swojej stronie internetowej:
+
+- **1)** informację o treści rozstrzygnięcia oraz rodzaju i charakterze naruszenia, zawierającą imię i nazwisko osoby fizycznej lub firmę (nazwę) podmiotu, wobec których zastosowano środek, o którym mowa w art. 18zz ust. 1, 2, 8 i 9;
+- **2)** w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy lub skargi do wojewódzkiego sądu administracyjnego w odniesieniu do decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9 – informację o ich złożeniu, jeżeli Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek lub ta skarga dotyczą;
+- **3)** informację o treści rozstrzygnięcia ostatecznej decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, a w przypadku gdy w odniesieniu do decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, została wniesiona skarga do wojewódzkiego sądu administracyjnego – informację o treści prawomocnego wyroku sądu administracyjnego;
+- **4)** informację o uchyleniu, zmianie albo stwierdzeniu nieważności przez Komisję ostatecznej decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9.
+
+2. Przekazanie do publicznej wiadomości informacji, o której mowa w ust. 1 pkt 1, następuje niezwłocznie po doręczeniu decyzji stronie postępowania.
+
+3. Komisja może, w drodze uchwały, opóźnić przekazanie do publicznej wiadomości informacji, o której mowa w ust. 1, lub przekazać taką informację bez wskazywania osoby fizycznej lub firmy (nazwy) podmiotu, wobec których zastosowano środek, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości:
+
+- **1)** wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego;
+- **2)** jest nieproporcjonalne do wagi stwierdzonego naruszenia – w przypadku danych osobowych lub firmy (nazwy) podmiotu;
+- **3)** stanowiłoby poważne zagrożenie dla stabilności systemu finansowego lub będącego w toku postępowania administracyjnego, wyjaśniającego lub karnego.
+
+4. Komisja może nie przekazywać do publicznej wiadomości informacji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości mogłoby:
+
+- **1)** naruszyć stabilność systemu finansowego lub
+- **2)** wyrządzić niewspółmierną i znaczącą szkodę podmiotom, które dopuściły się naruszenia.
+
+5. W przypadku gdy Komisja nie przekazała do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej lub firmie (nazwie) podmiotu, może upublicznić te dane, jeżeli ustały przesłanki, o których mowa w ust. 3, nie później jednak niż w terminie 5 lat, licząc od dnia wydania decyzji o zastosowaniu środka, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, wobec tej osoby lub tego podmiotu.
+
+6. Informacje, o których mowa w ust. 1, są dostępne na stronie internetowej Komisji przez co najmniej 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby fizycznej, wobec której został zastosowany środek, o którym mowa w art. 18zz ust. 1, 2, 8 i 9, są dostępne na tej stronie przez rok.
+
+**Art. 18zzc.**
+
+1. Komisja równocześnie z przekazaniem do publicznej wiadomości informacji, o których mowa w art. 18zzb ust. 1, przekazuje te informacje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
+
+2. Po zastosowaniu środków, o których mowa w art. 18zzb ust. 3 i 4, Komisja niezwłocznie informuje o tym Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+
+3. Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o przypadkach zastosowania w poprzednim roku kalendarzowym środków, o których mowa w art. 18zz ust. 1, 2, 8 i 9.
 
 #### Rozdział 3 Finansowanie nadzoru nad rynkiem finansowym
 
@@ -1498,6 +1697,8 @@ Art. 21–64. (pominięte)
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
 
+**Art. 21–64.** (pominięte)
+
 #### Rozdział 5 Przepisy przejściowe, dostosowujące i końcowe
 
 **Art. 65.**
@@ -1567,7 +1768,9 @@ Art. 21–64. (pominięte)
 
 1. Pracownicy Urzędu Komisji Nadzoru Finansowego, o których mowa w art. 74 ust. 1 i 2, są obowiązani dostosować się do wymagań określonych w art. 15 w terminie 7 miesięcy od dnia wejścia w życie ustawy.
 
-2. Pracownicy Urzędu Komisji Nadzoru Finansowego, o których mowa w art. 74 ust. 4, są obowiązani dostosować się do wymagań określonych w art. 15 do dnia 31 lipca 2008 r. Art. 77–80. (pominięte)
+2. Pracownicy Urzędu Komisji Nadzoru Finansowego, o których mowa w art. 74 ust. 4, są obowiązani dostosować się do wymagań określonych w art. 15 do dnia 31 lipca 2008 r.
+
+**Art. 77–80.** (pominięte)
 
 **Art. 81.**
 

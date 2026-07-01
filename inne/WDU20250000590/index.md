@@ -8,12 +8,10 @@ pos: 590
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rybołówstwie morskim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 kwietnia 2025 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rybołówstwie morskim
 
 | Pole | Wartość |
 |---|---|
@@ -27,12 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-05-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/590/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2024 r. poz. 243), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2024 r. poz. 243), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
 poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 kwietnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 91, art. 92 i art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), które stanowią: „Art. 91. Do postępowań w sprawie wydania, zmiany i cofnięcia pozwolenia radiowego, o którym mowa w art. 143 ust. 1 ustawy uchylanej w art. 68 ust. 1, lub zmiany warunków wykorzystywania częstotliwości, wszczętych i niezakończonych przed dniem wejścia w życie ustawy, o której mowa w art. 1, stosuje się przepisy dotychczasowe.
-Art. 132–135. (pominięte)
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 91, art. 92 i art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), które stanowią: „Art. 91. Do postępowań w sprawie wydania, zmiany i cofnięcia pozwolenia radiowego, o którym mowa w art. 143 ust. 1 ustawy uchylanej w art. 68 ust. 1, lub zmiany warunków wykorzystywania częstotliwości, wszczętych i niezakończonych przed dniem wejścia w życie ustawy, o której mowa w art. 1, stosuje się przepisy dotychczasowe.
 
 **Art. 92.** Pozwolenie radiowe, o którym mowa w art. 143 ust. 1 ustawy uchylanej w art. 68 ust. 1, wydane przed dniem wejścia w życie ustawy, o której mowa w art. 1, zachowuje moc i staje się pozwoleniem radiowym, o którym mowa w art. 138 ustawy, o której mowa w art. 1.” „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
+- **3)** art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+- **4)** art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
+- **5)** art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”. Marszałek Sejmu: wz. P. Zgorzelski USTAWA z dnia 19 grudnia 2014 r. o rybołówstwie morskim
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -61,49 +64,55 @@ Art. 132–135. (pominięte)
 
 1. Użyte w ustawie określenia oznaczają:
 
-- **1)** dzień połowowy okres, w którym statek rybacki może przebywać poza portem w celu wykonywania rybołówstwa komercyjnego, nie dłuższy niż 24 godziny;
-- **2)** historyczna baza połowowa udokumentowane, na podstawie dzienników połowowych albo raportów połowowych, przez armatora statku rybackiego:
+- **1)** dzień połowowy – okres, w którym statek rybacki może przebywać poza portem w celu wykonywania rybołówstwa komercyjnego, nie dłuższy niż 24 godziny;
+- **2)** historyczna baza połowowa – udokumentowane, na podstawie dzienników połowowych albo raportów połowowych, przez armatora statku rybackiego:
     - **a)** wykorzystanie przyznanych mu w specjalnym zezwoleniu połowowym kwot połowowych danego gatunku organizmów morskich lub
-    - **b)** wydawanie lub wystawianie na określonym obszarze narzędzi połowowych przeznaczonych do połowu danego gatunku organizmów morskich danym statkiem rybackim wpisanym do rejestru statków rybackich albo statkiem rybackim, który został wpisany do rejestru statków rybackich w jego miejsce;
+    - **b)** wydawanie lub wystawianie na określonym obszarze narzędzi połowowych przeznaczonych do połowu danego gatunku organizmów morskich – danym statkiem rybackim wpisanym do rejestru statków rybackich albo statkiem rybackim, który został wpisany do rejestru statków rybackich w jego miejsce;
 
-- **3)** indywidualna kwota połowowa maksymalną liczbę sztuk lub masę danego gatunku organizmów morskich wyodrębnioną w ramach podziału ogólnej kwoty połowowej, przyznawaną armatorowi na statek rybacki do odłowienia w specjalnym zezwoleniu połowowym wydanym na ten statek;
-- **4)** instytut badawczy instytut badawczy, o którym mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);
-- **5)** instytut naukowy instytut naukowy, o którym mowa w ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796);
-- **6)** licencja licencję połowową w rozumieniu art. 4 pkt 9 rozporządzenia nr 1224/2009;
-- **7)** ogólna kwota połowowa maksymalną liczbę sztuk lub masę organizmów morskich danego gatunku:
+- **3)** indywidualna kwota połowowa – maksymalną liczbę sztuk lub masę danego gatunku organizmów morskich wyodrębnioną w ramach podziału ogólnej kwoty połowowej, przyznawaną armatorowi na statek rybacki do odłowienia w specjalnym zezwoleniu połowowym wydanym na ten statek;
+- **4)** instytut badawczy – instytut badawczy, o którym mowa w ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534);
+- **5)** instytut naukowy – instytut naukowy, o którym mowa w ustawie z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796);
+- **6)** licencja – licencję połowową w rozumieniu art. 4 pkt 9 rozporządzenia nr 1224/2009;
+- **7)** ogólna kwota połowowa – maksymalną liczbę sztuk lub masę organizmów morskich danego gatunku:
     - **a)** przyznawaną Rzeczypospolitej Polskiej do odłowienia w danym okresie na określonym obszarze, zgodnie z przepisami Unii Europejskiej dotyczącymi przyznawania poszczególnym państwom członkowskim Unii Europejskiej uprawnień do połowów poszczególnych gatunków organizmów morskich,
     - **b)** określaną na dany rok kalendarzowy przez ministra właściwego do spraw rybołówstwa do odłowienia na określonym obszarze;
 
-- **8)** organizmy morskie ryby morskie, słodkowodne i dwuśrodowiskowe oraz pozostałe organizmy żyjące w wodach morskich, w tym ssaki morskie;
-- **9)** połowy ukierunkowane połowy prowadzone w celu pozyskiwania określonych gatunków organizmów morskich przy użyciu technik lub narzędzi połowowych przeznaczonych do połowów tych gatunków;
-- **10)** ponowne wprowadzenie statku rybackiego do wykonywania rybołówstwa komercyjnego wprowadzenie do wykonywania rybołówstwa komercyjnego statku rybackiego uprzednio wycofanego z wykonywania tego rybołówstwa bez zastosowania pomocy publicznej z tytułu trwałego zaprzestania działalności połowowej;
-- **11)** przeładunek przeładunek w rozumieniu art. 4 pkt 16 rozporządzenia nr 1224/2009;
-- **12)** rozporządzenie nr 2017/1130 rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1130 z dnia 14 czerwca 2017 r. określające parametry statków rybackich (Dz. Urz. UE L 169 z 30.06.2017, str. 1);
-- **13)** rozporządzenie nr 2017/218 rozporządzenie wykonawcze Komisji (UE) 2017/218 z dnia 6 lutego 2017 r. w sprawie unijnego rejestru floty rybackiej (Dz. Urz. UE L 34 z 09.02.2017, str. 9 oraz Dz. Urz. UE L 209 z 12.08.2017, str. 56);
-- **14)** rozporządzenie nr 812/2004 rozporządzenie Rady (WE) nr 812/2004 z dnia 26 kwietnia 2004 r. ustanawiające środki dotyczące przypadkowych odłowów waleni na łowiskach i zmieniające rozporządzenie (WE) nr 88/98 (Dz. Urz. UE L 150 z 30.04.2004, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 4, t. 7, str. 91);
-- **15)** rozporządzenie nr 708/2007 rozporządzenie Rady (WE) nr 708/2007 z dnia 11 czerwca 2007 r. w sprawie wykorzystania w akwakulturze gatunków obcych i niewystępujących miejscowo (Dz. Urz. UE L 168 z 28.06.2007, str. 1, z późn. zm.);
-- **16)** rozporządzenie nr 1005/2008 rozporządzenie Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiające wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniające rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylające rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.);
-- **17)** rozporządzenie nr 1224/2009 rozporządzenie Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiające wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniające rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylające rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.);
-- **18)** rozporządzenie nr 404/2011 rozporządzenie wykonawcze Komisji (UE) nr 404/2011 z dnia 8 kwietnia 2011 r. ustanawiające szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1224/2009 ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa (Dz. Urz. UE L 112 z 30.04.2011, str. 1, z późn. zm.);
-- **19)** rozporządzenie nr 1380/2013 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniające rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylające rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.);
-- **20)** rybołówstwo komercyjne połów organizmów morskich w celach zarobkowych;
-- **21)** rybołówstwo morskie rybołówstwo komercyjne, rybołówstwo rekreacyjne, połów organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego, a także zarybianie oraz chów lub hodowla organizmów morskich, wprowadzanie do obszarów morskich Rzeczypospolitej Polskiej lub przenoszenie na tych obszarach organizmów morskich gatunków obcych lub organizmów morskich niewystępujących miejscowo, w rozumieniu odpowiednio art. 3 pkt 6 i 7 rozporządzenia nr 708/2007;
-- **22)** rybołówstwo rekreacyjne połów organizmów morskich prowadzony w celach rekreacyjnych lub podczas zawodów sportowych;
-- **23)** specjalne zezwolenie połowowe przyznawane armatorowi statku rybackiego upoważnienie do połowów w rozumieniu art. 4 pkt 10 rozporządzenia nr 1224/2009;
-- **24)** uznana organizacja klasyfikacyjna uznaną organizację w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
-- **25)** uznana organizacja producentów organizację producentów, o której mowa w art. 6 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), uznaną przez ministra właściwego do spraw rybołówstwa w trybie przepisów o rynku rybnym;
-- **26)** wspólna kwota połowowa kwotę połowową danego gatunku organizmów morskich wyodrębnioną w ramach podziału ogólnej kwoty połowowej, przyznawaną armatorom statków rybackich do odłowienia bez podziału na poszczególne statki rybackie;
-- **27)** wyładunek wyładunek w rozumieniu art. 4 pkt 22 rozporządzenia nr 1224/2009;
+- **8)** organizmy morskie – ryby morskie, słodkowodne i dwuśrodowiskowe oraz pozostałe organizmy żyjące w wodach morskich, w tym ssaki morskie;
+- **9)** połowy ukierunkowane – połowy prowadzone w celu pozyskiwania określonych gatunków organizmów morskich przy użyciu technik lub narzędzi połowowych przeznaczonych do połowów tych gatunków;
+- **10)** ponowne wprowadzenie statku rybackiego do wykonywania rybołówstwa komercyjnego – wprowadzenie do wykonywania rybołówstwa komercyjnego statku rybackiego uprzednio wycofanego z wykonywania tego rybołówstwa bez zastosowania pomocy publicznej z tytułu trwałego zaprzestania działalności połowowej;
+- **11)** przeładunek – przeładunek w rozumieniu art. 4 pkt 16 rozporządzenia nr 1224/2009;
+- **12)** rozporządzenie nr 2017/1130 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1130 z dnia 14 czerwca 2017 r. określające parametry statków rybackich (Dz. Urz. UE L 169 z 30.06.2017, str. 1);
+- **13)** rozporządzenie nr 2017/218 – rozporządzenie wykonawcze Komisji (UE) 2017/218 z dnia 6 lutego 2017 r. w sprawie unijnego rejestru floty rybackiej (Dz. Urz. UE L 34 z 09.02.2017, str. 9 oraz Dz. Urz. UE L 209 z 12.08.2017, str. 56);
+- **14)** rozporządzenie nr 812/2004 – rozporządzenie Rady (WE) nr 812/2004 z dnia 26 kwietnia 2004 r. ustanawiające środki dotyczące przypadkowych odłowów waleni na łowiskach i zmieniające rozporządzenie (WE) nr 88/98 (Dz. Urz. UE L 150 z 30.04.2004, str. 12, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 4, t. 7, str. 91);
+- **15)** rozporządzenie nr 708/2007 – rozporządzenie Rady (WE) nr 708/2007 z dnia 11 czerwca 2007 r. w sprawie wykorzystania w akwakulturze gatunków obcych i niewystępujących miejscowo (Dz. Urz. UE L 168 z 28.06.2007, str. 1, z późn. zm.);
+- **16)** rozporządzenie nr 1005/2008 – rozporządzenie Rady (WE) nr 1005/2008 z dnia 29 września 2008 r. ustanawiające wspólnotowy system zapobiegania nielegalnym, nieraportowanym i nieuregulowanym połowom oraz ich powstrzymywania i eliminowania, zmieniające rozporządzenia (EWG) nr 2847/93, (WE) nr 1936/2001 i (WE) nr 601/2004 oraz uchylające rozporządzenia (WE) nr 1093/94 i (WE) nr 1447/1999 (Dz. Urz. UE L 286 z 29.10.2008, str. 1, z późn. zm.);
+- **17)** rozporządzenie nr 1224/2009 – rozporządzenie Rady (WE) nr 1224/2009 z dnia 20 listopada 2009 r. ustanawiające wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa, zmieniające rozporządzenia (WE) nr 847/96, (WE) nr 2371/2002, (WE) nr 811/2004, (WE) nr 768/2005, (WE) nr 2115/2005, (WE) nr 2166/2005, (WE) nr 388/2006, (WE) nr 509/2007, (WE) nr 676/2007, (WE) nr 1098/2007, (WE) nr 1300/2008, (WE) nr 1342/2008 i uchylające rozporządzenia (EWG) nr 2847/93, (WE) nr 1627/94 oraz (WE) nr 1966/2006 (Dz. Urz. UE L 343 z 22.12.2009, str. 1, z późn. zm.);
+- **18)** rozporządzenie nr 404/2011 – rozporządzenie wykonawcze Komisji (UE) nr 404/2011 z dnia 8 kwietnia 2011 r. ustanawiające szczegółowe przepisy wykonawcze do rozporządzenia Rady (WE) nr 1224/2009 ustanawiającego wspólnotowy system kontroli w celu zapewnienia przestrzegania przepisów wspólnej polityki rybołówstwa (Dz. Urz. UE L 112 z 30.04.2011, str. 1, z późn. zm.);
+- **19)** rozporządzenie nr 1380/2013 – rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1380/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej polityki rybołówstwa, zmieniające rozporządzenia Rady (WE) nr 1954/2003 i (WE) nr 1224/2009 oraz uchylające rozporządzenia Rady (WE) nr 2371/2002 i (WE) nr 639/2004 oraz decyzję Rady 2004/585/WE (Dz. Urz. UE L 354 z 28.12.2013, str. 22, z późn. zm.);
+- **20)** rybołówstwo komercyjne – połów organizmów morskich w celach zarobkowych;
+- **21)** rybołówstwo morskie – rybołówstwo komercyjne, rybołówstwo rekreacyjne, połów organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego, a także zarybianie oraz chów lub hodowla organizmów morskich, wprowadzanie do obszarów morskich Rzeczypospolitej Polskiej lub przenoszenie na tych obszarach organizmów morskich gatunków obcych lub organizmów morskich niewystępujących miejscowo, w rozumieniu odpowiednio art. 3 pkt 6 i 7 rozporządzenia nr 708/2007;
+- **22)** rybołówstwo rekreacyjne – połów organizmów morskich prowadzony w celach rekreacyjnych lub podczas zawodów sportowych;
+- **23)** specjalne zezwolenie połowowe – przyznawane armatorowi statku rybackiego upoważnienie do połowów w rozumieniu art. 4 pkt 10 rozporządzenia nr 1224/2009;
+- **24)** uznana organizacja klasyfikacyjna – uznaną organizację w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
+- **25)** uznana organizacja producentów – organizację producentów, o której mowa w art. 6 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1379/2013 z dnia 11 grudnia 2013 r. w sprawie wspólnej organizacji rynków produktów rybołówstwa i akwakultury, zmieniającego rozporządzenia Rady (WE) nr 1184/2006 i (WE) nr 1224/2009 oraz uchylającego rozporządzenie Rady (WE) nr 104/2000 (Dz. Urz. UE L 354 z 28.12.2013, str. 1, z późn. zm.), uznaną przez ministra właściwego do spraw rybołówstwa w trybie przepisów o rynku rybnym;
+- **26)** wspólna kwota połowowa – kwotę połowową danego gatunku organizmów morskich wyodrębnioną w ramach podziału ogólnej kwoty połowowej, przyznawaną armatorom statków rybackich do odłowienia bez podziału na poszczególne statki rybackie;
+- **27)** wyładunek – wyładunek w rozumieniu art. 4 pkt 22 rozporządzenia nr 1224/2009;
 - **28)** (uchylony)
-- **29)** zdolność połowowa zdolność połowową w rozumieniu art. 4 pkt 24 rozporządzenia nr 1380/2013.
+- **29)** zdolność połowowa – zdolność połowową w rozumieniu art. 4 pkt 24 rozporządzenia nr 1380/2013.
 
-2. Ilekroć w ustawie jest mowa o obszarach morskich Rzeczypospolitej Polskiej, morskich wodach wewnętrznych, morzu terytorialnym lub wyłącznej strefie ekonomicznej należy przez to rozumieć odpowiednio obszary morskie Rzeczypospolitej Polskiej, morskie wody wewnętrzne, morze terytorialne lub wyłączną strefę ekonomiczną, w rozumieniu przepisów ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409).
+2. Ilekroć w ustawie jest mowa o obszarach morskich Rzeczypospolitej Polskiej, morskich wodach wewnętrznych, morzu terytorialnym lub wyłącznej strefie ekonomicznej – należy przez to rozumieć odpowiednio obszary morskie Rzeczypospolitej Polskiej, morskie wody wewnętrzne, morze terytorialne lub wyłączną strefę ekonomiczną, w rozumieniu przepisów ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409).
 
 **Art. 3.** Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, granice między wodami morskimi a wodami śródlądowymi do celów wykonywania rybołówstwa morskiego, mając na względzie zróżnicowanie metod zarządzania żywymi zasobami morza i wód śródlądowych.
 
 **Art. 4.** W sprawach dotyczących wykonywania rybołówstwa morskiego stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że przepisy ustawy stanowią inaczej.
 
 **Art. 5.** Zabrania się:
+
+- **1)** niszczenia tarlisk, ikry oraz narybku;
+- **2)** używania przy prowadzeniu połowów organizmów morskich materiałów wybuchowych, środków odurzających, trujących lub zanieczyszczających środowisko morskie;
+- **3)** wydawania lub wystawiania narzędzi połowowych w taki sposób lub w takim miejscu, aby:
+    - **a)** powodowały uszkodzenia innych narzędzi połowowych lub
+    - **b)** utrudniały prowadzenie połowów organizmów morskich.
 
 **Art. 6.**
 
@@ -141,7 +150,7 @@ Art. 132–135. (pominięte)
 1. Wyodrębnia się następujące segmenty floty obejmujące statki rybackie, przy użyciu których prowadzi się rybołówstwo komercyjne:
 
 - **1)** na wodach otwartych Morza Bałtyckiego, obszarach wyłącznej strefy ekonomicznej i morza terytorialnego, Zatoki Puckiej i Zatoki Gdańskiej, o długości całkowitej nie mniejszej niż 5 m;
-- **2)** na obszarach, o których mowa w art. 4 pkt 1 i 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz na obszarach na północ od granicy między wodami morskimi a wodami śródlądowymi wyznaczonej w przepisach wykonawczych wydanych na podstawie art. 3 o długości całkowitej do 12,00 m;
+- **2)** na obszarach, o których mowa w art. 4 pkt 1 i 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz na obszarach na północ od granicy między wodami morskimi a wodami śródlądowymi wyznaczonej w przepisach wykonawczych wydanych na podstawie art. 3 – o długości całkowitej do 12,00 m;
 - **3)** na obszarach morskich innych niż wymienione w pkt 1 i 2.
 
 2. (uchylony)
@@ -152,9 +161,39 @@ Art. 132–135. (pominięte)
 
 **Art. 10.** Minister właściwy do spraw rybołówstwa, w zakresie nieobjętym przepisami Unii Europejskiej dotyczącymi wspólnej polityki rybołówstwa, zwanej dalej „WPR”, określi, w drodze rozporządzenia, w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 1 i 2:
 
+- **1)** wymiary i okresy ochronne organizmów morskich lub
+- **2)** obszary wyłączone z wykonywania tego rybołówstwa na stałe lub na czas określony, lub
+- **3)** szczegółowe warunki wykonywania tego rybołówstwa, w tym:
+    - **a)** rodzaj, liczbę i konstrukcję narzędzi połowowych, które mogą być używane,
+    - **b)** rodzaj i liczbę narzędzi połowowych, które mogą być wystawiane jednocześnie na obszarach, o których mowa w art. 9 ust. 1 pkt 1 lub 2,
+    - **c)** sposób prowadzenia połowów,
+    - **d)** sposób postępowania w przypadku połowu oznakowanych ryb pochodzących z zarybiania obszarów morskich Rzeczypospolitej Polskiej,
+    - **e)** wielkość dopuszczalnego przyłowu oraz gatunki organizmów morskich, których przyłów podlega obowiązkowi zgłoszenia do Głównego Inspektora Rybołówstwa Morskiego,
+    - **f)** szczegółowy sposób oznakowania narzędzi połowowych,
+    - **g)** miejsca i czas dokonywania wyładunku określonych gatunków organizmów morskich – mając na względzie efektywne wykorzystywanie narzędzi połowowych oraz ochronę żywych zasobów morza.
+
 **Art. 11.** (uchylony)
 
 **Art. 12.** Zabrania się:
+
+- **1)** prowadzenia połowów w ramach wykonywania rybołówstwa komercyjnego gatunku organizmów morskich:
+    - **a)** którego ogólna kwota połowowa została wyczerpana,
+    - **b)** dla którego został wprowadzony zakaz połowów,
+    - **c)** którego wspólna kwota połowowa została wyczerpana;
+
+- **2)** wykonywania rybołówstwa komercyjnego:
+    - **a)** narzędziami połowowymi, które nie są wpisane w specjalnym zezwoleniu połowowym lub których używanie jest w danym okresie lub na określonym obszarze zabronione,
+    - **b)** organizmów morskich: – które nie przekroczyły ustanowionych dla nich wymiarów ochronnych, – które znajdują się w ustanowionych dla nich okresach ochronnych, – gatunku, dla którego został wprowadzony zakaz połowów ukierunkowanych lub zakaz połowów w danym okresie lub na danym obszarze,
+    - **c)** na obszarach wyłączonych z wykonywania rybołówstwa komercyjnego,
+    - **d)** na obszarach, o których mowa w art. 9 ust. 1 pkt 2, statkiem rybackim o długości całkowitej przekraczającej 12 m,
+    - **e)** na obszarach, o których mowa w art. 9 ust. 1 pkt 1, statkiem rybackim o długości całkowitej mniejszej niż 5 m lub mocy silnika głównego mniejszej niż 15 kW,
+    - **f)** bez zgody ministra właściwego do spraw rybołówstwa, o której mowa w art. 69 ust. 8;
+
+- **3)** podczas prowadzenia połowów w ramach wykonywania rybołówstwa komercyjnego:
+    - **a)** wyładowywania na ląd, wprowadzania do obrotu, magazynowania, transportu lub przeładunku w morzu organizmów morskich złowionych z naruszeniem przepisów o rybołówstwie morskim,
+    - **b)** wydawania lub wystawiania nieoznakowanych narzędzi połowowych;
+
+- **4)** przyłowu gatunku organizmów morskich, którego wyodrębniona na podstawie art. 44 ust. 3 kwota połowowa została wyczerpana.
 
 #### Rozdział 2 Rejestr statków rybackich i oznaka rybacka
 
@@ -226,9 +265,9 @@ Art. 132–135. (pominięte)
     - **b)** tymczasowe świadectwo klasy, albo
     - **c)** świadectwo klasy łodzi, albo
     - **d)** tymczasowe świadectwo klasy łodzi, albo
-    - **e)** orzeczenie techniczne o zdatności do pływania oraz świadectwo urządzeń maszynowych albo tymczasowe świadectwo urządzeń maszynowych;
+    - **e)** orzeczenie techniczne o zdatności do pływania – oraz świadectwo urządzeń maszynowych albo tymczasowe świadectwo urządzeń maszynowych;
 
-- **4)** pozwolenie radiowe na używanie stacji statkowej w służbie radiotelekomunikacji morskiej, o którym mowa w przepisach ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
+- **4)** pozwolenie radiowe na używanie stacji statkowej w służbie radiotelekomunikacji morskiej, o którym mowa w przepisach ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
 - **5)** dokument, o którym mowa w art. 6 rozporządzenia nr 2017/1130, o ile właściciel statku posiada taki dokument, albo inny równoważny dokument potwierdzający dzień wprowadzenia statku do eksploatacji.
 
 6. Właściciel statku może dołączyć do wniosku o dokonanie wpisu statku do rejestru dokumenty będące odpowiednikami dokumentów wymienionych w ust. 5 pkt 3, jeżeli zostały wystawione przez inne niż polskie instytucje lub organy uprawnione do ich wystawienia.
@@ -238,6 +277,14 @@ Art. 132–135. (pominięte)
 8. Wniosek o dokonanie wpisu statku do rejestru oraz wniosek o dokonanie zmiany wpisu w rejestrze składa się do ministra właściwego do spraw rybołówstwa na formularzu udostępnionym na stronie internetowej urzędu obsługującego tego ministra.
 
 **Art. 15.** Minister właściwy do spraw rybołówstwa odmawia dokonania wpisu statku do rejestru, jeżeli:
+
+- **1)** wpis spowodowałby przekroczenie indywidualnej zdolności połowowej, którą dysponuje właściciel tego statku lub
+- **2)** właściciel tego statku złożył wniosek o jego wpis do rejestru w ramach zdolności połowowej, o której mowa w art. 22 ust. 2 pkt 3, z wyłączeniem przypadku, gdy wpis dotyczy statku, który miałby zostać wpisany do segmentu floty, o którym mowa w art. 9 ust. 1 pkt 3, lub
+- **3)** (uchylony)
+- **4)** właściciel tego statku złożył wniosek o jego wpis do rejestru, a statek ten został uprzednio wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej z tytułu trwałego zaprzestania działalności połowowej, zwanej dalej „pomocą publiczną”, lub
+- **5)** właściciel tego statku złożył wniosek o jego wpis do rejestru w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 1, a długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW, lub
+- **6)** właściciel statku złożył wniosek o jego wpis do rejestru w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, a długość całkowita tego statku przekracza 12 m, lub
+- **7)** statek ten znajduje się we wspólnotowym wykazie statków prowadzących połowy nielegalne, nieraportowane i nieuregulowane, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1005/2008.
 
 **Art. 16.**
 
@@ -257,12 +304,12 @@ Art. 132–135. (pominięte)
 
 **Art. 17.**
 
-1. Wniosek o dokonanie zmiany wpisu w rejestrze zawiera dane, których dotyczy zmiana, a w przypadku wycofania statku rybackiego z wykonywania rybołówstwa komercyjnego okoliczności uzasadniające wycofanie.
+1. Wniosek o dokonanie zmiany wpisu w rejestrze zawiera dane, których dotyczy zmiana, a w przypadku wycofania statku rybackiego z wykonywania rybołówstwa komercyjnego – okoliczności uzasadniające wycofanie.
 
 1a. W przypadku gdy zmiana wpisu w rejestrze dotyczy:
 
-- **1)** zwiększenia zdolności połowowej statku rybackiego we wniosku o dokonanie zmiany wpisu w rejestrze podaje się informację, z jakiego statku rybackiego pochodzi indywidualna zdolność połowowa, w ramach której ma nastąpić zmiana wpisu w rejestrze, oraz informację o wielkości tej zdolności połowowej;
-- **2)** ponownego wprowadzenia statku rybackiego do wykonywania rybołówstwa komercyjnego we wniosku o dokonanie zmiany wpisu w rejestrze podaje się:
+- **1)** zwiększenia zdolności połowowej statku rybackiego – we wniosku o dokonanie zmiany wpisu w rejestrze podaje się informację, z jakiego statku rybackiego pochodzi indywidualna zdolność połowowa, w ramach której ma nastąpić zmiana wpisu w rejestrze, oraz informację o wielkości tej zdolności połowowej;
+- **2)** ponownego wprowadzenia statku rybackiego do wykonywania rybołówstwa komercyjnego – we wniosku o dokonanie zmiany wpisu w rejestrze podaje się:
     - **a)** informację, z jakiego statku rybackiego pochodzi indywidualna zdolność połowowa, w ramach której ma nastąpić ponowne wprowadzenie statku rybackiego do wykonywania rybołówstwa komercyjnego, oraz o wielkości tej zdolności połowowej,
     - **b)** oznakę rybacką wycofanego statku rybackiego, w miejsce którego ma nastąpić ponowne wprowadzenie statku rybackiego do wykonywania rybołówstwa komercyjnego.
 
@@ -270,9 +317,20 @@ Art. 132–135. (pominięte)
 
 - **1)** dokumenty, o których mowa w art. 14 ust. 5 albo ust. 6, potwierdzające dane, których dotyczy zmiana, lub
 - **2)** dokument potwierdzający zakres wykonanej modernizacji na statku rybackim oraz informację o zmianie zdolności połowowej tego statku, lub
-- **3)** dokument, o którym mowa w art. 14 ust. 5 pkt 1 w przypadku zmiany polegającej na ponownym wprowadzeniu statku rybackiego do wykonywania rybołówstwa komercyjnego.
+- **3)** dokument, o którym mowa w art. 14 ust. 5 pkt 1 – w przypadku zmiany polegającej na ponownym wprowadzeniu statku rybackiego do wykonywania rybołówstwa komercyjnego.
 
 **Art. 18.** Minister właściwy do spraw rybołówstwa odmawia dokonania zmiany wpisu w rejestrze, gdy:
+
+- **1)** zmiana wpisu dotyczy:
+    - **a)** zwiększenia zdolności połowowej statku rybackiego – jeżeli na dzień złożenia wniosku właściciel statku rybackiego nie dysponuje odpowiednią indywidualną zdolnością połowową,
+    - **b)** ponownego wprowadzenia statku rybackiego do wykonywania rybołówstwa komercyjnego, jeżeli: – właściciel statku nie dysponuje odpowiednią indywidualną zdolnością połowową, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w ramach indywidualnej zdolności połowowej, o której mowa w art. 22 ust. 2 pkt 3, z wyłączeniem przypadku gdy zmiana wpisu dotyczy statku rybackiego wprowadzanego do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 3, – statek został uprzednio wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 1, a długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW, – statek ma być wprowadzony do wykonywania rybołówstwa komercyjnego w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, a długość całkowita tego statku przekracza 12 m,
+    - **c)** wycofania statku rybackiego z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej – jeżeli właściciel tego statku zwiększył zdolność połowową statku z wykorzystaniem dodatkowej zdolności połowowej w okresie 5 lat od dnia wydania decyzji w sprawie dokonania zmiany w rejestrze w zakresie zwiększenia zdolności połowowej statku w ramach przyznanej dodatkowej zdolności połowowej,
+    - **d)** narzędzi połowowych ciągnionych – w przypadku statku rybackiego o długości całkowitej do 12 m, na który przyznano dodatkową zdolność połowową, w terminie 5 lat od dnia dokonania wpisu w rejestrze związanego z wydaniem decyzji o przyznaniu tej zdolności połowowej,
+    - **e)** wprowadzenia statku rybackiego do segmentu floty, o którym mowa w art. 9 ust. 1: – pkt 1, jeżeli długość całkowita tego statku jest mniejsza niż 5 m lub moc silnika głównego tego statku wynosi mniej niż 15 kW lub – pkt 2, jeżeli długość całkowita tego statku przekracza 12 m;
+
+- **2)** przedmiotem zmiany wpisu dotyczącego modernizacji statku rybackiego nie będzie, w przypadku statku rybackiego o długości całkowitej mniejszej niż 5 m lub mocy silnika głównego mniejszej niż 15 kW, doprowadzenie do posiadania przez ten statek długości całkowitej wynoszącej co najmniej 5 m oraz mocy silnika głównego wynoszącej co najmniej 15 kW;
+- **3)** przedmiotem zmiany wpisu będzie, w przypadku statku rybackiego znajdującego się w segmencie floty, o którym mowa w art. 9 ust. 1 pkt 2, zwiększenie długości całkowitej tego statku powyżej 12 m.
+- **4)** (uchylony)
 
 **Art. 19.**
 
@@ -302,6 +360,11 @@ Art. 132–135. (pominięte)
 
 **Art. 21.** Główny Inspektor Rybołówstwa Morskiego wykreśla oznakę rybacką ze spisu oznak rybackich:
 
+- **1)** na wniosek właściciela statku rybackiego albo
+- **2)** z urzędu, w przypadku gdy:
+    - **a)** statek rybacki, któremu została nadana oznaka rybacka, został wycofany z wykonywania rybołówstwa komercyjnego z zastosowaniem pomocy publicznej albo
+    - **b)** po upływie 12 miesięcy od dnia nadania oznaki rybackiej nie został złożony wniosek o dokonanie wpisu statku do rejestru albo o dokonanie zmiany wpisu statku rybackiego w rejestrze.
+
 #### Rozdział 3 Zdolność połowowa
 
 **Art. 22.**
@@ -328,7 +391,7 @@ Art. 132–135. (pominięte)
 
 - **1)** o uznaniu statku rybackiego za wycofany z wykonywania rybołówstwa komercyjnego, w przypadku, o którym mowa w art. 19 ust. 1 pkt 2 lit. a,
 - **2)** o której mowa w art. 29 ust. 2,
-- **3)** o której mowa w art. 32 zwanej dalej „dodatkową zdolnością połowową”.
+- **3)** o której mowa w art. 32 – zwanej dalej „dodatkową zdolnością połowową”.
 
 2. Dodatkowa zdolność połowowa jest przyznawana, w drodze decyzji, właścicielowi statku rybackiego, na jego wniosek:
 
@@ -340,7 +403,7 @@ Art. 132–135. (pominięte)
 - **3)** na cele związane z poprawą:
     - **a)** bezpieczeństwa statku rybackiego lub
     - **b)** warunków pracy na statku rybackim, lub
-    - **c)** higieny lub jakości produktów rybołówstwa jeżeli właściciel statku rybackiego nie dysponuje indywidualną zdolnością połowową wystarczającą do realizacji tych celów.
+    - **c)** higieny lub jakości produktów rybołówstwa – jeżeli właściciel statku rybackiego nie dysponuje indywidualną zdolnością połowową wystarczającą do realizacji tych celów.
 
 3. Wniosek o przyznanie dodatkowej zdolności połowowej, zawiera:
 
@@ -358,8 +421,8 @@ Art. 132–135. (pominięte)
 
 1. Dodatkowa zdolność połowowa jest przyznawana do wysokości:
 
-- **1)** 60 % wpisanej do rejestru indywidualnej zdolności połowowej statku rybackiego w przypadku statku rybackiego o długości całkowitej do 15 m;
-- **2)** 10 % wpisanej do rejestru indywidualnej zdolności połowowej statku rybackiego w przypadku statku rybackiego o długości całkowitej powyżej 15 m.
+- **1)** 60 % wpisanej do rejestru indywidualnej zdolności połowowej statku rybackiego – w przypadku statku rybackiego o długości całkowitej do 15 m;
+- **2)** 10 % wpisanej do rejestru indywidualnej zdolności połowowej statku rybackiego – w przypadku statku rybackiego o długości całkowitej powyżej 15 m.
 
 2. W przypadku statku rybackiego o długości całkowitej do 12 m, przy użyciu którego nie mogą być prowadzone połowy z zastosowaniem narzędzi ciągnionych, dodatkowa zdolność połowowa jest przyznawana do wysokości 70 % wpisanej do rejestru indywidualnej zdolności połowowej statku rybackiego.
 
@@ -379,7 +442,7 @@ Art. 132–135. (pominięte)
 
 1. W sprawach dotyczących przyznania dodatkowej zdolności połowowej, w razie śmierci wnioskodawcy, rozwiązania lub przekształcenia osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, której ustawa przyznaje zdolność prawną, lub innego zdarzenia prawnego, w wyniku których zaistnieje następstwo prawne albo w razie zbycia całości lub części przedsiębiorstwa w toku postępowania, następca prawny, nabywca przedsiębiorstwa lub jego części albo zapisobierca windykacyjny może, po złożeniu wniosku, wstąpić do toczącego się postępowania na miejsce wnioskodawcy.
 
-2. Do wniosku następca prawny dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego, a w przypadku następstwa prawnego będącego wynikiem śmierci kopię prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo kopię zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
+2. Do wniosku następca prawny dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego, a w przypadku następstwa prawnego będącego wynikiem śmierci – kopię prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo kopię zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
 
 3. W przypadku następstwa prawnego będącego wynikiem śmierci, jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo kopię wniosku o stwierdzenie nabycia spadku potwierdzoną przez sąd za zgodność z oryginałem.
 
@@ -404,13 +467,17 @@ Art. 132–135. (pominięte)
 
 **Art. 28.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, przyznania dodatkowej zdolności połowowej, jeżeli:
 
+- **1)** nie są spełnione warunki, o których mowa w art. 23 ust. 2;
+- **2)** w okresie ostatnich 10 lat poprzedzających dzień złożenia wniosku o przyznanie dodatkowej zdolności połowowej, właściciel statku rybackiego dokonał zmniejszenia zdolności połowowej tego statku;
+- **3)** wnioskodawca nie spełnił kryteriów, o których mowa w przepisach wykonawczych wydanych na podstawie art. 25 ust. 5.
+
 **Art. 29.**
 
 1. W terminie 5 lat od dnia dokonania zmiany wpisu w rejestrze związanej z wydaniem decyzji o przyznaniu dodatkowej zdolności połowowej właściciel statku rybackiego, na który przyznano dodatkową zdolność połowową, nie może:
 
 - **1)** zmniejszyć zdolności połowowej tego statku;
 - **2)** wprowadzić w miejsce tego statku, statku rybackiego o mniejszej zdolności połowowej;
-- **3)** prowadzić połowów przy użyciu narzędzi połowowych ciągnionych w przypadku statku rybackiego, na który przyznano dodatkową zdolność połowową, o której mowa w art. 24 ust. 2.
+- **3)** prowadzić połowów przy użyciu narzędzi połowowych ciągnionych – w przypadku statku rybackiego, na który przyznano dodatkową zdolność połowową, o której mowa w art. 24 ust. 2.
 
 2. W przypadku naruszenia warunków, o których mowa w ust. 1 pkt 1 lub 2, minister właściwy do spraw rybołówstwa cofa, w drodze decyzji, przyznaną dodatkową zdolność połowową w wielkości, o której mowa odpowiednio w ust. 1 pkt 1 albo 2, jednak nie więcej niż do wysokości przyznanej dodatkowej zdolności połowowej.
 
@@ -432,12 +499,21 @@ Art. 132–135. (pominięte)
 
 4. Minister właściwy do spraw rybołówstwa w przypadku gdy:
 
-- **1)** podmiot zainteresowany przyjęciem indywidualnej zdolności połowowej nie jest właścicielem statku rybackiego pozostawia wniosek w sprawie przekazania indywidualnej zdolności połowowej bez rozpoznania;
-- **2)** właściciel statku rybackiego przekazujący daną wielkość indywidualnej zdolności połowowej nie dysponuje zdolnością wystarczającą do przekazania albo przedmiotem przekazania jest indywidualna zdolność połowowa, o której mowa w art. 22 ust. 2 pkt 4 odmawia, w drodze decyzji, wydania zgody, o której mowa w ust. 2.
+- **1)** podmiot zainteresowany przyjęciem indywidualnej zdolności połowowej nie jest właścicielem statku rybackiego – pozostawia wniosek w sprawie przekazania indywidualnej zdolności połowowej bez rozpoznania;
+- **2)** właściciel statku rybackiego przekazujący daną wielkość indywidualnej zdolności połowowej nie dysponuje zdolnością wystarczającą do przekazania albo przedmiotem przekazania jest indywidualna zdolność połowowa, o której mowa w art. 22 ust. 2 pkt 4 – odmawia, w drodze decyzji, wydania zgody, o której mowa w ust. 2.
 
 **Art. 31.** Właściciel statku rybackiego może rozdysponować indywidualną zdolność połowową:
 
+- **1)** statku rybackiego wycofanego z wykonywania rybołówstwa komercyjnego bez zastosowania pomocy publicznej, z wyłączeniem wycofania, o którym mowa w art. 19 ust. 1 pkt 2 lit. a, albo
+- **2)** pozostałą po zmniejszeniu zdolności połowowej jego statku – w terminie 5 lat od dnia, kiedy decyzja w sprawie dokonania odpowiedniej zmiany wpisu w rejestrze, potwierdzającej to zdarzenie, stała się ostateczna.
+
 **Art. 32.** Minister właściwy do spraw rybołówstwa cofa, w drodze decyzji, prawo do dysponowania całością albo częścią indywidualnej zdolności połowowej:
+
+- **1)** z urzędu, w przypadku gdy zdolność ta nie została wykorzystana na dokonanie wpisu lub zmiany wpisu statku rybackiego w rejestrze przez właściciela statku:
+    - **a)** gdy upłynęło 5 lat od dnia, w którym ostateczna stała się decyzja w sprawie dokonania zmiany wpisu w rejestrze potwierdzająca: – wycofanie statku rybackiego z wykonywania rybołówstwa komercyjnego bez zastosowania pomocy publicznej albo – zmniejszenie zdolności połowowej statku rybackiego,
+    - **b)** gdy przekazana indywidualna zdolność połowowa, o której mowa w art. 30 ust. 1, nie została wykorzystana w terminie, o którym mowa w pkt 1 lit. a, liczonym od dnia, gdy decyzja w sprawie wyrażenia zgody na przekazanie indywidualnej zdolności połowowej stała się ostateczna;
+
+- **2)** na wniosek właściciela statku rybackiego.
 
 #### Rozdział 4 Licencja połowowa
 
@@ -467,11 +543,16 @@ Art. 132–135. (pominięte)
 
 **Art. 35.** Minister właściwy do spraw rybołówstwa odmawia, w drodze decyzji, wydania licencji w przypadku:
 
+- **1)** gdy statek, którego dotyczy wniosek, nie jest wpisany do rejestru;
+- **2)** gdy uprzednio w odniesieniu do statku rybackiego, którego dotyczy wniosek, cofnięto licencję na podstawie art. 129 ust. 2 rozporządzenia nr 404/2011;
+- **3)** gdy została wydana decyzja o uznaniu danego statku rybackiego za wycofany z wykonywania rybołówstwa komercyjnego oraz statek ten nie został ponownie wprowadzony do wykonywania rybołówstwa komercyjnego;
+- **4)** odmowy dokonania zmiany wpisu w rejestrze na podstawie art. 18.
+
 **Art. 35a.**
 
-1. Do postępowania w sprawie wydania licencji stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+1. Do postępowania w sprawie wydania licencji stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-2. Do postępowania w sprawie wydania licencji nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Do postępowania w sprawie wydania licencji nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 36.**
 
@@ -527,9 +608,9 @@ Art. 132–135. (pominięte)
 
 - **1)** minister właściwy do spraw rybołówstwa w odniesieniu do wykonywania rybołówstwa komercyjnego:
     - **a)** na obszarach, o których mowa w art. 9 ust. 1 pkt 1,
-    - **b)** na obszarach, o których mowa w art. 9 ust. 1 pkt 3 jeżeli prawo do wykonywania takiego rybołówstwa wynika z przepisów Unii Europejskiej lub z postanowień umów lub porozumień międzynarodowych;
+    - **b)** na obszarach, o których mowa w art. 9 ust. 1 pkt 3 – jeżeli prawo do wykonywania takiego rybołówstwa wynika z przepisów Unii Europejskiej lub z postanowień umów lub porozumień międzynarodowych;
 
-- **2)** Główny Inspektor Rybołówstwa Morskiego w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 2.
+- **2)** Główny Inspektor Rybołówstwa Morskiego – w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 2.
 
 2. Wniosek o wydanie specjalnego zezwolenia połowowego, o którym mowa w ust. 1 pkt 1, składa się za pośrednictwem Głównego Inspektora Rybołówstwa Morskiego.
 
@@ -543,10 +624,10 @@ Art. 132–135. (pominięte)
 - **2)** numer licencji albo wskazanie daty złożenia wniosku o jej wydanie;
 - **3)** oznakę rybacką statku rybackiego oraz jego długość całkowitą;
 - **4)** określenie gatunków organizmów morskich, które będą celem połowów;
-- **5)** wnioskowaną indywidualną kwotę połowową lub określenie liczby dni połowowych jeżeli dla danego gatunku organizmów morskich na danym obszarze została ustalona ogólna kwota połowowa lub liczba dni połowowych;
+- **5)** wnioskowaną indywidualną kwotę połowową lub określenie liczby dni połowowych – jeżeli dla danego gatunku organizmów morskich na danym obszarze została ustalona ogólna kwota połowowa lub liczba dni połowowych;
 - **6)** obszar prowadzenia połowów;
 - **7)** rodzaj i liczbę narzędzi połowowych, które będą wydawane lub wystawiane;
-- **8)** okres, na jaki ma być wydane specjalne zezwolenie połowowe w przypadku gdy jest wydawane na okres inny niż rok kalendarzowy, zgodnie z art. 40 ust. 2.
+- **8)** okres, na jaki ma być wydane specjalne zezwolenie połowowe – w przypadku gdy jest wydawane na okres inny niż rok kalendarzowy, zgodnie z art. 40 ust. 2.
 
 6. Wniosek o wydanie specjalnego zezwolenia połowowego na statek rybacki, na który nie została wydana licencja, armator tego statku rybackiego składa jednocześnie z wnioskiem o wydanie licencji na ten statek.
 
@@ -572,9 +653,9 @@ Art. 132–135. (pominięte)
 
 1. Organ, który wydał specjalne zezwolenie połowowe, zawiesza je, w drodze decyzji, w przypadku:
 
-- **1)** stosowania na statku rybackim narzędzi połowowych, które nie są wpisane w specjalnym zezwoleniu połowowym lub których używanie jest w danym okresie lub na danym obszarze zabronione na okres 6 miesięcy, nie dłużej jednak niż do czasu, na który zostało wydane to zezwolenie lub
-- **2)** gdy w okresie 6 miesięcy została dwukrotnie wydana armatorowi decyzja w sprawie wymierzenia kary pieniężnej za poważne naruszenie przepisów o rybołówstwie komercyjnym na okres 8 miesięcy, nie dłużej jednak niż do czasu, na który zostało wydane to zezwolenie, lub
-- **3)** gdy zawieszona została licencja na okres jej zawieszenia.
+- **1)** stosowania na statku rybackim narzędzi połowowych, które nie są wpisane w specjalnym zezwoleniu połowowym lub których używanie jest w danym okresie lub na danym obszarze zabronione – na okres 6 miesięcy, nie dłużej jednak niż do czasu, na który zostało wydane to zezwolenie lub
+- **2)** gdy w okresie 6 miesięcy została dwukrotnie wydana armatorowi decyzja w sprawie wymierzenia kary pieniężnej za poważne naruszenie przepisów o rybołówstwie komercyjnym – na okres 8 miesięcy, nie dłużej jednak niż do czasu, na który zostało wydane to zezwolenie, lub
+- **3)** gdy zawieszona została licencja – na okres jej zawieszenia.
 
 2. Organ, który wydał specjalne zezwolenie połowowe, cofa je, w drodze decyzji, w przypadku:
 
@@ -596,15 +677,25 @@ Art. 132–135. (pominięte)
     - **a)** przepisów Unii Europejskiej lub
     - **b)** umów lub porozumień międzynarodowych, lub
 
-- **2)** ogólnych kwot połowowych nieobjętych przepisami Unii Europejskiej w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 1.
+- **2)** ogólnych kwot połowowych nieobjętych przepisami Unii Europejskiej – w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 1.
 
 2. Minister właściwy do spraw rybołówstwa w ramach podziału ogólnych kwot połowowych lub dni połowowych, o których mowa w ust. 1 pkt 1, danych gatunków organizmów morskich, może określić, jaka część tych kwot lub liczba dni będzie podlegać podziałowi w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 2.
 
-3. Minister właściwy do spraw rybołówstwa może wyodrębnić z ogólnej kwoty połowowej danego gatunku organizmów morskich kwotę połowową, która będzie przeznaczona na zabezpieczenie ewentualnego przekroczenia ogólnej kwoty połowowej tego gatunku, jeżeli z danych z elektronicznego systemu raportowania połowów wynika, że gatunek ten występuje jako przyłów część połowu obejmująca organizmy morskie poszczególnych gatunków, które nie są celem połowów ukierunkowanych.
+3. Minister właściwy do spraw rybołówstwa może wyodrębnić z ogólnej kwoty połowowej danego gatunku organizmów morskich kwotę połowową, która będzie przeznaczona na zabezpieczenie ewentualnego przekroczenia ogólnej kwoty połowowej tego gatunku, jeżeli z danych z elektronicznego systemu raportowania połowów wynika, że gatunek ten występuje jako przyłów – część połowu obejmująca organizmy morskie poszczególnych gatunków, które nie są celem połowów ukierunkowanych.
 
 **Art. 45.** Przed dokonaniem podziału ogólnych kwot połowowych, o którym mowa w art. 44 ust. 1, kwoty te pomniejsza się o:
 
+- **1)** wielkość ustalaną przez Komisję Europejską w sposób określony w art. 105 rozporządzenia nr 1224/2009;
+- **2)** kwotę połowową przeznaczoną na połowy organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego – jeżeli kwota ta ma przekraczać 2 % ogólnej kwoty połowowej badanego gatunku organizmu morskiego.
+
 **Art. 46.** Podziału:
+
+- **1)** ogólnych kwot połowowych, o których mowa w: – (uchylone)
+    - **a)** art. 44 ust. 1, dokonuje się na: – indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie lub – wspólne kwoty połowowe – bez podziału na poszczególne statki rybackie, – (uchylone)
+    - **b)** art. 44 ust. 2, dokonuje się na: – indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie lub – wspólne kwoty połowowe – bez podziału na poszczególne statki rybackie;
+
+- **2)** dni połowowych, o których mowa w art. 44 ust. 1, dokonuje się na poszczególne statki rybackie;
+- **3)** dodatkowych kwot połowowych dokonuje się na indywidualne kwoty połowowe – z podziałem na poszczególne statki rybackie.
 
 **Art. 47.**
 
@@ -619,7 +710,7 @@ Art. 132–135. (pominięte)
 - **1)** jaka część ogólnej kwoty połowowej lub jaka liczba dni połowowych danego gatunku organizmów morskich pozostają do podziału na obszarach, o których mowa w art. 9 ust. 1 pkt 2, oraz szczegółowy sposób podziału:
     - **a)** kwot lub dni połowowych, o których mowa w art. 44 ust. 2,
     - **b)** dodatkowych kwot połowowych, o których mowa w art. 55 ust. 1,
-    - **c)** ogólnych kwot połowowych, o których mowa w art. 48 ustalonych zgodnie z tym przepisem;
+    - **c)** ogólnych kwot połowowych, o których mowa w art. 48 – ustalonych zgodnie z tym przepisem;
 
 - **2)** wielkość kwoty połowowej poszczególnych gatunków organizmów morskich przeznaczoną na zabezpieczenie ewentualnego przekroczenia ogólnej kwoty połowowej danego gatunku.
 
@@ -630,7 +721,7 @@ Art. 132–135. (pominięte)
 - **3)** długość całkowitą statków rybackich określonych w poszczególnych segmentach floty statków rybackich, lub
 - **4)** obszar prowadzenia połowów, przy użyciu statków rybackich określonych w poszczególnych segmentach floty statków rybackich, lub
 - **5)** zdolność połowową lub parametry statków rybackich, o których mowa w rozporządzeniu nr 2017/1130, przy użyciu których prowadzi się połowy, lub
-- **6)** kwotę połowową przeznaczoną na połowy organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego w przypadku, o którym mowa w art. 45 pkt 2.
+- **6)** kwotę połowową przeznaczoną na połowy organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego – w przypadku, o którym mowa w art. 45 pkt 2.
 
 **Art. 48.** Minister właściwy do spraw rybołówstwa ustala, w drodze rozporządzenia, ogólną kwotę połowową organizmów morskich, w przypadku gatunków organizmów morskich nieobjętych przepisami Unii Europejskiej, na dany rok kalendarzowy, jeżeli odnawialność zasobów oraz równowaga biologiczna gatunku organizmów morskich, który ma być objęty tą kwotą połowową, jest zagrożona, mając na uwadze konieczność zapewnienia równowagi biologicznej oraz odnawialności zasobów danego gatunku.
 
@@ -646,7 +737,7 @@ Art. 132–135. (pominięte)
 2. W przypadku:
 
 - **1)** ustalenia na obszarach, o których mowa w art. 9 ust. 1, ogólnych kwot połowowych lub dni połowowych dla gatunku organizmów morskich uprzednio nieobjętego taką kwotą albo
-- **2)** ogólnych kwot połowowych lub dni połowowych gatunków organizmów morskich, które nie były poławiane podziału danej kwoty połowowej dokonuje się na statki rybackie armatorów, którzy złożyli wniosek o jej przyznanie w sposób określony w przepisach wykonawczych wydanych na podstawie art. 47 ust. 1. Przepisu ust. 1 nie stosuje się.
+- **2)** ogólnych kwot połowowych lub dni połowowych gatunków organizmów morskich, które nie były poławiane – podziału danej kwoty połowowej dokonuje się na statki rybackie armatorów, którzy złożyli wniosek o jej przyznanie – w sposób określony w przepisach wykonawczych wydanych na podstawie art. 47 ust. 1. Przepisu ust. 1 nie stosuje się.
 
 3. W przypadku gatunku organizmów morskich objętego obowiązkiem wyładunku, określonym w art. 15 ust. 1 rozporządzenia nr 1380/2013, realizacja obowiązku wyładunku odbywa się w ramach wspólnej albo indywidualnej kwoty połowowej tego gatunku przyznanej armatorowi statku rybackiego w specjalnym zezwoleniu połowowym.
 
@@ -731,19 +822,19 @@ Art. 132–135. (pominięte)
 7. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, na dany rok kalendarzowy, współczynniki przeliczeniowe, o których mowa w ust. 2, do przeliczania ilości organizmów morskich danych gatunków podlegających wymianie w ramach wymiany indywidualnych kwot połowowych między armatorami statków rybackich oraz szczegółowe warunki wymiany tych kwot połowowych, mając na względzie wysokość ogólnych kwot połowowych oraz wartość rynkową poszczególnych gatunków organizmów morskich, a także przyjmując, że:
 
 - **1)** na obszarze, o którym mowa w art. 9 ust. 1 pkt 1 i 2:
-    - **a)** 1 kg dorsza może być wymieniony na nie mniej niż: 3 kg i nie więcej niż 6 kg śledzia albo 4 kg i nie więcej niż 8 kg szprota,
-    - **b)** 1 sztuka łososia może być wymieniona na nie mniej niż: 180 kg i nie więcej niż 250 kg szprota albo 120 kg i nie więcej niż 200 kg śledzia, albo 30 kg i nie więcej niż 50 kg dorsza,
+    - **a)** 1 kg dorsza może być wymieniony na nie mniej niż: – 3 kg i nie więcej niż 6 kg śledzia albo – 4 kg i nie więcej niż 8 kg szprota,
+    - **b)** 1 sztuka łososia może być wymieniona na nie mniej niż: – 180 kg i nie więcej niż 250 kg szprota albo – 120 kg i nie więcej niż 200 kg śledzia, albo – 30 kg i nie więcej niż 50 kg dorsza,
     - **c)** 1 kg śledzia może być wymieniony na nie mniej niż 1 kg i nie więcej niż 3 kg szprota;
 
 - **2)** na obszarze, o którym mowa w art. 9 ust. 1 pkt 3:
-    - **a)** 1 kg molwy niebieskiej może być wymieniony na nie mniej niż: 1 kg i nie więcej niż 2 kg dorsza albo 1 kg i nie więcej niż 5 kg halibuta niebieskiego, albo 2 kg i nie więcej niż 6 kg śledzia, albo 7 kg i nie więcej niż 12 kg ostroboka peruwiańskiego, albo 3 kg i nie więcej niż 9 kg makreli, albo 1 kg i nie więcej niż 4 kg karmazyna, albo 4 kg i nie więcej niż 7 kg buławika czarnego lub buławika szarego,
-    - **b)** 1 kg dorsza może być wymieniony na nie mniej niż: 1 kg i nie więcej niż 2 kg molwy niebieskiej albo 1 kg i nie więcej niż 5 kg halibuta niebieskiego, albo 2 kg i nie więcej niż 6 kg śledzia, albo 7 kg i nie więcej niż 12 kg ostroboka peruwiańskiego, albo 3 kg i nie więcej niż 9 kg makreli, albo 1 kg i nie więcej niż 4 kg karmazyna, albo 4 kg i nie więcej niż 7 kg buławika czarnego lub buławika szarego,
-    - **c)** 1 kg halibuta niebieskiego może być wymieniony na nie mniej niż: 5 kg i nie więcej niż 9 kg ostroboka peruwiańskiego albo 2 kg i nie więcej niż 6 kg makreli, albo 1 kg i nie więcej niż 2 kg buławika czarnego lub buławika szarego,
-    - **d)** 1 kg śledzia może być wymieniony na nie mniej niż: 1 kg i nie więcej niż 2 kg halibuta niebieskiego albo 5 kg i nie więcej niż 10 kg ostroboka peruwiańskiego, albo 2 kg i nie więcej niż 6 kg makreli, albo 1 kg i nie więcej niż 4 kg buławika czarnego lub buławika szarego,
+    - **a)** 1 kg molwy niebieskiej może być wymieniony na nie mniej niż: – 1 kg i nie więcej niż 2 kg dorsza albo – 1 kg i nie więcej niż 5 kg halibuta niebieskiego, albo – 2 kg i nie więcej niż 6 kg śledzia, albo – 7 kg i nie więcej niż 12 kg ostroboka peruwiańskiego, albo – 3 kg i nie więcej niż 9 kg makreli, albo – 1 kg i nie więcej niż 4 kg karmazyna, albo – 4 kg i nie więcej niż 7 kg buławika czarnego lub buławika szarego,
+    - **b)** 1 kg dorsza może być wymieniony na nie mniej niż: – 1 kg i nie więcej niż 2 kg molwy niebieskiej albo – 1 kg i nie więcej niż 5 kg halibuta niebieskiego, albo – 2 kg i nie więcej niż 6 kg śledzia, albo – 7 kg i nie więcej niż 12 kg ostroboka peruwiańskiego, albo – 3 kg i nie więcej niż 9 kg makreli, albo – 1 kg i nie więcej niż 4 kg karmazyna, albo – 4 kg i nie więcej niż 7 kg buławika czarnego lub buławika szarego,
+    - **c)** 1 kg halibuta niebieskiego może być wymieniony na nie mniej niż: – 5 kg i nie więcej niż 9 kg ostroboka peruwiańskiego albo – 2 kg i nie więcej niż 6 kg makreli, albo – 1 kg i nie więcej niż 2 kg buławika czarnego lub buławika szarego,
+    - **d)** 1 kg śledzia może być wymieniony na nie mniej niż: – 1 kg i nie więcej niż 2 kg halibuta niebieskiego albo – 5 kg i nie więcej niż 10 kg ostroboka peruwiańskiego, albo – 2 kg i nie więcej niż 6 kg makreli, albo – 1 kg i nie więcej niż 4 kg buławika czarnego lub buławika szarego,
     - **e)** 1 kg makreli może być wymieniony na nie mniej niż 2 kg i nie więcej niż 6 kg ostroboka peruwiańskiego,
-    - **f)** 1 kg karmazyna może być wymieniony na nie mniej niż: 1 kg i nie więcej niż 2 kg halibuta niebieskiego albo 1 kg i nie więcej niż 2 kg śledzia, albo 2 kg i nie więcej niż 6 kg makreli, albo 5 kg i nie więcej niż 10 kg ostroboka peruwiańskiego, albo 2 kg i nie więcej niż 6 kg buławika czarnego lub buławika szarego,
-    - **g)** 1 kg buławika czarnego lub buławika szarego może być wymieniony na nie mniej niż: 4 kg i nie więcej niż 8 kg ostroboka peruwiańskiego albo 2 kg i nie więcej niż 6 kg makreli,
-    - **h)** 1 kg kalmara illeks może być wymieniony na nie mniej niż: 1 kg i nie więcej niż 3 kg dorsza albo 1 kg i nie więcej niż 3 kg molwy niebieskiej, albo 2 kg i nie więcej niż 5 kg halibuta niebieskiego, albo 2 kg i nie więcej niż 4 kg śledzia, albo 10 kg i nie więcej niż 15 kg ostroboka peruwiańskiego, albo 4 kg i nie więcej niż 9 kg makreli, albo 2 kg i nie więcej niż 4 kg karmazyna, albo 1 kg i nie więcej niż 5 kg buławika czarnego lub buławika szarego.
+    - **f)** 1 kg karmazyna może być wymieniony na nie mniej niż: – 1 kg i nie więcej niż 2 kg halibuta niebieskiego albo – 1 kg i nie więcej niż 2 kg śledzia, albo – 2 kg i nie więcej niż 6 kg makreli, albo – 5 kg i nie więcej niż 10 kg ostroboka peruwiańskiego, albo – 2 kg i nie więcej niż 6 kg buławika czarnego lub buławika szarego,
+    - **g)** 1 kg buławika czarnego lub buławika szarego może być wymieniony na nie mniej niż: – 4 kg i nie więcej niż 8 kg ostroboka peruwiańskiego albo – 2 kg i nie więcej niż 6 kg makreli,
+    - **h)** 1 kg kalmara illeks może być wymieniony na nie mniej niż: – 1 kg i nie więcej niż 3 kg dorsza albo – 1 kg i nie więcej niż 3 kg molwy niebieskiej, albo – 2 kg i nie więcej niż 5 kg halibuta niebieskiego, albo – 2 kg i nie więcej niż 4 kg śledzia, albo – 10 kg i nie więcej niż 15 kg ostroboka peruwiańskiego, albo – 4 kg i nie więcej niż 9 kg makreli, albo – 2 kg i nie więcej niż 4 kg karmazyna, albo – 1 kg i nie więcej niż 5 kg buławika czarnego lub buławika szarego.
 
 **Art. 54.**
 
@@ -751,8 +842,8 @@ Art. 132–135. (pominięte)
 
 2. Wymiany międzynarodowej dokonuje się:
 
-- **1)** z urzędu w przypadku wymiany kwot połowowych na obszarach, o których mowa w art. 9 ust. 1 pkt 1 albo pkt 3, albo
-- **2)** na wniosek armatora statku rybackiego w przypadku wymiany kwot połowowych, jeżeli przedmiotem przekazania są indywidualne kwoty połowowe armatorów statków rybackich przyznane na obszary, o których mowa w art. 9 ust. 1 pkt 1 lub 3.
+- **1)** z urzędu – w przypadku wymiany kwot połowowych na obszarach, o których mowa w art. 9 ust. 1 pkt 1 albo pkt 3, albo
+- **2)** na wniosek armatora statku rybackiego – w przypadku wymiany kwot połowowych, jeżeli przedmiotem przekazania są indywidualne kwoty połowowe armatorów statków rybackich przyznane na obszary, o których mowa w art. 9 ust. 1 pkt 1 lub 3.
 
 3. (uchylony)
 
@@ -802,12 +893,12 @@ Art. 132–135. (pominięte)
 1. Minister właściwy do spraw rybołówstwa niezwłocznie po powzięciu informacji o:
 
 - **1)** wykorzystaniu w danym roku kalendarzowym 95 % ogólnej kwoty połowowej danego gatunku organizmów morskich,
-- **2)** wyczerpaniu w danym roku kalendarzowym ogólnej kwoty połowowej danego gatunku organizmów morskich ogłasza tę informację, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz w sposób zwyczajowo przyjęty na danym terenie.
+- **2)** wyczerpaniu w danym roku kalendarzowym ogólnej kwoty połowowej danego gatunku organizmów morskich – ogłasza tę informację, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz w sposób zwyczajowo przyjęty na danym terenie.
 
 2. Od dnia następującego po dniu ogłoszenia, o którym mowa w ust. 1, obowiązuje zakaz:
 
-- **1)** połowów ukierunkowanych danego gatunku organizmów morskich w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 1;
-- **2)** wszelkich połowów danego gatunku organizmów morskich w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 2.
+- **1)** połowów ukierunkowanych danego gatunku organizmów morskich – w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 1;
+- **2)** wszelkich połowów danego gatunku organizmów morskich – w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 2.
 
 3. Zakaz:
 
@@ -824,19 +915,19 @@ Art. 132–135. (pominięte)
 
 - **1)** wykorzystaniu w danym roku kalendarzowym 90 % wspólnej kwoty połowowej danego gatunku organizmów morskich,
 - **2)** wyczerpaniu w danym roku kalendarzowym wspólnej kwoty połowowej danego gatunku organizmów morskich,
-- **3)** wyczerpaniu w danym roku kalendarzowym kwoty połowowej danego gatunku organizmów morskich wyodrębnionej na podstawie art. 44 ust. 3 ogłasza tę informację na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz w sposób zwyczajowo przyjęty na danym terenie.
+- **3)** wyczerpaniu w danym roku kalendarzowym kwoty połowowej danego gatunku organizmów morskich wyodrębnionej na podstawie art. 44 ust. 3 – ogłasza tę informację na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz w sposób zwyczajowo przyjęty na danym terenie.
 
 2. Od dnia następującego po dniu ogłoszenia, o którym mowa w ust. 1, obowiązuje zakaz:
 
-- **1)** połowów ukierunkowanych danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 1;
-- **2)** wszelkich połowów danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 2;
-- **3)** przyłowu danego gatunku organizmów morskich w ramach kwoty połowowej wyodrębnionej na podstawie art. 44 ust. 3 w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 3.
+- **1)** połowów ukierunkowanych danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej – w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 1;
+- **2)** wszelkich połowów danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej – w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 2;
+- **3)** przyłowu danego gatunku organizmów morskich w ramach kwoty połowowej wyodrębnionej na podstawie art. 44 ust. 3 – w przypadku ogłoszenia informacji, o której mowa w ust. 1 pkt 3.
 
 3. Zakaz:
 
-- **1)** połowów ukierunkowanych danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej obowiązuje do dnia ogłoszenia zakazu wszelkich połowów w ramach tej kwoty albo do dnia ogłoszenia informacji, o której mowa w ust. 1 pkt 2, albo do końca roku kalendarzowego, w którym zaczął obowiązywać;
-- **2)** wszelkich połowów danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej obowiązuje do końca roku kalendarzowego, w którym zaczął on obowiązywać;
-- **3)** przyłowu danego gatunku organizmów morskich w ramach kwoty połowowej wyodrębnionej na podstawie art. 44 ust. 3 obowiązuje do końca roku kalendarzowego, w którym zaczął on obowiązywać.
+- **1)** połowów ukierunkowanych danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej – obowiązuje do dnia ogłoszenia zakazu wszelkich połowów w ramach tej kwoty albo do dnia ogłoszenia informacji, o której mowa w ust. 1 pkt 2, albo do końca roku kalendarzowego, w którym zaczął obowiązywać;
+- **2)** wszelkich połowów danego gatunku organizmów morskich w ramach wspólnej kwoty połowowej – obowiązuje do końca roku kalendarzowego, w którym zaczął on obowiązywać;
+- **3)** przyłowu danego gatunku organizmów morskich w ramach kwoty połowowej wyodrębnionej na podstawie art. 44 ust. 3 – obowiązuje do końca roku kalendarzowego, w którym zaczął on obowiązywać.
 
 **Art. 58.** (uchylony)
 
@@ -872,7 +963,7 @@ Art. 132–135. (pominięte)
 
 4. Minister właściwy do spraw rybołówstwa określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 2, mając na względzie koszty związane z wykonaniem dziennika połowowego.
 
-5. połowowy przechowuje się na statku rybackim w sposób zapewniający ochronę tego dziennika przed uszkodzeniem lub zniszczeniem.
+5. Dziennik połowowy przechowuje się na statku rybackim w sposób zapewniający ochronę tego dziennika przed uszkodzeniem lub zniszczeniem.
 
 6. Kapitan statku rybackiego przekazuje oryginał strony dziennika połowowego do Centrum Monitorowania Rybołówstwa, stanowiącego ośrodek monitorowania rybołówstwa w rozumieniu rozporządzenia nr 1224/2009, zwanego dalej „CMR”, za pośrednictwem Głównego Inspektora Rybołówstwa Morskiego.
 
@@ -938,7 +1029,7 @@ Art. 132–135. (pominięte)
 1. Realizację:
 
 - **1)** programu krajowego, o którym mowa w art. 4 rozporządzenia Rady (WE) nr 199/2008 z dnia 25 lutego 2008 r. w sprawie ustanowienia wspólnotowych ram gromadzenia danych, zarządzania nimi i ich wykorzystywania w sektorze rybołówstwa oraz w sprawie wspierania doradztwa naukowego w zakresie wspólnej polityki rybołówstwa (Dz. Urz. UE L 60 z 05.03.2008, str. 1, z późn. zm.), zwanego dalej „programem krajowym”, oraz
-- **2)** programu monitorowania przypadkowych połowów waleni, o którym mowa w rozporządzeniu nr 812/2004 minister właściwy do spraw rybołówstwa powierza państwowemu instytutowi badawczemu albo instytutowi naukowemu prowadzącemu badania naukowe lub prace rozwojowe w zakresie WPR, który posiada warunki techniczno-organizacyjne niezbędne do zbierania i zarządzania danymi w zakresie WPR.
+- **2)** programu monitorowania przypadkowych połowów waleni, o którym mowa w rozporządzeniu nr 812/2004 – minister właściwy do spraw rybołówstwa powierza państwowemu instytutowi badawczemu albo instytutowi naukowemu prowadzącemu badania naukowe lub prace rozwojowe w zakresie WPR, który posiada warunki techniczno-organizacyjne niezbędne do zbierania i zarządzania danymi w zakresie WPR.
 
 2. Minister właściwy do spraw rybołówstwa wskaże, w drodze rozporządzenia, instytut, o którym mowa w ust. 1, biorąc pod uwagę warunki techniczno-organizacyjne niezbędne do zbierania i zarządzania danymi w zakresie WPR.
 
@@ -966,6 +1057,14 @@ Art. 132–135. (pominięte)
 
 **Art. 75.** Główny Inspektor Rybołówstwa Morskiego jest właściwy w sprawach wyrażania zgody na:
 
+- **1)** wejście do portu wyznaczonego do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych statku rybackiego:
+    - **a)** o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz
+    - **b)** znajdującego się we wspólnotowym wykazie statków prowadzących połowy nielegalne, nieraportowane i nieuregulowane, o którym mowa w art. 27 ust. 1 rozporządzenia nr 1005/2008, zwanego dalej „statkiem NNN”;
+
+- **2)** zaopatrywanie w prowiant i w paliwo oraz świadczenia innych usług na rzecz statku rybackiego o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz statku NNN;
+- **3)** wymianę załogi statku rybackiego o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej oraz statku NNN;
+- **4)** wejście do portu statku NNN w przypadku, o którym mowa w art. 37 pkt 11 rozporządzenia nr 1005/2008.
+
 **Art. 76.**
 
 1. Minister właściwy do spraw rybołówstwa wyznacza, w drodze rozporządzenia, porty do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych, o których mowa w art. 5 ust. 1 rozporządzenia nr 1005/2008, mając na względzie zapewnienie sprawnej kontroli produktów rybołówstwa oraz prawidłowe wykonanie przepisów Unii Europejskiej dotyczących kontroli produktów rybołówstwa.
@@ -978,9 +1077,9 @@ Art. 132–135. (pominięte)
 
 2. Główny Inspektor Rybołówstwa Morskiego odmawia udzielenia zgody na wejście do portu lub korzystanie z usług portowych, prowadzenie operacji wyładunku lub przeładunku, lub zaopatrywanie w prowiant i w paliwo oraz świadczenie innych usług na rzecz statku rybackiego lub wymianę załogi:
 
-- **1)** statkom NNN o polskiej przynależności jeżeli portem wejścia nie jest port macierzysty tego statku;
+- **1)** statkom NNN o polskiej przynależności – jeżeli portem wejścia nie jest port macierzysty tego statku;
 - **2)** statkom NNN innym niż statki NNN, o których mowa w pkt 1;
-- **3)** statkowi rybackiemu o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej jeżeli portem wejścia nie jest port wyznaczony do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych.
+- **3)** statkowi rybackiemu o obcej przynależności innej niż przynależność do państwa członkowskiego Unii Europejskiej – jeżeli portem wejścia nie jest port wyznaczony do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych.
 
 3. Przepisu ust. 2 nie stosuje się w przypadku wystąpienia siły wyższej lub jeżeli statek rybacki znajduje się w niebezpieczeństwie oraz w przypadku, o którym mowa w art. 37 pkt 11 rozporządzenia nr 1005/2008.
 
@@ -1087,9 +1186,9 @@ Art. 132–135. (pominięte)
 
 7. Pozwolenie na prowadzenie połowów organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego, zawiera odpowiednio dane, o których mowa w ust. 3.
 
-8. Do postępowania w sprawie wydania pozwolenia, o którym mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+8. Do postępowania w sprawie wydania pozwolenia, o którym mowa w ust. 1, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-9. Do postępowania w sprawie wydania pozwolenia, o którym mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+9. Do postępowania w sprawie wydania pozwolenia, o którym mowa w ust. 1, nie stosuje się przepisów działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 85.** W czasie prowadzenia połowów organizmów morskich w celach prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia, w zakresie rybołówstwa morskiego, podmiot, który uzyskał pozwolenie, o którym mowa w art. 84 ust. 1, jest obowiązany do okazania tego pozwolenia na żądanie inspektora rybołówstwa morskiego podczas przeprowadzania przez niego czynności kontrolnych.
 
@@ -1119,7 +1218,7 @@ Art. 132–135. (pominięte)
 1. Wykonywanie rybołówstwa rekreacyjnego na obszarach morskich Rzeczypospolitej Polskiej może być prowadzone na podstawie:
 
 - **1)** pozwolenia na wykonywanie rybołówstwa rekreacyjnego wydanego dla organizatora zawodów sportowych na prowadzenie połowów z brzegu lub ze statku;
-- **2)** dowodu uiszczenia opłaty na prowadzenie połowów z brzegu, ze statku lub z innych niż statek urządzeń pływających w przypadku osób fizycznych niebędących podmiotem, o którym mowa w pkt 1.
+- **2)** dowodu uiszczenia opłaty – na prowadzenie połowów z brzegu, ze statku lub z innych niż statek urządzeń pływających – w przypadku osób fizycznych niebędących podmiotem, o którym mowa w pkt 1.
 
 2. W czasie wykonywania rybołówstwa rekreacyjnego:
 
@@ -1138,7 +1237,7 @@ Art. 132–135. (pominięte)
 - **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
 - **2)** serię i numer dokumentu tożsamości lub numer identyfikacji podatkowej (NIP), lub numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) wnioskodawcy;
 - **3)** wskazanie okresu, na jaki ma być wydane pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
-- **4)** nazwę statku, z tym że dla statku rybackiego oznakę rybacką oraz nazwę, jeżeli została nadana;
+- **4)** nazwę statku, z tym że dla statku rybackiego – oznakę rybacką oraz nazwę, jeżeli została nadana;
 - **5)** rodzaj i liczbę narzędzi połowowych, które będą wykorzystywane do wykonywania rybołówstwa rekreacyjnego;
 - **6)** wskazanie gatunku organizmów morskich, które będą celem połowów oraz obszaru połowów;
 - **7)** listę uczestników zawodów oraz wskazanie miejsca, daty i godziny rozpoczęcia i zakończenia zawodów.
@@ -1158,6 +1257,13 @@ Art. 132–135. (pominięte)
 2. Opłata, o której mowa w art. 90 ust. 1 pkt 2, stanowi dochód budżetu państwa i jest wnoszona na rachunek bankowy Głównego Inspektoratu Rybołówstwa Morskiego.
 
 **Art. 93.** Rejestr pozwoleń na wykonywanie rybołówstwa rekreacyjnego jest prowadzony w formie elektronicznej i zawiera:
+
+- **1)** imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres podmiotu, któremu wydano pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **2)** okres, na jaki zostało wydane pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **3)** rodzaj i liczbę narzędzi wykorzystywanych do wykonywania rybołówstwa rekreacyjnego;
+- **4)** wskazanie gatunków organizmów morskich podanych we wniosku o wydanie pozwolenia na wykonywanie rybołówstwa rekreacyjnego oraz określonych w pozwoleniu, a także wskazanie obszarów ich połowów;
+- **5)** serię i numer dokumentu tożsamości lub numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) podmiotów, którym wydano pozwolenie na wykonywanie rybołówstwa rekreacyjnego;
+- **6)** nazwę statku, a dla statku rybackiego oznakę rybacką oraz nazwę, jeżeli została nadana.
 
 **Art. 94.**
 
@@ -1185,17 +1291,21 @@ Art. 132–135. (pominięte)
 
 - **1)** konieczność zapewnienia ochrony żywych zasobów morza oraz bezpieczeństwa i porządku podczas wykonywania rybołówstwa rekreacyjnego;
 - **2)** okres, na jaki dana osoba fizyczna uzyskuje uprawnienie do wykonywania rybołówstwa rekreacyjnego, przy czym wysokość opłaty nie może przekroczyć odpowiednio:
-    - **a)** 1/100 wysokości wynagrodzenia w przypadku tygodniowego okresu połowów,
-    - **b)** 1/50 wysokości wynagrodzenia w przypadku miesięcznego okresu połowów,
-    - **c)** 1/20 wysokości wynagrodzenia w przypadku 12-miesięcznego okresu połowów.
+    - **a)** 1/100 wysokości wynagrodzenia – w przypadku tygodniowego okresu połowów,
+    - **b)** 1/50 wysokości wynagrodzenia – w przypadku miesięcznego okresu połowów,
+    - **c)** 1/20 wysokości wynagrodzenia – w przypadku 12-miesięcznego okresu połowów.
 
 **Art. 96.** Zabrania się:
+
+- **1)** używania do wykonywania rybołówstwa rekreacyjnego narzędzi połowowych wykorzystywanych do wykonywania rybołówstwa komercyjnego;
+- **2)** połowu organizmów morskich na obszarach wyłączonych z wykonywania rybołówstwa komercyjnego;
+- **3)** wprowadzania do obrotu organizmów morskich pochodzących z wykonywania rybołówstwa rekreacyjnego, z wyłączeniem przypadku ich nieodpłatnego przekazania placówkom opiekuńczo-wychowawczym lub organizacjom pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
 **Art. 96a.**
 
 1. W przypadku gdy rybołówstwo rekreacyjne jest wykonywane ze statku przez osobę fizyczną niebędącą podmiotem, o którym mowa w art. 90 ust. 1 pkt 1, na wodach otwartych Morza Bałtyckiego, obszarach wyłącznej strefy ekonomicznej i morza terytorialnego, Zatoki Puckiej i Zatoki Gdańskiej, osoba ta przekazuje, na co najmniej dwie godziny przed rozpoczęciem wykonywania rybołówstwa rekreacyjnego, na adres poczty elektronicznej podany na stronie internetowej Głównego Inspektora Rybołówstwa Morskiego, informacje o:
 
-- **1)** nazwie statku, a dla statku rybackiego o oznace rybackiej oraz nazwie, jeżeli została nadana;
+- **1)** nazwie statku, a dla statku rybackiego – o oznace rybackiej oraz nazwie, jeżeli została nadana;
 - **2)** dacie i czasie rozpoczęcia wykonywania rybołówstwa rekreacyjnego;
 - **3)** obszarze prowadzenia połowów lub porcie rozpoczęcia żeglugi w celu wykonywania rybołówstwa rekreacyjnego.
 
@@ -1211,10 +1321,10 @@ Art. 132–135. (pominięte)
 
 2. Wniosek o wydanie zezwolenia zawiera imię, nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy oraz:
 
-- **1)** w przypadku zezwolenia na prowadzenie chowu lub hodowli organizmów morskich miejsce, okres i sposób planowanego prowadzenia chowu lub hodowli organizmów morskich oraz ich gatunek;
+- **1)** w przypadku zezwolenia na prowadzenie chowu lub hodowli organizmów morskich – miejsce, okres i sposób planowanego prowadzenia chowu lub hodowli organizmów morskich oraz ich gatunek;
 - **2)** w przypadku zezwolenia na zarybianie:
     - **a)** ilość, gatunek i rodzaj materiału zarybieniowego oraz miejsce i czas planowanego zarybiania,
-    - **b)** rodzaj, ilość, miejsce, czas i sposób planowanego pozyskania materiału biologicznego organizmów morskich jeżeli zarybianie wymaga jego pozyskania.
+    - **b)** rodzaj, ilość, miejsce, czas i sposób planowanego pozyskania materiału biologicznego organizmów morskich – jeżeli zarybianie wymaga jego pozyskania.
 
 3. Do wniosku o wydanie zezwolenia na prowadzenie chowu lub hodowli organizmów morskich dołącza się decyzję o środowiskowych uwarunkowaniach, o której mowa w przepisach ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940), o ile jest wymagana.
 
@@ -1281,7 +1391,7 @@ Art. 132–135. (pominięte)
 
 - **1)** odmawia wydania zezwolenia, o którym mowa w ust. 1, jeżeli planowana działalność stanowiłaby zagrożenie trwałości lub równowagi środowiska morskiego, w szczególności przez negatywny wpływ na gatunki rodzime organizmów morskich;
 - **2)** cofa zezwolenie, o którym mowa w ust. 1, jeżeli: zm. ), lub na liście IGO stwarzających zagrożenie dla Polski określonej w przepisach wydanych na podstawie art. 23 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589).
-    - **a)** działalność nim objęta: jest realizowana niezgodnie z zezwoleniem lub stanowi zagrożenie trwałości lub równowagi środowiska morskiego, w szczególności przez negatywny wpływ na gatunki rodzime organizmów morskich, lub
+    - **a)** działalność nim objęta: – jest realizowana niezgodnie z zezwoleniem lub – stanowi zagrożenie trwałości lub równowagi środowiska morskiego, w szczególności przez negatywny wpływ na gatunki rodzime organizmów morskich, lub
     - **b)** gatunek, którego dotyczy zezwolenie, został umieszczony w wykazie inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, o którym mowa w art. 4 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1143/2014 z dnia 22 października 2014 r. w sprawie działań zapobiegawczych i zaradczych w odniesieniu do wprowadzania i rozprzestrzeniania inwazyjnych gatunków obcych (Dz. Urz. UE L 317 z 04.11.2014, str. 35, z późn.
 
 9a. Minister właściwy do spraw rybołówstwa, cofając zezwolenie, o którym mowa w ust. 1, w przypadku określonym w ust. 9 pkt 2 lit. b, określa w decyzji o cofnięciu zezwolenia termin prowadzenia działalności, nie dłuższy niż 2 lata.
@@ -1300,6 +1410,9 @@ Art. 132–135. (pominięte)
 
 **Art. 100.** Organami administracji rybołówstwa morskiego są:
 
+- **1)** minister właściwy do spraw rybołówstwa;
+- **2)** Główny Inspektor Rybołówstwa Morskiego – jako centralny organ administracji rządowej.
+
 **Art. 101.**
 
 1. Główny Inspektor Rybołówstwa Morskiego podlega ministrowi właściwemu do spraw rybołówstwa.
@@ -1317,7 +1430,7 @@ Art. 132–135. (pominięte)
 - **5)** posiada kompetencje kierownicze;
 - **6)** posiada wiedzę z zakresu spraw należących do właściwości Głównego Inspektora Rybołówstwa Morskiego.
 
-5. Powołanie na stanowiska, o których mowa w ust. 4, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277).
+5. Powołanie na stanowiska, o których mowa w ust. 4, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277).
 
 **Art. 102.**
 
@@ -1392,7 +1505,7 @@ Art. 132–135. (pominięte)
 - **6a)** realizuje zadania związane z zapobieganiem wprowadzaniu do środowiska i przeciwdziałaniem rozprzestrzenianiu się w środowisku inwazyjnych gatunków obcych stwarzających zagrożenie dla Unii, inwazyjnych gatunków obcych stwarzających zagrożenie dla Polski oraz inwazyjnych gatunków obcych prawdopodobnie spełniających kryteria uznania ich za stwarzające zagrożenie dla Unii, w zakresie określonym w ustawie z dnia 11 sierpnia 2021 r. o gatunkach obcych;
 - **7)** wykonuje obowiązki państwa członkowskiego Unii Europejskiej w zakresie:
     - **a)** przyjęcia deklaracji, o której mowa w art. 8 ust. 1 rozporządzenia nr 1005/2008,
-    - **b)** weryfikacji mocy silników zgodnie z art. 41 rozporządzenia nr 1224/2009 za pośrednictwem inspektorów rybołówstwa morskiego.
+    - **b)** weryfikacji mocy silników zgodnie z art. 41 rozporządzenia nr 1224/2009 – za pośrednictwem inspektorów rybołówstwa morskiego.
 
 2. Główny Inspektor Rybołówstwa Morskiego przechowuje dokumenty, o których mowa w ust. 1 pkt 7, przez okres trzech lat.
 
@@ -1418,7 +1531,7 @@ Art. 132–135. (pominięte)
 - **5a)** zatrzymania i kontroli środków transportu w miejscach związanych z wyładunkiem, przeładunkiem i magazynowaniem ryb;
 - **5b)** kontroli ważenia produktów rybołówstwa, w tym urządzeń ważących i rejestrów ważenia;
 - **6)** żądania pisemnych lub ustnych wyjaśnień;
-- **7)** wykonywania innych czynności niezbędnych do przeprowadzenia kontroli, a w przypadkach uzasadnionego podejrzenia naruszenia przepisów ustawy do zatrzymania:
+- **7)** wykonywania innych czynności niezbędnych do przeprowadzenia kontroli, a w przypadkach uzasadnionego podejrzenia naruszenia przepisów ustawy – do zatrzymania:
     - **a)** dokumentów, o których mowa w pkt 1, z wyjątkiem dokumentów tożsamości,
     - **b)** organizmów morskich i narzędzi połowowych oraz ich zabezpieczenia;
 
@@ -1480,7 +1593,7 @@ Art. 132–135. (pominięte)
 
 7. Protokół sporządza się w dwóch egzemplarzach, z których jeden przekazuje się podmiotowi kontrolowanemu.
 
-**Art. 114.** Przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) dotyczące kontroli nie mają zastosowania do przeprowadzania kontroli połowów i inspekcji przeprowadzanych na podstawie przepisów niniejszego działu.
+**Art. 114.** Przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) dotyczące kontroli nie mają zastosowania do przeprowadzania kontroli połowów i inspekcji przeprowadzanych na podstawie przepisów niniejszego działu.
 
 **Art. 114a.**
 
@@ -1500,6 +1613,11 @@ Art. 132–135. (pominięte)
 
 **Art. 119.** Kto wykonuje rybołówstwo komercyjne statkiem rybackim:
 
+- **1)** o polskiej przynależności, będąc armatorem, którego siedziba lub oddział lub miejsce zamieszkania nie znajduje się na terytorium Rzeczypospolitej Polskiej, podlega karze pieniężnej w wysokości 1000 zł;
+- **2)** o obcej przynależności na terytorium Rzeczypospolitej Polskiej podlega, w przypadku statku o długości całkowitej:
+    - **a)** nie większej niż 10 m – karze pieniężnej w wysokości 5000 zł,
+    - **b)** większej niż 10 m – karze pieniężnej w wysokości 10 000 zł.
+
 **Art. 120.** Kto wyładowuje na ląd, wprowadza do obrotu, magazynuje, transportuje lub przeładowuje organizmy morskie złowione z naruszeniem przepisów o rybołówstwie morskim, podlega karze pieniężnej w wysokości od 1000 zł do wysokości nieprzekraczającej dwudziestokrotności wynagrodzenia.
 
 **Art. 121.** Kto wykonuje rybołówstwo komercyjne statkiem rybackim, który nie jest wpisany do rejestru, podlega karze pieniężnej w wysokości 5000 zł.
@@ -1517,7 +1635,29 @@ Art. 132–135. (pominięte)
 
 **Art. 124.** Kto:
 
+- **1)** prowadzi połowy przy użyciu narzędzi połowowych przeznaczonych do połowów komercyjnych bez:
+    - **a)** wydanej na statek rybacki, przy użyciu którego prowadzi połowy, licencji, podlega karze pieniężnej w wysokości 5000 zł,
+    - **b)** wydanego na statek rybacki, przy użyciu którego prowadzi połowy, specjalnego zezwolenia połowowego, podlega karze pieniężnej w wysokości 3000 zł;
+
+- **2)** wykonuje rybołówstwo komercyjne:
+    - **a)** bez posiadania na statku rybackim dokumentu licencji wydanej na ten statek rybacki albo jej duplikatu, podlega karze pieniężnej w wysokości 1000 zł,
+    - **b)** w przypadku gdy licencja lub specjalne zezwolenie połowowe wydane na statek rybacki, przy użyciu którego prowadzi połowy, zostały zawieszone, podlega karze pieniężnej w wysokości 4000 zł,
+    - **c)** na podstawie podrobionej lub przerobionej licencji albo specjalnego zezwolenia połowowego, podlega karze pieniężnej w wysokości 5000 zł;
+
+- **3)** wykonując rybołówstwo komercyjne:
+    - **a)** nie realizuje obowiązku, o którym mowa w art. 15 ust. 1 rozporządzenia nr 1380/2013, podlega karze pieniężnej w wysokości nie mniejszej niż 2000 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia,
+    - **b)** dokonuje przeładunku organizmów morskich na morzu wbrew zakazowi określonemu w art. 20 rozporządzenia nr 1224/2009, podlega karze pieniężnej w wysokości 4000 zł,
+    - **c)** wydaje lub wystawia narzędzia połowowe w taki sposób lub w takim miejscu, że powodują uszkodzenia innych narzędzi połowowych albo utrudniają połów, podlega karze pieniężnej w wysokości 4000 zł.
+
 **Art. 125.** Kto wykonuje rybołówstwo komercyjne z naruszeniem przepisów WPR, przepisów ustawy lub aktów wykonawczych wydanych na jej podstawie, podlega w przypadku:
+
+- **1)** armatora statku rybackiego o długości całkowitej:
+    - **a)** równej albo większej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej pięćdziesięciokrotności wynagrodzenia,
+    - **b)** mniejszej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia;
+
+- **2)** kapitana statku rybackiego o długości całkowitej:
+    - **a)** równej albo większej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dwudziestokrotności wynagrodzenia,
+    - **b)** mniejszej niż 10 m – karze pieniężnej w wysokości nie mniejszej niż 500 zł i nieprzekraczającej dziesięciokrotności wynagrodzenia.
 
 **Art. 126.**
 
@@ -1536,7 +1676,7 @@ Art. 132–135. (pominięte)
 - **3)** niezgodnie ze sposobem i warunkami wykonywania rybołówstwa rekreacyjnego określonymi w przepisach wydanych na podstawie art. 95 ust. 1 pkt 1 lub 2,
 - **4)** z wykorzystaniem narzędzia połowowego wykorzystywanego do wykonywania rybołówstwa komercyjnego, wbrew zakazowi określonemu w art. 96 pkt 1,
 - **5)** na obszarach określonych w art. 96 pkt 2,
-- **6)** wbrew zakazowi określonemu w art. 98a ust. 1 podlega karze pieniężnej w wysokości od 100 zł do wysokości nieprzekraczającej pięciokrotności wynagrodzenia.
+- **6)** wbrew zakazowi określonemu w art. 98a ust. 1 – podlega karze pieniężnej w wysokości od 100 zł do wysokości nieprzekraczającej pięciokrotności wynagrodzenia.
 
 2. Kto wprowadza do obrotu organizmy morskie pochodzące z wykonywania rybołówstwa rekreacyjnego, z wyłączeniem przypadku przeznaczenia ich na rzecz placówek opiekuńczo-wychowawczych lub organizacji pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, podlega karze pieniężnej w wysokości 500 zł.
 
@@ -1546,7 +1686,7 @@ Art. 132–135. (pominięte)
 
 - **1)** prowadzi połowy organizmów morskich w celu prowadzenia badań naukowych lub prac rozwojowych albo w celu kształcenia w zakresie rybołówstwa morskiego,
 - **2)** prowadzi chów lub hodowlę organizmów morskich albo zarybianie,
-- **3)** wprowadza do obszarów morskich Rzeczypospolitej Polskiej gatunki obce lub przenosi na te obszary organizmy morskie gatunków niewystępujących miejscowo podlega karze pieniężnej w wysokości od 500 zł do wysokości nieprzekraczającej dziesięciokrotności wynagrodzenia.
+- **3)** wprowadza do obszarów morskich Rzeczypospolitej Polskiej gatunki obce lub przenosi na te obszary organizmy morskie gatunków niewystępujących miejscowo – podlega karze pieniężnej w wysokości od 500 zł do wysokości nieprzekraczającej dziesięciokrotności wynagrodzenia.
 
 2. (uchylony)
 
@@ -1572,15 +1712,20 @@ Art. 132–135. (pominięte)
 
 4. W przypadku uchylenia albo stwierdzenia nieważności decyzji o wymierzeniu kary pieniężnej albo uwzględnienia skargi na decyzję o wymierzeniu kary pieniężnej przez organ, który wydał decyzję, albo przez sąd administracyjny, uiszczona kara pieniężna podlega zwrotowi w terminie 14 dni od dnia, w którym wydana decyzja lub orzeczenie o zwrocie tej kary stały się ostateczne.
 
-5. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111).
+5. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111).
 
 ### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
+**Art. 132–135.** (pominięte)
+
 #### Rozdział 2 Przepisy przejściowe i końcowe
 
 **Art. 136.** Statki rybackie przy użyciu których, przed dniem wejścia w życie ustawy, wykonywane było rybołówstwo morskie:
+
+- **1)** o długości całkowitej poniżej 5 m lub mocy silnika głównego mniejszej niż 15 kW na obszarach, o których mowa w art. 9 ust. 1 pkt 1, mogą być używane do wykonywania rybołówstwa komercyjnego na tych obszarach;
+- **2)** o długości całkowitej poniżej 5 m lub mocy silnika głównego mniejszej niż 15 kW albo o długości całkowitej powyżej 12 m na obszarach, o których mowa w art. 9 ust. 1 pkt 2, mogą być używane do wykonywania rybołówstwa komercyjnego na tych obszarach.
 
 **Art. 137.**
 
@@ -1589,7 +1734,7 @@ Art. 132–135. (pominięte)
 2. W przypadku dokonania, na podstawie przepisów dotychczasowych:
 
 - **1)** wykreślenia statku rybackiego z rejestru statków rybackich na wniosek właściciela tego statku i niewykorzystania części lub całości zdolności połowowej wycofanego statku do dnia wejścia w życie niniejszej ustawy albo
-- **2)** zmniejszenia zdolności połowowej statku rybackiego wpisanego do rejestru statków rybackich i niewykorzystania do dnia wejścia w życie niniejszej ustawy zdolności połowowej równej zmniejszeniu zdolności połowowej tego statku stosuje się przepis art. 31, przy czym okres 5 lat liczy się od dnia wejścia w życie niniejszej ustawy.
+- **2)** zmniejszenia zdolności połowowej statku rybackiego wpisanego do rejestru statków rybackich i niewykorzystania do dnia wejścia w życie niniejszej ustawy zdolności połowowej równej zmniejszeniu zdolności połowowej tego statku – stosuje się przepis art. 31, przy czym okres 5 lat liczy się od dnia wejścia w życie niniejszej ustawy.
 
 3. Przepisu ust. 2 nie stosuje się, w przypadku gdy statek rybacki, na podstawie przepisów dotychczasowych, został z urzędu wykreślony z rejestru na podstawie art. 11 ust. 1 pkt 2 lit. c ustawy uchylanej w art. 143.
 
@@ -1613,24 +1758,24 @@ Art. 132–135. (pominięte)
 
 **Art. 140.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3, art. 51 ust. 4 i art. 57 ust. 3 ustawy uchylanej w art. 143 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 3, art. 101 ust. 4 i art. 108 ust. 3.
 
-**Art. 141.** Akty prawa miejscowego wydane na podstawie art. 18, art. 32 i art. 55 ustawy uchylanej w art. 143 zachowują moc do dnia wejścia w życie aktów prawa miejscowego wydanych odpowiednio na podstawie art. 11 i art. 49, a w przypadku aktów prawa miejscowego wydanych na czas określony przez okres w nich określony.
+**Art. 141.** Akty prawa miejscowego wydane na podstawie art. 18, art. 32 i art. 55 ustawy uchylanej w art. 143 zachowują moc do dnia wejścia w życie aktów prawa miejscowego wydanych odpowiednio na podstawie art. 11 i art. 49, a w przypadku aktów prawa miejscowego wydanych na czas określony – przez okres w nich określony.
 
 **Art. 142.**
 
 1. Maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi w:
 
-- **1)** 2015 r. 32 100 tys. zł;
-- **2)** 2016 r. 30 000 tys. zł;
-- **3)** 2017 r. 30 100 tys. zł;
-- **4)** 2018 r. 31 000 tys. zł;
-- **5)** 2019 r. 31 700 tys. zł;
-- **6)** 2020 r. 36 500 tys. zł;
-- **7)** 2021 r. 33 500 tys. zł;
-- **8)** 2022 r. 34 500 tys. zł;
-- **9)** 2023 r. 35 300 tys. zł;
-- **10)** 2024 r. 36 200 tys. zł.
+- **1)** 2015 r. – 32 100 tys. zł;
+- **2)** 2016 r. – 30 000 tys. zł;
+- **3)** 2017 r. – 30 100 tys. zł;
+- **4)** 2018 r. – 31 000 tys. zł;
+- **5)** 2019 r. – 31 700 tys. zł;
+- **6)** 2020 r. – 36 500 tys. zł;
+- **7)** 2021 r. – 33 500 tys. zł;
+- **8)** 2022 r. – 34 500 tys. zł;
+- **9)** 2023 r. – 35 300 tys. zł;
+- **10)** 2024 r. – 36 200 tys. zł.
 
-2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw rybołówstwa wprowadzi mechanizmy korygujące polegające na ograniczeniu kosztów lub przesunięciu w czasie inwestycji lub wydatków związanych ze zbieraniem danych rybackich lub modernizacją systemów elektronicznego raportowania połowów przy jednoczesnym zapewnieniu właściwego poziomu realizacji WPR oraz zobowiązań Rzeczypospolitej Polskiej wynikających z przepisów Unii Europejskiej.
+2. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw rybołówstwa wprowadzi mechanizmy korygujące polegające na ograniczeniu kosztów lub przesunięciu w czasie inwestycji lub wydatków związanych ze zbieraniem danych rybackich lub modernizacją systemów elektronicznego raportowania połowów – przy jednoczesnym zapewnieniu właściwego poziomu realizacji WPR oraz zobowiązań Rzeczypospolitej Polskiej wynikających z przepisów Unii Europejskiej.
 
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków w zakresie wdrożenia mechanizmów korygujących jest minister właściwy do spraw rybołówstwa.
 

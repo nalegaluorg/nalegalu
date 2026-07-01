@@ -8,12 +8,10 @@ pos: 612
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo farmaceutyczne
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo farmaceutyczne
 
 | Pole | Wartość |
 |---|---|
@@ -24,164 +22,27 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-05-07 |
-| Ostatnia zmiana | 2026-05-08 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/612/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750), z uwzględnieniem stanu prawnego na dzień 8 kwietnia 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 4 czerwca 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 905);
-2) ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 924);
-3) ustawą z dnia 12 września 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 1416);
+1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750), z uwzględnieniem stanu prawnego na dzień 8 kwietnia 2026 r. oraz zmian wprowadzonych:
+1) ustawą z dnia 4 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 905);
+2) ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 924);
+3) ustawą z dnia 12 września 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 1416);
 4) ustawą z dnia 26 września 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1537);
 5) ustawą z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 2 ustawy z dnia 4 czerwca 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 905), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 924), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy Prawo farmaceutyczne (Dz. U. poz. 1416), które stanowią: „Art. 2. Osoby pełniące obowiązki Osoby Kompetentnej lub Osoby Wykwalifikowanej w dniu wejścia w życie niniejszej ustawy, spełniające odpowiednio wymagania, o których mowa w art. 38a ust. 13 pkt 1 lub art. 48 ust. 1 pkt 1 i 2 oraz ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, mogą nadal, po tym dniu, pełnić obowiązki odpowiednio Osoby Kompetentnej lub Osoby Wykwalifikowanej.
-Art. 37am. Przed podjęciem decyzji w sprawie wydania zezwolenia organ wydający zezwolenie, zwany dalej „organem zezwalającym”:
-1) może wzywać wnioskodawcę do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji poświadczającej, że spełnia on warunki określone przepisami prawa, wymagane do wykonywania określonej działalności gospodarczej;
-2) może dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej zezwoleniem.
-Art. 37an. 1. Przedsiębiorca, który zamierza podjąć działalność gospodarczą w dziedzinie podlegającej zezwoleniu, może ubiegać się o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”. W promesie można uzależnić udzielenie zezwolenia od spełnienia warunków wykonywania działalności gospodarczej objętej zezwoleniem.
-2. W postępowaniu o udzielenie promesy stosuje się przepisy dotyczące udzielania zezwoleń, określonych przepisami ustawy.
-3. W promesie ustala się okres jej ważności, z tym że nie może on być krótszy niż 6 miesięcy.
-4. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy albo
-2) wnioskodawca nie spełnił wszystkich warunków podanych w promesie, albo
-3) wnioskodawca nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli przedłoży on pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie mu tego zezwolenia, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy, albo
-2) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
-3) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia, chyba że:
-1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy albo
-2) nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
-3) nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
-4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
-Art. 37ao. 1. Zezwolenie wydaje się na czas nieoznaczony.
-2. Zezwolenie może być wydane na czas oznaczony na wniosek przedsiębiorcy.
-3. Postępowanie o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego lub postępowanie o skrócenie czasu obowiązywania zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego zawiesza się w przypadku gdy wobec przedsiębiorcy zostało wszczęte postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
-4. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem, członkiem organu jest osoba będąca właścicielem, wspólnikiem, współwłaścicielem, członkiem organu przedsiębiorcy, względem którego wszczęte zostało postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
-5. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem lub członkiem organu jest osoba, wobec której wszczęto postępowanie, o którym mowa w art. 126b lub art. 126c, do wydania prawomocnego orzeczenia.
-Art. 37ap. 1. Organ zezwalający cofa zezwolenie, w przypadku gdy:
-1) wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej zezwoleniem;
-2) przedsiębiorca przestał spełniać warunki określone przepisami prawa, wymagane do wykonywania działalności gospodarczej określonej w zezwoleniu;
-3) przedsiębiorca nie usunął, w wyznaczonym przez organ zezwalający terminie, stanu faktycznego lub prawnego niezgodnego z przepisami prawa regulującymi działalność gospodarczą objętą zezwoleniem.
-2. Organ zezwalający może cofnąć zezwolenie w przypadkach określonych przepisami ustawy.
-Art. 37ar. Przedsiębiorca jest obowiązany zgłaszać organowi zezwalającemu wszelkie zmiany danych określone w zezwoleniu.
-Art. 37as. Przedsiębiorca, któremu cofnięto zezwolenie z przyczyn, o których mowa w art. 37ap ust. 1, może ponownie wystąpić z wnioskiem o wydanie zezwolenia w takim samym zakresie niewcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
-Art. 37at. 1. Organ zezwalający jest uprawniony do inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie.
-2. Czynności w zakresie inspekcji oraz czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez organ zezwalający.
-3. Osoby upoważnione przez organ zezwalający do dokonywania inspekcji lub kontroli są uprawnione do:
-1) wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, w dniach i w godzinach, w których jest wykonywana lub powinna być wykonywana ta działalność;
-2) żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem inspekcji lub kontroli;
-3) badania dokumentów odnoszących się do przedmiotu inspekcji lub kontroli;
-4) pobierania, w ramach inspekcji lub kontroli, próbek produktów leczniczych, w celu przebadania ich, przez upoważnioną jednostkę.
-3a. Jeżeli cel inspekcji lub kontroli tego wymaga, osoba upoważniona przez organ zezwalający do dokonywania inspekcji lub kontroli zarządza otwarcie obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, oraz znajdujących się w nich schowków, jak również dokonuje ich oględzin.
-4. Organ zezwalający może wezwać przedsiębiorcę do usunięcia, w wyznaczonym terminie, stwierdzonych w toku inspekcji lub kontroli uchybień.
-5. Organ zezwalający może upoważnić do dokonywania inspekcji lub kontroli, o których mowa w ust. 1, inny organ administracji wyspecjalizowany w przeprowadzaniu inspekcji lub kontroli danego rodzaju działalności. Przepisy ust. 2−4 stosuje się odpowiednio.
-6. Organ zezwalający jest uprawniony do przeprowadzenia niezapowiedzianej inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie, jeżeli stwierdzi, że istnieje podejrzenie nieprzestrzegania wymogów określonych w ustawie.
-7. Jeżeli w następstwie inspekcji lub kontroli u przedsiębiorcy zajmującego się obrotem hurtowym lub wytwarzaniem produktów leczniczych organ zezwalający stwierdzi, że kontrolowany nie przestrzega procedur Dobrej Praktyki Dystrybucji lub Dobrej Praktyki Wytwarzania, informacje o ich nieprzestrzeganiu wprowadza do właściwej unijnej bazy danych.
-8. Na wezwanie organu zezwalającego i w terminie przez niego wyznaczonym przedsiębiorca jest obowiązany przekazać dokumentację związaną z prowadzoną działalnością. Termin ustala się, uwzględniając charakter dowodu, przy czym nie może on być krótszy niż 3 dni.
-Art. 37ata. 1. Organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli może zwrócić się o pomoc w umożliwieniu dokonania inspekcji lub kontroli do komendanta Policji lub Straży Granicznej, jeżeli natrafi na opór, który uniemożliwia lub utrudnia przeprowadzenie inspekcji lub kontroli, albo jeżeli istnieje uzasadnione przypuszczenie, że na taki opór natrafi, albo jeżeli z innych względów jest to niezbędne do niezakłóconego dokonania inspekcji lub kontroli.
-2. Udzielenie pomocy Policji lub Straży Granicznej, o której mowa w ust. 1, polega na zapewnieniu porządku w miejscu przeprowadzania inspekcji lub kontroli oraz osobistego bezpieczeństwa i poszanowania godności osób obecnych w miejscu jej przeprowadzania.
-3. Z pisemnym wnioskiem o pomoc w umożliwieniu dokonania inspekcji lub kontroli organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli występuje co najmniej 7 dni przed planowanym terminem przeprowadzenia inspekcji lub kontroli do właściwego ze względu na miejsce dokonania inspekcji lub kontroli komendanta Policji lub Straży Granicznej w przypadku gdy podmiot kontrolowany znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej.
-4. W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem przeprowadzenia inspekcji lub kontroli, udzielenie pomocy, o której mowa w ust. 1, następuje także na osobiste wezwanie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli.
-5. W przypadku, o którym mowa w ust. 4, organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli przekazuje potwierdzenie wezwania na piśmie, niepóźniej niż w terminie 3 dni od dnia zakończenia inspekcji lub kontroli.
-6. Organy wymienione w ust. 1 nie mogą odmówić udzielenia pomocy.
-7. Funkcjonariusz organu udzielającego pomocy sporządza notatkę urzędową z jej przebiegu zawierającą określenie miejsca, terminu, czasu trwania inspekcji lub kontroli, oznaczenie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli, oznaczenie kontrolowanego, a także zakresu udzielonej pomocy, której kopię przekazuje organowi zezwalającemu lub osobie upoważnionej przez ten organ do dokonywania inspekcji lub kontroli w terminie 7 dni.
-8. Koszty udzielonej pomocy ponosi kontrolowany. Koszty ustala się w wysokości rzeczywistych wydatków poniesionych na udzielenie pomocy. W przypadku gdy zwrócenie się o pomoc było oczywiście bezzasadne, koszty udzielonej pomocy ponosi organ zezwalający.
-9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy w drodze decyzji.
-10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia.
-Art. 37atb. Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.
-Art. 37au. Do kontroli lub inspekcji działalności gospodarczej przedsiębiorcy, o której mowa w art. 38, art. 38a, art. 51b, art. 70, art. 73a, art. 74 i art. 99, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
-Art. 37av. 1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
-1) wywozu poza terytorium Rzeczypospolitej Polskiej lub
-2) zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
-2. Zgłoszenie zamiaru, o którym mowa w ust. 1, zawiera:
-1) nazwę (firmę) i adres albo siedzibę przedsiębiorcy;
-2) numer wydanego zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi;
-3) numer identyfikacji podatkowej (NIP);
-4) dane identyfikujące odpowiednio produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny, jeżeli dotyczy:
-a) numer GTIN zgodny z systemem GS1, aa) nazwę handlową i międzynarodową,
-b) numer serii,
-c) datę ważności,
-d) nazwę podmiotu odpowiedzialnego, nazwę podmiotu uprawnionego do importu równoległego, nazwę wytwórcy wyrobów medycznych, jego autoryzowanego przedstawiciela, dystrybutora albo importera, albo nazwę podmiotu działającego na rynku spożywczym;
-5) ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego podlegających wywozowi lub zbyciu.
-3. Główny Inspektor Farmaceutyczny może wnieść, w drodze decyzji, sprzeciw wobec zamiaru wywozu lub zbycia, o których mowa w ust. 1, w terminie 30 dni od dnia zgłoszenia zamiaru wywozu lub zbycia, biorąc pod uwagę:
-1) zagrożenie brakiem dostępności na terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14;
-2) znaczenie danego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego zawartych w wykazie, o którym mowa w ust. 14, dla zdrowia publicznego.
-4. Decyzji w sprawie wniesienia sprzeciwu nadaje się rygor natychmiastowej wykonalności.
-5. Sprzeciw lub uchylenie sprzeciwu podlega publikacji w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego, a informacja w tym zakresie jest przekazywana Szefowi Krajowej Administracji Skarbowej oraz właściwym organom celnym. Z chwilą publikacji sprzeciwu lub uchylenia sprzeciwu uznaje się go za skutecznie doręczony.
-6. W przypadku wezwania do uzupełnienia zgłoszenia, o którym mowa w ust. 1, bieg terminu na wniesienie sprzeciwu ulega zawieszeniu.
-7. Od sprzeciwu, o którym mowa w ust. 3, strona może złożyć wniosek o ponowne rozpatrzenie sprawy. Wniosek wraz z uzasadnieniem składa się do Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia publikacji sprzeciwu.
-8. Informację o wniesieniu sprzeciwu oraz informację o wyniku ponownego rozpoznania sprawy Główny Inspektor Farmaceutyczny zamieszcza w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi.
-9. Niewniesienie sprzeciwu w terminie, o którym mowa w ust. 3, oznacza możliwość dokonania w terminie 30 dni od dnia jego upływu wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego.
-9a. Główny Inspektor Farmaceutyczny może, przed upływem terminu, o którym mowa w ust. 3, zawiadomić przedsiębiorcę zgłaszającego zamiar wywozu poza terytorium Rzeczypospolitej Polskiej lub zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, o braku sprzeciwu, o którym mowa w ust. 3. W takim przypadku przedsiębiorca może dokonać wywozu lub zbycia, w terminie 30 dni od dnia doręczenia zawiadomienia o braku sprzeciwu.
-10. Przedsiębiorca dokonujący wywozu poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, w imieniu innego przedsiębiorcy nie zgłasza zamiaru wywozu, o którym mowa w ust. 1 pkt 1, jeżeli zamiar wywozu został zgłoszony przez przedsiębiorcę, w imieniu którego dokonuje wywozu, pod warunkiem niezgłoszenia przez Głównego Inspektora Farmaceutycznego sprzeciwu na dokonanie wywozu.
-11. O dokonaniu wywozu lub zbycia, o których mowa w ust. 9, przedsiębiorca informuje Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia dokonania wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej.
-12. W przypadku wniesienia sprzeciwu przedsiębiorca jest obowiązany do sprzedaży produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wyłącznie na terytorium Rzeczypospolitej Polskiej w ilości określonej w zgłoszeniu zamiaru wywozu lub zbycia podmiotowi prowadzącemu działalność na terytorium Rzeczypospolitej Polskiej w celu realizacji świadczeń opieki zdrowotnej na tym terytorium.
-13. Po upływie 30 dni od dnia otrzymania sprzeciwu przedsiębiorca może ponownie zgłosić zamiar, o którym mowa w ust. 1.
-14. Minister właściwy do spraw zdrowia na podstawie informacji przekazywanych przez Głównego Inspektora Farmaceutycznego, gromadzonych w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi lub innych informacji dotyczących dostępności produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, uwzględniając dynamikę obrotu, ogłasza co najmniej raz na 2 miesiące, w drodze obwieszczenia, wykaz produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej.
-14a. Wykaz, o którym mowa w ust. 14, zawiera co najmniej nazwę handlową i międzynarodową, postać, moc i wielkość opakowania wskazanych w nim produktów leczniczych, a w przypadku środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych nazwę, postać, wielkość opakowania i ilość w opakowaniu.
-15. Obwieszczenie określone w ust. 14 jest ogłaszane w dzienniku urzędowym ministra właściwego do spraw zdrowia.
-16. Przedsiębiorca dokonujący zgłoszenia, o którym mowa w ust. 1, jest obowiązany przekazać kopię zgłoszenia, o którym mowa w ust. 2, przewoźnikowi, o którym mowa w art. 2 pkt 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanej dalej „ustawą o systemie monitorowania”. Kierujący, o którym mowa w art. 2 pkt 2 lit. a ustawy o systemie monitorowania, jest obowiązany okazać kopię zgłoszenia w trakcie kontroli, o której mowa w art. 13 tej ustawy.
-16a. W przypadkach, o których mowa w ust. 1, do przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych określonych w obwieszczeniu, o którym mowa w ust. 14, podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, dołącza dokument, który przekazuje kierującemu, o którym mowa w art. 2 pkt 2 lit. a tej ustawy. Dokument ten zawiera datę wystawienia, nazwę handlową i międzynarodową oraz postać farmaceutyczną produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, numer serii, datę ważności, dostarczaną ilość, nazwę i adres dostawcy, adres miejsca nadania wysyłki, nazwę i adres odbiorcy, adres dostawy, określenie wymaganych warunków transportu i przechowywania transportowanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, imię i nazwisko oraz podpis osoby wystawiającej ten dokument.
-17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego.
-Art. 37aw. Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
-1) bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
-2) przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3, z zastrzeżeniem art. 37av ust. 9a,
-3) wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego jest nieważna.
-Art. 37ax. Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy o systemie monitorowania.
-Art. 37ay. 1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą zapewniającym warunki odpowiednie do przechowywania tych produktów, środków lub wyrobów i przeprowadzenia ich oględzin.
-2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie.
-Art. 37az. 1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania pobiera się opłaty.
-2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
-Art. 37aza. 1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz termin i sposób ich uiszczania.
-2. Wysokość opłaty, o której mowa w ust. 1, odpowiada średniej cenie rynkowej usług w zakresie strzeżenia i przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych przez przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznych.
-3. Na postanowienie, o którym mowa w ust. 1, służy zażalenie.
-4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
-Art. 37azb. Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-Art. 37azc. 1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
-2. Maksymalna stawka kwotowa opłaty, o której mowa w ust. 1, obowiązująca w danym roku kalendarzowym, ulega corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
-3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku.
-Art. 37azd. 1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy o systemie monitorowania, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
-1) przepadek towarów zatrzymanych jeżeli Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości także po przeprowadzeniu dodatkowego sprawdzenia, że towary te były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania;
-2) przepadek i zniszczenie towarów zatrzymanych, jeżeli:
-a) Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości także po przeprowadzeniu dodatkowego sprawdzenia, że zatrzymane towary były transportowane i przechowywane niezgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania,
-b) nie jest możliwe stwierdzenie przez Głównego Inspektora Farmaceutycznego na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości także po przeprowadzeniu dodatkowego sprawdzenia, że towary były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania.
-2. Wniosek, o którym mowa w ust. 1, podlega rozpoznaniu bezzwłocznie, niepóźniej jednak niż w terminie tygodnia od dnia jego wpływu do sądu. W przypadku skierowania wniosku do rozpatrzenia na rozprawie, termin rozprawy należy wyznaczyć tak, aby mogła się ona odbyć w terminie miesiąca od dnia wpływu wniosku.
-3. Koszty zniszczenia, o którym mowa w ust. 1 pkt 2, ponosi podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
-4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
-5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) stosuje się odpowiednio.
-Art. 37aze. 1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru do wykonania.
-2. W przypadkach, o których mowa w art. 37azd ust. 1 pkt 1, naczelnik urzędu skarbowego sprzedaje towary, których termin przydatności albo data ważności nie upłynęły, na rzecz podmiotów uprawnionych do prowadzenia obrotu tymi towarami, z zastrzeżeniem, że nabywcą nie może być ostatni właściciel tych towarów przed orzeczeniem ich przepadku.
-3. Do chwili przekazania nabywcy towarów sprzedanych zgodnie z ust. 2 albo ust. 5 są one przechowywane z uwzględnieniem Dobrej Praktyki Dystrybucyjnej.
-4. Sprzedaż towarów w przypadkach, o których mowa w ust. 5 oraz w art. 37azd ust. 1 pkt 1, przez naczelnika urzędu skarbowego nie stanowi obrotu hurtowego.
-5. W przypadku konieczności zapewnienia dostępności pacjentom produktów leczniczych, środków specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wymienionych w wykazie, o którym mowa w art. 37av ust. 14, Główny Inspektor Farmaceutyczny składa, przed wydaniem orzeczenia, o którym mowa w art. 37azd ust. 1, do naczelnika urzędu skarbowego właściwego według miejsca przechowywania zatrzymanego towaru wniosek o dokonanie jego sprzedaży, na poczet grożącego przepadku.
-6. Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
-7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
-Art. 37azf. Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i 421).
-Art. 37azg. 1. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej, w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, minister właściwy do spraw zdrowia może, w drodze rozporządzenia, nałożyć na wytwórców, autoryzowanych przedstawicieli, dystrybutorów i importerów wyrobów medycznych, producentów i importerów środków spożywczych specjalnego przeznaczenia żywieniowego lub podmioty odpowiedzialne w odniesieniu do produktów biobójczych, posiadaczy pozwolenia albo zezwolenia na handel równoległy i wytwórców produktów biobójczych, obowiązki, o których mowa w art. 36z ust. 2 i 3, a na hurtownie farmaceutyczne, apteki, punkty apteczne oraz działy farmacji szpitalnej odpowiednio obowiązki określone w art. 78 ust. 1 pkt 6a i art. 95 ust. 1b, w odniesieniu do środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego.
-2. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej:
-1) produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub
-2) produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego umieszczonego w:
-a) obwieszczeniu, o którym mowa w art. 37av ust. 14, lub
-b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych minister właściwy do spraw zdrowia może ograniczyć, w drodze obwieszczenia, ilość, jaką maksymalnie można wydać danemu pacjentowi w określonym czasie lub w określonym wskazaniu.
-3. W przypadku nałożenia obowiązku, o którym mowa w ust. 1, podmioty, które dotychczas nie były podłączone do systemu, o którym mowa w art. 72a, są obowiązane do podłączenia i rozpoczęcia przekazywania informacji w ciągu 24 godzin od momentu nałożenia tego obowiązku. Wraz z wysłaniem pierwszej informacji podmiot raportuje jednocześnie indywidualny bilans otwarcia, zwany dalej „IBO”.
-3a. W przypadku ograniczonych możliwości technicznych podmiotu, który dotychczas nie był podłączony do systemu, o którym mowa w art. 72a, Główny Inspektor Farmaceutyczny może wyrazić zgodę na podłączenie i rozpoczęcie przekazywania informacji w terminie późniejszym.
-4. IBO stanowi informację o stanach magazynowych produktów podlegających raportowaniu do systemu, o którym mowa w art. 72a, w dniu, w którym wysłano pierwszy raport.
-5. Obwieszczenie, o którym mowa w ust. 2, określa:
-1) wykaz produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych oraz dane je identyfikujące;
-2) ilość produktu leczniczego, wyrobu medycznego, środka spożywczego specjalnego przeznaczenia żywieniowego i produktu biobójczego na jednego pacjenta w danej jednostce czasu.
-6. Do wydawania produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych objętych obwieszczeniem, o którym mowa w ust. 2, stosuje się przepisy niniejszej ustawy oraz przepisy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, przy czym:
-1) dokument realizacji recepty jest wystawiany również dla produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych sprzedawanych bez recepty oraz dla produktów biobójczych;
-2) przepisów art. 96 ust. 1a–1d nie stosuje się.
-7. Obwieszczenie, o którym mowa w ust. 2, podlega ogłoszeniu w dzienniku urzędowym ministra właściwego do spraw zdrowia.
+1) art. 2 ustawy z dnia 4 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 905), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 2 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 924), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 1416), które stanowią: „Art. 2. Osoby pełniące obowiązki Osoby Kompetentnej lub Osoby Wykwalifikowanej w dniu wejścia w życie niniejszej ustawy, spełniające odpowiednio wymagania, o których mowa w art. 38a ust. 13 pkt 1 lub art. 48 ust. 1 pkt 1 i 2 oraz ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, mogą nadal, po tym dniu, pełnić obowiązki odpowiednio Osoby Kompetentnej lub Osoby Wykwalifikowanej.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”;
 
+- **4)** art. 7 i art. 8 ustawy z dnia 26 września 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1537), które stanowią: „Art. 7. Recepty wystawione przed dniem wejścia w życie niniejszej ustawy realizuje się zgodnie z przepisami dotychczasowymi.
+
 **Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 2 lit. c, pkt 3 i pkt 4 w zakresie art. 23f, które wchodzą w życie z dniem 1 lipca 2026 r.”;
+
+- **5)** art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 6 września 2001 r. Prawo farmaceutyczne
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -202,11 +63,137 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 2.** W rozumieniu ustawy:
 
+- **1)** aktywnością biologiczną produktu leczniczego – jest siła działania jego substancji czynnej lub substancji czynnych, wyrażona w jednostkach międzynarodowych lub biologicznych;
+- **1a)** badaniem dotyczącym bezpieczeństwa przeprowadzanym po wydaniu pozwolenia na dopuszczenie do obrotu – jest każde badanie dotyczące dopuszczonego do obrotu produktu leczniczego, z wyłączeniem produktu leczniczego weterynaryjnego, prowadzone w celu zidentyfikowania, opisania lub ilościowego określenia ryzyka, potwierdzenia profilu bezpieczeństwa tego produktu leczniczego lub pomiaru skuteczności środków zarządzania ryzykiem użycia produktu leczniczego;
+- **2)** badaniem klinicznym – jest badanie kliniczne w rozumieniu art. 2 ust. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 536/2014”;
+- **2a)** badaczem – jest lekarz weterynarii posiadający prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej oraz wysokie kwalifikacje zawodowe, wiedzę naukową i doświadczenie w pracy, niezbędne do prowadzenia badania klinicznego weterynaryjnego, odpowiedzialny za prowadzenie tego badania w danym ośrodku; jeżeli badanie kliniczne weterynaryjne jest prowadzone przez zespół osób, badacz wyznaczony przez sponsora, za zgodą kierownika zakładu leczniczego dla zwierząt w rozumieniu art. 5 ust. 2 ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24 oraz z 2025 r. poz. 1795), w którym jest prowadzone badanie kliniczne weterynaryjne, jest kierownikiem zespołu odpowiedzialnym za prowadzenie tego badania w danym ośrodku;
+- **2b)** badaniem klinicznym weterynaryjnym – jest każde badanie, którego celem jest potwierdzenie przewidywanej skuteczności lub bezpieczeństwa badanego produktu leczniczego weterynaryjnego prowadzone z udziałem docelowych gatunków zwierząt;
+- **2c)** badanym produktem leczniczym – jest badany produkt leczniczy w rozumieniu art. 2 ust. 2 pkt 5 rozporządzenia 536/2014;
+- **2d)** badanym produktem leczniczym weterynaryjnym – jest substancja albo mieszanina substancji, którym nadano postać farmaceutyczną albo biologiczną, i które są wykorzystywane w badaniach klinicznych weterynaryjnych;
+- **3)** działaniem niepożądanym badanego produktu leczniczego weterynaryjnego – jest każde niekorzystne i niezamierzone działanie tego produktu, występujące po zastosowaniu jakiejkolwiek dawki tego produktu;
+- **3a)** działaniem niepożądanym produktu leczniczego – jest każde niekorzystne i niezamierzone działanie produktu leczniczego;
+- **3b)** działaniem niepożądanym produktu leczniczego weterynaryjnego – jest każde niekorzystne i niezamierzone działanie produktu leczniczego weterynaryjnego:
+    - **a)** występujące podczas stosowania dawek zalecanych u zwierząt w celach profilaktycznych, diagnostycznych, leczniczych oraz dla przywrócenia, poprawienia lub modyfikacji funkcji fizjologicznych organizmu,
+    - **b)** które występuje u człowieka po ekspozycji na produkt leczniczy weterynaryjny;
+
+- **3c)** ciężkim niepożądanym zdarzeniem po użyciu badanego produktu leczniczego weterynaryjnego – jest zdarzenie, które bez względu na zastosowaną dawkę badanego produktu leczniczego weterynaryjnego powoduje zgon zwierzęcia, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu;
+- **3d)** ciężkim niepożądanym działaniem produktu leczniczego – jest działanie, które bez względu na zastosowaną dawkę produktu leczniczego powoduje zgon pacjenta, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub inne działanie produktu leczniczego, które lekarz według swojego stanu wiedzy uzna za ciężkie, lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu;
+- **3e)** grupą koordynacyjną – jest grupa, o której mowa w art. 27 ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), zwanej dalej „dyrektywą 2001/83/WE”, lub grupa, o której mowa w art. 31 dyrektywy 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3), zwanej dalej „dyrektywą 2001/82/WE”;
+- **4)** Dobrą Praktyką Dystrybucyjną – jest praktyka, która gwarantuje bezpieczne przyjmowanie, transportowanie, przechowywanie i wydawanie produktów leczniczych;
+- **4a)** Dobrą Praktyką Dystrybucyjną substancji czynnych – jest praktyka, która gwarantuje bezpieczne przyjmowanie, transportowanie, przechowywanie i wydawanie substancji czynnej;
+- **5)** (uchylony)
+- **6)** Dobrą Praktyką Kliniczną – jest dobra praktyka kliniczna w rozumieniu art. 2 ust. 2 pkt 30 rozporządzenia 536/2014;
+- **6a)** Dobrą Praktyką Kliniczną Weterynaryjną – jest zespół uznawanych przez społeczność międzynarodową wymagań dotyczących etyki i jakości badań klinicznych weterynaryjnych, mających na celu zapewnienie dobrostanu zwierząt i bezpieczeństwa personelu, biorących udział w badaniu klinicznym weterynaryjnym oraz ochrony środowiska i zdrowia konsumenta żywności pochodzenia zwierzęcego;
+- **7)** Dobrą Praktyką Wytwarzania – jest praktyka, która gwarantuje, że produkt leczniczy oraz substancja czynna są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania oraz zgodnie z wymaganiami zawartymi w ich specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu produktu leczniczego; 7 ) Dobrą Praktyką Wytwarzania substancji pomocniczych – jest praktyka, która gwarantuje, że substancje pomocnicze są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania; 7 ) dystrybucją substancji czynnej – jest każde działanie obejmujące nabywanie, przechowywanie, dostarczanie lub eksport substancji czynnej prowadzone przez wytwórców, importerów lub dystrybutorów substancji czynnej, prowadzących działalność na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym; 7 ) dyżurem w dzień wolny od pracy – jest dyżur pełniony przez aptekę ogólnodostępną w dniach, o których mowa w art. 1 lub art. 1a ust. 1 ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296), bez przerwy przez kolejne 4 godziny zegarowe w przedziale czasowym między godzinami 10.00 a 18.00; 7 ) dyżurem w porze nocnej – jest dyżur pełniony przez aptekę ogólnodostępną bez przerwy przez kolejne 2 godziny zegarowe w przedziale czasowym między godzinami 19.00 a 23.00;
+- **7a)** importem produktu leczniczego – jest każde działanie polegające na sprowadzaniu produktu leczniczego spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym ich magazynowanie, kontrola jakości przy zwalnianiu serii i dystrybucja;
+- **7b)** importem równoległym – jest każde działanie w rozumieniu art. 72 ust. 4 polegające na przywozie z państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym produktu leczniczego zawierającego tę samą substancję czynną lub to samo połączenie substancji czynnych, co najmniej te same wskazania do 3 poziomu kodu ATC/ATCvet (kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych/kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych weterynaryjnych), tę samą moc, tę samą drogę podania oraz tę samą postać jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub postać zbliżoną, która nie powoduje powstania różnic terapeutycznych w stosunku do produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej; 7ba) importem substancji czynnej – jest każde działanie polegające na sprowadzaniu substancji czynnej spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym magazynowanie i dystrybucja;
+- **7c)** inspekcją – są czynności związane ze sprawowanym nadzorem nad warunkami wytwarzania i importu produktów leczniczych, substancji czynnych i pomocniczych oraz nad obrotem hurtowym i pośrednictwem w obrocie produktami leczniczymi;
+- **7d)** kontrolą – są czynności podejmowane przez:
+    - **a)** inspektorów farmaceutycznych w związku ze sprawowanym nadzorem nad jakością produktów leczniczych będących przedmiotem obrotu detalicznego oraz mające na celu sprawdzenie warunków prowadzenia obrotu detalicznego produktami leczniczymi,
+    - **b)** Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w zakresie monitorowania systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych,
+    - **c)** Głównego Lekarza Weterynarii w zakresie nadzoru nad jakością produktów leczniczych weterynaryjnych będących przedmiotem obrotu lub stosowania;
+
+- **8)** (uchylony)
+- **9)** kontrolą seryjną wstępną – jest kontrola każdej serii wytworzonego produktu leczniczego dokonywana przed wprowadzeniem tego produktu do obrotu;
+- **9a)** krajem trzecim – jest państwo położone poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
+- **10)** lekiem aptecznym – jest produkt leczniczy sporządzony w aptece zgodnie z recepturą farmakopealną, przeznaczony do wydania w tej aptece;
+- **11)** lekiem gotowym – jest produkt leczniczy wprowadzony do obrotu pod określoną nazwą i w określonym opakowaniu;
+- **12)** lekiem recepturowym – jest produkt leczniczy sporządzony w aptece na podstawie recepty lekarskiej, a w przypadku produktu leczniczego weterynaryjnego – na podstawie recepty wystawionej przez lekarza weterynarii;
+- **12a)** mocą produktu leczniczego – jest zawartość substancji czynnych wyrażona ilościowo na jednostkę dawkowania, jednostkę objętości lub masy, zależnie od postaci farmaceutycznej;
+- **13)** Maksymalnym Limitem Pozostałości – jest limit określony w art. 1 ust. 1 lit. b rozporządzenia Rady (EWG) nr 2377/90 z dnia 26 czerwca 1990 r. ustanawiającego wspólnotową procedurę dla określenia maksymalnego limitu pozostałości weterynaryjnych produktów leczniczych w środkach spożywczych pochodzenia zwierzęcego (Dz. Urz. WE L 224 z 18.08.1990, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 10, str. 111), zwanego dalej „rozporządzeniem nr 2377/90”;
+- **13a)** materiałem wyjściowym – jest każda substancja użyta do wytwarzania produktu leczniczego, z wyłączeniem materiałów opakowaniowych;
+- **14)** nazwą produktu leczniczego – jest nazwa nadana produktowi leczniczemu, która może być nazwą własną niestwarzającą możliwości pomyłki z nazwą powszechnie stosowaną albo nazwą powszechnie stosowaną lub naukową, opatrzoną znakiem towarowym lub nazwą podmiotu odpowiedzialnego;
+- **15)** nazwą powszechnie stosowaną – jest nazwa międzynarodowa zalecana przez Światową Organizację Zdrowia, a jeżeli takiej nie ma – nazwa potoczna produktu leczniczego;
+- **16)** niepożądanym zdarzeniem – jest każde niekorzystne i niezamierzone zdarzenie wywołujące negatywne skutki u zwierzęcia, któremu podano produkt leczniczy lub produkt leczniczy weterynaryjny, lub badany produkt leczniczy weterynaryjny, chociażby nie miały one związku przyczynowego ze stosowaniem tego produktu;
+- **17)** niespodziewanym działaniem niepożądanym – jest każde negatywne działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi w odpowiedniej informacji o produkcie leczniczym – dla produktów leczniczych w badaniach klinicznych albo badaniach klinicznych weterynaryjnych najczęściej – w broszurze badacza, dla produktów leczniczych dopuszczonych do obrotu – w Charakterystyce Produktu Leczniczego albo Charakterystyce Produktu Leczniczego Weterynaryjnego;
+- **17a)** niespodziewanym ciężkim niepożądanym działaniem produktu leczniczego – jest każde niepożądane działanie produktu leczniczego, którego charakter lub stopień nasilenia nie jest zgodny z danymi zawartymi w odpowiedniej informacji o produkcie leczniczym:
+    - **a)** dla produktów leczniczych w badaniach klinicznych albo w badaniach klinicznych weterynaryjnych – najczęściej w broszurze badacza,
+    - **b)** dla produktów leczniczych dopuszczonych do obrotu – w Charakterystyce Produktu Leczniczego albo w Charakterystyce Produktu Leczniczego Weterynaryjnego – które bez względu na zastosowaną dawkę produktu leczniczego powoduje zgon pacjenta, zagrożenie życia, konieczność hospitalizacji lub jej przedłużenie, trwały lub znaczny uszczerbek na zdrowiu lub inne działanie produktu leczniczego, które lekarz albo lekarz weterynarii według swojego stanu wiedzy uzna za ciężkie, lub jest chorobą, wadą wrodzoną lub uszkodzeniem płodu;
+
+- **18)** (uchylony)
+- **19)** okresem karencji – jest okres, jaki musi upłynąć od ostatniego podania zwierzęciu produktu leczniczego weterynaryjnego do uboju tego zwierzęcia, a w przypadku mleka, jaj lub miodu – do momentu rozpoczęcia pozyskiwania tych produktów do celów spożywczych, tak aby tkanki zwierzęcia oraz pozyskane produkty nie zawierały pozostałości w ilości przekraczającej ich Maksymalne Limity Pozostałości;
+- **20)** opakowaniem bezpośrednim produktu leczniczego – jest opakowanie mające bezpośredni kontakt z produktem leczniczym;
+- **21)** opakowaniem zewnętrznym produktu leczniczego – jest opakowanie, w którym umieszcza się opakowanie bezpośrednie;
+- **21a)** Osobą Kompetentną – jest osoba odpowiedzialna za zapewnienie, że każda seria produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego została wytworzona i skontrolowana zgodnie z przepisami ustawy;
+- **21b)** Osobą Odpowiedzialną – jest kierownik hurtowni farmaceutycznej albo hurtowni farmaceutycznej produktów leczniczych weterynaryjnych odpowiedzialny za prowadzenie hurtowni zgodnie z przepisami ustawy oraz wymaganiami Dobrej Praktyki Dystrybucyjnej;
+- **21c)** Osobą Wykwalifikowaną – jest osoba odpowiedzialna za zapewnienie przed wprowadzeniem do obrotu, że każda seria produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami ustawy oraz wymaganiami zawartymi w specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu tego produktu;
+- **22)** oznakowaniem produktu leczniczego – jest informacja umieszczona na opakowaniu bezpośrednim lub opakowaniu zewnętrznym produktu leczniczego;
+- **22a)** państwem referencyjnym – jest państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym, które:
+    - **a)** sporządza projekt raportu oceniającego w ramach procedury zdecentralizowanej,
+    - **b)** wydało pozwolenie będące podstawą do wszczęcia procedury wzajemnego uznania;
+
+- **23)** (uchylony)
+- **24)** podmiotem odpowiedzialnym – jest przedsiębiorca w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) lub podmiot prowadzący działalność gospodarczą w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, który wnioskuje lub uzyskał pozwolenie na dopuszczenie do obrotu produktu leczniczego;
+- **25)** pozostałościami produktów leczniczych weterynaryjnych – są pozostałości produktów leczniczych, o których mowa w art. 1 ust. 1 lit. a rozporządzenia nr 2377/90;
+- **26)** pozwoleniem na dopuszczenie do obrotu – jest decyzja wydana przez uprawniony organ, potwierdzająca, że dany produkt leczniczy może być przedmiotem obrotu na terytorium Rzeczypospolitej Polskiej;
+- **27)** premiksem leczniczym – jest weterynaryjny produkt leczniczy, który w wyniku procesu technologicznego został przygotowany w postaci umożliwiającej jego mieszanie z paszą w celu wytworzenia paszy leczniczej;
+- **27a)** (uchylony)
+- **28)** (uchylony)
+- **29)** produktem leczniczym homeopatycznym – jest produkt leczniczy wytworzony z homeopatycznych substancji pierwotnych lub ich mieszanin, zgodnie z homeopatyczną procedurą wytwarzania opisaną w Farmakopei Europejskiej lub, w przypadku braku takiego opisu, w farmakopeach oficjalnie uznanych przez państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **30)** produktem immunologicznym – jest produkt leczniczy stanowiący surowicę, szczepionkę, toksynę lub alergen, stosowany w celu:
+    - **a)** wywoływania czynnej odporności (szczepionki),
+    - **b)** przeniesienia odporności biernej (surowice),
+    - **c)** diagnozowania stanu odporności (w szczególności tuberkulina),
+    - **d)** identyfikacji lub wywoływania specyficznej nabytej zmiany reakcji odporności na czynnik alergizujący (alergeny);
+
+- **31)** produktem krwiopochodnym – jest produkt leczniczy wytwarzany przemysłowo z krwi lub jej składników, a w szczególności albuminy, czynniki krzepnięcia, immunoglobuliny;
+- **32)** produktem leczniczym – jest substancja lub mieszanina substancji, przedstawiana jako posiadająca właściwości zapobiegania lub leczenia chorób występujących u ludzi lub zwierząt lub podawana w celu postawienia diagnozy lub w celu przywrócenia, poprawienia lub modyfikacji fizjologicznych funkcji organizmu poprzez działanie farmakologiczne, immunologiczne lub metaboliczne;
+- **33)** (uchylony) 33a) produktem leczniczym roślinnym – jest produkt leczniczy zawierający jako składniki czynne jedną lub więcej substancji roślinnych albo jeden lub więcej przetworów roślinnych albo jedną lub więcej substancji roślinnych w połączeniu z jednym lub więcej przetworem roślinnym, przy czym:
+    - **a)** substancją roślinną – są wszystkie, głównie całe, podzielone na części lub pocięte rośliny, części roślin, glony, grzyby, porosty nieprzetworzone, zazwyczaj ususzone lub świeże; niektóre wydzieliny, które nie zostały poddane określonemu procesowi, mogą być uznane za substancje roślinne; substancje roślinne są szczegółowo definiowane przez użytą część rośliny i nazwę botaniczną,
+    - **b)** przetworem roślinnym – jest przetwór otrzymany przez poddanie substancji roślinnych procesom takim, jak: ekstrakcja, destylacja, wyciskanie, frakcjonowanie, oczyszczanie, zagęszczanie i fermentacja; przetworami są w szczególności rozdrobnione lub sproszkowane substancje roślinne, nalewki, wyciągi, olejki i wyciśnięte soki;
+
+- **33b)** produktem leczniczym terapii zaawansowanej – wyjątkiem szpitalnym – jest produkt leczniczy terapii zaawansowanej w rozumieniu art. 2 ust. 1 lit. a rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm. ), zwanego dalej „rozporządzeniem 1394/2007”, który jest przygotowywany na terytorium Rzeczypospolitej Polskiej w sposób niesystematyczny zgodnie ze standardami jakości i zastosowany w ramach świadczeń szpitalnych w rozumieniu art. 2 ust. 1 pkt 11 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156) na terytorium Rzeczypospolitej Polskiej na wyłączną odpowiedzialność lekarza w celu wykonania indywidualnie przepisanego produktu leczniczego dla danego pacjenta;
+- **34)** produktem leczniczym weterynaryjnym – jest produkt leczniczy stosowany wyłącznie u zwierząt;
+- **35)** produktem radiofarmaceutycznym – jest produkt leczniczy, z wyłączeniem produktu leczniczego weterynaryjnego, który zawiera jeden lub więcej izotopów radioaktywnych przeznaczonych dla celów medycznych;
+- **35a)** przedstawicielem podmiotu odpowiedzialnego – jest osoba fizyczna albo osoba prawna, mająca miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej, wyznaczona przez podmiot odpowiedzialny do stałego wykonywania jego obowiązków i uprawnień na terytorium Rzeczypospolitej Polskiej na podstawie umowy; 35aa) receptą transgraniczną – jest recepta na produkt leczniczy lub wyrób medyczny wystawiona przez osobę uprawnioną do wystawiania recept zgodnie z prawem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w którym recepta została wystawiona, podlegająca realizacji w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, zwanym dalej „państwem realizacji”, zgodnie z prawem tego państwa;
+- **35b)** referencyjnym produktem leczniczym – jest produkt leczniczy dopuszczony do obrotu na podstawie pełnej dokumentacji;
+- **35c)** ryzykiem użycia produktu leczniczego – jest każde zagrożenie zdrowia pacjenta lub zdrowia publicznego związane z jakością, bezpieczeństwem lub skutecznością produktu leczniczego oraz każde zagrożenie niepożądanym wpływem na środowisko, a w przypadku produktów leczniczych weterynaryjnych – każde zagrożenie zdrowia zwierząt lub ludzi, związane z jakością, bezpieczeństwem lub skutecznością produktu leczniczego weterynaryjnego oraz każde zagrożenie niepożądanego wpływu na środowisko;
+- **36)** (uchylony)
+- **37)** serią – jest określona ilość produktu leczniczego lub surowca farmaceutycznego, lub materiału opakowaniowego, wytworzona w procesie składającym się z jednej lub wielu operacji w taki sposób, że może być uważana za jednorodną;
+- **37a)** sponsorem – jest osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, odpowiedzialna za podjęcie, prowadzenie i finansowanie badania klinicznego weterynaryjnego, która ma siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, jeżeli sponsor nie ma siedziby na terytorium jednego z państw Europejskiego Obszaru Gospodarczego, może działać wyłącznie przez swojego prawnego przedstawiciela posiadającego siedzibę na tym terytorium; 37aa) sprzedażą wysyłkową produktów leczniczych – jest umowa sprzedaży produktów leczniczych zawierana z pacjentem bez jednoczesnej obecności obu stron, przy wykorzystywaniu środków porozumiewania się na odległość, w szczególności drukowanego lub elektronicznego formularza zamówienia niezaadresowanego lub zaadresowanego, listu seryjnego w postaci drukowanej lub elektronicznej, reklamy prasowej z wydrukowanym formularzem zamówienia, reklamy w postaci elektronicznej, katalogu, telefonu, telefaksu, radia, telewizji, automatycznego urządzenia wywołującego, wizjofonu, wideotekstu, poczty elektronicznej lub innych środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
+- **37b)** stosunkiem korzyści do ryzyka – jest ocena pozytywnych skutków terapeutycznych produktu leczniczego w odniesieniu do ryzyka związanego z użyciem produktu leczniczego, z wyłączeniem zagrożenia niepożądanym wpływem na środowisko, a w przypadku produktu leczniczego weterynaryjnego – ocena pozytywnych skutków terapeutycznych produktu leczniczego weterynaryjnego w odniesieniu do ryzyka związanego z użyciem produktu leczniczego weterynaryjnego;
+- **38)** substancją – jest każda materia, która może być pochodzenia:
+    - **a)** ludzkiego, w szczególności ludzka krew, elementy i składniki pochodzące z krwi ludzkiej,
+    - **b)** zwierzęcego, w szczególności mikroorganizmy, całe organizmy zwierzęce, fragmenty organów, wydzieliny zwierzęce, toksyny, wyciągi, elementy i składniki pochodzące z krwi zwierzęcej,
+    - **c)** roślinnego, w szczególności mikroorganizmy, całe rośliny, części roślin, wydzieliny roślinne, wyciągi,
+    - **d)** chemicznego, w szczególności pierwiastki lub związki chemiczne naturalnie występujące w przyrodzie lub otrzymane w drodze przemian chemicznych lub syntezy;
+
+- **38a)** sfałszowanym produktem leczniczym – jest produkt leczniczy, z wyłączeniem produktu leczniczego z niezamierzoną wadą jakościową, który został fałszywie przedstawiony w zakresie:
+    - **a)** tożsamości produktu, w tym jego opakowania, etykiety, nazwy lub składu w odniesieniu do jakichkolwiek składników, w tym substancji pomocniczych, oraz mocy tych składników,
+    - **b)** jego pochodzenia, w tym jego wytwórcy, kraju wytworzenia, kraju pochodzenia lub podmiotu odpowiedzialnego, lub
+    - **c)** jego historii, w tym danych i dokumentów dotyczących wykorzystanych kanałów dystrybucji;
+
+- **38b)** sfałszowaną substancją czynną – jest substancja czynna, z wyłączeniem substancji czynnej zawierającej niezamierzoną wadę jakościową, która została fałszywie przedstawiona w zakresie:
+    - **a)** tożsamości, w tym opakowania, etykiety, nazwy lub składu w odniesieniu do jakichkolwiek składników oraz mocy tych składników,
+    - **b)** jej pochodzenia, w tym jej wytwórcy, kraju wytworzenia, kraju pochodzenia lub podmiotu odpowiedzialnego, lub
+    - **c)** jej historii, w tym danych i dokumentów dotyczących wykorzystanych kanałów dystrybucji;
+
+- **38c)** substancją czynną – jest substancja lub mieszanina substancji, która ma zostać wykorzystana do wytworzenia produktu leczniczego i która, użyta w jego produkcji, staje się składnikiem czynnym tego produktu przeznaczonym do wywołania działania farmakologicznego, immunologicznego lub metabolicznego w celu przywrócenia, poprawy lub zmiany funkcji fizjologicznych lub do postawienia diagnozy medycznej;
+- **38d)** substancją pomocniczą – jest składnik produktu leczniczego inny niż substancja czynna i materiał opakowaniowy;
+- **39)** (uchylony)
+- **40)** surowcem farmaceutycznym – jest substancja lub mieszanina substancji wykorzystywana do sporządzania lub wytwarzania produktów leczniczych;
+- **40a)** (uchylony) 40b) systemem EudraVigilance – jest system wymiany informacji o działaniach niepożądanych, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 726/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. ustanawiającego wspólnotowe procedury wydawania pozwoleń dla produktów leczniczych stosowanych u ludzi i do celów weterynaryjnych i nadzoru nad nimi oraz ustanawiającego Europejską Agencję Leków (Dz. Urz. UE L 136 z 30.04.2004, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 229), zwanego dalej „rozporządzeniem nr 726/2004/WE”;
+- **40c)** systemem nadzoru nad bezpieczeństwem stosowania produktów leczniczych – jest system wykorzystywany przez podmiot odpowiedzialny oraz właściwe organy do wypełniania zadań i obowiązków wymienionych w rozdziale 2 oraz mający na celu monitorowanie bezpieczeństwa dopuszczonych do obrotu produktów leczniczych, a także wykrywanie wszelkich zmian w ich stosunku korzyści do ryzyka;
+- **40d)** systemem zarządzania ryzykiem użycia produktu leczniczego – jest ogół działań podejmowanych w ramach nadzoru nad bezpieczeństwem stosowania produktów leczniczych, których celem jest identyfikacja i opisanie ryzyka związanego ze stosowaniem produktu leczniczego, zapobieganie takiemu ryzyku lub jego zminimalizowanie, łącznie z oceną skuteczności tych działań; do produktów leczniczych weterynaryjnych stosuje się system zarządzania ryzykiem użycia produktu leczniczego weterynaryjnego;
+- **41)** ulotką – jest informacja przeznaczona dla użytkownika, zatwierdzona w procesie dopuszczenia do obrotu, sporządzona w formie odrębnego druku i dołączona do produktu leczniczego;
+- **41a)** unijną datą referencyjną − jest data wyznaczająca początek biegu terminu składania raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych, zawierających tę samą substancję czynną lub to samo połączenie substancji czynnych, która jest:
+    - **a)** datą wydania pierwszego pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego tę substancję czynną lub to połączenie substancji czynnych w dowolnym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub jeżeli nie można ustalić tej daty,
+    - **b)** najwcześniejszą ze znanych dat wydania w kraju trzecim pozwolenia na dopuszczenie do obrotu produktu leczniczego zawierającego tę substancję czynną lub to połączenie substancji czynnych;
+
+- **42)** wytwarzaniem produktu leczniczego – jest każde działanie prowadzące do powstania produktu leczniczego, w tym zakup i przyjmowanie w miejscu wytwarzania przez wytwórcę materiałów używanych do produkcji, produkcja, dopuszczanie do kolejnych etapów wytwarzania, w tym pakowanie lub przepakowywanie oraz magazynowanie i dystrybucja wytwarzanych produktów leczniczych objętych wnioskiem o wydanie zezwolenia na wytwarzanie, a także czynności kontrolne związane z tymi działaniami;
+- **42a)** wytwarzaniem substancji czynnej – jest każde działanie prowadzące do powstania substancji czynnej, w tym zakup i przyjmowanie w miejscu wytwarzania przez wytwórcę substancji czynnej materiałów używanych do produkcji, produkcja, dopuszczanie do kolejnych etapów wytwarzania, w tym pakowanie, przepakowywanie, ponowne etykietowanie, magazynowanie oraz dystrybucja substancji czynnej objętej wpisem do rejestru, o którym mowa w art. 51c ust. 1, a także czynności kontrolne związane z tymi działaniami;
+- **43)** wytwórcą – jest przedsiębiorca w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, który na podstawie zezwolenia wydanego przez upoważniony organ wykonuje co najmniej jedno z działań wymienionych w pkt 42;
+- **43a)** zgłoszeniem pojedynczego przypadku działania niepożądanego produktu leczniczego – jest informacja o podejrzeniu wystąpienia działania niepożądanego produktu leczniczego u człowieka, której źródło uzyskania jest inne niż prowadzone badanie kliniczne;
+- **43b)** zgłoszeniem pojedynczego przypadku działania niepożądanego produktu leczniczego weterynaryjnego – jest informacja o podejrzeniu wystąpienia działania niepożądanego produktu leczniczego weterynaryjnego u człowieka lub u zwierzęcia, której źródło uzyskania jest inne niż prowadzone badanie kliniczne;
+- **44)** zwolnieniem serii – jest poświadczenie przez Osobę Wykwalifikowaną, że dana seria:
+    - **a)** produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz wymaganiami pozwolenia na dopuszczenie do obrotu lub
+    - **b)** badanego produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz wymaganiami pozwolenia na badanie kliniczne.
+
 **Art. 2a.**
 
 1. Ilekroć w niniejszej ustawie jest mowa o wyrobie medycznym, rozumie się przez to wyrób medyczny, wyposażenie wyrobu medycznego, system i zestaw zabiegowy, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz wyrób do diagnostyki in vitro i wyposażenie wyrobu do diagnostyki in vitro, w rozumieniu przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), chyba że przepisy niniejszej ustawy stanowią inaczej.
 
-2. Ilekroć w niniejszej ustawie jest mowa o osobie wykonującej zawód medyczny, rozumie się przez to lekarza, lekarza dentystę, farmaceutę, felczera (starszego felczera), pielęgniarkę, położną, diagnostę laboratoryjnego, ratownika medycznego lub technika farmaceutycznego, o którym mowa w art. 91 ust. 1, a w odniesieniu do obowiązków wynikających z art. 24 także lekarza weterynarii.
+2. Ilekroć w niniejszej ustawie jest mowa o osobie wykonującej zawód medyczny, rozumie się przez to lekarza, lekarza dentystę, farmaceutę, felczera (starszego felczera), pielęgniarkę, położną, diagnostę laboratoryjnego, ratownika medycznego lub technika farmaceutycznego, o którym mowa w art. 91 ust. 1, a w odniesieniu do obowiązków wynikających z art. 24 – także lekarza weterynarii.
 
 3. Ilekroć w niniejszej ustawie jest mowa o opiekunie faktycznym, rozumie się przez to opiekuna faktycznego w rozumieniu art. 3 ust. 1 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26).
 
@@ -236,7 +223,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **4)** krew i osocze w pełnym składzie lub komórki krwi pochodzenia ludzkiego lub zwierzęcego, z wyłączeniem osocza przetwarzanego w procesie przemysłowym;
 - **5)** surowce farmaceutyczne nieprzeznaczone do sporządzania leków recepturowych i leków aptecznych oraz leków recepturowych i leków aptecznych stosowanych jako badane produkty lecznicze na zasadach określonych w art. 61 ust. 5 lit. c rozporządzenia 536/2014;
 - **6)** immunologiczne produkty lecznicze weterynaryjne wytworzone z patogenów lub antygenów pochodzących od zwierząt znajdujących się w danym gospodarstwie i przeznaczonych do leczenia zwierząt występujących w tym samym gospodarstwie;
-- **7)** produkty lecznicze terapii zaawansowanej wyjątki szpitalne.
+- **7)** produkty lecznicze terapii zaawansowanej – wyjątki szpitalne.
 
 **Art. 3a.** Do produktu spełniającego jednocześnie kryteria produktu leczniczego oraz kryteria innego rodzaju produktu, w szczególności suplementu diety, produktu kosmetycznego lub wyrobu medycznego, określone odrębnymi przepisami, stosuje się przepisy niniejszej ustawy.
 
@@ -269,9 +256,176 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** posiada pozwolenie, o którym mowa w art. 3 ust. 1 lub 2,
 - **2)** jest dopuszczony do obrotu w państwie, z którego jest sprowadzany,
-- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej pod warunkiem że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą moc i postać, co produkt leczniczy sprowadzany.
+- **3)** jest niedostępny na terytorium Rzeczypospolitej Polskiej – pod warunkiem że na terytorium Rzeczypospolitej Polskiej nie jest dostępny produkt leczniczy zawierający tę samą lub te same substancje czynne, tę samą moc i postać, co produkt leczniczy sprowadzany.
 
-**Art. 4a.** Do obrotu dopuszczone są również produkty lecznicze będące przedmiotem importu równoległego, które uzyskały pozwolenie na import równoległy. Art. 4aa. Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208 i 252), zwanego dalej „SOID”. Art. 4ab. 1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID. 2. Za założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej pobiera się opłatę w wysokości 500 zł wnoszoną na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia. Opłata stanowi dochód budżetu państwa. 3. Wniosek o założenie konta w SOID dla lekarza zawiera imię i nazwisko, adres poczty elektronicznej oraz numer prawa wykonywania zawodu lekarza. 4. Wniosek o założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej zawiera:
+**Art. 4a.** Do obrotu dopuszczone są również produkty lecznicze będące przedmiotem importu równoległego, które uzyskały pozwolenie na import równoległy.
+
+**Art. 4aa.** Złożenie zapotrzebowania, o którym mowa w art. 4 ust. 2, zgłoszenia przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikacja z ministrem właściwym do spraw zdrowia w tym zakresie odbywa się za pośrednictwem Systemu Obsługi Importu Docelowego, o którym mowa w art. 31c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208 i 252), zwanego dalej „SOID”.
+
+**Art. 4ab.**
+
+1. Lekarz wystawiający zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej zgłaszający konieczność wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8, składa do ministra właściwego do spraw zdrowia wniosek o założenie konta w SOID.
+
+2. Za założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej pobiera się opłatę w wysokości 500 zł wnoszoną na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia. Opłata stanowi dochód budżetu państwa.
+
+3. Wniosek o założenie konta w SOID dla lekarza zawiera imię i nazwisko, adres poczty elektronicznej oraz numer prawa wykonywania zawodu lekarza.
+
+4. Wniosek o założenie konta w SOID dla przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej zawiera:
+
+- **1)** dane podmiotu składającego wniosek:
+    - **a)** nazwę (firmę),
+    - **b)** numer identyfikacji podatkowej (NIP),
+    - **c)** unikalny identyfikator hurtowni farmaceutycznej,
+    - **d)** dane adresowe,
+    - **e)** adres poczty elektronicznej, na który zostanie wysłana informacja o rozpatrzeniu wniosku;
+
+- **2)** dane osoby uprawnionej do reprezentacji:
+    - **a)** imię i nazwisko,
+    - **b)** stanowisko;
+
+- **3)** dane Osoby Odpowiedzialnej:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu farmaceuty;
+
+- **4)** dowód wniesienia opłaty, o której mowa w ust. 2;
+- **5)** dokumenty potwierdzające uprawnienie do reprezentowania podmiotu składającego wniosek.
+
+5. Wniosek o założenie konta w SOID składa się w postaci elektronicznej oraz opatruje się go kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+
+6. Po pozytywnym rozpatrzeniu wniosku o założenie konta w SOID, minister właściwy do spraw zdrowia zakłada wnioskodawcy konto, które służy do administrowania udostępnioną wnioskodawcy częścią SOID. Informacja o założeniu konta w SOID lub o odrzuceniu wniosku jest przesyłana na adres poczty elektronicznej wskazany we wniosku. Odrzucenie wniosku o założenie konta w SOID stanowi czynność materialno-techniczną oraz wymaga uzasadnienia.
+
+**Art. 4ac.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, oraz zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, podpisują odpowiednio:
+
+- **1)** lekarz wystawiający zapotrzebowanie, osoba upoważniona do reprezentacji podmiotu wykonującego działalność leczniczą oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany w podmiocie wykonującym działalność leczniczą,
+- **2)** lekarz wystawiający zapotrzebowanie oraz konsultant potwierdzający zasadność wystawienia zapotrzebowania – w przypadku zapotrzebowań na produkt leczniczy stosowany poza podmiotem wykonującym działalność leczniczą,
+- **3)** Osoba Odpowiedzialna lub osoba upoważniona przez Osobę Odpowiedzialną oraz osoba uprawniona do reprezentacji podmiotu składającego zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8 – kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzenia pochodzenia i integralności danych w postaci elektronicznej dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych.
+
+2. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, które nie zostało podpisane przez osobę reprezentującą podmiot wykonujący działalność leczniczą w terminie 3 dni od dnia otrzymania zapotrzebowania, jest zwracane w SOID do lekarza wystawiającego zapotrzebowanie.
+
+3. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, na produkt leczniczy stosowany w podmiocie wykonującym działalność leczniczą zawiera:
+
+- **1)** dane podmiotu wykonującego działalność leczniczą składającego zapotrzebowanie:
+    - **a)** nazwę (firmę) łącznie z nazwą jednostki organizacyjnej lub nazwą komórki organizacyjnej, jeżeli dotyczy,
+    - **b)** numer identyfikacji podatkowej (NIP),
+    - **c)** numer wpisu do rejestru podmiotów wykonujących działalność leczniczą,
+    - **d)** resortowy kod identyfikacyjny jednostki organizacyjnej lub komórki organizacyjnej, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli dotyczy,
+    - **e)** dane adresowe,
+    - **f)** adres poczty elektronicznej, na który zostanie wysłana informacja o rozpatrzeniu zapotrzebowania;
+
+- **2)** dane lekarza wystawiającego zapotrzebowanie:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu;
+
+- **3)** dane osoby uprawnionej do reprezentacji:
+    - **a)** imię i nazwisko,
+    - **b)** stanowisko,
+    - **c)** adres poczty elektronicznej;
+
+- **4)** dane pacjenta, dla którego wystawiono zapotrzebowanie, jeżeli dotyczy:
+    - **a)** imię i nazwisko pacjenta,
+    - **b)** numer PESEL pacjenta, a w przypadku jego braku – serię i numer dowodu osobistego lub paszportu,
+    - **c)** w przypadku osób małoletnich, którym nie nadano numeru PESEL – numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku – serię i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna;
+
+- **5)** dane dotyczące produktu leczniczego:
+    - **a)** nazwę handlową,
+    - **b)** nazwę międzynarodową,
+    - **c)** postać,
+    - **d)** moc lub dawkę produktu leczniczego,
+    - **e)** ilość i jednostkę ilości,
+    - **f)** czas trwania kuracji – w dniach, jeżeli dotyczy,
+    - **g)** uzasadnienie zapotrzebowania,
+    - **h)** podmiot odpowiedzialny,
+    - **i)** rozpoznanie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
+
+- **6)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność wystawienia zapotrzebowania:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu,
+    - **c)** kwalifikacje zawodowe, w tym posiadane tytuły: zawodowy i naukowy,
+    - **d)** oznaczenie typu konsultanta (wojewódzki albo krajowy),
+    - **e)** oznaczenie dziedziny medycyny.
+
+4. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, na produkt leczniczy stosowany poza podmiotem wykonującym działalność leczniczą zawiera:
+
+- **1)** dane podmiotu wykonującego działalność leczniczą składającego zapotrzebowanie:
+    - **a)** nazwę (firmę) łącznie z nazwą jednostki organizacyjnej lub nazwą komórki organizacyjnej, jeżeli dotyczy,
+    - **b)** numer identyfikacji podatkowej (NIP),
+    - **c)** numer wpisu do rejestru podmiotów wykonujących działalność leczniczą,
+    - **d)** resortowy kod identyfikacyjny jednostki organizacyjnej lub komórki organizacyjnej, o którym mowa w art. 105 ust. 4a ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, jeżeli dotyczy,
+    - **e)** dane adresowe;
+
+- **2)** dane lekarza wystawiającego zapotrzebowanie:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu;
+
+- **3)** dane pacjenta, dla którego wystawiono zapotrzebowanie:
+    - **a)** imię i nazwisko pacjenta,
+    - **b)** numer PESEL pacjenta, a w przypadku jego braku – serię i numer dowodu osobistego lub paszportu,
+    - **c)** w przypadku osób małoletnich, którym nie nadano numeru PESEL – numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku – serię i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna,
+    - **d)** adres pacjenta,
+    - **e)** adres poczty elektronicznej, na który zostanie wysłana informacja o rozpatrzeniu zapotrzebowania;
+
+- **4)** dane dotyczące produktu leczniczego:
+    - **a)** nazwę handlową,
+    - **b)** nazwę międzynarodową,
+    - **c)** postać,
+    - **d)** moc lub dawkę produktu leczniczego,
+    - **e)** ilość i jednostkę ilości,
+    - **f)** czas trwania kuracji – w dniach,
+    - **g)** uzasadnienie zapotrzebowania,
+    - **h)** podmiot odpowiedzialny,
+    - **i)** rozpoznanie według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych;
+
+- **5)** dane konsultanta z danej dziedziny medycyny potwierdzającego zasadność wystawienia zapotrzebowania:
+    - **a)** imię i nazwisko,
+    - **b)** numer prawa wykonywania zawodu,
+    - **c)** kwalifikacje zawodowe, w tym posiadane tytuły: zawodowy i naukowy,
+    - **d)** oznaczenie typu konsultanta (wojewódzki albo krajowy),
+    - **e)** oznaczenie dziedziny medycyny.
+
+5. Zgłoszenie o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, zawiera:
+
+- **1)** dane przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej składającego zgłoszenie:
+    - **a)** nazwę (firmę),
+    - **b)** numer identyfikacji podatkowej (NIP),
+    - **c)** unikalny identyfikator hurtowni farmaceutycznej,
+    - **d)** dane adresowe,
+    - **e)** adres poczty elektronicznej, na który zostanie wysłana informacja o rozpatrzeniu wniosku;
+
+- **2)** dane Osoby Odpowiedzialnej albo osoby upoważnionej przez Osobę Odpowiedzialną oraz osoby uprawnionej do reprezentacji podmiotu:
+    - **a)** imię i nazwisko,
+    - **b)** stanowisko;
+
+- **3)** dane dotyczące produktu leczniczego:
+    - **a)** nazwę handlową,
+    - **b)** nazwę międzynarodową,
+    - **c)** postać,
+    - **d)** moc lub dawkę produktu leczniczego,
+    - **e)** ilość i jednostkę ilości,
+    - **f)** podmiot odpowiedzialny,
+    - **g)** uzasadnienie konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego,
+    - **h)** dane dotyczące serii: numer, datę ważności, ilość produktu leczniczego.
+
+6. Do zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, załącza się dokument potwierdzający uprawnienie osoby podpisującej wniosek do reprezentowania podmiotu składającego zgłoszenie.
+
+**Art. 4ad.**
+
+1. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, jest przesyłane, za pośrednictwem SOID, do konsultanta krajowego lub konsultanta wojewódzkiego w dziedzinie medycyny odpowiedniej ze względu na chorobę lub problem zdrowotny pacjenta, w celu potwierdzenia zasadności jego wystawienia. Konsultant potwierdza zasadność wystawienia zapotrzebowania lub odmawia takiego potwierdzenia w terminie 7 dni od dnia otrzymania zapotrzebowania. W przypadku braku potwierdzenia we wskazanym wyżej terminie, SOID zwraca zapotrzebowanie do lekarza wystawiającego zapotrzebowanie.
+
+2. W przypadku potwierdzenia zasadności wystawienia zapotrzebowania, o którym mowa w art. 4 ust. 2, konsultant przesyła w SOID potwierdzone zapotrzebowanie do ministra właściwego do spraw zdrowia. W przypadku odmowy potwierdzenia zasadności wystawienia zapotrzebowania, konsultant zwraca zapotrzebowanie w SOID do lekarza wystawiającego zapotrzebowanie wraz z uzasadnieniem odmowy.
+
+3. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, traci ważność, jeżeli nie zostanie przesłane do ministra właściwego do spraw zdrowia w terminie 60 dni od dnia wystawienia zapotrzebowania przez lekarza.
+
+4. Minister właściwy do spraw zdrowia rozpatruje zapotrzebowania, o których mowa w art. 4 ust. 2, oraz zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, w SOID bez zbędnej zwłoki. Informacja o rozpatrzeniu jest wysyłana na adres poczty elektronicznej podmiotu wykonującego działalność leczniczą w przypadku zapotrzebowań na produkt leczniczy stosowany w podmiocie wykonującym działalność leczniczą lub na adres poczty elektronicznej pacjenta lub inny wskazany w przypadku zapotrzebowań na produkt leczniczy stosowany poza podmiotem wykonującym działalność leczniczą, lub na adres poczty elektronicznej przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej w przypadku zgłoszeń o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8.
+
+5. Podmiot leczniczy za pośrednictwem apteki szpitalnej lub działu farmacji szpitalnej albo apteka ogólnodostępna kieruje do hurtowni farmaceutycznej zapotrzebowanie, o którym mowa w art. 4 ust. 2, lub zgodę, o której mowa w art. 4 ust. 8, pobrane z SOID, w celu sprowadzenia z zagranicy produktu leczniczego.
+
+6. Pobranie zapotrzebowania, o którym mowa w art. 4 ust. 2, lub zgody, o której mowa w art. 4 ust. 8, z SOID jest możliwe po wprowadzeniu do SOID odpowiednio numeru zapotrzebowania oraz numeru PESEL pacjenta, numeru zapotrzebowania oraz numeru rozstrzygnięcia albo numeru rozstrzygnięcia oraz numeru PESEL pacjenta.
+
+7. Zapotrzebowanie, o którym mowa w art. 4 ust. 2, traci ważność, w przypadku gdy nie zostanie przekazane do hurtowni farmaceutycznej w terminie 60 dni od dnia jego rozpatrzenia przez ministra właściwego do spraw zdrowia.
+
+8. W przypadku braku dostępu do SOID wynikającego z awarii SOID lub działania siły wyższej, a także w przypadku podmiotów leczniczych wymienionych w art. 1 ust. 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zapotrzebowania, o których mowa w art. 4 ust. 2, oraz zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 4 ust. 8, mogą być składane w postaci papierowej, z zachowaniem wymogów określonych w art. 4ac. Zapotrzebowania oraz zgłoszenia złożone w postaci papierowej, po uzyskaniu dostępu do SOID, są wprowadzane przez ministra właściwego do spraw zdrowia do SOID niezwłocznie po przywróceniu jego funkcjonalności.
 
 **Art. 4b.** Prezes Urzędu może wydać zgodę na obcojęzyczną treść oznakowania opakowania dla określonej ilości opakowań leków sierocych określonych w rozporządzeniu (WE) nr 141/2000 Parlamentu Europejskiego i Rady z dnia 16 grudnia 1999 r. w sprawie sierocych produktów leczniczych (Dz. Urz. WE L 18 z 22.01.2000, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 21).
 
@@ -280,7 +434,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1. W przypadkach uzasadnionych ochroną zdrowia publicznego Prezes Urzędu, uwzględniając bezpieczeństwo stosowania produktu leczniczego, może na czas określony wyrazić zgodę na zwolnienie:
 
 - **1)** z obowiązku umieszczania na opakowaniu lub w ulotce dołączanej do opakowania niektórych danych szczegółowych lub
-- **2)** w całości albo w części z obowiązku sporządzenia oznakowania opakowania lub ulotki dołączanej do opakowania w języku polskim dotyczącą produktu leczniczego, który posiada kategorię dostępności, o której mowa w art. 23a ust. 1 pkt 3 lub 5, lub innego produktu leczniczego, względem którego występują poważne trudności w zakresie jego dostępności.
+- **2)** w całości albo w części z obowiązku sporządzenia oznakowania opakowania lub ulotki dołączanej do opakowania w języku polskim – dotyczącą produktu leczniczego, który posiada kategorię dostępności, o której mowa w art. 23a ust. 1 pkt 3 lub 5, lub innego produktu leczniczego, względem którego występują poważne trudności w zakresie jego dostępności.
 
 2. Zgodę, o której mowa w ust. 1, Prezes Urzędu wyraża dla określonej liczby opakowań produktu leczniczego.
 
@@ -303,14 +457,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** imię i nazwisko,
     - **b)** numer prawa wykonywania zawodu;
 
-- **4)** w przypadku podmiotu leczniczego wykonującego działalność leczniczą w rodzaju świadczenia szpitalne dane osoby uprawnionej do reprezentacji:
+- **4)** w przypadku podmiotu leczniczego wykonującego działalność leczniczą w rodzaju świadczenia szpitalne – dane osoby uprawnionej do reprezentacji:
     - **a)** imię i nazwisko,
     - **b)** stanowisko,
     - **c)** adres poczty elektronicznej;
 
 - **5)** dane dotyczące pacjenta, dla którego wystawiono zapotrzebowanie o sprowadzenie produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego na potrzeby doraźne:
     - **a)** imię i nazwisko oraz adres miejsca zamieszkania pacjenta, jeżeli dotyczy,
-    - **b)** numer PESEL pacjenta, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna,
+    - **b)** numer PESEL pacjenta, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL – numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna,
     - **c)** adres poczty elektronicznej pacjenta, jeżeli dotyczy;
 
 - **6)** dane dotyczące produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego:
@@ -319,7 +473,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **c)** postać,
     - **d)** moc lub dawka produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego,
     - **e)** ilość i jednostka ilości,
-    - **f)** czas trwania kuracji w dniach, jeżeli dotyczy,
+    - **f)** czas trwania kuracji – w dniach, jeżeli dotyczy,
     - **g)** uzasadnienie zapotrzebowania,
     - **h)** podmiot odpowiedzialny w przypadku produktu leczniczego,
     - **i)** nazwa wytwórcy w przypadku środka spożywczego specjalnego przeznaczenia żywieniowego,
@@ -352,7 +506,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **e)** ilość,
     - **f)** podmiot odpowiedzialny;
 
-- **5)** imię, nazwisko, numer PESEL świadczeniobiorcy, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna;
+- **5)** imię, nazwisko, numer PESEL świadczeniobiorcy, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL – numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna;
 - **6)** imię i nazwisko przedstawiciela ustawowego;
 - **7)** adres oraz dane kontaktowe świadczeniobiorcy wraz z informacją o sposobie dostarczenia rozstrzygnięcia;
 - **8)** informacja o rozpoznaniu według Międzynarodowej Statystycznej Klasyfikacji Chorób i Problemów Zdrowotnych oraz informacja o chorobie, jej przebiegu i dotychczasowym leczeniu;
@@ -398,13 +552,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **b)** numer prawa wykonywania zawodu,
     - **c)** adres poczty elektronicznej;
 
-- **5)** w przypadku podmiotu leczniczego wykonującego działalność leczniczą w rodzaju świadczenia szpitalne dane osoby uprawnionej do reprezentacji:
+- **5)** w przypadku podmiotu leczniczego wykonującego działalność leczniczą w rodzaju świadczenia szpitalne – dane osoby uprawnionej do reprezentacji:
     - **a)** imię i nazwisko,
     - **b)** stanowisko,
     - **c)** adres poczty elektronicznej;
 
 - **6)** dane dotyczące pacjenta, dla którego wystawiono zapotrzebowanie, jeżeli dotyczy:
-    - **a)** imię i nazwisko oraz numer PESEL pacjenta, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna,
+    - **a)** imię i nazwisko oraz numer PESEL pacjenta, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu, a w przypadku osób małoletnich, którym nie nadano numeru PESEL – numer PESEL przedstawiciela ustawowego albo opiekuna, jeżeli został ustanowiony, a w przypadku jego braku – seria i numer dowodu osobistego lub paszportu przedstawiciela ustawowego albo opiekuna,
     - **b)** adres poczty elektronicznej pacjenta, jeżeli dotyczy;
 
 - **7)** dane konsultanta z danej dziedziny medycyny potwierdzającego zapotrzebowanie:
@@ -434,6 +588,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **h)** uzasadnienie.
 
 **Art. 5.** Nie wymagają uzyskania pozwolenia:
+
+- **1)** produkty lecznicze wykorzystywane wyłącznie do badań naukowych, prowadzonych przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), prowadzące działalność o profilu medycznym;
+- **2)** produkty lecznicze wykorzystywane przez wytwórców;
+- **3)** badane produkty lecznicze wykorzystywane wyłącznie do badań klinicznych albo badane produkty lecznicze weterynaryjne wykorzystywane wyłącznie do badań klinicznych weterynaryjnych wpisanych do Centralnej Ewidencji Badań Klinicznych;
+- **4)** półprodukty wytworzone w celu wykorzystania w dalszym procesie wytwórczym realizowanym przez wytwórcę.
 
 **Art. 6.** (uchylony)
 
@@ -471,7 +630,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** weryfikuje wniosek, o którym mowa w art. 10, wraz z dołączoną dokumentacją;
 - **2)** może zażądać od podmiotu odpowiedzialnego uzupełnień lub wyjaśnień dotyczących dokumentacji, o której mowa w art. 10, a także przedstawienia systemu zarządzania ryzykiem użycia produktu leczniczego weterynaryjnego;
-- **3)** może, w przypadku wątpliwości co do metod kontroli, o których mowa w art. 10 ust. 2 pkt 2, a w przypadku produktów leczniczych weterynaryjnych co do metod badań, o których mowa w art. 10 ust. 2b pkt 6 lit. a, które mogą być wyjaśnione wyłącznie eksperymentalnie, skierować do badań jakościowych produkt leczniczy, materiały wyjściowe i produkty pośrednie lub inne składniki produktu leczniczego będącego przedmiotem wniosku; przed skierowaniem do badań jakościowych Prezes Urzędu pisemnie informuje podmiot odpowiedzialny o powziętych wątpliwościach oraz uzasadnia konieczność przeprowadzenia badań;
+- **3)** może, w przypadku wątpliwości co do metod kontroli, o których mowa w art. 10 ust. 2 pkt 2, a w przypadku produktów leczniczych weterynaryjnych – co do metod badań, o których mowa w art. 10 ust. 2b pkt 6 lit. a, które mogą być wyjaśnione wyłącznie eksperymentalnie, skierować do badań jakościowych produkt leczniczy, materiały wyjściowe i produkty pośrednie lub inne składniki produktu leczniczego będącego przedmiotem wniosku; przed skierowaniem do badań jakościowych Prezes Urzędu pisemnie informuje podmiot odpowiedzialny o powziętych wątpliwościach oraz uzasadnia konieczność przeprowadzenia badań;
 - **4)** może zasięgnąć opinii Komisji do Spraw Produktów Leczniczych lub Komisji do Spraw Produktów Leczniczych Weterynaryjnych działających na podstawie ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. z 2023 r. poz. 1223);
 - **5)** w przypadku produktów leczniczych innych niż określone w pkt 6, opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym wraz z uzasadnieniem oraz streszczeniem raportu oceniającego zrozumiałym dla odbiorcy, zawierającym w szczególności informację odnoszącą się do warunków stosowania tego produktu;
 - **6)** opracowuje raport oceniający zawierający opinię naukową o produkcie leczniczym weterynaryjnym.
@@ -486,7 +645,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 6. Komisje, o których mowa w ust. 1 pkt 4, wydają opinie wraz z uzasadnieniem, w terminie 30 dni od dnia otrzymania wniosku. Niewydanie opinii w tym terminie jest traktowane jako wyrażenie opinii pozytywnej.
 
-7. Decyzja o wydaniu pozwolenia na dopuszczenie do obrotu produktu leczniczego weterynaryjnego, z wyłączeniem produktów immunologicznych, stosowanego u zwierząt, których tkanki lub produkty są przeznaczone do spożycia przez ludzi, może być podjęta tylko wtedy, gdy zostały wyznaczone przynajmniej tymczasowe Najwyższe Dopuszczalne Stężenia Pozostałości akceptowane na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym albo zostało uznane przez Komisję Europejską, że dla ich substancji czynnych limity takie nie są wymagane.
+7. Decyzja o wydaniu pozwolenia na dopuszczenie do obrotu produktu leczniczego weterynaryjnego, z wyłączeniem produktów immunologicznych, stosowanego u zwierząt, których tkanki lub produkty są przeznaczone do spożycia przez ludzi, może być podjęta tylko wtedy, gdy zostały wyznaczone przynajmniej tymczasowe Najwyższe Dopuszczalne Stężenia Pozostałości akceptowane na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym albo zostało uznane przez Komisję Europejską, że dla ich substancji czynnych limity takie nie są wymagane.
 
 8. Dokumenty dołączone do wniosku, raporty oraz inne dokumenty i dane gromadzone w postępowaniu o dopuszczenie do obrotu, o przedłużenie terminu ważności pozwolenia, o zmianę danych stanowiących podstawę wydania pozwolenia lub o zmianę w dokumentacji będącej podstawą wydania pozwolenia są przechowywane w Urzędzie Rejestracji przez 10 lat po wygaśnięciu pozwolenia.
 
@@ -494,11 +653,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** o zmianie danych objętych pozwoleniem,
 - **2)** o zmianie dokumentacji będącej podstawą wydania pozwolenia,
-- **3)** na podstawie odrębnego wniosku o wydanie pozwolenia, w tym w dodatkowej mocy, postaci, drodze podania, wielkości opakowania, dotyczącego innego gatunku zwierząt, pod inną nazwą lub z inną Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego na rzecz tego samego podmiotu, który uzyskał pierwsze pozwolenie, lub innego podmiotu.
+- **3)** na podstawie odrębnego wniosku o wydanie pozwolenia, w tym w dodatkowej mocy, postaci, drodze podania, wielkości opakowania, dotyczącego innego gatunku zwierząt, pod inną nazwą lub z inną Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego – na rzecz tego samego podmiotu, który uzyskał pierwsze pozwolenie, lub innego podmiotu.
 
 **Art. 8a.**
 
-1. Prezes Urzędu może, w przypadkach uzasadnionych ochroną zdrowia publicznego, wydać pozwolenie dla produktu leczniczego nieposiadającego pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym dopuszczono do obrotu produkt leczniczy zgodnie z wymaganiami określonymi w dyrektywie 2001/83/WE.
+1. Prezes Urzędu może, w przypadkach uzasadnionych ochroną zdrowia publicznego, wydać pozwolenie dla produktu leczniczego nieposiadającego pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej, pod warunkiem że w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym dopuszczono do obrotu produkt leczniczy zgodnie z wymaganiami określonymi w dyrektywie 2001/83/WE.
 
 2. Do pozwoleń wydanych na podstawie ust. 1 przepisy ustawy stosuje się odpowiednio.
 
@@ -509,7 +668,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. W przypadku wydania, cofnięcia lub wygaśnięcia pozwolenia, o którym mowa w ust. 1, Prezes Urzędu powiadamia Komisję Europejską, wskazując w szczególności nazwę produktu leczniczego oraz nazwę i adres podmiotu odpowiedzialnego.
 
-5. W przypadku gdy państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strona umowy o Europejskim Obszarze Gospodarczym występuje w trybie art. 126a dyrektywy 2001/83/WE do Prezesa Urzędu o przekazanie kopii raportu oceniającego oraz kopii pozwolenia dla produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej, Prezes Urzędu, w terminie 30 dni, przesyła kopię aktualnego raportu oceniającego oraz kopię pozwolenia.
+5. W przypadku gdy państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym występuje w trybie art. 126a dyrektywy 2001/83/WE do Prezesa Urzędu o przekazanie kopii raportu oceniającego oraz kopii pozwolenia dla produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej, Prezes Urzędu, w terminie 30 dni, przesyła kopię aktualnego raportu oceniającego oraz kopię pozwolenia.
 
 **Art. 9.**
 
@@ -523,7 +682,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** nazwę i adres podmiotu odpowiedzialnego, wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego, miejsca wytwarzania, w tym miejsca wytwarzania, gdzie następuje kontrola jego serii, lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii, oraz numery zezwoleń na wytwarzanie produktu leczniczego lub na import produktu leczniczego;
 - **2)** nazwę produktu leczniczego;
-- **3)** szczegółowe dane ilościowe i jakościowe substancji czynnej lub substancji czynnych i innych substancji odnoszące się do produktu leczniczego oraz ich nazwy powszechnie stosowane, a w przypadku ich braku nazwy chemiczne;
+- **3)** szczegółowe dane ilościowe i jakościowe substancji czynnej lub substancji czynnych i innych substancji odnoszące się do produktu leczniczego oraz ich nazwy powszechnie stosowane, a w przypadku ich braku – nazwy chemiczne;
 - **4)** postać farmaceutyczną, moc i drogę podania oraz okres ważności produktu leczniczego, a także dane dotyczące ochrony środowiska związane ze zniszczeniem produktu leczniczego, jeżeli jest to niezbędne i wynika z właściwości produktu.
 
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
@@ -535,31 +694,31 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **4)** wyniki, streszczenia oraz sprawozdania z badań:
     - **a)** farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych,
     - **b)** nieklinicznych: farmakologicznych i toksykologicznych,
-    - **c)** klinicznych wraz z ogólnym podsumowaniem jakości, przeglądem nieklinicznym i streszczeniem danych nieklinicznych oraz przeglądem klinicznym i podsumowaniem klinicznym;
+    - **c)** klinicznych – wraz z ogólnym podsumowaniem jakości, przeglądem nieklinicznym i streszczeniem danych nieklinicznych oraz przeglądem klinicznym i podsumowaniem klinicznym;
 
 - **5)** streszczenie opisu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych wykorzystywanego przez podmiot odpowiedzialny, obejmujące:
-    - **a)** oświadczenie podmiotu odpowiedzialnego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), że podmiot odpowiedzialny dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań,
-    - **b)** listę państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w których osoba, o której mowa w lit. a, posiada miejsce zamieszkania i wykonuje swoje obowiązki,
+    - **a)** oświadczenie podmiotu odpowiedzialnego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), że podmiot odpowiedzialny dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań,
+    - **b)** listę państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których osoba, o której mowa w lit. a, posiada miejsce zamieszkania i wykonuje swoje obowiązki,
     - **c)** oświadczenie podmiotu odpowiedzialnego stwierdzające, że dysponuje on niezbędnymi środkami służącymi wypełnieniu obowiązków wymienionych w rozdziale 2 ,
     - **d)** dane kontaktowe osoby, o której mowa w lit. a,
     - **e)** wskazanie miejsca, w którym jest dostępny do wglądu pełny opis systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, o którym mowa w art. 36g ust. 1 pkt 4;
 
 - **6)** plan zarządzania ryzykiem użycia produktu leczniczego, będący szczegółowym opisem systemu zarządzania ryzykiem użycia produktu leczniczego stosowanego przez podmiot odpowiedzialny, współmierny do zidentyfikowanych i potencjalnych zagrożeń stwarzanych przez ten produkt leczniczy oraz zapotrzebowania na dane dotyczące bezpieczeństwa, wraz ze streszczeniem tego planu;
-- **7)** w przypadku badań klinicznych przeprowadzonych poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oświadczenie, że badania te spełniają wymogi etyczne określone w rozporządzeniu 536/2014;
+- **7)** w przypadku badań klinicznych przeprowadzonych poza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oświadczenie, że badania te spełniają wymogi etyczne określone w rozporządzeniu 536/2014;
 - **8)** (uchylony)
 - **9)** oświadczenia podpisane przez ekspertów sporządzających ogólne podsumowanie jakości, przegląd niekliniczny i streszczenie danych nieklinicznych oraz przegląd kliniczny i podsumowanie kliniczne, o których mowa w pkt 4, o posiadaniu przez nich niezbędnych kwalifikacji technicznych lub zawodowych, opisanych w załączonym życiorysie;
 - **10)** w przypadku, o którym mowa w art. 16 ust. 1, sporządzone przez eksperta uzasadnienie dotyczące wykorzystania piśmiennictwa naukowego zgodnie z wymaganiami określonymi w załączniku I do dyrektywy 2001/83/WE;
 - **11)** Charakterystykę Produktu Leczniczego;
 - **12)** wzory opakowań bezpośrednich i zewnętrznych przedstawione w formie opisowej i graficznej oraz ulotkę, wraz z raportem z badania jej czytelności;
-- **13)** kopie wszystkich pozwoleń wydanych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, Charakterystyk Produktu Leczniczego zatwierdzonych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, streszczenia danych dotyczących bezpieczeństwa, w tym danych zawartych w raportach okresowych o bezpieczeństwie stosowania produktów leczniczych i zgłoszeniach o działaniach niepożądanych, jeżeli są dostępne, a także kopie ulotek, jeżeli ma to zastosowanie, oraz kopie wszystkich decyzji o odmowie wydania pozwolenia wydanych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym lub krajach trzecich wraz z uzasadnieniem takich decyzji;
-- **14)** listę państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w których wniosek o wydanie pozwolenia jest rozpatrywany, oraz szczegółowe informacje dotyczące odmowy udzielenia pozwolenia w jakimkolwiek państwie, jeżeli ma to zastosowanie;
+- **13)** kopie wszystkich pozwoleń wydanych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, Charakterystyk Produktu Leczniczego zatwierdzonych przez właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub krajów trzecich, streszczenia danych dotyczących bezpieczeństwa, w tym danych zawartych w raportach okresowych o bezpieczeństwie stosowania produktów leczniczych i zgłoszeniach o działaniach niepożądanych, jeżeli są dostępne, a także kopie ulotek, jeżeli ma to zastosowanie, oraz kopie wszystkich decyzji o odmowie wydania pozwolenia wydanych w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub krajach trzecich wraz z uzasadnieniem takich decyzji;
+- **14)** listę państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których wniosek o wydanie pozwolenia jest rozpatrywany, oraz szczegółowe informacje dotyczące odmowy udzielenia pozwolenia w jakimkolwiek państwie, jeżeli ma to zastosowanie;
 - **15)** kopię zezwolenia na wytwarzanie produktu leczniczego w państwie wytwarzania.
 
 2a. Wniosek o dopuszczenie do obrotu produktu leczniczego weterynaryjnego, z zastrzeżeniem art. 15a i 16a, powinien zawierać wszystkie informacje dokumentujące jakość, bezpieczeństwo i skuteczność danego produktu leczniczego weterynaryjnego, w szczególności:
 
 - **1)** nazwę i adres podmiotu odpowiedzialnego, wytwórcy lub importera, u którego następuje zwolnienie serii produktu leczniczego weterynaryjnego, miejsca wytwarzania, w tym miejsca wytwarzania, gdzie następuje kontrola jego serii, lub miejsca prowadzenia działalności importowej, gdzie następuje kontrola jego serii, oraz numery zezwoleń na wytwarzanie produktu leczniczego weterynaryjnego lub na import produktu leczniczego weterynaryjnego;
 - **2)** nazwę produktu leczniczego weterynaryjnego;
-- **3)** szczegółowe dane ilościowe i jakościowe substancji czynnej lub substancji czynnych i innych substancji odnoszące się do produktu leczniczego weterynaryjnego oraz ich nazwy powszechnie stosowane, a w przypadku ich braku nazwy chemiczne;
+- **3)** szczegółowe dane ilościowe i jakościowe substancji czynnej lub substancji czynnych i innych substancji odnoszące się do produktu leczniczego weterynaryjnego oraz ich nazwy powszechnie stosowane, a w przypadku ich braku – nazwy chemiczne;
 - **4)** postać farmaceutyczną, moc, drogę podania, docelowy lub docelowe gatunki zwierząt oraz okres ważności produktu leczniczego weterynaryjnego, warunki przechowywania, a także dane dotyczące Maksymalnych Limitów Pozostałości.
 
 2b. Do wniosku, o którym mowa w ust. 2a, dołącza się:
@@ -573,17 +732,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** farmaceutycznych: fizykochemicznych, biologicznych lub mikrobiologicznych,
     - **b)** bezpieczeństwa i pozostałości,
     - **c)** przedklinicznych i klinicznych,
-    - **d)** ekotoksyczności: określenie potencjalnego ryzyka związanego z użyciem produktu leczniczego weterynaryjnego dla środowiska wraz z raportami ekspertów;
+    - **d)** ekotoksyczności: określenie potencjalnego ryzyka związanego z użyciem produktu leczniczego weterynaryjnego dla środowiska – wraz z raportami ekspertów;
 
 - **7)** oświadczenia podpisane przez ekspertów sporządzających raporty, o których mowa w pkt 6, o posiadaniu przez nich niezbędnych kwalifikacji technicznych lub zawodowych, opisanych w załączonym życiorysie;
 - **8)** w przypadku, o którym mowa w art. 16a ust. 1, sporządzone przez eksperta uzasadnienie dotyczące wykorzystania piśmiennictwa naukowego zgodnie z wymaganiami określonymi w załączniku 1 do dyrektywy 2001/82/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do weterynaryjnych produktów leczniczych (Dz. Urz. WE L 311 z 28.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 3), zwanej dalej „dyrektywą 2001/82/WE”;
 - **9)** opis systemu monitorowania bezpieczeństwa stosowania produktów leczniczych weterynaryjnych;
 - **10)** opis systemu zarządzania ryzykiem użycia produktu leczniczego weterynaryjnego, który zostanie wdrożony przez podmiot odpowiedzialny, jeżeli jest to konieczne;
-- **11)** oświadczenie podmiotu odpowiedzialnego potwierdzające, że dysponuje usługami osoby, do której obowiązków będzie należeć ciągły nadzór nad monitorowaniem bezpieczeństwa stosowania produktu leczniczego weterynaryjnego będącego przedmiotem wniosku, oraz że dysponuje systemem zapewniającym możliwość niezwłocznego zgłoszenia podejrzenia wystąpienia działania niepożądanego na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, lub innych państw;
+- **11)** oświadczenie podmiotu odpowiedzialnego potwierdzające, że dysponuje usługami osoby, do której obowiązków będzie należeć ciągły nadzór nad monitorowaniem bezpieczeństwa stosowania produktu leczniczego weterynaryjnego będącego przedmiotem wniosku, oraz że dysponuje systemem zapewniającym możliwość niezwłocznego zgłoszenia podejrzenia wystąpienia działania niepożądanego na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub innych państw;
 - **12)** Charakterystykę Produktu Leczniczego Weterynaryjnego;
 - **13)** wzory opakowań bezpośrednich i zewnętrznych przedstawione w formie opisowej i graficznej oraz ulotkę;
-- **14)** kopie wszystkich pozwoleń, kopie Charakterystyk Produktu Leczniczego Weterynaryjnego przyjętych przez właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz kopie ulotek, jeżeli ma to zastosowanie;
-- **15)** listę państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, w których wniosek o wydanie pozwolenia jest rozpatrywany, kopie proponowanych Charakterystyk Produktu Leczniczego Weterynaryjnego oraz kopie proponowanych ulotek, jeżeli ma to zastosowanie;
+- **14)** kopie wszystkich pozwoleń, kopie Charakterystyk Produktu Leczniczego Weterynaryjnego przyjętych przez właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz kopie ulotek, jeżeli ma to zastosowanie;
+- **15)** listę państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których wniosek o wydanie pozwolenia jest rozpatrywany, kopie proponowanych Charakterystyk Produktu Leczniczego Weterynaryjnego oraz kopie proponowanych ulotek, jeżeli ma to zastosowanie;
 - **16)** szczegółowe informacje dotyczące odmowy udzielenia pozwolenia w innym państwie, jeżeli ma to zastosowanie;
 - **17)** kopię zezwolenia na wytwarzanie produktu leczniczego weterynaryjnego w państwie wytwarzania;
 - **18)** w przypadku produktów leczniczych weterynaryjnych, o których mowa w art. 7b, dokument potwierdzający, że podmiot odpowiedzialny złożył wniosek o ustalenie Maksymalnego Limitu Pozostałości zgodnie z rozporządzeniem nr 2377/90.
@@ -596,7 +755,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu w razie uzasadnionej wątpliwości, wynikającej z przedłożonej dokumentacji dotyczącej jakości produktu leczniczego, może zażądać przedstawienia raportu z inspekcji przeprowadzonej w miejscu wytwarzania produktu leczniczego wytworzonego za granicą w celu potwierdzenia zgodności warunków wytwarzania z zezwoleniem, o którym mowa w ust. 2 pkt 15 i ust. 2b pkt 17.
 
-6. Inspekcja dokonywana jest przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego lub inspektorów do spraw wytwarzania właściwych organów państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, lub państw wzajemnie uznających inspekcję do spraw wytwarzania, na wniosek i koszt podmiotu odpowiedzialnego albo na wniosek i koszt wytwórcy, jeżeli nie jest nim podmiot odpowiedzialny.
+6. Inspekcja dokonywana jest przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego lub inspektorów do spraw wytwarzania właściwych organów państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, lub państw wzajemnie uznających inspekcję do spraw wytwarzania, na wniosek i koszt podmiotu odpowiedzialnego albo na wniosek i koszt wytwórcy, jeżeli nie jest nim podmiot odpowiedzialny.
 
 6a. (uchylony)
 
@@ -617,7 +776,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** wskazania do stosowania,
     - **b)** dawkowanie i sposób podawania dorosłym oraz dzieciom, w przypadku stosowania produktu leczniczego u dzieci,
     - **c)** przeciwwskazania,
-    - **d)** specjalne ostrzeżenia i środki ostrożności przy stosowaniu, a w przypadku immunologicznych produktów leczniczych specjalne środki ostrożności podejmowane przez osoby mające styczność z takimi produktami oraz specjalne środki ostrożności przy podawaniu pacjentom, wraz ze środkami ostrożności, które powinny być podjęte przez pacjenta,
+    - **d)** specjalne ostrzeżenia i środki ostrożności przy stosowaniu, a w przypadku immunologicznych produktów leczniczych – specjalne środki ostrożności podejmowane przez osoby mające styczność z takimi produktami oraz specjalne środki ostrożności przy podawaniu pacjentom, wraz ze środkami ostrożności, które powinny być podjęte przez pacjenta,
     - **e)** interakcje z innymi produktami leczniczymi lub inne formy interakcji,
     - **f)** stosowanie w czasie ciąży lub karmienia piersią,
     - **g)** wpływ na zdolność prowadzenia pojazdów i obsługiwania urządzeń mechanicznych,
@@ -693,9 +852,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 12.** W odniesieniu do produktów radiofarmaceutycznych, poza wymaganiami określonymi w art. 10 i 11, wniosek w części dotyczącej generatora radiofarmaceutycznego powinien również zawierać następujące informacje i dane:
 
+- **1)** ogólny opis systemu wraz ze szczegółowym opisem składników systemu, które mogą mieć wpływ na skład lub jakość generowanych preparatów radionuklidowych;
+- **2)** dane jakościowe i ilościowe eluatu lub sublimatu;
+- **3)** szczegółowe informacje na temat wewnętrznej dozymetrii promieniowania;
+- **4)** szczegółowe wskazówki w sprawie bezpośredniego przygotowania i kontroli jakości preparatu oraz, jeżeli wskazane, maksymalny okres przechowywania, w którym eluat lub produkt radiofarmaceutyczny gotowy do użytku zachowują swe właściwości zgodnie ze specyfikacją.
+
 **Art. 13.**
 
-1. W odniesieniu do produktu leczniczego otrzymywanego z krwi ludzkiej lub zwierzęcej w każdym dokumencie objętym wnioskiem, o którym mowa w art. 10, należy podać, przynajmniej raz, nazwę międzynarodową, a w przypadku jej braku nazwę powszechnie stosowaną składników czynnych. W dalszych częściach dokumentu nazwa może być podana w postaci skróconej.
+1. W odniesieniu do produktu leczniczego otrzymywanego z krwi ludzkiej lub zwierzęcej w każdym dokumencie objętym wnioskiem, o którym mowa w art. 10, należy podać, przynajmniej raz, nazwę międzynarodową, a w przypadku jej braku – nazwę powszechnie stosowaną składników czynnych. W dalszych częściach dokumentu nazwa może być podana w postaci skróconej.
 
 2. Dane ilościowe produktu leczniczego otrzymywanego z krwi ludzkiej lub zwierzęcej powinny być wyrażone według jednostek masy lub w jednostkach międzynarodowych albo w jednostkach aktywności biologicznej, w zależności od tego, co jest właściwe dla danego produktu.
 
@@ -712,8 +876,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** opis produktu leczniczego;
 - **2)** kopię zgody ministra właściwego do spraw środowiska lub kopię zezwolenia wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego w sprawie zamierzonego uwolnienia organizmu genetycznie zmodyfikowanego do środowiska;
 - **3)** informacje objęte wnioskiem o wydanie zgody na zamierzone uwolnienie organizmu genetycznie zmodyfikowanego do środowiska, o których mowa w art. 36 ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, w tym:
-    - **a)** dane o organizmie genetycznie zmodyfikowanym, w szczególności charakterystykę: dawcy, biorcy i organizmu rodzicielskiego, jeżeli występuje, wektora, organizmu genetycznie zmodyfikowanego,
-    - **b)** informacje o interakcjach między organizmem genetycznie zmodyfikowanym lub kombinacją organizmów genetycznie zmodyfikowanych a środowiskiem, w tym: charakterystykę oddziaływań środowiska na przeżycie, rozmnażanie i rozprzestrzenianie organizmów genetycznie zmodyfikowanych, oddziaływanie i potencjalny wpływ organizmów genetycznie zmodyfikowanych na środowisko, informacje o możliwości krzyżowań,
+    - **a)** dane o organizmie genetycznie zmodyfikowanym, w szczególności charakterystykę: – dawcy, biorcy i organizmu rodzicielskiego, jeżeli występuje, – wektora, – organizmu genetycznie zmodyfikowanego,
+    - **b)** informacje o interakcjach między organizmem genetycznie zmodyfikowanym lub kombinacją organizmów genetycznie zmodyfikowanych a środowiskiem, w tym: – charakterystykę oddziaływań środowiska na przeżycie, rozmnażanie i rozprzestrzenianie organizmów genetycznie zmodyfikowanych, – oddziaływanie i potencjalny wpływ organizmów genetycznie zmodyfikowanych na środowisko, – informacje o możliwości krzyżowań,
     - **c)** informacje o wynikach poprzedniego zamierzonego uwolnienia tego samego organizmu genetycznie zmodyfikowanego lub tej samej kombinacji organizmów genetycznie zmodyfikowanych do środowiska, objętego zgodą na zamierzone uwolnienie organizmu genetycznie zmodyfikowanego do środowiska;
 
 - **4)** ocenę zagrożenia przygotowaną dla uwalnianych do środowiska organizmów genetycznie zmodyfikowanych;
@@ -727,20 +891,20 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 15.**
 
-1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170) podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli wykaże, że:
+1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170) podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli wykaże, że:
 
-- **1)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który został dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, i podmiot odpowiedzialny posiadający pozwolenie na dopuszczenie do obrotu referencyjnego produktu leczniczego wyraził zgodę na wykorzystanie do oceny wniosku o dopuszczenie do obrotu tego odpowiednika wyników badań nieklinicznych i klinicznych zawartych w dokumentacji referencyjnego produktu leczniczego, albo
-- **2)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, a od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego w którymkolwiek z tych państw do dnia złożenia wniosku o dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego na terytorium Rzeczypospolitej Polskiej upłynął okres co najmniej 8 lat (wyłączność danych).
+- **1)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który został dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, i podmiot odpowiedzialny posiadający pozwolenie na dopuszczenie do obrotu referencyjnego produktu leczniczego wyraził zgodę na wykorzystanie do oceny wniosku o dopuszczenie do obrotu tego odpowiednika wyników badań nieklinicznych i klinicznych zawartych w dokumentacji referencyjnego produktu leczniczego, albo
+- **2)** produkt leczniczy jest odpowiednikiem referencyjnego produktu leczniczego, który jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, a od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego w którymkolwiek z tych państw do dnia złożenia wniosku o dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego na terytorium Rzeczypospolitej Polskiej upłynął okres co najmniej 8 lat (wyłączność danych).
 
-2. Niezależnie od wydanego pozwolenia na dopuszczenie do obrotu odpowiednik referencyjnego produktu leczniczego nie może zostać wprowadzony do obrotu przez podmiot odpowiedzialny przed upływem 10 lat od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym (wyłączność rynkowa).
+2. Niezależnie od wydanego pozwolenia na dopuszczenie do obrotu odpowiednik referencyjnego produktu leczniczego nie może zostać wprowadzony do obrotu przez podmiot odpowiedzialny przed upływem 10 lat od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym (wyłączność rynkowa).
 
 3. W przypadku gdy w okresie 8 lat od dnia wydania pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego, o którym mowa w ust. 1, zostanie wydana decyzja o dodaniu nowego wskazania lub wskazań, które w ocenie Prezesa Urzędu przeprowadzonej przed wydaniem tej decyzji, stanowią znaczące korzyści kliniczne, okres 10 lat, o którym mowa w ust. 2, ulega wydłużeniu na okres nieprzekraczający 12 miesięcy. Termin przedłużenia dziesięcioletniego okresu, o którym mowa w ust. 2, określa decyzja wydana na podstawie art. 31.
 
-4. Jeżeli referencyjny produkt leczniczy nie jest lub nie był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny wskazuje we wniosku państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, w którym referencyjny produkt leczniczy jest lub był dopuszczony do obrotu. Prezes Urzędu zwraca się do odpowiedniego organu tego państwa o potwierdzenie, że referencyjny produkt leczniczy jest lub był dopuszczony do obrotu w tym państwie, i o przekazanie informacji co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, jeżeli jest to niezbędne, stosownej dokumentacji, umożliwiającej wydanie decyzji w sprawie pozwolenia na dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego.
+4. Jeżeli referencyjny produkt leczniczy nie jest lub nie był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny wskazuje we wniosku państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w którym referencyjny produkt leczniczy jest lub był dopuszczony do obrotu. Prezes Urzędu zwraca się do odpowiedniego organu tego państwa o potwierdzenie, że referencyjny produkt leczniczy jest lub był dopuszczony do obrotu w tym państwie, i o przekazanie informacji co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, jeżeli jest to niezbędne, stosownej dokumentacji, umożliwiającej wydanie decyzji w sprawie pozwolenia na dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego.
 
-5. Prezes Urzędu, na wniosek odpowiedniego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, potwierdza, w terminie 30 dni, że referencyjny produkt leczniczy jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej i przekazuje informacje co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, jeżeli jest to niezbędne, stosowną dokumentację.
+5. Prezes Urzędu, na wniosek odpowiedniego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, potwierdza, w terminie 30 dni, że referencyjny produkt leczniczy jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej i przekazuje informacje co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, jeżeli jest to niezbędne, stosowną dokumentację.
 
-6. W przypadkach, o których mowa w ust. 4 i 5, stosuje się okres wyłączności danych lub wyłączności rynkowej obowiązujący w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, które wydało pozwolenie.
+6. W przypadkach, o których mowa w ust. 4 i 5, stosuje się okres wyłączności danych lub wyłączności rynkowej obowiązujący w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, które wydało pozwolenie.
 
 7. W przypadku gdy biologiczny produkt leczniczy, który jest podobny do referencyjnego produktu leczniczego, nie spełnia wymagań dla odpowiednika referencyjnego produktu leczniczego, w szczególności ze względu na różnice dotyczące materiałów wyjściowych lub procesów wytwarzania tych produktów, podmiot odpowiedzialny jest obowiązany do przedstawienia wyników badań klinicznych lub nieklinicznych w zakresie wymagań, które nie zostały spełnione, zgodnie z załącznikiem I do dyrektywy 2001/83/WE zmienionym dyrektywą Komisji 2009/120/WE z dnia 14 września 2009 r. zmieniającą dyrektywę 2001/83/WE Parlamentu Europejskiego i Rady w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi w zakresie produktów leczniczych terapii zaawansowanej (Dz. Urz. UE L 242 z 15.09.2009, str. 3).
 
@@ -756,13 +920,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 15a.**
 
-1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań bezpieczeństwa i pozostałości oraz badań przedklinicznych i klinicznych, jeżeli składa wniosek o wydanie pozwolenia na dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego weterynaryjnego, który posiada lub posiadał pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, a od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego w którymkolwiek z tych państw do dnia złożenia wniosku o dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej upłynął okres co najmniej 8 lat (wyłączność danych).
+1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań bezpieczeństwa i pozostałości oraz badań przedklinicznych i klinicznych, jeżeli składa wniosek o wydanie pozwolenia na dopuszczenie do obrotu odpowiednika referencyjnego produktu leczniczego weterynaryjnego, który posiada lub posiadał pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej, lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, a od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego w którymkolwiek z tych państw do dnia złożenia wniosku o dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej upłynął okres co najmniej 8 lat (wyłączność danych).
 
-2. Niezależnie od przyznanego pozwolenia na dopuszczenie do obrotu odpowiednik referencyjnego produktu leczniczego weterynaryjnego może zostać wprowadzony do obrotu przez podmiot odpowiedzialny niewcześniej niż po upływie 10 lat od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym (wyłączność rynkowa).
+2. Niezależnie od przyznanego pozwolenia na dopuszczenie do obrotu odpowiednik referencyjnego produktu leczniczego weterynaryjnego może zostać wprowadzony do obrotu przez podmiot odpowiedzialny niewcześniej niż po upływie 10 lat od dnia wydania pierwszego pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym (wyłączność rynkowa).
 
-3. Jeżeli referencyjny produkt leczniczy weterynaryjny nie jest lub nie był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny wskazuje we wniosku państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym, w którym referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu. W takim przypadku Prezes Urzędu zwraca się do odpowiedniego organu tego państwa o potwierdzenie, że referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu w tym państwie, i o przekazanie informacji co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, gdy jest to niezbędne, dokumentacji bezpieczeństwa i skuteczności, umożliwiającej wydanie decyzji w sprawie pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego.
+3. Jeżeli referencyjny produkt leczniczy weterynaryjny nie jest lub nie był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny wskazuje we wniosku państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, w którym referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu. W takim przypadku Prezes Urzędu zwraca się do odpowiedniego organu tego państwa o potwierdzenie, że referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu w tym państwie, i o przekazanie informacji co najmniej o pełnym składzie jakościowym i ilościowym tego produktu oraz, gdy jest to niezbędne, dokumentacji bezpieczeństwa i skuteczności, umożliwiającej wydanie decyzji w sprawie pozwolenia na dopuszczenie do obrotu referencyjnego produktu leczniczego weterynaryjnego.
 
-4. Prezes Urzędu, na wniosek odpowiedniego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, potwierdza, w terminie 30 dni, że referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, i przekazuje informacje co najmniej o pełnym składzie tego produktu oraz, gdy jest to niezbędne, stosowną dokumentację. W takim przypadku stosuje się okres wyłączności danych lub wyłączności rynkowej obowiązujący w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym.
+4. Prezes Urzędu, na wniosek odpowiedniego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, potwierdza, w terminie 30 dni, że referencyjny produkt leczniczy weterynaryjny jest lub był dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej, i przekazuje informacje co najmniej o pełnym składzie tego produktu oraz, gdy jest to niezbędne, stosowną dokumentację. W takim przypadku stosuje się okres wyłączności danych lub wyłączności rynkowej obowiązujący w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
 5. Okres, o którym mowa w ust. 2, wydłuża się niewięcej niż o 3 lata w przypadku produktów leczniczych weterynaryjnych przeznaczonych dla ryb, pszczół lub innych gatunków zwierząt ustalonych zgodnie z procedurą, o której mowa w art. 5 decyzji Rady nr 1999/468/WE z dnia 28 czerwca 1999 r. ustanawiającej warunki wykonywania uprawnień wykonawczych przyznanych Komisji (Dz. Urz. WE L 184 z 17.07.1999, str. 23; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 3, str. 124).
 
@@ -770,7 +934,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 7. W przypadku gdy biologiczny produkt leczniczy weterynaryjny, który jest podobny do referencyjnego produktu leczniczego weterynaryjnego, nie spełnia wymagań dla odpowiednika referencyjnego produktu leczniczego weterynaryjnego, w szczególności ze względu na różnice dotyczące materiałów wyjściowych lub procesów wytwarzania tych produktów, podmiot odpowiedzialny jest obowiązany do przedstawienia wyników badań przedklinicznych lub klinicznych w zakresie wymagań, które nie zostały spełnione, zgodnie z załącznikiem 1 do dyrektywy 2001/82/WE.
 
-8. Dla produktów leczniczych weterynaryjnych przeznaczonych dla docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, i zawierających nową substancję czynną niedopuszczoną w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym do dnia 30 kwietnia 2004 r. okres, o którym mowa w ust. 2, wydłuża się o rok w przypadku rozszerzenia pozwolenia na inne docelowe gatunki zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, w ciągu 5 lat od dnia przyznania pierwszego pozwolenia. W przypadku przyznania pozwolenia dla czterech lub więcej docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, okres, o którym mowa w ust. 2, może być wydłużony do 13 lat.
+8. Dla produktów leczniczych weterynaryjnych przeznaczonych dla docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, i zawierających nową substancję czynną niedopuszczoną w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym do dnia 30 kwietnia 2004 r. okres, o którym mowa w ust. 2, wydłuża się o rok w przypadku rozszerzenia pozwolenia na inne docelowe gatunki zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, w ciągu 5 lat od dnia przyznania pierwszego pozwolenia. W przypadku przyznania pozwolenia dla czterech lub więcej docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, okres, o którym mowa w ust. 2, może być wydłużony do 13 lat.
 
 9. Okres, o którym mowa w ust. 2, wydłuża się odpowiednio od roku do 3 lat dla produktu leczniczego weterynaryjnego przeznaczonego dla docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, jeżeli podmiot odpowiedzialny wystąpił wcześniej z wnioskiem o ustalenie Maksymalnych Limitów Pozostałości dla docelowych gatunków zwierząt objętych pozwoleniem.
 
@@ -784,9 +948,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 16.**
 
-1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli substancja czynna lub substancje czynne produktu leczniczego mają ugruntowane zastosowanie medyczne na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, przez okres co najmniej 10 lat, licząc od pierwszego systematycznego i udokumentowanego zastosowania tej substancji w produkcie leczniczym oraz uznaną skuteczność i akceptowalny poziom bezpieczeństwa. W takim przypadku wyniki badań nieklinicznych lub klinicznych zastępowane są lub uzupełniane publikacjami z piśmiennictwa naukowego.
+1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań nieklinicznych lub klinicznych, jeżeli substancja czynna lub substancje czynne produktu leczniczego mają ugruntowane zastosowanie medyczne na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, przez okres co najmniej 10 lat, licząc od pierwszego systematycznego i udokumentowanego zastosowania tej substancji w produkcie leczniczym oraz uznaną skuteczność i akceptowalny poziom bezpieczeństwa. W takim przypadku wyniki badań nieklinicznych lub klinicznych zastępowane są lub uzupełniane publikacjami z piśmiennictwa naukowego.
 
-2. Ugruntowane zastosowanie medyczne, o którym mowa w ust. 1, oznacza ugruntowane zastosowanie medyczne na terytorium państwa członkowskiego Unii Europejskiej także przed uzyskaniem przez to państwo członkostwa w Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym także przed przystąpieniem tego państwa do umowy o Europejskim Obszarze Gospodarczym.
+2. Ugruntowane zastosowanie medyczne, o którym mowa w ust. 1, oznacza ugruntowane zastosowanie medyczne na terytorium państwa członkowskiego Unii Europejskiej także przed uzyskaniem przez to państwo członkostwa w Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym także przed przystąpieniem tego państwa do umowy o Europejskim Obszarze Gospodarczym.
 
 2a. W przypadku złożenia wniosku zawierającego nowe wskazanie terapeutyczne oparte na podstawie przeprowadzonych istotnych badań nieklinicznych lub klinicznych dla substancji o ugruntowanym zastosowaniu medycznym, udziela się rocznego okresu wyłączności danych od dnia wydania decyzji w sprawie.
 
@@ -798,7 +962,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 16a.**
 
-1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań zawartych w dokumentacji bezpieczeństwa i pozostałości lub przedklinicznych lub klinicznych, jeżeli udowodni, że substancja czynna produktu leczniczego weterynaryjnego ma ugruntowaną skuteczność i akceptowalny poziom bezpieczeństwa oraz jest stosowana w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym przez co najmniej 10 lat. W tym przypadku podmiot odpowiedzialny przedstawia odpowiednie dane z piśmiennictwa naukowego. Sprawozdania opublikowane przez Europejską Agencję Leków po ocenie wniosków o ustalenie Maksymalnych Limitów Pozostałości mogą być włączone jako dane do piśmiennictwa naukowego, szczególnie w dokumentacji bezpieczeństwa.
+1. Niezależnie od ochrony wynikającej z przepisów ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej podmiot odpowiedzialny nie jest obowiązany do przedstawienia wyników badań zawartych w dokumentacji bezpieczeństwa i pozostałości lub przedklinicznych lub klinicznych, jeżeli udowodni, że substancja czynna produktu leczniczego weterynaryjnego ma ugruntowaną skuteczność i akceptowalny poziom bezpieczeństwa oraz jest stosowana w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym przez co najmniej 10 lat. W tym przypadku podmiot odpowiedzialny przedstawia odpowiednie dane z piśmiennictwa naukowego. Sprawozdania opublikowane przez Europejską Agencję Leków po ocenie wniosków o ustalenie Maksymalnych Limitów Pozostałości mogą być włączone jako dane do piśmiennictwa naukowego, szczególnie w dokumentacji bezpieczeństwa.
 
 2. Jeżeli podmiot odpowiedzialny składa wniosek o dopuszczenie do obrotu produktu leczniczego weterynaryjnego określonego w ust. 1 dla docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, i wniosek dla tego samego produktu leczniczego weterynaryjnego, ale dla innych docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi, zawierający nowe wyniki badań pozostałości zgodnie z rozporządzeniem nr 2377/90 oraz nowe wyniki badań klinicznych, to nie można wykorzystać tych wyników badań w celu oceny produktu leczniczego weterynaryjnego, dla którego złożono wniosek zgodnie z art. 15a, przez okres 3 lat od dnia wydania pozwolenia dla tych innych docelowych gatunków zwierząt, których tkanki lub pozyskiwane od nich produkty są przeznaczone do spożycia przez ludzi.
 
@@ -838,9 +1002,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 18a.**
 
-1. W przypadku równoczesnego złożenia do Prezesa Urzędu oraz w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym wniosku o dopuszczenie do obrotu tego samego produktu leczniczego, który nie posiada pozwolenia w żadnym państwie członkowskim Unii Europejskiej ani w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu wszczyna postępowanie o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego, zwane dalej „procedurą zdecentralizowaną”.
+1. W przypadku równoczesnego złożenia do Prezesa Urzędu oraz w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym wniosku o dopuszczenie do obrotu tego samego produktu leczniczego, który nie posiada pozwolenia w żadnym państwie członkowskim Unii Europejskiej ani w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu wszczyna postępowanie o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego, zwane dalej „procedurą zdecentralizowaną”.
 
-2. W przypadku gdy we wniosku, o którym mowa w ust. 1, podmiot odpowiedzialny wskaże Rzeczpospolitą Polską jako państwo referencyjne, Prezes Urzędu, w terminie 120 dni od dnia otrzymania kompletnego wniosku, sporządza projekt raportu oceniającego i przekazuje go właściwym organom zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz podmiotowi odpowiedzialnemu, wraz z dołączonym projektem: Charakterystyki Produktu Leczniczego albo Charakterystyki Produktu Leczniczego Weterynaryjnego, oznakowania opakowań i ulotki.
+2. W przypadku gdy we wniosku, o którym mowa w ust. 1, podmiot odpowiedzialny wskaże Rzeczpospolitą Polską jako państwo referencyjne, Prezes Urzędu, w terminie 120 dni od dnia otrzymania kompletnego wniosku, sporządza projekt raportu oceniającego i przekazuje go właściwym organom zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz podmiotowi odpowiedzialnemu, wraz z dołączonym projektem: Charakterystyki Produktu Leczniczego albo Charakterystyki Produktu Leczniczego Weterynaryjnego, oznakowania opakowań i ulotki.
 
 3. W terminie 90 dni od dnia przekazania projektu raportu oceniającego, zgodnie z ust. 2, Prezes Urzędu informuje podmiot odpowiedzialny o:
 
@@ -851,7 +1015,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu, w terminie 90 dni od dnia otrzymania raportu oceniającego, wraz z Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego, oznakowaniem opakowań oraz ulotką, sporządzonego przez właściwy organ państwa referencyjnego, uznaje ten raport i informuje o tym właściwy organ państwa referencyjnego. Przepis ust. 4 stosuje się odpowiednio.
 
-6. Jeżeli w toku procedury zdecentralizowanej powstaną uzasadnione wątpliwości, że wydanie pozwolenia na dopuszczenie do obrotu może spowodować zagrożenie dla zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego zagrożenie dla zdrowia ludzi lub zdrowia zwierząt lub środowiska w rozumieniu wytycznych Wspólnoty Europejskiej, Prezes Urzędu wszczyna procedurę wyjaśniającą i przekazuje odpowiednie uzasadnienie właściwym organom państwa referencyjnego, zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz wnioskodawcy.
+6. Jeżeli w toku procedury zdecentralizowanej powstaną uzasadnione wątpliwości, że wydanie pozwolenia na dopuszczenie do obrotu może spowodować zagrożenie dla zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego – zagrożenie dla zdrowia ludzi lub zdrowia zwierząt lub środowiska w rozumieniu wytycznych Wspólnoty Europejskiej, Prezes Urzędu wszczyna procedurę wyjaśniającą i przekazuje odpowiednie uzasadnienie właściwym organom państwa referencyjnego, zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz wnioskodawcy.
 
 7. Wniosek, o którym mowa w ust. 1, składa podmiot odpowiedzialny lub podmiot odpowiedzialny będący podmiotem zależnym lub dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176) wobec podmiotu odpowiedzialnego lub będący jego licencjodawcą albo licencjobiorcą lub podmiot, którego celem jest współpraca z podmiotem odpowiedzialnym przy wprowadzaniu do obrotu produktu leczniczego, z wyłączeniem podmiotu, o którym mowa w art. 16 ust. 5 i art. 16a ust. 3.
 
@@ -859,27 +1023,32 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 19.**
 
-1. W przypadku złożenia do Prezesa Urzędu wniosku o dopuszczenie do obrotu produktu leczniczego, który posiada pozwolenie wydane przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu wszczyna postępowanie o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego, zwane dalej „procedurą wzajemnego uznania”.
+1. W przypadku złożenia do Prezesa Urzędu wniosku o dopuszczenie do obrotu produktu leczniczego, który posiada pozwolenie wydane przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Prezes Urzędu wszczyna postępowanie o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego, zwane dalej „procedurą wzajemnego uznania”.
 
-2. W przypadku gdy dla produktu leczniczego zostało wydane pozwolenie na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny może złożyć do Prezesa Urzędu wniosek o sporządzenie raportu oceniającego produkt leczniczy lub o uaktualnienie raportu już istniejącego. Prezes Urzędu sporządza lub aktualizuje raport oceniający w terminie 90 dni od dnia otrzymania wniosku oraz przekazuje raport oceniający, Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego, oznakowanie opakowań i ulotkę właściwym organom zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym i wnioskodawcy.
+2. W przypadku gdy dla produktu leczniczego zostało wydane pozwolenie na terytorium Rzeczypospolitej Polskiej, podmiot odpowiedzialny może złożyć do Prezesa Urzędu wniosek o sporządzenie raportu oceniającego produkt leczniczy lub o uaktualnienie raportu już istniejącego. Prezes Urzędu sporządza lub aktualizuje raport oceniający w terminie 90 dni od dnia otrzymania wniosku oraz przekazuje raport oceniający, Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego, oznakowanie opakowań i ulotkę właściwym organom zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i wnioskodawcy.
 
 3. Prezes Urzędu, w terminie 90 dni od dnia otrzymania raportu oceniającego, wraz z Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego, oznakowaniem opakowań oraz ulotką, sporządzonego przez właściwy organ państwa referencyjnego, uznaje ten raport i informuje o tym właściwy organ państwa referencyjnego. Przepis art. 18a ust. 4 stosuje się odpowiednio.
 
-4. Jeżeli w toku procedury wzajemnego uznania powstaną uzasadnione wątpliwości, że wydanie pozwolenia na dopuszczenie do obrotu może spowodować zagrożenie dla zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego zagrożenie dla zdrowia ludzi lub zdrowia zwierząt lub środowiska w rozumieniu wytycznych Wspólnoty Europejskiej, Prezes Urzędu wszczyna procedurę wyjaśniającą i przekazuje odpowiednie uzasadnienie właściwym organom państwa referencyjnego, zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz wnioskodawcy.
+4. Jeżeli w toku procedury wzajemnego uznania powstaną uzasadnione wątpliwości, że wydanie pozwolenia na dopuszczenie do obrotu może spowodować zagrożenie dla zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego – zagrożenie dla zdrowia ludzi lub zdrowia zwierząt lub środowiska w rozumieniu wytycznych Wspólnoty Europejskiej, Prezes Urzędu wszczyna procedurę wyjaśniającą i przekazuje odpowiednie uzasadnienie właściwym organom państwa referencyjnego, zainteresowanych państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz wnioskodawcy.
 
 5. Wniosek, o którym mowa w ust. 1, składa podmiot odpowiedzialny lub podmiot odpowiedzialny będący podmiotem zależnym lub dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych wobec podmiotu odpowiedzialnego lub jego licencjodawca albo licencjobiorca lub podmiot, którego celem jest współpraca z podmiotem odpowiedzialnym przy wprowadzaniu do obrotu produktu leczniczego, z wyłączeniem podmiotu, o którym mowa w art. 16 ust. 5 i art. 16a ust. 3.
 
-6. Wniosek, o którym mowa w ust. 1, może dotyczyć produktu leczniczego, który w stosunku do produktu posiadającego pozwolenie wydane przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, ma identyczny skład jakościowy i ilościowy w odniesieniu do substancji czynnych, identyczną postać farmaceutyczną oraz zasadniczo zgodne z tym produktem oznakowanie opakowań, ulotkę i Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego w punktach: wskazania, dawkowanie, sposób podawania, przeciwwskazania, ostrzeżenia i środki ostrożności, a ewentualne różnice nie wpływają na bezpieczeństwo lub skuteczność stosowania produktu leczniczego.
+6. Wniosek, o którym mowa w ust. 1, może dotyczyć produktu leczniczego, który w stosunku do produktu posiadającego pozwolenie wydane przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, ma identyczny skład jakościowy i ilościowy w odniesieniu do substancji czynnych, identyczną postać farmaceutyczną oraz zasadniczo zgodne z tym produktem oznakowanie opakowań, ulotkę i Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego w punktach: wskazania, dawkowanie, sposób podawania, przeciwwskazania, ostrzeżenia i środki ostrożności, a ewentualne różnice nie wpływają na bezpieczeństwo lub skuteczność stosowania produktu leczniczego.
 
 **Art. 19a.** Procedury wzajemnego uznania oraz procedury zdecentralizowanej nie stosuje się w przypadku:
 
+- **1)** złożenia wniosku o zmianę danych objętych pozwoleniem oraz zmianę dokumentacji w przypadku zmian, które wymagają złożenia wniosku, o którym mowa w art. 10, jeżeli pozwolenie nie było wydane zgodnie z art. 18a albo 19, lub dokumentacja, w tym Charakterystyka Produktu Leczniczego albo Charakterystyka Produktu Leczniczego Weterynaryjnego, oznakowanie opakowań i ulotka, tego produktu nie została ujednolicona na podstawie przepisu art. 31 ust. 1;
+- **2)** produktów leczniczych homeopatycznych innych niż te, o których mowa w art. 21 ust. 1 i 4;
+- **3)** tradycyjnych produktów leczniczych roślinnych, dla których nie opracowano monografii wspólnotowej, o której mowa w art. 16h ust. 3 dyrektywy 2001/83/WE, zwanej dalej „monografią wspólnotową”, oraz tradycyjnych produktów leczniczych roślinnych nieskładających się z substancji roślinnych, przetworów lub ich zestawienia, występujących na wspólnotowej liście tradycyjnych produktów leczniczych roślinnych, o której mowa w art. 16f ust. 1 dyrektywy 2001/83/WE;
+- **4)** produktów leczniczych, których dokumentacja nie została uzupełniona i doprowadzona do zgodności z wymaganiami ustawy, o których mowa w załączniku XII do Traktatu między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Republiką Grecką, Królestwem Hiszpanii, Republiką Francuską, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Republiką Austrii, Republiką Portugalską, Republiką Finlandii, Królestwem Szwecji, Zjednoczonym Królestwem Wielkiej Brytanii i Irlandii Północnej (Państwami Członkowskimi Unii Europejskiej) a Republiką Czeską, Republiką Estońską, Republiką Cypryjską, Republiką Łotewską, Republiką Litewską, Republiką Węgierską, Republiką Malty, Rzecząpospolitą Polską, Republiką Słowenii, Republiką Słowacką dotyczącego przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej do Unii Europejskiej, podpisanego w Atenach w dniu 16 kwietnia 2003 r. (Dz. U. z 2004 r. poz. 864, z 2021 r. poz. 1309 i 1852 oraz z 2023 r. poz. 2735), w przypadku gdy podmiot odpowiedzialny wskaże Rzeczpospolitą Polską jako państwo referencyjne.
+
 **Art. 19b.**
 
-1. Wnioski, o których mowa w art. 18a i 19, zawierają dane, o których mowa w art. 10 ust. 1 i 2, a w przypadku produktów leczniczych weterynaryjnych w art. 10 ust. 2a i 2b, oraz deklarację zgodności składanej dokumentacji z dokumentacją będącą przedmiotem raportu oceniającego.
+1. Wnioski, o których mowa w art. 18a i 19, zawierają dane, o których mowa w art. 10 ust. 1 i 2, a w przypadku produktów leczniczych weterynaryjnych – w art. 10 ust. 2a i 2b, oraz deklarację zgodności składanej dokumentacji z dokumentacją będącą przedmiotem raportu oceniającego.
 
 2. Wnioski i dokumenty, o których mowa w ust. 1, mogą być przedstawiane w języku polskim lub angielskim, z wyjątkiem Charakterystyki Produktu Leczniczego i Charakterystyki Produktu Leczniczego Weterynaryjnego, oznakowania opakowań bezpośrednich i zewnętrznych oraz ulotki, które przedstawia się w języku polskim i angielskim.
 
-**Art. 19c.** Jeżeli po złożeniu wniosku o dopuszczenie do obrotu produktu leczniczego Prezes Urzędu poweźmie informację, że wniosek o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego będącego przedmiotem tego wniosku jest rozpatrywany w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub że właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym wydał pozwolenie na dopuszczenie do obrotu dla tego produktu, informuje podmiot odpowiedzialny o konieczności zastosowania procedury określonej odpowiednio w art. 18a lub 19 i umarza postępowanie.
+**Art. 19c.** Jeżeli po złożeniu wniosku o dopuszczenie do obrotu produktu leczniczego Prezes Urzędu poweźmie informację, że wniosek o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego będącego przedmiotem tego wniosku jest rozpatrywany w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub że właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wydał pozwolenie na dopuszczenie do obrotu dla tego produktu, informuje podmiot odpowiedzialny o konieczności zastosowania procedury określonej odpowiednio w art. 18a lub 19 i umarza postępowanie.
 
 **Art. 19d.** W przypadku wszczęcia procedury wyjaśniającej, o której mowa w art. 18a ust. 6 lub art. 19 ust. 4, i braku porozumienia między państwami członkowskimi w terminie 60 dni, Prezes Urzędu może na wniosek podmiotu odpowiedzialnego wydać pozwolenie przed zakończeniem procedury wyjaśniającej, pod warunkiem że uznał uprzednio raport oceniający, Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego, oznakowania opakowań i ulotkę.
 
@@ -930,7 +1099,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **3)** szczegółowe dane ilościowe i jakościowe odnoszące się do produktu leczniczego i wszystkich jego składników oraz ich nazwy powszechnie stosowane, jeżeli występują;
 - **4)** postać farmaceutyczną, moc i drogę podania oraz okres ważności produktu leczniczego, a także dane dotyczące ochrony środowiska związane ze stosowaniem oraz ze zniszczeniem produktu leczniczego, jeżeli jest to niezbędne i wynika z charakteru produktu;
 - **5)** wskazania, przeciwwskazania i działania niepożądane;
-- **6)** dane z piśmiennictwa, w tym naukowego, lub opinie ekspertów stwierdzające, że roślinny produkt leczniczy lub produkt odpowiadający był stosowany w celach leczniczych przez okres co najmniej 30 lat poprzedzających datę złożenia wniosku, w tym co najmniej 15 lat w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym;
+- **6)** dane z piśmiennictwa, w tym naukowego, lub opinie ekspertów stwierdzające, że roślinny produkt leczniczy lub produkt odpowiadający był stosowany w celach leczniczych przez okres co najmniej 30 lat poprzedzających datę złożenia wniosku, w tym co najmniej 15 lat w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
 - **7)** wyniki badań farmaceutycznych określonych w art. 10 ust. 2 pkt 4 lit. a.
 
 6. W przypadku mieszanin substancji roślinnych lub przetworów roślinnych lub tradycyjnego produktu leczniczego roślinnego dane, o których mowa w ust. 5 pkt 6, powinny odnosić się do mieszaniny, a w przypadku gdy poszczególne substancje roślinne lub przetwory roślinne nie są wystarczająco znane, dane powinny również odnosić się do tych składników.
@@ -938,26 +1107,26 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 7. Do wniosku dołącza się:
 
 - **1)** Charakterystykę Produktu Leczniczego, z wyjątkiem danych, o których mowa w art. 11 ust. 1 pkt 4;
-- **2)** kopie dokumentów potwierdzających dopuszczenie do obrotu w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, lub w innych państwach lub szczegółowe informacje dotyczące odmowy udzielenia pozwolenia w jakimkolwiek państwie, jeżeli ma to zastosowanie;
+- **2)** kopie dokumentów potwierdzających dopuszczenie do obrotu w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, lub w innych państwach lub szczegółowe informacje dotyczące odmowy udzielenia pozwolenia w jakimkolwiek państwie, jeżeli ma to zastosowanie;
 - **3)** przegląd piśmiennictwa, w tym naukowego, dotyczący bezpieczeństwa wraz z raportem eksperta oraz, na żądanie Prezesa Urzędu, dane do oceny bezpieczeństwa produktu leczniczego.
 
 8. Prezes Urzędu może zwrócić się do Komitetu do spraw Roślinnych Produktów Leczniczych Europejskiej Agencji Leków o wydanie opinii w sprawie uznania przedstawionej dokumentacji za odpowiednią dla stwierdzenia tradycyjnego stosowania tradycyjnego produktu leczniczego roślinnego lub produktu odpowiadającego, dołączając dokumentację tradycyjnego produktu leczniczego roślinnego do wniosku o wydanie opinii.
 
 9. Produkt odpowiadający jest to tradycyjny produkt leczniczy roślinny zawierający te same substancje roślinne lub przetwory roślinne, niezależnie od zastosowanych substancji pomocniczych, i posiadający to samo lub podobne zamierzone zastosowanie, równoważną moc i dawkę oraz tę samą lub podobną drogę podania jak tradycyjny produkt leczniczy roślinny będący przedmiotem wniosku, o którym mowa w ust. 5.
 
-10. Prezes Urzędu informuje podmiot odpowiedzialny, Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, na ich wniosek, o odmowie dopuszczenia do obrotu tradycyjnego produktu leczniczego roślinnego wraz z uzasadnieniem tej odmowy.
+10. Prezes Urzędu informuje podmiot odpowiedzialny, Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, na ich wniosek, o odmowie dopuszczenia do obrotu tradycyjnego produktu leczniczego roślinnego wraz z uzasadnieniem tej odmowy.
 
 **Art. 20b.**
 
 1. W przypadku złożenia wniosku, o którym mowa w art. 20a ust. 5, podmiot odpowiedzialny nie jest obowiązany do przedstawienia pozwolenia na dopuszczenie do obrotu tradycyjnego produktu leczniczego roślinnego w okresie, o którym mowa w art. 20a ust. 5 pkt 6. Wymóg trzydziestoletniego stosowania tradycyjnego produktu leczniczego roślinnego jest spełniony również w przypadku, gdy liczba składników roślinnego produktu leczniczego lub ich zawartość została zmniejszona w tym okresie.
 
-2. W przypadku złożenia wniosku o dopuszczenie do obrotu tradycyjnego produktu leczniczego roślinnego stosowanego w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, przez okres krótszy niż 15 lat, Prezes Urzędu przekazuje do Komitetu do spraw Roślinnych Produktów Leczniczych Europejskiej Agencji Leków dokumentację tego produktu w celu ustalenia przez Komitet, czy zostały spełnione pozostałe warunki konieczne do uznania tradycyjnego stosowania tradycyjnego produktu leczniczego roślinnego. Przy rozpatrywaniu wniosku o dopuszczenie do obrotu tradycyjnego produktu leczniczego roślinnego Prezes Urzędu uwzględnia monografię wspólnotową.
+2. W przypadku złożenia wniosku o dopuszczenie do obrotu tradycyjnego produktu leczniczego roślinnego stosowanego w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, przez okres krótszy niż 15 lat, Prezes Urzędu przekazuje do Komitetu do spraw Roślinnych Produktów Leczniczych Europejskiej Agencji Leków dokumentację tego produktu w celu ustalenia przez Komitet, czy zostały spełnione pozostałe warunki konieczne do uznania tradycyjnego stosowania tradycyjnego produktu leczniczego roślinnego. Przy rozpatrywaniu wniosku o dopuszczenie do obrotu tradycyjnego produktu leczniczego roślinnego Prezes Urzędu uwzględnia monografię wspólnotową.
 
 3. W przypadku gdy dla tradycyjnego produktu leczniczego roślinnego, będącego przedmiotem wniosku, o którym mowa w art. 20a ust. 5, opracowano monografię wspólnotową lub składniki tego produktu znajdują się na wspólnotowej liście substancji tradycyjnych produktów leczniczych roślinnych, o której mowa w art. 16f ust. 1 dyrektywy 2001/83/WE, stosuje się przepisy art. 18a i 19.
 
 3a. W przypadku opracowania monografii wspólnotowej podmiot odpowiedzialny, jeżeli zachodzi taka konieczność, składa wniosek o dokonanie zmiany danych objętych pozwoleniem oraz zmiany dokumentacji będącej podstawą wydania pozwolenia.
 
-4. W przypadku złożenia wniosku, o którym mowa w art. 20a ust. 5, Prezes Urzędu bierze pod uwagę pozwolenia na dopuszczenie do obrotu danego tradycyjnego produktu leczniczego roślinnego, udzielone w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym.
+4. W przypadku złożenia wniosku, o którym mowa w art. 20a ust. 5, Prezes Urzędu bierze pod uwagę pozwolenia na dopuszczenie do obrotu danego tradycyjnego produktu leczniczego roślinnego, udzielone w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 21.**
 
@@ -965,7 +1134,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** są podawane doustnie lub zewnętrznie,
 - **2)** w oznakowaniu i ulotce nie zawierają wskazań do stosowania,
-- **3)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub niewięcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty podlegają uproszczonej procedurze dopuszczenia do obrotu.
+- **3)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania; to jest nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub niewięcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym na podstawie recepty – podlegają uproszczonej procedurze dopuszczenia do obrotu.
 
 2. Wniosek o dopuszczenie do obrotu produktów, o których mowa w ust. 1, powinien zawierać w szczególności:
 
@@ -996,7 +1165,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** ich oznakowanie nie zawiera wskazań do stosowania,
 - **2)** charakteryzują się odpowiednim stopniem rozcieńczenia, gwarantującym bezpieczeństwo stosowania, co oznacza, że nie zawierają więcej niż 1/10 000 części roztworu macierzystego lub niewięcej niż 1/100 najmniejszej dawki substancji czynnej zawartej w produkcie leczniczym wydawanym z przepisu lekarza,
-- **3)** są podawane drogą opisaną w Farmakopei Europejskiej lub w innych farmakopeach oficjalnie uznanych przez państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym z wyłączeniem immunologicznych homeopatycznych produktów leczniczych weterynaryjnych.
+- **3)** są podawane drogą opisaną w Farmakopei Europejskiej lub w innych farmakopeach oficjalnie uznanych przez państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – z wyłączeniem immunologicznych homeopatycznych produktów leczniczych weterynaryjnych.
 
 5. Wniosek o dopuszczenie do obrotu produktów, o których mowa w ust. 4, powinien zawierać w szczególności:
 
@@ -1041,28 +1210,28 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Pozwolenie na import równoległy wydaje się na okres 5 lat. Okres ważności pozwolenia może zostać przedłużony na kolejne 5 lat na podstawie wniosku złożonego przez importera równoległego co najmniej na 6 miesięcy przed upływem terminu ważności pozwolenia.
 
-3a. W przypadku wygaśnięcia pozwolenia na dopuszczenie do obrotu produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt ten jest importowany równolegle, pozwolenie na import równoległy wygasa z dniem wygaśnięcia tego pozwolenia.
+3a. W przypadku wygaśnięcia pozwolenia na dopuszczenie do obrotu produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt ten jest importowany równolegle, pozwolenie na import równoległy wygasa z dniem wygaśnięcia tego pozwolenia.
 
-3b. Cofnięcie pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej lub w państwie członkowskim Unii Europejskiej, lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy importowany równolegle jest sprowadzany, z przyczyn związanych z zagrożeniem dla życia lub zdrowia ludzi lub zwierząt, w szczególności tych, o których mowa w art. 33 ust. 1 pkt 1, 2, 4 i 7, skutkuje cofnięciem pozwolenia na import równoległy.
+3b. Cofnięcie pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej lub w państwie członkowskim Unii Europejskiej, lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy importowany równolegle jest sprowadzany, z przyczyn związanych z zagrożeniem dla życia lub zdrowia ludzi lub zwierząt, w szczególności tych, o których mowa w art. 33 ust. 1 pkt 1, 2, 4 i 7, skutkuje cofnięciem pozwolenia na import równoległy.
 
 4. Do pozwoleń na import równoległy wydanych dla produktów leczniczych innych niż określone w ust. 4a oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 29 ust. 3, art. 33 ust. 1 pkt 1–3 i 6 oraz ust. 2 i 5, art. 35a oraz art. 36g ust. 1 pkt 1–4, 6 i 10 oraz ust. 2.
 
 4a. Do pozwoleń na import równoległy produktów leczniczych weterynaryjnych oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 24 ust. 1 pkt 1 i 2, pkt 4 lit. a i ust. 3 pkt 1, art. 29 ust. 3, art. 33 ust. 1 pkt 1–4 i 8 oraz ust. 2 i 5 i art. 35a.
 
-5. W przypadku gdy Prezes Urzędu nie jest w stanie, na podstawie posiadanej dokumentacji, rozstrzygnąć, czy różnice pomiędzy produktem leczniczym z importu równoległego a produktem leczniczym posiadającym pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej mogłyby być uznane za istotne z punktu widzenia bezpieczeństwa lub skuteczności tego produktu, występuje do odpowiednich władz państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany, o dodatkową dokumentację, inną niż określoną w ust. 7 i 8.
+5. W przypadku gdy Prezes Urzędu nie jest w stanie, na podstawie posiadanej dokumentacji, rozstrzygnąć, czy różnice pomiędzy produktem leczniczym z importu równoległego a produktem leczniczym posiadającym pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej mogłyby być uznane za istotne z punktu widzenia bezpieczeństwa lub skuteczności tego produktu, występuje do odpowiednich władz państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany, o dodatkową dokumentację, inną niż określoną w ust. 7 i 8.
 
 6. Jeżeli Prezes Urzędu uzna, że różnice pomiędzy produktem leczniczym z importu równoległego a produktem leczniczym posiadającym pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej są istotne i mogą stwarzać zagrożenie dla życia i zdrowia ludzi lub zwierząt, odmawia wydania pozwolenia na import równoległy tego produktu leczniczego albo wprowadzenia zmian w pozwoleniu na import równoległy.
 
 7. Wniosek o wydanie pozwolenia na import równoległy zawiera:
 
-- **1)** podstawowe dane zawarte w pozwoleniu wydanym przez państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany;
+- **1)** podstawowe dane zawarte w pozwoleniu wydanym przez państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany;
 - **2)** dane importera równoległego.
 
 8. Do wniosku o pozwolenie na import równoległy dołącza się:
 
 - **1)** Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego z państwa eksportu wraz z jej tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego, oraz wzorami oznakowania opakowania w formie opisowej i graficznej i ulotki, a w przypadku braku możliwości uzyskania Charakterystyki Produktu Leczniczego albo Charakterystyki Produktu Leczniczego Weterynaryjnego z państwa eksportu, uprawdopodobnionego przez złożenie dokumentu potwierdzającego, że importer równoległy wystąpił z wnioskiem o jej udostępnienie, Charakterystykę zastępuje się oryginałem ulotki z państwa eksportu wraz z jej tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego;
-- **2)** kopię zezwolenia na wytwarzanie wydanego przez upoważniony organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, w tym w zakresie przepakowywania;
-- **3)** oświadczenie importera równoległego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, że importer równoległy dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
+- **2)** kopię zezwolenia na wytwarzanie wydanego przez upoważniony organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w tym w zakresie przepakowywania;
+- **3)** oświadczenie importera równoległego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, że importer równoległy dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań;
 - **4)** potwierdzenie uiszczenia opłaty za złożenie wniosku.
 
 8a. Po uzyskaniu pozwolenia na import równoległy podmiot uprawniony do importu równoległego informuje, co najmniej na 30 dni przed planowanym dniem wprowadzenia do obrotu, o przewidywanym terminie wprowadzenia produktu leczniczego do obrotu na terytorium Rzeczypospolitej Polskiej:
@@ -1074,16 +1243,16 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 9. Podmiot uprawniony do importu równoległego może wprowadzać produkt importowany równolegle do obrotu pod nazwą:
 
 - **1)** stosowaną na terytorium Rzeczypospolitej Polskiej lub
-- **2)** stosowaną w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany, albo
+- **2)** stosowaną w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany, albo
 - **3)** powszechnie stosowaną lub naukową opatrzoną znakiem towarowym lub nazwą podmiotu uprawnionego do importu równoległego.
 
-9a. Podmiot uprawniony do importu równoległego niezwłocznie powiadamia Prezesa Urzędu o wygaśnięciu pozwolenia na dopuszczenie do obrotu produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy importowany równolegle jest sprowadzany.
+9a. Podmiot uprawniony do importu równoległego niezwłocznie powiadamia Prezesa Urzędu o wygaśnięciu pozwolenia na dopuszczenie do obrotu produktu leczniczego w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy importowany równolegle jest sprowadzany.
 
 10. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku o wydanie pozwolenia na import równoległy,
 - **2)** rodzaj i zakres dokonywanych zmian oraz szczegółowy wykaz danych i dokumentów objętych wnioskiem o zmianę pozwolenia,
-- **3)** sposób i tryb dokonywania zmian, o których mowa w pkt 2 uwzględniając dane i dokumenty, o których mowa w ust. 7 i 8, biorąc pod uwagę rodzaj produktu leczniczego oraz zakres danych objętych pozwoleniem na import równoległy.
+- **3)** sposób i tryb dokonywania zmian, o których mowa w pkt 2 – uwzględniając dane i dokumenty, o których mowa w ust. 7 i 8, biorąc pod uwagę rodzaj produktu leczniczego oraz zakres danych objętych pozwoleniem na import równoległy.
 
 **Art. 22.**
 
@@ -1130,11 +1299,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Produkty lecznicze dopuszczone do obrotu otrzymują jedną z następujących kategorii dostępności:
 
-- **1)** wydawane bez przepisu lekarza OTC;
-- **2)** wydawane z przepisu lekarza Rp;
-- **3)** wydawane z przepisu lekarza do zastrzeżonego stosowania Rpz;
-- **4)** wydawane z przepisu lekarza, zawierające środki odurzające lub substancje psychotropowe, określone w odrębnych przepisach Rpw;
-- **5)** stosowane wyłącznie w lecznictwie zamkniętym Lz.
+- **1)** wydawane bez przepisu lekarza – OTC;
+- **2)** wydawane z przepisu lekarza – Rp;
+- **3)** wydawane z przepisu lekarza do zastrzeżonego stosowania – Rpz;
+- **4)** wydawane z przepisu lekarza, zawierające środki odurzające lub substancje psychotropowe, określone w odrębnych przepisach – Rpw;
+- **5)** stosowane wyłącznie w lecznictwie zamkniętym – Lz.
 
 1a. Produkty lecznicze dopuszczone do obrotu, wskazane w Charakterystyce Produktu Leczniczego do stosowania w antykoncepcji otrzymują kategorię dostępności, o której mowa w ust. 1 pkt 2.
 
@@ -1146,7 +1315,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 23b.**
 
-1. Prezes Urzędu, w wyjątkowych okolicznościach, po konsultacji z podmiotem odpowiedzialnym, może wydać pozwolenie z zastrzeżeniem spełnienia przez podmiot odpowiedzialny, w wyznaczonym terminie, warunków określonych na podstawie wymagań zawartych w załączniku nr I do dyrektywy 2001/83/WE, a w przypadku produktu leczniczego weterynaryjnego na podstawie wymagań zawartych w załączniku nr 1 do dyrektywy 2001/82/WE, w szczególności dotyczących bezpieczeństwa stosowania produktu leczniczego, zgłoszenia działań niepożądanych związanych z tym produktem oraz podjęcia w takich przypadkach określonych czynności.
+1. Prezes Urzędu, w wyjątkowych okolicznościach, po konsultacji z podmiotem odpowiedzialnym, może wydać pozwolenie z zastrzeżeniem spełnienia przez podmiot odpowiedzialny, w wyznaczonym terminie, warunków określonych na podstawie wymagań zawartych w załączniku nr I do dyrektywy 2001/83/WE, a w przypadku produktu leczniczego weterynaryjnego – na podstawie wymagań zawartych w załączniku nr 1 do dyrektywy 2001/82/WE, w szczególności dotyczących bezpieczeństwa stosowania produktu leczniczego, zgłoszenia działań niepożądanych związanych z tym produktem oraz podjęcia w takich przypadkach określonych czynności.
 
 1a. Pozwolenie, o którym mowa w ust. 1, z wyłączeniem produktu leczniczego weterynaryjnego, może zostać wydane wyłącznie w przypadku gdy podmiot odpowiedzialny wykaże, że z przyczyn obiektywnych i możliwych do zweryfikowania nie jest w stanie dostarczyć kompleksowych danych na temat bezpieczeństwa stosowania i skuteczności produktu leczniczego w normalnych warunkach jego stosowania.
 
@@ -1154,12 +1323,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 23c.** W celu zapewnienia właściwego poziomu nadzoru nad bezpieczeństwem stosowania produktu leczniczego, Prezes Urzędu może wydać pozwolenie, z wyłączeniem pozwolenia dla produktu leczniczego weterynaryjnego, w którym określa konieczność spełnienia przez podmiot odpowiedzialny w określonym terminie warunków:
 
+- **1)** podjęcia działań, w ramach systemu zarządzania ryzykiem użycia produktu leczniczego, w celu zapewnienia bezpiecznego stosowania tego produktu leczniczego, lub
+- **2)** przeprowadzenia badań dotyczących bezpieczeństwa po wydaniu pozwolenia, lub
+- **3)** wykonywania obowiązków w zakresie rejestrowania lub zgłaszania działań niepożądanych w odniesieniu do tego produktu leczniczego, a w zakresie danych zawartych w tych zgłoszeniach oraz częstotliwości ich przekazywania w sposób inny niż przewidziano w rozdziale 2 , lub
+- **4)** wykorzystywania odpowiedniego systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, lub
+- **5)** przeprowadzenia badań dotyczących skuteczności po wydaniu pozwolenia, w przypadku gdy pojawiły się wątpliwości odnoszące się do niektórych aspektów skuteczności tego produktu leczniczego, które można wyjaśnić dopiero po wprowadzeniu go do obrotu, na podstawie właściwych aktów ogłoszonych przez Komisję Europejską, przyjętych na podstawie art. 22b dyrektywy 2001/83/WE, uwzględniając wytyczne naukowe, o których mowa w art. 108a tej dyrektywy, lub
+- **6)** dostarczania informacji dotyczących bezpieczeństwa i skuteczności tego produktu leczniczego wynikających z postępu naukowo-technicznego i z poszerzania wiedzy na temat tego produktu leczniczego lub substancji czynnych wchodzących w skład tego produktu.
+
 **Art. 23d.**
 
 1. Po wydaniu pozwolenia, z wyłączeniem pozwolenia dla produktu leczniczego weterynaryjnego, Prezes Urzędu może wezwać podmiot odpowiedzialny do:
 
 - **1)** przeprowadzenia badania dotyczącego bezpieczeństwa, jeżeli istnieją obawy dotyczące ryzyka związanego z tym produktem leczniczym,
-- **2)** przeprowadzenia, na podstawie właściwych aktów ogłoszonych przez Komisję Europejską, przyjętych na podstawie art. 22b dyrektywy 2001/83/WE, uwzględniając wytyczne naukowe, o których mowa w art. 108a tej dyrektywy, badań dotyczących skuteczności, w przypadku gdy postęp wiedzy na temat choroby lub metodologia badań klinicznych wskazują, że poprzednie oceny skuteczności mogły ulec istotnej zmianie uzasadniając konieczność przeprowadzenia tych badań oraz określając termin ich przeprowadzenia i przedstawienia protokołów badań.
+- **2)** przeprowadzenia, na podstawie właściwych aktów ogłoszonych przez Komisję Europejską, przyjętych na podstawie art. 22b dyrektywy 2001/83/WE, uwzględniając wytyczne naukowe, o których mowa w art. 108a tej dyrektywy, badań dotyczących skuteczności, w przypadku gdy postęp wiedzy na temat choroby lub metodologia badań klinicznych wskazują, że poprzednie oceny skuteczności mogły ulec istotnej zmianie – uzasadniając konieczność przeprowadzenia tych badań oraz określając termin ich przeprowadzenia i przedstawienia protokołów badań.
 
 2. Podmiot odpowiedzialny może wystąpić, w terminie 30 dni od dnia doręczenia wezwania, o którym mowa w ust. 1, do Prezesa Urzędu z pisemnym wnioskiem o wyznaczenie terminu do ustosunkowania się do wezwania.
 
@@ -1177,7 +1353,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 23f.**
 
-1. W szczególnych przypadkach dotyczących interesów Unii Europejskiej, Prezes Urzędu, przed podjęciem decyzji o dopuszczeniu do obrotu produktu leczniczego, z wyłączeniem produktu leczniczego weterynaryjnego, zmianie pozwolenia dla tego produktu lub przedłużeniu okresu ważności pozwolenia dla tego produktu, wszczyna procedurę wyjaśniającą zgodnie z art. 31 dyrektywy 2001/83/WE, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
+1. W szczególnych przypadkach dotyczących interesów Unii Europejskiej, Prezes Urzędu, przed podjęciem decyzji o dopuszczeniu do obrotu produktu leczniczego, z wyłączeniem produktu leczniczego weterynaryjnego, zmianie pozwolenia dla tego produktu lub przedłużeniu okresu ważności pozwolenia dla tego produktu, wszczyna procedurę wyjaśniającą zgodnie z art. 31 dyrektywy 2001/83/WE, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
 
 2. Procedurę, o której mowa w ust. 1, może wszcząć także podmiot odpowiedzialny przed otrzymaniem rozstrzygnięcia co do wniosków złożonych przez ten podmiot.
 
@@ -1187,7 +1363,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu informuje Komisję Europejską, Europejską Agencję Leków i pozostałe państwa członkowskie o przyczynach podjęcia działań, o których mowa w ust. 4, niepóźniej niż następnego dnia roboczego po ich podjęciu.
 
-6. W szczególnych przypadkach dotyczących interesów Unii Europejskiej, Prezes Urzędu, przed podjęciem decyzji w zakresie dopuszczenia do obrotu produktu leczniczego weterynaryjnego, zmiany pozwolenia dla tego produktu lub przedłużenia okresu ważności pozwolenia dla tego produktu, wszczyna procedurę wyjaśniającą, zgodnie z art. 35 dyrektywy 2001/82/WE, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej, lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
+6. W szczególnych przypadkach dotyczących interesów Unii Europejskiej, Prezes Urzędu, przed podjęciem decyzji w zakresie dopuszczenia do obrotu produktu leczniczego weterynaryjnego, zmiany pozwolenia dla tego produktu lub przedłużenia okresu ważności pozwolenia dla tego produktu, wszczyna procedurę wyjaśniającą, zgodnie z art. 35 dyrektywy 2001/82/WE, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej, lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
 
 7. Procedurę, o której mowa w ust. 6, może wszcząć także podmiot odpowiedzialny, przed otrzymaniem rozstrzygnięcia co do wniosków złożonych przez ten podmiot.
 
@@ -1202,7 +1378,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **3)** wdrożenia i utrzymywania systemu gwarantującego, że informacje o zgłoszeniach pojedynczych przypadków działań niepożądanych produktów leczniczych weterynaryjnych, które są kierowane do tego podmiotu, będą zbierane i zestawiane w jednym miejscu;
 - **4)** przedstawiania Prezesowi Urzędu:
     - **a)** raportów dotyczących pojedynczych przypadków działań niepożądanych produktów leczniczych weterynaryjnych, zgłoszonych przez osoby wykonujące zawód medyczny, przedstawiciela medycznego oraz właściciela zwierzęcia lub opiekuna zwierzęcia, przy czym raporty dotyczące ciężkich niepożądanych działań przedstawia się niezwłocznie, niepóźniej jednak niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu,
-    - **b)** zgodnych z danymi zawartymi w rejestrze, o którym mowa w pkt 2, raportów okresowych o bezpieczeństwie stosowania dotyczących produktów leczniczych weterynaryjnych: co 6 miesięcy, licząc od dnia uzyskania przez dany produkt leczniczy weterynaryjny pierwszego na świecie pozwolenia do dnia wprowadzenia tego produktu do obrotu, co 6 miesięcy przez 2 lata, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, co 12 miesięcy przez kolejne 2 lata od trzeciego roku, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, a następnie co 3 lata, na każde żądanie Prezesa Urzędu;
+    - **b)** zgodnych z danymi zawartymi w rejestrze, o którym mowa w pkt 2, raportów okresowych o bezpieczeństwie stosowania dotyczących produktów leczniczych weterynaryjnych: – co 6 miesięcy, licząc od dnia uzyskania przez dany produkt leczniczy weterynaryjny pierwszego na świecie pozwolenia do dnia wprowadzenia tego produktu do obrotu, – co 6 miesięcy przez 2 lata, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, – co 12 miesięcy przez kolejne 2 lata od trzeciego roku, licząc od dnia wprowadzenia produktu leczniczego weterynaryjnego do obrotu, a następnie co 3 lata, – na każde żądanie Prezesa Urzędu;
 
 - **5)** przedstawiania Prezesowi Urzędu protokołów z badań dotyczących bezpieczeństwa;
 - **6)** przedstawiania Prezesowi Urzędu opracowań dotyczących stosunku korzyści do ryzyka.
@@ -1212,9 +1388,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 3. Podmiot odpowiedzialny jest obowiązany także do:
 
 - **1)** zawiadamiania Prezesa Urzędu o konieczności dokonania niezwłocznych zmian w Charakterystyce Produktu Leczniczego Weterynaryjnego;
-- **2)** niezwłocznego informowania Prezesa Urzędu o wszelkich zmianach dotyczących produktu leczniczego weterynaryjnego dopuszczonego do obrotu, zatwierdzonych w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, które mogą mieć wpływ na stosunek korzyści do ryzyka;
+- **2)** niezwłocznego informowania Prezesa Urzędu o wszelkich zmianach dotyczących produktu leczniczego weterynaryjnego dopuszczonego do obrotu, zatwierdzonych w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, które mogą mieć wpływ na stosunek korzyści do ryzyka;
 - **3)** zgłoszenia Prezesowi Urzędu pierwszego terminu wprowadzenia produktu leczniczego weterynaryjnego do obrotu;
-- **4)** powiadomienia Prezesa Urzędu o tymczasowym lub stałym wstrzymaniu obrotu produktem leczniczym weterynaryjnym, przynajmniej na 2 miesiące przed dniem zaprzestania wprowadzania tego produktu leczniczego weterynaryjnego do obrotu, a jeżeli wstrzymanie wprowadzania produktu leczniczego weterynaryjnego do obrotu jest wynikiem wystąpienia wyjątkowych okoliczności niezwłocznie po wystąpieniu tych okoliczności;
+- **4)** powiadomienia Prezesa Urzędu o tymczasowym lub stałym wstrzymaniu obrotu produktem leczniczym weterynaryjnym, przynajmniej na 2 miesiące przed dniem zaprzestania wprowadzania tego produktu leczniczego weterynaryjnego do obrotu, a jeżeli wstrzymanie wprowadzania produktu leczniczego weterynaryjnego do obrotu jest wynikiem wystąpienia wyjątkowych okoliczności – niezwłocznie po wystąpieniu tych okoliczności;
 - **5)** przedstawiania, na żądanie Prezesa Urzędu, danych dotyczących wielkości sprzedaży produktu leczniczego weterynaryjnego;
 - **6)** wprowadzania ciągłego postępu naukowo-technicznego związanego z metodami wytwarzania i kontroli produktów leczniczych weterynaryjnych, zgodnie z uznawanymi metodami naukowymi;
 - **7)** dostarczania produktów leczniczych weterynaryjnych wyłącznie:
@@ -1264,7 +1440,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** żądać przedstawienia dokumentacji związanej z zapewnieniem funkcjonowania systemu monitorowania bezpieczeństwa stosowania produktów leczniczych;
 - **3)** żądać wyjaśnień dotyczących zapewnienia funkcjonowania systemu monitorowania bezpieczeństwa stosowania produktów leczniczych.
 
-1a. Prezes Urzędu informuje właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz Europejską Agencję Leków o kontrolach systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, planowanych lub prowadzonych na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich.
+1a. Prezes Urzędu informuje właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Europejską Agencję Leków o kontrolach systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych, planowanych lub prowadzonych na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób przeprowadzania i zakres kontroli systemu monitorowania bezpieczeństwa stosowania produktów leczniczych, mając na uwadze rzetelność gromadzenia, analizy i przekazywania danych do systemu.
 
@@ -1272,7 +1448,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Podstawowe wymagania jakościowe oraz metody badań produktów leczniczych i ich opakowań oraz surowców farmaceutycznych określa Farmakopea Europejska lub jej tłumaczenie na język polski zawarte w Farmakopei Polskiej.
 
-2. Jeżeli Farmakopea Europejska nie zawiera monografii, wymagania, o których mowa w ust. 1, określa Farmakopea Polska lub odpowiednie farmakopee uznawane w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym.
+2. Jeżeli Farmakopea Europejska nie zawiera monografii, wymagania, o których mowa w ust. 1, określa Farmakopea Polska lub odpowiednie farmakopee uznawane w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 26.**
 
@@ -1296,7 +1472,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 27.**
 
-1. Produkty lecznicze mogą również zawierać środki konserwujące, słodzące, barwniki, przeciwutleniacze, a w odniesieniu do produktów leczniczych weterynaryjnych także substancje znacznikowe, z uwzględnieniem ust. 2.
+1. Produkty lecznicze mogą również zawierać środki konserwujące, słodzące, barwniki, przeciwutleniacze, a w odniesieniu do produktów leczniczych weterynaryjnych – także substancje znacznikowe, z uwzględnieniem ust. 2.
 
 2. Minister właściwy do spraw zdrowia, a w odniesieniu do produktów leczniczych weterynaryjnych w porozumieniu z ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, wykaz substancji, o których mowa w ust. 1, które mogą wchodzić w skład produktów leczniczych, podstawowe wymagania jakościowe dla tych substancji oraz sposób ich opisywania w dokumentacji towarzyszącej wnioskowi o dopuszczenie do obrotu produktu leczniczego, uwzględniając w szczególności bezpieczeństwo produktów leczniczych oraz ujednolicone postępowanie z państwami członkowskimi Unii Europejskiej.
 
@@ -1316,8 +1492,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Okres ważności pozwolenia może zostać przedłużony na czas nieokreślony:
 
-- **1)** dla produktu leczniczego na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 9 miesięcy przed upływem terminu ważności tego pozwolenia;
-- **2)** dla produktu leczniczego weterynaryjnego na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 6 miesięcy przed upływem terminu ważności tego pozwolenia.
+- **1)** dla produktu leczniczego – na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 9 miesięcy przed upływem terminu ważności tego pozwolenia;
+- **2)** dla produktu leczniczego weterynaryjnego – na podstawie wniosku złożonego przez podmiot odpowiedzialny co najmniej na 6 miesięcy przed upływem terminu ważności tego pozwolenia.
 
 2a. Wniosek:
 
@@ -1372,7 +1548,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1a. Prezes Urzędu może określić w decyzji o zmianie danych objętych pozwoleniem oraz zmianie dokumentacji będącej podstawą wydania pozwolenia zaproponowany przez podmiot odpowiedzialny termin wejścia w życie zmian, chyba że ta decyzja dotyczy bezpieczeństwa stosowania produktu leczniczego lub jest wydana na podstawie notyfikowanej Rzeczypospolitej Polskiej decyzji Komisji Europejskiej. Termin określony w decyzji ministra właściwego do spraw zdrowia nie może być dłuższy niż 6 miesięcy od dnia jej wydania.
 
-1b. W przypadku zmiany danych objętych pozwoleniem lub zmiany dokumentacji będącej podstawą wydania pozwolenia w procedurze wzajemnego uznania lub w procedurze zdecentralizowanej podmiot odpowiedzialny składa wnioski we wszystkich państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, w których produkt leczniczy został dopuszczony do obrotu. Przepisy art. 18a ust. 6 i art. 19 ust. 4 stosuje się odpowiednio.
+1b. W przypadku zmiany danych objętych pozwoleniem lub zmiany dokumentacji będącej podstawą wydania pozwolenia w procedurze wzajemnego uznania lub w procedurze zdecentralizowanej podmiot odpowiedzialny składa wnioski we wszystkich państwach członkowskich Unii Europejskiej i państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, w których produkt leczniczy został dopuszczony do obrotu. Przepisy art. 18a ust. 6 i art. 19 ust. 4 stosuje się odpowiednio.
 
 1c. Zmiany inne, niż określone w rozporządzeniu Komisji (WE) nr 1234/2008 z dnia 24 listopada 2008 r. dotyczącym badania zmian w warunkach pozwoleń na dopuszczenie do obrotu dla produktów leczniczych stosowanych u ludzi i weterynaryjnych produktów leczniczych (Dz. Urz. UE L 334 z 12.12.2008, str. 7), dotyczące oznakowania opakowań i ulotek niezwiązane z Charakterystyką Produktu Leczniczego podmiot odpowiedzialny zgłasza Prezesowi Urzędu. Zmiany uważa się za przyjęte, jeżeli w terminie 90 dni od dnia ich zgłoszenia Prezes Urzędu nie wniesie sprzeciwu.
 
@@ -1381,7 +1557,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** wzór wniosku o dokonanie zmian w pozwoleniu i dokumentacji dotyczącej wprowadzania do obrotu produktu leczniczego,
 - **2)** rodzaj i zakres dokonywanych zmian oraz zakres wymaganych dokumentów i badań uzasadniających wprowadzenie zmiany,
 - **3)** rodzaje zmian, które wymagają złożenia wniosku, o którym mowa w art. 10,
-- **4)** sposób i tryb dokonywania zmian, o których mowa w ust. 1 uwzględniając w szczególności dane objęte zmianami, sposób ich dokumentowania, zakres badań potwierdzających zasadność wprowadzania zmiany oraz bezpieczeństwo stosowania produktów leczniczych.
+- **4)** sposób i tryb dokonywania zmian, o których mowa w ust. 1 – uwzględniając w szczególności dane objęte zmianami, sposób ich dokumentowania, zakres badań potwierdzających zasadność wprowadzania zmiany oraz bezpieczeństwo stosowania produktów leczniczych.
 
 **Art. 32.**
 
@@ -1393,7 +1569,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Prezes Urzędu cofa pozwolenie w razie:
 
-- **1)** stwierdzenia niespodziewanego ciężkiego niepożądanego działania produktu leczniczego zagrażającego życiu lub zdrowiu ludzkiemu, a w odniesieniu do produktów leczniczych weterynaryjnych zagrażających życiu lub zdrowiu zwierzęcia;
+- **1)** stwierdzenia niespodziewanego ciężkiego niepożądanego działania produktu leczniczego zagrażającego życiu lub zdrowiu ludzkiemu, a w odniesieniu do produktów leczniczych weterynaryjnych – zagrażających życiu lub zdrowiu zwierzęcia;
 - **2)** braku deklarowanej skuteczności terapeutycznej lub stwierdzenia ryzyka stosowania niewspółmiernego do efektu terapeutycznego;
 - **3)** stwierdzenia, że produkt leczniczy jest wprowadzany do obrotu niezgodnie z pozwoleniem lub przepisami ustawy;
 - **3a)** (uchylony)
@@ -1428,7 +1604,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** podmiot odpowiedzialny w okresie 3 lat od dnia uzyskania pozwolenia nie wprowadzi produktu leczniczego do obrotu;
 - **2)** produkt leczniczy nie był wprowadzany do obrotu przez okres 3 kolejnych lat.
 
-2. Ze względu na ochronę zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego ze względu na ochronę zdrowia ludzi lub zwierząt lub ochronę środowiska oraz w przypadku zaistnienia wyjątkowych okoliczności, w szczególności w przypadku wydania przez sąd zarządzenia tymczasowego zakazującego wprowadzenia do obrotu produktu leczniczego, Prezes Urzędu może, na wniosek podmiotu odpowiedzialnego, w drodze decyzji, stwierdzić, że pozwolenie, o którym mowa w ust. 1, nie wygasa.
+2. Ze względu na ochronę zdrowia publicznego, a w przypadku produktu leczniczego weterynaryjnego – ze względu na ochronę zdrowia ludzi lub zwierząt lub ochronę środowiska oraz w przypadku zaistnienia wyjątkowych okoliczności, w szczególności w przypadku wydania przez sąd zarządzenia tymczasowego zakazującego wprowadzenia do obrotu produktu leczniczego, Prezes Urzędu może, na wniosek podmiotu odpowiedzialnego, w drodze decyzji, stwierdzić, że pozwolenie, o którym mowa w ust. 1, nie wygasa.
 
 **Art. 34.** Rejestr oraz dokumenty przedłożone w postępowaniu w sprawie dopuszczenia do obrotu są dostępne dla osób mających w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych oraz ochronie własności przemysłowej.
 
@@ -1459,17 +1635,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1a. Podmiot odpowiedzialny wnosi opłatę związaną z dopuszczeniem do obrotu weterynaryjnego produktu leczniczego za złożenie wniosku o:
 
-- **1)** wydanie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 5 rozporządzenia 2019/6 w wysokości nieprzekraczającej 92 600 zł;
-- **2)** wydanie pozwolenia na dopuszczenie do obrotu na ograniczonym rynku zgodnie z art. 23 rozporządzenia 2019/6 w wysokości nieprzekraczającej 74 100 zł;
-- **3)** wydanie pozwolenia na dopuszczenie do obrotu w wyjątkowych okolicznościach zgodnie z art. 25 rozporządzenia 2019/6 w wysokości nieprzekraczającej 74 100 zł;
-- **4)** ponowne rozpatrzenie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 24 ust. 2 rozporządzenia 2019/6 w wysokości nieprzekraczającej 14 400 zł;
-- **5)** ponowne rozpatrzenie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 27 ust. 2 rozporządzenia 2019/6 w wysokości nieprzekraczającej 14 400 zł;
-- **6)** zmianę warunków pozwolenia na dopuszczenie do obrotu weterynaryjnego produktu leczniczego, o której mowa w art. 62, art. 64 lub art. 65 rozporządzenia 2019/6 w wysokości nieprzekraczającej 20 200 zł;
-- **7)** rejestrację homeopatycznego weterynaryjnego produktu leczniczego, o której mowa w art. 87 rozporządzenia 2019/6 w wysokości nieprzekraczającej 17 640 zł;
-- **8)** zmianę w warunkach rejestracji homeopatycznego weterynaryjnego produktu leczniczego, o której mowa w art. 87 rozporządzenia 2019/6 w wysokości nieprzekraczającej 4400 zł;
-- **9)** wydanie pozwolenia na handel równoległy weterynaryjnym produktem leczniczym, o którym mowa w art. 102 rozporządzenia 2019/6 w wysokości nieprzekraczającej 6200 zł;
-- **10)** zmianę danych w pozwoleniu na handel równoległy weterynaryjnym produktem leczniczym, o którym mowa w art. 102 rozporządzenia 2019/6 w wysokości nieprzekraczającej 1000 zł;
-- **11)** uchylenie pozwolenia, na wniosek strony w wysokości nieprzekraczającej 440 zł.
+- **1)** wydanie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 5 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 92 600 zł;
+- **2)** wydanie pozwolenia na dopuszczenie do obrotu na ograniczonym rynku zgodnie z art. 23 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 74 100 zł;
+- **3)** wydanie pozwolenia na dopuszczenie do obrotu w wyjątkowych okolicznościach zgodnie z art. 25 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 74 100 zł;
+- **4)** ponowne rozpatrzenie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 24 ust. 2 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 14 400 zł;
+- **5)** ponowne rozpatrzenie pozwolenia na dopuszczenie do obrotu, o którym mowa w art. 27 ust. 2 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 14 400 zł;
+- **6)** zmianę warunków pozwolenia na dopuszczenie do obrotu weterynaryjnego produktu leczniczego, o której mowa w art. 62, art. 64 lub art. 65 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 20 200 zł;
+- **7)** rejestrację homeopatycznego weterynaryjnego produktu leczniczego, o której mowa w art. 87 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 17 640 zł;
+- **8)** zmianę w warunkach rejestracji homeopatycznego weterynaryjnego produktu leczniczego, o której mowa w art. 87 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 4400 zł;
+- **9)** wydanie pozwolenia na handel równoległy weterynaryjnym produktem leczniczym, o którym mowa w art. 102 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 6200 zł;
+- **10)** zmianę danych w pozwoleniu na handel równoległy weterynaryjnym produktem leczniczym, o którym mowa w art. 102 rozporządzenia 2019/6 – w wysokości nieprzekraczającej 1000 zł;
+- **11)** uchylenie pozwolenia, na wniosek strony – w wysokości nieprzekraczającej 440 zł.
 
 1b. Zwrot części opłaty przy cofnięciu wniosku, o którym mowa w ust. 1a, na żądanie strony, złożone na etapie weryfikacji formalnej wniosku, następuje w wysokości 75 % uiszczonej opłaty należnej za dany wniosek.
 
@@ -1477,17 +1653,40 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Podmiot odpowiedzialny, który uzyskał przedłużenie okresu ważności pozwolenia na czas nieokreślony, o którym mowa w art. 29 ust. 2, wnosi opłatę w okresie ważności tego pozwolenia, za każdy rok jego ważności.
 
-2a. Podmiot odpowiedzialny wnosi opłatę w okresie ważności pozwolenia na dopuszczenie do obrotu weterynaryjnego produktu leczniczego albo rejestracji homeopatycznego weterynaryjnego produktu leczniczego, za każdy rok ich ważności w wysokości nieprzekraczającej 4600 zł.
+2a. Podmiot odpowiedzialny wnosi opłatę w okresie ważności pozwolenia na dopuszczenie do obrotu weterynaryjnego produktu leczniczego albo rejestracji homeopatycznego weterynaryjnego produktu leczniczego, za każdy rok ich ważności – w wysokości nieprzekraczającej 4600 zł.
 
 3. W przypadku wniosku obejmującego listę produktów leczniczych homeopatycznych, o których mowa w art. 21 ust. 1 i 4, pobiera się jedną opłatę.
 
 4. Opłaty, o których mowa w ust. 1 i 2, stanowią dochód budżetu państwa.
 
-**Art. 36a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania opłat, o których mowa w art. 36 ust. 1 i 2, oraz sposób ich uiszczania, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca oraz nakład pracy związanej z wykonaniem danej czynności i poziom kosztów ponoszonych przez Urząd Rejestracji. Art. 36aa. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wysokość opłat, o których mowa w art. 36 ust. 1a i 2a, oraz sposób ich uiszczania, a także sposób ustalania wysokości opłat w przypadku, o którym mowa w art. 36 ust. 1c, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z wykonaniem danej czynności, poziom kosztów ponoszonych przez Urząd Rejestracji, konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji, a także fakt pełnienia przez Rzeczpospolitą Polską roli referencyjnego państwa członkowskiego.
+**Art. 36a.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy sposób ustalania opłat, o których mowa w art. 36 ust. 1 i 2, oraz sposób ich uiszczania, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca oraz nakład pracy związanej z wykonaniem danej czynności i poziom kosztów ponoszonych przez Urząd Rejestracji.
+
+**Art. 36aa.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wysokość opłat, o których mowa w art. 36 ust. 1a i 2a, oraz sposób ich uiszczania, a także sposób ustalania wysokości opłat w przypadku, o którym mowa w art. 36 ust. 1c, uwzględniając wysokość opłaty w państwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca, nakład pracy związanej z wykonaniem danej czynności, poziom kosztów ponoszonych przez Urząd Rejestracji, konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji, a także fakt pełnienia przez Rzeczpospolitą Polską roli referencyjnego państwa członkowskiego.
 
 #### Rozdział 2 Nadzór nad bezpieczeństwem stosowania produktów leczniczych, z wyłączeniem produktów leczniczych weterynaryjnych
 
 **Art. 36b.** Do zadań Prezesa Urzędu, o których mowa w art. 4 ust. 1 pkt 1 lit. g, h, m oraz n ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, wykonywanych w ramach nadzoru nad bezpieczeństwem stosowania produktów leczniczych, należy:
+
+- **1)** zbieranie zgłoszeń pojedynczych przypadków działań niepożądanych pochodzących od osób wykonujących zawód medyczny, pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, a także informacji przekazywanych przez podmioty odpowiedzialne oraz danych z innych źródeł, informacji pochodzących od właściwych organów innych państw, z literatury fachowej oraz pozyskanych w wyniku badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia; w przypadku biologicznych produktów leczniczych w rozumieniu załącznika nr 1 do dyrektywy 2001/83/WE gromadzeniu podlegają informacje dotyczące nazwy i numeru serii tych produktów;
+- **2)** analiza i opracowywanie zgłoszeń, w tym ocena przyczynowo-skutkowa wszystkich zgłoszeń pojedynczych przypadków działań niepożądanych;
+- **3)** gromadzenie i analiza dokumentów dotyczących bezpieczeństwa stosowania produktów leczniczych, w szczególności opracowań z badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia, raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, planów zarządzania ryzykiem użycia produktu leczniczego i innych opracowań dotyczących bezpieczeństwa stosowania produktów leczniczych;
+- **4)** wydawanie komunikatów dotyczących bezpieczeństwa stosowania produktu leczniczego, przeznaczonych i skierowanych bezpośrednio do osób wykonujących zawód medyczny lub ogółu społeczeństwa;
+- **5)** uzgadnianie treści komunikatów dotyczących bezpieczeństwa produktu leczniczego, przeznaczonych i skierowanych bezpośrednio do osób wykonujących zawód medyczny lub ogółu społeczeństwa, wydawanych i upowszechnianych przez podmiot odpowiedzialny;
+- **6)** prowadzenie bazy danych obejmującej zgłoszenia działań niepożądanych produktów leczniczych, które wystąpiły na terytorium Rzeczypospolitej Polskiej;
+- **7)** przekazywanie w systemie EudraVigilance zgłoszeń pojedynczych przypadków działań niepożądanych z terytorium Rzeczypospolitej Polskiej do bazy danych EudraVigilance oraz centralnej bazy danych Światowej Organizacji Zdrowia;
+- **8)** współpraca i wymiana informacji z jednostkami, które realizują zadania związane z zatruciami produktami leczniczymi lub zajmują się leczeniem uzależnień od produktów leczniczych, a także z organami Państwowej Inspekcji Sanitarnej oraz Wojskowej Inspekcji Sanitarnej w zakresie niepożądanych odczynów poszczepiennych;
+- **9)** udzielanie informacji o produktach leczniczych, w tym o działaniach niepożądanych produktów leczniczych;
+- **10)** podejmowanie działań zwiększających bezpieczeństwo stosowania produktów leczniczych, w tym inicjowanie zmian w Charakterystykach Produktów Leczniczych;
+- **11)** współpraca z osobami wykonującymi zawód medyczny, pacjentami, ich przedstawicielami ustawowymi lub opiekunami faktycznymi, w celu zapewnienia skutecznego, prawidłowego i rzetelnego zgłaszania działań niepożądanych produktu leczniczego, polegająca na:
+    - **a)** opracowaniu i wdrożeniu prostego, przejrzystego schematu zgłaszania pojedynczych przypadków działań niepożądanych,
+    - **b)** opracowaniu trybu potwierdzania przyjęcia zgłoszenia pojedynczego przypadku działania niepożądanego i udostępniania dodatkowych danych na wniosek zgłaszającego,
+    - **c)** udzielaniu dodatkowych informacji dotyczących zgłaszania pojedynczych przypadków działań niepożądanych,
+    - **d)** zapewnieniu, na wniosek osoby wykonującej zawód medyczny, pacjenta, jego przedstawiciela ustawowego lub opiekuna faktycznego, dostępu do odpowiednich danych o bezpieczeństwie stosowania produktów leczniczych;
+
+- **12)** niezwłoczne przekazywanie Europejskiej Agencji Leków zgłoszeń o ciężkich niepożądanych działaniach produktów leczniczych, które wystąpiły na terytorium Rzeczypospolitej Polskiej, niepóźniej jednak niż w terminie 15 dni od dnia ich otrzymania;
+- **13)** przekazywanie Europejskiej Agencji Leków zgłoszeń pojedynczych przypadków działań niepożądanych, innych niż określone w pkt 12, które wystąpiły na terytorium Rzeczypospolitej Polskiej, niepóźniej niż w terminie 90 dni od dnia ich otrzymania;
+- **14)** gromadzenie danych o wielkości sprzedaży produktów leczniczych na terytorium Rzeczypospolitej Polskiej, przesyłanych przez podmiot odpowiedzialny;
+- **15)** współpraca z innymi krajowymi i międzynarodowymi instytucjami odpowiedzialnymi za nadzór nad bezpieczeństwem stosowania produktów leczniczych.
 
 **Art. 36c.**
 
@@ -1553,11 +1752,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **12)** monitorowania bezpieczeństwa stosowania produktów leczniczych w odniesieniu do:
     - **a)** kobiet w ciąży, przez: − gromadzenie informacji przekazywanych przez osoby wykonujące zawód medyczny, dotyczących wszystkich zgłoszeń działań niepożądanych produktów leczniczych w odniesieniu do takiego zastosowania; zgłoszenie dotyczące pojedynczego przypadku działania niepożądanego u kobiety w ciąży składa się łącznie z informacją o liczbie kobiet w ciąży przyjmujących dany produkt leczniczy, w tym o liczbie kobiet leczonych tym produktem, u których ciąża przebiegła prawidłowo, jeżeli takie dane są dostępne; jeżeli podmiot odpowiedzialny uzyska informacje o możliwym działaniu teratogennym, informuje o tym Prezesa Urzędu niezwłocznie, niepóźniej niż w terminie 15 dni od dnia powzięcia tej informacji, − podjęcie dodatkowych działań pozwalających na uzyskanie szerszej informacji od osób wykonujących zawód medyczny uprawnionych do podawania tej kobiecie produktów leczniczych, jeżeli zgłoszenie pochodzi bezpośrednio od kobiety w ciąży, − ocenę możliwości narażenia płodu na produkt leczniczy zawierający substancję czynną, która sama lub jej metabolit ma długi biologiczny okres półtrwania, jeżeli taki produkt leczniczy był przyjmowany przez któregokolwiek z rodziców przed zapłodnieniem,
     - **b)** działań niepożądanych produktu leczniczego wynikających z narażenia zawodowego w zakresie ekspozycji na działanie gotowej postaci tego produktu,
-    - **c)** biologicznych produktów leczniczych przez dokonanie zgłoszenia zawierającego nazwę i numer serii tych produktów;
+    - **c)** biologicznych produktów leczniczych – przez dokonanie zgłoszenia zawierającego nazwę i numer serii tych produktów;
 
 - **13)** bieżącej aktualizacji informacji dotyczących produktu leczniczego, uwzględniającej postęp naukowo-techniczny oraz zalecenia wydawane zgodnie z art. 26 rozporządzenia nr 726/2004;
 - **14)** zgłoszenia Prezesowi Urzędu pierwszego terminu wprowadzenia produktu leczniczego do obrotu;
-- **15)** powiadomienia Prezesa Urzędu o tymczasowym lub stałym wstrzymaniu obrotu produktem leczniczym, przynajmniej na 2 miesiące przed dniem zaprzestania wprowadzania produktu leczniczego do obrotu, a jeżeli wstrzymanie wprowadzania produktu leczniczego do obrotu jest wynikiem wystąpienia wyjątkowych okoliczności niezwłocznie po wystąpieniu tych okoliczności wraz z podaniem przyczyn takiej decyzji w szczególności oświadczeniem, czy takie działanie jest spowodowane którąkolwiek z przyczyn określonych w art. 33;
+- **15)** powiadomienia Prezesa Urzędu o tymczasowym lub stałym wstrzymaniu obrotu produktem leczniczym, przynajmniej na 2 miesiące przed dniem zaprzestania wprowadzania produktu leczniczego do obrotu, a jeżeli wstrzymanie wprowadzania produktu leczniczego do obrotu jest wynikiem wystąpienia wyjątkowych okoliczności – niezwłocznie po wystąpieniu tych okoliczności wraz z podaniem przyczyn takiej decyzji w szczególności oświadczeniem, czy takie działanie jest spowodowane którąkolwiek z przyczyn określonych w art. 33;
 - **16)** przedstawienia, w terminie określonym przez Prezesa Urzędu, danych dotyczących szacunkowej liczby pacjentów objętych działaniem produktu leczniczego;
 - **17)** wprowadzania ciągłego postępu naukowo-technicznego związanego z metodami wytwarzania i kontroli produktów leczniczych, zgodnie z uznawanymi metodami naukowymi;
 - **18)** dostarczania produktów leczniczych wyłącznie:
@@ -1582,11 +1781,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Podmiot odpowiedzialny jest obowiązany przekazywać drogą elektroniczną do Europejskiej Agencji Leków:
 
-- **1)** zgłoszenia pojedynczych przypadków ciężkich niepożądanych działań produktów leczniczych, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym lub z krajów trzecich, pochodzące od osób wykonujących zawód medyczny lub bezpośrednio od pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, niepóźniej niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu;
-- **2)** zgłoszenia pojedynczych przypadków działań niepożądanych, innych niż określone w pkt 1, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym niepóźniej niż w terminie 90 dni od dnia powzięcia informacji o ich wystąpieniu;
+- **1)** zgłoszenia pojedynczych przypadków ciężkich niepożądanych działań produktów leczniczych, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub z krajów trzecich, pochodzące od osób wykonujących zawód medyczny lub bezpośrednio od pacjentów, ich przedstawicieli ustawowych lub opiekunów faktycznych, niepóźniej niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu;
+- **2)** zgłoszenia pojedynczych przypadków działań niepożądanych, innych niż określone w pkt 1, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – niepóźniej niż w terminie 90 dni od dnia powzięcia informacji o ich wystąpieniu;
 - **3)** zgłoszenia oparte na danych z literatury fachowej, z wyjątkiem działań niepożądanych dotyczących substancji czynnych, o których mowa w wykazie publikacji monitorowanych przez Europejską Agencję Leków zgodnie z art. 27 rozporządzenia nr 726/2004:
-    - **a)** dotyczące ciężkich niepożądanych działań pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz z krajów trzecich − niepóźniej niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu,
-    - **b)** dotyczące działań niepożądanych, innych niż określone w lit. a, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym − niepóźniej niż w terminie 90 dni od dnia powzięcia informacji o ich wystąpieniu.
+    - **a)** dotyczące ciężkich niepożądanych działań pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz z krajów trzecich − niepóźniej niż w terminie 15 dni od dnia powzięcia informacji o ich wystąpieniu,
+    - **b)** dotyczące działań niepożądanych, innych niż określone w lit. a, pochodzących z terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym − niepóźniej niż w terminie 90 dni od dnia powzięcia informacji o ich wystąpieniu.
 
 2. W przypadku biologicznych produktów leczniczych zgłoszenie działania niepożądanego, oprócz nazwy biologicznego produktu leczniczego, zawiera numer serii.
 
@@ -1610,6 +1809,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 36k.** W przypadku produktów leczniczych, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 20 ust. 1 pkt 1–5, art. 20a i art. 21, podmiot odpowiedzialny przekazuje raport okresowy o bezpieczeństwie stosowania produktu leczniczego wyłącznie w przypadku gdy:
 
+- **1)** obowiązek taki został na niego nałożony jako jeden z warunków, o których mowa w art. 23b albo art. 23c, lub
+- **2)** przekazania raportu zażąda Prezes Urzędu, po powzięciu informacji o wątpliwościach co do bezpieczeństwa stosowania produktów leczniczych wynikających z danych zgromadzonych w ramach nadzoru lub z powodu braku raportów odnoszących się do danej substancji czynnej po wydaniu pozwolenia.
+
 **Art. 36l.**
 
 1. W przypadku produktów leczniczych objętych odrębnymi pozwoleniami zawierających tę samą substancję czynną lub to samo połączenie substancji czynnych, w celu dokonania jednej wspólnej oceny dotyczącej raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, częstotliwość i daty ich przedstawiania mogą zostać, w ramach odstępstwa od art. 36j, zmienione i zharmonizowane w celu określenia unijnej daty referencyjnej.
@@ -1628,13 +1830,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 36n.**
 
-1. W przypadku produktu leczniczego dopuszczonego do obrotu w co najmniej dwóch państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym lub w przypadku gdy dla produktów leczniczych zawierających tę samą substancję czynną albo to samo połączenie substancji czynnych ustalono unijną datę referencyjną, ocena raportów okresowych o bezpieczeństwie stosowania produktu leczniczego, o której mowa w art. 4 ust. 1 pkt 1 lit. g ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jest przedmiotem jednej wspólnej oceny dokonywanej przez Prezesa Urzędu, po wyznaczeniu przez grupę koordynacyjną Rzeczypospolitej Polskiej jako państwa oceniającego.
+1. W przypadku produktu leczniczego dopuszczonego do obrotu w co najmniej dwóch państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub w przypadku gdy dla produktów leczniczych zawierających tę samą substancję czynną albo to samo połączenie substancji czynnych ustalono unijną datę referencyjną, ocena raportów okresowych o bezpieczeństwie stosowania produktu leczniczego, o której mowa w art. 4 ust. 1 pkt 1 lit. g ustawy z dnia 18 marca 2011 r. o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jest przedmiotem jednej wspólnej oceny dokonywanej przez Prezesa Urzędu, po wyznaczeniu przez grupę koordynacyjną Rzeczypospolitej Polskiej jako państwa oceniającego.
 
-2. Prezes Urzędu dokonuje oceny raportów okresowych o bezpieczeństwie stosowania produktu leczniczego w terminie 60 dni od dnia ich przekazania. Prezes Urzędu przekazuje sporządzoną ocenę Europejskiej Agencji Leków i zainteresowanym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronom umowy o Europejskim Obszarze Gospodarczym.
+2. Prezes Urzędu dokonuje oceny raportów okresowych o bezpieczeństwie stosowania produktu leczniczego w terminie 60 dni od dnia ich przekazania. Prezes Urzędu przekazuje sporządzoną ocenę Europejskiej Agencji Leków i zainteresowanym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.
 
 3. Podmiot odpowiedzialny otrzymuje sporządzoną ocenę za pośrednictwem Europejskiej Agencji Leków.
 
-4. W terminie 30 dni od dnia otrzymania raportu okresowego o bezpieczeństwie stosowania produktu leczniczego przez zainteresowane państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym oraz podmiot odpowiedzialny, Prezes Urzędu przyjmuje ich uwagi dotyczące oceny tego raportu, jeżeli zostały zgłoszone.
+4. W terminie 30 dni od dnia otrzymania raportu okresowego o bezpieczeństwie stosowania produktu leczniczego przez zainteresowane państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym oraz podmiot odpowiedzialny, Prezes Urzędu przyjmuje ich uwagi dotyczące oceny tego raportu, jeżeli zostały zgłoszone.
 
 5. Na podstawie całości zgłoszonych uwag Prezes Urzędu aktualizuje, w terminie 15 dni od dnia upływu terminu, o którym mowa w ust. 4, dokonaną przez siebie ocenę raportu okresowego o bezpieczeństwie stosowania produktu leczniczego i przekazuje ją Komitetowi do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii.
 
@@ -1642,9 +1844,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** wystąpienia przez Prezesa Urzędu do Głównego Inspektora Farmaceutycznego o wydanie decyzji o czasowym zakazie wprowadzania do obrotu, wstrzymaniu obrotu lub wycofaniu z obrotu produktu leczniczego zgodnie z art. 121a lub
 - **2)** wydania przez Prezesa Urzędu decyzji o cofnięciu albo zawieszeniu ważności pozwolenia,
-- **3)** wydania przez Prezesa Urzędu decyzji o zmianie pozwolenia po złożeniu, niezwłocznie, przez podmiot odpowiedzialny wniosku, o którym mowa w art. 31 ust. 1 również w przypadku dokonania oceny przez inne państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronę umowy o Europejskim Obszarze Gospodarczym.
+- **3)** wydania przez Prezesa Urzędu decyzji o zmianie pozwolenia po złożeniu, niezwłocznie, przez podmiot odpowiedzialny wniosku, o którym mowa w art. 31 ust. 1 – również w przypadku dokonania oceny przez inne państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym.
 
-7. Prezes Urzędu informuje Europejską Agencję Leków, właściwe organy innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz podmiot odpowiedzialny o przypadkach wykrycia nowych lub zmienionych rodzajów ryzyka lub zmian w stosunku korzyści do ryzyka stosowania produktu leczniczego.
+7. Prezes Urzędu informuje Europejską Agencję Leków, właściwe organy innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz podmiot odpowiedzialny o przypadkach wykrycia nowych lub zmienionych rodzajów ryzyka lub zmian w stosunku korzyści do ryzyka stosowania produktu leczniczego.
 
 **Art. 36o.**
 
@@ -1666,10 +1868,10 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. W przypadku gdy Rzeczpospolita Polska jest państwem referencyjnym, Prezes Urzędu:
 
-- **1)** monitoruje i analizuje zgłoszenia działań niepożądanych tego produktu, które wystąpiły na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, a także na terytorium krajów trzecich;
+- **1)** monitoruje i analizuje zgłoszenia działań niepożądanych tego produktu, które wystąpiły na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, a także na terytorium krajów trzecich;
 - **2)** w przypadku wykrycia nowych zagrożeń inicjuje podjęcie odpowiednich działań służących poprawie bezpieczeństwa, zgodnie z art. 23d, art. 33, art. 36t lub art. 121a.
 
-2. O planowanych działaniach Prezes Urzędu zawiadamia podmiot odpowiedzialny, właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, ministra właściwego do spraw zdrowia, Europejską Agencję Leków oraz Komisję Europejską.
+2. O planowanych działaniach Prezes Urzędu zawiadamia podmiot odpowiedzialny, właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, ministra właściwego do spraw zdrowia, Europejską Agencję Leków oraz Komisję Europejską.
 
 **Art. 36r.** W przypadku powzięcia przez Prezesa Urzędu informacji o nowych istotnych zagrożeniach dotyczących bezpieczeństwa stosowania produktu leczniczego, Prezes Urzędu zobowiązuje podmiot odpowiedzialny do dokonania zmian w dokumentacji produktu leczniczego, określając termin na złożenie wniosku o dokonanie zmian.
 
@@ -1682,7 +1884,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** wystąpienia przez Prezesa Urzędu do Głównego Inspektora Farmaceutycznego o wydanie decyzji o czasowym zakazie wprowadzania do obrotu, wstrzymaniu obrotu lub wycofaniu z obrotu produktu leczniczego,
 - **2)** wydania decyzji o odmowie przedłużenia okresu ważności pozwolenia na dopuszczenie do obrotu,
 - **3)** wydania decyzji o cofnięciu pozwolenia na dopuszczenie do obrotu,
-- **4)** wydania decyzji o zawieszeniu ważności pozwolenia na dopuszczenie do obrotu − Prezes Urzędu wszczyna procedurę unijną, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
+- **4)** wydania decyzji o zawieszeniu ważności pozwolenia na dopuszczenie do obrotu − Prezes Urzędu wszczyna procedurę unijną, informując o tym fakcie pozostałe państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską.
 
 2. Prezes Urzędu podejmuje działania, o których mowa w ust. 1, także gdy podmiot odpowiedzialny dostarczy informację, że ze względów bezpieczeństwa przerwał wprowadzanie produktu leczniczego do obrotu lub podjął działania w celu cofnięcia pozwolenia na dopuszczenie do obrotu albo ma zamiar takie działania podjąć lub że nie złożył wniosku o przedłużenie okresu ważności pozwolenia.
 
@@ -1692,11 +1894,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu informuje podmiot odpowiedzialny, na rzecz którego wydano pozwolenie, o wszczęciu procedury unijnej.
 
-6. Po wszczęciu procedury unijnej Prezes Urzędu może odpowiednio zawiesić ważność pozwolenia na dopuszczenie do obrotu lub zawiesić będące w toku postępowanie administracyjne do czasu rozstrzygnięcia sprawy i wystąpić z wnioskiem do Głównego Inspektora Farmaceutycznego o wydanie decyzji o czasowym zakazie wprowadzania do obrotu, wstrzymaniu obrotu lub wycofaniu z obrotu produktu leczniczego. Prezes Urzędu informuje o powodach podjęcia tych czynności właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską, niepóźniej niż następnego dnia roboczego po wydaniu stosownego rozstrzygnięcia w tym przedmiocie.
+6. Po wszczęciu procedury unijnej Prezes Urzędu może – odpowiednio – zawiesić ważność pozwolenia na dopuszczenie do obrotu lub zawiesić będące w toku postępowanie administracyjne do czasu rozstrzygnięcia sprawy i wystąpić z wnioskiem do Głównego Inspektora Farmaceutycznego o wydanie decyzji o czasowym zakazie wprowadzania do obrotu, wstrzymaniu obrotu lub wycofaniu z obrotu produktu leczniczego. Prezes Urzędu informuje o powodach podjęcia tych czynności właściwe organy państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską, niepóźniej niż następnego dnia roboczego po wydaniu stosownego rozstrzygnięcia w tym przedmiocie.
 
 7. Prezes Urzędu, udzielając informacji, o której mowa w ust. 1, udostępnia Europejskiej Agencji Leków wszystkie istotne informacje, którymi dysponuje, oraz wszelkie dokonane przez siebie oceny.
 
-8. Prezes Urzędu podaje do publicznej wiadomości, za pośrednictwem dedykowanej strony internetowej oraz w Biuletynie Informacji Publicznej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, informacje dotyczące produktów leczniczych objętych procedurą unijną oraz − w stosownych przypadkach odnośnych substancji czynnych.
+8. Prezes Urzędu podaje do publicznej wiadomości, za pośrednictwem dedykowanej strony internetowej oraz w Biuletynie Informacji Publicznej Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, informacje dotyczące produktów leczniczych objętych procedurą unijną oraz − w stosownych przypadkach – odnośnych substancji czynnych.
 
 9. W przypadku otrzymania zawiadomienia od przewodniczącego grupy koordynacyjnej o osiągnięciu porozumienia, o którym mowa w art. 107k ust. 2 dyrektywy 2001/83/WE, Prezes Urzędu odpowiednio wydaje decyzję o:
 
@@ -1711,21 +1913,21 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Badanie dotyczące bezpieczeństwa przeprowadzane po wydaniu pozwolenia podmiot odpowiedzialny może podejmować dobrowolnie lub jako wypełnienie warunków, o których mowa w art. 23c i art. 23d.
 
-2. Podmiot odpowiedzialny, który ma zamiar przeprowadzić badanie dotyczące bezpieczeństwa przeprowadzane po wydaniu pozwolenia, składa protokół tego badania do Prezesa Urzędu − w przypadku prowadzenia badania wyłącznie na terytorium Rzeczypospolitej Polskiej, lub do Komitetu do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii − w przypadku prowadzenia badania w więcej niż jednym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym.
+2. Podmiot odpowiedzialny, który ma zamiar przeprowadzić badanie dotyczące bezpieczeństwa przeprowadzane po wydaniu pozwolenia, składa protokół tego badania do Prezesa Urzędu − w przypadku prowadzenia badania wyłącznie na terytorium Rzeczypospolitej Polskiej, lub do Komitetu do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii − w przypadku prowadzenia badania w więcej niż jednym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
 3. W przypadku stwierdzenia przez Prezesa Urzędu, że:
 
-- **1)** złożony protokół badania wskazuje, że stanowi ono reklamę Prezes Urzędu odmawia, w drodze decyzji, wydania pozwolenia na prowadzenie tego badania;
-- **2)** złożony protokół badania nie spełnia celów tego badania przeprowadzanego po wydaniu pozwolenia Prezes Urzędu wzywa podmiot odpowiedzialny do dostarczenia informacji uzupełniających, niezbędnych do wydania decyzji dotyczącej badania;
-- **3)** złożony protokół badania nie spełnia kryteriów badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia Prezes Urzędu informuje podmiot odpowiedzialny, że badanie jest badaniem klinicznym, do którego mają zastosowanie przepisy rozporządzenia 536/2014.
+- **1)** złożony protokół badania wskazuje, że stanowi ono reklamę – Prezes Urzędu odmawia, w drodze decyzji, wydania pozwolenia na prowadzenie tego badania;
+- **2)** złożony protokół badania nie spełnia celów tego badania przeprowadzanego po wydaniu pozwolenia – Prezes Urzędu wzywa podmiot odpowiedzialny do dostarczenia informacji uzupełniających, niezbędnych do wydania decyzji dotyczącej badania;
+- **3)** złożony protokół badania nie spełnia kryteriów badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia – Prezes Urzędu informuje podmiot odpowiedzialny, że badanie jest badaniem klinicznym, do którego mają zastosowanie przepisy rozporządzenia 536/2014.
 
 4. W terminie 60 dni od dnia złożenia protokołu badania dotyczącego bezpieczeństwa, Prezes Urzędu:
 
 - **1)** zatwierdza protokół i wydaje, w drodze decyzji, pozwolenie na prowadzenie badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia;
 - **2)** informuje podmiot odpowiedzialny o swoich zastrzeżeniach i żąda złożenia wyjaśnień;
-- **3)** w przypadku gdy badanie nie spełnia wymagań badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia wydaje decyzję o odmowie prowadzenia tego badania.
+- **3)** w przypadku gdy badanie nie spełnia wymagań badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia – wydaje decyzję o odmowie prowadzenia tego badania.
 
-5. Badanie dotyczące bezpieczeństwa przeprowadzane po wydaniu pozwolenia może być rozpoczęte również, w przypadku gdy Komitet do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii zatwierdził protokół badania w odniesieniu do badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia prowadzonych w dwóch lub więcej państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym.
+5. Badanie dotyczące bezpieczeństwa przeprowadzane po wydaniu pozwolenia może być rozpoczęte również, w przypadku gdy Komitet do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii zatwierdził protokół badania w odniesieniu do badań dotyczących bezpieczeństwa przeprowadzanych po wydaniu pozwolenia prowadzonych w dwóch lub więcej państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 6. Podmiot odpowiedzialny przedstawia Prezesowi Urzędu sprawozdania z postępów badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia, a także wszelkie istotne informacje, które mogą mieć wpływ na ocenę stosunku korzyści do ryzyka użycia danego produktu leczniczego.
 
@@ -1739,7 +1941,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Dokonanie istotnych zmian w protokole badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia wymaga zgody Prezesa Urzędu, w drodze decyzji. Decyzję wydaje się w terminie 60 dni od dnia przedstawienia informacji o istotnych zmianach w protokole badania dotyczącego bezpieczeństwa.
 
-2. W przypadku badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia, prowadzonego w dwóch lub więcej państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym, dokonanie zmian w protokole tego badania wymaga uzyskania zgody Komitetu do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii.
+2. W przypadku badania dotyczącego bezpieczeństwa przeprowadzanego po wydaniu pozwolenia, prowadzonego w dwóch lub więcej państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, dokonanie zmian w protokole tego badania wymaga uzyskania zgody Komitetu do spraw Oceny Ryzyka w ramach Nadzoru nad Bezpieczeństwem Farmakoterapii.
 
 **Art. 36x.**
 
@@ -1757,7 +1959,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. W przypadku gdy podmiot odpowiedzialny ma zamiar przekazać do publicznej wiadomości informację o zagrożeniu związanym z bezpieczeństwem stosowania produktów leczniczych, za których wprowadzenie do obrotu odpowiada, wynikającą z nadzoru nad bezpieczeństwem farmakoterapii, uprzednio lub jednocześnie przekazuje tę informację Prezesowi Urzędu, Europejskiej Agencji Leków i Komisji Europejskiej.
 
-2. Prezes Urzędu informuje państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską, co najmniej z 24-godzinnym wyprzedzeniem o zamiarze przekazania do wiadomości publicznej niepokojących informacji związanych z bezpieczeństwem stosowania produktów leczniczych, chyba że natychmiastowe podanie do publicznej wiadomości jest niezbędne dla ochrony zdrowia publicznego.
+2. Prezes Urzędu informuje państwa członkowskie Unii Europejskiej lub państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejską Agencję Leków oraz Komisję Europejską, co najmniej z 24-godzinnym wyprzedzeniem o zamiarze przekazania do wiadomości publicznej niepokojących informacji związanych z bezpieczeństwem stosowania produktów leczniczych, chyba że natychmiastowe podanie do publicznej wiadomości jest niezbędne dla ochrony zdrowia publicznego.
 
 **Art. 36z.**
 
@@ -1768,7 +1970,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** każdym fakcie zwolnienia serii produktu leczniczego zamieszczonego w wykazie, o którym mowa w art. 37av ust. 14, wprowadzanego do obrotu na terytorium Rzeczypospolitej Polskiej wraz z informacją o numerze, dacie ważności i wielkości serii,
 - **2)** każdym fakcie zbycia produktu leczniczego przedsiębiorcy prowadzącemu działalność polegającą na prowadzeniu hurtowni farmaceutycznej, aptece szpitalnej lub działowi farmacji szpitalnej, szpitalowi lub innemu przedsiębiorstwu podmiotu leczniczego,
 - **3)** stanach magazynowych produktów leczniczych,
-- **4)** planowanych dostawach produktów leczniczych, przeznaczonych do zbycia na terytorium Rzeczypospolitej Polskiej, z podaniem ilości opakowań jednostkowych w zakresie danych określonych w art. 72a ust. 2 pkt 1 lit. a–e i pkt 2–4.
+- **4)** planowanych dostawach produktów leczniczych, przeznaczonych do zbycia na terytorium Rzeczypospolitej Polskiej, z podaniem ilości opakowań jednostkowych – w zakresie danych określonych w art. 72a ust. 2 pkt 1 lit. a–e i pkt 2–4.
 
 3. Podmiot odpowiedzialny jest obowiązany do przedstawienia innych informacji dotyczących dostępności produktu leczniczego związanych z informacjami określonymi w ust. 2 na żądanie ministra właściwego do spraw zdrowia lub organów Państwowej Inspekcji Farmaceutycznej, w terminie 2 dni roboczych od momentu otrzymania żądania, w zakresie w nim określonym.
 
@@ -1794,7 +1996,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Prezes Urzędu prowadzi Centralną Ewidencję Badań Klinicznych w postaci systemu informatycznego.
 
-3. Centralna Ewidencja Badań Klinicznych oraz dokumenty przedłożone w postępowaniu o wydanie pozwolenia na prowadzenie badania klinicznego weterynaryjnego wraz ze zmianami dotyczącymi tego pozwolenia są dostępne dla osób mających w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych, o ochronie własności przemysłowej oraz o ochronie danych osobowych. Art. 37b–37ag. (uchylone) Art. 37ah. 1. Sponsor występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do Prezesa Urzędu.
+3. Centralna Ewidencja Badań Klinicznych oraz dokumenty przedłożone w postępowaniu o wydanie pozwolenia na prowadzenie badania klinicznego weterynaryjnego wraz ze zmianami dotyczącymi tego pozwolenia są dostępne dla osób mających w tym interes prawny, z zachowaniem przepisów o ochronie informacji niejawnych, o ochronie własności przemysłowej oraz o ochronie danych osobowych.
+
+**Art. 37b–37ag.** (uchylone)
+
+**Art. 37ah.**
+
+1. Sponsor występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do Prezesa Urzędu.
 
 2. Przepis ust. 1 stosuje się także do badań klinicznych weterynaryjnych dotyczących pozostałości badanego produktu leczniczego weterynaryjnego w tkankach i innych badań klinicznych weterynaryjnych dotyczących zwierząt, których tkanki lub produkty są przeznaczone do spożycia.
 
@@ -1804,7 +2012,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Prezes Urzędu dokonuje wpisu do Centralnej Ewidencji Badań Klinicznych badania klinicznego weterynaryjnego, które uzyskało pozwolenie Prezesa Urzędu albo jego odmowę.
 
-6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania. Art. 37ai. 1. Inspekcję badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
+6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania.
+
+**Art. 37ai.**
+
+1. Inspekcję badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
 
 1a. Inspektor przeprowadza inspekcję badań klinicznych weterynaryjnych na podstawie upoważnienia Prezesa Urzędu, zawierającego co najmniej:
 
@@ -1853,17 +2065,297 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** o zawieszeniu badania klinicznego weterynaryjnego, albo
 - **3)** o wstrzymaniu badania klinicznego weterynaryjnego.
 
-6. Prezes Urzędu wydaje decyzję, o której mowa w ust. 5, po przeprowadzeniu inspekcji badania klinicznego weterynaryjnego. Art. 37aj. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+6. Prezes Urzędu wydaje decyzję, o której mowa w ust. 5, po przeprowadzeniu inspekcji badania klinicznego weterynaryjnego.
+
+**Art. 37aj.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku, o którym mowa w art. 37ah ust. 1;
 - **2)** tryb i szczegółowy zakres prowadzenia inspekcji badań klinicznych weterynaryjnych w zakresie zgodności tych badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając rodzaj badanego produktu leczniczego weterynaryjnego oraz jego przeznaczenie, a także zakres prowadzonych badań klinicznych weterynaryjnych;
 - **3)** sposób i tryb prowadzenia Centralnej Ewidencji Badań Klinicznych w zakresie badanego produktu leczniczego weterynaryjnego, uwzględniając w szczególności dane objęte ewidencją;
 - **4)** wysokość opłat, o których mowa w art. 37ah ust. 3, oraz sposób ich uiszczania, uwzględniając nakład pracy związany z daną czynnością;
-- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych oraz wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych, mając na względzie konieczność zapewnienia właściwego przeprowadzania badań klinicznych weterynaryjnych oraz ochronę zdrowia zwierząt. Art. 37ak. W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795). Art. 37al. (uchylony)
+- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych oraz wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych, mając na względzie konieczność zapewnienia właściwego przeprowadzania badań klinicznych weterynaryjnych oraz ochronę zdrowia zwierząt.
+
+**Art. 37ak.** W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795).
+
+**Art. 37al.** (uchylony)
 
 #### Rozdział 2b Przepisy ogólne w sprawie działalności objętych zezwoleniami
 
+**Art. 37am.** Przed podjęciem decyzji w sprawie wydania zezwolenia organ wydający zezwolenie, zwany dalej „organem zezwalającym”:
+
+- **1)** może wzywać wnioskodawcę do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji poświadczającej, że spełnia on warunki określone przepisami prawa, wymagane do wykonywania określonej działalności gospodarczej;
+- **2)** może dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy przedsiębiorca spełnia warunki wykonywania działalności gospodarczej objętej zezwoleniem.
+
+**Art. 37an.**
+
+1. Przedsiębiorca, który zamierza podjąć działalność gospodarczą w dziedzinie podlegającej zezwoleniu, może ubiegać się o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”. W promesie można uzależnić udzielenie zezwolenia od spełnienia warunków wykonywania działalności gospodarczej objętej zezwoleniem.
+
+2. W postępowaniu o udzielenie promesy stosuje się przepisy dotyczące udzielania zezwoleń, określonych przepisami ustawy.
+
+3. W promesie ustala się okres jej ważności, z tym że nie może on być krótszy niż 6 miesięcy.
+
+4. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy albo
+- **2)** wnioskodawca nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** wnioskodawca nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli przedłoży on pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie mu tego zezwolenia, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy, albo
+- **2)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia, chyba że:
+
+- **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy albo
+- **2)** nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnił wszystkich warunków podanych w promesie, albo
+- **3)** nabywca przedsiębiorstwa, który złożył wniosek o udzielenie zezwolenia, nie spełnia warunków wykonywania działalności objętej zezwoleniem, albo
+- **4)** jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa lub innego ważnego interesu publicznego.
+
+**Art. 37ao.**
+
+1. Zezwolenie wydaje się na czas nieoznaczony.
+
+2. Zezwolenie może być wydane na czas oznaczony na wniosek przedsiębiorcy.
+
+3. Postępowanie o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego lub postępowanie o skrócenie czasu obowiązywania zezwolenia na prowadzenie hurtowni farmaceutycznej, apteki ogólnodostępnej lub punktu aptecznego zawiesza się w przypadku gdy wobec przedsiębiorcy zostało wszczęte postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
+
+4. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem, członkiem organu jest osoba będąca właścicielem, wspólnikiem, współwłaścicielem, członkiem organu przedsiębiorcy, względem którego wszczęte zostało postępowanie, o którym mowa w art. 127, art. 127b lub art. 127c, do wydania ostatecznej decyzji w tym postępowaniu.
+
+5. Zawieszenie postępowania dotyczy również podmiotu, w którym właścicielem, wspólnikiem, współwłaścicielem lub członkiem organu jest osoba, wobec której wszczęto postępowanie, o którym mowa w art. 126b lub art. 126c, do wydania prawomocnego orzeczenia.
+
+**Art. 37ap.**
+
+1. Organ zezwalający cofa zezwolenie, w przypadku gdy:
+
+- **1)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej zezwoleniem;
+- **2)** przedsiębiorca przestał spełniać warunki określone przepisami prawa, wymagane do wykonywania działalności gospodarczej określonej w zezwoleniu;
+- **3)** przedsiębiorca nie usunął, w wyznaczonym przez organ zezwalający terminie, stanu faktycznego lub prawnego niezgodnego z przepisami prawa regulującymi działalność gospodarczą objętą zezwoleniem.
+
+2. Organ zezwalający może cofnąć zezwolenie w przypadkach określonych przepisami ustawy.
+
+**Art. 37ar.** Przedsiębiorca jest obowiązany zgłaszać organowi zezwalającemu wszelkie zmiany danych określone w zezwoleniu.
+
+**Art. 37as.** Przedsiębiorca, któremu cofnięto zezwolenie z przyczyn, o których mowa w art. 37ap ust. 1, może ponownie wystąpić z wnioskiem o wydanie zezwolenia w takim samym zakresie niewcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
+
+**Art. 37at.**
+
+1. Organ zezwalający jest uprawniony do inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie.
+
+2. Czynności w zakresie inspekcji oraz czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez organ zezwalający.
+
+3. Osoby upoważnione przez organ zezwalający do dokonywania inspekcji lub kontroli są uprawnione do:
+
+- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, w dniach i w godzinach, w których jest wykonywana lub powinna być wykonywana ta działalność;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem inspekcji lub kontroli;
+- **3)** badania dokumentów odnoszących się do przedmiotu inspekcji lub kontroli;
+- **4)** pobierania, w ramach inspekcji lub kontroli, próbek produktów leczniczych, w celu przebadania ich, przez upoważnioną jednostkę.
+
+3a. Jeżeli cel inspekcji lub kontroli tego wymaga, osoba upoważniona przez organ zezwalający do dokonywania inspekcji lub kontroli zarządza otwarcie obiektu, lokalu lub ich części, gdzie jest wykonywana działalność gospodarcza objęta zezwoleniem, oraz znajdujących się w nich schowków, jak również dokonuje ich oględzin.
+
+4. Organ zezwalający może wezwać przedsiębiorcę do usunięcia, w wyznaczonym terminie, stwierdzonych w toku inspekcji lub kontroli uchybień.
+
+5. Organ zezwalający może upoważnić do dokonywania inspekcji lub kontroli, o których mowa w ust. 1, inny organ administracji wyspecjalizowany w przeprowadzaniu inspekcji lub kontroli danego rodzaju działalności. Przepisy ust. 2−4 stosuje się odpowiednio.
+
+6. Organ zezwalający jest uprawniony do przeprowadzenia niezapowiedzianej inspekcji lub kontroli działalności gospodarczej, na którą zostało wydane zezwolenie, jeżeli stwierdzi, że istnieje podejrzenie nieprzestrzegania wymogów określonych w ustawie.
+
+7. Jeżeli w następstwie inspekcji lub kontroli u przedsiębiorcy zajmującego się obrotem hurtowym lub wytwarzaniem produktów leczniczych organ zezwalający stwierdzi, że kontrolowany nie przestrzega procedur Dobrej Praktyki Dystrybucji lub Dobrej Praktyki Wytwarzania, informacje o ich nieprzestrzeganiu wprowadza do właściwej unijnej bazy danych.
+
+8. Na wezwanie organu zezwalającego i w terminie przez niego wyznaczonym przedsiębiorca jest obowiązany przekazać dokumentację związaną z prowadzoną działalnością. Termin ustala się, uwzględniając charakter dowodu, przy czym nie może on być krótszy niż 3 dni.
+
+**Art. 37ata.**
+
+1. Organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli może zwrócić się o pomoc w umożliwieniu dokonania inspekcji lub kontroli do komendanta Policji lub Straży Granicznej, jeżeli natrafi na opór, który uniemożliwia lub utrudnia przeprowadzenie inspekcji lub kontroli, albo jeżeli istnieje uzasadnione przypuszczenie, że na taki opór natrafi, albo jeżeli z innych względów jest to niezbędne do niezakłóconego dokonania inspekcji lub kontroli.
+
+2. Udzielenie pomocy Policji lub Straży Granicznej, o której mowa w ust. 1, polega na zapewnieniu porządku w miejscu przeprowadzania inspekcji lub kontroli oraz osobistego bezpieczeństwa i poszanowania godności osób obecnych w miejscu jej przeprowadzania.
+
+3. Z pisemnym wnioskiem o pomoc w umożliwieniu dokonania inspekcji lub kontroli organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli występuje co najmniej 7 dni przed planowanym terminem przeprowadzenia inspekcji lub kontroli do właściwego ze względu na miejsce dokonania inspekcji lub kontroli komendanta Policji lub Straży Granicznej – w przypadku gdy podmiot kontrolowany znajduje się na obszarze przejścia granicznego lub w strefie nadgranicznej.
+
+4. W pilnych przypadkach, zwłaszcza gdy zwłoka groziłaby udaremnieniem przeprowadzenia inspekcji lub kontroli, udzielenie pomocy, o której mowa w ust. 1, następuje także na osobiste wezwanie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli.
+
+5. W przypadku, o którym mowa w ust. 4, organ zezwalający lub osoba upoważniona przez ten organ do dokonywania inspekcji lub kontroli przekazuje potwierdzenie wezwania na piśmie, niepóźniej niż w terminie 3 dni od dnia zakończenia inspekcji lub kontroli.
+
+6. Organy wymienione w ust. 1 nie mogą odmówić udzielenia pomocy.
+
+7. Funkcjonariusz organu udzielającego pomocy sporządza notatkę urzędową z jej przebiegu zawierającą określenie miejsca, terminu, czasu trwania inspekcji lub kontroli, oznaczenie organu zezwalającego lub osoby upoważnionej przez ten organ do dokonywania inspekcji lub kontroli, oznaczenie kontrolowanego, a także zakresu udzielonej pomocy, której kopię przekazuje organowi zezwalającemu lub osobie upoważnionej przez ten organ do dokonywania inspekcji lub kontroli w terminie 7 dni.
+
+8. Koszty udzielonej pomocy ponosi kontrolowany. Koszty ustala się w wysokości rzeczywistych wydatków poniesionych na udzielenie pomocy. W przypadku gdy zwrócenie się o pomoc było oczywiście bezzasadne, koszty udzielonej pomocy ponosi organ zezwalający.
+
+9. Organ zezwalający obciąża kontrolowanego kosztami udzielonej pomocy w drodze decyzji.
+
+10. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, sposób ustalania wysokości oraz sposób i tryb rozliczania kosztów udzielonej przez Policję lub Straż Graniczną pomocy w umożliwieniu dokonania inspekcji lub kontroli organowi zezwalającemu lub osobie upoważnionej do dokonywania tej inspekcji lub kontroli, mając na względzie rozmiar nakładów niezbędnych do udzielenia pomocy oraz potrzebę ich sprawnego rozliczenia.
+
+**Art. 37atb.** Instytucje państwowe i samorządowe są obowiązane w zakresie swojego działania do współpracy z organem zezwalającym przy wykonywaniu przez ten organ ustawowych zadań, w szczególności do przekazania posiadanych dokumentów, danych lub informacji.
+
+**Art. 37au.** Do kontroli lub inspekcji działalności gospodarczej przedsiębiorcy, o której mowa w art. 38, art. 38a, art. 51b, art. 70, art. 73a, art. 74 i art. 99, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
 #### Rozdział 2c Monitorowanie przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej
+
+**Art. 37av.**
+
+1. Przedsiębiorca zgłasza Głównemu Inspektorowi Farmaceutycznemu zamiar:
+
+- **1)** wywozu poza terytorium Rzeczypospolitej Polskiej lub
+- **2)** zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej – produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14.
+
+2. Zgłoszenie zamiaru, o którym mowa w ust. 1, zawiera:
+
+- **1)** nazwę (firmę) i adres albo siedzibę przedsiębiorcy;
+- **2)** numer wydanego zezwolenia albo pozwolenia uprawniającego do obrotu produktami leczniczymi;
+- **3)** numer identyfikacji podatkowej (NIP);
+- **4)** dane identyfikujące odpowiednio produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny, jeżeli dotyczy:
+    - **a)** numer GTIN zgodny z systemem GS1, aa) nazwę handlową i międzynarodową,
+    - **b)** numer serii,
+    - **c)** datę ważności,
+    - **d)** nazwę podmiotu odpowiedzialnego, nazwę podmiotu uprawnionego do importu równoległego, nazwę wytwórcy wyrobów medycznych, jego autoryzowanego przedstawiciela, dystrybutora albo importera, albo nazwę podmiotu działającego na rynku spożywczym;
+
+- **5)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego podlegających wywozowi lub zbyciu.
+
+3. Główny Inspektor Farmaceutyczny może wnieść, w drodze decyzji, sprzeciw wobec zamiaru wywozu lub zbycia, o których mowa w ust. 1, w terminie 30 dni od dnia zgłoszenia zamiaru wywozu lub zbycia, biorąc pod uwagę:
+
+- **1)** zagrożenie brakiem dostępności na terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14;
+- **2)** znaczenie danego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego zawartych w wykazie, o którym mowa w ust. 14, dla zdrowia publicznego.
+
+4. Decyzji w sprawie wniesienia sprzeciwu nadaje się rygor natychmiastowej wykonalności.
+
+5. Sprzeciw lub uchylenie sprzeciwu podlega publikacji w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego, a informacja w tym zakresie jest przekazywana Szefowi Krajowej Administracji Skarbowej oraz właściwym organom celnym. Z chwilą publikacji sprzeciwu lub uchylenia sprzeciwu uznaje się go za skutecznie doręczony.
+
+6. W przypadku wezwania do uzupełnienia zgłoszenia, o którym mowa w ust. 1, bieg terminu na wniesienie sprzeciwu ulega zawieszeniu.
+
+7. Od sprzeciwu, o którym mowa w ust. 3, strona może złożyć wniosek o ponowne rozpatrzenie sprawy. Wniosek wraz z uzasadnieniem składa się do Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia publikacji sprzeciwu.
+
+8. Informację o wniesieniu sprzeciwu oraz informację o wyniku ponownego rozpoznania sprawy Główny Inspektor Farmaceutyczny zamieszcza w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi.
+
+9. Niewniesienie sprzeciwu w terminie, o którym mowa w ust. 3, oznacza możliwość dokonania w terminie 30 dni od dnia jego upływu wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego.
+
+9a. Główny Inspektor Farmaceutyczny może, przed upływem terminu, o którym mowa w ust. 3, zawiadomić przedsiębiorcę zgłaszającego zamiar wywozu poza terytorium Rzeczypospolitej Polskiej lub zbycia podmiotowi prowadzącemu działalność poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, o braku sprzeciwu, o którym mowa w ust. 3. W takim przypadku przedsiębiorca może dokonać wywozu lub zbycia, w terminie 30 dni od dnia doręczenia zawiadomienia o braku sprzeciwu.
+
+10. Przedsiębiorca dokonujący wywozu poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, zawartych w wykazie, o którym mowa w ust. 14, w imieniu innego przedsiębiorcy nie zgłasza zamiaru wywozu, o którym mowa w ust. 1 pkt 1, jeżeli zamiar wywozu został zgłoszony przez przedsiębiorcę, w imieniu którego dokonuje wywozu, pod warunkiem niezgłoszenia przez Głównego Inspektora Farmaceutycznego sprzeciwu na dokonanie wywozu.
+
+11. O dokonaniu wywozu lub zbycia, o których mowa w ust. 9, przedsiębiorca informuje Głównego Inspektora Farmaceutycznego w terminie 7 dni od dnia dokonania wywozu lub zbycia poza terytorium Rzeczypospolitej Polskiej.
+
+12. W przypadku wniesienia sprzeciwu przedsiębiorca jest obowiązany do sprzedaży produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wyłącznie na terytorium Rzeczypospolitej Polskiej w ilości określonej w zgłoszeniu zamiaru wywozu lub zbycia podmiotowi prowadzącemu działalność na terytorium Rzeczypospolitej Polskiej w celu realizacji świadczeń opieki zdrowotnej na tym terytorium.
+
+13. Po upływie 30 dni od dnia otrzymania sprzeciwu przedsiębiorca może ponownie zgłosić zamiar, o którym mowa w ust. 1.
+
+14. Minister właściwy do spraw zdrowia na podstawie informacji przekazywanych przez Głównego Inspektora Farmaceutycznego, gromadzonych w Zintegrowanym Systemie Monitorowania Obrotu Produktami Leczniczymi lub innych informacji dotyczących dostępności produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, uwzględniając dynamikę obrotu, ogłasza co najmniej raz na 2 miesiące, w drodze obwieszczenia, wykaz produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej.
+
+14a. Wykaz, o którym mowa w ust. 14, zawiera co najmniej nazwę handlową i międzynarodową, postać, moc i wielkość opakowania wskazanych w nim produktów leczniczych, a w przypadku środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych – nazwę, postać, wielkość opakowania i ilość w opakowaniu.
+
+15. Obwieszczenie określone w ust. 14 jest ogłaszane w dzienniku urzędowym ministra właściwego do spraw zdrowia.
+
+16. Przedsiębiorca dokonujący zgłoszenia, o którym mowa w ust. 1, jest obowiązany przekazać kopię zgłoszenia, o którym mowa w ust. 2, przewoźnikowi, o którym mowa w art. 2 pkt 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218), zwanej dalej „ustawą o systemie monitorowania”. Kierujący, o którym mowa w art. 2 pkt 2 lit. a ustawy o systemie monitorowania, jest obowiązany okazać kopię zgłoszenia w trakcie kontroli, o której mowa w art. 13 tej ustawy.
+
+16a. W przypadkach, o których mowa w ust. 1, do przewozu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych określonych w obwieszczeniu, o którym mowa w ust. 14, podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, dołącza dokument, który przekazuje kierującemu, o którym mowa w art. 2 pkt 2 lit. a tej ustawy. Dokument ten zawiera datę wystawienia, nazwę handlową i międzynarodową oraz postać farmaceutyczną produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, numer serii, datę ważności, dostarczaną ilość, nazwę i adres dostawcy, adres miejsca nadania wysyłki, nazwę i adres odbiorcy, adres dostawy, określenie wymaganych warunków transportu i przechowywania transportowanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, imię i nazwisko oraz podpis osoby wystawiającej ten dokument.
+
+17. Do postępowania prowadzonego w zakresie wydania sprzeciwu, o którym mowa w ust. 3, nie stosuje się art. 10, przepisów działu II rozdział 2 i 5 oraz art. 98 Kodeksu postępowania administracyjnego.
+
+**Art. 37aw.** Czynność prawna polegająca na zbyciu produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14:
+
+- **1)** bez uprzedniego zgłoszenia Głównemu Inspektorowi Farmaceutycznemu,
+- **2)** przed upływem terminu na zgłoszenie sprzeciwu określonego w art. 37av ust. 3, z zastrzeżeniem art. 37av ust. 9a,
+- **3)** wbrew sprzeciwowi Głównego Inspektora Farmaceutycznego – jest nieważna.
+
+**Art. 37ax.** Wywóz poza terytorium Rzeczypospolitej Polskiej produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, określonych w obwieszczeniu, o którym mowa w art. 37av ust. 14, wymaga zgłoszenia, o którym mowa w art. 5 ust. 1 ustawy o systemie monitorowania.
+
+**Art. 37ay.**
+
+1. Główny Inspektor Farmaceutyczny zawiera umowę o strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz dla celów dokonywania oględzin towaru, o których mowa w art. 13 ust. 2a tej ustawy, z przedsiębiorcą zapewniającym warunki odpowiednie do przechowywania tych produktów, środków lub wyrobów i przeprowadzenia ich oględzin.
+
+2. Umowa, o której mowa w ust. 1, może przewidywać zlecanie strzeżenia i przechowywania towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania podwykonawcom, pod warunkiem uzyskania uprzedniej zgody Głównego Inspektora Farmaceutycznego wyrażonej na piśmie.
+
+**Art. 37az.**
+
+1. Za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania pobiera się opłaty.
+
+2. Za uiszczenie opłaty odpowiada podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
+
+**Art. 37aza.**
+
+1. Główny Inspektor Farmaceutyczny ustala, w drodze postanowienia, wysokość opłaty za strzeżenie i przechowywanie towarów zatrzymanych zgodnie z art. 16 ust. 1a ustawy o systemie monitorowania oraz termin i sposób ich uiszczania.
+
+2. Wysokość opłaty, o której mowa w ust. 1, odpowiada średniej cenie rynkowej usług w zakresie strzeżenia i przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych przez przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznych.
+
+3. Na postanowienie, o którym mowa w ust. 1, służy zażalenie.
+
+4. Opłata, o której mowa w ust. 1, stanowi dochód budżetu państwa.
+
+**Art. 37azb.** Egzekucja należności pieniężnych, o których mowa w art. 37az, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 37azc.**
+
+1. Maksymalna wysokość stawki kwotowej opłat, o których mowa w art. 37az, za każdą dobę strzeżenia i przechowywania wynosi 150 zł za miejsce paletowe w powierzchni magazynowej.
+
+2. Maksymalna stawka kwotowa opłaty, o której mowa w ust. 1, obowiązująca w danym roku kalendarzowym, ulega corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+
+3. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną stawkę kwotową opłaty, o której mowa w ust. 1, z uwzględnieniem zasady określonej w ust. 2, obowiązującą w następnym roku kalendarzowym, zaokrąglając ją w górę do pełnych złotych, w terminie do dnia 1 grudnia danego roku.
+
+**Art. 37azd.**
+
+1. W przypadkach, o których mowa w art. 16 ust. 1a ustawy o systemie monitorowania, sąd, na wniosek Głównego Inspektora Farmaceutycznego, orzeka:
+
+- **1)** przepadek towarów zatrzymanych – jeżeli Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary te były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania;
+- **2)** przepadek i zniszczenie towarów zatrzymanych, jeżeli:
+    - **a)** Główny Inspektor Farmaceutyczny stwierdził na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że zatrzymane towary były transportowane i przechowywane niezgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania,
+    - **b)** nie jest możliwe stwierdzenie przez Głównego Inspektora Farmaceutycznego na podstawie dokumentów przedstawionych przez podmiot wysyłający w rozumieniu ustawy o systemie monitorowania, a w przypadku powzięcia wątpliwości – także po przeprowadzeniu dodatkowego sprawdzenia, że towary były transportowane i przechowywane zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej lub Dobrej Praktyki Wytwarzania.
+
+2. Wniosek, o którym mowa w ust. 1, podlega rozpoznaniu bezzwłocznie, niepóźniej jednak niż w terminie tygodnia od dnia jego wpływu do sądu. W przypadku skierowania wniosku do rozpatrzenia na rozprawie, termin rozprawy należy wyznaczyć tak, aby mogła się ona odbyć w terminie miesiąca od dnia wpływu wniosku.
+
+3. Koszty zniszczenia, o którym mowa w ust. 1 pkt 2, ponosi podmiot wysyłający w rozumieniu ustawy o systemie monitorowania.
+
+4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
+
+5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) stosuje się odpowiednio.
+
+**Art. 37aze.**
+
+1. Główny Inspektor Farmaceutyczny niezwłocznie przekazuje prawomocne orzeczenie, o którym mowa w art. 37azd ust. 1, naczelnikowi urzędu skarbowego właściwemu według miejsca przechowywania zatrzymanego towaru – do wykonania.
+
+2. W przypadkach, o których mowa w art. 37azd ust. 1 pkt 1, naczelnik urzędu skarbowego sprzedaje towary, których termin przydatności albo data ważności nie upłynęły, na rzecz podmiotów uprawnionych do prowadzenia obrotu tymi towarami, z zastrzeżeniem, że nabywcą nie może być ostatni właściciel tych towarów przed orzeczeniem ich przepadku.
+
+3. Do chwili przekazania nabywcy towarów sprzedanych zgodnie z ust. 2 albo ust. 5 są one przechowywane z uwzględnieniem Dobrej Praktyki Dystrybucyjnej.
+
+4. Sprzedaż towarów w przypadkach, o których mowa w ust. 5 oraz w art. 37azd ust. 1 pkt 1, przez naczelnika urzędu skarbowego nie stanowi obrotu hurtowego.
+
+5. W przypadku konieczności zapewnienia dostępności pacjentom produktów leczniczych, środków specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wymienionych w wykazie, o którym mowa w art. 37av ust. 14, Główny Inspektor Farmaceutyczny składa, przed wydaniem orzeczenia, o którym mowa w art. 37azd ust. 1, do naczelnika urzędu skarbowego właściwego według miejsca przechowywania zatrzymanego towaru wniosek o dokonanie jego sprzedaży, na poczet grożącego przepadku.
+
+6. Naczelnik, o którym mowa w ust. 5, sprzedaje towary w trybie przepisów wydanych na podstawie art. 109 § 1 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), z zastrzeżeniem, że nabywcą nie może być ich ostatni właściciel przed skierowaniem wniosku, o którym mowa w ust. 5.
+
+7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
+
+**Art. 37azf.** Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i 421).
+
+**Art. 37azg.**
+
+1. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej, w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, minister właściwy do spraw zdrowia może, w drodze rozporządzenia, nałożyć na wytwórców, autoryzowanych przedstawicieli, dystrybutorów i importerów wyrobów medycznych, producentów i importerów środków spożywczych specjalnego przeznaczenia żywieniowego lub podmioty odpowiedzialne w odniesieniu do produktów biobójczych, posiadaczy pozwolenia albo zezwolenia na handel równoległy i wytwórców produktów biobójczych, obowiązki, o których mowa w art. 36z ust. 2 i 3, a na hurtownie farmaceutyczne, apteki, punkty apteczne oraz działy farmacji szpitalnej odpowiednio obowiązki określone w art. 78 ust. 1 pkt 6a i art. 95 ust. 1b, w odniesieniu do środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego innych niż wymienione w art. 72a, lub produktu biobójczego.
+
+2. W przypadku zagrożenia brakiem dostępności na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego lub produktu biobójczego, w związku ze stanem zagrożenia epidemicznego, stanem epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które może stanowić zagrożenie dla zdrowia publicznego, w szczególności wystąpienia choroby szczególnie niebezpiecznej i wysoce zakaźnej w rozumieniu art. 2 pkt 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, lub
+- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego umieszczonego w:
+    - **a)** obwieszczeniu, o którym mowa w art. 37av ust. 14, lub
+    - **b)** obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – minister właściwy do spraw zdrowia może ograniczyć, w drodze obwieszczenia, ilość, jaką maksymalnie można wydać danemu pacjentowi w określonym czasie lub w określonym wskazaniu.
+
+3. W przypadku nałożenia obowiązku, o którym mowa w ust. 1, podmioty, które dotychczas nie były podłączone do systemu, o którym mowa w art. 72a, są obowiązane do podłączenia i rozpoczęcia przekazywania informacji w ciągu 24 godzin od momentu nałożenia tego obowiązku. Wraz z wysłaniem pierwszej informacji podmiot raportuje jednocześnie indywidualny bilans otwarcia, zwany dalej „IBO”.
+
+3a. W przypadku ograniczonych możliwości technicznych podmiotu, który dotychczas nie był podłączony do systemu, o którym mowa w art. 72a, Główny Inspektor Farmaceutyczny może wyrazić zgodę na podłączenie i rozpoczęcie przekazywania informacji w terminie późniejszym.
+
+4. IBO stanowi informację o stanach magazynowych produktów podlegających raportowaniu do systemu, o którym mowa w art. 72a, w dniu, w którym wysłano pierwszy raport.
+
+5. Obwieszczenie, o którym mowa w ust. 2, określa:
+
+- **1)** wykaz produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych oraz dane je identyfikujące;
+- **2)** ilość produktu leczniczego, wyrobu medycznego, środka spożywczego specjalnego przeznaczenia żywieniowego i produktu biobójczego na jednego pacjenta w danej jednostce czasu.
+
+6. Do wydawania produktów leczniczych, wyrobów medycznych, środków spożywczych specjalnego przeznaczenia żywieniowego i produktów biobójczych objętych obwieszczeniem, o którym mowa w ust. 2, stosuje się przepisy niniejszej ustawy oraz przepisy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, przy czym:
+
+- **1)** dokument realizacji recepty jest wystawiany również dla produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych sprzedawanych bez recepty oraz dla produktów biobójczych;
+- **2)** przepisów art. 96 ust. 1a–1d nie stosuje się.
+
+7. Obwieszczenie, o którym mowa w ust. 2, podlega ogłoszeniu w dzienniku urzędowym ministra właściwego do spraw zdrowia.
 
 #### Rozdział 3 Wytwarzanie i import produktów leczniczych
 
@@ -1877,13 +2369,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** o którym mowa w art. 10 ust. 1 lub 2a lub
 - **2)** o zmianę pozwolenia w zakresie zmiany miejsca wytwarzania w kraju trzecim, lub
-- **3)** o wydanie certyfikatów w przypadku, gdy produkt leczniczy jest sprowadzany na terytorium Rzeczypospolitej Polskiej z kraju trzeciego na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, po przedstawieniu przez wnioskodawcę uwierzytelnionej kopii zezwolenia na wytwarzanie wydanego przez właściwy organ w państwie, w którym produkt leczniczy jest wytwarzany.
+- **3)** o wydanie certyfikatów w przypadku, gdy produkt leczniczy jest sprowadzany na terytorium Rzeczypospolitej Polskiej z kraju trzeciego – na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, po przedstawieniu przez wnioskodawcę uwierzytelnionej kopii zezwolenia na wytwarzanie wydanego przez właściwy organ w państwie, w którym produkt leczniczy jest wytwarzany.
 
 4. Główny Inspektor Farmaceutyczny przekazuje kopię zaświadczenia, o którym mowa w art. 47a ust. 1, Prezesowi Urzędu, na jego wniosek.
 
 5. Inspekcję, o której mowa w ust. 3, przeprowadza inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego na koszt podmiotu wnioskującego o wydanie raportu, o którym mowa w art. 10 ust. 5, albo zaświadczenia, o którym mowa w art. 47a ust. 1.
 
-6. Przepisów ust. 3–5 nie stosuje się w odniesieniu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich mających równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji.
+6. Przepisów ust. 3–5 nie stosuje się w odniesieniu do państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz krajów trzecich mających równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji.
 
 7. Główny Inspektor Farmaceutyczny wprowadza informacje o wydanych zezwoleniach na wytwarzanie lub import produktu leczniczego do europejskiej bazy danych EudraGMDP.
 
@@ -1891,19 +2383,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 38a.**
 
-1. W przypadku produktu leczniczego terapii zaawansowanej wyjątku szpitalnego podjęcie wytwarzania następuje na podstawie zgody na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego.
+1. W przypadku produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego podjęcie wytwarzania następuje na podstawie zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
 2. Organem właściwym do wydania zgody, o której mowa w ust. 1, odmowy jej wydania, stwierdzenia wygaśnięcia, cofnięcia oraz zmiany tej zgody, w drodze decyzji, jest Główny Inspektor Farmaceutyczny.
 
 3. Wnioskodawca ubiegający się o wydanie zgody, o której mowa w ust. 1, składa w postaci papierowej albo elektronicznej wniosek, który zawiera:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o zgodę, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o zgodę, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **3)** imię i nazwisko, numer telefonu i adres poczty elektronicznej osoby do kontaktu;
-- **4)** określenie rodzaju oraz wskazań produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
-- **5)** określenie miejsca wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
-- **6)** określenie zakresu działalności w miejscu wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
-- **7)** listę produktów leczniczych terapii zaawansowanej wyjątków szpitalnych wytwarzanych w danym miejscu wytwarzania;
+- **4)** określenie rodzaju oraz wskazań produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
+- **5)** określenie miejsca wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
+- **6)** określenie zakresu działalności w miejscu wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
+- **7)** listę produktów leczniczych terapii zaawansowanej – wyjątków szpitalnych wytwarzanych w danym miejscu wytwarzania;
 - **8)** imię i nazwisko Osoby Kompetentnej, informacje o jej wykształceniu, stażu pracy i zakresie uprawnień oraz adres miejsca wytwarzania, w którym Osoba Kompetentna będzie pełnić obowiązki.
 
 4. Do wniosku o wydanie zgody, o której mowa w ust. 1, dołącza się:
@@ -1922,16 +2414,16 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 9. Za złożenie wniosku o wydanie lub zmianę zgody, o której mowa w ust. 1, jest pobierana opłata, której wysokość nie może być wyższa niż siedmiokrotność minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę. Opłata stanowi dochód budżetu państwa i jest wnoszona na rachunek bankowy Głównego Inspektoratu Farmaceutycznego.
 
-10. Opłaty, o której mowa w ust. 9, nie wnoszą podmioty posiadające pozwolenie na wykonywanie czynności, o których mowa w art. 25 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, podejmujące wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego.
+10. Opłaty, o której mowa w ust. 9, nie wnoszą podmioty posiadające pozwolenie na wykonywanie czynności, o których mowa w art. 25 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, podejmujące wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
 11. Zgoda, o której mowa w ust. 1, zawiera dane, wymienione w ust. 3 pkt 1 i 4–7, oraz:
 
-- **1)** szczegółowy zakres wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
+- **1)** szczegółowy zakres wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
 - **2)** numer zgody i datę jej wydania.
 
 12. Zgodę, o której mowa w ust. 1, wydaje się na czas nieokreślony po stwierdzeniu przez Głównego Inspektora Farmaceutycznego na podstawie inspekcji przeprowadzonej przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, że podmiot ubiegający się o jej wydanie spełnia wymagania Dobrej Praktyki Wytwarzania, a także po stwierdzeniu, że:
 
-- **1)** dysponuje odpowiednimi pomieszczeniami oraz urządzeniami technicznymi i kontrolnymi niezbędnymi do wytwarzania, kontroli i przechowywania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego oraz
+- **1)** dysponuje odpowiednimi pomieszczeniami oraz urządzeniami technicznymi i kontrolnymi niezbędnymi do wytwarzania, kontroli i przechowywania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego oraz
 - **2)** zatrudnia Osobę Kompetentną.
 
 13. Osobą Kompetentną może być osoba, która spełnia łącznie następujące wymagania:
@@ -1947,29 +2439,38 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **h)** nauki chemiczne,
     - **i)** weterynaria;
 
-- **2)** posiada wiedzę i doświadczenie w zakresie dotyczącym danego rodzaju produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
+- **2)** posiada wiedzę i doświadczenie w zakresie dotyczącym danego rodzaju produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
 - **3)** włada językiem polskim w stopniu niezbędnym do wykonywania obowiązków, o których mowa w ust. 14.
 
 13a. Osoba zamierzająca pełnić obowiązki Osoby Kompetentnej przedstawia wnioskodawcy ubiegającemu się o zgodę albo posiadaczowi zgody, o której mowa w ust. 1, dokumenty potwierdzające spełnianie wymagań, o których mowa w ust. 13.
 
-14. Do obowiązków Osoby Kompetentnej należy certyfikowanie w rejestrze, w porządku chronologicznym, przed zwolnieniem do użycia każdej serii produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, że seria została wytworzona zgodnie z wymaganiami Dobrej Praktyki Wytwarzania w celu wykonania indywidualnie przepisanego produktu leczniczego dla danego pacjenta.
+14. Do obowiązków Osoby Kompetentnej należy certyfikowanie w rejestrze, w porządku chronologicznym, przed zwolnieniem do użycia każdej serii produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, że seria została wytworzona zgodnie z wymaganiami Dobrej Praktyki Wytwarzania w celu wykonania indywidualnie przepisanego produktu leczniczego dla danego pacjenta.
 
-15. Inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego sprawdza, przez przeprowadzanie inspekcji, których częstotliwość jest określana na podstawie analizy ryzyka, czy posiadacz zgody na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego wypełnia obowiązki wynikające z art. 38aa ust. 1.
+15. Inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego sprawdza, przez przeprowadzanie inspekcji, których częstotliwość jest określana na podstawie analizy ryzyka, czy posiadacz zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego wypełnia obowiązki wynikające z art. 38aa ust. 1.
 
 16. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** wzór wniosku o wydanie zgody, o której mowa w ust. 1, oraz o zmianę tej zgody, uwzględniając rodzaj produktu leczniczego terapii zaawansowanej wyjątku szpitalnego oraz zakres wytwarzania;
-- **2)** wysokość opłaty, o której mowa w ust. 9, uwzględniając konieczność zróżnicowania wysokości opłat w związku z nakładem pracy wymaganym do rozpatrzenia wniosku. Art. 38aa. 1. Do obowiązków posiadacza zgody na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego należy:
-- **1)** wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego jedynie w zakresie objętym zgodą, o której mowa w art. 38a ust. 1;
-- **2)** zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, co najmniej 30 dni wcześniej, o zamierzonej zmianie dotyczącej warunków wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego oraz niezwłoczne zawiadamianie o konieczności zmiany Osoby Kompetentnej;
-- **3)** udostępnianie inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego w celu przeprowadzenia inspekcji pomieszczeń, w których jest prowadzona działalność w zakresie wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, dokumentacji i innych danych dotyczących wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, a także umożliwienie pobrania próbek tych produktów do badań jakościowych;
+- **1)** wzór wniosku o wydanie zgody, o której mowa w ust. 1, oraz o zmianę tej zgody, uwzględniając rodzaj produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego oraz zakres wytwarzania;
+- **2)** wysokość opłaty, o której mowa w ust. 9, uwzględniając konieczność zróżnicowania wysokości opłat w związku z nakładem pracy wymaganym do rozpatrzenia wniosku.
+
+**Art. 38aa.**
+
+1. Do obowiązków posiadacza zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego należy:
+
+- **1)** wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego jedynie w zakresie objętym zgodą, o której mowa w art. 38a ust. 1;
+- **2)** zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, co najmniej 30 dni wcześniej, o zamierzonej zmianie dotyczącej warunków wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego oraz niezwłoczne zawiadamianie o konieczności zmiany Osoby Kompetentnej;
+- **3)** udostępnianie inspektorom do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego w celu przeprowadzenia inspekcji pomieszczeń, w których jest prowadzona działalność w zakresie wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, dokumentacji i innych danych dotyczących wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, a także umożliwienie pobrania próbek tych produktów do badań jakościowych;
 - **4)** umożliwianie Osobie Kompetentnej wykonywania obowiązków, w tym podejmowania niezależnych decyzji w ramach uprawnień wynikających z ustawy;
-- **5)** stosowanie wymagań Dobrej Praktyki Wytwarzania w zakresie niezbędnym do zapewnienia odpowiedniej jakości i bezpieczeństwa produktu leczniczego terapii zaawansowanej wyjątku szpitalnego;
-- **6)** przechowywanie rejestrów, o których mowa w art. 38a ust. 14, przez okres niekrótszy niż 30 lat od dnia zwolnienia do użycia danej serii produktu leczniczego terapii zaawansowanej wyjątku szpitalnego.
+- **5)** stosowanie wymagań Dobrej Praktyki Wytwarzania w zakresie niezbędnym do zapewnienia odpowiedniej jakości i bezpieczeństwa produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
+- **6)** przechowywanie rejestrów, o których mowa w art. 38a ust. 14, przez okres niekrótszy niż 30 lat od dnia zwolnienia do użycia danej serii produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
-2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP. Art. 38ab. 1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
+2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia zawiadomienia, o którym mowa w ust. 1 pkt 2, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Zawiadomienie opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-2. Zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego może być cofnięta w przypadku naruszenia przepisów art. 38aa ust. 1 pkt 2 lub 4–6.
+**Art. 38ab.**
+
+1. Główny Inspektor Farmaceutyczny cofa zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, w przypadku gdy jego wytwórca przestał wypełniać obowiązki określone w art. 38aa ust. 1 pkt 1 lub 3.
+
+2. Zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego może być cofnięta w przypadku naruszenia przepisów art. 38aa ust. 1 pkt 2 lub 4–6.
 
 **Art. 38b.** Uzyskanie zezwolenia na wytwarzanie badanych produktów leczniczych nie jest wymagane w przypadku wykonywania czynności polegających na przygotowaniu badanego produktu leczniczego przed użyciem lub zmiany opakowania, gdy czynności te są wykonywane wyłącznie w podmiotach udzielających świadczeń zdrowotnych, w rozumieniu art. 3 ust. 1 pkt 5 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta przez lekarzy, lekarzy dentystów, farmaceutów, techników farmaceutycznych, pielęgniarki lub położne, a badany produkt leczniczy jest przeznaczony wyłącznie do użycia w tych podmiotach.
 
@@ -1977,7 +2478,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Wnioskodawca ubiegający się o zezwolenie na wytwarzanie lub import produktu leczniczego składa, w postaci pisemnej lub elektronicznej, wniosek o wydanie zezwolenia, który zawiera:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o zezwolenie, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **3)** określenie rodzaju i postaci farmaceutycznej produktu leczniczego;
 - **4)** określenie miejsca wytwarzania produktu leczniczego lub miejsca prowadzenia działalności w zakresie importu produktu leczniczego;
@@ -2000,6 +2501,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **4)** wzór wniosku o zmianę zezwolenia na wytwarzanie lub import produktów leczniczych, uwzględniając dane dotyczące zmian oraz zapewnienie przejrzystości tego wniosku.
 
 **Art. 40.** Zezwolenie na wytwarzanie lub import produktu leczniczego zawiera:
+
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wytwórcy lub importera produktów leczniczych, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **2)** określenie miejsca wytwarzania lub miejsca prowadzenia działalności w zakresie importu produktu leczniczego;
+- **3)** rodzaj i postać farmaceutyczną produktu leczniczego;
+- **4)** szczegółowy zakres wytwarzania lub importu produktu leczniczego objęty zezwoleniem;
+- **5)** numer zezwolenia oraz datę jego wydania.
 
 **Art. 41.**
 
@@ -2067,7 +2574,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** z krajów trzecich, pod warunkiem posiadania wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, jako importer substancji czynnej lub
 - **2)** od podmiotów wpisanych do:
     - **a)** Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych lub
-    - **b)** rejestru prowadzonego przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo państwa, które zawarło porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stroną umowy o Europejskim Obszarze Gospodarczym, w którym mają swoją siedzibę po sprawdzeniu, że podmiot jest wpisany do właściwego rejestru.
+    - **b)** rejestru prowadzonego przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo państwa, które zawarło porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, w którym mają swoją siedzibę – po sprawdzeniu, że podmiot jest wpisany do właściwego rejestru.
 
 2. Przy wytwarzaniu produktu leczniczego, ze stosowaniem jako wyrobu wyjściowego ludzkiej krwi, wytwórca obowiązany jest:
 
@@ -2092,11 +2599,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Zabezpieczenia uważa się za równoważne z zabezpieczeniami, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, jeżeli spełniają łącznie następujące warunki:
 
 - **1)** są zgodne z wymogami określonymi w aktach delegowanych przyjętych zgodnie z art. 54a ust. 2 dyrektywy 2001/83/WE;
-- **2)** równie skutecznie umożliwiają weryfikację autentyczności i identyfikację produktów leczniczych, a w przypadku próby usunięcia równie skutecznie wskazują na naruszenie opakowania produktów leczniczych.
+- **2)** równie skutecznie umożliwiają weryfikację autentyczności i identyfikację produktów leczniczych, a w przypadku próby usunięcia – równie skutecznie wskazują na naruszenie opakowania produktów leczniczych.
 
 3. Zastępowanie zabezpieczeń podlega sprawdzeniu podczas inspekcji przeprowadzanych przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego.
 
-4. Wytwórcę oraz importera produktów leczniczych, a także podmiot dokonujący czynności określonych w ust. 1 uznaje się za producenta w rozumieniu art. 449 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
+4. Wytwórcę oraz importera produktów leczniczych, a także podmiot dokonujący czynności określonych w ust. 1 uznaje się za producenta w rozumieniu art. 449 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
 
 **Art. 43.**
 
@@ -2108,17 +2615,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 43a.**
 
-1. Zezwolenie na wytwarzanie lub import produktu leczniczego oraz zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego wygasają w przypadku:
+1. Zezwolenie na wytwarzanie lub import produktu leczniczego oraz zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego wygasają w przypadku:
 
 - **1)** (uchylony)
 - **2)** wykreślenia przedsiębiorcy z Krajowego Rejestru Sądowego albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **3)** rezygnacji z prowadzonej działalności.
 
-2. Stwierdzenie wygaśnięcia następuje w drodze decyzji organu, który wydał zezwolenie na wytwarzanie lub import produktu leczniczego albo zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego.
+2. Stwierdzenie wygaśnięcia następuje w drodze decyzji organu, który wydał zezwolenie na wytwarzanie lub import produktu leczniczego albo zgodę na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
-3. Zezwolenie na wytwarzanie lub import produktu leczniczego oraz zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego w przypadku, o którym mowa w ust. 1 pkt 3, nie podlegają wygaśnięciu do czasu zakończenia inspekcji lub postępowań administracyjnych prowadzonych przez organy Państwowej Inspekcji Farmaceutycznej.
+3. Zezwolenie na wytwarzanie lub import produktu leczniczego oraz zgoda na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego w przypadku, o którym mowa w ust. 1 pkt 3, nie podlegają wygaśnięciu do czasu zakończenia inspekcji lub postępowań administracyjnych prowadzonych przez organy Państwowej Inspekcji Farmaceutycznej.
 
-4. W przypadku, o którym mowa w ust. 1 pkt 3, jeżeli w wyniku zakończonej inspekcji lub postępowania administracyjnego prowadzonego przez organy Państwowej Inspekcji Farmaceutycznej zachodzą przesłanki do wydania decyzji o cofnięciu zezwolenia na wytwarzanie lub import produktu leczniczego albo cofnięciu zgody na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, Główny Inspektor Farmaceutyczny cofa zezwolenie albo zgodę. Wygaśnięcia nie stwierdza się.
+4. W przypadku, o którym mowa w ust. 1 pkt 3, jeżeli w wyniku zakończonej inspekcji lub postępowania administracyjnego prowadzonego przez organy Państwowej Inspekcji Farmaceutycznej zachodzą przesłanki do wydania decyzji o cofnięciu zezwolenia na wytwarzanie lub import produktu leczniczego albo cofnięciu zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, Główny Inspektor Farmaceutyczny cofa zezwolenie albo zgodę. Wygaśnięcia nie stwierdza się.
 
 **Art. 44.** (uchylony)
 
@@ -2134,9 +2641,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3a. W przypadku powzięcia uzasadnionego podejrzenia zagrożenia dla jakości lub bezpieczeństwa stosowania produktów leczniczych Główny Inspektor Farmaceutyczny może zarządzić doraźną inspekcję u podmiotu odpowiedzialnego lub przedstawiciela podmiotu odpowiedzialnego bez uprzedzenia. Z tej inspekcji sporządza się raport, który otrzymuje podmiot odpowiedzialny lub przedstawiciel podmiotu odpowiedzialnego, u którego przeprowadzono inspekcję.
 
-4. Inspekcję, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny zarządza również na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej.
+4. Inspekcję, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny zarządza również na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej.
 
-5. Główny Inspektor Farmaceutyczny, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej, może przeprowadzić inspekcję warunków wytwarzania produktu leczniczego u wytwórcy produktów leczniczych prowadzącego odpowiednio działalność na terytorium Rzeczypospolitej Polskiej lub w kraju trzecim.
+5. Główny Inspektor Farmaceutyczny, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej, może przeprowadzić inspekcję warunków wytwarzania produktu leczniczego u wytwórcy produktów leczniczych prowadzącego odpowiednio działalność na terytorium Rzeczypospolitej Polskiej lub w kraju trzecim.
 
 6. Na podstawie ustaleń inspekcji, o których mowa w ust. 1, 3 i 5, w zakresie podmiotu prowadzącego działalność na terytorium Rzeczypospolitej Polskiej, w celu ochrony ludzi oraz zwierząt przed produktami leczniczymi nieodpowiadającymi ustalonym wymaganiom jakościowym, bezpieczeństwa stosowania lub skuteczności lub w celu zapewnienia, że produkty lecznicze będą wytwarzane zgodnie z ustawą, Główny Inspektor Farmaceutyczny, w drodze decyzji, może wstrzymać wytwarzanie lub import produktu leczniczego całkowicie albo do czasu usunięcia stwierdzonych w raporcie uchybień.
 
@@ -2179,8 +2686,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Koszty przeprowadzenia inspekcji, o których mowa w art. 10 ust. 5, art. 38 ust. 3 i art. 47a ust. 1, obejmują koszty podróży, pobytu i czasu pracy oraz czynności związanych z przeprowadzaniem inspekcji przez inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego. Koszty czynności jednego inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego nie mogą przekroczyć:
 
-- **1)** 6000 zł za każdy dzień inspekcji przeprowadzanej na terytorium Rzeczypospolitej Polskiej;
-- **2)** 12 000 zł za każdy dzień inspekcji przeprowadzanej poza terytorium Rzeczypospolitej Polskiej.
+- **1)** 6000 zł – za każdy dzień inspekcji przeprowadzanej na terytorium Rzeczypospolitej Polskiej;
+- **2)** 12 000 zł – za każdy dzień inspekcji przeprowadzanej poza terytorium Rzeczypospolitej Polskiej.
 
 3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzenia inspekcji, o których mowa w art. 10 ust. 5, art. 38 ust. 3 i art. 47a ust. 1, kierując się nakładem pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny.
 
@@ -2188,7 +2695,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 47d.**
 
-1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
+1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
 
 2. W przypadku cofnięcia wydanego certyfikatu potwierdzającego spełnianie wymagań Dobrej Praktyki Wytwarzania Główny Inspektor Farmaceutyczny niezwłocznie usuwa ten certyfikat z europejskiej bazy danych EudraGMDP.
 
@@ -2221,12 +2728,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Do obowiązków Osoby Wykwalifikowanej należy w przypadku:
 
-- **1)** produktu leczniczego wytworzonego na terytorium Rzeczypospolitej Polskiej zapewnienie, że każda seria produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu;
-- **2)** produktu leczniczego pochodzącego z importu, bez względu na to, czy produkt został wytworzony w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym zapewnienie, że każda seria produktu leczniczego została poddana na terytorium Rzeczypospolitej Polskiej pełnej analizie jakościowej i ilościowej, co najmniej w odniesieniu do wszystkich substancji czynnych, oraz innym badaniom i czynnościom kontrolnym koniecznym do zapewnienia jakości produktów leczniczych zgodnie z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu.
+- **1)** produktu leczniczego wytworzonego na terytorium Rzeczypospolitej Polskiej – zapewnienie, że każda seria produktu leczniczego została wytworzona i skontrolowana zgodnie z przepisami prawa oraz z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu;
+- **2)** produktu leczniczego pochodzącego z importu, bez względu na to, czy produkt został wytworzony w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym – zapewnienie, że każda seria produktu leczniczego została poddana na terytorium Rzeczypospolitej Polskiej pełnej analizie jakościowej i ilościowej, co najmniej w odniesieniu do wszystkich substancji czynnych, oraz innym badaniom i czynnościom kontrolnym koniecznym do zapewnienia jakości produktów leczniczych zgodnie z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu.
 
-4. Serie produktów leczniczych, które przeszły kontrolę w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, są wyłączone z badań i czynności kontrolnych, o których mowa w ust. 3 pkt 2, jeżeli znajdują się w obrocie w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym i dołączono do nich certyfikat serii podpisany przez Osobę Wykwalifikowaną i certyfikat analityczny oraz, jeżeli dotyczy, raporty z kontroli obejmujące sprawozdanie z testów i czynności kontrolnych koniecznych do potwierdzenia jakości serii produktu leczniczego zgodnie z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu.
+4. Serie produktów leczniczych, które przeszły kontrolę w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, są wyłączone z badań i czynności kontrolnych, o których mowa w ust. 3 pkt 2, jeżeli znajdują się w obrocie w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i dołączono do nich certyfikat serii podpisany przez Osobę Wykwalifikowaną i certyfikat analityczny oraz, jeżeli dotyczy, raporty z kontroli obejmujące sprawozdanie z testów i czynności kontrolnych koniecznych do potwierdzenia jakości serii produktu leczniczego zgodnie z wymaganiami określonymi w pozwoleniu na dopuszczenie do obrotu.
 
-5. W przypadku produktów leczniczych przeznaczonych do wprowadzenia do obrotu w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym Osoba Wykwalifikowana zapewnia, że zabezpieczenia, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, zostały umieszczone na opakowaniu.
+5. W przypadku produktów leczniczych przeznaczonych do wprowadzenia do obrotu w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym Osoba Wykwalifikowana zapewnia, że zabezpieczenia, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, zostały umieszczone na opakowaniu.
 
 6. W przypadku produktów leczniczych importowanych z krajów trzecich Osoba Wykwalifikowana może odstąpić od przeprowadzenia ich analiz oraz innych badań i czynności kontrolnych, o których mowa w ust. 3 pkt 2, jeżeli zostały dokonane w kraju eksportującym, oraz po zweryfikowaniu u Głównego Inspektora Farmaceutycznego, czy kraj pochodzenia tego produktu znajduje się na liście krajów, z którymi Unia Europejska dokonała odpowiednich uzgodnień zapewniających, że wytwórca produktów leczniczych spełnia co najmniej takie wymagania Dobrej Praktyki Wytwarzania jak obowiązujące w Unii Europejskiej.
 
@@ -2250,11 +2757,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 51a.** Przepisy niniejszego rozdziału stosuje się również do:
 
+- **1)** produktów leczniczych przeznaczonych wyłącznie na eksport;
+- **2)** produktów leczniczych weterynaryjnych, z wyłączeniem przepisów art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 5;
+- **3)** częściowo przetworzonych materiałów, które muszą być poddane dalszym etapom wytwarzania (produkty pośrednie);
+- **4)** produktów, które przeszły wszystkie etapy produkcji, z wyjątkiem końcowego pakowania (produkty luzem);
+- **5)** badanych produktów leczniczych, z wyłączeniem przepisów art. 38a, art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 5;
+- **5a)** pomocniczych produktów leczniczych w rozumieniu art. 65 rozporządzenia 536/2014, z wyłączeniem przepisów art. 38a, art. 42 ust. 1 pkt 9 lit. b, pkt 10–13 i ust. 1a, art. 42a oraz art. 48 ust. 5;
+- **6)** surowców farmaceutycznych przeznaczonych do sporządzania leków recepturowych i aptecznych.
+
 #### Rozdział 3a Wytwarzanie, import i dystrybucja substancji czynnej
 
 **Art. 51b.**
 
-1. Podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców w zakresie wytwarzania, importu lub dystrybucji substancji czynnej wymaga uzyskania wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, o którym mowa w art. 51c ust. 1.
+1. Podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w zakresie wytwarzania, importu lub dystrybucji substancji czynnej wymaga uzyskania wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, o którym mowa w art. 51c ust. 1.
 
 2. Organem właściwym do dokonania wpisu, odmowy dokonania wpisu, zmiany wpisu lub wykreślenia z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych jest Główny Inspektor Farmaceutyczny.
 
@@ -2264,11 +2779,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Wniosek o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych zawiera następujące informacje:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o wpis, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o wpis, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **3)** adres prowadzenia działalności wytwórczej, importowej lub dystrybucyjnej substancji czynnej;
 - **4)** listę substancji czynnych, według nazw substancji czynnych w języku polskim i angielskim;
-- **5)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, oświadczam, że dane zawarte we wniosku o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych są zgodne z prawdą, a także znane mi są i spełniam wynikające z ustawy warunki wykonywania działalności gospodarczej w zakresie wytwarzania, importu oraz dystrybucji substancji czynnej, której dotyczy wniosek.”.
+- **5)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczam, że dane zawarte we wniosku o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych są zgodne z prawdą, a także znane mi są i spełniam wynikające z ustawy warunki wykonywania działalności gospodarczej w zakresie wytwarzania, importu oraz dystrybucji substancji czynnej, której dotyczy wniosek.”.
 
 6. Do wniosku o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych należy dołączyć Dokumentację Główną Miejsca Prowadzenia Działalności sporządzoną zgodnie z wymaganiami Dobrej Praktyki Wytwarzania.
 
@@ -2304,10 +2819,10 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 6. Wysokość opłaty za:
 
-- **1)** złożenie wniosku o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych wynosi 100 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
-- **2)** złożenie wniosku o zmianę w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
+- **1)** złożenie wniosku o wpis do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych – wynosi 100 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
+- **2)** złożenie wniosku o zmianę w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych – wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
 
-7. Krajowy Rejestr Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych stanowi rejestr działalności regulowanej, o którym mowa w art. 43 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+7. Krajowy Rejestr Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych stanowi rejestr działalności regulowanej, o którym mowa w art. 43 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 8. Główny Inspektor Farmaceutyczny wydaje z urzędu zaświadczenie o dokonaniu wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych.
 
@@ -2322,7 +2837,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Informacja o zmianach, o której mowa w ust. 1 pkt 1, jest przesyłana do Głównego Inspektora Farmaceutycznego w formie wniosku o dokonanie zmiany w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych.
 
-3. Jeżeli w wyniku otrzymania przez Głównego Inspektora Farmaceutycznego informacji, o których mowa w ust. 1 pkt 2, jest konieczna zmiana w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, Główny Inspektor Farmaceutyczny pobiera opłatę zgodnie z art. 51c ust. 5 w wysokości, o której mowa w art. 51c ust. 6 pkt 2. Art. 51da. 1. Główny Inspektor Farmaceutyczny wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+3. Jeżeli w wyniku otrzymania przez Głównego Inspektora Farmaceutycznego informacji, o których mowa w ust. 1 pkt 2, jest konieczna zmiana w Krajowym Rejestrze Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, Główny Inspektor Farmaceutyczny pobiera opłatę zgodnie z art. 51c ust. 5 w wysokości, o której mowa w art. 51c ust. 6 pkt 2.
+
+**Art. 51da.**
+
+1. Główny Inspektor Farmaceutyczny wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 51b ust. 5 pkt 5, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez Głównego Inspektora Farmaceutycznego terminie;
@@ -2332,7 +2851,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 Główny Inspektor Farmaceutyczny wzywa przedsiębiorcę do usunięcia naruszeń w wyznaczonym terminie.
 
-4. W przypadku wydania decyzji, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny z urzędu wykreśla przedsiębiorcę z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych. Art. 51db. 1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, może uzyskać ponowny wpis do tego rejestru w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51da ust. 1.
+4. W przypadku wydania decyzji, o której mowa w ust. 1, Główny Inspektor Farmaceutyczny z urzędu wykreśla przedsiębiorcę z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych.
+
+**Art. 51db.**
+
+1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych, może uzyskać ponowny wpis do tego rejestru w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 51da ust. 1.
 
 2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych. Nie dotyczy to sytuacji, gdy przedsiębiorca podjął działalność gospodarczą po upływie 60 dni od dnia złożenia wniosku, o którym mowa w art. 51b ust. 5, a w okresie tym Główny Inspektor Farmaceutyczny nie poinformował go o konieczności przeprowadzenia inspekcji.
 
@@ -2353,7 +2876,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1. Potwierdzenie, o którym mowa w art. 51e ust. 1 pkt 2, nie jest wymagane, gdy:
 
 - **1)** importer substancji czynnej dokonuje importu substancji czynnej z kraju trzeciego, który znajduje się w wykazie, o którym mowa w art. 111b ust. 1 dyrektywy 2001/83/WE;
-- **2)** z wyjątkowych przyczyn wystąpiła konieczność zapewnienia dostępności produktu leczniczego, który zawiera importowaną substancję czynną, a w miejscu wytwarzania tej substancji czynnej została przeprowadzona inspekcja przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo państwa, które zawarło porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stroną umowy o Europejskim Obszarze Gospodarczym, potwierdzająca, że wytwórca spełnia wymagania Dobrej Praktyki Wytwarzania; czas, przez który potwierdzenie nie jest wymagane nie może być dłuższy niż czas ważności certyfikatu potwierdzającego spełnianie wymagań Dobrej Praktyki Wytwarzania.
+- **2)** z wyjątkowych przyczyn wystąpiła konieczność zapewnienia dostępności produktu leczniczego, który zawiera importowaną substancję czynną, a w miejscu wytwarzania tej substancji czynnej została przeprowadzona inspekcja przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo państwa, które zawarło porozumienie o wzajemnym uznawaniu inspekcji z państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym, potwierdzająca, że wytwórca spełnia wymagania Dobrej Praktyki Wytwarzania; czas, przez który potwierdzenie nie jest wymagane nie może być dłuższy niż czas ważności certyfikatu potwierdzającego spełnianie wymagań Dobrej Praktyki Wytwarzania.
 
 2. Główny Inspektor Farmaceutyczny w przypadku zagrożenia życia lub zdrowia wydaje zgodę na import substancji czynnej bez potwierdzenia, o którym mowa w art. 51e ust. 1 pkt 2, po stwierdzeniu zaistnienia okoliczności, o których mowa w ust. 1 pkt 2.
 
@@ -2376,11 +2899,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 5. W przypadku powzięcia uzasadnionego podejrzenia o uchybieniach powodujących zagrożenie dla bezpieczeństwa lub jakości substancji czynnych Główny Inspektor Farmaceutyczny może zarządzić doraźną inspekcję u:
 
 - **1)** wytwórcy substancji czynnej lub
-- **2)** dystrybutora substancji czynnej prowadzącego działalność w kraju trzecim.
+- **2)** dystrybutora substancji czynnej – prowadzącego działalność w kraju trzecim.
 
 6. W przypadku powzięcia uzasadnionego podejrzenia o uchybieniach powodujących zagrożenie dla bezpieczeństwa lub jakości substancji pomocniczych Główny Inspektor Farmaceutyczny zarządza doraźną inspekcję u wytwórcy lub importera substancji pomocniczych.
 
-7. Inspekcje, o których mowa w ust. 1 i 4–6, Główny Inspektor Farmaceutyczny zarządza również na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej.
+7. Inspekcje, o których mowa w ust. 1 i 4–6, Główny Inspektor Farmaceutyczny zarządza również na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej.
 
 8. Na podstawie ustaleń inspekcji, o których mowa w ust. 1 i 4–6, w celu ochrony ludzi oraz w celu zapewnienia, że substancje czynne lub substancje pomocnicze będą wytwarzane zgodnie z ustawą, Główny Inspektor Farmaceutyczny może:
 
@@ -2398,11 +2921,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 9. Główny Inspektor Farmaceutyczny powiadamia Prezesa Urzędu o podjęciu decyzji, o której mowa w ust. 8 pkt 1 lit. b i c oraz pkt 2 lit. b.
 
-10. Główny Inspektor Farmaceutyczny, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej, może przeprowadzić odpowiednio inspekcję warunków wytwarzania lub inspekcję warunków dystrybucji u wytwórcy, importera lub dystrybutora substancji czynnej, lub wytwórcy substancji pomocniczych prowadzących odpowiednio działalność na terytorium Rzeczypospolitej Polskiej lub w kraju trzecim.
+10. Główny Inspektor Farmaceutyczny, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Leków lub Komisji Europejskiej, może przeprowadzić odpowiednio inspekcję warunków wytwarzania lub inspekcję warunków dystrybucji u wytwórcy, importera lub dystrybutora substancji czynnej, lub wytwórcy substancji pomocniczych prowadzących odpowiednio działalność na terytorium Rzeczypospolitej Polskiej lub w kraju trzecim.
 
 **Art. 51h.**
 
-1. Główny Inspektor Farmaceutyczny może, na wniosek Komisji Europejskiej, wyznaczyć inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, który przeprowadzi w imieniu Komisji Europejskiej ocenę równoważności przepisów, środków kontrolnych i wykonawczych kraju trzeciego, stosowanych wobec substancji czynnej importowanej na obszar Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym z przepisami Unii Europejskiej dotyczącymi zapewnienia ochrony zdrowia publicznego.
+1. Główny Inspektor Farmaceutyczny może, na wniosek Komisji Europejskiej, wyznaczyć inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, który przeprowadzi w imieniu Komisji Europejskiej ocenę równoważności przepisów, środków kontrolnych i wykonawczych kraju trzeciego, stosowanych wobec substancji czynnej importowanej na obszar Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym z przepisami Unii Europejskiej dotyczącymi zapewnienia ochrony zdrowia publicznego.
 
 2. Ocena, o której mowa w ust. 1, uwzględnia:
 
@@ -2437,10 +2960,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Koszty przeprowadzenia inspekcji, o których mowa w art. 51i ust. 1–3, obejmują koszty podróży, pobytu i czasu pracy oraz wszystkich czynności związanych z przeprowadzeniem inspekcji przez inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego. Koszty czynności jednego inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego nie mogą przekroczyć:
 
-- **1)** 6000 zł za każdy dzień inspekcji przeprowadzanej na terytorium Rzeczypospolitej Polskiej;
-- **2)** 12 000 zł za każdy dzień inspekcji przeprowadzanej poza terytorium Rzeczypospolitej Polskiej.
+- **1)** 6000 zł – za każdy dzień inspekcji przeprowadzanej na terytorium Rzeczypospolitej Polskiej;
+- **2)** 12 000 zł – za każdy dzień inspekcji przeprowadzanej poza terytorium Rzeczypospolitej Polskiej.
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzania inspekcji, o których mowa w art. 51i ust. 1–3, kierując się nakładem pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny. Art. 51ja. 1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca substancji czynnej lub wytwórca substancji pomocniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
+4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzania inspekcji, o których mowa w art. 51i ust. 1–3, kierując się nakładem pracy związanej z wykonywaniem danej czynności i poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny.
+
+**Art. 51ja.**
+
+1. W przypadku otrzymania informacji od właściwego organu państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub od właściwego organu z kraju trzeciego mającego równoważne z Unią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji, że wytwórca substancji czynnej lub wytwórca substancji pomocniczych nie spełnia wymagań Dobrej Praktyki Wytwarzania, Główny Inspektor Farmaceutyczny cofa wydany dla tego wytwórcy certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania.
 
 2. W przypadku cofnięcia wydanego certyfikatu potwierdzającego spełnianie wymagań Dobrej Praktyki Wytwarzania Główny Inspektor Farmaceutyczny niezwłocznie usuwa wydany certyfikat potwierdzający spełnianie wymagań Dobrej Praktyki Wytwarzania z europejskiej bazy danych EudraGMDP.
 
@@ -2448,17 +2975,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 51k.**
 
-1. Podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców w zakresie wytwarzania substancji czynnej, która ma zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe, wymaga uzyskania wpisu do rejestru wytwórców substancji czynnych mających zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe, zwanego dalej „rejestrem wytwórców substancji czynnych”.
+1. Podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w zakresie wytwarzania substancji czynnej, która ma zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe, wymaga uzyskania wpisu do rejestru wytwórców substancji czynnych mających zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe, zwanego dalej „rejestrem wytwórców substancji czynnych”.
 
 2. Rejestr wytwórców substancji czynnych prowadzi Prezes Urzędu.
 
 3. Rejestr wytwórców substancji czynnych obejmuje:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o wpis, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu ubiegającego się o wpis, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** adres miejsca prowadzenia działalności gospodarczej w zakresie wytwarzania substancji czynnej związanej z wytwarzaniem substancji czynnej o właściwościach anabolicznych, przeciwzakaźnych, przeciwpasożytniczych, przeciwzapalnych, hormonalnych lub psychotropowych;
 - **3)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **4)** zakres prowadzonej działalności w odniesieniu do wytwarzania substancji czynnej;
-- **5)** nazwę handlową i nazwę powszechnie stosowaną substancji czynnej w języku łacińskim i angielskim, a w przypadku braku nazwy powszechnie stosowanej jedną z nazw: według Farmakopei Europejskiej, Farmakopei Polskiej, nazwę potoczną albo nazwę naukową.
+- **5)** nazwę handlową i nazwę powszechnie stosowaną substancji czynnej w języku łacińskim i angielskim, a w przypadku braku nazwy powszechnie stosowanej – jedną z nazw: według Farmakopei Europejskiej, Farmakopei Polskiej, nazwę potoczną albo nazwę naukową.
 
 4. Przedsiębiorca prowadzący działalność w zakresie wytwarzania substancji czynnej, o której mowa w ust. 1, jest obowiązany wystąpić z wnioskiem o dokonanie zmiany w rejestrze wytwórców substancji czynnych albo o skreślenie z tego rejestru.
 
@@ -2472,9 +2999,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 9. Wysokość opłaty, o której mowa w ust. 7, za:
 
-- **1)** wpis do rejestru wytwórców substancji czynnych wynosi 100 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
-- **2)** zmianę w rejestrze wytwórców substancji czynnych wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
-- **3)** skreślenie z rejestru wytwórców substancji czynnych wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
+- **1)** wpis do rejestru wytwórców substancji czynnych – wynosi 100 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
+- **2)** zmianę w rejestrze wytwórców substancji czynnych – wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę;
+- **3)** skreślenie z rejestru wytwórców substancji czynnych – wynosi 20 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
 
 10. Przedsiębiorcy wpisani do rejestru wytwórców substancji czynnych są obowiązani do przechowywania przez okres 3 lat dokumentów, w szczególności faktur, rachunków i umów, dotyczących obrotu substancją czynną, o której mowa w ust. 1.
 
@@ -2483,9 +3010,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** sposób prowadzenia rejestru wytwórców substancji czynnych,
 - **2)** tryb postępowania przy dokonywaniu wpisów do rejestru wytwórców substancji czynnych, zmian w rejestrze i skreśleń z rejestru, a także tryb udostępniania informacji zawartych w rejestrze,
 - **3)** wzór wniosku o dokonanie wpisu do rejestru wytwórców substancji czynnych, zmiany w rejestrze lub skreślenia z rejestru,
-- **4)** sposób uiszczania opłat, o których mowa w ust. 7 uwzględniając rodzaj prowadzonej działalności gospodarczej, substancje czynne, których dotyczy prowadzona działalność, oraz konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji.
+- **4)** sposób uiszczania opłat, o których mowa w ust. 7 – uwzględniając rodzaj prowadzonej działalności gospodarczej, substancje czynne, których dotyczy prowadzona działalność, oraz konieczność ułatwienia dokonywania rozliczeń z Urzędem Rejestracji.
 
 **Art. 51l.** Przepisów niniejszego rozdziału nie stosuje się do:
+
+- **1)** (uchylony)
+- **2)** substancji czynnej przeznaczonej wyłącznie do wytwarzania badanych produktów leczniczych, z wyłączeniem art. 51g ust. 4 pkt 1 i ust. 7, art. 51i ust. 1, ust. 4–7, oraz art. 51j;
+- **3)** substancji pomocniczych przeznaczonych wyłącznie do wytwarzania badanych produktów leczniczych weterynaryjnych.
 
 **Art. 51m.** Przepisy niniejszego rozdziału, z wyłączeniem art. 51b ust. 13 pkt 2, art. 51e i art. 51h, stosuje się również do substancji czynnej przeznaczonej do wytwarzania produktów leczniczych weterynaryjnych.
 
@@ -2509,7 +3040,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** informacji umieszczonych na opakowaniach oraz załączonych do opakowań produktów leczniczych, zgodnych z pozwoleniem na dopuszczenie do obrotu;
 - **2)** korespondencji, której towarzyszą materiały informacyjne o charakterze niepromocyjnym niezbędne do udzielenia odpowiedzi na pytania dotyczące konkretnego produktu leczniczego, w tym produktu leczniczego dopuszczonego do obrotu bez konieczności uzyskania pozwolenia, o którym mowa w art. 4;
 - **3)** ogłoszeń o charakterze informacyjnym niekierowanych do publicznej wiadomości dotyczących w szczególności zmiany opakowania, ostrzeżeń o działaniach niepożądanych, pod warunkiem że nie zawierają treści odnoszących się do właściwości produktów leczniczych;
-- **4)** katalogów handlowych lub list cenowych, zawierających wyłącznie nazwę własną, nazwę powszechnie stosowaną, dawkę, postać i cenę produktu leczniczego, w tym produktu leczniczego dopuszczonego do obrotu bez konieczności uzyskania pozwolenia, o którym mowa w art. 4, a w przypadku produktu leczniczego objętego refundacją cenę urzędową detaliczną, pod warunkiem że nie zawierają treści odnoszących się do właściwości produktów leczniczych, w tym do wskazań terapeutycznych;
+- **4)** katalogów handlowych lub list cenowych, zawierających wyłącznie nazwę własną, nazwę powszechnie stosowaną, dawkę, postać i cenę produktu leczniczego, w tym produktu leczniczego dopuszczonego do obrotu bez konieczności uzyskania pozwolenia, o którym mowa w art. 4, a w przypadku produktu leczniczego objętego refundacją – cenę urzędową detaliczną, pod warunkiem że nie zawierają treści odnoszących się do właściwości produktów leczniczych, w tym do wskazań terapeutycznych;
 - **5)** informacji dotyczących zdrowia lub chorób ludzi i zwierząt, pod warunkiem że nie odnoszą się nawet pośrednio do produktów leczniczych.
 - **6)** (uchylony)
 
@@ -2527,7 +3058,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 54.**
 
-1. Reklama produktu leczniczego kierowana do osób uprawnionych do wystawiania recept lub osób prowadzących obrót produktami leczniczymi powinna zawierać informacje zgodne z Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego i informację o przyznanej kategorii dostępności, a w przypadku produktów leczniczych umieszczonych na wykazach leków refundowanych również informację o cenie urzędowej detalicznej i maksymalnej kwocie dopłaty ponoszonej przez pacjenta.
+1. Reklama produktu leczniczego kierowana do osób uprawnionych do wystawiania recept lub osób prowadzących obrót produktami leczniczymi powinna zawierać informacje zgodne z Charakterystyką Produktu Leczniczego albo Charakterystyką Produktu Leczniczego Weterynaryjnego i informację o przyznanej kategorii dostępności, a w przypadku produktów leczniczych umieszczonych na wykazach leków refundowanych – również informację o cenie urzędowej detalicznej i maksymalnej kwocie dopłaty ponoszonej przez pacjenta.
 
 2. Dokumentacja przekazywana osobom, o których mowa w ust. 1, powinna zawierać informacje rzetelne, aktualne, sprawdzalne i na tyle kompletne, aby umożliwić odbiorcy dokonanie własnej oceny wartości terapeutycznej produktu leczniczego, oraz informację o dacie jej sporządzenia lub ostatniej aktualizacji. Cytaty, tabele i inne ilustracje pochodzące z piśmiennictwa naukowego lub innych prac naukowych powinny być wiernie odtworzone oraz zawierać wskazanie źródła.
 
@@ -2536,7 +3067,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** osoba upoważniona do wystawiania recept wystąpiła w formie pisemnej lub dokumentowej do przedstawiciela handlowego lub medycznego o dostarczenie próbki produktu leczniczego;
 - **2)** osoba dostarczająca próbkę prowadzi ewidencję dostarczanych próbek;
 - **3)** każda dostarczana próbka nie jest większa niż jedno najmniejsze opakowanie produktu leczniczego dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej;
-- **4)** każda dostarczana próbka jest opatrzona napisem „próbka bezpłatna nie do sprzedaży”;
+- **4)** każda dostarczana próbka jest opatrzona napisem „próbka bezpłatna – nie do sprzedaży”;
 - **5)** do każdej dostarczanej próbki dołączona jest Charakterystyka Produktu Leczniczego albo Charakterystyka Produktu Leczniczego Weterynaryjnego;
 - **6)** ilość próbek tego samego produktu leczniczego dostarczanych tej samej osobie nie przekracza pięciu opakowań w ciągu roku.
 
@@ -2568,6 +3099,10 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 56.** Zabrania się reklamy produktów leczniczych:
 
+- **1)** niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej;
+- **1a)** dopuszczonych do obrotu bez konieczności uzyskania pozwolenia, o których mowa w art. 4;
+- **2)** zawierającej informacje niezgodne z Charakterystyką Produktu Leczniczego albo z Charakterystyką Produktu Leczniczego Weterynaryjnego.
+
 **Art. 57.**
 
 1. Zabrania się kierowania do publicznej wiadomości reklamy dotyczącej produktów leczniczych:
@@ -2589,6 +3124,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 3. Przepisy ust. 1 i 2 nie dotyczą dawania lub przyjmowania przedmiotów o wartości materialnej nieprzekraczającej kwoty 100 złotych, związanych z praktyką medyczną lub farmaceutyczną, opatrzonych znakiem reklamującym daną firmę lub produkt leczniczy.
 
 **Art. 59.** Minister właściwy do spraw zdrowia, a w odniesieniu do produktów leczniczych weterynaryjnych w porozumieniu z ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia:
+
+- **1)** warunki i formy reklamy produktów leczniczych kierowanej do publicznej wiadomości, do osób uprawnionych do wystawiania recept i osób prowadzących obrót produktami leczniczymi,
+- **2)** niezbędne dane, jakie reklama ma zawierać,
+- **3)** sposób przekazywania reklamy,
+- **4)** dokumentację będącą podstawą do wprowadzenia na terytorium Rzeczypospolitej Polskiej próbek produktów leczniczych przeznaczonych do dostarczania w ramach reklamy – uwzględniając w szczególności obowiązek obiektywnej prezentacji produktu leczniczego oraz bezpieczeństwo jego stosowania.
 
 **Art. 60.**
 
@@ -2612,7 +3152,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Podmiot odpowiedzialny zapewni system szkolenia swoich przedstawicieli medycznych.
 
-3. W trakcie wykonywania czynności opisanej w art. 52 ust. 2 pkt 3 przedstawiciel medyczny lub handlowy jest obowiązany przekazać lub udostępnić Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego, a w przypadku produktów leczniczych umieszczonych na wykazach leków refundowanych również informację o cenie urzędowej detalicznej i maksymalnej kwocie dopłaty ponoszonej przez pacjenta.
+3. W trakcie wykonywania czynności opisanej w art. 52 ust. 2 pkt 3 przedstawiciel medyczny lub handlowy jest obowiązany przekazać lub udostępnić Charakterystykę Produktu Leczniczego albo Charakterystykę Produktu Leczniczego Weterynaryjnego, a w przypadku produktów leczniczych umieszczonych na wykazach leków refundowanych – również informację o cenie urzędowej detalicznej i maksymalnej kwocie dopłaty ponoszonej przez pacjenta.
 
 **Art. 62.**
 
@@ -2627,6 +3167,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 3. Decyzje, o których mowa w ust. 2 pkt 1 i 3, mają rygor natychmiastowej wykonalności.
 
 **Art. 63.** Podmiot odpowiedzialny obowiązany jest na żądanie organów Inspekcji Farmaceutycznej udostępnić:
+
+- **1)** wzór każdej reklamy skierowanej do publicznej wiadomości, wraz z informacją o sposobie i dacie jej rozpowszechnienia;
+- **2)** informację o każdej reklamie skierowanej do osób upoważnionych do wystawiania recept oraz osób prowadzących zaopatrzenie w produkty lecznicze.
 
 **Art. 64.** Przepisy art. 62 i 63 nie naruszają ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
 
@@ -2660,7 +3203,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 6. Główny Inspektor Farmaceutyczny może zażądać od wytwórcy immunologicznego produktu leczniczego przedstawienia świadectw kontroli jakości każdej serii poświadczonych przez Osobę Wykwalifikowaną.
 
-7. Instytuty badawcze upoważnione do prowadzenia kontroli seryjnej wstępnej zwalniają z kontroli seryjnej wstępnej daną serię produktu leczniczego, o którym mowa w ust. 4 pkt 1–3, jeżeli została ona poddana takim badaniom przez właściwe organy w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym i jeżeli został przedstawiony dokument potwierdzający wykonanie takich badań.
+7. Instytuty badawcze upoważnione do prowadzenia kontroli seryjnej wstępnej zwalniają z kontroli seryjnej wstępnej daną serię produktu leczniczego, o którym mowa w ust. 4 pkt 1–3, jeżeli została ona poddana takim badaniom przez właściwe organy w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i jeżeli został przedstawiony dokument potwierdzający wykonanie takich badań.
 
 8. (uchylony)
 
@@ -2668,9 +3211,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 10. Minister właściwy do spraw zdrowia, a w odniesieniu do produktów leczniczych weterynaryjnych w porozumieniu z ministrem właściwym do spraw rolnictwa, określa, w drodze rozporządzenia:
 
-- **1)** warunki i tryb przeprowadzania kontroli seryjnej wstępnej uwzględniając w szczególności liczbę próbek pobieranych do badań, wskazanie dokumentów niezbędnych do zgłoszenia kontroli seryjnej, sposób przekazania prób do badań;
-- **2)** instytuty badawcze oraz laboratoria kontroli jakości leków, w zakresie badań produktów leczniczych określonych w ust. 4 pkt 1–3 i ust. 7 uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
-- **2a)** laboratoria kontroli jakości leków specjalizujące się w badaniach produktów, o których mowa w ust. 4 pkt 4 uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+- **1)** warunki i tryb przeprowadzania kontroli seryjnej wstępnej – uwzględniając w szczególności liczbę próbek pobieranych do badań, wskazanie dokumentów niezbędnych do zgłoszenia kontroli seryjnej, sposób przekazania prób do badań;
+- **2)** instytuty badawcze oraz laboratoria kontroli jakości leków, w zakresie badań produktów leczniczych określonych w ust. 4 pkt 1–3 i ust. 7 – uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+- **2a)** laboratoria kontroli jakości leków specjalizujące się w badaniach produktów, o których mowa w ust. 4 pkt 4 – uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
 - **3)** wzór orzeczenia wydawanego przez jednostki, o których mowa w pkt 2.
 
 **Art. 66.** Produkty lecznicze mogą znajdować się w obrocie w ustalonym dla nich terminie ważności.
@@ -2681,7 +3224,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Produkty lecznicze, o których mowa w ust. 1, podlegają zniszczeniu, z zastrzeżeniem art. 122 ust. 1 pkt 2.
 
-3. Koszt zniszczenia produktu leczniczego, który nie spełnia wymagań jakościowych, ponosi podmiot wskazany w decyzji wydanej na podstawie art. 122, a w odniesieniu do produktów leczniczych, dla których upłynął termin ważności podmiot, u którego powstała przyczyna konieczności wycofania produktu leczniczego z obrotu.
+3. Koszt zniszczenia produktu leczniczego, który nie spełnia wymagań jakościowych, ponosi podmiot wskazany w decyzji wydanej na podstawie art. 122, a w odniesieniu do produktów leczniczych, dla których upłynął termin ważności – podmiot, u którego powstała przyczyna konieczności wycofania produktu leczniczego z obrotu.
 
 **Art. 68.**
 
@@ -2697,7 +3240,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3b. Informacje na temat aptek ogólnodostępnych i punktów aptecznych, prowadzących wysyłkową sprzedaż produktów leczniczych, są umieszczane w Krajowym Rejestrze Zezwoleń Na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestrze Udzielonych Zezwoleń na Prowadzenie Aptek Szpitalnych i Zakładowych, o którym mowa w art. 107 ust. 5, i obejmują:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie na prowadzenie apteki ogólnodostępnej albo punktu aptecznego, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie na prowadzenie apteki ogólnodostępnej albo punktu aptecznego, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** adres prowadzenia apteki ogólnodostępnej albo punktu aptecznego;
 - **3)** nazwę apteki ogólnodostępnej albo punktu aptecznego, jeżeli taka jest nadana;
 - **4)** adres strony internetowej, za pomocą której apteka ogólnodostępna albo punkt apteczny prowadzą sprzedaż wysyłkową produktów leczniczych;
@@ -2786,7 +3329,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 5a. Do warunków przechowywania i wydawania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych w punktach aptecznych stosuje się przepisy:
 
 - **1)** art. 90, art. 91 i art. 96;
-- **2)** art. 95 w zakresie produktów leczniczych określonych w przepisach wydanych na podstawie art. 71 ust. 3 pkt 2.
+- **2)** art. 95 – w zakresie produktów leczniczych określonych w przepisach wydanych na podstawie art. 71 ust. 3 pkt 2.
 
 6. Za udzielenie zezwolenia na prowadzenie punktu aptecznego oraz za zmianę zezwolenia na prowadzenie punktu aptecznego są pobierane opłaty, które stanowią dochód budżetu państwa.
 
@@ -2798,7 +3341,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** sklepy zielarsko-medyczne,
 - **2)** sklepy specjalistyczne zaopatrzenia medycznego,
-- **3)** sklepy ogólnodostępne zwane dalej „placówkami obrotu pozaaptecznego”.
+- **3)** sklepy ogólnodostępne – zwane dalej „placówkami obrotu pozaaptecznego”.
 
 1a. Poza zakładami leczniczymi dla zwierząt przedsiębiorcy mogą prowadzić obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza po zgłoszeniu wojewódzkiemu lekarzowi weterynarii na 7 dni przed rozpoczęciem działalności.
 
@@ -2809,19 +3352,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** kryteria klasyfikacji produktów leczniczych do wykazów, o których mowa w pkt 2,
 - **2)** wykazy produktów leczniczych, które mogą być dopuszczone do obrotu w placówkach obrotu pozaaptecznego oraz punktach aptecznych,
 - **3)** kwalifikacje osób wydających produkty lecznicze w placówkach obrotu pozaaptecznego,
-- **4)** wymagania, jakim powinien odpowiadać lokal i wyposażenie placówek obrotu pozaaptecznego i punktu aptecznego, o którym mowa w art. 70 uwzględniając bezpieczeństwo stosowania produktów leczniczych oraz wymagania dotyczące przechowywania i dystrybucji produktów leczniczych w tych placówkach.
+- **4)** wymagania, jakim powinien odpowiadać lokal i wyposażenie placówek obrotu pozaaptecznego i punktu aptecznego, o którym mowa w art. 70 – uwzględniając bezpieczeństwo stosowania produktów leczniczych oraz wymagania dotyczące przechowywania i dystrybucji produktów leczniczych w tych placówkach.
 
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** kryteria klasyfikacji produktów leczniczych weterynaryjnych do wykazu, o którym mowa w pkt 2,
 - **2)** wykaz produktów leczniczych weterynaryjnych, które mogą być przedmiotem obrotu przez podmioty, o których mowa w ust. 1a,
-- **3)** warunki, jakie powinny spełniać podmioty, o których mowa w ust. 1a mając na względzie zapewnienie bezpieczeństwa obrotu detalicznego produktami leczniczymi weterynaryjnymi oraz uwarunkowania higieniczno-sanitarne, a w szczególności zapewnienie należytego oddzielenia tych produktów od pozostałego asortymentu oraz zapewnienie właściwego przechowywania.
+- **3)** warunki, jakie powinny spełniać podmioty, o których mowa w ust. 1a – mając na względzie zapewnienie bezpieczeństwa obrotu detalicznego produktami leczniczymi weterynaryjnymi oraz uwarunkowania higieniczno-sanitarne, a w szczególności zapewnienie należytego oddzielenia tych produktów od pozostałego asortymentu oraz zapewnienie właściwego przechowywania.
 
 5. Wykazy, o których mowa w ust. 3 pkt 2 i w ust. 4 pkt 2, aktualizuje się co 12 miesięcy.
 
 **Art. 71a.**
 
-1. Obrót detaliczny produktami leczniczymi zawierającymi w składzie substancje o działaniu psychoaktywnym, określone w przepisach wydanych na podstawie ust. 5, posiadającymi kategorię dostępności „wydawane bez przepisu lekarza OTC”, mogą prowadzić wyłącznie apteki ogólnodostępne i punkty apteczne.
+1. Obrót detaliczny produktami leczniczymi zawierającymi w składzie substancje o działaniu psychoaktywnym, określone w przepisach wydanych na podstawie ust. 5, posiadającymi kategorię dostępności „wydawane bez przepisu lekarza – OTC”, mogą prowadzić wyłącznie apteki ogólnodostępne i punkty apteczne.
 
 2. Wydawanie z aptek ogólnodostępnych i punktów aptecznych produktów leczniczych, o których mowa w ust. 1, w ramach jednorazowej sprzedaży, podlega ograniczeniu ze względu na maksymalny poziom zawartości w nich określonej substancji o działaniu psychoaktywnym niezbędny do przeprowadzenia skutecznej terapii w dopuszczalnym okresie bezpiecznego leczenia dla jednej osoby, z wyłączeniem produktów leczniczych wydawanych z przepisu lekarza.
 
@@ -2837,14 +3380,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. (uchylony)
 
-3. Obrotem hurtowym jest wszelkie działanie polegające na zaopatrywaniu się, przechowywaniu, dostarczaniu lub eksportowaniu produktów leczniczych lub produktów leczniczych weterynaryjnych, będących własnością podmiotu dokonującego tych czynności albo innego uprawnionego podmiotu, posiadających pozwolenie na dopuszczenie do obrotu wydane w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym lub pozwolenie, o którym mowa w art. 3 ust. 2, prowadzone z wytwórcami lub importerami w zakresie wytwarzanych lub importowanych przez nich produktów leczniczych, lub z przedsiębiorcami zajmującymi się obrotem hurtowym, lub z aptekami lub zakładami leczniczymi dla zwierząt, lub z innymi upoważnionymi podmiotami, z wyłączeniem bezpośredniego zaopatrywania ludności.
+3. Obrotem hurtowym jest wszelkie działanie polegające na zaopatrywaniu się, przechowywaniu, dostarczaniu lub eksportowaniu produktów leczniczych lub produktów leczniczych weterynaryjnych, będących własnością podmiotu dokonującego tych czynności albo innego uprawnionego podmiotu, posiadających pozwolenie na dopuszczenie do obrotu wydane w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub pozwolenie, o którym mowa w art. 3 ust. 2, prowadzone z wytwórcami lub importerami w zakresie wytwarzanych lub importowanych przez nich produktów leczniczych, lub z przedsiębiorcami zajmującymi się obrotem hurtowym, lub z aptekami lub zakładami leczniczymi dla zwierząt, lub z innymi upoważnionymi podmiotami, z wyłączeniem bezpośredniego zaopatrywania ludności.
 
 3a. Wprowadzenie do obrotu hurtowego na terytorium Rzeczypospolitej Polskiej produktu leczniczego wymaga uprzednio powiadomienia:
 
 - **1)** podmiotu odpowiedzialnego o zamiarze przywozu produktu leczniczego;
 - **2)** Prezesa Urzędu.
 
-4. Obrotem hurtowym w rozumieniu ust. 3 jest wywóz produktów leczniczych z terytorium Rzeczypospolitej Polskiej oraz przywóz produktów leczniczych z terytorium państw członkowskich Unii Europejskiej lub Państw Członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+4. Obrotem hurtowym w rozumieniu ust. 3 jest wywóz produktów leczniczych z terytorium Rzeczypospolitej Polskiej oraz przywóz produktów leczniczych z terytorium państw członkowskich Unii Europejskiej lub Państw Członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 5. Hurtownie farmaceutyczne mogą również prowadzić obrót hurtowy:
 
@@ -2855,7 +3398,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **5)** przedmiotami do pielęgnacji niemowląt i chorych,
 - **6)** środkami spożywczymi zawierającymi w swoim składzie farmakopealne naturalne składniki pochodzenia roślinnego,
 - **7)** środkami dezynfekcyjnymi stosowanymi w medycynie,
-- **8)** produktami biobójczymi służącymi do utrzymywania higieny człowieka oraz repelentami lub atraktantami służącymi w sposób bezpośredni lub pośredni do utrzymywania higieny człowieka spełniającymi wymagania określone w odrębnych przepisach.
+- **8)** produktami biobójczymi służącymi do utrzymywania higieny człowieka oraz repelentami lub atraktantami służącymi w sposób bezpośredni lub pośredni do utrzymywania higieny człowieka – spełniającymi wymagania określone w odrębnych przepisach.
 
 6. Hurtownie farmaceutyczne mogą prowadzić obrót hurtowy środkami zaopatrzenia technicznego przydatnymi w pracy szpitali, aptek oraz placówek, o których mowa w art. 70 i 71.
 
@@ -2872,7 +3415,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 8. Nie stanowi obrotu hurtowego:
 
 - **1)** (uchylony)
-- **2)** przyjmowanie i wydawanie, w tym przywóz z zagranicy i wywóz za granicę produktów leczniczych i wyrobów medycznych przeznaczonych na pomoc humanitarną, z wyłączeniem środków odurzających i substancji psychotropowych oraz zawierających prekursory kategorii 1, jeżeli odbiorca wyrazi zgodę na ich przyjęcie pod warunkiem że produkty te będą spełniać wymagania określone odrębnymi przepisami;
+- **2)** przyjmowanie i wydawanie, w tym przywóz z zagranicy i wywóz za granicę produktów leczniczych i wyrobów medycznych przeznaczonych na pomoc humanitarną, z wyłączeniem środków odurzających i substancji psychotropowych oraz zawierających prekursory kategorii 1, jeżeli odbiorca wyrazi zgodę na ich przyjęcie – pod warunkiem że produkty te będą spełniać wymagania określone odrębnymi przepisami;
 - **3)** przyjmowanie, przechowywanie i wydawanie przez stacje sanitarno-epidemiologiczne szczepionek zakupionych w ramach Programu Szczepień Ochronnych;
 - **4)** sprzedaż przez naczelników urzędów skarbowych towarów w przypadkach, o których mowa w art. 37azd ust. 1 pkt 1;
 - **5)** przyjmowanie, przechowywanie i wydawanie produktów leczniczych i wyrobów medycznych przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej, Szefowi Służby Kontrwywiadu Wojskowego lub Szefowi Służby Wywiadu Wojskowego.
@@ -2886,7 +3429,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** produktami leczniczymi,
 - **2)** środkami spożywczymi specjalnego przeznaczenia żywieniowego lub wyrobami medycznymi, dla których wydano decyzję o objęciu refundacją i ustaleniu urzędowej ceny zbytu,
 - **3)** produktami leczniczymi sprowadzanymi w trybie art. 4,
-- **4)** środkami spożywczymi specjalnego przeznaczenia żywieniowego sprowadzonymi w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424) dopuszczonymi do obrotu na terytorium Rzeczypospolitej Polskiej.
+- **4)** środkami spożywczymi specjalnego przeznaczenia żywieniowego sprowadzonymi w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424) – dopuszczonymi do obrotu na terytorium Rzeczypospolitej Polskiej.
 
 2. Zakres przekazywanych i przetwarzanych danych obejmuje:
 
@@ -2925,9 +3468,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Za wpis do rejestru, o którym mowa w ust. 2, Główny Inspektor Farmaceutyczny pobiera opłatę w wysokości 50 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, która stanowi dochód budżetu państwa.
 
-6. Krajowy Rejestr Pośredników w Obrocie Produktami Leczniczymi stanowi rejestr działalności regulowanej, o którym mowa w art. 43 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+6. Krajowy Rejestr Pośredników w Obrocie Produktami Leczniczymi stanowi rejestr działalności regulowanej, o którym mowa w art. 43 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-7. Na terytorium Rzeczypospolitej Polskiej pośrednikiem w obrocie produktami leczniczymi może być także pośrednik w obrocie produktami leczniczymi zarejestrowany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.
+7. Na terytorium Rzeczypospolitej Polskiej pośrednikiem w obrocie produktami leczniczymi może być także pośrednik w obrocie produktami leczniczymi zarejestrowany przez właściwy organ państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 8. Zakazane jest prowadzenie pośrednictwa w obrocie środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1.
 
@@ -2941,17 +3484,21 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Przedsiębiorca zamierzający wykonywać działalność gospodarczą w zakresie pośrednictwa w obrocie produktami leczniczymi, z wyłączeniem przedsiębiorcy, o którym mowa w art. 73a ust. 7, składa do Głównego Inspektora Farmaceutycznego wniosek o wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi zawierający:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę przedsiębiorcy, z tym że w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę przedsiębiorcy, z tym że w przypadku gdy przedsiębiorcą jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **3)** miejsce wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi;
 - **4)** określenie rodzajów i kategorii dostępności produktów leczniczych mających stanowić przedmiot pośrednictwa;
 - **5)** datę podjęcia zamierzonej działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi;
 - **6)** datę sporządzenia wniosku i podpis wnioskodawcy;
-- **7)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że:
+- **7)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że:
     - **a)** dane zawarte we wniosku o wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi są zgodne z prawdą, a także znane mi są warunki wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi, której dotyczy wniosek,
-    - **b)** przedsiębiorca zamierzający wykonywać działalność gospodarczą w zakresie pośrednictwa w obrocie produktami leczniczymi: spełnia wynikające z ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne warunki wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi, nie jest wpisany do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, ani nie wystąpił z wnioskiem o wpis do tego rejestru, nie prowadzi apteki lub punktu aptecznego ani nie wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie, nie prowadzi hurtowni farmaceutycznej lub hurtowni farmaceutycznej produktów leczniczych weterynaryjnych ani nie wystąpił z wnioskiem o wydanie zezwolenia na jej prowadzenie.”.
+    - **b)** przedsiębiorca zamierzający wykonywać działalność gospodarczą w zakresie pośrednictwa w obrocie produktami leczniczymi: – spełnia wynikające z ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne warunki wykonywania działalności gospodarczej w zakresie pośrednictwa w obrocie produktami leczniczymi, – nie jest wpisany do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, ani nie wystąpił z wnioskiem o wpis do tego rejestru, – nie prowadzi apteki lub punktu aptecznego ani nie wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie, – nie prowadzi hurtowni farmaceutycznej lub hurtowni farmaceutycznej produktów leczniczych weterynaryjnych ani nie wystąpił z wnioskiem o wydanie zezwolenia na jej prowadzenie.”.
 
-2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku, o którym mowa w ust. 1, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek opatruje się kwalifikowanym podpisem elektronicznym. Art. 73ba. 1. Główny Inspektor Farmaceutyczny jest obowiązany dokonać wpisu przedsiębiorcy do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w terminie 7 dni od dnia wpływu do niego wniosku, o którym mowa w art. 73b ust. 1.
+2. Główny Inspektor Farmaceutyczny zapewnia możliwość złożenia wniosku, o którym mowa w ust. 1, w postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej. Wniosek opatruje się kwalifikowanym podpisem elektronicznym.
+
+**Art. 73ba.**
+
+1. Główny Inspektor Farmaceutyczny jest obowiązany dokonać wpisu przedsiębiorcy do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w terminie 7 dni od dnia wpływu do niego wniosku, o którym mowa w art. 73b ust. 1.
 
 2. Jeżeli Główny Inspektor Farmaceutyczny nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu do niego wniosku upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy Inspektor wezwał przedsiębiorcę do uzupełnienia wniosku o wpis niepóźniej niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -2963,7 +3510,31 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 73d.** Główny Inspektor Farmaceutyczny, w drodze decyzji, odmawia wpisania przedsiębiorcy określonego w art. 73b do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi, w przypadku gdy:
 
+- **1)** przedsiębiorca w okresie 3 lat przed dniem złożenia wniosku został wykreślony z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn wskazanych w art. 73f ust. 1;
+- **2)** przedsiębiorca prowadzi aptekę, punkt apteczny, hurtownię farmaceutyczną lub hurtownię farmaceutyczną produktów leczniczych weterynaryjnych albo wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie lub wykonuje działalność leczniczą albo wystąpił z wnioskiem o wpis do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem.
+
 **Art. 73e.** Do obowiązków pośrednika w obrocie produktami leczniczymi należy:
+
+- **1)** pośredniczenie wyłącznie w transakcjach kupna i sprzedaży:
+    - **a)** produktów leczniczych pomiędzy wytwórcą, importerem produktu leczniczego, podmiotem prowadzącym hurtownię farmaceutyczną lub podmiotem odpowiedzialnym a podmiotem prowadzącym hurtownię farmaceutyczną lub podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne,
+    - **b)** produktów leczniczych pomiędzy podmiotem prowadzącym hurtownię farmaceutyczną a podmiotem prowadzącym aptekę ogólnodostępną lub punkt apteczny, wyłącznie w przypadku sprzedaży produktów leczniczych do apteki ogólnodostępnej lub punktu aptecznego, lub podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne,
+    - **c)** produktów leczniczych posiadających pozwolenie na dopuszczenie do obrotu w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym,
+    - **d)** produktów leczniczych, dla których otrzymał potwierdzenie sprawdzenia zabezpieczeń, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE;
+
+- **2)** przestrzeganie wymagań Dobrej Praktyki Dystrybucyjnej w zakresie prowadzonego pośrednictwa;
+- **3)** przekazywanie Głównemu Inspektorowi Farmaceutycznemu kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi, w którym podmiot pośredniczył, wraz ze strukturą tego obrotu;
+- **4)** prowadzenie ewidencji transakcji kupna i sprzedaży, w których zawarciu pośredniczył, zawierającej:
+    - **a)** datę wystawienia i numer faktury dotyczącej pośrednictwa w obrocie produktami leczniczymi,
+    - **b)** nazwę, dawkę, wielkość opakowania, postać farmaceutyczną, datę ważności i numer serii produktu leczniczego,
+    - **c)** ilość produktu leczniczego,
+    - **d)** nazwę i adres sprzedawcy i odbiorcy,
+    - **e)** numer faktury dotyczącej transakcji kupna i sprzedaży;
+
+- **5)** przechowywanie ewidencji, o której mowa w pkt 4, przez okres 5 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym dokonano transakcji;
+- **6)** przekazywanie podmiotom, o których mowa w pkt 1 lit. a i b, na rzecz których prowadzi pośrednictwo w obrocie produktami leczniczymi, informacji o decyzjach w zakresie wycofania albo wstrzymania w obrocie produktów leczniczych będących przedmiotem pośrednictwa w obrocie produktami leczniczymi;
+- **7)** stosowanie systemu jakości określającego obowiązki, procesy i środki zarządzania ryzykiem związane z prowadzoną działalnością;
+- **8)** informowanie Głównego Inspektora Farmaceutycznego, Prezesa Urzędu i właściwego podmiotu odpowiedzialnego o podejrzeniu sfałszowania produktu leczniczego.
 
 **Art. 73f.**
 
@@ -2981,9 +3552,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** wydania decyzji, o której mowa w ust. 1,
 - **2)** wykreślenia pośrednika w obrocie produktami leczniczymi z Krajowego Rejestru Sądowego albo Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo
-- **3)** (uchylony) Główny Inspektor Farmaceutyczny z urzędu skreśla tego pośrednika z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi.
+- **3)** (uchylony) – Główny Inspektor Farmaceutyczny z urzędu skreśla tego pośrednika z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi.
 
-4. Skreślenie z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi następuje także w przypadku złożenia wniosku w tej sprawie przez pośrednika. Art. 73fa. 1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn, o których mowa w art. 73f ust. 1, może uzyskać ponowny wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji o zakazie wykonywania działalności objętej wpisem.
+4. Skreślenie z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi następuje także w przypadku złożenia wniosku w tej sprawie przez pośrednika.
+
+**Art. 73fa.**
+
+1. Przedsiębiorca, którego wykreślono z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi z przyczyn, o których mowa w art. 73f ust. 1, może uzyskać ponowny wpis do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania decyzji o zakazie wykonywania działalności objętej wpisem.
 
 2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi. Nie dotyczy to sytuacji określonej w art. 73ba ust. 2.
 
@@ -3017,8 +3592,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Koszty przeprowadzenia inspekcji, o której mowa w art. 73h ust. 1, obejmują koszty podróży, pobytu i czasu pracy oraz wszystkich czynności związanych z przeprowadzeniem inspekcji przez inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego. Koszty czynności jednego inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego nie mogą przekroczyć:
 
-- **1)** 5000 zł za każdy dzień inspekcji przeprowadzonej na terytorium Rzeczypospolitej Polskiej;
-- **2)** 10 000 zł za każdy dzień inspekcji przeprowadzonej poza terytorium Rzeczypospolitej Polskiej.
+- **1)** 5000 zł – za każdy dzień inspekcji przeprowadzonej na terytorium Rzeczypospolitej Polskiej;
+- **2)** 10 000 zł – za każdy dzień inspekcji przeprowadzonej poza terytorium Rzeczypospolitej Polskiej.
 
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzenia inspekcji, o której mowa w art. 73h ust. 1, kierując się nakładem pracy związanej z wykonywaniem danej czynności oraz poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny.
 
@@ -3048,7 +3623,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Wniosek o udzielenie zezwolenia na prowadzenie hurtowni farmaceutycznej albo hurtowni farmaceutycznej produktów leczniczych weterynaryjnych zawiera następujące dane:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania;
 - **2)** numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **3)** miejsce prowadzenia działalności, w tym dodatkowe komory przeładunkowe, o których mowa w art. 76 ust. 3, jeżeli je posiada i są zlokalizowane poza miejscem prowadzenia działalności;
 - **4)** określenie zakresu prowadzenia działalności hurtowej, w tym rodzajów produktów leczniczych albo produktów leczniczych weterynaryjnych mających stanowić przedmiot obrotu w przypadku ograniczenia asortymentu;
@@ -3061,9 +3636,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Wraz z wnioskiem, o którym mowa w ust. 1, składa się:
 
 - **1)** oświadczenie Osoby Odpowiedzialnej o podjęciu się pełnienia tej funkcji od dnia rozpoczęcia działalności przez hurtownię;
-- **2)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że: Prawo farmaceutyczne, a także znane mi są warunki prowadzenia hurtowni, której dotyczy wniosek,
-    - **a)** dane zawarte we wniosku o udzielenie zezwolenia na prowadzenie hurtowni, której dotyczy wniosek, są zgodne z prawdą, Osoba Odpowiedzialna za prowadzenie hurtowni, której dotyczy wniosek, posiada wymagane uprawnienia i wyraziła zgodę na podjęcie obowiązków, o których mowa w art. 85 ustawy z dnia 6 września 2001 r.
-    - **b)** wnioskodawca: spełnia wynikające z ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne warunki prowadzenia hurtowni, której dotyczy wniosek, nie jest wpisany do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, ani nie wystąpił z wnioskiem o wpis do tego rejestru, nie prowadzi apteki lub punktu aptecznego ani nie wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie, nie zajmuje się pośrednictwem w obrocie produktami leczniczymi ani nie wystąpił z wnioskiem o wpis do rejestru, o którym mowa w art. 73a ust. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.”;
+- **2)** oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że:
+    - **a)** dane zawarte we wniosku o udzielenie zezwolenia na prowadzenie hurtowni, której dotyczy wniosek, są zgodne z prawdą, Osoba Odpowiedzialna za prowadzenie hurtowni, której dotyczy wniosek, posiada wymagane uprawnienia i wyraziła zgodę na podjęcie obowiązków, o których mowa w art. 85 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, a także znane mi są warunki prowadzenia hurtowni, której dotyczy wniosek,
+    - **b)** wnioskodawca: – spełnia wynikające z ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne warunki prowadzenia hurtowni, której dotyczy wniosek, – nie jest wpisany do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, ani nie wystąpił z wnioskiem o wpis do tego rejestru, – nie prowadzi apteki lub punktu aptecznego ani nie wystąpił z wnioskiem o wydanie zezwolenia na ich prowadzenie, – nie zajmuje się pośrednictwem w obrocie produktami leczniczymi ani nie wystąpił z wnioskiem o wpis do rejestru, o którym mowa w art. 73a ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.”;
 
 - **3)** opinię właściwej okręgowej izby aptekarskiej o Osobie Odpowiedzialnej, jeżeli jest ona członkiem izby aptekarskiej;
 - **4)** opis procedur postępowania umożliwiających skuteczne wstrzymywanie albo wycofywanie produktu leczniczego albo produktu leczniczego weterynaryjnego z obrotu i od dystrybutorów;
@@ -3077,8 +3652,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Wniosek, o którym mowa w ust. 1, składa się odrębnie dla:
 
-- **1)** lokalu hurtowni farmaceutycznej wraz z dodatkową komorą przeładunkową, o której mowa w art. 76 ust. 3, jeżeli taką posiada do Głównego Inspektora Farmaceutycznego;
-- **2)** lokalu hurtowni farmaceutycznej produktów leczniczych weterynaryjnych wraz z dodatkową komorą przeładunkową, o której mowa w art. 76 ust. 3, jeżeli taką posiada do Głównego Lekarza Weterynarii.
+- **1)** lokalu hurtowni farmaceutycznej wraz z dodatkową komorą przeładunkową, o której mowa w art. 76 ust. 3, jeżeli taką posiada – do Głównego Inspektora Farmaceutycznego;
+- **2)** lokalu hurtowni farmaceutycznej produktów leczniczych weterynaryjnych wraz z dodatkową komorą przeładunkową, o której mowa w art. 76 ust. 3, jeżeli taką posiada – do Głównego Lekarza Weterynarii.
 
 4. Wniosek o wydanie decyzji w sprawie udzielenia zezwolenia na prowadzenie hurtowni farmaceutycznej albo hurtowni farmaceutycznej produktów leczniczych weterynaryjnych rozpatruje się w terminie 90 dni od dnia złożenia wniosku. Bieg terminu ulega zawieszeniu, jeżeli wniosek wymaga uzupełnienia.
 
@@ -3090,7 +3665,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Zezwolenie na prowadzenie hurtowni farmaceutycznej zawierać powinno:
 
-- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania, numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
+- **1)** firmę oraz adres i miejsce zamieszkania albo firmę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy tym podmiotem jest osoba fizyczna prowadząca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres miejsca wykonywania działalności gospodarczej, jeżeli jest inny niż adres i miejsce zamieszkania, numer wpisu do Krajowego Rejestru Sądowego albo oświadczenie o uzyskaniu wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a także numer identyfikacji podatkowej (NIP);
 - **2)** nazwę hurtowni farmaceutycznej, jeżeli taka występuje;
 - **3)** numer zezwolenia;
 - **4)** miejsce prowadzenia hurtowni farmaceutycznej;
@@ -3103,7 +3678,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Komora przeładunkowa stanowi element systemu transportowego hurtowni i może być zlokalizowana poza miejscem prowadzenia hurtowni. Do produktów leczniczych znajdujących się w komorach przeładunkowych należy dołączyć dokumentację transportową, w tym określającą czas dostawy tych produktów do komory.
 
-4. Pomieszczenia komory przeładunkowej hurtowni farmaceutycznej muszą odpowiadać warunkom technicznym wymaganym dla pomieszczeń hurtowni farmaceutycznej, co stwierdza Główny Inspektor Farmaceutyczny, a w przypadku hurtowni farmaceutycznej produktów leczniczych weterynaryjnych wojewódzki lekarz weterynarii.
+4. Pomieszczenia komory przeładunkowej hurtowni farmaceutycznej muszą odpowiadać warunkom technicznym wymaganym dla pomieszczeń hurtowni farmaceutycznej, co stwierdza Główny Inspektor Farmaceutyczny, a w przypadku hurtowni farmaceutycznej produktów leczniczych weterynaryjnych – wojewódzki lekarz weterynarii.
 
 5. Komory przeładunkowe znajdujące się poza miejscem prowadzenia hurtowni mogą służyć przedsiębiorcy posiadającemu zezwolenie na prowadzenie hurtowni farmaceutycznej do czasowego składowania produktów leczniczych wyłącznie w zamkniętych opakowaniach transportowych lub w zbiorczych opakowaniach wytwórcy, w warunkach określonych dla danych produktów leczniczych, zgodnie z wymaganiami Dobrej Praktyki Dystrybucyjnej.
 
@@ -3149,8 +3724,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Koszty przeprowadzenia inspekcji, o której mowa w art. 76c ust. 1, obejmują koszty podróży, pobytu i czasu pracy oraz wszystkich czynności związanych z przeprowadzeniem inspekcji przez inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego. Koszty czynności jednego inspektora do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego nie mogą przekroczyć:
 
-- **1)** 5000 zł za każdy dzień inspekcji przeprowadzonej na terytorium Rzeczypospolitej Polskiej;
-- **2)** 10 000 zł za każdy dzień inspekcji przeprowadzonej poza terytorium Rzeczypospolitej Polskiej.
+- **1)** 5000 zł – za każdy dzień inspekcji przeprowadzonej na terytorium Rzeczypospolitej Polskiej;
+- **2)** 10 000 zł – za każdy dzień inspekcji przeprowadzonej poza terytorium Rzeczypospolitej Polskiej.
 
 4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów przeprowadzenia inspekcji, o której mowa w art. 76c ust. 1, kierując się nakładem pracy związanej z wykonywaniem danej czynności oraz poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny.
 
@@ -3181,9 +3756,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1. Do obowiązków przedsiębiorcy prowadzącego działalność polegającą na prowadzeniu hurtowni farmaceutycznej należy:
 
 - **1)** zaopatrywanie się w produkty lecznicze wyłącznie od podmiotu odpowiedzialnego, przedsiębiorcy posiadającego zezwolenie na wytwarzanie lub import produktów leczniczych lub przedsiębiorcy prowadzącego działalność gospodarczą polegającą na prowadzeniu obrotu hurtowego, po sprawdzeniu ważności odpowiedniego zezwolenia;
-- **1a)** w przypadku korzystania z pośrednictwa w obrocie produktami leczniczymi, korzystanie tylko z pośrednictwa podmiotów zarejestrowanych przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym albo wpisanych w Krajowym Rejestrze Pośredników w Obrocie Produktami Leczniczymi;
+- **1a)** w przypadku korzystania z pośrednictwa w obrocie produktami leczniczymi, korzystanie tylko z pośrednictwa podmiotów zarejestrowanych przez właściwy organ państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym albo wpisanych w Krajowym Rejestrze Pośredników w Obrocie Produktami Leczniczymi;
 - **2)** posiadanie, w tym przechowywanie jedynie produktów leczniczych uzyskiwanych od podmiotów uprawnionych do ich dostarczania;
-- **3)** dostarczanie produktów leczniczych wyłącznie podmiotom uprawnionym, a w przypadku dostarczania produktów leczniczych do krajów trzecich zapewnienie by produkty te trafiały wyłącznie do podmiotów uprawnionych do obrotu hurtowego lub bezpośredniego zaopatrywania ludności w produkty lecznicze, zgodnie z przepisami obowiązującymi w tych krajach trzecich;
+- **3)** dostarczanie produktów leczniczych wyłącznie podmiotom uprawnionym, a w przypadku dostarczania produktów leczniczych do krajów trzecich – zapewnienie by produkty te trafiały wyłącznie do podmiotów uprawnionych do obrotu hurtowego lub bezpośredniego zaopatrywania ludności w produkty lecznicze, zgodnie z przepisami obowiązującymi w tych krajach trzecich;
 - **3a)** weryfikowanie zabezpieczeń, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, i wycofanie niepowtarzalnego identyfikatora produktu leczniczego, o którym mowa w art. 3 ust. 2 lit. a rozporządzenia nr 2016/161, przed dostarczeniem tego produktu dla:
     - **a)** lekarzy, pielęgniarek i położnych wykonujących działalność leczniczą w formie praktyki zawodowej, o której mowa w art. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
     - **b)** jednostek organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi, w zakresie produktów krwiopochodnych, rekombinowanych koncentratów czynników krzepnięcia oraz desmopresyny na potrzeby realizacji zamówienia, o którym mowa w art. 27 ust. 3 tej ustawy,
@@ -3200,7 +3775,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** produktów leczniczych,
     - **b)** produktów leczniczych sprowadzonych w trybie art. 4,
     - **c)** środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, dla których wydana została decyzja o objęciu refundacją i ustaleniu urzędowej ceny zbytu,
-    - **d)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia w zakresie danych określonych w art. 72a ust. 2;
+    - **d)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia – w zakresie danych określonych w art. 72a ust. 2;
 
 - **6b)** przekazywanie ministrowi właściwemu do spraw rolnictwa kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi wraz ze strukturą tego obrotu;
 - **6c)** zgłaszanie do Głównego Inspektora Farmaceutycznego zamiaru, o którym mowa w art. 37av;
@@ -3214,8 +3789,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **8)** przechowywanie dokumentów, o których mowa w pkt 6 , oraz danych zawartych w ewidencji, o której mowa w pkt 7, przez okres 5 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym dokumenty te zostały wytworzone, oraz prowadzenie dokumentacji w taki sposób, aby można było ustalić, gdzie w określonym czasie znajdował się produkt leczniczy;
 - **9)** sprawdzanie zabezpieczeń, o których mowa w art. 54 lit. o dyrektywy 2001/83/WE, znajdujących się na opakowaniach produktów leczniczych, w celu weryfikacji autentyczności produktów leczniczych oraz identyfikacji opakowań zewnętrznych;
 - **10)** stosowanie systemu jakości określającego obowiązki, procesy i środki zarządzania ryzykiem związane z prowadzoną działalnością;
-- **11)** przekazywanie Głównemu Inspektorowi Farmaceutycznemu, Prezesowi Urzędu i właściwemu podmiotowi odpowiedzialnemu, a w przypadku produktu leczniczego weterynaryjnego również Głównemu Lekarzowi Weterynarii, informacji o podejrzeniu sfałszowania produktu leczniczego;
-- **12)** niezwłoczne zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, a w przypadku hurtowni farmaceutycznej produktów leczniczych weterynaryjnych Głównego Lekarza Weterynarii, o zmianie Osoby Odpowiedzialnej;
+- **11)** przekazywanie Głównemu Inspektorowi Farmaceutycznemu, Prezesowi Urzędu i właściwemu podmiotowi odpowiedzialnemu, a w przypadku produktu leczniczego weterynaryjnego – również Głównemu Lekarzowi Weterynarii, informacji o podejrzeniu sfałszowania produktu leczniczego;
+- **12)** niezwłoczne zawiadamianie na piśmie Głównego Inspektora Farmaceutycznego, a w przypadku hurtowni farmaceutycznej produktów leczniczych weterynaryjnych – Głównego Lekarza Weterynarii, o zmianie Osoby Odpowiedzialnej;
 - **13)** w przypadku zmiany danych określonych w zezwoleniu złożenie, w terminie 14 dni od dnia wystąpienia zmiany, wniosku o zmianę zezwolenia;
 - **14)** umożliwianie Osobie Odpowiedzialnej wykonywania obowiązków, w tym podejmowania niezależnych decyzji w ramach przypisanych uprawnień wynikających z ustawy;
 - **14a)** zapewnienie Osobie Odpowiedzialnej dostępu do umów, o których mowa w art. 77a ust. 1;
@@ -3259,7 +3834,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 2 lit. b, Główny Inspektor Farmaceutyczny może odstąpić od cofnięcia zezwolenia na prowadzenie hurtowni farmaceutycznej, jeżeli stwierdzi, że waga naruszenia prawa jest znikoma.
 
-2. Główny Inspektor Farmaceutyczny, a w odniesieniu do hurtowni farmaceutycznej produktów leczniczych weterynaryjnych Główny Lekarz Weterynarii, może cofnąć zezwolenie, jeżeli przedsiębiorca:
+2. Główny Inspektor Farmaceutyczny, a w odniesieniu do hurtowni farmaceutycznej produktów leczniczych weterynaryjnych – Główny Lekarz Weterynarii, może cofnąć zezwolenie, jeżeli przedsiębiorca:
 
 - **1)** pomimo uprzedzenia, uniemożliwia albo utrudnia wykonywanie czynności urzędowych przez Państwową Inspekcję Farmaceutyczną;
 - **2)** przechowuje produkty lecznicze niezgodnie z warunkami dopuszczenia do obrotu;
@@ -3283,14 +3858,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4c. Główny Inspektor Farmaceutyczny w przypadku cofnięcia zezwolenia z przyczyn określonych w ust. 1 i ust. 2 pkt 4, może cofnąć zezwolenie na prowadzenie innych hurtowni farmaceutycznych prowadzonych przez przedsiębiorcę, któremu cofnięto zezwolenie.
 
-5. W razie uznania przez Głównego Inspektora Farmaceutycznego w stosunku do przedsiębiorcy posiadającego zezwolenie na obrót hurtowy wydane przez właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, że zachodzą okoliczności, o których mowa w ust. 2 lub 3, powiadamia on niezwłocznie Komisję Europejską i właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym o tym fakcie oraz o podjętych decyzjach.
+5. W razie uznania przez Głównego Inspektora Farmaceutycznego w stosunku do przedsiębiorcy posiadającego zezwolenie na obrót hurtowy wydane przez właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, że zachodzą okoliczności, o których mowa w ust. 2 lub 3, powiadamia on niezwłocznie Komisję Europejską i właściwy organ innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym o tym fakcie oraz o podjętych decyzjach.
 
 **Art. 82.**
 
 1. O cofnięciu zezwolenia na prowadzenie hurtowni farmaceutycznej Główny Inspektor Farmaceutyczny zawiadamia:
 
 - **1)** właściwe organy celne;
-- **2)** właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
+- **2)** właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
 
 2. O wygaśnięciu zezwolenia na prowadzenie hurtowni farmaceutycznej Główny Inspektor Farmaceutyczny zawiadamia właściwe organy celne.
 
@@ -3306,7 +3881,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** dane wymienione w art. 76 ust. 1 pkt 1–6 i 8;
 - **2)** unikalny identyfikator hurtowni farmaceutycznej;
-- **3)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu, a w przypadku jego braku numer PESEL; w przypadku osób, którym nie nadano numeru PESEL identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **3)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu, a w przypadku jego braku – numer PESEL; w przypadku osób, którym nie nadano numeru PESEL – identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 3. Wydanie zezwolenia, jego zmiana, cofnięcie lub wygaśnięcie wymaga wprowadzenia zmian w rejestrze, o którym mowa w ust. 1 albo 1a.
 
@@ -3333,6 +3908,14 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 4. Nie można łączyć funkcji Osoby Odpowiedzialnej w hurtowniach określonych w ust. 1–3 oraz łączyć funkcji Osoby Odpowiedzialnej i funkcji kierownika apteki, działu farmacji szpitalnej albo punktu aptecznego, a także funkcji kierownika zakładu leczniczego dla zwierząt.
 
 **Art. 85.** Do obowiązków Osoby Odpowiedzialnej należy:
+
+- **1)** przekazywanie Głównemu Inspektorowi Farmaceutycznemu, a w przypadku produktu leczniczego weterynaryjnego – Głównemu Lekarzowi Weterynarii, informacji o podejrzeniu lub stwierdzeniu, że dany produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym;
+- **2)** wstrzymywanie i wycofywanie z obrotu i stosowania produktów leczniczych, po uzyskaniu decyzji właściwego organu;
+- **3)** (uchylony)
+- **4)** właściwy przebieg szkoleń dla personelu w zakresie powierzonych im obowiązków;
+- **5)** nadzór nad przestrzeganiem wymagań Dobrej Praktyki Dystrybucyjnej;
+- **6)** wydawanie produktów leczniczych uprawnionym podmiotom;
+- **7)** przyjmowanie produktów leczniczych od uprawnionych podmiotów.
 
 **Art. 85a.**
 
@@ -3384,20 +3967,20 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Apteka ogólnodostępna lub punkt apteczny może zbyć, na zasadach określonych w ustawie oraz w ustawie z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, produkt leczniczy wyłącznie:
 
-- **1)** w celu bezpośredniego zaopatrywania ludności, w tym nieodpłatnie pacjentowi wyłącznie na potrzeby jego leczenia;
-- **2)** w celu zaopatrzenia podmiotu wykonującego działalność leczniczą na podstawie zapotrzebowania, o którym mowa w art. 96 ust. 1;
+- **1)** w celu bezpośredniego zaopatrywania ludności, w tym nieodpłatnie pacjentowi – wyłącznie na potrzeby jego leczenia;
+- **2)** w celu zaopatrzenia podmiotu wykonującego działalność leczniczą – na podstawie zapotrzebowania, o którym mowa w art. 96 ust. 1;
 - **3)** nieodpłatnie, na zasadach określonych w ust. 3 i 4;
 - **4)** w celu zaopatrzenia podmiotów innych niż wymienione w pkt 1 i 2, niebędących podmiotami uprawnionymi do obrotu produktami leczniczymi, w produkty lecznicze o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 1, z wyłączeniem produktów leczniczych zawierających w składzie substancje o działaniu psychoaktywnym, określone w przepisach wydanych na podstawie art. 71a ust. 5.
 
 1a. Zbycie produktów leczniczych, o którym mowa w ust. 1 pkt 4, może podlegać ograniczeniu także ze względu na zawartość w nich substancji czynnych określonych w przepisach wydanych na podstawie ust. 6, które z uwagi na dawkowanie lub możliwość wystąpienia działań niepożądanych mogą negatywnie wpłynąć na bezpieczeństwo lub skuteczność stosowania produktów leczniczych.
 
-2. Apteka ogólnodostępna lub punkt apteczny niezwłocznie przekazują w postaci papierowej lub za pośrednictwem środków komunikacji elektronicznej informację właściwemu miejscowo wojewódzkiemu inspektorowi farmaceutycznemu zawierającą dane o ilości i nazwie produktów leczniczych przekazanych nieodpłatnie zgodnie z ust. 1 pkt 1 oraz dane obejmujące numer PESEL, a w przypadku jego braku imię i nazwisko oraz rodzaj, serię i numer dokumentu potwierdzającego tożsamość pacjenta, któremu je przekazano.
+2. Apteka ogólnodostępna lub punkt apteczny niezwłocznie przekazują w postaci papierowej lub za pośrednictwem środków komunikacji elektronicznej informację właściwemu miejscowo wojewódzkiemu inspektorowi farmaceutycznemu zawierającą dane o ilości i nazwie produktów leczniczych przekazanych nieodpłatnie zgodnie z ust. 1 pkt 1 oraz dane obejmujące numer PESEL, a w przypadku jego braku – imię i nazwisko oraz rodzaj, serię i numer dokumentu potwierdzającego tożsamość pacjenta, któremu je przekazano.
 
 3. Apteka ogólnodostępna lub punkt apteczny może, za zgodą właściwego miejscowo wojewódzkiego inspektora farmaceutycznego, przekazać produkty lecznicze:
 
-- **1)** domowi pomocy społecznej wyłącznie w celu umożliwienia i organizowania pomocy, o której mowa w art. 58 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26 i 203);
-- **2)** organowi władzy publicznej wyłącznie w celu zaspokojenia potrzeb wynikających ze stanu wyjątkowego, stanu wojennego lub stanu klęski żywiołowej;
-- **3)** podmiotowi wykonującemu działalność leczniczą, na podstawie zapotrzebowania, o którym mowa w art. 96 ust. 1 wyłącznie w celu jego zaopatrzenia.
+- **1)** domowi pomocy społecznej – wyłącznie w celu umożliwienia i organizowania pomocy, o której mowa w art. 58 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26 i 203);
+- **2)** organowi władzy publicznej – wyłącznie w celu zaspokojenia potrzeb wynikających ze stanu wyjątkowego, stanu wojennego lub stanu klęski żywiołowej;
+- **3)** podmiotowi wykonującemu działalność leczniczą, na podstawie zapotrzebowania, o którym mowa w art. 96 ust. 1 – wyłącznie w celu jego zaopatrzenia.
 
 4. Podmiot prowadzący aptekę ogólnodostępną lub punkt apteczny występują o wydanie zgody, o której mowa w ust. 3, niepóźniej niż na 7 dni przed planowanym przekazaniem. Zgody nie udziela się, jeżeli zachodzi podejrzenie, że produkt leczniczy zostanie wykorzystany w celu innym niż deklarowany.
 
@@ -3423,7 +4006,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** zakładzie leczniczym, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne szpitalne i inne niż szpitalne;
 - **2)** jednostce organizacyjnej publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi.
 
-2b. Za zgodą wojewódzkiego inspektora farmaceutycznego właściwego ze względu na położenie zakładu leczniczego apteki szpitalnej nie tworzy się w zakładzie leczniczym, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju całodobowe świadczenia zdrowotne inne niż szpitalne wyłącznie w zakresie świadczeń, o których mowa w art. 15 ust. 2 pkt 4–6 lub 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203) jeżeli udzielanie tych świadczeń nie wymaga stosowania produktów leczniczych wymagających nadzoru farmaceuty.
+2b. Za zgodą wojewódzkiego inspektora farmaceutycznego właściwego ze względu na położenie zakładu leczniczego apteki szpitalnej nie tworzy się w zakładzie leczniczym, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju całodobowe świadczenia zdrowotne inne niż szpitalne wyłącznie w zakresie świadczeń, o których mowa w art. 15 ust. 2 pkt 4–6 lub 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203) – jeżeli udzielanie tych świadczeń nie wymaga stosowania produktów leczniczych wymagających nadzoru farmaceuty.
 
 2c. Zgodę, o której mowa w ust. 2b, wydaje się na wniosek podmiotu leczniczego w drodze decyzji.
 
@@ -3468,7 +4051,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
     - **a)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin kierownika tego działu,
     - **b)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin co najmniej jednego farmaceuty w przypadku podmiotów posiadających co najmniej 100 łóżek lub stanowisk dializacyjnych zgłoszonych w rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w art. 106 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zakładu leczniczego zaopatrywanego przez ten dział.
 
-1a. Za zgodą wojewódzkiego inspektora farmaceutycznego właściwego ze względu na położenie zakładu leczniczego do liczby łóżek, o których mowa w ust. 1 pkt 1 lit. b lub pkt 2 lit. b, nie wlicza się łóżek służących udzielaniu świadczeń zdrowotnych, o których mowa w art. 15 ust. 2 pkt 4–6 lub 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych jeżeli udzielanie tych świadczeń nie wymaga stosowania produktów leczniczych wymagających nadzoru farmaceuty.
+1a. Za zgodą wojewódzkiego inspektora farmaceutycznego właściwego ze względu na położenie zakładu leczniczego do liczby łóżek, o których mowa w ust. 1 pkt 1 lit. b lub pkt 2 lit. b, nie wlicza się łóżek służących udzielaniu świadczeń zdrowotnych, o których mowa w art. 15 ust. 2 pkt 4–6 lub 11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych – jeżeli udzielanie tych świadczeń nie wymaga stosowania produktów leczniczych wymagających nadzoru farmaceuty.
 
 1b. Zgodę, o której mowa w ust. 1a, wydaje się na wniosek podmiotu leczniczego w drodze decyzji.
 
@@ -3482,7 +4065,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1b. Farmaceuta nie może być kierownikiem więcej niż jednej apteki, o której mowa w ust. 1a.
 
-1c. Farmaceuta może być równocześnie kierownikiem apteki i działu farmacji szpitalnej albo dwóch działów farmacji szpitalnej po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego, a w przypadku podmiotów nadzorowanych przez Ministra Obrony Narodowej Naczelnego Inspektora Farmaceutycznego Wojska Polskiego, który uwzględni wymiar zatrudnienia farmaceuty w tych jednostkach, zakres wykonywanych usług farmaceutycznych oraz godziny czynności każdej z nich.
+1c. Farmaceuta może być równocześnie kierownikiem apteki i działu farmacji szpitalnej albo dwóch działów farmacji szpitalnej po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego, a w przypadku podmiotów nadzorowanych przez Ministra Obrony Narodowej – Naczelnego Inspektora Farmaceutycznego Wojska Polskiego, który uwzględni wymiar zatrudnienia farmaceuty w tych jednostkach, zakres wykonywanych usług farmaceutycznych oraz godziny czynności każdej z nich.
 
 1d. Wojewódzki inspektor farmaceutyczny udziela zgody, o której mowa w ust. 1c, w drodze decyzji.
 
@@ -3493,7 +4076,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **3)** wypełnia obowiązki członka samorządu zawodu farmaceuty;
 - **4)** daje rękojmię należytego prowadzenia apteki.
 
-2a. (uchylony) 2b. Zmiana kierownika apteki wymaga złożenia przez podmiot prowadzący aptekę wniosku do wojewódzkiego inspektora farmaceutycznego, niepóźniej niż 30 dni przed planowaną zmianą, a jeżeli zmiana kierownika apteki jest spowodowana zdarzeniem, na które apteka nie miała wpływu niezwłocznie po zaistnieniu tego zdarzenia.
+2a. (uchylony) 2b. Zmiana kierownika apteki wymaga złożenia przez podmiot prowadzący aptekę wniosku do wojewódzkiego inspektora farmaceutycznego, niepóźniej niż 30 dni przed planowaną zmianą, a jeżeli zmiana kierownika apteki jest spowodowana zdarzeniem, na które apteka nie miała wpływu – niezwłocznie po zaistnieniu tego zdarzenia.
 
 2c. Wniosek, o którym mowa w ust. 2b, może być załatwiony milcząco.
 
@@ -3585,7 +4168,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** substancje bardzo silnie działające określone w Urzędowym Wykazie Produktów Leczniczych dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej,
 - **2)** substancje odurzające,
-- **3)** substancje psychotropowe grupy I-P oraz II-P określone w odrębnych przepisach.
+- **3)** substancje psychotropowe grupy I-P oraz II-P – określone w odrębnych przepisach.
 
 2. Technik farmaceutyczny, o którym mowa w ust. 1, może również wykonywać czynności pomocnicze przy sporządzaniu i przygotowywaniu preparatów leczniczych, o których mowa w art. 4 ust. 3 pkt 5 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty.
 
@@ -3593,7 +4176,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Minister właściwy do spraw zdrowia określa, w drodze rozporządzenia, program praktyki w aptece oraz sposób i tryb jej odbywania przez technika farmaceutycznego, uwzględniając w szczególności zakres wiedzy niezbędnej do wykonywania czynności określonych w ust. 1 i 2, obowiązki opiekuna praktyki, zakres czynności, które mogą być wykonywane samodzielnie przez praktykanta, formę i sposób prowadzenia dziennika praktyki aptecznej.
 
-**Art. 91a.** Technik farmaceutyczny podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 91, lub innych czynności związanych z produktami leczniczymi lub wyrobami medycznymi, wymagających bezpośredniego kontaktu z pacjentem, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. Kodeks karny.
+**Art. 91a.** Technik farmaceutyczny podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 91, lub innych czynności związanych z produktami leczniczymi lub wyrobami medycznymi, wymagających bezpośredniego kontaktu z pacjentem, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 **Art. 92.** W godzinach pracy apteki w jej lokalu znajduje się zatrudniony w niej farmaceuta lub farmaceuta wykonujący swoje obowiązki w aptece na innej podstawie prawnej.
 
@@ -3623,7 +4206,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Zarząd powiatu informuje podmioty prowadzące apteki ogólnodostępne na terenie tego powiatu, indywidualnie albo zbiorowo, w sposób określony w ust. 6, co najmniej na 21 dni przed dniem wydania uchwały, o której mowa w ust. 3, o potrzebie wyznaczenia apteki ogólnodostępnej do pełnienia dyżurów w porze nocnej lub dyżurów w dni wolne od pracy, wskazując dni i godziny, w jakich mają być pełnione te dyżury.
 
-5. Podmiot prowadzący aptekę ogólnodostępną może zgłosić gotowość do pełnienia dyżurów przez prowadzoną przez siebie aptekę, we wskazanych przez siebie dniach i godzinach zgodnych z dniami i godzinami określonymi na podstawie ust. 4, w terminie 7 dni od dnia doręczenia informacji, o której mowa w ust. 4. Wraz ze zgłoszeniem osoba uprawniona do reprezentowania podmiotu prowadzącego aptekę ogólnodostępną składa w jego imieniu oświadczenie, że nie zachodzą okoliczności, o których mowa w ust. 8, oraz że w zgłaszanej aptece ogólnodostępnej spełnione są wymagania, o których mowa w ust. 7 pkt 3. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń przewidzianej w art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+5. Podmiot prowadzący aptekę ogólnodostępną może zgłosić gotowość do pełnienia dyżurów przez prowadzoną przez siebie aptekę, we wskazanych przez siebie dniach i godzinach zgodnych z dniami i godzinami określonymi na podstawie ust. 4, w terminie 7 dni od dnia doręczenia informacji, o której mowa w ust. 4. Wraz ze zgłoszeniem osoba uprawniona do reprezentowania podmiotu prowadzącego aptekę ogólnodostępną składa w jego imieniu oświadczenie, że nie zachodzą okoliczności, o których mowa w ust. 8, oraz że w zgłaszanej aptece ogólnodostępnej spełnione są wymagania, o których mowa w ust. 7 pkt 3. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń przewidzianej w art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 6. Komunikację między zarządem powiatu a podmiotami prowadzącymi apteki ogólnodostępne w sprawach, o których mowa w ust. 2, 4, 5 lub 12, prowadzi się za pośrednictwem środków komunikacji elektronicznej.
 
@@ -3647,15 +4230,15 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** w przypadku braku zgłoszenia apteki ogólnodostępnej w sposób, o którym mowa w ust. 5, lub w przypadku zgłoszenia apteki ogólnodostępnej niespełniającej kryteriów, o których mowa w ust. 7, wyznacza do pełnienia dyżurów inną aptekę ogólnodostępną, biorąc pod uwagę kryteria określone w ust. 7 i 8;
 - **3)** w przypadku gdy po przeprowadzonej przez siebie analizie poziomu zaspokajania potrzeb, o których mowa w ust. 1, zwłaszcza weryfikacji funkcjonowania na terenie powiatu przynajmniej jednej apteki ogólnodostępnej w trybie całodobowym, dokonanej w oparciu o informacje, o których mowa w ust. 2, uzna, że uzasadnione jest wyznaczenie:
     - **a)** apteki ogólnodostępnej do pełnienia dyżurów w mieście będącym siedzibą powiatu, liczącym więcej niż 40 tys. mieszkańców lub
-    - **b)** szerszego niż określono w art. 2 pkt 7 lub 7 zakresu godzinowego dyżurów pełnionych przez wyznaczoną aptekę ogólnodostępną może dokonać takiego wyznaczenia.
+    - **b)** szerszego niż określono w art. 2 pkt 7 lub 7 zakresu godzinowego dyżurów pełnionych przez wyznaczoną aptekę ogólnodostępną – może dokonać takiego wyznaczenia.
 
-10. Przed podjęciem uchwały, o której mowa w ust. 3, osoba uprawniona do reprezentowania podmiotu prowadzącego aptekę ogólnodostępną, o której mowa w ust. 9 pkt 2, w terminie 7 dni od dnia wezwania przez zarząd powiatu, składa oświadczenie o niezachodzeniu okoliczności, o których mowa w ust. 8, oraz że w wyznaczanej aptece ogólnodostępnej spełnione są wymagania, o których mowa w ust. 7 pkt 3. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń przewidzianej w art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+10. Przed podjęciem uchwały, o której mowa w ust. 3, osoba uprawniona do reprezentowania podmiotu prowadzącego aptekę ogólnodostępną, o której mowa w ust. 9 pkt 2, w terminie 7 dni od dnia wezwania przez zarząd powiatu, składa oświadczenie o niezachodzeniu okoliczności, o których mowa w ust. 8, oraz że w wyznaczanej aptece ogólnodostępnej spełnione są wymagania, o których mowa w ust. 7 pkt 3. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń przewidzianej w art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 11. W przypadku uzasadnionych wątpliwości w zakresie prawdziwości okoliczności wskazanych w oświadczeniach, o których mowa w ust. 5 lub 10, zarząd powiatu może wystąpić do wojewódzkiego inspektora farmaceutycznego z wnioskiem o potwierdzenie tych okoliczności. Wojewódzki inspektor farmaceutyczny udziela zarządowi powiatu odpowiedzi niezwłocznie, jednak niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku.
 
 12. Zarząd powiatu niezwłocznie przekazuje kopię uchwały, o której mowa w ust. 3, lub jej zmian, w przypadku, o którym mowa w ust. 21, właściwemu miejscowo wojewódzkiemu inspektorowi farmaceutycznemu, dyrektorowi oddziału wojewódzkiego Narodowego Funduszu Zdrowia oraz aptece ogólnodostępnej wyznaczonej do pełnienia dyżurów.
 
-13. Pełnienie dyżurów na podstawie uchwały, o której mowa w ust. 3, przez aptekę ogólnodostępną podlega finansowaniu ze środków Narodowego Funduszu Zdrowia, z wyjątkiem pełnienia ich w zakresie godzinowym rozszerzonym zgodnie z ust. 9 pkt 3 lit. b w takim przypadku powiat finansuje, z własnych środków, pełnienie tych dyżurów w zakresie wykraczającym ponad zakres godzinowy wynikający z art. 2 pkt 7 lub 7 .
+13. Pełnienie dyżurów na podstawie uchwały, o której mowa w ust. 3, przez aptekę ogólnodostępną podlega finansowaniu ze środków Narodowego Funduszu Zdrowia, z wyjątkiem pełnienia ich w zakresie godzinowym rozszerzonym zgodnie z ust. 9 pkt 3 lit. b – w takim przypadku powiat finansuje, z własnych środków, pełnienie tych dyżurów w zakresie wykraczającym ponad zakres godzinowy wynikający z art. 2 pkt 7 lub 7 .
 
 14. Finansowanie dyżurów aptek ogólnodostępnych, o których mowa w ust. 13, ma postać wynagrodzenia ryczałtowego w kwocie stanowiącej równowartość 3,5 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, w przeliczeniu na 1 godzinę faktycznie przeprowadzonego dyżuru.
 
@@ -3670,7 +4253,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 19. Ustalanie liczby mieszkańców miasta:
 
 - **1)** stanowiącego siedzibę powiatu,
-- **2)** na prawach powiatu następuje według stanu wskazanego w dokumencie pt. „Powierzchnia i ludność w przekroju terytorialnym” opracowywanym przez Główny Urząd Statystyczny i publikowanym na stronie internetowej Głównego Urzędu Statystycznego, aktualnym na dzień 30 września roku poprzedzającego rok kalendarzowy, na który ma zostać podjęta uchwała, o której mowa w ust. 3.
+- **2)** na prawach powiatu – następuje według stanu wskazanego w dokumencie pt. „Powierzchnia i ludność w przekroju terytorialnym” opracowywanym przez Główny Urząd Statystyczny i publikowanym na stronie internetowej Głównego Urzędu Statystycznego, aktualnym na dzień 30 września roku poprzedzającego rok kalendarzowy, na który ma zostać podjęta uchwała, o której mowa w ust. 3.
 
 20. W przypadku gdy apteka ogólnodostępna nie pełniła dyżuru albo pełniła go w wymiarze mniejszym niż zostało to wyznaczone w uchwale, o której mowa w ust. 3, podmiot prowadzący aptekę ogólnodostępną ma obowiązek zwrotu dotychczas otrzymanego wynagrodzenia ryczałtowego z tytułu pełnienia dyżurów, od czasu wyznaczenia do ich pełnienia, wraz z odsetkami ustawowymi za opóźnienie. W takim przypadku Narodowy Fundusz Zdrowia wzywa podmiot prowadzący aptekę do zapłaty kwoty w wysokości określonej w zdaniu pierwszym, a podmiot ten ma obowiązek jej zapłaty w terminie 14 dni od dnia otrzymania wezwania.
 
@@ -3710,7 +4293,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** produktów leczniczych,
 - **2)** produktów leczniczych sprowadzanych w trybie art. 4,
 - **3)** środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych, o których mowa w wykazie określonym w art. 37 ust. 1 lub 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych,
-- **4)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia w zakresie danych określonych w art. 72a ust. 2.
+- **4)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia – w zakresie danych określonych w art. 72a ust. 2.
 
 1c. Podmioty, o których mowa w ust. 1b, są obowiązane do przedstawienia innych informacji dotyczących dostępności produktu leczniczego związanych z informacjami określonymi w ust. 1b na żądanie ministra właściwego do spraw zdrowia lub organów Państwowej Inspekcji Farmaceutycznej, w terminie 2 dni roboczych od momentu otrzymania żądania, w zakresie w nim określonym.
 
@@ -3734,7 +4317,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1. W przypadku, gdy podmiot prowadzący aptekę, punkt apteczny lub dział farmacji szpitalnej, nie może wykonać obowiązku zapewnienia dostępu do:
 
 - **1)** produktu leczniczego wydawanego na receptę,
-- **2)** środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, o których mowa w wykazie określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych jest obowiązany w ciągu 24 godzin poinformować o tym za pośrednictwem Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi właściwego miejscowo wojewódzkiego inspektora farmaceutycznego, który ustala przyczyny braku tego dostępu.
+- **2)** środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, o których mowa w wykazie określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – jest obowiązany w ciągu 24 godzin poinformować o tym za pośrednictwem Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi właściwego miejscowo wojewódzkiego inspektora farmaceutycznego, który ustala przyczyny braku tego dostępu.
 
 2. W przypadku, gdy w okresie 3 dni kalendarzowych od dnia przekazania pierwszej informacji dotyczącej niewykonania obowiązku, o którym mowa w ust. 1, brak dostępu do danego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego zostanie zgłoszony w co najmniej 5 % aptek ogólnodostępnych prowadzonych na terenie województwa, wojewódzki inspektor farmaceutyczny, po uprzedniej weryfikacji dostępności tego produktu, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, na terenie danego województwa, w ciągu 3 dni roboczych, ustala przyczyny braku tego dostępu.
 
@@ -3744,8 +4327,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 5. Po otrzymaniu informacji, o której mowa w ust. 4, Główny Inspektor Farmaceutyczny ustala dostępność w obrocie hurtowym:
 
-- **1)** produktu leczniczego wydawanego na receptę, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, o których mowa w wykazie określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych w przypadku, o którym mowa w ust. 2;
-- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego stosowanych w zakładzie leczniczym podmiotu leczniczego w przypadku, o którym mowa w ust. 3. Art. 95aa. 1. Świadczeniodawca, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwany dalej „świadczeniodawcą”, jest obowiązany przechowywać druki recept lub unikalne numery identyfikujące receptę przydzielone przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia w warunkach zapewniających należytą ochronę przed utratą, zniszczeniem, kradzieżą lub dostępem osób nieuprawnionych.
+- **1)** produktu leczniczego wydawanego na receptę, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, o których mowa w wykazie określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych – w przypadku, o którym mowa w ust. 2;
+- **2)** produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego stosowanych w zakładzie leczniczym podmiotu leczniczego – w przypadku, o którym mowa w ust. 3.
+
+**Art. 95aa.**
+
+1. Świadczeniodawca, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwany dalej „świadczeniodawcą”, jest obowiązany przechowywać druki recept lub unikalne numery identyfikujące receptę przydzielone przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia w warunkach zapewniających należytą ochronę przed utratą, zniszczeniem, kradzieżą lub dostępem osób nieuprawnionych.
 
 2. W przypadku zakończenia okresu zatrudnienia albo śmierci osoby uprawnionej do wystawiania recept świadczeniodawca powiadamia niezwłocznie o takim zdarzeniu oraz o niewykorzystanych drukach lub unikalnych numerach identyfikujących receptę, jeżeli są one możliwe do ustalenia, właściwy oddział wojewódzki Narodowego Funduszu Zdrowia, w którym unikalne numery identyfikujące receptę zostały przydzielone.
 
@@ -3760,7 +4347,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1a. Recepta, na której ma zostać przepisany produkt leczniczy o:
 
 - **1)** kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 4,
-- **2)** innej kategorii dostępności niż określona w pkt 1, zawierający w swoim składzie substancję psychotropową lub środek odurzający, z których którakolwiek substancja lub środek należy do grupy II-N, III-P albo IV-P określonej w ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii jest wystawiana wyłącznie w postaci elektronicznej.
+- **2)** innej kategorii dostępności niż określona w pkt 1, zawierający w swoim składzie substancję psychotropową lub środek odurzający, z których którakolwiek substancja lub środek należy do grupy II-N, III-P albo IV-P określonej w ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii – jest wystawiana wyłącznie w postaci elektronicznej.
 
 2. Receptę w postaci papierowej wystawia się w przypadku:
 
@@ -3774,9 +4361,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 3. Recepta dla:
 
 - **1)** osoby wystawiającej, zwana dalej „receptą pro auctore”,
-- **2)** małżonka, osoby pozostającej we wspólnym pożyciu, krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osoby wystawiającej, zwana dalej „receptą pro familiae” jest wystawiana w postaci elektronicznej albo papierowej.
+- **2)** małżonka, osoby pozostającej we wspólnym pożyciu, krewnych lub powinowatych w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osoby wystawiającej, zwana dalej „receptą pro familiae” – jest wystawiana w postaci elektronicznej albo papierowej.
 
-4. Minister właściwy do spraw zdrowia zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego tego ministra wykaz państw realizacji, które nie realizują recept transgranicznych wystawianych w postaci elektronicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym.
+4. Minister właściwy do spraw zdrowia zamieszcza na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego tego ministra wykaz państw realizacji, które nie realizują recept transgranicznych wystawianych w postaci elektronicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 95c.** Recepta w postaci papierowej, na której przepisano wyłącznie produkty lecznicze niepodlegające refundacji, posiadające kategorię dostępności „Rp” lub „Rpz”, nie musi odpowiadać wzorowi recepty określonemu w przepisach wydanych na podstawie art. 96a ust. 12.
 
@@ -3791,7 +4378,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1a. W przypadku awarii systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne wydawane na podstawie recepty są wydawane na podstawie informacji o wystawionej recepcie, udostępnionej w sposób, o którym mowa w art. 96b ust. 2 pkt 1 lub 3 oraz ust. 2a, po okazaniu dokumentu potwierdzającego tożsamość oraz złożeniu oświadczenia, że nie dokonano realizacji recepty, której dotyczy ta informacja.
 
-1b. Oświadczenie, o którym mowa w ust. 1a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenia są obowiązani do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+1b. Oświadczenie, o którym mowa w ust. 1a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenia są obowiązani do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 1c. W przypadku wydania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych na podstawie wydruku, o którym mowa w art. 96b ust. 2 pkt 3, stosuje się art. 11 ust. 5a i 5b ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
@@ -3813,12 +4400,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **7)** ilość;
 - **8)** potwierdzenie osoby uprawnionej do wystawiania recept w zakresie prowadzonej działalności zawierające jej podpis oraz naniesione w formie nadruku albo pieczątki imię i nazwisko oraz identyfikator, o którym mowa w art. 17 ust. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
 - **9)** podpis i naniesione w formie nadruku albo pieczątki imię i nazwisko kierownika podmiotu wykonującego działalność leczniczą wraz z określeniem funkcji;
-- **10)** informację o liczbie pacjentów, którym zostały podane w związku z udzielonym świadczeniem zdrowotnym produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne nabyte na podstawie poprzedniego zapotrzebowania;
+- **10)** informację o liczbie pacjentów, którym zostały podane – w związku z udzielonym świadczeniem zdrowotnym – produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne nabyte na podstawie poprzedniego zapotrzebowania;
 - **11)** oświadczenie:
     - **a)** kierownika podmiotu wykonującego działalność leczniczą, że ujęte w wystawionym zapotrzebowaniu produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne zostaną wykorzystane wyłącznie w celu udzielenia pacjentowi świadczenia opieki zdrowotnej w zakresie wykonywanej działalności leczniczej oraz że takie same produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne, nabyte na podstawie poprzednich zapotrzebowań, zostały wykorzystane wyłącznie w powyżej określonym celu,
-    - **b)** osoby uprawnionej do wystawiania recept podpisującej zapotrzebowanie w zakresie określonym w lit. a, oraz że ujęte w zapotrzebowaniu produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne stanowią jednomiesięczny zapas konieczny do realizacji świadczeń zdrowotnych w ramach wykonywanej działalności leczniczej.
+    - **b)** osoby uprawnionej do wystawiania recept podpisującej zapotrzebowanie – w zakresie określonym w lit. a, oraz że ujęte w zapotrzebowaniu produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne stanowią jednomiesięczny zapas konieczny do realizacji świadczeń zdrowotnych w ramach wykonywanej działalności leczniczej.
 
-2a. Oświadczenia, o których mowa w ust. 2 pkt 11, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenia są obowiązani do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+2a. Oświadczenia, o których mowa w ust. 2 pkt 11, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenia są obowiązani do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 2b. Zapotrzebowanie jest realizowane za pełną odpłatnością.
 
@@ -3830,15 +4417,15 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2f. Produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne są wydawane z apteki zakładowej lub działu farmacji szpitalnej w podmiotach leczniczych utworzonych przez Ministra Obrony Narodowej albo Ministra Sprawiedliwości na podstawie wystawionego przez te podmioty zapotrzebowania:
 
-- **1)** zbiorczego w przypadku nieoznaczonego kręgu pacjentów;
-- **2)** imiennego dla określonych pacjentów.
+- **1)** zbiorczego – w przypadku nieoznaczonego kręgu pacjentów;
+- **2)** imiennego – dla określonych pacjentów.
 
 2g. Zapotrzebowanie zbiorcze zawiera dane, o których mowa w ust. 2 pkt 1, pkt 2 lit. a–c i pkt 3–8, oraz numer REGON podmiotu leczniczego wystawiającego zapotrzebowanie.
 
 2h. Zapotrzebowanie imienne zawiera dane, o których mowa w ust. 2 pkt 1, pkt 2 lit. a–c i pkt 3–8, oraz numer REGON podmiotu leczniczego wystawiającego zapotrzebowanie, określenie sposobu dawkowania oraz imię i nazwisko pacjenta, a także w przypadku zapotrzebowania wystawionego przez podmiot leczniczy utworzony przez:
 
-- **1)** Ministra Sprawiedliwości imię ojca pacjenta;
-- **2)** Ministra Obrony Narodowej numer PESEL pacjenta.
+- **1)** Ministra Sprawiedliwości – imię ojca pacjenta;
+- **2)** Ministra Obrony Narodowej – numer PESEL pacjenta.
 
 2i. Podmioty lecznicze utworzone przez Ministra Obrony Narodowej albo Ministra Sprawiedliwości prowadzą ewidencje zapotrzebowań zbiorczych i imiennych. Zapotrzebowania zbiorcze i imienne przechowuje się przez okres 5 lat, licząc od dnia 1 stycznia roku następującego po roku, w którym zapotrzebowanie zostało wystawione.
 
@@ -3850,21 +4437,21 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** jest wystawiana na produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego albo wyroby medyczne przepisane na recepcie kontynuowanej;
 - **3)** jest wystawiana w terminie określonym przez lekarza wystawiającego receptę kontynuowaną, niedłuższym niż 12 miesięcy od daty wystawienia tej recepty;
 - **4)** łączna ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego albo wyrobu medycznego nie może przekroczyć ilości niezbędnej pacjentowi do 360-dniowego okresu stosowania wyliczonego na podstawie sposobu dawkowania określonego na recepcie kontynuowanej, przy czym ilość produktu leczniczego na jednej recepcie nie może przekraczać ilości niezbędnej do stosowania w okresie określonym przez lekarza;
-- **5)** jest wystawiana po wykonaniu przez farmaceutę badania diagnostycznego, pomiaru ciśnienia krwi lub innej czynności w ramach sprawowania opieki farmaceutycznej jeżeli lekarz wystawiający receptę kontynuowaną zleci ich wykonanie;
+- **5)** jest wystawiana po wykonaniu przez farmaceutę badania diagnostycznego, pomiaru ciśnienia krwi lub innej czynności w ramach sprawowania opieki farmaceutycznej – jeżeli lekarz wystawiający receptę kontynuowaną zleci ich wykonanie;
 - **6)** jest wystawiana w postaci elektronicznej;
 - **7)** może być wystawiona na produkty lecznicze o kategorii dostępności Rp lub Rpz;
-- **8)** zawiera dane, o których mowa w art. 96a ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 6, a w przypadku recepty, na której co najmniej jeden z przepisanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, dla którego wydano decyzję o objęciu refundacją w rozumieniu art. 11 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ma być wydany za odpłatnością, o której mowa w art. 6 ust. 2 tej ustawy dodatkowo dane, o których mowa w art. 96a ust. 8 pkt 1a, 1b i 3–10;
+- **8)** zawiera dane, o których mowa w art. 96a ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 6, a w przypadku recepty, na której co najmniej jeden z przepisanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, dla którego wydano decyzję o objęciu refundacją w rozumieniu art. 11 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ma być wydany za odpłatnością, o której mowa w art. 6 ust. 2 tej ustawy – dodatkowo dane, o których mowa w art. 96a ust. 8 pkt 1a, 1b i 3–10;
 - **9)** wskazuje się na niej odpłatność określoną przez lekarza na recepcie kontynuowanej, chyba że farmaceuta wystawiający receptę powziął wiedzę o konieczności zmiany odpłatności.
 
-4. Farmaceuta posiadający prawo wykonywania zawodu może wystawić receptę dla osoby, o której mowa w art. 95b ust. 3, albo receptę farmaceutyczną w przypadku zagrożenia zdrowia pacjenta, do których stosuje się następujące zasady:
+4. Farmaceuta posiadający prawo wykonywania zawodu może wystawić receptę dla osoby, o której mowa w art. 95b ust. 3, albo receptę farmaceutyczną – w przypadku zagrożenia zdrowia pacjenta, do których stosuje się następujące zasady:
 
 - **1)** jest wystawiana w postaci elektronicznej, a w postaci papierowej w przypadku:
     - **a)** braku dostępu farmaceuty do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-    - **b)** recepty dla osoby o nieustalonej tożsamości w przypadku recepty farmaceutycznej,
+    - **b)** recepty dla osoby o nieustalonej tożsamości – w przypadku recepty farmaceutycznej,
     - **c)** wystawienia przez farmaceutę, o którym mowa w art. 38 ust. 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty;
 
 - **2)** może być wystawiona na produkty lecznicze o kategorii dostępności Rp, z zastrzeżeniem produktów leczniczych zawierających środki odurzające, substancje psychotropowe, o których mowa w ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii;
-- **3)** zawiera dane, o których mowa w art. 96a ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 6, a w przypadku recepty, na której co najmniej jeden z przepisanych produktów leczniczych, dla którego wydano decyzję o objęciu refundacją w rozumieniu art. 11 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ma być wydany za odpłatnością, o której mowa w art. 6 ust. 2 tej ustawy dodatkowo dane, o których mowa w art. 96a ust. 8 pkt 1a, 1b i 3–10, a także przyczynę wydania, z zastrzeżeniem że w przypadku recepty farmaceutycznej wystawionej na podstawie ust. 4 nie jest wymagana przyczyna zastosowania;
+- **3)** zawiera dane, o których mowa w art. 96a ust. 1 pkt 1–4, pkt 5 lit. a oraz pkt 6, a w przypadku recepty, na której co najmniej jeden z przepisanych produktów leczniczych, dla którego wydano decyzję o objęciu refundacją w rozumieniu art. 11 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ma być wydany za odpłatnością, o której mowa w art. 6 ust. 2 tej ustawy – dodatkowo dane, o których mowa w art. 96a ust. 8 pkt 1a, 1b i 3–10, a także przyczynę wydania, z zastrzeżeniem że w przypadku recepty farmaceutycznej wystawionej na podstawie ust. 4 nie jest wymagana przyczyna zastosowania;
 - **4)** recepta jest realizowana z odpłatnością 100 %, z wyjątkiem:
     - **a)** recept wystawionych dla osób określonych w art. 95b ust. 3 lub
     - **b)** recept farmaceutycznych, o których mowa w ust. 4 ;
@@ -3880,21 +4467,21 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** numer kolejny wpisu;
 - **2)** datę wystawienia recepty;
-- **3)** numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka numer PESEL matki, a w razie braku numeru PESEL rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+- **3)** numer PESEL pacjenta, jeżeli został nadany, w przypadku noworodka – numer PESEL matki, a w razie braku numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 - **4)** rozpoznanie choroby, problemu zdrowotnego lub urazu;
 - **5)** międzynarodową lub własną nazwę produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego albo rodzajową lub handlową nazwę wyrobu medycznego;
 - **6)** postać, w jakiej produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny ma być wydany, jeżeli występuje w obrocie w więcej niż jednej postaci;
 - **7)** dawkę produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego, jeżeli występuje w obrocie w więcej niż jednej dawce;
-- **8)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, a w przypadku produktu leczniczego recepturowego nazwę i ilość surowców farmaceutycznych, które mają być użyte do jego sporządzenia;
+- **8)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego, a w przypadku produktu leczniczego recepturowego – nazwę i ilość surowców farmaceutycznych, które mają być użyte do jego sporządzenia;
 - **9)** sposób dawkowania.
 
 5. Farmaceuta i technik farmaceutyczny mogą odmówić:
 
 - **1)** wykonania każdej usługi farmaceutycznej, o której mowa w art. 4 ust. 3 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, jeżeli jej wykonanie może zagrażać życiu lub zdrowiu pacjenta lub innych osób;
 - **2)** wydania produktu leczniczego, wyrobu medycznego lub środka spożywczego specjalnego przeznaczenia żywieniowego, jeżeli:
-    - **a)** powziął uzasadnione podejrzenie, że: produkt leczniczy, wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego, który ma zostać wydany w ramach usługi farmaceutycznej, może być zastosowany w celu pozamedycznym, recepta lub zapotrzebowanie, które mają być podstawą wydania produktu leczniczego, wyrobu medycznego lub środka spożywczego specjalnego przeznaczenia żywieniowego, nie są autentyczne,
+    - **a)** powziął uzasadnione podejrzenie, że: – produkt leczniczy, wyrób medyczny lub środek spożywczy specjalnego przeznaczenia żywieniowego, który ma zostać wydany w ramach usługi farmaceutycznej, może być zastosowany w celu pozamedycznym, – recepta lub zapotrzebowanie, które mają być podstawą wydania produktu leczniczego, wyrobu medycznego lub środka spożywczego specjalnego przeznaczenia żywieniowego, nie są autentyczne,
     - **b)** zachodzi konieczność dokonania zmian składu leku recepturowego na recepcie, do których farmaceuta albo technik farmaceutyczny nie posiada uprawnień, i nie ma możliwości porozumienia się z osobą uprawnioną do wystawiania recept,
-    - **c)** od dnia sporządzenia produktu leczniczego upłynęło co najmniej 6 dni w przypadku leku recepturowego sporządzonego na podstawie recepty lub etykiety aptecznej,
+    - **c)** od dnia sporządzenia produktu leczniczego upłynęło co najmniej 6 dni – w przypadku leku recepturowego sporządzonego na podstawie recepty lub etykiety aptecznej,
     - **d)** osoba, która przedstawiła receptę do realizacji, nie ukończyła 13. roku życia,
     - **e)** zachodzi uzasadnione podejrzenie co do wieku osoby, dla której została wystawiona recepta.
 
@@ -3919,19 +4506,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** sposób sporządzania leku recepturowego i aptecznego,
 - **3)** sposób wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych,
 - **4)** wzór zapotrzebowania,
-- **5)** sposób prowadzenia oraz wzory ewidencji zapotrzebowań, ewidencji recept farmaceutycznych i ewidencji zrealizowanych zapotrzebowań mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów, stworzenia mechanizmów przeciwdziałania nadużyciom w zakresie realizacji zapotrzebowań i wydawania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych oraz aktualizacji prowadzonych ewidencji i zapewnienia identyfikacji osób dokonujących do nich wpisów.
+- **5)** sposób prowadzenia oraz wzory ewidencji zapotrzebowań, ewidencji recept farmaceutycznych i ewidencji zrealizowanych zapotrzebowań – mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów, stworzenia mechanizmów przeciwdziałania nadużyciom w zakresie realizacji zapotrzebowań i wydawania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych oraz aktualizacji prowadzonych ewidencji i zapewnienia identyfikacji osób dokonujących do nich wpisów.
 
 10. Minister Sprawiedliwości w odniesieniu do aptek zakładowych i działów farmacji szpitalnej w podmiotach leczniczych utworzonych przez tego ministra określi, w drodze rozporządzenia, sposób:
 
 - **1)** wystawiania i realizacji zapotrzebowań zbiorczych i imiennych,
 - **2)** prowadzenia ewidencji zapotrzebowań zbiorczych i imiennych,
-- **3)** sporządzania leku recepturowego i aptecznego mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów i identyfikacji osób realizujących te zapotrzebowania.
+- **3)** sporządzania leku recepturowego i aptecznego – mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów i identyfikacji osób realizujących te zapotrzebowania.
 
 11. Minister Obrony Narodowej w odniesieniu do aptek zakładowych i działów farmacji szpitalnej w podmiotach leczniczych utworzonych przez tego ministra określi, w drodze rozporządzenia:
 
 - **1)** sposób realizacji zapotrzebowań zbiorczych i imiennych,
 - **2)** wzory zapotrzebowania zbiorczego i zapotrzebowania imiennego,
-- **3)** sposób sporządzania leku recepturowego i aptecznego mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów i identyfikacji osób realizujących te zapotrzebowania.
+- **3)** sposób sporządzania leku recepturowego i aptecznego – mając na względzie konieczność zapewnienia bezpieczeństwa lekowego pacjentów i identyfikacji osób realizujących te zapotrzebowania.
 
 **Art. 96a.**
 
@@ -3939,36 +4526,36 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** dane dotyczące pacjenta:
     - **a)** imię albo imiona i nazwisko albo oznaczenie „NN”, w przypadku osób o nieustalonej tożsamości,
-    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): miejsca zamieszkania albo miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo urzędu gminy, gminnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165) centrum usług społecznych w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej w przypadku osoby bezdomnej, o której mowa w art. 6 pkt 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo „NMZ”, w przypadku osób o nieustalonym miejscu zamieszkania,
+    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy, gminnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165) – centrum usług społecznych – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej – w przypadku osoby bezdomnej, o której mowa w art. 6 pkt 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo – „NMZ”, w przypadku osób o nieustalonym miejscu zamieszkania,
     - **c)** identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
     - **d)** datę urodzenia pacjenta, w przypadku gdy nie można jej ustalić na podstawie innych danych zamieszczonych na recepcie,
     - **e)** kod uprawnień dodatkowych pacjenta, jeżeli dotyczy;
 
 - **2)** dane dotyczące podmiotu, w którym wystawiono receptę lub osoby, która wystawiła receptę pro auctore albo receptę pro familiae:
-    - **a)** w przypadku: podmiotu wykonującego działalność leczniczą nazwę albo firmę, łącznie z nazwą jednostki organizacyjnej, nazwą komórki organizacyjnej, jeżeli dotyczy, osoby wystawiającej receptę pro auctore albo receptę pro familiae imię i nazwisko, podmiotu prowadzącego aptekę nazwę albo firmę, łącznie z nazwą i adresem apteki,
-    - **b)** adres miejsca udzielania świadczenia zdrowotnego albo usługi farmaceutycznej (nazwa miejscowości, kod pocztowy, ulica, numer domu, numer lokalu, jeżeli zostały nadane), a w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania adres miejsca przyjmowania wezwań i miejsca przechowywania dokumentacji medycznej; w przypadku osoby wystawiającej receptę pro auctore albo receptę pro familiae adres miejsca zamieszkania (nazwa miejscowości, kod pocztowy, ulica, numer domu, numer lokalu, jeżeli zostały nadane),
-    - **c)** numer telefonu dostępny w miejscu udzielania świadczenia albo usługi farmaceutycznej; w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania albo wystawiających receptę pro auctore albo receptę pro familiae numer telefonu kontaktowego do osoby wystawiającej receptę,
-    - **d)** identyfikator miejsca udzielania świadczeń: w przypadku recept w postaci elektronicznej identyfikator, o którym mowa w art. 17c ust. 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w przypadku recept w postaci papierowej dziewięciocyfrowy numer REGON, jeżeli dotyczy;
+    - **a)** w przypadku: – podmiotu wykonującego działalność leczniczą – nazwę albo firmę, łącznie z nazwą jednostki organizacyjnej, nazwą komórki organizacyjnej, jeżeli dotyczy, – osoby wystawiającej receptę pro auctore albo receptę pro familiae – imię i nazwisko, – podmiotu prowadzącego aptekę – nazwę albo firmę, łącznie z nazwą i adresem apteki,
+    - **b)** adres miejsca udzielania świadczenia zdrowotnego albo usługi farmaceutycznej (nazwa miejscowości, kod pocztowy, ulica, numer domu, numer lokalu, jeżeli zostały nadane), a w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania – adres miejsca przyjmowania wezwań i miejsca przechowywania dokumentacji medycznej; w przypadku osoby wystawiającej receptę pro auctore albo receptę pro familiae – adres miejsca zamieszkania (nazwa miejscowości, kod pocztowy, ulica, numer domu, numer lokalu, jeżeli zostały nadane),
+    - **c)** numer telefonu dostępny w miejscu udzielania świadczenia albo usługi farmaceutycznej; w przypadku osób wykonujących działalność leczniczą wyłącznie w miejscu wezwania albo wystawiających receptę pro auctore albo receptę pro familiae – numer telefonu kontaktowego do osoby wystawiającej receptę,
+    - **d)** identyfikator miejsca udzielania świadczeń: – w przypadku recept w postaci elektronicznej – identyfikator, o którym mowa w art. 17c ust. 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, – w przypadku recept w postaci papierowej – dziewięciocyfrowy numer REGON, jeżeli dotyczy;
 
 - **3)** dane dotyczące osoby wystawiającej receptę albo odpis recepty oraz osoby upoważnionej do wystawienia recepty, jeżeli dotyczy:
     - **a)** imię (imiona) i nazwisko osoby wystawiającej receptę albo odpis recepty oraz imię (imiona) i nazwisko osoby upoważnionej do wystawienia recepty, jeżeli dotyczy,
     - **b)** kwalifikacje zawodowe, w tym posiadany tytuł zawodowy, osoby wystawiającej receptę albo odpis recepty oraz osoby upoważnionej do wystawienia recepty, jeżeli dotyczy,
-    - **c)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia w przypadku osoby wystawiającej receptę, ca) identyfikator osoby upoważnionej, o którym mowa w art. 17c ust. 5a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia w przypadku osoby upoważnionej do wystawienia recepty, jeżeli dotyczy,
+    - **c)** identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku osoby wystawiającej receptę, ca) identyfikator osoby upoważnionej, o którym mowa w art. 17c ust. 5a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku osoby upoważnionej do wystawienia recepty, jeżeli dotyczy,
     - **d)** adres poczty elektronicznej lub numer telefonu wraz z prefiksem międzynarodowym do kontaktu z osobą wystawiającą receptę lub osobą upoważnioną do wystawienia recepty, jeżeli dotyczy,
-    - **e)** podpis osoby wystawiającej albo osoby upoważnionej do wystawienia recepty, w przypadku recepty: w postaci elektronicznej − kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych albo w postaci papierowej podpis własnoręczny;
+    - **e)** podpis osoby wystawiającej albo osoby upoważnionej do wystawienia recepty, w przypadku recepty: – w postaci elektronicznej − kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych albo – w postaci papierowej – podpis własnoręczny;
 
 - **4)** dane dotyczące przepisanego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego:
     - **a)** nazwę powszechnie stosowaną (międzynarodową) lub nazwę handlową produktu leczniczego albo rodzajową lub handlową nazwę środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego lub ich nazwę skróconą, która w jednoznaczny sposób pozwala określić przepisany produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny,
     - **b)** postać, w jakiej produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny ma być wydany, jeżeli występuje w obrocie w więcej niż jednej postaci,
     - **c)** dawkę produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny występuje w więcej niż jednej dawce,
-    - **d)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, a w przypadku: leku recepturowego jego skład lub nazwę mieszaniny składników, która jest używana zwyczajowo w praktyce farmaceutycznej albo leku aptecznego jego nazwę zgodną z Farmakopeą Europejską lub innymi odpowiednimi farmakopeami uznawanymi w państwach członkowskich Unii Europejskiej, ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, a w przypadku leku recepturowego jego skład lub nazwę mieszaniny składników, która jest używana zwyczajowo w praktyce farmaceutycznej, leku aptecznego jego nazwę zgodną z Farmakopeą Europejską lub innymi odpowiednimi farmakopeami uznawanymi w państwach członkowskich Unii Europejskiej. Ilość produktu leczniczego, leku recepturowego, leku aptecznego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego oraz surowca farmaceutycznego przeznaczonego do sporządzenia leku recepturowego, określa się cyframi arabskimi lub słownie, a ilość surowca farmaceutycznego przeznaczonego do sporządzenia leku recepturowego będącego środkiem obojętnym, przeznaczonym do nadania odpowiedniej postaci produktu leczniczego, można również określić wyrazami „ilość odpowiednia”, „quantum satis” lub „q.s.”,
+    - **d)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, a w przypadku: – leku recepturowego – jego skład lub nazwę mieszaniny składników, która jest używana zwyczajowo w praktyce farmaceutycznej albo – leku aptecznego – jego nazwę zgodną z Farmakopeą Europejską lub innymi odpowiednimi farmakopeami uznawanymi w państwach członkowskich Unii Europejskiej, – ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, a w przypadku leku recepturowego – jego skład lub nazwę mieszaniny składników, która jest używana zwyczajowo w praktyce farmaceutycznej, leku aptecznego – jego nazwę zgodną z Farmakopeą Europejską lub innymi odpowiednimi farmakopeami uznawanymi w państwach członkowskich Unii Europejskiej. Ilość produktu leczniczego, leku recepturowego, leku aptecznego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego oraz surowca farmaceutycznego przeznaczonego do sporządzenia leku recepturowego, określa się cyframi arabskimi lub słownie, a ilość surowca farmaceutycznego przeznaczonego do sporządzenia leku recepturowego będącego środkiem obojętnym, przeznaczonym do nadania odpowiedniej postaci produktu leczniczego, można również określić wyrazami „ilość odpowiednia”, „quantum satis” lub „q.s.”,
     - **e)** sposób dawkowania produktu leczniczego albo sposób stosowania w przypadku wyrobów medycznych lub środków spożywczych specjalnego przeznaczenia żywieniowego;
 
 - **5)** dane dotyczące daty realizacji recepty:
     - **a)** datę wystawienia recepty,
     - **b)** datę realizacji recepty „od dnia”, a jeżeli nie dotyczy znak „X”;
 
-- **6)** unikalny numer identyfikujący receptę nadawany przez system teleinformatyczny usługodawcy lub system, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia w przypadku recepty w postaci elektronicznej, a w przypadku recepty w postaci papierowej na produkt leczniczy o kategorii dostępności „Rpw” unikalny numer identyfikujący receptę nadawany przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia.
+- **6)** unikalny numer identyfikujący receptę nadawany przez system teleinformatyczny usługodawcy lub system, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia – w przypadku recepty w postaci elektronicznej, a w przypadku recepty w postaci papierowej na produkt leczniczy o kategorii dostępności „Rpw” – unikalny numer identyfikujący receptę nadawany przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia.
 - **7)** (uchylony) 1a. Recepta transgraniczna w postaci papierowej zawiera co najmniej następujące dane:
 - **1)** imię lub imiona i nazwisko pacjenta;
 - **2)** datę urodzenia pacjenta;
@@ -3999,10 +4586,10 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** polecenie pilnej realizacji recepty przez zamieszczenie adnotacji „cito” lub innej równoważnej;
 - **2)** informację o zasadności wydania pacjentowi określonego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego przez zapis „nie zamieniać” lub „NZ” przy pozycji produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, którego dotyczy ta informacja, pod warunkiem uzasadnionych wskazań medycznych lub występujących przy zastosowaniu tego produktu leczniczego udokumentowanych działań niepożądanych. 1da. W przypadku uwzględnienia na recepcie informacji, o której mowa w ust. 1d pkt 2, osoba wystawiająca receptę dodatkowo zamieszcza w dokumentacji medycznej pacjenta, którego recepta dotyczy, szczegółowe uzasadnienie przepisania temu pacjentowi określonego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego. 1db. Niezależnie od ust. 1d pkt 2, na żądanie lub za zgodą pacjenta dopuszcza się wydanie:
-- **1)** innego produktu leczniczego niż przepisany przez osobę wystawiającą receptę jeżeli całkowita ilość substancji czynnej albo substancji czynnych, zawartych w wydawanym produkcie leczniczym odpowiada całkowitej ilości substancji czynnej albo substancji czynnych zawartych w przepisanym na recepcie produkcie leczniczym, a produkty te posiadają również te same wskazania i tę samą drogę podania;
+- **1)** innego produktu leczniczego niż przepisany przez osobę wystawiającą receptę – jeżeli całkowita ilość substancji czynnej albo substancji czynnych, zawartych w wydawanym produkcie leczniczym odpowiada całkowitej ilości substancji czynnej albo substancji czynnych zawartych w przepisanym na recepcie produkcie leczniczym, a produkty te posiadają również te same wskazania i tę samą drogę podania;
 - **2)** innego niż przepisany na recepcie, środka spożywczego specjalnego przeznaczenia żywieniowego mającego ten sam albo zbliżony skład, zastosowanie lub sposób przygotowania, lub wyrobu medycznego mającego takie samo przewidziane zastosowanie oraz właściwości.
 
-1e. W dolnej części recepty wystawianej w postaci papierowej zamieszcza się, w formie wydruku, nazwę i adres lub numer REGON podmiotu drukującego receptę, a w przypadku gdy wydruku dokonuje osoba wystawiająca receptę zwrot „wydruk własny”.
+1e. W dolnej części recepty wystawianej w postaci papierowej zamieszcza się, w formie wydruku, nazwę i adres lub numer REGON podmiotu drukującego receptę, a w przypadku gdy wydruku dokonuje osoba wystawiająca receptę – zwrot „wydruk własny”.
 
 2. Lekarz, lekarz dentysta, felczer, starszy felczer może przepisać dla jednego pacjenta jednorazowo maksymalnie:
 
@@ -4015,7 +4602,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 4. Pielęgniarka i położna może przepisać dla jednego pacjenta jednorazowo maksymalnie:
 
 - **1)** ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, lub wyrobu medycznego niezbędną pacjentowi do 120-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania;
-- **2)** ilość produktu leczniczego antykoncepcyjnego przeznaczoną do 60-dniowego stosowania wyłącznie w ramach kontynuacji zlecenia lekarskiego.
+- **2)** ilość produktu leczniczego antykoncepcyjnego przeznaczoną do 60-dniowego stosowania – wyłącznie w ramach kontynuacji zlecenia lekarskiego.
 
 4a. W przypadku recepty w postaci elektronicznej pielęgniarka i położna może przepisać dla jednego pacjenta jednorazowo maksymalnie ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną pacjentowi do 180-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania, w tym w przypadku produktu leczniczego antykoncepcyjnego wyłącznie w ramach kontynuacji zlecenia lekarskiego. Przepisu ust. 5 nie stosuje się.
 
@@ -4025,7 +4612,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 7. Termin realizacji recepty nie może przekroczyć:
 
-- **1)** 30 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia”, a w przypadku recepty w postaci elektronicznej 365 dni;
+- **1)** 30 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia”, a w przypadku recepty w postaci elektronicznej – 365 dni;
 - **2)** 7 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia” dla recepty na antybiotyki w postaci preparatów do stosowania wewnętrznego i parenteralnego;
 - **3)** 120 dni od daty jej wystawienia na:
     - **a)** produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego sprowadzane z zagranicy dla pacjenta na podstawie art. 4 albo art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia,
@@ -4036,7 +4623,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 7a. W przypadku realizacji recepty elektronicznej:
 
 - **1)** po upływie 30 dni od daty jej wystawienia albo naniesionej na recepcie daty realizacji „od dnia”, recepta jest realizowana z wyłączeniem dni stosowania, które już upłynęły, licząc je od daty wystawienia recepty albo naniesionej na recepcie daty realizacji „od dnia”,
-- **2)** pacjent od dnia realizacji recepty może otrzymać maksymalnie ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną pacjentowi do 120-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania przy czym w przypadku produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, wydawanego w opakowaniach, których wielkość uniemożliwia wydanie go w ilości niezbędnej do stosowania przez wyliczony okres, dopuszcza się wydanie go w ilości przekraczającej tę ilość, jednak niewięcej niż o jedno najmniejsze opakowanie. 7aa. W przypadku gdy na recepcie, o której mowa w ust. 7a pkt 2, przepisano ilość większą niż do 120-dniowego stosowania, kolejną ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną do następnego 120-dniowego okresu stosowania pacjent może otrzymać po upływie 3/4 okresu, na który zrealizował receptę. 7ab. Obliczenia ilości produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego przeznaczonego do wydania pacjentowi na zasadach, o których mowa w ust. 7a i 7aa, z wyjątkiem ilości leku recepturowego oraz ilości produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego przeznaczonego do stosowania na okres niedłuższy niż 120 dni, dokonuje system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **2)** pacjent od dnia realizacji recepty może otrzymać maksymalnie ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną pacjentowi do 120-dniowego okresu stosowania wyliczonego na podstawie określonego na recepcie sposobu dawkowania – przy czym w przypadku produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, wydawanego w opakowaniach, których wielkość uniemożliwia wydanie go w ilości niezbędnej do stosowania przez wyliczony okres, dopuszcza się wydanie go w ilości przekraczającej tę ilość, jednak niewięcej niż o jedno najmniejsze opakowanie. 7aa. W przypadku gdy na recepcie, o której mowa w ust. 7a pkt 2, przepisano ilość większą niż do 120-dniowego stosowania, kolejną ilość produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego niezbędną do następnego 120-dniowego okresu stosowania pacjent może otrzymać po upływie 3/4 okresu, na który zrealizował receptę. 7ab. Obliczenia ilości produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego przeznaczonego do wydania pacjentowi na zasadach, o których mowa w ust. 7a i 7aa, z wyjątkiem ilości leku recepturowego oraz ilości produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego przeznaczonego do stosowania na okres niedłuższy niż 120 dni, dokonuje system teleinformatyczny, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 7b. W okresie ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii termin realizacji recepty, o którym mowa w ust. 7, może zostać przedłużony o niewięcej niż 150 dni, licząc od dnia jej wystawienia, w zakresie produktów leczniczych określonych w przepisach wydanych na podstawie ust. 7c.
 
@@ -4045,50 +4632,50 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 8. Recepta, na której co najmniej jeden z przepisanych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego, wyrobów medycznych, dla którego wydano decyzję o objęciu refundacją w rozumieniu przepisów ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ma być wydany za odpłatnością, o której mowa w art. 6 ust. 2 tej ustawy, obejmuje:
 
 - **1)** dane, o których mowa w ust. 1;
-- **1a)** numer poświadczenia, o którym mowa w art. 52 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych w przypadku korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 32 tej ustawy, zwanych dalej „przepisami o koordynacji”, a w razie braku tego poświadczenia numer dokumentu uprawniającego do korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, wystawionego przez właściwą instytucję zagraniczną;
-- **1b)** numer paszportu albo innego dokumentu ze zdjęciem potwierdzającego tożsamość w przypadku cudzoziemca niebędącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, a w przypadku osoby posiadającej Kartę Polaka jej numer;
+- **1a)** numer poświadczenia, o którym mowa w art. 52 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych – w przypadku korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w rozumieniu art. 5 pkt 32 tej ustawy, zwanych dalej „przepisami o koordynacji”, a w razie braku tego poświadczenia – numer dokumentu uprawniającego do korzystania ze świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, wystawionego przez właściwą instytucję zagraniczną;
+- **1b)** numer paszportu albo innego dokumentu ze zdjęciem potwierdzającego tożsamość – w przypadku cudzoziemca niebędącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, a w przypadku osoby posiadającej Kartę Polaka – jej numer;
 - **2)** (uchylony)
 - **3)** kod uprawnień dodatkowych pacjenta, jeżeli dotyczy;
 - **4)** w przypadku osób nieubezpieczonych posiadających prawo do świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych odpowiedni identyfikator: o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-    - **a)** „BW” dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 2 i art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-    - **b)** „DN” dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r.
-    - **c)** „CN” dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 4 ustawy z dnia 27 sierpnia 2004 r.
-    - **d)** „IN” dla pacjenta innego niż ubezpieczony, posiadającego uprawnienia do bezpłatnych świadczeń opieki zdrowotnej zgodnie z przepisami wymienionymi w art. 12 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+    - **a)** „BW” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 2 i art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
+    - **b)** „DN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r.
+    - **c)** „CN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 4 ustawy z dnia 27 sierpnia 2004 r.
+    - **d)** „IN” – dla pacjenta innego niż ubezpieczony, posiadającego uprawnienia do bezpłatnych świadczeń opieki zdrowotnej zgodnie z przepisami wymienionymi w art. 12 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 
 - **5)** symbol państwa odpowiedniego dla instytucji właściwej dla osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
-- **6)** unikalny numer identyfikujący receptę nadawany przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia w przypadku recepty w postaci papierowej;
+- **6)** unikalny numer identyfikujący receptę nadawany przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia – w przypadku recepty w postaci papierowej;
 - **7)** odpłatność produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, określoną w następujący sposób: o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w przypadkach innych niż wskazane w tiret pierwsze i drugie;
     - **a)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w jednej odpłatności, osoba wystawiająca receptę może nie wpisać tej odpłatności,
-    - **b)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w więcej niż jednej odpłatności, osoba wystawiająca receptę: wpisuje symbol „P” w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego za najniższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, może nie wpisać poziomu odpłatności w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego za najwyższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, wpisuje odpłatność określoną w wykazie, o którym mowa w art. 37 ust. 1 i 4 ustawy z dnia 12 maja 2011 r.
+    - **b)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w więcej niż jednej odpłatności, osoba wystawiająca receptę: – wpisuje symbol „P” w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego za najniższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – może nie wpisać poziomu odpłatności w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego za najwyższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – wpisuje odpłatność określoną w wykazie, o którym mowa w art. 37 ust. 1 i 4 ustawy z dnia 12 maja 2011 r.
 
 - **8)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny jest przepisywany poza zakresem refundacji, osoba wystawiająca receptę wpisuje symbol „X” albo 100 %;
 - **9)** odpłatność, o której mowa w pkt 7, może także być określona w następujący sposób:
-    - **a)** B lub równoważne dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego bezpłatnie,
-    - **b)** R lub równoważne dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością ryczałtową,
-    - **c)** 30 % dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością 30 % limitu finansowania,
-    - **d)** 50 % dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością 50 % limitu finansowania;
+    - **a)** B lub równoważne – dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego bezpłatnie,
+    - **b)** R lub równoważne – dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością ryczałtową,
+    - **c)** 30 % – dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością 30 % limitu finansowania,
+    - **d)** 50 % – dla produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego wydawanego za odpłatnością 50 % limitu finansowania;
 
 - **10)** oznaczenia, o których mowa w pkt 7–9, nie są wymagane w przypadku recept wystawianych dla pacjentów posiadających uprawnienie, o którym mowa w art. 46 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz w przypadku recept na leki i środki spożywcze specjalnego przeznaczenia żywieniowego sprowadzane z zagranicy dla pacjenta, na podstawie art. 4 albo art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
 
 8a. (uchylony)
 
-9. Na jednej recepcie w postaci papierowej przepisuje się do pięciu produktów leczniczych gotowych lub środków spożywczych specjalnego przeznaczenia żywieniowego, lub wyrobów medycznych albo jeden produkt leczniczy recepturowy, a na recepcie wystawionej w postaci elektronicznej jeden produkt leczniczy lub środek spożywczy specjalnego przeznaczenia żywieniowego, lub wyrób medyczny. W przypadku wystawienia więcej niż jednej recepty w postaci elektronicznej, osoba wystawiająca może, w celu usprawnienia ich realizacji, połączyć te recepty w pakiet.
+9. Na jednej recepcie w postaci papierowej przepisuje się do pięciu produktów leczniczych gotowych lub środków spożywczych specjalnego przeznaczenia żywieniowego, lub wyrobów medycznych albo jeden produkt leczniczy recepturowy, a na recepcie wystawionej w postaci elektronicznej – jeden produkt leczniczy lub środek spożywczy specjalnego przeznaczenia żywieniowego, lub wyrób medyczny. W przypadku wystawienia więcej niż jednej recepty w postaci elektronicznej, osoba wystawiająca może, w celu usprawnienia ich realizacji, połączyć te recepty w pakiet.
 
 9a. Receptę wystawioną w postaci elektronicznej zapisuje się w SIM.
 
 9b. Treść recepty zapisanej w SIM nie może być zmieniana. Recepta wystawiona w postaci elektronicznej, której treść wymaga zmiany, zostaje anulowana w SIM przez osobę wystawiającą tę receptę, a zmiana treści takiej recepty następuje przez wystawienie nowej recepty.
 
-9c. Jeżeli recepta w postaci papierowej została wystawiona w sposób błędny, niekompletny lub niezgodny z ustawą, osoba wystawiająca receptę dokonuje poprawek na tej recepcie. Każda poprawka wymaga dodatkowego złożenia własnoręcznego podpisu i odciśnięcia pieczątki albo nadrukowania przy poprawianej informacji danych identyfikujących osobę wystawiającą receptę.
+9c. Jeżeli recepta w postaci papierowej została wystawiona w sposób błędny, niekompletny lub niezgodny z ustawą, osoba wystawiająca receptę dokonuje poprawek na tej recepcie. Każda poprawka wymaga dodatkowego złożenia własnoręcznego podpisu i odciśnięcia pieczątki albo nadrukowania – przy poprawianej informacji – danych identyfikujących osobę wystawiającą receptę.
 
 9d. Apteka przechowuje recepty przez okres 5 lat, licząc od zakończenia roku kalendarzowego, w którym:
 
-- **1)** nastąpiła refundacja w przypadku recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne;
-- **2)** zostały one realizowane w przypadku recept innych niż określone w pkt 1.
+- **1)** nastąpiła refundacja – w przypadku recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne;
+- **2)** zostały one realizowane – w przypadku recept innych niż określone w pkt 1.
 
 9e. Recepty w postaci elektronicznej są przechowywane w SIM przez okres co najmniej 5 lat, licząc od zakończenia roku kalendarzowego, w którym:
 
-- **1)** nastąpiła refundacja w przypadku recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne;
-- **2)** zostały zrealizowane w przypadku recept innych niż określone w pkt 1.
+- **1)** nastąpiła refundacja – w przypadku recept na refundowane leki, środki spożywcze specjalnego przeznaczenia żywieniowego lub wyroby medyczne;
+- **2)** zostały zrealizowane – w przypadku recept innych niż określone w pkt 1.
 
 10. (uchylony)
 
@@ -4096,12 +4683,16 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** sposób wystawiania i realizacji recept, w tym zakres danych niezbędnych do ich realizacji i wymagania dotyczące potwierdzania realizacji recept, 1a) sposób realizacji recepty transgranicznej w postaci elektronicznej wystawionej w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym,
+- **1)** sposób wystawiania i realizacji recept, w tym zakres danych niezbędnych do ich realizacji i wymagania dotyczące potwierdzania realizacji recept, 1a) sposób realizacji recepty transgranicznej w postaci elektronicznej wystawionej w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym,
 - **2)** budowę i sposób nadawania unikalnego numeru identyfikującego receptę, o którym mowa w ust. 1 pkt 6 i ust. 8 pkt 6, oraz sposób postępowania po nadaniu tego numeru,
 - **3)** sposób przechowywania recept,
 - **4)** kody uprawnień dodatkowych pacjentów i wykaz dokumentów potwierdzających te uprawnienia,
 - **5)** identyfikatory oddziałów wojewódzkich Narodowego Funduszu Zdrowia,
-- **6)** wymiary i wzory recept wystawianych w postaci papierowej uwzględniając konieczność zapewnienia bezpieczeństwa lekowego i ochrony interesu ekonomicznego pacjentów, a także mechanizmów przeciwdziałania nadużyciom w procesie wystawiania i realizacji recept oraz stworzenia podstaw kontroli tych procesów. Art. 96aa. 1. W przypadku cofnięcia zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchylenia, stwierdzenia wygaśnięcia albo nieważności podmiot prowadzący aptekę lub punkt apteczny jest obowiązany pisemnie, w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna, powiadomić o miejscu przechowywania recept i wydanych na ich podstawie odpisów wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki.
+- **6)** wymiary i wzory recept wystawianych w postaci papierowej – uwzględniając konieczność zapewnienia bezpieczeństwa lekowego i ochrony interesu ekonomicznego pacjentów, a także mechanizmów przeciwdziałania nadużyciom w procesie wystawiania i realizacji recept oraz stworzenia podstaw kontroli tych procesów.
+
+**Art. 96aa.**
+
+1. W przypadku cofnięcia zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchylenia, stwierdzenia wygaśnięcia albo nieważności podmiot prowadzący aptekę lub punkt apteczny jest obowiązany pisemnie, w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna, powiadomić o miejscu przechowywania recept i wydanych na ich podstawie odpisów wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki.
 
 2. Wojewódzki inspektor farmaceutyczny, o którym mowa w ust. 1, przekazuje informację określoną w ust. 1 oddziałowi wojewódzkiemu Narodowego Funduszu Zdrowia, który zawarł umowę na realizację recept, w terminie 3 dni od dnia jej otrzymania.
 
@@ -4134,8 +4725,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Informację, o której mowa w ust. 1, pacjent otrzymuje:
 
 - **1)** na wskazany w systemie informacji w ochronie zdrowia adres poczty elektronicznej, jeżeli dotyczy;
-- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu, w postaci wiadomości zawierającej co najmniej kod dostępu oraz informację o konieczności podania numeru PESEL przy realizacji recepty na żądanie pacjenta wyrażone w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
-- **3)** w postaci wydruku w przypadku braku wskazania w systemie informacji w ochronie zdrowia danych, o których mowa w pkt 1 i 2, oraz na żądanie pacjenta, albo w innej uzgodnionej postaci zawierającej co najmniej klucz dostępu do recepty lub pakietu recept lub kod dostępu oraz nazwę produktu leczniczego.
+- **2)** na wskazany w systemie informacji w ochronie zdrowia numer telefonu, w postaci wiadomości zawierającej co najmniej kod dostępu oraz informację o konieczności podania numeru PESEL przy realizacji recepty – na żądanie pacjenta wyrażone w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
+- **3)** w postaci wydruku – w przypadku braku wskazania w systemie informacji w ochronie zdrowia danych, o których mowa w pkt 1 i 2, oraz na żądanie pacjenta, albo w innej uzgodnionej postaci zawierającej co najmniej klucz dostępu do recepty lub pakietu recept lub kod dostępu oraz nazwę produktu leczniczego.
 
 2a. Do informacji, o której mowa w ust. 1, pacjent ma również dostęp w Internetowym Koncie Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub otrzymuje tę informację w sposób określony w ust. 2 lub 2b.
 
@@ -4185,7 +4776,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 98.**
 
-1. Lokal apteki szpitalnej jego wielkość, rodzaj, liczba pomieszczeń, z uwzględnieniem ust. 5 i 6, powinny wynikać z rodzaju wykonywanych przez aptekę czynności, przy uwzględnieniu profilu leczniczego, a także ilości wykonywanych świadczeń zdrowotnych w placówce, w której została utworzona.
+1. Lokal apteki szpitalnej – jego wielkość, rodzaj, liczba pomieszczeń, z uwzględnieniem ust. 5 i 6, powinny wynikać z rodzaju wykonywanych przez aptekę czynności, przy uwzględnieniu profilu leczniczego, a także ilości wykonywanych świadczeń zdrowotnych w placówce, w której została utworzona.
 
 2. Powierzchnia podstawowa lokalu apteki szpitalnej nie może być mniejsza niż 80 m .
 
@@ -4205,8 +4796,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2a. Do zezwoleń, o których mowa w ust. 1, nie stosuje się przepisów:
 
-- **1)** art. 494 § 2 i art. 531 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187);
-- **2)** art. 553 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych w przypadku przekształcenia spółki, o której mowa w art. 860 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny w spółkę handlową, oraz przekształcenia, o którym mowa w art. 551 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, chyba że spółka powstała w wyniku przekształcenia spełnia warunki, o których mowa w ust. 4 pkt 2 a nie zachodzą przesłanki z ust. 3a.
+- **1)** art. 494 § 2 i art. 531 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187);
+- **2)** art. 553 § 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych w przypadku przekształcenia spółki, o której mowa w art. 860 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny w spółkę handlową, oraz przekształcenia, o którym mowa w art. 551 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, chyba że spółka powstała w wyniku przekształcenia spełnia warunki, o których mowa w ust. 4 pkt 2 a nie zachodzą przesłanki z ust. 3a.
 
 3. Zezwolenia, o którym mowa w ust. 1, nie wydaje się, jeżeli podmiot ubiegający się o zezwolenie:
 
@@ -4236,7 +4827,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 3d. Ograniczeń, o których mowa w ust. 3b, nie stosuje się:
 
 - **1)** jeżeli na dzień złożenia wniosku o wydanie zezwolenia, odległość od miejsca planowanej lokalizacji apteki do najbliżej funkcjonującej apteki ogólnodostępnej, liczona pomiędzy wejściami do izb ekspedycyjnych aptek w linii prostej, wynosi co najmniej 1000 metrów;
-- **2)** gdy z wnioskiem o udzielenie zezwolenia występuje podmiot, który nabył całą aptekę ogólnodostępną, w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, od spadkobiercy podmiotu posiadającego zezwolenie i adres prowadzenia apteki nie ulega zmianie;
+- **2)** gdy z wnioskiem o udzielenie zezwolenia występuje podmiot, który nabył całą aptekę ogólnodostępną, w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, od spadkobiercy podmiotu posiadającego zezwolenie i adres prowadzenia apteki nie ulega zmianie;
 - **3)** gdy z wnioskiem o udzielenie zezwolenia występuje podmiot, o którym mowa w ust. 4 pkt 3.
 
 3e. Minister właściwy do spraw zdrowia może, ze względu na ważny interes pacjentów i konieczność zapewnienia im dostępu do produktów leczniczych, wyrazić zgodę na wydanie przez wojewódzkiego inspektora farmaceutycznego zezwolenia na prowadzenie apteki ogólnodostępnej z pominięciem ograniczeń, o których mowa w ust. 3b.
@@ -4267,11 +4858,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 99a.**
 
-1. Apteka ogólnodostępna oraz punkt apteczny przekazują Krajowemu Punktowi Kontaktowemu do spraw Transgranicznej Opieki Zdrowotnej lub oddziałowi wojewódzkiemu Narodowego Funduszu Zdrowia, o których mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na ich wniosek, dane dotyczące produktów leczniczych, wyrobów medycznych lub środków spożywczych specjalnego przeznaczenia żywieniowego, zakupionych przez wskazanych we wniosku pacjentów z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, oraz ich cen.
+1. Apteka ogólnodostępna oraz punkt apteczny przekazują Krajowemu Punktowi Kontaktowemu do spraw Transgranicznej Opieki Zdrowotnej lub oddziałowi wojewódzkiemu Narodowego Funduszu Zdrowia, o których mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na ich wniosek, dane dotyczące produktów leczniczych, wyrobów medycznych lub środków spożywczych specjalnego przeznaczenia żywieniowego, zakupionych przez wskazanych we wniosku pacjentów z innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, oraz ich cen.
 
 2. Dane określone w ust. 1 przekazuje się w terminie 14 dni od dnia otrzymania wniosku.
 
-3. Apteka ogólnodostępna oraz punkt apteczny są obowiązane do realizacji recept transgranicznych wystawionych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
+3. Apteka ogólnodostępna oraz punkt apteczny są obowiązane do realizacji recept transgranicznych wystawionych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
 
 **Art. 99b.**
 
@@ -4285,8 +4876,8 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 1. Podmioty, o których mowa w art. 99 ust. 4, występujące o zezwolenie na prowadzenie apteki ogólnodostępnej składają wniosek zawierający:
 
-- **1)** oznaczenie podmiotu, jego siedzibę i adres, a w przypadku podmiotu będącego osobą fizyczną imię, nazwisko oraz adres prowadzenia działalności gospodarczej;
-- **2)** numer identyfikacji podatkowej (NIP) oraz numer PESEL lub gdy ten numer nie został nadany numer paszportu, dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, w przypadku gdy podmiot jest osobą fizyczną;
+- **1)** oznaczenie podmiotu, jego siedzibę i adres, a w przypadku podmiotu będącego osobą fizyczną – imię, nazwisko oraz adres prowadzenia działalności gospodarczej;
+- **2)** numer identyfikacji podatkowej (NIP) oraz numer PESEL lub – gdy ten numer nie został nadany – numer paszportu, dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, w przypadku gdy podmiot jest osobą fizyczną;
 - **2a)** numer we właściwym rejestrze;
 - **3)** wskazanie adresu apteki;
 - **4)** nazwę apteki, o ile taka występuje;
@@ -4311,18 +4902,18 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **6)** oświadczenie, w którym wymienione będą wszystkie podmioty kontrolowane przez wnioskodawcę w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu ustawy o ochronie konkurencji i konsumentów. Wnioskodawca podaje oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres;
 - **7)** oświadczenie, w którym wymienione będą wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów, której członkiem jest wnioskodawca. Wnioskodawca podaje oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres;
 - **8)** oświadczenie o liczbie prowadzonych aptek na podstawie udzielonych zezwoleń;
-- **9)** zaświadczenie o posiadaniu przez wnioskodawcę prawa wykonywania zawodu farmaceuty, wydane przez radę okręgowej izby aptekarskiej, której farmaceuta jest członkiem, w trybie określonym w art. 19 ust. 1 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty jeżeli dotyczy;
-- **10)** numer wpisu do Krajowego Rejestru Sądowego spółki posiadającej zezwolenie na prowadzenie hurtowni farmaceutycznej lub zajmującej się pośrednictwem w obrocie produktami leczniczymi w przypadku, gdy w skład jej organów wchodzi wnioskodawca, wspólnik lub partner spółki będącej wnioskodawcą.
+- **9)** zaświadczenie o posiadaniu przez wnioskodawcę prawa wykonywania zawodu farmaceuty, wydane przez radę okręgowej izby aptekarskiej, której farmaceuta jest członkiem, w trybie określonym w art. 19 ust. 1 pkt 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty – jeżeli dotyczy;
+- **10)** numer wpisu do Krajowego Rejestru Sądowego spółki posiadającej zezwolenie na prowadzenie hurtowni farmaceutycznej lub zajmującej się pośrednictwem w obrocie produktami leczniczymi – w przypadku, gdy w skład jej organów wchodzi wnioskodawca, wspólnik lub partner spółki będącej wnioskodawcą.
 
 2a. Dokumenty, o których mowa w ust. 2, lub uwierzytelnione kopie tych dokumentów składa się w postaci papierowej lub elektronicznej. Kopie dokumentów, o których mowa w ust. 2, w postaci elektronicznej uwierzytelnia się, opatrując je kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
 2b. W przypadku, gdy wniosek składa spółka, o której mowa w art. 99 ust. 4 pkt 2, oświadczenia i zaświadczenie, o których mowa w ust. 2 pkt 6–9, składają także wszyscy wspólnicy i partnerzy. W oświadczeniu, o którym mowa w ust. 2:
 
-- **1)** pkt 6 są wymieniane wszystkie podmioty kontrolowane przez wspólnika lub partnera w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu przepisów o ochronie konkurencji i konsumentów;
-- **2)** pkt 7 są wymieniane wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów, której członkiem jest wspólnik lub partner;
-- **3)** pkt 8 są wymieniane wszystkie podmioty kontrolowane przez wspólnika lub partnera w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu przepisów o ochronie konkurencji i konsumentów, a także wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów.
+- **1)** pkt 6 – są wymieniane wszystkie podmioty kontrolowane przez wspólnika lub partnera w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu przepisów o ochronie konkurencji i konsumentów;
+- **2)** pkt 7 – są wymieniane wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów, której członkiem jest wspólnik lub partner;
+- **3)** pkt 8 – są wymieniane wszystkie podmioty kontrolowane przez wspólnika lub partnera w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu przepisów o ochronie konkurencji i konsumentów, a także wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów.
 
-2c. Oświadczenia, o których mowa w ust. 2 pkt 5a–8 oraz ust. 2b składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+2c. Oświadczenia, o których mowa w ust. 2 pkt 5a–8 oraz ust. 2b składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 3. Wniosek, o którym mowa w ust. 1, ubiegający się o zezwolenie składa do wojewódzkiego inspektora farmaceutycznego w postaci papierowej albo elektronicznej.
 
@@ -4330,7 +4921,23 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 101.** Wojewódzki inspektor farmaceutyczny odmawia udzielenia zezwolenia na prowadzenie apteki ogólnodostępnej, gdy:
 
+- **1)** wnioskodawca nie spełnia warunków określonych w art. 88, art. 97, art. 99 ust. 4, 4a i 4b oraz art. 100 ust. 2 i ust. 4;
+- **2)** wnioskodawcy w okresie 3 lat przed dniem złożenia wniosku cofnięto zezwolenie na wytwarzanie lub import produktów leczniczych lub produktów leczniczych weterynaryjnych, prowadzenie apteki lub hurtowni farmaceutycznej, lub wnioskodawca w okresie 3 lat przed dniem złożenia wniosku został skreślony z Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi;
+- **3)** wnioskodawca posiada zezwolenie na wytwarzanie lub import produktu leczniczego albo produktu leczniczego weterynaryjnego albo wystąpił z wnioskiem o wydanie takiego zezwolenia, prowadzi hurtownię farmaceutyczną lub hurtownię farmaceutyczną produktów leczniczych weterynaryjnych albo wystąpił z wnioskiem o wydanie zezwolenia na jej prowadzenie, zajmuje się pośrednictwem w obrocie produktami leczniczymi albo wystąpił z wnioskiem o wpis do rejestru, o którym mowa w art. 73a ust. 3, lub wykonuje działalność leczniczą albo wystąpił z wnioskiem o wpis do rejestru, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **4)** wnioskodawca nie daje rękojmi należytego prowadzenia apteki;
+- **5)** na wnioskodawcę w okresie 3 lat przed dniem złożenia wniosku nałożono karę pieniężną na podstawie art. 127, art. 127b lub art. 127c;
+- **6)** lokalizacja nie spełnia warunków określonych w art. 99 ust. 3b, z wyjątkiem przypadków, o których mowa w art. 99 ust. 3d;
+- **7)** właściciel, wspólnik, współwłaściciel lub członek organu wnioskodawcy został prawomocnie skazany za przestępstwo, o którym mowa w art. 126b lub art. 126c.
+
 **Art. 102.** Zezwolenie na prowadzenie apteki powinno zawierać:
+
+- **1)** nazwę i siedzibę podmiotu, na rzecz którego zostało wydane zezwolenie, a w przypadku podmiotu będącego osobą fizyczną – imię, nazwisko i adres, pod którym jest wykonywana działalność gospodarcza;
+- **2)** gminę, na obszarze której apteka ma być utworzona;
+- **3)** adres prowadzenia apteki;
+- **4)** nazwę apteki, o ile taka jest nadana;
+- **5)** numer zezwolenia na prowadzenie apteki;
+- **6)** termin ważności zezwolenia na prowadzenie apteki, jeżeli jest oznaczony;
+- **7)** podstawowe warunki prowadzenia apteki.
 
 **Art. 103.**
 
@@ -4353,7 +4960,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **4a)** apteka przekazuje, z wyłączeniem:
     - **a)** Inspekcji Farmaceutycznej,
     - **b)** Narodowego Funduszu Zdrowia,
-    - **c)** SIM dane umożliwiające identyfikację indywidualnego pacjenta, lekarza lub świadczeniodawcy;
+    - **c)** SIM – dane umożliwiające identyfikację indywidualnego pacjenta, lekarza lub świadczeniodawcy;
 
 - **5)** nie wykonano decyzji wojewódzkiego inspektora farmaceutycznego, o której mowa w art. 94a ust. 3, lub decyzji Głównego Inspektora Farmaceutycznego, o której mowa w art. 62 ust. 2;
 - **6)** (uchylony)
@@ -4387,12 +4994,12 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** jeżeli chociażby jeden z jej spadkobierców, jej małżonek, któremu przysługuje udział w przedsiębiorstwie, lub osoba, która nabyła przedsiębiorstwo lub udział w nim na podstawie zapisu windykacyjnego, spełnia warunki, o których mowa w art. 99 ust. 4 pkt 1, ust. 4a i 4b, oraz nie zachodzą w stosunku do nich okoliczności, o których mowa w art. 99 ust. 3 i 3a, art. 100 ust. 2 pkt 5a lit. a–c oraz art. 101 pkt 2–5;
 - **2)** przez okres 24 miesięcy od dnia śmierci, jeżeli chociażby jeden z jej spadkobierców, jej małżonek, któremu przysługuje udział w przedsiębiorstwie, osoba, która nabyła przedsiębiorstwo lub udział w nim na podstawie zapisu windykacyjnego albo zarządca sukcesyjny, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, spełnia warunki, o których mowa w art. 99 ust. 4a i 4b, oraz nie zachodzą w stosunku do nich okoliczności, o których mowa w art. 99 ust. 3 i 3a, art. 100 ust. 2 pkt 5a lit. a–c oraz art. 101 pkt 2–5.
 
-1b. Osoby, o których mowa w ust. 1a pkt 1 albo 2, obowiązane są, w terminie 12 miesięcy od dnia śmierci osoby, na rzecz której zostało wydane zezwolenie, złożyć wniosek do wojewódzkiego inspektora farmaceutycznego o dokonanie zmiany w zezwoleniu w zakresie określenia podmiotu posiadającego zezwolenie i wskazać osoby spełniające wymagania o których mowa w ust. 1a pkt 1 albo 2 jako zezwoleniobiorcę. W przypadku gdy osoby te nie wystąpią o dokonanie zmiany w zezwoleniu, wygasa ono z dniem następującym po ostatnim dniu terminu na złożenie wniosku.
+1b. Osoby, o których mowa w ust. 1a pkt 1 albo 2, obowiązane są, w terminie 12 miesięcy od dnia śmierci osoby, na rzecz której zostało wydane zezwolenie, złożyć wniosek do wojewódzkiego inspektora farmaceutycznego o dokonanie zmiany w zezwoleniu w zakresie określenia podmiotu posiadającego zezwolenie i wskazać osoby spełniające wymagania – o których mowa w ust. 1a pkt 1 albo 2 – jako zezwoleniobiorcę. W przypadku gdy osoby te nie wystąpią o dokonanie zmiany w zezwoleniu, wygasa ono z dniem następującym po ostatnim dniu terminu na złożenie wniosku.
 
 1c. Wojewódzki inspektor farmaceutyczny, po rozpatrzeniu wniosku, o którym mowa w ust. 1b:
 
-- **1)** zmienia zezwolenie w zakresie określenia podmiotu posiadającego zezwolenie w przypadku gdy osoba wskazana jako zezwoleniobiorca spełnia wymagania, o których mowa w ust. 1a pkt 1;
-- **2)** zmienia zezwolenie w zakresie określenia podmiotu posiadającego zezwolenie oraz określa termin ważności zezwolenia, zgodnie z wnioskiem, niedłuższy jednak niż 24 miesiące od dnia śmierci w przypadku gdy osoba wskazana jako zezwoleniobiorca spełnia wymagania, o których mowa w ust. 1a pkt 2.
+- **1)** zmienia zezwolenie w zakresie określenia podmiotu posiadającego zezwolenie – w przypadku gdy osoba wskazana jako zezwoleniobiorca spełnia wymagania, o których mowa w ust. 1a pkt 1;
+- **2)** zmienia zezwolenie w zakresie określenia podmiotu posiadającego zezwolenie oraz określa termin ważności zezwolenia, zgodnie z wnioskiem, niedłuższy jednak niż 24 miesiące od dnia śmierci – w przypadku gdy osoba wskazana jako zezwoleniobiorca spełnia wymagania, o których mowa w ust. 1a pkt 2.
 
 2. Stwierdzenie wygaśnięcia zezwolenia następuje w drodze decyzji organu, który ją wydał.
 
@@ -4408,7 +5015,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 **Art. 104a.**
 
-1. Organ zezwalający przenosi zezwolenie, o którym mowa w art. 99 ust. 1, na rzecz podmiotu, który nabył całą aptekę ogólnodostępną, w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, od podmiotu, na rzecz którego zostało wydane zezwolenie, jeżeli:
+1. Organ zezwalający przenosi zezwolenie, o którym mowa w art. 99 ust. 1, na rzecz podmiotu, który nabył całą aptekę ogólnodostępną, w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, od podmiotu, na rzecz którego zostało wydane zezwolenie, jeżeli:
 
 - **1)** nabywca apteki spełnia wymagania, o których mowa w art. 99 ust. 3, 3a, 4–4b i art. 101 pkt 2–5 oraz przyjmuje w pisemnym oświadczeniu wszystkie warunki zawarte w zezwoleniu;
 - **2)** adres prowadzenia apteki nie ulega zmianie.
@@ -4458,9 +5065,9 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. Rejestr udzielonych zezwoleń na prowadzenie aptek szpitalnych, zakładowych i działów farmacji szpitalnej zawiera:
 
-- **1)** nazwę (firmę), adres podmiotu leczniczego, któremu udzielono zezwolenia, a w przypadku osoby fizycznej imię, nazwisko i adres;
+- **1)** nazwę (firmę), adres podmiotu leczniczego, któremu udzielono zezwolenia, a w przypadku osoby fizycznej – imię, nazwisko i adres;
 - **2)** adres apteki lub działu;
-- **3)** dane apteki lub działu numer telefonu, numer faksu, adres e-mail, adres strony internetowej, jeżeli takie posiada;
+- **3)** dane apteki lub działu – numer telefonu, numer faksu, adres e-mail, adres strony internetowej, jeżeli takie posiada;
 - **4)** dni i godziny pracy apteki lub działu;
 - **5)** zakres działalności apteki lub działu;
 - **6)** imię i nazwisko kierownika apteki lub działu oraz jego identyfikator jako pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
@@ -4494,7 +5101,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** warunkami wytwarzania i importu produktów leczniczych i produktów leczniczych weterynaryjnych, 1a) warunkami wytwarzania, importu i dystrybucji substancji czynnej,
 - **2)** jakością, obrotem i pośrednictwem w obrocie produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych,
-- **3)** obrotem wyrobami medycznymi, z wyłączeniem wyrobów medycznych stosowanych w medycynie weterynaryjnej w celu zabezpieczenia interesu społecznego w zakresie bezpieczeństwa zdrowia i życia ludzi przy stosowaniu produktów leczniczych i wyrobów medycznych, znajdujących się w hurtowniach farmaceutycznych, aptekach, działach farmacji szpitalnej, punktach aptecznych i placówkach obrotu pozaaptecznego.
+- **3)** obrotem wyrobami medycznymi, z wyłączeniem wyrobów medycznych stosowanych w medycynie weterynaryjnej – w celu zabezpieczenia interesu społecznego w zakresie bezpieczeństwa zdrowia i życia ludzi przy stosowaniu produktów leczniczych i wyrobów medycznych, znajdujących się w hurtowniach farmaceutycznych, aptekach, działach farmacji szpitalnej, punktach aptecznych i placówkach obrotu pozaaptecznego.
 
 2. (uchylony)
 
@@ -4505,7 +5112,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** wstrzymania lub wycofania z obrotu lub stosowania produktów leczniczych w przypadku podejrzenia lub stwierdzenia, że dany produkt nie jest dopuszczony do obrotu w Rzeczypospolitej Polskiej;
 - **2)** wstrzymania, zakazu wprowadzania, wycofania z obrotu lub stosowania produktów leczniczych w przypadku podejrzenia lub stwierdzenia, że dany produkt nie odpowiada ustalonym wymaganiom jakościowym lub został sfałszowany;
 - **2a)** zakazu dystrybucji lub stosowania określonej serii substancji czynnej, zakazu wprowadzania lub wycofania z obrotu substancji czynnej;
-- **2b)** wydania zgody na wytwarzanie produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, odmowy jej wydania, stwierdzenia wygaśnięcia, cofnięcia oraz zmiany tej zgody;
+- **2b)** wydania zgody na wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, odmowy jej wydania, stwierdzenia wygaśnięcia, cofnięcia oraz zmiany tej zgody;
 - **3)** wstrzymania lub wycofania z aptek ogólnodostępnych i hurtowni farmaceutycznych towarów, którymi obrót jest niedozwolony;
 - **4)** udzielenia, zmiany, cofnięcia, odmowy udzielenia lub stwierdzenia wygaśnięcia zezwolenia:
     - **a)** na prowadzenie apteki,
@@ -4521,7 +5128,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **8)** sprzeciwu, o którym mowa w art. 37av ust. 3.
 
-4a. Do decyzji, o których mowa w ust. 4, wydanych na podstawie art. 81 ust. 1 pkt 2 i ust. 2 pkt 4a oraz art. 103 ust. 1 pkt 2 i ust. 2 pkt 3 nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143).
+4a. Do decyzji, o których mowa w ust. 4, wydanych na podstawie art. 81 ust. 1 pkt 2 i ust. 2 pkt 4a oraz art. 103 ust. 1 pkt 2 i ust. 2 pkt 3 nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143).
 
 5. (uchylony)
 
@@ -4532,6 +5139,32 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. W przypadku gdy wyniki badań przeprowadzonych na podstawie art. 108 ust. 4 pkt 5 lub art. 115 ust. 1 pkt 5a potwierdzą, że produkt leczniczy spełnia określone dla niego wymagania jakościowe, koszty tych badań i pobrania próbki pokrywa podmiot odpowiedzialny.
 
 **Art. 109.** Do zadań Inspekcji Farmaceutycznej należy w szczególności:
+
+- **1)** przeprowadzanie inspekcji warunków wytwarzania i importu produktów leczniczych zgodnie z wymaganiami Dobrej Praktyki Wytwarzania oraz danymi określonymi w art. 10 ust. 2 pkt 1–3, 12, 13 i 15;
+- **1a)** kontrolowanie warunków transportu, przeładunku i przechowywania produktów leczniczych i wyrobów medycznych; 1aa) kontrolowanie warunków przechowywania, wydawania oraz transportu produktów leczniczych, o których mowa w art. 15 ustawy z dnia 12 maja 2022 r. o Zespole Pomocy Humanitarno-Medycznej (Dz. U. z 2024 r. poz. 345 oraz z 2026 r. poz. 160);
+- **1b)** przeprowadzanie inspekcji warunków wytwarzania, importu i dystrybucji substancji czynnej zgodnie z wymaganiami Dobrej Praktyki Wytwarzania oraz Dobrej Praktyki Dystrybucyjnej substancji czynnych;
+- **1c)** przeprowadzanie inspekcji u przedsiębiorców prowadzących działalność polegającą na prowadzeniu hurtowni farmaceutycznej;
+- **2)** sprawowanie nadzoru nad jakością produktów leczniczych będących przedmiotem obrotu;
+- **3)** kontrolowanie:
+    - **a)** aptek i innych jednostek prowadzących obrót detaliczny i hurtowy produktami leczniczymi i wyrobami medycznymi, o których mowa w art. 108 ust. 1,
+    - **b)** stacji sanitarno-epidemiologicznych, o których mowa w art. 18 ust. 6 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi – w zakresie wymagań jakościowych oraz przechowywania i przekazywania szczepionek zgodnie z procedurami Dobrej Praktyki Dystrybucyjnej;
+
+- **3a)** kontrolowanie pośredników w obrocie produktami leczniczymi;
+- **4)** kontrolowanie jakości leków recepturowych i aptecznych sporządzonych w aptekach;
+- **5)** kontrolowanie właściwego oznakowania i reklamy produktów leczniczych oraz właściwego oznakowania wyrobów medycznych;
+- **6)** kontrolowanie obrotu środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1 i 4;
+- **7)** współpraca ze specjalistycznym zespołem konsultantów do spraw farmacji;
+- **8)** opiniowanie przydatności lokalu przeznaczonego na aptekę, punkt apteczny lub placówkę obrotu pozaaptecznego;
+- **9)** współpraca z samorządem zawodu farmaceuty i innymi samorządami;
+- **10)** prowadzenie rejestru aptek ogólnodostępnych i szpitalnych oraz punktów aptecznych;
+- **11)** prowadzenie Rejestru Hurtowni Farmaceutycznych oraz Wytwórni Farmaceutycznych;
+- **11a)** prowadzenie Krajowego Rejestru Pośredników w Obrocie Produktami Leczniczymi;
+- **11b)** prowadzenie Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych;
+- **12)** wydawanie opinii dotyczącej aptek, w których może być odbywany staż;
+- **13)** kontrolowanie działów farmacji szpitalnej w zakresie świadczenia usług farmaceutycznych;
+- **14)** przygotowywanie rocznych planów kontroli aptek i hurtowni farmaceutycznych oraz udostępnianie ich w ramach współpracy z Europejską Agencją Leków;
+- **15)** nadzór nad przestrzeganiem obowiązków określonych w art. 4–30 oraz art. 35–42 rozporządzenia nr 2016/161;
+- **16)** współpraca z zarządami powiatów w sprawach, o których mowa w art. 94 ust. 11.
 
 **Art. 110.**
 
@@ -4606,7 +5239,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Wojewódzki inspektor farmaceutyczny wykonuje zadania i kompetencje Inspekcji Farmaceutycznej określone w ustawie i przepisach odrębnych.
 
-3. W sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji Farmaceutycznej, organem pierwszej instancji jest wojewódzki inspektor farmaceutyczny, a jako organ odwoławczy Główny Inspektor Farmaceutyczny.
+3. W sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji Farmaceutycznej, organem pierwszej instancji jest wojewódzki inspektor farmaceutyczny, a jako organ odwoławczy – Główny Inspektor Farmaceutyczny.
 
 4. Organizację Głównego Inspektoratu Farmaceutycznego określa statut nadany przez ministra właściwego do spraw zdrowia w drodze rozporządzenia.
 
@@ -4626,7 +5259,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** zagraża prawidłowemu wykonywaniu zadań Inspekcji Farmaceutycznej,
 - **2)** narusza bezpieczeństwo wytwarzania produktów leczniczych lub jakości produktów leczniczych i wyrobów medycznych,
-- **3)** narusza bezpieczeństwo obrotu produktami leczniczymi i wyrobami medycznymi odwołanie wymaga szczegółowego uzasadnienia na piśmie.
+- **3)** narusza bezpieczeństwo obrotu produktami leczniczymi i wyrobami medycznymi – odwołanie wymaga szczegółowego uzasadnienia na piśmie.
 
 **Art. 114.**
 
@@ -4660,7 +5293,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 1. Główny Inspektor Farmaceutyczny, zastępca Głównego Inspektora Farmaceutycznego, wojewódzki inspektor farmaceutyczny, zastępca wojewódzkiego inspektora farmaceutycznego, inspektorzy farmaceutyczni, inspektorzy do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, inspektorzy do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego oraz osoby wykonujące w Głównym Inspektoracie Farmaceutycznym lub wojewódzkim inspektoracie farmaceutycznym czynności związane z nadzorem nad produktami leczniczymi, substancjami czynnymi lub substancjami pomocniczymi nie mogą:
 
 - **1)** być członkami organów spółek handlowych lub pełnomocnikami przedsiębiorców, którzy:
-    - **a)** prowadzą działalność gospodarczą w zakresie wytwarzania lub importu produktu leczniczego, wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego, wytwarzania, importu lub dystrybucji substancji czynnej, prowadzenia punktu aptecznego, apteki ogólnodostępnej, apteki szpitalnej lub hurtowni farmaceutycznej, pośrednictwa w obrocie produktami leczniczymi albo wystąpili z wnioskiem o wpis do odpowiedniego rejestru, wydanie zezwolenia albo zgody w zakresie prowadzenia takiej działalności,
+    - **a)** prowadzą działalność gospodarczą w zakresie wytwarzania lub importu produktu leczniczego, wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego, wytwarzania, importu lub dystrybucji substancji czynnej, prowadzenia punktu aptecznego, apteki ogólnodostępnej, apteki szpitalnej lub hurtowni farmaceutycznej, pośrednictwa w obrocie produktami leczniczymi albo wystąpili z wnioskiem o wpis do odpowiedniego rejestru, wydanie zezwolenia albo zgody w zakresie prowadzenia takiej działalności,
     - **b)** prowadzą badanie kliniczne produktu leczniczego albo wystąpili z wnioskiem o rozpoczęcie takiego badania, uzyskali pozwolenie na dopuszczenie do obrotu produktu leczniczego albo wystąpili z wnioskiem o wydanie takiego pozwolenia,
     - **c)** są wytwórcami wyrobów medycznych lub ich autoryzowanymi przedstawicielami;
 
@@ -4674,13 +5307,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Osoby, o których mowa w ust. 1, oraz biegli i eksperci, o których mowa w art. 122d ust. 2, składają oświadczenie dotyczące okoliczności określonych w ust. 1, zwane dalej „oświadczeniem o braku konfliktu interesów”.
 
-3. Oświadczenie o braku konfliktu interesów oraz informacje, o których mowa w ust. 6, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny. Składający oświadczenie o braku konfliktu interesów i informacje, o których mowa w ust. 6, jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+3. Oświadczenie o braku konfliktu interesów oraz informacje, o których mowa w ust. 6, są składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie o braku konfliktu interesów i informacje, o których mowa w ust. 6, jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 4. Oświadczenie o braku konfliktu interesów składają:
 
-- **1)** ministrowi właściwemu do spraw zdrowia Główny Inspektor Farmaceutyczny;
-- **2)** Głównemu Inspektorowi Farmaceutycznemu zastępca Głównego Inspektora Farmaceutycznego, wojewódzki inspektor farmaceutyczny, inspektorzy do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, inspektorzy do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego, osoby wykonujące czynności związane z nadzorem nad produktami leczniczymi, substancjami czynnymi lub substancjami pomocniczymi w Głównym Inspektoracie Farmaceutycznym oraz biegli i eksperci, o których mowa w art. 122d ust. 2, działający z upoważnienia Głównego Inspektora Farmaceutycznego;
-- **3)** wojewódzkiemu inspektorowi farmaceutycznemu zastępca wojewódzkiego inspektora farmaceutycznego, inspektorzy farmaceutyczni oraz osoby wykonujące czynności związane z nadzorem nad produktami leczniczymi w wojewódzkim inspektoracie farmaceutycznym oraz biegli i eksperci, o których mowa w art. 122d ust. 2, działający z upoważnienia wojewódzkiego inspektora farmaceutycznego.
+- **1)** ministrowi właściwemu do spraw zdrowia – Główny Inspektor Farmaceutyczny;
+- **2)** Głównemu Inspektorowi Farmaceutycznemu – zastępca Głównego Inspektora Farmaceutycznego, wojewódzki inspektor farmaceutyczny, inspektorzy do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego, inspektorzy do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego, osoby wykonujące czynności związane z nadzorem nad produktami leczniczymi, substancjami czynnymi lub substancjami pomocniczymi w Głównym Inspektoracie Farmaceutycznym oraz biegli i eksperci, o których mowa w art. 122d ust. 2, działający z upoważnienia Głównego Inspektora Farmaceutycznego;
+- **3)** wojewódzkiemu inspektorowi farmaceutycznemu – zastępca wojewódzkiego inspektora farmaceutycznego, inspektorzy farmaceutyczni oraz osoby wykonujące czynności związane z nadzorem nad produktami leczniczymi w wojewódzkim inspektoracie farmaceutycznym oraz biegli i eksperci, o których mowa w art. 122d ust. 2, działający z upoważnienia wojewódzkiego inspektora farmaceutycznego.
 
 5. Oświadczenie o braku konfliktu interesów zawiera:
 
@@ -4712,7 +5345,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzory:
 
 - **1)** oświadczenia o braku konfliktu interesów i zgłoszenia informacji, o których mowa w ust. 6,
-- **2)** formularza do publikacji danych, o których mowa w ust. 11, w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego biorąc pod uwagę potrzebę zarządzania konfliktem interesów i zakres informacji, o których mowa w ust. 5 i 6.
+- **2)** formularza do publikacji danych, o których mowa w ust. 11, w Biuletynie Informacji Publicznej Głównego Inspektora Farmaceutycznego – biorąc pod uwagę potrzebę zarządzania konfliktem interesów i zakres informacji, o których mowa w ust. 5 i 6.
 
 **Art. 115.**
 
@@ -4741,7 +5374,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Główny Inspektor Farmaceutyczny w Biuletynie Informacji Publicznej Głównego Inspektoratu Farmaceutycznego:
 
-- **1)** informuje o przepisach krajowych regulujących sprzedaż wysyłkową produktów leczniczych oraz o tym, że poszczególne państwa członkowskie Unii Europejskiej i państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym mogą stosować różne klasyfikacje produktów leczniczych i warunki ich dostarczania;
+- **1)** informuje o przepisach krajowych regulujących sprzedaż wysyłkową produktów leczniczych oraz o tym, że poszczególne państwa członkowskie Unii Europejskiej i państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym mogą stosować różne klasyfikacje produktów leczniczych i warunki ich dostarczania;
 - **2)** informuje o celu wspólnego logo, o którym mowa w art. 85c ust. 3 dyrektywy 2001/83/WE;
 - **3)** informuje o ryzyku związanym z produktami leczniczymi nabywanymi nielegalnie za pośrednictwem sieci Internet;
 - **4)** umieszcza hiperłącze do europejskiej strony internetowej związanej z oferowaniem produktów leczniczych w sprzedaży wysyłkowej za pośrednictwem sieci Internet, utworzonej przez Europejską Agencję Leków;
@@ -4796,7 +5429,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** sposób przeprowadzania kontroli i rodzaje kontroli,
 - **2)** sposób i tryb pobierania próbek do badań oraz przeprowadzania badań,
 - **3)** tryb przeprowadzania kontroli przyjmowanych i wydawanych produktów leczniczych oraz warunki ich transportowania,
-- **4)** wzór i sposób prowadzenia książki kontroli, o której mowa w art. 123, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej.
+- **4)** wzór i sposób prowadzenia książki kontroli, o której mowa w art. 123, sposób dokonywania wpisów oraz tryb powiadamiania o usunięciu stwierdzonych uchybień – uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej.
 
 5. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zdrowia, w drodze rozporządzenia, wyznacza organy wojskowe sprawujące nadzór nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi w podmiotach leczniczych nadzorowanych przez Ministra Obrony Narodowej i jednostkach wojskowych, uwzględniając w szczególności zadania, kompetencje i wymagania fachowe niezbędne do sprawowania nadzoru.
 
@@ -4804,7 +5437,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 - **1)** sposób wzajemnego przekazywania informacji z zakresu, o którym mowa w ust. 1,
 - **2)** zakres współpracy,
-- **3)** warunki i sposób organizacji, uczestnictwa i prowadzenia wspólnych szkoleń kierując się potrzebą zapewnienia efektywności współpracy.
+- **3)** warunki i sposób organizacji, uczestnictwa i prowadzenia wspólnych szkoleń – kierując się potrzebą zapewnienia efektywności współpracy.
 
 **Art. 119.**
 
@@ -4842,7 +5475,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Jednostka, która otrzymała próbkę, dokumentację i materiały, o których mowa w ust. 3, niezwłocznie przekazuje do Głównego Inspektora Farmaceutycznego informację o dacie otrzymania próbki, dokumentacji i materiałów oraz przeprowadza badanie jakościowe produktu leczniczego. Wynik badania jakościowego produktu leczniczego przekazuje się do Głównego Inspektora Farmaceutycznego niepóźniej niż w terminie 90 dni od dnia otrzymania próbki wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego tego produktu.
 
-5. W przypadku gdy jednostka, o której mowa w ust. 4, ze względów technicznych nie może przeprowadzić badania jakościowego produktu leczniczego niezwłocznie przekazuje próbkę wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego tego produktu do jednostki mającej status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL Official Medicines Control Laboratory) w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, w celu przeprowadzenia badania jakościowego produktu leczniczego. Wynik badania jakościowego produktu leczniczego przekazuje się do Głównego Inspektora Farmaceutycznego niepóźniej niż w terminie 120 dni od dnia otrzymania próbki wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego tego produktu.
+5. W przypadku gdy jednostka, o której mowa w ust. 4, ze względów technicznych nie może przeprowadzić badania jakościowego produktu leczniczego niezwłocznie przekazuje próbkę wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego tego produktu do jednostki mającej status Państwowego Laboratorium Kontroli Produktów Leczniczych (OMCL – Official Medicines Control Laboratory) w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, w celu przeprowadzenia badania jakościowego produktu leczniczego. Wynik badania jakościowego produktu leczniczego przekazuje się do Głównego Inspektora Farmaceutycznego niepóźniej niż w terminie 120 dni od dnia otrzymania próbki wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego tego produktu.
 
 6. W przypadku niewykonania decyzji, o której mowa w ust. 2, w terminie 30 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej, o której mowa w art. 127cc ust. 1 pkt 2, stała się ostateczna, Główny Inspektor Farmaceutyczny może wydać decyzję o wycofaniu produktu leczniczego z obrotu.
 
@@ -4880,7 +5513,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. W razie uzasadnionego podejrzenia, że wyrób medyczny nie odpowiada ustalonym dla niego wymaganiom, wojewódzki inspektor farmaceutyczny niezwłocznie powiadamia o tym Prezesa Urzędu i Głównego Inspektora Farmaceutycznego, dokonuje zabezpieczenia tego wyrobu przed dalszym wprowadzaniem do obrotu i do używania na zasadach określonych dla produktów leczniczych i udostępnia próbkę z zabezpieczonego wyrobu do badań i oceny wytwórcy, autoryzowanemu przedstawicielowi oraz innym podmiotom lub osobom upoważnionym przez wytwórcę do działania w jego imieniu w sprawach incydentów medycznych i w sprawach dotyczących bezpieczeństwa tego wyrobu.
 
-3a. W razie uzasadnionego podejrzenia wady jakościowej lub sfałszowania produktu leczniczego stanowiących poważne zagrożenie dla zdrowia publicznego, Główny Inspektor Farmaceutyczny niezwłocznie przekazuje ostrzeżenie podmiotom uprawnionym do obrotu produktami leczniczymi oraz państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronom umowy o Europejskim Obszarze Gospodarczym.
+3a. W razie uzasadnionego podejrzenia wady jakościowej lub sfałszowania produktu leczniczego stanowiących poważne zagrożenie dla zdrowia publicznego, Główny Inspektor Farmaceutyczny niezwłocznie przekazuje ostrzeżenie podmiotom uprawnionym do obrotu produktami leczniczymi oraz państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.
 
 3b. W razie uznania, że produkt leczniczy, o którym mowa w ust. 3a, wydano już pacjentom, Główny Inspektor Farmaceutyczny w terminie 24 godzin wydaje obwieszczenie w celu poinformowania o możliwości zwrotu produktu leczniczego do apteki. Obwieszczenie zawiera informacje na temat podejrzenia wady jakościowej lub sfałszowania produktu leczniczego i wynikającego z tego zagrożenia.
 
@@ -4896,7 +5529,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 3. W przypadku powzięcia informacji dotyczącej produktu leczniczego weterynaryjnego dopuszczonego do obrotu o wystąpieniu zagrożenia dla życia lub zdrowia ludzi lub zwierząt lub zagrożenia dla środowiska Główny Lekarz Weterynarii, na wniosek ministra właściwego do spraw rolnictwa, ministra właściwego do spraw zdrowia lub Prezesa Urzędu, wydaje decyzję o czasowym zakazie wprowadzania tego produktu do obrotu, o wstrzymaniu obrotu tym produktem lub o wycofaniu tego produktu z obrotu. O podjętej decyzji Główny Lekarz Weterynarii niezwłocznie zawiadamia ministra właściwego do spraw rolnictwa, ministra właściwego do spraw zdrowia i Prezesa Urzędu. W zależności od okoliczności Główny Lekarz Weterynarii może nakazać zniszczenie produktu leczniczego weterynaryjnego na koszt podmiotu odpowiedzialnego lub przedsiębiorcy prowadzącego obrót albo zezwolić na jego wykorzystanie lub zużycie w innym celu.
 
-4. Jeżeli decyzja, o której mowa w ust. 2 i 3, została wydana w związku z toczącym się postępowaniem wyjaśniającym, o którym mowa w art. 18a ust. 6 albo art. 19 ust. 4, Prezes Urzędu informuje o wydanej decyzji Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, niepóźniej niż następnego dnia roboczego. Decyzja ta jest ważna do czasu zakończenia postępowania wyjaśniającego.
+4. Jeżeli decyzja, o której mowa w ust. 2 i 3, została wydana w związku z toczącym się postępowaniem wyjaśniającym, o którym mowa w art. 18a ust. 6 albo art. 19 ust. 4, Prezes Urzędu informuje o wydanej decyzji Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, niepóźniej niż następnego dnia roboczego. Decyzja ta jest ważna do czasu zakończenia postępowania wyjaśniającego.
 
 **Art. 122.**
 
@@ -5014,7 +5647,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Do próbki przesyłanej do badań należy dołączyć protokół, o którym mowa w art. 122h ust. 1, oraz sporządzony przez inspektora wniosek o przeprowadzenie badań laboratoryjnych.
 
-3. Równocześnie z pobraniem próbki do badań należy zapakować i opieczętować oraz pozostawić na przechowanie u kontrolowanego, w warunkach uniemożliwiających zmianę jakości, próbkę kontrolną w ilości odpowiadającej ilości próbki pobranej do badań.
+3. Równocześnie z pobraniem próbki do badań należy zapakować i opieczętować oraz pozostawić na przechowanie u kontrolowanego, w warunkach uniemożliwiających zmianę jakości, próbkę kontrolną – w ilości odpowiadającej ilości próbki pobranej do badań.
 
 4. Przepis ust. 3 nie dotyczy leku recepturowego.
 
@@ -5049,7 +5682,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** upoważnienia do przeprowadzania kontroli albo inspekcji,
 - **2)** protokołu pobrania próbek,
 - **3)** orzeczenia o wyniku badań jakościowych pobranych próbek,
-- **4)** książki kontroli uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej.
+- **4)** książki kontroli – uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej.
 
 **Art. 123a.** W odniesieniu do wytwarzania, importu i dystrybucji substancji czynnej przepisy art. 122b–123 stosuje się odpowiednio.
 
@@ -5081,7 +5714,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Tej samej karze podlega, kto wykonuje działalność gospodarczą w zakresie:
 
-- **1)** wytwarzania produktu leczniczego terapii zaawansowanej wyjątku szpitalnego bez wymaganej zgody;
+- **1)** wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego bez wymaganej zgody;
 - **2)** obrotu produktami leczniczymi bez wymaganego zezwolenia.
 
 **Art. 125a.** Kto bez uzyskania wpisu do Krajowego Rejestru Wytwórców, Importerów oraz Dystrybutorów Substancji Czynnych prowadzi działalność w zakresie wytwarzania, importu lub dystrybucji substancji czynnej, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
@@ -5143,11 +5776,13 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Karę pieniężną, o której mowa w ust. 1:
 
 - **1)** (uchylony)
-- **2)** pkt 3, wymierza się w wysokości od 50 000 zł do 100 000 zł uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy.
+- **2)** pkt 3, wymierza się w wysokości od 50 000 zł do 100 000 zł – uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy.
 
 3. Karę pieniężną, o której mowa w ust. 1 pkt 2, wymierza się w wysokości 10 000 zł.
 
-4. Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi. Art. 127ba. Podmiot, który działa z naruszeniem obowiązków lub warunków, o których mowa w art. 85a ust. 1 lub 2, podlega karze pieniężnej w wysokości od 10 000 zł do 5 000 000 zł.
+4. Do decyzji nakładających karę pieniężną, o których mowa w ust. 1, nie stosuje się art. 61 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
+
+**Art. 127ba.** Podmiot, który działa z naruszeniem obowiązków lub warunków, o których mowa w art. 85a ust. 1 lub 2, podlega karze pieniężnej w wysokości od 10 000 zł do 5 000 000 zł.
 
 **Art. 127c.**
 
@@ -5161,9 +5796,17 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **2)** przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej, który nie dopełnił obowiązku, o którym mowa w art. 78 ust. 1 pkt 6b lub 6d;
 - **3)** podmiot prowadzący aptekę ogólnodostępną, który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c;
 - **4)** podmiot prowadzący punkt apteczny, który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c;
-- **5)** podmiot prowadzący działalność leczniczą, posiadający aptekę szpitalną lub dział farmacji szpitalnej który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c. Art. 127ca. 1. Karze pieniężnej podlega podmiot wykonujący działalność leczniczą, który wbrew przepisowi art. 96 ust. 2e uniemożliwia organom Inspekcji Farmaceutycznej dokonanie wglądu do ewidencji zapotrzebowań lub nie przekazuje na ich żądanie kopii zapotrzebowań.
+- **5)** podmiot prowadzący działalność leczniczą, posiadający aptekę szpitalną lub dział farmacji szpitalnej który nie dopełnił obowiązku, o którym mowa w art. 95 ust. 1b lub 1c.
 
-2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości do 10 000 zł. Art. 127cb. 1. Podmiot odpowiedzialny, który nie realizuje obowiązków, o których mowa w art. 33 ust. 1 i 2 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
+**Art. 127ca.**
+
+1. Karze pieniężnej podlega podmiot wykonujący działalność leczniczą, który wbrew przepisowi art. 96 ust. 2e uniemożliwia organom Inspekcji Farmaceutycznej dokonanie wglądu do ewidencji zapotrzebowań lub nie przekazuje na ich żądanie kopii zapotrzebowań.
+
+2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości do 10 000 zł.
+
+**Art. 127cb.**
+
+1. Podmiot odpowiedzialny, który nie realizuje obowiązków, o których mowa w art. 33 ust. 1 i 2 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
 2. Wytwórca lub importer produktów leczniczych, który nie realizuje obowiązków, o których mowa w art. 4–7, art. 9–11 i art. 13–19 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
@@ -5171,7 +5814,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Podmiot prowadzący aptekę ogólnodostępną, aptekę szpitalną, punkt apteczny lub dział farmacji szpitalnej, który nie realizuje obowiązków, o których mowa w art. 10–13 i art. 27–30 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 20 000 zł.
 
-5. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych. Art. 127cc. 1. Karze pieniężnej podlega podmiot odpowiedzialny, który wbrew przepisowi:
+5. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
+
+**Art. 127cc.**
+
+1. Karze pieniężnej podlega podmiot odpowiedzialny, który wbrew przepisowi:
 
 - **1)** art. 119a ust. 1, nie zrealizował obowiązku przekazania informacji o dacie wprowadzenia produktu leczniczego po raz pierwszy do obrotu na terytorium Rzeczypospolitej Polskiej lub nieterminowo zrealizował ten obowiązek;
 - **2)** art. 119a ust. 3, nie przekazał próbki produktu leczniczego wraz z dokumentacją i materiałami niezbędnymi do przeprowadzenia badania jakościowego produktu leczniczego lub nieterminowo zrealizował ten obowiązek.
@@ -5179,7 +5826,11 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 2. Karę pieniężną, o której mowa w ust. 1:
 
 - **1)** pkt 1, wymierza się w wysokości od 10 000 do 100 000 zł,
-- **2)** pkt 2, wymierza się w wysokości od 50 000 do 300 000 zł uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy. Art. 127cd. 1. Karze pieniężnej podlega podmiot, który wbrew zakazowi, o którym mowa w art. 99 ust. 3aa, przejmuje kontrolę nad podmiotem prowadzącym aptekę ogólnodostępną.
+- **2)** pkt 2, wymierza się w wysokości od 50 000 do 300 000 zł – uwzględniając okoliczności, zakres oraz uprzednie naruszenie przepisów ustawy.
+
+**Art. 127cd.**
+
+1. Karze pieniężnej podlega podmiot, który wbrew zakazowi, o którym mowa w art. 99 ust. 3aa, przejmuje kontrolę nad podmiotem prowadzącym aptekę ogólnodostępną.
 
 2. Karę pieniężną, o której mowa w ust. 1, wymierza się w wysokości od 50 000 zł do 5 000 000 zł.
 
@@ -5189,15 +5840,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 2. Kary pieniężne, o których mowa w art. 127cb ust. 4 i art. 127cd ust. 1, nakłada właściwy wojewódzki inspektor farmaceutyczny w drodze decyzji.
 
-3. Główny Inspektor Farmaceutyczny albo wojewódzki inspektor farmaceutyczny jest wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji. Art. 127da. 1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę lub punkt apteczny, który wbrew przepisowi:
+3. Główny Inspektor Farmaceutyczny albo wojewódzki inspektor farmaceutyczny jest wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji.
+
+**Art. 127da.**
+
+1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę lub punkt apteczny, który wbrew przepisowi:
 
 - **1)** art. 47a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych nie powiadamia oddziału wojewódzkiego Narodowego Funduszu Zdrowia, który zawarł z tym podmiotem umowę na realizację recept, o aktualnych danych adresowych osoby reprezentującej dany podmiot lub danych osoby upoważnionej do wydania recept w razie nieobecności osoby reprezentującej ten podmiot w terminie 7 dni od dnia, w którym dane te uległy zmianie, lub
 - **2)** art. 96aa ust. 1 nie powiadamia wojewódzkiego inspektora farmaceutycznego właściwego ze względu na adres prowadzenia apteki lub punktu aptecznego o miejscu przechowywania recept i wydanych na ich podstawie odpisów w terminie 7 dni od dnia, w którym decyzja o cofnięciu zezwolenia na prowadzenie apteki lub punktu aptecznego, jego uchyleniu, stwierdzeniu wygaśnięcia albo nieważności stała się ostateczna.
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji:
 
-- **1)** dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** wojewódzki inspektor farmaceutyczny właściwy ze względu na adres prowadzenia apteki lub punktu aptecznego w przypadku, o którym mowa w ust. 1 pkt 2.
+- **1)** dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia – w przypadku, o którym mowa w ust. 1 pkt 1;
+- **2)** wojewódzki inspektor farmaceutyczny właściwy ze względu na adres prowadzenia apteki lub punktu aptecznego – w przypadku, o którym mowa w ust. 1 pkt 2.
 
 3. Wierzycielem w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest organ nakładający karę pieniężną.
 
@@ -5239,11 +5894,19 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. (uchylony)
 
-5. (uchylony) Art. 129ba. 1. Kary pieniężne uiszcza się w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
+5. (uchylony)
+
+**Art. 129ba.**
+
+1. Kary pieniężne uiszcza się w terminie 7 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna. Od kary pieniężnej nieuiszczonej w terminie nalicza się odsetki za zwłokę w wysokości jak dla zaległości podatkowych.
 
 2. Egzekucja kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-3. Wpływy z kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, stanowią dochód budżetu państwa. Art. 129bb. 1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę ogólnodostępną:
+3. Wpływy z kar pieniężnych wraz z odsetkami, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+
+**Art. 129bb.**
+
+1. Karze pieniężnej w wysokości do 2000 zł podlega podmiot prowadzący aptekę ogólnodostępną:
 
 - **1)** który nie przekazał informacji, o której mowa w art. 94 ust. 2, lub
 - **2)** w imieniu którego nie zostało złożone oświadczenie, o którym mowa w art. 94 ust. 10 zdanie pierwsze.
@@ -5309,7 +5972,7 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 - **1)** nie prowadzi rejestru zgłoszeń działań niepożądanych produktów leczniczych, o którym mowa w art. 24 ust. 1 pkt 2 lub art. 36g ust. 1 pkt 3, lub
 - **2)** nie przekazuje właściwym organom, z wymaganą częstotliwością, raportów okresowych o bezpieczeństwie stosowania produktów leczniczych, lub
 - **3)** nie przekazuje zgłoszeń pojedynczych przypadków działań niepożądanych produktów leczniczych, o których mowa w art. 36h, lub
-- **4)** w przypadkach określonych w art. 36o nie wprowadza tymczasowych ograniczeń stosowania produktu leczniczego ze względów bezpieczeństwa podlega karze pieniężnej w wysokości od 100 000 zł do 500 000 zł.
+- **4)** w przypadkach określonych w art. 36o nie wprowadza tymczasowych ograniczeń stosowania produktu leczniczego ze względów bezpieczeństwa – podlega karze pieniężnej w wysokości od 100 000 zł do 500 000 zł.
 
 2. Kto przekazuje do wiadomości publicznej niepokojące informacje z naruszeniem obowiązku określonego w art. 24 ust. 6 lub art. 36y ust. 1, podlega karze pieniężnej w wysokości do 100 000 zł.
 
@@ -5337,5 +6000,5 @@ b) obwieszczeniu, o którym mowa w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. 
 
 4. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
 
-**Art. 134.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie Przepisy wprowadzające ustawę Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
+**Art. 134.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie – Przepisy wprowadzające ustawę – Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
 

@@ -24,10 +24,11 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1964-11-17 |
 | Data wydania | 1964-12-01 |
-| Ostatnia zmiana | 2026-04-17 |
+| Wejście w życie | 1965-01-01 |
+| Ostatnia zmiana | 2026-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.pdf) |
 
-## TYTUŁ WSTĘPNY Przepisy ogólne
+### TYTUŁ WSTĘPNY Przepisy ogólne
 
 **Art. 1.**
 
@@ -93,13 +94,13 @@ source: pdf
 
 **Art. 14.** (uchylony)
 
-## CZĘŚĆ PIERWSZA POSTĘPOWANIE ROZPOZNAWCZE
+# CZĘŚĆ PIERWSZA POSTĘPOWANIE ROZPOZNAWCZE
 
-# KSIĘGA PIERWSZA PROCES
+## KSIĘGA PIERWSZA PROCES
 
-## TYTUŁ I Sąd
+### TYTUŁ I Sąd
 
-### DZIAŁ I Właściwość sądu Przepis wstępny
+#### DZIAŁ I Właściwość sądu Przepis wstępny
 
 **Art. 15.**
 
@@ -107,9 +108,9 @@ source: pdf
 
 § 2. Sąd nie może uznać, że jest niewłaściwy, jeżeli w toku postępowania stał się właściwy.
 
-#### Rozdział 1 Właściwość rzeczowa
+##### Rozdział 1 Właściwość rzeczowa
 
-##### Oddział 1 Podstawy właściwości
+###### Oddział 1 Podstawy właściwości
 
 **Art. 16.** Sądy rejonowe rozpoznają wszystkie sprawy z wyjątkiem spraw, dla których zastrzeżona jest właściwość sądów okręgowych.
 
@@ -130,7 +131,7 @@ source: pdf
 
 § 2. Przed pierwszym posiedzeniem wyznaczonym na rozprawę sąd okręgowy może odmówić przyjęcia sprawy do rozpoznania i zwrócić ją sądowi rejonowemu, jeżeli uzna, że poważne wątpliwości nie zachodzą. Postanowienie zapada w składzie trzech sędziów i wymaga uzasadnienia. Ponowne przekazanie tej samej sprawy przez sąd rejonowy nie jest dopuszczalne.
 
-##### Oddział 2 Wartość przedmiotu sporu
+###### Oddział 2 Wartość przedmiotu sporu
 
 **Art. 19.**
 
@@ -162,9 +163,9 @@ source: pdf
 
 **Art. 26.** Po ustaleniu w myśl artykułu poprzedzającego, wartość przedmiotu sporu nie podlega ponownemu badaniu w dalszym toku postępowania.
 
-#### Rozdział 2 Właściwość miejscowa
+##### Rozdział 2 Właściwość miejscowa
 
-##### Oddział 1 Właściwość ogólna
+###### Oddział 1 Właściwość ogólna
 
 **Art. 27.**
 
@@ -178,7 +179,7 @@ source: pdf
 
 **Art. 30.** Powództwo przeciwko osobie prawnej lub innemu podmiotowi niebędącemu osobą fizyczną wytacza się według miejsca ich siedziby.
 
-##### Oddział 2 Właściwość przemienna
+###### Oddział 2 Właściwość przemienna
 
 **Art. 31.**
 
@@ -221,7 +222,7 @@ source: pdf
 
 § 2. Przepis § 1 stosuje się także do powództwa przeciwko bankowi hipotecznemu lub jego następcy prawnemu o roszczenie wynikające z czynności banku hipotecznego.
 
-##### Oddział 3 Właściwość wyłączna
+###### Oddział 3 Właściwość wyłączna
 
 **Art. 38.**
 
@@ -244,7 +245,7 @@ source: pdf
 
 **Art. 42.** Powództwo ze stosunku między rodzicami a dziećmi oraz między przysposabiającym a przysposobionym wytacza się wyłącznie przed sąd miejsca zamieszkania powoda, jeżeli brak jest podstaw do wytoczenia powództwa według przepisów o właściwości ogólnej.
 
-##### Oddział 4 Przepisy szczególne
+###### Oddział 4 Przepisy szczególne
 
 **Art. 43.**
 
@@ -281,7 +282,7 @@ source: pdf
 
 § 2. Strony nie mogą jednak zmieniać właściwości wyłącznej.
 
-### DZIAŁ II Skład sądu
+#### DZIAŁ II Skład sądu
 
 **Art. 47.**
 
@@ -318,7 +319,7 @@ source: pdf
 
 § 3. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego o wezwaniu do uiszczenia opłaty traci moc. Zastrzeżenie wniesione po upływie terminu lub niespełniające warunków formalnych pisma procesowego nie wywołuje skutków i pozostawia się je bez rozpoznania, bez wzywania do jego poprawienia lub uzupełnienia. W takim przypadku przewodniczący z urzędu bada prawidłowość zarządzenia asystenta sędziego.
 
-### DZIAŁ III Wyłączenie sędziego
+#### DZIAŁ III Wyłączenie sędziego
 
 **Art. 48.**
 
@@ -380,7 +381,7 @@ source: pdf
 
 **Art. 54.** Przepisy niniejszego działu, z wyłączeniem przepisu art. 48 , stosuje się odpowiednio do wyłączenia referendarza sądowego, ławnika, jak również innych organów sądowych oraz prokuratora. Wniosek o wyłączenie referendarza sądowego oraz ławnika sąd rozstrzyga zgodnie z przepisami niniejszego działu, a w pozostałych przypadkach przekazuje odpowiedniemu organowi nadrzędnemu.
 
-## TYTUŁ II Prokurator
+### TYTUŁ II Prokurator
 
 **Art. 55.** Prokurator, wytaczając powództwo na rzecz oznaczonej osoby, powinien ją wskazać w pozwie. Nie dotyczy to spraw niemajątkowych z zakresu prawa rodzinnego, chyba że przepis szczególny stanowi inaczej.
 
@@ -402,7 +403,7 @@ source: pdf
 
 § 2. Prokurator może zaskarżyć każde orzeczenie sądowe, od którego służy środek odwoławczy. Terminy do zaskarżenia orzeczeń sądowych, ustanowione dla stron, wiążą również prokuratora.
 
-## TYTUŁ III Organizacje pozarządowe
+### TYTUŁ III Organizacje pozarządowe
 
 **Art. 61.**
 
@@ -428,15 +429,15 @@ source: pdf
 
 **Art. 63.** Organizacje pozarządowe wymienione w artykułach poprzedzających, które nie uczestniczą w sprawie, mogą przedstawiać sądowi istotny dla sprawy pogląd wyrażony w uchwale lub w oświadczeniu ich należycie umocowanych organów.
 
-## TYTUŁ IIIA Państwowa Inspekcja Pracy
+### TYTUŁ IIIA Państwowa Inspekcja Pracy
 
-## TYTUŁ IIIb Powiatowy (miejski) rzecznik konsumentów
+### TYTUŁ IIIb Powiatowy (miejski) rzecznik konsumentów
 
 **Art. 63³.** W sprawach o ochronę konsumentów powiatowy (miejski) rzecznik konsumentów może wytaczać powództwa na rzecz konsumentów, a także wstępować, za ich zgodą, do postępowań w tych sprawach w każdym ich stadium.
 
 **Art. 63⁴.** W sprawach, o których mowa w art. 63 , do powiatowego (miejskiego) rzecznika konsumentów stosuje się odpowiednio przepisy o prokuratorze.
 
-## TYTUŁ IIIc Podmioty uprawnione do udziału w postępowaniu na podstawie odrębnych przepisów
+### TYTUŁ IIIc Podmioty uprawnione do udziału w postępowaniu na podstawie odrębnych przepisów
 
 **Art. 63⁵.**
 
@@ -444,9 +445,9 @@ source: pdf
 
 § 2. Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu.
 
-## TYTUŁ IV Strony
+### TYTUŁ IV Strony
 
-### DZIAŁ I Zdolność sądowa i procesowa
+#### DZIAŁ I Zdolność sądowa i procesowa
 
 **Art. 64.**
 
@@ -502,7 +503,7 @@ source: pdf
 
 **Art. 71.** Jeżeli braków powyższych nie można uzupełnić albo nie zostały one w wyznaczonym terminie uzupełnione, sąd zniesie postępowanie w zakresie, w jakim jest ono dotknięte brakami, i w miarę potrzeby wyda odpowiednie postanowienie.
 
-### DZIAŁ II Współuczestnictwo w sporze
+#### DZIAŁ II Współuczestnictwo w sporze
 
 **Art. 72.**
 
@@ -523,7 +524,7 @@ source: pdf
 
 **Art. 74.** Każdy ze współuczestników sporu ma prawo samodzielnie popierać sprawę. Na posiedzenie sądowe wzywa się wszystkich tych współuczestników, co do których sprawa nie jest zakończona.
 
-### DZIAŁ III Interwencja główna i uboczna
+#### DZIAŁ III Interwencja główna i uboczna
 
 **Art. 75.** Kto występuje z roszczeniem o rzecz lub prawo, o które sprawa toczy się pomiędzy innymi osobami, może aż do zamknięcia rozprawy w pierwszej instancji wytoczyć powództwo o tę rzecz lub prawo przeciwko obu stronom przed sąd, w którym toczy się sprawa (interwencja główna).
 
@@ -555,7 +556,7 @@ source: pdf
 
 **Art. 83.** Za zgodą stron interwenient uboczny może wejść na miejsce strony, do której przystąpił.
 
-### DZIAŁ IV Przypozwanie
+#### DZIAŁ IV Przypozwanie
 
 **Art. 84.**
 
@@ -565,7 +566,7 @@ source: pdf
 
 **Art. 85.** Skutki związane z interwencją uboczną określone w art. 82 powstają w stosunku do wezwanego, który nie zgłosił przystąpienia, z chwilą, w której przystąpienie było możliwe.
 
-### DZIAŁ V Pełnomocnicy procesowi
+#### DZIAŁ V Pełnomocnicy procesowi
 
 **Art. 86.** Strony i ich organy lub przedstawiciele ustawowi mogą działać przed sądem osobiście lub przez pełnomocników.
 
@@ -647,9 +648,9 @@ source: pdf
 
 § 2. Sąd wyznaczy równocześnie termin, w ciągu którego osoba działająca bez pełnomocnictwa powinna je złożyć albo przedstawić zatwierdzenie swej czynności przez stronę. Jeżeli termin upłynął bezskutecznie, sąd pominie czynności procesowe tej osoby. W tym wypadku przeciwnik może żądać od działającego bez umocowania zwrotu kosztów spowodowanych jego tymczasowym dopuszczeniem.
 
-## TYTUŁ V Koszty procesu
+### TYTUŁ V Koszty procesu
 
-### DZIAŁ I Zwrot kosztów procesu
+#### DZIAŁ I Zwrot kosztów procesu
 
 **Art. 98.**
 
@@ -726,7 +727,7 @@ source: pdf
 
 **Art. 110.** Sąd może zasądzić od świadka, biegłego, pełnomocnika lub przedstawiciela ustawowego – po ich wysłuchaniu – zwrot kosztów wywołanych ich rażącą winą.
 
-### DZIAŁ II Pomoc prawna z urzędu
+#### DZIAŁ II Pomoc prawna z urzędu
 
 **Art. 111.** (uchylony)
 
@@ -849,11 +850,11 @@ source: pdf
 
 § 5. Ponowny wniosek o ustanowienie adwokata lub radcy prawnego, oparty na tych samych okolicznościach, nie ma wpływu na bieg terminu do wniesienia środka zaskarżenia.
 
-## TYTUŁ VI Postępowanie
+### TYTUŁ VI Postępowanie
 
-### DZIAŁ I Przepisy ogólne o czynnościach procesowych
+#### DZIAŁ I Przepisy ogólne o czynnościach procesowych
 
-#### Rozdział 1 Pisma procesowe
+##### Rozdział 1 Pisma procesowe
 
 **Art. 125.**
 
@@ -1056,7 +1057,7 @@ source: pdf
 
 **Art. 130⁵.** W przypadkach, o których mowa w art. 125 oraz art. 130–130 , czynności przewodniczącego może wykonywać referendarz sądowy.
 
-#### Rozdział 2 Doręczenia
+##### Rozdział 2 Doręczenia
 
 **Art. 131.**
 
@@ -1080,7 +1081,11 @@ source: pdf
 
 § 3. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób dokonywania doręczeń elektronicznych, mając na względzie zapewnienie skuteczności doręczeń oraz ochronę praw osób, którym pisma są doręczane.
 
-**Art. 131¹a.** [§ 1. W razie niemożności doręczenia za pośrednictwem systemu teleinformatycznego, sąd doręcza adwokatowi, radcy prawnemu, rzecznikowi patentowemu, prokuratorowi, organowi emerytalnemu określonemu przez ministra właściwego do spraw wewnętrznych oraz Prokuratorii Generalnej Rzeczypospolitej Polskiej pisma sądowe, wyłącznie poprzez umieszczenie ich treści w portalu informacyjnym w sposób umożliwiający uzyskanie przez odbiorcę dokumentu potwierdzającego doręczenie. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że sąd dysponuje ich kopią utrwaloną w postaci elektronicznej.] <§ 1. W razie niemożności doręczenia za pośrednictwem systemu teleinformatycznego sąd doręcza adwokatowi, radcy prawnemu, rzecznikowi patentowemu, prokuratorowi, organowi emerytalnemu określonemu przez ministra właściwego do spraw wewnętrznych, Prokuratorii Generalnej Rzeczypospolitej Polskiej, komornikowi sądowemu lub stałemu mediatorowi, a także stronie, która dokonała wyboru takiego sposobu doręczania, pisma sądowe oraz odpisy pism procesowych lub innych dokumentów niepochodzących od sądu, którymi sąd dysponuje w postaci elektronicznej, wyłącznie przez umieszczenie ich treści w portalu informacyjnym w sposób umożliwiający uzyskanie przez odbiorcę dokumentu potwierdzającego doręczenie. Nie dotyczy to pism sądowych, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że sąd dysponuje nimi w postaci elektronicznej.> <§ 1 . Oświadczenie o wyborze sposobu doręczeń, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji ze sposobu doręczeń, o którym mowa w § 1, strona może złożyć również na piśmie. Oświadczenie o rezygnacji ze sposobu doręczeń, o którym mowa w § 1, odnosi skutek prawny z chwilą zawiadomienia sądu.
+**Art. 131¹a.**
+
+§ 1. W razie niemożności doręczenia za pośrednictwem systemu teleinformatycznego sąd doręcza adwokatowi, radcy prawnemu, rzecznikowi patentowemu, prokuratorowi, organowi emerytalnemu określonemu przez ministra właściwego do spraw wewnętrznych, Prokuratorii Generalnej Rzeczypospolitej Polskiej, komornikowi sądowemu lub stałemu mediatorowi, a także stronie, która dokonała wyboru takiego sposobu doręczania, pisma sądowe oraz odpisy pism procesowych lub innych dokumentów niepochodzących od sądu, którymi sąd dysponuje w postaci elektronicznej, wyłącznie przez umieszczenie ich treści w portalu informacyjnym w sposób umożliwiający uzyskanie przez odbiorcę dokumentu potwierdzającego doręczenie. Nie dotyczy to pism sądowych, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że sąd dysponuje nimi w postaci elektronicznej.
+
+§ 1. Oświadczenie o wyborze sposobu doręczeń, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji ze sposobu doręczeń, o którym mowa w § 1, strona może złożyć również na piśmie. Oświadczenie o rezygnacji ze sposobu doręczeń, o którym mowa w § 1, odnosi skutek prawny z chwilą zawiadomienia sądu.
 
 § 2. W przypadku, o którym mowa w § 1, pismo uznaje się za doręczone w chwili wskazanej w dokumencie potwierdzającym doręczenie. Przepisu art. 134 § 1 nie stosuje się. W przypadku braku dokumentu potwierdzającego doręczenie, doręczenie uznaje się za skuteczne z upływem 14 dni od daty umieszczenia treści pisma w portalu informacyjnym w sposób, o którym mowa w § 1 zdanie pierwsze.
 
@@ -1241,7 +1246,7 @@ source: pdf
 
 **Art. 147.** Gdy okaże się, że żądanie ustanowienia kuratora lub wywieszenia pisma nie było uzasadnione, sąd zarządzi doręczenie pisma w sposób właściwy, a w miarę potrzeby zniesie na wniosek strony zainteresowanej postępowanie przeprowadzone z udziałem kuratora lub po wywieszeniu pisma w budynku sądowym.
 
-#### Rozdział 3 Posiedzenia sądowe
+##### Rozdział 3 Posiedzenia sądowe
 
 **Art. 148.**
 
@@ -1397,7 +1402,7 @@ source: pdf
 
 § 4. O ukaranie żołnierza w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, sąd występuje do dowódcy jednostki wojskowej, w której pełni on służbę, a o ukaranie funkcjonariusza Policji, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Marszałkowskiej lub Straży Granicznej – do jego przełożonego.
 
-#### Rozdział 4 Terminy
+##### Rozdział 4 Terminy
 
 **Art. 164.** Bieg terminu wyznaczonego przez sąd lub przewodniczącego (termin sądowy) rozpoczyna się od ogłoszenia w tym przedmiocie postanowienia lub zarządzenia, a gdy kodeks przewiduje doręczenie z urzędu – od jego doręczenia.
 
@@ -1413,7 +1418,7 @@ source: pdf
 
 **Art. 166.** Przewodniczący może z ważnej przyczyny przedłużyć lub skrócić termin sądowy na wniosek zgłoszony przed upływem terminu, nawet bez wysłuchania strony przeciwnej.
 
-#### Rozdział 5 Uchybienie i przywrócenie terminu
+##### Rozdział 5 Uchybienie i przywrócenie terminu
 
 **Art. 167.** Czynność procesowa podjęta przez stronę po upływie terminu jest bezskuteczna.
 
@@ -1441,7 +1446,7 @@ source: pdf
 
 **Art. 172.** Zgłoszenie wniosku o przywrócenie terminu nie wstrzymuje postępowania w sprawie ani wykonania orzeczenia. Sąd może jednak, stosownie do okoliczności, wstrzymać postępowanie lub wykonanie orzeczenia. W przypadku uwzględnienia wniosku sąd może natychmiast przystąpić do rozpoznania sprawy.
 
-#### Rozdział 6 Zawieszenie postępowania
+##### Rozdział 6 Zawieszenie postępowania
 
 **Art. 173.** Postępowanie ulega zawieszeniu z mocy prawa w razie zaprzestania czynności przez sąd wskutek siły wyższej.
 
@@ -1546,11 +1551,11 @@ source: pdf
 
 **Art. 183.** (uchylony)
 
-### DZIAŁ II Postępowanie przed sądami pierwszej instancji
+#### DZIAŁ II Postępowanie przed sądami pierwszej instancji
 
-#### Rozdział 1 Mediacja i postępowanie pojednawcze
+##### Rozdział 1 Mediacja i postępowanie pojednawcze
 
-##### Oddział 1 Mediacja
+###### Oddział 1 Mediacja
 
 **Art. 183¹.**
 
@@ -1686,7 +1691,7 @@ source: pdf
 
 § 2. Przepis § 1 nie uchybia przepisom o szczególnej formie czynności prawnej.
 
-##### Oddział 2 Postępowanie pojednawcze
+###### Oddział 2 Postępowanie pojednawcze
 
 **Art. 184.** Sprawy cywilne, których charakter na to zezwala, mogą być uregulowane drogą ugody zawartej przed wniesieniem pozwu. Sąd uzna ugodę za niedopuszczalną, jeżeli jej treść jest niezgodna z prawem lub zasadami współżycia społecznego albo zmierza do obejścia prawa.
 
@@ -1706,7 +1711,7 @@ source: pdf
 
 § 2. Jeżeli przeciwnik bez usprawiedliwienia nie stawi się na posiedzenie, sąd na żądanie wzywającego, który wniósł następnie w tej sprawie pozew, odpowiedź na pozew, sprzeciw lub zarzuty od nakazu zapłaty, uwzględni koszty wywołane próbą ugodową w orzeczeniu kończącym postępowanie w sprawie.
 
-#### Rozdział 2 Pozew
+##### Rozdział 2 Pozew
 
 **Art. 186¹.** Pismo, które zostało wniesione jako pozew, a z którego nie wynika żądanie rozstrzygnięcia sporu o charakterze sprawy cywilnej, przewodniczący zwraca wnoszącemu bez żadnych dalszych czynności, chyba że wyjątkowe okoliczności uzasadniają nadanie mu biegu.
 
@@ -1871,7 +1876,7 @@ source: pdf
 
 **Art. 205.** Sąd rejonowy może na wniosek pozwanego, złożony aż do zamknięcia rozprawy, przekazać sprawę sądowi okręgowemu, jeżeli pozwany wytoczył przeciwko powodowi przed tym sądem powództwo wpływające na roszczenie powoda bądź dlatego, że ma z nim związek, bądź dlatego, że roszczenia stron nadają się do potrącenia.
 
-#### Rozdział 2a Organizacja postępowania
+##### Rozdział 2a Organizacja postępowania
 
 **Art. 205¹.**
 
@@ -2014,7 +2019,7 @@ source: pdf
 
 § 2. Jeżeli nie zarządzono przeprowadzenia posiedzenia przygotowawczego, strona może przytaczać twierdzenia i dowody na uzasadnienie swoich wniosków lub dla odparcia wniosków i twierdzeń strony przeciwnej aż do zamknięcia rozprawy, z zastrzeżeniem niekorzystnych skutków, które według przepisów kodeksu mogą dla niej wyniknąć z działania na zwłokę lub niezastosowania się do zarządzeń przewodniczącego i postanowień sądu.
 
-#### Rozdział 3 Rozprawa
+##### Rozdział 3 Rozprawa
 
 **Art. 206.**
 
@@ -2157,9 +2162,9 @@ source: pdf
     - **a)** przyznać od strony nadużywającej koszty procesu podwyższone odpowiednio do spowodowanego tym nadużyciem zwiększenia nakładu pracy strony przeciwnej na prowadzenie sprawy, niewięcej jednak niż dwukrotnie,
     - **b)** podwyższyć stopę odsetek zasądzonych od strony, której nadużycie spowodowało zwłokę w rozpoznaniu sprawy, za czas odpowiadający tej zwłoce, z tym że stopa może zostać podwyższona niewięcej niż dwukrotnie;
 
-### DZIAŁ III Dowody
+#### DZIAŁ III Dowody
 
-#### Rozdział 1 Przedmiot i ocena dowodów
+##### Rozdział 1 Przedmiot i ocena dowodów
 
 **Art. 227.** Przedmiotem dowodu są fakty mające dla rozstrzygnięcia sprawy istotne znaczenie.
 
@@ -2185,9 +2190,9 @@ source: pdf
 
 **Art. 234.** Domniemania ustanowione przez prawo (domniemania prawne) wiążą sąd; mogą być jednak obalone, ilekroć ustawa tego nie wyłącza.
 
-#### Rozdział 2 Postępowanie dowodowe
+##### Rozdział 2 Postępowanie dowodowe
 
-##### Oddział 1 Przepisy ogólne
+###### Oddział 1 Przepisy ogólne
 
 **Art. 235.**
 
@@ -2250,7 +2255,7 @@ source: pdf
 
 **Art. 243.** Zachowanie szczegółowych przepisów o postępowaniu dowodowym nie jest konieczne, ilekroć ustawa przewiduje uprawdopodobnienie zamiast dowodu.
 
-##### Oddział 2 Dokumenty
+###### Oddział 2 Dokumenty
 
 **Art. 243¹.** Przepisy niniejszego oddziału stosuje się do dokumentów zawierających tekst, umożliwiających ustalenie ich wystawców.
 
@@ -2314,7 +2319,7 @@ source: pdf
 
 **Art. 257.** Sąd oceni na podstawie okoliczności poszczególnego wypadku, czy i o ile dokument zachowuje moc dowodową pomimo przekreśleń, podskrobań lub innych uszkodzeń.
 
-##### Oddział 3 Zeznania świadków
+###### Oddział 3 Zeznania świadków
 
 **Art. 258.** (uchylony)
 
@@ -2405,7 +2410,7 @@ source: pdf
 
 **Art. 277.** Świadek ma prawo żądać zwrotu wydatków koniecznych, związanych ze stawiennictwem do sądu, a ponadto wynagrodzenia za utratę zarobku. Przewodniczący może przyznać świadkowi zaliczkę na koszty podróży i na utrzymanie w miejscu przesłuchania.
 
-##### Oddział 4 Opinia biegłych
+###### Oddział 4 Opinia biegłych
 
 **Art. 278.**
 
@@ -2491,7 +2496,7 @@ source: pdf
 
 **Art. 291.** Instytut naukowy lub naukowo-badawczy może żądać wynagrodzenia za wykonaną pracę i za stawiennictwo swoich przedstawicieli.
 
-##### Oddział 5 Oględziny
+###### Oddział 5 Oględziny
 
 **Art. 292.** Sąd może zarządzić oględziny bez udziału lub z udziałem biegłych, a stosownie do okoliczności – również w połączeniu z przesłuchaniem świadków.
 
@@ -2511,7 +2516,7 @@ source: pdf
 
 **Art. 298.** Oględziny osoby mogą odbyć się tylko za jej zgodą.
 
-##### Oddział 6 Przesłuchanie stron
+###### Oddział 6 Przesłuchanie stron
 
 **Art. 299.** Jeżeli po wyczerpaniu środków dowodowych lub w ich braku pozostały niewyjaśnione fakty istotne dla rozstrzygnięcia sprawy, sąd dla wyjaśnienia tych faktów może dopuścić dowód z przesłuchania stron.
 
@@ -2533,7 +2538,7 @@ source: pdf
 
 **Art. 304.** Przed przystąpieniem do przesłuchania sąd uprzedza strony, że obowiązane są zeznawać prawdę i że stosownie do okoliczności mogą być przesłuchane ponownie po odebraniu od nich przyrzeczenia. Przed odebraniem przyrzeczenia sąd uprzedza stronę o odpowiedzialności karnej za złożenie fałszywych zeznań. Poza tym do przesłuchania stron i składania przyrzeczenia stosuje się odpowiednio przepisy dotyczące świadków, w tym art. 263 , z wyjątkiem przepisów o środkach przymusowych.
 
-##### Oddział 7 Inne środki dowodowe
+###### Oddział 7 Inne środki dowodowe
 
 **Art. 305.** Sąd może dopuścić dowód z grupowego badania krwi.
 
@@ -2551,7 +2556,7 @@ source: pdf
 
 **Art. 309.** Sposób przeprowadzenia dowodu innymi środkami dowodowymi niż wymienione w artykułach poprzedzających określi sąd zgodnie z ich charakterem, stosując odpowiednio przepisy o dowodach.
 
-#### Rozdział 3 Zabezpieczenie dowodów
+##### Rozdział 3 Zabezpieczenie dowodów
 
 **Art. 310.** Przed wszczęciem postępowania na wniosek, a w toku postępowania również z urzędu, można zabezpieczyć dowód, gdy zachodzi obawa, że jego przeprowadzenie stanie się niewykonalne lub zbyt utrudnione, albo gdy z innych przyczyn zachodzi potrzeba stwierdzenia istniejącego stanu rzeczy.
 
@@ -2573,11 +2578,11 @@ source: pdf
 
 § 2. (uchylony)
 
-### DZIAŁ IV Orzeczenia
+#### DZIAŁ IV Orzeczenia
 
-#### Rozdział 1 Wyroki
+##### Rozdział 1 Wyroki
 
-##### Oddział 1 Wydanie wyroku
+###### Oddział 1 Wydanie wyroku
 
 **Art. 316.**
 
@@ -2710,7 +2715,7 @@ source: pdf
 
 § 2. W przypadku cofnięcia pozwu przed uprawomocnieniem się wyroku albo przedstawieniem akt z apelacją sądowi drugiej instancji, z jednoczesnym zrzeczeniem się dochodzonego roszczenia, a za zgodą pozwanego również bez tego zrzeczenia, sąd pierwszej instancji postanowieniem uchyli swój wyrok i umorzy postępowanie, jeżeli uzna takie cofnięcie za dopuszczalne.
 
-##### Oddział 2 Natychmiastowa wykonalność wyroków
+###### Oddział 2 Natychmiastowa wykonalność wyroków
 
 **Art. 333.**
 
@@ -2750,7 +2755,7 @@ source: pdf
 
 § 2. Przepis paragrafu poprzedzającego nie wyłącza możliwości dochodzenia w osobnym procesie naprawienia szkody poniesionej wskutek wykonania wyroku.
 
-##### Oddział 3 Wyroki zaoczne
+###### Oddział 3 Wyroki zaoczne
 
 **Art. 339.**
 
@@ -2804,7 +2809,7 @@ source: pdf
 
 § 2. Przepis art. 203 § 4 stosuje się odpowiednio.
 
-##### Oddział 4 Sprostowanie, uzupełnienie i wykładnia wyroków
+###### Oddział 4 Sprostowanie, uzupełnienie i wykładnia wyroków
 
 **Art. 350.**
 
@@ -2836,7 +2841,7 @@ source: pdf
 
 **Art. 353.** Wniosek o sprostowanie, uzupełnienie lub wykładnię wyroku nie ma wpływu na bieg terminu do wniesienia środka zaskarżenia.
 
-#### Rozdział 1a Nakazy zapłaty
+##### Rozdział 1a Nakazy zapłaty
 
 **Art. 353¹.**
 
@@ -2846,7 +2851,7 @@ source: pdf
 
 **Art. 353².** Do nakazów zapłaty stosuje się odpowiednio przepisy o wyrokach, jeżeli kodeks nie stanowi inaczej.
 
-#### Rozdział 2 Postanowienia sądu
+##### Rozdział 2 Postanowienia sądu
 
 **Art. 354.** Jeżeli kodeks nie przewiduje wydania wyroku lub nakazu zapłaty, sąd wydaje postanowienie.
 
@@ -2892,7 +2897,7 @@ source: pdf
 
 **Art. 362¹.** Do postanowień referendarza sądowego stosuje się odpowiednio przepisy o postanowieniach sądu.
 
-#### Rozdział 3 Prawomocność orzeczeń
+##### Rozdział 3 Prawomocność orzeczeń
 
 **Art. 363.**
 
@@ -2916,9 +2921,9 @@ source: pdf
 
 **Art. 366.** Wyrok prawomocny ma powagę rzeczy osądzonej tylko co do tego, co w związku z podstawą sporu stanowiło przedmiot rozstrzygnięcia, a ponadto tylko między tymi samymi stronami.
 
-### DZIAŁ V Środki odwoławcze
+#### DZIAŁ V Środki odwoławcze
 
-#### Rozdział 1 Apelacja
+##### Rozdział 1 Apelacja
 
 **Art. 367.**
 
@@ -3119,9 +3124,9 @@ source: pdf
 - **1)** ilekroć ustawa przewiduje zwrot pozwu, sąd umarza postępowanie;
 - **2)** wraz z odpisem pozwu doręcza się pozwanemu odpisy apelacji oraz wyroków sądów obu instancji z uzasadnieniami.
 
-#### Rozdział 1 (zawierający art. 392–393 [20] – uchylony)
+##### Rozdział 1 (zawierający art. 392–393 [20] – uchylony)
 
-#### Rozdział 2 Zażalenie
+##### Rozdział 2 Zażalenie
 
 **Art. 394.**
 
@@ -3239,7 +3244,7 @@ source: pdf
 
 **Art. 398.** Przepisy niniejszego działu stosuje się odpowiednio do zażaleń na zarządzenia przewodniczącego.
 
-### DZIAŁ Va Skarga kasacyjna
+#### DZIAŁ Va Skarga kasacyjna
 
 **Art. 398¹.**
 
@@ -3377,7 +3382,7 @@ source: pdf
 
 **Art. 398²¹.** Jeżeli nie ma szczególnych przepisów o postępowaniu przed Sądem Najwyższym, do postępowania tego stosuje się odpowiednio przepisy o apelacji, z tym że skargę kasacyjną cofnąć może również sama strona, a termin na sporządzenie uzasadnienia orzeczenia przez Sąd Najwyższy wynosi miesiąc.
 
-### DZIAŁ Vb Skarga na orzeczenie referendarza sądowego
+#### DZIAŁ Vb Skarga na orzeczenie referendarza sądowego
 
 **Art. 398²².**
 
@@ -3407,7 +3412,7 @@ source: pdf
 
 **Art. 398²⁴.** W zakresie nieuregulowanym do postępowania ze skargi na orzeczenie referendarza sądowego stosuje się odpowiednio przepisy o zażaleniu.
 
-### DZIAŁ VI Wznowienie postępowania
+#### DZIAŁ VI Wznowienie postępowania
 
 **Art. 399.**
 
@@ -3493,9 +3498,9 @@ source: pdf
 
 **Art. 416¹.** W sprawie zakończonej prawomocnym wyrokiem mogą być uchylone postanowienia niekończące postępowania w sprawie, jeżeli zostały wydane na podstawie aktu normatywnego uznanego przez Trybunał Konstytucyjny za niezgodny z Konstytucją, ratyfikowaną umową międzynarodową lub z ustawą. Przepisy o wznowieniu postępowania stosuje się odpowiednio.
 
-### DZIAŁ VII (zawierający art. 417–424 – uchylony)
+#### DZIAŁ VII (zawierający art. 417–424 – uchylony)
 
-### DZIAŁ VIII Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia
+#### DZIAŁ VIII Skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia
 
 **Art. 424¹.**
 
@@ -3562,11 +3567,11 @@ source: pdf
 
 **Art. 424¹².** W wypadkach nieuregulowanych przepisami niniejszego działu do postępowania wywołanego wniesieniem skargi stosuje się odpowiednio przepisy o skardze kasacyjnej.
 
-## TYTUŁ VII Postępowania odrębne
+### TYTUŁ VII Postępowania odrębne
 
-### DZIAŁ I Postępowanie w sprawach małżeńskich
+#### DZIAŁ I Postępowanie w sprawach małżeńskich
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 425.** Przepisy niniejszego rozdziału stosuje się w sprawach o unieważnienie małżeństwa, o ustalenie istnienia lub nieistnienia małżeństwa i o rozwód oraz o separację na żądanie jednego z małżonków.
 
@@ -3600,7 +3605,7 @@ source: pdf
 
 § 2. Nie dotyczy to części orzekającej o prawach i roszczeniach majątkowych poszukiwanych łącznie z prawami niemajątkowymi.
 
-#### Rozdział 2 Sprawy o rozwód i o separację
+##### Rozdział 2 Sprawy o rozwód i o separację
 
 **Art. 436.**
 
@@ -3660,7 +3665,7 @@ source: pdf
 
 **Art. 446¹.** Sąd drugiej instancji rozpoznaje sprawę w składzie jednego sędziego.
 
-#### Rozdział 3 Inne sprawy
+##### Rozdział 3 Inne sprawy
 
 **Art. 447.**
 
@@ -3696,7 +3701,7 @@ source: pdf
 
 **Art. 452.** W sprawach o ustanowienie rozdzielności majątkowej między małżonkami stosuje się odpowiednio przepisy art. 426, 431, 432, 435 § 1, 441 i 446.
 
-### DZIAŁ II Postępowanie w sprawach ze stosunków między rodzicami a dziećmi
+#### DZIAŁ II Postępowanie w sprawach ze stosunków między rodzicami a dziećmi
 
 **Art. 453.** Przepisy niniejszego działu stosuje się w sprawach o ustalenie lub zaprzeczenie pochodzenia dziecka, o ustalenie bezskuteczności uznania ojcostwa oraz o rozwiązanie przysposobienia.
 
@@ -3746,7 +3751,7 @@ source: pdf
 
 § 2. Jeżeli jednocześnie z ustaleniem ojcostwa dochodzi się związanych z tym roszczeń majątkowych, do części postępowania dotyczących tych roszczeń nie stosuje się przepisów art. 429 i 456. W razie śmierci pozwanego postępowanie w części dotyczącej roszczeń majątkowych zawiesza się do czasu prawomocnego rozstrzygnięcia sprawy o ustalenie ojcostwa, po czym może ono być podjęte z udziałem następców prawnych zmarłego lub kuratora spadku.
 
-### DZIAŁ IIA Postępowanie w sprawach gospodarczych
+#### DZIAŁ IIA Postępowanie w sprawach gospodarczych
 
 **Art. 458¹.**
 
@@ -3852,7 +3857,7 @@ source: pdf
 
 **Art. 458¹³.** Do wyroku sądu pierwszej instancji zasądzającego świadczenie w pieniądzu lub rzeczach zamiennych przepisy art. 492 § 1 i 2 stosuje się odpowiednio.
 
-### DZIAŁ IIB Postępowanie z udziałem konsumentów
+#### DZIAŁ IIB Postępowanie z udziałem konsumentów
 
 **Art. 458¹⁴.**
 
@@ -3876,9 +3881,9 @@ source: pdf
 
 **Art. 458¹⁶.** Jeżeli strona będąca przedsiębiorcą przed wytoczeniem powództwa zaniechała próby dobrowolnego rozwiązania sporu, uchyliła się od udziału w niej lub uczestniczyła w niej w złej wierze i przez to przyczyniła się do zbędnego wytoczenia powództwa lub wadliwego określenia przedmiotu sprawy, niezależnie od wyniku sprawy sąd może obciążyć tę stronę kosztami procesu w całości lub części, a w uzasadnionych przypadkach nawet podwyższyć je, jednak niewięcej niż dwukrotnie.
 
-### DZIAŁ III Postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych
+#### DZIAŁ III Postępowanie w sprawach z zakresu prawa pracy i ubezpieczeń społecznych
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 459.** Przepisy niniejszego rozdziału stosuje się w sprawach z zakresu prawa pracy, a także w sprawach z zakresu ubezpieczeń społecznych.
 
@@ -4002,7 +4007,7 @@ source: pdf
     - **c)** świadczenia w sprawach należących do właściwości Zakładu Ubezpieczeń Społecznych,
     - **d)** świadczenie odszkodowawcze przysługujące w razie wypadku lub choroby pozostające w związku ze służbą wojskową albo służbą w Policji, Straży Granicznej, Straży Marszałkowskiej, Służbie Celno-Skarbowej, Państwowej Straży Pożarnej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego oraz Centralnym Biurze Antykorupcyjnym.
 
-#### Rozdział 2 Postępowanie w sprawach z zakresu prawa pracy <Oddział 1 Przepisy ogólne >
+##### Rozdział 2 Postępowanie w sprawach z zakresu prawa pracy <Oddział 1 Przepisy ogólne >
 
 **Art. 477.** W postępowaniu wszczętym z powództwa pracownika wezwania do udziału w sprawie, o którym mowa w art. 194 § 1 i § 3, sąd może dokonać również z urzędu. Przewodniczący poucza pracownika o roszczeniach wynikających z przytoczonych przez niego faktów.
 
@@ -4102,7 +4107,7 @@ source: pdf
 
 **Art. 477⁷j.** W sprawie odwołania od decyzji, o którym mowa w art. 14b ust. 8 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, stosuje się odpowiednio przepisy art. 477 § 1, 2 i 5–7, art. 477 § 1 oraz art. 477 . Sąd może rozpoznać sprawę na posiedzeniu niejawnym, jeżeli przeprowadzenie rozprawy nie jest konieczne.
 
-#### Rozdział 3 Postępowanie w sprawach z zakresu ubezpieczeń społecznych
+##### Rozdział 3 Postępowanie w sprawach z zakresu ubezpieczeń społecznych
 
 **Art. 477⁸.**
 
@@ -4178,15 +4183,15 @@ source: pdf
 
 **Art. 477¹⁶.** (uchylony)
 
-### DZIAŁ IV Postępowanie w sprawach o naruszenie posiadania
+#### DZIAŁ IV Postępowanie w sprawach o naruszenie posiadania
 
 **Art. 478.** W sprawach o naruszenie posiadania sąd bada jedynie ostatni stan posiadania i fakt jego naruszenia, nie rozpoznając samego prawa ani dobrej wiary pozwanego.
 
 **Art. 479.** W sprawach o naruszenie posiadania powództwo wzajemne nie jest dopuszczalne.
 
-### DZIAŁ IVa Postępowanie w sprawach z zakresu ochrony konkurencji i konsumentów oraz w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową
+#### DZIAŁ IVa Postępowanie w sprawach z zakresu ochrony konkurencji i konsumentów oraz w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową
 
-#### Rozdział 1
+##### Rozdział 1
 
 **Art. 479²⁸.**
 
@@ -4319,11 +4324,11 @@ source: pdf
 
 § 2. Skarga kasacyjna od orzeczenia sądu drugiej instancji przysługuje niezależnie od wartości przedmiotu zaskarżenia.
 
-### DZIAŁ IVb (zawierający art. 479 –479 – uchylony)
+#### DZIAŁ IVb (zawierający art. 479 –479 – uchylony)
 
 **Art. 479⁴⁵.** (uchylony)
 
-### DZIAŁ IVc Postępowanie w sprawach z zakresu regulacji energetyki
+#### DZIAŁ IVc Postępowanie w sprawach z zakresu regulacji energetyki
 
 **Art. 479⁴⁶.** Sąd Okręgowy w Warszawie – sąd ochrony konkurencji i konsumentów jest właściwy w sprawach:
 
@@ -4378,7 +4383,7 @@ source: pdf
 
 § 2. Skarga kasacyjna od orzeczenia sądu drugiej instancji przysługuje niezależnie od wartości przedmiotu zaskarżenia.
 
-### DZIAŁ IVd Postępowanie w sprawach z zakresu regulacji komunikacji elektronicznej i poczty
+#### DZIAŁ IVd Postępowanie w sprawach z zakresu regulacji komunikacji elektronicznej i poczty
 
 **Art. 479⁵⁷.** Sąd Okręgowy w Warszawie – sąd ochrony konkurencji i konsumentów jest właściwy w sprawach:
 
@@ -4435,7 +4440,7 @@ source: pdf
 
 § 2. Skarga kasacyjna od orzeczenia sądu drugiej instancji przysługuje niezależnie od wartości przedmiotu zaskarżenia.
 
-### DZIAŁ IVE Postępowanie w sprawach z zakresu regulacji transportu kolejowego
+#### DZIAŁ IVE Postępowanie w sprawach z zakresu regulacji transportu kolejowego
 
 **Art. 479⁶⁸.** Sąd Okręgowy w Warszawie – sąd ochrony konkurencji i konsumentów jest właściwy w sprawach:
 
@@ -4492,7 +4497,7 @@ source: pdf
 
 § 2. Skarga kasacyjna od orzeczenia sądu drugiej instancji przysługuje niezależnie od wartości przedmiotu zaskarżenia.
 
-### DZIAŁ IVf Postępowanie w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego
+#### DZIAŁ IVf Postępowanie w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego
 
 **Art. 479⁷⁹.** Sąd Okręgowy w Warszawie – sąd ochrony konkurencji i konsumentów jest właściwy w sprawach:
 
@@ -4541,9 +4546,9 @@ source: pdf
 
 **Art. 479⁸⁸.** Skarga kasacyjna od orzeczenia sądu drugiej instancji przysługuje niezależnie od wartości przedmiotu zaskarżenia.
 
-### DZIAŁ IVG Postępowanie w sprawach własności intelektualnej
+#### DZIAŁ IVG Postępowanie w sprawach własności intelektualnej
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 479⁸⁹.**
 
@@ -4579,7 +4584,7 @@ source: pdf
 
 **Art. 479⁹⁵.** Stosując środki przewidziane w art. 479 , art. 479 lub art. 479 § 1, sąd uwzględni interesy stron w takiej mierze, aby uprawnionemu zapewnić należytą ochronę prawną, a obowiązanego lub pozwanego nie obciążać ponad potrzebę, mając na uwadze obciążenia obowiązanego lub pozwanego, jakie wynikałyby z zastosowanych środków, oraz ochronę tajemnicy przedsiębiorstwa.
 
-#### Rozdział 2 Zabezpieczenie środka dowodowego
+##### Rozdział 2 Zabezpieczenie środka dowodowego
 
 **Art. 479⁹⁶.** Przepisy dotyczące obowiązanego stosuje się do osoby, w tym również pozwanego, w której władaniu znajduje się środek dowodowy lub która może umożliwić jego zabezpieczenie.
 
@@ -4637,7 +4642,7 @@ source: pdf
 
 **Art. 479¹⁰⁵.** W zakresie nieuregulowanym w niniejszym rozdziale do zabezpieczenia środka dowodowego przepisy art. 738, art. 742 § 1 zdanie pierwsze, § 2 i 3 oraz art. 744–746 stosuje się odpowiednio. Z żądaniem, o którym mowa w art. 742, może wystąpić również pozwany.
 
-#### Rozdział 3 Wyjawienie lub wydanie środka dowodowego
+##### Rozdział 3 Wyjawienie lub wydanie środka dowodowego
 
 **Art. 479¹⁰⁶.** W sprawie o naruszenie prawa własności intelektualnej powód, który uprawdopodobnił roszczenie, może żądać, aby pozwany wyjawił lub wydał środek dowodowy, którym dysponuje, w szczególności dokumenty bankowe, finansowe lub handlowe, służące ujawnieniu i udowodnieniu faktów.
 
@@ -4667,7 +4672,7 @@ source: pdf
 
 **Art. 479¹¹¹.** Gdy wyjawienie lub wydanie środka dowodowego dotyczy dokumentów bankowych, handlowych lub finansowych, przepis art. 249 § 2 stosuje się odpowiednio.
 
-#### Rozdział 4 Wezwanie do udzielenia informacji
+##### Rozdział 4 Wezwanie do udzielenia informacji
 
 **Art. 479¹¹².** Przepisy dotyczące obowiązanego stosuje się do osoby, w tym również pozwanego, która posiada informacje, o których mowa w art. 479 , lub dostęp do nich.
 
@@ -4739,7 +4744,7 @@ source: pdf
 
 **Art. 479¹²¹.** Na żądanie obowiązanego lub pozwanego uprawniony jest obowiązany zwrócić koszty i wydatki celowe poniesione w związku z udzieleniem informacji. Przepis art. 277 stosuje się odpowiednio.
 
-#### Rozdział 5 Powództwa szczególne
+##### Rozdział 5 Powództwa szczególne
 
 **Art. 479¹²².**
 
@@ -4790,9 +4795,9 @@ source: pdf
 - **2)** nie był krótszy niż dwa miesiące od dnia doręczenia uprawnionemu pisma;
 - **3)** w treści pisma powód dokładnie oznaczył czynności, które zamierza podjąć i które mogą stanowić naruszenie patentu, dodatkowego prawa ochronnego, prawa ochronnego lub prawa z rejestracji, wskazując, w jakim zakresie może nastąpić naruszenie, i wezwał uprawnionego do wyraźnego potwierdzenia, że nie stanowią one naruszenia.
 
-### DZIAŁ V Postępowanie nakazowe i upominawcze
+#### DZIAŁ V Postępowanie nakazowe i upominawcze
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 480.** (uchylony)
 
@@ -4845,7 +4850,7 @@ source: pdf
 
 **Art. 484.** (uchylony)
 
-#### Rozdział 2 Postępowanie nakazowe
+##### Rozdział 2 Postępowanie nakazowe
 
 **Art. 484¹.** Nakaz zapłaty w postępowaniu nakazowym wydaje się na wniosek powoda zgłoszony w pozwie.
 
@@ -4920,7 +4925,7 @@ source: pdf
 
 § 2. W przypadku, o którym mowa w art. 203 § 4, sąd może uznać cofnięcie zarzutów za niedopuszczalne.
 
-#### Rozdział 3 Postępowanie upominawcze
+##### Rozdział 3 Postępowanie upominawcze
 
 **Art. 497¹.** (uchylony)
 
@@ -4955,7 +4960,7 @@ source: pdf
 
 § 3. Na wniosek strony sąd wydaje postanowienie stwierdzające utratę mocy nakazu zapłaty w całości lub części.
 
-### DZIAŁ VI Postępowanie uproszczone
+#### DZIAŁ VI Postępowanie uproszczone
 
 **Art. 505¹.**
 
@@ -5055,9 +5060,9 @@ source: pdf
 
 § 2. (uchylony)
 
-### DZIAŁ VII Europejskie postępowania w sprawach transgranicznych
+#### DZIAŁ VII Europejskie postępowania w sprawach transgranicznych
 
-#### Rozdział 1 Europejskie postępowanie nakazowe
+##### Rozdział 1 Europejskie postępowanie nakazowe
 
 **Art. 505¹⁵.**
 
@@ -5103,7 +5108,7 @@ source: pdf
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia europejskiego nakazu zapłaty przysługuje zażalenie.
 
-#### Rozdział 2 Europejskie postępowanie w sprawie drobnych roszczeń
+##### Rozdział 2 Europejskie postępowanie w sprawie drobnych roszczeń
 
 **Art. 505²¹.**
 
@@ -5145,9 +5150,9 @@ source: pdf
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia wyroku przysługuje zażalenie.
 
-### DZIAŁ VIII Postępowania elektroniczne
+#### DZIAŁ VIII Postępowania elektroniczne
 
-#### Rozdział 1 Elektroniczne postępowanie upominawcze
+##### Rozdział 1 Elektroniczne postępowanie upominawcze
 
 **Art. 505²⁸.**
 
@@ -5230,9 +5235,9 @@ source: pdf
 
 **Art. 505³⁹.** W razie wniesienia skargi o wznowienie postępowania sąd przekazuje sprawę do sądu według właściwości ogólnej. Do wznowienia postępowania właściwy jest sąd według właściwości ogólnej.
 
-# KSIĘGA DRUGA POSTĘPOWANIE NIEPROCESOWE
+## KSIĘGA DRUGA POSTĘPOWANIE NIEPROCESOWE
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
 **Art. 506.** Sąd wszczyna postępowanie nieprocesowe na wniosek; w wypadkach wskazanych w ustawie sąd może wszcząć postępowanie także z urzędu.
 
@@ -5397,13 +5402,13 @@ source: pdf
 - **1)** sporządzanie i otrzymywanie odpisów i wyciągów z akt sprawy;
 - **2)** otrzymywanie zapisu dźwięku albo obrazu i dźwięku z akt sprawy.
 
-## TYTUŁ II Przepisy dla poszczególnych rodzajów spraw
+### TYTUŁ II Przepisy dla poszczególnych rodzajów spraw
 
-### DZIAŁ I Sprawy z zakresu prawa osobowego
+#### DZIAŁ I Sprawy z zakresu prawa osobowego
 
-#### Rozdział 1 Uznanie za zmarłego i stwierdzenie zgonu
+##### Rozdział 1 Uznanie za zmarłego i stwierdzenie zgonu
 
-##### Oddział 1 Postępowanie o uznanie za zmarłego
+###### Oddział 1 Postępowanie o uznanie za zmarłego
 
 **Art. 526.**
 
@@ -5451,7 +5456,7 @@ source: pdf
 
 **Art. 534.** Jeżeli w toku postępowania o uznanie za zmarłego okaże się, że śmierć zaginionego jest niewątpliwa, sąd przeprowadzi dalsze postępowanie z urzędu według przepisów oddziału następnego.
 
-##### Oddział 2 Postępowanie o stwierdzenie zgonu
+###### Oddział 2 Postępowanie o stwierdzenie zgonu
 
 **Art. 535.** Do postępowania o stwierdzenie zgonu osoby, której śmierć mimo niesporządzenia aktu zgonu jest niewątpliwa, stosuje się odpowiednio przepisy oddziału poprzedzającego ze zmianami przewidzianymi w oddziale niniejszym.
 
@@ -5471,7 +5476,7 @@ source: pdf
 
 § 2. Jeżeli dokładne ustalenie chwili śmierci nie jest możliwe, przyjmuje się chwilę najbardziej prawdopodobną.
 
-##### Oddział 3 Uchylenie postanowień orzekających uznanie za zmarłego lub stwierdzenie zgonu
+###### Oddział 3 Uchylenie postanowień orzekających uznanie za zmarłego lub stwierdzenie zgonu
 
 **Art. 539.** Dowód, że osoba uznana za zmarłą albo której zgon został stwierdzony pozostaje przy życiu lub że śmierć jej nastąpiła w innej chwili niż chwila oznaczona w orzeczeniu, może być przeprowadzony tylko w postępowaniu unormowanym w niniejszym oddziale.
 
@@ -5487,9 +5492,9 @@ source: pdf
 
 **Art. 543.** Jeżeli osoba, którą uznano za zmarłą lub której zgon stwierdzono, zjawi się osobiście w sądzie i wykaże swoją tożsamość, sąd niezwłocznie i bez dalszego postępowania uchyli postanowienie orzekające uznanie za zmarłego lub stwierdzenie zgonu.
 
-#### Rozdział 2 Ubezwłasnowolnienie
+##### Rozdział 2 Ubezwłasnowolnienie
 
-##### Oddział 1 Przepisy ogólne
+###### Oddział 1 Przepisy ogólne
 
 **Art. 544.**
 
@@ -5533,7 +5538,7 @@ source: pdf
 
 § 4. Przepisów o posiedzeniu zdalnym nie stosuje się do osoby, której dotyczy wniosek o ubezwłasnowolnienie, o ile ma być wysłuchana, ani do udziału biegłych w tej czynności.
 
-##### Oddział 2 Doradca tymczasowy
+###### Oddział 2 Doradca tymczasowy
 
 **Art. 548.**
 
@@ -5568,7 +5573,7 @@ source: pdf
 
 § 2. Na postanowienie w przedmiocie ustanowienia lub odwołania doradcy tymczasowego przysługuje zażalenie.
 
-##### Oddział 3 Postępowanie
+###### Oddział 3 Postępowanie
 
 **Art. 552.**
 
@@ -5630,7 +5635,7 @@ source: pdf
 
 **Art. 560¹.** W sprawach o ubezwłasnowolnienie, o uchylenie oraz zmianę ubezwłasnowolnienia sąd może ustanowić dla osoby, której dotyczy wniosek o ubezwłasnowolnienie lub dla osoby ubezwłasnowolnionej, adwokata lub radcę prawnego z urzędu, nawet bez jej wniosku, jeżeli osoba ta ze względu na stan zdrowia psychicznego nie jest zdolna do złożenia wniosku, a sąd uzna udział adwokata lub radcy prawnego w sprawie za potrzebny.
 
-### DZIAŁ Ia Sprawy z zakresu przeciwdziałania przemocy domowej
+#### DZIAŁ Ia Sprawy z zakresu przeciwdziałania przemocy domowej
 
 **Art. 560².** Przepisy zawarte w niniejszym dziale stosuje się w sprawach, o których mowa w art. 11a–11ab ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 1673 oraz z 2026 r. poz. 160).
 
@@ -5712,9 +5717,9 @@ source: pdf
 
 **Art. 560¹².** Sąd drugiej instancji orzeka w terminie jednego miesiąca od przedstawienia akt sprawy przez sąd pierwszej instancji wraz z apelacją.
 
-### DZIAŁ II Sprawy z zakresu prawa rodzinnego, opiekuńczego i kurateli
+#### DZIAŁ II Sprawy z zakresu prawa rodzinnego, opiekuńczego i kurateli
 
-#### Rozdział 1 Sprawy małżeńskie
+##### Rozdział 1 Sprawy małżeńskie
 
 **Art. 561.**
 
@@ -5776,9 +5781,9 @@ source: pdf
 
 **Art. 567⁵.** Z chwilą wszczęcia postępowania o zniesienie separacji zawiesza się z urzędu postępowanie w sprawie o eksmisję jednego z małżonków pozostających w separacji ze wspólnego mieszkania, jak również postępowanie w sprawie o korzystanie przez małżonków pozostających w separacji ze wspólnego mieszkania. Z chwilą uprawomocnienia się orzeczenia o zniesieniu separacji postępowanie umarza się z urzędu.
 
-#### Rozdział 2 Inne sprawy rodzinne oraz sprawy opiekuńcze
+##### Rozdział 2 Inne sprawy rodzinne oraz sprawy opiekuńcze
 
-##### Oddział 1 Przepisy ogólne
+###### Oddział 1 Przepisy ogólne
 
 **Art. 568.** Sądem opiekuńczym jest sąd rodzinny.
 
@@ -5882,7 +5887,7 @@ source: pdf
 - **6)** radca prawny;
 - **7)** radca Prokuratorii Generalnej Rzeczypospolitej Polskiej.
 
-##### Oddział 2 Sprawy z zakresu stosunków między rodzicami a dziećmi
+###### Oddział 2 Sprawy z zakresu stosunków między rodzicami a dziećmi
 
 **Art. 579.** Postanowienia w sprawach o powierzenie wykonywania, ograniczenie, zawieszenie, pozbawienie i przywrócenie władzy rodzicielskiej, ustalenie, ograniczenie albo zakazanie kontaktów z dzieckiem mogą być wydane tylko po przeprowadzeniu rozprawy. Dotyczy to także zmiany rozstrzygnięć w tym przedmiocie, zawartych w wyroku orzekającym rozwód, separację, unieważnienie małżeństwa albo ustalającym pochodzenie dziecka. Postanowienia takie stają się skuteczne i wykonalne po uprawomocnieniu się.
 
@@ -5983,7 +5988,7 @@ source: pdf
 
 **Art. 584.** Postanowienie o nadaniu dziecku nazwiska staje się skuteczne dopiero po uprawomocnieniu się. Postanowienia takiego sąd opiekuńczy nie może zmienić ani uchylić.
 
-##### Oddział 3 Sprawy o przysposobienie
+###### Oddział 3 Sprawy o przysposobienie
 
 **Art. 585.**
 
@@ -6056,7 +6061,7 @@ source: pdf
 
 § 4. Przyjmując oświadczenie o wyrażeniu zgody na przysposobienie dziecka w przyszłości, sąd opiekuńczy poucza o treści przepisu art. 211a § 2 Kodeksu karnego oraz przyjmuje oświadczenie, że wyrażając zgodę na przysposobienie, rodzic nie działa w celu osiągnięcia korzyści majątkowej lub osobistej. Fakt udzielenia pouczenia i przyjęcia oświadczenia odnotowuje się w protokole.
 
-##### Oddział 4 Sprawy z zakresu opieki
+###### Oddział 4 Sprawy z zakresu opieki
 
 **Art. 590.** Obejmując opiekę opiekun składa następujące przyrzeczenie: „Przyrzekam, że powierzone mi obowiązki opiekuna wykonam z całą sumiennością i zgodnie z interesem społecznym, mając zawsze na względzie dobro osoby podlegającej mojej pieczy”.
 
@@ -6088,7 +6093,7 @@ source: pdf
 
 § 2. Sąd opiekuńczy może wymierzyć grzywnę opiekunowi, który nie wykonuje zarządzeń sądu opiekuńczego. Jeżeli zarządzenie zostanie wykonane, grzywna jeszcze nieuiszczona może być umorzona.
 
-##### Oddział 5 Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
+###### Oddział 5 Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
 
 **Art. 598¹.**
 
@@ -6180,7 +6185,7 @@ source: pdf
 
 § 2. Wniosek, o którym mowa w art. 598 , uprawniony składa do sądu, który byłby właściwy w sprawie o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.
 
-##### Oddział 6 Sprawy dotyczące wykonywania kontaktów z dzieckiem
+###### Oddział 6 Sprawy dotyczące wykonywania kontaktów z dzieckiem
 
 **Art. 598¹⁵.**
 
@@ -6228,7 +6233,7 @@ source: pdf
 
 **Art. 598²².** Przepisy niniejszego oddziału stosuje się odpowiednio do orzeczenia, w którym sąd określił, że dziecko będzie mieszkać z każdym z rodziców w powtarzających się okresach.
 
-#### Rozdział 3 Sprawy z zakresu kurateli
+##### Rozdział 3 Sprawy z zakresu kurateli
 
 **Art. 599.** Sądem opiekuńczym właściwym do ustanowienia kuratora dla dziecka poczętego, lecz jeszcze nieurodzonego, jest sąd właściwy według miejsca zamieszkania lub pobytu matki.
 
@@ -6264,9 +6269,7 @@ source: pdf
 
 § 5. Jeżeli dla osoby prawnej ustanowiono wcześniej kuratora, o którym mowa w art. 69 § 1, sąd rejestrowy zawiadamia właściwy sąd o ustanowieniu kuratora na podstawie art. 42 § 1 Kodeksu cywilnego.
 
-**Art. 603¹.** Kuratora, o którym mowa w art. 26 ust. 1 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz.
-
-- **573)** , ustanawia sąd właściwy dla miejsca położenia nieruchomości.
+**Art. 603¹.** Kuratora, o którym mowa w art. 26 ust. 1 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz. 573), ustanawia sąd właściwy dla miejsca położenia nieruchomości.
 
 **Art. 603².**
 
@@ -6295,9 +6298,9 @@ source: pdf
 
 **Art. 605.** W przedmiotach nieunormowanych w rozdziale niniejszym stosuje się odpowiednio przepisy o postępowaniu w sprawach z zakresu opieki.
 
-### DZIAŁ III Sprawy z zakresu prawa rzeczowego
+#### DZIAŁ III Sprawy z zakresu prawa rzeczowego
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 606.** W sprawach z zakresu prawa rzeczowego właściwy jest sąd położenia rzeczy.
 
@@ -6305,7 +6308,7 @@ source: pdf
 
 **Art. 608.** Sprawy z zakresu prawa rzeczowego rozpoznawane są na rozprawie, chyba że przepis szczególny stanowi inaczej.
 
-#### Rozdział 2 Stwierdzenie zasiedzenia
+##### Rozdział 2 Stwierdzenie zasiedzenia
 
 **Art. 609.**
 
@@ -6321,9 +6324,9 @@ source: pdf
 
 § 2. Jeżeli w terminie wskazanym w ogłoszeniu nikt się nie zgłosi albo zgłaszający się nie wykaże własności, sąd stwierdzi zasiedzenie, jeżeli zostało ono udowodnione.
 
-#### Rozdział 2a Przepadek rzeczy
+##### Rozdział 2a Przepadek rzeczy
 
-##### Oddział 1 Przepadek rzeczy na podstawie prawa celnego
+###### Oddział 1 Przepadek rzeczy na podstawie prawa celnego
 
 **Art. 610¹.**
 
@@ -6343,7 +6346,7 @@ source: pdf
 
 **Art. 610⁵.** Do wykonania orzeczenia o przepadku towaru jest obowiązany właściwy organ celny. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów prawa celnego.
 
-##### Oddział 2 Przepadek pojazdów
+###### Oddział 2 Przepadek pojazdów
 
 **Art. 610⁶.**
 
@@ -6359,7 +6362,7 @@ source: pdf
 
 § 2. Starosta może domagać się w jednym wniosku orzeczenia przepadku pojazdów usuniętych w tych samych okolicznościach faktycznych, jeżeli ponadto sąd jest właściwy dla każdej sprawy.
 
-#### Rozdział 3 Zarząd związany ze współwłasnością i użytkowaniem
+##### Rozdział 3 Zarząd związany ze współwłasnością i użytkowaniem
 
 **Art. 611.** Zarządca nieruchomości ustanowiony na podstawie art. 203 i 269 § 1 Kodeksu cywilnego obowiązany jest niezwłocznie zgłosić wniosek o ujawnienie zarządu w księdze wieczystej lub w zbiorze dokumentów.
 
@@ -6381,7 +6384,7 @@ source: pdf
 
 **Art. 616.** Z wyjątkiem spraw przewidzianych w art. 199, 201 i 202 Kodeksu cywilnego, jak również spraw dotyczących powołania i odwołania zarządcy, wyznaczenie rozprawy zależy od uznania sądu.
 
-#### Rozdział 4 Zniesienie współwłasności
+##### Rozdział 4 Zniesienie współwłasności
 
 **Art. 617.** We wniosku o zniesienie współwłasności należy dokładnie określić rzecz mającą ulec podziałowi oraz przedstawić dowody prawa własności.
 
@@ -6415,7 +6418,7 @@ source: pdf
 
 **Art. 625.** W postanowieniu zarządzającym sprzedaż rzeczy należących do współwłaścicieli sąd bądź rozstrzygnie o wzajemnych roszczeniach współwłaścicieli, bądź też tylko zarządzi sprzedaż, odkładając rozstrzygnięcie o wzajemnych roszczeniach współwłaścicieli oraz o podziale sumy uzyskanej ze sprzedaży do czasu jej przeprowadzenia.
 
-#### Rozdział 5 Ustanowienie drogi koniecznej i służebności przesyłu
+##### Rozdział 5 Ustanowienie drogi koniecznej i służebności przesyłu
 
 **Art. 626.**
 
@@ -6425,7 +6428,7 @@ source: pdf
 
 § 3. Przepisy § 1 i 2 stosuje się odpowiednio w sprawach o ustanowienie służebności przesyłu.
 
-#### Rozdział 6 Postępowanie wieczystoksięgowe
+##### Rozdział 6 Postępowanie wieczystoksięgowe
 
 **Art. 626¹.**
 
@@ -6555,7 +6558,7 @@ source: pdf
 
 § 2. Sprostowania usterek wpisu, które nie mogą wywołać niezgodności treści księgi wieczystej z rzeczywistym stanem prawnym, dokonuje się z urzędu.
 
-### DZIAŁ IV Sprawy z zakresu prawa spadkowego Przepisy wstępne
+#### DZIAŁ IV Sprawy z zakresu prawa spadkowego Przepisy wstępne
 
 **Art. 627.** Postępowanie spadkowe należy do zakresu działalności sądów, chyba że przepis szczególny stanowi inaczej.
 
@@ -6569,7 +6572,7 @@ source: pdf
 
 **Art. 632.** (uchylony)
 
-#### Rozdział 1 Zabezpieczenie spadku, wykaz inwentarza i spis inwentarza
+##### Rozdział 1 Zabezpieczenie spadku, wykaz inwentarza i spis inwentarza
 
 **Art. 633.**
 
@@ -6730,7 +6733,7 @@ source: pdf
 - **2)** zawartość protokołu ze spisu majątku ruchomego, w tym zakres danych osobowych zamieszczanych w protokole, mając na względzie niezbędność i adekwatność informacji oraz niezbędność i adekwatność danych osobowych w stosunku do celu ich przetwarzania;
 - **3)** szczegółowy tryb i sposób zastosowania niezbędnych środków tymczasowych zapobiegających naruszeniu ruchomości przed ich spisaniem, mając na względzie przedmiot zabezpieczenia, szybkość postępowania, a także skuteczność niezbędnych środków tymczasowych.
 
-#### Rozdział 2 Przyjęcie lub odrzucenie spadku
+##### Rozdział 2 Przyjęcie lub odrzucenie spadku
 
 **Art. 640.**
 
@@ -6779,7 +6782,7 @@ source: pdf
 
 **Art. 645.** (uchylony)
 
-#### Rozdział 3 Ogłoszenie testamentu
+##### Rozdział 3 Ogłoszenie testamentu
 
 **Art. 646.**
 
@@ -6811,7 +6814,7 @@ source: pdf
 
 **Art. 654.** Przepisy niniejszego rozdziału stosuje się odpowiednio do pisma stwierdzającego treść testamentu ustnego.
 
-#### Rozdział 4 Wyjawienie przedmiotów spadkowych
+##### Rozdział 4 Wyjawienie przedmiotów spadkowych
 
 **Art. 655.**
 
@@ -6837,7 +6840,7 @@ source: pdf
 
 § 2. O skutkach tych należy spadkobiercę uprzedzić w wezwaniu do spełnienia obowiązków objętych postanowieniem o wyjawieniu przedmiotów spadkowych.
 
-#### Rozdział 5 Przesłuchanie świadków testamentu ustnego
+##### Rozdział 5 Przesłuchanie świadków testamentu ustnego
 
 **Art. 661.**
 
@@ -6849,7 +6852,7 @@ source: pdf
 
 **Art. 663.** (uchylony)
 
-#### Rozdział 6 Sprawy dotyczące wykonawcy testamentu
+##### Rozdział 6 Sprawy dotyczące wykonawcy testamentu
 
 **Art. 664.** Osoba powołana na wykonawcę testamentu, która odmawia przyjęcia tego obowiązku, oświadcza o tym w sądzie spadku ustnie do protokołu albo na piśmie z podpisem urzędowo poświadczonym albo przed notariuszem. Pełnomocnictwa do złożenia takiego oświadczenia udziela się na piśmie z podpisem urzędowo poświadczonym.
 
@@ -6859,7 +6862,7 @@ source: pdf
 
 § 2. Notariusz niezwłocznie zawiadamia sąd spadku o wydanym zaświadczeniu, przesyłając jego odpis.
 
-#### Rozdział 6a Sprawy dotyczące zarządu sukcesyjnego
+##### Rozdział 6a Sprawy dotyczące zarządu sukcesyjnego
 
 **Art. 665¹.** W sprawach dotyczących zarządu sukcesyjnego właściwy jest sąd spadku, z wyjątkiem art. 665 .
 
@@ -6879,7 +6882,7 @@ source: pdf
 
 § 2. W sprawach, o których mowa w § 1, przepisy art. 568, art. 569, art. 570, art. 570 § 1–2, art. 572–577, art. 578 § 1, art. 578 , art. 579 oraz art. 582 stosuje się odpowiednio.
 
-#### Rozdział 7 Zarząd spadku nieobjętego
+##### Rozdział 7 Zarząd spadku nieobjętego
 
 **Art. 666.**
 
@@ -6899,7 +6902,7 @@ source: pdf
 
 **Art. 668¹.** Sąd spadku, na wniosek banku w rozumieniu ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym, może upoważnić kuratora spadku do przeniesienia na bank własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2 tej ustawy, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, i rozliczenia odwróconego kredytu hipotecznego. Wniosek może być złożony przez bank niewcześniej niż po upływie roku od daty śmierci kredytobiorcy. W sprawach wynikających z rozliczenia odwróconego kredytu hipotecznego kurator spadku może pozywać lub być pozywany.
 
-#### Rozdział 8 Stwierdzenie nabycia spadku i przedmiotu zapisu windykacyjnego
+##### Rozdział 8 Stwierdzenie nabycia spadku i przedmiotu zapisu windykacyjnego
 
 **Art. 669.** Sąd spadku wydaje postanowienie o stwierdzeniu nabycia spadku po przeprowadzeniu rozprawy, na którą wzywa wnioskodawcę oraz osoby mogące wchodzić w rachubę jako spadkobiercy testamentowi i jako spadkobiercy ustawowi zgodnie z kolejnością dziedziczenia. Spośród spadkobierców ustawowych wzywa się małżonka, zstępnych, osoby pozostające w stosunku przysposobienia, rodziców i rodzeństwo. Pozostałych spadkobierców ustawowych wzywa się, jeżeli są sądowi znani.
 
@@ -6981,7 +6984,7 @@ source: pdf
 
 **Art. 679².** Sąd niezwłocznie zawiadamia Krajową Radę Notarialną o wydaniu prawomocnego postanowienia uchylającego zarejestrowany akt poświadczenia dziedziczenia. Do zawiadomienia dołącza się odpis postanowienia.
 
-#### Rozdział 9 Dział spadku
+##### Rozdział 9 Dział spadku
 
 **Art. 680.**
 
@@ -7007,7 +7010,7 @@ source: pdf
 
 **Art. 689.** Jeżeli cały majątek spadkowy lub poszczególne rzeczy wchodzące w jego skład stanowią współwłasność z innego tytułu niż dziedziczenie, dział spadku i zniesienie współwłasności mogą być połączone w jednym postępowaniu.
 
-#### Rozdział 10 Inne sprawy spadkowe
+##### Rozdział 10 Inne sprawy spadkowe
 
 **Art. 690.**
 
@@ -7021,7 +7024,7 @@ source: pdf
 
 § 2. Wykonawca testamentu zwolniony z obowiązków powinien zwrócić zaświadczenie o swych uprawnieniach.
 
-### DZIAŁ IVa Sprawy z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego
+#### DZIAŁ IVa Sprawy z zakresu przepisów o przedsiębiorstwach państwowych i o samorządzie załogi przedsiębiorstwa państwowego
 
 **Art. 691¹.**
 
@@ -7055,7 +7058,7 @@ source: pdf
 
 **Art. 691⁹.** Przepisów niniejszego działu nie stosuje się w sprawach o odszkodowanie.
 
-### DZIAŁ IVB Sprawy z zakresu prawa pracy
+#### DZIAŁ IVB Sprawy z zakresu prawa pracy
 
 **Art. 691¹⁰.**
 
@@ -7073,9 +7076,9 @@ source: pdf
 
 **Art. 691¹¹.** Przepis art. 691 stosuje się odpowiednio do żądania sprostowania świadectwa pracy.
 
-### DZIAŁ V Sprawy depozytowe
+#### DZIAŁ V Sprawy depozytowe
 
-#### Rozdział 1 Złożenie przedmiotu świadczenia do depozytu sądowego
+##### Rozdział 1 Złożenie przedmiotu świadczenia do depozytu sądowego
 
 **Art. 692.** W sprawach o złożenie przedmiotu świadczenia do depozytu sądowego właściwy jest sąd miejsca wykonania zobowiązania. Jeżeli miejsca tego nie da się ustalić, właściwy jest sąd miejsca zamieszkania wierzyciela, a gdy wierzyciel jest nieznany lub gdy nie jest znane miejsce jego zamieszkania – sąd miejsca zamieszkania dłużnika. Jeżeli zobowiązanie jest zabezpieczone wpisem w księdze wieczystej, właściwy jest sąd miejsca położenia nieruchomości.
 
@@ -7142,7 +7145,7 @@ source: pdf
 
 **Art. 693¹⁰.** Po przyjęciu depozytu sąd wyda dłużnikowi pokwitowanie.
 
-#### Rozdział 2 Zwrot depozytu sądowego składającemu i wydanie depozytu sądowego uprawnionemu
+##### Rozdział 2 Zwrot depozytu sądowego składającemu i wydanie depozytu sądowego uprawnionemu
 
 **Art. 693¹¹.**
 
@@ -7162,7 +7165,7 @@ source: pdf
 
 **Art. 693¹⁷.** Jeżeli złożenie do depozytu sądowego nastąpiło na żądanie właściwego organu, depozyt wydaje się osobie uprawnionej dopiero po wykazaniu przez nią, że warunki, pod którymi wydanie depozytu mogło nastąpić, zostały spełnione.
 
-#### Rozdział 3 Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
+##### Rozdział 3 Postępowanie w sprawach o stwierdzenie likwidacji niepodjętego depozytu
 
 **Art. 693¹⁸.**
 
@@ -7186,7 +7189,7 @@ source: pdf
 
 **Art. 693²².** Do wykonania orzeczenia o stwierdzeniu likwidacji niepodjętego depozytu jest obowiązany naczelnik właściwego urzędu skarbowego w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.
 
-### DZIAŁ VI Postępowanie rejestrowe
+#### DZIAŁ VI Postępowanie rejestrowe
 
 **Art. 694¹.**
 
@@ -7281,9 +7284,9 @@ source: pdf
 
 § 3. (uchylony)
 
-# KSIĘGA TRZECIA (zawierająca art. 695–715 – uchylona)
+## KSIĘGA TRZECIA (zawierająca art. 695–715 – uchylona)
 
-# KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT
+## KSIĘGA CZWARTA POSTĘPOWANIE W RAZIE ZAGINIĘCIA LUB ZNISZCZENIA AKT
 
 **Art. 716.** Odtworzeniu ulegają akta zaginione lub zniszczone w całości lub części. W sprawie prawomocnie zakończonej odtworzeniu podlega orzeczenie kończące postępowanie w sprawie oraz ta część akt, która jest niezbędna do ustalenia jego treści i do wznowienia postępowania.
 
@@ -7337,9 +7340,9 @@ source: pdf
 
 **Art. 729.** Bieg przedawnienia przerwany przez pierwotne wszczęcie sprawy rozpoczyna się na nowo od daty uprawomocnienia się postanowienia stwierdzającego niemożliwość odtworzenia akt lub odmawiającego podjęcia dalszego postępowania.
 
-## CZĘŚĆ DRUGA POSTĘPOWANIE ZABEZPIECZAJĄCE (oznaczenie
+# CZĘŚĆ DRUGA POSTĘPOWANIE ZABEZPIECZAJĄCE (oznaczenie
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
 **Art. 730.**
 
@@ -7482,7 +7485,7 @@ source: pdf
 
 § 3. Jeżeli w terminie miesiąca od rozpoczęcia biegu terminu, o którym mowa w § 1 lub 1 , obowiązany nie wytoczył powództwa, sąd zwraca uprawnionemu, na jego wniosek, kaucję złożoną na zabezpieczenie roszczenia.
 
-## TYTUŁ II Zabezpieczenie roszczeń pieniężnych
+### TYTUŁ II Zabezpieczenie roszczeń pieniężnych
 
 **Art. 747.** Zabezpieczenie roszczeń pieniężnych następuje przez:
 
@@ -7617,7 +7620,7 @@ source: pdf
 
 § 3. Na wniosek obowiązanego sąd wydaje postanowienie stwierdzające upadek zabezpieczenia w całości albo w części.
 
-## TYTUŁ III Inne wypadki zabezpieczenia
+### TYTUŁ III Inne wypadki zabezpieczenia
 
 **Art. 755.**
 
@@ -7715,11 +7718,11 @@ source: pdf
 
 **Art. 757.** Jeżeli przepis szczególny nie stanowi inaczej albo sąd inaczej nie postanowi, zabezpieczenie udzielone według przepisów niniejszego tytułu upada po upływie dwóch miesięcy od uprawomocnienia się orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu, albo od uprawomocnienia się postanowienia o odrzuceniu apelacji lub innego środka zaskarżenia wniesionego przez obowiązanego od orzeczenia uwzględniającego roszczenie, które podlegało zabezpieczeniu. Na wniosek obowiązanego sąd wydaje postanowienie stwierdzające upadek zabezpieczenia w całości albo w części.
 
-## CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE
+# CZĘŚĆ TRZECIA POSTĘPOWANIE EGZEKUCYJNE
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
-### DZIAŁ I Organy egzekucyjne, ich właściwość i postępowanie w ogólności
+#### DZIAŁ I Organy egzekucyjne, ich właściwość i postępowanie w ogólności
 
 **Art. 758.** Sprawy egzekucyjne należą do właściwości sądów rejonowych i działających przy tych sądach komorników.
 
@@ -8039,7 +8042,7 @@ source: pdf
 
 **Art. 775¹.** Komornik, który przyjął wniosek o wszczęcie egzekucji, do prowadzenia której nie jest właściwy według przepisów niniejszego kodeksu, nie może odmówić przyjęcia innych wniosków o wszczęcie egzekucji przeciwko temu samemu dłużnikowi, jeżeli następni wierzyciele wnoszą o przeprowadzenie egzekucji według tych samych sposobów co wcześniejsi wierzyciele.
 
-### DZIAŁ II Tytuły egzekucyjne i klauzula wykonalności
+#### DZIAŁ II Tytuły egzekucyjne i klauzula wykonalności
 
 **Art. 776.** Podstawą egzekucji jest tytuł wykonawczy. Tytułem wykonawczym jest tytuł egzekucyjny zaopatrzony w klauzulę wykonalności, chyba że ustawa stanowi inaczej.
 
@@ -8227,7 +8230,7 @@ source: pdf
 
 § 3. Przepisy § 2 i 2 stosuje się odpowiednio do skargi na postanowienie referendarza sądowego.
 
-### DZIAŁ IIa Zaświadczenie europejskiego tytułu egzekucyjnego
+#### DZIAŁ IIa Zaświadczenie europejskiego tytułu egzekucyjnego
 
 **Art. 795¹.**
 
@@ -8263,7 +8266,7 @@ source: pdf
 
 § 2. Na postanowienie w przedmiocie wydania zaświadczenia, o którym mowa w § 1, przysługuje zażalenie.
 
-### DZIAŁ IIb Stwierdzenie wykonalności europejskiego nakazu zapłaty
+#### DZIAŁ IIb Stwierdzenie wykonalności europejskiego nakazu zapłaty
 
 **Art. 795⁶.**
 
@@ -8273,7 +8276,7 @@ source: pdf
 
 **Art. 795⁷.** Na postanowienie w przedmiocie stwierdzenia wykonalności przysługuje zażalenie.
 
-### DZIAŁ IIc Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
+#### DZIAŁ IIc Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
 
 **Art. 795⁸.**
 
@@ -8283,7 +8286,7 @@ source: pdf
 
 **Art. 795⁹.** Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.
 
-### DZIAŁ IId Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
+#### DZIAŁ IId Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
 
 **Art. 795¹⁰.**
 
@@ -8297,7 +8300,7 @@ source: pdf
 
 **Art. 795¹¹.** Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.
 
-### DZIAŁ IIDA Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej
+#### DZIAŁ IIDA Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej
 
 **Art. 795¹¹a.**
 
@@ -8315,7 +8318,7 @@ source: pdf
 
 **Art. 795¹¹c.** Postanowienia, o których mowa w art. 795 i art. 795 , sąd wydaje na posiedzeniu niejawnym.
 
-### DZIAŁ IIe Wyciągi z orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach alimentacyjnych
+#### DZIAŁ IIe Wyciągi z orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach alimentacyjnych
 
 **Art. 795¹².**
 
@@ -8329,7 +8332,7 @@ source: pdf
 
 **Art. 795¹³.** Na postanowienie o odmowie wydania wyciągu wnioskodawcy przysługuje zażalenie. Odpisu zażalenia nie doręcza się przeciwnikowi.
 
-### DZIAŁ IIf Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
+#### DZIAŁ IIf Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
 
 **Art. 795¹⁴.** Jeżeli orzeczenie obejmujące środek ochrony wchodzący w zakres zastosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 606/2013 z dnia 12 czerwca 2013 r. w sprawie wzajemnego uznawania środków ochrony w sprawach cywilnych (Dz. Urz. UE L 181 z 29.06.2013, str. 4), zwanego dalej „rozporządzeniem nr 606/2013”, spełnia warunki określone w tym rozporządzeniu, sąd, który wydał to orzeczenie, wydaje na wniosek osoby objętej ochroną określone w rozporządzeniu zaświadczenie na potrzeby uznania lub wykonania tego orzeczenia w innym państwie członkowskim Unii Europejskiej.
 
@@ -8353,7 +8356,7 @@ source: pdf
 
 § 2. Na postanowienie w przedmiocie wydania zaświadczenia, o którym mowa w § 1, przysługuje zażalenie.
 
-### DZIAŁ III Wszczęcie egzekucji i dalsze czynności egzekucyjne
+#### DZIAŁ III Wszczęcie egzekucji i dalsze czynności egzekucyjne
 
 **Art. 796.**
 
@@ -8598,7 +8601,7 @@ source: pdf
 
 **Art. 817.** W sprawach o naruszenie posiadania ukończona egzekucja może być podjęta na nowo na podstawie tego samego tytułu wykonawczego, jeżeli dłużnik ponownie dokonał zmiany sprzecznej z treścią tego tytułu, a żądanie w tym przedmiocie zostanie zgłoszone przed upływem sześciu miesięcy od ukończenia egzekucji.
 
-### DZIAŁ IV Zawieszenie i umorzenie postępowania
+#### DZIAŁ IV Zawieszenie i umorzenie postępowania
 
 **Art. 818.**
 
@@ -8707,7 +8710,7 @@ source: pdf
 
 **Art. 828.** Na postanowienie sądu co do zawieszenia lub umorzenia postępowania przysługuje zażalenie.
 
-### DZIAŁ V Ograniczenia egzekucji
+#### DZIAŁ V Ograniczenia egzekucji
 
 **Art. 829.** Nie podlegają egzekucji:
 
@@ -8842,7 +8845,7 @@ source: pdf
 
 § 2. Na postanowienie sądu przysługuje zażalenie.
 
-### DZIAŁ VI Powództwa przeciwegzekucyjne
+#### DZIAŁ VI Powództwa przeciwegzekucyjne
 
 **Art. 840.**
 
@@ -8884,11 +8887,11 @@ source: pdf
 
 § 4. (uchylony)
 
-## TYTUŁ II Egzekucja świadczeń pieniężnych
+### TYTUŁ II Egzekucja świadczeń pieniężnych
 
-### DZIAŁ I Egzekucja z ruchomości
+#### DZIAŁ I Egzekucja z ruchomości
 
-#### Rozdział 1 Zajęcie
+##### Rozdział 1 Zajęcie
 
 **Art. 844.**
 
@@ -9006,7 +9009,7 @@ source: pdf
 
 **Art. 863.** Minister Sprawiedliwości może, w drodze rozporządzenia, zarządzić utrzymywanie osobnych pomieszczeń do przechowywania i dozorowania zajętych ruchomości, mając na względzie sprawne prowadzenie egzekucji oraz właściwe zabezpieczenie zajętych ruchomości.
 
-#### Rozdział 2 Sprzedaż
+##### Rozdział 2 Sprzedaż
 
 **Art. 864.**
 
@@ -9141,7 +9144,7 @@ source: pdf
 
 **Art. 879.** Kto nabywa rzecz na podstawie przepisów niniejszego rozdziału, staje się jej właścicielem bez żadnych obciążeń i powinien ją natychmiast odebrać. Nabywcy nie przysługują roszczenia z tytułu rękojmi za wady rzeczy; przeciwko nabywcy nie można podnosić zarzutów co do ważności nabycia.
 
-#### Rozdział 3 Sprzedaż w drodze licytacji elektronicznej
+##### Rozdział 3 Sprzedaż w drodze licytacji elektronicznej
 
 **Art. 879¹.** Do sprzedaży w drodze licytacji elektronicznej stosuje się przepisy rozdziału 2 z odrębnościami wynikającymi z niniejszego rozdziału.
 
@@ -9213,7 +9216,7 @@ source: pdf
 
 **Art. 879¹¹.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przeprowadzenia licytacji elektronicznej oraz sposób wykorzystania systemu teleinformatycznego obsługującego licytację elektroniczną do czynności, o których mowa w art. 879 , mając na względzie zapewnienie ochrony praw osób uczestniczących w licytacji, sprawność postępowania, skuteczność egzekucji, zapewnienie bezpieczeństwa posługiwania się dokumentami w postaci elektronicznej oraz dostępność systemu teleinformatycznego.
 
-### DZIAŁ II Egzekucja z wynagrodzenia za pracę
+#### DZIAŁ II Egzekucja z wynagrodzenia za pracę
 
 **Art. 880.** Egzekucja z wynagrodzenia za pracę należy do komornika przy sądzie rejonowym ogólnej właściwości dłużnika.
 
@@ -9290,7 +9293,7 @@ source: pdf
 
 § 3. Dłużnik obowiązany jest pod rygorem odpowiedzialności za szkodę udzielić wierzycielowi wszystkich wyjaśnień potrzebnych do dochodzenia praw przeciwko dłużnikowi zajętej wierzytelności.
 
-### DZIAŁ III Egzekucja z rachunków bankowych
+#### DZIAŁ III Egzekucja z rachunków bankowych
 
 **Art. 889.**
 
@@ -9398,7 +9401,7 @@ source: pdf
 
 **Art. 894.** (uchylony)
 
-### DZIAŁ IV Egzekucja z innych wierzytelności
+#### DZIAŁ IV Egzekucja z innych wierzytelności
 
 **Art. 895.**
 
@@ -9523,7 +9526,7 @@ source: pdf
 
 § 4. Nie jest dopuszczalne zajęcie sumy uzyskanej w toku egzekucji z nieruchomości albo egzekucji, do której przepisy o egzekucji z nieruchomości stosuje się odpowiednio. Przepis powyższy nie stoi na przeszkodzie zajęciu wierzytelności dłużnika o zwrot kwoty, która może mu przypadać zgodnie z planem podziału sumy uzyskanej z egzekucji.
 
-### DZIAŁ IVa Egzekucja z innych praw majątkowych
+#### DZIAŁ IVa Egzekucja z innych praw majątkowych
 
 **Art. 909.** Przepisy o egzekucji z wierzytelności stosuje się odpowiednio do egzekucji z innych praw majątkowych, jeżeli przepisy poniższe nie stanowią inaczej.
 
@@ -9638,7 +9641,7 @@ source: pdf
 
 § 2. O zajęciu prawa, z mocy którego dłużnik może żądać działu, komornik zawiadomi wskazane przez wierzyciela osoby, przeciwko którym dłużnikowi przysługuje prawo żądania działu.
 
-### DZIAŁ V Wyjawienie majątku
+#### DZIAŁ V Wyjawienie majątku
 
 **Art. 913.**
 
@@ -9703,9 +9706,9 @@ source: pdf
 
 **Art. 920².** (uchylony)
 
-### DZIAŁ VI Egzekucja z nieruchomości
+#### DZIAŁ VI Egzekucja z nieruchomości
 
-#### Rozdział 1 Przepisy wstępne
+##### Rozdział 1 Przepisy wstępne
 
 **Art. 921.**
 
@@ -9717,7 +9720,7 @@ source: pdf
 
 **Art. 922.** Uczestnikami postępowania oprócz wierzyciela i dłużnika są również osoby, którym przysługują prawa rzeczowe ograniczone lub roszczenia albo prawa osobiste zabezpieczone na nieruchomości, a gdy przedmiotem egzekucji jest użytkowanie wieczyste, także organ, który zawarł umowę o użytkowanie wieczyste.
 
-#### Rozdział 2 Zajęcie
+##### Rozdział 2 Zajęcie
 
 **Art. 923.** Wskutek wniosku wierzyciela o wszczęcie egzekucji z nieruchomości wymienionej we wniosku komornik wzywa dłużnika, aby zapłacił dług w ciągu dwóch tygodni pod rygorem przystąpienia do opisu i oszacowania.
 
@@ -9841,7 +9844,7 @@ source: pdf
 
 **Art. 941.** Nadwyżkę dochodów pozostałą po zaspokojeniu należności, o których mowa w art. 940 § 2, za czas do dnia przejścia własności nieruchomości na nabywcę, komornik składa na rachunek depozytowy Ministra Finansów. Nadwyżka ta wchodzi w skład sumy uzyskanej w egzekucji. Jeżeli egzekucja ulega umorzeniu, nadwyżkę tę otrzymuje dłużnik, z uwzględnieniem art. 985 § 1 .
 
-#### Rozdział 3 Opis i oszacowanie
+##### Rozdział 3 Opis i oszacowanie
 
 **Art. 942.** Po upływie terminu określonego w wezwaniu dłużnika do zapłaty długu komornik na wniosek wierzyciela dokonuje opisu i oszacowania zajętej nieruchomości.
 
@@ -9917,7 +9920,7 @@ source: pdf
 
 **Art. 951.** Jeżeli w stanie nieruchomości pomiędzy sporządzeniem opisu i oszacowania a terminem licytacyjnym zajdą istotne zmiany, na wniosek wierzyciela lub dłużnika może nastąpić dodatkowy opis i oszacowanie.
 
-#### Rozdział 4 Obwieszczenie o licytacji
+##### Rozdział 4 Obwieszczenie o licytacji
 
 **Art. 952.**
 
@@ -9984,7 +9987,7 @@ source: pdf
 
 **Art. 961.** (uchylony)
 
-#### Rozdział 5 Warunki licytacyjne
+##### Rozdział 5 Warunki licytacyjne
 
 **Art. 962.**
 
@@ -10024,7 +10027,7 @@ source: pdf
 
 **Art. 971.** Nabywca nie może żądać unieważnienia nabycia ani zmniejszenia ceny z powodu wad nieruchomości lub przedmiotów razem z nią nabytych.
 
-#### Rozdział 6 Licytacja
+##### Rozdział 6 Licytacja
 
 **Art. 972.**
 
@@ -10100,7 +10103,7 @@ source: pdf
 
 **Art. 986.** Skargę na czynności komornika w toku licytacji aż do zamknięcia przetargu zgłasza się ustnie sędziemu albo referendarzowi sądowemu nadzorującemu licytację, który natychmiast ją rozstrzyga.
 
-#### Rozdział 6a Sprzedaż nieruchomości w drodze licytacji elektronicznej
+##### Rozdział 6a Sprzedaż nieruchomości w drodze licytacji elektronicznej
 
 **Art. 986¹.**
 
@@ -10185,7 +10188,7 @@ source: pdf
 
 **Art. 986¹¹.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przeprowadzenia sprzedaży nieruchomości w drodze licytacji elektronicznej oraz sposób uwierzytelniania użytkowników systemu teleinformatycznego obsługującego licytację elektroniczną, mając na względzie zapewnienie ochrony praw osób uczestniczących w licytacji, sprawność postępowania, skuteczność egzekucji, bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej oraz dostępność systemu teleinformatycznego.
 
-#### Rozdział 7 Przybicie
+##### Rozdział 7 Przybicie
 
 **Art. 987.** Po zamknięciu przetargu sąd w osobie sędziego albo referendarz sądowy, pod którego nadzorem odbywa się licytacja, wydaje na posiedzeniu jawnym postanowienie co do przybicia na rzecz licytanta, który zaofiarował najwyższą cenę, po wysłuchaniu tak jego, jak i obecnych uczestników.
 
@@ -10223,7 +10226,7 @@ source: pdf
 
 **Art. 997.** Na postanowienie sądu co do przybicia przysługuje zażalenie. Podstawą zażalenia nie mogą być takie uchybienia przepisów postępowania, które nie naruszają praw skarżącego.
 
-#### Rozdział 8 Przysądzenie własności
+##### Rozdział 8 Przysądzenie własności
 
 **Art. 998.**
 
@@ -10264,7 +10267,7 @@ source: pdf
 
 § 2. Na podstawie samego postanowienia o przysądzeniu własności wykreśla się wszystkie hipoteki obciążające nieruchomość, jeżeli w postanowieniu stwierdzono złożenie całej ceny nabycia na rachunek depozytowy Ministra Finansów.
 
-#### Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego
+##### Rozdział 9 Egzekucja z ułamkowej części nieruchomości oraz użytkowania wieczystego
 
 **Art. 1004.** Do egzekucji z ułamkowej części nieruchomości, jak również do egzekucji z użytkowania wieczystego, stosuje się odpowiednio przepisy o egzekucji z nieruchomości z zachowaniem przepisów poniższych.
 
@@ -10293,7 +10296,7 @@ source: pdf
 
 **Art. 1013.** Postanowienie o przysądzeniu własności ułamkowej części nieruchomości nie narusza obciążających ją hipotek wpisanych przed powstaniem współwłasności.
 
-### DZIAŁ VIa Uproszczona egzekucja z nieruchomości
+#### DZIAŁ VIa Uproszczona egzekucja z nieruchomości
 
 **Art. 1013¹.**
 
@@ -10339,7 +10342,7 @@ source: pdf
 
 § 2. Po zapłaceniu przez nabywcę sumy sąd niezwłocznie wydaje postanowienie o przysądzeniu własności. Po uprawomocnieniu się tego postanowienia komornik sporządza plan podziału sumy uzyskanej z egzekucji.
 
-### DZIAŁ VII Egzekucja ze statków morskich
+#### DZIAŁ VII Egzekucja ze statków morskich
 
 **Art. 1014.** Do egzekucji ze statków morskich wpisanych do rejestru okrętowego stosuje się odpowiednio przepisy o egzekucji z nieruchomości ze zmianami wskazanymi w artykułach poniższych.
 
@@ -10377,9 +10380,9 @@ source: pdf
 
 **Art. 1022⁴.** Opisu i oszacowania zajętego statku zagranicznego komornik bez wniosku wierzyciela dokonuje niezwłocznie po upływie terminu wyznaczonego dłużnikowi do zapłaty długu.
 
-### DZIAŁ VIII Podział sumy uzyskanej z egzekucji
+#### DZIAŁ VIII Podział sumy uzyskanej z egzekucji
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 1023.**
 
@@ -10475,7 +10478,7 @@ source: pdf
 
 § 3. Po zaspokojeniu wszystkich wierzycieli część zdeponowanej sumy nieobjętej uzupełniającym planem podziału zwraca się dłużnikowi.
 
-#### Rozdział 2 Podział sumy uzyskanej przez egzekucję z wynagrodzenia za pracę
+##### Rozdział 2 Podział sumy uzyskanej przez egzekucję z wynagrodzenia za pracę
 
 **Art. 1029.**
 
@@ -10497,7 +10500,7 @@ source: pdf
 
 § 2. Jeżeli w ciągu miesiąca po uprawomocnieniu się planu podziału wierzyciel niemający tytułu wykonawczego nie przedstawi dowodu wytoczenia powództwa o zasądzenie mu roszczenia, traci prawo do sumy pozostającej w depozycie.
 
-#### Rozdział 3 Podział sumy uzyskanej przez egzekucję z ruchomości, wierzytelności i innych praw majątkowych
+##### Rozdział 3 Podział sumy uzyskanej przez egzekucję z ruchomości, wierzytelności i innych praw majątkowych
 
 **Art. 1033.**
 
@@ -10507,7 +10510,7 @@ source: pdf
 
 **Art. 1034.** Przepisy art. 1030 i art. 1032 stosuje się także w postępowaniu unormowanym w rozdziale niniejszym. W podziale sumy uzyskanej z egzekucji umieszcza się także wierzytelności zabezpieczone zastawem rejestrowym, jeżeli zastawnikowi przysługuje prawo zaspokojenia się z przedmiotu egzekucji oraz jeżeli prawa swe udowodnił dokumentem urzędowym najpóźniej w dniu złożenia na rachunek depozytowy Ministra Finansów sumy ulegającej podziałowi.
 
-#### Rozdział 4 Podział sumy uzyskanej przez egzekucję z nieruchomości
+##### Rozdział 4 Podział sumy uzyskanej przez egzekucję z nieruchomości
 
 **Art. 1035.** Niezwłocznie po uprawomocnieniu się postanowienia o przysądzeniu własności oraz postanowienia w przedmiocie kosztów komornik sporządza plan podziału.
 
@@ -10548,9 +10551,9 @@ source: pdf
 
 **Art. 1040¹.** Plan podziału wykonuje komornik.
 
-## TYTUŁ III Przepisy szczególne o egzekucji
+### TYTUŁ III Przepisy szczególne o egzekucji
 
-### DZIAŁ I Egzekucja świadczeń niepieniężnych
+#### DZIAŁ I Egzekucja świadczeń niepieniężnych
 
 **Art. 1041.**
 
@@ -10702,9 +10705,9 @@ source: pdf
 
 **Art. 1059.** Z ważnej przyczyny sąd może zwolnić dłużnika z aresztu na czas niedłuższy niż tydzień.
 
-### DZIAŁ II Przepisy szczególne o egzekucji z udziałem Skarbu Państwa oraz przedsiębiorców
+#### DZIAŁ II Przepisy szczególne o egzekucji z udziałem Skarbu Państwa oraz przedsiębiorców
 
-#### Rozdział 1 Przepisy ogólne
+##### Rozdział 1 Przepisy ogólne
 
 **Art. 1060.**
 
@@ -10730,7 +10733,7 @@ source: pdf
 
 **Art. 1064.** Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia egzekucji grzywien i kar pieniężnych orzeczonych w postępowaniu cywilnym, a także kosztów sądowych w sprawach cywilnych, przysługujących Skarbowi Państwa, mając na uwadze sprawność i skuteczność postępowania egzekucyjnego.
 
-#### Rozdział 2 Egzekucja przez zarząd przymusowy
+##### Rozdział 2 Egzekucja przez zarząd przymusowy
 
 **Art. 1064¹.**
 
@@ -10804,7 +10807,7 @@ source: pdf
 
 § 3. Przepisy ogólne o podziale sumy uzyskanej z egzekucji oraz przepisy o podziale sumy uzyskanej z egzekucji z nieruchomości stosuje się odpowiednio.
 
-#### Rozdział 3 Egzekucja przez sprzedaż przedsiębiorstwa lub gospodarstwa rolnego
+##### Rozdział 3 Egzekucja przez sprzedaż przedsiębiorstwa lub gospodarstwa rolnego
 
 **Art. 1064¹⁴.**
 
@@ -10868,7 +10871,7 @@ source: pdf
 
 **Art. 1065.** (uchylony)
 
-### DZIAŁ III Egzekucja w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej
+#### DZIAŁ III Egzekucja w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej
 
 **Art. 1066.** W postępowaniu egzekucyjnym wszczętym na podstawie tytułu wykonawczego, a mającym na celu zniesienie współwłasności nieruchomości w drodze sprzedaży publicznej, stosuje się odpowiednio przepisy o egzekucji z nieruchomości ze zmianami wskazanymi w artykułach poniższych.
 
@@ -10890,9 +10893,9 @@ source: pdf
 
 **Art. 1071.** Przepisy niniejszego działu stosuje się odpowiednio do zarządzonej przez sąd w toku postępowania o dział spadku sprzedaży gospodarstwa rolnego albo wkładu gruntowego w rolniczej spółdzielni produkcyjnej wraz z działką przyzagrodową i siedliskową.
 
-### DZIAŁ IV (zawierający art. 1072–1080 – uchylony)
+#### DZIAŁ IV (zawierający art. 1072–1080 – uchylony)
 
-### DZIAŁ V Egzekucja świadczeń alimentacyjnych
+#### DZIAŁ V Egzekucja świadczeń alimentacyjnych
 
 **Art. 1081.**
 
@@ -10938,15 +10941,15 @@ source: pdf
 
 **Art. 1088.** Do egzekucji świadczeń alimentacyjnych stosuje się również przepisy tytułu drugiego.
 
-### DZIAŁ VI (zawierający art. 1089–1095 [1] – uchylony)
+#### DZIAŁ VI (zawierający art. 1089–1095 [1] – uchylony)
 
-## CZĘŚĆ CZWARTA PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA CYWILNEGO
+# CZĘŚĆ CZWARTA PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA CYWILNEGO
 
 **Art. 1096.** (uchylony)
 
-# KSIĘGA PIERWSZA JURYSDYKCJA KRAJOWA
+## KSIĘGA PIERWSZA JURYSDYKCJA KRAJOWA
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
 **Art. 1097.**
 
@@ -10984,7 +10987,7 @@ source: pdf
 
 **Art. 1102.** (uchylony)
 
-## TYTUŁ III Jurysdykcja krajowa w procesie
+### TYTUŁ III Jurysdykcja krajowa w procesie
 
 **Art. 1103.** Sprawy rozpoznawane w procesie należą do jurysdykcji krajowej, jeżeli pozwany ma miejsce zamieszkania lub miejsce zwykłego pobytu albo siedzibę w Rzeczypospolitej Polskiej.
 
@@ -11096,7 +11099,7 @@ source: pdf
 
 **Art. 1105¹.** Wymaganie zawarcia umowy na piśmie, przewidziane w art. 1104 § 1 i art. 1105 § 1, jest spełnione, jeżeli umowa jest zamieszczona w dokumencie podpisanym przez strony lub w wymienionych między nimi pismach lub oświadczeniach złożonych za pomocą środków porozumiewania się na odległość, które pozwalają utrwalić ich treść. Powołanie się w umowie podstawowej na dokument zawierający postanowienie odpowiadające umowie określonej w art. 1104 § 1 lub art. 1105 § 1 spełnia wymaganie dotyczące formy tej umowy, jeżeli umowa podstawowa jest sporządzona na piśmie, a to powołanie czyni umowę częścią umowy podstawowej.
 
-## TYTUŁ IV Jurysdykcja krajowa w postępowaniu nieprocesowym
+### TYTUŁ IV Jurysdykcja krajowa w postępowaniu nieprocesowym
 
 **Art. 1106.**
 
@@ -11193,7 +11196,7 @@ source: pdf
 
 **Art. 1110².** Jurysdykcja krajowa w sprawach rozpoznawanych w postępowaniu nieprocesowym jest wyłączna w zakresie, w którym rozstrzygnięcie dotyczy praw rzeczowych na nieruchomości lub posiadania nieruchomości położonej w Rzeczypospolitej Polskiej.
 
-## TYTUŁ IVa Jurysdykcja krajowa w postępowaniu zabezpieczającym i egzekucyjnym
+### TYTUŁ IVa Jurysdykcja krajowa w postępowaniu zabezpieczającym i egzekucyjnym
 
 **Art. 1110³.**
 
@@ -11209,7 +11212,7 @@ source: pdf
 
 § 3. Do wyłącznej jurysdykcji krajowej należą sprawy z powództw przeciwegzekucyjnych, jeżeli egzekucja ma być wszczęta lub jest prowadzona w Rzeczypospolitej Polskiej.
 
-# KSIĘGA PIERWSZA a IMMUNITET SĄDOWY I EGZEKUCYJNY
+## KSIĘGA PIERWSZA a IMMUNITET SĄDOWY I EGZEKUCYJNY
 
 **Art. 1111.**
 
@@ -11274,9 +11277,9 @@ source: pdf
 
 **Art. 1116.** (uchylony)
 
-# KSIĘGA DRUGA POSTĘPOWANIE
+## KSIĘGA DRUGA POSTĘPOWANIE
 
-## TYTUŁ I Zdolność sądowa i procesowa
+### TYTUŁ I Zdolność sądowa i procesowa
 
 **Art. 1117.**
 
@@ -11288,7 +11291,7 @@ source: pdf
 
 **Art. 1118.** (uchylony)
 
-## TYTUŁ II Zabezpieczenie kosztów procesu
+### TYTUŁ II Zabezpieczenie kosztów procesu
 
 **Art. 1119.** Powód, który nie ma miejsca zamieszkania lub zwykłego pobytu albo siedziby w Rzeczypospolitej Polskiej lub w innym państwie członkowskim Unii Europejskiej, jest obowiązany na żądanie pozwanego złożyć kaucję na zabezpieczenie kosztów procesu.
 
@@ -11341,11 +11344,11 @@ source: pdf
 
 **Art. 1128.** Przepisy tytułu niniejszego stosuje się odpowiednio w postępowaniu nieprocesowym.
 
-## TYTUŁ III Zwolnienie cudzoziemców od kosztów sądowych
+### TYTUŁ III Zwolnienie cudzoziemców od kosztów sądowych
 
 **Art. 1129.** Cudzoziemcy, zagraniczne osoby prawne i jednostki organizacyjne niebędące osobami prawnymi korzystają ze zwolnienia od kosztów sądowych na zasadach przewidzianych w przepisach odrębnych.
 
-## TYTUŁ IV Pomoc prawna
+### TYTUŁ IV Pomoc prawna
 
 **Art. 1130.**
 
@@ -11432,15 +11435,15 @@ source: pdf
 
 **Art. 1136.** (uchylony)
 
-## TYTUŁ V Zabezpieczenie dowodów
+### TYTUŁ V Zabezpieczenie dowodów
 
 **Art. 1137.** Sąd może zabezpieczyć dowód znajdujący się w Rzeczypospolitej Polskiej, jeżeli jest to potrzebne do dochodzenia roszczenia za granicą. Wniosek o zabezpieczenie dowodu składa się w sądzie rejonowym, w którego okręgu dowód ma być przeprowadzony. O terminie wyznaczonym do przeprowadzenia dowodu zawiadamia się wnioskodawcę, chyba że zachodzi wypadek niecierpiący zwłoki. Poza tym stosuje się odpowiednio art. 310 oraz art. 312–314.
 
-## TYTUŁ VI Zagraniczne dokumenty urzędowe
+### TYTUŁ VI Zagraniczne dokumenty urzędowe
 
 **Art. 1138.** Zagraniczne dokumenty urzędowe mają moc dowodową na równi z polskimi dokumentami urzędowymi. Dokument dotyczący przeniesienia własności nieruchomości położonej w Rzeczypospolitej Polskiej powinien być uwierzytelniony przez polskie przedstawicielstwo dyplomatyczne lub urząd konsularny. To samo dotyczy dokumentu, którego autentyczności strona zaprzeczyła.
 
-## TYTUŁ VII Czynności dotyczące spadku po cudzoziemcach
+### TYTUŁ VII Czynności dotyczące spadku po cudzoziemcach
 
 **Art. 1139.**
 
@@ -11470,7 +11473,7 @@ source: pdf
 
 § 2. Część ich sprzedaje się według przepisów o sprzedaży zabezpieczonych ruchomości, a z osiągniętej ceny zaspokaja się koszty pobytu w Polsce i pogrzebu spadkodawcy. Reszta ceny oraz rzeczy niesprzedanych będzie wydana właściwemu konsulowi.
 
-## TYTUŁ VIIA Europejskie poświadczenie spadkowe
+### TYTUŁ VIIA Europejskie poświadczenie spadkowe
 
 **Art. 1142¹.** W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do postępowań dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego, chyba że przepisy niniejszego tytułu stanowią inaczej.
 
@@ -11496,17 +11499,17 @@ source: pdf
 
 **Art. 1142⁷.** Postanowienie o wydaniu, sprostowaniu, zmianie lub uchyleniu europejskiego poświadczenia spadkowego albo o zawieszeniu jego skutków oraz postanowienie o zmianie albo uchyleniu tych postanowień sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie, do Rejestru Spadkowego.
 
-## TYTUŁ VIII Stwierdzenie obcego prawa i wzajemności
+### TYTUŁ VIII Stwierdzenie obcego prawa i wzajemności
 
 **Art. 1143.** (uchylony)
 
-## TYTUŁ IX Uzasadnienie prawomocnych orzeczeń i wydawanie zaświadczeń
+### TYTUŁ IX Uzasadnienie prawomocnych orzeczeń i wydawanie zaświadczeń
 
 **Art. 1144.** Jeżeli do uznania albo wykonania prawomocnego orzeczenia sądu polskiego za granicą konieczne jest przedstawienie orzeczenia wraz z uzasadnieniem, a orzeczenie nie zawiera uzasadnienia, sąd, który wydał orzeczenie, sporządzi uzasadnienie na wniosek strony, uczestnika postępowania lub osoby ubiegającej się o uznanie lub wykonanie orzeczenia.
 
 **Art. 1144¹.** Jeżeli przepisy prawa Unii Europejskiej lub wiążącej Rzeczpospolitą Polską umowy międzynarodowej przewidują wydanie zaświadczenia lub wyciągu na potrzeby uznania lub stwierdzenia wykonalności orzeczenia, ugody lub innego tytułu egzekucyjnego za granicą, zaświadczenie takie lub wyciąg taki wystawia, stosując formularz określony w tych przepisach, na wniosek zainteresowanego, przewodniczący w sądzie, który wydał orzeczenie albo zatwierdził ugodę lub przed którym ugoda została zawarta, a w przypadku innych tytułów egzekucyjnych – przewodniczący w sądzie rejonowym, w którego okręgu tytuł został sporządzony, chyba że przepis szczególny stanowi inaczej.
 
-## TYTUŁ X Wniosek o uchylenie wyroku wydanego w sprawie alimentacyjnej
+### TYTUŁ X Wniosek o uchylenie wyroku wydanego w sprawie alimentacyjnej
 
 **Art. 1144².**
 
@@ -11518,7 +11521,7 @@ source: pdf
 
 § 4. Na postanowienie sądu w przedmiocie uchylenia wyroku przysługuje zażalenie.
 
-## TYTUŁ XI Europejski nakaz zabezpieczenia na rachunku bankowym
+### TYTUŁ XI Europejski nakaz zabezpieczenia na rachunku bankowym
 
 **Art. 1144³.**
 
@@ -11566,9 +11569,9 @@ source: pdf
 
 **Art. 1144¹³.** W sprawach, o których mowa w art. 39 ust. 2 rozporządzenia nr 655/2014, przepisy art. 841 i art. 843 § 1 i 3 stosuje się odpowiednio.
 
-# KSIĘGA TRZECIA UZNANIE I STWIERDZENIE WYKONALNOŚCI
+## KSIĘGA TRZECIA UZNANIE I STWIERDZENIE WYKONALNOŚCI
 
-## TYTUŁ I Uznanie orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych
+### TYTUŁ I Uznanie orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych
 
 **Art. 1145.** Orzeczenia sądów państw obcych wydane w sprawach cywilnych podlegają uznaniu z mocy prawa, chyba że istnieją przeszkody określone w art. 1146.
 
@@ -11616,7 +11619,7 @@ source: pdf
 
 **Art. 1149¹.** Przepisy tytułu niniejszego stosuje się odpowiednio do rozstrzygnięć innych organów państw obcych wydanych w sprawach cywilnych.
 
-## TYTUŁ II Wykonalność orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych oraz ugód zawartych przed takimi sądami i organami lub przez nie zatwierdzonych
+### TYTUŁ II Wykonalność orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych oraz ugód zawartych przed takimi sądami i organami lub przez nie zatwierdzonych
 
 **Art. 1150.** Orzeczenia sądów państw obcych w sprawach cywilnych, nadające się do wykonania w drodze egzekucji, stają się tytułami wykonawczymi po stwierdzeniu ich wykonalności przez sąd polski. Stwierdzenie wykonalności następuje, jeżeli orzeczenie jest wykonalne w państwie, z którego pochodzi, oraz nie istnieją przeszkody określone w art. 1146 § 1 i 2.
 
@@ -11650,17 +11653,17 @@ source: pdf
 
 **Art. 1153.** (uchylony)
 
-## TYTUŁ III (zawierający
+### TYTUŁ III (zawierający
 
-## TYTUŁ IV (zawierający
+### TYTUŁ IV (zawierający
 
-## TYTUŁ V (zawierający
+### TYTUŁ V (zawierający
 
-## TYTUŁ VI (zawierający
+### TYTUŁ VI (zawierający
 
-# KSIĘGA CZWARTA UZNANIE I WYKONANIE NIEKTÓRYCH ORZECZEŃ SĄDÓW PAŃSTW CZŁONKOWSKICH UNII EUROPEJSKIEJ ORAZ POCHODZĄCYCH Z TYCH PAŃSTW UGÓD, DOKUMENTÓW URZĘDOWYCH I POROZUMIEŃ
+## KSIĘGA CZWARTA UZNANIE I WYKONANIE NIEKTÓRYCH ORZECZEŃ SĄDÓW PAŃSTW CZŁONKOWSKICH UNII EUROPEJSKIEJ ORAZ POCHODZĄCYCH Z TYCH PAŃSTW UGÓD, DOKUMENTÓW URZĘDOWYCH I POROZUMIEŃ
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
 **Art. 1153¹³.**
 
@@ -11684,7 +11687,7 @@ source: pdf
 
 **Art. 1153¹⁵b.** Orzeczenia wydane w państwach członkowskich Unii Europejskiej, a także dokumenty urzędowe i porozumienia pochodzące z tych państw, objęte zakresem zastosowania rozporządzenia nr 2019/1111, które podlegają wykonaniu w inny sposób niż w drodze egzekucji, stanowią podstawę wszczęcia postępowania wykonawczego.
 
-## TYTUŁ II Wykonanie
+### TYTUŁ II Wykonanie
 
 **Art. 1153¹⁶.**
 
@@ -11753,7 +11756,7 @@ source: pdf
 
 **Art. 1153²²b.** Czynności, o których mowa w art. 28, art. 52, art. 55 ust. 1 i art. 56 rozporządzenia nr 2019/1111, oraz czynności dotyczące zawieszenia postępowania w sprawie wykonania orzeczenia oraz odmowy wykonania orzeczenia na podstawie art. 57 tego rozporządzenia wykonuje sąd właściwy do wykonania orzeczenia.
 
-## TYTUŁ III Odmowa uznania lub wykonania
+### TYTUŁ III Odmowa uznania lub wykonania
 
 **Art. 1153²³.**
 
@@ -11776,9 +11779,9 @@ source: pdf
 - **1)** wniosku o odmowę uznania lub wykonania orzeczenia, dokumentu urzędowego i porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 na podstawie przesłanki lub podstawy, o których mowa w art. 38, art. 39, art. 41, art. 50 lub art. 68 tego rozporządzenia;
 - **2)** wniosku o stwierdzenie braku podstaw do odmowy uznania orzeczenia, dokumentu urzędowego i porozumienia objętych zakresem zastosowania rozporządzenia nr 2019/1111 na podstawie przesłanki lub podstawy, o których mowa w art. 38, art. 39, art. 41, art. 50 lub art. 68 tego rozporządzenia.
 
-## CZĘŚĆ PIĄTA SĄD POLUBOWNY (ARBITRAŻOWY)
+# CZĘŚĆ PIĄTA SĄD POLUBOWNY (ARBITRAŻOWY)
 
-## TYTUŁ I Przepisy ogólne
+### TYTUŁ I Przepisy ogólne
 
 **Art. 1154.** Przepisy części niniejszej stosuje się, jeżeli miejsce postępowania przed sądem polubownym znajduje się na terytorium Rzeczypospolitej Polskiej, a w wypadkach w części tej określonych – także wtedy, gdy miejsce postępowania przed sądem polubownym znajduje się poza granicami Rzeczypospolitej Polskiej lub nie jest oznaczone.
 
@@ -11819,7 +11822,7 @@ source: pdf
 
 § 4. Przepisów paragrafów poprzedzających nie stosuje się do doręczeń sądowych.
 
-## TYTUŁ II Zapis na sąd polubowny
+### TYTUŁ II Zapis na sąd polubowny
 
 **Art. 1161.**
 
@@ -11883,7 +11886,7 @@ source: pdf
 
 § 2. W braku odmiennej umowy stron, zapis na sąd polubowny traci moc, w przypadku gdy sąd polubowny wskazany w tym zapisie nie przyjął sprawy do rozpoznania lub gdy rozpoznanie sprawy w ramach tego sądu okazało się z innych przyczyn niemożliwe.
 
-## TYTUŁ III Skład sądu polubownego
+### TYTUŁ III Skład sądu polubownego
 
 **Art. 1169.**
 
@@ -11963,7 +11966,7 @@ source: pdf
 
 § 3. Na postanowienie sądu przysługuje zażalenie.
 
-## TYTUŁ IV Właściwość sądu polubownego
+### TYTUŁ IV Właściwość sądu polubownego
 
 **Art. 1180.**
 
@@ -11983,7 +11986,7 @@ source: pdf
 
 **Art. 1182.** Jeżeli zastosowanie zarządzonego przez sąd polubowny tymczasowego środka zabezpieczającego było oczywiście nieuzasadnione, strona, na rzecz której środek ten został zastosowany, odpowiada za wynikłą stąd szkodę. Roszczenie o naprawienie szkody może być dochodzone także w toczącym się postępowaniu przed sądem polubownym.
 
-## TYTUŁ V Postępowanie przed sądem polubownym
+### TYTUŁ V Postępowanie przed sądem polubownym
 
 **Art. 1183.** W postępowaniu przed sądem polubownym strony powinny być traktowane równoprawnie. Każda ze stron ma prawo do wysłuchania i przedstawienia swoich twierdzeń oraz dowodów na ich poparcie.
 
@@ -12048,7 +12051,7 @@ source: pdf
 
 **Art. 1193.** Jeżeli uchybiono przepisom niniejszej części, od których strony mogą odstąpić, albo uchybiono określonym przez strony zasadom postępowania przed sądem polubownym, strona, która o powyższym uchybieniu wiedziała, nie może podnieść zarzutu takiego uchybienia przed sądem polubownym ani też powołać się na takie uchybienie w skardze o uchylenie wyroku sądu polubownego, jeżeli nie podniosła zarzutu niezwłocznie lub w terminie określonym przez strony bądź przepisy niniejszej części.
 
-## TYTUŁ VI Wyrok sądu polubownego i zakończenie postępowania
+### TYTUŁ VI Wyrok sądu polubownego i zakończenie postępowania
 
 **Art. 1194.**
 
@@ -12118,7 +12121,7 @@ source: pdf
 
 § 3. W razie ponownego rozpoznania sprawy przez sąd polubowny sąd ten jest uprawniony do wglądu w złożone akta.
 
-## TYTUŁ VII Skarga o uchylenie wyroku sądu polubownego
+### TYTUŁ VII Skarga o uchylenie wyroku sądu polubownego
 
 **Art. 1205.**
 
@@ -12167,7 +12170,7 @@ source: pdf
 
 **Art. 1211.** Uchylenie wyroku sądu polubownego nie powoduje wygaśnięcia zapisu na sąd polubowny, chyba że strony postanowiły inaczej.
 
-## TYTUŁ VIII Uznanie i stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej
+### TYTUŁ VIII Uznanie i stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej
 
 **Art. 1212.**
 

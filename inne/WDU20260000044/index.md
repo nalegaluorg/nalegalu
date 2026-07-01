@@ -8,12 +8,10 @@ pos: 44
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
 
 | Pole | Wartość |
 |---|---|
@@ -31,7 +29,6 @@ source: "isap-pdf"
 o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U.
 poz. 1166) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. poz. 1166), które stanowią: „Art. 2. Do oświadczeń, o których mowa w art. 4 ust. 2 i art. 11 ust. 4 ustawy zmienianej w art. 1, złożonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
-Art. 21–24. (pominięte)
 
 **Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej
 
@@ -82,8 +79,8 @@ Art. 21–24. (pominięte)
 
 2. Osoba uprawniona, przed uzyskaniem nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, składa oświadczenie, że nie jest w stanie ponieść kosztów odpłatnej pomocy prawnej. Osoba korzystająca z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego w zakresie prowadzonej działalności gospodarczej dodatkowo składa oświadczenie o niezatrudnianiu innych osób w ciągu ostatniego roku. Oświadczenie składa się osobie udzielającej nieodpłatnej pomocy prawnej lub świadczącej nieodpłatne poradnictwo obywatelskie w formie:
 
-- **1)** pisemnej w przypadku korzystania z pomocy w punkcie albo
-- **2)** ustnej w przypadku korzystania z pomocy za pośrednictwem środków porozumiewania się na odległość.
+- **1)** pisemnej – w przypadku korzystania z pomocy w punkcie albo
+- **2)** ustnej – w przypadku korzystania z pomocy za pośrednictwem środków porozumiewania się na odległość.
 
 3. Oświadczenia, o których mowa w ust. 2, złożone w formie pisemnej przechowuje się w warunkach uniemożliwiających dostęp do nich osób trzecich. W przypadku złożenia oświadczeń, o których mowa w ust. 2, w formie ustnej informację o ich złożeniu przechowuje się w systemie teleinformatycznym.
 
@@ -110,13 +107,13 @@ Art. 21–24. (pominięte)
 - **1)** sąd lub inny organ wydały postanowienie o skierowaniu sprawy do mediacji lub postępowania mediacyjnego;
 - **2)** zachodzi uzasadnione podejrzenie, że w relacji stron występuje przemoc.
 
-3. W sprawach nieuregulowanych niniejszą ustawą do nieodpłatnej mediacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ) o mediacji.
+3. W sprawach nieuregulowanych niniejszą ustawą do nieodpłatnej mediacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ) o mediacji.
 
 4. Nieodpłatna mediacja może być prowadzona pomiędzy stronami dążącymi do polubownego rozwiązania sporu. Stroną inicjującą przeprowadzenie nieodpłatnej mediacji może być wyłącznie osoba uprawniona.
 
 5. Nieodpłatną mediację prowadzi mediator.
 
-6. Mediatorem może być osoba wpisana na listę stałych mediatorów prowadzoną przez prezesa sądu okręgowego, o której mowa w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ), lub wpisana na listę mediatorów prowadzoną przez organizację pozarządową w zakresie swoich zadań statutowych lub uczelnię, o której mowa w ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, o której informacje przekazano prezesowi sądu okręgowego.
+6. Mediatorem może być osoba wpisana na listę stałych mediatorów prowadzoną przez prezesa sądu okręgowego, o której mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ), lub wpisana na listę mediatorów prowadzoną przez organizację pozarządową w zakresie swoich zadań statutowych lub uczelnię, o której mowa w ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, o której informacje przekazano prezesowi sądu okręgowego.
 
 7. Nieodpłatnej mediacji, w zakresie, o którym mowa w ust. 1 pkt 4, nie może prowadzić osoba, która w sprawie którejkolwiek ze stron uprzednio świadczyła pomoc prawną lub poradnictwo obywatelskie, była świadkiem, wydawała opinię, sporządzała wywiad środowiskowy lub prowadziła terapię, a także osoba, co do której zachodzi okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co do jej bezstronności, z wyłączeniem udzielania pomocy, w zakresie, o którym mowa w ust. 1 pkt 1. W takim przypadku mediator odmawia przeprowadzenia nieodpłatnej mediacji, informując osobę uprawnioną o możliwości skorzystania z nieodpłatnej mediacji prowadzonej przez innego mediatora w tym samym punkcie lub innych punktach, w których udzielana jest nieodpłatna pomoc prawna lub świadczone nieodpłatne poradnictwo obywatelskie, zwanych dalej „punktami”.
 
@@ -276,7 +273,7 @@ Art. 21–24. (pominięte)
 
 1b. Jeżeli na powiat przypadają trzy punkty organizacji pozarządowej, powierza się prowadzenie dwóch punktów, przy czym jeden przeznacza się na udzielanie nieodpłatnej pomocy prawnej, a drugi na świadczenie nieodpłatnego poradnictwa obywatelskiego.
 
-1c. Połowę punktów przeznaczonych do prowadzenia przez organizację pozarządową przeznacza się na świadczenie nieodpłatnego poradnictwa obywatelskiego. Jeżeli liczba punktów przeznaczonych do prowadzenia przez organizację pozarządową stanowi liczbę nieparzystą, większą o jeden liczbę punktów przeznacza się na świadczenie nieodpłatnego poradnictwa obywatelskiego, mniejszą liczbę punktów na udzielanie nieodpłatnej pomocy prawnej.
+1c. Połowę punktów przeznaczonych do prowadzenia przez organizację pozarządową przeznacza się na świadczenie nieodpłatnego poradnictwa obywatelskiego. Jeżeli liczba punktów przeznaczonych do prowadzenia przez organizację pozarządową stanowi liczbę nieparzystą, większą o jeden liczbę punktów przeznacza się na świadczenie nieodpłatnego poradnictwa obywatelskiego, mniejszą liczbę punktów – na udzielanie nieodpłatnej pomocy prawnej.
 
 1d. W razie potrzeb wspólnoty samorządowej, starosta może, po uzyskaniu akceptacji wojewody, w ramach liczby punktów przeznaczonych do prowadzenia przez organizację pozarządową, przeznaczyć większą liczbę punktów na świadczenie nieodpłatnego poradnictwa obywatelskiego, niż to wynika z ust. 1b i 1c.
 
@@ -291,7 +288,7 @@ Art. 21–24. (pominięte)
 
 3. Nieodpłatnej pomocy prawnej w punktach powierzonych do prowadzenia organizacji pozarządowej może udzielać także:
 
-- **1)** doradca podatkowy w zakresie prawa podatkowego, z wyłączeniem spraw podatkowych związanych z prowadzeniem działalności gospodarczej;
+- **1)** doradca podatkowy – w zakresie prawa podatkowego, z wyłączeniem spraw podatkowych związanych z prowadzeniem działalności gospodarczej;
 - **2)** osoba, która:
     - **a)** ukończyła wyższe studia prawnicze i uzyskała tytuł magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej,
     - **b)** posiada co najmniej trzyletnie doświadczenie w wykonywaniu wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej,
@@ -304,7 +301,7 @@ Art. 21–24. (pominięte)
 
 - **1)** posiada wykształcenie wyższe,
 - **2)** ukończyła z oceną pozytywną szkolenie z zakresu świadczenia poradnictwa obywatelskiego, zwane dalej „szkoleniem”, albo posiada doświadczenie w świadczeniu poradnictwa obywatelskiego i uzyskała zaświadczenie potwierdzające posiadanie wiedzy i umiejętności w tym zakresie wydane przez podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2,
-- **3)** spełnia wymogi, o których mowa w ust. 3 pkt 2 lit. c i d zwana dalej „doradcą”.
+- **3)** spełnia wymogi, o których mowa w ust. 3 pkt 2 lit. c i d – zwana dalej „doradcą”.
 
 4. W przypadku, o którym mowa w ust. 3 pkt 2, osoba uprawniona, przed uzyskaniem nieodpłatnej pomocy prawnej składa oświadczenie, że jest świadoma uzyskania nieodpłatnej pomocy prawnej od osoby niebędącej adwokatem, radcą prawnym albo doradcą podatkowym.
 
@@ -324,8 +321,8 @@ Art. 21–24. (pominięte)
 
 9. W przypadku zaprzestania spełniania warunku, o którym mowa w art. 11d:
 
-- **1)** ust. 2 pkt 2 lub ust. 3 pkt 2, lub ust. 4 pkt 2 starosta nie zawiera umowy z organizacją pozarządową albo rozwiązuje ją ze skutkiem natychmiastowym;
-- **2)** ust. 2 pkt 3 lub ust. 3 pkt 3, lub ust. 4 pkt 3 starosta nie zawiera umowy z organizacją pozarządową albo rozwiązuje ją za dwutygodniowym wypowiedzeniem.
+- **1)** ust. 2 pkt 2 lub ust. 3 pkt 2, lub ust. 4 pkt 2 – starosta nie zawiera umowy z organizacją pozarządową albo rozwiązuje ją ze skutkiem natychmiastowym;
+- **2)** ust. 2 pkt 3 lub ust. 3 pkt 3, lub ust. 4 pkt 3 – starosta nie zawiera umowy z organizacją pozarządową albo rozwiązuje ją za dwutygodniowym wypowiedzeniem.
 
 9a. O każdym przypadku niezawarcia lub rozwiązania umowy z organizacją pozarządową powiat niezwłocznie zawiadamia właściwego wojewodę.
 
@@ -336,7 +333,7 @@ Art. 21–24. (pominięte)
 12. W przypadku gdy:
 
 - **1)** do dnia 30 listopada roku poprzedzającego rok, którego dotyczyłoby powierzenie prowadzenia punktu nie zostanie wyłoniona organizacja pozarządowa do jego prowadzenia,
-- **2)** starosta nie zawrze umowy z organizacją pozarządową albo rozwiąże umowę stosuje się art. 10 ust. 2.
+- **2)** starosta nie zawrze umowy z organizacją pozarządową albo rozwiąże umowę – stosuje się art. 10 ust. 2.
 
 13. Wzór oświadczenia, o którym mowa w ust. 4, określa załącznik nr 2 do ustawy.
 
@@ -356,7 +353,7 @@ Art. 21–24. (pominięte)
 
 1. Szkolenie oraz kurs doszkalający, o którym mowa w art. 11a ust. 2, może prowadzić podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego.
 
-2. Za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2, może zostać uznany związek, o którym mowa w art. 22 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), który zrzesza co najmniej siedem organizacji pozarządowych świadczących poradnictwo obywatelskie nieprzerwanie w okresie co najmniej siedmiu lat bezpośrednio poprzedzających złożenie wniosku o uznanie za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2.
+2. Za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2, może zostać uznany związek, o którym mowa w art. 22 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), który zrzesza co najmniej siedem organizacji pozarządowych świadczących poradnictwo obywatelskie nieprzerwanie w okresie co najmniej siedmiu lat bezpośrednio poprzedzających złożenie wniosku o uznanie za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2.
 
 3. Minister Sprawiedliwości, na wniosek związku, o którym mowa w ust. 2, wydaje decyzję w przedmiocie uznania tego związku, za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2. Do wniosku dołącza się dokumenty potwierdzające spełnianie warunku, o którym mowa w ust. 2.
 
@@ -453,6 +450,13 @@ Art. 21–24. (pominięte)
 
 **Art. 13.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
+- **1)** sposób udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, w tym wymogi dotyczące lokalu, w którym będzie usytuowany punkt,
+- **2)** wzór karty informacyjnej poradnictwa, o której mowa w art. 5 ust. 5,
+- **3)** wzór karty pomocy,
+- **4)** sposób gromadzenia i przekazywania opinii osób uprawnionych o udzielonej pomocy,
+- **5)** sposób dokonywania oceny, o której mowa w art. 11d ust. 11,
+- **6)** zakres i sposób przekazywania informacji, o której mowa w art. 12 ust. 1 – uwzględniając konieczność zapewnienia łatwego dostępu osób uprawnionych, w tym osób niepełnosprawnych, do nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego, szerokiej informacji o dostępnych formach poradnictwa, konieczność zachowania poufności przy udzielaniu nieodpłatnej pomocy prawnej i świadczeniu nieodpłatnego poradnictwa obywatelskiego, konieczność zapewnienia kompletności informacji o wykonaniu zadania oraz możliwość wykazania problemów prawnych i społecznych, których dotyczą udzielana nieodpłatna pomoc prawna i świadczone nieodpłatne poradnictwo obywatelskie, konieczność zapewnienia odpowiednich standardów obsługi osób uprawnionych oraz odpowiednich standardów jakości, a także potrzebę sformułowania wniosków dotyczących efektywności i usprawniania systemu nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego.
+
 #### Rozdział 3 Zadania z zakresu edukacji prawnej
 
 **Art. 14.** Organy administracji publicznej, realizując pozostające w ich właściwości zadania z zakresu edukacji prawnej, podejmują działania, o których mowa w art. 3b.
@@ -508,7 +512,7 @@ Art. 21–24. (pominięte)
 
 5. Minister Sprawiedliwości wskazuje przewodniczącego Rady spośród jej członków. Przewodniczący kieruje pracami Rady i reprezentuje ją na zewnątrz.
 
-6. Za udział w pracach Rady wynagrodzenie nie przysługuje. Na wniosek członków Rady, zamieszkałych poza miejscem obrad Rady, przyznaje się zwrot kosztów podróży i zakwaterowania na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661).
+6. Za udział w pracach Rady wynagrodzenie nie przysługuje. Na wniosek członków Rady, zamieszkałych poza miejscem obrad Rady, przyznaje się zwrot kosztów podróży i zakwaterowania na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661).
 
 7. Obsługę organizacyjno-techniczną Rady zapewnia urząd obsługujący Ministra Sprawiedliwości.
 
@@ -524,17 +528,19 @@ Art. 21–24. (pominięte)
 
 **Art. 20.**
 
-1. Dotacja, o której mowa w art. 19 ust. 1, jest przeznaczana w 91 % na wynagrodzenia z tytułu umów, o których mowa w art. 6, natomiast w przypadku powierzenia prowadzenia punktu organizacji pozarządowej na rzecz wyłonionej organizacji pozarządowej, w 6 % na pokrycie kosztów obsługi organizacyjno-technicznej zadań, a w 3 % na zadania z zakresu edukacji prawnej powierzone organizacji pozarządowej w trybie art. 11 ust. 7 zdanie drugie.
+1. Dotacja, o której mowa w art. 19 ust. 1, jest przeznaczana w 91 % na wynagrodzenia z tytułu umów, o których mowa w art. 6, natomiast w przypadku powierzenia prowadzenia punktu organizacji pozarządowej – na rzecz wyłonionej organizacji pozarządowej, w 6 % – na pokrycie kosztów obsługi organizacyjno-technicznej zadań, a w 3 % – na zadania z zakresu edukacji prawnej powierzone organizacji pozarządowej w trybie art. 11 ust. 7 zdanie drugie.
 
 2. Podstawę ustalenia wysokości dotacji stanowi kwota bazowa.
 
 3. Kwota dotacji stanowi dwunastokrotność iloczynu kwoty bazowej i mnożnika.
 
-4. Mnożnik oblicza się w ten sposób, że liczbę mieszkańców powiatu, przyjętą według stanu na dzień 31 grudnia roku poprzedzającego rok budżetowy o dwa lata, ustaloną przez Prezesa Głównego Urzędu Statystycznego, dzieli się przez 25 000, z tym że nie może on być mniejszy niż 2 i większy niż 35. Mnożnik wyrażony liczbą niecałkowitą zaokrągla się do liczby całkowitej w górę, jeżeli pierwsza cyfra po przecinku jest równa lub wyższa niż 5, albo w dół jeżeli pierwsza cyfra po przecinku jest niższa niż 5.
+4. Mnożnik oblicza się w ten sposób, że liczbę mieszkańców powiatu, przyjętą według stanu na dzień 31 grudnia roku poprzedzającego rok budżetowy o dwa lata, ustaloną przez Prezesa Głównego Urzędu Statystycznego, dzieli się przez 25 000, z tym że nie może on być mniejszy niż 2 i większy niż 35. Mnożnik wyrażony liczbą niecałkowitą zaokrągla się do liczby całkowitej w górę, jeżeli pierwsza cyfra po przecinku jest równa lub wyższa niż 5, albo w dół – jeżeli pierwsza cyfra po przecinku jest niższa niż 5.
 
 5. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw budżetu corocznie określa, w drodze rozporządzenia, wysokość kwoty bazowej, mając na względzie limity wydatków, o których mowa w art. 28, oraz potrzebę zapewnienia właściwej organizacji systemu nieodpłatnej pomocy prawnej, nieodpłatnego poradnictwa obywatelskiego i edukacji prawnej.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących
+
+**Art. 21–24.** (pominięte)
 
 #### Rozdział 7 Przepisy dostosowujące i przepis końcowy
 
@@ -558,31 +564,39 @@ Art. 21–24. (pominięte)
 
 1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 1 047 706 318 zł, z tym że w poszczególnych latach wyniesie odpowiednio:
 
-- **1)** w 2016 r. 94 183 200 zł;
-- **2)** w 2017 r. 96 161 047 zł;
-- **3)** w 2018 r. 98 565 074 zł;
-- **4)** w 2019 r. 100 930 635 zł;
-- **5)** w 2020 r. 103 352 971 zł;
-- **6)** w 2021 r. 105 833 441 zł;
-- **7)** w 2022 r. 108 373 444 zł;
-- **8)** w 2023 r. 110 866 034 zł;
-- **9)** w 2024 r. 113 415 953 zł;
-- **10)** w 2025 r. 116 024 519 zł.
+- **1)** w 2016 r. – 94 183 200 zł;
+- **2)** w 2017 r. – 96 161 047 zł;
+- **3)** w 2018 r. – 98 565 074 zł;
+- **4)** w 2019 r. – 100 930 635 zł;
+- **5)** w 2020 r. – 103 352 971 zł;
+- **6)** w 2021 r. – 105 833 441 zł;
+- **7)** w 2022 r. – 108 373 444 zł;
+- **8)** w 2023 r. – 110 866 034 zł;
+- **9)** w 2024 r. – 113 415 953 zł;
+- **10)** w 2025 r. – 116 024 519 zł.
 
 2. W latach 2026–2035 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 1 259 288 006 zł, z tym że w poszczególnych latach wyniesie odpowiednio:
 
-- **1)** w 2026 r. 112 302 706 zł;
-- **2)** w 2027 r. 115 222 576 zł;
-- **3)** w 2028 r. 118 103 140 zł;
-- **4)** w 2029 r. 121 055 719 zł;
-- **5)** w 2030 r. 124 082 112 zł;
-- **6)** w 2031 r. 127 184 165 zł;
-- **7)** w 2032 r. 130 363 769 zł;
-- **8)** w 2033 r. 133 622 863 zł;
-- **9)** w 2034 r. 136 963 435 zł;
-- **10)** w 2035 r. 140 387 521 zł.
+- **1)** w 2026 r. – 112 302 706 zł;
+- **2)** w 2027 r. – 115 222 576 zł;
+- **3)** w 2028 r. – 118 103 140 zł;
+- **4)** w 2029 r. – 121 055 719 zł;
+- **5)** w 2030 r. – 124 082 112 zł;
+- **6)** w 2031 r. – 127 184 165 zł;
+- **7)** w 2032 r. – 130 363 769 zł;
+- **8)** w 2033 r. – 133 622 863 zł;
+- **9)** w 2034 r. – 136 963 435 zł;
+- **10)** w 2035 r. – 140 387 521 zł.
 
 **Art. 28a.** (uchylony)
 
 **Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 6, art. 8–11, art. 17, art. 18 i art. 20–28, które wchodzą w życie z dniem 31 sierpnia 2015 r. WZÓR Oświadczenie, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2026 r. poz. 44) Ja, niżej podpisany(-na), (imię, nazwisko, adres) ................................................................................................................................ ................................................................................................................................ ..............................................................................................................................., PESEL ................................................., oświadczam, że:
+
+- **1)** nie jestem w stanie ponieść kosztów odpłatnej pomocy prawnej,
+- **2)** w ciągu ostatniego roku, nie zatrudniałem(-am) innych osób . ........................................................................... WZÓR Oświadczenie osoby uprawnionej, o którym mowa w art. 11 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2026 r. poz. 44) Ja, niżej podpisany(-na), (imię, nazwisko, adres) ......................................................................................................................., PESEL .........................................................................., przyjmuję do wiadomości, że nieodpłatna pomoc prawna udzielana jest przez osobę, która:
+- **1)** ukończyła wyższe studia prawnicze i uzyskała tytuł magistra lub zagraniczne studia prawnicze uznane w Rzeczypospolitej Polskiej,
+- **2)** posiada co najmniej trzyletnie doświadczenie w wykonywaniu wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej,
+- **3)** korzysta z pełni praw publicznych oraz ma pełną zdolność do czynności prawnych,
+- **4)** nie była karana za umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe, a nie przez adwokata, radcę prawnego albo doradcę podatkowego. Oświadczam, że zostałem(-łam) poinformowany(-na), że jakakolwiek odpowiedzialność odszkodowawcza osoby udzielającej mi nieodpłatnej pomocy prawnej jest wyłączona, z wyjątkiem przypadku wyrządzenia szkody z winy umyślnej. Przyjmuję do wiadomości, że osoba udzielająca mi nieodpłatnej pomocy prawnej nie jest obowiązana do zachowania tajemnicy, w rozumieniu art. 180 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872). Oświadczam, że zostałem(-łam) poinformowany(-na), że złożenie powyższego oświadczenia jest dobrowolne. Zapoznałem(-łam) się z treścią powyższego oświadczenia i wyrażam zgodę na udzielenie mi nieodpłatnej pomocy prawnej zgodnie z powyższymi warunkami. ...................................................................................
+
 

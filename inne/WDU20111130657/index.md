@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie informacji w ochronie zdrowia
+# Ustawa z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia
 
 *USTAWA z dnia 28 kwietnia 2011 r.*
 
@@ -24,10 +24,9 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-28 |
 | Data wydania | 2011-06-02 |
-| Ostatnia zmiana | 2026-03-24 |
+| Wejście w życie | 2012-01-01 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/657/text.pdf) |
-
-Art. 41–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -70,8 +69,7 @@ Art. 41–52. (pominięte)
     - **a)** podmiot finansujący lub współfinansujący udzielenie świadczenia opieki zdrowotnej,
     - **b)** usługobiorcę finansującego lub współfinansującego udzielenie świadczenia opieki zdrowotnej;
 
-- **10)** pobieranie danych – pobieranie danych, o którym mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. z 2024 r. poz.
-- **1769)** ;
+- **10)** pobieranie danych – pobieranie danych, o którym mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 27 lipca 2001 r. o ochronie baz danych (Dz. U. z 2024 r. poz. 1769);
 - **11)** pracownik medyczny – osobę wykonującą zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, osobę uprawnioną do świadczenia usług farmaceutycznych, która udziela świadczeń opieki zdrowotnej lub świadczy usługi farmaceutyczne w ramach stosunku pracy lub umowy cywilnoprawnej, oraz osoby, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. z 2025 r. poz. 1730);
 - **12)** rejestr medyczny – tworzony zgodnie z prawem rejestr, ewidencję, listę, spis albo inny uporządkowany zbiór danych osobowych, jednostkowych danych medycznych lub danych niebędących danymi osobowymi, służący do realizacji zadań publicznych, prowadzony przez podmiot funkcjonujący w systemie ochrony zdrowia;
 - **13)** system teleinformatyczny – system teleinformatyczny w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
@@ -103,16 +101,15 @@ Art. 41–52. (pominięte)
 - **2)** wojewoda i minister właściwy do spraw zdrowia na podstawie ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2026 r. poz. 141);
 - **3)** Naczelna Rada Lekarska na podstawie ustawy z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234), w zakresie danych przetwarzanych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej oraz na podstawie ustawy z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2022 r. poz. 1529 oraz z 2026 r. poz. 26), w zakresie danych przetwarzanych w rejestrze felczerów;
 - **4)** Naczelna Rada Pielęgniarek i Położnych, na podstawie ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15 i 26), w zakresie danych przetwarzanych w Centralnym Rejestrze Pielęgniarek i Położnych;
-- **4a)** Krajowa Rada Fizjoterapeutów, na podstawie ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234 oraz z 2026 r. poz.
-- **26)** , w zakresie danych przetwarzanych w Krajowym Rejestrze Fizjoterapeutów oraz rejestrze osób uprawnionych do wykonywania zawodu fizjoterapeuty tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej;
+- **4a)** Krajowa Rada Fizjoterapeutów, na podstawie ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234 oraz z 2026 r. poz. 26), w zakresie danych przetwarzanych w Krajowym Rejestrze Fizjoterapeutów oraz rejestrze osób uprawnionych do wykonywania zawodu fizjoterapeuty tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej;
 - **4b)** minister właściwy do spraw zdrowia na podstawie ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w zakresie danych przetwarzanych w Centralnym Rejestrze Osób Uprawnionych do Wykonywania Zawodu Medycznego;
 - **5)** wojewódzki inspektor farmaceutyczny, na podstawie ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, w odniesieniu do aptek oraz aptek szpitalnych i zakładowych;
 - **6)** okręgowe izby aptekarskie, na podstawie ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2025 r. poz. 1693), w odniesieniu do danych zawartych w rejestrze farmaceutów;
 - **7)** Naczelna Rada Aptekarska, na podstawie ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich, w zakresie danych przetwarzanych w Centralnym Rejestrze Farmaceutów Rzeczypospolitej Polskiej;
 - **8)** Krajowa Rada Diagnostów Laboratoryjnych, na podstawie ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2025 r. poz. 1295), w odniesieniu do danych objętych rejestrem diagnostów laboratoryjnych i ewidencją laboratoriów;
 - **8a)** Krajowa Rada Ratowników Medycznych, na podstawie ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2025 r. poz. 339 i 637), w zakresie danych przetwarzanych w rejestrze ratowników medycznych oraz w rejestrze osób uprawnionych do wykonywania zawodu ratownika medycznego tymczasowo i okazjonalnie na terytorium Rzeczypospolitej Polskiej;
-- **9)** Centrum Medycznego Kształcenia Podyplomowego na podstawie przepisów o zawodach lekarza i lekarza dentysty, o zawodzie fizjoterapeuty, o zawodach pielęgniarki i położnej, o medycynie laboratoryjnej, o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, o zawodzie farmaceuty oraz o niektórych zawodach medycznych, w odniesieniu do danych określonych w tych przepisach;
-- **10)** (uchylony) [11) usługodawcy, w odniesieniu do pracowników medycznych;] <11) usługodawcy;>
+- **9)** Centrum Medycznego Kształcenia Podyplomowego na podstawie przepisów o zawodach lekarza i lekarza dentysty, o zawodzie fizjoterapeuty, o zawodach pielęgniarki i położnej, o medycynie laboratoryjnej, o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, o zawodzie farmaceuty oraz o niektórych zawodach medycznych, w odniesieniu do danych określonych w tych przepisach; 10) (uchylony) [11) usługodawcy, w odniesieniu do pracowników medycznych;]
+- **11)** usługodawcy;
 - **12)** płatnicy, o których mowa w art. 2 pkt 9 lit. a, w zakresie danych usługodawców i pracowników medycznych usługodawcy, umożliwiających kontrolę wykonywania umowy o udzielanie świadczeń opieki zdrowotnej.
 
 4. Bazy danych, o których mowa w ust. 1 pkt 3, prowadzą:
@@ -186,7 +183,7 @@ Art. 41–52. (pominięte)
 - **1)** Platformę Udostępniania On-Line Usług i Zasobów Cyfrowych Rejestrów Medycznych;
 - **2)** Elektroniczną Platformę Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych.
 
-3. Systemy teleinformatyczne obsługujące system informacji w zakresie przypisanych im zadań korzystają z usług dostarczanych przez Elektroniczną Platformę Usług Administracji Publicznej. [3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, e, g– j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).] <3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, c, e, g–j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).> 3b. W rejestrach, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 17 ust. 1 i art. 17a ust. 1, mogą być weryfikowane dane o usługobiorcach, usługodawcach, pracownikach medycznych oraz produktach leczniczych przetwarzane w:
+3. Systemy teleinformatyczne obsługujące system informacji w zakresie przypisanych im zadań korzystają z usług dostarczanych przez Elektroniczną Platformę Usług Administracji Publicznej. [3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, e, g– j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).] <3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, c, e, g–j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
 
 - **1)** rejestrach medycznych;
 - **2)** rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
@@ -289,8 +286,7 @@ Art. 41–52. (pominięte)
 - **7)** dostęp do informacji o wysokości składki na ubezpieczenie zdrowotne płaconej przez usługobiorcę;
 - **8)** dostęp do informacji o wysokości kwoty podlegającej refundacji dla poszczególnych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wydanych usługobiorcy;
 - **9)** składanie oświadczeń o wyrażeniu zgody na przetwarzanie danych osobowych i jednostkowych danych medycznych usługobiorcy koniecznych w procesie realizacji recepty transgranicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub o jej wycofaniu;
-- **10)** składanie deklaracji wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz.
-- **515)** , oraz dostęp do informacji o wybranym świadczeniodawcy udzielającym świadczeń z zakresu podstawowej opieki zdrowotnej, lekarzu podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej;
+- **10)** składanie deklaracji wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515), oraz dostęp do informacji o wybranym świadczeniodawcy udzielającym świadczeń z zakresu podstawowej opieki zdrowotnej, lekarzu podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej;
 - **11)** dostęp do informacji o usługodawcy i udzielanych przez niego świadczeniach opieki zdrowotnej;
 - **12)** składanie wniosków o wydanie Europejskiej Karty Ubezpieczenia Zdrowotnego, o której mowa w art. 51 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „EKUZ”;
 - **13)** dostęp do informacji o wycofanych z obrotu produktach leczniczych lub wyrobach medycznych, jeżeli zostały one usługobiorcy przepisane na podstawie recepty w postaci elektronicznej lub przez niego nabyte;
@@ -656,8 +652,7 @@ Art. 41–52. (pominięte)
 - **5)** Szef Agencji Bezpieczeństwa Wewnętrznego;
 - **6)** Szef Agencji Wywiadu;
 - **7)** Szef Centralnego Biura Antykorupcyjnego;
-- **8)** podmioty, o których mowa w art. 7 ust. 2 ustawy z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2025 r. poz.
-- **1708)** ;
+- **8)** podmioty, o których mowa w art. 7 ust. 2 ustawy z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2025 r. poz. 1708);
 - **9)** Centrum Organizacyjno-Koordynacyjne do Spraw Transplantacji „Poltransplant”;
 - **10)** Polski Czerwony Krzyż;
 - **11)** administratorzy danych zawartych w Elektronicznym Krajowym Systemie Monitoringu Orzekania o Niepełnosprawności, o którym mowa w art. 6d ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26).
@@ -1022,33 +1017,11 @@ Art. 41–52. (pominięte)
 
 5. Administratorem systemu jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
 
-6. Administratorem danych przetwarzanych w systemie, o którym mowa w ust. 1, jest minister właściwy do spraw zdrowia. [Art. 24. 1. System Ewidencji Zasobów Ochrony Zdrowia jest systemem teleinformatycznym prowadzonym przez ministra właściwego do spraw zdrowia, w którym są gromadzone informacje o wyrobach medycznych i środkach ochrony osobistej posiadanych przez usługodawców.
+6. Administratorem danych przetwarzanych w systemie, o którym mowa w ust. 1, jest minister właściwy do spraw zdrowia.
 
-2. W skład Systemu Ewidencji Zasobów Ochrony Zdrowia, o którym mowa w ust. 1, wchodzi moduł zawierający dane dotyczące:
+**Art. 24.**
 
-- **1)** pacjenta z podejrzeniem o zakażenie i potwierdzonym zakażeniem wirusem SARS-CoV-2:
-    - **a)** wiek,
-    - **b)** płeć,
-    - **c)** numer w wykazie głównym przyjęć i wypisów,
-    - **d)** stan pacjenta według modyfikowanej skali wczesnego ostrzegania (skali MEWS),
-    - **e)** prowadzona tlenoterapia;
-
-- **2)** liczby łóżek i ich wykorzystania.
-
-3. Dane, o których mowa w ust. 2, przekazuje usługodawca będący podmiotem leczniczym wykonującym działalność leczniczą w rodzaju świadczenia szpitalne udzielający świadczeń pacjentom z podejrzeniem o zakażenie i potwierdzonym zakażeniem wirusem SARS-CoV-2.
-
-4. Usługodawcy są obowiązani do nieodpłatnego przekazywania informacji, o których mowa w ust. 1, do jednostki podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia.
-
-5. Usługodawcy są obowiązani do nieodpłatnego przekazywania informacji, o których mowa w ust. 2, do Rządowego Centrum Bezpieczeństwa.
-
-6. Administratorem systemu jest:
-
-- **1)** jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia;
-- **2)** Rządowe Centrum Bezpieczeństwa – w zakresie modułu, o którym mowa w ust. 2.
-
-7. Administratorem danych przetwarzanych w systemie jest minister właściwy do spraw zdrowia.
-
-8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1 i 2, oraz sposób i terminy ich przekazywania, mając na uwadze zakres świadczeń udzielanych przez usługodawców oraz potrzebę zabezpieczenia potrzeb zdrowotnych społeczeństwa, w szczególności w stanie zagrożenia epidemicznego lub stanie epidemii.] <Art. 24. 1. EPS jest systemem teleinformatycznym, w którym w celu monitorowania dostępności do świadczeń opieki zdrowotnej i wsparcia procesów decyzyjnych, w tym w zakresie przygotowania obrony państwa lub zwalczania klęsk żywiołowych, likwidacji ich skutków oraz zarządzania kryzysowego, są gromadzone dane o usługodawcach obejmujące:
+1. EPS jest systemem teleinformatycznym, w którym w celu monitorowania dostępności do świadczeń opieki zdrowotnej i wsparcia procesów decyzyjnych, w tym w zakresie przygotowania obrony państwa lub zwalczania klęsk żywiołowych, likwidacji ich skutków oraz zarządzania kryzysowego, są gromadzone dane o usługodawcach obejmujące:
 
 - **1)** nazwę albo firmę usługodawcy;
 - **2)** adres siedziby;
@@ -1107,7 +1080,7 @@ Art. 41–52. (pominięte)
 
 - **1)** sposób i terminy przekazywania danych, o których mowa w ust. 1 i 2,
 - **2)** wykaz wyrobów medycznych i środków ochrony indywidualnej gromadzonych w EPS zgodnie z ust. 1 pkt 6 lit. d i e,
-- **3)** szczegółowy zakres danych, o których mowa w ust. 1 pkt 6 lit. a, lit. b tiret drugim i lit. c–g oraz ust. 2 – mając na uwadze konieczność zabezpieczenia potrzeb zdrowotnych społeczeństwa i zapewnienia bezpieczeństwa przetwarzania danych w EPS oraz zakres świadczeń opieki zdrowotnej udzielanych przez usługodawców.>
+- **3)** szczegółowy zakres danych, o których mowa w ust. 1 pkt 6 lit. a, lit. b tiret drugim i lit. c–g oraz ust. 2 – mając na uwadze konieczność zabezpieczenia potrzeb zdrowotnych społeczeństwa i zapewnienia bezpieczeństwa przetwarzania danych w EPS oraz zakres świadczeń opieki zdrowotnej udzielanych przez usługodawców.
 
 **Art. 25.** (uchylony)
 
@@ -1202,8 +1175,7 @@ Art. 41–52. (pominięte)
 - **3)** art. 71 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty;
 - **4)** art. 61 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej;
 - **5)** (uchylony)
-- **6)** art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz.
-- **342)** .
+- **6)** art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz. 342).
 
 2a. W Systemie Monitorowania Kształcenia Pracowników Medycznych są przetwarzane również dane, w zakresie wskazanym w:
 
@@ -1313,9 +1285,7 @@ Art. 41–52. (pominięte)
 
 1. System Obsługi Importu Docelowego jest systemem teleinformatycznym, w którym są przetwarzane dane niezbędne do wydawania przez ministra właściwego do spraw zdrowia rozstrzygnięć w sprawie sprowadzenia z zagranicy produktu leczniczego lub środka spożywczego specjalnego przeznaczenia żywieniowego oraz dopuszczenia do obrotu produktu leczniczego nieposiadającego pozwolenia.
 
-2. System Obsługi Importu Docelowego umożliwia składanie zapotrzebowań, o których mowa w art. 4 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8 tej ustawy, a także zapotrzebowań, o których mowa w art. 29a ust. 2 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz.
-
-- **1424)** , rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikację z ministrem właściwym do spraw zdrowia.
+2. System Obsługi Importu Docelowego umożliwia składanie zapotrzebowań, o których mowa w art. 4 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8 tej ustawy, a także zapotrzebowań, o których mowa w art. 29a ust. 2 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424), rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikację z ministrem właściwym do spraw zdrowia.
 
 3. System Obsługi Importu Docelowego zawiera również dane, o których mowa w art. 4d ust. 3 i art. 4e ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
@@ -1438,6 +1408,8 @@ Art. 41–52. (pominięte)
 6. Osoby wykonujące czynności w ramach przetwarzania jednostkowych danych medycznych przez jednostkę, o której mowa w ust. 2, są obowiązane do zachowania w tajemnicy jednostkowych danych medycznych, o których powzięły wiedzę.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 41–52.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 

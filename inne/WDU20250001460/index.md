@@ -8,12 +8,10 @@ pos: 1460
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 20 października 2025 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 października 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o współpracy rozwojowej
 
 | Pole | Wartość |
 |---|---|
@@ -30,22 +28,21 @@ source: "isap-pdf"
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 września 2011 r. o współpracy rozwojowej (Dz. U. z 2024 r. poz. 1384), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4–6 ustawy z dnia 20 marca 2025 r. o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (Dz. U. poz. 525), które stanowią: „Art. 4. 1. W Banku Gospodarstwa Krajowego tworzy się Finansowy Instrument Współpracy Rozwojowej.
 2. Pierwszy projekt planu rzeczowo-finansowego Finansowego Instrumentu Współpracy Rozwojowej, o którym mowa w art. 19e ust. 1 pkt 2 ustawy zmienianej w art. 1, jest opracowywany przez Bank Gospodarstwa Krajowego w uzgodnieniu z ministrem właściwym do spraw finansów publicznych działającym w uzgodnieniu z ministrem właściwym do spraw zagranicznych w terminie 60 dni od dnia wejścia w życie niniejszej ustawy i zatwierdzany w terminie 60 dni od dnia jego otrzymania przez ministra właściwego do spraw finansów publicznych.
-Art. 20–22. (pominięte)
 
 **Art. 5.**
 
 1. Maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy wynosi w:
 
-- **1)** 2025 r. 263,3 mln zł;
-- **2)** 2026 r. 166,5 mln zł;
-- **3)** 2027 r. 306,1 mln zł;
-- **4)** 2028 r. 170,4 mln zł;
-- **5)** 2029 r. 157,3 mln zł;
-- **6)** 2030 r. 125,1 mln zł;
-- **7)** 2031 r. 104,6 mln zł;
-- **8)** 2032 r. 75,7 mln zł;
-- **9)** 2033 r. 46,8 mln zł;
-- **10)** 2034 r. 43,9 mln zł.
+- **1)** 2025 r. – 263,3 mln zł;
+- **2)** 2026 r. – 166,5 mln zł;
+- **3)** 2027 r. – 306,1 mln zł;
+- **4)** 2028 r. – 170,4 mln zł;
+- **5)** 2029 r. – 157,3 mln zł;
+- **6)** 2030 r. – 125,1 mln zł;
+- **7)** 2031 r. – 104,6 mln zł;
+- **8)** 2032 r. – 75,7 mln zł;
+- **9)** 2033 r. – 46,8 mln zł;
+- **10)** 2034 r. – 43,9 mln zł.
 
 2. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 1, w szczególności gdy wielkość wydatków budżetu państwa po pierwszych dwóch kwartałach roku budżetowego wyniesie więcej niż 70 % limitu wydatków, o którym mowa w ust. 1, przewidzianych na dany rok, zostanie zastosowany mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, w szczególności przez ograniczenie wykorzystywania przez Bank Gospodarstwa Krajowego instrumentów w rozumieniu art. 19a ustawy zmienianej w art. 1.
 
@@ -81,9 +78,25 @@ Art. 20–22. (pominięte)
 
 **Art. 3.** W realizowaniu współpracy rozwojowej mogą uczestniczyć w szczególności:
 
+- **1)** jednostki sektora finansów publicznych w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
+- **2)** podmioty, które mogą prowadzić działalność pożytku publicznego w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **3)** przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. );
+- **4)** instytuty badawcze w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **5)** BGK.
+
 #### Rozdział 2 Formy współpracy rozwojowej
 
 **Art. 4.** Współpraca rozwojowa może być realizowana w szczególności w formie:
+
+- **1)** finansowania zadań powierzonych podmiotom uczestniczącym w realizowaniu współpracy rozwojowej;
+- **2)** przekazywania środków finansowych do budżetu państwa rozwijającego się;
+- **3)** udzielania kredytów i pożyczek;
+- **4)** redukcji oraz konwersji zadłużenia państwa rozwijającego się;
+- **5)** współfinansowania lub udzielania wsparcia technicznego przy wdrażaniu działań finansowych w szczególności z budżetów innych państw, Unii Europejskiej lub innych organizacji międzynarodowych;
+- **6)** wpłaty do międzynarodowych organizacji, instytucji, programów i funduszy;
+- **7)** organizowania szkoleń i doradztwa dla podmiotów uczestniczących w realizowaniu współpracy rozwojowej;
+- **8)** opracowywania, wydawania i rozpowszechniania publikacji;
+- **9)** organizowania działań informacyjnych.
 
 #### Rozdział 3 Zasady realizacji współpracy rozwojowej
 
@@ -123,7 +136,7 @@ Art. 20–22. (pominięte)
 
 **Art. 10.**
 
-1. Podmioty realizujące zadania z zakresu współpracy rozwojowej, o których mowa w art. 3 pkt 2 i 3, w zależności od okoliczności i specyfiki zadania, wyłania się w drodze otwartego konkursu ofert w rozumieniu przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie albo w postępowaniu o udzielenie zamówienia w rozumieniu przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+1. Podmioty realizujące zadania z zakresu współpracy rozwojowej, o których mowa w art. 3 pkt 2 i 3, w zależności od okoliczności i specyfiki zadania, wyłania się w drodze otwartego konkursu ofert w rozumieniu przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie albo w postępowaniu o udzielenie zamówienia w rozumieniu przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 2. Ze względu na ochronę życia lub zdrowia ludzkiego minister właściwy do spraw zagranicznych może w przypadkach udzielania pomocy humanitarnej zlecić realizację zadania z zakresu współpracy rozwojowej z pominięciem otwartego konkursu ofert. Przepisy art. 43, art. 47 i art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
 
@@ -188,13 +201,18 @@ Art. 20–22. (pominięte)
 
 **Art. 16.** Do zadań Rady należy w szczególności:
 
+- **1)** przedstawianie propozycji dotyczących priorytetów geograficznych i tematycznych współpracy rozwojowej;
+- **2)** opiniowanie projektów Programu i Planu;
+- **3)** opiniowanie rocznych sprawozdań z realizacji przez organy administracji rządowej zadań z zakresu współpracy rozwojowej;
+- **4)** opiniowanie projektów dokumentów rządowych związanych ze współpracą rozwojową.
+
 **Art. 17.**
 
 1. Rada składa się z 25 członków.
 
 2. W skład Rady wchodzi:
 
-- **1)** Krajowy Koordynator Współpracy Rozwojowej jako przewodniczący;
+- **1)** Krajowy Koordynator Współpracy Rozwojowej – jako przewodniczący;
 - **2)** przedstawiciel ministra właściwego do spraw finansów publicznych;
 - **2a)** przedstawiciel ministra właściwego do spraw energii;
 - **2b)** przedstawiciel ministra właściwego do spraw gospodarki surowcami energetycznymi;
@@ -217,10 +235,10 @@ Art. 20–22. (pominięte)
 
 3. Członków Rady, o których mowa w ust. 2:
 
-- **1)** pkt 2–11 i 15 powołuje i odwołuje minister właściwy do spraw zagranicznych, na wniosek właściwego podmiotu;
-- **2)** pkt 12 powołuje i odwołuje Marszałek Sejmu;
-- **3)** pkt 13 powołuje i odwołuje Marszałek Senatu;
-- **4)** pkt 14 i 16 powołuje i odwołuje minister właściwy do spraw zagranicznych.
+- **1)** pkt 2–11 i 15 – powołuje i odwołuje minister właściwy do spraw zagranicznych, na wniosek właściwego podmiotu;
+- **2)** pkt 12 – powołuje i odwołuje Marszałek Sejmu;
+- **3)** pkt 13 – powołuje i odwołuje Marszałek Senatu;
+- **4)** pkt 14 i 16 – powołuje i odwołuje minister właściwy do spraw zagranicznych.
 
 4. Członkiem Rady nie może być osoba skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
@@ -231,6 +249,14 @@ Art. 20–22. (pominięte)
 #### Rozdział 5a Zasady funkcjonowania FIWR oraz realizacji współpracy rozwojowej BGK
 
 **Art. 19a.** Ilekroć w niniejszym rozdziale jest mowa o instrumentach, rozumie się przez to instrumenty, w tym finansowane lub współfinansowane ze środków FIWR, wykorzystywane do realizacji współpracy rozwojowej BGK:
+
+- **1)** instrumenty dłużne, w tym pożyczki lub kredyty;
+- **2)** instrumenty kapitałowe, w tym nabywanie lub obejmowanie akcji, udziałów, jednostek uczestnictwa lub certyfikatów inwestycyjnych, przystępowanie do spółki komandytowej w charakterze komandytariusza, do spółki komandytowo-akcyjnej w charakterze akcjonariusza lub powierzanie środków pieniężnych w zarządzanie;
+- **3)** gwarancje lub poręczenia, w tym gwarancje lub poręczenia portfela kredytów w rozumieniu art. 128b ust. 2 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ) lub portfela innych zobowiązań w rozumieniu art. 128b ust. 2 pkt 2 tej ustawy, a także gwarancje lub reporęczenia, w tym rewerencje lub reporęczenia tych portfeli;
+- **4)** bezzwrotne instrumenty współpracy rozwojowej, w tym pomoc techniczną, dopłaty do kapitału, umorzenia kapitału lub dopłaty do odsetek;
+- **5)** mechanizmy kompensacji i podziału ryzyka inne niż wskazane w pkt 3;
+- **6)** mieszane instrumenty, składające się z instrumentów, o których mowa w pkt 1–5;
+- **7)** inne niż wymienione w pkt 1–6 instrumenty określone w aktach, na podstawie których zostały przekazane środki, o których mowa w art. 19b ust. 1 pkt 2.
 
 **Art. 19b.**
 
@@ -312,6 +338,8 @@ Art. 20–22. (pominięte)
 - **4)** warunki i tryb uzgadniania z ministrem właściwym do spraw finansów publicznych działającym w uzgodnieniu z ministrem właściwym do spraw zagranicznych finansowania, o którym mowa w art. 19c ust. 1, w tym wysokości wynagrodzenia, o którym mowa w art. 19c ust. 2.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 20–22.** (pominięte)
 
 **Art. 23.** Pierwszy skład Rady zostanie powołany w terminie miesiąca od dnia wejścia w życie ustawy. Pierwsza kadencja Rady rozpoczyna się z dniem powołania ostatniego jej członka.
 

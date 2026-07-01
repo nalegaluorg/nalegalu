@@ -23,7 +23,7 @@ Akty z największą liczbą powiązanych orzeczeń sądowych:
 
 ## Orzecznictwo
 
-Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **654 745** powiązań między orzeczeniami a aktami prawnymi.
+Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **654 423** powiązań między orzeczeniami a aktami prawnymi.
 
 Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznictwo.md` z listą cytujących orzeczeń pogrupowanych wg artykułu. Dla największych aktów (np. Kodeks cywilny) orzecznictwo jest podzielone na osobne pliki per artykuł.
 
@@ -60,7 +60,7 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | Dziedzina | Aktów | Opis |
 |-----------|------:|------|
 | [Ochrona danych osobowych](prawo-ochrony-danych/README.md) | 8 | [Pełna lista aktów →](prawo-ochrony-danych/README.md) (2 z orzecznictwem) |
-| [Prawo administracyjne](prawo-administracyjne/README.md) | 66 | [Pełna lista aktów →](prawo-administracyjne/README.md) (16 z orzecznictwem) |
+| [Prawo administracyjne](prawo-administracyjne/README.md) | 67 | [Pełna lista aktów →](prawo-administracyjne/README.md) (16 z orzecznictwem) |
 | [Prawo bankowe](prawo-bankowe/README.md) | 28 | [Pełna lista aktów →](prawo-bankowe/README.md) (8 z orzecznictwem) |
 | [Prawo budowlane](prawo-budowlane/README.md) | 43 | [Pełna lista aktów →](prawo-budowlane/README.md) (7 z orzecznictwem) |
 | [Prawo cywilne](prawo-cywilne/README.md) | 142 | [Pełna lista aktów →](prawo-cywilne/README.md) (61 z orzecznictwem) |
@@ -75,7 +75,7 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 17 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (6 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 18331 | [Pełna lista aktów →](inne/README.md) (1278 z orzecznictwem) |
+| [Inne](inne/README.md) | 17831 | [Pełna lista aktów →](inne/README.md) (1262 z orzecznictwem) |
 
 ## Bramka jakości
 
@@ -98,9 +98,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 304 tests — 304 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 309 tests — 309 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-07-01 20:43 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-07-01 21:03 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -109,22 +109,22 @@ Ostatni przebieg: 2026-07-01 20:43 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **19,209** |
-| Odrzucone (jakość) | 411 |
-| Artykuły | 209,413 |
-| Znaki treści | 580.2M |
-| Śr. znaków/akt | 30,203 |
-| Śr. artykułów/akt | 10.9 |
+| Opublikowane akty | **18,710** |
+| Odrzucone (jakość) | 396 |
+| Artykuły | 210,865 |
+| Znaki treści | 570.7M |
+| Śr. znaków/akt | 30,502 |
+| Śr. artykułów/akt | 11.3 |
 
 **Źródła danych:**
 
-- PDF: 18,965 (99%)
+- PDF: 18,466 (99%)
 - ELI HTML: 242 (1%)
 - unknown: 2 (0%)
 
-*Odrzucone: 1 skanów bez OCR, 696 zablokowanych przez bramkę jakości, 410 inne*
+*Odrzucone: 1 skanów bez OCR, 602 zablokowanych przez bramkę jakości, 395 inne*
 
-*Od 2026-05-18: +5,888 aktów*
+*Od 2026-05-18: +5,389 aktów*
 
 *Ostatnia aktualizacja: 2026-07-01*
 <!-- STATS:END -->
@@ -137,4 +137,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*19209 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-01*
+*18710 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-01*

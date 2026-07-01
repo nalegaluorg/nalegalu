@@ -8,12 +8,10 @@ pos: 393
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo o aktach stanu cywilnego
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo o aktach stanu cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,13 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/393/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461 ) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594), z uwzględnieniem stanu prawnego na dzień 9 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006).
+1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461 ) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594), z uwzględnieniem stanu prawnego na dzień 9 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 ust. 5 i art. 11 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006), które stanowią:
-Art. 114–123. (pominięte)
 
 **Art. 8.** „5. Do spraw, o których mowa w art. 5a ust. 3 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 5a ust. 3 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 3 pkt 2 lit. a i b oraz pkt 3, art. 4 pkt 2, 4 i 5 oraz art. 9, które wchodzą w życie z dniem 30 czerwca 2026 r.;
+- **2)** art. 6, który wchodzi w życie z dniem 17 kwietnia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 28 listopada 2014 r. Prawo o aktach stanu cywilnego
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -96,7 +96,7 @@ Art. 114–123. (pominięte)
 - **4)** Służbie Kontrwywiadu Wojskowego,
 - **5)** Służbie Wywiadu Wojskowego,
 - **6)** Ministrowi Sprawiedliwości,
-- **7)** sądom wyłącznie w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **7)** sądom – wyłącznie w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 2. Dane z rejestru stanu cywilnego udostępnia się za pomocą urządzeń teletransmisji danych, po złożeniu do ministra właściwego do spraw informatyzacji jednorazowego wniosku i wyrażeniu przez niego zgody, podmiotom, o których mowa w ust. 1, jeżeli spełniają łącznie następujące warunki:
 
@@ -106,8 +106,8 @@ Art. 114–123. (pominięte)
 
 3. W sprawach o udostępnianie danych podmiotom, o których mowa w ust. 1, minister właściwy do spraw informatyzacji:
 
-- **1)** udostępnia dane w drodze czynności materialno-technicznej;
-- **2)** odmawia udostępniania danych, jeżeli nie zostały spełnione warunki określone w ust. 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane w drodze decyzji administracyjnej.
+- **1)** udostępnia dane – w drodze czynności materialno-technicznej;
+- **2)** odmawia udostępniania danych, jeżeli nie zostały spełnione warunki określone w ust. 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane – w drodze decyzji administracyjnej.
 
 **Art. 6.**
 
@@ -140,7 +140,7 @@ Art. 114–123. (pominięte)
 - **2)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
 - **3)** posiada: poz. 1571, z późn. zm. ), albo uznany za równoważny polskiemu dyplomowi potwierdzającemu uzyskanie tytułu zawodowego magistra zgodnie z art. 327 ust. 1 tej ustawy lub,
     - **a)** dyplom ukończenia wyższych studiów prawniczych lub administracyjnych potwierdzający uzyskanie tytułu zawodowego magistra lub,
-    - **b)** dyplom potwierdzający ukończenie wyższych studiów prawniczych lub administracyjnych za granicą, o którym mowa w art. 326 ust. 1 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
+    - **b)** dyplom potwierdzający ukończenie wyższych studiów prawniczych lub administracyjnych za granicą, o którym mowa w art. 326 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
     - **c)** dyplom potwierdzający uzyskanie tytułu zawodowego magistra i świadectwo ukończenia studiów podyplomowych w zakresie administracji;
 
 - **4)** posiada łącznie co najmniej trzyletni staż pracy na stanowiskach urzędniczych w urzędach lub w samorządowych jednostkach organizacyjnych, w służbie cywilnej, w urzędach państwowych lub w służbie zagranicznej, z wyjątkiem stanowisk pomocniczych i obsługi.
@@ -181,9 +181,9 @@ Art. 114–123. (pominięte)
 
 **Art. 12.**
 
-1. W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+1. W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
-2. Do spraw należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
+2. Do spraw należących do właściwości konsulów stosuje się przepisy ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
 
 #### Rozdział 2 Właściwość miejscowa w sprawach rejestracji stanu cywilnego
 
@@ -207,7 +207,7 @@ Art. 114–123. (pominięte)
 
 1. Zawarcie małżeństwa następuje przed kierownikiem urzędu stanu cywilnego wybranym przez osoby zamierzające zawrzeć małżeństwo.
 
-2. Zaświadczenie stwierdzające brak okoliczności wyłączających zawarcie małżeństwa w sposób określony w art. 1 § 2 i 3 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236), zwanej dalej „Kodeksem rodzinnym i opiekuńczym”, wydaje kierownik urzędu stanu cywilnego wybrany przez osoby zamierzające zawrzeć małżeństwo.
+2. Zaświadczenie stwierdzające brak okoliczności wyłączających zawarcie małżeństwa w sposób określony w art. 1 § 2 i 3 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236), zwanej dalej „Kodeksem rodzinnym i opiekuńczym”, wydaje kierownik urzędu stanu cywilnego wybrany przez osoby zamierzające zawrzeć małżeństwo.
 
 **Art. 16.** Zgłoszenia zgonu dokonuje się w urzędzie stanu cywilnego właściwym ze względu na miejsce zgonu albo miejsce znalezienia zwłok.
 
@@ -304,14 +304,14 @@ Art. 114–123. (pominięte)
 - **1)** prowadzenia rejestru stanu cywilnego,
 - **2)** oznaczania w rejestrze stanu cywilnego aktów stanu cywilnego,
 - **3)** prowadzenia akt zbiorowych rejestracji stanu cywilnego,
-- **4)** zabezpieczania akt zbiorowych rejestracji stanu cywilnego sporządzonych na piśmie utrwalonym w postaci papierowej w przypadku, o którym mowa w ust. 3 uwzględniając konieczność zapewnienia kompletności danych zawartych w rejestrze stanu cywilnego i ich przejrzystości, sprawnego funkcjonowania rejestru stanu cywilnego, ochrony danych osobowych i mając na względzie szczególny charakter akt zbiorowych rejestracji stanu cywilnego.
+- **4)** zabezpieczania akt zbiorowych rejestracji stanu cywilnego sporządzonych na piśmie utrwalonym w postaci papierowej w przypadku, o którym mowa w ust. 3 – uwzględniając konieczność zapewnienia kompletności danych zawartych w rejestrze stanu cywilnego i ich przejrzystości, sprawnego funkcjonowania rejestru stanu cywilnego, ochrony danych osobowych i mając na względzie szczególny charakter akt zbiorowych rejestracji stanu cywilnego.
 
 **Art. 28.**
 
 1. Akty stanu cywilnego oraz akta zbiorowe rejestracji stanu cywilnego kierownik urzędu stanu cywilnego przechowuje przez okres:
 
-- **1)** 100 lat akty urodzenia oraz akta zbiorowe rejestracji stanu cywilnego dotyczące aktu urodzenia;
-- **2)** 80 lat akty małżeństwa, akty zgonu oraz akta zbiorowe rejestracji stanu cywilnego dotyczące aktu małżeństwa i aktu zgonu.
+- **1)** 100 lat – akty urodzenia oraz akta zbiorowe rejestracji stanu cywilnego dotyczące aktu urodzenia;
+- **2)** 80 lat – akty małżeństwa, akty zgonu oraz akta zbiorowe rejestracji stanu cywilnego dotyczące aktu małżeństwa i aktu zgonu.
 
 2. Okresy, o których mowa w ust. 1, są liczone od końca roku kalendarzowego, w którym nastąpiło sporządzenie aktu stanu cywilnego.
 
@@ -360,7 +360,7 @@ Art. 114–123. (pominięte)
 
 2. Udział biegłego lub tłumacza przy składaniu oświadczeń przewidzianych w ustawie lub w procedurze związanej z zawarciem związku małżeńskiego zapewniają osoby składające te oświadczenia lub osoby zamierzające zawrzeć małżeństwo, jeżeli nie potrafią porozumieć się z kierownikiem urzędu stanu cywilnego. Osoby zamierzające zawrzeć małżeństwo zapewniają udział biegłego lub tłumacza także wtedy, gdy świadkowie nie potrafią porozumieć się z kierownikiem urzędu stanu cywilnego.
 
-3. Biegłego lub tłumacza, z wyłączeniem biegłego sądowego oraz tłumacza przysięgłego, kierownik urzędu stanu cywilnego poucza o odpowiedzialności karnej z art. 233 § 4 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
+3. Biegłego lub tłumacza, z wyłączeniem biegłego sądowego oraz tłumacza przysięgłego, kierownik urzędu stanu cywilnego poucza o odpowiedzialności karnej z art. 233 § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 4. Biegły lub tłumacz, z wyłączeniem biegłego sądowego oraz tłumacza przysięgłego, składa przed kierownikiem urzędu stanu cywilnego oświadczenie, że będzie wykonywał powierzone zadania sumiennie i bezstronnie, dochowując tajemnicy prawnie chronionej oraz kierując się w swoim postępowaniu uczciwością i etyką. Adnotację o złożeniu oświadczenia zamieszcza się w protokole czynności z zakresu rejestracji stanu cywilnego.
 
@@ -369,6 +369,33 @@ Art. 114–123. (pominięte)
 **Art. 32a.** Protokoły sporządzane na podstawie ustawy sporządza się na piśmie utrwalonym w postaci papierowej i podpisuje się podpisami własnoręcznymi.
 
 **Art. 33.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia:
+
+- **1)** wzory, w tym w postaci elektronicznej:
+    - **a)** odpisów zupełnych aktu urodzenia, aktu małżeństwa i aktu zgonu,
+    - **b)** odpisu zupełnego aktu zgonu osoby o nieustalonej tożsamości,
+    - **c)** odpisów skróconych aktu urodzenia, aktu małżeństwa i aktu zgonu,
+    - **d)** odpisu skróconego aktu urodzenia dziecka, które urodziło się martwe,
+
+- **2)** wzory protokołów:
+    - **a)** zgłoszenia urodzenia,
+    - **b)** uznania ojcostwa,
+    - **c)** przyjęcia oświadczeń o wstąpieniu w związek małżeński,
+    - **d)** przyjęcia oświadczenia rozwiedzionego małżonka o powrocie do nazwiska noszonego przed zawarciem małżeństwa,
+    - **e)** zgłoszenia zgonu,
+    - **f)** przyjęcia oświadczeń, o których mowa w art. 88 § 3 Kodeksu rodzinnego i opiekuńczego,
+    - **g)** przyjęcia oświadczeń małżonków, że dziecko będzie nosiło takie samo nazwisko, jakie nosi albo nosiłoby ich wspólne dziecko,
+    - **h)** przyjęcia oświadczenia o zmianie imienia lub imion,
+
+- **3)** wzory:
+    - **a)** zaświadczenia potwierdzającego uznanie ojcostwa,
+    - **b)** zaświadczenia stwierdzającego brak okoliczności wyłączających zawarcie małżeństwa,
+    - **c)** zaświadczenia stwierdzającego, że oświadczenia o wstąpieniu w związek małżeński zostały złożone w obecności duchownego,
+    - **d)** zaświadczenia stwierdzającego, że zgodnie z prawem polskim można zawrzeć małżeństwo,
+    - **e)** zaświadczenia o zamieszczonych lub niezamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby, w tym w postaci elektronicznej,
+    - **f)** wniosku o wydanie zaświadczenia o stanie cywilnym, w tym w postaci elektronicznej,
+    - **g)** zaświadczenia o stanie cywilnym, w tym w postaci elektronicznej,
+
+- **4)** wzór zapewnienia, że osoby zamierzające zawrzeć małżeństwo nie wiedzą o istnieniu okoliczności wyłączających zawarcie tego małżeństwa – uwzględniając zakres danych wymaganych do sporządzenia aktu urodzenia, aktu małżeństwa i aktu zgonu oraz ich odpisów, danych koniecznych do uznania ojcostwa, informacji i danych zamieszczanych w protokołach, oświadczeniach, zaświadczeniach lub zapewnieniu, umożliwiających sporządzanie aktów stanu cywilnego.
 
 **Art. 34.** Minister właściwy do spraw wewnętrznych zapewnia kierownikom urzędów stanu cywilnego blankiety odpisów aktów stanu cywilnego, zaświadczeń o stanie cywilnym i zaświadczeń stwierdzających, że zgodnie z prawem polskim można zawrzeć małżeństwo.
 
@@ -393,6 +420,9 @@ Art. 114–123. (pominięte)
 8. Kierownik urzędu stanu cywilnego, dokonując sprostowania, wydaje wnioskodawcy odpis zupełny sprostowanego aktu stanu cywilnego.
 
 **Art. 36.** Sprostowania aktu stanu cywilnego dokonuje sąd w postępowaniu nieprocesowym, na wniosek osoby zainteresowanej, prokuratora lub kierownika urzędu stanu cywilnego, jeżeli:
+
+- **1)** sprostowanie aktu stanu cywilnego jest niemożliwe na podstawie akt zbiorowych rejestracji stanu cywilnego lub innych aktów stanu cywilnego, o ile stwierdzają one zdarzenie wcześniejsze i dotyczą tej samej osoby lub jej wstępnych albo zagranicznych dokumentów stanu cywilnego, o których mowa w art. 35 ust. 2;
+- **2)** sprostowanie aktu stanu cywilnego przez kierownika urzędu stanu cywilnego nie jest możliwe wyłącznie na podstawie dokumentów wymienionych w pkt 1.
 
 **Art. 37.**
 
@@ -435,6 +465,9 @@ Art. 114–123. (pominięte)
 2. Postępowanie, o którym mowa w ust. 1, wszczyna się z urzędu lub na wniosek osoby, której akt dotyczy, osoby mającej w tym interes prawny lub prokuratora.
 
 **Art. 40.** Ustalenia treści aktu stanu cywilnego dokonuje sąd w postępowaniu nieprocesowym, jeżeli postanowił o sporządzeniu nowego aktu stanu cywilnego, albo na wniosek osoby zainteresowanej, prokuratora lub kierownika urzędu stanu cywilnego, jeżeli:
+
+- **1)** unieważniony akt stanu cywilnego ma być zastąpiony nowym aktem;
+- **2)** akt urodzenia lub akt małżeństwa nie został sporządzony i nie może go sporządzić kierownik urzędu stanu cywilnego.
 
 **Art. 41.**
 
@@ -501,7 +534,7 @@ Art. 114–123. (pominięte)
 
 **Art. 47.**
 
-1. Odpis skrócony aktu stanu cywilnego jest wydawany z urzędu w jednym egzemplarzu po sporządzeniu aktu urodzenia albo aktu zgonu osobie zgłaszającej zdarzenie oraz po sporządzeniu aktu małżeństwa osobom, które zawarły małżeństwo.
+1. Odpis skrócony aktu stanu cywilnego jest wydawany z urzędu w jednym egzemplarzu po sporządzeniu aktu urodzenia albo aktu zgonu – osobie zgłaszającej zdarzenie oraz po sporządzeniu aktu małżeństwa – osobom, które zawarły małżeństwo.
 
 2. Jeżeli zgon osoby nie został zarejestrowany w dniu jego zgłoszenia w związku z niedostępnością rejestru stanu cywilnego, niezwłocznie po dokonaniu jego rejestracji osobie zgłaszającej zgon są wydawane z urzędu 2 odpisy skrócone aktu zgonu.
 
@@ -532,7 +565,7 @@ Art. 114–123. (pominięte)
 - **1)** nazwisko, imię (imiona) oraz nazwisko rodowe, datę i miejsce urodzenia osoby zmarłej;
 - **2)** stan cywilny osoby zmarłej;
 - **3)** nazwisko, imię (imiona) oraz nazwisko rodowe małżonka osoby zmarłej, jeżeli w chwili śmierci pozostawała ona w związku małżeńskim;
-- **4)** datę, godzinę i miejsce zgonu albo jeżeli nie są znane datę, godzinę oraz miejsce znalezienia zwłok;
+- **4)** datę, godzinę i miejsce zgonu albo jeżeli nie są znane – datę, godzinę oraz miejsce znalezienia zwłok;
 - **5)** nazwiska rodowe i imiona rodziców osoby zmarłej.
 
 **Art. 49.**
@@ -565,13 +598,19 @@ Art. 114–123. (pominięte)
 
 **Art. 50.** Zaświadczenie o zamieszczonych lub niezamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby zawiera:
 
+- **1)** oznaczenie wnioskodawcy;
+- **2)** informację o sporządzonych aktach stanu cywilnego wskazanej osoby;
+- **3)** informację o zamieszczonych w rejestrze stanu cywilnego przypiskach przy akcie wskazanej osoby lub treść tych przypisków;
+- **4)** informację o zamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby lub treść tych danych, z wyłączeniem danych zawartych w akcie stanu cywilnego oraz danych zawartych w rejestrze uznań;
+- **5)** informację o niezamieszczeniu w rejestrze stanu cywilnego danych dotyczących wskazanej osoby lub przypisków przy akcie wskazanej osoby.
+
 **Art. 51.** Dokumenty z rejestru stanu cywilnego wydaje się przez okresy przechowywania aktów, o których mowa w art. 28 ust. 1 i 3, a także po upływie tych okresów, a przed przekazaniem aktów stanu cywilnego do właściwego archiwum państwowego.
 
 #### Rozdział 6 Rodzaje aktów stanu cywilnego
 
 **Art. 52.**
 
-1. Akt urodzenia sporządza się w dniu zgłoszenia urodzenia dziecka, a jeżeli zgłoszenie urodzenia nastąpiło w sposób określony w art. 17 albo w art. 58a w następnym dniu roboczym po dniu zgłoszenia urodzenia.
+1. Akt urodzenia sporządza się w dniu zgłoszenia urodzenia dziecka, a jeżeli zgłoszenie urodzenia nastąpiło w sposób określony w art. 17 albo w art. 58a – w następnym dniu roboczym po dniu zgłoszenia urodzenia.
 
 2. Jeżeli dziecko urodziło się martwe, nie sporządza się aktu zgonu, a sporządza się akt urodzenia z adnotacją, że dziecko urodziło się martwe.
 
@@ -601,7 +640,7 @@ Art. 114–123. (pominięte)
 
 **Art. 55.**
 
-1. Zgłoszenia urodzenia dziecka dokonuje się w terminie 21 dni od dnia sporządzenia karty urodzenia, a w przypadku gdy dziecko urodziło się martwe w terminie 3 dni od dnia sporządzenia karty martwego urodzenia.
+1. Zgłoszenia urodzenia dziecka dokonuje się w terminie 21 dni od dnia sporządzenia karty urodzenia, a w przypadku gdy dziecko urodziło się martwe – w terminie 3 dni od dnia sporządzenia karty martwego urodzenia.
 
 2. Jeżeli nie dokonano zgłoszenia urodzenia w terminie 21 dni od dnia sporządzenia karty urodzenia lub w terminie 3 dni od dnia sporządzenia karty martwego urodzenia, kierownik urzędu stanu cywilnego sporządza z urzędu akt urodzenia na podstawie karty urodzenia albo karty martwego urodzenia, z adnotacją o sporządzeniu aktu z urzędu, oraz informuje rodziców dziecka o jego sporządzeniu.
 
@@ -620,6 +659,18 @@ Art. 114–123. (pominięte)
 3. Zgłoszenie urodzenia dokumentuje się w formie protokołu, który jest podpisywany przez osobę zgłaszającą i kierownika urzędu stanu cywilnego.
 
 **Art. 58.** Protokół zgłoszenia urodzenia zawiera:
+
+- **1)** nazwiska, imiona oraz nazwiska rodowe, daty i miejsca urodzenia rodziców dziecka, numery PESEL rodziców dziecka, jeżeli zostały nadane;
+- **2)** oświadczenie o wyborze imienia lub imion dziecka;
+- **3)** nazwisko dziecka;
+- **4)** datę i miejsce urodzenia dziecka;
+- **5)** obywatelstwo dziecka;
+- **6)** obywatelstwo rodziców dziecka;
+- **7)** nazwisko i imię osoby zgłaszającej urodzenie oraz oznaczenie dokumentu tożsamości tej osoby;
+- **8)** miejsce sporządzenia aktu małżeństwa i oznaczenie tego aktu lub miejsce sporządzenia aktu urodzenia każdego z rodziców dziecka i oznaczenie tych aktów;
+- **9)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności;
+- **10)** adres do korespondencji osoby zgłaszającej urodzenie;
+- **11)** nazwisko i imię kierownika urzędu stanu cywilnego przyjmującego zgłoszenie.
 
 **Art. 58a.**
 
@@ -657,6 +708,13 @@ Art. 114–123. (pominięte)
 4. Kierownik urzędu stanu cywilnego odmawia przyjęcia oświadczenia o wyborze imienia lub imion dziecka, jeżeli wybrane imię lub imiona są w formie zdrobniałej lub mają charakter ośmieszający lub nieprzyzwoity lub nie wskazują na płeć dziecka, kierując się powszechnym znaczeniem imienia, i wybiera dziecku imię z urzędu, w formie decyzji administracyjnej podlegającej natychmiastowemu wykonaniu, z adnotacją zamieszczoną w akcie urodzenia o wyborze imienia z urzędu.
 
 **Art. 60.** Akt urodzenia zawiera:
+
+- **1)** nazwisko, imię (imiona) dziecka;
+- **2)** kraj, datę i miejsce urodzenia dziecka;
+- **3)** płeć dziecka;
+- **4)** nazwiska, imiona oraz nazwiska rodowe, daty i miejsca urodzenia rodziców dziecka;
+- **5)** nazwisko i imię osoby zgłaszającej urodzenie;
+- **6)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności.
 
 **Art. 61.**
 
@@ -705,7 +763,7 @@ Art. 114–123. (pominięte)
 
 7. Rejestracji oświadczenia o uznaniu ojcostwa w rejestrze uznań dokonuje kierownik urzędu stanu cywilnego, który przyjął oświadczenie.
 
-8. Oświadczenie o uznaniu ojcostwa złożone przed konsulem rejestruje kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia, a jeżeli uznanie następuje przed urodzeniem się dziecka kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia matki dziecka, a gdy rejestracja urodzenia matki nie nastąpiła na terytorium Rzeczypospolitej Polskiej kierownik urzędu stanu cywilnego właściwy dla miasta stołecznego Warszawy.
+8. Oświadczenie o uznaniu ojcostwa złożone przed konsulem rejestruje kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia, a jeżeli uznanie następuje przed urodzeniem się dziecka – kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia matki dziecka, a gdy rejestracja urodzenia matki nie nastąpiła na terytorium Rzeczypospolitej Polskiej – kierownik urzędu stanu cywilnego właściwy dla miasta stołecznego Warszawy.
 
 9. Konsul, bezpośrednio po przyjęciu oświadczeń niezbędnych do uznania ojcostwa, wydaje rodzicom, na piśmie utrwalonym w postaci papierowej, zaświadczenie potwierdzające uznanie ojcostwa, które zawiera:
 
@@ -737,7 +795,7 @@ Art. 114–123. (pominięte)
 
 2. Kierownik urzędu stanu cywilnego, który odmówił przyjęcia oświadczeń koniecznych do uznania ojcostwa, rejestruje tę odmowę w rejestrze uznań.
 
-3. Jeżeli odmawiającym jest konsul, odmowę w rejestrze uznań rejestruje kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia, a jeżeli uznanie następuje przed urodzeniem się dziecka kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia matki dziecka, a gdy rejestracja urodzenia matki nie nastąpiła na terytorium Rzeczypospolitej Polskiej kierownik urzędu stanu cywilnego właściwy dla miasta stołecznego Warszawy.
+3. Jeżeli odmawiającym jest konsul, odmowę w rejestrze uznań rejestruje kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia, a jeżeli uznanie następuje przed urodzeniem się dziecka – kierownik urzędu stanu cywilnego właściwy ze względu na miejsce sporządzenia aktu urodzenia matki dziecka, a gdy rejestracja urodzenia matki nie nastąpiła na terytorium Rzeczypospolitej Polskiej – kierownik urzędu stanu cywilnego właściwy dla miasta stołecznego Warszawy.
 
 **Art. 65.** Jeżeli uznanie ojcostwa nastąpiło przed urodzeniem się dziecka lub przed sporządzeniem aktu urodzenia albo gdy uznanie ojcostwa następuje przy sporządzeniu aktu urodzenia, akt urodzenia sporządza się jak dla dziecka, wobec którego zachodzi domniemanie, że pochodzi od męża matki.
 
@@ -879,10 +937,10 @@ Art. 114–123. (pominięte)
 4. Zapewnienie zawiera:
 
 - **1)** nazwiska i imiona osób zamierzających zawrzeć małżeństwo, ich nazwiska rodowe, jeżeli można je ustalić, stan cywilny, obywatelstwo, daty i miejsca urodzenia, numery PESEL, jeżeli zostały nadane, oraz oznaczenia przedstawionych dokumentów tożsamości;
-- **2)** jeżeli osoba zamierzająca zawrzeć małżeństwo pozostawała uprzednio w związku małżeńskim albo prawomocnie stwierdzono nieistnienie małżeństwa wskazanie miejsca zawarcia małżeństwa;
+- **2)** jeżeli osoba zamierzająca zawrzeć małżeństwo pozostawała uprzednio w związku małżeńskim albo prawomocnie stwierdzono nieistnienie małżeństwa – wskazanie miejsca zawarcia małżeństwa;
 - **3)** informację o wspólnych dzieciach osób zamierzających zawrzeć małżeństwo oraz oznaczenie ich aktów urodzenia i urzędu stanu cywilnego, w którym zostały sporządzone, jeżeli są znane;
 - **4)** nazwiska, imiona oraz nazwiska rodowe rodziców każdej z osób zamierzających zawrzeć małżeństwo;
-- **5)** jeżeli małżeństwo ma zostać zawarte w sposób określony w art. 1 § 2 i 3 Kodeksu rodzinnego i opiekuńczego oświadczenia o nazwisku (nazwiskach), które będą nosiły osoby zamierzające zawrzeć małżeństwo po jego zawarciu, oraz oświadczenia o nazwisku dzieci zrodzonych z tego małżeństwa;
+- **5)** jeżeli małżeństwo ma zostać zawarte w sposób określony w art. 1 § 2 i 3 Kodeksu rodzinnego i opiekuńczego – oświadczenia o nazwisku (nazwiskach), które będą nosiły osoby zamierzające zawrzeć małżeństwo po jego zawarciu, oraz oświadczenia o nazwisku dzieci zrodzonych z tego małżeństwa;
 - **6)** oświadczenie, że nie zachodzą przeszkody uniemożliwiające zawarcie małżeństwa określone w art. 10–15 Kodeksu rodzinnego i opiekuńczego;
 - **7)** informację o pouczeniu o odpowiedzialności karnej za złożenie fałszywego oświadczenia;
 - **8)** adres do korespondencji osób zamierzających zawrzeć małżeństwo;
@@ -900,17 +958,22 @@ Art. 114–123. (pominięte)
 
 10. Zezwolenia na zawarcie małżeństwa przed upływem terminu, o którym mowa w art. 4 Kodeksu rodzinnego i opiekuńczego, kierownik urzędu stanu cywilnego albo konsul udziela na piśmie.
 
-**Art. 77.** Obywatel polski, który zamierza wstąpić w związek małżeński, lecz nie posiada aktów stanu cywilnego sporządzonych w Rzeczypospolitej Polskiej, składa zagraniczny dokument stanu cywilnego lub inny dokument wydany w państwie, w którym nie jest prowadzona rejestracja stanu cywilnego, potwierdzający urodzenie, a jeżeli osoba pozostawała uprzednio w związku małżeńskim potwierdzający małżeństwo, wraz z dokumentem potwierdzającym ustanie lub unieważnienie tego małżeństwa albo dokumentem potwierdzającym stwierdzenie nieistnienia małżeństwa.
+**Art. 77.** Obywatel polski, który zamierza wstąpić w związek małżeński, lecz nie posiada aktów stanu cywilnego sporządzonych w Rzeczypospolitej Polskiej, składa zagraniczny dokument stanu cywilnego lub inny dokument wydany w państwie, w którym nie jest prowadzona rejestracja stanu cywilnego, potwierdzający urodzenie, a jeżeli osoba pozostawała uprzednio w związku małżeńskim – potwierdzający małżeństwo, wraz z dokumentem potwierdzającym ustanie lub unieważnienie tego małżeństwa albo dokumentem potwierdzającym stwierdzenie nieistnienia małżeństwa.
 
 **Art. 78.** Dokumentami potwierdzającymi ustanie, unieważnienie albo stwierdzenie nieistnienia małżeństwa są w szczególności:
+
+- **1)** odpis skrócony aktu zgonu lub odpis prawomocnego orzeczenia sądu o stwierdzeniu zgonu lub uznaniu za zmarłego poprzedniego małżonka;
+- **2)** odpis prawomocnego orzeczenia sądu o rozwodzie;
+- **3)** odpis prawomocnego orzeczenia sądu o unieważnieniu małżeństwa;
+- **4)** odpis prawomocnego orzeczenia sądu ustalającego nieistnienie małżeństwa.
 
 **Art. 79.**
 
 1. Cudzoziemiec zamierzający zawrzeć małżeństwo składa:
 
 - **1)** zapewnienie;
-- **2)** odpis aktu urodzenia, a jeżeli pozostawał uprzednio w związku małżeńskim odpis aktu małżeństwa z adnotacją o jego ustaniu, unieważnieniu albo stwierdzeniu jego nieistnienia, albo odpis aktu małżeństwa z dokumentem potwierdzającym jego ustanie lub unieważnienie albo dokumentem potwierdzającym stwierdzenie nieistnienia małżeństwa, jeżeli na podstawie pozostałych składanych dokumentów nie można ustalić danych niezbędnych do sporządzenia aktu małżeństwa;
-- **3)** dokument stwierdzający, że zgodnie z właściwym prawem może zawrzeć małżeństwo, chyba że na podstawie przepisów ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe (Dz. U. z 2023 r. poz. 503) jego możność zawarcia małżeństwa jest oceniana na podstawie prawa polskiego.
+- **2)** odpis aktu urodzenia, a jeżeli pozostawał uprzednio w związku małżeńskim – odpis aktu małżeństwa z adnotacją o jego ustaniu, unieważnieniu albo stwierdzeniu jego nieistnienia, albo odpis aktu małżeństwa z dokumentem potwierdzającym jego ustanie lub unieważnienie albo dokumentem potwierdzającym stwierdzenie nieistnienia małżeństwa, jeżeli na podstawie pozostałych składanych dokumentów nie można ustalić danych niezbędnych do sporządzenia aktu małżeństwa;
+- **3)** dokument stwierdzający, że zgodnie z właściwym prawem może zawrzeć małżeństwo, chyba że na podstawie przepisów ustawy z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe (Dz. U. z 2023 r. poz. 503) jego możność zawarcia małżeństwa jest oceniana na podstawie prawa polskiego.
 
 2. Jeżeli otrzymanie dokumentu, o którym mowa w ust. 1 pkt 3, napotyka trudne do przezwyciężenia przeszkody, sąd w postępowaniu nieprocesowym na wniosek cudzoziemca może go zwolnić od złożenia tego dokumentu. W postępowaniu o zwolnienie cudzoziemca od złożenia dokumentu sąd na podstawie właściwego prawa ustala, czy osoba ta może zawrzeć małżeństwo.
 
@@ -942,7 +1005,7 @@ Art. 114–123. (pominięte)
 
 **Art. 83.**
 
-1. Jeżeli małżeństwo ma być zawarte poza granicami Rzeczypospolitej Polskiej przez obywatela polskiego lub cudzoziemca, którego, zgodnie z przepisami ustawy z dnia 4 lutego 2011 r. Prawo prywatne międzynarodowe, możność zawarcia małżeństwa jest oceniana na podstawie prawa polskiego, mogą oni otrzymać na piśmie utrwalonym w postaci papierowej zaświadczenie stwierdzające, że zgodnie z prawem polskim mogą zawrzeć małżeństwo.
+1. Jeżeli małżeństwo ma być zawarte poza granicami Rzeczypospolitej Polskiej przez obywatela polskiego lub cudzoziemca, którego, zgodnie z przepisami ustawy z dnia 4 lutego 2011 r. – Prawo prywatne międzynarodowe, możność zawarcia małżeństwa jest oceniana na podstawie prawa polskiego, mogą oni otrzymać na piśmie utrwalonym w postaci papierowej zaświadczenie stwierdzające, że zgodnie z prawem polskim mogą zawrzeć małżeństwo.
 
 2. Osoba, o której mowa w ust. 1, przedstawia dokument tożsamości oraz składa do wybranego kierownika urzędu stanu cywilnego:
 
@@ -1022,7 +1085,7 @@ Art. 114–123. (pominięte)
 - **4)** nazwę i adres jednostki organizacyjnej kościoła lub związku wyznaniowego sporządzającego zaświadczenie oraz nazwisko i imię (imiona) osoby sporządzającej zaświadczenie;
 - **5)** informację według prawa jakiego kościoła lub związku wyznaniowego małżeństwo zostało zawarte.
 
-4. Jeżeli zaświadczenia, o których mowa w ust. 3, przekazane do urzędu stanu cywilnego jako przesyłka polecona nadana w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), zostały utracone przed dotarciem do wskazanego urzędu stanu cywilnego, kierownik tego urzędu zwraca się do duchownego o potwierdzenie treści utraconego zaświadczenia oraz dostarczenie dowodu nadania przesyłki.
+4. Jeżeli zaświadczenia, o których mowa w ust. 3, przekazane do urzędu stanu cywilnego jako przesyłka polecona nadana w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), zostały utracone przed dotarciem do wskazanego urzędu stanu cywilnego, kierownik tego urzędu zwraca się do duchownego o potwierdzenie treści utraconego zaświadczenia oraz dostarczenie dowodu nadania przesyłki.
 
 5. Kierownik urzędu stanu cywilnego sporządza akt małżeństwa, jeżeli stwierdzi, że zachowany został termin, o którym mowa w art. 8 § 3 Kodeksu rodzinnego i opiekuńczego. Jeżeli nie zachowano wskazanego terminu, kierownik urzędu stanu cywilnego odmawia sporządzenia aktu małżeństwa.
 
@@ -1053,7 +1116,7 @@ Art. 114–123. (pominięte)
 - **2)** wydania zaświadczenia o braku okoliczności wyłączających zawarcie małżeństwa,
 - **3)** wydania zezwolenia na zawarcie małżeństwa przed upływem miesiąca od dnia, kiedy osoby, które zamierzają je zawrzeć, złożyły kierownikowi urzędu stanu cywilnego zapewnienie,
 - **4)** sporządzenia aktu małżeństwa zawartego zgodnie z art. 1 § 2 i 3 Kodeksu rodzinnego i opiekuńczego,
-- **5)** wydania zaświadczenia stwierdzającego, że zgodnie z prawem polskim można zawrzeć małżeństwo zawiadamia on na piśmie utrwalonym w postaci papierowej lub w postaci elektronicznej osoby, których odmowa dokonania czynności dotyczy.
+- **5)** wydania zaświadczenia stwierdzającego, że zgodnie z prawem polskim można zawrzeć małżeństwo – zawiadamia on na piśmie utrwalonym w postaci papierowej lub w postaci elektronicznej osoby, których odmowa dokonania czynności dotyczy.
 
 2. W terminie 14 dni od dnia doręczenia zawiadomienia, o którym mowa w ust. 1, osoby, których czynność dotyczy, mogą złożyć wniosek na piśmie utrwalonym w postaci papierowej do sądu właściwego ze względu na siedzibę urzędu stanu cywilnego o rozstrzygnięcie, czy przyczyny odmowy wskazane w zawiadomieniu uzasadniają odmowę dokonania czynności.
 
@@ -1082,7 +1145,7 @@ Art. 114–123. (pominięte)
 
 **Art. 92.**
 
-1. Akt zgonu sporządza się w dniu, w którym dokonano zgłoszenia zgonu, a jeżeli zgłoszenie zgonu nastąpiło w sposób określony w art. 17 w następnym dniu roboczym po dniu zgłoszenia zgonu.
+1. Akt zgonu sporządza się w dniu, w którym dokonano zgłoszenia zgonu, a jeżeli zgłoszenie zgonu nastąpiło w sposób określony w art. 17 – w następnym dniu roboczym po dniu zgłoszenia zgonu.
 
 2. Akt zgonu sporządza się na podstawie karty zgonu oraz protokołu zgłoszenia zgonu.
 
@@ -1107,7 +1170,7 @@ Art. 114–123. (pominięte)
 2. Protokół zawiera:
 
 - **1)** dane osoby zmarłej, w tym jej nazwisko, nazwisko rodowe, imię (imiona), datę i miejsce urodzenia, stan cywilny, obywatelstwo i numer PESEL, jeżeli są znane zgłaszającemu zgon;
-- **2)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane datę, godzinę oraz miejsce znalezienia zwłok;
+- **2)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane – datę, godzinę oraz miejsce znalezienia zwłok;
 - **3)** nazwiska, nazwiska rodowe, imiona rodziców osoby zmarłej, jeżeli są znane;
 - **4)** nazwisko, nazwisko rodowe, imię (imiona), numer PESEL małżonka osoby zmarłej, o ile w chwili śmierci pozostawała ona w związku małżeńskim, jeżeli są znane;
 - **5)** nazwisko i imię (imiona) lub nazwę zgłaszającego zgon;
@@ -1124,7 +1187,7 @@ Art. 114–123. (pominięte)
 - **1)** nazwisko, nazwisko rodowe, imię (imiona), datę i miejsce urodzenia osoby zmarłej;
 - **2)** stan cywilny;
 - **3)** nazwisko, nazwisko rodowe, imię (imiona) małżonka osoby zmarłej, jeżeli w chwili śmierci pozostawała ona w związku małżeńskim;
-- **4)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane datę, godzinę oraz miejsce znalezienia zwłok;
+- **4)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane – datę, godzinę oraz miejsce znalezienia zwłok;
 - **5)** nazwiska, nazwiska rodowe, imiona rodziców osoby zmarłej;
 - **6)** nazwisko i imię lub nazwę zgłaszającego zgon;
 - **7)** nazwisko i imię biegłego lub tłumacza, jeżeli brał udział w czynności.
@@ -1172,7 +1235,7 @@ Art. 114–123. (pominięte)
 
 - **1)** nazwisko, imię (imiona), nazwisko rodowe osoby zmarłej, numer PESEL, jeżeli został nadany;
 - **2)** datę i miejsce urodzenia osoby zmarłej, jeżeli są znane;
-- **3)** datę i godzinę zgonu albo jeżeli nie są znane datę i godzinę znalezienia zwłok według miejsca zdarzenia;
+- **3)** datę i godzinę zgonu albo jeżeli nie są znane – datę i godzinę znalezienia zwłok według miejsca zdarzenia;
 - **4)** nazwiska, imiona i nazwiska rodowe rodziców, jeżeli są znane;
 - **5)** obywatelstwo osoby zmarłej, jeżeli jest znane;
 - **6)** stan cywilny osoby zmarłej i nazwisko, imię (imiona) i nazwisko rodowe małżonka osoby zmarłej, o ile w chwili śmierci pozostawała ona w związku małżeńskim, jeżeli są znane;
@@ -1198,7 +1261,7 @@ Art. 114–123. (pominięte)
 
 - **1)** nazwisko, imię (imiona), nazwisko rodowe osoby zmarłej, numer PESEL, jeżeli został nadany;
 - **2)** datę i miejsce urodzenia osoby zmarłej, jeżeli są znane;
-- **3)** datę i godzinę zgonu albo jeżeli nie są znane datę i godzinę znalezienia zwłok;
+- **3)** datę i godzinę zgonu albo jeżeli nie są znane – datę i godzinę znalezienia zwłok;
 - **4)** nazwiska, imiona i nazwiska rodowe rodziców, jeżeli są znane;
 - **5)** obywatelstwo osoby zmarłej, jeżeli jest znane;
 - **6)** stan cywilny osoby zmarłej i nazwisko, imię (imiona) i nazwisko rodowe małżonka osoby zmarłej, o ile w chwili śmierci pozostawała ona w związku małżeńskim, jeżeli są znane;
@@ -1241,7 +1304,7 @@ Art. 114–123. (pominięte)
 
 - **1)** nazwisko, imię (imiona), nazwisko rodowe osoby zmarłej, numer PESEL, jeżeli został nadany;
 - **2)** datę i miejsce urodzenia osoby zmarłej, jeżeli są znane;
-- **3)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane datę, godzinę i miejsce znalezienia zwłok;
+- **3)** datę, godzinę oraz miejsce zgonu albo jeżeli nie są znane – datę, godzinę i miejsce znalezienia zwłok;
 - **4)** imiona, nazwiska i nazwiska rodowe rodziców, jeżeli są znane;
 - **5)** stan cywilny osoby zmarłej, nazwisko i imię (imiona) małżonka osoby zmarłej, o ile w chwili śmierci pozostawała ona w związku małżeńskim, jeżeli są znane;
 - **6)** informację, na podstawie jakich dokumentów lub oświadczeń ustalono dane niezbędne do sporządzenia protokołu;
@@ -1296,9 +1359,13 @@ Art. 114–123. (pominięte)
 
 **Art. 107.** Kierownik urzędu stanu cywilnego odmawia dokonania transkrypcji, jeżeli:
 
+- **1)** dokument w państwie wystawienia nie jest uznawany za dokument stanu cywilnego lub nie ma mocy dokumentu urzędowego, lub nie został wydany przez właściwy organ, lub budzi wątpliwości co do jego autentyczności, lub potwierdza zdarzenie inne niż urodzenie, małżeństwo lub zgon;
+- **2)** zagraniczny dokument powstał w wyniku transkrypcji w państwie innym niż państwo zdarzenia;
+- **3)** transkrypcja byłaby sprzeczna z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej.
+
 **Art. 108.**
 
-1. Jeżeli orzeczenie sądu państwa obcego lub rozstrzygnięcie innego organu państwa obcego podlega uznaniu na podstawie przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, wiążących Rzeczpospolitą Polską wielostronnych i dwustronnych umów międzynarodowych lub prawa Unii Europejskiej, kierownik urzędu stanu cywilnego dołącza wzmiankę dodatkową do aktu stanu cywilnego lub zamieszcza przypisek przy tym akcie.
+1. Jeżeli orzeczenie sądu państwa obcego lub rozstrzygnięcie innego organu państwa obcego podlega uznaniu na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, wiążących Rzeczpospolitą Polską wielostronnych i dwustronnych umów międzynarodowych lub prawa Unii Europejskiej, kierownik urzędu stanu cywilnego dołącza wzmiankę dodatkową do aktu stanu cywilnego lub zamieszcza przypisek przy tym akcie.
 
 2. Kierownik urzędu stanu cywilnego może dołączyć wzmiankę dodatkową do aktu stanu cywilnego lub zamieścić przypisek przy tym akcie na podstawie innego dokumentu, niewymagającego uznania, pochodzącego od organu państwa obcego, jeżeli nie jest to sprzeczne z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej.
 
@@ -1341,6 +1408,8 @@ Art. 114–123. (pominięte)
 **Art. 113.** Jeżeli rejestracji urodzenia albo zgonu, które nastąpiły poza granicami Rzeczypospolitej Polskiej i nie zostały tam zarejestrowane, rejestracji urodzenia, zawarcia małżeństwa albo zgonu, które nastąpiły poza granicami Rzeczypospolitej Polskiej, jeżeli w państwie urodzenia, zawarcia małżeństwa albo zgonu nie jest prowadzona rejestracja stanu cywilnego, transkrypcji lub odtworzenia treści zagranicznego dokumentu stanu cywilnego dokonano w formie czynności materialno-technicznej, wydany odpis zupełny aktu stanu cywilnego uważa się za wydany na wniosek.
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 114–123.** (pominięte)
 
 #### Rozdział 9 Przepisy przejściowe i końcowe
 
@@ -1503,7 +1572,7 @@ Art. 114–123. (pominięte)
 
 9. Kierownik urzędu stanu cywilnego odmawia dokonania odtworzenia treści aktu stanu cywilnego, jeżeli na podstawie dokumentów, o których mowa w ust. 5, nie można ustalić, czy zdarzenie faktycznie nastąpiło, lub jeżeli przedłożony dokument wywołuje wątpliwości co do jego autentyczności.
 
-10. W sprawach o odtworzenie treści aktu stanu cywilnego, przenoszenia do rejestru stanu cywilnego wpisów z ksiąg stanu cywilnego prowadzonych przed dniem 1 stycznia 1946 r. i unieważnienia aktów stanu cywilnego przez wojewodę stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+10. W sprawach o odtworzenie treści aktu stanu cywilnego, przenoszenia do rejestru stanu cywilnego wpisów z ksiąg stanu cywilnego prowadzonych przed dniem 1 stycznia 1946 r. i unieważnienia aktów stanu cywilnego przez wojewodę stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 11. Jeżeli zachowały się akta zbiorowe rejestracji stanu cywilnego, odtworzenia treści aktu stanu cywilnego dokonuje się z urzędu, jeżeli jest to niezbędne do zapewnienia prawidłowej rejestracji stanu cywilnego.
 
@@ -1515,7 +1584,7 @@ Art. 114–123. (pominięte)
 
 3. Postępowania o uzupełnienie aktu zgonu o datę lub godzinę zgonu wszczęte i niezakończone przez kierownika urzędu stanu cywilnego przed dniem wejścia w życie niniejszej ustawy umarza się i przekazuje się do rozpatrzenia przez sąd.
 
-4. Akty stanu cywilnego cudzoziemców sporządzone przed dniem wejścia w życie niniejszej ustawy mogą zostać sprostowane na podstawie dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo, a akty stanu cywilnego dzieci cudzoziemców na podstawie dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo rodziców.
+4. Akty stanu cywilnego cudzoziemców sporządzone przed dniem wejścia w życie niniejszej ustawy mogą zostać sprostowane na podstawie dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo, a akty stanu cywilnego dzieci cudzoziemców – na podstawie dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo rodziców.
 
 5. Postępowania sądowe o sprostowanie aktu stanu cywilnego wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy są prowadzone na podstawie przepisów dotychczasowych.
 
@@ -1602,7 +1671,7 @@ Art. 114–123. (pominięte)
 - **1)** sporządzać akty stanu cywilnego w księgach stanu cywilnego w oparciu o dokumenty określone w niniejszej ustawie,
 - **2)** zamieszczać wzmianki w aktach stanu cywilnego i przypiski przy aktach stanu cywilnego sporządzonych w księgach stanu cywilnego,
 - **3)** wydawać z ksiąg stanu cywilnego odpisy zupełne i skrócone aktów stanu cywilnego oraz zaświadczenia,
-- **4)** wydawać zaświadczenia stanowiące podstawę sporządzenia aktu małżeństwa zawartego w sposób określony w art. 1 § 2 i 3 Kodeksu rodzinnego i opiekuńczego oraz zaświadczenia stwierdzające, że obywatel polski lub zamieszkały na terytorium Rzeczypospolitej Polskiej cudzoziemiec niemający obywatelstwa żadnego państwa, zgodnie z polskim prawem, może zawrzeć małżeństwo niedłużej niż do czasu przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego.
+- **4)** wydawać zaświadczenia stanowiące podstawę sporządzenia aktu małżeństwa zawartego w sposób określony w art. 1 § 2 i 3 Kodeksu rodzinnego i opiekuńczego oraz zaświadczenia stwierdzające, że obywatel polski lub zamieszkały na terytorium Rzeczypospolitej Polskiej cudzoziemiec niemający obywatelstwa żadnego państwa, zgodnie z polskim prawem, może zawrzeć małżeństwo – niedłużej niż do czasu przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego.
 
 2. Kierownik urzędu stanu cywilnego, który na zasadach określonych w ust. 1 sporządził akt stanu cywilnego albo zamieścił wzmiankę w akcie stanu cywilnego skutkującą koniecznością zamieszczenia wzmianki w innym akcie lub zamieszczenia przypisku przy innym akcie stanu cywilnego tej samej osoby, przekazuje odpis aktu stanu cywilnego właściwemu kierownikowi urzędu stanu cywilnego w terminie jednego dnia roboczego od dnia dokonania wpisu w księdze stanu cywilnego.
 
@@ -1620,7 +1689,7 @@ Art. 114–123. (pominięte)
 
 9. Jeżeli wniosek o zmianę imienia lub nazwiska, o którym mowa w art. 10 ust. 1 ustawy z dnia 17 października 2008 r. o zmianie imienia i nazwiska, w brzmieniu nadanym przez art. 120 niniejszej ustawy, złożono do kierownika urzędu stanu cywilnego, który nie przechowuje księgi stanu cywilnego, w której sporządzono akt niezbędny do dokonania czynności, kierownik ten występuje w terminie jednego dnia roboczego od dnia złożenia wniosku do właściwego kierownika urzędu stanu cywilnego o przekazanie odpisu aktu. Ust. 6 zdanie drugie stosuje się.
 
-10. Kierownik urzędu stanu cywilnego, który wydał decyzję o zmianie imienia lub nazwiska przesyła ją, w formie papierowej albo w formie dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, do kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci również do kierownika urzędu stanu cywilnego, który sporządził akty urodzenia dzieci.
+10. Kierownik urzędu stanu cywilnego, który wydał decyzję o zmianie imienia lub nazwiska przesyła ją, w formie papierowej albo w formie dokumentu elektronicznego przy wykorzystaniu środków komunikacji elektronicznej, na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, do kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci – również do kierownika urzędu stanu cywilnego, który sporządził akty urodzenia dzieci.
 
 11. Z opłaty skarbowej, o której mowa w ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej, zwolnione są trzy odpisy aktu stanu cywilnego wydawane na zasadach określonych w ust. 1, po sporządzeniu aktu stanu cywilnego w księdze stanu cywilnego. Zaświadczenia, o których mowa w ust. 1 pkt 3 i 4 podlegają opłacie skarbowej w wysokości obowiązującej przed dniem wejścia w życie niniejszej ustawy.
 
@@ -1638,7 +1707,11 @@ Art. 114–123. (pominięte)
 
 **Art. 147.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 58 ust. 1 ustawy uchylanej w art. 148 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 85 ust. 10 niniejszej ustawy, niedłużej jednak niż przez 12 miesięcy od dnia jej wejścia w życie.
 
-**Art. 148.** Traci moc ustawa z dnia 29 września 1986 r. Prawo o aktach stanu cywilnego (Dz. U. z 2011 r. poz. 1264 oraz z 2012 r. poz. 1529).
+**Art. 148.** Traci moc ustawa z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2011 r. poz. 1264 oraz z 2012 r. poz. 1529).
 
 **Art. 149.** Ustawa wchodzi w życie z dniem 1 marca 2015 r., z wyjątkiem:
+
+- **1)** art. 47 ust. 1, który wchodzi w życie z dniem 1 stycznia 2015 r.;
+- **2)** art. 53 ust. 2 i 3, art. 54 ust. 4 i 5, art. 114 w zakresie dodawanych w art. 11 ust. 3a–3e i ust. 4c oraz art. 123, które wchodzą w życie z dniem 1 stycznia 2024 r.
+
 

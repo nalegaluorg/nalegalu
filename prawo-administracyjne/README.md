@@ -2,11 +2,12 @@
 
 Akty prawne z dziedziny: **Prawo administracyjne**.
 
-Łącznie: **66** aktów
+Łącznie: **67** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
 | [WDU20260000720](WDU20260000720/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 | Obwieszczenie | obowiązujący |  |
+| [WDU20260000662](WDU20260000662/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 15 maja 2026 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000143](WDU20260000143/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001882](WDU20250001882/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o doradztwie podatkowym or | Ustawa | obowiązujący |  |
 | [WDU20250001691](WDU20250001691/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
@@ -73,4 +74,4 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU19870330186](WDU19870330186/index.md) | Ustawa z dnia 23 października 1987 r. o zmianie ustawy - Kodeks postępowani | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19870330186/orzecznictwo.md) |
 | [WDU19600300168](WDU19600300168/index.md) | Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19600300168/orzecznictwo.md) |
 
-*66 aktów • [← Powrót do spisu głównego](../README.md)*
+*67 aktów • [← Powrót do spisu głównego](../README.md)*

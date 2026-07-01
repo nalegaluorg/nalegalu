@@ -8,12 +8,10 @@ pos: 102
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu
 
 | Pole | Wartość |
 |---|---|
@@ -27,16 +25,18 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/102/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 27 stycznia 2022 r. o zmianie ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 375),
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 27 stycznia 2022 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 375),
 2) ustawą z dnia 28 kwietnia 2022 r. o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw (Dz. U. poz. 1283),
 3) ustawą z dnia 9 czerwca 2022 r. o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw (Dz. U. poz. 1259) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
-1) art. 2–7 ustawy z dnia 27 stycznia 2022 r. o zmianie ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 375), które stanowią: „Art. 2. Prezesowi Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazuje się do dalszego organizowania i prowadzenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, zwane dalej „Muzeum”.
+1) art. 2–7 ustawy z dnia 27 stycznia 2022 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 375), które stanowią: „Art. 2. Prezesowi Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazuje się do dalszego organizowania i prowadzenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, zwane dalej „Muzeum”.
 do dnia 31 lipca 1990 r.
-Art. 56–67. (pominięte)
 
 **Art. 3.** W terminie 30 dni od dnia wejścia w życie ustawy:
+
+- **1)** Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu nada Muzeum statut, o którym mowa w art. 53s ustawy zmienianej w art. 1;
+- **2)** nastąpi wykreślenie Muzeum z rejestru prowadzonego przez Ministra Sprawiedliwości i wpisanie go do rejestru prowadzonego przez Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 **Art. 4.**
 
@@ -49,7 +49,7 @@ Art. 56–67. (pominięte)
 
 - **3)** budowę dróg wewnętrznych i ciągów pieszych.
 
-2. Obiekty powstałe w wyniku realizacji inwestycji zostaną przeznaczone na potrzeby Muzeum lub Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. O szczegółowym przeznaczeniu obiektów decyduje Prezes Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+2. Obiekty powstałe w wyniku realizacji inwestycji zostaną przeznaczone na potrzeby Muzeum lub Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. O szczegółowym przeznaczeniu obiektów decyduje Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
 
 3. Nieruchomościami, na których powstaną obiekty, o których mowa w ust. 2, gospodaruje Muzeum.
 
@@ -57,19 +57,41 @@ Art. 56–67. (pominięte)
 
 5. Rada Ministrów zapewni i zagwarantuje środki z budżetu państwa na finansowanie wieloletniego projektu budowy Muzeum.
 
-**Art. 5.** W roku 2022 w celu realizacji ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia dotacji podmiotowej, w tym wynagrodzeń, oraz dotacji celowej z części budżetu 37 Sprawiedliwość rozdział 92118 Muzea do części budżetu 13 Instytut Pamięci Narodowej Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu, z przeznaczeniem na funkcjonowanie Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej oraz mając na względzie zapewnienie przejrzystości wydatków budżetu państwa i stopień ich realizacji. Do czasu wejścia w życie rozporządzenia wydatki mogą być realizowane w ramach dotychczasowych części, działów i rozdziałów.
+**Art. 5.** W roku 2022 w celu realizacji ustawy Prezes Rady Ministrów dokona, w drodze rozporządzenia, przeniesienia dotacji podmiotowej, w tym wynagrodzeń, oraz dotacji celowej z części budżetu 37 Sprawiedliwość rozdział 92118 – Muzea do części budżetu 13 Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu, z przeznaczeniem na funkcjonowanie Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej oraz mając na względzie zapewnienie przejrzystości wydatków budżetu państwa i stopień ich realizacji. Do czasu wejścia w życie rozporządzenia wydatki mogą być realizowane w ramach dotychczasowych części, działów i rozdziałów.
 
 **Art. 6.** Decyzja o pozwoleniu na budowę Muzeum, jak i decyzje o pozwoleniu na rozbiórkę poszczególnych elementów konstrukcyjnych na terenie objętym budową, wskazane w załączniku do ustawy, nie wygasają przed dniem 31 grudnia 2023 r.
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 6 i załącznika do ustawy, które wchodzą w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2022 r.”;
 
+- **2)** art. 6 ustawy z dnia 28 kwietnia 2022 r. o zmianie ustawy o służbie zagranicznej oraz niektórych innych ustaw (Dz. U. poz. 1283), który stanowi: „Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 5 oraz art. 4, które wchodzą w życie z dniem 1 stycznia 2023 r.;
+- **2)** art. 3, który wchodzi w życie z dniem 1 lipca 2022 r.”;
+- **3)** art. 19 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy o Sądzie Najwyższym oraz niektórych innych ustaw (Dz. U. poz. 1259), który stanowi: „Art. 19. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Mając na względzie: – zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu, – patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, – czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej, – obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych, – a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka, jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – stanowi się, co następuje:
+
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczenie, udostępnianie i publikowanie dokumentów organów bezpieczeństwa państwa, wytworzonych oraz gromadzonych od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., a także organów bezpieczeństwa Trzeciej Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich, dotyczących:
+    - **a)** popełnionych na osobach narodowości polskiej lub obywatelach polskich innych narodowości w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.: – zbrodni nazistowskich, – zbrodni komunistycznych, – zbrodni ukraińskich nacjonalistów i członków ukraińskich formacji kolaborujących z Trzecią Rzeszą Niemiecką, – innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne,
+    - **b)** innych represji z motywów politycznych, jakich dopuścili się funkcjonariusze polskich organów ścigania lub wymiaru sprawiedliwości albo osoby działające na ich zlecenie, a ujawnionych w treści orzeczeń zapadłych na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz. 1693),
+    - **c)** działalności organów bezpieczeństwa państwa, o których mowa w art. 5;
+
+- **1a)** opracowywanie, publikowanie i udostępnianie inwentarza archiwalnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+- **1b)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczanie, udostępnianie i publikowanie akt pracowników służby zagranicznej, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r., oraz dokumentów osobowych, które zostały wytworzone w okresie do dnia 31 grudnia 1990 r., przekazanych do archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przez ministra właściwego do spraw zagranicznych;
+- **1c)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczanie, udostępnianie i publikowanie dokumentów innych niż określone w pkt 1–1b, jeżeli ustawa tak stanowi;
+- **2)** tryb postępowania w zakresie ścigania przestępstw określonych w pkt 1 lit. a;
+- **2a)** ochronę dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego;
+- **2b)** przygotowywanie i publikowanie katalogów prowadzonych przez Biuro Lustracyjne;
+- **2c)** prowadzenie rejestrów oświadczeń lustracyjnych, analizę oświadczeń lustracyjnych oraz przygotowywanie postępowań lustracyjnych;
+- **3)** ochronę danych osobowych osób, których dotyczą dokumenty zgromadzone w archiwum Instytutu Pamięci;
+- **4)** prowadzenie działań w zakresie edukacji publicznej;
+- **5)** poszukiwanie miejsc spoczynku osób poległych w walkach o niepodległość i zjednoczenie Państwa Polskiego, a zwłaszcza tych, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.;
+- **6)** prowadzenie działalności związanej z upamiętnianiem historycznych wydarzeń, miejsc oraz postaci w dziejach walk i męczeństwa Narodu Polskiego, zarówno w kraju, jak i za granicą, a także miejsc walk i męczeństwa innych narodów na terytorium Rzeczypospolitej Polskiej, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
+
 **Art. 2.**
 
-1. Zbrodniami komunistycznymi, w rozumieniu ustawy, są czyny popełnione przez funkcjonariuszy państwa komunistycznego w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r. polegające na stosowaniu represji lub innych form naruszania praw człowieka wobec jednostek lub grup ludności bądź w związku z ich stosowaniem, stanowiące przestępstwa według polskiej ustawy karnej obowiązującej w czasie ich popełnienia. Zbrodniami komunistycznymi są również czyny popełnione przez tych funkcjonariuszy w okresie, o którym mowa w zdaniu poprzedzającym, zawierające znamiona czynów zabronionych określonych w art. 187, 193 lub 194 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. Kodeks karny albo art. 265 § 1, art. 266 § 1, 2 lub 4 lub art. 267 ustawy z dnia 19 kwietnia 1969 r. Kodeks karny, dokonane przeciwko dokumentom w rozumieniu art. 3 ust. 1 i 3 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459 i 1512) na szkodę osób, których te dokumenty dotyczą.
+1. Zbrodniami komunistycznymi, w rozumieniu ustawy, są czyny popełnione przez funkcjonariuszy państwa komunistycznego w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r. polegające na stosowaniu represji lub innych form naruszania praw człowieka wobec jednostek lub grup ludności bądź w związku z ich stosowaniem, stanowiące przestępstwa według polskiej ustawy karnej obowiązującej w czasie ich popełnienia. Zbrodniami komunistycznymi są również czyny popełnione przez tych funkcjonariuszy w okresie, o którym mowa w zdaniu poprzedzającym, zawierające znamiona czynów zabronionych określonych w art. 187, 193 lub 194 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. – Kodeks karny albo art. 265 § 1, art. 266 § 1, 2 lub 4 lub art. 267 ustawy z dnia 19 kwietnia 1969 r. – Kodeks karny, dokonane przeciwko dokumentom w rozumieniu art. 3 ust. 1 i 3 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459 i 1512) na szkodę osób, których te dokumenty dotyczą.
 
 2. Funkcjonariuszem państwa komunistycznego, w rozumieniu ustawy, jest funkcjonariusz publiczny, a także osoba, która podlegała ochronie równej ochronie funkcjonariusza publicznego, w szczególności funkcjonariusz państwowy oraz osoba pełniąca funkcję kierowniczą w organie statutowym partii komunistycznych.
 
@@ -84,7 +106,7 @@ Art. 56–67. (pominięte)
 1. Zbrodnie:
 
 - **1)** stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, o których mowa w art. 1 pkt 1 lit. a, oraz
-- **2)** komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości nie ulegają przedawnieniu.
+- **2)** komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości – nie ulegają przedawnieniu.
 
 1a. (uchylony) 1b. Do zbrodni komunistycznych, o których mowa w ust. 1 pkt 2, przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.
 
@@ -119,11 +141,14 @@ Art. 56–67. (pominięte)
 
 **Art. 7.** Dokumentami, w rozumieniu ustawy, są:
 
-#### Rozdział 2 Instytut Pamięci Narodowej Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu i jego organy
+- **1)** wszelkie nośniki informacji, niezależnie od formy przechowywania informacji, w tym w szczególności: akta, kartoteki, rejestry, pliki komputerowe, pisma, mapy, plany, filmy i inne nośniki obrazu, nośniki dźwięku i wszelkich innych form zapisu, a także kopie, odpisy i inne duplikaty tych nośników informacji;
+- **2)** niezbędne do analizy informacji środki pomocnicze, a w szczególności programy na użytek zautomatyzowanego przetwarzania danych.
+
+#### Rozdział 2 Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu i jego organy
 
 **Art. 8.**
 
-1. W celu realizacji zadań określonych w art. 1 tworzy się Instytut Pamięci Narodowej Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwany dalej „Instytutem Pamięci”.
+1. W celu realizacji zadań określonych w art. 1 tworzy się Instytut Pamięci Narodowej – Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwany dalej „Instytutem Pamięci”.
 
 2. Instytut Pamięci jest finansowany z budżetu państwa, w którym stanowi odrębną część.
 
@@ -230,7 +255,7 @@ Art. 56–67. (pominięte)
 
 2. Prezes Instytutu Pamięci może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 3, w trybie określonym w tym przepisie.
 
-3. W przypadku popełnienia przez Prezesa Instytutu Pamięci wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151 i 2311), przyjęcie przez Prezesa Instytutu Pamięci mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
+3. W przypadku popełnienia przez Prezesa Instytutu Pamięci wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151 i 2311), przyjęcie przez Prezesa Instytutu Pamięci mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
 
 4. Prezes Instytutu Pamięci nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
@@ -351,7 +376,7 @@ Art. 56–67. (pominięte)
 
 1. W celu wykonywania zadań Instytutu Pamięci w miejscowościach będących siedzibami sądów apelacyjnych tworzy się oddziały Instytutu Pamięci, zwane dalej „oddziałami”, w innych miastach zaś mogą być utworzone delegatury Instytutu Pamięci, zwane dalej „delegaturami”.
 
-2. Oddziałem Instytutu Pamięci kieruje dyrektor oddziału, a delegaturą Instytutu Pamięci naczelnik delegatury. Dyrektora oddziału oraz naczelnika delegatury powołuje i odwołuje Prezes Instytutu Pamięci.
+2. Oddziałem Instytutu Pamięci kieruje dyrektor oddziału, a delegaturą Instytutu Pamięci – naczelnik delegatury. Dyrektora oddziału oraz naczelnika delegatury powołuje i odwołuje Prezes Instytutu Pamięci.
 
 **Art. 18.**
 
@@ -464,13 +489,13 @@ Art. 56–67. (pominięte)
 
 1. Nie później niż w terminie 60 dni od dnia utworzenia Instytutu Pamięci organy, o których mowa niżej, są obowiązane przygotować do przekazania do archiwum Instytutu Pamięci dokumenty, zbiory danych, rejestry i kartoteki wytworzone oraz zgromadzone przez organy bezpieczeństwa państwa, organy więziennictwa, sądy i prokuratury oraz organy bezpieczeństwa III Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich. Obowiązek ten ciąży na:
 
-- **1)** Ministrze Spraw Wewnętrznych i Administracji oraz Szefie Urzędu Ochrony Państwa co do dokumentów, zbiorów danych, rejestrów i kartotek, a także akt funkcjonariuszy, wytworzonych lub gromadzonych w okresie do dnia 6 maja 1990 r.;
-- **2)** Ministrze Obrony Narodowej co do dokumentów, zbiorów danych, rejestrów i kartotek wojskowych organów bezpieczeństwa, a także akt funkcjonariuszy tych służb, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r.;
-- **3)** Ministrze Sprawiedliwości co do dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych oraz gromadzonych przez organy więziennictwa do dnia 31 grudnia 1956 r., dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych lub gromadzonych przez wydział ochrony Centralnego Zarządu Zakładów Karnych i podległe mu jednostki w okresie do dnia 31 grudnia 1989 r., a także akt penitencjarnych osób represjonowanych z motywów politycznych osadzonych w zakładach karnych, aresztach śledczych i obozach odosobnienia;
-- **4)** prezesach sądów powszechnych i wojskowych co do akt spraw osób represjonowanych z motywów politycznych;
-- **5)** prokuratorach kierujących powszechnymi jednostkami organizacyjnymi prokuratury co do akt spraw, w tym akt podręcznych spraw, o których mowa w pkt 4;
-- **6)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych co do akt byłej Polskiej Partii Robotniczej oraz byłej Polskiej Zjednoczonej Partii Robotniczej dotyczących organów bezpieczeństwa państwa, a także akt organów bezpieczeństwa państw okupacyjnych;
-- **7)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych co do dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w pkt 1–5, a przechowywanych w tych archiwach; przekazanie ich do Instytutu Pamięci następuje na zasadzie użyczenia.
+- **1)** Ministrze Spraw Wewnętrznych i Administracji oraz Szefie Urzędu Ochrony Państwa – co do dokumentów, zbiorów danych, rejestrów i kartotek, a także akt funkcjonariuszy, wytworzonych lub gromadzonych w okresie do dnia 6 maja 1990 r.;
+- **2)** Ministrze Obrony Narodowej – co do dokumentów, zbiorów danych, rejestrów i kartotek wojskowych organów bezpieczeństwa, a także akt funkcjonariuszy tych służb, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r.;
+- **3)** Ministrze Sprawiedliwości – co do dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych oraz gromadzonych przez organy więziennictwa do dnia 31 grudnia 1956 r., dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych lub gromadzonych przez wydział ochrony Centralnego Zarządu Zakładów Karnych i podległe mu jednostki w okresie do dnia 31 grudnia 1989 r., a także akt penitencjarnych osób represjonowanych z motywów politycznych osadzonych w zakładach karnych, aresztach śledczych i obozach odosobnienia;
+- **4)** prezesach sądów powszechnych i wojskowych – co do akt spraw osób represjonowanych z motywów politycznych;
+- **5)** prokuratorach kierujących powszechnymi jednostkami organizacyjnymi prokuratury – co do akt spraw, w tym akt podręcznych spraw, o których mowa w pkt 4;
+- **6)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych – co do akt byłej Polskiej Partii Robotniczej oraz byłej Polskiej Zjednoczonej Partii Robotniczej dotyczących organów bezpieczeństwa państwa, a także akt organów bezpieczeństwa państw okupacyjnych;
+- **7)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych – co do dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w pkt 1–5, a przechowywanych w tych archiwach; przekazanie ich do Instytutu Pamięci następuje na zasadzie użyczenia.
 
 2. Przekazanie akt, o których mowa w ust. 1 pkt 6, polega na dostarczeniu kopii.
 
@@ -485,7 +510,7 @@ Art. 56–67. (pominięte)
 - **5)** prokurator kierujący powszechną jednostką organizacyjną prokuratury,
 - **6)** dyrektor Archiwum Akt Nowych oraz innego archiwum państwowego,
 - **7)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego,
-- **8)** inne instytucje przekazują do archiwum Instytutu Pamięci dokumenty nieprzekazane.
+- **8)** inne instytucje – przekazują do archiwum Instytutu Pamięci dokumenty nieprzekazane.
 
 5. Minister Spraw Wewnętrznych i Administracji, Szef Urzędu Ochrony Państwa oraz Minister Obrony Narodowej mogą wykonać dla potrzeb urzędu kopie akt funkcjonariuszy pozostających w służbie, które powstały w okresach, o których mowa odpowiednio w ust. 1 pkt 1 lub 2.
 
@@ -495,7 +520,7 @@ Art. 56–67. (pominięte)
 
 1. Do archiwum Instytutu Pamięci przekazuje się dokumenty wytworzone w toku postępowań prowadzonych przez sądy w sprawach, o których mowa w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, z chwilą prawomocnego zakończenia postępowania w danej sprawie, z zastrzeżeniem ust. 2.
 
-2. Dokumenty wytworzone w toku postępowań prowadzonych przez sądy w sprawach, o których mowa w art. 17 ustawy wymienionej w ust. 1, przekazuje się po upływie terminu do wniesienia kasacji w danej sprawie, a jeśli kasacja została wniesiona po jej rozpatrzeniu. Z chwilą prawomocnego zakończenia postępowania w danej sprawie przekazuje się kopie tych dokumentów.
+2. Dokumenty wytworzone w toku postępowań prowadzonych przez sądy w sprawach, o których mowa w art. 17 ustawy wymienionej w ust. 1, przekazuje się po upływie terminu do wniesienia kasacji w danej sprawie, a jeśli kasacja została wniesiona – po jej rozpatrzeniu. Z chwilą prawomocnego zakończenia postępowania w danej sprawie przekazuje się kopie tych dokumentów.
 
 **Art. 26a.**
 
@@ -505,7 +530,7 @@ Art. 56–67. (pominięte)
 
 - **6)** 1. Do archiwum Instytutu Pamięci przekazuje się dokumenty:
 - **1)** wytworzone w toku postępowań prowadzonych przez sądy w sprawach innych niż określone w art. 26 i art. 26a dotyczące funkcjonariuszy państwa komunistycznego albo osób działających na ich zlecenie oskarżonych o zbrodnie komunistyczne popełnione od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.,
-- **2)** zawierające informacje o obsadzie personalnej, strukturach lub działalności organów bezpieczeństwa państwa i ich funkcjonariuszy w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. niezależnie od czasu ich wytworzenia.
+- **2)** zawierające informacje o obsadzie personalnej, strukturach lub działalności organów bezpieczeństwa państwa i ich funkcjonariuszy w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. – niezależnie od czasu ich wytworzenia.
 
 2. Dokumenty przekazuje się z chwilą prawomocnego zakończenia postępowania w danej sprawie.
 
@@ -598,7 +623,7 @@ Art. 56–67. (pominięte)
 - **1)** utrzymuje w mocy decyzję, o której mowa w art. 31 ust. 1;
 - **2)** uchyla decyzję, o której mowa w art. 31 ust. 1, i przekazuje sprawę do ponownego rozpatrzenia przez organ pierwszej instancji.
 
-2. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 1 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655, 1457 i 1855).
+2. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 1 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655, 1457 i 1855).
 
 3. (uchylony)
 
@@ -614,7 +639,7 @@ Art. 56–67. (pominięte)
 
 1. (uchylony)
 
-2. Każdy, kto uzyskał wgląd w dokumenty, o których mowa w art. 30 ust. 1, ma prawo na zasadach i w zakresie określonych w ustawie do uzyskania kopii tych dokumentów oraz prawo do zwrotu przedmiotów znajdujących się w archiwum Instytutu Pamięci, które w momencie utraty stanowiły jego własność lub były w jego posiadaniu.
+2. Każdy, kto uzyskał wgląd w dokumenty, o których mowa w art. 30 ust. 1, ma prawo – na zasadach i w zakresie określonych w ustawie – do uzyskania kopii tych dokumentów oraz prawo do zwrotu przedmiotów znajdujących się w archiwum Instytutu Pamięci, które w momencie utraty stanowiły jego własność lub były w jego posiadaniu.
 
 3. Dokumenty udostępnia się do wglądu w siedzibie oddziału Instytutu Pamięci właściwego ze względu na miejsce zamieszkania wnioskodawcy, chyba że we wniosku wskazał on inny oddział, w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w art. 30 ust. 1. Przepis art. 34 ust. 4 stosuje się odpowiednio.
 
@@ -656,13 +681,13 @@ Art. 56–67. (pominięte)
 
 **Art. 35a.**
 
-1. Wnioski, o których mowa w art. 30 ust. 1, art. 34 ust. 1 i 5, składa się osobiście w siedzibie Instytutu Pamięci, jego oddziałach i delegaturach lub za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza.
+1. Wnioski, o których mowa w art. 30 ust. 1, art. 34 ust. 1 i 5, składa się osobiście w siedzibie Instytutu Pamięci, jego oddziałach i delegaturach lub za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza.
 
 2. Osoba mająca stałe miejsce zamieszkania za granicą może złożyć wniosek osobiście w polskiej placówce konsularnej, przy czym podpis wnioskodawcy uwierzytelnia konsul. Wniosek taki może być również złożony za pośrednictwem operatora pocztowego, pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza lub inną osobę uprawnioną do uwierzytelniania podpisów zgodnie z prawem państwa, w którym ta czynność zostanie dokonana.
 
 3. Po złożeniu wniosku wnioskodawca może ustanowić pełnomocnika do realizacji przysługujących mu praw wynikających z ustawy.
 
-4. Uprawnienia wynikające z art. 30–35 i art. 35b może wykonywać osoba najbliższa zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, a w razie jej braku także krewny boczny do czwartego stopnia pokrewieństwa po złożeniu pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń oświadczenia o braku wiedzy o osobie najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego.
+4. Uprawnienia wynikające z art. 30–35 i art. 35b może wykonywać osoba najbliższa zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, a w razie jej braku – także krewny boczny do czwartego stopnia pokrewieństwa po złożeniu pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń oświadczenia o braku wiedzy o osobie najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego.
 
 5. Jeżeli realizacja praw wynikających z art. 30–35 i art. 35b następuje przez osobę, o której mowa w ust. 4, należy we właściwym wniosku wskazać imię i nazwisko osoby zmarłej, której praw on dotyczy.
 
@@ -695,7 +720,7 @@ Art. 56–67. (pominięte)
 
 - **1)** wykonywania zadań ustawowych;
 - **2)** prowadzenia badań naukowych;
-- **3)** publikacji materiału prasowego, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. z 2018 r. poz. 1914), z upoważnienia redakcji albo wydawcy.
+- **3)** publikacji materiału prasowego, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914), z upoważnienia redakcji albo wydawcy.
 
 2. Dokumenty, o których mowa w ust. 1, udostępnia się na pisemny wniosek, skierowany do dyrektora oddziału Instytutu Pamięci, właściwego ze względu na miejsce zamieszkania lub siedzibę wnioskodawcy.
 
@@ -708,12 +733,12 @@ Art. 56–67. (pominięte)
 
 4. Wniosek o udostępnienie dokumentów w celu, o którym mowa:
 
-- **1)** w ust. 1 pkt 1 powinien zawierać również podstawę prawną dotyczącą wykonywania zadań, o których mowa w ust. 1 pkt 1;
-- **2)** w ust. 1 pkt 2 powinien zawierać również:
+- **1)** w ust. 1 pkt 1 – powinien zawierać również podstawę prawną dotyczącą wykonywania zadań, o których mowa w ust. 1 pkt 1;
+- **2)** w ust. 1 pkt 2 – powinien zawierać również:
     - **a)** wskazanie tematu prowadzonych badań naukowych,
-    - **b)** rekomendację pracownika naukowego uprawnionego do prowadzenia badań naukowych w dyscyplinach nauk humanistycznych, społecznych, gospodarki lub prawa w przypadku osób niebędących takimi pracownikami;
+    - **b)** rekomendację pracownika naukowego uprawnionego do prowadzenia badań naukowych w dyscyplinach nauk humanistycznych, społecznych, gospodarki lub prawa – w przypadku osób niebędących takimi pracownikami;
 
-- **3)** w ust. 1 pkt 3 powinien zawierać również:
+- **3)** w ust. 1 pkt 3 – powinien zawierać również:
     - **a)** wskazanie tematu materiału prasowego,
     - **b)** załączone upoważnienie redakcji albo wydawcy do wystąpienia z wnioskiem.
 
@@ -736,7 +761,7 @@ Art. 56–67. (pominięte)
 
 10. Do decyzji Prezesa Instytutu Pamięci, o której mowa w ust. 9, stosuje się przepis ust. 7.
 
-11. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 9 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+11. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 9 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 12. Sąd administracyjny rozpoznaje skargę na posiedzeniu niejawnym.
 
@@ -825,8 +850,8 @@ Art. 56–67. (pominięte)
 
 1a. Prokuratorami bezpośrednio przełożonymi są:
 
-- **1)** Dyrektor Głównej Komisji w stosunku do prokuratorów pełniących czynności w tej Komisji oraz naczelników oddziałowych komisji;
-- **2)** naczelnicy oddziałowych komisji w stosunku do prokuratorów danej oddziałowej komisji.
+- **1)** Dyrektor Głównej Komisji – w stosunku do prokuratorów pełniących czynności w tej Komisji oraz naczelników oddziałowych komisji;
+- **2)** naczelnicy oddziałowych komisji – w stosunku do prokuratorów danej oddziałowej komisji.
 
 2. Polecenia Prokuratora Generalnego, wykraczające poza zakres zadań Instytutu Pamięci, mogą być wydawane prokuratorom Głównej Komisji i oddziałowych komisji tylko za zgodą Prezesa Instytutu Pamięci.
 
@@ -838,7 +863,7 @@ Art. 56–67. (pominięte)
 
 5. Wynagrodzenie prokuratorów Głównej Komisji określają przepisy o wynagrodzeniu prokuratorów Prokuratury Krajowej, zaś wynagrodzenie prokuratorów oddziałowych komisji określają przepisy o wynagrodzeniu prokuratorów prokuratury regionalnej. Wynagrodzenie to wraz ze związanymi z nim świadczeniami o charakterze osobowym finansowane jest ze środków Instytutu Pamięci.
 
-6. Do prokuratorów Instytutu Pamięci stosuje się, w sprawach nieuregulowanych ustawą, przepisy ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259).
+6. Do prokuratorów Instytutu Pamięci stosuje się, w sprawach nieuregulowanych ustawą, przepisy ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259).
 
 **Art. 48.** Prokurator oddziałowej komisji wydaje postanowienie o wszczęciu albo odmowie wszczęcia śledztwa w sprawie o zbrodnię, o której mowa w art. 1 pkt 1 lit. a, w terminie 3 miesięcy od otrzymania zawiadomienia o przestępstwie. Jeżeli osoba lub instytucja, która złożyła zawiadomienie, nie zostanie w ciągu 4 miesięcy od dnia jego złożenia powiadomiona o wszczęciu albo odmowie wszczęcia śledztwa, może wnieść zażalenie do prokuratora nadrzędnego.
 
@@ -852,7 +877,7 @@ Art. 56–67. (pominięte)
 
 **Art. 51.**
 
-1. Do zgromadzenia i kolegium prokuratorów Głównej Komisji stosuje się odpowiednio przepisy ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze o zgromadzeniu i kolegium prokuratury regionalnej.
+1. Do zgromadzenia i kolegium prokuratorów Głównej Komisji stosuje się odpowiednio przepisy ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze o zgromadzeniu i kolegium prokuratury regionalnej.
 
 2. W sprawach dyscyplinarnych prokuratorów Instytutu Pamięci orzekają:
 
@@ -860,7 +885,7 @@ Art. 56–67. (pominięte)
     - **a)** Sąd Dyscyplinarny w Instytucie Pamięci w składzie 3 członków,
     - **b)** Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych lub w sprawach, w których wniosek złożył Sąd Najwyższy;
 
-- **2)** w drugiej instancji Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego.
+- **2)** w drugiej instancji – Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego.
 
 3. Członków Sądu Dyscyplinarnego w Instytucie Pamięci wybiera, w ustalonej przez siebie liczbie, na okres 4 lat, zgromadzenie prokuratorów Głównej Komisji spośród prokuratorów Instytutu Pamięci. Sąd Dyscyplinarny w Instytucie Pamięci wybiera ze swego grona przewodniczącego.
 
@@ -885,6 +910,21 @@ Art. 56–67. (pominięte)
 #### Rozdział 5a Funkcje lustracyjne Instytutu Pamięci
 
 **Art. 52a.** Do zadań Biura Lustracyjnego należy w szczególności:
+
+- **1)** prowadzenie rejestru oświadczeń lustracyjnych, o których mowa w art. 7 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów;
+- **2)** analiza oświadczeń lustracyjnych oraz zbieranie informacji niezbędnych do prawidłowej ich oceny;
+- **3)** przygotowywanie postępowań lustracyjnych;
+- **4)** sygnalizowanie odpowiednim organom o niewywiązywaniu się organów pozasądowych z obowiązków nałożonych przez ustawę;
+- **5)** (utracił moc)
+- **6)** przygotowywanie i publikowanie na podstawie dokumentów zgromadzonych w archiwum Instytutu Pamięci katalogów zawierających dane osobowe pracowników, funkcjonariuszy i żołnierzy organów bezpieczeństwa państwa, ze wskazaniem stopnia służbowego zajmowanych stanowisk, oraz organów bezpieczeństwa państwa, w których pełnili służbę lub pracowali;
+- **7)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, wobec których zachowały się dokumenty świadczące o tym, że organy bezpieczeństwa państwa zbierały o nich informacje na podstawie celowo gromadzonych danych, w tym w sposób tajny, a wobec osób tych nie stwierdzono istnienia dokumentów świadczących, że byli pracownikami, funkcjonariuszami, żołnierzami organów bezpieczeństwa państwa lub współpracowali z organami bezpieczeństwa państwa; przed umieszczeniem w katalogu należy uzyskać zgodę osoby, której te dane dotyczą, a w przypadku śmierci tej osoby – zgodę osoby najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, od uzyskania zgody odstępuje się, jeżeli od chwili śmierci tej osoby minęło co najmniej 20 lat, a w przypadku bezsprzecznego ustalenia braku osób uprawnionych do wyrażenia zgody, umieszczenie w katalogu następuje na podstawie decyzji Prezesa Instytutu Pamięci;
+- **8)** przygotowywanie i publikowanie katalogów zawierających dane osobowe osób, które zajmowały kierownicze stanowiska w byłej Polskiej Partii Robotniczej i byłej Polskiej Zjednoczonej Partii Robotniczej oraz Zjednoczonym Stronnictwie Ludowym i Stronnictwie Demokratycznym, a także były członkami Rady Ministrów oraz pełniły funkcje sekretarzy i podsekretarza stanu państwa komunistycznego do dnia 23 sierpnia 1989 r. lub były w tym okresie kierownikami i zastępcami kierowników centralnych organów administracji państwowej, centralnych urzędów państwowych.
+
+**Art. 52aa.** Do zadań oddziałowego biura lustracyjnego należy w szczególności:
+
+- **1)** przygotowanie danych do rejestru, o którym mowa w art. 52a pkt 1;
+- **2)** realizacja zadań określonych w art. 52a pkt 2–4;
+- **3)** przygotowywanie katalogów, o których mowa w art. 52a pkt 5–8.
 
 **Art. 52b.**
 
@@ -911,7 +951,7 @@ Art. 56–67. (pominięte)
 
 - **1)** które na podstawie art. 7a ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów nie podają w oświadczeniu lustracyjnym informacji o pracy lub służbie w organach bezpieczeństwa państwa;
 - **2)** które składają oświadczenie lustracyjne na zasadach określonych w art. 11 ust. 4 ustawy wymienionej w pkt 1;
-- **3)** które na podstawie art. 3 ust. 1 i 2 ustawy z dnia 13 kwietnia 2007 r. o zmianie ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów i ustawy o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 561) nie podają w oświadczeniu lustracyjnym informacji o pracy lub służbie w organach bezpieczeństwa państwa;
+- **3)** które na podstawie art. 3 ust. 1 i 2 ustawy z dnia 13 kwietnia 2007 r. o zmianie ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów i ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 561) nie podają w oświadczeniu lustracyjnym informacji o pracy lub służbie w organach bezpieczeństwa państwa;
 - **4)** o których mowa w art. 4 ustawy wymienionej w pkt 3.
 
 **Art. 52c.** (utracił moc)
@@ -940,6 +980,9 @@ Art. 56–67. (pominięte)
 
 **Art. 52f.** Prokurator Biura Lustracyjnego, prokurator oddziałowego biura lustracyjnego oraz upoważnieni pracownicy Biura Lustracyjnego i oddziałowych biur lustracyjnych mają pełny dostęp do dokumentacji, ewidencji i pomocy informacyjnych, bez względu na formę ich utrwalenia, zgromadzonych lub wytworzonych do dnia 31 lipca 1990 r. przez:
 
+- **1)** Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Ministra Sprawiedliwości oraz ministra właściwego do spraw zagranicznych, a także przez podległe, podporządkowane lub nadzorowane przez nich organy i jednostki organizacyjne;
+- **2)** Szefa Agencji Bezpieczeństwa Wewnętrznego i Szefa Agencji Wywiadu.
+
 **Art. 52g.**
 
 1. Z zastrzeżeniem ust. 2 przepisy art. 47 i 51 stosuje się odpowiednio do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych, przy czym uprawnienia Dyrektora Głównej Komisji w stosunku do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych przysługują Dyrektorowi Biura Lustracyjnego.
@@ -949,6 +992,14 @@ Art. 56–67. (pominięte)
 #### Rozdział 6 Funkcje badawcze i edukacyjne Instytutu Pamięci
 
 **Art. 53.** Instytut Pamięci:
+
+- **1)** informuje społeczeństwo o strukturach i metodach działania instytucji, w ramach których zostały popełnione zbrodnie przeciwko Narodowi Polskiemu, oraz informuje o strukturach, obsadzie personalnej i sposobach działania organów bezpieczeństwa państwa;
+- **2)** prowadzi badania naukowe nad porozbiorową i najnowszą historią Polski, w tym historią polskiej emigracji oraz historią polskiego dziedzictwa kulturowego na Wschodzie, a także udostępnia zgromadzone dokumenty innym placówkom naukowym i osobom w celu prowadzenia takich badań, z zachowaniem warunków określonych w ustawie;
+- **3)** udziela informacji na temat zgromadzonych dokumentów oraz publikuje wydawnictwa naukowe i popularnonaukowe, w tym inwentarze archiwalne;
+- **4)** upowszechnia w kraju i za granicą wyniki swojej pracy oraz badań innych instytucji, organizacji i osób nad problematyką stanowiącą przedmiot jego działania;
+- **5)** prowadzi działalność edukacyjną, wystawienniczą i wydawniczą w kraju i za granicą, w tym w zakresie porozbiorowej i najnowszej historii Polski;
+- **6)** formułuje wnioski dotyczące edukacji historycznej;
+- **7)** informuje społeczeństwo o odnalezionych miejscach spoczynku i o tożsamości osób poległych w walkach o niepodległość i zjednoczenie Państwa Polskiego, a zwłaszcza tych, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r., a także o ich działalności niepodległościowej i okolicznościach śmierci.
 
 **Art. 53a.**
 
@@ -1033,7 +1084,7 @@ Art. 56–67. (pominięte)
 - **1)** grupie uczelni medycznych lub
 - **2)** grupie uczelni prowadzących działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, lub
 - **3)** grupie innych podmiotów uprawnionych do prowadzenia badań porównawczych materiału genetycznego na podstawie odrębnych przepisów, lub
-- **4)** grupie składającej się z uczelni i podmiotów wymienionych w pkt 1–3 powołanej na podstawie umowy do realizacji tych zadań.
+- **4)** grupie składającej się z uczelni i podmiotów wymienionych w pkt 1–3 – powołanej na podstawie umowy do realizacji tych zadań.
 
 10. Zmiany w składzie grupy, o której mowa w ust. 9, wymagają uzyskania zgody Prezesa Instytutu Pamięci.
 
@@ -1077,6 +1128,22 @@ Art. 56–67. (pominięte)
 
 **Art. 53k.** Wykonywanie zadań określonych w art. 53j ust. 1 następuje w szczególności przez:
 
+- **1)** zajmowanie stanowisk, wydawanie opinii oraz występowanie z wnioskami w sprawach opieki nad miejscami walk i męczeństwa oraz trwałego upamiętniania związanych z tymi miejscami faktów, wydarzeń i postaci;
+- **2)** występowanie z wnioskami oraz współdziałanie z właściwymi organami państwowymi, organami jednostek samorządu terytorialnego i zainteresowanymi organizacjami społecznymi w organizowaniu obchodów i uroczystości, inicjowanie wydawnictw i organizowanie wystaw upamiętniających miejsca walk i męczeństwa oraz związane z nimi historyczne wydarzenia i postacie;
+- **3)** przedstawianie, za pośrednictwem środków masowego przekazu, publikacji popularyzujących miejsca, wydarzenia i postacie związane z walką i męczeństwem, a także podejmowanie innych przedsięwzięć upowszechniających pamięć walk i męczeństwa;
+- **4)** współpracę, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz z ministrem właściwym do spraw zagranicznych, z zagranicznymi instytucjami zajmującymi się upamiętnianiem i otaczaniem opieką miejsc walk i męczeństwa Polaków w innych krajach oraz miejsc walk i męczeństwa innych narodów na terytorium Rzeczypospolitej Polskiej;
+- **5)** współpracę, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, ze środowiskami i organizacjami emigracyjnymi, polonijnymi oraz polskimi poza granicami Rzeczypospolitej Polskiej, a także przedstawicielstwami dyplomatycznymi i urzędami konsularnymi w zakresie:
+    - **a)** sprawowania opieki nad miejscami walk i męczeństwa Narodu Polskiego za granicą, zwłaszcza polskimi cmentarzami wojennymi,
+    - **b)** upamiętniania polskich wydarzeń historycznych mających miejsce poza granicami Rzeczypospolitej Polskiej oraz wybitnych polskich postaci poległych lub zmarłych poza granicami Rzeczypospolitej Polskiej,
+    - **c)** poszukiwania i upamiętniania miejsc męczeństwa Polaków oraz miejsc ich pochówków poza granicami Rzeczypospolitej Polskiej,
+    - **d)** ekshumacji i przeniesienia szczątków Polaków poległych bądź pomordowanych za granicą na cmentarze i kwatery wojenne w Polsce;
+
+- **6)** współpracę ze szkołami i innymi placówkami oświatowymi i kulturalnymi w zakresie tworzenia izb pamięci narodowej;
+- **7)** współpracę z organami jednostek samorządu terytorialnego, organizacjami harcerskimi, turystycznymi i innymi zainteresowanymi organizacjami społecznymi w tworzeniu i promowaniu szlaków pamięci narodowej;
+- **8)** popieranie tworzenia regionalnych lub lokalnych muzeów walki o niepodległość;
+- **9)** finansowanie i przeprowadzanie prac mających na celu trwałe upamiętnienie faktów, wydarzeń i postaci związanych z miejscami walk i męczeństwa podejmowanych z inicjatywy własnej;
+- **10)** realizowanie zadań, o których mowa w ustawie z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529).
+
 **Art. 53l.** Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii Prezesa Instytutu Pamięci.
 
 **Art. 53m.**
@@ -1097,7 +1164,7 @@ Art. 56–67. (pominięte)
 
 #### Rozdział 6c Ochrona dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego
 
-**Art. 53o.** Do ochrony dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego odpowiednie zastosowanie mają przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) o ochronie dóbr osobistych. Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć organizacja pozarządowa w zakresie swoich zadań statutowych. Odszkodowanie lub zadośćuczynienie przysługują Skarbowi Państwa.
+**Art. 53o.** Do ochrony dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego odpowiednie zastosowanie mają przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) o ochronie dóbr osobistych. Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć organizacja pozarządowa w zakresie swoich zadań statutowych. Odszkodowanie lub zadośćuczynienie przysługują Skarbowi Państwa.
 
 **Art. 53p.** Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć również Instytut Pamięci Narodowej. W sprawach tych Instytut Pamięci Narodowej ma zdolność sądową.
 
@@ -1144,11 +1211,13 @@ Art. 56–67. (pominięte)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
+**Art. 56–67.** (pominięte)
+
 **Art. 68.**
 
-1. Zasób archiwalny dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu Instytutu Pamięci Narodowej oraz komisji okręgowych staje się zasobem archiwalnym Instytutu Pamięci.
+1. Zasób archiwalny dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytutu Pamięci Narodowej oraz komisji okręgowych staje się zasobem archiwalnym Instytutu Pamięci.
 
-2. Mienie dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu Instytutu Pamięci Narodowej oraz komisji okręgowych staje się mieniem Instytutu Pamięci.
+2. Mienie dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytutu Pamięci Narodowej oraz komisji okręgowych staje się mieniem Instytutu Pamięci.
 
 **Art. 69.** W sprawach nieuregulowanych w ustawie a dotyczących zatrudnionych w Instytucie Pamięci pracowników naukowych, stosuje się przepisy ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323) .
 
@@ -1156,7 +1225,7 @@ Art. 56–67. (pominięte)
 
 **Art. 71.** W działalności Instytutu Pamięci określonej w art. 1 przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1) stosuje się do prowadzenia Bazy.
 
-**Art. 72.** Traci moc ustawa z dnia 6 kwietnia 1984 r. o Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu Instytucie Pamięci Narodowej (Dz. U. poz. 98 oraz z 1991 r. poz. 195).
+**Art. 72.** Traci moc ustawa z dnia 6 kwietnia 1984 r. o Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytucie Pamięci Narodowej (Dz. U. poz. 98 oraz z 1991 r. poz. 195).
 
 **Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . (utracił moc)
 
