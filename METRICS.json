@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-01T20:50:46Z",
+  "generated_at": "2026-07-01T21:10:33Z",
   "acts": {
-    "published": 19250,
-    "rejected": 426,
+    "published": 19209,
+    "rejected": 411,
     "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 589613872,
-    "total_articles": 215805,
-    "avg_body_chars": 30629,
-    "avg_articles": 11.2
+    "total_body_chars": 580174472,
+    "total_articles": 209413,
+    "avg_body_chars": 30203,
+    "avg_articles": 10.9
   },
   "sources": {
-    "pdf": 19006,
+    "pdf": 18965,
     "eli-html": 242,
     "unknown": 2
   },
   "act_types": {
     "Rozporządzenie": 10323,
     "Ustawa": 4841,
-    "Obwieszczenie": 2316,
+    "Obwieszczenie": 2275,
     "Orzeczenie": 1373,
     "Umowa międzynarodowa": 329,
     "Protokół": 18,
@@ -38,35 +38,34 @@
     "akt objęty tekstem jednolitym": 5064,
     "akt posiada tekst jednolity": 1887,
     "nieobowiązujący - uchylona podstawa prawna": 514,
-    "wygaśnięcie aktu": 41,
     "akt jednorazowy": 10
   },
   "domains": {
-    "inne": 18364,
-    "prawo-podatkowe": 193,
+    "inne": 18331,
+    "prawo-podatkowe": 190,
     "prawo-karne": 159,
     "prawo-cywilne": 142,
-    "prawo-administracyjne": 68,
-    "prawo-pracy": 67,
+    "prawo-administracyjne": 66,
+    "prawo-pracy": 66,
     "prawo-ochrony-srodowiska": 65,
-    "prawo-budowlane": 44,
+    "prawo-budowlane": 43,
     "prawo-energetyczne": 35,
     "prawo-bankowe": 28,
     "prawo-handlowe": 25,
     "prawo-zamowien": 19,
-    "prawo-upadlosciowe": 18,
+    "prawo-upadlosciowe": 17,
     "prawo-ochrony-danych": 8,
     "prawo-morskie": 7,
     "prawo-telekomunikacyjne": 6,
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 717,
+    "quality_gate_blocked": 696,
     "original_pdf_for_unified_skipped": 4941,
-    "consolidated_article_coverage_checked": 634,
-    "consolidated_article_coverage_with_gaps": 425,
-    "consolidated_article_coverage_unexplained_gaps": 9678,
+    "consolidated_article_coverage_checked": 632,
+    "consolidated_article_coverage_with_gaps": 424,
+    "consolidated_article_coverage_unexplained_gaps": 9677,
     "rejected_scans": 1,
-    "rejected_other": 425
+    "rejected_other": 410
   }
 }

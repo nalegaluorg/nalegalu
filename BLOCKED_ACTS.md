@@ -2,14 +2,11 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 409 aktów
+**Łącznie:** 392 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
-| WDU19480270183 | Ustawa z dnia 28 kwietnia 1948 r. o zmianie ustawy z dnia 28… |  |
-| WDU19490410294 | Ustawa z dnia 1 lipca 1949 r. o obowiązku uczestniczenia w o… | rendered round-trip failed: AST=14 rendered=0 missing_render |
 | WDU19570390174 | Ustawa z dnia 13 lipca 1957 r. o zmianie dekretu z dnia 18 k… | rendered round-trip failed: AST=7 rendered=0 missing_rendere |
-| WDU19600290167 | Ustawa z dnia 14 czerwca 1960 r. o zmianie dekretu z dnia 26… | missing article structure — act type requires Art. markers b |
 | WDU19710270252 | Ustawa z dnia 26 października 1971 r. zmieniająca ustawę Kod… | rendered round-trip failed: AST=4 rendered=13 missing_render |
 | WDU19820110082 | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks pos… | missing article structure — act type requires Art. markers b |
 | WDU19840340184 | Ustawa z dnia 3 lipca 1984 r. zmieniająca ustawę o wychowani… | missing article structure — act type requires Art. markers b |
@@ -34,7 +31,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19900730431 | Ustawa z dnia 19 lipca 1990 r. o zmianie ustawy o wychowaniu… | missing article structure — act type requires Art. markers b |
 | WDU19900790466 | Ustawa z dnia 8 listopada 1990 r. o zmianie ustawy o nabywan… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19911030448 | Ustawa z dnia 11 października 1991 r. o zmianie ustawy o ube… | missing article structure — act type requires Art. markers b |
-| WDU19911170511 | Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 5 g… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19920580280 | Ustawa z dnia 20 czerwca 1992 r. o zmianie ustawy o ubezpiec… | missing article structure — act type requires Art. markers b |
 | WDU19930050022 | Ustawa z dnia 12 grudnia 1993 r. o zmianie ustawy o Trybunal… | rendered round-trip failed: AST=5 rendered=1 missing_rendere |
 | WDU19930470212 | Ustawa z dnia 28 kwietnia 1993 r. o zmianie ustawy o drogach… | character-spaced text — 2 line(s) with >30% single-letter wo |
@@ -43,7 +39,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19941360704 | Ustawa z dnia 2 grudnia 1994 r. o zmianie ustawy o pracownik… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19950660335 | Ustawa z dnia 30 marca 1995 r. o zmianie ustawy o radiofonii… | missing article structure — act type requires Art. markers b |
 | WDU19950850426 | Ustawa z dnia 22 czerwca 1995 r. o zmianie ustawy o organiza… | missing article structure — act type requires Art. markers b |
-| WDU19951110539 | Uchwała Trybunału Konstytucyjnego z dnia 5 września 1995 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19960010001 | Ustawa z dnia 30 listopada 1995 r. o zmianie ustawy o zaopat… | missing article structure — act type requires Art. markers b |
 | WDU19960060041 | Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19960450198 | Ustawa z dnia 15 marca 1996 r. o zmianie ustawy o nabywaniu … | rendered round-trip failed: AST=11 rendered=8 missing_render |
@@ -59,7 +54,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19981621124 | Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o samorząd… | source article inventory failed: eli-html=0 AST=11 dup_ast=1… |
 | WDU19990130114 | Rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w spra… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19990400401 | Ustawa z dnia 10 kwietnia 1999 r. o zmianie ustawy o usługac… | source article inventory failed: eli-html=0 AST=14 dup_ast=3… |
-| WDU19990410418 | Rozporządzenie Ministra Finansów z dnia 7 maja 1999 r. w spr… | excessive repetition — '.................................... |
 | WDU19991011182 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 1999 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20001131186 | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o rachunk… | rendered round-trip failed: AST=47 rendered=47 low_sim=1 FAI… |
 | WDU20001141190 | Ustawa z dnia 16 listopada 2000 r. o zmianie ustawy o gwaran… | rendered round-trip failed: AST=7 rendered=9 extra_rendered= |
@@ -95,7 +89,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20112401437 | Wyrok Trybunału Konstytucyjnego z dnia 18 października 2011 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20120000066 | Rozporządzenie Ministra Sprawiedliwości z dnia 3 stycznia 20… | excessive repetition — '.................................... |
 | WDU20120000070 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
-| WDU20120000072 | Rozporządzenie Ministra Obrony Narodowej z dnia 4 stycznia 2… | excessive repetition — '.................................... |
 | WDU20120000077 | Wyrok Trybunału Konstytucyjnego z dnia 10 stycznia 2012 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20120000184 | Rozporządzenie Ministra Edukacji Narodowej z dnia 7 lutego 2… | excessive repetition — '1) efekty kształcenia wspólne dla ws |
 | WDU20120000185 | Rozporządzenie Ministra Finansów z dnia 9 lutego 2012 r. w s… | CID font encoding failure — unreadable glyphs (2 occurrence( |
@@ -112,27 +105,20 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20120000916 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 3 sierpnia… | excessive repetition — '.................................... |
 | WDU20120000925 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 7 sierpnia… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20120000943 | Rozporządzenie Ministra Obrony Narodowej z dnia 3 sierpnia 2… | excessive repetition — '.................................... |
-| WDU20120001264 | Rozporządzenie Rady Ministrów z dnia 25 października 2012 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000057 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130000185 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 st… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000200 | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 13… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000337 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | excessive repetition — '. .................................. |
-| WDU20130000343 | Rozporządzenie Ministra Gospodarki i Ministra Spraw Wewnętrz… | excessive repetition — '.................................... |
-| WDU20130000352 | Rozporządzenie Ministra Finansów z dnia 6 marca 2013 r. zmie… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000361 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130000540 | Rozporządzenie Ministra Zdrowia z dnia 8 maja 2013 r. zmieni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000809 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20130000924 | Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 30… | excessive repetition — '.................................... |
 | WDU20130001246 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 paździe… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130001413 | Rozporządzenie Ministra Zdrowia z dnia 6 listopada 2013 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130001576 | Rozporządzenie Ministra Spraw Zagranicznych z dnia 2 grudnia… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130001619 | Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 26… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130001674 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | excessive repetition — '.................................... |
 | WDU20140000324 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000503 | Obwieszczenie Prezesa Rady Ministrów z dnia 28 lutego 2014 r… | excessive repetition — '.................................... |
 | WDU20140000588 | Rozporządzenie Ministra Gospodarki z dnia 30 kwietnia 2014 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000606 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 k… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20140001083 | Obwieszczenie Ministra Obrony Narodowej z dnia 21 maja 2014 … | excessive repetition — '.................................... |
 | WDU20140001127 | Rozporządzenie Ministra Finansów z dnia 8 sierpnia 2014 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001245 | Rozporządzenie Ministra Zdrowia z dnia 11 września 2014 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001593 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 w… | character-spaced text — 2 line(s) with >30% single-letter wo |
@@ -145,11 +131,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20150000048 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 9 gr… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150000148 | Obwieszczenie Ministra Infrastruktury i Rozwoju z dnia 15 gr… | character-spaced text — 11 line(s) with >30% single-letter w |
 | WDU20150000561 | Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2015 r… | character-spaced text — 28 line(s) with >30% single-letter w… |
-| WDU20150000743 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150000749 | Rozporządzenie Ministra Obrony Narodowej z dnia 8 maja 2015 … | excessive repetition — '.................................... |
 | WDU20150000796 | Rozporządzenie Ministra Środowiska z dnia 11 maja 2015 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150000903 | Rozporządzenie Ministra Środowiska z dnia 9 czerwca 2015 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150000948 | Rozporządzenie Ministra Obrony Narodowej z dnia 23 czerwca 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150001077 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 13 l… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150001170 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 li… | excessive repetition — '5) zużycie materiałów i energia' app |
 | WDU20150001209 | Rozporządzenie Ministra Sprawiedliwości z dnia 19 sierpnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -177,7 +161,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20170000093 | Rozporządzenie Ministra Sprawiedliwości z dnia 11 stycznia 2… | excessive repetition — '.................................... |
 | WDU20170000462 | Rozporządzenie Ministra Sprawiedliwości z dnia 24 lutego 201… | excessive repetition — '.................................... |
 | WDU20170000721 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 16 marca 2… | excessive repetition — '……………………………………………………………………………………………… |
-| WDU20170000822 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170000852 | Rozporządzenie Ministra Zdrowia z dnia 24 kwietnia 2017 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170001118 | Rozporządzenie Ministra Energii z dnia 23 listopada 2016 r. … | character-spaced text — 7 line(s) with >30% single-letter wo… |
 | WDU20170001155 | Rozporządzenie Ministra Edukacji Narodowej z dnia 18 maja 20… | character-spaced text — 106 line(s) with >30% single-letter  |
