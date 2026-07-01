@@ -66,7 +66,7 @@ Acts excluded from publication due to quality issues. Total: 426
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20021411183 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20021411183 | unclosed amendment quotation for unknown articles |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in A |

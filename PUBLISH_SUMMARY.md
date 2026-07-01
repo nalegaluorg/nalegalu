@@ -1,17 +1,17 @@
 # Publish Summary
 
-Generated: 2026-07-01 18:07 UTC
+Generated: 2026-07-01 20:50 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 19250 |
-| Updated/new | 813 |
-| Unchanged | 11411 |
+| Updated/new | 41 |
+| Unchanged | 12167 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 6395 |
-| Blocked by quality gate | 698 |
+| Skipped regressions | 6392 |
+| Blocked by quality gate | 717 |
 | Rejected (total incl. errors) | 426 |
 | Total in DB | 19676 |
 
@@ -29,10 +29,10 @@ Generated: 2026-07-01 18:07 UTC
 | Issue type | Count |
 |------------|-------|
 | character-spaced | 244 |
-| pipeline error | 201 |
+| pipeline error | 221 |
 | repetition | 117 |
 | article structure | 78 |
-| CID font | 71 |
+| CID font | 70 |
 | PostScript CE | 5 |
 | other | 2 |
 | missing diacritics | 1 |
@@ -149,7 +149,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | Original PDF candidate for unified act | 4941 |
 
-## Blocked acts (698)
+## Blocked acts (717)
 
 | Address | Issues |
 |---------|--------|
@@ -242,6 +242,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19940530215 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19940620265 | missing Polish diacritics — only 8 in 1634 letters (0.49%) — likely ASCII-only extraction or wrong encoding |
 | WDU19940680294 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19940860396 | unclosed amendment quotation for unknown articles |
 | WDU19940870406 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19941110536 | unclosed amendment quotation for unknown articles |
 | WDU19941360704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -283,23 +284,27 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19981080683 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19981130715 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
+| WDU19981170756 | unclosed amendment quotation for unknown articles |
+| WDU19981170757 | unclosed amendment quotation for unknown articles |
 | WDU19981170758 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19981430916 | unclosed amendment quotation for unknown articles |
 | WDU19981621115 | unclosed amendment quotation for unknown articles |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19990410418 | excessive repetition — '..................................................…' appears 34 times (likely PDF header/footer) |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20000220269 | unclosed amendment quotation for unknown articles |
 | WDU20000480552 | source article inventory failed: eli-html=0 AST=13 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20000600702 | source article inventory failed: eli-html=0 AST=18 dup_ast=1 FAIL; duplicate in AST: 9 |
 | WDU20001141190 | source article inventory failed: eli-html=0 AST=7 dup_ast=2 FAIL; duplicate in AST: 2, 3 |
 | WDU20001201268 | rendered round-trip failed: AST=82 rendered=82 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 24; low similarity: 24 |
+| WDU20010710733 | unclosed amendment quotation for unknown articles |
 | WDU20011251372 | source article inventory failed: eli-html=0 AST=13 dup_ast=1 FAIL; duplicate in AST: 2 |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20011541794 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 1 |
 | WDU20020250253 | rendered round-trip failed: AST=84 rendered=84 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 18; low similarity: 18; missing child markers: 18 |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20021411183 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20021411183 | unclosed amendment quotation for unknown articles |
 | WDU20021531270 | rendered round-trip failed: AST=343 rendered=343 empty_articles=1 FAIL |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20021691384 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -317,11 +322,14 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20042222249 | source article inventory failed: eli-html=0 AST=10 dup_ast=1 FAIL; duplicate in AST: 4 |
 | WDU20042542533 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20042682662 | source article inventory failed: eli-html=0 AST=24 dup_ast=12 FAIL; duplicate in AST: 1, 10, 11, 12, 2, 3, 4, 5, 6, 7 |
+| WDU20050330291 | unclosed amendment quotation for unknown articles |
 | WDU20050640565 | rendered round-trip failed: AST=133 rendered=133 dup_rendered=1 low_sim=1 FAIL; low similarity: 18 |
+| WDU20050850726 | unclosed amendment quotation for unknown articles |
 | WDU20050850727 | rendered round-trip failed: AST=39 rendered=39 low_sim=1 FAIL; low similarity: 12 |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'przestąp') |
 | WDU20051321110 | rendered round-trip failed: AST=118 rendered=118 dup_rendered=6 FAIL |
 | WDU20051641366 | source article inventory failed: eli-html=0 AST=38 dup_ast=2 FAIL; duplicate in AST: 18, 19 |
+| WDU20051751458 | unclosed amendment quotation for unknown articles |
 | WDU20051781480 | source article inventory failed: eli-html=0 AST=14 dup_ast=1 FAIL; duplicate in AST: 5 |
 | WDU20061571119 | rendered round-trip failed: AST=153 rendered=153 dup_rendered=1 low_sim=1 FAIL; low similarity: 3b |
 | WDU20061691200 | rendered round-trip failed: AST=96 rendered=96 empty_articles=1 FAIL |
@@ -339,13 +347,16 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20080540326 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in AST: 1 |
 | WDU20080960606 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20080970623 | unclosed amendment quotation for unknown articles |
 | WDU20081340850 | known PDF extraction failure — article structure is lost in the generated output |
 | WDU20082141346 | source article inventory failed: eli-html=0 AST=9 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20082161369 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 2 |
 | WDU20082271505 | rendered round-trip failed: AST=178 rendered=178 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 28, 29a; low similarity: 28, 29a; missing child markers: 28, 29a |
 | WDU20090200106 | source article inventory failed: eli-html=0 AST=35 dup_ast=1 FAIL; duplicate in AST: 37b |
+| WDU20090630520 | unclosed amendment quotation for unknown articles |
 | WDU20090970803 | source article inventory failed: eli-html=0 AST=15 dup_ast=2 FAIL; duplicate in AST: 4, 5 |
 | WDU20091180989 | source article inventory failed: eli-html=1 AST=18 missing_from_ast=1 FAIL; missing from AST: 15a |
+| WDU20091251037 | unclosed amendment quotation for unknown articles |
 | WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àc', 'àc', '∏o') |
 | WDU20092191706 | source article inventory failed: eli-html=0 AST=29 dup_ast=2 FAIL; duplicate in AST: 12, 13 |
 | WDU20100110066 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -355,11 +366,15 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20101250852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20101480993 | source article inventory failed: eli-html=0 AST=6 dup_ast=1 FAIL; duplicate in AST: 2 |
 | WDU20101490996 | source article inventory failed: eli-html=0 AST=22 dup_ast=2 FAIL; duplicate in AST: 2, 3 |
+| WDU20102191442 | unclosed amendment quotation for unknown articles |
 | WDU20102291494 | known two-column PDF extraction failure — Art. 2 is merged into Art. 1 in the generated output |
 | WDU20102301510 | unclosed amendment quotation for unknown articles |
 | WDU20102441636 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20110480247 | unclosed amendment quotation for unknown articles |
 | WDU20110640342 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20111130657 | rendered round-trip failed: AST=70 rendered=70 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 24; low similarity: 24; missing child markers: 24 |
+| WDU20111681002 | unclosed amendment quotation for unknown articles |
+| WDU20111681003 | unclosed amendment quotation for unknown articles |
 | WDU20111711016 | rendered round-trip failed: AST=82 rendered=82 dup_rendered=2 low_sim=2 word_loss=1 FAIL; word loss: 2; low similarity: 2, 3 |
 | WDU20111971170 | rendered round-trip failed: AST=10 rendered=10 empty_articles=1 FAIL |
 | WDU20112031192 | source article inventory failed: eli-html=0 AST=37 dup_ast=1 FAIL; duplicate in AST: 24 |
@@ -382,6 +397,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20120000566 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20120000571 | excessive repetition — '..................................................…' appears 41 times (likely PDF header/footer) |
 | WDU20120000638 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20120000661 | unclosed amendment quotation for unknown articles |
 | WDU20120000663 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000916 | excessive repetition — '..................................................…' appears 40 times (likely PDF header/footer) |
@@ -620,6 +636,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20210000417 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210000518 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210000841 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20210000847 | unclosed amendment quotation for unknown articles |
 | WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 21 times (likely PDF header/footer) |
 | WDU20210000922 | source article inventory failed: eli-html=0 AST=38 dup_ast=3 FAIL; duplicate in AST: 15, 16, 17 |
 | WDU20210001110 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -709,6 +726,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230000666 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2023_666.txt. Run 'extract' first. |
 | WDU20230000670 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000671 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230000725 | unclosed amendment quotation for unknown articles |
 | WDU20230000797 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000862 | excessive repetition — '..................................................…' appears 22 times (likely PDF header/footer) |
 | WDU20230001009 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -770,6 +788,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000380 | source article inventory failed: eli-html=0 AST=18 dup_ast=1 FAIL; duplicate in AST: 8b |
+| WDU20240000414 | unclosed amendment quotation for unknown articles |
 | WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '..................................................…' appears 30 times (likely PDF header/footer) |
 | WDU20240000514 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |

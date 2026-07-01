@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T18:07:27Z",
+  "generated_at": "2026-07-01T20:50:46Z",
   "acts": {
     "published": 19250,
     "rejected": 426,
@@ -61,7 +61,7 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 698,
+    "quality_gate_blocked": 717,
     "original_pdf_for_unified_skipped": 4941,
     "consolidated_article_coverage_checked": 634,
     "consolidated_article_coverage_with_gaps": 425,
