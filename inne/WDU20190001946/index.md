@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polityki Społecznej w sprawie udzielania pomocy cudzoziemcom
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcom (Dz. U. z 2016 r. poz. 1837), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającym rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.”.
-Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 7 kwietnia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. zmieniającego rozporządzenie w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 1854), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.”. Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed
+ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 7 kwietnia 2015 r.
 w sprawie udzielania pomocy cudzoziemcom Na podstawie art. 95 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2019 r. poz. 1507, 1622, 1690 i 1818) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) obowiązki powiatowego centrum pomocy rodzinie, zwanego dalej „centrum pomocy”, związane z przygotowaniem indywidualnego programu integracji, zwanego dalej „programem”;

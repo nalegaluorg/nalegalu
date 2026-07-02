@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2020 r. poz. 397), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U. poz. 1337) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 lutego 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 15 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i ich mieszaninach oraz niektórych innych ustaw (Dz. U.
-poz. 1337), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+poz. 1337), który stanowi: „ Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 17 października 2003 r.
 o wykonywaniu prac podwodnych
 

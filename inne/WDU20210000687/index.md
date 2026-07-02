@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra sprawiedliwości w sprawie stażu asystenckiego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 10 czerwca 2014 r. w sprawie stażu asystenckiego (Dz. U. poz. 881), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 22 lutego 2018 r. zmieniającym rozporządzenie w sprawie stażu asystenckiego (Dz. U. poz. 500).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 22 lutego 2018 r. zmieniającego rozporządzenie w sprawie stażu asystenckiego (Dz. U.
-poz. 500), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro rozporządzenie ministra sprawiedliwości z dnia 10 czerwca 2014 r.
+poz. 500), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+rozporządzenie ministra sprawiedliwości z dnia 10 czerwca 2014 r.
 w sprawie stażu asystenckiego Na podstawie art. 155cb § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

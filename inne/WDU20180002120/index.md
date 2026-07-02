@@ -30,10 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu inicjatywy ustawod
 1) ustawą z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498),
 2) ustawą z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 października 2018 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „Art. 40. 1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
-2) art. 4 ustawy z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4), który stanowi: „Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński
+1) art. 40 i art. 43 ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. poz. 498), które stanowią: „ Art. 40. 1. Do postępowań w sprawie wydania pozwolenia na przeprowadzenie zbiórki publicznej wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. 2. Pozwolenia na przeprowadzenie zbiórki publicznej wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres, na jaki zostały udzielone, niezbędny do realizacji celu zbiórki i przedstawienia jej wyników.” „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+2) art. 4 ustawy z dnia 9 listopada 2017 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. z 2018 r. poz. 4), który stanowi: „ Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 24 czerwca 1999 r.
 o wykonywaniu inicjatywy ustawodawczej przez obywateli
 

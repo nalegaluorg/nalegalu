@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska obszaru ochrony siedlisk Ostoja Nidziańska (PLH260003)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Klimatu i Środowiska z dnia 2 września 2021 r. w sprawie specjalnego obszaru Nidziańska (PLH260003) (Dz. U. poz. 1766), z uwzględnieniem zmiany wprowadzonej rozporządzeniem i Środowiska z dnia 7 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ja Nidziańska (PLH260003) (Dz. U. poz. 2011).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Nidziańska (PLH260003) (Dz. U. poz. 2011), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 2 września 2021 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Nidziańska (PLH260003) (Dz. U. poz. 2011), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 2 września 2021 r.
 w sprawie specjalnego obszaru ochrony siedlisk Ostoja Nidziańska (PLH260003) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Ostoja Nidziańska (PLH260003 ), obejmujący położony w województwie świętokrzyskim.

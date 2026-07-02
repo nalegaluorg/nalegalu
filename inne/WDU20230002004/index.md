@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 1) rozporządzeniem Ministra Środowiska z dnia 2 września 2016 r. zmieniającym rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 1486);
 2) rozporządzeniem Ministra Środowiska z dnia 13 listopada 2018 r. zmieniającym rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 2255).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Środowiska z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 1486), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Środowiska z dnia 13 listopada 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 2255), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
+1) § 2 rozporządzenia Ministra Środowiska z dnia 2 września 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 1486), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Środowiska z dnia 13 listopada 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 2255), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
 w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r.
 poz. 1094, z późn. zm. ) zarządza się, co następuje:
 § 1. Regionalnej Dyrekcji Ochrony Środowiska w Warszawie nadaje się statut, stanowiący załącznik do rozporządzenia.

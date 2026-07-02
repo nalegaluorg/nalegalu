@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 1) rozporządzeniem Ministra Finansów z dnia 10 lipca 2020 r. zmieniającym rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1229);
 2) rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 31 maja 2021 r. zmieniającym rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1004).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Finansów z dnia 10 lipca 2020 r. zmieniającego rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1229), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 31 maja 2021 r. zmieniającego rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1004), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 grudnia 2011 r.
+1) § 2 rozporządzenia Ministra Finansów z dnia 10 lipca 2020 r. zmieniającego rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1229), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 31 maja 2021 r. zmieniającego rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1004), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 grudnia 2011 r.
 w sprawie sprawozdawczości budżetowej w układzie zadaniowym Na podstawie art. 41 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236 i 1535) zarządza się, co następuje:
 § 1. Rozporządzenie określa rodzaje, formy, terminy i sposoby sporządzania sprawozdań z wykonania planów finansowych w układzie zadaniowym:
 1) państwowych jednostek budżetowych;

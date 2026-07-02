@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie ratownictwa górniczego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 16 marca 2017 r. w sprawie ratownictwa górniczego (Dz. U. poz. 1052), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającym rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającego rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 13 marca 2020 r.”.
-Minister Aktywów Państwowych: J. Sasin ROZPORZĄDZENIE MINISTRA ENERGII z dnia 16 marca 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającego rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 13 marca 2020 r.”. Minister Aktywów Państwowych: J. Sasin
+ROZPORZĄDZENIE MINISTRA ENERGII z dnia 16 marca 2017 r.
 w sprawie ratownictwa górniczego Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072 i 1261) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) organizację, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym;

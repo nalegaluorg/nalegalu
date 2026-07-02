@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. zmieniającym rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2345);
 2) rozporządzeniem Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającym rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2118).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2345), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2015 r.”;
-2) § 2 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2118), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”.
-Minister Cyfryzacji: A. Streżyńska ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 listopada 2015 r.
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2345), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2015 r.”;
+2) § 2 rozporządzenia Ministra Cyfryzacji z dnia 13 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 2118), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”. Minister Cyfryzacji: A. Streżyńska
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 listopada 2015 r.
 w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców Na podstawie art. 100ap ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
 poz. 128, 60 i 379) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

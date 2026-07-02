@@ -26,12 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/922/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2022 r. poz. 2026), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 kwietnia 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
-1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
-2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
-3) art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-4) art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „ Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem: 1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia; 2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.; 3) art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.; 4) art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 28 listopada 2003 r.
 o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej
 

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dzie
 1) rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2022 r. zmieniającym rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 1996);
 2) rozporządzeniem Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2023 r. zmieniającym rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 694).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2022 r. zmieniającego rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 1996), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2023 r. zmieniającego rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 694), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 8 kwietnia 2019 r.
+1) § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2022 r. zmieniającego rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 1996), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 21 marca 2023 r. zmieniającego rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 694), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 8 kwietnia 2019 r.
 w sprawie klasyfikacji zawodów szkolnictwa artystycznego Na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
 § 1. Rozporządzenie określa klasyfikację zawodów szkolnictwa artystycznego, która stanowi załącznik do rozporządzenia.
 § 2. 1. Do dnia 31 sierpnia 2022 r. kształcenie w zawodzie plastyk odbywa się również w ogólnokształcącej szkole sztuk pięknych oraz w klasach ogólnokształcącej szkoły sztuk pięknych prowadzonych w liceum sztuk plastycznych.

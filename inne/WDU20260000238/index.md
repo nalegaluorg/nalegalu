@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 sierpnia 2010 r. o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r. (Dz. U. z 2025 r.
 poz. 453), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „Art. 38. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „ Art. 38. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 12 sierpnia 2010 r.
 o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r.
 

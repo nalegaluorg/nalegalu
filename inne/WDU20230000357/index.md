@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zlewni
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie zlewni (Dz. U. poz. 2509), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie zlewni (Dz. U. poz. 1685).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie zlewni (Dz. U. poz. 1685), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie zlewni (Dz. U. poz. 1685), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2017 r.
 w sprawie zlewni Na podstawie art. 13 ust. 6 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687 oraz z 2023 r. poz. 295) zarządza się, co następuje:
 § 1. Rozporządzenie określa zlewnie i przyporządkowuje je do właściwych regionów wodnych.
 § 2. Określa się następujące zlewnie:

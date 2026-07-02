@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 stycznia 2018 r. w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U.
 poz. 282), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 21 grudnia 2018 r.
 zmieniającym rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 2490).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. zmieniającego rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 2490), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.”.
-Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 stycznia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. zmieniającego rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 2490), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.”. Minister Finansów: T. Kościński
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 stycznia 2018 r.
 w sprawie opłaty za ustalanie wskaźnika ryzyka Na podstawie art. 119zo § 11 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa wysokość i terminy wnoszenia opłaty, o której mowa w art. 119zo § 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanej dalej „opłatą”.
 § 2. Opłatę określa się w rocznej wysokości 0,35 zł, bez kwoty podatku od towarów i usług, za każdy rachunek podmiotu kwalifikowanego.

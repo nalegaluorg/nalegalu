@@ -31,15 +31,10 @@ source: pdf
 3) ustawą z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615),
 4) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), który stanowi: „Art. 9. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U.
-poz. 1089), który stanowi: „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
-3) art. 12 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U.
-poz. 1615), który stanowi: „Art. 12. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.”;
-4) art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 9 ustawy z dnia 9 maja 2024 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 863), który stanowi: „ Art. 9. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 4 miesięcy od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), który stanowi: „ Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
+3) art. 12 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615), który stanowi: „ Art. 12. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r.”;
+4) art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „ Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.; 2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 października 2018 r.
 o Funduszu Solidarnościowym
 

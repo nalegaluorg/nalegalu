@@ -63,7 +63,7 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo administracyjne](prawo-administracyjne/README.md) | 67 | [Pełna lista aktów →](prawo-administracyjne/README.md) (16 z orzecznictwem) |
 | [Prawo bankowe](prawo-bankowe/README.md) | 28 | [Pełna lista aktów →](prawo-bankowe/README.md) (8 z orzecznictwem) |
 | [Prawo budowlane](prawo-budowlane/README.md) | 43 | [Pełna lista aktów →](prawo-budowlane/README.md) (7 z orzecznictwem) |
-| [Prawo cywilne](prawo-cywilne/README.md) | 142 | [Pełna lista aktów →](prawo-cywilne/README.md) (61 z orzecznictwem) |
+| [Prawo cywilne](prawo-cywilne/README.md) | 141 | [Pełna lista aktów →](prawo-cywilne/README.md) (61 z orzecznictwem) |
 | [Prawo energetyczne](prawo-energetyczne/README.md) | 35 | [Pełna lista aktów →](prawo-energetyczne/README.md) (7 z orzecznictwem) |
 | [Prawo handlowe](prawo-handlowe/README.md) | 25 | [Pełna lista aktów →](prawo-handlowe/README.md) (8 z orzecznictwem) |
 | [Prawo karne](prawo-karne/README.md) | 159 | [Pełna lista aktów →](prawo-karne/README.md) (55 z orzecznictwem) |
@@ -75,7 +75,7 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 17 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (6 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 17831 | [Pełna lista aktów →](inne/README.md) (1262 z orzecznictwem) |
+| [Inne](inne/README.md) | 17830 | [Pełna lista aktów →](inne/README.md) (1262 z orzecznictwem) |
 
 ## Bramka jakości
 
@@ -98,9 +98,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 309 tests — 309 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 312 tests — 312 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-07-01 21:03 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-07-01 23:11 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -109,24 +109,24 @@ Ostatni przebieg: 2026-07-01 21:03 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **18,710** |
-| Odrzucone (jakość) | 396 |
-| Artykuły | 210,865 |
-| Znaki treści | 570.7M |
-| Śr. znaków/akt | 30,502 |
-| Śr. artykułów/akt | 11.3 |
+| Opublikowane akty | **18,708** |
+| Odrzucone (jakość) | 397 |
+| Artykuły | 209,638 |
+| Znaki treści | 570.4M |
+| Śr. znaków/akt | 30,487 |
+| Śr. artykułów/akt | 11.2 |
 
 **Źródła danych:**
 
-- PDF: 18,466 (99%)
+- PDF: 18,464 (99%)
 - ELI HTML: 242 (1%)
 - unknown: 2 (0%)
 
-*Odrzucone: 1 skanów bez OCR, 602 zablokowanych przez bramkę jakości, 395 inne*
+*Odrzucone: 1 skanów bez OCR, 670 zablokowanych przez bramkę jakości, 396 inne*
 
-*Od 2026-05-18: +5,389 aktów*
+*Od 2026-05-18: +5,387 aktów*
 
-*Ostatnia aktualizacja: 2026-07-01*
+*Ostatnia aktualizacja: 2026-07-02*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -137,4 +137,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*18710 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-01*
+*18708 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-02*

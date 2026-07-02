@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 13 maja 2014 r. w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 649), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającym rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 13 maja 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 3 października 2016 r. zmieniającego rozporządzenie w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego (Dz. U. poz. 1622), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 13 maja 2014 r.
 w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego Na podstawie art. 1 ust. 7 ustawy z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 2014 r. poz. 125) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wymagania techniczne wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego;

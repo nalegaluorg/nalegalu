@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1267/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2024 r. poz. 1272), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 września 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), który stanowi: „ Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 8 grudnia 2006 r.
 o Polskiej Agencji Żeglugi Powietrznej
 

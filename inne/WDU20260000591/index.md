@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/591/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r. poz. 1815), z uwzględnieniem stanu prawnego na dzień 16 kwietnia 2026 r. oraz zmian wprowadzonych ustawą z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „ Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 4 listopada 2022 r.
 o systemie identyfikacji i rejestracji zwierząt
 

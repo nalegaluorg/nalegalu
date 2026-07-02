@@ -30,8 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 z 2013 r. poz. 930), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 12 grudnia 2017 r.
 zmieniającym rozporządzenie w sprawie działania organów orzekających w sprawach o naruszenie dyscypliny finansów publicznych oraz organów właściwych do wypełniania funkcji oskarżyciela (Dz. U. poz. 2456).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie działania organów orzekających w sprawach o naruszenie dyscypliny finansów publicznych oraz organów właściwych do wypełniania funkcji oskarżyciela (Dz. U.
-poz. 2456), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 5 lipca 2005 r.
+poz. 2456), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 5 lipca 2005 r.
 w sprawie działania organów orzekających w sprawach o naruszenie dyscypliny finansów publicznych oraz organów właściwych do wypełniania funkcji oskarżyciela Na podstawie art. 71 i art. 192 ust. 6 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2018 r. poz. 1458, 1669, 1693 i 2192) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) regulamin działania komisji orzekających w sprawach o naruszenie dyscypliny finansów publicznych i Głównej Komisji Orzekającej w Sprawach o Naruszenie Dyscypliny Finansów Publicznych;

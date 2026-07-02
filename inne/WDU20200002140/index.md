@@ -26,25 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002140) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2140/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 251), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 listopada 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), który stanowi: „Art. 76. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 1, art. 2, art. 8, art. 46 pkt 47 w zakresie dodawanego art. 31zzg, oraz art. 63–65, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 7 w zakresie art. 12a ust. 4, art. 27 w zakresie art. 72a ust. 1, oraz art. 30 w zakresie 139b ust. 1, które wchodzą w życie z dniem ogłoszenia z mocą od dnia 30 kwietnia 2020 r.;
-3) art. 10:
-a) pkt 1 i 2, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia,
-b) pkt 3, który wchodzi w życie z dniem 1 stycznia 2021 r.;
-4) art. 14 pkt 1–7 i 12, które wchodzą w życie z dniem 21 grudnia 2020 r.;
-5) art. 9, art. 16, art. 18 oraz art. 72, które wchodzą w życie z dniem 1 lipca 2020 r.;
-6) art. 29 pkt 7, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 13 marca 2020 r.;
-7) art. 33, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem pkt 1 w zakresie art. 4b ust. 5, który wchodzi w życie z dniem 1 stycznia 2021 r.;
-8) art. 46:
-a) pkt 1 i 2, które wchodzą w życie z dniem 25 maja 2020 r.,
-b) pkt 3: – w zakresie art. 4d, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r., – w zakresie art. 4e, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 8 marca 2020 r.,
-c) pkt 19, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 maja 2020 r.,
-d) pkt 31, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r.,
-e) pkt 36, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 7 marca 2020 r.;
-9) art. 58, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r.;
-10) art. 59, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 18 kwietnia 2020 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875), który stanowi: „ Art. 76. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 1, art. 2, art. 8, art. 46 pkt 47 w zakresie dodawanego art. 31zzg, oraz art. 63–65, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 7 w zakresie art. 12a ust. 4, art. 27 w zakresie art. 72a ust. 1, oraz art. 30 w zakresie 139b ust. 1, które wchodzą w życie z dniem ogłoszenia z mocą od dnia 30 kwietnia 2020 r.; 3) art. 10: a) pkt 1 i 2, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia, b) pkt 3, który wchodzi w życie z dniem 1 stycznia 2021 r.; 4) art. 14 pkt 1–7 i 12, które wchodzą w życie z dniem 21 grudnia 2020 r.; 5) art. 9, art. 16, art. 18 oraz art. 72, które wchodzą w życie z dniem 1 lipca 2020 r.; 6) art. 29 pkt 7, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 13 marca 2020 r.; 7) art. 33, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem pkt 1 w zakresie art. 4b ust. 5, który wchodzi w życie z dniem 1 stycznia 2021 r.; 8) art. 46: a) pkt 1 i 2, które wchodzą w życie z dniem 25 maja 2020 r., b) pkt 3: – w zakresie art. 4d, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r., – w zakresie art. 4e, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 8 marca 2020 r., c) pkt 19, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 maja 2020 r., d) pkt 31, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r., e) pkt 36, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 7 marca 2020 r.; 9) art. 58, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 kwietnia 2020 r.; 10) art. 59, który wchodzi w życie z dniem ogłoszenia z mocą od dnia 18 kwietnia 2020 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 10 lipca 2015 r.
 o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego
 

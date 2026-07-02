@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie opłat związanych z oceną materiału siewnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 grudnia 2017 r. w sprawie opłat związanych z oceną materiału siewnego (Dz. U. poz. 2354), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2020 r. zmieniającym rozporządzenie w sprawie opłat związanych z oceną materiału siewnego (Dz. U. poz. 1853).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2020 r. zmieniającego rozporządzenie w sprawie opłat związanych z oceną materiału siewnego (Dz. U. poz. 1853), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”.
-Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk RozpoRządzenie MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 grudnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2020 r. zmieniającego rozporządzenie w sprawie opłat związanych z oceną materiału siewnego (Dz. U. poz. 1853), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”. Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk
+RozpoRządzenie MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 grudnia 2017 r.
 w sprawie opłat związanych z oceną materiału siewnego Na podstawie art. 118 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób ustalania i wysokość opłat za:

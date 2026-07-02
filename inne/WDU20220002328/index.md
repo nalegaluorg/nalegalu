@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 4 lutego 2011 r. w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 187), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającym rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 lutego 2011 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 września 2022 r. zmieniającego rozporządzenie w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy (Dz. U. poz. 1908), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 lutego 2011 r.
 w sprawie delegowania urzędników sądów do Ministerstwa Sprawiedliwości lub poza stałe miejsce pracy Na podstawie art. 11a ust. 12 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

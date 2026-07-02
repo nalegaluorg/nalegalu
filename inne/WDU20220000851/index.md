@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 6 marca 2020 r. w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U.
 poz. 390), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 18 listopada 2020 r. zmieniającym rozporządzenie w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U. poz. 2044).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 18 listopada 2020 r. zmieniającego rozporządzenie w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U. poz. 2044), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 marca 2020 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 18 listopada 2020 r. zmieniającego rozporządzenie w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U. poz. 2044), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 marca 2020 r.
 w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta Na podstawie art. 33n ust. 19 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) formy szkolenia w dziedzinie ochrony radiologicznej pacjenta, o którym mowa w art. 33n ust. 3 pkt 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe, zwanej dalej „ustawą”, i jego ramowy program;

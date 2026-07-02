@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie rozkładów jazdy
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 10 kwietnia 2012 r. w sprawie rozkładów jazdy (Dz. U. poz. 451), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającym rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Infrastruktury i Budownictwa: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 10 kwietnia 2012 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 29 grudnia 2016 r. zmieniającego rozporządzenie w sprawie rozkładów jazdy (Dz. U. poz. 2279), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Infrastruktury i Budownictwa: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 10 kwietnia 2012 r.
 w sprawie rozkładów jazdy Na podstawie art. 34 ust. 2 ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2017 r. poz. 1983) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) treść rozkładów jazdy;

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie ochrony siedlisk Uroczyska Płyty Krotoszyńskiej (PLH300002)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Środowiska z dnia 11 maja 2017 r. w sprawie specjalnego obszaru ochrony Krotoszyńskiej (PLH300002) (Dz. U. poz. 1253), z uwzględnieniem zmiany wprowadzonej rozporządzeniem i Środowiska z dnia 22 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego Uroczyska Płyty Krotoszyńskiej (PLH300002) (Dz. U. poz. 2195).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Uroczyska Płyty Krotoszyńskiej (PLH300002) (Dz. U. poz. 2195), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 11 maja 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Uroczyska Płyty Krotoszyńskiej (PLH300002) (Dz. U. poz. 2195), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 11 maja 2017 r.
 w sprawie specjalnego obszaru ochrony siedlisk Uroczyska Płyty Krotoszyńskiej Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Uroczyska Płyty Krotoszyńskiej obszar 34 225,2 ha, położony w województwie wielkopolskim.

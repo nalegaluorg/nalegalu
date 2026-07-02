@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Cyfryzacji w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Cyfryzacji z dnia 19 grudnia 2022 r. w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych (Dz. U. poz. 2796), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Cyfryzacji z dnia 1 marca 2023 r. zmieniającym rozporządzenie w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych (Dz. U. poz. 407).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 1 marca 2023 r. zmieniającego rozporządzenie w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych (Dz. U. poz. 407), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Cyfryzacji: wz. P. Lewandowski ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 19 grudnia 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 1 marca 2023 r. zmieniającego rozporządzenie w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych (Dz. U. poz. 407), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Cyfryzacji: wz. P. Lewandowski
+ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 19 grudnia 2022 r.
 w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych Na podstawie art. 29 ust. 7 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U.
 z 2023 r. poz. 733 i 1688) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

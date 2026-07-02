@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U.
-poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+poz. 621), który stanowi: „ Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 7 września 2007 r.
 o Karcie Polaka realizując postanowienia Konstytucji Rzeczypospolitej Polskiej w zakresie udzielania pomocy Polakom zamieszkałym za granicą w zachowaniu ich związków z narodowym dziedzictwem kulturalnym, wypełniając moralny obowiązek wobec Polaków, którzy na skutek zmiennych losów naszej Ojczyzny utracili obywatelstwo polskie, spełniając oczekiwania tych, którzy polskimi obywatelami nigdy wcześniej nie byli, lecz ze względu na swoje poczucie tożsamości narodowej pragną uzyskać potwierdzenie przynależności do Narodu Polskiego, w celu wzmocnienia więzi łączących Polaków z Macierzą oraz wspierając ich starania o zachowanie języka polskiego oraz kultywowanie tradycji narodowej, postanawia się, co następuje:
 

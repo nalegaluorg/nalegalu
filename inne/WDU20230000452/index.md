@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 1) rozporządzeniem Ministra Sprawiedliwości z dnia 31 marca 2016 r. zmieniającym rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 435);
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 29 czerwca 2021 r. zmieniającym rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1176).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 marca 2016 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 435), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1176), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 października 2015 r.
+1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 marca 2016 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 435), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1176), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 października 2015 r.
 w sprawie trybu i sposobu dokonywania doręczeń elektronicznych Na podstawie art. 131 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r.
 poz. 1805, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych.

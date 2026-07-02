@@ -27,10 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społecznej w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Polityki Społecznej z dnia 7 kwietnia 2005 r. w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 658), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającym rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) § 1 pkt 1 lit. a, który wchodzi w życie z dniem 22 czerwca 2023 r.;
-2) § 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2024 r.”.
-Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk ROZPORZĄDZENIE MINISTRA POLITYKI SPOŁECZNEJ z dnia 7 kwietnia 2005 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 28 maja 2023 r. zmieniającego rozporządzenie w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej (Dz. U. poz. 1084), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) § 1 pkt 1 lit. a, który wchodzi w życie z dniem 22 czerwca 2023 r.; 2) § 1 pkt 1 lit. b, który wchodzi w życie z dniem 1 stycznia 2024 r.”. Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk
+ROZPORZĄDZENIE MINISTRA POLITYKI SPOŁECZNEJ z dnia 7 kwietnia 2005 r.
 w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej Na podstawie art. 121 ust. 6 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn.
 zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

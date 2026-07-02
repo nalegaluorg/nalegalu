@@ -29,8 +29,7 @@ source: pdf
 poz. 1594), z uwzględnieniem stanu prawnego na dzień 24 maja 2026 r. oraz zmian wprowadzonych ustawą z dnia 17 grudnia 2025 r. o zmianie ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania (Dz. U. z 2026 r.
 poz. 35).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 17 grudnia 2025 r. o zmianie ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania (Dz. U. z 2026 r.
-poz. 35), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+poz. 35), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 19 lipca 2016 r.
 o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania
 

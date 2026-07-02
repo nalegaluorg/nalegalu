@@ -31,14 +31,10 @@ source: pdf
 3) ustawą z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238),
 4) ustawą z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 lipca 2015 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145 oraz z 2003 r. Nr 208, poz. 2020), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że:
-1) art. 1 pkt 9 wchodzi w życie z dniem 1 stycznia 2003 r.,
-2) art. 1 pkt 12 wchodzi w życie z dniem 10 listopada 2002 r.,
-3) (uchylony).”;
-2) art. 39 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), który stanowi: „Art. 39. Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.”;
-3) art. 45 ustawy z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238), który stanowi: „Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 11 pkt 2 lit. b i c, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia.”;
-4) art. 102 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), który stanowi: „Art. 102. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: M. Kidawa-Błońska
+1) art. 15 ustawy z dnia 24 lipca 2002 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz innych ustaw (Dz. U. Nr 135, poz. 1145 oraz z 2003 r. Nr 208, poz. 2020), który stanowi: „ Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że: 1) art. 1 pkt 9 wchodzi w życie z dniem 1 stycznia 2003 r., 2) art. 1 pkt 12 wchodzi w życie z dniem 10 listopada 2002 r., 3) (uchylony).”;
+2) art. 39 ustawy z dnia 22 stycznia 2004 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 34, poz. 292), który stanowi: „ Art. 39. Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.”;
+3) art. 45 ustawy z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej (Dz. U. Nr 176, poz. 1238), który stanowi: „ Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 11 pkt 2 lit. b i c, który wchodzi w życie po upływie 90 dni od dnia ogłoszenia.”;
+4) art. 102 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690), który stanowi: „ Art. 102. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: M. Kidawa-Błońska
 USTAWA z dnia 30 marca 2001 r.
 o rolniczych badaniach rynkowych
 

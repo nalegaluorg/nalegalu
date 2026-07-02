@@ -31,10 +31,8 @@ poz. 2240), z uwzględnieniem zmian wprowadzonych:
 2) ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U.
 poz. 1081) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 września 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 4 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U.
-poz. 1081), który stanowi: „Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), który stanowi: „ Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 4 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1081), który stanowi: „ Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 19 lipca 2019 r.
 o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 

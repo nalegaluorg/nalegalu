@@ -34,12 +34,10 @@ poz. 623);
 3) rozporządzeniem Ministra Gospodarki z dnia 3 sierpnia 2012 r. zmieniającym rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U.
 poz. 913).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Gospodarki z dnia 28 stycznia 2009 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 160), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Gospodarki z dnia 5 maja 2009 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U.
-poz. 623), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Gospodarki z dnia 3 sierpnia 2012 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U.
-poz. 913), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rozwoju: wz. J. Kwieciński ROZPORZĄDZENIE MINISTRA GOSPODARKI I PRACY z dnia 4 lipca 2005 r.
+1) § 2 rozporządzenia Ministra Gospodarki z dnia 28 stycznia 2009 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 160), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Gospodarki z dnia 5 maja 2009 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 623), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Gospodarki z dnia 3 sierpnia 2012 r. zmieniającego rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 913), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju: wz. J. Kwieciński
+ROZPORZĄDZENIE MINISTRA GOSPODARKI I PRACY z dnia 4 lipca 2005 r.
 w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego Na podstawie art. 20 ust. 6 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2015 r. poz. 1100 i 1893 oraz z 2016 r. poz. 544) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wysokość opłaty za przeprowadzenie szkolenia oraz egzaminu;

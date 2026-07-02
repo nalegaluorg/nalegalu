@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania bonów skarbowych (Dz. U.
 poz. 1088), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 22 maja 2019 r.
 zmieniającym rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.”.
-Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 sierpnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 maja 2019 r. zmieniającego rozporządzenie w sprawie warunków emitowania bonów skarbowych (Dz. U. poz. 1002), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.”. Minister Finansów: T. Kościński
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 sierpnia 2013 r.
 w sprawie warunków emitowania bonów skarbowych Na podstawie art. 97 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa warunki emitowania bonów skarbowych, zwanych dalej „bonami”, w szczególności:
 1) jednostkową wartość nominalną bonów;

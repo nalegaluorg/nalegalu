@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy i Polity
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 21 grudnia 2009 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U.
 Nr 222, poz. 1767), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 23 stycznia 2012 r. zmieniającym rozporządzenie w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U. poz. 122).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 23 stycznia 2012 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych (Dz. U.
-poz. 122), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”.
-Minister Pracy i Polityki Społecznej: wz. J. Duda ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 21 grudnia 2009 r.
+poz. 122), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”. Minister Pracy i Polityki Społecznej: wz. J. Duda
+ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 21 grudnia 2009 r.
 w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych Na podstawie art. 33 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r.
 Nr 205, poz. 1585, z późn. zm. ) zarządza się, co następuje:
 § 1. Centralny Rejestr Ubezpieczonych, o którym mowa w art. 33 ust. 1 pkt 3 ustawy z dnia 13 października 1998 r.

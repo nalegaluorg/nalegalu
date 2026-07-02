@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie specjalnego obszaru ochrony siedlisk Ostoja Kozubowska (PLH260029)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Środowiska z dnia 30 maja 2018 r. w sprawie specjalnego obszaru ochrony (PLH260029) (Dz. U. poz. 1517), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra ska z dnia 7 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ochrony bowska (PLH260029) (Dz. U. poz. 1946).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Kozubowska (PLH260029) (Dz. U. poz. 1946), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 30 maja 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Kozubowska (PLH260029) (Dz. U. poz. 1946), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 30 maja 2018 r.
 w sprawie specjalnego obszaru ochrony siedlisk Ostoja Kozubowska (PLH260029) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890 oraz z 2024 r. poz. 1089) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Ostoja Kozubowska (PLH260029 ), obejmujący położony w województwie świętokrzyskim, składający się z czterech powiązanych funkcjonalnie

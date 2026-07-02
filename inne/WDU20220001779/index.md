@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie Komisji Heraldycznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. z 2013 r. poz. 723), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 30 października 2020 r. zmieniającym rozporządzenie w sprawie Komisji Heraldycznej (Dz. U. poz. 1975).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 października 2020 r. zmieniającego rozporządzenie w sprawie Komisji Heraldycznej (Dz. U.
-poz. 1975), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lipca 1999 r.
+poz. 1975), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lipca 1999 r.
 w sprawie Komisji Heraldycznej Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) strukturę,

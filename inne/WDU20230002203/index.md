@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie szkoleń inspektorów ochrony przeciwpożarowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 listopada 2015 r. w sprawie szkoleń inspektorów ochrony przeciwpożarowej (Dz. U. poz. 1964), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2020 r. zmieniającym rozporządzenie w sprawie szkoleń inspektorów ochrony przeciwpożarowej (Dz. U. poz. 120).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szkoleń inspektorów ochrony przeciwpożarowej (Dz. U. poz. 120), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 13 listopada 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szkoleń inspektorów ochrony przeciwpożarowej (Dz. U. poz. 120), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 13 listopada 2015 r.
 w sprawie szkoleń inspektorów ochrony przeciwpożarowej Na podstawie art. 4a ust. 12 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088 i 1560) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) zakresy szkolenia inspektorów ochrony przeciwpożarowej i szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;

@@ -32,10 +32,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 poz. 1463).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania (Dz. U.
-poz. 569), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2016 r. zmieniającego rozporządzenie w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw i ich zrzeszeń oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania (Dz. U.
-poz. 1463), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 września 2013 r.
+poz. 569), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2016 r. zmieniającego rozporządzenie w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw i ich zrzeszeń oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania (Dz. U. poz. 1463), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 września 2013 r.
 w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw i ich zrzeszeń oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania Na podstawie art. 8 ust. 1 pkt 2 i 3 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2016 r. poz. 58 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
 § 1. Podmiot zrzeszający producentów owoców i warzyw może zostać wstępnie uznany za grupę producentów owoców i warzyw, jeżeli:
 1) jest utworzony przez co najmniej 5 producentów:

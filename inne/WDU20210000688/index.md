@@ -27,15 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. z 2018 r.
 poz. 203), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 marca 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), który stanowi: „Art. 28. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 17 pkt 15 w zakresie art. 31zy ust. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2020 r.;
-2) art. 17 pkt 15 w zakresie art. 31zy ust. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 czerwca 2020 r.;
-3) art. 17 pkt 15 w zakresie art. 31zy ust. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 26 sierpnia 2020 r.;
-4) art. 17 pkt 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2020 r.;
-5) art. 14 i art. 17 pkt 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 października 2020 r.;
-6) art. 1 pkt 3, art. 6 oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2021 r.;
-7) art. 1 pkt 1 oraz art. 13 pkt 1, 3–5 i 7, które wchodzą w życie z dniem 1 stycznia 2022 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), który stanowi: „ Art. 28. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 17 pkt 15 w zakresie art. 31zy ust. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2020 r.; 2) art. 17 pkt 15 w zakresie art. 31zy ust. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 czerwca 2020 r.; 3) art. 17 pkt 15 w zakresie art. 31zy ust. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 26 sierpnia 2020 r.; 4) art. 17 pkt 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2020 r.; 5) art. 14 i art. 17 pkt 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 października 2020 r.; 6) art. 1 pkt 3, art. 6 oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2021 r.; 7) art. 1 pkt 1 oraz art. 13 pkt 1, 3–5 i 7, które wchodzą w życie z dniem 1 stycznia 2022 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 16 grudnia 2005 r.
 o finansowaniu infrastruktury transportu lądowego
 

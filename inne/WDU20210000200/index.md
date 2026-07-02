@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 30 lipca 2009 r. w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1068), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1984).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1984), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 30 lipca 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1984), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 30 lipca 2009 r.
 w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej Na podstawie art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r.
 poz. 849) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

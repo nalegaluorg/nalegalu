@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie maksymalnych stawek taksy notarialnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U.
 z 2020 r. poz. 1473), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającym rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.”.
-Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 czerwca 2004 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie maksymalnych stawek taksy notarialnej (Dz. U. poz. 516), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.”. Minister Sprawiedliwości: A. Bodnar
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 28 czerwca 2004 r.
 w sprawie maksymalnych stawek taksy notarialnej Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001) zarządza się, co następuje:
 § 1. Rozporządzenie określa maksymalne stawki taksy notarialnej za czynności notarialne oraz maksymalne kwoty, o które może być zwiększone wynagrodzenie za dokonanie czynności notarialnych poza kancelarią notarialną.
 § 2. 1. Z zastrzeżeniem § 8–16, maksymalna stawka taksy notarialnej za czynności notarialne, zwana dalej „maksymalną stawką”, zależy od wartości przedmiotu czynności notarialnej.

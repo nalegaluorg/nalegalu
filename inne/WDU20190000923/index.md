@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 15 grudnia 2014 r. w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego (Dz. U. z 2018 r. poz. 559), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 20 kwietnia 2018 r. zmieniającym rozporządzenie w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego (Dz. U. poz. 809).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego (Dz. U. poz. 809), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.”.
-Minister Finansów: T. Czerwińska RozpoRządzenie Ministra Finansów z dnia 15 grudnia 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego (Dz. U. poz. 809), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.”. Minister Finansów: T. Czerwińska
+RozpoRządzenie Ministra Finansów z dnia 15 grudnia 2014 r.
 w sprawie zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego Na podstawie art. 64 ust. 10 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób dokumentowania spełnienia warunków określonych w art. 64 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”, w tym rodzaj dokumentów potwierdzających ich spełnienie;

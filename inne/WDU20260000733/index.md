@@ -29,17 +29,8 @@ source: pdf
 1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
 2) ustawą z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
-3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem:
-1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.;
-2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.;
-3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.;
-4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „ Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia; 3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.; 4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
+2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „ Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem: 1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.; 2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.; 3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.; 4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 17 grudnia 2020 r.
 o rezerwach strategicznych
 

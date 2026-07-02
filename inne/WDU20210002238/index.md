@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r. w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 190), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającym rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 19 stycznia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 19 stycznia 2018 r.
 w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia Na podstawie art. 73 ust. 11 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) zakres oraz tryb przeprowadzania badania lekarskiego w celu udzielenia urlopu dla poratowania zdrowia, zwanego dalej „badaniem lekarskim”;

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 1) rozporządzeniem Prezesa Rady Ministrów z dnia 24 sierpnia 2016 r. zmieniającym rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1380);
 2) rozporządzeniem Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającym rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1380), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 listopada 2008 r.
+1) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1380), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 listopada 2008 r.
 w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. ) zarządza się, co następuje:
 § 1. Generalnej Dyrekcji Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.

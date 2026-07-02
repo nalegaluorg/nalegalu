@@ -31,9 +31,9 @@ z 2014 r. poz. 1659), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 13 stycznia 2015 r. zmieniającym rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 166);
 2) rozporządzeniem Rady Ministrów z dnia 5 lutego 2016 r. zmieniającym rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 218).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 13 stycznia 2015 r. zmieniającego rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 166), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 5 lutego 2016 r. zmieniającego rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 218), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: B. Szydło ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 13 stycznia 2015 r. zmieniającego rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 166), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 5 lutego 2016 r. zmieniającego rozporządzenie w sprawie słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 218), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: B. Szydło
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie słupskiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U.
 z 2015 r. poz. 282) zarządza się, co następuje:
 § 1. 1. Słupska Specjalna Strefa Ekonomiczna ustanowiona rozporządzeniem Rady Ministrów z dnia 9 września 1997 r. w sprawie ustanowienia słupskiej specjalnej strefy ekonomicznej (Dz. U. poz. 905, z 2001 r. poz. 334 i 1175, z 2002 r. poz. 586, z 2003 r. poz. 1816 oraz z 2004 r. poz. 696), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

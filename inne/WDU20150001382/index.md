@@ -35,12 +35,10 @@ poz. 1043);
 poz. 1560).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2010 r. zmieniającego rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U.
-Nr 244, poz. 1633), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U.
-poz. 1043), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 października 2014 r. zmieniającego rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U.
-poz. 1560), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: wz. Z. Szalczyk ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 3 kwietnia 2008 r.
+Nr 244, poz. 1633), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2013 r. zmieniającego rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U. poz. 1043), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 października 2014 r. zmieniającego rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu (Dz. U. poz. 1560), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: wz. Z. Szalczyk
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 3 kwietnia 2008 r.
 w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu Na podstawie art. 71 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) kryteria klasyfikacji produktów leczniczych weterynaryjnych do wykazu, o którym mowa w pkt 2;

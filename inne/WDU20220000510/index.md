@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego (Dz. U. z 2019 r. poz. 1024), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U. poz. 1574) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lutego 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 5 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego oraz niektórych innych ustaw (Dz. U.
-poz. 1574), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+poz. 1574), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 7 kwietnia 2017 r.
 o ustanowieniu Krzyża Zachodniego Wypełniając moralny obowiązek wobec osób, które w latach 1939–1989 niosły różnorodną pomoc Polakom, gdy byliśmy poddani licznym formom represji i prześladowań, gdy stawialiśmy opór dwóm totalitaryzmom (niemieckiemu nazizmowi, sowieckiej okupacji oraz komunistycznej dominacji ziem polskich), uchwala się, co następuje:
 

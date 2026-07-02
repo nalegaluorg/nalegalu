@@ -27,11 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 2004 r. o administrowaniu obrotem towarowym z zagranicą (Dz. U. z 2017 r.
 poz. 1021), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
-1) art. 1, art. 18 i art. 35, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-2) art. 4, art. 6, art. 17, art. 19 i art. 44, które wchodzą w życie z dniem 1 lipca 2019 r.;
-3) art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 54 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244), który stanowi: „ Art. 54. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem: 1) art. 1, art. 18 i art. 35, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 2) art. 4, art. 6, art. 17, art. 19 i art. 44, które wchodzą w życie z dniem 1 lipca 2019 r.; 3) art. 7 pkt 1 i art. 8 pkt 1 lit. a, które wchodzą w życie z dniem 1 stycznia 2020 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 16 kwietnia 2004 r.
 o administrowaniu obrotem towarowym z zagranicą
 

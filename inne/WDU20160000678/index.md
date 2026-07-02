@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 marca 2003 r. o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich” (Dz. U. Nr 67, poz. 621), z uwzględnieniem zmian wprowadzonych ustawą z dnia 25 września 2015 r.
 o zmianie ustawy o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich” (Dz. U. poz. 1700) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 maja 2016 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 25 września 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich” (Dz. U. poz. 1700), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 25 września 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich” (Dz. U. poz. 1700), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2016 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 28 marca 2003 r.
 o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich”
 

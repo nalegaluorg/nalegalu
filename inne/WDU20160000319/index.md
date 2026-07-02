@@ -34,10 +34,9 @@ poz. 1463);
 poz. 1984).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Rady Ministrów z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U.
-poz. 1463), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U.
-poz. 1984), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”.
-Prezes Rady Ministrów: B. Szydło ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 listopada 2011 r.
+poz. 1463), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1984), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”. Prezes Rady Ministrów: B. Szydło
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 listopada 2011 r.
 w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. poz. 1131, z 2011 r.
 poz. 768, z 2012 r. poz. 1407, z 2014 r. poz. 1741 i 1888 oraz z 2015 r. poz. 2281) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

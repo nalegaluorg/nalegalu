@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie Rady Legislacyjnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 sierpnia 2022 r. w sprawie Rady Legislacyjnej (Dz. U. poz. 1818), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 29 marca 2024 r. zmieniającym rozporządzenie w sprawie Rady Legislacyjnej (Dz. U. poz. 481).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 marca 2024 r. zmieniającego rozporządzenie w sprawie Rady Legislacyjnej (Dz. U.
-poz. 481), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2024 r.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 sierpnia 2022 r.
+poz. 481), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2024 r.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 sierpnia 2022 r.
 w sprawie Rady Legislacyjnej Na podstawie art. 14 ust. 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050) zarządza się, co następuje:
 § 1. Rozporządzenie określa organizację i tryb działania Rady Legislacyjnej, zwanej dalej „Radą”, wysokość wynagrodzenia członków Rady oraz osób zaproszonych do udziału w pracach Rady, a także szczegółowe warunki przyznawania i wypłaty wynagrodzenia.
 § 2. 1. Rada liczy nie więcej niż 15 członków.

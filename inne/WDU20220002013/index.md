@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2013/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu (EMAS) (Dz. U. z 2020 r. poz. 634), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 września 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, 4 i 5, art. 4 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 ustawy z dnia 9 czerwca 2022 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1260), który stanowi: „ Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3, 4 i 5, art. 4 oraz art. 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 15 lipca 2011 r.
 o krajowym systemie ekozarządzania i audytu (EMAS)
 

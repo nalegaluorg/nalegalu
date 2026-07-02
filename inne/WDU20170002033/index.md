@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1245), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju z dnia 16 września 2016 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rozwoju i Finansów: wz . J. Kwieciński ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju z dnia 16 września 2016 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1613), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju i Finansów: wz . J. Kwieciński
+ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
 w sprawie ustalenia planu rozwoju Legnickiej Specjalnej Strefy Ekonomicznej Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U.
 z 2017 r. poz. 1010) zarządza się, co następuje:
 § 1. Ustala się plan rozwoju Legnickiej Specjalnej Strefy Ekonomicznej, stanowiący załącznik do rozporządzenia.

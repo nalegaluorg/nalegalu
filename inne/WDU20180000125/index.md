@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zwrotu akcyzy od wyrobów akcyzowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 20 sierpnia 2010 r. w sprawie zwrotu akcyzy od wyrobów akcyzowych (Dz. U. z 2016 r.
 poz. 920), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. zmieniającym rozporządzenie w sprawie zwrotu akcyzy od wyrobów akcyzowych (Dz. U. poz. 289).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. zmieniającego rozporządzenie w sprawie zwrotu akcyzy od wyrobów akcyzowych (Dz. U. poz. 289), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
-Minister Rozwoju i Finansów: wz. W. Janczyk RozpoRządzenie MINIStra fINaNSóW z dnia 20 sierpnia 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. zmieniającego rozporządzenie w sprawie zwrotu akcyzy od wyrobów akcyzowych (Dz. U. poz. 289), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Rozwoju i Finansów: wz. W. Janczyk
+RozpoRządzenie MINIStra fINaNSóW z dnia 20 sierpnia 2010 r.
 w sprawie zwrotu akcyzy od wyrobów akcyzowych Na podstawie art. 82 ust. 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60, 937 i 2216) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb zwrotu akcyzy,

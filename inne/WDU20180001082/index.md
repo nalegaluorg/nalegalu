@@ -31,9 +31,9 @@ poz. 284), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 24 maja 2017 r. zmieniającym rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1082);
 2) rozporządzeniem Rady Ministrów z dnia 23 listopada 2017 r. zmieniającym rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 2280).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 24 maja 2017 r. zmieniającego rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1082), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 23 listopada 2017 r. zmieniającego rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 2280), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 24 maja 2017 r. zmieniającego rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1082), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 23 listopada 2017 r. zmieniającego rozporządzenie w sprawie suwalskiej specjalnej strefy ekonomicznej (Dz. U. poz. 2280), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie suwalskiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010 oraz z 2018 r. poz. 650) zarządza się, co następuje:
 § 1. 1. Suwalska Specjalna Strefa Ekonomiczna ustanowiona rozporządzeniem Rady Ministrów z dnia 25 czerwca 1996 r. w sprawie ustanowienia Suwalskiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 421, z późn. zm. ), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

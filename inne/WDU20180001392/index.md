@@ -32,9 +32,9 @@ poz. 410);
 2) rozporządzeniem Ministra Infrastruktury z dnia 23 kwietnia 2018 r. zmieniającym rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 875).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 27 lutego 2017 r. zmieniającego rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U.
-poz. 410), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”;
-2) § 2 rozporządzenia Ministra Infrastruktury z dnia 23 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 875), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 15 maja 2013 r.
+poz. 410), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”;
+2) § 2 rozporządzenia Ministra Infrastruktury z dnia 23 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 875), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 15 maja 2013 r.
 w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne Na podstawie art. 111 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn.
 zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

@@ -32,11 +32,11 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 3) rozporządzeniem Rady Ministrów z dnia 13 października 2015 r. zmieniającym rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 1734);
 4) rozporządzeniem Rady Ministrów z dnia 19 maja 2016 r. zmieniającym rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 784).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 13 lutego 2007 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 220), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 20 października 2009 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 1446), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Rady Ministrów z dnia 13 października 2015 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 1734), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-4) § 2 rozporządzenia Rady Ministrów z dnia 19 maja 2016 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 784), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 maja 2004 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 13 lutego 2007 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 220), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 20 października 2009 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 1446), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Rady Ministrów z dnia 13 października 2015 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 1734), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+4) § 2 rozporządzenia Rady Ministrów z dnia 19 maja 2016 r. zmieniającego rozporządzenie w sprawie sieci autostrad i dróg ekspresowych (Dz. U. poz. 784), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 60 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 maja 2004 r.
 w sprawie sieci autostrad i dróg ekspresowych Na podstawie art. 4a ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2017 r. poz. 2222 oraz z 2018 r. poz. 12, 138, 159 i 317) zarządza się, co następuje:
 § 1. 1. Określa się sieć autostrad i dróg ekspresowych w Rzeczypospolitej Polskiej o łącznej długości około 7650 km, w tym około 2000 km autostrad.
 2. Wykaz autostrad i dróg ekspresowych stanowi załącznik do rozporządzenia.

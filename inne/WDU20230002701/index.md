@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1931), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej (Dz. U. poz. 1799).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej (Dz. U. poz. 1799), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 25 września 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej (Dz. U. poz. 1799), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 25 września 2014 r.
 w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej Na podstawie art. 114 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki przyznawania nagród uznaniowych i zapomóg;

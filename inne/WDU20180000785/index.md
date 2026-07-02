@@ -31,9 +31,9 @@ poz. 173), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 16 grudnia 2016 r. zmieniającym rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 2240);
 2) rozporządzeniem Rady Ministrów z dnia 28 czerwca 2017 r. zmieniającym rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 1305).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 16 grudnia 2016 r. zmieniającego rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 2240), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 30 grudnia 2016 r.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 28 czerwca 2017 r. zmieniającego rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 1305), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 16 grudnia 2016 r. zmieniającego rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 2240), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 30 grudnia 2016 r.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 28 czerwca 2017 r. zmieniającego rozporządzenie w sprawie mieleckiej specjalnej strefy ekonomicznej (Dz. U. poz. 1305), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie mieleckiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010 oraz z 2018 r. poz. 650) zarządza się, co następuje:
 § 1. 1. Specjalna Strefa Ekonomiczna Euro-Park Mielec ustanowiona rozporządzeniem Rady Ministrów z dnia 5 września 1995 r. w sprawie ustanowienia specjalnej strefy ekonomicznej w Mielcu (Dz. U. poz. 526, z późn. zm. ), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

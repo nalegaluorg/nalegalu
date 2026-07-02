@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 313), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 17 września 2019 r. zmieniającym rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie (Dz. U. poz. 1878), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: M. Kurtyka
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) zarządza się, co następuje:
 § 1. Ojcowskiemu Parkowi Narodowemu z siedzibą w Ojcowie nadaje się statut, który stanowi załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .

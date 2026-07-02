@@ -31,11 +31,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 1 lutego 2017 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych (Dz. U. poz. 221).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 10 grudnia 2014 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych (Dz. U.
-poz. 1797), które stanowią: „§ 2. Sprawozdania budżetowe, sprawozdania z wykonania planów finansowych w układzie zadaniowym oraz sprawozdania finansowe na rok 2014 są sporządzane zgodnie z rozporządzeniem, o którym mowa w § 1, w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lutego 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych (Dz. U.
-poz. 221), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 19 grudnia 2012 r.
+poz. 1797), które stanowią: „ § 2. Sprawozdania budżetowe, sprawozdania z wykonania planów finansowych w układzie zadaniowym oraz sprawozdania finansowe na rok 2014 są sporządzane zgodnie z rozporządzeniem, o którym mowa w § 1, w brzmieniu dotychczasowym. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lutego 2017 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych (Dz. U. poz. 221), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 19 grudnia 2012 r.
 w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych Na podstawie art. 179 § 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

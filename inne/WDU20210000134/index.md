@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowego Centrum Nauki
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 1154), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającym rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Edukacji i Nauki: P. Czarnek
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
 w sprawie statutu Narodowego Centrum Nauki Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2019 r. poz. 1384) zarządza się, co następuje:
 § 1. Narodowemu Centrum Nauki nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.

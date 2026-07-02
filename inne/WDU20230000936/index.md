@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 1 grudnia 2016 r. w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. z 2021 r. poz. 414), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 3 marca 2022 r. zmieniającym rozporządzenie w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. poz. 532).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. poz. 532), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 1 grudnia 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 3 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. poz. 532), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 1 grudnia 2016 r.
 w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych Na podstawie art. 3 ustawy z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych (Dz. U.
 z 2020 r. poz. 720) zarządza się, co następuje:
 § 1. Polskiemu Instytutowi Spraw Międzynarodowych nadaje się statut, stanowiący załącznik do rozporządzenia.

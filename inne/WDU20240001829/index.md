@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001829) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1829/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2023 r. poz. 1923), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 listopada 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „ Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.; 2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 4 listopada 2016 r.
 o wsparciu kobiet w ciąży i rodzin „Za życiem”
 

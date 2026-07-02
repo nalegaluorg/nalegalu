@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie opłat za udostępnianie informacji o środowisku
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 12 listopada 2010 r. w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 1415), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającym rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 12 listopada 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 12 listopada 2010 r.
 w sprawie opłat za udostępnianie informacji o środowisku Na podstawie art. 28 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 2373 i 2389) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowe stawki opłat,

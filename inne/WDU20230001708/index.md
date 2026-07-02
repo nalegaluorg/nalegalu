@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie zespołu do przygotowania zadań na egzamin radcowski
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 10 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin radcowski (Dz. U. z 2018 r. poz. 84), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającym rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin radcowski (Dz. U. poz. 450).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin radcowski (Dz. U. poz. 450), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: wz. M. Warchoł ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 10 grudnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin radcowski (Dz. U. poz. 450), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: wz. M. Warchoł
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 10 grudnia 2013 r.
 w sprawie zespołu do przygotowania zadań na egzamin radcowski Na podstawie art. 36 ust. 12 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb i sposób działania zespołu do przygotowania zadań na egzamin radcowski, zwanego dalej „zespołem”;

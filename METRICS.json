@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-01T23:19:18Z",
+  "generated_at": "2026-07-02T13:18:28Z",
   "acts": {
-    "published": 18710,
-    "rejected": 396,
+    "published": 18708,
+    "rejected": 397,
     "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 570706891,
-    "total_articles": 210865,
-    "avg_body_chars": 30502,
-    "avg_articles": 11.3
+    "total_body_chars": 570353369,
+    "total_articles": 209638,
+    "avg_body_chars": 30487,
+    "avg_articles": 11.2
   },
   "sources": {
-    "pdf": 18466,
+    "pdf": 18464,
     "eli-html": 242,
     "unknown": 2
   },
   "act_types": {
     "Rozporządzenie": 9859,
     "Ustawa": 4850,
-    "Obwieszczenie": 2236,
+    "Obwieszczenie": 2234,
     "Orzeczenie": 1373,
     "Umowa międzynarodowa": 329,
     "Protokół": 18,
@@ -34,16 +34,16 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11738,
+    "obowiązujący": 11736,
     "akt objęty tekstem jednolitym": 5075,
     "akt posiada tekst jednolity": 1887,
     "akt jednorazowy": 10
   },
   "domains": {
-    "inne": 17831,
+    "inne": 17830,
     "prawo-podatkowe": 190,
     "prawo-karne": 159,
-    "prawo-cywilne": 142,
+    "prawo-cywilne": 141,
     "prawo-administracyjne": 67,
     "prawo-pracy": 66,
     "prawo-ochrony-srodowiska": 65,
@@ -59,12 +59,12 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 602,
+    "quality_gate_blocked": 670,
     "original_pdf_for_unified_skipped": 4941,
-    "consolidated_article_coverage_checked": 684,
-    "consolidated_article_coverage_with_gaps": 461,
-    "consolidated_article_coverage_unexplained_gaps": 10689,
+    "consolidated_article_coverage_checked": 703,
+    "consolidated_article_coverage_with_gaps": 473,
+    "consolidated_article_coverage_unexplained_gaps": 10815,
     "rejected_scans": 1,
-    "rejected_other": 395
+    "rejected_other": 396
   }
 }

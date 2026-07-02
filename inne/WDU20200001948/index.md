@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 25 stycznia 2016 r. w sprawie centrum urazowego dla dzieci (Dz. U. z 2018 r.
 poz. 558), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 16 października 2018 r.
 zmieniającym rozporządzenie w sprawie centrum urazowego dla dzieci (Dz. U. poz. 2042).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 16 października 2018 r. zmieniającego rozporządzenie w sprawie centrum urazowego dla dzieci (Dz. U. poz. 2042), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 stycznia 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 16 października 2018 r. zmieniającego rozporządzenie w sprawie centrum urazowego dla dzieci (Dz. U. poz. 2042), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 stycznia 2016 r.
 w sprawie centrum urazowego dla dzieci Na podstawie art. 39h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r.
 poz. 882) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie sprawozdania z działalności brokerskiej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 6 lutego 2019 r. w sprawie sprawozdania z działalności brokerskiej (Dz. U. poz. 329), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 października 2021 r. zmieniającym rozporządzenie w sprawie sprawozdania z działalności brokerskiej (Dz. U. poz. 1963).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 października 2021 r. zmieniającego rozporządzenie w sprawie sprawozdania z działalności brokerskiej (Dz. U. poz. 1963), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 lutego 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 października 2021 r. zmieniającego rozporządzenie w sprawie sprawozdania z działalności brokerskiej (Dz. U. poz. 1963), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 6 lutego 2019 r.
 w sprawie sprawozdania z działalności brokerskiej Na podstawie art. 81 ust. 3 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2022 r. poz. 905) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa:
 1) szczegółowy zakres, częstotliwość, formę i sposób sporządzania sprawozdania z działalności brokerskiej;

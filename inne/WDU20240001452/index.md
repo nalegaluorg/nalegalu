@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie informacji podatkowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie informacji podatkowych (Dz. U. z 2017 r. poz. 68), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 16 lutego 2023 r. zmieniającym rozporządzenie w sprawie informacji podatkowych (Dz. U. poz. 422).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie informacji podatkowych (Dz. U. poz. 422), które stanowią: „§ 2. Przepis § 3 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do informacji składanych za rok podatkowy rozpoczynający się po dniu 31 grudnia 2021 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.”.
-Minister Finansów: A. Domański ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 grudnia 2002 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 16 lutego 2023 r. zmieniającego rozporządzenie w sprawie informacji podatkowych (Dz. U. poz. 422), które stanowią: „ § 2. Przepis § 3 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do informacji składanych za rok podatkowy rozpoczynający się po dniu 31 grudnia 2021 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 3, który wchodzi w życie po upływie 4 miesięcy od dnia ogłoszenia.”. Minister Finansów: A. Domański
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 grudnia 2002 r.
 w sprawie informacji podatkowych Na podstawie art. 82 § 6, art. 82a § 2 i art. 85 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r.
 poz. 2383 i 2760 oraz z 2024 r. poz. 879) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa:

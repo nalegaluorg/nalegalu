@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska specjalnego obszaru ochrony siedlisk Dolina Wolicy (PLH060058)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Środowiska z dnia 13 marca 2018 r. w sprawie specjalnego obszaru ochrony (PLH060058) (Dz. U. poz. 786), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra z dnia 22 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ochrony (PLH060058) (Dz. U. poz. 2259).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Dolina Wolicy (PLH060058) (Dz. U. poz. 2259), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 13 marca 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Dolina Wolicy (PLH060058) (Dz. U. poz. 2259), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 13 marca 2018 r.
 w sprawie specjalnego obszaru ochrony siedlisk Dolina Wolicy (PLH060058) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Dolina Wolicy (PLH060058 ), obejmujący położony w województwie lubelskim, składający się z trzech powiązanych funkcjonalnie enklaw.

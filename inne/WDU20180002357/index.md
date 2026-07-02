@@ -30,12 +30,8 @@ source: pdf
 2) ustawą z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 grudnia 2018 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 71 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U.
-Nr 32, poz. 131), który stanowi: „Art. 71. Ustawa wchodzi w życie z dniem 1 lipca 1991 r.”;
-2) art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „Art. 236. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.;
-2) art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.;
-3) art. 188, który wchodzi w życie z dniem 1 października 2018 r.”.
-Marszałek Sejmu: M. Kuchciński
+Nr 32, poz. 131), który stanowi: „ Art. 71. Ustawa wchodzi w życie z dniem 1 lipca 1991 r.”;
+2) art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „ Art. 236. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.; 2) art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.; 3) art. 188, który wchodzi w życie z dniem 1 października 2018 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 17 grudnia 1977 r.
 o polskiej strefie rybołówstwa morskiego W celu wzmożenia ochrony żywych zasobów wód przyległych do brzegu morskiego Rzeczypospolitej Polskiej i zapewnienia ich racjonalnego wykorzystania, stanowi się, co następuje:
 

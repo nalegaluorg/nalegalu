@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narod
 1) rozporządzeniem Ministra Edukacji i Nauki z dnia 30 marca 2023 r. zmieniającym rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 640);
 2) rozporządzeniem Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającym rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 2063).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 640), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 2063), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Edukacji i Nauki: wz. D. Piontkowski ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 26 lipca 2018 r.
+1) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 30 marca 2023 r. zmieniającego rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 640), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 2063), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Edukacji i Nauki: wz. D. Piontkowski
+ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 26 lipca 2018 r.
 w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców Na podstawie art. 83 ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
 § 1. Rad rodziców nie tworzy się w następujących rodzajach szkół i placówek publicznych prowadzonych przez jednostki samorządu terytorialnego i ministrów:
 1) szkoły dla dorosłych;

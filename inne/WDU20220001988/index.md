@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2013 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U.
 z 2021 r. poz. 470), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 30 września 2021 r.
 zmieniającym rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 sierpnia 2022 r. (Dz. U. poz. 1988) ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 sierpnia 2022 r. (Dz. U. poz. 1988)
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
 w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648 i 1933) zarządza się, co następuje:
 § 1. 1. Ustala się Krajową Tablicę Przeznaczeń Częstotliwości, zwaną dalej „Tablicą”, stanowiącą załącznik nr 1 do rozporządzenia.
 2. Uwagi do przeznaczeń zakresów częstotliwości określonych w Tablicy zawiera załącznik nr 2 do rozporządzenia.

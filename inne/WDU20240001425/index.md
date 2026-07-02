@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 2249), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającym rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 listopada 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 31 maja 2023 r. zmieniającego rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 1079), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: A. Bodnar
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 listopada 2018 r.
 w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej Na podstawie art. 205 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860 oraz z 2024 r. poz. 1222) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wysokość funduszu na nagrody uznaniowe i zapomogi dla funkcjonariuszy Służby Więziennej, zwanego dalej „funduszem”;

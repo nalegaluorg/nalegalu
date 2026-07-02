@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 396
+Acts excluded from publication due to quality issues. Total: 397
 
 | Address | Reason |
 |---------|--------|
@@ -103,6 +103,7 @@ Acts excluded from publication due to quality issues. Total: 396
 | WDU20130000924 | excessive repetition — '..................................................…' app |
 | WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001413 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001441 | omitted-provisions quotation ran into the next item ('4) § 2 rozporządzenia Mini |
 | WDU20130001576 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001619 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000221 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2014_221.txt.  |
@@ -364,7 +365,7 @@ Acts excluded from publication due to quality issues. Total: 396
 | WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000402 | processing failed without diagnostic (stage=error; stale rendered output ignored |
-| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); missing paragra |
 | WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
@@ -376,7 +377,7 @@ Acts excluded from publication due to quality issues. Total: 396
 | WDU20240000798 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); excessive repet |
 | WDU20240000823 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240000871 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); missing paragra |
 | WDU20240000955 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000992 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); character-space |
 | WDU20240000996 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |

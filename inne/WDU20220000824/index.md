@@ -35,8 +35,8 @@ szkoleń w zakresie środków ochrony roślin (Dz. U. poz. 413).
 1) § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca w sprawie szkoleń w zakresie środków ochrony roślin (Dz. U. poz. 1320), które „§ 2. Zaświadczenia o ukończeniu szkolenia w zakresie środków ochrony w rozporządzeniu zmienianym w § 1 mogą być wydawane do dnia 31 grudnia
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 marca 2021 r.
-szkoleń w zakresie środków ochrony roślin (Dz. U. poz. 413), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
-Minister RozpoRządzenie MINISTRA ROLNICTWA I ROZWOJU z dnia 8 maja 2013 r.
+szkoleń w zakresie środków ochrony roślin (Dz. U. poz. 413), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Minister
+RozpoRządzenie MINISTRA ROLNICTWA I ROZWOJU z dnia 8 maja 2013 r.
 w sprawie szkoleń w zakresie środków ochrony Na podstawie art. 72 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin co następuje:
 § 1. Rozporządzenie określa:
 1) warunki organizacyjno-techniczne prowadzenia szkoleń w zakresie doradztwa w zakresie stosowania środków ochrony roślin, w zakresie badań sprawności stosowania środków ochrony roślin i w zakresie integrowanej produkcji roślin, środków ochrony roślin”;

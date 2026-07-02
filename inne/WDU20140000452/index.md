@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej (Dz. U. Nr 158, poz. 1246), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Gospodarki z dnia 18 stycznia 2013 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 137).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Gospodarki z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 137), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Gospodarki: wz. J. Pietrewicz ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Gospodarki z dnia 18 stycznia 2013 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 137), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Gospodarki: wz. J. Pietrewicz
+ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
 w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r.
 Nr 42, poz. 274, z 2008 r. Nr 118, poz. 746 oraz z 2009 r. Nr 18, poz. 97) zarządza się, co następuje:
 § 1. Ustala się plan rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej, stanowiący załącznik do rozporządzenia.

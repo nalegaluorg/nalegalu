@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U.
 z 2018 r. poz. 411), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 26 lipca 2018 r.
 zmieniającym rozporządzenie w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1569).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1569), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 26 lipca 2018 r. zmieniającego rozporządzenie w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1569), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2019 r.
 poz. 482 i 2020) zarządza się, co następuje:
 § 1. 1. Tarnobrzeska Specjalna Strefa Ekonomiczna EURO-PARK WISŁOSAN ustanowiona rozporządzeniem Rady Ministrów z dnia 9 września 1997 r. w sprawie ustanowienia tarnobrzeskiej specjalnej strefy ekonomicznej (Dz. U. poz. 907, z późn. zm. ), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

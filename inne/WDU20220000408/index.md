@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającym rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219);
 2) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającym rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 21 kwietnia 2017 r.
+1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 stycznia 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 219), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. poz. 1730), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 21 kwietnia 2017 r.
 w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U.
 z 2020 r. poz. 481 oraz z 2022 r. poz. 24) zarządza się, co następuje:
 § 1. Krajowemu Ośrodkowi Wsparcia Rolnictwa nadaje się statut stanowiący załącznik do rozporządzenia.

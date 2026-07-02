@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 kwietnia 2011 r. w sprawie metod i środków kontroli w zakresie ochrony żeglugi i portów morskich (Dz. U. poz. 539), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 11 marca 2019 r.
 zmieniającym rozporządzenie w sprawie metod i środków kontroli w zakresie ochrony żeglugi i portów morskich (Dz. U.
 poz. 563).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 11 marca 2019 r. zmieniającego rozporządzenie w sprawie metod i środków kontroli w zakresie ochrony żeglugi i portów morskich (Dz. U. poz. 563), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 kwietnia 2011 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 11 marca 2019 r. zmieniającego rozporządzenie w sprawie metod i środków kontroli w zakresie ochrony żeglugi i portów morskich (Dz. U. poz. 563), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 kwietnia 2011 r.
 w sprawie metod i środków kontroli w zakresie ochrony żeglugi i portów morskich Na podstawie art. 42 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2022 r. poz. 2257 oraz z 2023 r. poz. 261) zarządza się, co następuje:
 § 1. Rozporządzenie określa metody i środki kontroli w zakresie ochrony żeglugi i portów morskich, w tym:
 1) organizację i formy kontroli;

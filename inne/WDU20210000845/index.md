@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 24 sierpnia 2012 r. w sprawie poziomów niektórych substancji w powietrzu (Dz. U.
 poz. 1031), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 8 października 2019 r.
 zmieniającym rozporządzenie w sprawie poziomów niektórych substancji w powietrzu (Dz. U. poz. 1931).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie poziomów niektórych substancji w powietrzu (Dz. U. poz. 1931), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Klimatu i Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 24 sierpnia 2012 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 8 października 2019 r. zmieniającego rozporządzenie w sprawie poziomów niektórych substancji w powietrzu (Dz. U. poz. 1931), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: M. Kurtyka
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 24 sierpnia 2012 r.
 w sprawie poziomów niektórych substancji w powietrzu Na podstawie art. 86 ust. 1 i 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) poziomy dopuszczalne dla niektórych substancji w powietrzu, zróżnicowane ze względu na ochronę zdrowia ludzi oraz ochronę roślin;

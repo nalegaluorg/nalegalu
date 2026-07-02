@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1) rozporządzeniem Ministra Zdrowia z dnia 30 października 2019 r. zmieniającym rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230);
 2) rozporządzeniem Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającym rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 października 2014 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2230), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 1 grudnia 2020 r. zmieniającego rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 2130), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 października 2014 r.
 w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r.
 poz. 195) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

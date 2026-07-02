@@ -29,9 +29,8 @@ source: pdf
 1) ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248),
 2) ustawą z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi: „Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 5 ustawy z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi: „ Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 5 ustawy z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 czerwca 2016 r.
 o działaniach antyterrorystycznych
 

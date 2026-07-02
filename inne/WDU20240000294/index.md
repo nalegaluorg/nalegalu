@@ -26,18 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/294/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2022 r. poz. 133), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 lutego 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), który stanowi: „Art. 73. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 26, który wchodzi w życie z dniem ogłoszenia;
-2) art. 3 pkt 1 lit. a, art. 30 oraz art. 42, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 17 pkt 47 lit. f w zakresie art. 89 ust. 4d pkt 3, art. 19 pkt 6 i 22, art. 27 oraz art. 29 pkt 16 i 18, art. 40 i art. 71, które wchodzą w życie z dniem 1 października 2023 r.;
-4) art. 2, art. 3 pkt 4, art. 13, art. 15 pkt 24, art. 23 pkt 36 lit. b i pkt 48, art. 39, art. 41, art. 51 i art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-5) art. 15 pkt 16 lit. c, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
-6) art. 14 pkt 1 lit. a i pkt 37, art. 17 pkt 10 oraz art. 29 pkt 11, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
-7) art. 38 pkt 2, który wchodzi w życie z dniem 1 czerwca 2024 r.;
-8) art. 20, który wchodzi w życie z dniem 1 lipca 2024 r.;
-9) art. 32 pkt 11 lit. b, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia;
-10) art. 19 pkt 4, który wchodzi w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), który stanowi: „ Art. 73. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 26, który wchodzi w życie z dniem ogłoszenia; 2) art. 3 pkt 1 lit. a, art. 30 oraz art. 42, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 17 pkt 47 lit. f w zakresie art. 89 ust. 4d pkt 3, art. 19 pkt 6 i 22, art. 27 oraz art. 29 pkt 16 i 18, art. 40 i art. 71, które wchodzą w życie z dniem 1 października 2023 r.; 4) art. 2, art. 3 pkt 4, art. 13, art. 15 pkt 24, art. 23 pkt 36 lit. b i pkt 48, art. 39, art. 41, art. 51 i art. 62 ust. 2, które wchodzą w życie z dniem 1 stycznia 2024 r.; 5) art. 15 pkt 16 lit. c, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia; 6) art. 14 pkt 1 lit. a i pkt 37, art. 17 pkt 10 oraz art. 29 pkt 11, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia; 7) art. 38 pkt 2, który wchodzi w życie z dniem 1 czerwca 2024 r.; 8) art. 20, który wchodzi w życie z dniem 1 lipca 2024 r.; 9) art. 32 pkt 11 lit. b, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia; 10) art. 19 pkt 4, który wchodzi w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 2 kwietnia 2004 r.
 o niektórych zabezpieczeniach finansowych
 

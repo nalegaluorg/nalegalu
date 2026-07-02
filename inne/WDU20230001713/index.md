@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 18 stycznia 2019 r. w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U. z 2020 r. poz. 714), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 15 czerwca 2023 r. zmieniającym rozporządzenie w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U.
 poz. 1291).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 15 czerwca 2023 r. zmieniającego rozporządzenie w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U. poz. 1291), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 18 stycznia 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 15 czerwca 2023 r. zmieniającego rozporządzenie w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące (Dz. U. poz. 1291), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 18 stycznia 2019 r.
 w sprawie ograniczeń lotów na czas nie dłuższy niż 3 miesiące Na podstawie art. 119 ust. 4 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, z późn.
 zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa zasady wprowadzania przez instytucję zapewniającą służby ruchu lotniczego ograniczeń lotów w części przestrzeni powietrznej, których czas trwania nie będzie dłuższy niż 3 miesiące, oraz sposób publikacji tych ograniczeń.

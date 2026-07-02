@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2023 r. poz. 665), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 14 lipca 2023 r. zmieniającym rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1387).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 14 lipca 2023 r. zmieniającego rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1387), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2023 r.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 24 lutego 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 14 lipca 2023 r. zmieniającego rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1387), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2023 r.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 24 lutego 2017 r.
 w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 226 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

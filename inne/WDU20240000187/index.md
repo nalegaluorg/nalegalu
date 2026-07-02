@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i w sprawie specjalnego obszaru ochrony siedlisk Kaszubskie Klify (PLH220072)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity Ministra Klimatu i Środowiska z dnia 18 lutego 2022 r. w sprawie specjalnego obszaru ochrony (PLH220072) (Dz. U. poz. 493), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra z dnia 7 grudnia 2022 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ochrony (PLH220072) (Dz. U. poz. 2585).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Kaszubskie Klify (PLH220072) (Dz. U. poz. 2585), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 18 lutego 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Kaszubskie Klify (PLH220072) (Dz. U. poz. 2585), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 18 lutego 2022 r.
 w sprawie specjalnego obszaru ochrony siedlisk Kaszubskie Klify (PLH220072) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Kaszubskie Klify (PLH220072 ), obejmujący położony w województwie pomorskim oraz polskim obszarze morskim, składający się z dwóch enklaw.

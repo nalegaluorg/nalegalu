@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 8 sierpnia 2017 r. w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1631), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 10 września 2020 r. zmieniającym rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 8 sierpnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 września 2020 r. zmieniającego rozporządzenie w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu (Dz. U. poz. 1622), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 8 sierpnia 2017 r.
 w sprawie sposobu organizacji zwalczania zagrożeń i zanieczyszczeń na morzu Na podstawie art. 24 ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U.
 z 2020 r. poz. 1955) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa:

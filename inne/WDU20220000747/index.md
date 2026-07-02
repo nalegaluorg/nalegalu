@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U. poz. 2052) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu poprawy spójności terminologicznej systemu prawnego (Dz. U.
-poz. 2052), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+poz. 2052), który stanowi: „ Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 17 listopada 2006 r.
 o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 

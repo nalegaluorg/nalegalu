@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie egzaminu i świadectwa zawodowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 1 lipca 2010 r. w sprawie egzaminu i świadectwa zawodowego (Dz. U. Nr 118, poz. 794), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 12 grudnia 2011 r. zmieniającym rozporządzenie w sprawie egzaminu i świadectwa zawodowego (Dz. U. Nr 279, poz. 1638).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 12 grudnia 2011 r. zmieniającego rozporządzenie w sprawie egzaminu i świadectwa zawodowego (Dz. U. Nr 279, poz. 1638), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: wz. M. Grabowski ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 lipca 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 12 grudnia 2011 r. zmieniającego rozporządzenie w sprawie egzaminu i świadectwa zawodowego (Dz. U. Nr 279, poz. 1638), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: wz. M. Grabowski
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 lipca 2010 r.
 w sprawie egzaminu i świadectwa zawodowego Na podstawie art. 25 ust. 8 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540, z późn.
 zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

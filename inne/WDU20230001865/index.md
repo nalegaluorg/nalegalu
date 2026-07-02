@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 203), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 15 marca 2022 r. zmieniającym rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U.
 poz. 686).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 686), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 25 stycznia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 686), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 25 stycznia 2017 r.
 w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu Na podstawie art. 3 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253 oraz z 2023 r. poz. 825, 1705, 1784 i 1843) zarządza się, co następuje:
 § 1. Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .

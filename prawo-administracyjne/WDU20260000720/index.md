@@ -30,14 +30,9 @@ source: pdf
 2) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252),
 3) ustawą z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 32 ustawy z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 15 lit. d–f, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 11 pkt 2 i 3, które wchodzą w życie z dniem 30 grudnia 2025 r.;
-3) art. 3, który wchodzi w życie z dniem 1 stycznia 2026 r.;
-4) art. 11 pkt 1, który wchodzi w życie z dniem 20 października 2026 r.”;
-2) art. 49 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), który stanowi: „Art. 49. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”;
-3) art. 24 i art. 30 ustawy z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451), które stanowią: „Art. 24. Do dnia 31 grudnia 2027 r. sejmik województwa dostosuje strategię rozwoju województwa, o której mowa w art. 11 ust. 1 ustawy zmienianej w art. 16 w brzmieniu nadanym niniejszą ustawą, do zmian wprowadzonych niniejszą ustawą.” „Art. 30. Ustawa wchodzi w życie z dniem 1 lipca 2026 r., z wyjątkiem art. 20 i art. 21, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 32 ustawy z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535), który stanowi: „ Art. 32. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 15 lit. d–f, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 11 pkt 2 i 3, które wchodzą w życie z dniem 30 grudnia 2025 r.; 3) art. 3, który wchodzi w życie z dniem 1 stycznia 2026 r.; 4) art. 11 pkt 1, który wchodzi w życie z dniem 20 października 2026 r.”;
+2) art. 49 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), który stanowi: „ Art. 49. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”;
+3) art. 24 i art. 30 ustawy z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności (Dz. U. poz. 451), które stanowią: „ Art. 24. Do dnia 31 grudnia 2027 r. sejmik województwa dostosuje strategię rozwoju województwa, o której mowa w art. 11 ust. 1 ustawy zmienianej w art. 16 w brzmieniu nadanym niniejszą ustawą, do zmian wprowadzonych niniejszą ustawą.” „Art. 30. Ustawa wchodzi w życie z dniem 1 lipca 2026 r., z wyjątkiem art. 20 i art. 21, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 5 czerwca 1998 r.
 o samorządzie województwa
 

@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2024 r. poz. 1286), z uwzględnieniem zmian wprowadzonych ustawą z dnia 21 listopada 2024 r.
 o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1881) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 sierpnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1881), który stanowi: „Art. 19. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 lit. a tiret drugie w zakresie, w jakim dotyczy dziesięcioletniego planu rozwoju sieci wodorowej o zasięgu unijnym, który wchodzi w życie z dniem 1 stycznia 2027 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 1881), który stanowi: „ Art. 19. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 1 pkt 20 lit. a tiret drugie w zakresie, w jakim dotyczy dziesięcioletniego planu rozwoju sieci wodorowej o zasięgu unijnym, który wchodzi w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 24 kwietnia 2009 r.
 o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
 

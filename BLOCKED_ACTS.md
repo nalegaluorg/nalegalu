@@ -134,7 +134,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20160000423 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20160000424 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000696 | Obwieszczenie Ministra Rozwoju z dnia 19 kwietnia 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20160000763 | Obwieszczenie Prezesa Rady Ministrów z dnia 17 maja 2016 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20160000763 | Obwieszczenie Prezesa Rady Ministrów z dnia 17 maja 2016 r. … | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20160000802 | Rozporządzenie Ministra Rozwoju z dnia 2 czerwca 2016 r. w s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000840 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000923 | Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -163,9 +163,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20170001803 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 wrześni… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20170001806 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 wrześni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170001962 | Obwieszczenie Ministra Spraw Zagranicznych z dnia 29 wrześni… | PostScript CE garbled diacritics — unrepaired encoding (1 oc |
-| WDU20170002015 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '……………………………………………………………………………………………… |
-| WDU20170002019 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '.................................... |
-| WDU20170002020 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '.................................... |
+| WDU20170002015 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '………………………………………………………………………………………………… |
+| WDU20170002019 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '....................................… |
+| WDU20170002020 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '....................................… |
 | WDU20170002041 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170002364 | Rozporządzenie Ministra Zdrowia z dnia 5 grudnia 2017 r. zmi… | character-spaced text — 8 line(s) with >30% single-letter wo… |
 | WDU20170002443 | Rozporządzenie Ministra Środowiska z dnia 20 grudnia 2017 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -233,7 +233,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20200000189 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
 | WDU20200000202 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 st… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000229 | Obwieszczenie Ministra Finansów z dnia 10 stycznia 2020 r. w… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20200000233 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | character-spaced text — 4 line(s) with >30% single-letter wo |
+| WDU20200000233 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | character-spaced text — 4 line(s) with >30% single-letter wo… |
 | WDU20200000348 | Rozporządzenie Ministra Aktywów Państwowych z dnia 25 lutego… | character-spaced text — 3 line(s) with >30% single-letter wo |
 | WDU20200000502 | Rozporządzenie Ministra Sprawiedliwości z dnia 18 marca 2020… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000560 | Rozporządzenie Rady Ministrów z dnia 27 marca 2020 r. zmieni… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -243,7 +243,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20200001010 | Obwieszczenie Ministra Infrastruktury z dnia 29 kwietnia 202… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20200001322 | Rozporządzenie Ministra Rozwoju z dnia 28 lipca 2020 r. w sp… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20200001605 | Rozporządzenie Ministra Obrony Narodowej z dnia 31 sierpnia … | excessive repetition — '.................................... |
-| WDU20200001825 | Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 28… | excessive repetition — '.................................... |
+| WDU20200001825 | Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 28… | excessive repetition — '....................................… |
 | WDU20200001894 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200001916 | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia … | excessive repetition — '4 Obowiązek | Warunek Obligatoryjny. |
 | WDU20200001952 | Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sp… | excessive repetition — '.................................... |
@@ -337,7 +337,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20230002614 | Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2023 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002621 | Rozporządzenie Rady Ministrów z dnia 21 listopada 2023 r. w … | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' a |
 | WDU20230002672 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230002737 | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20230002737 | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20230002738 | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002758 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 8 grudn… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002773 | Rozporządzenie Ministra Finansów z dnia 5 grudnia 2023 r. zm… | CID font encoding failure — unreadable glyphs (1 occurrence( |
@@ -347,9 +347,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000136 | Rozporządzenie Ministra Obrony Narodowej z dnia 12 stycznia … | character-spaced text — 4 line(s) with >30% single-letter wo |
 | WDU20240000202 | Rozporządzenie Ministra Obrony Narodowej z dnia 6 lutego 202… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20240000270 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lu… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000335 | Obwieszczenie Ministra Zdrowia z dnia 20 lutego 2024 r. w sp… | character-spaced text — 3 line(s) with >30% single-letter wo |
+| WDU20240000335 | Obwieszczenie Ministra Zdrowia z dnia 20 lutego 2024 r. w sp… | character-spaced text — 3 line(s) with >30% single-letter wo… |
 | WDU20240000351 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 20 lute… | CID font encoding failure — unreadable glyphs (3 occurrence( |
-| WDU20240000453 | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w spraw… | CID font encoding failure — unreadable glyphs (2 occurrence( |
+| WDU20240000453 | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w spraw… | CID font encoding failure — unreadable glyphs (2 occurrence(… |
 | WDU20240000458 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 marca 202… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU20240000515 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20240000569 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 2 line(s) with >30% single-letter wo |
@@ -359,7 +359,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000798 | Obwieszczenie Ministra Zdrowia z dnia 16 kwietnia 2024 r. w … | CID font encoding failure — unreadable glyphs (1 occurrence(… |
 | WDU20240000823 | Rozporządzenie Ministra Obrony Narodowej z dnia 22 maja 2024… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20240000871 | Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 20… | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20240000903 | Obwieszczenie Ministra Rozwoju i Technologii z dnia 28 maja … | CID font encoding failure — unreadable glyphs (1 occurrence( |
+| WDU20240000903 | Obwieszczenie Ministra Rozwoju i Technologii z dnia 28 maja … | CID font encoding failure — unreadable glyphs (1 occurrence(… |
 | WDU20240000955 | Obwieszczenie Ministra Obrony Narodowej z dnia 28 maja 2024 … | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20240000992 | Rozporządzenie Ministra Przemysłu z dnia 25 czerwca 2024 r. … | CID font encoding failure — unreadable glyphs (2 occurrence(… |
 | WDU20240000996 | Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
@@ -375,9 +375,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240001404 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
 | WDU20240001514 | Rozporządzenie Ministra Nauki z dnia 10 października 2024 r.… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240001533 | Rozporządzenie Ministra Obrony Narodowej z dnia 12 września … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240001542 | Obwieszczenie Ministra Zdrowia z dnia 25 września 2024 r. w … | excessive repetition — '.................................... |
+| WDU20240001542 | Obwieszczenie Ministra Zdrowia z dnia 25 września 2024 r. w … | excessive repetition — '....................................… |
 | WDU20240001641 | Rozporządzenie Rady Ministrów z dnia 31 października 2024 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240001746 | Obwieszczenie Ministra Finansów z dnia 31 października 2024 … | excessive repetition — 'Objaśnienia i informacje dodatkowe d |
+| WDU20240001746 | Obwieszczenie Ministra Finansów z dnia 31 października 2024 … | excessive repetition — 'Objaśnienia i informacje dodatkowe d… |
 | WDU20240001754 | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy budżetowe… | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL;… |
 | WDU20240001785 | Obwieszczenie Ministra Klimatu i Środowiska z dnia 7 listopa… | excessive repetition — '.................................... |
 | WDU20240001850 | Rozporządzenie Prezesa Rady Ministrów z dnia 12 grudnia 2024… | excessive repetition — '.................................... |

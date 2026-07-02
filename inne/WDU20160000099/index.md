@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie składania wniosku o wydanie licencji detektywa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2015 r. poz. 1484 i 1890) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2004 r. w sprawie składania wniosku o wydanie licencji detektywa (Dz. U. Nr 196, poz. 2020), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych z dnia 18 grudnia 2013 r. zmieniającym rozporządzenie w sprawie składania wniosku o wydanie licencji detektywa (Dz. U. poz. 1672).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie składania wniosku o wydanie licencji detektywa (Dz. U. poz. 1672), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.”.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 sierpnia 2004 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 18 grudnia 2013 r. zmieniającego rozporządzenie w sprawie składania wniosku o wydanie licencji detektywa (Dz. U. poz. 1672), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.”. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 30 sierpnia 2004 r.
 w sprawie składania wniosku o wydanie licencji detektywa Na podstawie art. 29 ust. 4 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2014 r. poz. 273 i 822 oraz z 2015 r. poz. 1893) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb składania wniosku o wydanie licencji detektywa, zwanego dalej „wnioskiem”;

@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra Energii w sprawie metod badania jakości paliw stałych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 27 września 2018 r. w sprawie metod badania jakości paliw stałych (Dz. U. poz. 1893), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Energii z dnia 4 lipca 2019 r. zmieniającym rozporządzenie w sprawie metod badania jakości paliw stałych (Dz. U. poz. 1258).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Energii z dnia 4 lipca 2019 r. zmieniającego rozporządzenie w sprawie metod badania jakości paliw stałych (Dz. U.
-poz. 1258), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Klimatu i Środowiska: wz. I. Zyska rozporządzEniE mINIStra ENErgII z dnia 27 września 2018 r.
+poz. 1258), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: wz. I. Zyska
+rozporządzEniE mINIStra ENErgII z dnia 27 września 2018 r.
 w sprawie metod badania jakości paliw stałych Na podstawie art. 26b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U.
 z 2021 r. poz. 133, 694 i 1093) zarządza się, co następuje:
 § 1. Metody badania jakości paliw stałych określa załącznik do rozporządzenia.

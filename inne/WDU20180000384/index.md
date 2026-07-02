@@ -31,9 +31,9 @@ z 2014 r. poz. 1248), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Rady Ministrów z dnia 22 grudnia 2016 r. zmieniającym rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 2241);
 2) rozporządzeniem Rady Ministrów z dnia 1 czerwca 2017 r. zmieniającym rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1167).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 22 grudnia 2016 r. zmieniającego rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 2241), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 30 grudnia 2016 r.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 1 czerwca 2017 r. zmieniającego rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1167), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 22 grudnia 2016 r. zmieniającego rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 2241), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 30 grudnia 2016 r.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 1 czerwca 2017 r. zmieniającego rozporządzenie w sprawie starachowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1167), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie starachowickiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010) zarządza się, co następuje:
 § 1. 1. Specjalna Strefa Ekonomiczna „Starachowice” ustanowiona rozporządzeniem Rady Ministrów z dnia 9 września 1997 r. w sprawie ustanowienia Specjalnej Strefy Ekonomicznej „Starachowice” (Dz. U. poz. 906, z późn. zm. ), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

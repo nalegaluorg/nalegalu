@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie właściwości miejscowej organów celnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 31 maja 2016 r. w sprawie właściwości miejscowej organów celnych (Dz. U.
 poz. 801), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającym rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
-Minister Rozwoju i Finansów: wz. W. Janczyk ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 maja 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie właściwości miejscowej organów celnych (Dz. U. poz. 359), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Rozwoju i Finansów: wz. W. Janczyk
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 maja 2016 r.
 w sprawie właściwości miejscowej organów celnych Na podstawie art. 71 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2018 r. poz. 167) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa właściwość miejscową organów celnych w sprawach postępowań celnych, dozoru celnego i kontroli celnej oraz innych zadań wykonywanych przez te organy, określonych w przepisach odrębnych.
 2. Właściwość miejscową organów celnych określa załącznik do rozporządzenia, z zastrzeżeniem § 2.

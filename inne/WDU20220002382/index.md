@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wniosków o zmianę wpisu do rejestru brokerów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 10 grudnia 2018 r. w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 2371), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającym rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 grudnia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 października 2021 r. zmieniającego rozporządzenie w sprawie wniosków o zmianę wpisu do rejestru brokerów (Dz. U. poz. 1942), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 10 grudnia 2018 r.
 w sprawie wniosków o zmianę wpisu do rejestru brokerów Na podstawie art. 61 ust. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2022 r. poz. 905) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób składania wniosków o zmianę treści wpisu do rejestru brokerów, zwanych dalej „wnioskami”;

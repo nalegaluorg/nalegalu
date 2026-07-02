@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wpisu na listę agentów celnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych (Dz. U.
 poz. 1702), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającym rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
-Minister Rozwoju i Finansów: wz. W. Janczyk ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 listopada 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. zmieniającego rozporządzenie w sprawie wpisu na listę agentów celnych (Dz. U. poz. 350), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Rozwoju i Finansów: wz. W. Janczyk
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 listopada 2014 r.
 w sprawie wpisu na listę agentów celnych Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2016 r. poz. 1880 i 1948 oraz z 2017 r. poz. 379 i 1086) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób prowadzenia listy agentów celnych;

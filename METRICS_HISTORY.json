@@ -438,5 +438,64 @@
       "with_gaps": 461,
       "unexplained_gaps": 10689
     }
+  },
+  {
+    "date": "2026-07-02",
+    "published": 18708,
+    "rejected": 397,
+    "total_body_chars": 570353369,
+    "total_articles": 209638,
+    "sources": {
+      "pdf": 18464,
+      "eli-html": 242,
+      "unknown": 2
+    },
+    "act_types": {
+      "Rozporządzenie": 9859,
+      "Ustawa": 4850,
+      "Obwieszczenie": 2234,
+      "Orzeczenie": 1373,
+      "Umowa międzynarodowa": 329,
+      "Protokół": 18,
+      "Dekret": 10,
+      "Konwencja": 9,
+      "Porozumienie": 8,
+      "Postanowienie": 6,
+      "Uchwała": 5,
+      "Oświadczenie rządowe": 4,
+      "Traktat": 1,
+      "Decyzja": 1,
+      "Oświadczenie": 1
+    },
+    "statuses": {
+      "obowiązujący": 11736,
+      "akt objęty tekstem jednolitym": 5075,
+      "akt posiada tekst jednolity": 1887,
+      "akt jednorazowy": 10
+    },
+    "domains": {
+      "inne": 17830,
+      "prawo-podatkowe": 190,
+      "prawo-karne": 159,
+      "prawo-cywilne": 141,
+      "prawo-administracyjne": 67,
+      "prawo-pracy": 66,
+      "prawo-ochrony-srodowiska": 65,
+      "prawo-budowlane": 43,
+      "prawo-energetyczne": 35,
+      "prawo-bankowe": 28,
+      "prawo-handlowe": 25,
+      "prawo-zamowien": 19,
+      "prawo-upadlosciowe": 17,
+      "prawo-ochrony-danych": 8,
+      "prawo-morskie": 7,
+      "prawo-telekomunikacyjne": 6,
+      "prawo-konstytucyjne": 2
+    },
+    "consolidated_article_coverage": {
+      "checked": 703,
+      "with_gaps": 473,
+      "unexplained_gaps": 10815
+    }
   }
 ]

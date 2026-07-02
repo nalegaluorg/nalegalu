@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1) rozporządzeniem Ministra Zdrowia z dnia 20 kwietnia 2020 r. zmieniającym rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 705);
 2) rozporządzeniem Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającym rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 20 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 705), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 13 marca 2020 r.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 listopada 2012 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 20 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 705), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 13 marca 2020 r.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych (Dz. U. poz. 1515), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 29 listopada 2012 r.
 w sprawie Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych Na podstawie art. 60 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2021 r. poz. 479) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb i zakres działania Krajowej Rady Akredytacyjnej Szkół Pielęgniarek i Położnych, zwanej dalej „Krajową Radą”;

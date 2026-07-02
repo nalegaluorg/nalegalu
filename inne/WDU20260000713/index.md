@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. z 2024 r. poz. 1386), z uwzględnieniem stanu prawnego na dzień 19 maja 2026 r. oraz zmiany wprowadzonej ustawą z dnia 1 października 2024 r.
 o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), który stanowi: „Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 74 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), który stanowi: „ Art. 74. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 13 stycznia 2023 r.
 o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 

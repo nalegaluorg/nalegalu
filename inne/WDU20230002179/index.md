@@ -36,13 +36,11 @@ poz. 898);
 4) rozporządzeniem Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającym rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 269 i 416), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 lipca 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 1213), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 898), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-4) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 1338), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 20 września 2023 r. (Dz. U. poz. 2179) ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
+poz. 269 i 416), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 lipca 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1213), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 898), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+4) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 20 września 2023 r. (Dz. U. poz. 2179)
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
 w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r.
 poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje:
 § 1. (uchylony).

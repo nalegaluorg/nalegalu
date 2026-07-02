@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie zespołu do przygotowania zadań na egzamin komorniczy
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 7 lutego 2019 r. w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 332), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającym rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 2709).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 2709), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: M. Warchoł ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 lutego 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 19 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 2709), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: M. Warchoł
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 lutego 2019 r.
 w sprawie zespołu do przygotowania zadań na egzamin komorniczy Na podstawie art. 107 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 1691 i 1860) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb i sposób działania zespołu do przygotowania zadań na egzamin komorniczy, zwanego dalej „zespołem”;

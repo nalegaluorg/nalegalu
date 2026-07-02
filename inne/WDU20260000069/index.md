@@ -30,12 +30,9 @@ source: pdf
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1023),
 3) ustawą z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1668) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
-1) art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), który stanowi: „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-2) art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1023), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) art. 9 ustawy z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1668), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), który stanowi: „ Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.; 2) art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
+2) art. 2 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1023), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) art. 9 ustawy z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1668), który stanowi: „ Art. 9. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2, który wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 9 czerwca 2011 r.
 Prawo geologiczne i górnicze
 

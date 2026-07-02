@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2006 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 991);
 2) rozporządzeniem Ministra Spraw Wewnętrznych z dnia 26 maja 2014 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 757).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2006 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 991), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 26 maja 2014 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 757), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 19 kwietnia 2006 r.
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2006 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 991), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 26 maja 2014 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej (Dz. U. poz. 757), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 19 kwietnia 2006 r.
 w sprawie opiniowania służbowego strażaka Państwowej Straży Pożarnej Na podstawie art. 36a ust. 12 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2021 r. poz. 1940 i 2490 oraz z 2022 r. poz. 1115) zarządza się, co następuje:
 § 1. Rozporządzenie określa szczegółowe warunki i tryb opiniowania strażaka Państwowej Straży Pożarnej, zwanego dalej „strażakiem”, w szczególności:
 1) częstotliwość wydawania opinii służbowych;

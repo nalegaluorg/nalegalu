@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie zespołu do przygotowania zadań na egzamin notarialny
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 2 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. z 2018 r. poz. 11), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającym rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. poz. 449).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. poz. 449), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: wz. M. Warchoł ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 grudnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 marca 2023 r. zmieniającego rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. poz. 449), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: wz. M. Warchoł
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 2 grudnia 2013 r.
 w sprawie zespołu do przygotowania zadań na egzamin notarialny Na podstawie art. 74 § 18 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r.
 poz. 1394 i 1615) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

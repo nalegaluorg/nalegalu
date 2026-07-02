@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 sierpnia 2019 r. w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów (Dz. U. poz. 1656), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 20 stycznia 2022 r. zmieniającym rozporządzenie w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów (Dz. U. poz. 159).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów (Dz. U. poz. 159), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2022 r.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 sierpnia 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 stycznia 2022 r. zmieniającego rozporządzenie w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów (Dz. U. poz. 159), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2022 r.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 sierpnia 2019 r.
 w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów Na podstawie art. 7b ust. 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) przypadki, w których przewóz towarów jest wyłączony z obowiązku:

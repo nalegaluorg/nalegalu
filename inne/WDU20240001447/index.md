@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 22 kwietnia 2002 r. w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego (Dz. U. z 2016 r. poz. 1741), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 5 marca 2024 r. zmieniającym rozporządzenie w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego (Dz. U. poz. 347).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 5 marca 2024 r. zmieniającego rozporządzenie w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego (Dz. U. poz. 347), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 22 kwietnia 2002 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 5 marca 2024 r. zmieniającego rozporządzenie w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego (Dz. U. poz. 347), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 22 kwietnia 2002 r.
 w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego Na podstawie art. 12a i art. 15 ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050) zarządza się, co następuje:
 § 1. Przy Ministrze Sprawiedliwości tworzy się Komisję Kodyfikacyjną Prawa Cywilnego, zwaną dalej „Komisją”.
 § 2. W skład Komisji wchodzą:

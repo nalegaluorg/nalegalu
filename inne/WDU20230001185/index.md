@@ -27,10 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U.
 z 2020 r. poz. 2134), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 kwietnia 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi: „Art. 166. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
-1) art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
-2) art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 166 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280), który stanowi: „ Art. 166. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem: 1) art. 31 ust. 4, art. 68 ust. 2 pkt 5 i ust. 3, art. 76 pkt 23, art. 88 pkt 9 lit. c tiret drugie, art. 147 pkt 2 oraz art. 149 pkt 1–4 i 12–17, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia; 2) art. 149 pkt 5–11 oraz art. 152–154, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 1 lipca 2005 r.
 o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów
 

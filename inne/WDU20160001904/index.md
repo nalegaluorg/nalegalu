@@ -32,9 +32,9 @@ poz. 1746);
 2) rozporządzeniem Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającym rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 21 października 2015 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U.
-poz. 1746), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.”;
-2) § 2 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 27 sierpnia 2016 r.”.
-Minister Cyfryzacji: A. Streżyńska ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 lutego 2015 r.
+poz. 1746), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.”;
+2) § 2 rozporządzenia Ministra Cyfryzacji z dnia 26 sierpnia 2016 r. zmieniającego rozporządzenie w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego (Dz. U. poz. 1351), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 27 sierpnia 2016 r.”. Minister Cyfryzacji: A. Streżyńska
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 lutego 2015 r.
 w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego Na podstawie art. 27 ust. 4 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa sposób:
 1) prowadzenia rejestru stanu cywilnego;

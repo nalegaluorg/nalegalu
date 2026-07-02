@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1714/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 listopada 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), który stanowi: „Art. 6. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), który stanowi: „ Art. 6. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 16 lutego 2007 r.
 o ochronie konkurencji i konsumentów
 

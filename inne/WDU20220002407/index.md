@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie rejestru systemu zapasów interwencyjnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 15 maja 2019 r. w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 956), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Klimatu i Środowiska z dnia 28 września 2021 r.
 zmieniającym rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 28 września 2021 r. zmieniającego rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ENERGII z dnia 15 maja 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 28 września 2021 r. zmieniającego rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ENERGII z dnia 15 maja 2019 r.
 w sprawie rejestru systemu zapasów interwencyjnych Na podstawie art. 13 ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2022 r. poz. 1537 i 1723) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółową zawartość i sposób prowadzenia rejestru systemu zapasów interwencyjnych, zwanego dalej „rejestrem”;

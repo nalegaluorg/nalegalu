@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 1481), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 2 lutego 2015 r. zmieniającym rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: B. Szydło ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 czerwca 2004 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: B. Szydło
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 1 czerwca 2004 r.
 w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm. ) zarządza się, co następuje:
 § 1. 1. Zajmujący pas drogowy przed planowanym zajęciem pasa składa wniosek do zarządcy drogi o wydanie zezwolenia na zajęcie pasa drogowego.
 2. Wniosek, o którym mowa w ust. 1, powinien zawierać:

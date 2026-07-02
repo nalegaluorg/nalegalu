@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 76), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającym rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.”.
-Minister Zdrowia: K. Radziwiłł ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 stycznia 2011 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.”. Minister Zdrowia: K. Radziwiłł
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 stycznia 2011 r.
 w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji Na podstawie art. 23 ust. 4 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2017 r. poz. 211) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji;

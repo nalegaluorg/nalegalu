@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **17831** aktów
+Łącznie: **17830** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -1255,7 +1255,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001113](WDU20240001113/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001111](WDU20240001111/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001110](WDU20240001110/index.md) | Rozporządzenie Ministra Zdrowia z dnia 22 lipca 2024 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240001109](WDU20240001109/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 lipca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001108](WDU20240001108/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 16 lipca 2024 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001107](WDU20240001107/index.md) | Rozporządzenie Ministra Edukacji z dnia 22 lipca 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20240001106](WDU20240001106/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 16 lipca 2024 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -17838,4 +17837,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*17831 aktów • [← Powrót do spisu głównego](../README.md)*
+*17830 aktów • [← Powrót do spisu głównego](../README.md)*

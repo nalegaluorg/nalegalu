@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 1) rozporządzeniem Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającym rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209);
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającym rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 grudnia 2002 r.
+1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 lipca 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1209), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 12 listopada 2021 r. zmieniającego rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 2200), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 grudnia 2002 r.
 w sprawie archiwizacji akt spraw sądów wojskowych Na podstawie art. 18 § 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U.
 z 2020 r. poz. 1754 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
 § 1. Rozporządzenie określa szczegółowe zasady archiwizacji, niszczenia i przekazywania przez sądy wojskowe właściwym archiwom państwowym akt spraw sądowych.

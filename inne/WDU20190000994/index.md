@@ -27,10 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych (Dz. U. z 2018 r. poz. 410), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r.
 poz. 125) oraz zmian wynikających z przepisów ogłoszonych przez dniem 16 maja 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 108 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), który stanowi: „Art. 108. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 58 pkt 12, który wchodzi w życie z dniem 1 listopada 2019 r.;
-2) art. 82 pkt 5 w zakresie art. 25c–25h, które wchodzą w życie po upływie roku od dnia ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 108 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), który stanowi: „ Art. 108. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 58 pkt 12, który wchodzi w życie z dniem 1 listopada 2019 r.; 2) art. 82 pkt 5 w zakresie art. 25c–25h, które wchodzą w życie po upływie roku od dnia ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 13 kwietnia 2016 r.
 o bezpieczeństwie obrotu prekursorami materiałów wybuchowych
 

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 1) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającym rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158);
 2) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającym rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 sierpnia 2001 r.
+1) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2002 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1158), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych (Dz. U. poz. 1174), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 sierpnia 2001 r.
 w sprawie nadania statutu Polskiemu Klubowi Wyścigów Konnych Na podstawie art. 6 ust. 1 ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2020 r. poz. 1354) zarządza się, co następuje:
 § 1. Polskiemu Klubowi Wyścigów Konnych nadaje się statut stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia .

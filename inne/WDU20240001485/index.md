@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw (Dz. U. poz. 1237) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 września 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 9 ustawy z dnia 24 lipca 2024 r. o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw (Dz. U.
-poz. 1237), które stanowią: „Art. 6. Do spraw prowadzonych w postępowaniu grupowym wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.” „Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+poz. 1237), które stanowią: „ Art. 6. Do spraw prowadzonych w postępowaniu grupowym wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.” „Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 17 grudnia 2009 r.
 o dochodzeniu roszczeń w postępowaniu grupowym
 

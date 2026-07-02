@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie studiów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. z 2021 r. poz. 661), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 26 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie studiów (Dz. U. poz. 1869).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 26 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie studiów (Dz. U. poz. 1869), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 5, który wchodzi w życie z dniem 1 października 2022 r.”.
-Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 27 września 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 26 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie studiów (Dz. U. poz. 1869), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 5, który wchodzi w życie z dniem 1 października 2022 r.”. Minister Edukacji i Nauki: P. Czarnek
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 27 września 2018 r.
 w sprawie studiów Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088, 1234, 1672, 1872 i 2005) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wymagania dotyczące programu studiów;

@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 2) rozporządzeniem Rady Ministrów z dnia 23 listopada 2017 r. zmieniającym rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 2172);
 3) rozporządzeniem Rady Ministrów z dnia 25 września 2018 r. zmieniającym rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 1975).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 20 czerwca 2017 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 1275), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 23 listopada 2017 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 2172), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) § 2 rozporządzenia Rady Ministrów z dnia 25 września 2018 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 1975), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 20 czerwca 2017 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 1275), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 23 listopada 2017 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 2172), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) § 2 rozporządzenia Rady Ministrów z dnia 25 września 2018 r. zmieniającego rozporządzenie w sprawie łódzkiej specjalnej strefy ekonomicznej (Dz. U. poz. 1975), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie łódzkiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010 oraz z 2018 r. poz. 650, 1162, 1669 i 2193) zarządza się, co następuje:
 § 1. 1. Łódzka Specjalna Strefa Ekonomiczna ustanowiona rozporządzeniem Rady Ministrów z dnia 15 kwietnia 1997 r.

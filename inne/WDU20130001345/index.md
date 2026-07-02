@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1) rozporządzeniem Rady Ministrów z dnia 23 grudnia 2010 r. zmieniającym rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. z 2011 r. Nr 6, poz. 20);
 2) rozporządzeniem Rady Ministrów z dnia 26 kwietnia 2012 r. zmieniającym rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. poz. 514).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 23 grudnia 2010 r. zmieniającego rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. z 2011 r. Nr 6, poz. 20), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 26 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. poz. 514), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 grudnia 2009 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 23 grudnia 2010 r. zmieniającego rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. z 2011 r. Nr 6, poz. 20), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 26 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wykazu przedsięwzięć Euro 2012 (Dz. U. poz. 514), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 grudnia 2009 r.
 w sprawie wykazu przedsięwzięć Euro 2012 Na podstawie art. 4 ust. 1 ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2010 r. Nr 26, poz. 133, z późn. zm. ) zarządza się, co następuje:
 § 1. Określa się wykaz przedsięwzięć Euro 2012, zawartych w ofercie przyjętej przez Unię Europejskich Związków Piłkarskich (UEFA) oraz objętych zobowiązaniami i gwarancjami Rządu Rzeczypospolitej Polskiej lub jednostek samorządu terytorialnego, a także innych niezbędnych do przeprowadzenia finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012, stanowiący załącznik do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .

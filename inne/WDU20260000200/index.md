@@ -29,14 +29,8 @@ source: pdf
 1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
 2) ustawą z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 43 ustawy z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 3, art. 12 pkt 1 oraz art. 13 pkt 5, 6 lit. a i b oraz pkt 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 12 pkt 4 i 5, które wchodzą w życie z dniem 1 października 2026 r.;
-3) art. 1 pkt 2 lit. a tiret pierwsze i drugie, lit. b, pkt 5, 6 i 9 w zakresie art. 85a ust. 1 i art. 85c–85j, art. 2, art. 3 pkt 2 i 3, art. 4–11, art. 12 pkt 2, 3, 6–8, art. 13 pkt 1, 2 lit. b w zakresie ust. 1d i 1e, pkt 3, 4 i 6 lit. c, art. 14, art. 15, art. 17–25 oraz art. 28–33, które wchodzą w życie z dniem 1 stycznia 2027 r.”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „ Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+2) art. 43 ustawy z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26), który stanowi: „ Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3, art. 12 pkt 1 oraz art. 13 pkt 5, 6 lit. a i b oraz pkt 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 12 pkt 4 i 5, które wchodzą w życie z dniem 1 października 2026 r.; 3) art. 1 pkt 2 lit. a tiret pierwsze i drugie, lit. b, pkt 5, 6 i 9 w zakresie art. 85a ust. 1 i art. 85c–85j, art. 2, art. 3 pkt 2 i 3, art. 4–11, art. 12 pkt 2, 3, 6–8, art. 13 pkt 1, 2 lit. b w zakresie ust. 1d i 1e, pkt 3, 4 i 6 lit. c, art. 14, art. 15, art. 17–25 oraz art. 28–33, które wchodzą w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 27 lipca 2001 r.
 o kuratorach sądowych
 

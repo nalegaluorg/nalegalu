@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 1) rozporządzeniem Ministra Obrony Narodowej z dnia 26 października 2009 r. zmieniającym rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. Nr 186, poz. 1440);
 2) rozporządzeniem Ministra Obrony Narodowej z dnia 17 września 2012 r. zmieniającym rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. poz. 1073).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 października 2009 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. Nr 186, poz. 1440), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r.”;
-2) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 17 września 2012 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. poz. 1073), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.”.
-Minister Obrony Narodowej: T. Siemoniak ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2006 r.
+1) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 26 października 2009 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. Nr 186, poz. 1440), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r.”;
+2) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 17 września 2012 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. poz. 1073), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.”. Minister Obrony Narodowej: T. Siemoniak
+ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2006 r.
 w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego Na podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 253 i 502) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wzór legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego, zwanej dalej „SKW”;

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie legnickiej specjalnej strefy ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie legnickiej specjalnej strefy ekonomicznej (Dz. U. z 2017 r. poz. 215), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 21 marca 2018 r. zmieniającym rozporządzenie w sprawie legnickiej specjalnej strefy ekonomicznej (Dz. U. poz. 665).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 marca 2018 r. zmieniającego rozporządzenie w sprawie legnickiej specjalnej strefy ekonomicznej (Dz. U. poz. 665), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 marca 2018 r. zmieniającego rozporządzenie w sprawie legnickiej specjalnej strefy ekonomicznej (Dz. U. poz. 665), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie legnickiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2019 r.
 poz. 482) zarządza się, co następuje:
 § 1. 1. Legnicka specjalna strefa ekonomiczna ustanowiona rozporządzeniem Rady Ministrów z dnia 15 kwietnia 1997 r.

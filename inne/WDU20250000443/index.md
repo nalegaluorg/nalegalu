@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/443/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. z 2024 r. poz. 372), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych w art. 1–24 w brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 25 i art. 27 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „ Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych w art. 1–24 w brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 4 października 2018 r.
 o spółdzielniach rolników
 

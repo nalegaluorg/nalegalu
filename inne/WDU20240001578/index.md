@@ -31,9 +31,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 5 lutego 2024 r. zmieniającym rozporządzenie w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 178).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 1 grudnia 2022 r. zmieniającego rozporządzenie w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi (Dz. U.
-poz. 2526), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 14 grudnia 2022 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 lutego 2024 r. zmieniającego rozporządzenie w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 178), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 13 lutego 2017 r.
+poz. 2526), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 14 grudnia 2022 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 lutego 2024 r. zmieniającego rozporządzenie w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi (Dz. U. poz. 178), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: A. Bodnar
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 13 lutego 2017 r.
 w sprawie sposobu realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi Na podstawie art. 36 § 4 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390) zarządza się, co następuje:
 § 1. Rozporządzenie określa sposób realizacji czynności prokuratora w ramach kontroli nad czynnościami operacyjno-rozpoznawczymi, o których mowa w przepisach:
 1) art. 19, art. 19a oraz art. 19b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. );

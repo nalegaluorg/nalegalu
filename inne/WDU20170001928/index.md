@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1928/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. z 2016 r. poz. 886), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 września 2017 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 43 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 39 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 43 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), który stanowi: „ Art. 43. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 39 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 21 czerwca 2002 r.
 o stanie wyjątkowym
 

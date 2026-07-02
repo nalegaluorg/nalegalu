@@ -1,40 +1,40 @@
 # Publish Summary
 
-Generated: 2026-07-01 23:19 UTC
+Generated: 2026-07-02 13:18 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published public acts | 18710 |
-| Updated/new | 100 |
-| Unchanged | 11655 |
+| Published public acts | 18708 |
+| Updated/new | 1565 |
+| Unchanged | 10006 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 6492 |
-| Blocked by quality gate | 602 |
-| Rejected (total incl. errors) | 396 |
+| Skipped regressions | 6622 |
+| Blocked by quality gate | 670 |
+| Rejected (total incl. errors) | 397 |
 | Total in DB | 19676 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 19261 | 18710 | -551 |
-| Rejected | 415 | 396 | -19 |
-| Articles | 215857 | 210865 | -4992 |
-| Body chars | 590,191,554 | 570,706,891 | -19484663 |
+| Published | 18710 | 18708 | -2 |
+| Rejected | 396 | 397 | +1 |
+| Articles | 210865 | 209638 | -1227 |
+| Body chars | 570,706,891 | 570,353,369 | -353522 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
 | character-spaced | 235 |
-| pipeline error | 120 |
+| pipeline error | 143 |
 | repetition | 112 |
 | article structure | 77 |
 | CID font | 70 |
+| other | 63 |
 | PostScript CE | 5 |
-| other | 2 |
 | missing diacritics | 1 |
 | round-trip | 1 |
 
@@ -44,9 +44,9 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Metric | Count |
 |--------|------:|
-| Checked candidates | 684 |
-| Candidates with unexplained gaps | 461 |
-| Unexplained numeric article gaps | 10689 |
+| Checked candidates | 703 |
+| Candidates with unexplained gaps | 473 |
+| Unexplained numeric article gaps | 10815 |
 
 | Address | Highest Art. | Gap count | Sample gaps | Title |
 |---------|-------------:|----------:|-------------|-------|
@@ -77,7 +77,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 |-------|------:|
 | Rozporządzenie | 9859 |
 | Ustawa | 4850 |
-| Obwieszczenie | 2236 |
+| Obwieszczenie | 2234 |
 | Orzeczenie | 1373 |
 | Umowa międzynarodowa | 329 |
 | Protokół | 18 |
@@ -95,7 +95,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 11738 |
+| obowiązujący | 11736 |
 | akt objęty tekstem jednolitym | 5075 |
 | akt posiada tekst jednolity | 1887 |
 | akt jednorazowy | 10 |
@@ -104,10 +104,10 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| inne | 17831 |
+| inne | 17830 |
 | prawo-podatkowe | 190 |
 | prawo-karne | 159 |
-| prawo-cywilne | 142 |
+| prawo-cywilne | 141 |
 | prawo-administracyjne | 67 |
 | prawo-pracy | 66 |
 | prawo-ochrony-srodowiska | 65 |
@@ -129,8 +129,8 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Value | Count |
 |-------|------:|
 | O | 11999 |
-| T | 5184 |
-| U | 1656 |
+| T | 5197 |
+| U | 1657 |
 | unknown | 10 |
 
 ## Unified text candidate PDF type breakdown
@@ -148,27 +148,13 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | Original PDF candidate for unified act | 4941 |
 
-## Fixed — no longer rejected (15)
+## Newly rejected (1)
 
-| Address |
-|---------|
-| WDU19930050022 |
-| WDU19960450198 |
-| WDU19961270593 |
-| WDU19981621124 |
-| WDU19990400401 |
-| WDU20001141190 |
-| WDU20011251372 |
-| WDU20022001680 |
-| WDU20081180746 |
-| WDU20082161369 |
-| WDU20190001309 |
-| WDU20260000662 |
-| WDU20260000711 |
-| WDU20260000722 |
-| WDU20260000734 |
+| Address | Reason |
+|---------|--------|
+| WDU20130001441 | omitted-provisions quotation ran into the next item ('4) § 2 |
 
-## Blocked acts (602)
+## Blocked acts (670)
 
 | Address | Issues |
 |---------|--------|
@@ -271,6 +257,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19960410176 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19960520237 | No text extracted from PDF — may be a scanned document |
 | WDU19960900407 | unclosed amendment quotation for 2la, 21c |
+| WDU19961430663 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU19961470686 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19961490704 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19970300165 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -377,12 +364,10 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20120000925 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '..................................................…' appears 199 times (likely PDF header/footer) |
 | WDU20120000943 | excessive repetition — '..................................................…' appears 29 times (likely PDF header/footer) |
 | WDU20120001257 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20120001460 | source article inventory failed: eli-html=0 AST=16 dup_ast=2 FAIL; duplicate in AST: 3, 4 |
 | WDU20130000057 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20130000200 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20130000337 | excessive repetition — '. ................................................…' appears 31 times (likely PDF header/footer) |
 | WDU20130000361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20130000370 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU20130000809 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20130000829 | rendered round-trip failed: AST=59 rendered=59 dup_rendered=8 low_sim=8 word_loss=4 missing_child_markers=3 FAIL; word loss: 28, 30, 31, 32; low similarity: 27, 28, 29, 30, 31, 32, 33, 34; missing child markers: 28, 30, 32 |
 | WDU20130000924 | excessive repetition — '..................................................…' appears 32 times (likely PDF header/footer) |
@@ -400,6 +385,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20140001127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140001207 | excessive repetition — '..................................................…' appears 109 times (likely PDF header/footer) |
 | WDU20140001245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20140001381 | omitted-provisions quotation ran into the next item ('4) art. 2 i art. 3 ustawy z dnia 5 września 2008 r. o zmiani') without a confirmed close — closing quote was likely lost |
 | WDU20140001593 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140001597 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20140001667 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — 'b) w polu drugim − imiona,' appears 25 times (likely PDF header/footer) |
@@ -418,19 +404,19 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150001314 | excessive repetition — 'a) dla kierujących wszystkimi pojazdami' appears 21 times (likely PDF header/footer) |
 | WDU20150001783 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20150001883 | omitted-provisions quotation ran into the next item ('2) § 2 rozporządzenia Rady Ministrów z dnia 17 grudnia 2014 ') without a confirmed close — closing quote was likely lost |
 | WDU20150002016 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150002044 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '2. Nie 2 Jeżeli Tak → przez ile miesięcy?' appears 21 times (likely PDF header/footer) |
 | WDU20150002098 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150002327 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20150002332 | excessive repetition — '..................................................…' appears 29 times (likely PDF header/footer) |
 | WDU20160000035 | rendered round-trip failed: AST=19 rendered=19 empty_articles=3 FAIL |
-| WDU20160000325 | source article inventory failed: eli-html=0 AST=28 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU20160000357 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000369 | excessive repetition — '..................................................…' appears 26 times (likely PDF header/footer) |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20160000424 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000696 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20160000763 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20160000763 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20160000802 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000840 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20160000923 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -438,6 +424,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20160001372 | character-spaced text — 12 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — 'III. Cena 1. Cena 1.1. Cena obliczona zgodnie z wz…' appears 116 times (likely PDF header/footer) |
 | WDU20160001395 | excessive repetition — '10) indeno(1,2,3-c,d)piren.' appears 29 times (likely PDF header/footer) |
 | WDU20160001454 | rendered round-trip failed: AST=25 rendered=25 low_sim=1 FAIL; low similarity: 25 @ Rozdział 6 Przepisy przejściowe i końcowy |
+| WDU20160001557 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20160001722 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '2. Nie 2 Jeżeli Tak → przez ile miesięcy?' appears 24 times (likely PDF header/footer) |
 | WDU20160001792 | excessive repetition — '…………………………………………………………………………….....................…' appears 52 times (likely PDF header/footer) |
 | WDU20160002158 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -447,44 +434,47 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20160002248 | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓŁOWE' appears 144 times (likely PDF header/footer) |
 | WDU20170000089 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170000093 | excessive repetition — '..................................................…' appears 41 times (likely PDF header/footer) |
+| WDU20170000123 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20170000183 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170000462 | excessive repetition — '..................................................…' appears 26 times (likely PDF header/footer) |
 | WDU20170000624 | rendered round-trip failed: AST=66 rendered=66 dup_rendered=1 low_sim=1 FAIL; low similarity: 8 |
 | WDU20170000671 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170000721 | excessive repetition — '……………………………………………………………………………………………………………………………..' appears 189 times (likely PDF header/footer) |
+| WDU20170000766 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20170000852 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001118 | character-spaced text — 7 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '............... ..................................…' appears 35 times (likely PDF header/footer) |
 | WDU20170001155 | character-spaced text — 106 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001162 | excessive repetition — '..................................................…' appears 39 times (likely PDF header/footer) |
 | WDU20170001302 | excessive repetition — '………………………………………………………………………………………………………………………………………' appears 24 times (likely PDF header/footer) |
-| WDU20170001357 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 15 |
 | WDU20170001548 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' appears 32 times (likely PDF header/footer) |
+| WDU20170001605 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20170001695 | excessive repetition — '..................................................…' appears 30 times (likely PDF header/footer) |
 | WDU20170001716 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001783 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001803 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170001806 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20170001881 | source article inventory failed: eli-html=0 AST=20 dup_ast=1 FAIL; duplicate in AST: 3 |
 | WDU20170001962 | PostScript CE garbled diacritics — unrepaired encoding (1 occurrence(s): 'àn') |
-| WDU20170002015 | excessive repetition — '………………………………………………………………………………………………………………………………………' appears 65 times (likely PDF header/footer) |
-| WDU20170002019 | excessive repetition — '..................................................…' appears 31 times (likely PDF header/footer) |
-| WDU20170002020 | excessive repetition — '..................................................…' appears 23 times (likely PDF header/footer) |
+| WDU20170002015 | excessive repetition — '………………………………………………………………………………………………………………………………………' appears 65 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20170002019 | excessive repetition — '..................................................…' appears 31 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20170002020 | excessive repetition — '..................................................…' appears 23 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20170002041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20170002166 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20170002364 | character-spaced text — 8 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — 'III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze w…' appears 90 times (likely PDF header/footer) |
 | WDU20170002443 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20170002469 | excessive repetition — 'Korzyści z wdrożenia działania – analiza jakościow…' appears 23 times (likely PDF header/footer) |
-| WDU20180000164 | rendered round-trip failed: AST=56 rendered=56 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 3; low similarity: 3; missing child markers: 3 |
+| WDU20180000221 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 22 września 2006 r.') — closing quote was likely lost |
 | WDU20180000275 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180000331 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20180000367 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20180000371 | excessive repetition — '..................................................…' appears 27 times (likely PDF header/footer) |
 | WDU20180000385 | excessive repetition — '1.4. Pielęgniarki – warunki i liczba punktów okreś…' appears 28 times (likely PDF header/footer) |
 | WDU20180000467 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180000546 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20180000593 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20180000605 | excessive repetition — '..................................................…' appears 93 times (likely PDF header/footer) |
 | WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20180001103 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 4 |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001286 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001544 | rendered round-trip failed: AST=67 rendered=67 empty_articles=7 FAIL |
@@ -495,7 +485,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20180001774 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001856 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20180001914 | rendered round-trip failed: AST=83 rendered=83 dup_rendered=1 low_sim=2 FAIL; low similarity: 3, 3 |
 | WDU20180002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180002180 | excessive repetition — '3. zasięg geograficzny obszaru, którego dotyczy in…' appears 53 times (likely PDF header/footer) |
 | WDU20180002181 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -507,11 +496,13 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190000121 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20190000163 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000184 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190000246 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20190000247 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000259 | excessive repetition — '..................................................…' appears 67 times (likely PDF header/footer) |
 | WDU20190000279 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000344 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000500 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190000552 | omitted-provisions quotation swallowed a structural boundary ('§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ROZ') — closing quote was likely lost |
 | WDU20190000554 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20190000680 | excessive repetition — '..................................................…' appears 43 times (likely PDF header/footer) |
 | WDU20190000776 | excessive repetition — '..................................................…' appears 46 times (likely PDF header/footer) |
@@ -525,13 +516,17 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190001230 | excessive repetition — '..................................................…' appears 56 times (likely PDF header/footer) |
 | WDU20190001336 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190001361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190001371 | omitted-provisions quotation ran into the next item ('3) art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowad') without a confirmed close — closing quote was likely lost |
 | WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20190001478 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190001483 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20190001497 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20190001522 | excessive repetition — '5) zużycie materiałów i energia' appears 27 times (likely PDF header/footer) |
 | WDU20190001578 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190001601 | excessive repetition — '..................................................…' appears 37 times (likely PDF header/footer) |
 | WDU20190001637 | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGANIA SZCZEGÓŁOWE' appears 159 times (likely PDF header/footer) |
 | WDU20190001645 | excessive repetition — '..................................................…' appears 46 times (likely PDF header/footer) |
+| WDU20190001672 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20190001735 | excessive repetition — '..................................................…' appears 42 times (likely PDF header/footer) |
 | WDU20190001745 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190001747 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -539,6 +534,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190001886 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190002210 | excessive repetition — '..................................................…' appears 88 times (likely PDF header/footer) |
 | WDU20190002283 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190002311 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20190002349 | excessive repetition — 'Dopuszczalne jest w razie potrzeby powielanie wier…' appears 28 times (likely PDF header/footer) |
 | WDU20190002430 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190002560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -549,7 +545,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20200000202 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200000227 | source article inventory failed: eli-html=0 AST=20 dup_ast=4 FAIL; duplicate in AST: 12, 2, 3, 9 |
 | WDU20200000229 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20200000233 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20200000233 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20200000348 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200000502 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200000560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -557,35 +553,50 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20200000907 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200000931 | character-spaced text — 12 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200001010 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20200001020 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20200001322 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200001605 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
-| WDU20200001825 | excessive repetition — '..................................................…' appears 38 times (likely PDF header/footer) |
+| WDU20200001825 | excessive repetition — '..................................................…' appears 38 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20200001894 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200001916 | excessive repetition — '4 Obowiązek \| Warunek Obligatoryjny.' appears 23 times (likely PDF header/footer) |
+| WDU20200001934 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20200001952 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
 | WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu) ...' appears 49 times (likely PDF header/footer) |
 | WDU20200002056 | rendered round-trip failed: AST=75 rendered=75 dup_rendered=2 low_sim=1 FAIL; low similarity: 10 @ Rozdział 2 Obowiązki wprowadzających pojazdy |
+| WDU20200002138 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20200002180 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20200002216 | source article inventory failed: eli-html=0 AST=42 dup_ast=1 FAIL; duplicate in AST: 3 |
+| WDU20200002198 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20200002313 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200002328 | character-spaced text — 18 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200002405 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20200002448 | excessive repetition — '..................................................…' appears 46 times (likely PDF header/footer) |
 | WDU20210000056 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20210000169 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20210000329 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20210000392 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
+| WDU20210000411 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20210000412 | excessive repetition — '…………………………………………………………………………………………………..' appears 22 times (likely PDF header/footer) |
 | WDU20210000417 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20210000439 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20210000481 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20210000518 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20210000755 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20210000831 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20210000841 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210000847 | unclosed amendment quotation for unknown articles |
+| WDU20210000885 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appears 21 times (likely PDF header/footer) |
 | WDU20210001110 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20210001120 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20210001156 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20210001174 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20210001219 | source article inventory failed: eli-html=0 AST=27 dup_ast=2 FAIL; duplicate in AST: 3, 4 |
+| WDU20210001230 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
+| WDU20210001282 | omitted-provisions lookahead exhausted: cannot classify pending transition starting '2) § 2 rozporządzenia Ministra Finansów z dnia 12 stycznia 2' |
 | WDU20210001293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210001390 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210001475 | excessive repetition — '1. Stan bardzo dobry oznacza stan, w którym:' appears 40 times (likely PDF header/footer) |
+| WDU20210001628 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20210001632 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20210001710 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210001719 | excessive repetition — '..................................................…' appears 22 times (likely PDF header/footer) |
 | WDU20210001737 | excessive repetition — '..................................................…' appears 38 times (likely PDF header/footer) |
@@ -598,7 +609,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20210002024 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2024.txt. Run 'extract' first. |
 | WDU20210002026 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2026.txt. Run 'extract' first. |
 | WDU20210002028 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2028.txt. Run 'extract' first. |
-| WDU20210002029 | source article inventory failed: eli-html=0 AST=14 dup_ast=1 FAIL; duplicate in AST: 12 |
 | WDU20210002030 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2030.txt. Run 'extract' first. |
 | WDU20210002032 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2032.txt. Run 'extract' first. |
 | WDU20210002033 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2021_2033.txt. Run 'extract' first. |
@@ -610,10 +620,12 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20210002150 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210002436 | character-spaced text — 5 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210002458 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20220000093 | source article inventory failed: eli-html=0 AST=18 dup_ast=1 FAIL; duplicate in AST: 15 |
 | WDU20220000223 | excessive repetition — '..................................................…' appears 32 times (likely PDF header/footer) |
 | WDU20220000245 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220000256 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', 'àn', 'àn') |
+| WDU20220000284 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 17 grudnia 2004 r.') — closing quote was likely lost |
+| WDU20220000332 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20220000361 | omitted-provisions quotation swallowed a structural boundary ('§ 2. Rozporządzenie wchodzi w życie z dniem następującym po ') — closing quote was likely lost |
 | WDU20220000369 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220000419 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220000436 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -625,7 +637,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220001437 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20220001456 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001559 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
-| WDU20220001575 | source article inventory failed: eli-html=0 AST=16 dup_ast=1 FAIL; duplicate in AST: 6 |
+| WDU20220001762 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20220001778 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220001846 | rendered round-trip failed: AST=134 rendered=134 dup_rendered=1 low_sim=1 word_loss=1 missing_child_markers=1 FAIL; word loss: 29 @ Rozdział 2 Zmiany w przepisach; low similarity: 29 @ Rozdział 2 Zmiany w przepisach; missing child markers: 29 @ Rozdział 2 Zmiany w przepisach |
 | WDU20220001914 | excessive repetition — '………………………………………………………………………………………………….' appears 147 times (likely PDF header/footer) |
@@ -633,12 +645,14 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220001999 | excessive repetition — '1) nazwę sądu oraz sygnaturę akt sprawy pierwszej …' appears 74 times (likely PDF header/footer) |
 | WDU20220002028 | excessive repetition — '..................................................…' appears 34 times (likely PDF header/footer) |
 | WDU20220002051 | excessive repetition — '..................................................…' appears 33 times (likely PDF header/footer) |
+| WDU20220002054 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20220002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20220002068 | source article inventory failed: eli-html=0 AST=28 dup_ast=1 FAIL; duplicate in AST: 12 |
+| WDU20220002070 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20220002077 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220002133 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220002174 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220002246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20220002380 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20220002560 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20220002692 | excessive repetition — '..................................................…' appears 64 times (likely PDF header/footer) |
 | WDU20220002701 | excessive repetition — '……………………………………………..……………………………………………..……..' appears 67 times (likely PDF header/footer) |
@@ -646,6 +660,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20220002807 | excessive repetition — '..................................................…' appears 49 times (likely PDF header/footer) |
 | WDU20220002853 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000119 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20230000167 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230000244 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000339 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Typ pliku :' appears 24 times (likely PDF header/footer) |
@@ -653,16 +668,18 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230000455 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000540 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000558 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230000584 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230000670 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000671 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000725 | unclosed amendment quotation for unknown articles |
 | WDU20230000797 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230000862 | excessive repetition — '..................................................…' appears 22 times (likely PDF header/footer) |
+| WDU20230000870 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230001009 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001045 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001112 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230001206 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
 | WDU20230001220 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20230001236 | source article inventory failed: eli-html=0 AST=38 dup_ast=1 FAIL; duplicate in AST: 7 |
 | WDU20230001293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001319 | excessive repetition — '..................................................…' appears 79 times (likely PDF header/footer) |
 | WDU20230001471 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -671,14 +688,17 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230001602 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001612 | excessive repetition — '…………….………….…………………..…………….…………….………….…………………..……………' appears 45 times (likely PDF header/footer) |
 | WDU20230001613 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230001629 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230001646 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repetition — '..................................................…' appears 53 times (likely PDF header/footer) |
 | WDU20230001706 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230001714 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àn', 'àn', 'àn') |
+| WDU20230001739 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230001754 | excessive repetition — 'Treści nauczania Kryteria weryfikacji' appears 173 times (likely PDF header/footer) |
 | WDU20230001828 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); excessive repetition — '..................................................…' appears 116 times (likely PDF header/footer) |
 | WDU20230001832 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230001840 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20230001911 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
+| WDU20230002007 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20230002016 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002019 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002023 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
@@ -687,40 +707,57 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230002056 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002093 | excessive repetition — '..................................................…' appears 71 times (likely PDF header/footer) |
 | WDU20230002127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230002180 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20230002315 | omitted-provisions quotation ran into the next item ('2) $ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administ') without a confirmed close — closing quote was likely lost |
+| WDU20230002334 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002337 | excessive repetition — '..................................................…' appears 31 times (likely PDF header/footer) |
 | WDU20230002358 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002429 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20230002467 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód powierzchniowych;' appears 34 times (likely PDF header/footer) |
 | WDU20230002501 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002555 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002614 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230002621 | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' appears 66 times (likely PDF header/footer) |
 | WDU20230002659 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230002672 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20230002737 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20230002673 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20230002737 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002738 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20230002758 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002773 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002817 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000005 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000009 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000009 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240000014 | omitted-provisions quotation ran into the next item ('2) $21$ 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z ') without a confirmed close — closing quote was likely lost |
 | WDU20240000062 | character-spaced text — 804 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000110 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000118 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000136 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000194 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20240000202 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20240000251 | source article inventory failed: eli-html=0 AST=39 dup_ast=1 FAIL; duplicate in AST: 33 |
+| WDU20240000219 | omitted-provisions quotation ran into the next item ('2) $21$3 rozporządzenia Ministra Rozwoju, Pracy i Technologi') without a confirmed close — closing quote was likely lost |
 | WDU20240000270 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000333 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000314 | omitted-provisions quotation swallowed a structural boundary ('§ 2. Rozporządzenie wchodzi w życie z dniem określonym w kom') — closing quote was likely lost |
+| WDU20240000333 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240000342 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20240000380 | source article inventory failed: eli-html=0 AST=18 dup_ast=1 FAIL; duplicate in AST: 8b |
+| WDU20240000380 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in AST: 8b |
 | WDU20240000414 | unclosed amendment quotation for unknown articles |
-| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000439 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240000443 | omitted-provisions quotation ran into the next item ('2) $21$3 rozporządzenia Ministra Spraw Wewnętrznych i Admini') without a confirmed close — closing quote was likely lost |
+| WDU20240000452 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '..................................................…' appears 30 times (likely PDF header/footer) |
+| WDU20240000495 | omitted-provisions quotation ran into the next item ('2) $ 2rozporządzenia Ministra Zdrowia z dnia 19 stycznia 202') without a confirmed close — closing quote was likely lost |
 | WDU20240000514 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240000537 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000537 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000549 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000584 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000601 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20240000611 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000637 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000642 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -728,12 +765,13 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000674 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240000702 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240000748 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000780 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000798 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); excessive repetition — '…………………………………………………………………………………………..' appears 35 times (likely PDF header/footer) |
 | WDU20240000823 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20240000870 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240000845 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20240000870 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries; missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000871 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
-| WDU20240000908 | source article inventory failed: eli-html=0 AST=14 dup_ast=1 FAIL; duplicate in AST: 7 |
+| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240000934 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000936 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240000950 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -744,13 +782,20 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000996 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240000997 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001014 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' appears 25 times (likely PDF header/footer) |
+| WDU20240001016 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20240001019 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240001022 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001024 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240001040 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240001057 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20240001073 | omitted-provisions quotation ran into the next item ('3) $ Zrozporządzenia Ministra Obrony Narodowej z dnia 25 lip') without a confirmed close — closing quote was likely lost |
 | WDU20240001082 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-spaced text — 8 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001139 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001184 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001197 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240001216 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001249 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20240001256 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20240001327 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240001337 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' appears 23 times (likely PDF header/footer) |
 | WDU20240001367 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
@@ -759,25 +804,27 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001514 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001533 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001541 | source article inventory failed: eli-html=0 AST=27 dup_ast=1 FAIL; duplicate in AST: 19 @ Rozdział 3 Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej |
-| WDU20240001542 | excessive repetition — '..................................................…' appears 37 times (likely PDF header/footer) |
+| WDU20240001542 | excessive repetition — '..................................................…' appears 37 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001612 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
+| WDU20240001638 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001641 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001716 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20240001736 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
 | WDU20240001738 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20240001740 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20240001746 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' appears 31 times (likely PDF header/footer) |
+| WDU20240001746 | excessive repetition — 'Objaśnienia i informacje dodatkowe dotyczące m.in.…' appears 31 times (likely PDF header/footer); missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20240001749 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20240001751 | omitted-provisions quotation ran into the next item ('2) $2—4 rozporządzenia Ministra Rodziny, Pracy i Polityki Sp') without a confirmed close — closing quote was likely lost |
 | WDU20240001785 | excessive repetition — '..................................................…' appears 79 times (likely PDF header/footer) |
 | WDU20240001850 | excessive repetition — '..................................................…' appears 32 times (likely PDF header/footer) |
+| WDU20240001851 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001898 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001936 | excessive repetition — 'Wyjaśnienia do PKD 2025' appears 51 times (likely PDF header/footer) |
 | WDU20240001953 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20250000277 | rendered round-trip failed: AST=480 rendered=480 empty_articles=1 FAIL |
+| WDU20250001753 | omitted-provisions quotation ran into the next item ('4) art. 28 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o') without a confirmed close — closing quote was likely lost |
+| WDU20260000021 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
 | WDU20260000377 | rendered round-trip failed: AST=30 rendered=30 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 5; low similarity: 5 |
-
-## Removed — no longer in force (2)
-
-| Address | Title | Status |
-|---------|-------|--------|
-| WDU20240001109 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
-| WDU20250001071 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej… | wygaśnięcie aktu |
+| WDU20260000515 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 26 stycznia 1982 r.') — closing quote was likely lost |
+| WDU20260000532 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 15 maja 2024 r.') — closing quote was likely lost |

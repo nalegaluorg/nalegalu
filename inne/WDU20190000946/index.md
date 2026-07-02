@@ -30,11 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w wz
 1) rozporządzeniem Ministra Rozwoju i Finansów z dnia 5 lipca 2017 r. zmieniającym rozporządzenie wzorcowego planu kont dla banków (Dz. U. poz. 1375);
 2) rozporządzeniem Ministra Rozwoju i Finansów z dnia 19 grudnia 2017 r. zmieniającym określenia wzorcowego planu kont dla banków (Dz. U. z 2018 r. poz. 49).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie
-1) § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 5 lipca 2017 r. zmieniającego określenia wzorcowego planu kont dla banków (Dz. U. poz. 1375), które stanowią: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym stosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy 1 stycznia 2017 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 19 grudnia 2017 r. zmieniającego wie określenia wzorcowego planu kont dla banków (Dz. U. z 2018 r. poz. 49), które stanowią: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym stosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy 1 stycznia 2018 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister RozpoRządzenie Ministra Finansów z dnia 11 sierpnia 2011 r.
+1) § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 5 lipca 2017 r. zmieniającego określenia wzorcowego planu kont dla banków (Dz. U. poz. 1375), które stanowią: „ § 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym stosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy 1 stycznia 2017 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 i § 3 rozporządzenia Ministra Rozwoju i Finansów z dnia 19 grudnia 2017 r. zmieniającego wie określenia wzorcowego planu kont dla banków (Dz. U. z 2018 r. poz. 49), które stanowią: „ § 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym stosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy 1 stycznia 2018 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister
+RozpoRządzenie Ministra Finansów z dnia 11 sierpnia 2011 r.
 w sprawie określenia wzorcowego planu kont dla banków Na podstawie art. 83 ust. 2 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.
 dza się, co następuje:
 § 1. Ustala się wzorcowy plan kont dla banków, stanowiący załącznik do rozporządzenia.

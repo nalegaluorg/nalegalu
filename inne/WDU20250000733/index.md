@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/733/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 46 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), który stanowi: „Art. 46. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 46 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), który stanowi: „ Art. 46. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 19 pkt 7 w zakresie art. 43a, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 9 września 2024 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 13 września 1996 r.
 o utrzymaniu czystości i porządku w gminach
 

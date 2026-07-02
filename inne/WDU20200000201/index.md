@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowego Centrum Badań i Rozwoju
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1153), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającym rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.ˮ.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 2293), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.ˮ. Minister Nauki i Szkolnictwa Wyższego: J. Gowin
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
 w sprawie statutu Narodowego Centrum Badań i Rozwoju Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r.
 poz. 1770 i 2020) zarządza się, co następuje:
 § 1. Narodowemu Centrum Badań i Rozwoju nadaje się statut, stanowiący załącznik do rozporządzenia.

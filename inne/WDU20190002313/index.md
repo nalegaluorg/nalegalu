@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 21 grudnia 2017 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2489), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającym rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które stanowią: „§ 2. Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 grudnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 19 grudnia 2018 r. zmieniającego rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2498), które stanowią: „ § 2. Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 21 grudnia 2017 r.
 w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin Na podstawie art. 212 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r.
 poz. 768, 730, 1520, 1556 i 2200) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

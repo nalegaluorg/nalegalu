@@ -29,9 +29,8 @@ source: pdf
 1) ustawą z dnia 7 maja 2009 r. o uchyleniu lub zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 98, poz. 817),
 2) ustawą z dnia 7 maja 2020 r. o zmianie ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. poz. 1098) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 37 ustawy z dnia 7 maja 2009 r. o uchyleniu lub zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 98, poz. 817), który stanowi: „Art. 37. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 7 maja 2020 r. o zmianie ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. poz. 1098), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+1) art. 37 ustawy z dnia 7 maja 2009 r. o uchyleniu lub zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 98, poz. 817), który stanowi: „ Art. 37. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 2 ustawy z dnia 7 maja 2020 r. o zmianie ustawy o sposobie obliczania wartości rocznego produktu krajowego brutto (Dz. U. poz. 1098), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 26 października 2000 r.
 o sposobie obliczania wartości rocznego produktu krajowego brutto
 
