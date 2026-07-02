@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-07-02 15:36 UTC
+Generated: 2026-07-02 16:39 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 18708 |
-| Updated/new | 168 |
-| Unchanged | 11406 |
+| Updated/new | 0 |
+| Unchanged | 11574 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 6622 |
 | Blocked by quality gate | 670 |
