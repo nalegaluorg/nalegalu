@@ -39,7 +39,8 @@ w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżn
 2. Wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o której mowa w art. 41 ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
 3. Wzór wniosku o zamianę lokalu mieszkalnego, o którym mowa w art. 78c ust. 3 ustawy, jest określony w załączniku nr 3 do rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ............................... .................................
 

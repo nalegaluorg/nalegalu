@@ -524,7 +524,6 @@ c) wszelkie istotne informacje zawierające charakterystykę techniczną wyrobu.
 1) załączanie certyfikatu zgodności typu do wniosku o wydanie świadectwa dopuszczenia do eksploatacji typu;
 2) uzyskanie świadectwa dopuszczenia do eksploatacji typu dla rodzajów urządzeń i budowli wymienionych w rozdziale 3 i nieujętych dotychczas w wykazie określonym w rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 7 sierpnia 2012 r. w sprawie wykazu typów budowli przeznaczonych do prowadzenia ruchu kolejowego, typów urządzeń przeznaczonych do prowadzenia ruchu kolejowego oraz typów pojazdów kolejowych, na które są wydawane świadectwa dopuszczenia do eksploatacji typu (Dz. U. poz. 911).
 § 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
 
 #### Rozdział 1 przepisy ogólne
 
@@ -541,6 +540,8 @@ Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja
 #### Rozdział 7 Szczegółowe warunki i tryb wydawania certyfikatów zgodności z typem i deklaracji zgodności z typem oraz procedura oceny zgodności z typem
 
 #### Rozdział 8 przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR CERTYFIKAT ZGODNOŚCI TYPU WZÓR POROZUMIENIE POROZUMIENIE W SPRAWIE W SPRAWIE WYKONANIA WYKONANIA PRÓB PRÓB EKSPLOATACYJNYCH EKSPLOATACYJNYCH Załącznik nr 3 WZÓR WZÓR ŚWIADECTWO dopuszczenia do eksploatacji typu Rodzaj i typ budowli/urządzenia/pojazdu kolejowego*: Producent lub jego upoważniony przedstawiciel: Charakterystyka budowli/urządzenia/pojazdu kolejowego*: Badania techniczne budowli/ urządzenia/ pojazdu kolejowego*: Warunki techniczne eksploatacji: Świadectwo jest ważne: Świadectwo wydano na wniosek: Podstawa prawna: Załącznik nr 4 WZÓR WZÓR NR: CERTYFIKAT ZGODNOŚCI Z TYPEM Załącznik nr 5 WZÓR WZÓR NR: DEKLARACJA ZGODNOŚCI Z TYPEM
 

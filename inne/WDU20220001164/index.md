@@ -97,7 +97,8 @@ poz. 655, 830 i 974) – na recepcie w postaci papierowej, odrębnym dokumencie 
 3. Apteki mogą prowadzić ewidencję recept farmaceutycznych zgodnie z przepisami niniejszego rozporządzenia od pierwszego dnia miesiąca następującego po miesiącu jego wejścia w życie.
 4. Zapotrzebowania sporządzone przed dniem wejścia w życie niniejszego rozporządzenia mogą być realizowane.
 § 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 12 października 2018 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 12 października 2018 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ZAPOTRZEBOWANIE PODMIOTU WYKONUJĄCEGO DZIAŁALNOŚĆ LECZNICZĄ ...............................................................................
 

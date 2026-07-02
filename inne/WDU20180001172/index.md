@@ -53,7 +53,8 @@ poz. 38) zarządza się, co następuje:
 § 8. W razie zgubienia albo zniszczenia odznaki lub legitymacji stwierdzającej jej nadanie wydaje się wtórny egzemplarz odznaki lub legitymacji, za zwrotem kosztów.
 § 9. Koszty związane z nadaniem odznaki są pokrywane ze środków budżetu państwa w części, której dysponentem jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 § 10. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia z dnia 30 kwietnia 2002 r.
+
+## Załączniki do rozporządzenia z dnia 30 kwietnia 2002 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR WNIOSKU WNIOSKU O O NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA „ZA ZASŁUGI ZASŁUGI DLA DLA BUDOWNICTWA” BUDOWNICTWA” Załącznik nr 2 WZÓR ODZNAKI HONOROWEJ WZÓR ODZNAKI „ZA ZASŁUGI HONOROWEJ DLA BUDOWNICTWA” „ZA ZASŁUGI DLA BUDOWNICTWA” Załącznik nr 3 WZÓR WZÓR LEGITYMACJI LEGITYMACJI STWIERDZAJĄCEJ STWIERDZAJĄCEJ NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA „ZA ZASŁUGI ZASŁUGI DLA DLA BUDOWNICTWA” BUDOWNICTWA” Okładka do legitymacji jest koloru bordowego i ma wymiary 154 × 108 mm.
 

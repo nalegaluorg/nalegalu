@@ -194,7 +194,9 @@ Skreślenia są dokonywane w sposób umożliwiający ustalenie pierwotnych wpis�
 4. Wymiana dyplomu potwierdzającego uzyskanie tytułu specjalisty następuje w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
 § 28. Wysokość wynagrodzenia dla jednej osoby za wykonanie czynności kontrolnych, o którym mowa w art. 25 ust. 4 ustawy, wynosi 300 zł.
 § 29. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 13 czerwca 2017 r. (Dz. U. z 2023 r. poz. ) Załącznik nr 1 WYKAZ WYKAZ OZNACZEŃ OZNACZEŃ KODOWYCH KODOWYCH TYTUŁÓW TYTUŁÓW SPECJALISTY SPECJALISTY W W POSZCZEGÓLNYCH POSZCZEGÓLNYCH DZIEDZINACH DZIEDZINACH OCHRONY OCHRONY ZDROWIA ZDROWIA Lp. Tytuł specjalisty uzyskany po złożeniu PESoz Kod specjalizacji
+
+## Załącznik nr 1 — WYKAZ WYKAZ OZNACZEŃ OZNACZEŃ KODOWYCH KODOWYCH TYTUŁÓW TYTUŁÓW SPECJALISTY SPECJALISTY W W POSZCZEGÓLNYCH POSZCZEGÓLNYCH DZIEDZINACH DZIEDZINACH OCHRONY OCHRONY ZDROWIA ZDROWIA Lp. Tytuł specjalisty uzyskany po złożeniu PESoz Kod specjalizacji
+
 1. Specjalista w dziedzinie epidemiologii 001
 2. Specjalista w dziedzinie fizyki medycznej 003
 3. Specjalista w dziedzinie inżynierii medycznej 004

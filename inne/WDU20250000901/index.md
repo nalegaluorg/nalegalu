@@ -1740,5 +1740,9 @@ source: pdf
 
 **Art. 41.** Traci moc ustawa z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych (Dz. U. poz. 1934, z późn. zm. ).
 
-**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. Załączniki do ustawy z dnia 25 2006 r. (Dz. U. z 2025 r. poz. .
+**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
+
+## Załączniki do ustawy z dnia 25 2006 r. (Dz. U. z 2025 r. poz.
+
+.
 

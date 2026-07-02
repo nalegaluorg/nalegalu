@@ -62,7 +62,9 @@ c) numeru kolejnego nadanego przez przedsiębiorcę prowadzącego stację demont
 § 7. Zaświadczenia o demontażu pojazdu oraz o przyjęciu niekompletnego pojazdu wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
 § 8. Rozporządzenie wchodzi w życie z dniem 4 września 2022 r.
 Minister Infrastruktury: wz. A. Bittel Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 kwietnia 2010 r. w sprawie sposobu unieważniania dokumentów pojazdów wycofanych z eksploatacji, wzorów zaświadczeń wydawanych dla tych pojazdów, sposobu przechowywania zaświadczeń oraz prowadzenia ich ewidencji (Dz. U. poz. 476 oraz z 2020 r. poz. 79), które traci moc z dniem 4 września 2022 r. w związku z wejściem w życie art. 4 pkt 6 lit. a ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517).
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia 23 sierpnia 2022 r. (Dz. U.
+
+## Załączniki do rozporządzenia Ministra Infrastruktury z dnia 23 sierpnia 2022 r. (Dz. U.
+
 poz. …) Załączniki do rozporządzenia Ministra Infrastruktury z dnia 23 sierpnia 2022 r. (Dz. U. poz. 1850) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR (format A4) Egz. nr …….
 ……………...………………………………..…… ZAŚWIADCZENIE O DEMONTAŻU POJAZDU nr……../………/……… Na podstawie art. 24 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056) oraz działając na podstawie posiadanego zezwolenia / pozwolenia / pozwolenia zintegrowanego / decyzji w zakresie zbierania odpadów / gospodarki odpadami wydanego przez ………………………………..………………………………..……………….....
 i umowy zawartej z : ………………………………………………………………………………………………………………..… jako: …………………………………………………………...…………………………………………………………………… , prowadząc stację demontażu / punkt zbierania pojazdów w ……………………………………………………………………..…….

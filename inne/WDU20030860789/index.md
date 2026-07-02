@@ -5040,5 +5040,7 @@ source: pdf
 
 **Art. 77a.** Przepisy rozdziału 2b tracą moc z dniem 31 grudnia 2030 r.
 
-**Art. 78.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 28 r. (Dz. U. z 2025 r. poz. 1234) Załącznik Załącznik Załącznik Załącznik
+**Art. 78.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 28 r. (Dz. U. z 2025 r. poz. 1234) Załącznik Załącznik Załącznik Załącznik
 

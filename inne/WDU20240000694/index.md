@@ -78,7 +78,6 @@ W dolnej części wieńca, na złączeniu ramion, znajdują się litery „SG”
 § 14. Komendant jednostki organizacyjnej składa ministrowi właściwemu do spraw wewnętrznych za pośrednictwem Komendanta Głównego Straży Granicznej wniosek o nadanie imienia, zawierający historyczne uzasadnienie nadania wnioskowanego imienia, wraz z pisemną akceptacją, o której mowa w § 13 ust. 2. Komendant Główny Straży Granicznej przedstawia wniosek ministrowi właściwemu do spraw wewnętrznych wraz z opinią.
 § 15. Jednostki organizacyjne, którym nadano sztandary i imiona przed wejściem w życie niniejszego rozporządzenia, zachowują te sztandary i imiona na mocy dotychczasowych aktów nadania.
 § 16. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 1996 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -89,6 +88,8 @@ Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 
 #### Rozdział 4 Tryb nadawania imion jednostkom organizacyjnym Straży Granicznej
 
 #### Rozdział 5 Przepisy końcowe
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 1996 r.
 
 ## Załącznik nr 1 — SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ Załącznik nr 2 SZTANDAR SZTANDAR JEDNOSTKI ORGANIZACYJNEJ JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 3 SZTANDAR JEDNOSTKI ORGANIZACYJNEJ SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 4 SZTANDAR SZTANDAR JEDNOSTKI JEDNOSTKI ORGANIZACYJNEJ ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 5 GŁOWICA GŁOWICA SZTANDARU SZTANDARU JEDNOSTKI JEDNOSTKI ORGANIZACYJNEJ ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GREANICZNEJ Załącznik nr 6 GŁOWICA SZTANDARU JEDNOSTKI ORGANIZACYJNEJ GŁOWICA SZTANDARU JEDNOSTKI STRAŻY ORGANIZACYJNEJ GRANICZNEJ STRAŻY GRANICZNEJ
 

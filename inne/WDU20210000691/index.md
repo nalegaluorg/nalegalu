@@ -58,7 +58,9 @@ poz. 38) zarządza się, co następuje:
 § 10. W razie utraty odznaki, miniaturki lub dyplomu potwierdzającego jej nadanie wydaje się wtórny egzemplarz odpowiednio odznaki, miniaturki lub dyplomu, za zwrotem, przez osobę wyróżnioną, kosztów ich wytworzenia.
 § 11. Koszty związane z nadaniem odznaki są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw administracji publicznej.
 § 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia RadyMinistrów z dnia 12 czerwca 2015 r.
+
+## Załączniki do rozporządzenia RadyMinistrów z dnia 12 czerwca 2015 r.
+
 (poz. …) Załącznik nr 1 WZÓR WZÓR WNIOSEK O NADANIE ODZNAKI HONOROWEJ ZA ZASŁUGI DLA SAMORZĄDU TERYTORIALNEGO
 1. Imię (imiona) 2. Nazwisko (wypełnić drukowanymi literami)
 3. Nr PESEL 4. Imię ojca (wypełnić drukowanymi literami)

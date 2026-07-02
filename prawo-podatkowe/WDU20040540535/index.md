@@ -8,10 +8,10 @@ pos: 535
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o podatku od towarów i usług
+# Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług
 
 *USTAWA z dnia 11 marca 2004 r.*
 
@@ -24,10 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-11 |
 | Data wydania | 2004-04-05 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040540535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/535/text.pdf) |
-
-Art. 139–145. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -38,6 +36,115 @@ Art. 139–145. (pominięte)
 2. Podatek od towarów i usług stanowi dochód budżetu państwa.
 
 **Art. 2.** Ilekroć w dalszych przepisach jest mowa o:
+
+- **1)** terytorium kraju – rozumie się przez to terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 2a;
+- **2)** państwie członkowskim – rozumie się przez to państwo członkowskie Unii Europejskiej, a także Irlandię Północną w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm. );
+- **3)** terytorium Unii Europejskiej – rozumie się przez to terytoria państw członkowskich Unii Europejskiej, z tym że na potrzeby stosowania tej ustawy:
+    - **a)** Księstwo Monako traktuje się jako terytorium Republiki Francuskiej, suwerenne strefy Akrotiri i Dhekelia traktuje się jako terytorium Republiki Cypru,
+    - **b)** następujące terytoria poszczególnych państw członkowskich traktuje się jako wyłączone z terytorium Unii Europejskiej: – wyspę Helgoland, terytorium Buesingen – z Republiki Federalnej Niemiec, – Ceutę, Melillę, Wyspy Kanaryjskie – z Królestwa Hiszpanii, – Livigno, Campione d’Italia, włoską część jeziora Lugano – z Republiki Włoskiej, – francuskie terytoria, o których mowa w art. 349 i art. 355 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej – z Republiki Francuskiej, – Górę Athos – z Republiki Greckiej, – Wyspy Alandzkie – z Republiki Finlandii, – (uchylone)
+    - **c)** (uchylona)
+    - **d)** Irlandię Północną traktuje się jako terytorium Unii Europejskiej w zakresie określonym w Protokole w sprawie Irlandii / Irlandii Północnej do Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej;
+
+- **4)** terytorium państwa członkowskiego – rozumie się przez to terytorium państwa wchodzące w skład terytorium Unii Europejskiej, z zastrzeżeniem art. 2a;
+- **5)** terytorium państwa trzeciego – rozumie się przez to terytorium państwa niewchodzące w skład terytorium Unii Europejskiej, z zastrzeżeniem art. 2a ust. 1 i 3;
+- **5a)** (uchylony)
+- **6)** towarach – rozumie się przez to rzeczy oraz ich części, a także wszelkie postacie energii;
+- **7)** imporcie towarów – rozumie się przez to przywóz towarów z terytorium państwa trzeciego na terytorium Unii Europejskiej;
+- **8)** eksporcie towarów – rozumie się przez to dostawę towarów wysyłanych lub transportowanych z terytorium kraju poza terytorium Unii Europejskiej przez:
+    - **a)** dostawcę lub na jego rzecz, lub
+    - **b)** nabywcę mającego siedzibę poza terytorium kraju lub na jego rzecz, z wyłączeniem towarów wywożonych przez samego nabywcę do celów wyposażenia lub zaopatrzenia statków rekreacyjnych oraz turystycznych statków powietrznych lub innych środków transportu służących do celów prywatnych – jeżeli wywóz towarów poza terytorium Unii Europejskiej jest potwierdzony przez właściwy organ celny określony w przepisach celnych;
+
+- **9)** imporcie usług – rozumie się przez to świadczenie usług, z tytułu wykonania których podatnikiem jest usługobiorca, o którym mowa w art. 17 ust. 1 pkt 4;
+- **10)** nowych środkach transportu – rozumie się przez to przeznaczone do transportu osób lub towarów:
+    - **a)** pojazdy lądowe napędzane silnikiem o pojemności skokowej większej niż 48 centymetrów sześciennych lub o mocy większej niż 7,2 kilowata, jeżeli przejechały nie więcej niż 6000 kilometrów lub od momentu dopuszczenia ich do użytku upłynęło nie więcej niż 6 miesięcy; za moment dopuszczenia do użytku pojazdu lądowego uznaje się dzień, w którym został on pierwszy raz zarejestrowany w celu dopuszczenia do ruchu drogowego lub w którym po raz pierwszy podlegał on obowiązkowi rejestracji w celu dopuszczenia do ruchu drogowego w zależności od tego, która z tych dat jest wcześniejsza; jeżeli nie można ustalić dnia pierwszej rejestracji pojazdu lądowego lub dnia, w którym podlegał on pierwszej rejestracji, za moment dopuszczenia do użytku tego pojazdu uznaje się dzień, w którym został on wydany przez producenta pierwszemu nabywcy, lub dzień, w którym został po raz pierwszy użyty dla celów demonstracyjnych przez producenta,
+    - **b)** jednostki pływające o długości większej niż 7,5 metra, jeżeli były używane nie dłużej niż 100 godzin roboczych na wodzie lub od momentu ich dopuszczenia do użytku upłynęło nie więcej niż 3 miesiące, z wyjątkiem statków morskich, o których mowa w art. 83 ust. 1 pkt 1; za moment dopuszczenia do użytku jednostki pływającej uznaje się dzień, w którym została ona wydana przez producenta pierwszemu nabywcy, lub dzień, w którym została po raz pierwszy użyta dla celów demonstracyjnych przez producenta,
+    - **c)** statki powietrzne o maksymalnej masie startowej większej niż 1550 kilogramów, jeżeli były używane nie dłużej niż 40 godzin roboczych lub od momentu ich dopuszczenia do użytku upłynęło nie więcej niż 3 miesiące, z wyjątkiem środków transportu lotniczego, o których mowa w art. 83 ust. 1 pkt 6; za moment dopuszczenia do użytku statku powietrznego uznaje się dzień, w którym został on wydany przez producenta pierwszemu nabywcy, lub dzień, w którym został po raz pierwszy użyty dla celów demonstracyjnych przez producenta;
+
+- **11)** podatku od wartości dodanej – rozumie się przez to podatek od wartości dodanej nakładany na terytorium państwa członkowskiego, z wyjątkiem podatku od towarów i usług nakładanego tą ustawą;
+- **12)** obiektach budownictwa mieszkaniowego – rozumie się przez to budynki mieszkalne stałego zamieszkania sklasyfikowane w Polskiej Klasyfikacji Obiektów Budowlanych w dziale 11;
+- **13)** urzędzie skarbowym – rozumie się przez to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
+- **14)** pierwszym zasiedleniu – rozumie się przez to oddanie do użytkowania pierwszemu nabywcy lub użytkownikowi lub rozpoczęcie użytkowania na potrzeby własne budynków, budowli lub ich części, po ich:
+    - **a)** wybudowaniu lub
+    - **b)** ulepszeniu, jeżeli wydatki poniesione na ulepszenie, w rozumieniu przepisów o podatku dochodowym, stanowiły co najmniej 30 % wartości początkowej;
+
+- **14a)** wytworzeniu nieruchomości – rozumie się przez to wybudowanie budynku, budowli lub ich części, lub ich ulepszenie w rozumieniu przepisów o podatku dochodowym;
+- **15)** działalności rolniczej – rozumie się przez to produkcję roślinną i zwierzęcą, w tym również produkcję materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcję warzywniczą, gruntową, szklarniową i pod folią, produkcję roślin ozdobnych, grzybów uprawnych i sadowniczą, chów, hodowlę i produkcję materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowego lub fermowego oraz chów i hodowlę ryb i innych organizmów żyjących w wodzie, a także uprawy w szklarniach i ogrzewanych tunelach foliowych, uprawy grzybów i ich grzybni, uprawy roślin „in vitro”, fermową hodowlę i chów drobiu rzeźnego i nieśnego, wylęgarnie drobiu, hodowlę i chów zwierząt futerkowych i laboratoryjnych, chów i hodowlę dżdżownic, entomofagów i jedwabników, prowadzenie pasiek oraz chów i hodowlę innych zwierząt poza gospodarstwem rolnym oraz sprzedaż produktów gospodarki leśnej i łowieckiej, z wyjątkiem drewna okrągłego z drzew tropikalnych (CN 4403 41 00 i 4403 49) oraz bambusa (CN 1401 10 00), a także świadczenie usług rolniczych;
+- **16)** gospodarstwie rolnym – rozumie się przez to gospodarstwo rolne w rozumieniu przepisów o podatku rolnym;
+- **17)** gospodarstwie leśnym – rozumie się przez to gospodarstwo prowadzone przez podatnika, na którym ciąży obowiązek podatkowy w podatku leśnym;
+- **18)** gospodarstwie rybackim – rozumie się przez to prowadzenie działalności w zakresie chowu i hodowli ryb oraz innych organizmów żyjących w wodzie;
+- **19)** rolniku ryczałtowym – rozumie się przez to rolnika dokonującego dostawy produktów rolnych lub świadczącego usługi rolnicze, korzystającego ze zwolnienia od podatku na podstawie art. 43 ust. 1 pkt 3, z wyjątkiem rolnika obowiązanego na podstawie odrębnych przepisów do prowadzenia ksiąg rachunkowych;
+- **20)** produktach rolnych – rozumie się przez to towary pochodzące z własnej działalności rolniczej rolnika ryczałtowego oraz towary, o których mowa w art. 20 ust. 1c i 1d ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340, 368 i 620);
+- **21)** usługach rolniczych – rozumie się przez to:
+    - **a)** usługi związane z rolnictwem oraz chowem i hodowlą zwierząt, z wyłączeniem usług weterynaryjnych (PKWiU ex 01.6), z wyłączeniem usług podkuwania koni i prowadzenia schronisk dla zwierząt gospodarskich (PKWiU ex 01.62.10.0),
+    - **b)** usługi związane z leśnictwem (PKWiU ex 02.40.10), z wyłączeniem patrolowania lasów wykonywanego na zlecenie przez jednostki inne niż leśne (PKWiU ex 02.40.10.3),
+    - **c)** usługi wspomagające rybactwo (PKWiU ex 03.00.7), z wyłączeniem usług związanych z rybołówstwem morskim (PKWiU 03.00.71.0),
+    - **d)** wynajem i dzierżawę maszyn i urządzeń rolniczych, bez obsługi (PKWiU 77.31.10.0);
+
+- **22)** sprzedaży – rozumie się przez to odpłatną dostawę towarów i odpłatne świadczenie usług na terytorium kraju, eksport towarów oraz wewnątrzwspólnotową dostawę towarów;
+- **22a)** wewnątrzwspólnotowej sprzedaży towarów na odległość – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa członkowskiego innego niż terytorium państwa członkowskiego zakończenia wysyłki lub transportu towarów do nabywcy, który jest:
+    - **a)** podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub
+    - **b)** podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub
+    - **c)** podmiotem niebędącym podatnikiem – pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2;
+
+- **22b)** sprzedaży na odległość towarów importowanych – rozumie się przez to dostawę towarów wysyłanych lub transportowanych przez dostawcę lub na jego rzecz, w tym wtedy, gdy dostawca uczestniczy pośrednio w transporcie lub wysyłce towarów, z terytorium państwa trzeciego do nabywcy na terytorium państwa członkowskiego, który jest:
+    - **a)** podatnikiem podatku od towarów i usług lub osobą prawną niebędącą podatnikiem podatku od towarów i usług, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów, o którym mowa w art. 9, lub
+    - **b)** podatnikiem podatku od wartości dodanej lub osobą prawną niebędącą podatnikiem podatku od wartości dodanej, którzy nie mają obowiązku rozliczania wewnątrzwspólnotowego nabycia towarów odpowiadającego wewnątrzwspólnotowemu nabyciu towarów, o którym mowa w art. 9, lub
+    - **c)** podmiotem niebędącym podatnikiem – pod warunkiem że dostarczane towary nie są nowymi środkami transportu ani towarami, o których mowa w art. 22 ust. 1 pkt 2;
+
+- **23)** (uchylony)
+- **24)** (uchylony)
+- **25)** małym podatniku – rozumie się przez to podatnika podatku od towarów i usług:
+    - **a)** u którego wartość sprzedaży (wraz z kwotą podatku) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro,
+    - **b)** prowadzącego przedsiębiorstwo maklerskie, zarządzającego funduszami inwestycyjnymi, zarządzającego alternatywnymi funduszami inwestycyjnymi, będącego agentem, zleceniobiorcą lub inną osobą świadczącą usługi o podobnym charakterze, z wyjątkiem komisu – jeżeli kwota prowizji lub innych postaci wynagrodzenia za wykonane usługi (wraz z kwotą podatku) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 45 000 euro – przy czym przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+
+- **25a)** usługach telekomunikacyjnych – rozumie się przez to usługi dotyczące transmisji, emisji i odbioru sygnałów, tekstów, obrazów i dźwięków lub wszelkiego rodzaju informacji drogą kablową, radiową, optyczną lub za pośrednictwem innych systemów elektromagnetycznych, w tym związane z nimi przeniesienie lub cesję praw do użytkowania środków dla zapewniania takiej transmisji, emisji i odbioru, wraz z zapewnieniem dostępu do ogólnoświatowych sieci informacyjnych, z uwzględnieniem art. 6a rozporządzenia wykonawczego Rady (UE) nr 282/2011 z dnia 15 marca 2011 r. ustanawiającego środki wykonawcze do dyrektywy 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 77 z 23.03.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 282/2011”;
+- **25b)** usługach nadawczych – rozumie się przez to usługi nadawcze, o których mowa w art. 6b rozporządzenia 282/2011;
+- **26)** usługach elektronicznych – rozumie się przez to usługi świadczone drogą elektroniczną, o których mowa w art. 7 rozporządzenia 282/2011;
+- **26a)** systemie gazowym – rozumie się przez to system gazowy znajdujący się na terytorium Unii Europejskiej lub jakąkolwiek sieć połączoną z takim systemem;
+- **27)** wyrobach akcyzowych – rozumie się przez to wyroby akcyzowe w rozumieniu przepisów o podatku akcyzowym, z wyłączeniem gazu dostarczanego w systemie gazowym;
+- **27a)** systemie elektroenergetycznym – rozumie się przez to system elektroenergetyczny w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303);
+- **27b)** wartości rynkowej – rozumie się przez to całkowitą kwotę, jaką, w celu uzyskania w danym momencie danych towarów lub usług, nabywca lub usługobiorca na takim samym etapie sprzedaży jak ten, na którym dokonywana jest dostawa towarów lub świadczenie usług, musiałby, w warunkach uczciwej konkurencji, zapłacić niezależnemu dostawcy lub usługodawcy na terytorium kraju; w przypadku gdy nie można ustalić porównywalnej dostawy towarów lub świadczenia usług, przez wartość rynkową rozumie się: 27ba) wartości rzeczywistej – rozumie się przez to wartość rzeczywistą, o której mowa w art. 1 pkt 48 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego (Dz. Urz. UE L 343 z 29.12.2015, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2015/2446”;
+    - **a)** w odniesieniu do towarów – kwotę nie mniejszą niż cena nabycia towarów lub towarów podobnych, a w przypadku braku ceny nabycia, koszt wytworzenia, określone w momencie dostawy,
+    - **b)** w odniesieniu do usług – kwotę nie mniejszą niż całkowity koszt poniesiony przez podatnika na wykonanie tych usług;
+
+- **27c)** (uchylony) 27d) (uchylony) 27e) zorganizowanej części przedsiębiorstwa – rozumie się przez to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
+- **27f)** (uchylony) 27g) czasopismach regionalnych lub lokalnych – rozumie się przez to wydawnictwa periodyczne (ex CN 4902 i ex CN 4911) o tematyce regionalnej lub lokalnej, także przeznaczone dla osób niewidomych i niedowidzących, publikowane nie częściej niż raz w tygodniu w postaci odrębnych zeszytów (numerów) objętych wspólnym tytułem, których zakończenia nie przewiduje się, ukazujące się na ogół w regularnych odstępach czasu w nakładzie w wersji drukowanej nie wyższym niż 15 000 egzemplarzy, z wyjątkiem:
+    - **a)** periodyków o treści ogólnej, stanowiących podstawowe źródło informacji bieżącej o aktualnych wydarzeniach krajowych lub zagranicznych, przeznaczonych dla szerokiego kręgu czytelników,
+    - **b)** publikacji zawierających treści pornograficzne, publikacji zawierających treści nawołujące do nienawiści na tle różnic narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość lub znieważające z tych powodów grupę ludności lub poszczególne osoby oraz publikacji propagujących ustroje totalitarne,
+    - **c)** wydawnictw, które zawierają głównie kompletne powieść, opowiadanie lub inne dzieło w formie tekstu ilustrowanego lub nie, albo w formie rysunków opatrzonych opisem lub nie,
+    - **d)** publikacji, w których więcej niż 20 % powierzchni jest przeznaczone na krzyżówki, kryptogramy, zagadki oraz inne gry słowne lub rysunkowe,
+    - **e)** publikacji zawierających informacje popularne, w szczególności porady oraz informacje o znanych i sławnych postaciach z życia publicznego,
+    - **f)** czasopism w wersji drukowanej, na których nie zostanie uwidoczniona wysokość nakładu;
+
+- **28)** Ordynacji podatkowej – rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622);
+- **29)** (uchylony)
+- **30)** ex – rozumie się przez to zakres towarów i usług węższy niż określony odpowiednio w danym dziale, pozycji, podpozycji lub kodzie Nomenklatury scalonej (CN) lub danym grupowaniu klasyfikacji wydanych na podstawie przepisów o statystyce publicznej;
+- **31)** fakturze – rozumie się przez to dokument w postaci papierowej lub w postaci elektronicznej zawierający dane wymagane ustawą i przepisami wydanymi na jej podstawie;
+- **32)** fakturze elektronicznej – rozumie się przez to fakturę w postaci elektronicznej wystawioną i otrzymaną w dowolnym formacie elektronicznym;
+- **32a)** fakturze ustrukturyzowanej – rozumie się przez to fakturę wystawioną przy użyciu Krajowego Systemu e-Faktur wraz z przydzielonym numerem identyfikującym tę fakturę w tym systemie;
+- **33)** terenach budowlanych – rozumie się przez to grunty przeznaczone pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego, a w przypadku braku takiego planu – zgodnie z decyzją o warunkach zabudowy i zagospodarowania terenu, o których mowa w przepisach o planowaniu i zagospodarowaniu przestrzennym;
+- **34)** pojazdach samochodowych – rozumie się przez to pojazdy samochodowe w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony;
+- **35)** podmiocie prowadzącym skład podatkowy – rozumie się przez to podmiot, o którym mowa w art. 2 ust. 1 pkt 11 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340);
+- **36)** zarejestrowanym odbiorcy – rozumie się przez to podmiot, o którym mowa w art. 2 ust. 1 pkt 13 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+- **37)** rachunku VAT – rozumie się przez to rachunek VAT, o którym mowa w: U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525),
+    - **a)** art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz.
+    - **b)** art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379);
+
+- **38)** ustawie o zarządzie sukcesyjnym – rozumie się przez to ustawę z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170);
+- **39)** przedsiębiorstwie w spadku – rozumie się przez to przedsiębiorstwo w spadku w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **40)** zarządzie sukcesyjnym – rozumie się przez to zarząd sukcesyjny, o którym mowa w ustawie o zarządzie sukcesyjnym;
+- **41)** bonie – rozumie się przez to instrument, z którym wiąże się obowiązek jego przyjęcia jako wynagrodzenia lub części wynagrodzenia za dostawę towarów lub świadczenie usług, w przypadku którego towary, które mają zostać dostarczone, lub usługi, które mają zostać wykonane, lub tożsamość potencjalnych dostawców lub usługodawców są wskazane w samym instrumencie lub określone w powiązanej dokumentacji, w tym w warunkach wykorzystania tego instrumentu;
+- **42)** emisji bonu ‒ rozumie się przez to pierwsze wprowadzenie bonu do obrotu;
+- **43)** bonie jednego przeznaczenia – rozumie się przez to bon, w przypadku którego miejsce dostawy towarów lub świadczenia usług, których bon dotyczy, oraz kwota należnego podatku, podatku od wartości dodanej lub podatku o podobnym charakterze z tytułu dostawy tych towarów lub świadczenia tych usług są znane w chwili emisji tego bonu;
+- **44)** bonie różnego przeznaczenia – rozumie się przez to bon inny niż bon jednego przeznaczenia;
+- **45)** transferze bonu ‒ rozumie się przez to emisję bonu oraz każde przekazanie tego bonu po jego emisji;
+- **46)** systemie TAX FREE – rozumie się przez to system teleinformatyczny na Platformie Usług Elektronicznych Skarbowo-Celnych służący do obsługi dokumentów elektronicznych będących podstawą do dokonania zwrotu podatku podróżnym, w szczególności do wystawiania i obiegu dokumentów, oraz prowadzenia ewidencji;
+- **47)** grupie VAT – rozumie się przez to grupę podmiotów powiązanych finansowo, ekonomicznie i organizacyjnie, zarejestrowaną jako podatnik podatku;
+- **48)** przedstawicielu grupy VAT – rozumie się przez to podmiot reprezentujący grupę VAT w zakresie obowiązków tej grupy;
+- **49)** (uchylony) 49a) systemie kaucyjnym – rozumie się przez to system kaucyjny w rozumieniu art. 8 pkt 13a ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927 i 1911);
+- **50)** wprowadzającym produkty w opakowaniach na napoje – rozumie się przez to podatnika będącego podmiotem, o którym mowa w art. 8 pkt 21a lub 21b ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, uczestniczącego w systemie kaucyjnym;
+- **51)** odpadzie opakowaniowym – rozumie się przez to odpad opakowaniowy w rozumieniu art. 8 pkt 8 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi zwracany w ramach systemu kaucyjnego;
+- **52)** podmiocie reprezentującym – rozumie się przez to podmiot, o którym mowa w art. 40h ust. 1 i 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi.
 
 **Art. 2a.**
 
@@ -108,6 +215,10 @@ Art. 139–145. (pominięte)
 **Art. 5a.** Towary i usługi będące przedmiotem czynności, o których mowa w art. 5, wymienione w klasyfikacji w układzie odpowiadającym Nomenklaturze scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej (Dz. Urz. WE L 256 z 07.09.1987, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382, z późn. zm.) lub w klasyfikacjach wydanych na podstawie przepisów o statystyce publicznej, są klasyfikowane według Nomenklatury scalonej (CN) lub klasyfikacji wydanych na podstawie przepisów o statystyce publicznej, jeżeli dla tych towarów lub usług przepisy ustawy lub przepisy wykonawcze wydane na jej podstawie powołują działy, pozycje, podpozycje lub kody Nomenklatury scalonej (CN) lub symbole klasyfikacji statystycznych.
 
 **Art. 6.** Przepisów ustawy nie stosuje się do:
+
+- **1)** transakcji zbycia przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa;
+- **2)** czynności, które nie mogą być przedmiotem prawnie skutecznej umowy.
+- **3)** (uchylony)
 
 #### Rozdział 2 Dostawa towarów i świadczenie usług
 
@@ -372,6 +483,12 @@ Art. 139–145. (pominięte)
 
 **Art. 13c.** Jeżeli w terminie, o którym mowa w art. 13b, podatnik, o którym mowa w art. 13a ust. 2 pkt 3, zostaje zastąpiony przez innego podatnika, uznaje się, że w okresie zastąpienia nie miało miejsca wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, pod warunkiem że:
 
+- **1)** podatnik zastępujący jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem podatku od wartości dodanej wysyłającym lub transportującym towary;
+- **2)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju;
+- **3)** podatnik zastępujący jest zarejestrowany jako podatnik VAT UE, a jego nazwa lub imię i nazwisko oraz numer identyfikacji podatkowej poprzedzony kodem PL są znane podatnikowi podatku od wartości dodanej wysyłającemu lub transportującemu towary w momencie zastąpienia;
+- **4)** podatnik podatku od wartości dodanej wysyłający lub transportujący towary podaje w informacji odpowiadającej informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacji podatkowej, o którym mowa w pkt 3;
+- **5)** zastąpienie zostało zarejestrowane przez podatnika podatku od wartości dodanej wysyłającego lub transportującego towary w ewidencji, o której mowa w art. 54a ust. 1 rozporządzenia 282/2011.
+
 **Art. 13d.**
 
 1. Jeżeli w terminie, o którym mowa w art. 13b, przestaje być spełniony którykolwiek z warunków, o których mowa w art. 13a ust. 2 lub art. 13c, uznaje się, że wewnątrzwspólnotowe nabycie towarów, o którym mowa w art. 11 ust. 1, nastąpiło z chwilą, gdy warunek ten przestał być spełniony.
@@ -437,6 +554,12 @@ Art. 139–145. (pominięte)
 **Art. 13i.** Jeżeli warunki określone w art. 13h ust. 2 są spełnione, wewnątrzwspólnotową dostawę towarów, o której mowa w art. 13 ust. 1, uznaje się za dokonaną przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, na terytorium kraju w momencie przeniesienia prawa do rozporządzania towarami jak właściciel na podatnika podatku od wartości dodanej, któremu te towary mają być dostarczone, o ile przeniesienie to nastąpi w terminie 12 miesięcy od dnia wprowadzenia towarów do magazynu w procedurze magazynu typu call-off stock.
 
 **Art. 13j.** Jeżeli w terminie, o którym mowa w art. 13i, podatnik podatku od wartości dodanej zostaje zastąpiony przez innego podatnika podatku od wartości dodanej, uznaje się, że w okresie zastąpienia nie miała miejsca wewnątrzwspólnotowa dostawa towarów, o której mowa w art. 13 ust. 3, pod warunkiem że:
+
+- **1)** podatnik zastępujący podatnika podatku od wartości dodanej jest uprawniony do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z porozumieniem zawartym między nim a podatnikiem, o którym mowa w art. 13h ust. 2 pkt 2;
+- **2)** podatnik, o którym mowa w art. 13h ust. 2 pkt 2, nie ma siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego, do którego przemieszcza towary z terytorium kraju;
+- **3)** podatnik zastępujący podatnika podatku od wartości dodanej jest zidentyfikowany na potrzeby transakcji wewnątrzwspólnotowych na terytorium państwa członkowskiego innym niż terytorium kraju, a jego nazwa lub imię i nazwisko oraz numer identyfikacyjny dla transakcji wewnątrzwspólnotowych nadany mu przez to państwo członkowskie są znane podatnikowi, o którym mowa w art. 13h ust. 2 pkt 2, w momencie zastąpienia;
+- **4)** podatnik, o którym mowa w art. 13h ust. 2 pkt 2, podaje w informacji podsumowującej, o której mowa w art. 100 ust. 1 pkt 5, numer identyfikacyjny, o którym mowa w pkt 3;
+- **5)** zastąpienie zostało zarejestrowane przez podatnika, o którym mowa w art. 13h ust. 2 pkt 2, w ewidencji, o której mowa w art. 109 ust. 11c.
 
 **Art. 13k.**
 
@@ -971,6 +1094,12 @@ Art. 139–145. (pominięte)
 
 **Art. 28a.** Na potrzeby stosowania niniejszego rozdziału:
 
+- **1)** ilekroć jest mowa o podatniku – rozumie się przez to:
+    - **a)** podmioty, które wykonują samodzielnie działalność gospodarczą, o której mowa w art. 15 ust. 2, lub działalność gospodarczą odpowiadającą tej działalności, bez względu na cel czy rezultat takiej działalności, z uwzględnieniem art. 15 ust. 6,
+    - **b)** osobę prawną niebędącą podatnikiem na podstawie lit. a, która jest zidentyfikowana lub obowiązana do identyfikacji do celów podatku lub podatku od wartości dodanej;
+
+- **2)** podatnika, który prowadzi również działalność lub dokonuje transakcji nieuznawanych za podlegające opodatkowaniu dostawy towarów lub świadczenia usług zgodnie z art. 5 ust. 1, uznaje się za podatnika w odniesieniu do wszystkich świadczonych na jego rzecz usług.
+
 **Art. 28b.**
 
 1. Miejscem świadczenia usług w przypadku świadczenia usług na rzecz podatnika jest miejsce, w którym podatnik będący usługobiorcą posiada siedzibę działalności gospodarczej, z zastrzeżeniem ust. 2–4 oraz art. 28e, art. 28f ust. 1 i 1a, art. 28g ust. 1, art. 28i, art. 28j ust. 1 i 2 oraz art. 28n.
@@ -1020,6 +1149,9 @@ Art. 139–145. (pominięte)
 
 **Art. 28h.** W przypadku świadczenia na rzecz podmiotów niebędących podatnikami usług:
 
+- **1)** pomocniczych do usług transportowych, takich jak załadunek, rozładunek, przeładunek lub podobnych usług,
+- **2)** wyceny rzeczowego majątku ruchomego oraz na rzeczowym majątku ruchomym – miejscem świadczenia usług jest miejsce, w którym usługi są faktycznie wykonywane.
+
 **Art. 28i.**
 
 1. Miejscem świadczenia usług restauracyjnych i cateringowych jest miejsce, w którym usługi są faktycznie wykonywane, z zastrzeżeniem ust. 2.
@@ -1055,6 +1187,25 @@ Art. 139–145. (pominięte)
 6. Podatnik posiadający siedzibę działalności gospodarczej, a w razie braku takiej siedziby – stałe miejsce zamieszkania lub zwykłe miejsce pobytu, tylko na terytorium kraju, może ponownie określić miejsce świadczenia usług zgodnie z ust. 2, po uprzednim zawiadomieniu o rezygnacji z dokonanego wyboru, o którym mowa w ust. 4, przed początkiem miesiąca, w którym rezygnuje z określania miejsca świadczenia usług zgodnie z ust. 1, na zasadach określonych w art. 28p.
 
 **Art. 28l.** W przypadku świadczenia na rzecz podmiotów niebędących podatnikami, posiadających siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu poza terytorium Unii Europejskiej, usług:
+
+- **1)** sprzedaży praw lub udzielania licencji i sublicencji, przeniesienia lub cesji praw autorskich, patentów, praw do znaków fabrycznych, handlowych, oddania do używania wspólnego znaku towarowego albo wspólnego znaku towarowego gwarancyjnego, albo innych pokrewnych praw,
+- **2)** reklamy,
+- **3)** doradczych, inżynierskich, prawniczych, księgowych oraz usług podobnych do tych usług,
+- **4)** przetwarzania danych, dostarczania informacji oraz usług tłumaczeń,
+- **5)** bankowych, finansowych, ubezpieczeniowych i reasekuracyjnych, z wyjątkiem wynajmu sejfów przez banki,
+- **6)** dostarczania (oddelegowania) personelu,
+- **7)** wynajmu, dzierżawy lub innych o podobnym charakterze, których przedmiotem są rzeczy ruchome, z wyjątkiem środków transportu, za które uznaje się również przyczepy i naczepy oraz wagony kolejowe,
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** polegających na zapewnieniu dostępu do systemów gazowych, systemów elektroenergetycznych lub do sieci dystrybucji energii cieplnej lub chłodniczej,
+- **12)** przesyłowych:
+    - **a)** gazu w systemie gazowym,
+    - **b)** energii elektrycznej w systemie elektroenergetycznym,
+    - **c)** energii cieplnej lub chłodniczej przez sieci dystrybucji energii cieplnej lub chłodniczej,
+
+- **13)** bezpośrednio związanych z usługami, o których mowa w pkt 11 i 12,
+- **14)** polegających na zobowiązaniu się do powstrzymania się od dokonania czynności lub posługiwania się prawem, o których mowa w pkt 1–13 – miejscem świadczenia usług jest miejsce, gdzie podmioty te posiadają siedzibę, stałe miejsce zamieszkania lub zwykłe miejsce pobytu.
 
 **Art. 28m.** (uchylony)
 
@@ -1642,6 +1793,13 @@ Art. 139–145. (pominięte)
 
 **Art. 42a.** Wiążąca informacja stawkowa, zwana dalej „WIS”, jest decyzją wydawaną na potrzeby opodatkowania podatkiem dostawy towarów, importu towarów, wewnątrzwspólnotowego nabycia towarów albo świadczenia usług, która zawiera:
 
+- **1)** opis towaru albo usługi będących przedmiotem WIS;
+- **2)** klasyfikację towaru według działu, pozycji, podpozycji lub kodu Nomenklatury scalonej (CN) albo według działu, grupy, klasy, kategorii, podkategorii lub pozycji Polskiej Klasyfikacji Wyrobów i Usług albo według sekcji, działu, grupy lub klasy Polskiej Klasyfikacji Obiektów Budowlanych albo usługi według działu, grupy, klasy, kategorii, podkategorii lub pozycji Polskiej Klasyfikacji Wyrobów i Usług, niezbędną do:
+    - **a)** określenia stawki podatku właściwej dla towaru albo usługi,
+    - **b)** stosowania przepisów ustawy oraz przepisów wykonawczych wydanych na jej podstawie – w przypadku, o którym mowa w art. 42b ust. 4;
+
+- **3)** stawkę podatku właściwą dla towaru albo usługi, z wyjątkiem przypadku, o którym mowa w art. 42b ust. 4.
+
 **Art. 42b.**
 
 1. WIS jest wydawana na wniosek:
@@ -1717,7 +1875,9 @@ Art. 139–145. (pominięte)
     - **b)** poprzedzającego dzień, w którym WIS wygasła na podstawie art. 42h ust. 1, albo
     - **c)** upływu okresu, na jaki została wydana WIS – w zależności od tego, które ze zdarzeń nastąpiło wcześniej,
 
-- **2)** zastosowania na potrzeby podatku przez podmiot, na rzecz którego została wydana wiążąca informacja akcyzowa, zwana dalej „WIA”, klasyfikacji towaru według Nomenklatury scalonej (CN), określonej dla tego towaru w tej WIA, jeżeli nie upłynął okres ważności tej WIA – przepisy art. 14k–14m Ordynacji podatkowej stosuje się odpowiednio. Art. 42ca. Jeżeli przedmiot WIS stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5, przepisu art. 42c nie stosuje się.
+- **2)** zastosowania na potrzeby podatku przez podmiot, na rzecz którego została wydana wiążąca informacja akcyzowa, zwana dalej „WIA”, klasyfikacji towaru według Nomenklatury scalonej (CN), określonej dla tego towaru w tej WIA, jeżeli nie upłynął okres ważności tej WIA – przepisy art. 14k–14m Ordynacji podatkowej stosuje się odpowiednio.
+
+**Art. 42ca.** Jeżeli przedmiot WIS stanowi element czynności będących przedmiotem decyzji wydanej w związku z wystąpieniem nadużycia prawa, o którym mowa w art. 5 ust. 5, przepisu art. 42c nie stosuje się.
 
 **Art. 42d.** (uchylony)
 
@@ -1786,7 +1946,11 @@ Art. 139–145. (pominięte)
 
 4. Szef Krajowej Administracji Skarbowej może przejąć do dalszego prowadzenia, w drodze postanowienia, postępowanie wszczęte przez Dyrektora Krajowej Informacji Skarbowej na podstawie ust. 3 albo 3c. Przepis ust. 3a stosuje się odpowiednio.
 
-5. Przepisy ust. 3 i 3a stosuje się odpowiednio do innych niż WIS ostatecznych rozstrzygnięć wydanych w sprawach dotyczących wydawania WIS. Art. 42ha. 1. WIS jest wydawana na okres 5 lat i jest ważna od dnia następującego po dniu jej doręczenia.
+5. Przepisy ust. 3 i 3a stosuje się odpowiednio do innych niż WIS ostatecznych rozstrzygnięć wydanych w sprawach dotyczących wydawania WIS.
+
+**Art. 42ha.**
+
+1. WIS jest wydawana na okres 5 lat i jest ważna od dnia następującego po dniu jej doręczenia.
 
 2. WIS traci ważność przed upływem okresu, o którym mowa w ust. 1, z dniem:
 
@@ -1999,6 +2163,10 @@ Art. 139–145. (pominięte)
 
 **Art. 44.** Zwalnia się od podatku wewnątrzwspólnotowe nabycie:
 
+- **1)** towarów, do których miałyby zastosowanie przepisy art. 43 ust. 1 pkt 5–8;
+- **2)** towarów, których import na warunkach określonych w przepisach dotyczących importu towarów byłby zwolniony od podatku.
+- **3)** (uchylony)
+
 #### Rozdział 3 Zwolnienia z tytułu importu towarów
 
 **Art. 45.**
@@ -2030,6 +2198,11 @@ Art. 139–145. (pominięte)
 - **2)** nastąpiło zamknięcie procedury uszlachetniania czynnego zgodnie z art. 324 rozporządzenia 2015/2447.
 
 **Art. 46.** Na potrzeby stosowania art. 47–80:
+
+- **1)** za napoje alkoholowe uważa się piwo, wino, aperitify na bazie wina lub alkoholu, koniaki, likiery lub napoje spirytusowe i inne podobne, klasyfikowane według kodów objętych pozycjami od 2203 00 do 2208 Nomenklatury scalonej (CN);
+- **2)** za tytoń i wyroby tytoniowe uważa się wyroby klasyfikowane według kodów objętych pozycjami od 2401 do 2403 oraz 2404 11 00 i 2404 19 10 Nomenklatury scalonej (CN);
+- **3)** za rzeczy osobistego użytku uważa się towary bezpośrednio używane przez osobę fizyczną lub wykorzystywane w gospodarstwie domowym, jeżeli ich ilość lub rodzaj nie wskazują na przeznaczenie handlowe lub do działalności gospodarczej, a także przenośny sprzęt niezbędny do wykonywania przez osobę zainteresowaną zawodu.
+- **4)** (uchylony)
 
 **Art. 47.**
 
@@ -2175,6 +2348,9 @@ Art. 139–145. (pominięte)
 2. Do produktów rybołówstwa i gospodarki rybnej prowadzonej przez polskich rybaków w wodach płynących i jeziorach stanowiących granicę Rzeczypospolitej Polskiej oraz do produktów łowiectwa prowadzonego przez polskich myśliwych na tych jeziorach i wodach płynących przepis ust. 1 stosuje się odpowiednio.
 
 **Art. 55.** Zwalnia się od podatku import, na zasadzie wzajemności, nasion, nawozów i produktów służących do uprawy ziemi i roślin, przeznaczonych do wykorzystania w gospodarstwach znajdujących się na terytorium kraju, prowadzonych przez osoby prowadzące główne gospodarstwo zlokalizowane na terytorium państwa trzeciego graniczące z terytorium kraju, jeżeli łącznie są spełnione następujące warunki:
+
+- **1)** ilość przywożonych produktów nie przekracza ilości niezbędnej do uprawy lub prowadzenia danego gospodarstwa;
+- **2)** zgłoszenie celne produktów jest dokonywane przez rolnika lub w jego imieniu.
 
 **Art. 56.**
 
@@ -2385,6 +2561,9 @@ Art. 139–145. (pominięte)
 
 **Art. 66.** Zwalnia się od podatku, na zasadzie wzajemności, import:
 
+- **1)** darów ofiarowanych panującym i głowom państw oraz osobom, które zgodnie z przepisami międzynarodowymi korzystają z takich samych przywilejów;
+- **2)** towarów przeznaczonych do wykorzystania lub użycia przez panujących i głowy państw obcych oraz ich oficjalnych przedstawicieli w okresie ich oficjalnego pobytu na terytorium kraju.
+
 **Art. 67.**
 
 1. Zwalnia się od podatku import próbek towarów mających nieznaczną wartość i mogących służyć jedynie uzyskaniu zamówień na towary tego samego rodzaju, które mają być przywiezione na terytorium kraju.
@@ -2394,6 +2573,11 @@ Art. 139–145. (pominięte)
 3. Organ celny, przyjmując zgłoszenie celne obejmujące próbki, o których mowa w ust. 1, może uzależnić zwolnienie tych próbek od podatku od pozbawienia ich wartości handlowej przez przedarcie, przedziurkowanie, naniesienie nieusuwalnych i widocznych znaków lub w inny sposób pozwalający na zachowanie przez ten towar charakteru próbek.
 
 **Art. 68.** Zwalnia się od podatku import materiałów drukowanych o charakterze reklamowym, w szczególności katalogi, cenniki, instrukcje obsługi lub ulotki handlowe dotyczące towarów przeznaczonych do sprzedaży lub wynajmu albo związane ze świadczeniem usług przewozowych, handlowych, bankowych lub ubezpieczeniowych, przywożonych przez osobę mającą siedzibę na terytorium państwa trzeciego, jeżeli łącznie są spełnione następujące warunki:
+
+- **1)** na materiałach w sposób widoczny jest umieszczona nazwa przedsiębiorstwa, które produkuje, sprzedaje lub wynajmuje towary albo oferuje usługi, do których one się odnoszą;
+- **2)** przesyłka zawiera jeden dokument albo jeden egzemplarz każdego dokumentu, jeżeli składa się ona z wielu dokumentów;
+- **3)** w przypadku przesyłek zawierających wiele kopii jednego dokumentu ich łączny ciężar brutto nie przekracza 1 kg;
+- **4)** przesyłka nie znajduje się w serii przesyłek przekazywanych przez nadawcę temu samemu odbiorcy.
 
 **Art. 69.** Zwalnia się od podatku import towarów innych niż określone w art. 68 spełniających wyłącznie funkcje reklamowe i nieposiadających wartości handlowej, przesyłanych nieodpłatnie przez dostawcę swoim odbiorcom.
 
@@ -2452,6 +2636,14 @@ Art. 139–145. (pominięte)
 **Art. 72.** Zwalnia się od podatku import znaków, wzorów, szkiców lub projektów oraz towarzyszącej im dokumentacji i wniosków patentowych, przeznaczonych dla instytucji właściwych do spraw ochrony praw autorskich lub patentów.
 
 **Art. 73.** Zwalnia się od podatku import:
+
+- **1)** folderów, broszur, książek, czasopism, przewodników, oprawionych lub nieoprawionych plakatów, nieoprawionych fotografii i powiększeń fotograficznych, ilustrowanych lub nieilustrowanych map geograficznych, ilustrowanych kalendarzy, których głównym celem jest zachęcanie do wyjazdów zagranicznych, w szczególności do uczestnictwa w spotkaniach lub imprezach o charakterze kulturalnym, turystycznym, sportowym, religijnym lub zawodowym, pod warunkiem że towary te:
+    - **a)** są przeznaczone do bezpłatnego rozdania oraz
+    - **b)** nie zawierają więcej niż 25 % powierzchni prywatnej reklamy, oraz
+    - **c)** mają charakter materiałów promocyjnych;
+
+- **2)** wykazów i spisów hoteli zagranicznych wydawanych przez urzędowe instytucje turystyczne lub pod ich patronatem oraz rozkładów jazdy środków transportu działających na terytorium państwa trzeciego, jeżeli dokumenty te nie zawierają więcej niż 25 % powierzchni prywatnej reklamy;
+- **3)** materiałów wysyłanych akredytowanym przedstawicielom lub korespondentom instytucji turystycznych i nieprzeznaczonych do rozdania, a w szczególności roczniki, spisy abonentów telefonicznych lub teleksowych, spisy hoteli, katalogi targowe, próbki wyrobów rzemieślniczych o nieznacznej wartości, dokumentacja na temat muzeów, uniwersytetów, uzdrowisk lub innych podobnych instytucji.
 
 **Art. 74.**
 
@@ -2513,6 +2705,9 @@ Art. 139–145. (pominięte)
 **Art. 78.** Zwalnia się od podatku import towarów przywożonych z terytorium państwa trzeciego przez upoważnione organizacje w celu wykorzystania ich do budowy, utrzymania lub ozdoby cmentarzy, grobów i pomników upamiętniających ofiary wojny pochowane na terytorium kraju.
 
 **Art. 79.** Zwalnia się od podatku import:
+
+- **1)** trumien zawierających zwłoki i urn z prochami zmarłych, jak również kwiatów, wieńców i innych przedmiotów ozdobnych zwykle im towarzyszących;
+- **2)** kwiatów, wieńców i innych przedmiotów ozdobnych przywożonych przez osoby mające miejsce zamieszkania na terytorium państwa trzeciego, udające się na pogrzeby lub przybywające w celu udekorowania grobów znajdujących się na terytorium kraju, jeżeli ich ilość nie wskazuje na przeznaczenie handlowe.
 
 **Art. 80.**
 
@@ -2713,6 +2908,10 @@ Art. 139–145. (pominięte)
 2. Jeżeli podatnik podjął lub wznowił działalność wymienioną w ust. 1, podział sprzedaży może być dokonany przy zastosowaniu do obrotu danego okresu rozliczeniowego procentowych wskaźników podziału udokumentowanych zakupów, dokonanych w okresie rozliczeniowym przed zakończeniem okresu rozliczeniowego, w którym podjęto lub wznowiono działalność.
 
 **Art. 85.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, kwota podatku należnego może być obliczana jako iloczyn wartości dostawy i stawki:
+
+- **1)** 18,03 % – dla towarów i usług objętych stawką podatku 22 %;
+- **2)** 6,54 % – dla towarów i usług objętych stawką podatku 7 %;
+- **3)** 4,76 % – dla towarów i usług objętych stawką podatku 5 %.
 
 ### DZIAŁ IX Odliczenie i zwrot podatku. Odliczanie częściowe
 
@@ -3483,7 +3682,7 @@ Art. 139–145. (pominięte)
 
 3d. Przepisu ust. 1 nie stosuje się do podatnika, o którym mowa w art. 113a ust. 1. <3e. W przypadkach negatywnej weryfikacji danych przez naczelnika urzędu skarbowego dokonanej na podstawie art. 5 ust. 5c pkt 2 albo art. 8c ust. 2b pkt 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, zgłoszenia będącego zgodnie z art. 42b ust. 3 pkt 2 i ust. 8 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841, z 2025 r. poz. 769 i 1541 oraz z 2026 r. poz. ...) integralną częścią wniosku o publikację informacji o spółce cywilnej pozostawia się bez rozpatrzenia. W przypadkach, o których mowa w zdaniu pierwszym, przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie stosuje się.
 
-3f. W przypadku, o którym mowa w ust. 3e, naczelnik urzędu skarbowego przekazuje do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z informacją, o której mowa w art. 5 ust. 5c pkt 2 albo art. 8c ust. 2b pkt 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników w sposób i na zasadach określonych w tych przepisach, informację o pozostawieniu bez rozpatrzenia zgłoszenia rejestracyjnego lub aktualizacyjnego lub o zaprzestaniu wykonywania czynności podlegających opodatkowaniu, o którym mowa w art. 42b ust. 3 pkt 2 i ust. 8 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.>
+3f. W przypadku, o którym mowa w ust. 3e, naczelnik urzędu skarbowego przekazuje do Centralnej Ewidencji i Informacji o Działalności Gospodarczej wraz z informacją, o której mowa w art. 5 ust. 5c pkt 2 albo art. 8c ust. 2b pkt 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników w sposób i na zasadach określonych w tych przepisach, informację o pozostawieniu bez rozpatrzenia zgłoszenia rejestracyjnego lub aktualizacyjnego lub o zaprzestaniu wykonywania czynności podlegających opodatkowaniu, o którym mowa w art. 42b ust. 3 pkt 2 i ust. 8 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
 
 4. Naczelnik urzędu skarbowego, po weryfikacji danych podanych w zgłoszeniu rejestracyjnym, rejestruje podatnika jako:
 
@@ -3606,6 +3805,9 @@ Art. 139–145. (pominięte)
 14. Na wniosek podatnika świadczącego usługi międzynarodowego przewozu drogowego, polegającego na okazjonalnym przewozie osób autobusami zarejestrowanymi na terytorium państwa członkowskiego innym niż terytorium kraju, posiadającego siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego świadczy te usługi, na terytorium państwa członkowskiego innym niż terytorium kraju, a w przypadku braku takiej siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej posiadającego stałe miejsce zamieszkania albo zwykłe miejsce pobytu na terytorium państwa członkowskiego innym niż terytorium kraju, naczelnik urzędu skarbowego jest obowiązany do wydania kopii potwierdzenia zarejestrowania podatnika jako podatnika VAT czynnego w liczbie wskazanej we wniosku.
 
 **Art. 96a.** W przypadku świadczenia usług międzynarodowego przewozu drogowego, polegającego na okazjonalnym przewozie osób autobusami zarejestrowanymi na terytorium państwa członkowskiego innym niż terytorium kraju, przez podatników posiadających siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego świadczą te usługi, na terytorium państwa członkowskiego innym niż terytorium kraju, a w przypadku braku takiej siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej posiadających stałe miejsce zamieszkania albo zwykłe miejsce pobytu na terytorium państwa członkowskiego innym niż terytorium kraju, kierujący pojazdem w trakcie wykonywania tych przewozów na terytorium kraju jest obowiązany do:
+
+- **1)** posiadania potwierdzenia zarejestrowania tego podatnika jako podatnika VAT czynnego lub kopii takiego potwierdzenia, o której mowa w art. 96 ust. 14 – w przypadku obowiązku złożenia przez podatnika zgłoszenia rejestracyjnego, o którym mowa w art. 96 ust. 1, albo
+- **2)** posiadania wydruku potwierdzenia, o którym mowa w art. 134a ust. 4 – w przypadku złożenia przez podatnika zgłoszenia, o którym mowa w art. 134a ust. 1.
 
 **Art. 96b.**
 
@@ -3950,6 +4152,10 @@ Art. 139–145. (pominięte)
 
 **Art. 103a.** W przypadku gdy podatek jest pobierany przez płatnika, o którym mowa w art. 17a, wpłacanie kwot podatku przez podatnika, o którym mowa w art. 103 ust. 5a, może być dokonywane na rachunek VAT płatnika przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3, w którym podatnik wskazuje w miejsce informacji, o których mowa w art. 108a ust. 3:
 
+- **1)** pkt 1 i 2 – kwotę podatku, o której mowa w art. 103 ust. 5a, która ma zostać zapłacona w mechanizmie podzielonej płatności;
+- **2)** pkt 3 – numer dokumentu związanego z płatnością wystawionego przez płatnika, o którym mowa w art. 17a;
+- **3)** pkt 4 – numer, za pomocą którego płatnik jest zidentyfikowany na potrzeby podatku.
+
 **Art. 103b.**
 
 1. W przypadku gdy na podstawie art. 5c rozporządzenia 282/2011 podatnik ułatwiający dostawy towarów, o których mowa w art. 7a ust. 1 i 2, nie jest obowiązany do zapłaty podatku w kwocie przekraczającej kwotę tego podatku, którą zadeklarował i zapłacił, naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego określa podmiotowi dokonującemu dostawy towarów na rzecz tego podatnika kwotę podatku do zapłaty.
@@ -4000,6 +4206,17 @@ Art. 139–145. (pominięte)
 
 **Art. 106a.** Przepisy niniejszego rozdziału stosuje się do:
 
+- **1)** sprzedaży, z wyjątkiem:
+    - **a)** przypadków, o których mowa w art. 17 ust. 1 pkt 4 i 5 oraz ust. 1a, w których usługodawca lub dokonujący dostawy towarów nie rozlicza podatku należnego i faktura dokumentująca te transakcje nie jest wystawiana przez usługobiorcę lub nabywcę towarów w imieniu i na rzecz usługodawcy lub dokonującego dostawy towarów,
+    - **b)** czynności rozliczanych w procedurach szczególnych, o których mowa w dziale XII w rozdziałach 6a, 7 i 9, dla których państwem członkowskim identyfikacji w rozumieniu przepisów tych rozdziałów jest państwo członkowskie inne niż Rzeczpospolita Polska;
+
+- **2)** dostawy towarów i świadczenia usług dokonywanych przez podatnika posiadającego na terytorium kraju siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej, z którego dokonywane są te czynności, a w przypadku braku na terytorium kraju siedziby działalności gospodarczej oraz stałego miejsca prowadzenia działalności gospodarczej – posiadającego na terytorium kraju stałe miejsce zamieszkania albo zwykłe miejsce pobytu, z którego dokonywane są te czynności, w przypadku gdy miejscem świadczenia jest terytorium:
+    - **a)** państwa członkowskiego inne niż terytorium kraju, a osobą zobowiązaną do zapłaty podatku od wartości dodanej jest nabywca towaru lub usługobiorca i faktura dokumentująca te czynności nie jest wystawiana przez tego nabywcę lub usługobiorcę w imieniu i na rzecz podatnika,
+    - **b)** państwa trzeciego;
+
+- **3)** dostawy towarów i świadczenia usług rozliczanych w procedurach szczególnych, o których mowa w dziale XII w rozdziałach 6a i 7, przez podatników zidentyfikowanych na potrzeby tych procedur, dla których państwem członkowskim identyfikacji w rozumieniu przepisów tych rozdziałów jest Rzeczpospolita Polska;
+- **4)** sprzedaży na odległość towarów importowanych, rozliczanej w procedurze szczególnej, o której mowa w dziale XII w rozdziale 9, przez podatników zidentyfikowanych na potrzeby tej procedury, dla których państwem członkowskim identyfikacji w rozumieniu przepisów tego rozdziału jest Rzeczpospolita Polska.
+
 **Art. 106b.**
 
 1. Podatnik jest obowiązany wystawić fakturę dokumentującą:
@@ -4034,9 +4251,14 @@ Art. 139–145. (pominięte)
 
 6. W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 5, organ podatkowy ustala temu podatnikowi dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 100 % kwoty podatku wykazanego na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
 
-7. Przepisów ust. 5 i 6 nie stosuje się do podatników świadczących usługi taksówek osobowych, z wyłączeniem wynajmu samochodów osobowych z kierowcą (PKWiU 49.32.11.0). Art. 106ba. W przypadku gdy faktura jest wystawiana na rzecz podatnika albo osoby prawnej niebędącej podatnikiem, podmioty te są obowiązane do podania numeru, o którym mowa odpowiednio w art. 106e ust. 1 pkt 5, pkt 24 lit. b, pkt 26 albo 27, jeżeli posługują się tym numerem na potrzeby danej czynności.
+7. Przepisów ust. 5 i 6 nie stosuje się do podatników świadczących usługi taksówek osobowych, z wyłączeniem wynajmu samochodów osobowych z kierowcą (PKWiU 49.32.11.0).
+
+**Art. 106ba.** W przypadku gdy faktura jest wystawiana na rzecz podatnika albo osoby prawnej niebędącej podatnikiem, podmioty te są obowiązane do podania numeru, o którym mowa odpowiednio w art. 106e ust. 1 pkt 5, pkt 24 lit. b, pkt 26 albo 27, jeżeli posługują się tym numerem na potrzeby danej czynności.
 
 **Art. 106c.** Faktury dokumentujące dostawę towarów, o której mowa w art. 18, z tytułu której na dłużniku ciąży obowiązek podatkowy, wystawiają w imieniu i na rzecz dłużnika:
+
+- **1)** organy egzekucyjne określone w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji;
+- **2)** komornicy sądowi wykonujący czynności egzekucyjne w rozumieniu przepisów Kodeksu postępowania cywilnego.
 
 **Art. 106d.**
 
@@ -4145,7 +4367,108 @@ Art. 139–145. (pominięte)
 
 4. W przypadku gdy wystawiono więcej niż jedną fakturę dokumentującą otrzymanie części zapłaty, a faktury te obejmują łącznie całą zapłatę, ostatnia z tych faktur powinna zawierać również numery identyfikujące poprzednie faktury w Krajowym Systemie e-Faktur, a w przypadku faktur innych niż faktury ustrukturyzowane – numery poprzednich faktur.
 
-**Art. 106g.** (uchylony) Art. 106ga. 1. Podatnicy są obowiązani wystawiać faktury ustrukturyzowane przy użyciu Krajowego Systemu e-Faktur. 2. Obowiązek, o którym mowa w ust. 1, nie dotyczy wystawiania faktur:
+**Art. 106g.** (uchylony)
+
+**Art. 106ga.**
+
+1. Podatnicy są obowiązani wystawiać faktury ustrukturyzowane przy użyciu Krajowego Systemu e-Faktur.
+
+2. Obowiązek, o którym mowa w ust. 1, nie dotyczy wystawiania faktur:
+
+- **1)** przez podatnika nieposiadającego siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju;
+- **2)** przez podatnika nieposiadającego siedziby działalności gospodarczej na terytorium kraju, który posiada stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju, przy czym to stałe miejsce prowadzenia działalności nie uczestniczy w dostawie towarów lub świadczeniu usług, dla których wystawiono fakturę;
+- **3)** przez podatnika korzystającego z procedur szczególnych, o których mowa w dziale XII w rozdziałach 7, 7a i 9, dokumentujących czynności rozliczane w tych procedurach;
+- **4)** na rzecz nabywcy towarów lub usług będącego osobą fizyczną nieprowadzącą działalności gospodarczej;
+- **5)** w przypadku odpowiednio udokumentowanych dostaw towarów lub świadczenia usług, określonych w przepisach wydanych na podstawie art. 106s;
+- **6)** przez podatnika korzystającego ze zwolnienia, o którym mowa w art. 113a ust. 1.
+
+3. W przypadku, o którym mowa w ust. 2, wystawia się faktury elektroniczne lub faktury w postaci papierowej.
+
+4. W przypadku, o którym mowa w ust. 2 pkt 1, 2 i 4, podatnicy mogą wystawiać faktury ustrukturyzowane.
+
+**Art. 106gb.**
+
+1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+3. Dostęp do faktury ustrukturyzowanej, faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, oraz faktury VAT RR i faktury VAT RR KOREKTA wystawionych przy użyciu Krajowego Systemu e-Faktur, bez konieczności uwierzytelniania, o którym mowa w art. 106nb, jest możliwy za pośrednictwem kodu, o którym mowa w ust. 5, po podaniu danych umożliwiających zidentyfikowanie tej faktury.
+
+4. W przypadku gdy:
+
+- **1)** miejscem świadczenia jest terytorium państwa członkowskiego inne niż terytorium kraju lub terytorium państwa trzeciego lub
+- **2)** nabywcą jest podmiot nieposiadający siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, lub
+- **3)** nabywcą jest podmiot nieposiadający siedziby działalności gospodarczej na terytorium kraju, który posiada stałe miejsce prowadzenia działalności gospodarczej na terytorium kraju, przy czym to stałe miejsce prowadzenia działalności nie uczestniczy w nabyciu towaru lub usługi, dla którego wystawiono fakturę, lub
+- **4)** nabywcą jest podatnik korzystający ze zwolnienia, o którym mowa w art. 113a ust. 1, lub
+- **5)** nabywcą jest podmiot, który nie posługuje się numerem, za pomocą którego jest zidentyfikowany na potrzeby podatku, ani numerem identyfikacji podatkowej, inny niż nabywca, o którym mowa w pkt 1–3 i 6, lub
+- **6)** nabywcą jest osoba fizyczna nieprowadząca działalności gospodarczej – faktura ustrukturyzowana jest udostępniana nabywcy w sposób z nim uzgodniony.
+
+5. Podatnik jest obowiązany do oznaczenia faktury ustrukturyzowanej kodem umożliwiającym dostęp do tej faktury w Krajowym Systemie e-Faktur oraz umożliwiającym weryfikację danych zawartych na tej fakturze, w przypadku:
+
+- **1)** udostępnienia jej nabywcy, o którym mowa w ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, lub
+- **2)** użycia tej faktury poza Krajowym Systemem e-Faktur.
+
+5a. Do oznaczania faktury ustrukturyzowanej kodem, o którym mowa w ust. 5, jest obowiązany również podmiot inny niż podatnik – w przypadku użycia tej faktury poza Krajowym Systemem e-Faktur.
+
+6. W przypadku gdy faktura ustrukturyzowana jest wystawiana na rzecz nabywcy, o którym mowa w ust. 4 pkt 5 i 6, i jest otrzymywana przez tego nabywcę przy użyciu Krajowego Systemu e-Faktur, podatnik jest obowiązany zapewnić temu nabywcy dostęp do tej faktury w Krajowym Systemie e-Faktur poprzez podanie kodu, o którym mowa w ust. 5, oraz danych umożliwiających zidentyfikowanie tej faktury w Krajowym Systemie e-Faktur.
+
+7. Ustrukturyzowaną fakturę elektroniczną, o której mowa w ustawie z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 1666 oraz z 2023 r. poz. 1598), przesłaną przy użyciu platformy w rozumieniu art. 1 pkt 1 tej ustawy lub systemu teleinformatycznego obsługiwanego przez OpenPEPPOL w rozumieniu art. 2 pkt 2 tej ustawy, spełniającą wymagania określone w normie europejskiej, o której mowa w art. 9 ust. 1 tej ustawy, po przesłaniu do Krajowego Systemu e-Faktur i przydzieleniu numeru identyfikującego fakturę w Krajowym Systemie e-Faktur, uznaje się za fakturę ustrukturyzowaną.
+
+8. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej.
+
+**Art. 106gba.**
+
+1. W przypadku gdy faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, dotyczą czynności o złożonej liczbie danych w zakresie jednostek miary i ilości (liczby) dostarczanych towarów lub wykonywanych usług lub cen jednostkowych netto, podatnik może wystawiać i przesyłać do Krajowego Systemu e-Faktur faktury ustrukturyzowane lub faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, z załącznikiem będącym integralną częścią faktury, zawierającym wyłącznie dane, o których mowa w art. 106e ust. 1, lub dane ściśle powiązane z tymi danymi, zwane dalej „fakturami z załącznikiem”.
+
+2. Podatnik składa do Szefa Krajowej Administracji Skarbowej zgłoszenie o zamiarze:
+
+- **1)** wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem;
+- **2)** zaprzestania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem.
+
+3. Zgłoszenie, o którym mowa w ust. 2, składa się wyłącznie za pośrednictwem konta w e-Urzędzie Skarbowym.
+
+4. Do składania zgłoszenia, o którym mowa w ust. 2, jest uprawniony podatnik posiadający konto w e-Urzędzie Skarbowym, na którym został podany aktualny adres poczty elektronicznej lub numer telefonu w celu, o którym mowa w art. 35e ust. 8 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+
+5. Zgłoszenie, o którym mowa w ust. 2 pkt 1, zawiera:
+
+- **1)** dane podatnika;
+- **2)** dane dotyczące sposobu, w jaki podatnik zamierza korzystać z możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem;
+- **3)** oświadczenie o spełnieniu warunków koniecznych do wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem;
+- **4)** oświadczenie o świadomości skutków naruszenia zasad wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem.
+
+6. Zgłoszenie, o którym mowa w ust. 2 pkt 2, zawiera:
+
+- **1)** dane podatnika;
+- **2)** datę, od której podatnik zaprzestaje wystawiania i przesyłania faktur z załącznikiem.
+
+7. Wystawianie i przesyłanie do Krajowego Systemu e-Faktur faktur z załącznikiem jest możliwe po otrzymaniu przez podatnika potwierdzenia możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem.
+
+8. Możliwość wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem jest odbierana:
+
+- **1)** po otrzymaniu przez podatnika powiadomienia od Szefa Krajowej Administracji Skarbowej o odebraniu możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem – w przypadku złożenia zgłoszenia o zamiarze zaprzestania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem albo
+- **2)** w sposób automatyczny – w przypadku zidentyfikowania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem, które zawierają dane inne niż określone w ust. 1 lub są wystawiane i przesyłane niezgodnie z warunkami, o których mowa w ust. 1.
+
+9. Potwierdzenie możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem oraz powiadomienie o odebraniu tej możliwości jest dokonywane w drodze czynności materialno-technicznej przez Szefa Krajowej Administracji Skarbowej.
+
+**Art. 106gc.**
+
+1. W przypadku faktur elektronicznych podatnik dokonujący sprzedaży lub upoważniona przez niego do wystawiania faktur osoba trzecia przesyła je lub udostępnia nabywcy w sposób z nim uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
+
+2. W przypadku faktur elektronicznych nabywca, o którym mowa w art. 106d ust. 1, przesyła je lub udostępnia podatnikowi, który upoważnił go do wystawiania faktur, z uwzględnieniem zasad wynikających z procedury zatwierdzania faktur przez podatnika dokonującego sprzedaży, w sposób z nim uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
+
+3. W przypadku faktur elektronicznych podmiot, o którym mowa w art. 106c, przesyła je lub udostępnia nabywcy i dłużnikowi w sposób z nimi uzgodniony, zachowując je jednocześnie w swojej dokumentacji.
+
+4. W przypadku przesyłania lub udostępniania temu samemu odbiorcy jednocześnie więcej niż jednej faktury elektronicznej dane wspólne dla poszczególnych faktur elektronicznych mogą zostać podane tylko raz, jeżeli dla każdej faktury elektronicznej są dostępne wszystkie te dane.
+
+5. Faktury w postaci papierowej wystawia się co najmniej w dwóch egzemplarzach, z których jeden otrzymuje nabywca, a drugi zachowuje w swojej dokumentacji podatnik dokonujący sprzedaży.
+
+6. W przypadku, o którym mowa w art. 106c, faktury w postaci papierowej wystawia się w trzech egzemplarzach, z których jeden jest wydawany nabywcy, drugi – podmiot wystawiający fakturę pozostawia w swojej dokumentacji, a trzeci – przekazuje dłużnikowi.
+
+**Art. 106gd.**
+
+1. W przypadku wewnątrzwspólnotowej dostawy nowych środków transportu na rzecz nabywcy, o którym mowa w art. 13 ust. 2 pkt 4, podatnik, w terminie 14 dni od dnia dokonania dostawy, przesyła egzemplarz wystawionej faktury lub dane na niej zawarte do wyznaczonej jednostki, o której mowa w art. 97 ust. 17.
+
+2. Przepisu ust. 1 nie stosuje się do faktur ustrukturyzowanych oraz faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, przesłanych do Krajowego Systemu e-Faktur przed upływem terminu 14 dni od dnia dokonania wewnątrzwspólnotowej dostawy nowych środków transportu.
 
 **Art. 106h.**
 
@@ -4270,9 +4593,179 @@ Art. 139–145. (pominięte)
 - **2)** elektronicznej wymiany danych (EDI) zgodnie z umową w sprawie europejskiego modelu wymiany danych elektronicznych, jeżeli zawarta umowa dotycząca tej wymiany przewiduje stosowanie procedur gwarantujących autentyczność pochodzenia faktury i integralność jej danych.
 - **3)** (uchylony)
 
-**Art. 106n.** (uchylony) Art. 106na. 1. Fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur. 2. (uchylony) 3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę. 4. W przypadku udostępnienia faktury ustrukturyzowanej nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, za datę otrzymania tej faktury uznaje się datę jej faktycznego otrzymania przez tego nabywcę. Art. 106nb. Z Krajowego Systemu e-Faktur mogą korzystać:
+**Art. 106n.** (uchylony)
+
+**Art. 106na.**
+
+1. Fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur.
+
+2. (uchylony)
+
+3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę.
+
+4. W przypadku udostępnienia faktury ustrukturyzowanej nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, za datę otrzymania tej faktury uznaje się datę jej faktycznego otrzymania przez tego nabywcę.
+
+**Art. 106nb.** Z Krajowego Systemu e-Faktur mogą korzystać:
+
+- **1)** podatnik,
+- **2)** podmioty wskazane przez podatnika,
+- **3)** podmioty, o których mowa w art. 106c,
+- **4)** osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c,
+- **5)** osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c pkt 1, nadali uprawnienia do korzystania z tego systemu,
+- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3.
+
+**Art. 106nc.** (uchylony)
+
+**Art. 106nd.**
+
+1. Szef Krajowej Administracji Skarbowej prowadzi Krajowy System e-Faktur i jest administratorem danych w nim zawartych.
+
+2. Krajowy System e-Faktur jest systemem teleinformatycznym służącym do:
+
+- **1)** nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur;
+- **2)** powiadamiania podmiotów, o których mowa w art. 106nb, o nadanych uprawnieniach do korzystania z Krajowego Systemu e-Faktur lub ich odebraniu;
+- **3)** uwierzytelnienia oraz weryfikacji uprawnień do korzystania z Krajowego Systemu e-Faktur, posiadanych przez podmioty, o których mowa w art. 106nb;
+- **4)** wystawiania faktur ustrukturyzowanych;
+- **5)** dostępu do faktur ustrukturyzowanych;
+- **6)** otrzymywania faktur ustrukturyzowanych;
+- **7)** przechowywania faktur ustrukturyzowanych;
+- **8)** oznaczania faktur ustrukturyzowanych numerem identyfikującym przydzielonym w Krajowym Systemie e-Faktur;
+- **8a)** przydzielania identyfikatora zbiorczego dla co najmniej dwóch faktur ustrukturyzowanych;
+- **8b)** weryfikacji danych z faktur ustrukturyzowanych używanych poza Krajowym Systemem e-Faktur;
+- **9)** analizy i kontroli prawidłowości danych z faktur ustrukturyzowanych;
+- **10)** powiadamiania podmiotów, o których mowa w art. 106nb, o:
+    - **a)** dacie i czasie wystawienia faktury ustrukturyzowanej oraz numerze identyfikującym fakturę ustrukturyzowaną przydzielonym w Krajowym Systemie e-Faktur oraz dacie i czasie jego przydzielenia,
+    - **b)** dacie i czasie odrzucenia faktury w przypadku jej niezgodności z wzorem, o którym mowa w art. 106gb ust. 8,
+    - **c)** braku możliwości wystawienia faktury ustrukturyzowanej – w przypadku niedostępności lub awarii Krajowego Systemu e-Faktur;
+
+- **11)** powiadamiania podmiotów innych niż określone w art. 106nb o braku uprawnień do korzystania z Krajowego Systemu e-Faktur.
+
+3. Krajowy System e-Faktur służy również do przyjmowania faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, przy czym do tych faktur przepisy ust. 2 pkt 3, 5–9 i pkt 10 lit. a i b stosuje się odpowiednio.
+
+4. Przepis ust. 2 stosuje się odpowiednio do faktur VAT RR i faktur VAT RR KOREKTA wystawionych przy użyciu Krajowego Systemu e-Faktur.
+
+**Art. 106nda.**
+
+1. Podatnik obowiązany do wystawiania faktur ustrukturyzowanych może wystawiać faktury w postaci elektronicznej, zgodnie ze wzorem udostępnionym na podstawie art. 106gb ust. 8.
+
+2. W przypadku gdy podatnik wystawi fakturę w sposób określony w ust. 1, jest obowiązany niezwłocznie, nie później niż w następnym dniu roboczym po dniu jej wystawienia, przesłać tę fakturę do Krajowego Systemu e-Faktur w celu przydzielenia numeru identyfikującego tę fakturę w Krajowym Systemie e-Faktur.
+
+3. Faktura, o której mowa w ust. 1, jest otrzymywana przez nabywcę przy użyciu Krajowego Systemu e-Faktur.
+
+4. Fakturę, o której mowa w ust. 1, wystawioną na rzecz nabywcy, o którym mowa w art. 106gb ust. 4, udostępnia się w sposób z nim uzgodniony.
+
+5. W przypadku gdy faktura, o której mowa w ust. 1, jest wystawiona na rzecz nabywcy, o którym mowa w art. 106gb ust. 4, i udostępniona temu nabywcy przy użyciu Krajowego Systemu e-Faktur, faktura ta jest otrzymywana przez tego nabywcę przy użyciu Krajowego Systemu e-Faktur.
+
+6. W przypadku udostępnienia faktury, o której mowa w ust. 1, nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, podatnik jest obowiązany do oznaczenia tej faktury:
+
+- **1)** kodem, o którym mowa w art. 106gb ust. 5, oraz
+- **2)** kodem umożliwiającym zapewnienie autentyczności pochodzenia i integralności treści tej faktury.
+
+7. Podatnik jest obowiązany pobrać z Krajowego Systemu e-Faktur certyfikat umożliwiający potwierdzenie tożsamości wystawcy przy wystawianiu faktury, o której mowa w ust. 1, i oznaczenie tej faktury kodem, o którym mowa w ust. 6 pkt 2.
+
+8. W przypadku użycia faktury, o której mowa w ust. 1, po przesłaniu jej do Krajowego Systemu e-Faktur, poza Krajowym Systemem e-Faktur, podatnik lub podmiot inny niż podatnik jest obowiązany do oznaczenia tej faktury kodem, o którym mowa w art. 106gb ust. 5.
+
+9. W przypadku gdy faktura, o której mowa w ust. 1, jest wystawiana na rzecz nabywcy, o którym mowa w art. 106gb ust. 4 pkt 5 i 6, i jest otrzymywana przez tego nabywcę przy użyciu Krajowego Systemu e-Faktur, podatnik, po przesłaniu tej faktury do Krajowego Systemu e-Faktur, jest obowiązany zapewnić dostęp do tej faktury w sposób określony w art. 106gb ust. 6.
+
+10. Za datę wystawienia faktury, o której mowa w ust. 1, uznaje się datę, o której mowa w art. 106e ust. 1 pkt 1, wskazaną przez podatnika na tej fakturze.
+
+11. Za datę otrzymania faktury, o której mowa w ust. 1, uznaje się datę przydzielenia numeru identyfikującego tę fakturę w Krajowym Systemie e-Faktur. W przypadku udostępnienia faktury, o której mowa w ust. 1, na rzecz nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, za datę otrzymania tej faktury uznaje się datę faktycznego otrzymania tej faktury przez nabywcę.
+
+12. Fakturę korygującą fakturę, o której mowa w ust. 1, wystawia się po przydzieleniu tej fakturze numeru identyfikującego w Krajowym Systemie e-Faktur.
+
+13. Fakturę korygującą fakturę, o której mowa w ust. 1, wystawia się w postaci faktury ustrukturyzowanej albo faktury, o której mowa w ust. 1.
+
+14. W przypadku gdy faktura, o której mowa w ust. 1, udostępniona nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, ulegnie zniszczeniu albo zaginie przed przesłaniem jej do Krajowego Systemu e-Faktur, podatnik wystawia ponownie fakturę zgodnie z danymi zawartymi na fakturze, przy czym faktura wystawiona ponownie może zawierać datę wystawienia i wyraz „DUPLIKAT”.
+
+15. Do oznaczania faktur, o których mowa w ust. 14, udostępnianych w sposób inny niż przy użyciu Krajowego Systemu e-Faktur przepisy ust. 6 i 7 stosuje się odpowiednio.
+
+16. Za fakturę, o której mowa w ust. 1, uznaje się także fakturę ustrukturyzowaną, jeżeli data jej przesłania do Krajowego Systemu e-Faktur jest późniejsza niż data, o której mowa w art. 106e ust. 1 pkt 1, wskazana na tej fakturze. Przepisy ust. 4, ust. 6 pkt 1, ust. 8–10, 12 i 13 stosuje się odpowiednio.
+
+**Art. 106ne.**
+
+1. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra komunikaty o wystąpieniu i zakończeniu awarii Krajowego Systemu e-Faktur, które wyznaczają okres trwania tej awarii. Komunikaty te są zamieszczane również za pośrednictwem oprogramowania interfejsowego.
+
+2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+3. W przypadku braku możliwości zamieszczenia komunikatów, o których mowa w ust. 1, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, minister właściwy do spraw finansów publicznych zamieszcza w środkach społecznego przekazu komunikat o wystąpieniu awarii Krajowego Systemu e-Faktur. W tym przypadku komunikat o zakończeniu awarii Krajowego Systemu e-Faktur jest zamieszczany w środkach społecznego przekazu. Komunikaty o wystąpieniu i zakończeniu awarii Krajowego Systemu e-Faktur zamieszczone w środkach społecznego przekazu wyznaczają okres trwania tej awarii.
+
+4. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra informację dotyczącą okresu trwania niedostępności Krajowego Systemu e-Faktur.
+
+**Art. 106nf.**
+
+1. W okresie trwania awarii Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 1, podatnik wystawia faktury w postaci elektronicznej zgodnie z wzorem udostępnionym na podstawie art. 106gb ust. 8.
+
+2. Faktury, o których mowa w ust. 1, udostępnia się nabywcy w sposób z nim uzgodniony.
+
+3. W przypadku udostępnienia nabywcy faktury, o której mowa w ust. 1, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, przepisy art. 106nda ust. 6 i 7 stosuje się odpowiednio.
+
+4. W terminie 7 dni roboczych od dnia zakończenia awarii Krajowego Systemu e-Faktur, o której mowa w ust. 1, wskazanego w komunikacie o zakończeniu tej awarii, podatnik jest obowiązany do przesłania do Krajowego Systemu e-Faktur faktur, o których mowa w ust. 1, w celu przydzielenia numerów identyfikujących te faktury w Krajowym Systemie e-Faktur.
+
+5. W przypadku gdy w terminie, o którym mowa w ust. 4, zostanie zamieszczony kolejny komunikat o wystąpieniu awarii, o którym mowa w art. 106ne ust. 1, termin, o którym mowa w ust. 4, liczy się od dnia zakończenia tej kolejnej awarii wskazanego w komunikacie o zakończeniu tej kolejnej awarii.
+
+6. Przepisy ust. 4 i 5 stosuje się odpowiednio do ustrukturyzowanych faktur elektronicznych, o których mowa w ustawie z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym, przesyłanych przy użyciu platformy w rozumieniu art. 1 pkt 1 tej ustawy lub systemu teleinformatycznego obsługiwanego przez OpenPEPPOL w rozumieniu art. 2 pkt 2 tej ustawy.
+
+7. W przypadku gdy w okresie trwania awarii Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 1, albo w terminie, o którym mowa w ust. 4 i 5, został zamieszczony komunikat o wystąpieniu awarii, o którym mowa w art. 106ne ust. 3, przepisów ust. 4–6 nie stosuje się.
+
+8. W przypadku użycia faktury, o której mowa w ust. 1, po przesłaniu jej do Krajowego Systemu e-Faktur, poza Krajowym Systemem e-Faktur, przepis art. 106gb ust. 5 stosuje się odpowiednio.
+
+8a. W przypadku gdy faktura, o której mowa w ust. 1, jest wystawiana na rzecz nabywcy, o którym mowa w art. 106gb ust. 4 pkt 5 i 6, i jest otrzymywana przez tego nabywcę przy użyciu Krajowego Systemu e-Faktur, podatnik, po przesłaniu tej faktury do Krajowego Systemu e-Faktur, jest obowiązany zapewnić dostęp do tej faktury w sposób, o którym mowa w art. 106gb ust. 6.
+
+9. Za datę wystawienia faktury, o której mowa w ust. 1, uznaje się datę, o której mowa w art. 106e ust. 1 pkt 1, wskazaną przez podatnika na tej fakturze.
+
+10. Za datę otrzymania faktury, o której mowa w ust. 1, uznaje się datę jej faktycznego otrzymania przez nabywcę. W przypadku gdy data otrzymania faktury, o której mowa w ust. 1, jest późniejsza niż data przydzielenia numeru identyfikującego tę fakturę w Krajowym Systemie e-Faktur, za datę otrzymania tej faktury przez nabywcę uznaje się datę przydzielenia tego numeru, z tym że w przypadku gdy faktura, o której mowa w ust. 1, została wystawiona na rzecz nabywcy, o którym mowa w art. 106gb ust. 4, który uzgodnił sposób udostępnienia inny niż przy użyciu Krajowego Systemu e-Faktur, za datę otrzymania tej faktury uznaje się datę jej faktycznego otrzymania.
+
+11. Fakturę korygującą fakturę, o której mowa w ust. 1, wystawia się po przydzieleniu tej fakturze numeru identyfikującego w Krajowym Systemie e-Faktur.
+
+12. W przypadku wystawienia w okresie trwania awarii, o której mowa w ust. 1, faktury korygującej do faktury ustrukturyzowanej przepisy ust. 1– 11 stosuje się odpowiednio.
+
+13. W przypadku gdy faktura, o której mowa w ust. 1, ulegnie zniszczeniu albo zaginie, podatnik:
+
+- **1)** na wniosek nabywcy udostępnia ponownie tę fakturę, jeżeli ponowne udostępnienie faktury następuje przed jej przesłaniem do Krajowego Systemu e-Faktur, albo
+- **2)** wystawia ponownie fakturę zgodnie z danymi zawartymi na fakturze będącej w posiadaniu nabywcy, przy czym faktura wystawiona ponownie może zawierać datę wystawienia i wyraz „DUPLIKAT”.
+
+14. Do faktur, o których mowa w ust. 13, przepis ust. 3 stosuje się odpowiednio.
+
+**Art. 106ng.** W przypadku, o którym mowa w art. 106ne ust. 3, podatnik w okresie trwania awarii wystawia faktury w postaci papierowej lub faktury elektroniczne.
+
+**Art. 106nh.**
+
+1. W okresie trwania niedostępności Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 4, podatnik wystawia faktury w postaci elektronicznej zgodnie ze wzorem udostępnionym na podstawie art. 106gb ust. 8.
+
+2. Podatnik jest obowiązany przesłać faktury, o których mowa w ust. 1, do Krajowego Systemu e-Faktur w celu przydzielenia numeru identyfikującego te faktury w Krajowym Systemie e-Faktur nie później niż w następnym dniu roboczym po dniu zakończenia okresu trwania niedostępności Krajowego Systemu e-Faktur, o której mowa w art. 106ne ust. 4.
+
+3. W przypadku gdy w terminie, o którym mowa w ust. 2, zostanie zamieszczony komunikat o wystąpieniu awarii, o którym mowa w:
+
+- **1)** art. 106ne ust. 1 – przepisy art. 106nf ust. 4 i 5 stosuje się odpowiednio;
+- **2)** art. 106ne ust. 3 – przepisu ust. 2 nie stosuje się.
+
+4. Do faktur, o których mowa w ust. 1, przepisy art. 106nda ust. 4–15 stosuje się odpowiednio.
+
+**Art. 106nha.** W przypadku gdy po wystawieniu faktury, o której mowa w art. 106nda ust. 1, a przed jej przesłaniem do Krajowego Systemu e-Faktur, został zamieszczony komunikat o wystąpieniu awarii Krajowego Systemu e-Faktur, o którym mowa w:
+
+- **1)** art. 106ne ust. 1 – przepisy art. 106nf ust. 4, 5, 7–11 i 13 stosuje się odpowiednio;
+- **2)** art. 106ne ust. 3 – podatnik nie przesyła tej faktury do Krajowego Systemu e-Faktur.
+
+**Art. 106ni.** <1. Jeżeli podatnik wbrew obowiązkowi:
+
+- **1)** nie wystawił faktury ustrukturyzowanej przy użyciu Krajowego Systemu e-Faktur,
+- **2)** w okresie trwania awarii, o której mowa w art. 106ne ust. 1 lub 3, albo niedostępności, o której mowa w art. 106ne ust. 4, albo w przypadku, o którym mowa w art. 106nda ust. 1, wystawił fakturę niezgodnie z udostępnionym wzorem,
+- **3)** nie przesłał w wymaganym terminie do Krajowego Systemu e-Faktur faktury, o której mowa w art. 106nda ust. 1, art. 106nf ust. 1 lub art. 106nh ust. 1 – naczelnik urzędu skarbowego nakłada, w drodze decyzji, na podatnika karę pieniężną w wysokości do 100 % kwoty podatku wykazanego na tej fakturze wystawionej poza Krajowym Systemem e-Faktur, a w przypadku faktury bez wykazanego podatku – karę pieniężną w wysokości do 18,7 % kwoty należności ogółem wykazanej na tej fakturze wystawionej poza Krajowym Systemem e-Faktur.
+
+2. Wpływy z kary pieniężnej stanowią dochód budżetu państwa.
+
+3. Karę pieniężną uiszcza się, bez wezwania naczelnika urzędu skarbowego, na rachunek bankowy właściwego urzędu skarbowego w terminie 14 dni od dnia doręczenia decyzji o nałożeniu tej kary.
+
+4. W przypadku niedopełnienia przez podatnika obowiązku, o którym mowa w art. 106ga ust. 1, art. 106nda ust. 2, art. 106nf ust. 4 lub art. 106nh ust. 2, nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe. <5. W zakresie nieuregulowanym do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+
+6. Do postępowania w sprawie nakładania kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej.
+
+7. Do nakładania kary pieniężnej nie stosuje się przepisu art. 21a ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 **Art. 106o.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, przypadki, w których faktury mogą zawierać zakres danych węższy niż określony w art. 106e, oraz zakres tych danych, uwzględniając:
+
+- **1)** konieczność zapewnienia odpowiedniego dokumentowania dostawy towarów lub świadczenia usług i identyfikacji czynności dokonanych przez niektóre kategorie podatników;
+- **2)** niską wartość transakcji lub specyfikę niektórych rodzajów działalności związaną z liczbą lub rodzajem wykonywanych czynności.
 
 **Art. 106p.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, w odniesieniu do niektórych rodzajów towarów lub usług, inny niż określony w art. 31a ust. 1 sposób przeliczania wykazywanych na fakturach kwot w walutach obcych, stosowanych do określenia podstawy opodatkowania, z uwzględnieniem specyfiki rozliczania należności z tytułu dostaw tych towarów lub świadczenia tych usług.
 
@@ -4280,7 +4773,25 @@ Art. 139–145. (pominięte)
 
 **Art. 106r.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur,
+- **2)** sposoby nadawania oraz odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu oraz odebraniu tych uprawnień,
+- **3)** sposoby uwierzytelniania podmiotów korzystających z Krajowego Systemu e-Faktur, w tym sposób potwierdzenia tożsamości wystawcy faktury przy użyciu certyfikatu, o którym mowa w art. 106nda ust. 7, a także wymagania techniczne dla tych sposobów uwierzytelniania,
+- **4)** zakres danych, których podanie umożliwia dostęp w Krajowym Systemie e-Faktur do faktur ustrukturyzowanych, faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, oraz faktur VAT RR i faktur VAT RR KOREKTA wystawionych przy użyciu Krajowego Systemu e-Faktur, bez konieczności uwierzytelniania,
+- **5)** sposób oznaczania faktur ustrukturyzowanych, faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, udostępnianych nabywcy, o którym mowa w art. 106gb ust. 4, w sposób inny niż przy użyciu Krajowego Systemu e-Faktur lub używanych poza Krajowym Systemem e-Faktur, oraz faktur VAT RR i faktur VAT RR KOREKTA wystawionych przy użyciu Krajowego Systemu e-Faktur, używanych poza Krajowym Systemem e-Faktur, umożliwiający dostęp do tych faktur w Krajowym Systemie e-Faktur oraz umożliwiający weryfikację danych zawartych na tych fakturach, a także wymagania techniczne dla tego sposobu oznaczania,
+- **6)** sposób oznaczania faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, udostępnianych nabywcy w sposób inny niż przy użyciu Krajowego Systemu e-Faktur, umożliwiający weryfikację danych z tych faktur oraz umożliwiający zapewnienie autentyczności pochodzenia i integralności treści tych faktur, a także wymagania techniczne dla tego sposobu oznaczania,
+- **7)** szczegółowy zakres danych, jakie powinno zawierać:
+    - **a)** zgłoszenie o zamiarze wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem, w tym treść oświadczenia o spełnieniu warunków koniecznych do wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem oraz oświadczenia o świadomości skutków naruszenia zasad wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem,
+    - **b)** zgłoszenie o zamiarze zaprzestania wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem,
+
+- **8)** szczegółowy sposób postępowania w sprawie potwierdzenia możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem oraz w sprawie odebrania możliwości wystawiania i przesyłania do Krajowego Systemu e-Faktur faktur z załącznikiem,
+- **9)** wymagania techniczne, jakie powinny być spełnione przy wystawianiu i przesyłaniu do Krajowego Systemu e-Faktur faktur z załącznikiem” – uwzględniając konieczność zapewnienia prawidłowości identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, zapewnienia dostępu do faktur ustrukturyzowanych, faktur, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, oraz faktur VAT RR i faktur VAT RR KOREKTA wystawionych przy użyciu Krajowego Systemu e-Faktur, umożliwienia weryfikacji danych z tych faktur i zapewnienia autentyczności pochodzenia i integralności ich treści oraz możliwości zapoznania się z ich treścią, a także zapewnienia podatnikom możliwości wystawiania faktur z załącznikiem.
+
 **Art. 106s.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, przypadki odpowiednio udokumentowanych dostaw towarów lub świadczenia usług, w których nie ma obowiązku wystawiania faktur ustrukturyzowanych, oraz przypadki, w których mimo braku obowiązku można wystawiać faktury ustrukturyzowane, uwzględniając:
+
+- **1)** specyfikę niektórych rodzajów działalności związaną z liczbą i rodzajem czynności wymagających udokumentowania;
+- **2)** konieczność zapewnienia szczególnych sposobów dokumentowania czynności;
+- **3)** możliwości techniczno-organizacyjne związane z dokumentowaniem czynności;
+- **4)** konieczność przeciwdziałania nadużyciom związanym z unikaniem prawidłowego dokumentowania czynności.
 
 **Art. 107.** (uchylony)
 
@@ -4625,6 +5136,18 @@ Art. 139–145. (pominięte)
 
 **Art. 110a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** akceptancie – rozumie się przez to akceptanta, o którym mowa w art. 2 pkt 1b ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **2)** BIC – rozumie się przez to BIC, o którym mowa w art. 2 pkt 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009 (Dz. Urz. UE L 94 z 30.03.2012, str. 22);
+- **3)** dostawcy usług płatniczych – rozumie się przez to dostawcę, o którym mowa w art. 4 ust. 2 pkt 1–6 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **4)** IBAN – rozumie się przez to IBAN, o którym mowa w art. 2 pkt 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009;
+- **5)** odbiorcy płatności – rozumie się przez to odbiorcę, o którym mowa w art. 2 pkt 18 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **6)** państwie członkowskim pochodzenia – rozumie się przez to macierzyste państwo członkowskie, o którym mowa w art. 2 pkt 17 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **7)** płatniku – rozumie się przez to płatnika, o którym mowa w art. 2 pkt 22 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **8)** płatności – rozumie się przez to transakcję płatniczą, o której mowa w art. 2 pkt 29 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, lub usługę przekazu pieniężnego, o której mowa w art. 3 ust. 3 tej ustawy, z wyłączeniem czynności wymienionych w art. 6 tej ustawy;
+- **9)** przyjmującym państwie członkowskim – rozumie się przez to goszczące państwo członkowskie, o którym mowa w art. 2 pkt 6 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **10)** rachunku płatniczym – rozumie się przez to rachunek płatniczy, o którym mowa w art. 2 pkt 25 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+- **11)** usłudze płatniczej – rozumie się przez to działalność, o której mowa w art. 3 ust. 1 pkt 2–6 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
+
 **Art. 110b.**
 
 1. Dostawca usług płatniczych jest obowiązany prowadzić ewidencję odbiorców płatności i płatności transgranicznych w odniesieniu do świadczonych usług płatniczych, w postaci elektronicznej, za każdy kwartał, jeżeli w ciągu kwartału świadczy usługi płatnicze odpowiadające ponad 25 płatnościom transgranicznym na rzecz tego samego odbiorcy płatności.
@@ -4649,9 +5172,25 @@ Art. 139–145. (pominięte)
 
 **Art. 110c.** Ewidencja, o której mowa w art. 110b ust. 1, zawiera:
 
+- **1)** BIC lub inny kod identyfikacyjny, który jednoznacznie identyfikuje dostawcę usług płatniczych;
+- **2)** imię i nazwisko lub nazwę odbiorcy płatności zgodnie z danymi posiadanymi przez dostawcę usług płatniczych;
+- **3)** numer, za pomocą którego odbiorca płatności jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej lub inny numer, za pomocą którego odbiorca płatności jest zidentyfikowany dla celów podatkowych, jeżeli jest dostępny;
+- **4)** IBAN, a jeżeli IBAN nie jest dostępny – inny identyfikator, który jednoznacznie identyfikuje odbiorcę płatności oraz podaje jego lokalizację;
+- **5)** w przypadku gdy odbiorca płatności otrzymuje środki pieniężne nie mając rachunku płatniczego – BIC lub inny kod identyfikacyjny, który jednoznacznie identyfikuje dostawcę usług płatniczych działającego w imieniu odbiorcy płatności oraz podaje jego lokalizację;
+- **6)** adres odbiorcy płatności, jeżeli jest dostępny, zgodnie z danymi posiadanymi przez dostawcę usług płatniczych;
+- **7)** następujące dane dotyczące płatności transgranicznych oraz zwrotów płatności zidentyfikowanych jako odnoszące się do płatności transgranicznych:
+    - **a)** datę i godzinę dokonania płatności lub zwrotu płatności,
+    - **b)** kwotę i walutę płatności lub zwrotu płatności,
+    - **c)** odpowiednio państwo członkowskie pochodzenia płatności otrzymanej przez odbiorcę płatności albo otrzymanej w imieniu odbiorcy płatności albo państwo członkowskie przeznaczenia zwrotu płatności oraz informacje wykorzystane odpowiednio do określenia miejsca pochodzenia, przeznaczenia albo zwrotu płatności, zgodnie z art. 110b ust. 3,
+    - **d)** informacje inne niż wymienione w lit. a–c, które jednoznacznie identyfikują płatność,
+    - **e)** w przypadku gdy płatność jest inicjowana w punkcie handlowo-usługowym akceptanta – informację o fizycznej obecności płatnika przy inicjowaniu tej płatności.
+
 **Art. 110d.** Dostawcy usług płatniczych przechowują ewidencję, o której mowa w art. 110b ust. 1, w postaci elektronicznej, przez okres 3 lat od zakończenia roku podatkowego, w którym nastąpiła płatność.
 
 **Art. 110e.** Ewidencja, o której mowa w art. 110b ust. 1, jest udostępniana przez dostawcę usług płatniczych na zasadach określonych w art. 24b ust. 1 rozporządzenia Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm. ):
+
+- **1)** państwu członkowskiemu pochodzenia dostawcy usług płatniczych, a w przypadku gdy dostawca usług płatniczych świadczy usługi płatnicze w państwie członkowskim innym niż państwo członkowskie pochodzenia – przyjmującemu państwu członkowskiemu;
+- **2)** Szefowi Krajowej Administracji Skarbowej – w przypadku dostawców usług płatniczych, dla których państwem członkowskim pochodzenia lub przyjmującym państwem członkowskim jest Rzeczpospolita Polska.
 
 #### Rozdział 3 Kasy rejestrujące
 
@@ -4839,7 +5378,11 @@ Art. 139–145. (pominięte)
 
 3. Przepisu ust. 2 nie stosuje się, jeżeli faktury są przechowywane poza terytorium kraju w postaci elektronicznej w sposób umożliwiający naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej lub Szefowi Krajowej Administracji Skarbowej, za pomocą środków elektronicznych, dostęp on-line do tych faktur.
 
-4. Podatnicy zapewniają naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej lub Szefowi Krajowej Administracji Skarbowej na żądanie, zgodnie z odrębnymi przepisami, bezzwłoczny dostęp do faktur, o których mowa w ust. 1, a w przypadku faktur przechowywanych w postaci elektronicznej – również bezzwłoczny ich pobór i przetwarzanie danych w nich zawartych. Art. 112aa. 1. Faktury ustrukturyzowane oraz faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, są przechowywane w Krajowym Systemie e-Faktur przez okres 10 lat, licząc od końca roku, w którym zostały wystawione. Przepisów art. 112 i art. 112a nie stosuje się.
+4. Podatnicy zapewniają naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej lub Szefowi Krajowej Administracji Skarbowej na żądanie, zgodnie z odrębnymi przepisami, bezzwłoczny dostęp do faktur, o których mowa w ust. 1, a w przypadku faktur przechowywanych w postaci elektronicznej – również bezzwłoczny ich pobór i przetwarzanie danych w nich zawartych.
+
+**Art. 112aa.**
+
+1. Faktury ustrukturyzowane oraz faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1, po przesłaniu ich do Krajowego Systemu e-Faktur, są przechowywane w Krajowym Systemie e-Faktur przez okres 10 lat, licząc od końca roku, w którym zostały wystawione. Przepisów art. 112 i art. 112a nie stosuje się.
 
 2. Jeżeli okres przechowywania faktur, o którym mowa w ust. 1, upłynie przed upływem terminu przedawnienia zobowiązania podatkowego, podatnik przechowuje faktury, o których mowa w ust. 1, poza Krajowym Systemem e-Faktur do czasu upływu terminu przedawnienia zobowiązania podatkowego. Przepisy art. 112 i art. 112a stosuje się odpowiednio.
 
@@ -4947,9 +5490,7 @@ Art. 139–145. (pominięte)
     - **d)** terenów budowlanych,
     - **e)** nowych środków transportu,
     - **f)** następujących towarów, w związku z zawarciem umowy w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy włącznie: – preparatów kosmetycznych i toaletowych (PKWiU 20.42.1), – komputerów, wyrobów elektronicznych i optycznych (PKWiU 26), – urządzeń elektrycznych (PKWiU 27), – maszyn i urządzeń, gdzie indziej niesklasyfikowanych (PKWiU 28),
-    - **g)** hurtowych i detalicznych części i akcesoriów do: – pojazdów samochodowych, z wyłączeniem motocykli (PKWiU
-
-45. 3), – motocykli (PKWiU ex 45.4);
+    - **g)** hurtowych i detalicznych części i akcesoriów do: – pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.3), – motocykli (PKWiU ex 45.4);
 
 - **2)** świadczących usługi:
     - **a)** prawnicze,
@@ -5095,7 +5636,8 @@ Art. 139–145. (pominięte)
 
 2. Faktura dokumentująca nabycie produktów rolnych powinna być oznaczona jako „Faktura VAT RR” i zawierać co najmniej:
 
-- **1)** imię i nazwisko lub nazwę albo nazwę skróconą dostawcy i nabywcy oraz ich adresy; [2) numer identyfikacji podatkowej lub numer PESEL dostawcy i nabywcy;] <2) numer identyfikacji podatkowej lub numer PESEL dostawcy i nabywcy, a w przypadku faktury VAT RR wystawionej przy użyciu Krajowego Systemu e-Faktur – numery identyfikacji podatkowej dostawcy i nabywcy;>
+- **1)** imię i nazwisko lub nazwę albo nazwę skróconą dostawcy i nabywcy oraz ich adresy;
+- **2)** numer identyfikacji podatkowej lub numer PESEL dostawcy i nabywcy, a w przypadku faktury VAT RR wystawionej przy użyciu Krajowego Systemu e-Faktur – numery identyfikacji podatkowej dostawcy i nabywcy;
 - **3)** (uchylony)
 - **4)** datę dokonania nabycia oraz datę wystawienia i numer kolejny faktury;
 - **5)** nazwy nabytych produktów rolnych;
@@ -5115,7 +5657,7 @@ Art. 139–145. (pominięte)
 
 2c. Kwoty wykazywane na fakturze VAT RR zaokrągla się do pełnych groszy, przy czym końcówki poniżej 0,5 grosza pomija się, a końcówki od 0,5 grosza zaokrągla się do 1 grosza.
 
-2d. W przypadku dokonywania korekty, gdy kwoty należności ogółem wraz z kwotą zryczałtowanego zwrotu podatku lub kwoty zryczałtowanego zwrotu podatku określone w walucie obcej uległy zmianie, przeliczenia na złote tych kwot na fakturze VAT RR KOREKTA dokonuje się według kursu zastosowanego do przeliczenia tych kwot na korygowanej fakturze VAT RR.>
+2d. W przypadku dokonywania korekty, gdy kwoty należności ogółem wraz z kwotą zryczałtowanego zwrotu podatku lub kwoty zryczałtowanego zwrotu podatku określone w walucie obcej uległy zmianie, przeliczenia na złote tych kwot na fakturze VAT RR KOREKTA dokonuje się według kursu zastosowanego do przeliczenia tych kwot na korygowanej fakturze VAT RR.
 
 3. Faktura VAT RR powinna również zawierać oświadczenie dostawcy produktów rolnych w brzmieniu: „Oświadczam, że jestem rolnikiem ryczałtowym zwolnionym od podatku od towarów i usług na podstawie art. 43 ust. 1 pkt 3 ustawy o podatku od towarów i usług.”. [3a. Faktura VAT RR może być, za zgodą dostawcy, wystawiana, podpisywana i przesyłana w formie elektronicznej. W tym przypadku zamiast czytelnymi podpisami lub podpisami osób uprawnionych do wystawienia i otrzymania faktury VAT RR w formie elektronicznej, określonymi w ust. 2 pkt 13, faktura powinna być opatrzona, odpowiednio przez dostawcę i nabywcę, kwalifikowanym podpisem elektronicznym. Przez przekazanie dostawcy oryginału faktury VAT RR rozumie się jej przesłanie w formie elektronicznej.] <3a. Faktura VAT RR i faktura VAT RR KOREKTA mogą być, za zgodą dostawcy, wystawiane, podpisywane i przesyłane w postaci elektronicznej. W tym przypadku zamiast czytelnymi podpisami lub podpisami osób uprawnionych do wystawienia i otrzymania faktury VAT RR i faktury VAT RR KOREKTA w postaci elektronicznej, określonymi w ust. 2 pkt 13 i ust. 5e pkt 4, powinny być one opatrzone, odpowiednio przez dostawcę i nabywcę, kwalifikowanym podpisem elektronicznym. Przez przekazanie dostawcy oryginału faktury VAT RR i oryginału faktury VAT RR KOREKTA rozumie się przesłanie ich w postaci elektronicznej.> <3b. Faktura VAT RR i faktura VAT RR KOREKTA mogą być, za zgodą dostawcy, wystawiane przy użyciu Krajowego Systemu e-Faktur. W takim przypadku przepis art. 106na stosuje się odpowiednio.
 
@@ -5135,7 +5677,7 @@ Art. 139–145. (pominięte)
 
 3j. Obowiązek, o którym mowa w ust. 3i, nie dotyczy wystawiania faktur VAT RR i faktur VAT RR KOREKTA w okresie trwania awarii, o której mowa w art. 106ne ust. 1 albo 3, albo niedostępności, o której mowa w art. 106ne ust. 4.
 
-3k. Do faktur VAT RR i faktur VAT RR KOREKTA, o których mowa w ust. 3b i 3c, przepisy art. 106gb ust. 5 pkt 2 i ust. 5a stosuje się odpowiednio.>
+3k. Do faktur VAT RR i faktur VAT RR KOREKTA, o których mowa w ust. 3b i 3c, przepisy art. 106gb ust. 5 pkt 2 i ust. 5a stosuje się odpowiednio.
 
 4. W przypadku umów kontraktacji lub innych umów o podobnym charakterze oświadczenie, o którym mowa w ust. 3, może być złożone tylko raz w okresie obowiązywania umowy. Oświadczenie to sporządza się jako osobny dokument. Dokument ten powinien zawierać elementy, o których mowa w ust. 2 pkt 1 i 2, oraz datę zawarcia i określenie przedmiotu umowy, datę sporządzenia tego dokumentu oraz czytelny podpis składającego oświadczenie. Dokument sporządza się w dwóch egzemplarzach. Oryginał jest przekazywany nabywcy.
 
@@ -5172,12 +5714,13 @@ Art. 139–145. (pominięte)
 
 - **1)** w przypadku gdy rolnik ryczałtowy odwołał wskazanie danego nabywcy produktów rolnych jako uprawnionego do wystawiania faktur VAT RR i faktur VAT RR KOREKTA w sposób, o którym mowa w ust. 3b lub 3c;
 - **2)** w przypadku rezygnacji ze zwolnienia od podatku określonego w art. 43 ust. 1 pkt 3 lub utraty prawa do tego zwolnienia;
-- **3)** w okresie trwania awarii, o której mowa w art. 106ne ust. 1 albo 3, albo niedostępności, o której mowa w art. 106ne ust. 4.>
+- **3)** w okresie trwania awarii, o której mowa w art. 106ne ust. 1 albo 3, albo niedostępności, o której mowa w art. 106ne ust. 4.
 
 6. Zryczałtowany zwrot podatku zwiększa u nabywcy produktów rolnych kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, w rozliczeniu za okres rozliczeniowy, w którym dokonano zapłaty, pod warunkiem że:
 
 - **1)** nabycie produktów rolnych jest związane z dostawą opodatkowaną;
-- **2)** zapłata należności za produkty rolne, obejmująca również kwotę zryczałtowanego zwrotu podatku, nastąpiła na rachunek bankowy rolnika ryczałtowego lub na jego rachunek w spółdzielczej kasie oszczędnościowokredytowej, której jest członkiem; [3) w dokumencie stwierdzającym dokonanie zapłaty należności za produkty rolne zostaną podane numer i data wystawienia faktury potwierdzającej nabycie tych produktów albo na fakturze potwierdzającej zakup produktów rolnych podano dane identyfikacyjne dokumentu stwierdzającego dokonanie zapłaty.] <3) w dokumencie stwierdzającym dokonanie zapłaty należności za produkty rolne zostaną podane numer i data wystawienia faktury potwierdzającej nabycie tych produktów albo numer identyfikujący taką fakturę w Krajowym Systemie e-Faktur – w przypadku wystawienia faktury w sposób, o którym mowa w ust. 3b lub 3c, albo na fakturze potwierdzającej nabycie produktów rolnych podano dane identyfikacyjne dokumentu stwierdzającego dokonanie zapłaty.> <6a. Jeżeli w wyniku zaistnienia zdarzeń, o których mowa w ust. 5d, uległa obniżeniu kwota zryczałtowanego zwrotu podatku, nabywca produktów rolnych jest obowiązany do odpowiedniego zmniejszenia kwoty podatku naliczonego o kwotę zryczałtowanego zwrotu podatku:
+- **2)** zapłata należności za produkty rolne, obejmująca również kwotę zryczałtowanego zwrotu podatku, nastąpiła na rachunek bankowy rolnika ryczałtowego lub na jego rachunek w spółdzielczej kasie oszczędnościowokredytowej, której jest członkiem;
+- **3)** w dokumencie stwierdzającym dokonanie zapłaty należności za produkty rolne zostaną podane numer i data wystawienia faktury potwierdzającej nabycie tych produktów albo numer identyfikujący taką fakturę w Krajowym Systemie e-Faktur – w przypadku wystawienia faktury w sposób, o którym mowa w ust. 3b lub 3c, albo na fakturze potwierdzającej nabycie produktów rolnych podano dane identyfikacyjne dokumentu stwierdzającego dokonanie zapłaty. <6a. Jeżeli w wyniku zaistnienia zdarzeń, o których mowa w ust. 5d, uległa obniżeniu kwota zryczałtowanego zwrotu podatku, nabywca produktów rolnych jest obowiązany do odpowiedniego zmniejszenia kwoty podatku naliczonego o kwotę zryczałtowanego zwrotu podatku:
 - **1)** w rozliczeniu za okres rozliczeniowy, w którym rolnik ryczałtowy dokonał zwrotu tej kwoty ze swojego rachunku bankowego lub z rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem – w przypadku zwrotu całości lub części tej kwoty przez rolnika ryczałtowego;
 - **2)** w rozliczeniu za okres rozliczeniowy, w którym nabywca produktów rolnych wystawił fakturę VAT RR KOREKTA – w przypadku gdy korekta nie wpływa na zmianę wartości nabytych produktów rolnych wraz z kwotą zryczałtowanego zwrotu podatku.
 
@@ -5185,7 +5728,7 @@ Art. 139–145. (pominięte)
 
 6c. W przypadku, o którym mowa w ust. 6a pkt 1 i ust. 6b, dokumenty stwierdzające dokonanie zwrotu lub zapłaty powinny zawierać numer i datę wystawienia faktury VAT RR KOREKTA. Przepis ust. 7 stosuje się odpowiednio.
 
-6d. W przypadku, o którym mowa w ust. 6a pkt 1, przepisy ust. 8 i 9 stosuje się odpowiednio.>
+6d. W przypadku, o którym mowa w ust. 6a pkt 1, przepisy ust. 8 i 9 stosuje się odpowiednio.
 
 7. Za datę dokonania zapłaty uważa się datę wydania dyspozycji przekazania środków finansowych na rachunek bankowy rolnika ryczałtowego lub na jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, jeżeli dyspozycja ta została zrealizowana.
 
@@ -5206,9 +5749,16 @@ Art. 139–145. (pominięte)
 
 13. W przypadku, o którym mowa w ust. 3b, faktury VAT RR i faktury VAT RR KOREKTA są wystawiane i otrzymywane przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, o którym mowa w art. 106gb ust. 1, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-14. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury potwierdzającej nabycie produktów rolnych faktura VAT RR i faktura VAT RR KOREKTA.>
+14. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury potwierdzającej nabycie produktów rolnych faktura VAT RR i faktura VAT RR KOREKTA.
 
 **Art. 117.** Rolnik ryczałtowy w zakresie prowadzonej działalności rolniczej dostarczający produkty rolne jest zwolniony z obowiązku:
+
+- **1)** wystawiania faktur;
+- **2)** prowadzenia ewidencji dostaw i nabyć towarów i usług;
+- **3)** składania w urzędzie skarbowym deklaracji podatkowej, o której mowa w art. 99 ust. 1;
+- **4)** dokonania zgłoszenia rejestracyjnego, o którym mowa w art. 96.
+
+**Art. 118.** Przepisy art. 115, art. 116 ust. 1–3k i 5–14 oraz art. 117 stosuje się odpowiednio w przypadku wykonywania przez rolnika ryczałtowego usług rolniczych na rzecz podatników podatku, którzy rozliczają ten podatek.
 
 #### Rozdział 3 Szczególne procedury przy świadczeniu usług turystyki
 
@@ -5520,6 +6070,26 @@ Art. 139–145. (pominięte)
 
 **Art. 130a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** VAT – rozumie się przez to podatek i podatek od wartości dodanej;
+- **1a)** usługach – rozumie się przez to usługi świadczone na rzecz osób niebędących podatnikami, o których mowa w art. 28a, których miejscem świadczenia jest terytorium państwa członkowskiego konsumpcji;
+- **2)** podatnikach – rozumie się przez to osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne, które:
+    - **a)** dokonują wewnątrzwspólnotowej sprzedaży towarów na odległość lub
+    - **b)** ułatwiają dostawę towarów zgodnie z art. 7a ust. 2, jeżeli wysyłka lub transport towarów będących przedmiotem dostawy rozpoczyna się i kończy na terytorium tego samego państwa członkowskiego, lub
+    - **c)** posiadają siedzibę działalności gospodarczej lub stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej, ale nie posiadają siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium państwa członkowskiego konsumpcji oraz świadczą usługi na rzecz osób niebędących podatnikami, o których mowa w art. 28a;
+
+- **2a)** państwie członkowskim konsumpcji – rozumie się przez to:
+    - **a)** w przypadku wewnątrzwspólnotowej sprzedaży towarów na odległość – państwo członkowskie zakończenia wysyłki lub transportu towarów do nabywcy,
+    - **b)** w przypadku dostaw towarów dokonanych przez podatnika ułatwiającego takie dostawy zgodnie z art. 7a ust. 2, jeżeli wysyłka lub transport towarów będących przedmiotem takich dostaw rozpoczyna się i kończy na terytorium tego samego państwa członkowskiego – to państwo członkowskie,
+    - **c)** w przypadku świadczenia usług – państwo członkowskie, na terytorium którego ma miejsce świadczenie usług;
+
+- **2b)** państwie członkowskim identyfikacji – rozumie się przez to państwo członkowskie:
+    - **a)** w którym podatnik posiada siedzibę działalności gospodarczej albo
+    - **b)** w którym podatnik posiada stałe miejsce prowadzenia działalności gospodarczej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, albo
+    - **c)** w którym podatnik posiada stałe miejsce prowadzenia działalności gospodarczej, które wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury unijnej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, ale posiada więcej niż jedno stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej, albo
+    - **d)** rozpoczęcia wysyłki lub transportu towarów, a w przypadku większej liczby takich państw członkowskich – państwo członkowskie, które podatnik wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury unijnej, pod warunkiem że nie posiada siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium Unii Europejskiej;
+
+- **3)** procedurze unijnej – rozumie się przez to rozliczenie VAT należnego z tytułu czynności określonych w pkt 2 lit. a–c państwu członkowskiemu konsumpcji za pośrednictwem państwa członkowskiego identyfikacji.
+
 **Art. 130b.**
 
 1. Podatnik może złożyć zgłoszenie informujące o zamiarze skorzystania z procedury unijnej w państwie członkowskim identyfikacji. Procedura unijna ma zastosowanie do wszystkich dostaw towarów lub każdego świadczenia usług objętych tą procedurą, dokonywanych przez podatnika na terytorium Unii Europejskiej.
@@ -5586,7 +6156,11 @@ Art. 139–145. (pominięte)
 
 7. W przypadku gdy płatności z tytułu dostaw towarów lub świadczenia usług dokonywano w innych walutach niż euro, do ich przeliczenia na euro stosuje się kurs wymiany opublikowany przez Europejski Bank Centralny w ostatnim dniu danego okresu rozliczeniowego, a jeżeli nie zostanie opublikowany w tym dniu – kurs wymiany opublikowany następnego dnia.
 
-8. Podatnicy są obowiązani do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego. Przepis ust. 3 stosuje się odpowiednio. Art. 130ca. 1. W przypadku upływu terminu, o którym mowa w art. 61 ust. 2 rozporządzenia 282/2011, oraz w przypadkach, o których mowa w art. 61a ust. 1 rozporządzenia 282/2011, podatnik, dla którego państwem członkowskim konsumpcji jest Rzeczpospolita Polska, składa korektę deklaracji VAT drogą elektroniczną, za pomocą aplikacji informatycznej udostępnionej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, do Łódzkiego Urzędu Skarbowego.
+8. Podatnicy są obowiązani do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego. Przepis ust. 3 stosuje się odpowiednio.
+
+**Art. 130ca.**
+
+1. W przypadku upływu terminu, o którym mowa w art. 61 ust. 2 rozporządzenia 282/2011, oraz w przypadkach, o których mowa w art. 61a ust. 1 rozporządzenia 282/2011, podatnik, dla którego państwem członkowskim konsumpcji jest Rzeczpospolita Polska, składa korektę deklaracji VAT drogą elektroniczną, za pomocą aplikacji informatycznej udostępnionej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, do Łódzkiego Urzędu Skarbowego.
 
 2. Korekta, o której mowa w ust. 1, zawiera:
 
@@ -5615,6 +6189,14 @@ Art. 139–145. (pominięte)
 #### Rozdział 7 Procedura nieunijna dotycząca niektórych usług
 
 **Art. 131.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** VAT – rozumie się przez to podatek i podatek od wartości dodanej;
+- **1a)** usługach – rozumie się przez to usługi świadczone na rzecz osób niebędących podatnikami, o których mowa w art. 28a, których miejscem świadczenia jest terytorium państwa członkowskiego konsumpcji;
+- **2)** podmiotach zagranicznych – rozumie się przez to osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne nieposiadające siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium Unii Europejskiej, wykonujące czynności podlegające opodatkowaniu VAT na terytorium Unii Europejskiej;
+- **3)** (uchylony) 3a) państwie członkowskim konsumpcji – rozumie się przez to państwo członkowskie, na terytorium którego ma miejsce świadczenie usług;
+- **4)** państwie członkowskim identyfikacji – rozumie się przez to państwo członkowskie, które podmiot zagraniczny wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury nieunijnej, jeżeli jego działalność w zakresie świadczenia usług jako podatnika VAT na terytorium Unii Europejskiej zostanie rozpoczęta zgodnie z postanowieniami niniejszego rozdziału;
+- **5)** (uchylony)
+- **6)** procedurze nieunijnej – rozumie się przez to rozliczenie VAT należnego z tytułu świadczenia usług państwu członkowskiemu konsumpcji za pośrednictwem państwa członkowskiego identyfikacji.
 
 **Art. 132.**
 
@@ -5808,6 +6390,17 @@ Art. 139–145. (pominięte)
 
 **Art. 138a.** Ilekroć w niniejszym rozdziale jest mowa o:
 
+- **1)** VAT – rozumie się przez to podatek i podatek od wartości dodanej;
+- **2)** sprzedaży na odległość towarów importowanych – rozumie się przez to sprzedaż na odległość towarów importowanych, z wyjątkiem towarów podlegających opodatkowaniu podatkiem akcyzowym, w przesyłkach o wartości rzeczywistej nieprzekraczającej wyrażonej w złotych kwoty odpowiadającej równowartości 150 euro;
+- **3)** podatniku niemającym siedziby na terytorium Unii Europejskiej – rozumie się przez to podatnika, który nie posiada siedziby działalności gospodarczej ani stałego miejsca prowadzenia działalności gospodarczej na terytorium Unii Europejskiej;
+- **4)** państwie członkowskim konsumpcji – rozumie się przez to państwo członkowskie zakończenia wysyłki lub transportu towarów do nabywcy;
+- **5)** państwie członkowskim identyfikacji – rozumie się przez to państwo członkowskie:
+    - **a)** które podatnik niemający siedziby na terytorium Unii Europejskiej wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury importu,
+    - **b)** w którym podatnik posiada: – siedzibę działalności gospodarczej albo – stałe miejsce prowadzenia działalności gospodarczej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, albo – stałe miejsce prowadzenia działalności gospodarczej, które wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury importu, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, ale posiada więcej niż jedno stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej,
+    - **c)** w którym pośrednik posiada: – siedzibę działalności gospodarczej albo – stałe miejsce prowadzenia działalności gospodarczej, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, albo – stałe miejsce prowadzenia działalności gospodarczej, które wybiera w celu złożenia zgłoszenia informującego o zamiarze skorzystania z procedury importu, jeżeli nie posiada siedziby działalności gospodarczej na terytorium Unii Europejskiej, ale posiada więcej niż jedno stałe miejsce prowadzenia działalności gospodarczej na terytorium Unii Europejskiej;
+
+- **6)** procedurze importu – rozumie się przez to rozliczenie VAT należnego z tytułu sprzedaży na odległość towarów importowanych państwu członkowskiemu konsumpcji, za pośrednictwem państwa członkowskiego identyfikacji.
+
 **Art. 138b.**
 
 1. Z procedury importu może korzystać dokonujący sprzedaży na odległość towarów importowanych:
@@ -5948,7 +6541,11 @@ Art. 139–145. (pominięte)
 
 7. W przypadku gdy płatności z tytułu sprzedaży na odległość towarów importowanych dokonywano w innych walutach niż euro, do ich przeliczenia na euro stosuje się kurs wymiany opublikowany przez Europejski Bank Centralny w ostatnim dniu danego okresu rozliczeniowego, a jeżeli nie zostanie opublikowany w tym dniu – kurs wymiany opublikowany następnego dnia.
 
-8. Podatnik, a w przypadku podatnika reprezentowanego przez pośrednika – pośrednik, jest obowiązany do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego. Przepis ust. 3 stosuje się odpowiednio. Art. 138ga. 1. W przypadkach:
+8. Podatnik, a w przypadku podatnika reprezentowanego przez pośrednika – pośrednik, jest obowiązany do wpłacania kwot VAT w euro, wskazując deklarację VAT, której dotyczy wpłata, w terminie, o którym mowa w ust. 2, na rachunek bankowy właściwego urzędu skarbowego. Przepis ust. 3 stosuje się odpowiednio.
+
+**Art. 138ga.**
+
+1. W przypadkach:
 
 - **1)** upływu terminu, o którym mowa w art. 61 ust. 2 rozporządzenia 282/2011, oraz w przypadkach, o których mowa w art. 61a ust. 1 rozporządzenia 282/2011, podatnik, dla którego państwem członkowskim konsumpcji jest Rzeczpospolita Polska, a w przypadku podatnika reprezentowanego przez pośrednika – pośrednik,
 - **2)** o których mowa w art. 61a ust. 2 rozporządzenia 282/2011, pośrednik w odniesieniu do podatników, dla których państwem członkowskim konsumpcji jest Rzeczpospolita Polska, reprezentowanych przez tego pośrednika – składa korektę deklaracji VAT drogą elektroniczną, za pomocą aplikacji informatycznej udostępnionej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, do Łódzkiego Urzędu Skarbowego.
@@ -6045,6 +6642,8 @@ Art. 139–145. (pominięte)
 ### DZIAŁ XIII Zmiany w przepisach obowiązujących, przepisy epizodyczne, przepisy przejściowe i końcowe
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
+
+**Art. 139–145.** (pominięte)
 
 #### Rozdział 1a Przepisy epizodyczne dotyczące kas rejestrujących z elektronicznym lub papierowym zapisem kopii
 
@@ -6149,6 +6748,9 @@ Art. 139–145. (pominięte)
 
 **Art. 145c.** Do wyrobów medycznych, o których mowa w poz. 13 załącznika nr 3 do ustawy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974), stawkę podatku, o której mowa w art. 41 ust. 2, stosuje się, jeżeli zgodnie z:
 
+- **1)** art. 120 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ) albo
+- **2)** art. 110 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ) – wyroby te zostały wprowadzone do obrotu i są w dalszym ciągu udostępniane na rynku lub wprowadzane do używania.
+
 **Art. 145d.** Do usług napraw i konserwacji wyrobów medycznych, o których mowa w art. 145c, stosuje się stawkę podatku, o której mowa w art. 41 ust. 2.
 
 #### Rozdział 1c Czasowe odwrotne obciążenie podatkiem gazu w systemie gazowym, energii elektrycznej w systemie elektroenergetycznym i usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych
@@ -6183,6 +6785,9 @@ Art. 139–145. (pominięte)
 
 **Art. 145g.** Faktura dokumentująca dokonanie czynności, o których mowa w art. 145e ust. 1:
 
+- **1)** nie zawiera danych określonych w art. 106e ust. 1 pkt 12–14;
+- **2)** zawiera wyrazy, o których mowa w art. 106e ust. 1 pkt 18.
+
 **Art. 145h.** W przypadku świadczenia usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych zgodnie z art. 145e ust. 1, nie stosuje się przepisu art. 108a ust. 1a.
 
 **Art. 145i.**
@@ -6206,7 +6811,11 @@ Art. 139–145. (pominięte)
 
 1. Kto wbrew obowiązkowi nie składa zawiadomienia, o którym mowa w art. 145i ust. 1, albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym, podlega karze grzywny za wykroczenie skarbowe.
 
-2. Karze określonej w ust. 1 podlega także ten, kto wbrew obowiązkowi nie składa zawiadomienia o zmianie danych zawartych w zawiadomieniu, o którym mowa w art. 145i ust. 1, albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym. <Rozdział 1ca Przepisy epizodyczne dotyczące systemu kaucyjnego Art. 145ka. 1. Wprowadzający produkty w opakowaniach na napoje, będący podatnikiem, o którym mowa w art. 99 ust. 1, obowiązanym na dzień 31 grudnia 2025 r. do podwyższenia podstawy opodatkowania zgodnie z art. 29a ust. 12c, dokonuje tego podwyższenia w deklaracji podatkowej składanej za luty 2026 r.
+2. Karze określonej w ust. 1 podlega także ten, kto wbrew obowiązkowi nie składa zawiadomienia o zmianie danych zawartych w zawiadomieniu, o którym mowa w art. 145i ust. 1, albo składa je po terminie lub podaje w nim dane niezgodne ze stanem rzeczywistym. <Rozdział 1ca Przepisy epizodyczne dotyczące systemu kaucyjnego
+
+**Art. 145ka.**
+
+1. Wprowadzający produkty w opakowaniach na napoje, będący podatnikiem, o którym mowa w art. 99 ust. 1, obowiązanym na dzień 31 grudnia 2025 r. do podwyższenia podstawy opodatkowania zgodnie z art. 29a ust. 12c, dokonuje tego podwyższenia w deklaracji podatkowej składanej za luty 2026 r.
 
 2. Płatnik, o którym mowa w art. 17b, jest obowiązany do obliczenia i wpłacenia kwoty podatku za rok 2025 w terminie do dnia 28 lutego 2026 r.
 
@@ -6270,7 +6879,33 @@ Art. 139–145. (pominięte)
 
 **Art. 146a.** W okresie od dnia 1 stycznia 2011 r. do dnia 31 grudnia 2018 r., z zastrzeżeniem art. 146f:
 
+- **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2 i art. 110, wynosi 23 %;
+- **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz w tytule załącznika nr 3 do ustawy, wynosi 8 %;
+- **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7 %;
+- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4 %.
+
+**Art. 146aa.**
+
+1. W okresie od dnia 1 stycznia 2019 r. do końca roku następującego po roku, dla którego wartość relacji, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, jest nie większa niż 43 % oraz wartość, o której mowa w art. 112aa ust. 5 tej ustawy, jest nie mniejsza niż 6 %:
+
+- **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23 %;
+- **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz tytule załącznika nr 3 do ustawy, wynosi 8 %;
+- **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7 %;
+- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4 %.
+
+1a. Jeżeli w roku następującym po roku, dla którego osiągnięte zostały wartości, o których mowa w ust. 1, zostaną spełnione warunki, o których mowa w art. 112d ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, stosowanie stawek, o których mowa w ust. 1, przedłuża się do końca roku następującego po roku, w którym:
+
+- **1)** kwota wydatków jest obliczana zgodnie z art. 112aa ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych w związku ze spełnieniem warunków, o których mowa w art. 112d ust. 4 tej ustawy, oraz
+- **2)** wartość relacji, o której mowa w art. 38a pkt 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, jest nie większa niż 43 % oraz wartość, o której mowa w art. 112aa ust. 5 tej ustawy, jest nie mniejsza niż -6 % – jednak nie dłużej niż do końca 2022 r.
+
+2. (uchylony)
+
+3. (uchylony)
+
 **Art. 146b.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w okresie, o którym mowa w art. 146aa, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+
+- **1)** 18,70 % – dla towarów i usług objętych stawką podatku 23 %;
+- **2)** 7,41 % – dla towarów i usług objętych stawką podatku 8 %.
 
 **Art. 146c.** W okresie, o którym mowa w art. 146aa, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23 % kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
 
@@ -6285,7 +6920,12 @@ Art. 139–145. (pominięte)
 
 - **1)** specyfikę obrotu niektórymi towarami i świadczenia niektórych usług;
 - **2)** przebieg realizacji budżetu państwa;
-- **3)** przepisy Unii Europejskiej. Art. 146da. 1. W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
+- **3)** przepisy Unii Europejskiej.
+
+**Art. 146da.**
+
+1. W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
+
 - **1)** towarów spożywczych wymienionych w poz. 1–18 załącznika nr 10 do ustawy, innych niż klasyfikowane według Polskiej Klasyfikacji Wyrobów i Usług w grupowaniu usługi związane z wyżywieniem (PKWiU 56),
 - **2)** środków poprawiających właściwości gleby, stymulatorów wzrostu oraz podłoży do upraw, o których mowa w ustawie z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. z 2021 r. poz. 76 oraz z 2022 r. poz. 1370 i
 - **2364)** , z wyłączeniem podłoży mineralnych,
@@ -6293,17 +6933,76 @@ Art. 139–145. (pominięte)
 - **4)** ziemi ogrodniczej wymienionej w poz. 12 załącznika nr 3 do ustawy,
 - **5)** gazu ziemnego (CN 2711 11 00 albo 2711 21 00) – stawka podatku wynosi 0 %.
 
-2. Przepisów ust. 1 pkt 1–4 nie stosuje się do importu towarów, o którym mowa w art. 138i ust. 1. Art. 146db. W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
+2. Przepisów ust. 1 pkt 1–4 nie stosuje się do importu towarów, o którym mowa w art. 138i ust. 1.
+
+**Art. 146db.** W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
 
 - **1)** energii elektrycznej (CN 2716 00 00),
-- **2)** energii cieplnej – stawka podatku wynosi 5 %. Art. 146dc. W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
+- **2)** energii cieplnej – stawka podatku wynosi 5 %.
+
+**Art. 146dc.** W okresie od dnia 1 lutego 2022 r. do dnia 31 grudnia 2022 r. dla:
+
 - **1)** benzyn silnikowych (CN 2710 12 45 lub 2710 12 49) oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach,
 - **2)** olejów napędowych (CN 2710 19 43 i 2710 20 11) oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach,
 - **3)** biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych – bez względu na kod CN,
 - **4)** przeznaczonych do napędu silników spalinowych gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych (CN 2711, z wyłączeniem CN 2711 11 00 i 2711 21 00) oraz gazowych węglowodorów alifatycznych (CN
 - **2901)** , skroplonych – stawka podatku wynosi 8 %.
 
-**Art. 146e.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8 %, stosowanej do tych towarów zgodnie z art. 146aa. Art. 146ea. W roku 2023:
+**Art. 146e.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8 %, stosowanej do tych towarów zgodnie z art. 146aa.
+
+**Art. 146ea.** W roku 2023:
+
+- **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110 i art. 138i ust. 4, wynosi 23 %;
+- **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz tytule załącznika nr 3, wynosi 8 %;
+- **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7 %;
+- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4 %.
+
+**Art. 146eb.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w roku 2023 kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+
+- **1)** 18,70 % – dla towarów i usług objętych stawką podatku 23 %;
+- **2)** 7,41 % – dla towarów i usług objętych stawką podatku 8 %.
+
+**Art. 146ec.** W roku 2023, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23 % kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
+
+**Art. 146ed.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8 %, stosowanej do tych towarów zgodnie z art. 146ea.
+
+**Art. 146ee.**
+
+1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w roku 2023 może obniżać stawki podatku do wysokości 0 %, 5 % lub 8 % dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
+
+2. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzenia, o którym mowa w ust. 1, uwzględnia:
+
+- **1)** specyfikę obrotu niektórymi towarami i świadczenia niektórych usług;
+- **2)** przebieg realizacji budżetu państwa.
+
+**Art. 146ef.**
+
+1. W okresie od dnia 1 stycznia 2024 r. do końca roku, w którym suma wydatków wymienionych w art. 40 ust. 1 pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) określonych na ten rok w ustawie budżetowej, w brzmieniu obowiązującym na dzień 31 lipca tego roku, oraz planie finansowym Funduszu Wsparcia Sił Zbrojnych przedłożonym zgodnie z art. 42 ust. 4 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny albo projekcie tego planu przedstawionym do zatwierdzenia Ministrowi Obrony Narodowej zgodnie z art. 42 ust. 2 i 3 tej ustawy, jeżeli plan ten nie został przedłożony zgodnie z art. 42 ust. 4 tej ustawy, po wyłączeniu planowanych przepływów finansowych w ramach tej sumy wydatków, jest wyższa niż 3 % wartości produktu krajowego brutto określonego zgodnie z art. 40 ust. 2 tej ustawy:
+
+- **1)** stawka podatku, o której mowa w art. 41 ust. 1 i 13, art. 109 ust. 2, art. 110, art. 120 ust. 3a i art. 138i ust. 4, wynosi 23 %;
+- **2)** stawka podatku, o której mowa w art. 41 ust. 2, art. 120 ust. 2 i 3 oraz tytule załącznika nr 3 do ustawy, wynosi 8 %;
+- **3)** stawka zryczałtowanego zwrotu podatku, o której mowa w art. 115 ust. 2, wynosi 7 %;
+- **4)** stawka ryczałtu, o której mowa w art. 114 ust. 1, wynosi 4 %.
+
+2. Minister właściwy do spraw finansów publicznych ogłosi, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, koniec okresu obowiązywania stawek podatku, o których mowa w ust. 1, w terminie do dnia 31 października roku, dla którego zostały spełnione warunki określone w ust. 1.
+
+**Art. 146eg.** W przypadku świadczenia przez podatnika usług, w tym w zakresie handlu i gastronomii, w okresie, o którym mowa w art. 146ef, kwota podatku należnego, na potrzeby art. 85, jest obliczana jako iloczyn wartości dostawy i stawki:
+
+- **1)** 18,70 % – dla towarów i usług objętych stawką podatku 23 %;
+- **2)** 7,41 % – dla towarów i usług objętych stawką podatku 8 %.
+
+**Art. 146eh.** W okresie, o którym mowa w art. 146ef, na potrzeby art. 86 ust. 2 pkt 7, kwotą podatku naliczonego jest kwota stanowiąca równowartość 23 % kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
+
+**Art. 146ei.** Przepis art. 120 ust. 11 pkt 1 stosuje się odpowiednio do dostawy dzieł sztuki, które nie podlegały opodatkowaniu podatkiem według stawki 8 %, stosowanej do tych towarów zgodnie z art. 146ef.
+
+**Art. 146ej.**
+
+1. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, w okresie, o którym mowa w art. 146ef, może obniżać stawki podatku do wysokości 0 %, 5 % lub 8 % dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek.
+
+2. Minister właściwy do spraw finansów publicznych przy wydawaniu rozporządzenia, o którym mowa w ust. 1, uwzględnia:
+
+- **1)** specyfikę obrotu niektórymi towarami i świadczenia niektórych usług;
+- **2)** przebieg realizacji budżetu państwa.
 
 **Art. 146f.**
 
@@ -6349,7 +7048,19 @@ Art. 139–145. (pominięte)
 
 **Art. 146h.** Na potrzeby art. 86 ust. 2 pkt 7 kwotą podatku naliczonego jest kwota stanowiąca równowartość:
 
+- **1)** 23 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **2)** 24 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **3)** 25 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2 – kwoty należnej z tytułu dostawy nowego środka transportu, nie wyższa jednak niż kwota podatku zawartego w fakturze stwierdzającej nabycie tego środka lub dokumencie celnym, albo podatku zapłaconego przez podatnika od wewnątrzwspólnotowego nabycia tego środka.
+
 **Art. 146i.** Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może obniżać stawki podatku dla dostaw niektórych towarów i świadczenia niektórych usług albo dla części tych dostaw lub części świadczenia usług oraz określać warunki stosowania obniżonych stawek, do wysokości:
+
+- **1)** 0 %, w przypadkach i okresach, o których mowa w art. 146f,
+- **2)** 5 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **3)** 6 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **4)** 7 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2,
+- **5)** 8 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 3 albo ust. 2 pkt 3,
+- **6)** 9 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 1 albo ust. 2 pkt 1,
+- **7)** 10 %, w przypadkach i okresach, o których mowa w art. 146f ust. 1 pkt 2 albo ust. 2 pkt 2 – uwzględniając specyfikę obrotu niektórymi towarami i świadczenia niektórych usług, przebieg realizacji budżetu państwa oraz przepisy Unii Europejskiej.
 
 **Art. 146j.** Przepis art. 120 ust. 11 pkt 3 stosuje się odpowiednio do dostawy dzieł sztuki, które podlegały opodatkowaniu podatkiem według stawki 8 %, 9 % lub 10 % stosowanej do tych towarów zgodnie z art. 146f.
 
@@ -6438,6 +7149,9 @@ Art. 139–145. (pominięte)
 3. Osoba prawna, której zakłady (oddziały) rozliczały się jako odrębni podatnicy, wstępuje z dniem 1 maja 2004 r. we wszystkie przewidziane w przepisach prawa podatkowego prawa i obowiązki swojego zakładu (oddziału), który przestał być wyodrębnionym podatnikiem – w zakresie, w jakim dotyczą podatku od towarów i usług.
 
 **Art. 161.** W przypadku podatników rozliczających się za okresy kwartalne, zgodnie z art. 10 ustawy, o której mowa w art. 175, oraz z art. 99:
+
+- **1)** pierwszy okres rozliczeniowy w 2004 r. obejmuje okres od stycznia do kwietnia 2004 r.;
+- **2)** drugi okres rozliczeniowy w 2004 r. obejmuje okres od maja do czerwca 2004 r.
 
 **Art. 162.**
 
@@ -6531,6 +7245,18 @@ Art. 139–145. (pominięte)
 **Art. 175.** Z dniem 1 maja 2004 r. traci moc ustawa z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. poz. 50, z późn. zm. ), z wyłączeniem art. 9, który traci moc z dniem, o którym mowa w art. 176 pkt 2.
 
 **Art. 176.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z tym że:
+
+- **1)** art. 23 ust. 5, 6 i 17, art. 24 ust. 4 i 5, art. 114 ust. 1 i art. 159 stosuje się od dnia ogłoszenia ustawy;
+- **2)** art. 96–98, art. 157 i art. 158 stosuje się po upływie 7 dni od dnia ogłoszenia ustawy;
+- **3)** art. 1–14, art. 15 ust. 1–6, art. 16–22, art. 23 ust. 1–4 i ust. 7–16, art. 24 ust. 1– 3 i ust. 6–12, art. 25–40, art. 41 ust. 1–11 i 13–16, art. 42–95, art. 99–113, art. 114 ust. 2–5, art. 115–146, art. 148–151, art. 153, art. 156 i art. 162–171 stosuje się od dnia 1 maja 2004 r.;
+- **4)** art. 41 ust. 12 stosuje się od dnia 1 stycznia 2008 r.
+
+## Załączniki do ustawy z dnia 11 marca 2004 r.
+
+(Dz. U. z 2025 r. poz. 775) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3
+1) Wykaz nie ma zastosowania do towarów i usług zwolnionych od podatku lub opodatkowanych stawkami niższymi niż stawka, której dotyczy załącznik.
+2) Usługi transportu pasażerskiego obejmują przewóz osób oraz ich podręcznego bagażu, również zwierzęcia, za który nie jest pobierana dodatkowa opłata;
+przewożony pojazd podróżnego nie jest traktowany jako podręczny bagaż.
 
 ## Załącznik nr 4 — (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6
 

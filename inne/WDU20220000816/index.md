@@ -35,7 +35,9 @@ zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wyso
 Minister Spraw Wewnętrznych i Administracji: M. Kamiński Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust.
 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636, z 2020 r. poz. 599 i 1988 oraz z 2022 r. poz. 106, 336 i 580.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 kwietnia 2022 r. (poz. …) Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 kwietnia 2022 Załącznik r. (poz. 816) nr 1 Załącznik nr TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW TABELA ZASZEREGOWANIA DO POSZCZEGÓLNYCH STANOWISK GRUP ORAZ SŁUŻBOWYCH ODPOWIADAJĄCYCH POLICJANTÓW IM DO POLICYJNYCH POSZCZEGÓLNYCH GRUP ORAZ ODPOWIADAJĄCYCH STOPNI IM ETATOWYCH POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 kwietnia 2022 r. (poz. …) Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 7 kwietnia 2022 Załącznik r. (poz. 816) nr 1 Załącznik nr TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW TABELA ZASZEREGOWANIA DO POSZCZEGÓLNYCH STANOWISK GRUP ORAZ SŁUŻBOWYCH ODPOWIADAJĄCYCH POLICJANTÓW IM DO POLICYJNYCH POSZCZEGÓLNYCH GRUP ORAZ ODPOWIADAJĄCYCH STOPNI IM ETATOWYCH POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
+
 1) KGP – Komendę Główną Policji,
 2) CBŚP – Centralne Biuro Śledcze Policji,
 3) CBZC – Centralne Biuro Zwalczania Cyberprzestępczości,

@@ -5959,6 +5959,7 @@ source: pdf
 
 - **1)** art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca 1998 r.;
 - **2)** art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.;
-- **3)** art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie z dniem 1 lipca 1999 r. Załączniki do ustawy z dnia 20 czerwca (Dz. U. z 2024 r. poz. 1251)
+- **3)** art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie z dniem 1 lipca 1999 r.
 
+## Załączniki do ustawy z dnia 20 czerwca (Dz. U. z 2024 r. poz. 1251)
 

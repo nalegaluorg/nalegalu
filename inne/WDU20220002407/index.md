@@ -89,7 +89,21 @@ b) oznaczenie formy prawnej właściciela tych zapasów.
 2) wykreślenie z rejestru określa załącznik nr 2 do rozporządzenia.
 § 12. Informacje, o których mowa w art. 8 ust. 5, art. 22 i art. 38 ust. 1 ustawy, są przekazywane Prezesowi Rządowej Agencji Rezerw Strategicznych w formie pisemnej w postaci papierowej lub w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
 § 13. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Energii Dziennik Ustaw – 5 – z dnia 15 maja 2019 r. (Dz. U. z 2022 r. poz. Poz. ….) 2407 Załącznik nr 1 WZÓR WZÓR ………………………..
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Szczegółowa zawartość i sposób prowadzenia rejestru
+
+#### Rozdział 3 Dokumenty będące podstawą dokonania wpisu do rejestru, zmiany tego wpisu lub wykreślenia z rejestru
+
+#### Rozdział 4 Wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru
+
+#### Rozdział 5 Sposób przekazywania informacji
+
+#### Rozdział 6 Przepis końcowy
+
+## Załącznik nr 1 — WZÓR WZÓR ………………………..
+
 (miejscowość, data) WNIOSEK o dokonanie wpisu do rejestru systemu zapasów interwencyjnych
 1. Firma producenta lub handlowca: ………………………………………………………… ……………………………………………………………………………………………..
 2. Forma prawna producenta lub handlowca: …...…………………………………………..
@@ -154,16 +168,4 @@ Załączniki : ………………………………………………………�
 (podpis osoby lub osób uprawnionych do złożenia wniosku ) Dokumenty, o których mowa w § 10 ust. 1 i 2 rozporządzenia Ministra Energii z dnia 15 maja 2019 r.
 w sprawie rejestru systemu zapasów interwencyjnych.
 W przypadku wniosku przekazywanego drogą elektroniczną kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Szczegółowa zawartość i sposób prowadzenia rejestru
-
-#### Rozdział 3 Dokumenty będące podstawą dokonania wpisu do rejestru, zmiany tego wpisu lub wykreślenia z rejestru
-
-#### Rozdział 4 Wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru
-
-#### Rozdział 5 Sposób przekazywania informacji
-
-#### Rozdział 6 Przepis końcowy
 

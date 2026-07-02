@@ -80,7 +80,8 @@ w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nad
 4. Wzór rejestru czynności prowadzonego przez prokuratorów okręgowych w postaci papierowej stanowi załącznik nr 6 do rozporządzenia.
 § 11. Traci moc zarządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 lipca 1997 r. w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nadzorowania przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (M.P. poz. 464).
 § 12. Rozporządzenie wchodzi w życie z dniem 19 marca 2002 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ZAWIADOMIENIA ZAWIADOMIENIA ORGANÓW ORGANÓW I INSTYTUCJI IINSTYTUCJIPUBLICZNYCH PUBLICZNYCH ORAZ PRZEDSIĘBIORCÓW ORAZ PRZEDSIĘBIORCÓW O POTRZEBIE WYKONANIA O POTRZEBIEWYKONANIA OBOWIĄZKU, O KTÓRYM OBOWIĄZKU, MOWA W ART. 19B O KTÓRYMMOWA UST. 4 USTAWY W ART. 19B UST. 4 Z USTAWY DNIA 6 KWIETNIA Z DNIA 1990 6 KWIETNIA R. O POLICJI 1990 R. OPOLICJI __________________ klauzula tajności ____________________________ miejscowość, data _________________________________ pieczęć jednostki Policji nr rej. dokumentu Egz. pojedynczy _____________________________________________________ _____________________________________________________ ZAWIADOMIENIE NR_______________________ na podstawie art. 19b ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360, z późn. zm.) zaświadczam, że zarządziłem/łam niejawne nadzorowanie wytwarzania , przemieszczania , przechowywania , obrotu przedmiotami przestępstwa. W związku z tym, na mocy art. 19b ust. 4 wymienionej ustawy, należy przesyłkę ________________________________________________________________________________ ‒ dopuścić do dalszego przewozu w stanie nienaruszonym ;
 

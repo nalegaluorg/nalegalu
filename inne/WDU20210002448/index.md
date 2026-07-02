@@ -244,6 +244,9 @@ source: pdf
 **Art. 32.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem:
 
 - **1)** art. 13 pkt 1–5, pkt 6 lit. b, pkt 7–11, 14–17, 19, 20, 27 i 29–32, art. 14, art. 16, art. 18, art. 20–26 i art. 30, które wchodzą w życie z dniem 1 kwietnia 2022 r.;
-- **2)** art. 13 pkt 6 lit. a, pkt 12, 13, 18, 21–26 i 28, art. 27 i art. 28, które wchodzą w życie z dniem 1 stycznia 2023 r. Załączniki do ustawy z dnia 17 2021 r. (Dz. U. z 2024 r. poz. 86) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik nr 6 Załącznik nr 7 (pominięty)
+- **2)** art. 13 pkt 6 lit. a, pkt 12, 13, 18, 21–26 i 28, art. 27 i art. 28, które wchodzą w życie z dniem 1 stycznia 2023 r.
 
+## Załączniki do ustawy z dnia 17 2021 r.
+
+(Dz. U. z 2024 r. poz. 86) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik nr 6 Załącznik nr 7 (pominięty)
 

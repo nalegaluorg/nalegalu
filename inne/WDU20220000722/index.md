@@ -73,5 +73,6 @@ d) pracownicy organu, który wydał zezwolenie w zakresie bezpieczeństwa jądro
 2) przeszkolone przez inspektora ochrony radiologicznej w zakresie wykonywania pomiarów.
 § 6. Traci moc rozporządzenie Rady Ministrów z dnia 6 sierpnia 2002 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych (Dz. U. poz. 1161).
 § 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów Załącznik nr 1 ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU KONTROLOWANEGO ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU KONTROLOWANEGO Objaśnienie: wymiary minimalne [w mm] Załącznik nr 2 ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU NADZOROWANEGO ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU NADZOROWANEGO Objaśnienie: wymiary minimalne [w mm]
+
+## Załącznik nr 1 — ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU KONTROLOWANEGO ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU KONTROLOWANEGO Objaśnienie: wymiary minimalne [w mm] Załącznik nr 2 ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU NADZOROWANEGO ZNAK OSTRZEGAWCZY DO OZNAKOWANIA GRANIC TERENU NADZOROWANEGO Objaśnienie: wymiary minimalne [w mm]
 

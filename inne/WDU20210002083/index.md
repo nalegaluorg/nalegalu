@@ -76,7 +76,9 @@ poz. 2070).
 § 8a. 1. Dla pojazdów zarejestrowanych po raz pierwszy lub dopuszczonych do ruchu przed dniem 1 kwietnia 2018 r., dopuszczonych jako pojazd OX, wystawia się świadectwo dopuszczenia pojazdu ADR.
 2. Wzór świadectwa dopuszczenia pojazdu ADR dla pojazdów dopuszczonych jako pojazd OX, o których mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
 § 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia …. (poz….) Załącznik nr 1 WZÓR Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
+
+## Załącznik nr 1 — WZÓR Objaśnienia: I. Dokument dwustronicowy, formatu A4, o wymiarach 210 x 297 mm, wykonany na papierze ze znakiem wodnym, niewykazującym luminescencji w promieniowaniu ultrafioletowym, posiadającym włókna zabezpieczające widoczne w świetle dziennym i w promieniowaniu ultrafioletowym oraz losowo rozmieszczone drobiny wykazujące luminescencję w promieniowaniu ultrafioletowym, posiadający pasek koloru różowego biegnący po przekątnej;
+
 II. Zabezpieczenia dokumentu:
 1. tło giloszowe wykonane w technice druku irysowego,
 2. druk reliefowy,

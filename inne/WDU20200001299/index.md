@@ -75,7 +75,8 @@ Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administr
 § 11. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2003 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 1166 oraz z 2004 r. poz. 1685).
 § 12. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
 Rozporządzenie zostało ogłoszone w dniu 26 marca 2010 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych 2010r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych 2010r.
 
 ## Załącznik nr 1 — Załącznik nr 1 RÓWNOWAŻNIK WYPŁACANY POLICJANTOWI MIANOWANEMU NA STAŁE RÓWNOWAŻNIK W ZAMIAN WYPŁACANY ZA PRZEDMIOTY POLICJANTOWI UBIORU MIANOWANEMU GALOWEGO, NA WYJŚCIOWEGO STAŁE W ZAMIAN ZA PRZEDMIOTY UBIORU ISŁUŻBOWEGO GALOWEGO, WYJŚCIOWEGO (W ZŁ) I SŁUŻBOWEGO (W ZŁ) Korpus Korpus Korpus Korpus podoficerów Płeć Lp. Wyszczególnienie generałów oficerów aspirantów Policji policjanta Policji Policji Policji i szeregowych Policji 1 2 3 4 5 6 7 mężczyzna 3184,80 2122,10 2120,70 2095,60 Policjant służby prewencyjnej* 1 oraz kontrterrorystycznej kobieta 3210,80 2148,10 2146,70 2121,60 Policjant służby prewencyjnej pełniący służbę: w komórkach ruchu drogowego, patrolowo- mężczyzna 3184,80 2362,00 2360,60 2335,50 -interwencyjnych, konwojowych, w policji 2 sądowej, w pomieszczeniach dla osób zatrzymanych oraz na stanowisku dzielnicowego, kobieta 3210,80 2388,00 2386,60 2361,50 starszego dzielnicowego, dyżurnego i przewodnika psa służbowego Policjant służby kryminalnej, śledczej, spraw wewnętrznych mężczyzna 3184,80 1813,80 1812,40 1787,30 oraz wspomagającej działalność 3 Policji w zakresie organizacyjnym, logistycznym kobieta 3210,80 1839,80 1838,40 1813,30 i technicznym ___________________ * Z wyłączeniem policjantów, o których mowa w lp. 2.
 

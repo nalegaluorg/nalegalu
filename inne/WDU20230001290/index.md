@@ -294,7 +294,6 @@ b) 15 m – w przypadku lotniska o kodzie referencyjnym 3 i 4.
 § 47. Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 21 czerwca 2013 r.
 w sprawie wymagań technicznych i eksploatacyjnych w stosunku do lotnisk użytku wyłącznego oraz sposobu i trybu przeprowadzania kontroli sprawdzającej (Dz. U. poz. 741).
 § 48. Rozporządzenie wchodzi w życie z dniem 27 czerwca 2018 r.
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia 7 czerwca 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik nr 1 SCHEMAT UKŁADU ŚWIATEŁ DROGI STARTOWEJ O NAWIERZCHNI SZTUCZNEJ NA LOTNISKU DLA SAMOLOTÓW SCHEMAT UKŁADU ŚWIATEŁ DROGI STARTOWEJ O NAWIERZCHNI SZTUCZNEJ NA LOTNISKU DLA SAMOLOTÓW Załącznik nr 2 KSZTAŁT I WYMIARY OZNACZNIKÓW KRAWĘDZI DROGI STARTOWEJ I KSZTAŁT I WYMIARY OZNACZNIKÓW KRAWĘDZI DROGI STARTOWEJ I OZNACZNIKÓW PŁASKICH OZNACZNIKÓW PŁASKICH Oznacznik krawędzi drogi startowej Oznacznik płaski Ze zmianami wprowadzonymi przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -307,6 +306,8 @@ Załączniki do rozporządzenia Ministra Infrastruktury z dnia 7 czerwca 2018 r.
 #### Rozdział 5 Sposób i tryb przeprowadzania kontroli sprawdzającej
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — SCHEMAT UKŁADU ŚWIATEŁ DROGI STARTOWEJ O NAWIERZCHNI SZTUCZNEJ NA LOTNISKU DLA SAMOLOTÓW SCHEMAT UKŁADU ŚWIATEŁ DROGI STARTOWEJ O NAWIERZCHNI SZTUCZNEJ NA LOTNISKU DLA SAMOLOTÓW Załącznik nr 2 KSZTAŁT I WYMIARY OZNACZNIKÓW KRAWĘDZI DROGI STARTOWEJ I KSZTAŁT I WYMIARY OZNACZNIKÓW KRAWĘDZI DROGI STARTOWEJ I OZNACZNIKÓW PŁASKICH OZNACZNIKÓW PŁASKICH Oznacznik krawędzi drogi startowej Oznacznik płaski Ze zmianami wprowadzonymi przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 2.
 
 ## Załącznik nr 3 — KSZTAŁT I WYMIARY WSKAŹNIKA KIERUNKU WIATRU KSZTAŁT I WYMIARY WSKAŹNIKA KIERUNKU WIATRU Wskaźnik kierunku wiatru (uchylony)
 

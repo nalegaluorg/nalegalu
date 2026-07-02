@@ -1030,5 +1030,7 @@ source: pdf
 
 **Art. 67.** Traci moc ustawa z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. poz. 1081, z późn. zm. ).
 
-**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . Załączniki do ustawy z dnia 12 maja (Dz. U. z 2025 r. poz. 1362) Załącznik Załącznik Załącznik Załącznik
+**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 12 maja (Dz. U. z 2025 r. poz. 1362) Załącznik Załącznik Załącznik Załącznik
 

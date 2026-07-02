@@ -319,21 +319,6 @@ b) terminowo przekazał informacje wskazane do przekazania w następstwie przepr
 3. Wzory certyfikatów, o których mowa w § 33 ust. 2 pkt 1 oraz w § 34 ust. 2 pkt 1, określone odpowiednio w dodatku V do załącznika I do rozporządzenia nr 1321/2014 oraz dodatku VI do załącznika I do rozporządzenia nr 1321/2014, stosuje się do dnia, o którym mowa w art. 4 ust. 2 rozporządzenia nr 1321/2014, wskazanego dla obowiązywania zatwierdzeń wydawanych przez właściwy organ zgodnie z wymogami załącznika I do rozporządzenia nr 1321/2014.
 § 56. Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 53c ust. 3 ustawy, certyfikaty, o których mowa w § 35 ust. 1 pkt 2, wydaje się po spełnieniu przez podmiot w procesie certyfikacji wymagań określonych w przepisach wykonawczych wydanych na podstawie art. 159 ust. 1 ustawy.
 § 57. Rozporządzenie wchodzi w życie z dniem 2 października 2020 r.
-Załączniki do rozporządzenia z dnia 30 września 2020 r. (Dz. U. z 2023 r. poz. …) Załącznik nr 1 WZÓR WZÓR RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND PREZES PRESIDENT URZĘDU LOTNICTWA CYWILNEGO OF THE CIVIL AVIATION AUTHORITY CERTYFIKAT ………………………………………………………… CERTIFICATE ………………………………………………...
-……………………………………..
-Nazwa i adres posiadacza certyfikatu …………………………………………………………………………...
-Certificate holder’s legal name and address …………………………………………………………………………...
-1. Prezes Urzędu Lotnictwa Cywilnego zaświadcza, że 1. President of the Civil Aviation Authority certifies that posiadacz tego certyfikatu spełnia wymagania przepisów the holder of this certificate complies with the Rzeczypospolitej Polskiej ustalone dla jego wydania w requirements in force in the Republic of Poland that are dziale VII ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze required by Part VII of the Aviation Law Act of 3 July (Dz. U. …) i został uznany za zdolnego do prowadzenia 2002 (the Journal of Law …), and has been found działalności polegającej na ……………………………….. competent to conduct activity consisting in zgodnie z tymi przepisami oraz warunkami, ograniczeniami ……………………………... accordance with the above lub szczególnymi uprawnieniami określonymi w mentioned regulations, conditions, limitations and specific specyfikacjach albo zakresach zatwierdzenia załączonych entitlements prescribed in the attached Operations do certyfikatu. Specifications or Terms of Approvals.
-2. Certyfikat nie może być przekazany innemu podmiotowi i, o ile nie zostanie wcześniej zawieszony lub cofnięty, 2. This Certificate is not transferable and, unless sooner zachowuje ważność do dnia podanego poniżej. suspended or revoked, shall continue to be in effect until below stated date.
-Wydano dnia: ………………………………………………..
-Ważny do: Prezes Urzędu Lotnictwa Cywilnego President of the Civil Aviation Authority Załącznik nr 2 WZÓR WZÓR CERTYFIKAT PRZEWOŹNIKA LOTNICZEGO AIR OPERATOR CERTIFICATE (AOC) RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND Prezes Urzędu Lotnictwa Cywilnego President of the Civil Aviation Authority PL –_ _ _/__ Uwagi dotyczące sposobu wypełniania: Należy wpisać nazwę operatora.
-Należy wpisać adres siedziby posiadacza certyfikatu: miasto, kod pocztowy, ulica, numer domu, numer lokalu.
-Należy podać datę ważności.
-Należy podać numer załącznika.
-Należy wpisać nazwę posiadacza certyfikatu lub nazwę handlową posiadacza certyfikatu.
-Należy przywołać stosowne przepisy: dla samolotów i śmigłowców – rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz.
-UE L 296 z 25.10.2012, str. 1, z późn. zm.).
-Pieczęć okrągła Prezesa Urzędu Lotnictwa Cywilnego.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -352,6 +337,23 @@ Pieczęć okrągła Prezesa Urzędu Lotnictwa Cywilnego.
 #### Rozdział 8 Nadzór nad posiadaczem certyfikatu
 
 #### Rozdział 9 Przepisy przejściowe i przepis końcowy
+
+## Załącznik nr 1 — WZÓR WZÓR RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND PREZES PRESIDENT URZĘDU LOTNICTWA CYWILNEGO OF THE CIVIL AVIATION AUTHORITY CERTYFIKAT ………………………………………………………… CERTIFICATE ………………………………………………...
+
+……………………………………..
+Nazwa i adres posiadacza certyfikatu …………………………………………………………………………...
+Certificate holder’s legal name and address …………………………………………………………………………...
+1. Prezes Urzędu Lotnictwa Cywilnego zaświadcza, że 1. President of the Civil Aviation Authority certifies that posiadacz tego certyfikatu spełnia wymagania przepisów the holder of this certificate complies with the Rzeczypospolitej Polskiej ustalone dla jego wydania w requirements in force in the Republic of Poland that are dziale VII ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze required by Part VII of the Aviation Law Act of 3 July (Dz. U. …) i został uznany za zdolnego do prowadzenia 2002 (the Journal of Law …), and has been found działalności polegającej na ……………………………….. competent to conduct activity consisting in zgodnie z tymi przepisami oraz warunkami, ograniczeniami ……………………………... accordance with the above lub szczególnymi uprawnieniami określonymi w mentioned regulations, conditions, limitations and specific specyfikacjach albo zakresach zatwierdzenia załączonych entitlements prescribed in the attached Operations do certyfikatu. Specifications or Terms of Approvals.
+2. Certyfikat nie może być przekazany innemu podmiotowi i, o ile nie zostanie wcześniej zawieszony lub cofnięty, 2. This Certificate is not transferable and, unless sooner zachowuje ważność do dnia podanego poniżej. suspended or revoked, shall continue to be in effect until below stated date.
+Wydano dnia: ………………………………………………..
+Ważny do: Prezes Urzędu Lotnictwa Cywilnego President of the Civil Aviation Authority Załącznik nr 2 WZÓR WZÓR CERTYFIKAT PRZEWOŹNIKA LOTNICZEGO AIR OPERATOR CERTIFICATE (AOC) RZECZPOSPOLITA POLSKA REPUBLIC OF POLAND Prezes Urzędu Lotnictwa Cywilnego President of the Civil Aviation Authority PL –_ _ _/__ Uwagi dotyczące sposobu wypełniania: Należy wpisać nazwę operatora.
+Należy wpisać adres siedziby posiadacza certyfikatu: miasto, kod pocztowy, ulica, numer domu, numer lokalu.
+Należy podać datę ważności.
+Należy podać numer załącznika.
+Należy wpisać nazwę posiadacza certyfikatu lub nazwę handlową posiadacza certyfikatu.
+Należy przywołać stosowne przepisy: dla samolotów i śmigłowców – rozporządzenia Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz.
+UE L 296 z 25.10.2012, str. 1, z późn. zm.).
+Pieczęć okrągła Prezesa Urzędu Lotnictwa Cywilnego.
 
 ## Załącznik nr 3 — WZÓR WZÓR CERTYFIKAT LOTNISKA Załącznik nr 4 WZÓR WZÓR CERTYFIKAT LOTNISKA (ADRC) … AERODROME CERTIFICATE … … … SPECYFIKACJA DO CERTYFIKATU LOTNISKA … Uwagi dotyczące sposobu wypełniania: Numer certyfikatu powinien zawierać kod państwa [dwuliterowy kod ISO (ISO 3166 alpha-2)], symbol ADRC oznaczający skrót certyfikatu lotniska z języka angielskiego (aerodrome certificate) oraz niepowtarzający się numer w kolejności rosnącej.
 

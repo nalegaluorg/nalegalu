@@ -27,14 +27,6 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2290/text.pdf) |
 
-1) zużyty olej kuchenny;
-2) tłuszcze zwierzęce.” Załącznik nr 2 „Załącznik nr 3 Część A. Tymczasowe szacowane emisje surowców dla biokomponentów i biopłynów, wynikające z pośredniej zmiany użytkowania gruntów (gCO /MJ) Grupa surowców Średnia Zakres między percentylami uzyskany z analizy wrażliwości Rośliny wysokoskrobiowe 12 8–16 Rośliny cukrowe 13 4–17 Rośliny oleiste 55 33–66 Przedstawione tu średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców.
-Przedstawiony tu zakres oddaje 90% wyników przy użyciu wartości 5. i 95. percentyla wynikających z analizy. Percentyl 5. oznacza wartość, poniżej której stwierdzono 5% obserwacji (tj. 5% łącznych danych wykazało wyniki poniżej 8, 4 i 33 gCO /MJ).
-Percentyl 95. oznacza wartość, poniżej której stwierdzono 95% obserwacji (tj. 5% łącznych danych wykazało wyniki powyżej 16, 17 i 66 gCO /MJ).
-W przypadku biokomponentów i biopłynów produkowanych z następujących kategorii surowców uznaje się, że ich szacowane emisje wynikające z pośredniej zmiany użytkowania gruntów wynoszą zero:
-1) surowce niewymienione w części A niniejszego załącznika;
-2) surowce, których produkcja prowadzi do bezpośredniej zmiany użytkowania gruntów, np. zmiany jednej z następujących klas pokrycia terenu stosowanych przez Międzyrządowy Zespół do spraw Zmian Klimatu (IPCC); grunty leśne, użytki zielone, tereny podmokłe, grunty zabudowane lub inne grunty, na klasę gruntów uprawnych lub upraw wieloletnich . W takim przypadku wartość emisji wynikającej z bezpośredniej zmiany użytkowania gruntów (e ) należy obliczać zgodnie z załącznikiem nr 1 pkt II.3. pkt 7.”.
-
 **Art. 1.** W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2017 r. poz. 285 i 624) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 w ust. 1:
@@ -234,29 +226,39 @@ W przypadku biokomponentów i biopłynów produkowanych z następujących katego
 **Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
 
 - **1)** art. 1 pkt 11 lit. b w zakresie dodawanego art. 23 ust. 1d i 1e, który wchodzi w życie z dniem 1 stycznia 2020 r.;
-- **2)** art. 1 pkt 13 w zakresie dodawanego art. 23b ust. 3, który wchodzi w życie z dniem 1 stycznia 2019 r. Załączniki do ustawy z dnia 24 listopada 2017 r. (poz. 2290) Załącznik nr 1 „Załącznik nr 1 Część A. Surowce i paliwa, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
-- **1)** algi, jeżeli są hodowane na lądzie, w stawach lub w fotobioreaktorach;
-- **2)** frakcja ulegająca biodegradacji pochodząca z przetwarzania zmieszanych odpadów komunalnych, ale niepozyskiwana w ramach selektywnego zbierania odpadów z gospodarstw domowych mającego na celu osiągnięcie poziomów, o których mowa w art. 3b ust. 1 pkt 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2017 r. poz. 1289 i 2056);
-- **3)** bioodpady, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, pochodzące z gospodarstw domowych zbierane selektywnie zgodnie z art. 3 ust. 1 pkt 24 tej ustawy;
-- **4)** frakcja biomasy pochodząca z odpadów przemysłowych, nienadająca się do wykorzystania w łańcuchu żywnościowym ludzi i zwierząt, w tym materiał z detalu i hurtu oraz z przemysłu rolno-spożywczego, rybołówstwa i akwakultury, z wyłączeniem surowców wymienionych w części B niniejszego załącznika;
-- **5)** słoma;
-- **6)** obornik i osad ściekowy;
-- **7)** ścieki z zakładów wytłaczania oleju palmowego i puste wiązki owoców palmy;
-- **8)** smoła oleju talowego;
-- **9)** surowa gliceryna;
-- **10)** wytłoczyny z trzciny cukrowej;
-- **11)** wytłoki z winogron i osad winny z drożdży;
-- **12)** łupiny orzechów;
-- **13)** łuski nasion;
-- **14)** kolby oczyszczone z ziaren kukurydzy;
-- **15)** frakcja biomasy z gospodarki leśnej, taka jak kora, gałęzie, liście, igły, wierzchołki drzew, trociny, strużyny oraz frakcja biomasy z gałęzi przemysłu opartych na leśnictwie;
-- **16)** inny niespożywczy materiał celulozowy, określony w art. 2 ust. 1 pkt 32b;
-- **17)** inny materiał lignocelulozowy określony w art. 2 ust. 1 pkt 32a, z wyjątkiem kłód tartacznych i kłód skrawanych;
-- **18)** inne paliwa odnawialne;
-- **19)** wychwytywanie i wykorzystanie dwutlenku węgla na potrzeby transportu, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
-- **20)** bakterie, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+- **2)** art. 1 pkt 13 w zakresie dodawanego art. 23b ust. 3, który wchodzi w życie z dniem 1 stycznia 2019 r.
 
-## Część B. Surowce, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
+## Załączniki do ustawy z dnia 24 listopada 2017 r.
 
-## Część B. Biokomponenty i biopłyny, w przypadku których szacowane emisje wynikające z pośredniej zmiany sposobu użytkowania gruntów są uznawane za zerowe.
+(poz. 2290) Załącznik nr 1 „Załącznik nr 1 Część A. Surowce i paliwa, których wkład w realizację celu określonego w art. 23 ust.
+1 jest uznawany za dwukrotność ich wartości energetycznej:
+1) algi, jeżeli są hodowane na lądzie, w stawach lub w fotobioreaktorach;
+2) frakcja ulegająca biodegradacji pochodząca z przetwarzania zmieszanych odpadów komunalnych, ale niepozyskiwana w ramach selektywnego zbierania odpadów z gospodarstw domowych mającego na celu osiągnięcie poziomów, o których mowa w art. 3b ust. 1 pkt 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2017 r. poz. 1289 i 2056);
+3) bioodpady, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, pochodzące z gospodarstw domowych zbierane selektywnie zgodnie z art. 3 ust. 1 pkt 24 tej ustawy;
+4) frakcja biomasy pochodząca z odpadów przemysłowych, nienadająca się do wykorzystania w łańcuchu żywnościowym ludzi i zwierząt, w tym materiał z detalu i hurtu oraz z przemysłu rolno-spożywczego, rybołówstwa i akwakultury, z wyłączeniem surowców wymienionych w części B niniejszego załącznika;
+5) słoma;
+6) obornik i osad ściekowy;
+7) ścieki z zakładów wytłaczania oleju palmowego i puste wiązki owoców palmy;
+8) smoła oleju talowego;
+9) surowa gliceryna;
+10) wytłoczyny z trzciny cukrowej;
+11) wytłoki z winogron i osad winny z drożdży;
+12) łupiny orzechów;
+13) łuski nasion;
+14) kolby oczyszczone z ziaren kukurydzy;
+15) frakcja biomasy z gospodarki leśnej, taka jak kora, gałęzie, liście, igły, wierzchołki drzew, trociny, strużyny oraz frakcja biomasy z gałęzi przemysłu opartych na leśnictwie;
+16) inny niespożywczy materiał celulozowy, określony w art. 2 ust. 1 pkt 32b;
+17) inny materiał lignocelulozowy określony w art. 2 ust. 1 pkt 32a, z wyjątkiem kłód tartacznych i kłód skrawanych;
+18) inne paliwa odnawialne;
+19) wychwytywanie i wykorzystanie dwutlenku węgla na potrzeby transportu, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+20) bakterie, jeżeli źródło energii jest odnawialne zgodnie z art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+Część B. Surowce, których wkład w realizację celu określonego w art. 23 ust. 1 jest uznawany za dwukrotność ich wartości energetycznej:
+1) zużyty olej kuchenny;
+2) tłuszcze zwierzęce.” Załącznik nr 2 „Załącznik nr 3 Część A. Tymczasowe szacowane emisje surowców dla biokomponentów i biopłynów, wynikające z pośredniej zmiany użytkowania gruntów (gCO /MJ) Grupa surowców Średnia Zakres między percentylami uzyskany z analizy wrażliwości Rośliny wysokoskrobiowe 12 8–16 Rośliny cukrowe 13 4–17 Rośliny oleiste 55 33–66 Przedstawione tu średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców.
+Przedstawiony tu zakres oddaje 90% wyników przy użyciu wartości 5. i 95. percentyla wynikających z analizy. Percentyl 5. oznacza wartość, poniżej której stwierdzono 5% obserwacji (tj. 5% łącznych danych wykazało wyniki poniżej 8, 4 i 33 gCO /MJ).
+Percentyl 95. oznacza wartość, poniżej której stwierdzono 95% obserwacji (tj. 5% łącznych danych wykazało wyniki powyżej 16, 17 i 66 gCO /MJ).
+Część B. Biokomponenty i biopłyny, w przypadku których szacowane emisje wynikające z pośredniej zmiany sposobu użytkowania gruntów są uznawane za zerowe.
+W przypadku biokomponentów i biopłynów produkowanych z następujących kategorii surowców uznaje się, że ich szacowane emisje wynikające z pośredniej zmiany użytkowania gruntów wynoszą zero:
+1) surowce niewymienione w części A niniejszego załącznika;
+2) surowce, których produkcja prowadzi do bezpośredniej zmiany użytkowania gruntów, np. zmiany jednej z następujących klas pokrycia terenu stosowanych przez Międzyrządowy Zespół do spraw Zmian Klimatu (IPCC); grunty leśne, użytki zielone, tereny podmokłe, grunty zabudowane lub inne grunty, na klasę gruntów uprawnych lub upraw wieloletnich . W takim przypadku wartość emisji wynikającej z bezpośredniej zmiany użytkowania gruntów (e ) należy obliczać zgodnie z załącznikiem nr 1 pkt II.3. pkt 7.”.
 

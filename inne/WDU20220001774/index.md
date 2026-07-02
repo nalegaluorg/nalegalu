@@ -50,7 +50,9 @@ c) formularza wniosku o wydanie lub wymianę tymczasowego zaświadczenia tożsam
 Nakrycie głowy nie może zakrywać ani zniekształcać owalu twarzy.
 § 4. Rozporządzenie wchodzi w życie z dniem 13 listopada 2015 r. 2) Obecnie działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 stycznia 2009 r. w sprawie tymczasowego zaświadczenia tożsamości cudzoziemca (Dz. U. poz. 168 oraz z 2014 r. poz. 532), które utraciło moc z dniem wejścia w życie ustawy z dnia 10 września 2015 r. o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej oraz niektórych innych ustaw (Dz. U. poz. 1607).
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 4 listopada 2015 r. (Dz. U. z 2022 r. poz. ) Załączniki do rozporządzenia Załącznik Ministra nr Spraw 1 Wewnętrznych z dnia 4 listopada 2015 r. (Dz. U. z 2022 r. poz. 1774) Załącznik nr 1 WZÓR TYMCZASOWEGO ZAŚWIADCZENIA TOŻSAMOŚCI CUDZOZIEMCA WYDAWANEGO PRZEZ ORGAN STRAŻY GRANICZNEJ WZÓR TYMCZASOWEGO ZAŚWIADCZENIA TOŻSAMOŚCI CUDZOZIEMCA WYDAWANEGO PRZEZ ORGAN STRAŻY GRANICZNEJ Dokument w skali 1:1 1) Dokument w skali 1:1 1) awers awers
+
+## Załącznik nr 1 — WZÓR TYMCZASOWEGO ZAŚWIADCZENIA TOŻSAMOŚCI CUDZOZIEMCA WYDAWANEGO PRZEZ ORGAN STRAŻY GRANICZNEJ WZÓR TYMCZASOWEGO ZAŚWIADCZENIA TOŻSAMOŚCI CUDZOZIEMCA WYDAWANEGO PRZEZ ORGAN STRAŻY GRANICZNEJ Dokument w skali 1:1 1) Dokument w skali 1:1 1) awers awers
+
 1) Z tolerancją do 4 mm.
 Z tolerancją do 4 mm.
 rewers rewers Załącznik Załącznik nr 2 nr 3) 2 WZÓR WZÓR TYMCZASOWEGO TYMCZASOWEGO ZAŚWIADCZENIA ZAŚWIADCZENIA TOŻSAMOŚCI TOŻSAMOŚCI CUDZOZIEMCA CUDZOZIEMCA WYDAWANEGO WYDAWANEGO PRZEZ PRZEZ SZEFA SZEFA URZĘDU URZĘDU DO DO SPRAW SPRAW CUDZOZIEMCÓW CUDZOZIEMCÓW AWERS

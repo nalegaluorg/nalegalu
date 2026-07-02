@@ -124,8 +124,10 @@ source: pdf
 - **2)** sposób wręczania i noszenia odznaki Medalu, o którym mowa w art. 1 pkt 1 i 2, oraz prowadzenia ewidencji, o której mowa w art. 9 ust. 1,
 - **3)** wzory odpowiednich dokumentów – mając na względzie potrzebę sprawnego sporządzania dokumentacji oraz terminowego prowadzenia postępowania, jak również uwzględniając uroczysty charakter aktu wręczania Medalu.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 7 czerwca 2001 r. (Dz. U. z 2024 r. poz.
+**Art. 11.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 
-- **1187)** Załącznik nr 1 Załącznik nr 2
+## Załączniki do ustawy z dnia 7 czerwca 2001 r.
 
+(Dz. U. z 2024 r. poz.
+1187) Załącznik nr 1 Załącznik nr 2
 

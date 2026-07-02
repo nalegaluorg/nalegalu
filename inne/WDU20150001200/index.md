@@ -73,7 +73,8 @@ w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze we
 8. Odmowa podpisania protokołu przez kierownika kontrolowanego podmiotu lub osobę pełniącą jego obowiązki nie stanowi przeszkody do wystąpienia do ministra z wnioskiem, o którym mowa w § 10.
 § 10. W przypadku stwierdzenia niespełnienia warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ustawy z dnia 24 września 2010 r. o ewidencji ludności, w terminie 7 dni od dnia podpisania protokołu kontroli, kierownik zespołu kontrolnego występuje do ministra z wnioskiem o wydanie decyzji, o której mowa w art. 51 ust. 2 pkt 2 tej ustawy.
 § 11. Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r.
 
 ## Załącznik nr 1 — WZÓR UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI WZÓR UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI .............................., dnia ..............
 

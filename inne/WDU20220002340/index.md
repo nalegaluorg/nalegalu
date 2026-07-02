@@ -34,7 +34,9 @@ w sprawie wzorów legitymacji służbowych pracowników urzędu zapewniającego 
 1) urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej określa załącznik nr 1 do rozporządzenia;
 2) Państwowego Gospodarstwa Wodnego Wody Polskie określa załącznik nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Załączniki do rozporządzenia Ministra Środowiska z dnia 22 grudnia 2017 r. (Dz. U. z 2022 r.
+
+## Załączniki do rozporządzenia Ministra Środowiska z dnia 22 grudnia 2017 r. (Dz. U. z 2022 r.
+
 poz…..) Załącznik nr 1 WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA URZĘDU ZAPEWNIAJĄCEGO OBSŁUGĘ MINISTRA WŁAŚCIWEGO DO SPRAW GOSPODARKI WODNEJ WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA URZĘDU ZAPEWNIAJĄCEGO OBSŁUGĘ MINISTRA WŁAŚCIWEGO DO SPRAW GOSPODARKI WODNEJ Strona Strona zewnętrzna zewnętrzna RZECZPOSPOLITA POLSKA LEGITYMACJA SŁUŻBOWA MINISTERSTWO INFRASTRUKTURY – 2 – Strona Strona wewnętrzna wewnętrzna MINISTERSTWO INFRASTRUKTURY LEGITYMACJA NR…../…...
 ………..………………………… W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 15 lipca 2021 r.
 zmieniającego rozporządzenie w sprawie wzorów legitymacji służbowych pracowników urzędu zapewniającego obsługę ministra właściwego do spraw …………………………………. gospodarki wodnej oraz pracowników Państwowego Gospodarstwa Wodnego Wody Polskie (Dz. U. poz. 1369), które weszło w życie z dniem 28 sierpnia 2021 r.

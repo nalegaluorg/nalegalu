@@ -765,7 +765,43 @@ w sprawie wyszkolenia i kwalifikacji zawodowych marynarzy oraz rozporządzenia M
 § 110. 1. Posiadanie zaświadczenia o ukończeniu programu szkolenia na poziomie pomocniczym, o którym mowa w § 14 pkt 1, § 20 ust. 1 pkt 1 i 2 oraz § 22 ust. 1 pkt 1 i 2, nie dotyczy osób, które rozpoczęły to szkolenie przed dniem 25 listopada 2015 r.
 2. Przepisy rozporządzenia odnoszące się do uczniów szkół ponadpodstawowych stosuje się również do uczniów szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych do dnia ukończenia tych szkół przez uczniów rozpoczynających naukę w roku szkolnym 2019/2020.
 § 111. Rozporządzenie wchodzi w życie z dniem ogłoszenia , z wyjątkiem § 79 i § 85, które wchodzą w życie z dniem 1 lipca 2018 r.
-Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
+
+### DZIAŁ I Przepisy ogólne
+
+### DZIAŁ II Kwalifikacje nieoficerskie
+
+#### Rozdział 1 Dział pokładowy statków morskich
+
+#### Rozdział 2 Dział maszynowy statków morskich
+
+#### Rozdział 3 Kucharze okrętowi
+
+### DZIAŁ III Kwalifikacje oficerskie
+
+#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej
+
+#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej
+
+#### Rozdział 3 Dział pokładowy w żegludze krajowej
+
+#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej
+
+#### Rozdział 5 Dział maszynowy w żegludze krajowej
+
+### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim
+
+### DZIAŁ V Świadectwa dodatkowych przeszkoleń i warunki ich odnawiania
+
+#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony
+
+#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne
+
+### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych
+
+### DZIAŁ VII Przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
+
 Dziennik Ustaw – 48 – Załącznik Poz. 1383 nr 2 ZEZWOLENIE DISPENSATION ZEZWOLENIE DISPENSATION Załącznik nr 3 ŚWIADECTWO MŁODSZEGO MARYNARZA POKŁADOWEGO DECK HAND CERTIFICATE ŚWIADECTWO MARYNARZA WACHTOWEGO RATING FORMING PART OF NAVIGATIONAL WATCH CERTIFICATE ŚWIADECTWO STARSZEGO MARYNARZA RATING AS ABLE SEAFARER DECK CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO MOTORZYSTY WIPER CERTIFICATE Ze zmianami wprowadzonymi przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 3, oraz przez § rozporządzenia, o którym mowa w odnośniku 4.
 ŚWIADECTWO ELEKTROMONTERA ELECTRO-TECHNICAL RATING CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO KUCHARZA OKRĘTOWEGO COOK ASSISTANT CERTIFICATE Ze zmianą wprowadzoną przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 3.
 ŚWIADECTWO KUCHARZA OKRĘTOWEGO COOK CERTIFICATE Załącznik DYPLOM OFICERA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną 13 rozporządzenia, o którym mowa w odnośniku 4.
@@ -815,38 +851,4 @@ W/w marynarz był zatrudniony przez: ...........................................
 ......................................................................................................................................................
 Dodatkowe informacje o statku, obowiązkach lub rejonach żeglugi: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Kapitan/Master .......................................................
 Pieczątka statku / Ship's stamp – 143 – Załącznik do rozporządzenia zmieniającego rozporządzenie w prawie kwalifikacji członków załóg statków Załącznik nr morskich NAZWA MORSKIEJ JEDNOSTKI EDUKACYJNEJ WYSTAWIAJĄCEJ ZAŚWIADCZENIE Zaświadczenie nr …… o ukończeniu szkolenia Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 3.
-
-### DZIAŁ I Przepisy ogólne
-
-### DZIAŁ II Kwalifikacje nieoficerskie
-
-#### Rozdział 1 Dział pokładowy statków morskich
-
-#### Rozdział 2 Dział maszynowy statków morskich
-
-#### Rozdział 3 Kucharze okrętowi
-
-### DZIAŁ III Kwalifikacje oficerskie
-
-#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej
-
-#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej
-
-#### Rozdział 3 Dział pokładowy w żegludze krajowej
-
-#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej
-
-#### Rozdział 5 Dział maszynowy w żegludze krajowej
-
-### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim
-
-### DZIAŁ V Świadectwa dodatkowych przeszkoleń i warunki ich odnawiania
-
-#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony
-
-#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne
-
-### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych
-
-### DZIAŁ VII Przepisy przejściowe i końcowe
 

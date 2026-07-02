@@ -58,7 +58,8 @@ w sprawie klasyfikacji śródlądowych dróg wodnych Na podstawie art. 42 ust. 4
 3. Przy modernizacji śródlądowych dróg wodnych o znaczeniu międzynarodowym, innych klas niż określone w ust. 2, przyjmuje się, jako warunki projektowe, wielkości nie niższe niż odpowiadające maksymalnym wartościom parametrów klasyfikacyjnych i warunków eksploatacyjnych, przewidzianych dla klasy Vb, umożliwiające żeglugę statków o zanurzeniu nie mniejszym niż 2,80 m.
 4. Przepis ust. 3 stosuje się przy projektowaniu nowych dróg wodnych o znaczeniu międzynarodowym.
 § 8. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 7 maja 2002 r.
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 7 maja 2002 r.
 
 ## Załącznik nr 1 — KLASYFIKACJA ŚRÓDLĄDOWYCH DRÓG WODNYCH Załącznik nr 2 PODZIAŁ ŚRÓDLĄDOWYCH DRÓG WODNYCH NA KLASY PODZIAŁ ŚRÓDLĄDOWYCH DRÓG WODNYCH NA KLASY Lp. Nazwa śródlądowej drogi wodnej Długość Klasa w km drogi wodnej 1 rzeka Biebrza od ujścia Kanału Augustowskiego do ujścia do rzeki Narwi 84,2 Ia 2 rzeka Brda od połączenia z Kanałem Bydgoskim w miejscowości Bydgoszcz do ujścia 14,4 II do rzeki Wisły 3 rzeka Bug od ujścia rzeki Muchawiec do ujścia do rzeki Narwi 224,2 Ia 3a Kanał Cegielinka 1,6 Vb 4 jezioro Dąbie do granicy z morskimi wodami wewnętrznymi 9,5 Vb 4a rzeka Dąbska Struga 0,8 Ia 5 Kanał Augustowski od połączenia z rzeką Biebrzą do granicy Państwa, wraz z jeziorami znajdującymi 83,0 Ia się na trasie tego Kanału 6 Kanał Bydgoski 24,5 II 6a Kanał Dąbski Nurt 0,8 Ia 7 Kanał Gliwicki 41,2 III 8 Kanał Jagielloński od połączenia z rzeką Nogat do granicy z morskimi wodami 4,7 II wewnętrznymi 9 Kanał Kędzierzyński 5,9 II 10 Kanał Łączański 17,2 II 11 Kanał Ślesiński:
 

@@ -413,7 +413,6 @@ b) określenie sposobów zapewnienia jakości lub odbioru podzespołów dostarcz
 2. W sprawach, o których mowa w ust. 1, Prezes Urzędu stosuje wzory dokumentów określone w niniejszym rozporządzeniu.
 § 46. Pozwolenia na wykonywanie lotów wydane na podstawie dotychczasowych przepisów zachowują ważność przez okres, na jaki zostało wydane świadectwo oględzin.
 § 47. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 kwietnia 2013 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -432,6 +431,8 @@ Załączniki do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Mo
 #### Rozdział 8 Sposób prowadzenia ewidencji podmiotów projektujących, produkujących i obsługujących statki powietrzne kategorii specjalnej
 
 #### Rozdział 9 Przepisy przejściowe
+
+## Załączniki do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 kwietnia 2013 r.
 
 ## Załącznik nr 1 — WZÓR WNIOSKU O OBJĘCIE NADZOREM BUDOWY, O UZNANIE ZDATNOŚCI DO LOTU LUB O WZÓR PRZEKWALIFIKOWANIE WNIOSKU O OBJĘCIE NADZOREM STATKU POWIETRZNEGO BUDOWY, O UZNANIE DO KATEGORII ZDATNOŚCI SPECJALNEJ DO LOTU LUB O PRZEKWALIFIKOWANIE STATKU POWIETRZNEGO DO KATEGORII SPECJALNEJ PREZES URZĘDU LOTNICTWA CYWILNEGO WNIOSEK O OBJĘCIE NADZOREM BUDOWY, O UZNANIE ZDATNOŚCI DO LOTU LUB O PRZEKWALIFIKOWANIE DO KATEGORII SPECJALNEJ STATKU POWIETRZNEGO Załącznik nr 2 WZÓR WZÓR WNIOSKU WNIOSKU O WYDANIE O WYDANIE POZWOLENIA POZWOLENIA NA NA WYKONYWANIE WYKONYWANIE LOTÓW LOTÓW W W KATEGORII KATEGORII SPECJALNEJ SPECJALNEJ Prezes Urzędu Lotnictwa Cywilnego WNIOSEK o wydanie pozwolenia na wykonywanie lotów w kategorii specjalnej e Załącznik nr 3 WZÓR WZÓR POZWOLENIA POZWOLENIA NA NA WYKONYWANIE WYKONYWANIE LOTÓW LOTÓW RZECZPOSPOLITA REPUBLIC POLSKA of POLAND Prezes Urzędu Lotnictwa Cywilnego President of The Civil Aviation Authority POZWOLENIE NA WYKONYWANIE LOTÓW W KATEGORII SPECJALNEJ Special Category Flight Permit NUMER PLS – Number SP Stwierdzenie ważności pozwolenia na wykonywanie lotów w kategorii specjalnej Validity Confirmation of the Special Category Flight Permit Załącznik nr 4 WZÓR WNIOSKU O ODNOWIENIE WAŻNOŚCI POZWOLENIA NA WYKONYWANIE LOTÓW WZÓR W KATEGORII WNIOSKU SPECJALNEJ O ODNOWIENIE I PRZEPROWADZENIE WAŻNOŚCI POZWOLENIA OCENY ZDATNOŚCI NA WYKONYWANIE DO LOTU STATKU LOTÓW POWIETRZNEGO W KATEGORII SPECJALNEJ I PRZEPROWADZENIE OCENY ZDATNOŚCI DO LOTU STATKU POWIETRZNEGO Prezes Urzędu Lotnictwa Cywilnego WNIOSEK o odnowienie ważności pozwolenia na wykonywanie lotów w kategorii specjalnej i przeprowadzenie oceny zdatności do lotu statku powietrznego Proszę o odnowienie ważności pozwolenia na wykonywanie lotów w kategorii specjalnej:
 

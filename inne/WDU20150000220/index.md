@@ -43,7 +43,8 @@ w sprawie wzorów poświadczeń bezpieczeństwa Na podstawie art. 29 ust. 6 usta
 3. Poświadczenia bezpieczeństwa wydawane przez pełnomocników do spraw ochrony informacji niejawnych, z wyjątkiem poświadczeń bezpieczeństwa wydawanych przez pełnomocników do spraw ochrony informacji niejawnych w służbach, o których mowa w art. 23 ust. 2 i 5 ustawy, sporządza się na papierze w kolorze białym, formatu A4.
 § 3. Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych organizacji międzynarodowych, wydawane przez ABW albo SKW, sporządza się na papierze offsetowym w kolorze niebieskim, formatu A4, z tłem rastrowanym i z tekstem o treści „Agencja Bezpieczeństwa Wewnętrznego” albo „Służba Kontrwywiadu Wojskowego” – w zależności od służby, która przeprowadziła postępowanie sprawdzające.
 § 4. Rozporządzenie wchodzi w życie z dniem 2 stycznia 2011 r.
-Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2010 r.
+
+## Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR POŚWIADCZENIE BEZPIECZEŃSTWA NR ........................................................................
 

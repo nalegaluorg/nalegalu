@@ -679,8 +679,10 @@ source: pdf
 
 **Art. 23.** Traci moc ustawa z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. poz. 50, z 1988 r. poz. 132, z 1989 r. poz. 192 i 443 oraz z 1990 r. poz. 198).
 
-**Art. 24.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do opłat należnych po tym dniu oraz poczynając od roku podatkowego 1991 do należnych podatków. Załączniki do ustawy z dnia 12 stycznia 1991 r. (Dz. U. z 2025 r. poz.
+**Art. 24.** Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do opłat należnych po tym dniu oraz poczynając od roku podatkowego 1991 do należnych podatków.
 
-- **707)** Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 Załącznik nr 4
+## Załączniki do ustawy z dnia 12 stycznia 1991 r.
 
+(Dz. U. z 2025 r. poz.
+707) Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 Załącznik nr 4
 

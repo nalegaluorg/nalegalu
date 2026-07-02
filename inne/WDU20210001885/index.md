@@ -61,7 +61,8 @@ poz. 2021) zarządza się, co następuje:
 § 10. 1. Wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych wynosi 2700 złotych.
 2. Opłata, o której mowa w ust. 1, dotyczy jednego produktu.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 23 marca 2011 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 23 marca 2011 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR …..…………….., dnia …………....
 

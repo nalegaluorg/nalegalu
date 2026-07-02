@@ -875,7 +875,51 @@ b) odmówiono udzielenia zezwolenia na prowadzenie działalności na rynku finan
 3. Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez zarząd i radę nadzorczą towarzystwa.
 § 114. (pominięty).
 § 115. Rozporządzenie wchodzi w życie z dniem 30 listopada 2020 r.
-Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. (poz. …) Załącznik nr 1 OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ZAANGAŻOWANIA ZAANGAŻOWANIA
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 System kontroli wewnętrznej
+
+##### Oddział 1 System nadzoru zgodności działalności z prawem
+
+##### Oddział 2 System audytu wewnętrznego
+
+##### Oddział 3 System zarządzania ryzykiem
+
+#### Rozdział 3 Konflikty interesów
+
+#### Rozdział 4 Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu
+
+#### Rozdział 5 Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 1 Kontakty z klientami w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 2 Promowanie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 3 Prowadzenie przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+#### Rozdział 6 Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych
+
+#### Rozdział 7 Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa
+
+#### Rozdział 8 Warunki techniczne i organizacyjne prowadzenia działalności
+
+#### Rozdział 9 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia
+
+##### Oddział 1 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji
+
+##### Oddział 2 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy
+
+##### Oddział 3 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia
+
+##### Oddział 4 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
+
+#### Rozdział 10 Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia
+
+#### Rozdział 11 Przepis przejściowy i przepis końcowy
+
+## Załącznik nr 1 — OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ZAANGAŻOWANIA ZAANGAŻOWANIA
+
 § 1. Ilekroć w niniejszym załączniku jest mowa o:
 1) wartości referencyjnej instrumentu pochodnego - rozumie się przez to wyrażoną w walucie, w której są wyceniane aktywa funduszu inwestycyjnego otwartego, wartość nominalną instrumentu stanowiącego bazę instrumentu pochodnego lub wartość równoważną wartości nominalnej instrumentu stanowiącego bazę instrumentu pochodnego, wynikającą ze standardu instrumentu pochodnego (wystandaryzowane instrumenty pochodne) lub umowy (niewystandaryzowane instrumenty pochodne);
 2) duracji - rozumie się przez to jedną z dwóch miar ryzyka instrumentów opartych na stopie procentowej, stosowaną przez towarzystwo w odniesieniu do funduszu inwestycyjnego otwartego:
@@ -968,48 +1012,6 @@ c) kontrakt terminowy forward na stopę procentową (FRA): WR = wartość refere
 1) sumie wartości wszystkich kwot zaangażowania, o których mowa w § 4, po uwzględnieniu technik redukcji całkowitej ekspozycji;
 2) sumie wartości rynkowej papierów wartościowych, instrumentów rynku pieniężnego oraz środków pieniężnych, o których mowa w § 8;
 3) sumie wartości zaciągniętych pożyczek lub kredytów, w przypadku gdy towarzystwo nie skorzystało z wyłączenia, o którym mowa w § 17 ust. 2 rozporządzenia.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 System kontroli wewnętrznej
-
-##### Oddział 1 System nadzoru zgodności działalności z prawem
-
-##### Oddział 2 System audytu wewnętrznego
-
-##### Oddział 3 System zarządzania ryzykiem
-
-#### Rozdział 3 Konflikty interesów
-
-#### Rozdział 4 Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu
-
-#### Rozdział 5 Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 1 Kontakty z klientami w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 2 Promowanie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 3 Prowadzenie przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-#### Rozdział 6 Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych
-
-#### Rozdział 7 Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa
-
-#### Rozdział 8 Warunki techniczne i organizacyjne prowadzenia działalności
-
-#### Rozdział 9 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia
-
-##### Oddział 1 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji
-
-##### Oddział 2 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy
-
-##### Oddział 3 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia
-
-##### Oddział 4 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
-
-#### Rozdział 10 Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia
-
-#### Rozdział 11 Przepis przejściowy i przepis końcowy
 
 ## Załącznik nr 2 — OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ABSOLUTNEJ ABSOLUTNEJ WARTOŚCI ZAGROŻONEJ WARTOŚCI ZAGROŻONEJ ORAZ ORAZ METODĄ METODĄ WZGLĘDNEJ WZGLĘDNEJ WARTOŚCI WARTOŚCI ZAGROŻONEJ ZAGROŻONEJ
 

@@ -44,7 +44,9 @@ w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania 
 § 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 do rozporządzenia.
 2. Orzeczenie lekarskie wydaje się w trzech egzemplarzach, z których jeden otrzymuje nauczyciel, drugi dyrektor szkoły, który skierował nauczyciela na badanie lekarskie, a trzeci jest dołączany do dokumentacji medycznej nauczyciela.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r.
+
 WZÓR Załącznik nr 1 WZÓR .......................................... ................................
 Skierowanie na badanie lekarskie Działając na podstawie art. 73 ust. 10a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r.
 poz. 1762), kieruję na badanie lekarskie: Pana/Panią .....................................................................................................................................................................................

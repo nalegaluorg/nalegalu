@@ -96,7 +96,8 @@ o przeciwdziałaniu narkomanii, przekazuje się w formie pisemnej albo w formie 
 3. Protokół zniszczenia jest przechowywany wraz z dokumentacją przychodu i rozchodu, o której mowa w § 3 ust. 1.
 § 10. W okresie 6 miesięcy od dnia wejścia w życie rozporządzenia zgłoszenia, o których mowa w § 6 ust. 1 i § 7 ust. 1, mogą być dokonane bez zachowania terminu określonego w tych przepisach.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 31 maja 2016 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 31 maja 2016 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ...................................................
 

@@ -714,8 +714,10 @@ source: pdf
 
 **Art. 94.** Traci moc ustawa z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. poz. 752, z późn. zm. ).
 
-**Art. 95.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 92, który wchodzi w życie z dniem ogłoszenia . Załączniki do ustawy z dnia 11 marca 2004 r. (Dz. U. z 2023 r. poz.
+**Art. 95.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 92, który wchodzi w życie z dniem ogłoszenia .
 
-- **1035)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony)
+## Załączniki do ustawy z dnia 11 marca 2004 r.
 
+(Dz. U. z 2023 r. poz.
+1035) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony)
 

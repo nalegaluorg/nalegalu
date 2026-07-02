@@ -74,7 +74,9 @@ b) funkcjonariuszom – wyróżnień określonych w art. 91 ust. 1 pkt 3 ustawy;
 § 10. 1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
 2. Wnioski o udzielenie wyróżnienia sporządzone przed dniem wejścia w życie rozporządzenia zachowują ważność po dniu wejścia w życie rozporządzenia.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2022 r. (Dz. U. z 2023 r. poz. ..) Załącznik nr 1 WZÓR WZÓR ……………………………………………… Wniosek o udzielenie wyróżnienia Wnoszę o udzielenie …………………………………………………………………………………………........................
+
+## Załącznik nr 1 — WZÓR WZÓR ……………………………………………… Wniosek o udzielenie wyróżnienia Wnoszę o udzielenie …………………………………………………………………………………………........................
+
 wyróżnienia: ………………………………………………………………..…….
 Uzasadnienie ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… …………………………………………., dnia ……………………………… …………………………………………………………….
 

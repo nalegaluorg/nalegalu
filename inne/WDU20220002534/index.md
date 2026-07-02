@@ -105,7 +105,9 @@ c) badanie lekarza upoważnionego – 100 zł;
 2. Stawki opłat, o których mowa w ust. 1, wykonywane przez podatników podatku od towarów i usług, zobowiązanych do rozliczenia podatku od towarów i usług, podwyższa się o kwotę tego podatku obliczoną przy zastosowaniu obowiązującej, w dniu wykonania badań, właściwej stawki podatku od towarów i usług.
 § 14. Orzeczenia lekarskie wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
 § 15. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 3 listopada 2011 r. (Dz. U. z 2022 r. poz.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 3 listopada 2011 r. (Dz. U. z 2022 r. poz.
+
 … ) Załącznik nr 1 WZÓR WZÓR …………………………………………………… ORZECZENIE LEKARSKIE ………. /……….
 W wyniku przeprowadzonego badania lekarskiego oraz po uwzględnieniu opinii psychologa, na podstawie § 5 ust. 1 rozporządzenia Ministra Zdrowia z dnia 3 listopada 2011 r. w sprawie badań lekarskich i psychologicznych osób ubiegających się o wydanie albo posiadających licencję detektywa (Dz. U. z 2022 r. poz. 2534) stwierdzam, że Pan/Pani .....................................................................................................................................................
 numer PESEL (w przypadku osoby nieposiadającej numeru PESEL – nazwa i numer dokumentu potwierdzającego tożsamość) ....................................................................................................................

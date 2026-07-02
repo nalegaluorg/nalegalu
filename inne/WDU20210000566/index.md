@@ -116,7 +116,8 @@ e) ilość wydaną, wyrażoną w miligramach, gramach, kilogramach, sztukach, al
 § 13. 1. Podmioty prowadzące obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi oraz podmioty prowadzące obrót hurtowy prekursorami kategorii 1 dostosują prowadzoną działalność do wymogów niniejszego rozporządzenia w terminie 6 miesięcy od dnia jego wejścia w życie.
 2. Do postępowań w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 7 lipca 2016 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 7 lipca 2016 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ............................................................
 

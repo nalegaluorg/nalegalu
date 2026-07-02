@@ -109,7 +109,9 @@ d) co do których istnieje uzasadnione prawdopodobieństwo naruszania przepisów
 § 11. Rozporządzenie wchodzi w życie z dniem 1 października 2021 r.
 Minister Spraw Wewnętrznych i Administracji: M. Kamiński Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 25 lutego 2008 r.
 w sprawie trybu postępowania w sprawach oświadczeń o stanie majątkowym strażaków Państwowej Straży Pożarnej oraz wzoru oświadczenia o stanie majątkowym osób pełniących funkcje organów Państwowej Straży Pożarnej (Dz. U. z 2013 r. poz. 1591), które zgodnie z art. 39 pkt 5 ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
-Załączniki do rozporządzenia Ministra Załączniki Spraw do rozporządzenia Wewnętrznych i Ministra Załączniki Administracji Spraw do rozporządzenia z Wewnętrznych dnia 29 września 2021r.
+
+## Załączniki do rozporządzenia Ministra Załączniki Spraw do rozporządzenia Wewnętrznych i Ministra Załączniki Administracji Spraw do rozporządzenia z Wewnętrznych dnia 29 września 2021r.
+
 (poz. ….) i Ministra Administracji Spraw z Wewnętrznych dnia 29 września 2021r.
 
 ## Załącznik nr 1 — (poz. ….) i Administracji z dnia 29 września 2021r.

@@ -85,6 +85,8 @@ b) badanie psychologiczne – 160 zł;
 a) badanie psychiatryczne – 200 zł,
 b) badanie psychologiczne – 240 zł.
 § 12. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 września 2003 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 września 2003 r.
+
 WZÓR WZÓR WZÓR WZÓR
 

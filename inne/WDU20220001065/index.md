@@ -123,7 +123,8 @@ pasy rozdzielające zwarte obszary leśne zakłada się wzdłuż wytypowanych dr
 § 12. Zakaz wstępu do lasu wprowadza się przy 3. stopniu zagrożenia pożarowego, jeżeli przez kolejnych 5 dni wilgotność ściółki mierzona o godzinie 9 będzie niższa od 10%.
 § 13. Traci moc rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 16 sierpnia 1999 r. w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 824).
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia z dnia 22 marca 2006 r.
+
+## Załączniki do rozporządzenia z dnia 22 marca 2006 r.
 
 ## Załącznik nr 1 — SPOSÓB ZALICZANIA LASÓW DO KATEGORII ZAGROŻENIA SPOSÓB ZALICZANIA LASÓW DO KATEGORII ZAGROŻENIA POŻAROWEGO LASÓW POŻAROWEGO LASÓW
 

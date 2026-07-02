@@ -69,7 +69,9 @@ b) księga przeprowadzonych kontroli.
 § 6. 1. Udostępnienie dokumentacji następuje w sposób zapewniający zachowanie poufności i ochronę danych osobowych.
 2. Podmioty, o których mowa w art. 2 ust. 4 i art. 19 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy, otrzymują dokumenty do wglądu w siedzibie jednostki kontrolowanej.
 § 7. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 14 lipca 2010 r. (Dz. U. z 2022 r. poz. ….) Załącznik nr 1 WZÓR WZÓR .......................................................................... ….……………………..
+
+## Załącznik nr 1 — WZÓR WZÓR .......................................................................... ….……………………..
+
 SKIEROWANIE NA BADANIE PSYCHOLOGICZNE Działając na podstawie .…………………………………………………………………………………………..……… ……………………………..………………………………………………………………………………….………....… , kieruję: Pana/Panią ...........................................................................................................................................................
 numer PESEL (w przypadku osoby nieposiadającej numeru PESEL podać nazwę i numer dokumentu potwierdzającego tożsamość) …………............................................................................................................................
 zam. .......................................................................................................................................................................

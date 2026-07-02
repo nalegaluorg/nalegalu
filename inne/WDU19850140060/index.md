@@ -3313,8 +3313,10 @@ source: pdf
 
 **Art. 52.** Traci moc ustawa z dnia 29 marca 1962 r. o drogach publicznych (Dz. U. poz. 90 oraz z 1971 r. poz. 115).
 
-**Art. 53.** Ustawa wchodzi w życie z dniem 1 października 1985 r. Załączniki do ustawy z dnia 21 marca 1985 r. (Dz. U. z 2025 r. poz.
+**Art. 53.** Ustawa wchodzi w życie z dniem 1 października 1985 r.
 
-- **889)** Załącznik nr 1 Załącznik nr 2
+## Załączniki do ustawy z dnia 21 marca 1985 r.
 
+(Dz. U. z 2025 r. poz.
+889) Załącznik nr 1 Załącznik nr 2
 

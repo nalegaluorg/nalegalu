@@ -360,7 +360,9 @@ Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się
 Przepis § 11 ust. 3 stosuje się odpowiednio.
 § 32b. W przypadku wniosków o przyznanie pomocy złożonych do dnia 31 grudnia 2009 r. pomoc jest przyznawana również na operacje obejmujące wyłącznie inwestycje związane z prowadzeniem działalności wymienionych w wykazie określonym w załączniku nr 2 do rozporządzenia, jeżeli spełniają warunki określone w § 3.
 § 33. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r.
+
+## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r.
+
 WYKAZ DZIAŁALNOŚCI NIEROLNICZYCH, W ZAKRESIE KTÓRYCH MOŻE BYĆ WYKAZ DZIAŁALNOŚCI NIEROLNICZYCH, W ZAKRESIE KTÓRYCH PRZYZNANA MOŻE BYĆ POMOC PRZYZNANA POMOC Numer Rodzaj działalności Polskiej Klasyfikacji Działalności (PKD) 1 2
 01.61.Z (uchylona)
 01.62.Z (uchylona)

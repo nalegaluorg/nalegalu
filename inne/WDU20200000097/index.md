@@ -56,7 +56,9 @@ Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rzą
 § 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 2 marca 2010 r.
 w sprawie przekazywania informacji dotyczących bezpieczeństwa imprez masowych (Dz. U. poz. 329), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 105 pkt 5 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125).
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych Załączniki do rozporządzenia i Administracji z dnia 16 stycznia 2020 r. (poz. 97) Ministra Spraw Wewnętrznych i Administracji z dnia 16 stycznia 2020 r. (poz. …) załącznik nr 1 Załącznik nr 1 WZÓR WZÓR KARTA REJESTRACYJNA Adresat .……………………………………………………………………………………………………………………………………………..
+
+## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR KARTA REJESTRACYJNA Adresat .……………………………………………………………………………………………………………………………………………..
+
 (nazwa i adres jednostki organizacyjnej Policji) Podmioty zobowiązane, o których mowa w art. 39 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r.
 poz. 2171), wypełniają (drukowanymi literami koloru czarnego) i przesyłają podpisane karty rejestracyjne według właściwości.
 KARTA REJESTRACYJNA Przekazuję niniejszym informację dotyczącą bezpieczeństwa imprez masowych, zgodnie z nałożonym obowiązkiem, do dalszego wykorzystania w ramach realizacji ustawowych zadań.
@@ -71,7 +73,9 @@ Liczba stron: … Informacja o osobach, przeciwko którym toczy się postępowan
 Kategoria B – uczestnicy imprez, którzy (jak można stwierdzić na bazie dotychczasowych doświadczeń) za cel swojej obecności przyjmują manifestowanie przemocy lub agresji, a także w określonych sytuacjach mogą uczestniczyć w naruszeniach porządku publicznego lub dążyć do konfrontacji z innymi uczestnikami imprezy bądź siłami porządkowymi, jak i prowokować negatywne zachowania uczestników imprezy.
 Nazwa i adres podmiotu sporządzającego: Data sporządzenia karty: …………………………………………. …………………………………… Imię i nazwisko osoby upoważnionej: ………………………………………….
 Telefon kontaktowy: ……………………………………….… Niewłaściwe skreślić.
-załącznik nr 2 Załącznik nr 2 WZÓR WZÓR Adresat ……………………………………………………………………………………………………………………………………..
+
+## Załącznik nr 2 — Załącznik nr 2 WZÓR WZÓR Adresat ……………………………………………………………………………………………………………………………………..
+
 Podmioty zobowiązane, o których mowa w art. 39 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r.
 poz. 2171), wypełniają (drukowanymi literami koloru czarnego) i przesyłają podpisane karty rejestracyjne według właściwości.
 KARTA REJESTRACYJNA Przekazuję niniejszym informację dotyczącą bezpieczeństwa imprez masowych, zgodnie z nałożonym obowiązkiem, do dalszego wykorzystania w ramach realizacji ustawowych zadań.
@@ -102,7 +106,9 @@ Liczba stron: … Informacja o klubach, organizacjach, stowarzyszeniach skupiaj�
 8. Informacje o czynach noszących znamiona przestępstwa albo wykroczenia o charakterze chuligańskim z udziałem członków grupy Nazwa i adres podmiotu sporządzającego: Data sporządzenia karty: ……………………………………….. ……………………………….
 Imię i nazwisko osoby upoważnionej: ………………………………………..
 Telefon kontaktowy: ………………………………………..
-załącznik nr 4 WZÓR WZÓR Adresat …………………………………………………………………………………………………………………………………………….
+
+## Załącznik nr 4 — WZÓR WZÓR Adresat …………………………………………………………………………………………………………………………………………….
+
 Podmioty zobowiązane, o których mowa w art. 39 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. z 2019 r. poz. 2171), wypełniają (drukowanymi literami koloru czarnego) i przesyłają podpisane karty rejestracyjne według właściwości.
 KARTA REJESTRACYJNA Przekazuję niniejszym informację dotyczącą bezpieczeństwa imprez masowych, zgodnie z nałożonym obowiązkiem, do dalszego wykorzystania w ramach realizacji ustawowych zadań.
 Liczba stron: … Informacja o zaistniałych w związku z organizowanymi imprezami masowymi zbiorowych naruszeniach porządku i bezpieczeństwa publicznego oraz chuligańskich zachowaniach

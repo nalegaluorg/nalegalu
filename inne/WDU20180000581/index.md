@@ -54,7 +54,8 @@ Medal jest zawieszony na zawieszce o wymiarach 30 mm × 10 mm, która ma kształ
 § 8. W razie zgubienia albo zniszczenia odznaki lub legitymacji stwierdzającej jej nadanie wydaje się wtórny egzemplarz odznaki lub legitymacji, za zwrotem kosztów.
 § 9. Koszty związane z nadaniem odznaki są pokrywane ze środków budżetu państwa w części, której dysponentem jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 § 10. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 30 kwietnia 2002 r.
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 30 kwietnia 2002 r.
 
 ## Załącznik nr 1 — WZÓR WNIOSKU O NADANIE ODZNAKI HONOROWEJ WZÓR WNIOSKU „ZA ZASŁUGI O DLA NADANIE GEODEZJI ODZNAKI I KARTOGRAFII” HONOROWEJ „ZA ZASŁUGI DLA GEODEZJI I KARTOGRAFII” Załącznik nr 2 WZÓR WZÓR ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA „ZA ZASŁUGI ZASŁUGI DLA DLA GEODEZJI GEODEZJI I KARTOGRAFII” I KARTOGRAFII” Wzór Wzór w w powiększeniu powiększeniu Dziennik Ustaw – – 6 6 – – Poz. 581 Załącznik nr 3 Załącznik nr 3 WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ WZÓR WZÓR LEGITYMACJI LEGITYMACJI STWIERDZAJĄCEJ STWIERDZAJĄCEJ NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA ZASŁUGI DLA GEODEZJI I KARTOGRAFII” „ZA ZASŁUGI „ZA ZASŁUGI DLA DLA GEODEZJI GEODEZJI I I KARTOGRAFII” KARTOGRAFII” Okładka do legitymacji ma wymiary 154 × 108 mm.
 

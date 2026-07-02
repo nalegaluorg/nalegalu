@@ -101,7 +101,9 @@ e) znacznie powyżej oczekiwań – powyżej 8 punktów do 9 punktów;
 § 13. Do sporządzenia oceny, w przypadku gdy oceniany przed dniem wejścia w życie rozporządzenia zapoznał się z kryteriami oceny i terminem sporządzenia oceny na piśmie, stosuje się przepisy dotychczasowe.
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Prezes Rady Ministrów: B. Szydło Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 23 lipca 2015 r. w sprawie warunków i sposobu przeprowadzania ocen okresowych członków korpusu służby cywilnej (Dz. U. poz. 1143), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 11 ustawy z dnia 30 grudnia 2015 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. z 2016 r. poz. 34).
-Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia Załączniki do rozporządzenia Załącznik Prezesa Rady nr 1 Ministrów z dnia 4 kwietnia 2016 r. (poz. 470) Załącznik nr 1 WYKAZ KRYTERIÓW OCENY WyKAZ KRyteRIóW OCeNy KRYTERIUM OPIS
+
+## Załącznik nr 1 — WYKAZ KRYTERIÓW OCENY WyKAZ KRyteRIóW OCeNy KRYTERIUM OPIS
+
 1. KOMUNIKACJA − Koncentrowanie się na wypowiedzi rozmówcy i dbanie o wzajemne zrozumienie.
 − Wypowiadanie się w sposób jasny i precyzyjny, dostosowany do sytuacji i rozmówcy (dobieranie stylu, języka i treści).
 − Formułowanie jasnych i precyzyjnych wypowiedzi pisemnych dostosowanych do sytuacji i odbiorcy (dobieranie stylu, języka i treści).

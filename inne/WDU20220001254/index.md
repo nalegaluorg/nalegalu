@@ -39,7 +39,9 @@ c) uchyla się lit. f;
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Spraw Wewnętrznych i Administracji: M. Kamiński Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 385, z 2017 r. poz. 135 i 253, z 2018 r. poz. 309, 486 i 819, z 2019 r. poz. 240, 366 i 636, z 2020 r. poz. 599 i 1988 oraz z 2022 r. poz. 106, 336, 580 i 816.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 2 czerwca 2022 r. (poz. 1254) Załącznik nr 1 TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW DO POSZCZEGÓLNYCH GRUP ORAZ ODPOWIADAJĄCYCH IM POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
+
+## Załącznik nr 1 — TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW DO POSZCZEGÓLNYCH GRUP ORAZ ODPOWIADAJĄCYCH IM POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
+
 1) KGP – Komendę Główną Policji,
 2) CBŚP – Centralne Biuro Śledcze Policji,
 3) CBZC – Centralne Biuro Zwalczania Cyberprzestępczości,

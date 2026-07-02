@@ -50,7 +50,9 @@ Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022
 Minister Rodziny i Polityki Społecznej: M. Maląg Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 29 września 2021 r.
 w sprawie ustalenia wzorów deklaracji składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców zobowiązanych do wpłat na ten Fundusz (Dz. U. poz. 1939), które utraciło moc z dniem 10 marca 2023 r. na podstawie art. 6 ustawy z dnia 24 lutego 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o podatku od wydobycia niektórych kopalin (Dz. U.
 poz. 558).
-Załączniki do rozporządzenia Ministra Rodziny i Polityki Społecznej z dnia 10 maja 2023 r. (Dz. U. poz. 995) Załącznik nr 1 WZÓR WZÓR WZÓR Deklaracja miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych DEK-1-0 To jest deklaracja ❑ zwykła / ❑ korygująca za okres wypełniona w dniu - - .
+
+## Załącznik nr 1 — WZÓR WZÓR WZÓR Deklaracja miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych DEK-1-0 To jest deklaracja ❑ zwykła / ❑ korygująca za okres wypełniona w dniu - - .
+
 Dane pracodawcy Numer w rejestrze PFRON: NIP: REGON: Pracodawca: _______________________________________________________________________ Ulica: ______________________________ Nr domu: ______ Nr lokalu: ______ Miejscowość: ____________________________________________ Kod pocztowy: Poczta: ____________________________________________ Telefon: _____________ E-mail: ___________________________________ Dane o zatrudnieniu i przeciętnym wynagrodzeniu Proszę podać stany zatrudnienia pracowników w etatach (E) i osobach (O) .
 Stan E ogółem to: , Stan O ogółem to: , .
 Osoby niepełnosprawne Osoby niepełnosprawne Osoby Ogółem Osoby niepełnosprawne niepełnosprawne E O Wskaźnik zatrudnienia osób pozbawionych wolności: , .

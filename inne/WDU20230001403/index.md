@@ -145,7 +145,9 @@ c) z zakresu współpracy szkół funkcjonujących w systemach oświaty innych p
 3) pkt 9, 12 i 13, jeżeli posiadają zezwolenie na pobyt czasowy w Rzeczypospolitej Polskiej.
 3. Przepis § 3 ust. 3 stosuje się odpowiednio.
 § 4. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r.
+
 (Dz. U. z 2023 r. poz. ….….) Załącznik nr 1 Lp. Nazwa przejścia granicznego Rodzaj przejścia granicznego
 a) granica państwowa z Federacją Rosyjską:
 1. Gołdap – Gusiew drogowe

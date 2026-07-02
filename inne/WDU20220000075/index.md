@@ -319,7 +319,6 @@ b) otrzymanych w poprzednich okresach przychodów z tytułu odsetek, w tym dysko
 2. Przepisy rozporządzenia mogą być stosowane do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2017 r.
 § 33. Wartość bilansową wkładów na fundusz stabilizacyjny, wniesionych przed dniem 1 stycznia 2015 r., rozlicza się w równych kwotach proporcjonalnie w ciągu 20 lat i odnosi na fundusz własny jako „Zysk (strata) z lat ubiegłych”. Nierozliczoną część wkładów wykazuje się w bilansie po stronie aktywów.
 § 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 
 #### Rozdział 1 przepisy ogólne
 
@@ -336,6 +335,8 @@ Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 #### Rozdział 6a przepisy epizodyczne
 
 #### Rozdział 7 przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 
 ## Załącznik nr 1 — LIMITY LIMITY POMNIEJSZENIA POMNIEJSZENIA PODSTAWY PODSTAWY TWORZENIA TWORZENIA ODPISÓW ODPISÓW AKTUALIZUJĄCYCH AKTUALIZUJĄCYCH Tabela nr 1 Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 1 rozporządzenia.
 

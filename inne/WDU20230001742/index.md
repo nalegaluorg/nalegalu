@@ -482,10 +482,6 @@ c) noworodkom urodzonym przez matkę grupy AB przetacza się KPR składający si
 2. Lekarze odpowiedzialni za gospodarkę krwią powołani na podstawie dotychczasowych przepisów z dniem wejścia w życie niniejszego rozporządzenia stają się lekarzami odpowiedzialnym za gospodarkę krwią w rozumieniu niniejszego rozporządzenia.
 § 42. Zaświadczenia upoważniające do wykonywania, w tym samodzielnego, badań serologicznych (immunohematologicznych) uzyskane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
 § 43. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 16 października 2017 r.
-(poz. …. ) Załącznik nr 1 WZÓR WZÓR KSIĄŻKA TRANSFUZYJNA (w poziomym układzie strony) Strona 1 Strona 2 * W przypadku przetoczenia osocza, KKP i krioprecypitatu – numer badania wyniku grupy krwi biorcy, na podstawie której oceniono zgodność serologiczną z dawcą.
-** W przypadku przetoczenia KKCz, KPK i KG – numer badania wyniku próby zgodności.
-*** Oznaczenie zawiera imię, nazwisko, tytuł zawodowy i specjalizację oraz numer prawa wykonywania zawodu, jeżeli dotyczy, a w przypadku braku w oznaczeniu imienia i nazwiska – czytelny podpis zawierający imię i nazwisko.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -498,6 +494,12 @@ Załączniki do rozporządzenia Ministra Zdrowia z dnia 16 października 2017 r.
 #### Rozdział 5 Monitorowanie i zgłaszanie niepożądanych zdarzeń i niepożądanych reakcji
 
 #### Rozdział 6 Przepisy przejściowe i przepis końcowy
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 16 października 2017 r.
+
+(poz. …. ) Załącznik nr 1 WZÓR WZÓR KSIĄŻKA TRANSFUZYJNA (w poziomym układzie strony) Strona 1 Strona 2 * W przypadku przetoczenia osocza, KKP i krioprecypitatu – numer badania wyniku grupy krwi biorcy, na podstawie której oceniono zgodność serologiczną z dawcą.
+** W przypadku przetoczenia KKCz, KPK i KG – numer badania wyniku próby zgodności.
+*** Oznaczenie zawiera imię, nazwisko, tytuł zawodowy i specjalizację oraz numer prawa wykonywania zawodu, jeżeli dotyczy, a w przypadku braku w oznaczeniu imienia i nazwiska – czytelny podpis zawierający imię i nazwisko.
 
 ## Załącznik nr 2 — WZÓR WZÓR STANDARDOWA PROCEDURA OPERACYJNA (SOP) Nazwa podmiotu leczniczego: Nazwa jednostki lub komórki organizacyjnej: Standardowa Procedura Operacyjna numer ……….. Wersja numer Tytuł procedury: Sporządził: Data sporządzenia: Podpis: ……………………… Zatwierdził kierownik Data zatwierdzenia: Podpis: podmiotu leczniczego: …………………………..
 
@@ -516,7 +518,9 @@ Rozpoznanie choroby: ...................................................
 Wskazanie do przetoczenia: ..………………………… PROSZĘ O WYDANIE Specyficzne zalecenia**: …………………………………………………………………… Grupa krwi ABO RhD (słownie) Fenotyp krwinek czerwonych (jeżeli potrzeba) …………………………………………………… * Właściwe zaznaczyć X.
 ** Składnik ubogoleukocytarny, napromieniowany itd.
 *** Oznaczenie zawiera imię, nazwisko, tytuł zawodowy i specjalizację oraz numer prawa wykonywania zawodu, jeżeli dotyczy, a w przypadku braku w oznaczeniu imienia i nazwiska – czytelny podpis zawierający imię i nazwisko.
-Załączniki do rozporządzenia z dnia 8 lipca 2019 r. (poz. …) Załącznik nr 1 WZÓR WZÓR KARTA GRUPY KRWI Strona 1 Karta grupy krwi/Blood type form: Nazwa albo firma podmiotu Logotyp (opcjonalnie/Logotype leczniczego/Name of medical entity: optional): Imiona i nazwisko/First, second name, surname: Data i miejsce urodzenia/Date and place Zdjęcie opcjonalnie/Photo optional of birth: Numer PESEL/ID*: * W przypadku obcokrajowców – numer dokumentu tożsamości i niepowtarzalny numer identyfikacyjny.
+
+## Załącznik nr 1 — WZÓR WZÓR KARTA GRUPY KRWI Strona 1 Karta grupy krwi/Blood type form: Nazwa albo firma podmiotu Logotyp (opcjonalnie/Logotype leczniczego/Name of medical entity: optional): Imiona i nazwisko/First, second name, surname: Data i miejsce urodzenia/Date and place Zdjęcie opcjonalnie/Photo optional of birth: Numer PESEL/ID*: * W przypadku obcokrajowców – numer dokumentu tożsamości i niepowtarzalny numer identyfikacyjny.
+
 (For foreigners: identification and passport numbers) Strona 2 Nazwa pracowni immunologii transfuzjologicznej/ Name of laboratory: Grupa krwi/Blood group/type: Uwagi/Comments: Przeciwciała odpornościowe/immune antibodies: Daty/numery badań Dates/blood grouping numbers Data/numer wpisu (Oznaczenie osoby uprawnionej do dokonania wpisu zawierające imię, księgi badań nazwisko, tytuł zawodowy i specjalizację oraz numer prawa wykonywania zawodu, jeżeli dotyczy) (Data of person entitled to entry: first name, surname, professional title, Date/entry number specialization, license to practice) Załącznik nr 2 WZÓR WZÓR ZLECENIE NA BADANIE GRUPY KRWI Data wystawienia zlecenia: Podmiot leczniczy: .......................................................................
 Jednostka lub komórka Tryb wykonania badania*: □ NORMALNY organizacyjna: □ PILNY Do Pracowni Immunologii Transfuzjologicznej w .........................................................................
 ZLECENIE NA BADANIE GRUPY KRWI Nazwisko i imię pacjenta: ...................................................................

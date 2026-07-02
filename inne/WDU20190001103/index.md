@@ -34,7 +34,9 @@ w sprawie wzorów kwestionariusza bezpieczeństwa przemysłowego, świadectwa be
 § 2. Świadectwo bezpieczeństwa przemysłowego sporządza się na papierze offsetowym w kolorze jasnozielonym, formatu A4, z tłem rastrowanym i z tekstem o treści „Agencja Bezpieczeństwa Wewnętrznego” albo „Służba Kontrwywiadu Wojskowego” – w zależności od organu, który przeprowadził postępowanie bezpieczeństwa przemysłowego.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Prezes Rady Ministrów: M. Morawiecki Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 5 kwietnia 2011 r. w sprawie wzorów kwestionariusza bezpieczeństwa przemysłowego, świadectwa bezpieczeństwa przemysłowego, decyzji o odmowie wydania świadectwa bezpieczeństwa przemysłowego oraz decyzji o cofnięciu świadectwa bezpieczeństwa przemysłowego (Dz. U. poz. 470), które utraciło moc na podstawie art. 229 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650).
-Załączniki do rozporządzenia z dnia 16 maja 2019 r.
+
+## Załączniki do rozporządzenia z dnia 16 maja 2019 r.
+
 (poz. …) Załącznik Załącznik nr 1 nr 1 WZÓR WZÓR KWESTIONARIUSZ BEZPIECZEŃSTWA PRZEMYSŁOWEGO Dane zawarte w niniejszym kwestionariuszu bezpieczeństwa przemysłowego będą wykorzystane zgodnie z ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), zwaną dalej „ustawą”, w toku postępowania bezpieczeństwa przemysłowego mającego na celu ocenę zdolności przedsiębiorcy do ochrony informacji niejawnych.
 1) Dane identyfikujące podmiot podlegający sprawdzeniu, w tym określenie jego statusu prawnego:
 a) pełna nazwa: ..............................................................................................................................................................................

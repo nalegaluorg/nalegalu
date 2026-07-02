@@ -1335,6 +1335,7 @@ source: pdf
 - **1)** art. 102 pkt 2–6 oraz art. 108 pkt 2 i 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
 - **2)** art. 110, który wchodzi w życie z dniem 10 września 2015 r.;
 - **3)** art. 66–71 i art. 91 pkt 46–48, które wchodzą w życie z dniem 1 stycznia 2017 r.;
-- **4)** art. 2 ust. 2 pkt 4–10, art. 5 ust. 2 i art. 104 pkt 1 lit. b, które wchodzą w życie z dniem 1 stycznia 2018 r. Załączniki do ustawy z dnia 11 września 2015 r. (Dz. U. z 2024 r. poz. 573) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik
+- **4)** art. 2 ust. 2 pkt 4–10, art. 5 ust. 2 i art. 104 pkt 1 lit. b, które wchodzą w życie z dniem 1 stycznia 2018 r.
 
+## Załączniki do ustawy z dnia 11 września 2015 r. (Dz. U. z 2024 r. poz. 573) Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik
 

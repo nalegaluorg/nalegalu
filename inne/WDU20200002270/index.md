@@ -251,7 +251,9 @@ Należy zamieścić informacje o możliwości zabezpieczenia oraz informacje, kt
 Wymagane kategorie: VI, VII lub VIII. Należy podać numer kwalifikacji geologicznych zgodnie z przepisami ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2020 r. poz. 1064, z późn. zm.) albo numer decyzji uznającej kwalifikacje zawodowe w dziedzinie geologii, albo informację „osoba świadcząca usługi transgraniczne”.
 Należy podać nazwę i siedzibę instytucji.
 Należy podać dzień, miesiąc i rok.
-załącznik nr 3 WZÓR PROTOKOłU ObSERWACJI Załącznik nr3 WZÓR PROTOKOŁU OBSERWACJI
+
+## Załącznik nr 3 — WZÓR PROTOKOłU ObSERWACJI Załącznik nr3 WZÓR PROTOKOŁU OBSERWACJI
+
 1. Numer ewidencyjny :
 2. Wnioski z obserwacji :
 3. Zalecenia co do dalszych obserwacji :

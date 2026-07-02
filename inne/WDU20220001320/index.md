@@ -209,7 +209,6 @@ c) wysokoaktywnych, po 28 dniach ługowania w warunkach statycznych, nie może p
 3) informację o kategorii i podkategorii odpadu promieniotwórczego.
 § 39. Przepisów § 32 nie stosuje się do Krajowego Składowiska Odpadów Promieniotwórczych eksploatowanego w dniu wejścia w życie rozporządzenia.
 § 40. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -224,6 +223,8 @@ Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 #### Rozdział 6 Szczegółowe wymagania w zakresie przygotowania odpadów promieniotwórczych do składowania
 
 #### Rozdział 7 Przepis przejściowy i końcowy
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 
 ## Załącznik nr 1 — WARTOŚCI AKTYWNOŚCI I STĘŻENIA PROMIENIOTWÓRCZEGO IZOTOPÓW PROMIENIOTWÓRCZYCH STANOWIĄCE PODSTAWĘ KWALIFIKOWANIA ODPADÓW PROMIENIOTWÓRCZYCH DO KATEGORII ODPADÓW WARTOŚCI PROMIENIOTWÓRCZYCH AKTYWNOŚCI I STĘŻENIA I PODKATEGORII PROMIENIOTWÓRCZEGO ZUŻYTYCH IZOTOPÓW ZAMKNIĘTYCH PROMIENIOTWÓRCZYCH ŹRÓDEŁ STANOWIĄCE PODSTAWĘ KWALIFIKOWANIA ODPADÓW PROMIENIOTWÓRCZYCH DO KATEGORII ODPADÓW PROMIENIOTWÓRCZYCH PROMIENIOTWÓRCZYCH I PODKATEGORII ZUŻYTYCH ZAMKNIĘTYCH ŹRÓDEŁ PROMIENIOTWÓRCZYCH 2 3 4 5 6 7 Objaśnienia: Izotopy promieniotwórcze opatrzone wskaźnikiem „+” lub „nat” oznaczają izotopy promieniotwórcze macierzyste znajdujące się w stanie równowagi wiekowej ze swymi pochodnymi. W takich przypadkach wartości aktywności i stężenia promieniotwórczego odnoszą się do izotopów promieniotwórczych macierzystych, uwzględniając również obecność izotopów promieniotwórczych pochodnych.
 

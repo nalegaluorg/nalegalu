@@ -267,7 +267,19 @@ b) 15 m – w przypadku lotniska o kodzie referencyjnym 3 i 4.
 2. Drogi kołowania o nawierzchni sztucznej oraz płyty postojowe o nawierzchni sztucznej na lotniskach dla samolotów z drogą startową bez nawierzchni sztucznej zostaną dostosowane do wymagań, o których mowa w § 15 ust. 2 i 3, nie później niż do dnia 1 lipca 2020 r.
 3. Drogi kołowania bez nawierzchni sztucznej na lotniskach dla samolotów z drogą startową bez nawierzchni sztucznej zostaną dostosowane do wymagań, o których mowa w § 25 ust. 1, nie później niż do dnia 1 lipca 2020 r.
 § 40. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. (Dz. U. z 2023 r. poz….) Załącznik nr 1 MINIMALNY WSPÓŁCZYNNIK TARCIA NAWIERZCHNI SZTUCZNEJ DROGI MINIMALNY WSPÓŁCZYNNIK TARCIA NAWIERZCHNI SZTUCZNEJ DROGI STARTOWEJ STARTOWEJ Prędkość jazdy Prędkość jazdy urządzenia do ciągłego urządzenia do pomiaru współczynnika ciągłego pomiaru tarcia współczynnika tarcia Urządzenie do ciągłego pomiaru 65 km/h 95 km/h współczynnika tarcia planowana planowana wartość wartość obsługa obsługa minimalna minimalna techniczna techniczna Airport Surface Friction Tester 0.50 0.60 0.34 0.47 Dynatest Consulting Inc.
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Wymagania dla lotniska dla samolotów z drogą startową o nawierzchni sztucznej
+
+#### Rozdział 3 Wymagania dla lotniska dla samolotów z drogą startową bez nawierzchni sztucznej
+
+#### Rozdział 4 Wymagania dla lotniska dla śmigłowców
+
+#### Rozdział 5 Przepisy przejściowe i przepis końcowy
+
+## Załącznik nr 1 — MINIMALNY WSPÓŁCZYNNIK TARCIA NAWIERZCHNI SZTUCZNEJ DROGI MINIMALNY WSPÓŁCZYNNIK TARCIA NAWIERZCHNI SZTUCZNEJ DROGI STARTOWEJ STARTOWEJ Prędkość jazdy Prędkość jazdy urządzenia do ciągłego urządzenia do pomiaru współczynnika ciągłego pomiaru tarcia współczynnika tarcia Urządzenie do ciągłego pomiaru 65 km/h 95 km/h współczynnika tarcia planowana planowana wartość wartość obsługa obsługa minimalna minimalna techniczna techniczna Airport Surface Friction Tester 0.50 0.60 0.34 0.47 Dynatest Consulting Inc.
+
 0.50 0.60 0.41 0.54 Dynatest Runway Friction Tester Findlay, Irvine, Ltd
 0.43 0.53 0.24 0.36 Griptester Friction Meter Halliday Technologies RT3 0.45 0.55 0.42 0.52 Moventor Oy Inc.
 0.50 0.60 0.34 0.47 BV-11 Skiddometer Mu Meter 0.42 0.52 0.26 0.38 NAC Dynamic Friction Tester 0.42 0.52 0.28 0.38 Norsemeter RUNAR
@@ -284,16 +296,6 @@ b) obecności makrotekstury,
 c) stanu rowkowania, to jest sprawdzenie, czy rowki, jeżeli występują, są otwarte i ich wymiary są zachowane zgodnie z dokumentacją projektową,
 d) porowatości warstwy ścieralnej, jeżeli występuje, w zakresie skutecznego i szybkiego odprowadzania wody z nawierzchni drogi startowej zgodnie z dokumentacją projektową,
 e) wartości spadków podłużnych i poprzecznych w zakresie tego, czy są powyżej wartości minimalnych określonych w dokumentacji projektowej.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Wymagania dla lotniska dla samolotów z drogą startową o nawierzchni sztucznej
-
-#### Rozdział 3 Wymagania dla lotniska dla samolotów z drogą startową bez nawierzchni sztucznej
-
-#### Rozdział 4 Wymagania dla lotniska dla śmigłowców
-
-#### Rozdział 5 Przepisy przejściowe i przepis końcowy
 
 ## Załącznik nr 1 — a KRYTERIA KRYTERIA DLA URZĄDZEŃ DLA URZĄDZEŃ DO DO CIĄGŁEGO CIĄGŁEGO POMIARU POMIARU WSPÓŁCZYNNIKA WSPÓŁCZYNNIKA TARCIA TARCIA WYPOSAŻONYCH WYPOSAŻONYCH W W UKŁAD UKŁAD SAMOZRASZAJĄCY SAMOZRASZAJĄCY Urządzenie do ciągłego pomiaru współczynnika tarcia nawierzchni sztucznej drogi startowej wyposażone w układ samozraszający spełnia poniższe kryteria, mające na celu zapewnienie dokładnych, wiarygodnych i stabilnych pomiarów przez cały okres użytkowania, w różnych warunkach występujących na lotnisku.
 

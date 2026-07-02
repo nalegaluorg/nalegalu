@@ -104,7 +104,9 @@ e) nazwę i numer dokumentu tożsamości;
 § 12. 1. Badanie na zawartość alkoholu w organizmie osoby doprowadzonej przeprowadza się w sposób nieinwazyjny, za pomocą urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu.
 2. Wynik badania na zawartość alkoholu w organizmie osoby doprowadzonej dokumentuje się wydrukiem z urządzenia, o którym mowa w ust. 1. Wydruk załącza się do karty ewidencyjnej.
 § 13. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 grudnia 2014 r. (Dz. U. z 2022 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 grudnia 2014 r. (Dz. U. z 2022 r.
+
 poz. …..) Załącznik nr 1 WYKAZ WYKAZ PRODUKTÓW PRODUKTÓW LECZNICZYCH LECZNICZYCH ORAZ ORAZ WYROBÓW WYROBÓW MEDYCZNYCH MEDYCZNYCH STOSOWANYCH STOSOWANYCH W W IZBIE IZBIE WYTRZEŹWIEŃ WYTRZEŹWIEŃ I I PLACÓWCE PLACÓWCE
 1. Wykaz nazw substancji czynnych zawartych w produktach leczniczych lub powszechnie stosowanych nazw produktów leczniczych oraz wymagania w zakresie mocy i postaci farmaceutycznej:
 1) Adrenalinum 1 mg/ml – roztwór do wstrzykiwań;

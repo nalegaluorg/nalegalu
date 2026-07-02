@@ -443,8 +443,8 @@
     "date": "2026-07-02",
     "published": 18708,
     "rejected": 397,
-    "total_body_chars": 570353369,
-    "total_articles": 209638,
+    "total_body_chars": 570475140,
+    "total_articles": 209681,
     "sources": {
       "pdf": 18464,
       "eli-html": 242,
@@ -493,9 +493,9 @@
       "prawo-konstytucyjne": 2
     },
     "consolidated_article_coverage": {
-      "checked": 703,
-      "with_gaps": 473,
-      "unexplained_gaps": 10815
+      "checked": 706,
+      "with_gaps": 476,
+      "unexplained_gaps": 10852
     }
   }
 ]

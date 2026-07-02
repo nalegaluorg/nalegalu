@@ -101,8 +101,6 @@ o Centralnym Biurze Antykorupcyjnym, zwanej dalej „ustawą”,
 § 22. 1. Funkcjonariusz przedstawia do akceptacji projekty dokumentów, o których mowa w § 20, kierownikowi właściwej jednostki organizacyjnej CBA.
 2. Kierownik właściwej jednostki organizacyjnej CBA akceptuje projekty i niezwłocznie przekazuje je Szefowi CBA.
 § 23. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia RadyMinistrów z dnia 29 sierpnia 2006 r.
-WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych materiałów dowodowych * WZÓR Odmowa zwolnienia spod zabezpieczenia materiałów dowodowych Dziennik Ustaw – – 8 9 – – Poz. 319 WZÓR Protokół pobrania rzeczy WZÓR Protokół oględzin WZÓR Protokół przyjęcia ustnych wyjaśnień WZÓR Protokół przyjęcia ustnego oświadczenia Dziennik Ustaw – – 12 13 – – Poz. 319 WZÓR Postanowienie o powołaniu biegłego WZÓR Postanowienie o powołaniu specjalisty w danej dziedzinie wiedzy lub praktyki do udziału w czynnościach badawczych WZÓR PROTOKÓŁ KONTROLI
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -113,4 +111,8 @@ WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych ma
 #### Rozdział 4 Warunki i tryb dokumentowania czynności kontrolnych
 
 #### Rozdział 5 Przepis końcowy
+
+## Załączniki do rozporządzenia RadyMinistrów z dnia 29 sierpnia 2006 r.
+
+WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych materiałów dowodowych * WZÓR Odmowa zwolnienia spod zabezpieczenia materiałów dowodowych Dziennik Ustaw – – 8 9 – – Poz. 319 WZÓR Protokół pobrania rzeczy WZÓR Protokół oględzin WZÓR Protokół przyjęcia ustnych wyjaśnień WZÓR Protokół przyjęcia ustnego oświadczenia Dziennik Ustaw – – 12 13 – – Poz. 319 WZÓR Postanowienie o powołaniu biegłego WZÓR Postanowienie o powołaniu specjalisty w danej dziedzinie wiedzy lub praktyki do udziału w czynnościach badawczych WZÓR PROTOKÓŁ KONTROLI
 

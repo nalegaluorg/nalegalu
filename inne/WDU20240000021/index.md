@@ -251,20 +251,6 @@ f) narzędzia wspierające pracowników socjalnych i dostarczanie e-usług – 1
 2. Pracownicy socjalni, którzy kontynuują szkolenie w zakresie I lub II stopnia specjalizacji w zawodzie pracownik socjalny w dniu wejścia w życie rozporządzenia, mogą przystąpić do egzaminu na warunkach określonych w ust. 1, jednak w terminie nie dłuższym niż 12 miesięcy od dnia zakończenia szkolenia.
 § 33. Pracownicy socjalni, którzy uzyskali stopnie specjalizacji w zawodzie pracownik socjalny przed dniem wejścia w życie niniejszego rozporządzenia, zachowują je.
 § 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Społecznej z dnia 17 kwietnia 2012 r. (Dz. U. z 2024 r. poz….) Załącznik nr 1 DYPLOM UZYSKANIA I STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
-urodzona/urodzony* w dniu ………………….. w …………………………………………………...
-zdała/zdał* w dniu ………………….. egzamin przed Regionalną Komisją Egzaminacyjną do spraw stopni specjalizacji zawodowej pracowników socjalnych, działającą na podstawie art. 118 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.), oraz uzyskała/uzyskał* I stopień specjalizacji w zawodzie pracownik socjalny.
-Dyplom jest dokumentem potwierdzającym uzyskanie I stopnia specjalizacji w zawodzie pracownik socjalny, o którym mowa w art. 116 ust. 2 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
-……………………………………., dnia …………………..
-Nr w rejestrze wydanych dyplomów ………..
-Przewodniczący Regionalnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych ................................................
-Wykaz modułów Lp. Wykaz modułów Liczba godzin ŁĄCZNA LICZBA GODZIN Załącznik nr 2 DYPLOM UZYSKANIA II STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
-urodzona/urodzony* w dniu ………………….. w …………………………………………………...
-zdała/zdał* w dniu ………………….. egzamin przed Centralną Komisją Egzaminacyjną do spraw stopni specjalizacji zawodowej pracowników socjalnych, działającą na podstawie art. 117 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.), oraz uzyskała/uzyskał* II stopień specjalizacji w zawodzie pracownik socjalny w zakresie specjalności ……………………………………………………………. .
-Dyplom jest dokumentem potwierdzającym uzyskanie II stopnia specjalizacji w zawodzie pracownik socjalny, o którym mowa w art. 116 ust. 2 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
-………………………………., dnia ………………… Nr w rejestrze wydanych dyplomów ……..
-Przewodniczący Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych ................................................
-Wykaz modułów Lp. Wykaz modułów w zakresie przygotowania ogólnego Liczba godzin Wykaz modułów w zakresie przygotowania specjalistycznego Konsultacje ŁĄCZNA LICZBA GODZIN
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -291,4 +277,20 @@ Wykaz modułów Lp. Wykaz modułów w zakresie przygotowania ogólnego Liczba go
 #### Rozdział 12 Zasady wyboru jednostki organizacyjnej współpracującej z Komisją i warunki tej współpracy
 
 #### Rozdział 13 Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — DYPLOM UZYSKANIA I STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
+
+urodzona/urodzony* w dniu ………………….. w …………………………………………………...
+zdała/zdał* w dniu ………………….. egzamin przed Regionalną Komisją Egzaminacyjną do spraw stopni specjalizacji zawodowej pracowników socjalnych, działającą na podstawie art. 118 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.), oraz uzyskała/uzyskał* I stopień specjalizacji w zawodzie pracownik socjalny.
+Dyplom jest dokumentem potwierdzającym uzyskanie I stopnia specjalizacji w zawodzie pracownik socjalny, o którym mowa w art. 116 ust. 2 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+……………………………………., dnia …………………..
+Nr w rejestrze wydanych dyplomów ………..
+Przewodniczący Regionalnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych ................................................
+Wykaz modułów Lp. Wykaz modułów Liczba godzin ŁĄCZNA LICZBA GODZIN Załącznik nr 2 DYPLOM UZYSKANIA II STOPNIA SPECJALIZACJI W ZAWODZIE PRACOWNIK SOCJALNY Pani/Pan* ……………………………………………………………………………………………...
+urodzona/urodzony* w dniu ………………….. w …………………………………………………...
+zdała/zdał* w dniu ………………….. egzamin przed Centralną Komisją Egzaminacyjną do spraw stopni specjalizacji zawodowej pracowników socjalnych, działającą na podstawie art. 117 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.), oraz uzyskała/uzyskał* II stopień specjalizacji w zawodzie pracownik socjalny w zakresie specjalności ……………………………………………………………. .
+Dyplom jest dokumentem potwierdzającym uzyskanie II stopnia specjalizacji w zawodzie pracownik socjalny, o którym mowa w art. 116 ust. 2 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+………………………………., dnia ………………… Nr w rejestrze wydanych dyplomów ……..
+Przewodniczący Centralnej Komisji Egzaminacyjnej do spraw stopni specjalizacji zawodowej pracowników socjalnych ................................................
+Wykaz modułów Lp. Wykaz modułów w zakresie przygotowania ogólnego Liczba godzin Wykaz modułów w zakresie przygotowania specjalistycznego Konsultacje ŁĄCZNA LICZBA GODZIN
 

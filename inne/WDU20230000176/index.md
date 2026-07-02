@@ -36,7 +36,9 @@ poz. 813, z późn. zm. ) zarządza się, co następuje:
 Minister Finansów: M. Rzeczkowska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707.
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej (Dz. U. z 2022 r. poz. 2486), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2023 r. poz. 129).
-Załączniki do rozporządzenia Ministra Finansów z dnia 9 stycznia 2023 r. (Dz. U. poz. 176) Załącznik nr 1 WZÓR WZÓR UPOWAŻNIENIE DO PRZEPROWADZENIA KONTROLI CELNO-SKARBOWEJ A. DANE KONTROLUJĄCYCH
+
+## Załącznik nr 1 — WZÓR WZÓR UPOWAŻNIENIE DO PRZEPROWADZENIA KONTROLI CELNO-SKARBOWEJ A. DANE KONTROLUJĄCYCH
+
 1.
 2.
 3.

@@ -36,7 +36,9 @@ b) w pkt 6 uchyla się lit. b;
 § 2. Do wniosków złożonych przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z wzorami określonymi w załącznikach nr 1–4 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym stosuje się przepisy dotychczasowe.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Rozwoju i Technologii: W. Buda Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
-Załączniki do rozporządzenia Ministra Rozwoju i Technologii z dnia 27 kwietnia 2023 r. (Dz. U. poz. 1135) Załącznik nr 1 Załączniki do rozporządzenia Ministra Rozwoju i Technologii z dnia .... 2023 r. (poz. ...) WZÓR Załącznik nr 1 WZÓR Wniosek o udostępnienie materiałów centralnego zasobu geodezyjnego i kartograficznego
+
+## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Rozwoju i Technologii z dnia .... 2023 r. (poz. ...) WZÓR Załącznik nr 1 WZÓR Wniosek o udostępnienie materiałów centralnego zasobu geodezyjnego i kartograficznego
+
 1. Imię i nazwisko / Nazwa oraz adres wnioskodawcy 2. Data Formularz C
 3. Adresat wniosku – nazwa i adres organu lub jednostki organizacyjnej, która w imieniu organu prowadzi państwowy zasób geodezyjny i kartograficzny
 4. Dane kontaktowe wnioskodawcy (nr telefonu / adres poczty elektronicznej)*

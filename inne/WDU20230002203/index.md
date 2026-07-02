@@ -57,7 +57,9 @@ b) materiał nauczania w formie haseł tematycznych, powiązanych z celami kszta
 § 5. Wzór zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej jest określony w załączniku nr 2 do rozporządzenia.
 § 6. Opłata za szkolenie jest wnoszona na konto bankowe podmiotu prowadzącego szkolenie najpóźniej w pierwszym dniu szkolenia.
 § 7. Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia13 listopada 2015 r. (Dz. U.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia13 listopada 2015 r. (Dz. U.
+
 z 2023 r. poz. …) Załącznik nr 1 WZÓR WZÓR ZAŚWIADCZENIE o ukończeniu szkolenia ...................................................................................................................................................................
 urodzony(-na) dnia ................................................................................................................................ r.
 w ....................................................................... woj. ...............................................................................

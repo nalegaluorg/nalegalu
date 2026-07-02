@@ -70,8 +70,11 @@ Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U.
 poz. 1381).
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. (Dz. U. z 2023 r. poz. 2179) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
-Załączniki do rozporządzenia z dnia 7 lipca 2023 r. (Dz. U. poz.
+
+## Załącznik nr 1 — (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załączniki do rozporządzenia z dnia 7 lipca 2023 r. (Dz. U. poz.
+
 ….) Załącznik nr 7 WZÓR Załącznik nr 7 WZÓR strona 1 Adnotacja o wpłynięciu wniosku: KW-ZAL Wniosek o założenie księgi wieczystej Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne wniosku, z tym że pola niewypełnione należy przekreślić.
 • Wniosek można złożyć w biurze podawczym wydziału ksiąg wieczystych lub nadać w polskiej placówce operatora świadczącego pocztowe usługi powszechne na terytorium Rzeczypospolitej Polskiej albo w zagranicznej placówce pocztowej operatora świadczącego pocztowe usługi powszechne na terytorium innego państwa członkowskiego Unii Europejskiej na adres tego wydziału.

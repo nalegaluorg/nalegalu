@@ -69,7 +69,9 @@ d) wyników odbytych szkoleń;
 4) do przetwarzania danych osobowych w formie elektronicznej stosują wysoki poziom bezpieczeństwa przetwarzania danych osobowych w systemie informatycznym, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) .
 2. Dokumentacja, o której mowa w ust. 1 pkt 1, może być prowadzona i przechowywana w postaci elektronicznej.
 § 7. Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 20 października 2015 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 20 października 2015 r.
+
 (Dz. U. z 2024 r. poz. …) Załącznik nr 1 RAMOWY PROGRAM SZKOLENIA WSTĘPNEGO – MINIMALNY CZAS SZKOLENIA 25 RAMOWY GODZIN DYDAKTYCZNYCH, PROGRAM SZKOLENIA W WSTĘPNEGO TYM NIE MNIEJ – MINIMALNY NIŻ 10 GODZIN CZAS ZAJĘĆ SZKOLENIA PRAKTYCZNYCH 25 GODZIN DYDAKTYCZNYCH, W TYM NIE MNIEJ NIŻ 10 GODZIN ZAJĘĆ PRAKTYCZNYCH Lp. Tematyka zajęć (z uwzględnieniem zajęć teoretycznych i praktycznych) Polskie i europejskie przepisy prawne dotyczące medycznie wspomaganej prokreacji oraz gromadzenia, testowania, 1 przetwarzania, przechowywania i dystrybucji komórek rozrodczych i zarodków.
 Stanowisko, rola, pozycja i zadania osób odpowiedzialnych za jakość w ośrodku medycznie wspomaganej prokreacji 2 i banku komórek rozrodczych i zarodków. Umocowanie prawne i zawodowe. Organizacja procedury medycznie wspomaganej prokreacji.
 Zarządzanie ośrodkiem medycznie wspomaganej prokreacji i bankiem komórek rozrodczych i zarodków. Systemy 3 zapewnienia jakości i zarządzania ryzykiem.

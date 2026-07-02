@@ -147,7 +147,8 @@ b) wysokość płomienia wynosi nie mniej niż 4 cm i płomień utrzymuje się p
 8. Osoba wprowadzająca wyroby aerozolowe do obrotu powinna opisać metodę zastosowaną do określenia ciepła chemicznej reakcji spalania w dokumencie sporządzonym w oficjalnym języku Unii Europejskiej i dostępnym pod adresem wskazanym zgodnie z § 16 ust. 1 pkt 1.
 § 20. Traci moc rozporządzenie Ministra Gospodarki z dnia 20 grudnia 2005 r. w sprawie szczegółowych wymagań, jakim powinny odpowiadać wyroby aerozolowe (Dz. U. poz. 2199).
 § 21. Rozporządzenie wchodzi w życie z dniem 29 kwietnia 2010 r.
-Załączniki do rozporządzenia Ministra Gospodarki z dnia 5 listopada 2009 r.
+
+## Załączniki do rozporządzenia Ministra Gospodarki z dnia 5 listopada 2009 r.
 
 ## Załącznik nr 1 — MAKSYMALNE CIŚNIENIE WYROBU AEROZOLOWEGO O POJEMNIKU SZKLANYM Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM MAKSYMALNE W INNY CIŚNIENIE SPOSÓB, WYROBU NAPEŁNIONYM AEROZOLOWEGO GAZEM O POJEMNIKU SKROPLONYM SZKLANYM LUB Z POWŁOKĄ OCHRONNĄ Z TWORZYWA SZTUCZNEGO LUB TRWALE CHRONIONYM W INNY SPOSÓB, NAPEŁNIONYM MIESZANINĄ GAZEM GAZÓW SKROPLONYM SKROPLONYCH LUB MIESZANINĄ NIE MOŻE GAZÓW W TEMPERATURZE SKROPLONYCH NIE 20°C MOŻE W TEMPERATURZE 20°C PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: PRZEKROCZYĆ WARTOŚCI OKREŚLONYCH W TABELI: Zawartość gazu skroplonego w całości mieszaniny, Pojemność całkowita w procentach masowych 20% 50% 80% od 50 do 80 ml 3,5 bar 2,8 bar 2,5 bar powyżej 80 do 160 ml 3,2 bar 2,5 bar 2,2 bar powyżej 160 do 220 ml 2,8 bar 2,1 bar 1,8 bar Wartość ciśnienia dla zawartości procentowej gazu nieprzedstawionej w powyższej tabeli należy określić metodą ekstrapolacji.
 

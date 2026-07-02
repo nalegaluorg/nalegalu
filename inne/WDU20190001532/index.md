@@ -604,5 +604,7 @@ source: pdf
 
 **Art. 37.** Plan finansowy Funduszu na rok 2020 sporządza się w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 19 lipca 2019 (Dz. U. z 2024 r. poz. 1215) Załącznik
+**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 19 lipca 2019 (Dz. U. z 2024 r. poz. 1215) Załącznik
 

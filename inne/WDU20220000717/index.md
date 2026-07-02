@@ -29,7 +29,9 @@ zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania pol
 § 1. W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z 2010 r. poz. 1250, z 2011 r. poz. 1548, z 2013 r. poz. 889, z 2017 r. poz. 1485 oraz z 2019 r. poz. 1782) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
 Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załączniki do rozporządzenia Ministra Klimatu i Środowiska załącznik nr 1 z dnia 29 marca 2022 r. (poz. …….) Załącznik nr 1 WZÓR WZÓR UPOWAŻNIENIA UPOWAŻNIENIA DO DO WYKONYWANIA WYKONYWANIA POLOWANIA POLOWANIA INDYWIDUALNEGO INDYWIDUALNEGO
+
+## Załącznik nr 1 — z dnia 29 marca 2022 r. (poz. …….) Załącznik nr 1 WZÓR WZÓR UPOWAŻNIENIA UPOWAŻNIENIA DO DO WYKONYWANIA WYKONYWANIA POLOWANIA POLOWANIA INDYWIDUALNEGO INDYWIDUALNEGO
+
 8. Sprawozdanie z polowania indywidualnego
 8. Lp. Sprawozdanie z pkt 4.1 i IGO z polowania Gatunek indywidualnego / liczba sztuk Data, godzina oraz miejsce pozyskania Opis formy poroża Lp. z pkt 4.1 i IGO Gatunek / liczba sztuk Data, godzina oraz miejsce pozyskania Opis formy poroża Objaśnienia: Niepotrzebne skreślić.
 W przypadku pozyskania zwierzyny albo inwazyjnego gatunku obcego (IGO stwarzającego zagrożenie dla Unii lub IGO stwarzającego Objaśnienia: zagrożenie dla Polski) wypełnić niezwłocznie po zakończeniu polowania, a w przypadku zwierzyny grubej – przed podjęciem Niepotrzebne czynności transportowych. skreślić.

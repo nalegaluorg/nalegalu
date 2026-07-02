@@ -70,7 +70,9 @@ b) utracie lub podejrzeniu ujawnienia danych służących do składania podpisu 
 § 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 23 grudnia 2020 r.
 w sprawie miesięcznego dofinansowania do wynagrodzeń pracowników niepełnosprawnych (Dz. U. z 2021 r. poz. 1), które utraciło moc z dniem 1 lipca 2024 r.
-Załączniki do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 31 lipca 2024 r. (poz. 1191) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR INF-D-P Miesięczna informacja o wynagrodzeniach, zatrudnieniu, stopniach i rodzaju niepełnosprawności pracowników niepełnosprawnych A. Dane ewidencyjne i adres pracownika 1. Numer pracodawcy w rejestrze PFRON 2. PESEL
+
+## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR INF-D-P Miesięczna informacja o wynagrodzeniach, zatrudnieniu, stopniach i rodzaju niepełnosprawności pracowników niepełnosprawnych A. Dane ewidencyjne i adres pracownika 1. Numer pracodawcy w rejestrze PFRON 2. PESEL
+
 3. Numer dowodu osobistego 4. NIP 5. Nazwisko
 6. Pierwsze imię 7. Drugie imię
 8. Województwo 9. Powiat

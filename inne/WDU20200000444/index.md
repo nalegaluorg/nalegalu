@@ -83,7 +83,9 @@ c) pobrania próbek – stanowiący załącznik nr 5 do rozporządzenia,
 d) pobrania próbek chmielu w ramach procedury jego certyfikacji – stanowiący załącznik nr 6 do rozporządzenia,
 e) ustalenia klas jakości świeżych owoców i warzyw – stanowiący załącznik nr 7 do rozporządzenia.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsiz dnia 18 marca2016 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsiz dnia 18 marca2016 r. (poz.
+
 .........) Załącznik nr1 WZÓR ZAŚWIADCZENIA OWPISANIU DO REJESTRU RZECZOZNAWCÓW WZÓR ZAŚWIADCZENIA O WPISANIU DO REJESTRU RZECZOZNAWCÓW awers rewers awers rewers Zaświadczenie jest ważne z dowodem tożsamości seria ........................................................
 ZAŚWIADCZENIE NR ...........................
 numer ......................................................

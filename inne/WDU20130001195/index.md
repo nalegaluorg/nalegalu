@@ -53,7 +53,9 @@ w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odzn
 § 9. W razie zgubienia lub zniszczenia odznaki albo legitymacji stwierdzającej jej nadanie, wydaje się wtórny egzemplarz za zwrotem kosztów.
 § 10. Koszty związane z nadaniem odznaki pokrywane są z budżetu państwa w części dotyczącej Straży Granicznej.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r.
+
 WZÓR WZÓR WNIOSEK O NADANIE „ODZNAKI STRAŻY GRANICZNEJ”
 1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIONA
 4. Data urodzenia 5. Miejscowość urodzenia 6. Imię ojca ……………. ……………. …………….

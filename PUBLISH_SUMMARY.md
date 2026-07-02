@@ -1,14 +1,14 @@
 # Publish Summary
 
-Generated: 2026-07-02 13:18 UTC
+Generated: 2026-07-02 15:36 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 18708 |
-| Updated/new | 1565 |
-| Unchanged | 10006 |
+| Updated/new | 168 |
+| Unchanged | 11406 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 6622 |
 | Blocked by quality gate | 670 |
@@ -21,8 +21,8 @@ Generated: 2026-07-02 13:18 UTC
 |--------|----------|---------|-------|
 | Published | 18710 | 18708 | -2 |
 | Rejected | 396 | 397 | +1 |
-| Articles | 210865 | 209638 | -1227 |
-| Body chars | 570,706,891 | 570,353,369 | -353522 |
+| Articles | 210865 | 209681 | -1184 |
+| Body chars | 570,706,891 | 570,475,140 | -231751 |
 
 ## Quality gate breakdown
 
@@ -44,9 +44,9 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Metric | Count |
 |--------|------:|
-| Checked candidates | 703 |
-| Candidates with unexplained gaps | 473 |
-| Unexplained numeric article gaps | 10815 |
+| Checked candidates | 706 |
+| Candidates with unexplained gaps | 476 |
+| Unexplained numeric article gaps | 10852 |
 
 | Address | Highest Art. | Gap count | Sample gaps | Title |
 |---------|-------------:|----------:|-------------|-------|
@@ -130,7 +130,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | O | 11999 |
 | T | 5197 |
-| U | 1657 |
+| U | 1660 |
 | unknown | 10 |
 
 ## Unified text candidate PDF type breakdown
@@ -139,7 +139,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | O | 5047 |
 | T | 1192 |
-| U | 845 |
+| U | 847 |
 | unknown | 3 |
 
 ## Source downgrade skips
@@ -147,12 +147,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | Issue | Count |
 |-------|------:|
 | Original PDF candidate for unified act | 4941 |
-
-## Newly rejected (1)
-
-| Address | Reason |
-|---------|--------|
-| WDU20130001441 | omitted-provisions quotation ran into the next item ('4) § 2 |
 
 ## Blocked acts (670)
 
@@ -180,7 +174,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19710120115 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19710160156 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19710270252 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in AST: 2 |
-| WDU19740240141 | rendered round-trip failed: AST=480 rendered=480 empty_articles=1 FAIL |
+| WDU19740240141 | rendered round-trip failed: AST=481 rendered=481 empty_articles=1 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; low similarity: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; missing child markers: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem |
 | WDU19740240142 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110081 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -822,7 +816,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001936 | excessive repetition — 'Wyjaśnienia do PKD 2025' appears 51 times (likely PDF header/footer) |
 | WDU20240001953 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20250000277 | rendered round-trip failed: AST=480 rendered=480 empty_articles=1 FAIL |
+| WDU20250000277 | rendered round-trip failed: AST=481 rendered=481 empty_articles=1 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; low similarity: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; missing child markers: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem |
 | WDU20250001753 | omitted-provisions quotation ran into the next item ('4) art. 28 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o') without a confirmed close — closing quote was likely lost |
 | WDU20260000021 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
 | WDU20260000377 | rendered round-trip failed: AST=30 rendered=30 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 5; low similarity: 5 |

@@ -94,7 +94,9 @@ b) ewidencji uprawnionych psychologów – wynosi 40 zł.
 2. Orzeczenia psychologiczne wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
 § 15. Pracownie psychologiczne, w których prowadzone są badania psychologiczne w zakresie psychologii transportu, mają obowiązek dostosować działalność do wymagań określonych w rozporządzeniu do dnia 31 grudnia 2015 r.
 § 16. Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r.
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 lipca 2014 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 lipca 2014 r.
+
 WZÓR Załącznik nr 1 WZÓR …………………………………………… ORZECZENIE PSYCHOLOGICZNE NR ...
 W wyniku badania psychologicznego przeprowadzonego na podstawie:
 a) art. 82 ust. 1 pkt 1 lit. a/ lit. b/ lit. c/ pkt 2/ pkt 3/ pkt 4 lit. a/ lit. b/ lit. c/ pkt 5** ,

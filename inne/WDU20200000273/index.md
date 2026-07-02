@@ -69,7 +69,8 @@ b) rejestru napiwków w kasynie gry;
 2. Podmioty prowadzące działalność w zakresie gier hazardowych są obowiązane do uzupełnienia wpisów do ksiąg, o których mowa w § 5‒7, za okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, w oparciu o posiadane dokumenty.
 3. Podmioty prowadzące działalność w zakresie gier hazardowych są obowiązane dostosować prowadzoną w dniu wejścia w życie rozporządzenia dokumentację, która nie jest zarejestrowana i zabezpieczona urzędowo pieczęciami przez właściwego naczelnika urzędu celnego, do wymogu określonego w § 4, w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 12. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Finansów z dnia 4 stycznia 2010 r.
+
+## Załączniki do rozporządzenia Ministra Finansów z dnia 4 stycznia 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR .............................................................
 

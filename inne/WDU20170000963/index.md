@@ -54,7 +54,9 @@ w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w sy
 § 9. Umowa spółki zawarta przy wykorzystaniu wzorca umowy podlega zmianom w zakresie postanowień przewidzianych we wzorcu określonym w załączniku nr 2, w tym również w zakresie możliwości wyboru innego wariantu postanowienia umownego, z wyjątkiem postanowień § 1 i § 13 ust. 2 wzorca umowy.
 § 10. Po podpisaniu dokumentu sporządzonego przy wykorzystaniu wzorca, w dokumencie pochodzącym z systemu teleinformatycznego umieszczana jest informacja o osobie podpisującej wraz z oznaczeniem rodzaju podpisu.
 § 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem § 1 ust. 1 pkt 2, 6 i 7 oraz § 9, które wchodzą w życie z dniem 1 kwietnia 2016 r.
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. (poz.
+
 …) Załącznik nr 1 WZORZEC WZORZEC UMOWY UMOWY SPÓŁKI SPÓŁKI JAWNEJ JAWNEJ Umowa spółki jawnej z dnia …….
 § 1 Stawający:
 1) ………………………………………………………………………………………………………...,

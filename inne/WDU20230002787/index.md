@@ -381,7 +381,31 @@ poz. 103, z późn. zm. ), mogą ubiegać się o zaliczenie zajęć lub części
 § 47. 1. Jeżeli w uczelni postawionej w stan likwidacji przed dniem wejścia w życie rozporządzenia, która prowadziła studia przed dniem 1 października 2011 r., w teczkach akt osobowych studentów znajdują się nieodebrane oryginały świadectw dojrzałości lub dyplomów ukończenia studiów złożonych przez kandydatów na studia drugiego stopnia, likwidator albo założyciel uczelni niepublicznej powiadamia właścicieli tych dokumentów o możliwości ich odbioru, wyznaczając w tym celu termin.
 2. Nieodebrane oryginały dokumentów, o których mowa w ust. 1, przechowuje się w teczkach akt osobowych studentów.
 § 48. Rozporządzenie wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem § 8 ust. 1 pkt 9 i 10 i ust. 2 pkt 1, które wchodzą w życie z dniem 1 października 2019 r.
-Załączniki do rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik nr 1 WZÓR LEGITYMACJI STUDENCKIEJ I. Elektroniczna legitymacja WZÓR studencka LEGITYMACJI STUDENCKIEJ I. Elektroniczna legitymacja studencka Opis:
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Program studiów
+
+#### Rozdział 3 Kierunki studiów prowadzone jako jednolite studia magisterskie
+
+#### Rozdział 4 Wniosek o pozwolenie na utworzenie studiów
+
+#### Rozdział 5 Kształcenie na odległość
+
+#### Rozdział 6 Dokumentacja przebiegu studiów
+
+#### Rozdział 7 Tytuły zawodowe równorzędne tytułom licencjata i inżyniera oraz tytułom magistra i magistra inżyniera
+
+#### Rozdział 8 Niezbędne elementy dyplomu ukończenia studiów i dyplomu wspólnego oraz wzór suplementu do dyplomu
+
+#### Rozdział 9 Opłaty za wydanie oraz za uwierzytelnianie dokumentów
+
+#### Rozdział 10 Wysokość opłaty za przeprowadzenie rekrutacji
+
+#### Rozdział 11 Przepis epizodyczny, przepisy przejściowe i dostosowujące oraz przepis końcowy
+
+## Załącznik nr 1 — WZÓR LEGITYMACJI STUDENCKIEJ I. Elektroniczna legitymacja WZÓR studencka LEGITYMACJI STUDENCKIEJ I. Elektroniczna legitymacja studencka Opis:
+
 1. Opis: Elektroniczna legitymacja studencka jest elektroniczną kartą procesorową z interfejsem stykowym określonym w normach ISO/IEC 7816-2 i ISO/IEC 7816-3. Elektroniczna legitymacja studencka może zawierać również inne interfejsy,
 1. w tym Elektroniczna interfejs bezstykowy. legitymacja studencka jest elektroniczną kartą procesorową z interfejsem
 2. Blankiet stykowym elektronicznej określonym legitymacji w studenckiej normach jest ISO/IEC wykonany 7816-2 z materiału i laminowanego ISO/IEC 7816-3. o wymiarach Elektroniczna i właściwościach fizycznych legitymacja zgodnych studencka z wymaganiami może dla kart zawierać identyfikacyjnych również formatu inne ID-1 interfejsy, określonymi w w normie tym interfejs ISO/IEC 7810, a jego bezstykowy. właściwości i odporność muszą być potwierdzone badaniami przeprowadzonymi zgodnie z wieloczęściową
@@ -453,28 +477,6 @@ OPIS HOLOGRAMU
 3. Dodatkowe zabezpieczenia w matrycy:
 1) hologram o minimalnej gęstości optycznej 254000 DPI z nanotekstami;
 2) matryca w technologii e-beam lub równoważnej.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Program studiów
-
-#### Rozdział 3 Kierunki studiów prowadzone jako jednolite studia magisterskie
-
-#### Rozdział 4 Wniosek o pozwolenie na utworzenie studiów
-
-#### Rozdział 5 Kształcenie na odległość
-
-#### Rozdział 6 Dokumentacja przebiegu studiów
-
-#### Rozdział 7 Tytuły zawodowe równorzędne tytułom licencjata i inżyniera oraz tytułom magistra i magistra inżyniera
-
-#### Rozdział 8 Niezbędne elementy dyplomu ukończenia studiów i dyplomu wspólnego oraz wzór suplementu do dyplomu
-
-#### Rozdział 9 Opłaty za wydanie oraz za uwierzytelnianie dokumentów
-
-#### Rozdział 10 Wysokość opłaty za przeprowadzenie rekrutacji
-
-#### Rozdział 11 Przepis epizodyczny, przepisy przejściowe i dostosowujące oraz przepis końcowy
 
 ## Załącznik nr 3 — Załącznik nr 3 WZÓR WZÓR WZÓR (NAZWA UCZELNI) (NAZWA UCZELNI) SUPLEMENT DO DYPLOMU SUPLEMENT DO DYPLOMU ważny z dyplomem nr … ważny z dyplomem nr …
 

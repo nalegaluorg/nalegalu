@@ -49,7 +49,8 @@ w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzie
 § 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 do rozporządzenia.
 2. Orzeczenie lekarskie wydaje się w trzech egzemplarzach, z których jeden otrzymuje nauczyciel akademicki, drugi rektor, który skierował nauczyciela akademickiego na badanie lekarskie, a trzeci jest dołączany do dokumentacji medycznej nauczyciela akademickiego.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia września 2018 r.
+
+## Załączniki do rozporządzenia września 2018 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ............................................ ................................
 

@@ -127,7 +127,6 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 § 26. Podstawowa jednostka służby medycyny pracy Służby Więziennej przesyła informację o podejrzeniu, rozpoznaniu i stwierdzeniu związku poszczególnych chorób ze służbą do Dyrektora Generalnego, sporządzoną według wzoru stanowiącego załącznik nr 8 do rozporządzenia.
 § 27. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się dotychczasowe przepisy.
 § 28. Rozporządzenie wchodzi w życie z dniem 13 sierpnia 2010 r.
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -136,6 +135,8 @@ Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r
 #### Rozdział 3 Ustalanie okoliczności i przyczyny chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR .............................................................
 

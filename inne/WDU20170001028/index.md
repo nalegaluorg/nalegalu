@@ -85,7 +85,9 @@ poz. 1412 oraz z 2016 r. poz. 1165 i 2003) zarządza się, co następuje:
 5. O sposobie postępowania z próbką, próbką kontrolną albo ich pozostałościami, które utraciły użyteczność, decyduje kontrolowany.
 6. Jeżeli kontrolowany odmawia przyjęcia podlegającej zwrotowi próbki, próbki kontrolnej albo ich pozostałości, które utraciły użyteczność, bądź ich zwrot jest niemożliwy z innych przyczyn, podlegają one komisyjnemu zniszczeniu.
 § 13. Rozporządzenie wchodzi w życie z dniem 9 kwietnia 2012 r.
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 4 kwietnia 2012 r. (poz. 379) Załącznik nr 1 WZÓR WZÓR Protokół pobrania próbki nr …….
+
+## Załącznik nr 1 — WZÓR WZÓR Protokół pobrania próbki nr …….
+
 .................................................
 Formularz kontroli sanitarnej nr ...................................... z dnia ……...…......................................
 W dniu ......................................... r. w ...............................................................................................

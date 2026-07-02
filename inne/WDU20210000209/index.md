@@ -81,7 +81,8 @@ w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Age
 § 16. 1. Legitymacje wydane funkcjonariuszom Urzędu Ochrony Państwa tracą ważność i podlegają zwrotowi organowi, o którym mowa w § 4 ust. 1.
 2. Książki zdrowia wydane funkcjonariuszom Urzędu Ochrony Państwa, do czasu zastąpienia ich nowymi, zachowują ważność. Obowiązujące dotychczas druki książek zdrowia wykorzystuje się do wyczerpania ich zapasów.
 § 17. Rozporządzenie wchodzi w życie z dniem 29 czerwca 2002 r.
-Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r.
+
+## Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r.
 
 ## Załącznik nr 1 — WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA AGENCJI WYWIADU I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym, ze srebrnymi tłoczeniami:
 

@@ -133,7 +133,21 @@ Tablica 1 – Barwa w warunkach dziennych Współrzędne trójchromatyczne punkt
 3. Za wydanie dwóch profesjonalnych tablic rejestracyjnych dla pojazdu, o którym mowa w § 33 ust. 2 rozporządzenia o rejestracji pojazdów, starosta odpowiednio pobiera dwukrotność opłaty określonej w ust. 1 pkt 2 albo 3.
 § 27. Za wydanie znaku legalizacyjnego (nalepek legalizacyjnych) na profesjonalne tablice rejestracyjne starosta pobiera opłatę w wysokości – 12,50 zł.
 § 28. Rozporządzenie wchodzi w życie z dniem 11 lipca 2019 r.
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia 12 marca 2019 r. (Dz. U z 2023 r. poz. ) Załącznik nr 1 WZÓR WNIOSKU O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW WZÓR WNIOSKU O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW (format A4) (format A4) WNIOSEK O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW ......................................................... ...........................................................
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów oraz wzory dokumentów, o których mowa w § 1 ust. 1 pkt 2
+
+#### Rozdział 3 Wzór i opis blankietu profesjonalnego dowodu rejestracyjnego oraz zakres wypełniania blankietu profesjonalnego dowodu rejestracyjnego przez starostę i przez podmiot uprawniony
+
+#### Rozdział 4 Wzór i opis profesjonalnych tablic rejestracyjnych, warunki techniczne, jakie muszą spełniać te tablice, oraz zakres i sposób ich badania
+
+#### Rozdział 5 Warunki i sposób dystrybucji blankietów profesjonalnych dowodów rejestracyjnych
+
+#### Rozdział 6 Wysokość opłat za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietu profesjonalnego dowodu rejestracyjnego, profesjonalnych tablic rejestracyjnych oraz znaku legalizacyjnego
+
+## Załącznik nr 1 — WZÓR WNIOSKU O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW WZÓR WNIOSKU O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW (format A4) (format A4) WNIOSEK O WYDANIE DECYZJI O PROFESJONALNEJ REJESTRACJI POJAZDÓW ......................................................... ...........................................................
+
 .........................................................
 .........................................................
 ......................................................... ............................................................
@@ -147,18 +161,6 @@ Do wniosku dołączam następujące dokumenty: Wnoszę o wydanie:
 Wnoszę na podstawie art. 80v ust. 3 ww. ustawy o ujęcie w nowej decyzji o profesjonalnej rejestracji pojazdów niewykorzystanych blankietów profesjonalnych dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych .
 Wnoszę o ponowne wydanie na podstawie art. 80y ust. 2 ww. ustawy zwróconych niewykorzystanych blankietów profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych .
 _______________ ..............................................
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów oraz wzory dokumentów, o których mowa w § 1 ust. 1 pkt 2
-
-#### Rozdział 3 Wzór i opis blankietu profesjonalnego dowodu rejestracyjnego oraz zakres wypełniania blankietu profesjonalnego dowodu rejestracyjnego przez starostę i przez podmiot uprawniony
-
-#### Rozdział 4 Wzór i opis profesjonalnych tablic rejestracyjnych, warunki techniczne, jakie muszą spełniać te tablice, oraz zakres i sposób ich badania
-
-#### Rozdział 5 Warunki i sposób dystrybucji blankietów profesjonalnych dowodów rejestracyjnych
-
-#### Rozdział 6 Wysokość opłat za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietu profesjonalnego dowodu rejestracyjnego, profesjonalnych tablic rejestracyjnych oraz znaku legalizacyjnego
 
 ## Załącznik nr 2 — WZÓR WZÓR OŚWIADCZEŃ, OŚWIADCZEŃ, O O KTÓRYCH KTÓRYCH MOWA MOWA W W ART. ART. 80T 80T UST. UST. 3 3 PKT PKT 3 3 USTAWY USTAWY Z Z DNIA DNIA 20 20 CZERWCA CZERWCA 1997 1997 R. R. – – PRAWO PRAWO O O RUCHU RUCHU DROGOWYM DROGOWYM (format A4) (format A4) OŚWIADCZENIE Ja, niżej podpisany(-na) ............................................................................................................................................................... , zamieszkały(-ła) ............................................................................................................................................................... , legitymujący(-ca) się dowodem osobistym seria i nr: .......................................................................... , wydanym przez ............................................................................................................................................................... , świadomy(-ma) odpowiedzialności karnej wynikającej z art. 233 § 1 Kodeksu karnego za składanie fałszywych oświadczeń, oświadczam, że: – nie byłem(-łam) prawomocnie skazany(-na) za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów, – każdy z pojazdów, którymi będą wykonywane jazdy testowe, będzie spełniał warunki określone w art. 66 ustawy, odpowiednie dla tego pojazdu, – będą używane w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego tylko pojazdy niezarejestrowane wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą, dla których podmiot uprawniony posiada udokumentowane prawo do dysponowania nimi, oraz wyłącznie w celu wykonywania jazd testowych, – blankiety profesjonalnego dowodu rejestracyjnego będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.
 
