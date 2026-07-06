@@ -1,7 +1,7 @@
 # Test Results
 
 **Status:** PASSED
-**Run:** 2026-07-06 22:45 UTC
+**Run:** 2026-07-06 23:09 UTC
 **Scope:** unit
 **Total:** 380 tests — 380 passed, 0 failed, 0 errors, 33 skipped
 
@@ -489,5 +489,5 @@ tests/test_top_referenced_acts.py::test_parse_in_force_from_public_index_table P
 tests/test_top_referenced_acts.py::test_parse_reference_count_accepts_spaces_and_commas PASSED [ 99%]
 tests/test_top_referenced_acts.py::test_collect_referenced_acts_filters_in_force_and_sorts PASSED [100%]
 
-======================= 380 passed, 33 skipped in 0.35s ========================
+======================= 380 passed, 33 skipped in 0.42s ========================
 ```
