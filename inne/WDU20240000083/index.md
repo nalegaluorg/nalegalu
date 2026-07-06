@@ -139,7 +139,7 @@ c) badania przesiewowe mowy, z wyszczególnieniem badań wykonywanych za pomocą
 8) opinia w sprawie udzielenia zezwolenia na indywidualny program lub tok nauki;
 9) opinia w sprawie przyjęcia ucznia szkoły podstawowej do oddziału przysposabiającego do pracy;
 10) opinia w sprawie pierwszeństwa w przyjęciu do szkoły ponadpodstawowej ucznia z problemami zdrowotnymi ograniczającymi możliwości wyboru kierunku kształcenia ze względu na stan zdrowia;
-11) opinia, o której mowa w art. 191 § 2 , § 2 pkt 2 albo § 2 Kodeksu pracy;
+11) opinia, o której mowa w art. 191 § 2 4 , § 2 pkt 2 albo § 2 Kodeksu pracy;
 12) opinia w sprawie braku przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych, o której mowa w art. 304 § 4 pkt 2 Kodeksu pracy;
 13) opinia w sprawie objęcia dziecka pomocą psychologiczno-pedagogiczną w przedszkolu, szkole lub placówce oświatowej;
 14) inna opinia związana z kształceniem i wychowaniem dziecka.

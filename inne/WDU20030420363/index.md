@@ -165,7 +165,7 @@ source: pdf
 
 25. ”;
 
-- **6)** po art. 36 dodaje się art. 36 , art. 36 oraz art. 36 w brzmieniu: „Art. 36 . 1. Dla prowadzenia ksiąg wieczystych w systemie informatycznym, o którym mowa w art. 25 , Minister Sprawiedliwości tworzy i utrzymuje centralną bazę danych ksiąg wieczystych, stanowiącą ogólnokrajowy zbiór ksiąg wieczystych prowadzonych w tym systemie.
+- **6)** po art. 36 dodaje się art. 36 3 , art. 36 oraz art. 36 w brzmieniu: „Art. 36 . 1. Dla prowadzenia ksiąg wieczystych w systemie informatycznym, o którym mowa w art. 25 1 , Minister Sprawiedliwości tworzy i utrzymuje centralną bazę danych ksiąg wieczystych, stanowiącą ogólnokrajowy zbiór ksiąg wieczystych prowadzonych w tym systemie.
 
 2. Minister Sprawiedliwości zapewni bezpieczeństwo centralnej bazy danych ksiąg wieczystych, w szczególności ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych.
 
@@ -175,7 +175,7 @@ source: pdf
 
 1. Wprowadzając system informatyczny, o którym mowa w art. 25 , Minister Sprawiedliwości utworzy, w drodze rozporządzenia, Centralną Informację Ksiąg Wieczystych, zwaną dalej „Centralną Informacją”, z ekspozyturami przy wydziałach sądów rejonowych prowadzących księgi wieczyste w systemie informatycznym. Rozporządzenie powinno uwzględniać w szczególności zasady funkcjonowania Centralnej Informacji, jej strukturę organizacyjną oraz tryb i rodzaje dokumentów przez nią wydawanych, mając na uwadze szybkość i powszechność dostępu do ksiąg wieczystych oraz zachowanie zasady jawności ksiąg wieczystych.
 
-2. Centralna Informacja wydaje na wniosek odpisy ksiąg wieczystych prowadzonych w systemie informatycznym, o którym mowa w art. 25 , oraz zaświadczenia o zamknięciu księgi wieczystej.
+2. Centralna Informacja wydaje na wniosek odpisy ksiąg wieczystych prowadzonych w systemie informatycznym, o którym mowa w art. 25 1 , oraz zaświadczenia o zamknięciu księgi wieczystej.
 
 3. Minister Sprawiedliwości określa, w drodze rozporządzenia, wzór wniosku o wydanie dokumentów, o których mowa w ust. 2.
 

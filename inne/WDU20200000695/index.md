@@ -471,6 +471,6 @@ source: pdf
 - **4)** art. 73 pkt 45, który wchodzi w życie z mocą od dnia 13 kwietnia 2020 r.;
 - **5)** art. 73 pkt 57 w zakresie dodawanego art. 15zzzzm – który wchodzi w życie z mocą od dnia 12 marca 2020 r.;
 - **6)** art. 73 pkt 20, 38, 39 i 41, które wchodzą w życie z mocą od dnia 1 kwietnia 2020 r.;
-- **7)** art. 73 pkt 68 w zakresie dodawanego art. 31zy – który wchodzi w życie z mocą od dnia 14 marca 2020 r.
+- **7)** art. 73 pkt 68 w zakresie dodawanego art. 31zy 6 – który wchodzi w życie z mocą od dnia 14 marca 2020 r.
 
 

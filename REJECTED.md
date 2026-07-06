@@ -46,7 +46,7 @@ Acts excluded from publication due to quality issues. Total: 397
 | WDU19971020642 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19971110726 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19980460293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19981060668 | rendered round-trip failed: AST=142 rendered=142 dup_rendered=6 low_sim=6 word_l |
+| WDU19981060668 | rendered round-trip failed: AST=157 rendered=157 dup_rendered=8 low_sim=8 word_l |
 | WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-02T16:39:18Z",
+  "generated_at": "2026-07-06T07:10:41Z",
   "acts": {
     "published": 18708,
     "rejected": 397,
     "total_in_db": 19676
   },
   "content": {
-    "total_body_chars": 570475140,
-    "total_articles": 209681,
-    "avg_body_chars": 30493,
+    "total_body_chars": 570516869,
+    "total_articles": 209690,
+    "avg_body_chars": 30495,
     "avg_articles": 11.2
   },
   "sources": {
@@ -59,11 +59,11 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 670,
+    "quality_gate_blocked": 667,
     "original_pdf_for_unified_skipped": 4941,
-    "consolidated_article_coverage_checked": 706,
-    "consolidated_article_coverage_with_gaps": 476,
-    "consolidated_article_coverage_unexplained_gaps": 10852,
+    "consolidated_article_coverage_checked": 708,
+    "consolidated_article_coverage_with_gaps": 477,
+    "consolidated_article_coverage_unexplained_gaps": 10889,
     "rejected_scans": 1,
     "rejected_other": 396
   }

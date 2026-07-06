@@ -178,7 +178,7 @@ source: pdf
 - **4)** w razie niewykonania lub nienależytego wykonania przez członka organu zarządzającego spółką umowy o zakazie konkurencji będzie on zobowiązany do zapłaty kary umownej na rzecz spółki, nie niższej niż wysokość odszkodowania przysługującego za cały okres zakazu konkurencji;
 - **5)** zakaz konkurencji przestaje obowiązywać przed upływem terminu, na jaki została zawarta umowa o zakazie konkurencji, w razie podjęcia się pełnienia przez członka organu zarządzającego funkcji w innej spółce.
 
-2. W sprawach określonych w ust. 1, przepisy art. 101 § 1 oraz art. 101 – 101 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320) stosuje się odpowiednio, przy czym odszkodowanie za każdy miesiąc, o którym mowa w tych przepisach, nie może być wyższe niż 100% wynagrodzenia miesięcznego podstawowego otrzymanego przez członka organu zarządzającego przed ustaniem pełnienia funkcji.
+2. W sprawach określonych w ust. 1, przepisy art. 101 § 1 oraz art. 101 2 – 101 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320) stosuje się odpowiednio, przy czym odszkodowanie za każdy miesiąc, o którym mowa w tych przepisach, nie może być wyższe niż 100% wynagrodzenia miesięcznego podstawowego otrzymanego przez członka organu zarządzającego przed ustaniem pełnienia funkcji.
 
 **Art. 9.**
 

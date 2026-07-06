@@ -97,8 +97,7 @@ source: pdf
 - **12)** informacjami na temat zarządzania prawami są informacje identyfikujące utwór, twórcę, podmiot praw autorskich lub informacje o warunkach eksploatacji utworu, o ile zostały one dołączone do egzemplarza utworu lub są przekazywane w związku z jego rozpowszechnianiem, w tym kody identyfikacyjne;
 - **13)** instytucją oświatową są jednostki organizacyjne, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562 i 1635), szkoły polskie, o których mowa w art. 4 pkt 29d tej ustawy, oraz szkoły podoficerskie, ośrodki szkolenia lub centra szkolenia, o których mowa w art. 91 ust. 1 pkt 1a–3 i ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585), a także Centralna Komisja Egzaminacyjna, o której mowa w art. 9a ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854 i
 - **1473)** , oraz okręgowe komisje egzaminacyjne, o których mowa w art. 9c ust. 1 tej ustawy;
-- **14)** organizacją zbiorowego zarządzania jest organizacja zbiorowego zarządzania, w rozumieniu art. 3 pkt 2 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. z 2024 r. poz.
-- **1665)** , zwanej dalej „ustawą o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi”;
+- **14)** organizacją zbiorowego zarządzania jest organizacja zbiorowego zarządzania, w rozumieniu art. 3 pkt 2 ustawy z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. z 2024 r. poz. 1665), zwanej dalej „ustawą o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi”;
 - **15)** umową o zbiorowe zarządzanie jest umowa, o której mowa w art. 29 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
 - **16)** umową o reprezentacji jest umowa w rozumieniu art. 3 pkt 9 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
 - **17)** właściwą organizacją zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi jest organizacja, która zbiorowo zarządza prawami uprawnionego na podstawie umowy o zbiorowe zarządzanie lub umowy o reprezentacji, a gdy uprawniony nie zawarł umowy z żadną organizacją – organizacja reprezentatywna dla danego rodzaju utworów lub przedmiotów praw pokrewnych i kategorii uprawnionych na danym polu eksploatacji w rozumieniu ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi;
@@ -230,7 +229,7 @@ source: pdf
 
 2. Po śmierci twórcy, spadkobiercy mogą sprzeciwić się egzekucji z prawa autorskiego do utworu nieopublikowanego, chyba że sprzeciw byłby niezgodny z ujawnioną wolą twórcy co do rozpowszechniania utworu.
 
-3. Prawo do wynagrodzenia, o którym mowa w art. 19 ust. 1, art. 19 , art. 20 ust. 2–4, art. 20 , art. 21 , art. 70 ust. 2 i art. 86 , nie podlega zrzeczeniu się, zbyciu ani egzekucji. Nie dotyczy to wymagalnych wierzytelności.
+3. Prawo do wynagrodzenia, o którym mowa w art. 19 ust. 1, art. 19 1 , art. 20 ust. 2–4, art. 20 1 , art. 21 4 , art. 70 ust. 2 i art. 86 1 , nie podlega zrzeczeniu się, zbyciu ani egzekucji. Nie dotyczy to wymagalnych wierzytelności.
 
 4. Prawo do wynagrodzenia, o którym mowa w art. 28 ust. 4, przysługujące podmiotom, o których mowa w art. 28 ust. 5 pkt 1–3, nie podlega zbyciu ani egzekucji. Nie dotyczy to wymagalnych wierzytelności.
 
@@ -261,11 +260,11 @@ source: pdf
 
 **Art. 19³.**
 
-1. Do zapłaty wynagrodzenia, o którym mowa w art. 19 ust. 1 i art. 19 , jest obowiązany sprzedawca, o którym mowa w art. 19 ust. 2, a gdy działa na rzecz osoby trzeciej, zawodowo zajmującej się handlem dziełami sztuki lub rękopisami utworów literackich i muzycznych, odpowiada z nią solidarnie.
+1. Do zapłaty wynagrodzenia, o którym mowa w art. 19 ust. 1 i art. 19 1 , jest obowiązany sprzedawca, o którym mowa w art. 19 ust. 2, a gdy działa na rzecz osoby trzeciej, zawodowo zajmującej się handlem dziełami sztuki lub rękopisami utworów literackich i muzycznych, odpowiada z nią solidarnie.
 
 2. Sprzedawca jest obowiązany do ujawnienia osoby trzeciej, o której mowa w ust. 1. Z obowiązku tego może się zwolnić płacąc należne wynagrodzenie.
 
-3. Twórca utworu, o którym mowa w art. 19 ust. 1 i art. 19 , oraz jego spadkobiercy mogą domagać się od osób wymienionych w ust. 1 udzielenia informacji oraz udostępnienia dokumentów niezbędnych do określenia należnego wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza lub rękopisu utworu przez okres 3 lat od dnia dokonania odsprzedaży.
+3. Twórca utworu, o którym mowa w art. 19 ust. 1 i art. 19 1 , oraz jego spadkobiercy mogą domagać się od osób wymienionych w ust. 1 udzielenia informacji oraz udostępnienia dokumentów niezbędnych do określenia należnego wynagrodzenia z tytułu odsprzedaży oryginalnego egzemplarza lub rękopisu utworu przez okres 3 lat od dnia dokonania odsprzedaży.
 
 **Art. 19⁴.** Ceny sprzedaży określone w art. 19 ust. 1 i art. 19 są cenami po odliczeniu podatku od towarów i usług należnego z tytułu dokonanej odsprzedaży oryginalnego egzemplarza lub rękopisu utworu.
 
@@ -372,7 +371,7 @@ source: pdf
 
 **Art. 22⁴.** Dostawca usług udostępniania treści online udostępnia uprawnionemu, na jego żądanie:
 
-- **1)** informacje na temat stosowanej przez niego praktyki w zakresie współpracy z uprawnionymi, o której mowa w art. 22 ;
+- **1)** informacje na temat stosowanej przez niego praktyki w zakresie współpracy z uprawnionymi, o której mowa w art. 22 3 ;
 - **2)** informacje na temat wykorzystywania utworów, co do których uzyskał zgodę uprawnionego na ich publiczne udostępnienie, niezbędne do określenia wysokości wynagrodzenia należnego uprawnionemu od dostawcy usług udostępniania treści online.
 
 **Art. 22⁵.**
@@ -389,13 +388,13 @@ source: pdf
 
 **Art. 22⁶.**
 
-1. Działania dostawcy usług udostępniania treści online oraz uprawnionego, o których mowa w art. 22 –22 , nie mogą prowadzić do identyfikacji indywidualnych usługobiorców ani do przetwarzania ich danych osobowych, chyba że przepisy odrębne stanowią inaczej.
+1. Działania dostawcy usług udostępniania treści online oraz uprawnionego, o których mowa w art. 22 1 –22 , nie mogą prowadzić do identyfikacji indywidualnych usługobiorców ani do przetwarzania ich danych osobowych, chyba że przepisy odrębne stanowią inaczej.
 
 2. Dostawca usług udostępniania treści online informuje usługobiorcę o warunkach korzystania ze swoich usług, w tym o możliwości korzystania z utworów na podstawie przepisów o dozwolonym użytku.
 
 **Art. 22⁷.** Przepisy niniejszego oddziału nie nakładają na dostawcę usług udostępniania treści online ogólnego obowiązku monitorowania, czy publiczne udostępnienie utworu zamieszczonego przez usługobiorcę następuje zgodnie z prawem.
 
-**Art. 22⁸.** Wyłączeń od odpowiedzialności za publiczne udostępnienie utworów bez zgody uprawnionego, o których mowa w art. 22 , nie stosuje się do dostawców usług udostępniania treści online, których głównym celem jest podejmowanie lub ułatwianie działań naruszających prawa autorskie.
+**Art. 22⁸.** Wyłączeń od odpowiedzialności za publiczne udostępnienie utworów bez zgody uprawnionego, o których mowa w art. 22 2 , nie stosuje się do dostawców usług udostępniania treści online, których głównym celem jest podejmowanie lub ułatwianie działań naruszających prawa autorskie.
 
 ##### Oddział 3 Dozwolony użytek chronionych utworów
 
@@ -677,7 +676,7 @@ source: pdf
 
 - **1)** utwory opublikowane w książkach, dziennikach, czasopismach lub innych formach publikacji drukiem,
 - **2)** utwory audiowizualne, a także utwory zamówione lub włączone do utworów audiowizualnych lub utrwalone na wideogramach, w zakresie korzystania z utworu audiowizualnego lub wideogramu jako całości,
-- **3)** utwory utrwalone na fonogramach – znajdujące się w zbiorach podmiotów, o których mowa w ust. 2, jeżeli uprawnieni, którym przysługują autorskie prawa majątkowe do tych utworów w zakresie pól eksploatacji wymienionych w ust. 2, nie zostali ustaleni lub odnalezieni pomimo przeprowadzenia poszukiwań, o których mowa w art. 35 .
+- **3)** utwory utrwalone na fonogramach – znajdujące się w zbiorach podmiotów, o których mowa w ust. 2, jeżeli uprawnieni, którym przysługują autorskie prawa majątkowe do tych utworów w zakresie pól eksploatacji wymienionych w ust. 2, nie zostali ustaleni lub odnalezieni pomimo przeprowadzenia poszukiwań, o których mowa w art. 35 6 .
 
 2. Archiwa, instytucje oświatowe, uczelnie, instytuty badawcze prowadzące działalność, o której mowa w art. 2 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, instytuty naukowe Polskiej Akademii Nauk prowadzące działalność, o której mowa w art. 50 ust. 4 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, biblioteki i muzea, a także instytucje kultury, których statutowym zadaniem jest gromadzenie, ochrona i upowszechnianie zbiorów dziedzictwa filmowego lub fonograficznego, oraz publiczne organizacje radiowe i telewizyjne mogą zwielokrotniać utwory osierocone opublikowane, a w przypadku braku publikacji – nadane po raz pierwszy na terytorium Unii Europejskiej lub Europejskiego Obszaru Gospodarczego oraz udostępniać je publicznie w taki sposób, aby każdy mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym.
 
@@ -685,7 +684,7 @@ source: pdf
 
 4. Wolno korzystać, zgodnie z ust. 2, także z utworów osieroconych, które nie zostały opublikowane albo nadane, jeżeli za zezwoleniem uprawnionych, którym przysługiwały autorskie prawa majątkowe do tych utworów w zakresie pól eksploatacji wymienionych w ust. 2, utwory te zostały publicznie udostępnione przez jeden z podmiotów wymienionych w ust. 2, o ile można zakładać, że uprawnieni nie sprzeciwiliby się takiemu korzystaniu.
 
-5. Jeżeli uprawnionych, którym przysługują autorskie prawa majątkowe do utworu osieroconego, w zakresie pól eksploatacji wymienionych w ust. 2, jest więcej niż jeden, utwór ten uważa się za osierocony w odniesieniu do praw uprawnionych, którzy nie zostali ustaleni lub odnalezieni mimo przeprowadzenia poszukiwań, o których mowa w art. 35 . Korzystanie z takiego utworu na podstawie ust. 2 jest dozwolone pod warunkiem uzyskania zgody pozostałych znanych i odnalezionych uprawnionych, którym przysługują autorskie prawa majątkowe do tego utworu w zakresie pól eksploatacji, o których mowa w ust. 2.
+5. Jeżeli uprawnionych, którym przysługują autorskie prawa majątkowe do utworu osieroconego, w zakresie pól eksploatacji wymienionych w ust. 2, jest więcej niż jeden, utwór ten uważa się za osierocony w odniesieniu do praw uprawnionych, którzy nie zostali ustaleni lub odnalezieni mimo przeprowadzenia poszukiwań, o których mowa w art. 35 6 . Korzystanie z takiego utworu na podstawie ust. 2 jest dozwolone pod warunkiem uzyskania zgody pozostałych znanych i odnalezionych uprawnionych, którym przysługują autorskie prawa majątkowe do tego utworu w zakresie pól eksploatacji, o których mowa w ust. 2.
 
 6. W przypadku publicznych organizacji radiowych i telewizyjnych przepisy niniejszego oddziału stosuje się do utworów, o których mowa w ust. 1 pkt 2 i 3, które zostały wytworzone przez te organizacje, na ich zamówienie lub zlecenie, albo w koprodukcji z nimi, przed dniem 1 stycznia 2003 r., w celu nabycia przez te organizacje praw wyłącznych.
 
@@ -724,7 +723,7 @@ source: pdf
 
 - **1)** wyników przeprowadzonych przez te podmioty starannych poszukiwań;
 - **2)** sposobów korzystania przez te podmioty z utworów osieroconych;
-- **3)** zmian statusu utworu osieroconego, zgodnie z art. 35 ;
+- **3)** zmian statusu utworu osieroconego, zgodnie z art. 35 8 ;
 - **4)** swoich danych kontaktowych.
 
 4. Wnioski i informacje, o których mowa w ust. 1 i 3, są przekazywane przy wykorzystaniu systemu teleinformatycznego służącego do obsługi bazy danych, o której mowa w ust. 1.
@@ -753,15 +752,15 @@ source: pdf
 
 2. Uznanie utworu za niedostępny w handlu może nastąpić nie wcześniej niż po upływie dwudziestu lat od daty pierwszego rozpowszechnienia tego utworu.
 
-**Art. 35¹².** W odniesieniu do zbioru utworów działania, o których mowa w art. 35 , mogą polegać na wyrywkowym badaniu dostępności w handlu wybranych utworów należących do zbioru, chyba że za badaniem dostępności poszczególnych utworów przemawia znaczące prawdopodobieństwo ich dostępności.
+**Art. 35¹².** W odniesieniu do zbioru utworów działania, o których mowa w art. 35 10 , mogą polegać na wyrywkowym badaniu dostępności w handlu wybranych utworów należących do zbioru, chyba że za badaniem dostępności poszczególnych utworów przemawia znaczące prawdopodobieństwo ich dostępności.
 
-**Art. 35¹³.** Jeżeli zachodzi prawdopodobieństwo, że pierwsze rozpowszechnienie utworu w danej wersji językowej miało miejsce na terytorium innego państwa, działania, o których mowa w art. 35 , polegają również na zbadaniu dostępności utworu w handlu w tym państwie.
+**Art. 35¹³.** Jeżeli zachodzi prawdopodobieństwo, że pierwsze rozpowszechnienie utworu w danej wersji językowej miało miejsce na terytorium innego państwa, działania, o których mowa w art. 35 10 , polegają również na zbadaniu dostępności utworu w handlu w tym państwie.
 
-**Art. 35¹⁴.** Przepisy oddziałów 6 i 6 nie mają zastosowania do zbioru utworów, co do którego w wyniku działań, o których mowa w art. 35 , stwierdzono, że składa się w głównej mierze z:
+**Art. 35¹⁴.** Przepisy oddziałów 6 i 6 nie mają zastosowania do zbioru utworów, co do którego w wyniku działań, o których mowa w art. 35 10 , stwierdzono, że składa się w głównej mierze z:
 
 - **1)** utworów audiowizualnych, których producenci mają siedzibę albo miejsce stałego pobytu w państwie innym niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strona umowy o Europejskim Obszarze Gospodarczym,
 - **2)** utworów innych niż utwory audiowizualne, opublikowanych po raz pierwszy albo – w przypadku braku publikacji – nadanych po raz pierwszy w państwie, o którym mowa w pkt 1,
-- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 35 , nie można było ustalić tego państwa zgodnie z pkt 1 i 2 – chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
+- **3)** utworów, do których autorskie prawa majątkowe przysługują obywatelom państwa, o którym mowa w pkt 1, jeżeli mimo podjęcia działań, o których mowa w art. 35 10 , nie można było ustalić tego państwa zgodnie z pkt 1 i 2 – chyba że istnieje organizacja zbiorowego zarządzania reprezentatywna w odniesieniu do utworów, pól eksploatacji oraz kategorii uprawnionych tego państwa.
 
 **Art. 35¹⁵.** Korzystanie, o którym mowa w art. 35 i art. 35 ust. 1, jest dozwolone, jeżeli nie odbywa się w celu osiągnięcia bezpośredniej lub pośredniej korzyści majątkowej. Instytucje dziedzictwa kulturowego mogą uzyskiwać przychody z takiego korzystania, o ile zostaną one przeznaczone na pokrycie bezpośrednich kosztów digitalizacji, rozpowszechniania utworów uznanych za niedostępne w handlu lub kosztów uzyskania licencji na korzystanie z tych utworów.
 
@@ -780,7 +779,7 @@ source: pdf
 
 1. Uprawniony może żądać powstrzymania się od korzystania, o którym mowa w art. 35 i art. 35 ust. 1, przy wykorzystaniu systemu teleinformatycznego służącego do obsługi portalu.
 
-2. Organizacja zbiorowego zarządzania, która otrzymała informację o złożeniu żądania przez uprawnionego, o którym mowa w ust. 1, zaprzestaje zawierania umów, o których mowa w art. 35 , oraz zamieszczania danych, o których mowa w art. 35 , w zakresie objętym tym żądaniem.
+2. Organizacja zbiorowego zarządzania, która otrzymała informację o złożeniu żądania przez uprawnionego, o którym mowa w ust. 1, zaprzestaje zawierania umów, o których mowa w art. 35 19 , oraz zamieszczania danych, o których mowa w art. 35 20 , w zakresie objętym tym żądaniem.
 
 3. Instytucja dziedzictwa kulturowego, która otrzymała informację o złożeniu żądania przez uprawnionego, o którym mowa w ust. 1:
 
@@ -798,7 +797,7 @@ source: pdf
 1. Instytucja dziedzictwa kulturowego korzystająca z utworu niedostępnego w handlu oraz organizacja zbiorowego zarządzania zawierająca umowę licencji niewyłącznej, o której mowa w art. 67 ust. 2, uprawniającą do takiego korzystania zamieszczają na swoich stronach internetowych:
 
 - **1)** odesłanie do strony internetowej portalu;
-- **2)** informację o dostępnych sposobach złożenia żądania, o którym mowa w art. 35 .
+- **2)** informację o dostępnych sposobach złożenia żądania, o którym mowa w art. 35 17 .
 
 2. Jeżeli pierwsze rozpowszechnienie utworu miało miejsce na terytorium innego państwa oraz zaistnieje konieczność zwiększenia świadomości uprawnionych w tym państwie w zakresie możliwości żądania powstrzymania się od korzystania, o którym mowa w art. 35 i art. 35 ust. 1, podmioty, o których mowa w ust. 1, podejmują dodatkowe działania informacyjne na terytorium tego państwa.
 
@@ -808,22 +807,22 @@ source: pdf
 
 **Art. 35²⁰.**
 
-1. Organizacja zbiorowego zarządzania zarejestrowana w portalu, przed rozpoczęciem korzystania z utworu niedostępnego w handlu i na sześć miesięcy przed jego rozpowszechnieniem na podstawie art. 35 , zamieszcza w tym portalu następujące dane:
+1. Organizacja zbiorowego zarządzania zarejestrowana w portalu, przed rozpoczęciem korzystania z utworu niedostępnego w handlu i na sześć miesięcy przed jego rozpowszechnieniem na podstawie art. 35 19 , zamieszcza w tym portalu następujące dane:
 
 - **1)** imię i nazwisko oraz pseudonim twórcy albo wzmiankę o anonimowości – o ile są dostępne;
-- **2)** imię i nazwisko albo nazwę uprawnionego, któremu w zakresie pól eksploatacji objętych umową licencji niewyłącznej, o której mowa w art. 35 , przysługują autorskie prawa majątkowe do utworu – o ile są dostępne;
+- **2)** imię i nazwisko albo nazwę uprawnionego, któremu w zakresie pól eksploatacji objętych umową licencji niewyłącznej, o której mowa w art. 35 19 , przysługują autorskie prawa majątkowe do utworu – o ile są dostępne;
 - **3)** tytuł utworu, a w przypadku jego braku – inne informacje umożliwiające jego identyfikację – o ile są dostępne;
 - **4)** imię i nazwisko albo nazwę producenta lub wydawcy utworu – o ile są dostępne;
-- **5)** informację o zakresie korzystania, do którego uprawnia umowa licencji niewyłącznej, o której mowa w art. 35 , zawarta z instytucją dziedzictwa kulturowego i objętych nią terytoriach;
-- **6)** nazwy, siedziby, adresy oraz adresy poczty elektronicznej stron umowy licencji niewyłącznej, o której mowa w art. 35 .
+- **5)** informację o zakresie korzystania, do którego uprawnia umowa licencji niewyłącznej, o której mowa w art. 35 19 , zawarta z instytucją dziedzictwa kulturowego i objętych nią terytoriach;
+- **6)** nazwy, siedziby, adresy oraz adresy poczty elektronicznej stron umowy licencji niewyłącznej, o której mowa w art. 35 19 .
 
-2. W przypadku zawarcia przez organizację zbiorowego zarządzania kolejnej umowy licencji niewyłącznej, o której mowa w art. 35 , dotyczącej tego samego utworu i uprawnionego organizacja zbiorowego zarządzania uzupełnia wpis w portalu o dane, o których mowa w ust. 1 pkt 5 i 6, dotyczące tej umowy. Rozpowszechnianie na podstawie tej umowy można rozpocząć po upływie sześciu miesięcy od dnia uzupełnienia wpisu w portalu.
+2. W przypadku zawarcia przez organizację zbiorowego zarządzania kolejnej umowy licencji niewyłącznej, o której mowa w art. 35 19 , dotyczącej tego samego utworu i uprawnionego organizacja zbiorowego zarządzania uzupełnia wpis w portalu o dane, o których mowa w ust. 1 pkt 5 i 6, dotyczące tej umowy. Rozpowszechnianie na podstawie tej umowy można rozpocząć po upływie sześciu miesięcy od dnia uzupełnienia wpisu w portalu.
 
 **Art. 35²¹.**
 
-1. Korzystanie, o którym mowa w art. 35 , na terytorium Rzeczypospolitej Polskiej przez instytucję dziedzictwa kulturowego z siedzibą w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym może odbywać się na podstawie umowy zawartej z zagraniczną organizacją zbiorowego zarządzania w rozumieniu art. 3 pkt 3 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi, która jest reprezentatywna zgodnie z przepisami tego państwa członkowskiego.
+1. Korzystanie, o którym mowa w art. 35 19 , na terytorium Rzeczypospolitej Polskiej przez instytucję dziedzictwa kulturowego z siedzibą w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym może odbywać się na podstawie umowy zawartej z zagraniczną organizacją zbiorowego zarządzania w rozumieniu art. 3 pkt 3 ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi, która jest reprezentatywna zgodnie z przepisami tego państwa członkowskiego.
 
-2. Umowa licencji niewyłącznej, o której mowa w art. 35 , może obejmować terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+2. Umowa licencji niewyłącznej, o której mowa w art. 35 19 , może obejmować terytorium innego państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
 
 ##### Oddział 6 Dozwolony użytek utworów niedostępnych w handlu
 
@@ -903,7 +902,7 @@ source: pdf
 
 **Art. 47.** Jeżeli wynagrodzenie twórcy zależy od wysokości przychodów z korzystania z utworu, twórca ma prawo do:
 
-- **1)** otrzymania informacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia w przypadkach, w których nie stosuje się przepisu art. 47 ;
+- **1)** otrzymania informacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia w przypadkach, w których nie stosuje się przepisu art. 47 1 ;
 - **2)** wglądu w niezbędnym zakresie do dokumentacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia.
 
 **Art. 47¹.**
@@ -1130,7 +1129,7 @@ source: pdf
 
 **Art. 77.**
 
-1. Do programów komputerowych nie stosuje się przepisów art. 16 pkt 3–5, art. 20, art. 23, art. 23 , art. 26 , art. 33 –33 , art. 43, art. 44, art. 47 , art. 49 ust. 2, art. 56, art. 57, art. 60 i art. 62.
+1. Do programów komputerowych nie stosuje się przepisów art. 16 pkt 3–5, art. 20, art. 23, art. 23 1 , art. 26 2 , art. 33 2 –33 , art. 43, art. 44, art. 47 1 , art. 49 ust. 2, art. 56, art. 57, art. 60 i art. 62.
 
 2. Do programów komputerowych przepis art. 33 stosuje się wyłącznie w zakresie, o którym mowa w art. 33 ust. 2.
 
@@ -1260,7 +1259,7 @@ source: pdf
 
 **Art. 92.** Do artystycznych wykonań stosuje się odpowiednio przepisy art. 8–10, art. 12, art. 18, art. 21–21 , art. 41–45, art. 47–49, art. 52–55, art. 57–59, art. 62–68, art. 71 i art.78.
 
-**Art. 93.** Do prawa do artystycznego wykonania stosuje się odpowiednio przepisy art. 33 pkt 10 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809) i art. 15 .
+**Art. 93.** Do prawa do artystycznego wykonania stosuje się odpowiednio przepisy art. 33 pkt 10 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809) i art. 15 1 .
 
 ##### Oddział 2 Prawa do fonogramów i wideogramów
 
@@ -1295,7 +1294,7 @@ source: pdf
 
 1. Do fonogramów stosuje się odpowiednio przepis art. 21 ust. 1, chyba że nadawanie odbywa się na podstawie umowy z uprawnionym.
 
-2. Do fonogramów i wideogramów stosuje się odpowiednio przepisy art. 21 – 21 .
+2. Do fonogramów i wideogramów stosuje się odpowiednio przepisy art. 21 1 – 21 .
 
 **Art. 95².**
 
@@ -1376,7 +1375,7 @@ source: pdf
 
 **Art. 99³.** Przepisy art. 99 i art. 99 stosuje się odpowiednio do utworów i tekstów, które ze względu na czas ich powstania lub charakter nigdy nie były objęte ochroną prawa autorskiego.
 
-**Art. 99⁴.** Przy wyznaczaniu czasu ochrony, o którym mowa w art. 99 i w art. 99 , stosuje się odpowiednio przepisy art. 37 i art. 39.
+**Art. 99⁴.** Przy wyznaczaniu czasu ochrony, o którym mowa w art. 99 i w art. 99 2 , stosuje się odpowiednio przepisy art. 37 i art. 39.
 
 **Art. 99⁵.**
 
@@ -1501,7 +1500,7 @@ source: pdf
 
 **Art. 99¹⁶.**
 
-1. Do postępowania, o którym mowa w art. 99 , stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) o wyłączeniu pracownika oraz organu, załatwianiu spraw, doręczeniach, wezwaniach, opłatach i kosztach, terminach i postępowaniu, z wyjątkiem przepisów dotyczących odwołań i zażaleń.
+1. Do postępowania, o którym mowa w art. 99 15 , stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) o wyłączeniu pracownika oraz organu, załatwianiu spraw, doręczeniach, wezwaniach, opłatach i kosztach, terminach i postępowaniu, z wyjątkiem przepisów dotyczących odwołań i zażaleń.
 
 2. Orzeczenie jest ostateczne i podlega wykonaniu w drodze egzekucji sądowej, o ile wynagrodzenie jest wymagalne.
 
@@ -1533,7 +1532,7 @@ source: pdf
 
 **Art. 100.** Wykonywanie praw pokrewnych podlega odpowiednio ograniczeniom wynikającym z przepisów art. 23–35.
 
-**Art. 101.** Do przedmiotów praw pokrewnych stosuje się odpowiednio przepisy art. 1 ust. 4, art. 6–6 , art. 8 ust. 2, art. 15, art. 22 –22 , art. 35 –35 , art. 35a–35e, art. 39, art. 51 ust. 3, art. 79 i art. 80.
+**Art. 101.** Do przedmiotów praw pokrewnych stosuje się odpowiednio przepisy art. 1 ust. 4, art. 6–6 , art. 8 ust. 2, art. 15, art. 22 1 –22 , art. 35 5 –35 , art. 35a–35e, art. 39, art. 51 ust. 3, art. 79 i art. 80.
 
 **Art. 102.**
 
@@ -1559,7 +1558,7 @@ source: pdf
 
 2. Tej samej karze podlega, kto rozpowszechnia bez podania nazwiska lub pseudonimu twórcy cudzy utwór w wersji oryginalnej albo w postaci opracowania, artystyczne wykonanie albo publicznie zniekształca taki utwór, artystyczne wykonanie, fonogram, wideogram lub nadanie.
 
-3. Kto w celu osiągnięcia korzyści majątkowej w inny sposób niż określony w ust. 1 lub 2 narusza cudze prawa autorskie lub prawa pokrewne określone w art. 16, art. 17, art. 18, art. 19 ust. 1, art. 19 , art. 86, art. 94 ust. 4 lub art. 97, albo nie wykonuje obowiązków określonych w art. 19 ust. 2 lub art. 20 ust. 1–4, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+3. Kto w celu osiągnięcia korzyści majątkowej w inny sposób niż określony w ust. 1 lub 2 narusza cudze prawa autorskie lub prawa pokrewne określone w art. 16, art. 17, art. 18, art. 19 ust. 1, art. 19 1 , art. 86, art. 94 ust. 4 lub art. 97, albo nie wykonuje obowiązków określonych w art. 19 ust. 2 lub art. 20 ust. 1–4, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 116.**
 

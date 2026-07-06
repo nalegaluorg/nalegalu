@@ -210,7 +210,7 @@ source: pdf
 
 **Art. 11a.**
 
-1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 i 4, art. 230, art. 231, art. 234 § 2, art. 235–235 , art. 237–237 , art. 237 , art. 237 , art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4 oraz art. 237 –237 .
+1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 i 4, art. 230, art. 231, art. 234 § 2, art. 235–235 , art. 237–237 , art. 237 7 , art. 237 8 , art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4 oraz art. 237 11a –237 .
 
 2. W zakresie określonym w ust. 1:
 
@@ -218,7 +218,7 @@ source: pdf
 - **2)** przełożony wykonuje obowiązki osoby kierującej pracownikami;
 - **3)** funkcjonariusz realizuje obowiązki i uprawnienia pracownika.
 
-3. Przepisy art. 209 , art. 209 , art. 210 § 1–5 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowemu wykonywaniu czynności służbowych podejmowanych przez:
+3. Przepisy art. 209 2 , art. 209 3 , art. 210 § 1–5 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowemu wykonywaniu czynności służbowych podejmowanych przez:
 
 - **1)** funkcjonariuszy SKW, w celu realizacji zadań, o których mowa w art. 5 ust. 1 i w art. 44 ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
 - **2)** funkcjonariuszy SWW, w celu realizacji zadań, o których mowa w art. 6 ust. 1 i w art. 44 ust. 1 i 2 ustawy, o której mowa w pkt 1.
@@ -618,7 +618,7 @@ source: pdf
 
 9. Minister Obrony Narodowej określi, w drodze rozporządzenia, tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w ust. 1, 3, 4 i 7, oraz jednostki do tego właściwe, mając na uwadze konieczność zapewnienia prawidłowego i niezwłocznego wykonywania czynności związanych z przekazywaniem tych składek.
 
-**Art. 53.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
+**Art. 53.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 7 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
 
 **Art. 54.** Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać zwłaszcza:
 

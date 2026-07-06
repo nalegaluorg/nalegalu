@@ -641,22 +641,18 @@ source: pdf
 - **7)** prowadzenie w pierwszej instancji postępowań w sprawach celnych przewidzianych przepisami prawa celnego oraz w sprawach podatkowych związanych z przywozem lub wywozem towarów;
 - **8)** rozpoznawanie, wykrywanie i zwalczanie przestępstw skarbowych i wykroczeń skarbowych, zapobieganie tym przestępstwom i wykroczeniom oraz ściganie ich sprawców, w zakresie określonym w Kodeksie karnym skarbowym;
 - **9)** rozpoznawanie, wykrywanie i zwalczanie przestępstw określonych w ustawie z dnia 29 września 1994 r. o rachunkowości, zapobieganie tym przestępstwom oraz ściganie ich sprawców;
-- **10)** rozpoznawanie, wykrywanie i zwalczanie przestępstw i wykroczeń określonych w: z 2022 r. poz. 385),
+- **10)** rozpoznawanie, wykrywanie i zwalczanie przestępstw i wykroczeń określonych w: z 2022 r. poz. 385), z 2024 r. poz. 262 oraz z 2025 r. poz. 769), poz. 1168 i 1673 oraz z 2026 r. poz. 483), o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939),
     - **a)** art. 53 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164),
     - **b)** art. 116–118 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24), ba) art. 34a ust. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U.
     - **c)** art. 183 § 2 i 4–6, w przypadku czynów, o których mowa w art. 183 § 2, 4 i 5 Kodeksu karnego,
     - **d)** art. 244 Kodeksu karnego, w zakresie niestosowania się do zakazu wstępu do ośrodków gier i uczestnictwa w grach hazardowych, da) art. 29a ust. 1 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393),
     - **e)** art. 305 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
-    - **f)** art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz.
-
-- **1582)** , z 2024 r. poz. 262 oraz z 2025 r. poz. 769), poz. 1168 i 1673 oraz z 2026 r. poz. 483), o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939),
+    - **f)** art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582),
     - **g)** art. 12a, art. 13 i art. 14 ustawy z dnia 2 marca 2001 r. o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych (Dz. U.
     - **h)** art. 108a–109 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907, z 2025 r.
     - **i)** art. 128, art. 131 pkt 4 w zakresie, o którym mowa w art. 73 ust. 1 pkt 2, oraz art. 131 pkt 14 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884),
     - **j)** art. 55, art. 57, art. 61 i art. 66 ustawy z dnia 29 lipca 2005 r.
-    - **k)** art. 43a i art. 44 ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych (Dz. U. z 2023 r. poz. 1584 oraz z 2025 r. poz.
-
-- **769)** ,
+    - **k)** art. 43a i art. 44 ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych (Dz. U. z 2023 r. poz. 1584 oraz z 2025 r. poz. 769),
     - **l)** art. 12 ustawy z dnia 13 kwietnia 2016 r. o bezpieczeństwie obrotu prekursorami materiałów wybuchowych (Dz. U. z 2019 r. poz. 994),
     - **m)** art. 34 ust. 1 pkt 2 i 3 oraz art. 35 ust. 1 pkt 2 ustawy z dnia 11 sierpnia 2021 r. o gatunkach obcych (Dz. U. z 2023 r. poz. 1589) – oraz zapobieganie tym przestępstwom i wykroczeniom, a także ściganie ich sprawców, jeżeli zostały ujawnione przez Służbę Celno-Skarbową;
 
@@ -1339,8 +1335,7 @@ source: pdf
     - **a)** w ewidencji leżakowania, o której mowa w art. 12a ust. 1,
     - **b)** w karcie leżakowania, o której mowa w art. 12b ust. 1 – ustawy z dnia 18 października 2006 r. o wyrobie napojów spirytusowych, ze stanem faktycznym;
 
-- **12b)** wykonywanie obowiązków, o których mowa w art. 10 ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz.
-- **180)** ;
+- **12b)** wykonywanie obowiązków, o których mowa w art. 10 ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180);
 - **12c)** wwożenie do Unii Europejskiej oraz wywożenie z Unii Europejskiej środków pieniężnych w rozumieniu rozporządzenia 2018/1672;
 - **12d)** przestrzeganie przepisów w zakresie wypełniania obowiązku stosowania maksymalnej ceny za 1 litr paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw ogłoszonej w obwieszczeniu, o którym mowa w art. 34a ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281, z 2025 r. poz. 1168 i 1303 oraz z 2026 r. poz. 415), lub oferowania do sprzedaży tych paliw ciekłych po cenie wyższej niż cena maksymalna ogłoszona w obwieszczeniu, o którym mowa w art. 34a ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym;
 - **13)** wykonywanie innych obowiązków wynikających z przepisów odrębnych, których kontrola przestrzegania należy do zadań KAS.
@@ -1412,9 +1407,7 @@ source: pdf
 
 3. W przypadku podejrzenia, że nie są przestrzegane przepisy oraz okoliczności faktyczne uzasadniają niezwłoczne przeprowadzenie kontroli celno-skarbowej, jest ona wszczynana na podstawie okazywanej legitymacji służbowej.
 
-3a. W razie nieobecności kontrolowanego, reprezentanta kontrolowanego lub osoby upoważnionej do odbioru korespondencji kontrola celno-skarbowa może być wszczęta po okazaniu legitymacji służbowej pracownikowi kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz.
-
-- **769)** , zwanej dalej „Kodeksem cywilnym”, lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, który nie jest pracownikiem izby administracji skarbowej albo funkcjonariuszem.
+3a. W razie nieobecności kontrolowanego, reprezentanta kontrolowanego lub osoby upoważnionej do odbioru korespondencji kontrola celno-skarbowa może być wszczęta po okazaniu legitymacji służbowej pracownikowi kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769), zwanej dalej „Kodeksem cywilnym”, lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, który nie jest pracownikiem izby administracji skarbowej albo funkcjonariuszem.
 
 3b. W przypadkach, o których mowa w ust. 3 i 3a, upoważnienie do przeprowadzenia kontroli celno-skarbowej doręcza się kontrolowanemu bez zbędnej zwłoki.
 
@@ -1435,8 +1428,7 @@ source: pdf
     - **f)** wywozu i przywozu na terytorium Rzeczypospolitej Polskiej towarów podlegających ograniczeniom lub zakazom,
     - **g)** uiszczania opłat, o których mowa w art. 2 ust. 1 pkt 16d, 1a) przewozu towarów, o których mowa w art. 13 ust. 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi,
 
-- **2)** dokonywane poza punktem stałej lokalizacji sprzedaży (sprzedaż obwoźna i obnośna na targowiskach w rozumieniu art. 15 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz.
-- **707)** ,
+- **2)** dokonywane poza punktem stałej lokalizacji sprzedaży (sprzedaż obwoźna i obnośna na targowiskach w rozumieniu art. 15 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707),
 - **3)** w podmiotach obowiązanych do ewidencjonowania obrotu za pomocą kas rejestrujących w zakresie prawidłowości realizacji obowiązku ewidencjonowania,
 - **4)** w podmiotach, w których przeprowadzono urzędowe sprawdzenie, o którym mowa w art. 106,
 - **5)** w podmiotach innych niż określone w pkt 4, dotyczące zgłoszenia lub informacji przekazanych zgodnie z przepisami wydanymi na podstawie art. 90 lub art. 91 oraz gdy obowiązek ich przeprowadzenia w określonym czasie wynika z przepisów prawa,
@@ -4046,7 +4038,7 @@ source: pdf
 
 **Art. 189b.**
 
-1. Kierownik jednostki organizacyjnej realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 221 ust. 1 i 3 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 207 , art. 208 § 1, art. 209 , art. 209 , art. 210 § 1–5, art. 213, art. 220 § 1, art. 221, art. 222 § 1 i 2, art. 222 § 1 i 2, art. 223–225, art. 237 –237 , art. 237 § 1–4 i art. 237 –237 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6, art. 220 § 2 i 3, art. 222 § 3, art. 222 § 3, art. 228 § 3, art. 237 § 5 i art. 237 Kodeksu pracy.
+1. Kierownik jednostki organizacyjnej realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 221 ust. 1 i 3 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 207 1 , art. 208 § 1, art. 209 1 , art. 209 , art. 210 § 1–5, art. 213, art. 220 § 1, art. 221, art. 222 § 1 i 2, art. 222 § 1 i 2, art. 223–225, art. 237 7 –237 , art. 237 § 1–4 i art. 237 11a –237 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6, art. 220 § 2 i 3, art. 222 § 3, art. 222 § 3, art. 228 § 3, art. 237 § 5 i art. 237 Kodeksu pracy.
 
 2. Kierownik jednostki organizacyjnej przed rozpoczęciem przez funkcjonariusza służby pełnionej w formie zdalnej przekazuje funkcjonariuszowi pełniącemu służbę w formie zdalnej informacje dotyczące:
 
@@ -4522,7 +4514,7 @@ source: pdf
 
 3. W sprawach związanych z bezpieczeństwem i higieną służby, w zakresie nieuregulowanym ustawą, stosuje się odpowiednio:
 
-- **1)** przepisy art. 207 , art. 208, art. 209 , art. 209 , art. 210 § 1–5, art. 213, art. 215–219, art. 220 § 1, art. 221, art. 222 § 1 i 2, art. 222 § 1 i 2, art. 223– 225, art. 227 § 1, art. 229 § 1–7, art. 234 § 3 i 4, art. 236, art. 237 –237 , art. 237 § 1–4 i art. 237 –237 Kodeksu pracy,
+- **1)** przepisy art. 207 1 , art. 208, art. 209 1 , art. 209 2 , art. 210 § 1–5, art. 213, art. 215–219, art. 220 § 1, art. 221, art. 222 § 1 i 2, art. 222 § 1 i 2, art. 223– 225, art. 227 § 1, art. 229 § 1–7, art. 234 § 3 i 4, art. 236, art. 237 7 –237 , art. 237 § 1–4 i art. 237 11a –237 Kodeksu pracy,
 - **2)** przepisy wydane na podstawie art. 210 § 6, art. 220 § 2 i 3, art. 222 § 3, art. 222 § 3, art. 227 § 2, art. 228 § 3, art. 229 § 8, art. 237 § 5 i art. 237 Kodeksu pracy – jeżeli funkcjonariusz w czasie wykonywania zadań służbowych wykonuje prace, których te przepisy dotyczą.
 
 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki bezpieczeństwa i higieny służby, mając na uwadze zadania wykonywane przez funkcjonariuszy oraz warunki i miejsce pełnienia służby.

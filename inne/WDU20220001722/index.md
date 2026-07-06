@@ -1790,7 +1790,7 @@ source: pdf
 
 2. Mediatorem może być osoba fizyczna posiadająca wykształcenie w dziedzinie prawa oraz wiedzę i doświadczenie w dziedzinie mediów, wpisana na listę mediatorów prowadzoną przez Przewodniczącego Krajowej Rady.
 
-3. Do mediacji przepisy art. 183 –183 i art. 183 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+3. Do mediacji przepisy art. 183 1 –183 i art. 183 11 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 47v.** Dostawcy platformy udostępniania wideo są obowiązani do przechowywania kopii audycji, wideo stworzonych przez użytkowników, przekazów handlowych i innych przekazów udostępnianych publicznie przez okres nie krótszy niż 28 dni od dnia ich usunięcia z platformy udostępniania wideo lub zakończenia ich udostępniania oraz do przedstawienia ich Przewodniczącemu Krajowej Rady po otrzymaniu żądania, o którym mowa w art. 10 ust. 2.
 

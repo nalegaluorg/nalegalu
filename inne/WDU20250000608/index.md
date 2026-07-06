@@ -1029,7 +1029,7 @@ o zawodzie farmaceuty
 
 - **1)** obejmujący okres pobierania świadczenia przewidzianego w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780 oraz z 2024 r. poz. 1871);
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 3 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy, nie dłuższej niż 14 dni, wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy, nie dłuższej niż 12 miesięcy, wynikającej z realizacji szkolenia specjalizacyjnego odbywanej w trybie poszerzenia programu studiów podyplomowych o program szkolenia specjalizacyjnego zgodnie z zakresem tych studiów;
 - **6)** z powodu urlopu wychowawczego na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.

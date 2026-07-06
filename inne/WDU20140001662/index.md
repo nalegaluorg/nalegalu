@@ -29,14 +29,14 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502) w art. 229:
 
-- **1)** § 1 otrzymuje brzmienie: „§ 1. Wstępnym badaniom lekarskim, z zastrzeżeniem § 1 , podlegają:
+- **1)** § 1 otrzymuje brzmienie: „§ 1. Wstępnym badaniom lekarskim, z zastrzeżeniem § 1 1 , podlegają:
 - **1)** osoby przyjmowane do pracy;
 - **2)** pracownicy młodociani przenoszeni na inne stanowiska pracy i inni pracownicy przenoszeni na stanowiska pracy, na których występują czynniki szkodliwe dla zdrowia lub warunki uciążliwe.”;
 - **2)** po § 1 dodaje się § 1 i § 1 w brzmieniu: „§ 1 . Wstępnym badaniom lekarskim nie podlegają osoby:
 - **1)** przyjmowane ponownie do pracy u tego samego pracodawcy na to samo stanowisko lub na stanowisko o takich samych warunkach pracy w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy z tym pracodawcą;
 - **2)** przyjmowane do pracy u innego pracodawcy na dane stanowisko w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy, jeżeli przedstawią pracodawcy aktualne orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy w warunkach pracy opisanych w skierowaniu na badania lekarskie, a pracodawca ten stwierdzi, że warunki te odpowiadają warunkom występującym na danym stanowisku pracy, z wyłączeniem osób przyjmowanych do wykonywania prac szczególnie niebezpiecznych.
 
-§ 1. Przepis § 1 pkt 2 stosuje się odpowiednio w przypadku przyjmowania do pracy osoby pozostającej jednocześnie w stosunku pracy z innym pracodawcą.”;
+§ 1². Przepis § 1 pkt 2 stosuje się odpowiednio w przypadku przyjmowania do pracy osoby pozostającej jednocześnie w stosunku pracy z innym pracodawcą.”;
 
 - **3)** § 4 otrzymuje brzmienie: „§ 4. Pracodawca nie może dopuścić do pracy pracownika bez aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stanowisku w warunkach pracy opisanych w skierowaniu na badania lekarskie.”;
 - **4)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Wstępne, okresowe i kontrolne badania lekarskie przeprowadza się na podstawie skierowania wydanego przez pracodawcę.”;

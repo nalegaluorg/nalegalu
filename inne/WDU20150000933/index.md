@@ -110,7 +110,8 @@ source: pdf
 - **5)** w art. 402 uchyla się ust. 15;
 - **6)** w art. 410a uchyla się ust. 1–3c;
 - **7)** w art. 411:
-    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Finansowanie działalności, o której mowa w art. 400a ust. 1 oraz art. 410a ust. 4–6, ze środków Narodowego Funduszu i wojewódzkich funduszy odbywa się przez:”, – w pkt 2 uchyla się lit. d, b) ust. 3a otrzymuje brzmienie: „3a. Dopłaty, o których mowa w ust. 1 pkt 2 lit. c, stosuje się do obligacji emitowanych na cele związane z działalnością, o której mowa w art. 400a ust. 1 oraz art. 410a ust. 4–6, przez podmioty posiadające osobowość prawną wykonujące zadania z zakresu gospodarki komunalnej.”.
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Finansowanie działalności, o której mowa w art. 400a ust. 1 oraz art. 410a ust. 4–6, ze środków Narodowego Funduszu i wojewódzkich funduszy odbywa się przez:”, – w pkt 2 uchyla się lit. d,
+    - **b)** ust. 3a otrzymuje brzmienie: „3a. Dopłaty, o których mowa w ust. 1 pkt 2 lit. c, stosuje się do obligacji emitowanych na cele związane z działalnością, o której mowa w art. 400a ust. 1 oraz art. 410a ust. 4–6, przez podmioty posiadające osobowość prawną wykonujące zadania z zakresu gospodarki komunalnej.”.
 
 **Art. 6.** W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2014 r. poz. 1413) w załączniku nr 4a w tabeli pozycja nr 2 otrzymuje brzmienie: 2 Preparaty smarowe, dodatki, 20.59.4 środki zapobiegające zamarzaniu, z wyłączeniem: z wyłączeniem: Preparaty smarowe - wyłącznie ex 20.59.41.0 smary plastyczne Środki przeciwstukowe, dodatki 20.59.42.0 do olejów mineralnych i produkty podobne Środki zapobiegające zamarzaniu 20.59.43.0 i gotowe płyny przeciwoblodzeniowe
 

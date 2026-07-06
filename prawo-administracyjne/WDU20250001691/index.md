@@ -1267,7 +1267,7 @@ source: pdf
 
 - **1)** nadania sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo
 - **2)** doręczenia za pokwitowaniem sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie przez pracowników organu administracji publicznej lub inne upoważnione osoby, albo
-- **3)** wprowadzenia sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie do systemu teleinformatycznego w przypadku, o którym mowa w art. 39 .
+- **3)** wprowadzenia sprzeciwu, decyzji lub postanowienia kończącego postępowanie w sprawie do systemu teleinformatycznego w przypadku, o którym mowa w art. 39 1 .
 
 **Art. 122c.**
 

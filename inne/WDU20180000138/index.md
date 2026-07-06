@@ -1069,7 +1069,7 @@ source: pdf
 
 **Art. 81b.**
 
-1. Komendant SOP realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 134–136 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+1. Komendant SOP realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 134–136 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
 
 2. Komendant SOP lub osoba przez niego upoważniona przed rozpoczęciem przez funkcjonariusza służby pełnionej w formie zdalnej przekazuje funkcjonariuszowi pełniącemu służbę w formie zdalnej informacje dotyczące:
 
@@ -1153,7 +1153,7 @@ source: pdf
 
 **Art. 87.**
 
-1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 1 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Jeżeli oboje rodzice lub opiekunowie są funkcjonariuszami albo jedno z nich jest funkcjonariuszem, a drugie pozostaje w stosunku pracy, z uprawnień, o których mowa w ust. 1, może korzystać jedno z nich.
 
@@ -1738,7 +1738,7 @@ source: pdf
 
 5. Funkcjonariusz jest obowiązany do przestrzegania przepisów i zasad bezpieczeństwa i higieny służby.
 
-6. W zakresie określonym w ust. 1–4 stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, z wyłączeniem przepisów art. 209 § 2, art. 210, art. 229 § 1–7, art. 230–232, art. 234 § 2–3 , art. 235–235 , art. 237, art. 237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 § 1, art. 237 § 3 oraz art. 237 § 1 pkt 2.
+6. W zakresie określonym w ust. 1–4 stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, z wyłączeniem przepisów art. 209 § 2, art. 210, art. 229 § 1–7, art. 230–232, art. 234 § 2–3 , art. 235–235 , art. 237, art. 237 1 , art. 237 § 1 pkt 1 i § 2–4, art. 237 § 1, art. 237 § 3 oraz art. 237 § 1 pkt 2.
 
 7. W przypadku gdy warunki pełnienia służby nie odpowiadają przepisom bezpieczeństwa i higieny służby oraz stwarzają bezpośrednie zagrożenie dla zdrowia lub życia funkcjonariusza albo gdy wykonywane przez niego obowiązki grożą takim niebezpieczeństwem innym osobom, funkcjonariusz ma prawo powstrzymać się od wykonywania czynności służbowych, o czym niezwłocznie zawiadamia bezpośredniego przełożonego.
 

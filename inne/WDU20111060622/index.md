@@ -222,7 +222,7 @@ source: pdf
 - **3)** w art. 17 ust. 3 otrzymuje brzmienie: „3. Na żądanie kierownika zakładu pracy, osoby przez niego upoważnionej, a także na żądanie pracownika, o którym mowa w ust. 1, badanie stanu trzeźwości pracownika przeprowadza uprawniony organ powołany do ochrony porządku publicznego. Zabiegu pobrania krwi dokonuje fachowy pracownik służby zdrowia. Do badania stanu trzeźwości stosuje się przepisy, wydane na podstawie art. 47 ust. 2.”;
 - **4)** w art. 18:
     - **a)** w ust. 6 uchyla się pkt 1,
-    - **b)** w ust. 7 pkt 4 otrzymuje brzmienie: „4) w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 ;”.
+    - **b)** w ust. 7 pkt 4 otrzymuje brzmienie: „4) w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 1 ;”.
 
 **Art. 6.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2008 r. Nr 50, poz. 291, z późn. zm. ) w art. 5a wprowadza się następujące zmiany:
 

@@ -80,7 +80,9 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. W przypadku stwierdzenia istotnych uchybień w pracy organu jednostki samorządu terytorialnego prezes kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje organowi jednostki samorządu terytorialnego, i odrębnie, komisji rewizyjnej odpowiednio rady gminy, powiatu albo sejmiku województwa oraz właściwemu wojewodzie.”,
     - **b)** w ust. 2 wyraz „gminy” zastępuje się wyrazami „jednostki samorządu terytorialnego”;
 
-- **18)** w art. 21 ust. 1 otrzymuje brzmienie: „1. Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami powszechnie obowiązującego prawa."; 19) w art. 22: a) ust. 1 otrzymuje brzmienie: „1. Kolegium w pełnym składzie może wystąpić do Naczelnego Sądu Administracyjnego z pytaniem prawnym, od odpowiedzi na które zależy rozstrzygnięcie sprawy.”,
+- **18)** w art. 21 ust. 1 otrzymuje brzmienie: „1. Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami powszechnie obowiązującego prawa.";
+- **19)** w art. 22:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Kolegium w pełnym składzie może wystąpić do Naczelnego Sądu Administracyjnego z pytaniem prawnym, od odpowiedzi na które zależy rozstrzygnięcie sprawy.”,
     - **b)** skreśla się ust. 2,
     - **c)** ust. 4 otrzymuje brzmienie: „4. W sprawach, o których mowa w ust. 1, uchwały podejmowane są na wniosek składu orzekającego w głosowaniu jawnym bezwzględną większością głosów w obecności co najmniej 3/5 składu kolegium. W razie równości głosów rozstrzyga głos prezesa.”;
 

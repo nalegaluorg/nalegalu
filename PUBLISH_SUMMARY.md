@@ -1,17 +1,17 @@
 # Publish Summary
 
-Generated: 2026-07-02 16:39 UTC
+Generated: 2026-07-06 07:10 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 18708 |
-| Updated/new | 0 |
-| Unchanged | 11574 |
+| Updated/new | 319 |
+| Unchanged | 11262 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 6622 |
-| Blocked by quality gate | 670 |
+| Skipped regressions | 6618 |
+| Blocked by quality gate | 667 |
 | Rejected (total incl. errors) | 397 |
 | Total in DB | 19676 |
 
@@ -19,17 +19,17 @@ Generated: 2026-07-02 16:39 UTC
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 18710 | 18708 | -2 |
-| Rejected | 396 | 397 | +1 |
-| Articles | 210865 | 209681 | -1184 |
-| Body chars | 570,706,891 | 570,475,140 | -231751 |
+| Published | 18708 | 18708 | 0 |
+| Rejected | 395 | 397 | +2 |
+| Articles | 209681 | 209690 | +9 |
+| Body chars | 570,475,140 | 570,516,869 | +41729 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
 | character-spaced | 235 |
-| pipeline error | 143 |
+| pipeline error | 140 |
 | repetition | 112 |
 | article structure | 77 |
 | CID font | 70 |
@@ -44,9 +44,9 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Metric | Count |
 |--------|------:|
-| Checked candidates | 706 |
-| Candidates with unexplained gaps | 476 |
-| Unexplained numeric article gaps | 10852 |
+| Checked candidates | 708 |
+| Candidates with unexplained gaps | 477 |
+| Unexplained numeric article gaps | 10889 |
 
 | Address | Highest Art. | Gap count | Sample gaps | Title |
 |---------|-------------:|----------:|-------------|-------|
@@ -148,7 +148,14 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | Original PDF candidate for unified act | 4941 |
 
-## Blocked acts (670)
+## Newly rejected (2)
+
+| Address | Reason |
+|---------|--------|
+| WDU19981060668 | rendered round-trip failed: AST=157 rendered=157 dup_rendere |
+| WDU20180000650 | rendered round-trip failed: AST=298 rendered=298 dup_rendere |
+
+## Blocked acts (667)
 
 | Address | Issues |
 |---------|--------|
@@ -174,7 +181,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19710120115 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19710160156 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19710270252 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in AST: 2 |
-| WDU19740240141 | rendered round-trip failed: AST=481 rendered=481 empty_articles=1 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; low similarity: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; missing child markers: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem |
 | WDU19740240142 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110081 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
 | WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0 articles; likely PDF extraction lost article markers |
@@ -278,7 +284,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19981621115 | unclosed amendment quotation for unknown articles |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20000220269 | unclosed amendment quotation for unknown articles |
 | WDU20010710733 | unclosed amendment quotation for unknown articles |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20011541794 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 1 |
@@ -389,6 +394,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20140001836 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150000048 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150000148 | character-spaced text — 11 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20150000357 | rendered round-trip failed: AST=66 rendered=66 empty_articles=31 FAIL |
 | WDU20150000561 | character-spaced text — 28 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — 'Obowiązek przekazywania danych statystycznych wyni…' appears 40 times (likely PDF header/footer) |
 | WDU20150000749 | excessive repetition — '..................................................…' appears 33 times (likely PDF header/footer) |
 | WDU20150000796 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -776,7 +782,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240000996 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240000997 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20240001014 | excessive repetition — 'o obszarach morskich Rzeczypospolitej Polskiej i a…' appears 25 times (likely PDF header/footer) |
-| WDU20240001016 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20240001016 | ELI failed quality check |
 | WDU20240001019 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001022 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20240001024 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -816,9 +822,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001936 | excessive repetition — 'Wyjaśnienia do PKD 2025' appears 51 times (likely PDF header/footer) |
 | WDU20240001953 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20250000277 | rendered round-trip failed: AST=481 rendered=481 empty_articles=1 dup_rendered=2 low_sim=2 word_loss=2 missing_child_markers=2 FAIL; word loss: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; low similarity: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem; missing child markers: 22 @ DZIAŁ DRUGI Stosunek pracy > Rozdział I Przepisy ogólne, 182 @ DZIAŁ ÓSMY Uprawnienia pracowników związane z rodzicielstwem |
 | WDU20250001753 | omitted-provisions quotation ran into the next item ('4) art. 28 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o') without a confirmed close — closing quote was likely lost |
-| WDU20260000021 | omitted-provisions quotation exceeded the segment budget — runaway block, closing quote was likely lost |
 | WDU20260000377 | rendered round-trip failed: AST=30 rendered=30 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 5; low similarity: 5 |
 | WDU20260000515 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 26 stycznia 1982 r.') — closing quote was likely lost |
 | WDU20260000532 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 15 maja 2024 r.') — closing quote was likely lost |

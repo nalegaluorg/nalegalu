@@ -519,7 +519,7 @@ W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, pr
 
 9. Sąd rodzinny, orzekając w sprawie nieletniego, bierze pod uwagę wyniki mediacji oraz ugodę zawartą przed mediatorem.
 
-10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 1 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 58.**
 

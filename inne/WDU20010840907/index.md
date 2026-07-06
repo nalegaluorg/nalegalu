@@ -292,7 +292,8 @@ source: pdf
     - **b)** w ust. 2 po wyrazach „na budowę” dodaje się wyrazy „lub zakup”;
 
 - **4)** w art. 4 w ust. 1 w pkt 2:
-    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:” b) w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
+    - **a)** zdanie wstępne otrzymuje brzmienie: „2) 100% wartości kosztorysowej lub ceny nabycia odpowiednio na:”
+    - **b)** w lit. c) kropkę zastępuje się przecinkiem i dodaje się lit. d) w brzmieniu: „d) zakup lokalu mieszkalnego albo budynku mieszkalnego, w przypadku kredytu, o którym mowa w art. 3 ust. 1 pkt 6.”;
 
 - **5)** w art. 5:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) kwota kredytu nie przekracza odpowiednio ceny nabycia albo wartości kosztorysowej przedsięwzięcia, o którym mowa w art. 3 ust. 1 i 2.”,

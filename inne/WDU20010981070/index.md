@@ -155,7 +155,7 @@ source: pdf
 - **5)** gospodarczy – do spraw gospodarczych oraz innych spraw z zakresu prawa gospodarczego i cywilnego należących do sądu gospodarczego na podstawie odrębnych ustaw;
 - **6)** ksiąg wieczystych – do prowadzenia ksiąg wieczystych;
 - **7)** egzekucyjny – do rozpoznawania spraw:
-    - **a)** o nadanie klauzuli wykonalności tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 3–6 oraz art. 781 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), w tym również w przypadkach, o których mowa w art. 778 , art. 787, art. 787 , art. 788 i art. 789 tej ustawy, o ile nadanie klauzuli wykonalności nie należy do właściwości sądów gospodarczych,
+    - **a)** o nadanie klauzuli wykonalności tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 3–6 oraz art. 781 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ), w tym również w przypadkach, o których mowa w art. 778 1 , art. 787, art. 787 1 , art. 788 i art. 789 tej ustawy, o ile nadanie klauzuli wykonalności nie należy do właściwości sądów gospodarczych,
     - **b)** o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest wydane w wydziale egzekucyjnym orzeczenie sądu albo referendarza sądowego prawomocne lub podlegające natychmiastowemu wykonaniu,
     - **c)** ze skarg na czynności komornika sądowego wnoszonych na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz spraw, w których przepisy te stosuje się odpowiednio,
     - **d)** w trybie art. 759 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego,
@@ -1091,9 +1091,7 @@ source: pdf
 
 § 1. Zarządzenia porządkowe przewodniczącego składu sądu oraz kary porządkowe wymierzane przez sąd nie mają zastosowania do sędziów, asesorów sądowych i ławników należących do składu orzekającego oraz do prokuratora, Prezesa, wiceprezesów, radców i referendarzy Prokuratorii Generalnej Rzeczypospolitej Polskiej biorących udział w sprawie, a także osób, do udziału których w sprawie stosuje się przepisy o prokuratorze.
 
-§ 2. Do obrońcy i pełnomocnika, będącego adwokatem lub aplikantem adwokackim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), albo radcą prawnym lub aplikantem radcowskim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz.
-
-- **1860)** , biorącego udział w sprawie nie stosuje się kary pozbawienia wolności, o której mowa w art. 49 § 1 i w art. 50 § 3.
+§ 2. Do obrońcy i pełnomocnika, będącego adwokatem lub aplikantem adwokackim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184 i 1268 oraz z 2023 r. poz. 1860), albo radcą prawnym lub aplikantem radcowskim, uprawnionym do występowania przed sądem na podstawie przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860), biorącego udział w sprawie nie stosuje się kary pozbawienia wolności, o której mowa w art. 49 § 1 i w art. 50 § 3.
 
 **Art. 51a.**
 
@@ -3362,8 +3360,7 @@ source: pdf
 - **1)** informację z Krajowego Rejestru Karnego dotyczącą zgłaszanej osoby;
 - **2)** oświadczenie kandydata, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
 - **3)** oświadczenie kandydata, że nie jest lub nie był pozbawiony władzy rodzicielskiej, a także, że władza rodzicielska nie została mu ograniczona ani zawieszona;
-- **4)** zaświadczenie lekarskie o stanie zdrowia, wystawione przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz.
-- **2527)** , stwierdzające brak przeciwwskazań do wykonywania funkcji ławnika;
+- **4)** zaświadczenie lekarskie o stanie zdrowia, wystawione przez lekarza podstawowej opieki zdrowotnej, w rozumieniu przepisów ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527), stwierdzające brak przeciwwskazań do wykonywania funkcji ławnika;
 - **5)** dwa zdjęcia zgodne z wymogami stosowanymi przy składaniu wniosku o wydanie dowodu osobistego.
 
 § 3. Do zgłoszenia kandydata na ławnika dokonanego na karcie zgłoszenia przez stowarzyszenie, inną organizację społeczną lub zawodową, zarejestrowaną na podstawie przepisów prawa, dołącza się również aktualny odpis z Krajowego Rejestru Sądowego albo odpis lub zaświadczenie potwierdzające wpis do innego właściwego rejestru lub ewidencji dotyczące tej organizacji.

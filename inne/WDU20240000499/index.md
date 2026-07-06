@@ -298,7 +298,7 @@ source: pdf
 
 1. Radca prawny wykonujący zawód jest obowiązany posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
-2. Dziekan rady okręgowej izby radców prawnych występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadkach, o których mowa w art. 22 , art. 28 ust. 1 pkt 2 i 3, ust. 1a i 2, art. 29 oraz art. 65 .
+2. Dziekan rady okręgowej izby radców prawnych występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadkach, o których mowa w art. 22 2 , art. 28 ust. 1 pkt 2 i 3, ust. 1a i 2, art. 29 oraz art. 65 2 .
 
 **Art. 22¹¹.**
 
@@ -328,8 +328,7 @@ source: pdf
 2a. Do wniosku, o którym mowa w ust. 2, osoba ubiegająca się o wpis obowiązana jest dołączyć:
 
 - **1)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku;
-- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz.
-- **273)** , albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.;
+- **2)** oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273), albo informację, o której mowa w art. 7 ust. 3a tej ustawy, w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r.;
 - **3)** umowy o pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem o złożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 i 5;
 - **4)** dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 5;
 - **5)** zaświadczenie adwokata lub radcy prawnego, z którego wynikać będzie, iż osoba ubiegająca się o wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego – w przypadku osób, o których mowa w art. 25 ust. 1 pkt 4 lit. b i pkt 5 lit. b;
@@ -369,7 +368,7 @@ source: pdf
 
 1a. W okresie zajmowania stanowiska, wykonywania czynności lub zatrudnienia, o których mowa w ust. 1 pkt 5, nie jest wymagane posiadanie stopnia naukowego doktora nauk prawnych.
 
-2. Do egzaminu radcowskiego składanego przed komisją, o której mowa w art. 36 , bez odbycia aplikacji radcowskiej mogą przystąpić:
+2. Do egzaminu radcowskiego składanego przed komisją, o której mowa w art. 36 1 , bez odbycia aplikacji radcowskiej mogą przystąpić:
 
 - **1)** doktorzy nauk prawnych;
 - **2)** osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym, Trybunale Konstytucyjnym lub w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
@@ -721,7 +720,7 @@ source: pdf
 
 1. Po sześciu miesiącach aplikacji radcowskiej aplikant radcowski może zastępować radcę prawnego przed sądami, organami ścigania, organami państwowymi, samorządowymi i innymi instytucjami, z wyjątkiem Sądu Najwyższego, Naczelnego Sądu Administracyjnego, Trybunału Konstytucyjnego i Trybunału Stanu.
 
-2. Przez okres roku od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej aplikant radcowski może zastępować radcę prawnego w zakresie, o którym mowa w ust. 1. W przypadku podjęcia uchwały, o której mowa w art. 37 , wydłużającej okres, o którym mowa w art. 37 ust. 1 pkt 4, aplikant radcowski może zastępować radcę prawnego przez okres dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej.
+2. Przez okres roku od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej aplikant radcowski może zastępować radcę prawnego w zakresie, o którym mowa w ust. 1. W przypadku podjęcia uchwały, o której mowa w art. 37 1 , wydłużającej okres, o którym mowa w art. 37 ust. 1 pkt 4, aplikant radcowski może zastępować radcę prawnego przez okres dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej.
 
 3. Uprawnienia, o których mowa w ust. 1, dotyczą również spraw objętych świadczeniem pomocy prawnej z urzędu.
 
@@ -906,7 +905,7 @@ source: pdf
 5. W przypadku gdy przynajmniej dwie oceny cząstkowe z prac pisemnych zdającego dotyczących zadań z różnych części egzaminu radcowskiego są negatywne, a średnia arytmetyczna, o której mowa w ust. 4, wskazuje na pozytywną ostateczną ocenę tych prac, komisja egzaminacyjna:
 
 - **1)** odstępuje od wystawienia ostatecznych ocen z tych prac oraz
-- **2)** przekazuje komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości, o której mowa w art. 36 , prace pisemne zdającego oraz ich oceny cząstkowe wraz z uzasadnieniami, w celu ustalenia ostatecznych ocen tych prac.
+- **2)** przekazuje komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości, o której mowa w art. 36 8 , prace pisemne zdającego oraz ich oceny cząstkowe wraz z uzasadnieniami, w celu ustalenia ostatecznych ocen tych prac.
 
 6. W przypadku, o którym mowa w ust. 5, komisja egzaminacyjna II stopnia przy Ministrze Sprawiedliwości stosuje odpowiednio przepisy art. 36 ust. 1 i 2 oraz art. 36 ust. 11.
 
@@ -971,12 +970,12 @@ source: pdf
 
 1. Aplikanta radcowskiego skreśla się z listy aplikantów radcowskich w wypadku:
 
-- **1)** o którym mowa w art. 29 pkt 1 lub 3–5 albo art. 29 , stosowanych odpowiednio;
+- **1)** o którym mowa w art. 29 pkt 1 lub 3–5 albo art. 29 3 , stosowanych odpowiednio;
 - **1a)** o którym mowa w art. 29 pkt 6, stosowanym odpowiednio;
 - **2)** niezakończenia przez niego bez usprawiedliwionej przyczyny aplikacji radcowskiej w terminie, o którym mowa w art. 32 ust. 2;
 - **3)** uzyskania prawa wykonywania zawodu radcy prawnego zgodnie z art. 23;
 - **4)** upływu roku od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej;
-- **5)** podjęcia uchwały, o której mowa w art. 37 , wydłużającej okres, o którym mowa w pkt 4, po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej.
+- **5)** podjęcia uchwały, o której mowa w art. 37 1 , wydłużającej okres, o którym mowa w pkt 4, po upływie dwóch lat od daty zakończenia aplikacji wskazanej w zaświadczeniu o odbyciu aplikacji radcowskiej.
 
 2. Rada okręgowej izby radców prawnych może skreślić aplikanta radcowskiego z listy aplikantów radcowskich, jeżeli stwierdzi jego nieprzydatność do wykonywania zawodu radcy prawnego.
 

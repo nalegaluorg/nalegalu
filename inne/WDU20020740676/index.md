@@ -859,8 +859,7 @@ source: pdf
 - **2)** podmiotów wykonujących działalność ubezpieczeniową;
 - **3)** podmiotów wykonujących działalność w zakresie obrotu papierami wartościowymi i innymi instrumentami finansowymi na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146);
 - **4)** instytucji obowiązanych w rozumieniu przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
-- **5)** podmiotów wykonujących działalność z zakresu usług płatniczych na podstawie ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz.
-- **611)** ;
+- **5)** podmiotów wykonujących działalność z zakresu usług płatniczych na podstawie ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611);
 - **6)** funduszy inwestycyjnych i towarzystw funduszy inwestycyjnych wykonujących działalność na podstawie ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146);
 - **7)** spółdzielczych kas oszczędnościowo-kredytowych;
 - **8)** dostawców usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. e rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1).
@@ -1180,7 +1179,7 @@ source: pdf
 
 **Art. 51b.**
 
-1. Szef ABW lub upoważniony przez niego funkcjonariusz realizują w stosunku do funkcjonariusza ABW pełniącego służbę w formie zdalnej obowiązki określone w art. 52a w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
+1. Szef ABW lub upoważniony przez niego funkcjonariusz realizują w stosunku do funkcjonariusza ABW pełniącego służbę w formie zdalnej obowiązki określone w art. 52a w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
 
 2. Szef ABW lub upoważniony przez niego funkcjonariusz przed rozpoczęciem przez funkcjonariusza ABW służby pełnionej w formie zdalnej przekazują mu informacje dotyczące:
 
@@ -1214,7 +1213,7 @@ source: pdf
 
 **Art. 52a.**
 
-1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1, 3 i 3 , art. 235–235 , art. 237–237 , art. 237 § 4 oraz art. 237 –237 .
+1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1, 3 i 3 , art. 235–235 , art. 237–237 , art. 237 § 4 oraz art. 237 11a –237 .
 
 2. W zakresie określonym w ust. 1:
 
@@ -1222,7 +1221,7 @@ source: pdf
 - **2)** przełożony funkcjonariusza realizuje obowiązki i uprawnienia osoby kierującej pracownikami;
 - **3)** funkcjonariusz realizuje obowiązki i uprawnienia pracownika.
 
-3. Przepisy art. 209 , art. 209 , art. 210 § 1–5, art. 229 § 4 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowemu wykonywaniu czynności służbowych przez:
+3. Przepisy art. 209 2 , art. 209 3 , art. 210 § 1–5, art. 229 § 4 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowemu wykonywaniu czynności służbowych przez:
 
 - **1)** funkcjonariuszy ABW, w celu realizacji zadań, o których mowa w art. 5 ust. 1;
 - **2)** funkcjonariuszy AW, w celu realizacji zadań, o których mowa w art. 6 ust. 1.
@@ -1729,7 +1728,7 @@ source: pdf
 
 9. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w ust. 1, 3, 4 i 7, oraz jednostki do tego właściwe, mając na uwadze konieczność zapewnienia prawidłowego i niezwłocznego wykonywania czynności związanych z przekazywaniem tych składek.
 
-**Art. 93.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
+**Art. 93.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 7 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
 
 **Art. 94.** Prezes Rady Ministrów określi, w drodze rozporządzeń, odrębnie dla każdej Agencji, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać zwłaszcza:
 

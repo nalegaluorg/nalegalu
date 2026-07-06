@@ -38,5 +38,5 @@ source: pdf
 
 **Art. 2.** Przepis art. 24 ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą traci moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 21 , art. 92, art. 95 ust. 2 oraz art. 108 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 21 1 , art. 92, art. 95 ust. 2 oraz art. 108 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 

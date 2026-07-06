@@ -30,7 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) wprowadza się następujące zmiany:
 
 - **1)** w art. 385 uchyla się § 2;
-- **2)** uchyla się art. 720 .
+- **2)** uchyla się art. 720 6 .
 
 **Art. 2.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028, 1285, 1394 i 1723) w art. 2 uchyla się ust. 2.
 

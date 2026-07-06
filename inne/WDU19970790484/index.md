@@ -362,7 +362,7 @@ source: pdf
 - **2)** określa wzory wniosku o udzielenie poręczenia oraz wniosku o udzielenie gwarancji w ramach programów rządowych;
 - **3)** określa wzory umów poręczenia oraz gwarancji, udzielanych w ramach programów rządowych.
 
-2. Do czynności związanych z udzielaniem poręczeń i gwarancji w ramach programów rządowych nie stosuje się przepisów ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759) oraz przepisów art. 385 –385 , art. 556 –556 i art. 576 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933).
+2. Do czynności związanych z udzielaniem poręczeń i gwarancji w ramach programów rządowych nie stosuje się przepisów ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759) oraz przepisów art. 385 1 –385 , art. 556 1 –556 i art. 576 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933).
 
 3. Bank Gospodarstwa Krajowego może powierzyć dochodzenie roszczeń związanych z poręczeniami i gwarancjami udzielonymi w ramach programów rządowych bankowi lub innej instytucji finansowej. Wykonywanie przez bank lub inną instytucję finansową czynności, o których mowa w zdaniu poprzednim, nie wymaga zmiany statutu ani innego aktu stanowiącego podstawę działalności tych podmiotów.
 
@@ -401,8 +401,7 @@ source: pdf
 
 3. Środki Funduszu pochodzą z:
 
-- **1)** środków finansowych, o których mowa w art. 29 ust. 4a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz.
-- **818)** ;
+- **1)** środków finansowych, o których mowa w art. 29 ust. 4a ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818);
 - **1a)** (uchylony) 1b) środków finansowych, o których mowa w art. 32 ust. 2 pkt 1 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079);
 - **1c)** środków finansowych, odsetek i innych przychodów, a także zysków, o których mowa w art. 110 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412 i 1530);
 - **2)** opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków Funduszu;

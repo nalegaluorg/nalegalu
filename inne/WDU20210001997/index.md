@@ -91,7 +91,7 @@ source: pdf
     - **b)** w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) stworzenia warunków organizacyjnych, umożliwiających kierowcy ukończenie szkolenia okresowego.”;
 
 - **18)** uchyla się art. 39n;
-- **19)** w art. 50 w pkt 1 w lit. l średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „m) dokumentów potwierdzających uzyskanie kwalifikacji, o których mowa w art. 39a ust. 1 pkt 5 i art. 39b , oraz ukończenie szkolenia, o którym mowa w art. 39a ust. 1 pkt 6;”;
+- **19)** w art. 50 w pkt 1 w lit. l średnik zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „m) dokumentów potwierdzających uzyskanie kwalifikacji, o których mowa w art. 39a ust. 1 pkt 5 i art. 39b 2 , oraz ukończenie szkolenia, o którym mowa w art. 39a ust. 1 pkt 6;”;
 - **20)** w załączniku nr 3 do ustawy w tabeli w lp. 1 dodaje się pkt 1.16. w brzmieniu:
 
 1. 16. Wykonywanie przewozu drogowego pojazdem, 5000 o którym mowa w art. 16c

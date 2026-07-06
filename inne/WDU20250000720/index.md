@@ -566,7 +566,7 @@ o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i 
 
 7. Rekompensata nie może być wyższa niż koszty kredytodawcy bezpośrednio związane z przedterminową spłatą.
 
-**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
+**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 1 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
 
 #### Rozdział 6 Odstąpienie od umowy o kredyt hipoteczny przez konsumenta
 

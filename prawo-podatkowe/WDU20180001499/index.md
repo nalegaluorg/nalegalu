@@ -79,7 +79,7 @@ source: pdf
 
 - **1)** w art. 890:
     - **a)** uchyla się § 1 i 1 ,
-    - **b)** uchyla się § 2 ;
+    - **b)** uchyla się § 2 2 ;
 
 - **2)** art. 890 otrzymuje brzmienie: „Art. 890 . § 1. Wykonanie zajęcia wierzytelności z rachunku bankowego podlega wstrzymaniu w okresie blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm. ). § 2. Wstrzymanie wykonania zajęcia, o którym mowa w § 1, nie dotyczy zajęcia na poczet zasądzonych alimentów, renty o charakterze alimentacyjnym tytułem odszkodowania oraz wynagrodzenia ze stosunku pracy wraz z zaliczką na podatek dochodowy od osób fizycznych oraz składkami na ubezpieczenie społeczne należnymi od dokonywanych wypłat na bieżące wynagrodzenia. Bank wykonuje to zajęcie do wysokości nieprzekraczającej kwoty minimalnego wynagrodzenia za pracę, o którym mowa w przepisach ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2017 r. poz. 847 oraz z 2018 r. poz. 650). § 3. W przypadku, o którym mowa w § 1, bank informuje komornika o przyczynie wstrzymania wykonania zajęcia wierzytelności z rachunku bankowego w przypadku blokady rachunku, o której mowa w art. 119zw § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.”.
 

@@ -739,8 +739,7 @@ source: pdf
 
 11. Warunki i tryb wykonywania pracy w okresie przestoju ekonomicznego lub obniżonego wymiaru czasu pracy ustala się w porozumieniu. Porozumienie zawiera pracodawca oraz:
 
-- **1)** organizacje związkowe reprezentatywne w rozumieniu art. 25 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz.
-- **440)** , z których każda zrzesza co najmniej 5 % pracowników zatrudnionych u pracodawcy, albo
+- **1)** organizacje związkowe reprezentatywne w rozumieniu art. 25 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440), z których każda zrzesza co najmniej 5 % pracowników zatrudnionych u pracodawcy, albo
 - **2)** organizacje związkowe reprezentatywne w rozumieniu art. 25 ust. 1 lub 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych – jeżeli u pracodawcy nie działają reprezentatywne zakładowe organizacje związkowe zrzeszające co najmniej 5 % pracowników zatrudnionych u pracodawcy, albo
 - **3)** zakładowa organizacja związkowa – jeżeli u pracodawcy działa jedna organizacja związkowa, albo
 - **4)** przedstawiciele pracowników, wyłonieni w trybie przyjętym u danego pracodawcy – jeżeli u pracodawcy nie działa zakładowa organizacja związkowa; w przypadku trudności w przeprowadzeniu wyborów przedstawicieli pracowników z powodu COVID-19, w szczególności wywołanych nieobecnością pracowników, trwającym przestojem lub wykonywaniem przez część pracowników pracy zdalnej, porozumienie to może być zawarte z przedstawicielami pracowników wybranymi przez pracowników uprzednio dla innych celów przewidzianych w przepisach prawa pracy.
@@ -1102,13 +1101,13 @@ source: pdf
 
 **Art. 15gj.**
 
-1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g , art. 15ga, art. 15gg, art. 15gga i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności powstałych w związku z udzieleniem pomocy na podstawie art. 15g, art. 15g 1 , art. 15ga, art. 15gg, art. 15gga i art. 15gga stosuje się odpowiednio przepisy art. 55–57 i art. 58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, o którym mowa w art. 56 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku sporządzonego przez dyrektora wojewódzkiego urzędu pracy.
 
 3. Dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokonuje umorzenia, odroczenia terminu lub rozłożenia na raty, o których mowa w art. 57 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, na podstawie wniosku dłużnika, przekazanego i zaopiniowanego przez dyrektora wojewódzkiego urzędu pracy.
 
-**Art. 15gk.** Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2, art. 15gga i art. 15gga .
+**Art. 15gk.** Dyrektor wojewódzkiego urzędu pracy nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących wypłaty lub zwrotu świadczeń lub środków, o których mowa w art. 15g ust. 1–2, art. 15gga i art. 15gga 1 .
 
 **Art. 15h.** (uchylony)
 
@@ -2387,7 +2386,7 @@ source: pdf
 
 **Art. 15zya.** Na żądanie Zakładu Ubezpieczeń Społecznych Główny Urząd Statystyczny jest obowiązany przekazać informację, czy wskazana osoba uprawniona, o której mowa w art. 15zs ust. 1, art. 15zs ust. 1 lub art. 15zs ust. 1, na wskazany dzień prowadziła pozarolniczą działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem, o którym mowa odpowiednio w art. 15zs ust. 1, art. 15zs ust. 1 albo art. 15zs ust. 1.
 
-**Art. 15zyb.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs , art. 15zs ust. 7 lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
+**Art. 15zyb.** Zakład Ubezpieczeń Społecznych jest uprawniony do kontroli prawidłowości i rzetelności danych przekazanych przez osobę uprawnioną, zleceniodawcę lub zamawiającego we wniosku, o którym mowa w art. 15zs ust. 1, art. 15zs ust. 2, art. 15zs ust. 2, art. 15zs 3 , art. 15zs ust. 7 lub art. 15zsa ust. 1, lub w oświadczeniu, o którym mowa w art. 15zua ust. 3. Przepisy rozdziału 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych stosuje się odpowiednio.
 
 **Art. 15zz.** Zakład Ubezpieczeń Społecznych jest uprawniony do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ustania prawa do świadczenia postojowego i wypłacania tego świadczenia.
 
@@ -2679,7 +2678,7 @@ source: pdf
 
 21. Zwrotu dofinansowania nie dochodzi się, jeżeli kwota należna do zwrotu nie przekracza, określonych na dzień dokonania rozliczenia, najniższych kosztów doręczenia w obrocie krajowym przesyłki poleconej za potwierdzeniem odbioru przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe. Kwota ta jest zaliczana w koszty Funduszu Pracy.
 
-**Art. 15zze¹.** Pracodawca będący przedsiębiorcą, o którym mowa w art. 15zzb ust. 1, albo organizacją pozarządową lub podmiotem, o których mowa w art. 15zze ust. 1 lub w art. 15zze ust. 1, korzystający z dofinansowania do wynagrodzenia pracownika niepełnosprawnego na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w części niepodlegającej dofinansowaniu na podstawie tej ustawy może otrzymać dofinansowanie, o którym mowa w art. 15zzb, art. 15zze albo art. 15zze . Przepisów art. 15zzb ust. 12, art. 15zze ust. 11 i art. 15zze ust. 12 nie stosuje się.
+**Art. 15zze¹.** Pracodawca będący przedsiębiorcą, o którym mowa w art. 15zzb ust. 1, albo organizacją pozarządową lub podmiotem, o których mowa w art. 15zze ust. 1 lub w art. 15zze ust. 1, korzystający z dofinansowania do wynagrodzenia pracownika niepełnosprawnego na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w części niepodlegającej dofinansowaniu na podstawie tej ustawy może otrzymać dofinansowanie, o którym mowa w art. 15zzb, art. 15zze albo art. 15zze 2 . Przepisów art. 15zzb ust. 12, art. 15zze ust. 11 i art. 15zze ust. 12 nie stosuje się.
 
 **Art. 15zze².**
 
@@ -2740,7 +2739,7 @@ source: pdf
 
 1. Powiatowy urząd pracy może pozyskiwać z Zakładu Ubezpieczeń Społecznych, przy wykorzystaniu systemów teleinformatycznych prowadzonych przez ministra właściwego do spraw pracy, w postaci elektronicznej, dane zgromadzone na koncie płatnika składek lub koncie ubezpieczonego, o których mowa w art. 50 ust. 14–16 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 8, ust. 10 pkt 3, 5 i 6 oraz ust. 12, art. 15zzc ust. 6, ust. 8 pkt 3 i ust. 10, art. 15zze ust. 7, ust. 9 pkt 2–4 i ust. 11 oraz art. 15zze ust. 7, ust. 10 pkt 1–3 i ust. 12.
 
-1a. Powiatowy urząd pracy w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od instytucji publicznych, które udzielały wsparcia w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w związku z wystąpieniem tego stanu, oraz od organów Krajowej Administracji Skarbowej i Państwowej Inspekcji Pracy informacje mające znaczenie dla oceny spełniania warunków przyznania wsparcia i prawidłowości wykorzystania przyznanych środków, w tym informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, których wynagrodzenia zostały dofinansowane w ramach zadań, o których mowa w art. 15zzb, art. 15zze i art. 15zze . Informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, mogą być pozyskiwane w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 1, 2, 4 i 8, art. 15zze ust. 1, 2, 4 i 7 oraz art. 15zze ust. 1–3 i 7.
+1a. Powiatowy urząd pracy w celu realizacji zadań przewidzianych w ustawie może pozyskiwać od instytucji publicznych, które udzielały wsparcia w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, w związku z wystąpieniem tego stanu, oraz od organów Krajowej Administracji Skarbowej i Państwowej Inspekcji Pracy informacje mające znaczenie dla oceny spełniania warunków przyznania wsparcia i prawidłowości wykorzystania przyznanych środków, w tym informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, których wynagrodzenia zostały dofinansowane w ramach zadań, o których mowa w art. 15zzb, art. 15zze i art. 15zze 2 . Informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, mogą być pozyskiwane w celu ustalenia lub weryfikacji okoliczności, o których mowa w art. 15zzb ust. 1, 2, 4 i 8, art. 15zze ust. 1, 2, 4 i 7 oraz art. 15zze ust. 1–3 i 7.
 
 1b. Powiatowy urząd pracy może wystąpić o informacje o pracownikach w rozumieniu art. 15g ust. 4 zdanie pierwsze lub o osobach, o których mowa w art. 15zzb ust. 2, art. 15zze ust. 2 i art. 15zze ust. 2, obejmujące:
 
@@ -2902,7 +2901,7 @@ source: pdf
 
 **Art. 15zze⁵.**
 
-1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze albo art. 15zze , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
+1. Rada Ministrów może, w celu przeciwdziałania COVID-19, w drodze rozporządzenia, nadać starostom uprawnienie do udzielania, na podstawie umowy, dotacji ze środków Funduszu Pracy na pokrycie bieżących kosztów prowadzenia działalności gospodarczej wszystkim bądź niektórym mikroprzedsiębiorcom oraz małym przedsiębiorcom, którzy otrzymali dotację zgodnie z art. 15zze albo art. 15zze 4a , lub do udzielania tej dotacji innym mikroprzedsiębiorcom lub małym przedsiębiorcom, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii, skutki nimi wywołane, ograniczenia w prowadzeniu działalności gospodarczej wynikające z tych stanów oraz obszary życia gospodarczego i społecznego w szczególny sposób dotknięte konsekwencjami COVID-19.
 
 2. Rozporządzenie, o którym mowa w ust. 1, może ustalać krąg przedsiębiorców, którym dotacja może zostać udzielona, poprzez określenie:
 
@@ -2915,7 +2914,7 @@ source: pdf
 - **2)** inny niż wskazany w art. 15zze ust. 6 lub art. 15zze ust. 7 termin składania wniosku o ustalenie prawa do dotacji;
 - **3)** wielokrotność udzielenia dotacji.
 
-**Art. 15zze⁶.** Starosta nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze .
+**Art. 15zze⁶.** Starosta nie ma obowiązku uiszczania kosztów sądowych w sprawach dotyczących udzielania, przyznania, umorzenia lub zwrotu wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze 2 , art. 15zze i art. 15zze 4a .
 
 **Art. 15zzf.** W przypadku usług i instrumentów rynku pracy oraz innych form wsparcia realizowanych na podstawie ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w zakresie niezbędnym do niwelowania i ograniczenia negatywnych skutków COVID-19, starosta na wniosek strony lub za jej zgodą, w drodze aneksu do zawartej umowy, może zmienić jej warunki, w tym w szczególności wydłużyć termin na jej realizację lub przesunąć termin na realizację zobowiązań z niej wynikających.
 
@@ -2966,13 +2965,9 @@ source: pdf
 1. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może określić inne terminy sporządzenia, rozpatrzenia, zatwierdzenia, ujawniania, przedstawiania, złożenia i publikacji sprawozdań, a także przekazania lub dostarczania danych, informacji, deklaracji, sprawozdań, raportów, zestawień, wyników przeprowadzonej weryfikacji, decyzji, opinii, wezwań, wniosków, składek, opłat, wpłat, zaliczek, a także rozpatrywania reklamacji oraz wykonywania innych obowiązków lub czynności określonych w:
 
 - **1)** ustawach, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135 oraz z 2025 r. poz. 146),
-- **2)** ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110), ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz.
-- **585)** , ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2025 r. poz. 503 i 525), ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367), ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505), ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559 oraz z 2025 r. poz. 146), ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385), ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487 oraz z 2025 r. poz.
-- **146)** – oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
+- **2)** ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110), ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. z 2024 r. poz. 585), ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2025 r. poz. 503 i 525), ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367), ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505), ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim, ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2024 r. poz. 559 oraz z 2025 r. poz. 146), ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385), ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487 oraz z 2025 r. poz. 146) – oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
 
-2. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może określić inne terminy sporządzania, zatwierdzania, przekazywania, dostarczania danych, informacji lub sprawozdań określonych w ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) i ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2024 r. poz.
-
-- **1131)** , oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
+2. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może określić inne terminy sporządzania, zatwierdzania, przekazywania, dostarczania danych, informacji lub sprawozdań określonych w ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) i ustawie z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2024 r. poz. 1131), oraz w aktach wykonawczych wydanych na podstawie tych ustaw, biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tych obowiązków oraz prawidłowe funkcjonowanie rynku finansowego, jego stabilność, bezpieczeństwo, a także ochronę interesów uczestników tego rynku.
 
 **Art. 15zzh.**
 
@@ -2984,9 +2979,7 @@ source: pdf
 
 2. W przypadku gdy terminy posiedzeń organów zatwierdzających określone w przepisach szczególnych przypadają przed terminem zatwierdzenia sprawozdań finansowych określonym w przepisach wydanych na podstawie ust. 1, posiedzenia organów zatwierdzających odbywają się w terminie określonym w przepisach wydanych na podstawie ust. 1.
 
-3. W przypadku określenia w rozporządzeniu, o którym mowa w ust. 1, nowego terminu zatwierdzenia sprawozdania finansowego jednostki samorządu terytorialnego, organ stanowiący jednostki samorządu terytorialnego podejmuje uchwałę, o której mowa w art. 271 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych do dnia wskazanego w tym rozporządzeniu. Komisja rewizyjna przedstawia organowi stanowiącemu jednostki samorządu terytorialnego wniosek w sprawie absolutorium dla wójta (burmistrza, prezydenta miasta), zarządu powiatu lub zarządu województwa, o którym mowa w art. 270 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w terminie 15 dni przed dniem wskazanym w rozporządzeniu. Art. 15zzha. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może przedłużyć termin następujący po dniu bilansowym roku obrotowego, za który emitent zobowiązany jest udostępnić w propozycji nabycia obligacji sprawozdanie finansowe wraz ze sprawozdaniem z badania, o którym mowa w art. 35 ust. 3 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz.
-
-- **708)** , biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku.
+3. W przypadku określenia w rozporządzeniu, o którym mowa w ust. 1, nowego terminu zatwierdzenia sprawozdania finansowego jednostki samorządu terytorialnego, organ stanowiący jednostki samorządu terytorialnego podejmuje uchwałę, o której mowa w art. 271 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych do dnia wskazanego w tym rozporządzeniu. Komisja rewizyjna przedstawia organowi stanowiącemu jednostki samorządu terytorialnego wniosek w sprawie absolutorium dla wójta (burmistrza, prezydenta miasta), zarządu powiatu lub zarządu województwa, o którym mowa w art. 270 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w terminie 15 dni przed dniem wskazanym w rozporządzeniu. Art. 15zzha. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, może przedłużyć termin następujący po dniu bilansowym roku obrotowego, za który emitent zobowiązany jest udostępnić w propozycji nabycia obligacji sprawozdanie finansowe wraz ze sprawozdaniem z badania, o którym mowa w art. 35 ust. 3 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708), biorąc pod uwagę konieczność zapewnienia prawidłowej realizacji tego obowiązku.
 
 **Art. 15zzi.**
 
@@ -3215,12 +3208,12 @@ source: pdf
 
 6. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania środków, o których mowa w ust. 1, zwolnionych z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym.
 
-**Art. 15zzu⁹.** W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
+**Art. 15zzu⁹.** W ramach doręczania, o którym mowa w art. 15zzu 1 , operator wyznaczony zapewnia:
 
 - **1)** w toku przekształcenia wykonanie z należytą starannością i jakością techniczną odwzorowania cyfrowego druku lub korespondencji zawartej w przesyłce listowej oraz koperty umożliwiające zapoznanie się z treścią dokumentu elektronicznego bez potrzeby weryfikacji tej treści z dokumentem w postaci papierowej;
 - **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia.
 
-**Art. 15zzu¹⁰.** Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do ani wysyłanych przez:
+**Art. 15zzu¹⁰.** Przepisów art. 15zzu 1 –15zzu nie stosuje się do przesyłek wysyłanych do ani wysyłanych przez:
 
 - **1)** Sądy i Trybunały;
 - **2)** prokuraturę i inne organy ścigania;
@@ -3293,20 +3286,20 @@ source: pdf
 
 9. Minister właściwy do spraw łączności określi, w drodze rozporządzenia, szczegółowe warunki udzielania dotacji, o której mowa w ust. 2, zwolnionej z wymogu notyfikacji Komisji Europejskiej, mając na uwadze potrzebę zapewnienia zgodności przyznawania tych środków z rynkiem wewnętrznym.
 
-**Art. 15zzu¹⁰i.** W ramach doręczania, o którym mowa w art. 15zzu , operator wyznaczony zapewnia:
+**Art. 15zzu¹⁰i.** W ramach doręczania, o którym mowa w art. 15zzu 10a , operator wyznaczony zapewnia:
 
 - **1)** w toku przekształcenia, wykonanie z należytą starannością i jakością techniczną odwzorowania cyfrowego druku lub korespondencji zawartej w przesyłce listowej oraz koperty, umożliwiające zapoznanie się z treścią dokumentu elektronicznego bez potrzeby weryfikacji tej treści z dokumentem w postaci papierowej;
 - **2)** integralność dokumentu elektronicznego wytworzonego w wyniku przekształcenia.
 
 **Art. 15zzu¹⁰j.**
 
-1. Przepisów art. 15zzu –15zzu nie stosuje się do przesyłek wysyłanych do oraz wysyłanych przez:
+1. Przepisów art. 15zzu 10a –15zzu nie stosuje się do przesyłek wysyłanych do oraz wysyłanych przez:
 
 - **1)** Sądy i Trybunały;
 - **2)** prokuraturę i inne organy ścigania;
 - **3)** komornika sądowego.
 
-2. W przypadku przesyłek wysyłanych do oraz wysyłanych przez organy ścigania, o których mowa w ust. 1 pkt 2, warunkiem niestosowania przepisów art. 15zzu –15zzu jest oznaczenie przesyłki przez nadawcę napisem: „Nie podlega digitalizacji”.
+2. W przypadku przesyłek wysyłanych do oraz wysyłanych przez organy ścigania, o których mowa w ust. 1 pkt 2, warunkiem niestosowania przepisów art. 15zzu 10a –15zzu jest oznaczenie przesyłki przez nadawcę napisem: „Nie podlega digitalizacji”.
 
 **Art. 15zzu¹¹.**
 
@@ -3383,7 +3376,7 @@ source: pdf
 
 2. Do wpływów, o których mowa w art. 12 ust. 1 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2020 r. poz. 2040), przepis ust. 1 stosuje się odpowiednio. Art. 15zzzh. 1. Wsparcie:
 
-- **1)** o którym mowa w art. 15gga, art. 15ka, art. 15kb, art. 15m, art. 15m , art. 15p, art. 15q, art. 15za ust. 2, art. 15zs , art. 15zs , art. 15zzb–15zze, art. 15zze , art. 15zze , art. 31zo oraz art. 31zy ,
+- **1)** o którym mowa w art. 15gga, art. 15ka, art. 15kb, art. 15m, art. 15m 1 , art. 15p, art. 15q, art. 15za ust. 2, art. 15zs 1 , art. 15zs 2 , art. 15zzb–15zze, art. 15zze 2 , art. 15zze , art. 31zo oraz art. 31zy 10 ,
 - **2)** udzielone na podstawie art. 67a § 1 pkt 1 i 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa w związku z COVID-19 – w przypadku podatku, którego termin płatności upływa po dniu 31 grudnia 2019 r., lub zaległości podatkowej powstałej po tym dniu – zgodne z warunkami zawartymi w Komunikacie Komisji – Tymczasowe ramy środków pomocy państwa w celu wsparcia gospodarki w kontekście trwającej epidemii COVID-19 (2020/C 91 I/01) (Dz. Urz. UE C 91I z 20.03.2020, str. 1) stanowi pomoc publiczną mającą na celu zaradzenie poważnym zaburzeniom w gospodarce.
 
 2. Wsparcie i ulgi, o których mowa w art. 15ja, art. 15jb, art. 15jca, art. 15jd oraz art. 15zzze–15zzzg, w przypadku udzielenia ich podmiotowi prowadzącemu działalność gospodarczą, stanowią pomoc publiczną, mającą na celu zaradzenie poważnym zaburzeniom w gospodarce, o której mowa w komunikacie Komisji – Tymczasowe ramy środków pomocy państwa w celu wsparcia gospodarki w kontekście trwającej epidemii COVID-19.
@@ -3515,9 +3508,7 @@ source: pdf
 - **1)** nie udzielił informacji żądanych przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów lub udzielił informacji nieprawdziwych lub wprowadzających w błąd;
 - **2)** uniemożliwia lub utrudnia Prezesowi Urzędu Ochrony Konkurencji i Konsumentów rozpoczęcie lub przeprowadzenie kontroli.
 
-2. Przepisy art. 106 ust. 3–5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów stosuje się odpowiednio. Art. 15zzzm. 1. Do postępowania w sprawie nałożenia kar, o których mowa w art. 15zzzk i art. 15zzzl, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r. poz.
-
-- **1773)** , z wyłączeniem art. 31–35 i art. 40 tej ustawy.
+2. Przepisy art. 106 ust. 3–5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów stosuje się odpowiednio. Art. 15zzzm. 1. Do postępowania w sprawie nałożenia kar, o których mowa w art. 15zzzk i art. 15zzzl, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r. poz. 1773), z wyłączeniem art. 31–35 i art. 40 tej ustawy.
 
 2. Do kar pieniężnych, o których mowa w art. 15zzzk i art. 15zzzl, stosuje się odpowiednio przepisy art. 48 i art. 49 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi. Art. 15zzzn. 1. W razie stwierdzenia naruszenia obowiązku hospitalizacji, kwarantanny lub izolacji w związku z zapobieganiem, przeciwdziałaniem lub zwalczaniem COVID-19, nałożonego przez właściwy organ lub wynikającego z przepisów prawa, państwowy powiatowy inspektor sanitarny nakłada na osobę naruszającą taki obowiązek, w drodze decyzji, administracyjną karę pieniężną w kwocie do 30 000 zł.
 
@@ -3531,9 +3522,7 @@ source: pdf
 
 2. Minister właściwy do spraw instytucji finansowych może, w drodze rozporządzenia, odroczyć terminy płatności oraz zawiesić postępowania, o których mowa w ust. 1, określając zakres terytorialny zawieszenia, rodzaje postępowań podlegających zawieszeniu oraz okres, na który następuje zawieszenie oraz odroczenie, mając na względzie okres obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii oraz skutki nimi wywołane, biorąc pod uwagę konieczność zapewnienia prawidłowego funkcjonowania rynku ubezpieczeniowego.
 
-3. Do terminów odroczeń oraz postępowań zawieszonych na podstawie ust. 1 lub 2, nie wlicza się okresów ich zawieszenia oraz odroczenia. Art. 15zzzr. Oświadczenie woli członka organu osoby prawnej innej niż Skarb Państwa, spółdzielnia mieszkaniowa albo jednostka samorządu terytorialnego, może zostać złożone w formie dokumentowej, a posiedzenia organów osób prawnych odbywać się z wykorzystaniem środków komunikacji elektronicznej bez konieczności jednoczesnej obecności członków tych organów. Do skuteczności takiego oświadczenia nie jest wymagane wypełnienie formularza udostępnionego w systemie teleinformatycznym, opatrzenie kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, bez względu na odmienne zastrzeżenie ustawy lub czynności prawnej. Art. 15zzzs. (uchylony) Art. 15zzzt. 1. Świadectwo zdrowia wydane na podstawie art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257) lub art. 4 ust. 1 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz.
-
-- **1330)** , które traci ważność w okresie od dnia 1 marca 2020 r. do dnia 13 marca 2020 r. albo w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego w związku z COVID-19, zachowuje ważność do dnia upływu 60 dni od dnia odwołania tego stanu.
+3. Do terminów odroczeń oraz postępowań zawieszonych na podstawie ust. 1 lub 2, nie wlicza się okresów ich zawieszenia oraz odroczenia. Art. 15zzzr. Oświadczenie woli członka organu osoby prawnej innej niż Skarb Państwa, spółdzielnia mieszkaniowa albo jednostka samorządu terytorialnego, może zostać złożone w formie dokumentowej, a posiedzenia organów osób prawnych odbywać się z wykorzystaniem środków komunikacji elektronicznej bez konieczności jednoczesnej obecności członków tych organów. Do skuteczności takiego oświadczenia nie jest wymagane wypełnienie formularza udostępnionego w systemie teleinformatycznym, opatrzenie kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, bez względu na odmienne zastrzeżenie ustawy lub czynności prawnej. Art. 15zzzs. (uchylony) Art. 15zzzt. 1. Świadectwo zdrowia wydane na podstawie art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257) lub art. 4 ust. 1 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330), które traci ważność w okresie od dnia 1 marca 2020 r. do dnia 13 marca 2020 r. albo w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego w związku z COVID-19, zachowuje ważność do dnia upływu 60 dni od dnia odwołania tego stanu.
 
 2. W przypadku gdy 3-miesięczny termin, o którym mowa w art. 6 ust. 2 i 3 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu oraz w art. 6 ust. 2 i 3 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich, upływa w okresie od dnia 1 marca 2020 r. do dnia 13 marca 2020 r. lub w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego w związku z COVID-19, termin ten ulega przedłużeniu do upływu 60 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii. Art. 15zzzt 1 . W przypadku gdy termin ważności dyplomu i świadectwa przeszkolenia, o których mowa odpowiednio w art. 63 pkt 1 i 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, lub świadectwa operatora urządzeń radiowych w służbie radiokomunikacyjnej morskiej, o którym mowa w art. 158 ust. 4 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, upływa w okresie od dnia 1 lutego 2020 r. do dnia 13 marca 2020 r. albo w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii, termin ważności tych dokumentów ulega przedłużeniu do dnia upływu 90 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później. Art. 15zzzu. (uchylony) Art.15zzzu . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii testy kwalifikacyjne, o których mowa w art. 39b ust. 3 ustawy z dnia 6 września 2001 r. o transporcie drogowym, mogą być przeprowadzane, po zakończeniu zajęć teoretycznych i praktycznych, przez wojewodę właściwego ze względu na miejsce prowadzenia ośrodka szkolenia w urzędzie wojewódzkim i na koszt urzędu wojewódzkiego.
 
@@ -4052,39 +4041,39 @@ source: pdf
 
 **Art. 31a.**
 
-1. W celu umożliwienia realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokona zmiany w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych na rok 2020 poprzez zwiększenie kosztów Funduszu Gwarantowanych Świadczeń Pracowniczych z przeznaczeniem na wypłatę świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa w art. 15g ust. 1 i 1a, art. 15ga ust. 1, art. 15gg ust. 1 i art. 15gga ust. 1, oraz zmniejszenie stanu środków pieniężnych Funduszu Gwarantowanych Świadczeń Pracowniczych.
+1. W celu umożliwienia realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokona zmiany w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych na rok 2020 poprzez zwiększenie kosztów Funduszu Gwarantowanych Świadczeń Pracowniczych z przeznaczeniem na wypłatę świadczeń na dofinansowanie wynagrodzeń pracowników, o których mowa w art. 15g ust. 1 i 1a, art. 15ga ust. 1, art. 15gg ust. 1 i art. 15gga ust. 1, oraz zmniejszenie stanu środków pieniężnych Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
-1a. Zadania, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, są finansowane od dnia 1 stycznia 2021 r. ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych.
+1a. Zadania, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, są finansowane od dnia 1 stycznia 2021 r. ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
-1b. Zadania, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, są finansowane do dnia 30 czerwca 2021 r.
+1b. Zadania, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1 oraz art. 15gg ust. 1, są finansowane do dnia 30 czerwca 2021 r.
 
 1c. Zadania, o których mowa w art. 15gga ust. 1 i art. 15gga ust. 1, są finansowane po roku 2021 ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych. Wydatki poniesione ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych podlegają zwrotowi ze środków Funduszu Przeciwdziałania COVID-19 lub z budżetu państwa.
 
-2. W celu umożliwienia realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może w roku 2020 zaciągnąć nieoprocentowaną pożyczkę ze środków Funduszu Pracy.
+2. W celu umożliwienia realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1 oraz art. 15gg ust. 1, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może w roku 2020 zaciągnąć nieoprocentowaną pożyczkę ze środków Funduszu Pracy.
 
 3. W przypadku zaciągnięcia pożyczki, o której mowa w ust. 2, minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych dokona zmiany w planie finansowym Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie 14 dni od dnia wpływu pożyczki przez zwiększenie planowanych zadań, kosztów realizacji zadań oraz środków pieniężnych i zobowiązań w stanie Funduszu Gwarantowanych Świadczeń Pracowniczych na koniec roku.
 
-4. Minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może przekazać wojewódzkim urzędom pracy środki na finansowanie kosztów obsługi realizacji rozwiązań przewidzianych dla podmiotów, o których mowa w art. 15g ust. 1–2, art. 15g , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2, art. 15gga ust. 1 oraz art. 15gga ust. 1, w wysokości maksymalnie do 0,5 % kwoty przekazanej przez dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych na realizację tych zadań.
+4. Minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może przekazać wojewódzkim urzędom pracy środki na finansowanie kosztów obsługi realizacji rozwiązań przewidzianych dla podmiotów, o których mowa w art. 15g ust. 1–2, art. 15g 1 , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2, art. 15gga ust. 1 oraz art. 15gga ust. 1, w wysokości maksymalnie do 0,5 % kwoty przekazanej przez dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych na realizację tych zadań.
 
-4a. Koszty realizacji rozwiązań przewidzianych dla podmiotów, o których mowa w art. 15g ust. 1–2, art. 15g , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2, art. 15gga ust. 1 oraz art. 15gga ust. 1, w roku 2022 i latach następnych są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, z zastrzeżeniem ust. 1c. 4aa. Koszty obsługi realizacji rozwiązań, o których mowa w ust. 4, w roku 2022 i latach następnych są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych podlegają zwrotowi ze środków Funduszu Przeciwdziałania COVID-19 lub z budżetu państwa.
+4a. Koszty realizacji rozwiązań przewidzianych dla podmiotów, o których mowa w art. 15g ust. 1–2, art. 15g 1 , art. 15ga ust. 1 i 5, art. 15gg ust. 1 i 2, art. 15gga ust. 1 oraz art. 15gga ust. 1, w roku 2022 i latach następnych są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, z zastrzeżeniem ust. 1c. 4aa. Koszty obsługi realizacji rozwiązań, o których mowa w ust. 4, w roku 2022 i latach następnych są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych podlegają zwrotowi ze środków Funduszu Przeciwdziałania COVID-19 lub z budżetu państwa.
 
 4b. Kwota środków Funduszu Gwarantowanych Świadczeń Pracowniczych przeznaczona na finansowanie kosztów obsługi, o których mowa w ust. 4 i 4aa, nie przekracza łącznie wysokości określonej w ust. 4.
 
-4c. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczania świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych.
+4c. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczania świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, są finansowane ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych.
 
 5. Do przekazania środków na koszty obsługi, o których mowa w ust. 4, postanowienia art. 27 ust. 3 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2020 r. poz. 7) w zakresie środków, o których mowa w art. 31 ust. 3 tej ustawy, stosuje się odpowiednio.
 
-6. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, niewykorzystane do dnia 31 grudnia 2020 r., pozostają na wyodrębnionych rachunkach bankowych wojewódzkich urzędów pracy z przeznaczeniem na finansowanie tych zadań w roku 2021.
+6. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1 oraz art. 15gga ust. 1, niewykorzystane do dnia 31 grudnia 2020 r., pozostają na wyodrębnionych rachunkach bankowych wojewódzkich urzędów pracy z przeznaczeniem na finansowanie tych zadań w roku 2021.
 
 6a. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15gga ust. 1 i art. 15gga ust. 1, niewykorzystane do końca roku budżetowego pozostają na wyodrębnionych rachunkach bankowych wojewódzkich urzędów pracy z przeznaczeniem na finansowanie tych zadań w roku następnym.
 
-7. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1 oraz art. 15gg ust. 1, niewykorzystane w okresie realizacji zadania, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie 2 miesięcy od zakończenia okresu realizacji zadania.
+7. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy na finansowanie zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1 oraz art. 15gg ust. 1, niewykorzystane w okresie realizacji zadania, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie 2 miesięcy od zakończenia okresu realizacji zadania.
 
 8. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych przekazane wojewódzkim urzędom pracy w roku 2020 i latach następnych na finansowanie zadań, o których mowa w art. 15gga ust. 1 i art. 15gga ust. 1, niewykorzystane w okresie realizacji zadań, podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie 2 miesięcy od dnia zakończenia okresu realizacji zadań.
 
-9. Środki zwrócone przez podmioty korzystające ze świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, w danym miesiącu na rachunek bankowy wojewódzkiego urzędu pracy, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie do 10. dnia następnego miesiąca.
+9. Środki zwrócone przez podmioty korzystające ze świadczeń na rzecz ochrony miejsc pracy, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1, w danym miesiącu na rachunek bankowy wojewódzkiego urzędu pracy, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Gwarantowanych Świadczeń Pracowniczych w terminie do 10. dnia następnego miesiąca.
 
-10. Minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może przeprowadzać w wojewódzkich urzędach pracy kontrole realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1. Do przeprowadzania kontroli stosuje się odpowiednio przepisy art. 39a–39d ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy.
+10. Minister właściwy do spraw pracy – dysponent Funduszu Gwarantowanych Świadczeń Pracowniczych może przeprowadzać w wojewódzkich urzędach pracy kontrole realizacji zadań, o których mowa w art. 15g ust. 1 i 1a, art. 15g 1 , art. 15ga ust. 1, art. 15gg ust. 1, art. 15gga ust. 1 oraz art. 15gga ust. 1. Do przeprowadzania kontroli stosuje się odpowiednio przepisy art. 39a–39d ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy.
 
 **Art. 31b.**
 
@@ -4232,11 +4221,11 @@ source: pdf
 
 **Art. 31q.**
 
-1. Koszty, o których mowa w art. 15zzb–15zze oraz art. 15zze , oraz koszty ich obsługi są finansowane w roku 2020 ze środków Funduszu Pracy, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w ramach kwot ujętych w planie finansowym Funduszu Pracy na rok
+1. Koszty, o których mowa w art. 15zzb–15zze oraz art. 15zze 2 , oraz koszty ich obsługi są finansowane w roku 2020 ze środków Funduszu Pracy, o którym mowa w ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, w ramach kwot ujętych w planie finansowym Funduszu Pracy na rok
 
 2020.
 
-1a. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5 % kwoty przeznaczonej na koszty, o których mowa w art. 15zzb–15zze oraz art. 15zze .
+1a. Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5 % kwoty przeznaczonej na koszty, o których mowa w art. 15zzb–15zze oraz art. 15zze 2 .
 
 1b. Przekazane samorządom powiatów kwoty środków, o których mowa w ust. 1a, stanowią dochód powiatu, o którym mowa w art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2020 r. poz. 23, 374 i 1086).
 
@@ -4244,13 +4233,13 @@ source: pdf
 
 3. Finansowanie zadań, o których mowa w ust. 2, ze środków na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego, odbywa się w ramach umów, o których mowa w art. 109 ust. 7 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. W takim przypadku, nie jest wymagana zmiana zawartych umów, o których mowa w art. 109 ust. 7 tej ustawy.
 
-4. Na finansowanie zadań, o których mowa w art. 15zzd, 15zzda oraz art. 15zze , przeznacza się środki Funduszu Pracy w ramach ustalonych przez ministra właściwego do spraw pracy na rok 2020 dla samorządów powiatów kwot środków (limitów) Funduszu Pracy na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o których mowa w art. 109 ust. 2, 2t i 2u ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, z wyłączeniem środków Funduszu Pracy na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego, o których mowa w art. 2 ust. 1 pkt 26a tej ustawy.
+4. Na finansowanie zadań, o których mowa w art. 15zzd, 15zzda oraz art. 15zze 2 , przeznacza się środki Funduszu Pracy w ramach ustalonych przez ministra właściwego do spraw pracy na rok 2020 dla samorządów powiatów kwot środków (limitów) Funduszu Pracy na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, o których mowa w art. 109 ust. 2, 2t i 2u ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, z wyłączeniem środków Funduszu Pracy na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego, o których mowa w art. 2 ust. 1 pkt 26a tej ustawy.
 
-5. Na finansowanie zadań, o których mowa w art. 15zzb–15zze oraz art. 15zze , mogą być przeznaczone dodatkowe środki Funduszu Pracy z rezerwy ministra właściwego do spraw pracy, o której mowa w art. 109 ust. 2u ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+5. Na finansowanie zadań, o których mowa w art. 15zzb–15zze oraz art. 15zze 2 , mogą być przeznaczone dodatkowe środki Funduszu Pracy z rezerwy ministra właściwego do spraw pracy, o której mowa w art. 109 ust. 2u ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
 6. Środki rezerwy, o których mowa w ust. 5, są przyznawane przez ministra właściwego do spraw pracy na pisemny wniosek starosty (prezydenta miasta) zaopiniowany przez marszałka województwa.
 
-7. W przypadku zgłoszeń marszałków województw dotyczących wyczerpania w województwie środków Funduszu Pracy na realizację zadań, o których mowa w art. 15zzb–15zze oraz art. 15zze , minister właściwy do spraw pracy może dokonać zmian w planie finansowym Funduszu Pracy polegających na zwiększeniu na ten cel kosztów Funduszu i odpowiednim zmniejszeniu stanu środków Funduszu na koniec roku budżetowego.
+7. W przypadku zgłoszeń marszałków województw dotyczących wyczerpania w województwie środków Funduszu Pracy na realizację zadań, o których mowa w art. 15zzb–15zze oraz art. 15zze 2 , minister właściwy do spraw pracy może dokonać zmian w planie finansowym Funduszu Pracy polegających na zwiększeniu na ten cel kosztów Funduszu i odpowiednim zmniejszeniu stanu środków Funduszu na koniec roku budżetowego.
 
 8. Minister właściwy do spraw pracy może uruchomić dodatkowe środki Funduszu Pracy z przeznaczeniem na finansowanie programów na rzecz promocji zatrudnienia, łagodzenia skutków bezrobocia i aktywizacji zawodowej, po zasileniu na ten cel Funduszu Pracy środkami Funduszu Przeciwdziałania COVID-19.
 
@@ -4258,15 +4247,15 @@ source: pdf
 
 **Art. 31qa.**
 
-1. Zadania, o których mowa w art. 15zzb–15zze oraz art. 15zze , oraz koszty ich obsługi są finansowane od dnia 1 stycznia 2021 r. do dnia 30 czerwca 2021 r. ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
+1. Zadania, o których mowa w art. 15zzb–15zze oraz art. 15zze 2 , oraz koszty ich obsługi są finansowane od dnia 1 stycznia 2021 r. do dnia 30 czerwca 2021 r. ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19 lub środkami budżetu państwa, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
 
 2. Zadania, o których mowa w art. 15zzb, art. 15zzc i art. 15zze, mogą być finansowane ze środków Funduszu Pracy na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego, o których mowa w art. 2 ust. 1 pkt 26a ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
 3. Finansowanie zadań, o których mowa w art. 15zzb, art. 15zzc i art. 15zze, ze środków Funduszu Pracy na realizację projektów współfinansowanych z Europejskiego Funduszu Społecznego odbywa się w ramach umów, o których mowa w art. 109 ust. 7 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. W takim przypadku nie jest wymagana zmiana zawartych umów.
 
-4. Zadania, o których mowa w art. 15zze i art. 15zze , oraz koszty ich obsługi są finansowane w latach 2020 i 2021 ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
+4. Zadania, o których mowa w art. 15zze i art. 15zze 4a , oraz koszty ich obsługi są finansowane w latach 2020 i 2021 ze środków Funduszu Pracy zasilonego środkami Funduszu Przeciwdziałania COVID-19, po dokonaniu odpowiednich zmian w planie finansowym Funduszu Pracy.
 
-4a. Zadania, o których mowa w art. 15zze i art. 15zze , oraz koszty ich obsługi są finansowane po roku 2021 ze środków Funduszu Pracy. Wydatki poniesione ze środków Funduszu Pracy podlegają zwrotowi ze środków Funduszu Przeciwdziałania COVID-19 lub z budżetu państwa.
+4a. Zadania, o których mowa w art. 15zze i art. 15zze 4a , oraz koszty ich obsługi są finansowane po roku 2021 ze środków Funduszu Pracy. Wydatki poniesione ze środków Funduszu Pracy podlegają zwrotowi ze środków Funduszu Przeciwdziałania COVID-19 lub z budżetu państwa.
 
 5. Na finansowanie zadań, o których mowa w ust. 1, 2, 4 i 4a, oraz kosztów ich obsługi przeznacza się środki Funduszu Pracy w ramach kwot środków (limitów) ustalonych dla samorządów powiatów przez ministra właściwego do spraw pracy.
 
@@ -4278,17 +4267,17 @@ source: pdf
 
 8a. Dysponent Funduszu Pracy może dokonać wypłaty środków Funduszu Pracy na wypłatę wsparcia, o którym mowa w art. 31zzn ust. 3 i 4, do dnia 31 grudnia 2021 r.
 
-9. Środki Funduszu Pracy, o których mowa w ust. 4, 4a i 7, przekazane samorządom powiatów w roku 2020 i latach następnych, niewykorzystane w okresie realizacji zadań, o których mowa w art. 15zze i art. 15zze , podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie 2 miesięcy od dnia zakończenia okresu realizacji zadań.
+9. Środki Funduszu Pracy, o których mowa w ust. 4, 4a i 7, przekazane samorządom powiatów w roku 2020 i latach następnych, niewykorzystane w okresie realizacji zadań, o których mowa w art. 15zze i art. 15zze 4a , podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie 2 miesięcy od dnia zakończenia okresu realizacji zadań.
 
 10. Przepisy art. 31q ust. 1a, 1b i 7 stosuje się odpowiednio.
 
-11. Środki zwrócone przez podmioty korzystające ze wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , na rachunek bankowy samorządu powiatu, rozliczone przez powiatowy urząd pracy w danym miesiącu, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie do
+11. Środki zwrócone przez podmioty korzystające ze wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze 2 , art. 15zze i art. 15zze 4a , na rachunek bankowy samorządu powiatu, rozliczone przez powiatowy urząd pracy w danym miesiącu, podlegają zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie do
 
 10. dnia następnego miesiąca.
 
-12. Koszty realizacji zadań, o których mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , w roku 2022 i latach następnych są finansowane ze środków Funduszu Pracy.
+12. Koszty realizacji zadań, o których mowa w art. 15zzb–15zze, art. 15zze 2 , art. 15zze i art. 15zze 4a , w roku 2022 i latach następnych są finansowane ze środków Funduszu Pracy.
 
-13. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczenia wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze , art. 15zze i art. 15zze , są finansowane ze środków Funduszu Pracy.
+13. Koszty rozbudowy systemów teleinformatycznych ministra właściwego do spraw pracy, wykorzystywanych do przyznawania i rozliczenia wsparcia, o którym mowa w art. 15zzb–15zze, art. 15zze 2 , art. 15zze i art. 15zze 4a , są finansowane ze środków Funduszu Pracy.
 
 **Art. 31r.** Do dnia 30 września 2020 r.:
 
@@ -4344,7 +4333,7 @@ source: pdf
 
 **Art. 31v.** Terminy sprawozdań, oświadczeń oraz raportów, o których mowa w art. 30 ust. 1, 1b, 2b, 2e, 3 i 4a, art. 30b ust. 1, 3 i 7, art. 31 ust. 1, art. 31a oraz art. 31b ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2020 r. poz. 1233 i 1565), składanych za rok 2020, wydłuża się o 30 dni kalendarzowych w stosunku do terminów określonych w przepisach dotychczasowych.
 
-**Art. 31w.** W przypadku braku możliwości realizacji zadań, o których mowa w art. 15zzb, art. 15zzc–15zze lub art. 15zze , spowodowanej wystąpieniem COVID-19, Rada Ministrów może, w drodze rozporządzenia, powierzyć je do realizacji innej jednostce sektora finansów publicznych.
+**Art. 31w.** W przypadku braku możliwości realizacji zadań, o których mowa w art. 15zzb, art. 15zzc–15zze lub art. 15zze 2 , spowodowanej wystąpieniem COVID-19, Rada Ministrów może, w drodze rozporządzenia, powierzyć je do realizacji innej jednostce sektora finansów publicznych.
 
 **Art. 31x.**
 
@@ -5037,9 +5026,9 @@ source: pdf
 
 **Art. 31zzn.**
 
-1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb– 15zze oraz art. 15zze , mogą być składane do dnia 10 czerwca 2021 r.
+1. Wnioski o przyznanie wsparcia, o których mowa w art. 15zzb– 15zze oraz art. 15zze 2 , mogą być składane do dnia 10 czerwca 2021 r.
 
-2. Wsparcie, o którym mowa w art. 15zzb–15zze oraz art. 15zze , może być udzielane do dnia 30 czerwca 2021 r.
+2. Wsparcie, o którym mowa w art. 15zzb–15zze oraz art. 15zze 2 , może być udzielane do dnia 30 czerwca 2021 r.
 
 3. Na podstawie wniosków, o których mowa w ust. 1, rozpatrzonych do dnia 30 czerwca 2021 r., możliwe jest dokonanie wypłaty wsparcia po tym terminie, nie później niż do dnia 31 marca 2022 r.
 

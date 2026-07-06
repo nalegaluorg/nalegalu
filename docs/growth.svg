@@ -19,25 +19,26 @@
 <text x="643" y="130.0" text-anchor="start" font-size="11" fill="#dc2626">407</text>
 <text x="643" y="82.0" text-anchor="start" font-size="11" fill="#dc2626">462</text>
 <text x="643" y="34.0" text-anchor="start" font-size="11" fill="#dc2626">517</text>
-<polygon points="65.0,270.0 65.0,233.7 179.0,241.2 293.0,88.7 407.0,49.2 521.0,49.2 635.0,67.9 635.0,270.0" fill="#2563eb" fill-opacity="0.08"/>
-<polyline points="65.0,233.7 179.0,241.2 293.0,88.7 407.0,49.2 521.0,49.2 635.0,67.9" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
-<polyline points="65.0,241.2 179.0,49.2 293.0,94.6 407.0,119.0 521.0,119.0 635.0,134.7" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" stroke-linejoin="round"/>
+<polygon points="65.0,270.0 65.0,233.7 160.0,241.2 255.0,88.7 350.0,49.2 445.0,49.2 540.0,67.9 635.0,67.9 635.0,270.0" fill="#2563eb" fill-opacity="0.08"/>
+<polyline points="65.0,233.7 160.0,241.2 255.0,88.7 350.0,49.2 445.0,49.2 540.0,67.9 635.0,67.9" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="65.0,241.2 160.0,49.2 255.0,94.6 350.0,119.0 445.0,119.0 540.0,136.5 635.0,134.7" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" stroke-linejoin="round"/>
 <circle cx="65.0" cy="233.7" r="2" fill="#2563eb"/>
-<circle cx="179.0" cy="241.2" r="2" fill="#2563eb"/>
-<circle cx="293.0" cy="88.7" r="2" fill="#2563eb"/>
-<circle cx="407.0" cy="49.2" r="2" fill="#2563eb"/>
-<circle cx="521.0" cy="49.2" r="2" fill="#2563eb"/>
+<circle cx="160.0" cy="241.2" r="2" fill="#2563eb"/>
+<circle cx="255.0" cy="88.7" r="2" fill="#2563eb"/>
+<circle cx="350.0" cy="49.2" r="2" fill="#2563eb"/>
+<circle cx="445.0" cy="49.2" r="2" fill="#2563eb"/>
+<circle cx="540.0" cy="67.9" r="2" fill="#2563eb"/>
 <circle cx="635.0" cy="67.9" r="4" fill="#2563eb"/>
 <circle cx="635.0" cy="134.7" r="3" fill="#dc2626"/>
 <text x="630.0" y="55.9" text-anchor="end" font-size="12" font-weight="600" fill="#2563eb">18,708</text>
-<text x="630.0" y="67.9" text-anchor="end" font-size="10" fill="#dc2626">(-553/tydz.)</text>
 <text x="630.0" y="150.7" text-anchor="end" font-size="11" fill="#dc2626">397</text>
 <text x="65.0" y="288" text-anchor="middle" font-size="10" fill="#888">18.05</text>
-<text x="179.0" y="288" text-anchor="middle" font-size="10" fill="#888">25.05</text>
-<text x="293.0" y="288" text-anchor="middle" font-size="10" fill="#888">08.06</text>
-<text x="407.0" y="288" text-anchor="middle" font-size="10" fill="#888">15.06</text>
-<text x="521.0" y="288" text-anchor="middle" font-size="10" fill="#888">22.06</text>
-<text x="635.0" y="288" text-anchor="middle" font-size="10" fill="#888">29.06</text>
+<text x="160.0" y="288" text-anchor="middle" font-size="10" fill="#888">25.05</text>
+<text x="255.0" y="288" text-anchor="middle" font-size="10" fill="#888">08.06</text>
+<text x="350.0" y="288" text-anchor="middle" font-size="10" fill="#888">15.06</text>
+<text x="445.0" y="288" text-anchor="middle" font-size="10" fill="#888">22.06</text>
+<text x="540.0" y="288" text-anchor="middle" font-size="10" fill="#888">29.06</text>
+<text x="635.0" y="288" text-anchor="middle" font-size="10" fill="#888">06.07</text>
 <circle cx="65" cy="308" r="4" fill="#2563eb"/><text x="73" y="312" font-size="10" fill="#666">Opublikowane</text>
 <line x1="165" y1="308" x2="181" y2="308" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3"/><text x="185" y="312" font-size="10" fill="#666">Odrzucone</text>
 </svg>

@@ -46,7 +46,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19971020642 | Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU19971110726 | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo b… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19980460293 | Wyrok Trybunału Konstytucyjnego z dnia 31 marca 1998 r. - sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU19981060668 | Ustawa z dnia 24 lipca 1998 r. o zmianie niektórych ustaw ok… | rendered round-trip failed: AST=142 rendered=142 dup_rendere… |
+| WDU19981060668 | Ustawa z dnia 24 lipca 1998 r. o zmianie niektórych ustaw ok… | rendered round-trip failed: AST=157 rendered=157 dup_rendere… |
 | WDU19981130714 | Ustawa z dnia 23 lipca 1998 r. o zmianie ustawy o usługach t… | missing article structure — act type requires Art. markers b |
 | WDU19990130114 | Rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w spra… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19991011182 | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 1999 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |

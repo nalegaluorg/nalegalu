@@ -98,7 +98,8 @@ source: pdf
 - **29)** w art. 87 w ust. 1 pkt 2 otrzymuje brzmienie: „2) oznaczenie dnia zaprzestania udzielania świadczeń zdrowotnych, nie wcześniej niż 3 miesiące od dnia wydania zarządzenia albo podjęcia uchwały;”;
 - **30)** w art. 88 w ust. 1 uchyla się pkt 2;
 - **31)** w art. 100:
-    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) imię i nazwisko, nazwę albo firmę;”, – pkt 6 otrzymuje brzmienie: „6) nazwę przedsiębiorstwa, oraz wykaz jego jednostek lub komórek organizacyjnych, których działalność jest związana z udzielaniem świadczeń zdrowotnych;”, – uchyla się pkt 7, b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nazwa przedsiębiorstwa, o której mowa w ust. 1 pkt 6, nie może być taka sama jak oznaczenie podmiotu leczniczego, zgodnie z ust. 1 pkt 1.”,
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) imię i nazwisko, nazwę albo firmę;”, – pkt 6 otrzymuje brzmienie: „6) nazwę przedsiębiorstwa, oraz wykaz jego jednostek lub komórek organizacyjnych, których działalność jest związana z udzielaniem świadczeń zdrowotnych;”, – uchyla się pkt 7,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nazwa przedsiębiorstwa, o której mowa w ust. 1 pkt 6, nie może być taka sama jak oznaczenie podmiotu leczniczego, zgodnie z ust. 1 pkt 1.”,
     - **c)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) imię i nazwisko, nazwę albo firmę wnioskodawcy, adres jego miejsca zamieszkania albo siedziby;”;
 
 - **32)** w art. 101:

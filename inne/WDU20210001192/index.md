@@ -88,8 +88,8 @@ source: pdf
 
 - **29)** po art. 31i dodaje się art. 31ia w brzmieniu: „Art. 31ia. W okresie od dnia ogłoszenia ustawy z dnia 24 czerwca 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw do dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19: 1) wydłuża się do 60 dni terminy określone w art. 71 ust. 7 i art. 78 ust. 2 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym; 2) art. 140mb ustawy, o której mowa w pkt 1, stosuje się z uwzględnieniem terminu określonego w pkt 1.”;
 - **30)** w art. 31qa:
-    - **a)** w ust. 4 wyrazy „Zadanie, o którym mowa w art. 15zze , oraz koszty jego obsługi” zastępuje się wyrazami „Zadania, o których mowa w art. 15zze i art. 15zze , oraz koszty ich obsługi”,
-    - **b)** ust. 9 otrzymuje brzmienie: „9. Środki Funduszu Pracy, o których mowa w ust. 4 i 7, przekazane samorządom powiatów w latach 2020 i 2021, niewykorzystane w okresie realizacji zadań, o których mowa w art. 15zze i art. 15zze , podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie 2 miesięcy od dnia zakończenia okresu realizacji zadań.”;
+    - **a)** w ust. 4 wyrazy „Zadanie, o którym mowa w art. 15zze 4 , oraz koszty jego obsługi” zastępuje się wyrazami „Zadania, o których mowa w art. 15zze i art. 15zze 4a , oraz koszty ich obsługi”,
+    - **b)** ust. 9 otrzymuje brzmienie: „9. Środki Funduszu Pracy, o których mowa w ust. 4 i 7, przekazane samorządom powiatów w latach 2020 i 2021, niewykorzystane w okresie realizacji zadań, o których mowa w art. 15zze i art. 15zze 4a , podlegają rozliczeniu i zwrotowi na rachunek bankowy dysponenta Funduszu Pracy w terminie 2 miesięcy od dnia zakończenia okresu realizacji zadań.”;
 
 - **31)** w art. 31zo:
     - **a)** w ust. 11 po wyrazach „w ust. 10” dodaje się wyrazy „i 12”,
@@ -132,7 +132,7 @@ source: pdf
 **Art. 5.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, 1086, 2255 i 2320 oraz z 2021 r. poz. 159 i 981) w art. 58 w ust. 1:
 
 - **1)** skreśla się wyrazy „związanego z utrzymaniem miejsc pracy”;
-- **2)** wyrazy „art. 15g, art. 15gga, art. 15zzb–15zze i art. 15zze ” zastępuje się wyrazami „art. 15g, art. 15gga, art. 15gga , art. 15zzb–15zze, art. 15zze i art. 15zze ”.
+- **2)** wyrazy „art. 15g, art. 15gga, art. 15zzb–15zze i art. 15zze ” zastępuje się wyrazami „art. 15g, art. 15gga, art. 15gga 1 , art. 15zzb–15zze, art. 15zze i art. 15zze ”.
 
 **Art. 6.**
 

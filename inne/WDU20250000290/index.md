@@ -53,7 +53,7 @@ source: pdf
 **Art. 4.** W ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859 i 1831) wprowadza się następujące zmiany:
 
 - **1)** po art. 38 dodaje się art. 38 w brzmieniu: „Art. 38 . W przypadku niezłożenia informacji o pomocy przez przedsiębiorcę, o którym mowa: 1) w art. 37 ust. 1 – w terminie określonym w art. 37 ust. 6, 2) w art. 38 ust. 1 – w terminie określonym w art. 38 ust. 5a – przedsiębiorca ten może złożyć do podmiotu udzielającego pomocy informację o pomocy w terminie do dnia 30 czerwca 2025 r.”;
-- **2)** w art. 38a w ust. 6 po wyrazach „ , o którym mowa w art. 37 ust. 6 albo art. 38 ust. 5a,” dodaje się wyrazy „albo w terminie, o którym mowa w art. 38 ,”.
+- **2)** w art. 38a w ust. 6 po wyrazach „ , o którym mowa w art. 37 ust. 6 albo art. 38 ust. 5a,” dodaje się wyrazy „albo w terminie, o którym mowa w art. 38 1 ,”.
 
 **Art. 5.** Dla aukcji dogrywkowej w rozumieniu art. 2 ust. 1 pkt 1a ustawy zmienianej w art. 1 na rok dostaw 2029 operator w rozumieniu art. 2 ust. 1 pkt 27 ustawy zmienianej w art. 1 przekazuje:
 

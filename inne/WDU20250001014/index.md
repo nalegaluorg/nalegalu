@@ -72,8 +72,8 @@ source: pdf
     - **a)** w ust. 2 pkt 5 otrzymuje brzmienie: „5) prawidłowości orzekania o czasowej niezdolności do służby z powodu choroby.”,
     - **b)** w ust. 4 skreśla się wyrazy „art. 61 i”;
 
-- **22)** w art. 128:
-    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) zrzeczenia się obywatelstwa polskiego;”, – pkt 6 otrzymuje brzmienie: „6) prawomocnego orzeczenia o wymierzeniu kary dyscyplinarnej określonej w art. 362 ust. 1 pkt 7;”, – pkt 9 otrzymuje brzmienie; „9) skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania;”,
+- **22)** w art. 128: „9) skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania;”,
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) zrzeczenia się obywatelstwa polskiego;”, – pkt 6 otrzymuje brzmienie: „6) prawomocnego orzeczenia o wymierzeniu kary dyscyplinarnej określonej w art. 362 ust. 1 pkt 7;”, – pkt 9 otrzymuje brzmienie;
     - **b)** w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) skazania prawomocnym wyrokiem na karę ograniczenia wolności albo pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo karę aresztu wojskowego bez warunkowego zawieszenia jej wykonania albo z warunkowym zawieszeniem jej wykonania;”;
 
 - **23)** w art. 137 dodaje się ust. 6 w brzmieniu: „6. Do zgody, o której mowa w ust. 2, nie stosuje się przepisów art. 106 § 2–6 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;

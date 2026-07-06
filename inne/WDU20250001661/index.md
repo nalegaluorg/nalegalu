@@ -441,7 +441,7 @@ source: pdf
 
 **Art. 39.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518) wprowadza się następujące zmiany:
 
-- **1)** w art. 47 w § 2 w pkt 1 w lit. a, w art. 63 , w art. 461 w § 1 oraz w art. 476 w § 1 w pkt 1 po wyrazie „istnienia” dodaje się wyrazy „lub treści”;
+- **1)** w art. 47 w § 2 w pkt 1 w lit. a, w art. 63 1 , w art. 461 w § 1 oraz w art. 476 w § 1 w pkt 1 po wyrazie „istnienia” dodaje się wyrazy „lub treści”;
 - **2)** w art. 476 w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4–6 w brzmieniu: „4) o ustalenie obowiązywania lub treści układu zbiorowego pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki osób wykonujących pracę zarobkową, pracodawców oraz zakładowej organizacji związkowej;
 - **5)** o ustalenie liczby członków zakładowej organizacji związkowej;
 - **6)** o ustalenie istnienia sporu zbiorowego, warunków jego dopuszczalności i prowadzenia.”.
@@ -487,7 +487,7 @@ source: pdf
 
 § 8. Informacja o porozumieniu, o którym mowa w § 1 i 2, podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych w ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych.”;
 
-- **4)** art. 77 otrzymuje brzmienie: „Art. 77 . Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych, z zastrzeżeniem przepisów art. 77 –77 .”;
+- **4)** art. 77 otrzymuje brzmienie: „Art. 77 . Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych, z zastrzeżeniem przepisów art. 77 2 –77 .”;
 - **5)** w art. 77 § 5 otrzymuje brzmienie: „§ 5. Do regulaminu wynagradzania stosuje się odpowiednio przepisy art. 7 ust. 1, art. 10 ust. 3, art. 16 ust. 4–6 i art. 18 ust. 1 ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych.”;
 - **6)** w art. 139:
     - **a)** § 3 otrzymuje brzmienie: „§ 3. System przerywanego czasu pracy wprowadza się w układzie zbiorowym pracy, a jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa – w porozumieniu z przedstawicielami pracowników wyłonionymi w trybie przyjętym u tego pracodawcy, z zastrzeżeniem § 4.”,
@@ -516,7 +516,7 @@ source: pdf
 
 4. Z prawa dostępu w tym samym czasie może korzystać nie więcej niż 5 osób, o których mowa w ust. 2.”;
 
-- **4)** w art. 35 w ust. 1 w pkt 7 dodaje się przecinek i dodaje się pkt 8 i 9 w brzmieniu: „8) nie zapewnia dostępu do zakładu pracy lub innego miejsca wyznaczonego przez pracodawcę do wykonywania czynności osobom, o którym mowa w art. 28 ,
+- **4)** w art. 35 w ust. 1 w pkt 7 dodaje się przecinek i dodaje się pkt 8 i 9 w brzmieniu: „8) nie zapewnia dostępu do zakładu pracy lub innego miejsca wyznaczonego przez pracodawcę do wykonywania czynności osobom, o którym mowa w art. 28 1 ,
 - **9)** nie przestrzega wewnętrznych przepisów obowiązujących u danego pracodawcy podczas wykonywania czynności, o których mowa w art. 28 ”.
 
 **Art. 43.** W ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2020 r. poz. 123) wprowadza się następujące zmiany:

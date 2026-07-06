@@ -1427,7 +1427,7 @@ source: pdf
 
 1. W sprawach o roszczenia ze stosunków prawnych między członkami otwartych funduszy a tymi funduszami lub ich organami orzekają sądy ubezpieczeń społecznych właściwe dla miejsca zamieszkania członka funduszu.
 
-2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, z wyjątkiem art. 460 § 1, art. 461 § 1 i 2, art. 463 § 1 i 3, art. 467 § 4, art. 476 § 1–2 i 4–5, art. 477 § 1 –2, art. 477 , art. 477 , art. 477 –477 .
+2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, z wyjątkiem art. 460 § 1, art. 461 § 1 i 2, art. 463 § 1 i 3, art. 467 § 4, art. 476 § 1–2 i 4–5, art. 477 § 1 1 –2, art. 477 2 , art. 477 6 , art. 477 9 –477 .
 
 **Art. 91.** W sprawach o roszczenia ze stosunków prawnych między członkami pracowniczych funduszy a tymi funduszami lub ich organami orzekają sądy powszechne właściwe dla miejsca zamieszkania członka funduszu.
 

@@ -330,9 +330,7 @@ source: pdf
     - **b)** oddelegowaniem do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem oddelegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym, o którym mowa w art. 145a ust. 1 pkt 2 i 3,
     - **c)** wystąpieniem o mianowanie na stopnie generalnego inspektora Policji i nadinspektora Policji,
     - **d)** wystąpieniem o przedterminowe mianowanie w korpusie oficerów młodszych i starszych w Policji,
-    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r. poz.
-
-- **2053)** ,
+    - **e)** wystąpieniem o wyróżnienie, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa w ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r. poz. 2053),
     - **f)** oddelegowaniem do wykonywania zadań w Biurze Nadzoru Wewnętrznego;
 
 - **4)** udostępniać dokumentację z kontroli, o której mowa w art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222).
@@ -1019,8 +1017,7 @@ source: pdf
 - **1)** przeciwko życiu, określonych w art. 148–150 Kodeksu karnego,
 - **2)** określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 156a, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 189a, art. 191b, art. 200a, art. 200b, art. 211a, art. 223, art. 224a, art. 228 § 1 i 3–6, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 233 § 1, 1a, 4 i 6, art. 234, art. 235, art. 236 § 1, art. 238, art. 239 § 1, art. 240 § 1, art. 245, art. 246, art. 252 § 1–3, art. 258, art. 267 § 1–4, art. 268a § 1 i 2, art. 269, art. 269a, art. 269b § 1, art. 270a § 1 i 2, art. 271a § 1 i 2, art. 277a § 1, art. 279 § 1, art. 280–282, art. 285 § 1, art. 286 § 1, art. 287 § 1, art. 296 § 1–3, art. 296a § 1, 2 i 4, art. 299 § 1–6 oraz art. 310 § 1, 2 i 4 Kodeksu karnego, 2a) określonych w art. 46 ust. 1, 2 i 4, art. 47 oraz art. 48 ust. 1 i 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28), 2b) określonych w art. 178–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz.
 - **146)** oraz art. 99–100 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863 oraz z 2025 r. poz. 146),
-- **3)** przeciwko obrotowi gospodarczemu, określonych w art. 296–306 Kodeksu karnego, powodujących szkodę majątkową lub skierowanych przeciwko mieniu, jeżeli wysokość szkody lub wartość mienia przekracza pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów, 3a) przeciwko wolności seksualnej i obyczajności, gdy pokrzywdzonym jest małoletni albo gdy treści pornograficzne, o których mowa w art. 202 Kodeksu karnego, obejmują udział małoletniego, 3b) określonych w rozdziale 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), w rozdziale 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), w rozdziale 5a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), w rozdziale 11a ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) oraz w rozdziale 6 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz.
-- **1591)** ,
+- **3)** przeciwko obrotowi gospodarczemu, określonych w art. 296–306 Kodeksu karnego, powodujących szkodę majątkową lub skierowanych przeciwko mieniu, jeżeli wysokość szkody lub wartość mienia przekracza pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów, 3a) przeciwko wolności seksualnej i obyczajności, gdy pokrzywdzonym jest małoletni albo gdy treści pornograficzne, o których mowa w art. 202 Kodeksu karnego, obejmują udział małoletniego, 3b) określonych w rozdziale 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), w rozdziale 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), w rozdziale 5a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), w rozdziale 11a ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) oraz w rozdziale 6 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz. 1591),
 - **4)** skarbowych, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznoprawnej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów, 4a) skarbowych, o których mowa w art. 107 § 1 Kodeksu karnego skarbowego,
 - **5)** nielegalnego wytwarzania, posiadania lub obrotu bronią, amunicją, materiałami wybuchowymi, środkami odurzającymi, substancjami psychotropowymi, ich prekursorami lub nowymi substancjami psychoaktywnymi oraz materiałami jądrowymi i promieniotwórczymi,
 - **6)** określonych w art. 8 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. poz. 554 i 1083, z 1998 r. poz. 715, z 2009 r. poz. 1149 i 1589, z 2010 r. poz. 626 oraz z 2022 r. poz. 2600),
@@ -1242,11 +1239,9 @@ source: pdf
 - **6)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146);
 - **7)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
 - **8)** stanowiących tajemnicę w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146);
-- **9)** stanowiących tajemnicę w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz.
-- **1113)** ;
+- **9)** stanowiących tajemnicę w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113);
 - **10)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146);
-- **11)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222 oraz z 2025 r. poz.
-- **146)** ;
+- **11)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222 oraz z 2025 r. poz. 146);
 - **12)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984 i 1863).
 
 4. Informacje i dane, o których mowa w ust. 3, oraz informacje związane z przekazywaniem tych informacji i danych podlegają ochronie przewidzianej w przepisach o ochronie informacji niejawnych i mogą być udostępniane jedynie policjantom prowadzącym czynności w danej sprawie i ich przełożonym, uprawnionym do sprawowania nadzoru nad prowadzonymi przez nich w tej sprawie czynnościami operacyjno-rozpoznawczymi. Akta zawierające te informacje i dane udostępnia się ponadto wyłącznie sądom i prokuratorom, jeżeli następuje to w celu ścigania karnego. Informacje i dane udostępnia się także organom ścigania państw członkowskich Unii Europejskiej, agencjom Unii Europejskiej zajmującym się zapobieganiem i zwalczaniem przestępczości oraz Międzynarodowej Organizacji Policji Kryminalnej – Interpol, jeżeli następuje to w celu ścigania karnego.
@@ -1256,8 +1251,7 @@ source: pdf
 5a. Informacje i dane, o których mowa w ust. 3:
 
 - **1)** dotyczące dokumentacji związanej z nadaniem NIP oraz aktualizowaniem danych zawartych w zgłoszeniach identyfikacyjnych, określonej w art. 13 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237),
-- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz.
-- **111)** ,
+- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111),
 - **3)** dotyczące zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności, o których mowa w art. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, lub czynności, o których mowa w art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania, a także dane teleadresowe umożliwiające nawiązanie kontaktu z tą osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej,
 - **4)** dotyczące objęcia osoby fizycznej ubezpieczeniem społecznym i zwaloryzowanej wysokości składek na ubezpieczenie emerytalne osoby fizycznej, a także dane płatnika składek, o których mowa w art. 40, art. 45 i art. 50 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa w ustawie z dnia 26 października 2000 r. o giełdach towarowych,
@@ -2250,7 +2244,7 @@ source: pdf
 
 **Art. 33b.**
 
-1. Przełożony, o którym mowa w art. 32 ust. 1, realizuje w stosunku do policjanta pełniącego służbę w formie zdalnej obowiązki określone w art. 71a–71d w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+1. Przełożony, o którym mowa w art. 32 ust. 1, realizuje w stosunku do policjanta pełniącego służbę w formie zdalnej obowiązki określone w art. 71a–71d w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
 
 2. Przełożony, o którym mowa w art. 32 ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez policjanta służby pełnionej w formie zdalnej przekazują policjantowi pełniącemu służbę w formie zdalnej informacje dotyczące:
 
@@ -3355,7 +3349,7 @@ source: pdf
 
 1. Za stan bezpieczeństwa i higieny służby w stosunku do podległych policjantów odpowiadają Komendant Główny Policji, Komendant CBŚP, Komendant BSWP, Komendant CBZC, Dyrektor CLKP, komendanci wojewódzcy Policji, Komendant Stołeczny Policji, komendanci powiatowi (miejscy) Policji, komendanci rejonowi Policji, Komendant-Rektor Akademii Policji w Szczytnie i komendanci szkół policyjnych.
 
-2. W przypadku policjantów odbywających szkolenia zawodowe lub doskonalenie zawodowe centralne w Policji za stan bezpieczeństwa i higieny służby odpowiadają Komendant-Rektor Akademii Policji w Szczytnie, komendanci szkół policyjnych i kierownik ośrodka szkolenia, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 , art. 209 § 1–3, art. 209 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zwanej dalej „Kodeksem pracy”.
+2. W przypadku policjantów odbywających szkolenia zawodowe lub doskonalenie zawodowe centralne w Policji za stan bezpieczeństwa i higieny służby odpowiadają Komendant-Rektor Akademii Policji w Szczytnie, komendanci szkół policyjnych i kierownik ośrodka szkolenia, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 1 , art. 209 § 1–3, art. 209 2 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zwanej dalej „Kodeksem pracy”.
 
 3. Za pracodawcę, w rozumieniu przepisów działu dziesiątego Kodeksu pracy, a także przepisów wykonawczych wydanych na jego podstawie, w stosunku do podległych policjantów uważa się przełożonych wymienionych w ust. 1.
 
@@ -3365,7 +3359,7 @@ source: pdf
 
 6. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228 § 1 i 2, art. 229 § 1–1 , 4a i 8 w zakresie niedotyczącym wskazówek metodycznych w sprawie przeprowadzania badań profilaktycznych pracowników oraz dokumentowania i kontroli badań okresowych i kontrolnych, art. 230 § 2, art. 232, art. 234 § 1–3 , art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 § 1, art. 237 § 3, art. 237 § 4 oraz art. 237 § 4.
 
-7. Przepisów art. 209 , art. 209 , art. 210 § 1–5 i art. 226 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez policjanta zadań określonych w:
+7. Przepisów art. 209 2 , art. 209 3 , art. 210 § 1–5 i art. 226 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez policjanta zadań określonych w:
 
 - **1)** art. 1 ust. 2 pkt 1–4 oraz 6;
 - **2)** art. 1 ust. 2 pkt 7 i ust. 3, jeżeli charakter tych działań ma związek z zadaniami określonymi w pkt 1.
@@ -3544,7 +3538,7 @@ source: pdf
 
 **Art. 79.**
 
-1. Policjantowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Policjantowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 1 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Jeżeli oboje rodzice lub opiekunowie są policjantami albo jedno z nich jest policjantem, a drugie pozostaje w stosunku pracy, z uprawnień, o których mowa w ust. 1, może korzystać jedno z nich.
 

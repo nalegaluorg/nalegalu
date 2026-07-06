@@ -392,7 +392,7 @@ source: pdf
 
 2. W przypadku oddalenia wniosku wierzyciela o ogłoszenie upadłości złożonego w złej wierze, dłużnikowi, a także osobie trzeciej przysługuje przeciwko wierzycielowi roszczenie o naprawienie szkody.
 
-**Art. 35.** Do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy art. 216a–216ab, art. 219, art. 220, art. 221, art. 224, art. 228 ust. 1, 2 i 3 i art. 229 ust. 2 oraz przepisy części pierwszej księgi pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 , art. 139 , art. 205 , art. 205 i art. 205 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych.
+**Art. 35.** Do postępowania w przedmiocie ogłoszenia upadłości stosuje się odpowiednio przepisy art. 216a–216ab, art. 219, art. 220, art. 221, art. 224, art. 228 ust. 1, 2 i 3 i art. 229 ust. 2 oraz przepisy części pierwszej księgi pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 2 , art. 139 1 , art. 205 1 , art. 205 i art. 205 4 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych.
 
 ### DZIAŁ IV Postępowanie zabezpieczające
 
@@ -876,7 +876,7 @@ source: pdf
 
 1. Po ogłoszeniu upadłości spółdzielni mieszkaniowej czynności określone w art. 41–43 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558) wykonuje syndyk.
 
-2. Na syndyku ciąży obowiązek zawarcia umowy, o której mowa w art. 12, art. 17 , art. 17 , art. 39 i art. 48 ustawy wskazanej w ust. 1, jeżeli żądanie zostało złożone spółdzielni przed ogłoszeniem upadłości albo po ogłoszeniu upadłości na podstawie art. 54 ust. 2 tej ustawy. (oznaczenie i tytuł oddziału 2 – uchylone)
+2. Na syndyku ciąży obowiązek zawarcia umowy, o której mowa w art. 12, art. 17 14 , art. 17 15 , art. 39 i art. 48 ustawy wskazanej w ust. 1, jeżeli żądanie zostało złożone spółdzielni przed ogłoszeniem upadłości albo po ogłoszeniu upadłości na podstawie art. 54 ust. 2 tej ustawy. (oznaczenie i tytuł oddziału 2 – uchylone)
 
 **Art. 87.** (uchylony)
 
@@ -2093,7 +2093,7 @@ source: pdf
 
 **Art. 229.**
 
-1. W sprawach nieuregulowanych ustawą do postępowania upadłościowego stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 , art. 139 , art. 205 , art. 205 i art. 205 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych, chyba że ustawa stanowi inaczej.
+1. W sprawach nieuregulowanych ustawą do postępowania upadłościowego stosuje się odpowiednio przepisy księgi pierwszej części pierwszej Kodeksu postępowania cywilnego, z wyjątkiem art. 130 2 , art. 139 1 , art. 205 1 , art. 205 i art. 205 4 –205 oraz przepisów o zawieszeniu i wznowieniu postępowania oraz postępowaniu w sprawach gospodarczych, chyba że ustawa stanowi inaczej.
 
 2. Pouczeń na piśmie dokonuje się z wykorzystaniem udostępnionych w systemie teleinformatycznym obsługującym postępowanie sądowe wzorów pouczeń.
 
@@ -2837,7 +2837,7 @@ source: pdf
 
 1. W postępowaniu o wydanie kwoty z depozytu sądowego badaniu podlega jedynie legitymacja czynna wnioskodawcy. Kwoty z depozytu wydaje się osobie, na którą przeszło uprawnienie wierzyciela do wypłaty kwoty z depozytu, jeżeli przejście to będzie wykazane dokumentem urzędowym lub prywatnym z podpisem urzędowo poświadczonym.
 
-2. Termin do odbioru depozytu sądowego wynosi trzy lata od dnia uprawomocnienia się postanowienia o zakończeniu albo umorzeniu postępowania upadłościowego, ale nie mniej niż trzy lata od daty ziszczenia się warunku, o którym mowa w art. 356 ust. 1 lub 2, albo od daty wymagalności. Po upływie terminu prawa do niepodjętego depozytu przechodzą na Skarb Państwa. Do likwidacji niepodjętego depozytu zastosowanie mają przepisy art. 693 –693 Kodeksu postępowania cywilnego.
+2. Termin do odbioru depozytu sądowego wynosi trzy lata od dnia uprawomocnienia się postanowienia o zakończeniu albo umorzeniu postępowania upadłościowego, ale nie mniej niż trzy lata od daty ziszczenia się warunku, o którym mowa w art. 356 ust. 1 lub 2, albo od daty wymagalności. Po upływie terminu prawa do niepodjętego depozytu przechodzą na Skarb Państwa. Do likwidacji niepodjętego depozytu zastosowanie mają przepisy art. 693 18 –693 Kodeksu postępowania cywilnego.
 
 ## TYTUŁ IX Zakończenie i umorzenie postępowania upadłościowego oraz ich skutki
 
@@ -4023,7 +4023,7 @@ source: pdf
 
 ### DZIAŁ II Postępowanie upadłościowe wobec mających siedzibę w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym zakładów ubezpieczeń i ich oddziałów oraz zakładów reasekuracji i ich oddziałów
 
-**Art. 481.** Przepisy art. 452 ust. 2, art. 453–466 i art. 467 –470 stosuje się odpowiednio w przypadku:
+**Art. 481.** Przepisy art. 452 ust. 2, art. 453–466 i art. 467 1 –470 stosuje się odpowiednio w przypadku:
 
 - **1)** ogłoszenia upadłości krajowego zakładu ubezpieczeń lub krajowego zakładu reasekuracji, jeżeli prowadzi on działalność także za granicą Rzeczypospolitej Polskiej w co najmniej jednym innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
 - **2)** ogłoszenia upadłości, otwarcia postępowania układowego lub innego podobnego postępowania wobec:
@@ -4098,7 +4098,7 @@ source: pdf
 
 2. W postanowieniu o ogłoszeniu upadłości sąd może postanowić, że postępowanie upadłościowe wobec osób, o których mowa w ust. 1, będzie prowadzone zgodnie z przepisami części pierwszej, jeżeli jest to uzasadnione znacznym rozmiarem majątku dłużnika, znaczną liczbą wierzycieli lub innymi uzasadnionymi przewidywaniami co do zwiększonego stopnia skomplikowania postępowania. Na postanowienie o prowadzeniu postępowania upadłościowego zgodnie z przepisami części pierwszej przysługuje zażalenie.
 
-3. W postępowaniu, o którym mowa w ust. 2, stosuje się przepisy art. 491 , art. 491 i art. 491 .
+3. W postępowaniu, o którym mowa w ust. 2, stosuje się przepisy art. 491 7 , art. 491 i art. 491 10 .
 
 4. W postępowaniu, o którym mowa w ust. 2, przepis art. 361 stosuje się odpowiednio jedynie wówczas, gdy upadłość została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela. Jeżeli upadłość nie została ogłoszona wyłącznie na skutek uwzględnienia wniosku wierzyciela, sąd stwierdza zakończenie postępowania upadłościowego również w przypadku braku masy upadłości lub gdy po całkowitym zlikwidowaniu masy upadłości z uwagi na brak funduszów masy upadłości, które mogłyby podlegać podziałowi, nie został sporządzony ostateczny plan podziału.
 
@@ -4170,9 +4170,9 @@ source: pdf
 
 **Art. 491⁶a.**
 
-1. W zawiadomieniu skierowanym do wierzycieli syndyk poucza ich o treści art. 54a, art. 216a–216ab, art. 235–237, art. 239a–241, art. 491 , art. 491 ust. 5, 6 i 8, art. 491 i art. 491 , wskazuje sąd, do którego można zaskarżyć postanowienie o ogłoszeniu upadłości zgodnie z art. 54a ust. 1, imię i nazwisko albo nazwę syndyka, adres, na który należy dokonać zgłoszenia wierzytelności, o której mowa w art. 216aa ust. 1, termin, w którym należy dokonać zgłoszenia wierzytelności, albo sposób obliczenia tego terminu oraz podaje numer rachunku bankowego, na który należy wpłacić zryczałtowane koszty, o których mowa w art. 235 ust. 1.
+1. W zawiadomieniu skierowanym do wierzycieli syndyk poucza ich o treści art. 54a, art. 216a–216ab, art. 235–237, art. 239a–241, art. 491 12a , art. 491 ust. 5, 6 i 8, art. 491 i art. 491 16 , wskazuje sąd, do którego można zaskarżyć postanowienie o ogłoszeniu upadłości zgodnie z art. 54a ust. 1, imię i nazwisko albo nazwę syndyka, adres, na który należy dokonać zgłoszenia wierzytelności, o której mowa w art. 216aa ust. 1, termin, w którym należy dokonać zgłoszenia wierzytelności, albo sposób obliczenia tego terminu oraz podaje numer rachunku bankowego, na który należy wpłacić zryczałtowane koszty, o których mowa w art. 235 ust. 1.
 
-2. W zawiadomieniu skierowanym do małżonka dłużnika syndyk poucza go o treści art. 124–126, art. 491 ust. 5, 6 i 8, art. 491 i art. 491 .
+2. W zawiadomieniu skierowanym do małżonka dłużnika syndyk poucza go o treści art. 124–126, art. 491 ust. 5, 6 i 8, art. 491 i art. 491 16 .
 
 **Art. 491⁷.**
 
@@ -4224,7 +4224,7 @@ source: pdf
 
 2. O wyborze sposobu likwidacji nieruchomości oraz wyborze sposobu likwidacji składników masy upadłości, których wartość oszacowania wskazana w spisie inwentarza przekracza pięciokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedzającego złożenie spisu inwentarza, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, syndyk zawiadamia wierzycieli oraz sąd za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z wykorzystaniem udostępnianych w tym systemie formularzy. W zawiadomieniu syndyk wskazuje sposób likwidacji oraz minimalną cenę.
 
-3. Na skutek skargi na czynności syndyka, o której mowa w art. 491 , lub z urzędu sąd, w drodze postanowienia, zakazuje syndykowi dokonania likwidacji składnika masy upadłości w wybrany przez syndyka sposób lub za wskazaną minimalną cenę, jeżeli likwidacja byłaby niezgodna z prawem albo prowadziłaby do pokrzywdzenia upadłego lub wierzycieli.
+3. Na skutek skargi na czynności syndyka, o której mowa w art. 491 12a , lub z urzędu sąd, w drodze postanowienia, zakazuje syndykowi dokonania likwidacji składnika masy upadłości w wybrany przez syndyka sposób lub za wskazaną minimalną cenę, jeżeli likwidacja byłaby niezgodna z prawem albo prowadziłaby do pokrzywdzenia upadłego lub wierzycieli.
 
 4. Przed wydaniem postanowienia, o którym mowa w ust. 3, sąd może wstrzymać dokonanie likwidacji składnika masy upadłości. O wstrzymaniu likwidacji składnika masy upadłości sąd zawiadamia syndyka w dniu wydania postanowienia o wstrzymaniu likwidacji.
 
@@ -4393,7 +4393,7 @@ source: pdf
 
 4. Przepis art. 491 ust. 5 stosuje się odpowiednio.
 
-**Art. 491²⁰a.** W sprawach, o których mowa w art. 491 i art. 491 , sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie.
+**Art. 491²⁰a.** W sprawach, o których mowa w art. 491 i art. 491 20 , sąd orzeka na rozprawie. O terminie rozprawy zawiadamia się wierzycieli przez obwieszczenie.
 
 **Art. 491²¹.**
 

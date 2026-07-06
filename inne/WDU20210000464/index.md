@@ -63,7 +63,7 @@ source: pdf
 
 3. Odmowa zgody na dalsze zatrudnienie następuje na piśmie w terminie 30 dni od dnia otrzymania dokumentów, o których mowa w ust. 2. Odmowa zgody na dalsze zatrudnienie zawiera uzasadnienie oraz pouczenie o przysługującym pracownikowi prawie odwołania do sądu pracy.
 
-4. Od odmowy zgody na dalsze zatrudnienie przysługuje odwołanie. Odwołanie wnosi się do sądu pracy w terminie 21 dni od dnia doręczenia odmowy zgody na dalsze zatrudnienie. Przepisy art. 45 § 1 i 2, art. 47 zdanie pierwsze, art. 47 , art. 48 i art. 51 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+4. Od odmowy zgody na dalsze zatrudnienie przysługuje odwołanie. Odwołanie wnosi się do sądu pracy w terminie 21 dni od dnia doręczenia odmowy zgody na dalsze zatrudnienie. Przepisy art. 45 § 1 i 2, art. 47 zdanie pierwsze, art. 47 1 , art. 48 i art. 51 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 5. W przypadku, o którym mowa w ust. 1, dyplomata zawodowy po wygaśnięciu stosunku pracy w służbie zagranicznej zachowuje prawo do posługiwania się ostatnim nadanym mu stopniem dyplomatycznym z określeniem „w stanie spoczynku”.
 
@@ -735,7 +735,7 @@ source: pdf
     - **a)** urlopu wypoczynkowego,
     - **b)** dnia wolnego za święto obniżające wymiar czasu pracy,
     - **c)** dnia zwolnienia od pracy, za które pracownik zachowuje prawo do wynagrodzenia,
-    - **d)** okoliczności, o których mowa w art. 173 , art. 188 i art. 189 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+    - **d)** okoliczności, o których mowa w art. 173 1 , art. 188 i art. 189 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 
 - **2)** nieobecność z tytułu niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną trwająca nieprzerwanie w okresie każdego roku kalendarzowego nie dłużej niż 33 dni.
 

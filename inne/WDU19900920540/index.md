@@ -34,8 +34,7 @@ source: pdf
 - **3)** ustawy z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz.U. z 1983 r. Nr 31, poz. 146, z 1989 r. Nr 32, poz. 169 i Nr 35, poz. 190 oraz z 1990 r. Nr 36, poz. 206),
 - **4)** dekretu z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz.U. z 1983 r. Nr 27, poz. 135, z 1989 r. Nr 35, poz. 190 i z 1990 r. Nr 36, poz. 206),
 - **5)** ustawy z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym osób prowadzących działalność gospodarczą oraz ich rodzin (Dz.U. z 1989 r. Nr 46, poz. 250 i z 1990 r. Nr 36, poz. 206),
-- **6)** ustawy z dnia 1 lutego 1983 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz.U.Nr 5, poz. 32, z 1989 r. Nr 35, poz. 192 i z 1990 r. Nr 36, poz.
-- **206)** ,
+- **6)** ustawy z dnia 1 lutego 1983 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz.U.Nr 5, poz. 32, z 1989 r. Nr 35, poz. 192 i z 1990 r. Nr 36, poz. 206),
 - **7)** ustawy z dnia 28 kwietnia 1983 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz.U. Nr 23, poz. 99, z 1985 r. Nr 20, poz. 85 i z 1990 r. Nr 36, poz. 206),
 - **8)** ustawy z dnia 17 maja 1989 r. o ubezpieczeniu społecznym duchownych (Dz.U.Nr 29, poz. 156 i z 1990 r. Nr 36, poz. 206),
 - **9)** ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz.U. z 1983 r. Nr 13, poz. 68 oraz z 1990 r. Nr 34, poz. 198 i Nr 36, poz. 206), jeżeli podstawa wymiaru została ustalona od wynagrodzenia lub uposażenia,
@@ -137,7 +136,7 @@ source: pdf
     - **b)** ust. 3 skreśla się,
     - **c)** w ust. 4 powołanie "ust. 1-3" zastępuje się powołaniem "ust. 1 i 2";
 
-- **3)** art. 6 -6 skreśla się.
+- **3)** art. 6 2 -6 skreśla się.
 
 **Art. 12.** W ustawie z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin (Dz.U. z 1983 r. Nr 46, poz. 210, z 1985 r. Nr 20, poz. 85 i Nr 38, poz. 181, z 1989 r. Nr 35, poz. 190 i 192 oraz z 1990 r. Nr 36, poz. 206) wprowadza się następujące zmiany:
 
@@ -147,7 +146,7 @@ source: pdf
     - **b)** ust. 3 skreśla się,
     - **c)** w ust. 4 powołanie "ust. 1-3" zastępuje się powołaniem "ust. 1 i 2";
 
-- **3)** art. 6 -6 skreśla się.
+- **3)** art. 6 2 -6 skreśla się.
 
 **Art. 13.** W ustawie z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym (Dz.U.Nr 36, poz. 206 i Nr 66, poz. 390) wprowadza się następuje zmiany:
 

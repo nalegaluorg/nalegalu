@@ -204,7 +204,7 @@ source: pdf
 
 2. Podstawą oznaczenia lokalu w księdze wieczystej jest zaświadczenie o położeniu i powierzchni lokalu, wydane przez spółdzielnię mieszkaniową, a domu jednorodzinnego – zaświadczenie wydane przez spółdzielnię oraz dane katastru nieruchomości .
 
-3. O założeniu księgi wieczystej, o której mowa w art. 24 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię. <4. Do danych ujawnianych w księdze wieczystej nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).
+3. O założeniu księgi wieczystej, o której mowa w art. 24 1 , oraz o wpisie hipoteki do tej księgi sąd prowadzący księgę wieczystą zawiadamia spółdzielnię. <4. Do danych ujawnianych w księdze wieczystej nie stosuje się przepisów art. 48a ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792).
 
 **Art. 27.**
 
@@ -531,7 +531,7 @@ source: pdf
 
 **Art. 83.** Przepisów oddziału niniejszego nie stosuje się do przelewu roszczeń o świadczenia uboczne.
 
-**Art. 83¹.** W razie przeniesienia zabezpieczonej wierzytelności wynikającej z dokumentu zbywalnego przez indos lub z dokumentu na okaziciela na nabywcę wierzytelności przechodzi także hipoteka. Jeżeli hipoteka zabezpiecza kilka wierzytelności, stosuje się przepisy art. 79 .
+**Art. 83¹.** W razie przeniesienia zabezpieczonej wierzytelności wynikającej z dokumentu zbywalnego przez indos lub z dokumentu na okaziciela na nabywcę wierzytelności przechodzi także hipoteka. Jeżeli hipoteka zabezpiecza kilka wierzytelności, stosuje się przepisy art. 79 1 .
 
 ##### Oddział 3 Zakres obciążenia hipoteką i ochrona hipoteki
 

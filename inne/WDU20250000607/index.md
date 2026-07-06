@@ -966,7 +966,7 @@ source: pdf
 
 1. Za stan bezpieczeństwa i higieny służby w stosunku do podległych funkcjonariuszy Straży Marszałkowskiej odpowiadają Szef Kancelarii Sejmu i Komendant Straży Marszałkowskiej.
 
-2. W przypadku funkcjonariuszy Straży Marszałkowskiej odbywających szkolenia zawodowe lub doskonalenie zawodowe za stan bezpieczeństwa i higieny służby odpowiadają komendanci (kierownicy) szkół lub ośrodków szkolenia, w których odbywają się szkolenia zawodowe lub doskonalenia zawodowe, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 , art. 209 § 1–3, art. 209 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
+2. W przypadku funkcjonariuszy Straży Marszałkowskiej odbywających szkolenia zawodowe lub doskonalenie zawodowe za stan bezpieczeństwa i higieny służby odpowiadają komendanci (kierownicy) szkół lub ośrodków szkolenia, w których odbywają się szkolenia zawodowe lub doskonalenia zawodowe, realizując obowiązki, o których mowa w art. 207 § 2 pkt 1–6, art. 207 1 , art. 209 § 1–3, art. 209 2 , art. 214, art. 215, art. 237 i art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277), zwanej dalej „Kodeksem pracy”.
 
 3. Za pracodawcę, w rozumieniu przepisów działu dziesiątego Kodeksu pracy, a także przepisów wykonawczych wydanych na jego podstawie, w stosunku do funkcjonariuszy Straży Marszałkowskiej uważa się przełożonych wymienionych w ust. 1.
 
@@ -976,7 +976,7 @@ source: pdf
 
 6. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228 § 1 i 2, art. 229 § 1–1 , 4a i 8 w zakresie niedotyczącym wskazówek metodycznych w sprawie przeprowadzania badań profilaktycznych pracowników oraz dokumentowania i kontroli badań okresowych i kontrolnych, art. 230 § 2, art. 232, art. 234 § 1–3 , art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 § 1, art. 237 § 3, art. 237 § 4 oraz art. 237 § 4.
 
-7. Przepisów art. 209 , art. 209 , art. 210 § 1–5 i art. 226 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez funkcjonariusza Straży Marszałkowskiej zadań określonych w art. 2 ust. 1 pkt 1, 2, 6 i 9.
+7. Przepisów art. 209 2 , art. 209 3 , art. 210 § 1–5 i art. 226 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez funkcjonariusza Straży Marszałkowskiej zadań określonych w art. 2 ust. 1 pkt 1, 2, 6 i 9.
 
 **Art. 53.**
 
@@ -1078,7 +1078,7 @@ source: pdf
 
 **Art. 58.**
 
-1. Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, funkcjonariuszowi Straży Marszałkowskiej przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 . Przepis art. 189 wymienionego kodeksu stosuje się odpowiednio.
+1. Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, funkcjonariuszowi Straży Marszałkowskiej przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 7 . Przepis art. 189 wymienionego kodeksu stosuje się odpowiednio.
 
 2. Funkcjonariusz Straży Marszałkowskiej wychowujący dziecko, do ukończenia przez nie 8. roku życia, może złożyć wniosek w postaci papierowej lub elektronicznej o zastosowanie do niego elastycznej organizacji służby. Wniosek składa się w terminie nie krótszym niż 21 dni przed planowanym rozpoczęciem korzystania z elastycznej organizacji służby.
 

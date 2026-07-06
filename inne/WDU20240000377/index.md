@@ -361,7 +361,7 @@ o kosztach komorniczych
 
 2. Wniosek, o którym mowa w ust. 1, wnosi się w terminie 7 dni od dnia doręczenia postanowienia o pobraniu lub ustaleniu opłaty.
 
-3. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 767 i art. 767 –767 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+3. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 767 i art. 767 2 –767 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
 4. Wniosek, o którym mowa w ust. 1, zażalenie na postanowienie sądu oraz skarga na orzeczenie referendarza sądowego w przedmiocie obniżenia opłaty egzekucyjnej nie podlegają opłacie sądowej.
 

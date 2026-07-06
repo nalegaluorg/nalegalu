@@ -141,7 +141,7 @@ source: pdf
 
 1. Do spółki powstałej w wyniku komercjalizacji, o ile ustawa nie stanowi inaczej, stosuje się przepisy Kodeksu spółek handlowych.
 
-2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
+2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 11 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
 
 3. (uchylony)
 

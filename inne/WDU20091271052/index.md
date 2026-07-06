@@ -45,7 +45,7 @@ source: pdf
 
 2. Wysokość miesięcznego świadczenia pieniężnego nie może przekraczać dwukrotnej wysokości minimalnego wynagrodzenia za pracę, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
-**Art. 4.** Do praktyki nie mają zastosowania przepisy prawa pracy, z wyjątkiem art. 18 –18 , art. 129 § 1, art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134 i art. 151 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i
+**Art. 4.** Do praktyki nie mają zastosowania przepisy prawa pracy, z wyjątkiem art. 18 3a –18 , art. 129 § 1, art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134 i art. 151 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i
 
 - **1423)** .
 

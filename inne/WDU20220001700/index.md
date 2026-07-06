@@ -511,7 +511,7 @@ W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, pr
 
 9. Sąd rodzinny, orzekając w sprawie nieletniego, bierze pod uwagę wyniki mediacji oraz ugodę zawartą przed mediatorem.
 
-10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 1 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 58.**
 
@@ -2165,9 +2165,7 @@ W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, pr
 
 **Art. 231.**
 
-1. Do wykonywania środka leczniczego oraz do nieletniego umieszczonego w zakładzie leczniczym w celu realizacji tego środka, w zakresie nieuregulowanym niniejszą ustawą, stosuje się przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz.
-
-- **2151)** , ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26).
+1. Do wykonywania środka leczniczego oraz do nieletniego umieszczonego w zakładzie leczniczym w celu realizacji tego środka, w zakresie nieuregulowanym niniejszą ustawą, stosuje się przepisy ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26).
 
 2. Nieletniemu zapewnia się warunki do realizacji obowiązku szkolnego i obowiązku nauki na zasadach określonych w art. 128 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
 

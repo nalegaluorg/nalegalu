@@ -152,7 +152,7 @@ source: pdf
 - **5)** w art. 102 po wyrazach „od roku szkolnego 2019/2020” dodaje się wyrazy „i w kolejnych latach”;
 - **6)** po art. 129 dodaje się art. 129a w brzmieniu: „Art. 129a. Przepis art. 2 pkt 40 lit. a w zakresie art. 44q ust. 1 pkt 4 lit. b stosuje się począwszy od roku szkolnego 2019/2020 do uczniów rozpoczynających kształcenie w branżowej szkole I stopnia.”;
 - **7)** uchyla się art. 141 i 142;
-- **8)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. Przepisy art. 191 § 2 –2 i art. 191 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio również do uczniów i absolwentów dotychczasowych gimnazjów.”;
+- **8)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. Przepisy art. 191 § 2 1 –2 i art. 191 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio również do uczniów i absolwentów dotychczasowych gimnazjów.”;
 - **9)** w art. 170 uchyla się pkt 5.
 
 **Art. 8.** Do postępowań w sprawie dokonania oceny pracy nauczyciela, wszczętych i niezakończonych przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe.

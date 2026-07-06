@@ -515,7 +515,7 @@ source: pdf
 
 3. Pozaodsetkowe koszty kredytu wynikające z umowy o kredyt konsumencki nie należą się w części przekraczającej maksymalną wysokość pozaodsetkowych kosztów kredytu obliczoną w sposób określony w ust. 1–2.
 
-4. Przepisów art. 720 –720 Kodeksu cywilnego nie stosuje się do umowy pożyczki pieniężnej udzielanej przez instytucję pożyczkową na podstawie przepisów niniejszej ustawy.
+4. Przepisów art. 720 2 –720 Kodeksu cywilnego nie stosuje się do umowy pożyczki pieniężnej udzielanej przez instytucję pożyczkową na podstawie przepisów niniejszej ustawy.
 
 **Art. 36b.** W przypadku odroczenia spłaty zadłużenia wynikającego z umowy o kredyt konsumencki w okresie 120 dni od dnia wypłaty tego kredytu:
 

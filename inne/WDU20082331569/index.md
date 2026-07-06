@@ -749,7 +749,7 @@ source: pdf
 
 6. Koszty nabycia składników majątkowych stoczni sprzedanych zgodnie z art. 82 i 83 ponoszą kupujący.
 
-7. Do sprzedaży zespołów składników majątkowych stoczni dokonanej w postępowaniu kompensacyjnym nie stosuje się przepisów art. 55 , art. 59 i art. 527 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz art. 112, art. 114 i art. 114a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+7. Do sprzedaży zespołów składników majątkowych stoczni dokonanej w postępowaniu kompensacyjnym nie stosuje się przepisów art. 55 4 , art. 59 i art. 527 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz art. 112, art. 114 i art. 114a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 #### Rozdział 10 Zgłoszenie wierzytelności
 

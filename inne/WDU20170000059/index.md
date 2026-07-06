@@ -3364,7 +3364,7 @@ source: pdf
 
 8. Staż uczniowski może odbywać się również w okresie ferii letnich lub zimowych.
 
-9. Do stażu uczniowskiego nie mają zastosowania przepisy prawa pracy, z wyjątkiem przepisów art. 18 –18 , art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 151 , art. 204 i art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z zastrzeżeniem przepisów ust. 12–14.
+9. Do stażu uczniowskiego nie mają zastosowania przepisy prawa pracy, z wyjątkiem przepisów art. 18 3a –18 , art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 151 , art. 204 i art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z zastrzeżeniem przepisów ust. 12–14.
 
 10. Dobowy wymiar godzin stażu uczniowskiego uczniów w wieku do lat 16 nie może przekraczać 6 godzin, a uczniów w wieku powyżej 16 lat – 8 godzin. W uzasadnionych przypadkach wynikających ze specyfiki funkcjonowania ucznia niepełnosprawnego w wieku powyżej 16 lat, dopuszcza się możliwość obniżenia dobowego wymiaru godzin stażu uczniowskiego do 7 godzin.
 
@@ -3602,9 +3602,7 @@ source: pdf
 
 1. Podmiot leczniczy i jednostka pomocy społecznej, w których jest zorganizowana szkoła specjalna lub oddział specjalny, zapewniają korzystanie z pomieszczeń dla prowadzenia zajęć edukacyjnych i wychowawczych. Warunki korzystania z pomieszczeń oraz ponoszenia kosztów ich utrzymania określa umowa zawarta pomiędzy podmiotem, w którym jest zorganizowana szkoła specjalna lub oddział specjalny, a organem prowadzącym szkołę.
 
-2. W związku z organizowaniem kształcenia i specjalnych działań opiekuńczo-wychowawczych dla ucznia przyjętego do podmiotu leczniczego, podmiot leczniczy przekazuje szkole specjalnej lub oddziałowi specjalnemu zorganizowanym w podmiocie leczniczym dane uczniów, o których mowa w art. 25 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz.
-
-- **581)** , niezbędne do prowadzenia dokumentacji przebiegu nauczania.
+2. W związku z organizowaniem kształcenia i specjalnych działań opiekuńczo-wychowawczych dla ucznia przyjętego do podmiotu leczniczego, podmiot leczniczy przekazuje szkole specjalnej lub oddziałowi specjalnemu zorganizowanym w podmiocie leczniczym dane uczniów, o których mowa w art. 25 pkt 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), niezbędne do prowadzenia dokumentacji przebiegu nauczania.
 
 3. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, organizację kształcenia oraz warunki i formy realizowania specjalnych działań opiekuńczo-wychowawczych w szkołach specjalnych i oddziałach specjalnych, o których mowa w ust. 1, uwzględniając szczególne potrzeby psychofizyczne dzieci i młodzieży.
 

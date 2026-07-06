@@ -768,7 +768,7 @@ o medycynie laboratoryjnej
 
 - **1)** o okres pobierania świadczenia przewidzianego w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083);
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 178 , art. 179, art. 180, art. 182 , art. 182 , art. 183, art. 185, art. 186, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 178 1 , art. 179, art. 180, art. 182 1a , art. 182 3 , art. 183, art. 185, art. 186, art. 187 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy, nie dłuższej niż 14 dni, wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy, nie dłuższej niż 12 miesięcy, wynikającej z realizacji specjalizacji odbywanej w trybie poszerzenia zajęć programowych w ramach prowadzonego kształcenia doktorantów o program specjalizacji zgodny z zakresem tego kształcenia.
 

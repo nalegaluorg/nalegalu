@@ -215,7 +215,7 @@ o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
 
 6. Szkolenia inicjuje, organizuje i finansuje ze środków własnych i uzyskanego dofinansowania kosztów szkolenia przedsiębiorca.
 
-7. Przedsiębiorca, kierując pracownika na szkolenie, o którym mowa w ust. 1, zawiera z nim umowę określającą prawa i obowiązki stron. Do zawartej umowy nie stosuje się art. 103 –103 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+7. Przedsiębiorca, kierując pracownika na szkolenie, o którym mowa w ust. 1, zawiera z nim umowę określającą prawa i obowiązki stron. Do zawartej umowy nie stosuje się art. 103 1 –103 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 8. Pracownik, który nie ukończył szkolenia ze swojej winy lub z którym został rozwiązany stosunek pracy w trybie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, jest obowiązany do zwrotu przedsiębiorcy kosztów szkolenia na zasadach określonych w umowie z przedsiębiorcą, o której mowa w ust. 7.
 

@@ -98,9 +98,9 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 ## Testy
 
-**PASSED** — 341 tests — 341 passed, 0 failed, 0 errors, 33 skipped
+**PASSED** — 349 tests — 349 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-07-02 15:28 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-07-03 18:23 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -111,9 +111,9 @@ Ostatni przebieg: 2026-07-02 15:28 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 |---|---:|
 | Opublikowane akty | **18,708** |
 | Odrzucone (jakość) | 397 |
-| Artykuły | 209,681 |
+| Artykuły | 209,690 |
 | Znaki treści | 570.5M |
-| Śr. znaków/akt | 30,493 |
+| Śr. znaków/akt | 30,495 |
 | Śr. artykułów/akt | 11.2 |
 
 **Źródła danych:**
@@ -122,11 +122,11 @@ Ostatni przebieg: 2026-07-02 15:28 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 - ELI HTML: 242 (1%)
 - unknown: 2 (0%)
 
-*Odrzucone: 1 skanów bez OCR, 670 zablokowanych przez bramkę jakości, 396 inne*
+*Odrzucone: 1 skanów bez OCR, 667 zablokowanych przez bramkę jakości, 396 inne*
 
 *Od 2026-05-18: +5,387 aktów*
 
-*Ostatnia aktualizacja: 2026-07-02*
+*Ostatnia aktualizacja: 2026-07-06*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -137,4 +137,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*18708 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-02*
+*18708 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-06*

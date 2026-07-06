@@ -104,7 +104,7 @@ w sprawie warunków bezpieczeństwa i higieny służby oraz zakresu stosowania p
 4. Służba bhs podlega bezpośrednio kierownikowi jednostki lub jego zastępcy.
 § 20. Do zadań służby bhs, uprawnień oraz kwalifikacji funkcjonariusza służby bhs stosuje się odpowiednio przepisy w sprawie służby bezpieczeństwa i higieny pracy.
 § 21. W zakresie nieuregulowanym rozporządzeniem stosuje się odpowiednio:
-1) przepisy art. 208, art. 211–227, art. 232–236 i art. 237 –237 działu dziesiątego Kodeksu pracy oraz wydane na ich podstawie przepisy bezpieczeństwa i higieny pracy;
+1) przepisy art. 208, art. 211–227, art. 232–236 i art. 237 3 –237 działu dziesiątego Kodeksu pracy oraz wydane na ich podstawie przepisy bezpieczeństwa i higieny pracy;
 1a) przepisy art. 229 § 2, § 3, § 5 pkt 1 i § 6 Kodeksu pracy, a także przepisy wykonawcze wydane na podstawie art. 229 § 8 tego Kodeksu określające zakres i częstotliwość badań okresowych;
 2) przepisy bezpieczeństwa i higieny pracy wydane na podstawie art. 237 Kodeksu pracy, jeżeli funkcjonariusz w czasie wykonywania zadań służbowych wykonuje prace, których te przepisy dotyczą.
 § 22. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .

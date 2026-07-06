@@ -42,7 +42,10 @@ o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represj
 
 - **5)** w art. 6:
     - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Odznakę honorową działaczowi opozycji antykomunistycznej lub osobie represjonowanej z powodów politycznych nadaje Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 5 ust. 1. 3. Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych wraz z wydaniem decyzji, o której mowa w art. 5 ust. 1, wydanej na wniosek działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, wydaje także legitymację działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwaną dalej „legitymacją”.”,
-    - **b)** w ust. 4: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „4) sposób noszenia odznaki honorowej”, – uchyla się pkt 5; 6) w art. 9: a) ust. 1 otrzymuje brzmienie: „1. Świadczenie pieniężne przyznaje się w wysokości 402,72 zł miesięcznie.”,
+    - **b)** w ust. 4: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „4) sposób noszenia odznaki honorowej”, – uchyla się pkt 5;
+
+- **6)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Świadczenie pieniężne przyznaje się w wysokości 402,72 zł miesięcznie.”,
     - **b)** uchyla się ust. 4–7;
 
 - **7)** w art. 10:
