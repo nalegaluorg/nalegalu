@@ -1,0 +1,84 @@
+---
+title: Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych
+address: WDU20250000211
+eli: DU/2025/211
+publisher: DU
+year: 2025
+pos: 211
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 211 OBWIESZCZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 lutego 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 211 |
+| ISAP | WDU20250000211 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-02-12 |
+| Data wydania | 2025-02-19 |
+| Ostatnia zmiana | 2025-02-20 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/211/text.pdf) |
+
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji i Nauki z dnia 11 października 2022 r. w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych (Dz. U. poz. 2202), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Edukacji i Nauki z dnia 14 września 2023 r. zmieniającym rozporządzenie w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych (Dz. U. poz. 1958).
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 14 września 2023 r. zmieniającego rozporządzenie w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych (Dz. U. poz. 1958), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
+ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 11 października 2022 r.
+w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych Na podstawie art. 5 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
+poz. 1571, 1871 i 1897) zarządza się, co następuje:
+§ 1. Ustala się klasyfikację dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych, stanowiącą załącznik do rozporządzenia.
+§ 2. Traci moc rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2018 r. w sprawie dziedzin nauki i dyscyplin naukowych oraz dyscyplin artystycznych (Dz. U. poz. 1818).
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+KLASYFIKACJA DZIEDZIN NAUKI I DYSCYPLIN NAUKOWYCH ORAZ DYSCYPLIN ARTYSTYCZNYCH Lp. Dziedzina nauki/sztuki Dyscyplina naukowa/artystyczna 1 Dziedzina nauk humanistycznych 1) archeologia
+2) etnologia i antropologia kulturowa
+3) filozofia
+4) historia
+5) językoznawstwo
+6) literaturoznawstwo
+7) nauki o kulturze i religii
+8) nauki o sztuce
+9) polonistyka 2 Dziedzina nauk inżynieryjno-technicznych 1) architektura i urbanistyka
+2) automatyka, elektronika, elektrotechnika i technologie kosmiczne
+3) informatyka techniczna i telekomunikacja
+4) inżynieria bezpieczeństwa
+5) inżynieria biomedyczna
+6) inżynieria chemiczna
+7) inżynieria lądowa, geodezja i transport
+8) inżynieria materiałowa
+9) inżynieria mechaniczna
+10) inżynieria środowiska, górnictwo i energetyka
+11) (uchylony) 3 Dziedzina nauk medycznych i nauk o zdrowiu 1) biologia medyczna
+2) nauki farmaceutyczne
+3) nauki medyczne
+4) nauki o kulturze fizycznej
+5) nauki o zdrowiu 4 Dziedzina nauk o rodzinie nauki o rodzinie 5 Dziedzina nauk rolniczych 1) nauki leśne
+2) rolnictwo i ogrodnictwo
+3) technologia żywności i żywienia
+4) zootechnika i rybactwo 6 Dziedzina nauk społecznych 1) ekonomia i finanse
+2) geografia społeczno-ekonomiczna i gospodarka przestrzenna
+3) nauki o bezpieczeństwie
+4) nauki o komunikacji społecznej i mediach
+5) nauki o polityce i administracji
+6) nauki o zarządzaniu i jakości
+7) nauki prawne
+8) nauki socjologiczne
+9) pedagogika
+10) prawo kanoniczne
+11) psychologia
+12) stosunki międzynarodowe 7 Dziedzina nauk ścisłych i przyrodniczych 1) astronomia
+2) biotechnologia
+3) informatyka
+4) matematyka
+5) nauki biologiczne
+6) nauki chemiczne
+7) nauki fizyczne
+8) nauki o Ziemi i środowisku 8 Dziedzina nauk teologicznych 1) nauki biblijne
+2) nauki teologiczne 9 Dziedzina nauk weterynaryjnych weterynaria 10 Dziedzina sztuki 1) sztuki filmowe i teatralne
+2) sztuki muzyczne
+3) sztuki plastyczne i konserwacja dzieł sztuki
+

@@ -2,7 +2,7 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 377 aktów
+**Łącznie:** 396 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
@@ -332,6 +332,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20230002023 | Rozporządzenie Ministra Infrastruktury z dnia 13 września 20… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002030 | Rozporządzenie Ministra Sprawiedliwości z dnia 27 września 2… | excessive repetition — '.................................... |
 | WDU20230002093 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 września … | excessive repetition — '.................................... |
+| WDU20230002387 | Obwieszczenie Ministra Edukacji i Nauki z dnia 6 październik… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20230002471 | Rozporządzenie Rady Ministrów z dnia 26 października 2023 r.… | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód pow |
 | WDU20230002501 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 list… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002614 | Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2023 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -383,3 +384,21 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240001850 | Rozporządzenie Prezesa Rady Ministrów z dnia 12 grudnia 2024… | excessive repetition — '.................................... |
 | WDU20240001898 | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. z… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240001954 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 19 grud… | CID font encoding failure — unreadable glyphs (2 occurrence( |
+| WDU20250000026 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grud… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000088 | Obwieszczenie Ministra Rozwoju i Technologii z dnia 13 stycz… | excessive repetition — '.................................... |
+| WDU20250000108 | Obwieszczenie Prezesa Rady Ministrów z dnia 12 grudnia 2024 … | unclosed omitted-provisions quotation for art. unknown |
+| WDU20250000109 | Obwieszczenie Ministra Finansów z dnia 17 stycznia 2025 r. w… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000156 | Obwieszczenie Ministra Infrastruktury z dnia 28 stycznia 202… | CID font encoding failure — unreadable glyphs (1 occurrence( |
+| WDU20250000233 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000317 | Obwieszczenie Ministra Sprawiedliwości z dnia 19 lutego 2025… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000336 | Obwieszczenie Ministra Obrony Narodowej z dnia 20 lutego 202… | omitted-provisions quotation swallowed a structural boundary… |
+| WDU20250000454 | Obwieszczenie Ministra Finansów z dnia 21 marca 2025 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000459 | Obwieszczenie Ministra Finansów z dnia 21 marca 2025 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000615 | Obwieszczenie Ministra Zdrowia z dnia 13 marca 2025 r. w spr… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20250000940 | Obwieszczenie Ministra Finansów z dnia 25 czerwca 2025 r. w … | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250000947 | Obwieszczenie Ministra Infrastruktury z dnia 30 czerwca 2025… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250001276 | Obwieszczenie Ministra Energii z dnia 12 września 2025 r. w … | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20260000114 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lis… | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20260000381 | Obwieszczenie Ministra Sprawiedliwości z dnia 10 lutego 2026… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20260000675 | Obwieszczenie Ministra Finansów i Gospodarki z dnia 13 maja … | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20260000712 | Obwieszczenie Ministra Zdrowia z dnia 20 maja 2026 r. w spra… | missing paragraph structure — consolidated rozporządzenie re |
