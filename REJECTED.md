@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 397
+Acts excluded from publication due to quality issues. Total: 417
 
 | Address | Reason |
 |---------|--------|
@@ -278,6 +278,7 @@ Acts excluded from publication due to quality issues. Total: 397
 | WDU20210001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210001795 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210001921 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20210002027 | scan only or no digital PDF; types=['H', 'I', 'O'] |
 | WDU20210002088 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210002150 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210002436 | character-spaced text — 5 line(s) with >30% single-letter words — likely OCR wit |
@@ -345,6 +346,7 @@ Acts excluded from publication due to quality issues. Total: 397
 | WDU20230002030 | excessive repetition — '..................................................…' app |
 | WDU20230002093 | excessive repetition — '..................................................…' app |
 | WDU20230002174 | scan only or no digital PDF; types=['H', 'I', 'O'] |
+| WDU20230002387 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
 | WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód powierzchniowych;' appe |
 | WDU20230002501 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20230002533 | scan only or no digital PDF; types=['H', 'I', 'O'] |
@@ -401,3 +403,21 @@ Acts excluded from publication due to quality issues. Total: 397
 | WDU20240001850 | excessive repetition — '..................................................…' app |
 | WDU20240001898 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20250000026 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000088 | excessive repetition — '..................................................…' app |
+| WDU20250000108 | unclosed omitted-provisions quotation for art. unknown |
+| WDU20250000109 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000156 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20250000233 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000317 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000336 | omitted-provisions quotation swallowed a structural boundary ('A 2. Rozporządzen |
+| WDU20250000454 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000459 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000615 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20250000940 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250000947 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20250001276 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20260000114 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20260000381 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20260000675 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20260000712 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |

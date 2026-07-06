@@ -1,39 +1,39 @@
 # Publish Summary
 
-Generated: 2026-07-06 20:42 UTC
+Generated: 2026-07-06 22:53 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published public acts | 18708 |
-| Updated/new | 64 |
-| Unchanged | 15364 |
+| Published public acts | 18985 |
+| Updated/new | 0 |
+| Unchanged | 15706 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 2771 |
-| Blocked by quality gate | 667 |
-| Rejected (total incl. errors) | 397 |
-| Total in DB | 19676 |
+| Blocked by quality gate | 683 |
+| Rejected (total incl. errors) | 417 |
+| Total in DB | 20168 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 18708 | 18708 | 0 |
-| Rejected | 395 | 397 | +2 |
+| Published | 18708 | 18985 | +277 |
+| Rejected | 395 | 417 | +22 |
 | Articles | 209681 | 209690 | +9 |
-| Body chars | 570,475,140 | 570,531,983 | +56843 |
+| Body chars | 570,475,140 | 578,971,226 | +8496086 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
-| character-spaced | 235 |
-| pipeline error | 140 |
-| repetition | 112 |
+| character-spaced | 237 |
+| pipeline error | 139 |
+| repetition | 113 |
 | article structure | 77 |
-| CID font | 70 |
-| other | 63 |
+| other | 76 |
+| CID font | 71 |
 | PostScript CE | 5 |
 | missing diacritics | 1 |
 | round-trip | 1 |
@@ -77,7 +77,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 |-------|------:|
 | Rozporządzenie | 9859 |
 | Ustawa | 4850 |
-| Obwieszczenie | 2234 |
+| Obwieszczenie | 2511 |
 | Orzeczenie | 1373 |
 | Umowa międzynarodowa | 329 |
 | Protokół | 18 |
@@ -95,7 +95,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 11721 |
+| obowiązujący | 11998 |
 | akt objęty tekstem jednolitym | 5090 |
 | akt posiada tekst jednolity | 1887 |
 | akt jednorazowy | 10 |
@@ -104,7 +104,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| inne | 17830 |
+| inne | 18107 |
 | prawo-podatkowe | 190 |
 | prawo-karne | 159 |
 | prawo-cywilne | 141 |
@@ -128,7 +128,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 
 | Value | Count |
 |-------|------:|
-| O | 11999 |
+| O | 12293 |
 | T | 5197 |
 | U | 1660 |
 | unknown | 10 |
@@ -148,7 +148,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 |-------|------:|
 | Original PDF candidate for unified act | 1084 |
 
-## Blocked acts (667)
+## Blocked acts (683)
 
 | Address | Issues |
 |---------|--------|
@@ -277,7 +277,6 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU19981621115 | unclosed amendment quotation for unknown articles |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
-| WDU20010710733 | unclosed amendment quotation for unknown articles |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20011541794 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in AST: 1 |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -705,6 +704,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20230002334 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002337 | excessive repetition — '..................................................…' appears 31 times (likely PDF header/footer) |
 | WDU20230002358 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20230002387 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002429 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20230002467 | unclosed omitted-provisions quotation for art. unknown |
 | WDU20230002471 | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód powierzchniowych;' appears 34 times (likely PDF header/footer) |
@@ -815,7 +815,23 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20240001936 | excessive repetition — 'Wyjaśnienia do PKD 2025' appears 51 times (likely PDF header/footer) |
 | WDU20240001953 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20250000026 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000088 | excessive repetition — '..................................................…' appears 27 times (likely PDF header/footer) |
+| WDU20250000109 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000156 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20250000233 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000317 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000454 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000459 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000615 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20250000940 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250000947 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20250001276 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20250001753 | omitted-provisions quotation ran into the next item ('4) art. 28 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o') without a confirmed close — closing quote was likely lost |
+| WDU20260000114 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20260000377 | rendered round-trip failed: AST=30 rendered=30 dup_rendered=1 low_sim=1 word_loss=1 FAIL; word loss: 5; low similarity: 5 |
+| WDU20260000381 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20260000515 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 26 stycznia 1982 r.') — closing quote was likely lost |
 | WDU20260000532 | omitted-provisions quotation swallowed a structural boundary ('USTAWA z dnia 15 maja 2024 r.') — closing quote was likely lost |
+| WDU20260000675 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20260000712 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
