@@ -30,7 +30,9 @@ poz. 101, z późn. zm. ) zarządza się, co następuje:
 § 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. z 2015 r. poz. 723 oraz z 2016 r. poz. 269) załączniki nr 1, 2 i 5 otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Sprawiedliwości: Z. Ziobro Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177.
-Załączniki do rozporządzenia Ministra Sprawiedliwości Załączniki z do dnia rozporządzenia 29 lipca 2016 r. Ministra (poz. 1213) Sprawiedliwości z dnia 29 lipca 2016 r. (poz. …) Załącznik Załącznik nr 1 nr 1 WZÓR WZÓR strona 1 UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIAMI P POZEW Data wpływu (wypełnia sąd) P o u c z e n i e
+
+## Załącznik nr 1 — nr 1 WZÓR WZÓR strona 1 UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIAMI P POZEW Data wpływu (wypełnia sąd) P o u c z e n i e
+
 1. Formularz należy wypełnić czytelnie, dokonując wpisów bez skreśleń i poprawek. Gdy w rubrykach występuje tekst oznaczony znakiem *, to należy niepotrzebne skreślić.
 2. Każdą rubrykę niezacieniowaną należy wypełnić albo skreślić. Jeśli po wpisaniu treści w rubryce pozostało wolne miejsce, należy je skreślić w sposób uniemożliwiający dopisywanie.
 3. Do pozwu należy dołączyć jego odpisy i odpisy załączników w celu doręczenia ich uczestniczącym w sprawie osobom, a ponadto, jeżeli w sądzie nie złożono załączników w oryginale, po jednym odpisie każdego załącznika do akt sądowych.

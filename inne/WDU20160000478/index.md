@@ -31,7 +31,9 @@ zmieniające rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochr
 Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust.
 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji Załącznik z dnia 6 nr kwietnia 2016 r.……….. (poz. ….) WZÓR Załącznik nr 1 WZÓR WNIOSEK O NADANIE ............................. ODZNAKI (wpisać stopień odznaki) „ZASŁUŻONY DLA OCHRONY PRZECIWPOŻAROWEJ”
+
+## Załącznik nr 1 — WZÓR WNIOSEK O NADANIE ............................. ODZNAKI (wpisać stopień odznaki) „ZASŁUŻONY DLA OCHRONY PRZECIWPOŻAROWEJ”
+
 1. Imię 2. Nazwisko (wypełnić drukowanymi literami)
 3. Nr PESEL 4. Imię ojca (wypełnić drukowanymi literami)
 5. Data urodzenia (dd-mm-rrrr) 6. Poprzednie nazwiska (rodowe lub w przypadku zmiany)

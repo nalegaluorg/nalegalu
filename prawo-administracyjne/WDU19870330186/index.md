@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# uziennik Ustaw Nr 3 3 - 420 10 Przepisy' I
+# Ustawa z dnia 23 października 1987 r. o zmianie ustawy - Kodeks postępowania administracyjnego.
 
 | Pole | Wartość |
 |---|---|

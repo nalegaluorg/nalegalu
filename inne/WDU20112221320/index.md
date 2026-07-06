@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o Rzeczniku Praw Obywatelskich
+# Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o Rzeczniku Praw Obywatelskich
 
 *USTAWA z dnia 18 sierpnia 2011 r.*
 

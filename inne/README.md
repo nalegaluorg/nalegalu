@@ -889,7 +889,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001613](WDU20240001613/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 29 października 2024 r. zmien | Rozporządzenie | obowiązujący |  |
 | [WDU20240001612](WDU20240001612/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 31 października 2024 r. zmien | Rozporządzenie | obowiązujący |  |
 | [WDU20240001611](WDU20240001611/index.md) | Rozporządzenie Rady Ministrów z dnia 28 października 2024 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240001608](WDU20240001608/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2024 | Rozporządzenie | obowiązujący |  |
+| [WDU20240001608](WDU20240001608/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2024 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001607](WDU20240001607/index.md) | Rozporządzenie Ministra Finansów z dnia 30 października 2024 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001606](WDU20240001606/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 września  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001604](WDU20240001604/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 25 października 2024 r. w spr | Rozporządzenie | obowiązujący |  |
@@ -1102,7 +1102,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001316](WDU20240001316/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 sierpnia 2024 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001313](WDU20240001313/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 sierpnia 2024 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001312](WDU20240001312/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 23 sierpnia 2024 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20240001311](WDU20240001311/index.md) | Rozporządzenie Ministra Zdrowia z dnia 28 sierpnia 2024 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
+| [WDU20240001311](WDU20240001311/index.md) | Rozporządzenie Ministra Zdrowia z dnia 28 sierpnia 2024 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001310](WDU20240001310/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 23 sierpnia 2024 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001309](WDU20240001309/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 7 sierpnia 2024 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001308](WDU20240001308/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 sierpnia 2024 r. zmi | Rozporządzenie | obowiązujący |  |
@@ -2468,7 +2468,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002081](WDU20230002081/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 15 września 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230002080](WDU20230002080/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 27 września 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230002079](WDU20230002079/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 26 września 2023 | Rozporządzenie | obowiązujący |  |
-| [WDU20230002078](WDU20230002078/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 28 września 2023 r. zmieniaj | Rozporządzenie | obowiązujący |  |
+| [WDU20230002078](WDU20230002078/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 28 września 2023 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002077](WDU20230002077/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 września 2023 r. w sprawie obowią | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20230002076](WDU20230002076/index.md) | Rozporządzenie Ministra Finansów z dnia 27 września 2023 r. w sprawie spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20230002074](WDU20230002074/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 wrześn | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2630,7 +2630,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001829](WDU20230001829/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 30 sierpnia 2023 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20230001827](WDU20230001827/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 sierpnia 2023 r. w sprawie wzoru  | Rozporządzenie | obowiązujący |  |
 | [WDU20230001826](WDU20230001826/index.md) | Rozporządzenie Ministra Zdrowia z dnia 4 września 2023 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230001825](WDU20230001825/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 24 sierpnia 2023 r. zmieniaj | Rozporządzenie | obowiązujący |  |
+| [WDU20230001825](WDU20230001825/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 24 sierpnia 2023 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001824](WDU20230001824/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 3 sierpnia 2023 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20230001822](WDU20230001822/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 22 sierpnia 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230001821](WDU20230001821/index.md) | Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o Komisji Wspólnej Rządu i  | Ustawa | akt objęty tekstem jednolitym |  |
@@ -3884,7 +3884,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002608](WDU20220002608/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002607](WDU20220002607/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220002606](WDU20220002606/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 8 grudnia 2022 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220002605](WDU20220002605/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniając | Rozporządzenie | obowiązujący |  |
+| [WDU20220002605](WDU20220002605/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002604](WDU20220002604/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 7 grudnia 2022 r. w sprawie udzie | Rozporządzenie | obowiązujący |  |
 | [WDU20220002601](WDU20220002601/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 grudnia 2022 r. w sprawie programu | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220002598](WDU20220002598/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grudnia 2022 r. w  | Rozporządzenie | obowiązujący |  |
@@ -4121,7 +4121,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002096](WDU20220002096/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 28 września 2022 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20220002093](WDU20220002093/index.md) | Obwieszczenie Ministra Zdrowia z dnia 22 września 2022 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20220002092](WDU20220002092/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 4 października 2022 r. w sp | Rozporządzenie | obowiązujący |  |
-| [WDU20220002090](WDU20220002090/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 12 października 2022 r. zmie | Rozporządzenie | obowiązujący |  |
+| [WDU20220002090](WDU20220002090/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 12 października 2022 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002089](WDU20220002089/index.md) | Ustawa z dnia 15 września 2022 r. o zmianie ustawy - Prawo oświatowe oraz u | Ustawa | obowiązujący |  |
 | [WDU20220002088](WDU20220002088/index.md) | Ustawa z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia  | Ustawa | obowiązujący |  |
 | [WDU20220002085](WDU20220002085/index.md) | Rozporządzenie Rady Ministrów z dnia 27 września 2022 r. w sprawie maksymal | Rozporządzenie | obowiązujący |  |
@@ -4661,7 +4661,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001040](WDU20220001040/index.md) | Rozporządzenie Ministra Spraw Zagranicznych z dnia 5 maja 2022 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001037](WDU20220001037/index.md) | Rozporządzenie Rady Ministrów z dnia 20 kwietnia 2022 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001036](WDU20220001036/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 kwietnia 2022 r. w s | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20220001035](WDU20220001035/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2022 r. zmieniaj | Rozporządzenie | obowiązujący |  |
+| [WDU20220001035](WDU20220001035/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2022 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001033](WDU20220001033/index.md) | Rozporządzenie Ministra Zdrowia z dnia 26 kwietnia 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001030](WDU20220001030/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 22 kwietnia 2022 r. w sp | Obwieszczenie | obowiązujący |  |
 | [WDU20220001024](WDU20220001024/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 25 kwietnia 2022 r. w sprawie | Obwieszczenie | obowiązujący |  |
@@ -6584,7 +6584,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001726](WDU20200001726/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2020 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001724](WDU20200001724/index.md) | Rozporządzenie Ministra Finansów z dnia 24 września 2020 r. w sprawie dopus | Rozporządzenie | obowiązujący |  |
 | [WDU20200001718](WDU20200001718/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 6 października 2020 r. w spraw | Rozporządzenie | obowiązujący |  |
-| [WDU20200001712](WDU20200001712/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 września 2020 r.  | Rozporządzenie | obowiązujący |  |
+| [WDU20200001712](WDU20200001712/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 września 2020 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001710](WDU20200001710/index.md) | Rozporządzenie Ministra Finansów z dnia 1 października 2020 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001709](WDU20200001709/index.md) | Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych zasadach  | Ustawa | obowiązujący |  |
 | [WDU20200001707](WDU20200001707/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 28 | Rozporządzenie | obowiązujący |  |
@@ -7113,7 +7113,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000494](WDU20200000494/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szc | Rozporządzenie | obowiązujący |  |
 | [WDU20200000485](WDU20200000485/index.md) | Rozporządzenie Ministra Finansów z dnia 19 marca 2020 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000483](WDU20200000483/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 5 marca 2020 r. w sprawie og | Obwieszczenie | obowiązujący |  |
-| [WDU20200000480](WDU20200000480/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 12 marca 2020 r. zmieniające | Rozporządzenie | obowiązujący |  |
+| [WDU20200000480](WDU20200000480/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 12 marca 2020 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000476](WDU20200000476/index.md) | Rozporządzenie Rady Ministrów z dnia 9 marca 2020 r. w sprawie dokumentów z | Rozporządzenie | obowiązujący |  |
 | [WDU20200000469](WDU20200000469/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000466](WDU20200000466/index.md) | Rozporządzenie Ministra Zdrowia z dnia 17 marca 2020 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -9475,7 +9475,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180000509](WDU20180000509/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2018 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000506](WDU20180000506/index.md) | Obwieszczenie Ministra Finansów z dnia 22 lutego 2018 r. w sprawie ogłoszen | Obwieszczenie | obowiązujący |  |
 | [WDU20180000502](WDU20180000502/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 5 marca | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180000501](WDU20180000501/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2018 r. zmieniające  | Rozporządzenie | obowiązujący |  |
+| [WDU20180000501](WDU20180000501/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2018 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000500](WDU20180000500/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 22 lutego 2018 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000498](WDU20180000498/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2018 r. w sprawie pa | Rozporządzenie | obowiązujący |  |
 | [WDU20180000495](WDU20180000495/index.md) | Obwieszczenie Ministra Finansów z dnia 22 lutego 2018 r. w sprawie ogłoszen | Obwieszczenie | obowiązujący |  |
@@ -9915,7 +9915,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20170002025](WDU20170002025/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 11 października 2017 r. zmieniają | Rozporządzenie | obowiązujący |  |
 | [WDU20170002023](WDU20170002023/index.md) | Rozporządzenie Rady Ministrów z dnia 17 października 2017 r. w sprawie wspó | Rozporządzenie | obowiązujący |  |
 | [WDU20170002009](WDU20170002009/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 20 października 2017 r. zmieniają | Rozporządzenie | obowiązujący |  |
-| [WDU20170002008](WDU20170002008/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6  | Rozporządzenie | obowiązujący |  |
+| [WDU20170002008](WDU20170002008/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20170002007](WDU20170002007/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 19 paźd | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20170002005](WDU20170002005/index.md) | Rozporządzenie Ministra Zdrowia z dnia 20 października 2017 r. w sprawie wy | Rozporządzenie | obowiązujący |  |
 | [WDU20170002002](WDU20170002002/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 października 2017 r. sygn. akt K  | Orzeczenie | obowiązujący |  |
@@ -10150,7 +10150,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20170001529](WDU20170001529/index.md) | Ustawa z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20170001525](WDU20170001525/index.md) | Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 28 lipca 2017 r | Rozporządzenie | obowiązujący |  |
 | [WDU20170001524](WDU20170001524/index.md) | Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w och | Ustawa | obowiązujący |  |
-| [WDU20170001522](WDU20170001522/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 2 sierpnia 2017 r. zmieniają | Rozporządzenie | obowiązujący |  |
+| [WDU20170001522](WDU20170001522/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 2 sierpnia 2017 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20170001521](WDU20170001521/index.md) | Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o ochronie zdrowia zwierząt | Ustawa | obowiązujący |  |
 | [WDU20170001518](WDU20170001518/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 24 lipca 2017 r. zmieniaj | Rozporządzenie | obowiązujący |  |
 | [WDU20170001513](WDU20170001513/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -10836,7 +10836,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160002232](WDU20160002232/index.md) | Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 20 grudnia 2016 | Rozporządzenie | obowiązujący |  |
 | [WDU20160002229](WDU20160002229/index.md) | Rozporządzenie Rady Ministrów z dnia 21 grudnia 2016 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20160002228](WDU20160002228/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 2016  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20160002226](WDU20160002226/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 2016 r. zmieniają | Rozporządzenie | obowiązujący |  |
+| [WDU20160002226](WDU20160002226/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 2016 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20160002224](WDU20160002224/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 2016 r. w sprawie | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20160002222](WDU20160002222/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 20 grudnia 2016 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20160002220](WDU20160002220/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 14 grudnia 2016 r. w spra | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -11248,7 +11248,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160001292](WDU20160001292/index.md) | Rozporządzenie Ministra Finansów z dnia 18 sierpnia 2016 r. w sprawie wzoru | Rozporządzenie | obowiązujący |  |
 | [WDU20160001291](WDU20160001291/index.md) | Rozporządzenie Ministra Finansów z dnia 17 sierpnia 2016 r. w sprawie odrac | Rozporządzenie | obowiązujący |  |
 | [WDU20160001290](WDU20160001290/index.md) | Rozporządzenie Ministra Finansów z dnia 17 sierpnia 2016 r. w sprawie wnios | Rozporządzenie | obowiązujący |  |
-| [WDU20160001287](WDU20160001287/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2016 r.  | Rozporządzenie | obowiązujący |  |
+| [WDU20160001287](WDU20160001287/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2016 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20160001284](WDU20160001284/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 sierpnia 2016 r. w | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20160001282](WDU20160001282/index.md) | Umowa o współpracy w zakresie Globalnego Systemu Nawigacji Satelitarnej (GN | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20160001281](WDU20160001281/index.md) | Rozporządzenie Ministra Finansów z dnia 8 sierpnia 2016 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -12662,7 +12662,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150000070](WDU20150000070/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150000069](WDU20150000069/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150000068](WDU20150000068/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20150000067](WDU20150000067/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. zmieniaj | Rozporządzenie | obowiązujący |  |
+| [WDU20150000067](WDU20150000067/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20150000060](WDU20150000060/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2014 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20150000058](WDU20150000058/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 30 grudnia 2014 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20150000056](WDU20150000056/index.md) | Rozporządzenie Rady Ministrów z dnia 2 grudnia 2014 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |

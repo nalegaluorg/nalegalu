@@ -86,7 +86,7 @@ b) ust. 2 otrzymuje brzmienie: „2. W celu doręczenia pism, których tłumacze
 29) po § 70 dodaje się § 70 i 70 w brzmieniu: „§ 70 . 1. Przekazując Ministrowi Sprawiedliwości odpis prawomocnego postanowienia, o którym mowa w art. 603 § 1 Kodeksu postępowania karnego, i akta sprawy, sąd dołącza informację o stosowanym wobec osoby ściganej środku zapobiegawczym i okresie jego trwania.
 2. Odpis postanowienia Ministra Sprawiedliwości wydanego w wyniku rozstrzygnięcia wniosku państwa obcego sąd w razie potrzeby tłumaczy na właściwy język i wraz z tłumaczeniem doręcza osobie, której dotyczy wniosek, jej obrońcy i prokuratorowi.
 3. Sąd przesyła niezwłocznie Ministrowi Sprawiedliwości dowód doręczenia korespondencji, o której mowa w ust. 2.
-§ 70 . 1. W przypadku postanowienia o wydaniu osoby ściganej lub skazanej sąd ustala miejsce i datę przekazania tej osoby właściwym organom państwa wzywającego i podejmuje czynności niezbędne dla wykonania postanowienia. Przepisy § 40–45 stosuje się odpowiednio.
+§ 70 2 . 1. W przypadku postanowienia o wydaniu osoby ściganej lub skazanej sąd ustala miejsce i datę przekazania tej osoby właściwym organom państwa wzywającego i podejmuje czynności niezbędne dla wykonania postanowienia. Przepisy § 40–45 stosuje się odpowiednio.
 2. O miejscu i dacie przekazania sąd zawiadamia niezwłocznie Ministra Sprawiedliwości.”;
 30) załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 31) uchyla się załącznik nr 19.

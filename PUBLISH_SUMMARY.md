@@ -1,16 +1,16 @@
 # Publish Summary
 
-Generated: 2026-07-06 07:10 UTC
+Generated: 2026-07-06 20:42 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published public acts | 18708 |
-| Updated/new | 319 |
-| Unchanged | 11262 |
+| Updated/new | 64 |
+| Unchanged | 15364 |
 | Skipped incomplete orzeczenia | 0 |
-| Skipped regressions | 6618 |
+| Skipped regressions | 2771 |
 | Blocked by quality gate | 667 |
 | Rejected (total incl. errors) | 397 |
 | Total in DB | 19676 |
@@ -22,7 +22,7 @@ Generated: 2026-07-06 07:10 UTC
 | Published | 18708 | 18708 | 0 |
 | Rejected | 395 | 397 | +2 |
 | Articles | 209681 | 209690 | +9 |
-| Body chars | 570,475,140 | 570,516,869 | +41729 |
+| Body chars | 570,475,140 | 570,531,983 | +56843 |
 
 ## Quality gate breakdown
 
@@ -95,8 +95,8 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 11736 |
-| akt objęty tekstem jednolitym | 5075 |
+| obowiązujący | 11721 |
+| akt objęty tekstem jednolitym | 5090 |
 | akt posiada tekst jednolity | 1887 |
 | akt jednorazowy | 10 |
 
@@ -146,14 +146,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 
 | Issue | Count |
 |-------|------:|
-| Original PDF candidate for unified act | 4941 |
-
-## Newly rejected (2)
-
-| Address | Reason |
-|---------|--------|
-| WDU19981060668 | rendered round-trip failed: AST=157 rendered=157 dup_rendere |
-| WDU20180000650 | rendered round-trip failed: AST=298 rendered=298 dup_rendere |
+| Original PDF candidate for unified act | 1084 |
 
 ## Blocked acts (667)
 

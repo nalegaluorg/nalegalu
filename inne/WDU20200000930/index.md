@@ -37,7 +37,9 @@ wprowadza się następujące zmiany:
 $ 2. Rozporządzenie wchodzi w życie z dniem 28 maja 2020 r.
 Minister Spraw Wewnętrznych i Administracji: wz. P.
 D_- Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej — sprawy wewnętrzne, na podstawie pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Załączniki do rozporządzenia Ministra Spraw i Administracji z dnia 21 maja 2020 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Spraw i Administracji z dnia 21 maja 2020 r. (poz.
+
 Załącznik WZÓR Rzeczpospo li t a E L / Z P S / 1 Po lska Zgłoszenie pobytu stałego / Permanent residence registration form
 1. | WYPEŁNIAJ WIELKIMI LITERAMI / FILL IN CAPITAL LETTERS
 2. Pola wyboru zaznaczaj / Mark selection boxes with KA lub/ or Łś

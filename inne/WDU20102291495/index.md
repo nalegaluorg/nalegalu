@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o towarach paczkowanych
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o towarach paczkowanych
 
 *USTAWA z dnia 22 października 2010 r.*
 

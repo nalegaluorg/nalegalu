@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l p
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy - Prawo upadłościowe i naprawcze
 
 | Pole | Wartość |
 |---|---|

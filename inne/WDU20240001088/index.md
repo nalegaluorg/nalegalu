@@ -35,7 +35,9 @@ zmieniające rozporządzenie w sprawie świadectw zdolności żeglugowej Na pods
 Minister Infrastruktury: D. Klimczak
 1) Minister Infrastruktury kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U.
 poz. 2725).
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia Załączniki 17 lipca 2024 do r. rozporządzenia (Dz. U. poz. 1088) Ministra Infrastruktury z dnia 17 lipca 2024 r. Załącznik nr 1 (Dz. U. poz. ……….) WZÓR ŚWIADECTWA ZDOLNOŚCI ŻEGLUGOWEJ Załącznik nr 1 WZÓR ŚWIADECTWA ZDOLNOŚCI ŻEGLUGOWEJ RZECZPOSPOLITA POLSKA REPUBLIK POLEN / REPUBLIC OF POLAND -POLDYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ W .....................................................
+
+## Załącznik nr 1 — (Dz. U. poz. ……….) WZÓR ŚWIADECTWA ZDOLNOŚCI ŻEGLUGOWEJ Załącznik nr 1 WZÓR ŚWIADECTWA ZDOLNOŚCI ŻEGLUGOWEJ RZECZPOSPOLITA POLSKA REPUBLIK POLEN / REPUBLIC OF POLAND -POLDYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ W .....................................................
+
 DIREKTOR DES BINNENSCHIFFFAHRTSAMTES IN DIRECTOR OF INLAND NAVIGATION OFFICE ŚWIADECTWO ZDOLNOŚCI ŻEGLUGOWEJ SCHIFFSATTEST / NAVIGATION CERTIFICATE Nr ..........................................
 No.
 Ausgestellt gem. Resolution Nr. 33 der Hauptarbeitsgruppe Binnenschifffahrt der Organisation der Vereinten Nationen vom 12. November 1992 Issued under the provision of the resolution No. 33 adopted by the Principal Working Party on Inland Water Transport of United Nations on 12 November 1992 l. INFORMACJE OGÓLNE Allgemeine Angaben General Information

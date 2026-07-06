@@ -32,6 +32,7 @@ z 2022 r. poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650) zarządza się, co nas
 a) ust. 1 otrzymuje brzmienie: „1. Podmiotem prowadzącym rejestr jest Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie.”,
 b) w ust. 2: – pkt 6 i 7 otrzymują brzmienie: „6) małopolskim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy Oddział w Krakowie;
 7) mazowieckim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy w Warszawie;”, – pkt 12 otrzymuje brzmienie: „12) śląskim – Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie – Państwowy Instytut Badawczy
+Oddział w Gliwicach;”;
 2) uchyla się § 3 i § 4;
 3) § 5 otrzymuje brzmienie: „§ 5. W rejestrze przetwarza się dane i identyfikatory, które obejmują:
 1) dane osobowe dotyczące usługobiorcy:
@@ -90,6 +91,4 @@ b) pkt 1 lit. f oraz pkt 2 lit. a tiret dziewiąte, lit. d tiret trzecie–piąt
 § 3. Podmiot prowadzący rejestr poinformuje podmioty, o których mowa w § 5a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, o terminie, w którym dane i identyfikatory, o których mowa w § 5 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, przekazuje się po raz pierwszy, jednak nie później niż w terminie do dnia 30 września 2023 r.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Zdrowia: wz. W. Kraska
-
-##### Oddział w Gliwicach;”;
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
 
 *USTAWA z dnia 22 lipca 2010 r.*
 

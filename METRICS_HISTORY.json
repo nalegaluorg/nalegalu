@@ -561,7 +561,7 @@
     "date": "2026-07-06",
     "published": 18708,
     "rejected": 397,
-    "total_body_chars": 570516869,
+    "total_body_chars": 570531983,
     "total_articles": 209690,
     "sources": {
       "pdf": 18464,
@@ -586,8 +586,8 @@
       "Oświadczenie": 1
     },
     "statuses": {
-      "obowiązujący": 11736,
-      "akt objęty tekstem jednolitym": 5075,
+      "obowiązujący": 11721,
+      "akt objęty tekstem jednolitym": 5090,
       "akt posiada tekst jednolity": 1887,
       "akt jednorazowy": 10
     },

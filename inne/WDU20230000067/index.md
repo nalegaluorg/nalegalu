@@ -56,7 +56,7 @@ b) w pkt 5: – lit. a–d otrzymują brzmienie: „a) poz. 50 zeznania o wysoko
 b) poz. 61, 63, 65 lub 125 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-36) albo poz. 62, 64, 66 lub 187, jeżeli podatnik, płatnik lub podmiot w zeznaniu występuje jako małżonek,
 c) poz. 21 lub 26 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-36L),
 d) poz. 36, 38, 40 lub 72 zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym (PIT-37) albo poz. 37, 39, 41 lub 106, jeżeli podatnik, płatnik lub podmiot w zeznaniu występuje jako małżonek,”, – lit. g otrzymuje brzmienie: „g) poz. 36 lub 38 rocznego obliczenia podatku przez organ rentowy za rok podatkowy (PIT-40A)”, – uchyla się lit. h.
-§ 2. Deklaracje, o których mowa w § 8 pkt 9b i § 11 pkt 38b rozporządzenia zmienianego w § 1, przesyłane po dniu 31 grudnia 2022 r. za okresy rozliczeniowe przypadające od trzeciego kwartału 2021 r. do czwartego kwartału 2022 r., mogą być opatrywane podpisem elektronicznym, o którym mowa odpowiednio w § 4 pkt 3 albo 5 rozporządzenia zmienianego w § 1.
+§ 2. Deklaracje, o których mowa w § 8 pkt 9b i § 11 pkt 38b rozporządzenia zmienianego w § 1, przesyłane po dniu 31 grudnia 2022 r. za okresy rozliczeniowe przypadające od trzeciego kwartału 2021 r. do czwartego kwartału 2022 r., mogą być opatrywane podpisem elektronicznym, o którym mowa odpowiednio w § 4 pkt 3 albo 5 rozporządzenia zmienianego § 1.
 § 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2023 r., z wyjątkiem § 1 pkt 5 lit. c, pkt 6 lit. b tiret drugie w zakresie § 10 pkt 3 lit. bc oraz pkt 7 lit. d, które wchodzą w życie z dniem 13 lutego 2023 r.
 Minister Finansów: wz. A. Soboń
 

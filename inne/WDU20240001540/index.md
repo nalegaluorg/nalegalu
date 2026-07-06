@@ -62,7 +62,8 @@ a) tytuł otrzymuje brzmienie: „Maksymalne wartości wysokości i nachylenia o
 b) tabela 2 „Parametry powierzchni wznoszenia dla dróg startowych przeznaczonych do startu” otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
 18) tytuł załącznika nr 5 do rozporządzenia otrzymuje brzmienie: „Sposób oznakowania dziennego przez pomalowanie przeszkody lotniczej otoczonej zabudową lub lasem”.
 § 2. 1. Zgłoszenia stacji gazowych, o których mowa w § 59 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, użytkowanych przed dniem wejścia w życie niniejszego rozporządzenia, dokonuje się w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-2. Do zgłoszenia, o którym mowa w ust. 1, stosuje się § 55 ust. 1, 2 i ust. 4 pkt 1–8 i 10 rozporządzenia zmienianego w § 1.
+2. Do zgłoszenia, o którym mowa w ust. 1, stosuje się § 55 ust. 1, 2 i ust. 4 pkt 1–8 i 10 rozporządzenia zmienianego
+§ 1.
 § 3. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia dotyczących zwolnienia z obowiązku oznakowania przeszkody lotniczej albo zezwolenia na zmianę sposobu lub rodzaju jej oznakowania stosuje się przepisy dotychczasowe.
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Infrastruktury: wz. A. Marchewka Załącznik do rozporządzenia Ministra Infrastruktury z dnia 7 października 2024 r. (Dz. U.

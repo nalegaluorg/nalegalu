@@ -30,7 +30,9 @@ zmieniające rozporządzenie w sprawie wzorów pełnomocnictw do podpisywania de
 § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 Minister Rozwoju i Finansów: wz. W. Janczyk
 1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
-Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lutego 2017 r. (poz. 333) Załącznik nr Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia ………………. (poz……….) Załącznik nr 1
+
+## Załącznik nr 1
+
 1. Identyfikator podatkowy NIP / numer PESEL podatnika, płatnika lub inkasenta UPL-1P PEŁNOMOCNICTWO DO PODPISYWANIA DEKLARACJI SKŁADANEJ W POSTACI PAPIEROWEJ 2. Kolejny nr egz. / ogółem liczba egzemplarzy Podstawa prawna: Art. 80a § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201).
 Składający: Podatnik, płatnik lub inkasent udzielający pełnomocnictwa do podpisywania deklaracji.
 Miejsce składania: Organ podatkowy właściwy w sprawach podatku, którego dana deklaracja dotyczy, a jeżeli pełnomocnictwo jest składane w formie dokumentu elektronicznego Szef Krajowej Administracji Skarbowej.

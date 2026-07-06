@@ -33,7 +33,9 @@ poz. 1984 oraz z 2019 r. poz. 730) zarządza się, co następuje:
 § 2. Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do terminu następnej kontroli wskazanej w tych protokołach.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Inwestycji i Rozwoju: J. Kwieciński Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
-Załączniki do rozporządzenia Ministra Inwestycji i Rozwoju z dnia 6 września 2019 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Inwestycji i Rozwoju z dnia 6 września 2019 r. (poz.
+
 ……) Załącznik nr 1 Załącznik Nr 1 WZóR PRotokołU Z koNtRolI systeMU ogRZeWaNIa Wzór protokołu z kontroli systemu ogrzewania PROTOKÓŁ Z KONTROLI SYSTEMU OGRZEWANIA Numer protokołu Dane identyfikacyjne budynku Rodzaj budynku Przeznaczenie budynku Adres budynku Rok oddania budynku do użytkowania Powierzchnia całkowita budynku Kubatura budynku tak (nr świadectwa w wykazie ……………. ) Świadectwo charakterystyki energetycznej budynku brak pełna Dokumentacja techniczna budynku częściowa brak Roczne projektowe obciążenie cieplne …………….. kWh/rok Dane identyfikacyjne systemu ogrzewania wraz z oceną sprawności systemu i dostosowania go do potrzeb użytkowych budynku
 1. Ogólne informacje dotyczące systemu ogrzewania Rok wykonania systemu ogrzewania Liczba kotłów podstawowych Liczba kotłów rezerwowych Całkowita nominalna moc zainstalowanych kotłów …………….. kW Rodzaj paliwa kolektory słoneczne pompa ciepła kominek Alternatywne źródło ciepła piec kaflowy energia elektryczna inne ……………….
 brak Temperatura obliczeniowa: T /T …………….. ºC regularna Częstotliwość przeglądów i konserwacji wg potrzeb brak

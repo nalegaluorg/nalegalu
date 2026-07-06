@@ -39,7 +39,9 @@ b) przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;”;
 § 3. Rozporządzenie wchodzi w życie z dniem 30 czerwca 2014 r.
 Minister Pracy i Polityki Społecznej: wz. J. Duda Minister Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. Nr 248, poz. 1485).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598.
-Załączniki do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 24 czerwca 2014 r. (poz. 853) Załącznik nr 1 WZÓR Załącznik nr 1 Wn-U-G Wniosek osoby niepełnosprawnej wykonującej działalność gospodarczą o wypłatę refundacji składek na ubezpieczenia społeczne A. Dane o dokumencie
+
+## Załącznik nr 1 — WZÓR Załącznik nr 1 Wn-U-G Wniosek osoby niepełnosprawnej wykonującej działalność gospodarczą o wypłatę refundacji składek na ubezpieczenia społeczne A. Dane o dokumencie
+
 1. Rodzaj dokumentu    B. Dane ewidencyjne wnioskodawcy 2. Numer w rejestrze PFRON
 3. NIP 4. NIP płatnika składek 5. REGON 6. PESEL
 7. Pełna nazwa płatnika składek 8. Nazwisko 9. Pierwsze imię

@@ -33,7 +33,9 @@ zmieniające rozporządzenie w sprawie refundacji składek na ubezpieczenia spo�
 2. Korekt wniosków o wypłatę refundacji składek za okresy począwszy od dnia 1 stycznia 2009 r. dokonuje się, składając wnioski według wzorów określonych niniejszym rozporządzeniem.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
-Załączniki do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 20 czerwca 2018 r. (poz. 1245) Załącznik nr 1 WzóR Wzór Załącznik nr 1 Wn-U-G Wniosek osoby niepełnosprawnej wykonującej działalność gospodarczą o wypłatę refundacji składek na ubezpieczenia społeczne A. Dane o dokumencie
+
+## Załącznik nr 1 — WzóR Wzór Załącznik nr 1 Wn-U-G Wniosek osoby niepełnosprawnej wykonującej działalność gospodarczą o wypłatę refundacji składek na ubezpieczenia społeczne A. Dane o dokumencie
+
 1. Rodzaj dokumentu    B. Dane ewidencyjne wnioskodawcy 2. Numer w rejestrze PFRON
 3. NIP 4. NIP płatnika składek 5. REGON 6. PESEL
 7. Pełna nazwa płatnika składek 8. Nazwisko 9. Pierwsze imię
